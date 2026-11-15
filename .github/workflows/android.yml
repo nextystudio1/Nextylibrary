@@ -33,6 +33,24 @@ jobs:
           fi
           "$SDKMANAGER" --licenses </dev/null || true
           "$SDKMANAGER" "platform-tools" "platforms;android-36" "build-tools;36.0.0"
+      - name: Validate bundled learning books
+        shell: bash
+        run: |
+          set -euo pipefail
+          books=(
+            app/src/main/assets/books/sejarah-kemerdekaan.txt
+            app/src/main/assets/books/berpikir-kritis-digital.txt
+            app/src/main/assets/books/gizi-seimbang.txt
+            app/src/main/assets/books/tata-surya.txt
+            app/src/main/assets/books/ekosistem-iklim.txt
+            app/src/main/assets/books/literasi-keuangan.txt
+          )
+          for book in "${books[@]}"; do
+            test -s "$book" || { echo "Naskah kosong/tidak ditemukan: $book"; exit 1; }
+            bytes=$(wc -c < "$book")
+            test "$bytes" -ge 10000 || { echo "Naskah terlalu pendek: $book ($bytes byte)"; exit 1; }
+            echo "OK: $book ($bytes byte)"
+          done
       - name: Build debug APK
         run: gradle assembleDebug
       - name: Upload APK

@@ -278,3 +278,27 @@ Rujukan dicantumkan untuk pendalaman; naskah ini disusun secara orisinal oleh Ti
 
 PENUTUP
 Biologi memperlihatkan bahwa kehidupan tersusun dari sistem yang saling terhubung. Dari molekul hingga ekosistem, perubahan pada satu tingkat dapat memengaruhi tingkat lain. Sikap ilmiah berarti mengamati dengan teliti, membedakan bukti dari dugaan, menghargai kehidupan, dan menjaga lingkungan.
+
+PENDALAMAN: KEANEKARAGAMAN, EVOLUSI, DAN FUNGSI ORGANISME
+BAB 7 — KLASIFIKASI DAN KERAGAMAN HAYATI
+Klasifikasi mengelompokkan organisme berdasarkan ciri dan hubungan kekerabatan. Sistem modern menggunakan bukti morfologi, anatomi, fosil, perkembangan, dan data molekuler. Nama ilmiah membantu ilmuwan lintas bahasa merujuk organisme yang sama.
+Kemiripan bentuk tidak selalu berarti kekerabatan dekat karena evolusi konvergen dapat menghasilkan ciri serupa pada garis keturunan berbeda. Pohon filogenetik merupakan hipotesis hubungan evolusi yang dapat berubah ketika bukti baru ditemukan.
+BAB 8 — SELEKSI ALAM DAN ADAPTASI
+Dalam populasi terdapat variasi yang dapat diwariskan. Jika variasi tertentu memengaruhi peluang bertahan hidup dan reproduksi dalam lingkungan tertentu, frekuensinya dapat berubah antargenerasi. Seleksi alam tidak memiliki tujuan yang telah ditentukan dan tidak menghasilkan organisme yang sempurna.
+Adaptasi merupakan ciri yang meningkatkan keberhasilan reproduksi dalam konteks lingkungan tertentu. Perubahan lingkungan dapat membuat ciri yang sebelumnya menguntungkan menjadi kurang sesuai. Evolusi terjadi pada populasi dari generasi ke generasi, bukan karena individu sengaja mengubah gennya.
+BAB 9 — POPULASI DAN INTERAKSI EKOLOGIS
+Populasi dipengaruhi kelahiran, kematian, imigrasi, dan emigrasi. Sumber daya, penyakit, predator, dan iklim dapat membatasi pertumbuhan. Model pertumbuhan sederhana membantu memahami pola, tetapi kondisi lapangan biasanya lebih kompleks.
+Interaksi antarorganisme mencakup kompetisi, predasi, parasitisme, mutualisme, dan komensalisme. Dampaknya bergantung pada kondisi dan dapat berubah ketika lingkungan berubah.
+BAB 10 — FISIOLOGI DAN HOMEOSTASIS
+Organisme mempertahankan kondisi internal melalui mekanisme pengaturan. Suhu, kadar air, glukosa, dan keseimbangan ion dikendalikan melalui sistem umpan balik. Pada umpan balik negatif, perubahan memicu respons yang mengurangi penyimpangan dari kisaran yang sesuai.
+Sistem saraf, hormon, ginjal, paru-paru, dan organ lain bekerja bersama. Homeostasis bukan berarti nilai selalu tetap, melainkan dijaga dalam rentang dinamis.
+BAB 11 — MIKROORGANISME DAN KESEHATAN LINGKUNGAN
+Bakteri, jamur, protista, dan virus memiliki karakter biologis yang berbeda. Banyak mikroorganisme bermanfaat dalam penguraian, fermentasi, dan hubungan simbiosis. Sebagian dapat menyebabkan penyakit, tetapi keberadaan mikroorganisme tidak selalu berarti bahaya.
+Kebersihan, sanitasi, vaksinasi, dan penggunaan obat sesuai petunjuk tenaga kesehatan membantu mengurangi risiko penyakit. Antibiotik bekerja terhadap bakteri, bukan virus, dan penggunaan yang tidak tepat dapat mendorong resistansi.
+BAB 12 — KONSERVASI DAN ETIKA BIOLOGI
+Konservasi melindungi spesies, habitat, dan proses ekologis. Pendekatan dapat dilakukan di habitat asli maupun melalui program di luar habitat. Keberhasilan memerlukan pemantauan, dukungan masyarakat, dan pemahaman kebutuhan ekologis.
+Penelitian biologi perlu memperhatikan kesejahteraan hewan, keselamatan, privasi, dan dampak lingkungan. Data harus disajikan secara jujur, termasuk ketidakpastian dan keterbatasan metode.
+LATIHAN
+1. Mengapa adaptasi tidak berarti organisme sempurna? Jawaban: adaptasi berkaitan dengan lingkungan tertentu dan selalu memiliki batas serta kompromi.
+2. Apa yang dimaksud homeostasis? Jawaban: pengaturan kondisi internal dalam kisaran yang mendukung fungsi organisme.
+3. Mengapa antibiotik tidak digunakan untuk mengobati virus? Jawaban: antibiotik menargetkan struktur atau proses bakteri yang tidak dimiliki virus.

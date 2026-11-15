@@ -57,3 +57,26 @@ Sumber primer: bukti atau catatan langsung dari peristiwa atau pengukuran.
 
 CATATAN PENULIS
 Naskah orisinal edukasi umum oleh Nexty Studio. Materi ini merupakan pengantar pembelajaran dan bukan pengganti pemeriksaan profesional untuk isu hukum, kesehatan, atau keselamatan.
+
+PENDALAMAN: MEMBACA MEDIA DAN MEMERIKSA INFORMASI
+BAB 7 — EKOSISTEM MEDIA DAN MODEL BISNIS
+Media bekerja dalam ekosistem yang melibatkan redaksi, pemilik, pengiklan, platform distribusi, pembuat konten, dan audiens. Model bisnis memengaruhi jenis konten yang diproduksi dan cara perhatian audiens diukur. Konten yang banyak dibagikan belum tentu paling akurat atau paling bermanfaat.
+Algoritma rekomendasi dapat menampilkan materi berdasarkan riwayat interaksi. Akibatnya, pengguna mungkin melihat pilihan informasi yang sempit. Cari sumber berbeda secara sengaja dan bedakan popularitas dari kredibilitas.
+BAB 8 — MEMERIKSA SUMBER DAN KLAIM
+Mulailah dengan mengidentifikasi klaim yang dapat diuji. Cari sumber asli, bukan hanya unggahan yang mengutip unggahan lain. Periksa siapa penulisnya, keahlian yang relevan, bukti yang disajikan, tanggal, dan kemungkinan konflik kepentingan.
+Satu sumber yang tampak profesional tetap dapat keliru. Bandingkan dengan dokumen primer atau lembaga yang memiliki kompetensi pada topik. Jika bukti belum cukup, nyatakan bahwa klaim belum terverifikasi.
+BAB 9 — GAMBAR, VIDEO, DAN KONTEKS
+Foto dan video dapat dipotong, diberi keterangan keliru, atau diambil dari peristiwa lama. Periksa petunjuk visual, lokasi, cuaca, papan nama, serta tanggal unggahan pertama jika tersedia. Pencarian gambar terbalik dapat menemukan versi lebih lama.
+Konten sintetis dan hasil manipulasi semakin mudah dibuat. Detektor otomatis tidak selalu akurat. Gunakan beberapa petunjuk dan jangan menyimpulkan keaslian hanya dari satu alat.
+BAB 10 — STATISTIK DALAM PEMBERITAAN
+Persentase perlu disertai jumlah dasar. Kenaikan dari satu menjadi dua kasus berarti naik 100 persen, tetapi jumlah absolutnya tetap kecil. Grafik dengan sumbu yang dipotong dapat memberi kesan perubahan yang berlebihan.
+Perhatikan apakah survei memiliki sampel representatif, bagaimana pertanyaan dirumuskan, kapan data dikumpulkan, dan siapa yang membiayai. Margin galat tidak mengatasi bias sampel atau pertanyaan yang buruk.
+BAB 11 — BIAS KOGNITIF DAN RUANG GEMA
+Manusia cenderung lebih mudah menerima informasi yang sesuai keyakinan awal. Kecenderungan ini disebut bias konfirmasi. Ruang gema muncul ketika seseorang berulang kali menerima pandangan serupa dan jarang menjumpai koreksi.
+Cara menguranginya adalah mencari bukti yang berpotensi membantah dugaan sendiri, membaca sumber dengan sudut pandang berbeda, dan memisahkan kritik terhadap klaim dari penilaian terhadap orang.
+BAB 12 — ETIKA BERBAGI DAN KOREKSI
+Sebelum meneruskan informasi, pikirkan manfaat, risiko, privasi orang yang terlibat, dan kemungkinan salah konteks. Hindari menyebarkan identitas korban atau anak tanpa alasan yang sah. Jika membuat kesalahan, koreksi dengan jelas dan jangan menghapus jejak koreksi seolah tidak pernah terjadi.
+LATIHAN
+1. Mengapa jumlah dasar penting saat membaca persentase? Jawaban: persentase yang sama dapat mewakili jumlah absolut yang sangat berbeda.
+2. Apa itu bias konfirmasi? Jawaban: kecenderungan mencari atau menafsirkan bukti yang mendukung keyakinan awal.
+3. Mengapa video lama bisa menyesatkan? Jawaban: karena konteks waktu dan tempat dapat diganti dengan keterangan baru.

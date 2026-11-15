@@ -1,0 +1,280 @@
+BIOLOGI KEHIDUPAN
+Mengenal Sel, Tubuh, Keanekaragaman, Ekosistem, dan Evolusi
+Penulis: Tim Edukasi Nexty Studio
+Edisi pertama, 2026
+
+PENGANTAR
+Biologi mempelajari kehidupan pada berbagai tingkat, mulai dari molekul dan sel hingga organisme, populasi, ekosistem, dan biosfer. Kehidupan sangat beragam, tetapi makhluk hidup memiliki proses dasar yang saling berkaitan. Buku ini menyajikan pengantar biologi dengan contoh sehari-hari, latihan, dan kegiatan pengamatan yang aman.
+
+DAFTAR ISI
+1. Ciri dan Tingkat Organisasi Kehidupan
+2. Kimia Kehidupan
+3. Sel sebagai Unit Kehidupan
+4. Membran dan Transportasi Zat
+5. Energi, Enzim, dan Metabolisme
+6. Fotosintesis dan Respirasi Sel
+7. DNA, Gen, dan Pewarisan Sifat
+8. Evolusi dan Keanekaragaman
+9. Mikroorganisme dan Kesehatan
+10. Sistem Tubuh Manusia
+11. Tumbuhan dan Adaptasi
+12. Ekologi dan Ekosistem
+13. Lingkungan dan Konservasi
+14. Metode Ilmiah dalam Biologi
+Lampiran: Glosarium, Latihan, Proyek Pengamatan
+
+BAB 1. CIRI DAN TINGKAT ORGANISASI KEHIDUPAN
+Makhluk hidup memiliki ciri yang dapat diamati sebagai satu kesatuan: tersusun atas sel, menggunakan energi, menjaga kondisi internal, tumbuh dan berkembang, merespons lingkungan, serta memiliki kemampuan reproduksi pada tingkat organisme atau populasi. Tidak setiap ciri mudah terlihat pada setiap tahap kehidupan, sehingga pengenalan kehidupan menggunakan gabungan bukti.
+
+Kehidupan dapat dipelajari pada tingkat molekul, organel, sel, jaringan, organ, sistem organ, organisme, populasi, komunitas, ekosistem, dan biosfer. Setiap tingkat memiliki sifat yang muncul dari interaksi bagian-bagiannya. Misalnya, jantung terdiri atas jaringan yang bekerja bersama, sedangkan fungsi peredaran darah muncul dari kerja jantung, pembuluh, dan darah.
+
+Organisme berinteraksi dengan lingkungan biotik, yaitu makhluk hidup lain, dan lingkungan abiotik seperti air, cahaya, suhu, serta tanah. Perubahan pada satu bagian dapat memengaruhi bagian lain. Karena itu, biologi menggabungkan pengamatan detail dengan pemahaman sistem.
+
+RANGKUMAN
+• Sel adalah unit dasar kehidupan.
+• Kehidupan memiliki organisasi bertingkat.
+• Organisme berinteraksi dengan faktor biotik dan abiotik.
+LATIHAN
+Susun urutan tingkat organisasi dari sel hingga biosfer dan berikan satu contoh tiap tingkat.
+
+BAB 2. KIMIA KEHIDUPAN
+Makhluk hidup tersusun atas unsur seperti karbon, hidrogen, oksigen, nitrogen, fosfor, dan sulfur. Atom-atom bergabung membentuk molekul. Air sangat penting karena menjadi pelarut bagi banyak reaksi, membantu mengatur suhu, dan terlibat dalam proses biologis.
+
+Karbohidrat menyediakan energi dan dapat menjadi bahan penyusun struktur. Lipid berperan sebagai cadangan energi, komponen membran, dan molekul pengatur. Protein tersusun dari asam amino dan memiliki fungsi beragam, termasuk sebagai enzim, pengangkut, dan penyusun struktur. Asam nukleat seperti DNA dan RNA menyimpan serta menggunakan informasi genetik.
+
+Struktur molekul berkaitan dengan fungsi. Perubahan suhu atau tingkat keasaman dapat memengaruhi bentuk protein dan aktivitasnya. Zat gizi diperlukan dalam jumlah dan peran yang berbeda. Tidak ada satu zat yang dapat menggantikan seluruh fungsi zat lain.
+
+RANGKUMAN
+• Air mendukung banyak proses kehidupan.
+• Karbohidrat, lipid, protein, dan asam nukleat memiliki fungsi berbeda.
+• Struktur molekul berkaitan dengan fungsinya.
+LATIHAN
+Mengapa protein tidak dapat dianggap hanya sebagai sumber energi?
+
+BAB 3. SEL SEBAGAI UNIT KEHIDUPAN
+Teori sel menyatakan bahwa makhluk hidup tersusun atas sel, sel merupakan unit dasar struktur dan fungsi kehidupan, dan sel berasal dari sel yang telah ada. Organisme uniseluler hanya terdiri atas satu sel, sedangkan organisme multiseluler memiliki banyak sel dengan fungsi khusus.
+
+Sel prokariotik tidak memiliki inti bermembran; materi genetiknya berada di wilayah nukleoid. Bakteri dan arkea termasuk kelompok prokariotik. Sel eukariotik memiliki inti dan organel bermembran, seperti sel hewan, tumbuhan, jamur, dan protista.
+
+Membran sel membatasi bagian dalam sel. Sitoplasma menjadi tempat berbagai proses. Inti menyimpan sebagian besar DNA pada sel eukariotik. Mitokondria terlibat dalam respirasi sel. Kloroplas pada tumbuhan dan alga melakukan fotosintesis. Ribosom menyusun protein. Retikulum endoplasma dan badan Golgi berperan dalam pemrosesan serta pengiriman molekul.
+
+Sel tumbuhan memiliki dinding sel dan vakuola besar yang membantu dukungan serta penyimpanan. Sel hewan tidak memiliki dinding sel. Perbedaan struktur mendukung perbedaan fungsi, tetapi semua sel memerlukan energi, bahan baku, dan pengaturan internal.
+
+RANGKUMAN
+• Sel merupakan unit dasar kehidupan.
+• Prokariotik dan eukariotik memiliki organisasi berbeda.
+• Organel memiliki fungsi yang saling mendukung.
+LATIHAN
+Bandingkan dua perbedaan utama sel tumbuhan dan sel hewan.
+
+BAB 4. MEMBRAN DAN TRANSPORTASI ZAT
+Membran sel tersusun terutama dari lapisan ganda fosfolipid dengan protein yang membantu transportasi, komunikasi, dan pengenalan. Membran bersifat selektif permeabel: beberapa zat dapat lewat lebih mudah daripada zat lain.
+
+Difusi adalah perpindahan partikel dari daerah berkonsentrasi lebih tinggi ke lebih rendah akibat gerak acak. Osmosis adalah perpindahan air melalui membran selektif permeabel. Arah perpindahan air bergantung pada perbedaan konsentrasi zat terlarut efektif di kedua sisi membran.
+
+Transportasi pasif tidak memerlukan energi langsung dari sel, misalnya difusi sederhana dan difusi terfasilitasi. Transportasi aktif memerlukan energi untuk memindahkan zat melawan gradien elektrokimia. Pompa ion membantu menjaga perbedaan konsentrasi yang diperlukan untuk fungsi sel.
+
+Sel perlu menjaga keseimbangan air dan ion. Lingkungan yang terlalu pekat atau terlalu encer dapat mengubah volume sel. Prinsip ini menjelaskan mengapa konsentrasi larutan penting dalam proses biologis dan medis.
+
+RANGKUMAN
+• Membran mengatur pertukaran zat.
+• Difusi dan osmosis merupakan transportasi pasif.
+• Transportasi aktif memerlukan energi.
+LATIHAN
+Mengapa air dapat berpindah melalui membran meskipun sel tidak menggunakan energi langsung?
+
+BAB 5. ENERGI, ENZIM, DAN METABOLISME
+Metabolisme adalah keseluruhan reaksi kimia dalam organisme. Reaksi anabolik menyusun molekul lebih kompleks, sedangkan reaksi katabolik menguraikan molekul dan sering melepaskan energi. Sel mengatur reaksi agar berlangsung pada kondisi yang sesuai.
+
+Enzim adalah katalis biologis yang mempercepat reaksi dengan menurunkan energi aktivasi. Enzim tidak habis digunakan dalam reaksi, tetapi aktivitasnya dipengaruhi suhu, pH, konsentrasi substrat, dan kondisi lingkungan. Setiap enzim memiliki kondisi kerja yang sesuai; perubahan ekstrem dapat mengubah struktur dan fungsinya.
+
+ATP adalah molekul yang berperan dalam pemindahan energi di dalam sel. Energi dari proses penguraian zat dapat digunakan untuk membentuk ATP, lalu ATP mendukung proses seperti transportasi aktif, gerak, dan sintesis molekul.
+
+Jalur metabolisme terdiri atas rangkaian reaksi yang saling terhubung. Pengaturan enzim memungkinkan sel menyesuaikan proses dengan kebutuhan. Umpan balik dapat memperlambat jalur ketika produk sudah cukup.
+
+RANGKUMAN
+• Metabolisme mencakup reaksi penyusunan dan penguraian.
+• Enzim mempercepat reaksi dengan menurunkan energi aktivasi.
+• ATP membantu memindahkan energi dalam sel.
+LATIHAN
+Mengapa enzim tertentu bekerja kurang baik pada suhu yang terlalu tinggi?
+
+BAB 6. FOTOSINTESIS DAN RESPIRASI SEL
+Fotosintesis mengubah energi cahaya menjadi energi kimia yang tersimpan dalam molekul organik. Pada tumbuhan, proses ini berlangsung di kloroplas. Klorofil menyerap sebagian panjang gelombang cahaya. Air dan karbon dioksida digunakan dalam rangkaian reaksi, dan oksigen dilepaskan sebagai hasil samping dari pemecahan air pada reaksi terang.
+
+Secara ringkas, fotosintesis dapat ditulis: karbon dioksida + air + energi cahaya menghasilkan glukosa dan oksigen. Persamaan ini merupakan ringkasan keseluruhan, bukan satu langkah reaksi tunggal. Laju fotosintesis dipengaruhi cahaya, ketersediaan karbon dioksida, suhu, air, dan kondisi daun.
+
+Respirasi sel melepaskan energi kimia dari molekul organik untuk membentuk ATP. Pada respirasi aerob, oksigen berperan sebagai penerima elektron terakhir. Proses melibatkan glikolisis, siklus asam sitrat, dan rantai transpor elektron. Sebagian tahap berlangsung di sitoplasma dan sebagian di mitokondria pada sel eukariotik.
+
+Fotosintesis dan respirasi saling berkaitan dalam aliran materi dan energi ekosistem. Tumbuhan juga melakukan respirasi; fotosintesis tidak berarti tumbuhan hanya menggunakan karbon dioksida dan tidak membutuhkan oksigen.
+
+RANGKUMAN
+• Fotosintesis menyimpan energi cahaya dalam senyawa organik.
+• Respirasi sel membantu menghasilkan ATP.
+• Tumbuhan melakukan fotosintesis dan respirasi.
+LATIHAN
+Jelaskan perbedaan tujuan fotosintesis dan respirasi sel.
+
+BAB 7. DNA, GEN, DAN PEWARISAN SIFAT
+DNA adalah molekul yang menyimpan informasi genetik. Bagian DNA yang berfungsi sebagai unit informasi tertentu disebut gen. DNA tersusun atas nukleotida dengan empat jenis basa. Urutan basa berperan dalam penyimpanan instruksi biologis.
+
+Pada banyak organisme, informasi genetik digunakan melalui proses transkripsi, yaitu pembentukan RNA dari cetakan DNA, dan translasi, yaitu penyusunan protein berdasarkan informasi pada RNA. Tidak semua bagian DNA mengode protein; sebagian memiliki fungsi pengaturan atau fungsi lain.
+
+Kromosom adalah struktur DNA dan protein. Organisme memiliki pola kromosom yang khas. Pada reproduksi seksual, materi genetik dari dua induk berkontribusi pada keturunan melalui sel kelamin. Kombinasi gen dan pengaruh lingkungan menghasilkan variasi sifat.
+
+Mutasi adalah perubahan materi genetik. Mutasi dapat netral, merugikan, atau dalam kondisi tertentu menguntungkan. Pewarisan sifat tidak selalu sederhana; banyak sifat dipengaruhi banyak gen dan lingkungan.
+
+RANGKUMAN
+• DNA menyimpan informasi genetik.
+• Gen merupakan bagian DNA dengan fungsi tertentu.
+• Sifat dapat dipengaruhi gen dan lingkungan.
+LATIHAN
+Apa perbedaan DNA, gen, dan kromosom?
+
+BAB 8. EVOLUSI DAN KEANEKARAGAMAN
+Evolusi adalah perubahan karakteristik yang diwariskan dalam populasi dari generasi ke generasi. Variasi muncul melalui mutasi dan penggabungan ulang materi genetik. Seleksi alam terjadi ketika variasi tertentu memengaruhi keberhasilan bertahan hidup dan reproduksi dalam lingkungan tertentu.
+
+Seleksi alam tidak memiliki tujuan yang telah ditentukan. Sifat yang menguntungkan pada satu lingkungan belum tentu menguntungkan pada lingkungan lain. Perubahan lingkungan dapat mengubah tekanan seleksi. Evolusi berlangsung pada populasi, bukan karena satu individu sengaja mengubah gen untuk menyesuaikan diri.
+
+Bukti evolusi berasal dari fosil, anatomi perbandingan, biogeografi, embriologi, dan data molekuler. Kesamaan urutan DNA dapat membantu memperkirakan hubungan kekerabatan. Keanekaragaman hayati merupakan hasil sejarah panjang perubahan dan percabangan garis keturunan.
+
+Klasifikasi mengelompokkan organisme berdasarkan hubungan dan ciri. Nama ilmiah membantu komunikasi lintas bahasa. Klasifikasi modern terus diperbarui ketika bukti baru tersedia.
+
+RANGKUMAN
+• Evolusi adalah perubahan sifat diwariskan dalam populasi.
+• Seleksi alam bekerja pada variasi yang ada.
+• Banyak jenis bukti mendukung kajian evolusi.
+LATIHAN
+Mengapa evolusi tidak tepat dijelaskan sebagai individu yang berubah karena “ingin” menyesuaikan diri?
+
+BAB 9. MIKROORGANISME DAN KESEHATAN
+Mikroorganisme mencakup bakteri, arkea, jamur mikroskopis, protista, dan berbagai agen biologis lain. Banyak mikroorganisme hidup di tanah, air, tubuh organisme, dan lingkungan ekstrem. Sebagian membantu pencernaan, daur materi, produksi pangan, dan penelitian; sebagian dapat menyebabkan penyakit.
+
+Bakteri adalah organisme prokariotik. Bakteri berkembang biak terutama melalui pembelahan biner. Virus bukan sel dan hanya dapat memperbanyak diri dengan memanfaatkan sel inang. Antibiotik bekerja terhadap sasaran tertentu pada bakteri dan tidak digunakan untuk mengobati infeksi virus.
+
+Mikrobioma adalah komunitas mikroorganisme yang hidup pada suatu lingkungan, termasuk tubuh manusia. Hubungan antara mikroorganisme dan inang dapat saling menguntungkan, netral, atau merugikan. Kesehatan dipengaruhi banyak faktor, sehingga tidak tepat menyimpulkan semua mikroba berbahaya.
+
+Pencegahan penyakit dapat mencakup kebersihan tangan, sanitasi, vaksinasi sesuai anjuran kesehatan, ventilasi, dan penanganan pangan yang aman. Penggunaan obat harus mengikuti arahan tenaga kesehatan dan tidak menggunakan antibiotik tanpa resep yang sesuai.
+
+RANGKUMAN
+• Mikroorganisme memiliki peran yang beragam.
+• Virus berbeda dari organisme seluler.
+• Antibiotik tidak mengobati infeksi virus.
+LATIHAN
+Mengapa penggunaan antibiotik yang tidak tepat dapat menjadi masalah bagi masyarakat?
+
+BAB 10. SISTEM TUBUH MANUSIA
+Tubuh manusia tersusun atas sistem organ yang bekerja bersama. Sistem pencernaan memecah makanan menjadi molekul yang dapat diserap. Sistem pernapasan memungkinkan pertukaran oksigen dan karbon dioksida. Sistem peredaran darah mengangkut gas, nutrisi, hormon, dan sisa metabolisme.
+
+Sistem saraf menerima informasi dan mengoordinasikan respons cepat. Sistem endokrin menggunakan hormon untuk mengatur proses yang sering berlangsung lebih lambat. Sistem gerak melibatkan tulang, sendi, dan otot. Sistem ekskresi membantu menjaga keseimbangan air, ion, dan membuang zat sisa.
+
+Homeostasis adalah pemeliharaan kondisi internal dalam rentang yang sesuai. Tubuh mengatur suhu, kadar glukosa, keseimbangan cairan, dan parameter lain melalui mekanisme umpan balik. Homeostasis bukan berarti nilai selalu tetap, melainkan dikendalikan dalam batas yang memungkinkan fungsi normal.
+
+Sistem organ saling bergantung. Saat berolahraga, kebutuhan energi otot meningkat sehingga pernapasan dan peredaran darah menyesuaikan. Pemahaman sistem tubuh membantu melihat kesehatan sebagai hasil interaksi banyak faktor.
+
+RANGKUMAN
+• Sistem organ bekerja secara terpadu.
+• Homeostasis menjaga kondisi internal dalam rentang sesuai.
+• Kesehatan dipengaruhi interaksi banyak sistem.
+LATIHAN
+Jelaskan kerja sama sistem pernapasan dan peredaran darah saat aktivitas fisik.
+
+BAB 11. TUMBUHAN DAN ADAPTASI
+Tumbuhan memiliki struktur yang mendukung kehidupan di darat maupun air. Akar menyerap air dan mineral serta membantu penopang. Batang mengangkut zat dan menopang daun. Daun menjadi tempat utama fotosintesis pada banyak tumbuhan.
+
+Xilem mengangkut air dan mineral dari akar ke bagian lain, sedangkan floem mengangkut hasil fotosintesis. Stomata merupakan pori yang membantu pertukaran gas dan pengaturan kehilangan air. Pembukaan stomata dipengaruhi kondisi lingkungan dan sinyal dari tumbuhan.
+
+Tumbuhan merespons cahaya, gravitasi, sentuhan, dan ketersediaan air. Tropisme adalah pertumbuhan terarah terhadap rangsangan. Adaptasi merupakan ciri yang diwariskan dan terbentuk melalui proses evolusi pada populasi, bukan perubahan yang muncul karena kebutuhan sesaat individu.
+
+Keanekaragaman tumbuhan mendukung pangan, obat, bahan, habitat, dan kestabilan ekosistem. Pengelolaan tumbuhan perlu memperhatikan habitat asli dan dampak spesies invasif.
+
+RANGKUMAN
+• Akar, batang, dan daun memiliki fungsi yang saling mendukung.
+• Xilem dan floem mengangkut zat.
+• Adaptasi berkembang dalam populasi dari generasi ke generasi.
+LATIHAN
+Mengapa stomata perlu mengatur pertukaran gas sekaligus kehilangan air?
+
+BAB 12. EKOLOGI DAN EKOSISTEM
+Ekologi mempelajari hubungan organisme dengan organisme lain dan lingkungannya. Populasi adalah kumpulan individu satu spesies di suatu wilayah. Komunitas terdiri atas berbagai populasi. Ekosistem mencakup komunitas dan faktor abiotik yang berinteraksi.
+
+Produsen seperti tumbuhan dan alga menangkap energi, umumnya melalui fotosintesis. Konsumen memperoleh energi dengan memakan organisme lain. Pengurai menguraikan sisa organisme dan mengembalikan unsur ke lingkungan. Energi mengalir melalui tingkat trofik dan sebagian terdisipasi sebagai panas, sedangkan materi mengalami daur.
+
+Rantai makanan menggambarkan satu jalur perpindahan energi. Jaring-jaring makanan menunjukkan banyak hubungan yang lebih realistis. Perubahan jumlah satu spesies dapat memengaruhi spesies lain melalui hubungan pemangsaan, kompetisi, atau mutualisme.
+
+Siklus air, karbon, dan nitrogen menghubungkan organisme dengan atmosfer, tanah, dan perairan. Aktivitas manusia dapat mengubah laju siklus tersebut, misalnya melalui pembakaran bahan bakar fosil, perubahan tutupan lahan, dan penggunaan pupuk.
+
+RANGKUMAN
+• Ekosistem menghubungkan faktor hidup dan tak hidup.
+• Energi mengalir, sedangkan materi didaur ulang.
+• Jaring-jaring makanan menggambarkan hubungan kompleks.
+LATIHAN
+Apa perbedaan aliran energi dan daur materi dalam ekosistem?
+
+BAB 13. LINGKUNGAN DAN KONSERVASI
+Keanekaragaman hayati mencakup variasi genetik, spesies, dan ekosistem. Keanekaragaman mendukung fungsi ekosistem dan menyediakan sumber pangan, bahan, serta jasa lingkungan. Hilangnya habitat, pencemaran, eksploitasi berlebihan, spesies invasif, dan perubahan iklim dapat menurunkan keanekaragaman.
+
+Konservasi melindungi spesies dan habitat melalui kawasan lindung, pemulihan ekosistem, pengelolaan berkelanjutan, dan pelibatan masyarakat. Konservasi di luar habitat asli dapat dilakukan melalui kebun botani, bank benih, atau program penangkaran yang bertanggung jawab.
+
+Pencemaran udara, air, dan tanah memiliki dampak yang berbeda. Pengurangan limbah, penggunaan sumber daya secara bijak, pengolahan air limbah, dan transportasi yang lebih rendah emisi dapat membantu mengurangi tekanan lingkungan. Solusi perlu mempertimbangkan kondisi sosial, ekonomi, dan ekologi setempat.
+
+Konservasi bukan hanya tugas ilmuwan. Masyarakat dapat mendukung dengan menjaga habitat lokal, mengurangi sampah, memilih produk secara bertanggung jawab, dan ikut dalam kegiatan pendidikan lingkungan. Tindakan harus berdasarkan informasi yang dapat dipercaya.
+
+RANGKUMAN
+• Keanekaragaman hayati memiliki nilai ekologis dan sosial.
+• Ancaman lingkungan saling berkaitan.
+• Konservasi membutuhkan ilmu dan partisipasi masyarakat.
+LATIHAN
+Pilih satu ekosistem lokal dan identifikasi tiga ancaman serta upaya perlindungannya.
+
+BAB 14. METODE ILMIAH DALAM BIOLOGI
+Biologi menggunakan observasi, eksperimen, survei, analisis laboratorium, dan pemodelan. Pertanyaan penelitian harus spesifik dan dapat diuji. Hipotesis merupakan penjelasan sementara yang menghasilkan prediksi. Hasil yang tidak sesuai hipotesis tetap penting karena dapat membantu memperbaiki pemahaman.
+
+Dalam eksperimen, variabel bebas diubah, variabel terikat diukur, dan variabel kontrol dijaga. Kelompok pembanding membantu memisahkan pengaruh perlakuan dari faktor lain. Pengulangan dan ukuran sampel yang memadai meningkatkan keandalan, meskipun tidak menghapus semua ketidakpastian.
+
+Etika penelitian melindungi manusia, hewan, tumbuhan, dan lingkungan. Pengamatan pendidikan sebaiknya tidak merusak habitat, mengambil satwa liar, atau menumbuhkan mikroorganisme tak dikenal di rumah. Gunakan data terbuka yang sah atau pengamatan sederhana yang tidak membahayakan.
+
+Contoh proyek: amati variasi bentuk daun dari beberapa tumbuhan yang sudah dikenal di taman tanpa memetiknya. Catat lokasi umum, bentuk, dan ukuran dengan alat ukur aman. Jangan menyimpulkan bahwa satu ciri menyebabkan perbedaan tanpa rancangan penelitian yang memadai.
+
+RANGKUMAN
+• Pertanyaan penelitian harus dapat diuji.
+• Pengulangan dan kelompok pembanding membantu evaluasi.
+• Etika dan keselamatan merupakan bagian metode ilmiah.
+LATIHAN
+Rancang pengamatan pertumbuhan tanaman dengan satu variabel yang diubah dan beberapa variabel yang dijaga.
+
+LAMPIRAN A. GLOSARIUM
+Adaptasi: ciri diwariskan yang meningkatkan kecocokan organisme pada lingkungan tertentu.
+ATP: molekul yang berperan dalam pemindahan energi sel.
+Ekologi: kajian hubungan organisme dengan lingkungannya.
+Enzim: katalis biologis.
+Evolusi: perubahan sifat diwariskan dalam populasi dari generasi ke generasi.
+Fotosintesis: proses mengubah energi cahaya menjadi energi kimia.
+Gen: bagian materi genetik yang memiliki fungsi tertentu.
+Homeostasis: pengaturan kondisi internal organisme.
+Membran: batas selektif yang mengatur pertukaran zat.
+Metabolisme: keseluruhan reaksi kimia dalam organisme.
+Mikrobioma: komunitas mikroorganisme pada suatu lingkungan.
+Sel: unit dasar struktur dan fungsi kehidupan.
+
+LAMPIRAN B. LATIHAN DAN PEMBAHASAN
+1. Urutan organisasi: sel, jaringan, organ, sistem organ, organisme, populasi, komunitas, ekosistem, biosfer.
+2. Sel tumbuhan umumnya memiliki dinding sel dan kloroplas; sel hewan tidak memiliki keduanya.
+3. Enzim bekerja kurang baik pada suhu tinggi karena struktur tiga dimensinya dapat berubah.
+4. Fotosintesis menyimpan energi cahaya dalam senyawa organik; respirasi sel mengubah energi kimia menjadi ATP.
+5. DNA menyimpan informasi, gen adalah bagian DNA, dan kromosom adalah struktur DNA bersama protein.
+6. Evolusi terjadi pada populasi lintas generasi, bukan karena individu sengaja mengubah gen.
+7. Antibiotik yang tidak tepat dapat menyeleksi bakteri resisten.
+8. Sistem pernapasan memasukkan oksigen ke darah, sedangkan peredaran darah mengangkutnya ke jaringan.
+9. Energi mengalir melalui ekosistem dan sebagian terdisipasi sebagai panas; materi didaur ulang.
+10. Stomata menyeimbangkan kebutuhan karbon dioksida dengan risiko kehilangan air.
+
+DAFTAR RUJUKAN KONSEPTUAL
+• OpenStax, Biology 2e, untuk pendalaman biologi umum.
+• National Institutes of Health, sumber pendidikan tentang sel dan kesehatan.
+• Encyclopaedia of Life, untuk pengenalan keanekaragaman organisme.
+• Kementerian Lingkungan Hidup dan Kehutanan, sumber informasi konservasi Indonesia.
+Rujukan dicantumkan untuk pendalaman; naskah ini disusun secara orisinal oleh Tim Edukasi Nexty Studio.
+
+PENUTUP
+Biologi memperlihatkan bahwa kehidupan tersusun dari sistem yang saling terhubung. Dari molekul hingga ekosistem, perubahan pada satu tingkat dapat memengaruhi tingkat lain. Sikap ilmiah berarti mengamati dengan teliti, membedakan bukti dari dugaan, menghargai kehidupan, dan menjaga lingkungan.

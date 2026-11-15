@@ -1035,16 +1035,16 @@ private fun fetchPublicBookText(source: String): String {
 private fun fetchPressbooksBookText(source: String): String {
     val home = fetchRawBookPage(source)
     val base = URL(source)
-    val anchorPattern = Regex("""(?is)<a\\b[^>]*href\\s*=\\s*["']([^"']+)["'][^>]*>(.*?)</a>""")
+    val anchorPattern = Regex("""(?is)<a\b[^>]*href\s*=\s*["']([^"']+)["'][^>]*>(.*?)</a>""")
     val chapterLinks = anchorPattern.findAll(home).mapNotNull { match ->
         val href = match.groupValues[1].replace("&amp;", "&").trim()
         val label = Html.fromHtml(match.groupValues[2].replace(Regex("""(?is)<[^>]+>"""), " "), Html.FROM_HTML_MODE_LEGACY)
-            .toString().replace(Regex("""\\s+"""), " ").trim()
+            .toString().replace(Regex("""\s+"""), " ").trim()
         runCatching { URL(base, href) }.getOrNull()?.let { candidate ->
             val path = candidate.path.lowercase()
             val isBookChapter = path.contains("/front-matter/") ||
                 path.contains("/chapter-") ||
-                Regex("""/\\d+(?:\\.\\d+)?-[^/]+/?$""").containsMatchIn(path) ||
+                Regex("""/\d+(?:\.\d+)?-[^/]+/?$""").containsMatchIn(path) ||
                 path.endsWith("/glossary/") || path.endsWith("/afterword/")
             if (candidate.host.equals(base.host, true) && isBookChapter) candidate to label else null
         }
@@ -1065,8 +1065,8 @@ private fun fetchPressbooksBookText(source: String): String {
         }
         if (chapterText.length > 120) {
             loaded++
-            if (output.isNotEmpty()) output.append("\\n\\n")
-            output.append(label.ifBlank { "Bagian " + (index + 1) }).append("\\n\\n")
+            if (output.isNotEmpty()) output.append("\n\n")
+            output.append(label.ifBlank { "Bagian " + (index + 1) }).append("\n\n")
             output.append(chapterText)
         }
     }
@@ -1075,7 +1075,7 @@ private fun fetchPressbooksBookText(source: String): String {
         throw IllegalStateException("Sumber buku hanya berhasil memuat $loaded bagian. Isi tidak ditampilkan sebagian agar tidak menyesatkan. Periksa koneksi dan coba lagi.")
     }
     if (failures.isNotEmpty()) {
-        output.append("\\n\\nCATATAN PEMUATAN\\n")
+        output.append("\n\nCATATAN PEMUATAN\n")
         output.append(failures.size).append(" bagian tidak dapat diambil dari sumber pada sesi ini. Sambungkan internet dan muat ulang untuk mencoba kembali.")
     }
     return output.toString().trim()
@@ -1084,11 +1084,11 @@ private fun fetchPressbooksBookText(source: String): String {
 private fun fetchStaticOerBookText(source: String): String {
     val indexHtml = fetchRawBookPage(source)
     val base = URL(source)
-    val anchorPattern = Regex("""(?is)<a\\b[^>]*href\\s*=\\s*["']([^"']+\\.html(?:#[^"']*)?)["'][^>]*>(.*?)</a>""")
+    val anchorPattern = Regex("""(?is)<a\b[^>]*href\s*=\s*["']([^"']+\.html(?:#[^"']*)?)["'][^>]*>(.*?)</a>""")
     val pages = anchorPattern.findAll(indexHtml).mapNotNull { match ->
         val href = match.groupValues[1].substringBefore("#").replace("&amp;", "&").trim()
         val label = Html.fromHtml(match.groupValues[2].replace(Regex("""(?is)<[^>]+>"""), " "), Html.FROM_HTML_MODE_LEGACY)
-            .toString().replace(Regex("""\\s+"""), " ").trim()
+            .toString().replace(Regex("""\s+"""), " ").trim()
         runCatching { URL(base, href) }.getOrNull()?.let { candidate ->
             val file = candidate.path.substringAfterLast("/").lowercase()
             val isContentPage = candidate.host.equals(base.host, true) &&
@@ -1107,8 +1107,8 @@ private fun fetchStaticOerBookText(source: String): String {
         val pageText = runCatching { fetchSingleBookText(entry.first.toString()) }.getOrDefault("")
         if (pageText.length > 500) {
             loaded++
-            if (output.isNotEmpty()) output.append("\\n\\n")
-            output.append(entry.second.ifBlank { "Bab " + (index + 1) }).append("\\n\\n")
+            if (output.isNotEmpty()) output.append("\n\n")
+            output.append(entry.second.ifBlank { "Bab " + (index + 1) }).append("\n\n")
             output.append(pageText)
         }
     }

@@ -307,3 +307,27 @@ Naskah ini disusun secara orisinal oleh Tim Edukasi Nexty Studio. Rujukan dicant
 
 PENUTUP
 Matematika berkembang melalui latihan, rasa ingin tahu, dan keberanian memeriksa kesalahan. Jangan hanya menghafal rumus; pahami alasan di balik langkahnya. Gambar, tabel, contoh, dan penjelasan dengan kata sendiri dapat membantu membangun pemahaman yang lebih kuat.
+
+PENDALAMAN: MATEMATIKA TERAPAN DAN PEMECAHAN MASALAH
+BAB 7 — PENGUKURAN DAN SATUAN
+Pengukuran menghubungkan angka dengan besaran. Satuan harus dicantumkan agar angka memiliki makna. Konversi satuan dilakukan dengan faktor yang setara, misalnya mengubah kilometer menjadi meter dengan mengalikan seribu.
+Periksa apakah hasil masuk akal melalui perkiraan. Kesalahan satuan dapat menghasilkan jawaban yang berbeda jauh walaupun operasi hitung benar.
+BAB 8 — GEOMETRI DALAM RUANG
+Bangun ruang memiliki panjang, lebar, tinggi, luas permukaan, dan volume. Luas permukaan mengukur area luar, sedangkan volume mengukur ruang yang ditempati. Satuan luas dan volume berbeda pangkat: meter persegi dan meter kubik.
+Model geometri dapat digunakan untuk menghitung kebutuhan bahan atau kapasitas wadah. Pastikan bentuk nyata sesuai asumsi bangun ideal.
+BAB 9 — PERBANDINGAN DAN SKALA
+Skala menghubungkan ukuran gambar dengan ukuran sebenarnya. Rasio dapat digunakan dalam peta, resep, campuran, dan desain. Ketika skala diperbesar, semua dimensi panjang berubah dengan faktor yang sama, tetapi luas berubah menurut kuadrat faktor tersebut.
+Jangan mencampur rasio dengan selisih. Perbandingan harus menggunakan besaran dan satuan yang sejenis.
+BAB 10 — MATEMATIKA DAN DATA
+Tabel dan grafik menyederhanakan informasi. Diagram garis cocok untuk perubahan sepanjang waktu, diagram batang untuk membandingkan kategori, dan histogram untuk distribusi data numerik. Pemilihan grafik yang keliru dapat menutupi pola.
+Rata-rata, median, dan modus memiliki fungsi berbeda. Median berguna ketika ada nilai ekstrem, sedangkan rata-rata menggunakan seluruh nilai.
+BAB 11 — LOGIKA DAN PEMECAHAN MASALAH
+Pernyataan logika dapat bernilai benar atau salah dalam konteks tertentu. Implikasi, konjungsi, disjungsi, dan negasi membantu menyusun argumen. Contoh tandingan dapat menunjukkan bahwa pernyataan umum tidak selalu benar.
+Strategi pemecahan masalah meliputi memahami informasi, membuat rencana, menjalankan perhitungan, dan memeriksa hasil. Menuliskan langkah membantu menemukan kesalahan.
+BAB 12 — MODEL MATEMATIKA
+Model menyederhanakan situasi dengan variabel dan asumsi. Misalnya biaya perjalanan dapat dimodelkan sebagai biaya tetap ditambah biaya per kilometer. Model harus diuji dengan nilai nyata dan diperbarui jika asumsi tidak sesuai.
+Tidak semua pola dapat diperkirakan secara tepat. Sajikan rentang atau skenario ketika data tidak pasti.
+LATIHAN
+1. Mengapa satuan harus ditulis? Jawaban: agar besaran yang dihitung jelas dan hasil dapat diperiksa.
+2. Bagaimana luas berubah jika panjang semua sisi diperbesar dua kali? Jawaban: luas menjadi empat kali untuk bangun sebangun.
+3. Kapan median berguna? Jawaban: ketika data memiliki nilai ekstrem atau distribusi miring.

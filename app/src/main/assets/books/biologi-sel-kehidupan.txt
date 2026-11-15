@@ -86,3 +86,31 @@ Kasus: sel tumbuhan dimasukkan ke larutan yang lebih pekat daripada cairan sel. 
 2. Apa perbedaan transkripsi dan translasi? Jawaban: transkripsi menyalin informasi DNA menjadi RNA; translasi menggunakan informasi RNA untuk menyusun protein.
 3. Mengapa enzim peka terhadap suhu? Jawaban: perubahan suhu dapat memengaruhi struktur tiga dimensi dan tumbukan molekul.
 4. Apa hasil umum mitosis? Jawaban: dua sel anak dengan jumlah kromosom yang sama seperti sel induk.
+
+PENDALAMAN LANJUTAN: SEL, GEN, DAN KOMUNIKASI BIOLOGIS
+BAB 7 — MEMBRAN DAN TRANSPORT
+Membran sel tersusun terutama dari lapisan ganda fosfolipid dengan protein yang menjalankan fungsi transportasi, pengenalan, dan komunikasi. Molekul kecil nonpolar dapat melewati membran lebih mudah daripada ion atau molekul besar yang memerlukan protein tertentu.
+Difusi berlangsung mengikuti gradien konsentrasi, sedangkan osmosis berkaitan dengan perpindahan air melalui membran selektif. Transport aktif memerlukan energi untuk memindahkan zat melawan gradien elektrokimia. Keseimbangan air penting bagi bentuk dan fungsi sel.
+BAB 8 — ORGANEL DAN PEMBAGIAN KERJA
+Nukleus menyimpan sebagian besar DNA pada sel eukariotik. Ribosom menyusun protein, retikulum endoplasma membantu produksi protein dan lipid, sedangkan badan Golgi memodifikasi serta mengemas molekul. Mitokondria berperan dalam respirasi sel.
+Sel tumbuhan memiliki dinding sel, vakuola besar, dan plastida seperti kloroplas. Struktur tersebut berkaitan dengan dukungan mekanis, penyimpanan, dan fotosintesis. Tidak semua sel memiliki susunan organel yang sama.
+BAB 9 — DNA, RNA, DAN EKSPRESI GEN
+DNA menyimpan informasi genetik melalui urutan basa. Pada ekspresi gen, informasi DNA ditranskripsi menjadi RNA, lalu pada banyak gen digunakan untuk menyusun protein melalui translasi. Pengaturan ekspresi memungkinkan sel dengan materi genetik serupa menjalankan fungsi berbeda.
+Mutasi adalah perubahan materi genetik. Dampaknya bergantung pada lokasi, jenis perubahan, dan konteks biologis. Tidak semua mutasi merugikan; sebagian netral dan sebagian dapat memengaruhi sifat.
+BAB 10 — PEMBELAHAN DAN SIKLUS SEL
+Siklus sel mencakup pertumbuhan, replikasi DNA, dan pembelahan. Mitosis menghasilkan dua sel anak dengan materi genetik yang umumnya sama, sedangkan meiosis menghasilkan sel reproduktif dengan jumlah kromosom yang berkurang.
+Pengaturan siklus sel menggunakan titik pemeriksaan yang membantu memastikan proses berlangsung sesuai urutan. Gangguan regulasi dapat menyebabkan pembelahan tidak terkendali. Pembahasan mekanisme ini penting untuk memahami biologi kanker tanpa menyederhanakan penyakit menjadi satu penyebab.
+BAB 11 — METABOLISME DAN ENZIM
+Metabolisme mencakup reaksi penyusunan dan penguraian molekul. Enzim mempercepat reaksi dengan menurunkan energi aktivasi, tetapi tidak habis digunakan dalam reaksi. Aktivitas enzim dipengaruhi suhu, pH, konsentrasi substrat, dan penghambat.
+ATP menjadi pembawa energi yang digunakan dalam berbagai proses sel. Respirasi sel memindahkan energi kimia dari molekul makanan ke bentuk yang dapat digunakan sel, sementara fotosintesis mengubah energi cahaya menjadi energi kimia.
+BAB 12 — KOMUNIKASI DAN ORGANISASI SEL
+Sel menerima sinyal melalui reseptor, meneruskan pesan melalui jalur molekuler, lalu menghasilkan respons. Sinyal dapat mengatur pertumbuhan, diferensiasi, metabolisme, dan respons terhadap lingkungan.
+Pada organisme multiseluler, komunikasi antarsel memungkinkan jaringan dan organ bekerja terkoordinasi. Gangguan komunikasi dapat memengaruhi fungsi jaringan.
+BAB 13 — METODE PENGAMATAN SEL
+Mikroskop cahaya memungkinkan pengamatan sel hidup atau preparat berwarna. Mikroskop elektron memberi resolusi lebih tinggi tetapi memerlukan persiapan sampel khusus. Perbesaran tidak sama dengan resolusi; gambar besar belum tentu memperlihatkan detail yang lebih jelas.
+Catat jenis mikroskop, perbesaran, skala, metode pewarnaan, dan kondisi sampel. Gambar pengamatan harus membedakan struktur yang benar-benar terlihat dari interpretasi.
+LATIHAN PENDALAMAN
+1. Apa beda difusi dan transport aktif? Jawaban: difusi mengikuti gradien, transport aktif menggunakan energi untuk melawan gradien.
+2. Mengapa sel berbeda dapat memiliki fungsi berbeda walau DNA serupa? Jawaban: karena gen yang diekspresikan dan tingkat ekspresinya berbeda.
+3. Apa fungsi enzim? Jawaban: mempercepat reaksi dengan menurunkan energi aktivasi.
+4. Mengapa perbesaran tidak sama dengan resolusi? Jawaban: perbesaran memperbesar tampilan, resolusi menentukan detail yang dapat dibedakan.

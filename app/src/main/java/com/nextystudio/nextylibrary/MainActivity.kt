@@ -70,6 +70,12 @@ fun NextyLibraryApp() {
     var reading by remember { mutableStateOf<Book?>(null) }
     var tab by remember { mutableStateOf("Beranda") }
     var reloadKey by remember { mutableIntStateOf(0) }
+    val musicPlayer = remember { AmbientMusicPlayer() }
+    var musicPlaying by remember { mutableStateOf(false) }
+    var musicVolume by remember { mutableFloatStateOf(1f) }
+    DisposableEffect(musicPlayer) {
+        onDispose { musicPlayer.release() }
+    }
 
     suspend fun loadCatalog() {
         loading = true
@@ -92,7 +98,7 @@ fun NextyLibraryApp() {
                     BookDetail(selected!!, categories.firstOrNull { it.id == selected!!.categoryId }?.name, onBack = { selected = null }, onRead = { reading = selected })
                 } else {
                     when (tab) {
-                        "Beranda" -> Box(Modifier.weight(1f)) { HomeScreen(books, categories, loading, error, search, { search = it }, selectedCategory, { selectedCategory = it }, { reloadKey++ }, { selected = it }) }
+                        "Beranda" -> Box(Modifier.weight(1f)) { HomeScreen(books, categories, loading, error, search, { search = it }, selectedCategory, { selectedCategory = it }, { reloadKey++ }, { selected = it }, musicPlayer, musicPlaying, { if (musicPlaying) musicPlayer.pause() else musicPlayer.play(); musicPlaying = !musicPlaying }, musicVolume, { musicVolume = it; musicPlayer.setVolume(it) }) }
                         "Koleksi" -> Box(Modifier.weight(1f)) { CollectionEmptyScreen() }
                         else -> Box(Modifier.weight(1f)) { AccountScreen() }
                     }
@@ -113,7 +119,8 @@ fun NextyLibraryApp() {
 @Composable
 private fun HomeScreen(books: List<Book>, categories: List<BookCategory>, loading: Boolean, error: String?,
     search: String, onSearch: (String) -> Unit, selectedCategory: String?, onCategory: (String?) -> Unit,
-    onReload: () -> Unit, onBook: (Book) -> Unit) {
+    onReload: () -> Unit, onBook: (Book) -> Unit, musicPlayer: AmbientMusicPlayer,
+    musicPlaying: Boolean, onMusicToggle: () -> Unit, musicVolume: Float, onMusicVolume: (Float) -> Unit) {
     val filtered = books.filter { b ->
         (b.title.contains(search, true) || b.author.contains(search, true)) &&
         (selectedCategory == null || b.categoryId == selectedCategory)
@@ -121,7 +128,7 @@ private fun HomeScreen(books: List<Book>, categories: List<BookCategory>, loadin
     LazyColumn(Modifier.fillMaxSize(), contentPadding = PaddingValues(bottom = 22.dp)) {
         item { TopHeader() }
         item { HeroBanner(books.size) }
-        item { MusicPlayerCard() }
+        item { MusicPlayerCard(musicPlaying, onMusicToggle, musicVolume, onMusicVolume) }
         item {
             Column(Modifier.padding(top = 22.dp)) {
                 Text("Temukan bacaanmu", color = Ink, fontSize = 21.sp, fontWeight = FontWeight.ExtraBold, modifier = Modifier.padding(horizontal = 20.dp))
@@ -223,24 +230,12 @@ private fun HeroBanner(bookCount: Int) {
 }
 
 @Composable
-private fun MusicPlayerCard() {
-    val player = remember { AmbientMusicPlayer() }
-    var playing by remember { mutableStateOf(false) }
-    var volume by remember { mutableFloatStateOf(1f) }
-    val activity = LocalContext.current as? ComponentActivity
-    DisposableEffect(player, activity) {
-        val observer = LifecycleEventObserver { _, event ->
-            if (event == Lifecycle.Event.ON_STOP) {
-                player.pause()
-                playing = false
-            }
-        }
-        activity?.lifecycle?.addObserver(observer)
-        onDispose {
-            activity?.lifecycle?.removeObserver(observer)
-            player.release()
-        }
-    }
+private fun MusicPlayerCard(
+    playing: Boolean,
+    onToggle: () -> Unit,
+    volume: Float,
+    onVolumeChange: (Float) -> Unit
+) {
     Card(
         modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 13.dp),
         shape = RoundedCornerShape(20.dp),
@@ -259,15 +254,12 @@ private fun MusicPlayerCard() {
             Spacer(Modifier.width(12.dp))
             Column(Modifier.weight(1f)) {
                 Text("Piano Chill", color = Ink, fontSize = 13.sp, fontWeight = FontWeight.ExtraBold)
-                Text("Melodi piano, bass lembut, dan ritme santai", color = Muted, fontSize = 10.sp, maxLines = 2)
+                Text("Musik latar tetap berjalan saat kamu membaca", color = Muted, fontSize = 10.sp, maxLines = 2)
                 Text("NEXTY PIANO CHILL • ORIGINAL", color = Green, fontSize = 8.sp, fontWeight = FontWeight.Bold, letterSpacing = 1.sp)
             }
             Spacer(Modifier.width(8.dp))
             FilledIconButton(
-                onClick = {
-                    if (playing) player.pause() else player.play()
-                    playing = !playing
-                },
+                onClick = onToggle,
                 colors = IconButtonDefaults.filledIconButtonColors(containerColor = Green, contentColor = Color.White)
             ) {
                 Text(if (playing) "Ⅱ" else "▶", fontSize = 19.sp, fontWeight = FontWeight.Bold)
@@ -280,10 +272,7 @@ private fun MusicPlayerCard() {
             Text("♪", color = Muted, fontSize = 14.sp)
             Slider(
                 value = volume,
-                onValueChange = {
-                    volume = it
-                    player.setVolume(it)
-                },
+                onValueChange = onVolumeChange,
                 modifier = Modifier.weight(1f).padding(horizontal = 8.dp),
                 valueRange = 0f..1f,
                 colors = SliderDefaults.colors(thumbColor = Green, activeTrackColor = Green)

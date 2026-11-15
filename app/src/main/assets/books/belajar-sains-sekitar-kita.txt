@@ -1,0 +1,478 @@
+BELAJAR SAINS DARI SEKITAR KITA
+Panduan Dasar Ilmu Pengetahuan Alam untuk Pembaca Umum
+Penulis: Tim Editorial NextyLibrary
+Edisi pertama • 2026
+
+TENTANG BUKU
+Buku ini merupakan naskah orisinal untuk NextyLibrary. Tujuannya membantu pembaca memahami cara kerja sains melalui contoh sehari-hari. Materi disusun bertahap, dengan penjelasan, contoh, rangkuman, istilah penting, dan latihan. Buku ini bukan pengganti buku ajar resmi atau nasihat profesional.
+
+DAFTAR ISI
+1. Sains dan Cara Berpikir Ilmiah
+2. Materi, Atom, dan Perubahan
+3. Energi dalam Kehidupan
+4. Gaya dan Gerak
+5. Bumi sebagai Sistem
+6. Air dan Siklusnya
+7. Udara dan Atmosfer
+8. Kehidupan dan Sel
+9. Ekosistem dan Jaring Kehidupan
+10. Tubuh Manusia sebagai Sistem
+11. Teknologi dan Rekayasa
+12. Lingkungan dan Masa Depan
+Glosarium • Rangkuman Akhir • Latihan Evaluasi
+
+BAB 1 — SAINS DAN CARA BERPIKIR ILMIAH
+
+Sains adalah cara manusia membangun pengetahuan tentang alam melalui pengamatan, pertanyaan, pengujian, dan penalaran. Sains bukan sekadar kumpulan fakta yang harus dihafal. Pengetahuan ilmiah berkembang ketika seseorang berusaha menjelaskan suatu gejala dengan bukti yang dapat diperiksa orang lain.
+
+Mulailah dari pengamatan. Ketika es batu diletakkan di atas meja, kita melihat ukurannya mengecil dan muncul air di sekitarnya. Pertanyaan ilmiahnya bukan hanya “mengapa es mencair?”, tetapi juga “apakah suhu ruangan memengaruhi kecepatan mencair?” Pertanyaan yang jelas membantu menentukan bukti apa yang perlu dikumpulkan.
+
+Penyelidikan sederhana memiliki beberapa tahap: merumuskan pertanyaan, mempelajari informasi awal, menyusun dugaan yang dapat diuji, menentukan variabel, melakukan pengamatan, mencatat data, lalu menyusun kesimpulan. Urutan ini tidak selalu kaku. Peneliti dapat kembali memperbaiki pertanyaan ketika menemukan bukti baru.
+
+Dalam percobaan, variabel bebas adalah faktor yang sengaja diubah. Variabel terikat adalah hasil yang diukur. Variabel kontrol adalah faktor lain yang dijaga tetap agar pengaruh perubahan dapat dipahami. Contoh: untuk membandingkan pengaruh cahaya pada pertumbuhan tanaman, jenis tanaman, ukuran pot, tanah, dan jumlah air perlu dibuat serupa. Lama paparan cahaya menjadi variabel bebas, sedangkan perubahan tinggi tanaman menjadi salah satu variabel terikat.
+
+Pengukuran harus disertai satuan. Panjang dapat dinyatakan dalam meter atau sentimeter, massa dalam kilogram atau gram, waktu dalam sekon, dan suhu dalam derajat Celsius atau kelvin. Angka tanpa satuan sering tidak cukup untuk menjelaskan hasil. Catatan yang baik juga mencantumkan tanggal, alat ukur, cara pengukuran, dan kemungkinan sumber kesalahan.
+
+Data dapat berbentuk angka maupun deskripsi. Tabel membantu membandingkan hasil, sedangkan grafik memperlihatkan pola. Namun, grafik tidak otomatis membuktikan sebab-akibat. Dua hal yang berubah bersamaan belum tentu saling menyebabkan. Bisa jadi ada faktor ketiga yang memengaruhi keduanya.
+
+Sikap ilmiah mencakup rasa ingin tahu, keterbukaan terhadap koreksi, ketelitian, kejujuran dalam mencatat hasil, dan kesediaan membedakan fakta dari pendapat. Jika hasil tidak sesuai dugaan, hasil itu tidak boleh disembunyikan. Justru ketidaksesuaian dapat menjadi petunjuk untuk memperbaiki penjelasan.
+
+RANGKUMAN BAB 1
+• Sains membangun pengetahuan melalui bukti dan penalaran.
+• Pertanyaan yang jelas membuat penyelidikan lebih terarah.
+• Variabel perlu dibedakan agar hasil percobaan dapat ditafsirkan.
+• Data harus dicatat dengan satuan dan konteks.
+• Kesimpulan ilmiah dapat diperbaiki ketika bukti baru tersedia.
+
+ISTILAH PENTING
+Pengamatan: kegiatan menggunakan indra atau alat untuk memperoleh informasi.
+Hipotesis: dugaan sementara yang dapat diuji.
+Variabel: faktor yang dapat berubah dalam penyelidikan.
+Data: hasil pengamatan atau pengukuran.
+Kesimpulan: penjelasan yang disusun berdasarkan bukti.
+
+LATIHAN BAB 1
+1. Mengapa pertanyaan “apakah cahaya memengaruhi pertumbuhan tanaman?” lebih mudah diuji daripada “mengapa tanaman itu bagus?”
+2. Tentukan variabel bebas, variabel terikat, dan dua variabel kontrol pada percobaan membandingkan pertumbuhan dua tanaman.
+3. Mengapa hasil yang tidak sesuai dugaan tetap harus dicatat?
+4. Sebuah grafik menunjukkan dua hal meningkat bersamaan. Apakah hal itu cukup untuk menyatakan bahwa yang satu menyebabkan yang lain? Jelaskan.
+
+BAB 2 — MATERI, ATOM, DAN PERUBAHAN
+
+Materi adalah segala sesuatu yang memiliki massa dan menempati ruang. Meja, air, udara, tanah, dan tubuh manusia tersusun dari materi. Materi dapat dijumpai dalam wujud padat, cair, dan gas. Padatan memiliki bentuk dan volume relatif tetap. Cairan memiliki volume relatif tetap tetapi mengikuti bentuk wadah. Gas mengisi ruang yang tersedia dan mudah dimampatkan.
+
+Semua materi tersusun dari partikel. Dalam model sederhana, zat padat memiliki partikel yang berdekatan dan bergetar di tempat. Partikel zat cair tetap berdekatan tetapi dapat bergerak saling melewati. Partikel gas berjauhan dan bergerak bebas. Model partikel membantu menjelaskan perubahan wujud tanpa menganggap bahwa zat menghilang.
+
+Atom adalah satuan dasar unsur. Atom terdiri atas inti yang mengandung proton dan neutron, serta elektron yang berada pada daerah di sekitar inti. Jumlah proton menentukan identitas unsur. Atom-atom dapat bergabung membentuk molekul atau susunan zat yang lebih besar. Air, misalnya, tersusun dari molekul yang masing-masing mengandung dua atom hidrogen dan satu atom oksigen.
+
+Unsur adalah zat yang tersusun dari satu jenis atom. Senyawa terbentuk ketika dua atau lebih unsur berikatan secara kimia dalam perbandingan tertentu. Campuran adalah gabungan beberapa zat yang tidak harus membentuk ikatan kimia baru. Udara merupakan campuran berbagai gas, sedangkan air murni merupakan senyawa.
+
+Perubahan fisika mengubah bentuk, ukuran, atau wujud tanpa menghasilkan zat baru. Es yang mencair tetap berupa air. Perubahan kimia menghasilkan zat dengan susunan dan sifat berbeda. Besi yang berkarat mengalami reaksi dengan komponen lingkungan sehingga terbentuk karat. Tanda perubahan kimia dapat berupa perubahan warna, terbentuk gas, terbentuk endapan, atau perubahan suhu, tetapi tanda tersebut perlu ditafsirkan sesuai konteks.
+
+Suhu berkaitan dengan keadaan termal suatu benda, sedangkan kalor adalah energi yang berpindah karena perbedaan suhu. Kalor mengalir secara spontan dari benda bersuhu lebih tinggi menuju benda bersuhu lebih rendah. Perpindahan kalor dapat terjadi melalui konduksi, konveksi, dan radiasi. Sendok logam yang ikut panas dalam minuman merupakan contoh konduksi. Gerakan air saat dipanaskan merupakan contoh konveksi. Energi Matahari yang sampai ke Bumi merupakan contoh radiasi.
+
+RANGKUMAN BAB 2
+• Materi memiliki massa dan menempati ruang.
+• Model partikel menjelaskan sifat padat, cair, dan gas.
+• Unsur, senyawa, dan campuran memiliki susunan berbeda.
+• Perubahan fisika tidak menghasilkan zat baru; perubahan kimia menghasilkan zat baru.
+• Kalor berpindah karena perbedaan suhu.
+
+ISTILAH PENTING
+Atom: satuan dasar unsur.
+Molekul: gabungan atom yang terikat.
+Unsur: zat dari satu jenis atom.
+Senyawa: zat dari dua atau lebih unsur yang berikatan.
+Kalor: energi yang berpindah karena perbedaan suhu.
+
+LATIHAN BAB 2
+1. Jelaskan perbedaan unsur, senyawa, dan campuran dengan contoh.
+2. Mengapa mencairnya es termasuk perubahan fisika?
+3. Berikan dua contoh perubahan kimia dalam kehidupan sehari-hari.
+4. Bedakan suhu dan kalor dengan bahasamu sendiri.
+
+BAB 3 — ENERGI DALAM KEHIDUPAN
+
+Energi adalah kemampuan suatu sistem untuk melakukan kerja atau menyebabkan perubahan. Energi hadir dalam banyak bentuk, antara lain energi gerak, energi potensial, energi kimia, energi listrik, energi cahaya, dan energi panas. Bentuk-bentuk tersebut dapat berubah satu sama lain.
+
+Bola yang bergerak memiliki energi kinetik. Benda yang berada pada posisi tertentu dalam medan gravitasi memiliki energi potensial gravitasi. Makanan menyimpan energi kimia yang dapat digunakan tubuh melalui proses metabolisme. Baterai mengubah energi kimia menjadi energi listrik ketika digunakan pada rangkaian.
+
+Hukum kekekalan energi menyatakan bahwa energi tidak diciptakan atau dimusnahkan dalam sistem tertutup, tetapi dapat berpindah dan berubah bentuk. Pada lampu, energi listrik berubah menjadi cahaya dan panas. Tidak semua energi masukan menjadi bentuk energi yang diinginkan; sebagian menyebar ke lingkungan sebagai panas.
+
+Daya menyatakan laju penggunaan atau perubahan energi. Dua alat dapat menggunakan energi dengan jumlah sama tetapi dalam waktu berbeda, sehingga dayanya berbeda. Label daya pada peralatan membantu memperkirakan penggunaan listrik, tetapi konsumsi sebenarnya juga bergantung pada lama pemakaian dan cara kerja alat.
+
+Sumber energi dapat dikelompokkan menjadi terbarukan dan tidak terbarukan. Matahari, angin, aliran air, dan panas bumi termasuk sumber terbarukan dalam skala waktu manusia. Batu bara, minyak bumi, dan gas alam terbentuk dalam waktu geologis yang sangat panjang sehingga persediaannya terbatas. Setiap sumber memiliki dampak, kebutuhan infrastruktur, dan keterbatasan.
+
+Efisiensi energi berarti memperoleh manfaat yang diinginkan dengan penggunaan energi lebih sedikit. Mematikan lampu di ruang kosong, memilih peralatan hemat energi, memperbaiki kebocoran udara pada bangunan, dan merancang transportasi publik yang baik dapat mengurangi pemborosan. Penghematan energi bukan hanya tindakan individu; desain kota, kebijakan, teknologi, dan pola produksi juga berpengaruh.
+
+RANGKUMAN BAB 3
+• Energi memiliki beragam bentuk dan dapat berubah bentuk.
+• Energi total dalam sistem tertutup tetap, meskipun bentuknya berubah.
+• Daya menunjukkan seberapa cepat energi digunakan atau dipindahkan.
+• Sumber energi memiliki kelebihan dan keterbatasan.
+• Efisiensi mengurangi energi yang terbuang untuk memperoleh manfaat yang sama.
+
+ISTILAH PENTING
+Energi kinetik: energi karena gerak.
+Energi potensial: energi karena posisi atau keadaan.
+Daya: laju penggunaan atau perpindahan energi.
+Efisiensi: perbandingan manfaat keluaran terhadap masukan.
+Energi terbarukan: energi dari sumber yang dapat pulih secara alami.
+
+LATIHAN BAB 3
+1. Sebutkan perubahan energi pada kipas angin dan lampu.
+2. Mengapa energi panas yang menyebar ke ruangan tetap termasuk energi?
+3. Apa perbedaan energi dan daya?
+4. Tuliskan tiga cara mengurangi pemborosan energi di sekolah.
+
+BAB 4 — GAYA DAN GERAK
+
+Gerak adalah perubahan posisi benda terhadap titik acuan selama selang waktu tertentu. Sebuah benda dapat tampak diam terhadap satu pengamat tetapi bergerak terhadap pengamat lain. Penumpang yang duduk di bus diam terhadap kursi, tetapi bergerak terhadap pohon di tepi jalan.
+
+Kelajuan menyatakan jarak yang ditempuh tiap satuan waktu. Kecepatan juga memperhitungkan arah. Percepatan adalah perubahan kecepatan tiap satuan waktu. Benda dapat mengalami percepatan ketika kelajuannya berubah, arahnya berubah, atau keduanya berubah.
+
+Gaya adalah tarikan atau dorongan yang dapat mengubah gerak atau bentuk benda. Gaya memiliki besar dan arah. Beberapa gaya yang sering dijumpai adalah gaya gravitasi, gaya gesek, gaya normal, gaya pegas, dan gaya magnet. Gaya gesek dapat membantu sepatu mencengkeram lantai, tetapi juga menyebabkan komponen mesin aus.
+
+Hukum gerak Newton membantu menjelaskan hubungan gaya dan gerak. Hukum pertama menyatakan bahwa benda mempertahankan keadaan diam atau gerak lurus beraturan jika resultan gaya padanya nol. Hukum kedua menghubungkan resultan gaya, massa, dan percepatan: semakin besar gaya bersih pada massa yang sama, semakin besar percepatannya. Hukum ketiga menyatakan bahwa interaksi dua benda melibatkan pasangan gaya yang sama besar dan berlawanan arah, bekerja pada benda yang berbeda.
+
+Gravitasi adalah interaksi tarik-menarik antara benda bermassa. Gravitasi Bumi membuat benda jatuh ke permukaan dan membantu mempertahankan atmosfer. Berat adalah gaya gravitasi pada suatu benda, sedangkan massa merupakan ukuran kelembaman dan jumlah materi dalam pengertian dasar. Massa tidak berubah hanya karena lokasi berpindah, sementara berat dapat berubah jika kuat medan gravitasi berbeda.
+
+Tekanan adalah gaya yang bekerja pada tiap satuan luas. Dengan gaya sama, bidang sentuh yang lebih kecil menghasilkan tekanan lebih besar. Konsep ini menjelaskan mengapa ujung paku dibuat runcing dan mengapa sepatu salju memiliki bidang kontak lebar.
+
+RANGKUMAN BAB 4
+• Gerak perlu dijelaskan terhadap titik acuan.
+• Kelajuan tidak sama dengan kecepatan karena kecepatan memiliki arah.
+• Gaya dapat mengubah gerak atau bentuk benda.
+• Hukum Newton menjelaskan hubungan gaya, massa, dan gerak.
+• Massa berbeda dari berat; tekanan bergantung pada gaya dan luas bidang.
+
+ISTILAH PENTING
+Titik acuan: posisi pembanding untuk menentukan gerak.
+Percepatan: perubahan kecepatan tiap satuan waktu.
+Resultan gaya: gabungan semua gaya pada benda.
+Gravitasi: interaksi tarik-menarik antar massa.
+Tekanan: gaya per satuan luas.
+
+LATIHAN BAB 4
+1. Mengapa gerak harus dijelaskan terhadap titik acuan?
+2. Apa perbedaan kelajuan dan kecepatan?
+3. Berikan contoh gaya gesek yang menguntungkan dan merugikan.
+4. Mengapa pisau tajam dapat memotong lebih mudah daripada pisau tumpul dengan gaya serupa?
+
+BAB 5 — BUMI SEBAGAI SISTEM
+
+Bumi tersusun atas beberapa bagian yang saling berinteraksi. Geosfer mencakup bagian padat Bumi, hidrosfer mencakup air, atmosfer mencakup lapisan gas, dan biosfer mencakup kehidupan. Perubahan pada satu bagian dapat memengaruhi bagian lainnya. Hujan, misalnya, dipengaruhi oleh atmosfer dan siklus air, lalu mengubah aliran sungai serta kondisi tanah.
+
+Bagian dalam Bumi secara umum dibagi menjadi kerak, mantel, inti luar, dan inti dalam. Kerak dan bagian paling atas mantel membentuk litosfer yang terpecah menjadi lempeng tektonik. Lempeng bergerak sangat lambat di atas bagian mantel yang dapat mengalir dalam skala waktu geologi.
+
+Interaksi lempeng menghasilkan berbagai bentang alam dan gejala geologi. Pada batas konvergen, lempeng saling mendekat; salah satunya dapat menunjam ke bawah lempeng lain atau keduanya membentuk pegunungan. Pada batas divergen, lempeng saling menjauh dan material dari dalam Bumi dapat membentuk kerak baru. Pada batas transform, lempeng bergeser sejajar.
+
+Gempa bumi terjadi ketika energi yang tersimpan akibat tegangan batuan dilepaskan secara tiba-tiba. Gelombang seismik merambat melalui Bumi. Besar gempa dan dampaknya merupakan hal berbeda: dampak dipengaruhi kekuatan guncangan, kedalaman, jarak, kondisi tanah, mutu bangunan, dan kesiapsiagaan masyarakat.
+
+Gunung api terbentuk ketika magma mencapai permukaan. Aktivitas vulkanik dapat membentuk daratan baru dan menyuburkan tanah, tetapi juga dapat menimbulkan bahaya seperti aliran lava, abu, gas, dan aliran material vulkanik. Informasi kebencanaan harus mengikuti otoritas resmi dan kondisi setempat.
+
+Batuan dikelompokkan menjadi batuan beku, sedimen, dan metamorf. Batuan beku terbentuk dari pembekuan magma atau lava. Batuan sedimen terbentuk melalui pengendapan dan pemadatan material. Batuan metamorf terbentuk ketika batuan yang sudah ada mengalami perubahan karena tekanan, suhu, atau fluida tanpa melebur seluruhnya. Ketiganya terhubung dalam siklus batuan.
+
+RANGKUMAN BAB 5
+• Bumi adalah sistem yang bagian-bagiannya saling memengaruhi.
+• Litosfer terdiri atas lempeng yang bergerak perlahan.
+• Interaksi lempeng berkaitan dengan gempa, gunung api, dan pembentukan pegunungan.
+• Batuan dikelompokkan menjadi beku, sedimen, dan metamorf.
+• Risiko bencana dipengaruhi kondisi alam dan kesiapsiagaan manusia.
+
+ISTILAH PENTING
+Litosfer: lapisan kaku terluar Bumi.
+Tektonik: proses dan gerakan lempeng Bumi.
+Magma: batuan cair di bawah permukaan.
+Seismik: berkaitan dengan gelombang gempa.
+Sedimen: material yang diendapkan.
+
+LATIHAN BAB 5
+1. Sebutkan empat bagian sistem Bumi.
+2. Bandingkan batas lempeng konvergen dan divergen.
+3. Mengapa dua gempa dengan magnitudo serupa dapat menimbulkan dampak berbeda?
+4. Jelaskan siklus batuan secara singkat.
+
+BAB 6 — AIR DAN SIKLUSNYA
+
+Air sangat penting bagi kehidupan karena menjadi pelarut, membantu transportasi zat, mengatur suhu, dan menjadi habitat. Molekul air tersusun dari dua atom hidrogen dan satu atom oksigen. Susunan muatan listriknya membuat molekul air bersifat polar, sehingga dapat berinteraksi dengan banyak zat.
+
+Siklus air menggambarkan perpindahan air antara permukaan Bumi, makhluk hidup, dan atmosfer. Energi Matahari menyebabkan penguapan dari laut, danau, tanah, serta permukaan lain. Tumbuhan melepaskan uap air melalui transpirasi. Uap air naik, mendingin, lalu mengalami kondensasi membentuk awan. Air kembali ke permukaan melalui presipitasi, seperti hujan. Sebagian meresap ke tanah, sebagian mengalir di permukaan menuju sungai dan laut.
+
+Air tanah tersimpan dalam pori-pori tanah dan celah batuan. Lapisan yang dapat menyimpan dan mengalirkan air disebut akuifer. Pengambilan air tanah yang terlalu besar dapat menurunkan muka air tanah dan, di wilayah tertentu, menyebabkan penurunan permukaan tanah atau masuknya air asin.
+
+Kualitas air dipengaruhi kondisi daerah aliran sungai, kegiatan pertanian, industri, permukiman, dan pengelolaan limbah. Air yang terlihat jernih belum tentu aman diminum karena mikroorganisme atau zat terlarut tidak selalu terlihat. Pengolahan air minum memerlukan proses yang sesuai standar, dan pengujian perlu dilakukan dengan metode yang benar.
+
+Konservasi air dapat dilakukan melalui perlindungan daerah resapan, perbaikan kebocoran, penggunaan air secara bijak, pengolahan limbah, dan pemulihan ekosistem sungai serta lahan basah. Tindakan tersebut perlu didukung tata kelola sumber daya air yang adil agar masyarakat memperoleh akses air bersih.
+
+RANGKUMAN BAB 6
+• Sifat polar air menjadikannya pelarut penting.
+• Siklus air menghubungkan laut, daratan, makhluk hidup, dan atmosfer.
+• Air tanah tersimpan dalam pori dan celah batuan.
+• Air jernih tidak selalu berarti aman diminum.
+• Konservasi memerlukan perlindungan ekosistem dan pengelolaan yang baik.
+
+ISTILAH PENTING
+Evaporasi: penguapan air.
+Transpirasi: pelepasan uap air oleh tumbuhan.
+Kondensasi: perubahan uap menjadi cair.
+Presipitasi: jatuhnya air dari atmosfer.
+Akuifer: lapisan yang menyimpan dan mengalirkan air tanah.
+
+LATIHAN BAB 6
+1. Urutkan proses utama dalam siklus air.
+2. Apa perbedaan evaporasi dan transpirasi?
+3. Mengapa air yang tampak jernih belum tentu aman diminum?
+4. Usulkan dua cara menjaga daerah resapan air.
+
+BAB 7 — UDARA DAN ATMOSFER
+
+Atmosfer adalah lapisan gas yang menyelimuti Bumi. Komposisi udara kering di dekat permukaan didominasi nitrogen dan oksigen, disertai argon, karbon dioksida, dan gas lain dalam jumlah lebih kecil. Uap air berubah-ubah menurut lokasi dan kondisi cuaca.
+
+Atmosfer memiliki beberapa lapisan berdasarkan perubahan suhu terhadap ketinggian. Troposfer adalah lapisan terbawah tempat sebagian besar cuaca berlangsung. Di atasnya terdapat stratosfer yang mengandung lapisan ozon. Lapisan berikutnya adalah mesosfer, termosfer, dan eksosfer. Batas antarlapisan tidak berupa dinding yang tajam.
+
+Cuaca menggambarkan keadaan atmosfer dalam waktu singkat, sedangkan iklim adalah pola statistik cuaca dalam jangka panjang. Suhu, tekanan udara, kelembapan, angin, dan awan merupakan unsur yang diamati untuk memahami cuaca. Perbedaan pemanasan permukaan Bumi menyebabkan perbedaan tekanan yang ikut menggerakkan udara.
+
+Efek rumah kaca alami membuat Bumi cukup hangat untuk mendukung kehidupan. Gas rumah kaca menyerap dan memancarkan kembali sebagian radiasi inframerah. Peningkatan konsentrasi gas rumah kaca akibat aktivitas manusia memperkuat efek tersebut dan mendorong pemanasan global. Dampaknya dapat mencakup perubahan pola hujan, peningkatan gelombang panas, pencairan es, dan kenaikan muka laut.
+
+Polusi udara dapat berasal dari pembakaran bahan bakar, kegiatan industri, kebakaran lahan, debu, dan sumber alami. Partikel halus serta gas pencemar dapat mengganggu kesehatan dan lingkungan. Pengurangan pencemaran memerlukan teknologi yang lebih bersih, transportasi yang baik, pengawasan emisi, dan perlindungan ruang hijau.
+
+RANGKUMAN BAB 7
+• Atmosfer tersusun atas campuran gas dan memiliki beberapa lapisan.
+• Cuaca adalah keadaan atmosfer jangka pendek; iklim menggambarkan pola jangka panjang.
+• Efek rumah kaca alami penting, tetapi penguatannya menyebabkan pemanasan global.
+• Polusi udara memiliki sumber dan dampak yang beragam.
+• Pengendalian pencemaran memerlukan tindakan bersama.
+
+ISTILAH PENTING
+Atmosfer: lapisan gas yang menyelimuti Bumi.
+Troposfer: lapisan atmosfer terbawah.
+Cuaca: kondisi atmosfer pada waktu dan tempat tertentu.
+Iklim: pola cuaca jangka panjang.
+Gas rumah kaca: gas yang menyerap dan memancarkan radiasi inframerah.
+
+LATIHAN BAB 7
+1. Apa perbedaan cuaca dan iklim?
+2. Mengapa efek rumah kaca alami diperlukan bagi kehidupan?
+3. Sebutkan tiga sumber polusi udara.
+4. Jelaskan satu dampak perubahan iklim bagi wilayah pesisir.
+
+BAB 8 — KEHIDUPAN DAN SEL
+
+Makhluk hidup memiliki ciri yang dapat diamati, seperti organisasi seluler, penggunaan energi, pertumbuhan, respons terhadap lingkungan, dan kemampuan menghasilkan keturunan. Tidak semua ciri mudah dikenali pada satu individu dalam waktu singkat, sehingga ilmuwan mempertimbangkan kumpulan bukti.
+
+Sel adalah unit struktural dan fungsional dasar kehidupan. Organisme dapat tersusun dari satu sel atau banyak sel. Sel prokariotik tidak memiliki inti bermembran, sedangkan sel eukariotik memiliki inti dan organel bermembran. Bakteri merupakan contoh organisme prokariotik. Hewan, tumbuhan, jamur, dan banyak protista tersusun dari sel eukariotik.
+
+Membran plasma membatasi sel dan mengatur pertukaran zat. Sitoplasma menjadi tempat banyak reaksi. Inti menyimpan sebagian besar materi genetik pada sel eukariotik. Ribosom membantu menyusun protein. Mitokondria berperan penting dalam respirasi sel. Sel tumbuhan memiliki dinding sel dan kloroplas pada jaringan yang melakukan fotosintesis.
+
+Fotosintesis mengubah energi cahaya menjadi energi kimia yang tersimpan dalam senyawa organik. Pada tumbuhan, proses ini menggunakan air dan karbon dioksida serta menghasilkan oksigen sebagai salah satu produk. Respirasi sel melepaskan energi yang dapat digunakan sel dari molekul organik. Fotosintesis dan respirasi saling terkait dalam aliran materi dan energi ekosistem.
+
+Organisme memperoleh energi dan bahan penyusun dari lingkungan. Produsen seperti tumbuhan membuat bahan organik dari bahan anorganik. Konsumen memperoleh energi dengan memakan organisme lain. Pengurai menguraikan sisa makhluk hidup dan membantu mengembalikan unsur ke lingkungan.
+
+Keanekaragaman hayati mencakup variasi gen, spesies, dan ekosistem. Keanekaragaman membantu ekosistem menjalankan fungsi, tetapi tidak membuat suatu ekosistem kebal terhadap gangguan. Perlindungan habitat, pemanfaatan sumber daya secara berkelanjutan, dan pengendalian spesies invasif merupakan bagian penting konservasi.
+
+RANGKUMAN BAB 8
+• Sel merupakan unit dasar kehidupan.
+• Sel prokariotik dan eukariotik berbeda dalam organisasi internal.
+• Organel memiliki fungsi khusus yang saling melengkapi.
+• Fotosintesis menyimpan energi cahaya dalam bahan organik.
+• Keanekaragaman hayati memiliki nilai ekologis dan sosial.
+
+ISTILAH PENTING
+Sel: unit dasar struktur dan fungsi makhluk hidup.
+Organel: bagian sel dengan fungsi tertentu.
+Fotosintesis: proses pembentukan bahan organik dengan energi cahaya.
+Respirasi sel: proses pelepasan energi dari molekul organik.
+Keanekaragaman hayati: variasi kehidupan pada tingkat gen, spesies, dan ekosistem.
+
+LATIHAN BAB 8
+1. Apa perbedaan utama sel prokariotik dan eukariotik?
+2. Sebutkan fungsi membran plasma, inti, dan ribosom.
+3. Bagaimana fotosintesis berhubungan dengan respirasi sel?
+4. Mengapa keanekaragaman hayati penting bagi ekosistem?
+
+BAB 9 — EKOSISTEM DAN JARING KEHIDUPAN
+
+Ekosistem terdiri atas komunitas makhluk hidup dan lingkungan fisiknya. Komponen biotik meliputi organisme, sedangkan komponen abiotik meliputi air, cahaya, suhu, tanah, dan mineral. Organisme saling berinteraksi melalui predasi, kompetisi, mutualisme, komensalisme, dan parasitisme.
+
+Rantai makanan menggambarkan satu jalur perpindahan energi. Jaring-jaring makanan menggabungkan banyak rantai sehingga lebih mendekati hubungan nyata di alam. Tingkat trofik menunjukkan posisi organisme dalam aliran energi. Produsen menjadi dasar banyak jaring makanan, diikuti konsumen pada berbagai tingkat dan pengurai.
+
+Energi mengalir melalui ekosistem dan sebagian besar akhirnya terdisipasi sebagai panas. Karena itu, energi yang tersedia umumnya berkurang pada tingkat trofik lebih tinggi. Materi berbeda: unsur seperti karbon, nitrogen, dan fosfor dapat didaur ulang melalui proses biologis, kimia, dan geologis.
+
+Populasi adalah kumpulan individu satu spesies di wilayah tertentu. Ukuran populasi dipengaruhi kelahiran, kematian, imigrasi, dan emigrasi. Daya dukung lingkungan adalah ukuran konseptual tentang jumlah populasi yang dapat didukung dalam kondisi tertentu. Daya dukung dapat berubah ketika sumber daya dan kondisi lingkungan berubah.
+
+Gangguan ekosistem dapat bersifat alami maupun akibat aktivitas manusia. Kebakaran, badai, perubahan penggunaan lahan, pencemaran, dan perubahan iklim dapat mengubah habitat. Pemulihan ekosistem bergantung pada tingkat kerusakan, kondisi setempat, dan kemampuan organisme untuk kembali atau berkolonisasi.
+
+Konservasi tidak hanya melindungi satu spesies. Pendekatan lanskap mempertimbangkan habitat, koridor satwa, masyarakat lokal, penggunaan lahan, dan sumber penghidupan. Pengetahuan ilmiah perlu dipadukan dengan pengalaman masyarakat dan kebijakan yang adil.
+
+RANGKUMAN BAB 9
+• Ekosistem menghubungkan organisme dengan lingkungan fisik.
+• Energi mengalir, sedangkan materi bersiklus.
+• Jaring makanan menunjukkan hubungan makan yang kompleks.
+• Populasi dipengaruhi faktor kelahiran, kematian, dan perpindahan.
+• Konservasi perlu memperhatikan habitat dan masyarakat.
+
+ISTILAH PENTING
+Ekosistem: hubungan komunitas organisme dengan lingkungannya.
+Produsen: organisme yang membentuk bahan organik dari sumber energi.
+Konsumen: organisme yang memperoleh energi dengan memakan organisme lain.
+Pengurai: organisme yang memecah bahan organik.
+Daya dukung: kemampuan lingkungan menopang populasi dalam kondisi tertentu.
+
+LATIHAN BAB 9
+1. Jelaskan perbedaan rantai makanan dan jaring-jaring makanan.
+2. Mengapa energi tidak didaur ulang seperti unsur hara?
+3. Sebutkan empat faktor yang memengaruhi ukuran populasi.
+4. Mengapa perlindungan habitat sering lebih efektif daripada hanya melindungi satu individu satwa?
+
+BAB 10 — TUBUH MANUSIA SEBAGAI SISTEM
+
+Tubuh manusia terdiri atas sel, jaringan, organ, dan sistem organ. Sel sejenis dapat bekerja sama membentuk jaringan. Beberapa jaringan membentuk organ, dan beberapa organ bekerja bersama dalam sistem. Organisasi ini memungkinkan tubuh menjalankan fungsi yang kompleks.
+
+Sistem pencernaan memecah makanan menjadi molekul yang dapat diserap. Pencernaan mekanis menghancurkan makanan menjadi bagian lebih kecil, sedangkan pencernaan kimia menggunakan enzim. Zat gizi yang diserap digunakan untuk energi, pertumbuhan, dan perbaikan jaringan.
+
+Sistem pernapasan mengambil oksigen dari udara dan melepaskan karbon dioksida. Pertukaran gas terjadi pada permukaan yang tipis dan lembap di paru-paru. Sistem peredaran darah mengangkut oksigen, zat gizi, hormon, dan sisa metabolisme melalui darah. Jantung memompa darah melalui pembuluh.
+
+Sistem saraf menerima informasi, mengolahnya, dan mengoordinasikan respons. Sistem endokrin menggunakan hormon sebagai pembawa pesan kimia. Kedua sistem bekerja bersama menjaga fungsi tubuh. Sistem gerak melibatkan tulang, sendi, dan otot sehingga tubuh dapat mempertahankan postur dan bergerak.
+
+Homeostasis adalah kemampuan tubuh menjaga kondisi internal dalam rentang yang sesuai, misalnya suhu, kadar air, dan kadar glukosa darah. Homeostasis bukan berarti semua nilai selalu tetap; tubuh melakukan penyesuaian dinamis terhadap perubahan lingkungan dan aktivitas.
+
+Kesehatan dipengaruhi banyak faktor, termasuk lingkungan, kebiasaan, akses layanan, kondisi sosial, dan faktor biologis. Informasi kesehatan sebaiknya bersumber dari tenaga kesehatan dan lembaga tepercaya. Buku ini memberikan penjelasan dasar, bukan diagnosis atau pengganti konsultasi medis.
+
+RANGKUMAN BAB 10
+• Tubuh tersusun dari tingkat organisasi yang saling berhubungan.
+• Sistem pencernaan, pernapasan, dan peredaran darah bekerja sama.
+• Sistem saraf dan endokrin membantu koordinasi.
+• Homeostasis menjaga kondisi internal dalam rentang yang sesuai.
+• Kesehatan dipengaruhi faktor biologis, sosial, dan lingkungan.
+
+ISTILAH PENTING
+Jaringan: kumpulan sel yang bekerja sama.
+Organ: struktur yang tersusun dari beberapa jaringan.
+Hormon: pembawa pesan kimia dalam tubuh.
+Homeostasis: pengaturan kondisi internal.
+Metabolisme: keseluruhan reaksi kimia dalam organisme.
+
+LATIHAN BAB 10
+1. Urutkan organisasi tubuh dari sel hingga sistem organ.
+2. Jelaskan kerja sama sistem pernapasan dan peredaran darah.
+3. Mengapa homeostasis bersifat dinamis?
+4. Sebutkan faktor di luar tubuh yang dapat memengaruhi kesehatan.
+
+BAB 11 — TEKNOLOGI DAN REKAYASA
+
+Teknologi adalah penerapan pengetahuan, keterampilan, dan alat untuk memenuhi kebutuhan manusia. Rekayasa merupakan proses merancang solusi dengan mempertimbangkan fungsi, keselamatan, biaya, bahan, dampak lingkungan, dan kebutuhan pengguna. Teknologi tidak selalu berupa perangkat digital; jembatan, sistem irigasi, alat ukur, dan metode pengolahan air juga merupakan teknologi.
+
+Proses rekayasa biasanya dimulai dengan memahami masalah dan kebutuhan pengguna. Perancang kemudian menentukan batasan, mengumpulkan informasi, menghasilkan beberapa ide, memilih rancangan, membuat prototipe, menguji, dan memperbaiki. Proses ini berulang karena rancangan pertama jarang menjadi solusi terbaik.
+
+Model dan simulasi membantu mempelajari sistem yang sulit diuji secara langsung. Model adalah penyederhanaan kenyataan. Model cuaca, misalnya, menggunakan persamaan dan data untuk memperkirakan keadaan atmosfer. Hasil model memiliki ketidakpastian karena data dan asumsi memiliki keterbatasan.
+
+Teknologi digital memudahkan komunikasi, pengolahan data, dan pembelajaran. Namun, pengguna perlu memahami privasi, keamanan akun, kualitas informasi, dan dampak penggunaan perangkat. Data pribadi tidak boleh dibagikan sembarangan. Informasi yang ditemukan di internet perlu diperiksa sumber dan konteksnya.
+
+Kecerdasan buatan dapat membantu mengenali pola, membuat ringkasan, dan mendukung pekerjaan. Sistem tersebut dapat menghasilkan kesalahan atau jawaban yang terdengar meyakinkan tetapi tidak benar. Hasilnya perlu diperiksa, terutama untuk keputusan penting. Manusia tetap bertanggung jawab atas penggunaan teknologi.
+
+Desain yang baik memperhatikan aksesibilitas, sehingga dapat digunakan oleh orang dengan kebutuhan dan kemampuan yang beragam. Contohnya adalah teks yang mudah dibaca, kontras yang cukup, navigasi yang jelas, dan alternatif teks untuk gambar. Inovasi seharusnya meningkatkan manfaat tanpa mengabaikan dampak sosial.
+
+RANGKUMAN BAB 11
+• Teknologi menerapkan pengetahuan untuk memenuhi kebutuhan.
+• Rekayasa melibatkan rancangan, pengujian, dan perbaikan.
+• Model menyederhanakan kenyataan dan memiliki keterbatasan.
+• Teknologi digital membutuhkan literasi privasi dan informasi.
+• Hasil kecerdasan buatan perlu diperiksa manusia.
+
+ISTILAH PENTING
+Prototipe: model awal untuk diuji.
+Simulasi: peniruan proses atau sistem.
+Data pribadi: informasi yang dapat berkaitan dengan seseorang.
+Aksesibilitas: kemudahan penggunaan oleh orang dengan kebutuhan beragam.
+Iterasi: pengulangan proses untuk memperbaiki hasil.
+
+LATIHAN BAB 11
+1. Mengapa prototipe perlu diuji sebelum digunakan luas?
+2. Apa keterbatasan model atau simulasi?
+3. Sebutkan tiga cara menjaga privasi saat menggunakan layanan digital.
+4. Mengapa jawaban kecerdasan buatan perlu diverifikasi?
+
+BAB 12 — LINGKUNGAN DAN MASA DEPAN
+
+Lingkungan menyediakan udara, air, pangan, bahan, energi, dan ruang hidup. Kegiatan manusia mengubah lingkungan melalui pertanian, pembangunan, industri, transportasi, dan konsumsi. Perubahan tersebut dapat memberi manfaat, tetapi juga menimbulkan tekanan pada ekosistem.
+
+Pembangunan berkelanjutan berupaya memenuhi kebutuhan masa kini tanpa mengurangi kemampuan generasi mendatang memenuhi kebutuhannya. Prinsip ini menghubungkan aspek lingkungan, ekonomi, dan sosial. Keputusan yang baik mempertimbangkan dampak jangka pendek dan panjang serta siapa yang menerima manfaat dan menanggung risikonya.
+
+Sampah perlu dikelola dengan mengurangi timbulan sejak awal, menggunakan kembali barang yang masih layak, memilah bahan yang dapat didaur ulang, dan mengolah sisa sesuai karakteristiknya. Tidak semua bahan dapat didaur ulang di semua wilayah. Karena itu, pengurangan konsumsi berlebihan sering lebih baik daripada hanya mengandalkan daur ulang.
+
+Perubahan iklim merupakan tantangan global yang memerlukan pengurangan emisi gas rumah kaca dan penyesuaian terhadap dampak yang sudah terjadi. Mitigasi mencakup efisiensi energi, energi rendah emisi, perlindungan hutan, dan perubahan sistem transportasi. Adaptasi mencakup perencanaan kota tahan panas, pengelolaan air, perlindungan pesisir, dan sistem peringatan dini.
+
+Keputusan lingkungan sebaiknya didasarkan pada data dan memperhatikan keadilan. Masyarakat yang paling sedikit berkontribusi pada suatu masalah dapat mengalami dampak besar. Pelibatan warga, keterbukaan informasi, dan perlindungan kelompok rentan menjadi bagian penting kebijakan lingkungan.
+
+Setiap orang dapat berkontribusi melalui pilihan sehari-hari, tetapi masalah lingkungan tidak dapat dibebankan hanya kepada individu. Infrastruktur, kebijakan, pendidikan, penelitian, dan tanggung jawab pelaku usaha memiliki peran besar. Perubahan yang bertahan lama membutuhkan kerja sama lintas tingkat.
+
+RANGKUMAN BAB 12
+• Lingkungan menopang kehidupan dan kegiatan manusia.
+• Pembangunan berkelanjutan menghubungkan lingkungan, ekonomi, dan sosial.
+• Pengelolaan sampah dimulai dari mengurangi timbulan.
+• Mitigasi mengurangi penyebab perubahan iklim; adaptasi mengurangi kerentanannya.
+• Solusi lingkungan memerlukan keadilan dan kerja sama.
+
+ISTILAH PENTING
+Keberlanjutan: kemampuan menjaga manfaat dalam jangka panjang.
+Mitigasi: tindakan mengurangi penyebab atau besarnya dampak.
+Adaptasi: penyesuaian terhadap kondisi atau dampak.
+Daur ulang: pengolahan bahan bekas menjadi bahan yang dapat digunakan kembali.
+Kerentanan: tingkat mudahnya sistem mengalami dampak buruk.
+
+LATIHAN BAB 12
+1. Apa yang dimaksud pembangunan berkelanjutan?
+2. Bedakan mitigasi dan adaptasi perubahan iklim.
+3. Mengapa mengurangi sampah dari sumbernya penting?
+4. Berikan contoh kebijakan lingkungan yang mempertimbangkan keadilan sosial.
+
+GLOSARIUM UMUM
+Abiotik: komponen lingkungan yang tidak hidup.
+Adaptasi: penyesuaian terhadap kondisi lingkungan.
+Atmosfer: lapisan gas yang menyelimuti Bumi.
+Atom: satuan dasar unsur.
+Biosfer: bagian Bumi tempat kehidupan berlangsung.
+Data: informasi hasil pengamatan atau pengukuran.
+Ekosistem: hubungan organisme dengan lingkungan fisiknya.
+Energi: kemampuan menyebabkan perubahan atau melakukan kerja.
+Evaporasi: perubahan cair menjadi gas.
+Gaya: tarikan atau dorongan.
+Hipotesis: dugaan yang dapat diuji.
+Iklim: pola cuaca jangka panjang.
+Kalor: energi yang berpindah akibat perbedaan suhu.
+Kecepatan: perubahan posisi tiap waktu beserta arah.
+Kondensasi: perubahan gas menjadi cair.
+Konservasi: perlindungan dan pengelolaan sumber daya secara bijak.
+Materi: sesuatu yang memiliki massa dan menempati ruang.
+Mitigasi: upaya mengurangi penyebab atau dampak.
+Organisme: makhluk hidup.
+Populasi: individu satu spesies di wilayah tertentu.
+Presipitasi: jatuhnya air dari atmosfer.
+Sel: unit dasar kehidupan.
+Sistem: kumpulan bagian yang saling berinteraksi.
+Tekanan: gaya per satuan luas.
+Variabel: faktor yang dapat berubah.
+Variabel bebas: faktor yang sengaja diubah.
+Variabel terikat: faktor yang diukur sebagai hasil.
+
+RANGKUMAN AKHIR
+Sains membantu kita memahami alam dengan cara mengajukan pertanyaan, mengumpulkan bukti, dan memperbaiki penjelasan. Materi tersusun dari partikel, energi mengalami perubahan bentuk, dan gaya memengaruhi gerak. Bumi merupakan sistem yang menghubungkan batuan, air, udara, dan kehidupan. Sel menjadi dasar organisme, sementara ekosistem mengatur hubungan makhluk hidup dengan lingkungannya. Tubuh manusia bekerja melalui sistem yang saling bergantung. Teknologi dapat membantu menyelesaikan masalah jika dirancang dan digunakan secara bertanggung jawab. Pengetahuan ilmiah paling bermanfaat ketika disertai sikap kritis, rasa ingin tahu, dan kepedulian terhadap sesama serta lingkungan.
+
+EVALUASI AKHIR
+A. Jelaskan mengapa bukti diperlukan dalam penyelidikan ilmiah.
+B. Bandingkan perubahan fisika dan perubahan kimia.
+C. Berikan contoh perubahan energi pada alat rumah tangga.
+D. Jelaskan hubungan gaya, massa, dan percepatan.
+E. Uraikan hubungan atmosfer, hidrosfer, geosfer, dan biosfer.
+F. Jelaskan peran fotosintesis dalam aliran energi ekosistem.
+G. Mengapa energi mengalir sedangkan materi dapat bersiklus?
+H. Jelaskan kerja sama sistem pernapasan dan peredaran darah.
+I. Sebutkan tahap umum proses rekayasa.
+J. Berikan satu contoh mitigasi dan satu contoh adaptasi perubahan iklim.
+
+PEDOMAN BELAJAR
+Baca satu bab dalam satu sesi. Tandai istilah yang belum dipahami, lalu tulis kembali gagasan utama dengan kalimat sendiri. Kerjakan latihan tanpa melihat rangkuman terlebih dahulu. Jika menemukan informasi yang berbeda dari sumber lain, periksa tanggal, penulis, bukti, dan konteksnya. Pengetahuan sains terus berkembang; kebiasaan memeriksa sumber adalah bagian dari belajar.
+
+KREDIT DAN LISENSI
+Naskah ini ditulis khusus untuk NextyLibrary oleh Tim Editorial NextyLibrary. Seluruh uraian dalam edisi ini merupakan materi orisinal dan tidak menyalin bab dari buku berhak cipta. Ilustrasi visual belum disertakan dalam edisi teks ini. Edisi berikutnya dapat menambahkan diagram orisinal yang dibuat khusus untuk memperjelas konsep.

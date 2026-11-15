@@ -246,3 +246,33 @@ Daftar berikut merupakan titik awal untuk pendalaman. Pembaca perlu memeriksa ed
 
 CATATAN PENULIS
 Naskah pengembangan orisinal Nexty Studio untuk pembelajaran umum. Naskah ini merupakan bahan belajar, bukan pengganti buku ajar resmi, survei lapangan, nasihat profesional, atau informasi kebencanaan dari lembaga berwenang. Edisi berikutnya perlu ditinjau oleh pengajar atau ahli geologi dan diperbarui ketika ilmu serta data berkembang.
+
+
+
+BAB LANJUTAN — BATUAN, SUMBER DAYA, DAN BAHAYA GEOLOGI
+
+Siklus batuan menjelaskan perubahan antara batuan beku, sedimen, dan metamorf. Batuan beku terbentuk dari pembekuan magma atau lava. Batuan sedimen terbentuk melalui pengendapan dan pemadatan material. Batuan metamorf berubah akibat tekanan, suhu, dan fluida tanpa harus melebur seluruhnya. Proses-proses ini berlangsung dalam skala waktu yang sangat panjang.
+
+Sumber daya geologi seperti mineral, air tanah, dan bahan bangunan mendukung kehidupan modern. Pengambilan sumber daya perlu memperhatikan dampak pada tanah, air, ekosistem, dan masyarakat. Penilaian tidak cukup hanya melihat jumlah cadangan; biaya pemulihan dan keselamatan juga penting.
+
+Bahaya geologi meliputi gempa, letusan gunung api, longsor, dan tsunami. Pemantauan ilmiah membantu mengenali perubahan dan menyusun peringatan, tetapi tidak selalu dapat menentukan waktu kejadian secara tepat. Ikuti informasi lembaga resmi dan jangan mendekati area yang dinyatakan berbahaya.
+
+EVALUASI
+1. Sebutkan tiga kelompok utama batuan.
+2. Bagaimana batuan sedimen terbentuk?
+3. Mengapa pengelolaan sumber daya perlu memperhitungkan dampak sosial dan lingkungan?
+4. Apa manfaat pemantauan geologi?
+5. Mengapa prediksi waktu gempa secara tepat sangat sulit?
+
+PEMBAHASAN
+1. Beku, sedimen, dan metamorf.
+2. Material mengalami pelapukan, pengangkutan, pengendapan, lalu pemadatan/sementasi.
+3. Karena dampak dapat berlangsung lama dan dirasakan masyarakat sekitar.
+4. Mengamati perubahan dan mendukung peringatan serta mitigasi.
+5. Proses patahan kompleks dan belum ada metode yang dapat memastikan waktu secara tepat.
+
+GLOSARIUM
+Magma: batuan cair di bawah permukaan.
+Lava: magma yang mencapai permukaan.
+Metamorf: perubahan batuan akibat tekanan, suhu, dan fluida.
+Mitigasi: upaya mengurangi risiko bencana.

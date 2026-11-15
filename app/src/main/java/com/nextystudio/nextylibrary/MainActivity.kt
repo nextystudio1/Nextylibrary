@@ -48,7 +48,7 @@ private val Paper = Color(0xFFF4F7F4)
 private val Mint = Color(0xFFDDF1E6)
 private val Muted = Color(0xFF78877F)
 
-data class Book(val id: String, val title: String, val author: String, val description: String, val categoryId: String?, val pageCount: Int, val coverPath: String?)
+data class Book(val id: String, val title: String, val author: String, val description: String, val categoryId: String?, val pageCount: Int, val coverPath: String?, val contentPath: String?)
 data class BookCategory(val id: String, val name: String)
 
 class MainActivity : ComponentActivity() {
@@ -67,6 +67,7 @@ fun NextyLibraryApp() {
     var search by remember { mutableStateOf("") }
     var selectedCategory by remember { mutableStateOf<String?>(null) }
     var selected by remember { mutableStateOf<Book?>(null) }
+    var reading by remember { mutableStateOf<Book?>(null) }
     var tab by remember { mutableStateOf("Beranda") }
     var reloadKey by remember { mutableIntStateOf(0) }
 
@@ -85,8 +86,10 @@ fun NextyLibraryApp() {
     MaterialTheme(colorScheme = lightColorScheme(primary = Green, onPrimary = Color.White, background = Paper, surface = Color.White, onSurface = Ink)) {
         Surface(Modifier.fillMaxSize(), color = Paper) {
             Column(Modifier.fillMaxSize()) {
-                if (selected != null) {
-                    BookDetail(selected!!, categories.firstOrNull { it.id == selected!!.categoryId }?.name) { selected = null }
+                if (reading != null) {
+                    ReaderScreen(reading!!, onBack = { reading = null })
+                } else if (selected != null) {
+                    BookDetail(selected!!, categories.firstOrNull { it.id == selected!!.categoryId }?.name, onBack = { selected = null }, onRead = { reading = selected })
                 } else {
                     when (tab) {
                         "Beranda" -> Box(Modifier.weight(1f)) { HomeScreen(books, categories, loading, error, search, { search = it }, selectedCategory, { selectedCategory = it }, { reloadKey++ }, { selected = it }) }
@@ -465,7 +468,7 @@ private fun CollectionEmptyScreen() {
 }
 
 @Composable
-private fun BookDetail(book: Book, categoryName: String?, onBack: () -> Unit) {
+private fun BookDetail(book: Book, categoryName: String?, onBack: () -> Unit, onRead: () -> Unit) {
     Column(Modifier.fillMaxSize().background(Paper)) {
         Row(Modifier.fillMaxWidth().background(Color.White).padding(horizontal = 18.dp, vertical = 15.dp), verticalAlignment = Alignment.CenterVertically) {
             Text("‹", color = Green, fontSize = 30.sp, modifier = Modifier.clickable(onClick = onBack))
@@ -500,19 +503,97 @@ private fun BookDetail(book: Book, categoryName: String?, onBack: () -> Unit) {
                 Spacer(Modifier.height(8.dp))
                 Text(book.description.ifBlank { "Deskripsi buku belum tersedia." }, color = Muted, fontSize = 13.sp, lineHeight = 21.sp, modifier = Modifier.fillMaxWidth())
                 Spacer(Modifier.height(24.dp))
-                Card(shape = RoundedCornerShape(18.dp), colors = CardDefaults.cardColors(containerColor = Color.White)) {
-                    Row(Modifier.padding(15.dp), verticalAlignment = Alignment.CenterVertically) {
-                        Text("🔒", fontSize = 24.sp)
-                        Spacer(Modifier.width(12.dp))
-                        Column {
-                            Text("Siap untuk dibaca", color = Ink, fontWeight = FontWeight.Bold, fontSize = 13.sp)
-                            Text("Fitur pembukaan buku dan reader sedang disiapkan dengan verifikasi akses yang aman.", color = Muted, fontSize = 11.sp, lineHeight = 16.sp)
-                        }
-                    }
+                Button(onClick = onRead, enabled = !book.contentPath.isNullOrBlank(),
+                    modifier = Modifier.fillMaxWidth().height(56.dp), shape = RoundedCornerShape(16.dp),
+                    colors = ButtonDefaults.buttonColors(containerColor = Green)) {
+                    Text("Baca sekarang", fontSize = 16.sp, fontWeight = FontWeight.Bold)
                 }
+                Spacer(Modifier.height(10.dp))
+                Text(if (book.contentPath.isNullOrBlank()) "Teks buku belum tersedia." else "Edisi teks domain publik • dapat dibaca gratis",
+                    color = Muted, fontSize = 11.sp)
             }
         }
     }
+}
+
+
+@Composable
+private fun ReaderScreen(book: Book, onBack: () -> Unit) {
+    var body by remember(book.id) { mutableStateOf<String?>(null) }
+    var error by remember(book.id) { mutableStateOf<String?>(null) }
+    var loading by remember(book.id) { mutableStateOf(true) }
+    LaunchedEffect(book.id, book.contentPath) {
+        loading = true
+        error = null
+        try {
+            val source = book.contentPath ?: throw IllegalStateException("Sumber teks buku belum tersedia.")
+            body = withContext(Dispatchers.IO) { fetchPublicBookText(source) }
+        } catch (e: Exception) {
+            error = e.localizedMessage ?: "Buku gagal dimuat. Periksa koneksi internet."
+        } finally { loading = false }
+    }
+    Column(Modifier.fillMaxSize().background(Paper)) {
+        Row(Modifier.fillMaxWidth().background(Color.White).padding(horizontal = 16.dp, vertical = 12.dp), verticalAlignment = Alignment.CenterVertically) {
+            Text("‹", color = Green, fontSize = 30.sp, modifier = Modifier.clickable(onClick = onBack))
+            Spacer(Modifier.width(12.dp))
+            Column(Modifier.weight(1f)) {
+                Text(book.title, color = Ink, fontSize = 16.sp, fontWeight = FontWeight.ExtraBold, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                Text(book.author, color = Muted, fontSize = 11.sp)
+            }
+            Text("DOMAIN PUBLIK", color = Green, fontSize = 9.sp, fontWeight = FontWeight.Bold)
+        }
+        when {
+            loading -> Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                    CircularProgressIndicator(color = Green)
+                    Spacer(Modifier.height(12.dp))
+                    Text("Memuat buku…", color = Muted)
+                }
+            }
+            error != null -> Box(Modifier.fillMaxSize().padding(24.dp), contentAlignment = Alignment.Center) {
+                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                    Text("Buku belum dapat dibuka", color = Ink, fontSize = 18.sp, fontWeight = FontWeight.Bold)
+                    Spacer(Modifier.height(8.dp))
+                    Text(error ?: "", color = Muted)
+                }
+            }
+            else -> LazyColumn(Modifier.fillMaxSize(), contentPadding = PaddingValues(start = 24.dp, end = 24.dp, top = 26.dp, bottom = 50.dp)) {
+                item {
+                    Text(book.title, color = Ink, fontSize = 25.sp, lineHeight = 32.sp, fontWeight = FontWeight.ExtraBold)
+                    Spacer(Modifier.height(8.dp))
+                    Text("Oleh " + book.author, color = Green, fontSize = 14.sp, fontWeight = FontWeight.SemiBold)
+                    Spacer(Modifier.height(24.dp))
+                    HorizontalDivider(color = Mint)
+                    Spacer(Modifier.height(20.dp))
+                }
+                items((body ?: "").split(Regex("\\n\\s*\\n")).filter { it.isNotBlank() }) { paragraph ->
+                    Text(paragraph.trim(), color = Ink, fontSize = 16.sp, lineHeight = 28.sp,
+                        modifier = Modifier.fillMaxWidth().padding(bottom = 18.dp))
+                }
+                item { Text("— Akhir teks —", color = Muted, fontSize = 12.sp) }
+            }
+        }
+    }
+}
+
+private fun fetchPublicBookText(source: String): String {
+    val connection = URL(source).openConnection() as HttpURLConnection
+    try {
+        connection.requestMethod = "GET"
+        connection.connectTimeout = 20000
+        connection.readTimeout = 30000
+        connection.instanceFollowRedirects = true
+        connection.setRequestProperty("User-Agent", "NextyLibrary/1.0")
+        val code = connection.responseCode
+        if (code !in 200..299) throw IllegalStateException("Sumber buku merespons HTTP " + code)
+        val raw = connection.inputStream.bufferedReader(Charsets.UTF_8).use { it.readText() }
+        val startRegex = Regex("(?im)^\\*\\*\\*\\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\*\\*\\*\\s*")
+        val endRegex = Regex("(?im)^\\*\\*\\*\\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\*\\*\\*")
+        val start = startRegex.find(raw)
+        val end = endRegex.find(raw, start?.range?.last?.plus(1) ?: 0)
+        val clean = if (start != null && end != null) raw.substring(start.range.last + 1, end.range.first) else raw
+        return clean.replace("\\r\\n", "\\n").replace(Regex("\\n{3,}"), "\\n\\n").trim()
+    } finally { connection.disconnect() }
 }
 
 @Composable
@@ -552,7 +633,7 @@ private fun fetchCategories(): List<BookCategory> {
 }
 
 private fun fetchBooks(): List<Book> {
-    val endpoint = BuildConfig.SUPABASE_URL.trimEnd('/') + "/rest/v1/books?select=id,title,author,description,category_id,page_count,cover_path&is_published=eq.true&order=published_at.desc"
+    val endpoint = BuildConfig.SUPABASE_URL.trimEnd('/') + "/rest/v1/books?select=id,title,author,description,category_id,page_count,cover_path,content_path&is_published=eq.true&order=published_at.desc"
     val connection = URL(endpoint).openConnection() as HttpURLConnection
     try {
         connection.requestMethod = "GET"
@@ -568,7 +649,8 @@ private fun fetchBooks(): List<Book> {
             val item = array.getJSONObject(i)
             Book(item.optString("id"), item.optString("title", "Tanpa judul"), item.optString("author"),
                 item.optString("description"), item.optString("category_id").takeIf { it.isNotBlank() && it != "null" },
-                item.optInt("page_count", 0), item.optString("cover_path").takeIf { it.isNotBlank() && it != "null" })
+                item.optInt("page_count", 0), item.optString("cover_path").takeIf { it.isNotBlank() && it != "null" },
+                item.optString("content_path").takeIf { it.isNotBlank() && it != "null" })
         }
     } finally { connection.disconnect() }
 }

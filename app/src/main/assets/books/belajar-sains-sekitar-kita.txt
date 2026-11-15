@@ -524,3 +524,37 @@ LATIHAN
 1. Apa fungsi definisi operasional? Jawaban: membuat konsep dapat diukur secara konsisten.
 2. Mengapa data yang berlawanan dengan dugaan tetap dicatat? Jawaban: agar kesimpulan tidak dipilih berdasarkan harapan peneliti.
 3. Apa beda kesalahan acak dan sistematis? Jawaban: kesalahan acak berubah-ubah, sedangkan sistematis menggeser hasil secara konsisten.
+
+
+
+BAB LANJUTAN — MERANCANG PENYELIDIKAN YANG ADIL
+
+Penyelidikan yang baik dimulai dari pertanyaan yang dapat diuji. Pertanyaan seperti “apakah tanaman ini bagus?” terlalu luas. Pertanyaan yang lebih terukur misalnya “bagaimana perbedaan intensitas cahaya memengaruhi jumlah daun pada jenis tanaman yang sama selama periode pengamatan tertentu?” Pertanyaan tersebut menyebutkan faktor yang diamati dan hasil yang akan dicatat.
+
+Variabel bebas adalah faktor yang sengaja diubah, variabel terikat adalah hasil yang diukur, sedangkan variabel kontrol adalah faktor lain yang dijaga serupa. Pengendalian variabel membantu peneliti menilai apakah perubahan hasil berkaitan dengan faktor yang diuji. Dalam pengamatan lapangan, semua faktor tidak selalu dapat dikendalikan; keterbatasan tersebut perlu dicatat.
+
+Pengukuran perlu memiliki satuan dan prosedur yang konsisten. Jika beberapa orang mengukur objek, sepakati cara membaca alat dan cara mencatat hasil. Ulangi pengukuran bila memungkinkan. Data yang berbeda-beda bukan alasan untuk menghapus hasil yang tidak sesuai dugaan; periksa prosedur, alat, dan variasi alami.
+
+PROYEK: UJI PERTANYAAN ILMIAH
+
+Pilih fenomena aman di sekitar, seperti waktu yang dibutuhkan es mencair pada dua tempat teduh dengan kondisi berbeda. Tuliskan pertanyaan, dugaan, variabel, prosedur, tabel hasil, dan keterbatasan. Jangan menggunakan api, listrik terbuka, bahan kimia berbahaya, atau mencicipi bahan percobaan.
+
+EVALUASI
+1. Bedakan variabel bebas, terikat, dan kontrol.
+2. Mengapa prosedur pengukuran perlu konsisten?
+3. Apa yang harus dilakukan jika hasil tidak sesuai dugaan?
+4. Mengapa pengulangan membantu meningkatkan kepercayaan pada hasil?
+5. Sebutkan dua keterbatasan pengamatan lapangan.
+
+PEMBAHASAN
+1. Faktor yang diubah, hasil yang diukur, dan faktor yang dijaga serupa.
+2. Agar hasil dapat dibandingkan secara adil.
+3. Periksa metode dan data, lalu laporkan hasil apa adanya serta revisi penjelasan bila perlu.
+4. Pengulangan membantu melihat variasi dan mengurangi pengaruh kebetulan.
+5. Cuaca, variasi alami, alat, jumlah sampel, dan faktor yang tidak dapat dikendalikan.
+
+GLOSARIUM
+Variabel bebas: faktor yang sengaja diubah.
+Variabel terikat: hasil yang diukur.
+Variabel kontrol: faktor yang dijaga tetap atau setara.
+Reprodusibilitas: kemampuan memperoleh hasil sebanding melalui prosedur yang dijelaskan.

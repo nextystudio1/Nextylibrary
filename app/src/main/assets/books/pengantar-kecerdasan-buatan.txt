@@ -130,3 +130,37 @@ BAB 19 — STUDI KASUS SISTEM REKOMENDASI
 Perpustakaan digital dapat merekomendasikan bahan belajar berdasarkan kategori, tingkat kesulitan, dan tujuan belajar yang dipilih pengguna. Rekomendasi tidak boleh mengunci pembaca dalam satu topik atau menyimpulkan sifat sensitif. Evaluasi apakah rekomendasi memperluas penemuan materi dan apakah pengguna dapat mengatur personalisasi.
 TUGAS PRAKTIK
 Rancang ide sistem AI dengan menuliskan masalah, pengguna, data minimum, potensi bias, risiko kesalahan, ukuran keberhasilan, dan cara pengguna mengoreksi keluaran. Jelaskan mengapa solusi berbasis aturan sederhana mungkin cukup.
+
+
+
+BAB LANJUTAN — DATA, BIAS, DAN TANGGUNG JAWAB AI
+
+Sistem kecerdasan buatan belajar pola dari data. Jika data tidak mewakili kelompok atau situasi yang akan dihadapi, hasil dapat kurang akurat bagi sebagian pengguna. Bias dapat muncul dari cara data dikumpulkan, label yang diberikan, tujuan sistem, atau cara hasil digunakan.
+
+Evaluasi model harus menggunakan data uji yang tidak dipakai untuk melatih model. Untuk beberapa tugas, akurasi saja tidak cukup. Sistem penyaring spam, misalnya, perlu mempertimbangkan kesalahan menganggap pesan penting sebagai spam dan kesalahan membiarkan spam masuk. Pemilihan metrik bergantung pada dampak setiap jenis kesalahan.
+
+AI generatif dapat menghasilkan teks, gambar, atau kode yang tampak meyakinkan tetapi keliru. Pengguna perlu memeriksa fakta, sumber, hak cipta, privasi, dan kesesuaian hasil. Jangan memasukkan data pribadi atau rahasia ke layanan yang belum dipahami kebijakan datanya. Keputusan penting sebaiknya tidak diserahkan sepenuhnya kepada sistem otomatis.
+
+LATIHAN
+
+Rancang daftar pemeriksaan untuk menilai sebuah sistem rekomendasi pendidikan: tujuan, data, kelompok pengguna, metrik, potensi kesalahan, privasi, dan cara mengajukan keberatan.
+
+EVALUASI
+1. Bagaimana bias dapat masuk ke sistem AI?
+2. Mengapa data uji harus terpisah dari data pelatihan?
+3. Apa perbedaan false positive dan false negative?
+4. Mengapa keluaran AI generatif perlu diverifikasi?
+5. Sebutkan tiga pertimbangan etis penggunaan AI.
+
+PEMBAHASAN
+1. Melalui data, label, desain, tujuan, atau penggunaan.
+2. Agar evaluasi mengukur kemampuan pada data yang belum dipelajari.
+3. Positif palsu menyatakan ada kondisi padahal tidak; negatif palsu gagal mendeteksi kondisi yang ada.
+4. Model dapat menghasilkan informasi yang tampak benar tetapi salah.
+5. Privasi, keadilan, transparansi, keamanan, dan tanggung jawab.
+
+GLOSARIUM
+Data pelatihan: data yang digunakan untuk menyesuaikan model.
+Data uji: data terpisah untuk mengevaluasi model.
+Bias: penyimpangan sistematis yang dapat menghasilkan perlakuan atau hasil tidak adil.
+AI generatif: sistem yang menghasilkan konten baru berdasarkan pola yang dipelajari.

@@ -759,13 +759,11 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
                 throw IllegalStateException("Buku ini belum memiliki naskah teks yang dapat dibaca langsung di NextyLibrary.")
             }
             body = withContext(Dispatchers.IO) {
-                if (source.startsWith("asset://")) context.assets.open(source.removePrefix("asset://")).bufferedReader(Charsets.UTF_8).use { it.readText() }
-                else fetchPublicBookText(source)
-            } else {
-                if (source.lowercase().substringBefore('?').endsWith(".pdf") || source.startsWith("pdf://") || source.contains("format=pdf", true)) {
-                    throw IllegalStateException("Sumber buku ini masih berupa PDF dan belum memiliki edisi teks yang boleh ditampilkan di pembaca Nexty.")
+                if (source.startsWith("asset://")) {
+                    context.assets.open(source.removePrefix("asset://")).bufferedReader(Charsets.UTF_8).use { it.readText() }
+                } else {
+                    fetchPublicBookText(source)
                 }
-                body = withContext(Dispatchers.IO) { if (source.startsWith("asset://")) context.assets.open(source.removePrefix("asset://")).bufferedReader(Charsets.UTF_8).use { it.readText() } else fetchPublicBookText(source) }
             }
         } catch (e: Exception) {
             error = e.localizedMessage ?: "Buku gagal dimuat. Periksa koneksi internet."

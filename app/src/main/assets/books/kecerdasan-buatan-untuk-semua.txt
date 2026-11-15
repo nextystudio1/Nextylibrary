@@ -310,3 +310,36 @@ LATIHAN
 1. Mengapa data uji harus mewakili penggunaan nyata? Jawaban: agar evaluasi mendekati kondisi penerapan.
 2. Apa arti recall? Jawaban: proporsi kasus positif sebenarnya yang berhasil ditemukan.
 3. Mengapa pengawasan manusia diperlukan? Jawaban: model memiliki keterbatasan dan keputusan dapat berdampak pada manusia.
+
+
+
+BAB LANJUTAN — MENGUJI SISTEM AI DALAM KONTEKS NYATA
+
+Sistem AI perlu diuji pada kondisi yang mendekati penggunaan sebenarnya. Data uji sebaiknya mencakup variasi bahasa, perangkat, kualitas masukan, dan kelompok pengguna yang relevan. Jika model hanya diuji pada contoh yang sangat mirip dengan data pelatihan, hasil evaluasi dapat terlihat terlalu baik.
+
+Kesalahan model perlu dianalisis berdasarkan dampaknya. Pada sistem pengenal suara, kesalahan dapat berbeda antaraksen. Pada sistem rekomendasi, hasil dapat terlalu sering menampilkan konten serupa. Pada sistem klasifikasi, ambang keputusan memengaruhi jumlah positif palsu dan negatif palsu. Karena itu, laporan evaluasi sebaiknya menjelaskan metrik, kelompok data, dan keterbatasan.
+
+Pengawasan manusia penting ketika keluaran AI berdampak pada pendidikan, kesehatan, pekerjaan, atau akses layanan. Pengguna perlu mengetahui kapan AI digunakan, bagaimana meminta peninjauan, dan siapa yang bertanggung jawab atas keputusan akhir. Otomatisasi tidak menghapus tanggung jawab pembuat maupun penggunanya.
+
+PROYEK
+
+Buat rancangan evaluasi untuk alat AI sederhana yang mengelompokkan pertanyaan pelajaran. Tentukan kategori, contoh data yang beragam, ukuran keberhasilan, jenis kesalahan yang mungkin terjadi, dan cara pengguna melaporkan hasil yang keliru. Gunakan data buatan, bukan percakapan pribadi.
+
+EVALUASI
+1. Mengapa data uji harus mewakili kondisi penggunaan?
+2. Apa dampak positif palsu dan negatif palsu?
+3. Mengapa metrik perlu dipilih sesuai tujuan?
+4. Kapan peninjauan manusia sangat penting?
+5. Siapa yang bertanggung jawab atas keputusan yang menggunakan AI?
+
+PEMBAHASAN
+1. Agar hasil pengujian mencerminkan kinerja pada situasi nyata.
+2. Positif palsu dapat menandai hal yang benar sebagai salah; negatif palsu melewatkan hal yang seharusnya dikenali.
+3. Karena jenis kesalahan memiliki konsekuensi berbeda pada tiap penggunaan.
+4. Ketika keputusan berdampak besar pada hak, keselamatan, atau kesempatan seseorang.
+5. Pihak yang merancang, menyediakan, dan menggunakan sistem sesuai peran serta kewajibannya; AI sendiri bukan pengganti tanggung jawab manusia.
+
+GLOSARIUM
+Ambang keputusan: batas skor yang digunakan untuk menentukan keluaran kategori.
+Evaluasi lintas kelompok: pemeriksaan kinerja pada kelompok data yang berbeda.
+Pengawasan manusia: keterlibatan manusia untuk meninjau dan bertanggung jawab atas penggunaan sistem.

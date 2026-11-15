@@ -208,3 +208,15 @@ LATIHAN
 1. Apa itu paralaks? Jawaban: perubahan posisi tampak objek akibat perubahan posisi pengamat.
 2. Mengapa materi gelap disebut demikian? Jawaban: karena diketahui terutama melalui pengaruh gravitasi, bukan cahaya yang dipancarkannya.
 3. Mengapa penemuan astronomi perlu konfirmasi independen? Jawaban: untuk mengurangi kemungkinan kesalahan instrumen, analisis, atau interpretasi.
+
+BAB LANJUTAN: MENGUKUR JARAK DAN MEMBACA CAHAYA
+Astronomi memerlukan cara mengukur objek yang tidak dapat disentuh. Untuk bintang dekat, paralaks tahunan mengukur perubahan posisi tampak ketika Bumi berada pada bagian orbit yang berbeda. Sudut paralaks yang kecil menunjukkan jarak yang besar. Untuk objek lebih jauh, astronom memakai metode lain seperti bintang variabel tertentu dan supernova tipe Ia, dengan kalibrasi serta ketidakpastian yang harus diperhitungkan.
+Spektrum cahaya memberi informasi tentang komposisi, suhu, gerak, dan kondisi objek. Garis spektrum muncul karena atom dan molekul menyerap atau memancarkan panjang gelombang tertentu. Pergeseran Doppler membantu memperkirakan gerak sepanjang garis pandang. Pergeseran merah kosmologis pada galaksi jauh berkaitan dengan pemuaian ruang.
+CARA MENILAI MODEL KOSMOLOGI
+Model kosmologi diuji dengan banyak bukti yang saling melengkapi, termasuk radiasi latar gelombang mikro kosmik, kelimpahan unsur ringan, distribusi galaksi, dan hubungan jarak-pergeseran merah. Satu pengamatan tidak cukup untuk membuktikan seluruh model. Peneliti membandingkan prediksi, data, ketidakpastian instrumen, dan kemungkinan penjelasan alternatif.
+KEGIATAN ANALISIS
+Buat tabel berisi metode pengukuran, objek sasaran, data yang diperlukan, dan sumber ketidakpastian. Bandingkan paralaks, spektroskopi, dan pengamatan transit planet. Jelaskan mengapa metode yang berbeda dapat saling menguatkan.
+LATIHAN PEMAHAMAN
+1. Mengapa spektrum bintang berguna? Jawaban: pola garisnya memberi petunjuk unsur, suhu, dan kondisi atmosfer bintang.
+2. Apa yang diukur pergeseran Doppler? Jawaban: komponen gerak relatif sepanjang garis pandang melalui perubahan panjang gelombang.
+3. Mengapa kosmologi memerlukan banyak jenis bukti? Jawaban: setiap pengamatan memiliki batas dan penjelasan alternatif; kesesuaian banyak bukti membuat model lebih kuat.

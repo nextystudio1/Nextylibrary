@@ -881,10 +881,18 @@ private fun PdfBookReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle
     }
 }
 
+private fun isPdfBookSource(source: String): Boolean {
+    val normalized = source.lowercase()
+    return normalized.startsWith("pdf://") ||
+        normalized.substringBefore('?').endsWith(".pdf") ||
+        normalized.contains("/view/pdfcoverpage") ||
+        normalized.contains("format=pdf")
+}
+
 @Composable
 private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () -> Unit, onBack: () -> Unit) {
     val context = LocalContext.current
-    if (book.contentPath?.let { it.lowercase().substringBefore('?').endsWith(".pdf") || it.startsWith("pdf://") } == true) {
+    if (book.contentPath?.let { isPdfBookSource(it) } == true) {
         PdfBookReaderScreen(book, musicPlaying, onMusicToggle, onBack)
         return
     }

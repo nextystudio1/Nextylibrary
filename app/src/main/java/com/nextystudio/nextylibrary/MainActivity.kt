@@ -258,9 +258,9 @@ private fun MusicPlayerCard() {
             ) { Text("♫", color = Color.White, fontSize = 25.sp, fontWeight = FontWeight.Bold) }
             Spacer(Modifier.width(12.dp))
             Column(Modifier.weight(1f)) {
-                Text("Suasana Tenang", color = Ink, fontSize = 13.sp, fontWeight = FontWeight.ExtraBold)
-                Text("Musik instrumental untuk menemani membaca", color = Muted, fontSize = 10.sp, maxLines = 2)
-                Text("NEXTY AMBIENT • ORIGINAL", color = Green, fontSize = 8.sp, fontWeight = FontWeight.Bold, letterSpacing = 1.sp)
+                Text("Piano Chill", color = Ink, fontSize = 13.sp, fontWeight = FontWeight.ExtraBold)
+                Text("Melodi piano, bass lembut, dan ritme santai", color = Muted, fontSize = 10.sp, maxLines = 2)
+                Text("NEXTY PIANO CHILL • ORIGINAL", color = Green, fontSize = 8.sp, fontWeight = FontWeight.Bold, letterSpacing = 1.sp)
             }
             Spacer(Modifier.width(8.dp))
             FilledIconButton(
@@ -312,20 +312,32 @@ private class AmbientMusicPlayer {
         val seconds = 8
         val frames = sampleRate * seconds
         val samples = ShortArray(frames * 2)
-        val roots = intArrayOf(0, 5, 7, 3)
+        val chordSteps = intArrayOf(0, 5, 7, 3)
+        val melodySteps = intArrayOf(12, 7, 10, 7, 15, 12, 10, 7, 12, 17, 15, 12, 10, 7, 5, 7)
         for (frame in 0 until frames) {
             val time = frame.toDouble() / sampleRate
-            val chord = roots[(frame / (sampleRate * 2)) % roots.size]
-            val root = 174.61 * Math.pow(2.0, chord / 12.0)
-            val fadeIn = (time / 0.8).coerceIn(0.0, 1.0)
-            val fadeOut = ((seconds - time) / 0.8).coerceIn(0.0, 1.0)
+            val beatPosition = time * 2.0
+            val chordIndex = (time / 2.0).toInt() % chordSteps.size
+            val root = 220.0 * Math.pow(2.0, chordSteps[chordIndex] / 12.0)
+            val fadeIn = (time / 0.18).coerceIn(0.0, 1.0)
+            val fadeOut = ((seconds - time) / 0.22).coerceIn(0.0, 1.0)
             val envelope = minOf(fadeIn, fadeOut)
-            val slowPulse = 0.78 + 0.22 * sin(2.0 * PI * time / 5.5)
-            val pad = sin(2.0 * PI * root * time) * 0.48 +
-                sin(2.0 * PI * root * 1.25 * time) * 0.25 +
-                sin(2.0 * PI * root * 1.5 * time) * 0.18 +
-                sin(2.0 * PI * root * 2.0 * time) * 0.09
-            val value = (pad * envelope * slowPulse * 0.30 * Short.MAX_VALUE).toInt()
+            val pulse = 0.88 + 0.12 * sin(2.0 * PI * beatPosition)
+            val pad = sin(2.0 * PI * root * 0.5 * time) * 0.18 +
+                sin(2.0 * PI * root * time) * 0.13 +
+                sin(2.0 * PI * root * 1.5 * time) * 0.07
+            val bass = sin(2.0 * PI * root * 0.5 * time) * 0.22
+            val beatInBar = (beatPosition % 4.0)
+            val noteIndex = (beatPosition.toInt() % melodySteps.size)
+            val noteHz = 440.0 * Math.pow(2.0, (melodySteps[noteIndex] - 12) / 12.0)
+            val notePhase = beatInBar % 1.0
+            val pluckEnvelope = Math.exp(-notePhase * 6.5)
+            val pluck = (sin(2.0 * PI * noteHz * time) +
+                0.28 * sin(2.0 * PI * noteHz * 2.0 * time)) * pluckEnvelope * 0.34
+            val sparkleHz = noteHz * 2.0
+            val sparkle = sin(2.0 * PI * sparkleHz * time) * pluckEnvelope * 0.045
+            val mix = (pad + bass + pluck + sparkle) * envelope * pulse * 0.72
+            val value = (mix * Short.MAX_VALUE).toInt()
                 .coerceIn(Short.MIN_VALUE.toInt(), Short.MAX_VALUE.toInt()).toShort()
             samples[frame * 2] = value
             samples[frame * 2 + 1] = value

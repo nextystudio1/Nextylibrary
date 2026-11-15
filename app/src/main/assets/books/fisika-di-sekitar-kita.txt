@@ -329,3 +329,36 @@ LATIHAN PEMAHAMAN
 1. Apa hubungan frekuensi dan periode? Jawaban: f = 1/T untuk getaran periodik.
 2. Apa beda energi dan daya? Jawaban: energi adalah jumlah energi yang dipindahkan atau digunakan, daya adalah lajunya.
 3. Mengapa gelombang bunyi memerlukan medium? Jawaban: bunyi merambat melalui getaran partikel medium.
+
+
+
+BAB LANJUTAN — GELOMBANG, BUNYI, DAN INFORMASI
+
+Gelombang memindahkan energi tanpa harus memindahkan materi secara keseluruhan dari satu tempat ke tempat lain. Gelombang mekanik, seperti bunyi dan gelombang air, memerlukan medium. Gelombang elektromagnetik, seperti cahaya dan gelombang radio, dapat merambat di ruang hampa.
+
+Frekuensi menyatakan jumlah getaran per satuan waktu, sedangkan panjang gelombang adalah jarak antara titik-titik sefase yang berurutan. Cepat rambat gelombang berkaitan dengan frekuensi dan panjang gelombang melalui hubungan v = fλ. Jika medium berubah, cepat rambat dapat berubah sehingga panjang gelombang ikut menyesuaikan.
+
+Bunyi dihasilkan oleh getaran dan merambat melalui medium. Tinggi-rendah nada berkaitan dengan frekuensi, sedangkan kuat-lemah bunyi berkaitan dengan intensitas dan persepsi pendengaran. Gema terjadi ketika bunyi dipantulkan dan terdengar kembali setelah jeda. Prinsip pantulan bunyi digunakan dalam sonar dan pengukuran jarak.
+
+PROYEK AMAN
+
+Amati gema atau perubahan bunyi di ruang berbeda tanpa membuat suara keras. Catat bentuk ruang, permukaan, dan jarak secara perkiraan. Hindari paparan suara sangat keras yang dapat mengganggu pendengaran.
+
+EVALUASI
+1. Apa perbedaan gelombang mekanik dan elektromagnetik?
+2. Jelaskan arti frekuensi dan panjang gelombang.
+3. Jika frekuensi meningkat sementara cepat rambat tetap, apa yang terjadi pada panjang gelombang?
+4. Mengapa bunyi tidak merambat di ruang hampa?
+5. Bagaimana sonar memanfaatkan pantulan bunyi?
+
+PEMBAHASAN
+1. Gelombang mekanik memerlukan medium; elektromagnetik tidak.
+2. Frekuensi adalah jumlah getaran per waktu; panjang gelombang adalah jarak antar titik sefase.
+3. Panjang gelombang mengecil karena v = fλ.
+4. Karena bunyi memerlukan partikel medium untuk meneruskan getaran.
+5. Mengukur waktu tempuh pantulan untuk memperkirakan jarak.
+
+GLOSARIUM
+Frekuensi: jumlah getaran tiap satuan waktu.
+Panjang gelombang: jarak antara dua titik sefase berurutan.
+Sonar: sistem yang menggunakan gelombang bunyi untuk mendeteksi objek atau jarak.

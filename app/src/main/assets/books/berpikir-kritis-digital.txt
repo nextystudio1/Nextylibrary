@@ -113,3 +113,81 @@ LATIHAN
 
 PROYEK
 Pilih satu klaim yang beredar di media sosial dan berkaitan dengan pelajaran sekolah. Telusuri sumber awal, cari dua sumber independen, periksa tanggal dan konteks, lalu tulis laporan satu halaman. Jangan menyebarkan ulang informasi pribadi atau konten yang merugikan orang lain.
+PENDALAMAN MATERI DAN PRAKTIK LITERASI DIGITAL
+
+BAB 1 — DARI DATA MENJADI PENGETAHUAN
+Data mentah belum menjawab pertanyaan dengan sendirinya. Misalnya, catatan suhu harian baru dapat digunakan untuk memahami pola setelah diketahui lokasi alat ukur, waktu pencatatan, satuan, dan cara pengukuran. Jika satu hari hilang dari catatan, pembaca perlu mengetahui apakah data itu tidak tersedia atau sengaja dihapus.
+Grafik juga memerlukan pembacaan cermat. Periksa judul, label sumbu, rentang angka, satuan, sumber data, dan periode. Grafik yang sumbu vertikalnya dimulai dari angka tertentu dapat membuat perubahan kecil tampak dramatis. Diagram lingkaran yang total kategorinya tidak mencapai keseluruhan perlu diberi penjelasan.
+Bedakan fakta, opini, interpretasi, dan prediksi. Fakta dapat diperiksa melalui bukti; opini menyatakan penilaian; interpretasi menjelaskan makna bukti; prediksi memperkirakan keadaan mendatang. Satu tulisan dapat memuat keempatnya. Tandai bagian-bagian tersebut sebelum menyimpulkan.
+Latihan: ambil satu infografik publik. Tulis tiga informasi yang benar-benar ditampilkan, dua hal yang belum diketahui, dan satu pertanyaan yang perlu diajukan kepada pembuat data.
+
+BAB 2 — MEMERIKSA SUMBER
+Pemeriksaan sumber dapat menggunakan kerangka sederhana: asal, keahlian, bukti, tanggal, tujuan, dan pembanding. Asal menjelaskan siapa penerbitnya. Keahlian berkaitan dengan kompetensi penulis pada topik tertentu. Bukti menunjukkan data atau dokumen yang mendukung. Tanggal membantu menilai apakah informasi masih relevan. Tujuan dapat berupa pendidikan, berita, promosi, atau persuasi.
+Jangan menilai sumber hanya dari tampilan situs, jumlah pengikut, atau gaya bahasa yang meyakinkan. Situs yang terlihat profesional tetap dapat memuat kesalahan. Sebaliknya, dokumen sederhana dapat berisi data primer yang penting. Nilailah isi dan proses verifikasinya.
+Periksa tautan rujukan. Apakah tautan menuju dokumen yang benar? Apakah dokumen mendukung kalimat yang diklaim? Apakah kutipan diambil sesuai konteks? Jika sumber hanya menyebut “menurut penelitian” tanpa nama peneliti, jurnal, atau tanggal, klaim itu belum cukup dapat ditelusuri.
+Latihan verifikasi: pilih satu klaim yang beredar. Cari sumber awal, dua pemeriksaan independen, tanggal publikasi, dan bukti yang digunakan. Tuliskan kesimpulan dengan tingkat kepastian yang sesuai.
+
+BAB 3 — LOGIKA DAN ARGUMEN
+Argumen terdiri dari klaim dan alasan yang mendukungnya. Bukti dapat berupa pengukuran, dokumen, hasil penelitian, atau contoh yang relevan. Argumen yang baik juga mengakui batas bukti dan menjawab keberatan yang masuk akal.
+Generalisasi tergesa-gesa terjadi ketika kesimpulan luas dibuat dari sedikit contoh. Kekeliruan sebab-akibat muncul ketika urutan waktu atau korelasi dianggap sebagai bukti sebab. Pilihan palsu menyajikan dua pilihan seolah tidak ada alternatif lain. Serangan pribadi mengalihkan perhatian dari isi argumen menuju karakter orang yang berbicara.
+Ada pula kekeliruan memilih bukti: hanya menampilkan data yang mendukung kesimpulan dan mengabaikan data yang bertentangan. Cara memperbaikinya adalah mencari contoh penyangkal, memeriksa metode, dan menyatakan apa yang belum diketahui. Mengubah pendapat setelah melihat bukti baru merupakan bagian dari penalaran yang sehat.
+Latihan: tulis satu klaim tentang penggunaan teknologi di sekolah. Susun alasan, bukti, kemungkinan keberatan, dan jawaban terhadap keberatan tersebut. Pastikan bukti benar-benar berkaitan dengan klaim.
+
+BAB 4 — FOTO, VIDEO, DAN KONTEKS
+Keaslian file dan kebenaran keterangan merupakan dua hal berbeda. Foto dapat benar-benar diambil kamera, tetapi tanggal atau lokasinya salah. Video dapat asli, tetapi potongannya menghilangkan sebab atau akibat suatu tindakan. Karena itu, pemeriksaan visual harus disertai pemeriksaan konteks.
+Periksa sumber unggahan paling awal yang dapat ditemukan, tanggal, lokasi, cuaca, papan nama, bahasa, dan unsur lingkungan. Bandingkan dengan dokumentasi lain dari peristiwa yang sama. Pencarian gambar terbalik membantu menemukan penggunaan terdahulu, tetapi tidak selalu menemukan sumber asli.
+Konten sintetis dapat dibuat atau diubah menggunakan perangkat lunak. Jangan mengandalkan satu ciri seperti gerakan wajah atau kualitas suara untuk memutuskan keaslian. Cari konfirmasi dari beberapa sumber tepercaya dan hindari menyebarkan konten pribadi yang dapat merugikan seseorang.
+Latihan: gunakan contoh gambar pendidikan yang bebas digunakan. Catat apa yang terlihat, apa yang hanya diduga, dan bukti tambahan yang diperlukan untuk memastikan waktu serta tempat.
+
+BAB 5 — ALGORITMA DAN REKOMENDASI
+Sistem rekomendasi memprediksi konten yang mungkin dipilih pengguna. Prediksi tersebut dipengaruhi data interaksi dan tujuan platform. Sistem yang mengutamakan waktu tonton dapat memberi prioritas pada materi yang membuat pengguna terus berinteraksi, bukan selalu materi yang paling akurat atau mendidik.
+Personalisasi membuat pengalaman setiap orang berbeda. Hal ini dapat membantu menemukan topik yang sesuai, tetapi juga membatasi keragaman informasi. Cobalah mencari topik yang sama melalui sumber berbeda, membaca penjelasan yang berlawanan, dan membuka dokumen asli ketika tersedia.
+Algoritma dapat membawa bias jika data pelatihan tidak mewakili kelompok tertentu atau jika tujuan sistem tidak mempertimbangkan dampak sosial. Penilaian otomatis sebaiknya memiliki mekanisme pengawasan, penjelasan, koreksi, dan pertanggungjawaban manusia.
+Latihan: selama beberapa hari, amati jenis konten yang direkomendasikan tanpa membagikan data pribadi. Catat kategori umum yang sering muncul dan pikirkan bagaimana interaksi sebelumnya mungkin memengaruhinya.
+
+BAB 6 — PRIVASI DAN KEAMANAN
+Privasi adalah kemampuan mengendalikan informasi tentang diri sendiri. Sebelum mengunggah sesuatu, pertimbangkan siapa yang dapat melihat, menyalin, menyimpan, atau menyebarkannya. Pengaturan akun dapat berubah dan tangkapan layar dapat tetap beredar meskipun unggahan asli dihapus.
+Gunakan kata sandi yang berbeda untuk layanan penting. Kata sandi panjang dan unik lebih baik daripada satu kata sandi yang digunakan berulang. Autentikasi multifaktor menambah lapisan perlindungan. Jangan pernah membagikan kode sekali pakai, PIN, atau tautan pemulihan kepada orang lain.
+Waspadai phishing, yaitu upaya menipu pengguna agar memberikan informasi rahasia melalui pesan atau situs palsu. Periksa alamat pengirim dan domain secara teliti. Jangan menekan tautan mendesak yang meminta tindakan segera. Buka layanan melalui aplikasi atau alamat resmi yang sudah diketahui.
+Jika akun diduga diambil alih, gunakan prosedur pemulihan resmi, ubah kata sandi dari perangkat tepercaya, keluarkan sesi yang tidak dikenal, dan beri tahu orang dewasa tepercaya bila kamu masih di bawah umur. Simpan bukti seperlunya tanpa menyebarkan data sensitif.
+Latihan: buat daftar pemeriksaan keamanan untuk akun latihan, bukan dengan menuliskan kata sandi asli. Tandai apakah autentikasi tambahan, pemulihan akun, dan notifikasi keamanan telah dipahami.
+
+BAB 7 — ETIKA DAN JEJAK DIGITAL
+Komunikasi digital tetap melibatkan manusia yang memiliki perasaan, hak, dan reputasi. Kritik sebaiknya diarahkan pada gagasan atau tindakan, bukan penghinaan terhadap identitas seseorang. Sebelum membagikan foto orang lain, minta izin dan pertimbangkan apakah unggahan tersebut dapat mempermalukan atau membahayakan.
+Jejak digital dapat berupa unggahan, komentar, metadata, dan salinan yang dibuat orang lain. Jejak tersebut tidak selalu mudah dihapus. Karena itu, pikirkan tujuan dan audiens sebelum menerbitkan sesuatu. Koreksi kesalahan secara terbuka bila memungkinkan dan jangan memperbesar penyebaran informasi yang keliru.
+Hak cipta juga berlaku di ruang digital. Cantumkan pencipta dan sumber, periksa lisensi, serta pahami batas penggunaan. Tidak semua gambar yang ditemukan melalui mesin pencari bebas digunakan. Materi berlisensi terbuka tetap memiliki syarat atribusi atau ketentuan lain.
+Latihan: ubah komentar kasar menjadi kritik yang spesifik, sopan, dan dapat ditindaklanjuti. Jelaskan perbedaan antara menyampaikan ketidaksetujuan dan menyerang pribadi.
+
+BAB 8 — KEPUTUSAN BERBASIS BUKTI
+Keputusan yang baik dimulai dengan merumuskan masalah. Tentukan pilihan yang tersedia, kriteria penilaian, bukti yang dibutuhkan, risiko, dan pihak yang terdampak. Jangan mengumpulkan data tanpa tujuan karena banyaknya data dapat mengaburkan persoalan.
+Gunakan matriks sederhana untuk membandingkan pilihan. Beri bobot pada kriteria yang penting, tetapi jelaskan alasan pemberian bobot. Angka dalam matriks membantu berpikir, bukan menggantikan pertimbangan etis atau pengalaman manusia.
+Setelah keputusan diambil, evaluasi hasilnya. Apakah tujuan tercapai? Apakah muncul dampak yang tidak diperkirakan? Bukti apa yang perlu dikumpulkan berikutnya? Proses evaluasi membuat keputusan berikutnya lebih baik.
+Proyek akhir: pilih satu persoalan digital di lingkungan sekolah, misalnya penyebaran kabar yang belum terverifikasi atau penggunaan gawai saat belajar. Rumuskan masalah, kumpulkan bukti yang tidak melanggar privasi, bandingkan solusi, dan presentasikan rekomendasi.
+
+RANGKUMAN AKHIR
+Literasi digital menggabungkan kemampuan memahami data, memeriksa sumber, menilai argumen, membaca media visual, memahami rekomendasi algoritmik, menjaga privasi, berkomunikasi etis, dan mengambil keputusan berbasis bukti. Sikap kritis bukan sikap sinis. Tujuannya adalah lebih teliti, adil, dan bertanggung jawab.
+
+EVALUASI AKHIR
+1. Jelaskan perbedaan data, informasi, dan pengetahuan.
+2. Sebutkan enam hal yang perlu diperiksa dari sebuah sumber.
+3. Berikan contoh generalisasi tergesa-gesa.
+4. Mengapa korelasi tidak otomatis menunjukkan sebab-akibat?
+5. Bagaimana foto asli dapat memiliki keterangan yang salah?
+6. Mengapa rekomendasi platform tidak sama dengan penilaian kebenaran?
+7. Sebutkan tiga langkah menjaga akun digital.
+8. Mengapa izin penting sebelum membagikan foto orang lain?
+9. Apa fungsi matriks keputusan dan apa keterbatasannya?
+10. Buat contoh koreksi informasi yang sopan dan menyertakan bukti.
+
+GLOSARIUM TAMBAHAN
+Algoritma: langkah terstruktur yang digunakan untuk menyelesaikan tugas komputasi.
+Autentikasi multifaktor: verifikasi identitas dengan lebih dari satu faktor.
+Bias konfirmasi: kecenderungan lebih menerima bukti yang sejalan dengan keyakinan.
+Data primer: data yang dikumpulkan langsung untuk tujuan tertentu.
+Metadata: informasi tentang file, misalnya waktu, format, atau perangkat.
+Phishing: penipuan untuk memperoleh informasi rahasia.
+Korelasi: hubungan perubahan bersama antara dua variabel.
+Lisensi terbuka: izin penggunaan karya dengan syarat yang ditentukan pencipta.
+
+DAFTAR RUJUKAN UNTUK PENDALAMAN
+Pelajari panduan literasi digital dari lembaga pendidikan dan pemerintah, dokumentasi keamanan akun dari penyedia layanan, panduan pemeriksaan fakta organisasi pemeriksa fakta yang transparan, serta materi pengantar metode penelitian. Periksa tanggal dan ruang lingkup setiap panduan karena fitur platform dapat berubah.

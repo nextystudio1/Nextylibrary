@@ -476,3 +476,52 @@ LATIHAN
 1. Mengapa metode belajar disesuaikan dengan materi? Jawaban: fakta, konsep, dan keterampilan memerlukan latihan berbeda.
 2. Apa manfaat mengurangi bantuan bertahap? Jawaban: membantu peralihan menuju kemampuan mandiri.
 3. Mengapa durasi bukan satu-satunya ukuran? Jawaban: pemahaman dan kemampuan menerapkan lebih penting daripada waktu.
+
+
+
+BAB 15. MEMERIKSA KEMAJUAN TANPA TERJEBAK NILAI
+
+Nilai ujian memberi sebagian informasi tentang hasil belajar, tetapi tidak selalu menunjukkan seluruh kemampuan. Periksa juga apakah pembaca mampu menjelaskan konsep, memilih strategi yang tepat, menemukan kesalahan, dan menerapkan pengetahuan pada masalah baru. Gunakan beberapa bukti: latihan, proyek, penjelasan lisan, catatan refleksi, dan hasil tugas.
+
+Kesalahan dapat dikelompokkan menjadi kesalahan konsep, prosedur, ketelitian, atau pemahaman soal. Pengelompokan membantu menentukan perbaikan. Jika kesalahan konsep, pelajari kembali penjelasan dan contoh dasar. Jika kesalahan prosedur, uraikan langkah satu per satu. Jika salah membaca soal, latih penandaan informasi dan tujuan pertanyaan.
+
+Umpan balik yang berguna bersifat spesifik. Pernyataan “belajar lebih giat” tidak memberi petunjuk jelas. Pernyataan “jelaskan mengapa penyebut disamakan sebelum menjumlahkan pecahan” menunjukkan bagian yang harus diperbaiki. Setelah menerima umpan balik, lakukan revisi dan coba soal sejenis.
+
+BAB 16. MENGGUNAKAN SUMBER BELAJAR DENGAN BIJAK
+
+Sumber belajar dapat berupa buku, guru, video, simulasi, artikel, dan diskusi. Pilih sumber berdasarkan tujuan dan keandalannya. Untuk informasi ilmiah atau kesehatan, utamakan lembaga pendidikan, badan publik, jurnal, dan buku ajar yang jelas penulis serta tanggalnya. Konten populer dapat menjadi pengantar, tetapi klaim penting perlu diperiksa melalui sumber lain.
+
+Catat informasi bibliografi sejak awal: penulis atau lembaga, judul, tahun, dan alamat sumber. Bedakan kutipan langsung dari parafrasa. Menjelaskan gagasan dengan kata-kata sendiri tetap memerlukan pengakuan terhadap sumber asal. Jangan menyalin tugas atau mengaku sebagai pembuat karya yang bukan hasil sendiri.
+
+RANCANGAN PROYEK BELAJAR EMPAT MINGGU
+
+Minggu pertama: pilih satu tujuan dan petakan pengetahuan awal.
+Minggu kedua: pelajari konsep dasar dari sumber tepercaya dan buat ringkasan.
+Minggu ketiga: kerjakan latihan atau proyek kecil, lalu minta umpan balik.
+Minggu keempat: jelaskan hasil tanpa melihat catatan, perbaiki kekurangan, dan tulis refleksi tentang strategi yang paling membantu.
+
+EVALUASI AKHIR
+1. Mengapa nilai ujian bukan satu-satunya ukuran belajar?
+2. Bagaimana membedakan kesalahan konsep dan kesalahan ketelitian?
+3. Apa ciri umpan balik yang dapat ditindaklanjuti?
+4. Mengapa sumber perlu dicatat saat membuat ringkasan?
+5. Bagaimana menguji apakah pengetahuan dapat diterapkan pada situasi baru?
+
+KUNCI PEMBAHASAN RINGKAS
+1. Karena nilai hanya mengukur sebagian kemampuan dalam kondisi tertentu.
+2. Kesalahan konsep berasal dari pemahaman yang keliru; ketelitian terjadi saat konsep benar tetapi pelaksanaan kurang cermat.
+3. Spesifik, menjelaskan bagian yang perlu diperbaiki, dan memberi arah tindakan berikutnya.
+4. Agar asal gagasan dapat ditelusuri dan karya orang lain diakui.
+5. Gunakan soal atau proyek dengan konteks berbeda dari contoh yang dipelajari.
+
+GLOSARIUM TAMBAHAN
+Umpan balik: informasi tentang kualitas pekerjaan dan langkah perbaikan.
+Metakognisi: kemampuan menyadari dan mengatur proses berpikir sendiri.
+Parafrasa: menyampaikan kembali gagasan dengan susunan kata sendiri.
+Evaluasi formatif: pemeriksaan selama proses belajar untuk memperbaiki pembelajaran.
+Transfer belajar: penggunaan pengetahuan pada situasi atau masalah baru.
+
+RUJUKAN UNTUK PENDALAMAN
+The Learning Scientists: https://www.learningscientists.org/
+Education Endowment Foundation — Teaching and Learning Toolkit: https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit
+OpenStax: https://openstax.org/

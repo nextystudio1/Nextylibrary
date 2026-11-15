@@ -8,6 +8,8 @@ import android.media.AudioAttributes
 import android.media.AudioFormat
 import android.media.AudioTrack
 import android.os.Bundle
+import android.webkit.WebView
+import android.webkit.WebViewClient
 import androidx.activity.ComponentActivity
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.lifecycle.Lifecycle
@@ -29,6 +31,7 @@ import androidx.compose.runtime.*
 import androidx.compose.animation.core.*
 import kotlinx.coroutines.delay
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.viewinterop.AndroidView
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -753,11 +756,15 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
         loading = true
         error = null
         try {
-            val source = book.contentPath ?: throw IllegalStateException("Naskah buku Nexty belum tersedia.")
-            if (source.lowercase().substringBefore('?').endsWith(".pdf") || source.startsWith("pdf://") || source.contains("format=pdf", true)) {
-                throw IllegalStateException("Buku ini masih memakai berkas PDF lama. Edisi teks asli Nexty sedang disiapkan.")
+            val source = book.contentPath ?: throw IllegalStateException("Naskah buku belum tersedia.")
+            if (isNativeWebBook(source)) {
+                body = null
+            } else {
+                if (source.lowercase().substringBefore('?').endsWith(".pdf") || source.startsWith("pdf://") || source.contains("format=pdf", true)) {
+                    throw IllegalStateException("Sumber buku ini masih berupa PDF dan belum memiliki edisi teks yang boleh ditampilkan di pembaca Nexty.")
+                }
+                body = withContext(Dispatchers.IO) { if (source.startsWith("asset://")) context.assets.open(source.removePrefix("asset://")).bufferedReader(Charsets.UTF_8).use { it.readText() } else fetchPublicBookText(source) }
             }
-            body = withContext(Dispatchers.IO) { if (source.startsWith("asset://")) context.assets.open(source.removePrefix("asset://")).bufferedReader(Charsets.UTF_8).use { it.readText() } else fetchPublicBookText(source) }
         } catch (e: Exception) {
             error = e.localizedMessage ?: "Buku gagal dimuat. Periksa koneksi internet."
         } finally { loading = false }
@@ -788,6 +795,9 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
                     Spacer(Modifier.height(12.dp))
                     Text("Menyiapkan halaman buku…", color = Muted)
                 }
+            }
+            error == null && !loading && book.contentPath?.let { isNativeWebBook(it) } == true -> {
+                WebBookReader(url = book.contentPath!!)
             }
             error != null -> Box(Modifier.fillMaxSize().padding(24.dp), contentAlignment = Alignment.Center) {
                 Column(horizontalAlignment = Alignment.CenterHorizontally) {
@@ -836,6 +846,48 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
     }
 }
 
+
+private fun isNativeWebBook(source: String): Boolean {
+    val uri = runCatching { Uri.parse(source) }.getOrNull() ?: return false
+    return uri.scheme == "https" && uri.host in setOf("pressbooks.uwf.edu", "openstax.org")
+}
+
+@Composable
+private fun WebBookReader(url: String) {
+    val context = LocalContext.current
+    AndroidView(
+        modifier = Modifier.fillMaxSize(),
+        factory = {
+            WebView(context).apply {
+                settings.javaScriptEnabled = true
+                settings.domStorageEnabled = true
+                settings.loadsImagesAutomatically = true
+                settings.blockNetworkImage = false
+                settings.allowFileAccess = false
+                settings.allowContentAccess = false
+                settings.mixedContentMode = android.webkit.WebSettings.MIXED_CONTENT_NEVER_ALLOW
+                settings.useWideViewPort = true
+                settings.loadWithOverviewMode = true
+                webViewClient = object : WebViewClient() {
+                    override fun shouldOverrideUrlLoading(view: WebView, request: android.webkit.WebResourceRequest): Boolean {
+                        val target = request.url
+                        return target.scheme != "https" || target.host !in setOf("pressbooks.uwf.edu", "openstax.org")
+                    }
+                    override fun onPageFinished(view: WebView, pageUrl: String) {
+                        view.evaluateJavascript(
+                            "(function(){var s=document.createElement('style');s.textContent='body{background:#f8f4ea!important;color:#302f2a!important;font-family:Georgia,serif!important;line-height:1.75!important} img,figure img{max-width:100%!important;height:auto!important;border-radius:12px!important} figure{margin:24px auto!important} .container,.site-content,.content-area{max-width:900px!important;margin-left:auto!important;margin-right:auto!important} a{color:#16765a!important}';document.head.appendChild(s);})();",
+                            null
+                        )
+                    }
+                }
+                loadUrl(url)
+            }
+        },
+        update = { view ->
+            if (view.url != url) view.loadUrl(url)
+        }
+    )
+}
 
 private fun fetchPublicBookText(source: String): String {
     val connection = URL(source).openConnection() as HttpURLConnection

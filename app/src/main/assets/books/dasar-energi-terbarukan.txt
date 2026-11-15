@@ -106,3 +106,22 @@ LATIHAN PENDALAMAN
 2. Mengapa pengukuran angin harus dilakukan di lokasi proyek? Jawaban: kondisi angin dipengaruhi topografi, bangunan, ketinggian, dan hambatan setempat.
 3. Sebutkan tiga komponen biaya selain harga pembelian. Jawaban: instalasi, perawatan, penggantian komponen, pembiayaan, atau pengelolaan akhir masa pakai.
 4. Mengapa proyek energi perlu konsultasi masyarakat? Jawaban: dampak lahan, akses, pekerjaan, dan lingkungan dapat berbeda bagi setiap kelompok.
+
+PENDALAMAN TEKNOLOGI DAN PERENCANAAN ENERGI
+BAB 14 — MEMAHAMI SISTEM KELISTRIKAN
+Sistem tenaga listrik terdiri atas pembangkitan, transmisi, distribusi, penyimpanan, dan pengguna. Keseimbangan pasokan dan permintaan harus dijaga setiap saat. Pembangkit yang dapat diatur, interkoneksi jaringan, penyimpanan, dan pengelolaan beban membantu menjaga keandalan.
+BAB 15 — VARIABILITAS SURYA DAN ANGIN
+Produksi surya berubah mengikuti siang-malam, awan, orientasi, dan musim. Angin berubah menurut kondisi meteorologi dan lokasi. Variabilitas bukan berarti sumber tersebut tidak berguna; sistem dapat menggabungkan prakiraan, jaringan yang luas, penyimpanan, dan beragam sumber pembangkit.
+BAB 16 — PENYIMPANAN ENERGI
+Baterai menyimpan energi secara elektrokimia dan dapat merespons perubahan beban dengan cepat. Teknologi lain mencakup penyimpanan hidro pompa, panas, dan udara bertekanan. Pilihan bergantung pada durasi penyimpanan, biaya, efisiensi, umur pakai, lokasi, serta dampak bahan baku dan daur ulang.
+BAB 17 — HIDRO, PANAS BUMI, DAN BIOENERGI
+Pembangkit hidro memanfaatkan energi potensial atau aliran air, tetapi bendungan dapat mengubah ekosistem dan kehidupan masyarakat. Panas bumi memanfaatkan panas bawah permukaan dan bergantung pada kondisi geologi. Bioenergi dapat memakai residu organik, tetapi harus memperhitungkan lahan, air, emisi sepanjang siklus hidup, dan persaingan dengan pangan.
+BAB 18 — ANALISIS SIKLUS HIDUP
+Penilaian siklus hidup menelaah dampak dari ekstraksi bahan, produksi, transportasi, penggunaan, hingga akhir masa pakai. Perbandingan teknologi harus memakai batas sistem dan satuan fungsi yang setara. Jangan hanya membandingkan emisi saat pembangkit beroperasi.
+BAB 19 — TRANSISI ENERGI YANG ADIL
+Transisi energi memengaruhi pekerja, konsumen, daerah penghasil sumber daya, dan kelompok rentan. Kebijakan perlu mempertimbangkan keterjangkauan listrik, pelatihan ulang, penciptaan pekerjaan, konsultasi publik, dan pemulihan lingkungan. Keberhasilan bukan hanya penurunan emisi, tetapi juga keandalan dan keadilan akses.
+LATIHAN
+1. Mengapa jaringan listrik perlu menjaga keseimbangan? Produksi dan konsumsi harus seimbang agar frekuensi dan keandalan terjaga.
+2. Sebutkan faktor pemilihan penyimpanan energi. Durasi, biaya, efisiensi, umur, lokasi, dan dampak lingkungan.
+3. Mengapa bioenergi tidak otomatis netral karbon? Dampak lahan, bahan baku, proses, dan rantai pasok perlu dihitung.
+4. Apa arti transisi energi yang adil? Perubahan energi yang memperhatikan akses, biaya, pekerja, dan masyarakat terdampak.

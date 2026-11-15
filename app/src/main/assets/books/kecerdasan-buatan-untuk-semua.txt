@@ -298,3 +298,15 @@ LATIHAN
 1. Mengapa data uji harus dipisahkan? Jawaban: agar evaluasi mengukur kemampuan pada data yang tidak digunakan untuk melatih atau memilih model.
 2. Apa itu kebocoran data? Jawaban: informasi yang tidak semestinya tersedia ikut memengaruhi pelatihan atau evaluasi.
 3. Mengapa keluaran model bahasa harus diverifikasi? Jawaban: kelancaran bahasa tidak menjamin ketepatan fakta.
+
+BAB LANJUTAN: MENILAI MODEL KECERDASAN BUATAN
+Pembelajaran terawasi menggunakan contoh berlabel; pembelajaran tanpa pengawasan mencari pola tanpa label target; pembelajaran penguatan mempelajari tindakan melalui umpan balik. Pemilihan pendekatan bergantung pada tujuan, data, biaya, dan dampak kesalahan.
+Evaluasi harus memakai data yang mewakili penggunaan nyata. Akurasi saja dapat menyembunyikan ketimpangan kesalahan. Presisi, recall, dan matriks kebingungan memberi gambaran tambahan untuk tugas klasifikasi.
+RISIKO DAN TATA KELOLA
+Model dapat mengulang bias data, gagal pada kondisi di luar data pelatihan, atau menghasilkan jawaban meyakinkan tetapi salah. Sistem berdampak tinggi memerlukan pengawasan manusia, dokumentasi, pengujian, perlindungan data, dan mekanisme koreksi. Jangan memasukkan data pribadi ke layanan tanpa memahami izin dan kebijakannya.
+PROYEK
+Gunakan dataset contoh tanpa data pribadi. Pisahkan data latih dan uji, hitung metrik, lalu periksa contoh salah klasifikasi. Jelaskan kelompok yang mungkin kurang terwakili dan keterbatasan hasil.
+LATIHAN
+1. Mengapa data uji harus mewakili penggunaan nyata? Jawaban: agar evaluasi mendekati kondisi penerapan.
+2. Apa arti recall? Jawaban: proporsi kasus positif sebenarnya yang berhasil ditemukan.
+3. Mengapa pengawasan manusia diperlukan? Jawaban: model memiliki keterbatasan dan keputusan dapat berdampak pada manusia.

@@ -1058,7 +1058,7 @@ private fun fetchPressbooksBookText(source: String): String {
         val chapterText = fetchSingleBookText(chapterUrl.toString())
         if (chapterText.length > 120) {
             if (output.isNotEmpty()) output.append("\n\n")
-            output.append(label.ifBlank { "Bagian \${index + 1}" }).append("\n\n")
+            output.append(label.ifBlank { "Bagian ${index + 1}" }).append("\n\n")
             output.append(chapterText)
         }
     }
@@ -1101,7 +1101,7 @@ private fun fetchSingleBookText(source: String): String {
                 val alt = Regex("""(?i)\balt\s*=\s*["']([^"']*)["']""").find(attrs)?.groupValues?.get(1).orEmpty()
                 val absolute = src?.let { runCatching { URL(requestUrl, it).toString() }.getOrNull() }
                 if (absolute != null && !absolute.startsWith("data:")) {
-                    "\n\n[[NEXTY_IMAGE|$absolute|\${alt.replace("|", " ").replace("]]", "")}]]\n\n"
+                    "\n\n[[NEXTY_IMAGE|$absolute|${alt.replace("|", " ").replace("]]", "")}]]\n\n"
                 } else " "
             }
             .replace(Regex("""(?is)<a\b[^>]*>(.*?)</a>""")) { it.groupValues[1] }

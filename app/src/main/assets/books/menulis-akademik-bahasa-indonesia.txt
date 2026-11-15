@@ -86,3 +86,31 @@ LATIHAN
 1. Apa beda kutipan dan parafrasa? Jawaban: kutipan mengambil kata persis dengan penandaan, parafrasa menyampaikan gagasan dengan susunan sendiri; keduanya tetap memerlukan sumber.
 2. Mengapa revisi isi dilakukan sebelum penyuntingan ejaan? Jawaban: struktur dan argumen yang berubah dapat membuat penyuntingan awal terbuang.
 3. Apa fungsi abstrak? Jawaban: memberi ringkasan tujuan, metode, hasil, dan kesimpulan tulisan.
+
+PENDALAMAN LANJUTAN: RISET, ARGUMENTASI, DAN PUBLIKASI
+BAB 7 — MENENTUKAN MASALAH PENELITIAN
+Masalah penelitian harus cukup spesifik untuk dijawab dengan waktu dan sumber daya yang tersedia. Rumusan masalah dapat berbentuk pertanyaan tentang hubungan, proses, pengalaman, atau evaluasi. Pertanyaan yang baik tidak mengasumsikan jawaban sejak awal.
+Tinjauan pustaka membantu mengetahui konsep, temuan, dan celah penelitian. Catat kata kunci, rentang tahun, jenis sumber, dan alasan memilih literatur.
+BAB 8 — KERANGKA TEORI DAN KONSEP
+Kerangka teori menjelaskan konsep yang digunakan untuk memahami masalah. Definisi operasional menerjemahkan konsep menjadi indikator yang dapat diamati. Satu konsep dapat memiliki beberapa dimensi sehingga pengukuran perlu dijelaskan.
+Jangan menggunakan istilah teknis hanya untuk membuat tulisan tampak ilmiah. Definisikan istilah dan jelaskan hubungan antar konsep dengan bahasa yang tepat.
+BAB 9 — METODE DAN KETERBATASAN
+Metode harus sesuai dengan pertanyaan. Penelitian kuantitatif dapat mengukur pola dan hubungan, sedangkan penelitian kualitatif dapat menggali pengalaman dan makna. Metode campuran digunakan ketika kedua jenis bukti saling melengkapi.
+Jelaskan pemilihan partisipan, instrumen, prosedur, analisis, dan etika. Keterbatasan bukan pengakuan bahwa penelitian tidak berguna; keterbatasan menunjukkan batas kesimpulan yang dapat ditarik.
+BAB 10 — MENYAJIKAN HASIL
+Hasil menyajikan temuan secara terstruktur tanpa menambahkan klaim yang tidak didukung. Tabel dan gambar harus dirujuk dalam teks, diberi judul, serta menyebut sumber. Hindari mengulang seluruh angka dalam narasi.
+Pisahkan hasil dari interpretasi ketika struktur tulisan memerlukannya. Data yang tidak mendukung dugaan awal tetap harus dilaporkan secara jujur.
+BAB 11 — DISKUSI DAN IMPLIKASI
+Diskusi menghubungkan temuan dengan pertanyaan penelitian dan literatur terdahulu. Jelaskan kemungkinan mekanisme, perbedaan hasil, dan alternatif interpretasi. Jangan mengklaim hubungan sebab-akibat jika desain tidak mendukung.
+Implikasi dapat bersifat teoretis, praktis, atau kebijakan. Rekomendasi harus sebanding dengan kekuatan bukti dan menyebut pihak yang relevan.
+BAB 12 — SITASI DAN PENGELOLAAN REFERENSI
+Gaya sitasi berbeda dalam urutan unsur dan format, tetapi semuanya bertujuan membantu pembaca menemukan sumber. Gunakan satu gaya secara konsisten dan periksa detail nama, tahun, judul, penerbit, serta DOI atau alamat resmi jika tersedia.
+Manajer referensi dapat membantu menyimpan sumber, tetapi metadata otomatis perlu diperiksa. Jangan mencantumkan sumber yang tidak pernah dibaca atau membuat DOI palsu.
+BAB 13 — PENYUNTINGAN AKHIR DAN KETERBUKAAN
+Penyuntingan akhir memeriksa alur argumen, konsistensi istilah, ejaan, tabel, gambar, dan kesesuaian sitasi. Pastikan abstrak sesuai isi dan kesimpulan menjawab tujuan.
+Jika tulisan menggunakan bantuan alat digital atau AI, ikuti aturan lembaga atau penerbit dan nyatakan penggunaannya bila diwajibkan. Penulis tetap bertanggung jawab atas ketepatan dan orisinalitas naskah.
+LATIHAN PENDALAMAN
+1. Mengapa rumusan masalah perlu spesifik? Jawaban: agar metode, data, dan kesimpulan dapat diarahkan pada pertanyaan yang dapat dijawab.
+2. Apa fungsi definisi operasional? Jawaban: menjelaskan bagaimana konsep diterjemahkan menjadi indikator yang dapat diamati.
+3. Mengapa hasil yang tidak sesuai dugaan tetap dilaporkan? Jawaban: integritas penelitian menuntut pelaporan data secara jujur.
+4. Mengapa daftar pustaka perlu diperiksa manual? Jawaban: metadata otomatis dapat salah atau tidak lengkap.

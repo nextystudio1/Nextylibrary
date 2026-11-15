@@ -117,49 +117,49 @@ PROYEK
 Amati perubahan fase Bulan selama beberapa minggu menggunakan kalender dan pengamatan aman. Catat tanggal, waktu, arah, bentuk tampak, serta kondisi cuaca. Bandingkan catatan dengan kalender fase Bulan dari lembaga astronomi.
 PENDALAMAN MATERI DAN KEGIATAN BELAJAR
 
-BAB 1 — MATAHARI DAN KELUARGA PLANET
+PENDALAMAN BAB 1 — MATAHARI DAN KELUARGA PLANET
 Tata Surya terbentuk dari awan gas dan debu yang mengalami keruntuhan gravitasi sekitar 4,6 miliar tahun lalu. Sebagian besar materi berkumpul membentuk Matahari, sedangkan sisa materi bertumbukan dan bergabung menjadi benda-benda yang mengorbitnya. Model pembentukan ini didukung pengamatan piringan pembentuk planet di sekitar bintang muda dan penelitian meteorit.
 Matahari adalah bintang yang menghasilkan energi melalui fusi nuklir di intinya. Energi bergerak ke lapisan luar dan akhirnya dipancarkan sebagai cahaya serta radiasi lain. Gravitasi Matahari menjaga planet dan benda lain tetap berada dalam orbit.
 Planet tidak memancarkan cahaya tampak sendiri seperti bintang. Planet terlihat karena memantulkan cahaya Matahari. Jarak, ukuran, komposisi, atmosfer, dan sejarah tumbukan membuat setiap planet memiliki ciri berbeda.
 Kegiatan: buat skala ukuran planet dengan diameter relatif. Jelaskan mengapa gambar tata surya di buku sering tidak menggunakan skala jarak dan ukuran secara bersamaan.
 
-BAB 2 — PLANET KEBUMIAN
+PENDALAMAN BAB 2 — PLANET KEBUMIAN
 Merkurius, Venus, Bumi, dan Mars disebut planet kebumian karena memiliki permukaan padat dan komposisi berbatu. Merkurius memiliki atmosfer sangat tipis dan mengalami perubahan suhu besar. Venus memiliki atmosfer tebal kaya karbon dioksida dan efek rumah kaca kuat. Bumi memiliki air cair di permukaan serta kondisi yang mendukung kehidupan yang diketahui. Mars memiliki permukaan berdebu, gunung berapi besar, lembah, dan bukti adanya air pada masa lalu.
 Perbedaan atmosfer merupakan kunci memahami iklim planet. Venus menerima energi Matahari yang berbeda dari Bumi, tetapi atmosfer tebalnya menahan panas secara kuat. Mars memiliki atmosfer tipis sehingga kondisi permukaannya jauh lebih dingin. Membandingkan planet membantu ilmuwan memahami bagaimana gas, tekanan, dan energi memengaruhi lingkungan.
 Bumi bukan pusat alam semesta. Bumi bergerak mengelilingi Matahari dan berputar pada sumbunya. Perubahan siang-malam terutama disebabkan rotasi, sedangkan perubahan musim berkaitan dengan kemiringan sumbu dan revolusi Bumi.
 Latihan: buat tabel empat planet kebumian yang memuat atmosfer, permukaan, suhu relatif, dan bukti air.
 
-BAB 3 — PLANET RAKSASA DAN CINCIN
+PENDALAMAN BAB 3 — PLANET RAKSASA DAN CINCIN
 Jupiter dan Saturnus merupakan raksasa gas, sedangkan Uranus dan Neptunus sering disebut raksasa es karena kandungan zat volatil seperti air, amonia, dan metana lebih besar dalam struktur dalamnya. Istilah tersebut tidak berarti planet memiliki permukaan es padat seperti lantai.
 Jupiter memiliki medan magnet kuat dan banyak satelit. Bintik Merah Besar adalah badai atmosfer raksasa yang telah diamati selama berabad-abad, meskipun ukurannya berubah. Saturnus terkenal dengan sistem cincinnya yang tersusun dari banyak partikel es dan batuan. Cincin tidak berupa satu piringan padat.
 Uranus memiliki kemiringan sumbu rotasi yang sangat besar sehingga orientasinya berbeda dari kebanyakan planet. Neptunus berada sangat jauh dan memiliki angin atmosfer yang sangat cepat. Pengamatan teleskop dan wahana antariksa membantu mengungkap atmosfer serta satelit planet-planet ini.
 Kegiatan: pilih satu planet raksasa dan buat infografik tentang atmosfer, cincin, satelit, serta misi antariksa yang pernah mempelajarinya.
 
-BAB 4 — BULAN, ASTEROID, DAN KOMET
+PENDALAMAN BAB 4 — BULAN, ASTEROID, DAN KOMET
 Bulan adalah satelit alami Bumi. Fase Bulan terjadi karena bagian permukaan yang disinari Matahari dan terlihat dari Bumi berubah selama Bulan mengorbit. Fase bukan disebabkan bayangan Bumi; bayangan Bumi pada Bulan terjadi saat gerhana Bulan.
 Asteroid adalah benda kecil berbatu atau logam yang mengorbit Matahari. Banyak asteroid berada di sabuk antara Mars dan Jupiter, tetapi terdapat juga kelompok dekat orbit Bumi. Komet mengandung es, debu, dan batuan. Ketika mendekati Matahari, sebagian es menguap dan membentuk koma serta ekor yang arahnya dipengaruhi radiasi Matahari dan angin Matahari.
 Meteoroid adalah benda kecil di ruang angkasa. Ketika memasuki atmosfer dan menghasilkan jejak cahaya, fenomenanya disebut meteor. Jika sebagian material mencapai permukaan, material itu disebut meteorit. Perbedaan istilah membantu menjelaskan proses secara tepat.
 Latihan: gambarkan posisi Matahari, Bumi, dan Bulan pada fase Bulan baru, purnama, dan kuartal. Tandai arah cahaya.
 
-BAB 5 — GRAVITASI DAN GERAK ORBIT
+PENDALAMAN BAB 5 — GRAVITASI DAN GERAK ORBIT
 Gravitasi adalah gaya tarik antara benda yang memiliki massa. Gravitasi Matahari menjaga planet tetap terikat dalam Tata Surya, sedangkan gravitasi planet memengaruhi orbit satelitnya. Orbit merupakan gerak akibat gabungan kecepatan benda dan tarikan gravitasi, bukan karena benda ditahan oleh sesuatu yang tidak terlihat.
 Hukum Kepler menjelaskan bentuk dan periode orbit planet. Orbit planet umumnya berbentuk elips dengan Matahari berada di salah satu fokus. Planet bergerak lebih cepat ketika lebih dekat dengan Matahari dan lebih lambat ketika lebih jauh. Planet yang rata-rata lebih jauh memerlukan waktu lebih lama untuk menyelesaikan satu revolusi.
 Model sederhana dapat dibuat dengan bola dan lintasan, tetapi model harus diberi batasan. Ukuran bola dan jarak pada model sering tidak berskala. Simulasi komputer dapat membantu memperlihatkan hubungan kecepatan, gravitasi, dan orbit.
 Kegiatan: gunakan simulasi astronomi pendidikan untuk membandingkan periode orbit planet. Catat bahwa simulasi merupakan model, bukan foto langsung.
 
-BAB 6 — BUMI, BULAN, DAN MATAHARI
+PENDALAMAN BAB 6 — BUMI, BULAN, DAN MATAHARI
 Rotasi Bumi menyebabkan pergantian siang dan malam. Revolusi Bumi mengelilingi Matahari berlangsung sekitar satu tahun. Sumbu rotasi Bumi miring terhadap bidang orbit, sehingga intensitas dan lama penyinaran berubah sepanjang tahun dan menghasilkan musim di banyak wilayah.
 Gerhana Matahari terjadi ketika Bulan berada di antara Bumi dan Matahari sehingga sebagian cahaya Matahari tertutup dari lokasi tertentu. Gerhana Bulan terjadi ketika Bulan memasuki bayangan Bumi. Gerhana tidak terjadi setiap bulan karena bidang orbit Bulan miring terhadap bidang orbit Bumi.
 Pasang surut laut terutama dipengaruhi gravitasi Bulan dan juga Matahari. Bentuk garis pantai, kedalaman laut, dan kondisi lokal membuat tinggi pasang berbeda antardaerah.
 Latihan: buat model gerhana dengan sumber cahaya dan dua bola. Jelaskan mengapa gerhana tidak terjadi pada setiap Bulan baru atau purnama.
 
-BAB 7 — PENGAMATAN LANGIT DAN TEKNOLOGI
+PENDALAMAN BAB 7 — PENGAMATAN LANGIT DAN TEKNOLOGI
 Pengamatan astronomi dimulai dengan mata telanjang, kemudian berkembang melalui teleskop optik, radio, inframerah, sinar-X, dan wahana antariksa. Setiap jenis alat menangkap bagian spektrum elektromagnetik yang berbeda. Atmosfer Bumi menyerap sebagian radiasi sehingga beberapa pengamatan perlu dilakukan dari luar angkasa.
 Teleskop mengumpulkan cahaya dan membantu mengamati objek redup atau jauh. Teleskop tidak membuat planet menjadi dekat secara fisik. Kamera ilmiah merekam data yang kemudian dikalibrasi dan dianalisis. Warna pada gambar astronomi terkadang merupakan representasi panjang gelombang yang tidak dapat dilihat mata.
 Pengamatan harus memperhatikan keselamatan. Jangan pernah melihat Matahari secara langsung melalui teleskop, teropong, atau kamera tanpa filter Matahari khusus yang dipasang dengan benar. Pengamatan gerhana Matahari memerlukan alat pelindung mata yang memenuhi standar keselamatan.
 Kegiatan: catat fase Bulan selama beberapa pekan dari tempat aman. Jangan mengamati Matahari secara langsung.
 
-BAB 8 — EKSPLORASI DAN PENCARIAN KEHIDUPAN
+PENDALAMAN BAB 8 — EKSPLORASI DAN PENCARIAN KEHIDUPAN
 Wahana antariksa menggunakan kamera, spektrometer, radar, pendarat, dan robot penjelajah untuk mempelajari benda langit. Setiap misi dirancang dengan tujuan ilmiah dan keterbatasan tertentu. Data dapat memerlukan waktu untuk dikirim, diperiksa, dan ditafsirkan.
 Pencarian kehidupan di luar Bumi merupakan bidang penelitian ilmiah. Para peneliti mempelajari air, molekul organik, sumber energi, dan lingkungan yang mungkin mendukung kehidupan. Menemukan bahan organik tidak otomatis berarti menemukan makhluk hidup karena molekul tersebut juga dapat terbentuk melalui proses nonbiologis.
 Eksplorasi antariksa memiliki manfaat dan tantangan. Teknologi penginderaan, komunikasi, material, dan komputasi dapat digunakan di Bumi. Namun, misi memerlukan biaya, kerja sama, pengelolaan sampah antariksa, dan perlindungan lingkungan benda langit dari kontaminasi.

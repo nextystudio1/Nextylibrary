@@ -113,3 +113,31 @@ LATIHAN PENDALAMAN
 5. Mengapa filter Matahari khusus penting? Jawaban: cahaya Matahari yang difokuskan alat optik dapat merusak mata secara permanen.
 GLOSARIUM TAMBAHAN
 Eksoplanet: planet di luar Tata Surya. Fusi nuklir: penggabungan inti atom yang melepaskan energi. Spektrum: sebaran radiasi menurut panjang gelombang atau frekuensi. Transit: peristiwa objek melintas di depan objek lain dari sudut pandang pengamat. Katai putih: sisa inti bintang tertentu yang telah melewati tahap evolusi lanjut. Radiasi latar kosmik: radiasi gelombang mikro yang berasal dari alam semesta awal.
+
+PENDALAMAN LANJUTAN: PENGAMATAN DAN FISIKA ALAM SEMESTA
+BAB 7 — KOORDINAT DAN GERAK LANGIT
+Astronom menggunakan sistem koordinat untuk menentukan posisi objek di langit. Koordinat ekuatorial menggunakan asensio rekta dan deklinasi, sedangkan sistem horizon menggunakan azimut dan ketinggian. Posisi tampak berubah karena rotasi Bumi dan gerak tahunan Bumi mengelilingi Matahari.
+Waktu pengamatan, lokasi lintang-bujur, dan kondisi atmosfer perlu dicatat. Objek yang terlihat dari satu belahan Bumi belum tentu dapat diamati dari belahan lain.
+BAB 8 — CAHAYA SEBAGAI SUMBER INFORMASI
+Spektrum cahaya membawa informasi tentang suhu, komposisi, dan gerak objek. Spektroskopi memisahkan cahaya menjadi panjang gelombang dan mengukur pola garis. Pergeseran garis dapat menunjukkan gerak relatif melalui efek Doppler.
+Kecerlangan tampak dipengaruhi luminositas dan jarak. Dua bintang yang terlihat sama terang belum tentu memiliki luminositas yang sama.
+BAB 9 — KELAHIRAN DAN EVOLUSI BINTANG
+Bintang terbentuk dari awan gas dan debu yang mengalami keruntuhan gravitasi. Tekanan dan suhu inti meningkat hingga kondisi memungkinkan fusi nuklir. Massa awal sangat memengaruhi jalur evolusi dan akhir kehidupan bintang.
+Bintang bermassa berbeda dapat berakhir sebagai katai putih, bintang neutron, atau lubang hitam melalui proses yang tidak sama. Tahapan tersebut dipelajari dari model, pengamatan populasi bintang, dan sisa ledakan bintang.
+BAB 10 — GALAKSI DAN STRUKTUR KOSMOS
+Galaksi merupakan sistem besar bintang, gas, debu, dan materi gelap yang terikat gravitasi. Galaksi memiliki bentuk dan sejarah berbeda, serta dapat berinteraksi atau bergabung. Bima Sakti adalah galaksi tempat Tata Surya berada.
+Pada skala lebih besar, galaksi membentuk kelompok, gugus, dan jaringan kosmik. Pengamatan galaksi jauh juga berarti melihat masa lalu karena cahaya memerlukan waktu untuk mencapai kita.
+BAB 11 — PLANET DI LUAR TATA SURYA
+Eksoplanet adalah planet yang mengorbit bintang selain Matahari. Metode transit mendeteksi penurunan cahaya bintang ketika planet melintas di depannya. Metode kecepatan radial mengukur gerak kecil bintang akibat tarikan gravitasi planet.
+Penemuan planet tidak otomatis menunjukkan adanya kehidupan. Penilaian kelayakhunian mempertimbangkan atmosfer, suhu, radiasi, air, dan banyak faktor yang masih sulit diukur.
+BAB 12 — KOSMOLOGI DAN ASAL-USUL ALAM SEMESTA
+Kosmologi mempelajari alam semesta pada skala terbesar. Model kosmologi modern didukung oleh pengamatan ekspansi kosmik, radiasi latar gelombang mikro, dan kelimpahan unsur ringan. Model Big Bang menjelaskan evolusi alam semesta dari keadaan awal yang sangat panas dan rapat.
+Model ilmiah terus diuji dan disempurnakan. Pertanyaan tentang materi gelap, energi gelap, dan kondisi paling awal masih menjadi bidang penelitian aktif.
+BAB 13 — MERANCANG PENGAMATAN AMATIR
+Pengamatan yang baik dimulai dengan tujuan realistis, pemilihan waktu, lokasi gelap, cuaca, dan fase Bulan. Mata telanjang, binokular, atau teleskop dapat digunakan sesuai objek. Catat alat, pembesaran, waktu, kondisi langit, dan kesan pengamatan.
+Jangan melihat Matahari melalui alat optik tanpa filter surya khusus yang dirancang dan dipasang dengan benar. Pengamatan Matahari tanpa perlindungan dapat menyebabkan kerusakan mata permanen.
+LATIHAN PENDALAMAN
+1. Apa informasi yang dapat diperoleh dari spektrum bintang? Jawaban: komposisi, suhu, dan gerak relatif.
+2. Apa metode transit eksoplanet? Jawaban: mendeteksi penurunan cahaya bintang saat planet melintas di depannya.
+3. Mengapa pengamatan objek jauh berarti melihat masa lalu? Jawaban: cahaya membutuhkan waktu untuk menempuh jarak.
+4. Mengapa model kosmologi dapat berubah? Jawaban: model harus menyesuaikan diri dengan bukti pengamatan baru.

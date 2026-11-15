@@ -78,3 +78,31 @@ LATIHAN
 1. Apa beda faktor kapasitas dan efisiensi? Jawaban: faktor kapasitas membandingkan energi aktual dengan potensi nominal selama periode; efisiensi membandingkan keluaran berguna dengan masukan.
 2. Mengapa penyimpanan membantu jaringan? Jawaban: membantu menggeser pasokan antarwaktu dan menyeimbangkan produksi dengan permintaan.
 3. Sebutkan empat unsur penilaian siklus hidup. Jawaban: bahan baku, manufaktur, operasi, transportasi, dan akhir masa pakai.
+
+PENDALAMAN LANJUTAN: SISTEM ENERGI TERBARUKAN
+BAB 7 — SUMBER DAYA SURYA DAN DESAIN SISTEM
+Energi surya dapat dimanfaatkan melalui sistem fotovoltaik yang mengubah cahaya menjadi listrik dan sistem termal yang memanfaatkan panas. Kinerja panel dipengaruhi intensitas cahaya, suhu modul, orientasi, kemiringan, bayangan, kebersihan permukaan, dan karakteristik inverter. Daya puncak pada label tidak sama dengan energi yang selalu dihasilkan setiap hari.
+Perancangan sistem dimulai dari inventarisasi kebutuhan energi: peralatan, daya, lama pemakaian, pola beban, dan kebutuhan cadangan. Setelah itu dilakukan penilaian lokasi, potensi matahari, ruang pemasangan, keselamatan struktur, dan sambungan jaringan. Perkiraan produksi harus memakai data cuaca setempat dan memasukkan rugi-rugi sistem.
+BAB 8 — ANGIN, AIR, DAN KONDISI LOKAL
+Turbin angin mengubah sebagian energi kinetik angin menjadi energi mekanik lalu listrik. Kecepatan angin sangat berpengaruh karena energi yang tersedia meningkat tajam terhadap kecepatan. Karena itu, pengukuran di lokasi dan ketinggian yang sesuai lebih berguna daripada hanya mengandalkan peta regional.
+Pembangkit listrik tenaga air memanfaatkan beda ketinggian dan debit. Pembangkit skala kecil tetap perlu mempertimbangkan aliran ekologis, sedimentasi, migrasi ikan, dan hak penggunaan air. Kelayakan teknis tidak otomatis berarti layak secara sosial dan lingkungan.
+BAB 9 — PENYIMPANAN DAN KEANDALAN
+Baterai menyimpan energi untuk digunakan saat produksi lebih rendah daripada kebutuhan. Kapasitas nominal, kedalaman pengosongan, efisiensi, umur siklus, suhu operasi, dan sistem manajemen baterai memengaruhi kinerja. Kapasitas yang tertulis pada spesifikasi tidak seluruhnya selalu dapat digunakan.
+Penyimpanan juga dapat dilakukan melalui pompa air, panas, udara bertekanan, dan teknologi lain. Pilihan bergantung pada skala, durasi penyimpanan, lokasi, biaya, dan kebutuhan jaringan. Sistem hibrida menggabungkan beberapa sumber untuk mengurangi ketergantungan pada satu kondisi cuaca.
+BAB 10 — JARINGAN LISTRIK DAN INTEGRASI
+Sumber energi terbarukan yang berubah-ubah memerlukan pengelolaan jaringan. Peramalan cuaca, pengaturan beban, interkoneksi, penyimpanan, dan pembangkit fleksibel membantu menjaga keseimbangan produksi dan konsumsi. Inverter modern dapat menyediakan fungsi pendukung jaringan sesuai standar.
+Pembangkit tersebar mengubah pola aliran listrik dan membuka peluang bagi komunitas untuk menghasilkan energi sendiri. Namun, integrasi memerlukan perlindungan, pengukuran, aturan tarif, serta koordinasi operator jaringan.
+BAB 11 — ANALISIS BIAYA SEPANJANG UMUR
+Biaya proyek tidak hanya harga pembelian awal. Perhitungan perlu mencakup instalasi, pembiayaan, operasi, perawatan, penggantian komponen, biaya jaringan, dan akhir masa pakai. Biaya energi terlevelisasi berguna untuk perbandingan, tetapi hasilnya sensitif terhadap asumsi umur, tingkat diskonto, produksi, dan biaya modal.
+Analisis skenario membantu melihat perubahan ketika harga komponen, suku bunga, atau produksi berbeda dari perkiraan. Sajikan rentang, bukan satu angka yang tampak pasti.
+BAB 12 — DAMPAK LINGKUNGAN DAN KEADILAN ENERGI
+Teknologi energi memiliki dampak sepanjang siklus hidup: penambangan bahan, manufaktur, transportasi, operasi, dan daur ulang. Penilaian daur hidup membantu membandingkan dampak secara lebih menyeluruh daripada hanya melihat emisi saat pembangkit beroperasi.
+Transisi energi perlu memperhatikan keterjangkauan, akses wilayah terpencil, keselamatan pekerja, penggunaan lahan, dan partisipasi masyarakat. Proyek yang baik membuka informasi dampak dan menyediakan mekanisme konsultasi.
+BAB 13 — STUDI KASUS PERENCANAAN
+Bayangkan sebuah sekolah ingin mengurangi pembelian listrik. Tim terlebih dahulu mengumpulkan tagihan setahun, memetakan beban siang dan malam, memeriksa atap, lalu membandingkan opsi efisiensi energi dengan pemasangan panel. Mengurangi pemborosan sering menjadi langkah awal yang lebih murah daripada menambah kapasitas pembangkit.
+Rencana akhir harus mencantumkan asumsi, biaya, perkiraan produksi, risiko, jadwal pemeliharaan, dan indikator keberhasilan. Evaluasi setelah pemasangan membandingkan produksi aktual dengan proyeksi.
+LATIHAN PENDALAMAN
+1. Mengapa daya puncak panel tidak sama dengan produksi harian? Jawaban: produksi berubah menurut intensitas matahari, suhu, bayangan, orientasi, dan rugi-rugi.
+2. Mengapa pengukuran angin harus dilakukan di lokasi proyek? Jawaban: kondisi angin dipengaruhi topografi, bangunan, ketinggian, dan hambatan setempat.
+3. Sebutkan tiga komponen biaya selain harga pembelian. Jawaban: instalasi, perawatan, penggantian komponen, pembiayaan, atau pengelolaan akhir masa pakai.
+4. Mengapa proyek energi perlu konsultasi masyarakat? Jawaban: dampak lahan, akses, pekerjaan, dan lingkungan dapat berbeda bagi setiap kelompok.

@@ -62,3 +62,31 @@ Larutan: campuran homogen.
 
 CATATAN PENULIS
 Materi ini untuk pembelajaran konsep. Jangan melakukan eksperimen kimia tanpa fasilitas, bahan, dan pengawasan yang tepat.
+
+PENDALAMAN MATERI: STRUKTUR ATOM, IKATAN, DAN REAKSI
+BAB 7 — STRUKTUR ATOM DAN ISOTOP
+Atom tersusun atas inti yang mengandung proton dan neutron serta elektron yang menempati keadaan energi tertentu. Nomor atom menyatakan jumlah proton dan menentukan identitas unsur. Nomor massa merupakan jumlah proton dan neutron. Atom unsur yang sama dapat memiliki jumlah neutron berbeda; variasi ini disebut isotop.
+Model atom berkembang mengikuti bukti eksperimen. Model modern menggambarkan elektron melalui orbital dan peluang keberadaan, bukan lintasan planet kecil yang pasti. Konfigurasi elektron membantu menjelaskan pola sifat kimia dan kecenderungan atom berikatan.
+BAB 8 — TABEL PERIODIK DAN SIFAT UNSUR
+Unsur disusun berdasarkan nomor atom. Unsur dalam satu golongan sering memiliki pola elektron valensi serupa sehingga menunjukkan kemiripan sifat. Jari-jari atom, energi ionisasi, dan elektronegativitas memperlihatkan kecenderungan periodik yang dapat dijelaskan melalui muatan inti efektif dan susunan elektron.
+Tren periodik berguna untuk memperkirakan reaktivitas, tetapi tidak menggantikan data eksperimen. Pengecualian dapat muncul karena konfigurasi elektron dan struktur atom yang lebih rinci.
+BAB 9 — IKATAN ION, KOVALEN, DAN LOGAM
+Ikatan ion terbentuk melalui tarikan elektrostatik antara ion bermuatan berlawanan, sering setelah perpindahan elektron. Ikatan kovalen melibatkan pemakaian pasangan elektron bersama. Ikatan logam dapat dipahami melalui elektron valensi yang terdelokalisasi di antara pusat-pusat atom.
+Jenis ikatan membantu menjelaskan sifat bahan. Banyak senyawa ion memiliki titik leleh tinggi dan menghantarkan listrik ketika cair atau terlarut. Zat kovalen molekuler sering memiliki titik leleh lebih rendah, tetapi jaringan kovalen seperti intan sangat kuat. Logam umumnya menghantarkan listrik dan dapat ditempa.
+BAB 10 — BENTUK MOLEKUL DAN GAYA ANTARMOLEKUL
+Bentuk molekul dipengaruhi tolakan pasangan elektron di sekitar atom pusat. Bentuk tiga dimensi menentukan polaritas dan dapat memengaruhi titik didih, kelarutan, serta interaksi biologis. Gaya antarmolekul mencakup dispersi London, dipol-dipol, dan ikatan hidrogen.
+Ikatan hidrogen bukan ikatan kovalen baru antara molekul, melainkan interaksi kuat yang melibatkan hidrogen yang terikat pada atom elektronegatif dan pasangan elektron bebas molekul lain. Interaksi ini penting bagi sifat air dan struktur biomolekul.
+BAB 11 — STOIKIOMETRI DAN KONSEP MOL
+Mol adalah satuan jumlah zat. Massa molar menghubungkan massa dengan jumlah partikel. Persamaan reaksi setara mematuhi kekekalan atom: jumlah tiap jenis atom sama pada kedua sisi. Koefisien reaksi menunjukkan perbandingan mol zat yang bereaksi.
+Dalam soal pereaksi pembatas, hitung jumlah mol setiap pereaksi dan bandingkan dengan rasio koefisien. Pereaksi yang habis lebih dahulu membatasi jumlah produk. Hasil teoritis dapat berbeda dari hasil eksperimen karena reaksi samping, kehilangan bahan, atau reaksi yang belum sempurna.
+BAB 12 — ASAM, BASA, DAN KESETIMBANGAN
+Dalam model Brønsted-Lowry, asam menyumbangkan proton dan basa menerima proton. Skala pH berkaitan dengan konsentrasi ion hidrogen dalam larutan. Larutan penyangga mengurangi perubahan pH ketika sedikit asam atau basa ditambahkan.
+Kesetimbangan kimia bersifat dinamis: reaksi maju dan balik berlangsung dengan laju sama pada keadaan setimbang. Perubahan konsentrasi, tekanan, atau suhu dapat menggeser komposisi kesetimbangan. Prinsip ini membantu memahami proses industri dan sistem biologis.
+BAB 13 — KINETIKA DAN KATALIS
+Kinetika mempelajari laju reaksi dan faktor yang memengaruhinya. Suhu, konsentrasi, luas permukaan, serta katalis dapat mengubah laju. Katalis menyediakan jalur reaksi alternatif dengan energi aktivasi lebih rendah dan tidak habis secara keseluruhan.
+Persamaan laju harus ditentukan melalui eksperimen; tidak selalu dapat disimpulkan hanya dari koefisien reaksi. Pengukuran yang teliti dan pengendalian kondisi diperlukan untuk membandingkan laju.
+LATIHAN PENDALAMAN
+1. Apa yang membedakan isotop dari unsur lain? Jawaban: jumlah proton sama, jumlah neutron berbeda.
+2. Mengapa garam padat umumnya tidak menghantarkan listrik? Jawaban: ion-ionnya tidak bebas bergerak dalam kisi padat.
+3. Apa fungsi koefisien pada persamaan reaksi setara? Jawaban: menunjukkan rasio jumlah zat yang bereaksi dan terbentuk.
+4. Mengapa katalis mempercepat reaksi? Jawaban: menyediakan jalur dengan energi aktivasi lebih rendah.

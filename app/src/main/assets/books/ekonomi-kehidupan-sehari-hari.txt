@@ -314,3 +314,15 @@ LATIHAN
 1. Apa itu biaya peluang? Jawaban: nilai alternatif terbaik yang dilepaskan saat memilih.
 2. Mengapa harga pasar dapat berubah tanpa perubahan permintaan? Jawaban: penawaran dapat berubah akibat biaya, teknologi, atau gangguan pasokan.
 3. Apa itu eksternalitas? Jawaban: dampak kegiatan ekonomi pada pihak lain yang tidak sepenuhnya tercermin dalam harga.
+
+BAB LANJUTAN: INFLASI, PRODUKTIVITAS, DAN KEPUTUSAN PUBLIK
+Inflasi adalah kenaikan tingkat harga umum secara berkelanjutan, bukan sekadar satu barang menjadi mahal. Indeks harga konsumen mengukur perubahan harga keranjang barang dan jasa yang mewakili pola konsumsi. Keranjang dan bobotnya perlu diperbarui karena kebiasaan belanja berubah. Inflasi yang dialami tiap rumah tangga dapat berbeda dari angka rata-rata.
+Produktivitas mengukur keluaran dibanding masukan. Peningkatan produktivitas dapat berasal dari keterampilan, teknologi, organisasi kerja, infrastruktur, dan kesehatan. Pertumbuhan produktivitas berkelanjutan tidak sama dengan bekerja semakin lama; kualitas proses dan hasil juga penting.
+PAJAK DAN BARANG PUBLIK
+Pajak membiayai layanan serta infrastruktur yang manfaatnya dapat dinikmati masyarakat luas. Kebijakan pajak perlu mempertimbangkan keadilan, efisiensi, kemudahan administrasi, dan dampak terhadap perilaku. Barang publik memiliki sifat sulit mengecualikan pengguna dan dapat dinikmati bersama, sehingga pasar saja mungkin tidak menyediakan jumlah yang dibutuhkan.
+STUDI KASUS ANGGARAN
+Buat contoh anggaran bulanan fiktif. Kelompokkan kebutuhan rutin, kebutuhan tidak rutin, tabungan tujuan, dan dana darurat. Bandingkan rencana dengan realisasi, lalu jelaskan penyebab selisih. Angka contoh bukan patokan universal karena kondisi rumah tangga berbeda.
+LATIHAN PEMAHAMAN
+1. Mengapa inflasi rumah tangga bisa berbeda? Jawaban: pola konsumsi dan bobot pengeluaran tiap rumah tangga tidak sama.
+2. Apa yang dapat meningkatkan produktivitas? Jawaban: keterampilan, teknologi, infrastruktur, kesehatan, dan organisasi kerja.
+3. Mengapa barang publik dapat kurang tersedia di pasar? Jawaban: penyedia sulit membatasi manfaat hanya kepada pembayar sehingga insentif penyediaan dapat lemah.

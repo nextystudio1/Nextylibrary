@@ -117,50 +117,50 @@ PROYEK
 Pilih satu ekosistem di sekitar tempat tinggal atau sekolah. Catat komponen biotik dan abiotik, buat diagram hubungan sederhana, identifikasi satu tekanan lingkungan, lalu usulkan tindakan yang dapat diuji dan dievaluasi.
 PENDALAMAN MATERI DAN KEGIATAN BELAJAR
 
-BAB 1 — EKOLOGI DAN INTERAKSI
+PENDALAMAN BAB 1 — EKOLOGI DAN INTERAKSI
 Ekologi mempelajari hubungan organisme dengan organisme lain dan lingkungannya. Lingkungan mencakup faktor biotik seperti tumbuhan, hewan, jamur, dan mikroorganisme, serta faktor abiotik seperti cahaya, air, suhu, tanah, dan mineral. Perubahan satu faktor dapat memengaruhi banyak bagian ekosistem.
 Adaptasi adalah ciri atau proses yang membantu organisme bertahan dan bereproduksi pada lingkungan tertentu. Adaptasi terbentuk melalui proses evolusi dalam populasi dari generasi ke generasi, bukan karena individu sengaja mengubah tubuhnya sesuai kebutuhan. Perilaku, bentuk tubuh, dan proses fisiologis dapat menjadi bagian dari adaptasi.
 Interaksi meliputi kompetisi, predasi, herbivori, parasitisme, komensalisme, dan mutualisme. Hubungan tersebut dapat berubah menurut keadaan. Dua spesies yang bersaing pada satu sumber makanan mungkin menggunakan sumber berbeda ketika lingkungan berubah.
 Kegiatan: amati satu area kecil seperti taman sekolah. Catat organisme yang terlihat, faktor abiotik, dan dugaan hubungan. Pisahkan pengamatan langsung dari dugaan.
 
-BAB 2 — ALIRAN ENERGI DAN DAUR MATERI
+PENDALAMAN BAB 2 — ALIRAN ENERGI DAN DAUR MATERI
 Produsen seperti tumbuhan dan alga mengubah energi cahaya menjadi energi kimia melalui fotosintesis. Konsumen memperoleh energi dengan memakan organisme lain. Pengurai memecah bahan organik dan membantu mengembalikan unsur ke lingkungan.
 Energi mengalir satu arah melalui tingkat trofik dan sebagian terlepas sebagai panas pada setiap perpindahan. Materi seperti karbon dan nitrogen mengalami daur. Perbedaan ini penting: energi harus terus masuk ke ekosistem, sedangkan unsur materi dapat digunakan kembali melalui proses alam.
 Daur karbon melibatkan fotosintesis, respirasi, penguraian, pertukaran laut-atmosfer, dan pembakaran. Daur nitrogen melibatkan fiksasi, nitrifikasi, asimilasi, dan denitrifikasi oleh mikroorganisme. Aktivitas manusia dapat mengubah laju proses tersebut.
 Kegiatan: buat diagram jaring-jaring makanan pada ekosistem sawah atau mangrove. Gunakan panah untuk menunjukkan perpindahan energi dan jelaskan peran pengurai.
 
-BAB 3 — KEANEKARAGAMAN DAN KONSERVASI
+PENDALAMAN BAB 3 — KEANEKARAGAMAN DAN KONSERVASI
 Keanekaragaman genetik membantu populasi memiliki variasi sifat. Keanekaragaman spesies membentuk interaksi dan fungsi ekologi. Keanekaragaman ekosistem mencakup variasi habitat seperti hutan hujan, savana, rawa, mangrove, padang lamun, dan terumbu karang.
 Kehilangan habitat dapat terjadi akibat perubahan penggunaan lahan, pembangunan yang tidak terencana, kebakaran, dan fragmentasi. Pencemaran, eksploitasi berlebihan, spesies invasif, serta perubahan iklim dapat menambah tekanan. Ancaman sering bekerja bersama sehingga solusi tunggal tidak cukup.
 Konservasi yang efektif memerlukan data populasi, pemantauan habitat, penegakan aturan, pendidikan, dan keterlibatan masyarakat setempat. Masyarakat yang hidup berdampingan dengan ekosistem memiliki pengetahuan penting dan perlu dilibatkan dalam pengambilan keputusan.
 Latihan: pilih satu ekosistem Indonesia. Jelaskan jasa ekosistemnya, ancaman, kelompok masyarakat yang bergantung padanya, dan langkah konservasi yang masuk akal.
 
-BAB 4 — CUACA, IKLIM, DAN AIR
+PENDALAMAN BAB 4 — CUACA, IKLIM, DAN AIR
 Cuaca adalah keadaan atmosfer dalam waktu relatif singkat, sedangkan iklim menggambarkan pola jangka panjang. Iklim suatu wilayah dipengaruhi lintang, ketinggian, jarak dari laut, arus laut, angin, dan bentuk permukaan bumi. Wilayah tropis tetap dapat mengalami variasi musim dan kondisi ekstrem.
 Siklus air menghubungkan laut, atmosfer, daratan, dan organisme. Penguapan membawa air ke atmosfer, kondensasi membentuk awan, dan presipitasi mengembalikan air ke permukaan. Sebagian air meresap ke tanah, sebagian mengalir di permukaan, dan sebagian tersimpan sebagai es atau air tanah.
 Perubahan tutupan lahan memengaruhi aliran air. Permukaan kedap air dapat meningkatkan limpasan dan risiko banjir. Hutan, lahan basah, dan daerah resapan membantu mengatur air, meskipun kemampuannya bergantung pada kondisi setempat.
 Kegiatan: buat peta sederhana daerah aliran air di sekitar sekolah atau rumah tanpa mencantumkan alamat pribadi. Tandai permukaan resapan, saluran, dan titik yang berpotensi tergenang.
 
-BAB 5 — EFEK RUMAH KACA DAN PERUBAHAN IKLIM
+PENDALAMAN BAB 5 — EFEK RUMAH KACA DAN PERUBAHAN IKLIM
 Efek rumah kaca alami menjaga suhu Bumi agar mendukung kehidupan. Gas rumah kaca menyerap dan memancarkan radiasi inframerah. Peningkatan konsentrasi gas tersebut akibat kegiatan manusia memperkuat efek rumah kaca dan mengubah keseimbangan energi planet.
 Karbon dioksida terutama meningkat akibat pembakaran bahan bakar fosil dan perubahan penggunaan lahan. Metana berasal dari beberapa kegiatan energi, pertanian, dan pengelolaan sampah. Dinitrogen oksida antara lain berkaitan dengan proses tanah dan penggunaan pupuk. Setiap gas memiliki sifat dan masa tinggal atmosfer yang berbeda.
 Ilmu iklim menggunakan pengamatan dan model. Model bukan ramalan cuaca harian, melainkan alat untuk mempelajari kemungkinan perubahan dalam berbagai skenario. Hasil model memiliki rentang ketidakpastian, tetapi ketidakpastian tidak berarti semua hasil sama mungkin atau tidak ada pengetahuan yang kuat.
 Mitigasi mengurangi emisi atau meningkatkan penyerapannya. Adaptasi mengurangi kerentanan terhadap dampak. Keduanya diperlukan karena sebagian perubahan telah berlangsung dan sebagian dampak masih dapat dibatasi.
 Latihan: buat dua kolom tindakan mitigasi dan adaptasi untuk lingkungan sekolah. Jelaskan mekanisme setiap tindakan.
 
-BAB 6 — DAMPAK DAN KEADILAN IKLIM
+PENDALAMAN BAB 6 — DAMPAK DAN KEADILAN IKLIM
 Dampak iklim berbeda menurut wilayah dan kelompok masyarakat. Kenaikan muka laut dapat memengaruhi permukiman pesisir, perubahan hujan dapat memengaruhi pertanian, dan panas ekstrem dapat meningkatkan tekanan kesehatan. Kerentanan dipengaruhi kualitas rumah, akses air, layanan kesehatan, pendapatan, dan informasi.
 Perubahan iklim dapat memperburuk masalah yang sudah ada, tetapi tidak selalu menjadi satu-satunya penyebab bencana. Risiko bencana terbentuk dari bahaya, paparan, dan kerentanan. Misalnya, hujan lebat merupakan bahaya meteorologis; kerusakan menjadi lebih besar ketika permukiman berada di kawasan rawan dan sistem drainase tidak memadai.
 Keadilan iklim membahas pembagian tanggung jawab, dampak, dan kemampuan beradaptasi. Kelompok yang kontribusi emisinya kecil dapat mengalami dampak besar. Kebijakan yang adil perlu melibatkan masyarakat terdampak dan memperhatikan akses terhadap sumber daya.
 Kegiatan: analisis satu contoh risiko banjir atau panas di wilayah umum. Bedakan bahaya, paparan, kerentanan, dan pilihan pengurangan risiko.
 
-BAB 7 — PENCEMARAN DAN EKONOMI SUMBER DAYA
+PENDALAMAN BAB 7 — PENCEMARAN DAN EKONOMI SUMBER DAYA
 Pencemaran udara, air, dan tanah dapat memengaruhi kesehatan manusia serta fungsi ekosistem. Dampaknya bergantung pada jenis polutan, konsentrasi, lama paparan, dan kondisi lingkungan. Pengukuran ilmiah diperlukan karena penampilan atau bau tidak selalu menunjukkan tingkat bahaya.
 Pengelolaan sampah dimulai dari pencegahan. Mengurangi penggunaan barang sekali pakai, memilih produk tahan lama, menggunakan kembali barang, memilah bahan, dan mengolah organik dapat menekan volume sampah. Daur ulang membutuhkan sistem pengumpulan dan pengolahan yang benar.
 Sumber daya bersama seperti perikanan, air tanah, dan hutan memerlukan aturan yang adil. Jika setiap pengguna mengambil sebanyak mungkin tanpa koordinasi, sumber daya dapat menurun. Pemantauan, hak kelola yang jelas, dan partisipasi masyarakat membantu mengurangi risiko tersebut.
 Latihan: lakukan audit sampah kelas selama satu hari dengan izin sekolah. Catat kategori secara umum, jangan mencantumkan nama siswa, lalu usulkan langkah pengurangan.
 
-BAB 8 — PEMULIHAN DAN AKSI BERBASIS ILMU
+PENDALAMAN BAB 8 — PEMULIHAN DAN AKSI BERBASIS ILMU
 Pemulihan ekosistem bertujuan memperbaiki struktur dan fungsi lingkungan. Penanaman pohon saja tidak selalu cukup. Pemulihan mangrove, misalnya, perlu memperhatikan pasang surut, kondisi sedimen, aliran air, dan spesies lokal. Jika penyebab kerusakan tidak diatasi, kegiatan penanaman dapat gagal.
 Pemantauan diperlukan untuk menilai hasil. Ukuran dapat mencakup tutupan vegetasi, kualitas air, kehadiran spesies indikator, kondisi tanah, dan manfaat bagi masyarakat. Data awal membantu membandingkan perubahan setelah program dilakukan.
 Aksi individu penting, tetapi persoalan lingkungan juga membutuhkan kebijakan, infrastruktur, teknologi, dan kerja sama. Hindari membebankan seluruh tanggung jawab kepada individu ketika sumber masalah berada pada sistem yang lebih luas.

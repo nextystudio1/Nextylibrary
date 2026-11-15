@@ -2,6 +2,10 @@ package com.nextystudio.nextylibrary
 
 import android.net.Uri
 import android.graphics.Bitmap
+import android.graphics.pdf.PdfRenderer
+import android.os.ParcelFileDescriptor
+import java.io.File
+import java.io.FileOutputStream
 import com.google.zxing.BarcodeFormat
 import com.google.zxing.qrcode.QRCodeWriter
 import android.media.AudioAttributes
@@ -742,8 +746,149 @@ private fun prepareReaderSections(raw: String, title: String): List<ReaderSectio
 }
 
 @Composable
+
+@Composable
+private fun PdfBookReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () -> Unit, onBack: () -> Unit) {
+    val context = LocalContext.current
+    var pdfFile by remember(book.id) { mutableStateOf<File?>(null) }
+    var renderer by remember(book.id) { mutableStateOf<PdfRenderer?>(null) }
+    var descriptor by remember(book.id) { mutableStateOf<ParcelFileDescriptor?>(null) }
+    var pageCount by remember(book.id) { mutableIntStateOf(0) }
+    var pageIndex by remember(book.id) { mutableIntStateOf(0) }
+    var pageBitmap by remember(book.id) { mutableStateOf<Bitmap?>(null) }
+    var loading by remember(book.id) { mutableStateOf(true) }
+    var error by remember(book.id) { mutableStateOf<String?>(null) }
+
+    LaunchedEffect(book.id, book.contentPath) {
+        loading = true
+        error = null
+        try {
+            val source = book.contentPath ?: error("Alamat PDF belum diatur.")
+            val file = withContext(Dispatchers.IO) {
+                val url = when {
+                    source.startsWith("https://") || source.startsWith("http://") -> source
+                    source.startsWith("pdf://") -> BuildConfig.SUPABASE_URL.trimEnd('/') +
+                        "/storage/v1/object/public/public-books/" +
+                        source.removePrefix("pdf://").trimStart('/').split('/').joinToString("/") { Uri.encode(it) }
+                    else -> throw IllegalStateException("Buku PDF belum memiliki alamat berkas yang sah.")
+                }
+                val target = File(context.cacheDir, "nextylibrary_${book.id}.pdf")
+                val connection = URL(url).openConnection() as HttpURLConnection
+                try {
+                    connection.connectTimeout = 20000
+                    connection.readTimeout = 60000
+                    connection.instanceFollowRedirects = true
+                    connection.setRequestProperty("User-Agent", "NextyLibrary/1.0")
+                    if (connection.responseCode !in 200..299) throw IllegalStateException("PDF tidak dapat diunduh (HTTP ${connection.responseCode}).")
+                    connection.inputStream.use { input -> FileOutputStream(target).use { output -> input.copyTo(output) } }
+                } finally { connection.disconnect() }
+                target
+            }
+            val opened = withContext(Dispatchers.IO) {
+                val fd = ParcelFileDescriptor.open(file, ParcelFileDescriptor.MODE_READ_ONLY)
+                Pair(fd, PdfRenderer(fd))
+            }
+            descriptor?.close()
+            renderer?.close()
+            descriptor = opened.first
+            renderer = opened.second
+            pdfFile = file
+            pageCount = opened.second.pageCount
+            val saved = context.getSharedPreferences("reader_progress", android.content.Context.MODE_PRIVATE)
+                .getInt(book.id, 0).coerceIn(0, (pageCount - 1).coerceAtLeast(0))
+            pageIndex = saved
+        } catch (e: Exception) {
+            error = e.localizedMessage ?: "PDF gagal dibuka."
+        } finally { loading = false }
+    }
+
+    LaunchedEffect(renderer, pageIndex) {
+        val current = renderer ?: return@LaunchedEffect
+        try {
+            pageBitmap = withContext(Dispatchers.IO) {
+                val page = current.openPage(pageIndex)
+                try {
+                    val width = 1200
+                    val height = (width.toFloat() * page.height / page.width).toInt().coerceAtLeast(1)
+                    Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888).also { bitmap ->
+                        bitmap.eraseColor(android.graphics.Color.WHITE)
+                        page.render(bitmap, null, null, PdfRenderer.Page.RENDER_MODE_FOR_DISPLAY)
+                    }
+                } finally { page.close() }
+            }
+            context.getSharedPreferences("reader_progress", android.content.Context.MODE_PRIVATE)
+                .edit().putInt(book.id, pageIndex).apply()
+        } catch (e: Exception) {
+            error = e.localizedMessage ?: "Halaman PDF gagal ditampilkan."
+        }
+    }
+
+    DisposableEffect(book.id) {
+        onDispose {
+            runCatching { renderer?.close() }
+            runCatching { descriptor?.close() }
+        }
+    }
+
+    Column(Modifier.fillMaxSize().background(Color(0xFFF2F0E9))) {
+        Row(Modifier.fillMaxWidth().background(Color.White).padding(horizontal = 14.dp, vertical = 10.dp), verticalAlignment = Alignment.CenterVertically) {
+            Text("‹", color = Green, fontSize = 30.sp, modifier = Modifier.clickable(onClick = onBack))
+            Spacer(Modifier.width(10.dp))
+            Column(Modifier.weight(1f)) {
+                Text(book.title, color = Ink, fontSize = 14.sp, fontWeight = FontWeight.ExtraBold, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                Text(book.author, color = Muted, fontSize = 10.sp)
+            }
+            FilledIconButton(onClick = onMusicToggle, colors = IconButtonDefaults.filledIconButtonColors(containerColor = if (musicPlaying) Green else Color(0xFFE8EFEA), contentColor = if (musicPlaying) Color.White else Green)) {
+                Text(if (musicPlaying) "Ⅱ" else "♫", fontSize = 17.sp, fontWeight = FontWeight.Bold)
+            }
+        }
+        when {
+            loading -> Box(Modifier.weight(1f).fillMaxWidth(), contentAlignment = Alignment.Center) {
+                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                    CircularProgressIndicator(color = Green)
+                    Spacer(Modifier.height(12.dp))
+                    Text("Memuat buku PDF lengkap…", color = Muted)
+                }
+            }
+            error != null -> Box(Modifier.weight(1f).fillMaxWidth().padding(24.dp), contentAlignment = Alignment.Center) {
+                Text(error ?: "PDF gagal dibuka.", color = Muted, textAlign = TextAlign.Center)
+            }
+            pageBitmap != null -> androidx.compose.foundation.lazy.LazyColumn(
+                modifier = Modifier.weight(1f).fillMaxWidth(),
+                contentPadding = PaddingValues(horizontal = 10.dp, vertical = 12.dp)
+            ) {
+                item {
+                    Image(
+                        bitmap = pageBitmap!!.asImageBitmap(),
+                        contentDescription = "Halaman ${pageIndex + 1} dari ${pageCount}",
+                        modifier = Modifier.fillMaxWidth().clip(RoundedCornerShape(5.dp)).shadow(2.dp)
+                    )
+                }
+            }
+            else -> Box(Modifier.weight(1f).fillMaxWidth(), contentAlignment = Alignment.Center) {
+                Text("Halaman PDF belum tersedia.", color = Muted)
+            }
+        }
+        if (pageCount > 0) {
+            Row(
+                Modifier.fillMaxWidth().background(Color.White).padding(horizontal = 16.dp, vertical = 10.dp),
+                verticalAlignment = Alignment.CenterVertically,
+                horizontalArrangement = Arrangement.SpaceBetween
+            ) {
+                TextButton(onClick = { pageIndex = (pageIndex - 1).coerceAtLeast(0) }, enabled = pageIndex > 0) { Text("‹ Sebelumnya") }
+                Text("${pageIndex + 1} / ${pageCount}", color = DeepGreen, fontWeight = FontWeight.Bold, fontSize = 13.sp)
+                TextButton(onClick = { pageIndex = (pageIndex + 1).coerceAtMost(pageCount - 1) }, enabled = pageIndex < pageCount - 1) { Text("Berikutnya ›") }
+            }
+        }
+    }
+}
+
 private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () -> Unit, onBack: () -> Unit) {
     val context = LocalContext.current
+    if (book.contentPath?.let { it.lowercase().substringBefore('?').endsWith(".pdf") || it.startsWith("pdf://") } == true) {
+        PdfBookReaderScreen(book, musicPlaying, onMusicToggle, onBack)
+        return
+    }
     var body by remember(book.id) { mutableStateOf<String?>(null) }
     var error by remember(book.id) { mutableStateOf<String?>(null) }
     var loading by remember(book.id) { mutableStateOf(true) }

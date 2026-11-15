@@ -1,6 +1,13 @@
 # NextyLibrary
 
-Aplikasi Android katalog dan pembaca buku dari Nexty Studio.
+Aplikasi Android perpustakaan digital dan pembaca buku dari Nexty Studio.
+
+## Arah produk
+- Tidak menampilkan iklan dalam bentuk apa pun.
+- Semua buku dan fitur membaca tersedia gratis; tidak ada bab terkunci atau kewajiban menonton iklan.
+- Donasi bersifat sukarela, opsional, dan tidak memberikan keuntungan khusus atau membuka konten.
+- Jangan menambahkan SDK iklan, iklan rewarded, interstitial, banner, atau mekanisme promosi paksa.
+- Fitur donasi direncanakan sebagai dukungan sukarela. Penyedia pembayaran, ketentuan usia, perlindungan pengguna, dan kebijakan platform harus ditinjau sebelum integrasi. Jangan menyimpan data kartu atau kredensial pembayaran di aplikasi.
 
 ## Teknologi
 - Kotlin + Jetpack Compose
@@ -13,6 +20,6 @@ GitHub Actions akan menjalankan build saat ada push ke `main`, atau melalui tab 
 Artifact build bernama `NextyLibrary-debug`.
 
 ## Status fondasi
-Saat ini tersedia kerangka UI, pencarian katalog, detail buku, dan koneksi baca-katalog dari tabel `books` di Supabase. Autentikasi, pembaca PDF, bookmark/progres, panel admin, AdMob, serta verifikasi server-side rewarded-ad belum diimplementasikan. Jangan gunakan client callback iklan sebagai bukti unlock; unlock perlu diverifikasi di server (AdMob SSV) terlebih dahulu.
+Aplikasi memiliki katalog buku, autentikasi, dan pembaca konten. Fitur lanjutan seperti penyempurnaan pembaca, bookmark/progres tersinkron, panel admin, dan halaman donasi masih perlu dikembangkan serta diuji.
 
-Distribusikan hanya buku yang public domain, berlisensi, atau sudah mendapat izin distribusi.
+Distribusikan hanya buku yang public domain, berlisensi sesuai penggunaan, atau sudah mendapat izin distribusi. Cantumkan atribusi dan lisensi sesuai persyaratan masing-masing sumber.

@@ -39,7 +39,7 @@ jobs:
               -X POST \
               -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
               -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
-              -H "Content-Type: text/plain; charset=utf-8" \
+              -H "Content-Type: text/plain" \
               -H "x-upsert: true" \
               --data-binary "@$file" \
               "$SUPABASE_URL/storage/v1/object/public-books/$filename" \

@@ -1331,8 +1331,8 @@ private fun fetchBooks(offset: Int = 0, search: String = "", categoryId: String?
     val safeSearch = search.trim().take(80).filter { it.isLetterOrDigit() || it.isWhitespace() || it == '-' }
     if (safeSearch.isNotBlank()) {
         val pattern = ".*" + safeSearch + ".*"
-        val filter = "or=(title.ilike." + pattern + ",author.ilike." + pattern + ")"
-        query.append("&").append(Uri.encode(filter))
+        val filterValue = "(title.ilike." + pattern + ",author.ilike." + pattern + ")"
+        query.append("&or=").append(Uri.encode(filterValue))
     }
     val endpoint = BuildConfig.SUPABASE_URL.trimEnd('/') + "/rest/v1/books?" + query
     val connection = URL(endpoint).openConnection() as HttpURLConnection

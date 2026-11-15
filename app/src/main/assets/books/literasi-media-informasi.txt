@@ -124,3 +124,36 @@ BAB 19 — MENYUSUN PRODUK INFORMASI
 Laporan, infografik, dan presentasi menyatakan tujuan, audiens, sumber, tanggal, dan batas data. Gunakan bahasa yang tidak memelintir hasil dan beri atribusi materi pihak lain. Jika terjadi kesalahan, koreksi terbuka dan jelaskan bagian yang berubah.
 LATIHAN
 Pilih lima klaim dari pesan viral. Untuk tiap klaim, catat sumber pertama, bukti pendukung, bukti bertentangan, tanggal, dan status verifikasi. Tandai klaim yang belum dapat dipastikan.
+
+
+
+BAB LANJUTAN — ALGORITMA REKOMENDASI DAN RUANG INFORMASI
+
+Platform digital menggunakan sistem rekomendasi untuk memilih konten yang mungkin menarik bagi pengguna. Sistem dapat mempertimbangkan riwayat tontonan, interaksi, dan kesamaan perilaku pengguna. Rekomendasi membantu menemukan informasi, tetapi dapat mempersempit paparan jika pengguna hanya melihat materi serupa berulang kali.
+
+Jumlah tayangan atau tanda suka bukan ukuran otomatis kebenaran. Konten yang mengejutkan atau memancing emosi dapat menyebar cepat. Pembaca perlu membedakan popularitas, kredibilitas sumber, dan kekuatan bukti. Cobalah mencari sudut pandang lain dan sumber primer untuk klaim penting.
+
+Iklan dan konten bersponsor perlu dikenali karena memiliki tujuan promosi. Perhatikan label iklan, hubungan pembuat konten dengan produk, serta apakah klaim didukung bukti independen. Ulasan pribadi dapat berguna, tetapi tidak sama dengan pengujian ilmiah.
+
+LATIHAN
+
+Bandingkan dua pemberitaan tentang isu yang sama. Catat judul, sumber, tanggal, bukti, pilihan kata, dan hal yang tidak dibahas. Jelaskan perbedaan tanpa menyimpulkan motif penulis tanpa bukti.
+
+EVALUASI
+1. Apa fungsi sistem rekomendasi?
+2. Mengapa popularitas bukan bukti kebenaran?
+3. Apa yang dimaksud konten bersponsor?
+4. Bagaimana memperluas sudut pandang informasi?
+5. Mengapa ulasan pribadi perlu dibaca secara kritis?
+
+PEMBAHASAN
+1. Memilih konten berdasarkan prediksi minat atau relevansi.
+2. Banyak orang dapat menyebarkan informasi yang keliru.
+3. Konten yang dibuat atau dibayar untuk tujuan promosi.
+4. Membandingkan sumber independen dan mencari bukti primer.
+5. Pengalaman seseorang tidak selalu mewakili semua kondisi.
+
+GLOSARIUM
+Sistem rekomendasi: sistem yang memilih konten berdasarkan data dan prediksi.
+Konten bersponsor: materi yang didukung atau dibayar pihak promosi.
+Kredibilitas: tingkat keterpercayaan sumber berdasarkan bukti dan rekam jejak.

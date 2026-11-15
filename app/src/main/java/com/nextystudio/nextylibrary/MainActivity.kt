@@ -133,8 +133,8 @@ private fun HomeScreen(books: List<Book>, categories: List<BookCategory>, loadin
         item { MusicPlayerCard(musicPlaying, onMusicToggle, musicVolume, onMusicVolume) }
         item {
             Column(Modifier.padding(top = 22.dp)) {
-                Text("Temukan bacaanmu", color = Ink, fontSize = 21.sp, fontWeight = FontWeight.ExtraBold, modifier = Modifier.padding(horizontal = 20.dp))
-                Text("Jelajahi cerita, ilmu, dan inspirasi.", color = Muted, fontSize = 12.sp, modifier = Modifier.padding(start = 20.dp, top = 3.dp, bottom = 13.dp))
+                Text("Tambah pengetahuan", color = Ink, fontSize = 21.sp, fontWeight = FontWeight.ExtraBold, modifier = Modifier.padding(horizontal = 20.dp))
+                Text("Buku pengetahuan dalam bahasa Indonesia.", color = Muted, fontSize = 12.sp, modifier = Modifier.padding(start = 20.dp, top = 3.dp, bottom = 13.dp))
                 OutlinedTextField(value = search, onValueChange = onSearch, modifier = Modifier.fillMaxWidth().padding(horizontal = 18.dp),
                     singleLine = true, placeholder = { Text("Cari buku atau penulis...") }, leadingIcon = { Text("⌕", color = Green, fontSize = 25.sp) },
                     shape = RoundedCornerShape(17.dp), colors = OutlinedTextFieldDefaults.colors(focusedBorderColor = Green, unfocusedBorderColor = Color(0xFFE1EAE3), focusedContainerColor = Color.White, unfocusedContainerColor = Color.White))
@@ -524,7 +524,7 @@ private fun BookDetail(book: Book, categoryName: String?, onBack: () -> Unit, on
                     Text("Baca sekarang", fontSize = 16.sp, fontWeight = FontWeight.Bold)
                 }
                 Spacer(Modifier.height(10.dp))
-                Text(if (book.contentPath.isNullOrBlank()) "Teks buku belum tersedia." else "Edisi teks domain publik • dapat dibaca gratis",
+                Text(if (book.contentPath.isNullOrBlank()) "Isi buku belum tersedia." else "Bahasa Indonesia • Materi edukasi • Lisensi CC BY 4.0",
                     color = Muted, fontSize = 11.sp)
             }
         }
@@ -574,6 +574,7 @@ private fun prepareReaderSections(raw: String, title: String): List<ReaderSectio
 
 @Composable
 private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () -> Unit, onBack: () -> Unit) {
+    val context = LocalContext.current
     var body by remember(book.id) { mutableStateOf<String?>(null) }
     var error by remember(book.id) { mutableStateOf<String?>(null) }
     var loading by remember(book.id) { mutableStateOf(true) }
@@ -584,7 +585,7 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
         error = null
         try {
             val source = book.contentPath ?: throw IllegalStateException("Sumber teks buku belum tersedia.")
-            body = withContext(Dispatchers.IO) { fetchPublicBookText(source) }
+            body = withContext(Dispatchers.IO) { if (source.startsWith("asset://")) context.assets.open(source.removePrefix("asset://")).bufferedReader(Charsets.UTF_8).use { it.readText() } else fetchPublicBookText(source) }
         } catch (e: Exception) {
             error = e.localizedMessage ?: "Buku gagal dimuat. Periksa koneksi internet."
         } finally { loading = false }
@@ -637,7 +638,7 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
                         Spacer(Modifier.height(10.dp))
                         Text(book.author, color = Color(0xFFE3F0E8), fontSize = 14.sp)
                         Spacer(Modifier.height(25.dp))
-                        Text("EDISI DOMAIN PUBLIK", color = Color(0xFFD5EBDD), fontSize = 9.sp, letterSpacing = 2.sp)
+                        Text("MATERI EDUKASI • BAHASA INDONESIA", color = Color(0xFFD5EBDD), fontSize = 9.sp, letterSpacing = 1.5.sp)
                     }
                 }
                 items(sections) { section ->
@@ -692,7 +693,6 @@ private fun InfoPill(text: String) {
 }
 
 private fun categoryIcon(name: String): String = when (name.lowercase()) {
-    "novel" -> "♡"
     "pendidikan" -> "✎"
     "sejarah" -> "⌛"
     "sains" -> "⚛"

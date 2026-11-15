@@ -87,3 +87,31 @@ LATIHAN PENDALAMAN
 2. Apa arti minimisasi data? Jawaban: mengumpulkan dan menyimpan hanya data yang diperlukan.
 3. Mengapa atribusi tidak selalu cukup untuk menggunakan karya orang lain? Jawaban: lisensi atau izin mungkin membatasi penggunaan tertentu.
 4. Sebutkan tiga tanda pesan phishing. Jawaban: desakan, tautan mencurigakan, dan permintaan kata sandi atau kode rahasia.
+
+PENDALAMAN LANJUTAN: HAK, KEAMANAN, DAN PARTISIPASI DIGITAL
+BAB 7 — IDENTITAS DAN JEJAK DIGITAL
+Jejak digital dapat berupa unggahan, komentar, metadata, riwayat aktivitas, dan catatan yang dibuat layanan. Sebagian jejak terlihat oleh publik, sebagian lain dikumpulkan oleh penyedia layanan. Pengaturan privasi membantu mengendalikan paparan, tetapi tidak menjamin semua salinan dapat dihapus.
+Gunakan informasi pribadi seperlunya. Sebelum mengunggah foto atau data orang lain, pertimbangkan persetujuan dan dampaknya. Informasi yang tampak sepele dapat menjadi sensitif ketika digabungkan dengan data lain.
+BAB 8 — KEAMANAN AKUN DAN PENIPUAN
+Kata sandi unik dan panjang mengurangi risiko penggunaan ulang ketika suatu layanan mengalami kebocoran. Pengelola kata sandi dapat membantu menyimpan kredensial, sedangkan autentikasi multifaktor memberi lapisan perlindungan tambahan.
+Phishing memanipulasi korban agar menyerahkan informasi atau membuka tautan berbahaya. Periksa alamat pengirim, domain, konteks permintaan, dan jangan memberikan kode verifikasi. Jika ragu, buka layanan melalui aplikasi atau alamat resmi yang diketik sendiri.
+BAB 9 — PRIVASI, PERSETUJUAN, DAN DATA
+Persetujuan yang bermakna harus jelas, spesifik, dan dapat dipahami. Kebijakan privasi perlu menjelaskan jenis data, tujuan, masa penyimpanan, pihak penerima, dan cara pengguna mengajukan permintaan. Mengumpulkan data sebanyak mungkin bukan praktik yang bertanggung jawab.
+Prinsip minimisasi data berarti hanya mengambil informasi yang benar-benar diperlukan. Data anak dan kelompok rentan memerlukan perhatian khusus serta perlindungan yang sesuai aturan.
+BAB 10 — HAK CIPTA DAN KARYA DIGITAL
+Karya digital tetap dapat dilindungi hak cipta. Mengunduh atau menemukan berkas di internet tidak otomatis memberi izin untuk menyalin, mengubah, atau mendistribusikannya. Lisensi menjelaskan izin dan syarat penggunaan.
+Karya berlisensi terbuka tetap dapat memiliki kewajiban atribusi atau pembatasan tertentu. Simpan catatan pencipta, sumber, lisensi, dan perubahan yang dilakukan. Hindari menghapus tanda kepemilikan.
+BAB 11 — DISINFORMASI DAN DISKUSI PUBLIK
+Informasi palsu dapat menyebar melalui judul sensasional, akun tiruan, gambar di luar konteks, dan kutipan yang dipotong. Verifikasi klaim dengan mencari sumber primer, tanggal, lokasi, dan laporan independen.
+Diskusi digital yang sehat berfokus pada gagasan, bukan penghinaan. Perbedaan pendapat dapat disampaikan dengan alasan dan bukti. Laporkan ancaman atau konten berbahaya melalui mekanisme resmi platform.
+BAB 12 — AKSESIBILITAS DAN KESETARAAN DIGITAL
+Akses digital dipengaruhi ketersediaan perangkat, jaringan, biaya, kemampuan, bahasa, dan desain layanan. Situs dan aplikasi yang aksesibel mendukung pembaca layar, navigasi papan ketik, teks alternatif, kontras, serta bahasa yang jelas.
+Kesenjangan digital tidak selesai hanya dengan menyediakan perangkat. Pelatihan, dukungan teknis, konten lokal, dan perlindungan pengguna juga diperlukan.
+BAB 13 — PARTISIPASI WARGA DAN TANGGUNG JAWAB
+Teknologi dapat membantu masyarakat memperoleh informasi, menyampaikan aspirasi, dan mengawasi layanan publik. Partisipasi yang bertanggung jawab memerlukan verifikasi informasi, perlindungan data, dan penghormatan pada hak orang lain.
+Sebelum membagikan klaim, tanyakan siapa sumbernya, bukti apa yang tersedia, siapa yang mungkin dirugikan, dan apakah informasi tersebut relevan untuk dibagikan.
+LATIHAN PENDALAMAN
+1. Mengapa kata sandi tidak boleh digunakan ulang? Jawaban: kebocoran pada satu layanan dapat membuka akun lain.
+2. Apakah semua karya yang tersedia di internet bebas digunakan? Jawaban: tidak, izin ditentukan oleh hak cipta dan lisensi.
+3. Apa prinsip minimisasi data? Jawaban: mengumpulkan hanya data yang diperlukan untuk tujuan yang jelas.
+4. Bagaimana memeriksa informasi viral? Jawaban: telusuri sumber primer, tanggal, konteks, dan konfirmasi independen.

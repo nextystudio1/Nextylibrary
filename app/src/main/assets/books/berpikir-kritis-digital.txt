@@ -215,3 +215,15 @@ LATIHAN
 1. Mengapa contoh pribadi tidak cukup membuktikan pola umum? Jawaban: contoh dapat tidak mewakili populasi.
 2. Apa arti korelasi? Jawaban: dua variabel berubah bersama menurut pola tertentu, tanpa otomatis membuktikan sebab.
 3. Bagaimana menunjukkan argumen yang adil? Jawaban: menyajikan bukti relevan, mengakui batas, dan menanggapi sanggahan secara tepat.
+
+BAB LANJUTAN: MENILAI INFORMASI DI RUANG DIGITAL
+Sebelum membagikan klaim, telusuri sumber awal. Tangkapan layar dapat kehilangan tanggal, konteks, dan tautan asal. Periksa apakah gambar pernah digunakan dalam peristiwa lain, apakah kutipan lengkap, serta apakah judul sesuai isi. Untuk angka, cari definisi, periode, satuan, populasi, dan metode pengumpulan.
+Bedakan fakta, opini, prediksi, dan ajakan. Kalimat yang terdengar yakin bukan bukti. Tanyakan bukti apa yang dapat membuat kita mengubah pendapat. Sikap ini mencegah penalaran yang hanya memilih informasi yang mendukung keyakinan awal.
+ARGUMEN DAN KEKELIRUAN
+Serangan pribadi tidak membantah isi argumen. Pilihan palsu menyajikan seolah hanya ada dua kemungkinan padahal pilihan lain tersedia. Generalisasi tergesa-gesa menarik kesimpulan luas dari contoh sedikit. Korelasi tidak membuktikan sebab karena mungkin ada variabel ketiga atau arah hubungan yang berbeda.
+PRAKTIK PEMERIKSAAN KLAIM
+Pilih satu klaim publik yang tidak sensitif. Catat pernyataan persisnya, sumber pertama, tanggal, bukti pendukung, bukti yang berlawanan, dan bagian yang belum diketahui. Buat kesimpulan bertingkat: terverifikasi, sebagian benar, belum cukup bukti, atau keliru. Sertakan alasan, bukan sekadar label.
+LATIHAN PEMAHAMAN
+1. Apa itu bias konfirmasi? Jawaban: kecenderungan mencari atau menafsirkan informasi yang mendukung keyakinan sendiri.
+2. Mengapa sumber primer penting? Jawaban: membantu memeriksa konteks dan isi asli sebelum ditafsirkan pihak lain.
+3. Bagaimana menyikapi klaim yang belum dapat diverifikasi? Jawaban: tahan penyebaran, jelaskan ketidakpastian, dan cari bukti tambahan.

@@ -1023,50 +1023,99 @@ private fun PdfBookReaderScreen(
 }
 
 private fun fetchPublicBookText(source: String): String {
-    return if (source.contains("openwa.pressbooks.pub/environmentalscience", ignoreCase = true)) {
-        fetchPressbooksBookText(source)
-    } else {
-        fetchSingleBookText(source)
+    return when {
+        source.contains("openwa.pressbooks.pub/environmentalscience", ignoreCase = true) ->
+            fetchPressbooksBookText(source)
+        source.contains("open-book-project.github.io/textbooks/science-textbooks/biology_2e", ignoreCase = true) ->
+            fetchStaticOerBookText(source)
+        else -> fetchSingleBookText(source)
     }
 }
 
 private fun fetchPressbooksBookText(source: String): String {
     val home = fetchRawBookPage(source)
     val base = URL(source)
-    val anchorPattern = Regex("""(?is)<a\b[^>]*href\s*=\s*["']([^"']+)["'][^>]*>(.*?)</a>""")
+    val anchorPattern = Regex("""(?is)<a\\b[^>]*href\\s*=\\s*["']([^"']+)["'][^>]*>(.*?)</a>""")
     val chapterLinks = anchorPattern.findAll(home).mapNotNull { match ->
         val href = match.groupValues[1].replace("&amp;", "&").trim()
         val label = Html.fromHtml(match.groupValues[2].replace(Regex("""(?is)<[^>]+>"""), " "), Html.FROM_HTML_MODE_LEGACY)
-            .toString().replace(Regex("""\s+"""), " ").trim()
+            .toString().replace(Regex("""\\s+"""), " ").trim()
         runCatching { URL(base, href) }.getOrNull()?.let { candidate ->
             val path = candidate.path.lowercase()
             val isBookChapter = path.contains("/front-matter/") ||
                 path.contains("/chapter-") ||
-                Regex("""/\d+(?:\.\d+)?-[^/]+/?$""").containsMatchIn(path) ||
+                Regex("""/\\d+(?:\\.\\d+)?-[^/]+/?$""").containsMatchIn(path) ||
                 path.endsWith("/glossary/") || path.endsWith("/afterword/")
             if (candidate.host.equals(base.host, true) && isBookChapter) candidate to label else null
         }
     }.distinctBy { it.first.toString() }.take(120).toList()
 
     if (chapterLinks.size < 8) {
-        throw IllegalStateException("Daftar bab buku tidak berhasil dibaca dari sumber. Buku belum dimuat agar tidak hanya menampilkan pengantar.")
+        throw IllegalStateException("Daftar isi buku tidak terbaca. Periksa koneksi lalu coba lagi.")
     }
 
     val output = StringBuilder()
+    var loaded = 0
+    val failures = mutableListOf<String>()
     chapterLinks.forEachIndexed { index, entry ->
         val (chapterUrl, label) = entry
-        val chapterText = fetchSingleBookText(chapterUrl.toString())
+        val chapterText = runCatching { fetchSingleBookText(chapterUrl.toString()) }.getOrElse {
+            failures.add(label.ifBlank { "Bagian " + (index + 1) })
+            ""
+        }
         if (chapterText.length > 120) {
-            if (output.isNotEmpty()) output.append("\n\n")
-            output.append(label.ifBlank { "Bagian " + (index + 1) }).append("\n\n")
+            loaded++
+            if (output.isNotEmpty()) output.append("\\n\\n")
+            output.append(label.ifBlank { "Bagian " + (index + 1) }).append("\\n\\n")
             output.append(chapterText)
         }
     }
     val result = output.toString().trim()
-    if (result.length < 12000) {
-        throw IllegalStateException("Naskah yang berhasil dimuat belum mencakup seluruh bab. NextyLibrary menolak menampilkan buku yang hanya berisi pengantar.")
+    if (loaded < 12 || result.length < 12000) {
+        throw IllegalStateException("Sumber buku hanya berhasil memuat $loaded bagian. Isi tidak ditampilkan sebagian agar tidak menyesatkan. Periksa koneksi dan coba lagi.")
     }
-    return result
+    if (failures.isNotEmpty()) {
+        output.append("\\n\\nCATATAN PEMUATAN\\n")
+        output.append(failures.size).append(" bagian tidak dapat diambil dari sumber pada sesi ini. Sambungkan internet dan muat ulang untuk mencoba kembali.")
+    }
+    return output.toString().trim()
+}
+
+private fun fetchStaticOerBookText(source: String): String {
+    val indexHtml = fetchRawBookPage(source)
+    val base = URL(source)
+    val anchorPattern = Regex("""(?is)<a\\b[^>]*href\\s*=\\s*["']([^"']+\\.html(?:#[^"']*)?)["'][^>]*>(.*?)</a>""")
+    val pages = anchorPattern.findAll(indexHtml).mapNotNull { match ->
+        val href = match.groupValues[1].substringBefore("#").replace("&amp;", "&").trim()
+        val label = Html.fromHtml(match.groupValues[2].replace(Regex("""(?is)<[^>]+>"""), " "), Html.FROM_HTML_MODE_LEGACY)
+            .toString().replace(Regex("""\\s+"""), " ").trim()
+        runCatching { URL(base, href) }.getOrNull()?.let { candidate ->
+            val file = candidate.path.substringAfterLast("/").lowercase()
+            val isContentPage = candidate.host.equals(base.host, true) &&
+                (file.contains("chapter-") || file.contains("appendix-") || file.contains("glossary"))
+            if (isContentPage) candidate to label else null
+        }
+    }.distinctBy { it.first.toString() }.take(80).toList()
+
+    if (pages.size < 20) {
+        throw IllegalStateException("Daftar isi buku Biologi tidak berhasil dibaca. Buku tidak akan dibuka hanya dengan halaman pengantar.")
+    }
+
+    val output = StringBuilder()
+    var loaded = 0
+    pages.forEachIndexed { index, entry ->
+        val pageText = runCatching { fetchSingleBookText(entry.first.toString()) }.getOrDefault("")
+        if (pageText.length > 500) {
+            loaded++
+            if (output.isNotEmpty()) output.append("\\n\\n")
+            output.append(entry.second.ifBlank { "Bab " + (index + 1) }).append("\\n\\n")
+            output.append(pageText)
+        }
+    }
+    if (loaded < 20 || output.length < 40000) {
+        throw IllegalStateException("Baru $loaded bab Biologi yang berhasil dimuat. Aplikasi menolak menampilkan naskah yang belum lengkap.")
+    }
+    return output.toString().trim()
 }
 
 private fun fetchRawBookPage(source: String): String {

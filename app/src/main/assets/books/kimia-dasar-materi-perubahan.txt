@@ -118,3 +118,22 @@ LATIHAN PENDALAMAN
 2. Apa fungsi reaktan pembatas? Jawaban: menentukan jumlah maksimum produk yang dapat terbentuk.
 3. Mengapa katalis mempercepat reaksi? Jawaban: menyediakan jalur dengan energi aktivasi lebih rendah.
 4. Mengapa hasil eksperimen harus mencatat penyimpangan prosedur? Jawaban: agar interpretasi dapat dinilai dan diulang dengan benar.
+
+PENDALAMAN KIMIA DAN PENERAPAN
+BAB 14 — IKATAN KIMIA DAN BENTUK MOLEKUL
+Ikatan ion terbentuk melalui interaksi elektrostatik ion, sedangkan ikatan kovalen melibatkan pasangan elektron yang digunakan bersama. Ikatan logam melibatkan elektron terdelokalisasi. Bentuk molekul dipengaruhi susunan pasangan elektron dan memengaruhi polaritas serta sifat zat.
+BAB 15 — LARUTAN DAN KONSENTRASI
+Larutan terdiri atas zat terlarut dan pelarut. Konsentrasi dapat dinyatakan sebagai molaritas, persen massa, atau satuan lain sesuai konteks. Pengenceran mengubah konsentrasi tanpa mengubah jumlah zat terlarut, selama tidak ada reaksi atau kehilangan bahan.
+BAB 16 — ASAM, BASA, DAN PENYANGGA
+Asam dan basa dapat dijelaskan melalui beberapa teori. Skala pH berkaitan dengan aktivitas ion hidrogen dalam larutan. Larutan penyangga menahan perubahan pH ketika sejumlah kecil asam atau basa ditambahkan. Kapasitas penyangga terbatas dan bergantung komposisi.
+BAB 17 — REDOKS DAN ELEKTROKIMIA
+Reaksi redoks melibatkan perpindahan elektron atau perubahan bilangan oksidasi. Oksidasi dan reduksi selalu terjadi berpasangan. Sel elektrokimia mengubah energi kimia dan listrik; baterai merupakan penerapan penting. Korosi adalah proses elektrokimia yang dapat diperlambat melalui desain, pelapisan, dan pemeliharaan.
+BAB 18 — POLIMER DAN MATERIAL
+Polimer tersusun dari unit berulang dan dapat bersifat alami atau sintetis. Sifatnya dipengaruhi struktur rantai, ikatan silang, massa molekul, dan aditif. Pemilihan material mempertimbangkan kekuatan, suhu operasi, ketahanan kimia, penggunaan, serta pengelolaan limbah.
+BAB 19 — KIMIA LINGKUNGAN DAN KESELAMATAN
+Kimia lingkungan mengkaji perubahan zat di udara, air, dan tanah. Konsentrasi pencemar harus ditafsirkan bersama jalur paparan, durasi, dan standar yang relevan. Praktik laboratorium membutuhkan label, alat pelindung, ventilasi, dan prosedur pembuangan. Jangan mencampur bahan yang tidak dikenal; ikuti petunjuk guru dan lembar data keselamatan.
+LATIHAN
+1. Apa beda ikatan ion dan kovalen? Ikatan ion melibatkan tarik-menarik ion; kovalen berbagi pasangan elektron.
+2. Apa yang terjadi saat larutan diencerkan? Konsentrasi turun jika jumlah zat terlarut tetap.
+3. Apa peran larutan penyangga? Menahan perubahan pH dalam kapasitas tertentu.
+4. Mengapa limbah kimia tidak boleh dibuang sembarangan? Dapat mencemari lingkungan dan membahayakan makhluk hidup.

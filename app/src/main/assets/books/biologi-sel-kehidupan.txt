@@ -114,3 +114,22 @@ LATIHAN PENDALAMAN
 2. Mengapa sel berbeda dapat memiliki fungsi berbeda walau DNA serupa? Jawaban: karena gen yang diekspresikan dan tingkat ekspresinya berbeda.
 3. Apa fungsi enzim? Jawaban: mempercepat reaksi dengan menurunkan energi aktivasi.
 4. Mengapa perbesaran tidak sama dengan resolusi? Jawaban: perbesaran memperbesar tampilan, resolusi menentukan detail yang dapat dibedakan.
+
+PENDALAMAN BIOLOGI SEL DAN ORGANISME
+BAB 14 — PEMBELAHAN SEL
+Siklus sel mencakup pertumbuhan, replikasi DNA, dan pembelahan. Mitosis menghasilkan dua sel anak dengan informasi genetik yang pada umumnya sama, sedangkan meiosis menghasilkan sel kelamin dengan jumlah kromosom yang berkurang. Pengaturan siklus penting untuk pertumbuhan, perbaikan jaringan, dan reproduksi.
+BAB 15 — EKSPRESI GEN
+Gen menyimpan informasi yang dapat ditranskripsi menjadi RNA dan, pada banyak gen, diterjemahkan menjadi protein. Regulasi ekspresi gen memungkinkan sel berbeda menjalankan fungsi berbeda meskipun membawa genom yang hampir sama. Lingkungan dan sinyal sel memengaruhi aktivitas gen.
+BAB 16 — METABOLISME DAN ENZIM
+Metabolisme mencakup reaksi penyusunan dan penguraian molekul. Enzim mempercepat reaksi dengan menurunkan energi aktivasi tanpa habis digunakan. Aktivitas enzim dipengaruhi suhu, pH, konsentrasi substrat, dan inhibitor. Kondisi ekstrem dapat mengubah struktur enzim.
+BAB 17 — SISTEM TUBUH DAN HOMEOSTASIS
+Organisme menjaga kondisi internal melalui mekanisme umpan balik. Pengaturan suhu, kadar air, glukosa, dan keseimbangan ion melibatkan kerja beberapa organ. Homeostasis bukan keadaan yang benar-benar diam, melainkan pengaturan dinamis dalam rentang tertentu.
+BAB 18 — MIKROORGANISME DAN KESEHATAN LINGKUNGAN
+Bakteri, archaea, fungi mikroskopis, dan mikroorganisme lain berperan dalam daur materi, pangan, serta kesehatan. Sebagian mikroorganisme menyebabkan penyakit, sementara banyak lainnya bermanfaat. Kebersihan, sanitasi, vaksinasi, dan penggunaan antimikroba secara tepat merupakan bagian penting pencegahan penyakit.
+BAB 19 — EVOLUSI DAN KONSERVASI
+Evolusi adalah perubahan sifat terwariskan dalam populasi antargenerasi. Seleksi alam, mutasi, aliran gen, dan hanyutan genetik dapat mengubah frekuensi variasi. Konservasi menjaga populasi dan habitat dengan memahami hubungan ekologi, tekanan manusia, serta variasi genetik.
+LATIHAN
+1. Apa hasil umum mitosis? Dua sel anak dengan informasi genetik yang umumnya sama.
+2. Mengapa sel berbeda dapat memiliki fungsi berbeda? Regulasi ekspresi gen membuat gen aktif berbeda.
+3. Apa fungsi enzim? Mempercepat reaksi dengan menurunkan energi aktivasi.
+4. Apa yang dimaksud evolusi? Perubahan sifat terwariskan dalam populasi antargenerasi.

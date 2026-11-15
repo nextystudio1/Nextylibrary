@@ -228,3 +228,36 @@ LATIHAN
 1. Mengapa planet tetap mengorbit Matahari? Jawaban: kecepatan gerak menyamping dan gravitasi bersama-sama membentuk lintasan orbit.
 2. Apa perbedaan planet dan planet katai? Jawaban: planet telah membersihkan lingkungan orbitnya, sedangkan planet katai belum.
 3. Mengapa pengamatan Matahari memerlukan perlindungan khusus? Jawaban: cahaya Matahari dapat merusak penglihatan dan sensor optik secara permanen.
+
+
+
+BAB LANJUTAN — ORBIT DAN DINAMIKA TATA SURYA
+
+Orbit merupakan lintasan benda yang dipengaruhi gravitasi. Bentuk orbit planet umumnya elips dengan Matahari berada di salah satu fokus. Kecepatan planet berubah sepanjang orbit: lebih cepat ketika lebih dekat ke Matahari dan lebih lambat ketika lebih jauh. Hukum Kepler merangkum pola gerak ini dan menjadi dasar penting mekanika orbit.
+
+Gravitasi tidak hanya menjaga planet mengorbit Matahari. Gravitasi juga mengatur gerak satelit, cincin planet, dan interaksi banyak benda. Gangguan gravitasi antarobjek dapat mengubah orbit dalam jangka panjang. Karena itu, sistem Tata Surya bersifat dinamis, bukan kumpulan lintasan yang benar-benar terpisah.
+
+Misi antariksa menggunakan perhitungan orbit untuk merencanakan perjalanan. Lintasan wahana dipilih dengan mempertimbangkan energi, waktu, posisi planet, dan kebutuhan ilmiah. Manuver kecil dapat mengubah jalur secara signifikan setelah waktu panjang, sehingga navigasi membutuhkan pengukuran dan koreksi.
+
+PROYEK MODEL
+
+Gunakan gambar atau simulasi pendidikan untuk membandingkan orbit lingkaran dan elips. Tandai posisi Matahari, titik terdekat, dan titik terjauh. Jelaskan mengapa gambar orbit sering tidak menggunakan skala jarak yang sebenarnya.
+
+EVALUASI
+1. Apa ciri orbit elips?
+2. Bagaimana kecepatan planet berubah sepanjang orbit?
+3. Mengapa gravitasi antarplanet dapat memengaruhi orbit?
+4. Apa tujuan manuver koreksi wahana antariksa?
+5. Mengapa diagram Tata Surya sering tidak berskala?
+
+PEMBAHASAN
+1. Bentuk oval dengan benda pusat berada di salah satu fokus.
+2. Lebih cepat saat dekat Matahari dan lebih lambat saat jauh.
+3. Semua benda bermassa saling menarik secara gravitasi.
+4. Menyesuaikan lintasan agar sesuai tujuan misi.
+5. Jarak dan ukuran sebenarnya sangat berbeda sehingga sulit ditampilkan bersama.
+
+GLOSARIUM
+Orbit: lintasan gerak benda akibat gravitasi.
+Elips: kurva tertutup berbentuk oval.
+Manuver: perubahan terencana pada gerak atau lintasan wahana.

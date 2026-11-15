@@ -887,7 +887,7 @@ private fun PdfBookReaderScreen(
         error = null
         try {
             pdfFile = withContext(Dispatchers.IO) {
-                val target = File(context.cacheDir, "nextylibrary-${book.id}.pdf")
+                val target = File(context.cacheDir, "nextylibrary-${book.id}-${source.hashCode()}.pdf")
                 if (target.exists() && target.length() > 1024L) return@withContext target
                 val connection = (URL(source).openConnection() as HttpURLConnection)
                 try {

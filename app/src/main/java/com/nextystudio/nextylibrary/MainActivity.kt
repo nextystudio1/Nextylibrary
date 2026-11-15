@@ -416,7 +416,7 @@ private fun HeroBanner(bookCount: Int) {
             Spacer(Modifier.height(8.dp))
             Text("Satu buku,\nbanyak dunia.", color = Color.White, fontSize = 25.sp, lineHeight = 29.sp, fontWeight = FontWeight.ExtraBold)
             Spacer(Modifier.height(7.dp))
-            Text("$bookCount bacaan tersedia untuk dijelajahi", color = Color.White.copy(alpha = .82f), fontSize = 10.sp)
+            Text("$bookCount buku sedang ditampilkan", color = Color.White.copy(alpha = .82f), fontSize = 10.sp)
         }
         BookStackIllustration(Modifier.align(Alignment.CenterEnd).padding(end = 14.dp))
         Text("✦", color = Color(0xFFFFD98D), fontSize = 22.sp, modifier = Modifier.align(Alignment.TopEnd).padding(top = 19.dp, end = 22.dp))
@@ -1325,7 +1325,7 @@ private const val BOOKS_PAGE_SIZE = 40
 
 private fun fetchBooks(offset: Int = 0, search: String = "", categoryId: String? = null): List<Book> {
     val query = StringBuilder("select=id,title,author,description,category_id,page_count,cover_path,content_path,language,license_type,license_note")
-    query.append("&is_published=eq.true&order=published_at.desc&limit=").append(BOOKS_PAGE_SIZE)
+    query.append("&is_published=eq.true&order=published_at.desc,id.asc&limit=").append(BOOKS_PAGE_SIZE)
     query.append("&offset=").append(offset.coerceAtLeast(0))
     if (!categoryId.isNullOrBlank()) query.append("&category_id=eq.").append(Uri.encode(categoryId))
     val safeSearch = search.trim().take(80).filter { it.isLetterOrDigit() || it.isWhitespace() || it == '-' }

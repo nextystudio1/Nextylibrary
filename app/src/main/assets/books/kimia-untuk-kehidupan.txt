@@ -326,3 +326,41 @@ LATIHAN
 1. Mengapa reaksi perlu disetarakan? Jawaban: jumlah atom dan muatan harus kekal.
 2. Apa arti larutan 1 molar? Jawaban: satu mol zat terlarut per liter larutan.
 3. Mengapa pH tidak cukup untuk menilai bahaya? Jawaban: risiko juga dipengaruhi jenis zat, konsentrasi, reaktivitas, dan paparan.
+
+
+
+BAB LANJUTAN — LARUTAN, pH, DAN KIMIA LINGKUNGAN
+
+Larutan terdiri atas pelarut dan zat terlarut. Konsentrasi menyatakan banyaknya zat terlarut dalam jumlah larutan atau pelarut tertentu. Dua larutan dengan zat yang sama dapat memiliki sifat berbeda jika konsentrasinya berbeda. Dalam membaca data laboratorium, satuan konsentrasi harus selalu dicantumkan.
+
+Skala pH digunakan untuk menyatakan tingkat keasaman larutan dalam kondisi tertentu. Pada larutan encer berbasis air, pH di bawah 7 umumnya bersifat asam, pH sekitar 7 netral, dan pH di atas 7 basa pada suhu acuan yang sesuai. Skala ini bersifat logaritmik, sehingga perubahan satu satuan pH menunjukkan perubahan besar konsentrasi ion hidrogen.
+
+Asam dan basa memiliki peran dalam tubuh, industri, pertanian, dan lingkungan. Perubahan pH perairan dapat memengaruhi organisme dan ketersediaan unsur. Pengukuran pH perlu menggunakan alat atau indikator yang sesuai. Jangan mencampur bahan pembersih rumah tangga; beberapa campuran dapat menghasilkan gas berbahaya.
+
+PROYEK DATA
+
+Gunakan data pH dari sumber pendidikan atau pengamatan yang aman dengan indikator siap pakai sesuai petunjuk guru. Catat jenis sampel, alat, satuan, dan keterbatasan. Jangan mencicipi atau menyentuh larutan yang tidak dikenal.
+
+EVALUASI
+1. Apa perbedaan pelarut dan zat terlarut?
+2. Mengapa satuan konsentrasi penting?
+3. Apa makna skala pH yang logaritmik?
+4. Mengapa perubahan pH dapat memengaruhi ekosistem air?
+5. Mengapa bahan pembersih tidak boleh dicampur sembarangan?
+
+PEMBAHASAN
+1. Pelarut melarutkan; zat terlarut adalah bahan yang tersebar di dalamnya.
+2. Agar hasil dapat ditafsirkan dan dibandingkan dengan benar.
+3. Perubahan satu unit mewakili perubahan sepuluh kali pada besaran terkait.
+4. Organisme memiliki rentang toleransi dan pH memengaruhi proses biologis serta kelarutan zat.
+5. Campuran tertentu dapat menghasilkan reaksi atau gas berbahaya.
+
+GLOSARIUM
+Larutan: campuran homogen pelarut dan zat terlarut.
+Konsentrasi: ukuran banyaknya zat dalam campuran.
+pH: ukuran keasaman larutan.
+Indikator: zat atau alat yang menunjukkan sifat tertentu melalui perubahan terukur.
+
+RUJUKAN UNTUK PENDALAMAN
+OpenStax Chemistry 2e: https://openstax.org/details/books/chemistry-2e
+Royal Society of Chemistry — Education: https://edu.rsc.org/

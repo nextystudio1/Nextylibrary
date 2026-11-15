@@ -59,3 +59,22 @@ Bias: penyimpangan sistematis dalam pengumpulan atau analisis.
 
 CATATAN PENULIS
 Materi ini merupakan pengantar belajar. Untuk penelitian nyata, periksa metode pengumpulan data, sumber, dan asumsi analisis sebelum menarik kesimpulan.
+
+
+PENDALAMAN — ANALISIS DATA DAN KETIDAKPASTIAN
+BAB 7 — POPULASI DAN SAMPEL
+Populasi adalah seluruh kelompok sasaran penelitian, sedangkan sampel adalah bagian yang diamati. Sampel besar belum tentu mewakili populasi jika pemilihannya berat sebelah. Survei daring yang hanya dibagikan melalui satu platform dapat kurang mewakili orang yang jarang menggunakannya. Sampel acak sederhana, berstrata, dan klaster memiliki kelebihan serta keterbatasan yang berbeda.
+BAB 8 — GRAFIK DAN PENYAJIAN
+Diagram batang cocok membandingkan kategori; histogram menunjukkan distribusi data numerik; diagram garis sering digunakan untuk perubahan menurut waktu. Grafik perlu judul, label sumbu, satuan, sumber, dan periode. Sumbu yang dipotong dapat membuat perbedaan tampak berlebihan. Persentase harus menyebutkan penyebut atau kelompok pembandingnya.
+BAB 9 — PENYEBARAN DATA
+Rata-rata peka terhadap nilai ekstrem, sedangkan median lebih tahan terhadap nilai yang sangat tinggi atau rendah. Rentang adalah selisih nilai maksimum dan minimum. Rentang antarkuartil menggambarkan lebar 50 persen data tengah. Simpangan baku mengukur penyebaran terhadap rata-rata. Nilai ekstrem tidak otomatis salah; periksa apakah merupakan kesalahan, kejadian langka, atau kelompok yang berbeda sebelum memutuskan penanganannya.
+BAB 10 — PROBABILITAS
+Probabilitas menyatakan ukuran kemungkinan kejadian dalam model tertentu, dengan nilai antara nol dan satu. Probabilitas empiris dapat diperkirakan dari frekuensi relatif, tetapi sampel terbatas mengandung ketidakpastian. Independensi berarti satu kejadian tidak mengubah peluang kejadian lain; kejadian saling lepas berarti keduanya tidak dapat terjadi bersamaan. Kedua istilah ini berbeda.
+BAB 11 — KORELASI DAN SEBAB-AKIBAT
+Korelasi menggambarkan perubahan bersama dua variabel. Korelasi positif berarti keduanya cenderung meningkat bersama; korelasi negatif berarti satu cenderung turun ketika yang lain naik. Korelasi tidak membuktikan sebab-akibat. Variabel ketiga, arah hubungan terbalik, atau kebetulan dapat menjelaskan pola. Regresi merangkum hubungan dan membantu prediksi, tetapi ekstrapolasi di luar rentang data perlu sangat hati-hati.
+BAB 12 — ETIKA DATA
+Data manusia harus dilindungi. Hasil statistik disampaikan bersama ukuran sampel, metode, keterbatasan, dan ketidakpastian. Memilih hanya angka yang mendukung pendapat sendiri merupakan pelaporan selektif.
+LATIHAN
+1. Mengapa sampel besar masih dapat bias? Jawaban: pemilihan dapat mengecualikan kelompok secara sistematis.
+2. Kapan median lebih tepat daripada rata-rata? Jawaban: saat distribusi miring atau memiliki nilai ekstrem.
+3. Apakah korelasi membuktikan sebab? Jawaban: tidak; diperlukan rancangan dan bukti tambahan.

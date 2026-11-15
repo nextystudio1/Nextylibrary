@@ -115,3 +115,19 @@ LATIHAN PENDALAMAN
 2. Apakah semua karya yang tersedia di internet bebas digunakan? Jawaban: tidak, izin ditentukan oleh hak cipta dan lisensi.
 3. Apa prinsip minimisasi data? Jawaban: mengumpulkan hanya data yang diperlukan untuk tujuan yang jelas.
 4. Bagaimana memeriksa informasi viral? Jawaban: telusuri sumber primer, tanggal, konteks, dan konfirmasi independen.
+
+PENDALAMAN KEWARGAAN DIGITAL
+BAB 14 — HAK DAN TANGGUNG JAWAB DI RUANG DIGITAL
+Warga digital memiliki hak atas privasi, keamanan, akses informasi, dan perlakuan yang adil sesuai hukum. Hak tersebut berjalan bersama tanggung jawab untuk menghormati orang lain, tidak menyebarkan fitnah, menjaga data, dan memahami dampak tindakan daring. Kebebasan berekspresi tidak berarti bebas dari tanggung jawab atas kerugian yang ditimbulkan.
+BAB 15 — IDENTITAS DAN KEAMANAN AKUN
+Identitas digital terbentuk dari akun, aktivitas, dan informasi yang dibagikan. Gunakan kata sandi unik, autentikasi multifaktor, pembaruan perangkat, dan pemulihan akun yang aman. Jangan membagikan kode verifikasi. Waspadai pesan yang meniru lembaga resmi atau meminta tindakan mendesak.
+BAB 16 — PRIVASI DAN PERSETUJUAN
+Sebelum mengunggah foto, rekaman, atau informasi orang lain, pertimbangkan persetujuan dan konteks. Informasi yang tampak sepele dapat mengungkap lokasi, rutinitas, atau identitas. Batasi pengumpulan data pada hal yang diperlukan dan pahami pengaturan privasi layanan.
+BAB 17 — PARTISIPASI DAN MUSYAWARAH DARING
+Ruang digital dapat memperluas partisipasi publik melalui diskusi, konsultasi, dan penyebaran informasi. Partisipasi yang sehat membutuhkan aturan diskusi, akses yang inklusif, moderasi transparan, serta cara mengoreksi informasi salah. Jumlah komentar tidak selalu mewakili pendapat seluruh masyarakat.
+BAB 18 — HAK CIPTA DAN KARYA DIGITAL
+Karya digital tetap dapat dilindungi hak cipta. Periksa lisensi sebelum menyalin teks, gambar, musik, atau kode. Atribusi tidak otomatis menggantikan izin jika lisensi mewajibkannya. Gunakan karya sendiri, domain publik, atau materi dengan lisensi yang sesuai dan patuhi ketentuannya.
+BAB 19 — MENANGANI KONFLIK DAN PELECEHAN DARING
+Jangan membalas provokasi dengan ancaman atau menyebarkan data pribadi. Simpan bukti secara aman, gunakan fitur blokir dan pelaporan, serta minta bantuan orang dewasa tepercaya atau pihak berwenang bila ada ancaman nyata. Platform perlu menyediakan prosedur pelaporan yang mudah dipahami.
+STUDI KASUS
+Sebuah grup kelas menerima pesan yang menuduh seorang siswa melakukan sesuatu tanpa bukti. Langkah bertanggung jawab adalah tidak meneruskan pesan, tidak mempermalukan pihak terkait, memeriksa fakta melalui jalur yang tepat, dan meminta bantuan guru atau wali bila situasi berpotensi merugikan.

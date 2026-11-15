@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="nexty_launcher_bg">#171044</color>
+    <color name="nexty_splash_bg">#103C30</color>
 </resources>

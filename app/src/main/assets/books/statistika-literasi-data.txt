@@ -292,3 +292,27 @@ Naskah disusun secara orisinal oleh Tim Edukasi Nexty Studio sebagai materi peng
 
 PENUTUP
 Literasi data bukan sekadar kemampuan menghitung. Literasi data berarti bertanya dengan tepat, memahami bagaimana angka diperoleh, mengenali ketidakpastian, dan menyampaikan hasil secara jujur. Sikap kritis membuat data menjadi alat untuk memahami dunia, bukan sekadar hiasan untuk membenarkan pendapat.
+
+PENDALAMAN: STATISTIKA, SAMPEL, DAN PENALARAN DATA
+BAB 7 — DISTRIBUSI DAN BENTUK DATA
+Distribusi menunjukkan bagaimana nilai tersebar. Bentuknya dapat simetris, menceng, memiliki beberapa puncak, atau mengandung pencilan. Histogram membantu melihat pola untuk data numerik, sedangkan diagram batang cocok untuk kategori.
+Pemilihan lebar kelas memengaruhi tampilan histogram. Jangan menarik kesimpulan hanya dari grafik tanpa melihat ukuran sampel dan ringkasan numerik.
+BAB 8 — UKURAN PEMUSATAN DAN PENYEBARAN
+Rata-rata menggunakan seluruh nilai dan peka terhadap pencilan. Median adalah nilai tengah setelah data diurutkan. Modus merupakan nilai atau kategori yang paling sering muncul. Rentang, varians, dan simpangan baku mengukur penyebaran dengan cara berbeda.
+Laporkan ukuran pemusatan bersama ukuran penyebaran bila diperlukan. Dua kelompok dapat memiliki rata-rata sama tetapi variasi yang sangat berbeda.
+BAB 9 — SAMPLING DAN GALAT
+Sampel acak sederhana memberi peluang pemilihan yang setara bagi anggota populasi dalam kerangka sampel. Sampel berstrata memastikan kelompok tertentu terwakili. Sampel kemudahan lebih mudah tetapi berisiko bias.
+Galat sampling muncul karena hanya sebagian populasi diamati. Bias non-sampling dapat muncul dari pertanyaan buruk, nonrespons, atau kesalahan pencatatan dan tidak otomatis hilang dengan memperbesar sampel.
+BAB 10 — PROBABILITAS DAN DISTRIBUSI
+Probabilitas mengukur peluang kejadian dalam model. Distribusi binomial digunakan untuk sejumlah percobaan dengan dua hasil dan peluang tetap dalam asumsi tertentu. Distribusi normal sering menjadi pendekatan untuk beberapa fenomena, tetapi tidak semua data berbentuk normal.
+Periksa asumsi sebelum menerapkan rumus. Model yang salah dapat menghasilkan angka presisi tetapi kesimpulan tidak tepat.
+BAB 11 — INTERVAL KEPERCAYAAN DAN UJI HIPOTESIS
+Interval kepercayaan menggambarkan prosedur yang dalam pengulangan jangka panjang akan mencakup parameter dengan frekuensi tertentu. Interval bukan probabilitas sederhana bahwa parameter tetap berada di satu rentang setelah data diamati.
+Uji hipotesis menilai kesesuaian data dengan hipotesis nol di bawah asumsi model. Nilai p bukan ukuran besarnya efek atau peluang hipotesis nol benar. Laporkan ukuran efek dan konteks praktis.
+BAB 12 — KORELASI DAN REGRESI
+Korelasi mengukur arah dan kekuatan hubungan linear, tetapi sensitif terhadap pencilan dan tidak membuktikan sebab. Regresi memodelkan hubungan antara variabel, namun interpretasi bergantung pada desain dan asumsi.
+Periksa pola residu, rentang data, dan kemungkinan variabel pengganggu. Hindari prediksi jauh di luar data yang diamati.
+LATIHAN
+1. Mengapa rata-rata dan median bisa berbeda jauh? Jawaban: distribusi menceng atau pencilan dapat menarik rata-rata.
+2. Apa beda galat sampling dan bias non-sampling? Jawaban: galat sampling berasal dari penggunaan sampel; bias non-sampling berasal dari proses pengukuran, pemilihan, atau respons.
+3. Mengapa nilai p bukan ukuran efek? Jawaban: nilai p bergantung pada data dan asumsi, bukan besarnya dampak praktis.

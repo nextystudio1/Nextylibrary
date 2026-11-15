@@ -227,3 +227,15 @@ LATIHAN PEMAHAMAN
 1. Apa itu bias konfirmasi? Jawaban: kecenderungan mencari atau menafsirkan informasi yang mendukung keyakinan sendiri.
 2. Mengapa sumber primer penting? Jawaban: membantu memeriksa konteks dan isi asli sebelum ditafsirkan pihak lain.
 3. Bagaimana menyikapi klaim yang belum dapat diverifikasi? Jawaban: tahan penyebaran, jelaskan ketidakpastian, dan cari bukti tambahan.
+
+BAB LANJUTAN: VERIFIKASI KLAIM DIGITAL
+Telusuri sumber pertama sebelum membagikan tangkapan layar atau kutipan. Periksa tanggal, konteks, lokasi, dan apakah gambar pernah digunakan untuk peristiwa lain. Untuk klaim angka, periksa definisi, satuan, periode, populasi, serta metode pengumpulan data.
+Bedakan fakta, opini, prediksi, dan ajakan. Bahasa yang yakin bukan bukti. Tanyakan bukti apa yang dapat mengubah pendapat kita. Sikap ini membantu menghindari bias konfirmasi, yaitu kecenderungan memilih informasi yang mendukung keyakinan awal.
+KEKELIRUAN PENALARAN
+Serangan pribadi tidak membantah isi argumen. Generalisasi tergesa-gesa menyimpulkan pola umum dari contoh terlalu sedikit. Pilihan palsu seolah hanya menyediakan dua pilihan padahal alternatif lain ada. Korelasi tidak otomatis menunjukkan sebab karena mungkin ada faktor ketiga.
+LATIHAN PRAKTIK
+Pilih klaim publik yang tidak sensitif. Catat kalimat persis, sumber awal, tanggal, bukti pendukung, bukti berlawanan, dan hal yang belum diketahui. Klasifikasikan secara hati-hati: terverifikasi, sebagian benar, belum cukup bukti, atau keliru. Jelaskan alasannya.
+LATIHAN
+1. Apa itu bias konfirmasi? Jawaban: kecenderungan mencari informasi yang mendukung keyakinan sendiri.
+2. Mengapa sumber primer berguna? Jawaban: memungkinkan pemeriksaan konteks dan isi awal.
+3. Bagaimana memperlakukan klaim yang belum terverifikasi? Jawaban: jangan sebarkan sebagai fakta dan cari bukti tambahan.

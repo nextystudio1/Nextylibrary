@@ -180,3 +180,17 @@ LATIHAN
 2. Mengapa masukan perlu divalidasi? Mencegah data salah dan mengurangi risiko.
 3. Apa manfaat kontrol versi? Melacak, meninjau, dan memulihkan perubahan.
 4. Mengapa rahasia tidak ditulis dalam kode publik? Agar tidak terekspos dan disalahgunakan.
+
+LAMPIRAN PRAKTIK: MEMBACA ALGORITMA DAN MENILAI PROGRAM
+BAB 20 — PSEUDOCODE DAN DIAGRAM ALIR
+Pseudocode menjelaskan langkah algoritma menggunakan bahasa terstruktur yang tidak terikat sintaks bahasa pemrograman. Diagram alir memperlihatkan urutan, keputusan, masukan, dan keluaran. Keduanya membantu meninjau logika sebelum kode dibuat.
+Contoh proses menghitung rata-rata: terima daftar angka, periksa apakah daftar tidak kosong, jumlahkan seluruh elemen, hitung banyak elemen, lalu bagi jumlah dengan banyak elemen. Jika daftar kosong, program harus memberi pesan yang sesuai, bukan membagi dengan nol.
+BAB 21 — KOMPLEKSITAS SECARA INTUITIF
+Kompleksitas waktu menggambarkan bagaimana jumlah operasi bertambah saat ukuran masukan meningkat. Pencarian linear dapat memeriksa elemen satu per satu; pencarian biner memerlukan data terurut dan berulang kali membagi ruang pencarian. Kompleksitas ruang memperhatikan memori tambahan.
+Notasi asimtotik membantu membandingkan pertumbuhan kebutuhan komputasi, tetapi tidak selalu memprediksi waktu nyata karena perangkat keras, implementasi, dan ukuran masukan juga berpengaruh.
+BAB 22 — KETERAKSESAN DAN PENGALAMAN PENGGUNA
+Program yang benar secara teknis belum tentu mudah digunakan. Pesan kesalahan harus menjelaskan masalah dan langkah pemulihan. Antarmuka perlu mempertimbangkan pembaca layar, ukuran teks, navigasi papan ketik, kontras, serta bahasa yang jelas.
+BAB 23 — DOKUMENTASI PROYEK
+Dokumentasi menjelaskan tujuan program, cara menjalankan, kebutuhan perangkat, struktur berkas, konfigurasi, dan batasan. Dokumentasi yang baik membantu pengguna dan pengembang lain memahami keputusan teknis serta mengurangi ketergantungan pada satu orang.
+TUGAS AKHIR
+Rancang program kecil untuk mencatat kegiatan belajar. Tulis kebutuhan pengguna, pseudocode, struktur data, kasus uji normal dan batas, cara menyimpan data, serta risiko privasi. Jelaskan cara memperbaiki program jika masukan tidak valid.

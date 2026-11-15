@@ -119,3 +119,22 @@ LATIHAN PENDALAMAN
 2. Mengapa pertumbuhan ekonomi tidak sama dengan kesejahteraan? Jawaban: pertumbuhan tidak otomatis menunjukkan pemerataan, kualitas pekerjaan, atau lingkungan.
 3. Apa beda kebijakan fiskal dan moneter? Jawaban: fiskal menggunakan pajak dan belanja pemerintah; moneter mengelola kondisi uang dan kredit melalui bank sentral.
 4. Mengapa angka inflasi rumah tangga dapat berbeda dari angka rata-rata? Jawaban: pola konsumsi dan bobot pengeluaran tiap rumah tangga berbeda.
+
+PENDALAMAN EKONOMI DAN KEBIJAKAN PUBLIK
+BAB 14 — PRODUKTIVITAS DAN PERTUMBUHAN
+Produktivitas mengukur keluaran dibanding masukan. Peningkatan dapat berasal dari keterampilan, teknologi, organisasi kerja, infrastruktur, dan inovasi. Pertumbuhan ekonomi agregat tidak otomatis meningkatkan kesejahteraan semua kelompok; distribusi pendapatan, kualitas pekerjaan, dan dampak lingkungan juga perlu dilihat.
+BAB 15 — INFLASI DAN KEBIJAKAN MONETER
+Inflasi adalah kenaikan tingkat harga umum secara berkelanjutan. Bank sentral menggunakan instrumen kebijakan moneter untuk memengaruhi kondisi pembiayaan dan permintaan agregat. Dampaknya tidak langsung dan memiliki jeda. Inflasi dapat berasal dari tekanan permintaan, biaya, gangguan pasokan, atau kombinasi.
+BAB 16 — PENGANGGURAN DAN PASAR TENAGA KERJA
+Pengangguran terbuka tidak mencakup seluruh persoalan pasar kerja. Setengah pengangguran, pekerjaan informal, ketidakcocokan keterampilan, dan rendahnya produktivitas juga penting. Kebijakan perlu mempertimbangkan pelatihan, informasi lowongan, perlindungan pekerja, dan penciptaan pekerjaan layak.
+BAB 17 — KETIMPANGAN DAN KEMISKINAN
+Kemiskinan dapat diukur melalui pendekatan pendapatan atau kebutuhan dasar, tetapi indikator memiliki keterbatasan. Ketimpangan dapat dilihat dari distribusi pendapatan, kekayaan, akses pendidikan, kesehatan, dan kesempatan. Kebijakan perlindungan sosial perlu tepat sasaran, mudah diakses, dan dievaluasi.
+BAB 18 — PERDAGANGAN DAN NILAI TUKAR
+Perdagangan memungkinkan spesialisasi dan pertukaran, tetapi manfaat serta biayanya tersebar berbeda. Nilai tukar dipengaruhi kondisi ekonomi, arus modal, perdagangan, ekspektasi, dan kebijakan. Perubahan kurs memengaruhi harga impor, daya saing ekspor, serta beban kewajiban valuta asing.
+BAB 19 — KEUANGAN PUBLIK DAN EVALUASI KEBIJAKAN
+Pemerintah mengumpulkan penerimaan dan membiayai layanan publik, infrastruktur, serta perlindungan sosial. Anggaran memiliki konsekuensi distribusi dan jangka panjang. Evaluasi kebijakan menilai tujuan, biaya, kelompok penerima manfaat, dampak tidak diinginkan, dan alternatif yang mungkin lebih efektif.
+LATIHAN
+1. Mengapa pertumbuhan ekonomi tidak sama dengan kesejahteraan merata? Karena distribusi manfaat dan biaya berbeda.
+2. Apa beberapa sumber inflasi? Tekanan permintaan, biaya, gangguan pasokan, atau gabungannya.
+3. Mengapa angka pengangguran perlu dilengkapi indikator lain? Karena tidak menunjukkan seluruh mutu dan kondisi pekerjaan.
+4. Apa yang dinilai dalam evaluasi kebijakan? Tujuan, biaya, manfaat, dampak, dan alternatif.

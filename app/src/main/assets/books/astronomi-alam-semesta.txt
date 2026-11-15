@@ -1,0 +1,186 @@
+NEXTY STUDIO
+ASTRONOMI UNTUK MEMAHAMI ALAM SEMESTA
+Buku pembelajaran orisinal NextyLibrary
+
+PENDAHULUAN
+Astronomi adalah ilmu yang mempelajari benda-benda langit dan gejala alam semesta. Ilmu ini membantu manusia memahami tempat Bumi berada, bagaimana bintang menghasilkan cahaya, mengapa planet bergerak, serta bagaimana alam semesta berubah. Astronomi bukan sekadar menghafal nama planet. Astronomi menggabungkan pengamatan, matematika, fisika, teknologi, dan rasa ingin tahu. Buku pengantar ini disusun untuk pembaca umum dan pelajar. Setiap bab memperkenalkan konsep, contoh, dan pertanyaan belajar. Angka astronomi dapat diperbarui ketika pengukuran menjadi lebih baik; karena itu, pembaca diajak memahami konsep dan cara berpikir ilmiah.
+
+DAFTAR ISI
+1. Apa Itu Astronomi?
+2. Langit sebagai Laboratorium Pengamatan
+3. Bumi, Bulan, dan Matahari
+4. Tata Surya dan Keluarga Planet
+5. Planet Kerdil, Komet, dan Asteroid
+6. Cahaya dan Cara Kita Mengetahui Alam Semesta
+7. Bintang: Kelahiran, Kehidupan, dan Akhir
+8. Galaksi dan Struktur Alam Semesta
+9. Jarak Kosmik dan Skala Waktu
+10. Gerhana dan Fenomena Langit
+11. Eksoplanet dan Pencarian Kehidupan
+12. Lubang Hitam dan Objek Ekstrem
+13. Teleskop dan Eksplorasi Antariksa
+14. Masa Depan Astronomi
+Lampiran: Glosarium, latihan, jawaban, kegiatan, dan rujukan
+
+BAB 1 — APA ITU ASTRONOMI?
+Astronomi mempelajari Matahari, Bulan, planet, bintang, nebula, galaksi, serta ruang di antara benda-benda tersebut. Ilmu ini meneliti asal-usul, susunan, gerak, dan perubahan alam semesta. Astronomi berbeda dari astrologi. Astronomi menggunakan pengamatan, pengukuran, dan pengujian ilmiah. Astrologi menghubungkan posisi benda langit dengan nasib atau kepribadian, tetapi hubungan tersebut tidak didukung bukti ilmiah yang memadai.
+
+Manusia telah mengamati langit sejak masa lampau. Pola terbit dan terbenam Matahari membantu masyarakat mengenali waktu. Perubahan posisi bintang membantu pelayaran dan penentuan musim. Seiring berkembangnya matematika dan instrumen, manusia menyusun model yang semakin tepat tentang gerak benda langit. Astronomi modern bersifat lintas disiplin: fisika menjelaskan gravitasi dan cahaya, kimia membantu mengenali unsur bintang, matematika digunakan untuk menghitung orbit, dan ilmu komputer mengolah data teleskop.
+
+Astronom tidak selalu pergi ke luar angkasa. Banyak penemuan dibuat dari observatorium di Bumi atau dari data satelit. Cahaya yang tiba di teleskop membawa informasi tentang suhu, komposisi, gerak, dan jarak objek. Dengan membandingkan bukti dari berbagai instrumen, peneliti membangun penjelasan yang dapat diuji. Jika dugaan tidak cocok dengan pengamatan baru, model perlu diperbaiki. Sikap terbuka terhadap koreksi merupakan kekuatan sains.
+
+BAB 2 — LANGIT SEBAGAI LABORATORIUM PENGAMATAN
+Langit tampak seperti kubah besar, tetapi itu hanya cara mudah untuk menggambarkan arah. Benda langit berada pada jarak yang sangat berbeda. Bulan jauh lebih dekat daripada bintang, meskipun keduanya tampak kecil dari permukaan Bumi. Posisi benda dapat dijelaskan menggunakan arah mata angin dan ketinggian di atas cakrawala. Cakrawala adalah batas semu tempat langit seolah bertemu permukaan Bumi.
+
+Rotasi Bumi membuat Matahari, Bulan, dan bintang tampak bergerak melintasi langit dari timur ke barat. Gerak harian ini terutama merupakan akibat Bumi berputar pada porosnya. Ketika Bumi mengelilingi Matahari, arah sisi malam Bumi terhadap ruang berubah sepanjang tahun. Karena itu, rasi bintang yang terlihat pada jam tertentu dapat berubah menurut musim.
+
+Rasi bintang adalah pola yang dibuat manusia dengan menghubungkan bintang-bintang yang tampak berdekatan. Bintang dalam satu rasi biasanya tidak berdekatan secara fisik; jaraknya dapat sangat berbeda. Rasi berguna sebagai peta langit, tetapi garis penghubungnya merupakan kesepakatan manusia. Pengamatan sederhana dapat dicatat dengan menulis tanggal, waktu, lokasi umum, kondisi cuaca, arah, dan objek yang terlihat. Jangan menatap Matahari secara langsung, baik dengan mata telanjang maupun melalui alat optik. Pengamatan Matahari hanya boleh memakai filter surya khusus yang sesuai standar dan dipasang dengan benar oleh orang yang memahami keselamatannya.
+
+BAB 3 — BUMI, BULAN, DAN MATAHARI
+Bumi adalah planet berbatu yang memiliki air cair di permukaan dan atmosfer. Bumi berotasi kira-kira sekali dalam satu hari. Rotasi menyebabkan pergantian siang dan malam: sisi yang menghadap Matahari mengalami siang, sedangkan sisi yang membelakanginya mengalami malam. Bumi juga berevolusi mengelilingi Matahari dalam waktu sekitar satu tahun.
+
+Poros rotasi Bumi miring terhadap bidang orbitnya. Kemiringan poros, bersama gerak revolusi, menyebabkan perubahan musim di banyak wilayah. Musim bukan terutama disebabkan oleh perubahan jarak Bumi ke Matahari. Saat suatu belahan Bumi condong ke arah Matahari, wilayah tersebut menerima sinar lebih langsung dan mengalami siang yang lebih panjang. Belahan lainnya menerima sinar dengan sudut lebih rendah dan mengalami siang yang lebih pendek.
+
+Bulan adalah satelit alami Bumi. Bulan tidak menghasilkan cahaya sendiri; permukaannya memantulkan cahaya Matahari. Fase Bulan berubah karena bagian permukaan yang disinari dan terlihat dari Bumi berubah menurut posisi relatif Matahari, Bumi, dan Bulan. Bulan berotasi dan berevolusi dengan periode hampir sama, sehingga sisi yang sama selalu menghadap Bumi dalam jangka panjang. Sisi jauh Bulan bukan sisi yang selalu gelap; sisi itu juga menerima sinar Matahari.
+
+Pasang surut laut terutama dipengaruhi gravitasi Bulan dan juga Matahari. Bentuk garis pantai, kedalaman laut, dan kondisi setempat turut memengaruhi tinggi pasang. Matahari adalah bintang terdekat dari Bumi. Energinya berasal dari fusi nuklir di inti, ketika inti hidrogen bergabung membentuk helium dan melepaskan energi. Energi Matahari penting bagi iklim, fotosintesis, dan hampir seluruh rantai makanan di Bumi.
+
+BAB 4 — TATA SURYA DAN KELUARGA PLANET
+Tata Surya terbentuk dari awan gas dan debu yang runtuh karena gravitasi sekitar 4,6 miliar tahun lalu. Sebagian besar materi berkumpul membentuk Matahari. Sisa materi membentuk piringan yang kemudian menjadi planet, satelit, asteroid, dan benda kecil lainnya. Delapan planet mengelilingi Matahari. Empat planet bagian dalam—Merkurius, Venus, Bumi, dan Mars—disebut planet kebumian karena memiliki permukaan padat dan komposisi berbatu.
+
+Empat planet bagian luar adalah Jupiter, Saturnus, Uranus, dan Neptunus. Jupiter dan Saturnus merupakan raksasa gas, sedangkan Uranus dan Neptunus sering disebut raksasa es karena bagian dalamnya kaya zat volatil seperti air, amonia, dan metana dalam kondisi bertekanan tinggi. Merkurius adalah planet terkecil dan terdekat dengan Matahari. Atmosfernya sangat tipis sehingga suhu permukaannya berubah besar antara siang dan malam. Venus memiliki atmosfer sangat tebal yang didominasi karbon dioksida dan efek rumah kaca kuat. Bumi memiliki lautan air cair dan kehidupan. Mars memiliki permukaan berdebu, gunung berapi besar, lembah, serta bukti geologis bahwa air pernah mengalir pada masa lampau.
+
+Jupiter adalah planet terbesar, dengan pita awan dan badai besar. Saturnus terkenal karena cincinnya yang tersusun terutama dari partikel es dan batuan. Uranus memiliki kemiringan sumbu rotasi yang ekstrem. Neptunus merupakan planet terjauh dari Matahari dan memiliki angin sangat cepat. Planet bergerak pada orbit yang umumnya berbentuk elips. Gravitasi Matahari menjadi pengaruh utama yang menjaga planet tetap berada di orbit. Planet bergerak lebih cepat ketika lebih dekat ke Matahari dan lebih lambat ketika lebih jauh. Satu satuan astronomi (SA atau AU) adalah jarak rata-rata Bumi ke Matahari, sekitar 150 juta kilometer.
+
+BAB 5 — PLANET KERDIL, KOMET, DAN ASTEROID
+Tata Surya juga dihuni planet kerdil, asteroid, komet, meteoroid, dan debu antarplanet. Planet kerdil mengorbit Matahari dan cukup besar sehingga gravitasinya membuat bentuknya hampir bulat, tetapi belum membersihkan lingkungan orbitnya dari benda-benda seukuran sebanding. Pluto adalah salah satu planet kerdil yang terkenal. Asteroid merupakan benda kecil berbatu atau logam. Banyak asteroid berada di sabuk antara Mars dan Jupiter, tetapi ada pula yang orbitnya mendekati orbit Bumi.
+
+Komet tersusun dari campuran es, debu, dan batuan. Ketika mendekati Matahari, sebagian es berubah langsung menjadi gas. Gas dan debu yang terlepas dapat membentuk koma dan ekor. Ekor komet terdorong menjauhi Matahari oleh tekanan radiasi dan angin Matahari; karena itu, ekor tidak selalu berada tepat di belakang arah gerak komet.
+
+Meteoroid adalah pecahan kecil batuan atau logam di ruang angkasa. Ketika memasuki atmosfer Bumi dan menghasilkan kilatan cahaya, gejala itu disebut meteor. Jika sebagian material mencapai permukaan Bumi, material tersebut disebut meteorit. Benda kecil menyimpan petunjuk tentang masa awal Tata Surya. Sebagian relatif sedikit berubah sejak terbentuk, sehingga komposisi dan strukturnya membantu peneliti mempelajari bahan pembentuk planet. Misi yang mengambil sampel asteroid atau komet memungkinkan materi tersebut diperiksa di laboratorium.
+
+BAB 6 — CAHAYA DAN CARA KITA MENGETAHUI ALAM SEMESTA
+Cahaya adalah pembawa informasi utama dalam astronomi. Cahaya tampak hanyalah bagian kecil dari spektrum elektromagnetik. Ada pula gelombang radio, inframerah, ultraviolet, sinar-X, dan sinar gamma. Setiap rentang panjang gelombang mengungkap aspek objek yang berbeda. Bintang yang tampak biru umumnya memiliki suhu permukaan lebih tinggi daripada bintang yang tampak merah, tetapi pengukuran teliti memerlukan analisis spektrum.
+
+Ketika cahaya diuraikan menurut panjang gelombangnya, muncul pola garis yang berkaitan dengan unsur kimia dan keadaan fisik materi. Atom dan ion menyerap atau memancarkan cahaya pada panjang gelombang tertentu. Pola garis spektrum bertindak seperti sidik jari yang membantu astronom menentukan komposisi, suhu, dan kondisi gas. Teknik ini disebut spektroskopi.
+
+Gerak objek dapat dipelajari melalui efek Doppler. Jika sumber cahaya bergerak mendekat atau menjauh, panjang gelombang yang teramati bergeser. Pergeseran ke merah menunjukkan panjang gelombang lebih panjang, sedangkan pergeseran ke biru menunjukkan panjang gelombang lebih pendek. Pengukuran ini membantu mempelajari gerak bintang, galaksi, dan gas. Atmosfer Bumi menyerap sebagian jenis radiasi, sehingga observatorium antariksa diperlukan untuk mengamati rentang tertentu. Teleskop di Bumi tetap penting, terutama untuk cahaya tampak dan radio.
+
+BAB 7 — BINTANG: KELAHIRAN, KEHIDUPAN, DAN AKHIR
+Bintang terbentuk di awan gas dan debu yang sangat besar. Gravitasi menarik materi hingga pusatnya semakin rapat dan panas. Ketika kondisi inti cukup panas dan padat, fusi hidrogen dapat dimulai. Energi dari proses ini membantu menahan tekanan gravitasi, sehingga bintang memasuki tahap stabil yang panjang. Massa awal bintang sangat menentukan perjalanan hidupnya.
+
+Bintang bermassa kecil atau sedang menghabiskan sebagian besar hidupnya mengubah hidrogen menjadi helium. Ketika bahan bakar inti berubah, struktur bintang ikut berubah. Matahari diperkirakan akan berkembang menjadi raksasa merah pada masa yang sangat jauh, kemudian meninggalkan inti padat yang disebut katai putih. Bintang bermassa jauh lebih besar menjalani evolusi lebih cepat. Setelah beberapa tahap pembakaran unsur, inti dapat runtuh dan memicu ledakan supernova. Sisa inti dapat menjadi bintang neutron atau lubang hitam, bergantung pada massanya.
+
+Bintang dan peristiwa kosmik membantu membentuk serta menyebarkan unsur. Karbon, oksigen, silikon, dan besi terbentuk melalui proses nuklir di bintang atau peristiwa tertentu. Materi yang tersebar dapat menjadi bagian dari generasi bintang dan planet berikutnya. Dengan demikian, unsur penyusun batuan, air, dan tubuh makhluk hidup memiliki sejarah kosmik yang panjang. Jarak antar bintang sangat besar. Satu tahun cahaya adalah jarak yang ditempuh cahaya selama satu tahun, bukan satuan waktu.
+
+BAB 8 — GALAKSI DAN STRUKTUR ALAM SEMESTA
+Galaksi adalah kumpulan besar bintang, gas, debu, dan materi gelap yang terikat gravitasi. Bima Sakti adalah rumah bagi Tata Surya. Dari Bumi, bagian padat Bima Sakti tampak sebagai jalur cahaya samar di langit gelap, karena kita melihat cakram galaksi dari dalam. Galaksi memiliki beragam bentuk. Galaksi spiral mempunyai lengan yang menonjol dari wilayah pusat. Galaksi elips tampak bulat atau lonjong. Galaksi tak beraturan tidak memiliki bentuk sederhana yang jelas.
+
+Matahari berada di salah satu bagian cakram Bima Sakti, bukan di pusatnya. Tata Surya membutuhkan ratusan juta tahun untuk mengelilingi pusat galaksi satu kali. Galaksi dapat berkumpul dalam kelompok dan gugus. Pada skala lebih besar, distribusi galaksi membentuk jaringan kosmik berupa filamen dan rongga besar. Struktur ini berkembang di bawah pengaruh gravitasi sejak alam semesta awal.
+
+Materi gelap tidak memancarkan atau memantulkan cahaya seperti materi biasa, tetapi keberadaannya disimpulkan dari pengaruh gravitasinya. Energi gelap adalah nama yang diberikan untuk komponen yang berkaitan dengan percepatan ekspansi alam semesta. Sifat dasar keduanya masih menjadi pertanyaan penelitian aktif. Dalam sains, istilah tersebut menamai fenomena yang diamati dan belum berarti seluruh mekanismenya telah dipahami.
+
+BAB 9 — JARAK KOSMIK DAN SKALA WAKTU
+Jarak dalam astronomi sangat besar. Untuk Tata Surya, satuan astronomi berguna. Untuk jarak antarbintang, tahun cahaya sering digunakan. Astronom juga menggunakan parsec, satuan jarak yang berkaitan dengan pengukuran paralaks bintang. Paralaks adalah perubahan posisi tampak suatu objek ketika dilihat dari dua posisi pengamatan berbeda. Contoh sederhana dapat dilakukan dengan mengangkat jari dan bergantian menutup mata kiri serta kanan. Jari tampak bergeser terhadap latar belakang.
+
+Dengan mengukur pergeseran kecil posisi bintang saat Bumi berada pada bagian orbit berbeda, jarak bintang dapat dihitung. Untuk objek lebih jauh, astronom menggunakan metode lain, misalnya bintang variabel tertentu dan supernova tipe Ia sebagai penanda jarak. Setiap metode memiliki rentang penggunaan dan ketidakpastian. Menggabungkan beberapa metode membentuk tangga jarak kosmik.
+
+Melihat jauh ke ruang angkasa berarti melihat ke masa lalu karena cahaya membutuhkan waktu untuk mencapai kita. Cahaya Matahari memerlukan sekitar delapan menit untuk sampai ke Bumi. Cahaya dari bintang berjarak seratus tahun cahaya memperlihatkan keadaan bintang itu kira-kira seratus tahun lalu. Usia alam semesta diperkirakan sekitar 13,8 miliar tahun berdasarkan berbagai pengukuran kosmologis, bukan dari satu pengamatan tunggal.
+
+BAB 10 — GERHANA DAN FENOMENA LANGIT
+Gerhana Matahari terjadi ketika Bulan berada di antara Bumi dan Matahari sehingga sebagian atau seluruh piringan Matahari tertutup dari lokasi tertentu. Gerhana Bulan terjadi ketika Bumi berada di antara Matahari dan Bulan sehingga bayangan Bumi jatuh pada Bulan. Gerhana tidak terjadi setiap bulan karena bidang orbit Bulan miring terhadap bidang orbit Bumi.
+
+Gerhana Matahari total hanya terlihat dari jalur sempit di permukaan Bumi. Pengamatan Matahari memerlukan pelindung mata yang memenuhi standar khusus. Kacamata hitam biasa, film gelap, atau kaca berwarna bukan pengganti filter gerhana tersertifikasi. Jangan pernah melihat Matahari langsung tanpa perlindungan tepat. Gerhana Bulan dapat diamati dengan mata telanjang secara aman. Saat gerhana total, Bulan dapat tampak kemerahan karena sebagian cahaya Matahari dibiaskan dan disaring atmosfer Bumi.
+
+Hujan meteor terjadi ketika Bumi melintasi jalur debu yang ditinggalkan komet atau asteroid. Partikel kecil memasuki atmosfer dan menghasilkan garis cahaya. Jumlah meteor yang terlihat dipengaruhi cuaca, polusi cahaya, dan kondisi pengamatan. Aurora adalah cahaya di langit dekat wilayah kutub yang berkaitan dengan partikel bermuatan dari lingkungan Matahari, medan magnet, dan atmosfer Bumi. Partikel berinteraksi dengan gas atmosfer dan menghasilkan cahaya.
+
+BAB 11 — EKSOPLANET DAN PENCARIAN KEHIDUPAN
+Eksoplanet adalah planet yang mengorbit bintang selain Matahari. Sebagian eksoplanet ditemukan menggunakan metode transit, yaitu mengukur penurunan kecil cahaya bintang ketika planet melintas di depan bintang dari sudut pandang kita. Metode kecepatan radial mengukur gerak kecil bintang akibat tarikan gravitasi planet. Metode pencitraan langsung berusaha memisahkan cahaya planet dari cahaya bintang induknya. Setiap metode memiliki kelebihan dan keterbatasan.
+
+Zona laik huni adalah wilayah di sekitar bintang tempat air cair mungkin bertahan di permukaan planet, dengan asumsi kondisi atmosfer tertentu. Berada di zona ini tidak otomatis berarti planet memiliki lautan, atmosfer yang cocok, atau kehidupan. Kelayakhunian bergantung pada komposisi atmosfer, medan magnet, aktivitas bintang, dan sejarah geologi. Ilmuwan juga mempelajari biosignatur, yaitu tanda yang mungkin berkaitan dengan proses biologis.
+
+Satu gas atau satu pola saja tidak cukup untuk menyatakan adanya kehidupan. Proses geologi dan kimia nonbiologis juga dapat menghasilkan sinyal serupa. Bukti harus diperiksa dari berbagai sudut dan dikonfirmasi secara independen. Sampai saat ini belum ada bukti ilmiah terkonfirmasi tentang kehidupan di luar Bumi. Penelitian tetap berlangsung melalui pengamatan atmosfer eksoplanet, eksplorasi Mars, dan studi lingkungan ekstrem di Bumi.
+
+BAB 12 — LUBANG HITAM DAN OBJEK EKSTREM
+Lubang hitam adalah wilayah ruang-waktu dengan gravitasi sangat kuat sehingga setelah melewati batas yang disebut horizon peristiwa, tidak ada cahaya yang dapat keluar menuju pengamat jauh. Lubang hitam bukan penyedot kosmik yang menarik semua benda tanpa batas. Dari jarak cukup jauh, pengaruh gravitasinya mengikuti hukum gravitasi seperti objek lain dengan massa yang sama.
+
+Lubang hitam dapat terbentuk dari keruntuhan inti bintang sangat masif. Ada pula lubang hitam supermasif di pusat banyak galaksi, termasuk Bima Sakti. Astronom mempelajarinya melalui pengaruh terhadap materi di sekitarnya, gerak bintang, radiasi dari gas panas, dan gelombang gravitasi dari penggabungan objek kompak. Citra bayangan lubang hitam dibuat dengan menggabungkan data jaringan teleskop radio yang tersebar di Bumi.
+
+Bintang neutron adalah sisa inti bintang yang sangat padat. Beberapa bintang neutron berputar cepat dan memancarkan sinyal teratur; objek seperti ini disebut pulsar. Gelombang gravitasi adalah riak pada ruang-waktu yang dihasilkan peristiwa sangat energik, seperti penggabungan lubang hitam atau bintang neutron. Deteksinya membuka cara baru mempelajari alam semesta, melengkapi pengamatan menggunakan cahaya.
+
+BAB 13 — TELESKOP DAN EKSPLORASI ANTARIKSA
+Teleskop mengumpulkan lebih banyak cahaya daripada mata manusia dan membantu melihat objek redup atau jauh. Teleskop optik menggunakan lensa atau cermin untuk mengumpulkan cahaya tampak. Teleskop radio mengumpulkan gelombang radio. Instrumen inframerah, ultraviolet, sinar-X, dan sinar gamma dirancang untuk rentang radiasi masing-masing. Ukuran cermin atau antena, kualitas instrumen, kestabilan atmosfer, dan kondisi lokasi memengaruhi hasil pengamatan.
+
+Satelit dan observatorium antariksa dapat mengamati tanpa gangguan tertentu dari atmosfer. Namun misi antariksa memerlukan biaya besar, perencanaan panjang, dan sistem yang harus bekerja jauh dari perbaikan langsung. Wahana dapat terbang melintas, mengorbit, mendarat, atau membawa sampel kembali. Setiap bentuk misi menjawab pertanyaan berbeda. Wahana lintas memberi gambaran awal; pengorbit memetakan wilayah luas; pendarat mempelajari lokasi tertentu; pengembali sampel memungkinkan analisis rinci di laboratorium.
+
+Eksplorasi antariksa juga memerlukan tanggung jawab. Sampah antariksa dapat membahayakan satelit dan wahana. Kontaminasi biologis perlu dicegah agar penelitian tentang kehidupan tidak tercampur organisme yang dibawa dari Bumi. Kerja sama internasional dan aturan yang jelas membantu menjaga lingkungan antariksa untuk generasi berikutnya.
+
+BAB 14 — MASA DEPAN ASTRONOMI DAN BERPIKIR ILMIAH
+Astronomi masa depan akan menghasilkan data dalam jumlah sangat besar. Kecerdasan buatan dan pembelajaran mesin dapat membantu menemukan pola, mengelompokkan objek, dan menandai kejadian langka. Namun hasil komputasi tetap perlu diperiksa. Model dapat keliru jika data latih tidak mewakili kondisi sebenarnya atau jika asumsi yang digunakan tidak tepat.
+
+Warga dapat berkontribusi melalui proyek sains warga. Peserta dapat membantu mengelompokkan galaksi, mencari perubahan kecerahan bintang, atau memeriksa citra astronomi. Kegiatan sebaiknya dilakukan melalui proyek ilmiah yang memiliki panduan dan proses verifikasi. Berpikir ilmiah berarti membedakan pengamatan, penafsiran, dan dugaan. Pengamatan adalah hal yang tercatat. Penafsiran menjelaskan kemungkinan maknanya. Hipotesis adalah penjelasan yang dapat diuji.
+
+Ketidakpastian merupakan bagian normal dari pengukuran. Peneliti menyampaikan rentang ketidakpastian agar pembaca memahami seberapa tepat suatu hasil. Jika dua pengukuran berbeda, perbedaan dapat menjadi petunjuk untuk memperbaiki instrumen atau model. Astronomi mengajarkan kerendahan hati sekaligus rasa ingin tahu. Bumi sangat kecil dibandingkan galaksi, tetapi merupakan tempat yang kita kenal memiliki kehidupan. Memahami alam semesta dapat memperluas wawasan sekaligus mengingatkan pentingnya menjaga planet tempat kita tinggal.
+
+LAMPIRAN A — GLOSARIUM
+AU atau SA: satuan jarak rata-rata Bumi–Matahari.
+Asteroid: benda kecil berbatu atau logam yang mengorbit Matahari.
+Aurora: cahaya atmosfer yang berkaitan dengan partikel bermuatan.
+Biosignatur: tanda yang mungkin berkaitan dengan kehidupan.
+Eksoplanet: planet di luar Tata Surya.
+Elips: bentuk orbit tertutup menyerupai lingkaran lonjong.
+Fusi nuklir: penggabungan inti atom yang melepaskan energi.
+Galaksi: sistem besar bintang, gas, debu, dan materi gelap.
+Gravitasi: interaksi yang menyebabkan benda bermassa saling tarik.
+Horizon peristiwa: batas lubang hitam yang tidak dapat dilintasi kembali oleh cahaya ke luar.
+Komet: benda yang mengandung es, debu, dan batuan.
+Meteor: gejala cahaya saat meteoroid memasuki atmosfer.
+Meteorit: sisa meteoroid yang mencapai permukaan.
+Nebula: awan gas dan debu di ruang antarbintang.
+Paralaks: perubahan posisi tampak akibat perubahan sudut pandang.
+Planet kerdil: benda bulat yang mengorbit Matahari tetapi belum membersihkan lingkungan orbitnya.
+Spektrum: sebaran radiasi menurut panjang gelombang atau frekuensi.
+Spektroskopi: teknik mempelajari materi melalui spektrumnya.
+Tahun cahaya: jarak yang ditempuh cahaya dalam satu tahun.
+Transit: peristiwa ketika objek melintas di depan objek lain dari sudut pandang pengamat.
+
+LAMPIRAN B — LATIHAN PEMAHAMAN
+1. Jelaskan perbedaan astronomi dan astrologi.
+2. Mengapa bintang tampak bergerak dari timur ke barat setiap malam?
+3. Apa penyebab utama pergantian musim di Bumi?
+4. Mengapa fase Bulan berubah?
+5. Sebutkan perbedaan planet kebumian dan planet raksasa.
+6. Apa perbedaan meteoroid, meteor, dan meteorit?
+7. Mengapa spektrum cahaya dapat mengungkap komposisi bintang?
+8. Apa yang dimaksud efek Doppler dalam astronomi?
+9. Mengapa melihat objek jauh berarti melihat masa lalu?
+10. Mengapa tidak setiap bulan terjadi gerhana?
+11. Apa itu zona laik huni dan mengapa bukan bukti kehidupan?
+12. Bagaimana astronom mempelajari lubang hitam?
+13. Sebutkan dua kelebihan observatorium antariksa.
+14. Mengapa hasil penelitian perlu menyertakan ketidakpastian?
+
+LAMPIRAN C — JAWABAN RINGKAS
+1. Astronomi adalah ilmu alam berbasis bukti tentang benda langit; astrologi mengaitkan posisi langit dengan nasib tanpa dasar ilmiah kuat.
+2. Terutama karena rotasi Bumi dari barat ke timur.
+3. Kemiringan sumbu Bumi saat berevolusi mengelilingi Matahari.
+4. Karena bagian Bulan yang disinari dan terlihat dari Bumi berubah menurut geometri ketiganya.
+5. Planet kebumian berbatu dan memiliki permukaan padat; planet raksasa jauh lebih besar dan didominasi gas atau zat volatil.
+6. Meteoroid berada di ruang angkasa, meteor adalah gejala cahaya di atmosfer, meteorit mencapai permukaan.
+7. Unsur menyerap dan memancarkan panjang gelombang tertentu.
+8. Pergeseran panjang gelombang akibat gerak relatif sumber dan pengamat.
+9. Cahaya membutuhkan waktu untuk menempuh jarak.
+10. Bidang orbit Bulan miring terhadap bidang orbit Bumi.
+11. Wilayah tempat air cair mungkin ada dengan kondisi tertentu; faktor lain tetap menentukan kelayakhunian.
+12. Dari pengaruh gravitasi, gerak benda sekitar, radiasi gas panas, dan gelombang gravitasi.
+13. Dapat mengamati rentang radiasi yang diserap atmosfer dan menghindari gangguan atmosfer tertentu.
+14. Agar tingkat ketepatan hasil dan batas pengetahuan dapat dinilai.
+
+LAMPIRAN D — KEGIATAN BELAJAR AMAN
+Buat jurnal pengamatan langit selama dua minggu. Pilih waktu sore atau malam ketika cuaca memungkinkan. Catat tanggal, waktu, arah umum, kondisi awan, dan objek terang yang terlihat. Bandingkan catatan pada hari berbeda. Jangan menggunakan alat optik untuk mengamati Matahari. Jika melakukan pengamatan bersama teleskop, ikuti petunjuk pengelola observatorium atau pendamping yang memahami keselamatan. Tambahkan sketsa sederhana posisi Bulan dari hari ke hari dan tulis perubahan bentuk terang yang terlihat.
+
+LAMPIRAN E — RUJUKAN KONSEPTUAL
+Untuk pendalaman, pembaca dapat mempelajari materi edukasi dan data terbuka dari NASA, European Space Agency (ESA), International Astronomical Union (IAU), observatorium, serta universitas. Lembaga tersebut disebut sebagai sumber belajar lanjutan, bukan sebagai pihak yang menerbitkan atau mendukung buku ini. Buku ini merupakan naskah pengantar orisinal dan bukan salinan atau terjemahan dari satu buku tertentu.
+
+CATATAN LISENSI
+Naskah pembelajaran ini ditulis sebagai karya orisinal Nexty Studio untuk NextyLibrary. Nama lembaga dan istilah ilmiah disebut sebagai rujukan konseptual, bukan sebagai klaim dukungan atau kepemilikan. Ilustrasi, foto, dan data pihak ketiga yang mungkin ditambahkan pada edisi mendatang harus diperiksa lisensi dan atribusinya secara terpisah.

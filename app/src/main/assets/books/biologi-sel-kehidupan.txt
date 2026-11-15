@@ -1,0 +1,62 @@
+BIOLOGI SEL: DASAR KEHIDUPAN
+Mengenal Unit Penyusun Makhluk Hidup
+Tim Pengetahuan Nexty Studio
+Edisi 2026
+
+PENGANTAR
+Sel merupakan unit struktural dan fungsional dasar kehidupan. Organisme dapat tersusun dari satu sel atau banyak sel yang bekerja sama. Dengan memahami sel, kita dapat mengenal bagaimana makhluk hidup tumbuh, memperoleh energi, dan mewariskan informasi.
+
+BAB 1 — TEORI DAN JENIS SEL
+Teori sel menyatakan bahwa makhluk hidup tersusun atas satu atau lebih sel, sel merupakan unit dasar kehidupan, dan sel berasal dari sel yang telah ada. Perkembangan mikroskop membantu ilmuwan mengamati struktur yang tidak terlihat oleh mata.
+Sel prokariotik tidak memiliki inti bermembran. Materi genetiknya berada di wilayah nukleoid. Bakteri merupakan contoh organisme prokariotik.
+Sel eukariotik memiliki inti bermembran dan organel khusus. Hewan, tumbuhan, jamur, dan banyak organisme bersel satu memiliki sel eukariotik.
+Ukuran sel umumnya kecil sehingga pertukaran zat dapat berlangsung efektif. Rasio luas permukaan terhadap volume berpengaruh pada kemampuan sel memperoleh nutrisi dan membuang sisa metabolisme.
+
+BAB 2 — MEMBRAN DAN PERPINDAHAN ZAT
+Membran sel membatasi bagian dalam sel dan mengatur pertukaran zat dengan lingkungan. Membran terutama tersusun dari lapisan ganda fosfolipid dengan protein yang memiliki fungsi berbeda.
+Difusi adalah perpindahan partikel dari daerah berkonsentrasi lebih tinggi menuju lebih rendah. Osmosis adalah perpindahan air melalui membran selektif permeabel akibat perbedaan potensial air.
+Transport pasif tidak memerlukan energi metabolik secara langsung. Transport aktif menggunakan energi untuk memindahkan zat melawan gradien konsentrasi atau elektrokimia.
+Membran bersifat selektif, bukan dinding yang sepenuhnya tertutup. Pengaturan transport membantu menjaga kestabilan kondisi internal sel.
+
+BAB 3 — ORGANEL DAN FUNGSINYA
+Inti sel menyimpan sebagian besar DNA pada sel eukariotik dan mengatur banyak aktivitas melalui pengendalian ekspresi gen. Ribosom menjadi tempat sintesis protein.
+Retikulum endoplasma kasar memiliki ribosom dan berperan dalam produksi serta pemrosesan protein tertentu. Retikulum endoplasma halus berperan dalam sintesis lipid dan proses lain yang bergantung pada jenis sel.
+Badan Golgi memodifikasi, memilah, dan mengemas molekul. Mitokondria berperan penting dalam respirasi sel dan produksi ATP. Pada tumbuhan, kloroplas menjalankan fotosintesis.
+Vakuola dapat menyimpan air dan zat lain. Dinding sel tumbuhan memberi dukungan struktural. Organel bekerja sebagai sistem yang saling terhubung, bukan bagian yang berdiri sendiri.
+
+BAB 4 — ENERGI DAN METABOLISME
+Metabolisme adalah keseluruhan reaksi kimia di dalam organisme. Katabolisme memecah molekul dan dapat melepaskan energi; anabolisme menyusun molekul dan membutuhkan energi.
+ATP merupakan molekul pembawa energi yang digunakan dalam banyak proses sel. Respirasi sel mengubah energi kimia dari molekul makanan menjadi bentuk yang dapat digunakan sel.
+Fotosintesis pada organisme tertentu menggunakan energi cahaya untuk menyusun molekul organik dari karbon dioksida dan air, dengan pelepasan oksigen pada fotosintesis oksigenik.
+Enzim adalah katalis biologis yang mempercepat reaksi. Bentuk dan kondisi lingkungan memengaruhi aktivitas enzim. Suhu atau pH ekstrem dapat mengubah struktur protein sehingga fungsinya terganggu.
+
+BAB 5 — DNA, GEN, DAN PEMBELAHAN SEL
+DNA menyimpan informasi genetik. Bagian DNA yang berperan dalam fungsi tertentu disebut gen. Informasi genetik digunakan sel melalui proses ekspresi gen, termasuk transkripsi dan translasi.
+Pada transkripsi, informasi DNA disalin menjadi RNA. Pada translasi, ribosom membaca informasi RNA untuk menyusun rantai asam amino yang dapat membentuk protein.
+Pembelahan mitosis menghasilkan dua sel anak dengan informasi genetik yang umumnya sama dengan sel induk. Mitosis penting untuk pertumbuhan dan perbaikan jaringan.
+Meiosis menghasilkan sel dengan jumlah kromosom setengah dari sel asal pada organisme yang melakukan reproduksi seksual. Proses ini berkontribusi pada variasi genetik.
+
+BAB 6 — SEL DALAM ORGANISME
+Pada organisme multiseluler, sel dapat mengalami diferensiasi sehingga memiliki struktur dan fungsi khusus. Sel otot, sel saraf, dan sel darah merupakan contoh spesialisasi.
+Sel sejenis dapat membentuk jaringan. Jaringan membentuk organ, organ bekerja dalam sistem organ, dan sistem organ bekerja sama membentuk organisme.
+Homeostasis adalah pemeliharaan kondisi internal dalam rentang yang sesuai. Sistem tubuh mengatur suhu, kadar air, dan berbagai kondisi lain melalui mekanisme umpan balik.
+Gangguan fungsi sel dapat memengaruhi jaringan dan organ. Penelitian biologi sel membantu memahami pertumbuhan, penyakit, dan pengembangan teknologi kesehatan.
+
+LATIHAN DAN PEMBAHASAN
+1. Apa unit dasar kehidupan? Jawaban: sel.
+2. Apa perbedaan prokariotik dan eukariotik? Jawaban: eukariotik memiliki inti bermembran, prokariotik tidak.
+3. Organel apa yang berperan dalam fotosintesis tumbuhan? Jawaban: kloroplas.
+4. Apa fungsi ribosom? Jawaban: sintesis protein.
+5. Apa hasil umum mitosis? Jawaban: dua sel anak dengan informasi genetik yang umumnya sama dengan sel induk.
+
+GLOSARIUM
+Organel: struktur khusus di dalam sel.
+Difusi: perpindahan partikel mengikuti gradien konsentrasi.
+Osmosis: perpindahan air melalui membran selektif.
+Metabolisme: keseluruhan reaksi kimia organisme.
+Enzim: katalis biologis.
+DNA: molekul penyimpan informasi genetik.
+Homeostasis: pemeliharaan kondisi internal.
+
+CATATAN PENULIS
+Biologi sel terus berkembang. Istilah dan model pada buku ini merupakan pengantar, bukan pengganti sumber ilmiah tingkat lanjut.

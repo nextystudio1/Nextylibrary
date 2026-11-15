@@ -206,7 +206,7 @@ fun NextyLibraryApp() {
                             }
                         }
                         "Koleksi" -> PlaceholderPage("Koleksi", "Buku yang sudah kamu buka akan tampil di sini.")
-                        else -> PlaceholderPage("Akun", "Masuk dan sinkronkan progres membaca di perangkatmu.")
+                        else -> AccountScreen()
                     }
                     NavigationBar(containerColor = Color.White) {
                         listOf("Beranda", "Koleksi", "Akun").forEach { item ->

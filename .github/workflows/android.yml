@@ -51,6 +51,10 @@ jobs:
             app/src/main/assets/books/kecerdasan-buatan-untuk-semua.txt
             app/src/main/assets/books/fisika-di-sekitar-kita.txt
             app/src/main/assets/books/biologi-kehidupan.txt
+            app/src/main/assets/books/kimia-untuk-kehidupan.txt
+            app/src/main/assets/books/geografi-indonesia-dunia.txt
+            app/src/main/assets/books/statistika-literasi-data.txt
+            app/src/main/assets/books/ekonomi-kehidupan-sehari-hari.txt
           )
           for book in "${books[@]}"; do
             test -s "$book" || { echo "Naskah kosong/tidak ditemukan: $book"; exit 1; }

@@ -230,3 +230,50 @@ LATIHAN
 1. Apa informasi yang diberikan spektrum? Jawaban: komposisi, suhu, dan kondisi gerak sumber cahaya.
 2. Apa yang diukur paralaks? Jawaban: perubahan posisi tampak objek akibat perubahan posisi pengamat.
 3. Mengapa model kosmologi perlu banyak bukti? Jawaban: setiap pengukuran memiliki keterbatasan dan kemungkinan penjelasan alternatif.
+
+
+
+BAB 15 — MEMBACA DATA ASTRONOMI
+
+Astronomi modern menghasilkan data dalam bentuk citra, spektrum, kurva cahaya, dan katalog posisi. Citra memperlihatkan sebaran cahaya pada bidang langit, tetapi tampilannya dipengaruhi panjang gelombang, waktu paparan, sensor, dan pengolahan. Warna pada citra astronomi sering merupakan pemetaan warna untuk membedakan rentang radiasi; warna tersebut tidak selalu sama dengan warna yang akan dilihat mata.
+
+Kurva cahaya menunjukkan perubahan kecerlangan objek terhadap waktu. Penurunan kecerlangan berkala dapat menjadi petunjuk transit planet di depan bintang, gerhana bintang ganda, atau perubahan intrinsik bintang. Satu pola tidak cukup untuk memastikan penyebab. Peneliti membandingkan periode, bentuk kurva, spektrum, dan kemungkinan gangguan instrumen.
+
+Dalam membaca data, periksa sumbu, satuan, rentang waktu, ketidakpastian, dan cara data dikumpulkan. Data yang tidak lengkap bukan berarti tidak berguna, tetapi batasnya harus dijelaskan. Korelasi antara dua besaran juga tidak otomatis membuktikan bahwa salah satunya menyebabkan yang lain.
+
+BAB 16 — MENILAI KLAIM TENTANG ALAM SEMESTA
+
+Klaim populer tentang astronomi sering menggunakan foto dramatis atau angka besar. Untuk menilainya, cari lembaga atau penulis asal, tanggal publikasi, instrumen yang digunakan, dan apakah hasilnya telah dikonfirmasi. Bedakan pengamatan langsung, hasil pengolahan, model teoretis, dan dugaan yang masih diuji.
+
+Misalnya, penemuan kandidat eksoplanet belum selalu berarti planet tersebut telah dikonfirmasi. Sinyal transit dapat memiliki penjelasan alternatif, seperti bintang ganda yang saling menutupi. Konfirmasi membutuhkan pemeriksaan lanjutan dan pengurangan kemungkinan positif palsu.
+
+PROYEK PENGAMATAN AMAN
+
+Buat jurnal langit selama tujuh malam. Catat tanggal, waktu, kondisi cuaca, arah umum, fase Bulan bila terlihat, serta perubahan yang diamati. Gunakan peta langit atau aplikasi sebagai alat bantu, lalu tuliskan sumbernya. Jangan pernah mengarahkan teleskop atau teropong ke Matahari tanpa sistem filter surya khusus yang sesuai dan pengawasan orang kompeten.
+
+EVALUASI AKHIR
+1. Mengapa spektrum bintang dapat memberi informasi tentang komposisi?
+2. Apa perbedaan meteor dan meteorit?
+3. Mengapa musim terutama berkaitan dengan kemiringan sumbu Bumi?
+4. Sebutkan dua kemungkinan penyebab penurunan kecerlangan pada kurva cahaya.
+5. Mengapa kandidat eksoplanet perlu dikonfirmasi?
+
+KUNCI PEMBAHASAN RINGKAS
+1. Unsur menyerap atau memancarkan panjang gelombang tertentu sehingga membentuk garis spektrum.
+2. Meteor adalah gejala cahaya saat benda memasuki atmosfer; meteorit adalah material yang mencapai permukaan.
+3. Kemiringan sumbu mengubah sudut datang sinar dan lama siang sepanjang revolusi.
+4. Transit planet, gerhana bintang ganda, perubahan bintang, atau gangguan pengamatan.
+5. Karena sinyal dapat memiliki penjelasan alternatif dan perlu diuji dengan data tambahan.
+
+GLOSARIUM TAMBAHAN
+Kurva cahaya: grafik kecerlangan objek terhadap waktu.
+Eksoplanet: planet yang mengorbit bintang selain Matahari.
+Spektroskopi: analisis cahaya berdasarkan panjang gelombang.
+Transit: peristiwa ketika objek melintas di depan objek lain dari sudut pandang pengamat.
+Positif palsu: hasil yang tampak mendukung suatu deteksi padahal penyebabnya bukan objek yang dicari.
+
+RUJUKAN UNTUK PENDALAMAN
+NASA — Solar System Exploration: https://science.nasa.gov/solar-system/
+NASA Exoplanet Exploration: https://exoplanets.nasa.gov/
+European Space Agency — Space Science: https://www.esa.int/Science_Exploration/Space_Science
+Sumber daring diperiksa kembali sebelum digunakan untuk pembaruan edisi berikutnya.

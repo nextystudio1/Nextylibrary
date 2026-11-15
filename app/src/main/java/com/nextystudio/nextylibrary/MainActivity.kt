@@ -5,9 +5,11 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
@@ -32,8 +34,11 @@ data class Book(
     val title: String,
     val author: String,
     val description: String,
-    val categoryId: String?
+    val categoryId: String?,
+    val pageCount: Int
 )
+
+data class BookCategory(val id: String, val name: String)
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -45,18 +50,24 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun NextyLibraryApp() {
     var books by remember { mutableStateOf<List<Book>>(emptyList()) }
+    var categories by remember { mutableStateOf<List<BookCategory>>(emptyList()) }
     var loading by remember { mutableStateOf(true) }
     var error by remember { mutableStateOf<String?>(null) }
     var search by remember { mutableStateOf("") }
+    var selectedCategory by remember { mutableStateOf<String?>(null) }
     var selected by remember { mutableStateOf<Book?>(null) }
     var tab by remember { mutableStateOf("Beranda") }
     var reloadKey by remember { mutableIntStateOf(0) }
 
-    suspend fun loadBooks() {
+    suspend fun loadCatalog() {
         loading = true
         error = null
         try {
-            books = withContext(Dispatchers.IO) { fetchBooks() }
+            val result = withContext(Dispatchers.IO) {
+                Pair(fetchCategories(), fetchBooks())
+            }
+            categories = result.first
+            books = result.second
         } catch (e: Exception) {
             error = e.localizedMessage ?: "Tidak dapat memuat katalog."
         } finally {
@@ -64,7 +75,7 @@ fun NextyLibraryApp() {
         }
     }
 
-    LaunchedEffect(reloadKey) { loadBooks() }
+    LaunchedEffect(reloadKey) { loadCatalog() }
 
     MaterialTheme(
         colorScheme = lightColorScheme(
@@ -89,7 +100,7 @@ fun NextyLibraryApp() {
                 }
 
                 if (selected != null) {
-                    BookDetail(book = selected!!, onBack = { selected = null })
+                    BookDetail(book = selected!!, categoryName = categories.firstOrNull { it.id == selected!!.categoryId }?.name, onBack = { selected = null })
                 } else {
                     when (tab) {
                         "Beranda" -> {
@@ -106,9 +117,29 @@ fun NextyLibraryApp() {
                                     placeholder = { Text("Cari judul atau penulis...") },
                                     shape = RoundedCornerShape(14.dp)
                                 )
-                                Spacer(Modifier.height(14.dp))
-                                Text("Katalog buku", fontSize = 18.sp, fontWeight = FontWeight.Bold, color = Ink)
-                                Spacer(Modifier.height(8.dp))
+                                Spacer(Modifier.height(12.dp))
+                                Row(
+                                    modifier = Modifier.fillMaxWidth().horizontalScroll(rememberScrollState()),
+                                    horizontalArrangement = Arrangement.spacedBy(8.dp)
+                                ) {
+                                    FilterChip(
+                                        selected = selectedCategory == null,
+                                        onClick = { selectedCategory = null },
+                                        label = { Text("Semua") }
+                                    )
+                                    categories.forEach { category ->
+                                        FilterChip(
+                                            selected = selectedCategory == category.id,
+                                            onClick = { selectedCategory = category.id },
+                                            label = { Text(category.name) }
+                                        )
+                                    }
+                                }
+                                Spacer(Modifier.height(10.dp))
+                                Row(verticalAlignment = Alignment.CenterVertically) {
+                                    Text("Katalog buku", fontSize = 18.sp, fontWeight = FontWeight.Bold, color = Ink, modifier = Modifier.weight(1f))
+                                    TextButton(onClick = { reloadKey++ }, enabled = !loading) { Text("Muat ulang") }
+                                }
                                 when {
                                     loading -> Box(Modifier.fillMaxWidth().weight(1f), contentAlignment = Alignment.Center) {
                                         CircularProgressIndicator()
@@ -124,12 +155,17 @@ fun NextyLibraryApp() {
                                         Button(onClick = { reloadKey++ }) { Text("Coba lagi") }
                                     }
                                     else -> {
-                                        val filtered = books.filter {
-                                            it.title.contains(search, true) || it.author.contains(search, true)
+                                        val filtered = books.filter { book ->
+                                            val matchesSearch = book.title.contains(search, true) || book.author.contains(search, true)
+                                            val matchesCategory = selectedCategory == null || book.categoryId == selectedCategory
+                                            matchesSearch && matchesCategory
                                         }
                                         if (filtered.isEmpty()) {
                                             Box(Modifier.fillMaxWidth().weight(1f), contentAlignment = Alignment.Center) {
-                                                Text(if (books.isEmpty()) "Belum ada buku yang diterbitkan." else "Buku tidak ditemukan.", color = Color.Gray)
+                                                Text(
+                                                    if (books.isEmpty()) "Belum ada buku yang diterbitkan." else "Buku tidak ditemukan.",
+                                                    color = Color.Gray
+                                                )
                                             }
                                         } else {
                                             LazyColumn(
@@ -138,7 +174,11 @@ fun NextyLibraryApp() {
                                                 contentPadding = PaddingValues(bottom = 16.dp)
                                             ) {
                                                 items(filtered, key = { it.id }) { book ->
-                                                    BookCard(book = book, onClick = { selected = book })
+                                                    BookCard(
+                                                        book = book,
+                                                        categoryName = categories.firstOrNull { it.id == book.categoryId }?.name,
+                                                        onClick = { selected = book }
+                                                    )
                                                 }
                                             }
                                         }
@@ -166,7 +206,7 @@ fun NextyLibraryApp() {
 }
 
 @Composable
-private fun BookCard(book: Book, onClick: () -> Unit) {
+private fun BookCard(book: Book, categoryName: String?, onClick: () -> Unit) {
     Card(
         modifier = Modifier.fillMaxWidth().clickable(onClick = onClick),
         shape = RoundedCornerShape(16.dp),
@@ -176,11 +216,14 @@ private fun BookCard(book: Book, onClick: () -> Unit) {
             Box(
                 Modifier.size(62.dp, 82.dp).background(Color(0xFFE6EFE8), RoundedCornerShape(9.dp)),
                 contentAlignment = Alignment.Center
-            ) { Text("📖", fontSize = 25.sp) }
+            ) { Text("BOOK", color = Green, fontSize = 11.sp, fontWeight = FontWeight.Bold) }
             Spacer(Modifier.width(13.dp))
             Column(Modifier.weight(1f)) {
                 Text(book.title, fontWeight = FontWeight.Bold, fontSize = 16.sp, color = Ink)
                 Text(book.author.ifBlank { "Penulis belum dicantumkan" }, color = Green, fontSize = 12.sp)
+                if (!categoryName.isNullOrBlank()) {
+                    Text(categoryName, color = Color.Gray, fontSize = 11.sp)
+                }
                 Spacer(Modifier.height(5.dp))
                 Text(book.description.ifBlank { "Buka detail untuk melihat informasi buku." }, color = Color.Gray, fontSize = 12.sp, maxLines = 2)
             }
@@ -189,20 +232,22 @@ private fun BookCard(book: Book, onClick: () -> Unit) {
 }
 
 @Composable
-private fun BookDetail(book: Book, onBack: () -> Unit) {
+private fun BookDetail(book: Book, categoryName: String?, onBack: () -> Unit) {
     Column(Modifier.fillMaxSize().padding(20.dp)) {
         Text("‹  Kembali", color = Green, fontWeight = FontWeight.Bold, modifier = Modifier.clickable(onClick = onBack).padding(vertical = 8.dp))
         Spacer(Modifier.height(24.dp))
         Box(Modifier.fillMaxWidth().height(180.dp).background(Color(0xFFE6EFE8), RoundedCornerShape(18.dp)), contentAlignment = Alignment.Center) {
-            Text("📚", fontSize = 64.sp)
+            Text("NEXTY LIBRARY", color = Green, fontSize = 18.sp, fontWeight = FontWeight.ExtraBold, letterSpacing = 2.sp)
         }
         Spacer(Modifier.height(20.dp))
         Text(book.title, fontSize = 25.sp, fontWeight = FontWeight.ExtraBold, color = Ink)
         Text("Oleh ${book.author}", color = Green)
+        if (!categoryName.isNullOrBlank()) Text(categoryName, color = Color.Gray, fontSize = 12.sp)
+        if (book.pageCount > 0) Text("${book.pageCount} halaman", color = Color.Gray, fontSize = 12.sp)
         Spacer(Modifier.height(14.dp))
         Text(book.description.ifBlank { "Deskripsi buku belum tersedia." }, color = Color.DarkGray, lineHeight = 22.sp)
         Spacer(Modifier.height(24.dp))
-        Text("Akses membaca dan pembukaan buku akan diaktifkan setelah autentikasi serta verifikasi iklan selesai dibuat.", color = Color.Gray, fontSize = 12.sp)
+        Text("Pembaca buku dan proses pembukaan akses akan ditambahkan setelah autentikasi serta verifikasi iklan sisi server selesai.", color = Color.Gray, fontSize = 12.sp)
     }
 }
 
@@ -215,9 +260,9 @@ private fun PlaceholderPage(title: String, subtitle: String) {
     }
 }
 
-private fun fetchBooks(): List<Book> {
+private fun fetchCategories(): List<BookCategory> {
     val endpoint = BuildConfig.SUPABASE_URL.trimEnd('/') +
-        "/rest/v1/books?select=id,title,author,description,category_id&is_published=eq.true&order=published_at.desc"
+        "/rest/v1/categories?select=id,name&order=sort_order.asc"
     val connection = URL(endpoint).openConnection() as HttpURLConnection
     try {
         connection.requestMethod = "GET"
@@ -227,9 +272,31 @@ private fun fetchBooks(): List<Book> {
         connection.setRequestProperty("Authorization", "Bearer ${BuildConfig.SUPABASE_PUBLISHABLE_KEY}")
         connection.setRequestProperty("Accept", "application/json")
         val code = connection.responseCode
-        if (code !in 200..299) throw IllegalStateException("Supabase merespons HTTP $code")
-        val body = connection.inputStream.bufferedReader().use { it.readText() }
-        val array = JSONArray(body)
+        if (code !in 200..299) throw IllegalStateException("Supabase kategori merespons HTTP $code")
+        val array = JSONArray(connection.inputStream.bufferedReader().use { it.readText() })
+        return (0 until array.length()).map { index ->
+            val item = array.getJSONObject(index)
+            BookCategory(item.optString("id"), item.optString("name"))
+        }
+    } finally {
+        connection.disconnect()
+    }
+}
+
+private fun fetchBooks(): List<Book> {
+    val endpoint = BuildConfig.SUPABASE_URL.trimEnd('/') +
+        "/rest/v1/books?select=id,title,author,description,category_id,page_count&is_published=eq.true&order=published_at.desc"
+    val connection = URL(endpoint).openConnection() as HttpURLConnection
+    try {
+        connection.requestMethod = "GET"
+        connection.connectTimeout = 15000
+        connection.readTimeout = 15000
+        connection.setRequestProperty("apikey", BuildConfig.SUPABASE_PUBLISHABLE_KEY)
+        connection.setRequestProperty("Authorization", "Bearer ${BuildConfig.SUPABASE_PUBLISHABLE_KEY}")
+        connection.setRequestProperty("Accept", "application/json")
+        val code = connection.responseCode
+        if (code !in 200..299) throw IllegalStateException("Supabase buku merespons HTTP $code")
+        val array = JSONArray(connection.inputStream.bufferedReader().use { it.readText() })
         return (0 until array.length()).map { index ->
             val item = array.getJSONObject(index)
             Book(
@@ -237,7 +304,8 @@ private fun fetchBooks(): List<Book> {
                 title = item.optString("title", "Tanpa judul"),
                 author = item.optString("author"),
                 description = item.optString("description"),
-                categoryId = item.optString("category_id").takeIf { it.isNotBlank() && it != "null" }
+                categoryId = item.optString("category_id").takeIf { it.isNotBlank() && it != "null" },
+                pageCount = item.optInt("page_count", 0)
             )
         }
     } finally {

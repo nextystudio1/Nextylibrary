@@ -1,0 +1,63 @@
+PENGANTAR KECERDASAN BUATAN: KONSEP, DATA, DAN ETIKA
+Penulis: Nexty Studio
+Edisi pembelajaran orisinal
+
+PENGANTAR
+Kecerdasan buatan (AI) adalah bidang ilmu komputer yang mengembangkan sistem untuk melakukan tugas yang biasanya membutuhkan kemampuan seperti pengenalan pola, pemahaman bahasa, prediksi, atau pengambilan keputusan. AI bukan satu teknologi tunggal; ia mencakup berbagai metode dan pendekatan.
+
+BAB 1 — APA ITU KECERDASAN BUATAN?
+Sistem AI dirancang untuk memetakan masukan menjadi keluaran berdasarkan aturan, model, atau pola yang dipelajari. Contohnya meliputi penyaring spam, rekomendasi film, pengenalan suara, dan penerjemahan otomatis.
+AI berbeda dari otomatisasi sederhana. Timer yang menyalakan lampu pada jam tertentu mengikuti aturan tetap. Sistem yang mempelajari pola penggunaan untuk memperkirakan kebutuhan pengguna melibatkan pemodelan data.
+Istilah “cerdas” tidak berarti sistem memiliki kesadaran atau pemahaman seperti manusia. Kemampuan AI harus dinilai berdasarkan tugas, data, dan konteks penggunaannya.
+
+BAB 2 — DATA DAN PEMBELAJARAN MESIN
+Pembelajaran mesin adalah pendekatan yang memungkinkan komputer mempelajari pola dari data. Data dapat berupa angka, teks, gambar, suara, atau gabungannya. Kualitas data sangat memengaruhi kualitas hasil.
+Dalam pembelajaran terawasi, model belajar dari contoh yang memiliki label. Dalam pembelajaran tak terawasi, model mencari struktur atau kelompok tanpa label target yang diberikan. Pembelajaran penguatan mempelajari kebijakan melalui interaksi dan umpan balik berupa penghargaan.
+Data perlu dipisahkan untuk pelatihan, validasi, dan pengujian. Jika data uji ikut digunakan selama pelatihan, evaluasi dapat menjadi terlalu optimistis.
+
+BAB 3 — MODEL DAN EVALUASI
+Model adalah representasi matematis atau komputasional yang menghasilkan prediksi. Model sederhana dapat berupa regresi linear; model yang lebih kompleks dapat menggunakan jaringan saraf.
+Akurasi mengukur proporsi prediksi benar, tetapi tidak selalu cukup. Pada data yang tidak seimbang, model yang selalu memilih kelas mayoritas dapat tampak akurat namun gagal mengenali kasus penting. Presisi, recall, dan F1 dapat memberi gambaran tambahan.
+Overfitting terjadi ketika model terlalu menyesuaikan diri pada data pelatihan sehingga kinerjanya buruk pada data baru. Regularisasi, data yang beragam, dan evaluasi yang tepat dapat membantu mengurangi masalah ini.
+
+BAB 4 — AI GENERATIF
+AI generatif menghasilkan konten baru seperti teks, gambar, audio, atau kode berdasarkan pola yang dipelajari dari data. Model bahasa besar menghasilkan teks dengan memperkirakan rangkaian token berikutnya dalam konteks.
+Hasil yang terdengar meyakinkan belum tentu benar. Model dapat membuat kesalahan, menghilangkan konteks, atau menyampaikan informasi yang tidak didukung bukti. Karena itu, informasi penting perlu diverifikasi melalui sumber tepercaya.
+Prompt yang jelas dapat menyebutkan tujuan, konteks, batasan, dan format keluaran. Namun, prompt yang baik tidak menjamin semua hasil akurat.
+
+BAB 5 — PENERAPAN DAN RISIKO
+AI digunakan dalam pendidikan, pertanian, kesehatan, transportasi, industri, dan layanan publik. Manfaatnya dapat berupa analisis data lebih cepat, dukungan keputusan, dan otomatisasi tugas berulang.
+Risiko meliputi bias data, pelanggaran privasi, kesalahan prediksi, ketergantungan berlebihan, dan dampak pada pekerjaan. Sistem yang digunakan untuk keputusan penting perlu pengawasan manusia dan mekanisme koreksi.
+Data pribadi tidak boleh dimasukkan ke layanan AI sembarangan. Pengguna harus memahami kebijakan privasi, izin, serta tujuan pengumpulan data.
+
+BAB 6 — ETIKA DAN MASA DEPAN AI
+AI yang bertanggung jawab memerlukan transparansi yang sesuai, keamanan, keadilan, perlindungan privasi, dan akuntabilitas. Pengembang harus menguji sistem pada berbagai kelompok dan kondisi penggunaan.
+Pengguna juga memiliki tanggung jawab: memeriksa keluaran, menyebutkan bantuan AI bila diwajibkan, dan tidak mengklaim hasil otomatis sebagai penelitian atau karya lapangan yang tidak pernah dilakukan.
+Masa depan AI tidak hanya ditentukan oleh kemampuan teknis. Keputusan sosial, hukum, pendidikan, dan nilai manusia ikut menentukan bagaimana teknologi digunakan.
+
+RANGKUMAN
+• AI mencakup metode untuk menyelesaikan berbagai tugas berbasis komputasi.
+• Pembelajaran mesin menemukan pola dari data.
+• Evaluasi harus memakai data uji yang terpisah.
+• AI generatif dapat menghasilkan kesalahan yang meyakinkan.
+• Privasi, keadilan, keamanan, dan akuntabilitas penting dalam penerapan AI.
+
+LATIHAN DAN PEMBAHASAN
+1. Apa perbedaan otomatisasi aturan tetap dan pembelajaran mesin?
+Jawaban: Aturan tetap mengikuti instruksi yang ditentukan; pembelajaran mesin mempelajari pola dari data.
+2. Mengapa data uji harus dipisahkan?
+Jawaban: Agar evaluasi menggambarkan kemampuan model pada data yang belum digunakan saat pelatihan.
+3. Apa itu overfitting?
+Jawaban: Kondisi ketika model terlalu cocok pada data pelatihan dan kurang mampu menggeneralisasi.
+4. Mengapa keluaran AI generatif perlu diperiksa?
+Jawaban: Karena sistem dapat menghasilkan informasi yang salah atau tidak didukung bukti.
+
+GLOSARIUM
+Algoritma: langkah komputasi untuk menyelesaikan masalah.
+Bias: kecenderungan sistematis yang dapat menghasilkan perlakuan atau hasil tidak adil.
+Model: representasi yang dipelajari atau dirancang untuk menghasilkan keluaran.
+Overfitting: penyesuaian berlebihan terhadap data pelatihan.
+Prompt: instruksi atau masukan untuk sistem generatif.
+
+CATATAN PENULIS
+Naskah orisinal Nexty Studio. Teknologi AI berkembang cepat; pembaca perlu memeriksa dokumentasi dan riset terbaru sebelum mengambil keputusan teknis.

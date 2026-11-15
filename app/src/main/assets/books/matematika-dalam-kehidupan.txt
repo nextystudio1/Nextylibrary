@@ -344,3 +344,37 @@ LATIHAN
 1. Mengapa persentase berurutan tidak saling meniadakan? Jawaban: dasar perhitungannya berubah.
 2. Jika panjang diperbesar tiga kali, luas berubah berapa kali? Jawaban: sembilan kali.
 3. Kapan median lebih berguna? Jawaban: ketika data memiliki pencilan atau distribusi menceng.
+
+
+
+BAB LANJUTAN — MODEL MATEMATIKA DAN KEPUTUSAN
+
+Matematika dapat digunakan untuk menyederhanakan situasi nyata melalui model. Model adalah representasi yang memilih aspek tertentu dari keadaan, sehingga tidak memuat seluruh kerumitan dunia nyata. Saat membuat model, tuliskan asumsi, variabel, satuan, dan batas penggunaannya.
+
+Persentase membantu membandingkan perubahan relatif, tetapi dasar perbandingan harus jelas. Kenaikan 10 persen dari 100 menghasilkan 110, sedangkan penurunan 10 persen dari 110 menghasilkan 99; perubahan persentase berurutan tidak selalu saling menghapus. Skala dan rasio membantu membaca peta, resep, rancangan, dan perbandingan ukuran.
+
+Geometri digunakan untuk memperkirakan luas, volume, dan kebutuhan bahan. Dalam situasi nyata, hasil perhitungan perlu memperhatikan pembulatan, toleransi pengukuran, dan satuan. Kesalahan satuan dapat menghasilkan keputusan yang jauh berbeda.
+
+STUDI KASUS
+
+Rencanakan kebutuhan cat untuk dinding berbentuk persegi panjang. Ukur panjang dan tinggi, kurangi luas pintu dan jendela, lalu gunakan informasi daya sebar pada kemasan. Nyatakan bahwa hasil merupakan perkiraan karena permukaan dan jumlah lapisan dapat memengaruhi kebutuhan.
+
+EVALUASI
+1. Mengapa model matematika memerlukan asumsi?
+2. Hitung hasil kenaikan 20% dari 150.
+3. Mengapa penurunan 20% setelah kenaikan 20% tidak kembali ke nilai awal?
+4. Mengapa satuan harus dicantumkan?
+5. Apa perbedaan hasil tepat dan hasil perkiraan?
+
+PEMBAHASAN
+1. Model menyederhanakan keadaan dan memiliki batas.
+2. 150 × 1,20 = 180.
+3. Persentase kedua dihitung dari nilai baru, bukan nilai awal.
+4. Agar besaran dan operasi dapat ditafsirkan dengan benar.
+5. Hasil tepat mengikuti kondisi ideal; perkiraan mempertimbangkan ketidakpastian pengukuran dan keadaan nyata.
+
+GLOSARIUM
+Model: representasi sederhana dari situasi nyata.
+Rasio: perbandingan dua besaran.
+Toleransi: rentang penyimpangan yang masih dapat diterima.
+Pembulatan: penyederhanaan angka sesuai ketelitian yang diperlukan.

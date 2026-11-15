@@ -1,0 +1,447 @@
+DASAR PEMROGRAMAN DAN BERPIKIR KOMPUTASIONAL
+Memahami Algoritma, Data, dan Cara Kerja Program
+
+Penulis: Tim Edukasi Nexty Studio
+Edisi pertama • 2026
+
+TENTANG BUKU
+Buku ini memperkenalkan dasar pemrograman dan berpikir komputasional bagi pembaca pemula. Pembahasan dimulai dari cara memecahkan masalah, menyusun algoritma, mengenali data, menggunakan percabangan dan perulangan, hingga memahami pengujian, keamanan, dan etika digital. Contoh dibuat sederhana agar konsep dapat dipahami tanpa bergantung pada satu bahasa pemrograman tertentu.
+
+DAFTAR ISI
+BAB 1. Komputer dan Program
+BAB 2. Berpikir Komputasional
+BAB 3. Algoritma dan Pseudocode
+BAB 4. Variabel dan Tipe Data
+BAB 5. Operator dan Ekspresi
+BAB 6. Percabangan dan Pengambilan Keputusan
+BAB 7. Perulangan
+BAB 8. Fungsi dan Pemecahan Program
+BAB 9. Struktur Data Dasar
+BAB 10. Mengenal Input, Output, dan Berkas
+BAB 11. Pengujian dan Perbaikan Kesalahan
+BAB 12. Efisiensi dan Kualitas Program
+BAB 13. Keamanan dan Etika Pemrograman
+BAB 14. Proyek Terpadu untuk Pemula
+LAMPIRAN A. Istilah Penting
+LAMPIRAN B. Latihan dan Pembahasan
+GLOSARIUM
+DAFTAR BACAAN
+
+BAB 1. KOMPUTER DAN PROGRAM
+
+Komputer adalah perangkat yang menerima masukan, mengolah data berdasarkan instruksi, menyimpan informasi, dan menghasilkan keluaran. Komputer dapat berupa laptop, telepon pintar, server, mesin kasir, atau perangkat kecil yang tertanam pada alat rumah tangga. Bentuknya berbeda, tetapi prinsip kerjanya memiliki kesamaan: perangkat keras menjalankan instruksi yang disediakan perangkat lunak.
+
+Perangkat keras adalah bagian fisik yang dapat disentuh, seperti prosesor, memori, media penyimpanan, layar, papan ketik, dan sensor. Perangkat lunak adalah kumpulan instruksi dan data yang membuat perangkat keras melakukan tugas tertentu. Sistem operasi mengelola sumber daya perangkat, sedangkan aplikasi membantu pengguna menyelesaikan pekerjaan khusus.
+
+Program komputer merupakan urutan instruksi yang disusun untuk mencapai tujuan. Program sederhana dapat menghitung luas persegi panjang. Program yang lebih kompleks dapat mengelola perpustakaan digital, memproses gambar, atau mengatur lalu lintas jaringan. Walaupun skala dan teknologinya berbeda, program tetap berawal dari masalah yang perlu dirumuskan dengan jelas.
+
+Pemrograman adalah kegiatan merancang, menulis, menguji, dan memelihara program. Mengetik kode hanyalah salah satu bagian. Sebelum menulis kode, seorang pemrogram perlu memahami kebutuhan pengguna, menentukan masukan, menetapkan keluaran yang diharapkan, dan memikirkan kondisi khusus yang mungkin terjadi.
+
+Contoh: sebuah program menghitung total harga belanja. Masukannya adalah daftar harga barang dan jumlah masing-masing. Prosesnya mengalikan harga dengan jumlah lalu menjumlahkan seluruh hasil. Keluarannya adalah total pembayaran. Jika ada potongan harga atau pajak, aturan tersebut harus dijelaskan sebelum program dibuat.
+
+Bahasa pemrograman menyediakan aturan untuk menyampaikan instruksi kepada komputer. Ada bahasa yang dekat dengan perangkat keras dan ada bahasa tingkat tinggi yang lebih mudah dibaca manusia. Setiap bahasa memiliki sintaks, yaitu aturan penulisan, serta semantik, yaitu makna dari instruksi. Kode yang salah sintaks dapat ditolak sebelum dijalankan. Kode yang sintaksnya benar pun dapat menghasilkan jawaban keliru jika logikanya salah.
+
+RANGKUMAN BAB 1
+• Komputer menerima masukan, mengolah, menyimpan, dan menghasilkan keluaran.
+• Program adalah instruksi untuk menyelesaikan tugas.
+• Pemrograman mencakup perencanaan, penulisan, pengujian, dan pemeliharaan.
+• Sintaks mengatur bentuk penulisan, sedangkan semantik berkaitan dengan makna.
+
+PERTANYAAN PEMAHAMAN
+1. Apa perbedaan perangkat keras dan perangkat lunak?
+2. Mengapa memahami masalah perlu dilakukan sebelum menulis kode?
+3. Tentukan masukan, proses, dan keluaran dari program penghitung nilai rata-rata.
+
+BAB 2. BERPIKIR KOMPUTASIONAL
+
+Berpikir komputasional adalah pendekatan untuk memecahkan masalah secara terstruktur sehingga solusinya dapat dijalankan oleh manusia atau komputer. Pendekatan ini tidak berarti semua masalah harus diselesaikan dengan komputer. Keterampilan utamanya adalah merumuskan masalah, menemukan pola, memilih informasi penting, dan menyusun langkah yang dapat diperiksa.
+
+Dekomposisi berarti memecah masalah besar menjadi bagian yang lebih kecil. Misalnya, membuat aplikasi katalog buku dapat dibagi menjadi pengelolaan data buku, pencarian, tampilan detail, pencatatan kemajuan membaca, dan pengaturan pengguna. Setiap bagian dapat dirancang dan diuji secara terpisah sebelum digabungkan.
+
+Pengenalan pola adalah mencari kemiripan pada beberapa masalah. Jika banyak halaman katalog menampilkan judul, penulis, dan kategori dengan susunan serupa, kita dapat membuat satu komponen tampilan yang dipakai berulang kali. Pola membantu mengurangi pengulangan dan menjaga konsistensi.
+
+Abstraksi adalah memilih informasi yang relevan dan mengabaikan rincian yang tidak diperlukan untuk tujuan saat ini. Ketika menghitung jarak perjalanan, kita mungkin cukup menggunakan jarak dan kecepatan rata-rata. Warna kendaraan atau nama pengemudi tidak diperlukan untuk perhitungan tersebut. Abstraksi bukan berarti mengabaikan fakta penting; batas penyederhanaannya harus sesuai dengan masalah.
+
+Perancangan algoritma adalah menyusun langkah penyelesaian secara logis dan berurutan. Algoritma yang baik memiliki tujuan jelas, masukan dan keluaran yang terdefinisi, langkah yang dapat dilakukan, serta kondisi berhenti. Algoritma tidak harus langsung ditulis dalam bahasa pemrograman.
+
+Keempat keterampilan ini saling mendukung. Dekomposisi membuat masalah lebih mudah dikelola, pengenalan pola menunjukkan bagian yang dapat digunakan kembali, abstraksi menjaga fokus, dan algoritma menjelaskan langkah penyelesaian.
+
+CONTOH PENERAPAN
+Masalah: menentukan buku yang paling baru ditambahkan ke katalog.
+1. Tentukan data yang dibutuhkan: daftar buku dan tanggal penambahan.
+2. Abaikan informasi yang tidak berhubungan dengan tanggal.
+3. Bandingkan tanggal setiap buku.
+4. Simpan buku dengan tanggal paling baru.
+5. Tampilkan hasilnya.
+Jika daftar kosong, program perlu menampilkan pesan bahwa belum ada buku.
+
+RANGKUMAN BAB 2
+• Dekomposisi memecah masalah menjadi bagian lebih kecil.
+• Pengenalan pola mencari kesamaan yang dapat dimanfaatkan.
+• Abstraksi memilih rincian yang relevan.
+• Algoritma menyusun langkah penyelesaian.
+
+LATIHAN
+Pilih satu kegiatan sehari-hari, misalnya menyiapkan tas sekolah. Tuliskan bagian-bagian kecilnya, pola yang berulang, informasi yang penting, dan urutan langkahnya.
+
+BAB 3. ALGORITMA DAN PSEUDOCODE
+
+Algoritma adalah urutan langkah terbatas untuk menyelesaikan masalah. Instruksi harus cukup jelas agar dapat diikuti tanpa menebak maksud pembuatnya. Kata seperti “lakukan dengan benar” terlalu umum. Instruksi yang baik menjelaskan tindakan dan kondisi yang diperlukan.
+
+Pseudocode atau kode semu adalah cara menuliskan logika program menggunakan bahasa sehari-hari yang terstruktur. Pseudocode tidak terikat pada sintaks bahasa tertentu. Contohnya:
+
+MULAI
+  baca panjang
+  baca lebar
+  luas = panjang × lebar
+  tampilkan luas
+SELESAI
+
+Pseudocode membantu memeriksa alur sebelum kode dibuat. Diagram alir atau flowchart juga dapat digunakan. Simbol oval biasanya menandai awal dan akhir, jajaran genjang menunjukkan masukan atau keluaran, persegi panjang menunjukkan proses, dan belah ketupat menunjukkan keputusan. Penggunaan simbol harus konsisten.
+
+Algoritma perlu menangani kasus normal dan kasus khusus. Pada contoh luas persegi panjang, apakah panjang boleh negatif? Dalam konteks pengukuran biasa, tidak. Program sebaiknya memeriksa masukan dan meminta nilai yang sesuai. Apakah nilai nol diperbolehkan? Itu bergantung pada kebutuhan. Keputusan semacam ini harus dibuat secara sadar.
+
+Ada beberapa cara menyatakan kualitas algoritma. Kebenaran berarti algoritma menghasilkan keluaran sesuai spesifikasi. Kejelasan berarti langkah mudah dipahami. Keterbatasan berarti proses berhenti setelah sejumlah langkah yang wajar. Efisiensi berkaitan dengan sumber daya yang digunakan, seperti waktu dan memori.
+
+Sebelum menerapkan algoritma, uji dengan contoh kecil. Gunakan nilai biasa, nilai batas, masukan kosong, dan masukan yang tidak valid. Pemeriksaan ini membantu menemukan kekurangan lebih awal.
+
+RANGKUMAN BAB 3
+• Algoritma berisi langkah yang jelas dan terbatas.
+• Pseudocode membantu merancang logika tanpa terikat bahasa.
+• Flowchart menggambarkan alur menggunakan simbol.
+• Kasus khusus perlu dipikirkan sejak tahap perancangan.
+
+BAB 4. VARIABEL DAN TIPE DATA
+
+Variabel adalah nama yang digunakan untuk merujuk pada suatu nilai dalam program. Bayangkan sebuah kotak berlabel yang isinya dapat digunakan atau diperbarui. Nama variabel sebaiknya menjelaskan maknanya, misalnya jumlahBuku, namaPenulis, atau totalHarga. Nama seperti x1 dan data2 boleh digunakan pada contoh singkat, tetapi kurang membantu pada program yang lebih besar.
+
+Tipe data menentukan jenis nilai dan operasi yang sesuai. Bilangan bulat digunakan untuk nilai tanpa bagian pecahan, seperti jumlah halaman. Bilangan desimal digunakan untuk nilai yang dapat memiliki pecahan, seperti berat. Teks atau string menyimpan rangkaian karakter, misalnya judul buku. Boolean menyimpan dua keadaan logis: benar atau salah.
+
+Tanggal, waktu, gambar, dan objek yang lebih kompleks dapat memiliki tipe khusus atau direpresentasikan melalui struktur data. Pilihan tipe memengaruhi cara nilai disimpan, dibandingkan, dan diolah. Menganggap teks "25" sebagai angka 25 dapat menyebabkan kesalahan jika program tidak melakukan konversi dengan tepat.
+
+Konstanta adalah nilai yang tidak dimaksudkan untuk berubah selama bagian program tertentu berjalan. Contohnya, batas maksimum percobaan dapat disimpan sebagai konstanta agar mudah ditemukan dan diperbarui secara terencana.
+
+Pemberian nilai dilakukan melalui operasi penugasan. Dalam pseudocode, jumlah = 10 berarti variabel jumlah diberi nilai 10. Operasi ini berbeda dari pernyataan matematika bahwa dua sisi selalu setara. Pada beberapa bahasa, tanda sama dengan digunakan untuk penugasan, sedangkan operator lain digunakan untuk membandingkan kesamaan.
+
+Masukan dari pengguna perlu diperiksa. Jika program meminta jumlah buku, masukan "banyak" bukan bilangan yang dapat langsung dijumlahkan. Program harus memberi pesan yang jelas atau meminta masukan ulang. Validasi mencegah data yang tidak sesuai masuk ke proses berikutnya.
+
+RANGKUMAN BAB 4
+• Variabel memberi nama pada nilai.
+• Tipe data menentukan jenis nilai dan operasi yang sesuai.
+• Konstanta menyimpan nilai yang tidak dimaksudkan untuk berubah.
+• Validasi memastikan masukan sesuai kebutuhan.
+
+LATIHAN
+Tentukan tipe data yang tepat untuk: nama buku, jumlah halaman, harga, tanggal terbit, dan status ketersediaan.
+
+BAB 5. OPERATOR DAN EKSPRESI
+
+Operator adalah simbol atau kata yang melakukan operasi terhadap nilai. Operator aritmetika mencakup penjumlahan, pengurangan, perkalian, pembagian, dan sisa pembagian. Operator perbandingan membandingkan dua nilai, misalnya lebih besar, lebih kecil, atau sama. Operator logika menggabungkan kondisi, seperti DAN, ATAU, dan TIDAK.
+
+Ekspresi adalah gabungan nilai, variabel, dan operator yang menghasilkan nilai baru. Contoh: subtotal = harga × jumlah. Untuk menghitung rata-rata, jumlahkan seluruh nilai lalu bagi dengan banyaknya nilai. Jika banyaknya nilai nol, pembagian tidak boleh dilakukan begitu saja. Program perlu memeriksa kondisi tersebut.
+
+Urutan operasi perlu diperhatikan. Dalam matematika, perkalian dan pembagian umumnya dikerjakan sebelum penjumlahan dan pengurangan. Tanda kurung membantu memperjelas maksud. Ekspresi (a + b) × c berbeda dari a + (b × c).
+
+Operator perbandingan menghasilkan nilai logika. Contoh: umur >= 17 menghasilkan benar jika umur minimal 17. Namun, batas usia yang digunakan aplikasi harus mengikuti aturan dan konteks yang berlaku. Program tidak boleh mengasumsikan suatu batas tanpa dasar kebutuhan.
+
+Operator logika memungkinkan kondisi gabungan. Misalnya, sebuah formulir dianggap lengkap jika nama tidak kosong DAN alamat surel memiliki format yang dapat diterima. Operator ATAU berguna ketika salah satu dari beberapa kondisi sudah cukup. Operator TIDAK membalik nilai logika.
+
+Kesalahan umum adalah mencampur tipe data atau mengabaikan urutan operasi. Pengujian dengan nilai sederhana dapat membantu. Hitung hasil secara manual, jalankan program, lalu bandingkan. Jika berbeda, periksa tipe data, operator, dan urutan evaluasi.
+
+RANGKUMAN BAB 5
+• Operator aritmetika melakukan perhitungan.
+• Operator perbandingan menghasilkan nilai benar atau salah.
+• Operator logika menggabungkan kondisi.
+• Tanda kurung memperjelas urutan operasi.
+
+BAB 6. PERCABANGAN DAN PENGAMBILAN KEPUTUSAN
+
+Percabangan membuat program memilih tindakan berdasarkan kondisi. Bentuk paling sederhana adalah JIKA dan JIKA TIDAK. Contoh:
+
+JIKA nilai >= 75
+  tampilkan "Tuntas"
+JIKA TIDAK
+  tampilkan "Perlu belajar lagi"
+
+Kondisi harus menghasilkan nilai logika. Jika terdapat beberapa kemungkinan, gunakan rangkaian kondisi yang urut dan tidak saling bertentangan. Misalnya, pengelompokan nilai dapat memeriksa rentang tertinggi terlebih dahulu, lalu rentang berikutnya. Batas setiap rentang perlu ditulis dengan jelas agar tidak ada nilai yang terlewat atau masuk ke dua kelompok.
+
+Percabangan bertingkat dapat digunakan ketika keputusan kedua bergantung pada keputusan pertama. Namun, terlalu banyak tingkat membuat program sulit dibaca. Pertimbangkan menyederhanakan kondisi atau memecahnya menjadi fungsi yang memiliki nama jelas.
+
+Tabel keputusan membantu menguji kombinasi kondisi. Untuk formulir, misalnya, pengguna dapat melanjutkan jika nama terisi dan persetujuan yang diperlukan telah diberikan. Buat daftar kemungkinan: keduanya terpenuhi, hanya nama terpenuhi, hanya persetujuan terpenuhi, atau keduanya belum terpenuhi. Setiap kombinasi harus menghasilkan tindakan yang tepat.
+
+Jangan hanya menguji kondisi yang diharapkan berhasil. Uji juga kondisi gagal, nilai batas, dan masukan yang tidak lengkap. Pesan kesalahan sebaiknya menjelaskan apa yang perlu diperbaiki, bukan hanya menyatakan "terjadi kesalahan".
+
+RANGKUMAN BAB 6
+• Percabangan memilih tindakan berdasarkan kondisi.
+• Urutan dan batas kondisi harus jelas.
+• Tabel keputusan membantu memeriksa kombinasi.
+• Jalur berhasil dan gagal sama-sama perlu diuji.
+
+BAB 7. PERULANGAN
+
+Perulangan menjalankan serangkaian instruksi lebih dari sekali. Perulangan berguna ketika tugas dilakukan pada banyak data atau sampai suatu kondisi tercapai. Tanpa perulangan, instruksi yang sama mungkin harus ditulis berulang kali dan sulit dipelihara.
+
+Perulangan berbasis hitungan cocok ketika jumlah pengulangan diketahui. Contohnya, memproses sepuluh pertanyaan latihan. Perulangan berbasis kondisi berjalan selama kondisi tertentu terpenuhi, misalnya meminta masukan sampai pengguna memasukkan angka yang valid.
+
+Setiap perulangan harus memiliki mekanisme berhenti. Jika kondisi tidak pernah berubah, program dapat terus berjalan. Hal ini disebut perulangan tak berujung. Pastikan variabel penghitung diperbarui atau kondisi berhenti dapat dicapai.
+
+Contoh pseudocode:
+
+UNTUK nomor dari 1 sampai 5
+  tampilkan nomor
+SELESAI
+
+Hasilnya menampilkan angka satu hingga lima. Perhatikan apakah batas akhir termasuk atau tidak, karena aturan rentang dapat berbeda antarbahasa pemrograman.
+
+Perulangan dapat berada di dalam perulangan lain. Contohnya, menampilkan tabel perkalian. Namun, perulangan bertingkat dapat menambah jumlah operasi dengan cepat. Untuk data besar, pertimbangkan apakah ada cara yang lebih efisien.
+
+Ketika memproses daftar, jangan mengubah struktur daftar secara sembarangan saat sedang menelusurinya. Penghapusan elemen dapat menggeser posisi dan menyebabkan data terlewat. Gunakan pola yang aman sesuai bahasa dan struktur data yang dipakai.
+
+RANGKUMAN BAB 7
+• Perulangan menghindari penulisan instruksi yang sama berulang kali.
+• Gunakan perulangan hitungan jika jumlah langkah diketahui.
+• Perulangan kondisi memerlukan syarat berhenti yang dapat dicapai.
+• Perulangan bertingkat perlu memperhatikan efisiensi.
+
+BAB 8. FUNGSI DAN PEMECAHAN PROGRAM
+
+Fungsi adalah bagian program yang diberi nama dan menjalankan tugas tertentu. Fungsi membantu memecah program besar menjadi bagian yang lebih mudah dipahami, diuji, dan digunakan kembali. Nama fungsi sebaiknya berupa tindakan yang jelas, misalnya hitungTotal atau validasiEmail.
+
+Fungsi dapat menerima parameter, yaitu nilai yang diberikan saat fungsi dipanggil. Fungsi juga dapat mengembalikan hasil. Contoh pseudocode:
+
+FUNGSI hitungLuas(panjang, lebar)
+  KEMBALIKAN panjang × lebar
+SELESAI
+
+hasil = hitungLuas(5, 3)
+
+Parameter panjang dan lebar menerima nilai 5 dan 3, kemudian fungsi mengembalikan hasil 15. Fungsi yang hanya menampilkan pesan mungkin tidak memerlukan nilai kembalian.
+
+Variabel lokal hanya digunakan dalam ruang lingkup tertentu, misalnya di dalam fungsi. Variabel global dapat diakses dari bagian program yang lebih luas, tetapi penggunaan berlebihan dapat membuat hubungan antarbagian sulit dilacak. Mengirim data melalui parameter sering membuat fungsi lebih mudah dipahami.
+
+Satu fungsi sebaiknya memiliki tanggung jawab yang terfokus. Fungsi yang sekaligus membaca berkas, menghitung total, mengirim pesan, dan mengubah tampilan akan sulit diuji. Pecah menjadi beberapa fungsi dengan tujuan yang jelas.
+
+Dokumentasi singkat menjelaskan tujuan fungsi, parameter, hasil, serta kondisi khusus. Dokumentasi bukan pengganti nama yang baik dan kode yang jelas, tetapi membantu pengguna lain memahami keputusan yang tidak langsung terlihat.
+
+RANGKUMAN BAB 8
+• Fungsi mengelompokkan tugas ke dalam bagian bernama.
+• Parameter membawa masukan ke fungsi.
+• Nilai kembalian mengirimkan hasil.
+• Fungsi yang terfokus lebih mudah diuji dan dipelihara.
+
+BAB 9. STRUKTUR DATA DASAR
+
+Struktur data adalah cara mengatur informasi agar dapat disimpan dan diolah. Array atau daftar menyimpan sejumlah elemen dalam urutan tertentu. Set digunakan untuk kumpulan nilai unik. Peta atau dictionary menghubungkan kunci dengan nilai, misalnya kode buku dengan judulnya.
+
+Daftar cocok untuk menyimpan urutan judul buku. Program dapat menelusuri setiap elemen, menambahkan elemen baru, atau menghapus elemen tertentu. Beberapa bahasa menggunakan indeks mulai dari nol, sedangkan konsep lain dapat menggunakan penomoran berbeda. Periksa aturan bahasa yang dipakai agar tidak salah mengakses elemen.
+
+Peta berguna ketika pencarian dilakukan berdasarkan kunci. Misalnya, kode anggota dapat menjadi kunci untuk menemukan nama dan status keanggotaan. Kunci sebaiknya unik dalam satu peta. Jika kunci yang sama dimasukkan kembali, perilakunya bergantung pada implementasi; nilai lama mungkin diganti.
+
+Tumpukan atau stack mengikuti prinsip terakhir masuk, pertama keluar. Tumpukan dapat digunakan untuk fitur batal atau undo. Antrean atau queue mengikuti prinsip pertama masuk, pertama keluar. Antrean cocok untuk pekerjaan yang diproses sesuai urutan kedatangan.
+
+Pemilihan struktur data memengaruhi kemudahan dan kecepatan program. Daftar sederhana mudah digunakan, tetapi mencari satu elemen mungkin memerlukan pemeriksaan banyak elemen. Peta dapat mempercepat pencarian berdasarkan kunci pada banyak implementasi, tetapi membutuhkan pengelolaan memori tambahan.
+
+Struktur data harus dipilih berdasarkan kebutuhan, bukan karena terlihat canggih. Untuk daftar kecil, struktur sederhana mungkin sudah cukup. Untuk data besar, perhatikan kebutuhan pencarian, penambahan, penghapusan, pengurutan, dan konsistensi.
+
+RANGKUMAN BAB 9
+• Daftar menyimpan elemen berurutan.
+• Set menyimpan anggota unik.
+• Peta menghubungkan kunci dengan nilai.
+• Stack menggunakan prinsip terakhir masuk pertama keluar.
+• Queue menggunakan prinsip pertama masuk pertama keluar.
+
+BAB 10. MENGENAL INPUT, OUTPUT, DAN BERKAS
+
+Input adalah data yang diterima program, sedangkan output adalah hasil yang diberikan program. Input dapat berasal dari pengguna, berkas, sensor, atau layanan lain. Output dapat berupa teks, gambar, suara, laporan, atau data yang disimpan.
+
+Program perlu memeriksa input sebelum memprosesnya. Pemeriksaan dapat mencakup tipe, panjang, rentang, dan format. Jika pengguna diminta memasukkan alamat surel, program dapat memeriksa bentuk dasarnya, tetapi pemeriksaan format saja tidak membuktikan bahwa alamat tersebut benar-benar aktif.
+
+Berkas memungkinkan data bertahan setelah program ditutup. Berkas teks menyimpan karakter yang dapat dibaca, sedangkan format biner menyimpan data dalam representasi tertentu. Saat membaca atau menulis berkas, program perlu menangani kemungkinan berkas tidak ditemukan, akses ditolak, ruang penyimpanan penuh, atau isi yang rusak.
+
+Data terstruktur seperti JSON sering digunakan untuk pertukaran informasi. Data perlu diurai sesuai aturan format. Jangan menganggap setiap berkas memiliki struktur yang benar. Validasi diperlukan sebelum data digunakan.
+
+Penyimpanan data juga membutuhkan kebijakan pencadangan. Salinan cadangan membantu pemulihan ketika perangkat rusak atau data terhapus. Cadangan harus dijaga keamanannya, terutama jika memuat informasi pribadi.
+
+RANGKUMAN BAB 10
+• Input berasal dari berbagai sumber dan perlu divalidasi.
+• Output menyampaikan hasil pemrosesan.
+• Berkas menyimpan data secara persisten.
+• Penanganan kesalahan dan pencadangan merupakan bagian dari pengelolaan data.
+
+BAB 11. PENGUJIAN DAN PERBAIKAN KESALAHAN
+
+Kesalahan program sering disebut bug. Kesalahan sintaks terjadi ketika kode melanggar aturan bahasa. Kesalahan saat berjalan muncul ketika program dieksekusi, misalnya mencoba membaca berkas yang tidak ada. Kesalahan logika terjadi ketika program berjalan tetapi menghasilkan jawaban yang salah.
+
+Debugging adalah proses menemukan dan memperbaiki penyebab kesalahan. Mulailah dengan mengulang masalah secara konsisten. Catat masukan yang digunakan, langkah yang dilakukan, dan hasil yang muncul. Pesan kesalahan dapat memberi petunjuk, tetapi perlu dibaca bersama konteks kode.
+
+Pengujian unit memeriksa bagian kecil, seperti fungsi penghitung total. Pengujian integrasi memeriksa hubungan antarbagian, misalnya apakah hasil pencarian dapat ditampilkan dengan benar. Pengujian sistem memeriksa aplikasi secara keseluruhan dari sudut pandang pengguna.
+
+Kasus uji sebaiknya mencakup nilai normal, batas minimum, batas maksimum, nilai kosong, format salah, dan data yang tidak biasa. Untuk fungsi penjumlahan, uji angka positif, nol, angka negatif jika diperbolehkan, serta nilai besar sesuai batas tipe data.
+
+Pengujian regresi dilakukan setelah perubahan untuk memastikan fitur yang sebelumnya berjalan tidak rusak. Setiap bug penting yang telah diperbaiki sebaiknya memiliki kasus uji agar kesalahan yang sama tidak mudah muncul kembali.
+
+Jangan menutupi kesalahan dengan mengabaikan semua pengecualian. Penanganan kesalahan harus spesifik dan memberi informasi yang cukup tanpa membocorkan data rahasia. Catatan teknis dapat membantu pengembang, sedangkan pesan kepada pengguna perlu sederhana dan aman.
+
+RANGKUMAN BAB 11
+• Kesalahan dapat terjadi pada sintaks, saat program berjalan, atau pada logika.
+• Debugging mencari penyebab, bukan hanya menyembunyikan gejala.
+• Uji nilai normal, batas, kosong, dan tidak valid.
+• Pengujian regresi menjaga fitur lama tetap berfungsi.
+
+BAB 12. EFISIENSI DAN KUALITAS PROGRAM
+
+Program yang benar belum tentu efisien. Efisiensi berkaitan dengan waktu pemrosesan, penggunaan memori, energi, dan kapasitas jaringan. Aplikasi yang memuat seluruh katalog sekaligus mungkin terasa lambat ketika jumlah data bertambah. Memuat data secara bertahap dapat mengurangi beban awal.
+
+Kompleksitas algoritma membantu memperkirakan bagaimana kebutuhan sumber daya bertambah ketika ukuran data meningkat. Jika setiap elemen dibandingkan dengan semua elemen lain, jumlah perbandingan dapat tumbuh jauh lebih cepat daripada jumlah data. Untuk daftar kecil, hal ini mungkin tidak terasa. Pada data besar, pilihan algoritma menjadi penting.
+
+Kualitas perangkat lunak tidak hanya diukur dari kecepatan. Keterbacaan kode, kemudahan pemeliharaan, aksesibilitas, keandalan, keamanan, dan pengalaman pengguna juga penting. Kode yang sedikit lebih panjang tetapi jelas sering lebih baik daripada kode sangat singkat yang sulit dipahami.
+
+Optimasi sebaiknya didasarkan pada pengukuran. Catat bagian yang lambat, ukur dengan data yang mewakili penggunaan nyata, lalu perbaiki bagian yang terbukti menjadi hambatan. Mengoptimasi terlalu dini dapat membuat kode rumit tanpa manfaat berarti.
+
+Antarmuka yang baik memberi umpan balik ketika pekerjaan berlangsung. Jika proses membutuhkan waktu, tampilkan status atau indikator pemuatan. Jika tidak ada hasil, jelaskan bahwa data belum tersedia. Pesan yang informatif mengurangi kebingungan.
+
+RANGKUMAN BAB 12
+• Efisiensi mencakup waktu, memori, energi, dan jaringan.
+• Kompleksitas membantu memperkirakan pertumbuhan beban.
+• Keterbacaan dan kemudahan pemeliharaan adalah bagian dari kualitas.
+• Ukur sebelum mengoptimasi.
+
+BAB 13. KEAMANAN DAN ETIKA PEMROGRAMAN
+
+Program dapat mengelola informasi penting, sehingga keamanan perlu dirancang sejak awal. Prinsip hak akses minimum berarti setiap bagian hanya memperoleh izin yang diperlukan. Aplikasi pembaca buku tidak perlu meminta akses lokasi jika fitur utamanya tidak membutuhkannya.
+
+Data pribadi harus dikumpulkan secara terbatas, digunakan sesuai tujuan, dan dilindungi. Jangan menyimpan kata sandi dalam bentuk teks biasa. Gunakan mekanisme autentikasi dan penyimpanan kredensial yang dirancang untuk keamanan. Rahasia layanan tidak boleh ditanamkan pada aplikasi publik jika dapat digunakan untuk mengakses sumber daya istimewa.
+
+Validasi input juga merupakan bagian keamanan. Data dari pengguna atau jaringan harus dianggap belum tepercaya sampai diperiksa. Hindari menyusun perintah atau kueri dengan menggabungkan teks mentah secara sembarangan. Gunakan parameterisasi dan pustaka yang tepat.
+
+Pembaruan perangkat lunak memperbaiki bug dan celah keamanan. Gunakan dependensi yang masih dipelihara, periksa asal paket, dan hindari menambahkan pustaka tanpa alasan. Catat versi yang digunakan agar masalah dapat ditelusuri.
+
+Etika pemrograman mencakup penghormatan terhadap privasi, aksesibilitas, hak cipta, dan dampak sosial. Jangan membuat fitur yang menipu pengguna, mengambil data tanpa izin, atau menyebarkan informasi keliru. Berikan penjelasan yang jujur mengenai kemampuan dan batas aplikasi.
+
+Kecerdasan buatan dapat membantu menulis atau memeriksa kode, tetapi hasilnya tetap harus ditinjau dan diuji. Kode yang tampak meyakinkan belum tentu benar, aman, atau sesuai kebutuhan. Pengembang bertanggung jawab terhadap perangkat lunak yang diterbitkan.
+
+RANGKUMAN BAB 13
+• Terapkan hak akses minimum.
+• Kumpulkan dan lindungi data pribadi secara bertanggung jawab.
+• Validasi data dan gunakan teknik pemrosesan yang aman.
+• Hormati privasi, hak cipta, dan kebutuhan pengguna.
+• Hasil bantuan AI tetap perlu diperiksa dan diuji.
+
+BAB 14. PROYEK TERPADU UNTUK PEMULA
+
+Proyek: membuat program katalog buku sederhana. Tujuannya adalah menyimpan daftar buku, menampilkan seluruh buku, mencari judul, dan menambahkan buku baru.
+
+Tahap 1 — Rumuskan kebutuhan.
+Data minimal setiap buku adalah kode, judul, penulis, dan kategori. Fitur awal tidak perlu mencakup akun pengguna atau sistem pembayaran. Membatasi ruang lingkup membantu proyek selesai dan dapat diuji.
+
+Tahap 2 — Rancang struktur data.
+Gunakan daftar untuk menyimpan kumpulan buku. Setiap buku dapat direpresentasikan sebagai objek atau peta dengan kunci kode, judul, penulis, dan kategori. Pastikan kode buku tidak duplikat.
+
+Tahap 3 — Susun algoritma.
+Untuk menampilkan buku, telusuri daftar dan tampilkan setiap judul. Untuk mencari, bandingkan kata kunci dengan judul. Untuk menambah, periksa apakah kode sudah digunakan, validasi judul dan penulis, kemudian simpan data baru.
+
+Tahap 4 — Buat pseudocode.
+
+MULAI
+  daftarBuku = daftar kosong
+  ULANGI
+    tampilkan menu
+    baca pilihan
+    JIKA pilihan = 1
+      tampilkan seluruh buku
+    JIKA pilihan = 2
+      baca kata kunci
+      cari buku yang cocok
+      tampilkan hasil
+    JIKA pilihan = 3
+      baca data buku
+      validasi data
+      JIKA kode belum digunakan
+        tambahkan buku
+      JIKA TIDAK
+        tampilkan pesan kode sudah ada
+    JIKA pilihan = 0
+      akhiri program
+  SAMPAI pilihan = 0
+SELESAI
+
+Tahap 5 — Rancang pengujian.
+Uji katalog kosong, satu buku, banyak buku, judul dengan huruf besar dan kecil, kata kunci yang tidak ditemukan, kode duplikat, serta data yang kosong. Tentukan perilaku pencarian sebelum implementasi, misalnya apakah pencarian mengabaikan perbedaan huruf besar dan kecil.
+
+Tahap 6 — Tingkatkan secara bertahap.
+Setelah fitur dasar berjalan, tambahkan penyimpanan berkas, pengurutan judul, penyaringan kategori, dan tampilan yang lebih baik. Setiap fitur baru perlu diuji tanpa merusak fitur lama.
+
+Tahap 7 — Dokumentasikan.
+Jelaskan tujuan program, cara menjalankan, format data, batasan, dan cara melaporkan masalah. Dokumentasi membantu orang lain menggunakan serta mengembangkan proyek.
+
+REFLEKSI PROYEK
+• Apakah setiap fitur memiliki tujuan yang jelas?
+• Apakah masukan yang tidak valid ditangani?
+• Apakah pencarian memberi hasil yang konsisten?
+• Apakah data tetap tersedia setelah program ditutup jika penyimpanan berkas diterapkan?
+• Apakah informasi pribadi dilindungi?
+
+LAMPIRAN A. ISTILAH PENTING
+
+Algoritma: urutan langkah terbatas untuk menyelesaikan masalah.
+Array: struktur data yang menyimpan elemen dalam urutan.
+Boolean: tipe data dengan dua nilai logika.
+Bug: kesalahan pada perangkat lunak.
+Debugging: proses menemukan dan memperbaiki kesalahan.
+Dekomposisi: pemecahan masalah menjadi bagian kecil.
+Fungsi: bagian program bernama yang menjalankan tugas.
+Input: data yang diterima program.
+Loop: struktur untuk menjalankan instruksi berulang.
+Output: hasil yang diberikan program.
+Parameter: nilai masukan yang diterima fungsi.
+Pseudocode: penulisan logika program dengan bahasa terstruktur yang tidak terikat sintaks tertentu.
+String: tipe data untuk teks.
+Variabel: nama yang merujuk pada nilai.
+
+LAMPIRAN B. LATIHAN DAN PEMBAHASAN
+
+1. Sebuah program menerima panjang dan lebar. Apa keluarannya jika tujuan program adalah menghitung luas?
+Pembahasan: keluaran adalah hasil perkalian panjang dengan lebar. Program perlu memeriksa apakah nilai masukan sesuai aturan.
+
+2. Mengapa perulangan membutuhkan kondisi berhenti?
+Pembahasan: tanpa kondisi berhenti yang dapat dicapai, instruksi dapat berjalan terus dan menghabiskan sumber daya.
+
+3. Struktur data apa yang cocok untuk mencari data anggota berdasarkan nomor unik?
+Pembahasan: peta atau dictionary dapat digunakan untuk menghubungkan nomor unik dengan data anggota, selama kunci dikelola dengan benar.
+
+4. Apa perbedaan kesalahan sintaks dan kesalahan logika?
+Pembahasan: kesalahan sintaks melanggar aturan bahasa sehingga kode tidak dapat diproses sebagaimana mestinya. Kesalahan logika membuat program menghasilkan hasil yang tidak sesuai meskipun dapat berjalan.
+
+5. Sebutkan empat jenis kasus uji untuk program katalog.
+Pembahasan: katalog kosong, pencarian yang cocok, pencarian tanpa hasil, serta penambahan dengan kode duplikat. Masukan kosong dan data dalam jumlah besar juga layak diuji.
+
+GLOSARIUM
+
+Abstraksi — pemilihan informasi penting untuk menyederhanakan masalah.
+Array — kumpulan elemen yang tersusun.
+Dekomposisi — pembagian masalah menjadi bagian lebih kecil.
+Ekspresi — gabungan nilai dan operator yang menghasilkan nilai.
+Flowchart — diagram untuk menggambarkan alur proses.
+Input — masukan bagi program.
+Iterasi — satu putaran proses perulangan.
+Kompleksitas — ukuran pertumbuhan kebutuhan sumber daya algoritma.
+Logika — aturan penalaran untuk menentukan hasil atau keputusan.
+Output — keluaran program.
+Pseudocode — representasi algoritma dengan bahasa terstruktur.
+Validasi — pemeriksaan kesesuaian data atau tindakan terhadap aturan.
+
+DAFTAR BACAAN DAN RUJUKAN KONSEPTUAL
+
+• Python Software Foundation. Python Tutorial dan dokumentasi resmi bahasa Python. https://docs.python.org/3/tutorial/
+• MDN Web Docs. JavaScript Guide. https://developer.mozilla.org/docs/Web/JavaScript/Guide
+• Computer Science Unplugged. Materi pengenalan ilmu komputer melalui aktivitas. https://www.csunplugged.org/
+• CS50. Materi pengantar ilmu komputer dari Harvard University. https://cs50.harvard.edu/x/
+• OWASP Foundation. OWASP Top 10: kategori risiko keamanan aplikasi web. https://owasp.org/www-project-top-ten/
+
+Catatan: daftar bacaan digunakan sebagai rujukan konseptual untuk pembaca yang ingin mendalami topik. Naskah ini merupakan materi orisinal Tim Edukasi Nexty Studio dan bukan salinan dari sumber-sumber tersebut.
+
+PENUTUP
+
+Pemrograman bukan sekadar menghafal perintah bahasa tertentu. Intinya adalah memahami masalah, merancang langkah yang masuk akal, menguji hasil, dan memperbaiki kekurangan. Bahasa serta alat dapat berubah, tetapi kemampuan berpikir terstruktur tetap berguna.
+
+Mulailah dari masalah kecil yang dekat dengan kehidupan sehari-hari. Buat rancangan, tulis pseudocode, implementasikan, lalu uji dengan berbagai masukan. Simpan catatan tentang hal yang berhasil dan hal yang perlu diperbaiki. Dengan latihan yang konsisten dan sikap bertanggung jawab, pembaca dapat berkembang dari pengguna teknologi menjadi pembuat solusi digital.

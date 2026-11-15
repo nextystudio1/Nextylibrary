@@ -1,0 +1,289 @@
+GEOGRAFI INDONESIA DAN DUNIA
+Memahami Ruang, Alam, Penduduk, Wilayah, dan Pembangunan
+Penulis: Tim Edukasi Nexty Studio
+Edisi pertama, 2026
+
+PENGANTAR
+Geografi mempelajari persamaan dan perbedaan gejala di permukaan bumi serta hubungan manusia dengan lingkungannya. Geografi menggabungkan peta, pengamatan lapangan, data kependudukan, ilmu kebumian, dan analisis wilayah. Buku ini mengajak pembaca memahami Indonesia dan dunia melalui konsep ruang, lingkungan, penduduk, kota, serta pembangunan berkelanjutan.
+
+DAFTAR ISI
+1. Geografi sebagai Ilmu Keruangan
+2. Peta, Skala, dan Sistem Informasi Geografis
+3. Bentuk Muka Bumi dan Proses Geologi
+4. Cuaca, Iklim, dan Atmosfer
+5. Perairan dan Siklus Hidrologi
+6. Tanah, Vegetasi, dan Bioma
+7. Kependudukan dan Persebaran Penduduk
+8. Permukiman, Kota, dan Desa
+9. Sumber Daya dan Kegiatan Ekonomi
+10. Indonesia sebagai Negara Kepulauan
+11. Bencana dan Pengurangan Risiko
+12. Globalisasi dan Keterhubungan Wilayah
+13. Pembangunan Berkelanjutan
+14. Penelitian Geografi dan Literasi Data
+Lampiran: Glosarium, Latihan, Proyek Pemetaan
+
+BAB 1. GEOGRAFI SEBAGAI ILMU KERUANGAN
+Geografi mengkaji lokasi, persebaran, pola, interaksi, dan perubahan fenomena di permukaan bumi. Pertanyaan geografi tidak hanya menanyakan apa yang terjadi, tetapi juga di mana, mengapa di tempat tersebut, bagaimana hubungannya dengan tempat lain, dan apa dampaknya.
+
+Pendekatan keruangan mempelajari pola lokasi dan jarak. Pendekatan ekologi mengkaji hubungan manusia dengan lingkungan. Pendekatan kompleks wilayah membandingkan dan menghubungkan beberapa wilayah yang memiliki ciri berbeda. Ketiganya dapat digunakan bersama untuk memahami masalah nyata.
+
+Lokasi absolut ditentukan oleh koordinat, sedangkan lokasi relatif menjelaskan posisi terhadap tempat lain. Jarak dapat berupa jarak lurus, jarak jaringan jalan, waktu tempuh, atau biaya perjalanan. Jarak yang dirasakan masyarakat tidak selalu sama dengan jarak geometris.
+
+Skala geografi dapat berkisar dari lingkungan sekitar hingga global. Masalah lokal seperti banjir dapat dipengaruhi perubahan tata guna lahan di hulu dan kebijakan pada tingkat wilayah yang lebih luas. Memahami skala membantu menghindari kesimpulan yang terlalu sempit.
+
+RANGKUMAN
+• Geografi mempelajari pola dan hubungan keruangan.
+• Lokasi absolut berbeda dari lokasi relatif.
+• Fenomena lokal dapat berkaitan dengan proses regional dan global.
+LATIHAN
+Pilih satu masalah di lingkungan sekitar dan susun empat pertanyaan geografi tentang lokasi, penyebab, hubungan, serta dampaknya.
+
+BAB 2. PETA, SKALA, DAN SISTEM INFORMASI GEOGRAFIS
+Peta adalah representasi permukaan bumi atau bagian darinya pada bidang datar. Karena bumi melengkung, proyeksi peta selalu menimbulkan jenis distorsi tertentu, misalnya pada luas, bentuk, jarak, atau arah. Tidak ada satu proyeksi yang sempurna untuk semua tujuan.
+
+Skala menunjukkan perbandingan jarak pada peta dengan jarak sebenarnya. Skala 1:100.000 berarti satu satuan pada peta mewakili 100.000 satuan yang sama di lapangan. Peta skala besar menampilkan wilayah lebih kecil dengan detail lebih banyak dibanding peta skala kecil.
+
+Peta yang baik memiliki judul, legenda, skala, orientasi, sumber data, dan informasi koordinat bila diperlukan. Simbol harus konsisten dan mudah dipahami. Warna tidak boleh menjadi satu-satunya pembeda informasi penting agar peta tetap terbaca oleh beragam pengguna.
+
+Sistem Informasi Geografis (SIG) mengelola data yang memiliki komponen lokasi. Lapisan data dapat memuat jalan, sungai, elevasi, penggunaan lahan, atau persebaran fasilitas. Analisis tumpang susun membantu melihat hubungan antarvariabel. Hasil SIG bergantung pada mutu, tanggal, skala, dan ketelitian data.
+
+Penginderaan jauh memperoleh informasi permukaan bumi tanpa kontak langsung, misalnya melalui satelit atau pesawat. Citra dapat membantu memantau perubahan tutupan lahan, kebakaran, banjir, dan kondisi pesisir. Interpretasi harus mempertimbangkan resolusi, awan, waktu perekaman, serta validasi lapangan.
+
+RANGKUMAN
+• Peta menyederhanakan permukaan bumi untuk tujuan tertentu.
+• Skala memengaruhi tingkat detail.
+• SIG dan penginderaan jauh membantu analisis wilayah.
+LATIHAN
+Jika jarak pada peta 4 cm dengan skala 1:50.000, berapa jarak sebenarnya dalam kilometer?
+
+BAB 3. BENTUK MUKA BUMI DAN PROSES GEOLOGI
+Permukaan bumi dibentuk oleh proses dari dalam dan luar bumi. Tenaga endogen mencakup tektonisme, vulkanisme, dan gempa. Tenaga eksogen mencakup pelapukan, erosi, gerakan massa, dan sedimentasi. Bentang alam merupakan hasil interaksi proses-proses tersebut selama waktu panjang.
+
+Litosfer terdiri atas bagian kerak dan mantel paling atas yang kaku. Lempeng tektonik bergerak perlahan di atas bagian mantel yang lebih mudah mengalami deformasi. Interaksi lempeng dapat berupa saling menjauh, bertumbukan, atau bergeser. Batas lempeng berkaitan dengan pembentukan pegunungan, palung laut, gunung api, dan gempa.
+
+Indonesia berada di kawasan pertemuan beberapa lempeng tektonik sehingga memiliki aktivitas geologi tinggi. Gunung api dapat membentuk tanah subur dan sumber daya panas bumi, tetapi letusan dapat menimbulkan bahaya. Risiko bergantung pada karakter letusan, jarak, kondisi lereng, dan kesiapsiagaan.
+
+Pelapukan memecah atau mengubah batuan. Erosi memindahkan material oleh air, angin, es, atau gravitasi. Sedimentasi mengendapkan material di tempat lain. Vegetasi dapat mengurangi erosi permukaan, sedangkan perubahan tutupan lahan dapat meningkatkan kerentanan lereng.
+
+RANGKUMAN
+• Bentuk muka bumi dibentuk tenaga endogen dan eksogen.
+• Pergerakan lempeng menjelaskan banyak proses geologi.
+• Pengelolaan lahan memengaruhi erosi dan kestabilan lereng.
+LATIHAN
+Bedakan pelapukan, erosi, dan sedimentasi. Berikan satu contoh masing-masing.
+
+BAB 4. CUACA, IKLIM, DAN ATMOSFER
+Atmosfer adalah lapisan gas yang menyelimuti bumi. Cuaca menggambarkan keadaan atmosfer pada waktu dan tempat tertentu, sedangkan iklim merupakan pola statistik cuaca dalam jangka panjang. Unsur cuaca meliputi suhu, tekanan udara, kelembapan, angin, awan, dan curah hujan.
+
+Pemanasan permukaan bumi tidak merata karena perbedaan sudut datang cahaya, sifat permukaan, dan distribusi daratan serta lautan. Perbedaan suhu dapat menimbulkan perbedaan tekanan yang menggerakkan udara. Uap air yang naik dan mendingin dapat mengalami kondensasi membentuk awan.
+
+Indonesia memiliki iklim tropis dengan variasi musim yang dipengaruhi angin muson, kondisi laut, topografi, dan fenomena iklim regional. Pola musim tidak selalu sama setiap tahun. El Niño dan La Niña dapat memengaruhi distribusi hujan dan suhu di berbagai wilayah, tetapi dampaknya berbeda menurut lokasi dan musim.
+
+Perubahan iklim jangka panjang berkaitan dengan perubahan keseimbangan energi bumi. Peningkatan gas rumah kaca akibat aktivitas manusia merupakan penyebab utama pemanasan global modern. Dampak dapat mencakup kenaikan suhu, perubahan pola hujan, kenaikan muka laut, dan peningkatan risiko cuaca ekstrem tertentu.
+
+RANGKUMAN
+• Cuaca adalah kondisi jangka pendek, iklim adalah pola jangka panjang.
+• Atmosfer dan lautan mengatur distribusi energi.
+• Perubahan iklim memengaruhi banyak wilayah dengan cara berbeda.
+LATIHAN
+Mengapa satu hari yang dingin tidak membantah adanya pemanasan global?
+
+BAB 5. PERAIRAN DAN SIKLUS HIDROLOGI
+Air bergerak melalui siklus hidrologi. Energi Matahari mendorong penguapan, tumbuhan melepaskan uap air melalui transpirasi, uap mengalami kondensasi, lalu air kembali ke permukaan sebagai presipitasi. Sebagian air mengalir di permukaan, sebagian meresap menjadi air tanah, dan sebagian tersimpan dalam es atau danau.
+
+Daerah aliran sungai adalah wilayah yang mengalirkan air menuju satu sistem sungai. Kondisi hulu, kemiringan lereng, tutupan vegetasi, jenis tanah, dan penggunaan lahan memengaruhi debit serta kualitas air di hilir. Pengelolaan DAS perlu melibatkan seluruh wilayah aliran, bukan hanya daerah yang mengalami banjir.
+
+Air tanah tersimpan dalam pori batuan dan sedimen. Akuifer dapat memasok sumur dan mata air. Pengambilan air tanah berlebihan dapat menurunkan muka air tanah dan pada wilayah pesisir meningkatkan risiko intrusi air asin. Perlindungan daerah resapan membantu menjaga ketersediaan air.
+
+Laut memengaruhi iklim, menyediakan sumber pangan, menjadi jalur transportasi, dan mendukung keanekaragaman hayati. Terumbu karang, mangrove, dan padang lamun memiliki fungsi ekologis penting. Pencemaran, penangkapan berlebihan, dan kerusakan habitat mengancam ekosistem pesisir.
+
+RANGKUMAN
+• Air terus bergerak melalui siklus hidrologi.
+• DAS menghubungkan kondisi hulu dan hilir.
+• Ekosistem pesisir melindungi keanekaragaman dan kehidupan masyarakat.
+LATIHAN
+Jelaskan bagaimana penebangan vegetasi di hulu dapat memengaruhi banjir di hilir.
+
+BAB 6. TANAH, VEGETASI, DAN BIOMA
+Tanah terbentuk melalui pelapukan batuan dan penambahan bahan organik selama waktu panjang. Tanah terdiri atas mineral, bahan organik, air, udara, dan organisme. Tekstur tanah dipengaruhi perbandingan pasir, debu, dan liat. Struktur dan kandungan organik memengaruhi kemampuan tanah menyimpan air dan mendukung tumbuhan.
+
+Vegetasi dipengaruhi suhu, curah hujan, tanah, topografi, dan gangguan alam. Bioma adalah wilayah luas dengan pola iklim dan komunitas organisme khas, seperti hutan hujan tropis, savana, gurun, padang rumput, dan tundra. Batas bioma tidak selalu tegas dan dapat berubah.
+
+Indonesia memiliki hutan hujan tropis, hutan musim, savana, rawa gambut, mangrove, serta ekosistem pegunungan. Setiap ekosistem memiliki jenis tumbuhan dan satwa yang beradaptasi dengan kondisi setempat. Gambut menyimpan karbon dalam jumlah besar, sehingga pengeringan dan kebakaran dapat melepaskan emisi yang tinggi.
+
+Perubahan penggunaan lahan memengaruhi kesuburan tanah, siklus air, dan habitat. Pertanian berkelanjutan dapat mencakup penutup tanah, rotasi tanaman, pengelolaan bahan organik, dan pengendalian erosi. Praktik yang tepat bergantung pada kondisi lokal.
+
+RANGKUMAN
+• Tanah terbentuk melalui proses fisik, kimia, dan biologis.
+• Bioma berkaitan erat dengan iklim.
+• Ekosistem Indonesia sangat beragam.
+LATIHAN
+Bandingkan hutan hujan tropis dan savana dari segi curah hujan, vegetasi, dan adaptasi organisme.
+
+BAB 7. KEPENDUDUKAN DAN PERSEBARAN PENDUDUK
+Geografi penduduk mempelajari jumlah, persebaran, komposisi, dan perubahan penduduk. Data sensus, survei, dan pencatatan sipil digunakan untuk memahami dinamika penduduk. Setiap sumber memiliki cakupan, waktu, dan keterbatasan berbeda.
+
+Pertumbuhan penduduk dipengaruhi kelahiran, kematian, dan migrasi. Struktur umur dapat digambarkan melalui piramida penduduk. Wilayah dengan proporsi usia muda besar memiliki kebutuhan layanan pendidikan dan kesempatan kerja yang berbeda dari wilayah dengan proporsi lansia tinggi.
+
+Persebaran penduduk tidak merata. Faktor yang memengaruhi antara lain sejarah permukiman, kesempatan ekonomi, akses transportasi, kondisi fisik, dan kebijakan. Kepadatan penduduk adalah jumlah penduduk per satuan luas, tetapi tidak selalu menunjukkan bagaimana penduduk tersebar di dalam wilayah.
+
+Migrasi dapat bersifat sementara atau permanen, internal atau internasional. Faktor pendorong dan penarik saling berinteraksi. Migrasi dapat memberi peluang ekonomi dan pertukaran pengetahuan, tetapi juga menimbulkan tantangan integrasi sosial, perumahan, dan layanan publik.
+
+RANGKUMAN
+• Penduduk berubah melalui kelahiran, kematian, dan migrasi.
+• Struktur umur memengaruhi kebutuhan layanan.
+• Kepadatan rata-rata tidak menggambarkan seluruh pola persebaran.
+LATIHAN
+Mengapa dua kabupaten dengan kepadatan penduduk sama dapat memiliki kebutuhan infrastruktur berbeda?
+
+BAB 8. PERMUKIMAN, KOTA, DAN DESA
+Permukiman berkembang ketika manusia menetap untuk memenuhi kebutuhan hidup. Lokasi permukiman dipengaruhi ketersediaan air, tanah, keamanan, akses, dan kegiatan ekonomi. Pola permukiman dapat memanjang mengikuti jalan atau sungai, mengelompok, atau tersebar.
+
+Kota memiliki konsentrasi penduduk dan kegiatan nonpertanian yang relatif tinggi. Kota menjadi pusat layanan, perdagangan, pendidikan, dan pemerintahan. Pertumbuhan kota dapat memperluas wilayah terbangun ke daerah sekitarnya. Proses ini disebut perluasan perkotaan dan dapat mengubah lahan pertanian serta daerah resapan.
+
+Desa dan kota saling terhubung melalui arus barang, tenaga kerja, layanan, informasi, dan modal. Desa bukan wilayah yang selalu tertinggal; banyak desa memiliki peran penting dalam pangan, konservasi, pariwisata, dan industri lokal. Hubungan desa-kota dapat saling menguntungkan jika akses dan manfaat tersebar adil.
+
+Perencanaan kota berkelanjutan memperhatikan transportasi umum, ruang terbuka, drainase, perumahan layak, aksesibilitas, dan pengurangan polusi. Kota yang tangguh perlu melibatkan warga dalam pengambilan keputusan dan menggunakan data yang transparan.
+
+RANGKUMAN
+• Pola permukiman dipengaruhi faktor fisik dan sosial.
+• Desa dan kota saling bergantung.
+• Perencanaan kota perlu mempertimbangkan akses, lingkungan, dan risiko.
+LATIHAN
+Sebutkan tiga manfaat dan tiga tantangan pertumbuhan kota yang cepat.
+
+BAB 9. SUMBER DAYA DAN KEGIATAN EKONOMI
+Sumber daya alam dapat dikelompokkan berdasarkan kemampuan pulih dan ketersediaannya. Sumber daya terbarukan dapat pulih dalam skala waktu manusia jika dikelola dengan baik, seperti hutan dan perikanan. Sumber daya tak terbarukan terbentuk dalam waktu geologi panjang, seperti minyak bumi dan mineral tertentu.
+
+Kegiatan ekonomi meliputi produksi, distribusi, dan konsumsi. Lokasi industri dipengaruhi bahan baku, tenaga kerja, pasar, transportasi, energi, dan kebijakan. Perubahan teknologi dan jaringan logistik dapat mengubah keunggulan lokasi.
+
+Indonesia memiliki sumber daya mineral, energi, pertanian, kehutanan, dan kelautan. Pemanfaatannya dapat mendukung kesejahteraan, tetapi juga menimbulkan dampak lingkungan dan sosial jika tidak dikelola secara bertanggung jawab. Nilai ekonomi jangka pendek perlu dibandingkan dengan biaya pemulihan dan kehilangan jasa ekosistem.
+
+Konsep keunggulan komparatif menjelaskan mengapa wilayah dapat memperoleh manfaat dari spesialisasi dan perdagangan. Namun, ketergantungan pada satu komoditas membuat wilayah rentan terhadap perubahan harga. Diversifikasi ekonomi dan peningkatan keterampilan dapat memperkuat ketahanan.
+
+RANGKUMAN
+• Sumber daya perlu dikelola sesuai kemampuan pulihnya.
+• Lokasi kegiatan ekonomi dipengaruhi banyak faktor.
+• Diversifikasi membantu mengurangi ketergantungan ekonomi.
+LATIHAN
+Mengapa daerah yang bergantung pada satu komoditas dapat rentan terhadap perubahan pasar?
+
+BAB 10. INDONESIA SEBAGAI NEGARA KEPULAUAN
+Indonesia merupakan negara kepulauan dengan ribuan pulau, garis pantai panjang, dan masyarakat yang beragam. Laut menjadi penghubung antarpulau sekaligus ruang hidup bagi perikanan, transportasi, perdagangan, dan kebudayaan. Kondisi kepulauan menimbulkan peluang dan tantangan konektivitas.
+
+Letak geografis Indonesia berada di antara Benua Asia dan Australia serta Samudra Hindia dan Pasifik. Posisi ini berpengaruh pada jalur perdagangan, interaksi budaya, dan dinamika maritim. Secara astronomis, Indonesia berada di wilayah tropis dan memiliki pembagian zona waktu.
+
+Keragaman relief, iklim lokal, tanah, dan ekosistem menghasilkan variasi kegiatan ekonomi. Pertanian lahan basah, perkebunan, perikanan, pariwisata, dan industri berkembang sesuai kondisi wilayah. Kebijakan pembangunan perlu memperhatikan kebutuhan lokal dan keterhubungan antardaerah.
+
+Ketimpangan akses dapat terjadi antara pusat pertumbuhan dan wilayah terpencil. Infrastruktur transportasi, komunikasi, pendidikan, kesehatan, dan energi dapat memperkuat keterhubungan jika direncanakan dengan memperhatikan lingkungan dan kebutuhan masyarakat setempat.
+
+RANGKUMAN
+• Laut adalah penghubung utama wilayah kepulauan.
+• Letak Indonesia membentuk peluang maritim dan perdagangan.
+• Pembangunan perlu menyesuaikan keragaman wilayah.
+LATIHAN
+Jelaskan dua peluang dan dua tantangan Indonesia sebagai negara kepulauan.
+
+BAB 11. BENCANA DAN PENGURANGAN RISIKO
+Bencana terjadi ketika bahaya bertemu dengan paparan dan kerentanan sehingga menimbulkan dampak serius. Bahaya alam seperti gempa, tsunami, banjir, longsor, kekeringan, dan letusan gunung api tidak selalu menjadi bencana jika paparan dan kerentanan rendah.
+
+Risiko dapat dikurangi melalui pemetaan bahaya, tata ruang, bangunan yang sesuai standar, sistem peringatan dini, pendidikan, latihan evakuasi, dan perlindungan ekosistem. Peta risiko harus menggunakan data yang sesuai dan diperbarui. Informasi dari lembaga resmi lebih dapat diandalkan untuk keputusan keselamatan.
+
+Kesiapsiagaan keluarga dan sekolah meliputi mengetahui jalur evakuasi, titik kumpul, kontak darurat, dan cara memperoleh informasi resmi. Saat terjadi keadaan darurat, ikuti instruksi petugas dan jangan menyebarkan kabar yang belum diverifikasi.
+
+Perubahan iklim dapat mengubah risiko beberapa bahaya, misalnya panas ekstrem, hujan lebat, dan kenaikan muka laut. Namun, setiap bencana memiliki penyebab dan mekanisme khusus. Analisis risiko harus menggabungkan faktor alam, tata ruang, infrastruktur, dan kondisi sosial.
+
+RANGKUMAN
+• Bencana dipengaruhi bahaya, paparan, dan kerentanan.
+• Pengurangan risiko dilakukan sebelum bencana.
+• Informasi keselamatan harus berasal dari sumber resmi.
+LATIHAN
+Apa perbedaan bahaya dan risiko? Berikan contoh bagaimana tata ruang dapat mengurangi risiko banjir.
+
+BAB 12. GLOBALISASI DAN KETERHUBUNGAN WILAYAH
+Globalisasi meningkatkan keterhubungan melalui perdagangan, transportasi, teknologi informasi, migrasi, dan pertukaran budaya. Barang yang digunakan sehari-hari dapat melewati banyak negara sebelum sampai kepada konsumen. Rantai pasok menghubungkan produsen bahan baku, pabrik, gudang, pelabuhan, dan pasar.
+
+Keterhubungan memberi akses pada pasar, pengetahuan, dan peluang kerja. Namun, gangguan pada satu simpul jaringan dapat berdampak luas. Ketergantungan pada pemasok tunggal atau jalur transportasi tertentu dapat meningkatkan kerentanan.
+
+Arus informasi bergerak cepat, tetapi tidak semua informasi akurat. Peta digital dan media sosial dapat membantu memahami wilayah, tetapi data lokasi dapat memiliki bias, keterlambatan, dan kesalahan. Literasi geografis digital mencakup pemeriksaan sumber, tanggal, skala, dan konteks.
+
+Globalisasi budaya dapat memperluas pertukaran bahasa, makanan, musik, dan gagasan. Pada saat yang sama, masyarakat perlu menjaga warisan budaya dan memastikan manfaat ekonomi tidak hanya terkonsentrasi pada kelompok tertentu.
+
+RANGKUMAN
+• Wilayah terhubung melalui arus barang, manusia, modal, dan informasi.
+• Jaringan global menciptakan peluang sekaligus kerentanan.
+• Data digital harus diperiksa sumber dan konteksnya.
+LATIHAN
+Pilih satu barang yang digunakan sehari-hari. Buat peta sederhana kemungkinan perjalanan bahan baku hingga sampai ke pengguna.
+
+BAB 13. PEMBANGUNAN BERKELANJUTAN
+Pembangunan berkelanjutan berupaya memenuhi kebutuhan saat ini tanpa mengurangi kemampuan generasi mendatang memenuhi kebutuhannya. Konsep ini menghubungkan dimensi ekonomi, sosial, dan lingkungan. Keberhasilan tidak cukup diukur dari pertumbuhan ekonomi saja.
+
+Tujuan Pembangunan Berkelanjutan mencakup pengurangan kemiskinan, kesehatan, pendidikan, kesetaraan, air bersih, energi, pekerjaan layak, kota berkelanjutan, konsumsi bertanggung jawab, dan perlindungan ekosistem. Tujuan-tujuan tersebut saling berhubungan dan dapat memiliki pertukaran kepentingan.
+
+Perencanaan wilayah perlu mempertimbangkan daya dukung dan daya tampung lingkungan. Daya dukung berkaitan dengan kemampuan lingkungan menyediakan sumber daya, sedangkan daya tampung berkaitan dengan kemampuan menerima limbah atau tekanan tanpa kerusakan yang tidak dapat diterima.
+
+Indikator pembangunan harus jelas, terukur, dan transparan. Data rata-rata dapat menyembunyikan kesenjangan antarkelompok atau antardaerah. Pemetaan akses pendidikan, kesehatan, air, dan transportasi membantu mengidentifikasi wilayah yang membutuhkan perhatian.
+
+RANGKUMAN
+• Pembangunan berkelanjutan menghubungkan ekonomi, sosial, dan lingkungan.
+• Daya dukung dan daya tampung perlu diperhatikan.
+• Data terpilah membantu melihat ketimpangan.
+LATIHAN
+Buat tiga indikator untuk menilai keberlanjutan sebuah kota dan jelaskan cara mengukurnya.
+
+BAB 14. PENELITIAN GEOGRAFI DAN LITERASI DATA
+Penelitian geografi dimulai dengan pertanyaan tentang lokasi, pola, hubungan, atau perubahan. Peneliti menentukan wilayah kajian, unit analisis, sumber data, metode pengumpulan, dan cara analisis. Pertanyaan yang jelas membantu memilih data yang tepat.
+
+Data primer dapat dikumpulkan melalui observasi, wawancara dengan persetujuan, atau pengukuran lapangan. Data sekunder berasal dari sensus, peta, laporan, dan basis data. Setiap data memiliki tanggal, definisi, cakupan, dan keterbatasan. Data penduduk dari tahun berbeda tidak boleh dibandingkan tanpa memperhatikan perubahan metode.
+
+Pemetaan lapangan harus memperhatikan privasi. Jangan mempublikasikan alamat rumah, identitas, atau lokasi sensitif seseorang tanpa izin. Foto dan wawancara memerlukan persetujuan. Pengamatan lingkungan dapat dilakukan dari ruang publik dan tanpa merusak habitat.
+
+Visualisasi data membantu komunikasi. Peta choropleth menggunakan warna untuk menunjukkan nilai per wilayah, tetapi kelas dan rentang warna dapat memengaruhi kesan. Grafik harus memiliki judul, satuan, sumber, dan periode. Hindari menyimpulkan sebab-akibat hanya dari korelasi spasial.
+
+Proyek pembelajaran: petakan fasilitas umum di sekitar sekolah menggunakan data yang tersedia secara terbuka. Kelompokkan fasilitas menurut jenis, hitung jarak secara umum, dan bahas wilayah yang mungkin memiliki akses lebih terbatas. Jangan mencatat data pribadi.
+
+RANGKUMAN
+• Pertanyaan penelitian menentukan metode dan data.
+• Data harus diperiksa tanggal, definisi, dan kualitasnya.
+• Privasi dan etika berlaku dalam pemetaan.
+LATIHAN
+Rancang penelitian sederhana tentang akses ruang terbuka hijau di lingkungan tempat tinggal. Tentukan pertanyaan, data, dan batasan penelitian.
+
+LAMPIRAN A. GLOSARIUM
+Akuifer: lapisan batuan atau sedimen yang menyimpan dan mengalirkan air tanah.
+Atmosfer: lapisan gas yang menyelimuti bumi.
+Bioma: wilayah luas dengan pola iklim dan komunitas organisme khas.
+DAS: wilayah yang mengalirkan air menuju satu sistem sungai.
+Daya dukung: kemampuan lingkungan mendukung kehidupan dan kegiatan.
+Erosi: pemindahan material oleh air, angin, es, atau gravitasi.
+Geografi: kajian pola dan hubungan fenomena di permukaan bumi.
+Iklim: pola statistik cuaca dalam jangka panjang.
+Peta: representasi permukaan bumi pada bidang datar.
+Penginderaan jauh: pengumpulan informasi tanpa kontak langsung.
+SIG: sistem untuk mengelola dan menganalisis data berlokasi.
+Skala: perbandingan jarak peta dan jarak sebenarnya.
+
+LAMPIRAN B. LATIHAN DAN PEMBAHASAN
+1. Skala 1:50.000 berarti 4 cm mewakili 200.000 cm atau 2 km.
+2. Pelapukan memecah atau mengubah batuan; erosi memindahkan material; sedimentasi mengendapkannya.
+3. Cuaca dingin satu hari adalah kondisi sesaat dan tidak mewakili tren iklim jangka panjang.
+4. Vegetasi hulu menahan tanah, meningkatkan infiltrasi, dan mengurangi limpasan cepat; hilangnya vegetasi dapat memperbesar aliran permukaan.
+5. Kepadatan sama tidak berarti persebaran, bentuk wilayah, usia penduduk, dan akses layanan sama.
+6. Kota memberi peluang pekerjaan dan layanan, tetapi pertumbuhan cepat dapat menambah kemacetan, polusi, dan tekanan perumahan.
+7. Ketergantungan komoditas membuat pendapatan wilayah terpengaruh perubahan harga global.
+8. Laut menghubungkan pulau, tetapi jarak, cuaca, dan biaya transportasi menjadi tantangan.
+9. Bahaya adalah potensi kejadian merusak; risiko mempertimbangkan paparan dan kerentanan.
+10. Pembangunan berkelanjutan harus menilai ekonomi, sosial, dan lingkungan bersama.
+
+DAFTAR RUJUKAN KONSEPTUAL
+• Badan Informasi Geospasial (BIG), informasi dan referensi geospasial Indonesia.
+• Badan Pusat Statistik (BPS), data kependudukan dan wilayah.
+• BMKG, informasi cuaca, iklim, dan gempa bumi.
+• BNPB, edukasi pengurangan risiko bencana.
+• United Nations, Sustainable Development Goals.
+Naskah disusun secara orisinal oleh Tim Edukasi Nexty Studio; lembaga tersebut dicantumkan sebagai rujukan konseptual untuk belajar lebih lanjut.
+
+PENUTUP
+Geografi membantu memahami bahwa tempat tidak berdiri sendiri. Bentang alam, iklim, penduduk, ekonomi, dan kebijakan saling berhubungan. Dengan peta dan data yang digunakan secara kritis, kita dapat mengambil keputusan yang lebih baik untuk masyarakat dan lingkungan.

@@ -1,0 +1,64 @@
+KIMIA DASAR: MATERI DAN PERUBAHANNYA
+Mengenal Zat dari Tingkat Atom
+Tim Pengetahuan Nexty Studio
+Edisi 2026
+
+PENGANTAR
+Kimia mempelajari komposisi, struktur, sifat, dan perubahan materi. Udara, air, makanan, obat, bahan bangunan, dan baterai melibatkan proses kimia. Buku ini memperkenalkan konsep dasar tanpa percobaan berbahaya.
+
+BAB 1 — MATERI DAN PENGUKURANNYA
+Materi adalah segala sesuatu yang memiliki massa dan menempati ruang. Materi dapat berupa zat murni atau campuran. Zat murni memiliki komposisi tertentu, sedangkan campuran terdiri atas dua atau lebih zat yang bergabung secara fisik.
+Unsur adalah zat yang tersusun dari satu jenis atom. Senyawa terbentuk dari dua atau lebih unsur yang berikatan dalam perbandingan tertentu. Air murni merupakan senyawa yang tersusun dari hidrogen dan oksigen.
+Campuran homogen memiliki komposisi seragam pada skala pengamatan, seperti larutan garam. Campuran heterogen memiliki bagian yang dapat dibedakan, seperti pasir dalam air.
+Sifat fisika dapat diamati tanpa mengubah identitas kimia zat, misalnya warna, massa jenis, dan titik leleh. Sifat kimia berkaitan dengan kemampuan zat mengalami reaksi, misalnya mudah terbakar atau bereaksi dengan zat lain.
+
+BAB 2 — ATOM DAN TABEL PERIODIK
+Atom merupakan unit dasar unsur. Atom tersusun atas inti yang mengandung proton dan neutron, serta elektron yang berada pada daerah di sekitar inti.
+Nomor atom menunjukkan jumlah proton. Pada atom netral, jumlah elektron sama dengan jumlah proton. Nomor massa merupakan jumlah proton dan neutron.
+Isotop adalah atom dari unsur yang sama dengan jumlah neutron berbeda. Karena jumlah protonnya sama, isotop memiliki nomor atom yang sama tetapi massa berbeda.
+Tabel periodik mengatur unsur berdasarkan nomor atom dan pola sifat. Kolom disebut golongan dan baris disebut periode. Unsur dalam golongan tertentu sering memiliki pola sifat kimia yang mirip.
+Tabel periodik membantu memperkirakan sifat unsur, tetapi perilaku zat juga bergantung pada struktur dan kondisi reaksi.
+
+BAB 3 — IKATAN DAN STRUKTUR ZAT
+Atom dapat berikatan untuk mencapai susunan yang lebih stabil. Ikatan ion terbentuk melalui tarik-menarik antara ion bermuatan berlawanan. Ikatan kovalen melibatkan pemakaian bersama pasangan elektron.
+Ikatan logam menjelaskan keterikatan atom logam dengan elektron yang dapat bergerak di antara banyak atom. Model ini membantu menjelaskan daya hantar listrik dan sifat mudah ditempa pada banyak logam.
+Bentuk molekul memengaruhi sifat zat. Distribusi muatan yang tidak merata dapat menghasilkan molekul polar. Kepolaran berpengaruh pada interaksi antarmolekul dan kelarutan.
+Sifat suatu bahan tidak cukup dipahami hanya dari rumus kimia. Susunan partikel, jenis ikatan, dan gaya antarmolekul juga penting.
+
+BAB 4 — REAKSI KIMIA
+Reaksi kimia mengubah susunan atom menjadi zat baru. Dalam persamaan reaksi, pereaksi ditulis di sisi kiri dan produk di sisi kanan.
+Persamaan reaksi harus setara karena atom tidak diciptakan atau dimusnahkan dalam reaksi kimia biasa. Jumlah setiap jenis atom di kedua sisi harus sama.
+Contoh sederhana adalah pembentukan air dari hidrogen dan oksigen. Persamaan setaranya: 2H2 + O2 → 2H2O.
+Tanda reaksi dapat meliputi perubahan warna, terbentuknya gas, endapan, atau perubahan suhu. Namun, satu tanda saja tidak selalu cukup untuk memastikan reaksi kimia.
+Laju reaksi dipengaruhi konsentrasi, suhu, luas permukaan, dan katalis. Katalis mempercepat reaksi dengan menyediakan jalur reaksi alternatif dan tidak habis secara keseluruhan.
+
+BAB 5 — ASAM, BASA, DAN LARUTAN
+Larutan adalah campuran homogen antara pelarut dan zat terlarut. Konsentrasi menyatakan banyaknya zat terlarut dalam jumlah larutan atau pelarut tertentu.
+Asam dan basa dapat dijelaskan dengan beberapa teori. Dalam pengantar larutan air, asam meningkatkan konsentrasi ion hidrogen, sedangkan basa meningkatkan konsentrasi ion hidroksida atau menerima proton menurut teori yang lebih luas.
+Skala pH digunakan untuk menyatakan tingkat keasaman larutan berair. Pada kondisi standar tertentu, pH 7 bersifat netral; nilai lebih rendah bersifat asam dan lebih tinggi bersifat basa.
+Indikator dapat berubah warna sesuai kondisi larutan. Pengukuran pH sebaiknya memakai alat atau indikator yang sesuai. Jangan mencicipi atau mencampur bahan rumah tangga untuk menguji sifat kimianya.
+
+BAB 6 — KIMIA, LINGKUNGAN, DAN KESELAMATAN
+Kimia membantu mengembangkan material, pengolahan air, obat, pupuk, dan teknologi energi. Namun, bahan kimia juga dapat menimbulkan risiko jika digunakan atau dibuang tanpa pengelolaan.
+Baca label dan petunjuk keselamatan produk. Jangan mencampur produk pembersih rumah tangga karena dapat menghasilkan gas atau reaksi berbahaya. Praktik laboratorium harus mengikuti arahan guru dan prosedur keselamatan.
+Kimia hijau berupaya merancang produk dan proses yang mengurangi limbah, penggunaan energi, serta bahan berbahaya. Pencegahan pencemaran lebih baik daripada hanya menangani limbah setelah terbentuk.
+Pemahaman kimia membantu masyarakat menilai klaim produk dan lingkungan berdasarkan bukti, bukan sekadar istilah ilmiah pada kemasan.
+
+LATIHAN DAN PEMBAHASAN
+1. Apa perbedaan unsur dan senyawa? Jawaban: unsur terdiri dari satu jenis atom; senyawa mengandung unsur berbeda yang berikatan.
+2. Apa yang ditunjukkan nomor atom? Jawaban: jumlah proton.
+3. Mengapa persamaan reaksi harus setara? Jawaban: jumlah atom setiap unsur harus sama di kedua sisi.
+4. Apa fungsi katalis? Jawaban: mempercepat reaksi melalui jalur alternatif.
+5. Mengapa bahan pembersih tidak boleh dicampur sembarangan? Jawaban: campuran dapat menghasilkan reaksi atau gas berbahaya.
+
+GLOSARIUM
+Atom: unit dasar unsur.
+Unsur: zat dengan satu jenis atom.
+Senyawa: zat dari unsur berbeda yang berikatan.
+Isotop: atom unsur sama dengan neutron berbeda.
+Molekul: kumpulan atom yang terikat.
+Katalis: zat yang mempercepat reaksi tanpa habis secara keseluruhan.
+Larutan: campuran homogen.
+
+CATATAN PENULIS
+Materi ini untuk pembelajaran konsep. Jangan melakukan eksperimen kimia tanpa fasilitas, bahan, dan pengawasan yang tepat.

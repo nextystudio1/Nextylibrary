@@ -134,3 +134,37 @@ PERTANYAAN PEMAHAMAN
 2. Mengapa cicilan bulanan kecil belum tentu murah? Tenor, bunga, biaya, dan total pembayaran dapat membuat jumlah akhir besar.
 3. Apa hasil bersih? Hasil setelah biaya, pajak, dan faktor relevan diperhitungkan.
 4. Sebutkan dua tanda bahaya penipuan. Janji hasil pasti tinggi tanpa risiko dan tekanan untuk segera mentransfer uang.
+
+
+
+BAB LANJUTAN — BUNGA, CICILAN, DAN BIAYA TOTAL
+
+Bunga sederhana dihitung berdasarkan pokok awal selama periode tertentu. Bunga majemuk dihitung atas pokok dan bunga yang telah terkumpul. Karena dasar perhitungannya berbeda, hasil keduanya dapat semakin berjauhan seiring waktu. Periksa apakah suku bunga dinyatakan per bulan atau per tahun dan apakah ada biaya tambahan.
+
+Cicilan perlu dinilai dari total pembayaran, bukan hanya jumlah per periode. Biaya administrasi, denda keterlambatan, asuransi, dan perubahan suku bunga dapat memengaruhi jumlah akhir. Sebelum menyetujui kontrak keuangan, baca syarat dan mintalah penjelasan dari orang dewasa tepercaya bila ada bagian yang tidak dipahami.
+
+Diskon juga perlu dihitung dengan teliti. Diskon bertingkat tidak selalu sama dengan menjumlahkan persentasenya. Harga akhir bergantung pada dasar setiap diskon dan biaya lain. Bandingkan harga total dari beberapa pilihan dengan satuan yang setara.
+
+STUDI KASUS
+
+Sebuah barang memiliki harga awal dan dua pilihan pembayaran. Buat tabel yang membandingkan pembayaran langsung dengan cicilan hipotetis, termasuk biaya total. Jelaskan asumsi dan jangan menggunakan data layanan nyata tanpa memeriksa ketentuannya.
+
+EVALUASI
+1. Apa perbedaan bunga sederhana dan majemuk?
+2. Mengapa cicilan perlu dibandingkan berdasarkan total pembayaran?
+3. Apa yang harus diperiksa pada suku bunga?
+4. Mengapa dua diskon bertingkat tidak selalu dapat dijumlahkan langsung?
+5. Apa risiko menandatangani kontrak yang tidak dipahami?
+
+PEMBAHASAN
+1. Sederhana dihitung dari pokok awal; majemuk dari pokok dan bunga terkumpul.
+2. Biaya tambahan dapat membuat total jauh berbeda dari cicilan per bulan.
+3. Periode, sifat tetap/berubah, metode perhitungan, dan biaya.
+4. Diskon kedua biasanya diterapkan pada harga setelah diskon pertama.
+5. Dapat menimbulkan kewajiban dan biaya yang tidak dipahami.
+
+GLOSARIUM
+Pokok: jumlah awal yang dipinjam atau disimpan.
+Bunga sederhana: bunga berdasarkan pokok awal.
+Cicilan: pembayaran berkala untuk melunasi kewajiban.
+Biaya total: keseluruhan pembayaran termasuk biaya tambahan.

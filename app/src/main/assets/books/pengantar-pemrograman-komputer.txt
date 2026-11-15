@@ -77,3 +77,22 @@ Debugging: proses menemukan dan memperbaiki kesalahan.
 
 CATATAN PENULIS
 Contoh dalam buku menggunakan pseudocode agar konsep dapat dipelajari tanpa bergantung pada satu bahasa. Praktikkan konsep menggunakan lingkungan belajar yang aman dan tepercaya.
+
+
+PENDALAMAN — MERANCANG PROGRAM YANG TERUJI
+BAB 7 — FUNGSI DAN PEMECAHAN MASALAH
+Fungsi mengelompokkan instruksi untuk tugas tertentu. Fungsi yang baik memiliki tujuan jelas, masukan yang terdefinisi, dan keluaran yang dapat dipahami. Pemecahan masalah dilakukan dengan membagi tugas besar menjadi bagian kecil, menyelesaikan tiap bagian, lalu menggabungkannya. Pendekatan ini disebut dekomposisi.
+BAB 8 — STRUKTUR DATA DASAR
+Variabel menyimpan nilai, sedangkan struktur data mengatur kumpulan nilai. Array atau daftar menyimpan urutan elemen; peta atau kamus menghubungkan kunci dengan nilai. Pemilihan struktur data memengaruhi cara data diakses dan diubah. Struktur sederhana yang sesuai sering lebih mudah dirawat daripada rancangan rumit yang belum diperlukan.
+BAB 9 — KESALAHAN DAN DEBUGGING
+Kesalahan sintaks terjadi ketika aturan bahasa dilanggar. Kesalahan saat berjalan muncul ketika program dieksekusi, sedangkan kesalahan logika menghasilkan keluaran yang tidak sesuai tujuan. Debugging dimulai dengan membuat ulang masalah, membaca pesan kesalahan, mempersempit bagian yang bermasalah, dan menguji perubahan kecil. Catat kondisi yang memicu kesalahan.
+BAB 10 — PENGUJIAN PROGRAM
+Pengujian memeriksa apakah program memenuhi kebutuhan. Kasus uji normal memeriksa masukan umum; kasus batas memeriksa nilai minimum, maksimum, kosong, atau tidak biasa. Pengujian unit memeriksa bagian kecil, sedangkan pengujian integrasi memeriksa hubungan antarkomponen. Hasil yang lolos pada beberapa contoh tidak membuktikan program bebas dari semua kesalahan.
+BAB 11 — DATA, PRIVASI, DAN KEAMANAN
+Program dapat memproses data pribadi. Kumpulkan hanya data yang diperlukan, jelaskan tujuannya, batasi akses, dan lindungi penyimpanan. Jangan menaruh kata sandi atau kunci rahasia di kode publik. Validasi masukan dan tangani kesalahan secara aman. Keamanan merupakan bagian dari desain sejak awal, bukan tambahan setelah program selesai.
+BAB 12 — KOLABORASI DAN PEMELIHARAAN
+Proyek perangkat lunak sering dikerjakan bersama. Sistem kendali versi membantu mencatat perubahan dan menggabungkan kontribusi. Pesan commit sebaiknya menjelaskan perubahan; dokumentasi menjelaskan cara menjalankan dan menguji program. Kode yang mudah dibaca, konsisten, dan memiliki pengujian lebih mudah dipelihara.
+LATIHAN
+1. Apa manfaat fungsi? Jawaban: mengelompokkan tugas, mengurangi pengulangan, dan memudahkan pengujian.
+2. Apa beda kesalahan sintaks dan logika? Jawaban: sintaks melanggar aturan bahasa; logika membuat hasil salah meskipun program berjalan.
+3. Mengapa kasus batas penting? Jawaban: kesalahan sering muncul pada nilai ekstrem atau masukan kosong.

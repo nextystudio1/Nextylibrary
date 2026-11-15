@@ -82,3 +82,31 @@ LATIHAN
 1. Mengapa diskon 20 persen lalu 10 persen bukan diskon 30 persen? Jawaban: diskon kedua diterapkan pada harga yang sudah berkurang.
 2. Apa beda nilai nominal dan riil? Jawaban: nilai riil telah memperhitungkan perubahan tingkat harga.
 3. Mengapa median dapat lebih tepat daripada rata-rata? Jawaban: median lebih tahan terhadap nilai ekstrem.
+
+PENDALAMAN LANJUTAN: PERENCANAAN KEUANGAN DAN PENGAMBILAN KEPUTUSAN
+BAB 7 — ANGGARAN DAN ARUS KAS
+Anggaran mencatat pemasukan dan pengeluaran selama periode tertentu. Pengeluaran tetap seperti biaya rutin berbeda dari pengeluaran variabel yang berubah menurut penggunaan. Catatan arus kas membantu melihat apakah pengeluaran sesuai kemampuan.
+Anggaran bukan hukuman, melainkan alat untuk membuat prioritas. Tinjau secara berkala dan sesuaikan ketika pendapatan atau kebutuhan berubah. Sisihkan ruang untuk pengeluaran tak terduga.
+BAB 8 — TABUNGAN DAN BUNGA
+Bunga sederhana dihitung dari pokok awal, sedangkan bunga majemuk menghitung bunga atas pokok dan bunga yang telah terkumpul. Frekuensi penggandaan memengaruhi hasil akhir. Perbandingan produk harus memperhatikan suku bunga efektif, biaya, pajak, dan ketentuan penarikan.
+Nilai uang di masa depan berbeda dari nilai saat ini karena waktu dan peluang penggunaan dana. Kalkulasi harus menggunakan periode dan satuan bunga yang konsisten.
+BAB 9 — INFLASI DAN DAYA BELI
+Inflasi mengurangi daya beli ketika harga umum naik. Tabungan yang menghasilkan bunga di bawah inflasi dapat mengalami penurunan daya beli riil meskipun saldo nominal bertambah.
+Bandingkan hasil investasi setelah memperhitungkan inflasi, biaya, dan pajak. Jangan menganggap hasil masa lalu menjamin hasil masa depan.
+BAB 10 — UTANG DAN BIAYA PEMBIAYAAN
+Utang adalah kewajiban yang harus dibayar sesuai perjanjian. Sebelum mengambil pembiayaan, pahami jumlah pokok, bunga atau margin, biaya administrasi, denda, jangka waktu, dan konsekuensi keterlambatan.
+Angsuran yang tampak kecil dapat menjadi mahal jika jangka waktu panjang atau biaya tambahan besar. Bandingkan total pembayaran dan kemampuan membayar dalam berbagai kondisi.
+BAB 11 — RISIKO, ASURANSI, DAN DANA DARURAT
+Risiko keuangan dapat berasal dari kehilangan pendapatan, kerusakan aset, atau kebutuhan mendadak. Dana darurat membantu menghadapi kejadian tak terencana tanpa harus mengambil utang mahal. Besarnya dana disesuaikan dengan kondisi rumah tangga dan kestabilan pendapatan.
+Asuransi memindahkan sebagian risiko sesuai polis. Periksa pengecualian, masa tunggu, batas pertanggungan, premi, dan prosedur klaim. Produk harus dipahami sebelum dibeli.
+BAB 12 — INVESTASI DAN DIVERSIFIKASI
+Investasi memiliki hubungan antara potensi hasil, risiko, likuiditas, dan jangka waktu. Diversifikasi menyebarkan dana ke beberapa aset agar ketergantungan pada satu aset berkurang, tetapi tidak menghapus seluruh risiko.
+Waspadai janji keuntungan pasti tinggi, tekanan untuk segera transfer, dan skema yang tidak transparan. Periksa legalitas penyedia melalui otoritas resmi dan jangan menggunakan uang kebutuhan pokok untuk spekulasi.
+BAB 13 — TUJUAN KEUANGAN DAN EVALUASI
+Tujuan yang jelas memiliki nilai, jangka waktu, dan prioritas. Pisahkan tujuan jangka pendek dan panjang karena instrumen yang sesuai dapat berbeda. Tinjau rencana ketika kondisi keluarga berubah.
+Keputusan keuangan yang baik memperhitungkan kebutuhan, kemampuan, dan risiko, bukan mengikuti tren atau tekanan sosial. Catatan yang rapi membantu mengevaluasi apakah rencana berjalan.
+LATIHAN PENDALAMAN
+1. Apa beda bunga sederhana dan majemuk? Jawaban: bunga sederhana dihitung dari pokok awal; majemuk juga memperhitungkan bunga yang terkumpul.
+2. Mengapa saldo tabungan bisa naik tetapi daya beli turun? Jawaban: jika inflasi lebih tinggi daripada hasil tabungan.
+3. Apa yang perlu diperiksa sebelum mengambil utang? Jawaban: total pembayaran, biaya, bunga, tenor, denda, dan kemampuan membayar.
+4. Apakah diversifikasi menghilangkan risiko? Jawaban: tidak, tetapi dapat mengurangi ketergantungan pada satu aset.

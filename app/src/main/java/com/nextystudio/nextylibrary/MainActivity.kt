@@ -6,6 +6,8 @@ import android.media.AudioFormat
 import android.media.AudioTrack
 import android.os.Bundle
 import androidx.activity.ComponentActivity
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.LifecycleEventObserver
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -202,8 +204,19 @@ private fun MusicPlayerCard() {
     val player = remember { AmbientMusicPlayer() }
     var playing by remember { mutableStateOf(false) }
     var volume by remember { mutableFloatStateOf(0.45f) }
-    DisposableEffect(player) {
-        onDispose { player.release() }
+    val activity = LocalContext.current as? ComponentActivity
+    DisposableEffect(player, activity) {
+        val observer = LifecycleEventObserver { _, event ->
+            if (event == Lifecycle.Event.ON_STOP) {
+                player.pause()
+                playing = false
+            }
+        }
+        activity?.lifecycle?.addObserver(observer)
+        onDispose {
+            activity?.lifecycle?.removeObserver(observer)
+            player.release()
+        }
     }
     Card(
         modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 13.dp),

@@ -135,3 +135,32 @@ LATIHAN
 2. Apa syarat invers menjadi fungsi? Fungsi satu-satu pada domain yang dipakai.
 3. Apa beda barisan dan deret? Barisan adalah urutan; deret adalah jumlah suku.
 4. Mengapa model divalidasi? Untuk menguji kesesuaian asumsi dan hasil dengan kenyataan.
+
+
+
+BAB LANJUTAN — FUNGSI KUADRAT DAN PEMODELAN
+
+Fungsi kuadrat memiliki bentuk umum f(x) = ax² + bx + c dengan a tidak sama dengan nol. Grafiknya berupa parabola. Tanda koefisien a menentukan arah buka parabola: jika positif, terbuka ke atas; jika negatif, terbuka ke bawah. Titik puncak menunjukkan nilai minimum atau maksimum pada grafik.
+
+Akar fungsi kuadrat adalah nilai x yang membuat f(x) = 0. Akar dapat dicari melalui pemfaktoran, melengkapkan kuadrat, atau rumus kuadrat. Tidak semua fungsi memiliki dua akar real berbeda; kemungkinan lain adalah satu akar kembar atau tidak memiliki akar real.
+
+Model kuadrat dapat digunakan untuk menggambarkan lintasan ideal benda yang dilempar atau hubungan tertentu dalam ekonomi dan sains. Model hanya berlaku dengan asumsi tertentu. Misalnya, lintasan proyektil sederhana mengabaikan hambatan udara dan menganggap percepatan gravitasi konstan.
+
+EVALUASI
+1. Bagaimana tanda a memengaruhi arah parabola?
+2. Apa arti akar fungsi?
+3. Sebutkan tiga cara menyelesaikan persamaan kuadrat.
+4. Apa arti titik puncak?
+5. Mengapa model lintasan ideal memiliki keterbatasan?
+
+PEMBAHASAN
+1. a positif terbuka ke atas; a negatif terbuka ke bawah.
+2. Nilai x yang membuat fungsi bernilai nol.
+3. Pemfaktoran, melengkapkan kuadrat, dan rumus kuadrat.
+4. Titik maksimum atau minimum parabola.
+5. Hambatan udara dan kondisi nyata dapat berbeda dari asumsi model.
+
+GLOSARIUM
+Parabola: grafik fungsi kuadrat.
+Akar: nilai masukan yang menghasilkan keluaran nol.
+Titik puncak: titik maksimum atau minimum pada parabola.

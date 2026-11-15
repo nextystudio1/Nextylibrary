@@ -108,3 +108,22 @@ LATIHAN PENDALAMAN
 2. Apa beda momentum dan energi kinetik? Jawaban: momentum besaran vektor, energi kinetik besaran skalar.
 3. Apa arti daya? Jawaban: laju melakukan usaha atau memindahkan energi.
 4. Mengapa satuan harus konsisten? Jawaban: agar persamaan dan hasil perhitungan bermakna secara fisik.
+
+PENDALAMAN KUANTITATIF DAN PENERAPAN FISIKA
+BAB 14 — GERAK ROTASI
+Gerak rotasi menggambarkan perubahan sudut terhadap waktu. Kecepatan sudut dan percepatan sudut berhubungan dengan besaran linear melalui jari-jari. Momen inersia bergantung pada distribusi massa terhadap sumbu. Torsi merupakan kecenderungan gaya menghasilkan rotasi dan bergantung pada gaya serta lengan momennya.
+BAB 15 — KEKEKALAN ENERGI DAN EFISIENSI
+Energi tidak diciptakan atau dimusnahkan dalam sistem tertutup, tetapi berpindah dan berubah bentuk. Dalam proses nyata, sebagian energi mekanik tersebar sebagai energi termal atau bunyi sehingga tidak seluruhnya dapat digunakan untuk tujuan awal. Efisiensi membandingkan keluaran berguna dengan masukan; batas sistem dan definisi keluaran harus dijelaskan.
+BAB 16 — SUHU, KALOR, DAN PERPINDAHAN
+Suhu berkaitan dengan keadaan termal, sedangkan kalor adalah energi yang berpindah karena perbedaan suhu. Kalor berpindah melalui konduksi, konveksi, dan radiasi. Kapasitas kalor dan kalor jenis menentukan perubahan suhu untuk energi tertentu. Perubahan fase dapat menyerap atau melepas energi tanpa perubahan suhu pada kondisi ideal.
+BAB 17 — LISTRIK DAN MAGNET
+Muatan menghasilkan medan listrik, sedangkan arus adalah laju aliran muatan. Beda potensial menyediakan energi per satuan muatan. Medan magnet berkaitan dengan muatan bergerak dan arus. Induksi elektromagnetik menjelaskan timbulnya gaya gerak listrik ketika fluks magnet berubah, menjadi dasar generator dan transformator.
+BAB 18 — OPTIKA DAN PEMBENTUKAN BAYANGAN
+Cahaya dapat dipantulkan dan dibiaskan. Hukum pemantulan menyatakan sudut datang sama dengan sudut pantul; pembiasan mengikuti hubungan indeks bias dan sudut. Lensa mengubah arah sinar untuk membentuk bayangan nyata atau maya. Diagram sinar membantu menentukan sifat bayangan, sementara aberasi membuat alat nyata berbeda dari model ideal.
+BAB 19 — KETIDAKPASTIAN EKSPERIMEN
+Pengukuran memiliki ketidakpastian akibat resolusi alat, kalibrasi, lingkungan, dan variasi pengamat. Ulangi pengukuran bila memungkinkan, laporkan nilai dan ketidakpastian, serta bedakan kesalahan acak dari sistematis. Hasil berbeda dari teori menjadi alasan memeriksa asumsi, bukan mengubah data.
+LATIHAN
+1. Apa yang memengaruhi momen inersia? Distribusi massa terhadap sumbu rotasi.
+2. Apa beda suhu dan kalor? Suhu menggambarkan keadaan termal; kalor adalah energi yang berpindah karena beda suhu.
+3. Sebutkan tiga cara perpindahan kalor. Konduksi, konveksi, dan radiasi.
+4. Mengapa ketidakpastian harus dilaporkan? Agar batas ketelitian hasil dapat dinilai.

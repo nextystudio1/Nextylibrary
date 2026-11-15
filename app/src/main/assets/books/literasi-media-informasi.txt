@@ -108,3 +108,19 @@ LATIHAN PENDALAMAN
 2. Mengapa jumlah suka bukan bukti kebenaran? Jawaban: interaksi menunjukkan respons pengguna, bukan validitas klaim.
 3. Apa yang perlu diperiksa pada grafik? Jawaban: sumbu, satuan, periode, sumber, dan metode pengumpulan data.
 4. Mengapa koreksi perlu dilakukan terbuka? Jawaban: agar pembaca mengetahui perubahan dan dapat memperbarui pemahamannya.
+
+PENDALAMAN VERIFIKASI DAN ETIKA INFORMASI
+BAB 14 — MEMERIKSA FOTO DAN VIDEO
+Foto atau video dapat dipotong, diberi keterangan keliru, atau diunggah ulang dengan konteks berbeda. Periksa sumber pertama yang dapat ditemukan, tanggal, lokasi, petunjuk visual, dan apakah media pernah muncul dalam peristiwa lain. Pencarian gambar terbalik membantu menemukan kemunculan sebelumnya, tetapi bukan bukti final. Cocokkan dengan laporan independen dan keterangan tepercaya.
+BAB 15 — MEMAHAMI ANGKA DAN GRAFIK
+Periksa judul, sumber, satuan, rentang waktu, ukuran sampel, dan cara pengumpulan data. Grafik dapat memberi kesan perubahan besar jika sumbu dimulai bukan dari nol atau interval tidak konsisten. Persentase harus disertai pembaginya. Bedakan jumlah absolut dengan tingkat per kapita.
+BAB 16 — ALGORITMA DAN RUANG GEMA
+Platform digital menyusun urutan konten memakai sinyal seperti interaksi, relevansi, dan preferensi. Sistem rekomendasi membantu menemukan informasi, tetapi dapat mempersempit paparan jika pengguna hanya melihat konten serupa. Cari sumber beragam dan telusuri topik secara langsung. Perbedaan pendapat tidak berarti semua klaim memiliki kekuatan bukti sama.
+BAB 17 — PRIVASI DAN JEJAK DIGITAL
+Unggahan, komentar, lokasi, dan data penggunaan membentuk jejak digital. Sebelum membagikan informasi, pertimbangkan siapa yang dapat melihat, berapa lama data tersimpan, dan apakah orang lain dalam konten telah memberi persetujuan. Gunakan kata sandi unik dan autentikasi berlapis; waspadai tautan pencuri kredensial.
+BAB 18 — DISINFORMASI DAN MANIPULASI
+Disinformasi adalah informasi salah yang disebarkan dengan maksud menyesatkan; misinformasi dibagikan tanpa niat tersebut. Malinformasi menggunakan informasi nyata dengan cara merugikan atau keluar konteks. Sebelum meneruskan pesan, periksa klaim utama, cari sumber asli, dan lihat apakah koreksi telah diterbitkan. Jika belum terverifikasi, jangan sebarkan sebagai fakta.
+BAB 19 — MENYUSUN PRODUK INFORMASI
+Laporan, infografik, dan presentasi menyatakan tujuan, audiens, sumber, tanggal, dan batas data. Gunakan bahasa yang tidak memelintir hasil dan beri atribusi materi pihak lain. Jika terjadi kesalahan, koreksi terbuka dan jelaskan bagian yang berubah.
+LATIHAN
+Pilih lima klaim dari pesan viral. Untuk tiap klaim, catat sumber pertama, bukti pendukung, bukti bertentangan, tanggal, dan status verifikasi. Tandai klaim yang belum dapat dipastikan.

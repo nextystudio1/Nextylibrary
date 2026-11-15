@@ -133,3 +133,31 @@ LATIHAN PENDALAMAN
 5. Mengapa token rahasia tidak boleh ditanam di aplikasi publik? Jawaban: kode aplikasi dapat diperiksa sehingga token berisiko dicuri dan disalahgunakan.
 GLOSARIUM TAMBAHAN
 Algoritma: urutan langkah untuk menyelesaikan masalah. Debugging: proses menemukan dan memperbaiki kesalahan. Dependensi: pustaka atau komponen yang dibutuhkan program. Kompleksitas: gambaran pertumbuhan kebutuhan sumber daya. Modul: bagian program dengan tanggung jawab tertentu. Pseudocode: uraian algoritma yang menyerupai kode tetapi tidak terikat sintaks bahasa.
+
+PENDALAMAN LANJUTAN: STRUKTUR DATA, KUALITAS, DAN REKAYASA PERANGKAT LUNAK
+BAB 7 — STRUKTUR DATA DASAR
+Array menyimpan kumpulan elemen yang dapat diakses melalui indeks. List dapat menyediakan operasi penambahan dan penghapusan yang lebih fleksibel. Stack mengikuti prinsip terakhir masuk pertama keluar, sedangkan queue mengikuti prinsip pertama masuk pertama keluar.
+Pemilihan struktur data memengaruhi kecepatan operasi dan penggunaan memori. Pilih berdasarkan operasi yang paling sering dilakukan dan ukuran data.
+BAB 8 — FUNGSI, MODULARITAS, DAN RUANG LINGKUP
+Fungsi membungkus pekerjaan tertentu sehingga dapat digunakan ulang. Parameter menerima masukan dan nilai kembali menyampaikan hasil. Ruang lingkup menentukan bagian program yang dapat mengakses variabel.
+Modularitas memudahkan pengujian dan pemeliharaan. Fungsi sebaiknya memiliki tanggung jawab jelas dan tidak bergantung pada keadaan global yang tidak perlu.
+BAB 9 — PENANGANAN KESALAHAN
+Kesalahan sintaks terjadi ketika aturan bahasa dilanggar, kesalahan runtime muncul saat program berjalan, dan kesalahan logika menghasilkan keluaran yang tidak sesuai. Pesan kesalahan perlu dibaca sebagai petunjuk, bukan diabaikan.
+Validasi masukan, penanganan pengecualian, dan pencatatan kejadian membantu program lebih tangguh. Jangan menampilkan informasi rahasia dalam pesan kesalahan kepada pengguna.
+BAB 10 — BERKAS DAN BASIS DATA
+Program dapat membaca dan menulis berkas untuk menyimpan informasi. Format teks sederhana mudah diperiksa, sedangkan format terstruktur seperti JSON memudahkan pertukaran data. Basis data diperlukan ketika data perlu dicari, diperbarui, dan dijaga konsistensinya.
+Selalu periksa kegagalan baca-tulis, encoding, dan izin akses. Buat cadangan data penting dan hindari menyimpan kata sandi dalam teks biasa.
+BAB 11 — ANTARMUKA DAN API
+Antarmuka memungkinkan pengguna berinteraksi dengan program. API memungkinkan program berkomunikasi dengan layanan lain melalui aturan permintaan dan respons. Dokumentasi API harus menjelaskan parameter, format data, autentikasi, dan kemungkinan kesalahan.
+Validasi data dari luar sistem karena masukan dapat salah atau tidak tepercaya. Batasi hak akses sesuai kebutuhan dan lindungi token autentikasi.
+BAB 12 — PENGUJIAN DAN KONTROL VERSI
+Uji unit memeriksa bagian kecil, uji integrasi memeriksa hubungan antarbagian, dan uji sistem menilai aplikasi secara menyeluruh. Kasus uji harus mencakup masukan normal, batas, kosong, dan tidak valid.
+Kontrol versi mencatat perubahan sehingga tim dapat membandingkan, meninjau, dan memulihkan kode. Pesan commit sebaiknya menjelaskan perubahan secara spesifik.
+BAB 13 — KEAMANAN DAN PEMELIHARAAN
+Praktik aman mencakup pembaruan dependensi, validasi masukan, pengelolaan rahasia, pembatasan izin, dan pencadangan. Jangan menganggap aplikasi kecil bebas dari risiko keamanan.
+Pemeliharaan meliputi perbaikan bug, peningkatan kompatibilitas, dokumentasi, dan penghapusan kode yang tidak lagi digunakan. Catat perubahan agar pengguna mengetahui dampaknya.
+LATIHAN PENDALAMAN
+1. Apa beda stack dan queue? Jawaban: stack terakhir masuk pertama keluar; queue pertama masuk pertama keluar.
+2. Mengapa masukan dari pengguna perlu divalidasi? Jawaban: untuk mencegah data salah dan mengurangi risiko penyalahgunaan.
+3. Apa manfaat kontrol versi? Jawaban: melacak perubahan, kolaborasi, peninjauan, dan pemulihan kode.
+4. Mengapa rahasia tidak boleh ditulis langsung dalam kode publik? Jawaban: dapat terekspos dan disalahgunakan.

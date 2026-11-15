@@ -22,7 +22,7 @@ import java.net.URL
 private data class AuthSession(val email: String, val accessToken: String)
 
 @Composable
-fun AccountScreen() {
+fun AccountScreen(onAuthenticated: () -> Unit = {}) {
     var email by remember { mutableStateOf("") }
     var password by remember { mutableStateOf("") }
     var session by remember { mutableStateOf<AuthSession?>(null) }
@@ -98,6 +98,7 @@ fun AccountScreen() {
                                             session = AuthSession(email, result)
                                             password = ""
                                             message = null
+                                            onAuthenticated()
                                         }
                                     } catch (e: Exception) {
                                         message = e.message ?: "Autentikasi gagal. Coba lagi."

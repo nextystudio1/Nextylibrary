@@ -127,3 +127,32 @@ LATIHAN
 2. Apa beda suhu dan kalor? Suhu menggambarkan keadaan termal; kalor adalah energi yang berpindah karena beda suhu.
 3. Sebutkan tiga cara perpindahan kalor. Konduksi, konveksi, dan radiasi.
 4. Mengapa ketidakpastian harus dilaporkan? Agar batas ketelitian hasil dapat dinilai.
+
+
+
+BAB LANJUTAN — MOMENTUM DAN HUKUM KEKEKALAN
+
+Momentum adalah besaran yang berkaitan dengan massa dan kecepatan benda. Untuk gerak lurus, momentum dirumuskan p = mv. Benda bermassa besar atau bergerak cepat memiliki momentum besar. Perubahan momentum berkaitan dengan impuls, yaitu gaya yang bekerja selama selang waktu tertentu.
+
+Pada sistem yang gaya luarnya dapat diabaikan, momentum total sebelum dan sesudah interaksi tetap. Prinsip kekekalan momentum membantu menjelaskan tumbukan dan gerak dorong. Dalam kehidupan sehari-hari, sabuk pengaman dan zona remuk kendaraan dirancang untuk mengelola perubahan momentum dan memperpanjang waktu tumbukan sehingga gaya rata-rata dapat berkurang.
+
+Energi dan momentum merupakan besaran berbeda. Energi berkaitan dengan kemampuan melakukan perubahan, sedangkan momentum berkaitan dengan gerak. Dalam tumbukan, momentum total dapat tetap sementara energi kinetik tidak selalu tetap; sebagian energi dapat berubah menjadi panas, bunyi, atau deformasi.
+
+EVALUASI
+1. Tuliskan hubungan momentum dengan massa dan kecepatan.
+2. Apa yang dimaksud impuls?
+3. Kapan momentum total dapat dianggap kekal?
+4. Mengapa energi kinetik dapat berkurang pada tumbukan tidak lenting?
+5. Bagaimana sabuk pengaman membantu mengurangi risiko cedera?
+
+PEMBAHASAN
+1. p = mv.
+2. Perubahan momentum akibat gaya selama selang waktu.
+3. Ketika resultan gaya luar pada sistem dapat diabaikan.
+4. Sebagian berubah menjadi panas, bunyi, dan deformasi.
+5. Menahan tubuh dan membantu mengatur perubahan gerak dalam tabrakan.
+
+GLOSARIUM
+Momentum: hasil kali massa dan kecepatan.
+Impuls: perubahan momentum akibat gaya selama waktu tertentu.
+Tumbukan lenting: tumbukan yang mempertahankan energi kinetik total ideal.

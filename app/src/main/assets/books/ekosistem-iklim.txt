@@ -229,3 +229,36 @@ LATIHAN PEMAHAMAN
 1. Apa itu pengasaman laut? Jawaban: penurunan pH air laut akibat penyerapan karbon dioksida dan perubahan kimia karbonat.
 2. Mengapa risiko iklim tidak hanya ditentukan bahaya? Jawaban: paparan dan kerentanan juga menentukan besarnya dampak.
 3. Mengapa grafik suhu memerlukan periode dasar? Jawaban: periode dasar memberi acuan untuk menafsirkan anomali dan perbandingan.
+
+
+
+BAB LANJUTAN — PERUBAHAN IKLIM DAN PILIHAN ADAPTASI
+
+Perubahan iklim mengubah peluang dan intensitas berbagai dampak, seperti gelombang panas, hujan ekstrem, kekeringan, dan kenaikan muka laut. Dampak aktual di suatu tempat dipengaruhi kondisi lokal, paparan, kerentanan, serta kemampuan beradaptasi. Tidak setiap kejadian cuaca ekstrem dapat langsung dikaitkan dengan perubahan iklim tanpa analisis atribusi yang sesuai.
+
+Mitigasi bertujuan mengurangi sumber emisi gas rumah kaca atau meningkatkan penyerapannya. Adaptasi bertujuan mengurangi kerugian dan menyesuaikan sistem terhadap dampak yang sudah terjadi atau diperkirakan. Contoh adaptasi meliputi peringatan dini, ruang hijau, pengelolaan air, perlindungan pesisir, dan penyesuaian praktik pertanian.
+
+Kebijakan iklim perlu memperhatikan keadilan. Kelompok yang paling sedikit menyumbang emisi dapat menjadi kelompok yang paling rentan terhadap dampak. Perencanaan sebaiknya melibatkan masyarakat dan mempertimbangkan mata pencaharian, akses layanan, serta pengetahuan lokal.
+
+PROYEK
+
+Pilih satu risiko iklim di wilayah umum, misalnya banjir perkotaan atau kekeringan. Buat matriks bahaya, paparan, kerentanan, dampak, dan pilihan adaptasi. Gunakan data resmi dan hindari mencantumkan lokasi rumah atau informasi pribadi.
+
+EVALUASI
+1. Bedakan mitigasi dan adaptasi.
+2. Mengapa satu kejadian cuaca tidak otomatis membuktikan perubahan iklim?
+3. Apa peran kerentanan dalam risiko iklim?
+4. Sebutkan dua contoh adaptasi.
+5. Mengapa keadilan penting dalam kebijakan iklim?
+
+PEMBAHASAN
+1. Mitigasi mengurangi penyebab; adaptasi mengurangi dampak.
+2. Perlu analisis pola jangka panjang dan atribusi ilmiah.
+3. Kerentanan memengaruhi seberapa besar dampak yang dialami.
+4. Peringatan dini, pengelolaan air, ruang hijau, perlindungan pesisir.
+5. Dampak dan kontribusi emisi tidak terbagi merata.
+
+GLOSARIUM
+Mitigasi iklim: tindakan mengurangi emisi atau meningkatkan penyerapannya.
+Adaptasi iklim: penyesuaian untuk mengurangi dampak perubahan iklim.
+Atribusi: analisis kontribusi faktor tertentu terhadap suatu kejadian.

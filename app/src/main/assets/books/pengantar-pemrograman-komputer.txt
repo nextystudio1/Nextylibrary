@@ -161,3 +161,22 @@ LATIHAN PENDALAMAN
 2. Mengapa masukan dari pengguna perlu divalidasi? Jawaban: untuk mencegah data salah dan mengurangi risiko penyalahgunaan.
 3. Apa manfaat kontrol versi? Jawaban: melacak perubahan, kolaborasi, peninjauan, dan pemulihan kode.
 4. Mengapa rahasia tidak boleh ditulis langsung dalam kode publik? Jawaban: dapat terekspos dan disalahgunakan.
+
+PENDALAMAN REKAYASA PERANGKAT LUNAK
+BAB 14 — STRUKTUR DATA
+Array menyimpan kumpulan elemen yang dapat diakses melalui indeks. List menyediakan operasi penambahan dan penghapusan yang fleksibel. Stack mengikuti prinsip terakhir masuk pertama keluar, sedangkan queue mengikuti prinsip pertama masuk pertama keluar. Pilih struktur data berdasarkan operasi yang sering dilakukan dan ukuran data.
+BAB 15 — FUNGSI DAN MODULARITAS
+Fungsi membungkus pekerjaan tertentu agar dapat digunakan ulang. Parameter menerima masukan dan nilai kembali menyampaikan hasil. Ruang lingkup menentukan bagian program yang dapat mengakses variabel. Fungsi sebaiknya memiliki tanggung jawab jelas dan tidak bergantung pada keadaan global yang tidak perlu.
+BAB 16 — PENANGANAN KESALAHAN
+Kesalahan sintaks terjadi ketika aturan bahasa dilanggar, kesalahan runtime muncul saat program berjalan, dan kesalahan logika menghasilkan keluaran tidak sesuai. Baca pesan kesalahan sebagai petunjuk. Validasi masukan, penanganan pengecualian, dan pencatatan kejadian membantu program lebih tangguh.
+BAB 17 — BERKAS DAN BASIS DATA
+Program membaca dan menulis berkas untuk menyimpan informasi. Format teks mudah diperiksa, sedangkan format terstruktur memudahkan pertukaran data. Basis data diperlukan ketika informasi perlu dicari, diperbarui, dan dijaga konsistensinya. Periksa kegagalan baca-tulis, encoding, izin akses, dan buat cadangan data penting.
+BAB 18 — API DAN KEAMANAN
+API memungkinkan program berkomunikasi dengan layanan lain melalui aturan permintaan dan respons. Dokumentasi menjelaskan parameter, format, autentikasi, dan kesalahan. Validasi data dari luar sistem karena masukan tidak selalu tepercaya. Batasi hak akses dan jangan menulis token rahasia langsung di kode publik.
+BAB 19 — PENGUJIAN DAN PEMELIHARAAN
+Uji unit memeriksa bagian kecil, uji integrasi memeriksa hubungan antarbagian, dan uji sistem menilai aplikasi secara menyeluruh. Kasus uji mencakup masukan normal, batas, kosong, dan tidak valid. Kontrol versi melacak perubahan. Pemeliharaan meliputi perbaikan bug, pembaruan dependensi, kompatibilitas, dokumentasi, dan pencadangan.
+LATIHAN
+1. Apa beda stack dan queue? Stack terakhir masuk pertama keluar; queue pertama masuk pertama keluar.
+2. Mengapa masukan perlu divalidasi? Mencegah data salah dan mengurangi risiko.
+3. Apa manfaat kontrol versi? Melacak, meninjau, dan memulihkan perubahan.
+4. Mengapa rahasia tidak ditulis dalam kode publik? Agar tidak terekspos dan disalahgunakan.

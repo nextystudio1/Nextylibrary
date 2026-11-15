@@ -140,3 +140,22 @@ LATIHAN PENDALAMAN
 2. Mengapa persetujuan partisipan penting? Jawaban: menghormati otonomi, memberi pemahaman risiko, dan melindungi hak peserta.
 3. Mengapa satu penelitian jarang cukup? Jawaban: hasil dapat dipengaruhi sampel, metode, konteks, dan bias.
 4. Apa manfaat catatan analisis? Jawaban: membuat proses dapat ditelusuri, diperiksa, dan diulang.
+
+PENDALAMAN DESAIN DAN PELAPORAN PENELITIAN
+BAB 14 — VARIABEL DAN DEFINISI OPERASIONAL
+Variabel bebas, terikat, dan pengganggu digunakan dalam rancangan tertentu untuk menjelaskan hubungan. Definisi operasional menyebut bagaimana variabel diamati atau diukur. Tidak semua penelitian memakai variabel; penelitian kualitatif dapat menggunakan tema dan kategori yang berkembang selama analisis.
+BAB 15 — VALIDITAS DAN RELIABILITAS
+Validitas berkaitan dengan apakah metode mengukur hal yang dimaksud. Reliabilitas berkaitan dengan konsistensi hasil dalam kondisi sebanding. Alat ukur dapat konsisten tetapi mengukur konsep yang salah. Uji coba instrumen, pemeriksaan ahli, triangulasi, dan pengukuran berulang dapat membantu.
+BAB 16 — ETIKA PENELITIAN
+Penelitian yang melibatkan manusia menghormati persetujuan, privasi, keselamatan, dan hak untuk menolak. Tujuan dan risiko dijelaskan dengan bahasa yang dapat dipahami. Data disimpan aman dan digunakan sesuai tujuan. Jangan merekayasa, menghapus secara selektif, atau mengubah hasil agar sesuai harapan.
+BAB 17 — ANALISIS DAN REPRODUKSIBILITAS
+Analisis mengikuti metode yang dijelaskan. Simpan catatan proses, versi data, kode, dan keputusan pembersihan. Reproduksibilitas berarti orang lain dapat memahami dan, jika data serta kondisi memungkinkan, mengulang analisis. Data terbuka tidak selalu tepat jika mengandung informasi pribadi.
+BAB 18 — MENILAI KEKUATAN BUKTI
+Bukti dinilai menurut desain, kualitas pengukuran, ukuran sampel, konsistensi, dan kemungkinan bias. Satu studi tidak selalu cukup untuk kesimpulan umum. Bedakan bukti kuat, bukti awal, dan dugaan. Ketidakpastian yang dijelaskan lebih ilmiah daripada kepastian tanpa dukungan.
+BAB 19 — MENULIS LAPORAN PENELITIAN
+Laporan menjelaskan latar belakang, pertanyaan, metode, hasil, diskusi, keterbatasan, dan referensi. Pembaca harus dapat menelusuri bagaimana kesimpulan diperoleh. Gunakan bahasa tepat, hindari melebih-lebihkan temuan, dan laporkan konflik kepentingan atau dukungan pendanaan bila ada.
+LATIHAN
+1. Apa beda validitas dan reliabilitas? Ketepatan pengukuran dibanding konsistensinya.
+2. Mengapa persetujuan partisipan penting? Menghormati otonomi dan melindungi hak peserta.
+3. Mengapa satu penelitian jarang cukup? Sampel, metode, konteks, dan bias dapat memengaruhi hasil.
+4. Apa manfaat catatan analisis? Proses dapat ditelusuri, diperiksa, dan diulang.

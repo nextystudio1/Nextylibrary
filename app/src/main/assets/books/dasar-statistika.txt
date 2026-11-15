@@ -1,0 +1,61 @@
+DASAR-DASAR STATISTIKA
+Panduan Memahami Data dan Mengambil Kesimpulan
+Tim Pengetahuan Nexty Studio
+Edisi 2026
+
+KATA PENGANTAR
+Statistika membantu kita membaca informasi dengan lebih cermat. Kita menjumpai angka dalam berita, olahraga, pendidikan, kesehatan masyarakat, dan kegiatan sehari-hari. Buku ini mengenalkan konsep dasar statistika dengan contoh sederhana. Tujuannya bukan sekadar menghitung, melainkan memahami apa yang dapat dan tidak dapat disimpulkan dari data.
+
+BAB 1 — DATA DAN STATISTIKA
+Statistika adalah bidang yang mempelajari cara mengumpulkan, mengatur, menganalisis, dan menafsirkan data. Data merupakan kumpulan fakta atau hasil pengamatan. Contohnya jumlah buku yang dibaca, suhu harian, waktu perjalanan, atau hasil survei.
+Data kuantitatif dinyatakan dengan angka, misalnya tinggi tanaman dalam sentimeter. Data kualitatif berupa kategori, misalnya jenis transportasi atau warna kesukaan. Data diskrit biasanya berupa hitungan bilangan bulat, sedangkan data kontinu dapat mengambil nilai pada suatu rentang.
+Populasi adalah seluruh kelompok yang ingin dipelajari. Sampel adalah sebagian anggota populasi yang dipilih untuk diamati. Sampel yang baik perlu mewakili populasi. Jika hanya mewawancarai teman dekat, hasilnya belum tentu menggambarkan pendapat seluruh siswa.
+Statistika deskriptif merangkum data yang tersedia. Statistika inferensial menggunakan sampel untuk memperkirakan keadaan populasi dengan memperhitungkan ketidakpastian.
+
+BAB 2 — MENGUMPULKAN DAN MENYIAPKAN DATA
+Data dapat dikumpulkan melalui pengukuran, pengamatan, kuesioner, wawancara, atau catatan yang sudah tersedia. Pertanyaan harus jelas dan tidak menggiring jawaban. Responden perlu mengetahui tujuan pengumpulan data dan bagaimana jawabannya digunakan.
+Sebelum dianalisis, periksa data yang kosong, salah ketik, satuan yang berbeda, dan nilai yang tidak masuk akal. Jangan menghapus nilai hanya karena berbeda dari kebanyakan data. Nilai ekstrem bisa saja benar dan penting.
+Contoh: catatan jarak perjalanan berisi 2, 3, 3, 4, dan 30 kilometer. Angka 30 tampak jauh berbeda. Periksa apakah satuannya sama dan apakah pencatatan benar sebelum memutuskan tindakan.
+Buat kamus data sederhana yang menjelaskan nama variabel, satuan, dan arti setiap kode. Simpan data asli agar perubahan dapat ditelusuri.
+
+BAB 3 — TABEL DAN GRAFIK
+Tabel frekuensi menunjukkan berapa kali suatu nilai atau kategori muncul. Grafik batang cocok untuk membandingkan kategori. Grafik garis berguna untuk melihat perubahan dari waktu ke waktu. Histogram memperlihatkan sebaran data numerik yang dikelompokkan ke dalam interval.
+Judul, label sumbu, satuan, dan sumber data harus dicantumkan. Skala grafik perlu dimulai dan diatur secara jujur. Memotong sumbu dapat membuat perbedaan kecil tampak sangat besar. Jangan menggunakan gambar dekoratif yang ukuran atau luasnya menyesatkan.
+Ketika membaca grafik, tanyakan: siapa yang mengumpulkan data, kapan data dikumpulkan, berapa banyak pengamatan, dan apakah ada kelompok yang tidak tercakup?
+
+BAB 4 — RATA-RATA, MEDIAN, DAN MODUS
+Rata-rata diperoleh dengan menjumlahkan semua nilai lalu membaginya dengan banyak pengamatan. Untuk data 4, 5, 5, 6, dan 10, jumlahnya 30 sehingga rata-ratanya 6.
+Median adalah nilai tengah setelah data diurutkan. Pada data 4, 5, 5, 6, 10, mediannya 5. Jika jumlah data genap, median merupakan rata-rata dua nilai tengah.
+Modus adalah nilai yang paling sering muncul. Pada contoh tadi, modusnya 5. Suatu data dapat memiliki lebih dari satu modus atau tidak memiliki modus yang menonjol.
+Rata-rata mudah berubah karena nilai ekstrem. Median sering lebih mewakili pusat data ketika sebaran sangat tidak simetris. Pilih ukuran yang sesuai dengan pertanyaan, bukan yang menghasilkan kesimpulan paling menarik.
+
+BAB 5 — SEBARAN DAN KETIDAKPASTIAN
+Jangkauan adalah nilai terbesar dikurangi nilai terkecil. Pada data 4, 5, 5, 6, 10, jangkauannya 6. Jangkauan mudah dihitung tetapi hanya menggunakan dua nilai.
+Kuartil membagi data terurut menjadi empat bagian. Rentang antarkuartil menggambarkan lebar bagian tengah data dan lebih tahan terhadap nilai ekstrem daripada jangkauan.
+Sampel selalu memiliki keterbatasan. Hasil survei dapat dipengaruhi ukuran sampel, cara pemilihan responden, pertanyaan, dan waktu pengumpulan. Angka perkiraan sebaiknya disertai konteks dan, bila tersedia, rentang ketidakpastian.
+Korelasi berarti dua variabel berubah bersama, tetapi tidak otomatis membuktikan bahwa satu menyebabkan yang lain. Hubungan dapat dipengaruhi faktor ketiga atau kebetulan.
+
+BAB 6 — BERPIKIR KRITIS DENGAN ANGKA
+Saat membaca klaim statistik, periksa pembanding, periode, definisi, dan ukuran sampelnya. Persentase tanpa jumlah dasar dapat menyesatkan. Kenaikan dari 1 menjadi 2 adalah kenaikan 100 persen, tetapi jumlah absolutnya hanya bertambah satu.
+Bedakan perubahan jumlah dengan perubahan persentase. Perhatikan pula apakah data menunjukkan hubungan atau sebab-akibat. Kesimpulan yang baik menyebutkan bukti sekaligus batasannya.
+Etika data meliputi menjaga privasi, meminta persetujuan yang sesuai, menghindari manipulasi grafik, dan tidak menyebarkan informasi pribadi tanpa alasan yang sah.
+
+LATIHAN DAN PEMBAHASAN
+1. Data 2, 4, 4, 5, 10. Berapa rata-ratanya? Jawaban: jumlah 25 dibagi 5, yaitu 5.
+2. Apa median data 3, 8, 2, 5, 7? Jawaban: urutkan menjadi 2, 3, 5, 7, 8; median 5.
+3. Grafik apa yang tepat untuk membandingkan jumlah pengunjung beberapa perpustakaan? Jawaban: grafik batang.
+4. Apakah korelasi membuktikan sebab-akibat? Jawaban: tidak; perlu bukti dan rancangan penelitian tambahan.
+5. Mengapa sampel acak berguna? Jawaban: membantu mengurangi bias pemilihan, meski tidak menjamin sampel sempurna.
+
+GLOSARIUM
+Data: fakta atau hasil pengamatan.
+Populasi: seluruh kelompok sasaran penelitian.
+Sampel: bagian populasi yang diamati.
+Variabel: karakteristik yang diukur atau dicatat.
+Median: nilai tengah data terurut.
+Modus: nilai yang paling sering muncul.
+Korelasi: hubungan perubahan bersama antara variabel.
+Bias: penyimpangan sistematis dalam pengumpulan atau analisis.
+
+CATATAN PENULIS
+Materi ini merupakan pengantar belajar. Untuk penelitian nyata, periksa metode pengumpulan data, sumber, dan asumsi analisis sebelum menarik kesimpulan.

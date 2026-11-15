@@ -128,3 +128,37 @@ LATIHAN
 2. Perbedaan seri dan paralel? Seri memiliki arus sama; paralel memiliki tegangan cabang sama.
 3. Mengapa LED memerlukan pembatas arus? Arus berlebih dapat merusaknya.
 4. Mengapa lembar data penting? Memastikan batas listrik, pinout, dan kondisi operasi.
+
+
+
+BAB LANJUTAN — MEMBACA DIAGRAM DAN KESELAMATAN ELEKTRONIKA
+
+Diagram rangkaian menggunakan simbol untuk menggambarkan hubungan komponen. Diagram tidak selalu menunjukkan posisi fisik komponen, melainkan bagaimana komponen dihubungkan. Sebelum membaca rangkaian, kenali sumber tegangan, jalur arus, resistor, sakelar, dan beban. Perhatikan polaritas pada komponen yang memiliki terminal positif dan negatif.
+
+Pengukuran listrik memerlukan alat dan prosedur yang sesuai. Multimeter memiliki pengaturan berbeda untuk mengukur tegangan, arus, dan resistansi. Salah memilih mode atau menghubungkan alat secara keliru dapat merusak alat dan menimbulkan bahaya. Praktik elektronika pemula harus menggunakan rangkaian tegangan rendah yang dirancang untuk pembelajaran dan diawasi pendamping.
+
+Jangan membuka adaptor, catu daya listrik rumah, atau perangkat yang terhubung ke jaringan listrik. Kapasitor pada perangkat tertentu dapat menyimpan energi setelah sumber dilepas. Untuk pembelajaran, gunakan kit edukasi tegangan rendah dan ikuti petunjuk guru.
+
+LATIHAN
+
+Gambar diagram sederhana rangkaian baterai tegangan rendah, sakelar, resistor, dan LED dengan resistor pembatas yang sesuai berdasarkan panduan kit edukasi. Tandai polaritas dan jelaskan fungsi setiap komponen. Jangan mencoba rangkaian pada stopkontak.
+
+EVALUASI
+1. Apa perbedaan diagram rangkaian dan tata letak fisik?
+2. Mengapa LED memerlukan pembatas arus?
+3. Mengapa mode multimeter harus dipilih dengan benar?
+4. Apa risiko membuka perangkat listrik rumah?
+5. Mengapa praktik pemula menggunakan tegangan rendah?
+
+PEMBAHASAN
+1. Diagram menunjukkan hubungan listrik; tata letak menunjukkan posisi komponen.
+2. Arus berlebih dapat merusak LED.
+3. Pengaturan salah dapat merusak alat atau menimbulkan bahaya.
+4. Sengatan listrik dan energi tersimpan pada komponen.
+5. Untuk mengurangi risiko saat mempelajari konsep dasar.
+
+GLOSARIUM
+Polaritas: penandaan terminal positif dan negatif.
+Multimeter: alat ukur besaran listrik.
+Resistor pembatas: komponen untuk membatasi arus pada rangkaian.
+Tegangan rendah: sumber tegangan pembelajaran dengan risiko lebih kecil sesuai standar kit.

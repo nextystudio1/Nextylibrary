@@ -323,3 +323,36 @@ LATIHAN PEMAHAMAN
 1. Mengapa struktur umur penting bagi perencanaan? Jawaban: kebutuhan layanan dan kesempatan ekonomi berbeda menurut kelompok umur.
 2. Apa fungsi legenda peta? Jawaban: menjelaskan arti simbol, warna, dan kelas data.
 3. Mengapa perbandingan wilayah perlu tahun data sebanding? Jawaban: perubahan waktu dapat menjadi penyebab perbedaan yang keliru dianggap sebagai perbedaan wilayah.
+
+
+
+BAB LANJUTAN — KOTA, MOBILITAS, DAN KETIMPANGAN WILAYAH
+
+Kota menjadi pusat kegiatan ekonomi, pendidikan, layanan, dan budaya. Pertumbuhan kota dapat membuka kesempatan, tetapi juga menimbulkan tantangan seperti kemacetan, kebutuhan perumahan, tekanan pada air bersih, dan perubahan ruang terbuka. Dampaknya tidak dirasakan sama oleh semua kelompok. Akses terhadap transportasi, sekolah, fasilitas kesehatan, dan pekerjaan dapat berbeda antarwilayah.
+
+Mobilitas penduduk mencakup perpindahan harian, musiman, maupun menetap. Keputusan berpindah dipengaruhi pekerjaan, pendidikan, keluarga, keamanan, lingkungan, dan kebijakan. Peta arus mobilitas perlu dibaca dengan memperhatikan periode data dan definisi perpindahan.
+
+Ketimpangan wilayah tidak cukup diukur dari satu angka pendapatan. Indikator lain meliputi akses layanan dasar, kualitas lingkungan, konektivitas, kesempatan kerja, dan keterjangkauan. Rencana pembangunan yang baik melibatkan masyarakat setempat dan memperhatikan dampak jangka panjang.
+
+PROYEK
+
+Bandingkan dua wilayah menggunakan data publik tentang penduduk, transportasi, pendidikan, dan fasilitas kesehatan. Catat tahun dan sumber data. Hindari menyimpulkan bahwa satu wilayah lebih baik hanya dari satu indikator.
+
+EVALUASI
+1. Sebutkan dua manfaat dan dua tantangan pertumbuhan kota.
+2. Apa perbedaan mobilitas harian dan migrasi menetap?
+3. Mengapa ketimpangan perlu dilihat dari beberapa indikator?
+4. Mengapa tahun data penting dalam analisis geografi?
+5. Apa manfaat pelibatan masyarakat lokal?
+
+PEMBAHASAN
+1. Manfaat: pekerjaan dan layanan; tantangan: kemacetan dan tekanan lingkungan/perumahan.
+2. Mobilitas harian bersifat rutin tanpa pindah tempat tinggal; migrasi menetap mengubah tempat tinggal.
+3. Kesejahteraan dan akses layanan memiliki banyak dimensi.
+4. Kondisi wilayah dan jumlah penduduk berubah dari waktu ke waktu.
+5. Warga memahami kebutuhan dan dampak yang mungkin tidak terlihat dari data umum.
+
+GLOSARIUM
+Urbanisasi: peningkatan proporsi penduduk yang tinggal di wilayah perkotaan.
+Konektivitas: keterhubungan wilayah melalui transportasi dan komunikasi.
+Indikator: ukuran yang digunakan untuk menggambarkan suatu keadaan.

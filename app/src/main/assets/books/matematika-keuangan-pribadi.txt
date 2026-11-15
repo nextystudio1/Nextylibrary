@@ -110,3 +110,27 @@ LATIHAN PENDALAMAN
 2. Mengapa saldo tabungan bisa naik tetapi daya beli turun? Jawaban: jika inflasi lebih tinggi daripada hasil tabungan.
 3. Apa yang perlu diperiksa sebelum mengambil utang? Jawaban: total pembayaran, biaya, bunga, tenor, denda, dan kemampuan membayar.
 4. Apakah diversifikasi menghilangkan risiko? Jawaban: tidak, tetapi dapat mengurangi ketergantungan pada satu aset.
+
+PENDALAMAN KONSEPTUAL DAN STUDI KASUS
+BAB 14 — NILAI WAKTU UANG
+Uang yang tersedia sekarang dan uang dengan nominal sama pada masa depan tidak selalu setara. Dana saat ini dapat digunakan atau disimpan, sedangkan dana masa depan mengandung ketidakpastian. Untuk membandingkan pilihan, samakan waktu penilaian dan gunakan tingkat diskonto yang sesuai dengan risiko serta tujuan.
+Nilai masa depan dengan bunga majemuk dapat dihitung melalui FV = PV(1+r)^n. PV adalah nilai saat ini, r tingkat per periode, dan n jumlah periode. Nilai sekarang adalah PV = FV/(1+r)^n. Periode bunga harus konsisten dengan jumlah periode. Contoh: Rp1.000.000 pada asumsi 5% per tahun selama dua tahun menjadi Rp1.102.500 sebelum pajak dan biaya. Ini contoh matematika, bukan janji hasil produk.
+BAB 15 — CICILAN DAN AMORTISASI
+Angsuran dapat terdiri atas pembayaran pokok dan bunga. Pada skema saldo menurun, porsi bunga biasanya lebih besar di awal karena saldo utang masih tinggi. Skema lain dapat memakai metode perhitungan berbeda. Baca tabel angsuran dan total pembayaran, bukan hanya nominal bulanan.
+Periksa apakah bunga tetap atau berubah, kapan biaya dikenakan, bagaimana pelunasan dipercepat dihitung, dan apa akibat keterlambatan. Minta simulasi tertulis dan bandingkan beberapa skenario.
+BAB 16 — PAJAK, BIAYA, DAN HASIL BERSIH
+Hasil nominal bukan hasil bersih. Biaya administrasi, pajak, biaya transaksi, dan inflasi dapat mengubah nilai yang diterima. Bandingkan produk menggunakan dasar yang sama: periode, risiko, likuiditas, pajak, serta seluruh biaya relevan.
+Dokumen penawaran perlu dibaca sampai bagian ketentuan dan pengecualian. Jika istilah tidak dipahami, mintalah penjelasan tertulis dan jangan mengambil keputusan karena tekanan waktu.
+BAB 17 — PENIPUAN KEUANGAN DAN PERLINDUNGAN KONSUMEN
+Tanda bahaya penipuan meliputi janji keuntungan tinggi tanpa risiko, desakan untuk segera mengirim uang, testimoni sebagai satu-satunya bukti, dan penyedia yang tidak jelas identitas serta izinnya. Skema yang meminta perekrutan anggota baru untuk membayar keuntungan anggota lama patut dicurigai.
+Jangan membagikan PIN, kata sandi, kode OTP, atau data autentikasi. Verifikasi melalui kanal resmi. Jika terjadi transaksi mencurigakan, segera hubungi penyedia layanan dan pihak berwenang melalui saluran resmi.
+BAB 18 — STUDI KASUS RENCANA TUJUAN
+Misalkan seseorang ingin membeli perangkat belajar enam bulan lagi. Tetapkan harga sasaran dan tanggal kebutuhan, hitung selisih dana, lalu bagi kebutuhan secara realistis ke dalam enam periode. Sisakan ruang bagi kebutuhan pokok dan keadaan tak terduga.
+Jika target tidak realistis, pertimbangkan memperpanjang waktu, mencari alternatif terjangkau, atau menambah pemasukan yang aman. Mengambil utang mahal untuk kebutuhan yang dapat ditunda bukan satu-satunya jalan.
+BAB 19 — LEMBAR KERJA EVALUASI
+Catat tujuan, nilai yang dibutuhkan, tenggat, sumber dana, biaya, risiko, dan indikator kemajuan. Tinjau berkala. Pisahkan fakta yang diketahui dari perkiraan yang masih dapat berubah.
+PERTANYAAN PEMAHAMAN
+1. Mengapa periode bunga harus konsisten? Tingkat dan jumlah periode harus mengacu pada satuan waktu yang sama.
+2. Mengapa cicilan bulanan kecil belum tentu murah? Tenor, bunga, biaya, dan total pembayaran dapat membuat jumlah akhir besar.
+3. Apa hasil bersih? Hasil setelah biaya, pajak, dan faktor relevan diperhitungkan.
+4. Sebutkan dua tanda bahaya penipuan. Janji hasil pasti tinggi tanpa risiko dan tekanan untuk segera mentransfer uang.

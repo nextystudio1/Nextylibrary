@@ -113,3 +113,20 @@ LATIHAN PENDALAMAN
 2. Apa itu overfitting? Jawaban: model terlalu menyesuaikan data pelatihan dan gagal menggeneralisasi ke data baru.
 3. Mengapa sistem AI perlu dipantau setelah peluncuran? Jawaban: data dan konteks penggunaan dapat berubah.
 4. Mengapa jalur banding manusia penting? Jawaban: keluaran otomatis dapat salah dan keputusan dapat berdampak pada hak pengguna.
+
+PENDALAMAN TEKNIS, ETIKA, DAN STUDI KASUS
+BAB 14 — PEMBELAJARAN TERAWASI
+Dalam supervised learning, model belajar dari contoh berlabel. Untuk klasifikasi, label berupa kategori; untuk regresi, label berupa nilai numerik. Model mempelajari pola dari data pelatihan lalu diuji pada data yang tidak digunakan saat pelatihan.
+Pembagian data harus mencegah kebocoran. Jika contoh yang hampir sama muncul pada data pelatihan dan pengujian, skor dapat tampak tinggi tetapi tidak mencerminkan kemampuan pada kasus baru. Untuk data berurutan waktu, pemisahan berdasarkan waktu sering lebih tepat.
+BAB 15 — PEMBELAJARAN TANPA PENGAWASAN
+Unsupervised learning mencari struktur dalam data tanpa label target. Pengelompokan membantu menemukan kemiripan, sedangkan reduksi dimensi merangkum banyak fitur. Hasil klaster bukan kebenaran alamiah: jumlah kelompok, skala fitur, algoritma, dan ukuran jarak dapat mengubah hasil.
+BAB 16 — METRIK EVALUASI
+Akurasi adalah proporsi prediksi benar, tetapi dapat menyesatkan pada data tidak seimbang. Precision mengukur proporsi prediksi positif yang benar; recall mengukur proporsi kasus positif yang ditemukan. F1 merangkum keduanya. Metrik dipilih berdasarkan konsekuensi kesalahan, bukan karena satu angka populer.
+BAB 17 — MODEL GENERATIF DAN KETERBATASAN
+Model generatif menghasilkan teks, gambar, audio, atau data lain berdasarkan pola yang dipelajari. Keluaran lancar belum tentu benar. Sistem dapat menghasilkan informasi keliru atau sumber yang tidak ada. Verifikasi fakta penting melalui dokumen primer, sumber resmi, perhitungan, dan konteks. Jangan jadikan AI satu-satunya penentu keputusan berisiko tinggi.
+BAB 18 — PRIVASI, HAK CIPTA, DAN DATA
+Data pelatihan dan masukan pengguna dapat memuat informasi pribadi atau karya terlindungi. Pengembang harus memahami dasar penggunaan, izin, tujuan, masa simpan, dan mekanisme penghapusan. Catat asal dataset dan syarat lisensi. Jangan menganggap materi bebas digunakan hanya karena ditemukan di internet.
+BAB 19 — STUDI KASUS SISTEM REKOMENDASI
+Perpustakaan digital dapat merekomendasikan bahan belajar berdasarkan kategori, tingkat kesulitan, dan tujuan belajar yang dipilih pengguna. Rekomendasi tidak boleh mengunci pembaca dalam satu topik atau menyimpulkan sifat sensitif. Evaluasi apakah rekomendasi memperluas penemuan materi dan apakah pengguna dapat mengatur personalisasi.
+TUGAS PRAKTIK
+Rancang ide sistem AI dengan menuliskan masalah, pengguna, data minimum, potensi bias, risiko kesalahan, ukuran keberhasilan, dan cara pengguna mengoreksi keluaran. Jelaskan mengapa solusi berbasis aturan sederhana mungkin cukup.

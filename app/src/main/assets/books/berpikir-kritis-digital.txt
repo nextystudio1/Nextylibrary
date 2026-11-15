@@ -239,3 +239,37 @@ LATIHAN
 1. Apa itu bias konfirmasi? Jawaban: kecenderungan mencari informasi yang mendukung keyakinan sendiri.
 2. Mengapa sumber primer berguna? Jawaban: memungkinkan pemeriksaan konteks dan isi awal.
 3. Bagaimana memperlakukan klaim yang belum terverifikasi? Jawaban: jangan sebarkan sebagai fakta dan cari bukti tambahan.
+
+
+
+BAB LANJUTAN — VERIFIKASI INFORMASI DAN JEJAK DIGITAL
+
+Informasi digital dapat disalin dan disebarkan jauh lebih cepat daripada proses pemeriksaannya. Karena itu, jangan langsung meneruskan pesan yang membuat takut, marah, atau sangat gembira. Emosi yang kuat dapat membuat orang melewatkan pemeriksaan sumber. Berhenti sejenak, cari sumber awal, dan bandingkan dengan pemberitaan atau dokumen tepercaya.
+
+Teknik pemeriksaan lateral berarti meninggalkan sementara halaman yang sedang dibaca untuk mencari tahu siapa penerbitnya dan bagaimana sumber lain menilai klaim tersebut. Periksa nama penulis, lembaga, tanggal, bukti, tautan ke dokumen asli, dan apakah judul sesuai isi. Untuk gambar, lakukan pencarian balik melalui layanan yang tersedia dan periksa apakah gambar pernah muncul dalam konteks berbeda.
+
+Jejak digital adalah data yang ditinggalkan ketika seseorang menggunakan layanan daring, baik secara sengaja maupun sebagai hasil penggunaan. Informasi yang telah diunggah dapat disalin atau disimpan pihak lain. Sebelum membagikan sesuatu, pertimbangkan privasi diri dan orang lain, izin, serta dampak jangka panjang. Jangan mengunggah alamat rumah, kata sandi, kode verifikasi, atau dokumen pribadi.
+
+LATIHAN PRAKTIK
+
+Ambil satu klaim publik yang tidak sensitif. Temukan sumber awalnya, dua sumber pembanding independen, tanggal publikasi, dan bukti yang digunakan. Buat kesimpulan dengan tiga kategori: terdukung, belum cukup bukti, atau bertentangan dengan bukti. Jangan menyebarkan ulang klaim yang belum terverifikasi.
+
+EVALUASI
+1. Apa yang dimaksud pemeriksaan lateral?
+2. Mengapa tanggal publikasi penting?
+3. Apa perbedaan sumber primer dan sumber sekunder?
+4. Mengapa gambar dapat menyesatkan walau gambarnya asli?
+5. Sebutkan tiga kebiasaan menjaga privasi digital.
+
+PEMBAHASAN
+1. Memeriksa penerbit dan klaim melalui sumber lain di luar halaman asal.
+2. Informasi lama dapat dibagikan seolah-olah baru atau konteksnya telah berubah.
+3. Primer berasal langsung dari peristiwa/data; sekunder menganalisis atau merangkum sumber lain.
+4. Gambar asli dapat diberi keterangan, tanggal, atau konteks yang salah.
+5. Batasi data pribadi, gunakan kata sandi unik, aktifkan verifikasi berlapis, dan jangan membagikan kode rahasia.
+
+GLOSARIUM
+Pemeriksaan lateral: verifikasi klaim dengan menelusuri sumber lain.
+Sumber primer: bukti atau data langsung dari objek/peristiwa.
+Jejak digital: rekaman aktivitas dan informasi yang tertinggal saat menggunakan layanan digital.
+Konteks: keadaan yang membantu menjelaskan makna informasi.

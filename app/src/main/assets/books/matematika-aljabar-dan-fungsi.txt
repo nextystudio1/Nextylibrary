@@ -1,0 +1,62 @@
+MATEMATIKA: ALJABAR DAN FUNGSI
+Membangun Dasar Penalaran Simbolik
+Tim Pengetahuan Nexty Studio
+Edisi 2026
+
+PENGANTAR
+Aljabar menggunakan simbol untuk menyatakan bilangan dan hubungan. Dengan aljabar, pola dapat ditulis secara umum dan masalah dapat diselesaikan secara sistematis. Buku ini membahas konsep dasar yang menjadi landasan matematika lebih lanjut.
+
+BAB 1 — VARIABEL DAN EKSPRESI
+Variabel adalah simbol yang mewakili nilai. Dalam ekspresi 3x + 2, huruf x merupakan variabel, angka 3 adalah koefisien, dan 2 adalah konstanta.
+Suku sejenis memiliki bagian variabel dan pangkat yang sama. Karena itu, 2x dan 5x dapat dijumlahkan menjadi 7x, sedangkan 2x dan 2x kuadrat tidak dapat digabungkan menjadi satu suku sejenis.
+Substitusi berarti mengganti variabel dengan nilai tertentu. Jika x = 4, maka 3x + 2 = 3(4) + 2 = 14.
+Gunakan tanda kurung untuk memperjelas operasi. Urutan operasi membantu memastikan ekspresi ditafsirkan secara konsisten: kerjakan pengelompokan, pangkat, perkalian atau pembagian, lalu penjumlahan atau pengurangan.
+
+BAB 2 — OPERASI DAN SIFAT ALJABAR
+Sifat komutatif menyatakan bahwa urutan penjumlahan atau perkalian dapat ditukar. Sifat asosiatif menyatakan pengelompokan dapat diubah. Sifat distributif menghubungkan perkalian dengan penjumlahan.
+Contoh distributif: 3(x + 2) = 3x + 6. Saat membuka kurung, kalikan setiap suku di dalam kurung dengan faktor di luar.
+Penyederhanaan ekspresi dilakukan dengan menggabungkan suku sejenis dan menerapkan sifat operasi secara benar. Perhatikan tanda negatif, karena kesalahan tanda merupakan sumber kekeliruan umum.
+Faktorisasi adalah proses menulis ekspresi sebagai hasil kali faktor. Contohnya 6x + 12 dapat ditulis menjadi 6(x + 2).
+
+BAB 3 — PERSAMAAN LINEAR
+Persamaan menyatakan dua ekspresi bernilai sama. Menyelesaikan persamaan berarti mencari nilai variabel yang membuat pernyataan benar.
+Contoh: x + 5 = 12. Kurangi kedua sisi dengan 5 sehingga x = 7. Operasi yang sama pada kedua sisi menjaga kesetaraan.
+Persamaan 3x = 18 diselesaikan dengan membagi kedua sisi dengan 3, sehingga x = 6. Selalu periksa jawaban dengan memasukkannya kembali ke persamaan awal.
+Persamaan dapat digunakan memodelkan masalah. Jika biaya tetap 10 satuan dan biaya tiap barang 4 satuan, total biaya untuk n barang dapat ditulis C = 10 + 4n.
+
+BAB 4 — PERTIDAKSAMAAN DAN NILAI MUTLAK
+Pertidaksamaan membandingkan dua nilai dengan tanda lebih besar, lebih kecil, atau sama dengan. Menambah atau mengurangi kedua sisi dengan bilangan yang sama tidak mengubah arah tanda.
+Jika kedua sisi dikalikan atau dibagi bilangan negatif, arah tanda pertidaksamaan harus dibalik. Contoh: -2x > 6 menghasilkan x < -3.
+Nilai mutlak menyatakan jarak suatu bilangan dari nol pada garis bilangan. Karena jarak tidak negatif, nilai mutlak selalu nol atau positif.
+Pertidaksamaan dapat memiliki banyak solusi. Himpunan solusi dapat digambarkan pada garis bilangan atau ditulis menggunakan notasi interval.
+
+BAB 5 — KOORDINAT DAN GRAFIK
+Bidang koordinat terdiri dari sumbu mendatar x dan sumbu tegak y. Titik ditulis sebagai pasangan berurutan (x, y). Posisi titik ditentukan oleh jarak dan arah dari titik asal.
+Persamaan garis lurus sering ditulis y = mx + c. Nilai m adalah gradien atau kemiringan, sedangkan c adalah titik potong sumbu y.
+Gradien menunjukkan perubahan y dibanding perubahan x. Gradien positif berarti garis naik dari kiri ke kanan; gradien negatif berarti turun.
+Grafik membantu melihat hubungan dua variabel. Perhatikan skala sumbu, label, dan apakah hubungan yang ditampilkan bersifat linear.
+
+BAB 6 — FUNGSI DAN PEMODELAN
+Fungsi memasangkan setiap masukan dalam domain dengan tepat satu keluaran. Notasi f(x) menyatakan nilai fungsi pada masukan x.
+Contoh f(x) = 2x + 1. Jika x = 3, maka f(3) = 7. Domain adalah himpunan masukan yang diperbolehkan; kodomain dan range menjelaskan himpunan keluaran yang ditetapkan dan yang benar-benar dihasilkan.
+Model matematika menyederhanakan situasi nyata. Hubungan linear dapat sesuai untuk rentang tertentu, tetapi tidak semua fenomena mengikuti garis lurus.
+Saat membuat model, tentukan variabel, satuan, asumsi, dan batas penggunaan. Uji model dengan data atau contoh yang relevan dan revisi jika tidak sesuai.
+
+LATIHAN DAN PEMBAHASAN
+1. Sederhanakan 3x + 2x. Jawaban: 5x.
+2. Jika x = 5, hitung 2x + 3. Jawaban: 13.
+3. Selesaikan x - 4 = 9. Jawaban: x = 13.
+4. Selesaikan -3x > 12. Jawaban: x < -4 karena tanda dibalik saat membagi bilangan negatif.
+5. Jika f(x) = x + 6, berapa f(2)? Jawaban: 8.
+
+GLOSARIUM
+Variabel: simbol yang mewakili nilai.
+Koefisien: faktor angka pada suku variabel.
+Konstanta: suku bernilai tetap.
+Persamaan: pernyataan bahwa dua ekspresi sama.
+Pertidaksamaan: perbandingan yang menggunakan tanda ketaksamaan.
+Gradien: ukuran kemiringan garis.
+Fungsi: aturan yang memasangkan setiap masukan dengan satu keluaran.
+
+CATATAN PENULIS
+Latihan bertahap dan pemeriksaan kembali jawaban membantu membangun pemahaman aljabar yang kuat.

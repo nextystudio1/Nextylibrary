@@ -315,3 +315,14 @@ LATIHAN
 1. Apa beda oksidasi dan reduksi? Jawaban: oksidasi melepaskan elektron, reduksi menerima elektron.
 2. Mengapa konsentrasi polutan perlu dikaitkan dengan lama paparan? Jawaban: risiko dipengaruhi tingkat dan durasi paparan.
 3. Mengapa bahan pembersih tidak boleh dicampur sembarangan? Jawaban: dapat terjadi reaksi yang menghasilkan zat berbahaya.
+
+BAB LANJUTAN: LARUTAN DAN KESETIMBANGAN
+Larutan terdiri atas zat terlarut dan pelarut. Konsentrasi menyatakan banyaknya zat terlarut dalam jumlah larutan atau pelarut tertentu. Persentase, molaritas, dan satuan massa per volume digunakan pada konteks berbeda; periksa definisi dan satuan sebelum menghitung.
+pH berkaitan dengan aktivitas ion hidrogen. Dalam pendekatan larutan encer, perubahan satu unit pH berarti perubahan sepuluh kali pada konsentrasi ion hidrogen. Indikator warna memberi perkiraan, sedangkan alat terkalibrasi memberi pengukuran lebih terukur.
+Persamaan reaksi harus memenuhi kekekalan atom dan muatan. Koefisien menyetarakan jumlah atom, bukan mengubah rumus zat. Kesetimbangan dinamis terjadi ketika laju reaksi maju dan balik sama; perubahan kondisi dapat menggeser posisi kesetimbangan.
+KIMIA LINGKUNGAN
+Pencemar dinilai berdasarkan jenis zat, konsentrasi, jalur, dan durasi paparan. Pengolahan limbah dapat menggabungkan proses fisik, kimia, dan biologis. Praktikum hanya dilakukan dengan prosedur yang disetujui pengajar; jangan mencampur bahan rumah tangga sembarangan.
+LATIHAN
+1. Mengapa reaksi perlu disetarakan? Jawaban: jumlah atom dan muatan harus kekal.
+2. Apa arti larutan 1 molar? Jawaban: satu mol zat terlarut per liter larutan.
+3. Mengapa pH tidak cukup untuk menilai bahaya? Jawaban: risiko juga dipengaruhi jenis zat, konsentrasi, reaktivitas, dan paparan.

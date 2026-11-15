@@ -328,3 +328,38 @@ LATIHAN
 1. Apa makna interval kepercayaan 95 persen? Jawaban: prosedur pembentuk interval akan mencakup parameter sekitar 95 persen dalam pengulangan jangka panjang jika asumsi terpenuhi.
 2. Mengapa nilai p bukan ukuran efek? Jawaban: nilai p dipengaruhi ukuran sampel dan variasi, bukan besarnya dampak.
 3. Apa itu bias seleksi? Jawaban: distorsi dari proses pemilihan sampel atau peserta.
+
+
+
+BAB LANJUTAN — KORELASI, REGRESI, DAN KETERBATASAN DATA
+
+Korelasi menggambarkan hubungan statistik antara dua variabel. Korelasi positif berarti nilai keduanya cenderung meningkat bersama, sedangkan korelasi negatif berarti satu nilai cenderung meningkat ketika yang lain menurun. Korelasi tidak dengan sendirinya membuktikan sebab-akibat. Hubungan dapat dipengaruhi variabel ketiga, arah sebab yang berbeda, atau kebetulan.
+
+Regresi digunakan untuk memodelkan hubungan antara variabel dan membuat perkiraan berdasarkan pola data. Model linear sederhana menggambarkan perubahan rata-rata hasil ketika prediktor berubah. Model yang cocok pada data latihan belum tentu tepat untuk data baru. Periksa residu, rentang data, pencilan, dan apakah asumsi model masuk akal.
+
+Sampel yang besar tidak otomatis mewakili populasi. Cara pemilihan sampel tetap penting. Survei daring yang hanya diisi sukarela, misalnya, dapat lebih banyak mencerminkan orang yang sangat tertarik pada topik tersebut. Bias seleksi harus dipertimbangkan sebelum membuat generalisasi.
+
+PROYEK ANALISIS
+
+Gunakan data publik yang memiliki keterangan sumber. Buat pertanyaan, jelaskan populasi dan sampel, hitung ukuran pemusatan dan penyebaran, tampilkan grafik yang sesuai, lalu tuliskan kesimpulan beserta keterbatasannya. Jangan menghapus data hanya karena tidak cocok dengan dugaan. Jika ada data pribadi, jangan mempublikasikannya.
+
+EVALUASI
+1. Mengapa korelasi tidak membuktikan sebab-akibat?
+2. Apa fungsi residu dalam menilai model regresi?
+3. Mengapa sampel sukarela dapat bias?
+4. Kapan median lebih informatif daripada rata-rata?
+5. Mengapa kesimpulan perlu menyebutkan keterbatasan?
+
+PEMBAHASAN
+1. Hubungan dapat dipengaruhi faktor lain atau arah sebab yang berbeda.
+2. Residu menunjukkan selisih nilai aktual dan prediksi; polanya membantu menilai kecocokan model.
+3. Orang yang memilih menjawab mungkin berbeda dari populasi secara sistematis.
+4. Ketika data memiliki pencilan atau sebaran sangat miring.
+5. Agar pembaca memahami sejauh mana hasil dapat diterapkan.
+
+GLOSARIUM
+Korelasi: ukuran kecenderungan hubungan antarvariabel.
+Regresi: metode pemodelan hubungan dan perkiraan.
+Residu: selisih antara hasil aktual dan hasil prediksi.
+Bias seleksi: penyimpangan akibat cara sampel dipilih.
+Pencilan: nilai yang jauh dari pola sebagian besar data.

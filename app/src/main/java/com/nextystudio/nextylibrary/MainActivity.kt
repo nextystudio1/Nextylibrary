@@ -849,7 +849,7 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
 
 private fun isNativeWebBook(source: String): Boolean {
     val uri = runCatching { Uri.parse(source) }.getOrNull() ?: return false
-    return uri.scheme == "https" && uri.host in setOf("pressbooks.uwf.edu", "openstax.org")
+    return uri.scheme == "https" && uri.host in setOf("pressbooks.uwf.edu", "openstax.org", "id.wikisource.org")
 }
 
 @Composable
@@ -871,7 +871,7 @@ private fun WebBookReader(url: String) {
                 webViewClient = object : WebViewClient() {
                     override fun shouldOverrideUrlLoading(view: WebView, request: android.webkit.WebResourceRequest): Boolean {
                         val target = request.url
-                        return target.scheme != "https" || target.host !in setOf("pressbooks.uwf.edu", "openstax.org")
+                        return target.scheme != "https" || target.host !in setOf("pressbooks.uwf.edu", "openstax.org", "id.wikisource.org")
                     }
                     override fun onPageFinished(view: WebView, pageUrl: String) {
                         view.evaluateJavascript(

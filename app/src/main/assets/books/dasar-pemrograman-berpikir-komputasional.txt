@@ -494,3 +494,37 @@ LATIHAN
 1. Mengapa fungsi kecil berguna? Jawaban: tujuan lebih jelas dan kesalahan lebih mudah ditemukan.
 2. Kapan pencarian biner dapat digunakan? Jawaban: ketika data terurut dan struktur akses mendukung pembagian rentang.
 3. Mengapa kasus batas perlu diuji? Jawaban: kesalahan sering muncul pada nilai kosong, minimum, maksimum, atau format tak terduga.
+
+
+
+BAB LANJUTAN — PENGUJIAN DAN PERAWATAN PROGRAM
+
+Program yang berjalan pada satu contoh belum tentu benar untuk semua masukan. Pengujian perlu mencakup kasus normal, batas, dan tidak valid. Jika fungsi menerima angka dari 1 sampai 100, uji nilai batas 1 dan 100, nilai di luar rentang, masukan kosong, serta tipe data yang tidak sesuai. Tujuannya bukan mencari pembenaran bahwa program selalu benar, melainkan menemukan kondisi yang belum ditangani.
+
+Debugging adalah proses mencari dan memperbaiki penyebab kesalahan. Mulailah dengan membuat ulang masalah, membaca pesan kesalahan, mempersempit bagian kode yang dicurigai, lalu menguji perubahan secara terpisah. Hindari mengubah banyak bagian sekaligus karena sulit mengetahui perubahan mana yang memengaruhi hasil.
+
+Kode yang mudah dirawat menggunakan nama variabel yang jelas, fungsi dengan tanggung jawab terfokus, struktur konsisten, dan komentar yang menjelaskan alasan penting. Komentar tidak perlu mengulang setiap baris kode. Dokumentasi singkat sebaiknya menjelaskan tujuan program, cara menjalankan, bentuk masukan, dan hasil yang diharapkan.
+
+PROYEK AKHIR
+
+Buat program pencatat daftar tugas sederhana. Program dapat menambah tugas, menampilkan daftar, menandai tugas selesai, dan menolak masukan kosong. Susun pengujian untuk setiap fitur, termasuk masukan yang tidak sesuai. Tuliskan keterbatasan program dan satu rencana pengembangan berikutnya. Gunakan data contoh, bukan informasi pribadi.
+
+EVALUASI
+1. Mengapa kasus batas penting dalam pengujian?
+2. Apa langkah awal debugging yang baik?
+3. Mengapa satu fungsi sebaiknya memiliki tanggung jawab yang jelas?
+4. Apa perbedaan kesalahan sintaks dan kesalahan logika?
+5. Informasi apa yang perlu ada dalam dokumentasi program?
+
+PEMBAHASAN
+1. Kesalahan sering muncul tepat pada nilai minimum, maksimum, atau kondisi tepi.
+2. Membuat ulang masalah dan mencatat masukan serta hasil yang memunculkan kesalahan.
+3. Agar kode lebih mudah dipahami, diuji, dan diubah.
+4. Sintaks melanggar aturan bahasa; logika menghasilkan perilaku yang tidak sesuai tujuan meski program berjalan.
+5. Tujuan, kebutuhan, cara menjalankan, masukan, keluaran, dan keterbatasan.
+
+GLOSARIUM
+Kasus batas: masukan pada batas rentang atau kondisi khusus.
+Debugging: proses menemukan dan memperbaiki kesalahan program.
+Dokumentasi: penjelasan penggunaan dan rancangan perangkat lunak.
+Pengujian regresi: pengujian ulang untuk memastikan perubahan tidak merusak fitur yang sudah bekerja.

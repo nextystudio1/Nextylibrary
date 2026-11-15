@@ -220,3 +220,13 @@ LATIHAN PEMAHAMAN
 1. Mengapa spektrum bintang berguna? Jawaban: pola garisnya memberi petunjuk unsur, suhu, dan kondisi atmosfer bintang.
 2. Apa yang diukur pergeseran Doppler? Jawaban: komponen gerak relatif sepanjang garis pandang melalui perubahan panjang gelombang.
 3. Mengapa kosmologi memerlukan banyak jenis bukti? Jawaban: setiap pengamatan memiliki batas dan penjelasan alternatif; kesesuaian banyak bukti membuat model lebih kuat.
+
+BAB LANJUTAN: SPEKTRUM DAN JARAK KOSMIK
+Cahaya membawa informasi tentang benda langit. Garis spektrum terbentuk ketika atom atau molekul menyerap maupun memancarkan panjang gelombang tertentu. Pola garis membantu mengenali komposisi, sedangkan bentuk spektrum memberi petunjuk suhu. Pergeseran Doppler pada garis spektrum digunakan untuk memperkirakan gerak sepanjang garis pandang.
+Paralaks tahunan mengukur perubahan posisi tampak bintang dekat ketika Bumi bergerak mengelilingi Matahari. Untuk jarak lebih besar, astronom memakai indikator lain yang telah dikalibrasi, seperti bintang variabel dan supernova tipe Ia. Setiap metode memiliki rentang penggunaan dan ketidakpastian.
+MODEL DAN BUKTI
+Model kosmologi diuji melalui bukti berbeda, termasuk radiasi latar gelombang mikro kosmik, kelimpahan unsur ringan, dan distribusi galaksi. Kesesuaian beberapa jenis bukti lebih kuat daripada satu pengamatan. Peneliti tetap membandingkan prediksi dengan data, ketidakpastian alat, dan penjelasan alternatif.
+LATIHAN
+1. Apa informasi yang diberikan spektrum? Jawaban: komposisi, suhu, dan kondisi gerak sumber cahaya.
+2. Apa yang diukur paralaks? Jawaban: perubahan posisi tampak objek akibat perubahan posisi pengamat.
+3. Mengapa model kosmologi perlu banyak bukti? Jawaban: setiap pengukuran memiliki keterbatasan dan kemungkinan penjelasan alternatif.

@@ -1,0 +1,60 @@
+MATEMATIKA KEUANGAN PRIBADI
+Penulis: Tim Pengetahuan Nexty Studio
+Edisi: 2026
+
+PENGANTAR
+Matematika membantu kita memahami keputusan keuangan. Buku ini membahas konsep dasar untuk tujuan pendidikan: menghitung persentase, menyusun anggaran, memahami bunga, dan membandingkan pilihan. Contoh angka bersifat ilustratif, bukan saran investasi.
+
+BAB 1 — UANG SEBAGAI ALAT TUKAR
+Uang memudahkan pertukaran karena diterima sebagai alat pembayaran. Uang juga menjadi satuan untuk membandingkan nilai dan penyimpan daya beli. Daya beli dapat berubah ketika harga barang berubah.
+Pendapatan adalah uang atau nilai yang diterima. Pengeluaran adalah nilai yang digunakan untuk memenuhi kebutuhan atau keinginan. Selisih keduanya menentukan apakah seseorang memiliki sisa dana atau kekurangan.
+
+BAB 2 — PERSENTASE
+Persentase berarti bagian per seratus. Rumus dasar: persentase = bagian ÷ keseluruhan × 100%.
+Jika dari 40 soal seseorang menjawab benar 32, persentase benar adalah 32 ÷ 40 × 100% = 80%.
+Diskon 10% dari harga Rp50.000 adalah Rp5.000, sehingga harga setelah diskon menjadi Rp45.000 sebelum biaya lain. Periksa apakah persentase diterapkan pada harga awal atau setelah potongan sebelumnya.
+
+BAB 3 — MEMBUAT ANGGARAN
+Anggaran adalah rencana pendapatan dan pengeluaran untuk periode tertentu. Catat pengeluaran tetap, pengeluaran berubah, kebutuhan, dan tujuan menabung. Anggaran bukan hukuman; anggaran adalah alat agar keputusan lebih terlihat.
+Gunakan data nyata selama beberapa minggu. Kelompokkan transaksi, lalu bandingkan rencana dengan kenyataan. Jika biaya transportasi lebih tinggi dari perkiraan, perbaiki rencana berdasarkan bukti, bukan rasa bersalah.
+
+BAB 4 — TABUNGAN DAN TUJUAN
+Tujuan tabungan sebaiknya jelas, terukur, dan memiliki jangka waktu. Jika target Rp600.000 ingin dicapai dalam 6 bulan, jumlah rata-rata yang perlu disisihkan adalah Rp100.000 per bulan.
+Simpan dana sesuai tujuan dan pertimbangkan akses, keamanan, biaya, serta aturan lembaga. Dana darurat ditujukan untuk kebutuhan tak terduga, bukan untuk mengejar keuntungan tinggi.
+
+BAB 5 — BUNGA SEDERHANA DAN MAJEMUK
+Bunga adalah biaya penggunaan uang atau imbal hasil simpanan sesuai perjanjian. Pada bunga sederhana, perhitungan didasarkan pada pokok awal: bunga = pokok × tingkat bunga per periode × jumlah periode.
+Pada bunga majemuk, bunga yang telah terbentuk ikut menjadi dasar perhitungan periode berikutnya. Karena itu, pertumbuhan dapat lebih cepat, tetapi utang berbunga majemuk juga dapat bertambah cepat jika tidak dikelola.
+Selalu periksa tingkat bunga, periode, biaya, denda, dan apakah angka yang ditampilkan merupakan bunga tahunan atau bulanan.
+
+BAB 6 — INFLASI DAN DAYA BELI
+Inflasi adalah kenaikan harga barang dan jasa secara umum dalam suatu periode. Jika harga rata-rata meningkat, jumlah uang yang sama dapat membeli lebih sedikit barang.
+Inflasi tidak berarti semua harga naik dengan persentase sama. Keranjang belanja tiap keluarga berbeda, sehingga pengalaman kenaikan biaya juga berbeda.
+
+BAB 7 — MEMBANDINGKAN PILIHAN
+Harga termurah tidak selalu berarti biaya total terendah. Perhatikan kualitas, daya tahan, biaya perawatan, transportasi, dan garansi. Untuk langganan, hitung total biaya selama setahun, bukan hanya harga bulan pertama.
+Waspadai penawaran yang menjanjikan keuntungan pasti sangat tinggi, tekanan untuk segera membayar, atau meminta kode rahasia. Verifikasi penyedia melalui saluran resmi dan minta bantuan orang dewasa tepercaya bila ragu.
+
+BAB 8 — RISIKO DAN KEAMANAN
+Risiko berarti hasil dapat berbeda dari harapan. Jangan menempatkan semua sumber daya pada satu pilihan. Pahami bahwa investasi dapat mengalami penurunan nilai dan tidak ada keuntungan tinggi yang bebas risiko.
+Jangan membagikan PIN, kata sandi, kode OTP, atau foto dokumen pribadi kepada pihak yang tidak berwenang. Gunakan kanal resmi dan simpan bukti transaksi.
+
+BAB 9 — LATIHAN PERENCANAAN
+Buat tabel sederhana berisi pemasukan, kebutuhan, keinginan, tabungan, dan saldo. Perkirakan biaya kegiatan sekolah, lalu bandingkan perkiraan dengan biaya sebenarnya. Catat asumsi yang digunakan agar orang lain dapat memahami perhitunganmu.
+
+LATIHAN DAN PEMBAHASAN
+1. Berapa 15% dari Rp200.000? 0,15 × 200.000 = Rp30.000.
+2. Target Rp900.000 dalam 9 bulan memerlukan tabungan rata-rata berapa? Rp100.000 per bulan.
+3. Apa beda bunga sederhana dan majemuk? Bunga sederhana dihitung dari pokok awal; majemuk memasukkan bunga sebelumnya ke dasar hitung.
+4. Apa itu inflasi? Kenaikan harga umum barang dan jasa dalam periode tertentu.
+5. Mengapa biaya tahunan langganan perlu dihitung? Agar total pengeluaran terlihat dan mudah dibandingkan.
+
+GLOSARIUM
+Anggaran: rencana pendapatan dan pengeluaran.
+Bunga: biaya atau imbal hasil atas penggunaan uang.
+Inflasi: kenaikan harga umum dalam periode tertentu.
+Pokok: jumlah awal sebelum bunga.
+Daya beli: jumlah barang dan jasa yang dapat dibeli dengan uang.
+
+CATATAN PENULIS
+Naskah orisinal edukasi Nexty Studio. Contoh tidak menggantikan nasihat keuangan profesional dan tidak merekomendasikan produk keuangan tertentu.

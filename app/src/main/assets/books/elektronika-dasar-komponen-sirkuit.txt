@@ -1,0 +1,64 @@
+ELEKTRONIKA DASAR: KOMPONEN DAN SIRKUIT
+Penulis: Nexty Studio
+Edisi pembelajaran orisinal
+
+PENGANTAR
+Elektronika mempelajari pengendalian aliran muatan listrik dalam rangkaian. Perangkat sehari-hari seperti lampu, radio, komputer, dan sensor menggunakan prinsip elektronika. Buku ini membahas konsep dasar secara konseptual. Praktik harus memakai perangkat pendidikan bertegangan rendah dan pengawasan yang sesuai.
+
+BAB 1 — BESARAN LISTRIK
+Arus listrik menyatakan laju aliran muatan. Satuannya ampere. Tegangan adalah beda potensial listrik antara dua titik dan satuannya volt. Hambatan menyatakan seberapa besar suatu komponen menghambat arus, dengan satuan ohm.
+Hukum Ohm menyatakan hubungan V = I × R untuk komponen ohmik pada kondisi yang sesuai. Jika hambatan tetap, kenaikan tegangan menyebabkan arus meningkat. Rumus ini membantu memahami rangkaian sederhana, tetapi tidak semua komponen berperilaku ohmik pada seluruh kondisi.
+Daya listrik menyatakan laju penggunaan atau pemindahan energi. Untuk rangkaian arus searah sederhana, P = V × I. Nilai daya penting karena komponen memiliki batas kerja.
+
+BAB 2 — KOMPONEN PASIF
+Resistor membatasi arus dan dapat membentuk pembagi tegangan. Nilai resistor umumnya dinyatakan dalam ohm. Kapasitor menyimpan energi dalam medan listrik dan digunakan antara lain untuk penyaringan serta pengaturan waktu. Induktor menyimpan energi dalam medan magnet dan sering digunakan pada rangkaian penyaring serta konverter.
+Komponen memiliki toleransi dan batas tegangan, arus, serta daya. Memilih komponen tidak cukup hanya melihat bentuknya. Lembar data pabrikan memberikan informasi penting mengenai karakteristik dan batas operasi.
+Komponen pasif tidak menghasilkan penguatan daya sendiri, tetapi dapat mengubah respons rangkaian.
+
+BAB 3 — DIODA DAN TRANSISTOR
+Dioda semikonduktor terutama mengalirkan arus dengan lebih mudah pada arah bias maju dibanding arah sebaliknya, dalam batas karakteristiknya. LED adalah dioda yang memancarkan cahaya ketika dialiri arus dengan kondisi yang tepat. Pembatas arus diperlukan agar LED tidak rusak.
+Transistor dapat berfungsi sebagai sakelar elektronik atau penguat sinyal. Jenis yang umum dipelajari adalah BJT dan MOSFET. Cara kerja dan karakteristik keduanya berbeda, sehingga lembar data perlu diperhatikan.
+Semikonduktor menjadi dasar banyak perangkat modern karena sifat listriknya dapat dikendalikan melalui struktur material dan tegangan.
+
+BAB 4 — RANGKAIAN SERI DAN PARALEL
+Dalam rangkaian seri, komponen berada pada satu jalur sehingga arus yang melewati tiap komponen sama. Tegangan terbagi di antara komponen. Hambatan total resistor seri adalah jumlah hambatan masing-masing.
+Dalam rangkaian paralel, cabang-cabang terhubung pada pasangan titik yang sama sehingga tegangan pada setiap cabang sama. Arus total merupakan jumlah arus cabang. Hambatan ekuivalen paralel lebih kecil daripada hambatan cabang terkecil untuk resistor positif.
+Diagram rangkaian menggunakan simbol standar agar hubungan komponen mudah dipahami. Membaca diagram merupakan keterampilan penting sebelum menganalisis sistem.
+
+BAB 5 — SUMBER DAYA DAN PENGUKURAN
+Sumber daya menyediakan energi listrik bagi rangkaian. Baterai merupakan sumber arus searah; adaptor dapat mengubah energi dari jaringan listrik menjadi keluaran yang sesuai bagi perangkat. Nilai keluaran harus cocok dengan kebutuhan perangkat.
+Multimeter dapat mengukur tegangan, arus, dan hambatan sesuai mode serta terminal yang dipilih. Pengukuran harus mengikuti petunjuk alat. Kesalahan pengaturan dapat merusak alat atau menimbulkan bahaya.
+Untuk pembelajaran, gunakan kit edukasi tegangan rendah yang dirancang untuk pemula. Jangan membuka adaptor, catu daya jaringan, atau perangkat yang masih terhubung ke listrik rumah.
+
+BAB 6 — KESELAMATAN DAN PEMECAHAN MASALAH
+Keselamatan adalah bagian dari keterampilan teknik. Matikan sumber daya sebelum mengubah sambungan rangkaian. Periksa polaritas, nilai komponen, dan kemungkinan hubungan singkat. Jangan menyentuh rangkaian yang panas atau rusak.
+Pemecahan masalah dimulai dari gejala yang dapat diamati. Bandingkan rangkaian dengan diagram, periksa sambungan secara visual, dan lakukan pengukuran hanya dengan prosedur aman. Ubah satu variabel pada satu waktu agar penyebab masalah lebih mudah ditemukan.
+Catat susunan, hasil pengukuran, dan perubahan yang dilakukan. Catatan membuat proses belajar dapat diulang dan dievaluasi.
+
+RANGKUMAN
+• Tegangan, arus, hambatan, dan daya adalah besaran dasar.
+• Resistor, kapasitor, dan induktor memiliki fungsi berbeda.
+• Dioda dan transistor memanfaatkan sifat semikonduktor.
+• Rangkaian seri dan paralel memiliki pola arus dan tegangan berbeda.
+• Praktik pemula harus memakai kit tegangan rendah dan prosedur aman.
+
+LATIHAN DAN PEMBAHASAN
+1. Jika tegangan 6 V diberikan pada resistor 300 ohm, berapa arus ideal menurut Hukum Ohm?
+Jawaban: I = V/R = 6/300 = 0,02 A atau 20 mA.
+2. Apa ciri utama rangkaian seri?
+Jawaban: Arus yang sama melewati setiap komponen pada satu jalur.
+3. Apa fungsi resistor pembatas pada LED?
+Jawaban: Membatasi arus agar LED bekerja dalam batas yang aman.
+4. Mengapa lembar data komponen penting?
+Jawaban: Menjelaskan karakteristik, toleransi, dan batas operasi komponen.
+
+GLOSARIUM
+Arus: laju aliran muatan listrik.
+Dioda: komponen semikonduktor dengan karakteristik arah arus.
+Kapasitor: komponen penyimpan energi dalam medan listrik.
+Resistor: komponen yang memberikan hambatan.
+Tegangan: beda potensial listrik.
+Transistor: komponen semikonduktor untuk sakelar atau penguatan.
+
+CATATAN PENULIS
+Naskah pengantar orisinal Nexty Studio. Materi ini bukan instruksi untuk memperbaiki perangkat listrik rumah atau menangani tegangan tinggi.

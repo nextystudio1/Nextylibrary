@@ -120,3 +120,36 @@ BAB 19 — MEMBACA DATA LINGKUNGAN
 Data ekologi berasal dari transek, plot, kamera jebak, penginderaan jauh, dan pengukuran kualitas air. Setiap metode memiliki bias deteksi. Tidak ditemukannya spesies dalam survei singkat tidak selalu berarti spesies tidak ada. Catat lokasi, tanggal, cuaca, metode, upaya sampling, dan ketidakpastian.
 STUDI KASUS
 Sebuah sungai mengalami penurunan kualitas air. Tim memetakan sumber pencemar, mengukur parameter di beberapa titik, mencatat musim dan debit, serta berdiskusi dengan warga. Rekomendasi harus menggabungkan hasil pengukuran, sumber pencemar terverifikasi, dan kemampuan pelaksanaan, bukan menyalahkan kelompok tanpa bukti.
+
+
+
+BAB LANJUTAN — JASA EKOSISTEM DAN KONSERVASI
+
+Ekosistem menyediakan jasa yang mendukung kehidupan, seperti penyediaan pangan dan air, pengaturan iklim dan banjir, pembentukan tanah, serta manfaat budaya dan rekreasi. Jasa tersebut sering saling berkaitan. Hutan, misalnya, menyimpan karbon, menjadi habitat, membantu mengatur aliran air, dan menyediakan sumber penghidupan bagi masyarakat.
+
+Konservasi dapat dilakukan melalui perlindungan habitat, pemulihan ekosistem, pengelolaan berkelanjutan, dan pengurangan tekanan seperti pencemaran serta perburuan ilegal. Kawasan lindung penting, tetapi keberhasilan konservasi juga bergantung pada keterlibatan masyarakat dan pengelolaan wilayah di sekitarnya.
+
+Spesies invasif adalah organisme yang diperkenalkan ke wilayah di luar sebaran alaminya dan dapat menyebar serta menimbulkan dampak. Tidak semua spesies asing menjadi invasif. Penilaian perlu berdasarkan bukti dampak terhadap ekosistem dan masyarakat.
+
+PROYEK
+
+Pilih satu ekosistem lokal yang dapat dipelajari dari sumber terbuka. Identifikasi beberapa jasa ekosistem, ancaman, dan tindakan konservasi. Hindari mengambil organisme atau memasuki habitat yang dilindungi.
+
+EVALUASI
+1. Sebutkan empat kelompok jasa ekosistem.
+2. Mengapa konservasi perlu melibatkan masyarakat?
+3. Apa perbedaan spesies asing dan invasif?
+4. Mengapa perlindungan habitat penting bagi keanekaragaman?
+5. Bagaimana pencemaran memengaruhi rantai makanan?
+
+PEMBAHASAN
+1. Penyediaan, pengaturan, pendukung, dan budaya.
+2. Karena masyarakat hidup di wilayah tersebut dan memiliki pengetahuan serta kebutuhan setempat.
+3. Spesies asing berasal dari luar wilayah; invasif menyebar dan menimbulkan dampak.
+4. Habitat menyediakan ruang, sumber daya, dan kondisi untuk hidup serta berkembang biak.
+5. Kontaminan dapat masuk dan berpindah antarorganisme melalui hubungan makan.
+
+GLOSARIUM
+Jasa ekosistem: manfaat yang diperoleh manusia dari fungsi ekosistem.
+Spesies invasif: spesies yang menyebar di luar sebaran alaminya dan menimbulkan dampak.
+Restorasi: pemulihan struktur atau fungsi ekosistem.

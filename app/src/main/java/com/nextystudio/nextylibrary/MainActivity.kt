@@ -50,6 +50,7 @@ import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImage
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
+import kotlinx.coroutines.launch
 import org.json.JSONArray
 import java.net.HttpURLConnection
 import java.net.URL
@@ -133,6 +134,8 @@ fun NextyLibraryApp() {
     var categories by remember { mutableStateOf<List<BookCategory>>(emptyList()) }
     var loading by remember { mutableStateOf(true) }
     var error by remember { mutableStateOf<String?>(null) }
+    var loadingMore by remember { mutableStateOf(false) }
+    var hasMore by remember { mutableStateOf(false) }
     var search by remember { mutableStateOf("") }
     var selectedCategory by remember { mutableStateOf<String?>(null) }
     var selected by remember { mutableStateOf<Book?>(null) }
@@ -148,15 +151,37 @@ fun NextyLibraryApp() {
 
     suspend fun loadCatalog() {
         loading = true
+        loadingMore = false
         error = null
         try {
-            val result = withContext(Dispatchers.IO) { Pair(fetchCategories(), fetchBooks()) }
+            val result = withContext(Dispatchers.IO) {
+                Pair(fetchCategories(), fetchBooks(0, search, selectedCategory))
+            }
             categories = result.first
             books = result.second
+            hasMore = result.second.size == BOOKS_PAGE_SIZE
         } catch (e: Exception) { error = e.localizedMessage ?: "Tidak dapat memuat katalog." }
         finally { loading = false }
     }
-    LaunchedEffect(reloadKey) { loadCatalog() }
+    LaunchedEffect(reloadKey, search, selectedCategory) {
+        if (search.isNotEmpty() || selectedCategory != null) delay(280)
+        loadCatalog()
+    }
+    val scope = rememberCoroutineScope()
+    fun loadMoreBooks() {
+        if (loading || loadingMore || !hasMore) return
+        scope.launch {
+            loadingMore = true
+            try {
+                val next = withContext(Dispatchers.IO) { fetchBooks(books.size, search, selectedCategory) }
+                val knownIds = books.map { it.id }.toHashSet()
+                books = books + next.filter { it.id !in knownIds }
+                hasMore = next.size == BOOKS_PAGE_SIZE
+            } catch (e: Exception) {
+                error = e.localizedMessage ?: "Buku berikutnya gagal dimuat."
+            } finally { loadingMore = false }
+        }
+    }
 
     MaterialTheme(colorScheme = lightColorScheme(primary = Green, onPrimary = Color.White, background = Paper, surface = Color.White, onSurface = Ink)) {
         Surface(Modifier.fillMaxSize(), color = Paper) {
@@ -167,7 +192,7 @@ fun NextyLibraryApp() {
                     BookDetail(selected!!, categories.firstOrNull { it.id == selected!!.categoryId }?.name, onBack = { selected = null }, onRead = { reading = selected })
                 } else {
                     when (tab) {
-                        "Beranda" -> Box(Modifier.weight(1f)) { HomeScreen(books, categories, loading, error, search, { search = it }, selectedCategory, { selectedCategory = it }, { reloadKey++ }, { selected = it }, musicPlayer, musicPlaying, { if (musicPlaying) { musicPlayer.pause(); musicPlaying = false } else { runCatching { musicPlayer.play() }.onSuccess { musicPlaying = true } } }, musicVolume, { musicVolume = it; musicPlayer.setVolume(it) }) }
+                        "Beranda" -> Box(Modifier.weight(1f)) { HomeScreen(books, categories, loading, error, search, { search = it }, selectedCategory, { selectedCategory = it }, { reloadKey++ }, { selected = it }, musicPlayer, musicPlaying, { if (musicPlaying) { musicPlayer.pause(); musicPlaying = false } else { runCatching { musicPlayer.play() }.onSuccess { musicPlaying = true } } }, musicVolume, { musicVolume = it; musicPlayer.setVolume(it) }, hasMore, loadingMore, { loadMoreBooks() }) }
                         "Koleksi" -> Box(Modifier.weight(1f)) { CollectionEmptyScreen() }
                         "Donasi" -> Box(Modifier.weight(1f)) { DonationScreen() }
                         else -> Box(Modifier.weight(1f)) { AccountScreen() }
@@ -275,7 +300,8 @@ private fun DonationScreen() {
 private fun HomeScreen(books: List<Book>, categories: List<BookCategory>, loading: Boolean, error: String?,
     search: String, onSearch: (String) -> Unit, selectedCategory: String?, onCategory: (String?) -> Unit,
     onReload: () -> Unit, onBook: (Book) -> Unit, musicPlayer: AmbientMusicPlayer,
-    musicPlaying: Boolean, onMusicToggle: () -> Unit, musicVolume: Float, onMusicVolume: (Float) -> Unit) {
+    musicPlaying: Boolean, onMusicToggle: () -> Unit, musicVolume: Float, onMusicVolume: (Float) -> Unit,
+    hasMore: Boolean, loadingMore: Boolean, onLoadMore: () -> Unit) {
     val filtered = books.filter { b ->
         (b.title.contains(search, true) || b.author.contains(search, true)) &&
         (selectedCategory == null || b.categoryId == selectedCategory)
@@ -319,10 +345,23 @@ private fun HomeScreen(books: List<Book>, categories: List<BookCategory>, loadin
                     if (books.isEmpty()) "Buku yang diterbitkan akan muncul di sini lengkap dengan sampul dan detailnya." else "Coba kata kunci atau kategori yang berbeda.",
                     if (books.isEmpty()) null else "Hapus filter", { onCategory(null); onSearch("") })
             }
-            else -> items(filtered.chunked(2)) { rowBooks ->
-                Row(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 6.dp), horizontalArrangement = Arrangement.spacedBy(12.dp)) {
-                    rowBooks.forEach { b -> BookGridCard(b, categories.firstOrNull { it.id == b.categoryId }?.name, Modifier.weight(1f)) { onBook(b) } }
-                    if (rowBooks.size == 1) Spacer(Modifier.weight(1f))
+            else -> {
+                items(filtered.chunked(2)) { rowBooks ->
+                    Row(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 6.dp), horizontalArrangement = Arrangement.spacedBy(12.dp)) {
+                        rowBooks.forEach { b -> BookGridCard(b, categories.firstOrNull { it.id == b.categoryId }?.name, Modifier.weight(1f)) { onBook(b) } }
+                        if (rowBooks.size == 1) Spacer(Modifier.weight(1f))
+                    }
+                }
+                if (hasMore || loadingMore) item {
+                    Box(Modifier.fillMaxWidth().padding(horizontal = 22.dp, vertical = 18.dp), contentAlignment = Alignment.Center) {
+                        if (loadingMore) {
+                            CircularProgressIndicator(color = Green, modifier = Modifier.size(28.dp))
+                        } else {
+                            OutlinedButton(onClick = onLoadMore, shape = RoundedCornerShape(14.dp)) {
+                                Text("Muat 40 buku berikutnya", color = Green, fontWeight = FontWeight.Bold)
+                            }
+                        }
+                    }
                 }
             }
         }
@@ -1282,16 +1321,30 @@ private fun fetchCategories(): List<BookCategory> {
     } finally { connection.disconnect() }
 }
 
-private fun fetchBooks(): List<Book> {
-    val endpoint = BuildConfig.SUPABASE_URL.trimEnd('/') + "/rest/v1/books?select=id,title,author,description,category_id,page_count,cover_path,content_path,language,license_type,license_note&is_published=eq.true&order=published_at.desc"
+private const val BOOKS_PAGE_SIZE = 40
+
+private fun fetchBooks(offset: Int = 0, search: String = "", categoryId: String? = null): List<Book> {
+    val query = StringBuilder("select=id,title,author,description,category_id,page_count,cover_path,content_path,language,license_type,license_note")
+    query.append("&is_published=eq.true&order=published_at.desc&limit=").append(BOOKS_PAGE_SIZE)
+    query.append("&offset=").append(offset.coerceAtLeast(0))
+    if (!categoryId.isNullOrBlank()) query.append("&category_id=eq.").append(Uri.encode(categoryId))
+    val safeSearch = search.trim().take(80).filter { it.isLetterOrDigit() || it.isWhitespace() || it == '-' }
+    if (safeSearch.isNotBlank()) {
+        val pattern = ".*" + safeSearch + ".*"
+        val filter = "or=(title.ilike." + pattern + ",author.ilike." + pattern + ")"
+        query.append("&").append(Uri.encode(filter))
+    }
+    val endpoint = BuildConfig.SUPABASE_URL.trimEnd('/') + "/rest/v1/books?" + query
     val connection = URL(endpoint).openConnection() as HttpURLConnection
     try {
         connection.requestMethod = "GET"
         connection.connectTimeout = 15000
-        connection.readTimeout = 15000
+        connection.readTimeout = 20000
         connection.setRequestProperty("apikey", BuildConfig.SUPABASE_PUBLISHABLE_KEY)
         connection.setRequestProperty("Authorization", "Bearer " + BuildConfig.SUPABASE_PUBLISHABLE_KEY)
         connection.setRequestProperty("Accept", "application/json")
+        connection.setRequestProperty("Range-Unit", "items")
+        connection.setRequestProperty("Range", offset.toString() + "-" + (offset + BOOKS_PAGE_SIZE - 1))
         val code = connection.responseCode
         if (code !in 200..299) throw IllegalStateException("Supabase buku merespons HTTP " + code)
         val array = JSONArray(connection.inputStream.bufferedReader().use { it.readText() })

@@ -60,3 +60,31 @@ Fungsi: aturan yang memasangkan setiap masukan dengan satu keluaran.
 
 CATATAN PENULIS
 Latihan bertahap dan pemeriksaan kembali jawaban membantu membangun pemahaman aljabar yang kuat.
+
+PENDALAMAN: ALJABAR, FUNGSI, DAN PEMODELAN
+BAB 7 — PERSAMAAN LINEAR DAN SISTEM PERSAMAAN
+Persamaan linear menyatakan kesetaraan dua bentuk aljabar. Menambah atau mengurangi kedua ruas dengan nilai yang sama, serta mengalikan atau membagi kedua ruas dengan bilangan bukan nol, mempertahankan kesetaraan. Setiap langkah penyelesaian perlu menjaga keseimbangan tersebut.
+Sistem persamaan linear memuat dua atau lebih persamaan dengan variabel yang sama. Solusinya adalah nilai yang memenuhi semua persamaan sekaligus. Metode grafik, substitusi, dan eliminasi memberi cara berbeda untuk menemukan solusi. Dalam konteks nyata, variabel dan satuan harus didefinisikan sebelum menyusun model.
+BAB 8 — PERTIDAKSAMAAN DAN DAERAH SOLUSI
+Pertidaksamaan menggunakan tanda lebih besar, lebih kecil, atau sama dengan. Ketika kedua ruas dikalikan atau dibagi bilangan negatif, arah tanda harus dibalik. Pada garis bilangan, titik ujung terbuka atau tertutup menunjukkan apakah batas termasuk solusi.
+Dalam dua variabel, pertidaksamaan membentuk setengah bidang. Sistem beberapa pertidaksamaan menghasilkan daerah yang memenuhi seluruh batasan. Model seperti ini dapat menggambarkan keterbatasan waktu, bahan, atau anggaran.
+BAB 9 — FUNGSI KUADRAT
+Fungsi kuadrat memiliki bentuk umum ax² + bx + c dengan a tidak sama dengan nol. Grafiknya berupa parabola yang terbuka ke atas jika a positif dan ke bawah jika a negatif. Titik puncak menunjukkan nilai ekstrem, sedangkan akar merupakan titik potong dengan sumbu horizontal jika akar real.
+Fungsi kuadrat dapat digunakan untuk memodelkan lintasan sederhana, luas, atau keuntungan pada asumsi tertentu. Model hanya berlaku dalam rentang dan kondisi yang sesuai; tidak semua fenomena nyata mengikuti parabola.
+BAB 10 — EKSPONEN DAN LOGARITMA
+Eksponen menyatakan perkalian berulang dan mengikuti aturan pangkat. Pertumbuhan eksponensial terjadi ketika perubahan sebanding dengan jumlah yang sedang ada, misalnya model ideal populasi atau bunga majemuk pada tingkat tetap. Dalam kenyataan, sumber daya terbatas dapat mengubah pola pertumbuhan.
+Logaritma merupakan operasi kebalikan eksponen. Skala logaritmik berguna ketika rentang nilai sangat lebar, tetapi selisih pada skala tersebut tidak sama dengan selisih biasa. Periksa basis dan satuan ketika membaca grafik logaritmik.
+BAB 11 — BARISAN DAN DERET
+Barisan aritmetika memiliki beda tetap, sedangkan barisan geometri memiliki rasio tetap. Deret adalah penjumlahan suku-suku barisan. Rumus jumlah suku dapat mempersingkat perhitungan, tetapi harus dipilih sesuai pola.
+Model cicilan, tabungan, dan pertumbuhan dapat memakai barisan atau deret dengan asumsi tertentu. Jelaskan apakah setoran dilakukan pada awal atau akhir periode serta bagaimana bunga diterapkan.
+BAB 12 — FUNGSI DAN TRANSFORMASI GRAFIK
+Fungsi memetakan setiap masukan dalam domain ke tepat satu keluaran. Domain adalah himpunan masukan yang diperbolehkan dan range adalah keluaran yang dihasilkan. Pergeseran grafik, pencerminan, dan peregangan mengubah bentuk atau posisi fungsi secara teratur.
+Membaca grafik berarti memperhatikan skala, titik potong, tren, dan interval. Grafik yang tampak curam dapat dipengaruhi pilihan rentang sumbu. Selalu periksa label dan satuan.
+BAB 13 — PEMODELAN DAN VALIDASI
+Pemodelan matematika dimulai dengan menerjemahkan situasi menjadi variabel, asumsi, dan hubungan. Setelah memperoleh hasil, periksa apakah satuannya benar dan apakah nilai masuk akal. Model perlu diuji dengan data atau contoh lain.
+Model yang baik bukan model yang rumit, melainkan model yang cukup sesuai untuk tujuan tertentu. Tuliskan batasan dan jangan mengekstrapolasi jauh di luar rentang data tanpa alasan.
+LATIHAN PENDALAMAN
+1. Mengapa tanda pertidaksamaan berbalik ketika dikali bilangan negatif? Jawaban: karena urutan bilangan pada garis bilangan berubah arah saat dikalikan nilai negatif.
+2. Apa makna titik puncak parabola? Jawaban: titik maksimum atau minimum fungsi kuadrat.
+3. Kapan model eksponensial tidak lagi sesuai? Jawaban: ketika asumsi laju relatif tetap gagal, misalnya akibat keterbatasan sumber daya.
+4. Mengapa satuan penting dalam pemodelan? Jawaban: satuan membantu memeriksa konsistensi dan mencegah penafsiran keliru.

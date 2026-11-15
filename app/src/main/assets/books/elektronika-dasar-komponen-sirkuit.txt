@@ -62,3 +62,22 @@ Transistor: komponen semikonduktor untuk sakelar atau penguatan.
 
 CATATAN PENULIS
 Naskah pengantar orisinal Nexty Studio. Materi ini bukan instruksi untuk memperbaiki perangkat listrik rumah atau menangani tegangan tinggi.
+
+
+PENDALAMAN — MEMBACA DAN MEMAHAMI SISTEM ELEKTRONIK
+BAB 7 — DIAGRAM RANGKAIAN
+Diagram menggunakan simbol untuk menunjukkan hubungan listrik, bukan bentuk fisik komponen. Garis menunjukkan sambungan; simbol mewakili resistor, kapasitor, sumber, sakelar, dan komponen lain. Pada rangkaian seri, komponen berada pada satu jalur sehingga arus sama melewati tiap komponen. Pada rangkaian paralel, cabang memiliki beda potensial yang sama dan arus terbagi sesuai karakteristik cabang.
+BAB 8 — HUKUM OHM DAN DAYA
+Untuk resistor ohmik pada kondisi tertentu, V = I × R. Jika tegangan tetap dan hambatan meningkat, arus menurun. Daya listrik dapat dihitung dengan P = V × I. Satuan tegangan volt, arus ampere, hambatan ohm, dan daya watt. Persamaan merupakan model yang memiliki batas; dioda dan lampu pijar tidak selalu menunjukkan hubungan linear pada semua kondisi.
+BAB 9 — DIODA, LED, DAN TRANSISTOR
+Dioda memungkinkan arus lebih mudah mengalir pada satu arah. LED memancarkan cahaya pada kondisi kerja yang sesuai dan memerlukan pembatas arus. Transistor dapat berfungsi sebagai sakelar elektronik atau penguat sinyal. Komponen memiliki batas tegangan, arus, daya, dan suhu; datasheet produsen perlu diperiksa dalam rancangan profesional.
+BAB 10 — KAPASITOR DAN SINYAL
+Kapasitor menyimpan energi dalam medan listrik. Kapasitor dapat membantu penyaringan, pengkopelan, penundaan waktu, dan penstabilan tegangan. Kapasitansi diukur dalam farad. Karakteristik nyata dipengaruhi tegangan kerja, toleransi, suhu, dan bahan dielektrik.
+BAB 11 — SENSOR DAN KENDALI
+Sensor mengubah besaran fisik seperti cahaya, suhu, tekanan, atau gerak menjadi sinyal yang dapat diolah. Sistem kendali membaca sinyal dan mengatur keluaran. Sistem terbuka tidak menggunakan umpan balik; sistem tertutup menggunakan umpan balik untuk menyesuaikan tindakan. Pembacaan sensor dipengaruhi kalibrasi, posisi, gangguan, dan lingkungan.
+BAB 12 — KESELAMATAN DAN PENGUJIAN
+Pembelajaran pemula harus menggunakan kit pendidikan bertegangan rendah. Jangan membuka perangkat yang terhubung ke listrik rumah atau menyentuh komponen berbahaya. Untuk perangkat rumah, serahkan pemeriksaan kepada teknisi kompeten. Dalam percobaan pendidikan, periksa diagram dan spesifikasi bersama pengajar, catat hasil, dan ubah satu variabel pada satu waktu.
+LATIHAN
+1. Apa beda rangkaian seri dan paralel? Jawaban: seri satu jalur; paralel memiliki cabang.
+2. Jika V 6 volt dan R 300 ohm, berapa arus ideal? Jawaban: 0,02 ampere atau 20 miliampere.
+3. Mengapa LED memerlukan pembatas arus? Jawaban: agar arus tidak melampaui batas kerja.

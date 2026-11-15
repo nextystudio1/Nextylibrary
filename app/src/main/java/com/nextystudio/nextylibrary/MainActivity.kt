@@ -223,7 +223,7 @@ private fun HeroBanner(bookCount: Int) {
 private fun MusicPlayerCard() {
     val player = remember { AmbientMusicPlayer() }
     var playing by remember { mutableStateOf(false) }
-    var volume by remember { mutableFloatStateOf(0.85f) }
+    var volume by remember { mutableFloatStateOf(1f) }
     val activity = LocalContext.current as? ComponentActivity
     DisposableEffect(player, activity) {
         val observer = LifecycleEventObserver { _, event ->
@@ -292,7 +292,7 @@ private fun MusicPlayerCard() {
 
 private class AmbientMusicPlayer {
     private var track: AudioTrack? = null
-    private var volume: Float = 0.85f
+    private var volume: Float = 1f
 
     fun setVolume(value: Float) {
         volume = value.coerceIn(0f, 1f)
@@ -322,7 +322,7 @@ private class AmbientMusicPlayer {
                 sin(2.0 * PI * root * 1.25 * time) * 0.25 +
                 sin(2.0 * PI * root * 1.5 * time) * 0.18 +
                 sin(2.0 * PI * root * 2.0 * time) * 0.09
-            val value = (pad * envelope * slowPulse * 0.22 * Short.MAX_VALUE).toInt()
+            val value = (pad * envelope * slowPulse * 0.30 * Short.MAX_VALUE).toInt()
                 .coerceIn(Short.MIN_VALUE.toInt(), Short.MAX_VALUE.toInt()).toShort()
             samples[frame * 2] = value
             samples[frame * 2 + 1] = value

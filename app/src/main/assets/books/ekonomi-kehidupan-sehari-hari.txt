@@ -1,0 +1,292 @@
+EKONOMI DALAM KEHIDUPAN SEHARI-HARI
+Pilihan, Pasar, Uang, Kebijakan, dan Kesejahteraan
+Penulis: Tim Edukasi Nexty Studio
+Edisi pertama, 2026
+
+PENGANTAR
+Ekonomi mempelajari bagaimana individu dan masyarakat membuat pilihan ketika sumber daya terbatas. Ilmu ini membahas keputusan rumah tangga, kegiatan usaha, pasar, pemerintah, perdagangan, dan perkembangan ekonomi. Buku ini menyajikan konsep dasar dengan contoh sederhana. Angka dalam latihan bersifat ilustratif dan bukan rekomendasi keuangan atau gambaran kondisi ekonomi terkini.
+
+DAFTAR ISI
+1. Apa yang Dipelajari Ilmu Ekonomi
+2. Kelangkaan dan Biaya Peluang
+3. Permintaan dan Penawaran
+4. Harga dan Keseimbangan Pasar
+5. Produksi, Biaya, dan Produktivitas
+6. Bentuk Pasar dan Persaingan
+7. Rumah Tangga dan Keputusan Konsumsi
+8. Uang, Bank, dan Sistem Pembayaran
+9. Inflasi dan Daya Beli
+10. Pengangguran dan Pasar Tenaga Kerja
+11. Peran Pemerintah dan Pajak
+12. Perdagangan dan Globalisasi
+13. Pertumbuhan, Pembangunan, dan Ketimpangan
+14. Ekonomi Berkelanjutan dan Literasi Ekonomi
+Lampiran: Istilah, latihan, dan pembahasan
+
+BAB 1. APA YANG DIPELAJARI ILMU EKONOMI
+Ekonomi mempelajari pilihan manusia dalam menggunakan sumber daya yang terbatas untuk memenuhi kebutuhan dan keinginan. Sumber daya meliputi waktu, tenaga kerja, modal, pengetahuan, lahan, dan bahan alam. Karena sumber daya terbatas, individu dan masyarakat perlu menentukan prioritas.
+
+Mikroekonomi mengkaji keputusan rumah tangga, perusahaan, dan pasar tertentu. Makroekonomi mengkaji perekonomian secara keseluruhan, termasuk inflasi, pengangguran, pertumbuhan, dan kebijakan moneter maupun fiskal. Kedua bidang saling berkaitan: keputusan individu dapat memengaruhi hasil ekonomi agregat, sedangkan kondisi ekonomi luas memengaruhi keputusan individu.
+
+Pernyataan positif menjelaskan sesuatu yang dapat diuji dengan bukti, sedangkan pernyataan normatif menyatakan penilaian tentang apa yang sebaiknya dilakukan. Contoh positif: kenaikan harga dapat mengurangi jumlah barang yang diminta, dengan faktor lain tetap. Contoh normatif: pemerintah sebaiknya membantu kelompok yang paling terdampak kenaikan harga.
+
+Model ekonomi menyederhanakan kenyataan untuk menjelaskan hubungan penting. Model bukan gambaran lengkap dunia. Asumsi harus dinyatakan dan hasilnya dibandingkan dengan data. Jika asumsi tidak sesuai, model perlu disesuaikan.
+
+RANGKUMAN
+• Ekonomi mempelajari pilihan di tengah keterbatasan.
+• Mikroekonomi dan makroekonomi melihat tingkat analisis berbeda.
+• Model ekonomi menyederhanakan kenyataan dan memiliki batas.
+LATIHAN
+Bedakan pernyataan positif dan normatif. Buat masing-masing satu contoh tentang transportasi umum.
+
+BAB 2. KELANGKAAN DAN BIAYA PELUANG
+Kelangkaan berarti sumber daya tidak cukup untuk memenuhi seluruh keinginan pada saat yang sama. Kelangkaan tidak selalu berarti suatu barang tidak ada sama sekali. Waktu belajar, anggaran keluarga, ruang kota, dan kapasitas lingkungan semuanya terbatas.
+
+Biaya peluang adalah nilai alternatif terbaik yang dikorbankan ketika memilih satu pilihan. Jika seseorang menggunakan dua jam untuk menonton film, biaya peluangnya dapat berupa kegiatan belajar atau istirahat yang tidak dilakukan. Biaya peluang bukan hanya uang yang dibayar, tetapi manfaat dari alternatif terbaik yang dilepas.
+
+Kurva kemungkinan produksi menggambarkan kombinasi maksimum dua jenis keluaran yang dapat dihasilkan dengan sumber daya dan teknologi tertentu. Titik di dalam kurva menunjukkan sumber daya belum dimanfaatkan sepenuhnya atau tidak efisien. Titik di luar kurva belum dapat dicapai dengan kapasitas saat ini. Pertumbuhan teknologi atau sumber daya dapat menggeser kurva.
+
+Keputusan yang baik membandingkan manfaat tambahan dengan biaya tambahan. Prinsip marginal membantu menilai apakah satu unit tambahan kegiatan masih memberi manfaat lebih besar daripada biaya yang timbul. Biaya yang sudah terlanjur dikeluarkan dan tidak dapat dipulihkan disebut biaya hangus; biaya ini seharusnya tidak mendominasi keputusan berikutnya.
+
+RANGKUMAN
+• Kelangkaan mengharuskan adanya pilihan.
+• Biaya peluang adalah alternatif terbaik yang dikorbankan.
+• Keputusan marginal membandingkan manfaat dan biaya tambahan.
+LATIHAN
+Seseorang memiliki waktu tiga jam dan memilih belajar selama dua jam. Sebutkan beberapa alternatif yang dikorbankan dan jelaskan mana biaya peluang utamanya.
+
+BAB 3. PERMINTAAN DAN PENAWARAN
+Permintaan menggambarkan hubungan antara harga suatu barang dan jumlah yang ingin serta mampu dibeli konsumen dalam periode tertentu, dengan faktor lain tetap. Hukum permintaan menyatakan bahwa ketika harga naik, jumlah yang diminta biasanya turun, dan sebaliknya. Hubungan ini dapat dipengaruhi pendapatan, selera, harga barang terkait, jumlah pembeli, dan perkiraan masa depan.
+
+Penawaran menggambarkan hubungan harga dan jumlah yang ingin serta mampu dijual produsen. Ketika harga naik, produsen biasanya bersedia menawarkan jumlah lebih besar karena potensi pendapatan meningkat. Penawaran juga dipengaruhi biaya input, teknologi, pajak, subsidi, jumlah penjual, dan kondisi alam.
+
+Perubahan harga barang itu sendiri menyebabkan pergerakan sepanjang kurva permintaan atau penawaran. Perubahan faktor lain dapat menggeser seluruh kurva. Pembedaan ini penting agar analisis tidak mencampur perubahan jumlah yang diminta dengan perubahan permintaan.
+
+Elastisitas mengukur seberapa responsif jumlah yang diminta atau ditawarkan terhadap perubahan faktor tertentu. Permintaan cenderung lebih elastis jika tersedia banyak pengganti dan konsumen memiliki waktu untuk menyesuaikan diri. Barang kebutuhan tertentu dalam jangka pendek dapat memiliki permintaan yang relatif tidak elastis.
+
+RANGKUMAN
+• Permintaan berasal dari keputusan konsumen.
+• Penawaran berasal dari keputusan produsen.
+• Harga barang menyebabkan pergerakan kurva, sedangkan faktor lain dapat menggesernya.
+LATIHAN
+Jelaskan bagaimana perubahan pendapatan dapat memengaruhi permintaan barang normal. Bedakan dengan perubahan harga barang itu sendiri.
+
+BAB 4. HARGA DAN KESEIMBANGAN PASAR
+Keseimbangan pasar terjadi ketika jumlah yang diminta sama dengan jumlah yang ditawarkan pada harga tertentu. Harga keseimbangan bukan berarti harga selalu adil atau terbaik bagi setiap orang; konsep ini menjelaskan kondisi ketika rencana pembeli dan penjual cocok dalam model pasar.
+
+Jika harga berada di atas keseimbangan, jumlah yang ditawarkan dapat melebihi jumlah yang diminta sehingga muncul surplus. Jika harga di bawah keseimbangan, jumlah yang diminta dapat melebihi jumlah yang ditawarkan sehingga terjadi kekurangan. Tekanan pasar dapat mendorong harga berubah, meskipun regulasi dan hambatan lain dapat memengaruhi prosesnya.
+
+Pajak per unit dapat meningkatkan biaya yang ditanggung penjual dan mengubah harga yang dibayar pembeli serta jumlah transaksi. Beban ekonomi pajak tidak selalu seluruhnya ditanggung pihak yang secara hukum membayarnya. Pembagiannya bergantung pada elastisitas permintaan dan penawaran.
+
+Batas harga maksimum yang ditetapkan di bawah keseimbangan dapat menimbulkan kekurangan jika tidak disertai mekanisme lain. Batas harga minimum di atas keseimbangan dapat menimbulkan surplus. Kebijakan harga perlu dianalisis bersama tujuan sosial, distribusi manfaat, dan dampak sampingnya.
+
+RANGKUMAN
+• Keseimbangan menyamakan jumlah diminta dan ditawarkan.
+• Surplus dan kekurangan terjadi ketika harga tidak berada pada keseimbangan.
+• Dampak kebijakan harga bergantung pada kondisi pasar.
+LATIHAN
+Mengapa harga maksimum yang terlalu rendah dapat menimbulkan antrean atau kekurangan barang?
+
+BAB 5. PRODUKSI, BIAYA, DAN PRODUKTIVITAS
+Produksi mengubah input menjadi barang atau jasa. Input utama sering dikelompokkan menjadi sumber daya alam, tenaga kerja, modal, dan kewirausahaan. Produktivitas mengukur keluaran dibandingkan input yang digunakan. Produktivitas dapat meningkat melalui keterampilan, teknologi, organisasi kerja, dan infrastruktur.
+
+Biaya tetap tidak berubah dalam rentang produksi tertentu, sedangkan biaya variabel berubah mengikuti jumlah produksi. Biaya total adalah penjumlahan keduanya. Biaya rata-rata adalah biaya total per unit, sementara biaya marginal adalah tambahan biaya untuk menghasilkan satu unit tambahan.
+
+Dalam jangka pendek, sebagian input sulit diubah. Dalam jangka panjang, perusahaan dapat menyesuaikan kapasitas dan teknologi. Hukum hasil tambahan yang semakin berkurang dapat muncul ketika satu input terus ditambah sementara input lain tetap, sehingga tambahan output akhirnya mengecil.
+
+Keputusan produksi harus memperhitungkan biaya eksplisit seperti bahan dan upah serta biaya implisit seperti penggunaan waktu pemilik atau peluang modal. Keuntungan ekonomi memperhitungkan keduanya. Perusahaan yang tampak memperoleh surplus kas belum tentu menghasilkan keuntungan ekonomi jika biaya peluangnya besar.
+
+RANGKUMAN
+• Produksi menggabungkan berbagai input.
+• Produktivitas berkaitan dengan keluaran per input.
+• Biaya marginal membantu keputusan menambah produksi.
+LATIHAN
+Sebuah usaha mengeluarkan biaya tetap dan biaya variabel. Jelaskan mengapa biaya rata-rata dapat turun saat produksi bertambah, lalu naik kembali pada kondisi tertentu.
+
+BAB 6. BENTUK PASAR DAN PERSAINGAN
+Pasar persaingan sempurna merupakan model dengan banyak pembeli dan penjual, produk serupa, informasi luas, serta kemudahan masuk dan keluar. Model ini berguna sebagai pembanding, meskipun pasar nyata jarang memenuhi seluruh asumsi secara sempurna.
+
+Monopoli terjadi ketika satu penjual menguasai pasar relevan tanpa pengganti dekat. Hambatan masuk dapat berasal dari skala ekonomi, hak eksklusif, penguasaan sumber daya, atau jaringan. Monopoli dapat memiliki kekuatan menentukan harga, sehingga pengawasan persaingan dan regulasi dapat diperlukan.
+
+Oligopoli terdiri atas sedikit perusahaan besar yang keputusan satu perusahaan memengaruhi perusahaan lain. Persaingan dapat berlangsung melalui harga, kualitas, inovasi, layanan, dan promosi. Perusahaan perlu mempertimbangkan kemungkinan respons pesaing.
+
+Persaingan monopolistik memiliki banyak penjual dengan produk yang dibedakan melalui merek, lokasi, kualitas, atau layanan. Diferensiasi memberi konsumen pilihan, tetapi dapat menambah biaya pemasaran. Kebijakan persaingan berusaha mencegah praktik yang merugikan konsumen dan menghambat inovasi.
+
+RANGKUMAN
+• Struktur pasar berbeda menurut jumlah penjual dan hambatan masuk.
+• Kekuatan pasar memengaruhi harga dan pilihan konsumen.
+• Persaingan dapat terjadi melalui harga maupun kualitas.
+LATIHAN
+Bandingkan monopoli dan oligopoli. Mengapa jumlah perusahaan saja belum cukup untuk menilai tingkat persaingan?
+
+BAB 7. RUMAH TANGGA DAN KEPUTUSAN KONSUMSI
+Rumah tangga menggunakan pendapatan untuk memenuhi kebutuhan, menabung, membayar kewajiban, dan merencanakan masa depan. Anggaran membantu membandingkan pemasukan dengan pengeluaran. Kebutuhan dasar, kewajiban rutin, dana cadangan, dan tujuan jangka panjang perlu dipertimbangkan sesuai keadaan masing-masing.
+
+Pilihan konsumsi dipengaruhi harga, pendapatan, selera, informasi, lingkungan sosial, dan ketersediaan barang. Konsumen tidak selalu memiliki informasi sempurna. Iklan, desain aplikasi, dan promosi dapat memengaruhi keputusan, sehingga penting memeriksa kebutuhan, harga total, syarat, dan alternatif.
+
+Tabungan menunda konsumsi saat ini untuk tujuan mendatang atau menghadapi keadaan tidak terduga. Menabung berbeda dari investasi. Investasi memiliki risiko nilai turun dan jangka waktu yang perlu dipahami. Tidak ada hasil tinggi yang dijamin tanpa risiko.
+
+Literasi konsumen mencakup membaca label, memahami kontrak, memeriksa biaya tersembunyi, dan mengetahui hak pengaduan. Keputusan yang baik tidak hanya mengejar harga terendah, tetapi juga kualitas, keamanan, daya tahan, serta dampak lingkungan.
+
+RANGKUMAN
+• Anggaran membantu mengelola pendapatan dan pengeluaran.
+• Promosi dapat memengaruhi pilihan.
+• Tabungan dan investasi memiliki karakteristik berbeda.
+LATIHAN
+Buat contoh anggaran bulanan sederhana dengan kategori kebutuhan, tabungan, dan pengeluaran pilihan. Gunakan angka rekaan dan pastikan jumlahnya seimbang.
+
+BAB 8. UANG, BANK, DAN SISTEM PEMBAYARAN
+Uang berfungsi sebagai alat tukar, satuan hitung, dan penyimpan nilai. Uang mengurangi kesulitan barter karena orang tidak perlu menemukan pihak yang menginginkan barang yang sama pada waktu bersamaan. Daya beli uang dapat berubah akibat inflasi.
+
+Bank menghimpun dana dan menyalurkan pembiayaan atau pinjaman sesuai aturan dan penilaian risiko. Simpanan dan kredit memiliki peran dalam sistem keuangan. Bank juga menyediakan layanan pembayaran dan pencatatan transaksi. Lembaga keuangan diawasi oleh otoritas sesuai ketentuan negara.
+
+Sistem pembayaran berkembang dari uang tunai ke transfer, kartu, dan pembayaran digital. Kemudahan transaksi perlu diimbangi keamanan. Lindungi kode rahasia, jangan membagikan kata sandi atau kode verifikasi, periksa nama penerima, dan gunakan kanal resmi. Transaksi yang tidak dikenal perlu segera dilaporkan melalui penyedia layanan.
+
+Bunga adalah biaya penggunaan dana atau imbalan atas penempatan dana, sesuai jenis produk dan perjanjian. Periksa suku bunga efektif, biaya administrasi, denda, tenor, dan seluruh ketentuan. Memahami total kewajiban lebih penting daripada hanya melihat cicilan bulanan.
+
+RANGKUMAN
+• Uang memiliki fungsi alat tukar, satuan hitung, dan penyimpan nilai.
+• Bank menghubungkan penyimpan dan peminjam serta menyediakan layanan.
+• Pembayaran digital membutuhkan kebiasaan keamanan.
+LATIHAN
+Sebutkan tiga fungsi uang dan berikan contoh. Mengapa pengguna harus memeriksa total biaya layanan keuangan?
+
+BAB 9. INFLASI DAN DAYA BELI
+Inflasi adalah kenaikan tingkat harga umum secara berkelanjutan, bukan kenaikan harga satu barang saja. Indeks harga konsumen mengukur perubahan harga sekeranjang barang dan jasa yang mewakili pola konsumsi kelompok tertentu. Keranjang dan bobot perlu diperbarui agar mencerminkan perubahan kebiasaan.
+
+Inflasi mengurangi daya beli uang jika pendapatan tidak meningkat secepat harga. Dampaknya berbeda bagi rumah tangga karena pola konsumsi, sumber pendapatan, dan aset mereka tidak sama. Kenaikan harga pangan dapat lebih berat bagi rumah tangga yang sebagian besar pengeluarannya digunakan untuk kebutuhan pokok.
+
+Inflasi dapat dipengaruhi permintaan agregat, biaya produksi, gangguan pasokan, nilai tukar, dan ekspektasi. Penyebab dapat bercampur. Kebijakan moneter memengaruhi kondisi keuangan dan permintaan, sementara kebijakan fiskal dan langkah sisi penawaran dapat membantu mengatasi sumber tekanan tertentu.
+
+Deflasi adalah penurunan tingkat harga umum yang berkelanjutan. Deflasi tidak selalu menguntungkan karena dapat membuat konsumen menunda pembelian, menekan pendapatan perusahaan, dan meningkatkan beban riil utang. Stabilitas harga menjadi tujuan penting kebijakan ekonomi.
+
+RANGKUMAN
+• Inflasi adalah kenaikan tingkat harga umum.
+• Dampak inflasi berbeda antar rumah tangga.
+• Penyebab inflasi dapat berasal dari permintaan maupun biaya dan pasokan.
+LATIHAN
+Mengapa kenaikan harga satu jenis buah tidak cukup untuk menyimpulkan bahwa terjadi inflasi?
+
+BAB 10. PENGANGGURAN DAN PASAR TENAGA KERJA
+Pasar tenaga kerja mempertemukan orang yang menawarkan tenaga dan keterampilan dengan organisasi yang membutuhkan pekerja. Angkatan kerja umumnya mencakup penduduk usia kerja yang bekerja atau sedang mencari pekerjaan sesuai definisi statistik. Tingkat pengangguran harus dibaca bersama definisi dan periode pengukuran.
+
+Pengangguran friksional terjadi ketika seseorang berpindah pekerjaan atau baru memasuki pasar kerja. Pengangguran struktural muncul karena keterampilan atau lokasi pekerja tidak cocok dengan kebutuhan pekerjaan. Pengangguran siklis berkaitan dengan pelemahan kegiatan ekonomi. Kebijakan yang tepat bergantung pada penyebabnya.
+
+Upah dipengaruhi produktivitas, keterampilan, permintaan dan penawaran tenaga kerja, institusi, serta peraturan. Pendidikan dan pelatihan dapat meningkatkan kemampuan, tetapi kesempatan kerja juga dipengaruhi kondisi ekonomi dan struktur wilayah. Tidak semua pengangguran disebabkan kurangnya usaha individu.
+
+Pekerjaan layak mencakup keselamatan, perlindungan, upah yang adil, kesempatan berkembang, dan penghormatan hak pekerja. Perubahan teknologi dapat menghilangkan sebagian tugas dan menciptakan tugas baru. Pembelajaran sepanjang hayat membantu pekerja beradaptasi.
+
+RANGKUMAN
+• Pengangguran memiliki jenis dan penyebab berbeda.
+• Keterampilan dan kondisi ekonomi sama-sama memengaruhi kesempatan kerja.
+• Pekerjaan layak mencakup keselamatan dan perlindungan.
+LATIHAN
+Bedakan pengangguran friksional, struktural, dan siklis dengan contoh.
+
+BAB 11. PERAN PEMERINTAH DAN PAJAK
+Pemerintah menyediakan barang dan layanan publik, membangun infrastruktur, menjaga stabilitas, melindungi hak, serta menangani kegagalan pasar. Barang publik murni bersifat sulit mengecualikan pengguna dan tidak berkurang ketika digunakan satu orang, seperti penerangan jalan dalam pengertian tertentu. Barang publik berbeda dari barang privat.
+
+Pajak membiayai layanan dan program pemerintah. Pajak dapat dirancang berdasarkan kemampuan membayar, konsumsi, kepemilikan, atau transaksi. Sistem pajak memiliki tujuan penerimaan dan dapat memengaruhi perilaku ekonomi. Penilaian pajak perlu memperhatikan keadilan, efisiensi, kepastian, dan kemudahan administrasi.
+
+Anggaran pemerintah mencatat penerimaan dan belanja. Defisit terjadi ketika belanja melebihi penerimaan dalam periode tertentu, sedangkan surplus terjadi sebaliknya. Pembiayaan defisit dapat melibatkan utang. Utang perlu dikelola agar kewajiban masa depan tetap dapat dipenuhi.
+
+Kebijakan fiskal menggunakan pajak dan belanja pemerintah untuk memengaruhi kegiatan ekonomi. Belanja dapat mendukung permintaan saat ekonomi melemah, tetapi kualitas program, ketepatan sasaran, dan keberlanjutan fiskal tetap penting. Transparansi dan pengawasan publik membantu memastikan dana digunakan sesuai tujuan.
+
+RANGKUMAN
+• Pemerintah menangani layanan publik dan kegagalan pasar.
+• Pajak membiayai fungsi pemerintahan.
+• Anggaran perlu transparan dan berkelanjutan.
+LATIHAN
+Mengapa layanan penerangan jalan dapat memiliki karakter barang publik? Sebutkan dua manfaat transparansi anggaran.
+
+BAB 12. PERDAGANGAN DAN GLOBALISASI
+Perdagangan memungkinkan wilayah memperoleh barang dan jasa yang tidak diproduksi secara efisien di tempat sendiri. Keunggulan komparatif muncul ketika suatu pihak memiliki biaya peluang lebih rendah dalam menghasilkan barang tertentu. Perdagangan dapat memberi manfaat bagi kedua pihak, meskipun distribusi manfaat di dalam masing-masing wilayah dapat berbeda.
+
+Tarif adalah pungutan atas barang impor. Kuota membatasi jumlah barang yang dapat masuk. Kebijakan proteksi dapat melindungi industri tertentu dalam jangka pendek, tetapi juga dapat meningkatkan harga dan mengurangi pilihan konsumen. Evaluasi kebijakan perlu mempertimbangkan tujuan, biaya, dan dampak jangka panjang.
+
+Nilai tukar menyatakan harga satu mata uang dalam mata uang lain. Perubahan nilai tukar memengaruhi harga impor, pendapatan eksportir, biaya produksi, dan kewajiban yang menggunakan mata uang asing. Dampaknya berbeda menurut struktur kegiatan ekonomi.
+
+Globalisasi menghubungkan produksi melalui rantai pasok internasional. Gangguan transportasi, bencana, konflik, atau kebijakan perdagangan dapat memengaruhi pasokan. Diversifikasi pemasok, peningkatan kemampuan lokal, dan kerja sama dapat memperkuat ketahanan tanpa mengabaikan manfaat perdagangan.
+
+RANGKUMAN
+• Keunggulan komparatif didasarkan pada biaya peluang.
+• Proteksi perdagangan memiliki manfaat dan biaya.
+• Rantai pasok global saling terhubung dan dapat rentan terhadap gangguan.
+LATIHAN
+Jelaskan mengapa dua negara dapat memperoleh manfaat dari perdagangan meskipun salah satunya lebih produktif dalam semua barang.
+
+BAB 13. PERTUMBUHAN, PEMBANGUNAN, DAN KETIMPANGAN
+Pertumbuhan ekonomi biasanya diukur melalui perubahan nilai produksi barang dan jasa dalam suatu perekonomian. Produk domestik bruto (PDB) merangkum nilai tambah produksi dalam batas wilayah selama periode tertentu. PDB per kapita membagi PDB dengan jumlah penduduk, tetapi bukan ukuran langsung kesejahteraan setiap orang.
+
+Pembangunan ekonomi lebih luas daripada pertumbuhan. Pembangunan mencakup kesehatan, pendidikan, kesempatan, keamanan, kualitas lingkungan, dan kemampuan masyarakat menentukan masa depan. Indeks gabungan dapat membantu, tetapi tetap menyederhanakan kenyataan.
+
+Ketimpangan mengukur perbedaan distribusi pendapatan atau kekayaan. Rata-rata pendapatan dapat naik sementara sebagian kelompok tidak mengalami peningkatan yang sama. Ukuran seperti kurva Lorenz dan koefisien Gini membantu menggambarkan distribusi, tetapi harus dilengkapi informasi tentang kemiskinan, akses layanan, dan mobilitas sosial.
+
+Kebijakan pembangunan dapat mencakup pendidikan bermutu, kesehatan, infrastruktur, perlindungan sosial, akses keuangan, dan kesempatan kerja. Program harus dievaluasi dengan data hasil, bukan hanya jumlah kegiatan. Pertumbuhan yang inklusif memperluas kesempatan dan membagikan manfaat secara lebih merata.
+
+RANGKUMAN
+• PDB mengukur produksi, bukan seluruh kesejahteraan.
+• Pembangunan mencakup dimensi sosial dan lingkungan.
+• Data rata-rata dapat menyembunyikan ketimpangan.
+LATIHAN
+Mengapa kenaikan PDB per kapita belum tentu berarti semua rumah tangga menjadi lebih sejahtera?
+
+BAB 14. EKONOMI BERKELANJUTAN DAN LITERASI EKONOMI
+Kegiatan ekonomi bergantung pada alam sebagai sumber bahan dan penerima limbah. Biaya lingkungan yang tidak tercermin dalam harga disebut eksternalitas. Polusi dari produksi dapat membebani masyarakat yang tidak terlibat langsung dalam transaksi. Kebijakan dapat menggunakan standar, pajak lingkungan, insentif, atau sistem perdagangan izin untuk mengurangi dampak.
+
+Sumber daya bersama seperti perikanan dan hutan dapat mengalami tekanan berlebihan jika akses dan pengelolaannya tidak diatur. Tata kelola yang melibatkan masyarakat, aturan jelas, pemantauan, dan pembagian manfaat dapat membantu menjaga sumber daya.
+
+Ekonomi sirkular berupaya mengurangi limbah dengan merancang produk tahan lama, memperbaiki, menggunakan kembali, dan mendaur ulang bahan. Daur ulang penting, tetapi pencegahan limbah dan desain yang baik sering lebih efektif daripada hanya mengolah sampah di akhir proses.
+
+Literasi ekonomi berarti memahami biaya peluang, harga, kontrak, inflasi, risiko, dan kebijakan. Sebelum mengambil keputusan, periksa sumber informasi, hitung total biaya, bandingkan pilihan, dan waspadai janji keuntungan pasti yang tidak masuk akal. Keputusan ekonomi yang bertanggung jawab mempertimbangkan dampak terhadap orang lain dan lingkungan.
+
+RANGKUMAN
+• Eksternalitas membuat sebagian biaya tidak tercermin dalam harga.
+• Tata kelola membantu menjaga sumber daya bersama.
+• Ekonomi sirkular mengurangi penggunaan bahan dan limbah.
+LATIHAN
+Berikan contoh eksternalitas negatif dan jelaskan dua kebijakan yang dapat menguranginya.
+
+LAMPIRAN A. ISTILAH PENTING
+Biaya peluang: nilai alternatif terbaik yang dikorbankan.
+Defisit: keadaan ketika belanja melebihi penerimaan dalam suatu periode.
+Elastisitas: ukuran respons jumlah terhadap perubahan faktor.
+Inflasi: kenaikan tingkat harga umum secara berkelanjutan.
+Keseimbangan pasar: keadaan jumlah diminta sama dengan jumlah ditawarkan.
+Kelangkaan: keterbatasan sumber daya dibandingkan keinginan.
+Monopoli: struktur pasar dengan satu penjual utama tanpa pengganti dekat.
+PDB: nilai tambah produksi dalam batas wilayah selama periode tertentu.
+Produktivitas: keluaran dibandingkan input.
+Pajak: pungutan wajib berdasarkan ketentuan hukum.
+Pengangguran: keadaan tidak bekerja dan memenuhi kriteria pencarian kerja menurut definisi statistik.
+Permintaan: jumlah yang ingin dan mampu dibeli pada berbagai tingkat harga.
+Penawaran: jumlah yang ingin dan mampu dijual pada berbagai tingkat harga.
+Surplus: keadaan jumlah ditawarkan melebihi jumlah diminta.
+Eksternalitas: dampak kegiatan terhadap pihak lain di luar transaksi.
+
+LAMPIRAN B. LATIHAN DAN PEMBAHASAN
+1. Pernyataan positif dapat diuji dengan data; normatif mengandung penilaian tentang apa yang sebaiknya.
+2. Biaya peluang adalah manfaat alternatif terbaik yang dilepas, bukan semua alternatif sekaligus.
+3. Pendapatan yang meningkat dapat menggeser permintaan barang normal ke kanan, dengan faktor lain tetap.
+4. Harga maksimum di bawah keseimbangan dapat membuat jumlah diminta lebih besar daripada jumlah ditawarkan.
+5. Produktivitas dapat meningkat melalui teknologi dan keterampilan, tetapi hasil tambahan dapat menurun jika input lain tetap.
+6. Monopoli memiliki satu penjual utama; oligopoli memiliki sedikit perusahaan yang saling memperhatikan keputusan pesaing.
+7. Anggaran membantu memastikan pengeluaran tidak melebihi pemasukan dan tujuan prioritas diperhatikan.
+8. Fungsi uang adalah alat tukar, satuan hitung, dan penyimpan nilai.
+9. Kenaikan harga satu barang belum menunjukkan perubahan tingkat harga umum.
+10. Pengangguran friksional terjadi saat perpindahan kerja; struktural karena ketidakcocokan; siklis karena pelemahan ekonomi.
+11. Transparansi anggaran memungkinkan publik menilai penggunaan dana dan meminta pertanggungjawaban.
+12. Keunggulan komparatif bergantung pada biaya peluang relatif, bukan hanya produktivitas absolut.
+13. PDB per kapita adalah rata-rata dan tidak menunjukkan distribusi pendapatan.
+14. Polusi merupakan eksternalitas ketika biayanya ditanggung pihak di luar transaksi.
+
+DAFTAR RUJUKAN KONSEPTUAL
+• OpenStax, Principles of Economics, untuk konsep ekonomi mikro dan makro.
+• Bank Indonesia, materi edukasi kebanksentralan dan sistem pembayaran.
+• Badan Pusat Statistik, publikasi indikator ekonomi dan ketenagakerjaan.
+• World Bank, materi data dan pembangunan ekonomi.
+• OECD, materi produktivitas, perdagangan, dan kebijakan publik.
+Naskah disusun secara orisinal oleh Tim Edukasi Nexty Studio sebagai materi pengantar. Rujukan dicantumkan untuk pendalaman konsep dan verifikasi.
+
+PENUTUP
+Ilmu ekonomi membantu kita memahami pilihan dan konsekuensinya. Angka, harga, dan kebijakan perlu dibaca dalam konteks, bukan diterima begitu saja. Dengan memahami kelangkaan, pasar, uang, pekerjaan, dan dampak lingkungan, pembaca dapat menilai keputusan ekonomi secara lebih kritis dan bertanggung jawab.

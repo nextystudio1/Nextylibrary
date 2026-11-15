@@ -1074,9 +1074,8 @@ private fun fetchPressbooksBookText(source: String): String {
     if (loaded < 12 || result.length < 12000) {
         throw IllegalStateException("Sumber buku hanya berhasil memuat $loaded bagian. Isi tidak ditampilkan sebagian agar tidak menyesatkan. Periksa koneksi dan coba lagi.")
     }
-    if (failures.isNotEmpty()) {
-        output.append("\n\nCATATAN PEMUATAN\n")
-        output.append(failures.size).append(" bagian tidak dapat diambil dari sumber pada sesi ini. Sambungkan internet dan muat ulang untuk mencoba kembali.")
+    if (failures.isNotEmpty() || loaded != chapterLinks.size) {
+        throw IllegalStateException("$loaded dari ${chapterLinks.size} bagian Environmental Sciences berhasil dimuat. Buku tidak ditampilkan sebagian; periksa koneksi lalu coba lagi.")
     }
     return output.toString().trim()
 }
@@ -1091,8 +1090,12 @@ private fun fetchStaticOerBookText(source: String): String {
             .toString().replace(Regex("""\s+"""), " ").trim()
         runCatching { URL(base, href) }.getOrNull()?.let { candidate ->
             val file = candidate.path.substringAfterLast("/").lowercase()
+            val isNumberedChapter = Regex("""^\d{1,2}-[^/]+\.html$""").matches(file)
+            val isFrontOrBackMatter = file.contains("preface") || file.contains("appendix") ||
+                file.contains("glossary") || file.contains("index")
             val isContentPage = candidate.host.equals(base.host, true) &&
-                (file.contains("chapter-") || file.contains("appendix-") || file.contains("glossary"))
+                file.endsWith(".html") && (isNumberedChapter || isFrontOrBackMatter) &&
+                candidate.path != base.path
             if (isContentPage) candidate to label else null
         }
     }.distinctBy { it.first.toString() }.take(80).toList()
@@ -1112,8 +1115,8 @@ private fun fetchStaticOerBookText(source: String): String {
             output.append(pageText)
         }
     }
-    if (loaded < 20 || output.length < 40000) {
-        throw IllegalStateException("Baru $loaded bab Biologi yang berhasil dimuat. Aplikasi menolak menampilkan naskah yang belum lengkap.")
+    if (loaded < 40 || loaded != pages.size || output.length < 80000) {
+        throw IllegalStateException("Baru $loaded dari ${pages.size} bagian Biologi yang berhasil dimuat. Naskah tidak ditampilkan sebagian; coba lagi saat koneksi stabil.")
     }
     return output.toString().trim()
 }

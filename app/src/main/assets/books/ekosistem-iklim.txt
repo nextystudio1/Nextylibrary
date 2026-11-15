@@ -1,65 +1,117 @@
-BAB 1: APA ITU EKOSISTEM?
+EKOSISTEM DAN PERUBAHAN IKLIM
+Penulis: Tim Editorial NextyLibrary
+Edisi pembelajaran | Bahasa Indonesia
 
-Ekosistem adalah hubungan antara makhluk hidup dan lingkungan tempat mereka tinggal. Makhluk hidup meliputi tumbuhan, hewan, jamur, dan mikroorganisme. Lingkungan tak hidup mencakup air, udara, tanah, cahaya Matahari, suhu, dan mineral.
+PENGANTAR
+Buku ini membahas hubungan makhluk hidup dengan lingkungannya, aliran energi, keanekaragaman hayati, cuaca, iklim, dan tindakan konservasi. Materi disusun untuk pembelajaran umum. Fenomena lingkungan bersifat kompleks sehingga penjelasan ilmiah perlu didukung pengamatan dan sumber data tepercaya.
 
-Ekosistem dapat berukuran kecil, seperti genangan air, atau sangat luas, seperti hutan hujan dan lautan. Semua komponennya saling memengaruhi. Perubahan pada satu bagian dapat berdampak pada bagian lain.
+DAFTAR BAB
+1. Mengenal ekosistem
+2. Rantai makanan dan aliran energi
+3. Keanekaragaman hayati
+4. Cuaca, iklim, dan sistem Bumi
+5. Efek rumah kaca dan perubahan iklim
+6. Dampak perubahan iklim
+7. Pencemaran dan pengelolaan sumber daya
+8. Konservasi dan aksi berbasis ilmu
 
-BAB 2: RANTAI DAN JARING-JARING MAKANAN
+BAB 1: MENGENAL EKOSISTEM
 
-Tumbuhan hijau disebut produsen karena dapat membuat makanan melalui fotosintesis. Hewan pemakan tumbuhan disebut konsumen tingkat pertama. Hewan yang memakan konsumen lain berada pada tingkat berikutnya. Jamur dan bakteri pengurai membantu menguraikan sisa makhluk hidup sehingga unsur hara kembali ke lingkungan.
+Ekosistem adalah hubungan antara makhluk hidup dan lingkungan tempat mereka tinggal. Makhluk hidup meliputi tumbuhan, hewan, jamur, dan mikroorganisme. Lingkungan tak hidup mencakup air, udara, tanah, cahaya Matahari, suhu, dan mineral. Semua komponen berinteraksi melalui aliran energi dan daur materi.
 
-Hubungan makan-dimakan dapat digambarkan sebagai rantai makanan. Di alam, hubungan tersebut biasanya lebih rumit dan membentuk jaring-jaring makanan. Jika satu populasi menurun tajam, hewan yang bergantung padanya dapat kekurangan makanan, sementara organisme yang biasanya dimakan olehnya bisa meningkat.
+Ekosistem dapat berukuran kecil, seperti genangan air, atau sangat luas, seperti hutan hujan dan lautan. Batas ekosistem dapat ditentukan sesuai pertanyaan penelitian. Kolam dapat dipelajari sebagai satu ekosistem, tetapi kolam juga terhubung dengan sungai, tanah, udara, dan aktivitas manusia di sekitarnya.
+
+Komponen biotik adalah bagian hidup, sedangkan komponen abiotik adalah faktor fisik dan kimia. Cahaya memengaruhi fotosintesis; air memengaruhi pertumbuhan; suhu memengaruhi aktivitas organisme. Setiap spesies memiliki kisaran kondisi yang dapat ditoleransi. Perubahan yang terlalu besar dapat mengganggu kelangsungan hidup dan reproduksi.
+
+Habitat adalah tempat organisme hidup, sedangkan relung ekologi menjelaskan peran dan cara organisme memanfaatkan sumber daya. Dua spesies dapat hidup di habitat yang sama tetapi menggunakan makanan atau waktu aktivitas berbeda. Persaingan, pemangsaan, mutualisme, komensalisme, dan parasitisme merupakan contoh hubungan antarorganisme.
+
+BAB 2: RANTAI MAKANAN DAN ALIRAN ENERGI
+
+Tumbuhan hijau disebut produsen karena dapat membuat bahan organik melalui fotosintesis. Sebagian organisme lain memperoleh energi dengan memakan tumbuhan atau organisme lain. Konsumen tingkat pertama biasanya memakan produsen, sementara konsumen tingkat berikutnya memakan konsumen lain. Jamur dan bakteri pengurai memecah sisa organisme dan membantu mengembalikan unsur hara ke lingkungan.
+
+Hubungan makan-dimakan dapat digambarkan sebagai rantai makanan. Di alam, hubungan tersebut biasanya lebih rumit dan membentuk jaring-jaring makanan. Satu organisme dapat memakan beberapa jenis makanan dan dimakan oleh beberapa pemangsa. Jika satu populasi menurun tajam, organisme yang bergantung padanya dapat kekurangan makanan, sementara organisme yang biasanya dimakan olehnya bisa meningkat.
+
+Energi mengalir melalui ekosistem, bukan berputar kembali seperti unsur materi. Pada setiap perpindahan tingkat trofik, sebagian energi digunakan untuk aktivitas hidup dan terlepas sebagai panas. Karena itu, energi yang tersedia umumnya berkurang pada tingkat trofik lebih tinggi. Piramida energi menggambarkan pola tersebut.
+
+Unsur seperti karbon, nitrogen, dan fosfor mengalami daur antara organisme dan lingkungan. Pengurai memiliki peran penting karena membantu mengembalikan unsur dari sisa makhluk hidup. Aktivitas manusia seperti penggunaan pupuk berlebihan dapat mengubah daur unsur dan menyebabkan eutrofikasi, yaitu peningkatan nutrien di perairan yang dapat memicu ledakan alga dan penurunan oksigen.
 
 BAB 3: KEANEKARAGAMAN HAYATI
 
-Keanekaragaman hayati berarti variasi kehidupan pada tingkat gen, spesies, dan ekosistem. Keanekaragaman membantu ekosistem tetap berfungsi. Hutan, misalnya, menyediakan habitat, menyimpan karbon, membantu mengatur tata air, dan melindungi tanah dari erosi.
+Keanekaragaman hayati berarti variasi kehidupan pada tingkat gen, spesies, dan ekosistem. Variasi genetik membantu populasi menghadapi perubahan lingkungan. Keanekaragaman spesies membentuk jaringan interaksi, sedangkan keanekaragaman ekosistem menyediakan berbagai habitat dan proses alam. Ketiganya saling berkaitan.
 
-Ancaman terhadap keanekaragaman hayati antara lain hilangnya habitat, pencemaran, eksploitasi berlebihan, spesies invasif, dan perubahan iklim. Upaya perlindungan dapat dilakukan dengan menjaga habitat, menggunakan sumber daya secara bijak, mengurangi sampah, dan mendukung konservasi berbasis ilmu pengetahuan.
+Keanekaragaman membantu ekosistem tetap berfungsi. Hutan menyediakan habitat, menyimpan karbon, membantu mengatur tata air, dan melindungi tanah dari erosi. Mangrove dapat meredam gelombang, menjadi tempat pembesaran berbagai organisme, serta menyimpan karbon pada tanahnya. Terumbu karang menyediakan habitat bagi banyak spesies laut.
 
-BAB 4: CUACA DAN IKLIM
+Ancaman terhadap keanekaragaman hayati antara lain hilangnya habitat, pencemaran, eksploitasi berlebihan, spesies invasif, dan perubahan iklim. Hilangnya hutan untuk penggunaan lahan tertentu dapat memecah habitat menjadi bagian-bagian kecil. Fragmentasi menghambat pergerakan organisme dan dapat mengurangi pertukaran gen antarpopulasi.
+
+Konservasi dapat dilakukan di habitat asli melalui taman nasional dan kawasan lindung, atau di luar habitat melalui kebun botani, bank benih, dan penangkaran yang dikelola bertanggung jawab. Keberhasilan konservasi memerlukan data, pengawasan, dukungan masyarakat lokal, dan penghormatan terhadap hak serta pengetahuan masyarakat adat.
+
+BAB 4: CUACA, IKLIM, DAN SISTEM BUMI
 
 Cuaca menggambarkan keadaan atmosfer dalam waktu singkat, misalnya hujan sore ini atau suhu pagi hari. Iklim adalah pola keadaan cuaca yang diamati dalam jangka panjang. Satu hari yang dingin tidak membuktikan bahwa pemanasan global berhenti, sebagaimana satu hari panas tidak sendirian membuktikan perubahan iklim.
 
-Perubahan iklim modern terutama berkaitan dengan meningkatnya gas rumah kaca akibat kegiatan manusia, seperti pembakaran bahan bakar fosil dan perubahan penggunaan lahan. Gas rumah kaca menahan sebagian panas di atmosfer. Dampaknya dapat berupa kenaikan suhu rata-rata, perubahan pola hujan, kenaikan muka laut, dan meningkatnya risiko gelombang panas di berbagai wilayah.
+Sistem iklim melibatkan atmosfer, lautan, daratan, es, dan makhluk hidup. Energi Matahari menggerakkan sirkulasi udara dan air. Lautan menyerap serta memindahkan panas, sementara es dan salju memantulkan sebagian cahaya Matahari. Perubahan pada satu komponen dapat memengaruhi komponen lainnya.
 
-BAB 5: TINDAKAN BERDASARKAN ILMU
+Efek rumah kaca alami membuat Bumi cukup hangat untuk kehidupan. Gas seperti uap air, karbon dioksida, metana, dan dinitrogen oksida menyerap serta memancarkan kembali radiasi inframerah. Tanpa efek rumah kaca alami, suhu rata-rata Bumi akan jauh lebih rendah. Masalah muncul ketika konsentrasi gas rumah kaca meningkat sehingga keseimbangan energi berubah.
 
-Kita dapat membantu mengurangi tekanan terhadap lingkungan dengan menghemat energi, menggunakan transportasi yang lebih efisien bila memungkinkan, mengurangi pemborosan makanan, memilah sampah, dan menjaga ruang hijau. Tindakan individu penting, tetapi kebijakan, teknologi, pendidikan, dan kerja sama masyarakat juga sangat dibutuhkan.
+Ilmuwan mengukur iklim melalui stasiun cuaca, pelampung laut, satelit, pengamatan es, dan catatan alam seperti lingkar pohon. Data dari berbagai sumber digunakan untuk memeriksa tren jangka panjang. Setiap pengukuran memiliki ketidakpastian, sehingga metode dan kualitas data perlu dijelaskan secara terbuka.
 
+BAB 5: EFEK RUMAH KACA DAN PERUBAHAN IKLIM
 
-BAB 5: ALIRAN ENERGI DALAM EKOSISTEM
+Perubahan iklim modern terutama berkaitan dengan meningkatnya gas rumah kaca akibat kegiatan manusia, termasuk pembakaran batu bara, minyak, dan gas; perubahan penggunaan lahan; serta kegiatan industri dan pertanian. Karbon dioksida bertambah ketika bahan bakar fosil dibakar. Metana dapat berasal dari kegiatan energi, peternakan, persawahan, dan tempat pembuangan sampah.
 
-Sebagian besar energi dalam ekosistem berasal dari Matahari. Tumbuhan dan organisme fotosintetik menggunakan energi cahaya untuk menyusun makanan. Organisme tersebut disebut produsen. Hewan pemakan tumbuhan merupakan konsumen tingkat pertama, sedangkan hewan yang memakan konsumen lain menempati tingkat berikutnya. Pengurai, seperti banyak jenis jamur dan bakteri, menguraikan sisa makhluk hidup dan mengembalikan unsur hara ke lingkungan.
+Efek rumah kaca yang meningkat mengubah keseimbangan energi Bumi. Sebagian besar kelebihan energi tersimpan di lautan, sementara suhu udara dan daratan juga meningkat. Pemanasan global merupakan salah satu bagian dari perubahan iklim, yang juga mencakup perubahan pola hujan, peningkatan muka laut, dan perubahan kejadian ekstrem.
 
-Rantai makanan menggambarkan satu jalur perpindahan energi, sedangkan jaring-jaring makanan menunjukkan hubungan yang lebih rumit karena satu organisme dapat memiliki beberapa sumber makanan. Jika satu populasi berubah drastis, organisme lain yang bergantung padanya juga dapat terpengaruh. Karena itu, menjaga satu spesies saja tidak selalu cukup; hubungan seluruh habitat perlu diperhatikan.
+Perubahan iklim memiliki variasi alami, misalnya akibat letusan gunung berapi dan perubahan aktivitas Matahari. Namun, pola pemanasan yang diamati sejak era industri tidak dapat dijelaskan oleh faktor alami saja. Pengukuran atmosfer, lautan, es, dan model iklim menunjukkan peran dominan peningkatan gas rumah kaca dari aktivitas manusia.
 
-BAB 6: DAUR AIR DAN DAUR UNSUR HARA
+Mitigasi berarti mengurangi penyebab perubahan iklim, misalnya meningkatkan efisiensi energi, mengembangkan energi rendah karbon, melindungi hutan, dan mengurangi emisi metana. Adaptasi berarti menyesuaikan diri terhadap dampak yang telah terjadi atau diperkirakan, seperti memperbaiki drainase, menyiapkan sistem peringatan dini, dan mengembangkan pertanian yang lebih tahan terhadap perubahan cuaca.
 
-Air bergerak melalui penguapan, pembentukan awan, hujan, aliran permukaan, dan peresapan ke tanah. Tumbuhan juga melepaskan uap air melalui transpirasi. Daur air menghubungkan laut, atmosfer, sungai, dan daratan. Perubahan tutupan lahan dapat memengaruhi kemampuan tanah menyerap air dan meningkatkan risiko banjir atau kekeringan di wilayah tertentu.
+BAB 6: DAMPAK PERUBAHAN IKLIM
 
-Unsur seperti karbon dan nitrogen juga berpindah antara udara, tanah, air, dan makhluk hidup. Tumbuhan menyerap karbon dioksida saat fotosintesis, sedangkan respirasi dan penguraian melepaskan karbon kembali. Aktivitas manusia seperti pembakaran bahan bakar fosil menambah karbon dioksida ke atmosfer dan mengubah keseimbangan daur karbon.
+Dampak perubahan iklim berbeda menurut wilayah. Gelombang panas dapat meningkatkan risiko kesehatan, terutama bagi kelompok rentan dan pekerja luar ruang. Perubahan pola hujan dapat memperbesar risiko kekeringan di beberapa tempat dan banjir di tempat lain. Kenaikan muka laut meningkatkan ancaman banjir pesisir dan intrusi air asin.
 
-BAB 7: PERUBAHAN IKLIM DAN TINDAKAN
+Pertanian dipengaruhi suhu, ketersediaan air, hama, dan waktu musim tanam. Perubahan kondisi dapat mengurangi hasil panen atau menggeser wilayah yang cocok untuk tanaman tertentu. Petani dapat membutuhkan informasi iklim, varietas yang sesuai, pengelolaan air, dan sistem peringatan dini untuk mengurangi risiko.
 
-Iklim adalah pola cuaca dalam jangka panjang. Perubahan iklim berarti perubahan pola suhu dan kondisi iklim dalam periode panjang. Efek rumah kaca alami menjaga Bumi tetap cukup hangat untuk kehidupan. Namun, peningkatan gas rumah kaca akibat aktivitas manusia memperkuat efek tersebut dan menaikkan suhu rata-rata global.
+Ekosistem laut mengalami tekanan dari pemanasan dan pengasaman laut. Ketika laut menyerap karbon dioksida, kimia air laut berubah dan dapat menyulitkan organisme tertentu membentuk cangkang atau kerangka. Terumbu karang dapat mengalami pemutihan ketika suhu air terlalu tinggi dalam waktu lama. Dampaknya dapat merambat pada perikanan dan mata pencaharian pesisir.
 
-Dampaknya tidak sama di semua tempat. Beberapa wilayah menghadapi gelombang panas lebih sering, perubahan pola hujan, kenaikan permukaan laut, atau tekanan pada ekosistem. Adaptasi berarti menyiapkan masyarakat dan lingkungan menghadapi dampak, misalnya memperbaiki pengelolaan air dan sistem peringatan dini. Mitigasi berarti mengurangi penyebab perubahan iklim, seperti meningkatkan efisiensi energi dan menggunakan sumber energi rendah emisi.
+Dampak perubahan iklim berhubungan dengan kondisi sosial. Masyarakat dengan sumber daya terbatas sering memiliki kemampuan adaptasi lebih rendah, meskipun kontribusi emisinya dapat kecil. Perencanaan yang adil perlu melibatkan kelompok terdampak, memperhatikan akses informasi, layanan kesehatan, tempat tinggal, dan perlindungan mata pencaharian.
 
-LATIHAN PEMAHAMAN
+BAB 7: PENCEMARAN DAN PENGELOLAAN SUMBER DAYA
 
-1. Apa perbedaan rantai makanan dan jaring-jaring makanan?
-2. Mengapa pengurai penting bagi ekosistem?
-3. Jelaskan daur air dengan urutan prosesnya.
-4. Apa perbedaan mitigasi dan adaptasi perubahan iklim?
-5. Berikan contoh tindakan menjaga ekosistem di lingkungan sekitar.
+Pencemaran terjadi ketika bahan atau energi masuk ke lingkungan dalam jumlah yang merugikan. Pencemaran udara dapat berasal dari transportasi, industri, pembakaran terbuka, dan sumber lain. Partikel halus serta gas tertentu dapat memengaruhi kesehatan manusia dan ekosistem. Pemantauan kualitas udara membantu masyarakat dan pemerintah menentukan langkah perlindungan.
 
-RINGKASAN
+Pencemaran air dapat berasal dari limbah rumah tangga, industri, pertanian, dan sampah. Air yang terlihat jernih belum tentu aman karena dapat mengandung mikroorganisme atau bahan kimia. Pengolahan air limbah, perlindungan daerah aliran sungai, dan pengawasan pembuangan merupakan bagian penting dari pengelolaan air.
 
-Ekosistem tersusun dari komponen hidup dan tak hidup yang saling berhubungan. Keanekaragaman hayati menjaga banyak fungsi alam. Cuaca berbeda dari iklim, dan perubahan iklim perlu dipahami melalui data jangka panjang.
+Sampah perlu dikelola sejak sumbernya. Mengurangi barang sekali pakai, menggunakan kembali barang yang masih layak, memilah bahan yang dapat didaur ulang, dan mengolah sampah organik dapat mengurangi beban tempat pembuangan akhir. Daur ulang bukan alasan untuk terus meningkatkan konsumsi; pencegahan sampah biasanya lebih baik daripada mengolah sampah setelah terbentuk.
 
-SUMBER BELAJAR
+Sumber daya alam dapat diperbarui jika dikelola dalam batas pemulihan, tetapi eksploitasi berlebihan dapat merusak sistem. Air tanah, hutan, perikanan, dan tanah pertanian memerlukan pengelolaan berdasarkan data. Keputusan yang baik mempertimbangkan kebutuhan saat ini, kemampuan lingkungan, dan hak generasi mendatang.
 
-NASA Science — Climate Change: https://science.nasa.gov/climate-change/
-IPCC — Reports: https://www.ipcc.ch/reports/
+BAB 8: KONSERVASI DAN AKSI BERBASIS ILMU
 
-Naskah pembelajaran asli oleh Tim Edukasi Nexty Studio. Lisensi: CC BY 4.0.
+Konservasi bukan hanya melindungi spesies yang terkenal. Konservasi juga menjaga proses ekologi, kualitas air dan tanah, koridor satwa, serta hubungan masyarakat dengan lingkungan. Program yang berhasil perlu mempertimbangkan ilmu pengetahuan dan kondisi sosial ekonomi masyarakat setempat.
+
+Pemulihan ekosistem dapat mencakup penanaman spesies lokal, perbaikan aliran air, pengurangan sumber pencemar, dan perlindungan regenerasi alami. Menanam pohon saja tidak selalu cukup; pemilihan spesies, kondisi tanah, ketersediaan air, dan pemeliharaan menentukan keberhasilan. Ekosistem yang berbeda membutuhkan pendekatan yang berbeda pula.
+
+Warga dapat berkontribusi melalui pengamatan lingkungan, pencatatan sampah, pemantauan sederhana kualitas air dengan pendampingan, serta pelaporan kerusakan habitat kepada pihak berwenang. Data warga dapat membantu, tetapi metode pengukuran harus jelas agar hasilnya dapat dibandingkan. Jangan memasuki lokasi berbahaya atau mengambil sampel tanpa izin.
+
+Aksi iklim dapat dilakukan pada tingkat individu, sekolah, komunitas, perusahaan, dan pemerintah. Menghemat energi dan mengurangi pemborosan berguna, tetapi perubahan sistem juga diperlukan melalui kebijakan, infrastruktur, teknologi, dan perlindungan ekosistem. Evaluasi program perlu melihat hasil nyata, bukan hanya jumlah kegiatan atau slogan.
+
+GLOSARIUM
+Adaptasi: penyesuaian terhadap dampak iklim yang terjadi atau diperkirakan.
+Ekosistem: hubungan antara komunitas organisme dan lingkungan fisiknya.
+Emisi: pelepasan gas atau partikel ke atmosfer.
+Habitat: tempat organisme hidup dan memperoleh kebutuhan hidup.
+Keanekaragaman hayati: variasi kehidupan pada tingkat gen, spesies, dan ekosistem.
+Mitigasi: tindakan mengurangi sumber atau besarnya perubahan iklim.
+
+LATIHAN
+1. Jelaskan perbedaan komponen biotik dan abiotik.
+2. Mengapa energi mengalir sedangkan materi mengalami daur?
+3. Sebutkan tiga tingkat keanekaragaman hayati.
+4. Apa perbedaan cuaca dan iklim?
+5. Mengapa efek rumah kaca alami penting bagi Bumi?
+6. Berikan contoh mitigasi dan adaptasi perubahan iklim.
+7. Bagaimana pencemaran air dapat memengaruhi ekosistem?
+8. Mengapa konservasi perlu melibatkan masyarakat setempat?
+
+PROYEK
+Pilih satu ekosistem di sekitar tempat tinggal atau sekolah. Catat komponen biotik dan abiotik, buat diagram hubungan sederhana, identifikasi satu tekanan lingkungan, lalu usulkan tindakan yang dapat diuji dan dievaluasi.

@@ -1,61 +1,115 @@
-BAB 1: INFORMASI DI INTERNET
+BERPIKIR KRITIS DI DUNIA DIGITAL
+Penulis: Tim Editorial NextyLibrary
+Edisi pembelajaran | Bahasa Indonesia
 
-Internet membuat informasi mudah ditemukan dan dibagikan. Namun, tidak semua informasi yang muncul di layar benar, lengkap, atau sesuai konteks. Foto dapat dipotong, kutipan dapat diambil sebagian, dan judul dapat dibuat berlebihan agar orang tertarik mengeklik.
+PENGANTAR
+Buku ini mengajak pembaca memahami informasi digital, memeriksa bukti, menjaga privasi, dan berkomunikasi secara bertanggung jawab. Keterampilan digital bukan hanya kemampuan menggunakan perangkat. Keterampilan tersebut juga mencakup penalaran, etika, keamanan, dan kesadaran terhadap dampak teknologi.
 
-Sikap kritis berarti tidak langsung percaya atau langsung menolak. Kita memeriksa bukti, sumber, tanggal, konteks, dan apakah ada sumber lain yang mendukung informasi tersebut.
+DAFTAR BAB
+1. Informasi, data, dan pengetahuan
+2. Memeriksa sumber dan penulis
+3. Logika, argumen, dan kekeliruan berpikir
+4. Foto, video, dan manipulasi konteks
+5. Algoritma dan rekomendasi
+6. Privasi, kata sandi, dan keamanan akun
+7. Etika komunikasi dan jejak digital
+8. Menyusun keputusan berbasis bukti
 
-BAB 2: CARA MEMERIKSA SUMBER
+BAB 1: INFORMASI, DATA, DAN PENGETAHUAN
 
-Mulailah dengan mencari siapa penulis atau lembaga yang menerbitkan informasi. Periksa keahlian dan tujuan penerbitannya. Lihat tanggal publikasi karena informasi lama mungkin sudah berubah. Baca isi lengkap, bukan hanya judul atau cuplikan.
+Informasi digital hadir dalam bentuk teks, gambar, video, audio, peta, dan angka. Banyaknya informasi tidak otomatis membuat seseorang lebih memahami persoalan. Data adalah catatan atau hasil pengamatan; informasi merupakan data yang diberi konteks; pengetahuan berkembang ketika informasi dihubungkan dengan konsep, pengalaman, dan bukti. Angka pada grafik dapat benar, tetapi menyesatkan jika sumbu, periode, atau kelompok pembandingnya disembunyikan.
 
-Untuk klaim penting, cari konfirmasi dari beberapa sumber tepercaya yang tidak sekadar menyalin satu sama lain. Jika sebuah klaim tidak memiliki bukti yang dapat diperiksa, nyatakan bahwa informasinya belum terverifikasi.
+Berpikir kritis bukan berarti mencurigai semua hal atau menolak pendapat orang lain. Sikap kritis berarti menunda kesimpulan sampai bukti cukup, bersedia mengubah pandangan ketika ada informasi lebih kuat, serta membedakan fakta, tafsir, prediksi, dan opini. Kebiasaan ini berguna saat membaca berita, mengerjakan tugas, berdiskusi, dan mengambil keputusan.
 
-BAB 3: PRIVASI DAN KEAMANAN AKUN
+Informasi juga perlu dipahami berdasarkan konteks. Pernyataan statistik tanpa penjelasan tentang populasi, waktu, dan cara pengumpulan data sering kali tidak cukup untuk menarik kesimpulan. Persentase dapat tampak besar ketika jumlah awalnya kecil. Rata-rata dapat menyembunyikan perbedaan antar kelompok. Karena itu, pembaca perlu bertanya bagaimana angka diperoleh dan apa yang tidak ditampilkan.
 
-Data pribadi mencakup informasi yang dapat mengidentifikasi seseorang, seperti alamat, nomor telepon, kata sandi, dan kode verifikasi. Jangan membagikan kata sandi atau kode sekali pakai kepada siapa pun. Gunakan kata sandi yang berbeda untuk layanan penting dan aktifkan autentikasi tambahan jika tersedia.
+BAB 2: MEMERIKSA SUMBER DAN PENULIS
 
-Berhati-hatilah terhadap tautan atau pesan yang meminta tindakan segera. Periksa alamat situs dan gunakan aplikasi atau situs resmi. Jika sebuah pesan membuat panik atau menjanjikan hadiah yang tidak masuk akal, berhenti dan periksa sebelum bertindak.
+Mulailah dengan menanyakan siapa yang menerbitkan informasi, siapa penulisnya, kapan diterbitkan, dan apa tujuan publikasinya. Periksa apakah penulis menyertakan rujukan yang dapat ditelusuri. Situs lembaga resmi dapat menjadi sumber penting untuk data administrasi, sedangkan jurnal ilmiah membantu memahami penelitian. Namun, nama besar saja tidak cukup: isi, metode, tanggal, dan konteks tetap perlu diperiksa.
 
-BAB 4: JEJAK DIGITAL DAN ETIKA
+Telusuri klaim penting melalui sumber independen. Dua situs yang mengulang siaran pers yang sama bukan dua konfirmasi terpisah. Perhatikan apakah sumber primer tersedia, misalnya dokumen asli, data penelitian, rekaman lengkap, atau pernyataan resmi. Jika bukti belum cukup, gunakan kalimat seperti "belum dapat dipastikan" daripada menyebarkan kesimpulan yang terlalu yakin.
 
-Unggahan, komentar, dan foto dapat disalin atau disimpan orang lain. Sebelum membagikan sesuatu, pikirkan apakah informasi tersebut milik pribadi, apakah orang yang terlihat telah memberi izin, dan apakah unggahan itu dapat merugikan seseorang.
+Periksa pula perbedaan antara sumber primer dan sekunder. Sumber primer berasal langsung dari masa atau peristiwa yang diteliti, seperti dokumen, wawancara, data pengamatan, atau rekaman. Sumber sekunder menganalisis dan menjelaskan sumber primer. Keduanya berguna, tetapi memiliki fungsi berbeda. Sumber primer juga dapat keliru atau tidak lengkap sehingga tetap perlu dibandingkan.
 
-Berkomunikasi dengan sopan juga penting. Kritik sebaiknya membahas gagasan atau tindakan, bukan menyerang pribadi. Jika melihat perundungan daring, jangan ikut menyebarkan konten yang menyakiti. Simpan bukti seperlunya dan minta bantuan orang dewasa tepercaya atau pihak platform.
+Saat membaca penelitian, perhatikan pertanyaan penelitian, metode, ukuran sampel, keterbatasan, dan apakah hasilnya telah ditinjau oleh ahli lain. Satu penelitian jarang cukup untuk menyelesaikan persoalan kompleks. Tinjauan sistematis dan konsensus ilmiah dapat membantu melihat gambaran bukti yang lebih luas.
 
-BAB 5: MENGGUNAKAN KECERDASAN BUATAN
+BAB 3: LOGIKA, ARGUMEN, DAN KEKELIRUAN BERPIKIR
 
-Kecerdasan buatan dapat membantu merangkum, menjelaskan konsep, atau memberi ide. Namun, hasilnya bisa keliru, tidak lengkap, atau terdengar meyakinkan meskipun salah. Periksa fakta penting dengan sumber yang dapat dipercaya.
+Argumen yang baik memiliki klaim, alasan, dan bukti yang saling terhubung. Contoh: klaim bahwa ruang kelas membutuhkan ventilasi diperkuat oleh pengukuran suhu, aliran udara, dan penjelasan kesehatan lingkungan. Pernyataan yang hanya mengandalkan popularitas, ancaman, atau serangan terhadap pribadi tidak otomatis membuktikan klaim. Bedakan hubungan sebab-akibat dari kebetulan: dua kejadian yang muncul berdekatan belum tentu salah satunya menyebabkan yang lain.
 
-Gunakan teknologi sebagai alat bantu belajar, bukan pengganti pemahaman. Tuliskan dengan kata-kata sendiri, cantumkan sumber, dan ikuti aturan sekolah atau lembaga tentang penggunaan alat digital.
+Kekeliruan umum antara lain generalisasi dari sedikit contoh, pilihan palsu seolah hanya ada dua kemungkinan, serangan pribadi, dan memilih bukti yang hanya mendukung pendapat sendiri. Cara menghindarinya adalah merumuskan klaim secara spesifik, mencari contoh yang berlawanan, memeriksa ukuran sampel, dan bertanya bukti apa yang dapat membuat kita mengubah kesimpulan.
 
+Bias konfirmasi membuat orang lebih mudah menerima informasi yang sejalan dengan keyakinan awal. Efek pengulangan dapat membuat klaim terasa benar hanya karena sering terlihat. Untuk mengurangi pengaruhnya, tuliskan alasan yang mendukung dan menentang suatu klaim. Mintalah orang lain menguji argumen dengan sopan. Jika bukti baru lebih kuat, memperbarui pendapat merupakan tanda belajar, bukan kekalahan.
 
-BAB 6: MEMBEDAKAN FAKTA, OPINI, DAN IKLAN
+Korelasi berarti dua hal berubah bersama, sedangkan sebab-akibat berarti perubahan pada satu faktor menghasilkan perubahan pada faktor lain melalui mekanisme tertentu. Untuk menyimpulkan sebab-akibat, peneliti perlu mempertimbangkan faktor pengganggu, urutan waktu, dan rancangan penelitian. Jangan menyimpulkan bahwa satu hal menyebabkan hal lain hanya karena keduanya muncul bersamaan.
 
-Fakta adalah pernyataan yang dapat diperiksa melalui bukti. Opini adalah penilaian atau pandangan seseorang. Keduanya dapat muncul bersama dalam satu tulisan. Misalnya, kalimat “suhu kota tercatat 32 derajat” dapat diperiksa melalui data pengukuran, sedangkan “hari ini terasa sangat panas” merupakan pengalaman pribadi. Mengenali perbedaan ini membantu pembaca memahami bagian mana yang membutuhkan bukti.
+BAB 4: FOTO, VIDEO, DAN MANIPULASI KONTEKS
 
-Iklan bertujuan memperkenalkan atau menjual sesuatu. Iklan tidak selalu salah, tetapi pembaca perlu mengetahui bahwa pesannya dibuat untuk memengaruhi keputusan. Perhatikan siapa yang membayar promosi, apakah ada klaim yang berlebihan, dan apakah informasi penting disembunyikan. Ulasan yang disponsori sebaiknya dibedakan dari pengalaman pengguna yang tidak dibayar.
+Gambar dapat asli tetapi diberi keterangan yang salah. Foto dari tahun lama bisa disebarkan seolah menunjukkan kejadian hari ini; video pendek dapat menghilangkan bagian sebelum atau sesudah peristiwa. Karena itu, periksa tanggal, lokasi, sumber unggahan pertama, dan konteks lengkap. Pencarian gambar terbalik dapat membantu menemukan kemunculan sebelumnya, tetapi hasilnya tetap perlu dinilai.
 
-BAB 7: MEMBANGUN KEBIASAAN VERIFIKASI
+Teknologi penyuntingan dan kecerdasan buatan memudahkan pembuatan gambar, suara, atau video sintetis. Ciri visual yang janggal tidak selalu cukup untuk memastikan manipulasi, dan gambar yang tampak meyakinkan belum tentu autentik. Untuk klaim berisiko tinggi, cari konfirmasi dari lembaga tepercaya atau dokumentasi lain. Jangan menyebarkan materi pribadi atau memalukan hanya karena sedang viral.
 
-Saat menemukan klaim yang mengejutkan, berhenti sejenak sebelum membagikannya. Salin inti klaim, cari sumber pertama, periksa tanggal, dan bandingkan dengan lembaga atau media yang memiliki proses pemeriksaan. Gambar juga perlu diperiksa konteksnya karena foto lama dapat digunakan kembali untuk peristiwa yang berbeda.
+Perhatikan potongan video yang kehilangan konteks. Pernyataan seseorang dapat berubah makna jika kalimat sebelum atau sesudahnya dihilangkan. Cari rekaman penuh, transkrip, tanggal, dan keterangan dari pihak terkait. Jika tidak dapat menemukan sumber asli, jelaskan bahwa kesimpulan masih terbatas.
 
-Tidak semua pertanyaan memiliki jawaban yang pasti. Jika bukti masih terbatas, jawaban yang jujur adalah “belum diketahui” atau “belum cukup bukti”. Sikap ini bukan kelemahan, melainkan bagian dari berpikir ilmiah. Kita dapat memperbarui kesimpulan ketika ada informasi baru yang lebih kuat.
+Ketika menerima gambar bencana atau peristiwa darurat, jangan langsung meneruskan. Informasi salah dapat menghambat bantuan atau membuat orang mengambil keputusan berbahaya. Utamakan informasi dari lembaga resmi dan media yang memiliki proses verifikasi. Jika membagikan koreksi, sertakan penjelasan singkat tentang klaim yang salah dan sumber yang lebih dapat dipercaya.
 
-LATIHAN PEMAHAMAN
+BAB 5: ALGORITMA DAN REKOMENDASI
 
-1. Apa perbedaan fakta dan opini? Buat satu contoh untuk masing-masing.
-2. Mengapa tanggal publikasi penting ketika membaca informasi kesehatan atau teknologi?
-3. Sebutkan tiga hal yang perlu diperiksa sebelum membagikan berita.
-4. Bagaimana cara menggunakan jawaban kecerdasan buatan secara bertanggung jawab?
-5. Temukan satu klaim dari internet, lalu catat sumber awal dan dua sumber pembanding yang tepercaya.
+Platform digital menggunakan sistem rekomendasi untuk memilih konten yang mungkin menarik perhatian pengguna. Sistem dapat mempertimbangkan riwayat tontonan, interaksi, topik, dan pola pengguna lain. Akibatnya, dua orang dapat melihat susunan informasi yang berbeda. Rekomendasi membantu menemukan materi, tetapi tidak sama dengan penilaian mutu atau kebenaran.
 
-RINGKASAN
+Jika terus berinteraksi dengan satu jenis pandangan, seseorang dapat jarang melihat penjelasan alternatif. Luaskan sumber bacaan, ikuti kanal yang memiliki standar editorial berbeda, dan cari dokumen primer. Atur notifikasi serta waktu penggunaan agar perhatian tidak terus-menerus ditarik oleh konten baru. Tujuannya bukan menghindari teknologi, melainkan menggunakan teknologi secara sadar.
 
-Pengguna internet yang cakap memeriksa sumber dan bukti, menjaga data pribadi, memahami jejak digital, menghormati orang lain, serta memverifikasi hasil kecerdasan buatan.
+Algoritma dibuat berdasarkan tujuan dan aturan tertentu. Sistem yang dioptimalkan untuk keterlibatan pengguna dapat lebih sering menampilkan materi yang memancing emosi. Sistem rekomendasi juga dapat memperkuat ketimpangan apabila data pelatihan tidak mewakili semua kelompok. Oleh karena itu, keputusan otomatis perlu diuji, dipantau, dan dijelaskan dengan mempertimbangkan dampaknya.
 
-SUMBER BELAJAR
+Pengguna dapat mengelola pengalaman digital dengan memeriksa pengaturan privasi, menghapus atau mengatur riwayat sesuai kebutuhan, memilih topik yang diikuti, dan mencari informasi secara aktif. Jangan menganggap halaman rekomendasi sebagai gambaran lengkap dunia. Jadikan rekomendasi sebagai titik awal penelusuran, bukan satu-satunya sumber pengetahuan.
 
-Kominfo — Literasi Digital: https://literasidigital.id/
-UNICEF — Child Online Protection: https://www.unicef.org/end-violence/how-to-stop-cyberbullying
+BAB 6: PRIVASI, KATA SANDI, DAN KEAMANAN AKUN
 
-Naskah pembelajaran asli oleh Tim Edukasi Nexty Studio. Lisensi: CC BY 4.0.
+Data pribadi mencakup informasi yang dapat mengenali atau menghubungi seseorang, termasuk alamat, nomor telepon, lokasi, foto dokumen, dan informasi akun. Bagikan hanya data yang benar-benar diperlukan. Gunakan kata sandi unik untuk setiap layanan penting dan simpan dengan pengelola kata sandi tepercaya. Autentikasi dua langkah menambah lapisan perlindungan, terutama jika menggunakan aplikasi autentikator atau kunci keamanan.
+
+Waspadai pesan yang mendesak, menjanjikan hadiah tidak masuk akal, atau meminta kode verifikasi. Penipu sering meniru tampilan layanan resmi dan membuat korban panik. Jangan pernah memberikan kata sandi atau kode sekali pakai kepada orang yang mengaku petugas. Buka layanan melalui aplikasi resmi atau alamat yang diketik sendiri, dan mintalah bantuan orang dewasa tepercaya jika akun atau data terlanjur dibagikan.
+
+Perangkat lunak perlu diperbarui karena pembaruan sering memperbaiki celah keamanan. Pasang aplikasi dari toko resmi dan periksa izin yang diminta. Aplikasi senter, misalnya, tidak semestinya membutuhkan akses ke daftar kontak tanpa alasan yang jelas. Gunakan kunci layar dan aktifkan pencadangan untuk data penting.
+
+Jaringan Wi-Fi publik dapat memiliki risiko. Hindari memasukkan informasi sensitif pada jaringan yang tidak dikenal, pastikan alamat situs benar, dan keluar dari akun pada perangkat bersama. Jika kehilangan perangkat, gunakan fitur resmi untuk mengunci atau menghapus data dari jarak jauh dan segera ubah kata sandi akun penting.
+
+BAB 7: ETIKA KOMUNIKASI DAN JEJAK DIGITAL
+
+Komunikasi daring tetap melibatkan manusia dengan perasaan, hak, dan reputasi. Sebelum mengunggah foto orang lain, pertimbangkan izin dan konteks. Kritik sebaiknya membahas gagasan atau tindakan, bukan menghina identitas seseorang. Jika terjadi salah paham, klarifikasi dengan bahasa tenang dan hindari memperbesar konflik melalui tangkapan layar yang tidak lengkap.
+
+Jejak digital dapat disalin, diarsipkan, dan muncul kembali di luar konteks awal. Sebelum membagikan sesuatu, tanyakan apakah informasi itu benar, bermanfaat, menghormati privasi, dan aman bagi pihak yang terlibat. Jika menemukan kesalahan dalam unggahan sendiri, koreksi secara terbuka. Tanggung jawab digital berarti memahami dampak tindakan, bukan sekadar mematuhi aturan platform.
+
+Perundungan daring dapat terjadi melalui komentar, pesan, penyebaran rumor, atau pengucilan digital. Jangan ikut menyebarkan konten yang merendahkan seseorang. Jika menjadi sasaran atau menyaksikannya, simpan bukti seperlunya, gunakan fitur blokir dan laporan, serta bicarakan dengan orang dewasa tepercaya atau pihak sekolah. Dukungan yang tenang lebih berguna daripada membalas dengan serangan.
+
+Hak cipta juga berlaku di internet. Foto, musik, tulisan, dan video tidak otomatis bebas digunakan hanya karena dapat diunduh. Periksa lisensi, minta izin jika diperlukan, dan cantumkan atribusi sesuai ketentuan. Hindari menyalin karya orang lain lalu mengakuinya sebagai karya sendiri. Berbagi secara bertanggung jawab menghargai pencipta dan pengguna.
+
+BAB 8: MENYUSUN KEPUTUSAN BERBASIS BUKTI
+
+Untuk mengambil keputusan, rumuskan pertanyaan dengan jelas, tentukan informasi yang dibutuhkan, lalu kumpulkan bukti yang relevan. Bandingkan beberapa pilihan berdasarkan kriteria yang sama. Catat ketidakpastian dan kemungkinan dampak. Dalam tugas sekolah, misalnya, bedakan sumber yang menjelaskan konsep dari sumber yang menyediakan data, kemudian gunakan keduanya sesuai fungsinya.
+
+Setelah keputusan dibuat, evaluasi hasilnya. Apakah prediksi sesuai kenyataan? Adakah informasi baru yang mengubah penilaian? Kebiasaan meninjau keputusan membuat proses berpikir semakin baik. Berpikir kritis bukan mencari jawaban sempurna setiap saat, melainkan membuat keputusan paling bertanggung jawab berdasarkan bukti yang tersedia.
+
+Gunakan langkah sederhana: definisikan masalah; pisahkan fakta dari asumsi; cari sumber tepercaya; periksa bukti yang mendukung dan menentang; bandingkan pilihan; pertimbangkan dampak bagi orang lain; kemudian jelaskan alasan keputusan. Untuk masalah penting, mintalah masukan dari orang yang memiliki pengetahuan dan pengalaman relevan.
+
+Sikap ilmiah membutuhkan rasa ingin tahu, kerendahan hati, dan kesediaan mengoreksi diri. Tidak semua pertanyaan memiliki jawaban pasti. Menyatakan batas pengetahuan lebih jujur daripada mengarang kepastian. Keterampilan ini membantu kita menjadi pengguna teknologi yang aktif, aman, dan bertanggung jawab.
+
+GLOSARIUM
+Algoritma: rangkaian langkah komputasi untuk menyelesaikan tugas.
+Bias konfirmasi: kecenderungan mencari atau menafsirkan informasi yang mendukung keyakinan awal.
+Data: catatan hasil pengamatan atau pengukuran.
+Disinformasi: informasi salah yang disebarkan dengan maksud menyesatkan.
+Enkripsi: proses mengubah data agar hanya pihak dengan kunci yang sesuai dapat membacanya.
+Sumber primer: sumber yang berasal langsung dari peristiwa, pengamatan, atau data yang diteliti.
+
+LATIHAN
+1. Jelaskan perbedaan data, informasi, dan pengetahuan.
+2. Sebutkan lima pertanyaan untuk menilai kredibilitas sumber.
+3. Berikan contoh perbedaan korelasi dan sebab-akibat.
+4. Mengapa video pendek dapat menyesatkan?
+5. Bagaimana sistem rekomendasi memengaruhi informasi yang kita lihat?
+6. Sebutkan tiga cara melindungi akun digital.
+7. Apa yang sebaiknya dilakukan ketika menemukan perundungan daring?
+8. Buat analisis singkat atas satu klaim populer dengan memisahkan klaim, bukti, sumber, dan ketidakpastian.
+
+PROYEK
+Pilih satu klaim yang beredar di media sosial dan berkaitan dengan pelajaran sekolah. Telusuri sumber awal, cari dua sumber independen, periksa tanggal dan konteks, lalu tulis laporan satu halaman. Jangan menyebarkan ulang informasi pribadi atau konten yang merugikan orang lain.

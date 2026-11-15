@@ -714,19 +714,19 @@ private data class ReaderSection(val heading: String?, val paragraphs: List<Stri
 
 private fun prepareReaderSections(raw: String, title: String): List<ReaderSection> {
     var text = raw.replace("\\r\\n", "\\n").replace('\\r', '\\n')
-    text = text.replace(Regex("(?im)^\\\\s*\\\\*{3}\\\\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\\\n]*\\\\n?"), "")
-        .replace(Regex("(?im)^\\\\s*\\\\*{3}\\\\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\\\n]*[\\\\s\\\\S]*$"), "")
-        .replace(Regex("(?is)\\\\[illustration:.*?\\\\]"), "")
-        .replace(Regex("(?m)^\\\\s*\\\\[.*?\\\\]\\\\s*$"), "")
-    val titleWords = title.split(Regex("\\\\s+")).filter { it.length > 2 }
+    text = text.replace(Regex("(?im)^\\s*\\*{3}\\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\n?"), "")
+        .replace(Regex("(?im)^\\s*\\*{3}\\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*[\\s\\S]*$"), "")
+        .replace(Regex("(?is)\\[illustration:.*?\\]"), "")
+        .replace(Regex("(?m)^\\s*\\[.*?\\]\\s*$"), "")
+    val titleWords = title.split(Regex("\\s+")).filter { it.length > 2 }
     val titleMatch = titleWords.firstOrNull()?.let { Regex(Regex.escape(it), RegexOption.IGNORE_CASE).find(text) }
     if (titleMatch != null && titleMatch.range.first > 0) text = text.substring(titleMatch.range.first)
-    text = text.replace(Regex("(?m)^\\\\s*_{1,}([^\\\\n]+)_{1,}\\\\s*$")) { it.groupValues[1] }
-        .replace(Regex("(?m)^\\\\s*\\\\*{2,}\\\\s*$"), "")
-        .replace(Regex("\\\\n{3,}"), "\\\\n\\\\n")
+    text = text.replace(Regex("(?m)^\\s*_{1,}([^\\n]+)_{1,}\\s*$")) { it.groupValues[1] }
+        .replace(Regex("(?m)^\\s*\\*{2,}\\s*$"), "")
+        .replace(Regex("\\n{3,}"), "\\n\\n")
         .trim()
 
-    val chapterStart = Regex("(?im)^\\\\s*(?:BAB\\\\s+\\\\d+|CHAPTER\\\\s+[IVXLCDM0-9]+|BAGIAN\\\\s+\\\\d+|PART\\\\s+[IVXLCDM0-9]+|ADVENTURE\\\\s+[IVXLCDM0-9]+|BOOK\\\\s+[IVXLCDM0-9]+)[^\\\\n]*$")
+    val chapterStart = Regex("(?im)^\\s*(?:BAB\\s+\\d+|CHAPTER\\s+[IVXLCDM0-9]+|BAGIAN\\s+\\d+|PART\\s+[IVXLCDM0-9]+|ADVENTURE\\s+[IVXLCDM0-9]+|BOOK\\s+[IVXLCDM0-9]+)[^\\n]*$")
     val firstChapter = chapterStart.find(text)
     if (firstChapter != null) text = text.substring(firstChapter.range.first)
 
@@ -739,13 +739,13 @@ private fun prepareReaderSections(raw: String, title: String): List<ReaderSectio
             paragraphs = mutableListOf()
         }
     }
-    val chapterHeading = Regex("(?i)^(?:BAB\\\\s+\\\\d+|CHAPTER\\\\s+[IVXLCDM0-9]+|BAGIAN\\\\s+\\\\d+|PART\\\\s+[IVXLCDM0-9]+|ADVENTURE\\\\s+[IVXLCDM0-9]+|BOOK\\\\s+[IVXLCDM0-9]+)(?:\\\\s*[:—–.-]\\\\s*.*|\\\\s+.*)?$")
-    val frontMatter = Regex("(?i)^(?:PENGANTAR|KATA PENGANTAR|TENTANG BUKU|DAFTAR ISI|PENDAHULUAN|PENUTUP|GLOSARIUM|EVALUASI AKHIR|RANGKUMAN AKHIR|LAMPIRAN(?:\\\\s+[A-Z0-9]+)?)(?:\\\\s*[:—–.-]\\\\s*.*)?$")
-    val chunks = text.split(Regex("\\\\n\\\\s*\\\\n+"))
+    val chapterHeading = Regex("(?i)^(?:BAB\\s+\\d+|CHAPTER\\s+[IVXLCDM0-9]+|BAGIAN\\s+\\d+|PART\\s+[IVXLCDM0-9]+|ADVENTURE\\s+[IVXLCDM0-9]+|BOOK\\s+[IVXLCDM0-9]+)(?:\\s*[:—–.-]\\s*.*|\\s+.*)?$")
+    val frontMatter = Regex("(?i)^(?:PENGANTAR|KATA PENGANTAR|TENTANG BUKU|DAFTAR ISI|PENDAHULUAN|PENUTUP|GLOSARIUM|EVALUASI AKHIR|RANGKUMAN AKHIR|LAMPIRAN(?:\\s+[A-Z0-9]+)?)(?:\\s*[:—–.-]\\s*.*)?$")
+    val chunks = text.split(Regex("\\n\\s*\\n+"))
     for (rawChunk in chunks) {
         val lines = rawChunk.lines().map { it.trim() }.filter { it.isNotBlank() }
         if (lines.isEmpty()) continue
-        val cleanedLines = lines.map { it.replace(Regex("_([^_]+)_")) { m -> m.groupValues[1] }.replace(Regex("\\\\s{2,}"), " ").trim() }
+        val cleanedLines = lines.map { it.replace(Regex("_([^_]+)_")) { m -> m.groupValues[1] }.replace(Regex("\\s{2,}"), " ").trim() }
         val candidate = cleanedLines.joinToString(" ").trim()
         val isChapter = chapterHeading.matches(candidate) && candidate.length <= 150
         val isStandaloneHeading = frontMatter.matches(candidate) ||
@@ -759,7 +759,7 @@ private fun prepareReaderSections(raw: String, title: String): List<ReaderSectio
             currentHeading = candidate
         } else {
             val isListBlock = cleanedLines.all {
-                it.matches(Regex("^(?:[•▪◦–—-]\\\\s+|\\\\d+[.)]\\\\s+|[a-zA-Z][.)]\\\\s+).*"))
+                it.matches(Regex("^(?:[•▪◦–—-]\\s+|\\d+[.)]\\s+|[a-zA-Z][.)]\\s+).*"))
             }
             if (isListBlock) paragraphs.addAll(cleanedLines)
             else paragraphs.add(cleanedLines.joinToString(" "))

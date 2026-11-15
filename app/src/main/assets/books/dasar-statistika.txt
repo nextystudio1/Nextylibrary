@@ -125,3 +125,33 @@ LATIHAN
 2. Apa makna peluang bersyarat? Peluang suatu kejadian dengan informasi kejadian lain telah terjadi.
 3. Apakah sampel besar selalu representatif? Tidak; cara pemilihan sampel tetap menentukan bias.
 4. Apakah korelasi membuktikan sebab-akibat? Tidak.
+
+
+
+BAB LANJUTAN — DESAIN SURVEI DAN KUALITAS PENGUKURAN
+
+Survei mengumpulkan informasi dari responden melalui pertanyaan yang disusun sebelumnya. Pertanyaan perlu jelas, tidak menggiring, dan hanya meminta informasi yang diperlukan. Pertanyaan “Anda setuju bahwa layanan ini sangat buruk?” menggiring jawaban; bentuk yang lebih netral menanyakan penilaian responden tanpa menyisipkan kesimpulan.
+
+Sampel acak memberi peluang pemilihan yang diketahui bagi anggota populasi, sedangkan sampel kemudahan dipilih karena mudah dijangkau. Sampel kemudahan dapat berguna untuk eksplorasi, tetapi hasilnya tidak boleh digeneralisasi begitu saja. Tingkat respons yang rendah juga dapat menimbulkan bias nonrespons.
+
+Kualitas pengukuran mencakup validitas dan reliabilitas. Validitas berkaitan dengan apakah alat mengukur hal yang dimaksud. Reliabilitas berkaitan dengan konsistensi hasil. Alat yang konsisten belum tentu mengukur hal yang tepat.
+
+EVALUASI
+1. Apa perbedaan sampel acak dan sampel kemudahan?
+2. Mengapa pertanyaan survei harus netral?
+3. Apa itu bias nonrespons?
+4. Bedakan validitas dan reliabilitas.
+5. Mengapa hasil sampel kemudahan perlu dibatasi?
+
+PEMBAHASAN
+1. Acak menggunakan mekanisme peluang; kemudahan berdasarkan akses.
+2. Agar jawaban tidak diarahkan oleh susunan pertanyaan.
+3. Bias ketika orang yang tidak menjawab berbeda secara sistematis dari yang menjawab.
+4. Validitas mengukur hal yang tepat; reliabilitas menghasilkan pengukuran konsisten.
+5. Karena sampel belum tentu mewakili populasi.
+
+GLOSARIUM
+Sampel acak: sampel yang dipilih dengan mekanisme peluang.
+Bias nonrespons: penyimpangan karena sebagian kelompok tidak menjawab.
+Validitas: ketepatan alat atau metode mengukur konsep.
+Reliabilitas: konsistensi hasil pengukuran.

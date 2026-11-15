@@ -1,0 +1,79 @@
+PENGANTAR PEMROGRAMAN KOMPUTER
+Belajar Berpikir Komputasional dari Dasar
+Tim Pengetahuan Nexty Studio
+Edisi 2026
+
+PENGANTAR
+Pemrograman adalah kegiatan menyusun instruksi agar komputer melakukan tugas tertentu. Belajar pemrograman melatih pemecahan masalah, ketelitian, kreativitas, dan kemampuan menguji gagasan. Buku ini mengenalkan konsep lintas bahasa pemrograman.
+
+BAB 1 — MASALAH, ALGORITMA, DAN INSTRUKSI
+Sebelum menulis kode, pahami masalah yang hendak diselesaikan. Tentukan masukan, proses, dan keluaran. Contoh: program menghitung luas persegi panjang menerima panjang dan lebar, mengalikan keduanya, lalu menampilkan hasil.
+Algoritma adalah urutan langkah yang jelas dan terbatas untuk menyelesaikan masalah. Algoritma dapat ditulis sebagai kalimat, pseudocode, atau diagram alir. Instruksi harus tidak ambigu dan urutannya masuk akal.
+Pseudocode contoh:
+MULAI
+Baca panjang
+Baca lebar
+luas = panjang × lebar
+Tampilkan luas
+SELESAI
+Satu masalah dapat memiliki beberapa algoritma. Bandingkan kejelasan, ketepatan, penggunaan memori, dan waktu yang dibutuhkan.
+
+BAB 2 — VARIABEL DAN TIPE DATA
+Variabel adalah nama untuk menyimpan nilai yang dapat digunakan program. Tipe data menjelaskan jenis nilai, misalnya bilangan bulat, bilangan desimal, teks, dan nilai benar/salah.
+Contoh konseptual:
+nama = "Alya"
+jumlah_buku = 12
+harga = 7500.5
+sudah_bayar = false
+Nama variabel sebaiknya jelas, konsisten, dan tidak menggunakan kata khusus bahasa pemrograman. Pilih tipe data yang sesuai agar operasi tidak menghasilkan kesalahan.
+Operator aritmetika meliputi penjumlahan, pengurangan, perkalian, dan pembagian. Operator perbandingan menghasilkan nilai benar atau salah. Operator logika menggabungkan kondisi.
+Perhatikan perbedaan antara teks "12" dan angka 12. Keduanya tampak mirip, tetapi operasi yang dapat dilakukan berbeda.
+
+BAB 3 — PERCABANGAN DAN PERULANGAN
+Percabangan memilih tindakan berdasarkan kondisi. Contoh:
+jika nilai >= 75:
+    tampilkan "Tuntas"
+jika tidak:
+    tampilkan "Perlu belajar lagi"
+Kondisi harus mencakup kemungkinan yang relevan. Uji nilai tepat di batas, di bawah batas, dan di atas batas.
+Perulangan menjalankan instruksi berulang kali. Perulangan dengan penghitung cocok ketika jumlah pengulangan diketahui. Perulangan berbasis kondisi berjalan selama syarat tertentu terpenuhi.
+Pastikan kondisi perulangan dapat berubah. Jika tidak, program bisa berjalan tanpa henti. Gunakan batas dan kondisi berhenti yang jelas.
+
+BAB 4 — FUNGSI DAN PEMECAHAN PROGRAM
+Fungsi adalah bagian program yang diberi nama dan dapat dipanggil ketika diperlukan. Fungsi membantu memecah masalah besar menjadi bagian kecil yang lebih mudah diuji.
+Fungsi dapat menerima parameter dan mengembalikan nilai. Contoh pseudocode:
+fungsi luas_persegi(panjang, lebar):
+    kembalikan panjang × lebar
+Pilih nama fungsi yang menjelaskan tugasnya. Hindari fungsi yang melakukan terlalu banyak hal sekaligus. Pisahkan perhitungan, masukan, dan tampilan bila memungkinkan.
+Gunakan kembali fungsi untuk mengurangi pengulangan kode. Namun, jangan membuat abstraksi rumit untuk tugas yang sangat sederhana.
+
+BAB 5 — KESALAHAN DAN PENGUJIAN
+Kesalahan sintaks terjadi ketika aturan penulisan bahasa dilanggar. Kesalahan saat berjalan muncul ketika program dieksekusi, misalnya pembagian dengan nol. Kesalahan logika terjadi ketika program berjalan tetapi hasilnya salah.
+Debugging adalah proses mencari dan memperbaiki sumber kesalahan. Baca pesan kesalahan, ulangi masalah dengan contoh kecil, periksa nilai variabel, dan ubah satu hal pada satu waktu.
+Pengujian perlu mencakup kasus normal, batas, masukan kosong, dan masukan tidak valid. Untuk fungsi luas, uji panjang atau lebar nol, nilai positif, serta masukan yang tidak sesuai.
+Dokumentasikan asumsi dan hasil pengujian agar orang lain dapat memahami keputusan yang dibuat.
+
+BAB 6 — KEAMANAN DAN ETIKA DIGITAL
+Program yang baik tidak hanya berfungsi, tetapi juga menjaga data dan pengguna. Kumpulkan data seperlunya, jelaskan penggunaannya, dan hindari menyimpan kata sandi dalam bentuk teks biasa.
+Validasi masukan dari pengguna. Jangan menganggap semua masukan aman atau benar. Batasi hak akses sesuai kebutuhan dan perbarui komponen yang digunakan.
+Hormati lisensi perangkat lunak dan karya digital. Jangan menyalin kode tanpa memahami lisensinya. Cantumkan atribusi ketika diwajibkan.
+Pemrograman juga membutuhkan pertimbangan dampak sosial: aksesibilitas, privasi, bias, dan kemungkinan sistem merugikan kelompok tertentu.
+
+LATIHAN DAN PEMBAHASAN
+1. Apa tiga bagian umum pemrosesan program? Jawaban: masukan, proses, dan keluaran.
+2. Apa hasil 7 × 8? Jawaban: 56.
+3. Mengapa perulangan membutuhkan kondisi berhenti? Jawaban: agar proses tidak berjalan tanpa batas.
+4. Apa beda kesalahan sintaks dan logika? Jawaban: sintaks melanggar aturan bahasa; logika menghasilkan perilaku atau hasil yang keliru.
+5. Mengapa masukan harus divalidasi? Jawaban: untuk menangani data tidak sesuai dan mengurangi risiko kesalahan.
+
+GLOSARIUM
+Algoritma: langkah terurut untuk menyelesaikan masalah.
+Variabel: nama penyimpan nilai.
+Tipe data: kategori nilai yang dapat diproses.
+Percabangan: pemilihan alur berdasarkan kondisi.
+Perulangan: pelaksanaan instruksi berulang.
+Fungsi: bagian program untuk tugas tertentu.
+Debugging: proses menemukan dan memperbaiki kesalahan.
+
+CATATAN PENULIS
+Contoh dalam buku menggunakan pseudocode agar konsep dapat dipelajari tanpa bergantung pada satu bahasa. Praktikkan konsep menggunakan lingkungan belajar yang aman dan tepercaya.

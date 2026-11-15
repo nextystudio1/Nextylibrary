@@ -88,3 +88,31 @@ LATIHAN PENDALAMAN
 2. Apa makna titik puncak parabola? Jawaban: titik maksimum atau minimum fungsi kuadrat.
 3. Kapan model eksponensial tidak lagi sesuai? Jawaban: ketika asumsi laju relatif tetap gagal, misalnya akibat keterbatasan sumber daya.
 4. Mengapa satuan penting dalam pemodelan? Jawaban: satuan membantu memeriksa konsistensi dan mencegah penafsiran keliru.
+
+PENDALAMAN LANJUTAN: PERSAMAAN, FUNGSI, DAN PEMODELAN
+BAB 7 — PERSAMAAN LINEAR DAN SISTEM
+Persamaan linear satu variabel menyatakan kesetaraan dua bentuk aljabar. Operasi yang sama pada kedua ruas mempertahankan kesetaraan. Untuk sistem dua persamaan, metode substitusi dan eliminasi dapat digunakan untuk mencari pasangan nilai yang memenuhi keduanya.
+Sistem dapat memiliki satu solusi, tidak memiliki solusi, atau memiliki tak hingga solusi. Interpretasi grafik membantu memahami apakah dua garis berpotongan, sejajar, atau berimpit.
+BAB 8 — PERTIDAKSAMAAN DAN NILAI MUTLAK
+Pertidaksamaan membandingkan nilai menggunakan tanda lebih besar atau lebih kecil. Ketika kedua ruas dikalikan bilangan negatif, arah tanda harus dibalik. Himpunan penyelesaian dapat digambarkan pada garis bilangan.
+Nilai mutlak menyatakan jarak suatu bilangan dari nol. Persamaan nilai mutlak sering memiliki dua kemungkinan arah, sehingga setiap solusi perlu diuji kembali ke persamaan awal.
+BAB 9 — FUNGSI DAN DOMAIN
+Fungsi memasangkan setiap masukan dalam domain dengan tepat satu keluaran. Domain adalah himpunan masukan yang diperbolehkan, sedangkan range adalah himpunan keluaran yang dihasilkan. Notasi fungsi membantu menyatakan hubungan tanpa harus menuliskan semua pasangan.
+Grafik fungsi memperlihatkan perilaku hubungan. Perhatikan titik potong, interval naik-turun, nilai maksimum atau minimum, dan batas domain. Grafik harus dibaca sesuai skala sumbu.
+BAB 10 — FUNGSI KUADRAT
+Fungsi kuadrat memiliki grafik parabola. Koefisien menentukan arah buka dan bentuknya. Titik puncak menunjukkan nilai ekstrem, sedangkan akar adalah titik potong dengan sumbu horizontal jika akar real ada.
+Persamaan kuadrat dapat diselesaikan melalui pemfaktoran, melengkapkan kuadrat, atau rumus kuadrat. Diskriminan memberi informasi jumlah akar real berbeda, tetapi interpretasi tetap terkait konteks soal.
+BAB 11 — BARISAN DAN POLA
+Barisan aritmetika memiliki selisih tetap, sedangkan barisan geometri memiliki rasio tetap. Rumus suku ke-n membantu menghitung posisi jauh tanpa menulis semua suku. Jumlah beberapa suku dapat dihitung dengan rumus deret.
+Pola numerik dapat digunakan untuk membuat model, tetapi pola dari sedikit data tidak selalu berlaku selamanya. Uji model terhadap informasi tambahan dan konteks.
+BAB 12 — PEMODELAN DAN OPTIMASI
+Model aljabar menyederhanakan masalah nyata menjadi variabel, persamaan, dan batasan. Contoh biaya dapat ditulis sebagai biaya tetap ditambah biaya per unit. Model linear dapat membantu menentukan titik impas ketika asumsi sesuai.
+Optimasi mencari nilai terbaik berdasarkan tujuan dan batasan. Sebelum menghitung, definisikan variabel keputusan, fungsi tujuan, dan kendala. Periksa apakah solusi matematis masuk akal di dunia nyata.
+BAB 13 — KESALAHAN UMUM DAN PEMERIKSAAN
+Kesalahan sering muncul karena distribusi tidak merata, salah tanda, menggabungkan suku yang tidak sejenis, atau mengabaikan domain. Setiap langkah perlu mempertahankan kesetaraan.
+Substitusikan hasil ke persamaan awal, periksa satuan, dan bandingkan dengan perkiraan. Penjelasan langkah lebih penting daripada hanya menuliskan jawaban akhir.
+LATIHAN PENDALAMAN
+1. Kapan arah tanda pertidaksamaan dibalik? Jawaban: ketika kedua ruas dikalikan atau dibagi bilangan negatif.
+2. Apa arti domain fungsi? Jawaban: himpunan nilai masukan yang diperbolehkan.
+3. Apa informasi diskriminan pada persamaan kuadrat? Jawaban: jumlah dan jenis akar real.
+4. Mengapa model perlu diperiksa terhadap konteks? Jawaban: asumsi matematis dapat tidak sesuai kondisi nyata.

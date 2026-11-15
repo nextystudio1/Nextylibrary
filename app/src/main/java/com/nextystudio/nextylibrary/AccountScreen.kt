@@ -45,7 +45,7 @@ private fun sessionKey(): SecretKey {
 
 private fun saveSession(context: Context, email: String, refreshToken: String) {
     val cipher = Cipher.getInstance("AES/GCM/NoPadding").apply { init(Cipher.ENCRYPT_MODE, sessionKey()) }
-    val plain = "$email\\n$refreshToken".toByteArray(Charsets.UTF_8)
+    val plain = JSONObject().put("email", email).put("refresh_token", refreshToken).toString().toByteArray(Charsets.UTF_8)
     val encrypted = cipher.iv + cipher.doFinal(plain)
     val encoded = Base64.encodeToString(encrypted, Base64.NO_WRAP)
     context.getSharedPreferences(SESSION_PREFS, Context.MODE_PRIVATE).edit().putString("blob", encoded).apply()
@@ -57,8 +57,10 @@ private fun readSavedSession(context: Context): Pair<String, String>? = runCatch
     val iv = all.copyOfRange(0, 12)
     val payload = all.copyOfRange(12, all.size)
     val cipher = Cipher.getInstance("AES/GCM/NoPadding").apply { init(Cipher.DECRYPT_MODE, sessionKey(), GCMParameterSpec(128, iv)) }
-    val parts = String(cipher.doFinal(payload), Charsets.UTF_8).split("\\n", limit = 2)
-    if (parts.size != 2 || parts[1].isBlank()) null else Pair(parts[0], parts[1])
+    val saved = JSONObject(String(cipher.doFinal(payload), Charsets.UTF_8))
+    val email = saved.optString("email")
+    val refresh = saved.optString("refresh_token")
+    if (email.isBlank() || refresh.isBlank()) null else Pair(email, refresh)
 }.getOrNull()
 
 private fun clearSavedSession(context: Context) { context.getSharedPreferences(SESSION_PREFS, Context.MODE_PRIVATE).edit().clear().apply() }

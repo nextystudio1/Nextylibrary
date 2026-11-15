@@ -81,3 +81,31 @@ LATIHAN
 1. Apa beda rangkaian seri dan paralel? Jawaban: seri satu jalur; paralel memiliki cabang.
 2. Jika V 6 volt dan R 300 ohm, berapa arus ideal? Jawaban: 0,02 ampere atau 20 miliampere.
 3. Mengapa LED memerlukan pembatas arus? Jawaban: agar arus tidak melampaui batas kerja.
+
+PENDALAMAN LANJUTAN: ANALISIS RANGKAIAN DAN SISTEM ELEKTRONIK
+BAB 7 — KOMPONEN PASIF
+Resistor membatasi arus dan membagi tegangan. Kapasitor menyimpan energi dalam medan listrik dan dapat digunakan untuk penyaringan, penghalusan tegangan, serta pengaturan waktu. Induktor menyimpan energi dalam medan magnet dan banyak digunakan pada filter serta konverter daya.
+Komponen nyata memiliki toleransi, batas tegangan, arus, daya, suhu, dan frekuensi kerja. Pemilihan komponen harus melihat lembar data, bukan hanya nilai nominal.
+BAB 8 — DIODA DAN TRANSISTOR
+Dioda memungkinkan arus mengalir lebih mudah pada arah tertentu dalam kondisi kerja yang sesuai. LED memancarkan cahaya ketika dialiri arus dengan polaritas dan pembatasan arus yang benar. Dioda zener dapat digunakan untuk referensi atau pembatas tegangan pada rancangan tertentu.
+Transistor dapat berfungsi sebagai sakelar elektronik atau penguat. BJT dikendalikan oleh arus basis dalam model sederhana, sedangkan MOSFET dikendalikan oleh tegangan gerbang. Pemilihan jenis bergantung pada kecepatan, rugi daya, tegangan, arus, dan kebutuhan penggerak.
+BAB 9 — HUKUM KIRCHHOFF DAN ANALISIS
+Hukum arus Kirchhoff menyatakan jumlah arus yang masuk dan keluar simpul seimbang. Hukum tegangan Kirchhoff menyatakan jumlah perubahan tegangan dalam lintasan tertutup sama dengan nol. Kedua prinsip ini menjadi dasar analisis jaringan.
+Analisis rangkaian dapat dilakukan dengan metode simpul atau mesh. Periksa satuan, arah referensi, dan tanda hasil. Nilai negatif biasanya menunjukkan arah sebenarnya berlawanan dengan arah asumsi, bukan otomatis kesalahan.
+BAB 10 — SINYAL ANALOG DAN DIGITAL
+Sinyal analog berubah secara kontinu, sedangkan sinyal digital direpresentasikan oleh tingkat diskret. Konverter analog-ke-digital melakukan sampling dan kuantisasi. Frekuensi sampling perlu cukup tinggi agar perubahan sinyal dapat direpresentasikan sesuai batas teori dan kebutuhan aplikasi.
+Filter mengurangi komponen frekuensi tertentu. Filter rendah melewatkan frekuensi di bawah rentang tertentu, sedangkan filter tinggi melewatkan frekuensi di atasnya. Komponen nyata memiliki toleransi dan respons yang tidak ideal.
+BAB 11 — CATU DAYA DAN EFISIENSI
+Catu daya mengubah energi dari sumber menjadi tegangan dan arus yang dibutuhkan rangkaian. Regulator linear sederhana tetapi membuang selisih tegangan sebagai panas. Regulator switching dapat lebih efisien, namun menghasilkan riak dan gangguan elektromagnetik yang perlu dikelola.
+Rancangan harus mempertimbangkan isolasi, proteksi arus lebih, suhu, polaritas, dan kualitas komponen. Pekerjaan pembelajaran sebaiknya menggunakan kit tegangan rendah yang dirancang aman, bukan sumber listrik rumah tangga.
+BAB 12 — PENGUKURAN DAN PEMECAHAN GANGGUAN
+Multimeter digunakan untuk mengukur tegangan, arus, dan resistansi sesuai mode serta terminal yang benar. Osiloskop menampilkan perubahan sinyal terhadap waktu. Probe, ground, rentang ukur, dan kalibrasi memengaruhi hasil.
+Pemecahan gangguan dimulai dari pemeriksaan visual, verifikasi catu daya tegangan rendah, pengukuran bertahap, dan pembandingan dengan diagram. Ubah satu hal pada satu waktu dan catat hasil agar penyebab masalah dapat dilacak.
+BAB 13 — DOKUMENTASI DAN DESAIN BERTANGGUNG JAWAB
+Skema, daftar komponen, versi papan, dan catatan pengujian memudahkan perawatan. Dokumentasi harus menyebut batas operasi dan kondisi uji. Desain yang baik memperhitungkan kegagalan komponen dan cara sistem masuk ke keadaan aman.
+Perangkat elektronik juga memiliki dampak lingkungan dari bahan baku hingga limbah. Perbaikan, penggunaan ulang, dan daur ulang melalui jalur resmi dapat mengurangi beban lingkungan.
+LATIHAN PENDALAMAN
+1. Apa fungsi kapasitor? Jawaban: menyimpan energi dalam medan listrik dan membantu penyaringan atau pengaturan waktu.
+2. Apa beda sinyal analog dan digital? Jawaban: analog kontinu, digital direpresentasikan dalam tingkat diskret.
+3. Mengapa komponen harus dipilih berdasarkan lembar data? Jawaban: setiap komponen memiliki batas listrik, suhu, dan frekuensi.
+4. Mengapa pembelajaran rangkaian harus menggunakan sumber tegangan rendah yang aman? Jawaban: untuk mengurangi risiko sengatan, panas, dan kerusakan peralatan.

@@ -80,3 +80,31 @@ LATIHAN
 1. Mengapa jumlah dasar penting saat membaca persentase? Jawaban: persentase yang sama dapat mewakili jumlah absolut yang sangat berbeda.
 2. Apa itu bias konfirmasi? Jawaban: kecenderungan mencari atau menafsirkan bukti yang mendukung keyakinan awal.
 3. Mengapa video lama bisa menyesatkan? Jawaban: karena konteks waktu dan tempat dapat diganti dengan keterangan baru.
+
+PENDALAMAN LANJUTAN: VERIFIKASI, ALGORITMA, DAN PRODUKSI MEDIA
+BAB 7 — SUMBER PRIMER DAN SEKUNDER
+Sumber primer berasal langsung dari peristiwa atau data yang diteliti, seperti dokumen asli, rekaman, wawancara, atau hasil pengukuran. Sumber sekunder menafsirkan atau membahas sumber primer. Keduanya berguna, tetapi menjawab pertanyaan yang berbeda.
+Sumber primer tidak otomatis benar atau lengkap. Periksa siapa pembuatnya, tujuan pembuatan, konteks, dan bagian yang mungkin tidak tercatat. Bandingkan beberapa sumber yang independen.
+BAB 8 — PEMERIKSAAN GAMBAR DAN VIDEO
+Gambar dapat dipotong, diberi keterangan salah, atau digunakan kembali dari peristiwa berbeda. Periksa petunjuk lokasi, cuaca, bahasa, papan nama, dan tanggal. Pencarian gambar balik dapat membantu menemukan publikasi lebih awal, tetapi hasilnya tetap perlu diverifikasi.
+Video dapat diedit sehingga urutan kejadian berubah. Cari rekaman lengkap, sumber asli, dan konfirmasi dari pihak yang dapat dipercaya. Jangan menyimpulkan konteks hanya dari cuplikan pendek.
+BAB 9 — ALGORITMA REKOMENDASI DAN RUANG INFORMASI
+Platform menggunakan sinyal seperti interaksi, waktu tonton, dan hubungan akun untuk memilih konten. Rekomendasi dapat membantu menemukan materi relevan, tetapi juga dapat mempersempit paparan atau mengutamakan konten yang memancing reaksi.
+Pengguna dapat mengelola rekomendasi melalui pengaturan, mengikuti sumber beragam, dan mencari informasi secara aktif. Popularitas bukan ukuran kebenaran.
+BAB 10 — ANGKA, GRAFIK, DAN MANIPULASI
+Persentase harus memiliki pembilang, penyebut, dan periode yang jelas. Grafik dengan sumbu terpotong dapat membesar-besarkan perbedaan. Rata-rata dapat menutupi variasi dan kelompok yang berbeda.
+Ketika membaca survei, periksa metode sampling, ukuran sampel, tingkat respons, pertanyaan, dan sponsor. Angka yang tepat secara aritmetika masih dapat menyesatkan jika konteksnya dihilangkan.
+BAB 11 — ETIKA WAWANCARA DAN PELIPUTAN
+Wawancara memerlukan tujuan yang jelas, persetujuan, dan penghormatan terhadap privasi. Jelaskan bagaimana rekaman atau kutipan akan digunakan. Jangan memaksa narasumber membagikan pengalaman sensitif.
+Kutipan harus sesuai konteks. Jika memperbaiki kesalahan bahasa dalam kutipan, jelaskan kebijakan penyuntingan dan jangan mengubah makna.
+BAB 12 — PRODUKSI KONTEN YANG BERTANGGUNG JAWAB
+Konten informatif membedakan fakta, opini, dan dugaan. Judul harus mewakili isi, gambar memiliki keterangan, dan sumber dicantumkan. Koreksi kesalahan secara terbuka serta perbarui konten jika informasi berubah.
+Pencipta konten harus memperhatikan hak cipta, izin penggunaan musik dan gambar, serta keselamatan orang yang direkam. Hindari menyebarkan identitas atau lokasi seseorang tanpa alasan yang sah.
+BAB 13 — PROYEK CEK FAKTA
+Pilih satu klaim yang dapat diuji. Pecah menjadi unsur spesifik, cari sumber primer, bandingkan laporan independen, periksa tanggal dan lokasi, lalu catat apa yang sudah dan belum diketahui.
+Kesimpulan dapat berupa benar, salah, sebagian benar, atau belum cukup bukti. Ketidakpastian harus dijelaskan, bukan ditutupi dengan bahasa pasti.
+LATIHAN PENDALAMAN
+1. Apakah sumber primer selalu lebih akurat? Jawaban: tidak; sumber primer tetap perlu diuji konteks, tujuan, dan kelengkapannya.
+2. Mengapa jumlah suka bukan bukti kebenaran? Jawaban: interaksi menunjukkan respons pengguna, bukan validitas klaim.
+3. Apa yang perlu diperiksa pada grafik? Jawaban: sumbu, satuan, periode, sumber, dan metode pengumpulan data.
+4. Mengapa koreksi perlu dilakukan terbuka? Jawaban: agar pembaca mengetahui perubahan dan dapat memperbarui pemahamannya.

@@ -317,3 +317,15 @@ LATIHAN
 1. Mengapa bunyi tidak merambat di ruang hampa? Jawaban: bunyi memerlukan medium untuk meneruskan getaran.
 2. Apa beda rangkaian seri dan paralel? Jawaban: seri memiliki satu jalur arus; paralel memiliki beberapa cabang.
 3. Mengapa pengukuran berulang berguna? Jawaban: membantu menilai variasi dan memperkirakan nilai yang lebih representatif.
+
+BAB LANJUTAN: GELOMBANG, ENERGI, DAN PENGUKURAN
+Gelombang memindahkan energi tanpa harus memindahkan materi secara keseluruhan dari satu tempat ke tempat lain. Gelombang mekanik memerlukan medium, sedangkan gelombang elektromagnetik dapat merambat di ruang hampa. Frekuensi menyatakan jumlah getaran per satuan waktu, periode adalah waktu satu getaran, dan panjang gelombang adalah jarak antara titik sefase yang berurutan.
+Hubungan cepat rambat, frekuensi, dan panjang gelombang ditulis v = fλ. Persamaan ini membantu menjelaskan bunyi, gelombang air, dan cahaya dengan memperhatikan sifat medium serta konteksnya. Amplitudo berkaitan dengan energi gelombang, tetapi hubungan tepatnya bergantung pada jenis gelombang.
+ENERGI DAN DAYA
+Energi adalah kemampuan melakukan usaha atau menyebabkan perubahan. Daya menyatakan laju perpindahan atau penggunaan energi. Perangkat berdaya besar belum tentu menggunakan energi paling banyak jika waktu pemakaiannya singkat. Energi listrik dapat diperkirakan dari daya dikalikan waktu, dengan satuan yang konsisten.
+PRAKTIK PENGAMATAN
+Amati bunyi dari sumber yang aman pada jarak berbeda tanpa meningkatkan volume berlebihan. Catat kondisi ruang dan alat. Jelaskan mengapa hasil tidak hanya ditentukan jarak, tetapi juga pantulan, penghalang, dan kebisingan latar.
+LATIHAN PEMAHAMAN
+1. Apa hubungan frekuensi dan periode? Jawaban: f = 1/T untuk getaran periodik.
+2. Apa beda energi dan daya? Jawaban: energi adalah jumlah energi yang dipindahkan atau digunakan, daya adalah lajunya.
+3. Mengapa gelombang bunyi memerlukan medium? Jawaban: bunyi merambat melalui getaran partikel medium.

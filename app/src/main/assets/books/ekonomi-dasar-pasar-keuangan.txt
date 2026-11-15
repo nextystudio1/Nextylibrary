@@ -60,3 +60,34 @@ Eksternalitas: dampak kegiatan ekonomi pada pihak lain.
 
 CATATAN PENULIS
 Contoh ekonomi menyederhanakan kenyataan. Data, kondisi pasar, dan kebijakan berubah dari waktu ke waktu sehingga analisis aktual memerlukan sumber terbaru.
+
+PENDALAMAN: PILIHAN EKONOMI, PASAR, DAN KEBIJAKAN PUBLIK
+BAB 7 — ELASTISITAS DAN RESPONS PASAR
+Elastisitas mengukur seberapa besar respons suatu variabel terhadap perubahan variabel lain. Elastisitas harga permintaan membandingkan persentase perubahan jumlah yang diminta dengan persentase perubahan harga. Barang dengan banyak substitusi cenderung memiliki permintaan lebih elastis, sedangkan kebutuhan yang sulit diganti dalam jangka pendek cenderung kurang elastis.
+Elastisitas dipengaruhi waktu, proporsi pengeluaran, kebiasaan, dan ketersediaan alternatif. Penjual dan pembuat kebijakan perlu berhati-hati: kenaikan harga tidak selalu menghasilkan perubahan jumlah yang sama untuk semua barang dan kelompok konsumen.
+BAB 8 — BIAYA, PENERIMAAN, DAN KEPUTUSAN USAHA
+Biaya tetap tidak berubah langsung ketika jumlah produksi berubah dalam rentang kapasitas tertentu, sedangkan biaya variabel berubah mengikuti produksi. Biaya total merupakan gabungan keduanya. Biaya marginal menunjukkan tambahan biaya untuk menghasilkan satu unit tambahan.
+Keputusan usaha sebaiknya mempertimbangkan biaya peluang, risiko, kualitas, dan dampak jangka panjang. Harga jual yang melebihi biaya bahan belum tentu menghasilkan laba jika biaya tenaga kerja, sewa, distribusi, pajak, dan penyusutan diabaikan.
+BAB 9 — PERSAINGAN DAN STRUKTUR PASAR
+Dalam persaingan yang kuat, banyak penjual menawarkan produk serupa dan konsumen memiliki pilihan. Monopoli terjadi ketika satu penjual menguasai pasar dengan hambatan masuk yang besar. Oligopoli melibatkan beberapa perusahaan besar yang keputusan masing-masingnya saling memengaruhi.
+Struktur pasar memengaruhi harga, inovasi, kualitas, dan pilihan konsumen. Kebijakan persaingan berusaha mencegah praktik yang merugikan, tetapi desain regulasi perlu memperhatikan efisiensi dan kondisi industri.
+BAB 10 — UANG, BANK, DAN SISTEM PEMBAYARAN
+Uang berfungsi sebagai alat tukar, satuan hitung, dan penyimpan nilai. Bank menghimpun dana dan menyalurkannya melalui berbagai produk pembiayaan. Sistem pembayaran modern mencakup transfer, kartu, dan pembayaran digital. Keamanan transaksi bergantung pada perlindungan data, autentikasi, serta kewaspadaan terhadap penipuan.
+Bunga, biaya administrasi, tenor, dan risiko perlu dipahami sebelum memilih layanan keuangan. Periksa ketentuan resmi, jangan membagikan kode autentikasi, dan bedakan lembaga yang berizin dari penawaran yang tidak jelas.
+BAB 11 — INFLASI DAN DAYA BELI
+Inflasi adalah kenaikan tingkat harga umum secara berkelanjutan. Perubahan harga satu barang saja belum tentu berarti inflasi umum. Indeks harga konsumen mengukur perubahan harga keranjang barang dan jasa yang mewakili pola konsumsi rumah tangga.
+Inflasi memengaruhi daya beli dan dapat berdampak berbeda pada tiap rumah tangga karena komposisi pengeluaran tidak sama. Upah, tabungan, utang, dan harga kebutuhan pokok memengaruhi pengalaman setiap kelompok.
+BAB 12 — PENGANGGURAN DAN PASAR TENAGA KERJA
+Pasar tenaga kerja mempertemukan pencari kerja dan pemberi kerja. Pengangguran dapat bersifat friksional, struktural, atau siklis. Perubahan teknologi dan struktur industri dapat menciptakan kebutuhan keterampilan baru, sehingga pendidikan dan pelatihan berperan dalam penyesuaian.
+Angka pengangguran perlu dibaca bersama tingkat partisipasi angkatan kerja, kualitas pekerjaan, jam kerja, dan pekerjaan informal. Satu angka agregat tidak menjelaskan seluruh kondisi pekerja.
+BAB 13 — PAJAK, BARANG PUBLIK, DAN EKSTERNALITAS
+Pajak membiayai layanan publik dan dapat memengaruhi perilaku ekonomi. Barang publik memiliki sifat sulit mengecualikan pengguna dan penggunaan oleh satu orang tidak selalu mengurangi manfaat bagi orang lain. Jalan, penerangan umum, dan pengendalian penyakit memiliki manfaat sosial luas.
+Eksternalitas muncul ketika kegiatan ekonomi menimbulkan biaya atau manfaat bagi pihak lain yang tidak tercermin sepenuhnya dalam harga. Polusi adalah contoh biaya eksternal. Kebijakan dapat menggunakan standar, insentif, atau pungutan untuk memperhitungkan dampak tersebut.
+BAB 14 — MEMBACA DATA EKONOMI
+Data ekonomi harus dibaca dengan memperhatikan definisi, periode, cakupan, dan metode pengumpulan. Nilai nominal belum memperhitungkan perubahan harga, sedangkan nilai riil berusaha mengukur perubahan volume setelah penyesuaian. Rata-rata dapat menyembunyikan ketimpangan distribusi.
+Saat membandingkan wilayah atau tahun, pastikan satuan dan metodologinya sebanding. Korelasi antarindikator tidak otomatis menunjukkan hubungan sebab-akibat.
+LATIHAN PENDALAMAN
+1. Mengapa permintaan suatu barang bisa tidak elastis? Jawaban: karena kebutuhan mendesak, sedikit substitusi, atau waktu penyesuaian yang pendek.
+2. Apa yang sering terlewat dalam menghitung biaya usaha? Jawaban: tenaga kerja, sewa, distribusi, pajak, penyusutan, dan biaya peluang.
+3. Apa beda inflasi dan kenaikan harga satu produk? Jawaban: inflasi adalah kenaikan tingkat harga umum yang berkelanjutan.
+4. Mengapa data rata-rata perlu dilengkapi distribusi? Jawaban: rata-rata dapat menyembunyikan perbedaan antar kelompok.

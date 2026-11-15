@@ -131,3 +131,36 @@ BAB 19 — MENANGANI KONFLIK DAN PELECEHAN DARING
 Jangan membalas provokasi dengan ancaman atau menyebarkan data pribadi. Simpan bukti secara aman, gunakan fitur blokir dan pelaporan, serta minta bantuan orang dewasa tepercaya atau pihak berwenang bila ada ancaman nyata. Platform perlu menyediakan prosedur pelaporan yang mudah dipahami.
 STUDI KASUS
 Sebuah grup kelas menerima pesan yang menuduh seorang siswa melakukan sesuatu tanpa bukti. Langkah bertanggung jawab adalah tidak meneruskan pesan, tidak mempermalukan pihak terkait, memeriksa fakta melalui jalur yang tepat, dan meminta bantuan guru atau wali bila situasi berpotensi merugikan.
+
+
+
+BAB LANJUTAN — HAK, TANGGUNG JAWAB, DAN KEAMANAN WARGA DIGITAL
+
+Warga digital memiliki hak untuk memperoleh informasi, berkomunikasi, dan berpartisipasi, sekaligus tanggung jawab menghormati hak orang lain. Kebebasan berekspresi tidak berarti bebas dari tanggung jawab atas ancaman, perundungan, penyebaran data pribadi, atau informasi yang merugikan. Kritik terhadap gagasan sebaiknya disampaikan tanpa menyerang identitas seseorang.
+
+Persetujuan penting saat membagikan foto, rekaman suara, atau percakapan orang lain. Informasi pribadi tidak boleh disebarkan hanya karena mudah diperoleh. Jika melihat perundungan daring, jangan ikut memperluas konten yang merugikan. Simpan bukti secara aman, gunakan fitur pelaporan, dan minta bantuan orang dewasa tepercaya atau pihak berwenang bila ada ancaman.
+
+Akun digital perlu dilindungi dengan kata sandi unik, autentikasi berlapis, pembaruan perangkat lunak, dan kewaspadaan terhadap tautan. Jangan pernah membagikan kode OTP atau kata sandi. Gunakan pengaturan privasi untuk membatasi siapa yang dapat melihat informasi.
+
+STUDI KASUS
+
+Sebuah grup kelas menerima foto teman tanpa izin disertai komentar merendahkan. Susun respons yang melindungi orang yang menjadi sasaran, tidak memperluas penyebaran, meminta penghapusan konten, dan melibatkan pendamping yang tepat.
+
+EVALUASI
+1. Mengapa persetujuan diperlukan sebelum mengunggah foto orang lain?
+2. Apa perbedaan kritik dan serangan pribadi?
+3. Apa tindakan yang tepat ketika menemukan perundungan daring?
+4. Mengapa kode OTP tidak boleh dibagikan?
+5. Bagaimana warga digital dapat berpartisipasi secara bertanggung jawab?
+
+PEMBAHASAN
+1. Karena foto dan identitas merupakan bagian dari privasi seseorang.
+2. Kritik membahas tindakan atau gagasan; serangan pribadi merendahkan individu.
+3. Jangan menyebarkan, simpan bukti seperlunya, laporkan, dan cari bantuan tepercaya.
+4. Kode itu dapat digunakan untuk mengakses akun atau menyetujui transaksi.
+5. Memeriksa informasi, menghormati hak, berdiskusi sopan, dan menjaga keamanan.
+
+GLOSARIUM
+Privasi: kendali seseorang atas informasi dan ruang pribadinya.
+Autentikasi berlapis: verifikasi identitas dengan lebih dari satu faktor.
+Perundungan daring: tindakan menyakiti atau mengintimidasi melalui media digital.

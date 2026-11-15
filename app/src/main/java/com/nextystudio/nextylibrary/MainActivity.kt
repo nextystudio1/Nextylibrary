@@ -1,6 +1,9 @@
 package com.nextystudio.nextylibrary
 
 import android.net.Uri
+import android.media.AudioAttributes
+import android.media.AudioFormat
+import android.media.AudioTrack
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -16,6 +19,7 @@ import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -32,6 +36,8 @@ import kotlinx.coroutines.withContext
 import org.json.JSONArray
 import java.net.HttpURLConnection
 import java.net.URL
+import kotlin.math.PI
+import kotlin.math.sin
 
 private val Ink = Color(0xFF14251F)
 private val Green = Color(0xFF16765A)
@@ -110,6 +116,7 @@ private fun HomeScreen(books: List<Book>, categories: List<BookCategory>, loadin
     LazyColumn(Modifier.fillMaxSize(), contentPadding = PaddingValues(bottom = 22.dp)) {
         item { TopHeader() }
         item { HeroBanner(books.size) }
+        item { MusicPlayerCard() }
         item {
             Column(Modifier.padding(top = 22.dp)) {
                 Text("Temukan bacaanmu", color = Ink, fontSize = 21.sp, fontWeight = FontWeight.ExtraBold, modifier = Modifier.padding(horizontal = 20.dp))
@@ -159,7 +166,7 @@ private fun HomeScreen(books: List<Book>, categories: List<BookCategory>, loadin
 private fun TopHeader() {
     Row(Modifier.fillMaxWidth().background(Color.White).padding(horizontal = 20.dp, vertical = 15.dp), verticalAlignment = Alignment.CenterVertically) {
         Box(Modifier.size(43.dp).clip(RoundedCornerShape(15.dp)).background(Brush.linearGradient(listOf(Green, Color(0xFF72B99A)))), contentAlignment = Alignment.Center) {
-            Text("N", color = Color.White, fontSize = 25.sp, fontWeight = FontWeight.Black)
+            Text("▤", color = Color.White, fontSize = 27.sp, fontWeight = FontWeight.Black)
         }
         Spacer(Modifier.width(11.dp))
         Column(Modifier.weight(1f)) {
@@ -187,6 +194,116 @@ private fun HeroBanner(bookCount: Int) {
         }
         BookStackIllustration(Modifier.align(Alignment.CenterEnd).padding(end = 14.dp))
         Text("✦", color = Color(0xFFFFD98D), fontSize = 22.sp, modifier = Modifier.align(Alignment.TopEnd).padding(top = 19.dp, end = 22.dp))
+    }
+}
+
+@Composable
+private fun MusicPlayerCard() {
+    val player = remember { AmbientMusicPlayer() }
+    var playing by remember { mutableStateOf(false) }
+    DisposableEffect(player) {
+        onDispose { player.release() }
+    }
+    Card(
+        modifier = Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 13.dp),
+        shape = RoundedCornerShape(20.dp),
+        colors = CardDefaults.cardColors(containerColor = Color.White),
+        elevation = CardDefaults.cardElevation(2.dp)
+    ) {
+        Row(
+            Modifier.fillMaxWidth().padding(horizontal = 15.dp, vertical = 13.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Box(
+                Modifier.size(48.dp).clip(RoundedCornerShape(15.dp))
+                    .background(Brush.linearGradient(listOf(Color(0xFF263D78), Color(0xFF8B70C9)))),
+                contentAlignment = Alignment.Center
+            ) { Text("♫", color = Color.White, fontSize = 25.sp, fontWeight = FontWeight.Bold) }
+            Spacer(Modifier.width(12.dp))
+            Column(Modifier.weight(1f)) {
+                Text("Suasana Tenang", color = Ink, fontSize = 13.sp, fontWeight = FontWeight.ExtraBold)
+                Text("Musik instrumental untuk menemani membaca", color = Muted, fontSize = 10.sp, maxLines = 2)
+                Text("NEXTY AMBIENT • ORIGINAL", color = Green, fontSize = 8.sp, fontWeight = FontWeight.Bold, letterSpacing = 1.sp)
+            }
+            Spacer(Modifier.width(8.dp))
+            FilledIconButton(
+                onClick = {
+                    if (playing) player.pause() else player.play()
+                    playing = !playing
+                },
+                colors = IconButtonDefaults.filledIconButtonColors(containerColor = Green, contentColor = Color.White)
+            ) {
+                Text(if (playing) "Ⅱ" else "▶", fontSize = 19.sp, fontWeight = FontWeight.Bold)
+            }
+        }
+    }
+}
+
+private class AmbientMusicPlayer {
+    private var track: AudioTrack? = null
+
+    fun play() {
+        val current = track
+        if (current != null) {
+            if (current.playState != AudioTrack.PLAYSTATE_PLAYING) current.play()
+            return
+        }
+        val sampleRate = 22050
+        val seconds = 8
+        val frames = sampleRate * seconds
+        val samples = ShortArray(frames * 2)
+        val roots = intArrayOf(0, 5, 7, 3)
+        for (frame in 0 until frames) {
+            val time = frame.toDouble() / sampleRate
+            val chord = roots[(frame / (sampleRate * 2)) % roots.size]
+            val root = 174.61 * Math.pow(2.0, chord / 12.0)
+            val fadeIn = (time / 0.8).coerceIn(0.0, 1.0)
+            val fadeOut = ((seconds - time) / 0.8).coerceIn(0.0, 1.0)
+            val envelope = minOf(fadeIn, fadeOut)
+            val slowPulse = 0.78 + 0.22 * sin(2.0 * PI * time / 5.5)
+            val pad = sin(2.0 * PI * root * time) * 0.48 +
+                sin(2.0 * PI * root * 1.25 * time) * 0.25 +
+                sin(2.0 * PI * root * 1.5 * time) * 0.18 +
+                sin(2.0 * PI * root * 2.0 * time) * 0.09
+            val value = (pad * envelope * slowPulse * 0.11 * Short.MAX_VALUE).toInt()
+                .coerceIn(Short.MIN_VALUE.toInt(), Short.MAX_VALUE.toInt()).toShort()
+            samples[frame * 2] = value
+            samples[frame * 2 + 1] = value
+        }
+        val audioFormat = AudioFormat.Builder()
+            .setEncoding(AudioFormat.ENCODING_PCM_16BIT)
+            .setSampleRate(sampleRate)
+            .setChannelMask(AudioFormat.CHANNEL_OUT_STEREO)
+            .build()
+        val attributes = AudioAttributes.Builder()
+            .setUsage(AudioAttributes.USAGE_MEDIA)
+            .setContentType(AudioAttributes.CONTENT_TYPE_MUSIC)
+            .build()
+        val created = AudioTrack.Builder()
+            .setAudioAttributes(attributes)
+            .setAudioFormat(audioFormat)
+            .setTransferMode(AudioTrack.MODE_STATIC)
+            .setBufferSizeInBytes(samples.size * 2)
+            .build()
+        val written = created.write(samples, 0, samples.size)
+        if (written > 0) {
+            created.setLoopPoints(0, frames, -1)
+            track = created
+            created.play()
+        } else {
+            created.release()
+        }
+    }
+
+    fun pause() {
+        track?.let { if (it.playState == AudioTrack.PLAYSTATE_PLAYING) it.pause() }
+    }
+
+    fun release() {
+        track?.let {
+            try { it.pause(); it.flush(); it.release() } catch (_: Exception) { }
+        }
+        track = null
     }
 }
 

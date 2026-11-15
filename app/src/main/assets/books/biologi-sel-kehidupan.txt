@@ -133,3 +133,33 @@ LATIHAN
 2. Mengapa sel berbeda dapat memiliki fungsi berbeda? Regulasi ekspresi gen membuat gen aktif berbeda.
 3. Apa fungsi enzim? Mempercepat reaksi dengan menurunkan energi aktivasi.
 4. Apa yang dimaksud evolusi? Perubahan sifat terwariskan dalam populasi antargenerasi.
+
+
+
+BAB LANJUTAN — PEMBELAHAN SEL DAN KESTABILAN GENETIK
+
+Sel membelah untuk pertumbuhan, perbaikan jaringan, dan reproduksi. Pada organisme eukariotik, mitosis menghasilkan dua sel anak dengan informasi genetik yang pada umumnya sama dengan sel induk, sedangkan meiosis menghasilkan sel kelamin dengan jumlah kromosom setengah dari sel asal. Kedua proses memiliki fungsi dan tahapan yang berbeda.
+
+Sebelum pembelahan, DNA disalin agar materi genetik dapat dibagikan. Mekanisme pemeriksaan membantu mengurangi kesalahan, tetapi perubahan tetap dapat terjadi. Mutasi adalah perubahan materi genetik; dampaknya dapat netral, merugikan, atau dalam kondisi tertentu menguntungkan. Dampak bergantung pada lokasi perubahan dan lingkungan.
+
+Pembelahan sel yang tidak terkendali dapat mengganggu fungsi jaringan. Tubuh memiliki mekanisme pengaturan siklus sel dan perbaikan DNA. Gangguan pada mekanisme tersebut dapat berkontribusi pada perkembangan kanker, yang merupakan kelompok penyakit dengan penyebab dan karakteristik beragam.
+
+EVALUASI
+1. Apa perbedaan utama mitosis dan meiosis?
+2. Mengapa DNA perlu disalin sebelum pembelahan?
+3. Apa itu mutasi?
+4. Mengapa dampak mutasi tidak selalu sama?
+5. Mengapa pengaturan siklus sel penting?
+
+PEMBAHASAN
+1. Mitosis menghasilkan dua sel anak untuk pertumbuhan/perbaikan; meiosis menghasilkan sel kelamin dengan setengah jumlah kromosom.
+2. Agar sel anak menerima informasi genetik.
+3. Perubahan pada materi genetik.
+4. Bergantung pada lokasi, jenis perubahan, dan lingkungan.
+5. Agar pertumbuhan dan pembelahan berlangsung terkontrol.
+
+GLOSARIUM
+Mitosis: pembelahan inti yang menghasilkan dua inti anak.
+Meiosis: pembelahan yang menghasilkan sel dengan jumlah kromosom setengah.
+Mutasi: perubahan urutan atau struktur materi genetik.
+Siklus sel: rangkaian tahap pertumbuhan dan pembelahan sel.

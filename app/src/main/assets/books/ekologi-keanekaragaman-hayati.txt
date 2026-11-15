@@ -76,3 +76,31 @@ LATIHAN
 1. Sebutkan empat faktor yang mengubah ukuran populasi. Jawaban: kelahiran, kematian, imigrasi, emigrasi.
 2. Apa beda rantai dan jaring makanan? Jawaban: rantai menunjukkan satu jalur, jaring menunjukkan banyak jalur terhubung.
 3. Mengapa variasi genetik penting? Jawaban: membantu populasi menghadapi perubahan dan mengurangi risiko akibat keseragaman.
+
+PENDALAMAN LANJUTAN: EKOLOGI, KONSERVASI, DAN PEMULIHAN
+BAB 7 — STRUKTUR KOMUNITAS
+Komunitas tersusun dari populasi berbagai spesies yang berinteraksi. Kekayaan spesies menghitung jumlah jenis, sedangkan kemerataan menggambarkan seberapa seimbang kelimpahannya. Dua lokasi dengan jumlah spesies sama dapat memiliki struktur komunitas berbeda.
+Spesies kunci dapat memengaruhi struktur komunitas secara tidak sebanding dengan jumlah individunya. Spesies indikator memberi petunjuk kondisi lingkungan tertentu, tetapi indikator harus divalidasi sesuai wilayah dan metode.
+BAB 8 — JARING MAKANAN DAN ALIRAN ENERGI
+Energi memasuki sebagian besar ekosistem melalui fotosintesis, lalu berpindah melalui hubungan makan. Pada setiap perpindahan, sebagian energi digunakan untuk metabolisme dan terlepas sebagai panas. Karena itu, energi yang tersedia pada tingkat trofik lebih tinggi umumnya lebih kecil.
+Jaring makanan lebih realistis daripada rantai makanan tunggal karena satu organisme dapat memiliki beberapa sumber makanan dan predator. Perubahan pada satu populasi dapat menimbulkan efek berantai, tetapi hasilnya bergantung pada struktur jaringan.
+BAB 9 — SUKSESI DAN DINAMIKA EKOSISTEM
+Suksesi ekologis adalah perubahan komposisi komunitas sepanjang waktu. Suksesi primer dimulai pada substrat yang hampir tidak memiliki tanah, sedangkan suksesi sekunder terjadi ketika gangguan menyisakan tanah atau sebagian organisme. Jalurnya tidak selalu menuju satu keadaan akhir yang tetap.
+Kebakaran, banjir, badai, dan aktivitas manusia dapat menjadi gangguan dengan intensitas serta frekuensi berbeda. Sebagian ekosistem beradaptasi terhadap gangguan tertentu, tetapi gangguan yang terlalu sering atau kuat dapat menghambat pemulihan.
+BAB 10 — SPESIES ASING INVASIF
+Spesies asing adalah organisme yang berada di luar wilayah sebaran alaminya karena perpindahan manusia atau sebab lain. Sebagian dapat menjadi invasif ketika menyebar dan menimbulkan dampak ekologis, ekonomi, atau kesehatan. Tidak semua spesies asing otomatis invasif.
+Pencegahan masuknya spesies berisiko sering lebih efektif daripada pengendalian setelah menyebar. Pemantauan, karantina, identifikasi tepat, dan koordinasi antarwilayah merupakan bagian penting pengelolaan.
+BAB 11 — RESTORASI EKOSISTEM
+Restorasi berupaya memulihkan struktur, fungsi, dan proses ekosistem yang terdegradasi. Target perlu ditentukan berdasarkan kondisi rujukan, penyebab kerusakan, serta kebutuhan masyarakat. Menanam pohon saja belum tentu memulihkan hutan jika spesies, hidrologi, tanah, dan interaksi ekologis diabaikan.
+Pemantauan jangka panjang menilai kelangsungan hidup, regenerasi alami, keanekaragaman, kualitas air, dan manfaat sosial. Hasil harus dilaporkan termasuk kegagalan dan penyesuaian.
+BAB 12 — KONSERVASI BERBASIS MASYARAKAT
+Masyarakat lokal memiliki pengetahuan tentang musim, spesies, sumber air, dan perubahan lanskap. Program konservasi yang melibatkan warga sejak perencanaan dapat meningkatkan kesesuaian aturan dan keberlanjutan. Namun, partisipasi harus bermakna dan memperhatikan hak serta keragaman kepentingan.
+Konservasi dapat menggabungkan kawasan lindung, koridor habitat, pengelolaan bentang alam, dan insentif yang adil. Konflik satwa-manusia memerlukan pencegahan, kompensasi yang transparan, serta pendekatan yang tidak menyalahkan satu pihak.
+BAB 13 — MEMBACA HASIL SURVEI EKOLOGI
+Survei harus menjelaskan lokasi, waktu, metode, upaya pengamatan, dan kondisi cuaca. Tidak ditemukannya spesies dalam satu survei bukan bukti bahwa spesies itu tidak ada. Peluang deteksi dapat berbeda antarhabitat dan musim.
+Bandingkan data hanya ketika metode cukup sebanding. Catatan foto, koordinat, dan identifikasi ahli dapat memperkuat bukti, tetapi lokasi spesies langka perlu dilindungi dari penyalahgunaan.
+LATIHAN PENDALAMAN
+1. Apa beda kekayaan dan kemerataan spesies? Jawaban: kekayaan menghitung jenis, kemerataan menilai keseimbangan kelimpahan.
+2. Mengapa restorasi tidak cukup dengan menanam pohon? Jawaban: fungsi ekosistem juga bergantung pada tanah, air, spesies, dan interaksi ekologis.
+3. Mengapa hasil survei tanpa temuan bukan bukti ketiadaan? Jawaban: organisme mungkin tidak terdeteksi karena metode, musim, atau kondisi pengamatan.
+4. Mengapa pencegahan spesies invasif penting? Jawaban: pengendalian setelah menyebar sering lebih sulit dan mahal.

@@ -316,3 +316,15 @@ LATIHAN
 1. Mengapa rata-rata dan median bisa berbeda jauh? Jawaban: distribusi menceng atau pencilan dapat menarik rata-rata.
 2. Apa beda galat sampling dan bias non-sampling? Jawaban: galat sampling berasal dari penggunaan sampel; bias non-sampling berasal dari proses pengukuran, pemilihan, atau respons.
 3. Mengapa nilai p bukan ukuran efek? Jawaban: nilai p bergantung pada data dan asumsi, bukan besarnya dampak praktis.
+
+BAB LANJUTAN: KETIDAKPASTIAN DAN HASIL PENELITIAN
+Sampel digunakan untuk memperkirakan populasi, tetapi hasilnya memiliki ketidakpastian. Interval kepercayaan menggambarkan prosedur yang dalam pengulangan jangka panjang akan mencakup parameter sebenarnya pada proporsi tertentu jika asumsi terpenuhi. Interval bukan jaminan bahwa parameter memiliki peluang tertentu berada di satu interval yang telah dihitung.
+Nilai p mengukur ketidakselarasan data dengan hipotesis nol dan asumsi model. Nilai p bukan peluang hipotesis nol benar, bukan ukuran efek, dan bukan bukti tunggal pentingnya hasil. Laporkan ukuran efek, interval ketidakpastian, desain, serta keterbatasan.
+BIAS DAN KUALITAS DATA
+Bias seleksi muncul ketika pemilihan peserta menghasilkan sampel yang berbeda secara sistematis dari populasi sasaran. Bias pengukuran muncul ketika alat atau pertanyaan mengukur secara tidak tepat. Data hilang dapat mengubah kesimpulan jika pola kehilangan tidak acak.
+KORELASI DAN REGRESI
+Korelasi merangkum arah dan kekuatan hubungan linear, tetapi tidak membuktikan sebab-akibat. Regresi memodelkan hubungan, namun hasil bergantung pada asumsi, kualitas pengukuran, dan variabel yang tidak diamati. Hindari ekstrapolasi jauh di luar data.
+LATIHAN
+1. Apa makna interval kepercayaan 95 persen? Jawaban: prosedur pembentuk interval akan mencakup parameter sekitar 95 persen dalam pengulangan jangka panjang jika asumsi terpenuhi.
+2. Mengapa nilai p bukan ukuran efek? Jawaban: nilai p dipengaruhi ukuran sampel dan variasi, bukan besarnya dampak.
+3. Apa itu bias seleksi? Jawaban: distorsi dari proses pemilihan sampel atau peserta.

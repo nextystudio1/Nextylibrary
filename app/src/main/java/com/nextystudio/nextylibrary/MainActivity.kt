@@ -592,7 +592,7 @@ private fun fetchPublicBookText(source: String): String {
         val start = startRegex.find(raw)
         val end = endRegex.find(raw, start?.range?.last?.plus(1) ?: 0)
         val clean = if (start != null && end != null) raw.substring(start.range.last + 1, end.range.first) else raw
-        return clean.replace("\\r\\n", "\\n").replace(Regex("\\n{3,}"), "\\n\\n").trim()
+        return clean.replace("\r\n", "\n").replace(Regex("\n{3,}"), "\n\n").trim()
     } finally { connection.disconnect() }
 }
 

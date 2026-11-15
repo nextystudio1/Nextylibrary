@@ -1,64 +1,248 @@
 GEOLOGI: MENGENAL BUMI DAN DINAMIKANYA
 Penulis: Nexty Studio
-Edisi pembelajaran orisinal
+Edisi pembelajaran orisinal — edisi pengembangan
 
 PENGANTAR
-Bumi bukan benda yang diam. Di bawah permukaan, panas menggerakkan material dalam skala geologis; di permukaan, air, angin, dan organisme mengubah batuan serta bentang alam. Buku ini memperkenalkan cara geologi menjelaskan perubahan tersebut. Materi disusun sebagai pengantar dan bukan panduan menghadapi bencana.
+Bumi adalah planet yang terus berubah. Pegunungan terangkat, lembah terbentuk, garis pantai bergeser, mineral mengkristal, dan air bergerak melalui batuan. Sebagian perubahan berlangsung cepat dalam skala manusia, sedangkan sebagian lain memerlukan ribuan hingga jutaan tahun. Geologi mempelajari bahan penyusun Bumi, proses yang membentuknya, serta sejarah yang tersimpan di dalam batuan.
+Buku ini disusun untuk pembaca pemula hingga menengah. Setiap bab mengembangkan konsep, memberi contoh, mengajak pembaca menafsirkan bukti, dan menghubungkan ilmu kebumian dengan kehidupan sehari-hari. Istilah teknis dijelaskan ketika pertama kali digunakan. Buku ini bukan pengganti peta resmi, informasi kebencanaan, atau penilaian ahli untuk suatu lokasi.
+
+PANDUAN BELAJAR
+Bacalah satu subbab dalam satu waktu. Catat istilah baru, buat sketsa proses dengan kata-kata sendiri, lalu jawab pertanyaan refleksi. Ketika menemukan angka atau klaim geologi, perhatikan satuan, skala waktu, lokasi, dan sumber datanya. Geologi adalah ilmu berbasis bukti; penjelasan yang baik harus dapat dibandingkan dengan pengamatan.
 
 BAB 1 — BUMI SEBAGAI SISTEM
-Bumi tersusun atas beberapa lapisan. Kerak adalah lapisan terluar yang tipis. Di bawahnya terdapat mantel, yaitu batuan padat yang dapat mengalir sangat lambat dalam rentang waktu panjang. Bagian inti terutama tersusun dari besi dan nikel; inti luar bersifat cair, sedangkan inti dalam padat karena tekanan sangat besar.
-Bumi juga dapat dipahami melalui sistem yang saling berhubungan: geosfer (batuan dan bagian padat), hidrosfer (air), atmosfer (udara), dan biosfer (kehidupan). Perubahan pada satu sistem dapat memengaruhi sistem lain. Hujan, misalnya, mengikis batuan, membawa sedimen ke sungai, lalu memengaruhi habitat.
-Waktu geologi jauh lebih panjang daripada sejarah manusia. Peristiwa yang berlangsung jutaan tahun dapat membentuk pegunungan, cekungan, dan dasar samudra.
+1.1 Asal dan usia Bumi
+Bumi terbentuk sekitar 4,54 miliar tahun lalu dari materi yang mengelilingi Matahari muda. Debu dan benda kecil saling bertumbukan serta bergabung menjadi benda yang semakin besar. Energi tumbukan, peluruhan unsur radioaktif, dan pemisahan material berdasarkan kerapatan menghasilkan planet yang panas pada masa awalnya. Penentuan usia Bumi tidak didasarkan pada satu batu saja, melainkan pada pengukuran isotop radioaktif dalam meteorit dan mineral sangat tua.
+Usia yang sangat besar itu mengubah cara kita membaca lanskap. Tebing yang terlihat sekarang mungkin menyimpan lapisan yang terbentuk di dasar laut purba. Sebuah dataran tinggi dapat merupakan sisa pengangkatan dan erosi selama jutaan tahun. Skala waktu manusia penting bagi kehidupan, tetapi terlalu singkat untuk menggambarkan seluruh sejarah geologi.
+1.2 Lapisan bagian dalam
+Kerak merupakan lapisan terluar yang relatif tipis. Kerak benua umumnya lebih tebal dan komposisinya berbeda dari kerak samudra. Di bawah kerak terdapat mantel, yang sebagian besar berupa batuan padat kaya silikat. Walaupun padat, mantel dapat berubah bentuk dan mengalir sangat lambat dalam rentang waktu geologi.
+Inti Bumi didominasi besi dan nikel. Inti luar bersifat cair, sedangkan inti dalam padat akibat tekanan yang sangat tinggi. Gerakan logam cair pada inti luar berperan dalam pembentukan medan magnet Bumi. Medan magnet membantu membelokkan sebagian partikel bermuatan dari Matahari.
+1.3 Sistem Bumi yang saling terhubung
+Geosfer mencakup batuan dan bagian padat Bumi; hidrosfer mencakup air; atmosfer adalah lapisan gas; biosfer mencakup kehidupan. Keempat sistem ini bukan ruang terpisah. Hujan dari atmosfer mengalir di permukaan, melarutkan mineral, membawa sedimen, dan memengaruhi organisme. Tumbuhan mengambil unsur dari tanah dan melepaskan air ke atmosfer melalui transpirasi.
+Contoh hubungan sistem: pembukaan hutan mengubah tutupan tanah. Air hujan lebih mudah mengalir di permukaan pada kondisi tertentu, sehingga pola erosi dan pengisian air tanah dapat berubah. Dampaknya bergantung pada kemiringan, jenis tanah, curah hujan, dan tata guna lahan.
+1.4 Siklus materi dan energi
+Energi internal Bumi berasal dari panas sisa pembentukan planet dan peluruhan radioaktif. Energi Matahari menggerakkan cuaca, siklus air, dan banyak proses permukaan. Materi berpindah melalui siklus batuan, siklus air, dan siklus unsur. Materi tidak sekadar hilang; ia berubah bentuk, berpindah tempat, atau tersimpan dalam sistem lain.
+CONTOH PEMAHAMAN
+Ketika batuan di pegunungan melapuk, butirannya dapat dibawa sungai menuju dataran rendah. Sebagian mengendap sebagai pasir atau lumpur. Dalam waktu panjang, endapan dapat terkubur, memadat, dan menjadi batuan sedimen. Jika kemudian mengalami tekanan dan suhu tinggi, batuan itu dapat berubah lagi.
+PERTANYAAN REFLEKSI
+Mengapa penjelasan tentang perubahan iklim, erosi, dan kehidupan tidak cukup jika hanya melihat satu sistem Bumi?
 
-BAB 2 — MINERAL DAN BATUAN
-Mineral adalah zat padat alami dengan komposisi kimia dan susunan kristal tertentu. Batuan merupakan agregat satu atau lebih mineral. Geolog mengenali mineral melalui sifat seperti warna, kilap, kekerasan relatif, belahan, dan bentuk kristal.
-Tiga kelompok utama batuan dibedakan berdasarkan proses pembentukannya. Batuan beku berasal dari magma atau lava yang mendingin. Batuan sedimen terbentuk dari pengendapan, pemadatan, atau proses kimia dan biologis. Batuan metamorf terbentuk ketika batuan sebelumnya berubah akibat suhu, tekanan, atau fluida tanpa harus melebur seluruhnya.
-Siklus batuan menggambarkan bahwa satu jenis batuan dapat berubah menjadi jenis lain. Siklus ini bukan lingkaran dengan urutan wajib; banyak jalur perubahan mungkin terjadi.
+BAB 2 — MINERAL, KRISTAL, DAN BATUAN
+2.1 Apa yang disebut mineral?
+Mineral adalah zat padat alami yang umumnya memiliki komposisi kimia dan susunan atom teratur. Es alami dapat disebut mineral dalam konteks geologi, sedangkan air cair bukan mineral karena tidak berbentuk padat kristalin. Kaca buatan bukan mineral karena tidak terbentuk melalui proses geologi alami dan tidak memiliki susunan kristal teratur.
+Mineral dapat dikenali melalui beberapa sifat. Warna membantu pengamatan awal, tetapi tidak selalu menjadi petunjuk paling andal karena pengotor dapat mengubah warna. Kilap menggambarkan cara permukaan memantulkan cahaya. Kekerasan relatif sering dibandingkan menggunakan skala Mohs. Belahan menunjukkan kecenderungan mineral pecah mengikuti bidang tertentu, sedangkan pecahan menggambarkan bentuk permukaan patahan yang tidak mengikuti bidang belahan.
+2.2 Kristal dan susunan atom
+Kristal memiliki pola susunan atom yang berulang. Pola mikroskopis ini memengaruhi bentuk, belahan, dan sifat fisik mineral. Kristal besar dapat tumbuh ketika tersedia ruang dan waktu yang cukup, tetapi banyak mineral di batuan hanya tampak sebagai butiran kecil.
+Bentuk kristal tidak selalu sempurna. Ruang tumbuh yang terbatas, perubahan suhu, dan kehadiran mineral lain dapat menghambat pertumbuhan. Karena itu, identifikasi mineral sebaiknya menggunakan beberapa sifat sekaligus, bukan hanya bentuk luar.
+2.3 Tiga kelompok batuan
+Batuan beku terbentuk ketika magma atau lava mendingin dan mengkristal. Pendinginan lambat di bawah permukaan memberi waktu bagi kristal tumbuh lebih besar; pendinginan cepat di permukaan cenderung menghasilkan kristal halus atau kaca vulkanik. Granit dan basalt adalah contoh batuan beku dengan komposisi dan tekstur berbeda.
+Batuan sedimen terbentuk melalui pengendapan butiran, presipitasi kimia, atau akumulasi sisa organisme. Konglomerat dapat mengandung kerikil membulat; batu pasir tersusun dari butiran pasir yang tersemen; batu gamping sering kaya kalsium karbonat. Lapisan sedimen dapat merekam perubahan lingkungan masa lalu.
+Batuan metamorf terbentuk ketika batuan sebelumnya mengalami perubahan akibat suhu, tekanan, dan fluida aktif tanpa melebur seluruhnya. Batu sabak, sekis, gneis, dan marmer menunjukkan tekstur serta kondisi pembentukan yang berbeda.
+2.4 Siklus batuan
+Siklus batuan adalah kerangka untuk memahami perubahan antarkelompok batuan. Batuan beku dapat lapuk menjadi sedimen; sedimen dapat menjadi batuan sedimen; batuan dapat terkubur dan termetamorfkan; batuan dapat melebur menjadi magma lalu membeku kembali. Tidak ada urutan tunggal yang wajib dilalui setiap batuan.
+STUDI KASUS
+Bayangkan menemukan batu pasir di tepi sungai. Butiran penyusunnya memberi petunjuk tentang batuan asal, jarak pengangkutan, dan energi aliran. Namun satu ciri saja jarang cukup untuk memastikan seluruh sejarahnya. Geolog menggabungkan ukuran butir, bentuk, komposisi, struktur lapisan, dan konteks lokasi.
+LATIHAN SINGKAT
+Jelaskan mengapa warna saja tidak cukup untuk mengidentifikasi mineral. Berikan perbedaan proses pembentukan batuan beku, sedimen, dan metamorf.
 
-BAB 3 — LEMPENG TEKTONIK
-Kerak dan bagian paling atas mantel membentuk litosfer yang terpecah menjadi lempeng-lempeng. Lempeng bergerak sangat lambat di atas bagian mantel yang lebih mudah berubah bentuk. Gerakan ini menjelaskan pola pegunungan, palung laut, gempa, dan gunung api.
-Pada batas divergen, lempeng saling menjauh dan kerak baru dapat terbentuk. Pada batas konvergen, lempeng saling mendekat; salah satunya dapat menunjam atau keduanya menebal dan membentuk pegunungan. Pada batas transform, lempeng bergeser mendatar.
-Tektonik lempeng merupakan teori pemersatu geologi modern karena menghubungkan banyak bukti, termasuk bentuk dasar samudra, persebaran gempa, dan umur batuan.
+BAB 3 — WAKTU GEOLOGI DAN CARA MEMBACA SEJARAH BATUAN
+3.1 Relatif dan numerik
+Penanggalan relatif menyusun peristiwa dari lebih tua ke lebih muda tanpa harus memberi angka usia. Prinsip superposisi menyatakan bahwa pada lapisan sedimen yang belum terganggu, lapisan bawah umumnya lebih tua daripada lapisan di atasnya. Prinsip potong-memotong menyatakan bahwa struktur yang memotong batuan terbentuk setelah batuan yang dipotong.
+Penanggalan numerik memperkirakan usia dalam satuan tahun, sering melalui peluruhan isotop radioaktif. Isotop induk berubah menjadi isotop anak dengan laju karakteristik yang dinyatakan sebagai waktu paruh. Metode yang digunakan harus sesuai dengan jenis sampel dan rentang usia.
+3.2 Fosil sebagai rekaman kehidupan
+Fosil adalah sisa atau jejak organisme masa lampau yang terawetkan secara alami. Fosil dapat berupa cangkang, tulang, jejak kaki, atau pola aktivitas. Fosil membantu memahami perubahan kehidupan dan lingkungan, tetapi catatan fosil tidak lengkap karena pengawetan memerlukan kondisi khusus.
+Fosil indeks berguna untuk menghubungkan lapisan yang terbentuk pada masa relatif sama. Organisme yang tersebar luas dan hidup dalam rentang waktu geologi relatif singkat berpotensi menjadi fosil indeks yang baik.
+3.3 Ketidakpastian dan bukti
+Setiap metode memiliki keterbatasan. Sampel dapat mengalami perubahan setelah terbentuk, lapisan dapat terlipat atau patah, dan fosil dapat berpindah dari lapisan asalnya. Karena itu, kesimpulan geologi biasanya menggabungkan beberapa bukti yang saling menguji.
+AKTIVITAS
+Buat garis waktu sederhana yang memuat pembentukan batuan, pengendapan lapisan, pemotongan oleh sesar, dan erosi. Urutkan peristiwa berdasarkan prinsip geologi relatif dan jelaskan alasan urutannya.
 
-BAB 4 — GEMPA DAN VULKANISME
-Gempa bumi terjadi ketika energi elastis yang terkumpul di batuan dilepaskan secara tiba-tiba, sering kali akibat pergeseran pada sesar. Titik awal di dalam bumi disebut hiposentrum, sedangkan titik di permukaan tepat di atasnya disebut episentrum. Magnitudo menyatakan ukuran sumber gempa; intensitas menggambarkan dampak guncangan di suatu tempat.
-Gunung api terbentuk ketika magma mencapai permukaan. Magma dapat naik karena perbedaan kerapatan, tekanan gas, dan kondisi tektonik. Letusan memiliki karakter yang beragam; tidak semua gunung api meletus dengan cara yang sama.
-Ilmu geologi membantu memahami bahaya, tetapi tidak dapat memastikan waktu dan lokasi setiap gempa secara tepat. Informasi kebencanaan harus merujuk lembaga resmi.
+BAB 4 — LEMPENG TEKTONIK DAN PEMBENTUKAN KERAK
+4.1 Litosfer dan astenosfer
+Litosfer terdiri atas kerak dan bagian paling atas mantel yang bersifat kaku dalam skala waktu geologi. Di bawahnya terdapat bagian mantel atas yang lebih mudah berubah bentuk, sering disebut astenosfer. Lempeng litosfer bergerak sebagai bagian yang relatif kaku, sementara material mantel mengalami deformasi perlahan.
+Gerakan lempeng dipengaruhi oleh beberapa proses, termasuk tarikan lempeng yang menunjam dan dorongan dari punggung tengah samudra. Penjelasan modern tidak menyederhanakan gerakan lempeng sebagai benda yang hanya mengapung di atas lautan magma.
+4.2 Batas divergen
+Pada batas divergen, dua lempeng bergerak saling menjauh. Di dasar samudra, pemisahan ini memungkinkan material mantel naik dan membentuk kerak samudra baru. Punggung tengah samudra menjadi wilayah penting pembentukan kerak. Di benua, peregangan dapat membentuk lembah retakan.
+4.3 Batas konvergen
+Pada batas konvergen, lempeng saling mendekat. Kerak samudra yang lebih rapat dapat menunjam ke bawah lempeng lain. Proses subduksi berkaitan dengan palung laut, gempa, dan pembentukan magma. Jika dua massa kerak benua bertumbukan, kerak dapat menebal dan membentuk sabuk pegunungan.
+4.4 Batas transform
+Pada batas transform, lempeng bergeser mendatar relatif satu sama lain. Pergeseran dapat tersendat akibat gesekan dan kemudian bergerak ketika tegangan terlepas. Batas transform dapat berada di daratan atau menghubungkan segmen punggung samudra.
+4.5 Bukti gerakan lempeng
+Bukti meliputi kecocokan pola garis pantai pada beberapa benua, persebaran fosil tertentu, pola umur dasar samudra, pita magnetik simetris di sekitar punggung samudra, dan konsentrasi gempa serta gunung api. Satu bukti dapat memiliki penjelasan alternatif; gabungan bukti memberi dukungan lebih kuat.
+KONTEKS INDONESIA
+Indonesia berada pada kawasan pertemuan beberapa lempeng besar dan mikro-lempeng. Keragaman tektonik membantu menjelaskan keberadaan busur gunung api, cekungan, pegunungan, serta aktivitas gempa. Namun kondisi tiap pulau dan wilayah tidak sama; peta geologi dan informasi resmi perlu digunakan untuk memahami lokasi tertentu.
 
-BAB 5 — AIR, ANGIN, DAN PEMBENTUKAN BENTANG ALAM
-Pelapukan memecah atau mengubah batuan di tempatnya. Erosi mengangkut material oleh air, angin, es, atau gravitasi. Sedimentasi terjadi ketika material yang diangkut mengendap. Ketiga proses ini membentuk lembah, delta, pantai, gua, dan dataran.
-Air tanah tersimpan dalam pori atau rekahan batuan. Lapisan yang mampu menyimpan dan mengalirkan air disebut akuifer. Penggunaan air tanah perlu dikelola agar pengambilan tidak melampaui pengisian kembali.
-Manusia turut mengubah permukaan bumi melalui pembangunan, pertanian, pertambangan, dan perubahan tutupan lahan. Memahami proses geologi membantu perencanaan ruang yang lebih bijak.
+BAB 5 — GEMPA BUMI DAN DEFORMASI KERAK
+5.1 Tegangan dan regangan
+Gaya yang bekerja pada batuan menghasilkan tegangan. Perubahan bentuk akibat tegangan disebut regangan. Batuan dapat berubah secara elastis, mengalami deformasi permanen, atau patah. Sifat batuan dipengaruhi suhu, tekanan, komposisi, keberadaan fluida, dan lamanya gaya bekerja.
+5.2 Sesar dan sumber gempa
+Sesar adalah rekahan tempat blok batuan mengalami pergeseran. Gempa tektonik sering terjadi ketika bagian sesar yang terkunci bergerak dan melepaskan energi. Gempa juga dapat berkaitan dengan aktivitas vulkanik, runtuhan, atau proses lain. Tidak semua gempa memiliki sumber yang sama.
+Hiposentrum adalah lokasi awal pelepasan energi di dalam Bumi. Episentrum merupakan titik di permukaan yang berada tepat di atas hiposentrum. Gelombang seismik merambat melalui Bumi dan direkam oleh seismometer.
+5.3 Magnitudo dan intensitas
+Magnitudo menggambarkan ukuran gempa berdasarkan pengukuran gelombang dan karakter sumbernya. Intensitas menggambarkan tingkat guncangan atau dampak di lokasi tertentu. Satu gempa memiliki satu nilai magnitudo utama, tetapi intensitas dapat berbeda antarwilayah karena jarak, kondisi tanah, kedalaman, dan bangunan.
+5.4 Membaca informasi gempa
+Informasi awal dapat diperbarui ketika data tambahan masuk. Perbedaan angka pada laporan awal dan laporan pembaruan tidak selalu berarti ada kesalahan; analisis ilmiah memang dapat disempurnakan. Pembaca perlu memperhatikan waktu pembaruan, sumber resmi, lokasi, kedalaman, magnitudo, serta keterangan ketidakpastian.
+CATATAN KESELAMATAN
+Buku ini menjelaskan konsep geologi, bukan prosedur tanggap darurat. Untuk informasi dan arahan keselamatan, ikuti otoritas kebencanaan dan pemerintah setempat.
 
-BAB 6 — GEOLOGI DALAM KEHIDUPAN
-Bahan bangunan, logam, energi, dan air berkaitan dengan sumber daya geologi. Sumber daya tidak selalu berarti cadangan yang dapat ditambang secara ekonomis. Ketersediaan, dampak lingkungan, teknologi, dan kebutuhan masyarakat perlu dipertimbangkan bersama.
-Peta geologi menyajikan informasi tentang jenis batuan, struktur, dan sejarah suatu wilayah. Peta tersebut digunakan dalam penelitian, pembangunan, konservasi, serta kajian risiko.
-Geologi mengajarkan bahwa lingkungan memiliki sejarah panjang dan proses yang terus berlangsung. Keputusan manusia sebaiknya mempertimbangkan kondisi alam, bukan menganggap bentang alam selalu tetap.
+BAB 6 — GUNUNG API DAN PROSES MAGMATIK
+6.1 Magma dan lava
+Magma adalah material batuan cair atau sebagian cair di bawah permukaan. Ketika mencapai permukaan, material tersebut disebut lava. Magma juga mengandung kristal dan gas terlarut. Komposisi kimia, suhu, kandungan kristal, dan gas memengaruhi kekentalan serta perilaku magma.
+6.2 Pembentukan magma
+Magma dapat terbentuk ketika batuan mantel atau kerak mengalami pelelehan sebagian. Pelelehan dapat dipicu penurunan tekanan, penambahan zat mudah menguap seperti air, atau peningkatan suhu. Kondisi tektonik yang berbeda menghasilkan karakter magma yang berbeda.
+6.3 Bentuk gunung api
+Gunung api perisai umumnya memiliki lereng luas dan landai karena lava relatif encer. Kerucut komposit tersusun dari lapisan lava dan material piroklastik. Kerucut bara biasanya lebih kecil dan terbentuk dari akumulasi material letusan. Bentuk gunung api dipengaruhi jenis magma, sejarah erupsi, dan proses erosi.
+6.4 Batuan beku dan sumber daya
+Pendinginan magma membentuk mineral dan batuan dengan tekstur yang merekam sejarah pembekuan. Sistem magmatik juga dapat berkaitan dengan endapan mineral tertentu. Namun keberadaan mineral tidak otomatis berarti suatu lokasi layak ditambang; aspek ekonomi, lingkungan, sosial, dan hukum harus dinilai.
+PERTANYAAN
+Mengapa dua gunung api dapat memiliki bentuk dan karakter aktivitas yang berbeda? Gunakan konsep komposisi magma, kekentalan, dan proses pembentukan.
 
-RANGKUMAN
-• Bumi terdiri atas lapisan dan sistem yang saling berinteraksi.
-• Mineral menyusun batuan; batuan dikelompokkan menjadi beku, sedimen, dan metamorf.
-• Gerak lempeng menjelaskan banyak proses tektonik.
-• Pelapukan, erosi, dan sedimentasi membentuk bentang alam.
-• Sumber daya geologi perlu dikelola dengan mempertimbangkan dampaknya.
+BAB 7 — PELAPUKAN, EROSI, DAN SEDIMENTASI
+7.1 Pelapukan fisik
+Pelapukan fisik memecah batuan menjadi bagian lebih kecil tanpa mengubah komposisi kimia utamanya. Perubahan suhu, pembekuan air di rekahan pada lingkungan yang sesuai, kristalisasi garam, dan pelepasan tekanan dapat berperan. Efektivitas proses bergantung pada iklim, jenis batuan, dan kondisi setempat.
+7.2 Pelapukan kimia
+Pelapukan kimia mengubah mineral melalui reaksi dengan air, oksigen, karbon dioksida, atau zat terlarut. Pelarutan dapat mengubah batu gamping dan membentuk bentang alam karst. Oksidasi mineral yang mengandung besi dapat menghasilkan warna kemerahan atau kecokelatan.
+7.3 Erosi dan pengangkutan
+Erosi adalah pelepasan dan pengangkutan material oleh air, angin, es, atau gravitasi. Kemampuan aliran mengangkut sedimen dipengaruhi kecepatan, debit, ukuran butir, bentuk butir, dan kemiringan. Material yang lebih berat umumnya memerlukan energi lebih besar untuk mulai bergerak.
+7.4 Sedimentasi dan lingkungan pengendapan
+Ketika energi pengangkut menurun, sedimen dapat mengendap. Sungai membentuk dataran banjir dan delta; angin dapat membentuk gumuk pasir; laut menyimpan sedimen dengan karakter yang dipengaruhi gelombang dan arus. Struktur sedimen seperti perlapisan silang dapat memberi petunjuk arah arus purba.
+7.5 Tanah sebagai hasil interaksi
+Tanah terbentuk dari bahan induk yang mengalami pelapukan dan bercampur dengan bahan organik, air, serta udara. Pembentukan tanah dipengaruhi iklim, organisme, relief, bahan induk, dan waktu. Tanah bukan sekadar batuan halus; ia merupakan sistem hidup yang menopang banyak ekosistem.
+STUDI KASUS
+Dua lereng dengan kemiringan sama dapat mengalami erosi berbeda jika tutupan vegetasi, jenis tanah, intensitas hujan, dan pengelolaan lahannya berbeda. Karena itu, penilaian erosi perlu mempertimbangkan gabungan faktor, bukan hanya kemiringan.
 
-LATIHAN DAN PEMBAHASAN
-1. Apa perbedaan mineral dan batuan?
-Jawaban: Mineral memiliki komposisi dan struktur kristal tertentu, sedangkan batuan merupakan gabungan satu atau lebih mineral atau material geologis.
-2. Sebutkan tiga jenis batas lempeng.
-Jawaban: Divergen, konvergen, dan transform.
-3. Apa perbedaan pelapukan dan erosi?
-Jawaban: Pelapukan mengubah atau memecah batuan di tempat; erosi mengangkut material.
-4. Mengapa magnitudo dan intensitas gempa berbeda?
-Jawaban: Magnitudo mengukur ukuran sumber gempa, sedangkan intensitas menggambarkan dampak guncangan di lokasi tertentu.
+BAB 8 — AIR TANAH, SUNGAI, DAN LAUT
+8.1 Siklus hidrologi
+Air menguap dari laut, danau, tanah, serta tumbuhan. Uap air mengalami kondensasi dan dapat jatuh sebagai presipitasi. Sebagian air mengalir di permukaan, sebagian meresap ke tanah, dan sebagian tersimpan sementara dalam salju, danau, atau akuifer. Siklus air menghubungkan atmosfer, daratan, lautan, dan kehidupan.
+8.2 Infiltrasi dan akuifer
+Infiltrasi adalah proses masuknya air ke dalam tanah. Air dapat bergerak melalui pori tanah, rekahan batuan, dan lapisan yang saling terhubung. Akuifer merupakan formasi geologi yang dapat menyimpan dan mengalirkan air dalam jumlah berarti. Lapisan kedap atau relatif sulit meloloskan air dapat membatasi gerakan air tanah.
+Pengambilan air tanah yang melebihi pengisian kembali dapat menurunkan muka air tanah. Di wilayah pesisir, perubahan keseimbangan air tawar dan air asin dapat memicu intrusi air laut. Pengelolaan perlu didasarkan pada pengukuran dan kajian hidrogeologi.
+8.3 Sungai dan daerah aliran sungai
+Daerah aliran sungai adalah wilayah yang mengalirkan air menuju satu keluaran. Kondisi hulu, tengah, dan hilir dapat berbeda. Hulu sering memiliki gradien lebih besar; hilir cenderung menjadi wilayah pengendapan. Perubahan tutupan lahan dan tata ruang dapat mengubah aliran, sedimentasi, dan kualitas air.
+8.4 Pantai dan proses pesisir
+Garis pantai berubah karena gelombang, arus, pasang surut, suplai sedimen, dan perubahan muka laut. Erosi pantai tidak selalu disebabkan satu faktor. Bangunan pantai dapat melindungi satu lokasi tetapi mengubah distribusi sedimen di tempat lain. Perencanaan pesisir memerlukan kajian menyeluruh.
+REFLEKSI
+Jelaskan bagaimana perubahan di wilayah hulu dapat memengaruhi kondisi sungai dan pesisir di hilir.
+
+BAB 9 — BENTANG ALAM, PEGUNUNGAN, DAN KARST
+9.1 Pengangkatan dan pembentukan pegunungan
+Pegunungan dapat terbentuk melalui tumbukan lempeng, penebalan kerak, aktivitas magmatik, atau pengangkatan blok batuan. Setelah terangkat, pegunungan terus dipengaruhi pelapukan dan erosi. Bentuk puncak dan lembah merupakan hasil interaksi struktur geologi, iklim, batuan, dan waktu.
+9.2 Karst
+Karst berkembang terutama pada batuan mudah larut seperti batu gamping. Air yang mengandung karbon dioksida dapat melarutkan kalsium karbonat secara perlahan. Proses ini membentuk dolina, gua, sungai bawah tanah, dan mata air. Kawasan karst dapat menjadi penyimpan air penting sekaligus ekosistem yang rentan.
+9.3 Bentang alam glasial dan gurun
+Gletser mengikis dan mengangkut batuan, membentuk lembah berbentuk U dan endapan morena. Di wilayah kering, angin dapat mengangkut debu dan pasir serta membentuk gumuk. Air episodik juga dapat membentuk saluran dan kipas aluvial. Tidak semua gurun panas; sebagian berada di wilayah dingin.
+9.4 Membaca lanskap
+Peta topografi, citra satelit, penampang, dan pengamatan lapangan membantu menghubungkan bentuk permukaan dengan proses pembentukannya. Bentuk lahan tidak boleh ditafsirkan secara terpisah dari batuan dasar dan sejarah geologi.
+
+BAB 10 — SUMBER DAYA GEOLOGI DAN LINGKUNGAN
+10.1 Sumber daya mineral
+Mineral dan batuan digunakan untuk konstruksi, teknologi, pertanian, dan berbagai kebutuhan. Sumber daya mineral adalah konsentrasi bahan yang memiliki potensi kegunaan, sedangkan cadangan merupakan bagian yang dapat ditambang secara ekonomis berdasarkan kondisi tertentu. Perubahan harga, teknologi, pengetahuan, dan aturan dapat mengubah penilaian tersebut.
+10.2 Energi dan transisi
+Bahan bakar fosil, panas bumi, uranium, serta bahan untuk teknologi energi terbarukan berkaitan dengan geologi. Panas bumi memanfaatkan energi panas dari dalam Bumi. Pengembangan sumber energi apa pun tetap perlu menilai dampak lingkungan, kebutuhan air, lokasi, biaya, dan penerimaan masyarakat.
+10.3 Dampak kegiatan ekstraksi
+Pertambangan dapat mengubah bentang alam, menghasilkan limbah, menggunakan air, dan memengaruhi ekosistem. Pengelolaan yang bertanggung jawab memerlukan kajian dampak, pemantauan, keterbukaan informasi, keselamatan pekerja, pemulihan lahan, dan kepatuhan terhadap aturan. Tidak ada teknologi yang membuat seluruh kegiatan ekstraksi bebas dampak.
+10.4 Konservasi geologi
+Geodiversitas adalah keragaman unsur geologi seperti batuan, mineral, fosil, bentang alam, dan proses alam. Situs geologi tertentu memiliki nilai ilmiah, pendidikan, budaya, atau wisata. Konservasi menjaga agar warisan geologi dapat dipelajari generasi berikutnya.
+
+BAB 11 — PETA GEOLOGI DAN METODE PENELITIAN
+11.1 Membaca peta
+Peta geologi menggunakan warna, simbol, garis, dan legenda untuk menyampaikan jenis batuan, umur, serta struktur. Warna pada peta bukan warna asli batuan, melainkan kode. Pembaca harus memeriksa legenda, skala, arah utara, proyeksi, dan tahun penerbitan.
+11.2 Skala dan penampang
+Skala menunjukkan hubungan jarak pada peta dengan jarak sebenarnya. Peta skala besar menampilkan area lebih kecil dengan detail lebih banyak, sedangkan peta skala kecil mencakup area luas dengan detail lebih terbatas. Penampang geologi menggambarkan susunan bawah permukaan berdasarkan data dan interpretasi.
+11.3 Kerja lapangan dan data
+Pengamatan geologi dapat mencatat lokasi, jenis batuan, struktur, orientasi lapisan, kondisi singkapan, dan hubungan antarbatuan. Catatan harus membedakan pengamatan langsung dari interpretasi. Foto perlu diberi keterangan lokasi, arah pandang, skala, dan tanggal jika tersedia.
+11.4 Model dan keterbatasannya
+Peta dan model adalah representasi, bukan kenyataan itu sendiri. Data yang jarang dapat menghasilkan ketidakpastian lebih besar. Interpretasi yang baik menjelaskan bukti pendukung, asumsi, dan bagian yang masih belum diketahui.
+
+BAB 12 — GEOLOGI DAN MASYARAKAT
+12.1 Tata ruang berbasis kondisi alam
+Perencanaan wilayah perlu mempertimbangkan jenis tanah, kemiringan, batuan, air tanah, proses pantai, dan sejarah perubahan lanskap. Peta geologi merupakan salah satu masukan; keputusan tata ruang juga memerlukan data sosial, ekonomi, ekologi, dan infrastruktur.
+12.2 Geologi dalam pembangunan
+Pembangunan jalan, jembatan, bendungan, terowongan, dan gedung memerlukan pemahaman kondisi bawah permukaan. Penyelidikan geoteknik menilai sifat tanah dan batuan untuk kebutuhan desain. Hasilnya harus ditafsirkan oleh tenaga ahli yang berwenang.
+12.3 Komunikasi sains
+Informasi geologi perlu disampaikan dengan bahasa jelas dan tidak menimbulkan kepanikan. Bedakan potensi bahaya, paparan, kerentanan, dan risiko. Risiko bukan hanya sifat alam; dampaknya juga dipengaruhi tata ruang, kualitas bangunan, akses informasi, dan kesiapsiagaan masyarakat.
+12.4 Masa depan ilmu kebumian
+Penginderaan jauh, sensor, pemodelan komputer, dan analisis data membantu ilmuwan memantau perubahan Bumi. Teknologi tidak menghapus kebutuhan observasi lapangan dan penilaian kritis. Data yang baik perlu metode yang transparan dan dapat diuji.
+
+RANGKUMAN BESAR
+• Bumi adalah sistem dinamis dengan bagian padat, air, udara, dan kehidupan yang saling memengaruhi.
+• Mineral memiliki susunan dan sifat tertentu; batuan terbentuk melalui proses beku, sedimen, atau metamorf.
+• Lapisan batuan, fosil, dan isotop menyimpan bukti sejarah Bumi.
+• Gerak lempeng menjelaskan pembentukan kerak, pegunungan, palung, dan banyak gempa serta gunung api.
+• Pelapukan, erosi, pengangkutan, dan sedimentasi membentuk bentang alam.
+• Air tanah dan sungai merupakan bagian dari siklus hidrologi dan perlu dikelola berdasarkan kondisi setempat.
+• Sumber daya geologi memiliki manfaat sekaligus konsekuensi lingkungan dan sosial.
+• Peta geologi adalah alat interpretasi yang harus dibaca bersama legenda, skala, dan keterbatasan data.
+
+LATIHAN AKHIR DAN PEMBAHASAN
+1. Mengapa mantel Bumi dapat mengalir meskipun sebagian besar bersifat padat?
+Pembahasan: Batuan mantel dapat mengalami deformasi sangat lambat pada suhu dan tekanan tinggi. Istilah mengalir di sini merujuk perubahan bentuk dalam rentang waktu geologi, bukan aliran cair seperti air.
+2. Apa perbedaan mineral dan batuan?
+Pembahasan: Mineral adalah zat padat alami dengan komposisi dan struktur kristal tertentu. Batuan merupakan agregat satu atau lebih mineral atau material geologis.
+3. Mengapa warna bukan satu-satunya dasar identifikasi mineral?
+Pembahasan: Pengotor dan kondisi pembentukan dapat mengubah warna. Kekerasan, kilap, belahan, pecahan, dan sifat lain perlu dipertimbangkan bersama.
+4. Bagaimana prinsip superposisi membantu membaca urutan lapisan?
+Pembahasan: Pada susunan yang belum terganggu, lapisan bawah umumnya lebih tua daripada lapisan di atasnya. Gangguan seperti lipatan dan sesar perlu diperiksa.
+5. Sebutkan tiga jenis batas lempeng dan ciri gerakannya.
+Pembahasan: Divergen saling menjauh, konvergen saling mendekat, transform bergeser mendatar.
+6. Apa beda magnitudo dan intensitas gempa?
+Pembahasan: Magnitudo menyatakan ukuran gempa, sedangkan intensitas menggambarkan guncangan atau dampak pada lokasi tertentu.
+7. Mengapa dua gunung api dapat memiliki karakter berbeda?
+Pembahasan: Komposisi magma, suhu, kandungan gas, kristal, kekentalan, dan kondisi tektonik dapat berbeda.
+8. Jelaskan perbedaan pelapukan, erosi, dan sedimentasi.
+Pembahasan: Pelapukan memecah atau mengubah batuan di tempat; erosi melepaskan dan mengangkut material; sedimentasi mengendapkan material.
+9. Apa fungsi akuifer?
+Pembahasan: Akuifer menyimpan dan mengalirkan air tanah melalui pori atau rekahan yang saling terhubung.
+10. Mengapa peta geologi harus dibaca bersama legendanya?
+Pembahasan: Warna dan simbol merupakan kode. Legenda menjelaskan arti kode, satuan batuan, struktur, dan informasi lain.
+11. Apa perbedaan sumber daya dan cadangan mineral?
+Pembahasan: Sumber daya menunjukkan potensi bahan, sedangkan cadangan adalah bagian yang dapat ditambang secara ekonomis berdasarkan kondisi dan pengetahuan tertentu.
+12. Mengapa pengamatan harus dipisahkan dari interpretasi?
+Pembahasan: Pemisahan ini membuat pembaca mengetahui mana fakta yang diamati dan mana penjelasan yang masih perlu diuji.
+
+TUGAS PROYEK
+Pilih satu bentang alam yang mudah diamati dari tempat aman, misalnya bukit, tebing sungai, pantai, atau dataran. Gunakan peta umum dan sumber resmi untuk mengenali wilayahnya. Tuliskan:
+1. Bentuk lahan yang terlihat dan ciri-cirinya.
+2. Proses geologi yang mungkin berperan.
+3. Bukti yang mendukung dugaan tersebut.
+4. Data tambahan yang dibutuhkan untuk menguji dugaan.
+5. Dampak aktivitas manusia dan pilihan pengelolaan yang bertanggung jawab.
+Jangan memasuki lokasi berbahaya atau mengambil sampel dari area terlarang. Proyek dapat dikerjakan melalui peta, foto berizin, dan sumber terbuka.
 
 GLOSARIUM
-Akuifer: lapisan batuan atau sedimen penyimpan dan penyalur air.
-Episentrum: titik permukaan di atas hiposentrum.
-Litosfer: kerak dan mantel paling atas yang kaku.
+Akuifer: formasi geologi yang dapat menyimpan dan mengalirkan air tanah.
+Astenosfer: bagian mantel atas yang relatif mudah mengalami deformasi.
+Batuan beku: batuan hasil pembekuan magma atau lava.
+Batuan metamorf: batuan yang berubah akibat suhu, tekanan, atau fluida.
+Batuan sedimen: batuan yang terbentuk dari endapan atau presipitasi.
+Biosfer: bagian Bumi yang mencakup kehidupan.
+Deformasi: perubahan bentuk atau ukuran material.
+Episentrum: titik permukaan tepat di atas hiposentrum.
+Erosi: pelepasan dan pengangkutan material.
+Fosil: sisa atau jejak organisme masa lampau yang terawetkan.
+Geodiversitas: keragaman unsur dan proses geologi.
+Geosfer: bagian padat Bumi.
+Hidrosfer: seluruh air di Bumi.
+Hiposentrum: lokasi awal gempa di dalam Bumi.
+Intensitas: ukuran tingkat guncangan atau dampak gempa pada lokasi.
+Litosfer: kerak dan bagian paling atas mantel yang relatif kaku.
 Magma: material batuan cair atau sebagian cair di bawah permukaan.
+Mantel: lapisan Bumi di antara kerak dan inti.
+Mineral: zat padat alami dengan susunan kristal dan komposisi tertentu.
+Pelapukan: pemecahan atau perubahan batuan di tempat.
+Sedimentasi: proses pengendapan material.
 Sesar: rekahan tempat blok batuan mengalami pergeseran.
-Sedimen: material hasil pelapukan atau proses lain yang diangkut dan diendapkan.
+Subduksi: proses penunjaman satu lempeng ke bawah lempeng lain.
+Tektonik: proses yang berkaitan dengan deformasi dan gerak kerak/litosfer.
+Waktu paruh: waktu yang diperlukan agar jumlah isotop induk radioaktif berkurang menjadi setengah.
+
+DAFTAR PUSTAKA DAN SUMBER BELAJAR
+Daftar berikut merupakan titik awal untuk pendalaman. Pembaca perlu memeriksa edisi, tahun terbit, dan ketersediaan sumber melalui perpustakaan atau penerbit resmi.
+• Marshak, S. Essentials of Geology. W. W. Norton & Company.
+• Press, F., Siever, R., Grotzinger, J., dan Jordan, T. H. Understanding Earth. W. H. Freeman.
+• Tarbuck, E. J., Lutgens, F. K., dan Tasa, D. Earth: An Introduction to Physical Geology. Pearson.
+• U.S. Geological Survey (USGS): materi pendidikan dan data ilmu kebumian, earthquake.usgs.gov dan usgs.gov.
+• Badan Geologi, Kementerian Energi dan Sumber Daya Mineral Republik Indonesia: publikasi dan informasi geologi melalui laman resmi Badan Geologi.
+• Badan Meteorologi, Klimatologi, dan Geofisika (BMKG): informasi gempa dan iklim melalui bmkg.go.id.
 
 CATATAN PENULIS
-Naskah pengantar orisinal Nexty Studio. Materi perlu diperbarui dan ditinjau oleh pengajar atau ahli sebelum digunakan sebagai rujukan akademik formal.
+Naskah pengembangan orisinal Nexty Studio untuk pembelajaran umum. Naskah ini merupakan bahan belajar, bukan pengganti buku ajar resmi, survei lapangan, nasihat profesional, atau informasi kebencanaan dari lembaga berwenang. Edisi berikutnya perlu ditinjau oleh pengajar atau ahli geologi dan diperbarui ketika ilmu serta data berkembang.

@@ -95,12 +95,12 @@ fun NextyLibraryApp() {
         Surface(Modifier.fillMaxSize(), color = Paper) {
             Column(Modifier.fillMaxSize()) {
                 if (reading != null) {
-                    ReaderScreen(reading!!, musicPlaying, { if (musicPlaying) musicPlayer.pause() else musicPlayer.play(); musicPlaying = !musicPlaying }, onBack = { reading = null })
+                    ReaderScreen(reading!!, musicPlaying, { if (musicPlaying) { musicPlayer.pause(); musicPlaying = false } else { runCatching { musicPlayer.play() }.onSuccess { musicPlaying = true } } }, onBack = { reading = null })
                 } else if (selected != null) {
                     BookDetail(selected!!, categories.firstOrNull { it.id == selected!!.categoryId }?.name, onBack = { selected = null }, onRead = { reading = selected })
                 } else {
                     when (tab) {
-                        "Beranda" -> Box(Modifier.weight(1f)) { HomeScreen(books, categories, loading, error, search, { search = it }, selectedCategory, { selectedCategory = it }, { reloadKey++ }, { selected = it }, musicPlayer, musicPlaying, { if (musicPlaying) musicPlayer.pause() else musicPlayer.play(); musicPlaying = !musicPlaying }, musicVolume, { musicVolume = it; musicPlayer.setVolume(it) }) }
+                        "Beranda" -> Box(Modifier.weight(1f)) { HomeScreen(books, categories, loading, error, search, { search = it }, selectedCategory, { selectedCategory = it }, { reloadKey++ }, { selected = it }, musicPlayer, musicPlaying, { if (musicPlaying) { musicPlayer.pause(); musicPlaying = false } else { runCatching { musicPlayer.play() }.onSuccess { musicPlaying = true } } }, musicVolume, { musicVolume = it; musicPlayer.setVolume(it) }) }
                         "Koleksi" -> Box(Modifier.weight(1f)) { CollectionEmptyScreen() }
                         else -> Box(Modifier.weight(1f)) { AccountScreen() }
                     }

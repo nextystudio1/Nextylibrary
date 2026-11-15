@@ -512,3 +512,15 @@ LATIHAN PEMAHAMAN
 1. Apa fungsi definisi operasional? Jawaban: membuat konsep dapat diukur dengan prosedur yang jelas.
 2. Mengapa data yang tidak sesuai hipotesis tidak boleh disembunyikan? Jawaban: karena semua data relevan diperlukan untuk evaluasi yang jujur.
 3. Apa beda kesalahan acak dan sistematis? Jawaban: kesalahan acak bervariasi antar pengukuran, sedangkan sistematis menggeser hasil secara konsisten.
+
+BAB LANJUTAN: MERANCANG PENYELIDIKAN
+Mulailah dengan pertanyaan terukur. Tentukan variabel bebas, variabel terikat, dan faktor yang perlu dikendalikan. Definisi operasional menjelaskan bagaimana konsep diukur, misalnya “pertumbuhan” diukur sebagai perubahan tinggi dalam periode tertentu.
+Pengukuran berulang membantu mengenali variasi acak. Kalibrasi alat dan prosedur konsisten mengurangi kesalahan sistematis. Jangan menghapus hasil hanya karena tidak sesuai dugaan; tandai data meragukan, periksa prosedur, dan jelaskan alasan jika data dikecualikan.
+MEMBACA PENELITIAN
+Periksa pemilihan sampel, ukuran sampel, kelompok pembanding, metode, dan keterbatasan. Bedakan hasil pengukuran dari interpretasi penulis. Temuan satu penelitian perlu dibandingkan dengan bukti lain.
+PROYEK
+Rancang pengamatan pengaruh cahaya pada tanaman dengan jenis dan media sama. Catat jarak sumber cahaya, lama pengamatan, air, dan tinggi tanaman. Gunakan ulangan dan jelaskan keterbatasan; jangan menyimpulkan sebab dari satu atau dua contoh.
+LATIHAN
+1. Apa fungsi definisi operasional? Jawaban: membuat konsep dapat diukur secara konsisten.
+2. Mengapa data yang berlawanan dengan dugaan tetap dicatat? Jawaban: agar kesimpulan tidak dipilih berdasarkan harapan peneliti.
+3. Apa beda kesalahan acak dan sistematis? Jawaban: kesalahan acak berubah-ubah, sedangkan sistematis menggeser hasil secara konsisten.

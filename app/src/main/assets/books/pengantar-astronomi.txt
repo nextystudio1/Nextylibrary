@@ -60,3 +60,22 @@ Tahun cahaya: satuan jarak berdasarkan perjalanan cahaya selama setahun.
 
 CATATAN PENULIS
 Astronomi adalah ilmu berbasis bukti. Gunakan sumber observatorium dan lembaga sains tepercaya untuk mengikuti penemuan terbaru.
+
+
+PENDALAMAN — MEMBACA ALAM SEMESTA
+BAB 7 — CAHAYA SEBAGAI PEMBAWA INFORMASI
+Cahaya membawa informasi tentang suhu, komposisi, gerak, dan jarak benda langit. Spektrum adalah pemisahan cahaya menurut panjang gelombang. Garis spektrum muncul karena atom dan molekul menyerap atau memancarkan panjang gelombang tertentu. Dengan membandingkan pola tersebut dengan hasil laboratorium, astronom dapat memperkirakan unsur penyusun bintang.
+BAB 8 — GRAVITASI DAN ORBIT
+Gravitasi menjaga planet tetap berada pada orbit mengelilingi bintang dan satelit mengelilingi planet. Orbit merupakan gerak jatuh bebas terus-menerus dengan kecepatan menyamping yang sesuai. Bentuk orbit dipengaruhi energi dan momentum sistem. Model dua benda memberi gambaran dasar, sementara sistem nyata dapat dipengaruhi banyak benda.
+BAB 9 — MATAHARI DAN BINTANG
+Matahari adalah bintang yang menghasilkan energi melalui fusi nuklir di bagian intinya. Tekanan dari energi yang dihasilkan menyeimbangkan tarikan gravitasi dalam keadaan stabil. Bintang memiliki massa, suhu, warna, dan luminositas berbeda. Massa awal sangat memengaruhi perjalanan evolusi bintang.
+BAB 10 — GALAKSI DAN JARAK KOSMIK
+Galaksi adalah sistem besar bintang, gas, debu, dan materi gelap yang terikat gravitasi. Jarak astronomi sangat besar sehingga digunakan satuan seperti tahun cahaya dan parsec. Tahun cahaya adalah jarak yang ditempuh cahaya selama satu tahun, bukan satuan waktu. Metode pengukuran jarak membentuk tangga kosmik dengan teknik berbeda pada skala berbeda.
+BAB 11 — ALAM SEMESTA YANG MENGEMBANG
+Pengamatan galaksi jauh menunjukkan hubungan antara jarak dan pergeseran merah pada skala kosmologis. Model kosmologi modern menggambarkan alam semesta yang mengembang dari keadaan awal yang lebih panas dan rapat. Pengukuran parameter kosmologi terus disempurnakan; hasil ilmiah perlu dibaca bersama ketidakpastian dan metode pengukurannya.
+BAB 12 — MENJADI PENGAMAT LANGIT YANG BERTANGGUNG JAWAB
+Pengamatan langit dapat dimulai dengan mata telanjang, peta langit, atau teropong yang sesuai. Catat tanggal, waktu, lokasi umum, kondisi cuaca, arah pandang, dan alat. Jangan pernah melihat Matahari melalui alat optik tanpa filter surya khusus yang dirancang dan dipasang dengan benar. Untuk mengamati Matahari, gunakan metode aman yang direkomendasikan lembaga astronomi.
+LATIHAN
+1. Apa yang dapat diketahui dari spektrum bintang? Jawaban: komposisi, suhu, dan gerak relatif melalui analisis garis spektrum.
+2. Apakah tahun cahaya satuan waktu? Jawaban: bukan, melainkan satuan jarak.
+3. Mengapa massa awal penting bagi evolusi bintang? Jawaban: massa memengaruhi tekanan, suhu inti, laju fusi, dan tahapan akhir.

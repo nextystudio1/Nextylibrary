@@ -1,0 +1,309 @@
+MATEMATIKA DALAM KEHIDUPAN
+Dari Bilangan, Aljabar, hingga Statistika
+
+Penulis: Tim Edukasi Nexty Studio
+Edisi pertama, 2026
+
+PENGANTAR
+Matematika adalah cara untuk mengenali pola, mengukur, membandingkan, dan membuat keputusan berdasarkan penalaran. Buku ini menyajikan konsep dasar dengan contoh yang dekat dengan kehidupan sehari-hari. Setiap bab memuat penjelasan, contoh, rangkuman, dan latihan. Materi disusun sebagai pengantar; pembaca dianjurkan mencoba perhitungan sendiri dan memeriksa kembali hasilnya.
+
+DAFTAR ISI
+1. Matematika dan Penalaran
+2. Bilangan dan Operasinya
+3. Pecahan, Desimal, dan Persentase
+4. Perbandingan dan Skala
+5. Aljabar dan Variabel
+6. Persamaan dan Pertidaksamaan
+7. Pola dan Barisan
+8. Geometri Bidang
+9. Bangun Ruang dan Pengukuran
+10. Koordinat dan Grafik
+11. Data dan Statistika
+12. Peluang
+13. Matematika Keuangan
+14. Pemecahan Masalah Terpadu
+Lampiran: Rumus, Latihan, Pembahasan, Glosarium
+
+BAB 1. MATEMATIKA DAN PENALARAN
+Matematika mempelajari bilangan, bentuk, perubahan, struktur, dan hubungan. Matematika bukan hanya kumpulan rumus. Kegiatan utamanya meliputi mengamati pola, membuat dugaan, menyusun alasan, menguji dugaan, dan menjelaskan kesimpulan. Karena itu, kemampuan matematika berguna dalam sains, teknologi, ekonomi, seni, dan kegiatan sehari-hari.
+
+Masalah matematika sebaiknya dimulai dengan memahami pertanyaan. Catat informasi yang diketahui, tentukan apa yang dicari, dan periksa apakah satuan yang digunakan konsisten. Setelah itu pilih strategi, lakukan perhitungan, lalu nilai apakah jawabannya masuk akal. Misalnya, jika hasil pengukuran panjang meja adalah 25 kilometer, kemungkinan terdapat kesalahan satuan atau perhitungan.
+
+Pola membantu menemukan aturan. Deret 2, 4, 6, 8 memiliki selisih tetap dua. Namun, beberapa suku awal tidak selalu menentukan satu aturan unik. Kita harus menjelaskan asumsi yang digunakan. Penalaran yang baik membedakan fakta, dugaan, dan kesimpulan.
+
+Contoh: sebuah kelas memiliki 30 siswa. Sebanyak 18 siswa memilih kegiatan membaca. Bagian siswa yang memilih membaca adalah 18 dari 30, atau 3/5. Dalam bentuk persentase, nilainya 60 persen. Perhitungan ini membantu membandingkan pilihan kelas dengan kelompok lain.
+
+RANGKUMAN
+• Matematika membantu mengukur, membandingkan, dan mengenali pola.
+• Pahami pertanyaan dan satuan sebelum menghitung.
+• Periksa apakah hasil sesuai konteks.
+LATIHAN
+1. Sebutkan tiga penggunaan matematika di rumah.
+2. Mengapa satuan perlu ditulis?
+3. Jelaskan perbedaan dugaan dan kesimpulan.
+
+BAB 2. BILANGAN DAN OPERASINYA
+Bilangan digunakan untuk menyatakan jumlah, urutan, ukuran, dan posisi. Bilangan asli sering digunakan untuk menghitung benda. Bilangan bulat mencakup bilangan positif, nol, dan negatif. Bilangan rasional dapat ditulis sebagai perbandingan dua bilangan bulat dengan penyebut bukan nol. Bilangan irasional tidak dapat dinyatakan sebagai pecahan sederhana yang tepat, contohnya akar dua.
+
+Operasi dasar meliputi penjumlahan, pengurangan, perkalian, dan pembagian. Penjumlahan menggabungkan jumlah; pengurangan mencari selisih; perkalian dapat dipahami sebagai penjumlahan berulang; pembagian membagi jumlah menjadi bagian sama atau mencari banyak kelompok. Pembagian dengan nol tidak didefinisikan dalam aritmetika biasa.
+
+Urutan operasi membantu memperoleh hasil konsisten. Kerjakan tanda kurung terlebih dahulu, kemudian pangkat dan akar, lalu perkalian atau pembagian, dan terakhir penjumlahan atau pengurangan. Operasi pada tingkat yang sama umumnya dikerjakan dari kiri ke kanan. Tanda kurung dapat memperjelas maksud.
+
+Bilangan negatif sering muncul pada suhu di bawah nol, perubahan saldo, atau posisi di bawah titik acuan. Pada garis bilangan, bilangan yang lebih ke kanan bernilai lebih besar. Nilai mutlak menyatakan jarak suatu bilangan dari nol sehingga tidak negatif.
+
+Contoh: suhu pagi 18 derajat, lalu turun 7 derajat. Suhu baru adalah 18 - 7 = 11 derajat. Jika suhu 3 derajat di bawah nol naik 5 derajat, hasilnya 2 derajat di atas nol.
+
+RANGKUMAN
+• Bilangan memiliki jenis dan kegunaan berbeda.
+• Operasi dasar mengikuti aturan yang konsisten.
+• Pembagian dengan nol tidak didefinisikan.
+LATIHAN
+Hitung: 24 - 3 × 5; (-4) + 9; 36 ÷ 6 + 2.
+
+BAB 3. PECAHAN, DESIMAL, DAN PERSENTASE
+Pecahan menyatakan bagian dari keseluruhan atau hasil pembagian. Pembilang menunjukkan banyak bagian yang dipilih, sedangkan penyebut menunjukkan jumlah bagian sama besar. Pecahan senilai memiliki nilai sama meskipun pembilang dan penyebut berbeda, misalnya 1/2 dan 2/4.
+
+Untuk menjumlahkan atau mengurangkan pecahan, samakan penyebut terlebih dahulu. Untuk perkalian, kalikan pembilang dengan pembilang dan penyebut dengan penyebut. Untuk pembagian, kalikan pecahan pertama dengan kebalikan pecahan kedua, dengan syarat pembagi bukan nol.
+
+Desimal menggunakan nilai tempat berdasarkan pangkat sepuluh. Angka setelah koma menyatakan persepuluhan, perseratusan, dan seterusnya. Persentase berarti per seratus. Dengan demikian, 25 persen sama dengan 25/100 atau 0,25.
+
+Konversi bentuk bilangan membantu menyelesaikan masalah. Untuk mengubah desimal menjadi persen, kalikan dengan 100 persen. Untuk mengubah persen menjadi desimal, bagi dengan 100. Saat membandingkan harga diskon, pastikan persentase dihitung dari harga dasar yang sama.
+
+Contoh: harga barang Rp80.000 mendapat potongan 15 persen. Potongan adalah 0,15 × 80.000 = Rp12.000. Harga setelah potongan menjadi Rp68.000, sebelum biaya tambahan lain jika ada.
+
+RANGKUMAN
+• Pecahan, desimal, dan persen adalah cara berbeda menyatakan nilai.
+• Samakan penyebut untuk penjumlahan pecahan.
+• Persentase berarti per seratus.
+LATIHAN
+Ubah 3/4 menjadi desimal dan persen. Hitung 1/3 + 1/6. Tentukan 20 persen dari 150.000.
+
+BAB 4. PERBANDINGAN DAN SKALA
+Perbandingan menyatakan hubungan dua jumlah. Rasio 2:3 berarti setiap dua bagian dari satu besaran berpasangan dengan tiga bagian besaran lain. Rasio dapat disederhanakan dengan membagi kedua bilangan oleh faktor yang sama.
+
+Perbandingan senilai terjadi ketika dua besaran berubah dengan faktor yang sama. Jika harga satu buku tetap, semakin banyak buku dibeli semakin besar total harga. Perbandingan berbalik nilai terjadi ketika satu besaran bertambah dan besaran lain berkurang sehingga hasil kali keduanya tetap dalam kondisi tertentu, misalnya waktu menyelesaikan pekerjaan dengan jumlah pekerja yang memiliki kemampuan sama.
+
+Skala peta adalah perbandingan jarak pada gambar dengan jarak sebenarnya. Skala 1:100.000 berarti satu satuan panjang pada peta mewakili 100.000 satuan panjang yang sama di lapangan. Satuan harus disamakan sebelum menghitung.
+
+Contoh: jarak dua kota pada peta 4 cm dengan skala 1:250.000. Jarak sebenarnya 4 × 250.000 cm = 1.000.000 cm = 10 km.
+
+RANGKUMAN
+• Rasio membandingkan dua besaran.
+• Perbandingan senilai dan berbalik nilai memiliki pola berbeda.
+• Skala membandingkan ukuran gambar dengan ukuran sebenarnya.
+LATIHAN
+Sederhanakan 18:24. Jika 3 kg beras berharga Rp45.000, berapa harga 5 kg pada harga per kilogram yang sama?
+
+BAB 5. ALJABAR DAN VARIABEL
+Aljabar menggunakan huruf untuk mewakili nilai yang belum diketahui atau dapat berubah. Huruf tersebut disebut variabel. Ekspresi 3x + 5 berarti tiga kali nilai x ditambah lima. Koefisien adalah bilangan yang mengalikan variabel, sedangkan konstanta tidak memuat variabel.
+
+Suku sejenis memiliki variabel dan pangkat yang sama. Karena itu, 2x + 5x dapat disederhanakan menjadi 7x, tetapi 2x + 5y tidak dapat digabungkan menjadi satu suku sejenis. Sifat distributif menyatakan a(b + c) = ab + ac.
+
+Mengganti variabel dengan nilai tertentu disebut substitusi. Jika x = 4, maka 3x + 5 = 3(4) + 5 = 17. Substitusi dapat digunakan untuk memeriksa apakah suatu ekspresi atau persamaan telah dihitung dengan benar.
+
+Aljabar berguna untuk membuat model. Jika biaya tetap suatu kegiatan adalah F dan biaya setiap peserta adalah p, maka biaya untuk n peserta dapat ditulis F + pn. Model ini membantu memperkirakan biaya untuk jumlah peserta yang berbeda.
+
+RANGKUMAN
+• Variabel mewakili nilai.
+• Suku sejenis dapat dijumlahkan atau dikurangkan.
+• Sifat distributif membantu mengembangkan atau memfaktorkan ekspresi.
+LATIHAN
+Sederhanakan 4x + 3x - 2. Hitung 2a + 7 jika a = 5.
+
+BAB 6. PERSAMAAN DAN PERTIDAKSAMAAN
+Persamaan menyatakan dua ekspresi memiliki nilai sama. Menyelesaikan persamaan berarti menemukan nilai variabel yang membuat pernyataan benar. Prinsip pentingnya adalah melakukan operasi yang sama pada kedua ruas agar kesetaraan terjaga.
+
+Contoh: x + 7 = 19. Kurangi kedua ruas dengan 7 sehingga x = 12. Untuk persamaan 3x = 21, bagi kedua ruas dengan 3 sehingga x = 7. Periksa hasil dengan memasukkan kembali nilai ke persamaan awal.
+
+Persamaan dapat digunakan untuk memodelkan masalah. Jika tiga tiket dengan harga sama berjumlah Rp60.000, misalkan harga satu tiket x. Persamaannya 3x = 60.000 sehingga x = Rp20.000.
+
+Pertidaksamaan membandingkan nilai menggunakan tanda lebih besar, lebih kecil, atau sama dengan. Jika kedua ruas dikalikan atau dibagi bilangan negatif, arah tanda pertidaksamaan harus dibalik. Himpunan penyelesaian dapat berupa rentang nilai.
+
+RANGKUMAN
+• Persamaan menjaga kesetaraan kedua ruas.
+• Periksa hasil dengan substitusi.
+• Mengalikan atau membagi pertidaksamaan dengan bilangan negatif membalik arah tanda.
+LATIHAN
+Selesaikan x - 8 = 14; 5x = 45; dan 2x + 1 < 9.
+
+BAB 7. POLA DAN BARISAN
+Pola adalah susunan yang mengikuti aturan tertentu. Barisan aritmetika memiliki selisih tetap antara suku berurutan. Jika suku pertama a dan beda d, suku ke-n adalah a + (n - 1)d. Barisan geometri memiliki rasio tetap antara suku berurutan; suku ke-n adalah a × r pangkat (n - 1).
+
+Contoh barisan aritmetika: 5, 8, 11, 14. Bedanya 3, sehingga suku kelima adalah 17. Contoh barisan geometri: 2, 6, 18, 54. Rasionya 3, sehingga suku kelima adalah 162.
+
+Pola juga muncul pada susunan ubin, pertumbuhan tabungan, dan pengulangan bentuk. Penting untuk menguji aturan pada beberapa suku dan menyatakan asumsi. Tidak semua pola dapat disimpulkan secara pasti dari sedikit data.
+
+RANGKUMAN
+• Barisan aritmetika memiliki beda tetap.
+• Barisan geometri memiliki rasio tetap.
+• Periksa aturan sebelum memprediksi suku berikutnya.
+LATIHAN
+Tentukan tiga suku berikutnya dari 4, 9, 14, 19. Tentukan suku keenam dari 3, 6, 12, 24.
+
+BAB 8. GEOMETRI BIDANG
+Geometri mempelajari bentuk, ukuran, posisi, dan hubungan ruang. Titik menunjukkan posisi, garis memanjang tanpa batas, dan ruas garis memiliki dua ujung. Sudut terbentuk oleh dua sinar yang bertemu pada satu titik.
+
+Segitiga memiliki tiga sisi dan jumlah sudut dalam 180 derajat. Segitiga dapat diklasifikasikan menurut sisi atau sudut. Segiempat memiliki empat sisi; persegi mempunyai sisi sama panjang dan sudut siku-siku, sedangkan persegi panjang memiliki sisi berhadapan sama panjang dan sudut siku-siku.
+
+Keliling adalah panjang seluruh batas bangun. Luas mengukur daerah di dalam bangun. Luas persegi adalah sisi × sisi. Luas persegi panjang adalah panjang × lebar. Luas segitiga adalah setengah × alas × tinggi. Luas lingkaran adalah πr² dan kelilingnya 2πr.
+
+Teorema Pythagoras berlaku pada segitiga siku-siku: kuadrat sisi miring sama dengan jumlah kuadrat dua sisi lainnya. Jika sisi siku-siku 3 dan 4, sisi miringnya 5 karena 3² + 4² = 5².
+
+RANGKUMAN
+• Keliling mengukur batas, luas mengukur daerah.
+• Jumlah sudut segitiga adalah 180 derajat.
+• Pythagoras berlaku pada segitiga siku-siku.
+LATIHAN
+Hitung luas persegi panjang 8 cm × 5 cm. Tentukan sisi miring segitiga siku-siku dengan sisi 6 cm dan 8 cm.
+
+BAB 9. BANGUN RUANG DAN PENGUKURAN
+Bangun ruang memiliki panjang, lebar, dan tinggi. Kubus memiliki enam sisi persegi yang sama. Balok memiliki enam sisi berbentuk persegi panjang. Prisma memiliki dua bidang sejajar dan kongruen, sedangkan limas memiliki alas dan sisi tegak yang bertemu pada satu puncak.
+
+Volume mengukur ruang yang ditempati. Volume kubus adalah s³, balok adalah panjang × lebar × tinggi, dan prisma adalah luas alas × tinggi. Volume tabung adalah πr²t. Luas permukaan menghitung seluruh bidang luar bangun.
+
+Satuan panjang, luas, dan volume berbeda. Satu meter sama dengan 100 sentimeter, satu meter persegi sama dengan 10.000 sentimeter persegi, dan satu meter kubik sama dengan 1.000.000 sentimeter kubik. Konversi luas dan volume menggunakan faktor yang dipangkatkan.
+
+Pengukuran selalu memiliki ketelitian terbatas. Hasil sebaiknya ditulis sesuai ketelitian alat dan tidak memberikan angka desimal berlebihan yang tidak didukung pengukuran.
+
+RANGKUMAN
+• Volume mengukur ruang, luas permukaan mengukur bidang luar.
+• Perhatikan satuan saat mengonversi.
+• Ketelitian hasil mengikuti ketelitian pengukuran.
+LATIHAN
+Hitung volume balok berukuran 10 cm, 4 cm, dan 3 cm. Berapa liter volume 2.000 cm³?
+
+BAB 10. KOORDINAT DAN GRAFIK
+Sistem koordinat Kartesius menggunakan sumbu mendatar x dan sumbu tegak y. Titik ditulis sebagai pasangan berurutan (x, y). Titik asal berada di (0, 0). Koordinat membantu menggambarkan posisi dan hubungan dua variabel.
+
+Grafik garis dapat menunjukkan perubahan yang teratur. Dalam bentuk y = mx + c, m adalah gradien dan c adalah titik potong sumbu y. Gradien menyatakan perubahan y untuk setiap satu satuan perubahan x. Jika gradien positif, garis naik dari kiri ke kanan; jika negatif, garis turun.
+
+Grafik harus memiliki judul, label sumbu, satuan, dan skala yang jelas. Skala yang dipilih dapat memengaruhi kesan visual. Karena itu, pembaca perlu memeriksa rentang sumbu sebelum menarik kesimpulan.
+
+Contoh: biaya perjalanan terdiri dari biaya awal Rp5.000 dan Rp2.000 untuk setiap kilometer. Modelnya y = 2.000x + 5.000. Untuk jarak 4 km, biaya menjadi Rp13.000.
+
+RANGKUMAN
+• Koordinat menyatakan posisi sebagai pasangan nilai.
+• Gradien menunjukkan laju perubahan.
+• Grafik perlu label, satuan, dan skala yang jujur.
+LATIHAN
+Tentukan nilai y pada y = 3x + 2 ketika x = 4. Apa arti gradien pada model biaya perjalanan?
+
+BAB 11. DATA DAN STATISTIKA
+Statistika membantu mengumpulkan, merangkum, menganalisis, dan menafsirkan data. Data dapat berupa kategori, seperti jenis transportasi, atau numerik, seperti waktu perjalanan. Pengumpulan data perlu memperhatikan tujuan, cara pemilihan responden, dan kemungkinan bias.
+
+Rata-rata diperoleh dengan menjumlahkan semua nilai lalu membaginya dengan banyak data. Median adalah nilai tengah setelah data diurutkan. Modus adalah nilai yang paling sering muncul. Ketiganya menggambarkan pusat data dengan cara berbeda. Rata-rata peka terhadap nilai ekstrem, sedangkan median sering lebih tahan terhadap nilai yang sangat jauh.
+
+Jangkauan adalah selisih nilai terbesar dan terkecil. Diagram batang cocok untuk membandingkan kategori. Histogram menggambarkan distribusi data numerik dalam interval. Diagram garis cocok untuk perubahan dari waktu ke waktu. Diagram lingkaran menunjukkan bagian dari keseluruhan, tetapi terlalu banyak kategori membuatnya sulit dibaca.
+
+Korelasi menunjukkan hubungan perubahan dua variabel, tetapi tidak otomatis membuktikan sebab-akibat. Contohnya, dua hal dapat meningkat bersamaan karena dipengaruhi faktor ketiga. Kesimpulan statistik perlu mempertimbangkan ukuran sampel, cara pengumpulan, dan konteks.
+
+RANGKUMAN
+• Rata-rata, median, dan modus mengukur pusat data.
+• Pilih diagram sesuai jenis data.
+• Korelasi tidak selalu berarti sebab-akibat.
+LATIHAN
+Tentukan rata-rata, median, dan modus dari 2, 3, 3, 5, 7. Mengapa sampel yang tidak mewakili populasi dapat menyesatkan?
+
+BAB 12. PELUANG
+Peluang mengukur seberapa mungkin suatu kejadian terjadi. Nilainya berada antara nol dan satu, atau nol hingga seratus persen. Peluang nol berarti kejadian mustahil dalam model, sedangkan peluang satu berarti kejadian pasti.
+
+Jika semua hasil sama mungkin, peluang kejadian adalah banyak hasil yang mendukung dibagi banyak seluruh hasil. Pada pelemparan dadu adil, peluang muncul angka genap adalah 3/6 atau 1/2. Model peluang bergantung pada asumsi bahwa dadu adil dan setiap sisi memiliki kesempatan sama.
+
+Frekuensi relatif adalah perbandingan banyak kejadian yang diamati dengan jumlah percobaan. Pada percobaan terbatas, frekuensi relatif dapat berbeda dari peluang teoretis. Semakin banyak percobaan dalam kondisi yang sesuai, hasil pengamatan sering mendekati peluang teoretis, tetapi tidak harus tepat pada setiap rangkaian.
+
+Untuk kejadian saling lepas, peluang salah satu dari dua kejadian dapat diperoleh dengan menjumlahkan peluangnya. Untuk kejadian independen, peluang keduanya terjadi adalah hasil kali peluang masing-masing. Periksa apakah asumsi saling lepas atau independen benar sebelum menggunakan aturan.
+
+RANGKUMAN
+• Peluang berada antara 0 dan 1.
+• Model peluang bergantung pada asumsi.
+• Bedakan kejadian saling lepas dan independen.
+LATIHAN
+Berapa peluang mendapat angka lebih dari 4 pada dadu adil? Apa perbedaan peluang teoretis dan frekuensi relatif?
+
+BAB 13. MATEMATIKA KEUANGAN
+Matematika membantu merencanakan pemasukan, pengeluaran, tabungan, dan harga. Anggaran adalah rencana penggunaan uang dalam periode tertentu. Catat pemasukan, kelompokkan kebutuhan, bedakan kebutuhan dan keinginan, lalu sisihkan dana untuk tujuan yang jelas.
+
+Bunga sederhana dihitung dari pokok awal, tingkat bunga, dan waktu. Rumusnya I = P × r × t, dengan P sebagai pokok, r tingkat bunga per periode, dan t jumlah periode yang sesuai. Bunga majemuk menghitung bunga atas pokok beserta bunga yang telah ditambahkan pada periode sebelumnya. Perbandingan produk keuangan perlu memperhatikan biaya, pajak, risiko, dan ketentuan.
+
+Diskon adalah pengurangan dari harga acuan. Pajak atau biaya tambahan dapat membuat harga akhir berbeda. Saat membandingkan penawaran, hitung total akhir dan periksa apakah harga per unit lebih murah. Harga murah tidak selalu lebih hemat jika barang tidak diperlukan atau kualitasnya tidak sesuai.
+
+Inflasi adalah kenaikan tingkat harga barang dan jasa secara umum dalam periode tertentu. Jika pendapatan tidak berubah sementara harga naik, daya beli dapat menurun. Perencanaan keuangan sebaiknya realistis dan tidak bergantung pada janji keuntungan pasti.
+
+RANGKUMAN
+• Anggaran membantu mengatur pemasukan dan pengeluaran.
+• Bunga sederhana dan majemuk memiliki cara hitung berbeda.
+• Bandingkan harga akhir, biaya, dan kebutuhan.
+• Pertimbangkan risiko dan hindari janji keuntungan pasti.
+LATIHAN
+Buat anggaran sederhana untuk pemasukan bulanan fiktif Rp1.000.000. Hitung harga barang Rp120.000 setelah diskon 10 persen.
+
+BAB 14. PEMECAHAN MASALAH TERPADU
+Masalah nyata sering menggabungkan beberapa konsep. Misalnya, sebuah sekolah ingin mengatur kunjungan museum. Panitia perlu memperkirakan jumlah peserta, biaya transportasi, tiket, waktu perjalanan, dan kebutuhan konsumsi.
+
+Langkah pertama adalah mengidentifikasi informasi. Misalkan ada 48 peserta, biaya bus Rp1.200.000, dan tiket Rp15.000 per orang. Biaya total adalah Rp1.200.000 + (48 × Rp15.000) = Rp1.920.000. Biaya per peserta adalah Rp40.000, belum termasuk biaya lain.
+
+Langkah berikutnya memeriksa asumsi. Apakah semua peserta membayar sama? Apakah guru pendamping mendapat tiket gratis? Apakah biaya bus sudah termasuk tol dan parkir? Model matematika hanya sebaik asumsi dan data yang digunakan.
+
+Buat tabel untuk membandingkan skenario, misalnya jumlah peserta 40, 48, dan 50. Gunakan grafik jika ingin melihat perubahan biaya per peserta. Setelah perhitungan selesai, periksa apakah hasil sesuai kondisi nyata dan sampaikan batasan model.
+
+PROYEK
+Rancang anggaran kegiatan belajar dengan data fiktif. Tuliskan asumsi, rumus, perhitungan, hasil, dan rekomendasi. Minta orang lain memeriksa langkah hitung agar kesalahan mudah ditemukan.
+
+RANGKUMAN
+• Masalah nyata membutuhkan data dan asumsi yang jelas.
+• Gabungkan konsep matematika sesuai kebutuhan.
+• Periksa hasil dan jelaskan batasan model.
+
+LAMPIRAN A. RUMUS DASAR
+Persegi: L = s², K = 4s.
+Persegi panjang: L = p × l, K = 2(p + l).
+Segitiga: L = 1/2 × alas × tinggi.
+Lingkaran: L = πr², K = 2πr.
+Balok: V = p × l × t.
+Kubus: V = s³.
+Tabung: V = πr²t.
+Rata-rata = jumlah data ÷ banyak data.
+Barisan aritmetika: Un = a + (n - 1)d.
+Barisan geometri: Un = a × r^(n - 1).
+
+LAMPIRAN B. LATIHAN DAN PEMBAHASAN
+1. 3/4 dalam desimal adalah 0,75 dan dalam persen 75 persen.
+2. 1/3 + 1/6 = 2/6 + 1/6 = 3/6 = 1/2.
+3. 20 persen dari 150.000 adalah 30.000.
+4. Rasio 18:24 disederhanakan menjadi 3:4.
+5. 4x + 3x - 2 = 7x - 2.
+6. Jika 2a + 7 dan a = 5, hasilnya 17.
+7. x - 8 = 14 menghasilkan x = 22.
+8. 5x = 45 menghasilkan x = 9.
+9. Barisan 4, 9, 14, 19 memiliki beda 5; berikutnya 24, 29, 34.
+10. Luas persegi panjang 8 × 5 adalah 40 cm².
+11. Segitiga siku-siku dengan sisi 6 dan 8 memiliki sisi miring 10.
+12. Volume balok 10 × 4 × 3 adalah 120 cm³.
+13. 2.000 cm³ sama dengan 2 liter.
+14. Pada y = 3x + 2 ketika x = 4, y = 14.
+15. Data 2, 3, 3, 5, 7 memiliki rata-rata 4, median 3, dan modus 3.
+16. Peluang angka lebih dari 4 pada dadu adalah 2/6 = 1/3.
+
+GLOSARIUM
+Aljabar: cabang matematika yang menggunakan simbol untuk menyatakan bilangan dan hubungan.
+Barisan: susunan bilangan menurut aturan.
+Data: kumpulan fakta atau hasil pengamatan.
+Desimal: sistem penulisan bilangan berbasis sepuluh.
+Frekuensi: banyak kemunculan suatu nilai atau kejadian.
+Geometri: kajian bentuk, ukuran, dan ruang.
+Gradien: ukuran kemiringan atau laju perubahan pada garis.
+Median: nilai tengah setelah data diurutkan.
+Modus: nilai yang paling sering muncul.
+Persentase: perbandingan dengan penyebut seratus.
+Peluang: ukuran kemungkinan kejadian.
+Rasio: perbandingan dua besaran.
+Variabel: simbol yang mewakili nilai.
+
+DAFTAR RUJUKAN KONSEPTUAL
+• OpenStax, Prealgebra dan Algebra and Trigonometry, sebagai rujukan topik untuk belajar lebih lanjut.
+• Khan Academy, materi aritmetika, aljabar, geometri, statistika, dan peluang.
+• National Council of Teachers of Mathematics, prinsip pembelajaran dan penalaran matematika.
+Naskah ini disusun secara orisinal oleh Tim Edukasi Nexty Studio. Rujukan dicantumkan untuk pendalaman, bukan sebagai sumber salinan isi.
+
+PENUTUP
+Matematika berkembang melalui latihan, rasa ingin tahu, dan keberanian memeriksa kesalahan. Jangan hanya menghafal rumus; pahami alasan di balik langkahnya. Gambar, tabel, contoh, dan penjelasan dengan kata sendiri dapat membantu membangun pemahaman yang lebih kuat.

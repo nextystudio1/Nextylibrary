@@ -746,8 +746,6 @@ private fun prepareReaderSections(raw: String, title: String): List<ReaderSectio
 }
 
 @Composable
-
-@Composable
 private fun PdfBookReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () -> Unit, onBack: () -> Unit) {
     val context = LocalContext.current
     var pdfFile by remember(book.id) { mutableStateOf<File?>(null) }
@@ -883,6 +881,7 @@ private fun PdfBookReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle
     }
 }
 
+@Composable
 private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () -> Unit, onBack: () -> Unit) {
     val context = LocalContext.current
     if (book.contentPath?.let { it.lowercase().substringBefore('?').endsWith(".pdf") || it.startsWith("pdf://") } == true) {

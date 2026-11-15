@@ -479,23 +479,49 @@ private fun CategoryTile(icon: String, label: String, selected: Boolean, onClick
 }
 
 @Composable
+private fun BookCoverArt(book: Book, categoryName: String?, modifier: Modifier = Modifier) {
+    val title = book.title.lowercase()
+    val palette = when {
+        "tata surya" in title -> listOf(Color(0xFF101D45), Color(0xFF345A91))
+        "ekosistem" in title || "iklim" in title -> listOf(Color(0xFF164B3A), Color(0xFF77A66D))
+        "keuangan" in title -> listOf(Color(0xFF174A58), Color(0xFF4C9A91))
+        "kemerdekaan" in title -> listOf(Color(0xFF713D36), Color(0xFFC27A52))
+        "gizi" in title -> listOf(Color(0xFF7B4932), Color(0xFFD59A58))
+        else -> listOf(Color(0xFF3D326D), Color(0xFF8A79B8))
+    }
+    val symbol = when {
+        "tata surya" in title -> "🪐"
+        "ekosistem" in title || "iklim" in title -> "🌿"
+        "keuangan" in title -> "📊"
+        "kemerdekaan" in title -> "🇮🇩"
+        "gizi" in title -> "🥗"
+        else -> "💡"
+    }
+    Box(modifier.clip(RoundedCornerShape(14.dp)).background(Brush.linearGradient(palette))) {
+        Box(Modifier.size(150.dp).align(Alignment.TopEnd).offset(x = 48.dp, y = (-42).dp).clip(CircleShape).background(Color.White.copy(alpha = .08f)))
+        Box(Modifier.size(110.dp).align(Alignment.BottomStart).offset(x = (-30).dp, y = 38.dp).clip(CircleShape).background(Color.White.copy(alpha = .07f)))
+        Column(Modifier.fillMaxSize().padding(horizontal = 15.dp, vertical = 16.dp), verticalArrangement = Arrangement.SpaceBetween) {
+            Text((categoryName ?: "PENGETAHUAN").uppercase(), color = Color.White.copy(alpha = .85f), fontSize = 8.sp, fontWeight = FontWeight.Bold, letterSpacing = 1.5.sp)
+            Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                Text(symbol, fontSize = 35.sp)
+                Text(book.title, color = Color.White, fontSize = 18.sp, lineHeight = 21.sp, fontWeight = FontWeight.ExtraBold, maxLines = 4, overflow = TextOverflow.Ellipsis)
+                Box(Modifier.width(35.dp).height(3.dp).clip(CircleShape).background(Color.White.copy(alpha = .75f)))
+                Text(book.author, color = Color.White.copy(alpha = .82f), fontSize = 9.sp, maxLines = 2, overflow = TextOverflow.Ellipsis)
+            }
+            Text("BUKU PENGETAHUAN", color = Color.White.copy(alpha = .75f), fontSize = 7.sp, fontWeight = FontWeight.Bold, letterSpacing = 1.4.sp)
+        }
+    }
+}
+
+@Composable
 private fun BookGridCard(book: Book, categoryName: String?, modifier: Modifier = Modifier, onClick: () -> Unit) {
     Card(modifier.clickable(onClick = onClick), shape = RoundedCornerShape(18.dp), colors = CardDefaults.cardColors(containerColor = Color.White), elevation = CardDefaults.cardElevation(2.dp)) {
         Column(Modifier.fillMaxWidth().padding(9.dp)) {
-            Box(Modifier.fillMaxWidth().height(158.dp).clip(RoundedCornerShape(13.dp)).background(Mint), contentAlignment = Alignment.Center) {
+            Box(Modifier.fillMaxWidth().height(210.dp)) {
                 if (!book.coverPath.isNullOrBlank()) {
                     AsyncImage(model = publicCoverUrl(book.coverPath), contentDescription = "Sampul " + book.title, modifier = Modifier.fillMaxSize())
                 } else {
-                    Box(Modifier.fillMaxSize().background(Brush.linearGradient(listOf(Color(0xFF174D3B), Color(0xFF75AA87)))), contentAlignment = Alignment.Center) {
-                        Box(Modifier.size(100.dp).clip(CircleShape).border(1.dp, Color.White.copy(alpha = .25f), CircleShape))
-                        Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                            Text("N", color = Color.White, fontSize = 48.sp, fontWeight = FontWeight.Black)
-                            Text("NEXTY BOOKS", color = Color.White.copy(alpha = .8f), fontSize = 7.sp, fontWeight = FontWeight.Bold, letterSpacing = 2.sp)
-                        }
-                    }
-                }
-                Box(Modifier.align(Alignment.TopEnd).padding(7.dp).clip(RoundedCornerShape(8.dp)).background(Color.White.copy(alpha = .92f)).padding(horizontal = 7.dp, vertical = 4.dp)) {
-                    Text(categoryName ?: "BUKU", color = Green, fontSize = 8.sp, fontWeight = FontWeight.ExtraBold, maxLines = 1)
+                    BookCoverArt(book, categoryName, Modifier.fillMaxSize())
                 }
             }
             Spacer(Modifier.height(10.dp))
@@ -549,16 +575,11 @@ private fun BookDetail(book: Book, categoryName: String?, onBack: () -> Unit, on
         }
         LazyColumn(contentPadding = PaddingValues(20.dp), horizontalAlignment = Alignment.CenterHorizontally) {
             item {
-                Box(Modifier.fillMaxWidth().height(280.dp).clip(RoundedCornerShape(24.dp)).background(Mint), contentAlignment = Alignment.Center) {
+                Box(Modifier.fillMaxWidth().height(360.dp)) {
                     if (!book.coverPath.isNullOrBlank()) {
                         AsyncImage(model = publicCoverUrl(book.coverPath), contentDescription = "Sampul " + book.title, modifier = Modifier.fillMaxSize())
                     } else {
-                        Box(Modifier.fillMaxSize().background(Brush.linearGradient(listOf(DeepGreen, Color(0xFF68A17D)))), contentAlignment = Alignment.Center) {
-                            Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                                Text("N", color = Color.White, fontSize = 86.sp, fontWeight = FontWeight.Black)
-                                Text("NEXTY LIBRARY", color = Color.White, fontSize = 11.sp, fontWeight = FontWeight.Bold, letterSpacing = 3.sp)
-                            }
-                        }
+                        BookCoverArt(book, categoryName, Modifier.fillMaxSize())
                     }
                 }
                 Spacer(Modifier.height(22.dp))

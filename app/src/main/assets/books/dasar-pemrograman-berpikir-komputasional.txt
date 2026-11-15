@@ -469,3 +469,16 @@ LATIHAN
 1. Mengapa data perlu divalidasi? Jawaban: untuk mencegah nilai yang tidak sesuai aturan masuk ke sistem.
 2. Apa beda kompresi lossless dan lossy? Jawaban: lossless mempertahankan data asli, lossy mengurangi sebagian informasi.
 3. Mengapa pengujian regresi diperlukan? Jawaban: untuk memastikan perubahan baru tidak merusak fungsi lama.
+
+BAB LANJUTAN: MERANCANG PROGRAM YANG DAPAT DIPELIHARA
+Program yang baik tidak hanya menghasilkan keluaran benar untuk satu contoh. Program harus menangani masukan kosong, tipe data salah, nilai di luar rentang, dan kondisi tak terduga. Validasi dilakukan di batas sistem, sedangkan pesan kesalahan perlu membantu pengguna memperbaiki masukan tanpa membocorkan informasi internal.
+PISAHKAN TANGGUNG JAWAB
+Pecah program menjadi fungsi kecil dengan satu tujuan jelas. Pisahkan logika, penyimpanan data, dan tampilan agar perubahan pada satu bagian tidak merusak bagian lain. Gunakan nama variabel yang bermakna dan komentar untuk menjelaskan alasan atau keputusan yang tidak tampak dari kode.
+ALGORITMA DAN EFISIENSI
+Kompleksitas waktu menggambarkan bagaimana kebutuhan kerja bertambah ketika ukuran masukan meningkat. Pencarian linear memeriksa elemen satu per satu; pencarian biner lebih efisien pada data yang sudah terurut dan dapat diakses secara sesuai. Pilih struktur data berdasarkan operasi yang paling sering dilakukan, bukan hanya karena terlihat canggih.
+PROYEK: PENGELOLA CATATAN BELAJAR
+Rancang aplikasi sederhana untuk menambah, melihat, mengubah, dan menghapus catatan. Tentukan format data, aturan validasi, dan perilaku saat file belum ada. Uji dengan daftar kosong, satu catatan, karakter khusus, dan masukan tidak valid. Catat bug yang ditemukan dan perbaikannya.
+LATIHAN PEMAHAMAN
+1. Mengapa fungsi kecil membantu pemeliharaan? Jawaban: tujuan lebih jelas dan kesalahan lebih mudah dilokalisasi.
+2. Kapan pencarian biner dapat digunakan? Jawaban: ketika data terurut dan struktur akses mendukung pembagian rentang.
+3. Mengapa pengujian kasus batas penting? Jawaban: banyak kesalahan muncul pada nilai kosong, minimum, maksimum, atau format tak terduga.

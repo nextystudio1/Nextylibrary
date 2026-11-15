@@ -112,3 +112,31 @@ LATIHAN PENDALAMAN
 5. Mengapa hasil yang tidak mendukung dugaan awal tetap harus dilaporkan? Jawaban: agar laporan jujur, mengurangi bias publikasi, dan memberi dasar untuk penelitian berikutnya.
 GLOSARIUM TAMBAHAN
 Bias seleksi: penyimpangan akibat cara peserta dipilih. Operasionalisasi: penetapan cara mengukur konsep. Populasi: keseluruhan kelompok sasaran. Sampel: bagian populasi yang diteliti. Validitas: ketepatan alat ukur terhadap konsep. Reliabilitas: konsistensi pengukuran. Variabel pengganggu: faktor lain yang dapat memengaruhi hubungan yang diamati.
+
+PENDALAMAN LANJUTAN: DESAIN PENELITIAN DAN EVALUASI BUKTI
+BAB 7 — MENYUSUN PERTANYAAN YANG DAPAT DIUJI
+Pertanyaan penelitian yang baik jelas, terukur sesuai bidang, dan tidak terlalu luas. Tentukan objek, variabel atau fenomena, konteks, dan batas waktu. Pertanyaan yang terlalu umum dapat dipecah menjadi beberapa pertanyaan yang lebih terarah.
+Tinjauan awal membantu mengetahui apa yang telah dipelajari dan istilah apa yang digunakan. Catat sumber yang mendukung maupun yang berbeda pandangan.
+BAB 8 — VARIABEL DAN DEFINISI OPERASIONAL
+Variabel bebas, terikat, dan pengganggu digunakan dalam rancangan tertentu untuk menjelaskan hubungan. Definisi operasional menyebut bagaimana variabel diamati atau diukur. Pengukuran harus konsisten agar hasil dapat dibandingkan.
+Tidak semua penelitian memiliki variabel dalam arti eksperimen. Penelitian kualitatif dapat menggunakan tema, kategori, dan konsep yang berkembang selama analisis.
+BAB 9 — VALIDITAS DAN RELIABILITAS
+Validitas berkaitan dengan apakah metode benar-benar mengukur hal yang dimaksud. Reliabilitas berkaitan dengan konsistensi hasil pengukuran dalam kondisi yang sebanding. Alat ukur dapat konsisten tetapi mengukur konsep yang salah.
+Uji coba instrumen, pemeriksaan ahli, triangulasi, dan pengukuran berulang dapat membantu meningkatkan kualitas, sesuai jenis penelitian.
+BAB 10 — ETIKA PENELITIAN
+Penelitian yang melibatkan manusia memerlukan penghormatan terhadap persetujuan, privasi, keselamatan, dan hak untuk menolak. Informasi risiko dan tujuan harus disampaikan secara jelas. Untuk kelompok rentan, perlindungan tambahan mungkin diperlukan.
+Data harus disimpan aman dan hanya digunakan sesuai tujuan. Jangan merekayasa, menghapus secara selektif, atau mengubah hasil agar sesuai harapan.
+BAB 11 — ANALISIS DAN REPRODUKSIBILITAS
+Analisis harus mengikuti metode yang dijelaskan. Simpan catatan proses, versi data, kode, dan keputusan pembersihan. Reproduksibilitas berarti orang lain dapat memahami dan, jika data serta kondisi memungkinkan, mengulang analisis.
+Data terbuka tidak selalu tepat jika mengandung informasi pribadi atau risiko. Keterbukaan perlu diseimbangkan dengan privasi, keamanan, dan persetujuan.
+BAB 12 — MENILAI KEKUATAN BUKTI
+Bukti perlu dinilai menurut desain, kualitas pengukuran, ukuran sampel, konsistensi, dan kemungkinan bias. Satu studi tidak selalu cukup untuk menetapkan kesimpulan umum. Tinjauan sistematis dapat merangkum banyak penelitian, tetapi kualitasnya juga perlu diperiksa.
+Bedakan bukti kuat, bukti awal, dan dugaan. Ketidakpastian yang dijelaskan lebih ilmiah daripada kepastian yang tidak didukung data.
+BAB 13 — MENULIS LAPORAN PENELITIAN
+Laporan menjelaskan latar belakang, pertanyaan, metode, hasil, diskusi, keterbatasan, dan referensi. Pembaca harus dapat menelusuri bagaimana kesimpulan diperoleh.
+Gunakan bahasa yang tepat dan hindari melebih-lebihkan temuan. Laporkan konflik kepentingan dan dukungan pendanaan jika ada.
+LATIHAN PENDALAMAN
+1. Apa beda validitas dan reliabilitas? Jawaban: validitas berkaitan dengan ketepatan pengukuran, reliabilitas dengan konsistensinya.
+2. Mengapa persetujuan partisipan penting? Jawaban: menghormati otonomi, memberi pemahaman risiko, dan melindungi hak peserta.
+3. Mengapa satu penelitian jarang cukup? Jawaban: hasil dapat dipengaruhi sampel, metode, konteks, dan bias.
+4. Apa manfaat catatan analisis? Jawaban: membuat proses dapat ditelusuri, diperiksa, dan diulang.

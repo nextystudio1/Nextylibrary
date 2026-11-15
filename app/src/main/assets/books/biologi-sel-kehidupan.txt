@@ -60,3 +60,29 @@ Homeostasis: pemeliharaan kondisi internal.
 
 CATATAN PENULIS
 Biologi sel terus berkembang. Istilah dan model pada buku ini merupakan pengantar, bukan pengganti sumber ilmiah tingkat lanjut.
+
+PENDALAMAN MATERI: SEL, GEN, DAN KEHIDUPAN
+BAB 7 — MEMBRAN DAN LALU LINTAS ZAT
+Membran plasma tersusun terutama atas lapisan ganda fosfolipid dengan protein yang tertanam atau menempel. Susunan ini membuat membran bersifat selektif: sebagian zat dapat lewat dengan mudah, sedangkan zat lain memerlukan protein pembawa atau saluran. Difusi adalah perpindahan bersih partikel mengikuti gradien konsentrasi. Osmosis merupakan perpindahan air melalui membran selektif.
+Transpor pasif tidak memerlukan energi metabolik langsung, sedangkan transpor aktif menggunakan energi untuk memindahkan zat melawan gradien elektrokimia. Pompa ion membantu mempertahankan perbedaan konsentrasi yang penting bagi fungsi sel saraf dan otot. Endositosis dan eksositosis memindahkan bahan dalam vesikel.
+BAB 8 — ORGANEL DAN KERJA SAMA SEL
+Nukleus menyimpan sebagian besar DNA pada sel eukariotik dan mengatur aktivitas melalui pengendalian ekspresi gen. Ribosom merangkai asam amino menjadi protein. Retikulum endoplasma kasar berperan dalam sintesis protein tertentu, sedangkan retikulum halus terlibat dalam sintesis lipid dan detoksifikasi. Badan Golgi memodifikasi, memilah, dan mengemas molekul.
+Mitokondria menjalankan tahapan penting respirasi seluler untuk menghasilkan ATP. Kloroplas pada tumbuhan dan alga menangkap energi cahaya untuk fotosintesis. Lisosom membantu menguraikan bahan, sementara sitoskeleton mempertahankan bentuk dan membantu pergerakan serta transport internal. Organel bekerja sebagai sistem yang saling bergantung.
+BAB 9 — DNA, RNA, DAN EKSPRESI GEN
+DNA menyimpan informasi genetik dalam urutan nukleotida. Replikasi menyalin DNA sebelum pembelahan sel. Dalam proses transkripsi, informasi pada gen disalin menjadi RNA. Pada banyak gen pengode protein, RNA kemudian diterjemahkan oleh ribosom menjadi urutan asam amino.
+Tidak semua DNA mengode protein. Bagian pengatur dan berbagai RNA nonpengode turut memengaruhi kapan dan seberapa kuat gen diekspresikan. Perubahan urutan DNA disebut mutasi; dampaknya dapat netral, merugikan, atau dalam konteks tertentu menguntungkan. Lingkungan dan regulasi gen juga memengaruhi ciri organisme.
+BAB 10 — PEMBELAHAN DAN SIKLUS SEL
+Siklus sel mencakup pertumbuhan, penggandaan DNA, dan pembelahan. Mitosis menghasilkan dua sel anak dengan informasi genetik yang umumnya sama dengan sel induk. Meiosis menghasilkan sel reproduksi dengan jumlah kromosom setengah dari sel asal dan meningkatkan variasi genetik melalui proses khusus.
+Titik pemeriksaan siklus sel membantu memastikan DNA telah disalin dan kondisi pembelahan memadai. Kegagalan pengaturan dapat menyebabkan pembelahan tidak terkendali. Pemahaman siklus sel penting dalam biologi perkembangan, genetika, dan kajian penyakit.
+BAB 11 — METABOLISME DAN ENZIM
+Metabolisme adalah keseluruhan reaksi kimia dalam sel. Reaksi anabolik menyusun molekul kompleks, sedangkan reaksi katabolik menguraikan molekul dan sering melepaskan energi. Enzim mempercepat reaksi dengan menurunkan energi aktivasi tanpa habis digunakan.
+Aktivitas enzim dipengaruhi suhu, pH, konsentrasi substrat, dan keberadaan inhibitor. Kondisi ekstrem dapat mengubah bentuk protein sehingga fungsi enzim menurun. Jalur metabolik diatur agar kebutuhan energi dan bahan baku sel tetap seimbang.
+BAB 12 — KOMUNIKASI DAN DIFERENSIASI SEL
+Sel menerima sinyal melalui reseptor, meneruskan pesan melalui rangkaian molekul, lalu menghasilkan respons. Sinyal dapat memengaruhi pembelahan, gerak, sekresi, atau ekspresi gen. Sel dalam organisme multiseluler mengalami diferensiasi sehingga memiliki struktur dan fungsi khusus meskipun membawa genom yang hampir sama.
+Jaringan terbentuk dari kelompok sel yang bekerja bersama. Organ menyatukan beberapa jaringan, sedangkan sistem organ menjalankan fungsi yang lebih luas. Gangguan komunikasi antarsel dapat memengaruhi keseimbangan organisme.
+STUDI KASUS DAN LATIHAN
+Kasus: sel tumbuhan dimasukkan ke larutan yang lebih pekat daripada cairan sel. Prediksi arah perpindahan air dan jelaskan dampaknya pada tekanan turgor. Jawaban: air cenderung keluar melalui osmosis; tekanan turgor turun dan sel dapat mengalami plasmolisis.
+1. Mengapa membran disebut selektif permeabel? Jawaban: karena hanya zat tertentu yang dapat melintas secara langsung, sementara zat lain memerlukan mekanisme khusus.
+2. Apa perbedaan transkripsi dan translasi? Jawaban: transkripsi menyalin informasi DNA menjadi RNA; translasi menggunakan informasi RNA untuk menyusun protein.
+3. Mengapa enzim peka terhadap suhu? Jawaban: perubahan suhu dapat memengaruhi struktur tiga dimensi dan tumbukan molekul.
+4. Apa hasil umum mitosis? Jawaban: dua sel anak dengan jumlah kromosom yang sama seperti sel induk.

@@ -314,3 +314,15 @@ LATIHAN PEMAHAMAN
 1. Mengapa satu gen tidak selalu menentukan satu sifat sederhana? Jawaban: banyak sifat dipengaruhi interaksi banyak gen dan lingkungan.
 2. Apa syarat dasar seleksi alam? Jawaban: terdapat variasi yang dapat diwariskan dan perbedaan keberhasilan reproduksi.
 3. Mengapa keanekaragaman genetik penting? Jawaban: menyediakan variasi yang dapat membantu populasi menghadapi perubahan.
+
+BAB LANJUTAN: GEN, PEWARISAN, DAN EVOLUSI
+DNA menyimpan informasi genetik. Gen adalah bagian DNA yang berperan menghasilkan produk fungsional, seperti protein atau RNA. Kromosom mengemas DNA. Perubahan urutan DNA disebut mutasi; dampaknya bergantung pada lokasi, jenis perubahan, dan lingkungan.
+Banyak sifat dipengaruhi banyak gen serta lingkungan. Karena itu, pola pewarisan tidak selalu sederhana. Nutrisi, perkembangan, pengalaman, dan kondisi lingkungan dapat memengaruhi bagaimana sifat muncul.
+SELEKSI ALAM
+Populasi memiliki variasi yang dapat diwariskan. Jika variasi tertentu memengaruhi keberhasilan hidup dan reproduksi dalam lingkungan tertentu, frekuensinya dapat berubah dari generasi ke generasi. Evolusi tidak memiliki tujuan akhir dan tidak menghasilkan organisme sempurna; perubahan lingkungan dapat mengubah keuntungan suatu sifat.
+KEANEKARAGAMAN
+Keanekaragaman genetik, spesies, dan ekosistem mendukung ketahanan sistem kehidupan. Fragmentasi habitat, pencemaran, eksploitasi berlebihan, spesies invasif, dan perubahan iklim dapat menekan populasi. Konservasi menggabungkan perlindungan habitat, penelitian, kebijakan, dan keterlibatan masyarakat.
+LATIHAN
+1. Mengapa sifat tidak selalu ditentukan satu gen? Jawaban: banyak sifat dipengaruhi interaksi banyak gen dan lingkungan.
+2. Apa syarat dasar seleksi alam? Jawaban: variasi yang dapat diwariskan dan perbedaan keberhasilan reproduksi.
+3. Mengapa variasi genetik penting? Jawaban: menyediakan bahan bagi populasi untuk merespons perubahan.

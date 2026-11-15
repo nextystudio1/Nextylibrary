@@ -84,7 +84,7 @@ fun AccountScreen(onAuthenticated: () -> Unit = {}) {
                     session = restored
                     onAuthenticated()
                 }
-                .onFailure { withContext(Dispatchers.IO) { clearSavedSession(context) } }
+                .onFailure { message = "Sesi tersimpan belum dapat diperbarui. Periksa koneksi internet atau masuk kembali." }
         }
         restoring = false
     }

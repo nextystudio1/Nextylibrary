@@ -21,6 +21,8 @@ import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
+import androidx.compose.animation.core.*
+import kotlinx.coroutines.delay
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -61,7 +63,56 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
+private fun IntroScreen() {
+    val infinite = rememberInfiniteTransition(label = "intro")
+    val floatY by infinite.animateFloat(0f, -12f,
+        animationSpec = infiniteRepeatable(tween(1200, easing = FastOutSlowInEasing), RepeatMode.Reverse), label = "float")
+    Box(Modifier.fillMaxSize().background(Brush.linearGradient(listOf(Color(0xFF0D3329), Color(0xFF176B50), Color(0xFF73A98A)))), contentAlignment = Alignment.Center) {
+        Box(Modifier.size(300.dp).offset(x = 150.dp, y = (-260).dp).clip(CircleShape).background(Color.White.copy(alpha = .055f)))
+        Box(Modifier.size(240.dp).offset(x = (-150).dp, y = 260.dp).clip(CircleShape).background(Color.White.copy(alpha = .06f)))
+        Column(horizontalAlignment = Alignment.CenterHorizontally, modifier = Modifier.offset(y = floatY.dp).padding(horizontal = 30.dp)) {
+            Box(Modifier.size(112.dp).clip(RoundedCornerShape(32.dp)).background(Color.White.copy(alpha = .16f)).border(1.dp, Color.White.copy(alpha = .25f), RoundedCornerShape(32.dp)), contentAlignment = Alignment.Center) {
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Box(Modifier.width(31.dp).height(45.dp).clip(RoundedCornerShape(topStart = 6.dp, bottomStart = 6.dp)).background(Color.White).padding(5.dp), contentAlignment = Alignment.Center) {
+                        Column(verticalArrangement = Arrangement.spacedBy(5.dp)) { repeat(3) { Box(Modifier.fillMaxWidth().height(2.dp).background(Green)) } }
+                    }
+                    Box(Modifier.width(31.dp).height(45.dp).clip(RoundedCornerShape(topEnd = 6.dp, bottomEnd = 6.dp)).background(Color(0xFFE5F5EB)).padding(5.dp), contentAlignment = Alignment.Center) {
+                        Column(verticalArrangement = Arrangement.spacedBy(5.dp)) { repeat(3) { Box(Modifier.fillMaxWidth().height(2.dp).background(Green)) } }
+                    }
+                }
+            }
+            Spacer(Modifier.height(26.dp))
+            Text("NextyLibrary", color = Color.White, fontSize = 32.sp, fontWeight = FontWeight.Black)
+            Spacer(Modifier.height(9.dp))
+            Text("Buka wawasan. Temukan pengetahuan.", color = Color(0xFFE0F1E6), fontSize = 14.sp, textAlign = TextAlign.Center)
+            Spacer(Modifier.height(34.dp))
+            Row(horizontalArrangement = Arrangement.spacedBy(7.dp)) {
+                repeat(3) { index ->
+                    val dotAlpha by infinite.animateFloat(.35f, 1f, animationSpec = infiniteRepeatable(tween(650, delayMillis = index * 180), RepeatMode.Reverse), label = "dot$index")
+                    Box(Modifier.size(7.dp).clip(CircleShape).background(Color.White.copy(alpha = dotAlpha)))
+                }
+            }
+            Spacer(Modifier.height(54.dp))
+            Text("NEXTY STUDIO", color = Color.White.copy(alpha = .72f), fontSize = 10.sp, fontWeight = FontWeight.Bold, letterSpacing = 3.sp)
+        }
+    }
+}
+
+@Composable
 fun NextyLibraryApp() {
+    var entryStage by remember { mutableStateOf("intro") }
+    LaunchedEffect(Unit) {
+        delay(2600)
+        if (entryStage == "intro") entryStage = "auth"
+    }
+    if (entryStage == "intro") {
+        IntroScreen()
+        return
+    }
+    if (entryStage == "auth") {
+        AccountScreen(onAuthenticated = { entryStage = "main" })
+        return
+    }
     var books by remember { mutableStateOf<List<Book>>(emptyList()) }
     var categories by remember { mutableStateOf<List<BookCategory>>(emptyList()) }
     var loading by remember { mutableStateOf(true) }
@@ -105,7 +156,7 @@ fun NextyLibraryApp() {
                         else -> Box(Modifier.weight(1f)) { AccountScreen() }
                     }
                     NavigationBar(containerColor = Color.White, tonalElevation = 10.dp, modifier = Modifier.shadow(12.dp)) {
-                        listOf("Beranda", "Koleksi", "Akun").forEach { item ->
+                        listOf("Beranda", "Koleksi").forEach { item ->
                             NavigationBarItem(selected = tab == item, onClick = { tab = item },
                                 icon = { Text(when (item) { "Beranda" -> "⌂"; "Koleksi" -> "▣"; else -> "◉" }, fontSize = 21.sp, fontWeight = FontWeight.Bold) },
                                 label = { Text(item, fontWeight = if (tab == item) FontWeight.Bold else FontWeight.Medium) },

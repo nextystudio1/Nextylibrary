@@ -61,3 +61,27 @@ Prompt: instruksi atau masukan untuk sistem generatif.
 
 CATATAN PENULIS
 Naskah orisinal Nexty Studio. Teknologi AI berkembang cepat; pembaca perlu memeriksa dokumentasi dan riset terbaru sebelum mengambil keputusan teknis.
+
+PENDALAMAN: SISTEM CERDAS DAN PENERAPANNYA
+BAB 7 — JENIS TUGAS AI
+Sistem AI dapat melakukan klasifikasi, regresi, pengelompokan, rekomendasi, pengenalan pola, dan generasi konten. Klasifikasi memilih kategori, regresi memperkirakan nilai numerik, sedangkan pengelompokan mencari kelompok berdasarkan kemiripan.
+Pemilihan metode bergantung pada tujuan dan data. Tidak semua masalah memerlukan AI; aturan sederhana mungkin lebih mudah dijelaskan, diuji, dan dipelihara.
+BAB 8 — REPRESENTASI DAN FITUR
+Model menggunakan representasi data dan fitur untuk menemukan pola. Fitur yang tidak relevan dapat menambah gangguan, sedangkan fitur yang berkaitan erat dengan jawaban dapat menyebabkan kebocoran data. Proses pemilihan fitur perlu dilakukan tanpa menggunakan informasi dari data uji.
+Kualitas label sangat penting. Label yang tidak konsisten akan membuat model belajar pola yang keliru.
+BAB 9 — EVALUASI DAN KALIBRASI
+Akurasi adalah proporsi prediksi yang benar, tetapi tidak selalu cukup. Pada data tidak seimbang, presisi dan recall dapat memberi informasi lebih berguna. Kalibrasi menilai apakah probabilitas prediksi sesuai dengan frekuensi kejadian sebenarnya.
+Ambang keputusan harus disesuaikan dengan konsekuensi salah positif dan salah negatif. Dalam konteks kesehatan atau keselamatan, biaya kesalahan perlu dinilai secara khusus oleh ahli.
+BAB 10 — AI GENERATIF DAN KETERBATASAN
+Model generatif menghasilkan teks, gambar, audio, atau kode berdasarkan pola dalam data. Hasilnya dapat membantu eksplorasi ide, tetapi dapat mengandung kesalahan, bias, atau kemiripan yang tidak diinginkan.
+Pengguna harus memeriksa fakta, hak penggunaan, privasi, dan kesesuaian hasil. Jangan mengunggah dokumen rahasia tanpa izin.
+BAB 11 — PENERAPAN DI PENDIDIKAN DAN LAYANAN
+AI dapat membantu personalisasi latihan, pencarian informasi, aksesibilitas, dan otomasi tugas rutin. Namun, keputusan pendidikan tetap memerlukan pertimbangan guru dan konteks siswa. Rekomendasi otomatis tidak boleh menjadi satu-satunya dasar keputusan penting.
+Desain yang baik memberi penjelasan, mekanisme koreksi, dan pilihan untuk meminta peninjauan manusia.
+BAB 12 — TATA KELOLA DAN MASA DEPAN
+Tata kelola AI mencakup dokumentasi, penilaian risiko, pemantauan, perlindungan data, dan tanggung jawab ketika sistem gagal. Pengawasan harus berlangsung sepanjang siklus hidup, bukan hanya saat peluncuran.
+Perkembangan AI dipengaruhi penelitian, kebijakan, infrastruktur, dan kebutuhan masyarakat. Diskusi masa depan perlu didasarkan pada bukti dan memperhatikan distribusi manfaat serta risiko.
+LATIHAN
+1. Kapan AI tidak diperlukan? Jawaban: ketika aturan sederhana sudah menyelesaikan masalah dengan lebih transparan dan efisien.
+2. Apa beda presisi dan recall? Jawaban: presisi mengukur ketepatan prediksi positif, recall mengukur proporsi kasus positif yang berhasil ditemukan.
+3. Mengapa keputusan penting memerlukan peninjauan manusia? Jawaban: model dapat salah dan tidak memahami seluruh konteks atau dampak sosial.

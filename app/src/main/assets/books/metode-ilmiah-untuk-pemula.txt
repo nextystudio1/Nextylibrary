@@ -1,0 +1,61 @@
+METODE ILMIAH UNTUK PEMULA
+Dari Pertanyaan Menjadi Pengetahuan
+Tim Pengetahuan Nexty Studio
+Edisi 2026
+
+PENGANTAR
+Metode ilmiah adalah pendekatan sistematis untuk menyelidiki pertanyaan tentang dunia. Praktik ilmiah melibatkan rasa ingin tahu, bukti, pengujian, keterbukaan terhadap koreksi, dan komunikasi yang jujur. Buku ini memberi pengantar bagi pelajar yang ingin melakukan penyelidikan sederhana.
+
+BAB 1 — MEMULAI DARI PERTANYAAN
+Penelitian dimulai dari pertanyaan yang jelas dan dapat diselidiki. Pertanyaan “mengapa semua hal terjadi?” terlalu luas. Pertanyaan “apakah intensitas cahaya memengaruhi pertumbuhan kecambah dalam kondisi tertentu?” lebih terarah.
+Lakukan pengamatan awal dan pelajari pengetahuan yang sudah tersedia. Catat apa yang diketahui, apa yang belum diketahui, serta istilah yang perlu dipahami.
+Pertanyaan penelitian sebaiknya spesifik, dapat diuji, relevan, dan realistis. Tentukan ruang lingkup agar penelitian dapat diselesaikan dengan waktu dan sumber daya yang ada.
+Jangan mengubah pertanyaan hanya agar hasilnya sesuai dugaan. Penelitian yang baik memberi ruang bagi hasil yang tidak terduga.
+
+BAB 2 — HIPOTESIS DAN VARIABEL
+Hipotesis adalah dugaan sementara yang dapat diuji dengan bukti. Hipotesis bukan tebakan tanpa alasan; ia dibangun dari pengamatan dan pengetahuan sebelumnya.
+Variabel bebas adalah faktor yang sengaja diubah atau dibandingkan. Variabel terikat adalah hasil yang diukur. Variabel kontrol adalah kondisi lain yang dijaga agar perbandingan lebih adil.
+Contoh penyelidikan kecambah: intensitas cahaya menjadi variabel bebas, tinggi kecambah menjadi variabel terikat, sedangkan jenis benih, jumlah air, media tanam, dan lama pengamatan dijaga sama.
+Dalam penelitian pengamatan, peneliti mungkin tidak mengubah variabel. Dalam keadaan itu, jelaskan faktor yang diamati dan hindari menyatakan hubungan sebagai sebab-akibat tanpa dasar.
+
+BAB 3 — MERANCANG PENYELIDIKAN
+Rancangan menjelaskan alat, bahan, prosedur, jumlah pengamatan, jadwal, dan cara mencatat hasil. Prosedur harus cukup rinci agar orang lain dapat memahami dan mengulang penelitian.
+Ulangi pengukuran jika memungkinkan. Pengulangan membantu mengetahui apakah hasil konsisten atau dipengaruhi variasi acak. Gunakan alat ukur yang sesuai dan periksa satuannya.
+Utamakan keselamatan. Jangan mencampur bahan kimia, menggunakan listrik berbahaya, atau melakukan percobaan pada manusia dan hewan tanpa pengawasan serta persetujuan yang tepat. Pilih kegiatan belajar berisiko rendah dan ikuti arahan guru.
+Catat perubahan prosedur. Jika ada langkah yang tidak berjalan sesuai rencana, laporkan secara jujur alih-alih menyembunyikannya.
+
+BAB 4 — MENGUMPULKAN DAN MENGANALISIS BUKTI
+Data dapat berupa angka, deskripsi, foto pengamatan, atau catatan lapangan. Catat waktu, tempat, satuan, dan kondisi pengamatan. Jangan mengubah data asli agar tampak lebih rapi.
+Susun data dalam tabel. Gunakan grafik yang sesuai untuk melihat pola. Hitung ringkasan sederhana seperti rata-rata atau rentang bila relevan.
+Perbedaan hasil tidak selalu berarti satu perlakuan menyebabkan perubahan. Pertimbangkan ukuran sampel, variasi, kesalahan alat, dan faktor lain yang belum dikendalikan.
+Pisahkan hasil pengamatan dari interpretasi. “Tinggi rata-rata kelompok A lebih besar” adalah ringkasan hasil; penjelasan mengapa hal itu terjadi memerlukan analisis tambahan.
+
+BAB 5 — KESIMPULAN DAN KETERBATASAN
+Kesimpulan harus menjawab pertanyaan penelitian berdasarkan bukti yang dikumpulkan. Nyatakan apakah hasil mendukung hipotesis, bukan menyatakan hipotesis pasti benar.
+Setiap penelitian memiliki keterbatasan. Contohnya jumlah sampel kecil, waktu pengamatan singkat, alat kurang presisi, atau kondisi yang sulit dikendalikan.
+Keterbatasan bukan aib. Menjelaskannya membantu pembaca memahami kekuatan hasil dan merancang penelitian lanjutan.
+Hasil yang tidak sesuai dugaan tetap bernilai. Sains berkembang melalui pengujian, kritik, replikasi, dan perbaikan penjelasan.
+
+BAB 6 — ETIKA DAN KOMUNIKASI ILMIAH
+Jangan mengarang data, menghapus hasil yang tidak disukai, atau mengaku melakukan pengukuran yang tidak pernah dilakukan. Cantumkan sumber gagasan, gambar, dan data milik pihak lain.
+Jika penelitian melibatkan orang, lindungi privasi dan mintalah persetujuan yang sesuai. Jangan mengumpulkan informasi sensitif tanpa alasan dan perlindungan yang memadai.
+Laporan ilmiah umumnya memuat judul, tujuan, latar belakang, metode, hasil, pembahasan, kesimpulan, dan daftar sumber. Gunakan bahasa yang jelas serta gambar yang memiliki label.
+Sampaikan ketidakpastian secara jujur. Ilmu pengetahuan bukan kumpulan jawaban yang tidak boleh berubah, melainkan proses memperbaiki pemahaman berdasarkan bukti.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa pertanyaan penelitian perlu spesifik? Jawaban: agar dapat diuji dan ruang lingkupnya jelas.
+2. Dalam percobaan pengaruh cahaya terhadap kecambah, apa contoh variabel terikat? Jawaban: ukuran pertumbuhan kecambah yang diukur.
+3. Mengapa pengukuran diulang? Jawaban: untuk menilai konsistensi dan mengurangi pengaruh variasi acak.
+4. Apakah hipotesis yang tidak didukung berarti penelitian gagal? Jawaban: tidak; hasil tersebut tetap memberi informasi.
+5. Mengapa keterbatasan harus ditulis? Jawaban: agar pembaca dapat menilai kekuatan dan batas kesimpulan.
+
+GLOSARIUM
+Hipotesis: dugaan sementara yang dapat diuji.
+Variabel: faktor atau karakteristik yang diamati.
+Replikasi: pengulangan pengamatan atau penelitian.
+Data: hasil pengukuran atau pengamatan.
+Bias: kecenderungan sistematis yang memengaruhi hasil.
+Metode: prosedur terencana untuk menjawab pertanyaan.
+
+CATATAN PENULIS
+Contoh penelitian dalam buku ini bersifat pendidikan. Kegiatan praktis tetap harus disesuaikan dengan usia, fasilitas, dan pengawasan yang tersedia.

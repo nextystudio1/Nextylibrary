@@ -194,3 +194,37 @@ BAB 23 — DOKUMENTASI PROYEK
 Dokumentasi menjelaskan tujuan program, cara menjalankan, kebutuhan perangkat, struktur berkas, konfigurasi, dan batasan. Dokumentasi yang baik membantu pengguna dan pengembang lain memahami keputusan teknis serta mengurangi ketergantungan pada satu orang.
 TUGAS AKHIR
 Rancang program kecil untuk mencatat kegiatan belajar. Tulis kebutuhan pengguna, pseudocode, struktur data, kasus uji normal dan batas, cara menyimpan data, serta risiko privasi. Jelaskan cara memperbaiki program jika masukan tidak valid.
+
+
+
+BAB LANJUTAN — STRUKTUR DATA DAN PEMILIHAN ALGORITMA
+
+Struktur data menentukan cara informasi disimpan dan diakses. Larik atau daftar menyimpan kumpulan elemen berurutan. Tumpukan mengikuti prinsip terakhir masuk, pertama keluar, sedangkan antrean mengikuti prinsip pertama masuk, pertama keluar. Peta atau kamus menyimpan pasangan kunci dan nilai sehingga data dapat dicari berdasarkan kunci.
+
+Pemilihan struktur data memengaruhi kemudahan dan kecepatan program. Jika program sering menambahkan elemen di akhir, daftar dapat sesuai. Jika perlu mencari data berdasarkan identitas, struktur berbasis kunci dapat lebih tepat. Keputusan sebaiknya didasarkan pada operasi yang paling sering dilakukan dan ukuran data yang dihadapi.
+
+Kompleksitas algoritma menggambarkan bagaimana kebutuhan waktu atau memori bertambah ketika ukuran masukan meningkat. Notasi Big O digunakan untuk membahas laju pertumbuhan, bukan menghitung waktu tepat pada setiap perangkat. Algoritma dengan kompleksitas lebih baik tetap perlu diuji karena konstanta, perangkat, dan bentuk data juga memengaruhi kinerja.
+
+LATIHAN
+
+Rancang algoritma untuk mencari nama dalam daftar. Bandingkan pencarian berurutan dengan pencarian biner. Jelaskan syarat pencarian biner, yaitu data harus sudah terurut, lalu buat contoh ketika syarat itu tidak terpenuhi.
+
+EVALUASI
+1. Apa perbedaan tumpukan dan antrean?
+2. Kapan struktur data berbasis kunci berguna?
+3. Apa makna kompleksitas O(n)?
+4. Mengapa pencarian biner memerlukan data terurut?
+5. Mengapa algoritma cepat secara teori tetap perlu diuji?
+
+PEMBAHASAN
+1. Tumpukan memakai prinsip terakhir masuk pertama keluar; antrean pertama masuk pertama keluar.
+2. Saat pencarian berdasarkan identitas/kunci sering dilakukan.
+3. Kebutuhan kerja tumbuh sebanding dengan ukuran masukan dalam model tersebut.
+4. Karena algoritma menentukan bagian pencarian berdasarkan urutan nilai.
+5. Implementasi, ukuran data, perangkat, dan konstanta dapat memengaruhi hasil.
+
+GLOSARIUM
+Struktur data: cara mengorganisasi dan menyimpan data.
+Larik: kumpulan elemen yang diakses berdasarkan posisi.
+Antrean: struktur data dengan prinsip pertama masuk pertama keluar.
+Kompleksitas: gambaran pertumbuhan kebutuhan sumber daya algoritma.

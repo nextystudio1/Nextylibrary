@@ -57,3 +57,22 @@ Tingkat trofik: posisi organisme dalam aliran energi.
 
 CATATAN PENULIS
 Naskah orisinal Nexty Studio untuk pembelajaran. Identifikasi spesies dan pengelolaan kawasan memerlukan data serta tenaga ahli setempat.
+
+
+PENDALAMAN — JARINGAN KEHIDUPAN DAN KONSERVASI
+BAB 7 — DINAMIKA POPULASI
+Ukuran populasi berubah karena kelahiran, kematian, imigrasi, dan emigrasi. Sumber daya seperti makanan, air, ruang, dan tempat berkembang biak dapat membatasi pertumbuhan. Daya dukung bukan angka tetap; ia berubah mengikuti musim, gangguan, dan kondisi ekosistem. Model pertumbuhan eksponensial dan logistik membantu memahami pola, tetapi populasi nyata dipengaruhi banyak faktor sekaligus.
+BAB 8 — INTERAKSI ANTARSPESIES
+Predasi terjadi ketika organisme memakan organisme lain. Kompetisi muncul ketika organisme menggunakan sumber daya terbatas yang sama. Mutualisme memberi manfaat bagi kedua pihak; komensalisme memberi manfaat bagi satu pihak tanpa dampak besar yang diketahui pada pihak lain; parasitisme menguntungkan parasit dan merugikan inang. Hubungan dapat berubah ketika lingkungan berubah.
+BAB 9 — ALIRAN ENERGI DAN DAUR MATERI
+Energi memasuki banyak ekosistem melalui cahaya yang ditangkap produsen. Energi berpindah melalui hubungan makan-dimakan dan sebagian terlepas sebagai panas pada setiap tingkat trofik. Materi seperti karbon, nitrogen, dan fosfor berputar melalui organisme, tanah, air, dan atmosfer. Jaring makanan menunjukkan banyak jalur yang saling terhubung; perubahan satu populasi dapat memengaruhi beberapa populasi lain.
+BAB 10 — TINGKAT KEANEKARAGAMAN
+Keanekaragaman genetik memberi variasi sifat dalam satu spesies. Keanekaragaman spesies mencakup variasi jenis organisme, sedangkan keanekaragaman ekosistem mencakup ragam habitat dan proses ekologis. Jumlah spesies saja belum cukup menggambarkan kondisi; kelimpahan relatif, sebaran, fungsi ekologis, dan kualitas habitat juga penting.
+BAB 11 — ANCAMAN DAN KONSERVASI
+Perubahan penggunaan lahan, eksploitasi berlebihan, pencemaran, perubahan iklim, dan spesies invasif dapat menekan keanekaragaman hayati. Fragmentasi habitat memisahkan populasi dan menghambat perpindahan. Konservasi dapat dilakukan melalui perlindungan habitat, pemulihan ekosistem, pengelolaan sumber daya berkelanjutan, penegakan aturan, pendidikan, serta keterlibatan masyarakat lokal.
+BAB 12 — JASA EKOSISTEM
+Hutan, sungai, mangrove, dan lahan basah menyediakan jasa seperti pengaturan air, penyimpanan karbon, penyerbukan, perlindungan pantai, dan nilai budaya. Pengamatan sederhana dapat dilakukan dengan mencatat tumbuhan di area yang sama pada waktu berbeda atau membandingkan tutupan vegetasi pada peta. Hindari mengambil organisme atau memasuki habitat yang dilindungi.
+LATIHAN
+1. Sebutkan empat faktor yang mengubah ukuran populasi. Jawaban: kelahiran, kematian, imigrasi, emigrasi.
+2. Apa beda rantai dan jaring makanan? Jawaban: rantai menunjukkan satu jalur, jaring menunjukkan banyak jalur terhubung.
+3. Mengapa variasi genetik penting? Jawaban: membantu populasi menghadapi perubahan dan mengurangi risiko akibat keseragaman.

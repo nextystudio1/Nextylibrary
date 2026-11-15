@@ -331,3 +331,16 @@ LATIHAN
 1. Mengapa satuan harus ditulis? Jawaban: agar besaran yang dihitung jelas dan hasil dapat diperiksa.
 2. Bagaimana luas berubah jika panjang semua sisi diperbesar dua kali? Jawaban: luas menjadi empat kali untuk bangun sebangun.
 3. Kapan median berguna? Jawaban: ketika data memiliki nilai ekstrem atau distribusi miring.
+
+BAB LANJUTAN: MODEL MATEMATIKA
+Model menyederhanakan situasi nyata. Tentukan variabel, asumsi, hubungan, dan batas penggunaan. Model biaya perjalanan dapat menggabungkan biaya tetap dan biaya per jarak. Bandingkan hasil model dengan data nyata sebelum mengambil keputusan.
+PERUBAHAN PERSENTASE
+Kenaikan 20 persen lalu penurunan 20 persen tidak mengembalikan nilai awal karena persentase kedua dihitung dari dasar baru. Untuk perubahan berurutan, kalikan faktor perubahan. Jika nilai x naik r persen, nilai baru adalah x(1+r), dengan r dalam bentuk desimal.
+GEOMETRI DAN SKALA
+Skala membandingkan jarak pada gambar dengan jarak sebenarnya. Samakan satuan sebelum menghitung. Untuk bangun sebangun, panjang berubah menurut faktor k, luas menurut k kuadrat, dan volume menurut k pangkat tiga.
+MENAFSIRKAN DATA
+Rata-rata peka terhadap nilai ekstrem, sedangkan median lebih tahan terhadap pencilan. Rentang dan rentang antarkuartil memberi informasi sebaran. Grafik harus memiliki judul, label sumbu, satuan, sumber, dan skala yang jujur.
+LATIHAN
+1. Mengapa persentase berurutan tidak saling meniadakan? Jawaban: dasar perhitungannya berubah.
+2. Jika panjang diperbesar tiga kali, luas berubah berapa kali? Jawaban: sembilan kali.
+3. Kapan median lebih berguna? Jawaban: ketika data memiliki pencilan atau distribusi menceng.

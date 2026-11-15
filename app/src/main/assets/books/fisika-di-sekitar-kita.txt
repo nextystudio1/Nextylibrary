@@ -293,3 +293,27 @@ Rujukan dicantumkan untuk belajar lebih lanjut; naskah ini ditulis secara orisin
 
 PENUTUP
 Fisika membantu kita mengajukan pertanyaan yang tepat tentang dunia. Rumus menjadi bermakna ketika dihubungkan dengan pengamatan, satuan, dan alasan. Biasakan memeriksa asumsi, mencatat data apa adanya, dan mengutamakan keselamatan dalam setiap kegiatan belajar.
+
+PENDALAMAN: GELOMBANG, LISTRIK, DAN PENERAPAN FISIKA
+BAB 7 — GELOMBANG DAN BUNYI
+Gelombang memindahkan energi tanpa memindahkan materi secara keseluruhan. Gelombang transversal memiliki getaran tegak lurus arah rambat, sedangkan gelombang longitudinal memiliki getaran sejajar arah rambat. Bunyi merupakan gelombang mekanik yang memerlukan medium.
+Frekuensi berkaitan dengan tinggi nada, sedangkan amplitudo berkaitan dengan intensitas. Pantulan, pembiasan, difraksi, dan interferensi menjelaskan berbagai fenomena suara dan cahaya.
+BAB 8 — CAHAYA DAN OPTIKA
+Cahaya dapat dijelaskan melalui model gelombang elektromagnetik dan foton, sesuai fenomena yang dipelajari. Pemantulan menjelaskan bayangan pada cermin, sedangkan pembiasan terjadi ketika cahaya berubah arah saat memasuki medium berbeda.
+Lensa mengumpulkan atau menyebarkan cahaya. Mata, kamera, mikroskop, dan teleskop memanfaatkan prinsip optika. Cacat penglihatan dapat dikoreksi dengan lensa yang sesuai berdasarkan pemeriksaan profesional.
+BAB 9 — LISTRIK DAN RANGKAIAN
+Arus listrik adalah laju aliran muatan, tegangan menyatakan beda potensial, dan hambatan menggambarkan kesulitan aliran arus. Hukum Ohm menghubungkan tegangan, arus, dan hambatan pada kondisi yang sesuai. Rangkaian seri memiliki arus sama pada setiap komponen, sedangkan rangkaian paralel memiliki beda potensial sama pada cabang.
+Energi listrik berubah menjadi panas, cahaya, gerak, atau bentuk lain. Penggunaan listrik harus mengikuti standar keselamatan; jangan bereksperimen dengan sumber listrik rumah tangga.
+BAB 10 — MAGNET DAN ELEKTROMAGNETISME
+Arus listrik dapat menghasilkan medan magnet. Perubahan medan magnet dapat menginduksi tegangan pada penghantar. Prinsip elektromagnetisme digunakan pada motor, generator, transformator, pengeras suara, dan berbagai sensor.
+Motor mengubah energi listrik menjadi gerak, sedangkan generator mengubah energi mekanik menjadi energi listrik. Transformator mengubah tingkat tegangan arus bolak-balik melalui induksi elektromagnetik.
+BAB 11 — SUHU, KALOR, DAN PERPINDAHAN ENERGI
+Suhu berkaitan dengan keadaan termal, sedangkan kalor adalah energi yang berpindah karena perbedaan suhu. Konduksi terjadi melalui kontak, konveksi melalui gerak fluida, dan radiasi melalui gelombang elektromagnetik.
+Bahan berbeda memiliki kapasitas kalor dan konduktivitas berbeda. Isolator memperlambat perpindahan kalor, sementara konduktor memudahkan perpindahan.
+BAB 12 — PENGUKURAN DAN KETIDAKPASTIAN
+Setiap pengukuran memiliki ketidakpastian. Angka penting menunjukkan ketelitian yang layak dilaporkan, bukan kepastian mutlak. Pengukuran berulang membantu memperkirakan variasi acak, sedangkan kalibrasi membantu mengurangi kesalahan sistematis.
+Tuliskan satuan SI, resolusi alat, dan kondisi pengukuran. Jangan melaporkan lebih banyak angka desimal daripada yang didukung alat.
+LATIHAN
+1. Mengapa bunyi tidak merambat di ruang hampa? Jawaban: bunyi memerlukan medium untuk meneruskan getaran.
+2. Apa beda rangkaian seri dan paralel? Jawaban: seri memiliki satu jalur arus; paralel memiliki beberapa cabang.
+3. Mengapa pengukuran berulang berguna? Jawaban: membantu menilai variasi dan memperkirakan nilai yang lebih representatif.

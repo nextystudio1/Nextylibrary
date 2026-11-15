@@ -12,8 +12,8 @@ android {
         applicationId = "com.nextystudio.nextylibrary"
         minSdk = 26
         targetSdk = 35
-        versionCode = 12
-        versionName = "1.1.2"
+        versionCode = 13
+        versionName = "1.1.3"
         buildConfigField("String", "SUPABASE_URL", "\"https://ykrthuvkcspdzxzvxifh.supabase.co\"")
         buildConfigField("String", "SUPABASE_PUBLISHABLE_KEY", "\"sb_publishable_ZE77u4agUSsqV7Mx4-MOHA_EIfmJLPv\"")
     }

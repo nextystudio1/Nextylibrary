@@ -164,3 +164,36 @@ Data pelatihan: data yang digunakan untuk menyesuaikan model.
 Data uji: data terpisah untuk mengevaluasi model.
 Bias: penyimpangan sistematis yang dapat menghasilkan perlakuan atau hasil tidak adil.
 AI generatif: sistem yang menghasilkan konten baru berdasarkan pola yang dipelajari.
+
+
+
+BAB TAMBAHAN — PENGGUNAAN AI DALAM PEMBELAJARAN
+
+AI dapat membantu menyusun pertanyaan latihan, menjelaskan konsep dengan contoh lain, atau memberi umpan balik awal pada tulisan. Namun, keluaran AI bukan pengganti proses berpikir. Pengguna perlu memeriksa fakta, meminta penjelasan langkah, dan membandingkan jawaban dengan buku atau guru.
+
+Gunakan AI secara jujur. Ikuti aturan sekolah atau lembaga tentang bantuan otomatis, dan jelaskan penggunaan AI bila diminta. Jangan menyerahkan data pribadi, informasi kesehatan, kata sandi, atau dokumen rahasia. Jangan menganggap teks yang dihasilkan otomatis bebas dari kesalahan atau masalah hak cipta.
+
+Cara yang lebih baik adalah meminta AI mengajukan pertanyaan, memberi petunjuk bertahap, atau menunjukkan bagian yang perlu diperiksa—bukan hanya meminta jawaban akhir. Setelah mendapat bantuan, tutup alat dan coba jelaskan kembali materi dengan kata-kata sendiri.
+
+LATIHAN
+
+Ambil satu konsep pelajaran. Minta alat AI membuat tiga pertanyaan bertingkat, lalu verifikasi semua jawaban menggunakan sumber tepercaya. Catat bagian yang keliru atau kurang jelas dan tuliskan koreksinya.
+
+EVALUASI
+1. Mengapa AI sebaiknya menjadi alat bantu, bukan pengganti berpikir?
+2. Sebutkan tiga jenis data yang tidak boleh dimasukkan sembarangan.
+3. Bagaimana cara memeriksa jawaban AI?
+4. Mengapa penggunaan AI perlu mengikuti aturan sekolah?
+5. Bagaimana AI dapat digunakan untuk latihan aktif?
+
+PEMBAHASAN
+1. Karena model dapat salah dan pengguna tetap bertanggung jawab atas pemahaman.
+2. Data pribadi, kesehatan, kata sandi, dan dokumen rahasia.
+3. Bandingkan dengan sumber tepercaya dan periksa langkah serta bukti.
+4. Untuk menjaga kejujuran akademik dan aturan penilaian.
+5. Meminta pertanyaan, petunjuk, dan umpan balik lalu menjawab sendiri.
+
+GLOSARIUM
+Verifikasi: pemeriksaan kebenaran informasi.
+Kejujuran akademik: perilaku jujur dalam proses belajar dan penilaian.
+Prompt: instruksi atau masukan yang diberikan kepada sistem AI.

@@ -1,6 +1,7 @@
 package com.nextystudio.nextylibrary
 
 import android.net.Uri
+import android.text.Html
 import android.graphics.Bitmap
 import com.google.zxing.BarcodeFormat
 import com.google.zxing.qrcode.QRCodeWriter
@@ -8,8 +9,6 @@ import android.media.AudioAttributes
 import android.media.AudioFormat
 import android.media.AudioTrack
 import android.os.Bundle
-import android.webkit.WebView
-import android.webkit.WebViewClient
 import androidx.activity.ComponentActivity
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.lifecycle.Lifecycle
@@ -31,7 +30,6 @@ import androidx.compose.runtime.*
 import androidx.compose.animation.core.*
 import kotlinx.coroutines.delay
 import androidx.compose.ui.platform.LocalContext
-import androidx.compose.ui.viewinterop.AndroidView
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -757,8 +755,12 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
         error = null
         try {
             val source = book.contentPath ?: throw IllegalStateException("Naskah buku belum tersedia.")
-            if (isNativeWebBook(source)) {
-                body = null
+            if (source.lowercase().substringBefore('?').endsWith(".pdf") || source.startsWith("pdf://") || source.contains("format=pdf", true)) {
+                throw IllegalStateException("Buku ini belum memiliki naskah teks yang dapat dibaca langsung di NextyLibrary.")
+            }
+            body = withContext(Dispatchers.IO) {
+                if (source.startsWith("asset://")) context.assets.open(source.removePrefix("asset://")).bufferedReader(Charsets.UTF_8).use { it.readText() }
+                else fetchPublicBookText(source)
             } else {
                 if (source.lowercase().substringBefore('?').endsWith(".pdf") || source.startsWith("pdf://") || source.contains("format=pdf", true)) {
                     throw IllegalStateException("Sumber buku ini masih berupa PDF dan belum memiliki edisi teks yang boleh ditampilkan di pembaca Nexty.")
@@ -795,9 +797,6 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
                     Spacer(Modifier.height(12.dp))
                     Text("Menyiapkan halaman buku…", color = Muted)
                 }
-            }
-            error == null && !loading && book.contentPath?.let { isNativeWebBook(it) } == true -> {
-                WebBookReader(url = book.contentPath!!)
             }
             error != null -> Box(Modifier.fillMaxSize().padding(24.dp), contentAlignment = Alignment.Center) {
                 Column(horizontalAlignment = Alignment.CenterHorizontally) {
@@ -847,117 +846,6 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
 }
 
 
-private fun isNativeWebBook(source: String): Boolean {
-    val uri = runCatching { Uri.parse(source) }.getOrNull() ?: return false
-    return uri.scheme == "https" && uri.host in setOf("pressbooks.uwf.edu", "openstax.org", "id.wikisource.org")
-}
-
-@Composable
-private fun WebBookReader(url: String) {
-    val context = LocalContext.current
-    AndroidView(
-        modifier = Modifier.fillMaxSize(),
-        factory = {
-            WebView(context).apply {
-                settings.javaScriptEnabled = true
-                settings.domStorageEnabled = true
-                settings.loadsImagesAutomatically = true
-                settings.blockNetworkImage = false
-                settings.allowFileAccess = false
-                settings.allowContentAccess = false
-                settings.mixedContentMode = android.webkit.WebSettings.MIXED_CONTENT_NEVER_ALLOW
-                settings.useWideViewPort = true
-                settings.loadWithOverviewMode = true
-                settings.cacheMode = android.webkit.WebSettings.LOAD_CACHE_ELSE_NETWORK
-                webViewClient = object : WebViewClient() {
-                    override fun shouldOverrideUrlLoading(view: WebView, request: android.webkit.WebResourceRequest): Boolean {
-                        // Tautan situs tidak pernah membuka browser atau situs lain dari pembaca.
-                        return true
-                    }
-                    override fun onPageFinished(view: WebView, pageUrl: String) {
-                        val cleanReaderScript = """
-                            (function() {
-                              try {
-                                var selectors = [
-                                  '#mw-content-text .mw-parser-output',
-                                  '#mw-content-text',
-                                  '#main-content',
-                                  '.entry-content',
-                                  '.book-content',
-                                  '.os-chapter',
-                                  '.chapter',
-                                  'main article',
-                                  'main',
-                                  'article'
-                                ];
-                                var source = null;
-                                for (var i = 0; i < selectors.length; i++) {
-                                  var candidate = document.querySelector(selectors[i]);
-                                  if (candidate && candidate.innerText && candidate.innerText.trim().length > 500) {
-                                    source = candidate;
-                                    break;
-                                  }
-                                }
-                                if (!source) source = document.body;
-                                var article = source.cloneNode(true);
-                                article.querySelectorAll('script,style,nav,header,footer,aside,form,button,iframe, noscript, .sidebar, .toc, .advertisement, .printfooter, .catlinks').forEach(function(n){n.remove();});
-                                // Konten tetap terbaca di NextyLibrary; tautan eksternal tidak mengalihkan pembaca.
-                                article.querySelectorAll('a').forEach(function(a){
-                                  var span = document.createElement('span');
-                                  span.innerHTML = a.innerHTML;
-                                  a.replaceWith(span);
-                                });
-                                document.documentElement.innerHTML = '';
-                                var head = document.createElement('head');
-                                var meta = document.createElement('meta');
-                                meta.name = 'viewport';
-                                meta.content = 'width=device-width, initial-scale=1, maximum-scale=3';
-                                head.appendChild(meta);
-                                var title = document.createElement('title');
-                                title.textContent = 'NextyLibrary';
-                                head.appendChild(title);
-                                var style = document.createElement('style');
-                                style.textContent = `
-                                  *{box-sizing:border-box}
-                                  html,body{margin:0!important;padding:0!important;background:#f8f4ea!important;color:#302f2a!important}
-                                  body{font-family:Georgia,'Noto Serif',serif!important;font-size:18px!important;line-height:1.85!important}
-                                  #nexty-reader{max-width:780px;margin:0 auto;padding:24px 20px 64px;background:#f8f4ea}
-                                  h1,h2,h3,h4{color:#174a3a!important;line-height:1.35!important;margin:30px 0 16px!important}
-                                  p,li{margin:0 0 18px!important}
-                                  img,figure img,svg{max-width:100%!important;height:auto!important}
-                                  figure{margin:26px auto!important;text-align:center}
-                                  figcaption{font-size:13px;color:#777;text-align:center;margin-top:8px}
-                                  table{display:block;max-width:100%;overflow-x:auto;border-collapse:collapse}
-                                  td,th{padding:8px;border:1px solid #ddd}
-                                  a{color:inherit!important;text-decoration:none!important;pointer-events:none!important}
-                                  .mw-editsection,.reference,.references,.reflist,.navbox,.metadata,.mw-jump-link{display:none!important}
-                                `;
-                                head.appendChild(style);
-                                var body = document.createElement('body');
-                                var wrapper = document.createElement('main');
-                                wrapper.id = 'nexty-reader';
-                                wrapper.appendChild(article);
-                                body.appendChild(wrapper);
-                                document.documentElement.appendChild(head);
-                                document.documentElement.appendChild(body);
-                              } catch(e) {
-                                document.body.style.background = '#f8f4ea';
-                                document.body.style.color = '#302f2a';
-                              }
-                            })();
-                        """.trimIndent()
-                        view.evaluateJavascript(cleanReaderScript, null)
-                    }
-                }
-                loadUrl(url)
-            }
-        },
-        update = { view ->
-            if (view.url != url) view.loadUrl(url)
-        }
-    )
-}
-
 private fun fetchPublicBookText(source: String): String {
     val connection = URL(source).openConnection() as HttpURLConnection
     try {
@@ -967,15 +855,45 @@ private fun fetchPublicBookText(source: String): String {
         connection.instanceFollowRedirects = true
         connection.setRequestProperty("User-Agent", "NextyLibrary/1.0")
         val code = connection.responseCode
-        if (code !in 200..299) throw IllegalStateException("Sumber buku merespons HTTP " + code)
+        if (code !in 200..299) throw IllegalStateException("Naskah buku gagal dimuat (HTTP " + code + ")")
         val raw = connection.inputStream.bufferedReader(Charsets.UTF_8).use { it.readText() }
+        if (raw.trimStart().startsWith("<")) {
+            var html = raw
+            val patterns = listOf(
+                Regex("""(?is)<(?:div|section|article)[^>]*(?:id|class)=["'][^"']*(?:mw-parser-output|main-content|entry-content|book-content|os-chapter|chapter)[^"']*["'][^>]*>(.*?)</(?:div|section|article)>"""),
+                Regex("""(?is)<main[^>]*>(.*?)</main>"""),
+                Regex("""(?is)<article[^>]*>(.*?)</article>"""),
+                Regex("""(?is)<body[^>]*>(.*?)</body>""")
+            )
+            for (pattern in patterns) {
+                val match = pattern.find(raw)
+                if (match != null && match.groupValues[1].length > 500) {
+                    html = match.groupValues[1]
+                    break
+                }
+            }
+            html = html
+                .replace(Regex("""(?is)<(script|style|nav|header|footer|aside|form|button|noscript|iframe)[^>]*>.*?</\1>"""), " ")
+                .replace(Regex("""(?is)<img[^>]*alt=["']([^"']+)["'][^>]*>""")) { " <p>[Ilustrasi: " + it.groupValues[1] + "]</p> " }
+                .replace(Regex("""(?is)<a\b[^>]*>(.*?)</a>""")) { it.groupValues[1] }
+                .replace(Regex("""(?i)<br\s*/?>"""), "\n")
+                .replace(Regex("""(?i)</(p|div|section|article|h[1-6]|li|tr|blockquote)>"""), "\n\n")
+                .replace(Regex("""(?i)<li[^>]*>"""), "• ")
+                .replace(Regex("""(?is)<[^>]+>"""), " ")
+            return Html.fromHtml(html, Html.FROM_HTML_MODE_LEGACY).toString()
+                .replace('\u00a0', ' ').replace(Regex("[ \t]+"), " ")
+                .replace(Regex("\n[ \t]+"), "\n")
+                .replace(Regex("\n{3,}"), "\n\n").trim()
+        }
         val startRegex = Regex("(?im)^\\*\\*\\*\\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\*\\*\\*\\s*")
         val endRegex = Regex("(?im)^\\*\\*\\*\\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\*\\*\\*")
         val start = startRegex.find(raw)
         val end = endRegex.find(raw, start?.range?.last?.plus(1) ?: 0)
         val clean = if (start != null && end != null) raw.substring(start.range.last + 1, end.range.first) else raw
         return clean.replace("\r\n", "\n").replace(Regex("\n{3,}"), "\n\n").trim()
-    } finally { connection.disconnect() }
+    } finally {
+        connection.disconnect()
+    }
 }
 
 @Composable

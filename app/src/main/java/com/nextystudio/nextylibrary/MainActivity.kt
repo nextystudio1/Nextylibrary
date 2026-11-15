@@ -729,7 +729,7 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
                         }
                         section.paragraphs.forEachIndexed { index, paragraph ->
                             Text(paragraph, color = Color(0xFF302F2A), fontSize = fontSize.sp, lineHeight = (fontSize * 1.65f).sp,
-                                fontFamily = FontFamily.Serif, textAlign = TextAlign.Justify,
+                                fontFamily = FontFamily.Serif, textAlign = TextAlign.Start,
                                 modifier = Modifier.fillMaxWidth().padding(bottom = if (index == section.paragraphs.lastIndex) 0.dp else 17.dp))
                         }
                     }

@@ -228,3 +228,43 @@ LATIHAN PEMAHAMAN
 1. Mengapa ukuran sajian penting pada label? Jawaban: angka kandungan biasanya dihitung berdasarkan ukuran sajian tertentu.
 2. Mengapa variasi pangan dibutuhkan? Jawaban: jenis pangan berbeda menyediakan kombinasi zat gizi yang berbeda.
 3. Apa langkah dasar mencegah kontaminasi silang? Jawaban: pisahkan alat dan bahan mentah dari makanan siap santap serta jaga kebersihan.
+
+
+
+BAB LANJUTAN — LABEL PANGAN DAN KEAMANAN MAKANAN
+
+Label pangan membantu pembeli memahami komposisi dan informasi gizi. Perhatikan ukuran saji dan jumlah sajian per kemasan. Angka energi atau zat gizi pada label biasanya dinyatakan untuk ukuran saji tertentu, bukan selalu untuk seluruh kemasan. Bandingkan produk dengan ukuran saji yang setara agar penilaian lebih adil.
+
+Daftar bahan umumnya disusun berdasarkan jumlah bahan yang digunakan. Informasi alergen penting bagi orang yang memiliki alergi atau intoleransi tertentu. Klaim seperti “alami”, “rendah”, atau “sumber” memiliki aturan dan konteks; jangan menilai kualitas pangan hanya dari gambar pada kemasan atau satu klaim promosi.
+
+Keamanan pangan mencakup kebersihan, pemisahan bahan mentah dan matang, pemasakan yang sesuai, serta penyimpanan pada suhu yang tepat. Cuci tangan dan peralatan, gunakan air bersih, dan hindari kontaminasi silang. Makanan yang tampak atau berbau normal belum tentu selalu aman, sehingga ikuti petunjuk penyimpanan dan tanggal kedaluwarsa.
+
+POLA MAKAN DAN KONTEKS
+
+Kebutuhan gizi dipengaruhi usia, aktivitas, kondisi kesehatan, budaya, ketersediaan pangan, dan faktor lainnya. Tidak ada satu menu yang cocok untuk semua orang. Pola makan seimbang mengutamakan keberagaman pangan, kecukupan, keamanan, dan kebiasaan yang dapat dipertahankan. Hindari aturan ekstrem atau menghilangkan kelompok pangan tanpa alasan kesehatan yang jelas dan pendampingan tenaga kesehatan.
+
+EVALUASI
+1. Mengapa ukuran saji perlu diperiksa saat membaca label?
+2. Apa yang dimaksud kontaminasi silang?
+3. Mengapa satu klaim promosi tidak cukup menilai mutu pangan?
+4. Sebutkan empat prinsip dasar keamanan pangan.
+5. Mengapa kebutuhan gizi dapat berbeda antarindividu?
+
+PEMBAHASAN
+1. Karena informasi gizi mengacu pada ukuran saji yang ditentukan.
+2. Perpindahan mikroorganisme atau alergen dari satu bahan/permukaan ke bahan lain.
+3. Penilaian perlu melihat komposisi, ukuran saji, konteks, dan pola konsumsi keseluruhan.
+4. Menjaga kebersihan, memisahkan mentah dan matang, memasak dengan benar, serta menyimpan dengan aman.
+5. Usia, aktivitas, kondisi kesehatan, dan keadaan hidup tidak sama.
+
+GLOSARIUM
+Ukuran saji: jumlah pangan acuan untuk informasi label.
+Alergen: zat yang dapat memicu reaksi alergi pada orang tertentu.
+Kontaminasi silang: perpindahan kontaminan antar bahan atau permukaan.
+Mikronutrien: vitamin dan mineral yang dibutuhkan dalam jumlah relatif kecil.
+Makronutrien: zat gizi seperti karbohidrat, protein, dan lemak yang dibutuhkan dalam jumlah lebih besar.
+
+RUJUKAN UNTUK PENDALAMAN
+Kementerian Kesehatan RI: https://www.kemkes.go.id/
+Badan Pengawas Obat dan Makanan: https://www.pom.go.id/
+WHO — Healthy Diet: https://www.who.int/news-room/fact-sheets/detail/healthy-diet

@@ -109,3 +109,22 @@ LATIHAN PENDALAMAN
 2. Apa beda sinyal analog dan digital? Jawaban: analog kontinu, digital direpresentasikan dalam tingkat diskret.
 3. Mengapa komponen harus dipilih berdasarkan lembar data? Jawaban: setiap komponen memiliki batas listrik, suhu, dan frekuensi.
 4. Mengapa pembelajaran rangkaian harus menggunakan sumber tegangan rendah yang aman? Jawaban: untuk mengurangi risiko sengatan, panas, dan kerusakan peralatan.
+
+PENDALAMAN RANGKAIAN DAN PENGUKURAN
+BAB 14 — HUKUM KIRCHHOFF
+Hukum arus Kirchhoff menyatakan jumlah arus yang masuk ke simpul sama dengan jumlah arus keluar, berdasarkan kekekalan muatan. Hukum tegangan Kirchhoff menyatakan jumlah perubahan tegangan dalam lintasan tertutup sama dengan nol pada model rangkaian yang sesuai. Tetapkan arah arus dan polaritas secara konsisten; hasil negatif berarti arah sebenarnya berlawanan dengan asumsi.
+BAB 15 — RANGKAIAN SERI DAN PARALEL
+Pada rangkaian seri, arus melalui komponen sama dan tegangan terbagi. Pada rangkaian paralel, tegangan cabang sama sedangkan arus terbagi. Hambatan ekuivalen seri adalah jumlah hambatan, sedangkan paralel dihitung dari jumlah kebalikan hambatan. Toleransi komponen membuat nilai aktual berbeda dari nominal.
+BAB 16 — KAPASITOR DAN INDUKTOR
+Kapasitor menyimpan energi dalam medan listrik dan menahan perubahan tegangan secara seketika pada model ideal. Induktor menyimpan energi dalam medan magnet dan menahan perubahan arus. Konstanta waktu RC adalah hasil kali resistansi dan kapasitansi. Konstanta waktu RL adalah induktansi dibagi resistansi pada rangkaian sederhana.
+BAB 17 — DIODA DAN TRANSISTOR
+Dioda mengalirkan arus terutama pada satu arah. LED memancarkan cahaya pada polaritas yang sesuai dan memerlukan pembatas arus. Transistor dapat menjadi sakelar atau penguat. Periksa tegangan, arus, disipasi daya, kondisi termal, dan lembar data model yang tepat; pinout komponen tidak selalu sama.
+BAB 18 — INSTRUMEN DAN KETIDAKPASTIAN
+Multimeter mengukur tegangan, arus, dan resistansi sesuai mode serta batas alat. Osiloskop memperlihatkan sinyal terhadap waktu. Kesalahan dapat muncul karena salah memilih terminal, rentang, referensi ground, atau jenis pengukuran. Catat resolusi dan kondisi pengukuran. Praktik pemula gunakan kit tegangan rendah yang dirancang untuk pembelajaran dengan pengawasan; jangan membuka peralatan listrik rumah tangga.
+BAB 19 — DOKUMENTASI DAN DIAGNOSIS
+Saat rangkaian tidak bekerja, periksa diagram, polaritas, sambungan, nilai komponen, dan sumber daya dalam kondisi aman. Ubah satu hal pada satu waktu dan catat hasil. Dokumentasi memuat skema, daftar komponen, versi rangkaian, hasil pengukuran, dan perbedaan dari rancangan.
+LATIHAN
+1. Makna arus simpul Kirchhoff? Kekekalan muatan.
+2. Perbedaan seri dan paralel? Seri memiliki arus sama; paralel memiliki tegangan cabang sama.
+3. Mengapa LED memerlukan pembatas arus? Arus berlebih dapat merusaknya.
+4. Mengapa lembar data penting? Memastikan batas listrik, pinout, dan kondisi operasi.

@@ -114,3 +114,19 @@ LATIHAN PENDALAMAN
 2. Apa fungsi definisi operasional? Jawaban: menjelaskan bagaimana konsep diterjemahkan menjadi indikator yang dapat diamati.
 3. Mengapa hasil yang tidak sesuai dugaan tetap dilaporkan? Jawaban: integritas penelitian menuntut pelaporan data secara jujur.
 4. Mengapa daftar pustaka perlu diperiksa manual? Jawaban: metadata otomatis dapat salah atau tidak lengkap.
+
+PENDALAMAN PRAKTIK PENULISAN ILMIAH
+BAB 14 — MEMBANGUN ARGUMEN BERBASIS BUKTI
+Argumen akademik terdiri atas klaim, alasan, bukti, dan penjelasan hubungan di antaranya. Klaim harus cukup terbatas agar didukung data. Bukti dapat berupa hasil penelitian, dokumen, statistik, atau analisis sumber primer. Setelah menyajikan bukti, jelaskan apa yang ditunjukkan, batas penerapannya, dan bagaimana bukti mendukung klaim.
+BAB 15 — PARAFRASA DAN SINTESIS
+Parafrasa menyampaikan gagasan sumber dengan struktur dan kata-kata sendiri sambil tetap memberi atribusi. Mengganti beberapa kata dengan sinonim belum cukup. Pahami gagasan, tulis ulang berdasarkan pemahaman, lalu bandingkan agar makna tidak berubah. Sintesis menghubungkan beberapa sumber untuk menunjukkan kesamaan, perbedaan, perkembangan, atau celah pengetahuan.
+BAB 16 — MENULIS TABEL DAN GAMBAR
+Tabel cocok untuk membandingkan nilai secara tepat, sedangkan grafik membantu memperlihatkan pola. Cantumkan judul, satuan, keterangan, sumber, dan periode. Sumbu yang dipotong atau skala tidak konsisten dapat menyesatkan. Bedakan jumlah absolut dengan tingkat per kapita.
+BAB 17 — ABSTRAK DAN KESIMPULAN
+Abstrak merangkum masalah, tujuan, metode, temuan utama, dan makna hasil. Tulis setelah naskah stabil agar tidak menjanjikan hal yang tidak dibahas. Kesimpulan menjawab pertanyaan berdasarkan hasil. Jangan memasukkan data baru atau mengubah korelasi menjadi sebab-akibat.
+BAB 18 — ETIKA KEPENULISAN DAN KOLABORASI
+Kepengarangan harus mencerminkan kontribusi intelektual dan tanggung jawab. Sepakati urutan penulis, pembagian tugas, dan penanganan konflik sejak awal. Bantuan penyuntingan, pendanaan, dan penggunaan alat diungkapkan sesuai kebijakan. Plagiarisme, fabrikasi, dan falsifikasi merusak kepercayaan ilmiah.
+BAB 19 — MENILAI MUTU SUMBER
+Periksa penulis, kompetensi, penerbit, metode, tanggal, pendanaan, dan konflik kepentingan. Artikel ilmiah tetap dapat memiliki keterbatasan atau dikoreksi. Untuk klaim penting, cari dukungan beberapa sumber independen dan utamakan dokumen primer atau tinjauan berkualitas.
+LATIHAN PENYUNTINGAN
+Ambil satu paragraf argumentatif. Tandai klaim, bukti, dan penjelasannya. Periksa apakah setiap klaim didukung. Tulis ulang dengan batasan yang jelas dan tambahkan sitasi yang benar-benar telah dibaca.

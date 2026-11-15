@@ -59,3 +59,22 @@ Metode: prosedur terencana untuk menjawab pertanyaan.
 
 CATATAN PENULIS
 Contoh penelitian dalam buku ini bersifat pendidikan. Kegiatan praktis tetap harus disesuaikan dengan usia, fasilitas, dan pengawasan yang tersedia.
+
+
+PENDALAMAN — MERANCANG PENYELIDIKAN YANG DAPAT DIPERCAYA
+BAB 7 — VARIABEL DAN RANCANGAN PENGUJIAN
+Variabel bebas adalah faktor yang sengaja diubah atau dibandingkan; variabel terikat adalah hasil yang diamati; variabel kontrol dijaga agar perbandingan lebih adil. Dalam penelitian observasional, peneliti tidak selalu dapat mengendalikan faktor. Karena itu, kesimpulan perlu dibatasi sesuai rancangan. Definisi operasional menjelaskan bagaimana suatu konsep diukur sehingga orang lain dapat memahami prosedurnya.
+BAB 8 — SAMPEL, PENGUKURAN, DAN KESALAHAN
+Sampel harus sesuai dengan pertanyaan penelitian. Pengukuran memiliki resolusi dan ketidakpastian. Kesalahan acak membuat hasil bervariasi, sedangkan kesalahan sistematis menggeser hasil ke arah tertentu. Mengulang pengukuran membantu memahami variasi, tetapi tidak otomatis menghilangkan bias alat atau metode. Catat satuan, kondisi, alat, dan waktu pengukuran.
+BAB 9 — DATA DAN ANALISIS
+Sebelum menganalisis, periksa kelengkapan, format, nilai tidak wajar, dan konsistensi data. Tampilkan data dengan tabel atau grafik yang sesuai. Ringkasan seperti rata-rata dan median membantu, tetapi tidak menggantikan pemeriksaan sebaran. Jangan menghapus hasil yang tidak sesuai dugaan tanpa alasan metodologis yang dapat dijelaskan.
+BAB 10 — KORELASI DAN KAUSALITAS
+Dua variabel dapat berubah bersama tanpa hubungan sebab-akibat langsung. Faktor ketiga dapat memengaruhi keduanya, atau arah pengaruh dapat terbalik. Eksperimen terkontrol dapat membantu menguji sebab, tetapi tidak selalu etis atau mungkin dilakukan. Penelitian observasional tetap bernilai jika keterbatasannya dinyatakan dengan jelas.
+BAB 11 — ETIKA PENELITIAN
+Penelitian yang melibatkan manusia memerlukan penghormatan terhadap privasi, persetujuan yang sesuai, dan perlindungan dari risiko yang tidak perlu. Jangan mengubah data agar sesuai harapan, menyalin karya tanpa pengakuan, atau menyembunyikan hasil yang tidak mendukung hipotesis. Laporkan metode dan keterbatasan secara jujur.
+BAB 12 — KOMUNIKASI DAN REPRODUKSIBILITAS
+Laporan penelitian menjelaskan pertanyaan, latar belakang, metode, hasil, pembahasan, kesimpulan, dan sumber. Catatan yang rapi memungkinkan orang lain menilai atau mengulangi proses. Reproduksibilitas tidak berarti setiap pengulangan harus menghasilkan angka identik; variasi dapat muncul karena sampel dan kondisi berbeda.
+LATIHAN
+1. Mengapa variabel perlu didefinisikan secara operasional? Jawaban: agar pengukuran jelas dan dapat diperiksa.
+2. Apa beda kesalahan acak dan sistematis? Jawaban: acak menghasilkan variasi; sistematis menggeser hasil secara konsisten.
+3. Mengapa korelasi tidak otomatis menunjukkan sebab? Jawaban: faktor lain atau arah pengaruh terbalik dapat menjelaskan hubungan.

@@ -331,8 +331,8 @@ private fun HomeScreen(books: List<Book>, categories: List<BookCategory>, loadin
         item {
             Row(Modifier.fillMaxWidth().padding(start = 20.dp, end = 14.dp, top = 24.dp, bottom = 12.dp), verticalAlignment = Alignment.CenterVertically) {
                 Column(Modifier.weight(1f)) {
-                    Text("Pilihan bacaan", color = Ink, fontSize = 19.sp, fontWeight = FontWeight.ExtraBold)
-                    Text("Koleksi terbaru dari NextyLibrary", color = Muted, fontSize = 11.sp)
+                    Text("Rak Buku", color = Ink, fontSize = 19.sp, fontWeight = FontWeight.ExtraBold)
+                    Text("${filtered.size} buku ditampilkan dari koleksi NextyLibrary", color = Muted, fontSize = 11.sp)
                 }
                 TextButton(onClick = onReload, enabled = !loading) { Text("↻ Segarkan", color = Green) }
             }

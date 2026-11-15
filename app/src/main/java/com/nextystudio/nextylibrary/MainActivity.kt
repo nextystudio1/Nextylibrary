@@ -63,7 +63,7 @@ private val Paper = Color(0xFFF4F7F4)
 private val Mint = Color(0xFFDDF1E6)
 private val Muted = Color(0xFF78877F)
 
-data class Book(val id: String, val title: String, val author: String, val description: String, val categoryId: String?, val pageCount: Int, val coverPath: String?, val contentPath: String?, val licenseType: String?, val licenseNote: String?)
+data class Book(val id: String, val title: String, val author: String, val description: String, val categoryId: String?, val pageCount: Int, val coverPath: String?, val contentPath: String?, val language: String?, val licenseType: String?, val licenseNote: String?)
 data class BookCategory(val id: String, val name: String)
 
 class MainActivity : ComponentActivity() {
@@ -698,7 +698,7 @@ private fun BookDetail(book: Book, categoryName: String?, onBack: () -> Unit, on
                     Text("Baca sekarang", fontSize = 16.sp, fontWeight = FontWeight.Bold)
                 }
                 Spacer(Modifier.height(10.dp))
-                Text(if (book.contentPath.isNullOrBlank()) "Isi buku belum tersedia." else "Bahasa Indonesia • Materi edukasi • " + when (book.licenseType?.lowercase()) { "public_domain" -> "Domain publik"; "permission_granted" -> "Izin penggunaan tercatat"; "licensed" -> "Lisensi: lihat keterangan"; else -> "Keterangan lisensi belum tersedia" },
+                Text(if (book.contentPath.isNullOrBlank()) "Isi buku belum tersedia." else (if (book.language.equals("id", true)) "Bahasa Indonesia" else if (book.language.equals("en", true)) "Bahasa Inggris" else book.language?.uppercase() ?: "Bahasa belum dicatat") + " • Materi edukasi • " + when (book.licenseType?.lowercase()) { "public_domain" -> "Domain publik"; "permission_granted" -> "Izin penggunaan tercatat"; "licensed" -> "Lisensi: lihat keterangan"; else -> "Keterangan lisensi belum tersedia" },
                     color = Muted, fontSize = 11.sp)
                 if (!book.licenseNote.isNullOrBlank()) {
                     Spacer(Modifier.height(5.dp))
@@ -1236,7 +1236,7 @@ private fun fetchCategories(): List<BookCategory> {
 }
 
 private fun fetchBooks(): List<Book> {
-    val endpoint = BuildConfig.SUPABASE_URL.trimEnd('/') + "/rest/v1/books?select=id,title,author,description,category_id,page_count,cover_path,content_path,license_type,license_note&is_published=eq.true&order=published_at.desc"
+    val endpoint = BuildConfig.SUPABASE_URL.trimEnd('/') + "/rest/v1/books?select=id,title,author,description,category_id,page_count,cover_path,content_path,language,license_type,license_note&is_published=eq.true&order=published_at.desc"
     val connection = URL(endpoint).openConnection() as HttpURLConnection
     try {
         connection.requestMethod = "GET"
@@ -1254,6 +1254,7 @@ private fun fetchBooks(): List<Book> {
                 item.optString("description"), item.optString("category_id").takeIf { it.isNotBlank() && it != "null" },
                 item.optInt("page_count", 0), item.optString("cover_path").takeIf { it.isNotBlank() && it != "null" },
                 item.optString("content_path").takeIf { it.isNotBlank() && it != "null" },
+                item.optString("language").takeIf { it.isNotBlank() && it != "null" },
                 item.optString("license_type").takeIf { it.isNotBlank() && it != "null" },
                 item.optString("license_note").takeIf { it.isNotBlank() && it != "null" })
         }

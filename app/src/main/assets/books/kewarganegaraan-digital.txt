@@ -59,3 +59,31 @@ Lisensi: ketentuan izin penggunaan suatu karya.
 
 CATATAN PENULIS
 Pengaturan dan hukum digital dapat berbeda menurut layanan dan wilayah. Periksa kebijakan resmi serta aturan yang berlaku ketika mengambil keputusan penting.
+
+PENDALAMAN: IDENTITAS, KEAMANAN, DAN ETIKA WARGA DIGITAL
+BAB 7 — JEJAK DIGITAL DAN REPUTASI
+Aktivitas daring dapat meninggalkan jejak berupa unggahan, komentar, metadata, dan catatan layanan. Sebagian jejak dapat disalin atau disimpan pihak lain meskipun unggahan asli dihapus. Karena itu, pertimbangkan audiens, konteks, dan konsekuensi sebelum membagikan informasi.
+Reputasi digital terbentuk dari pola interaksi, bukan hanya satu unggahan. Koreksi kesalahan secara terbuka dan sopan, hindari menyebarkan informasi pribadi orang lain, serta pahami bahwa konteks percakapan dapat hilang ketika konten dipotong atau diteruskan.
+BAB 8 — PRIVASI DAN PERLINDUNGAN DATA
+Data pribadi dapat mencakup identitas, lokasi, kontak, informasi pendidikan, dan data lain yang dapat mengidentifikasi seseorang. Prinsip minimisasi berarti hanya mengumpulkan data yang benar-benar diperlukan. Izin akses aplikasi perlu ditinjau dan dicabut jika tidak lagi relevan.
+Gunakan kata sandi unik dan autentikasi berlapis jika tersedia. Jangan membagikan kode verifikasi atau tautan pemulihan. Waspadai pesan yang mendesak, menjanjikan hadiah tidak masuk akal, atau meminta data rahasia.
+BAB 9 — INFORMASI PALSU DAN VERIFIKASI
+Informasi menyesatkan dapat muncul sebagai judul sensasional, gambar tanpa konteks, kutipan palsu, atau data lama yang disajikan seolah baru. Periksa sumber asli, tanggal, penulis, bukti pendukung, dan apakah media tepercaya lain melaporkan hal serupa.
+Pencarian gambar terbalik dan pemeriksaan metadata dapat membantu, tetapi tidak selalu memberi jawaban pasti. Jangan menyebarkan konten yang belum terverifikasi. Jika salah membagikan informasi, buat koreksi yang terlihat oleh audiens yang sama.
+BAB 10 — KOMUNIKASI DAN ETIKA BERINTERAKSI
+Etika digital meliputi menghormati perbedaan, menghindari perundungan, tidak mengirim pesan berulang yang mengganggu, dan meminta izin sebelum membagikan foto atau percakapan. Kritik sebaiknya ditujukan pada gagasan atau tindakan, bukan merendahkan identitas seseorang.
+Dalam diskusi kelompok, gunakan bahasa jelas, beri ruang bagi orang lain, dan jangan menganggap diam sebagai persetujuan. Jika menemukan ancaman atau perundungan, simpan bukti secara aman dan cari bantuan orang dewasa tepercaya atau saluran pelaporan yang sesuai.
+BAB 11 — HAK CIPTA DAN KARYA DIGITAL
+Teks, foto, musik, video, dan perangkat lunak dapat dilindungi hak cipta. Akses gratis tidak berarti bebas disalin atau digunakan kembali. Periksa lisensi, ketentuan atribusi, dan batas penggunaan. Gunakan karya sendiri, materi domain publik, atau materi berlisensi yang mengizinkan penggunaan yang direncanakan.
+Atribusi menyebut pencipta dan sumber sesuai syarat lisensi, tetapi atribusi saja tidak menggantikan izin jika izin diperlukan. Catat asal aset yang digunakan dalam proyek digital.
+BAB 12 — KEAMANAN AKUN DAN PERANGKAT
+Perbarui sistem dan aplikasi dari sumber resmi, aktifkan kunci layar, dan buat cadangan data penting. Hindari memasang berkas dari sumber yang tidak dikenal. Pada jaringan publik, hindari transaksi sensitif jika tidak yakin terhadap keamanannya.
+Jika akun diduga diambil alih, gunakan prosedur pemulihan resmi, ganti kata sandi dari perangkat tepercaya, cabut sesi yang tidak dikenal, dan beri tahu kontak bila akun digunakan untuk mengirim pesan palsu.
+BAB 13 — PARTISIPASI DAN KEWARGAAN DIGITAL
+Ruang digital dapat digunakan untuk belajar, menyampaikan aspirasi, mengakses layanan publik, dan bekerja sama. Partisipasi yang bertanggung jawab mengutamakan bukti, menghormati hak orang lain, serta memahami aturan platform dan hukum yang berlaku.
+Periksa apakah sebuah kampanye transparan mengenai penyelenggara dan tujuan. Jangan menyebarkan data pribadi untuk menekan pihak lain. Perbedaan pendapat dapat disampaikan tanpa ancaman atau pelecehan.
+LATIHAN PENDALAMAN
+1. Mengapa menghapus unggahan tidak selalu menghapus jejak digital? Jawaban: konten mungkin telah disalin, diarsipkan, atau disimpan oleh penerima.
+2. Apa arti minimisasi data? Jawaban: mengumpulkan dan menyimpan hanya data yang diperlukan.
+3. Mengapa atribusi tidak selalu cukup untuk menggunakan karya orang lain? Jawaban: lisensi atau izin mungkin membatasi penggunaan tertentu.
+4. Sebutkan tiga tanda pesan phishing. Jawaban: desakan, tautan mencurigakan, dan permintaan kata sandi atau kode rahasia.

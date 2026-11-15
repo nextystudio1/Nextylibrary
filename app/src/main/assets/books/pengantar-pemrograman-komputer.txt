@@ -96,3 +96,40 @@ LATIHAN
 1. Apa manfaat fungsi? Jawaban: mengelompokkan tugas, mengurangi pengulangan, dan memudahkan pengujian.
 2. Apa beda kesalahan sintaks dan logika? Jawaban: sintaks melanggar aturan bahasa; logika membuat hasil salah meskipun program berjalan.
 3. Mengapa kasus batas penting? Jawaban: kesalahan sering muncul pada nilai ekstrem atau masukan kosong.
+
+PENDALAMAN: MERANCANG, MENGUJI, DAN MEMELIHARA PROGRAM
+BAB 7 — MEMECAH MASALAH MENJADI ALGORITMA
+Sebelum menulis kode, jelaskan masukan, keluaran, dan aturan proses. Contoh: program menghitung total belanja menerima daftar harga dan jumlah barang, memeriksa nilai masukan, mengalikan harga dengan jumlah, lalu menjumlahkan hasil. Uraian langkah dalam bahasa sehari-hari atau pseudocode membantu menemukan bagian yang belum jelas.
+Dekomposisi memecah persoalan besar menjadi bagian kecil. Abstraksi mempertahankan informasi yang penting dan mengabaikan rincian yang tidak diperlukan. Pengenalan pola membantu menemukan proses yang dapat digunakan ulang. Keempat keterampilan ini merupakan inti berpikir komputasional, bukan sekadar menghafal sintaks.
+BAB 8 — TIPE DATA, RUANG LINGKUP, DAN KETEPATAN
+Tipe data menentukan jenis nilai dan operasi yang masuk akal. Bilangan bulat cocok untuk jumlah benda, bilangan pecahan untuk ukuran yang memerlukan desimal, teks untuk nama, dan nilai logika untuk kondisi benar atau salah. Memilih tipe yang keliru dapat menimbulkan hasil salah, misalnya pembagian bilangan bulat yang membuang bagian desimal pada bahasa tertentu.
+Variabel lokal biasanya hanya berlaku dalam fungsi atau blok tempat ia didefinisikan. Ruang lingkup yang jelas mengurangi perubahan nilai tak terduga. Gunakan nama yang menjelaskan makna, seperti total_harga, bukan x1, kecuali untuk variabel indeks sederhana.
+BAB 9 — FUNGSI DAN PEMECAHAN MODUL
+Fungsi mengemas tugas tertentu agar dapat dipanggil berkali-kali. Fungsi yang baik memiliki tujuan jelas, masukan yang terdefinisi, dan keluaran yang dapat diprediksi. Hindari fungsi yang melakukan terlalu banyak hal sekaligus. Pisahkan validasi masukan, perhitungan, dan tampilan agar tiap bagian lebih mudah diuji.
+Modul mengelompokkan fungsi dan data terkait. Pemisahan modul membantu tim bekerja, memudahkan pemeliharaan, dan membatasi ketergantungan. Namun, terlalu banyak lapisan untuk program kecil juga dapat membuat struktur sulit dipahami. Pilih tingkat pemisahan sesuai kompleksitas.
+BAB 10 — STRUKTUR DATA DASAR
+Array atau daftar menyimpan beberapa nilai berurutan. Peta atau kamus menyimpan pasangan kunci dan nilai. Himpunan menyimpan elemen unik. Pemilihan struktur data memengaruhi cara pencarian, penambahan, dan penghapusan dilakukan.
+Misalnya daftar cocok untuk urutan tugas, kamus cocok untuk menghubungkan kode barang dengan harga, sedangkan himpunan cocok untuk memeriksa apakah sebuah alamat surel sudah pernah dicatat. Pahami pula bahwa indeks daftar sering dimulai dari nol pada banyak bahasa, sehingga kesalahan batas indeks dapat menyebabkan program gagal.
+BAB 11 — PENGUJIAN DAN DEBUGGING
+Pengujian memeriksa apakah program berperilaku sesuai kebutuhan. Kasus normal menguji penggunaan sehari-hari; kasus batas menguji nilai minimum, maksimum, kosong, atau sangat besar; kasus tidak valid menguji masukan yang salah format. Jangan hanya menguji satu contoh yang kebetulan berhasil.
+Debugging adalah proses menemukan dan memperbaiki sumber kesalahan. Baca pesan kesalahan, buat ulang masalah dengan contoh sekecil mungkin, periksa asumsi, dan ubah satu hal pada satu waktu. Setelah perbaikan, jalankan kembali pengujian lama agar masalah tidak muncul lagi.
+BAB 12 — KOMPLEKSITAS DAN EFISIENSI
+Kompleksitas waktu menggambarkan bagaimana kebutuhan langkah bertambah ketika ukuran masukan meningkat. Algoritma pencarian linear memeriksa elemen satu per satu; pada daftar panjang, jumlah pemeriksaan dapat meningkat sebanding dengan jumlah elemen. Pencarian biner dapat lebih cepat, tetapi mensyaratkan data terurut.
+Notasi Big O membantu membandingkan pertumbuhan, bukan memprediksi detik secara tepat. Faktor perangkat keras, bahasa, dan implementasi juga berpengaruh. Untuk pemula, utamakan kebenaran dan keterbacaan, lalu ukur kinerja sebelum melakukan optimasi.
+BAB 13 — KEAMANAN DAN PRIVASI DALAM PEMROGRAMAN
+Program harus memperlakukan masukan pengguna sebagai data yang belum tentu aman. Validasi format dan rentang, batasi hak akses, dan jangan menyimpan kata sandi dalam bentuk teks biasa. Rahasia seperti token API tidak boleh ditanam langsung dalam aplikasi publik atau diunggah ke repositori.
+Kumpulkan data pribadi sesedikit mungkin dan jelaskan tujuan penggunaannya. Gunakan pustaka dari sumber tepercaya, perbarui dependensi, dan periksa izin aplikasi. Pesan kesalahan untuk pengguna sebaiknya membantu tanpa membocorkan informasi internal yang sensitif.
+BAB 14 — KONTROL VERSI DAN KERJA TIM
+Sistem kontrol versi menyimpan riwayat perubahan kode. Commit kecil dengan pesan yang jelas memudahkan penelusuran. Cabang kerja memungkinkan pengembangan fitur secara terpisah, sedangkan peninjauan perubahan membantu menemukan kesalahan sebelum digabungkan.
+Dokumentasikan cara menjalankan proyek, versi perangkat yang diperlukan, dan langkah pengujian. Saat terjadi konflik perubahan, pahami kedua versi sebelum memilih atau menggabungkan bagian. Jangan menimpa pekerjaan rekan tanpa komunikasi.
+BAB 15 — PROYEK TERPADU: PENGELOLA TUGAS SEDERHANA
+Rancang program daftar tugas dengan fitur menambah, menampilkan, menandai selesai, dan menghapus tugas. Tentukan struktur data, aturan validasi, serta perilaku ketika daftar kosong atau nomor tugas tidak ditemukan. Pisahkan logika pengelolaan dari antarmuka.
+Buat kasus uji untuk daftar kosong, satu tugas, beberapa tugas, nomor tidak valid, dan masukan kosong. Setelah versi dasar stabil, tambahkan penyimpanan lokal dan pencarian. Dokumentasikan batasan: misalnya data hanya tersimpan pada perangkat dan belum disinkronkan.
+LATIHAN PENDALAMAN
+1. Mengapa pseudocode berguna sebelum menulis program? Jawaban: membantu memeriksa urutan logika tanpa terikat sintaks bahasa tertentu.
+2. Kapan kamus lebih tepat daripada daftar? Jawaban: ketika nilai perlu diakses melalui kunci unik, misalnya kode produk.
+3. Apa beda kesalahan sintaks dan kesalahan logika? Jawaban: kesalahan sintaks melanggar aturan bahasa, sedangkan kesalahan logika membuat program berjalan tetapi hasilnya keliru.
+4. Mengapa kasus batas perlu diuji? Jawaban: banyak kegagalan muncul pada nilai kosong, minimum, maksimum, atau kondisi tidak umum.
+5. Mengapa token rahasia tidak boleh ditanam di aplikasi publik? Jawaban: kode aplikasi dapat diperiksa sehingga token berisiko dicuri dan disalahgunakan.
+GLOSARIUM TAMBAHAN
+Algoritma: urutan langkah untuk menyelesaikan masalah. Debugging: proses menemukan dan memperbaiki kesalahan. Dependensi: pustaka atau komponen yang dibutuhkan program. Kompleksitas: gambaran pertumbuhan kebutuhan sumber daya. Modul: bagian program dengan tanggung jawab tertentu. Pseudocode: uraian algoritma yang menyerupai kode tetapi tidak terikat sintaks bahasa.

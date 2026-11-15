@@ -1,0 +1,294 @@
+STATISTIKA DAN LITERASI DATA
+Memahami Angka, Pola, Peluang, dan Keputusan
+Penulis: Tim Edukasi Nexty Studio
+Edisi pertama, 2026
+
+PENGANTAR
+Data hadir dalam berita, sekolah, kesehatan masyarakat, olahraga, bisnis, dan kehidupan sehari-hari. Namun angka tidak otomatis menjelaskan keadaan. Data harus dikumpulkan dengan cara yang tepat, diperiksa kualitasnya, dianalisis sesuai tujuan, lalu disampaikan secara jujur. Buku ini membahas dasar statistika deskriptif, peluang, pengambilan sampel, hubungan antarvariabel, dan etika penggunaan data. Contoh angka dalam latihan bersifat ilustratif, bukan hasil survei nyata.
+
+DAFTAR ISI
+1. Data dan Pertanyaan Statistik
+2. Jenis Data dan Cara Mengumpulkan
+3. Populasi, Sampel, dan Bias
+4. Tabel dan Visualisasi Data
+5. Ukuran Pemusatan
+6. Ukuran Penyebaran
+7. Posisi Data dan Distribusi
+8. Peluang Dasar
+9. Peluang Bersyarat dan Risiko
+10. Hubungan Antarvariabel
+11. Pengantar Inferensi Statistik
+12. Membaca Statistik dalam Berita
+13. Data Digital dan Etika
+14. Proyek Penyelidikan Berbasis Data
+Lampiran: Rumus, latihan, glosarium
+
+BAB 1. DATA DAN PERTANYAAN STATISTIK
+Statistika adalah ilmu tentang pengumpulan, pengolahan, analisis, interpretasi, dan penyajian data. Statistik dapat merujuk pada ukuran ringkas yang dihitung dari data, seperti rata-rata atau median. Statistika deskriptif merangkum data yang diamati, sedangkan statistika inferensial menggunakan data sampel untuk membuat perkiraan atau kesimpulan tentang populasi dengan memperhitungkan ketidakpastian.
+
+Penyelidikan statistik dimulai dari pertanyaan yang jelas. Pertanyaan “berapa banyak siswa yang menggunakan transportasi umum?” membutuhkan definisi pengguna, wilayah, dan periode. Apakah seseorang dihitung sebagai pengguna jika memakai bus satu kali seminggu atau setiap hari? Definisi operasional mencegah jawaban yang berbeda untuk pertanyaan yang tampak sama.
+
+Variabel adalah karakteristik yang dicatat pada setiap objek. Variabel dapat berupa tinggi tanaman, waktu perjalanan, jenis transportasi, atau tingkat kepuasan. Satu baris data biasanya mewakili satu unit pengamatan, sedangkan kolom mewakili variabel. Kode dan satuan harus dijelaskan agar data dapat ditafsirkan.
+
+Statistika tidak dapat memperbaiki pertanyaan yang keliru atau data yang dikumpulkan secara bias. Sebelum menghitung, tanyakan siapa yang diwakili data, bagaimana pengukuran dilakukan, kapan data dikumpulkan, dan apa yang tidak tercakup.
+
+RANGKUMAN
+• Statistika mengubah data menjadi informasi yang dapat dinilai.
+• Pertanyaan dan definisi variabel harus jelas.
+• Kualitas kesimpulan dibatasi oleh kualitas data.
+LATIHAN
+Buat pertanyaan statistik tentang kebiasaan membaca. Tentukan unit pengamatan, variabel, periode, dan definisi “membaca”.
+
+BAB 2. JENIS DATA DAN CARA MENGUMPULKAN
+Data kategorik menggambarkan kelompok atau label, misalnya jenis kendaraan dan warna. Data numerik menyatakan besaran yang dapat dihitung atau diukur. Data numerik diskrit biasanya berupa hitungan, sedangkan data kontinu dapat mengambil nilai pada suatu rentang, seperti waktu dan panjang.
+
+Data primer dikumpulkan langsung untuk tujuan tertentu melalui pengukuran, observasi, atau survei. Data sekunder telah dikumpulkan oleh pihak lain, misalnya publikasi statistik resmi atau laporan penelitian. Sumber sekunder dapat menghemat waktu, tetapi definisi dan metode pengumpulan harus diperiksa.
+
+Pengukuran memerlukan alat dan prosedur konsisten. Jika beberapa orang mengukur panjang meja dengan cara berbeda, hasilnya mungkin tidak sebanding. Gunakan satuan baku, catat ketelitian alat, dan ulangi pengukuran bila diperlukan. Jangan membulatkan angka terlalu dini karena dapat menambah kesalahan.
+
+Survei memerlukan pertanyaan netral dan mudah dipahami. Pertanyaan yang menggiring, pilihan jawaban yang tidak lengkap, atau urutan pertanyaan yang memengaruhi responden dapat menghasilkan data bias. Responden harus mengetahui tujuan pengumpulan dan tidak dipaksa menjawab.
+
+RANGKUMAN
+• Data dapat berupa kategorik atau numerik.
+• Data primer dan sekunder memiliki kelebihan serta keterbatasan.
+• Metode pengukuran dan pertanyaan memengaruhi hasil.
+LATIHAN
+Klasifikasikan variabel berikut: jumlah buku, jenis bacaan, durasi membaca, dan tingkat kepuasan.
+
+BAB 3. POPULASI, SAMPEL, DAN BIAS
+Populasi adalah keseluruhan kelompok yang ingin dipelajari. Sampel adalah bagian dari populasi yang benar-benar diamati. Sensus mengumpulkan informasi dari seluruh anggota populasi sasaran, sedangkan survei sampel mengamati sebagian anggota untuk memperkirakan karakteristik populasi.
+
+Sampel acak sederhana memberi setiap anggota peluang yang sama untuk terpilih. Pengambilan sampel berstrata membagi populasi menjadi kelompok relevan lalu mengambil sampel dari tiap kelompok. Pengambilan sampel klaster memilih kelompok secara keseluruhan. Metode dipilih berdasarkan pertanyaan, struktur populasi, biaya, dan akses.
+
+Bias seleksi muncul ketika peluang terpilih tidak mewakili populasi. Survei daring terbuka mungkin lebih banyak dijawab orang yang aktif di internet. Bias nonrespons terjadi ketika orang yang tidak menjawab memiliki karakteristik berbeda dari yang menjawab. Ukuran sampel besar tidak otomatis menghilangkan bias sistematis.
+
+Kesalahan sampling terjadi karena hanya sebagian populasi diamati. Kesalahan non-sampling dapat berasal dari pertanyaan yang buruk, pencatatan salah, alat tidak akurat, atau data hilang. Kedua jenis kesalahan perlu diperhatikan. Sampel yang lebih besar dapat mengurangi sebagian variasi sampling, tetapi tidak memperbaiki metode yang bias.
+
+RANGKUMAN
+• Sampel digunakan untuk mempelajari populasi.
+• Cara memilih sampel sama pentingnya dengan ukurannya.
+• Sampel besar tetap dapat bias.
+LATIHAN
+Sekolah ingin mengetahui kebiasaan membaca semua siswa. Mengapa hanya menyurvei anggota klub literasi dapat menghasilkan kesimpulan yang bias?
+
+BAB 4. TABEL DAN VISUALISASI DATA
+Tabel frekuensi menunjukkan banyaknya kemunculan kategori atau rentang nilai. Tabel membantu pembaca melihat komposisi dan membandingkan kelompok. Judul, label, satuan, periode, dan sumber perlu dicantumkan. Kategori harus saling terpisah dan mencakup jawaban yang mungkin.
+
+Diagram batang cocok untuk membandingkan kategori. Diagram garis sering digunakan untuk perubahan menurut waktu. Histogram menggambarkan distribusi data numerik yang dikelompokkan ke dalam interval. Diagram lingkaran dapat menunjukkan bagian dari keseluruhan, tetapi sulit dibaca jika kategori terlalu banyak atau nilainya berdekatan.
+
+Sumbu grafik memengaruhi kesan. Sumbu vertikal yang tidak dimulai dari nol pada diagram batang dapat membuat perbedaan tampak lebih besar. Untuk grafik garis, pemotongan sumbu kadang berguna untuk melihat perubahan kecil, tetapi harus diberi tanda dan dijelaskan. Skala yang tidak konsisten dapat menyesatkan.
+
+Visualisasi harus sesuai dengan pertanyaan. Jangan memilih jenis grafik hanya karena terlihat menarik. Periksa apakah pembaca dapat menemukan nilai, membandingkan kategori, dan memahami konteks tanpa menebak.
+
+RANGKUMAN
+• Pilih grafik sesuai jenis data dan tujuan.
+• Cantumkan label, satuan, periode, dan sumber.
+• Skala grafik dapat memengaruhi persepsi.
+LATIHAN
+Pilih grafik yang tepat untuk membandingkan jumlah buku yang dibaca tiap kelas dan untuk menunjukkan perubahan jumlah pembaca dari bulan ke bulan.
+
+BAB 5. UKURAN PEMUSATAN
+Rata-rata aritmetika diperoleh dengan menjumlahkan semua nilai lalu membaginya dengan banyak pengamatan. Rata-rata memanfaatkan seluruh nilai, tetapi peka terhadap pencilan. Jika pendapatan beberapa orang sangat tinggi dibanding mayoritas, rata-rata dapat jauh di atas nilai yang umum.
+
+Median adalah nilai tengah setelah data diurutkan. Jika jumlah data genap, median merupakan rata-rata dua nilai tengah. Median lebih tahan terhadap pencilan dan sering cocok untuk data yang menceng. Modus adalah nilai atau kategori yang paling sering muncul. Suatu data dapat memiliki lebih dari satu modus atau tidak memiliki modus tunggal.
+
+Pemilihan ukuran pemusatan bergantung pada bentuk distribusi dan tujuan. Rata-rata berguna untuk banyak perhitungan lanjutan, median sering lebih mewakili nilai tipikal pada distribusi menceng, sedangkan modus bermanfaat untuk kategori paling umum.
+
+Contoh: data waktu membaca dalam menit adalah 10, 12, 12, 14, dan 52. Rata-rata adalah 20 menit, median 12 menit, dan modus 12 menit. Nilai 52 menaikkan rata-rata, sehingga median lebih menggambarkan kebiasaan sebagian besar pengamatan dalam contoh ini.
+
+RANGKUMAN
+• Rata-rata menggunakan seluruh nilai.
+• Median tahan terhadap pengaruh pencilan.
+• Modus menunjukkan nilai atau kategori paling sering.
+LATIHAN
+Hitung rata-rata, median, dan modus dari 4, 5, 5, 6, 10. Ukuran mana yang paling terpengaruh nilai 10?
+
+BAB 6. UKURAN PENYEBARAN
+Ukuran pemusatan tidak menceritakan seluruh pola data. Dua kelompok dapat memiliki rata-rata sama tetapi penyebaran berbeda. Rentang adalah selisih nilai maksimum dan minimum. Rentang mudah dihitung tetapi hanya menggunakan dua nilai sehingga peka terhadap pencilan.
+
+Kuartil membagi data terurut menjadi empat bagian. Rentang antarkuartil (IQR) adalah kuartil ketiga dikurangi kuartil pertama. IQR menggambarkan lebar 50 persen data tengah dan relatif tahan terhadap pencilan. Cara menghitung kuartil dapat sedikit berbeda antarperangkat lunak, sehingga metode perlu dinyatakan.
+
+Varians mengukur rata-rata kuadrat penyimpangan dari rata-rata. Simpangan baku adalah akar kuadrat varians dan memiliki satuan yang sama dengan data. Simpangan baku kecil menunjukkan data cenderung dekat dengan rata-rata, sedangkan simpangan baku besar menunjukkan penyebaran lebih lebar.
+
+Pencilan adalah nilai yang jauh dari pola umum. Pencilan bukan otomatis kesalahan. Periksa sumbernya: mungkin terjadi salah catat, mungkin memang mewakili kejadian langka, atau mungkin menunjukkan kelompok yang berbeda. Jangan menghapus nilai hanya karena mengganggu hasil yang diharapkan.
+
+RANGKUMAN
+• Rentang menggunakan nilai minimum dan maksimum.
+• IQR merangkum sebaran separuh data tengah.
+• Simpangan baku mengukur penyebaran terhadap rata-rata.
+LATIHAN
+Dua kelompok memiliki rata-rata nilai 75. Kelompok A memiliki simpangan baku 3 dan B sebesar 12. Apa yang dapat disimpulkan tentang keragaman nilainya?
+
+BAB 7. POSISI DATA DAN DISTRIBUSI
+Distribusi menggambarkan bagaimana nilai tersebar. Distribusi simetris memiliki bentuk relatif seimbang di sekitar pusat. Distribusi menceng kanan memiliki ekor panjang pada nilai tinggi, sedangkan menceng kiri memiliki ekor panjang pada nilai rendah. Bentuk distribusi membantu memilih ukuran ringkasan dan metode analisis.
+
+Persentil menunjukkan posisi relatif suatu nilai dalam kumpulan data. Persentil ke-80 berarti sekitar 80 persen data berada pada atau di bawah posisi tersebut menurut definisi perhitungan yang digunakan. Persentil bukan persentase nilai yang diperoleh seseorang.
+
+Skor baku atau z-score menyatakan jarak suatu nilai dari rata-rata dalam satuan simpangan baku. Rumusnya z = (x − rata-rata)/simpangan baku. Nilai z positif berada di atas rata-rata dan nilai negatif di bawahnya. Perbandingan skor baku berguna ketika skala pengukuran berbeda, selama konteks distribusinya dipahami.
+
+Distribusi normal berbentuk lonceng dan simetris. Dalam distribusi normal ideal, sekitar 68 persen data berada dalam satu simpangan baku dari rata-rata, sekitar 95 persen dalam dua, dan sekitar 99,7 persen dalam tiga. Aturan ini tidak boleh diterapkan begitu saja pada data yang bentuknya jauh dari normal.
+
+RANGKUMAN
+• Bentuk distribusi penting untuk interpretasi.
+• Persentil menunjukkan posisi relatif.
+• Skor baku menyatakan jarak dari rata-rata dalam satuan simpangan baku.
+LATIHAN
+Nilai seseorang 80, rata-rata kelompok 70, dan simpangan baku 5. Hitung z-score dan jelaskan artinya.
+
+BAB 8. PELUANG DASAR
+Peluang mengukur seberapa mungkin suatu peristiwa terjadi dalam model tertentu. Nilainya berada antara 0 dan 1. Peluang 0 berarti mustahil dalam model, sedangkan 1 berarti pasti. Peluang dapat dinyatakan sebagai pecahan, desimal, atau persentase.
+
+Pada ruang sampel berhingga dengan hasil yang sama mungkin, peluang peristiwa adalah banyak hasil yang mendukung dibagi banyak seluruh hasil. Asumsi sama mungkin harus benar. Dadu yang tidak seimbang tidak dapat dianalisis seolah setiap sisi memiliki peluang sama tanpa bukti.
+
+Komplemen suatu peristiwa A adalah kejadian bahwa A tidak terjadi. P(A komplemen) = 1 − P(A). Aturan penjumlahan untuk dua peristiwa yang saling lepas adalah P(A atau B) = P(A) + P(B). Jika keduanya dapat terjadi bersamaan, peluang irisan harus dikurangkan agar tidak dihitung dua kali.
+
+Peluang teoretis berasal dari model, sedangkan peluang empiris dihitung dari frekuensi pengamatan. Hasil percobaan terbatas dapat berbeda dari peluang teoretis. Semakin banyak percobaan independen dalam kondisi yang sama, frekuensi relatif cenderung lebih stabil, tetapi tidak harus tepat sama dengan nilai teoretis.
+
+RANGKUMAN
+• Peluang berada pada rentang 0 sampai 1.
+• Model peluang bergantung pada asumsi.
+• Frekuensi percobaan tidak selalu sama dengan peluang teoretis.
+LATIHAN
+Dalam kantong terdapat 3 kartu merah dan 2 kartu biru. Jika satu kartu dipilih secara acak, hitung peluang memperoleh kartu merah dan peluang tidak memperoleh kartu merah.
+
+BAB 9. PELUANG BERSYARAT DAN RISIKO
+Peluang bersyarat adalah peluang suatu peristiwa terjadi ketika informasi tentang peristiwa lain diketahui. Ditulis P(A|B), dibaca peluang A dengan syarat B. Informasi tambahan dapat mengubah perkiraan peluang secara berarti.
+
+Dua peristiwa independen jika terjadinya satu tidak mengubah peluang peristiwa lainnya. Untuk peristiwa independen, P(A dan B) = P(A) × P(B). Jangan menganggap dua kejadian independen hanya karena tampak berbeda; hubungan perlu dinilai dari mekanisme dan data.
+
+Risiko menggabungkan kemungkinan dan dampak. Peristiwa berpeluang kecil dapat tetap penting jika dampaknya sangat besar. Dalam kesehatan masyarakat, keselamatan, dan kebijakan, penilaian risiko harus menjelaskan periode, kelompok yang dinilai, serta ketidakpastian.
+
+Tes klasifikasi atau pemeriksaan tidak selalu sempurna. Hasil positif dapat berupa positif benar atau positif palsu; hasil negatif dapat berupa negatif benar atau negatif palsu. Makna hasil bergantung pada ketepatan tes dan seberapa umum kondisi yang dicari pada kelompok yang diperiksa. Karena itu, satu hasil tes tidak boleh ditafsirkan tanpa konteks dan arahan profesional yang relevan.
+
+RANGKUMAN
+• Peluang bersyarat memperhitungkan informasi tambahan.
+• Independensi adalah sifat matematis yang harus diperiksa.
+• Risiko memperhitungkan kemungkinan, dampak, dan konteks.
+LATIHAN
+Jelaskan dengan contoh mengapa hasil pemeriksaan positif tidak selalu berarti seseorang pasti memiliki kondisi yang diperiksa.
+
+BAB 10. HUBUNGAN ANTARVARIABEL
+Korelasi menggambarkan arah dan kekuatan hubungan statistik antara dua variabel. Korelasi positif berarti nilai cenderung meningkat bersama, sedangkan korelasi negatif berarti satu nilai cenderung menurun ketika yang lain meningkat. Korelasi mendekati nol menunjukkan tidak ada hubungan linear yang kuat, tetapi hubungan non-linear mungkin tetap ada.
+
+Koefisien korelasi tidak menunjukkan sebab-akibat. Dua variabel dapat berkorelasi karena variabel ketiga, kebetulan, atau hubungan yang tidak langsung. Contohnya, penjualan minuman dingin dan jumlah pengunjung kolam renang mungkin sama-sama meningkat saat cuaca panas. Cuaca menjadi faktor yang memengaruhi keduanya.
+
+Diagram pencar membantu melihat pola, kelompok, pencilan, dan kemungkinan hubungan non-linear. Garis tren merangkum pola, tetapi tidak selalu cocok untuk semua data. Korelasi harus disertai ukuran sampel, rentang data, dan konteks pengumpulan.
+
+Untuk menilai sebab-akibat, peneliti membutuhkan rancangan yang lebih kuat, misalnya eksperimen terkontrol atau metode observasional yang memperhitungkan faktor pengganggu. Bahkan eksperimen perlu memperhatikan etika, pengacakan, dan keterbatasan generalisasi.
+
+RANGKUMAN
+• Korelasi menggambarkan hubungan, bukan otomatis sebab-akibat.
+• Diagram pencar membantu melihat pola.
+• Variabel pengganggu dapat menjelaskan korelasi.
+LATIHAN
+Berikan contoh dua variabel yang berkorelasi karena dipengaruhi faktor ketiga.
+
+BAB 11. PENGANTAR INFERENSI STATISTIK
+Inferensi menggunakan sampel untuk mempelajari populasi. Karena hanya sebagian populasi diamati, hasil mengandung ketidakpastian. Estimasi titik memberi satu nilai perkiraan, sedangkan interval kepercayaan memberi rentang yang dihasilkan oleh prosedur statistik dengan tingkat kepercayaan tertentu.
+
+Interval kepercayaan 95 persen tidak berarti ada peluang 95 persen bahwa parameter tetap berada di dalam interval yang sudah dihitung. Dalam penafsiran frekuentis, jika prosedur yang sama diulang berkali-kali pada kondisi yang sesuai, sekitar 95 persen interval yang terbentuk akan mencakup parameter sebenarnya.
+
+Uji hipotesis membandingkan data dengan suatu asumsi awal. Nilai-p mengukur seberapa tidak selaras data yang diamati dengan model hipotesis nol, dengan asumsi model tersebut benar. Nilai-p bukan peluang bahwa hipotesis nol benar dan bukan ukuran besar atau pentingnya efek.
+
+Signifikansi statistik berbeda dari signifikansi praktis. Perbedaan kecil dapat menjadi signifikan pada sampel sangat besar, sementara efek penting dapat sulit terdeteksi pada sampel kecil. Laporkan ukuran efek, interval ketidakpastian, desain penelitian, dan keterbatasan, bukan hanya label signifikan atau tidak.
+
+RANGKUMAN
+• Inferensi selalu memiliki ketidakpastian.
+• Interval kepercayaan perlu ditafsirkan sesuai prosedurnya.
+• Nilai-p bukan peluang hipotesis benar.
+LATIHAN
+Mengapa hasil yang signifikan secara statistik belum tentu penting dalam kehidupan nyata?
+
+BAB 12. MEMBACA STATISTIK DALAM BERITA
+Angka dalam berita perlu dibaca bersama konteks. Perhatikan judul, definisi ukuran, kelompok yang diteliti, periode, metode, dan sumber. Persentase perubahan harus memiliki pembanding yang jelas. Kenaikan dari 1 menjadi 2 adalah kenaikan 100 persen, tetapi jumlah absolutnya bertambah satu.
+
+Bedakan persentase dan poin persentase. Jika tingkat partisipasi naik dari 40 persen menjadi 45 persen, kenaikannya 5 poin persentase, atau 12,5 persen secara relatif dibanding nilai awal. Kedua cara menyatakan perubahan menjawab pertanyaan berbeda.
+
+Rata-rata dapat menyembunyikan variasi. Angka nasional tidak selalu menggambarkan keadaan setiap daerah atau kelompok. Periksa median, rentang, distribusi, dan data terpilah bila tersedia. Perbandingan antarwaktu juga harus mempertimbangkan perubahan definisi dan metode.
+
+Grafik dapat menyesatkan melalui sumbu terpotong, interval tidak konsisten, pemilihan periode, atau penghilangan kategori pembanding. Klaim sebab-akibat membutuhkan bukti lebih kuat daripada sekadar dua tren yang bergerak bersama. Telusuri laporan asli dan jangan hanya mengandalkan potongan gambar grafik.
+
+RANGKUMAN
+• Angka harus dibaca bersama definisi dan konteks.
+• Persentase berbeda dari poin persentase.
+• Periksa sumber asli dan cara visualisasi.
+LATIHAN
+Sebuah berita menyatakan “angka meningkat 50 persen”. Susun lima pertanyaan yang perlu dijawab sebelum menilai pentingnya klaim itu.
+
+BAB 13. DATA DIGITAL DAN ETIKA
+Data digital dihasilkan oleh aplikasi, sensor, transaksi, perangkat, dan aktivitas daring. Data dapat sangat besar dan cepat berubah, tetapi volume besar tidak menjamin representasi yang adil. Sistem otomatis dapat mengulang bias yang terdapat dalam data pelatihan atau proses pengumpulan.
+
+Privasi berarti seseorang memiliki kepentingan atas informasi tentang dirinya. Kumpulkan data seperlunya, jelaskan tujuan, batasi akses, dan hindari menyimpan identitas jika tidak dibutuhkan. Data yang telah dihilangkan nama belum tentu anonim jika dapat digabungkan dengan informasi lain untuk mengenali seseorang.
+
+Data terbuka dapat membantu penelitian dan transparansi. Namun, periksa lisensi, ketentuan penggunaan, tanggal, kualitas, dan risiko identifikasi. Jangan menganggap semua data yang dapat diakses bebas digunakan untuk tujuan apa pun.
+
+Analisis yang bertanggung jawab melaporkan metode, keterbatasan, data hilang, dan keputusan pembersihan. Jangan mengubah grafik untuk mendukung kesimpulan tertentu. Jika terjadi kesalahan, koreksi secara terbuka. Kejujuran ilmiah lebih penting daripada hasil yang tampak mengesankan.
+
+RANGKUMAN
+• Data digital besar tetap dapat memiliki bias.
+• Privasi dan tujuan penggunaan perlu dijaga.
+• Transparansi metode merupakan bagian dari etika.
+LATIHAN
+Rancang aturan pengumpulan data kebiasaan belajar di kelas yang menjaga privasi peserta.
+
+BAB 14. PROYEK PENYELIDIKAN BERBASIS DATA
+Proyek sederhana dapat meneliti kebiasaan membaca, penggunaan transportasi, atau waktu belajar. Mulailah dengan pertanyaan yang tidak menghakimi dan dapat dijawab melalui data. Tentukan populasi, sampel, variabel, periode, serta cara memperoleh persetujuan.
+
+Buat lembar pencatatan dengan definisi yang jelas. Lakukan uji coba kecil untuk menemukan pertanyaan yang membingungkan. Catat data tanpa mengubah jawaban. Hindari mengumpulkan nama, alamat, nomor telepon, atau informasi pribadi yang tidak diperlukan.
+
+Setelah data terkumpul, periksa data hilang, nilai tidak masuk akal, dan kesalahan pengetikan. Buat tabel frekuensi dan visualisasi yang sesuai. Hitung ukuran pemusatan dan penyebaran bila relevan. Jelaskan siapa yang terwakili dan siapa yang mungkin tidak terwakili.
+
+Laporan akhir memuat pertanyaan, metode, hasil, interpretasi, keterbatasan, dan saran. Pisahkan temuan dari pendapat. Jangan menyimpulkan sebab-akibat dari survei sederhana. Sajikan hasil secara ringkas agar pembaca dapat memeriksa dasar kesimpulan.
+
+RANGKUMAN
+• Proyek dimulai dari pertanyaan dan metode yang jelas.
+• Data harus diperiksa dan dianalisis secara transparan.
+• Kesimpulan tidak boleh melampaui bukti.
+LATIHAN
+Buat rancangan satu halaman untuk survei kebiasaan membaca yang etis. Sertakan pertanyaan penelitian, sampel, variabel, dan bentuk grafik.
+
+LAMPIRAN A. RUMUS DASAR
+Rata-rata: x̄ = jumlah seluruh nilai / banyak data.
+Rentang: nilai maksimum − nilai minimum.
+IQR: kuartil ketiga − kuartil pertama.
+Skor baku: z = (x − rata-rata) / simpangan baku.
+Peluang: P(A) = banyak hasil yang mendukung / banyak hasil dalam ruang sampel (untuk hasil sama mungkin).
+Komplemen: P(bukan A) = 1 − P(A).
+Gabungan: P(A atau B) = P(A) + P(B) − P(A dan B).
+Independen: P(A dan B) = P(A) × P(B).
+
+LAMPIRAN B. LATIHAN DAN PEMBAHASAN
+1. Data kategorik: jenis kendaraan. Data numerik: jumlah buku dan durasi membaca.
+2. Sampel klub literasi cenderung memiliki minat baca lebih tinggi sehingga tidak mewakili semua siswa.
+3. Data 4, 5, 5, 6, 10 memiliki rata-rata 6, median 5, dan modus 5. Nilai 10 menarik rata-rata ke atas.
+4. Simpangan baku kelompok B lebih besar; nilainya lebih menyebar dari rata-rata dibanding kelompok A.
+5. z = (80 − 70)/5 = 2. Nilai berada dua simpangan baku di atas rata-rata.
+6. Peluang kartu merah = 3/5. Peluang bukan merah = 2/5.
+7. Hasil positif dapat berupa positif palsu; interpretasi bergantung pada akurasi tes dan prevalensi.
+8. Cuaca panas dapat meningkatkan penjualan minuman dingin dan jumlah pengunjung kolam renang.
+9. Signifikansi statistik tidak mengukur besarnya manfaat atau dampak praktis.
+10. Kenaikan 50 persen perlu diketahui nilai awal, nilai akhir, periode, kelompok, dan metode pengukuran.
+
+GLOSARIUM
+Bias: penyimpangan sistematis dalam pengumpulan atau analisis.
+Data: catatan hasil pengamatan atau pengukuran.
+Distribusi: pola persebaran nilai.
+Inferensi: penarikan kesimpulan dari sampel ke populasi.
+Interval kepercayaan: rentang yang dibentuk prosedur estimasi dengan tingkat cakupan tertentu.
+Korelasi: ukuran hubungan statistik antarvariabel.
+Median: nilai tengah data terurut.
+Modus: nilai atau kategori paling sering.
+Populasi: seluruh kelompok sasaran penelitian.
+Sampel: bagian populasi yang diamati.
+Simpangan baku: ukuran penyebaran nilai terhadap rata-rata.
+Variabel: karakteristik yang diamati atau diukur.
+
+DAFTAR RUJUKAN KONSEPTUAL
+• OpenStax, Introductory Statistics, untuk konsep statistika dasar.
+• NIST/SEMATECH, e-Handbook of Statistical Methods, untuk metode dan interpretasi.
+• Badan Pusat Statistik, publikasi dan metadata statistik resmi.
+• American Statistical Association, panduan interpretasi nilai-p dan praktik statistik.
+Naskah disusun secara orisinal oleh Tim Edukasi Nexty Studio sebagai materi pengantar. Rujukan dicantumkan untuk pendalaman dan verifikasi konsep.
+
+PENUTUP
+Literasi data bukan sekadar kemampuan menghitung. Literasi data berarti bertanya dengan tepat, memahami bagaimana angka diperoleh, mengenali ketidakpastian, dan menyampaikan hasil secara jujur. Sikap kritis membuat data menjadi alat untuk memahami dunia, bukan sekadar hiasan untuk membenarkan pendapat.

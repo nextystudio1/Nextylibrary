@@ -122,7 +122,7 @@ private fun HomeScreen(books: List<Book>, categories: List<BookCategory>, loadin
         item {
             Column(Modifier.padding(top = 21.dp)) {
                 Text("Kategori", color = Ink, fontSize = 17.sp, fontWeight = FontWeight.ExtraBold, modifier = Modifier.padding(horizontal = 20.dp))
-                Row(Modifier.fillMaxWidth().padding(top = 12.dp).horizontalScroll(rememberScrollState()), horizontalArrangement = Arrangement.spacedBy(10.dp), contentPadding = PaddingValues(horizontal = 18.dp)) {
+                Row(Modifier.fillMaxWidth().padding(top = 12.dp).horizontalScroll(rememberScrollState()).padding(horizontal = 18.dp), horizontalArrangement = Arrangement.spacedBy(10.dp)) {
                     CategoryTile("✦", "Semua", selectedCategory == null) { onCategory(null) }
                     categories.forEach { c -> CategoryTile(categoryIcon(c.name), c.name, selectedCategory == c.id) { onCategory(c.id) } }
                 }

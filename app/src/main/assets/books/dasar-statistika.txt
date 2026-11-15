@@ -106,3 +106,22 @@ LATIHAN PENDALAMAN
 2. Mengapa pencilan tidak boleh langsung dihapus? Jawaban: pencilan mungkin kesalahan, tetapi juga bisa merupakan kejadian nyata yang penting.
 3. Apa yang harus disertakan saat menyajikan grafik? Jawaban: judul, satuan, sumber, periode, dan keterangan skala yang jelas.
 4. Mengapa nilai p tidak cukup untuk menilai pentingnya hasil? Jawaban: nilai p tidak menunjukkan besar dampak atau relevansi praktis.
+
+PENDALAMAN ANALISIS DAN PENAFSIRAN
+BAB 14 — DISTRIBUSI DATA
+Distribusi menunjukkan bagaimana nilai tersebar. Bentuknya dapat simetris, menceng, memiliki satu puncak, atau beberapa puncak. Histogram dan diagram kotak membantu melihat pola, rentang, serta pencilan. Rata-rata peka terhadap nilai ekstrem, sedangkan median lebih tahan. Pilih ukuran pusat sesuai bentuk data dan pertanyaan.
+BAB 15 — PELUANG BERSYARAT
+Peluang bersyarat adalah peluang kejadian A dengan informasi B telah terjadi: P(A|B)=P(A∩B)/P(B), jika P(B)>0. Jangan menyamakan P(A|B) dengan P(B|A), sebab penyebutnya berbeda. Kekeliruan membalik peluang dapat menghasilkan kesimpulan yang salah.
+BAB 16 — DISTRIBUSI SAMPEL
+Statistik sampel berubah dari satu sampel ke sampel lain. Distribusi sampling menggambarkan variasi statistik tersebut. Teorema limit pusat menjelaskan kondisi ketika distribusi rata-rata sampel mendekati normal saat ukuran sampel cukup besar dengan persyaratan tertentu. Sampel besar tidak otomatis mengatasi bias pemilihan.
+BAB 17 — INTERVAL KEPERCAYAAN
+Interval kepercayaan adalah rentang yang dibentuk dengan prosedur yang memiliki tingkat cakupan tertentu dalam pengulangan. Interpretasinya bukan peluang parameter berada pada interval yang sudah dihitung, melainkan sifat cakupan metode dalam jangka panjang. Lebar interval dipengaruhi variasi, ukuran sampel, dan tingkat kepercayaan.
+BAB 18 — UJI HIPOTESIS
+Uji hipotesis membandingkan data dengan model nol. Nilai p menunjukkan seberapa tidak selaras data yang diamati atau lebih ekstrem dengan model nol jika asumsi berlaku. Nilai p bukan peluang hipotesis nol benar dan bukan ukuran besarnya efek. Laporkan ukuran efek dan interval ketidakpastian.
+BAB 19 — KORELASI DAN REGRESI
+Korelasi mengukur pola hubungan, tetapi tidak membuktikan sebab-akibat. Variabel ketiga, arah hubungan terbalik, dan bias pemilihan dapat menjelaskan pola. Regresi memodelkan hubungan bersyarat. Periksa asumsi, pencilan, bentuk hubungan, dan validasi pada data yang tidak dipakai membangun model.
+LATIHAN
+1. Mengapa median tahan terhadap pencilan? Karena ditentukan oleh posisi tengah, bukan besarnya semua nilai.
+2. Apa makna peluang bersyarat? Peluang suatu kejadian dengan informasi kejadian lain telah terjadi.
+3. Apakah sampel besar selalu representatif? Tidak; cara pemilihan sampel tetap menentukan bias.
+4. Apakah korelasi membuktikan sebab-akibat? Tidak.

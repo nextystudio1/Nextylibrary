@@ -107,3 +107,22 @@ LATIHAN PENDALAMAN
 2. Apa beda bahaya dan kerentanan? Jawaban: bahaya adalah potensi kejadian; kerentanan adalah kondisi yang membuat masyarakat mudah terdampak.
 3. Mengapa wilayah hulu dan hilir perlu dikelola bersama? Jawaban: perubahan air dan sedimen di hulu memengaruhi kondisi hilir.
 4. Mengapa peta harus mencantumkan tahun data? Jawaban: kondisi wilayah berubah dan data lama dapat tidak lagi mewakili keadaan sekarang.
+
+PENDALAMAN GEOGRAFI WILAYAH DAN KEBIJAKAN
+BAB 14 — KEPENDUDUKAN DAN TRANSISI DEMOGRAFI
+Dinamika penduduk dipengaruhi kelahiran, kematian, dan migrasi. Struktur umur membantu memperkirakan kebutuhan sekolah, lapangan kerja, layanan kesehatan, dan dukungan sosial. Angka agregat perlu dibaca bersama variasi antardaerah dan kelompok.
+BAB 15 — URBANISASI DAN TATA RUANG
+Urbanisasi dapat memperluas kesempatan pendidikan dan kerja, tetapi juga meningkatkan kebutuhan hunian, transportasi, air, dan layanan. Tata ruang perlu menghubungkan tempat tinggal dengan pekerjaan serta angkutan umum. Pertumbuhan kota yang tidak terkendali dapat mengurangi resapan dan memperbesar risiko banjir.
+BAB 16 — DAERAH ALIRAN SUNGAI
+Daerah aliran sungai menghubungkan wilayah hulu, tengah, dan hilir. Perubahan tutupan lahan di hulu dapat memengaruhi erosi, sedimentasi, kualitas air, dan banjir di hilir. Pengelolaan perlu melibatkan lintas wilayah administrasi karena air tidak mengikuti batas kabupaten.
+BAB 17 — PESISIR DAN LAUT
+Wilayah pesisir merupakan ruang pertemuan daratan dan laut yang mendukung perikanan, pelabuhan, pariwisata, dan ekosistem penting seperti mangrove serta terumbu karang. Tekanan berasal dari pencemaran, perubahan garis pantai, pembangunan, dan eksploitasi berlebih. Pengelolaan terpadu memperhatikan ekologi dan penghidupan masyarakat.
+BAB 18 — KETAHANAN BENCANA
+Risiko bencana dipengaruhi bahaya, paparan, dan kerentanan. Peta bahaya saja tidak cukup untuk menunjukkan risiko karena kondisi bangunan, akses evakuasi, informasi, dan kapasitas layanan juga berpengaruh. Gunakan peta resmi dan ikuti instruksi otoritas ketika terjadi peringatan.
+BAB 19 — ANALISIS SPASIAL
+Analisis spasial mengkaji pola, jarak, keterhubungan, dan perubahan wilayah. Sebelum membandingkan peta, periksa sistem koordinat, skala, resolusi, tahun data, dan metode klasifikasi. Kedekatan dua fenomena pada peta tidak otomatis menunjukkan hubungan sebab-akibat.
+LATIHAN
+1. Mengapa data umur penduduk penting bagi perencanaan? Untuk memperkirakan kebutuhan layanan menurut kelompok umur.
+2. Mengapa pengelolaan DAS harus lintas wilayah? Dampak di hulu dapat terjadi di hilir.
+3. Apa tiga unsur dasar risiko bencana? Bahaya, paparan, dan kerentanan.
+4. Mengapa tahun data peta harus diperiksa? Kondisi wilayah berubah seiring waktu.

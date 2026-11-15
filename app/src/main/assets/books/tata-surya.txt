@@ -216,3 +216,15 @@ LATIHAN
 1. Apa penyebab utama musim di Bumi? Jawaban: kemiringan sumbu rotasi Bumi terhadap bidang orbit.
 2. Apa beda asteroid dan komet secara umum? Jawaban: asteroid umumnya berbatu atau logam, komet mengandung es dan debu.
 3. Mengapa perlindungan planet penting? Jawaban: untuk menghindari kontaminasi yang dapat mengganggu penelitian dan lingkungan.
+
+BAB LANJUTAN: GRAVITASI DAN DINAMIKA ORBIT
+Gravitasi menjaga planet dan benda kecil pada lintasan orbit. Orbit terbentuk dari gabungan kecepatan tangensial dan tarikan gravitasi. Benda tidak perlu terus didorong mesin agar tetap bergerak; lintasan berubah karena gaya gravitasi dan kondisi gerak awal.
+Hukum Kepler menjelaskan bahwa orbit planet berbentuk elips dengan Matahari pada salah satu fokus, garis penghubung planet-Matahari menyapu luas yang sama dalam waktu yang sama, dan periode orbit berkaitan dengan ukuran orbit. Hukum gravitasi Newton menjelaskan hubungan gaya dengan massa dan jarak.
+PLANET DAN BENDA KECIL
+Planet dibedakan dari planet katai antara lain karena planet telah membersihkan lingkungan orbitnya, sedangkan planet katai belum. Asteroid, komet, dan meteoroid menyimpan petunjuk tentang tahap awal pembentukan Tata Surya. Atmosfer, medan magnet, aktivitas geologi, dan jarak dari Matahari memengaruhi kondisi setiap dunia.
+PENGAMATAN LANGIT YANG AMAN
+Gunakan peta langit atau simulasi untuk mengenali planet. Jangan pernah melihat Matahari secara langsung melalui teleskop, kamera, atau teropong tanpa sistem filter surya yang dirancang khusus dan dipasang dengan benar di bagian depan alat. Pengamatan Matahari harus menggunakan peralatan dan pengawasan yang sesuai.
+LATIHAN
+1. Mengapa planet tetap mengorbit Matahari? Jawaban: kecepatan gerak menyamping dan gravitasi bersama-sama membentuk lintasan orbit.
+2. Apa perbedaan planet dan planet katai? Jawaban: planet telah membersihkan lingkungan orbitnya, sedangkan planet katai belum.
+3. Mengapa pengamatan Matahari memerlukan perlindungan khusus? Jawaban: cahaya Matahari dapat merusak penglihatan dan sensor optik secara permanen.

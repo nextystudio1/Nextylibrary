@@ -500,3 +500,15 @@ LATIHAN
 1. Apa beda hipotesis dan prediksi? Jawaban: hipotesis adalah penjelasan yang diuji; prediksi adalah hasil yang diharapkan jika hipotesis benar.
 2. Mengapa eksperimen perlu kelompok pembanding? Jawaban: membantu menilai perubahan yang berkaitan dengan perlakuan.
 3. Mengapa sumbu grafik harus diberi satuan? Jawaban: agar pembaca mengetahui makna dan skala data.
+
+BAB LANJUTAN: MERANCANG PENYELIDIKAN YANG DAPAT DIULANG
+Penyelidikan yang baik dimulai dari pertanyaan terukur. Tentukan variabel bebas, variabel terikat, dan faktor yang perlu dijaga tetap. Buat definisi operasional: jelaskan tepat bagaimana sesuatu diukur. Istilah seperti “lebih baik” harus diterjemahkan menjadi ukuran yang dapat diamati, misalnya waktu, massa, suhu, atau jumlah kejadian.
+Ulangan pengukuran membantu mengetahui variasi alami dan kesalahan acak. Kalibrasi alat, prosedur konsisten, serta pencatatan kondisi pengukuran membantu mengurangi kesalahan sistematis. Jangan menghapus data hanya karena tidak sesuai dugaan. Tandai data yang meragukan, periksa prosedurnya, dan jelaskan alasan bila suatu data dikecualikan.
+MEMBACA BUKTI ILMIAH
+Periksa siapa yang melakukan penelitian, bagaimana sampel dipilih, berapa besar sampel, apa pembandingnya, dan apakah metode dijelaskan. Bedakan hasil penelitian dari interpretasi penulis. Temuan satu kelompok perlu dibandingkan dengan penelitian lain, terutama jika hasilnya berdampak pada keputusan publik.
+PROYEK: PENGARUH CAHAYA PADA PERTUMBUHAN TANAMAN
+Rancang pengamatan sederhana dengan jenis tanaman dan media yang sama. Catat intensitas atau jarak sumber cahaya, lama pengamatan, tinggi tanaman, serta kondisi air. Jangan menyimpulkan sebab hanya dari dua tanaman; gunakan ulangan dan akui keterbatasan. Kegiatan dilakukan dengan aman dan tanpa merusak lingkungan.
+LATIHAN PEMAHAMAN
+1. Apa fungsi definisi operasional? Jawaban: membuat konsep dapat diukur dengan prosedur yang jelas.
+2. Mengapa data yang tidak sesuai hipotesis tidak boleh disembunyikan? Jawaban: karena semua data relevan diperlukan untuk evaluasi yang jujur.
+3. Apa beda kesalahan acak dan sistematis? Jawaban: kesalahan acak bervariasi antar pengukuran, sedangkan sistematis menggeser hasil secara konsisten.

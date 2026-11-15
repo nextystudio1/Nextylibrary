@@ -7,7 +7,9 @@ Aplikasi Android perpustakaan digital dan pembaca buku dari Nexty Studio.
 - Semua buku dan fitur membaca tersedia gratis; tidak ada bab terkunci atau kewajiban menonton iklan.
 - Donasi bersifat sukarela, opsional, dan tidak memberikan keuntungan khusus atau membuka konten.
 - Jangan menambahkan SDK iklan, iklan rewarded, interstitial, banner, atau mekanisme promosi paksa.
-- Fitur donasi direncanakan sebagai dukungan sukarela. Penyedia pembayaran, ketentuan usia, perlindungan pengguna, dan kebijakan platform harus ditinjau sebelum integrasi. Jangan menyimpan data kartu atau kredensial pembayaran di aplikasi.
+- Fitur donasi direncanakan menggunakan QRIS: halaman Donasi menampilkan gambar QRIS resmi milik penerima, nama penerima, dan petunjuk singkat untuk memindai melalui aplikasi pembayaran. Donasi bersifat sukarela; semua buku dan fitur tetap gratis.
+- QRIS tidak boleh dibuat-buat atau memakai kode milik pihak lain. Integrasi menunggu gambar QRIS resmi dan nama penerima yang telah diverifikasi dari penyedia pembayaran/merchant yang sah. Jangan pernah menaruh PIN, kata sandi, OTP, atau data rahasia pembayaran di aplikasi.
+- Pendaftaran merchant dan penerimaan dana harus dilakukan oleh pemilik akun yang berwenang; bila pengembang belum memenuhi syarat usia, minta orang tua/wali atau badan yang sah untuk mengurusnya.
 
 ## Teknologi
 - Kotlin + Jetpack Compose

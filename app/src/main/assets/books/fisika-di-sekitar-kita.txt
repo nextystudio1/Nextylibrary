@@ -1,0 +1,295 @@
+FISIKA DI SEKITAR KITA
+Memahami Gerak, Energi, Gelombang, Listrik, dan Alam Semesta
+Penulis: Tim Edukasi Nexty Studio
+Edisi pertama, 2026
+
+PENGANTAR
+Fisika mempelajari materi, energi, gerak, gaya, gelombang, dan interaksi alam. Banyak hal yang kita temui setiap hari dapat dijelaskan melalui konsep fisika: sepeda yang melaju, air yang mendidih, suara musik, cahaya, dan perangkat elektronik. Buku ini merupakan pengantar konseptual. Persamaan digunakan untuk menjelaskan hubungan, bukan sekadar dihafalkan.
+
+DAFTAR ISI
+1. Cara Kerja Ilmu Fisika
+2. Besaran, Satuan, dan Pengukuran
+3. Gerak dan Kecepatan
+4. Percepatan dan Hukum Newton
+5. Gaya dalam Kehidupan
+6. Usaha, Energi, dan Daya
+7. Momentum dan Tumbukan
+8. Tekanan dan Fluida
+9. Suhu dan Kalor
+10. Gelombang dan Bunyi
+11. Cahaya dan Optika
+12. Listrik dan Kemagnetan
+13. Fisika Bumi dan Antariksa
+14. Eksperimen, Keselamatan, dan Penalaran
+Lampiran: Rumus, Latihan, Glosarium
+
+BAB 1. CARA KERJA ILMU FISIKA
+Fisika adalah ilmu yang berusaha menjelaskan gejala alam melalui pengamatan, pengukuran, model, dan pengujian. Model ilmiah menyederhanakan kenyataan agar hubungan penting dapat dipelajari. Model selalu memiliki batas. Model gerak benda tanpa hambatan udara, misalnya, berguna untuk memahami prinsip awal, tetapi tidak menggambarkan seluruh keadaan nyata.
+
+Proses ilmiah tidak selalu berupa urutan kaku. Peneliti mengajukan pertanyaan, mengumpulkan bukti, menyusun hipotesis, merancang pengujian, menganalisis data, dan memperbaiki penjelasan. Hasil yang baik dapat diperiksa oleh orang lain. Pengukuran berulang membantu memperkirakan variasi dan mengurangi pengaruh kesalahan acak.
+
+Teori dalam sains bukan sekadar tebakan. Teori adalah kerangka penjelasan luas yang didukung banyak bukti dan dapat diuji. Hukum ilmiah merangkum pola atau hubungan yang teramati. Keduanya memiliki fungsi berbeda dan tidak berarti satu selalu berubah menjadi yang lain.
+
+RANGKUMAN
+• Fisika menghubungkan pengamatan dengan model dan pengujian.
+• Setiap model memiliki asumsi dan batas.
+• Bukti dan pengulangan penting dalam sains.
+LATIHAN
+Mengapa model sederhana tetap berguna meskipun tidak menggambarkan semua detail kenyataan?
+
+BAB 2. BESARAN, SATUAN, DAN PENGUKURAN
+Besaran adalah sesuatu yang dapat diukur dan dinyatakan dengan angka serta satuan. Sistem Internasional (SI) menggunakan satuan dasar seperti meter untuk panjang, kilogram untuk massa, sekon untuk waktu, ampere untuk arus listrik, kelvin untuk suhu, mol untuk jumlah zat, dan kandela untuk intensitas cahaya.
+
+Satuan membuat hasil dapat dibandingkan. Menulis panjang 12 tanpa satuan tidak cukup jelas. Angka 12 meter berbeda dari 12 sentimeter. Konversi harus memperhatikan hubungan antar satuan. Satu kilometer sama dengan 1.000 meter, sedangkan satu jam sama dengan 3.600 sekon.
+
+Alat ukur memiliki resolusi dan ketidakpastian. Penggaris dengan skala milimeter tidak mendukung klaim ketelitian hingga sepersejuta meter. Catat angka sesuai kemampuan alat, hindari ketelitian palsu, dan ulangi pengukuran bila memungkinkan. Kesalahan sistematis dapat berasal dari alat yang tidak terkalibrasi; kesalahan acak menyebabkan hasil pengukuran berfluktuasi.
+
+Besaran skalar hanya memiliki nilai, seperti massa dan suhu. Besaran vektor memiliki nilai dan arah, seperti perpindahan, kecepatan, dan gaya. Arah penting saat menggabungkan vektor.
+
+RANGKUMAN
+• Setiap hasil ukur harus disertai satuan.
+• Ketelitian hasil dibatasi alat dan metode.
+• Skalar berbeda dari vektor.
+LATIHAN
+Ubah 2,5 km menjadi meter. Jelaskan mengapa kecepatan dan kelajuan tidak selalu bermakna sama.
+
+BAB 3. GERAK DAN KECEPATAN
+Gerak adalah perubahan posisi terhadap titik acuan selama waktu tertentu. Karena titik acuan dapat berbeda, deskripsi gerak harus menyebutkan acuan. Penumpang yang duduk di bus diam relatif terhadap kursi, tetapi bergerak relatif terhadap jalan.
+
+Jarak adalah panjang lintasan yang ditempuh, sedangkan perpindahan adalah perubahan posisi dari awal ke akhir beserta arah. Kelajuan rata-rata adalah jarak dibagi waktu. Kecepatan rata-rata adalah perpindahan dibagi waktu. Jika seseorang berjalan satu putaran penuh mengelilingi lapangan dan kembali ke titik awal, jaraknya tidak nol tetapi perpindahannya nol.
+
+Gerak lurus beraturan memiliki kecepatan tetap. Hubungan jarak untuk gerak demikian adalah s = v × t. Jika kendaraan bergerak dengan kelajuan 10 meter per sekon selama 8 sekon, jarak tempuhnya 80 meter. Dalam situasi nyata, kecepatan dapat berubah karena percepatan, pengereman, atau kondisi jalan.
+
+Grafik posisi terhadap waktu menunjukkan perubahan posisi. Kemiringan grafik menyatakan kecepatan. Grafik kecepatan terhadap waktu dapat digunakan untuk memahami perubahan kecepatan dan perpindahan.
+
+RANGKUMAN
+• Gerak selalu dinilai terhadap acuan.
+• Jarak berbeda dari perpindahan.
+• Kelajuan adalah skalar, kecepatan memiliki arah.
+LATIHAN
+Seseorang berjalan 100 meter ke timur lalu 100 meter kembali ke barat. Tentukan jarak dan perpindahannya.
+
+BAB 4. PERCEPATAN DAN HUKUM NEWTON
+Percepatan menyatakan perubahan kecepatan tiap satuan waktu. Jika kecepatan berubah dari 2 m/s menjadi 8 m/s dalam 3 sekon, percepatan rata-ratanya (8 - 2)/3 = 2 m/s². Percepatan dapat terjadi ketika kelajuan berubah, arah berubah, atau keduanya.
+
+Hukum pertama Newton menyatakan bahwa benda mempertahankan keadaan diam atau gerak lurus beraturan jika resultan gaya yang bekerja padanya nol. Sifat mempertahankan keadaan gerak disebut inersia. Penumpang terasa terdorong ke depan ketika kendaraan direm karena tubuh cenderung mempertahankan geraknya.
+
+Hukum kedua Newton menghubungkan resultan gaya, massa, dan percepatan: F = m × a. Untuk massa 2 kg yang mengalami percepatan 3 m/s², resultan gayanya 6 newton. Persamaan ini berlaku dalam kerangka acuan inersial pada kondisi yang sesuai.
+
+Hukum ketiga Newton menyatakan bahwa ketika benda A memberi gaya pada benda B, benda B memberi gaya sama besar dan berlawanan arah pada A. Pasangan gaya bekerja pada benda berbeda, sehingga tidak saling menghapus pada satu benda yang sama.
+
+RANGKUMAN
+• Resultan gaya nol berarti percepatan nol.
+• Gaya, massa, dan percepatan berhubungan melalui F = ma.
+• Gaya aksi dan reaksi bekerja pada dua benda berbeda.
+LATIHAN
+Berapa gaya resultan yang diperlukan untuk mempercepat massa 5 kg sebesar 2 m/s²?
+
+BAB 5. GAYA DALAM KEHIDUPAN
+Gaya adalah interaksi yang dapat mengubah gerak atau bentuk benda. Gaya berat merupakan gaya gravitasi pada benda dan dekat permukaan bumi dapat diperkirakan dengan w = m × g. Massa diukur dalam kilogram, sedangkan berat adalah gaya dengan satuan newton.
+
+Gaya normal adalah gaya kontak tegak lurus permukaan. Gaya gesek muncul ketika permukaan bersentuhan dan dapat menghambat gerak relatif atau kecenderungan bergerak. Gesekan juga bermanfaat: tanpa gesekan antara sepatu dan lantai, berjalan menjadi sulit. Besar gaya gesek bergantung pada bahan, kondisi permukaan, dan gaya tekan.
+
+Tegangan tali bekerja sepanjang tali yang tegang. Gaya pegas dapat mengikuti hukum Hooke dalam batas elastis: F = kx, dengan k konstanta pegas dan x perubahan panjang dari posisi setimbang. Tidak semua bahan selalu mengikuti hubungan linear.
+
+Diagram benda bebas membantu menganalisis gaya. Gambarkan benda sebagai titik atau bentuk sederhana, lalu tunjukkan setiap gaya dari lingkungan. Jangan menggambar gaya yang diberikan benda pada benda lain sebagai gaya yang bekerja pada benda yang sedang dianalisis.
+
+RANGKUMAN
+• Gaya merupakan interaksi.
+• Massa dan berat adalah besaran berbeda.
+• Diagram benda bebas membantu menghindari kekeliruan.
+LATIHAN
+Sebutkan gaya yang bekerja pada buku yang diam di atas meja. Mengapa gaya normal tidak selalu sama dengan berat dalam semua keadaan?
+
+BAB 6. USAHA, ENERGI, DAN DAYA
+Dalam fisika, usaha oleh gaya konstan searah perpindahan dinyatakan W = F × s. Jika gaya membentuk sudut terhadap perpindahan, komponen gaya searah perpindahan yang berkontribusi. Mendorong tembok yang tidak berpindah dapat melelahkan tubuh, tetapi usaha mekanik pada tembok dalam model sederhana bernilai nol karena perpindahannya nol.
+
+Energi adalah besaran yang berkaitan dengan kemampuan sistem mengalami perubahan atau melakukan usaha. Energi kinetik benda bermassa m yang bergerak dengan kelajuan v adalah Ek = 1/2 mv². Energi potensial gravitasi dekat permukaan bumi adalah Ep = mgh terhadap acuan ketinggian yang dipilih.
+
+Hukum kekekalan energi menyatakan energi total sistem terisolasi tetap, meskipun dapat berubah bentuk. Pada ayunan, energi potensial dan kinetik saling berubah. Sebagian energi mekanik dapat berpindah menjadi energi termal akibat gesekan dan hambatan udara.
+
+Daya adalah laju melakukan usaha atau memindahkan energi: P = W/t. Dua mesin dapat melakukan usaha sama tetapi memiliki daya berbeda jika waktu yang diperlukan berbeda. Dalam penggunaan energi sehari-hari, efisiensi membandingkan keluaran berguna dengan masukan energi.
+
+RANGKUMAN
+• Usaha bergantung pada gaya dan perpindahan.
+• Energi dapat berubah bentuk dan berpindah.
+• Daya menyatakan laju pemindahan energi.
+LATIHAN
+Hitung energi kinetik benda bermassa 2 kg dengan kelajuan 3 m/s. Jelaskan perbedaan energi dan daya.
+
+BAB 7. MOMENTUM DAN TUMBUKAN
+Momentum linear adalah hasil kali massa dan kecepatan: p = m × v. Momentum merupakan vektor. Benda bermassa besar yang bergerak lambat dapat memiliki momentum yang sebanding dengan benda ringan yang bergerak cepat.
+
+Impuls adalah perubahan momentum dan untuk gaya rata-rata dapat ditulis I = F × Δt. Memperpanjang waktu perubahan momentum dapat mengurangi besar gaya rata-rata untuk perubahan momentum yang sama. Prinsip ini menjelaskan manfaat bantalan dan zona remuk pada rancangan keselamatan kendaraan, tanpa menghilangkan kebutuhan berkendara hati-hati.
+
+Hukum kekekalan momentum berlaku pada sistem dengan resultan gaya luar yang dapat diabaikan. Pada tumbukan, momentum total sebelum dan sesudah sama. Energi kinetik dapat tetap sama pada tumbukan lenting sempurna, tetapi sebagian berubah menjadi bentuk lain pada tumbukan tidak lenting.
+
+Analisis tumbukan harus menentukan batas sistem dan arah positif. Tanda kecepatan menunjukkan arah. Mengabaikan arah dapat menghasilkan jawaban keliru.
+
+RANGKUMAN
+• Momentum bergantung pada massa dan kecepatan.
+• Impuls mengubah momentum.
+• Momentum total sistem terisolasi tetap.
+LATIHAN
+Mengapa arah perlu diperhatikan ketika menjumlahkan momentum dua benda?
+
+BAB 8. TEKANAN DAN FLUIDA
+Tekanan adalah gaya tegak lurus per satuan luas: P = F/A. Gaya yang sama pada luas lebih kecil menghasilkan tekanan lebih besar. Tekanan fluida diam bertambah dengan kedalaman karena semakin banyak fluida berada di atas titik tersebut.
+
+Massa jenis adalah massa per volume: ρ = m/V. Benda dapat terapung jika gaya apung mampu menyeimbangkan beratnya. Prinsip Archimedes menyatakan gaya apung sama dengan berat fluida yang dipindahkan. Bentuk benda dan massa jenis rata-rata memengaruhi apakah benda terapung atau tenggelam.
+
+Hukum Pascal menjelaskan bahwa perubahan tekanan pada fluida tertutup diteruskan ke segala arah. Prinsip ini digunakan pada sistem hidrolik. Fluida nyata memiliki viskositas, yaitu ukuran hambatan aliran internal. Aliran dipengaruhi bentuk saluran, perbedaan tekanan, dan sifat fluida.
+
+RANGKUMAN
+• Tekanan adalah gaya per luas.
+• Massa jenis membandingkan massa dengan volume.
+• Gaya apung berkaitan dengan fluida yang dipindahkan.
+LATIHAN
+Mengapa kapal baja dapat terapung meskipun baja lebih rapat daripada air? Jelaskan menggunakan massa jenis rata-rata.
+
+BAB 9. SUHU DAN KALOR
+Suhu berkaitan dengan keadaan termal suatu benda, sedangkan kalor adalah energi yang berpindah karena perbedaan suhu. Kalor mengalir spontan dari benda bersuhu lebih tinggi ke benda bersuhu lebih rendah hingga tercapai kesetimbangan termal.
+
+Skala Celsius dan Kelvin memiliki ukuran interval yang sama, tetapi titik nol berbeda. Hubungannya K = °C + 273,15. Suhu bukan ukuran langsung jumlah energi total benda; massa dan jenis zat juga berpengaruh.
+
+Kalor untuk mengubah suhu tanpa perubahan fase dapat diperkirakan dengan Q = m c ΔT. Kalor jenis c menunjukkan energi yang diperlukan untuk menaikkan suhu satu kilogram zat sebesar satu kelvin. Saat perubahan fase, energi dapat digunakan untuk mengubah susunan zat tanpa mengubah suhu selama proses berlangsung pada tekanan tetap.
+
+Perpindahan kalor terjadi melalui konduksi, konveksi, dan radiasi. Konduksi dominan pada kontak langsung, konveksi melibatkan gerak fluida, sedangkan radiasi menggunakan gelombang elektromagnetik dan tidak memerlukan medium.
+
+RANGKUMAN
+• Suhu berbeda dari kalor.
+• Kalor dapat mengubah suhu atau fase.
+• Kalor berpindah melalui konduksi, konveksi, dan radiasi.
+LATIHAN
+Mengapa gagang panci sering dibuat dari bahan yang kurang menghantarkan panas?
+
+BAB 10. GELOMBANG DAN BUNYI
+Gelombang membawa energi dan informasi tanpa harus memindahkan materi secara keseluruhan dari satu tempat ke tempat lain. Gelombang transversal memiliki getaran tegak lurus arah rambat, sedangkan gelombang longitudinal memiliki getaran sejajar arah rambat.
+
+Besaran gelombang meliputi amplitudo, panjang gelombang, frekuensi, dan periode. Hubungan cepat rambat adalah v = fλ. Frekuensi menyatakan jumlah getaran tiap sekon dan satuannya hertz. Periode adalah waktu untuk satu getaran.
+
+Bunyi adalah gelombang mekanik yang memerlukan medium. Bunyi tidak merambat di ruang hampa. Tinggi nada berkaitan dengan frekuensi, sedangkan kuat bunyi berkaitan dengan intensitas dan persepsi pendengaran. Kecepatan rambat bunyi bergantung pada medium dan kondisi.
+
+Pemantulan bunyi menghasilkan gema atau gaung. Resonansi terjadi ketika sistem mendapat getaran dengan frekuensi yang sesuai dengan frekuensi alaminya sehingga amplitudo dapat meningkat. Paparan bunyi terlalu keras dapat merusak pendengaran; perlindungan dan pengaturan volume penting.
+
+RANGKUMAN
+• Gelombang membawa energi.
+• Bunyi memerlukan medium.
+• Frekuensi berkaitan dengan tinggi nada.
+LATIHAN
+Gelombang memiliki frekuensi 5 Hz dan panjang gelombang 2 m. Berapa cepat rambatnya?
+
+BAB 11. CAHAYA DAN OPTIKA
+Cahaya adalah gelombang elektromagnetik yang dapat merambat di ruang hampa. Cahaya tampak merupakan bagian kecil dari spektrum elektromagnetik. Cahaya dapat dipantulkan, dibiaskan, diserap, dan diteruskan.
+
+Hukum pemantulan menyatakan sudut datang sama dengan sudut pantul, diukur terhadap garis normal. Pembiasan terjadi ketika cahaya berubah arah saat memasuki medium dengan indeks bias berbeda. Hubungan dasar pembiasan dijelaskan oleh hukum Snellius: n1 sin θ1 = n2 sin θ2.
+
+Lensa cembung dapat mengumpulkan berkas sejajar, sedangkan lensa cekung menyebarkan berkas sejajar. Cermin dan lensa membentuk bayangan dengan sifat bergantung pada posisi benda dan karakter alat optik. Mata manusia menggunakan lensa untuk memfokuskan cahaya pada retina.
+
+Warna berkaitan dengan spektrum cahaya dan respons penglihatan. Benda tampak berwarna karena memantulkan atau meneruskan sebagian panjang gelombang dan menyerap bagian lain. Pencahayaan serta karakter permukaan dapat mengubah persepsi warna.
+
+RANGKUMAN
+• Cahaya dapat dipantulkan dan dibiaskan.
+• Sudut diukur dari garis normal.
+• Lensa mengubah arah berkas cahaya.
+LATIHAN
+Mengapa pensil di dalam gelas berisi air tampak bengkok jika dilihat dari samping?
+
+BAB 12. LISTRIK DAN KEMAGNETAN
+Muatan listrik dapat positif atau negatif. Muatan sejenis saling tolak dan muatan berbeda jenis saling tarik. Arus listrik adalah laju aliran muatan. Tegangan menyatakan perbedaan potensial listrik, sedangkan hambatan menggambarkan kesulitan aliran arus.
+
+Hukum Ohm untuk komponen ohmik pada kondisi sesuai adalah V = I R. Daya listrik dapat ditulis P = V I. Rangkaian seri memiliki arus sama pada setiap komponen, sedangkan rangkaian paralel memiliki tegangan sama pada cabang-cabangnya. Perhitungan rangkaian harus memperhatikan nilai dan susunan komponen.
+
+Magnet memiliki kutub utara dan selatan. Arus listrik dapat menghasilkan medan magnet. Perubahan fluks magnetik dapat menginduksi gaya gerak listrik. Prinsip induksi elektromagnetik digunakan pada generator dan transformator.
+
+Keselamatan listrik sangat penting. Jangan menyentuh kabel rusak, stopkontak terbuka, atau perangkat listrik dengan tangan basah. Eksperimen listrik rumah tangga bertegangan tinggi tidak boleh dilakukan. Pelajari konsep melalui simulasi atau rangkaian pendidikan bertegangan rendah dengan pengawasan yang tepat.
+
+RANGKUMAN
+• Arus, tegangan, dan hambatan adalah konsep berbeda.
+• Rangkaian seri dan paralel memiliki sifat berbeda.
+• Listrik harus dipelajari dengan prosedur keselamatan.
+LATIHAN
+Jika tegangan 12 V dan hambatan 4 Ω, berapa arus pada komponen ohmik?
+
+BAB 13. FISIKA BUMI DAN ANTARIKSA
+Gravitasi adalah interaksi tarik-menarik antara benda bermassa. Gravitasi menjaga planet mengorbit bintang dan satelit mengorbit planet. Orbit merupakan gerak akibat kombinasi kecepatan tangensial dan tarikan gravitasi, bukan karena benda terus-menerus didorong oleh mesin.
+
+Bumi berotasi pada sumbunya dan berevolusi mengelilingi Matahari. Rotasi berkaitan dengan pergantian siang dan malam, sedangkan kemiringan sumbu bumi bersama revolusi menyebabkan variasi musim. Fase Bulan terjadi karena bagian Bulan yang diterangi Matahari terlihat berbeda dari Bumi, bukan karena bayangan Bumi setiap malam.
+
+Gelombang seismik membantu ilmuwan mempelajari bagian dalam bumi. Gempa terjadi ketika energi dilepaskan akibat proses geologi. Cuaca dipengaruhi energi Matahari, atmosfer, air, dan permukaan bumi. Iklim menggambarkan pola statistik cuaca dalam jangka panjang.
+
+Astronomi mempelajari benda langit dan alam semesta. Cahaya dari bintang membawa informasi tentang suhu, komposisi, dan geraknya. Pengamatan menggunakan teleskop pada berbagai panjang gelombang memperluas pengetahuan tentang kosmos.
+
+RANGKUMAN
+• Gravitasi berperan dalam orbit benda langit.
+• Rotasi bumi berkaitan dengan siang dan malam.
+• Astronomi menggunakan cahaya dan data untuk mempelajari alam semesta.
+LATIHAN
+Jelaskan mengapa fase Bulan berubah sepanjang bulan.
+
+BAB 14. EKSPERIMEN, KESELAMATAN, DAN PENALARAN
+Eksperimen yang baik memiliki pertanyaan jelas, variabel yang ditentukan, metode yang dapat diulang, dan pencatatan data. Variabel bebas diubah secara sengaja, variabel terikat diukur, dan variabel kontrol dijaga agar pengaruhnya dapat dipisahkan.
+
+Contoh proyek aman adalah mengamati hubungan panjang tali dengan periode ayunan menggunakan bandul sederhana yang ringan dan ruang cukup. Ubah satu panjang pada satu waktu, ukur beberapa ayunan, ulangi pengukuran, lalu hitung rata-rata. Jangan menggunakan benda berat atau melakukan percobaan di tempat yang dapat membahayakan orang.
+
+Grafik membantu melihat pola. Sumbu harus diberi label dan satuan. Jangan menghapus data yang tidak sesuai dugaan tanpa alasan metodologis. Hasil yang berbeda dari perkiraan dapat menjadi petunjuk untuk memperbaiki model atau metode.
+
+Keselamatan harus menjadi bagian rancangan. Hindari listrik rumah, api terbuka, bahan kimia berbahaya, tekanan tinggi, dan alat yang tidak dipahami. Gunakan simulasi pendidikan atau demonstrasi sederhana dengan bahan aman serta pengawasan orang dewasa atau guru.
+
+RANGKUMAN
+• Eksperimen perlu variabel dan prosedur jelas.
+• Ulangi pengukuran dan catat hasil sebenarnya.
+• Keselamatan lebih penting daripada memperoleh data.
+LATIHAN
+Rancang pengamatan sederhana tentang pendinginan air hangat tanpa menggunakan api atau alat listrik. Tentukan variabel yang diubah dan diukur.
+
+LAMPIRAN A. RUMUS PILIHAN
+Kelajuan rata-rata = jarak / waktu.
+Percepatan rata-rata = perubahan kecepatan / waktu.
+Resultan gaya = massa × percepatan.
+Berat dekat permukaan bumi = massa × percepatan gravitasi.
+Energi kinetik = 1/2 × massa × kecepatan².
+Energi potensial gravitasi = massa × gravitasi × ketinggian.
+Daya = usaha / waktu.
+Momentum = massa × kecepatan.
+Tekanan = gaya / luas.
+Massa jenis = massa / volume.
+Kalor perubahan suhu = massa × kalor jenis × perubahan suhu.
+Cepat rambat gelombang = frekuensi × panjang gelombang.
+Hukum Ohm: tegangan = arus × hambatan.
+
+LAMPIRAN B. LATIHAN DAN PEMBAHASAN
+1. 2,5 km = 2.500 m.
+2. Jarak perjalanan pergi-pulang 200 m, perpindahan 0 m.
+3. Gaya untuk massa 5 kg dan percepatan 2 m/s² adalah 10 N.
+4. Energi kinetik massa 2 kg pada 3 m/s adalah 9 J.
+5. Gelombang 5 Hz dengan panjang 2 m memiliki cepat rambat 10 m/s.
+6. Arus pada tegangan 12 V dan hambatan 4 Ω adalah 3 A.
+7. Berat benda bermassa 3 kg dekat bumi dengan g sekitar 10 m/s² adalah sekitar 30 N.
+8. Jika usaha 100 J dilakukan dalam 5 s, daya rata-rata 20 W.
+9. Massa jenis benda 200 g dengan volume 100 cm³ adalah 2 g/cm³.
+10. Kalor untuk memanaskan 1 kg air sebesar 2°C, dengan c sekitar 4.200 J/kg°C, adalah 8.400 J.
+
+GLOSARIUM
+Amplitudo: simpangan maksimum gelombang.
+Arus: laju aliran muatan listrik.
+Energi: besaran yang berkaitan dengan perubahan dan kemampuan melakukan usaha.
+Frekuensi: jumlah getaran per satuan waktu.
+Gaya: interaksi yang dapat mengubah gerak atau bentuk.
+Kalor: energi yang berpindah karena perbedaan suhu.
+Massa: ukuran kelembaman benda.
+Momentum: hasil kali massa dan kecepatan.
+Percepatan: perubahan kecepatan per satuan waktu.
+Perpindahan: perubahan posisi beserta arah.
+Tekanan: gaya tegak lurus per satuan luas.
+Vektor: besaran yang memiliki nilai dan arah.
+
+DAFTAR RUJUKAN KONSEPTUAL
+• OpenStax, College Physics, untuk pendalaman konsep fisika dasar.
+• NIST, International System of Units (SI), untuk standar satuan.
+• NASA, materi pendidikan sains bumi dan antariksa.
+• PhET Interactive Simulations, untuk simulasi konsep fisika.
+Rujukan dicantumkan untuk belajar lebih lanjut; naskah ini ditulis secara orisinal oleh Tim Edukasi Nexty Studio.
+
+PENUTUP
+Fisika membantu kita mengajukan pertanyaan yang tepat tentang dunia. Rumus menjadi bermakna ketika dihubungkan dengan pengamatan, satuan, dan alasan. Biasakan memeriksa asumsi, mencatat data apa adanya, dan mengutamakan keselamatan dalam setiap kegiatan belajar.

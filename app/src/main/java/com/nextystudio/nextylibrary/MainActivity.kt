@@ -24,6 +24,7 @@ import androidx.compose.foundation.clickable
 import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.CircleShape
@@ -746,6 +747,41 @@ private fun prepareReaderSections(raw: String, title: String): List<ReaderSectio
 }
 
 @Composable
+private fun PdfPageImage(renderer: PdfRenderer, pageIndex: Int, modifier: Modifier = Modifier) {
+    var bitmap by remember(renderer, pageIndex) { mutableStateOf<Bitmap?>(null) }
+    var failed by remember(renderer, pageIndex) { mutableStateOf(false) }
+    LaunchedEffect(renderer, pageIndex) {
+        bitmap = withContext(Dispatchers.IO) {
+            synchronized(renderer) {
+                val page = renderer.openPage(pageIndex)
+                try {
+                    val width = 1000
+                    val height = (width.toFloat() * page.height / page.width).toInt().coerceAtLeast(1)
+                    Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888).also { image ->
+                        image.eraseColor(android.graphics.Color.WHITE)
+                        page.render(image, null, null, PdfRenderer.Page.RENDER_MODE_FOR_DISPLAY)
+                    }
+                } finally { page.close() }
+            }
+        }
+        failed = bitmap == null
+    }
+    if (bitmap != null) {
+        Image(
+            bitmap = bitmap!!.asImageBitmap(),
+            contentDescription = "Halaman buku ${pageIndex + 1}",
+            modifier = modifier.clip(RoundedCornerShape(5.dp)).shadow(2.dp)
+        )
+    } else if (failed) {
+        Text("Halaman ${pageIndex + 1} tidak dapat ditampilkan.", color = Muted, modifier = modifier.padding(18.dp))
+    } else {
+        Box(modifier.fillMaxWidth().height(420.dp), contentAlignment = Alignment.Center) {
+            CircularProgressIndicator(color = Green)
+        }
+    }
+}
+
+@Composable
 private fun PdfBookReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () -> Unit, onBack: () -> Unit) {
     val context = LocalContext.current
     var pdfFile by remember(book.id) { mutableStateOf<File?>(null) }
@@ -753,7 +789,10 @@ private fun PdfBookReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle
     var descriptor by remember(book.id) { mutableStateOf<ParcelFileDescriptor?>(null) }
     var pageCount by remember(book.id) { mutableIntStateOf(0) }
     var pageIndex by remember(book.id) { mutableIntStateOf(0) }
-    var pageBitmap by remember(book.id) { mutableStateOf<Bitmap?>(null) }
+    var readerMode by remember(book.id) { mutableStateOf(
+        context.getSharedPreferences("reader_preferences", android.content.Context.MODE_PRIVATE)
+            .getString("mode", "gulir") ?: "gulir"
+    ) }
     var loading by remember(book.id) { mutableStateOf(true) }
     var error by remember(book.id) { mutableStateOf<String?>(null) }
 
@@ -771,15 +810,34 @@ private fun PdfBookReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle
                     else -> throw IllegalStateException("Buku PDF belum memiliki alamat berkas yang sah.")
                 }
                 val target = File(context.cacheDir, "nextylibrary_${book.id}.pdf")
+                fun isValidPdf(file: File): Boolean {
+                    if (!file.exists() || file.length() < 8L) return false
+                    val signature = ByteArray(5)
+                    return runCatching {
+                        file.inputStream().use { it.read(signature) == 5 && String(signature, Charsets.US_ASCII) == "%PDF-" }
+                    }.getOrDefault(false)
+                }
+                if (isValidPdf(target)) return@withContext target
+                val temporary = File(context.cacheDir, "nextylibrary_${book.id}.download")
                 val connection = URL(url).openConnection() as HttpURLConnection
                 try {
-                    connection.connectTimeout = 20000
-                    connection.readTimeout = 60000
+                    connection.connectTimeout = 12000
+                    connection.readTimeout = 45000
                     connection.instanceFollowRedirects = true
-                    connection.setRequestProperty("User-Agent", "NextyLibrary/1.0")
-                    if (connection.responseCode !in 200..299) throw IllegalStateException("PDF tidak dapat diunduh (HTTP ${connection.responseCode}).")
-                    connection.inputStream.use { input -> FileOutputStream(target).use { output -> input.copyTo(output) } }
+                    connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 NextyLibrary/1.1")
+                    val response = connection.responseCode
+                    if (response !in 200..299) throw IllegalStateException("PDF tidak dapat diunduh (HTTP $response).")
+                    connection.inputStream.use { input -> FileOutputStream(temporary).use { output -> input.copyTo(output) } }
                 } finally { connection.disconnect() }
+                if (!isValidPdf(temporary)) {
+                    temporary.delete()
+                    throw IllegalStateException("Alamat sumber tidak mengirim berkas PDF yang valid. Periksa tautan buku di katalog.")
+                }
+                if (target.exists()) target.delete()
+                if (!temporary.renameTo(target)) {
+                    temporary.copyTo(target, overwrite = true)
+                    temporary.delete()
+                }
                 target
             }
             val opened = withContext(Dispatchers.IO) {
@@ -798,27 +856,6 @@ private fun PdfBookReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle
         } catch (e: Exception) {
             error = e.localizedMessage ?: "PDF gagal dibuka."
         } finally { loading = false }
-    }
-
-    LaunchedEffect(renderer, pageIndex) {
-        val current = renderer ?: return@LaunchedEffect
-        try {
-            pageBitmap = withContext(Dispatchers.IO) {
-                val page = current.openPage(pageIndex)
-                try {
-                    val width = 1200
-                    val height = (width.toFloat() * page.height / page.width).toInt().coerceAtLeast(1)
-                    Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888).also { bitmap ->
-                        bitmap.eraseColor(android.graphics.Color.WHITE)
-                        page.render(bitmap, null, null, PdfRenderer.Page.RENDER_MODE_FOR_DISPLAY)
-                    }
-                } finally { page.close() }
-            }
-            context.getSharedPreferences("reader_progress", android.content.Context.MODE_PRIVATE)
-                .edit().putInt(book.id, pageIndex).apply()
-        } catch (e: Exception) {
-            error = e.localizedMessage ?: "Halaman PDF gagal ditampilkan."
-        }
     }
 
     DisposableEffect(book.id) {
@@ -851,16 +888,46 @@ private fun PdfBookReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle
             error != null -> Box(Modifier.weight(1f).fillMaxWidth().padding(24.dp), contentAlignment = Alignment.Center) {
                 Text(error ?: "PDF gagal dibuka.", color = Muted, textAlign = TextAlign.Center)
             }
-            pageBitmap != null -> androidx.compose.foundation.lazy.LazyColumn(
-                modifier = Modifier.weight(1f).fillMaxWidth(),
-                contentPadding = PaddingValues(horizontal = 10.dp, vertical = 12.dp)
-            ) {
-                item {
-                    Image(
-                        bitmap = pageBitmap!!.asImageBitmap(),
-                        contentDescription = "Halaman ${pageIndex + 1} dari ${pageCount}",
-                        modifier = Modifier.fillMaxWidth().clip(RoundedCornerShape(5.dp)).shadow(2.dp)
-                    )
+            renderer != null && readerMode == "gulir" -> {
+                val current = renderer!!
+                val listState = androidx.compose.foundation.lazy.rememberLazyListState(
+                    initialFirstVisibleItemIndex = pageIndex.coerceIn(0, (pageCount - 1).coerceAtLeast(0))
+                )
+                androidx.compose.runtime.LaunchedEffect(listState) {
+                    androidx.compose.snapshotFlow { listState.firstVisibleItemIndex }.collect { visible ->
+                        pageIndex = visible.coerceIn(0, (pageCount - 1).coerceAtLeast(0))
+                    }
+                }
+                LazyColumn(
+                    state = listState,
+                    modifier = Modifier.weight(1f).fillMaxWidth(),
+                    contentPadding = PaddingValues(horizontal = 10.dp, vertical = 12.dp),
+                    verticalArrangement = Arrangement.spacedBy(12.dp)
+                ) {
+                    items(pageCount) { index ->
+                        PdfPageImage(current, index, Modifier.fillMaxWidth())
+                    }
+                }
+            }
+            renderer != null -> {
+                val current = renderer!!
+                val listState = androidx.compose.foundation.lazy.rememberLazyListState(
+                    initialFirstVisibleItemIndex = pageIndex.coerceIn(0, (pageCount - 1).coerceAtLeast(0))
+                )
+                androidx.compose.runtime.LaunchedEffect(listState) {
+                    androidx.compose.snapshotFlow { listState.firstVisibleItemIndex }.collect { visible ->
+                        pageIndex = visible.coerceIn(0, (pageCount - 1).coerceAtLeast(0))
+                    }
+                }
+                LazyRow(
+                    state = listState,
+                    modifier = Modifier.weight(1f).fillMaxWidth(),
+                    contentPadding = PaddingValues(horizontal = 12.dp, vertical = 12.dp),
+                    horizontalArrangement = Arrangement.spacedBy(12.dp)
+                ) {
+                    items(pageCount) { index ->
+                        PdfPageImage(current, index, Modifier.width(340.dp))
+                    }
                 }
             }
             else -> Box(Modifier.weight(1f).fillMaxWidth(), contentAlignment = Alignment.Center) {
@@ -868,6 +935,20 @@ private fun PdfBookReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle
             }
         }
         if (pageCount > 0) {
+            Row(
+                Modifier.fillMaxWidth().background(Color(0xFFF7FAF7)).padding(horizontal = 14.dp, vertical = 5.dp),
+                horizontalArrangement = Arrangement.Center,
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                TextButton(onClick = {
+                    readerMode = "gulir"
+                    context.getSharedPreferences("reader_preferences", android.content.Context.MODE_PRIVATE).edit().putString("mode", "gulir").apply()
+                }) { Text(if (readerMode == "gulir") "● Gulir ke bawah" else "Gulir ke bawah", color = if (readerMode == "gulir") Green else Muted) }
+                TextButton(onClick = {
+                    readerMode = "geser"
+                    context.getSharedPreferences("reader_preferences", android.content.Context.MODE_PRIVATE).edit().putString("mode", "geser").apply()
+                }) { Text(if (readerMode == "geser") "● Geser ke samping" else "Geser ke samping", color = if (readerMode == "geser") Green else Muted) }
+            }
             Row(
                 Modifier.fillMaxWidth().background(Color.White).padding(horizontal = 16.dp, vertical = 10.dp),
                 verticalAlignment = Alignment.CenterVertically,

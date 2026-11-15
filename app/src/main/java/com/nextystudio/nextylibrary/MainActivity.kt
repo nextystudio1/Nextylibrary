@@ -894,7 +894,7 @@ private fun PdfBookReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle
                     initialFirstVisibleItemIndex = pageIndex.coerceIn(0, (pageCount - 1).coerceAtLeast(0))
                 )
                 androidx.compose.runtime.LaunchedEffect(listState) {
-                    androidx.compose.snapshotFlow { listState.firstVisibleItemIndex }.collect { visible ->
+                    androidx.compose.runtime.snapshotFlow { listState.firstVisibleItemIndex }.collect { visible ->
                         pageIndex = visible.coerceIn(0, (pageCount - 1).coerceAtLeast(0))
                     }
                 }
@@ -915,7 +915,7 @@ private fun PdfBookReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle
                     initialFirstVisibleItemIndex = pageIndex.coerceIn(0, (pageCount - 1).coerceAtLeast(0))
                 )
                 androidx.compose.runtime.LaunchedEffect(listState) {
-                    androidx.compose.snapshotFlow { listState.firstVisibleItemIndex }.collect { visible ->
+                    androidx.compose.runtime.snapshotFlow { listState.firstVisibleItemIndex }.collect { visible ->
                         pageIndex = visible.coerceIn(0, (pageCount - 1).coerceAtLeast(0))
                     }
                 }

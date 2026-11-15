@@ -78,3 +78,31 @@ LATIHAN
 1. Mengapa sampel besar masih dapat bias? Jawaban: pemilihan dapat mengecualikan kelompok secara sistematis.
 2. Kapan median lebih tepat daripada rata-rata? Jawaban: saat distribusi miring atau memiliki nilai ekstrem.
 3. Apakah korelasi membuktikan sebab? Jawaban: tidak; diperlukan rancangan dan bukti tambahan.
+
+PENDALAMAN LANJUTAN: ANALISIS DATA DAN PENARIKAN KESIMPULAN
+BAB 7 — JENIS DATA DAN DESAIN PENGUMPULAN
+Data kategorik menyatakan kelompok, seperti jenis transportasi; data numerik menyatakan besaran, seperti waktu perjalanan. Data numerik dapat bersifat diskret atau kontinu. Skala nominal, ordinal, interval, dan rasio menentukan operasi ringkasan yang masuk akal.
+Sebelum mengumpulkan data, rumuskan populasi sasaran, unit analisis, variabel, definisi operasional, dan periode pengamatan. Pertanyaan survei harus netral dan tidak menggiring jawaban. Uji coba instrumen dapat menemukan istilah yang membingungkan.
+BAB 8 — DISTRIBUSI DAN NILAI EKSTREM
+Distribusi memperlihatkan frekuensi nilai dan pola penyebarannya. Histogram, diagram kotak, dan grafik titik menampilkan sisi berbeda dari data. Pencilan dapat merupakan kesalahan pencatatan, kejadian langka yang benar, atau petunjuk bahwa model yang dipakai tidak sesuai.
+Jangan menghapus pencilan hanya karena membuat hasil tidak rapi. Periksa sumbernya, jelaskan keputusan penanganan, dan bila perlu tampilkan analisis dengan serta tanpa nilai tersebut.
+BAB 9 — SAMPEL DAN KETERWAKILAN
+Sampel acak membantu mengurangi bias pemilihan, tetapi kerangka sampel yang tidak lengkap tetap dapat mengecualikan kelompok tertentu. Nonrespons juga dapat menimbulkan bias jika orang yang tidak menjawab berbeda secara sistematis dari yang menjawab.
+Ukuran sampel yang besar tidak otomatis menjamin hasil akurat. Metode pemilihan, kualitas pengukuran, dan tingkat respons sama pentingnya. Survei daring sukarela, misalnya, tidak selalu mewakili seluruh populasi.
+BAB 10 — HUBUNGAN ANTARVARIABEL
+Tabulasi silang membantu membandingkan kategori. Diagram pencar menunjukkan pola hubungan dua variabel numerik. Korelasi positif berarti nilai cenderung meningkat bersama, korelasi negatif berarti satu cenderung turun saat yang lain naik, dan korelasi dekat nol menunjukkan tidak ada hubungan linear kuat.
+Hubungan non-linear dapat luput dari koefisien korelasi sederhana. Periksa grafik dan kemungkinan variabel ketiga. Hubungan statistik tidak cukup untuk menyimpulkan sebab-akibat.
+BAB 11 — KETIDAKPASTIAN DAN INFERENSI
+Statistik sampel digunakan untuk memperkirakan karakteristik populasi. Interval kepercayaan menunjukkan ketidakpastian prosedur estimasi dalam kerangka asumsi tertentu. Interval yang lebih sempit sering memerlukan data lebih banyak atau variasi lebih kecil, tetapi kualitas desain tetap menentukan.
+Uji hipotesis tidak menggantikan penilaian substantif. Nilai p perlu dibaca bersama ukuran efek, interval kepercayaan, rancangan penelitian, dan relevansi praktis. Hasil tidak signifikan bukan bukti otomatis bahwa tidak ada efek.
+BAB 12 — ETIKA, PRIVASI, DAN KOMUNIKASI DATA
+Data pribadi harus dikumpulkan seperlunya, dijaga aksesnya, dan dilaporkan dengan cara yang tidak mengungkap identitas. Data kelompok kecil dapat memungkinkan identifikasi kembali meskipun nama dihapus.
+Grafik yang jujur mencantumkan sumber, periode, satuan, ukuran sampel, dan skala. Hindari sumbu yang dipotong secara menyesatkan atau pilihan warna yang menyulitkan pembaca.
+BAB 13 — PROYEK ANALISIS SEDERHANA
+Pilih pertanyaan yang dapat dijawab dengan data, misalnya pola waktu perjalanan siswa. Buat definisi variabel, tentukan cara sampling yang etis, kumpulkan data tanpa identitas yang tidak diperlukan, lalu periksa data hilang dan nilai tidak masuk akal.
+Sajikan ringkasan, grafik, keterbatasan, dan rekomendasi yang sebanding dengan bukti. Kesimpulan proyek kecil tidak boleh digeneralisasi ke semua sekolah tanpa desain yang mendukung.
+LATIHAN PENDALAMAN
+1. Mengapa sampel besar masih dapat bias? Jawaban: karena cara pemilihan atau nonrespons dapat tidak mewakili populasi.
+2. Mengapa pencilan tidak boleh langsung dihapus? Jawaban: pencilan mungkin kesalahan, tetapi juga bisa merupakan kejadian nyata yang penting.
+3. Apa yang harus disertakan saat menyajikan grafik? Jawaban: judul, satuan, sumber, periode, dan keterangan skala yang jelas.
+4. Mengapa nilai p tidak cukup untuk menilai pentingnya hasil? Jawaban: nilai p tidak menunjukkan besar dampak atau relevansi praktis.

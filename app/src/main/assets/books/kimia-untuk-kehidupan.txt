@@ -1,0 +1,293 @@
+KIMIA UNTUK KEHIDUPAN
+Memahami Materi, Reaksi, Energi, dan Bahan di Sekitar Kita
+Penulis: Tim Edukasi Nexty Studio
+Edisi pertama, 2026
+
+PENGANTAR
+Kimia mempelajari materi, susunan partikel, sifat zat, dan perubahan yang dialaminya. Udara, air, makanan, obat, logam, tanah, dan bahan rumah tangga memiliki penjelasan kimia. Buku ini memperkenalkan konsep dasar dengan bahasa sederhana, contoh, latihan, dan pembahasan. Kegiatan praktik dibatasi pada pengamatan aman; jangan mencampur bahan pembersih atau bahan kimia rumah tangga.
+
+DAFTAR ISI
+1. Kimia dan Cara Berpikir Ilmiah
+2. Atom dan Unsur
+3. Tabel Periodik
+4. Molekul dan Ikatan Kimia
+5. Rumus dan Persamaan Reaksi
+6. Mol dan Perhitungan Kimia
+7. Larutan dan Konsentrasi
+8. Asam, Basa, dan pH
+9. Reaksi Kimia dan Laju Reaksi
+10. Energi dalam Reaksi
+11. Kimia Karbon dan Kehidupan
+12. Kimia Lingkungan
+13. Bahan dan Teknologi
+14. Keselamatan dan Penyelidikan Kimia
+Lampiran: Rumus, Latihan, Glosarium
+
+BAB 1. KIMIA DAN CARA BERPIKIR ILMIAH
+Kimia adalah ilmu yang mempelajari materi dan perubahan materi. Materi memiliki massa dan menempati ruang. Dalam kehidupan sehari-hari, perubahan kimia terjadi ketika makanan dimasak, besi mengalami korosi, atau bahan bakar bereaksi. Perubahan fisika seperti es mencair mengubah wujud tanpa menghasilkan zat baru, sedangkan perubahan kimia menghasilkan susunan zat yang berbeda.
+
+Pengamatan perlu dibedakan dari penafsiran. Warna berubah merupakan pengamatan; dugaan bahwa terbentuk zat baru merupakan penafsiran yang perlu didukung bukti lain. Bukti dapat berupa perubahan suhu, terbentuknya gas, endapan, atau perubahan sifat yang tidak mudah dibalik. Tidak satu tanda pun selalu cukup sendirian untuk memastikan reaksi.
+
+Kimia menggunakan model partikel untuk menjelaskan sifat yang tidak terlihat langsung. Model atom dan molekul membantu memahami mengapa zat memiliki sifat berbeda. Model ilmiah disempurnakan ketika ada bukti baru dan memiliki batas penggunaan.
+
+RANGKUMAN
+• Kimia mempelajari materi dan perubahannya.
+• Perubahan fisika tidak sama dengan perubahan kimia.
+• Kesimpulan perlu didukung beberapa bukti.
+LATIHAN
+Berikan dua contoh perubahan fisika dan dua perubahan kimia dalam kehidupan sehari-hari. Jelaskan alasan pengelompokannya.
+
+BAB 2. ATOM DAN UNSUR
+Atom merupakan unit dasar unsur yang mempertahankan identitas kimia unsur tersebut. Atom terdiri atas inti yang mengandung proton dan neutron serta elektron yang menempati wilayah di sekitar inti. Proton bermuatan positif, elektron negatif, dan neutron tidak bermuatan.
+
+Nomor atom menyatakan jumlah proton. Pada atom netral, jumlah elektron sama dengan jumlah proton. Nomor massa merupakan jumlah proton dan neutron pada isotop tertentu. Isotop suatu unsur memiliki jumlah proton sama tetapi jumlah neutron berbeda. Isotop dapat memiliki sifat kimia yang mirip, namun massa dan kestabilan inti dapat berbeda.
+
+Ion terbentuk ketika atom atau kelompok atom kehilangan atau menerima elektron. Kation bermuatan positif karena kehilangan elektron, sedangkan anion bermuatan negatif karena menerima elektron. Identitas unsur ditentukan oleh jumlah proton, bukan jumlah neutron atau elektron.
+
+Atom sangat kecil sehingga tidak dapat diamati seperti benda sehari-hari menggunakan mata. Keberadaan dan strukturnya dipahami melalui hasil eksperimen, pola spektrum, dan berbagai metode pengukuran.
+
+RANGKUMAN
+• Proton menentukan identitas unsur.
+• Isotop memiliki jumlah neutron berbeda.
+• Ion terbentuk karena perpindahan elektron.
+LATIHAN
+Atom memiliki 11 proton dan 12 neutron. Tentukan nomor atom dan nomor massanya. Apa yang berubah jika atom netral kehilangan satu elektron?
+
+BAB 3. TABEL PERIODIK
+Tabel periodik menyusun unsur berdasarkan nomor atom dan pola sifatnya. Baris disebut periode, sedangkan kolom disebut golongan. Unsur dalam satu golongan sering memiliki pola elektron valensi serupa sehingga menunjukkan sifat kimia yang mirip.
+
+Logam umumnya menghantarkan panas dan listrik dengan baik, dapat ditempa, dan cenderung membentuk kation. Nonlogam memiliki sifat beragam dan banyak yang menjadi penghantar buruk. Metaloid menunjukkan sebagian sifat logam dan nonlogam. Klasifikasi ini merupakan gambaran umum, bukan aturan tanpa pengecualian.
+
+Gas mulia berada pada golongan paling kanan dan relatif kurang reaktif dalam kondisi biasa karena susunan elektronnya stabil. Halogen cenderung membentuk ion bermuatan negatif dalam banyak senyawa ionik. Logam alkali sangat reaktif, sehingga unsur murninya tidak boleh dijadikan bahan percobaan rumah.
+
+Sifat periodik seperti jari-jari atom, energi ionisasi, dan elektronegativitas berubah secara teratur dalam tabel. Tren tersebut berkaitan dengan muatan inti efektif dan susunan elektron. Memahami pola lebih berguna daripada menghafal seluruh unsur.
+
+RANGKUMAN
+• Tabel periodik diurutkan menurut nomor atom.
+• Unsur segolongan sering memiliki sifat serupa.
+• Tren periodik berkaitan dengan struktur elektron.
+LATIHAN
+Mengapa unsur dalam satu golongan dapat memiliki sifat kimia yang mirip? Sebutkan perbedaan umum logam dan nonlogam.
+
+BAB 4. MOLEKUL DAN IKATAN KIMIA
+Atom dapat bergabung melalui ikatan kimia untuk mencapai susunan yang lebih stabil. Ikatan ion terbentuk melalui tarikan elektrostatik antara ion bermuatan berlawanan. Senyawa ion sering tersusun sebagai kisi kristal, bukan molekul terpisah. Natrium klorida merupakan contoh senyawa ionik.
+
+Ikatan kovalen terbentuk ketika atom berbagi pasangan elektron. Molekul air dan karbon dioksida memiliki ikatan kovalen. Ikatan dapat bersifat polar jika pembagian elektron tidak merata. Kepolaran molekul ditentukan oleh kepolaran ikatan dan bentuk molekul secara keseluruhan.
+
+Ikatan logam melibatkan elektron yang terdelokalisasi di antara banyak atom logam. Model ini membantu menjelaskan kemampuan logam menghantarkan listrik dan dapat ditempa. Gaya antarmolekul lebih lemah daripada ikatan kimia di dalam molekul, tetapi sangat memengaruhi titik didih, titik leleh, dan kelarutan.
+
+Air bersifat polar dan dapat membentuk ikatan hidrogen. Sifat ini menjadikan air pelarut penting bagi banyak zat serta berpengaruh pada suhu dan kehidupan. Tidak semua zat larut dalam air; kecocokan sifat partikel memengaruhi kelarutan.
+
+RANGKUMAN
+• Ikatan ion melibatkan tarikan antarion.
+• Ikatan kovalen melibatkan pemakaian pasangan elektron bersama.
+• Gaya antarmolekul memengaruhi sifat fisik zat.
+LATIHAN
+Jelaskan perbedaan ikatan ion dan kovalen. Mengapa bentuk molekul penting untuk menentukan kepolaran?
+
+BAB 5. RUMUS DAN PERSAMAAN REAKSI
+Rumus kimia menunjukkan jenis dan perbandingan atom dalam zat. H2O menunjukkan dua atom hidrogen dan satu atom oksigen per satuan molekul air. Koefisien di depan rumus menunjukkan jumlah partikel atau mol, sedangkan angka indeks menunjukkan perbandingan atom di dalam zat.
+
+Persamaan reaksi menggambarkan pereaksi berubah menjadi produk. Persamaan harus setara karena atom tidak diciptakan atau dimusnahkan dalam reaksi kimia biasa. Jumlah setiap jenis atom harus sama di kedua sisi. Menyetarakan persamaan dilakukan dengan mengubah koefisien, bukan indeks rumus.
+
+Contoh pembentukan air dapat ditulis 2H2 + O2 → 2H2O. Di kiri terdapat empat atom hidrogen dan dua atom oksigen; di kanan jumlahnya sama. Persamaan ini menyatakan perbandingan partikel, bukan berarti reaksi boleh dilakukan tanpa pengendalian keselamatan.
+
+Simbol keadaan dapat menunjukkan zat padat (s), cair (l), gas (g), atau terlarut dalam air (aq). Kondisi reaksi seperti suhu atau katalis dapat ditulis di atas panah. Persamaan reaksi adalah ringkasan, sedangkan mekanisme reaksi menjelaskan tahap-tahap yang terjadi.
+
+RANGKUMAN
+• Rumus menunjukkan komposisi zat.
+• Persamaan reaksi harus setara.
+• Koefisien boleh diubah, indeks rumus tidak.
+LATIHAN
+Setarakan persamaan N2 + H2 → NH3. Periksa jumlah atom di kedua sisi.
+
+BAB 6. MOL DAN PERHITUNGAN KIMIA
+Atom dan molekul sangat kecil sehingga jumlahnya dinyatakan menggunakan satuan mol. Satu mol mengandung sekitar 6,022 × 10²³ entitas, disebut konstanta Avogadro. Entitas dapat berupa atom, molekul, ion, atau partikel lain yang dinyatakan dengan jelas.
+
+Massa molar adalah massa satu mol zat, dengan satuan g/mol. Nilainya secara numerik berkaitan dengan massa atom atau molekul relatif. Jumlah mol dapat dihitung dari massa dibagi massa molar: n = m/M. Hubungan ini memungkinkan perhitungan jumlah partikel melalui konstanta Avogadro.
+
+Koefisien persamaan reaksi setara menunjukkan perbandingan mol pereaksi dan produk. Dalam soal stoikiometri, ubah data yang diketahui menjadi mol, gunakan perbandingan koefisien, lalu ubah hasil ke satuan yang diminta. Periksa satuan pada setiap langkah.
+
+Pereaksi pembatas adalah pereaksi yang habis lebih dahulu dan membatasi jumlah produk. Pereaksi berlebih tersisa setelah reaksi berhenti. Hasil teoritis adalah jumlah maksimum berdasarkan perhitungan, sedangkan hasil aktual dapat lebih kecil karena reaksi tidak sempurna atau kehilangan saat pemisahan.
+
+RANGKUMAN
+• Satu mol mengandung konstanta Avogadro partikel.
+• Mol menghubungkan massa dan jumlah partikel.
+• Stoikiometri menggunakan perbandingan koefisien reaksi.
+LATIHAN
+Jika massa molar zat 20 g/mol, berapa mol dalam 60 gram zat tersebut? Jelaskan arti pereaksi pembatas.
+
+BAB 7. LARUTAN DAN KONSENTRASI
+Larutan adalah campuran homogen antara pelarut dan zat terlarut. Air merupakan pelarut yang umum, tetapi tidak semua larutan menggunakan air. Konsentrasi menyatakan banyaknya zat terlarut dalam sejumlah larutan atau pelarut.
+
+Molaritas adalah jumlah mol zat terlarut per liter larutan: M = n/V. Jika 0,5 mol zat terlarut berada dalam volume akhir 1 liter, konsentrasinya 0,5 mol/L. Saat membuat larutan, volume akhir yang diperhitungkan, bukan hanya volume pelarut awal.
+
+Pengenceran menurunkan konsentrasi dengan menambahkan pelarut tanpa mengubah jumlah mol zat terlarut. Hubungan sederhana M1V1 = M2V2 berlaku ketika jumlah mol zat terlarut tetap dan volume dinyatakan dalam satuan yang konsisten.
+
+Kelarutan dipengaruhi jenis zat, pelarut, suhu, dan tekanan untuk gas. Larutan jenuh mengandung jumlah zat terlarut maksimum pada kondisi tertentu. Larutan lewat jenuh tidak stabil dan dapat membentuk kristal ketika terganggu.
+
+RANGKUMAN
+• Larutan merupakan campuran homogen.
+• Molaritas menyatakan mol per liter larutan.
+• Pengenceran menurunkan konsentrasi tanpa mengubah mol zat terlarut.
+LATIHAN
+Larutan mengandung 0,2 mol zat dalam volume 0,5 L. Hitung molaritasnya.
+
+BAB 8. ASAM, BASA, DAN pH
+Asam dan basa dapat dijelaskan melalui beberapa teori. Menurut Arrhenius, asam meningkatkan konsentrasi ion hidrogen dalam air dan basa meningkatkan ion hidroksida. Menurut Brønsted-Lowry, asam menyumbangkan proton dan basa menerima proton. Definisi yang lebih luas membantu menjelaskan reaksi di luar larutan air.
+
+Skala pH berkaitan dengan konsentrasi ion hidrogen dan umumnya digunakan untuk larutan berair. Pada suhu sekitar 25°C, pH 7 merupakan netral dalam pengertian standar, pH lebih kecil dari 7 bersifat asam, dan pH lebih besar dari 7 bersifat basa. Skala pH bersifat logaritmik: perubahan satu unit berkaitan dengan perubahan sepuluh kali pada aktivitas ion hidrogen.
+
+Indikator asam-basa berubah warna pada rentang pH tertentu. Kertas indikator dan alat ukur pH digunakan dalam laboratorium. Warna indikator alami dapat memberi gambaran kasar, tetapi tidak setepat alat terkalibrasi.
+
+Reaksi netralisasi dapat terjadi ketika asam dan basa bereaksi menghasilkan air dan garam dalam kondisi tertentu. Jangan mencoba mencampur cairan pembersih atau bahan rumah tangga untuk menguji konsep ini. Beberapa campuran dapat menghasilkan gas beracun atau panas berbahaya.
+
+RANGKUMAN
+• Asam dan basa memiliki beberapa definisi ilmiah.
+• pH merupakan skala logaritmik.
+• Pengujian asam-basa harus memakai bahan dan prosedur aman.
+LATIHAN
+Apa arti perubahan pH dari 4 menjadi 3? Mengapa pH tidak boleh dipahami sebagai skala linear?
+
+BAB 9. REAKSI KIMIA DAN LAJU REAKSI
+Reaksi kimia melibatkan pemutusan dan pembentukan ikatan. Laju reaksi menyatakan perubahan jumlah pereaksi atau produk per satuan waktu. Teori tumbukan menjelaskan bahwa reaksi memerlukan tumbukan efektif dengan energi dan orientasi yang sesuai.
+
+Suhu yang lebih tinggi umumnya meningkatkan energi kinetik partikel dan frekuensi tumbukan efektif. Konsentrasi lebih tinggi dapat meningkatkan frekuensi tumbukan. Luas permukaan lebih besar pada zat padat dapat mempercepat reaksi karena lebih banyak bagian zat terbuka untuk berinteraksi. Pengaruh faktor-faktor ini bergantung pada jenis reaksi.
+
+Katalis menyediakan jalur reaksi dengan energi aktivasi lebih rendah dan tidak habis secara keseluruhan. Katalis tidak mengubah posisi kesetimbangan, tetapi membantu sistem mencapainya lebih cepat. Enzim adalah katalis biologis dengan kekhususan terhadap substrat dan kondisi tertentu.
+
+Tidak semua reaksi berlangsung sampai seluruh pereaksi habis. Beberapa reaksi mencapai kesetimbangan dinamis, ketika laju reaksi maju dan balik sama. Pada keadaan ini, konsentrasi zat tampak tetap meskipun reaksi terus berlangsung pada tingkat partikel.
+
+RANGKUMAN
+• Laju reaksi dipengaruhi kondisi tumbukan.
+• Katalis mempercepat reaksi melalui jalur alternatif.
+• Kesetimbangan adalah keadaan dinamis.
+LATIHAN
+Jelaskan mengapa serbuk suatu zat sering bereaksi lebih cepat daripada bongkahan dengan massa sama.
+
+BAB 10. ENERGI DALAM REAKSI
+Reaksi kimia melibatkan perubahan energi karena ikatan kimia memiliki energi. Reaksi eksoterm melepaskan energi ke lingkungan, sedangkan reaksi endoterm menyerap energi dari lingkungan. Perubahan suhu yang diamati dapat membantu mengenali arah perpindahan energi, tetapi pengukuran kuantitatif membutuhkan rancangan yang tepat.
+
+Entalpi adalah besaran termodinamika yang perubahan nilainya digunakan untuk membahas kalor pada tekanan tetap. Perubahan entalpi reaksi dapat diperkirakan dari energi ikatan atau dihitung menggunakan data pembentukan standar. Hukum Hess menyatakan perubahan entalpi total tidak bergantung pada jalur reaksi jika keadaan awal dan akhir sama.
+
+Energi aktivasi adalah energi minimum yang diperlukan agar proses reaksi dapat berlangsung melalui jalur tertentu. Reaksi yang secara keseluruhan melepaskan energi tetap dapat berlangsung lambat jika energi aktivasi tinggi. Katalis dapat menurunkan energi aktivasi.
+
+Energi kimia memiliki peran dalam sel, bahan bakar, baterai, dan proses industri. Penggunaan energi perlu dinilai bukan hanya dari jumlah energi, tetapi juga efisiensi, emisi, bahan baku, dan dampak lingkungannya.
+
+RANGKUMAN
+• Reaksi dapat melepaskan atau menyerap energi.
+• Entalpi membantu mengukur perubahan energi pada tekanan tetap.
+• Energi aktivasi berkaitan dengan laju reaksi.
+LATIHAN
+Apa perbedaan reaksi eksoterm dan endoterm? Apakah reaksi eksoterm selalu berlangsung cepat?
+
+BAB 11. KIMIA KARBON DAN KEHIDUPAN
+Kimia organik mempelajari banyak senyawa karbon. Karbon dapat membentuk empat ikatan kovalen dan menyusun rantai serta cincin yang beragam. Hidrokarbon hanya mengandung karbon dan hidrogen. Gugus fungsi seperti hidroksil, karboksil, dan amino memengaruhi sifat serta reaktivitas molekul.
+
+Karbohidrat, lipid, protein, dan asam nukleat merupakan kelompok biomolekul penting. Struktur molekul menentukan interaksi dan fungsi. Glukosa merupakan sumber energi yang dapat diolah sel. Lipid menyimpan energi dan menjadi komponen membran. Protein dapat menjadi enzim, pengangkut, atau struktur. DNA menyimpan informasi genetik.
+
+Polimer adalah molekul besar yang tersusun dari unit berulang. Protein dan asam nukleat merupakan biopolimer. Plastik sintetis juga banyak berupa polimer. Sifat plastik bergantung pada struktur rantai, bahan tambahan, dan proses pembuatannya.
+
+Kimia karbon juga berkaitan dengan obat dan bahan alam. Kesamaan asal alami tidak otomatis berarti aman, dan bahan sintetis tidak otomatis berbahaya. Keamanan ditentukan struktur, dosis, paparan, dan bukti pengujian.
+
+RANGKUMAN
+• Karbon membentuk keragaman senyawa.
+• Gugus fungsi memengaruhi sifat molekul.
+• Biomolekul memiliki struktur dan fungsi berbeda.
+LATIHAN
+Mengapa dua senyawa yang sama-sama mengandung karbon dapat memiliki sifat sangat berbeda?
+
+BAB 12. KIMIA LINGKUNGAN
+Kimia lingkungan mempelajari zat dan proses kimia di udara, air, tanah, serta organisme. Polutan dapat berasal dari sumber alami atau aktivitas manusia. Dampaknya bergantung pada jenis zat, konsentrasi, lama paparan, dan kerentanan organisme.
+
+Atmosfer mengandung nitrogen dan oksigen sebagai komponen utama serta gas lain dalam jumlah lebih kecil. Karbon dioksida dan gas rumah kaca lain menyerap dan memancarkan radiasi inframerah, sehingga memengaruhi keseimbangan energi bumi. Peningkatan konsentrasi gas rumah kaca akibat aktivitas manusia memperkuat pemanasan global.
+
+Air dapat tercemar oleh mikroorganisme patogen, nutrien berlebih, logam, bahan organik, dan sampah. Pengolahan air menggunakan kombinasi proses fisika, kimia, dan biologis. Air jernih belum tentu aman diminum karena zat terlarut dan mikroorganisme tidak selalu terlihat.
+
+Tanah menjadi tempat berlangsungnya siklus unsur. Penggunaan pupuk secara berlebihan dapat meningkatkan limpasan nutrien dan memicu eutrofikasi perairan. Pengelolaan limbah, pengurangan sumber pencemar, pemantauan, dan pemulihan ekosistem perlu dilakukan secara terpadu.
+
+RANGKUMAN
+• Pencemaran dipengaruhi jenis zat, konsentrasi, dan paparan.
+• Air jernih belum tentu aman.
+• Pencegahan pencemaran lebih baik daripada hanya menangani akibatnya.
+LATIHAN
+Jelaskan bagaimana limpasan pupuk dapat memengaruhi danau atau sungai.
+
+BAB 13. BAHAN DAN TEKNOLOGI
+Sifat bahan ditentukan komposisi, struktur, dan proses pembuatannya. Logam digunakan karena kuat dan dapat menghantarkan listrik. Keramik tahan panas dan aus tetapi dapat rapuh. Polimer ringan dan mudah dibentuk, sedangkan komposit menggabungkan beberapa bahan untuk memperoleh kombinasi sifat.
+
+Baterai mengubah energi kimia menjadi energi listrik melalui reaksi redoks. Sel elektrokimia melibatkan perpindahan elektron melalui rangkaian luar dan perpindahan ion di dalam sistem. Baterai memiliki batas umur, kapasitas, dan kondisi penggunaan. Pengisian harus menggunakan perangkat yang sesuai spesifikasi.
+
+Korosi adalah kerusakan logam akibat reaksi dengan lingkungan. Air dan oksigen berperan dalam korosi besi. Pelapisan, pemilihan paduan, dan pengendalian lingkungan dapat memperlambatnya. Daur ulang logam mengurangi kebutuhan bahan mentah dan energi dibandingkan sebagian proses produksi primer.
+
+Nanomaterial memiliki ukuran sangat kecil dan dapat menunjukkan sifat berbeda dari material berukuran besar. Penggunaannya memerlukan penilaian risiko karena sifat dan perilakunya dapat berbeda. Teknologi bahan harus dikembangkan dengan memperhatikan keselamatan, kinerja, dan dampak siklus hidup.
+
+RANGKUMAN
+• Struktur dan komposisi menentukan sifat bahan.
+• Baterai bekerja melalui reaksi elektrokimia.
+• Inovasi bahan perlu memperhatikan keselamatan dan daur hidup.
+LATIHAN
+Bandingkan kelebihan dan keterbatasan logam, keramik, dan polimer untuk penggunaan sehari-hari.
+
+BAB 14. KESELAMATAN DAN PENYELIDIKAN KIMIA
+Keselamatan merupakan bagian utama ilmu kimia. Label bahan, simbol bahaya, petunjuk penggunaan, dan lembar data keselamatan harus dipahami sebelum bahan digunakan. Jangan mencicipi bahan, menghirup langsung uap, atau mencampur produk rumah tangga. Jangan memindahkan bahan ke wadah minuman.
+
+Laboratorium menggunakan alat pelindung, ventilasi, prosedur penyimpanan, dan pengelolaan limbah. Bahan yang tidak dikenal tidak boleh disentuh atau dicampur. Jika terjadi tumpahan atau paparan, hentikan kegiatan dan minta bantuan guru, petugas laboratorium, atau orang dewasa yang bertanggung jawab.
+
+Penyelidikan kimia dimulai dengan pertanyaan yang dapat diuji. Tentukan variabel, metode pengamatan, alat ukur, dan cara mencatat data. Ulangi pengukuran dan bedakan hasil pengamatan dari kesimpulan. Jangan mengubah data agar sesuai harapan.
+
+Proyek aman dapat berupa membandingkan label komposisi beberapa produk pangan kemasan, mengamati perubahan wujud air melalui gambar atau simulasi, atau mengukur massa benda padat menggunakan timbangan rumah dengan pengawasan. Tidak diperlukan pencampuran zat berbahaya untuk belajar kimia.
+
+RANGKUMAN
+• Baca label dan petunjuk keselamatan.
+• Jangan mencampur bahan rumah tangga.
+• Data harus dicatat apa adanya.
+LATIHAN
+Buat daftar lima aturan keselamatan laboratorium dan jelaskan alasan setiap aturan.
+
+LAMPIRAN A. RUMUS PENTING
+Jumlah mol: n = m/M.
+Molaritas: M = n/V.
+Pengenceran: M1V1 = M2V2.
+Jumlah partikel: N = n × NA.
+Massa molar: M = massa/mol.
+Persen massa = massa komponen/massa total × 100%.
+NA adalah konstanta Avogadro, sekitar 6,022 × 10²³ mol⁻¹.
+
+LAMPIRAN B. LATIHAN DAN PEMBAHASAN
+1. Perubahan fisika: es mencair dan air menguap. Perubahan kimia: besi berkarat dan makanan mengalami pembakaran.
+2. Atom 11 proton dan 12 neutron memiliki nomor atom 11 dan nomor massa 23.
+3. Unsur segolongan memiliki pola elektron valensi yang mirip.
+4. Ikatan ion melibatkan tarikan ion, sedangkan ikatan kovalen melibatkan pasangan elektron bersama.
+5. N2 + 3H2 → 2NH3.
+6. 60 g zat dengan massa molar 20 g/mol berjumlah 3 mol.
+7. 0,2 mol dalam 0,5 L memiliki molaritas 0,4 mol/L.
+8. Perubahan pH 4 ke 3 berarti aktivitas ion hidrogen meningkat sepuluh kali pada kondisi pembanding yang sama.
+9. Serbuk memiliki luas permukaan kontak lebih besar.
+10. Reaksi eksoterm melepas energi; endoterm menyerap energi. Eksoterm tidak selalu cepat karena laju juga dipengaruhi energi aktivasi.
+
+GLOSARIUM
+Asam: donor proton menurut Brønsted-Lowry.
+Atom: unit dasar unsur.
+Basa: penerima proton menurut Brønsted-Lowry.
+Elektrolit: zat yang menghasilkan ion bergerak dalam larutan atau lelehan.
+Entalpi: besaran termodinamika untuk menganalisis perubahan energi.
+Ion: partikel bermuatan.
+Isotop: atom unsur sama dengan jumlah neutron berbeda.
+Katalis: zat yang mempercepat reaksi melalui jalur alternatif.
+Konsentrasi: ukuran banyaknya zat dalam campuran.
+Mol: satuan jumlah zat.
+Molekul: kumpulan atom yang terikat kovalen.
+pH: ukuran terkait aktivitas ion hidrogen.
+Reaktan: zat awal dalam persamaan reaksi.
+Stoikiometri: perhitungan jumlah zat berdasarkan persamaan setara.
+
+DAFTAR RUJUKAN KONSEPTUAL
+• IUPAC, Compendium of Chemical Terminology (Gold Book), untuk istilah kimia.
+• NIST, Chemistry WebBook, untuk data dan informasi kimia.
+• OpenStax, Chemistry 2e, untuk pendalaman konsep.
+• United Nations Environment Programme, materi kimia dan lingkungan.
+Naskah disusun secara orisinal oleh Tim Edukasi Nexty Studio sebagai materi pengantar; rujukan dipakai untuk pendalaman konsep.
+
+PENUTUP
+Kimia membantu menjelaskan mengapa bahan memiliki sifat tertentu dan bagaimana perubahan berlangsung. Pemahaman yang baik menggabungkan model partikel, persamaan, pengamatan, dan keselamatan. Gunakan pengetahuan kimia untuk membuat keputusan yang bertanggung jawab terhadap diri sendiri dan lingkungan.

@@ -151,13 +151,12 @@ fun AccountScreen(onAuthenticated: () -> Unit = {}) {
                                     busy = true
                                     message = null
                                     try {
-                                        val result = withContext(Dispatchers.IO) {
-                                            if (registerMode) registerWithEmail(email, password) else signInWithEmail(email, password)
-                                        }
                                         if (registerMode) {
+                                            val result = withContext(Dispatchers.IO) { registerWithEmail(email, password) }
                                             message = result
                                             registerMode = false
                                         } else {
+                                            val result = withContext(Dispatchers.IO) { signInWithEmail(email, password) }
                                             session = result
                                             withContext(Dispatchers.IO) { saveSession(context, result.email, result.refreshToken) }
                                             password = ""

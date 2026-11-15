@@ -78,3 +78,37 @@ LATIHAN
 1. Mengapa variabel perlu didefinisikan secara operasional? Jawaban: agar pengukuran jelas dan dapat diperiksa.
 2. Apa beda kesalahan acak dan sistematis? Jawaban: acak menghasilkan variasi; sistematis menggeser hasil secara konsisten.
 3. Mengapa korelasi tidak otomatis menunjukkan sebab? Jawaban: faktor lain atau arah pengaruh terbalik dapat menjelaskan hubungan.
+
+PENDALAMAN: MERANCANG PENYELIDIKAN YANG DAPAT DIPERCAYA
+BAB 7 — DARI TOPIK MENJADI PERTANYAAN PENELITIAN
+Topik penelitian masih berupa wilayah yang luas, sedangkan pertanyaan penelitian harus cukup terarah untuk diselidiki. Misalnya, “sampah plastik” adalah topik. Pertanyaan yang lebih terarah ialah “Bagaimana kebiasaan membawa botol minum guna ulang berkaitan dengan jumlah botol sekali pakai yang digunakan siswa selama satu minggu?” Pertanyaan tersebut menyebutkan kelompok, perilaku, dan rentang waktu.
+Pertanyaan yang baik jelas, dapat dijawab dengan bukti, tidak mengandung kesimpulan tersembunyi, dan sesuai dengan sumber daya yang tersedia. Hindari pertanyaan yang jawabannya hanya “ya” atau “tidak” jika tujuan penyelidikan adalah memahami pola. Catat batasan sejak awal: tempat, waktu, kelompok yang diamati, dan istilah yang digunakan.
+BAB 8 — VARIABEL DAN OPERASIONALISASI
+Variabel adalah ciri yang nilainya dapat berbeda. Dalam penelitian kuantitatif, peneliti sering membedakan variabel bebas, variabel terikat, dan variabel yang perlu dikendalikan. Hubungan tersebut tidak otomatis membuktikan sebab-akibat. Jika siswa yang lebih sering membaca memperoleh nilai lebih tinggi, mungkin ada faktor lain seperti dukungan keluarga, akses buku, atau waktu belajar.
+Operasionalisasi mengubah konsep abstrak menjadi cara pengamatan yang terukur. “Kebiasaan membaca” dapat diukur melalui jumlah hari membaca dalam seminggu, durasi rata-rata, atau jumlah halaman. Setiap ukuran memiliki keterbatasan. Jelaskan alasan memilih ukuran dan jangan menyamakan ukuran praktis dengan keseluruhan konsep.
+BAB 9 — MEMILIH SAMPEL DAN MENGURANGI BIAS
+Populasi adalah seluruh kelompok sasaran, sedangkan sampel adalah bagian yang benar-benar diteliti. Sampel kemudahan mudah diperoleh tetapi dapat tidak mewakili populasi. Sampel acak memberi peluang pemilihan yang lebih seimbang apabila kerangka sampelnya memadai. Sampel berstrata dapat membantu memastikan kelompok penting terwakili.
+Bias dapat muncul ketika hanya orang yang sangat tertarik pada topik yang bersedia menjawab, pertanyaan menggiring responden, atau peneliti hanya mencatat hasil yang mendukung dugaan awal. Catat siapa yang tidak terjangkau, berapa yang menolak, serta bagaimana perekrutan dilakukan. Jangan mengklaim hasil berlaku untuk semua orang bila sampel terbatas.
+BAB 10 — MUTU PENGUKURAN: VALIDITAS DAN RELIABILITAS
+Reliabilitas berkaitan dengan konsistensi hasil pengukuran. Validitas berkaitan dengan apakah alat ukur benar-benar mengukur hal yang dimaksud. Timbangan yang selalu menunjukkan angka dua kilogram lebih berat mungkin konsisten, tetapi tidak akurat. Kuesioner yang menanyakan “Apakah Anda peduli lingkungan?” mungkin tidak cukup untuk mengukur perilaku nyata.
+Uji coba instrumen pada kelompok kecil dapat menemukan pertanyaan yang membingungkan, pilihan jawaban yang tumpang tindih, atau prosedur yang sulit diikuti. Revisi instrumen dan dokumentasikan perubahannya. Untuk pengukuran berulang, gunakan prosedur yang sama sejauh mungkin.
+BAB 11 — ETIKA, PERSETUJUAN, DAN PRIVASI
+Penelitian yang melibatkan manusia harus menghormati martabat, keselamatan, dan privasi peserta. Jelaskan tujuan, kegiatan, risiko yang wajar, penggunaan data, dan hak untuk berhenti. Persetujuan harus diberikan secara bebas dan sesuai usia serta aturan yang berlaku. Jangan mengumpulkan nama, alamat, atau informasi sensitif jika tidak diperlukan.
+Data sebaiknya disimpan dengan akses terbatas dan dihapus sesuai jadwal yang dijelaskan. Foto, rekaman, dan kutipan langsung memerlukan perhatian khusus. Untuk penelitian sekolah, mintalah arahan guru atau pihak yang bertanggung jawab sebelum melibatkan peserta.
+BAB 12 — MEMBACA HASIL TANPA MELEBIHKAN KLAIM
+Hasil penelitian selalu memiliki batas. Ukuran sampel kecil menghasilkan ketidakpastian lebih besar. Korelasi menunjukkan dua hal berubah bersama, tetapi belum menjelaskan penyebabnya. Perbedaan rata-rata juga perlu dilihat bersama variasi data, cara pengambilan sampel, dan kemungkinan faktor pengganggu.
+Gunakan bahasa yang sepadan dengan bukti: “dalam sampel ini terlihat hubungan” lebih tepat daripada “X pasti menyebabkan Y” jika rancangan penelitian tidak menguji sebab-akibat. Laporkan hasil yang tidak sesuai dugaan. Hasil negatif atau tidak meyakinkan tetap berguna karena membantu memperbaiki pertanyaan dan metode.
+BAB 13 — MENULIS LAPORAN YANG DAPAT DIPERIKSA
+Laporan yang baik memisahkan latar belakang, pertanyaan, metode, hasil, pembahasan, keterbatasan, dan kesimpulan. Bagian metode harus cukup rinci agar pembaca memahami bagaimana data diperoleh. Sajikan tabel dengan judul, satuan, jumlah pengamatan, dan keterangan yang diperlukan. Jangan memotong sumbu grafik sehingga perbedaan tampak jauh lebih besar.
+Simpan catatan proses, versi instrumen, dan cara membersihkan data. Jika ada perubahan metode di tengah kegiatan, jelaskan. Transparansi membuat pembaca dapat menilai kekuatan kesimpulan, bukan sekadar mempercayai penulis.
+BAB 14 — CONTOH PROYEK TERPADU
+Pertanyaan: Apakah lokasi tempat sampah berhubungan dengan jumlah sampah yang tertinggal di area kelas setelah istirahat? Tentukan beberapa area yang aman untuk diamati, definisikan “sampah tertinggal”, tetapkan durasi pengamatan, dan gunakan lembar pencatatan yang sama. Jangan mengganggu kegiatan siswa atau merekam identitas.
+Catat kondisi lain seperti jumlah pengguna area dan adanya kegiatan khusus. Bandingkan jumlah temuan secara hati-hati, lalu bahas apakah perbedaan luas area atau jumlah orang dapat memengaruhi hasil. Kesimpulan dibatasi pada lokasi dan waktu yang diamati. Usulkan pengamatan lanjutan, bukan klaim universal.
+LATIHAN PENDALAMAN
+1. Ubah topik “penggunaan gawai” menjadi pertanyaan penelitian yang terukur. Jawaban contoh: “Berapa rata-rata durasi penggunaan aplikasi belajar per hari pada kelompok siswa kelas tertentu selama lima hari sekolah?”
+2. Mengapa korelasi tidak cukup untuk menyimpulkan sebab-akibat? Jawaban: karena variabel ketiga, arah hubungan terbalik, dan bias pemilihan dapat menjelaskan pola yang terlihat.
+3. Sebutkan dua cara mengurangi bias survei. Jawaban: gunakan bahasa netral dan perekrutan yang tidak hanya menjangkau kelompok yang mudah ditemui; uji coba pertanyaan sebelum digunakan.
+4. Apa perbedaan validitas dan reliabilitas? Jawaban: validitas menyangkut ketepatan konsep yang diukur, reliabilitas menyangkut konsistensi hasil.
+5. Mengapa hasil yang tidak mendukung dugaan awal tetap harus dilaporkan? Jawaban: agar laporan jujur, mengurangi bias publikasi, dan memberi dasar untuk penelitian berikutnya.
+GLOSARIUM TAMBAHAN
+Bias seleksi: penyimpangan akibat cara peserta dipilih. Operasionalisasi: penetapan cara mengukur konsep. Populasi: keseluruhan kelompok sasaran. Sampel: bagian populasi yang diteliti. Validitas: ketepatan alat ukur terhadap konsep. Reliabilitas: konsistensi pengukuran. Variabel pengganggu: faktor lain yang dapat memengaruhi hubungan yang diamati.

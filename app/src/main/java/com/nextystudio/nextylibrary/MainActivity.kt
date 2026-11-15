@@ -81,9 +81,9 @@ fun NextyLibraryApp() {
                     BookDetail(selected!!, categories.firstOrNull { it.id == selected!!.categoryId }?.name) { selected = null }
                 } else {
                     when (tab) {
-                        "Beranda" -> HomeScreen(books, categories, loading, error, search, { search = it }, selectedCategory, { selectedCategory = it }, { reloadKey++ }, { selected = it })
-                        "Koleksi" -> CollectionEmptyScreen()
-                        else -> AccountScreen()
+                        "Beranda" -> Box(Modifier.weight(1f)) { HomeScreen(books, categories, loading, error, search, { search = it }, selectedCategory, { selectedCategory = it }, { reloadKey++ }, { selected = it }) }
+                        "Koleksi" -> Box(Modifier.weight(1f)) { CollectionEmptyScreen() }
+                        else -> Box(Modifier.weight(1f)) { AccountScreen() }
                     }
                     NavigationBar(containerColor = Color.White, tonalElevation = 10.dp, modifier = Modifier.shadow(12.dp)) {
                         listOf("Beranda", "Koleksi", "Akun").forEach { item ->
@@ -181,7 +181,7 @@ private fun HeroBanner(bookCount: Int) {
         Column(Modifier.align(Alignment.CenterStart).padding(start = 20.dp, end = 110.dp)) {
             Text("RUANG BACA DIGITAL", color = Color(0xFFB9E8D0), fontSize = 9.sp, fontWeight = FontWeight.Bold, letterSpacing = 2.sp)
             Spacer(Modifier.height(8.dp))
-            Text("Satu buku,\\nbanyak dunia.", color = Color.White, fontSize = 25.sp, lineHeight = 29.sp, fontWeight = FontWeight.ExtraBold)
+            Text("Satu buku,\nbanyak dunia.", color = Color.White, fontSize = 25.sp, lineHeight = 29.sp, fontWeight = FontWeight.ExtraBold)
             Spacer(Modifier.height(7.dp))
             Text("$bookCount bacaan tersedia untuk dijelajahi", color = Color.White.copy(alpha = .82f), fontSize = 10.sp)
         }

@@ -1,0 +1,61 @@
+DASAR ENERGI TERBARUKAN
+Penulis: Tim Pengetahuan Nexty Studio
+Edisi: 2026
+
+PENGANTAR
+Energi menggerakkan rumah, sekolah, transportasi, industri, dan layanan publik. Sebagian besar energi modern masih berasal dari bahan bakar fosil yang terbentuk sangat lama. Energi terbarukan memanfaatkan aliran alam yang terus tersedia dalam skala waktu manusia, meskipun setiap teknologi memiliki batas dan dampak.
+
+BAB 1 — ENERGI DAN KEBUTUHAN MANUSIA
+Energi adalah kemampuan untuk melakukan kerja atau menyebabkan perubahan. Dalam kehidupan sehari-hari, energi digunakan untuk menghasilkan panas, cahaya, gerak, dan menjalankan perangkat elektronik.
+Sumber energi primer berasal langsung dari alam, sedangkan energi sekunder dihasilkan melalui pengolahan atau konversi. Listrik merupakan pembawa energi sekunder: pembangkit mengubah energi dari sumber lain menjadi listrik.
+Efisiensi berarti memperoleh layanan yang sama dengan energi lebih sedikit. Lampu hemat energi, bangunan dengan ventilasi baik, dan peralatan yang dirawat dapat mengurangi kebutuhan tanpa mengurangi manfaat.
+
+BAB 2 — MATAHARI
+Energi surya memanfaatkan radiasi matahari. Panel fotovoltaik mengubah cahaya menjadi listrik melalui bahan semikonduktor. Sistem termal surya menggunakan panas matahari, misalnya untuk memanaskan air.
+Produksi listrik panel berubah mengikuti siang-malam, cuaca, orientasi, kemiringan, suhu, dan bayangan. Karena itu, rancangan perlu mempertimbangkan pola kebutuhan dan pilihan penyimpanan atau sumber pendukung.
+Panel tidak menghasilkan listrik tanpa dampak lingkungan. Bahan baku, manufaktur, transportasi, lahan, dan pengelolaan akhir masa pakai tetap perlu diperhitungkan.
+
+BAB 3 — ANGIN
+Turbin angin mengambil sebagian energi gerak udara melalui bilah rotor. Putaran rotor menggerakkan generator untuk menghasilkan listrik. Lokasi dengan kecepatan angin yang cukup dan konsisten lebih sesuai.
+Keluaran turbin berubah karena kecepatan angin tidak tetap. Penilaian lokasi memerlukan pengukuran dalam periode memadai, bukan hanya pengamatan sesaat. Pertimbangan lain meliputi keselamatan penerbangan, kebisingan, ekologi, akses, dan penerimaan masyarakat.
+
+BAB 4 — AIR DAN PANAS BUMI
+Pembangkit listrik tenaga air memanfaatkan energi potensial atau kinetik air untuk memutar turbin. Bendungan dapat membantu mengatur aliran, tetapi dapat mengubah ekosistem, sedimentasi, dan kehidupan masyarakat. Pembangkit aliran sungai memiliki karakter dampak berbeda.
+Panas bumi menggunakan panas dari dalam bumi. Fluida panas dapat dimanfaatkan untuk menggerakkan turbin atau melalui sistem biner. Sumber panas bumi bergantung pada kondisi geologi setempat; eksplorasi dan pengeboran membutuhkan kajian teknis serta lingkungan.
+
+BAB 5 — BIOENERGI
+Bioenergi berasal dari bahan organik seperti residu pertanian, limbah organik, atau tanaman tertentu. Bahan dapat dibakar, difermentasi menjadi biogas, atau diolah menjadi bahan bakar cair.
+Keberlanjutan bioenergi ditentukan oleh asal bahan, perubahan penggunaan lahan, kebutuhan air, emisi sepanjang siklus hidup, dan persaingan dengan pangan. Limbah yang memang tersedia sering lebih baik daripada membuka lahan baru untuk tanaman energi.
+
+BAB 6 — PENYIMPANAN DAN JARINGAN LISTRIK
+Pembangkit surya dan angin bervariasi. Baterai dapat menyimpan listrik untuk digunakan kemudian, tetapi memiliki biaya, kebutuhan mineral, umur pakai, dan proses daur ulang. Penyimpanan juga dapat memakai air yang dipompa ke waduk lebih tinggi atau bentuk lain sesuai kondisi wilayah.
+Jaringan listrik harus menyeimbangkan pasokan dan permintaan setiap saat. Peramalan cuaca, jaringan antardaerah, pengaturan beban, dan beragam sumber pembangkit membantu menjaga keandalan.
+
+BAB 7 — MEMBANDINGKAN PILIHAN ENERGI
+Tidak ada satu teknologi yang cocok untuk semua tempat. Bandingkan biaya sepanjang umur proyek, keandalan, emisi siklus hidup, kebutuhan lahan dan air, dampak biodiversitas, waktu pembangunan, serta manfaat bagi masyarakat.
+Biaya listrik per unit berguna, tetapi bukan satu-satunya ukuran. Sistem yang murah di satu lokasi dapat mahal di lokasi lain karena jaringan, penyimpanan, atau kondisi geografis.
+
+BAB 8 — TRANSISI ENERGI YANG ADIL
+Transisi energi adalah perubahan menuju sistem yang lebih rendah emisi sekaligus menjaga akses energi yang terjangkau dan andal. Pekerja dan daerah yang bergantung pada industri lama perlu mendapat dukungan, pelatihan, dan kesempatan ekonomi.
+Masyarakat sebaiknya dilibatkan sejak perencanaan. Konsultasi yang bermakna membantu mengidentifikasi risiko, pembagian manfaat, dan kebutuhan lokal.
+
+BAB 9 — AKSI DI SEKOLAH DAN RUMAH
+Mulailah dengan mengamati penggunaan energi: lampu yang menyala tanpa perlu, pendingin ruangan, kebocoran panas, atau perangkat siaga. Catat pemakaian sebelum dan sesudah perubahan agar hasilnya dapat dibandingkan.
+Proyek sekolah dapat berupa audit energi sederhana, poster perbandingan sumber energi, atau model panel surya mini edukatif yang aman. Jangan menyambungkan rangkaian listrik bertegangan tinggi tanpa pendamping ahli.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa listrik disebut energi sekunder? Karena dihasilkan melalui konversi sumber energi primer.
+2. Apa keterbatasan utama surya dan angin? Keluaran berubah mengikuti cuaca dan waktu.
+3. Mengapa bendungan perlu kajian lingkungan? Karena dapat mengubah aliran, habitat, sedimentasi, dan kehidupan warga.
+4. Apa arti siklus hidup energi? Penilaian dampak dari bahan baku hingga operasi dan akhir masa pakai.
+5. Mengapa efisiensi penting? Mengurangi energi yang dibutuhkan untuk layanan yang sama.
+
+GLOSARIUM
+Fotovoltaik: teknologi pengubah cahaya menjadi listrik.
+Generator: perangkat pengubah energi mekanik menjadi listrik.
+Bioenergi: energi dari bahan organik.
+Siklus hidup: tahapan dari pengadaan bahan hingga akhir masa pakai.
+Transisi energi: perubahan sistem energi menuju struktur yang lebih berkelanjutan.
+
+CATATAN PENULIS
+Naskah orisinal Nexty Studio untuk pembelajaran pengantar. Kinerja teknologi bergantung pada lokasi dan rancangan; keputusan proyek memerlukan studi profesional.

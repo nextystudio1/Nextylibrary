@@ -232,3 +232,47 @@ LATIHAN
 1. Mengapa anggaran dibandingkan dengan realisasi? Jawaban: untuk mengetahui selisih dan memperbaiki rencana.
 2. Apa beda bunga sederhana dan majemuk? Jawaban: bunga majemuk dihitung atas pokok serta bunga terkumpul.
 3. Mengapa total biaya lebih penting daripada cicilan? Jawaban: cicilan kecil dapat berasal dari tenor panjang atau biaya tambahan.
+
+
+
+BAB 15. KEAMANAN KEUANGAN DIGITAL
+
+Layanan keuangan digital memudahkan pembayaran dan pencatatan, tetapi pengguna tetap perlu melindungi akun. Gunakan kata sandi unik, verifikasi berlapis bila tersedia, dan kunci perangkat. Jangan membagikan PIN, kata sandi, kode OTP, atau kode pemulihan kepada siapa pun. Petugas resmi tidak seharusnya meminta kode rahasia untuk mengambil alih akun.
+
+Waspadai pesan yang mendesak, hadiah yang tidak masuk akal, tautan dengan alamat menyerupai layanan resmi, dan permintaan transfer ke rekening pribadi. Jangan memasang aplikasi dari tautan pesan yang tidak jelas. Periksa nama penerima dan jumlah sebelum mengonfirmasi transaksi. Jika terjadi dugaan penipuan, segera hubungi penyedia layanan melalui kanal resmi dan mintalah bantuan orang dewasa tepercaya.
+
+BAB 16. KEPUTUSAN KEUANGAN DAN TUJUAN JANGKA PANJANG
+
+Keputusan keuangan yang baik mempertimbangkan kebutuhan, kemampuan, risiko, dan waktu. Dana untuk kebutuhan dekat sebaiknya tidak ditempatkan pada instrumen yang nilainya dapat berubah tajam. Investasi selalu memiliki risiko; potensi hasil lebih tinggi biasanya disertai kemungkinan kerugian lebih besar. Tidak ada keuntungan tinggi yang dijamin tanpa risiko.
+
+Sebelum mengambil keputusan, pahami biaya, aturan pencairan, legalitas penyedia, dan cara kerja produk. Bandingkan informasi dari sumber resmi, bukan hanya testimoni. Untuk pembaca yang belum dewasa, keputusan terkait rekening, kontrak, atau investasi perlu dibicarakan dengan orang tua atau wali.
+
+STUDI KASUS
+
+Seseorang memiliki uang saku bulanan. Ia ingin menabung untuk membeli buku, tetap memiliki dana untuk transportasi, dan menyisihkan sebagian untuk kebutuhan tak terduga. Buat anggaran yang memprioritaskan kebutuhan wajib, menentukan target tabungan yang realistis, serta menyediakan ruang penyesuaian. Tidak ada satu persentase anggaran yang cocok bagi semua orang.
+
+EVALUASI AKHIR
+1. Apa perbedaan kebutuhan dan keinginan dalam anggaran?
+2. Mengapa dana darurat perlu mudah diakses?
+3. Apa arti bunga majemuk?
+4. Sebutkan tiga tanda umum penipuan digital.
+5. Mengapa imbal hasil tinggi tidak boleh dianggap pasti?
+
+KUNCI PEMBAHASAN RINGKAS
+1. Kebutuhan berkaitan dengan hal penting; keinginan merupakan tambahan yang dapat ditunda.
+2. Karena digunakan ketika ada pengeluaran tak terduga.
+3. Bunga dihitung atas pokok dan bunga yang telah terkumpul sebelumnya.
+4. Desakan, tautan mencurigakan, permintaan kode rahasia, atau janji hadiah/hasil tidak masuk akal.
+5. Karena nilai produk dapat berubah dan selalu ada risiko serta biaya.
+
+GLOSARIUM TAMBAHAN
+Anggaran: rencana pemasukan dan pengeluaran.
+Dana darurat: simpanan untuk kebutuhan tak terduga.
+Bunga majemuk: bunga yang dihitung atas pokok beserta bunga sebelumnya.
+Diversifikasi: penyebaran dana ke beberapa jenis aset untuk mengelola risiko.
+OTP: kode sekali pakai untuk verifikasi; tidak boleh dibagikan.
+
+RUJUKAN UNTUK PENDALAMAN
+Otoritas Jasa Keuangan: https://www.ojk.go.id/
+Bank Indonesia — Edukasi dan Perlindungan Konsumen: https://www.bi.go.id/
+Sikapi Uangmu (OJK): https://sikapiuangmu.ojk.go.id/

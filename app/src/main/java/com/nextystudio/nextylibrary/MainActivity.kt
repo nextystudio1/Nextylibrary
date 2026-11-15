@@ -763,7 +763,7 @@ private fun PdfBookReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle
         loading = true
         error = null
         try {
-            val source = book.contentPath ?: error("Alamat PDF belum diatur.")
+            val source = book.contentPath ?: throw IllegalStateException("Alamat PDF belum diatur.")
             val file = withContext(Dispatchers.IO) {
                 val url = when {
                     source.startsWith("https://") || source.startsWith("http://") -> source

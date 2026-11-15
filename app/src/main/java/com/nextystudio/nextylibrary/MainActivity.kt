@@ -168,7 +168,27 @@ private fun HomeScreen(books: List<Book>, categories: List<BookCategory>, loadin
 private fun TopHeader() {
     Row(Modifier.fillMaxWidth().background(Color.White).padding(horizontal = 20.dp, vertical = 15.dp), verticalAlignment = Alignment.CenterVertically) {
         Box(Modifier.size(43.dp).clip(RoundedCornerShape(15.dp)).background(Brush.linearGradient(listOf(Green, Color(0xFF72B99A)))), contentAlignment = Alignment.Center) {
-            Text("▤", color = Color.White, fontSize = 27.sp, fontWeight = FontWeight.Black)
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Box(
+                    Modifier.width(12.dp).height(21.dp).clip(RoundedCornerShape(topStart = 3.dp, bottomStart = 3.dp))
+                        .background(Color.White).padding(2.dp),
+                    contentAlignment = Alignment.Center
+                ) {
+                    Column(verticalArrangement = Arrangement.spacedBy(3.dp)) {
+                        repeat(3) { Box(Modifier.fillMaxWidth().height(1.5.dp).background(Green.copy(alpha = 0.65f))) }
+                    }
+                }
+                Spacer(Modifier.width(1.dp))
+                Box(
+                    Modifier.width(12.dp).height(21.dp).clip(RoundedCornerShape(topEnd = 3.dp, bottomEnd = 3.dp))
+                        .background(Color(0xFFE8F8EF)).padding(2.dp),
+                    contentAlignment = Alignment.Center
+                ) {
+                    Column(verticalArrangement = Arrangement.spacedBy(3.dp)) {
+                        repeat(3) { Box(Modifier.fillMaxWidth().height(1.5.dp).background(Green.copy(alpha = 0.65f))) }
+                    }
+                }
+            }
         }
         Spacer(Modifier.width(11.dp))
         Column(Modifier.weight(1f)) {
@@ -203,7 +223,7 @@ private fun HeroBanner(bookCount: Int) {
 private fun MusicPlayerCard() {
     val player = remember { AmbientMusicPlayer() }
     var playing by remember { mutableStateOf(false) }
-    var volume by remember { mutableFloatStateOf(0.45f) }
+    var volume by remember { mutableFloatStateOf(0.85f) }
     val activity = LocalContext.current as? ComponentActivity
     DisposableEffect(player, activity) {
         val observer = LifecycleEventObserver { _, event ->
@@ -272,7 +292,7 @@ private fun MusicPlayerCard() {
 
 private class AmbientMusicPlayer {
     private var track: AudioTrack? = null
-    private var volume: Float = 0.45f
+    private var volume: Float = 0.85f
 
     fun setVolume(value: Float) {
         volume = value.coerceIn(0f, 1f)
@@ -302,7 +322,7 @@ private class AmbientMusicPlayer {
                 sin(2.0 * PI * root * 1.25 * time) * 0.25 +
                 sin(2.0 * PI * root * 1.5 * time) * 0.18 +
                 sin(2.0 * PI * root * 2.0 * time) * 0.09
-            val value = (pad * envelope * slowPulse * 0.11 * Short.MAX_VALUE).toInt()
+            val value = (pad * envelope * slowPulse * 0.22 * Short.MAX_VALUE).toInt()
                 .coerceIn(Short.MIN_VALUE.toInt(), Short.MAX_VALUE.toInt()).toShort()
             samples[frame * 2] = value
             samples[frame * 2 + 1] = value

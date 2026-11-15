@@ -201,6 +201,7 @@ private fun HeroBanner(bookCount: Int) {
 private fun MusicPlayerCard() {
     val player = remember { AmbientMusicPlayer() }
     var playing by remember { mutableStateOf(false) }
+    var volume by remember { mutableFloatStateOf(0.45f) }
     DisposableEffect(player) {
         onDispose { player.release() }
     }
@@ -236,11 +237,34 @@ private fun MusicPlayerCard() {
                 Text(if (playing) "Ⅱ" else "▶", fontSize = 19.sp, fontWeight = FontWeight.Bold)
             }
         }
+        Row(
+            Modifier.fillMaxWidth().padding(start = 16.dp, end = 16.dp, bottom = 10.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ) {
+            Text("♪", color = Muted, fontSize = 14.sp)
+            Slider(
+                value = volume,
+                onValueChange = {
+                    volume = it
+                    player.setVolume(it)
+                },
+                modifier = Modifier.weight(1f).padding(horizontal = 8.dp),
+                valueRange = 0f..1f,
+                colors = SliderDefaults.colors(thumbColor = Green, activeTrackColor = Green)
+            )
+            Text((volume * 100).toInt().toString() + "%", color = Muted, fontSize = 10.sp, fontWeight = FontWeight.Bold)
+        }
     }
 }
 
 private class AmbientMusicPlayer {
     private var track: AudioTrack? = null
+    private var volume: Float = 0.45f
+
+    fun setVolume(value: Float) {
+        volume = value.coerceIn(0f, 1f)
+        track?.setVolume(volume)
+    }
 
     fun play() {
         val current = track
@@ -288,6 +312,7 @@ private class AmbientMusicPlayer {
         val written = created.write(samples, 0, samples.size)
         if (written > 0) {
             created.setLoopPoints(0, frames, -1)
+            created.setVolume(volume)
             track = created
             created.play()
         } else {

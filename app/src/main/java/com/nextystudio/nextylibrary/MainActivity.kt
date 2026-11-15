@@ -713,7 +713,7 @@ private fun BookDetail(book: Book, categoryName: String?, onBack: () -> Unit, on
 private data class ReaderSection(val heading: String?, val paragraphs: List<String>)
 
 private fun prepareReaderSections(raw: String, title: String): List<ReaderSection> {
-    var text = raw.replace("\\r\\n", "\\n").replace('\\r', '\\n')
+    var text = raw.replace("\r\n", "\n").replace('\r', '\n')
     text = text.replace(Regex("(?im)^\\s*\\*{3}\\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\n?"), "")
         .replace(Regex("(?im)^\\s*\\*{3}\\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*[\\s\\S]*$"), "")
         .replace(Regex("(?is)\\[illustration:.*?\\]"), "")

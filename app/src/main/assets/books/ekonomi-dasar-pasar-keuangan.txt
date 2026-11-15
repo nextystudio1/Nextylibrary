@@ -138,3 +138,32 @@ LATIHAN
 2. Apa beberapa sumber inflasi? Tekanan permintaan, biaya, gangguan pasokan, atau gabungannya.
 3. Mengapa angka pengangguran perlu dilengkapi indikator lain? Karena tidak menunjukkan seluruh mutu dan kondisi pekerjaan.
 4. Apa yang dinilai dalam evaluasi kebijakan? Tujuan, biaya, manfaat, dampak, dan alternatif.
+
+
+
+BAB LANJUTAN — KEGAGALAN PASAR DAN PERAN LEMBAGA
+
+Pasar dapat mengatur pertukaran melalui harga, tetapi tidak selalu menghasilkan hasil yang efisien atau adil. Eksternalitas terjadi ketika kegiatan seseorang atau perusahaan menimbulkan biaya atau manfaat bagi pihak lain yang tidak tercermin sepenuhnya dalam harga. Polusi merupakan contoh biaya eksternal, sedangkan vaksinasi dapat memberi manfaat bagi masyarakat luas.
+
+Barang publik memiliki sifat sulit mengecualikan pengguna dan penggunaan oleh satu orang tidak selalu mengurangi manfaat bagi orang lain. Penyediaannya sering membutuhkan koordinasi dan pembiayaan bersama. Informasi yang tidak seimbang antara penjual dan pembeli juga dapat menyebabkan keputusan yang kurang tepat.
+
+Lembaga keuangan menghubungkan pihak yang memiliki dana dengan pihak yang membutuhkan dana, menyediakan sistem pembayaran, dan membantu pengelolaan risiko. Kepercayaan, pengawasan, keterbukaan biaya, dan perlindungan konsumen penting agar sistem berjalan sehat.
+
+EVALUASI
+1. Apa itu eksternalitas?
+2. Berikan contoh manfaat eksternal.
+3. Mengapa barang publik sering membutuhkan peran pemerintah?
+4. Apa yang dimaksud informasi asimetris?
+5. Mengapa lembaga keuangan perlu diawasi?
+
+PEMBAHASAN
+1. Dampak pada pihak lain yang tidak sepenuhnya tercermin dalam harga.
+2. Imunitas masyarakat dari program vaksinasi.
+3. Karena pasar dapat kurang menyediakan barang yang manfaatnya dinikmati bersama.
+4. Ketika satu pihak memiliki informasi lebih banyak daripada pihak lain.
+5. Untuk menjaga kepercayaan, stabilitas, dan perlindungan konsumen.
+
+GLOSARIUM
+Eksternalitas: dampak kegiatan ekonomi terhadap pihak lain.
+Barang publik: barang dengan sifat non-eksklusif dan non-rival pada tingkat tertentu.
+Informasi asimetris: ketidakseimbangan informasi antar pihak.

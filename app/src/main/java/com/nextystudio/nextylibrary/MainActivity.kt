@@ -1033,16 +1033,16 @@ private fun fetchPublicBookText(source: String): String {
 private fun fetchPressbooksBookText(source: String): String {
     val home = fetchRawBookPage(source)
     val base = URL(source)
-    val anchorPattern = Regex("""(?is)<a\\b[^>]*href\\s*=\\s*["']([^"']+)["'][^>]*>(.*?)</a>""")
+    val anchorPattern = Regex("""(?is)<a\b[^>]*href\s*=\s*["']([^"']+)["'][^>]*>(.*?)</a>""")
     val chapterLinks = anchorPattern.findAll(home).mapNotNull { match ->
         val href = match.groupValues[1].replace("&amp;", "&").trim()
         val label = Html.fromHtml(match.groupValues[2].replace(Regex("""(?is)<[^>]+>"""), " "), Html.FROM_HTML_MODE_LEGACY)
-            .toString().replace(Regex("""\\s+"""), " ").trim()
+            .toString().replace(Regex("""\s+"""), " ").trim()
         runCatching { URL(base, href) }.getOrNull()?.let { candidate ->
             val path = candidate.path.lowercase()
             val isBookChapter = path.contains("/front-matter/") ||
                 path.contains("/chapter-") ||
-                Regex("""/\\d+(?:\\.\\d+)?-[^/]+/?$""").containsMatchIn(path) ||
+                Regex("""/\d+(?:\.\d+)?-[^/]+/?$""").containsMatchIn(path) ||
                 path.endsWith("/glossary/") || path.endsWith("/afterword/")
             if (candidate.host.equals(base.host, true) && isBookChapter) candidate to label else null
         }
@@ -1057,8 +1057,8 @@ private fun fetchPressbooksBookText(source: String): String {
         val (chapterUrl, label) = entry
         val chapterText = fetchSingleBookText(chapterUrl.toString())
         if (chapterText.length > 120) {
-            if (output.isNotEmpty()) output.append("\\n\\n")
-            output.append(label.ifBlank { "Bagian ${index + 1}" }).append("\\n\\n")
+            if (output.isNotEmpty()) output.append("\n\n")
+            output.append(label.ifBlank { "Bagian \${index + 1}" }).append("\n\n")
             output.append(chapterText)
         }
     }
@@ -1094,33 +1094,33 @@ private fun fetchSingleBookText(source: String): String {
     if (raw.isBlank()) throw IllegalStateException("Sumber berhasil dihubungi, tetapi naskahnya kosong.")
     val result = if (raw.trimStart().startsWith("<")) {
         val html = raw
-            .replace(Regex("""(?is)<(script|style|nav|header|footer|aside|form|button|noscript|iframe|svg)[^>]*>.*?</\\1>"""), " ")
-            .replace(Regex("""(?is)<img\\b([^>]*)>""")) { match ->
+            .replace(Regex("""(?is)<(script|style|nav|header|footer|aside|form|button|noscript|iframe|svg)[^>]*>.*?</\1>"""), " ")
+            .replace(Regex("""(?is)<img\b([^>]*)>""")) { match ->
                 val attrs = match.groupValues[1]
-                val src = Regex("""(?i)\\bsrc\\s*=\\s*["']([^"']+)["']""").find(attrs)?.groupValues?.get(1)
-                val alt = Regex("""(?i)\\balt\\s*=\\s*["']([^"']*)["']""").find(attrs)?.groupValues?.get(1).orEmpty()
+                val src = Regex("""(?i)\bsrc\s*=\s*["']([^"']+)["']""").find(attrs)?.groupValues?.get(1)
+                val alt = Regex("""(?i)\balt\s*=\s*["']([^"']*)["']""").find(attrs)?.groupValues?.get(1).orEmpty()
                 val absolute = src?.let { runCatching { URL(requestUrl, it).toString() }.getOrNull() }
                 if (absolute != null && !absolute.startsWith("data:")) {
-                    "\\n\\n[[NEXTY_IMAGE|$absolute|${alt.replace("|", " ").replace("]]", "")}]]\\n\\n"
+                    "\n\n[[NEXTY_IMAGE|$absolute|\${alt.replace("|", " ").replace("]]", "")}]]\n\n"
                 } else " "
             }
-            .replace(Regex("""(?is)<a\\b[^>]*>(.*?)</a>""")) { it.groupValues[1] }
-            .replace(Regex("""(?i)<br\\s*/?>"""), "\\n")
-            .replace(Regex("""(?i)</(p|div|section|article|h[1-6]|li|tr|blockquote|main)>"""), "\\n\\n")
+            .replace(Regex("""(?is)<a\b[^>]*>(.*?)</a>""")) { it.groupValues[1] }
+            .replace(Regex("""(?i)<br\s*/?>"""), "\n")
+            .replace(Regex("""(?i)</(p|div|section|article|h[1-6]|li|tr|blockquote|main)>"""), "\n\n")
             .replace(Regex("""(?i)<li[^>]*>"""), "• ")
             .replace(Regex("""(?is)<[^>]+>"""), " ")
         Html.fromHtml(html, Html.FROM_HTML_MODE_LEGACY).toString()
     } else {
-        val startRegex = Regex("(?im)^\\\\*\\\\*\\\\*\\\\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\\\n]*\\\\*\\\\*\\\\*\\\\s*")
-        val endRegex = Regex("(?im)^\\\\*\\\\*\\\\*\\\\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\\\n]*\\\\*\\\\*\\\\*")
+        val startRegex = Regex("(?im)^\\*\\*\\*\\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\*\\*\\*\\s*")
+        val endRegex = Regex("(?im)^\\*\\*\\*\\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\*\\*\\*")
         val start = startRegex.find(raw)
         val end = endRegex.find(raw, start?.range?.last?.plus(1) ?: 0)
         if (start != null && end != null) raw.substring(start.range.last + 1, end.range.first) else raw
     }
-    val cleaned = result.replace('\\u00a0', ' ')
-        .replace(Regex("[ \\t]+"), " ")
-        .replace(Regex("\\n[ \\t]+"), "\\n")
-        .replace(Regex("\\n{3,}"), "\\n\\n")
+    val cleaned = result.replace('\u00a0', ' ')
+        .replace(Regex("[ \t]+"), " ")
+        .replace(Regex("\n[ \t]+"), "\n")
+        .replace(Regex("\n{3,}"), "\n\n")
         .trim()
     if (cleaned.length < 300) {
         throw IllegalStateException("Naskah dari sumber terlalu pendek atau bukan isi buku.")

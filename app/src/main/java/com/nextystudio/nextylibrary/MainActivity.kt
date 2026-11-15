@@ -50,6 +50,7 @@ fun NextyLibraryApp() {
     var search by remember { mutableStateOf("") }
     var selected by remember { mutableStateOf<Book?>(null) }
     var tab by remember { mutableStateOf("Beranda") }
+    var reloadKey by remember { mutableIntStateOf(0) }
 
     suspend fun loadBooks() {
         loading = true
@@ -63,7 +64,7 @@ fun NextyLibraryApp() {
         }
     }
 
-    LaunchedEffect(Unit) { loadBooks() }
+    LaunchedEffect(reloadKey) { loadBooks() }
 
     MaterialTheme(
         colorScheme = lightColorScheme(
@@ -120,7 +121,7 @@ fun NextyLibraryApp() {
                                         Text("Katalog belum dapat dimuat", fontWeight = FontWeight.Bold)
                                         Text(error!!, color = Color.Gray, fontSize = 12.sp)
                                         Spacer(Modifier.height(10.dp))
-                                        Button(onClick = { /* retry below */ }) { Text("Coba lagi") }
+                                        Button(onClick = { reloadKey++ }) { Text("Coba lagi") }
                                     }
                                     else -> {
                                         val filtered = books.filter {

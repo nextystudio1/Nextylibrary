@@ -1090,11 +1090,14 @@ private fun fetchStaticOerBookText(source: String): String {
             .toString().replace(Regex("""\s+"""), " ").trim()
         runCatching { URL(base, href) }.getOrNull()?.let { candidate ->
             val file = candidate.path.substringAfterLast("/").lowercase()
-            val isNumberedChapter = Regex("""^\d{1,2}-[^/]+\.html$""").matches(file)
+            val isNumberedChapter = Regex("""^(?:chapter[-_])?\d{1,2}[-_][^/]+\.html$""").matches(file)
+            val isChapterLabel = Regex("""(?i)^chapter\s+\d+\s*[:.]""").containsMatchIn(label)
             val isFrontOrBackMatter = file.contains("preface") || file.contains("appendix") ||
-                file.contains("glossary") || file.contains("index")
+                file.contains("glossary") || file.contains("index") ||
+                label.contains("preface", true) || label.contains("appendix", true) ||
+                label.contains("glossary", true)
             val isContentPage = candidate.host.equals(base.host, true) &&
-                file.endsWith(".html") && (isNumberedChapter || isFrontOrBackMatter) &&
+                file.endsWith(".html") && (isNumberedChapter || isChapterLabel || isFrontOrBackMatter) &&
                 candidate.path != base.path
             if (isContentPage) candidate to label else null
         }

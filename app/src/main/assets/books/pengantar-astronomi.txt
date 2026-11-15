@@ -160,3 +160,36 @@ LATIHAN
 2. Bagaimana metode transit menemukan eksoplanet? Mengukur penurunan cahaya saat planet melintas.
 3. Mengapa objek jauh memperlihatkan masa lalu? Cahaya memerlukan waktu untuk sampai.
 4. Mengapa model kosmologi diuji terus? Agar sesuai dengan bukti pengamatan baru.
+
+
+
+BAB LANJUTAN — MENGENALI BATAS PENGAMATAN
+
+Pengamatan astronomi dipengaruhi atmosfer, cuaca, polusi cahaya, ukuran teleskop, dan sensitivitas detektor. Bintang yang tidak terlihat dari halaman rumah belum tentu tidak ada; cahayanya mungkin terlalu redup atau tertutup kondisi pengamatan. Karena itu, astronom menyatakan batas deteksi dan ketidakpastian saat melaporkan hasil.
+
+Resolusi sudut menjelaskan kemampuan membedakan dua objek yang tampak berdekatan di langit. Mengumpulkan lebih banyak cahaya membantu melihat objek redup, sedangkan resolusi dipengaruhi ukuran bukaan dan panjang gelombang serta kondisi instrumen. Pembesaran tinggi saja tidak menjamin gambar lebih jelas.
+
+Pengamatan ilmiah harus mengutamakan keselamatan. Jangan melihat Matahari melalui teleskop, teropong, kamera optik, atau alat pembesar tanpa sistem filter surya khusus yang dirancang untuk instrumen tersebut dan dipasang dengan benar oleh orang kompeten. Filter kacamata hitam biasa tidak aman untuk tujuan ini.
+
+PROYEK
+
+Bandingkan kondisi langit dari dua lokasi aman melalui catatan visual sederhana: tingkat cahaya sekitar, jumlah bintang yang tampak, cuaca, dan waktu. Jangan memasuki tempat gelap atau terpencil sendirian. Lakukan bersama pendamping dan pilih lokasi aman.
+
+EVALUASI
+1. Apa pengaruh polusi cahaya terhadap pengamatan?
+2. Apa yang dimaksud resolusi sudut?
+3. Mengapa pembesaran tinggi tidak selalu menghasilkan gambar lebih jelas?
+4. Apa perbedaan batas deteksi dan bukti bahwa objek tidak ada?
+5. Mengapa filter surya biasa tidak boleh diganti kacamata hitam?
+
+PEMBAHASAN
+1. Cahaya buatan meningkatkan latar langit dan menyulitkan melihat objek redup.
+2. Kemampuan membedakan objek yang berdekatan secara sudut.
+3. Resolusi, kualitas optik, atmosfer, dan cahaya yang terkumpul juga menentukan.
+4. Batas deteksi adalah kemampuan instrumen; objek bisa ada tetapi terlalu redup untuk terdeteksi.
+5. Kacamata hitam tidak dirancang mengurangi radiasi Matahari secara aman untuk instrumen optik.
+
+GLOSARIUM
+Resolusi sudut: kemampuan memisahkan dua objek yang tampak berdekatan.
+Polusi cahaya: cahaya buatan yang mengganggu kondisi gelap alami.
+Batas deteksi: tingkat terlemah yang masih dapat dikenali instrumen.

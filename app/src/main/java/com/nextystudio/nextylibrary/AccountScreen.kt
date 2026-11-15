@@ -110,8 +110,27 @@ fun AccountScreen() {
                     Spacer(Modifier.height(18.dp))
                     Text("Kamu sudah masuk. Fitur sinkronisasi koleksi dan progres akan dihubungkan pada tahap berikutnya.", color = Color(0xFF74847B), fontSize = 12.sp, lineHeight = 18.sp)
                     Spacer(Modifier.height(16.dp))
-                    OutlinedButton(onClick = { session = null; email = ""; password = ""; message = null }, modifier = Modifier.fillMaxWidth()) {
-                        Text("Keluar dari akun")
+                    OutlinedButton(
+                        onClick = {
+                            val current = session
+                            scope.launch {
+                                busy = true
+                                try {
+                                    withContext(Dispatchers.IO) { signOutFromSupabase(current?.accessToken.orEmpty()) }
+                                } catch (_: Exception) {
+                                    // Clear the local session even if the network is unavailable.
+                                } finally {
+                                    session = null
+                                    email = ""
+                                    password = ""
+                                    busy = false
+                                }
+                            }
+                        },
+                        enabled = !busy,
+                        modifier = Modifier.fillMaxWidth()
+                    ) {
+                        Text(if (busy) "Memproses..." else "Keluar dari akun")
                     }
                 }
             }
@@ -159,5 +178,20 @@ private fun authRequest(path: String, body: JSONObject, bearer: String?): JSONOb
             throw IllegalStateException(error?.takeIf { it.isNotBlank() } ?: "Supabase Auth merespons HTTP $code")
         }
         return JSONObject(text)
+    } finally { connection.disconnect() }
+}
+
+private fun signOutFromSupabase(accessToken: String) {
+    val endpoint = BuildConfig.SUPABASE_URL.trimEnd('/') + "/auth/v1/logout"
+    val connection = URL(endpoint).openConnection() as HttpURLConnection
+    try {
+        connection.requestMethod = "POST"
+        connection.connectTimeout = 15000
+        connection.readTimeout = 15000
+        connection.setRequestProperty("apikey", BuildConfig.SUPABASE_PUBLISHABLE_KEY)
+        connection.setRequestProperty("Authorization", "Bearer $accessToken")
+        connection.setRequestProperty("Accept", "application/json")
+        val code = connection.responseCode
+        if (code !in 200..299) throw IllegalStateException("Gagal mengakhiri sesi Auth (HTTP $code)")
     } finally { connection.disconnect() }
 }

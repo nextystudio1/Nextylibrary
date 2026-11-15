@@ -55,6 +55,7 @@ jobs:
             app/src/main/assets/books/geografi-indonesia-dunia.txt
             app/src/main/assets/books/statistika-literasi-data.txt
             app/src/main/assets/books/ekonomi-kehidupan-sehari-hari.txt
+            app/src/main/assets/books/astronomi-alam-semesta.txt
           )
           for book in "${books[@]}"; do
             test -s "$book" || { echo "Naskah kosong/tidak ditemukan: $book"; exit 1; }

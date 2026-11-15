@@ -61,3 +61,22 @@ Efisiensi: perbandingan keluaran berguna dengan masukan.
 
 CATATAN PENULIS
 Persamaan dalam buku merupakan model dasar. Untuk perhitungan nyata, periksa satuan, asumsi, dan kondisi sistem.
+
+
+PENDALAMAN — MEKANIKA DAN ENERGI
+BAB 7 — VEKTOR DAN GERAK DUA DIMENSI
+Perpindahan adalah perubahan posisi dengan arah, sedangkan jarak adalah panjang lintasan. Kecepatan rata-rata menggunakan perpindahan per selang waktu; kelajuan rata-rata menggunakan jarak per selang waktu. Vektor pada bidang dapat diuraikan menjadi komponen mendatar dan tegak. Model gerak peluru ideal menganalisis kedua komponen secara terpisah dengan mengabaikan hambatan udara.
+BAB 8 — HUKUM NEWTON
+Hukum pertama menyatakan benda mempertahankan keadaan gerak jika resultan gaya nol. Hukum kedua menghubungkan resultan gaya dengan massa dan percepatan: F = m × a. Hukum ketiga menyatakan gaya interaksi muncul berpasangan pada dua benda berbeda. Diagram benda bebas membantu menggambarkan gaya berat, normal, tegangan, dan gesekan. Pasangan aksi-reaksi tidak saling meniadakan dalam satu diagram karena bekerja pada benda berbeda.
+BAB 9 — USAHA, ENERGI, DAN DAYA
+Usaha oleh gaya konstan bergantung pada komponen gaya searah perpindahan. Energi kinetik berkaitan dengan gerak, sedangkan energi potensial gravitasi berkaitan dengan posisi. Energi total sistem terisolasi tetap, meskipun energi mekanik dapat berubah menjadi energi internal akibat gesekan. Daya adalah laju perubahan atau pemindahan energi; efisiensi membandingkan keluaran berguna dengan masukan.
+BAB 10 — MOMENTUM DAN IMPULS
+Momentum adalah hasil kali massa dan kecepatan. Impuls berkaitan dengan perubahan momentum akibat gaya selama selang waktu. Pada sistem dengan resultan gaya luar yang dapat diabaikan, momentum total tetap. Dalam tumbukan tidak elastis, energi kinetik dapat berubah menjadi panas, bunyi, atau deformasi meskipun momentum total tetap.
+BAB 11 — GERAK MELINGKAR DAN GRAVITASI
+Gerak melingkar memerlukan percepatan menuju pusat lintasan karena arah kecepatan berubah. Gaya sentripetal bukan jenis gaya baru; peran itu dapat dijalankan oleh tegangan, gravitasi, gesekan, atau gaya lain. Gravitasi menjelaskan interaksi antara massa dan gerak orbit dalam model Newton, sementara relativitas umum memberi gambaran lebih lengkap pada kondisi tertentu.
+BAB 12 — GETARAN DAN GELOMBANG
+Getaran adalah gerak bolak-balik di sekitar keseimbangan. Gelombang membawa energi dan informasi. Gelombang mekanik memerlukan medium, sedangkan gelombang elektromagnetik dapat merambat di ruang hampa. Frekuensi menyatakan jumlah siklus per detik dan diukur dalam hertz.
+LATIHAN
+1. Apa beda jarak dan perpindahan? Jawaban: jarak panjang lintasan; perpindahan perubahan posisi beserta arah.
+2. Mengapa gaya aksi dan reaksi tidak saling meniadakan? Jawaban: bekerja pada benda berbeda.
+3. Benda 2 kg bergerak 3 m/s. Energi kinetiknya? Jawaban: 9 joule.

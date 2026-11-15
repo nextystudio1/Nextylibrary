@@ -79,3 +79,31 @@ LATIHAN
 1. Mengapa jarak kilometer tidak selalu menggambarkan keterjangkauan? Jawaban: waktu, biaya, transportasi, cuaca, dan layanan ikut menentukan.
 2. Apa beda cuaca dan iklim? Jawaban: cuaca jangka pendek; iklim pola jangka panjang.
 3. Sebutkan unsur pembentuk risiko. Jawaban: bahaya, paparan, dan kerentanan.
+
+PENDALAMAN LANJUTAN: WILAYAH, SUMBER DAYA, DAN KEBENCANAAN INDONESIA
+BAB 7 — KEPULAUAN DAN KONEKTIVITAS
+Indonesia terdiri atas ribuan pulau dengan kondisi geografis, kepadatan penduduk, dan akses layanan yang beragam. Laut dapat menjadi penghubung sekaligus hambatan, bergantung pada pelabuhan, jadwal transportasi, cuaca, dan biaya logistik.
+Konektivitas tidak hanya diukur dari panjang jalan atau jumlah pelabuhan. Keterjangkauan waktu, keselamatan, frekuensi layanan, dan kemampuan masyarakat membayar juga penting.
+BAB 8 — SUMBER DAYA ALAM DAN PENGELOLAAN
+Sumber daya alam mencakup sumber daya terbarukan dan tak terbarukan. Pemanfaatan perlu mempertimbangkan laju regenerasi, daya dukung, hak masyarakat, dan biaya pemulihan. Pendapatan dari ekstraksi tidak selalu mencerminkan seluruh biaya sosial dan lingkungan.
+Pengelolaan berkelanjutan memerlukan data cadangan, pemantauan dampak, transparansi izin, serta penegakan aturan. Masyarakat setempat perlu terlibat dalam pengambilan keputusan yang memengaruhi ruang hidupnya.
+BAB 9 — PERTANIAN, PANGAN, DAN AIR
+Kondisi tanah, curah hujan, irigasi, topografi, dan akses pasar memengaruhi sistem pertanian. Ketahanan pangan bukan hanya jumlah produksi, tetapi juga keterjangkauan, distribusi, kualitas gizi, dan stabilitas pasokan.
+Daerah aliran sungai menghubungkan wilayah hulu dan hilir. Perubahan tutupan lahan di hulu dapat memengaruhi erosi, sedimentasi, kualitas air, dan risiko banjir di hilir.
+BAB 10 — KOTA DAN PERUBAHAN PENGGUNAAN LAHAN
+Urbanisasi meningkatkan kebutuhan perumahan, transportasi, air, energi, dan layanan publik. Perluasan kota yang tidak terencana dapat mengurangi lahan resapan dan meningkatkan waktu perjalanan.
+Tata ruang yang baik menghubungkan perumahan dengan pekerjaan dan transportasi umum. Ruang terbuka hijau, drainase, dan perlindungan kawasan rawan membantu meningkatkan ketahanan kota.
+BAB 11 — GEMPA, TSUNAMI, DAN VULKANISME
+Indonesia memiliki aktivitas tektonik dan vulkanik karena letaknya pada pertemuan lempeng. Gempa dapat terjadi di zona subduksi, sesar, dan sumber lain. Tsunami dapat dipicu oleh perpindahan dasar laut, longsoran, atau aktivitas vulkanik tertentu.
+Mitigasi mencakup peta bahaya, bangunan sesuai standar, jalur evakuasi, sistem peringatan, dan latihan berkala. Saat peringatan resmi dikeluarkan, ikuti arahan otoritas dan jangan mendekati pantai untuk melihat keadaan.
+BAB 12 — BANJIR, KEKERINGAN, DAN LONGSOR
+Banjir dipengaruhi hujan, kapasitas sungai, kondisi drainase, pasang, dan perubahan lahan. Kekeringan berkaitan dengan defisit air dalam periode tertentu, sedangkan longsor dipengaruhi kemiringan, material, air, dan perubahan lereng.
+Pemetaan risiko harus menggabungkan bahaya, paparan, dan kerentanan. Data historis berguna tetapi tidak menjamin pola masa depan tetap sama.
+BAB 13 — MEMBACA PETA TEMATIK
+Peta tematik menampilkan satu atau beberapa variabel seperti kepadatan penduduk, curah hujan, atau penggunaan lahan. Periksa tahun data, resolusi spasial, klasifikasi warna, sumber, dan metode pengumpulan.
+Jangan menyimpulkan sebab-akibat hanya dari dua pola peta yang tampak berdekatan. Data spasial perlu dibandingkan dengan pengetahuan lokal dan pengamatan lapangan.
+LATIHAN PENDALAMAN
+1. Mengapa konektivitas antarpulau tidak cukup dinilai dari jumlah pelabuhan? Jawaban: frekuensi, biaya, keselamatan, cuaca, dan akses masyarakat juga menentukan.
+2. Apa beda bahaya dan kerentanan? Jawaban: bahaya adalah potensi kejadian; kerentanan adalah kondisi yang membuat masyarakat mudah terdampak.
+3. Mengapa wilayah hulu dan hilir perlu dikelola bersama? Jawaban: perubahan air dan sedimen di hulu memengaruhi kondisi hilir.
+4. Mengapa peta harus mencantumkan tahun data? Jawaban: kondisi wilayah berubah dan data lama dapat tidak lagi mewakili keadaan sekarang.

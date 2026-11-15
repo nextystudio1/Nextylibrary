@@ -274,3 +274,27 @@ Rujukan dicantumkan untuk pendalaman. Naskah ini disusun secara orisinal oleh Ti
 
 PENUTUP
 AI adalah alat yang kuat tetapi memiliki keterbatasan. Pemahaman konsep, sikap kritis, perlindungan data, dan tanggung jawab manusia menentukan apakah teknologi digunakan secara bermanfaat. Belajarlah memahami cara kerja sistem, uji hasilnya, dan jangan menyerahkan penilaian penting kepada mesin tanpa pemeriksaan.
+
+PENDALAMAN: KECERDASAN BUATAN, DATA, DAN TANGGUNG JAWAB
+BAB 7 — PEMBELAJARAN MESIN
+Pembelajaran mesin menggunakan data untuk membangun model yang mengenali pola atau membuat prediksi. Pembelajaran terawasi menggunakan contoh berlabel, pembelajaran tanpa pengawasan mencari struktur tanpa label target, sedangkan pembelajaran penguatan mempelajari tindakan melalui umpan balik lingkungan.
+Model tidak “memahami” data seperti manusia. Kinerjanya bergantung pada data, tujuan, representasi, dan evaluasi. Sistem dapat gagal ketika menghadapi kondisi yang berbeda dari data pelatihan.
+BAB 8 — DATA LATIH, VALIDASI, DAN UJI
+Data biasanya dibagi menjadi bagian pelatihan, validasi, dan pengujian. Data uji sebaiknya tidak digunakan berulang kali untuk memilih model, karena hasil evaluasi dapat menjadi terlalu optimistis. Kebocoran data terjadi ketika informasi yang seharusnya tidak tersedia ikut masuk dalam proses pelatihan.
+Ketidakseimbangan kelas dapat membuat akurasi terlihat tinggi meskipun model gagal mengenali kelompok minoritas. Gunakan metrik sesuai konteks, seperti presisi, recall, dan matriks kebingungan.
+BAB 9 — JARINGAN SARAF DAN MODEL BAHASA
+Jaringan saraf terdiri atas unit komputasi yang menggabungkan masukan melalui bobot dan fungsi aktivasi. Pelatihan menyesuaikan bobot untuk mengurangi fungsi kerugian. Model bahasa besar mempelajari pola token dari data pelatihan dan menghasilkan keluaran berdasarkan konteks.
+Keluaran yang lancar tidak selalu benar. Model dapat menghasilkan informasi keliru atau rujukan yang tidak ada. Verifikasi fakta penting melalui sumber tepercaya dan jangan memasukkan data rahasia ke layanan yang tidak disetujui.
+BAB 10 — BIAS, KEADILAN, DAN PRIVASI
+Bias dapat berasal dari data historis, cara pelabelan, pemilihan sampel, atau tujuan optimasi. Evaluasi perlu memeriksa dampak pada kelompok berbeda dan konteks penggunaan. Angka akurasi agregat dapat menyembunyikan kegagalan pada kelompok tertentu.
+Minimisasi data, persetujuan, pembatasan akses, dan pengamanan penyimpanan merupakan prinsip penting. Data sensitif tidak boleh digunakan tanpa dasar yang sah dan perlindungan memadai.
+BAB 11 — KEAMANAN DAN PENYALAHGUNAAN
+Sistem AI dapat digunakan untuk tujuan bermanfaat maupun disalahgunakan. Risiko meliputi penipuan, manipulasi, pelanggaran privasi, dan otomasi keputusan yang tidak adil. Desain sistem perlu mencakup pengujian, pemantauan, pembatasan akses, dan mekanisme pelaporan.
+Jangan menganggap keluaran otomatis sebagai keputusan final pada konteks berisiko tinggi. Pengawasan manusia dan jalur banding tetap diperlukan.
+BAB 12 — MENILAI KLAIM TENTANG AI
+Klaim seperti “AI selalu objektif” atau “AI menggantikan semua pekerjaan” terlalu menyederhanakan persoalan. Tanyakan tugas apa yang diuji, data apa yang digunakan, bagaimana keberhasilan diukur, dan siapa yang menanggung risiko.
+AI dapat membantu merangkum, mengklasifikasi, atau menghasilkan draf, tetapi hasil perlu diperiksa. Penggunaan yang bertanggung jawab menyatakan kapan AI digunakan dan menjaga tanggung jawab manusia.
+LATIHAN
+1. Mengapa data uji harus dipisahkan? Jawaban: agar evaluasi mengukur kemampuan pada data yang tidak digunakan untuk melatih atau memilih model.
+2. Apa itu kebocoran data? Jawaban: informasi yang tidak semestinya tersedia ikut memengaruhi pelatihan atau evaluasi.
+3. Mengapa keluaran model bahasa harus diverifikasi? Jawaban: kelancaran bahasa tidak menjamin ketepatan fakta.

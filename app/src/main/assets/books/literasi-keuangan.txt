@@ -220,3 +220,15 @@ LATIHAN
 1. Mengapa cicilan kecil tidak selalu berarti pinjaman murah? Jawaban: tenor dan biaya tambahan dapat membuat total pembayaran tinggi.
 2. Apa tujuan diversifikasi? Jawaban: mengurangi ketergantungan pada satu aset atau sumber risiko.
 3. Sebutkan dua tanda penipuan keuangan. Jawaban: janji keuntungan pasti yang tidak masuk akal dan desakan mengirim uang segera.
+
+BAB LANJUTAN: ANGGARAN DAN BIAYA KEUANGAN
+Anggaran merencanakan penggunaan uang dalam periode tertentu. Catat pemasukan dan pengeluaran menurut kategori, lalu bandingkan rencana dengan realisasi. Pengeluaran tidak rutin seperti perbaikan atau kebutuhan sekolah perlu dipertimbangkan agar tidak selalu menjadi kejutan.
+Dana darurat ditujukan untuk kebutuhan mendesak yang tidak direncanakan. Besarnya tidak sama untuk semua orang; pertimbangkan kestabilan pemasukan, tanggungan, dan akses bantuan. Tujuan tabungan sebaiknya memiliki nilai, jangka waktu, dan langkah realistis.
+BUNGA DAN PINJAMAN
+Bunga sederhana dihitung dari pokok tetap, sedangkan bunga majemuk memperhitungkan bunga yang telah terkumpul. Biaya administrasi, denda, dan tenor memengaruhi total pembayaran. Bandingkan total biaya, bukan hanya cicilan per periode.
+KEAMANAN DIGITAL
+Gunakan kata sandi unik dan autentikasi tambahan. Jangan membagikan OTP, PIN, atau kata sandi. Penawaran dengan keuntungan pasti tidak masuk akal, desakan transfer, atau permintaan akses akun patut dicurigai. Keputusan keuangan besar perlu didiskusikan dengan orang dewasa tepercaya.
+LATIHAN
+1. Mengapa anggaran dibandingkan dengan realisasi? Jawaban: untuk mengetahui selisih dan memperbaiki rencana.
+2. Apa beda bunga sederhana dan majemuk? Jawaban: bunga majemuk dihitung atas pokok serta bunga terkumpul.
+3. Mengapa total biaya lebih penting daripada cicilan? Jawaban: cicilan kecil dapat berasal dari tenor panjang atau biaya tambahan.

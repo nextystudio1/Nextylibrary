@@ -1,0 +1,63 @@
+FISIKA DASAR: GERAK DAN ENERGI
+Memahami Hukum Alam dalam Kehidupan Sehari-hari
+Tim Pengetahuan Nexty Studio
+Edisi 2026
+
+PENGANTAR
+Fisika berusaha menjelaskan gejala alam melalui pengamatan, pengukuran, model, dan pengujian. Gerak kendaraan, jatuhnya benda, suara, cahaya, dan penggunaan energi dapat dipelajari dengan konsep fisika. Buku ini mengenalkan dasar mekanika dengan bahasa sederhana.
+
+BAB 1 — BESARAN DAN PENGUKURAN
+Besaran adalah sesuatu yang dapat diukur dan dinyatakan dengan angka serta satuan. Panjang, massa, waktu, suhu, dan arus listrik merupakan contoh besaran. Sistem Satuan Internasional (SI) menyediakan satuan baku agar hasil pengukuran dapat dibandingkan.
+Panjang diukur dalam meter, massa dalam kilogram, dan waktu dalam sekon. Kecepatan dinyatakan dalam meter per sekon. Satuan harus selalu ditulis karena angka tanpa satuan dapat menimbulkan salah tafsir.
+Pengukuran memiliki keterbatasan. Ketelitian alat, cara membaca skala, suhu lingkungan, dan keterampilan pengamat dapat memengaruhi hasil. Catat hasil sesuai ketelitian alat; jangan menuliskan angka desimal berlebihan seolah-olah pengukuran sangat presisi.
+Besaran skalar hanya memiliki nilai, misalnya massa dan suhu. Besaran vektor memiliki nilai dan arah, misalnya perpindahan, kecepatan, dan gaya. Arah penting saat menghitung gerak dua dimensi.
+
+BAB 2 — GERAK DAN KECEPATAN
+Gerak ditentukan terhadap titik acuan. Seseorang yang duduk di bus diam terhadap kursinya, tetapi bergerak terhadap jalan. Karena itu, pernyataan tentang gerak perlu menyebutkan acuan.
+Jarak adalah panjang lintasan yang ditempuh, sedangkan perpindahan adalah perubahan posisi beserta arahnya. Keduanya dapat berbeda. Jika seseorang berjalan mengelilingi lapangan dan kembali ke titik awal, jarak tidak nol tetapi perpindahan nol.
+Kelajuan rata-rata adalah jarak total dibagi waktu total. Kecepatan rata-rata adalah perpindahan dibagi waktu. Percepatan menyatakan perubahan kecepatan tiap satuan waktu.
+Grafik posisi terhadap waktu dapat menunjukkan gerak. Kemiringan grafik posisi-waktu menyatakan kecepatan. Grafik kecepatan-waktu membantu melihat percepatan dan perpindahan selama interval tertentu.
+
+BAB 3 — GAYA DAN HUKUM NEWTON
+Gaya merupakan interaksi yang dapat mengubah gerak atau bentuk benda. Gaya memiliki besar dan arah. Satuan gaya dalam SI adalah newton.
+Hukum I Newton menyatakan bahwa benda mempertahankan keadaan diam atau gerak lurus beraturan jika resultan gaya padanya nol. Sifat mempertahankan keadaan gerak disebut inersia.
+Hukum II Newton menghubungkan resultan gaya, massa, dan percepatan melalui persamaan F = m × a. Untuk massa tetap, gaya resultan yang lebih besar menghasilkan percepatan lebih besar.
+Hukum III Newton menyatakan bahwa ketika benda A memberikan gaya pada benda B, benda B memberikan gaya yang sama besar dan berlawanan arah pada A. Pasangan gaya bekerja pada dua benda berbeda, sehingga tidak saling meniadakan pada satu benda.
+Gesekan muncul ketika permukaan saling bersentuhan. Gesekan dapat membantu berjalan dan mengerem, tetapi juga menyebabkan keausan serta perubahan energi menjadi panas.
+
+BAB 4 — USAHA DAN ENERGI
+Dalam fisika, usaha terjadi ketika gaya menyebabkan perpindahan dengan komponen gaya searah perpindahan. Untuk gaya konstan searah gerak, usaha sama dengan gaya dikalikan perpindahan.
+Energi adalah kemampuan sistem untuk melakukan usaha atau menyebabkan perubahan. Energi kinetik berkaitan dengan gerak, sedangkan energi potensial gravitasi berkaitan dengan posisi dalam medan gravitasi.
+Energi dapat berubah bentuk. Benda yang jatuh mengubah energi potensial gravitasi menjadi energi kinetik. Pada sistem nyata, sebagian energi mekanik dapat berubah menjadi panas dan suara akibat gesekan.
+Hukum kekekalan energi menyatakan energi total sistem tertutup tetap, meskipun bentuknya berubah. Dalam penggunaan sehari-hari, efisiensi menjelaskan perbandingan energi berguna dengan energi yang masuk.
+
+BAB 5 — MOMENTUM DAN TEKANAN
+Momentum adalah hasil kali massa dan kecepatan. Momentum merupakan besaran vektor. Perubahan momentum berkaitan dengan impuls, yaitu gaya yang bekerja selama selang waktu tertentu.
+Dalam sistem yang resultan gaya luarnya dapat diabaikan, momentum total dipertahankan. Prinsip ini membantu menjelaskan tumbukan dan gerak benda yang saling berinteraksi.
+Tekanan adalah gaya tegak lurus per satuan luas. Untuk gaya yang sama, luas bidang sentuh lebih kecil menghasilkan tekanan lebih besar. Tekanan fluida bertambah dengan kedalaman pada kondisi fluida diam.
+Prinsip tekanan membantu menjelaskan alat hidrolik dan perilaku benda di dalam air. Penerapannya harus memperhatikan batas bahan dan keselamatan rancangan.
+
+BAB 6 — FISIKA DALAM KEHIDUPAN
+Sabuk pengaman dan zona remuk kendaraan berkaitan dengan perubahan momentum selama tumbukan. Fitur keselamatan dirancang untuk mengelola gaya dan waktu perlambatan.
+Energi listrik dapat diubah menjadi cahaya, panas, suara, atau gerak. Pembangkit listrik mengubah bentuk energi lain menjadi energi listrik. Setiap proses memiliki efisiensi dan dampak lingkungan.
+Model fisika menyederhanakan kenyataan agar dapat dianalisis. Model benda titik, bidang tanpa gesekan, atau tali ideal berguna untuk perhitungan awal, tetapi tidak menggambarkan seluruh keadaan nyata.
+Belajar fisika berarti bertanya, mengukur, membangun model, menguji prediksi, dan memperbaiki penjelasan ketika bukti tidak sesuai.
+
+LATIHAN DAN PEMBAHASAN
+1. Apa satuan SI untuk gaya? Jawaban: newton.
+2. Benda menempuh 100 meter dalam 20 sekon. Berapa kelajuan rata-ratanya? Jawaban: 100/20 = 5 m/s.
+3. Apa arti resultan gaya nol? Jawaban: percepatan benda nol; benda tetap diam atau bergerak dengan kecepatan konstan.
+4. Sebutkan dua bentuk energi mekanik. Jawaban: energi kinetik dan energi potensial.
+5. Mengapa satuan harus dicantumkan? Jawaban: agar makna dan perbandingan hasil pengukuran jelas.
+
+GLOSARIUM
+Besaran: sesuatu yang dapat diukur.
+Vektor: besaran yang memiliki nilai dan arah.
+Perpindahan: perubahan posisi beserta arah.
+Percepatan: perubahan kecepatan per satuan waktu.
+Resultan gaya: jumlah vektor semua gaya pada benda.
+Momentum: hasil kali massa dan kecepatan.
+Efisiensi: perbandingan keluaran berguna dengan masukan.
+
+CATATAN PENULIS
+Persamaan dalam buku merupakan model dasar. Untuk perhitungan nyata, periksa satuan, asumsi, dan kondisi sistem.

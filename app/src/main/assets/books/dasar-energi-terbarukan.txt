@@ -125,3 +125,36 @@ LATIHAN
 2. Sebutkan faktor pemilihan penyimpanan energi. Durasi, biaya, efisiensi, umur, lokasi, dan dampak lingkungan.
 3. Mengapa bioenergi tidak otomatis netral karbon? Dampak lahan, bahan baku, proses, dan rantai pasok perlu dihitung.
 4. Apa arti transisi energi yang adil? Perubahan energi yang memperhatikan akses, biaya, pekerja, dan masyarakat terdampak.
+
+
+
+BAB LANJUTAN — MENILAI SISTEM ENERGI
+
+Setiap teknologi energi perlu dinilai sepanjang daur hidupnya, mulai dari bahan baku, pembuatan, pengangkutan, operasi, hingga akhir masa pakai. Panel surya tidak menghasilkan listrik saat malam tanpa dukungan penyimpanan atau sumber lain, sedangkan turbin angin bergantung pada kondisi angin. Keterbatasan tersebut tidak meniadakan manfaatnya, tetapi perlu dimasukkan dalam perencanaan sistem.
+
+Keandalan jaringan listrik membutuhkan keseimbangan antara produksi dan permintaan. Penyimpanan energi, jaringan antarwilayah, pembangkit yang dapat diatur, dan pengelolaan beban dapat membantu mengatasi perubahan produksi. Tidak ada satu teknologi yang menjadi jawaban tunggal untuk semua wilayah.
+
+Dampak lingkungan juga beragam. Pembangunan bendungan dapat mengubah aliran sungai dan habitat; pertambangan bahan baterai dapat menimbulkan tekanan lingkungan; pembangkit biomassa perlu memperhatikan sumber bahan baku dan perubahan penggunaan lahan. Penilaian yang adil membandingkan manfaat, biaya, emisi, kebutuhan lahan, dan dampak sosial.
+
+PROYEK
+
+Bandingkan dua pilihan energi untuk suatu wilayah hipotetis. Buat tabel kebutuhan listrik, ketersediaan sumber daya, biaya awal, kebutuhan jaringan, dampak lingkungan, dan keandalan. Jelaskan asumsi dan data yang masih diperlukan sebelum keputusan nyata dibuat.
+
+EVALUASI
+1. Mengapa energi surya dan angin memerlukan perencanaan fleksibilitas?
+2. Apa yang dimaksud daur hidup teknologi?
+3. Sebutkan dua dampak yang perlu diperiksa pada proyek bendungan.
+4. Mengapa penyimpanan energi tidak menyelesaikan semua persoalan jaringan?
+5. Mengapa pilihan energi perlu disesuaikan dengan kondisi wilayah?
+
+PEMBAHASAN
+1. Produksinya berubah mengikuti cuaca dan waktu.
+2. Penilaian dari bahan baku sampai akhir masa pakai.
+3. Perubahan habitat, aliran air, sedimentasi, dan dampak sosial.
+4. Penyimpanan memiliki biaya, kapasitas, efisiensi, dan durasi terbatas.
+5. Sumber daya, jaringan, kebutuhan, ekologi, dan masyarakat berbeda.
+
+GLOSARIUM
+Daur hidup: seluruh tahap keberadaan produk atau teknologi.
+Fleksibilitas jaringan: kemampuan sistem menyesuaikan produksi dan permintaan.
+Penyimpanan energi: teknologi menyimpan energi untuk digunakan kemudian.

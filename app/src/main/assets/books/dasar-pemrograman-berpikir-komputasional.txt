@@ -445,3 +445,27 @@ PENUTUP
 Pemrograman bukan sekadar menghafal perintah bahasa tertentu. Intinya adalah memahami masalah, merancang langkah yang masuk akal, menguji hasil, dan memperbaiki kekurangan. Bahasa serta alat dapat berubah, tetapi kemampuan berpikir terstruktur tetap berguna.
 
 Mulailah dari masalah kecil yang dekat dengan kehidupan sehari-hari. Buat rancangan, tulis pseudocode, implementasikan, lalu uji dengan berbagai masukan. Simpan catatan tentang hal yang berhasil dan hal yang perlu diperbaiki. Dengan latihan yang konsisten dan sikap bertanggung jawab, pembaca dapat berkembang dari pengguna teknologi menjadi pembuat solusi digital.
+
+PENDALAMAN: ALGORITMA, DATA, DAN PEMECAHAN MASALAH
+BAB 7 — DEKOMPOSISI DAN ABSTRAKSI
+Dekomposisi memecah masalah besar menjadi bagian kecil yang dapat ditangani. Abstraksi memilih detail yang relevan untuk tujuan tertentu. Saat merancang aplikasi perpustakaan, misalnya, model data dapat berfokus pada buku, anggota, peminjaman, dan tanggal kembali tanpa meniru setiap detail fisik rak.
+Pola membantu menemukan bagian yang dapat digunakan kembali. Setelah solusi disusun, uji setiap bagian secara terpisah sebelum menggabungkannya. Dokumentasikan asumsi agar pengguna lain memahami batas solusi.
+BAB 8 — REPRESENTASI DATA
+Komputer menyimpan informasi dalam bentuk bit. Teks, gambar, suara, dan angka dikodekan menggunakan aturan tertentu. Kesalahan encoding dapat membuat karakter tampil tidak benar. Ukuran berkas dipengaruhi resolusi, durasi, format, dan kompresi.
+Kompresi lossless mempertahankan informasi asli, sedangkan kompresi lossy mengurangi sebagian informasi demi ukuran lebih kecil. Pilih format sesuai kebutuhan kualitas, kompatibilitas, dan penyimpanan.
+BAB 9 — PENCARIAN DAN PENGURUTAN
+Pencarian linear memeriksa elemen satu demi satu. Pencarian biner bekerja pada data terurut dengan membagi ruang pencarian berulang kali. Pengurutan menyusun data berdasarkan kriteria, misalnya abjad atau nilai.
+Pemilihan algoritma perlu mempertimbangkan ukuran data, kebutuhan kestabilan urutan, dan biaya memori. Uji dengan data kosong, satu elemen, duplikasi, dan nilai yang tidak ditemukan.
+BAB 10 — DATA, BASIS DATA, DAN KUALITAS
+Basis data mengorganisasi data agar dapat disimpan, dicari, dan diperbarui secara konsisten. Tabel relasional menggunakan baris, kolom, kunci utama, dan relasi. Validasi mencegah nilai yang tidak sesuai aturan, sedangkan cadangan membantu pemulihan ketika terjadi kegagalan.
+Data berkualitas harus akurat, lengkap, konsisten, relevan, dan mutakhir. Jangan menyimpan data pribadi yang tidak diperlukan. Tetapkan hak akses dan prosedur penghapusan.
+BAB 11 — ANTARMUKA DAN PENGALAMAN PENGGUNA
+Antarmuka yang baik membuat tindakan utama mudah ditemukan, memberi umpan balik, dan mencegah kesalahan. Konsistensi istilah, ukuran teks yang terbaca, kontras, serta dukungan aksesibilitas membantu lebih banyak orang.
+Uji aplikasi dengan pengguna dan perangkat berbeda. Catat tugas yang gagal, bagian yang membingungkan, serta waktu penyelesaian. Jangan menganggap selera pengembang mewakili semua pengguna.
+BAB 12 — PENGUJIAN DAN PEMELIHARAAN
+Pengujian unit memeriksa fungsi kecil, pengujian integrasi memeriksa kerja antarbagian, dan pengujian sistem memeriksa aplikasi secara keseluruhan. Regresi memastikan perbaikan tidak merusak fitur yang sebelumnya berjalan.
+Perangkat lunak perlu diperbarui untuk memperbaiki bug, menutup celah keamanan, dan menyesuaikan perubahan platform. Catatan versi harus menjelaskan perubahan secara jujur.
+LATIHAN
+1. Mengapa data perlu divalidasi? Jawaban: untuk mencegah nilai yang tidak sesuai aturan masuk ke sistem.
+2. Apa beda kompresi lossless dan lossy? Jawaban: lossless mempertahankan data asli, lossy mengurangi sebagian informasi.
+3. Mengapa pengujian regresi diperlukan? Jawaban: untuk memastikan perubahan baru tidak merusak fungsi lama.

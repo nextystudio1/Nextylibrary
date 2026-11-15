@@ -45,6 +45,8 @@ jobs:
             app/src/main/assets/books/ekosistem-iklim.txt
             app/src/main/assets/books/literasi-keuangan.txt
             app/src/main/assets/books/panduan-belajar-efektif.txt
+            app/src/main/assets/books/belajar-sains-sekitar-kita.txt
+            app/src/main/assets/books/dasar-pemrograman-berpikir-komputasional.txt
           )
           for book in "${books[@]}"; do
             test -s "$book" || { echo "Naskah kosong/tidak ditemukan: $book"; exit 1; }

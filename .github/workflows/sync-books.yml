@@ -1,0 +1,88 @@
+name: Sync NextyLibrary Books to Supabase
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync-books:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Upload book manuscripts and update catalog paths
+        shell: bash
+        env:
+          SUPABASE_URL: https://ykrthuvkcspdzxzvxifh.supabase.co
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "${SUPABASE_SERVICE_ROLE_KEY:-}" ]; then
+            echo "::error::GitHub Secret SUPABASE_SERVICE_ROLE_KEY belum diatur."
+            exit 1
+          fi
+
+          upload_and_link() {
+            local filename="$1"
+            local slug="$2"
+            local file="app/src/main/assets/books/$filename"
+            local object_url="$SUPABASE_URL/storage/v1/object/public/public-books/$filename"
+
+            test -s "$file" || { echo "::error::Naskah tidak ditemukan: $file"; exit 1; }
+
+            echo "Mengunggah $filename"
+            curl --fail-with-body --silent --show-error \
+              -X POST \
+              -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
+              -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
+              -H "Content-Type: text/plain; charset=utf-8" \
+              -H "x-upsert: true" \
+              --data-binary "@$file" \
+              "$SUPABASE_URL/storage/v1/object/public-books/$filename" \
+              -o /dev/null
+
+            local payload
+            payload=$(jq -n --arg path "$object_url" '{content_path: $path}')
+            local response
+            response=$(curl --fail-with-body --silent --show-error \
+              -X PATCH \
+              -H "apikey: $SUPABASE_SERVICE_ROLE_KEY" \
+              -H "Authorization: Bearer $SUPABASE_SERVICE_ROLE_KEY" \
+              -H "Content-Type: application/json" \
+              -H "Prefer: return=representation" \
+              --data "$payload" \
+              "$SUPABASE_URL/rest/v1/books?slug=eq.$slug&is_published=eq.true")
+
+            local updated
+            updated=$(printf '%s' "$response" | jq 'length')
+            if [ "$updated" -ne 1 ]; then
+              echo "::error::Slug $slug harus cocok dengan tepat satu buku terbit; hasil: $updated"
+              exit 1
+            fi
+            echo "OK: $slug sekarang menggunakan Supabase Storage"
+          }
+
+          upload_and_link "sejarah-kemerdekaan.txt" "sejarah-menuju-kemerdekaan-indonesia"
+          upload_and_link "berpikir-kritis-digital.txt" "berpikir-kritis-digital"
+          upload_and_link "gizi-seimbang.txt" "mengenal-gizi-seimbang"
+          upload_and_link "tata-surya.txt" "mengenal-tata-surya"
+          upload_and_link "ekosistem-iklim.txt" "ekosistem-perubahan-iklim"
+          upload_and_link "literasi-keuangan.txt" "dasar-literasi-keuangan"
+          upload_and_link "panduan-belajar-efektif.txt" "panduan-belajar-efektif"
+          upload_and_link "belajar-sains-sekitar-kita.txt" "belajar-sains-dari-sekitar-kita"
+          upload_and_link "dasar-pemrograman-berpikir-komputasional.txt" "dasar-pemrograman-berpikir-komputasional"
+          upload_and_link "matematika-dalam-kehidupan.txt" "matematika-dalam-kehidupan"
+          upload_and_link "kecerdasan-buatan-untuk-semua.txt" "kecerdasan-buatan-untuk-semua"
+          upload_and_link "fisika-di-sekitar-kita.txt" "fisika-di-sekitar-kita"
+          upload_and_link "biologi-kehidupan.txt" "biologi-kehidupan"
+          upload_and_link "kimia-untuk-kehidupan.txt" "kimia-untuk-kehidupan"
+          upload_and_link "geografi-indonesia-dunia.txt" "geografi-indonesia-dunia"
+          upload_and_link "statistika-literasi-data.txt" "statistika-literasi-data"
+          upload_and_link "ekonomi-kehidupan-sehari-hari.txt" "ekonomi-kehidupan-sehari-hari"
+          upload_and_link "astronomi-alam-semesta.txt" "astronomi-alam-semesta"
+
+          echo "Semua naskah berhasil diunggah dan jalur katalog diperbarui."

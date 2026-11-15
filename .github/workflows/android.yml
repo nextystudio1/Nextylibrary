@@ -33,34 +33,21 @@ jobs:
           fi
           "$SDKMANAGER" --licenses </dev/null || true
           "$SDKMANAGER" "platform-tools" "platforms;android-36" "build-tools;36.0.0"
-      - name: Validate bundled learning books
+      - name: Validate all bundled learning books
         shell: bash
         run: |
           set -euo pipefail
-          books=(
-            app/src/main/assets/books/sejarah-kemerdekaan.txt
-            app/src/main/assets/books/berpikir-kritis-digital.txt
-            app/src/main/assets/books/gizi-seimbang.txt
-            app/src/main/assets/books/tata-surya.txt
-            app/src/main/assets/books/ekosistem-iklim.txt
-            app/src/main/assets/books/literasi-keuangan.txt
-            app/src/main/assets/books/panduan-belajar-efektif.txt
-            app/src/main/assets/books/belajar-sains-sekitar-kita.txt
-            app/src/main/assets/books/dasar-pemrograman-berpikir-komputasional.txt
-            app/src/main/assets/books/matematika-dalam-kehidupan.txt
-            app/src/main/assets/books/kecerdasan-buatan-untuk-semua.txt
-            app/src/main/assets/books/fisika-di-sekitar-kita.txt
-            app/src/main/assets/books/biologi-kehidupan.txt
-            app/src/main/assets/books/kimia-untuk-kehidupan.txt
-            app/src/main/assets/books/geografi-indonesia-dunia.txt
-            app/src/main/assets/books/statistika-literasi-data.txt
-            app/src/main/assets/books/ekonomi-kehidupan-sehari-hari.txt
-            app/src/main/assets/books/astronomi-alam-semesta.txt
-          )
+          book_dir="app/src/main/assets/books"
+          mapfile -t books < <(find "$book_dir" -maxdepth 1 -type f -name '*.txt' | sort)
+          count="${#books[@]}"
+          test "$count" -eq 40 || { echo "Jumlah buku harus 40, ditemukan: $count"; exit 1; }
           for book in "${books[@]}"; do
-            test -s "$book" || { echo "Naskah kosong/tidak ditemukan: $book"; exit 1; }
+            test -s "$book" || { echo "Naskah kosong: $book"; exit 1; }
             bytes=$(wc -c < "$book")
             test "$bytes" -ge 10000 || { echo "Naskah terlalu pendek: $book ($bytes byte)"; exit 1; }
+            grep -Eiq '^BAB[[:space:]]' "$book" || { echo "Struktur bab tidak ditemukan: $book"; exit 1; }
+            grep -Eiq '^EVALUASI' "$book" || { echo "Evaluasi belum ditemukan: $book"; exit 1; }
+            grep -Eiq '^GLOSARIUM' "$book" || { echo "Glosarium belum ditemukan: $book"; exit 1; }
             echo "OK: $book ($bytes byte)"
           done
       - name: Build debug APK

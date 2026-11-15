@@ -104,3 +104,19 @@ LATIHAN PENDALAMAN
 2. Mengapa restorasi tidak cukup dengan menanam pohon? Jawaban: fungsi ekosistem juga bergantung pada tanah, air, spesies, dan interaksi ekologis.
 3. Mengapa hasil survei tanpa temuan bukan bukti ketiadaan? Jawaban: organisme mungkin tidak terdeteksi karena metode, musim, atau kondisi pengamatan.
 4. Mengapa pencegahan spesies invasif penting? Jawaban: pengendalian setelah menyebar sering lebih sulit dan mahal.
+
+PENDALAMAN EKOLOGI TERAPAN
+BAB 14 — DINAMIKA POPULASI
+Ukuran populasi berubah melalui kelahiran, kematian, imigrasi, dan emigrasi. Pertumbuhan dipengaruhi sumber daya, kompetisi, predator, penyakit, dan lingkungan. Model eksponensial menggambarkan kondisi sumber daya tidak membatasi, sedangkan model logistik memasukkan daya dukung. Daya dukung dapat berubah akibat iklim, habitat, dan interaksi spesies.
+BAB 15 — INTERAKSI ANTARSPESIES
+Kompetisi terjadi ketika organisme menggunakan sumber daya terbatas yang sama. Predasi melibatkan organisme yang memakan organisme lain. Mutualisme memberi manfaat bagi kedua pihak; komensalisme menguntungkan satu pihak tanpa dampak besar terukur pada pihak lain; parasitisme menguntungkan parasit dengan merugikan inang. Hubungan dapat berubah menurut kondisi.
+BAB 16 — SUKSESI DAN PEMULIHAN EKOSISTEM
+Suksesi adalah perubahan komposisi komunitas dari waktu ke waktu. Suksesi primer berlangsung pada substrat yang belum memiliki tanah berkembang, sedangkan sekunder terjadi ketika gangguan meninggalkan tanah atau sumber propagul. Restorasi tidak sekadar menanam pohon; tujuannya memulihkan fungsi, struktur, keanekaragaman, dan proses ekosistem.
+BAB 17 — JASA EKOSISTEM
+Ekosistem menyediakan pangan dan air, mengatur banjir dan penyerbukan, serta memberi manfaat budaya seperti rekreasi. Penilaian jasa ekosistem membantu memperlihatkan manfaat yang tidak selalu masuk harga pasar. Nilai ekonomi bukan satu-satunya dasar konservasi; nilai intrinsik, hak masyarakat, pengetahuan lokal, dan keberlanjutan antargenerasi juga penting.
+BAB 18 — KONSERVASI DAN KONEKTIVITAS HABITAT
+Kawasan lindung dapat mengurangi tekanan, tetapi spesies sering memerlukan koridor untuk bergerak. Fragmentasi habitat dapat mengisolasi populasi dan mengurangi variasi genetik. Rancangan konservasi perlu memadukan data spesies, habitat, kebutuhan masyarakat, dan ancaman. Keberhasilan dipantau jangka panjang.
+BAB 19 — MEMBACA DATA LINGKUNGAN
+Data ekologi berasal dari transek, plot, kamera jebak, penginderaan jauh, dan pengukuran kualitas air. Setiap metode memiliki bias deteksi. Tidak ditemukannya spesies dalam survei singkat tidak selalu berarti spesies tidak ada. Catat lokasi, tanggal, cuaca, metode, upaya sampling, dan ketidakpastian.
+STUDI KASUS
+Sebuah sungai mengalami penurunan kualitas air. Tim memetakan sumber pencemar, mengukur parameter di beberapa titik, mencatat musim dan debit, serta berdiskusi dengan warga. Rekomendasi harus menggabungkan hasil pengukuran, sumber pencemar terverifikasi, dan kemampuan pelaksanaan, bukan menyalahkan kelompok tanpa bukti.

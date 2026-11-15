@@ -116,3 +116,22 @@ LATIHAN PENDALAMAN
 2. Apa arti domain fungsi? Jawaban: himpunan nilai masukan yang diperbolehkan.
 3. Apa informasi diskriminan pada persamaan kuadrat? Jawaban: jumlah dan jenis akar real.
 4. Mengapa model perlu diperiksa terhadap konteks? Jawaban: asumsi matematis dapat tidak sesuai kondisi nyata.
+
+PENDALAMAN ALJABAR DAN PEMODELAN
+BAB 14 — PERSAMAAN DAN PERTIDAKSAMAAN
+Persamaan menyatakan dua ekspresi bernilai sama. Operasi yang sama pada kedua ruas mempertahankan kesetaraan selama sah. Untuk pertidaksamaan, mengalikan atau membagi dengan bilangan negatif membalik arah tanda. Persamaan kuadrat dapat diselesaikan dengan faktorisasi, melengkapkan kuadrat, atau rumus kuadrat. Periksa hasil dengan substitusi.
+BAB 15 — FUNGSI KOMPOSISI DAN INVERS
+Komposisi f(g(x)) berarti keluaran g menjadi masukan f. Urutan penting karena komposisi umumnya tidak komutatif. Fungsi invers membalik pemetaan jika fungsi satu-satu pada domain yang dipilih. Untuk mencari invers, tulis y=f(x), tukar x dan y, lalu selesaikan. Periksa domain dan range.
+BAB 16 — EKSPONEN DAN LOGARITMA
+Eksponen menyatakan perkalian berulang. Logaritma adalah operasi kebalikan eksponen: log_b(a)=c berarti b^c=a, dengan b positif dan bukan satu serta a positif. Model eksponensial dapat menggambarkan pertumbuhan atau peluruhan pada kondisi tertentu; periksa asumsi laju relatif dan batas sumber daya.
+BAB 17 — BARISAN DAN DERET
+Barisan aritmetika memiliki beda tetap, sedangkan barisan geometri memiliki rasio tetap. Deret adalah jumlah suku-suku barisan. Gunakan rumus sesuai jenis dan jumlah suku. Periksa apakah pola benar-benar tetap sebelum meneruskan rumus ke banyak suku.
+BAB 18 — FUNGSI TRIGONOMETRI
+Sinus, kosinus, dan tangen menghubungkan sudut dengan perbandingan sisi pada segitiga siku-siku dan menjadi fungsi periodik. Sudut dapat dinyatakan dalam derajat atau radian; pastikan mode kalkulator sesuai. Grafik menunjukkan amplitudo, periode, pergeseran, dan garis tengah.
+BAB 19 — PEMODELAN DAN VALIDASI
+Model matematika menyederhanakan situasi melalui variabel, asumsi, dan hubungan. Tentukan pertanyaan, definisikan variabel, buat model, analisis, lalu bandingkan hasil dengan data. Jika prediksi meleset, periksa kualitas data, asumsi, parameter, dan faktor yang diabaikan.
+LATIHAN
+1. Mengapa pertidaksamaan berbalik saat dibagi bilangan negatif? Urutan pada garis bilangan terbalik.
+2. Apa syarat invers menjadi fungsi? Fungsi satu-satu pada domain yang dipakai.
+3. Apa beda barisan dan deret? Barisan adalah urutan; deret adalah jumlah suku.
+4. Mengapa model divalidasi? Untuk menguji kesesuaian asumsi dan hasil dengan kenyataan.

@@ -37,7 +37,25 @@ fun AccountScreen() {
     ) {
         Spacer(Modifier.height(26.dp))
         Box(Modifier.size(76.dp).background(Color(0xFFDDF1E6), RoundedCornerShape(25.dp)), contentAlignment = Alignment.Center) {
-            Text("N", color = Color(0xFF16765A), fontSize = 39.sp, fontWeight = FontWeight.Black)
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Box(
+                    Modifier.width(20.dp).height(34.dp).background(Color.White, RoundedCornerShape(topStart = 5.dp, bottomStart = 5.dp)).padding(4.dp),
+                    contentAlignment = Alignment.Center
+                ) {
+                    Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
+                        repeat(3) { Box(Modifier.fillMaxWidth().height(2.dp).background(Color(0xFF16765A).copy(alpha = 0.7f))) }
+                    }
+                }
+                Spacer(Modifier.width(1.dp))
+                Box(
+                    Modifier.width(20.dp).height(34.dp).background(Color(0xFFF1FFF6), RoundedCornerShape(topEnd = 5.dp, bottomEnd = 5.dp)).padding(4.dp),
+                    contentAlignment = Alignment.Center
+                ) {
+                    Column(verticalArrangement = Arrangement.spacedBy(4.dp)) {
+                        repeat(3) { Box(Modifier.fillMaxWidth().height(2.dp).background(Color(0xFF16765A).copy(alpha = 0.7f))) }
+                    }
+                }
+            }
         }
         Spacer(Modifier.height(17.dp))
         Text(if (session == null) "Akun NextyLibrary" else "Akun kamu", fontSize = 24.sp, fontWeight = FontWeight.ExtraBold, color = Color(0xFF14251F))

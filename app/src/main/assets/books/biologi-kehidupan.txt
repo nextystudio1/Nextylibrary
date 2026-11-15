@@ -326,3 +326,49 @@ LATIHAN
 1. Mengapa sifat tidak selalu ditentukan satu gen? Jawaban: banyak sifat dipengaruhi interaksi banyak gen dan lingkungan.
 2. Apa syarat dasar seleksi alam? Jawaban: variasi yang dapat diwariskan dan perbedaan keberhasilan reproduksi.
 3. Mengapa variasi genetik penting? Jawaban: menyediakan bahan bagi populasi untuk merespons perubahan.
+
+
+
+BAB 15. HOMEOSTASIS DAN PENGATURAN TUBUH
+
+Homeostasis adalah kemampuan organisme menjaga kondisi internal dalam rentang yang mendukung kehidupan. Suhu tubuh, kadar air, konsentrasi ion, dan kadar glukosa diatur melalui kerja beberapa organ dan sistem. Homeostasis bukan keadaan yang selalu tetap, melainkan keseimbangan dinamis yang dapat berubah mengikuti aktivitas dan lingkungan.
+
+Salah satu mekanisme penting adalah umpan balik negatif. Ketika suatu kondisi menyimpang dari rentang pengaturan, respons tubuh membantu mengurangi penyimpangan tersebut. Pengaturan suhu, misalnya, melibatkan perubahan aliran darah di kulit dan produksi keringat. Pengaturan kadar glukosa melibatkan hormon insulin dan glukagon yang bekerja dengan cara berbeda.
+
+Umpan balik positif justru memperkuat proses untuk menyelesaikan peristiwa tertentu. Mekanisme ini lebih terbatas dan biasanya berhenti setelah tujuan tercapai. Contohnya adalah rangkaian kontraksi saat persalinan. Memahami jenis umpan balik membantu menjelaskan mengapa sistem tubuh memerlukan koordinasi.
+
+BAB 16. MEMBACA BUKTI BIOLOGI
+
+Penelitian biologi menggunakan pengamatan, eksperimen, survei, pemodelan, dan perbandingan. Eksperimen yang baik menentukan variabel, menggunakan pembanding yang sesuai, mengulang pengukuran, serta melaporkan keterbatasan. Hasil satu percobaan tidak selalu berlaku untuk semua organisme atau lingkungan.
+
+Ketika membaca berita kesehatan atau biologi, periksa apakah penelitian dilakukan pada sel, hewan, atau manusia. Hasil pada satu tingkat tidak otomatis dapat diterapkan pada tingkat lain. Perhatikan jumlah sampel, desain penelitian, ukuran efek, dan apakah hasil telah direplikasi. Hindari menyimpulkan sebab-akibat hanya dari hubungan statistik.
+
+PROYEK PENGAMATAN
+
+Amati variasi bentuk daun dari beberapa tumbuhan yang boleh diamati tanpa merusaknya. Catat bentuk, tepi, tulang daun, perkiraan habitat, dan kondisi cahaya. Foto atau gambar objek dengan izin bila berada di area milik orang lain. Jangan memetik tumbuhan langka atau menyentuh organisme yang tidak dikenal. Buat tabel, lalu jelaskan mengapa satu ciri saja tidak cukup untuk menentukan seluruh identitas atau adaptasi tumbuhan.
+
+EVALUASI AKHIR
+1. Jelaskan perbedaan umpan balik negatif dan positif.
+2. Mengapa membran sel disebut selektif permeabel?
+3. Apa perbedaan fotosintesis dan respirasi sel dari sisi aliran energi?
+4. Mengapa hasil penelitian pada hewan tidak otomatis berlaku pada manusia?
+5. Bagaimana variasi genetik berperan dalam evolusi populasi?
+
+KUNCI PEMBAHASAN RINGKAS
+1. Negatif mengurangi penyimpangan; positif memperkuat proses hingga peristiwa tertentu selesai.
+2. Karena membran mengatur zat yang dapat melewati batas sel.
+3. Fotosintesis menyimpan energi cahaya dalam molekul organik; respirasi melepaskan energi kimia untuk menghasilkan ATP.
+4. Ada perbedaan fisiologi, gen, lingkungan, dan desain penelitian sehingga perlu bukti khusus pada manusia.
+5. Variasi genetik menyediakan perbedaan yang dapat memengaruhi keberhasilan reproduksi dalam lingkungan tertentu.
+
+GLOSARIUM TAMBAHAN
+Homeostasis: pengaturan kondisi internal organisme.
+Umpan balik negatif: mekanisme yang mengurangi perubahan dari kondisi acuan.
+Umpan balik positif: mekanisme yang memperkuat suatu proses.
+Replikasi: pengulangan atau pengujian kembali penelitian untuk menilai konsistensi hasil.
+Variabel: faktor yang dapat berubah atau diukur dalam penelitian.
+
+RUJUKAN UNTUK PENDALAMAN
+OpenStax Biology 2e: https://openstax.org/details/books/biology-2e
+National Human Genome Research Institute — Genetics: https://www.genome.gov/genetics
+Encyclopaedia Britannica — Biology: https://www.britannica.com/science/biology

@@ -3,6 +3,9 @@ package com.nextystudio.nextylibrary
 import android.net.Uri
 import android.text.Html
 import android.graphics.Bitmap
+import android.graphics.pdf.PdfRenderer
+import android.os.ParcelFileDescriptor
+import java.io.File
 import com.google.zxing.BarcodeFormat
 import com.google.zxing.qrcode.QRCodeWriter
 import android.media.AudioAttributes
@@ -744,6 +747,11 @@ private fun prepareReaderSections(raw: String, title: String): List<ReaderSectio
 
 @Composable
 private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () -> Unit, onBack: () -> Unit) {
+    val pdfSource = book.contentPath
+    if (!pdfSource.isNullOrBlank() && (pdfSource.lowercase().substringBefore('?').endsWith(".pdf") || pdfSource.startsWith("pdf://") || pdfSource.contains("format=pdf", true))) {
+        PdfBookReaderScreen(book, pdfSource.removePrefix("pdf://"), musicPlaying, onMusicToggle, onBack)
+        return
+    }
     val context = LocalContext.current
     var body by remember(book.id) { mutableStateOf<String?>(null) }
     var error by remember(book.id) { mutableStateOf<String?>(null) }
@@ -843,6 +851,159 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
     }
 }
 
+
+@Composable
+private fun PdfBookReaderScreen(
+    book: Book,
+    source: String,
+    musicPlaying: Boolean,
+    onMusicToggle: () -> Unit,
+    onBack: () -> Unit
+) {
+    val context = LocalContext.current
+    var pdfFile by remember(book.id) { mutableStateOf<File?>(null) }
+    var loading by remember(book.id) { mutableStateOf(true) }
+    var error by remember(book.id) { mutableStateOf<String?>(null) }
+
+    LaunchedEffect(book.id, source) {
+        loading = true
+        error = null
+        try {
+            pdfFile = withContext(Dispatchers.IO) {
+                val target = File(context.cacheDir, "nextylibrary-${book.id}.pdf")
+                if (target.exists() && target.length() > 1024L) return@withContext target
+                val connection = (URL(source).openConnection() as HttpURLConnection)
+                try {
+                    connection.connectTimeout = 25000
+                    connection.readTimeout = 45000
+                    connection.instanceFollowRedirects = true
+                    connection.setRequestProperty("User-Agent", "Mozilla/5.0 (Linux; Android 11) AppleWebKit/537.36 Chrome/120.0 Mobile Safari/537.36")
+                    val code = connection.responseCode
+                    if (code !in 200..299) throw IllegalStateException("Naskah buku gagal diunduh (HTTP $code).")
+                    val temp = File(target.parentFile, target.name + ".part")
+                    connection.inputStream.use { input -> temp.outputStream().use { output -> input.copyTo(output) } }
+                    if (temp.length() < 1024L) {
+                        temp.delete()
+                        throw IllegalStateException("Berkas buku kosong atau tidak lengkap.")
+                    }
+                    temp.inputStream().use { input ->
+                        val signature = ByteArray(5)
+                        val count = input.read(signature)
+                        if (count < 5 || String(signature, Charsets.US_ASCII) != "%PDF-") {
+                            temp.delete()
+                            throw IllegalStateException("Alamat sumber tidak mengirim berkas buku PDF yang valid.")
+                        }
+                    }
+                    if (target.exists()) target.delete()
+                    if (!temp.renameTo(target)) throw IllegalStateException("Berkas buku tidak dapat disimpan.")
+                    target
+                } finally {
+                    connection.disconnect()
+                }
+            }
+        } catch (e: Exception) {
+            error = e.localizedMessage ?: "Buku gagal dimuat. Periksa koneksi internet."
+        } finally {
+            loading = false
+        }
+    }
+
+    val file = pdfFile
+    val resources = remember(file) {
+        if (file == null) null else {
+            val descriptor = ParcelFileDescriptor.open(file, ParcelFileDescriptor.MODE_READ_ONLY)
+            Pair(descriptor, PdfRenderer(descriptor))
+        }
+    }
+    DisposableEffect(resources) {
+        onDispose {
+            runCatching { resources?.second?.close() }
+            runCatching { resources?.first?.close() }
+        }
+    }
+    val renderer = resources?.second
+
+    Column(Modifier.fillMaxSize().background(Color(0xFFF8F4EA))) {
+        Row(Modifier.fillMaxWidth().background(Color.White).padding(horizontal = 14.dp, vertical = 10.dp), verticalAlignment = Alignment.CenterVertically) {
+            Text("‹", color = Green, fontSize = 30.sp, modifier = Modifier.clickable(onClick = onBack))
+            Spacer(Modifier.width(10.dp))
+            Column(Modifier.weight(1f)) {
+                Text(book.title, color = Ink, fontSize = 14.sp, fontWeight = FontWeight.ExtraBold, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                Text(if (renderer != null) "${renderer.pageCount} halaman • tersimpan di perangkat" else "Edisi digital", color = Muted, fontSize = 10.sp)
+            }
+            FilledIconButton(onClick = onMusicToggle, colors = IconButtonDefaults.filledIconButtonColors(containerColor = if (musicPlaying) Green else Color(0xFFE8EFEA), contentColor = if (musicPlaying) Color.White else Green)) {
+                Text(if (musicPlaying) "Ⅱ" else "♫", fontSize = 17.sp, fontWeight = FontWeight.Bold)
+            }
+        }
+        when {
+            loading -> Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                    CircularProgressIndicator(color = Green)
+                    Spacer(Modifier.height(12.dp))
+                    Text("Mengunduh naskah lengkap…", color = Muted)
+                }
+            }
+            error != null -> Box(Modifier.fillMaxSize().padding(24.dp), contentAlignment = Alignment.Center) {
+                Text(error ?: "Buku gagal dimuat.", color = Muted, textAlign = TextAlign.Center)
+            }
+            renderer == null -> Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                Text("Halaman buku belum tersedia.", color = Muted)
+            }
+            else -> LazyColumn(
+                modifier = Modifier.fillMaxSize(),
+                contentPadding = PaddingValues(horizontal = 12.dp, vertical = 16.dp),
+                verticalArrangement = Arrangement.spacedBy(14.dp)
+            ) {
+                item {
+                    Column(Modifier.fillMaxWidth().clip(RoundedCornerShape(18.dp)).background(Brush.linearGradient(listOf(Color(0xFF174A3A), Color(0xFF4F8A70)))).padding(18.dp), horizontalAlignment = Alignment.CenterHorizontally) {
+                        Text("KOLEKSI DIGITAL NEXTYLIBRARY", color = Color(0xFFD5EBDD), fontSize = 9.sp, fontWeight = FontWeight.Bold, letterSpacing = 2.sp)
+                        Spacer(Modifier.height(8.dp))
+                        Text(book.title, color = Color.White, fontSize = 21.sp, fontWeight = FontWeight.ExtraBold, textAlign = TextAlign.Center)
+                        Text(book.author, color = Color(0xFFE3F0E8), fontSize = 12.sp)
+                    }
+                }
+                items(renderer.pageCount) { pageIndex ->
+                    var pageBitmap by remember(file, pageIndex) { mutableStateOf<Bitmap?>(null) }
+                    var pageError by remember(file, pageIndex) { mutableStateOf(false) }
+                    LaunchedEffect(renderer, pageIndex) {
+                        if (pageBitmap == null && !pageError) {
+                            try {
+                                pageBitmap = withContext(Dispatchers.IO) {
+                                    synchronized(renderer) {
+                                        val page = renderer.openPage(pageIndex)
+                                        try {
+                                            val targetWidth = 1200
+                                            val targetHeight = (targetWidth.toFloat() * page.height / page.width).toInt().coerceAtLeast(1)
+                                            val bitmap = Bitmap.createBitmap(targetWidth, targetHeight, Bitmap.Config.ARGB_8888)
+                                            bitmap.eraseColor(android.graphics.Color.WHITE)
+                                            page.render(bitmap, null, null, PdfRenderer.Page.RENDER_MODE_FOR_DISPLAY)
+                                            bitmap
+                                        } finally {
+                                            page.close()
+                                        }
+                                    }
+                                }
+                            } catch (_: Exception) {
+                                pageError = true
+                            }
+                        }
+                    }
+                    Column(Modifier.fillMaxWidth().clip(RoundedCornerShape(12.dp)).background(Color.White).padding(8.dp)) {
+                        if (pageBitmap != null) {
+                            Image(bitmap = pageBitmap!!.asImageBitmap(), contentDescription = "Halaman ${pageIndex + 1} dari buku ${book.title}", modifier = Modifier.fillMaxWidth())
+                        } else if (pageError) {
+                            Text("Halaman ${pageIndex + 1} tidak dapat dirender.", color = Muted, modifier = Modifier.padding(18.dp))
+                        } else {
+                            Box(Modifier.fillMaxWidth().height(300.dp), contentAlignment = Alignment.Center) { CircularProgressIndicator(color = Green) }
+                        }
+                        Text("Halaman ${pageIndex + 1} dari ${renderer.pageCount}", color = Muted, fontSize = 10.sp, modifier = Modifier.fillMaxWidth().padding(top = 7.dp), textAlign = TextAlign.Center)
+                    }
+                }
+                item { Text("— Akhir buku —", color = Muted, fontSize = 12.sp, modifier = Modifier.fillMaxWidth().padding(vertical = 18.dp), textAlign = TextAlign.Center) }
+            }
+        }
+    }
+}
 
 private fun fetchPublicBookText(source: String): String {
     // Wikisource's normal page contains nested layout divs; use its clean render view

@@ -5,6 +5,16 @@ import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
+import androidx.compose.ui.platform.LocalContext
+import android.content.Context
+import android.util.Base64
+import android.security.keystore.KeyGenParameterSpec
+import android.security.keystore.KeyProperties
+import javax.crypto.Cipher
+import javax.crypto.KeyGenerator
+import javax.crypto.spec.GCMParameterSpec
+import javax.crypto.SecretKey
+import org.json.JSONObject
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
@@ -19,7 +29,39 @@ import org.json.JSONObject
 import java.net.HttpURLConnection
 import java.net.URL
 
-private data class AuthSession(val email: String, val accessToken: String)
+private data class AuthSession(val email: String, val accessToken: String, val refreshToken: String)
+
+private const val SESSION_ALIAS = "nextylibrary_session_key"
+private const val SESSION_PREFS = "nextylibrary_session"
+
+private fun sessionKey(): SecretKey {
+    val store = java.security.KeyStore.getInstance("AndroidKeyStore").apply { load(null) }
+    (store.getKey(SESSION_ALIAS, null) as? SecretKey)?.let { return it }
+    val generator = KeyGenerator.getInstance(KeyProperties.KEY_ALGORITHM_AES, "AndroidKeyStore")
+    generator.init(KeyGenParameterSpec.Builder(SESSION_ALIAS, KeyProperties.PURPOSE_ENCRYPT or KeyProperties.PURPOSE_DECRYPT)
+        .setBlockModes(KeyProperties.BLOCK_MODE_GCM).setEncryptionPaddings(KeyProperties.ENCRYPTION_PADDING_NONE).setRandomizedEncryptionRequired(true).build())
+    return generator.generateKey()
+}
+
+private fun saveSession(context: Context, email: String, refreshToken: String) {
+    val cipher = Cipher.getInstance("AES/GCM/NoPadding").apply { init(Cipher.ENCRYPT_MODE, sessionKey()) }
+    val plain = "$email\\n$refreshToken".toByteArray(Charsets.UTF_8)
+    val encrypted = cipher.iv + cipher.doFinal(plain)
+    val encoded = Base64.encodeToString(encrypted, Base64.NO_WRAP)
+    context.getSharedPreferences(SESSION_PREFS, Context.MODE_PRIVATE).edit().putString("blob", encoded).apply()
+}
+
+private fun readSavedSession(context: Context): Pair<String, String>? = runCatching {
+    val encoded = context.getSharedPreferences(SESSION_PREFS, Context.MODE_PRIVATE).getString("blob", null) ?: return null
+    val all = Base64.decode(encoded, Base64.NO_WRAP)
+    val iv = all.copyOfRange(0, 12)
+    val payload = all.copyOfRange(12, all.size)
+    val cipher = Cipher.getInstance("AES/GCM/NoPadding").apply { init(Cipher.DECRYPT_MODE, sessionKey(), GCMParameterSpec(128, iv)) }
+    val parts = String(cipher.doFinal(payload), Charsets.UTF_8).split("\\n", limit = 2)
+    if (parts.size != 2 || parts[1].isBlank()) null else Pair(parts[0], parts[1])
+}.getOrNull()
+
+private fun clearSavedSession(context: Context) { context.getSharedPreferences(SESSION_PREFS, Context.MODE_PRIVATE).edit().clear().apply() }
 
 @Composable
 fun AccountScreen(onAuthenticated: () -> Unit = {}) {
@@ -30,6 +72,21 @@ fun AccountScreen(onAuthenticated: () -> Unit = {}) {
     var busy by remember { mutableStateOf(false) }
     var message by remember { mutableStateOf<String?>(null) }
     val scope = rememberCoroutineScope()
+    val context = LocalContext.current
+    var restoring by remember { mutableStateOf(true) }
+    LaunchedEffect(Unit) {
+        val saved = withContext(Dispatchers.IO) { readSavedSession(context) }
+        if (saved != null) {
+            runCatching { withContext(Dispatchers.IO) { refreshAuthSession(saved.first, saved.second) } }
+                .onSuccess { restored ->
+                    withContext(Dispatchers.IO) { saveSession(context, restored.email, restored.refreshToken) }
+                    session = restored
+                    onAuthenticated()
+                }
+                .onFailure { withContext(Dispatchers.IO) { clearSavedSession(context) } }
+        }
+        restoring = false
+    }
 
     Column(
         Modifier.fillMaxSize().background(Color(0xFFF3F7F3)).padding(22.dp),
@@ -62,7 +119,12 @@ fun AccountScreen(onAuthenticated: () -> Unit = {}) {
         Text("Simpan koleksi dan nikmati pengalaman membaca.", color = Color(0xFF74847B), fontSize = 12.sp)
         Spacer(Modifier.height(25.dp))
 
-        if (session == null) {
+        if (restoring) {
+            Spacer(Modifier.height(70.dp))
+            CircularProgressIndicator(color = Color(0xFF16765A))
+            Spacer(Modifier.height(12.dp))
+            Text("Memeriksa sesi akun…", color = Color(0xFF74847B), fontSize = 12.sp)
+        } else if (session == null) {
             Card(shape = RoundedCornerShape(22.dp), colors = CardDefaults.cardColors(containerColor = Color.White)) {
                 Column(Modifier.fillMaxWidth().padding(19.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
                     Text(if (registerMode) "Buat akun baru" else "Selamat datang kembali", fontSize = 18.sp, fontWeight = FontWeight.Bold, color = Color(0xFF14251F))
@@ -95,7 +157,8 @@ fun AccountScreen(onAuthenticated: () -> Unit = {}) {
                                             message = result
                                             registerMode = false
                                         } else {
-                                            session = AuthSession(email, result)
+                                            session = result
+                                            withContext(Dispatchers.IO) { saveSession(context, result.email, result.refreshToken) }
                                             password = ""
                                             message = null
                                             onAuthenticated()
@@ -140,6 +203,7 @@ fun AccountScreen(onAuthenticated: () -> Unit = {}) {
                                     // Clear the local session even if the network is unavailable.
                                 } finally {
                                     session = null
+                                    withContext(Dispatchers.IO) { clearSavedSession(context) }
                                     email = ""
                                     password = ""
                                     busy = false
@@ -168,12 +232,23 @@ private fun registerWithEmail(email: String, password: String): String {
     }
 }
 
-private fun signInWithEmail(email: String, password: String): String {
+private fun signInWithEmail(email: String, password: String): AuthSession {
     val body = JSONObject().put("email", email).put("password", password)
     val response = authRequest("/auth/v1/token?grant_type=password", body, null)
     val token = response.optString("access_token")
-    if (token.isBlank()) throw IllegalStateException("Login belum menghasilkan sesi. Periksa konfirmasi email dan kredensial.")
-    return token
+    val refresh = response.optString("refresh_token")
+    if (token.isBlank() || refresh.isBlank()) throw IllegalStateException("Login belum menghasilkan sesi lengkap. Periksa konfirmasi email dan kredensial.")
+    return AuthSession(email, token, refresh)
+}
+
+private fun refreshAuthSession(email: String, refreshToken: String): AuthSession {
+    val body = JSONObject().put("refresh_token", refreshToken)
+    val response = authRequest("/auth/v1/token?grant_type=refresh_token", body, null)
+    val access = response.optString("access_token")
+    val refresh = response.optString("refresh_token")
+    if (access.isBlank() || refresh.isBlank()) throw IllegalStateException("Sesi akun tidak dapat diperbarui. Silakan masuk kembali.")
+    val userEmail = response.optJSONObject("user")?.optString("email")?.takeIf { it.isNotBlank() } ?: email
+    return AuthSession(userEmail, access, refresh)
 }
 
 private fun authRequest(path: String, body: JSONObject, bearer: String?): JSONObject {

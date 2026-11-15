@@ -845,50 +845,53 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
 
 
 private fun fetchPublicBookText(source: String): String {
-    val connection = URL(source).openConnection() as HttpURLConnection
+    // Wikisource's normal page contains nested layout divs; use its clean render view
+    // so the reader receives the article body instead of the full website chrome.
+    val requestUrl = if (source.contains("id.wikisource.org/wiki/") && !source.contains("action=", true)) {
+        source + if (source.contains("?")) "&action=render" else "?action=render"
+    } else source
+    val connection = URL(requestUrl).openConnection() as HttpURLConnection
     try {
         connection.requestMethod = "GET"
         connection.connectTimeout = 20000
         connection.readTimeout = 30000
         connection.instanceFollowRedirects = true
-        connection.setRequestProperty("User-Agent", "NextyLibrary/1.0")
+        connection.setRequestProperty("User-Agent", "NextyLibrary/1.0 (native book reader)")
+        connection.setRequestProperty("Accept", "text/html,text/plain;q=0.9,*/*;q=0.8")
         val code = connection.responseCode
-        if (code !in 200..299) throw IllegalStateException("Naskah buku gagal dimuat (HTTP " + code + ")")
+        if (code !in 200..299) {
+            throw IllegalStateException("Sumber naskah tidak dapat diakses (HTTP " + code + "). Naskah perlu diimpor ke penyimpanan NextyLibrary.")
+        }
         val raw = connection.inputStream.bufferedReader(Charsets.UTF_8).use { it.readText() }
-        if (raw.trimStart().startsWith("<")) {
-            var html = raw
-            val patterns = listOf(
-                Regex("""(?is)<(?:div|section|article)[^>]*(?:id|class)=["'][^"']*(?:mw-parser-output|main-content|entry-content|book-content|os-chapter|chapter)[^"']*["'][^>]*>(.*?)</(?:div|section|article)>"""),
-                Regex("""(?is)<main[^>]*>(.*?)</main>"""),
-                Regex("""(?is)<article[^>]*>(.*?)</article>"""),
-                Regex("""(?is)<body[^>]*>(.*?)</body>""")
-            )
-            for (pattern in patterns) {
-                val match = pattern.find(raw)
-                if (match != null && match.groupValues[1].length > 500) {
-                    html = match.groupValues[1]
-                    break
-                }
-            }
-            html = html
-                .replace(Regex("""(?is)<(script|style|nav|header|footer|aside|form|button|noscript|iframe)[^>]*>.*?</\1>"""), " ")
+        if (raw.isBlank()) throw IllegalStateException("Sumber berhasil dihubungi, tetapi naskahnya kosong.")
+        val result = if (raw.trimStart().startsWith("<")) {
+            // Do not extract the first nested mw-parser-output div: that truncates
+            // long books at the first inner </div> and can produce an empty reader.
+            val html = raw
+                .replace(Regex("""(?is)<(script|style|nav|header|footer|aside|form|button|noscript|iframe|svg)[^>]*>.*?</\1>"""), " ")
                 .replace(Regex("""(?is)<img[^>]*alt=["']([^"']+)["'][^>]*>""")) { " <p>[Ilustrasi: " + it.groupValues[1] + "]</p> " }
                 .replace(Regex("""(?is)<a\b[^>]*>(.*?)</a>""")) { it.groupValues[1] }
                 .replace(Regex("""(?i)<br\s*/?>"""), "\n")
-                .replace(Regex("""(?i)</(p|div|section|article|h[1-6]|li|tr|blockquote)>"""), "\n\n")
+                .replace(Regex("""(?i)</(p|div|section|article|h[1-6]|li|tr|blockquote|main)>"""), "\n\n")
                 .replace(Regex("""(?i)<li[^>]*>"""), "• ")
                 .replace(Regex("""(?is)<[^>]+>"""), " ")
-            return Html.fromHtml(html, Html.FROM_HTML_MODE_LEGACY).toString()
-                .replace('\u00a0', ' ').replace(Regex("[ \t]+"), " ")
-                .replace(Regex("\n[ \t]+"), "\n")
-                .replace(Regex("\n{3,}"), "\n\n").trim()
+            Html.fromHtml(html, Html.FROM_HTML_MODE_LEGACY).toString()
+        } else {
+            val startRegex = Regex("(?im)^\\*\\*\\*\\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\*\\*\\*\\s*")
+            val endRegex = Regex("(?im)^\\*\\*\\*\\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\*\\*\\*")
+            val start = startRegex.find(raw)
+            val end = endRegex.find(raw, start?.range?.last?.plus(1) ?: 0)
+            if (start != null && end != null) raw.substring(start.range.last + 1, end.range.first) else raw
         }
-        val startRegex = Regex("(?im)^\\*\\*\\*\\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\*\\*\\*\\s*")
-        val endRegex = Regex("(?im)^\\*\\*\\*\\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\*\\*\\*")
-        val start = startRegex.find(raw)
-        val end = endRegex.find(raw, start?.range?.last?.plus(1) ?: 0)
-        val clean = if (start != null && end != null) raw.substring(start.range.last + 1, end.range.first) else raw
-        return clean.replace("\r\n", "\n").replace(Regex("\n{3,}"), "\n\n").trim()
+        val cleaned = result.replace('\u00a0', ' ')
+            .replace(Regex("[ \t]+"), " ")
+            .replace(Regex("\n[ \t]+"), "\n")
+            .replace(Regex("\n{3,}"), "\n\n")
+            .trim()
+        if (cleaned.length < 300) {
+            throw IllegalStateException("Naskah dari sumber terlalu pendek atau bukan isi buku. Naskah lengkap perlu diimpor ke NextyLibrary.")
+        }
+        return cleaned
     } finally {
         connection.disconnect()
     }

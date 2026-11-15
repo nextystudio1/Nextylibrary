@@ -106,11 +106,15 @@ fun NextyLibraryApp() {
         if (entryStage == "intro") entryStage = "auth"
     }
     if (entryStage == "intro") {
-        IntroScreen()
+        MaterialTheme(colorScheme = lightColorScheme(primary = Green, onPrimary = Color.White, background = Paper, surface = Color.White, onSurface = Ink)) {
+            IntroScreen()
+        }
         return
     }
     if (entryStage == "auth") {
-        AccountScreen(onAuthenticated = { entryStage = "main" })
+        MaterialTheme(colorScheme = lightColorScheme(primary = Green, onPrimary = Color.White, background = Paper, surface = Color.White, onSurface = Ink)) {
+            AccountScreen(onAuthenticated = { entryStage = "main" })
+        }
         return
     }
     var books by remember { mutableStateOf<List<Book>>(emptyList()) }

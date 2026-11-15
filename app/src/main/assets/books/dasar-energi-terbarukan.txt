@@ -59,3 +59,22 @@ Transisi energi: perubahan sistem energi menuju struktur yang lebih berkelanjuta
 
 CATATAN PENULIS
 Naskah orisinal Nexty Studio untuk pembelajaran pengantar. Kinerja teknologi bergantung pada lokasi dan rancangan; keputusan proyek memerlukan studi profesional.
+
+
+PENDALAMAN — SISTEM ENERGI DAN TRANSISI
+BAB 7 — MENILAI SUMBER ENERGI
+Perbandingan sumber energi perlu memperhatikan keandalan, biaya pembangunan dan operasi, penggunaan lahan dan air, bahan baku, emisi sepanjang siklus hidup, serta dampak sosial. Analisis siklus hidup menghitung dampak sejak bahan mentah diperoleh sampai perangkat dipensiunkan. Teknologi yang tidak menghasilkan emisi pembakaran saat beroperasi tetap memiliki jejak dari manufaktur, transportasi, dan pengelolaan akhir masa pakai.
+Faktor kapasitas adalah perbandingan energi aktual dengan energi maksimum jika pembangkit beroperasi terus pada daya nominal. Faktor kapasitas bukan ukuran tunggal kualitas. Surya dipengaruhi siang dan cuaca; angin dipengaruhi pola angin; panas bumi dipengaruhi kondisi reservoir dan rancangan.
+BAB 8 — PENYIMPANAN DAN JARINGAN
+Jaringan listrik harus menyeimbangkan produksi dan konsumsi setiap saat. Baterai dapat menggeser sebagian energi dari waktu produksi tinggi ke waktu kebutuhan tinggi. Kapasitas energi dinyatakan dalam kilowatt-jam, sedangkan daya dalam kilowatt. Keduanya berbeda: kapasitas menjelaskan banyaknya energi yang dapat disimpan, sementara daya menjelaskan laju pengiriman energi.
+Pilihan fleksibilitas lain meliputi waduk, pembangkit yang dapat diatur, interkoneksi wilayah, pengelolaan waktu konsumsi, dan penyimpanan panas. Setiap pilihan memiliki biaya, batas teknis, serta dampak lingkungan.
+BAB 9 — SURYA DAN ANGIN
+Panel fotovoltaik mengubah energi cahaya menjadi listrik melalui bahan semikonduktor. Keluaran dipengaruhi intensitas cahaya, suhu modul, orientasi, bayangan, dan kondisi perangkat. Turbin angin mengubah energi kinetik udara menjadi energi mekanik lalu listrik. Penilaian lokasi membutuhkan data jangka panjang, kondisi topografi, akses jaringan, dampak terhadap satwa, dan penerimaan masyarakat.
+BAB 10 — AIR, PANAS BUMI, DAN BIOENERGI
+Pembangkit air memanfaatkan energi potensial atau kinetik air. Bendungan dapat mengubah aliran sungai, habitat, sedimentasi, dan kehidupan masyarakat. Panas bumi memanfaatkan energi panas bawah permukaan; potensi ekonominya bergantung pada geologi, fluida, permeabilitas, dan teknologi. Bioenergi berasal dari bahan organik, tetapi keberlanjutan bergantung pada sumber bahan, perubahan penggunaan lahan, emisi, dan persaingan dengan kebutuhan pangan.
+BAB 11 — TRANSISI ENERGI YANG ADIL
+Transisi energi mencakup jaringan, transportasi, bangunan, industri, keterampilan pekerja, pembiayaan, dan kebijakan. Prinsip transisi adil memperhatikan kelompok yang mungkin menanggung biaya lebih besar serta memastikan manfaat dan kesempatan dibagikan secara layak.
+LATIHAN
+1. Apa beda faktor kapasitas dan efisiensi? Jawaban: faktor kapasitas membandingkan energi aktual dengan potensi nominal selama periode; efisiensi membandingkan keluaran berguna dengan masukan.
+2. Mengapa penyimpanan membantu jaringan? Jawaban: membantu menggeser pasokan antarwaktu dan menyeimbangkan produksi dengan permintaan.
+3. Sebutkan empat unsur penilaian siklus hidup. Jawaban: bahan baku, manufaktur, operasi, transportasi, dan akhir masa pakai.

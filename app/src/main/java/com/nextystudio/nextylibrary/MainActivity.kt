@@ -1159,8 +1159,13 @@ private fun fetchSingleBookText(source: String): String {
                 fun attribute(name: String): String? =
                     Regex("""(?i)\b${Regex.escape(name)}\s*=\s*["']([^"']+)["']""")
                         .find(attrs)?.groupValues?.get(1)?.trim()
-                val srcSet = attribute("data-srcset") ?: attribute("srcset")
-                val srcFromSet = srcSet?.split(",")?.firstOrNull()?.trim()?.substringBefore(" ")
+                val srcSet = attribute("data-srcset") ?: attribute("data-lazy-srcset") ?: attribute("srcset")
+                val srcFromSet = srcSet?.split(",")?.mapNotNull { candidate ->
+                    val pieces = candidate.trim().split(Regex("\\s+"))
+                    val candidateUrl = pieces.firstOrNull()?.takeIf { it.isNotBlank() }
+                    val candidateScale = pieces.getOrNull(1)?.removeSuffix("w")?.removeSuffix("x")?.toFloatOrNull() ?: 0f
+                    candidateUrl?.let { candidateScale to it }
+                }?.maxByOrNull { it.first }?.second
                 val src = attribute("data-src") ?: attribute("data-original") ?:
                     attribute("data-lazy-src") ?: attribute("src") ?: srcFromSet
                 val alt = attribute("alt").orEmpty()

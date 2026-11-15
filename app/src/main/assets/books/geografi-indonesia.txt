@@ -60,3 +60,22 @@ Kerentanan: kondisi yang membuat kelompok atau wilayah mudah terdampak.
 
 CATATAN PENULIS
 Data wilayah dan kondisi kebencanaan dapat berubah. Gunakan peta dan informasi resmi terbaru untuk kebutuhan perjalanan, penelitian, atau kesiapsiagaan.
+
+
+PENDALAMAN — RUANG DAN PEMBANGUNAN INDONESIA
+BAB 7 — KEPULAUAN DAN KONEKTIVITAS
+Bentuk kepulauan membuat laut menjadi ruang penghubung sekaligus tantangan. Pelabuhan, jalur pelayaran, penerbangan, dan jaringan komunikasi menghubungkan pusat kegiatan. Jarak tidak hanya diukur dalam kilometer; waktu tempuh, biaya, cuaca, kapasitas transportasi, dan akses layanan ikut menentukan keterjangkauan. Infrastruktur perlu direncanakan dengan mempertimbangkan lingkungan dan kebutuhan masyarakat.
+BAB 8 — IKLIM DAN VARIASI WILAYAH
+Iklim Indonesia dipengaruhi letak tropis, angin muson, lautan, topografi, dan fenomena iklim skala besar. Pola musim tidak seragam di seluruh kepulauan. Pegunungan dapat menghasilkan perbedaan curah hujan ant lereng. Cuaca menggambarkan keadaan atmosfer jangka pendek, sedangkan iklim merangkum pola jangka panjang. Prakiraan dan peringatan perlu diperiksa dari sumber resmi sesuai lokasi dan waktu.
+BAB 9 — KOTA, DESA, DAN PERUBAHAN LAHAN
+Kota menjadi pusat layanan, perdagangan, pendidikan, dan pemerintahan. Desa memiliki hubungan beragam dengan pertanian, perikanan, kehutanan, dan kegiatan lain. Wilayah peri-urban memperlihatkan percampuran fungsi. Pertumbuhan kawasan terbangun dapat mengurangi lahan resapan dan mengubah suhu lokal. Perencanaan perlu menggabungkan transportasi, ruang terbuka, drainase, dan partisipasi warga.
+BAB 10 — SUMBER DAYA DAN KEADILAN WILAYAH
+Sumber daya alam tersebar tidak merata. Kekayaan sumber daya tidak otomatis menghasilkan kesejahteraan jika manfaat tidak dikelola transparan dan berkelanjutan. Pendidikan, infrastruktur, tata kelola, rantai nilai, dan perlindungan lingkungan memengaruhi manfaat yang diterima masyarakat. Pembangunan inklusif memperhatikan kelompok rentan dan kebutuhan generasi mendatang.
+BAB 11 — BENCANA DAN KETANGGUHAN
+Risiko terbentuk dari interaksi bahaya, paparan, dan kerentanan. Dua wilayah yang menghadapi bahaya serupa dapat mengalami dampak berbeda karena kualitas bangunan, tata ruang, akses informasi, dan kapasitas layanan. Gunakan peta dan informasi resmi; uraian ini bukan pengganti arahan lembaga kebencanaan.
+BAB 12 — PETA DAN DATA SPASIAL
+Peta menyederhanakan kenyataan. Skala, legenda, arah utara, proyeksi, tahun data, dan sumber harus diperiksa. Sistem Informasi Geografis menggabungkan data lokasi dengan atribut seperti penggunaan lahan atau kepadatan penduduk. Peta menunjukkan pola, tetapi tidak otomatis menjelaskan sebab; gabungkan dengan data lapangan dan konteks historis.
+LATIHAN
+1. Mengapa jarak kilometer tidak selalu menggambarkan keterjangkauan? Jawaban: waktu, biaya, transportasi, cuaca, dan layanan ikut menentukan.
+2. Apa beda cuaca dan iklim? Jawaban: cuaca jangka pendek; iklim pola jangka panjang.
+3. Sebutkan unsur pembentuk risiko. Jawaban: bahaya, paparan, dan kerentanan.

@@ -29,6 +29,8 @@ import androidx.compose.ui.draw.shadow
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.font.FontFamily
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
@@ -93,7 +95,7 @@ fun NextyLibraryApp() {
         Surface(Modifier.fillMaxSize(), color = Paper) {
             Column(Modifier.fillMaxSize()) {
                 if (reading != null) {
-                    ReaderScreen(reading!!, onBack = { reading = null })
+                    ReaderScreen(reading!!, musicPlaying, { if (musicPlaying) musicPlayer.pause() else musicPlayer.play(); musicPlaying = !musicPlaying }, onBack = { reading = null })
                 } else if (selected != null) {
                     BookDetail(selected!!, categories.firstOrNull { it.id == selected!!.categoryId }?.name, onBack = { selected = null }, onRead = { reading = selected })
                 } else {
@@ -283,88 +285,101 @@ private fun MusicPlayerCard(
 }
 
 private class AmbientMusicPlayer {
-    private var track: AudioTrack? = null
-    private var volume: Float = 1f
+    @Volatile private var running = false
+    @Volatile private var track: AudioTrack? = null
+    @Volatile private var worker: Thread? = null
+    @Volatile private var volume: Float = 1f
 
     fun setVolume(value: Float) {
         volume = value.coerceIn(0f, 1f)
         track?.setVolume(volume)
     }
 
+    @Synchronized
     fun play() {
-        val current = track
-        if (current != null) {
-            if (current.playState != AudioTrack.PLAYSTATE_PLAYING) current.play()
-            return
+        if (running) return
+        var audio = track
+        if (audio == null || audio.state != AudioTrack.STATE_INITIALIZED) {
+            val sampleRate = 24000
+            val frames = sampleRate * 4
+            val samples = ShortArray(frames * 2)
+            val melody = intArrayOf(0, 4, 7, 11, 7, 4, 2, 7, 9, 7, 4, 2, 0, 4, 7, 4)
+            for (i in 0 until frames) {
+                val t = i.toDouble() / sampleRate
+                val beat = t * 2.0
+                val root = 196.0 * Math.pow(2.0, (intArrayOf(0, 5, 7, 3)[(t / 1.0).toInt() % 4]) / 12.0)
+                val note = 440.0 * Math.pow(2.0, (melody[(beat.toInt() % melody.size)] - 9) / 12.0)
+                val phase = beat % 1.0
+                val pluckEnv = Math.exp(-phase * 5.0)
+                val pad = sin(2.0 * PI * root * t) * 0.10 + sin(2.0 * PI * root * 1.5 * t) * 0.045
+                val bass = sin(2.0 * PI * root * 0.5 * t) * 0.10
+                val piano = (sin(2.0 * PI * note * t) + 0.22 * sin(2.0 * PI * note * 2.0 * t)) * pluckEnv * 0.30
+                val fade = minOf((t / 0.12).coerceIn(0.0, 1.0), ((4.0 - t) / 0.12).coerceIn(0.0, 1.0))
+                val sample = ((pad + bass + piano) * fade * 0.92 * Short.MAX_VALUE).toInt()
+                    .coerceIn(Short.MIN_VALUE.toInt(), Short.MAX_VALUE.toInt()).toShort()
+                samples[i * 2] = sample
+                samples[i * 2 + 1] = sample
+            }
+            val format = AudioFormat.Builder().setEncoding(AudioFormat.ENCODING_PCM_16BIT)
+                .setSampleRate(sampleRate).setChannelMask(AudioFormat.CHANNEL_OUT_STEREO).build()
+            val attributes = AudioAttributes.Builder().setUsage(AudioAttributes.USAGE_MEDIA)
+                .setContentType(AudioAttributes.CONTENT_TYPE_MUSIC).build()
+            val minBuffer = AudioTrack.getMinBufferSize(sampleRate, AudioFormat.CHANNEL_OUT_STEREO, AudioFormat.ENCODING_PCM_16BIT)
+            audio = AudioTrack.Builder().setAudioAttributes(attributes).setAudioFormat(format)
+                .setTransferMode(AudioTrack.MODE_STREAM).setBufferSizeInBytes(maxOf(minBuffer * 2, 8192)).build()
+            if (audio.state != AudioTrack.STATE_INITIALIZED) {
+                audio.release()
+                throw IllegalStateException("AudioTrack gagal diinisialisasi")
+            }
+            track = audio
+            audio.setVolume(volume)
         }
-        val sampleRate = 22050
-        val seconds = 8
-        val frames = sampleRate * seconds
-        val samples = ShortArray(frames * 2)
-        val chordSteps = intArrayOf(0, 5, 7, 3)
-        val melodySteps = intArrayOf(12, 7, 10, 7, 15, 12, 10, 7, 12, 17, 15, 12, 10, 7, 5, 7)
-        for (frame in 0 until frames) {
-            val time = frame.toDouble() / sampleRate
-            val beatPosition = time * 2.0
-            val chordIndex = (time / 2.0).toInt() % chordSteps.size
-            val root = 220.0 * Math.pow(2.0, chordSteps[chordIndex] / 12.0)
-            val fadeIn = (time / 0.18).coerceIn(0.0, 1.0)
-            val fadeOut = ((seconds - time) / 0.22).coerceIn(0.0, 1.0)
-            val envelope = minOf(fadeIn, fadeOut)
-            val pulse = 0.88 + 0.12 * sin(2.0 * PI * beatPosition)
-            val pad = sin(2.0 * PI * root * 0.5 * time) * 0.18 +
-                sin(2.0 * PI * root * time) * 0.13 +
-                sin(2.0 * PI * root * 1.5 * time) * 0.07
-            val bass = sin(2.0 * PI * root * 0.5 * time) * 0.22
-            val beatInBar = (beatPosition % 4.0)
-            val noteIndex = (beatPosition.toInt() % melodySteps.size)
-            val noteHz = 440.0 * Math.pow(2.0, (melodySteps[noteIndex] - 12) / 12.0)
-            val notePhase = beatInBar % 1.0
-            val pluckEnvelope = Math.exp(-notePhase * 6.5)
-            val pluck = (sin(2.0 * PI * noteHz * time) +
-                0.28 * sin(2.0 * PI * noteHz * 2.0 * time)) * pluckEnvelope * 0.34
-            val sparkleHz = noteHz * 2.0
-            val sparkle = sin(2.0 * PI * sparkleHz * time) * pluckEnvelope * 0.045
-            val mix = (pad + bass + pluck + sparkle) * envelope * pulse * 0.72
-            val value = (mix * Short.MAX_VALUE).toInt()
-                .coerceIn(Short.MIN_VALUE.toInt(), Short.MAX_VALUE.toInt()).toShort()
-            samples[frame * 2] = value
-            samples[frame * 2 + 1] = value
-        }
-        val audioFormat = AudioFormat.Builder()
-            .setEncoding(AudioFormat.ENCODING_PCM_16BIT)
-            .setSampleRate(sampleRate)
-            .setChannelMask(AudioFormat.CHANNEL_OUT_STEREO)
-            .build()
-        val attributes = AudioAttributes.Builder()
-            .setUsage(AudioAttributes.USAGE_MEDIA)
-            .setContentType(AudioAttributes.CONTENT_TYPE_MUSIC)
-            .build()
-        val created = AudioTrack.Builder()
-            .setAudioAttributes(attributes)
-            .setAudioFormat(audioFormat)
-            .setTransferMode(AudioTrack.MODE_STATIC)
-            .setBufferSizeInBytes(samples.size * 2)
-            .build()
-        val written = created.write(samples, 0, samples.size)
-        if (written > 0) {
-            created.setLoopPoints(0, frames, -1)
-            created.setVolume(volume)
-            track = created
-            created.play()
-        } else {
-            created.release()
-        }
+        running = true
+        audio.play()
+        val activeTrack = audio
+        worker = Thread {
+            val chunk = ShortArray(2048)
+            var cursor = 0
+            while (running && track === activeTrack) {
+                val count = minOf(chunk.size, 2048)
+                for (n in 0 until count) {
+                    chunk[n] = if (cursor < 8192) {
+                        val sampleFrame = cursor / 2
+                        val value = sampleFrame * 2
+                        // Smooth repeating piano-pad waveform generated per chunk.
+                        val time = sampleFrame.toDouble() / 24000.0
+                        val base = 196.0 * Math.pow(2.0, (intArrayOf(0, 5, 7, 3)[(time / 1.0).toInt() % 4]) / 12.0)
+                        val melodyNote = intArrayOf(0, 4, 7, 11, 7, 4, 2, 7, 9, 7, 4, 2, 0, 4, 7, 4)[((time * 2.0).toInt() % 16)]
+                        val hz = 440.0 * Math.pow(2.0, (melodyNote - 9) / 12.0)
+                        val beatPhase = (time * 2.0) % 1.0
+                        val env = Math.exp(-beatPhase * 5.0)
+                        val mixed = (sin(2.0 * PI * base * time) * 0.10 +
+                            sin(2.0 * PI * base * 0.5 * time) * 0.10 +
+                            sin(2.0 * PI * hz * time) * env * 0.30) * 0.92
+                        (mixed * Short.MAX_VALUE).toInt().coerceIn(-32768, 32767).toShort()
+                    } else 0
+                    cursor = (cursor + 1) % 8192
+                }
+                val written = activeTrack.write(chunk, 0, chunk.size, AudioTrack.WRITE_BLOCKING)
+                if (written < 0) break
+            }
+        }.apply { name = "NextyLibraryMusic"; isDaemon = true; start() }
     }
 
+    @Synchronized
     fun pause() {
-        track?.let { if (it.playState == AudioTrack.PLAYSTATE_PLAYING) it.pause() }
+        running = false
+        worker?.join(250)
+        worker = null
+        track?.let { try { it.pause(); it.flush() } catch (_: Exception) { } }
     }
 
+    @Synchronized
     fun release() {
-        track?.let {
-            try { it.pause(); it.flush(); it.release() } catch (_: Exception) { }
-        }
+        running = false
+        worker?.join(250)
+        worker = null
+        track?.let { try { it.pause(); it.flush(); it.release() } catch (_: Exception) { } }
         track = null
     }
 }
@@ -518,11 +533,53 @@ private fun BookDetail(book: Book, categoryName: String?, onBack: () -> Unit, on
 }
 
 
+private data class ReaderSection(val heading: String?, val paragraphs: List<String>)
+
+private fun prepareReaderSections(raw: String, title: String): List<ReaderSection> {
+    var text = raw.replace("\r\n", "\n").replace('\r', '\n')
+    text = text.replace(Regex("(?im)^\\s*\\*{3}\\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\n?"), "")
+    text = text.replace(Regex("(?im)^\\s*\\*{3}\\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*[\\s\\S]*$"), "")
+    text = text.replace(Regex("(?is)\\[illustration:.*?\\]"), "")
+    text = text.replace(Regex("(?m)^\\s*\\[.*?\\]\\s*$"), "")
+    val titleWords = title.split(Regex("\\s+")).filter { it.length > 2 }
+    val titleMatch = titleWords.firstOrNull()?.let { Regex(Regex.escape(it), RegexOption.IGNORE_CASE).find(text) }
+    if (titleMatch != null && titleMatch.range.first > 0) text = text.substring(titleMatch.range.first)
+    val chapterPattern = Regex("(?im)^\\s*(?:CHAPTER\\s+[IVXLCDM0-9]+[.:]?|ADVENTURE\\s+[IVXLCDM0-9]+[^\\n]*|BOOK\\s+[IVXLCDM0-9]+[^\\n]*|PART\\s+[IVXLCDM0-9]+[^\\n]*)\\s*$")
+    val firstChapter = chapterPattern.find(text)
+    if (firstChapter != null) text = text.substring(firstChapter.range.first)
+    text = text.replace(Regex("(?m)^\\s*_{1,}([^\\n]+)_{1,}\\s*$"), "$1")
+        .replace(Regex("(?m)^\\s*\\*{2,}\\s*$"), "")
+        .replace(Regex("\\n{3,}"), "\\n\\n")
+        .trim()
+    val chunks = text.split(Regex("\\n\\s*\\n")).map { it.trim().replace(Regex("\\s*\\n\\s*"), " ") }.filter { it.isNotBlank() }
+    val headingRegex = Regex("(?i)^(?:CHAPTER\\s+[IVXLCDM0-9]+[.:]?|ADVENTURE\\s+[IVXLCDM0-9]+.*|BOOK\\s+[IVXLCDM0-9]+.*|PART\\s+[IVXLCDM0-9]+.*)$")
+    val result = mutableListOf<ReaderSection>()
+    var currentHeading: String? = null
+    var paragraphs = mutableListOf<String>()
+    fun flush() {
+        if (paragraphs.isNotEmpty() || currentHeading != null) {
+            result.add(ReaderSection(currentHeading, paragraphs.toList()))
+            paragraphs = mutableListOf()
+        }
+    }
+    for (chunk in chunks) {
+        val cleaned = chunk.replace(Regex("_([^_]+)_"), "$1").replace(Regex("\\s{2,}"), " ").trim()
+        if (headingRegex.matches(cleaned) || (cleaned.length in 3..90 && cleaned == cleaned.uppercase() && cleaned.any { it.isLetter() })) {
+            flush()
+            currentHeading = cleaned
+        } else paragraphs.add(cleaned)
+    }
+    flush()
+    return result
+}
+
 @Composable
-private fun ReaderScreen(book: Book, onBack: () -> Unit) {
+private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () -> Unit, onBack: () -> Unit) {
     var body by remember(book.id) { mutableStateOf<String?>(null) }
     var error by remember(book.id) { mutableStateOf<String?>(null) }
     var loading by remember(book.id) { mutableStateOf(true) }
+    var fontSize by remember(book.id) { mutableFloatStateOf(18f) }
+    val listState = androidx.compose.foundation.lazy.rememberLazyListState()
     LaunchedEffect(book.id, book.contentPath) {
         loading = true
         error = null
@@ -533,49 +590,80 @@ private fun ReaderScreen(book: Book, onBack: () -> Unit) {
             error = e.localizedMessage ?: "Buku gagal dimuat. Periksa koneksi internet."
         } finally { loading = false }
     }
-    Column(Modifier.fillMaxSize().background(Paper)) {
-        Row(Modifier.fillMaxWidth().background(Color.White).padding(horizontal = 16.dp, vertical = 12.dp), verticalAlignment = Alignment.CenterVertically) {
+    val sections = remember(body, book.title) { body?.let { prepareReaderSections(it, book.title) } ?: emptyList() }
+    Column(Modifier.fillMaxSize().background(Color(0xFFF8F4EA))) {
+        Row(Modifier.fillMaxWidth().background(Color.White).padding(horizontal = 14.dp, vertical = 10.dp), verticalAlignment = Alignment.CenterVertically) {
             Text("‹", color = Green, fontSize = 30.sp, modifier = Modifier.clickable(onClick = onBack))
-            Spacer(Modifier.width(12.dp))
+            Spacer(Modifier.width(10.dp))
             Column(Modifier.weight(1f)) {
-                Text(book.title, color = Ink, fontSize = 16.sp, fontWeight = FontWeight.ExtraBold, maxLines = 1, overflow = TextOverflow.Ellipsis)
-                Text(book.author, color = Muted, fontSize = 11.sp)
+                Text(book.title, color = Ink, fontSize = 14.sp, fontWeight = FontWeight.ExtraBold, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                Text(book.author, color = Muted, fontSize = 10.sp)
             }
-            Text("DOMAIN PUBLIK", color = Green, fontSize = 9.sp, fontWeight = FontWeight.Bold)
+            FilledIconButton(onClick = onMusicToggle, colors = IconButtonDefaults.filledIconButtonColors(containerColor = if (musicPlaying) Green else Color(0xFFE8EFEA), contentColor = if (musicPlaying) Color.White else Green)) {
+                Text(if (musicPlaying) "Ⅱ" else "♫", fontSize = 17.sp, fontWeight = FontWeight.Bold)
+            }
+        }
+        Row(Modifier.fillMaxWidth().background(Color(0xFFF0EADF)).padding(horizontal = 18.dp, vertical = 8.dp), verticalAlignment = Alignment.CenterVertically) {
+            Text("Ukuran teks", color = Muted, fontSize = 10.sp)
+            Slider(value = fontSize, onValueChange = { fontSize = it }, valueRange = 15f..23f, modifier = Modifier.weight(1f).padding(horizontal = 10.dp),
+                colors = SliderDefaults.colors(thumbColor = Green, activeTrackColor = Green))
+            Text(fontSize.toInt().toString(), color = Green, fontSize = 11.sp, fontWeight = FontWeight.Bold)
         }
         when {
             loading -> Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
                 Column(horizontalAlignment = Alignment.CenterHorizontally) {
                     CircularProgressIndicator(color = Green)
                     Spacer(Modifier.height(12.dp))
-                    Text("Memuat buku…", color = Muted)
+                    Text("Menyiapkan halaman buku…", color = Muted)
                 }
             }
             error != null -> Box(Modifier.fillMaxSize().padding(24.dp), contentAlignment = Alignment.Center) {
                 Column(horizontalAlignment = Alignment.CenterHorizontally) {
                     Text("Buku belum dapat dibuka", color = Ink, fontSize = 18.sp, fontWeight = FontWeight.Bold)
                     Spacer(Modifier.height(8.dp))
-                    Text(error ?: "", color = Muted)
+                    Text(error ?: "", color = Muted, textAlign = TextAlign.Center)
                 }
             }
-            else -> LazyColumn(Modifier.fillMaxSize(), contentPadding = PaddingValues(start = 24.dp, end = 24.dp, top = 26.dp, bottom = 50.dp)) {
+            sections.isEmpty() -> Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                Text("Isi buku belum tersedia.", color = Muted)
+            }
+            else -> LazyColumn(state = listState, modifier = Modifier.fillMaxSize(),
+                contentPadding = PaddingValues(horizontal = 18.dp, vertical = 22.dp), verticalArrangement = Arrangement.spacedBy(12.dp)) {
                 item {
-                    Text(book.title, color = Ink, fontSize = 25.sp, lineHeight = 32.sp, fontWeight = FontWeight.ExtraBold)
-                    Spacer(Modifier.height(8.dp))
-                    Text("Oleh " + book.author, color = Green, fontSize = 14.sp, fontWeight = FontWeight.SemiBold)
-                    Spacer(Modifier.height(24.dp))
-                    HorizontalDivider(color = Mint)
-                    Spacer(Modifier.height(20.dp))
+                    Column(Modifier.fillMaxWidth().clip(RoundedCornerShape(18.dp)).background(Brush.linearGradient(listOf(Color(0xFF174A3A), Color(0xFF4F8A70)))).padding(24.dp),
+                        horizontalAlignment = Alignment.CenterHorizontally) {
+                        Text("NEXTY LIBRARY", color = Color(0xFFD5EBDD), fontSize = 10.sp, fontWeight = FontWeight.Bold, letterSpacing = 3.sp)
+                        Spacer(Modifier.height(28.dp))
+                        Text(book.title, color = Color.White, fontSize = 25.sp, fontWeight = FontWeight.ExtraBold, textAlign = TextAlign.Center, lineHeight = 31.sp)
+                        Spacer(Modifier.height(10.dp))
+                        Text(book.author, color = Color(0xFFE3F0E8), fontSize = 14.sp)
+                        Spacer(Modifier.height(25.dp))
+                        Text("EDISI DOMAIN PUBLIK", color = Color(0xFFD5EBDD), fontSize = 9.sp, letterSpacing = 2.sp)
+                    }
                 }
-                items((body ?: "").split(Regex("\\n\\s*\\n")).filter { it.isNotBlank() }) { paragraph ->
-                    Text(paragraph.trim(), color = Ink, fontSize = 16.sp, lineHeight = 28.sp,
-                        modifier = Modifier.fillMaxWidth().padding(bottom = 18.dp))
+                items(sections) { section ->
+                    Column(Modifier.fillMaxWidth().clip(RoundedCornerShape(16.dp)).background(Color(0xFFFFFDF8)).padding(horizontal = 20.dp, vertical = 22.dp)) {
+                        if (!section.heading.isNullOrBlank()) {
+                            Text(section.heading, color = DeepGreen, fontSize = 19.sp, fontWeight = FontWeight.Bold,
+                                fontFamily = FontFamily.Serif, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(bottom = 18.dp))
+                            HorizontalDivider(color = Color(0xFFE7E0D3))
+                            Spacer(Modifier.height(16.dp))
+                        }
+                        section.paragraphs.forEachIndexed { index, paragraph ->
+                            Text(paragraph, color = Color(0xFF302F2A), fontSize = fontSize.sp, lineHeight = (fontSize * 1.65f).sp,
+                                fontFamily = FontFamily.Serif, textAlign = TextAlign.Justify,
+                                modifier = Modifier.fillMaxWidth().padding(bottom = if (index == section.paragraphs.lastIndex) 0.dp else 17.dp))
+                        }
+                    }
                 }
-                item { Text("— Akhir teks —", color = Muted, fontSize = 12.sp) }
+                item {
+                    Text("— Akhir buku —", color = Muted, fontSize = 12.sp, modifier = Modifier.fillMaxWidth().padding(vertical = 18.dp), textAlign = TextAlign.Center)
+                }
             }
         }
     }
 }
+
 
 private fun fetchPublicBookText(source: String): String {
     val connection = URL(source).openConnection() as HttpURLConnection

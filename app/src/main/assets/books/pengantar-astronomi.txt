@@ -141,3 +141,22 @@ LATIHAN PENDALAMAN
 2. Apa metode transit eksoplanet? Jawaban: mendeteksi penurunan cahaya bintang saat planet melintas di depannya.
 3. Mengapa pengamatan objek jauh berarti melihat masa lalu? Jawaban: cahaya membutuhkan waktu untuk menempuh jarak.
 4. Mengapa model kosmologi dapat berubah? Jawaban: model harus menyesuaikan diri dengan bukti pengamatan baru.
+
+PENDALAMAN PENGAMATAN DAN FISIKA ALAM SEMESTA
+BAB 14 — KOORDINAT LANGIT
+Astronom menggunakan sistem koordinat untuk menentukan posisi objek. Koordinat ekuatorial memakai asensio rekta dan deklinasi, sedangkan sistem horizon memakai azimut dan ketinggian. Posisi tampak berubah karena rotasi Bumi dan gerak tahunan Bumi. Catat lokasi, waktu, dan kondisi atmosfer saat mengamati.
+BAB 15 — SPEKTRUM CAHAYA
+Spektrum membawa informasi tentang suhu, komposisi, dan gerak objek. Spektroskopi memisahkan cahaya menjadi panjang gelombang dan mengukur garis spektrum. Pergeseran garis dapat menunjukkan gerak relatif melalui efek Doppler. Kecerlangan tampak dipengaruhi luminositas dan jarak.
+BAB 16 — EVOLUSI BINTANG
+Bintang terbentuk dari awan gas dan debu yang mengalami keruntuhan gravitasi. Suhu inti meningkat hingga kondisi memungkinkan fusi nuklir. Massa awal memengaruhi jalur evolusi. Bintang bermassa berbeda dapat berakhir sebagai katai putih, bintang neutron, atau lubang hitam melalui proses yang berbeda.
+BAB 17 — GALAKSI DAN STRUKTUR KOSMOS
+Galaksi adalah sistem besar bintang, gas, debu, dan materi gelap yang terikat gravitasi. Galaksi berinteraksi dan dapat bergabung. Bima Sakti adalah galaksi tempat Tata Surya berada. Pada skala lebih besar, galaksi membentuk kelompok, gugus, dan jaringan kosmik.
+BAB 18 — PLANET DI LUAR TATA SURYA
+Eksoplanet mengorbit bintang selain Matahari. Metode transit mendeteksi penurunan cahaya bintang saat planet melintas; metode kecepatan radial mengukur gerak bintang akibat tarikan planet. Penemuan planet tidak otomatis menunjukkan kehidupan. Kelayakhunian mempertimbangkan atmosfer, suhu, radiasi, air, dan faktor lain.
+BAB 19 — KOSMOLOGI DAN PENGAMATAN AMATIR
+Model Big Bang menjelaskan evolusi alam semesta dari keadaan awal sangat panas dan rapat, didukung pengamatan ekspansi kosmik, radiasi latar, dan kelimpahan unsur ringan. Materi gelap dan energi gelap masih menjadi bidang penelitian. Untuk pengamatan amatir, pilih waktu, lokasi gelap, cuaca, dan alat sesuai objek. Jangan melihat Matahari melalui alat optik tanpa filter surya khusus yang dirancang benar.
+LATIHAN
+1. Apa informasi dari spektrum bintang? Komposisi, suhu, dan gerak relatif.
+2. Bagaimana metode transit menemukan eksoplanet? Mengukur penurunan cahaya saat planet melintas.
+3. Mengapa objek jauh memperlihatkan masa lalu? Cahaya memerlukan waktu untuk sampai.
+4. Mengapa model kosmologi diuji terus? Agar sesuai dengan bukti pengamatan baru.

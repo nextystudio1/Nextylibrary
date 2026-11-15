@@ -1,6 +1,9 @@
 package com.nextystudio.nextylibrary
 
 import android.net.Uri
+import android.graphics.Bitmap
+import com.google.zxing.BarcodeFormat
+import com.google.zxing.qrcode.QRCodeWriter
 import android.media.AudioAttributes
 import android.media.AudioFormat
 import android.media.AudioTrack
@@ -10,6 +13,7 @@ import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleEventObserver
 import androidx.activity.compose.setContent
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
@@ -29,6 +33,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.draw.shadow
+import androidx.compose.ui.graphics.asImageBitmap
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
@@ -159,17 +164,103 @@ fun NextyLibraryApp() {
                     when (tab) {
                         "Beranda" -> Box(Modifier.weight(1f)) { HomeScreen(books, categories, loading, error, search, { search = it }, selectedCategory, { selectedCategory = it }, { reloadKey++ }, { selected = it }, musicPlayer, musicPlaying, { if (musicPlaying) { musicPlayer.pause(); musicPlaying = false } else { runCatching { musicPlayer.play() }.onSuccess { musicPlaying = true } } }, musicVolume, { musicVolume = it; musicPlayer.setVolume(it) }) }
                         "Koleksi" -> Box(Modifier.weight(1f)) { CollectionEmptyScreen() }
+                        "Donasi" -> Box(Modifier.weight(1f)) { DonationScreen() }
                         else -> Box(Modifier.weight(1f)) { AccountScreen() }
                     }
                     NavigationBar(containerColor = Color.White, tonalElevation = 10.dp, modifier = Modifier.shadow(12.dp)) {
-                        listOf("Beranda", "Koleksi").forEach { item ->
+                        listOf("Beranda", "Koleksi", "Donasi", "Akun").forEach { item ->
                             NavigationBarItem(selected = tab == item, onClick = { tab = item },
-                                icon = { Text(when (item) { "Beranda" -> "⌂"; "Koleksi" -> "▣"; else -> "◉" }, fontSize = 21.sp, fontWeight = FontWeight.Bold) },
+                                icon = { Text(when (item) { "Beranda" -> "⌂"; "Koleksi" -> "▣"; "Donasi" -> "♡"; else -> "◉" }, fontSize = 21.sp, fontWeight = FontWeight.Bold) },
                                 label = { Text(item, fontWeight = if (tab == item) FontWeight.Bold else FontWeight.Medium) },
                                 colors = NavigationBarItemDefaults.colors(selectedIconColor = Green, selectedTextColor = Green, indicatorColor = Mint))
                         }
                     }
                 }
+            }
+        }
+    }
+}
+
+
+private const val NEXTY_QRIS_PAYLOAD = "00020101021126570011ID.DANA.WWW011893600915303674781302090367478130303UMI51440014ID.CO.QRIS.WWW0215ID10266334682060303UMI5204594553033605802ID5920Nexty Studio, Mainan6006Asahan61052127363041953"
+
+@Composable
+private fun DonationScreen() {
+    val qrBitmap = remember {
+        val matrix = QRCodeWriter().encode(NEXTY_QRIS_PAYLOAD, BarcodeFormat.QR_CODE, 720, 720)
+        Bitmap.createBitmap(720, 720, Bitmap.Config.ARGB_8888).also { bitmap ->
+            for (y in 0 until 720) for (x in 0 until 720) {
+                bitmap.setPixel(x, y, if (matrix[x, y]) android.graphics.Color.BLACK else android.graphics.Color.WHITE)
+            }
+        }
+    }
+    LazyColumn(
+        modifier = Modifier.fillMaxSize(),
+        contentPadding = PaddingValues(start = 20.dp, end = 20.dp, top = 24.dp, bottom = 28.dp),
+        horizontalAlignment = Alignment.CenterHorizontally
+    ) {
+        item {
+            Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                Box(
+                    modifier = Modifier.size(66.dp).clip(CircleShape).background(Mint),
+                    contentAlignment = Alignment.Center
+                ) { Text("♡", color = Green, fontSize = 36.sp, fontWeight = FontWeight.Bold) }
+                Spacer(Modifier.height(14.dp))
+                Text("Dukung NextyLibrary", color = Ink, fontSize = 25.sp, fontWeight = FontWeight.ExtraBold, textAlign = TextAlign.Center)
+                Spacer(Modifier.height(8.dp))
+                Text(
+                    "Dukunganmu membantu kami menghadirkan lebih banyak buku dan bahan belajar.",
+                    color = Muted, fontSize = 14.sp, lineHeight = 21.sp, textAlign = TextAlign.Center
+                )
+                Spacer(Modifier.height(22.dp))
+                Card(
+                    modifier = Modifier.fillMaxWidth(),
+                    shape = RoundedCornerShape(26.dp),
+                    colors = CardDefaults.cardColors(containerColor = Color.White),
+                    elevation = CardDefaults.cardElevation(defaultElevation = 3.dp)
+                ) {
+                    Column(
+                        modifier = Modifier.fillMaxWidth().padding(18.dp),
+                        horizontalAlignment = Alignment.CenterHorizontally
+                    ) {
+                        Text("DONASI MELALUI QRIS", color = Green, fontSize = 13.sp, fontWeight = FontWeight.Bold)
+                        Spacer(Modifier.height(14.dp))
+                        Image(
+                            bitmap = qrBitmap.asImageBitmap(),
+                            contentDescription = "Kode QRIS donasi Nexty Studio",
+                            modifier = Modifier.fillMaxWidth().aspectRatio(1f).clip(RoundedCornerShape(12.dp))
+                        )
+                        Spacer(Modifier.height(14.dp))
+                        Text("Nexty Studio, Mainan", color = Ink, fontSize = 19.sp, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center)
+                        Text("NMID: ID1026633468206", color = Muted, fontSize = 13.sp)
+                        Text("Kode QRIS: A01", color = Muted, fontSize = 12.sp)
+                    }
+                }
+                Spacer(Modifier.height(18.dp))
+                Card(
+                    modifier = Modifier.fillMaxWidth(),
+                    shape = RoundedCornerShape(20.dp),
+                    colors = CardDefaults.cardColors(containerColor = Mint)
+                ) {
+                    Column(Modifier.padding(18.dp)) {
+                        Text("Cara berdonasi", color = DeepGreen, fontSize = 16.sp, fontWeight = FontWeight.Bold)
+                        Spacer(Modifier.height(10.dp))
+                        Text("1. Simpan atau tampilkan kode QRIS ini.", color = Ink, fontSize = 14.sp)
+                        Text("2. Buka aplikasi pembayaran yang mendukung QRIS pada perangkat lain.", color = Ink, fontSize = 14.sp)
+                        Text("3. Pindai kode dan periksa nama penerima sebelum melanjutkan.", color = Ink, fontSize = 14.sp)
+                        Text("4. Masukkan nominal sesuai keinginan dan konfirmasi hanya jika semua detail benar.", color = Ink, fontSize = 14.sp)
+                    }
+                }
+                Spacer(Modifier.height(16.dp))
+                Text(
+                    "Donasi sepenuhnya sukarela. Semua buku dan fitur NextyLibrary tetap gratis, tanpa iklan dan tanpa konten terkunci.",
+                    color = Muted, fontSize = 13.sp, lineHeight = 19.sp, textAlign = TextAlign.Center
+                )
+                Spacer(Modifier.height(10.dp))
+                Text(
+                    "Pastikan nama penerima yang muncul di aplikasi pembayaran adalah Nexty Studio, Mainan sebelum membayar.",
+                    color = Green, fontSize = 12.sp, lineHeight = 18.sp, fontWeight = FontWeight.SemiBold, textAlign = TextAlign.Center
+                )
             }
         }
     }

@@ -126,3 +126,36 @@ LATIHAN
 2. Mengapa pengelolaan DAS harus lintas wilayah? Dampak di hulu dapat terjadi di hilir.
 3. Apa tiga unsur dasar risiko bencana? Bahaya, paparan, dan kerentanan.
 4. Mengapa tahun data peta harus diperiksa? Kondisi wilayah berubah seiring waktu.
+
+
+
+BAB LANJUTAN — BENCANA, RISIKO, DAN KETANGGUHAN WILAYAH
+
+Indonesia berada di kawasan tektonik aktif dan memiliki banyak gunung api. Namun, bencana tidak hanya ditentukan oleh bahaya alam. Risiko muncul dari pertemuan bahaya, paparan penduduk atau aset, dan kerentanan. Gempa dengan kekuatan serupa dapat menimbulkan dampak berbeda bergantung pada kualitas bangunan, kepadatan, kesiapsiagaan, dan akses layanan.
+
+Peta risiko membantu mengidentifikasi wilayah yang perlu perhatian, tetapi peta memiliki skala dan ketidakpastian. Peta tingkat nasional tidak cukup untuk menentukan keselamatan satu bangunan. Informasi resmi setempat dan arahan petugas kebencanaan harus diutamakan. Masyarakat dapat meningkatkan ketangguhan melalui edukasi, jalur evakuasi, latihan, dan perlindungan kelompok rentan.
+
+Perubahan penggunaan lahan dapat memperbesar risiko banjir dan longsor. Hilangnya vegetasi, pembangunan pada daerah rawan, drainase yang tidak memadai, serta perubahan pola hujan dapat berinteraksi. Solusi perlu menggabungkan tata ruang, infrastruktur, pemulihan ekosistem, dan kesiapan warga.
+
+PROYEK PETA LINGKUNGAN
+
+Gambar peta sederhana lingkungan sekitar sekolah atau rumah tanpa mencantumkan alamat pribadi. Tandai fasilitas umum, ruang terbuka, jalur utama, dan lokasi yang perlu perhatian. Gunakan data terbuka atau pengamatan aman bersama pendamping. Jangan memasuki area berbahaya untuk mengumpulkan data.
+
+EVALUASI
+1. Bedakan bahaya, paparan, kerentanan, dan risiko.
+2. Mengapa peta skala nasional tidak cukup untuk menilai satu bangunan?
+3. Bagaimana perubahan penggunaan lahan dapat memengaruhi banjir?
+4. Sebutkan tiga unsur ketangguhan wilayah.
+5. Mengapa peta perlu mencantumkan sumber dan tanggal?
+
+PEMBAHASAN
+1. Bahaya adalah potensi kejadian; paparan adalah orang/aset yang berada di area; kerentanan adalah tingkat mudah terdampak; risiko adalah potensi kerugian dari interaksi faktor tersebut.
+2. Detail dan kondisi setempat tidak tercakup pada skala kecil.
+3. Mengubah resapan, aliran permukaan, dan kapasitas drainase.
+4. Kesiapsiagaan, tata ruang, infrastruktur aman, ekosistem, dan layanan.
+5. Data berubah dan pembaca perlu mengetahui asal serta kemutakhirannya.
+
+GLOSARIUM
+Paparan: keberadaan penduduk atau aset di wilayah bahaya.
+Kerentanan: kondisi yang meningkatkan kemungkinan terdampak.
+Ketangguhan: kemampuan mengantisipasi, menghadapi, dan pulih dari gangguan.

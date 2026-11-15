@@ -137,3 +137,32 @@ LATIHAN
 2. Apa yang terjadi saat larutan diencerkan? Konsentrasi turun jika jumlah zat terlarut tetap.
 3. Apa peran larutan penyangga? Menahan perubahan pH dalam kapasitas tertentu.
 4. Mengapa limbah kimia tidak boleh dibuang sembarangan? Dapat mencemari lingkungan dan membahayakan makhluk hidup.
+
+
+
+BAB LANJUTAN — IKATAN KIMIA DAN SIFAT ZAT
+
+Atom dapat berikatan untuk mencapai susunan elektron yang lebih stabil. Ikatan ion terbentuk melalui tarik-menarik antara ion bermuatan berlawanan, sedangkan ikatan kovalen melibatkan pemakaian pasangan elektron bersama. Ikatan logam melibatkan elektron yang terdelokalisasi di antara banyak atom logam.
+
+Jenis ikatan dan susunan partikel memengaruhi sifat zat, seperti titik leleh, daya hantar listrik, kelarutan, dan kekerasan. Senyawa ion tertentu dapat menghantarkan listrik ketika meleleh atau larut karena ionnya dapat bergerak. Logam umumnya menghantarkan listrik karena memiliki elektron yang dapat bergerak.
+
+Sifat zat tidak ditentukan oleh satu faktor saja. Bentuk molekul, gaya antarmolekul, suhu, tekanan, dan komposisi juga berpengaruh. Karena itu, hubungan struktur dan sifat perlu dianalisis berdasarkan bukti, bukan hanya menghafal nama ikatan.
+
+EVALUASI
+1. Apa perbedaan ikatan ion dan kovalen?
+2. Mengapa larutan senyawa ion dapat menghantarkan listrik?
+3. Mengapa logam umumnya dapat menghantarkan listrik?
+4. Sebutkan dua sifat yang dipengaruhi struktur partikel.
+5. Mengapa satu jenis ikatan tidak menjelaskan semua sifat zat?
+
+PEMBAHASAN
+1. Ion terbentuk melalui perpindahan elektron; kovalen berbagi pasangan elektron.
+2. Ion bergerak membawa muatan.
+3. Elektron terdelokalisasi dapat bergerak.
+4. Titik leleh, kelarutan, daya hantar, dan kekerasan.
+5. Susunan, gaya antarmolekul, suhu, dan komposisi turut menentukan.
+
+GLOSARIUM
+Ikatan ion: tarik-menarik elektrostatik antarion.
+Ikatan kovalen: ikatan melalui pemakaian pasangan elektron bersama.
+Elektron terdelokalisasi: elektron yang tidak terikat pada satu atom tertentu.

@@ -217,3 +217,15 @@ LATIHAN
 1. Apa beda cuaca dan iklim? Jawaban: cuaca adalah kondisi atmosfer jangka pendek; iklim adalah pola jangka panjang.
 2. Apa beda mitigasi dan adaptasi? Jawaban: mitigasi mengurangi penyebab perubahan iklim, adaptasi mengurangi kerentanan terhadap dampaknya.
 3. Mengapa data lingkungan harus mencantumkan satuan dan periode? Jawaban: agar hasil dapat ditafsirkan dan dibandingkan dengan benar.
+
+BAB LANJUTAN: SIKLUS KARBON DAN UMPAN BALIK IKLIM
+Karbon berpindah antara atmosfer, laut, tanah, batuan, dan organisme melalui fotosintesis, respirasi, pelapukan, sedimentasi, serta pembakaran. Aktivitas manusia memindahkan karbon dari cadangan geologis ke atmosfer dan mengubah penggunaan lahan. Laut menyerap sebagian karbon dioksida, tetapi penyerapan ini juga mengubah kimia air dan berkontribusi pada pengasaman laut.
+Umpan balik iklim dapat memperkuat atau mengurangi perubahan awal. Es dan salju memantulkan sebagian radiasi matahari; ketika luasnya berkurang, permukaan yang lebih gelap menyerap lebih banyak energi. Uap air merupakan gas rumah kaca yang dapat memperkuat pemanasan. Tidak semua umpan balik bekerja pada skala waktu yang sama.
+DAMPAK DAN KERENTANAN
+Dampak iklim dipengaruhi bahaya, paparan, dan kerentanan. Dua wilayah yang mengalami bahaya serupa dapat memiliki risiko berbeda karena kualitas bangunan, akses layanan, kondisi ekosistem, dan kemampuan adaptasi. Solusi perlu mempertimbangkan kelompok rentan serta pengetahuan masyarakat setempat.
+ANALISIS DATA IKLIM
+Saat membaca grafik suhu, periksa periode dasar, cakupan wilayah, metode pengukuran, dan rentang ketidakpastian. Tren jangka panjang tidak boleh disimpulkan dari satu hari atau satu musim. Bandingkan beberapa sumber data dan bedakan variasi alami dari tren jangka panjang.
+LATIHAN PEMAHAMAN
+1. Apa itu pengasaman laut? Jawaban: penurunan pH air laut akibat penyerapan karbon dioksida dan perubahan kimia karbonat.
+2. Mengapa risiko iklim tidak hanya ditentukan bahaya? Jawaban: paparan dan kerentanan juga menentukan besarnya dampak.
+3. Mengapa grafik suhu memerlukan periode dasar? Jawaban: periode dasar memberi acuan untuk menafsirkan anomali dan perbandingan.

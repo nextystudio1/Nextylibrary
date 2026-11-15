@@ -868,16 +868,85 @@ private fun WebBookReader(url: String) {
                 settings.mixedContentMode = android.webkit.WebSettings.MIXED_CONTENT_NEVER_ALLOW
                 settings.useWideViewPort = true
                 settings.loadWithOverviewMode = true
+                settings.cacheMode = android.webkit.WebSettings.LOAD_CACHE_ELSE_NETWORK
                 webViewClient = object : WebViewClient() {
                     override fun shouldOverrideUrlLoading(view: WebView, request: android.webkit.WebResourceRequest): Boolean {
-                        val target = request.url
-                        return target.scheme != "https" || target.host !in setOf("pressbooks.uwf.edu", "openstax.org", "id.wikisource.org")
+                        // Tautan situs tidak pernah membuka browser atau situs lain dari pembaca.
+                        return true
                     }
                     override fun onPageFinished(view: WebView, pageUrl: String) {
-                        view.evaluateJavascript(
-                            "(function(){var s=document.createElement('style');s.textContent='body{background:#f8f4ea!important;color:#302f2a!important;font-family:Georgia,serif!important;line-height:1.75!important} img,figure img{max-width:100%!important;height:auto!important;border-radius:12px!important} figure{margin:24px auto!important} .container,.site-content,.content-area{max-width:900px!important;margin-left:auto!important;margin-right:auto!important} a{color:#16765a!important}';document.head.appendChild(s);})();",
-                            null
-                        )
+                        val cleanReaderScript = """
+                            (function() {
+                              try {
+                                var selectors = [
+                                  '#mw-content-text .mw-parser-output',
+                                  '#mw-content-text',
+                                  '#main-content',
+                                  '.entry-content',
+                                  '.book-content',
+                                  '.os-chapter',
+                                  '.chapter',
+                                  'main article',
+                                  'main',
+                                  'article'
+                                ];
+                                var source = null;
+                                for (var i = 0; i < selectors.length; i++) {
+                                  var candidate = document.querySelector(selectors[i]);
+                                  if (candidate && candidate.innerText && candidate.innerText.trim().length > 500) {
+                                    source = candidate;
+                                    break;
+                                  }
+                                }
+                                if (!source) source = document.body;
+                                var article = source.cloneNode(true);
+                                article.querySelectorAll('script,style,nav,header,footer,aside,form,button,iframe, noscript, .sidebar, .toc, .advertisement, .printfooter, .catlinks').forEach(function(n){n.remove();});
+                                // Konten tetap terbaca di NextyLibrary; tautan eksternal tidak mengalihkan pembaca.
+                                article.querySelectorAll('a').forEach(function(a){
+                                  var span = document.createElement('span');
+                                  span.innerHTML = a.innerHTML;
+                                  a.replaceWith(span);
+                                });
+                                document.documentElement.innerHTML = '';
+                                var head = document.createElement('head');
+                                var meta = document.createElement('meta');
+                                meta.name = 'viewport';
+                                meta.content = 'width=device-width, initial-scale=1, maximum-scale=3';
+                                head.appendChild(meta);
+                                var title = document.createElement('title');
+                                title.textContent = 'NextyLibrary';
+                                head.appendChild(title);
+                                var style = document.createElement('style');
+                                style.textContent = `
+                                  *{box-sizing:border-box}
+                                  html,body{margin:0!important;padding:0!important;background:#f8f4ea!important;color:#302f2a!important}
+                                  body{font-family:Georgia,'Noto Serif',serif!important;font-size:18px!important;line-height:1.85!important}
+                                  #nexty-reader{max-width:780px;margin:0 auto;padding:24px 20px 64px;background:#f8f4ea}
+                                  h1,h2,h3,h4{color:#174a3a!important;line-height:1.35!important;margin:30px 0 16px!important}
+                                  p,li{margin:0 0 18px!important}
+                                  img,figure img,svg{max-width:100%!important;height:auto!important}
+                                  figure{margin:26px auto!important;text-align:center}
+                                  figcaption{font-size:13px;color:#777;text-align:center;margin-top:8px}
+                                  table{display:block;max-width:100%;overflow-x:auto;border-collapse:collapse}
+                                  td,th{padding:8px;border:1px solid #ddd}
+                                  a{color:inherit!important;text-decoration:none!important;pointer-events:none!important}
+                                  .mw-editsection,.reference,.references,.reflist,.navbox,.metadata,.mw-jump-link{display:none!important}
+                                `;
+                                head.appendChild(style);
+                                var body = document.createElement('body');
+                                var wrapper = document.createElement('main');
+                                wrapper.id = 'nexty-reader';
+                                wrapper.appendChild(article);
+                                body.appendChild(wrapper);
+                                document.documentElement.appendChild(head);
+                                document.documentElement.appendChild(body);
+                              } catch(e) {
+                                document.body.style.background = '#f8f4ea';
+                                document.body.style.color = '#302f2a';
+                              }
+                            })();
+                        """.trimIndent()
+                        view.evaluateJavascript(cleanReaderScript, null)
                     }
                 }
                 loadUrl(url)

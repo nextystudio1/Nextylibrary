@@ -291,3 +291,27 @@ Naskah disusun secara orisinal oleh Tim Edukasi Nexty Studio sebagai materi peng
 
 PENUTUP
 Kimia membantu menjelaskan mengapa bahan memiliki sifat tertentu dan bagaimana perubahan berlangsung. Pemahaman yang baik menggabungkan model partikel, persamaan, pengamatan, dan keselamatan. Gunakan pengetahuan kimia untuk membuat keputusan yang bertanggung jawab terhadap diri sendiri dan lingkungan.
+
+PENDALAMAN: KIMIA DALAM INDUSTRI, LINGKUNGAN, DAN KEHIDUPAN
+BAB 7 — LARUTAN DAN KELARUTAN
+Larutan terdiri atas zat terlarut dan pelarut. Kelarutan dipengaruhi jenis zat, suhu, tekanan untuk gas, dan interaksi antarmolekul. Konsentrasi dapat dinyatakan melalui molaritas, persen massa, atau satuan lain sesuai kebutuhan.
+Pelarutan tidak selalu berarti reaksi kimia. Perubahan suhu atau penguapan dapat menyebabkan zat terlarut mengkristal kembali. Saat menyiapkan larutan, gunakan satuan dan prosedur yang tepat.
+BAB 8 — OKSIDASI DAN REDUKSI
+Reaksi redoks melibatkan perpindahan elektron atau perubahan bilangan oksidasi. Oksidasi adalah pelepasan elektron, sedangkan reduksi adalah penerimaan elektron. Kedua proses berlangsung berpasangan.
+Sel elektrokimia memanfaatkan reaksi redoks untuk menghasilkan atau menggunakan energi listrik. Baterai, pelapisan logam, dan korosi merupakan contoh penerapan. Pencegahan korosi dapat melibatkan pelapisan, pemilihan bahan, atau pengendalian lingkungan.
+BAB 9 — POLIMER DAN MATERIAL
+Polimer tersusun dari unit berulang yang disebut monomer. Polimer alam mencakup selulosa dan protein, sedangkan polimer sintetis digunakan dalam kemasan, tekstil, alat kesehatan, dan komponen teknik.
+Sifat polimer bergantung pada struktur rantai, ikatan antarrantai, dan bahan tambahan. Pengelolaan limbah perlu memperhatikan desain produk, penggunaan ulang, daur ulang, dan dampak bahan mikroplastik.
+BAB 10 — KIMIA LINGKUNGAN
+Kimia lingkungan mempelajari zat dan reaksi dalam udara, air, dan tanah. Polutan dapat berubah melalui reaksi kimia, penguraian biologis, atau perpindahan antar media. Konsentrasi dan lama paparan sama-sama penting dalam menilai risiko.
+Pengambilan sampel harus mengikuti prosedur agar tidak terkontaminasi. Hasil laboratorium perlu dibandingkan dengan standar yang berlaku dan disertai batas deteksi serta ketidakpastian.
+BAB 11 — KIMIA PANGAN DAN RUMAH TANGGA
+Reaksi kimia terjadi saat memasak, menyimpan, dan mengolah makanan. Pemanasan dapat mengubah protein, pati, warna, aroma, dan tekstur. Keasaman serta aktivitas air memengaruhi pertumbuhan mikroorganisme dan kestabilan bahan.
+Bahan pembersih rumah tangga harus digunakan sesuai label. Jangan mencampur produk pembersih karena reaksi tertentu dapat menghasilkan gas berbahaya. Simpan bahan dalam kemasan asli dan jauh dari jangkauan anak.
+BAB 12 — LABORATORIUM DAN KESELAMATAN
+Keselamatan laboratorium memerlukan penilaian bahaya, alat pelindung yang sesuai, label, ventilasi, dan prosedur pembuangan. Baca lembar data keselamatan sebelum menggunakan bahan. Jangan mencicipi bahan atau menghirup uap secara langsung.
+Catat bahan, konsentrasi, alat, dan prosedur. Jika terjadi tumpahan atau paparan, ikuti prosedur keselamatan setempat dan laporkan kepada pengawas laboratorium.
+LATIHAN
+1. Apa beda oksidasi dan reduksi? Jawaban: oksidasi melepaskan elektron, reduksi menerima elektron.
+2. Mengapa konsentrasi polutan perlu dikaitkan dengan lama paparan? Jawaban: risiko dipengaruhi tingkat dan durasi paparan.
+3. Mengapa bahan pembersih tidak boleh dicampur sembarangan? Jawaban: dapat terjadi reaksi yang menghasilkan zat berbahaya.

@@ -1099,7 +1099,7 @@ private fun fetchSingleBookText(source: String): String {
                 val attrs = match.groupValues[1]
                 val src = Regex("""(?i)\bsrc\s*=\s*["']([^"']+)["']""").find(attrs)?.groupValues?.get(1)
                 val alt = Regex("""(?i)\balt\s*=\s*["']([^"']*)["']""").find(attrs)?.groupValues?.get(1).orEmpty()
-                val absolute = src?.let { runCatching { URL(requestUrl, it).toString() }.getOrNull() }
+                val absolute = src?.let { runCatching { URL(URL(requestUrl), it).toString() }.getOrNull() }
                 if (absolute != null && !absolute.startsWith("data:")) {
                     "\n\n[[NEXTY_IMAGE|$absolute|${alt.replace("|", " ").replace("]]", "")}]]\n\n"
                 } else " "

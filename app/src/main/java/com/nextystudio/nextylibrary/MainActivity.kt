@@ -1,6 +1,7 @@
 package com.nextystudio.nextylibrary
 
 import android.os.Bundle
+import android.net.Uri
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.background
@@ -12,6 +13,7 @@ import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.*
+import coil.compose.AsyncImage
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -35,7 +37,8 @@ data class Book(
     val author: String,
     val description: String,
     val categoryId: String?,
-    val pageCount: Int
+    val pageCount: Int,
+    val coverPath: String?
 )
 
 data class BookCategory(val id: String, val name: String)
@@ -213,10 +216,18 @@ private fun BookCard(book: Book, categoryName: String?, onClick: () -> Unit) {
         colors = CardDefaults.cardColors(containerColor = Color.White)
     ) {
         Row(Modifier.padding(15.dp), verticalAlignment = Alignment.CenterVertically) {
-            Box(
-                Modifier.size(62.dp, 82.dp).background(Color(0xFFE6EFE8), RoundedCornerShape(9.dp)),
-                contentAlignment = Alignment.Center
-            ) { Text("BOOK", color = Green, fontSize = 11.sp, fontWeight = FontWeight.Bold) }
+            if (!book.coverPath.isNullOrBlank()) {
+                AsyncImage(
+                    model = publicCoverUrl(book.coverPath),
+                    contentDescription = "Sampul ${book.title}",
+                    modifier = Modifier.size(62.dp, 82.dp).background(Color(0xFFE6EFE8), RoundedCornerShape(9.dp))
+                )
+            } else {
+                Box(
+                    Modifier.size(62.dp, 82.dp).background(Color(0xFFE6EFE8), RoundedCornerShape(9.dp)),
+                    contentAlignment = Alignment.Center
+                ) { Text("BOOK", color = Green, fontSize = 11.sp, fontWeight = FontWeight.Bold) }
+            }
             Spacer(Modifier.width(13.dp))
             Column(Modifier.weight(1f)) {
                 Text(book.title, fontWeight = FontWeight.Bold, fontSize = 16.sp, color = Ink)
@@ -236,8 +247,16 @@ private fun BookDetail(book: Book, categoryName: String?, onBack: () -> Unit) {
     Column(Modifier.fillMaxSize().padding(20.dp)) {
         Text("‹  Kembali", color = Green, fontWeight = FontWeight.Bold, modifier = Modifier.clickable(onClick = onBack).padding(vertical = 8.dp))
         Spacer(Modifier.height(24.dp))
-        Box(Modifier.fillMaxWidth().height(180.dp).background(Color(0xFFE6EFE8), RoundedCornerShape(18.dp)), contentAlignment = Alignment.Center) {
-            Text("NEXTY LIBRARY", color = Green, fontSize = 18.sp, fontWeight = FontWeight.ExtraBold, letterSpacing = 2.sp)
+        if (!book.coverPath.isNullOrBlank()) {
+            AsyncImage(
+                model = publicCoverUrl(book.coverPath),
+                contentDescription = "Sampul ${book.title}",
+                modifier = Modifier.fillMaxWidth().height(220.dp).background(Color(0xFFE6EFE8), RoundedCornerShape(18.dp))
+            )
+        } else {
+            Box(Modifier.fillMaxWidth().height(180.dp).background(Color(0xFFE6EFE8), RoundedCornerShape(18.dp)), contentAlignment = Alignment.Center) {
+                Text("NEXTY LIBRARY", color = Green, fontSize = 18.sp, fontWeight = FontWeight.ExtraBold, letterSpacing = 2.sp)
+            }
         }
         Spacer(Modifier.height(20.dp))
         Text(book.title, fontSize = 25.sp, fontWeight = FontWeight.ExtraBold, color = Ink)
@@ -285,7 +304,7 @@ private fun fetchCategories(): List<BookCategory> {
 
 private fun fetchBooks(): List<Book> {
     val endpoint = BuildConfig.SUPABASE_URL.trimEnd('/') +
-        "/rest/v1/books?select=id,title,author,description,category_id,page_count&is_published=eq.true&order=published_at.desc"
+        "/rest/v1/books?select=id,title,author,description,category_id,page_count,cover_path&is_published=eq.true&order=published_at.desc"
     val connection = URL(endpoint).openConnection() as HttpURLConnection
     try {
         connection.requestMethod = "GET"
@@ -305,10 +324,18 @@ private fun fetchBooks(): List<Book> {
                 author = item.optString("author"),
                 description = item.optString("description"),
                 categoryId = item.optString("category_id").takeIf { it.isNotBlank() && it != "null" },
-                pageCount = item.optInt("page_count", 0)
+                pageCount = item.optInt("page_count", 0),
+                coverPath = item.optString("cover_path").takeIf { it.isNotBlank() && it != "null" }
             )
         }
     } finally {
         connection.disconnect()
     }
+}
+
+
+private fun publicCoverUrl(path: String): String {
+    val encodedPath = path.trimStart('/').split('/').joinToString("/") { Uri.encode(it) }
+    return BuildConfig.SUPABASE_URL.trimEnd('/') +
+        "/storage/v1/object/public/book-covers/" + encodedPath
 }

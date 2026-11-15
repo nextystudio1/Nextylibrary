@@ -80,3 +80,31 @@ LATIHAN
 1. Apa beda jarak dan perpindahan? Jawaban: jarak panjang lintasan; perpindahan perubahan posisi beserta arah.
 2. Mengapa gaya aksi dan reaksi tidak saling meniadakan? Jawaban: bekerja pada benda berbeda.
 3. Benda 2 kg bergerak 3 m/s. Energi kinetiknya? Jawaban: 9 joule.
+
+PENDALAMAN LANJUTAN: GAYA, MOMENTUM, DAN FENOMENA FISIKA
+BAB 7 — HUKUM NEWTON DALAM KONTEKS
+Hukum pertama Newton menjelaskan kelembaman: benda mempertahankan keadaan geraknya jika resultan gaya nol. Hukum kedua menghubungkan resultan gaya, massa, dan percepatan. Hukum ketiga menyatakan gaya interaksi muncul berpasangan pada dua benda yang berbeda.
+Diagram benda bebas membantu mengidentifikasi gaya berat, normal, gesek, tegangan, dan gaya luar. Gaya-gaya harus digambar pada benda yang sedang dianalisis, bukan dicampur dengan gaya yang bekerja pada benda lain.
+BAB 8 — GESEKAN DAN GERAK MELINGKAR
+Gaya gesek bergantung pada sifat permukaan dan gaya normal dalam model sederhana. Gesekan statis menyesuaikan hingga batas maksimum, sedangkan gesekan kinetis bekerja ketika permukaan bergeser. Gesekan dapat merugikan melalui panas, tetapi juga memungkinkan berjalan dan kendaraan bergerak.
+Gerak melingkar memerlukan percepatan menuju pusat lintasan. Kecepatan dapat tetap besarannya tetapi arah berubah. Gaya sentripetal bukan jenis gaya baru; ia merupakan resultan gaya yang mengarah ke pusat.
+BAB 9 — MOMENTUM DAN IMPULS
+Momentum adalah hasil kali massa dan kecepatan. Impuls merupakan perubahan momentum akibat gaya selama selang waktu. Dalam sistem terisolasi, momentum total kekal meskipun energi kinetik dapat berubah pada tumbukan tidak lenting.
+Konsep ini menjelaskan keselamatan kendaraan, olahraga, dan interaksi benda. Memperpanjang waktu tumbukan dapat mengurangi gaya rata-rata untuk perubahan momentum yang sama, tetapi penerapan keselamatan perlu mengikuti standar desain.
+BAB 10 — USAHA, ENERGI, DAN DAYA
+Usaha oleh gaya konstan bergantung pada komponen gaya searah perpindahan. Energi kinetik berkaitan dengan gerak, sedangkan energi potensial gravitasi berkaitan dengan posisi dalam medan gravitasi. Energi mekanik dapat berubah bentuk akibat gesekan atau gaya luar.
+Daya menyatakan laju pemindahan atau penggunaan energi. Dua mesin dapat melakukan usaha sama tetapi memerlukan waktu berbeda sehingga dayanya berbeda.
+BAB 11 — FLUIDA DAN TEKANAN
+Tekanan adalah gaya per satuan luas. Tekanan fluida diam bertambah dengan kedalaman dan dipengaruhi massa jenis serta gravitasi. Prinsip Pascal menjelaskan penerusan tekanan dalam fluida tertutup, sedangkan prinsip Archimedes menjelaskan gaya apung.
+Aliran fluida dapat bersifat laminar atau turbulen. Persamaan kontinuitas menghubungkan luas penampang dan laju aliran untuk fluida tak termampatkan dalam kondisi tertentu. Model ideal perlu digunakan dengan menyebut asumsi.
+BAB 12 — GETARAN DAN GELOMBANG
+Gerak harmonik sederhana merupakan model gerak berulang di sekitar titik keseimbangan dengan gaya pemulih sebanding simpangan. Periode adalah waktu satu siklus, frekuensi adalah jumlah siklus per satuan waktu.
+Gelombang membawa energi dan informasi. Panjang gelombang, frekuensi, dan cepat rambat saling terkait. Pemantulan, pembiasan, difraksi, dan interferensi dapat diamati pada gelombang air, bunyi, dan cahaya.
+BAB 13 — PENYELESAIAN SOAL DAN ESTIMASI
+Mulailah dengan menggambar situasi, menuliskan besaran diketahui, memilih sistem koordinat, lalu menentukan hukum yang relevan. Ubah semua besaran ke satuan konsisten sebelum menghitung.
+Periksa hasil melalui analisis dimensi dan perkiraan. Jika hasil menunjukkan kecepatan yang tidak masuk akal atau energi negatif pada konteks yang tidak memungkinkan, tinjau kembali asumsi dan tanda.
+LATIHAN PENDALAMAN
+1. Mengapa gaya aksi-reaksi tidak saling meniadakan pada satu benda? Jawaban: pasangan gaya bekerja pada dua benda berbeda.
+2. Apa beda momentum dan energi kinetik? Jawaban: momentum besaran vektor, energi kinetik besaran skalar.
+3. Apa arti daya? Jawaban: laju melakukan usaha atau memindahkan energi.
+4. Mengapa satuan harus konsisten? Jawaban: agar persamaan dan hasil perhitungan bermakna secara fisik.

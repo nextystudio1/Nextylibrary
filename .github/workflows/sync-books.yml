@@ -67,13 +67,13 @@ jobs:
           }
 
           upload_and_link "sejarah-kemerdekaan.txt" "sejarah-menuju-kemerdekaan-indonesia"
-          upload_and_link "berpikir-kritis-digital.txt" "berpikir-kritis-digital"
+          upload_and_link "berpikir-kritis-digital.txt" "berpikir-kritis-di-dunia-digital"
           upload_and_link "gizi-seimbang.txt" "mengenal-gizi-seimbang"
           upload_and_link "tata-surya.txt" "mengenal-tata-surya"
-          upload_and_link "ekosistem-iklim.txt" "ekosistem-perubahan-iklim"
+          upload_and_link "ekosistem-iklim.txt" "ekosistem-dan-perubahan-iklim"
           upload_and_link "literasi-keuangan.txt" "dasar-literasi-keuangan"
           upload_and_link "panduan-belajar-efektif.txt" "panduan-belajar-efektif"
-          upload_and_link "belajar-sains-sekitar-kita.txt" "belajar-sains-dari-sekitar-kita"
+          upload_and_link "belajar-sains-sekitar-kita.txt" "belajar-sains-sekitar-kita"
           upload_and_link "dasar-pemrograman-berpikir-komputasional.txt" "dasar-pemrograman-berpikir-komputasional"
           upload_and_link "matematika-dalam-kehidupan.txt" "matematika-dalam-kehidupan"
           upload_and_link "kecerdasan-buatan-untuk-semua.txt" "kecerdasan-buatan-untuk-semua"

@@ -311,3 +311,15 @@ LATIHAN
 1. Mengapa semua peta memiliki distorsi? Jawaban: permukaan lengkung harus direpresentasikan pada bidang datar.
 2. Apa beda bahaya dan risiko bencana? Jawaban: bahaya adalah potensi kejadian; risiko dipengaruhi paparan dan kerentanan.
 3. Mengapa hubungan kota dan desa penting? Jawaban: keduanya saling bergantung melalui pangan, tenaga kerja, jasa, dan jaringan distribusi.
+
+BAB LANJUTAN: KEPENDUDUKAN, MOBILITAS, DAN TATA RUANG
+Penduduk berubah melalui kelahiran, kematian, imigrasi, dan emigrasi. Struktur umur memengaruhi kebutuhan pendidikan, pekerjaan, kesehatan, dan perlindungan sosial. Angka agregat perlu dibaca bersama persebaran wilayah karena rata-rata nasional dapat menutupi perbedaan lokal.
+Urbanisasi mencakup perpindahan penduduk serta perubahan cara hidup dan penggunaan ruang. Kota menyediakan pekerjaan dan layanan, tetapi pertumbuhan yang tidak diimbangi perencanaan dapat meningkatkan kemacetan, tekanan perumahan, banjir, dan ketimpangan akses. Tata ruang menghubungkan penggunaan lahan dengan transportasi, air, ruang terbuka, dan risiko bencana.
+PETA DAN DATA SPASIAL
+Peta tematik menyajikan satu atau beberapa variabel, misalnya kepadatan penduduk atau tutupan lahan. Perhatikan legenda, skala, proyeksi, tahun data, dan metode klasifikasi. Peta yang tampak meyakinkan tetap dapat menyesatkan jika kelas warna atau batas wilayah dipilih tanpa penjelasan.
+KAJIAN WILAYAH
+Bandingkan dua wilayah menggunakan indikator yang sama dan tahun yang sebanding. Jelaskan faktor fisik, sejarah, ekonomi, dan kebijakan yang mungkin memengaruhi perbedaan. Hindari menyimpulkan bahwa satu faktor tunggal menjelaskan seluruh kondisi.
+LATIHAN PEMAHAMAN
+1. Mengapa struktur umur penting bagi perencanaan? Jawaban: kebutuhan layanan dan kesempatan ekonomi berbeda menurut kelompok umur.
+2. Apa fungsi legenda peta? Jawaban: menjelaskan arti simbol, warna, dan kelas data.
+3. Mengapa perbandingan wilayah perlu tahun data sebanding? Jawaban: perubahan waktu dapat menjadi penyebab perbedaan yang keliru dianggap sebagai perbedaan wilayah.

@@ -90,3 +90,31 @@ LATIHAN PENDALAMAN
 2. Mengapa garam padat umumnya tidak menghantarkan listrik? Jawaban: ion-ionnya tidak bebas bergerak dalam kisi padat.
 3. Apa fungsi koefisien pada persamaan reaksi setara? Jawaban: menunjukkan rasio jumlah zat yang bereaksi dan terbentuk.
 4. Mengapa katalis mempercepat reaksi? Jawaban: menyediakan jalur dengan energi aktivasi lebih rendah.
+
+PENDALAMAN LANJUTAN: IKATAN, REAKSI, DAN PERHITUNGAN KIMIA
+BAB 7 — STRUKTUR ATOM DAN TABEL PERIODIK
+Atom terdiri atas inti yang mengandung proton dan neutron serta elektron yang menempati keadaan energi tertentu. Nomor atom menunjukkan jumlah proton, sedangkan nomor massa merupakan jumlah proton dan neutron. Isotop memiliki jumlah proton sama tetapi jumlah neutron berbeda.
+Tabel periodik menyusun unsur berdasarkan nomor atom dan pola sifat. Unsur dalam satu golongan sering memiliki pola elektron valensi serupa, tetapi tren periodik perlu dipahami sebagai kecenderungan, bukan aturan tanpa pengecualian.
+BAB 8 — IKATAN KIMIA DAN BENTUK MOLEKUL
+Ikatan ion terbentuk melalui interaksi elektrostatik antara ion, sedangkan ikatan kovalen melibatkan pemakaian pasangan elektron bersama. Ikatan logam menjelaskan banyak sifat logam seperti konduktivitas dan kemampuan ditempa.
+Bentuk molekul dipengaruhi susunan pasangan elektron. Bentuk dan polaritas molekul memengaruhi titik didih, kelarutan, dan interaksi antarmolekul. Rumus struktur memberi informasi yang tidak tampak dari rumus molekul saja.
+BAB 9 — MOL DAN STOIKIOMETRI
+Mol menghubungkan jumlah partikel dengan besaran makroskopis. Massa molar digunakan untuk mengubah massa menjadi jumlah mol. Persamaan reaksi setara menunjukkan perbandingan jumlah zat yang bereaksi dan terbentuk.
+Dalam perhitungan stoikiometri, tentukan reaktan pembatas, yaitu zat yang habis lebih dahulu menurut perbandingan reaksi. Hasil teoritis berbeda dari hasil aktual karena reaksi dapat tidak sempurna, terjadi reaksi samping, atau ada kehilangan saat pemisahan.
+BAB 10 — ASAM, BASA, DAN KESETIMBANGAN
+Asam dan basa memiliki beberapa definisi. Dalam model Brønsted-Lowry, asam mendonorkan proton dan basa menerimanya. Skala pH berkaitan dengan aktivitas ion hidrogen dalam larutan dan tidak selalu cukup dijelaskan sebagai ukuran konsentrasi sederhana pada semua kondisi.
+Kesetimbangan dinamis terjadi ketika laju reaksi maju dan balik sama. Perubahan suhu, tekanan, atau konsentrasi dapat menggeser komposisi kesetimbangan sesuai prinsip Le Chatelier, dengan rincian bergantung pada sistem.
+BAB 11 — LAJU REAKSI DAN KATALIS
+Laju reaksi dipengaruhi konsentrasi, suhu, luas permukaan, tekanan untuk gas, dan katalis. Katalis menyediakan jalur reaksi alternatif dengan energi aktivasi lebih rendah dan tidak dikonsumsi secara keseluruhan.
+Model tumbukan menjelaskan bahwa partikel perlu bertumbukan dengan energi dan orientasi yang sesuai. Persamaan laju ditentukan secara eksperimen dan tidak selalu sama dengan koefisien pada persamaan reaksi keseluruhan.
+BAB 12 — KIMIA DALAM INDUSTRI DAN LINGKUNGAN
+Proses industri mengoptimalkan hasil, energi, biaya, keselamatan, dan limbah. Prinsip kimia hijau mendorong pencegahan limbah, penggunaan bahan lebih aman, efisiensi energi, dan desain produk yang lebih mudah terurai atau didaur ulang.
+Analisis dampak harus mencakup seluruh siklus hidup bahan. Mengganti satu bahan dengan bahan lain tidak otomatis lebih ramah lingkungan jika proses produksi atau pembuangannya lebih berdampak.
+BAB 13 — PRAKTIK ILMIAH DAN KESELAMATAN
+Setiap eksperimen memiliki tujuan, variabel, prosedur, dan risiko. Label bahan, lembar data keselamatan, alat pelindung, ventilasi, serta prosedur pembuangan harus dipahami sebelum kegiatan. Bahan tidak boleh dicampur sembarangan atau dicicipi.
+Catat hasil asli, termasuk data yang tidak sesuai harapan. Laporkan satuan, ketidakpastian, dan penyimpangan prosedur secara terbuka.
+LATIHAN PENDALAMAN
+1. Apa arti isotop? Jawaban: atom unsur yang sama dengan jumlah neutron berbeda.
+2. Apa fungsi reaktan pembatas? Jawaban: menentukan jumlah maksimum produk yang dapat terbentuk.
+3. Mengapa katalis mempercepat reaksi? Jawaban: menyediakan jalur dengan energi aktivasi lebih rendah.
+4. Mengapa hasil eksperimen harus mencatat penyimpangan prosedur? Jawaban: agar interpretasi dapat dinilai dan diulang dengan benar.

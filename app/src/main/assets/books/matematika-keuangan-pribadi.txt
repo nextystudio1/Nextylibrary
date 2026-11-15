@@ -58,3 +58,27 @@ Daya beli: jumlah barang dan jasa yang dapat dibeli dengan uang.
 
 CATATAN PENULIS
 Naskah orisinal edukasi Nexty Studio. Contoh tidak menggantikan nasihat keuangan profesional dan tidak merekomendasikan produk keuangan tertentu.
+
+PENDALAMAN: MATEMATIKA UNTUK KEPUTUSAN KEUANGAN
+BAB 7 — PERSENTASE DAN PERBANDINGAN
+Persentase menyatakan bagian per seratus. Untuk membandingkan potongan harga, hitung persentase dari harga acuan yang sama. Diskon berturut-turut tidak dijumlahkan begitu saja: diskon kedua biasanya diterapkan pada harga setelah diskon pertama.
+Rasio dan proporsi membantu membandingkan nilai dengan satuan yang sama. Saat membandingkan harga per unit, gunakan berat atau volume bersih dan periksa apakah kualitas serta ukuran kemasan setara.
+BAB 8 — BUNGA SEDERHANA DAN MAJEMUK
+Pada bunga sederhana, bunga dihitung dari pokok awal. Pada bunga majemuk, bunga yang telah diperoleh dapat ikut menghasilkan bunga berikutnya. Rumus majemuk bergantung pada frekuensi penggandaan dan tingkat per periode.
+Pastikan tingkat bunga dan periode menggunakan satuan waktu yang konsisten. Tingkat tahunan tidak boleh langsung dimasukkan ke rumus bulanan tanpa konversi yang tepat. Biaya dan pajak dapat mengubah hasil bersih.
+BAB 9 — ANGSURAN DAN TOTAL BIAYA
+Total pembayaran pinjaman adalah gabungan seluruh cicilan dan biaya terkait. Untuk membandingkan penawaran, gunakan periode, pokok, serta jenis biaya yang sama. Bunga tetap dan bunga mengambang memiliki risiko berbeda jika kondisi pasar berubah.
+Tabel amortisasi menunjukkan bagian pembayaran yang digunakan untuk pokok dan bunga pada setiap periode. Pada banyak skema, komposisinya berubah dari waktu ke waktu. Pelajari jadwal resmi sebelum menyetujui kontrak.
+BAB 10 — INFLASI DAN NILAI UANG
+Inflasi mengurangi daya beli uang jika pendapatan atau tabungan tidak tumbuh sebanding dengan harga. Nilai nominal adalah angka uang yang tertulis, sedangkan nilai riil memperhitungkan perubahan tingkat harga. Perbandingan antarwaktu perlu menggunakan dasar harga yang sesuai.
+Inflasi rata-rata tidak sama dengan perubahan biaya setiap rumah tangga. Keranjang belanja tiap keluarga berbeda, sehingga dampak yang dirasakan juga dapat berbeda.
+BAB 11 — STATISTIKA PENGELUARAN
+Rata-rata pengeluaran dapat dipengaruhi satu transaksi yang sangat besar. Median sering memberi gambaran nilai tengah yang lebih tahan terhadap pencilan. Diagram batang, garis, dan lingkaran memiliki kegunaan berbeda; pilih grafik sesuai pertanyaan.
+Pisahkan kategori agar tidak terjadi penghitungan ganda. Periksa periode pencatatan dan transaksi yang belum masuk. Data yang lengkap dan konsisten lebih berguna daripada angka yang tampak presisi tetapi banyak hilang.
+BAB 12 — MODEL DAN ASUMSI
+Model matematika menyederhanakan kenyataan. Kalkulator anggaran, simulasi tabungan, dan perbandingan cicilan bergantung pada asumsi seperti pendapatan tetap, tingkat bunga, dan tidak adanya biaya tambahan. Jika asumsi berubah, hasil juga berubah.
+Gunakan beberapa skenario, misalnya kondisi dasar dan kondisi pendapatan lebih rendah. Hasil model bukan jaminan masa depan, melainkan alat untuk memahami kemungkinan dan konsekuensi.
+LATIHAN
+1. Mengapa diskon 20 persen lalu 10 persen bukan diskon 30 persen? Jawaban: diskon kedua diterapkan pada harga yang sudah berkurang.
+2. Apa beda nilai nominal dan riil? Jawaban: nilai riil telah memperhitungkan perubahan tingkat harga.
+3. Mengapa median dapat lebih tepat daripada rata-rata? Jawaban: median lebih tahan terhadap nilai ekstrem.

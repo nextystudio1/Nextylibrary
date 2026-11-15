@@ -1149,11 +1149,19 @@ private fun fetchSingleBookText(source: String): String {
             .replace(Regex("""(?is)<(script|style|nav|header|footer|aside|form|button|noscript|iframe|svg)[^>]*>.*?</\1>"""), " ")
             .replace(Regex("""(?is)<img\b([^>]*)>""")) { match ->
                 val attrs = match.groupValues[1]
-                val src = Regex("""(?i)\bsrc\s*=\s*["']([^"']+)["']""").find(attrs)?.groupValues?.get(1)
-                val alt = Regex("""(?i)\balt\s*=\s*["']([^"']*)["']""").find(attrs)?.groupValues?.get(1).orEmpty()
-                val absolute = src?.let { runCatching { URL(URL(requestUrl), it).toString() }.getOrNull() }
-                if (absolute != null && !absolute.startsWith("data:")) {
-                    "\n\n[[NEXTY_IMAGE|" + absolute + "|" + alt.replace("|", " ").replace("]]", "") + "]]\n\n"
+                fun attribute(name: String): String? =
+                    Regex("""(?i)\\b${Regex.escape(name)}\\s*=\\s*["']([^"']+)["']""")
+                        .find(attrs)?.groupValues?.get(1)?.trim()
+                val srcSet = attribute("data-srcset") ?: attribute("srcset")
+                val srcFromSet = srcSet?.split(",")?.firstOrNull()?.trim()?.substringBefore(Regex("""\\s+"""))
+                val src = attribute("data-src") ?: attribute("data-original") ?:
+                    attribute("data-lazy-src") ?: attribute("src") ?: srcFromSet
+                val alt = attribute("alt").orEmpty()
+                val absolute = src?.replace("&amp;", "&")?.let {
+                    runCatching { URL(URL(requestUrl), it).toString() }.getOrNull()
+                }
+                if (absolute != null && absolute.startsWith("http") && !absolute.startsWith("data:")) {
+                    "\\n\\n[[NEXTY_IMAGE|" + absolute + "|" + alt.replace("|", " ").replace("]]", "") + "]]\\n\\n"
                 } else " "
             }
             .replace(Regex("""(?is)<a\b[^>]*>(.*?)</a>""")) { it.groupValues[1] }

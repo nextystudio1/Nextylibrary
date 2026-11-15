@@ -476,3 +476,27 @@ Baca satu bab dalam satu sesi. Tandai istilah yang belum dipahami, lalu tulis ke
 
 KREDIT DAN LISENSI
 Naskah ini ditulis khusus untuk NextyLibrary oleh Tim Editorial NextyLibrary. Seluruh uraian dalam edisi ini merupakan materi orisinal dan tidak menyalin bab dari buku berhak cipta. Ilustrasi visual belum disertakan dalam edisi teks ini. Edisi berikutnya dapat menambahkan diagram orisinal yang dibuat khusus untuk memperjelas konsep.
+
+PENDALAMAN: KETERAMPILAN SAINS DAN PENYELIDIKAN
+BAB 7 — PENGAMATAN DAN PENGUKURAN
+Pengamatan ilmiah menggunakan indera atau instrumen dengan prosedur yang jelas. Pengukuran memerlukan satuan, alat yang sesuai, dan catatan kondisi. Ketelitian alat membatasi jumlah angka yang layak dilaporkan.
+Data kualitatif menjelaskan ciri atau kategori, sedangkan data kuantitatif dinyatakan dalam angka. Keduanya dapat saling melengkapi. Foto, tabel, dan catatan lapangan membantu menyimpan bukti yang dapat diperiksa.
+BAB 8 — HIPOTESIS DAN PREDIKSI
+Hipotesis adalah penjelasan sementara yang dapat diuji. Prediksi menyatakan hasil yang diharapkan jika hipotesis benar dalam kondisi tertentu. Hipotesis perlu dapat menghadapi kemungkinan dibantah oleh data.
+Tidak semua pertanyaan dapat diuji dengan eksperimen terkontrol. Penelitian observasional, pemodelan, dan perbandingan alamiah juga dapat menghasilkan bukti penting, dengan batas kesimpulan yang berbeda.
+BAB 9 — EKSPERIMEN YANG ADIL
+Eksperimen yang dirancang baik mengubah faktor tertentu dan mengukur respons sambil menjaga faktor lain tetap terkendali sejauh mungkin. Kelompok pembanding membantu menilai apakah perubahan berkaitan dengan perlakuan.
+Pengulangan membantu menilai konsistensi, tetapi tidak otomatis menghilangkan bias. Catat prosedur, jumlah pengamatan, dan kejadian tak terduga.
+BAB 10 — GRAFIK DAN PENAFSIRAN DATA
+Grafik membantu melihat pola, tetapi pilihan skala dapat memengaruhi kesan visual. Sumbu harus diberi label dan satuan. Jangan menghubungkan titik data jika tidak ada alasan bahwa nilai di antaranya bermakna.
+Rata-rata, median, rentang, dan variasi memberi gambaran berbeda. Pilih ukuran ringkasan sesuai distribusi data dan pertanyaan.
+BAB 11 — KERJA ILMIAH DAN KOLABORASI
+Pengetahuan berkembang melalui diskusi, kritik, replikasi, dan pembaruan. Peneliti perlu membedakan data mentah, hasil olahan, dan interpretasi. Kolaborasi memerlukan pembagian tugas dan pencatatan kontribusi.
+Kesalahan yang ditemukan harus diperbaiki secara transparan. Mengubah data agar sesuai dugaan merusak kepercayaan dan menghasilkan kesimpulan yang tidak dapat diandalkan.
+BAB 12 — SAINS DALAM KEHIDUPAN SEHARI-HARI
+Sains membantu mengevaluasi klaim tentang kesehatan, lingkungan, teknologi, dan konsumsi. Periksa kualitas bukti, ukuran dampak, ketidakpastian, serta apakah temuan berlaku pada konteks yang sama.
+Satu penelitian jarang menyelesaikan seluruh pertanyaan. Tinjauan bukti dari banyak penelitian biasanya memberi gambaran lebih kuat, selama metode dan kualitasnya diperiksa.
+LATIHAN
+1. Apa beda hipotesis dan prediksi? Jawaban: hipotesis adalah penjelasan yang diuji; prediksi adalah hasil yang diharapkan jika hipotesis benar.
+2. Mengapa eksperimen perlu kelompok pembanding? Jawaban: membantu menilai perubahan yang berkaitan dengan perlakuan.
+3. Mengapa sumbu grafik harus diberi satuan? Jawaban: agar pembaca mengetahui makna dan skala data.

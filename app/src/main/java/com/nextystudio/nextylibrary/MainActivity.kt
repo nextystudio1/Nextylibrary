@@ -256,7 +256,7 @@ private fun MusicPlayerCard(
             Spacer(Modifier.width(12.dp))
             Column(Modifier.weight(1f)) {
                 Text("Piano Chill", color = Ink, fontSize = 13.sp, fontWeight = FontWeight.ExtraBold)
-                Text("Musik latar tetap berjalan saat kamu membaca", color = Muted, fontSize = 10.sp, maxLines = 2)
+                Text(if (playing) "Musik sedang diputar • tetap aktif saat membaca" else "Tekan tombol putar untuk memulai musik latar", color = Muted, fontSize = 10.sp, maxLines = 2)
                 Text("NEXTY PIANO CHILL • ORIGINAL", color = Green, fontSize = 8.sp, fontWeight = FontWeight.Bold, letterSpacing = 1.sp)
             }
             Spacer(Modifier.width(8.dp))
@@ -289,98 +289,97 @@ private class AmbientMusicPlayer {
     @Volatile private var track: AudioTrack? = null
     @Volatile private var worker: Thread? = null
     @Volatile private var volume: Float = 1f
+    private var loopSamples: ShortArray? = null
 
     fun setVolume(value: Float) {
         volume = value.coerceIn(0f, 1f)
         track?.setVolume(volume)
     }
 
+    private fun makeMusic(): ShortArray {
+        val sampleRate = 24000
+        val frames = sampleRate * 8
+        val samples = ShortArray(frames * 2)
+        val chordSteps = intArrayOf(0, 5, 7, 3)
+        val melody = intArrayOf(0, 4, 7, 11, 7, 4, 2, 7, 9, 7, 4, 2, 0, 4, 7, 4)
+        for (frame in 0 until frames) {
+            val time = frame.toDouble() / sampleRate
+            val beat = time * 2.0
+            val root = 196.0 * Math.pow(2.0, chordSteps[(time / 2.0).toInt() % chordSteps.size] / 12.0)
+            val note = 440.0 * Math.pow(2.0, (melody[beat.toInt() % melody.size] - 9) / 12.0)
+            val pulse = (beat % 1.0)
+            val pluckEnvelope = Math.exp(-pulse * 5.5)
+            val pad = sin(2.0 * PI * root * time) * 0.13 +
+                sin(2.0 * PI * root * 1.5 * time) * 0.055
+            val bass = sin(2.0 * PI * root * 0.5 * time) * 0.12
+            val piano = (sin(2.0 * PI * note * time) + 0.2 * sin(2.0 * PI * note * 2.0 * time)) * pluckEnvelope * 0.34
+            val fade = minOf((time / 0.15).coerceIn(0.0, 1.0), ((8.0 - time) / 0.15).coerceIn(0.0, 1.0))
+            val sample = ((pad + bass + piano) * fade * 0.88 * Short.MAX_VALUE).toInt()
+                .coerceIn(Short.MIN_VALUE.toInt(), Short.MAX_VALUE.toInt()).toShort()
+            samples[frame * 2] = sample
+            samples[frame * 2 + 1] = sample
+        }
+        return samples
+    }
+
     @Synchronized
     fun play() {
         if (running) return
+        val samples = loopSamples ?: makeMusic().also { loopSamples = it }
         var audio = track
         if (audio == null || audio.state != AudioTrack.STATE_INITIALIZED) {
             val sampleRate = 24000
-            val frames = sampleRate * 4
-            val samples = ShortArray(frames * 2)
-            val melody = intArrayOf(0, 4, 7, 11, 7, 4, 2, 7, 9, 7, 4, 2, 0, 4, 7, 4)
-            for (i in 0 until frames) {
-                val t = i.toDouble() / sampleRate
-                val beat = t * 2.0
-                val root = 196.0 * Math.pow(2.0, (intArrayOf(0, 5, 7, 3)[(t / 1.0).toInt() % 4]) / 12.0)
-                val note = 440.0 * Math.pow(2.0, (melody[(beat.toInt() % melody.size)] - 9) / 12.0)
-                val phase = beat % 1.0
-                val pluckEnv = Math.exp(-phase * 5.0)
-                val pad = sin(2.0 * PI * root * t) * 0.10 + sin(2.0 * PI * root * 1.5 * t) * 0.045
-                val bass = sin(2.0 * PI * root * 0.5 * t) * 0.10
-                val piano = (sin(2.0 * PI * note * t) + 0.22 * sin(2.0 * PI * note * 2.0 * t)) * pluckEnv * 0.30
-                val fade = minOf((t / 0.12).coerceIn(0.0, 1.0), ((4.0 - t) / 0.12).coerceIn(0.0, 1.0))
-                val sample = ((pad + bass + piano) * fade * 0.92 * Short.MAX_VALUE).toInt()
-                    .coerceIn(Short.MIN_VALUE.toInt(), Short.MAX_VALUE.toInt()).toShort()
-                samples[i * 2] = sample
-                samples[i * 2 + 1] = sample
-            }
             val format = AudioFormat.Builder().setEncoding(AudioFormat.ENCODING_PCM_16BIT)
                 .setSampleRate(sampleRate).setChannelMask(AudioFormat.CHANNEL_OUT_STEREO).build()
             val attributes = AudioAttributes.Builder().setUsage(AudioAttributes.USAGE_MEDIA)
                 .setContentType(AudioAttributes.CONTENT_TYPE_MUSIC).build()
             val minBuffer = AudioTrack.getMinBufferSize(sampleRate, AudioFormat.CHANNEL_OUT_STEREO, AudioFormat.ENCODING_PCM_16BIT)
             audio = AudioTrack.Builder().setAudioAttributes(attributes).setAudioFormat(format)
-                .setTransferMode(AudioTrack.MODE_STREAM).setBufferSizeInBytes(maxOf(minBuffer * 2, 8192)).build()
+                .setTransferMode(AudioTrack.MODE_STREAM).setBufferSizeInBytes(maxOf(minBuffer * 2, 16384)).build()
             if (audio.state != AudioTrack.STATE_INITIALIZED) {
                 audio.release()
                 throw IllegalStateException("AudioTrack gagal diinisialisasi")
             }
             track = audio
-            audio.setVolume(volume)
         }
+        audio.setVolume(volume)
         running = true
         audio.play()
         val activeTrack = audio
         worker = Thread {
-            val chunk = ShortArray(2048)
             var cursor = 0
-            while (running && track === activeTrack) {
-                val count = minOf(chunk.size, 2048)
-                for (n in 0 until count) {
-                    chunk[n] = if (cursor < 8192) {
-                        val sampleFrame = cursor / 2
-                        val value = sampleFrame * 2
-                        // Smooth repeating piano-pad waveform generated per chunk.
-                        val time = sampleFrame.toDouble() / 24000.0
-                        val base = 196.0 * Math.pow(2.0, (intArrayOf(0, 5, 7, 3)[(time / 1.0).toInt() % 4]) / 12.0)
-                        val melodyNote = intArrayOf(0, 4, 7, 11, 7, 4, 2, 7, 9, 7, 4, 2, 0, 4, 7, 4)[((time * 2.0).toInt() % 16)]
-                        val hz = 440.0 * Math.pow(2.0, (melodyNote - 9) / 12.0)
-                        val beatPhase = (time * 2.0) % 1.0
-                        val env = Math.exp(-beatPhase * 5.0)
-                        val mixed = (sin(2.0 * PI * base * time) * 0.10 +
-                            sin(2.0 * PI * base * 0.5 * time) * 0.10 +
-                            sin(2.0 * PI * hz * time) * env * 0.30) * 0.92
-                        (mixed * Short.MAX_VALUE).toInt().coerceIn(-32768, 32767).toShort()
-                    } else 0
-                    cursor = (cursor + 1) % 8192
+            val chunk = ShortArray(4096)
+            try {
+                while (running && track === activeTrack) {
+                    for (i in chunk.indices) {
+                        chunk[i] = samples[cursor]
+                        cursor++
+                        if (cursor >= samples.size) cursor = 0
+                    }
+                    val written = activeTrack.write(chunk, 0, chunk.size, AudioTrack.WRITE_BLOCKING)
+                    if (written < 0) break
                 }
-                val written = activeTrack.write(chunk, 0, chunk.size, AudioTrack.WRITE_BLOCKING)
-                if (written < 0) break
-            }
+            } catch (_: Exception) { }
         }.apply { name = "NextyLibraryMusic"; isDaemon = true; start() }
     }
 
     @Synchronized
     fun pause() {
         running = false
-        worker?.join(250)
-        worker = null
         track?.let { try { it.pause(); it.flush() } catch (_: Exception) { } }
+        try { worker?.join(500) } catch (_: InterruptedException) { Thread.currentThread().interrupt() }
+        worker = null
     }
 
     @Synchronized
     fun release() {
         running = false
-        worker?.join(250)
+        track?.let { try { it.pause(); it.flush() } catch (_: Exception) { } }
+        try { worker?.join(500) } catch (_: InterruptedException) { Thread.currentThread().interrupt() }
         worker = null
-        track?.let { try { it.pause(); it.flush(); it.release() } catch (_: Exception) { } }
+        track?.let { try { it.release() } catch (_: Exception) { } }
         track = null
+        loopSamples = null
     }
 }
 
@@ -547,7 +546,7 @@ private fun prepareReaderSections(raw: String, title: String): List<ReaderSectio
     val chapterPattern = Regex("(?im)^\\s*(?:CHAPTER\\s+[IVXLCDM0-9]+[.:]?|ADVENTURE\\s+[IVXLCDM0-9]+[^\\n]*|BOOK\\s+[IVXLCDM0-9]+[^\\n]*|PART\\s+[IVXLCDM0-9]+[^\\n]*)\\s*$")
     val firstChapter = chapterPattern.find(text)
     if (firstChapter != null) text = text.substring(firstChapter.range.first)
-    text = text.replace(Regex("(?m)^\\s*_{1,}([^\\n]+)_{1,}\\s*$"), "$1")
+    text = text.replace(Regex("(?m)^\\s*_{1,}([^\\n]+)_{1,}\\s*$")) { it.groupValues[1] }
         .replace(Regex("(?m)^\\s*\\*{2,}\\s*$"), "")
         .replace(Regex("\\n{3,}"), "\\n\\n")
         .trim()
@@ -563,7 +562,7 @@ private fun prepareReaderSections(raw: String, title: String): List<ReaderSectio
         }
     }
     for (chunk in chunks) {
-        val cleaned = chunk.replace(Regex("_([^_]+)_"), "$1").replace(Regex("\\s{2,}"), " ").trim()
+        val cleaned = chunk.replace(Regex("_([^_]+)_")) { it.groupValues[1] }.replace(Regex("\\s{2,}"), " ").trim()
         if (headingRegex.matches(cleaned) || (cleaned.length in 3..90 && cleaned == cleaned.uppercase() && cleaned.any { it.isLetter() })) {
             flush()
             currentHeading = cleaned

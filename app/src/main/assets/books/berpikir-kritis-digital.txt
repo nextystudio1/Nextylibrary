@@ -191,3 +191,27 @@ Lisensi terbuka: izin penggunaan karya dengan syarat yang ditentukan pencipta.
 
 DAFTAR RUJUKAN UNTUK PENDALAMAN
 Pelajari panduan literasi digital dari lembaga pendidikan dan pemerintah, dokumentasi keamanan akun dari penyedia layanan, panduan pemeriksaan fakta organisasi pemeriksa fakta yang transparan, serta materi pengantar metode penelitian. Periksa tanggal dan ruang lingkup setiap panduan karena fitur platform dapat berubah.
+
+PENDALAMAN: PENALARAN, ARGUMEN, DAN LITERASI DIGITAL
+BAB 7 — STRUKTUR ARGUMEN
+Argumen terdiri atas klaim, alasan, dan bukti. Klaim menyatakan posisi, alasan menjelaskan hubungan logis, sedangkan bukti mendukung alasan. Contoh pribadi dapat memberi ilustrasi, tetapi belum tentu mewakili pola umum.
+Bedakan premis dan kesimpulan. Tanyakan apakah bukti relevan, cukup, dan berasal dari sumber yang dapat dipercaya. Argumen yang baik juga mengakui batas dan kemungkinan sanggahan.
+BAB 8 — KEKELIRUAN BERPIKIR
+Serangan pribadi mengalihkan pembahasan dari gagasan ke karakter orang. Generalisasi tergesa-gesa menyimpulkan pola luas dari contoh terlalu sedikit. Dilema palsu menyajikan hanya dua pilihan padahal ada alternatif lain.
+Mengenali kekeliruan bukan sekadar memberi label. Jelaskan mengapa hubungan logisnya lemah dan bagaimana argumen dapat diperbaiki.
+BAB 9 — PROBABILITAS DAN KETIDAKPASTIAN
+Peluang menyatakan kemungkinan suatu kejadian berdasarkan model atau data. Peluang 80 persen tidak menjamin kejadian terjadi, dan peluang 20 persen tidak berarti kejadian mustahil. Interpretasi harus memperhatikan jumlah pengamatan dan asumsi.
+Risiko menggabungkan peluang dan dampak. Keputusan dapat mempertimbangkan beberapa skenario, bukan hanya satu perkiraan paling mungkin.
+BAB 10 — KORELASI, SEBAB, DAN KONTROL
+Dua variabel dapat berkorelasi karena hubungan sebab-akibat, faktor ketiga, atau kebetulan. Untuk menilai sebab, periksa urutan waktu, mekanisme, pengendalian faktor pengganggu, dan bukti dari rancangan yang sesuai.
+Bahasa kesimpulan harus mencerminkan kekuatan desain penelitian. Hindari menyatakan sebab ketika data hanya menunjukkan hubungan.
+BAB 11 — MEMBANDINGKAN SUMBER DIGITAL
+Periksa penulis, tanggal, tujuan, rujukan, dan rekam jejak sumber. Telusuri kutipan hingga dokumen asal. Perhatikan apakah grafik memiliki sumber data dan apakah angka dipilih secara selektif.
+Sumber yang berbeda dapat melaporkan fakta sama dengan penekanan berbeda. Bandingkan bukti dan konteks, bukan hanya judul atau jumlah pengikut.
+BAB 12 — KEPUTUSAN DAN REFLEKSI
+Berpikir kritis berarti bersedia memperbarui pendapat ketika bukti baru lebih kuat. Catat alasan awal, bukti yang mengubah pandangan, serta bagian yang masih belum diketahui.
+Dalam diskusi, ajukan pertanyaan klarifikasi dan rangkum posisi pihak lain secara adil sebelum menyanggah. Tujuan penalaran adalah memahami masalah dan memperbaiki keputusan, bukan sekadar memenangkan perdebatan.
+LATIHAN
+1. Mengapa contoh pribadi tidak cukup membuktikan pola umum? Jawaban: contoh dapat tidak mewakili populasi.
+2. Apa arti korelasi? Jawaban: dua variabel berubah bersama menurut pola tertentu, tanpa otomatis membuktikan sebab.
+3. Bagaimana menunjukkan argumen yang adil? Jawaban: menyajikan bukti relevan, mengakui batas, dan menanggapi sanggahan secara tepat.

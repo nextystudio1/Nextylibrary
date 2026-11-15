@@ -302,3 +302,15 @@ LATIHAN
 1. Mengapa adaptasi tidak berarti organisme sempurna? Jawaban: adaptasi berkaitan dengan lingkungan tertentu dan selalu memiliki batas serta kompromi.
 2. Apa yang dimaksud homeostasis? Jawaban: pengaturan kondisi internal dalam kisaran yang mendukung fungsi organisme.
 3. Mengapa antibiotik tidak digunakan untuk mengobati virus? Jawaban: antibiotik menargetkan struktur atau proses bakteri yang tidak dimiliki virus.
+
+BAB LANJUTAN: PEWARISAN SIFAT DAN VARIASI
+Informasi genetik tersimpan dalam DNA. Gen merupakan bagian DNA yang berperan dalam menghasilkan produk fungsional, sering kali protein atau RNA. Kromosom mengemas DNA bersama protein. Saat sel membelah, materi genetik disalin; perubahan atau mutasi dapat muncul dan menghasilkan variasi. Dampak mutasi bergantung pada lokasi, jenis perubahan, dan lingkungan.
+Sifat organisme tidak selalu ditentukan satu gen. Banyak sifat dipengaruhi banyak gen serta lingkungan. Karena itu, kemiripan keluarga tidak berarti semua sifat diwariskan dengan pola sederhana. Lingkungan, perkembangan, pola makan, dan pengalaman dapat memengaruhi bagaimana sifat tampak.
+EVOLUSI DAN SELEKSI ALAM
+Dalam populasi terdapat variasi yang dapat diwariskan. Jika variasi tertentu memengaruhi keberhasilan hidup dan reproduksi dalam lingkungan tertentu, frekuensinya dapat berubah dari generasi ke generasi. Evolusi tidak memiliki tujuan akhir dan tidak menghasilkan organisme yang sempurna. Perubahan lingkungan dapat mengubah keuntungan suatu sifat.
+KESEHATAN EKOSISTEM DAN KEANEKARAGAMAN
+Keanekaragaman genetik, spesies, dan ekosistem membantu sistem kehidupan menghadapi perubahan. Fragmentasi habitat, pencemaran, eksploitasi berlebihan, spesies invasif, dan perubahan iklim dapat menekan populasi. Konservasi menggabungkan perlindungan habitat, penelitian, kebijakan, serta keterlibatan masyarakat.
+LATIHAN PEMAHAMAN
+1. Mengapa satu gen tidak selalu menentukan satu sifat sederhana? Jawaban: banyak sifat dipengaruhi interaksi banyak gen dan lingkungan.
+2. Apa syarat dasar seleksi alam? Jawaban: terdapat variasi yang dapat diwariskan dan perbedaan keberhasilan reproduksi.
+3. Mengapa keanekaragaman genetik penting? Jawaban: menyediakan variasi yang dapat membantu populasi menghadapi perubahan.

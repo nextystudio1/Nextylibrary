@@ -713,23 +713,23 @@ private fun BookDetail(book: Book, categoryName: String?, onBack: () -> Unit, on
 private data class ReaderSection(val heading: String?, val paragraphs: List<String>)
 
 private fun prepareReaderSections(raw: String, title: String): List<ReaderSection> {
-    var text = raw.replace("\r\n", "\n").replace('\r', '\n')
-    text = text.replace(Regex("(?im)^\\s*\\*{3}\\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\n?"), "")
-    text = text.replace(Regex("(?im)^\\s*\\*{3}\\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*[\\s\\S]*$"), "")
-    text = text.replace(Regex("(?is)\\[illustration:.*?\\]"), "")
-    text = text.replace(Regex("(?m)^\\s*\\[.*?\\]\\s*$"), "")
-    val titleWords = title.split(Regex("\\s+")).filter { it.length > 2 }
+    var text = raw.replace("\\r\\n", "\\n").replace('\\r', '\\n')
+    text = text.replace(Regex("(?im)^\\\\s*\\\\*{3}\\\\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\\\n]*\\\\n?"), "")
+        .replace(Regex("(?im)^\\\\s*\\\\*{3}\\\\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\\\n]*[\\\\s\\\\S]*$"), "")
+        .replace(Regex("(?is)\\\\[illustration:.*?\\\\]"), "")
+        .replace(Regex("(?m)^\\\\s*\\\\[.*?\\\\]\\\\s*$"), "")
+    val titleWords = title.split(Regex("\\\\s+")).filter { it.length > 2 }
     val titleMatch = titleWords.firstOrNull()?.let { Regex(Regex.escape(it), RegexOption.IGNORE_CASE).find(text) }
     if (titleMatch != null && titleMatch.range.first > 0) text = text.substring(titleMatch.range.first)
-    val chapterPattern = Regex("(?im)^\\s*(?:CHAPTER\\s+[IVXLCDM0-9]+[.:]?|ADVENTURE\\s+[IVXLCDM0-9]+[^\\n]*|BOOK\\s+[IVXLCDM0-9]+[^\\n]*|PART\\s+[IVXLCDM0-9]+[^\\n]*)\\s*$")
-    val firstChapter = chapterPattern.find(text)
-    if (firstChapter != null) text = text.substring(firstChapter.range.first)
-    text = text.replace(Regex("(?m)^\\s*_{1,}([^\\n]+)_{1,}\\s*$")) { it.groupValues[1] }
-        .replace(Regex("(?m)^\\s*\\*{2,}\\s*$"), "")
-        .replace(Regex("\\n{3,}"), "\\n\\n")
+    text = text.replace(Regex("(?m)^\\\\s*_{1,}([^\\\\n]+)_{1,}\\\\s*$")) { it.groupValues[1] }
+        .replace(Regex("(?m)^\\\\s*\\\\*{2,}\\\\s*$"), "")
+        .replace(Regex("\\\\n{3,}"), "\\\\n\\\\n")
         .trim()
-    val chunks = text.split(Regex("\\n\\s*\\n")).map { it.trim().replace(Regex("\\s*\\n\\s*"), " ") }.filter { it.isNotBlank() }
-    val headingRegex = Regex("(?i)^(?:CHAPTER\\s+[IVXLCDM0-9]+[.:]?|ADVENTURE\\s+[IVXLCDM0-9]+.*|BOOK\\s+[IVXLCDM0-9]+.*|PART\\s+[IVXLCDM0-9]+.*)$")
+
+    val chapterStart = Regex("(?im)^\\\\s*(?:BAB\\\\s+\\\\d+|CHAPTER\\\\s+[IVXLCDM0-9]+|BAGIAN\\\\s+\\\\d+|PART\\\\s+[IVXLCDM0-9]+|ADVENTURE\\\\s+[IVXLCDM0-9]+|BOOK\\\\s+[IVXLCDM0-9]+)[^\\\\n]*$")
+    val firstChapter = chapterStart.find(text)
+    if (firstChapter != null) text = text.substring(firstChapter.range.first)
+
     val result = mutableListOf<ReaderSection>()
     var currentHeading: String? = null
     var paragraphs = mutableListOf<String>()
@@ -739,15 +739,34 @@ private fun prepareReaderSections(raw: String, title: String): List<ReaderSectio
             paragraphs = mutableListOf()
         }
     }
-    for (chunk in chunks) {
-        val cleaned = chunk.replace(Regex("_([^_]+)_")) { it.groupValues[1] }.replace(Regex("\\s{2,}"), " ").trim()
-        if (headingRegex.matches(cleaned) || (cleaned.length in 3..90 && cleaned == cleaned.uppercase() && cleaned.any { it.isLetter() })) {
+    val chapterHeading = Regex("(?i)^(?:BAB\\\\s+\\\\d+|CHAPTER\\\\s+[IVXLCDM0-9]+|BAGIAN\\\\s+\\\\d+|PART\\\\s+[IVXLCDM0-9]+|ADVENTURE\\\\s+[IVXLCDM0-9]+|BOOK\\\\s+[IVXLCDM0-9]+)(?:\\\\s*[:—–.-]\\\\s*.*|\\\\s+.*)?$")
+    val frontMatter = Regex("(?i)^(?:PENGANTAR|KATA PENGANTAR|TENTANG BUKU|DAFTAR ISI|PENDAHULUAN|PENUTUP|GLOSARIUM|EVALUASI AKHIR|RANGKUMAN AKHIR|LAMPIRAN(?:\\\\s+[A-Z0-9]+)?)(?:\\\\s*[:—–.-]\\\\s*.*)?$")
+    val chunks = text.split(Regex("\\\\n\\\\s*\\\\n+"))
+    for (rawChunk in chunks) {
+        val lines = rawChunk.lines().map { it.trim() }.filter { it.isNotBlank() }
+        if (lines.isEmpty()) continue
+        val cleanedLines = lines.map { it.replace(Regex("_([^_]+)_")) { m -> m.groupValues[1] }.replace(Regex("\\\\s{2,}"), " ").trim() }
+        val candidate = cleanedLines.joinToString(" ").trim()
+        val isChapter = chapterHeading.matches(candidate) && candidate.length <= 150
+        val isStandaloneHeading = frontMatter.matches(candidate) ||
+            (cleanedLines.size == 1 && candidate.length in 3..75 &&
+                candidate == candidate.uppercase() && candidate.any { it.isLetter() } &&
+                !candidate.startsWith("RANGKUMAN BAB", true) &&
+                !candidate.startsWith("LATIHAN BAB", true) &&
+                !candidate.startsWith("ISTILAH PENTING", true))
+        if (isChapter || isStandaloneHeading) {
             flush()
-            currentHeading = cleaned
-        } else paragraphs.add(cleaned)
+            currentHeading = candidate
+        } else {
+            val isListBlock = cleanedLines.all {
+                it.matches(Regex("^(?:[•▪◦–—-]\\\\s+|\\\\d+[.)]\\\\s+|[a-zA-Z][.)]\\\\s+).*"))
+            }
+            if (isListBlock) paragraphs.addAll(cleanedLines)
+            else paragraphs.add(cleanedLines.joinToString(" "))
+        }
     }
     flush()
-    return result
+    return result.filter { it.heading != null || it.paragraphs.isNotEmpty() }
 }
 
 @Composable
@@ -842,6 +861,8 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
                             Spacer(Modifier.height(16.dp))
                         }
                         section.paragraphs.forEachIndexed { index, paragraph ->
+                            val isSubheading = paragraph.matches(Regex("(?i)^(?:RANGKUMAN(?:\\\\s+BAB\\\\s+\\\\d+)?|LATIHAN(?:\\\\s+BAB\\\\s+\\\\d+)?|ISTILAH PENTING|CONTOH(?:\\\\s+\\\\w+)?|TUJUAN PEMBELAJARAN|POIN UTAMA|EVALUASI|REFLEKSI|AKTIVITAS|STUDI KASUS)(?:\\\\s*[:—–.-].*)?$"))
+                            val isBullet = paragraph.matches(Regex("^(?:[•▪◦–—-]\\\\s+|\\\\d+[.)]\\\\s+|[a-zA-Z][.)]\\\\s+).*"))
                             if (paragraph.startsWith("[[NEXTY_IMAGE|") && paragraph.endsWith("]]")) {
                                 val parts = paragraph.removePrefix("[[NEXTY_IMAGE|").removeSuffix("]]").split("|", limit = 2)
                                 if (parts.isNotEmpty()) {
@@ -852,15 +873,27 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
                                         modifier = Modifier.fillMaxWidth().heightIn(max = 340.dp).clip(RoundedCornerShape(12.dp))
                                     )
                                     parts.getOrNull(1)?.takeIf { it.isNotBlank() }?.let {
-                                        Text(it, color = Muted, fontSize = 11.sp, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(top = 4.dp))
+                                        Text(it, color = Muted, fontSize = 11.sp, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(top = 6.dp))
                                     }
                                 }
+                            } else if (isSubheading) {
+                                Text(paragraph, color = Green, fontSize = 14.sp, fontWeight = FontWeight.Bold,
+                                    modifier = Modifier.fillMaxWidth().padding(top = 8.dp, bottom = 2.dp))
                             } else {
-                                Text(paragraph, color = Color(0xFF302F2A), fontSize = fontSize.sp, lineHeight = (fontSize * 1.65f).sp,
-                                    fontFamily = FontFamily.Serif, textAlign = TextAlign.Start,
-                                    modifier = Modifier.fillMaxWidth())
+                                Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.Top) {
+                                    if (isBullet) {
+                                        Text(if (paragraph.firstOrNull()?.isDigit() == true) "" else "•", color = Green,
+                                            fontSize = fontSize.sp, fontWeight = FontWeight.Bold, modifier = Modifier.width(22.dp))
+                                    }
+                                    Text(
+                                        if (isBullet) paragraph.replace(Regex("^(?:[•▪◦–—-]\\\\s+|\\\\d+[.)]\\\\s+|[a-zA-Z][.)]\\\\s+)"), "") else paragraph,
+                                        color = Color(0xFF302F2A), fontSize = fontSize.sp,
+                                        lineHeight = (fontSize * 1.72f).sp, fontFamily = FontFamily.Serif,
+                                        textAlign = TextAlign.Start, modifier = Modifier.weight(1f)
+                                    )
+                                }
                             }
-                            Spacer(Modifier.height(if (index == section.paragraphs.lastIndex) 0.dp else 17.dp))
+                            Spacer(Modifier.height(if (index == section.paragraphs.lastIndex) 0.dp else if (isSubheading) 5.dp else 13.dp))
                         }
                     }
                 }

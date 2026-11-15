@@ -192,3 +192,27 @@ Satelit alami: benda langit yang mengorbit planet atau benda lebih besar.
 
 DAFTAR RUJUKAN UNTUK PENDALAMAN
 Gunakan materi edukasi NASA, European Space Agency, observatorium nasional, dan buku astronomi pengantar dari penerbit akademik. Periksa tanggal pembaruan karena data misi dan pengetahuan planet dapat berkembang.
+
+PENDALAMAN: TATA SURYA DAN EKSPLORASI ANTARIKSA
+BAB 7 — MATAHARI SEBAGAI BINTANG
+Matahari adalah bintang yang menjadi sumber utama energi bagi sistem Bumi. Energinya dihasilkan melalui fusi nuklir di bagian inti. Energi bergerak ke lapisan luar dan akhirnya dipancarkan sebagai cahaya serta radiasi lain.
+Aktivitas Matahari berubah dalam siklus dan dapat memengaruhi ruang antariksa dekat Bumi. Pemantauan cuaca antariksa membantu memahami gangguan pada satelit, komunikasi, dan jaringan listrik.
+BAB 8 — PLANET KEBUMIAN DAN PLANET RAKSASA
+Merkurius, Venus, Bumi, dan Mars memiliki permukaan padat. Jupiter dan Saturnus didominasi gas, sedangkan Uranus dan Neptunus sering disebut raksasa es karena komposisi bagian dalamnya berbeda. Klasifikasi ini menyederhanakan struktur yang kompleks.
+Atmosfer, medan magnet, cincin, dan satelit alami menunjukkan keragaman planet. Perbandingan planet membantu ilmuwan memahami bagaimana lingkungan terbentuk dan berevolusi.
+BAB 9 — BULAN, ASTEROID, DAN KOMET
+Bulan memengaruhi pasang surut Bumi dan mengalami fase akibat geometri pencahayaan Matahari. Asteroid merupakan benda kecil berbatu atau logam, sedangkan komet mengandung es dan dapat membentuk koma serta ekor ketika mendekati Matahari.
+Benda kecil menyimpan petunjuk tentang masa awal Tata Surya. Misi antariksa mengambil sampel atau mengamati objek untuk mempelajari komposisinya.
+BAB 10 — GERAK ORBIT DAN MUSIM
+Musim terjadi terutama karena kemiringan sumbu rotasi Bumi terhadap bidang orbit, bukan karena jarak Bumi-Matahari semata. Ketika suatu belahan Bumi condong ke arah Matahari, siang lebih panjang dan sinar datang lebih tegak.
+Orbit planet berbentuk elips dengan Matahari pada salah satu fokus. Hukum Kepler menggambarkan hubungan periode dan ukuran orbit, sementara gravitasi Newton menjelaskan gaya yang mendasarinya.
+BAB 11 — EKSPLORASI ROBOTIK DAN MANUSIA
+Wahana robotik dapat mengamati planet, mengambil gambar, menganalisis tanah, dan mengukur atmosfer. Misi berawak menambah tantangan keselamatan, dukungan hidup, radiasi, dan dampak kesehatan jangka panjang.
+Setiap misi memerlukan tujuan ilmiah, anggaran, penilaian risiko, dan rencana operasi. Hasilnya perlu dibagikan bersama data dan keterbatasan instrumen.
+BAB 12 — PERLINDUNGAN PLANET
+Perlindungan planet bertujuan mencegah kontaminasi biologis antara Bumi dan objek antariksa. Kontaminasi dapat mengganggu pencarian kehidupan dan merusak lingkungan yang diteliti.
+Sampel yang dibawa ke Bumi memerlukan pengendalian dan prosedur keselamatan yang sesuai. Aturan misi dirancang berdasarkan tujuan ilmiah dan tingkat risiko.
+LATIHAN
+1. Apa penyebab utama musim di Bumi? Jawaban: kemiringan sumbu rotasi Bumi terhadap bidang orbit.
+2. Apa beda asteroid dan komet secara umum? Jawaban: asteroid umumnya berbatu atau logam, komet mengandung es dan debu.
+3. Mengapa perlindungan planet penting? Jawaban: untuk menghindari kontaminasi yang dapat mengganggu penelitian dan lingkungan.

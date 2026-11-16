@@ -129,3 +129,36 @@ Prakiraan: Estimasi kondisi atmosfer pada waktu mendatang.
 
 CATATAN SUMBER
 Materi ini merupakan pengantar orisinal Nexty Studio. Untuk informasi cuaca terkini, ikuti badan meteorologi resmi dan periksa waktu penerbitan peringatan.
+PENDALAMAN MATERI DAN PENGAMATAN
+
+BAB 6. TEKANAN UDARA DAN SUHU
+Tekanan udara merupakan gaya per satuan luas yang ditimbulkan oleh berat kolom udara. Tekanan umumnya berkurang ketika ketinggian bertambah karena jumlah udara di atas suatu tempat semakin sedikit. Suhu menggambarkan keadaan termal udara dan memengaruhi kerapatan serta gerak molekul. Udara hangat pada tekanan yang sama umumnya lebih renggang daripada udara dingin. Namun, gerak atmosfer tidak hanya ditentukan suhu; kelembapan, tekanan, topografi, dan dinamika skala besar ikut berperan. Pengukuran suhu perlu dilakukan di tempat teduh dan berventilasi sesuai standar agar tidak dipengaruhi radiasi langsung. Data tekanan dan suhu selalu perlu disertai waktu serta lokasi pengamatan.
+
+BAB 7. KELEMBAPAN, KONDENSASI, DAN AWAN
+Kelembapan menyatakan kandungan uap air di udara. Kelembapan relatif membandingkan jumlah uap air aktual dengan jumlah maksimum yang dapat ditampung udara pada suhu tersebut. Ketika udara mendingin hingga mencapai kondisi jenuh, uap air dapat mengalami kondensasi pada partikel kecil di atmosfer dan membentuk tetes awan. Awan memiliki bentuk dan ketinggian beragam yang berkaitan dengan proses pembentukannya. Kehadiran awan tidak selalu berarti hujan akan turun di lokasi pengamat. Untuk memahami peluang hujan, perlu memperhatikan jenis awan, perkembangan vertikal, kelembapan, dan data pengamatan lain.
+
+BAB 8. ANGIN, SIRKULASI, DAN ANGIN LOKAL
+Angin adalah gerakan udara yang dipengaruhi perbedaan tekanan. Udara cenderung bergerak dari tekanan lebih tinggi menuju tekanan lebih rendah, tetapi rotasi bumi dan gesekan permukaan mengubah arah serta kecepatannya. Bentuk muka bumi dapat menghasilkan pola angin lokal. Pada siang hari, daratan lebih cepat menghangat daripada laut dalam kondisi tertentu sehingga dapat terbentuk angin laut. Pada malam hari, perbedaan pendinginan dapat membalik pola menjadi angin darat. Pola ini dipengaruhi musim, awan, dan kondisi geografis, sehingga tidak selalu muncul dengan kekuatan sama. Pengamatan angin perlu mencatat arah, kecepatan, waktu, dan keadaan sekitar.
+
+BAB 9. HUJAN, BADAI, DAN CUACA EKSTREM
+Hujan terbentuk ketika tetes air atau kristal es dalam awan tumbuh cukup besar untuk jatuh ke permukaan. Intensitas hujan dapat berubah cepat dan dipengaruhi dinamika awan serta kondisi atmosfer. Badai petir dapat disertai hujan lebat, angin kencang, petir, atau hujan es. Risiko cuaca ekstrem bergantung pada intensitas, durasi, lokasi, paparan, dan kerentanan masyarakat. Informasi prakiraan bukan kepastian mutlak; pembaruan diperlukan ketika kondisi berubah. Untuk keputusan keselamatan, ikuti peringatan resmi dan jangan mendekati lokasi banjir, sambaran petir, atau pohon dan bangunan yang tidak stabil.
+
+BAB 10. PRAKIRAAN, IKLIM, DAN LITERASI DATA
+Cuaca menggambarkan keadaan atmosfer dalam waktu relatif singkat, sedangkan iklim merangkum pola statistik dalam periode panjang. Prakiraan menggunakan pengamatan, model numerik, dan pengetahuan proses atmosfer. Akurasi bergantung pada skala waktu, wilayah, kualitas data, dan kompleksitas keadaan. Peluang hujan 60 persen tidak berarti hujan turun selama 60 persen hari; maknanya mengikuti definisi probabilitas pada layanan prakiraan. Ketika membandingkan data, gunakan satuan, periode, dan lokasi yang sama. Grafik perlu memiliki label sumbu dan sumber. Perubahan iklim dinilai melalui tren jangka panjang, bukan satu hari panas atau satu kejadian hujan.
+
+STUDI KASUS
+Sebuah kota mengalami hujan lebat pada sore hari, sementara prakiraan pagi hanya menyebut peluang hujan sedang. Perbedaan ini tidak otomatis membuktikan prakiraan tidak berguna. Prakiraan menyatakan kemungkinan berdasarkan informasi saat itu, dan kondisi atmosfer dapat berkembang. Evaluasi yang baik membandingkan wilayah, waktu penerbitan, pembaruan, intensitas, serta rentang ketidakpastian.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa tekanan udara cenderung turun dengan ketinggian? Karena kolom udara di atas lokasi semakin pendek dan berat udaranya berkurang.
+2. Apa perbedaan kelembapan relatif dan jumlah uap air? Kelembapan relatif bergantung juga pada suhu, sedangkan jumlah uap air menyatakan kandungan aktual.
+3. Mengapa awan tidak selalu menghasilkan hujan di lokasi pengamat? Karena hujan dapat menguap sebelum mencapai tanah atau bergerak ke wilayah lain.
+4. Sebutkan dua faktor yang memengaruhi arah dan kecepatan angin selain gradien tekanan: rotasi bumi dan gesekan permukaan.
+5. Mengapa cuaca satu hari tidak cukup untuk menyimpulkan perubahan iklim? Iklim memerlukan analisis pola jangka panjang dan data yang konsisten.
+
+GLOSARIUM
+Kelembapan relatif: perbandingan kandungan uap air aktual dengan kondisi jenuh pada suhu tertentu.
+Kondensasi: perubahan uap menjadi cair.
+Tekanan udara: gaya per satuan luas akibat udara.
+Cuaca: keadaan atmosfer dalam waktu dan tempat tertentu.
+Iklim: pola statistik cuaca dalam periode panjang.

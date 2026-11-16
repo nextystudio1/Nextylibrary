@@ -171,3 +171,35 @@ LATIHAN DAN PEMBAHASAN
 2. Mengapa sambungan memengaruhi daur ulang? Karena beberapa sambungan mempersulit pemisahan material.
 3. Apa manfaat desain modular? Bagian tertentu dapat diganti tanpa membuang seluruh produk, selama tambahan kompleksitasnya sepadan.
 4. Mengapa matriks keputusan memerlukan analisis sensitivitas? Agar tim mengetahui apakah keputusan sangat bergantung pada bobot yang subjektif.
+BAB LANJUTAN: RISET PENGGUNA DAN PERUMUSAN KEBUTUHAN
+
+Riset desain bertujuan memahami pekerjaan, konteks, hambatan, dan harapan pengguna. Wawancara membantu menggali pengalaman, observasi menunjukkan tindakan dalam konteks, sedangkan survei dapat mengukur pola pada kelompok lebih luas. Pemilihan metode mengikuti pertanyaan riset, bukan tren alat tertentu.
+
+Pertanyaan wawancara sebaiknya terbuka dan tidak menggiring. Pertanyaan “Apakah Anda menyukai fitur ini?” cenderung menghasilkan jawaban sederhana. Pertanyaan “Ceritakan terakhir kali Anda menyelesaikan tugas ini” membantu mengungkap urutan tindakan, alat yang dipakai, kesulitan, dan strategi pengguna. Peneliti perlu meminta izin, menjelaskan tujuan, menjaga kerahasiaan, dan tidak mengumpulkan data yang tidak diperlukan.
+
+Temuan riset diterjemahkan menjadi kebutuhan yang dapat diuji. Pernyataan kebutuhan yang baik menjelaskan pengguna, tujuan, konteks, dan kriteria keberhasilan. Hindari langsung mengubah setiap permintaan menjadi fitur. Pengguna mungkin meminta tombol tambahan, padahal kebutuhan dasarnya adalah mengurangi langkah atau menghindari kesalahan.
+
+BAB LANJUTAN: SPESIFIKASI DAN PEMILIHAN KONSEP
+
+Spesifikasi desain menerjemahkan kebutuhan menjadi karakteristik terukur. Spesifikasi dapat mencakup dimensi, massa, kekuatan, kapasitas, biaya, waktu penggunaan, kemudahan perawatan, aksesibilitas, dan dampak lingkungan. Setiap ukuran harus memiliki metode pengujian dan batas penerimaan.
+
+Matriks keputusan dapat membandingkan beberapa konsep berdasarkan kriteria yang diberi bobot. Bobot mencerminkan prioritas dan perlu disepakati secara transparan. Skor bukan kebenaran objektif; hasilnya bergantung pada pilihan kriteria, bobot, dan kualitas informasi. Lakukan analisis sensitivitas untuk melihat apakah perubahan bobot mengubah pilihan.
+
+Contoh: tim merancang wadah air portabel. Konsep dibandingkan dari kapasitas, kemudahan dibersihkan, kebocoran, massa, biaya, dan ketahanan. Produk termurah belum tentu terbaik jika sulit dibersihkan atau cepat rusak. Keputusan harus menjelaskan kompromi dan kebutuhan pengujian berikutnya.
+
+BAB LANJUTAN: PROTOTIPE DAN PENGUJIAN
+
+Prototipe dapat berupa sketsa, model kertas, cetak tiga dimensi, simulasi, atau produk fungsional terbatas. Tingkat ketelitian prototipe dipilih berdasarkan pertanyaan yang ingin dijawab. Model sederhana cocok untuk mengevaluasi ukuran dan alur penggunaan, sedangkan pengujian kekuatan membutuhkan representasi material dan struktur yang lebih sesuai.
+
+Uji kegunaan mengamati apakah pengguna dapat menyelesaikan tugas, berapa banyak kesalahan, bagian mana yang membingungkan, dan bagaimana pengalaman mereka. Skenario tugas harus realistis dan tidak memberi petunjuk berlebihan. Peneliti sebaiknya mencatat perilaku, bukan hanya meminta penilaian suka atau tidak suka.
+
+Pengujian teknis memeriksa kinerja terhadap spesifikasi. Rencana uji mencantumkan alat, kondisi, jumlah pengulangan, toleransi, dan cara mencatat hasil. Sampel kecil dapat menemukan masalah awal, tetapi tidak selalu cukup untuk menyimpulkan keandalan populasi produk. Batas pengujian perlu dinyatakan.
+
+BAB LANJUTAN: SIKLUS HIDUP DAN DESAIN SIRKULAR
+
+Dampak produk muncul sejak pemilihan bahan, proses manufaktur, pengemasan, distribusi, penggunaan, perbaikan, hingga akhir masa pakai. Desain sirkular berupaya mempertahankan nilai bahan dan produk melalui daya tahan, perawatan, penggunaan ulang, perbaikan, pembaruan, dan daur ulang yang realistis.
+
+Produk yang dapat dibongkar dengan mudah belum tentu lebih berkelanjutan jika komponen pengganti tidak tersedia. Klaim daur ulang harus mempertimbangkan infrastruktur lokal dan kualitas bahan setelah diproses. Penilaian siklus hidup membantu membandingkan dampak, tetapi hasilnya bergantung pada batas sistem, sumber data, dan asumsi.
+
+PROYEK DESAIN PRODUK
+Pilih masalah sehari-hari yang aman dan relevan. Lakukan riset kebutuhan, rumuskan spesifikasi, buat tiga konsep, bandingkan dengan matriks keputusan, lalu buat prototipe sederhana. Uji dengan calon pengguna secara sukarela dan dengan izin. Dokumentasikan temuan, revisi, biaya, risiko, serta alasan desain akhir.

@@ -371,3 +371,59 @@ Susun rancangan penelitian sederhana tentang hubungan pencahayaan ruang belajar 
 
 RANGKUMAN
 Penelitian yang dapat dipercaya memiliki pertanyaan terarah, metode transparan, etika, pengendalian bias, dan kesediaan menerima hasil apa adanya.
+
+BAB PENGAYAAN — HIPOTESIS DAN PREDIKSI YANG DAPAT DIUJI
+
+Hipotesis adalah penjelasan sementara yang dapat diuji melalui pengamatan atau eksperimen. Hipotesis yang berguna menyatakan hubungan yang jelas dan memungkinkan hasil yang bertentangan dengannya ditemukan. Pernyataan “tanaman akan tumbuh lebih baik” perlu dijelaskan: lebih baik diukur melalui tinggi, jumlah daun, biomassa, atau indikator lain.
+
+Prediksi diturunkan dari hipotesis dan menjelaskan hasil yang diharapkan jika hipotesis benar. Contohnya, jika intensitas cahaya memengaruhi pertumbuhan kecambah dalam kondisi tertentu, kelompok dengan perlakuan cahaya berbeda diperkirakan menunjukkan perbedaan pada ukuran yang ditetapkan. Prediksi perlu menyebut kondisi, durasi, dan cara pengukuran.
+
+Hasil yang tidak sesuai prediksi tidak harus dianggap kegagalan. Hasil tersebut dapat menunjukkan bahwa hipotesis perlu diperbaiki, pengukuran memiliki masalah, atau ada variabel lain yang belum dipertimbangkan. Peneliti harus melaporkan hasil apa adanya, bukan memilih hanya data yang mendukung dugaan awal.
+
+BAB PENGAYAAN — EKSPERIMEN, OBSERVASI, DAN MODEL
+
+Eksperimen melibatkan pengaturan kondisi untuk menguji pengaruh suatu faktor. Observasi mengamati fenomena tanpa mengendalikan seluruh variabel. Keduanya penting, tetapi menjawab pertanyaan dengan cara berbeda. Eksperimen terkontrol dapat membantu menilai sebab-akibat, sedangkan observasi berguna ketika manipulasi tidak mungkin, tidak etis, atau fenomena berlangsung dalam skala besar.
+
+Model ilmiah adalah representasi sederhana dari sistem nyata. Model dapat berupa gambar, persamaan, simulasi komputer, atau model fisik. Model membantu membuat prediksi, tetapi selalu memiliki batas. Model cuaca, misalnya, menyederhanakan proses atmosfer yang sangat kompleks. Hasil model harus dibandingkan dengan data dan diperbarui ketika bukti baru tersedia.
+
+BAB PENGAYAAN — KETIDAKPASTIAN DAN KESALAHAN PENGUKURAN
+
+Setiap pengukuran memiliki ketidakpastian. Alat ukur memiliki batas resolusi, cara penggunaan dapat berbeda, dan kondisi lingkungan dapat memengaruhi hasil. Ketidakpastian bukan berarti pengukuran tidak berguna; justru pelaporan ketidakpastian membuat hasil lebih jujur dan dapat dibandingkan.
+
+Kesalahan sistematis membuat hasil bergeser secara konsisten, misalnya alat yang tidak dikalibrasi. Kesalahan acak menyebabkan variasi antar pengukuran. Pengulangan dapat membantu memperkirakan variasi acak, sedangkan kalibrasi dan pemeriksaan prosedur membantu menemukan kesalahan sistematis. Menambah jumlah pengukuran tidak otomatis memperbaiki alat yang bias.
+
+BAB PENGAYAAN — KORELASI DAN PENALARAN SEBAB-AKIBAT
+
+Dua variabel dapat berubah bersama tanpa satu menyebabkan yang lain. Hubungan dapat dipengaruhi variabel ketiga, arah sebab-akibat dapat terbalik, atau pola dapat muncul secara kebetulan. Untuk menyimpulkan sebab-akibat, peneliti perlu mempertimbangkan urutan waktu, mekanisme yang masuk akal, penjelasan alternatif, dan rancangan penelitian.
+
+Eksperimen acak dapat membantu menyeimbangkan faktor yang diketahui maupun tidak diketahui di antara kelompok, tetapi tidak selalu dapat dilakukan. Penelitian observasional dapat menggunakan penyesuaian statistik dan desain khusus, tetapi tetap memiliki asumsi yang harus dijelaskan. Kesimpulan yang baik sebanding dengan kekuatan bukti.
+
+BAB PENGAYAAN — REPRODUKSIBILITAS DAN KOMUNIKASI ILMIAH
+
+Reproduksibilitas berkaitan dengan kemampuan memperoleh hasil yang konsisten ketika analisis dilakukan kembali menggunakan data dan metode yang sama. Replikasi menguji apakah temuan dapat diperoleh pada pengumpulan data atau kondisi baru. Keduanya memperkuat kepercayaan terhadap hasil, tetapi perbedaan hasil juga dapat memberi informasi tentang batas temuan awal.
+
+Laporan ilmiah perlu menjelaskan pertanyaan, metode, data, analisis, hasil, keterbatasan, dan sumber pendukung. Grafik harus memiliki label serta satuan. Data yang tidak mendukung hipotesis tetap dilaporkan. Penjelasan yang baik memungkinkan pembaca menilai apakah kesimpulan benar-benar mengikuti bukti.
+
+LATIHAN
+1. Apa ciri hipotesis yang dapat diuji?
+2. Bedakan eksperimen dan observasi.
+3. Apa perbedaan kesalahan sistematis dan acak?
+4. Mengapa korelasi belum membuktikan sebab-akibat?
+5. Apa perbedaan reproduksibilitas dan replikasi?
+
+KUNCI PEMBAHASAN
+1. Hipotesis menyatakan hubungan yang jelas dan dapat diperiksa dengan bukti.
+2. Eksperimen mengatur kondisi; observasi mencatat fenomena tanpa mengendalikan seluruh variabel.
+3. Sistematis menggeser hasil secara konsisten; acak menimbulkan variasi.
+4. Hubungan dapat dipengaruhi faktor ketiga, arah terbalik, atau kebetulan.
+5. Reproduksibilitas mengulang analisis dengan data/metode sama; replikasi menguji temuan melalui pengumpulan atau kondisi baru.
+
+GLOSARIUM TAMBAHAN
+Hipotesis: penjelasan sementara yang dapat diuji.
+Prediksi: hasil yang diharapkan jika suatu hipotesis berlaku.
+Model ilmiah: representasi sederhana sistem atau fenomena.
+Kalibrasi: pemeriksaan dan penyesuaian alat ukur terhadap standar.
+Kesalahan sistematis: penyimpangan pengukuran yang konsisten.
+Kesalahan acak: variasi pengukuran yang tidak tetap.
+Reproduksibilitas: kemampuan mengulang analisis dengan data dan metode yang sama.
+Replikasi: pengujian ulang temuan melalui studi baru.

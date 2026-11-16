@@ -10,7 +10,7 @@ Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan sifat larutan
 
 BAB 1. LARUTAN DAN CAMPURAN
 
-Larutan adalah campuran homogen yang terdiri atas pelarut dan zat terlarut. Konsentrasi menyatakan banyaknya zat terlarut dalam sejumlah larutan atau pelarut. Larutan dapat dibuat lebih encer dengan menambahkan pelarut, tetapi jumlah zat terlarut tetap jika tidak ada yang hilang.
+Larutan adalah campuran homogen yang terdiri atas pelarut dan satu atau lebih zat terlarut. Komposisinya seragam pada skala pengamatan. Konsentrasi menyatakan jumlah zat terlarut dalam sejumlah larutan atau pelarut, sedangkan kelarutan menyatakan batas jumlah zat yang dapat larut pada kondisi tertentu. Pengenceran menurunkan konsentrasi dengan menambah pelarut; jika tidak ada zat yang hilang, jumlah mol zat terlarut tetap. Suhu dan sifat zat dapat memengaruhi kelarutan.
 
 CONTOH PENERAPAN
 Contoh kajian: pilih kasus sederhana yang berkaitan dengan LARUTAN DAN CAMPURAN dalam bidang Kimia Larutan dan Asam Basa. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
@@ -48,7 +48,6 @@ BAB 6. KIMIA LARUTAN DALAM KEHIDUPAN
 
 Larutan digunakan dalam minuman, pembersih, pertanian, kesehatan, dan pengolahan air. Label produk dan petunjuk keselamatan harus dibaca. Jangan mencampur bahan pembersih rumah tangga karena kombinasi tertentu dapat menghasilkan gas atau reaksi berbahaya.
 
-EVALUASI AKHIR
 EVALUASI AKHIR
 1. Bedakan pelarut, zat terlarut, dan larutan.
 2. Jelaskan perbedaan konsentrasi dan kelarutan.

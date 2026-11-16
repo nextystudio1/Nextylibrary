@@ -371,3 +371,24 @@ Tulis argumen singkat tentang manfaat perpustakaan sekolah. Sertakan satu klaim,
 
 RANGKUMAN
 Tulisan akademik yang kuat menggabungkan klaim terarah, alasan logis, bukti yang tepat, dan tanggapan terhadap sanggahan. Revisi membantu menjaga kejujuran serta keterbacaan.
+
+BAB STRUKTUR ARTIKEL ILMIAH
+Artikel ilmiah umumnya memiliki judul, abstrak, pendahuluan, metode, hasil, pembahasan, kesimpulan, dan daftar pustaka, meskipun susunannya berbeda menurut bidang. Setiap bagian memiliki fungsi. Pendahuluan menjelaskan masalah dan tujuan, metode menerangkan cara kerja, hasil menyajikan temuan, sedangkan pembahasan menafsirkan temuan dalam konteks penelitian lain.
+
+ABSTRAK YANG AKURAT
+Abstrak merangkum masalah, tujuan, metode, hasil utama, dan kesimpulan secara ringkas. Abstrak tidak boleh memuat klaim yang tidak dibahas dalam isi. Angka penting harus sesuai dengan bagian hasil. Hindari kata sifat berlebihan seperti “paling hebat” atau “terbukti sempurna”.
+
+METODE YANG DAPAT DIPERIKSA
+Metode menjelaskan bahan, peserta atau objek, prosedur, alat ukur, dan cara analisis secukupnya agar pembaca memahami bagaimana hasil diperoleh. Informasi sensitif harus dilindungi. Penelitian yang melibatkan manusia memerlukan persetujuan dan prosedur etik yang sesuai.
+
+HASIL DAN PEMBAHASAN
+Hasil menyajikan temuan tanpa menyembunyikan data yang tidak sesuai dugaan. Tabel dan gambar harus diberi judul, satuan, serta keterangan. Pembahasan mengaitkan hasil dengan pertanyaan penelitian, membandingkan dengan literatur, dan menjelaskan keterbatasan. Perbedaan hasil bukan alasan untuk mengubah data.
+
+PENILAIAN SEJAWAT DAN REVISI
+Penilaian sejawat dapat menemukan kelemahan metode, interpretasi, atau pelaporan. Proses ini bukan jaminan kebenaran mutlak. Penulis perlu menanggapi kritik dengan bukti dan memperbaiki bagian yang memang keliru. Konflik kepentingan harus dinyatakan sesuai ketentuan penerbit.
+
+LATIHAN
+Baca artikel ilmiah terbuka dari lembaga atau jurnal tepercaya. Identifikasi tujuan, metode, satu hasil, keterbatasan, dan satu pertanyaan lanjutan. Tulis ringkasan dengan kata-kata sendiri serta cantumkan sitasi.
+
+RANGKUMAN
+Artikel ilmiah menyusun proses penelitian agar dapat diperiksa pembaca. Kejujuran pelaporan dan keterbukaan terhadap kritik menjadi dasar komunikasi ilmu.

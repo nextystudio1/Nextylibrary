@@ -444,3 +444,21 @@ Rancang survei anonim fiktif tentang preferensi jam membaca. Tentukan populasi, 
 
 RANGKUMAN
 Kualitas survei bergantung pada definisi populasi, metode sampling, tingkat respons, dan pertanyaan. Jumlah responden saja tidak menjamin hasil dapat digeneralisasi.
+
+BAB REGRESI DAN PEMODELAN DATA
+Regresi digunakan untuk menggambarkan hubungan antara variabel hasil dan satu atau lebih variabel penjelas. Regresi linear sederhana memperkirakan hubungan garis lurus, sedangkan regresi berganda menggunakan beberapa prediktor. Koefisien menunjukkan perubahan rata-rata hasil yang diperkirakan ketika prediktor berubah dengan variabel lain dalam model tetap.
+
+ASUMSI DAN DIAGNOSTIK
+Model regresi memiliki asumsi yang perlu diperiksa, seperti bentuk hubungan, independensi pengamatan, pola variasi galat, dan distribusi residual untuk keperluan inferensi tertentu. Plot residual dapat menunjukkan pola yang tidak tertangkap model. Pencilan dan titik berpengaruh perlu diteliti, bukan otomatis dihapus.
+
+PREDIKSI DAN EKSTRAPOLASI
+Model dapat digunakan untuk memprediksi nilai dalam rentang data yang diamati, tetapi prediksi memiliki ketidakpastian. Ekstrapolasi jauh di luar rentang pengamatan berisiko karena hubungan dapat berubah. Prediksi sebaiknya disertai interval dan penjelasan kondisi penggunaan.
+
+REGRESI BUKAN BUKTI KAUSAL
+Koefisien regresi menunjukkan hubungan bersyarat dalam model, bukan otomatis pengaruh sebab-akibat. Perancu, seleksi sampel, kesalahan pengukuran, dan arah hubungan dapat memengaruhi hasil. Klaim kausal memerlukan rancangan dan asumsi tambahan yang kuat.
+
+LATIHAN
+Gunakan data simulasi hubungan waktu latihan dan skor kuis. Buat diagram pencar, pasang garis regresi, dan amati residual. Tuliskan batas kesimpulan serta alasan mengapa hubungan tidak membuktikan sebab tunggal.
+
+RANGKUMAN
+Regresi meringkas hubungan dan membantu prediksi, tetapi harus disertai diagnostik serta penjelasan ketidakpastian. Hubungan statistik tidak sama dengan sebab-akibat.

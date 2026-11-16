@@ -437,3 +437,21 @@ Minta alat AI menjelaskan satu konsep sains, lalu periksa tiga klaim dari jawaba
 
 RANGKUMAN
 AI generatif membantu pekerjaan bahasa dan pengetahuan, tetapi hasilnya harus diverifikasi. Transparansi, privasi, dan tanggung jawab tetap berada pada pengguna.
+
+BAB SISTEM PENDUKUNG KEPUTUSAN
+Sistem pendukung keputusan menggabungkan data, model, dan antarmuka untuk membantu seseorang menilai pilihan. Sistem dapat menyusun alternatif, menampilkan indikator, atau memperkirakan konsekuensi. Sistem tersebut tidak otomatis menentukan keputusan terbaik karena tujuan, nilai, dan toleransi risiko dapat berbeda.
+
+KUALITAS DATA
+Data perlu diperiksa kelengkapan, ketepatan, konsistensi, kebaruan, dan asalnya. Data yang tidak mewakili kondisi saat ini dapat menghasilkan rekomendasi buruk. Dokumentasi definisi variabel dan proses pengumpulan membantu pengguna memahami keterbatasan.
+
+MODEL DAN ASUMSI
+Model menyederhanakan hubungan nyata menjadi aturan atau perhitungan. Asumsi harus ditampilkan, misalnya bobot indikator, batas nilai, atau periode data. Analisis sensitivitas mengubah satu asumsi untuk melihat apakah hasil berubah drastis. Jika perubahan kecil menghasilkan rekomendasi berbeda, keputusan perlu lebih hati-hati.
+
+PENGAWASAN MANUSIA
+Untuk keputusan yang berdampak pada pendidikan, layanan, atau kesempatan seseorang, perlu tersedia peninjauan manusia, penjelasan yang dapat dipahami, dan jalur koreksi. Otomatisasi tidak menghapus tanggung jawab lembaga yang menggunakan sistem. Pengguna perlu mengetahui kapan rekomendasi hanya saran dan kapan keputusan final dibuat manusia.
+
+LATIHAN
+Buat sistem skor fiktif untuk memilih buku bacaan berdasarkan tingkat kesulitan, topik, dan panjang. Jelaskan bobot, uji bagaimana hasil berubah jika bobot diubah, serta sediakan pilihan bagi pembaca untuk mengabaikan rekomendasi.
+
+RANGKUMAN
+Sistem pendukung keputusan membantu membandingkan pilihan, tetapi hasilnya bergantung data, model, asumsi, dan pengawasan.

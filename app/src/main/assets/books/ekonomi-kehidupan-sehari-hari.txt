@@ -418,3 +418,24 @@ Buat simulasi pasar sederhana untuk produk sekolah. Tentukan jumlah penjual, pem
 
 RANGKUMAN
 Pasar tenaga kerja dan pasar barang dipengaruhi keterampilan, biaya, informasi, aturan, dan kondisi ekonomi. Model sederhana berguna selama batas asumsi dipahami.
+
+BAB PRODUKTIVITAS, PERTUMBUHAN, DAN SIKLUS EKONOMI
+Produktivitas mengukur keluaran yang dihasilkan dibandingkan masukan seperti tenaga kerja, waktu, atau modal. Produktivitas dapat meningkat melalui keterampilan, teknologi, organisasi kerja, dan infrastruktur. Peningkatan produktivitas tidak otomatis menjamin manfaat dibagi merata; distribusi pendapatan dan kesempatan tetap penting.
+
+PERTUMBUHAN EKONOMI
+Pertumbuhan ekonomi biasanya diukur melalui perubahan nilai barang dan jasa akhir yang diproduksi dalam suatu wilayah, setelah memperhitungkan perubahan harga jika menggunakan ukuran riil. Produk domestik bruto memiliki keterbatasan: tidak langsung menunjukkan pemerataan, kualitas lingkungan, pekerjaan rumah tangga, atau kesejahteraan setiap orang.
+
+SIKLUS EKONOMI
+Aktivitas ekonomi dapat mengalami ekspansi dan perlambatan. Perubahan konsumsi, investasi, perdagangan, kebijakan, dan kepercayaan dapat memengaruhi siklus. Indikator ekonomi sering memiliki jeda dan revisi, sehingga satu angka bulanan tidak cukup untuk menyimpulkan arah ekonomi jangka panjang.
+
+KETIMPANGAN DAN KEMISKINAN
+Ketimpangan menggambarkan distribusi pendapatan atau kekayaan yang tidak sama. Kemiskinan dapat diukur melalui garis pendapatan maupun dimensi lain seperti akses pendidikan, kesehatan, air bersih, dan tempat tinggal layak. Ukuran yang berbeda menjawab pertanyaan yang berbeda, sehingga definisinya perlu disebutkan.
+
+EKONOMI DAN LINGKUNGAN
+Produksi serta konsumsi menggunakan energi dan bahan, menghasilkan limbah, dan dapat menimbulkan biaya eksternal. Kebijakan dapat menggunakan standar, pajak, insentif, atau perlindungan ekosistem untuk memasukkan biaya sosial ke dalam keputusan. Evaluasi perlu membandingkan dampak, efektivitas, dan konsekuensi distribusional.
+
+LATIHAN
+Bandingkan dua wilayah menggunakan indikator pertumbuhan, pendidikan, dan akses layanan dasar dari sumber statistik resmi. Jelaskan mengapa satu indikator tidak cukup untuk menyatakan satu wilayah lebih sejahtera.
+
+RANGKUMAN
+Produktivitas dan pertumbuhan penting bagi kapasitas ekonomi, tetapi kesejahteraan juga bergantung pada pemerataan, layanan, dan keberlanjutan.

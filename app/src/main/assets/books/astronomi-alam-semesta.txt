@@ -315,3 +315,24 @@ Pilih satu gambar astronomi dari lembaga observatorium resmi. Baca keterangan in
 
 RANGKUMAN
 Astronomi mengandalkan instrumen, pengukuran, dan analisis data. Memahami cara data diperoleh membantu menilai kekuatan serta keterbatasan sebuah penemuan.
+
+BAB MATAHARI DAN AKTIVITASNYA
+Matahari adalah bintang yang menjadi sumber energi utama bagi Bumi. Energi dihasilkan melalui fusi hidrogen di inti. Dari inti, energi bergerak melalui lapisan interior sebelum dilepaskan dari fotosfer. Atmosfer Matahari mencakup kromosfer dan korona yang memiliki karakteristik suhu serta dinamika berbeda.
+
+BINTIK DAN MEDAN MAGNET
+Bintik Matahari tampak lebih gelap karena suhunya lebih rendah dibanding fotosfer di sekitarnya. Bintik berkaitan dengan medan magnet kuat yang menghambat perpindahan energi konvektif. Jumlah bintik berubah mengikuti siklus aktivitas Matahari yang rata-rata berlangsung sekitar sebelas tahun, meskipun panjang dan kekuatannya bervariasi.
+
+LIDAH API DAN LONTARAN MASSA KORONA
+Letupan Matahari merupakan pelepasan energi mendadak yang dapat meningkatkan radiasi pada berbagai panjang gelombang. Lontaran massa korona membawa plasma dan medan magnet ke ruang antarplanet. Jika berinteraksi dengan magnetosfer Bumi, peristiwa tersebut dapat memicu badai geomagnetik yang memengaruhi satelit, komunikasi, dan jaringan listrik.
+
+ANGIN MATAHARI DAN AURORA
+Angin Matahari adalah aliran partikel bermuatan yang terus mengalir dari Matahari. Magnetosfer Bumi membelokkan sebagian besar partikel, sementara sebagian energi masuk ke wilayah kutub dan menghasilkan aurora. Intensitas aurora dipengaruhi aktivitas Matahari serta kondisi medan magnet antarplanet.
+
+PENGAMATAN AMAN
+Matahari tidak boleh dilihat langsung melalui teleskop, teropong, atau kamera tanpa filter surya khusus yang dipasang dengan benar. Pengamatan harus menggunakan metode aman yang disediakan lembaga astronomi atau guru. Kacamata hitam biasa tidak cukup melindungi mata.
+
+LATIHAN
+Buat diagram lapisan Matahari dan ringkas satu jenis aktivitas Matahari dari sumber lembaga antariksa. Catat dampak yang mungkin terjadi dan bedakan kemungkinan dari kejadian yang benar-benar terukur.
+
+RANGKUMAN
+Aktivitas Matahari dipengaruhi dinamika plasma dan medan magnet. Pemantauan membantu memahami cuaca antariksa serta dampaknya pada teknologi.

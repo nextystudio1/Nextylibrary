@@ -346,3 +346,24 @@ Tulis pseudocode untuk mencari nilai terbesar dalam daftar angka. Jelaskan jumla
 
 RANGKUMAN
 Struktur data dan analisis kompleksitas membantu memilih solusi yang efisien. Pengujian kasus batas memastikan program lebih andal pada kondisi beragam.
+
+BAB PEMROGRAMAN BERORIENTASI OBJEK
+Pemrograman berorientasi objek mengorganisasi program melalui objek yang menyimpan data dan menyediakan operasi. Kelas merupakan rancangan untuk membuat objek. Atribut menggambarkan keadaan objek, sedangkan metode menggambarkan perilaku. Pendekatan ini membantu memodelkan sistem yang memiliki banyak entitas, tetapi tidak selalu menjadi pilihan paling sederhana untuk setiap program.
+
+ENKAPSULASI DAN ABSTRAKSI
+Enkapsulasi membatasi akses langsung terhadap keadaan internal objek dan menyediakan antarmuka yang terkontrol. Abstraksi menonjolkan hal penting sambil menyembunyikan rincian yang tidak perlu diketahui pengguna. Keduanya dapat membuat kode lebih mudah dirawat jika batas tanggung jawab dirancang dengan baik.
+
+PEWARISAN DAN KOMPOSISI
+Pewarisan memungkinkan kelas baru menggunakan atau memperluas perilaku kelas lain. Komposisi membangun objek dari komponen yang bekerja sama. Pewarisan yang terlalu dalam dapat membuat kode sulit dipahami, sehingga komposisi sering lebih fleksibel. Pilihan harus mengikuti hubungan konseptual yang benar, bukan sekadar mengurangi jumlah baris.
+
+PENANGANAN KESALAHAN
+Program perlu membedakan masukan tidak valid, kegagalan jaringan, berkas tidak tersedia, dan kesalahan logika. Penanganan kesalahan yang baik memberi pesan yang dapat ditindaklanjuti tanpa membocorkan informasi sensitif. Jangan menutupi semua kesalahan dengan keluaran kosong karena hal itu menyulitkan penelusuran masalah.
+
+PENGUJIAN UNIT
+Pengujian unit memeriksa bagian kecil program secara terpisah. Kasus uji sebaiknya mencakup kondisi normal, batas, dan masukan tidak valid. Pengujian yang baik memeriksa hasil yang diharapkan, bukan sekadar apakah program selesai berjalan.
+
+LATIHAN
+Rancang kelas sederhana untuk menyimpan data buku: judul, penulis, dan status ketersediaan. Tentukan atribut, metode, serta aturan validasi. Bandingkan rancangan kelas dengan penggunaan beberapa fungsi biasa.
+
+RANGKUMAN
+Pemrograman berorientasi objek membantu mengatur program melalui tanggung jawab objek. Enkapsulasi, komposisi, dan pengujian mendukung kode yang lebih mudah dipelihara.

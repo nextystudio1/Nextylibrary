@@ -60,7 +60,11 @@ EVALUASI AKHIR
 5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 GLOSARIUM
-Konsep: Gagasan untuk memahami suatu topik.
+Tata guna lahan: Pengaturan pemanfaatan ruang untuk berbagai kegiatan.
+Zonasi: Pembagian wilayah berdasarkan fungsi atau ketentuan tertentu.
+Kepadatan: Jumlah penduduk atau bangunan pada satuan luas.
+Aksesibilitas: Kemudahan mencapai tempat atau layanan.
+Ruang publik: Ruang yang dapat digunakan masyarakat untuk beraktivitas.
 Bukti: Informasi yang dapat diperiksa.
 Konteks: Keadaan yang memengaruhi makna atau penerapan.
 Risiko: Gabungan kemungkinan dan dampak kejadian.

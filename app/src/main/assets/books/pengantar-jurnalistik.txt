@@ -127,3 +127,47 @@ LATIHAN
 3. Bedakan fakta dan opini dalam satu paragraf berita.
 4. Jelaskan kapan identitas narasumber perlu dilindungi.
 5. Mengapa koreksi harus dilakukan secara jelas?
+
+BAB 12. SUMBER, DOKUMEN, DAN VERIFIKASI DIGITAL
+
+Jurnalis perlu membedakan sumber primer, sekunder, dan tersier. Dokumen resmi, rekaman langsung, data terbuka, dan keterangan saksi memiliki kekuatan serta keterbatasan berbeda. Dokumen resmi tidak otomatis bebas kesalahan; periksa pembuat, tanggal, tujuan, kelengkapan, dan konteks penerbitannya.
+
+Verifikasi digital mencakup pemeriksaan asal unggahan, tanggal, lokasi, versi, serta apakah gambar atau video pernah digunakan dalam konteks lain. Metadata dapat membantu, tetapi bisa hilang atau berubah. Pencarian balik gambar dan pemeriksaan arsip merupakan petunjuk, bukan bukti tunggal. Simpan catatan proses verifikasi agar editor dapat meninjau dasar keputusan.
+
+BAB 13. DATA, GRAFIK, DAN JURNALISME INVESTIGATIF
+
+Jurnalisme data menggunakan data untuk menemukan pola, menguji klaim, dan menjelaskan persoalan publik. Langkah awalnya adalah memahami siapa yang mengumpulkan data, definisi setiap kolom, periode, cakupan, serta data yang hilang. Angka agregat dapat menyembunyikan perbedaan antarkelompok atau wilayah.
+
+Grafik harus memakai skala yang jujur, label jelas, sumber, dan satuan. Perbandingan memerlukan penyebut yang sesuai; jumlah kejadian mentah tidak selalu adil ketika ukuran populasi berbeda. Korelasi tidak membuktikan hubungan sebab-akibat. Jelaskan faktor lain yang mungkin memengaruhi pola.
+
+Investigasi memerlukan perencanaan dokumen, verifikasi silang, pencatatan keputusan, dan konsultasi editor atau ahli. Kepentingan publik harus jelas dan risiko terhadap sumber dipertimbangkan. Jangan memperoleh data melalui akses yang tidak sah atau membahayakan orang.
+
+BAB 14. WAWANCARA, KEKUASAAN, DAN PERLINDUNGAN SUMBER
+
+Wawancara bukan sekadar mengumpulkan kutipan. Persiapan meliputi riset latar, tujuan, pertanyaan terbuka, dan pemahaman relasi kuasa. Pertanyaan lanjutan dapat meminta contoh, kronologi, atau dokumen pendukung. Beri kesempatan narasumber mengoreksi kesalahan faktual, tetapi keputusan editorial tetap berada pada redaksi.
+
+Kesepakatan tentang anonimitas harus jelas sebelum informasi diberikan: apa yang boleh dikutip, bagaimana identitas dijaga, dan siapa yang mengetahui identitas sebenarnya. Jangan menjanjikan kerahasiaan absolut jika redaksi tidak dapat menjaminnya. Catat alasan perlindungan dan evaluasi risiko bagi sumber.
+
+BAB 15. HUKUM, HAK CIPTA, DAN TANGGUNG JAWAB PEMBERITAAN
+
+Pemberitaan harus memperhatikan aturan yang berlaku mengenai privasi, pencemaran nama baik, hak cipta, perlindungan anak, dan proses hukum. Ketentuan berbeda menurut yurisdiksi serta dapat berubah; redaksi perlu berkonsultasi dengan sumber hukum yang kompeten. Kepentingan publik tidak otomatis menghapus semua hak seseorang.
+
+Penggunaan foto, musik, grafik, dan kutipan perlu memperhatikan lisensi, izin, atribusi, serta batas penggunaan yang sah. Menemukan konten di internet tidak berarti bebas menyalinnya. Simpan bukti izin dan catat sumber aset.
+
+BAB 16. KOREKSI, PEMBARUAN, DAN KEPERCAYAAN
+
+Berita digital dapat diperbarui setelah publikasi. Perubahan fakta penting perlu dijelaskan dengan catatan pembaruan, sedangkan kesalahan harus dikoreksi secara terlihat. Menghapus jejak kesalahan tanpa penjelasan dapat merusak kepercayaan. Redaksi juga perlu membedakan koreksi, klarifikasi, dan penambahan konteks.
+
+Kepercayaan dibangun melalui akurasi, transparansi metode, pemisahan iklan dari berita, pengungkapan konflik kepentingan, dan tanggapan terhadap pembaca. Jumlah klik bukan ukuran tunggal kualitas jurnalistik.
+
+PROYEK REDAKSI MINI
+
+Pilih isu layanan publik dari dokumen terbuka. Buat daftar klaim, sumber pendukung, sumber pembanding, dan hal yang belum diketahui. Susun berita dengan konteks dan atribusi yang jelas. Periksa risiko privasi, hak cipta, dan kemungkinan dampak pada pihak rentan sebelum publikasi.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa dokumen resmi tetap perlu diverifikasi? Karena dokumen dapat tidak lengkap, usang, atau memiliki tujuan tertentu.
+2. Apa kelemahan jumlah kejadian mentah? Tidak memperhitungkan ukuran populasi atau paparan.
+3. Kapan anonimitas perlu disepakati? Sebelum informasi diberikan, dengan batas dan prosedur yang jelas.
+4. Mengapa koreksi harus terlihat? Agar pembaca mengetahui apa yang berubah dan dapat menilai akurasi laporan.
+5. Apakah semua konten internet bebas digunakan? Tidak; hak cipta dan lisensi tetap berlaku.

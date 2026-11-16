@@ -13,7 +13,7 @@ BAB 1. BENTUK DAN RUANG
 Geometri mempelajari bentuk, ukuran, posisi, dan hubungan ruang. Titik menyatakan posisi, garis memiliki panjang tanpa lebar, dan bidang memiliki dua dimensi. Segitiga memiliki jumlah sudut dalam 180 derajat; persegi memiliki empat sisi sama panjang dan empat sudut siku-siku. Lingkaran ditentukan oleh jari-jari dan diameter. Pada bangun ruang, prisma dan tabung memiliki dua bidang alas sejajar, sedangkan bola memiliki satu permukaan lengkung. Memahami sifat ini membantu memilih rumus yang tepat.
 
 CONTOH PENERAPAN
-Contoh kajian: pilih kasus sederhana yang berkaitan dengan BENTUK DAN RUANG dalam bidang Geometri dan Pengukuran. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
+Rancang denah ruang belajar berbentuk persegi panjang dengan skala yang ditentukan. Hitung luas lantai, keliling, dan jarak antarfurnitur dari ukuran pada denah. Periksa konsistensi satuan dan jelaskan bahwa skala gambar harus dipertahankan saat denah dicetak atau diperbesar.
 
 RANGKUMAN
 - BENTUK DAN RUANG: pahami istilah dan prinsip yang menjadi dasar pembahasan.

@@ -526,3 +526,48 @@ Logaritma: operasi kebalikan eksponen.
 Barisan aritmetika: barisan dengan beda tetap.
 Barisan geometri: barisan dengan rasio tetap.
 Deret: jumlah suku-suku suatu barisan.
+BAB 13 — SISTEM PERSAMAAN LINEAR
+
+Sistem persamaan linear terdiri dari dua atau lebih persamaan yang harus dipenuhi secara bersamaan. Pada dua variabel, setiap persamaan linear dapat digambarkan sebagai garis. Penyelesaian sistem merupakan titik perpotongan garis-garis tersebut, jika titik perpotongan ada. Tiga kemungkinan utama adalah satu penyelesaian, tidak ada penyelesaian, atau tak hingga banyak penyelesaian.
+
+Contoh: x + y = 10 dan x - y = 2. Dengan menjumlahkan kedua persamaan, diperoleh 2x = 12 sehingga x = 6. Substitusi ke persamaan pertama menghasilkan y = 4. Pemeriksaan penting dilakukan dengan memasukkan kembali nilai tersebut ke kedua persamaan: 6 + 4 = 10 dan 6 - 4 = 2.
+
+Metode eliminasi menghilangkan satu variabel melalui penjumlahan atau pengurangan persamaan yang telah disesuaikan. Metode substitusi menyatakan satu variabel dalam bentuk variabel lain, kemudian memasukkannya ke persamaan kedua. Metode grafik memberi gambaran visual, tetapi ketelitian pembacaan bergantung pada skala dan posisi titik. Untuk sistem yang lebih besar, matriks dan eliminasi Gauss menjadi alat yang lebih efisien.
+
+Model matematika membantu menyelesaikan persoalan sehari-hari. Misalnya, dua jenis tiket memiliki harga berbeda dan jumlah penjualan diketahui. Dengan mendefinisikan variabel, menyusun persamaan, dan memeriksa satuan, jumlah masing-masing tiket dapat dihitung. Tantangan utamanya sering bukan manipulasi simbol, melainkan menerjemahkan cerita menjadi hubungan matematika yang tepat.
+
+BAB 14 — PERTIDAKSAMAAN DAN DAERAH PENYELESAIAN
+
+Pertidaksamaan menyatakan bahwa satu nilai lebih besar, lebih kecil, atau tidak sama dengan nilai lain. Simbol yang umum adalah lebih besar dari, lebih kecil dari, lebih besar atau sama dengan, dan lebih kecil atau sama dengan. Ketika kedua ruas pertidaksamaan dikalikan atau dibagi dengan bilangan negatif, arah tanda harus dibalik. Aturan ini berasal dari sifat urutan bilangan pada garis bilangan.
+
+Contoh: 3x + 2 < 11. Kurangi kedua ruas dengan 2 sehingga 3x < 9. Bagi dengan 3 menghasilkan x < 3. Jika persamaan awal adalah -2x < 8, pembagian dengan -2 mengubah arah tanda, sehingga x > -4. Kesalahan membalik tanda merupakan salah satu kekeliruan yang sering terjadi.
+
+Pada dua variabel, pertidaksamaan linear membentuk setengah bidang pada bidang koordinat. Garis batas digambar putus-putus untuk pertidaksamaan ketat dan garis penuh untuk tanda yang menyertakan kesamaan. Daerah yang memenuhi ditentukan dengan menguji satu titik, misalnya titik asal jika tidak berada pada garis batas.
+
+Konsep daerah penyelesaian digunakan dalam optimasi sederhana. Sebuah usaha mungkin memiliki keterbatasan bahan, waktu, atau kapasitas. Batas-batas itu dapat ditulis sebagai pertidaksamaan. Fungsi tujuan kemudian digunakan untuk mencari nilai terbaik di dalam daerah yang memenuhi semua batas. Dalam model linear dua variabel, titik pojok daerah layak menjadi kandidat penting untuk diperiksa.
+
+BAB 15 — FUNGSI KUADRAT
+
+Fungsi kuadrat memiliki bentuk umum f(x) = ax² + bx + c dengan a tidak sama dengan nol. Grafiknya berupa parabola. Jika a positif, parabola terbuka ke atas dan memiliki titik minimum. Jika a negatif, parabola terbuka ke bawah dan memiliki titik maksimum. Bentuk grafik dipengaruhi nilai a, b, dan c.
+
+Titik puncak memiliki koordinat x = -b/(2a) dan y diperoleh dengan memasukkan nilai x tersebut ke fungsi. Sumbu simetri adalah garis vertikal melalui titik puncak. Akar fungsi adalah nilai x ketika f(x) = 0. Akar dapat dicari dengan pemfaktoran, melengkapkan kuadrat, atau rumus kuadrat.
+
+Contoh: f(x) = x² - 5x + 6 dapat difaktorkan menjadi (x - 2)(x - 3). Akar-akarnya adalah 2 dan 3. Sumbu simetri berada di tengah kedua akar, yaitu x = 2,5. Nilai fungsi pada titik tersebut adalah 6,25 - 12,5 + 6 = -0,25, sehingga titik puncaknya (2,5; -0,25).
+
+Fungsi kuadrat dapat memodelkan lintasan ideal suatu benda, luas maksimum, atau hubungan biaya dan pendapatan dalam kondisi tertentu. Model harus digunakan dengan hati-hati: asumsi yang menyederhanakan situasi perlu disebutkan, dan hasil matematika tidak otomatis menggambarkan seluruh kompleksitas dunia nyata.
+
+BAB 16 — BARISAN DAN DERET
+
+Barisan adalah urutan bilangan yang mengikuti pola tertentu. Barisan aritmetika memiliki beda tetap antara suku berurutan. Jika suku pertama a dan beda d, suku ke-n adalah Un = a + (n - 1)d. Jumlah n suku pertama adalah Sn = n/2 × (2a + (n - 1)d).
+
+Barisan geometri memiliki rasio tetap antara suku berurutan. Jika suku pertama a dan rasio r, suku ke-n adalah Un = a × r^(n - 1). Untuk r tidak sama dengan 1, jumlah n suku pertama adalah Sn = a(r^n - 1)/(r - 1). Rumus ini dapat digunakan untuk memahami pertumbuhan berulang, penyusutan, dan pola penggandaan.
+
+Contoh aritmetika: tabungan bertambah dengan jumlah tetap setiap minggu. Contoh geometri: jumlah bakteri dalam model ideal dapat berlipat pada interval tertentu. Model geometri tidak boleh dianggap berlaku tanpa batas karena sumber daya, lingkungan, dan faktor biologis membatasi pertumbuhan nyata.
+
+BAB 17 — STRATEGI MEMECAHKAN SOAL
+
+Penyelesaian soal matematika yang baik dimulai dengan membaca pertanyaan secara teliti. Tuliskan informasi yang diketahui, tentukan apa yang dicari, pilih konsep yang sesuai, lalu kerjakan langkah demi langkah. Periksa satuan dan tanda operasi. Setelah memperoleh hasil, tanyakan apakah nilainya masuk akal dalam konteks.
+
+Kesalahan dapat digunakan sebagai bahan belajar. Ketika jawaban tidak cocok, jangan hanya mengulang perhitungan dari awal. Periksa asumsi, definisi variabel, operasi aljabar, dan substitusi. Catatan kesalahan pribadi membantu menemukan pola kekeliruan yang berulang.
+
+Latihan mandiri sebaiknya bervariasi: soal rutin untuk kelancaran, soal penalaran untuk memahami hubungan, dan soal terbuka untuk melatih strategi. Pembaca dapat menjelaskan solusi dengan kata-kata sendiri atau membuat contoh tandingan. Kemampuan menjelaskan alasan sering menjadi tanda pemahaman yang lebih kuat daripada menghafal rumus.

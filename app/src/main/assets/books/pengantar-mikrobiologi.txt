@@ -210,3 +210,29 @@ Ekosistem: Kesatuan komunitas makhluk hidup dan lingkungannya.
 
 CATATAN SUMBER DAN PENGEMBANGAN
 Buku ini merupakan materi pengantar orisinal. Untuk tugas akademik atau keputusan praktis, bandingkan penjelasan dengan buku ajar, standar, peraturan, dan publikasi lembaga yang kompeten. Catat judul sumber, penulis atau lembaga, tahun terbit, dan bagian yang digunakan. Periksa tanggal sumber pada topik yang dapat berubah.
+
+BAB LANJUTAN: MIKROORGANISME, KESEHATAN, DAN LINGKUNGAN
+
+1. Keragaman mikroorganisme
+Mikroorganisme mencakup bakteri, archaea, jamur mikroskopis, protozoa, dan virus yang memiliki karakteristik berbeda. Sebagian berperan dalam proses ekologis dan produksi pangan, sebagian dapat menyebabkan penyakit, dan banyak yang hidup tanpa menimbulkan dampak langsung. Pengelompokan perlu didasarkan pada ciri biologis, bukan anggapan bahwa semua mikroba berbahaya.
+
+2. Struktur dan fungsi sel mikroba
+Bakteri merupakan organisme sel tunggal tanpa inti bermembran, sedangkan jamur memiliki struktur sel eukariotik. Virus bukan sel dan memerlukan sel inang untuk memperbanyak diri. Perbedaan struktur memengaruhi cara organisme berkembang, berinteraksi, dan merespons lingkungan.
+
+3. Metabolisme dan peran ekologis
+Mikroorganisme menguraikan bahan organik, membantu siklus unsur, dan berperan dalam hubungan simbiosis. Dalam pengolahan limbah, komunitas mikroba dapat membantu mengubah senyawa tertentu. Kinerja proses bergantung pada kondisi lingkungan dan komposisi komunitas, sehingga pemantauan diperlukan.
+
+4. Mikrobiologi pangan
+Fermentasi memanfaatkan aktivitas mikroorganisme untuk menghasilkan perubahan yang diinginkan pada pangan. Namun keamanan bergantung pada bahan, kebersihan, proses, suhu, waktu, dan penyimpanan. Tidak semua pertumbuhan mikroba menghasilkan pangan aman; ikuti prosedur dan standar pangan yang berlaku.
+
+5. Mikroba dan kesehatan
+Mikrobiota manusia berinteraksi dengan tubuh dan lingkungan. Hubungannya kompleks dan dipengaruhi banyak faktor. Informasi kesehatan mikrobiologi harus berasal dari sumber tepercaya. Jangan menggunakan antibiotik tanpa arahan tenaga kesehatan karena pemakaian yang tidak tepat dapat berkontribusi pada resistansi antimikroba.
+
+6. Resistansi antimikroba
+Resistansi dapat berkembang ketika mikroorganisme memiliki kemampuan bertahan terhadap obat yang sebelumnya efektif. Penggunaan antimikroba yang tidak tepat pada manusia, hewan, dan lingkungan dapat memperbesar masalah. Pencegahan mencakup penggunaan obat sesuai resep, kebersihan, vaksinasi, pengendalian infeksi, dan pengelolaan limbah yang baik.
+
+7. Keselamatan dan etika laboratorium
+Kegiatan mikrobiologi memerlukan pelatihan, fasilitas, prosedur, dan pengawasan yang sesuai. Jangan mengultur atau memanipulasi mikroorganisme yang tidak diketahui di rumah atau sekolah. Praktikum harus memakai bahan pendidikan yang aman dan protokol yang disetujui lembaga.
+
+LATIHAN
+Buat peta konsep peran mikroorganisme dalam pangan, tanah, air, dan kesehatan. Untuk setiap contoh, jelaskan manfaat atau risikonya serta tindakan pencegahan yang sesuai.

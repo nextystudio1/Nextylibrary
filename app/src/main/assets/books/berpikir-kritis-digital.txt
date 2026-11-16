@@ -411,3 +411,67 @@ Pilih satu grafik publik dari lembaga resmi. Catat judul, periode, satuan, sumbe
 
 GLOSARIUM TAMBAHAN
 Median: nilai tengah setelah data diurutkan. Ruang gema: lingkungan informasi yang mengulang pandangan serupa. Jejak digital: rekaman aktivitas yang tertinggal di layanan digital.
+
+
+BAB PENGAYAAN 1 — MEMERIKSA SUMBER DAN KREDIBILITAS INFORMASI
+
+Ketika menemukan klaim di internet, pisahkan isi klaim dari identitas pembuatnya. Tanyakan apa tepatnya yang dikatakan, bukti apa yang diberikan, dan apakah bukti itu benar-benar mendukung kesimpulan. Akun dengan banyak pengikut tidak otomatis memiliki keahlian pada semua topik. Sebaliknya, sumber kecil dapat menyampaikan informasi yang benar jika memiliki data dan metode yang dapat diperiksa.
+
+Periksa tanggal publikasi dan konteks. Informasi yang benar beberapa tahun lalu mungkin sudah berubah, terutama pada bidang teknologi, kesehatan, kebijakan, dan harga. Gambar atau kutipan lama dapat dibagikan kembali seolah-olah baru. Pencarian balik gambar, pencarian frasa, dan perbandingan dengan sumber independen dapat membantu menemukan asal materi, tetapi hasil pencarian tetap perlu dinilai.
+
+Perhatikan apakah sumber menjelaskan metode, menyertakan dokumen asli, mengakui keterbatasan, dan melakukan koreksi ketika terjadi kesalahan. Sumber yang bertanggung jawab membedakan fakta, interpretasi, dan opini. Jika sebuah tulisan menyajikan kesimpulan besar tanpa menjelaskan data, pembaca sebaiknya menunda kepercayaan.
+
+BAB PENGAYAAN 2 — MISINFORMASI, DISINFORMASI, DAN KONTEKS
+
+Misinformasi adalah informasi keliru yang disebarkan tanpa harus ada niat menipu. Disinformasi adalah informasi keliru yang sengaja dibuat atau disebarkan untuk menyesatkan. Dalam praktiknya, niat pembuat sering sulit diketahui. Karena itu, pemeriksaan sebaiknya berfokus pada isi, bukti, dampak, dan cara memperbaikinya, bukan menebak niat berdasarkan penampilan akun.
+
+Konten dapat menyesatkan walaupun sebagian faktanya benar. Foto yang nyata dapat diberi keterangan tempat atau tanggal yang salah. Grafik dapat menggunakan skala yang membuat perubahan kecil terlihat dramatis. Kutipan dapat dipotong sehingga maknanya berubah. Konteks merupakan bagian dari kebenaran informasi.
+
+Sebelum membagikan sesuatu, berhenti sejenak. Cari sumber asli, periksa tanggal, baca lebih dari judul, dan tanyakan apakah unggahan tersebut mendorong reaksi emosional yang sangat kuat. Jika belum dapat memverifikasi, lebih baik tidak meneruskannya. Mengakui belum tahu adalah kebiasaan literasi yang baik.
+
+BAB PENGAYAAN 3 — ALGORITMA REKOMENDASI DAN RUANG GEMA
+
+Platform digital sering memilih konten berdasarkan sinyal seperti riwayat tontonan, interaksi, topik, dan pola penggunaan. Tujuannya dapat mencakup relevansi, keterlibatan, atau tujuan bisnis lain. Rekomendasi bukan gambaran netral seluruh informasi yang tersedia. Konten yang sering muncul di layar seseorang belum tentu paling penting atau paling mewakili pandangan masyarakat.
+
+Ruang gema dapat terbentuk ketika seseorang lebih sering melihat pendapat yang sejalan dengan keyakinannya. Paparan berulang dapat membuat pandangan tertentu terasa lebih umum daripada kenyataannya. Cara menguranginya adalah mengikuti sumber berkualitas dengan pendekatan berbeda, membaca laporan asli, dan secara sengaja mencari bukti yang dapat menguji keyakinan sendiri.
+
+Jangan menyamakan popularitas dengan kualitas. Jumlah suka, komentar, dan tayangan menunjukkan respons pengguna, bukan bukti bahwa klaim benar. Sistem rekomendasi dapat memperkuat konten yang memicu emosi. Pembaca perlu mempertahankan kendali atas pilihan informasi yang dikonsumsi.
+
+BAB PENGAYAAN 4 — ARGUMEN, BUKTI, DAN KEKELIRUAN PENALARAN
+
+Argumen terdiri dari klaim, alasan, dan bukti. Klaim menyatakan apa yang ingin dibuktikan; alasan menjelaskan hubungan logis; bukti memberi dukungan yang dapat diperiksa. Argumen yang kuat juga mempertimbangkan keberatan yang masuk akal. Mengubah pendapat setelah melihat bukti baru bukan kelemahan, melainkan bagian dari penalaran yang sehat.
+
+Serangan pribadi atau ad hominem terjadi ketika seseorang menyerang karakter pembicara alih-alih membahas alasan. Generalisasi tergesa-gesa menarik kesimpulan luas dari contoh yang terlalu sedikit. Dikotomi palsu menyajikan seolah hanya ada dua pilihan padahal pilihan lain tersedia. Korelasi palsu menganggap dua hal yang muncul bersamaan pasti memiliki hubungan sebab-akibat.
+
+Mengenali nama kekeliruan saja tidak cukup. Jelaskan bagian mana dari argumen yang tidak didukung. Misalnya, satu pengalaman buruk tidak cukup untuk menyimpulkan semua layanan sejenis selalu buruk. Diperlukan sampel lebih luas, definisi yang jelas, dan perbandingan yang adil.
+
+BAB PENGAYAAN 5 — PRIVASI, JEJAK DIGITAL, DAN KEAMANAN AKUN
+
+Setiap layanan mengumpulkan jenis data yang berbeda. Sebelum membuat akun, periksa informasi apa yang diminta, apakah wajib, untuk tujuan apa digunakan, dan apakah tersedia pengaturan privasi. Hindari membagikan data yang tidak diperlukan, terutama informasi yang dapat digunakan untuk menebak identitas, lokasi, atau rutinitas seseorang.
+
+Kata sandi yang kuat sebaiknya unik untuk setiap layanan. Pengelola kata sandi dapat membantu menyimpan kredensial secara aman. Autentikasi multifaktor menambah lapisan perlindungan karena akses memerlukan bukti tambahan selain kata sandi. Jangan membagikan kode verifikasi kepada orang lain, termasuk orang yang mengaku sebagai petugas dukungan.
+
+Tautan dan lampiran yang tidak diharapkan perlu diperiksa dengan hati-hati. Pesan penipuan sering menciptakan rasa mendesak, mengancam penutupan akun, atau menawarkan hadiah yang terlalu menarik. Buka aplikasi atau situs resmi melalui alamat yang sudah dikenal, bukan melalui tautan mencurigakan. Jika ragu, minta bantuan orang dewasa tepercaya atau petugas resmi.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa jumlah pengikut bukan ukuran kebenaran?
+Jawaban: popularitas mengukur respons, bukan ketepatan bukti atau keahlian pada topik.
+2. Apa beda misinformasi dan disinformasi?
+Jawaban: keduanya informasi keliru; disinformasi melibatkan niat menyesatkan.
+3. Mengapa foto asli dapat menyampaikan informasi palsu?
+Jawaban: keterangan lokasi, tanggal, atau konteksnya dapat salah.
+4. Apa yang dimaksud ruang gema?
+Jawaban: keadaan ketika seseorang berulang kali menerima pandangan yang serupa sehingga perspektif lain jarang terlihat.
+5. Sebutkan dua langkah melindungi akun.
+Jawaban: gunakan kata sandi unik dan aktifkan autentikasi multifaktor.
+
+GLOSARIUM TAMBAHAN
+Misinformasi: informasi keliru yang tersebar tanpa harus disengaja.
+Disinformasi: informasi keliru yang sengaja disebarkan untuk menyesatkan.
+Konteks: keadaan, waktu, tempat, dan latar yang memberi makna pada informasi.
+Ruang gema: lingkungan informasi yang mengulang pandangan serupa.
+Algoritma rekomendasi: sistem yang memilih konten untuk disarankan kepada pengguna.
+Ad hominem: kekeliruan yang menyerang pribadi, bukan argumen.
+Generalisasi tergesa-gesa: kesimpulan luas dari bukti yang terlalu sedikit.
+Autentikasi multifaktor: verifikasi identitas dengan lebih dari satu jenis bukti.

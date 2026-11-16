@@ -105,6 +105,15 @@ Bab 80 Studi kasus konseptual: industri dan penghematan energi
 Bab 81 Membaca kontrak dan penawaran teknologi
 Bab 82 Menyusun kerangka monitoring dan evaluasi
 Bab 83 Latihan analisis kasus terpadu
+Bagian X — Ketahanan sistem, inovasi, dan pembelajaran lanjutan
+Bab 84 Pengelolaan permintaan dan respons beban
+Bab 85 Peramalan kebutuhan energi
+Bab 86 Penyimpanan energi di luar baterai
+Bab 87 Adaptasi iklim dan ketahanan infrastruktur energi
+Bab 88 Ekonomi sirkular dalam teknologi energi
+Bab 89 Pendidikan dan literasi energi
+Bab 90 Menyusun portofolio pembelajaran energi
+Bab 91 Penutup: prinsip keputusan energi yang bertanggung jawab
 Bagian IV — Analisis sistem dan penerapan mendalam
 Bab 26 Perencanaan kebutuhan dan profil beban
 Bab 27 Sistem surya: rancangan konseptual dan kinerja

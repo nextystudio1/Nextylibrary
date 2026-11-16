@@ -49,11 +49,11 @@ BAB 6. KEADILAN DAN PEMBANGUNAN BERKELANJUTAN
 Pembangunan berkelanjutan mempertimbangkan kebutuhan masa kini tanpa mengurangi kemampuan generasi mendatang memenuhi kebutuhannya. Keadilan lingkungan menyoroti siapa yang terpapar risiko, siapa yang memperoleh manfaat, dan siapa yang terlibat dalam keputusan. Data dan partisipasi publik penting dalam penilaian.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari KEADILAN DAN PEMBANGUNAN BERKELANJUTAN dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Pengantar Ekonomi Lingkungan.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+1. Bedakan biaya privat dan biaya sosial dalam suatu kegiatan ekonomi.
+2. Jelaskan bagaimana eksternalitas negatif dapat menyebabkan penggunaan sumber daya berlebihan.
+3. Bandingkan pajak lingkungan, standar emisi, dan insentif untuk mendorong perubahan perilaku.
+4. Uraikan prinsip ekonomi sirkular dan berikan contoh penerapannya pada produk.
+5. Jelaskan mengapa kebijakan lingkungan perlu mempertimbangkan keadilan bagi kelompok terdampak.
 
 PEDOMAN JAWABAN
 Untuk Pengantar Ekonomi Lingkungan, jawaban perlu menggunakan istilah bidang secara akurat, menunjukkan hubungan konsep dengan contoh, dan menjelaskan alasan setiap kesimpulan. Terima penafsiran berbeda jika konsisten, didukung bukti, dan tidak melampaui informasi yang tersedia.
@@ -70,19 +70,19 @@ Saat memperdalam Pengantar Ekonomi Lingkungan, bandingkan penjelasan buku ini de
 
 PENDALAMAN MATERI
 
-BAB 6. EKSTERNALITAS DAN BARANG PUBLIK
+BAB 7. EKSTERNALITAS DAN BARANG PUBLIK
 Eksternalitas terjadi ketika kegiatan ekonomi menimbulkan dampak bagi pihak lain yang tidak sepenuhnya tercermin dalam harga. Polusi udara dari kegiatan produksi merupakan contoh eksternalitas negatif, sedangkan penanaman pohon yang memberi manfaat bagi lingkungan sekitar dapat menjadi eksternalitas positif. Barang publik memiliki sifat sulit mengecualikan pengguna dan penggunaan oleh satu orang tidak selalu mengurangi manfaat bagi orang lain. Udara bersih dan sistem peringatan bencana memiliki karakteristik barang publik dalam banyak konteks. Karena pasar tidak selalu memasukkan seluruh biaya dan manfaat sosial, kebijakan publik dapat diperlukan. Instrumen kebijakan mencakup standar, pajak, insentif, dan sistem kuota yang dirancang sesuai bukti serta kondisi lokal.
 
-BAB 7. SUMBER DAYA TERBARUKAN DAN TAK TERBARUKAN
+BAB 8. SUMBER DAYA TERBARUKAN DAN TAK TERBARUKAN
 Sumber daya terbarukan dapat pulih melalui proses alam jika laju pemanfaatan tidak melampaui kemampuan regenerasi. Hutan, perikanan, dan air tanah dapat mengalami penurunan jika digunakan melebihi kapasitas pulihnya. Sumber daya tak terbarukan terbentuk dalam skala waktu geologis sehingga persediaannya terbatas pada skala kehidupan manusia. Pengelolaan yang baik memperhitungkan stok, laju pemulihan, kebutuhan masyarakat, dampak ekologis, dan pilihan pengganti. Label “terbarukan” bukan berarti bebas batas. Hutan yang ditebang lebih cepat daripada tumbuh kembali tetap dapat mengalami kerusakan.
 
-BAB 8. EKONOMI SIRKULAR DAN PENGELOLAAN LIMBAH
+BAB 9. EKONOMI SIRKULAR DAN PENGELOLAAN LIMBAH
 Ekonomi sirkular berupaya mempertahankan nilai bahan dan produk melalui desain tahan lama, perawatan, penggunaan ulang, perbaikan, dan daur ulang. Pendekatan ini berbeda dari pola linear ambil-produksi-buang. Daur ulang bermanfaat, tetapi membutuhkan energi, pemilahan, teknologi, dan pasar bahan sekunder. Pencegahan limbah dan penggunaan produk lebih lama sering lebih efektif daripada mengandalkan daur ulang setelah barang menjadi sampah. Analisis harus melihat seluruh siklus hidup, sebab solusi yang tampak ramah lingkungan pada satu tahap dapat memindahkan beban ke tahap lain.
 
-BAB 9. KEBIJAKAN IKLIM DAN TRANSISI ENERGI
+BAB 10. KEBIJAKAN IKLIM DAN TRANSISI ENERGI
 Perubahan iklim menimbulkan biaya ekonomi melalui risiko terhadap pertanian, kesehatan, infrastruktur, dan wilayah pesisir. Mitigasi berupaya mengurangi sumber emisi atau meningkatkan penyerapannya, sedangkan adaptasi mengurangi kerentanan terhadap dampak yang sudah terjadi atau diperkirakan. Transisi energi mencakup efisiensi, energi rendah emisi, jaringan, penyimpanan, dan akses yang adil. Kebijakan perlu memperhatikan pekerja, rumah tangga berpendapatan rendah, dan wilayah yang bergantung pada industri tertentu. Tidak ada satu teknologi yang menyelesaikan semua masalah; kombinasi kebijakan harus dinilai berdasarkan biaya, manfaat, keandalan, dan dampak sosial.
 
-BAB 10. MENILAI KEBIJAKAN LINGKUNGAN
+BAB 11. MENILAI KEBIJAKAN LINGKUNGAN
 Evaluasi kebijakan membandingkan kondisi sebelum dan sesudah intervensi serta mempertimbangkan apa yang mungkin terjadi tanpa kebijakan. Indikator dapat mencakup kualitas air, emisi, kesehatan, pendapatan, dan akses layanan. Data perlu memiliki definisi, periode, dan metode yang konsisten. Korelasi tidak otomatis menunjukkan sebab-akibat; perubahan dapat dipengaruhi cuaca, harga, atau kebijakan lain. Analisis biaya-manfaat membantu menyusun pilihan, tetapi nilai budaya, keadilan antargenerasi, dan kerusakan yang sulit dipulihkan juga perlu diperhatikan. Keputusan yang baik menjelaskan asumsi dan ketidakpastian, bukan menyembunyikannya.
 
 STUDI KASUS
@@ -125,19 +125,19 @@ Tetapkan kondisi awal, indikator, kelompok pembanding bila memungkinkan, jadwal 
 LATIHAN
 Bandingkan dua pilihan pengelolaan sampah di suatu lingkungan. Identifikasi biaya langsung, dampak lingkungan, kelompok terdampak, kebutuhan pengawasan, dan data yang masih belum tersedia. Jelaskan ketidakpastian analisis.
 
-BAB 11. EKONOMI SUMBER DAYA ALAM
+BAB 12. EKONOMI SUMBER DAYA ALAM
 Sumber daya alam dapat dikelompokkan berdasarkan kemampuan pulih dan pola pemanfaatannya. Sumber daya terbarukan tetap dapat mengalami penurunan jika laju pemanfaatan melampaui kemampuan pemulihan. Sumber daya tak terbarukan terbentuk melalui proses geologis yang sangat lama. Keputusan pemanfaatan perlu memperhitungkan stok, laju regenerasi, dampak ekstraksi, dan kebutuhan generasi mendatang. Harga pasar saja tidak selalu mencerminkan nilai ekologis atau biaya pemulihan.
 
-BAB 12. EKONOMI SIRKULAR DAN DESAIN PRODUK
+BAB 13. EKONOMI SIRKULAR DAN DESAIN PRODUK
 Ekonomi sirkular berupaya mempertahankan nilai bahan dan produk selama mungkin melalui desain tahan lama, perawatan, penggunaan ulang, perbaikan, dan daur ulang. Strategi terbaik sering dimulai sebelum produk menjadi limbah: mengurangi bahan yang tidak diperlukan dan merancang produk agar mudah diperbaiki. Daur ulang membutuhkan pemilahan, teknologi, energi, serta pasar bagi bahan hasil olahan. Karena itu, klaim bahwa suatu produk sepenuhnya ramah lingkungan perlu diperiksa berdasarkan seluruh daur hidup.
 
-BAB 13. PANGAN, AIR, DAN JEJAK LINGKUNGAN
+BAB 14. PANGAN, AIR, DAN JEJAK LINGKUNGAN
 Sistem pangan melibatkan produksi, pengolahan, penyimpanan, distribusi, konsumsi, dan pengelolaan sisa. Dampak lingkungan dapat muncul pada setiap tahap. Efisiensi air dan energi, pengurangan kehilangan pangan, perlindungan tanah, dan praktik pertanian yang sesuai ekosistem dapat mengurangi tekanan. Pilihan konsumsi dipengaruhi harga, budaya, akses, dan ketersediaan sehingga perubahan tidak dapat dibebankan hanya kepada individu. Kebijakan perlu memperbaiki sistem sekaligus mendukung petani dan pekerja.
 
-BAB 14. PEMBIAYAAN DAN INSENTIF LINGKUNGAN
+BAB 15. PEMBIAYAAN DAN INSENTIF LINGKUNGAN
 Pajak pencemaran, subsidi untuk teknologi bersih, standar, izin, dan pengadaan publik merupakan contoh instrumen ekonomi atau kebijakan. Setiap instrumen memiliki konsekuensi distribusi. Pungutan dapat mendorong pengurangan pencemaran, tetapi perlu rancangan agar tidak membebani rumah tangga berpendapatan rendah secara tidak proporsional. Subsidi dapat mempercepat perubahan, tetapi harus memiliki kriteria, batas waktu, transparansi, dan evaluasi agar tidak mempertahankan teknologi yang tidak efektif.
 
-BAB 15. KEADILAN LINGKUNGAN DAN TRANSISI
+BAB 16. KEADILAN LINGKUNGAN DAN TRANSISI
 Keadilan lingkungan menelaah siapa yang menerima manfaat dan siapa yang menanggung pencemaran atau risiko. Komunitas yang memiliki pengaruh politik lebih kecil dapat menghadapi beban lebih besar. Transisi menuju ekonomi rendah emisi perlu memperhatikan pekerja, daerah yang bergantung pada industri tertentu, akses energi, dan keterjangkauan layanan. Pelibatan masyarakat sejak awal meningkatkan kualitas informasi dan legitimasi keputusan. Kompensasi saja tidak menggantikan kewajiban mencegah kerusakan.
 
 PROYEK ANALISIS

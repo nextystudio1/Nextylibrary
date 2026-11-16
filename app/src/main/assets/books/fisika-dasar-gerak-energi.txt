@@ -1767,4 +1767,149 @@ PERNYATAAN PENUTUP
 
 Naskah ini disusun sebagai bahan belajar orisinal yang menjelaskan konsep fisika dengan bahasa sendiri. Contoh dan latihan bertujuan membantu pembaca memahami hubungan antarkonsep. Untuk memastikan kualitas terbit, setiap persamaan, istilah, dan rujukan tetap perlu diperiksa oleh penyunting dan penelaah bidang fisika. Jumlah halaman final ditentukan oleh tata letak, ukuran huruf, ilustrasi, margin, serta fitur pembaca aplikasi. Angka jumlah kata hanya memberikan perkiraan awal dan bukan bukti bahwa aplikasi telah memiliki paginasi yang tepat.
 
+
+BAGIAN XVI — BANK SOAL BERTAHAP DAN PEMBAHASAN RINCI
+
+PETUNJUK BANK SOAL
+
+Soal berikut dirancang untuk menguji pemahaman, bukan sekadar kemampuan memasukkan angka ke rumus. Untuk setiap soal hitungan, tulis informasi yang diketahui, hal yang ditanyakan, model yang digunakan, persamaan, substitusi, satuan, dan pemeriksaan hasil. Jika soal tidak menyebut kondisi tertentu, nyatakan asumsi yang digunakan.
+
+TINGKAT DASAR — SATUAN DAN GERAK
+
+Soal 1. Panjang sebuah lintasan 2,4 km. Nyatakan dalam meter.
+Pembahasan: Satu kilometer sama dengan 1.000 meter. Jadi 2,4 km = 2,4 × 1.000 m = 2.400 m. Penulisan satuan dalam langkah konversi menunjukkan bahwa faktor yang digunakan benar.
+
+Soal 2. Waktu 3 menit 20 sekon dinyatakan dalam sekon.
+Pembahasan: Tiga menit sama dengan 180 sekon. Tambahkan 20 sekon sehingga waktu total 200 sekon. Mengubah semua waktu ke satuan yang sama mencegah kesalahan saat menghitung kecepatan.
+
+Soal 3. Sebuah benda berpindah dari posisi 4 m ke posisi −3 m pada garis lurus. Tentukan perpindahannya.
+Pembahasan: Perpindahan adalah posisi akhir dikurangi posisi awal, yaitu −3 m − 4 m = −7 m. Tanda negatif menunjukkan arah terhadap sumbu yang dipilih, bukan berarti besar perpindahan negatif.
+
+Soal 4. Seseorang berjalan 60 m ke timur lalu 20 m ke barat. Tentukan jarak dan perpindahan.
+Pembahasan: Jarak adalah 60 + 20 = 80 m. Dengan timur positif, perpindahan adalah 60 − 20 = 40 m ke timur. Dua jawaban berbeda karena jarak tidak memiliki arah sedangkan perpindahan memiliki arah.
+
+Soal 5. Sebuah kendaraan menempuh 150 km selama 3 jam. Tentukan kelajuan rata-rata dalam km/jam dan m/s.
+Pembahasan: Kelajuan rata-rata = 150/3 = 50 km/jam. Untuk mengubah ke m/s, kalikan 1.000 lalu bagi 3.600. Hasilnya sekitar 13,9 m/s. Nilai dibulatkan sesuai ketelitian data.
+
+Soal 6. Kecepatan berubah dari 8 m/s menjadi 20 m/s dalam 4 sekon. Tentukan percepatan rata-rata.
+Pembahasan: a = (v akhir − v awal)/Δt = (20 − 8)/4 = 3 m/s². Hasil positif jika arah gerak dipilih sebagai arah positif.
+
+Soal 7. Benda bergerak dengan kecepatan konstan 6 m/s selama 12 sekon. Berapa perpindahan jika arah gerak tetap?
+Pembahasan: Untuk gerak lurus beraturan, perpindahan = v t = 6 × 12 = 72 m. Persamaan ini berlaku karena kecepatan konstan dan arah tidak berubah.
+
+Soal 8. Benda mula-mula diam lalu mengalami percepatan konstan 2 m/s² selama 5 sekon. Tentukan kecepatan akhirnya.
+Pembahasan: v = v₀ + at = 0 + 2 × 5 = 10 m/s. Karena percepatan konstan, persamaan GLBB dapat digunakan.
+
+TINGKAT MENENGAH — GAYA DAN ENERGI
+
+Soal 9. Benda bermassa 6 kg mengalami percepatan 1,5 m/s². Tentukan resultan gaya.
+Pembahasan: ΣF = ma = 6 × 1,5 = 9 N. Yang dimasukkan ke persamaan adalah resultan seluruh gaya, bukan sembarang satu gaya yang bekerja.
+
+Soal 10. Benda bermassa 10 kg berada diam di lantai datar. Jika tidak ada percepatan vertikal dan gaya vertikal lain, perkirakan berat dan gaya normal dengan g = 9,8 m/s².
+Pembahasan: Berat W = mg = 10 × 9,8 = 98 N ke bawah. Karena resultan vertikal nol pada kondisi yang dinyatakan, gaya normal 98 N ke atas. Kesamaan ini bergantung pada asumsi tidak ada gaya vertikal lain.
+
+Soal 11. Gaya 25 N menarik benda sejauh 4 m searah perpindahan. Tentukan usaha.
+Pembahasan: W = Fs cos 0° = 25 × 4 × 1 = 100 J. Jika gaya membentuk sudut, hanya komponen sejajar perpindahan yang menghasilkan usaha.
+
+Soal 12. Benda bermassa 3 kg bergerak dengan kelajuan 4 m/s. Hitung energi kinetik.
+Pembahasan: Ek = ½mv² = ½ × 3 × 16 = 24 J. Kuadrat kelajuan membuat energi kinetik meningkat lebih cepat daripada kelajuan.
+
+Soal 13. Benda bermassa 2 kg berada 8 m di atas acuan. Gunakan g = 10 m/s² untuk memperkirakan energi potensial gravitasi.
+Pembahasan: Ep = mgh = 2 × 10 × 8 = 160 J. Nilai ini bergantung pada acuan ketinggian yang dipilih, sedangkan perubahan energi potensial antara dua titik tidak bergantung pada pilihan nol jika konsisten.
+
+Soal 14. Mesin melakukan usaha 1.200 J dalam 20 sekon. Tentukan daya rata-rata.
+Pembahasan: P = W/t = 1.200/20 = 60 W. Daya adalah laju pemindahan energi; energi total tetap 1.200 J untuk proses yang ditinjau.
+
+Soal 15. Benda bermassa 5 kg bergerak 3 m/s. Tentukan momentum.
+Pembahasan: p = mv = 5 × 3 = 15 kg m/s. Arah momentum sama dengan arah kecepatan.
+
+Soal 16. Gaya rata-rata 12 N bekerja selama 0,5 sekon. Tentukan impuls.
+Pembahasan: J = FΔt = 12 × 0,5 = 6 N s. Impuls sama dengan perubahan momentum, jika gaya yang dimaksud merupakan resultan gaya pada sistem.
+
+TINGKAT MENENGAH — ROTASI DAN FLUIDA
+
+Soal 17. Gaya 10 N bekerja tegak lurus pada ujung lengan 0,3 m dari sumbu. Tentukan besar torsi.
+Pembahasan: τ = rF sin 90° = 0,3 × 10 = 3 N m. Jika gaya tidak tegak lurus, komponen yang menghasilkan torsi lebih kecil.
+
+Soal 18. Tekanan akibat gaya 200 N yang tersebar merata pada luas 0,04 m².
+Pembahasan: p = F/A = 200/0,04 = 5.000 Pa. Luas harus dinyatakan dalam meter persegi untuk memperoleh pascal.
+
+Soal 19. Sebuah benda memindahkan 0,002 m³ air. Gunakan massa jenis air 1.000 kg/m³ dan g = 10 m/s² untuk menghitung gaya apung ideal.
+Pembahasan: Massa air yang dipindahkan = ρV = 1.000 × 0,002 = 2 kg. Beratnya 2 × 10 = 20 N. Gaya apung sama dengan berat fluida yang dipindahkan, yaitu 20 N.
+
+Soal 20. Luas piston kecil 0,01 m² dan piston besar 0,1 m². Dalam model hidrolik ideal, jika gaya 50 N diberikan pada piston kecil, berapa gaya pada piston besar?
+Pembahasan: Tekanan sama, sehingga F₁/A₁ = F₂/A₂. F₂ = 50 × (0,1/0,01) = 500 N. Keuntungan gaya disertai perpindahan piston besar yang lebih kecil; energi tidak bertambah.
+
+TINGKAT MENENGAH — KALOR DAN GELOMBANG
+
+Soal 21. Gelombang memiliki frekuensi 12 Hz dan panjang gelombang 0,75 m. Tentukan cepat rambatnya.
+Pembahasan: v = fλ = 12 × 0,75 = 9 m/s. Persamaan berlaku untuk gelombang periodik pada medium dan kondisi yang sama.
+
+Soal 22. Getaran memiliki periode 0,4 sekon. Tentukan frekuensi.
+Pembahasan: f = 1/T = 1/0,4 = 2,5 Hz. Frekuensi menyatakan banyak siklus setiap sekon.
+
+Soal 23. Sebanyak 0,2 kg bahan dengan kalor jenis 500 J/(kg °C) mengalami kenaikan suhu 10 °C. Tentukan kalor ideal yang diterima.
+Pembahasan: Q = mcΔT = 0,2 × 500 × 10 = 1.000 J. Perhitungan mengabaikan pertukaran kalor dengan wadah dan lingkungan.
+
+Soal 24. Mengapa suhu air tidak selalu naik selama air sedang mendidih pada tekanan tetap?
+Pembahasan: Energi yang masuk digunakan untuk perubahan fase, bukan terutama untuk menaikkan suhu. Pada kondisi ideal zat murni dan tekanan tetap, suhu mendidih tetap selama perubahan fase berlangsung.
+
+Soal 25. Bunyi merambat dengan cepat rambat 340 m/s dan frekuensi 170 Hz. Tentukan panjang gelombang.
+Pembahasan: λ = v/f = 340/170 = 2 m. Hasil ini berlaku untuk medium dan kondisi yang menghasilkan cepat rambat tersebut.
+
+TINGKAT LANJUT — LISTRIK DAN PENALARAN
+
+Soal 26. Resistor 8 Ω dihubungkan pada beda potensial 24 V. Tentukan arus ideal.
+Pembahasan: I = V/R = 24/8 = 3 A. Hukum Ohm digunakan jika komponen berperilaku ohmik pada kondisi tersebut.
+
+Soal 27. Perangkat berdaya 250 W digunakan selama 4 jam. Hitung energi dalam kWh.
+Pembahasan: 250 W = 0,25 kW. Energi = 0,25 × 4 = 1 kWh. Energi listrik dalam tagihan umumnya dinyatakan dalam kWh, bukan kW.
+
+Soal 28. Mengapa tegangan pada setiap cabang rangkaian paralel ideal sama?
+Pembahasan: Setiap cabang terhubung pada pasangan titik simpul yang sama. Beda potensial antara dua simpul tersebut sama untuk setiap cabang.
+
+Soal 29. Mengapa transformator biasa tidak bekerja dengan sumber arus searah yang konstan?
+Pembahasan: Induksi memerlukan perubahan fluks magnet. Arus searah konstan menghasilkan fluks yang tidak berubah setelah keadaan transien, sehingga tidak ada tegangan induksi berkelanjutan pada kumparan sekunder.
+
+Soal 30. Dua data meningkat bersama dari waktu ke waktu. Sebutkan dua alasan mengapa hubungan itu belum membuktikan sebab-akibat.
+Pembahasan: Keduanya mungkin dipengaruhi variabel ketiga atau hanya menunjukkan tren waktu yang sama. Diperlukan rancangan penelitian dan bukti tambahan untuk menilai sebab-akibat.
+
+SOAL URAIAN KONSEPTUAL
+
+31. Jelaskan dengan contoh mengapa gerak dan keadaan diam bergantung pada kerangka acuan.
+32. Uraikan perbedaan hukum Newton pertama, kedua, dan ketiga.
+33. Jelaskan mengapa energi kinetik dapat berubah pada tumbukan tidak elastis sedangkan momentum total sistem tetap.
+34. Mengapa gaya gesek dapat berguna dan merugikan sekaligus?
+35. Jelaskan bagaimana energi Matahari memengaruhi cuaca dan iklim.
+36. Mengapa model gas ideal memiliki batas penggunaan?
+37. Jelaskan hubungan frekuensi, panjang gelombang, dan cepat rambat.
+38. Mengapa sensor memerlukan kalibrasi dan pencatatan ketidakpastian?
+39. Jelaskan bagaimana perubahan fluks magnet dapat menghasilkan energi listrik pada generator.
+40. Mengapa hasil simulasi komputer tetap harus dibandingkan dengan data atau teori?
+
+RUBRIK JAWABAN URAIAN
+
+Jawaban yang kuat menyatakan konsep secara tepat, memberi alasan sebab-akibat, menggunakan istilah dan satuan dengan benar, serta menyebut asumsi jika diperlukan. Contoh yang relevan membantu memperjelas, tetapi contoh tidak menggantikan penjelasan konsep. Untuk pertanyaan terbuka, penilaian berfokus pada konsistensi penalaran dan kesesuaian dengan prinsip fisika.
+
+CHECKLIST PENGUASAAN MATERI
+
+- Saya dapat mengonversi satuan tanpa mencampur faktor.
+- Saya dapat membedakan besaran skalar dan vektor.
+- Saya dapat membaca grafik posisi, kecepatan, dan percepatan.
+- Saya dapat menggambar diagram benda bebas sederhana.
+- Saya dapat memilih Hukum Newton sesuai sistem.
+- Saya dapat membedakan usaha, energi, daya, dan momentum.
+- Saya dapat menggunakan prinsip kekekalan dengan menyebut syaratnya.
+- Saya memahami torsi, tekanan, dan gaya apung.
+- Saya dapat menjelaskan perpindahan kalor dan perubahan fase.
+- Saya memahami frekuensi, periode, dan panjang gelombang.
+- Saya dapat membedakan arus, tegangan, hambatan, dan daya listrik.
+- Saya dapat menilai asumsi, ketidakpastian, dan keterbatasan model.
+- Saya dapat menyajikan data secara jujur dan dapat ditelusuri.
+- Saya memahami bahwa kegiatan listrik, tekanan, radiasi, dan mekanika berisiko memerlukan prosedur serta pengawasan profesional.
+
+PENUTUP BANK SOAL
+
+Latihan yang efektif dilakukan dengan mencoba terlebih dahulu, memeriksa proses, lalu memperbaiki kesalahan. Jangan hanya menghafal jawaban akhir. Catat mengapa sebuah persamaan dipilih, mengapa asumsi diperlukan, dan bagaimana satuan memastikan makna hasil. Dengan cara itu, soal yang bentuknya berbeda tetap dapat dianalisis melalui prinsip yang sama.
+
 Akhir buku.

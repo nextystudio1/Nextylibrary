@@ -132,3 +132,47 @@ LATIHAN AKHIR
 4. Jelaskan tiga unsur tata kelola yang dapat meningkatkan kepercayaan.
 5. Rancang indikator keluaran dan hasil untuk program pelatihan kerja.
 6. Mengapa perbandingan wilayah harus mempertimbangkan kondisi awal?
+
+BAB 12. KEMISKINAN MULTIDIMENSI DAN KETIMPANGAN
+
+Kemiskinan tidak hanya berkaitan dengan pendapatan. Akses pendidikan, kesehatan, air bersih, perumahan layak, perlindungan sosial, dan kesempatan berpartisipasi juga menentukan kualitas hidup. Ukuran kemiskinan moneter berguna untuk analisis daya beli, sedangkan pendekatan multidimensi menunjukkan kekurangan yang tidak selalu tercermin dalam pendapatan.
+
+Ketimpangan dapat terjadi antarindividu, kelompok, wilayah, maupun generasi. Rata-rata nasional dapat membaik sementara sebagian wilayah tertinggal. Karena itu, data perlu dipilah secara etis dan metodologis menurut wilayah serta karakteristik yang relevan. Pemilahan tidak boleh digunakan untuk memberi stigma kepada kelompok tertentu.
+
+BAB 13. MODAL MANUSIA DAN TRANSISI KERJA
+
+Pendidikan, kesehatan, keterampilan, dan pengalaman memengaruhi kemampuan seseorang untuk berpartisipasi dalam kegiatan ekonomi. Namun, peningkatan keterampilan tidak otomatis menghasilkan pekerjaan jika permintaan tenaga kerja terbatas atau lokasi pekerjaan sulit dijangkau. Program pelatihan perlu disusun bersama pemberi kerja, lembaga pendidikan, dan calon peserta.
+
+Evaluasi program kerja sebaiknya membedakan jumlah peserta, kelulusan, penempatan, keberlanjutan kerja, pendapatan, dan kualitas pekerjaan. Hasil perlu dibandingkan dengan kondisi awal serta kelompok pembanding yang sesuai jika memungkinkan. Jangan menyimpulkan keberhasilan hanya dari banyaknya sertifikat yang diterbitkan.
+
+BAB 14. PEMBANGUNAN WILAYAH DAN KONEKTIVITAS
+
+Wilayah memiliki potensi, sumber daya, sejarah, dan tantangan yang berbeda. Infrastruktur dapat menghubungkan produsen dengan pasar, tetapi manfaatnya bergantung pada akses, biaya, kualitas layanan, dan keterhubungan dengan jaringan lain. Jalan baru, misalnya, dapat menurunkan waktu perjalanan namun juga mengubah harga lahan dan tekanan terhadap ekosistem.
+
+Kebijakan wilayah perlu melihat hubungan pusat dan pinggiran, arus pekerja, rantai pasok, layanan publik, serta distribusi investasi. Peta konektivitas harus dilengkapi data sosial ekonomi dan pengalaman masyarakat. Proyek yang terlihat menguntungkan secara agregat dapat menimbulkan beban lokal yang perlu dicegah atau ditangani.
+
+BAB 15. PEMBIAYAAN PEMBANGUNAN DAN UTANG
+
+Pembangunan dibiayai melalui pajak, penerimaan negara, hibah, pinjaman, investasi swasta, dan kemitraan. Setiap sumber memiliki biaya, risiko, serta kewajiban yang berbeda. Pinjaman dapat mendukung investasi produktif, tetapi kemampuan membayar dan manfaat jangka panjang perlu dianalisis secara transparan.
+
+Analisis proyek memperhitungkan biaya konstruksi, operasi, pemeliharaan, risiko keterlambatan, perubahan harga, dampak sosial, dan biaya lingkungan. Nilai manfaat tidak hanya berupa pendapatan langsung; layanan publik dan pengurangan risiko juga dapat memberi manfaat sosial. Asumsi harus ditampilkan agar publik dapat menilai dasar keputusan.
+
+BAB 16. PERDAGANGAN, RANTAI NILAI, DAN INDUSTRIALISASI
+
+Perdagangan membuka akses ke pasar, bahan baku, teknologi, dan pengetahuan. Namun, posisi suatu negara atau daerah dalam rantai nilai memengaruhi bagian nilai tambah yang diperoleh. Penjualan komoditas mentah dapat memberi pendapatan, tetapi pengolahan, desain, logistik, dan layanan terkait dapat menciptakan peluang nilai tambah jika memiliki daya saing dan tata kelola yang baik.
+
+Kebijakan industri perlu menilai produktivitas, keterampilan, teknologi, persaingan, dampak lingkungan, dan risiko ketergantungan. Perlindungan industri tanpa target kinerja dapat menciptakan inefisiensi. Sebaliknya, pembukaan pasar tanpa dukungan adaptasi dapat menekan pekerja dan usaha kecil.
+
+BAB 17. EVALUASI KEBIJAKAN PEMBANGUNAN
+
+Evaluasi kebijakan menilai apakah intervensi menghasilkan perubahan yang diharapkan, untuk siapa, melalui mekanisme apa, dan dengan biaya berapa. Kerangka logika menghubungkan sumber daya, kegiatan, keluaran, hasil, dan dampak. Hubungan tersebut merupakan hipotesis yang harus diuji, bukan jaminan.
+
+Gunakan indikator kuantitatif dan kualitatif. Data angka menunjukkan pola, sedangkan wawancara dan observasi dapat membantu memahami alasan di balik pola. Laporkan keterbatasan, kemungkinan faktor luar, dan dampak yang tidak direncanakan. Evaluasi yang jujur dapat merekomendasikan penghentian atau perubahan program, bukan hanya kelanjutan.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa kemiskinan perlu dilihat secara multidimensi? Karena pendapatan tidak menggambarkan seluruh akses dan kemampuan hidup.
+2. Apa perbedaan keluaran dan hasil program? Keluaran adalah produk kegiatan; hasil adalah perubahan yang dialami sasaran.
+3. Mengapa proyek infrastruktur perlu menilai dampak lokal? Karena manfaat dan beban dapat tersebar tidak merata.
+4. Apa risiko pembiayaan melalui utang? Kewajiban pembayaran dan risiko fiskal bila manfaat atau pendapatan tidak sesuai perkiraan.
+5. Mengapa evaluasi perlu menggabungkan data angka dan narasi? Keduanya menjawab pertanyaan yang berbeda dan saling melengkapi.

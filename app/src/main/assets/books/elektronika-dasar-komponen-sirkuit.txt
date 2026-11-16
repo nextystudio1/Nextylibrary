@@ -362,3 +362,21 @@ Gambar diagram blok sebuah sensor cahaya yang mengendalikan indikator LED menggu
 
 RANGKUMAN BAB
 Dioda, transistor, penguat, filter, dan alat ukur membentuk dasar elektronika modern. Pemilihan komponen dan prosedur pengukuran harus sesuai spesifikasi serta batas keselamatan.
+
+BAB SENSOR DAN AKUISISI DATA
+Sensor mengubah besaran fisik seperti suhu, cahaya, tekanan, atau gerak menjadi sinyal yang dapat dibaca sistem. Sensor memiliki rentang kerja, sensitivitas, resolusi, waktu respons, dan ketidakpastian. Data sensor tidak otomatis benar; kalibrasi dan pemeriksaan kondisi operasi diperlukan untuk mengetahui kualitas pengukuran.
+
+SINYAL ANALOG DAN DIGITAL
+Sinyal analog berubah secara kontinu, sedangkan sistem digital merepresentasikan nilai melalui bilangan diskret. Konverter analog-ke-digital mengambil sampel sinyal dan mengubahnya menjadi angka. Frekuensi sampling serta resolusi bit memengaruhi detail yang dapat direkam. Jika sampling terlalu rendah dibanding perubahan sinyal, informasi dapat hilang atau tampak keliru.
+
+MIKROKONTROLER DAN ANTARMUKA
+Mikrokontroler menggabungkan prosesor, memori, dan antarmuka masukan-keluaran dalam satu perangkat. Program dapat membaca sensor, memproses data, lalu mengendalikan indikator atau aktuator. Setiap pin memiliki batas tegangan dan arus sesuai spesifikasi. Rangkaian pendidikan harus memakai catu daya rendah yang sesuai dan mengikuti petunjuk produsen.
+
+KEANDALAN SISTEM
+Sistem yang baik memeriksa nilai tidak masuk akal, menangani sensor terputus, dan memberi tahu pengguna ketika data tidak tersedia. Filter dapat mengurangi derau, tetapi juga dapat menghaluskan perubahan nyata. Catatan waktu dan satuan penting ketika data dari beberapa sensor dibandingkan.
+
+LATIHAN
+Rancang diagram blok alat pemantau suhu ruang berbasis sensor dan mikrokontroler. Jelaskan sumber daya, pengambilan sampel, tampilan hasil, dan cara mendeteksi sensor gagal. Gunakan simulator atau kit pembelajaran sesuai petunjuk guru.
+
+RANGKUMAN
+Sensor dan sistem akuisisi data menghubungkan dunia fisik dengan sistem elektronik. Kalibrasi, sampling, batas komponen, dan penanganan kegagalan menentukan keandalan.

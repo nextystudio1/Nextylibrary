@@ -289,3 +289,21 @@ Buat poster konsep tentang Bima Sakti yang membedakan galaksi, bintang, nebula, 
 
 RANGKUMAN BAB
 Astronomi mempelajari alam semesta melalui cahaya, jarak, gerak, dan model fisika. Satuan, metode pengukuran, dan ketidakpastian membantu menempatkan objek kosmik dalam skala yang benar.
+
+BAB GALAKSI DAN STRUKTUR ALAM SEMESTA
+Galaksi merupakan sistem besar yang terdiri atas bintang, gas, debu, materi gelap, dan objek lain yang terikat gravitasi. Galaksi Bima Sakti adalah galaksi spiral berbatang dan Matahari berada di salah satu wilayah piringannya. Galaksi memiliki bentuk dan sejarah yang beragam; pengelompokan morfologi membantu astronom membandingkan struktur, tetapi tidak menjelaskan seluruh evolusinya.
+
+JARAK KOSMIK
+Astronom menggunakan beberapa metode untuk mengukur jarak. Paralaks bintang memanfaatkan perubahan posisi tampak akibat perubahan posisi pengamat selama orbit Bumi. Untuk jarak lebih jauh, digunakan objek dengan luminositas intrinsik yang dapat diperkirakan atau hubungan empiris tertentu. Setiap metode memiliki rentang penggunaan dan ketidakpastian, sehingga astronom membangun tangga jarak kosmik dengan menghubungkan beberapa teknik.
+
+PERGESERAN MERAH DAN EKSPANSI
+Cahaya dari galaksi jauh sering menunjukkan pergeseran ke panjang gelombang lebih besar. Dalam kosmologi, pergeseran merah berkaitan dengan pemuaian ruang selama cahaya menempuh perjalanan. Hubungan jarak dan pergeseran merah menjadi salah satu bukti penting ekspansi alam semesta. Interpretasi memerlukan model kosmologi dan pengukuran yang teliti.
+
+MATERI GELAP DAN ENERGI GELAP
+Gerak bintang dan galaksi serta pelensaan gravitasi menunjukkan adanya massa yang tidak memancarkan atau menyerap cahaya seperti materi biasa. Komponen ini disebut materi gelap, tetapi sifat mikrofisiknya belum diketahui secara pasti. Pengamatan ekspansi kosmik juga menunjukkan percepatan pada skala besar yang dalam model standar dikaitkan dengan energi gelap. Istilah tersebut merangkum masalah ilmiah yang masih diteliti, bukan penjelasan final.
+
+LATIHAN
+Buat bagan skala jarak dari Bumi, tata surya, Bima Sakti, hingga galaksi jauh. Tuliskan metode pengamatan yang dapat digunakan pada tiap skala dan jelaskan mengapa ketidakpastian meningkat.
+
+RANGKUMAN
+Galaksi dan kosmologi mengkaji struktur terbesar alam semesta. Jarak, spektrum, gravitasi, dan model teoretis saling melengkapi untuk menjelaskan bukti pengamatan.

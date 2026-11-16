@@ -322,3 +322,21 @@ Buat diagram aliran air di lingkungan sekolah atau permukiman. Tandai permukaan 
 
 RANGKUMAN BAB
 Air, tanah, lahan basah, dan vegetasi saling memengaruhi ketahanan ekosistem. Adaptasi berbasis alam efektif jika memperhatikan proses lokal, masyarakat, dan pengurangan penyebab perubahan iklim.
+
+BAB DAUR AIR DAN KETERSEDIAAN AIR
+Air bergerak melalui penguapan, transpirasi, kondensasi, presipitasi, infiltrasi, aliran permukaan, dan aliran bawah tanah. Proses tersebut membentuk daur hidrologi yang menghubungkan atmosfer, daratan, sungai, dan laut. Daur air tidak berarti setiap wilayah memiliki persediaan air yang sama; curah hujan, geologi, topografi, penggunaan lahan, dan infrastruktur memengaruhi ketersediaan.
+
+DAERAH ALIRAN SUNGAI
+Daerah aliran sungai adalah wilayah yang mengalirkan air menuju satu saluran atau titik keluaran. Perubahan tutupan lahan dapat memengaruhi infiltrasi, erosi, dan aliran puncak. Hutan, lahan basah, dan tanah yang sehat dapat membantu menyimpan air, meskipun manfaatnya bergantung kondisi ekosistem dan skala pengamatan.
+
+AIR TANAH
+Air tanah tersimpan dalam pori atau rekahan batuan dan sedimen. Akuifer dapat mengalirkan air, sedangkan lapisan pembatas memperlambat pergerakan. Pengambilan berlebihan dapat menurunkan muka air tanah dan, di wilayah pesisir, berkontribusi pada intrusi air asin. Pengelolaan membutuhkan data pengisian ulang dan penggunaan, bukan hanya jumlah sumur.
+
+IKLIM, LAHAN, DAN BANJIR
+Banjir dapat dipengaruhi hujan, pasang, kondisi sungai, drainase, perubahan lahan, dan penurunan tanah. Tidak tepat menyalahkan satu faktor tanpa pemeriksaan data. Solusi dapat menggabungkan ruang resapan, pemeliharaan saluran, tata ruang, sistem peringatan, dan perlindungan daerah hulu.
+
+LATIHAN
+Gambar diagram daur air dan tandai proses yang dipengaruhi vegetasi serta penggunaan lahan. Jelaskan bagaimana perubahan permukaan kedap air dapat memengaruhi aliran permukaan. Gunakan contoh konseptual, bukan klaim tentang lokasi tertentu tanpa data.
+
+RANGKUMAN
+Daur air menghubungkan atmosfer, tanah, air permukaan, dan air tanah. Pengelolaan berkelanjutan membutuhkan pemahaman daerah aliran sungai dan keseimbangan penggunaan serta pengisian ulang.

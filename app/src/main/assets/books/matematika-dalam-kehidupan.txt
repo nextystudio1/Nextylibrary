@@ -461,3 +461,21 @@ Ambil tabel data publik tentang jumlah penduduk atau fasilitas. Hitung perubahan
 
 RANGKUMAN BAB
 Matematika membantu membaca informasi publik, skala, proporsi, dan perencanaan. Angka harus disertai konteks, satuan, penyebut, dan pemeriksaan asumsi.
+
+BAB GEOMETRI DAN PENGUKURAN DALAM KEHIDUPAN
+Geometri membantu menggambarkan bentuk, ukuran, posisi, dan hubungan ruang. Keliling mengukur panjang batas suatu bangun, sedangkan luas mengukur daerah yang ditempati. Volume mengukur ruang tiga dimensi. Setiap besaran memiliki satuan berbeda: panjang menggunakan satuan linear, luas satuan kuadrat, dan volume satuan kubik.
+
+MEMILIH RUMUS YANG TEPAT
+Rumus luas persegi panjang adalah panjang dikalikan lebar, sedangkan volume balok adalah panjang, lebar, dan tinggi dikalikan. Rumus tidak boleh digunakan sebelum bentuk dan satuan dipastikan. Untuk bentuk gabungan, pecah menjadi bangun sederhana atau hitung daerah yang harus dikurangi. Sketsa dan label ukuran membantu mencegah salah tafsir.
+
+SKALA DAN KESERUPAAN
+Bangun sebangun memiliki bentuk sama dengan ukuran yang dapat berbeda; sudut bersesuaian sama dan sisi bersesuaian memiliki perbandingan tetap. Skala digunakan pada peta, denah, model, dan gambar teknik. Ketika panjang diperbesar dengan faktor tertentu, luas berubah menurut kuadrat faktor dan volume menurut pangkat tiga. Ini menjelaskan mengapa model miniatur tidak selalu memiliki proporsi fungsi yang sama dengan objek asli.
+
+STATISTIKA SPASIAL SEDERHANA
+Denah dapat digunakan untuk membandingkan jarak, jalur, dan kapasitas ruang. Jarak garis lurus berbeda dari jarak perjalanan yang mengikuti koridor atau jalan. Pengukuran harus menyatakan metode, titik awal, dan titik akhir. Dalam perencanaan ruang, aksesibilitas dan keselamatan sama pentingnya dengan efisiensi luas.
+
+LATIHAN
+Rancang denah ruang baca sederhana dengan ukuran fiktif. Hitung luas lantai, luas area rak, dan ruang gerak yang tersisa. Periksa satuan dan jelaskan asumsi yang digunakan. Jangan menggunakan hasil latihan sebagai rancangan bangunan nyata.
+
+RANGKUMAN
+Geometri dan pengukuran membantu merancang, membaca peta, dan memahami ruang. Ketepatan bergantung pada sketsa, satuan, asumsi, serta pemilihan rumus.

@@ -432,3 +432,21 @@ Buat peta konsep hubungan larutan, konsentrasi, asam-basa, pH, buffer, dan kuali
 
 RANGKUMAN BAB
 Konsep larutan dan asam-basa menjelaskan banyak proses biologis, lingkungan, dan industri. Pengukuran kimia memerlukan alat sesuai prosedur dan tidak boleh diganti dengan perkiraan indra.
+
+BAB KIMIA POLIMER DAN MATERIAL
+Polimer adalah molekul besar yang tersusun dari unit berulang. Polimer alam meliputi selulosa, pati, protein, dan karet alam, sedangkan polimer sintetis mencakup berbagai plastik dan serat. Sifat polimer dipengaruhi jenis monomer, panjang rantai, percabangan, ikatan silang, dan susunan molekul.
+
+TERMOPLASTIK DAN TERMOSSET
+Termoplastik dapat melunak ketika dipanaskan dan mengeras kembali ketika didinginkan, sehingga beberapa jenis dapat diproses ulang. Polimer termoset membentuk jaringan ikatan silang yang tidak mudah dilelehkan kembali. Perbedaan ini memengaruhi pilihan penggunaan, perbaikan, dan pengelolaan akhir masa pakai.
+
+SIFAT DAN PEMILIHAN MATERIAL
+Material dipilih berdasarkan kekuatan, kelenturan, ketahanan panas, ketahanan kimia, massa, biaya, dan dampak lingkungan. Tidak ada bahan yang paling baik untuk semua tujuan. Kemasan ringan dapat mengurangi kebutuhan transportasi, tetapi harus dinilai bersama kemungkinan penggunaan ulang, daur ulang, kebocoran limbah, dan keamanan kontak pangan.
+
+DAUR ULANG DAN EKONOMI SIRKULAR
+Daur ulang mekanis memproses material menjadi bahan baru, tetapi kualitas dapat menurun atau tercampur. Daur ulang kimia menggunakan proses untuk mengubah polimer menjadi bahan lain, tetapi kebutuhan energi dan emisinya perlu dinilai. Pengurangan penggunaan, desain tahan lama, penggunaan ulang, dan pemilahan yang benar sering menjadi bagian penting strategi pengelolaan.
+
+LATIHAN
+Bandingkan dua material kemasan berdasarkan fungsi, ketahanan, penggunaan ulang, dan pengelolaan akhir. Gunakan data label atau sumber produsen yang dapat diperiksa. Jangan membakar plastik atau melakukan percobaan pemanasan bahan.
+
+RANGKUMAN
+Polimer menyediakan material dengan sifat beragam. Pemilihan dan pengelolaannya perlu mempertimbangkan struktur, fungsi, keamanan, serta dampak sepanjang siklus hidup.

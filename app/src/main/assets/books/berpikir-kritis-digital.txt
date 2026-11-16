@@ -310,3 +310,20 @@ Gunakan contoh berita fiktif yang menyatakan suatu kejadian berlangsung di tempa
 
 RANGKUMAN BAB
 Berpikir kritis di era AI menuntut pemeriksaan asal konten, verifikasi lintas sumber, dan diskusi berbasis bukti. Kewaspadaan tidak berarti menolak semua teknologi, tetapi memahami batasnya.
+
+BAB ALGORITMA REKOMENDASI DAN RUANG GEMA
+Platform digital menggunakan sistem rekomendasi untuk memilih konten yang diperkirakan menarik bagi pengguna. Sistem dapat memakai riwayat tontonan, interaksi, kemiripan pengguna, atau karakteristik konten. Rekomendasi memudahkan penemuan informasi, tetapi dapat mempersempit paparan jika sistem terus menampilkan hal serupa.
+
+Ruang gema terjadi ketika seseorang lebih sering menerima pandangan yang menguatkan keyakinannya sendiri. Efek ini dipengaruhi pilihan pribadi, jaringan sosial, desain platform, dan kondisi masyarakat. Tidak semua rekomendasi otomatis menciptakan ruang gema; pengguna dapat memperluas sumber, mencari perspektif berbeda, dan memeriksa bukti.
+
+METRIK KETERLIBATAN
+Jumlah klik, komentar, dan waktu menonton sering digunakan sebagai ukuran keterlibatan. Metrik tersebut tidak selalu menunjukkan kualitas informasi atau manfaat bagi pengguna. Konten yang memicu kemarahan dapat menghasilkan interaksi tinggi meskipun tidak akurat. Karena itu, keberhasilan sistem sebaiknya dinilai dengan beberapa ukuran, termasuk relevansi, keberagaman, keamanan, dan kepuasan pengguna.
+
+PRIVASI DAN PROFILISASI
+Jejak digital dapat digunakan untuk membuat perkiraan minat dan perilaku. Pengguna perlu memahami pengaturan privasi, izin aplikasi, dan kebijakan penggunaan data. Berikan informasi pribadi seminimal mungkin, gunakan pengaturan yang tersedia, dan minta bantuan orang dewasa tepercaya jika menemukan permintaan data yang tidak wajar.
+
+LATIHAN
+Bandingkan rekomendasi dari dua akun atau layanan dengan topik yang sama menggunakan contoh aman. Catat kemiripan, perbedaan, dan kemungkinan faktor yang memengaruhinya. Hindari menyimpulkan algoritma secara pasti karena proses internal layanan mungkin tidak diketahui.
+
+RANGKUMAN
+Sistem rekomendasi memengaruhi apa yang terlihat di ruang digital. Memahami metrik, privasi, dan keberagaman sumber membantu pengguna tetap memiliki kendali dan berpikir kritis.

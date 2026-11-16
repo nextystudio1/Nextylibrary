@@ -21,6 +21,16 @@ DAFTAR ISI
 12. Listrik dan Kemagnetan
 13. Fisika Bumi dan Antariksa
 14. Eksperimen, Keselamatan, dan Penalaran
+15. Gelombang dan Bunyi — Pendalaman
+16. Cahaya dan Optika — Pendalaman
+17. Listrik dan Rangkaian
+18. Magnet dan Elektromagnetisme
+19. Suhu, Kalor, dan Perpindahan Energi
+20. Pengukuran dan Ketidakpastian
+21. Gelombang dan Perambatan Energi
+22. Bunyi dan Akustik
+23. Listrik dan Magnetisme
+24. Energi, Daya, dan Efisiensi
 Lampiran: Rumus, Latihan, Glosarium
 
 BAB 1. CARA KERJA ILMU FISIKA
@@ -295,22 +305,22 @@ PENUTUP
 Fisika membantu kita mengajukan pertanyaan yang tepat tentang dunia. Rumus menjadi bermakna ketika dihubungkan dengan pengamatan, satuan, dan alasan. Biasakan memeriksa asumsi, mencatat data apa adanya, dan mengutamakan keselamatan dalam setiap kegiatan belajar.
 
 PENDALAMAN: GELOMBANG, LISTRIK, DAN PENERAPAN FISIKA
-BAB 7 — GELOMBANG DAN BUNYI
+BAB 15 — GELOMBANG DAN BUNYI
 Gelombang memindahkan energi tanpa memindahkan materi secara keseluruhan. Gelombang transversal memiliki getaran tegak lurus arah rambat, sedangkan gelombang longitudinal memiliki getaran sejajar arah rambat. Bunyi merupakan gelombang mekanik yang memerlukan medium.
 Frekuensi berkaitan dengan tinggi nada, sedangkan amplitudo berkaitan dengan intensitas. Pantulan, pembiasan, difraksi, dan interferensi menjelaskan berbagai fenomena suara dan cahaya.
-BAB 8 — CAHAYA DAN OPTIKA
+BAB 16 — CAHAYA DAN OPTIKA
 Cahaya dapat dijelaskan melalui model gelombang elektromagnetik dan foton, sesuai fenomena yang dipelajari. Pemantulan menjelaskan bayangan pada cermin, sedangkan pembiasan terjadi ketika cahaya berubah arah saat memasuki medium berbeda.
 Lensa mengumpulkan atau menyebarkan cahaya. Mata, kamera, mikroskop, dan teleskop memanfaatkan prinsip optika. Cacat penglihatan dapat dikoreksi dengan lensa yang sesuai berdasarkan pemeriksaan profesional.
-BAB 9 — LISTRIK DAN RANGKAIAN
+BAB 17 — LISTRIK DAN RANGKAIAN
 Arus listrik adalah laju aliran muatan, tegangan menyatakan beda potensial, dan hambatan menggambarkan kesulitan aliran arus. Hukum Ohm menghubungkan tegangan, arus, dan hambatan pada kondisi yang sesuai. Rangkaian seri memiliki arus sama pada setiap komponen, sedangkan rangkaian paralel memiliki beda potensial sama pada cabang.
 Energi listrik berubah menjadi panas, cahaya, gerak, atau bentuk lain. Penggunaan listrik harus mengikuti standar keselamatan; jangan bereksperimen dengan sumber listrik rumah tangga.
-BAB 10 — MAGNET DAN ELEKTROMAGNETISME
+BAB 18 — MAGNET DAN ELEKTROMAGNETISME
 Arus listrik dapat menghasilkan medan magnet. Perubahan medan magnet dapat menginduksi tegangan pada penghantar. Prinsip elektromagnetisme digunakan pada motor, generator, transformator, pengeras suara, dan berbagai sensor.
 Motor mengubah energi listrik menjadi gerak, sedangkan generator mengubah energi mekanik menjadi energi listrik. Transformator mengubah tingkat tegangan arus bolak-balik melalui induksi elektromagnetik.
-BAB 11 — SUHU, KALOR, DAN PERPINDAHAN ENERGI
+BAB 19 — SUHU, KALOR, DAN PERPINDAHAN ENERGI
 Suhu berkaitan dengan keadaan termal, sedangkan kalor adalah energi yang berpindah karena perbedaan suhu. Konduksi terjadi melalui kontak, konveksi melalui gerak fluida, dan radiasi melalui gelombang elektromagnetik.
 Bahan berbeda memiliki kapasitas kalor dan konduktivitas berbeda. Isolator memperlambat perpindahan kalor, sementara konduktor memudahkan perpindahan.
-BAB 12 — PENGUKURAN DAN KETIDAKPASTIAN
+BAB 20 — PENGUKURAN DAN KETIDAKPASTIAN
 Setiap pengukuran memiliki ketidakpastian. Angka penting menunjukkan ketelitian yang layak dilaporkan, bukan kepastian mutlak. Pengukuran berulang membantu memperkirakan variasi acak, sedangkan kalibrasi membantu mengurangi kesalahan sistematis.
 Tuliskan satuan SI, resolusi alat, dan kondisi pengukuran. Jangan melaporkan lebih banyak angka desimal daripada yang didukung alat.
 LATIHAN
@@ -564,7 +574,7 @@ Frekuensi: jumlah getaran atau siklus per satuan waktu.
 Tegangan: beda potensial listrik.
 Arus: laju aliran muatan listrik.
 Hambatan: ukuran kesulitan aliran arus.
-BAB 13 — GELOMBANG DAN PERAMBATAN ENERGI
+BAB 21 — GELOMBANG DAN PERAMBATAN ENERGI
 
 Gelombang adalah gangguan yang merambat dan membawa energi. Pada gelombang mekanik, perambatan memerlukan medium, sedangkan gelombang elektromagnetik dapat merambat di ruang hampa. Besaran penting meliputi amplitudo, panjang gelombang, frekuensi, periode, dan cepat rambat. Hubungan dasarnya adalah v = fλ, dengan v sebagai cepat rambat, f frekuensi, dan λ panjang gelombang.
 
@@ -572,7 +582,7 @@ Frekuensi menyatakan banyaknya siklus per detik dan satuannya hertz. Periode ada
 
 Gelombang dapat mengalami pemantulan, pembiasan, difraksi, dan interferensi. Pemantulan terjadi ketika gelombang kembali setelah mengenai batas. Pembiasan terjadi ketika kecepatan gelombang berubah saat memasuki medium berbeda. Difraksi adalah pembelokan atau penyebaran gelombang ketika melewati celah atau tepi penghalang. Interferensi terjadi ketika gelombang bertumpang tindih.
 
-BAB 14 — BUNYI DAN AKUSTIK
+BAB 22 — BUNYI DAN AKUSTIK
 
 Bunyi merupakan gelombang mekanik yang merambat melalui perubahan tekanan pada medium. Di udara pada suhu ruang, bunyi merambat dengan kecepatan sekitar 343 meter per detik, tetapi nilai tepatnya dipengaruhi suhu dan sifat medium. Bunyi tidak merambat di ruang hampa karena tidak ada partikel medium yang meneruskan gangguan.
 
@@ -580,7 +590,7 @@ Frekuensi berkaitan dengan tinggi-rendah nada, sedangkan amplitudo berkaitan den
 
 Gema terjadi ketika pantulan bunyi terdengar terpisah dari bunyi awal. Gaung merupakan pantulan yang bertumpuk sehingga memperpanjang bunyi. Bahan penyerap suara, bentuk ruangan, dan jarak permukaan memengaruhi akustik. Ruang belajar, aula, studio, dan ruang publik memerlukan rancangan akustik yang berbeda sesuai tujuan.
 
-BAB 15 — LISTRIK DAN MAGNETISME
+BAB 23 — LISTRIK DAN MAGNETISME
 
 Muatan listrik menghasilkan medan listrik. Muatan sejenis saling tolak dan muatan berbeda jenis saling tarik. Arus listrik adalah aliran muatan, sedangkan medan magnet muncul dari magnet dan muatan yang bergerak. Hubungan antara listrik dan magnet menjadi dasar motor listrik, generator, transformator, dan banyak perangkat modern.
 
@@ -588,7 +598,7 @@ Arus pada kawat dapat menghasilkan medan magnet di sekitarnya. Kumparan memperku
 
 Induksi elektromagnetik terjadi ketika perubahan fluks magnet menghasilkan gaya gerak listrik. Prinsip ini digunakan pada generator dan transformator. Generator mengubah energi mekanik menjadi energi listrik, sedangkan transformator mengubah tingkat tegangan arus bolak-balik melalui induksi pada dua kumparan. Efisiensi dan keselamatan bergantung pada rancangan serta kualitas komponen.
 
-BAB 16 — ENERGI, DAYA, DAN EFISIENSI
+BAB 24 — ENERGI, DAYA, DAN EFISIENSI
 
 Energi menyatakan kemampuan melakukan kerja atau menyebabkan perubahan. Daya adalah laju pemindahan atau penggunaan energi. Jika energi dalam joule dibagi waktu dalam sekon, diperoleh daya dalam watt. Dalam perangkat listrik, daya ideal pada arus searah dapat dihitung dari P = V × I. Untuk rangkaian arus bolak-balik, perhitungan daya nyata dapat memerlukan faktor daya.
 

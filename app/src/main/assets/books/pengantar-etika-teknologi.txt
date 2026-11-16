@@ -6,7 +6,7 @@ DESKRIPSI
 Mengkaji privasi, keadilan, transparansi, keamanan, dampak sosial, dan tanggung jawab inovasi.
 
 PENDAHULUAN
-Buku Pengantar Etika Teknologi membahas mengkaji privasi, keadilan, transparansi, keamanan, dampak sosial, dan tanggung jawab inovasi.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini mengkaji nilai dan tanggung jawab dalam perancangan serta penggunaan teknologi. Pembahasan meliputi privasi, keadilan, bias, transparansi, akuntabilitas, keselamatan, kecerdasan buatan, aksesibilitas, dan dampak lingkungan.
 
 BAB 1. TEKNOLOGI DAN NILAI
 
@@ -54,10 +54,7 @@ EVALUASI AKHIR
 3. Analisis risiko bias pada sistem otomatis.
 4. Siapa yang seharusnya bertanggung jawab ketika keputusan teknologi merugikan pengguna?
 5. Buat prinsip desain yang menjaga manfaat teknologi sekaligus menghormati hak manusia.
-2. Jelaskan hubungan antarbab dengan contoh.
-3. Analisis satu kasus berdasarkan bukti.
-4. Bandingkan dua pendekatan dan konsekuensinya.
-5. Tulis hal yang masih perlu dipelajari.
+
 
 GLOSARIUM
 Akuntabilitas: Kewajiban menjelaskan dan mempertanggungjawabkan keputusan.
@@ -72,7 +69,7 @@ Evaluasi: Penilaian berdasarkan kriteria dan bukti.
 
 CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.
-BAB 9. PERSETUJUAN, KETERJELASAN, DAN KENDALI PENGGUNA
+BAB 7. PERSETUJUAN, KETERJELASAN, DAN KENDALI PENGGUNA
 
 Persetujuan yang bermakna memerlukan informasi yang dapat dipahami. Tombol “setuju” tidak otomatis menunjukkan bahwa seseorang memahami tujuan pengumpulan data, konsekuensi pilihan, dan cara menarik persetujuan. Penjelasan perlu disampaikan pada saat yang relevan, menggunakan bahasa langsung, serta tidak menyembunyikan informasi penting di balik rangkaian tautan yang panjang.
 
@@ -83,7 +80,7 @@ Kendali juga mencakup kemampuan melihat, memperbaiki, mengunduh, atau meminta pe
 AUDIT ANTARMUKA
 Periksa satu aplikasi yang digunakan sehari-hari. Catat bagaimana aplikasi meminta izin, menjelaskan penggunaan data, dan menyediakan pengaturan privasi. Nilai apakah pilihan sama mudahnya, apakah istilahnya jelas, dan apakah pengguna dapat mengubah keputusan kemudian.
 
-BAB 10. KECERDASAN BUATAN DAN TANGGUNG JAWAB
+BAB 8. KECERDASAN BUATAN DAN TANGGUNG JAWAB
 
 Sistem kecerdasan buatan dibangun dari data, tujuan optimasi, desain model, dan keputusan penerapan. Hasil yang tampak akurat pada data pengujian belum menjamin kinerja yang sama di lingkungan nyata. Perubahan populasi, bahasa, perangkat, atau pola penggunaan dapat menurunkan ketepatan.
 
@@ -94,7 +91,7 @@ Pengawasan manusia harus memiliki makna nyata. Petugas perlu memahami kapan sist
 STUDI KASUS
 Sebuah sistem otomatis menyaring permohonan beasiswa. Buat daftar pihak terdampak, kemungkinan kesalahan, data yang diperlukan, cara menguji perbedaan hasil antarkelompok, dan prosedur banding. Jelaskan mengapa keputusan akhir perlu dapat ditinjau oleh pihak yang bertanggung jawab.
 
-BAB 11. KEAMANAN, KESELAMATAN, DAN KETAHANAN
+BAB 9. KEAMANAN, KESELAMATAN, DAN KETAHANAN
 
 Keamanan informasi berupaya menjaga kerahasiaan, integritas, dan ketersediaan data. Keselamatan lebih luas: sistem tidak boleh menimbulkan risiko yang tidak dapat diterima bagi manusia dan lingkungan. Sebuah layanan dapat aman dari akses tidak sah tetapi tetap tidak aman jika desainnya mendorong keputusan keliru dalam situasi penting.
 
@@ -102,7 +99,7 @@ Pendekatan berbasis risiko mengidentifikasi aset, ancaman, kerentanan, kemungkin
 
 Ketahanan berarti kemampuan sistem untuk menghadapi gangguan, membatasi dampak, pulih, dan belajar. Rencana respons insiden perlu menentukan peran, jalur komunikasi, pencatatan, serta kriteria eskalasi. Setelah insiden, evaluasi sebaiknya mencari kelemahan sistem dan proses, bukan sekadar menyalahkan individu.
 
-BAB 12. AKSESIBILITAS DAN KEADILAN DESAIN
+BAB 10. AKSESIBILITAS DAN KEADILAN DESAIN
 
 Aksesibilitas membuat teknologi dapat digunakan oleh orang dengan kemampuan, perangkat, bahasa, dan kondisi lingkungan yang beragam. Kontras warna, ukuran teks, navigasi papan ketik, keterangan gambar, teks alternatif, dan struktur judul memengaruhi apakah informasi dapat diakses. Aksesibilitas sebaiknya dipertimbangkan sejak awal, bukan ditempelkan setelah produk selesai.
 
@@ -110,7 +107,7 @@ Keadilan desain menanyakan apakah manfaat dan beban teknologi tersebar secara wa
 
 Desain universal dapat menguntungkan banyak orang. Teks yang dapat diperbesar membantu pengguna dengan gangguan penglihatan dan juga orang yang membaca pada layar kecil. Subtitle membantu pengguna tuli serta orang yang berada di tempat bising. Namun, tidak ada satu desain yang memenuhi seluruh kebutuhan; pilihan penyesuaian tetap penting.
 
-BAB 13. DAMPAK LINGKUNGAN DAN SIKLUS HIDUP TEKNOLOGI
+BAB 11. DAMPAK LINGKUNGAN DAN SIKLUS HIDUP TEKNOLOGI
 
 Dampak lingkungan teknologi muncul dari ekstraksi bahan baku, produksi perangkat, penggunaan energi, transportasi, perbaikan, dan pembuangan. Menilai hanya konsumsi listrik saat perangkat dipakai dapat melewatkan dampak produksi dan limbah. Pendekatan siklus hidup membantu melihat perpindahan beban dari satu tahap ke tahap lain.
 

@@ -16,7 +16,7 @@ PENDALAMAN
 Pada SIKLUS KERJA DATA, petakan masukan, proses, keluaran, dan pihak yang menggunakan informasi. Periksa kualitas data, keandalan sistem, akses, serta akibat jika terjadi kesalahan. Uraikan alasan setiap keputusan teknis dan cara memeriksa hasilnya.
 
 CONTOH PENERAPAN
-Contoh kajian: pilih kasus sederhana yang berkaitan dengan SIKLUS KERJA DATA dalam bidang Dasar Pengolahan Data. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
+Contoh: olah tabel jumlah pengunjung perpustakaan per hari. Periksa nilai kosong, format tanggal, baris ganda, dan satuan sebelum menghitung total atau rata-rata. Simpan salinan data mentah, dokumentasikan setiap perubahan, lalu bandingkan hasil sebelum dan sesudah pembersihan.
 
 LATIHAN
 1. Apa konsep utama dalam SIKLUS KERJA DATA?

@@ -367,3 +367,35 @@ Rancang kelas sederhana untuk menyimpan data buku: judul, penulis, dan status ke
 
 RANGKUMAN
 Pemrograman berorientasi objek membantu mengatur program melalui tanggung jawab objek. Enkapsulasi, komposisi, dan pengujian mendukung kode yang lebih mudah dipelihara.
+
+PENGAYAAN LANJUTAN: MEMBANGUN PERANGKAT LUNAK YANG ANDAL
+
+1. KEBUTUHAN DAN KRITERIA PENERIMAAN
+Sebelum menulis kode, ubah kebutuhan pengguna menjadi pernyataan yang dapat diuji. “Aplikasi harus cepat” terlalu kabur. Kriteria yang lebih jelas dapat menyebut waktu respons pada perangkat dan kondisi uji tertentu. Kebutuhan fungsional menjelaskan apa yang dilakukan sistem, sedangkan kebutuhan nonfungsional mencakup kinerja, aksesibilitas, keamanan, dan kemudahan pemeliharaan.
+
+2. MEMECAH MASALAH MENJADI MODUL
+Modul adalah bagian program dengan tanggung jawab yang jelas. Pemisahan antarmuka, logika, dan penyimpanan data dapat memudahkan perubahan. Namun terlalu banyak lapisan juga menambah kerumitan. Pilih batas modul berdasarkan alasan perubahan, bukan sekadar membuat sebanyak mungkin berkas.
+
+3. STRUKTUR DATA DAN KOMPLEKSITAS
+Array memudahkan akses berdasarkan indeks, sedangkan daftar berantai memiliki karakteristik penyisipan yang berbeda. Tabel hash mendukung pencarian rata-rata yang cepat dengan fungsi hash yang baik. Pohon dapat mewakili struktur hierarkis. Pemilihan struktur data memengaruhi waktu dan memori, sehingga perlu disesuaikan dengan operasi yang paling sering dilakukan.
+
+4. KESALAHAN DAN PENANGANANNYA
+Kesalahan dapat berasal dari masukan tidak valid, jaringan gagal, berkas tidak ditemukan, atau kondisi internal. Pesan kesalahan harus membantu pengguna tanpa membocorkan informasi rahasia. Program sebaiknya memvalidasi masukan di batas sistem, mencatat kejadian yang diperlukan, dan memiliki cara pulih yang jelas.
+
+5. PENGUJIAN BERLAPIS
+Pengujian unit memeriksa fungsi kecil. Pengujian integrasi memeriksa kerja sama modul. Pengujian sistem memeriksa aplikasi secara keseluruhan. Pengujian penerimaan memastikan kebutuhan pengguna terpenuhi. Kasus uji perlu meliputi nilai normal, batas, data kosong, masukan salah, dan kondisi jaringan yang tidak stabil.
+
+6. KONTROL VERSI DAN KERJA TIM
+Sistem kontrol versi menyimpan riwayat perubahan sehingga tim dapat meninjau dan membatalkan perubahan bermasalah. Pesan commit sebaiknya menjelaskan tujuan perubahan. Perubahan kecil yang terfokus lebih mudah ditinjau daripada satu perubahan besar tanpa konteks. Konflik saat penggabungan harus diselesaikan dengan memahami maksud kedua perubahan.
+
+7. KEAMANAN DASAR
+Validasi masukan, pembatasan hak akses, penyimpanan rahasia di luar kode sumber, dan pembaruan dependensi merupakan praktik penting. Jangan menganggap aplikasi aman hanya karena berjalan di perangkat sendiri. Data sensitif perlu perlindungan sesuai tingkat risikonya, dan log tidak boleh menyimpan kata sandi atau token.
+
+8. DOKUMENTASI DAN PEMELIHARAAN
+Dokumentasi menjelaskan cara memasang, menjalankan, menguji, dan memecahkan masalah. Sertakan asumsi, konfigurasi, serta batasan yang diketahui. Setelah rilis, pantau laporan pengguna dan perbaiki masalah berdasarkan tingkat dampak. Perangkat lunak yang baik bukan hanya berhasil dibuat, tetapi juga dapat dipelihara.
+
+9. LATIHAN PROYEK
+Rancang aplikasi katalog buku sederhana. Tuliskan tiga kebutuhan fungsional dan tiga nonfungsional. Tentukan struktur data untuk buku, operasi pencarian, validasi judul, serta lima kasus uji. Jelaskan bagaimana perubahan skema data akan ditangani tanpa kehilangan catatan pengguna.
+
+RANGKUMAN
+Rekayasa perangkat lunak memadukan kebutuhan, desain, struktur data, pengujian, keamanan, kontrol versi, dan pemeliharaan. Kode yang dapat berjalan hanyalah satu bagian dari produk yang andal.

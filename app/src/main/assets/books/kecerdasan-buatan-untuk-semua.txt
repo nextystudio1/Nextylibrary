@@ -455,3 +455,29 @@ Buat sistem skor fiktif untuk memilih buku bacaan berdasarkan tingkat kesulitan,
 
 RANGKUMAN
 Sistem pendukung keputusan membantu membandingkan pilihan, tetapi hasilnya bergantung data, model, asumsi, dan pengawasan.
+
+PENGAYAAN LANJUTAN: MERANCANG DAN MENILAI SISTEM AI
+
+1. MERUMUSKAN MASALAH SEBELUM MEMILIH MODEL
+Proyek AI yang baik dimulai dari masalah yang jelas, bukan dari keinginan memakai teknologi terbaru. Rumuskan siapa pengguna, keputusan apa yang ingin dibantu, kondisi saat sistem digunakan, dan akibat jika prediksi salah. Sistem yang memprediksi kebutuhan stok, misalnya, perlu membedakan kehabisan barang dan kelebihan persediaan karena biaya kesalahannya berbeda.
+
+2. MENYUSUN DATA YANG MEWAKILI
+Data pelatihan harus mencerminkan variasi kondisi penggunaan. Jika data hanya berasal dari satu wilayah, sistem mungkin bekerja buruk di wilayah lain. Periksa data hilang, duplikasi, label yang tidak konsisten, dan ketidakseimbangan kelas. Catat asal data serta dasar izin penggunaannya. Data pribadi tidak boleh dikumpulkan hanya karena secara teknis tersedia.
+
+3. PEMISAHAN DATA DAN KEBocoran
+Data pelatihan digunakan untuk mempelajari pola, data validasi membantu memilih rancangan, dan data uji menilai kinerja pada contoh yang tidak dipakai selama pengembangan. Jika informasi dari data uji bocor ke proses pelatihan, hasil evaluasi menjadi terlalu optimistis. Pemisahan harus mengikuti struktur masalah; data dari orang atau waktu yang sama kadang perlu dikelompokkan agar tidak muncul di beberapa bagian sekaligus.
+
+4. MEMILIH UKURAN KINERJA
+Akurasi adalah proporsi prediksi yang benar, tetapi dapat menyesatkan ketika satu kelas jauh lebih banyak. Pada data penyakit langka, model yang selalu menyatakan “tidak” bisa tampak akurat meskipun gagal menemukan kasus. Presisi, recall, spesifisitas, dan matriks kebingungan memberi gambaran berbeda. Ukuran yang dipilih harus sesuai biaya kesalahan dan tujuan penggunaan.
+
+5. KALIBRASI DAN KETIDAKPASTIAN
+Skor keyakinan model tidak otomatis merupakan peluang yang terkalibrasi. Jika sistem menyatakan keyakinan 80% pada banyak prediksi, sekitar delapan dari sepuluh prediksi dengan tingkat itu seharusnya benar pada kondisi evaluasi yang sebanding. Kalibrasi perlu diuji pada data yang relevan. Pengguna juga perlu mengetahui kapan sistem sebaiknya menolak memberi jawaban karena bukti tidak cukup.
+
+6. PEMANTAUAN SETELAH PELUNCURAN
+Data dan pola penggunaan dapat berubah. Perubahan ini disebut pergeseran distribusi. Sistem yang baik dipantau melalui kualitas prediksi, keluhan, perbedaan kinerja antarkelompok, dan kejadian yang tidak diharapkan. Harus ada prosedur menghentikan atau menarik sistem jika dampaknya tidak dapat diterima.
+
+7. LATIHAN ANALISIS
+Bayangkan model menyaring pertanyaan siswa untuk menentukan mana yang perlu dijawab guru lebih dahulu. Tentukan risiko jika pertanyaan berbahasa daerah lebih sering salah dikategorikan. Pilih ukuran kinerja yang sesuai, jelaskan siapa yang meninjau hasil, dan buat mekanisme agar siswa dapat meminta koreksi.
+
+RANGKUMAN
+AI yang bermanfaat memerlukan perumusan masalah, data yang layak, evaluasi yang tepat, pengawasan, dan mekanisme koreksi. Keberhasilan tidak cukup diukur dari kecanggihan model.

@@ -336,3 +336,32 @@ Buat diagram lapisan Matahari dan ringkas satu jenis aktivitas Matahari dari sum
 
 RANGKUMAN
 Aktivitas Matahari dipengaruhi dinamika plasma dan medan magnet. Pemantauan membantu memahami cuaca antariksa serta dampaknya pada teknologi.
+
+PENGAYAAN LANJUTAN: MENGUKUR DAN MEMAHAMI ALAM SEMESTA
+
+1. TANGGA JARAK KOSMIK
+Tidak ada satu metode yang sama akurat untuk semua jarak. Paralaks digunakan untuk bintang relatif dekat. Bintang variabel tertentu dapat menjadi indikator jarak pada galaksi lain setelah hubungan periode-luminositas dikalibrasi. Supernova tipe Ia dapat digunakan pada jarak kosmologis. Setiap tahap bergantung pada kalibrasi tahap sebelumnya sehingga ketidakpastian dapat merambat.
+
+2. MATERI ANTARBINTANG
+Ruang antarbintang tidak benar-benar kosong. Gas dan debu membentuk awan dengan kerapatan dan suhu beragam. Daerah tertentu dapat runtuh karena gravitasi dan membentuk bintang. Radiasi dan angin dari bintang muda dapat mengubah awan di sekitarnya, terkadang menekan gas dan terkadang menyebarkannya.
+
+3. PEMBENTUKAN BINTANG DAN PLANET
+Bintang terbentuk dari awan gas yang runtuh, sementara piringan di sekeliling bintang muda dapat menjadi tempat terbentuknya planet. Debu bertumbukan dan bergabung menjadi benda lebih besar. Migrasi planet, tumbukan, dan interaksi gravitasi dapat mengubah susunan sistem. Sistem planet lain tidak harus menyerupai Tata Surya.
+
+4. LUBANG HITAM
+Lubang hitam adalah wilayah ruang-waktu dengan gravitasi begitu kuat sehingga dari dalam horizon peristiwa tidak ada lintasan keluar menuju pengamat jauh. Lubang hitam dapat dipelajari melalui gerak bintang di sekitarnya, gas panas, gelombang gravitasi dari penggabungan, dan bayangan emisi di dekatnya. Gambar lubang hitam bukan foto permukaan padat; ia merupakan hasil pengamatan dan rekonstruksi emisi di lingkungan objek.
+
+5. GALAKSI DAN MATERI GELAP
+Gerak bintang dan gas pada galaksi menunjukkan bahwa materi yang terlihat saja tidak cukup menjelaskan gravitasi yang teramati. Materi gelap merupakan nama bagi komponen yang berinteraksi gravitasi tetapi belum teridentifikasi secara langsung melalui cahaya. Berbagai pengamatan, termasuk lensa gravitasi dan struktur kosmik, mendukung keberadaannya. Sifat mikrofisiknya masih menjadi pertanyaan penelitian.
+
+6. RADIASI LATAR KOSMIK
+Radiasi latar gelombang mikro kosmik merupakan sisa radiasi dari alam semesta awal ketika materi dan radiasi mulai terpisah sehingga foton dapat bergerak lebih bebas. Variasi kecil suhunya menyimpan informasi tentang kondisi awal dan komposisi kosmos. Pengukuran presisi menjadi salah satu dasar pengujian model kosmologi.
+
+7. BATAS PENGETAHUAN
+Model kosmologi menjelaskan banyak pengamatan, tetapi masih memiliki pertanyaan terbuka, termasuk sifat materi gelap dan energi gelap. Ilmu pengetahuan membedakan hasil yang kuat didukung data, hipotesis yang sedang diuji, dan spekulasi. Mengakui batas pengetahuan justru membuat penjelasan lebih jujur.
+
+8. LATIHAN
+Mengapa metode jarak astronomi perlu dikalibrasi? Karena hasil satu metode dapat menjadi acuan bagi metode pada jarak lebih jauh. Apa bukti tidak langsung lubang hitam? Gerak bintang, emisi gas, dan gelombang gravitasi. Mengapa model alam semesta terus diuji? Karena model harus konsisten dengan pengamatan baru dan menyatakan ketidakpastiannya.
+
+RANGKUMAN
+Astronomi mengukur alam semesta melalui cahaya, gerak, dan gelombang gravitasi. Jarak, evolusi bintang, galaksi, serta kosmologi dipahami melalui metode yang saling melengkapi dan terus diuji.

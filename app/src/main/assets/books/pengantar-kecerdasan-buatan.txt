@@ -394,3 +394,29 @@ Rancang konsep alat bantu belajar berbasis AI. Tentukan masalah, data minimum ya
 
 RANGKUMAN
 AI adalah bagian dari sistem sosial dan teknis yang lebih luas. Perancangan, data, pemantauan, aksesibilitas, dan pengawasan manusia sama pentingnya dengan model.
+
+PENGAYAAN LANJUTAN: TATA KELOLA DAN PENERAPAN AI
+
+1. SIKLUS HIDUP SISTEM
+Sistem AI melewati tahap perencanaan, pengumpulan data, pengembangan, pengujian, penerapan, pemantauan, dan penghentian. Risiko dapat muncul pada setiap tahap. Keputusan untuk tidak membangun AI juga merupakan hasil perancangan yang sah jika aturan sederhana atau layanan manusia lebih tepat.
+
+2. DOKUMENTASI MODEL DAN DATA
+Dokumentasi menjelaskan tujuan, penggunaan yang sesuai, batas kemampuan, karakteristik data, ukuran evaluasi, serta kondisi yang belum diuji. Catatan perubahan membantu tim mengetahui versi mana yang menghasilkan keputusan tertentu. Tanpa dokumentasi, kesalahan sulit dilacak dan pengguna tidak dapat menilai apakah sistem cocok untuk kebutuhannya.
+
+3. KEADILAN DAN KELOMPOK TERDAMPAK
+Kinerja rata-rata dapat menyembunyikan kegagalan pada kelompok tertentu. Evaluasi perlu melihat perbedaan berdasarkan kondisi relevan dengan tetap melindungi privasi. Tidak semua perbedaan angka berarti diskriminasi, tetapi setiap kesenjangan yang bermakna perlu diselidiki: apakah berasal dari data, definisi target, proses pengumpulan, atau akses yang tidak setara.
+
+4. PENJELASAN DAN KETERLIBATAN MANUSIA
+Penjelasan yang berguna harus membantu pengguna memahami faktor yang memengaruhi keluaran dan tindakan yang dapat dilakukan. Pada keputusan berdampak tinggi, manusia perlu memiliki wewenang, waktu, dan informasi untuk meninjau hasil. Sekadar menekan tombol persetujuan tanpa memahami konteks bukan pengawasan yang bermakna.
+
+5. KEAMANAN DAN PENYALAHGUNAAN
+Sistem dapat diserang melalui masukan yang dirancang untuk memicu kesalahan, data pelatihan yang dimanipulasi, atau kebocoran informasi. Tim perlu membatasi akses, menguji skenario penyalahgunaan, memperbarui komponen, dan menyiapkan respons insiden. Pengujian keamanan harus dilakukan secara sah pada lingkungan yang diizinkan.
+
+6. AI GENERATIF DAN PEMERIKSAAN HASIL
+Model generatif dapat menghasilkan teks yang lancar tetapi tidak akurat, termasuk sumber yang tidak ada. Pengguna perlu memverifikasi fakta, kutipan, perhitungan, dan tanggal melalui sumber tepercaya. Jangan memasukkan rahasia, data pribadi, atau dokumen terbatas ke layanan yang tidak jelas kebijakan datanya. Hasil AI sebaiknya diperlakukan sebagai draf yang perlu ditinjau.
+
+7. LATIHAN KEBIJAKAN
+Rancang aturan penggunaan AI untuk perpustakaan sekolah. Jelaskan data apa yang boleh diproses, informasi apa yang dilarang, bagaimana siswa mengajukan koreksi, kapan pustakawan memeriksa rekomendasi, dan bagaimana sistem dievaluasi. Aturan harus mudah dipahami dan dapat diterapkan.
+
+RANGKUMAN
+Tata kelola AI memastikan sistem tetap dapat dipertanggungjawabkan sepanjang siklus hidupnya. Dokumentasi, keamanan, keadilan, keterlibatan manusia, dan evaluasi berkelanjutan tidak boleh menjadi tambahan belakangan.

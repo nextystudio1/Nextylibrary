@@ -373,3 +373,29 @@ Pilih klaim publik yang tidak sensitif dan periksa dengan dua sumber independen.
 
 RANGKUMAN
 Verifikasi visual dan klaim viral memerlukan konteks, sumber asli, serta pemeriksaan data. Sikap menunda berbagi ketika belum pasti merupakan bagian penting literasi media.
+
+PENGAYAAN LANJUTAN: EKOSISTEM INFORMASI DAN JURNALISME
+
+1. BENTUK SUMBER INFORMASI
+Informasi dapat berasal dari dokumen resmi, laporan penelitian, berita, wawancara, unggahan warga, atau materi promosi. Setiap bentuk memiliki tujuan dan batas. Dokumen resmi dapat menjelaskan keputusan lembaga, tetapi belum tentu memuat seluruh pengalaman masyarakat. Kesaksian memberi detail pengalaman, tetapi tidak otomatis mewakili seluruh populasi.
+
+2. MENILAI KREDIBILITAS SUMBER
+Periksa siapa pembuat informasi, keahlian atau kedudukannya, bukti yang disajikan, tanggal penerbitan, dan kemungkinan konflik kepentingan. Kredibilitas tidak cukup ditentukan oleh tampilan profesional atau jumlah pengikut. Sumber yang baik memungkinkan pembaca menelusuri dokumen, data, atau narasumber yang mendasari klaim.
+
+3. MEMBACA BERITA DENGAN TELITI
+Pisahkan judul, fakta utama, kutipan, latar belakang, dan analisis. Judul dapat menyederhanakan isi sehingga pembaca perlu membaca keseluruhan berita. Perhatikan apakah angka disertai pembanding dan periode. Pernyataan “meningkat tajam” perlu diperiksa dengan nilai awal, nilai akhir, dan rentang waktunya.
+
+4. ALGORITMA DAN RUANG GEMA
+Platform digital dapat memilih konten berdasarkan interaksi sebelumnya. Akibatnya, pengguna lebih sering melihat pandangan yang serupa dan jarang menjumpai perspektif berbeda. Ini tidak berarti semua rekomendasi salah, tetapi pengguna perlu aktif mencari sumber beragam, memeriksa bukti, dan membedakan popularitas dari kualitas.
+
+5. KOREKSI DAN TANGGUNG JAWAB
+Jika membagikan informasi keliru, koreksi sebaiknya terlihat oleh audiens yang sama. Jelaskan bagian yang salah, berikan informasi yang benar beserta sumber, dan hindari mengulang klaim keliru secara berlebihan. Jika konten menyangkut individu, lindungi data pribadi dan jangan mendorong persekusi.
+
+6. WAWANCARA DAN ETIKA
+Wawancara memerlukan tujuan yang jelas, persetujuan narasumber, dan pertanyaan yang tidak menyesatkan. Jelaskan bagaimana jawaban akan digunakan. Jangan memotong kutipan hingga mengubah makna. Untuk anak atau kelompok rentan, perlindungan dan pendampingan harus menjadi prioritas.
+
+7. PROYEK LITERASI INFORMASI
+Pilih satu isu publik yang tidak sensitif. Buat peta klaim utama, daftar sumber primer dan sekunder, tanggal publikasi, bukti pendukung, bukti yang belum tersedia, serta hal yang masih tidak diketahui. Tulis kesimpulan dengan tingkat kepastian yang sepadan. Jika bukti bertentangan, jelaskan pertentangan itu alih-alih menyembunyikannya.
+
+RANGKUMAN
+Ekosistem informasi terdiri atas pembuat, platform, institusi, dan audiens. Pembaca yang teliti memeriksa sumber, konteks, bukti, etika, dan dampak penyebaran.

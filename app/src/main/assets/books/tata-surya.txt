@@ -261,3 +261,31 @@ GLOSARIUM
 Orbit: lintasan gerak benda akibat gravitasi.
 Elips: kurva tertutup berbentuk oval.
 Manuver: perubahan terencana pada gerak atau lintasan wahana.
+
+BUMI SEBAGAI PLANET DINAMIS
+Bumi memiliki atmosfer, air dalam bentuk cair di permukaan, dan aktivitas geologi yang membantu membentuk lingkungan layak huni. Rotasi Bumi menyebabkan pergantian siang dan malam, sedangkan kemiringan sumbu rotasi bersama revolusi mengelilingi Matahari menyebabkan perubahan musim. Jarak Bumi-Matahari bukan penyebab utama musim; belahan Bumi mengalami musim berlawanan karena sudut dan lama penyinaran berubah.
+
+Bulan mengorbit Bumi dan mengalami fase karena bagian permukaannya yang diterangi Matahari terlihat dari sudut berbeda. Fase Bulan bukan disebabkan bayangan Bumi; bayangan Bumi hanya terlibat dalam gerhana Bulan. Gerhana Matahari terjadi ketika Bulan berada di antara Bumi dan Matahari, sedangkan gerhana Bulan terjadi ketika Bumi berada di antara Matahari dan Bulan.
+
+PLANET KEBUMIAN DAN RAKSASA
+Merkurius, Venus, Bumi, dan Mars disebut planet kebumian karena memiliki permukaan padat dan komposisi relatif berbatu. Jupiter dan Saturnus didominasi hidrogen serta helium, sedangkan Uranus dan Neptunus memiliki proporsi zat volatil seperti air, amonia, dan metana yang lebih besar. Pengelompokan ini menyederhanakan struktur internal yang sebenarnya kompleks.
+
+Atmosfer planet berbeda dalam komposisi, tekanan, dan suhu. Venus memiliki atmosfer sangat tebal yang menyebabkan efek rumah kaca ekstrem. Mars memiliki atmosfer tipis dan jejak geologi yang menunjukkan adanya air cair pada masa lalu. Memahami perbedaan ini membantu ilmuwan mempelajari evolusi planet dan kondisi yang memungkinkan air bertahan.
+
+ASTEROID, KOMET, DAN BENDA KECIL
+Asteroid sebagian besar tersusun dari batuan atau logam dan banyak ditemukan di sabuk asteroid antara Mars dan Jupiter. Komet mengandung es, debu, dan material volatil; ketika mendekati Matahari, pemanasan dapat membentuk koma serta ekor. Ekor komet umumnya mengarah menjauhi Matahari karena pengaruh angin surya dan tekanan radiasi, bukan selalu berada tepat di belakang arah geraknya.
+
+Meteoroid adalah benda kecil di ruang angkasa. Ketika memasuki atmosfer dan menghasilkan jejak cahaya, fenomenanya disebut meteor. Jika sisa material mencapai permukaan, disebut meteorit. Perbedaan istilah ini penting ketika membaca berita tentang benda langit.
+
+EKSPLORASI ROBOTIK DAN MANUSIA
+Wahana antariksa menggunakan instrumen untuk mempelajari planet, satelit, asteroid, dan komet. Pengamatan jarak jauh lebih aman dan dapat menjangkau lingkungan ekstrem, sedangkan misi pendaratan memberi pengukuran langsung di lokasi. Setiap misi memiliki keterbatasan daya, komunikasi, massa, dan waktu operasi.
+
+Perencanaan misi mempertimbangkan lintasan, kebutuhan energi, kondisi lingkungan, dan tujuan ilmiah. Gaya gravitasi planet dapat dimanfaatkan untuk mengubah kecepatan atau arah wahana melalui bantuan gravitasi. Keberhasilan misi dinilai dari kualitas data ilmiah, bukan hanya gambar yang menarik.
+
+LATIHAN
+1. Apa penyebab utama musim di Bumi? Kemiringan sumbu rotasi yang mengubah sudut dan lama penyinaran sepanjang revolusi.
+2. Mengapa fase Bulan berbeda dari gerhana? Fase terjadi karena geometri pencahayaan; gerhana terjadi saat benda langit saling menutupi.
+3. Bedakan meteor dan meteorit. Meteor adalah fenomena cahaya saat masuk atmosfer; meteorit adalah sisa yang mencapai permukaan.
+4. Mengapa wahana antariksa memakai bantuan gravitasi? Untuk mengubah lintasan dan energi geraknya dengan kebutuhan bahan bakar yang lebih rendah pada kondisi tertentu.
+RANGKUMAN
+Tata surya adalah sistem dinamis yang terdiri atas Matahari, planet, satelit, dan benda kecil. Gerak orbit, cahaya, atmosfer, serta eksplorasi robotik membantu menjelaskan asal-usul dan keragaman dunia di sekitar kita.

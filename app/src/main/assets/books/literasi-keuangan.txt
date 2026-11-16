@@ -276,3 +276,27 @@ RUJUKAN UNTUK PENDALAMAN
 Otoritas Jasa Keuangan: https://www.ojk.go.id/
 Bank Indonesia — Edukasi dan Perlindungan Konsumen: https://www.bi.go.id/
 Sikapi Uangmu (OJK): https://sikapiuangmu.ojk.go.id/
+
+MEMBEDAKAN PRODUK SIMPANAN DAN INVESTASI
+Simpanan umumnya ditujukan untuk menjaga dana dan memenuhi kebutuhan yang relatif dekat. Investasi bertujuan mengembangkan nilai dalam jangka waktu tertentu dan dapat mengalami penurunan nilai. Sebelum memilih produk, pahami lembaga penyedia, aturan perlindungan, biaya, risiko, akses pencairan, serta apakah produk diawasi otoritas yang berwenang. Jangan menganggap semua produk yang dipasarkan melalui aplikasi memiliki tingkat keamanan sama.
+
+BUNGA, BIAYA, DAN NILAI WAKTU UANG
+Bandingkan tingkat bunga dengan periode yang sama. Bunga 1 persen per bulan tidak sama dengan 1 persen per tahun. Biaya administrasi, provisi, penalti, dan pajak dapat mengubah hasil akhir. Untuk membandingkan pinjaman, lihat total pembayaran dan jadwal cicilan, bukan hanya angka cicilan bulanan.
+
+Nilai waktu uang menjelaskan bahwa sejumlah uang saat ini dapat berbeda nilainya dari jumlah sama di masa depan karena peluang penggunaan, inflasi, dan risiko. Konsep ini membantu membandingkan pilihan menabung, meminjam, atau menunda pembelian. Namun, perhitungan matematis harus disertai pemahaman kondisi dan aturan produk.
+
+MENGENALI PENIPUAN KEUANGAN
+Waspadai janji keuntungan tinggi tanpa risiko, bonus yang hanya diperoleh dengan merekrut anggota, tekanan untuk mentransfer segera, identitas perusahaan yang tidak jelas, dan permintaan kode OTP atau PIN. Periksa izin melalui kanal resmi regulator, bukan melalui tautan yang dikirim orang yang menawarkan produk. Jangan meminjamkan rekening atau identitas untuk menerima dan meneruskan uang orang lain.
+
+Jika menemukan tawaran mencurigakan, hentikan komunikasi, jangan mengirim data tambahan, simpan bukti seperlunya, dan bicarakan dengan orang dewasa tepercaya. Untuk pelaporan, gunakan kanal resmi lembaga terkait. Jangan mencoba menyelidiki sendiri dengan membalas atau mengirim uang.
+
+HAK KONSUMEN DAN PENGADUAN
+Konsumen berhak memperoleh informasi yang jelas mengenai biaya, risiko, syarat, dan mekanisme pengaduan. Simpan bukti transaksi serta komunikasi penting. Jika terjadi masalah, ajukan keluhan kepada penyedia melalui saluran resmi dan catat nomor laporan. Jika tidak terselesaikan, pelajari jalur pengaduan regulator atau lembaga perlindungan konsumen sesuai jenis layanan.
+
+LATIHAN
+1. Mengapa bunga perlu dibandingkan pada periode yang sama? Agar perbandingan tidak menyesatkan karena satu angka mungkin bulanan dan lainnya tahunan.
+2. Sebutkan tiga tanda tawaran investasi mencurigakan. Contoh: janji pasti untung tinggi, tekanan waktu, dan tidak jelas izin maupun model usahanya.
+3. Mengapa OTP tidak boleh dibagikan? Karena kode dapat dipakai untuk mengakses atau menyetujui transaksi akun.
+4. Apa bukti yang sebaiknya disimpan saat mengajukan pengaduan? Bukti transaksi, tanggal, identitas layanan, dan nomor laporan, dengan menjaga kerahasiaan data.
+RANGKUMAN
+Literasi keuangan berarti memahami produk, biaya, risiko, hak konsumen, dan keamanan transaksi. Keputusan yang bijak tidak didasarkan pada janji promosi, tetapi pada informasi yang dapat diverifikasi dan kesesuaian dengan kebutuhan.

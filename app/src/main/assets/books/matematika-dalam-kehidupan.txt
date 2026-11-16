@@ -396,3 +396,30 @@ LATIHAN
 2. Jelaskan arti skala peta 1:50.000.
 3. Kapan median lebih tepat daripada mean?
 4. Sebutkan dua asumsi pada model jarak = kecepatan × waktu.
+
+RASIO, PROPORSI, DAN SKALA
+Rasio membandingkan dua besaran melalui pembagian. Rasio 2:3 berarti untuk setiap dua bagian besaran pertama terdapat tiga bagian besaran kedua. Proporsi menyatakan kesetaraan dua rasio. Pastikan satuan sejenis sebelum membandingkan; membandingkan kilometer dengan menit secara langsung tidak menghasilkan rasio tanpa konteks laju.
+
+Skala peta 1:50.000 berarti satu satuan panjang pada peta mewakili 50.000 satuan yang sama di lapangan. Jika jarak pada peta 4 cm, jarak sebenarnya 200.000 cm atau 2 km. Perhitungan ini mengasumsikan peta dicetak tanpa perubahan ukuran dan jarak yang diukur sesuai jenis jarak yang dimaksud.
+
+PERSENTASE DAN PERUBAHAN
+Persentase menyatakan bagian per seratus. Diskon 20 persen dari Rp150.000 adalah Rp30.000 sehingga harga setelah diskon Rp120.000. Jika setelah diskon dikenai pajak atau biaya lain, hitung berdasarkan aturan yang berlaku; jangan menganggap semua biaya dihitung dari harga awal.
+
+Kenaikan 10 persen lalu penurunan 10 persen tidak kembali ke nilai semula. Misalnya 100 naik 10 persen menjadi 110, lalu turun 10 persen menjadi 99. Dasar perhitungan persentase kedua adalah nilai yang sudah berubah. Kesalahan memahami dasar ini sering muncul dalam berita harga, statistik, dan promosi.
+
+STATISTIKA UNTUK MEMBACA INFORMASI
+Rata-rata peka terhadap nilai ekstrem, sedangkan median lebih tahan terhadap pencilan. Modus menunjukkan nilai yang paling sering muncul. Pemilihan ukuran pusat tergantung bentuk data dan pertanyaan. Untuk pendapatan, median sering lebih mewakili nilai tengah ketika ada sedikit pendapatan yang sangat tinggi.
+
+Sampel dan cara pengumpulan data memengaruhi kesimpulan. Survei sukarela di media sosial dapat didominasi orang yang memiliki pendapat kuat atau akses internet. Sebelum menerima klaim statistik, periksa ukuran sampel, cara pemilihan, pertanyaan, periode, dan siapa yang tidak terwakili.
+
+MATEMATIKA DALAM PERENCANAAN
+Matematika membantu membandingkan pilihan transportasi, penggunaan energi, anggaran kegiatan, dan kebutuhan bahan. Model jarak = kecepatan × waktu berlaku ketika kecepatan konstan. Perjalanan nyata dipengaruhi berhenti, perubahan kecepatan, kondisi jalan, dan cuaca. Model adalah alat untuk memperkirakan, bukan gambaran sempurna.
+
+LATIHAN DAN PEMBAHASAN
+1. Pada peta skala 1:25.000, jarak dua tempat 8 cm. Jarak sebenarnya 8 × 25.000 = 200.000 cm = 2 km.
+2. Harga Rp80.000 mendapat diskon 15 persen. Diskon Rp12.000, harga akhir Rp68.000 sebelum biaya lain.
+3. Data 4, 5, 5, 6, 30. Rata-rata 10, median 5, modus 5. Nilai 30 membuat rata-rata lebih tinggi.
+4. Mengapa kecepatan rata-rata tidak selalu sama dengan rata-rata dari dua angka kecepatan? Karena lama waktu pada setiap kecepatan dapat berbeda; gunakan total jarak dibagi total waktu.
+
+RANGKUMAN
+Matematika sehari-hari melibatkan rasio, skala, persentase, statistika, dan pemodelan. Keterampilan utama bukan hanya menghitung, tetapi juga memilih metode, menjaga satuan, memahami asumsi, dan menafsirkan hasil dengan hati-hati.

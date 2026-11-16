@@ -224,3 +224,27 @@ Komunikasi ilmiah untuk publik menggunakan bahasa yang mudah dipahami tanpa meng
 LATIHAN TERPADU
 Susun rancangan penelitian sederhana tentang hubungan kebiasaan membaca dengan pemahaman materi. Definisikan kedua konsep secara terukur, tentukan sampel yang realistis, jelaskan potensi faktor pengganggu, dan buat prosedur yang tidak mengumpulkan data pribadi yang tidak diperlukan.
 Evaluasi rancangan teman dengan memeriksa apakah pertanyaan dapat diuji, metode sesuai, data dapat dipercaya, etika dipenuhi, dan kesimpulan yang direncanakan tidak melampaui bukti.
+
+MERANCANG PENELITIAN YANG DAPAT DIULANG
+Rancangan penelitian yang baik menjelaskan pertanyaan, variabel, bahan, prosedur, cara pencatatan, dan metode analisis sebelum pengamatan dimulai. Prosedur harus cukup rinci agar kelompok lain dapat mengulangnya. Jika ada perubahan saat kegiatan berlangsung, catat perubahan dan alasannya; jangan mengubah prosedur diam-diam agar hasil tampak sesuai harapan.
+
+Variabel bebas adalah faktor yang sengaja diubah, variabel terikat adalah hasil yang diukur, dan variabel kontrol adalah kondisi yang dijaga tetap sejauh mungkin. Dalam penelitian pengaruh cahaya terhadap pertumbuhan kecambah, intensitas cahaya dapat menjadi variabel bebas, pertambahan tinggi menjadi variabel terikat, sedangkan jenis benih, media, jumlah air, dan lama pengamatan perlu dikendalikan. Dalam sistem biologis, tidak semua faktor dapat dikontrol sempurna; keterbatasan itu harus dijelaskan.
+
+PENGUKURAN, SAMPEL, DAN KETIDAKPASTIAN
+Alat ukur memiliki resolusi dan batas ketelitian. Penggaris dengan skala milimeter tidak mendukung pelaporan panjang hingga enam angka desimal. Pengukuran berulang membantu mengenali variasi, tetapi pengulangan harus independen dan dilakukan dengan prosedur konsisten. Catat data mentah sebelum menghitung rata-rata agar proses analisis dapat diperiksa.
+
+Sampel kecil dapat menghasilkan perkiraan yang berubah-ubah. Sampel yang lebih besar tidak otomatis baik jika cara pemilihannya bias. Misalnya, survei kebiasaan membaca yang hanya dibagikan pada anggota klub literasi tidak mewakili seluruh siswa. Jelaskan siapa yang berpeluang terpilih, siapa yang tidak terjangkau, dan apakah ada peserta yang tidak menjawab.
+
+ANALISIS DATA DAN VISUALISASI
+Mulailah analisis dengan memeriksa data kosong, nilai yang tidak masuk akal, satuan, dan kemungkinan salah catat. Jangan menghapus pencilan hanya karena berbeda dari harapan. Periksa apakah pencilan berasal dari kesalahan pencatatan atau memang variasi nyata. Grafik harus memiliki judul, label sumbu, satuan, dan keterangan sumber.
+
+Rata-rata, median, dan modus merangkum pusat data dengan cara berbeda. Rentang dan kuartil membantu melihat sebaran. Hubungan pada diagram pencar dapat menunjukkan pola, tetapi tidak membuktikan sebab-akibat. Tuliskan hasil secara proporsional: “pada sampel ini ditemukan hubungan” lebih tepat daripada “X pasti menyebabkan Y” jika rancangan tidak menguji sebab.
+
+INTEGRITAS DAN KOMUNIKASI ILMIAH
+Catat semua hasil, termasuk hasil yang tidak mendukung dugaan awal. Memilih hanya data yang sesuai harapan disebut pelaporan selektif dan dapat menyesatkan. Pisahkan hasil pengamatan dari interpretasi. Jika menggunakan sumber, catat penulis, judul, penerbit, tahun, dan alamat atau identitas dokumen. Jangan membuat rujukan yang belum dibaca.
+
+LATIHAN PENERAPAN
+Rancang penyelidikan sederhana untuk membandingkan waktu larut gula pada suhu air berbeda. Tentukan pertanyaan, variabel bebas, variabel terikat, variabel kontrol, jumlah pengulangan, alat ukur, tabel data, dan batas keselamatan. Gunakan air bersuhu aman dan minta pengawasan guru. Setelah data diperoleh, buat grafik dan jelaskan apakah hasil mendukung dugaan awal. Jangan mengubah data untuk menghasilkan pola yang diinginkan.
+
+RANGKUMAN
+Metode ilmiah bukan urutan kaku yang selalu sama, melainkan cara berpikir terbuka yang menghubungkan pertanyaan, bukti, analisis, dan evaluasi. Penelitian yang kuat dapat diperiksa, diulang, mengakui keterbatasan, dan bersedia direvisi ketika bukti baru muncul.

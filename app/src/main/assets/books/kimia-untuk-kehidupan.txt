@@ -364,3 +364,31 @@ Indikator: zat atau alat yang menunjukkan sifat tertentu melalui perubahan teruk
 RUJUKAN UNTUK PENDALAMAN
 OpenStax Chemistry 2e: https://openstax.org/details/books/chemistry-2e
 Royal Society of Chemistry — Education: https://edu.rsc.org/
+
+KONSENTRASI DAN PENGENCERAN
+Konsentrasi menyatakan banyaknya zat terlarut dalam sejumlah larutan atau pelarut. Salah satu satuan yang umum adalah molaritas, yaitu jumlah mol zat terlarut per liter larutan. Persamaan M = n/V menggunakan volume larutan dalam liter. Saat menyiapkan larutan, perhatikan apakah volume yang dimaksud adalah volume akhir larutan, bukan hanya volume pelarut yang ditambahkan.
+
+Pengenceran menurunkan konsentrasi dengan menambahkan pelarut tanpa mengubah jumlah mol zat terlarut. Untuk kondisi sederhana, M1V1 = M2V2. Rumus ini berlaku jika zat terlarut tidak bereaksi atau hilang selama proses. Dalam laboratorium, ikuti prosedur guru dan petunjuk keselamatan; jangan mencampur bahan rumah tangga atau bahan kimia yang tidak diketahui.
+
+ASAM, BASA, DAN PENYANGGA
+Asam dan basa dapat dijelaskan melalui beberapa teori. Dalam larutan air, asam Brønsted-Lowry menyumbangkan proton, sedangkan basa menerimanya. Skala pH berkaitan dengan konsentrasi ion hidrogen dan bersifat logaritmik: perubahan satu satuan pH menunjukkan perubahan sepuluh kali pada aktivitas ion hidrogen dalam pendekatan larutan encer.
+
+Larutan penyangga menahan perubahan pH ketika sedikit asam atau basa ditambahkan. Sistem penyangga penting dalam darah dan banyak proses biologis. Kapasitas penyangga terbatas; penambahan zat terlalu banyak tetap dapat mengubah pH secara besar. Karena itu, “penyangga” bukan berarti pH tidak mungkin berubah.
+
+REAKSI REDOKS DAN ELEKTROKIMIA
+Reaksi oksidasi-reduksi melibatkan perpindahan elektron atau perubahan bilangan oksidasi. Oksidasi adalah pelepasan elektron, reduksi adalah penerimaan elektron. Dalam sel galvanik, reaksi spontan menghasilkan energi listrik. Dalam elektrolisis, energi listrik digunakan untuk mendorong reaksi yang tidak spontan.
+
+Korosi besi merupakan proses elektrokimia yang dipengaruhi air dan oksigen. Pelapisan, pengecatan, pemilihan bahan, dan perlindungan katodik dapat mengurangi korosi. Pilihan metode bergantung pada lingkungan, biaya, dan kebutuhan perawatan.
+
+KIMIA PANGAN DAN KESEHATAN
+Karbohidrat, protein, lemak, vitamin, mineral, dan air memiliki fungsi berbeda dalam tubuh. Kimia membantu menjelaskan perubahan saat memasak, fermentasi, penyimpanan, dan pencernaan. Label pangan perlu dibaca berdasarkan ukuran sajian, kandungan per sajian, serta kebutuhan individu. Satu zat tidak dapat dinilai hanya dari namanya tanpa mempertimbangkan jumlah dan konteks.
+
+Bahan tambahan pangan digunakan untuk fungsi tertentu seperti menjaga kestabilan atau memperpanjang masa simpan dan harus mengikuti ketentuan keamanan. “Alami” tidak otomatis aman, dan “sintetis” tidak otomatis berbahaya. Penilaian harus berdasarkan identitas zat, dosis, paparan, dan bukti ilmiah.
+
+LATIHAN
+1. Jika 0,2 mol zat dilarutkan hingga volume 0,5 L, molaritasnya 0,4 M.
+2. Mengapa skala pH disebut logaritmik? Karena perubahan satu unit berkaitan dengan perubahan sepuluh kali pada aktivitas ion hidrogen.
+3. Bedakan sel galvanik dan elektrolisis. Sel galvanik menghasilkan listrik dari reaksi spontan; elektrolisis menggunakan listrik untuk mendorong reaksi.
+4. Mengapa label pangan harus dibaca per sajian? Karena angka kandungan bergantung pada ukuran sajian dan jumlah yang dikonsumsi.
+RANGKUMAN
+Kimia kehidupan menjelaskan konsentrasi larutan, asam-basa, reaksi redoks, korosi, dan pangan. Konsep kimia membantu pengambilan keputusan, tetapi praktik laboratorium harus mengikuti prosedur keselamatan dan pengawasan yang benar.

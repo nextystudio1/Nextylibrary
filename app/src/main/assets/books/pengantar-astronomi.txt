@@ -220,3 +220,31 @@ BAB LANJUTAN — MEMBACA KLAIM ASTRONOMI SECARA KRITIS
 Berita tentang penemuan astronomi sering menyederhanakan hasil penelitian. Periksa apakah informasi berasal dari observatorium, lembaga ilmiah, jurnal, atau siaran pers yang menjelaskan metode. Bedakan hasil pengamatan, interpretasi, dan spekulasi.
 Satu sinyal yang menarik belum tentu menjadi penemuan terkonfirmasi. Peneliti perlu memeriksa kemungkinan gangguan instrumen, kesalahan analisis, dan penjelasan alternatif. Replikasi atau pengamatan independen memperkuat keyakinan.
 Istilah seperti “mirip Bumi” dapat merujuk pada satu karakteristik, misalnya ukuran atau jarak orbit, bukan bukti bahwa planet tersebut memiliki lautan, atmosfer, atau kehidupan. Gunakan bahasa yang sesuai dengan bukti.
+
+CAHAYA SEBAGAI PEMBAWA INFORMASI
+Astronom sering mempelajari objek jauh melalui cahaya yang diterimanya. Spektrum memisahkan cahaya menurut panjang gelombang sehingga garis-garis tertentu dapat memberi petunjuk tentang unsur kimia, suhu, dan gerak objek. Pergeseran garis spektrum ke panjang gelombang lebih panjang atau lebih pendek dapat menunjukkan gerak relatif melalui efek Doppler.
+
+Kecerlangan yang tampak dipengaruhi luminositas intrinsik dan jarak. Bintang yang tampak redup belum tentu menghasilkan energi sedikit; bisa jadi letaknya sangat jauh. Astronom membedakan kecerlangan tampak dari luminositas untuk menghindari kesimpulan yang keliru. Debu antarbintang juga dapat menyerap atau menghamburkan cahaya sehingga pengamatan perlu dikoreksi.
+
+JARAK ASTRONOMI
+Paralaks mengukur perubahan posisi tampak objek dekat terhadap latar yang lebih jauh ketika posisi pengamat berubah. Metode ini menjadi dasar pengukuran jarak bintang relatif dekat. Untuk jarak lebih besar, astronom menggunakan metode lain seperti bintang variabel tertentu dan supernova tipe Ia, masing-masing dengan kalibrasi serta keterbatasan.
+
+Satuan astronomi digunakan untuk jarak dalam tata surya, tahun cahaya untuk jarak yang ditempuh cahaya selama satu tahun, dan parsec dalam astronomi. Tahun cahaya adalah satuan jarak, bukan waktu. Menyebut satuan secara tepat membantu membangun gambaran skala alam semesta.
+
+SIKLUS HIDUP BINTANG
+Bintang terbentuk dari awan gas dan debu yang mengalami kontraksi gravitasi. Ketika bagian pusat cukup panas dan padat, fusi nuklir dapat dimulai. Selama sebagian besar hidupnya, bintang berada pada tahap deret utama, ketika tekanan dari proses energi di bagian dalam menyeimbangkan kecenderungan gravitasi untuk mengerut.
+
+Massa awal sangat memengaruhi evolusi bintang. Bintang bermassa rendah dapat berkembang menjadi raksasa merah dan berakhir sebagai katai putih. Bintang masif dapat mengalami tahap akhir yang lebih energik dan meninggalkan bintang neutron atau lubang hitam, bergantung pada kondisi. Tidak semua bintang berakhir dengan cara yang sama.
+
+GALAKSI DAN STRUKTUR ALAM SEMESTA
+Galaksi adalah sistem besar bintang, gas, debu, dan materi gelap yang terikat gravitasi. Galaksi memiliki bentuk spiral, elips, atau tidak beraturan. Matahari berada di galaksi Bima Sakti, bukan di pusatnya. Galaksi juga berinteraksi dan dapat bergabung dalam rentang waktu sangat panjang.
+
+Pengamatan pergeseran merah galaksi jauh menunjukkan bahwa ruang alam semesta mengembang. Model kosmologi modern menggabungkan pengamatan radiasi latar gelombang mikro kosmik, distribusi galaksi, dan unsur ringan. Model terus diuji dan diperbaiki; pertanyaan tentang materi gelap dan energi gelap masih menjadi bidang penelitian aktif.
+
+LATIHAN
+1. Mengapa spektrum bintang berguna? Karena garis spektrum memberi petunjuk komposisi dan kondisi fisik.
+2. Apakah tahun cahaya satuan waktu? Bukan, tahun cahaya adalah jarak.
+3. Apa faktor utama yang memengaruhi evolusi bintang? Massa awal, bersama komposisi dan interaksi lingkungannya.
+4. Mengapa pengukuran jarak jauh memerlukan beberapa metode? Karena satu metode memiliki batas jangkauan dan ketidakpastian.
+RANGKUMAN
+Astronomi mengubah cahaya menjadi bukti tentang objek yang tidak dapat dijangkau langsung. Spektrum, jarak, evolusi bintang, dan struktur galaksi memperlihatkan bagaimana pengamatan, model, serta pengukuran saling menguatkan.

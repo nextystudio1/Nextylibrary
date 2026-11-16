@@ -343,3 +343,24 @@ GLOSARIUM
 Ambang keputusan: batas skor yang digunakan untuk menentukan keluaran kategori.
 Evaluasi lintas kelompok: pemeriksaan kinerja pada kelompok data yang berbeda.
 Pengawasan manusia: keterlibatan manusia untuk meninjau dan bertanggung jawab atas penggunaan sistem.
+
+BAGAIMANA MODEL BAHASA BEKERJA
+Model bahasa mempelajari pola dari kumpulan teks dan menghasilkan rangkaian token yang dinilai mungkin mengikuti konteks. Proses ini dapat menghasilkan ringkasan, penjelasan, atau draf, tetapi kelancaran bahasa tidak sama dengan pemahaman manusia atau kebenaran fakta. Model dapat menggabungkan informasi secara keliru, mengarang rujukan, atau gagal mengenali bahwa pertanyaan tidak memiliki jawaban yang cukup.
+
+Token adalah unit teks yang diproses model; satu kata dapat terdiri atas satu atau beberapa token. Konteks adalah informasi yang tersedia dalam satu proses. Jika konteks terbatas, model dapat kehilangan rincian awal atau membuat asumsi yang tidak diminta. Karena itu, instruksi yang jelas, batasan, dan pemeriksaan keluaran penting.
+
+PROMPT YANG BERTANGGUNG JAWAB
+Permintaan yang baik menjelaskan tujuan, pembaca, konteks, bentuk keluaran, dan batasan. Contoh: “Jelaskan fotosintesis untuk siswa SMP dalam lima bagian, sertakan analogi, lalu sebutkan bagian analogi yang tidak sepenuhnya sama dengan proses biologis.” Instruksi tersebut lebih berguna daripada sekadar “jelaskan fotosintesis”. Namun prompt yang baik tetap tidak menjamin jawaban benar.
+
+Gunakan AI untuk membantu membuat kerangka, menghasilkan pertanyaan latihan, atau menjelaskan konsep dengan cara berbeda. Periksa fakta, rumus, kutipan, dan sumber secara mandiri. Untuk tugas sekolah, ikuti aturan guru mengenai penggunaan AI dan jelaskan bantuan yang digunakan jika diminta. Jangan menyerahkan hasil AI sebagai pengalaman, pengamatan, atau karya mandiri yang sebenarnya tidak dilakukan.
+
+BIAS, REPRESENTASI, DAN DAMPAK
+Data pelatihan dapat kurang mewakili bahasa daerah, kelompok tertentu, atau konteks lokal. Akibatnya, model dapat memberi jawaban yang lebih buruk bagi sebagian pengguna. Evaluasi harus menguji variasi bahasa, tingkat kemampuan, konteks, serta kelompok yang terdampak. Penilaian tidak cukup hanya memakai satu contoh yang tampak berhasil.
+
+Sistem AI yang digunakan untuk keputusan penting perlu memiliki jalur banding, peninjauan manusia, dokumentasi, dan pemantauan setelah diterapkan. Pengguna harus mengetahui kapan mereka berinteraksi dengan sistem otomatis dan bagaimana meminta koreksi. Pihak yang membuat atau menggunakan sistem bertanggung jawab atas dampak keputusan, bukan menyalahkan mesin semata.
+
+PROYEK KELAS: UJI KUALITAS JAWABAN
+Pilih topik pelajaran yang sudah dipahami guru. Buat lima pertanyaan dengan tingkat kesulitan berbeda, lalu minta sistem AI menjawab. Periksa setiap jawaban menggunakan buku pelajaran atau sumber tepercaya. Catat jenis kesalahan: fakta, hitungan, penalaran, konteks, atau sumber. Jangan memasukkan nama, nilai, foto, atau informasi pribadi siswa. Sajikan hasil sebagai evaluasi alat, bukan kompetisi untuk mencari jawaban yang paling meyakinkan.
+
+RANGKUMAN
+AI dapat memperluas kesempatan belajar jika dipakai sebagai alat bantu yang diperiksa. Pemahaman tentang data, token, konteks, bias, dan keterbatasan membantu pengguna membuat keputusan lebih aman dan adil. Tanggung jawab akademik serta penilaian akhir tetap berada pada manusia.

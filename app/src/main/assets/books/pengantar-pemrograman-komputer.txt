@@ -259,3 +259,32 @@ Programmer bertanggung jawab pada dampak sistem yang dibuat. Pertimbangkan akses
 
 PROYEK AKHIR
 Rancang aplikasi daftar tugas sederhana. Tuliskan kebutuhan pengguna, model data, alur tambah-ubah-hapus, validasi, serta skenario pengujian. Buat pseudocode sebelum menulis kode. Setelah berjalan, minta orang lain mencoba dan catat kesulitan mereka tanpa mengumpulkan informasi pribadi yang tidak diperlukan.
+
+MERANCANG PROGRAM SEBELUM MENULIS KODE
+Program yang baik dimulai dari kebutuhan pengguna. Tuliskan masalah, siapa yang akan memakai program, masukan yang tersedia, keluaran yang diharapkan, dan batasan. Pecah masalah besar menjadi tugas kecil. Diagram alir atau pseudocode membantu menguji logika sebelum memilih bahasa pemrograman.
+
+Algoritma adalah urutan langkah yang terdefinisi untuk menyelesaikan masalah. Algoritma harus memiliki masukan dan keluaran yang jelas, serta berhenti dalam jumlah langkah yang wajar. Dua algoritma dapat menyelesaikan masalah yang sama dengan efisiensi berbeda. Pemilihan algoritma mempertimbangkan ukuran data, memori, waktu, dan kemudahan pemeliharaan.
+
+STRUKTUR DATA DASAR
+Variabel menyimpan nilai yang dapat digunakan selama program berjalan. Tipe data membantu menentukan operasi yang sesuai, misalnya bilangan bulat, bilangan pecahan, teks, dan nilai logika. Array atau daftar menyimpan kumpulan elemen berurutan; struktur seperti kamus memetakan kunci ke nilai. Pilih struktur berdasarkan cara data dicari, ditambah, atau diubah.
+
+Fungsi membagi program menjadi bagian yang memiliki tugas khusus. Parameter menerima masukan, sedangkan nilai kembali menyampaikan hasil. Fungsi yang kecil dan memiliki satu tanggung jawab lebih mudah diuji. Hindari mengulang kode yang sama jika dapat dibuat fungsi yang jelas, tetapi jangan membuat abstraksi berlebihan untuk tugas sangat sederhana.
+
+PENGUJIAN DAN DEBUGGING
+Kesalahan sintaks terjadi ketika aturan bahasa dilanggar; kesalahan logika menghasilkan keluaran yang salah meskipun program berjalan. Pengujian unit memeriksa bagian kecil, pengujian integrasi memeriksa hubungan antarbagiannya, dan pengujian penerimaan menilai apakah kebutuhan pengguna terpenuhi. Uji kondisi normal, batas, masukan kosong, dan masukan tidak valid.
+
+Debugging adalah proses menemukan dan memperbaiki penyebab kesalahan. Baca pesan kesalahan, buat contoh kecil yang dapat diulang, periksa asumsi, dan ubah satu hal pada satu waktu. Setelah perbaikan, jalankan kembali pengujian agar perubahan tidak merusak fitur lain. Catat keputusan penting supaya tim memahami alasan perubahan.
+
+KEAMANAN DAN PRIVASI PERANGKAT LUNAK
+Jangan menyimpan kata sandi dalam teks biasa atau menaruh kunci rahasia di kode publik. Validasi masukan, batasi hak akses, perbarui dependensi, dan hindari mengumpulkan data yang tidak dibutuhkan. Pesan kesalahan sebaiknya membantu pengguna tanpa membocorkan informasi sensitif. Untuk proyek sekolah, gunakan data contoh, bukan data pribadi teman.
+
+PROYEK PRAKTIK: DAFTAR TUGAS
+Buat program daftar tugas dengan fitur menambah, menampilkan, menandai selesai, dan menghapus tugas. Tentukan struktur data, aturan validasi, serta perilaku ketika daftar kosong. Buat sedikitnya lima skenario uji. Minta teman mencoba antarmuka dan catat apakah label serta alur mudah dipahami. Jelaskan batasan program dan rencana pengembangan berikutnya.
+
+LATIHAN
+1. Mengapa pseudocode berguna? Karena membantu memeriksa alur logika sebelum terikat sintaks bahasa tertentu.
+2. Apa beda kesalahan sintaks dan logika? Sintaks melanggar aturan bahasa; logika membuat hasil salah meski program berjalan.
+3. Mengapa program perlu menguji masukan kosong? Karena kondisi batas sering memunculkan kesalahan yang tidak terlihat pada contoh normal.
+4. Sebutkan dua praktik keamanan dasar. Contoh: validasi masukan dan tidak menyimpan rahasia di kode publik.
+RANGKUMAN
+Pemrograman adalah proses merancang solusi, menulis instruksi, menguji, memperbaiki, dan merawat program. Keterampilan teknis perlu disertai pemahaman kebutuhan pengguna, keamanan, privasi, serta dokumentasi.

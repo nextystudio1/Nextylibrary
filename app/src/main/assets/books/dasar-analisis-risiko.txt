@@ -211,3 +211,25 @@ Risiko berubah ketika kondisi, teknologi, orang, atau aturan berubah. Tinjau ula
 
 LATIHAN
 Pilih kegiatan sekolah seperti acara olahraga atau pameran. Buat daftar lima risiko, penyebab, dampak, pihak terdampak, tindakan pencegahan, dan cara memeriksa apakah tindakan tersebut efektif. Jangan mengabaikan risiko yang kecil kemungkinannya tetapi berdampak besar.
+
+BAB 11. MENETAPKAN KRITERIA DAN TOLERANSI RISIKO
+Kriteria risiko membantu organisasi menentukan tingkat risiko yang dapat diterima, perlu dikurangi, atau membutuhkan keputusan khusus. Kriteria harus disesuaikan dengan tujuan, peraturan, sumber daya, serta dampak pada manusia dan lingkungan. Toleransi risiko bukan izin untuk mengabaikan keselamatan. Keputusan perlu didokumentasikan, termasuk siapa yang berwenang menyetujui dan kapan penilaian harus ditinjau kembali.
+
+BAB 12. ANALISIS AKAR PENYEBAB
+Ketika masalah terjadi, analisis tidak berhenti pada kesalahan terakhir yang terlihat. Periksa urutan kejadian, kondisi kerja, komunikasi, desain proses, pelatihan, dan pengawasan. Teknik bertanya berulang tentang alasan dapat membantu menemukan faktor sistemik, tetapi jangan memaksakan satu penyebab tunggal. Beberapa faktor sering berinteraksi. Kesimpulan perlu didukung catatan, wawancara, dan bukti yang dapat diperiksa.
+
+BAB 13. RISIKO PROYEK DAN PERUBAHAN
+Proyek memiliki risiko terkait jadwal, biaya, mutu, sumber daya, ketergantungan, dan perubahan kebutuhan. Daftar risiko perlu mencatat pemilik risiko, indikator awal, respons, serta status terkini. Perubahan lingkup atau jadwal dapat memunculkan risiko baru. Tinjauan berkala membantu tim mengantisipasi masalah sebelum dampaknya membesar. Komunikasi terbuka lebih berguna daripada menyembunyikan keterlambatan.
+
+BAB 14. RISIKO DIGITAL DAN PRIVASI
+Sistem digital memiliki risiko seperti kehilangan data, akses tidak sah, gangguan layanan, dan kesalahan konfigurasi. Penilaian dimulai dengan mengidentifikasi aset, pihak yang memiliki akses, jenis data, dan dampak bila layanan terganggu. Prinsip minimisasi data dan pembatasan hak akses dapat mengurangi paparan. Rencana pemulihan perlu diuji secara berkala dan disesuaikan dengan tingkat kepentingan layanan.
+
+BAB 15. INDIKATOR DAN EVALUASI PENGENDALIAN
+Pengendalian harus dinilai berdasarkan indikator yang terukur dan relevan. Indikator awal dapat berupa penyelesaian pemeriksaan atau pelatihan, sedangkan indikator hasil dapat berupa penurunan kejadian atau gangguan. Angka perlu ditafsirkan dengan konteks; peningkatan laporan dapat menunjukkan budaya pelaporan yang lebih baik, bukan selalu memburuknya kondisi. Evaluasi harus memeriksa apakah tindakan benar-benar mengurangi risiko dan apakah muncul dampak samping.
+
+LATIHAN TERAPAN
+1. Apa fungsi kriteria risiko dalam pengambilan keputusan?
+2. Mengapa analisis akar penyebab tidak boleh hanya menyalahkan individu?
+3. Sebutkan lima kategori risiko proyek.
+4. Bagaimana prinsip minimisasi data membantu mengurangi risiko digital?
+5. Berikan contoh indikator awal dan indikator hasil untuk satu pengendalian.

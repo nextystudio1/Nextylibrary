@@ -60,22 +60,22 @@ CATATAN PENULIS
 Naskah orisinal edukasi Nexty Studio. Contoh tidak menggantikan nasihat keuangan profesional dan tidak merekomendasikan produk keuangan tertentu.
 
 PENDALAMAN: MATEMATIKA UNTUK KEPUTUSAN KEUANGAN
-BAB 7 — PERSENTASE DAN PERBANDINGAN
+BAB 10 — PERSENTASE DAN PERBANDINGAN
 Persentase menyatakan bagian per seratus. Untuk membandingkan potongan harga, hitung persentase dari harga acuan yang sama. Diskon berturut-turut tidak dijumlahkan begitu saja: diskon kedua biasanya diterapkan pada harga setelah diskon pertama.
 Rasio dan proporsi membantu membandingkan nilai dengan satuan yang sama. Saat membandingkan harga per unit, gunakan berat atau volume bersih dan periksa apakah kualitas serta ukuran kemasan setara.
-BAB 8 — BUNGA SEDERHANA DAN MAJEMUK
+BAB 11 — BUNGA SEDERHANA DAN MAJEMUK
 Pada bunga sederhana, bunga dihitung dari pokok awal. Pada bunga majemuk, bunga yang telah diperoleh dapat ikut menghasilkan bunga berikutnya. Rumus majemuk bergantung pada frekuensi penggandaan dan tingkat per periode.
 Pastikan tingkat bunga dan periode menggunakan satuan waktu yang konsisten. Tingkat tahunan tidak boleh langsung dimasukkan ke rumus bulanan tanpa konversi yang tepat. Biaya dan pajak dapat mengubah hasil bersih.
-BAB 9 — ANGSURAN DAN TOTAL BIAYA
+BAB 12 — ANGSURAN DAN TOTAL BIAYA
 Total pembayaran pinjaman adalah gabungan seluruh cicilan dan biaya terkait. Untuk membandingkan penawaran, gunakan periode, pokok, serta jenis biaya yang sama. Bunga tetap dan bunga mengambang memiliki risiko berbeda jika kondisi pasar berubah.
 Tabel amortisasi menunjukkan bagian pembayaran yang digunakan untuk pokok dan bunga pada setiap periode. Pada banyak skema, komposisinya berubah dari waktu ke waktu. Pelajari jadwal resmi sebelum menyetujui kontrak.
-BAB 10 — INFLASI DAN NILAI UANG
+BAB 13 — INFLASI DAN NILAI UANG
 Inflasi mengurangi daya beli uang jika pendapatan atau tabungan tidak tumbuh sebanding dengan harga. Nilai nominal adalah angka uang yang tertulis, sedangkan nilai riil memperhitungkan perubahan tingkat harga. Perbandingan antarwaktu perlu menggunakan dasar harga yang sesuai.
 Inflasi rata-rata tidak sama dengan perubahan biaya setiap rumah tangga. Keranjang belanja tiap keluarga berbeda, sehingga dampak yang dirasakan juga dapat berbeda.
-BAB 11 — STATISTIKA PENGELUARAN
+BAB 14 — STATISTIKA PENGELUARAN
 Rata-rata pengeluaran dapat dipengaruhi satu transaksi yang sangat besar. Median sering memberi gambaran nilai tengah yang lebih tahan terhadap pencilan. Diagram batang, garis, dan lingkaran memiliki kegunaan berbeda; pilih grafik sesuai pertanyaan.
 Pisahkan kategori agar tidak terjadi penghitungan ganda. Periksa periode pencatatan dan transaksi yang belum masuk. Data yang lengkap dan konsisten lebih berguna daripada angka yang tampak presisi tetapi banyak hilang.
-BAB 12 — MODEL DAN ASUMSI
+BAB 15 — MODEL DAN ASUMSI
 Model matematika menyederhanakan kenyataan. Kalkulator anggaran, simulasi tabungan, dan perbandingan cicilan bergantung pada asumsi seperti pendapatan tetap, tingkat bunga, dan tidak adanya biaya tambahan. Jika asumsi berubah, hasil juga berubah.
 Gunakan beberapa skenario, misalnya kondisi dasar dan kondisi pendapatan lebih rendah. Hasil model bukan jaminan masa depan, melainkan alat untuk memahami kemungkinan dan konsekuensi.
 LATIHAN
@@ -84,25 +84,25 @@ LATIHAN
 3. Mengapa median dapat lebih tepat daripada rata-rata? Jawaban: median lebih tahan terhadap nilai ekstrem.
 
 PENDALAMAN LANJUTAN: PERENCANAAN KEUANGAN DAN PENGAMBILAN KEPUTUSAN
-BAB 7 — ANGGARAN DAN ARUS KAS
+BAB 16 — ANGGARAN DAN ARUS KAS
 Anggaran mencatat pemasukan dan pengeluaran selama periode tertentu. Pengeluaran tetap seperti biaya rutin berbeda dari pengeluaran variabel yang berubah menurut penggunaan. Catatan arus kas membantu melihat apakah pengeluaran sesuai kemampuan.
 Anggaran bukan hukuman, melainkan alat untuk membuat prioritas. Tinjau secara berkala dan sesuaikan ketika pendapatan atau kebutuhan berubah. Sisihkan ruang untuk pengeluaran tak terduga.
-BAB 8 — TABUNGAN DAN BUNGA
+BAB 17 — TABUNGAN DAN BUNGA
 Bunga sederhana dihitung dari pokok awal, sedangkan bunga majemuk menghitung bunga atas pokok dan bunga yang telah terkumpul. Frekuensi penggandaan memengaruhi hasil akhir. Perbandingan produk harus memperhatikan suku bunga efektif, biaya, pajak, dan ketentuan penarikan.
 Nilai uang di masa depan berbeda dari nilai saat ini karena waktu dan peluang penggunaan dana. Kalkulasi harus menggunakan periode dan satuan bunga yang konsisten.
-BAB 9 — INFLASI DAN DAYA BELI
+BAB 18 — INFLASI DAN DAYA BELI
 Inflasi mengurangi daya beli ketika harga umum naik. Tabungan yang menghasilkan bunga di bawah inflasi dapat mengalami penurunan daya beli riil meskipun saldo nominal bertambah.
 Bandingkan hasil investasi setelah memperhitungkan inflasi, biaya, dan pajak. Jangan menganggap hasil masa lalu menjamin hasil masa depan.
-BAB 10 — UTANG DAN BIAYA PEMBIAYAAN
+BAB 19 — UTANG DAN BIAYA PEMBIAYAAN
 Utang adalah kewajiban yang harus dibayar sesuai perjanjian. Sebelum mengambil pembiayaan, pahami jumlah pokok, bunga atau margin, biaya administrasi, denda, jangka waktu, dan konsekuensi keterlambatan.
 Angsuran yang tampak kecil dapat menjadi mahal jika jangka waktu panjang atau biaya tambahan besar. Bandingkan total pembayaran dan kemampuan membayar dalam berbagai kondisi.
-BAB 11 — RISIKO, ASURANSI, DAN DANA DARURAT
+BAB 20 — RISIKO, ASURANSI, DAN DANA DARURAT
 Risiko keuangan dapat berasal dari kehilangan pendapatan, kerusakan aset, atau kebutuhan mendadak. Dana darurat membantu menghadapi kejadian tak terencana tanpa harus mengambil utang mahal. Besarnya dana disesuaikan dengan kondisi rumah tangga dan kestabilan pendapatan.
 Asuransi memindahkan sebagian risiko sesuai polis. Periksa pengecualian, masa tunggu, batas pertanggungan, premi, dan prosedur klaim. Produk harus dipahami sebelum dibeli.
-BAB 12 — INVESTASI DAN DIVERSIFIKASI
+BAB 21 — INVESTASI DAN DIVERSIFIKASI
 Investasi memiliki hubungan antara potensi hasil, risiko, likuiditas, dan jangka waktu. Diversifikasi menyebarkan dana ke beberapa aset agar ketergantungan pada satu aset berkurang, tetapi tidak menghapus seluruh risiko.
 Waspadai janji keuntungan pasti tinggi, tekanan untuk segera transfer, dan skema yang tidak transparan. Periksa legalitas penyedia melalui otoritas resmi dan jangan menggunakan uang kebutuhan pokok untuk spekulasi.
-BAB 13 — TUJUAN KEUANGAN DAN EVALUASI
+BAB 22 — TUJUAN KEUANGAN DAN EVALUASI
 Tujuan yang jelas memiliki nilai, jangka waktu, dan prioritas. Pisahkan tujuan jangka pendek dan panjang karena instrumen yang sesuai dapat berbeda. Tinjau rencana ketika kondisi keluarga berubah.
 Keputusan keuangan yang baik memperhitungkan kebutuhan, kemampuan, dan risiko, bukan mengikuti tren atau tekanan sosial. Catatan yang rapi membantu mengevaluasi apakah rencana berjalan.
 LATIHAN PENDALAMAN
@@ -112,22 +112,22 @@ LATIHAN PENDALAMAN
 4. Apakah diversifikasi menghilangkan risiko? Jawaban: tidak, tetapi dapat mengurangi ketergantungan pada satu aset.
 
 PENDALAMAN KONSEPTUAL DAN STUDI KASUS
-BAB 14 — NILAI WAKTU UANG
+BAB 23 — NILAI WAKTU UANG
 Uang yang tersedia sekarang dan uang dengan nominal sama pada masa depan tidak selalu setara. Dana saat ini dapat digunakan atau disimpan, sedangkan dana masa depan mengandung ketidakpastian. Untuk membandingkan pilihan, samakan waktu penilaian dan gunakan tingkat diskonto yang sesuai dengan risiko serta tujuan.
 Nilai masa depan dengan bunga majemuk dapat dihitung melalui FV = PV(1+r)^n. PV adalah nilai saat ini, r tingkat per periode, dan n jumlah periode. Nilai sekarang adalah PV = FV/(1+r)^n. Periode bunga harus konsisten dengan jumlah periode. Contoh: Rp1.000.000 pada asumsi 5% per tahun selama dua tahun menjadi Rp1.102.500 sebelum pajak dan biaya. Ini contoh matematika, bukan janji hasil produk.
-BAB 15 — CICILAN DAN AMORTISASI
+BAB 24 — CICILAN DAN AMORTISASI
 Angsuran dapat terdiri atas pembayaran pokok dan bunga. Pada skema saldo menurun, porsi bunga biasanya lebih besar di awal karena saldo utang masih tinggi. Skema lain dapat memakai metode perhitungan berbeda. Baca tabel angsuran dan total pembayaran, bukan hanya nominal bulanan.
 Periksa apakah bunga tetap atau berubah, kapan biaya dikenakan, bagaimana pelunasan dipercepat dihitung, dan apa akibat keterlambatan. Minta simulasi tertulis dan bandingkan beberapa skenario.
-BAB 16 — PAJAK, BIAYA, DAN HASIL BERSIH
+BAB 25 — PAJAK, BIAYA, DAN HASIL BERSIH
 Hasil nominal bukan hasil bersih. Biaya administrasi, pajak, biaya transaksi, dan inflasi dapat mengubah nilai yang diterima. Bandingkan produk menggunakan dasar yang sama: periode, risiko, likuiditas, pajak, serta seluruh biaya relevan.
 Dokumen penawaran perlu dibaca sampai bagian ketentuan dan pengecualian. Jika istilah tidak dipahami, mintalah penjelasan tertulis dan jangan mengambil keputusan karena tekanan waktu.
-BAB 17 — PENIPUAN KEUANGAN DAN PERLINDUNGAN KONSUMEN
+BAB 26 — PENIPUAN KEUANGAN DAN PERLINDUNGAN KONSUMEN
 Tanda bahaya penipuan meliputi janji keuntungan tinggi tanpa risiko, desakan untuk segera mengirim uang, testimoni sebagai satu-satunya bukti, dan penyedia yang tidak jelas identitas serta izinnya. Skema yang meminta perekrutan anggota baru untuk membayar keuntungan anggota lama patut dicurigai.
 Jangan membagikan PIN, kata sandi, kode OTP, atau data autentikasi. Verifikasi melalui kanal resmi. Jika terjadi transaksi mencurigakan, segera hubungi penyedia layanan dan pihak berwenang melalui saluran resmi.
-BAB 18 — STUDI KASUS RENCANA TUJUAN
+BAB 27 — STUDI KASUS RENCANA TUJUAN
 Misalkan seseorang ingin membeli perangkat belajar enam bulan lagi. Tetapkan harga sasaran dan tanggal kebutuhan, hitung selisih dana, lalu bagi kebutuhan secara realistis ke dalam enam periode. Sisakan ruang bagi kebutuhan pokok dan keadaan tak terduga.
 Jika target tidak realistis, pertimbangkan memperpanjang waktu, mencari alternatif terjangkau, atau menambah pemasukan yang aman. Mengambil utang mahal untuk kebutuhan yang dapat ditunda bukan satu-satunya jalan.
-BAB 19 — LEMBAR KERJA EVALUASI
+BAB 28 — LEMBAR KERJA EVALUASI
 Catat tujuan, nilai yang dibutuhkan, tenggat, sumber dana, biaya, risiko, dan indikator kemajuan. Tinjau berkala. Pisahkan fakta yang diketahui dari perkiraan yang masih dapat berubah.
 PERTANYAAN PEMAHAMAN
 1. Mengapa periode bunga harus konsisten? Tingkat dan jumlah periode harus mengacu pada satuan waktu yang sama.

@@ -34,11 +34,15 @@ LATIHAN
 
 BAB 2. DATA SEBAGAI SUMBER DAYA
 
-Layanan digital menghasilkan dan menggunakan data untuk menjalankan fungsi, personalisasi, dan analisis. Data dapat membantu meningkatkan layanan, tetapi pengumpulan berlebihan menimbulkan risiko privasi dan keamanan. Pengguna perlu memahami tujuan pemrosesan, pilihan persetujuan, serta cara mengelola informasi pribadi.
+Data digital dapat berasal dari transaksi, pencarian, lokasi, interaksi, perangkat, dan umpan balik pengguna. Data mentah belum otomatis menjadi informasi yang bermakna; data perlu dibersihkan, diberi konteks, dianalisis, lalu ditafsirkan sesuai tujuan. Kesalahan pencatatan, data yang tidak mewakili seluruh pengguna, dan perubahan perilaku dari waktu ke waktu dapat membuat kesimpulan bias.
+Dalam model bisnis digital, data dapat membantu memperkirakan permintaan, mengelola persediaan, mendeteksi gangguan, dan menyesuaikan layanan. Namun, manfaat ekonomi harus diseimbangkan dengan hak pengguna. Prinsip tata kelola yang baik meliputi tujuan pengumpulan yang jelas, pengumpulan seperlunya, pembatasan akses, keamanan, masa simpan yang wajar, transparansi, dan mekanisme untuk mengoreksi data yang keliru.
+Data pribadi tidak boleh dianggap sebagai bahan bebas pakai hanya karena dapat dikumpulkan secara teknis. Organisasi perlu menjelaskan tujuan pemrosesan dan dasar yang digunakan, melindungi data dari akses tidak sah, serta menghindari penggunaan sekunder yang tidak sesuai harapan pengguna. Analisis data juga perlu memeriksa apakah kelompok tertentu kurang terwakili atau dirugikan oleh keputusan otomatis.
 
 BAB 3. PEMBAYARAN DIGITAL
 
-Pembayaran digital memungkinkan transaksi melalui aplikasi, kartu, atau sistem transfer. Kemudahan harus disertai verifikasi penerima, pemeriksaan nominal, dan perlindungan akses akun. Simpan bukti transaksi dan gunakan saluran resmi jika terjadi kesalahan. Jangan membagikan kode rahasia atau kata sandi kepada pihak lain.
+Pembayaran digital memungkinkan transaksi melalui aplikasi, kartu, atau sistem transfer. Alurnya dapat melibatkan pengguna, penyedia layanan pembayaran, bank atau lembaga keuangan, jaringan pemrosesan, dan pedagang. Setiap pihak memiliki fungsi dan tanggung jawab berbeda. Memahami alur membantu pengguna mengenali biaya, waktu penyelesaian, dan pihak yang harus dihubungi ketika transaksi bermasalah.
+Kemudahan transaksi harus disertai verifikasi penerima, pemeriksaan nominal, perlindungan akses, dan penyimpanan bukti transaksi. Pengguna perlu membedakan saldo dompet digital, rekening bank, limit kredit, dan poin promosi karena masing-masing memiliki aturan serta perlindungan berbeda. Jangan membagikan PIN, kata sandi, atau kode autentikasi kepada pihak lain.
+Dari sisi ekonomi, pembayaran digital dapat mengurangi hambatan transaksi dan mempercepat pencatatan, tetapi tidak otomatis menghapus biaya. Pedagang dapat menanggung biaya layanan, perangkat, koneksi, dan rekonsiliasi. Akses juga tidak merata karena sebagian orang menghadapi keterbatasan perangkat, jaringan, identitas, atau literasi. Karena itu, evaluasi sistem pembayaran perlu memasukkan keamanan, biaya, keandalan, aksesibilitas, dan mekanisme pengaduan. akun. Simpan bukti transaksi dan gunakan saluran resmi jika terjadi kesalahan. Jangan membagikan kode rahasia atau kata sandi kepada pihak lain.
 
 BAB 4. PASAR DARING DAN REPUTASI
 

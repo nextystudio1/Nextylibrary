@@ -6,7 +6,7 @@ DESKRIPSI
 Memahami struktur karbon, gugus fungsi, isomer, reaksi, polimer, dan kimia kehidupan.
 
 PENDAHULUAN
-Buku Dasar Kimia Organik membahas memahami struktur karbon, gugus fungsi, isomer, reaksi, polimer, dan kimia kehidupan.. Bacalah setiap bab dengan menghubungkan istilah, contoh, dan persoalan yang muncul dalam bidang ini. Gunakan pertanyaan di akhir bagian untuk menguji pemahaman, lalu catat bagian yang memerlukan penjelasan atau bukti tambahan.
+Buku ini memperkenalkan struktur dan sifat senyawa karbon. Materi mencakup ikatan, bentuk molekul, gugus fungsi, isomer, prinsip reaksi organik, polimer, serta hubungan kimia organik dengan kehidupan dan lingkungan.
 
 BAB 1. KEUNIKAN ATOM KARBON
 
@@ -49,11 +49,12 @@ PROYEK TERPADU
 Proyek Dasar Kimia Organik: pilih persoalan nyata yang dapat dikaji dengan konsep dari beberapa bab. Rumuskan pertanyaan, tujuan, ruang lingkup, dan cara memperoleh informasi. Gunakan metode yang sesuai dengan bidang ini, catat sumber dan batas data, lalu susun hasil menjadi laporan yang memisahkan temuan, penafsiran, dan rekomendasi. Jelaskan siapa yang dapat memanfaatkan hasil serta apa yang masih perlu diteliti.
 
 EVALUASI AKHIR
-1. Jelaskan konsep paling penting dari POLIMER DAN KEHIDUPAN dan alasan konsep itu diperlukan.
-2. Hubungkan materi dari tiga bab yang saling berkaitan.
-3. Analisis satu persoalan menggunakan istilah dan metode dari buku Dasar Kimia Organik.
-4. Bandingkan dua pendekatan dan jelaskan kelebihan serta keterbatasannya.
-5. Tulis kesimpulan berbasis bukti dan sebutkan pertanyaan yang belum terjawab.
+EVALUASI AKHIR
+1. Jelaskan mengapa atom karbon dapat membentuk banyak struktur molekul.
+2. Hubungkan gugus fungsi dengan sifat fisik atau kimia senyawa.
+3. Bedakan isomer struktur dan stereoisomer.
+4. Jelaskan secara konseptual bagaimana pereaksi dan kondisi memengaruhi arah reaksi organik.
+5. Berikan contoh manfaat dan tantangan lingkungan dari penggunaan polimer.
 
 PEDOMAN PENILAIAN
 Penilaian untuk Dasar Kimia Organik memperhatikan ketepatan istilah bidang, kesesuaian metode, mutu bukti, dan kemampuan menerapkan konsep pada kasus. Jawaban dinilai dari alasan yang dapat diperiksa serta pengakuan terhadap keterbatasan, bukan dari keseragaman pendapat.

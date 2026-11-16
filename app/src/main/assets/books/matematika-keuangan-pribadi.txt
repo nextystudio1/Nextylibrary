@@ -362,3 +362,24 @@ Hitung pertumbuhan saldo simulasi dengan bunga sederhana dan majemuk selama bebe
 
 RANGKUMAN
 Nilai waktu uang, inflasi, dan bunga membantu membandingkan pilihan keuangan. Ketepatan keputusan bergantung pada asumsi, biaya, risiko, dan tujuan.
+
+BAB KREDIT, CICILAN, DAN BIAYA PINJAMAN
+Kredit memungkinkan pembelian atau penggunaan dana sebelum seluruh pembayaran dilakukan. Biaya pinjaman dapat mencakup bunga, administrasi, asuransi, denda, dan biaya lain sesuai perjanjian. Angsuran bulanan yang tampak kecil belum tentu berarti total biaya rendah; periksa jumlah pembayaran selama seluruh tenor.
+
+MEMBACA SIMULASI CICILAN
+Simulasi membantu memperkirakan cicilan, tetapi hasil bergantung suku bunga, metode perhitungan, biaya, dan waktu pembayaran. Suku bunga tetap dan mengambang memiliki risiko berbeda. Jika bunga dapat berubah, cicilan atau total biaya mungkin meningkat. Perjanjian harus dibaca dengan bantuan wali atau pihak tepercaya.
+
+RISIKO UTANG
+Utang menjadi masalah ketika kewajiban pembayaran melebihi kemampuan atau mengganggu kebutuhan pokok. Perubahan pendapatan, biaya kesehatan, dan keadaan darurat dapat membuat pembayaran sulit. Sebelum mengambil keputusan, pertimbangkan alternatif, kemampuan membayar, serta konsekuensi keterlambatan.
+
+PENIPUAN KEUANGAN DIGITAL
+Waspadai pesan yang menjanjikan pinjaman instan tanpa pemeriksaan, meminta biaya di muka, atau meminta kode rahasia. Periksa legalitas penyedia melalui kanal resmi regulator. Jangan mengirim data pribadi atau dokumen identitas melalui tautan yang tidak jelas.
+
+KEPUTUSAN KONSUMEN
+Membandingkan produk perlu memperhatikan total biaya, jangka waktu, fleksibilitas, konsekuensi keterlambatan, dan perlindungan konsumen. Jika syarat tidak jelas, jangan menyetujui sebelum memperoleh penjelasan yang dapat dipahami.
+
+LATIHAN
+Gunakan angka fiktif untuk membandingkan dua simulasi cicilan dengan tenor berbeda. Hitung total pembayaran dan jelaskan mengapa cicilan lebih kecil dapat menghasilkan total biaya lebih besar.
+
+RANGKUMAN
+Kredit memiliki manfaat dan risiko. Membaca biaya total, ketentuan, dan kemampuan pembayaran merupakan langkah penting sebelum mengambil keputusan.

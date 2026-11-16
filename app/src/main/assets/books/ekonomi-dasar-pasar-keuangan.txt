@@ -328,3 +328,24 @@ Buat simulasi anggaran daerah fiktif dengan dana terbatas. Alokasikan dana untuk
 
 RANGKUMAN
 Kebijakan fiskal dan moneter memengaruhi ekonomi melalui saluran berbeda. Evaluasi memerlukan data, transparansi, dan perhatian pada dampak jangka pendek maupun panjang.
+
+BAB PERDAGANGAN INTERNASIONAL DAN NILAI TUKAR
+Perdagangan internasional memungkinkan negara menukar barang dan jasa berdasarkan perbedaan sumber daya, teknologi, biaya peluang, dan kebutuhan. Keunggulan komparatif berarti suatu pihak dapat memproduksi barang dengan biaya peluang lebih rendah dibanding pihak lain, meskipun tidak selalu memiliki produktivitas absolut tertinggi.
+
+NERACA PERDAGANGAN
+Neraca perdagangan membandingkan nilai ekspor dan impor barang dalam periode tertentu. Surplus atau defisit tidak dengan sendirinya menunjukkan ekonomi sehat atau buruk. Struktur komoditas, nilai tambah, kebutuhan impor bahan baku, dan kondisi global perlu diperiksa.
+
+NILAI TUKAR
+Nilai tukar menunjukkan harga satu mata uang dalam mata uang lain. Perubahan kurs dapat memengaruhi harga impor, penerimaan eksportir, biaya perjalanan, dan beban kewajiban valuta asing. Dampaknya berbeda bagi rumah tangga dan perusahaan tergantung sumber pendapatan serta pengeluarannya.
+
+TARIF DAN RANTAI PASOK
+Tarif dapat melindungi industri tertentu atau menjadi sumber penerimaan, tetapi juga dapat menaikkan biaya bagi konsumen dan perusahaan yang memakai barang impor. Rantai pasok global membuat produksi suatu barang melibatkan banyak negara. Gangguan transportasi, bencana, konflik, atau perubahan aturan dapat memengaruhi pasokan.
+
+KERJA SAMA EKONOMI
+Perjanjian perdagangan mengatur akses pasar, standar, dan prosedur. Manfaatnya dapat berbeda antar sektor dan kelompok pekerja. Evaluasi kebijakan perlu melihat dampak pada konsumen, produsen kecil, pekerja, lingkungan, dan ketahanan pasokan.
+
+LATIHAN
+Pilih satu produk sehari-hari dan telusuri kemungkinan komponen rantai pasoknya dari sumber publik. Bedakan fakta yang terverifikasi dari dugaan. Jelaskan bagaimana perubahan kurs dapat memengaruhi harga dengan contoh angka simulasi.
+
+RANGKUMAN
+Perdagangan dan nilai tukar menghubungkan ekonomi nasional dengan dunia. Dampaknya perlu dinilai melalui struktur produksi, konsumen, pekerja, dan ketahanan rantai pasok.

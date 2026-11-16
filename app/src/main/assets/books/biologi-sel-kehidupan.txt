@@ -336,3 +336,24 @@ Buat diagram perbandingan mitosis dan meiosis yang menunjukkan jumlah pembelahan
 
 RANGKUMAN
 Pembelahan sel menjaga pertumbuhan dan reproduksi, sedangkan meiosis serta variasi genetik mendukung pewarisan dan evolusi. Siklus sel diatur oleh mekanisme kompleks.
+
+BAB KOMUNIKASI ANTARSEL DAN SISTEM TUBUH
+Sel tidak bekerja sendiri. Sel berkomunikasi melalui molekul sinyal, reseptor, dan jalur respons. Sinyal dapat bekerja pada sel yang sama, sel tetangga, atau organ jauh melalui sistem peredaran. Respons sel bergantung jenis reseptor dan keadaan internal sel.
+
+HOMEOSTASIS
+Homeostasis adalah pemeliharaan kondisi internal dalam rentang yang sesuai meskipun lingkungan berubah. Sistem umpan balik negatif mengurangi penyimpangan, misalnya pengaturan suhu tubuh dan kadar glukosa darah. Umpan balik positif memperkuat proses tertentu dalam kondisi khusus, seperti rangkaian perubahan saat persalinan.
+
+SISTEM SARAF DAN HORMON
+Sistem saraf menyampaikan informasi melalui impuls listrik dan sinyal kimia pada sinaps. Sistem endokrin melepaskan hormon ke aliran darah untuk mengatur proses tubuh. Keduanya saling berinteraksi. Respons saraf sering cepat dan terarah, sedangkan efek hormon dapat lebih lambat dan berlangsung lebih lama, meski terdapat pengecualian.
+
+SISTEM IMUN
+Sistem imun bawaan memberi pertahanan awal, sedangkan sistem adaptif melibatkan sel yang mengenali target tertentu dan dapat membentuk memori imun. Respons imun perlu diatur agar melawan ancaman tanpa merusak jaringan sendiri. Vaksinasi melatih sistem imun mengenali antigen tertentu dan merupakan bagian penting pencegahan penyakit.
+
+PENELITIAN BIOLOGI DAN ETIKA
+Penelitian tubuh manusia memerlukan perlindungan peserta, persetujuan, dan pengawasan etik. Data kesehatan bersifat pribadi dan tidak boleh dibagikan tanpa izin. Informasi biologi dalam buku ini bersifat pendidikan dan tidak menggantikan penilaian tenaga kesehatan.
+
+LATIHAN
+Buat diagram umpan balik negatif pengaturan suhu tubuh. Tandai perubahan awal, reseptor, pusat pengendali, efektor, dan respons. Jelaskan bagaimana sistem mengembalikan kondisi ke rentang normal.
+
+RANGKUMAN
+Sel dan organ berkomunikasi untuk menjaga fungsi tubuh. Homeostasis, sistem saraf, hormon, dan imun bekerja melalui mekanisme yang saling terhubung.

@@ -324,3 +324,24 @@ Buat hipotesis tentang pengaruh jenis kertas terhadap waktu penyerapan air mengg
 
 RANGKUMAN
 Sains berkembang melalui hipotesis yang dapat diuji, model dengan batas jelas, replikasi, dan revisi berdasarkan bukti.
+
+BAB MERANCANG PENELITIAN YANG DAPAT DIULANG
+Penelitian yang dapat diulang menjelaskan prosedur, bahan, alat, dan analisis secara cukup rinci sehingga orang lain dapat memahami bagaimana hasil diperoleh. Replikasi tidak selalu menghasilkan angka identik karena variasi sampel dan kondisi, tetapi seharusnya dapat menguji apakah pola utama muncul kembali.
+
+VARIABEL DAN OPERASIONALISASI
+Variabel abstrak perlu diterjemahkan menjadi cara pengukuran yang jelas. Misalnya, “kebiasaan membaca” dapat diukur melalui frekuensi, durasi, atau jumlah buku, dan tiap ukuran menangkap aspek berbeda. Definisi operasional harus sesuai pertanyaan penelitian serta tidak mengklaim mengukur lebih dari yang sebenarnya.
+
+PENGENDALIAN KONDISI
+Dalam eksperimen, kondisi yang tidak sedang diuji perlu dibuat serupa sejauh mungkin. Kelompok pembanding membantu menilai apakah perubahan berkaitan dengan perlakuan. Pengacakan dapat mengurangi perbedaan sistematis, tetapi tidak menghapus seluruh masalah desain atau pelaksanaan.
+
+PRAREGISTRASI DAN PENCATATAN
+Mencatat pertanyaan, hipotesis, metode, dan rencana analisis sebelum pengumpulan data membantu membedakan analisis yang direncanakan dari eksplorasi setelah melihat hasil. Catatan laboratorium sebaiknya memuat tanggal, kondisi, perubahan prosedur, dan kejadian tidak biasa. Jangan mengubah catatan asli agar cocok dengan harapan.
+
+KESELAMATAN DAN ETIKA
+Penelitian pendidikan harus menggunakan bahan dan prosedur aman, memperoleh izin yang diperlukan, dan menghormati peserta. Eksperimen dengan bahan berbahaya, manusia, hewan, atau lingkungan memerlukan pengawasan dan persetujuan sesuai aturan. Pelajar sebaiknya memilih kegiatan sederhana yang disetujui guru.
+
+LATIHAN
+Rancang eksperimen aman tentang pengaruh intensitas cahaya pada perkecambahan menggunakan simulasi atau kegiatan sekolah yang disetujui. Definisikan variabel, kontrol, jumlah pengamatan, dan cara mencatat hasil.
+
+RANGKUMAN
+Penelitian yang baik memiliki definisi pengukuran, prosedur transparan, pencatatan jujur, dan perlindungan peserta. Replikasi membantu menguji kekuatan temuan.

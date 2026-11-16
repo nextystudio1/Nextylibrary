@@ -331,3 +331,21 @@ Buat peta alur satu bahan pangan dari produsen hingga konsumen. Tandai titik yan
 
 RANGKUMAN
 Geografi pertanian menghubungkan sumber daya alam, produksi, iklim, dan distribusi. Ketahanan pangan memerlukan sistem yang adil, tangguh, dan berkelanjutan.
+
+BAB KEPENDUDUKAN DAN PERSEBARAN PENDUDUK
+Persebaran penduduk Indonesia dipengaruhi sejarah permukiman, peluang ekonomi, akses transportasi, kondisi fisik, dan kebijakan pembangunan. Kepadatan penduduk adalah jumlah penduduk per satuan luas, tetapi angka rata-rata dapat menyembunyikan perbedaan besar antara kota, dataran rendah, pegunungan, dan pulau kecil.
+
+URBANISASI DAN PERUBAHAN KOTA
+Urbanisasi dapat merujuk pada meningkatnya proporsi penduduk yang tinggal di wilayah perkotaan maupun perpindahan penduduk menuju kota. Kota menawarkan pekerjaan dan layanan, tetapi pertumbuhan cepat dapat menimbulkan tekanan pada perumahan, transportasi, air, dan ruang terbuka. Perencanaan kota perlu memperhatikan akses kelompok berpendapatan berbeda.
+
+MIGRASI DAN REMITANSI
+Migrasi dipengaruhi pekerjaan, pendidikan, keluarga, bencana, konflik, dan perubahan lingkungan. Migrasi dapat meningkatkan pendapatan keluarga melalui remitansi, tetapi juga menimbulkan tantangan seperti pemisahan keluarga dan kebutuhan perlindungan pekerja. Data migrasi harus memperhatikan definisi perpindahan dan periode pengukuran.
+
+KETIMPANGAN ANTARWILAYAH
+Indikator seperti pendapatan, pendidikan, kesehatan, dan konektivitas membantu membandingkan wilayah. Namun, perbandingan perlu memperhatikan harga lokal, karakteristik penduduk, dan kualitas data. Kebijakan pemerataan dapat mencakup infrastruktur, layanan dasar, penguatan ekonomi lokal, dan perlindungan lingkungan.
+
+LATIHAN
+Pilih dua provinsi dan bandingkan kepadatan penduduk serta satu indikator layanan dasar dari sumber resmi. Jelaskan keterbatasan perbandingan dan hindari menganggap rata-rata provinsi mewakili setiap kabupaten.
+
+RANGKUMAN
+Geografi penduduk mengkaji persebaran, mobilitas, dan ketimpangan. Data perlu dibaca bersama konteks wilayah dan perubahan dari waktu ke waktu.

@@ -375,3 +375,24 @@ Gunakan data simulasi jam belajar dan nilai latihan. Buat diagram pencar dan hit
 
 RANGKUMAN
 Korelasi membantu menemukan pola, tetapi penalaran kausal memerlukan desain dan pemeriksaan perancu. Grafik harus dibaca bersama konteks dan kualitas data.
+
+BAB UJI HIPOTESIS DAN KETIDAKPASTIAN
+Statistik inferensial menggunakan data sampel untuk menarik kesimpulan tentang populasi dengan ketidakpastian. Uji hipotesis membandingkan data dengan hipotesis nol melalui prosedur yang ditentukan sebelumnya. Nilai-p menunjukkan seberapa tidak selaras data dengan hipotesis nol dalam asumsi model, bukan probabilitas bahwa hipotesis nol benar.
+
+KESALAHAN TIPE I DAN TIPE II
+Kesalahan tipe I terjadi ketika hipotesis nol ditolak padahal benar, sedangkan kesalahan tipe II terjadi ketika hipotesis nol tidak ditolak padahal salah. Kekuatan uji dipengaruhi ukuran sampel, variasi data, besar efek, dan tingkat signifikansi. Hasil tidak signifikan bukan bukti bahwa efek pasti tidak ada.
+
+INTERVAL KEPERCAYAAN
+Interval kepercayaan dibentuk melalui prosedur yang dalam pengulangan jangka panjang akan mencakup parameter sebenarnya pada proporsi tertentu, jika asumsi terpenuhi. Interval yang lebih sempit menunjukkan presisi lebih tinggi, tetapi tidak menjamin bebas bias. Interval harus dibaca bersama desain sampel dan metode analisis.
+
+SIGNIFIKANSI DAN MAKNA PRAKTIS
+Perbedaan kecil dapat signifikan secara statistik jika sampel besar, tetapi belum tentu penting secara praktis. Sebaliknya, efek yang bermakna dapat tidak terdeteksi pada sampel kecil. Penilaian perlu mempertimbangkan besar efek, ketidakpastian, biaya, dan konteks.
+
+PRAKTIK ANALISIS YANG BAIK
+Tetapkan pertanyaan dan metode sebelum melihat hasil jika memungkinkan. Laporkan semua hasil relevan, bukan hanya yang mendukung dugaan. Hindari mencoba banyak analisis lalu hanya memilih hasil yang tampak menarik tanpa menjelaskan prosesnya.
+
+LATIHAN
+Gunakan data simulasi dua kelompok nilai. Hitung selisih rata-rata dan interval sederhana dengan alat belajar. Jelaskan apa yang dapat dan tidak dapat disimpulkan dari hasil tersebut.
+
+RANGKUMAN
+Inferensi statistik selalu mengandung ketidakpastian. Nilai-p, interval, dan ukuran efek harus ditafsirkan bersama rancangan penelitian.

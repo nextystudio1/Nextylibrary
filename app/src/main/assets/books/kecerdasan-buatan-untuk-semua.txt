@@ -384,3 +384,23 @@ Buat contoh data simulasi berisi 20 catatan dengan dua kategori yang jumlahnya t
 
 RANGKUMAN BAB
 Memahami jenis pembelajaran, pemisahan data, metrik evaluasi, overfitting, dan risiko generatif membantu menilai AI secara realistis. Sistem yang baik harus diuji sesuai tujuan dan dampak penggunaannya.
+
+BAB MODEL BAHASA DAN KETERBATASAN GENERATIF
+Model bahasa mempelajari pola hubungan antarbagian teks dari data pelatihan. Saat menghasilkan jawaban, model memperkirakan rangkaian token yang mungkin mengikuti konteks. Kemampuan menghasilkan bahasa yang lancar tidak sama dengan pemahaman manusia atau jaminan kebenaran. Model dapat menyusun informasi yang terdengar meyakinkan tetapi keliru, termasuk rujukan atau angka.
+
+Kualitas jawaban dipengaruhi pertanyaan, konteks, data pelatihan, dan rancangan model. Instruksi yang jelas dapat membantu, tetapi tidak menghilangkan kesalahan. Pengguna perlu memeriksa klaim penting melalui sumber primer atau lembaga tepercaya, terutama pada topik kesehatan, hukum, keselamatan, dan keputusan keuangan.
+
+PROMPT DAN EVALUASI
+Prompt yang baik menyatakan tujuan, konteks yang relevan, format keluaran, dan batasan. Untuk tugas belajar, minta penjelasan bertahap, contoh baru, atau pertanyaan latihan alih-alih meminta jawaban untuk disalin. Evaluasi hasil dengan memeriksa ketepatan, kelengkapan, kesesuaian tingkat pembaca, dan apakah model mengikuti instruksi.
+
+PRIVASI DAN HAK CIPTA
+Jangan memasukkan alamat, nomor telepon, kata sandi, data sekolah yang sensitif, atau informasi pribadi orang lain ke layanan AI tanpa dasar dan izin yang tepat. Periksa kebijakan layanan tentang penggunaan data. Konten yang dihasilkan juga perlu diperiksa dari kemiripan, atribusi, dan hak penggunaan; jangan menganggap semua keluaran otomatis bebas hak atau bebas risiko.
+
+PENGAWASAN MANUSIA
+Keputusan berdampak tinggi tidak seharusnya diserahkan begitu saja kepada model. Manusia perlu memahami tujuan, memeriksa bukti, memberi kesempatan koreksi, dan bertanggung jawab atas penggunaan. Sistem harus menyediakan jalur untuk mengajukan keberatan ketika hasil otomatis merugikan seseorang.
+
+LATIHAN
+Minta alat AI menjelaskan konsep sains tingkat sekolah dengan satu contoh. Periksa setiap fakta menggunakan buku pelajaran atau sumber ilmiah. Catat bagian yang tepat, bagian yang kurang lengkap, dan bagian yang perlu diperbaiki. Jangan memasukkan informasi pribadi ke prompt.
+
+RANGKUMAN BAB
+AI generatif dapat membantu belajar dan berkarya, tetapi keluaran perlu diverifikasi. Privasi, hak cipta, evaluasi, dan tanggung jawab manusia harus menjadi bagian dari setiap penggunaan.

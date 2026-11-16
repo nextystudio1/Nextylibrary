@@ -273,3 +273,23 @@ Sebuah kantin sekolah menjual roti. Jika harga naik, faktor apa saja selain harg
 
 RANGKUMAN BAB
 Ekonomi mempelajari pilihan ketika sumber daya terbatas. Permintaan, penawaran, elastisitas, biaya, produktivitas, dan kebijakan memberi alat untuk menilai keputusan rumah tangga, usaha, dan pemerintah secara lebih sistematis.
+
+BAB SISTEM KEUANGAN DAN PERBANKAN
+Sistem keuangan menghubungkan pihak yang memiliki dana dengan pihak yang membutuhkan dana. Bank menerima simpanan dan menyalurkan pembiayaan atau kredit sesuai aturan dan penilaian risiko. Lembaga keuangan lain dapat menyediakan pembayaran, asuransi, investasi, atau pembiayaan khusus. Setiap produk memiliki fungsi, biaya, risiko, dan perlindungan konsumen yang berbeda.
+
+Simpanan bank bukan investasi dengan karakter yang sama seperti saham atau obligasi. Produk simpanan memiliki ketentuan bunga atau imbal hasil, biaya, akses penarikan, dan perlindungan sesuai peraturan. Konsumen perlu memahami batas penjaminan dan syarat yang berlaku, bukan menganggap semua produk yang ditawarkan lembaga keuangan otomatis dijamin.
+
+UANG, INFLASI, DAN KEBIJAKAN MONETER
+Uang berfungsi sebagai alat tukar, satuan hitung, dan penyimpan nilai. Bank sentral mengelola kebijakan moneter untuk menjaga kestabilan nilai uang dan mendukung tujuan ekonomi sesuai mandatnya. Perubahan suku bunga kebijakan dapat memengaruhi biaya pinjaman, keputusan konsumsi, investasi, nilai tukar, dan inflasi, tetapi dampaknya tidak langsung serta dipengaruhi banyak faktor.
+
+PASAR MODAL DASAR
+Saham mewakili kepemilikan bagian perusahaan, sedangkan obligasi merupakan surat utang dengan ketentuan pembayaran tertentu. Harga instrumen dapat berubah karena kinerja penerbit, suku bunga, kondisi ekonomi, dan ekspektasi investor. Potensi imbal hasil selalu perlu dibaca bersama risiko kehilangan nilai. Diversifikasi dapat mengurangi risiko khusus suatu aset, tetapi tidak menghapus seluruh risiko pasar.
+
+PERLINDUNGAN KONSUMEN KEUANGAN
+Sebelum menggunakan layanan, periksa legalitas penyedia melalui otoritas resmi, pahami kontrak, biaya, risiko, dan mekanisme pengaduan. Waspadai janji keuntungan tetap yang tidak masuk akal, tekanan untuk segera mentransfer dana, serta permintaan kode rahasia. Jangan meminjamkan rekening atau identitas untuk transaksi yang tidak dipahami.
+
+LATIHAN
+Buat perbandingan simulasi antara rekening simpanan dan obligasi berdasarkan tujuan, akses dana, risiko, biaya, dan jangka waktu. Gunakan informasi pendidikan dari otoritas resmi dan jangan melakukan transaksi nyata sebagai bagian latihan.
+
+RANGKUMAN BAB
+Sistem keuangan membantu perputaran dana dan kegiatan ekonomi, tetapi produk keuangan memiliki karakter berbeda. Pemahaman kontrak, risiko, legalitas, dan perlindungan konsumen merupakan bagian penting literasi keuangan.

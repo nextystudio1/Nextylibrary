@@ -282,3 +282,20 @@ Buat panduan kelas berisi lima aturan komunikasi digital. Setiap aturan harus di
 
 RANGKUMAN BAB
 Kewarganegaraan digital menuntut penghormatan hak, perlindungan privasi, komunikasi bertanggung jawab, dan partisipasi yang kritis. Keterampilan teknologi harus berjalan bersama empati dan kesadaran hukum.
+
+BAB HUKUM, HAK CIPTA, DAN KARYA DIGITAL
+Karya digital seperti foto, tulisan, musik, video, ilustrasi, dan perangkat lunak dapat dilindungi hak cipta. Mengakses karya di internet tidak berarti bebas menyalin, mengubah, atau menggunakannya untuk semua tujuan. Periksa lisensi, izin, atribusi, dan batas penggunaan. Lisensi terbuka pun memiliki syarat yang perlu dipatuhi.
+
+Plagiarisme adalah menyajikan karya atau gagasan orang lain seolah-olah milik sendiri. Mengutip dan memparafrasekan tetap membutuhkan pengakuan sumber. Simpan catatan pencipta, judul, tautan, tanggal akses bila diperlukan, dan jenis lisensi. Jika izin tidak jelas, gunakan materi yang dibuat sendiri atau sumber yang secara eksplisit mengizinkan penggunaan tersebut.
+
+KEAMANAN AKUN DAN PENIPUAN
+Penipuan digital sering menggunakan penyamaran, urgensi palsu, hadiah tidak masuk akal, atau tautan yang menyerupai situs resmi. Periksa alamat situs, identitas pengirim, dan informasi melalui kanal resmi yang dicari secara mandiri. Jangan membuka lampiran mencurigakan atau memberikan kata sandi dan kode verifikasi. Aktifkan autentikasi tambahan dan perbarui perangkat lunak.
+
+KEBIJAKAN DAN TANGGUNG JAWAB PLATFORM
+Platform menetapkan aturan mengenai konten, privasi, moderasi, dan keamanan. Pengguna dapat membaca ketentuan layanan serta menggunakan mekanisme pelaporan. Keputusan moderasi dapat memiliki dampak pada kebebasan berekspresi dan keselamatan; karena itu, transparansi, proses banding, dan konsistensi aturan penting.
+
+LATIHAN
+Buat daftar periksa sebelum mengunggah materi untuk tugas kelas: kepemilikan karya, izin orang yang terlihat, lisensi gambar, sumber informasi, data pribadi, dan ketepatan klaim. Terapkan daftar tersebut pada contoh fiktif.
+
+RANGKUMAN BAB
+Kewarganegaraan digital mencakup hak cipta, keamanan akun, perlindungan privasi, dan pemahaman aturan platform. Pengguna bertanggung jawab atas materi yang dibuat, dibagikan, dan digunakan.

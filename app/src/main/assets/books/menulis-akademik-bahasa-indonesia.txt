@@ -315,3 +315,23 @@ Tulislah satu paragraf 150–200 kata tentang manfaat ruang terbuka hijau di lin
 
 RANGKUMAN BAB
 Tulisan akademik yang kuat mengutamakan klaim terukur, bukti relevan, penjelasan, sitasi jujur, dan penyuntingan bertahap. Kejelasan lebih penting daripada istilah rumit yang tidak diperlukan.
+
+BAB STRUKTUR KARYA ILMIAH
+Karya ilmiah umumnya memiliki judul, abstrak, pendahuluan, metode, hasil, pembahasan, kesimpulan, dan daftar pustaka, meskipun susunannya dapat berbeda menurut bidang dan pedoman. Judul sebaiknya menggambarkan topik dengan jelas. Abstrak merangkum tujuan, metode, hasil utama, dan kesimpulan secara ringkas; abstrak bukan pengantar panjang.
+
+Pendahuluan menjelaskan konteks, masalah, alasan penting, dan pertanyaan yang akan dijawab. Tinjauan pustaka menyusun sumber secara tematis, bukan sekadar mendaftar ringkasan satu per satu. Metode menjelaskan rancangan, bahan atau data, prosedur, dan analisis. Hasil menyajikan temuan, sedangkan pembahasan menjelaskan makna dan keterbatasannya.
+
+BAHASA BAKU DAN KEHEMATAN
+Gunakan istilah secara konsisten. Hindari kata mubazir, kalimat berputar, dan ungkapan yang tidak menambah makna. Kalimat pasif dapat digunakan ketika pelaku tidak penting, tetapi kalimat aktif sering lebih jelas. Istilah asing yang belum memiliki padanan dapat dijelaskan saat pertama kali digunakan, kemudian dipakai secara konsisten.
+
+TABEL, GAMBAR, DAN KETERANGAN
+Setiap tabel dan gambar harus dirujuk dalam teks dan diberi nomor serta judul sesuai pedoman. Keterangan harus menjelaskan isi, satuan, dan sumber. Jangan memotong sumbu atau mengubah proporsi visual dengan cara yang menyesatkan. Pastikan gambar memiliki izin penggunaan dan resolusi yang memadai.
+
+PRESENTASI LISAN
+Presentasi ilmiah menyampaikan masalah, metode, temuan, dan arti penting dalam urutan yang mudah diikuti. Gunakan slide sebagai penunjang, bukan naskah yang dibacakan seluruhnya. Siapkan penjelasan istilah, akui batas data, dan jawab pertanyaan dengan bukti. Jika belum tahu, katakan informasi tersebut belum diperiksa.
+
+LATIHAN
+Susun kerangka karya ilmiah satu halaman tentang kualitas ruang baca sekolah. Tulis pertanyaan penelitian, tujuan, metode pengumpulan data yang etis, dan kemungkinan keterbatasan. Jangan mengumpulkan identitas responden tanpa alasan serta persetujuan yang sesuai.
+
+RANGKUMAN BAB
+Karya ilmiah mengutamakan struktur yang jelas, bahasa tepat, visualisasi jujur, dan penyampaian terbuka. Penulis bertanggung jawab memastikan pembaca dapat menelusuri dasar setiap klaim.

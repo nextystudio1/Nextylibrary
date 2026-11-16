@@ -268,3 +268,23 @@ Buat dua penjelasan alternatif untuk hubungan antara waktu belajar dan nilai uji
 
 RANGKUMAN BAB
 Metode ilmiah menuntut hipotesis yang dapat diuji, rancangan yang sesuai, pelaporan ketidakpastian, replikasi, dan etika. Sikap ilmiah berarti bersedia mengubah kesimpulan ketika bukti baru muncul.
+
+BAB MEMBANGUN LAPORAN PENELITIAN
+Laporan penelitian menyampaikan pertanyaan, metode, hasil, dan batas kesimpulan secara transparan. Pendahuluan menjelaskan masalah dan alasan penelitian. Tinjauan pustaka merangkum pengetahuan yang relevan serta menunjukkan celah pertanyaan. Metode harus cukup rinci agar pembaca memahami bagaimana data dikumpulkan dan dianalisis.
+
+Bagian hasil menyajikan temuan tanpa melebih-lebihkan. Tabel dan grafik harus memiliki judul, satuan, sumber, serta keterangan yang cukup. Pembahasan menafsirkan hasil, membandingkannya dengan penelitian lain, dan menyebutkan penjelasan alternatif. Kesimpulan menjawab pertanyaan penelitian, bukan memperkenalkan klaim baru yang tidak didukung data.
+
+VARIABEL DAN OPERASIONALISASI
+Variabel adalah karakteristik yang dapat memiliki nilai berbeda. Definisi operasional menjelaskan bagaimana variabel diukur. “Kebiasaan membaca” misalnya dapat diukur melalui frekuensi, durasi, atau jumlah halaman, dan masing-masing ukuran menjawab pertanyaan berbeda. Pengukuran yang tidak sesuai dapat membuat hasil tidak menggambarkan konsep yang ingin dipelajari.
+
+VALIDITAS DAN RELIABILITAS
+Validitas berkaitan dengan apakah alat ukur benar-benar mengukur hal yang dimaksud. Reliabilitas berkaitan dengan konsistensi hasil ketika pengukuran diulang dalam kondisi sebanding. Alat ukur dapat konsisten tetapi tidak valid; timbangan yang selalu menunjukkan angka lebih tinggi dari nilai sebenarnya merupakan contoh sederhana.
+
+KETERBATASAN DAN KETERBUKAAN
+Setiap penelitian memiliki batas, misalnya sampel kecil, waktu singkat, alat sederhana, atau data yang tidak lengkap. Menyebutkan keterbatasan bukan kelemahan moral, melainkan bagian dari kejujuran ilmiah. Simpan catatan metode dan data sesuai aturan, lindungi identitas peserta, dan jangan mengubah hasil agar sesuai harapan.
+
+LATIHAN
+Buat rancangan penelitian sederhana tentang intensitas cahaya dan pertumbuhan tanaman menggunakan simulasi atau pengamatan aman yang disetujui guru. Tentukan variabel, cara ukur, faktor yang dikendalikan, jumlah pengamatan, dan batas kesimpulan. Jangan menggunakan bahan berbahaya atau merusak lingkungan.
+
+RANGKUMAN BAB
+Laporan yang baik menyampaikan metode dan hasil secara jujur. Definisi operasional, validitas, reliabilitas, keterbatasan, serta perlindungan peserta menentukan mutu penelitian.

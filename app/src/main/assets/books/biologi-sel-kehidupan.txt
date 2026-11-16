@@ -383,3 +383,63 @@ Jelaskan mengapa membran disebut selektif permeabel. Bandingkan difusi dan trans
 
 RANGKUMAN
 Membran mengatur pertukaran dan komunikasi, sementara ekspresi gen mengatur fungsi sel. Interaksi keduanya memungkinkan kehidupan berlangsung secara terkoordinasi.
+
+BAB PENGAYAAN — MEMBRAN SEL DAN TRANSPORT ZAT
+
+Membran sel tersusun terutama dari lapisan ganda fosfolipid dengan protein dan molekul lain. Struktur ini bersifat selektif: beberapa zat dapat melewati membran dengan mudah, sedangkan zat lain memerlukan protein pembawa atau energi. Selektivitas membantu sel menjaga kondisi internal yang sesuai untuk reaksi kehidupan.
+
+Difusi adalah perpindahan partikel dari daerah berkonsentrasi lebih tinggi menuju daerah berkonsentrasi lebih rendah akibat gerak acak. Osmosis adalah perpindahan air melalui membran selektif dari sisi dengan potensial air lebih tinggi menuju sisi dengan potensial air lebih rendah. Transport aktif memindahkan zat melawan gradien konsentrasi atau elektrokimia dan memerlukan energi secara langsung atau tidak langsung.
+
+Contoh penerapan dapat dilihat pada sel tumbuhan. Ketika air masuk, vakuola membesar dan tekanan turgor membantu menjaga batang serta daun tetap tegak. Jika sel kehilangan terlalu banyak air, membran plasma dapat menjauh dari dinding sel dalam proses plasmolisis. Perubahan ini menunjukkan pentingnya keseimbangan air bagi fungsi sel.
+
+BAB PENGAYAAN — RESPIRASI SEL DAN ATP
+
+Sel memerlukan energi untuk sintesis molekul, transport zat, gerak, dan pemeliharaan struktur. ATP berperan sebagai pembawa energi yang dapat digunakan dalam berbagai reaksi. Energi dari molekul makanan dilepaskan melalui rangkaian proses metabolisme, bukan melalui satu reaksi tunggal.
+
+Respirasi aerob menggunakan oksigen sebagai penerima elektron terakhir pada rantai transpor elektron dan menghasilkan ATP dalam jumlah besar dibanding fermentasi. Glikolisis berlangsung di sitoplasma dan memecah glukosa menjadi molekul yang lebih kecil. Tahap berikutnya pada respirasi aerob berlangsung di mitokondria pada sel eukariotik. Fermentasi memungkinkan pembentukan ATP tetap berlangsung ketika oksigen tidak tersedia dalam kondisi tertentu, tetapi hasil ATP per glukosa lebih sedikit.
+
+Respirasi sel tidak sama dengan bernapas. Bernapas adalah proses pertukaran gas pada organisme, sedangkan respirasi sel adalah rangkaian reaksi kimia yang menghasilkan energi di dalam sel. Keduanya saling berkaitan karena oksigen yang diperoleh melalui sistem pernapasan dapat digunakan dalam respirasi aerob.
+
+BAB PENGAYAAN — SIKLUS SEL DAN PEMBELAHAN
+
+Siklus sel mencakup pertumbuhan, penggandaan materi genetik, dan pembelahan. Pada sel eukariotik, interfase terdiri atas tahap G1, S, dan G2. DNA direplikasi pada fase S sehingga setiap kromosom memiliki dua kromatid saudara sebelum pembelahan. Pemeriksaan pada beberapa tahap membantu memastikan kondisi sel memadai sebelum melanjutkan proses.
+
+Mitosis menghasilkan dua inti anak dengan informasi genetik yang pada umumnya sama dengan inti induk. Mitosis penting untuk pertumbuhan, perbaikan jaringan, dan reproduksi aseksual pada organisme tertentu. Meiosis menghasilkan sel dengan jumlah kromosom setengah dari sel induk dan berperan dalam pembentukan gamet pada banyak organisme. Rekombinasi dan pemisahan kromosom menghasilkan variasi genetik.
+
+Kesalahan pengaturan siklus sel dapat menyebabkan pembelahan tidak terkendali. Sel memiliki mekanisme pemeriksaan dan perbaikan, tetapi perubahan genetik tertentu dapat mengganggu mekanisme tersebut. Pemahaman ini menjadi dasar penting untuk mempelajari kanker dan perkembangan jaringan.
+
+BAB PENGAYAAN — DNA, RNA, DAN EKSPRESI GEN
+
+DNA menyimpan informasi genetik dalam urutan nukleotida. Gen adalah bagian DNA yang berkontribusi pada produk fungsional, seperti RNA atau protein. Dalam proses transkripsi, informasi pada DNA digunakan untuk membentuk RNA. Pada banyak gen pengode protein, RNA kemudian diproses dan diterjemahkan oleh ribosom menjadi rantai asam amino.
+
+Ekspresi gen dapat diatur pada berbagai tahap, mulai dari akses terhadap DNA hingga pemrosesan RNA dan aktivitas protein. Sel tubuh yang berbeda umumnya memiliki DNA yang hampir sama, tetapi mengekspresikan kumpulan gen yang berbeda. Perbedaan ekspresi tersebut membantu menjelaskan mengapa sel otot, sel saraf, dan sel kulit memiliki struktur serta fungsi berbeda.
+
+Mutasi adalah perubahan urutan materi genetik. Dampaknya dapat netral, merugikan, atau dalam kondisi tertentu menguntungkan. Pengaruh mutasi bergantung pada lokasi, jenis perubahan, dan lingkungan. Tidak semua mutasi menyebabkan penyakit dan tidak semua perubahan genetik langsung mengubah sifat yang terlihat.
+
+LATIHAN
+1. Apa fungsi membran sel yang selektif?
+2. Bedakan difusi, osmosis, dan transport aktif.
+3. Apa perbedaan respirasi sel dan bernapas?
+4. Mengapa meiosis menghasilkan variasi genetik?
+5. Jelaskan hubungan DNA, RNA, dan protein.
+6. Mengapa mutasi tidak selalu berdampak buruk?
+
+KUNCI PEMBAHASAN
+1. Mengatur pertukaran zat dan membantu menjaga kondisi internal sel.
+2. Difusi mengikuti gradien konsentrasi; osmosis adalah perpindahan air melalui membran selektif; transport aktif memerlukan energi untuk melawan gradien.
+3. Bernapas adalah pertukaran gas organisme; respirasi sel adalah proses kimia penghasil ATP.
+4. Rekombinasi dan pemisahan kromosom menghasilkan kombinasi materi genetik berbeda.
+5. DNA menyimpan informasi, RNA menyalin atau membawa instruksi, dan ribosom menggunakan informasi untuk menyusun protein.
+6. Dampak bergantung pada lokasi dan jenis perubahan serta konteks biologis.
+
+GLOSARIUM TAMBAHAN
+Fosfolipid: molekul penyusun utama lapisan ganda membran.
+Difusi: perpindahan partikel mengikuti gradien konsentrasi.
+Osmosis: perpindahan air melalui membran selektif.
+ATP: molekul pembawa energi yang digunakan sel.
+Respirasi aerob: proses pemanenan energi yang menggunakan oksigen.
+Fermentasi: jalur metabolisme yang memungkinkan produksi ATP tanpa rantai respirasi aerob.
+Mitosis: pembelahan inti yang menghasilkan dua inti anak.
+Meiosis: pembelahan yang mengurangi jumlah kromosom dan menghasilkan variasi.
+Transkripsi: pembentukan RNA berdasarkan cetakan DNA.
+Mutasi: perubahan urutan materi genetik.

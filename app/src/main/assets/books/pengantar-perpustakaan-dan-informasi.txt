@@ -13,138 +13,132 @@ BAB 1. PERAN PERPUSTAKAAN
 Perpustakaan menyediakan akses terhadap sumber pengetahuan, ruang belajar, layanan informasi, dan kegiatan literasi. Koleksi dapat berupa buku cetak, buku digital, jurnal, rekaman, dan sumber lokal. Perpustakaan modern tidak hanya menyimpan bahan, tetapi membantu masyarakat menemukan, menilai, dan menggunakan informasi.
 
 PENDALAMAN
-Konsep pada bab ini sebaiknya dipahami melalui hubungan antara definisi, proses, contoh, dan konsekuensi. Definisi membantu menetapkan batas istilah. Proses menjelaskan urutan atau mekanisme. Contoh memperlihatkan penerapan pada konteks tertentu. Konsekuensi menunjukkan hal yang dapat berubah ketika kondisi berbeda. Satu contoh tidak selalu mewakili semua keadaan, sehingga perhatikan faktor pembatas dan kemungkinan pengecualian.
+Perpustakaan menjalankan fungsi pendidikan, informasi, budaya, dan rekreasi. Kebutuhan pengguna berbeda menurut usia, akses, bahasa, dan tujuan. Karena itu, layanan perlu dirancang berdasarkan kebutuhan komunitas, bukan hanya jumlah koleksi.
 
-AKTIVITAS PENGAMATAN
-Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+AKTIVITAS
+Petakan layanan sebuah perpustakaan yang dikenal: jam layanan, jenis koleksi, bantuan pencarian, ruang belajar, dan akses digital. Catat kebutuhan pengguna yang belum terlayani.
 
 LATIHAN
-1. Jelaskan konsep utama tanpa menyalin kalimat buku.
-2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
-3. Berikan satu contoh dan satu contoh pembanding.
-4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
-5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
+1. Sebutkan empat fungsi perpustakaan bagi masyarakat.
+2. Mengapa perpustakaan perlu memahami kebutuhan kelompok pengguna yang berbeda?
+3. Bedakan akses koleksi dan layanan informasi.
+4. Berikan contoh layanan yang mendukung literasi masyarakat.
+5. Bagaimana perpustakaan dapat mengevaluasi mutu layanannya?
 
 RANGKUMAN
-- Pahami istilah dan batas penggunaannya.
-- Hubungkan konsep dengan bukti yang relevan.
-- Perhatikan konteks serta kemungkinan penjelasan lain.
-- Sampaikan kesimpulan secara proporsional.
+- Perpustakaan menyediakan koleksi, akses informasi, ruang belajar, dan layanan literasi.
+- Kebutuhan komunitas menjadi dasar pengembangan layanan.
+- Mutu layanan perlu dievaluasi secara berkala.
 
 BAB 2. PENGEMBANGAN KOLEKSI
 
 Pengembangan koleksi mempertimbangkan kebutuhan pengguna, relevansi, kualitas, kemutakhiran, keberagaman, biaya, serta hak penggunaan. Kebijakan koleksi menjelaskan kriteria pemilihan dan penyiangan. Keputusan tidak boleh hanya mengikuti popularitas; kebutuhan pendidikan dan keterwakilan pengetahuan juga penting.
 
 PENDALAMAN
-Konsep pada bab ini sebaiknya dipahami melalui hubungan antara definisi, proses, contoh, dan konsekuensi. Definisi membantu menetapkan batas istilah. Proses menjelaskan urutan atau mekanisme. Contoh memperlihatkan penerapan pada konteks tertentu. Konsekuensi menunjukkan hal yang dapat berubah ketika kondisi berbeda. Satu contoh tidak selalu mewakili semua keadaan, sehingga perhatikan faktor pembatas dan kemungkinan pengecualian.
+Seleksi koleksi menilai relevansi, akurasi, kemutakhiran, keberagaman perspektif, harga, dan hak penggunaan. Penyiangan harus memiliki kebijakan transparan serta mempertimbangkan nilai historis dan kebutuhan pengguna.
 
-AKTIVITAS PENGAMATAN
-Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+AKTIVITAS
+Buat matriks seleksi untuk lima judul fiktif. Beri nilai relevansi, akurasi, kemutakhiran, keberagaman, biaya, dan status hak penggunaan.
 
 LATIHAN
-1. Jelaskan konsep utama tanpa menyalin kalimat buku.
-2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
-3. Berikan satu contoh dan satu contoh pembanding.
-4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
-5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
+1. Sebutkan lima kriteria seleksi koleksi.
+2. Mengapa popularitas bukan satu-satunya dasar pemilihan buku?
+3. Apa yang perlu diperiksa sebelum koleksi digital ditambahkan?
+4. Jelaskan tujuan kebijakan penyiangan.
+5. Bagaimana perpustakaan menghindari bias dalam pengembangan koleksi?
 
 RANGKUMAN
-- Pahami istilah dan batas penggunaannya.
-- Hubungkan konsep dengan bukti yang relevan.
-- Perhatikan konteks serta kemungkinan penjelasan lain.
-- Sampaikan kesimpulan secara proporsional.
+- Pengembangan koleksi mengikuti kebijakan dan kebutuhan pengguna.
+- Seleksi mempertimbangkan kualitas, keberagaman, biaya, dan hak penggunaan.
+- Penyiangan dilakukan secara transparan.
 
 BAB 3. KATALOG DAN METADATA
 
 Katalog membantu pengguna menemukan bahan melalui judul, penulis, subjek, kata kunci, dan identitas unik. Metadata yang konsisten memudahkan pencarian dan pertukaran data. Deskripsi harus akurat, tidak menyesatkan, dan mencantumkan informasi edisi serta bahasa bila tersedia.
 
 PENDALAMAN
-Konsep pada bab ini sebaiknya dipahami melalui hubungan antara definisi, proses, contoh, dan konsekuensi. Definisi membantu menetapkan batas istilah. Proses menjelaskan urutan atau mekanisme. Contoh memperlihatkan penerapan pada konteks tertentu. Konsekuensi menunjukkan hal yang dapat berubah ketika kondisi berbeda. Satu contoh tidak selalu mewakili semua keadaan, sehingga perhatikan faktor pembatas dan kemungkinan pengecualian.
+Metadata dapat mencakup judul, pencipta, penerbit, tanggal, bahasa, subjek, format, dan pengenal. Konsistensi ejaan serta format meningkatkan ketepatan pencarian dan mengurangi rekaman ganda.
 
-AKTIVITAS PENGAMATAN
-Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+AKTIVITAS
+Buat rekaman katalog untuk satu buku fiktif dengan judul, penulis, penerbit, tahun, bahasa, subjek, dan deskripsi singkat. Periksa konsistensi format.
 
 LATIHAN
-1. Jelaskan konsep utama tanpa menyalin kalimat buku.
-2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
-3. Berikan satu contoh dan satu contoh pembanding.
-4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
-5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
+1. Apa fungsi metadata dalam katalog?
+2. Sebutkan enam elemen metadata deskriptif.
+3. Mengapa konsistensi nama penulis penting?
+4. Bagaimana pengenal unik membantu mengurangi rekaman ganda?
+5. Apa akibat metadata yang tidak akurat bagi pengguna?
 
 RANGKUMAN
-- Pahami istilah dan batas penggunaannya.
-- Hubungkan konsep dengan bukti yang relevan.
-- Perhatikan konteks serta kemungkinan penjelasan lain.
-- Sampaikan kesimpulan secara proporsional.
+- Katalog membantu menemukan bahan.
+- Metadata yang lengkap dan konsisten meningkatkan ketepatan pencarian.
+- Deskripsi koleksi harus akurat dan dapat ditelusuri.
 
 BAB 4. KLASIFIKASI DAN TEMU KEMBALI
 
 Klasifikasi mengelompokkan bahan berdasarkan subjek atau sistem tertentu. Penempatan yang konsisten memudahkan penelusuran di rak maupun katalog digital. Kata kunci dan tajuk subjek membantu pengguna menemukan bahan dengan istilah berbeda yang merujuk pada topik serupa.
 
 PENDALAMAN
-Konsep pada bab ini sebaiknya dipahami melalui hubungan antara definisi, proses, contoh, dan konsekuensi. Definisi membantu menetapkan batas istilah. Proses menjelaskan urutan atau mekanisme. Contoh memperlihatkan penerapan pada konteks tertentu. Konsekuensi menunjukkan hal yang dapat berubah ketika kondisi berbeda. Satu contoh tidak selalu mewakili semua keadaan, sehingga perhatikan faktor pembatas dan kemungkinan pengecualian.
+Klasifikasi dan tajuk subjek merupakan dua pendekatan yang saling melengkapi. Nomor klasifikasi membantu penempatan sistematis, sedangkan istilah subjek memungkinkan penelusuran berdasarkan topik dan sinonim.
 
-AKTIVITAS PENGAMATAN
-Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+AKTIVITAS
+Kelompokkan sepuluh topik buku ke dalam kategori yang logis. Tulis alasan pengelompokan dan kata kunci alternatif untuk tiap topik.
 
 LATIHAN
-1. Jelaskan konsep utama tanpa menyalin kalimat buku.
-2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
-3. Berikan satu contoh dan satu contoh pembanding.
-4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
-5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
+1. Bedakan klasifikasi dan tajuk subjek.
+2. Mengapa satu bahan dapat memiliki lebih dari satu istilah subjek?
+3. Bagaimana sinonim memengaruhi temu kembali informasi?
+4. Buat contoh pengelompokan untuk koleksi sains dasar.
+5. Apa yang perlu dilakukan ketika sistem klasifikasi tidak cocok dengan kebutuhan lokal?
 
 RANGKUMAN
-- Pahami istilah dan batas penggunaannya.
-- Hubungkan konsep dengan bukti yang relevan.
-- Perhatikan konteks serta kemungkinan penjelasan lain.
-- Sampaikan kesimpulan secara proporsional.
+- Klasifikasi mengatur penempatan koleksi.
+- Tajuk subjek dan kata kunci membantu pencarian topik.
+- Sistem temu kembali perlu disesuaikan dengan kebutuhan pengguna.
 
 BAB 5. LITERASI INFORMASI
 
 Literasi informasi mencakup kemampuan merumuskan kebutuhan, mencari sumber, menilai kredibilitas, mengutip, dan menggunakan informasi secara etis. Pengguna perlu membedakan sumber primer, sekunder, dan tersier. Tanggal, penulis, lembaga penerbit, metode, dan bukti merupakan unsur penting dalam penilaian.
 
 PENDALAMAN
-Konsep pada bab ini sebaiknya dipahami melalui hubungan antara definisi, proses, contoh, dan konsekuensi. Definisi membantu menetapkan batas istilah. Proses menjelaskan urutan atau mekanisme. Contoh memperlihatkan penerapan pada konteks tertentu. Konsekuensi menunjukkan hal yang dapat berubah ketika kondisi berbeda. Satu contoh tidak selalu mewakili semua keadaan, sehingga perhatikan faktor pembatas dan kemungkinan pengecualian.
+Strategi pencarian dimulai dari kata kunci utama, sinonim, istilah lebih luas, dan istilah lebih khusus. Hasil perlu disaring berdasarkan relevansi, otoritas, tanggal, dan bukti yang disajikan.
 
-AKTIVITAS PENGAMATAN
-Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+AKTIVITAS
+Susun kueri pencarian untuk pertanyaan tertentu. Uji sinonim dan frasa tepat, lalu bandingkan relevansi hasil dari dua jenis sumber.
 
 LATIHAN
-1. Jelaskan konsep utama tanpa menyalin kalimat buku.
-2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
-3. Berikan satu contoh dan satu contoh pembanding.
-4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
-5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
+1. Bedakan sumber primer, sekunder, dan tersier.
+2. Sebutkan unsur yang perlu diperiksa untuk menilai kredibilitas sumber.
+3. Mengapa tanggal publikasi dapat penting?
+4. Jelaskan cara mencatat sumber agar dapat ditemukan kembali.
+5. Bagaimana menghindari plagiarisme saat memakai informasi?
 
 RANGKUMAN
-- Pahami istilah dan batas penggunaannya.
-- Hubungkan konsep dengan bukti yang relevan.
-- Perhatikan konteks serta kemungkinan penjelasan lain.
-- Sampaikan kesimpulan secara proporsional.
+- Literasi informasi dimulai dari merumuskan kebutuhan.
+- Sumber dinilai berdasarkan otoritas, bukti, tanggal, dan metode.
+- Penggunaan informasi harus mencantumkan sumber.
 
 BAB 6. ETIKA DAN AKSES
 
 Layanan perpustakaan perlu menghormati privasi riwayat baca, aksesibilitas, hak cipta, dan kebebasan intelektual sesuai hukum. Koleksi digital harus memiliki dasar penggunaan yang sah. Desain layanan mempertimbangkan pengguna dengan kebutuhan berbeda dan menyediakan bantuan yang tidak menghakimi.
 
 PENDALAMAN
-Konsep pada bab ini sebaiknya dipahami melalui hubungan antara definisi, proses, contoh, dan konsekuensi. Definisi membantu menetapkan batas istilah. Proses menjelaskan urutan atau mekanisme. Contoh memperlihatkan penerapan pada konteks tertentu. Konsekuensi menunjukkan hal yang dapat berubah ketika kondisi berbeda. Satu contoh tidak selalu mewakili semua keadaan, sehingga perhatikan faktor pembatas dan kemungkinan pengecualian.
+Privasi pengguna, aksesibilitas, dan hak cipta harus dipertimbangkan sejak layanan dirancang. Kebijakan yang jelas membantu petugas menangani permintaan akses, koreksi data, dan penggunaan koleksi secara konsisten.
 
-AKTIVITAS PENGAMATAN
-Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+AKTIVITAS
+Rancang panduan singkat layanan yang menjelaskan privasi riwayat baca, akses bagi pengguna disabilitas, dan cara meminta bantuan.
 
 LATIHAN
-1. Jelaskan konsep utama tanpa menyalin kalimat buku.
-2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
-3. Berikan satu contoh dan satu contoh pembanding.
-4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
-5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
+1. Mengapa riwayat baca perlu dilindungi?
+2. Jelaskan hubungan aksesibilitas dengan kesetaraan layanan.
+3. Apa perbedaan akses yang sah dan penggandaan tanpa izin?
+4. Bagaimana petugas dapat menjaga kebebasan intelektual pengguna?
+5. Buat dua aturan layanan yang melindungi privasi.
 
 RANGKUMAN
-- Pahami istilah dan batas penggunaannya.
-- Hubungkan konsep dengan bukti yang relevan.
-- Perhatikan konteks serta kemungkinan penjelasan lain.
-- Sampaikan kesimpulan secara proporsional.
+- Layanan harus menjaga privasi dan akses yang adil.
+- Koleksi digunakan sesuai dasar hak yang sah.
+- Kebijakan yang jelas melindungi pengguna dan petugas.
 
 TUGAS TERPADU
 Buat laporan mini yang menghubungkan sekurang-kurangnya tiga bab. Tentukan tujuan, pertanyaan, metode, sumber informasi, dan batasan. Sajikan temuan secara runtut. Bedakan data yang diamati dari tafsiran. Jika informasi belum cukup, nyatakan dengan jujur dan jelaskan apa yang perlu dikumpulkan berikutnya.

@@ -97,7 +97,7 @@ PEMBAHASAN LATIHAN
 Untuk soal pertama, jawaban yang baik menyebut posisi sumber cahaya dan dampaknya terhadap sisi terang serta bayangan. Untuk soal kedua, keterangan tidak boleh menebak identitas atau alasan kejadian jika tidak terlihat. Untuk soal ketiga, perhatikan jarak kamera, tinggi kamera, dan hubungan objek depan-belakang. Untuk soal keempat, periksa wajah, alamat, papan nama, dokumen, lokasi sensitif, dan persetujuan orang yang tampak. Untuk soal kelima, karya artistik memberi ruang interpretasi, sedangkan dokumentasi harus mempertahankan integritas informasi dan menjelaskan perubahan yang dilakukan.
 
 GLOSARIUM
-Amplitudo cahaya: istilah yang tidak digunakan untuk menggantikan intensitas dalam pembahasan fotografi dasar.
+White balance: pengaturan keseimbangan warna agar objek putih tampak netral pada kondisi pencahayaan tertentu.
 Bingkai: batas bidang yang direkam kamera.
 Eksposur: jumlah cahaya yang diterima sensor atau media peka cahaya.
 Fokus: keadaan ketika detail pada jarak tertentu tampak paling tajam.

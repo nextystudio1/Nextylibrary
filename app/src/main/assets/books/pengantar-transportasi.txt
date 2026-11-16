@@ -156,3 +156,35 @@ Perubahan sebelum dan sesudah kebijakan tidak otomatis disebabkan kebijakan kare
 
 PROYEK PERENCANAAN MOBILITAS
 Pilih satu kawasan berdasarkan peta dan data publik. Petakan tujuan perjalanan, pilihan moda, hambatan akses, dan keselamatan. Susun dua alternatif perbaikan, bandingkan manfaat, biaya, kelompok terdampak, dan dampak samping. Jangan mengumpulkan jejak lokasi pribadi atau melakukan pengamatan lalu lintas yang membahayakan.
+BAB 12. PERENCANAAN TATA GUNA LAHAN DAN TRANSPORTASI
+
+Transportasi dan tata guna lahan membentuk hubungan timbal balik. Lokasi perumahan, sekolah, pusat kerja, pasar, dan layanan kesehatan memengaruhi panjang serta pola perjalanan. Pada saat yang sama, jalan dan layanan angkutan dapat mengubah daya tarik suatu lokasi untuk pembangunan. Karena itu, keputusan transportasi sebaiknya tidak dibuat terpisah dari kebijakan ruang.
+
+Kepadatan saja tidak cukup untuk menjelaskan kebutuhan perjalanan. Campuran fungsi, keterhubungan jaringan jalan, kualitas trotoar, akses ke halte, dan distribusi fasilitas juga penting. Kawasan padat dengan jaringan pejalan kaki yang terputus tetap dapat sulit dijangkau. Kawasan dengan fungsi campuran dapat mengurangi jarak beberapa perjalanan, tetapi manfaatnya bergantung pada harga hunian, keamanan, dan ketersediaan layanan.
+
+Konsep aksesibilitas dapat diukur melalui jumlah tujuan yang dapat dicapai dalam batas waktu atau biaya tertentu. Ukuran ini lebih dekat dengan kebutuhan masyarakat daripada sekadar menghitung kecepatan kendaraan. Namun, hasil analisis harus mempertimbangkan kelompok pengguna, waktu operasi, tarif, hambatan fisik, dan perbedaan jadwal.
+
+STUDI KASUS PERENCANAAN
+
+Sebuah kawasan baru memiliki perumahan, sekolah, pasar, dan pusat layanan kesehatan yang tersebar. Tim perencana membandingkan dua alternatif: memperlebar jalan utama atau memperbaiki jaringan jalan lokal, trotoar, penyeberangan, dan layanan pengumpan angkutan umum. Evaluasi tidak hanya menghitung kapasitas kendaraan. Tim juga mengukur akses anak sekolah, waktu perjalanan warga tanpa kendaraan pribadi, keselamatan persimpangan, biaya pembangunan, kebutuhan lahan, dan dampak bagi pedagang setempat.
+
+Hasil terbaik dapat berupa kombinasi bertahap, bukan satu proyek besar. Prioritas ditentukan berdasarkan jumlah orang yang memperoleh manfaat, tingkat risiko yang dikurangi, biaya pemeliharaan, dan kesesuaian dengan rencana tata ruang. Setiap alternatif perlu menyebut kelompok yang mungkin dirugikan dan cara mengurangi dampak tersebut.
+
+BAB 13. EKONOMI TRANSPORTASI DAN BIAYA EKSTERNAL
+
+Biaya perjalanan bagi pengguna meliputi tarif atau bahan bakar, parkir, perawatan, waktu, dan ketidakpastian. Namun, keputusan perjalanan juga menimbulkan biaya yang tidak selalu dibayar langsung oleh pelaku, seperti polusi udara, kebisingan, kemacetan, kerusakan infrastruktur, dan risiko keselamatan. Biaya eksternal perlu masuk dalam evaluasi kebijakan agar perbandingan antarmoda lebih adil.
+
+Analisis biaya-manfaat membandingkan biaya dan manfaat selama periode tertentu. Hasilnya sensitif terhadap asumsi nilai waktu, umur proyek, tingkat diskonto, pertumbuhan permintaan, dan biaya pemeliharaan. Angka agregat dapat menyembunyikan distribusi manfaat. Proyek yang menghasilkan manfaat total positif belum tentu adil jika beban terkonsentrasi pada warga berpenghasilan rendah atau kelompok yang harus pindah.
+
+Evaluasi ekonomi sebaiknya dilengkapi analisis distribusi. Tanyakan siapa yang membayar, siapa yang memperoleh penghematan waktu, siapa yang mendapat akses baru, dan siapa yang terpapar polusi atau kebisingan. Ukur dampak dalam beberapa skenario, bukan hanya satu ramalan. Bila data tidak pasti, sajikan rentang dan jelaskan asumsi.
+
+BAB 14. DATA, MODEL, DAN EVALUASI LAYANAN
+
+Data transportasi berasal dari survei rumah tangga, pencacahan lalu lintas, catatan tiket, GPS armada, sensor, dan observasi lapangan. Setiap sumber memiliki cakupan serta bias. Data aplikasi perjalanan, misalnya, dapat kurang mewakili orang yang tidak menggunakan ponsel pintar atau tidak mengizinkan pelacakan. Data jumlah kendaraan tidak otomatis menunjukkan jumlah orang yang terangkut.
+
+Model permintaan memperkirakan perjalanan berdasarkan faktor seperti penduduk, pekerjaan, tata guna lahan, biaya, dan kualitas layanan. Model adalah penyederhanaan, bukan gambaran sempurna. Hasil perlu diuji terhadap data aktual, diperiksa sensitivitasnya, dan diperbarui ketika pola perjalanan berubah. Prediksi tidak boleh disajikan sebagai kepastian.
+
+Indikator layanan dapat mencakup ketepatan waktu, frekuensi, keterjangkauan, kepadatan penumpang, aksesibilitas halte, keselamatan, dan kepuasan pengguna. Indikator harus didefinisikan dengan jelas. “Tepat waktu” misalnya membutuhkan batas toleransi dan titik pengukuran. Data perlu dipilah menurut waktu, rute, dan kebutuhan pengguna tanpa membuka identitas pribadi.
+
+LATIHAN PERENCANAAN
+Buat evaluasi sederhana untuk satu koridor angkutan. Tetapkan tujuan layanan, pilih lima indikator, jelaskan cara mengumpulkan data, dan tentukan kelompok pengguna yang perlu diwawancarai. Susun rekomendasi jangka pendek dan jangka panjang beserta keterbatasan analisis.

@@ -203,3 +203,41 @@ Datum: acuan matematis untuk menentukan posisi bumi.
 Overlay: penggabungan lapisan spasial.
 Raster: data spasial berbentuk kisi sel.
 Vektor: data spasial berbentuk titik, garis, atau poligon.
+
+BAB 11. KARTOGRAFI DAN BAHASA PETA
+Kartografi adalah ilmu dan praktik merancang peta agar informasi spasial dapat dibaca dengan tepat. Peta memerlukan judul, legenda, skala, orientasi bila diperlukan, sumber data, dan keterangan waktu. Simbol harus konsisten: simbol titik untuk lokasi, garis untuk jaringan atau aliran, dan bidang untuk zona. Ukuran simbol, ketebalan garis, serta pilihan warna perlu disesuaikan dengan skala dan tujuan.
+
+Peta tematik menonjolkan satu tema, misalnya kepadatan penduduk atau sebaran fasilitas. Kelas data dapat dibentuk dengan beberapa metode, seperti interval sama atau kuantil. Pilihan klasifikasi mengubah pola yang tampak, sehingga metode perlu disebutkan. Jangan memilih klasifikasi hanya agar peta terlihat dramatis. Sertakan satuan dan periode data agar pembaca memahami apa yang sedang dibandingkan.
+
+BAB 12. KUALITAS DATA DAN KETIDAKPASTIAN
+Data spasial memiliki ketidakpastian posisi, atribut, waktu, dan kelengkapan. Titik lokasi dari telepon dapat bergeser karena kondisi penerimaan sinyal. Batas administrasi dapat berubah setelah pembaruan resmi. Data fasilitas mungkin tidak mencakup tempat yang belum tercatat. Karena itu, peta harus menyebut sumber dan tanggal pembaruan.
+
+Skala penggunaan juga penting. Data yang dibuat untuk gambaran tingkat kota tidak selalu layak digunakan untuk keputusan pada tingkat persil atau bangunan. Ketelitian angka tidak boleh melebihi ketelitian sumber. Ketika dua sumber berbeda, periksa definisi, metode pengumpulan, waktu, dan cakupan sebelum menggabungkannya. Catat keterbatasan secara terbuka.
+
+BAB 13. PEMETAAN PARTISIPATIF DAN PENGETAHUAN LOKAL
+Pemetaan partisipatif melibatkan warga dalam menentukan informasi yang penting bagi kehidupan mereka. Warga dapat mengetahui jalur yang sering terputus, lokasi genangan musiman, atau akses fasilitas yang tidak tampak pada peta resmi. Pengetahuan lokal melengkapi data teknis, tetapi tetap perlu dicatat konteks dan cara verifikasinya.
+
+Partisipasi harus dilakukan dengan persetujuan dan penjelasan tujuan. Jangan mempublikasikan lokasi yang dapat membahayakan seseorang atau kelompok. Beri kesempatan kepada peserta untuk memeriksa hasil dan mengoreksi kesalahan. Peta partisipatif yang baik tidak hanya mengambil informasi, tetapi juga mengembalikan hasil kepada komunitas dalam bentuk yang dapat digunakan.
+
+BAB 14. PETA UNTUK PENGAMBILAN KEPUTUSAN
+Peta membantu membandingkan pilihan lokasi, mengidentifikasi kesenjangan layanan, dan memahami hubungan antarwilayah. Namun, peta bukan keputusan itu sendiri. Pembuat kebijakan perlu mempertimbangkan biaya, aksesibilitas, dampak sosial, kondisi lingkungan, dan masukan warga. Lapisan data yang terlihat sederhana dapat menyembunyikan perbedaan kualitas dan waktu pengumpulan.
+
+Contohnya, peta jarak ke sekolah belum tentu menggambarkan kemudahan akses. Sungai, jalan yang tidak aman, biaya transportasi, dan kondisi bagi penyandang disabilitas dapat memengaruhi perjalanan. Gabungkan analisis spasial dengan survei, observasi, dan konsultasi. Jelaskan asumsi serta kelompok yang mungkin tidak terwakili.
+
+BAB 15. MENYUSUN PROYEK PEMETAAN
+Proyek pemetaan dimulai dengan pertanyaan yang jelas. Tentukan wilayah, pengguna, skala, tema, sumber data, dan bentuk keluaran. Buat inventaris lapisan yang dibutuhkan, periksa lisensi dan ketentuan penggunaan, lalu dokumentasikan proses. Simpan data asli terpisah dari data hasil olahan agar perubahan dapat ditelusuri.
+
+Sebelum dipublikasikan, lakukan pemeriksaan: apakah legenda sesuai, label terbaca, koordinat benar, sumber tercantum, dan informasi sensitif terlindungi? Minta orang lain membaca peta tanpa penjelasan lisan. Jika mereka salah memahami simbol atau kesimpulan, perbaiki desain dan keterangan. Simpan versi serta tanggal pembaruan.
+
+LATIHAN TERAPAN
+1. Jelaskan mengapa metode klasifikasi harus dicantumkan pada peta tematik.
+2. Berikan contoh ketidakpastian posisi dan ketidakpastian waktu.
+3. Susun prinsip persetujuan untuk kegiatan pemetaan partisipatif.
+4. Mengapa peta jarak ke sekolah belum tentu menunjukkan akses yang setara?
+5. Buat daftar pemeriksaan sebelum peta dipublikasikan.
+
+GLOSARIUM TAMBAHAN
+Kartografi: ilmu dan praktik pembuatan peta.
+Klasifikasi: pengelompokan nilai data ke dalam kelas.
+Pemetaan partisipatif: pemetaan yang melibatkan komunitas terkait.
+Ketidakpastian: keterbatasan kepastian pada posisi, atribut, waktu, atau cakupan data.

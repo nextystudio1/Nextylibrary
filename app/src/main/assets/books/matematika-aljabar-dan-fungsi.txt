@@ -332,3 +332,20 @@ Sebuah kegiatan menjual tiket dengan biaya tetap dan pendapatan per tiket terten
 
 RANGKUMAN BAB
 Persamaan kuadrat, sistem linear, pertidaksamaan, eksponen, dan logaritma menyediakan alat untuk menyelesaikan masalah dengan batasan. Interpretasi hasil dan pemeriksaan asumsi sama pentingnya dengan prosedur hitung.
+
+BAB BARISAN DAN DERET
+Barisan adalah susunan bilangan menurut aturan tertentu. Barisan aritmetika memiliki selisih tetap antara suku berurutan. Barisan geometri memiliki rasio tetap antara suku berurutan selama suku sebelumnya tidak nol. Rumus suku ke-n membantu menentukan nilai pada posisi tertentu tanpa menuliskan semua suku.
+
+Deret adalah penjumlahan suku-suku barisan. Jumlah n suku pertama barisan aritmetika dapat dihitung dari rata-rata suku pertama dan terakhir dikalikan banyak suku. Deret geometri memiliki rumus jumlah khusus ketika rasio tidak sama dengan satu. Rumus harus digunakan dengan memperhatikan nilai awal dan rasio.
+
+PERTUMBUHAN DAN PELURUHAN
+Model geometri dapat menggambarkan pertumbuhan berulang dengan persentase tetap, misalnya nilai simulasi yang bertambah setiap periode. Model peluruhan dapat menggambarkan penurunan proporsional. Dalam dunia nyata, model ini hanya berlaku jika asumsi relatif tetap cukup masuk akal; perubahan kebijakan, sumber daya, atau kondisi lingkungan dapat mengubah pola.
+
+POLA DAN PEMBUKTIAN
+Menemukan beberapa suku awal dapat membantu menduga pola, tetapi tidak membuktikan bahwa aturan berlaku untuk semua suku. Pembuktian matematika memerlukan alasan logis. Induksi matematika membuktikan pernyataan untuk bilangan asli dengan menunjukkan kasus dasar dan bahwa kebenaran pada satu tahap mengakibatkan kebenaran tahap berikutnya.
+
+LATIHAN
+Buat barisan aritmetika yang menggambarkan jumlah kursi pada tiap baris aula dan barisan geometri yang menggambarkan pertumbuhan nilai simulasi. Hitung beberapa suku dan jumlahnya. Jelaskan asumsi yang membuat model tersebut berlaku.
+
+RANGKUMAN BAB
+Barisan, deret, pertumbuhan, peluruhan, dan pembuktian membantu mengenali pola serta menilai apakah dugaan matematika benar-benar berlaku.

@@ -412,3 +412,23 @@ Bandingkan dua bahan pembersih berdasarkan label, fungsi, petunjuk penggunaan, d
 
 RANGKUMAN BAB
 Ikatan, bentuk molekul, gaya antarmolekul, laju reaksi, dan kimia hijau menjelaskan sifat bahan serta dampak proses kimia. Pengetahuan kimia perlu disertai penggunaan bahan sesuai label dan prosedur aman.
+
+BAB LARUTAN, KONSENTRASI, DAN pH
+Larutan terdiri atas zat terlarut dan pelarut. Konsentrasi menyatakan jumlah zat terlarut dalam sejumlah larutan atau pelarut. Satuan dapat berupa molaritas, persen massa, atau satuan lain sesuai konteks. Perbandingan konsentrasi hanya bermakna jika satuan dan dasar pengukurannya sama.
+
+Asam meningkatkan konsentrasi ion hidrogen dalam model larutan air, sedangkan basa menerima proton atau menghasilkan ion hidroksida menurut definisi yang digunakan. pH merupakan ukuran logaritmik yang berkaitan dengan aktivitas ion hidrogen. Perubahan satu satuan pH menunjukkan perubahan sepuluh kali pada skala konsentrasi dalam pendekatan larutan encer ideal.
+
+BUFFER DAN NETRALISASI
+Larutan penyangga membantu menahan perubahan pH ketika sejumlah kecil asam atau basa ditambahkan. Sistem penyangga penting dalam darah, lingkungan perairan, dan proses industri. Netralisasi adalah reaksi asam-basa yang dapat menghasilkan air dan garam, tetapi komposisi produk bergantung pada reaktan serta kondisi reaksi.
+
+KIMIA AIR
+Kualitas air dinilai melalui berbagai parameter, seperti pH, kekeruhan, oksigen terlarut, kandungan zat terlarut, dan mikroorganisme. Air yang tampak jernih belum tentu aman diminum. Pengujian dan pengolahan harus mengikuti standar resmi; jangan mencoba mengidentifikasi keamanan air hanya melalui rasa atau bau.
+
+KOROSI DAN PENCEGAHAN
+Korosi adalah kerusakan material akibat reaksi kimia atau elektrokimia dengan lingkungan. Pada besi, korosi melibatkan oksigen dan air. Pelapisan, pemilihan material, pengendalian kelembapan, dan perlindungan elektrokimia dapat mengurangi laju korosi. Pencegahan harus mempertimbangkan biaya, umur pakai, dan dampak lingkungan bahan pelapis.
+
+LATIHAN
+Buat peta konsep hubungan larutan, konsentrasi, asam-basa, pH, buffer, dan kualitas air. Gunakan data contoh dari buku atau sumber laboratorium pendidikan. Jangan mencicipi atau mencampur cairan rumah tangga untuk percobaan.
+
+RANGKUMAN BAB
+Konsep larutan dan asam-basa menjelaskan banyak proses biologis, lingkungan, dan industri. Pengukuran kimia memerlukan alat sesuai prosedur dan tidak boleh diganti dengan perkiraan indra.

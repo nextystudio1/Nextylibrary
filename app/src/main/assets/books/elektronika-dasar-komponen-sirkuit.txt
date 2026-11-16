@@ -342,3 +342,23 @@ Rancang diagram sistem pemantau suhu kelas menggunakan sensor, mikrokontroler, i
 
 RANGKUMAN BAB
 Logika digital, mikrokontroler, sensor, kalibrasi, dan manajemen daya menjadi dasar banyak perangkat modern. Rancangan yang baik menggabungkan fungsi, pengujian, dan keselamatan.
+
+BAB DIODA, TRANSISTOR, DAN PENGUAT
+Dioda adalah komponen semikonduktor yang pada kondisi tertentu lebih mudah mengalirkan arus ke satu arah dibanding arah sebaliknya. Dioda digunakan untuk penyearah, perlindungan polaritas, dan pembatas sinyal. LED memancarkan cahaya ketika dialiri arus pada arah dan rentang yang sesuai; pembatas arus diperlukan agar komponen tidak rusak.
+
+Transistor dapat berfungsi sebagai sakelar elektronik atau penguat. Dalam rangkaian digital, transistor digunakan untuk merepresentasikan keadaan logika. Dalam rangkaian analog, transistor dapat menguatkan sinyal kecil dengan rancangan bias yang tepat. Pemilihan komponen mempertimbangkan tegangan, arus, daya, frekuensi, dan pembuangan panas.
+
+PENGUAT DAN UMPAN BALIK
+Penguat meningkatkan amplitudo sinyal, tetapi tidak menciptakan energi; daya keluaran berasal dari catu daya. Penguatan dinyatakan sebagai perbandingan keluaran terhadap masukan. Umpan balik negatif dapat membantu menstabilkan penguatan dan memperbaiki karakteristik, tetapi desain yang tidak tepat dapat menimbulkan osilasi.
+
+FILTER ANALOG
+Filter memilih rentang frekuensi tertentu. Filter lolos-rendah melewatkan frekuensi di bawah daerah batas, sedangkan filter lolos-tinggi melewatkan frekuensi di atasnya. Filter lolos-pita memilih rentang tertentu. Rangkaian RC sederhana dapat membentuk filter, dan frekuensi batas ideal bergantung pada nilai resistansi serta kapasitansi.
+
+PENGUKURAN DAN KESALAHAN
+Multimeter dapat mengukur tegangan, arus, dan resistansi sesuai mode serta batas alat. Mode pengukuran harus dipilih sebelum menyentuhkan probe. Pengukuran arus umumnya memerlukan meter dipasang seri, sedangkan tegangan diukur paralel. Demonstrasi dilakukan hanya pada rangkaian tegangan rendah yang dirancang untuk pembelajaran dan dengan pengawasan guru.
+
+LATIHAN
+Gambar diagram blok sebuah sensor cahaya yang mengendalikan indikator LED menggunakan mikrokontroler. Jelaskan fungsi sensor, pengolah, pembatas arus, dan indikator. Gunakan simulator atau kit pendidikan sesuai petunjuk, bukan rangkaian listrik rumah.
+
+RANGKUMAN BAB
+Dioda, transistor, penguat, filter, dan alat ukur membentuk dasar elektronika modern. Pemilihan komponen dan prosedur pengukuran harus sesuai spesifikasi serta batas keselamatan.

@@ -293,3 +293,20 @@ Pilih satu klaim populer yang tidak menyangkut data pribadi. Telusuri sumber awa
 
 RANGKUMAN BAB
 Berpikir kritis digital berarti memahami rekomendasi otomatis, mengenali bias, memeriksa konteks media, dan menimbang bukti yang mendukung maupun menentang suatu klaim.
+
+BAB KECERDASAN BUATAN DAN INFORMASI PALSU
+Alat AI dapat menghasilkan teks, gambar, suara, dan video yang tampak meyakinkan. Konten sintetis dapat digunakan untuk pembelajaran dan karya kreatif, tetapi juga dapat disalahgunakan untuk menyamar atau menyebarkan informasi keliru. Jangan menganggap konten asli hanya karena terlihat realistis atau dibagikan oleh akun populer.
+
+Periksa asal konten, tanggal, konteks, dan konfirmasi dari sumber independen. Metadata dapat membantu tetapi dapat diubah atau hilang ketika berkas dibagikan. Deteksi otomatis juga memiliki kesalahan; hasil alat pendeteksi bukan bukti tunggal bahwa suatu media palsu.
+
+KONTEKS DAN VERIFIKASI
+Untuk gambar, telusuri apakah foto pernah muncul sebelumnya dan apakah lokasi serta waktu cocok. Untuk kutipan, cari rekaman atau dokumen lengkap. Untuk klaim angka, temukan laporan asal dan periksa definisi indikator. Jangan membagikan ulang konten sensitif yang belum diverifikasi, terutama jika dapat merugikan orang tertentu.
+
+PERBEDAAN PENDAPAT DAN DISKUSI
+Diskusi sehat menguji gagasan tanpa menyerang pribadi. Nyatakan klaim dengan jelas, berikan bukti, dengarkan sanggahan, dan perbaiki kesimpulan jika bukti berubah. Tidak semua perdebatan memiliki bukti yang seimbang; kesetaraan waktu bicara tidak berarti semua klaim sama kuat.
+
+LATIHAN
+Gunakan contoh berita fiktif yang menyatakan suatu kejadian berlangsung di tempat dan tanggal tertentu. Buat daftar bukti yang diperlukan untuk memverifikasi lokasi, waktu, sumber, dan konteks. Jelaskan kapan kesimpulan harus ditunda.
+
+RANGKUMAN BAB
+Berpikir kritis di era AI menuntut pemeriksaan asal konten, verifikasi lintas sumber, dan diskusi berbasis bukti. Kewaspadaan tidak berarti menolak semua teknologi, tetapi memahami batasnya.

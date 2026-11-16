@@ -393,3 +393,21 @@ Pilih satu sumber daya di daerah setempat, misalnya air, lahan pertanian, atau e
 
 RANGKUMAN BAB
 Geografi pembangunan menghubungkan sumber daya, pangan, energi, dan keadilan ruang. Kebijakan yang berkelanjutan harus mempertimbangkan distribusi manfaat, dampak lingkungan, serta kebutuhan generasi mendatang.
+
+BAB PERDAGANGAN GLOBAL DAN KETERHUBUNGAN
+Perdagangan internasional terjadi ketika barang atau jasa berpindah antarnegara. Perdagangan dipengaruhi perbedaan sumber daya, teknologi, biaya produksi, permintaan, kebijakan, dan nilai tukar. Keunggulan komparatif menjelaskan bahwa suatu wilayah dapat memperoleh manfaat dari spesialisasi ketika biaya peluang produksinya relatif lebih rendah, meskipun wilayah lain mungkin lebih produktif dalam semua barang.
+
+RANTAI PASOK DAN LOGISTIK
+Produk modern sering melewati rantai pasok lintas wilayah: bahan mentah, komponen, perakitan, distribusi, dan layanan purna jual dapat berlangsung di tempat berbeda. Gangguan pelabuhan, cuaca ekstrem, konflik, atau bencana dapat memengaruhi ketersediaan barang. Ketergantungan pada satu pemasok meningkatkan kerentanan, sehingga diversifikasi dan cadangan strategis dapat menjadi bagian perencanaan.
+
+KOTA GLOBAL DAN MIGRASI
+Kota menjadi simpul perdagangan, pendidikan, keuangan, dan budaya. Migrasi dapat didorong pekerjaan, pendidikan, keluarga, konflik, atau perubahan lingkungan. Migrasi memberi kontribusi ekonomi dan pertukaran pengetahuan, tetapi juga memerlukan layanan perumahan, kesehatan, pendidikan, dan perlindungan hak pekerja.
+
+KETIMPANGAN ANTARWILAYAH
+Perbedaan akses infrastruktur, pendidikan, kesehatan, teknologi, dan pasar dapat memperkuat kesenjangan wilayah. Indikator rata-rata perlu dilengkapi data distribusi agar kelompok yang tertinggal terlihat. Pembangunan konektivitas harus memperhatikan dampak terhadap lingkungan, budaya lokal, dan biaya hidup.
+
+LATIHAN
+Pilih satu produk sehari-hari dan telusuri kemungkinan tahap rantai pasoknya dari bahan baku hingga konsumen. Gunakan label atau sumber publik; jangan menebak negara asal jika tidak tersedia. Gambarkan titik yang berpotensi mengalami gangguan dan usulkan cara meningkatkan ketahanan.
+
+RANGKUMAN BAB
+Geografi ekonomi menghubungkan perdagangan, logistik, migrasi, kota, dan ketimpangan wilayah. Keterhubungan membuka peluang, tetapi juga menyebarkan risiko dan menuntut perencanaan yang adil.

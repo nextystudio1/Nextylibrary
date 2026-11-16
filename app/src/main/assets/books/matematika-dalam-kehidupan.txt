@@ -443,3 +443,21 @@ Sebuah kelas merancang kotak penyimpanan dari karton dengan luas bahan terbatas.
 
 RANGKUMAN BAB
 Peluang, risiko, geometri, dan optimasi membantu membuat keputusan yang lebih terukur. Matematika yang baik selalu menyatakan model, asumsi, satuan, serta keterbatasan hasil.
+
+BAB MATEMATIKA UNTUK MEMBACA INFORMASI PUBLIK
+Persentase sering digunakan dalam berita, survei, dan laporan. Selalu periksa jumlah awal, jumlah akhir, penyebut, periode, dan kelompok yang dihitung. Kenaikan dari 10 menjadi 15 adalah kenaikan 5 satuan atau 50 persen, sedangkan kenaikan dari 1.000 menjadi 1.005 hanya 0,5 persen. Angka absolut dan relatif menjawab pertanyaan berbeda.
+
+SKALA DAN PROPORSI
+Skala peta adalah perbandingan jarak pada peta dengan jarak sebenarnya. Skala 1:100.000 berarti satu satuan panjang pada peta mewakili 100.000 satuan yang sama di lapangan. Konversi satuan harus dilakukan dengan konsisten. Skala grafik juga perlu diperiksa karena pemotongan sumbu dapat membesar-besarkan perbedaan visual.
+
+MATEMATIKA DALAM PERENCANAAN
+Perencanaan kegiatan menggunakan estimasi waktu, jumlah peserta, kapasitas ruang, dan kebutuhan bahan. Perkiraan sebaiknya menyertakan cadangan untuk ketidakpastian. Jika kapasitas ruangan 30 orang, pendaftaran 40 orang memerlukan pembagian sesi atau tempat tambahan. Perhitungan yang benar membantu menghindari keputusan yang tidak realistis.
+
+KESALAHAN PENALARAN ANGKA
+Rata-rata dapat dipengaruhi nilai ekstrem, sehingga median kadang lebih mewakili nilai tipikal. Persentase dari kelompok berbeda tidak boleh dibandingkan tanpa memperhatikan ukuran dan karakteristik kelompok. Grafik yang menunjukkan hubungan tidak otomatis membuktikan sebab-akibat. Pertanyaan tentang sumber dan metode pengumpulan data selalu penting.
+
+LATIHAN
+Ambil tabel data publik tentang jumlah penduduk atau fasilitas. Hitung perubahan absolut dan persentase pada dua periode. Periksa apakah definisi wilayah dan metode pengumpulan data konsisten. Tulis kesimpulan yang menyebutkan apa yang dapat dan tidak dapat disimpulkan.
+
+RANGKUMAN BAB
+Matematika membantu membaca informasi publik, skala, proporsi, dan perencanaan. Angka harus disertai konteks, satuan, penyebut, dan pemeriksaan asumsi.

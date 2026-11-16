@@ -319,3 +319,20 @@ Gunakan simulasi pinjaman sederhana dengan pokok Rp1.000.000 dan dua skenario bu
 
 RANGKUMAN BAB
 Literasi keuangan meliputi tujuan, cadangan, pinjaman, bunga majemuk, serta keamanan belanja digital. Keputusan penting harus berdasarkan syarat tertulis dan pemahaman risiko, bukan tekanan promosi.
+
+BAB PENIPUAN KEUANGAN DAN PERLINDUNGAN DATA
+Penipuan keuangan dapat memakai pesan hadiah, investasi palsu, penyamaran petugas, atau tekanan untuk segera mengirim uang. Pelaku sering membuat korban panik atau takut kehilangan kesempatan. Berhenti sejenak, jangan membalas dengan data pribadi, dan periksa informasi melalui nomor atau situs resmi yang dicari sendiri, bukan tautan dalam pesan.
+
+Data keuangan seperti nomor rekening, PIN, kata sandi, kode OTP, dan informasi identitas harus dijaga. Petugas resmi tidak seharusnya meminta kata sandi atau kode rahasia untuk memindahkan uang. Gunakan kata sandi unik, verifikasi tambahan, dan pemberitahuan transaksi bila tersedia.
+
+MEMBACA KONTRAK
+Sebelum menyetujui layanan, periksa biaya, kewajiban, jangka waktu, denda, syarat pembatalan, penggunaan data, dan mekanisme pengaduan. Jangan menyetujui dokumen yang tidak dipahami. Untuk pelajar, keputusan kontrak atau produk keuangan harus dibicarakan dengan wali dan mengikuti batas usia serta aturan.
+
+KONSUMSI BERKELANJUTAN
+Keputusan belanja dapat mempertimbangkan kebutuhan, daya tahan, perbaikan, penggunaan energi, dan limbah. Produk termurah belum tentu memiliki biaya total terendah jika cepat rusak. Namun, pilihan berkelanjutan harus tetap realistis terhadap anggaran dan akses rumah tangga.
+
+LATIHAN
+Buat daftar tanda peringatan dari pesan penipuan fiktif: urgensi, tautan tidak resmi, janji hadiah, permintaan kode, dan identitas yang tidak dapat diverifikasi. Susun langkah aman jika menerima pesan seperti itu. Jangan menghubungi nomor yang tercantum pada contoh pesan.
+
+RANGKUMAN BAB
+Perlindungan keuangan memerlukan kewaspadaan terhadap penipuan, keamanan data, pembacaan kontrak, dan keputusan konsumsi yang terencana.

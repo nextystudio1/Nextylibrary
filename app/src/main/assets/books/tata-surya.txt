@@ -310,3 +310,23 @@ Jelaskan perbedaan orbit geostasioner dan orbit polar. Kemudian uraikan mengapa 
 
 RANGKUMAN BAB
 Gravitasi, hukum orbit, satelit buatan, dan pencarian eksoplanet menunjukkan penerapan fisika dalam eksplorasi ruang angkasa. Kesimpulan tentang planet lain harus didasarkan pada pengukuran dan mempertimbangkan keterbatasan metode.
+
+BAB BUMI, BULAN, DAN GERHANA
+Bulan mengorbit Bumi dan memperlihatkan fase karena bagian permukaannya yang diterangi Matahari tampak berbeda dari sudut pandang pengamat. Fase Bulan bukan disebabkan bayangan Bumi; bayangan Bumi pada Bulan terjadi saat gerhana Bulan. Gerhana Matahari terjadi ketika Bulan berada di antara Bumi dan Matahari sehingga menutupi sebagian atau seluruh piringan Matahari dari wilayah tertentu.
+
+Gerhana tidak terjadi setiap bulan karena bidang orbit Bulan miring terhadap bidang orbit Bumi mengelilingi Matahari. Gerhana hanya terjadi ketika ketiganya berada dekat garis simpul orbit. Gerhana total hanya terlihat dari jalur sempit di permukaan Bumi, sedangkan gerhana sebagian dapat terlihat dari wilayah lebih luas.
+
+MUSIM DAN KEMIRINGAN SUMBU
+Musim terutama terjadi karena kemiringan sumbu rotasi Bumi terhadap bidang orbitnya, bukan karena jarak Bumi-Matahari. Ketika suatu belahan Bumi condong ke arah Matahari, siang lebih panjang dan sinar datang lebih tegak sehingga energi yang diterima meningkat. Belahan lain mengalami pola berlawanan.
+
+ROTASI, REVOLUSI, DAN WAKTU
+Rotasi Bumi menyebabkan pergantian siang dan malam. Revolusi Bumi mengelilingi Matahari bersama kemiringan sumbu menghasilkan pola musim tahunan. Zona waktu merupakan kesepakatan manusia yang berkaitan dengan posisi bujur dan kebutuhan sosial, bukan batas alam yang selalu lurus.
+
+KESELAMATAN PENGAMATAN
+Matahari tidak boleh dilihat langsung melalui mata, kamera, teleskop, atau teropong tanpa filter surya khusus yang dirancang untuk alat tersebut dan dipasang dengan benar. Kacamata hitam biasa tidak aman. Pengamatan gerhana dapat dilakukan melalui proyeksi lubang jarum atau alat bersertifikasi sesuai panduan lembaga astronomi.
+
+LATIHAN
+Buat model sederhana menggunakan bola sebagai Bumi dan sumber cahaya sebagai Matahari untuk menjelaskan musim. Tandai sumbu Bumi dan tunjukkan posisi ketika belahan utara atau selatan condong ke arah Matahari. Gunakan lampu dingin dan jangan menatap sumber cahaya intens.
+
+RANGKUMAN BAB
+Fase Bulan, gerhana, musim, rotasi, dan revolusi merupakan akibat geometri gerak benda langit. Memahami model orbit membantu menghindari miskonsepsi umum dan melakukan pengamatan secara aman.

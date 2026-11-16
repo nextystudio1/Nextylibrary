@@ -163,3 +163,26 @@ Induksi: penalaran dari pengamatan menuju pola umum.
 Premis: pernyataan dasar dalam argumen.
 Bias konfirmasi: kecenderungan memilih bukti yang mendukung keyakinan.
 Umpan balik: pengaruh hasil proses terhadap proses berikutnya.
+
+BAB LANJUTAN: PENALARAN, ARGUMEN, DAN PEMECAHAN MASALAH
+
+1. Memisahkan klaim dan alasan
+Argumen terdiri atas klaim yang didukung alasan dan bukti. Ketika membaca suatu pernyataan, tandai kesimpulan, alasan, asumsi, serta data pendukungnya. Bedakan fakta yang dapat diperiksa dari penilaian atau rekomendasi. Sebuah argumen dapat terdengar meyakinkan tetapi tetap lemah jika bukti tidak relevan.
+
+2. Deduksi dan induksi
+Penalaran deduktif bergerak dari premis menuju kesimpulan yang mengikuti aturan logis. Penalaran induktif menyusun generalisasi atau prediksi dari sejumlah pengamatan. Kesimpulan induktif memiliki tingkat dukungan, bukan kepastian mutlak. Banyak keputusan sehari-hari menggabungkan keduanya.
+
+3. Korelasi dan sebab-akibat
+Dua hal yang berubah bersama belum tentu salah satunya menyebabkan yang lain. Mungkin ada faktor ketiga, arah hubungan terbalik, atau kebetulan. Untuk menilai sebab-akibat, perhatikan urutan waktu, mekanisme yang masuk akal, penjelasan alternatif, serta rancangan penelitian.
+
+4. Kekeliruan berpikir
+Serangan terhadap pribadi tidak membantah isi argumen. Mengambil satu contoh lalu menggeneralisasi terlalu luas juga lemah. Pilihan palsu menyajikan seolah hanya ada dua kemungkinan padahal alternatif lain tersedia. Mengenali kekeliruan membantu memperbaiki diskusi, bukan sekadar memberi label kepada lawan bicara.
+
+5. Metode pemecahan masalah
+Rumuskan masalah secara spesifik, kumpulkan informasi, pecah menjadi bagian kecil, buat beberapa solusi, tentukan kriteria, uji pilihan, dan evaluasi hasil. Catat asumsi serta batas waktu. Jika hasil tidak sesuai, kembali ke tahap diagnosis alih-alih mempertahankan solusi yang gagal.
+
+6. Keputusan dalam ketidakpastian
+Gunakan skenario, rentang perkiraan, dan analisis sensitivitas. Tanyakan apakah keputusan tetap masuk akal ketika asumsi berubah. Untuk keputusan yang berdampak besar, cari pendapat ahli dan pihak yang terkena dampak.
+
+LATIHAN
+Baca sebuah klaim populer. Tulis kesimpulannya, bukti yang diberikan, asumsi tersembunyi, kemungkinan penjelasan lain, dan informasi tambahan yang diperlukan sebelum mempercayainya.

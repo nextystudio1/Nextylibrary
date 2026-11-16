@@ -81,28 +81,28 @@ LATIHAN
 3. Mengapa massa awal penting bagi evolusi bintang? Jawaban: massa memengaruhi tekanan, suhu inti, laju fusi, dan tahapan akhir.
 
 PENDALAMAN: FISIKA, PENGAMATAN, DAN SKALA ALAM SEMESTA
-BAB 7 — CAHAYA SEBAGAI PEMBAWA INFORMASI
+BAB 13 — CAHAYA SEBAGAI PEMBAWA INFORMASI
 Astronom tidak dapat mendatangi sebagian besar objek langit. Informasi diperoleh dari cahaya dan bentuk radiasi lain yang mencapai teleskop. Warna atau panjang gelombang berkaitan dengan suhu dan proses fisika, sedangkan spektrum dapat menunjukkan unsur kimia, gerak, dan kondisi gas. Garis spektrum yang bergeser ke arah panjang gelombang lebih besar dapat menandakan objek menjauh dalam keadaan tertentu.
 Atmosfer Bumi menyerap sebagian radiasi sehingga pengamatan inframerah, ultraviolet, sinar-X, dan gamma sering memerlukan teleskop khusus di luar angkasa atau lokasi dengan kondisi tertentu. Tidak semua teleskop menghasilkan foto berwarna seperti yang dilihat mata. Warna pada citra ilmiah dapat dipetakan untuk memperjelas perbedaan panjang gelombang dan harus dijelaskan keterangannya.
-BAB 8 — GRAVITASI DAN ORBIT
+BAB 14 — GRAVITASI DAN ORBIT
 Gravitasi membuat benda bermassa saling tarik-menarik. Orbit bukan keadaan tanpa gravitasi; benda yang mengorbit terus-menerus jatuh mengitari objek pusat sambil memiliki kecepatan menyamping. Bentuk orbit dan periodenya dipengaruhi massa, jarak, dan kecepatan.
 Kecepatan orbit yang diperlukan berbeda menurut jarak dari pusat. Satelit lebih dekat ke Bumi bergerak lebih cepat daripada satelit pada orbit yang lebih tinggi. Orbit geostasioner memiliki periode yang sama dengan rotasi Bumi dan berada di atas wilayah khatulistiwa, sehingga tampak tetap di atas satu garis bujur. Orbit ini berguna untuk komunikasi dan pemantauan cuaca, tetapi tidak cocok untuk semua kebutuhan.
-BAB 9 — BINTANG: DARI KELAHIRAN HINGGA AKHIR
+BAB 15 — BINTANG: DARI KELAHIRAN HINGGA AKHIR
 Bintang terbentuk ketika bagian awan gas dan debu runtuh akibat gravitasi. Ketika bagian pusat cukup panas dan rapat, fusi nuklir dapat berlangsung dan menghasilkan energi. Keseimbangan antara tekanan ke luar dan gravitasi ke dalam menjaga kestabilan bintang selama sebagian besar hidupnya.
 Massa awal sangat menentukan perjalanan bintang. Bintang bermassa rendah dapat berkembang menjadi raksasa merah dan akhirnya meninggalkan katai putih. Bintang bermassa jauh lebih besar dapat mengalami perubahan lebih cepat dan berakhir melalui ledakan supernova, menyisakan bintang neutron atau lubang hitam pada kondisi tertentu. Tidak semua bintang berakhir dengan cara yang sama.
-BAB 10 — GALAKSI DAN LINGKUNGAN KOSMIK
+BAB 16 — GALAKSI DAN LINGKUNGAN KOSMIK
 Galaksi adalah sistem besar yang terdiri atas bintang, gas, debu, dan materi gelap yang terikat gravitasi. Galaksi spiral memiliki lengan yang menonjol, galaksi elips tampak lebih halus, sedangkan galaksi tak beraturan tidak memiliki bentuk sederhana. Tata Surya berada di salah satu bagian piringan Bima Sakti, bukan di pusat galaksi.
 Galaksi dapat berinteraksi dan bergabung dalam skala waktu sangat panjang. Interaksi gravitasi mengubah bentuk, memicu pembentukan bintang, atau mengalihkan gas. Ruang antargalaksi tidak sepenuhnya kosong karena terdapat gas tipis dan materi lain.
-BAB 11 — ALAM SEMESTA YANG MENGEMBANG
+BAB 17 — ALAM SEMESTA YANG MENGEMBANG
 Pengamatan menunjukkan bahwa pada skala sangat besar, galaksi-galaksi jauh umumnya saling menjauh. Hubungan antara jarak dan laju menjauh menjadi salah satu bukti penting pengembangan alam semesta. Ini bukan ledakan dari satu titik ke ruang kosong, melainkan perubahan skala ruang itu sendiri dalam model kosmologi.
 Model Big Bang menjelaskan alam semesta awal yang sangat panas dan rapat serta evolusinya. Bukti penting meliputi pengembangan kosmik, radiasi latar gelombang mikro kosmik, dan kelimpahan unsur ringan. Model ini tidak berarti ilmu telah menjawab semua pertanyaan tentang asal mula mutlak atau kondisi sebelum fase awal yang dapat kita modelkan.
-BAB 12 — EKSOPLANET DAN PENCARIAN DUNIA LAIN
+BAB 18 — EKSOPLANET DAN PENCARIAN DUNIA LAIN
 Eksoplanet adalah planet yang mengorbit bintang selain Matahari. Sebagian ditemukan melalui metode transit, yaitu mengukur penurunan kecil cahaya bintang ketika planet melintas di depannya. Metode kecepatan radial mengukur gerak kecil bintang akibat tarikan planet. Metode pencitraan langsung lebih sulit karena cahaya bintang sangat terang dibanding planet.
 Zona laik huni adalah wilayah tempat air cair mungkin ada di permukaan dalam kondisi atmosfer tertentu. Berada di zona ini tidak membuktikan adanya kehidupan. Komposisi atmosfer, medan magnet, aktivitas bintang, air, dan sejarah planet juga berperan. Klaim tentang kehidupan di luar Bumi memerlukan bukti kuat dan pemeriksaan alternatif.
-BAB 13 — PENGAMATAN LANGIT DENGAN AMAN
+BAB 19 — PENGAMATAN LANGIT DENGAN AMAN
 Pengamatan dapat dimulai dengan mata telanjang, peta langit, dan catatan waktu. Kenali arah mata angin, fase Bulan, planet terang, serta rasi yang terlihat menurut musim. Teropong dapat membantu melihat kawah Bulan dan gugus bintang tertentu. Pilih lokasi aman, perhatikan cuaca, dan hindari melihat Matahari melalui alat optik tanpa filter Matahari yang dirancang dan dipasang dengan benar.
 Catat tanggal, waktu, lokasi umum, kondisi langit, alat, dan objek. Pengamatan berulang membantu membedakan perubahan nyata dari gangguan atmosfer atau kesalahan identifikasi. Jangan mengarahkan teleskop ke Matahari untuk mencari-cari objek.
-BAB 14 — MEMAHAMI GAMBAR DAN DATA ASTRONOMI
+BAB 20 — MEMAHAMI GAMBAR DAN DATA ASTRONOMI
 Citra astronomi sering menggabungkan beberapa eksposur atau panjang gelombang. Skala, orientasi, rentang warna, dan proses pengolahan memengaruhi tampilan. Pengolahan untuk mengurangi derau atau menonjolkan struktur dapat sah selama prosedurnya transparan dan tidak mengubah data menjadi klaim yang menyesatkan.
 Saat membaca berita astronomi, periksa apakah temuan berasal dari pengamatan langsung, model, simulasi, atau interpretasi. Bedakan “kandidat planet” dari planet yang telah dikonfirmasi dan “molekul terdeteksi” dari bukti kehidupan.
 LATIHAN PENDALAMAN
@@ -115,25 +115,25 @@ GLOSARIUM TAMBAHAN
 Eksoplanet: planet di luar Tata Surya. Fusi nuklir: penggabungan inti atom yang melepaskan energi. Spektrum: sebaran radiasi menurut panjang gelombang atau frekuensi. Transit: peristiwa objek melintas di depan objek lain dari sudut pandang pengamat. Katai putih: sisa inti bintang tertentu yang telah melewati tahap evolusi lanjut. Radiasi latar kosmik: radiasi gelombang mikro yang berasal dari alam semesta awal.
 
 PENDALAMAN LANJUTAN: PENGAMATAN DAN FISIKA ALAM SEMESTA
-BAB 7 — KOORDINAT DAN GERAK LANGIT
+BAB 21 — KOORDINAT DAN GERAK LANGIT
 Astronom menggunakan sistem koordinat untuk menentukan posisi objek di langit. Koordinat ekuatorial menggunakan asensio rekta dan deklinasi, sedangkan sistem horizon menggunakan azimut dan ketinggian. Posisi tampak berubah karena rotasi Bumi dan gerak tahunan Bumi mengelilingi Matahari.
 Waktu pengamatan, lokasi lintang-bujur, dan kondisi atmosfer perlu dicatat. Objek yang terlihat dari satu belahan Bumi belum tentu dapat diamati dari belahan lain.
-BAB 8 — CAHAYA SEBAGAI SUMBER INFORMASI
+BAB 22 — CAHAYA SEBAGAI SUMBER INFORMASI
 Spektrum cahaya membawa informasi tentang suhu, komposisi, dan gerak objek. Spektroskopi memisahkan cahaya menjadi panjang gelombang dan mengukur pola garis. Pergeseran garis dapat menunjukkan gerak relatif melalui efek Doppler.
 Kecerlangan tampak dipengaruhi luminositas dan jarak. Dua bintang yang terlihat sama terang belum tentu memiliki luminositas yang sama.
-BAB 9 — KELAHIRAN DAN EVOLUSI BINTANG
+BAB 23 — KELAHIRAN DAN EVOLUSI BINTANG
 Bintang terbentuk dari awan gas dan debu yang mengalami keruntuhan gravitasi. Tekanan dan suhu inti meningkat hingga kondisi memungkinkan fusi nuklir. Massa awal sangat memengaruhi jalur evolusi dan akhir kehidupan bintang.
 Bintang bermassa berbeda dapat berakhir sebagai katai putih, bintang neutron, atau lubang hitam melalui proses yang tidak sama. Tahapan tersebut dipelajari dari model, pengamatan populasi bintang, dan sisa ledakan bintang.
-BAB 10 — GALAKSI DAN STRUKTUR KOSMOS
+BAB 24 — GALAKSI DAN STRUKTUR KOSMOS
 Galaksi merupakan sistem besar bintang, gas, debu, dan materi gelap yang terikat gravitasi. Galaksi memiliki bentuk dan sejarah berbeda, serta dapat berinteraksi atau bergabung. Bima Sakti adalah galaksi tempat Tata Surya berada.
 Pada skala lebih besar, galaksi membentuk kelompok, gugus, dan jaringan kosmik. Pengamatan galaksi jauh juga berarti melihat masa lalu karena cahaya memerlukan waktu untuk mencapai kita.
-BAB 11 — PLANET DI LUAR TATA SURYA
+BAB 25 — PLANET DI LUAR TATA SURYA
 Eksoplanet adalah planet yang mengorbit bintang selain Matahari. Metode transit mendeteksi penurunan cahaya bintang ketika planet melintas di depannya. Metode kecepatan radial mengukur gerak kecil bintang akibat tarikan gravitasi planet.
 Penemuan planet tidak otomatis menunjukkan adanya kehidupan. Penilaian kelayakhunian mempertimbangkan atmosfer, suhu, radiasi, air, dan banyak faktor yang masih sulit diukur.
-BAB 12 — KOSMOLOGI DAN ASAL-USUL ALAM SEMESTA
+BAB 26 — KOSMOLOGI DAN ASAL-USUL ALAM SEMESTA
 Kosmologi mempelajari alam semesta pada skala terbesar. Model kosmologi modern didukung oleh pengamatan ekspansi kosmik, radiasi latar gelombang mikro, dan kelimpahan unsur ringan. Model Big Bang menjelaskan evolusi alam semesta dari keadaan awal yang sangat panas dan rapat.
 Model ilmiah terus diuji dan disempurnakan. Pertanyaan tentang materi gelap, energi gelap, dan kondisi paling awal masih menjadi bidang penelitian aktif.
-BAB 13 — MERANCANG PENGAMATAN AMATIR
+BAB 27 — MERANCANG PENGAMATAN AMATIR
 Pengamatan yang baik dimulai dengan tujuan realistis, pemilihan waktu, lokasi gelap, cuaca, dan fase Bulan. Mata telanjang, binokular, atau teleskop dapat digunakan sesuai objek. Catat alat, pembesaran, waktu, kondisi langit, dan kesan pengamatan.
 Jangan melihat Matahari melalui alat optik tanpa filter surya khusus yang dirancang dan dipasang dengan benar. Pengamatan Matahari tanpa perlindungan dapat menyebabkan kerusakan mata permanen.
 LATIHAN PENDALAMAN
@@ -143,17 +143,17 @@ LATIHAN PENDALAMAN
 4. Mengapa model kosmologi dapat berubah? Jawaban: model harus menyesuaikan diri dengan bukti pengamatan baru.
 
 PENDALAMAN PENGAMATAN DAN FISIKA ALAM SEMESTA
-BAB 14 — KOORDINAT LANGIT
+BAB 28 — KOORDINAT LANGIT
 Astronom menggunakan sistem koordinat untuk menentukan posisi objek. Koordinat ekuatorial memakai asensio rekta dan deklinasi, sedangkan sistem horizon memakai azimut dan ketinggian. Posisi tampak berubah karena rotasi Bumi dan gerak tahunan Bumi. Catat lokasi, waktu, dan kondisi atmosfer saat mengamati.
-BAB 15 — SPEKTRUM CAHAYA
+BAB 29 — SPEKTRUM CAHAYA
 Spektrum membawa informasi tentang suhu, komposisi, dan gerak objek. Spektroskopi memisahkan cahaya menjadi panjang gelombang dan mengukur garis spektrum. Pergeseran garis dapat menunjukkan gerak relatif melalui efek Doppler. Kecerlangan tampak dipengaruhi luminositas dan jarak.
-BAB 16 — EVOLUSI BINTANG
+BAB 30 — EVOLUSI BINTANG
 Bintang terbentuk dari awan gas dan debu yang mengalami keruntuhan gravitasi. Suhu inti meningkat hingga kondisi memungkinkan fusi nuklir. Massa awal memengaruhi jalur evolusi. Bintang bermassa berbeda dapat berakhir sebagai katai putih, bintang neutron, atau lubang hitam melalui proses yang berbeda.
-BAB 17 — GALAKSI DAN STRUKTUR KOSMOS
+BAB 31 — GALAKSI DAN STRUKTUR KOSMOS
 Galaksi adalah sistem besar bintang, gas, debu, dan materi gelap yang terikat gravitasi. Galaksi berinteraksi dan dapat bergabung. Bima Sakti adalah galaksi tempat Tata Surya berada. Pada skala lebih besar, galaksi membentuk kelompok, gugus, dan jaringan kosmik.
-BAB 18 — PLANET DI LUAR TATA SURYA
+BAB 32 — PLANET DI LUAR TATA SURYA
 Eksoplanet mengorbit bintang selain Matahari. Metode transit mendeteksi penurunan cahaya bintang saat planet melintas; metode kecepatan radial mengukur gerak bintang akibat tarikan planet. Penemuan planet tidak otomatis menunjukkan kehidupan. Kelayakhunian mempertimbangkan atmosfer, suhu, radiasi, air, dan faktor lain.
-BAB 19 — KOSMOLOGI DAN PENGAMATAN AMATIR
+BAB 33 — KOSMOLOGI DAN PENGAMATAN AMATIR
 Model Big Bang menjelaskan evolusi alam semesta dari keadaan awal sangat panas dan rapat, didukung pengamatan ekspansi kosmik, radiasi latar, dan kelimpahan unsur ringan. Materi gelap dan energi gelap masih menjadi bidang penelitian. Untuk pengamatan amatir, pilih waktu, lokasi gelap, cuaca, dan alat sesuai objek. Jangan melihat Matahari melalui alat optik tanpa filter surya khusus yang dirancang benar.
 LATIHAN
 1. Apa informasi dari spektrum bintang? Komposisi, suhu, dan gerak relatif.

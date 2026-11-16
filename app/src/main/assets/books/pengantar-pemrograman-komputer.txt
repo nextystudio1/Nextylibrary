@@ -328,3 +328,21 @@ Rancang basis data sederhana untuk katalog buku dengan tabel buku dan kategori. 
 
 RANGKUMAN BAB
 Basis data, jaringan, keamanan, dan dokumentasi merupakan bagian penting pengembangan perangkat lunak. Aplikasi yang berguna harus menjaga integritas data serta dapat dipelihara.
+
+BAB STRUKTUR DATA DAN EFISIENSI ALGORITMA
+Struktur data mengatur cara informasi disimpan dan diakses. Array menyimpan elemen dalam urutan, daftar berantai menghubungkan elemen melalui referensi, tumpukan menggunakan prinsip masuk terakhir keluar pertama, sedangkan antrean menggunakan prinsip masuk pertama keluar pertama. Pohon dan graf digunakan untuk merepresentasikan hubungan yang lebih kompleks.
+
+MEMILIH STRUKTUR YANG SESUAI
+Pilihan struktur data memengaruhi kemudahan pencarian, penyisipan, penghapusan, dan penggunaan memori. Array cocok untuk akses berdasarkan indeks, sedangkan struktur lain dapat lebih sesuai untuk perubahan data yang sering. Tidak ada struktur yang terbaik untuk semua persoalan; keputusan mengikuti pola operasi yang dominan.
+
+KOMPLEKSITAS WAKTU
+Notasi Big O menggambarkan bagaimana kebutuhan komputasi bertumbuh ketika ukuran masukan meningkat. Pencarian linear memeriksa elemen satu per satu dan memiliki pertumbuhan linear. Pencarian biner pada data terurut membagi ruang pencarian berulang kali dan memiliki pertumbuhan logaritmik. Analisis ini menyederhanakan detail perangkat keras, tetapi membantu membandingkan pendekatan.
+
+PENGUJIAN DAN KASUS BATAS
+Program perlu diuji pada masukan biasa, kosong, sangat kecil, besar, duplikat, dan tidak valid. Kasus batas sering menemukan kesalahan yang tidak terlihat pada contoh sederhana. Pengujian otomatis dapat diulang setelah perubahan kode untuk memastikan fungsi lama tetap berjalan.
+
+LATIHAN
+Tulis pseudocode untuk mencari nilai terbesar dalam daftar angka. Jelaskan jumlah perbandingan yang diperlukan ketika daftar bertambah panjang. Uji secara manual pada daftar kosong, satu angka, dan beberapa angka.
+
+RANGKUMAN
+Struktur data dan analisis kompleksitas membantu memilih solusi yang efisien. Pengujian kasus batas memastikan program lebih andal pada kondisi beragam.

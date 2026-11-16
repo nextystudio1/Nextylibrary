@@ -400,3 +400,21 @@ Buat simulasi usaha bazar sekolah dengan produk fiktif. Hitung biaya bahan, biay
 
 RANGKUMAN BAB
 Kewirausahaan menghubungkan kebutuhan pelanggan, model usaha, biaya, pendapatan, dan produktivitas. Perencanaan yang baik menggunakan asumsi terbuka serta mempertimbangkan risiko dan dampak sosial.
+
+BAB PASAR TENAGA KERJA
+Pasar tenaga kerja mempertemukan orang yang menawarkan tenaga dan keterampilan dengan organisasi yang membutuhkan pekerjaan. Upah dipengaruhi keterampilan, pengalaman, produktivitas, kondisi pasar, aturan, dan daya tawar. Model pasar sederhana membantu menjelaskan hubungan penawaran dan permintaan tenaga kerja, tetapi dunia nyata juga dipengaruhi diskriminasi, informasi tidak seimbang, dan institusi.
+
+PENGANGGURAN DAN SETENGAH MENGANGGUR
+Pengangguran dapat bersifat friksional ketika orang berpindah pekerjaan, struktural ketika keterampilan atau lokasi tidak sesuai kebutuhan, dan siklis ketika permintaan ekonomi melemah. Setengah menganggur menggambarkan kondisi ketika seseorang bekerja kurang dari kapasitas atau waktu yang diinginkan. Definisi statistik harus diperiksa sebelum membandingkan angka antarwilayah.
+
+MODAL MANUSIA DAN PELATIHAN
+Pendidikan, kesehatan, pengalaman, dan keterampilan dapat meningkatkan kemampuan seseorang untuk bekerja. Namun, akses pelatihan dipengaruhi biaya, waktu, lokasi, dan tanggung jawab keluarga. Pelatihan efektif perlu terhubung dengan kebutuhan nyata dan memberi kesempatan praktik, bukan hanya sertifikat.
+
+KONSUMEN DAN PRODUSEN
+Konsumen memilih berdasarkan harga, mutu, pendapatan, informasi, dan preferensi. Produsen menentukan jumlah produksi dengan mempertimbangkan biaya dan perkiraan permintaan. Informasi yang tidak seimbang dapat membuat pasar gagal, misalnya ketika pembeli tidak mengetahui kualitas produk. Standar, ulasan tepercaya, dan perlindungan konsumen dapat membantu.
+
+LATIHAN
+Buat simulasi pasar sederhana untuk produk sekolah. Tentukan jumlah penjual, pembeli, harga, dan jumlah barang yang tersedia. Ubah salah satu kondisi dan amati perubahan hasil. Jelaskan keterbatasan simulasi dibanding pasar nyata.
+
+RANGKUMAN
+Pasar tenaga kerja dan pasar barang dipengaruhi keterampilan, biaya, informasi, aturan, dan kondisi ekonomi. Model sederhana berguna selama batas asumsi dipahami.

@@ -349,3 +349,21 @@ Buat barisan aritmetika yang menggambarkan jumlah kursi pada tiap baris aula dan
 
 RANGKUMAN BAB
 Barisan, deret, pertumbuhan, peluruhan, dan pembuktian membantu mengenali pola serta menilai apakah dugaan matematika benar-benar berlaku.
+
+BAB PERSAMAAN KUADRAT DAN PEMODELAN
+Persamaan kuadrat memiliki bentuk umum ax² + bx + c = 0 dengan a tidak sama dengan nol. Grafik fungsi kuadrat berbentuk parabola. Tanda koefisien a menentukan apakah parabola membuka ke atas atau ke bawah. Titik puncak menunjukkan nilai maksimum atau minimum fungsi, sedangkan akar menunjukkan titik potong grafik dengan sumbu horizontal.
+
+AKAR DAN DISKRIMINAN
+Persamaan kuadrat dapat diselesaikan melalui pemfaktoran, melengkapkan kuadrat, atau rumus kuadrat. Diskriminan b² − 4ac membantu menentukan jumlah akar real: positif menghasilkan dua akar real berbeda, nol menghasilkan satu akar real kembar, dan negatif tidak menghasilkan akar real. Metode dipilih berdasarkan bentuk persamaan dan kebutuhan ketelitian.
+
+FUNGSI KUADRAT DALAM KONTEKS
+Fungsi kuadrat dapat memodelkan lintasan ideal benda yang bergerak di bawah pengaruh gravitasi dengan asumsi hambatan udara diabaikan. Model juga dapat digunakan untuk masalah luas maksimum atau optimasi sederhana. Model matematika selalu menyederhanakan kenyataan; parameter dan satuan perlu ditafsirkan agar hasil tidak digunakan di luar konteks.
+
+SISTEM PERSAMAAN
+Dua persamaan dengan dua variabel dapat mewakili dua batasan yang harus dipenuhi bersama. Solusi adalah pasangan nilai yang memenuhi kedua persamaan. Secara grafik, solusi dapat dilihat sebagai titik perpotongan garis, jika titik perpotongan ada dan tunggal. Sistem juga dapat tidak memiliki solusi atau memiliki banyak solusi.
+
+LATIHAN
+Buat masalah fiktif tentang dua jenis tiket dengan jumlah tiket dan total harga diketahui. Bentuk sistem persamaan untuk mencari jumlah tiap jenis. Periksa jawaban dengan substitusi dan jelaskan makna satuan.
+
+RANGKUMAN
+Persamaan kuadrat dan sistem persamaan membantu memodelkan hubungan serta menyelesaikan masalah. Hasil harus diperiksa melalui substitusi, grafik, dan interpretasi konteks.

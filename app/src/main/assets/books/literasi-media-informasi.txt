@@ -334,3 +334,21 @@ Pilih satu klaim informasi publik yang tidak menyangkut individu. Telusuri sumbe
 
 RANGKUMAN BAB
 Kredibilitas dibangun melalui kompetensi, transparansi, bukti, dan koreksi. Pencarian yang baik menelusuri sumber asal serta menyampaikan kesimpulan secara proporsional.
+
+BAB WAWANCARA DAN OBSERVASI
+Wawancara mengumpulkan informasi melalui pertanyaan yang disusun untuk tujuan tertentu. Pertanyaan terbuka memberi ruang bagi narasumber menjelaskan pengalaman, sedangkan pertanyaan tertutup menghasilkan jawaban yang lebih terstruktur. Hindari pertanyaan menggiring yang mendorong jawaban tertentu. Uji daftar pertanyaan terlebih dahulu agar jelas dan tidak menimbulkan ketidaknyamanan.
+
+OBSERVASI SISTEMATIS
+Observasi mencatat perilaku atau keadaan sesuai fokus penelitian. Peneliti perlu menentukan unit pengamatan, waktu, tempat, dan kategori pencatatan. Catatan deskriptif sebaiknya memisahkan apa yang benar-benar terlihat dari interpretasi pengamat. Pengamat juga perlu menyadari bahwa kehadirannya dapat memengaruhi situasi.
+
+ETIKA PENGUMPULAN DATA
+Jelaskan tujuan, penggunaan data, dan hak peserta sebelum mengumpulkan informasi. Hindari mengumpulkan data pribadi yang tidak diperlukan. Untuk penelitian yang melibatkan anak, diperlukan persetujuan dan perlindungan yang sesuai serta pengawasan orang dewasa atau institusi. Peserta harus dapat menolak tanpa tekanan.
+
+MENGANALISIS TEMUAN KUALITATIF
+Catatan wawancara dapat dikelompokkan ke dalam tema. Tema harus didukung kutipan atau bukti yang relevan, bukan hanya pendapat peneliti. Perbedaan pengalaman perlu ditampilkan, bukan disembunyikan agar cerita terlihat seragam. Jumlah peserta yang sedikit tidak dapat mewakili seluruh populasi secara otomatis.
+
+LATIHAN
+Rancang tiga pertanyaan wawancara fiktif tentang kebiasaan membaca di perpustakaan sekolah. Jelaskan cara menjaga privasi, meminta persetujuan, dan mengelompokkan jawaban tanpa mencantumkan nama peserta.
+
+RANGKUMAN
+Wawancara dan observasi memberi pemahaman mendalam jika dilakukan secara sistematis dan etis. Catatan yang jujur memisahkan bukti dari interpretasi.

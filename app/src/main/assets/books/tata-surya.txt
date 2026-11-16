@@ -330,3 +330,21 @@ Buat model sederhana menggunakan bola sebagai Bumi dan sumber cahaya sebagai Mat
 
 RANGKUMAN BAB
 Fase Bulan, gerhana, musim, rotasi, dan revolusi merupakan akibat geometri gerak benda langit. Memahami model orbit membantu menghindari miskonsepsi umum dan melakukan pengamatan secara aman.
+
+BAB EKSOPLANET DAN PENCARIAN DUNIA LAIN
+Eksoplanet adalah planet yang mengorbit bintang selain Matahari. Penemuan eksoplanet menunjukkan bahwa sistem planet sangat beragam. Ada planet raksasa yang mengorbit dekat bintangnya, planet berbatu, dan sistem dengan banyak planet. Kategori tersebut ditentukan dari massa, ukuran, orbit, serta metode pengamatan.
+
+METODE TRANSIT
+Metode transit mengukur penurunan kecil kecerlangan bintang ketika planet melintas di depan piringan bintang dari sudut pandang pengamat. Kedalaman transit berkaitan dengan perbandingan luas planet dan bintang. Pengamatan berulang membantu memperkirakan periode orbit. Aktivitas bintang atau objek lain dapat meniru sinyal transit, sehingga konfirmasi diperlukan.
+
+METODE KECEPATAN RADIAL
+Tarikan gravitasi planet membuat bintang bergerak kecil mengelilingi pusat massa bersama. Gerak sepanjang garis pandang dapat dideteksi melalui pergeseran spektrum akibat efek Doppler. Metode ini memberi informasi tentang massa minimum planet dan melengkapi hasil transit yang mengukur ukuran relatif.
+
+ZONA LAYAK HUNI
+Zona layak huni adalah rentang jarak dari bintang tempat air cair mungkin stabil di permukaan planet pada asumsi atmosfer tertentu. Berada di zona tersebut tidak menjamin planet memiliki kehidupan. Atmosfer, medan magnet, geologi, aktivitas bintang, dan sejarah planet juga berpengaruh. Sampai sekarang belum ada bukti terkonfirmasi tentang kehidupan di luar Bumi.
+
+LATIHAN
+Bandingkan metode transit dan kecepatan radial dalam tabel: sinyal yang diukur, informasi yang diperoleh, dan keterbatasan. Jelaskan mengapa penemuan planet tidak otomatis berarti penemuan kehidupan.
+
+RANGKUMAN
+Eksoplanet dipelajari melalui perubahan cahaya dan spektrum bintang. Menilai kelayakhunian membutuhkan lebih banyak informasi daripada jarak planet dari bintangnya.

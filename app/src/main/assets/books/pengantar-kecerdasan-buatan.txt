@@ -355,3 +355,21 @@ Rancang evaluasi sederhana untuk sistem klasifikasi gambar benda sekolah. Buat d
 
 RANGKUMAN BAB
 Visi komputer, pemrosesan bahasa, dan AI multimodal membuka banyak kemungkinan, tetapi kualitas penerapan ditentukan pengujian nyata, aksesibilitas, dan pengelolaan kegagalan.
+
+BAB PEMBELAJARAN MESIN TERAWASI
+Pembelajaran mesin terawasi menggunakan contoh data yang memiliki label atau nilai target. Untuk klasifikasi, model memprediksi kategori; untuk regresi, model memperkirakan nilai numerik. Data biasanya dibagi menjadi bagian pelatihan, validasi, dan pengujian. Data uji harus tetap terpisah agar evaluasi tidak terlalu optimistis.
+
+OVERFITTING DAN UNDERFITTING
+Overfitting terjadi ketika model terlalu menyesuaikan diri pada data pelatihan, termasuk pola kebetulan, sehingga kinerja pada data baru menurun. Underfitting terjadi ketika model terlalu sederhana untuk menangkap pola penting. Regularisasi, pemilihan fitur, dan evaluasi silang dapat membantu, tetapi harus digunakan dengan rancangan evaluasi yang benar.
+
+METRIK EVALUASI
+Akurasi menghitung proporsi prediksi yang benar, tetapi dapat menyesatkan jika kelas tidak seimbang. Presisi mengukur bagian prediksi positif yang benar, sedangkan recall mengukur bagian kasus positif yang berhasil ditemukan. F1 menggabungkan presisi dan recall. Pemilihan metrik bergantung pada konsekuensi kesalahan.
+
+BIAS DATA
+Data pelatihan dapat kurang mewakili kelompok tertentu atau merekam ketidakadilan masa lalu. Model kemudian dapat menghasilkan kinerja berbeda antar kelompok. Evaluasi perlu memeriksa asal data, representasi, definisi label, serta dampak penggunaan. Menghapus atribut sensitif tidak selalu menghilangkan bias karena variabel lain dapat menjadi proksi.
+
+LATIHAN
+Gunakan contoh data fiktif klasifikasi email penting dan tidak penting. Buat matriks kebingungan sederhana dan hitung akurasi, presisi, serta recall. Jelaskan konsekuensi salah mengklasifikasikan tiap kategori.
+
+RANGKUMAN
+Pembelajaran mesin membutuhkan pembagian data yang benar, evaluasi sesuai tujuan, dan pemeriksaan bias. Nilai metrik tidak cukup tanpa memahami dampak kesalahan.

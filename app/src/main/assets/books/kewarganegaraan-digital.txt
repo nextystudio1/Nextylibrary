@@ -313,3 +313,21 @@ Buat simulasi musyawarah untuk menentukan program kebersihan sekolah. Catat masa
 
 RANGKUMAN
 Kewarganegaraan yang aktif membutuhkan pengetahuan hak, tanggung jawab, musyawarah, dan evaluasi kebijakan. Partisipasi yang baik mengutamakan bukti, keterbukaan, serta penghormatan.
+
+BAB HAK DIGITAL, KEAMANAN, DAN JEJAK DATA
+Hak digital mencakup kebebasan berekspresi, akses informasi, privasi, dan perlindungan dari perlakuan tidak adil di ruang digital. Hak tersebut berjalan bersama tanggung jawab, seperti menghormati privasi orang lain, tidak menyebarkan data tanpa izin, dan mematuhi aturan yang berlaku.
+
+JEJAK DIGITAL
+Jejak digital dapat terbentuk dari unggahan, komentar, pencarian, lokasi, dan penggunaan layanan. Sebagian data terlihat oleh publik, sedangkan sebagian lain dikumpulkan oleh penyedia layanan sesuai kebijakan dan pengaturan. Menghapus unggahan tidak selalu menghapus salinan yang telah dibagikan orang lain. Pikirkan dampak jangka panjang sebelum membagikan informasi pribadi atau foto orang lain.
+
+KEAMANAN AKUN
+Gunakan kata sandi yang panjang dan unik untuk setiap layanan, aktifkan autentikasi multifaktor bila tersedia, serta perbarui perangkat lunak. Jangan membagikan kode verifikasi. Jika menerima pemberitahuan masuk yang tidak dikenal, ikuti prosedur pemulihan resmi dan beri tahu wali atau pengelola akun yang bertanggung jawab.
+
+PERUNDUNGAN DAN MODERASI
+Perundungan digital dapat berupa penghinaan berulang, ancaman, penyebaran rahasia, atau pengucilan yang disengaja. Jangan membalas dengan menyebarkan informasi pribadi pelaku. Simpan bukti yang relevan secara aman, gunakan fitur pelaporan, blokir akun bila perlu, dan minta bantuan orang dewasa tepercaya atau pihak sekolah.
+
+LATIHAN
+Buat panduan kelas untuk membagikan foto kegiatan secara bertanggung jawab. Cantumkan persetujuan, batas informasi lokasi, cara meminta penghapusan, dan langkah pelaporan jika terjadi penyalahgunaan.
+
+RANGKUMAN
+Kehidupan digital membutuhkan pemahaman hak, keamanan akun, jejak data, dan tanggung jawab sosial. Keselamatan serta martabat orang lain harus diutamakan.

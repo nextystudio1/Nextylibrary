@@ -56,7 +56,6 @@ PROYEK TERPADU
 Buat kajian mini untuk Dasar Robotika dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-EVALUASI AKHIR
 1. Uraikan alur informasi dari sensor hingga keputusan kendali dan gerakan aktuator.
 2. Bandingkan sensor yang mengukur jarak dengan sensor yang mengukur orientasi.
 3. Jelaskan perbedaan kendali terbuka dan kendali umpan balik.

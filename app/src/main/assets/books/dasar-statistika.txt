@@ -396,3 +396,35 @@ Gunakan data simulasi dua kelompok nilai. Hitung selisih rata-rata dan interval 
 
 RANGKUMAN
 Inferensi statistik selalu mengandung ketidakpastian. Nilai-p, interval, dan ukuran efek harus ditafsirkan bersama rancangan penelitian.
+
+PENGAYAAN: STATISTIKA UNTUK PENELITIAN
+
+1. MERANCANG PERTANYAAN PENELITIAN
+Pertanyaan statistik perlu menyebut populasi, variabel, dan tujuan analisis. “Apakah siswa suka membaca?” terlalu umum. Pertanyaan dapat dibatasi menjadi “Berapa median waktu membaca mandiri per hari pada siswa kelas tertentu selama satu minggu?” Batasan membuat cara pengumpulan data lebih jelas.
+
+2. RANCANGAN SAMPEL
+Sampel acak sederhana memberi setiap anggota populasi peluang terpilih yang sama. Sampel berstrata membagi populasi ke kelompok relevan lalu mengambil sampel dari tiap kelompok. Sampel klaster memilih kelompok alami, misalnya kelas, kemudian mengamati anggotanya. Tiap metode memiliki biaya dan potensi bias yang berbeda.
+
+3. UKURAN SAMPEL DAN KETELITIAN
+Ukuran sampel yang lebih besar dapat mengurangi variasi acak pada kondisi tertentu, tetapi tidak memperbaiki bias pemilihan. Survei besar yang hanya diisi sukarela oleh kelompok tertentu tetap dapat tidak mewakili populasi. Ketelitian juga dipengaruhi rancangan, kualitas pertanyaan, nonrespons, dan kesalahan pencatatan.
+
+4. DISTRIBUSI DAN PENCilan
+Histogram memperlihatkan bentuk distribusi, termasuk kemencengan, kelompok, dan nilai ekstrem. Pencilan tidak boleh langsung dihapus. Periksa apakah pencilan merupakan kesalahan input, kejadian nyata, atau berasal dari populasi berbeda. Alasan setiap keputusan pembersihan data perlu dicatat.
+
+5. PROBABILITAS BERSYARAT
+Peluang suatu kejadian dapat berubah ketika informasi tambahan diketahui. Misalnya, peluang hujan pada sore hari dapat berbeda setelah mempertimbangkan musim dan kondisi awan. Dalam pengujian medis, peluang hasil positif yang benar dipengaruhi prevalensi kondisi, sensitivitas, dan spesifisitas tes. Karena itu, hasil positif tidak selalu berarti seseorang pasti mengalami kondisi tersebut.
+
+6. EKSPERIMEN DAN OBSERVASI
+Eksperimen memberi perlakuan pada kelompok dan membandingkannya dengan kelompok kontrol melalui rancangan yang tepat. Studi observasional mengamati keadaan tanpa menetapkan perlakuan. Eksperimen acak dapat membantu mengurangi faktor pengganggu, tetapi tetap memerlukan etika dan penerapan yang sesuai. Tidak semua pertanyaan layak atau mungkin diuji lewat eksperimen.
+
+7. KORELASI DAN REGRESI
+Korelasi mengukur arah dan kekuatan hubungan linear, sedangkan regresi membangun model hubungan untuk menjelaskan atau memprediksi. Hubungan kuat tidak membuktikan sebab-akibat. Periksa pencilan, pola nonlinier, rentang data, dan apakah prediksi digunakan di luar rentang pengamatan.
+
+8. MELAPORKAN HASIL
+Laporan perlu menyebut metode, ukuran sampel, definisi variabel, ringkasan hasil, ketidakpastian, dan keterbatasan. Jangan memilih hanya hasil yang mendukung dugaan awal. Grafik harus memiliki label dan sumber. Kesimpulan tidak boleh melampaui populasi dan periode yang benar-benar diteliti.
+
+9. LATIHAN
+Rancang survei kebiasaan membaca dengan pertanyaan yang netral. Tentukan populasi, metode sampel, variabel, dan cara melindungi identitas responden. Jelaskan bagaimana nonrespons dapat memengaruhi hasil serta bagaimana keterbatasan itu akan dilaporkan.
+
+RANGKUMAN
+Statistika penelitian dimulai dari pertanyaan dan rancangan yang baik. Sampel, pengukuran, analisis, dan pelaporan harus transparan agar kesimpulan dapat dinilai.

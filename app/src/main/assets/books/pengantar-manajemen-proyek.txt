@@ -18,25 +18,18 @@ Pada APA ITU PROYEK, tentukan hasil akhir yang harus diserahkan, batas waktu, su
 AKTIVITAS PENGAMATAN
 Pilih proyek sederhana yang sudah selesai atau sedang berjalan, seperti kegiatan sekolah atau pembuatan produk. Petakan tujuan, hasil yang diharapkan, pemangku kepentingan, jadwal, sumber daya, dan risiko. Bandingkan rencana awal dengan hasil yang terlihat dari informasi yang tersedia.
 
-LATIHAN
-1. Bedakan ruang lingkup proyek dari kegiatan operasional rutin.
-2. Jelaskan hubungan tujuan, keluaran, jadwal, dan anggaran.
-3. Buat contoh ketergantungan antara dua kegiatan proyek.
-4. Bagaimana perubahan ruang lingkup dapat memengaruhi waktu dan biaya?
-5. Tentukan cara melaporkan kemajuan proyek secara jujur kepada pemangku kepentingan.
-2. Buat contoh ketergantungan antara dua kegiatan proyek.
+LATIHAN BERBASIS KASUS
+1. Bedakan proyek dengan operasi rutin.
+2. Buat contoh ketergantungan antara dua kegiatan.
 3. Jelaskan dampak perubahan ruang lingkup terhadap jadwal dan biaya.
-4. Tentukan bukti yang menunjukkan bahwa hasil proyek telah diterima.
-5. Susun satu pertanyaan yang membutuhkan data tambahan.
+4. Tentukan bukti bahwa hasil diterima.
+5. Susun pertanyaan yang membutuhkan data tambahan.
 
 RANGKUMAN
 - Proyek memiliki tujuan, batas waktu, sumber daya, dan hasil yang ditentukan.
 - Perencanaan menghubungkan ruang lingkup, jadwal, biaya, mutu, dan risiko.
-- Komunikasi membantu menyelaraskan keputusan para pemangku kepentingan.
-- Pemantauan membandingkan kemajuan aktual dengan rencana dan memicu tindakan korektif.
-- Hubungkan konsep dengan bukti yang relevan.
-- Perhatikan konteks serta kemungkinan penjelasan lain.
-- Sampaikan kesimpulan secara proporsional.
+- Komunikasi menyelaraskan keputusan para pemangku kepentingan.
+- Pemantauan membandingkan kemajuan aktual dengan rencana.
 
 BAB 2. RUANG LINGKUP DAN KEBUTUHAN
 
@@ -122,3 +115,32 @@ LATIHAN APLIKATIF
 4. Susun tiga kriteria penerimaan yang dapat diuji.
 5. Buat daftar tiga risiko beserta pemilik dan responsnya.
 6. Jelaskan mengapa biaya rendah tidak selalu berarti proyek berjalan baik.
+
+BAB LANJUTAN: PIAGAM PROYEK DAN TATA KELOLA
+
+Piagam proyek menyatukan pemahaman tentang alasan proyek dijalankan. Isinya meliputi masalah, tujuan, hasil utama, pemberi mandat, penanggung jawab, batas anggaran dan waktu, asumsi, serta risiko tingkat tinggi. Piagam memberi arah dan kewenangan untuk menyusun rencana lebih rinci.
+
+Tata kelola menjelaskan siapa yang mengusulkan, menyetujui, melaksanakan, mengawasi, dan menerima hasil. Keputusan penting dicatat beserta alasan dan dampaknya. Jalur eskalasi diperlukan ketika keputusan tertunda atau terjadi konflik prioritas.
+
+BAB LANJUTAN: ESTIMASI DAN JALUR KRITIS
+
+Estimasi durasi menyatakan asumsi tentang ketersediaan orang, ketergantungan, hari kerja, dan ketidakpastian. Jalur kritis adalah rangkaian aktivitas yang menentukan durasi minimum proyek berdasarkan jaringan ketergantungan. Keterlambatan aktivitas kritis dapat menggeser tanggal akhir. Aktivitas nonkritis mungkin memiliki kelonggaran waktu, tetapi kelonggaran dapat habis.
+
+BAB LANJUTAN: MUTU DAN KRITERIA PENERIMAAN
+
+Mutu berarti kesesuaian hasil terhadap kebutuhan dan kriteria yang disepakati. Kriteria penerimaan dibuat sebelum penyerahan, misalnya fungsi yang harus berjalan, ketelitian, kelengkapan dokumentasi, kompatibilitas, atau hasil uji pengguna. Jaminan mutu memperbaiki proses pencegahan kesalahan; pengendalian mutu memeriksa keluaran.
+
+Temuan pengujian dicatat dengan langkah reproduksi, dampak, prioritas, penanggung jawab, dan status perbaikan. Kriteria yang jelas mencegah keputusan penerimaan hanya berdasarkan kesan.
+
+BAB LANJUTAN: PENGADAAN DAN PIHAK KETIGA
+
+Sebelum pengadaan, tetapkan spesifikasi berbasis kebutuhan, kriteria evaluasi, batas biaya, jadwal, serta tanggung jawab pemeliharaan. Harga terendah tidak selalu berarti biaya total terendah karena kualitas, dukungan, dan umur pakai dapat berbeda.
+
+Ketergantungan pemasok dicatat sebagai risiko. Periksa ketentuan penggunaan, kepemilikan hasil, perlindungan data, keamanan, jaminan, dan prosedur penghentian kontrak. Jangan mengirim data rahasia kepada penyedia tanpa dasar dan persetujuan yang sesuai.
+
+BAB LANJUTAN: PERUBAHAN DAN PEMBELAJARAN
+
+Permintaan perubahan dicatat dan dianalisis berdasarkan manfaat, biaya, jadwal, mutu, risiko, serta konsekuensi jika ditolak. Perubahan kecil yang menumpuk dapat mengubah ruang lingkup secara besar tanpa keputusan yang disadari. Setelah proyek selesai, tinjau proses berdasarkan bukti dan fokus pada perbaikan, bukan mencari kambing hitam.
+
+LATIHAN KASUS
+Sebuah tim membuat katalog digital sekolah dengan waktu dan anggaran terbatas. Susun piagam proyek, struktur pekerjaan, jaringan ketergantungan, kriteria penerimaan, tiga risiko, dan alur persetujuan perubahan. Jelaskan keputusan jika permintaan fitur baru datang menjelang serah terima.

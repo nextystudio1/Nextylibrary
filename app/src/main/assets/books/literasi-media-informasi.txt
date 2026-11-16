@@ -59,22 +59,22 @@ CATATAN PENULIS
 Naskah orisinal edukasi umum oleh Nexty Studio. Materi ini merupakan pengantar pembelajaran dan bukan pengganti pemeriksaan profesional untuk isu hukum, kesehatan, atau keselamatan.
 
 PENDALAMAN: MEMBACA MEDIA DAN MEMERIKSA INFORMASI
-BAB 7 — EKOSISTEM MEDIA DAN MODEL BISNIS
+BAB 9 — EKOSISTEM MEDIA DAN MODEL BISNIS
 Media bekerja dalam ekosistem yang melibatkan redaksi, pemilik, pengiklan, platform distribusi, pembuat konten, dan audiens. Model bisnis memengaruhi jenis konten yang diproduksi dan cara perhatian audiens diukur. Konten yang banyak dibagikan belum tentu paling akurat atau paling bermanfaat.
 Algoritma rekomendasi dapat menampilkan materi berdasarkan riwayat interaksi. Akibatnya, pengguna mungkin melihat pilihan informasi yang sempit. Cari sumber berbeda secara sengaja dan bedakan popularitas dari kredibilitas.
-BAB 8 — MEMERIKSA SUMBER DAN KLAIM
+BAB 10 — MEMERIKSA SUMBER DAN KLAIM
 Mulailah dengan mengidentifikasi klaim yang dapat diuji. Cari sumber asli, bukan hanya unggahan yang mengutip unggahan lain. Periksa siapa penulisnya, keahlian yang relevan, bukti yang disajikan, tanggal, dan kemungkinan konflik kepentingan.
 Satu sumber yang tampak profesional tetap dapat keliru. Bandingkan dengan dokumen primer atau lembaga yang memiliki kompetensi pada topik. Jika bukti belum cukup, nyatakan bahwa klaim belum terverifikasi.
-BAB 9 — GAMBAR, VIDEO, DAN KONTEKS
+BAB 11 — GAMBAR, VIDEO, DAN KONTEKS
 Foto dan video dapat dipotong, diberi keterangan keliru, atau diambil dari peristiwa lama. Periksa petunjuk visual, lokasi, cuaca, papan nama, serta tanggal unggahan pertama jika tersedia. Pencarian gambar terbalik dapat menemukan versi lebih lama.
 Konten sintetis dan hasil manipulasi semakin mudah dibuat. Detektor otomatis tidak selalu akurat. Gunakan beberapa petunjuk dan jangan menyimpulkan keaslian hanya dari satu alat.
-BAB 10 — STATISTIK DALAM PEMBERITAAN
+BAB 12 — STATISTIK DALAM PEMBERITAAN
 Persentase perlu disertai jumlah dasar. Kenaikan dari satu menjadi dua kasus berarti naik 100 persen, tetapi jumlah absolutnya tetap kecil. Grafik dengan sumbu yang dipotong dapat memberi kesan perubahan yang berlebihan.
 Perhatikan apakah survei memiliki sampel representatif, bagaimana pertanyaan dirumuskan, kapan data dikumpulkan, dan siapa yang membiayai. Margin galat tidak mengatasi bias sampel atau pertanyaan yang buruk.
-BAB 11 — BIAS KOGNITIF DAN RUANG GEMA
+BAB 13 — BIAS KOGNITIF DAN RUANG GEMA
 Manusia cenderung lebih mudah menerima informasi yang sesuai keyakinan awal. Kecenderungan ini disebut bias konfirmasi. Ruang gema muncul ketika seseorang berulang kali menerima pandangan serupa dan jarang menjumpai koreksi.
 Cara menguranginya adalah mencari bukti yang berpotensi membantah dugaan sendiri, membaca sumber dengan sudut pandang berbeda, dan memisahkan kritik terhadap klaim dari penilaian terhadap orang.
-BAB 12 — ETIKA BERBAGI DAN KOREKSI
+BAB 14 — ETIKA BERBAGI DAN KOREKSI
 Sebelum meneruskan informasi, pikirkan manfaat, risiko, privasi orang yang terlibat, dan kemungkinan salah konteks. Hindari menyebarkan identitas korban atau anak tanpa alasan yang sah. Jika membuat kesalahan, koreksi dengan jelas dan jangan menghapus jejak koreksi seolah tidak pernah terjadi.
 LATIHAN
 1. Mengapa jumlah dasar penting saat membaca persentase? Jawaban: persentase yang sama dapat mewakili jumlah absolut yang sangat berbeda.
@@ -82,25 +82,25 @@ LATIHAN
 3. Mengapa video lama bisa menyesatkan? Jawaban: karena konteks waktu dan tempat dapat diganti dengan keterangan baru.
 
 PENDALAMAN LANJUTAN: VERIFIKASI, ALGORITMA, DAN PRODUKSI MEDIA
-BAB 7 — SUMBER PRIMER DAN SEKUNDER
+BAB 15 — SUMBER PRIMER DAN SEKUNDER
 Sumber primer berasal langsung dari peristiwa atau data yang diteliti, seperti dokumen asli, rekaman, wawancara, atau hasil pengukuran. Sumber sekunder menafsirkan atau membahas sumber primer. Keduanya berguna, tetapi menjawab pertanyaan yang berbeda.
 Sumber primer tidak otomatis benar atau lengkap. Periksa siapa pembuatnya, tujuan pembuatan, konteks, dan bagian yang mungkin tidak tercatat. Bandingkan beberapa sumber yang independen.
-BAB 8 — PEMERIKSAAN GAMBAR DAN VIDEO
+BAB 16 — PEMERIKSAAN GAMBAR DAN VIDEO
 Gambar dapat dipotong, diberi keterangan salah, atau digunakan kembali dari peristiwa berbeda. Periksa petunjuk lokasi, cuaca, bahasa, papan nama, dan tanggal. Pencarian gambar balik dapat membantu menemukan publikasi lebih awal, tetapi hasilnya tetap perlu diverifikasi.
 Video dapat diedit sehingga urutan kejadian berubah. Cari rekaman lengkap, sumber asli, dan konfirmasi dari pihak yang dapat dipercaya. Jangan menyimpulkan konteks hanya dari cuplikan pendek.
-BAB 9 — ALGORITMA REKOMENDASI DAN RUANG INFORMASI
+BAB 17 — ALGORITMA REKOMENDASI DAN RUANG INFORMASI
 Platform menggunakan sinyal seperti interaksi, waktu tonton, dan hubungan akun untuk memilih konten. Rekomendasi dapat membantu menemukan materi relevan, tetapi juga dapat mempersempit paparan atau mengutamakan konten yang memancing reaksi.
 Pengguna dapat mengelola rekomendasi melalui pengaturan, mengikuti sumber beragam, dan mencari informasi secara aktif. Popularitas bukan ukuran kebenaran.
-BAB 10 — ANGKA, GRAFIK, DAN MANIPULASI
+BAB 18 — ANGKA, GRAFIK, DAN MANIPULASI
 Persentase harus memiliki pembilang, penyebut, dan periode yang jelas. Grafik dengan sumbu terpotong dapat membesar-besarkan perbedaan. Rata-rata dapat menutupi variasi dan kelompok yang berbeda.
 Ketika membaca survei, periksa metode sampling, ukuran sampel, tingkat respons, pertanyaan, dan sponsor. Angka yang tepat secara aritmetika masih dapat menyesatkan jika konteksnya dihilangkan.
-BAB 11 — ETIKA WAWANCARA DAN PELIPUTAN
+BAB 19 — ETIKA WAWANCARA DAN PELIPUTAN
 Wawancara memerlukan tujuan yang jelas, persetujuan, dan penghormatan terhadap privasi. Jelaskan bagaimana rekaman atau kutipan akan digunakan. Jangan memaksa narasumber membagikan pengalaman sensitif.
 Kutipan harus sesuai konteks. Jika memperbaiki kesalahan bahasa dalam kutipan, jelaskan kebijakan penyuntingan dan jangan mengubah makna.
-BAB 12 — PRODUKSI KONTEN YANG BERTANGGUNG JAWAB
+BAB 20 — PRODUKSI KONTEN YANG BERTANGGUNG JAWAB
 Konten informatif membedakan fakta, opini, dan dugaan. Judul harus mewakili isi, gambar memiliki keterangan, dan sumber dicantumkan. Koreksi kesalahan secara terbuka serta perbarui konten jika informasi berubah.
 Pencipta konten harus memperhatikan hak cipta, izin penggunaan musik dan gambar, serta keselamatan orang yang direkam. Hindari menyebarkan identitas atau lokasi seseorang tanpa alasan yang sah.
-BAB 13 — PROYEK CEK FAKTA
+BAB 21 — PROYEK CEK FAKTA
 Pilih satu klaim yang dapat diuji. Pecah menjadi unsur spesifik, cari sumber primer, bandingkan laporan independen, periksa tanggal dan lokasi, lalu catat apa yang sudah dan belum diketahui.
 Kesimpulan dapat berupa benar, salah, sebagian benar, atau belum cukup bukti. Ketidakpastian harus dijelaskan, bukan ditutupi dengan bahasa pasti.
 LATIHAN PENDALAMAN
@@ -110,17 +110,17 @@ LATIHAN PENDALAMAN
 4. Mengapa koreksi perlu dilakukan terbuka? Jawaban: agar pembaca mengetahui perubahan dan dapat memperbarui pemahamannya.
 
 PENDALAMAN VERIFIKASI DAN ETIKA INFORMASI
-BAB 14 — MEMERIKSA FOTO DAN VIDEO
+BAB 22 — MEMERIKSA FOTO DAN VIDEO
 Foto atau video dapat dipotong, diberi keterangan keliru, atau diunggah ulang dengan konteks berbeda. Periksa sumber pertama yang dapat ditemukan, tanggal, lokasi, petunjuk visual, dan apakah media pernah muncul dalam peristiwa lain. Pencarian gambar terbalik membantu menemukan kemunculan sebelumnya, tetapi bukan bukti final. Cocokkan dengan laporan independen dan keterangan tepercaya.
-BAB 15 — MEMAHAMI ANGKA DAN GRAFIK
+BAB 23 — MEMAHAMI ANGKA DAN GRAFIK
 Periksa judul, sumber, satuan, rentang waktu, ukuran sampel, dan cara pengumpulan data. Grafik dapat memberi kesan perubahan besar jika sumbu dimulai bukan dari nol atau interval tidak konsisten. Persentase harus disertai pembaginya. Bedakan jumlah absolut dengan tingkat per kapita.
-BAB 16 — ALGORITMA DAN RUANG GEMA
+BAB 24 — ALGORITMA DAN RUANG GEMA
 Platform digital menyusun urutan konten memakai sinyal seperti interaksi, relevansi, dan preferensi. Sistem rekomendasi membantu menemukan informasi, tetapi dapat mempersempit paparan jika pengguna hanya melihat konten serupa. Cari sumber beragam dan telusuri topik secara langsung. Perbedaan pendapat tidak berarti semua klaim memiliki kekuatan bukti sama.
-BAB 17 — PRIVASI DAN JEJAK DIGITAL
+BAB 25 — PRIVASI DAN JEJAK DIGITAL
 Unggahan, komentar, lokasi, dan data penggunaan membentuk jejak digital. Sebelum membagikan informasi, pertimbangkan siapa yang dapat melihat, berapa lama data tersimpan, dan apakah orang lain dalam konten telah memberi persetujuan. Gunakan kata sandi unik dan autentikasi berlapis; waspadai tautan pencuri kredensial.
-BAB 18 — DISINFORMASI DAN MANIPULASI
+BAB 26 — DISINFORMASI DAN MANIPULASI
 Disinformasi adalah informasi salah yang disebarkan dengan maksud menyesatkan; misinformasi dibagikan tanpa niat tersebut. Malinformasi menggunakan informasi nyata dengan cara merugikan atau keluar konteks. Sebelum meneruskan pesan, periksa klaim utama, cari sumber asli, dan lihat apakah koreksi telah diterbitkan. Jika belum terverifikasi, jangan sebarkan sebagai fakta.
-BAB 19 — MENYUSUN PRODUK INFORMASI
+BAB 27 — MENYUSUN PRODUK INFORMASI
 Laporan, infografik, dan presentasi menyatakan tujuan, audiens, sumber, tanggal, dan batas data. Gunakan bahasa yang tidak memelintir hasil dan beri atribusi materi pihak lain. Jika terjadi kesalahan, koreksi terbuka dan jelaskan bagian yang berubah.
 LATIHAN
 Pilih lima klaim dari pesan viral. Untuk tiap klaim, catat sumber pertama, bukti pendukung, bukti bertentangan, tanggal, dan status verifikasi. Tandai klaim yang belum dapat dipastikan.

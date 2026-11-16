@@ -163,3 +163,29 @@ Grid: sistem garis bantu untuk mengatur tata letak.
 Hierarki visual: urutan perhatian yang dibentuk oleh elemen desain.
 Kontras: perbedaan visual antarunsur.
 Tipografi: pengaturan huruf dan teks.
+
+BAB LANJUTAN: HIERARKI VISUAL DAN KOMUNIKASI INFORMASI
+
+1. Tujuan komunikasi visual
+Desain komunikasi visual membantu audiens memahami pesan melalui susunan teks, gambar, warna, bentuk, dan ruang. Sebelum memilih gaya, tentukan siapa audiensnya, apa pesan utama, tindakan atau pemahaman yang diharapkan, serta media yang digunakan.
+
+2. Hierarki dan tata letak
+Hierarki visual mengarahkan perhatian melalui ukuran, posisi, kontras, jarak, dan bobot huruf. Informasi utama perlu terlihat lebih dahulu, sedangkan rincian disusun agar mudah ditemukan. Tata letak yang rapi tidak berarti semua elemen harus simetris; yang penting adalah hubungan dan keterbacaan.
+
+3. Tipografi
+Pilih jenis huruf yang mudah dibaca pada ukuran dan media sasaran. Batasi variasi keluarga huruf dan gunakan ukuran, ketebalan, serta jarak baris secara konsisten. Teks panjang memerlukan kenyamanan baca, sedangkan judul dapat memiliki karakter lebih kuat tanpa mengorbankan kejelasan.
+
+4. Warna dan aksesibilitas
+Warna dapat membangun suasana dan membedakan kategori, tetapi jangan menjadikannya satu-satunya penanda informasi. Pastikan kontras teks dan latar cukup. Periksa desain dalam kondisi layar berbeda dan pertimbangkan pengguna dengan gangguan persepsi warna.
+
+5. Gambar, ikon, dan hak penggunaan
+Gunakan visual yang relevan dan tidak menyesatkan. Pastikan gambar memiliki izin penggunaan yang sesuai dan atribusi bila diwajibkan. Ikon harus mudah dikenali serta konsisten. Hindari dekorasi yang membuat pesan utama sulit dibaca.
+
+6. Desain lintas media
+Poster, layar ponsel, presentasi, dan dokumen cetak memiliki ukuran serta kondisi baca berbeda. Uji hasil pada media sebenarnya. Elemen yang terlihat jelas di layar besar mungkin terlalu kecil pada ponsel.
+
+7. Evaluasi desain
+Minta pengguna menemukan informasi tertentu tanpa diberi petunjuk berlebihan. Catat bagian yang salah dipahami, waktu pencarian, dan komentar. Revisi berdasarkan temuan, bukan hanya selera pembuat.
+
+LATIHAN
+Buat rancangan poster edukasi satu halaman. Tetapkan satu pesan utama, susun tiga tingkat informasi, pilih palet warna dengan kontras memadai, dan uji apakah orang lain dapat menemukan pesan utama dengan cepat.

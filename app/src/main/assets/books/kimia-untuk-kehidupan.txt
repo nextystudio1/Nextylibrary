@@ -23,7 +23,7 @@ DAFTAR ISI
 14. Keselamatan dan Penyelidikan Kimia
 Lampiran: Rumus, Latihan, Glosarium
 
-BAB 1. KIMIA DAN CARA BERPIKIR ILMIAH
+BAB 1 — KIMIA DAN CARA BERPIKIR ILMIAH
 Kimia adalah ilmu yang mempelajari materi dan perubahan materi. Materi memiliki massa dan menempati ruang. Dalam kehidupan sehari-hari, perubahan kimia terjadi ketika makanan dimasak, besi mengalami korosi, atau bahan bakar bereaksi. Perubahan fisika seperti es mencair mengubah wujud tanpa menghasilkan zat baru, sedangkan perubahan kimia menghasilkan susunan zat yang berbeda.
 
 Pengamatan perlu dibedakan dari penafsiran. Warna berubah merupakan pengamatan; dugaan bahwa terbentuk zat baru merupakan penafsiran yang perlu didukung bukti lain. Bukti dapat berupa perubahan suhu, terbentuknya gas, endapan, atau perubahan sifat yang tidak mudah dibalik. Tidak satu tanda pun selalu cukup sendirian untuk memastikan reaksi.
@@ -37,7 +37,7 @@ RANGKUMAN
 LATIHAN
 Berikan dua contoh perubahan fisika dan dua perubahan kimia dalam kehidupan sehari-hari. Jelaskan alasan pengelompokannya.
 
-BAB 2. ATOM DAN UNSUR
+BAB 2 — ATOM DAN UNSUR
 Atom merupakan unit dasar unsur yang mempertahankan identitas kimia unsur tersebut. Atom terdiri atas inti yang mengandung proton dan neutron serta elektron yang menempati wilayah di sekitar inti. Proton bermuatan positif, elektron negatif, dan neutron tidak bermuatan.
 
 Nomor atom menyatakan jumlah proton. Pada atom netral, jumlah elektron sama dengan jumlah proton. Nomor massa merupakan jumlah proton dan neutron pada isotop tertentu. Isotop suatu unsur memiliki jumlah proton sama tetapi jumlah neutron berbeda. Isotop dapat memiliki sifat kimia yang mirip, namun massa dan kestabilan inti dapat berbeda.
@@ -53,7 +53,7 @@ RANGKUMAN
 LATIHAN
 Atom memiliki 11 proton dan 12 neutron. Tentukan nomor atom dan nomor massanya. Apa yang berubah jika atom netral kehilangan satu elektron?
 
-BAB 3. TABEL PERIODIK
+BAB 3 — TABEL PERIODIK
 Tabel periodik menyusun unsur berdasarkan nomor atom dan pola sifatnya. Baris disebut periode, sedangkan kolom disebut golongan. Unsur dalam satu golongan sering memiliki pola elektron valensi serupa sehingga menunjukkan sifat kimia yang mirip.
 
 Logam umumnya menghantarkan panas dan listrik dengan baik, dapat ditempa, dan cenderung membentuk kation. Nonlogam memiliki sifat beragam dan banyak yang menjadi penghantar buruk. Metaloid menunjukkan sebagian sifat logam dan nonlogam. Klasifikasi ini merupakan gambaran umum, bukan aturan tanpa pengecualian.
@@ -69,7 +69,7 @@ RANGKUMAN
 LATIHAN
 Mengapa unsur dalam satu golongan dapat memiliki sifat kimia yang mirip? Sebutkan perbedaan umum logam dan nonlogam.
 
-BAB 4. MOLEKUL DAN IKATAN KIMIA
+BAB 4 — MOLEKUL DAN IKATAN KIMIA
 Atom dapat bergabung melalui ikatan kimia untuk mencapai susunan yang lebih stabil. Ikatan ion terbentuk melalui tarikan elektrostatik antara ion bermuatan berlawanan. Senyawa ion sering tersusun sebagai kisi kristal, bukan molekul terpisah. Natrium klorida merupakan contoh senyawa ionik.
 
 Ikatan kovalen terbentuk ketika atom berbagi pasangan elektron. Molekul air dan karbon dioksida memiliki ikatan kovalen. Ikatan dapat bersifat polar jika pembagian elektron tidak merata. Kepolaran molekul ditentukan oleh kepolaran ikatan dan bentuk molekul secara keseluruhan.
@@ -85,7 +85,7 @@ RANGKUMAN
 LATIHAN
 Jelaskan perbedaan ikatan ion dan kovalen. Mengapa bentuk molekul penting untuk menentukan kepolaran?
 
-BAB 5. RUMUS DAN PERSAMAAN REAKSI
+BAB 5 — RUMUS DAN PERSAMAAN REAKSI
 Rumus kimia menunjukkan jenis dan perbandingan atom dalam zat. H2O menunjukkan dua atom hidrogen dan satu atom oksigen per satuan molekul air. Koefisien di depan rumus menunjukkan jumlah partikel atau mol, sedangkan angka indeks menunjukkan perbandingan atom di dalam zat.
 
 Persamaan reaksi menggambarkan pereaksi berubah menjadi produk. Persamaan harus setara karena atom tidak diciptakan atau dimusnahkan dalam reaksi kimia biasa. Jumlah setiap jenis atom harus sama di kedua sisi. Menyetarakan persamaan dilakukan dengan mengubah koefisien, bukan indeks rumus.
@@ -101,7 +101,7 @@ RANGKUMAN
 LATIHAN
 Setarakan persamaan N2 + H2 → NH3. Periksa jumlah atom di kedua sisi.
 
-BAB 6. MOL DAN PERHITUNGAN KIMIA
+BAB 6 — MOL DAN PERHITUNGAN KIMIA
 Atom dan molekul sangat kecil sehingga jumlahnya dinyatakan menggunakan satuan mol. Satu mol mengandung sekitar 6,022 × 10²³ entitas, disebut konstanta Avogadro. Entitas dapat berupa atom, molekul, ion, atau partikel lain yang dinyatakan dengan jelas.
 
 Massa molar adalah massa satu mol zat, dengan satuan g/mol. Nilainya secara numerik berkaitan dengan massa atom atau molekul relatif. Jumlah mol dapat dihitung dari massa dibagi massa molar: n = m/M. Hubungan ini memungkinkan perhitungan jumlah partikel melalui konstanta Avogadro.
@@ -117,7 +117,7 @@ RANGKUMAN
 LATIHAN
 Jika massa molar zat 20 g/mol, berapa mol dalam 60 gram zat tersebut? Jelaskan arti pereaksi pembatas.
 
-BAB 7. LARUTAN DAN KONSENTRASI
+BAB 7 — LARUTAN DAN KONSENTRASI
 Larutan adalah campuran homogen antara pelarut dan zat terlarut. Air merupakan pelarut yang umum, tetapi tidak semua larutan menggunakan air. Konsentrasi menyatakan banyaknya zat terlarut dalam sejumlah larutan atau pelarut.
 
 Molaritas adalah jumlah mol zat terlarut per liter larutan: M = n/V. Jika 0,5 mol zat terlarut berada dalam volume akhir 1 liter, konsentrasinya 0,5 mol/L. Saat membuat larutan, volume akhir yang diperhitungkan, bukan hanya volume pelarut awal.
@@ -133,7 +133,7 @@ RANGKUMAN
 LATIHAN
 Larutan mengandung 0,2 mol zat dalam volume 0,5 L. Hitung molaritasnya.
 
-BAB 8. ASAM, BASA, DAN pH
+BAB 8 — ASAM, BASA, DAN pH
 Asam dan basa dapat dijelaskan melalui beberapa teori. Menurut Arrhenius, asam meningkatkan konsentrasi ion hidrogen dalam air dan basa meningkatkan ion hidroksida. Menurut Brønsted-Lowry, asam menyumbangkan proton dan basa menerima proton. Definisi yang lebih luas membantu menjelaskan reaksi di luar larutan air.
 
 Skala pH berkaitan dengan konsentrasi ion hidrogen dan umumnya digunakan untuk larutan berair. Pada suhu sekitar 25°C, pH 7 merupakan netral dalam pengertian standar, pH lebih kecil dari 7 bersifat asam, dan pH lebih besar dari 7 bersifat basa. Skala pH bersifat logaritmik: perubahan satu unit berkaitan dengan perubahan sepuluh kali pada aktivitas ion hidrogen.
@@ -149,7 +149,7 @@ RANGKUMAN
 LATIHAN
 Apa arti perubahan pH dari 4 menjadi 3? Mengapa pH tidak boleh dipahami sebagai skala linear?
 
-BAB 9. REAKSI KIMIA DAN LAJU REAKSI
+BAB 9 — REAKSI KIMIA DAN LAJU REAKSI
 Reaksi kimia melibatkan pemutusan dan pembentukan ikatan. Laju reaksi menyatakan perubahan jumlah pereaksi atau produk per satuan waktu. Teori tumbukan menjelaskan bahwa reaksi memerlukan tumbukan efektif dengan energi dan orientasi yang sesuai.
 
 Suhu yang lebih tinggi umumnya meningkatkan energi kinetik partikel dan frekuensi tumbukan efektif. Konsentrasi lebih tinggi dapat meningkatkan frekuensi tumbukan. Luas permukaan lebih besar pada zat padat dapat mempercepat reaksi karena lebih banyak bagian zat terbuka untuk berinteraksi. Pengaruh faktor-faktor ini bergantung pada jenis reaksi.
@@ -165,7 +165,7 @@ RANGKUMAN
 LATIHAN
 Jelaskan mengapa serbuk suatu zat sering bereaksi lebih cepat daripada bongkahan dengan massa sama.
 
-BAB 10. ENERGI DALAM REAKSI
+BAB 10 — ENERGI DALAM REAKSI
 Reaksi kimia melibatkan perubahan energi karena ikatan kimia memiliki energi. Reaksi eksoterm melepaskan energi ke lingkungan, sedangkan reaksi endoterm menyerap energi dari lingkungan. Perubahan suhu yang diamati dapat membantu mengenali arah perpindahan energi, tetapi pengukuran kuantitatif membutuhkan rancangan yang tepat.
 
 Entalpi adalah besaran termodinamika yang perubahan nilainya digunakan untuk membahas kalor pada tekanan tetap. Perubahan entalpi reaksi dapat diperkirakan dari energi ikatan atau dihitung menggunakan data pembentukan standar. Hukum Hess menyatakan perubahan entalpi total tidak bergantung pada jalur reaksi jika keadaan awal dan akhir sama.
@@ -181,7 +181,7 @@ RANGKUMAN
 LATIHAN
 Apa perbedaan reaksi eksoterm dan endoterm? Apakah reaksi eksoterm selalu berlangsung cepat?
 
-BAB 11. KIMIA KARBON DAN KEHIDUPAN
+BAB 11 — KIMIA KARBON DAN KEHIDUPAN
 Kimia organik mempelajari banyak senyawa karbon. Karbon dapat membentuk empat ikatan kovalen dan menyusun rantai serta cincin yang beragam. Hidrokarbon hanya mengandung karbon dan hidrogen. Gugus fungsi seperti hidroksil, karboksil, dan amino memengaruhi sifat serta reaktivitas molekul.
 
 Karbohidrat, lipid, protein, dan asam nukleat merupakan kelompok biomolekul penting. Struktur molekul menentukan interaksi dan fungsi. Glukosa merupakan sumber energi yang dapat diolah sel. Lipid menyimpan energi dan menjadi komponen membran. Protein dapat menjadi enzim, pengangkut, atau struktur. DNA menyimpan informasi genetik.
@@ -197,7 +197,7 @@ RANGKUMAN
 LATIHAN
 Mengapa dua senyawa yang sama-sama mengandung karbon dapat memiliki sifat sangat berbeda?
 
-BAB 12. KIMIA LINGKUNGAN
+BAB 12 — KIMIA LINGKUNGAN
 Kimia lingkungan mempelajari zat dan proses kimia di udara, air, tanah, serta organisme. Polutan dapat berasal dari sumber alami atau aktivitas manusia. Dampaknya bergantung pada jenis zat, konsentrasi, lama paparan, dan kerentanan organisme.
 
 Atmosfer mengandung nitrogen dan oksigen sebagai komponen utama serta gas lain dalam jumlah lebih kecil. Karbon dioksida dan gas rumah kaca lain menyerap dan memancarkan radiasi inframerah, sehingga memengaruhi keseimbangan energi bumi. Peningkatan konsentrasi gas rumah kaca akibat aktivitas manusia memperkuat pemanasan global.
@@ -213,7 +213,7 @@ RANGKUMAN
 LATIHAN
 Jelaskan bagaimana limpasan pupuk dapat memengaruhi danau atau sungai.
 
-BAB 13. BAHAN DAN TEKNOLOGI
+BAB 13 — BAHAN DAN TEKNOLOGI
 Sifat bahan ditentukan komposisi, struktur, dan proses pembuatannya. Logam digunakan karena kuat dan dapat menghantarkan listrik. Keramik tahan panas dan aus tetapi dapat rapuh. Polimer ringan dan mudah dibentuk, sedangkan komposit menggabungkan beberapa bahan untuk memperoleh kombinasi sifat.
 
 Baterai mengubah energi kimia menjadi energi listrik melalui reaksi redoks. Sel elektrokimia melibatkan perpindahan elektron melalui rangkaian luar dan perpindahan ion di dalam sistem. Baterai memiliki batas umur, kapasitas, dan kondisi penggunaan. Pengisian harus menggunakan perangkat yang sesuai spesifikasi.
@@ -229,7 +229,7 @@ RANGKUMAN
 LATIHAN
 Bandingkan kelebihan dan keterbatasan logam, keramik, dan polimer untuk penggunaan sehari-hari.
 
-BAB 14. KESELAMATAN DAN PENYELIDIKAN KIMIA
+BAB 14 — KESELAMATAN DAN PENYELIDIKAN KIMIA
 Keselamatan merupakan bagian utama ilmu kimia. Label bahan, simbol bahaya, petunjuk penggunaan, dan lembar data keselamatan harus dipahami sebelum bahan digunakan. Jangan mencicipi bahan, menghirup langsung uap, atau mencampur produk rumah tangga. Jangan memindahkan bahan ke wadah minuman.
 
 Laboratorium menggunakan alat pelindung, ventilasi, prosedur penyimpanan, dan pengelolaan limbah. Bahan yang tidak dikenal tidak boleh disentuh atau dicampur. Jika terjadi tumpahan atau paparan, hentikan kegiatan dan minta bantuan guru, petugas laboratorium, atau orang dewasa yang bertanggung jawab.
@@ -293,22 +293,22 @@ PENUTUP
 Kimia membantu menjelaskan mengapa bahan memiliki sifat tertentu dan bagaimana perubahan berlangsung. Pemahaman yang baik menggabungkan model partikel, persamaan, pengamatan, dan keselamatan. Gunakan pengetahuan kimia untuk membuat keputusan yang bertanggung jawab terhadap diri sendiri dan lingkungan.
 
 PENDALAMAN: KIMIA DALAM INDUSTRI, LINGKUNGAN, DAN KEHIDUPAN
-BAB 1 —— LARUTAN DAN KELARUTAN
+BAB 15 — LARUTAN DAN KELARUTAN
 Larutan terdiri atas zat terlarut dan pelarut. Kelarutan dipengaruhi jenis zat, suhu, tekanan untuk gas, dan interaksi antarmolekul. Konsentrasi dapat dinyatakan melalui molaritas, persen massa, atau satuan lain sesuai kebutuhan.
 Pelarutan tidak selalu berarti reaksi kimia. Perubahan suhu atau penguapan dapat menyebabkan zat terlarut mengkristal kembali. Saat menyiapkan larutan, gunakan satuan dan prosedur yang tepat.
-BAB 2 —— OKSIDASI DAN REDUKSI
+BAB 16 — OKSIDASI DAN REDUKSI
 Reaksi redoks melibatkan perpindahan elektron atau perubahan bilangan oksidasi. Oksidasi adalah pelepasan elektron, sedangkan reduksi adalah penerimaan elektron. Kedua proses berlangsung berpasangan.
 Sel elektrokimia memanfaatkan reaksi redoks untuk menghasilkan atau menggunakan energi listrik. Baterai, pelapisan logam, dan korosi merupakan contoh penerapan. Pencegahan korosi dapat melibatkan pelapisan, pemilihan bahan, atau pengendalian lingkungan.
-BAB 3 —— POLIMER DAN MATERIAL
+BAB 17 — POLIMER DAN MATERIAL
 Polimer tersusun dari unit berulang yang disebut monomer. Polimer alam mencakup selulosa dan protein, sedangkan polimer sintetis digunakan dalam kemasan, tekstil, alat kesehatan, dan komponen teknik.
 Sifat polimer bergantung pada struktur rantai, ikatan antarrantai, dan bahan tambahan. Pengelolaan limbah perlu memperhatikan desain produk, penggunaan ulang, daur ulang, dan dampak bahan mikroplastik.
-BAB 4 —— KIMIA LINGKUNGAN
+BAB 18 — KIMIA LINGKUNGAN
 Kimia lingkungan mempelajari zat dan reaksi dalam udara, air, dan tanah. Polutan dapat berubah melalui reaksi kimia, penguraian biologis, atau perpindahan antar media. Konsentrasi dan lama paparan sama-sama penting dalam menilai risiko.
 Pengambilan sampel harus mengikuti prosedur agar tidak terkontaminasi. Hasil laboratorium perlu dibandingkan dengan standar yang berlaku dan disertai batas deteksi serta ketidakpastian.
-BAB 5 —— KIMIA PANGAN DAN RUMAH TANGGA
+BAB 19 — KIMIA PANGAN DAN RUMAH TANGGA
 Reaksi kimia terjadi saat memasak, menyimpan, dan mengolah makanan. Pemanasan dapat mengubah protein, pati, warna, aroma, dan tekstur. Keasaman serta aktivitas air memengaruhi pertumbuhan mikroorganisme dan kestabilan bahan.
 Bahan pembersih rumah tangga harus digunakan sesuai label. Jangan mencampur produk pembersih karena reaksi tertentu dapat menghasilkan gas berbahaya. Simpan bahan dalam kemasan asli dan jauh dari jangkauan anak.
-BAB 6 —— LABORATORIUM DAN KESELAMATAN
+BAB 20 — LABORATORIUM DAN KESELAMATAN
 Keselamatan laboratorium memerlukan penilaian bahaya, alat pelindung yang sesuai, label, ventilasi, dan prosedur pembuangan. Baca lembar data keselamatan sebelum menggunakan bahan. Jangan mencicipi bahan atau menghirup uap secara langsung.
 Catat bahan, konsentrasi, alat, dan prosedur. Jika terjadi tumpahan atau paparan, ikuti prosedur keselamatan setempat dan laporkan kepada pengawas laboratorium.
 LATIHAN

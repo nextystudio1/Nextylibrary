@@ -135,3 +135,41 @@ Pembiasan: Perubahan arah rambat gelombang saat memasuki medium berbeda.
 
 SARAN BELAJAR
 Gunakan buku ini sebagai pengantar. Cocokkan informasi dengan buku ajar dan publikasi lembaga yang kompeten, terutama untuk topik yang berkembang. Catat sumber, penulis atau lembaga, tahun, dan bagian yang digunakan ketika memperluas bacaan.
+PENDALAMAN MATERI DAN PRAKTIK
+
+BAB 6. BESARAN GELOMBANG DAN PERHITUNGAN
+Frekuensi menyatakan banyak getaran setiap detik dan diukur dalam hertz. Periode adalah waktu untuk satu getaran, sehingga T = 1/f. Panjang gelombang adalah jarak antara dua titik berfase sama yang berurutan. Cepat rambat gelombang memenuhi v = fλ. Jika gelombang memiliki frekuensi 5 hertz dan panjang gelombang 2 meter, cepat rambatnya 10 meter per detik. Persamaan ini membantu menghubungkan sifat gelombang, tetapi nilai cepat rambat ditentukan oleh medium dan kondisi perambatan. Ketika gelombang memasuki medium lain, frekuensi umumnya tetap ditentukan sumber, sedangkan panjang gelombang dapat berubah karena cepat rambat berubah. Dalam membaca soal, tulis besaran yang diketahui, satuannya, besaran yang ditanya, lalu periksa apakah hasil memiliki satuan yang sesuai.
+
+BAB 7. PEMANTULAN, PEMBIASAN, DAN DIFRAKSI
+Pemantulan terjadi ketika gelombang kembali dari batas medium. Pada pemantulan teratur, sudut datang sama dengan sudut pantul jika diukur terhadap garis normal. Pembiasan terjadi ketika gelombang berubah arah akibat perubahan cepat rambat saat memasuki medium berbeda. Gelombang cahaya yang memasuki air dari udara mengalami perubahan arah karena indeks bias berbeda. Difraksi adalah penyebaran gelombang ketika melewati celah atau tepi penghalang. Efek difraksi lebih mudah diamati ketika ukuran celah sebanding dengan panjang gelombang. Ketiga gejala ini menjelaskan banyak fenomena, mulai dari bayangan pada cermin hingga suara yang masih terdengar dari balik pintu. Jangan menyamakan pembiasan dengan pemantulan; keduanya merupakan proses berbeda meskipun dapat terjadi pada batas medium yang sama.
+
+BAB 8. INTERFERENSI DAN POLARISASI
+Interferensi terjadi ketika dua atau lebih gelombang bertemu dan saling bertumpang tindih. Interferensi konstruktif terjadi ketika gelombang memperkuat satu sama lain, sedangkan interferensi destruktif terjadi ketika gelombang mengurangi amplitudo resultan. Pola interferensi dapat digunakan untuk memahami sifat gelombang cahaya dan bunyi. Polarisasi menunjukkan arah osilasi gelombang transversal. Cahaya yang tidak terpolarisasi memiliki arah getar yang beragam, sedangkan filter polarisasi hanya meneruskan komponen tertentu. Kacamata polarisasi dapat mengurangi silau dari permukaan tertentu karena memilih arah polarisasi cahaya. Fenomena ini memperlihatkan bahwa cahaya memiliki sifat gelombang transversal. Pembahasan interferensi perlu membedakan amplitudo, intensitas, fase, dan panjang gelombang agar penjelasan tidak tercampur.
+
+BAB 9. SPEKTRUM ELEKTROMAGNETIK
+Spektrum elektromagnetik mencakup gelombang radio, gelombang mikro, inframerah, cahaya tampak, ultraviolet, sinar-X, dan sinar gamma. Semua merupakan gelombang elektromagnetik, tetapi berbeda frekuensi dan panjang gelombang. Dalam vakum, gelombang elektromagnetik merambat dengan cepat rambat yang sama, sedangkan energi foton meningkat seiring frekuensi. Gelombang radio digunakan untuk komunikasi, inframerah berkaitan dengan radiasi termal, cahaya tampak memungkinkan penglihatan, dan sinar-X digunakan dalam pencitraan medis dengan pengendalian paparan. Tidak semua radiasi memiliki dampak yang sama; risiko bergantung pada energi, intensitas, durasi, dan bagian tubuh yang terpapar. Teknologi radiasi harus digunakan sesuai standar keselamatan dan oleh tenaga yang berwenang.
+
+BAB 10. APLIKASI GELOMBANG DALAM TEKNOLOGI
+Gelombang dimanfaatkan pada komunikasi radio, jaringan nirkabel, sonar, ultrasonografi, serat optik, dan pencitraan. Sonar menggunakan pantulan gelombang bunyi untuk memperkirakan jarak atau mendeteksi objek di air. Ultrasonografi memakai gelombang bunyi berfrekuensi tinggi dan pantulannya untuk membentuk citra bagian dalam tubuh. Serat optik memandu cahaya melalui pemantulan internal total pada kondisi tertentu. Setiap teknologi memiliki batas resolusi, gangguan, dan kebutuhan kalibrasi. Hasil pengukuran bukan gambaran sempurna; interpretasi perlu mempertimbangkan kualitas alat dan kondisi pengukuran. Dalam komunikasi, informasi dibawa oleh perubahan sinyal yang dapat diproses penerima. Gangguan, pelemahan, dan pantulan dapat memengaruhi kualitas sinyal.
+
+STUDI KASUS
+Seseorang berdiri di depan tebing dan mendengar gema beberapa saat setelah berteriak. Gema terjadi karena bunyi dipantulkan dan menempuh perjalanan pergi-pulang. Jika cepat rambat bunyi diketahui dan waktu jeda diukur, jarak ke tebing dapat diperkirakan dengan membagi hasil kali cepat rambat dan waktu dengan dua. Faktor suhu udara dapat mengubah cepat rambat, sedangkan permukaan dan bentuk tebing memengaruhi kekuatan pantulan. Pengukuran yang baik perlu mengulang pengamatan dan memperhitungkan ketidakpastian waktu.
+
+LATIHAN TERAPAN
+1. Gelombang memiliki frekuensi 8 Hz dan panjang gelombang 1,5 m. Hitung cepat rambatnya.
+2. Jika periode getaran 0,25 sekon, tentukan frekuensinya.
+3. Jelaskan perbedaan pemantulan dan pembiasan.
+4. Mengapa gelombang radio dan bunyi memiliki kebutuhan medium berbeda?
+5. Sebutkan dua batasan penggunaan hasil pengukuran sonar atau ultrasonografi.
+
+PEMBAHASAN LATIHAN
+Cepat rambat adalah 8 x 1,5 = 12 m/s. Frekuensi adalah 1/0,25 = 4 Hz. Pemantulan mengembalikan gelombang ke medium asal, sedangkan pembiasan mengubah arah akibat perubahan cepat rambat. Gelombang radio adalah elektromagnetik dan dapat merambat di vakum; bunyi merupakan gelombang mekanik yang memerlukan medium. Hasil sonar dan ultrasonografi dipengaruhi resolusi, kondisi medium, posisi sensor, gangguan, dan kemampuan interpretasi.
+
+GLOSARIUM
+Difraksi: penyebaran gelombang di sekitar celah atau penghalang.
+Frekuensi: jumlah getaran per detik.
+Interferensi: perpaduan dua atau lebih gelombang.
+Panjang gelombang: jarak antara titik sefase yang berurutan.
+Periode: waktu untuk satu getaran.
+Polarisasi: pembatasan arah osilasi gelombang transversal.
+Resonansi: respons besar ketika frekuensi pemaksa sesuai frekuensi alami.

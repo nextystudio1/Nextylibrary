@@ -27,7 +27,7 @@ LAMPIRAN B. Lembar Evaluasi Mingguan
 GLOSARIUM
 EVALUASI AKHIR
 
-BAB 1 — MEMAHAMI ARTI BELAJAR
+PENDALAMAN — MEMAHAMI ARTI BELAJAR
 
 Belajar adalah proses perubahan pengetahuan, keterampilan, sikap, atau cara berpikir melalui pengalaman, latihan, pengamatan, dan refleksi. Belajar bukan hanya kegiatan membaca buku atau menghafal kalimat. Seseorang benar-benar mempelajari sesuatu ketika ia dapat menjelaskan gagasan dengan kata-katanya sendiri, mengenali kapan gagasan itu dapat digunakan, serta menerapkannya pada situasi yang sesuai.
 
@@ -54,7 +54,7 @@ LATIHAN BAB 1
 3. Mengapa membaca ulang belum tentu membuktikan bahwa seseorang sudah menguasai materi?
 4. Pilih satu topik yang sedang dipelajari. Tuliskan tiga hal yang sudah diketahui dan tiga pertanyaan yang ingin dijawab.
 
-BAB 2 — MENENTUKAN TUJUAN DAN RENCANA
+PENDALAMAN — MENENTUKAN TUJUAN DAN RENCANA
 
 Tujuan belajar memberi arah pada kegiatan. Tujuan yang terlalu umum, seperti “ingin pintar matematika”, sulit digunakan untuk menentukan langkah berikutnya. Tujuan yang lebih jelas menyebutkan kemampuan yang ingin ditunjukkan. Contohnya, “dapat menyelesaikan soal perbandingan dan menjelaskan alasan setiap langkah.” Tujuan seperti ini membantu memilih bahan belajar dan cara mengevaluasi kemajuan.
 
@@ -86,7 +86,7 @@ LATIHAN BAB 2
 3. Mengapa rencana belajar perlu menyediakan waktu istirahat?
 4. Sebutkan dua alasan rencana belajar mungkin perlu diubah.
 
-BAB 3 — MENYIAPKAN LINGKUNGAN BELAJAR
+PENDALAMAN — MENYIAPKAN LINGKUNGAN BELAJAR
 
 Lingkungan belajar mencakup tempat, alat, suasana, dan kebiasaan yang mendukung perhatian. Tempat belajar tidak harus mahal atau memiliki perabot khusus. Hal yang lebih penting adalah cukup aman, memiliki penerangan yang memadai, dan memungkinkan bahan belajar mudah dijangkau.
 
@@ -110,7 +110,7 @@ LATIHAN BAB 3
 2. Rancang perubahan sederhana agar tempat belajar lebih nyaman.
 3. Mengapa membuka terlalu banyak sumber sekaligus dapat mengganggu fokus?
 
-BAB 4 — MEMBACA UNTUK MEMAHAMI
+PENDALAMAN — MEMBACA UNTUK MEMAHAMI
 
 Membaca untuk belajar berbeda dari membaca sekadar menyelesaikan halaman. Pembaca perlu memiliki pertanyaan dan mencari hubungan antargagasan. Sebelum membaca, lihat judul, subjudul, gambar, tabel, dan rangkuman. Buat perkiraan tentang hal yang akan dibahas, kemudian periksa apakah perkiraan itu benar.
 
@@ -141,7 +141,7 @@ LATIHAN BAB 4
 2. Buat dua pertanyaan yang jawabannya dapat ditemukan dalam bacaan.
 3. Apa saja yang perlu diperiksa sebelum menafsirkan grafik?
 
-BAB 5 — MENCATAT DAN MENYUSUN PENGETAHUAN
+PENDALAMAN — MENCATAT DAN MENYUSUN PENGETAHUAN
 
 Catatan yang baik bukan salinan seluruh buku. Catatan berfungsi menyimpan struktur gagasan, istilah, pertanyaan, contoh, dan hubungan penting. Menyalin terlalu banyak dapat menyita waktu tanpa memastikan pemahaman.
 
@@ -165,7 +165,7 @@ LATIHAN BAB 5
 2. Buat peta konsep dengan sedikitnya lima istilah yang saling berhubungan.
 3. Mengapa catatan perlu mencantumkan sumber?
 
-BAB 6 — MENGINGAT DENGAN CARA YANG TEPAT
+PENDALAMAN — MENGINGAT DENGAN CARA YANG TEPAT
 
 Ingatan terbentuk melalui proses menerima informasi, mengolahnya, menyimpannya, dan memanggilnya kembali. Informasi yang hanya dilihat sekilas mungkin sulit diingat. Menghubungkan gagasan dengan pengetahuan sebelumnya, membuat contoh, dan menggunakannya dalam latihan dapat membantu memperkuat pemahaman.
 
@@ -193,7 +193,7 @@ LATIHAN BAB 6
 2. Jelaskan perbedaan membaca ulang dan mengingat aktif.
 3. Buat jadwal pengulangan sederhana untuk materi yang dipelajari hari ini.
 
-BAB 7 — LATIHAN, SOAL, DAN UMPAN BALIK
+PENDALAMAN — LATIHAN, SOAL, DAN UMPAN BALIK
 
 Latihan memberi kesempatan untuk menggunakan pengetahuan. Mulailah dari soal yang menguji konsep dasar, lalu tingkatkan ke soal yang membutuhkan penerapan dan penalaran. Jika langsung mengerjakan soal yang terlalu sulit tanpa dasar yang cukup, pembaca dapat kesulitan mengetahui bagian mana yang belum dipahami.
 
@@ -217,7 +217,7 @@ LATIHAN BAB 7
 2. Jelaskan mengapa jawaban benar tanpa alasan belum tentu menunjukkan pemahaman.
 3. Buat satu soal penerapan dari topik yang sedang dipelajari.
 
-BAB 8 — BERPIKIR KRITIS DAN MEMECAHKAN MASALAH
+PENDALAMAN — BERPIKIR KRITIS DAN MEMECAHKAN MASALAH
 
 Berpikir kritis adalah kemampuan menilai informasi dan alasan secara cermat. Sikap kritis bukan berarti menolak semua pendapat. Sikap ini berarti memeriksa dasar suatu klaim, membedakan bukti dari dugaan, dan bersedia mengubah kesimpulan jika alasan yang lebih kuat ditemukan.
 
@@ -243,7 +243,7 @@ LATIHAN BAB 8
 2. Buat contoh generalisasi terburu-buru.
 3. Susun tiga pilihan untuk menyelesaikan masalah keterlambatan mengumpulkan tugas, lalu bandingkan konsekuensinya.
 
-BAB 9 — MENGELOLA WAKTU DAN MENJAGA KONSISTENSI
+PENDALAMAN — MENGELOLA WAKTU DAN MENJAGA KONSISTENSI
 
 Waktu belajar perlu disusun berdasarkan prioritas dan kemampuan nyata. Bedakan tugas penting, tugas mendesak, dan tugas yang dapat dijadwalkan kemudian. Periksa tenggat, tingkat kesulitan, serta waktu yang dibutuhkan untuk menyelesaikan setiap bagian.
 
@@ -267,7 +267,7 @@ LATIHAN BAB 9
 2. Buat rencana belajar mingguan yang tetap menyediakan waktu istirahat.
 3. Tuliskan satu hambatan belajar dan satu perubahan yang dapat dicoba.
 
-BAB 10 — BELAJAR DARI KESALAHAN
+PENDALAMAN — BELAJAR DARI KESALAHAN
 
 Kesalahan merupakan bagian wajar dari proses belajar. Kesalahan dapat menunjukkan bahwa konsep belum dipahami, strategi belum sesuai, atau informasi yang digunakan belum lengkap. Sikap yang membantu adalah mengamati kesalahan secara spesifik dan menentukan tindakan perbaikan.
 
@@ -288,7 +288,7 @@ LATIHAN BAB 10
 2. Apa perbedaan kesalahan konsep dan kesalahan hitung?
 3. Susun satu pertanyaan spesifik tentang materi yang belum dipahami.
 
-BAB 11 — BELAJAR BERSAMA DAN MENJELASKAN KEMBALI
+PENDALAMAN — BELAJAR BERSAMA DAN MENJELASKAN KEMBALI
 
 Belajar bersama dapat mempertemukan sudut pandang yang berbeda. Diskusi yang baik memiliki tujuan, aturan saling menghormati, dan kesempatan bagi setiap anggota untuk menyampaikan alasan. Kelompok belajar bukan sekadar berkumpul; setiap pertemuan perlu menghasilkan sesuatu, seperti jawaban, rangkuman, atau penyelesaian masalah.
 
@@ -309,7 +309,7 @@ LATIHAN BAB 11
 2. Buat aturan singkat untuk diskusi kelompok yang sehat.
 3. Mengapa setiap anggota perlu memahami hasil kerja kelompok?
 
-BAB 12 — PROYEK DAN PENERAPAN PENGETAHUAN
+PENDALAMAN — PROYEK DAN PENERAPAN PENGETAHUAN
 
 Proyek menghubungkan beberapa pengetahuan untuk menghasilkan karya atau jawaban atas pertanyaan nyata. Proyek dapat berupa laporan pengamatan, model sederhana, poster informasi, percobaan aman, wawancara, atau pemetaan masalah lingkungan. Pilih kegiatan yang sesuai usia, fasilitas, dan aturan keselamatan.
 
@@ -333,7 +333,7 @@ LATIHAN BAB 12
 2. Sebutkan data apa yang diperlukan dan data apa yang tidak perlu dikumpulkan.
 3. Mengapa keterbatasan metode perlu dituliskan dalam laporan?
 
-BAB 13 — BELAJAR DI DUNIA DIGITAL
+PENDALAMAN — BELAJAR DI DUNIA DIGITAL
 
 Teknologi digital menyediakan buku elektronik, video pembelajaran, simulasi, kursus, dan alat bantu pencatatan. Banyaknya pilihan tidak otomatis membuat belajar lebih baik. Pilih sumber berdasarkan tujuan, mutu isi, aksesibilitas, dan kejelasan penulis atau lembaganya.
 
@@ -357,7 +357,7 @@ LATIHAN BAB 13
 2. Sebutkan tiga informasi pribadi yang tidak boleh sembarangan dibagikan.
 3. Mengapa jawaban dari alat kecerdasan buatan perlu diperiksa?
 
-BAB 14 — MENYUSUN SISTEM BELAJAR PRIBADI
+PENDALAMAN — MENYUSUN SISTEM BELAJAR PRIBADI
 
 Sistem belajar pribadi adalah rangkaian kebiasaan yang membantu seseorang menentukan apa yang dipelajari, bagaimana mempelajarinya, dan bagaimana memeriksa kemajuan. Sistem yang baik tidak harus rumit. Sistem perlu mudah digunakan dan dapat diubah ketika kebutuhan berubah.
 

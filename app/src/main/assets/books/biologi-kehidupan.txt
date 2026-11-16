@@ -392,3 +392,23 @@ Buat diagram hubungan sistem pernapasan dan peredaran darah dalam memasok oksige
 
 RANGKUMAN BAB
 Biologi kehidupan mempelajari kerja sama sistem organ, homeostasis, saraf, hormon, imunitas, dan lingkungan. Pemahaman ini membantu pelajar menghubungkan proses tubuh dengan kesehatan dan masyarakat tanpa membuat klaim medis berlebihan.
+
+BAB MIKROORGANISME DAN PERANANNYA
+Mikroorganisme meliputi bakteri, arkea, sebagian jamur, protista, dan virus sebagai agen biologis yang memerlukan sel inang untuk bereplikasi. Banyak mikroorganisme bermanfaat dalam penguraian, fermentasi, daur unsur, dan hubungan simbiosis. Sebagian dapat menyebabkan penyakit, sehingga penting membedakan kelompok dan cara hidupnya.
+
+Mikrobioma adalah komunitas mikroorganisme yang hidup pada suatu lingkungan, termasuk tubuh manusia. Komposisinya dipengaruhi pola makan, lingkungan, usia, obat, dan faktor lain. Penelitian mikrobioma berkembang pesat, tetapi tidak semua klaim komersial tentang produk “menyeimbangkan mikrobioma” didukung bukti yang kuat.
+
+PENCEGAHAN PENYAKIT MENULAR
+Penyakit menular dapat menyebar melalui jalur berbeda seperti udara, kontak, makanan, air, atau vektor. Pencegahan bergantung pada cara penularan: ventilasi, kebersihan tangan, keamanan pangan, air bersih, pengendalian vektor, vaksinasi, dan tinggal di rumah saat sakit sesuai anjuran kesehatan. Tidak ada satu tindakan yang mencegah semua penyakit.
+
+ANTIBIOTIK DAN RESISTANSI
+Antibiotik bekerja terhadap bakteri tertentu, bukan virus. Penggunaan yang tidak tepat dapat mendorong seleksi bakteri yang resistan. Antibiotik harus digunakan hanya sesuai resep dan petunjuk tenaga kesehatan. Jangan berbagi obat atau menyimpan sisa antibiotik untuk digunakan sendiri.
+
+BIOLOGI DAN LINGKUNGAN
+Mikroorganisme berperan dalam penguraian bahan organik, pengolahan limbah, kesuburan tanah, dan siklus karbon serta nitrogen. Dalam bioteknologi, mikroba digunakan untuk menghasilkan pangan, enzim, dan bahan tertentu. Penggunaan mikroorganisme harus mengikuti standar keselamatan dan pengawasan.
+
+LATIHAN
+Buat peta konsep yang menghubungkan mikroorganisme, penguraian, daur unsur, fermentasi, dan kesehatan. Sertakan contoh manfaat serta risiko, dan gunakan sumber biologi tepercaya.
+
+RANGKUMAN BAB
+Mikroorganisme memiliki peran luas bagi ekosistem, pangan, dan kesehatan. Memahami keragaman dan cara penularan membantu menghindari generalisasi serta penggunaan obat yang tidak tepat.

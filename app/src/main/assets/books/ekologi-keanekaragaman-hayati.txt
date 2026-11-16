@@ -291,3 +291,23 @@ Buat peta sederhana jaring makanan dari ekosistem kebun atau kolam berdasarkan s
 
 RANGKUMAN BAB
 Ekologi menghubungkan organisme, energi, materi, populasi, dan habitat. Konservasi yang efektif membutuhkan bukti ilmiah, pemahaman sosial, dan tindakan yang menjaga fungsi ekosistem.
+
+BAB RESTORASI EKOSISTEM DAN PEMANTAUAN
+Restorasi ekosistem berupaya memulihkan struktur, fungsi, dan proses ekologis yang terganggu. Tujuannya tidak selalu mengembalikan keadaan persis seperti masa lalu karena iklim, tanah, dan penggunaan lahan mungkin telah berubah. Target restorasi perlu dirumuskan secara terukur, misalnya pemulihan tutupan vegetasi asli, kualitas air, konektivitas habitat, atau keberhasilan regenerasi alami.
+
+Pemilihan spesies untuk restorasi harus mempertimbangkan asal lokal, kesesuaian habitat, interaksi ekologis, dan risiko invasif. Penanaman bibit saja tidak cukup jika penyebab kerusakan seperti pencemaran, kebakaran berulang, atau perubahan aliran air tidak diatasi. Masyarakat setempat perlu dilibatkan dalam perencanaan dan pemeliharaan.
+
+KONEKTIVITAS HABITAT
+Fragmentasi habitat memecah kawasan alami menjadi bagian lebih kecil dan terpisah. Hal ini dapat menghambat pergerakan organisme, pertukaran gen, dan akses sumber daya. Koridor ekologis dapat membantu menghubungkan habitat, tetapi desainnya harus sesuai kebutuhan spesies dan kondisi lanskap. Jalan, pagar, dan bangunan dapat menjadi penghalang atau sumber kematian satwa.
+
+PEMANTAUAN DAN INDIKATOR
+Pemantauan jangka panjang membandingkan kondisi sebelum dan sesudah tindakan. Indikator harus relevan, dapat diukur, dan cukup sensitif terhadap perubahan. Jumlah pohon yang ditanam, misalnya, tidak sama dengan tingkat kelangsungan hidup atau pemulihan fungsi ekosistem. Catat metode, waktu, lokasi, dan keterbatasan pengamatan.
+
+KONSERVASI BERBASIS MASYARAKAT
+Masyarakat yang tinggal dekat kawasan konservasi sering memiliki pengetahuan lokal tentang musim, sumber air, dan perubahan habitat. Program konservasi lebih kuat jika manfaat, hak, dan tanggung jawab dibicarakan secara adil. Pembatasan akses tanpa alternatif penghidupan dapat menimbulkan konflik dan mengurangi dukungan.
+
+LATIHAN
+Rancang indikator sederhana untuk menilai pemulihan taman sekolah: jumlah jenis tumbuhan lokal, tutupan tanah, keberadaan penyerbuk, dan kondisi sampah. Tentukan cara pengamatan berulang dan faktor yang dapat memengaruhi hasil. Jangan menangkap satwa atau merusak tumbuhan untuk keperluan pencatatan.
+
+RANGKUMAN BAB
+Restorasi membutuhkan tujuan jelas, pemulihan proses ekologis, konektivitas, pemantauan, dan kemitraan masyarakat. Keberhasilan dinilai dari fungsi ekosistem, bukan hanya jumlah kegiatan yang dilakukan.

@@ -268,3 +268,24 @@ Rancang jurnal pengamatan Bulan selama dua minggu. Catat tanggal, waktu, fase ya
 
 RANGKUMAN BAB
 Astronomi menggabungkan pengamatan berulang, instrumen, fisika, dan evaluasi bukti. Keterbatasan alat serta ketidakpastian harus dipahami agar kesimpulan tentang alam semesta tetap dapat dipercaya.
+
+BAB GALAKSI DAN STRUKTUR ALAM SEMESTA
+Galaksi adalah sistem besar yang terdiri atas bintang, gas, debu, materi gelap, dan berbagai objek lain yang terikat gravitasi. Bima Sakti merupakan galaksi spiral berbatang dan Tata Surya berada di salah satu lengan spiralnya. Galaksi memiliki bentuk serta ukuran beragam dan dapat berinteraksi atau bergabung selama waktu kosmik.
+
+JARAK ASTRONOMI
+Tahun cahaya adalah jarak yang ditempuh cahaya dalam satu tahun, bukan satuan waktu. Satuan astronomi kira-kira menyatakan jarak rata-rata Bumi-Matahari dan berguna untuk jarak dalam Tata Surya. Parsec digunakan dalam astronomi profesional; satu parsec berkaitan dengan definisi paralaks satu detik busur.
+
+PENGEMBANGAN ALAM SEMESTA
+Pengamatan pergeseran merah galaksi jauh dan radiasi latar gelombang mikro kosmik mendukung model alam semesta yang mengembang dari keadaan awal yang sangat panas dan rapat. Model kosmologi modern menjelaskan banyak pengamatan, tetapi masih memiliki pertanyaan terbuka tentang materi gelap, energi gelap, dan kondisi paling awal.
+
+MENGUKUR JARAK BINTANG
+Paralaks mengukur perubahan posisi tampak bintang dekat terhadap latar yang lebih jauh saat Bumi bergerak mengelilingi Matahari. Untuk jarak lebih jauh, astronom menggunakan metode lain seperti bintang variabel tertentu dan supernova tipe Ia sebagai lilin standar, dengan kalibrasi yang cermat. Setiap metode memiliki rentang dan ketidakpastian.
+
+ETIKA DAN KETERBUKAAN DATA
+Observatorium dan misi antariksa sering membagikan data untuk dianalisis komunitas ilmiah. Data perlu dibaca bersama metadata, satuan, instrumen, dan batas pengamatan. Gambar astronomi dapat menggunakan pemetaan warna untuk menampilkan panjang gelombang yang tidak terlihat mata; warna tersebut merupakan representasi data, bukan selalu warna visual asli objek.
+
+LATIHAN
+Buat poster konsep tentang Bima Sakti yang membedakan galaksi, bintang, nebula, dan sistem planet. Cantumkan skala jarak secara kualitatif dan jelaskan mengapa gambar galaksi tidak selalu menunjukkan warna yang akan dilihat mata manusia.
+
+RANGKUMAN BAB
+Astronomi mempelajari alam semesta melalui cahaya, jarak, gerak, dan model fisika. Satuan, metode pengukuran, dan ketidakpastian membantu menempatkan objek kosmik dalam skala yang benar.

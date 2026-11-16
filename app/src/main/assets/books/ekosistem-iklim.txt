@@ -302,3 +302,23 @@ Buat diagram daur karbon dengan minimal lima tempat penyimpanan karbon dan panah
 
 RANGKUMAN BAB
 Interaksi spesies, suksesi, daur karbon, dan solusi berbasis alam menunjukkan bahwa ekosistem adalah jaringan hubungan. Pengelolaan lingkungan perlu melihat dampak jangka panjang serta kebutuhan manusia dan alam.
+
+BAB AIR, TANAH, DAN KETAHANAN EKOSISTEM
+Air bergerak melalui evaporasi, transpirasi, kondensasi, presipitasi, infiltrasi, aliran permukaan, dan aliran bawah tanah. Vegetasi memengaruhi penyerapan air dan erosi, sedangkan permukaan kedap di kota dapat meningkatkan limpasan. Perubahan tutupan lahan dapat mengubah risiko banjir sekaligus ketersediaan air pada musim kering.
+
+Tanah terbentuk melalui interaksi bahan induk, iklim, organisme, topografi, dan waktu. Tanah menyediakan tempat tumbuh, menyimpan air dan unsur hara, serta menjadi habitat organisme. Erosi menghilangkan lapisan atas yang kaya bahan organik. Pengelolaan lahan yang menjaga tutupan vegetasi, bahan organik, dan aliran air dapat membantu mempertahankan kesuburan.
+
+LAHAN BASAH DAN MANGROVE
+Lahan basah menyimpan air, menyaring sebagian polutan, menyediakan habitat, dan dapat menyimpan karbon. Mangrove melindungi garis pantai dan menjadi tempat pembesaran berbagai organisme. Pengeringan lahan gambut dapat meningkatkan risiko kebakaran dan pelepasan karbon. Pemulihan memerlukan pengelolaan hidrologi, bukan hanya penanaman pohon.
+
+PERUBAHAN IKLIM DAN EKOSISTEM
+Perubahan suhu dan pola hujan dapat menggeser wilayah hidup spesies, waktu berbunga, migrasi, dan interaksi antarorganisme. Spesies yang tidak dapat berpindah atau beradaptasi cukup cepat menghadapi risiko lebih tinggi. Ekosistem yang terfragmentasi sering memiliki kemampuan lebih rendah untuk mendukung pergerakan organisme.
+
+ADAPTASI BERBASIS EKOSISTEM
+Perlindungan hutan di daerah aliran sungai, restorasi mangrove, dan ruang hijau dapat membantu mengurangi risiko iklim sambil memberi manfaat biodiversitas. Namun, tindakan tersebut harus disesuaikan dengan ekologi lokal dan tidak boleh menggantikan pengurangan emisi. Evaluasi perlu memeriksa manfaat, biaya, pemeliharaan, dan kemungkinan dampak pada masyarakat.
+
+LATIHAN
+Buat diagram aliran air di lingkungan sekolah atau permukiman. Tandai permukaan yang menyerap air dan permukaan kedap. Usulkan satu perubahan yang dapat mengurangi limpasan, lalu jelaskan bagaimana mengukur hasilnya secara aman.
+
+RANGKUMAN BAB
+Air, tanah, lahan basah, dan vegetasi saling memengaruhi ketahanan ekosistem. Adaptasi berbasis alam efektif jika memperhatikan proses lokal, masyarakat, dan pengurangan penyebab perubahan iklim.

@@ -413,3 +413,23 @@ Jelaskan mengapa gagang panci sering dibuat dari bahan yang kurang menghantarkan
 
 RANGKUMAN BAB
 Fisika sehari-hari menjelaskan suhu, kalor, tekanan, gaya apung, dan gelombang. Konsep-konsep ini membantu memahami alat rumah tangga, cuaca, transportasi, dan teknologi secara lebih ilmiah.
+
+BAB LISTRIK DAN KEMAGNETAN
+Muatan listrik dapat positif atau negatif. Muatan sejenis saling tolak dan muatan berbeda jenis saling tarik. Arus listrik adalah laju aliran muatan, tegangan berkaitan dengan energi per satuan muatan, dan hambatan menggambarkan kesulitan aliran arus. Hukum Ohm menyatakan hubungan V = I R untuk komponen ohmik pada kondisi tertentu.
+
+Rangkaian seri memiliki satu jalur arus, sehingga arus sama pada setiap komponen ideal. Rangkaian paralel memiliki beberapa cabang dengan tegangan sama pada tiap cabang. Dalam rumah, sistem listrik dirancang dengan pengaman dan standar khusus; pelajar tidak boleh membuka stopkontak atau mencoba rangkaian yang terhubung ke listrik rumah.
+
+MEDAN MAGNET
+Magnet menghasilkan medan yang dapat memengaruhi bahan tertentu dan muatan bergerak. Arus listrik juga menghasilkan medan magnet. Elektromagnet memanfaatkan arus pada kumparan dan dapat diperkuat dengan inti feromagnetik. Prinsip ini digunakan pada bel listrik, motor, relai, dan berbagai perangkat.
+
+INDUKSI ELEKTROMAGNETIK
+Perubahan fluks magnetik pada kumparan dapat menginduksi tegangan. Generator mengubah energi mekanik menjadi energi listrik melalui induksi elektromagnetik. Transformator menggunakan perubahan arus untuk mengubah tegangan bolak-balik melalui kopling magnetik. Prinsip ini mendasari transmisi listrik, dengan tegangan dinaikkan atau diturunkan sesuai kebutuhan sistem.
+
+ENERGI DAN DAYA
+Daya adalah laju penggunaan atau pemindahan energi. Pada rangkaian listrik sederhana, daya dapat dihitung dari hasil kali tegangan dan arus. Energi listrik yang digunakan bergantung pada daya dan lama pemakaian. Label daya perangkat membantu memperkirakan konsumsi, tetapi penggunaan nyata dipengaruhi pola operasi dan efisiensi.
+
+LATIHAN
+Periksa label daya beberapa perangkat rumah tangga tanpa membongkar atau menyentuh bagian listrik. Hitung energi teoritis jika perangkat digunakan selama waktu tertentu dengan rumus energi = daya × waktu. Jelaskan mengapa hasil perhitungan dapat berbeda dari pemakaian nyata.
+
+RANGKUMAN BAB
+Listrik, magnet, induksi, energi, dan daya menjelaskan banyak teknologi sehari-hari. Keselamatan merupakan bagian wajib dari pembelajaran kelistrikan; pengamatan dilakukan dari label dan demonstrasi aman.

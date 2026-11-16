@@ -310,3 +310,20 @@ Buat anggaran simulasi untuk kegiatan kelas dengan batas dana Rp500.000. Kelompo
 
 RANGKUMAN BAB
 Keputusan keuangan yang sehat memerlukan pencatatan, perbandingan biaya total, pemahaman inflasi, tujuan yang realistis, dan keamanan data. Pengetahuan ini membantu pelajar membangun kebiasaan bertanggung jawab tanpa mengambil risiko yang belum dipahami.
+
+BAB PAJAK DAN LAYANAN PUBLIK
+Pajak adalah kontribusi wajib berdasarkan hukum yang digunakan untuk membiayai kebutuhan publik. Pajak dapat mendukung pendidikan, kesehatan, infrastruktur, perlindungan sosial, dan layanan pemerintahan. Sistem pajak memiliki jenis, dasar pengenaan, tarif, pengecualian, dan prosedur yang berbeda; rincian harus merujuk pada aturan resmi terbaru.
+
+Pajak berbeda dari harga layanan individual karena penerimaan pajak digunakan untuk membiayai kebutuhan bersama. Evaluasi kebijakan pajak mempertimbangkan keadilan, kepastian, kemudahan administrasi, dan dampaknya terhadap perilaku ekonomi. Pajak progresif, proporsional, dan regresif menggambarkan hubungan tarif efektif dengan tingkat pendapatan atau dasar pengenaan dalam cara berbeda.
+
+ASURANSI DAN PEMBAGIAN RISIKO
+Asuransi mengumpulkan kontribusi banyak peserta untuk membantu menanggung kerugian yang memenuhi syarat polis. Polis menjelaskan risiko yang ditanggung, pengecualian, batas manfaat, masa tunggu, dan prosedur klaim. Premi murah tidak selalu berarti perlindungan sesuai kebutuhan. Periksa dokumen dan tanyakan hal yang tidak dipahami kepada orang dewasa tepercaya.
+
+NILAI WAKTU UANG
+Uang yang diterima sekarang dapat memiliki nilai berbeda dari jumlah sama di masa depan karena inflasi, bunga, risiko, dan kesempatan penggunaan. Nilai masa depan dalam model bunga majemuk dihitung dengan mengalikan nilai awal dengan faktor pertumbuhan setiap periode. Hasil perhitungan bergantung pada asumsi tingkat bunga dan frekuensi penggabungan, bukan jaminan hasil produk tertentu.
+
+LATIHAN
+Buat simulasi tabungan dengan setoran rutin bulanan dan tingkat pertumbuhan hipotetis. Bandingkan hasil jika setoran dilakukan pada awal atau akhir periode. Jelaskan mengapa hasil nyata dapat berbeda karena biaya, pajak, perubahan tingkat bunga, dan inflasi.
+
+RANGKUMAN BAB
+Pajak, asuransi, dan nilai waktu uang membantu memahami hubungan keuangan pribadi dengan layanan publik dan pengelolaan risiko. Semua perhitungan harus disertai asumsi serta pemahaman aturan yang berlaku.

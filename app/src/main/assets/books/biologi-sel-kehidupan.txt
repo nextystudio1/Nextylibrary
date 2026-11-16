@@ -280,3 +280,23 @@ Jelaskan mengapa sel tumbuhan dan sel hewan perlu mengatur perpindahan air. Hubu
 
 RANGKUMAN BAB
 Membran, enzim, metabolisme, dan ekspresi gen menjelaskan bagaimana sel mempertahankan kehidupan. Biologi menggabungkan pengamatan, model, dan eksperimen yang dilakukan secara etis serta dapat diperiksa.
+
+BAB PEMBELAHAN SEL DAN PEWARISAN
+Siklus sel terdiri atas fase pertumbuhan, penggandaan DNA, persiapan pembelahan, dan pembelahan. Mitosis menghasilkan dua sel anak dengan informasi genetik yang umumnya sama dengan sel induk, penting untuk pertumbuhan dan perbaikan jaringan. Meiosis menghasilkan sel reproduksi dengan jumlah kromosom setengah dari sel tubuh pada organisme yang menggunakannya untuk reproduksi seksual.
+
+Variasi genetik pada keturunan muncul melalui pemisahan kromosom, pindah silang, dan penggabungan gamet. Karena itu, saudara kandung dapat memiliki kombinasi sifat yang berbeda. Pewarisan sifat tidak selalu mengikuti pola sederhana dominan-resesif; banyak sifat dipengaruhi banyak gen dan lingkungan.
+
+MUTASI DAN KERAGAMAN
+Mutasi adalah perubahan materi genetik. Dampaknya dapat netral, merugikan, atau dalam kondisi tertentu menguntungkan. Mutasi pada sel tubuh tidak selalu diwariskan kepada keturunan, sedangkan perubahan pada garis sel reproduksi dapat diwariskan. Paparan lingkungan tertentu dapat meningkatkan peluang kerusakan DNA, sehingga pencegahan paparan berbahaya penting bagi kesehatan.
+
+EVOLUSI DAN SELEKSI ALAM
+Evolusi biologis adalah perubahan karakteristik genetik populasi dari generasi ke generasi. Seleksi alam terjadi ketika variasi yang diwariskan memengaruhi keberhasilan bertahan hidup dan reproduksi dalam lingkungan tertentu. Seleksi tidak memiliki tujuan atau rencana; perubahan lingkungan dapat mengubah variasi mana yang lebih menguntungkan.
+
+BUKTI EVOLUSI
+Bukti evolusi berasal dari fosil, anatomi perbandingan, biogeografi, embriologi, dan kesamaan molekuler. Fosil menunjukkan urutan perubahan organisme sepanjang waktu, sedangkan distribusi spesies memberi petunjuk tentang sejarah pemisahan wilayah. Bukti berbeda saling melengkapi dan terus diperiksa melalui penelitian.
+
+LATIHAN
+Gunakan contoh organisme fiktif dengan variasi warna yang diwariskan. Buat simulasi bagaimana perubahan lingkungan dapat mengubah frekuensi variasi selama beberapa generasi. Jelaskan bahwa simulasi adalah model sederhana dan tidak menggambarkan seluruh kompleksitas evolusi nyata.
+
+RANGKUMAN BAB
+Pembelahan sel, pewarisan, mutasi, dan seleksi alam menjelaskan pertumbuhan serta keragaman kehidupan. Evolusi bekerja pada populasi lintas generasi dan didukung banyak jenis bukti ilmiah.

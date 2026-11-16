@@ -25,13 +25,6 @@ LATIHAN
 4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
 5. Bukti apa yang dapat memperkuat jawabanmu?
 
-LATIHAN
-1. Apa konsep utama dalam PETA DAN REPRESENTASI RUANG?
-2. Bagaimana hubungan konsep tersebut dengan bagian lain dalam buku?
-3. Berikan penerapan baru dan jelaskan langkah berpikirmu.
-4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
-5. Bukti apa yang dapat memperkuat jawabanmu?
-
 BAB 2. KOORDINAT DAN REFERENSI
 
 Sistem koordinat digunakan untuk menentukan posisi. Koordinat geografis menggunakan lintang dan bujur, sedangkan proyeksi memindahkan permukaan bumi ke bidang datar. Perbedaan datum dan proyeksi dapat menyebabkan lokasi tampak bergeser jika data digabung tanpa penyesuaian.

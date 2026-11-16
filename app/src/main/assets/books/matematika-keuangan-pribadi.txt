@@ -135,8 +135,6 @@ PERTANYAAN PEMAHAMAN
 3. Apa hasil bersih? Hasil setelah biaya, pajak, dan faktor relevan diperhitungkan.
 4. Sebutkan dua tanda bahaya penipuan. Janji hasil pasti tinggi tanpa risiko dan tekanan untuk segera mentransfer uang.
 
-
-
 BAB LANJUTAN — BUNGA, CICILAN, DAN BIAYA TOTAL
 
 Bunga sederhana dihitung berdasarkan pokok awal selama periode tertentu. Bunga majemuk dihitung atas pokok dan bunga yang telah terkumpul. Karena dasar perhitungannya berbeda, hasil keduanya dapat semakin berjauhan seiring waktu. Periksa apakah suku bunga dinyatakan per bulan atau per tahun dan apakah ada biaya tambahan.
@@ -453,7 +451,6 @@ Nilai sekarang: nilai saat ini dari arus uang masa depan.
 Nilai masa depan: nilai dana setelah berkembang selama periode tertentu.
 Tingkat diskonto: tingkat untuk mengubah nilai masa depan menjadi nilai sekarang.
 Hasil riil: hasil setelah memperhitungkan inflasi.
-
 
 BAB PENGAYAAN 1 — MEMBACA ARUS KAS PRIBADI
 

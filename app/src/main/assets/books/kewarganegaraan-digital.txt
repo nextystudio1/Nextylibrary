@@ -6,37 +6,37 @@ Edisi 2026
 PENGANTAR
 Ruang digital menjadi tempat belajar, bekerja, berkomunikasi, dan berpartisipasi dalam masyarakat. Kewarganegaraan digital berarti menggunakan teknologi dengan sadar hak, tanggung jawab, keamanan, dan dampak terhadap orang lain.
 
-BAB 1 — — IDENTITAS DAN JEJAK DIGITAL
+BAB 1 — IDENTITAS DAN JEJAK DIGITAL
 Identitas digital adalah gambaran diri yang terbentuk dari akun, unggahan, komentar, foto, dan aktivitas daring. Sebagian informasi dapat bertahan lama, disalin, atau tersebar di luar konteks awal.
 Jejak digital aktif dibuat dengan sengaja, seperti mengunggah foto atau menulis komentar. Jejak pasif dapat terbentuk melalui data teknis yang dikumpulkan layanan, sesuai pengaturan dan kebijakan privasi.
 Sebelum membagikan sesuatu, pikirkan apakah informasi itu benar, perlu, pantas, dan aman. Hindari menyebarkan alamat rumah, nomor identitas, kata sandi, atau informasi pribadi orang lain.
 Pengaturan privasi membantu mengendalikan siapa yang dapat melihat konten, tetapi tidak menjamin unggahan tidak akan disalin. Perlakukan setiap unggahan sebagai sesuatu yang mungkin dibagikan kembali.
 
-BAB 2 — — ETIKA KOMUNIKASI DAN EMPATI
+BAB 2 — ETIKA KOMUNIKASI DAN EMPATI
 Komunikasi daring kehilangan sebagian petunjuk seperti intonasi dan ekspresi wajah. Karena itu, kalimat singkat dapat disalahartikan. Gunakan bahasa yang jelas, sopan, dan sesuai konteks.
 Kritiklah gagasan, bukan merendahkan orangnya. Perbedaan pendapat dapat dibahas dengan bukti dan alasan. Hindari penghinaan, ancaman, perundungan, dan penyebaran informasi pribadi.
 Sebelum meneruskan pesan yang membuat marah atau takut, berhenti sejenak dan periksa sumbernya. Jangan ikut menyebarkan rumor. Jika melihat perundungan, dukung orang yang terdampak dan gunakan fitur pelaporan atau bantuan yang tersedia.
 Empati digital berarti mengingat bahwa akun di layar mewakili manusia nyata dengan perasaan, hak, dan keadaan yang berbeda.
 
-BAB 3 — — LITERASI INFORMASI DAN MISINFORMASI
+BAB 3 — LITERASI INFORMASI DAN MISINFORMASI
 Informasi daring berasal dari sumber yang kualitasnya beragam. Periksa siapa penerbitnya, siapa penulisnya, kapan diterbitkan, bukti apa yang diberikan, dan apakah sumber lain yang tepercaya mengonfirmasi.
 Judul sensasional tidak selalu mencerminkan isi. Foto atau video dapat dipotong, diberi keterangan keliru, atau berasal dari kejadian berbeda. Cari konteks asli sebelum menyimpulkan.
 Misinformasi adalah informasi keliru yang disebarkan tanpa harus ada niat menipu. Disinformasi dibuat atau disebarkan dengan maksud menyesatkan. Keduanya dapat merugikan masyarakat.
 Gunakan pencarian silang: cari frasa penting, temukan sumber awal, periksa tanggal, dan bandingkan laporan independen. Jika belum yakin, jangan teruskan sebagai fakta.
 
-BAB 4 — — PRIVASI DAN KEAMANAN AKUN
+BAB 4 — PRIVASI DAN KEAMANAN AKUN
 Gunakan kata sandi yang panjang dan unik untuk setiap layanan. Pengelola kata sandi tepercaya dapat membantu mengingatnya. Aktifkan autentikasi multifaktor bila tersedia.
 Waspadai pesan yang mendesak untuk mengeklik tautan atau memberikan kode verifikasi. Layanan resmi tidak seharusnya meminta kode rahasia untuk dibagikan melalui percakapan. Periksa alamat situs sebelum memasukkan informasi.
 Perbarui sistem operasi dan aplikasi melalui kanal resmi. Tinjau izin aplikasi dan berikan hanya akses yang diperlukan. Hindari memasang berkas dari sumber tidak dikenal.
 Jika akun diduga diakses orang lain, gunakan prosedur pemulihan resmi, ganti kata sandi dari perangkat yang aman, dan periksa sesi masuk serta metode pemulihan.
 
-BAB 5 — — HAK, KARYA, DAN TANGGUNG JAWAB
+BAB 5 — HAK, KARYA, DAN TANGGUNG JAWAB
 Pengguna digital memiliki hak atas privasi, keamanan, akses informasi, dan perlakuan yang adil sesuai hukum yang berlaku. Hak tersebut berjalan bersama tanggung jawab menghormati hak orang lain.
 Karya seperti tulisan, foto, musik, dan perangkat lunak dapat dilindungi hak cipta. Jangan menganggap semua materi di internet bebas digunakan. Periksa lisensi dan ketentuan izin sebelum menyalin atau menerbitkan ulang.
 Atribusi berarti menyebut pencipta dan sumber sesuai ketentuan lisensi. Atribusi tidak otomatis menggantikan izin jika penggunaan memerlukan izin khusus.
 Saat membuat konten, gunakan karya sendiri atau materi yang jelas izinnya. Simpan catatan sumber dan izin agar proses penerbitan dapat dipertanggungjawabkan.
 
-BAB 6 — — PARTISIPASI DAN KESEJAHTERAAN DIGITAL
+BAB 6 — PARTISIPASI DAN KESEJAHTERAAN DIGITAL
 Teknologi dapat membantu warga belajar, menyampaikan aspirasi, mengakses layanan, dan bekerja sama. Partisipasi yang sehat mengutamakan informasi akurat, dialog, dan penghormatan terhadap perbedaan.
 Atur waktu penggunaan perangkat agar tidak mengganggu tidur, belajar, aktivitas fisik, dan hubungan sosial. Notifikasi dapat diatur sesuai kebutuhan. Istirahat dari layar merupakan bagian dari kebiasaan digital yang seimbang.
 Perhatikan aksesibilitas. Teks alternatif, takarir video, kontras yang cukup, dan navigasi yang jelas membantu lebih banyak orang menggunakan layanan digital.
@@ -61,25 +61,25 @@ CATATAN PENULIS
 Pengaturan dan hukum digital dapat berbeda menurut layanan dan wilayah. Periksa kebijakan resmi serta aturan yang berlaku ketika mengambil keputusan penting.
 
 PENDALAMAN: IDENTITAS, KEAMANAN, DAN ETIKA WARGA DIGITAL
-BAB 7 — — JEJAK DIGITAL DAN REPUTASI
+BAB 7 — JEJAK DIGITAL DAN REPUTASI
 Aktivitas daring dapat meninggalkan jejak berupa unggahan, komentar, metadata, dan catatan layanan. Sebagian jejak dapat disalin atau disimpan pihak lain meskipun unggahan asli dihapus. Karena itu, pertimbangkan audiens, konteks, dan konsekuensi sebelum membagikan informasi.
 Reputasi digital terbentuk dari pola interaksi, bukan hanya satu unggahan. Koreksi kesalahan secara terbuka dan sopan, hindari menyebarkan informasi pribadi orang lain, serta pahami bahwa konteks percakapan dapat hilang ketika konten dipotong atau diteruskan.
-BAB 8 — — PRIVASI DAN PERLINDUNGAN DATA
+BAB 8 — PRIVASI DAN PERLINDUNGAN DATA
 Data pribadi dapat mencakup identitas, lokasi, kontak, informasi pendidikan, dan data lain yang dapat mengidentifikasi seseorang. Prinsip minimisasi berarti hanya mengumpulkan data yang benar-benar diperlukan. Izin akses aplikasi perlu ditinjau dan dicabut jika tidak lagi relevan.
 Gunakan kata sandi unik dan autentikasi berlapis jika tersedia. Jangan membagikan kode verifikasi atau tautan pemulihan. Waspadai pesan yang mendesak, menjanjikan hadiah tidak masuk akal, atau meminta data rahasia.
-BAB 9 — — INFORMASI PALSU DAN VERIFIKASI
+BAB 9 — INFORMASI PALSU DAN VERIFIKASI
 Informasi menyesatkan dapat muncul sebagai judul sensasional, gambar tanpa konteks, kutipan palsu, atau data lama yang disajikan seolah baru. Periksa sumber asli, tanggal, penulis, bukti pendukung, dan apakah media tepercaya lain melaporkan hal serupa.
 Pencarian gambar terbalik dan pemeriksaan metadata dapat membantu, tetapi tidak selalu memberi jawaban pasti. Jangan menyebarkan konten yang belum terverifikasi. Jika salah membagikan informasi, buat koreksi yang terlihat oleh audiens yang sama.
-BAB 10 — — KOMUNIKASI DAN ETIKA BERINTERAKSI
+BAB 10 — KOMUNIKASI DAN ETIKA BERINTERAKSI
 Etika digital meliputi menghormati perbedaan, menghindari perundungan, tidak mengirim pesan berulang yang mengganggu, dan meminta izin sebelum membagikan foto atau percakapan. Kritik sebaiknya ditujukan pada gagasan atau tindakan, bukan merendahkan identitas seseorang.
 Dalam diskusi kelompok, gunakan bahasa jelas, beri ruang bagi orang lain, dan jangan menganggap diam sebagai persetujuan. Jika menemukan ancaman atau perundungan, simpan bukti secara aman dan cari bantuan orang dewasa tepercaya atau saluran pelaporan yang sesuai.
-BAB 11 — — HAK CIPTA DAN KARYA DIGITAL
+BAB 11 — HAK CIPTA DAN KARYA DIGITAL
 Teks, foto, musik, video, dan perangkat lunak dapat dilindungi hak cipta. Akses gratis tidak berarti bebas disalin atau digunakan kembali. Periksa lisensi, ketentuan atribusi, dan batas penggunaan. Gunakan karya sendiri, materi domain publik, atau materi berlisensi yang mengizinkan penggunaan yang direncanakan.
 Atribusi menyebut pencipta dan sumber sesuai syarat lisensi, tetapi atribusi saja tidak menggantikan izin jika izin diperlukan. Catat asal aset yang digunakan dalam proyek digital.
-BAB 12 — — KEAMANAN AKUN DAN PERANGKAT
+BAB 12 — KEAMANAN AKUN DAN PERANGKAT
 Perbarui sistem dan aplikasi dari sumber resmi, aktifkan kunci layar, dan buat cadangan data penting. Hindari memasang berkas dari sumber yang tidak dikenal. Pada jaringan publik, hindari transaksi sensitif jika tidak yakin terhadap keamanannya.
 Jika akun diduga diambil alih, gunakan prosedur pemulihan resmi, ganti kata sandi dari perangkat tepercaya, cabut sesi yang tidak dikenal, dan beri tahu kontak bila akun digunakan untuk mengirim pesan palsu.
-BAB 13 — — PARTISIPASI DAN KEWARGAAN DIGITAL
+BAB 13 — PARTISIPASI DAN KEWARGAAN DIGITAL
 Ruang digital dapat digunakan untuk belajar, menyampaikan aspirasi, mengakses layanan publik, dan bekerja sama. Partisipasi yang bertanggung jawab mengutamakan bukti, menghormati hak orang lain, serta memahami aturan platform dan hukum yang berlaku.
 Periksa apakah sebuah kampanye transparan mengenai penyelenggara dan tujuan. Jangan menyebarkan data pribadi untuk menekan pihak lain. Perbedaan pendapat dapat disampaikan tanpa ancaman atau pelecehan.
 LATIHAN PENDALAMAN
@@ -89,25 +89,25 @@ LATIHAN PENDALAMAN
 4. Sebutkan tiga tanda pesan phishing. Jawaban: desakan, tautan mencurigakan, dan permintaan kata sandi atau kode rahasia.
 
 PENDALAMAN LANJUTAN: HAK, KEAMANAN, DAN PARTISIPASI DIGITAL
-BAB 14 — — IDENTITAS DAN JEJAK DIGITAL
+BAB 14 — IDENTITAS DAN JEJAK DIGITAL
 Jejak digital dapat berupa unggahan, komentar, metadata, riwayat aktivitas, dan catatan yang dibuat layanan. Sebagian jejak terlihat oleh publik, sebagian lain dikumpulkan oleh penyedia layanan. Pengaturan privasi membantu mengendalikan paparan, tetapi tidak menjamin semua salinan dapat dihapus.
 Gunakan informasi pribadi seperlunya. Sebelum mengunggah foto atau data orang lain, pertimbangkan persetujuan dan dampaknya. Informasi yang tampak sepele dapat menjadi sensitif ketika digabungkan dengan data lain.
-BAB 15 — — KEAMANAN AKUN DAN PENIPUAN
+BAB 15 — KEAMANAN AKUN DAN PENIPUAN
 Kata sandi unik dan panjang mengurangi risiko penggunaan ulang ketika suatu layanan mengalami kebocoran. Pengelola kata sandi dapat membantu menyimpan kredensial, sedangkan autentikasi multifaktor memberi lapisan perlindungan tambahan.
 Phishing memanipulasi korban agar menyerahkan informasi atau membuka tautan berbahaya. Periksa alamat pengirim, domain, konteks permintaan, dan jangan memberikan kode verifikasi. Jika ragu, buka layanan melalui aplikasi atau alamat resmi yang diketik sendiri.
-BAB 16 — — PRIVASI, PERSETUJUAN, DAN DATA
+BAB 16 — PRIVASI, PERSETUJUAN, DAN DATA
 Persetujuan yang bermakna harus jelas, spesifik, dan dapat dipahami. Kebijakan privasi perlu menjelaskan jenis data, tujuan, masa penyimpanan, pihak penerima, dan cara pengguna mengajukan permintaan. Mengumpulkan data sebanyak mungkin bukan praktik yang bertanggung jawab.
 Prinsip minimisasi data berarti hanya mengambil informasi yang benar-benar diperlukan. Data anak dan kelompok rentan memerlukan perhatian khusus serta perlindungan yang sesuai aturan.
-BAB 17 — — HAK CIPTA DAN KARYA DIGITAL
+BAB 17 — HAK CIPTA DAN KARYA DIGITAL
 Karya digital tetap dapat dilindungi hak cipta. Mengunduh atau menemukan berkas di internet tidak otomatis memberi izin untuk menyalin, mengubah, atau mendistribusikannya. Lisensi menjelaskan izin dan syarat penggunaan.
 Karya berlisensi terbuka tetap dapat memiliki kewajiban atribusi atau pembatasan tertentu. Simpan catatan pencipta, sumber, lisensi, dan perubahan yang dilakukan. Hindari menghapus tanda kepemilikan.
-BAB 18 — — DISINFORMASI DAN DISKUSI PUBLIK
+BAB 18 — DISINFORMASI DAN DISKUSI PUBLIK
 Informasi palsu dapat menyebar melalui judul sensasional, akun tiruan, gambar di luar konteks, dan kutipan yang dipotong. Verifikasi klaim dengan mencari sumber primer, tanggal, lokasi, dan laporan independen.
 Diskusi digital yang sehat berfokus pada gagasan, bukan penghinaan. Perbedaan pendapat dapat disampaikan dengan alasan dan bukti. Laporkan ancaman atau konten berbahaya melalui mekanisme resmi platform.
-BAB 19 — — AKSESIBILITAS DAN KESETARAAN DIGITAL
+BAB 19 — AKSESIBILITAS DAN KESETARAAN DIGITAL
 Akses digital dipengaruhi ketersediaan perangkat, jaringan, biaya, kemampuan, bahasa, dan desain layanan. Situs dan aplikasi yang aksesibel mendukung pembaca layar, navigasi papan ketik, teks alternatif, kontras, serta bahasa yang jelas.
 Kesenjangan digital tidak selesai hanya dengan menyediakan perangkat. Pelatihan, dukungan teknis, konten lokal, dan perlindungan pengguna juga diperlukan.
-BAB 20 — — PARTISIPASI WARGA DAN TANGGUNG JAWAB
+BAB 20 — PARTISIPASI WARGA DAN TANGGUNG JAWAB
 Teknologi dapat membantu masyarakat memperoleh informasi, menyampaikan aspirasi, dan mengawasi layanan publik. Partisipasi yang bertanggung jawab memerlukan verifikasi informasi, perlindungan data, dan penghormatan pada hak orang lain.
 Sebelum membagikan klaim, tanyakan siapa sumbernya, bukti apa yang tersedia, siapa yang mungkin dirugikan, dan apakah informasi tersebut relevan untuk dibagikan.
 LATIHAN PENDALAMAN
@@ -117,17 +117,17 @@ LATIHAN PENDALAMAN
 4. Bagaimana memeriksa informasi viral? Jawaban: telusuri sumber primer, tanggal, konteks, dan konfirmasi independen.
 
 PENDALAMAN KEWARGAAN DIGITAL
-BAB 21 — — HAK DAN TANGGUNG JAWAB DI RUANG DIGITAL
+BAB 21 — HAK DAN TANGGUNG JAWAB DI RUANG DIGITAL
 Warga digital memiliki hak atas privasi, keamanan, akses informasi, dan perlakuan yang adil sesuai hukum. Hak tersebut berjalan bersama tanggung jawab untuk menghormati orang lain, tidak menyebarkan fitnah, menjaga data, dan memahami dampak tindakan daring. Kebebasan berekspresi tidak berarti bebas dari tanggung jawab atas kerugian yang ditimbulkan.
-BAB 22 — — IDENTITAS DAN KEAMANAN AKUN
+BAB 22 — IDENTITAS DAN KEAMANAN AKUN
 Identitas digital terbentuk dari akun, aktivitas, dan informasi yang dibagikan. Gunakan kata sandi unik, autentikasi multifaktor, pembaruan perangkat, dan pemulihan akun yang aman. Jangan membagikan kode verifikasi. Waspadai pesan yang meniru lembaga resmi atau meminta tindakan mendesak.
-BAB 23 — — PRIVASI DAN PERSETUJUAN
+BAB 23 — PRIVASI DAN PERSETUJUAN
 Sebelum mengunggah foto, rekaman, atau informasi orang lain, pertimbangkan persetujuan dan konteks. Informasi yang tampak sepele dapat mengungkap lokasi, rutinitas, atau identitas. Batasi pengumpulan data pada hal yang diperlukan dan pahami pengaturan privasi layanan.
-BAB 24 — — PARTISIPASI DAN MUSYAWARAH DARING
+BAB 24 — PARTISIPASI DAN MUSYAWARAH DARING
 Ruang digital dapat memperluas partisipasi publik melalui diskusi, konsultasi, dan penyebaran informasi. Partisipasi yang sehat membutuhkan aturan diskusi, akses yang inklusif, moderasi transparan, serta cara mengoreksi informasi salah. Jumlah komentar tidak selalu mewakili pendapat seluruh masyarakat.
-BAB 25 — — HAK CIPTA DAN KARYA DIGITAL
+BAB 25 — HAK CIPTA DAN KARYA DIGITAL
 Karya digital tetap dapat dilindungi hak cipta. Periksa lisensi sebelum menyalin teks, gambar, musik, atau kode. Atribusi tidak otomatis menggantikan izin jika lisensi mewajibkannya. Gunakan karya sendiri, domain publik, atau materi dengan lisensi yang sesuai dan patuhi ketentuannya.
-BAB 26 — — MENANGANI KONFLIK DAN PELECEHAN DARING
+BAB 26 — MENANGANI KONFLIK DAN PELECEHAN DARING
 Jangan membalas provokasi dengan ancaman atau menyebarkan data pribadi. Simpan bukti secara aman, gunakan fitur blokir dan pelaporan, serta minta bantuan orang dewasa tepercaya atau pihak berwenang bila ada ancaman nyata. Platform perlu menyediakan prosedur pelaporan yang mudah dipahami.
 STUDI KASUS
 Sebuah grup kelas menerima pesan yang menuduh seorang siswa melakukan sesuatu tanpa bukti. Langkah bertanggung jawab adalah tidak meneruskan pesan, tidak mempermalukan pihak terkait, memeriksa fakta melalui jalur yang tepat, dan meminta bantuan guru atau wali bila situasi berpotensi merugikan.

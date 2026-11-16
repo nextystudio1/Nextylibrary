@@ -159,3 +159,28 @@ GLOSARIUM
 Paparan: keberadaan penduduk atau aset di wilayah bahaya.
 Kerentanan: kondisi yang meningkatkan kemungkinan terdampak.
 Ketangguhan: kemampuan mengantisipasi, menghadapi, dan pulih dari gangguan.
+BAB LANJUTAN — MEMBACA PETA DAN DATA SPASIAL
+Peta adalah model permukaan bumi yang disederhanakan. Setiap peta memiliki tujuan, skala, proyeksi, simbol, sumber data, dan tanggal pembuatan. Peta skala besar menampilkan wilayah lebih kecil dengan rincian lebih banyak, sedangkan peta skala kecil mencakup wilayah luas dengan penyederhanaan lebih besar.
+Koordinat geografis menyatakan lokasi menggunakan lintang dan bujur. Sistem koordinat proyeksi mengubah permukaan lengkung bumi ke bidang datar sehingga selalu ada distorsi bentuk, luas, jarak, atau arah. Karena itu, proyeksi dipilih sesuai tujuan pemetaan.
+Sistem informasi geografis menggabungkan data lokasi dengan atribut. Contoh: titik sekolah dapat dihubungkan dengan jumlah murid, kondisi bangunan, dan akses jalan. Analisis jaringan dapat memperkirakan rute, sementara analisis tumpang susun dapat membandingkan lokasi permukiman dengan kawasan rawan banjir. Hasil analisis bukan kebenaran otomatis; kualitasnya bergantung pada ketepatan dan kemutakhiran data.
+Saat menggunakan peta digital, periksa legenda, tahun data, skala, metode pengumpulan, dan batas ketelitian. Hindari menyebarkan lokasi pribadi atau data sensitif tanpa izin.
+
+BAB LANJUTAN — IKLIM, CUACA, DAN KERAGAMAN INDONESIA
+Cuaca menggambarkan keadaan atmosfer dalam waktu singkat, sedangkan iklim merangkum pola statistik cuaca dalam periode panjang. Curah hujan Indonesia dipengaruhi antara lain oleh monsun, topografi, kedekatan dengan laut, serta variasi iklim regional dan global.
+Musim hujan dan kemarau tidak selalu mulai pada tanggal yang sama di setiap daerah. Pegunungan dapat menyebabkan hujan orografis ketika udara lembap naik dan mendingin. Daerah bayangan hujan dapat menerima curah hujan lebih rendah karena sebagian uap air telah jatuh di sisi hadap angin.
+Perubahan iklim mengubah peluang dan intensitas sejumlah bahaya, tetapi dampak lokal juga dipengaruhi tata guna lahan, drainase, kondisi pesisir, dan kerentanan sosial. Ketika membahas kejadian ekstrem, bedakan tren jangka panjang dari satu peristiwa tunggal dan gunakan data lembaga yang kompeten.
+
+BAB LANJUTAN — KOTA, DESA, DAN PERUBAHAN PENGGUNAAN LAHAN
+Permukiman tumbuh karena interaksi pekerjaan, transportasi, pendidikan, layanan, dan sejarah wilayah. Urbanisasi bukan sekadar perpindahan penduduk ke kota; ia juga berkaitan dengan perubahan mata pencaharian, jaringan ekonomi, dan pola ruang.
+Perluasan kota dapat mengubah sawah, rawa, hutan, serta daerah resapan. Dampaknya dapat berupa berkurangnya habitat, meningkatnya limpasan air, dan perjalanan yang lebih panjang. Perencanaan ruang yang baik menghubungkan hunian dengan angkutan umum, ruang terbuka, fasilitas kesehatan, sekolah, dan jalur evakuasi.
+Desa bukan wilayah yang seragam atau tertinggal. Banyak desa menjadi pusat produksi pangan, perikanan, kerajinan, konservasi, dan pariwisata. Kebijakan wilayah sebaiknya memperkuat hubungan kota-desa dan akses layanan tanpa menghapus pengetahuan serta kebutuhan lokal.
+
+BAB LANJUTAN — KEBENCANAAN DAN PENGURANGAN RISIKO
+Bahaya adalah proses atau kejadian yang berpotensi menimbulkan kerusakan. Risiko terbentuk dari interaksi bahaya, paparan, kerentanan, dan kapasitas. Dua wilayah yang menghadapi bahaya serupa dapat mengalami dampak berbeda karena kualitas bangunan, akses informasi, kondisi ekonomi, dan kesiapsiagaan.
+Peta rawan tidak boleh dipakai sebagai satu-satunya dasar keputusan. Peta perlu dibaca bersama informasi lapangan, sejarah kejadian, perubahan lingkungan, dan arahan lembaga kebencanaan. Jalur evakuasi harus dapat diakses oleh anak-anak, lansia, penyandang disabilitas, serta orang yang membutuhkan bantuan.
+Kesiapsiagaan dimulai dari mengenali informasi resmi, menyepakati titik kumpul, menjaga dokumen penting, dan mengikuti latihan yang diselenggarakan pihak berwenang. Jangan mendekati lokasi bencana untuk mengambil gambar atau menyebarkan informasi yang belum terverifikasi.
+
+PROYEK PEMBELAJARAN GEOGRAFI
+Pilih satu lingkungan sekolah atau kawasan publik yang aman untuk diamati. Buat sketsa penggunaan lahan tanpa mencatat identitas atau lokasi rumah pribadi. Tandai fasilitas umum, ruang hijau, jalur pejalan kaki, dan titik yang berpotensi tergenang berdasarkan pengamatan yang wajar.
+Tuliskan metode pengamatan, tanggal, keterbatasan, dan hal yang tidak dapat disimpulkan. Wawancara hanya dilakukan dengan persetujuan. Jangan memasuki properti orang lain atau area berbahaya.
+Pertanyaan evaluasi: Mengapa peta perlu mencantumkan skala? Apa perbedaan bahaya dan risiko? Bagaimana perubahan penggunaan lahan memengaruhi limpasan air? Mengapa data spasial harus mencantumkan sumber dan tanggal?

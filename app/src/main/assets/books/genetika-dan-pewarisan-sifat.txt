@@ -135,3 +135,39 @@ Fenotipe: Sifat yang dapat diamati sebagai hasil interaksi gen dan lingkungan.
 
 SARAN BELAJAR
 Gunakan buku ini sebagai pengantar. Cocokkan informasi dengan buku ajar dan publikasi lembaga yang kompeten, terutama untuk topik yang berkembang. Catat sumber, penulis atau lembaga, tahun, dan bagian yang digunakan ketika memperluas bacaan.
+
+PENDALAMAN MATERI
+
+BAB 6. DNA, GEN, DAN KROMOSOM
+DNA adalah molekul yang menyimpan informasi genetik pada banyak organisme. Bagian DNA yang berperan dalam menghasilkan produk fungsional disebut gen. DNA dikemas bersama protein menjadi kromosom. Jumlah dan susunan kromosom berbeda antarspesies. Pada organisme eukariotik, sebagian besar DNA berada di inti sel, sementara DNA juga terdapat pada organel tertentu. Gen tidak bekerja sendirian; aktivitasnya dipengaruhi jaringan pengatur, lingkungan sel, dan tahap perkembangan. Karena itu, satu sifat yang terlihat sering melibatkan banyak gen dan faktor lingkungan. Memahami hubungan DNA, gen, dan kromosom membantu menghindari anggapan bahwa setiap sifat ditentukan oleh satu gen sederhana.
+
+BAB 7. REPLIKASI, TRANSKRIPSI, DAN TRANSLASI
+Sebelum sel membelah, DNA direplikasi agar informasi genetik dapat diteruskan. Dalam ekspresi gen, informasi pada DNA dapat ditranskripsi menjadi RNA. Pada proses translasi, ribosom membaca kode pada RNA pembawa pesan untuk menyusun rantai asam amino. Urutan asam amino memengaruhi struktur dan fungsi protein. Kesalahan pada DNA atau pengaturan ekspresi gen dapat mengubah produk gen, tetapi dampaknya beragam: ada perubahan yang tidak berpengaruh nyata, ada yang mengubah fungsi sel, dan ada yang berkaitan dengan penyakit. Proses ini bukan jalur yang selalu sederhana karena banyak tahap pengaturan dan pemeriksaan berlangsung di dalam sel.
+
+BAB 8. PEWARISAN MENDELIAN DAN BATASNYA
+Persilangan Mendel menjelaskan pola pewarisan beberapa sifat dengan asumsi tertentu, seperti satu gen dengan dua alel dan dominansi lengkap. Alel adalah variasi suatu gen. Genotipe menunjukkan susunan alel, sedangkan fenotipe adalah sifat yang dapat diamati atau diukur. Kotak Punnett membantu memetakan kemungkinan kombinasi alel, bukan memastikan hasil setiap individu. Banyak sifat manusia dan organisme lain bersifat poligenik, dipengaruhi banyak gen, dan juga dipengaruhi lingkungan. Dominansi tidak berarti alel dominan lebih baik atau lebih umum. Model Mendel merupakan titik awal yang berguna, tetapi tidak menjelaskan seluruh keragaman biologis.
+
+BAB 9. MUTASI DAN VARIASI
+Mutasi adalah perubahan pada materi genetik. Mutasi dapat terjadi secara spontan atau akibat faktor lingkungan tertentu. Dampaknya bergantung pada lokasi, jenis perubahan, dan konteks biologis. Sebagian mutasi netral, sebagian merugikan, dan sebagian dapat memberi keuntungan dalam kondisi tertentu. Variasi genetik juga muncul melalui rekombinasi dan pengacakan kromosom saat pembentukan sel kelamin. Variasi merupakan bahan penting bagi evolusi dan membantu populasi merespons perubahan lingkungan. Hindari menyebut mutasi selalu buruk; penilaian dampak harus didasarkan pada bukti dan konteks.
+
+BAB 10. GENETIKA, KESEHATAN, DAN ETIKA
+Informasi genetik dapat membantu penelitian penyakit dan pemahaman risiko, tetapi hasil tes tidak selalu menentukan masa depan kesehatan seseorang. Risiko dipengaruhi banyak faktor, termasuk lingkungan dan kebiasaan. Data genetik bersifat pribadi dan perlu perlindungan ketat. Penggunaan informasi genetik untuk diskriminasi atau pelabelan sosial tidak dapat dibenarkan. Penelitian genetika pada manusia harus memperhatikan persetujuan, privasi, keadilan, dan penjelasan yang dapat dipahami peserta. Tes genetik sebaiknya dibahas bersama tenaga profesional yang kompeten karena hasil dapat memerlukan interpretasi khusus.
+
+STUDI KASUS
+Dua saudara kandung memiliki tinggi badan berbeda. Perbedaan itu tidak membuktikan bahwa salah satu mewarisi “gen tinggi” dan yang lain tidak. Tinggi dipengaruhi banyak variasi genetik, nutrisi, kesehatan, hormon, dan lingkungan selama pertumbuhan. Contoh ini memperlihatkan bahwa kemiripan keluarga tidak berarti semua sifat identik, dan satu pengamatan tidak cukup untuk menyimpulkan pola pewarisan.
+
+LATIHAN DAN PEMBAHASAN
+1. Bedakan DNA, gen, dan kromosom: DNA adalah molekul informasi, gen merupakan bagian DNA dengan fungsi tertentu, dan kromosom adalah struktur pengemasan DNA.
+2. Apa perbedaan genotipe dan fenotipe? Genotipe adalah susunan alel, fenotipe adalah sifat yang diamati.
+3. Apakah alel dominan selalu lebih baik? Tidak; dominansi hanya menjelaskan pola ekspresi dalam model tertentu.
+4. Mengapa kotak Punnett tidak menjamin hasil individu? Kotak itu menunjukkan peluang kombinasi, bukan kepastian.
+5. Mengapa data genetik perlu dijaga? Karena dapat mengungkap informasi biologis pribadi dan berpotensi disalahgunakan.
+
+GLOSARIUM
+Alel: variasi dari suatu gen.
+DNA: molekul penyimpan informasi genetik.
+Fenotipe: karakteristik yang dapat diamati.
+Genotipe: susunan alel suatu individu.
+Kromosom: struktur pengemasan DNA dan protein.
+Mutasi: perubahan materi genetik.
+Rekombinasi: pembentukan kombinasi materi genetik baru.

@@ -134,3 +134,51 @@ LATIHAN KASUS
 3. Rancang aturan rapat agar peserta dengan gaya komunikasi berbeda mendapat kesempatan setara.
 4. Ubah kritik yang menyerang karakter menjadi umpan balik yang berfokus pada perilaku.
 5. Buat pedoman komunikasi digital untuk tim lintas wilayah.
+
+BAB 12. IDENTITAS, BUDAYA, DAN KEANGGOTAAN KELOMPOK
+
+Identitas budaya terbentuk melalui bahasa, sejarah, praktik, nilai, pengalaman, dan hubungan sosial. Identitas tidak selalu tunggal atau tetap; seseorang dapat memiliki beberapa keanggotaan yang saling beririsan. Menganggap setiap anggota kelompok memiliki pandangan yang sama merupakan bentuk esensialisme yang mengabaikan keragaman internal.
+
+Dalam komunikasi, tanyakan bagaimana seseorang ingin dipanggil dan jangan memaksakan label. Perbedaan generasi, wilayah, kelas sosial, profesi, dan pengalaman pribadi dapat memengaruhi cara orang berinteraksi. Analisis yang cermat membahas konteks, bukan membuat kesimpulan berdasarkan stereotip.
+
+BAB 13. BAHASA, KEKUASAAN, DAN AKSES
+
+Bahasa dapat membuka akses ke pendidikan, pekerjaan, layanan, dan partisipasi publik. Pada saat yang sama, pilihan bahasa resmi atau standar dapat membuat penutur ragam lain merasa kurang dihargai. Kebijakan bahasa perlu mempertimbangkan kebutuhan komunikasi bersama sekaligus hak dan pengalaman komunitas penutur.
+
+Dalam layanan publik, penggunaan bahasa yang jelas dan dukungan penerjemahan dapat mengurangi kesalahpahaman. Komunikator perlu memeriksa apakah istilah teknis dipahami, apakah materi dapat diakses, dan apakah tersedia cara meminta klarifikasi. Akses bahasa merupakan bagian dari kualitas layanan, bukan sekadar hiasan.
+
+BAB 14. KONTEKS, GAYA KOMUNIKASI, DAN KESALAHPAHAMAN
+
+Sebagian komunikasi mengandalkan pernyataan eksplisit, sedangkan sebagian situasi lebih banyak memakai konteks, hubungan, dan isyarat tidak langsung. Perbedaan gaya tidak boleh dipakai untuk menilai kecerdasan atau kejujuran seseorang. Makna suatu jeda, penolakan, atau ungkapan sopan dapat berubah menurut hubungan dan situasi.
+
+Ketika pesan terasa ambigu, gunakan pertanyaan klarifikasi yang tidak menuduh. Contohnya, “Apakah maksudnya keputusan sudah final atau masih perlu dibahas?” Cara ini lebih baik daripada langsung menyimpulkan niat. Ringkas kembali kesepakatan penting agar semua pihak memiliki pemahaman yang sama.
+
+BAB 15. NEGOSIASI DAN PENYELESAIAN KONFLIK
+
+Negosiasi berusaha menemukan kesepakatan ketika pihak memiliki kebutuhan atau prioritas berbeda. Persiapan mencakup pemetaan isu, kepentingan, batas, dan pilihan alternatif. Pisahkan posisi yang dinyatakan dari kebutuhan yang mendasarinya. Dua pihak mungkin memiliki posisi berbeda tetapi kepentingan yang dapat dipenuhi bersama.
+
+Penyelesaian konflik membutuhkan aturan percakapan yang aman, kesempatan berbicara yang seimbang, dan pencatatan kesepakatan. Tidak semua konflik dapat diselesaikan melalui dialog langsung, terutama jika terdapat ancaman, ketimpangan kuasa berat, atau risiko keselamatan. Dalam situasi demikian, gunakan mediator atau saluran perlindungan yang tepat.
+
+BAB 16. KOMUNIKASI DIGITAL LINTAS BUDAYA
+
+Pesan digital kehilangan sebagian isyarat seperti intonasi dan ekspresi. Emoji, tanda baca, waktu balasan, dan gaya singkat dapat ditafsirkan berbeda. Untuk pekerjaan bersama, sepakati kanal, waktu respons, format keputusan, serta cara menangani perbedaan pendapat. Jangan menganggap keterlambatan balasan selalu menunjukkan ketidaksopanan.
+
+Penerjemahan otomatis membantu memahami isi umum, tetapi dapat salah pada humor, idiom, istilah lokal, dan konteks sensitif. Untuk keputusan penting, gunakan penerjemah kompeten atau konfirmasi langsung. Lindungi isi percakapan dan jangan membagikan tangkapan layar tanpa alasan serta izin yang layak.
+
+BAB 17. KOMUNIKASI INKLUSIF DAN DESAIN PERTEMUAN
+
+Pertemuan inklusif menyediakan agenda sebelumnya, menjelaskan istilah, memberi kesempatan berkontribusi melalui beberapa cara, dan merangkum keputusan. Fasilitator perlu mengamati siapa yang belum mendapat ruang bicara tanpa memaksa seseorang berbicara. Catatan rapat sebaiknya membedakan keputusan, tugas, penanggung jawab, dan tenggat.
+
+Akomodasi dapat mencakup bahan yang dapat dibaca pembaca layar, teks pendamping, jeda, pilihan komunikasi tertulis, dan pengaturan ruang yang mudah diakses. Tanyakan kebutuhan peserta dengan hormat dan jangan menganggap semua orang dalam satu kelompok membutuhkan hal yang sama.
+
+PROYEK: PEDOMAN KERJA TIM LINTAS LATAR
+
+Susun pedoman satu halaman yang memuat aturan rapat, kanal komunikasi, klarifikasi, privasi, penyelesaian perbedaan, dan pencatatan keputusan. Uji dengan anggota tim yang bersedia. Revisi istilah yang membingungkan dan pastikan pedoman memberi ruang untuk kebutuhan berbeda.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa identitas budaya tidak boleh dianggap tunggal? Karena individu memiliki keanggotaan dan pengalaman yang beragam.
+2. Apa manfaat pertanyaan klarifikasi? Mengurangi asumsi dan memastikan makna dipahami bersama.
+3. Mengapa posisi berbeda belum tentu berarti kepentingan berbeda? Kebutuhan di balik posisi dapat saling melengkapi.
+4. Kapan dialog langsung tidak tepat? Ketika terdapat ancaman, ketimpangan kuasa berat, atau risiko keselamatan.
+5. Sebutkan dua unsur pertemuan inklusif. Agenda jelas dan beberapa cara aman untuk berkontribusi.

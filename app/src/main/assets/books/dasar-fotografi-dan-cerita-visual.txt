@@ -128,3 +128,57 @@ LATIHAN TERAPAN
 3. Mengapa keseimbangan putih perlu diperhatikan?
 4. Sebutkan situasi ketika izin subjek perlu diminta.
 5. Susun alur pengarsipan foto yang mudah ditelusuri.
+
+BAB 12. PENCAHAYAAN DAN KONTROL EKSPOSUR
+
+Eksposur menentukan banyaknya cahaya yang direkam sensor. Tiga kendali utama adalah bukaan lensa, waktu eksposur, dan sensitivitas sensor. Ketiganya saling memengaruhi, tetapi juga mengubah tampilan: bukaan memengaruhi kedalaman bidang, waktu eksposur memengaruhi jejak gerak, dan sensitivitas tinggi dapat meningkatkan noise.
+
+Tidak ada satu pengaturan yang selalu benar. Pilihan ditentukan oleh gerak subjek, cahaya, kedalaman bidang yang diinginkan, dan kemampuan alat. Histogram membantu memeriksa distribusi tonal, tetapi tidak menggantikan penilaian isi gambar. Area terang yang terpotong atau bayangan tanpa detail perlu dipertimbangkan sesuai tujuan visual.
+
+BAB 13. LENSA, PERSPEKTIF, DAN KEDALAMAN BIDANG
+
+Panjang fokus memengaruhi sudut pandang dan pembesaran pada ukuran sensor tertentu. Perspektif terutama berubah karena posisi kamera terhadap subjek, bukan semata karena nama lensa. Memotret dari jarak berbeda lalu mengubah panjang fokus untuk menjaga ukuran subjek dapat menghasilkan hubungan ruang yang berbeda.
+
+Kedalaman bidang dipengaruhi bukaan, jarak fokus, panjang fokus, ukuran sensor, dan jarak subjek. Latar kabur dapat membantu pemisahan subjek, tetapi tidak selalu menjadi pilihan terbaik. Foto dokumenter sering membutuhkan konteks lingkungan yang tetap terbaca.
+
+BAB 14. CAHAYA, WARNA, DAN KESEIMBANGAN PUTIH
+
+Sumber cahaya memiliki karakter spektrum dan temperatur warna yang berbeda. Keseimbangan putih menyesuaikan interpretasi warna agar objek tampak wajar dalam kondisi pencahayaan tertentu. Pengaturan otomatis dapat membantu, tetapi sumber campuran sering menghasilkan warna yang tidak seragam pada bagian gambar.
+
+Warna dalam foto juga dipengaruhi profil warna, layar, pencahayaan saat melihat, dan proses ekspor. Kalibrasi monitor membantu konsistensi, tetapi tidak menjamin semua perangkat menampilkan warna identik. Simpan berkas asli dan catat pengaturan ketika warna penting bagi dokumentasi.
+
+BAB 15. KOMPOSISI DAN BAHASA VISUAL
+
+Komposisi mengarahkan perhatian melalui garis, bentuk, ruang, pola, kontras, dan hubungan antarobjek. Aturan sepertiga dapat menjadi titik awal, bukan hukum yang wajib diikuti. Komposisi simetris dapat menyampaikan kestabilan, sedangkan ruang kosong dapat memberi kesan tenang atau menonjolkan subjek.
+
+Sebelum memotret, tentukan pesan utama dan apa yang perlu dikeluarkan dari bingkai. Perhatikan latar yang mengganggu, garis yang tampak memotong subjek, serta elemen yang dapat menimbulkan salah tafsir. Foto yang kuat tidak harus kompleks; kesesuaian antara bentuk dan tujuan lebih penting.
+
+BAB 16. CERITA VISUAL DAN URUTAN GAMBAR
+
+Cerita visual menggunakan rangkaian gambar untuk membangun konteks, perkembangan, dan makna. Foto pembuka dapat menunjukkan tempat, foto detail memberi informasi khusus, dan foto penutup menyampaikan perubahan atau refleksi. Urutan perlu memiliki hubungan yang jelas dan tidak menyesatkan pembaca.
+
+Keterangan foto menjawab siapa, apa, kapan, dan di mana sejauh informasi tersebut diketahui dan aman dipublikasikan. Jangan menebak identitas atau peristiwa. Jika informasi belum terverifikasi, nyatakan keterbatasan. Penyuntingan tidak boleh mengubah dokumentasi menjadi klaim kejadian yang tidak pernah berlangsung.
+
+BAB 17. ETIKA, PRIVASI, DAN HAK PENGGUNAAN
+
+Memotret orang di ruang privat memerlukan perhatian khusus terhadap izin, harapan privasi, dan tujuan penggunaan. Anak-anak dan kelompok rentan memerlukan perlindungan lebih kuat. Persetujuan untuk mengambil gambar belum tentu berarti persetujuan untuk mengunggah atau menggunakan gambar dalam iklan.
+
+Hak cipta foto, lisensi, dan hak atas citra orang merupakan persoalan yang dapat berbeda menurut yurisdiksi. Simpan catatan izin dan ketentuan lisensi. Jangan mengambil gambar dari internet lalu menganggapnya bebas digunakan. Untuk proyek pembelajaran, gunakan foto sendiri atau aset yang izin penggunaannya jelas.
+
+BAB 18. PENGELOLAAN BERKAS DAN ALUR KERJA
+
+Alur kerja fotografi mencakup impor, pencadangan, seleksi, pengolahan, ekspor, dan pengarsipan. Terapkan nama berkas yang konsisten, struktur folder, metadata, serta salinan cadangan di lokasi terpisah. Jangan menghapus berkas asli sebelum memastikan hasil cadangan dapat dibuka.
+
+Pengolahan sebaiknya menjaga tujuan dan integritas foto. Koreksi pencahayaan, warna, dan pemotongan dapat membantu, tetapi manipulasi dokumenter harus diungkapkan. Ekspor sesuai kebutuhan: resolusi, format, profil warna, dan ukuran berkas perlu diseimbangkan.
+
+PROYEK: ESAI FOTO LINGKUNGAN SEKOLAH
+
+Rencanakan cerita lima hingga delapan foto tentang satu tema yang aman dan mendapat izin. Buat daftar gambar, tentukan pesan, minta izin yang diperlukan, dan hindari menampilkan informasi pribadi. Susun urutan, tulis keterangan faktual, lalu minta pembaca menjelaskan pesan yang mereka tangkap. Revisi jika makna yang diterima berbeda dari tujuan.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Apa akibat waktu eksposur panjang? Gerak dapat terekam sebagai jejak atau kabur.
+2. Mengapa perspektif berubah saat posisi kamera berubah? Karena hubungan geometris antara kamera dan objek berubah.
+3. Apa fungsi keseimbangan putih? Menyesuaikan tampilan warna terhadap karakter pencahayaan.
+4. Mengapa urutan foto penting? Urutan membangun konteks dan alur makna.
+5. Mengapa izin pengambilan foto belum tentu mencakup publikasi? Tujuan penggunaan dan audiens dapat berbeda.

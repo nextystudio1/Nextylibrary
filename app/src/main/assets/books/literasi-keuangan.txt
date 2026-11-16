@@ -233,8 +233,6 @@ LATIHAN
 2. Apa beda bunga sederhana dan majemuk? Jawaban: bunga majemuk dihitung atas pokok serta bunga terkumpul.
 3. Mengapa total biaya lebih penting daripada cicilan? Jawaban: cicilan kecil dapat berasal dari tenor panjang atau biaya tambahan.
 
-
-
 BAB 15 — KEAMANAN KEUANGAN DIGITAL
 
 Layanan keuangan digital memudahkan pembayaran dan pencatatan, tetapi pengguna tetap perlu melindungi akun. Gunakan kata sandi unik, verifikasi berlapis bila tersedia, dan kunci perangkat. Jangan membagikan PIN, kata sandi, kode OTP, atau kode pemulihan kepada siapa pun. Petugas resmi tidak seharusnya meminta kode rahasia untuk mengambil alih akun.

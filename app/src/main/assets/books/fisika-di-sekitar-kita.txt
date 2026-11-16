@@ -340,8 +340,6 @@ LATIHAN PEMAHAMAN
 2. Apa beda energi dan daya? Jawaban: energi adalah jumlah energi yang dipindahkan atau digunakan, daya adalah lajunya.
 3. Mengapa gelombang bunyi memerlukan medium? Jawaban: bunyi merambat melalui getaran partikel medium.
 
-
-
 BAB LANJUTAN — GELOMBANG, BUNYI, DAN INFORMASI
 
 Gelombang memindahkan energi tanpa harus memindahkan materi secara keseluruhan dari satu tempat ke tempat lain. Gelombang mekanik, seperti bunyi dan gelombang air, memerlukan medium. Gelombang elektromagnetik, seperti cahaya dan gelombang radio, dapat merambat di ruang hampa.

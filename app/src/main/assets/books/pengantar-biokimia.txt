@@ -6,7 +6,7 @@ DESKRIPSI
 Mengenal molekul kehidupan, enzim, metabolisme, dan energi sel.
 
 PENDAHULUAN
-Buku Pengantar Biokimia membahas mengenal molekul kehidupan, enzim, metabolisme, dan energi sel.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini membahas dasar kimia kehidupan: struktur biomolekul, hubungan bentuk dan fungsi protein, katalisis enzim, membran, informasi genetik, metabolisme, dan penggunaan energi oleh sel. Materi pengayaan menghubungkan konsep dasar dengan kesehatan, pangan, dan bioteknologi.
 
 BAB 1. MOLEKUL KEHIDUPAN
 
@@ -56,11 +56,11 @@ PROYEK AKHIR
 Pilih topik yang menghubungkan minimal tiga bab. Rumuskan pertanyaan, tujuan, batasan, metode, dan bentuk hasil. Gunakan sumber yang dapat diverifikasi serta catat proses pengumpulan informasi. Sajikan data dengan jelas, pisahkan temuan dari interpretasi, dan jelaskan keterbatasan.
 
 EVALUASI AKHIR
-1. Sebutkan lima gagasan inti buku.
-2. Jelaskan hubungan antarbab dengan contoh.
-3. Analisis satu kasus berdasarkan bukti.
-4. Bandingkan dua pendekatan dan konsekuensinya.
-5. Tulis hal yang masih perlu dipelajari.
+1. Jelaskan hubungan struktur protein dengan fungsi biologisnya.
+2. Uraikan bagaimana enzim menurunkan energi aktivasi dan faktor yang memengaruhi aktivitasnya.
+3. Bedakan difusi, osmosis, dan transpor aktif.
+4. Jelaskan peran ATP dalam menghubungkan reaksi metabolisme.
+5. Mengapa hasil pemeriksaan biokimia harus ditafsirkan bersama metode dan konteks biologis?
 
 GLOSARIUM
 Konsep: Gagasan utama untuk memahami topik.
@@ -73,19 +73,19 @@ CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.
 PENDALAMAN MATERI ILMIAH
 
-BAB 6. ENZIM DAN PENGATURAN REAKSI
+BAB 7. REGULASI ENZIM DAN JALUR METABOLISME
 Enzim adalah molekul biologis, umumnya protein, yang mempercepat reaksi dengan menurunkan energi aktivasi. Enzim memiliki sisi aktif yang berinteraksi dengan substrat. Model kunci-gembok memberi gambaran awal, sedangkan model penyesuaian terinduksi menjelaskan perubahan bentuk enzim ketika substrat berikatan. Aktivitas enzim dipengaruhi suhu, pH, konsentrasi substrat, dan keberadaan inhibitor. Suhu terlalu tinggi dapat mengubah struktur protein sehingga fungsi menurun. Enzim tidak habis dalam reaksi, tetapi dapat mengalami perubahan aktivitas dan memerlukan kondisi yang sesuai. Setiap enzim memiliki kondisi kerja yang berbeda; jangan menganggap satu nilai pH atau suhu cocok bagi semuanya.
 
-BAB 7. KARBOHIDRAT, LIPID, DAN PROTEIN
+BAB 8. INTEGRASI METABOLISME ZAT GIZI
 Karbohidrat berperan sebagai sumber energi dan juga bagian struktur pada sejumlah organisme. Lipid mencakup trigliserida, fosfolipid, dan molekul lain dengan fungsi penyimpanan energi serta pembentukan membran. Protein tersusun dari asam amino dan menjalankan fungsi struktural, transportasi, pengaturan, serta katalisis. Struktur molekul menentukan sifat dan fungsinya. Perubahan urutan asam amino dapat memengaruhi pelipatan protein, tetapi dampaknya bergantung pada lokasi dan konteks. Tidak tepat menyebut satu kelompok zat gizi sebagai satu-satunya sumber energi atau menganggap semua lemak memiliki sifat yang sama.
 
-BAB 8. ATP DAN METABOLISME ENERGI
+BAB 9. TRANSFER ENERGI DAN RESPIRASI SEL
 ATP merupakan molekul yang digunakan sel untuk menghubungkan reaksi yang melepaskan energi dengan proses yang memerlukan energi. ATP dapat diubah menjadi ADP dan fosfat, lalu dibentuk kembali melalui jalur metabolisme. Respirasi sel menguraikan molekul organik dan memindahkan energi melalui rangkaian reaksi. Glikolisis berlangsung di sitoplasma, sedangkan tahap respirasi aerob berikutnya terutama berlangsung di mitokondria pada sel eukariotik. Oksigen berperan sebagai penerima elektron akhir dalam rantai transpor elektron aerob. Jalur metabolisme saling terhubung dan diatur sesuai kebutuhan sel, bukan sekadar urutan reaksi yang selalu berjalan dengan laju sama.
 
-BAB 9. MEMBRAN DAN TRANSPOR MOLEKUL
+BAB 10. MEMBRAN DAN KOMUNIKASI SEL
 Membran sel tersusun terutama dari lapisan ganda fosfolipid dengan protein dan komponen lain. Struktur ini membatasi bagian dalam sel sekaligus memungkinkan pertukaran zat secara selektif. Difusi merupakan perpindahan bersih partikel mengikuti gradien konsentrasi. Osmosis adalah perpindahan air melalui membran selektif. Transpor aktif memerlukan energi untuk memindahkan zat melawan gradien elektrokimia. Protein kanal dan pembawa membantu molekul tertentu melewati membran. Keseimbangan ion dan air penting untuk fungsi sel, sehingga gangguan transpor dapat berdampak luas.
 
-BAB 10. BIOKIMIA, KESEHATAN, DAN PENELITIAN
+BAB 11. BIOKIMIA DALAM PENELITIAN KESEHATAN
 Biokimia membantu menjelaskan proses pencernaan, kerja hormon, metabolisme obat, dan perubahan sel. Namun, hasil laboratorium harus ditafsirkan berdasarkan metode, rentang rujukan, kondisi pengambilan sampel, serta konteks individu. Satu angka tidak cukup untuk membuat diagnosis. Penelitian biokimia memerlukan kontrol, pengulangan, pencatatan prosedur, dan perlindungan keselamatan. Sampel biologis perlu ditangani sesuai standar dan tidak boleh digunakan tanpa izin yang sesuai. Klaim kesehatan yang menggunakan istilah biokimia belum tentu benar; periksa bukti penelitian dan kualitas sumber.
 
 STUDI KASUS
@@ -106,19 +106,19 @@ Metabolisme: keseluruhan reaksi kimia dalam organisme.
 Osmosis: perpindahan air melalui membran selektif.
 Substrat: molekul yang bekerja pada enzim.
 
-BAB 11. ENZIM DAN KATALISIS BIOLOGIS
+BAB 12. KINETIKA DAN PENGHAMBATAN ENZIM
 Enzim adalah molekul biologis yang mempercepat reaksi dengan menurunkan energi aktivasi. Banyak enzim berupa protein yang memiliki bentuk tiga dimensi tertentu. Substrat berinteraksi dengan bagian aktif enzim, kemudian produk dilepaskan. Suhu, pH, konsentrasi substrat, dan kondisi lingkungan dapat memengaruhi aktivitas. Kondisi ekstrem dapat mengubah struktur enzim sehingga fungsinya menurun. Enzim tidak habis digunakan dalam satu reaksi, tetapi dapat mengalami kerusakan atau pengaturan aktivitas.
 
-BAB 12. METABOLISME DAN ATP
+BAB 13. INTEGRASI JALUR METABOLISME
 Metabolisme mencakup seluruh reaksi kimia dalam sel. Katabolisme memecah molekul dan dapat melepaskan energi, sedangkan anabolisme menyusun molekul dan memerlukan energi. ATP berperan sebagai pembawa energi yang dapat digunakan untuk berbagai proses sel. Energi tidak diciptakan dari ketiadaan; sel mengubah energi kimia dari nutrien menjadi bentuk yang dapat dimanfaatkan. Jalur metabolisme saling terhubung dan diatur sesuai kebutuhan sel.
 
-BAB 13. KARBOHIDRAT, LIPID, DAN PROTEIN
+BAB 14. HUBUNGAN ANTARBIOMOLEKUL
 Karbohidrat berperan sebagai sumber energi dan bahan penyusun struktur. Lipid berfungsi sebagai cadangan energi, komponen membran, dan molekul sinyal. Protein menjalankan banyak fungsi, termasuk katalisis, transportasi, struktur, dan pengaturan. Struktur molekul menentukan sifat dan fungsinya. Perubahan bentuk protein dapat mengubah aktivitasnya. Tidak ada satu kelompok zat gizi yang dapat menggantikan seluruh fungsi kelompok lainnya.
 
-BAB 14. ASAM NUKLEAT DAN INFORMASI BIOLOGIS
+BAB 15. REGULASI INFORMASI GENETIK
 DNA menyimpan informasi genetik, sedangkan RNA terlibat dalam penggunaan informasi tersebut untuk menghasilkan protein dan mengatur berbagai proses. Nukleotida tersusun atas gula, gugus fosfat, dan basa nitrogen. Urutan basa menyimpan informasi, tetapi ekspresi gen juga dipengaruhi mekanisme pengaturan dan lingkungan sel. Hubungan gen dengan sifat tidak selalu sederhana karena banyak sifat dipengaruhi banyak gen dan faktor lingkungan.
 
-BAB 15. BIOKIMIA DALAM KESEHATAN DAN TEKNOLOGI
+BAB 16. APLIKASI BIOKIMIA DALAM KESEHATAN DAN TEKNOLOGI
 Prinsip biokimia digunakan dalam memahami metabolisme, diagnosis laboratorium, pengembangan obat, pangan, dan bioteknologi. Hasil pemeriksaan laboratorium perlu ditafsirkan sesuai metode, rentang rujukan, dan keadaan individu. Satu hasil tidak selalu cukup untuk menetapkan diagnosis. Dalam teknologi pangan, reaksi enzimatis dapat membantu proses tertentu, tetapi mutu dan keamanan produk tetap perlu dinilai dengan standar yang sesuai.
 
 LATIHAN TERAPAN

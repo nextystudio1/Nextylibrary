@@ -13,17 +13,17 @@ BAB 1. AKUNTANSI SEBAGAI INFORMASI
 Akuntansi mengidentifikasi, mencatat, mengelompokkan, dan melaporkan transaksi ekonomi. Informasi akuntansi membantu pemilik, pengelola, pemberi pinjaman, dan pihak lain memahami kondisi organisasi. Catatan yang baik harus dapat ditelusuri ke bukti transaksi dan disusun dengan prinsip yang konsisten.
 
 PENDALAMAN
-Pada AKUNTANSI SEBAGAI INFORMASI, bedakan fakta, aturan, kepentingan, dan penilaian. Identifikasi pihak yang terlibat serta kelompok yang terdampak. Bandingkan sumber dan sudut pandang sebelum menyusun kesimpulan agar konteks tidak terabaikan.
+Informasi akuntansi harus relevan, dapat dipercaya, dapat dibandingkan, dan dapat ditelusuri. Relevansi berarti informasi membantu pengguna mengambil keputusan; keterandalan menuntut bukti dan pencatatan yang jujur. Sebagai contoh, pemilik usaha dapat memakai laporan untuk menilai kemampuan membayar kewajiban, sedangkan pemasok dapat menilai risiko penjualan kredit. Kebutuhan setiap pengguna berbeda, sehingga satu angka tidak selalu menjawab semua pertanyaan.
 
 CONTOH PENERAPAN
-Contoh kajian: pilih kasus sederhana yang berkaitan dengan AKUNTANSI SEBAGAI INFORMASI dalam bidang Pengantar Akuntansi Dasar. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
+Misalkan sebuah usaha kecil memiliki penjualan tinggi tetapi kasnya menipis. Laporan laba rugi mungkin menunjukkan pendapatan, sementara laporan arus kas memperlihatkan bahwa banyak penjualan belum diterima tunai. Kasus ini menunjukkan mengapa pengguna perlu membaca beberapa jenis laporan dan memeriksa waktu penerimaan serta pembayaran, bukan hanya melihat omzet.
 
 KEGIATAN BELAJAR
-1. Jelaskan satu istilah kunci dari AKUNTANSI SEBAGAI INFORMASI dengan kalimat sendiri.
-2. Buat bagan yang menunjukkan hubungan antarkonsep.
-3. Terapkan konsep pada satu contoh yang relevan dengan Pengantar Akuntansi Dasar.
-4. Tunjukkan asumsi atau kondisi yang dapat mengubah hasil.
-5. Sajikan kesimpulan beserta bukti pendukungnya.
+1. Sebutkan tiga kelompok pengguna informasi akuntansi dan jelaskan keputusan yang mungkin mereka ambil.
+2. Mengapa bukti transaksi diperlukan sebelum pencatatan?
+3. Berikan contoh informasi yang relevan bagi pemilik usaha tetapi belum tentu cukup bagi pemberi pinjaman.
+4. Jelaskan akibat jika transaksi sengaja tidak dicatat.
+5. Bagaimana cara memeriksa apakah laporan disusun dari catatan yang dapat ditelusuri?
 
 LATIHAN
 1. Definisikan tiga istilah penting.

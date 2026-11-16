@@ -153,3 +153,37 @@ Evaluasi: Penilaian berdasarkan kriteria.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, dan sumber lembaga kompeten. Periksa tahun terbit dan izin penggunaan sebelum mengutip atau menggunakan kembali materi.
+
+PENDALAMAN MATERI
+
+BAB 6. EKOSISTEM PESISIR DAN MANGROVE
+Wilayah pesisir merupakan pertemuan darat dan laut dengan kondisi lingkungan yang berubah mengikuti pasang surut, gelombang, dan aliran air tawar. Mangrove memiliki akar dan adaptasi yang membantu hidup pada substrat berlumpur serta kondisi salinitas yang berubah. Ekosistem mangrove menyediakan habitat, tempat asuhan bagi sejumlah organisme, penyimpan karbon, dan perlindungan pesisir. Namun, fungsi tersebut bergantung pada kondisi hidrologi, keanekaragaman jenis, dan keterhubungan dengan ekosistem lain. Penanaman bibit tidak selalu berhasil jika aliran air dan kondisi lokasi tidak sesuai. Pemulihan perlu didahului penilaian penyebab kerusakan dan keterlibatan masyarakat setempat.
+
+BAB 7. TERUMBU KARANG DAN PADANG LAMUN
+Terumbu karang dibangun oleh hewan karang yang hidup bersimbiosis dengan alga mikroskopis pada banyak spesies. Karang membutuhkan kondisi tertentu, termasuk kejernihan air dan rentang suhu yang sesuai. Tekanan panas dapat menyebabkan pemutihan ketika hubungan simbiosis terganggu. Padang lamun merupakan tumbuhan berbunga yang hidup terendam di laut dangkal. Lamun menstabilkan sedimen, menyediakan habitat, dan mendukung rantai makanan. Terumbu karang dan lamun saling terhubung dengan mangrove melalui perpindahan organisme dan materi. Kerusakan satu habitat dapat memengaruhi ekosistem di sekitarnya.
+
+BAB 8. RANTAI MAKANAN DAN JARINGAN TROFIK LAUT
+Produsen seperti fitoplankton memanfaatkan energi cahaya untuk membentuk bahan organik. Organisme konsumen memperoleh energi dengan memakan organisme lain. Hubungan makan-dimakan membentuk rantai makanan, sedangkan banyak rantai yang saling terhubung membentuk jaringan trofik. Energi berkurang pada setiap perpindahan tingkat trofik karena digunakan untuk metabolisme dan terlepas sebagai panas. Perubahan jumlah predator atau mangsa dapat memengaruhi banyak bagian jaringan. Karena itu, pengelolaan perikanan perlu mempertimbangkan hubungan antarspesies dan bukan hanya jumlah tangkapan satu jenis.
+
+BAB 9. OSEANOGRAFI DAN ARUS LAUT
+Air laut bergerak karena angin, perbedaan densitas, pasang surut, bentuk pantai, dan rotasi bumi. Suhu serta salinitas memengaruhi densitas. Arus membawa panas, nutrien, organisme, dan material lain. Gelombang berbeda dari arus: gelombang terutama memindahkan energi, sedangkan arus merupakan aliran massa air. Pasang surut dipengaruhi gaya gravitasi bulan dan matahari serta bentuk cekungan laut. Informasi arus dan pasang surut penting untuk keselamatan pelayaran, perikanan, dan penelitian pesisir. Prediksi lokal tetap perlu merujuk data resmi dan kondisi aktual.
+
+BAB 10. KONSERVASI DAN PEMANFAATAN BERKELANJUTAN
+Konservasi laut meliputi perlindungan habitat, pengelolaan perikanan, pengurangan pencemaran, dan pemulihan ekosistem. Kawasan konservasi dapat memberi ruang bagi habitat penting, tetapi keberhasilannya memerlukan pengawasan, pendanaan, data, dan dukungan masyarakat. Penangkapan ikan berkelanjutan mempertimbangkan ukuran tangkapan, musim reproduksi, alat tangkap, dan kondisi stok. Sampah laut berasal dari beragam sumber di darat dan laut. Pencegahan dari sumber sering lebih efektif daripada hanya membersihkan pantai. Kebijakan yang baik mempertemukan tujuan ekologis dan kebutuhan sosial ekonomi masyarakat pesisir.
+
+STUDI KASUS
+Sebuah pantai mengalami penurunan jumlah ikan dekat muara. Penyebabnya belum tentu satu faktor. Peneliti perlu memeriksa kualitas air, perubahan habitat, tekanan tangkap, musim, dan perubahan aliran sungai. Wawancara nelayan dapat melengkapi pengukuran ilmiah, tetapi kedua jenis data perlu dicatat metode dan keterbatasannya. Keputusan pemulihan harus didasarkan pada gabungan bukti.
+
+LATIHAN DAN PEMBAHASAN
+1. Sebutkan tiga fungsi ekosistem mangrove.
+2. Jelaskan perbedaan terumbu karang dan padang lamun.
+3. Mengapa jaringan trofik lebih kompleks daripada rantai makanan tunggal?
+4. Bedakan gelombang dan arus laut.
+5. Mengapa konservasi perlu melibatkan masyarakat pesisir?
+
+GLOSARIUM
+Fitoplankton: organisme mikroskopis fotosintetik yang melayang di perairan.
+Lamun: tumbuhan berbunga yang hidup terendam di laut.
+Mangrove: kelompok tumbuhan pesisir yang beradaptasi pada lingkungan pasang surut.
+Salinitas: kadar garam terlarut dalam air.
+Jaringan trofik: hubungan makan-dimakan dalam ekosistem.

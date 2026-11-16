@@ -75,7 +75,7 @@ Naskah Dasar Analisis Risiko disusun sebagai materi pembelajaran orisinal Nexty 
 
 PENDALAMAN MATERI
 
-BAB 6. IDENTIFIKASI BAHAYA DAN KERENTANAN
+PENDALAMAN — IDENTIFIKASI BAHAYA DAN KERENTANAN
 Bahaya adalah sumber atau keadaan yang berpotensi menimbulkan dampak. Risiko berkaitan dengan kemungkinan dan konsekuensi dampak tersebut. Kerentanan menjelaskan kondisi yang membuat individu, aset, atau sistem lebih mudah terdampak. Paparan menunjukkan siapa atau apa yang berada pada wilayah atau situasi berbahaya. Penilaian risiko yang baik memisahkan ketiga unsur tersebut. Misalnya, hujan lebat merupakan bahaya, permukiman di dataran rendah dapat memiliki paparan tinggi, dan drainase buruk dapat meningkatkan kerentanan banjir. Pengurangan risiko dapat dilakukan dengan mengurangi bahaya bila mungkin, menurunkan paparan, atau memperkuat kapasitas menghadapi dampak.
 
 BAB 7. KEMUNGKINAN, DAMPAK, DAN MATRIKS RISIKO

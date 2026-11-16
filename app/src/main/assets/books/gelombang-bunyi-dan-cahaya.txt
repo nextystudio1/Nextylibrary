@@ -30,91 +30,21 @@ BAB 2. GELOMBANG MEKANIK DAN ELEKTROMAGNETIK
 
 Gelombang mekanik memerlukan medium, misalnya gelombang bunyi di udara atau gelombang pada tali. Gelombang elektromagnetik dapat merambat tanpa medium, misalnya cahaya tampak dan gelombang radio. Perbedaan ini menjelaskan mengapa bunyi tidak merambat di ruang hampa.
 
-CONTOH PENERAPAN
-Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
-
-RANGKUMAN
-- Kenali definisi dan batas penggunaan konsep.
-- Hubungkan penjelasan dengan contoh nyata.
-- Periksa satuan, konteks, dan sumber informasi.
-
-LATIHAN
-1. Jelaskan dua istilah utama dari bab ini.
-2. Buat satu contoh baru dan uraikan alasannya.
-3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
-4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
-
 BAB 3. BUNYI DAN PENDENGARAN
 
 Bunyi berasal dari getaran yang merambat melalui medium. Frekuensi berkaitan dengan tinggi-rendah nada, sedangkan amplitudo berkaitan dengan kuat-lemah bunyi. Lingkungan, jarak, dan sifat medium memengaruhi bunyi yang diterima pendengar. Paparan suara keras dalam waktu lama dapat mengganggu pendengaran.
-
-CONTOH PENERAPAN
-Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
-
-RANGKUMAN
-- Kenali definisi dan batas penggunaan konsep.
-- Hubungkan penjelasan dengan contoh nyata.
-- Periksa satuan, konteks, dan sumber informasi.
-
-LATIHAN
-1. Jelaskan dua istilah utama dari bab ini.
-2. Buat satu contoh baru dan uraikan alasannya.
-3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
-4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
 
 BAB 4. PEMANTULAN DAN RESONANSI
 
 Gelombang dapat dipantulkan ketika bertemu batas medium. Gema terjadi ketika bunyi pantul terdengar terpisah dari bunyi asli. Resonansi terjadi ketika suatu sistem menerima getaran dengan frekuensi yang sesuai dengan frekuensi alaminya, sehingga amplitudo dapat meningkat.
 
-CONTOH PENERAPAN
-Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
-
-RANGKUMAN
-- Kenali definisi dan batas penggunaan konsep.
-- Hubungkan penjelasan dengan contoh nyata.
-- Periksa satuan, konteks, dan sumber informasi.
-
-LATIHAN
-1. Jelaskan dua istilah utama dari bab ini.
-2. Buat satu contoh baru dan uraikan alasannya.
-3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
-4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
-
 BAB 5. CAHAYA DAN PEMBENTUKAN BAYANGAN
 
 Cahaya merambat lurus dalam medium homogen. Cermin memantulkan cahaya, sedangkan lensa membiaskan cahaya. Bayangan yang terbentuk bergantung pada bentuk permukaan dan posisi benda. Prinsip ini digunakan pada kamera, kacamata, mikroskop, dan teleskop.
 
-CONTOH PENERAPAN
-Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
-
-RANGKUMAN
-- Kenali definisi dan batas penggunaan konsep.
-- Hubungkan penjelasan dengan contoh nyata.
-- Periksa satuan, konteks, dan sumber informasi.
-
-LATIHAN
-1. Jelaskan dua istilah utama dari bab ini.
-2. Buat satu contoh baru dan uraikan alasannya.
-3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
-4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
-
 BAB 6. SPEKTRUM DAN TEKNOLOGI
 
 Cahaya tampak merupakan bagian kecil dari spektrum elektromagnetik. Gelombang radio, inframerah, ultraviolet, sinar-X, dan gamma memiliki rentang frekuensi serta kegunaan berbeda. Pemanfaatannya harus memperhatikan keselamatan dan karakter masing-masing jenis radiasi.
-
-CONTOH PENERAPAN
-Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
-
-RANGKUMAN
-- Kenali definisi dan batas penggunaan konsep.
-- Hubungkan penjelasan dengan contoh nyata.
-- Periksa satuan, konteks, dan sumber informasi.
-
-LATIHAN
-1. Jelaskan dua istilah utama dari bab ini.
-2. Buat satu contoh baru dan uraikan alasannya.
-3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
-4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
 
 EVALUASI AKHIR
 1. Ringkas gagasan utama setiap bab.

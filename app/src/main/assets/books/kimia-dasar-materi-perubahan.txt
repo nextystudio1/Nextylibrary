@@ -6,39 +6,39 @@ Edisi 2026
 PENGANTAR
 Kimia mempelajari komposisi, struktur, sifat, dan perubahan materi. Udara, air, makanan, obat, bahan bangunan, dan baterai melibatkan proses kimia. Buku ini memperkenalkan konsep dasar tanpa percobaan berbahaya.
 
-BAB 1 —— MATERI DAN PENGUKURANNYA
+BAB 1 — MATERI DAN PENGUKURANNYA
 Materi adalah segala sesuatu yang memiliki massa dan menempati ruang. Materi dapat berupa zat murni atau campuran. Zat murni memiliki komposisi tertentu, sedangkan campuran terdiri atas dua atau lebih zat yang bergabung secara fisik.
 Unsur adalah zat yang tersusun dari satu jenis atom. Senyawa terbentuk dari dua atau lebih unsur yang berikatan dalam perbandingan tertentu. Air murni merupakan senyawa yang tersusun dari hidrogen dan oksigen.
 Campuran homogen memiliki komposisi seragam pada skala pengamatan, seperti larutan garam. Campuran heterogen memiliki bagian yang dapat dibedakan, seperti pasir dalam air.
 Sifat fisika dapat diamati tanpa mengubah identitas kimia zat, misalnya warna, massa jenis, dan titik leleh. Sifat kimia berkaitan dengan kemampuan zat mengalami reaksi, misalnya mudah terbakar atau bereaksi dengan zat lain.
 
-BAB 2 —— ATOM DAN TABEL PERIODIK
+BAB 2 — ATOM DAN TABEL PERIODIK
 Atom merupakan unit dasar unsur. Atom tersusun atas inti yang mengandung proton dan neutron, serta elektron yang berada pada daerah di sekitar inti.
 Nomor atom menunjukkan jumlah proton. Pada atom netral, jumlah elektron sama dengan jumlah proton. Nomor massa merupakan jumlah proton dan neutron.
 Isotop adalah atom dari unsur yang sama dengan jumlah neutron berbeda. Karena jumlah protonnya sama, isotop memiliki nomor atom yang sama tetapi massa berbeda.
 Tabel periodik mengatur unsur berdasarkan nomor atom dan pola sifat. Kolom disebut golongan dan baris disebut periode. Unsur dalam golongan tertentu sering memiliki pola sifat kimia yang mirip.
 Tabel periodik membantu memperkirakan sifat unsur, tetapi perilaku zat juga bergantung pada struktur dan kondisi reaksi.
 
-BAB 3 —— IKATAN DAN STRUKTUR ZAT
+BAB 3 — IKATAN DAN STRUKTUR ZAT
 Atom dapat berikatan untuk mencapai susunan yang lebih stabil. Ikatan ion terbentuk melalui tarik-menarik antara ion bermuatan berlawanan. Ikatan kovalen melibatkan pemakaian bersama pasangan elektron.
 Ikatan logam menjelaskan keterikatan atom logam dengan elektron yang dapat bergerak di antara banyak atom. Model ini membantu menjelaskan daya hantar listrik dan sifat mudah ditempa pada banyak logam.
 Bentuk molekul memengaruhi sifat zat. Distribusi muatan yang tidak merata dapat menghasilkan molekul polar. Kepolaran berpengaruh pada interaksi antarmolekul dan kelarutan.
 Sifat suatu bahan tidak cukup dipahami hanya dari rumus kimia. Susunan partikel, jenis ikatan, dan gaya antarmolekul juga penting.
 
-BAB 4 —— REAKSI KIMIA
+BAB 4 — REAKSI KIMIA
 Reaksi kimia mengubah susunan atom menjadi zat baru. Dalam persamaan reaksi, pereaksi ditulis di sisi kiri dan produk di sisi kanan.
 Persamaan reaksi harus setara karena atom tidak diciptakan atau dimusnahkan dalam reaksi kimia biasa. Jumlah setiap jenis atom di kedua sisi harus sama.
 Contoh sederhana adalah pembentukan air dari hidrogen dan oksigen. Persamaan setaranya: 2H2 + O2 → 2H2O.
 Tanda reaksi dapat meliputi perubahan warna, terbentuknya gas, endapan, atau perubahan suhu. Namun, satu tanda saja tidak selalu cukup untuk memastikan reaksi kimia.
 Laju reaksi dipengaruhi konsentrasi, suhu, luas permukaan, dan katalis. Katalis mempercepat reaksi dengan menyediakan jalur reaksi alternatif dan tidak habis secara keseluruhan.
 
-BAB 5 —— ASAM, BASA, DAN LARUTAN
+BAB 5 — ASAM, BASA, DAN LARUTAN
 Larutan adalah campuran homogen antara pelarut dan zat terlarut. Konsentrasi menyatakan banyaknya zat terlarut dalam jumlah larutan atau pelarut tertentu.
 Asam dan basa dapat dijelaskan dengan beberapa teori. Dalam pengantar larutan air, asam meningkatkan konsentrasi ion hidrogen, sedangkan basa meningkatkan konsentrasi ion hidroksida atau menerima proton menurut teori yang lebih luas.
 Skala pH digunakan untuk menyatakan tingkat keasaman larutan berair. Pada kondisi standar tertentu, pH 7 bersifat netral; nilai lebih rendah bersifat asam dan lebih tinggi bersifat basa.
 Indikator dapat berubah warna sesuai kondisi larutan. Pengukuran pH sebaiknya memakai alat atau indikator yang sesuai. Jangan mencicipi atau mencampur bahan rumah tangga untuk menguji sifat kimianya.
 
-BAB 6 —— KIMIA, LINGKUNGAN, DAN KESELAMATAN
+BAB 6 — KIMIA, LINGKUNGAN, DAN KESELAMATAN
 Kimia membantu mengembangkan material, pengolahan air, obat, pupuk, dan teknologi energi. Namun, bahan kimia juga dapat menimbulkan risiko jika digunakan atau dibuang tanpa pengelolaan.
 Baca label dan petunjuk keselamatan produk. Jangan mencampur produk pembersih rumah tangga karena dapat menghasilkan gas atau reaksi berbahaya. Praktik laboratorium harus mengikuti arahan guru dan prosedur keselamatan.
 Kimia hijau berupaya merancang produk dan proses yang mengurangi limbah, penggunaan energi, serta bahan berbahaya. Pencegahan pencemaran lebih baik daripada hanya menangani limbah setelah terbentuk.
@@ -64,25 +64,25 @@ CATATAN PENULIS
 Materi ini untuk pembelajaran konsep. Jangan melakukan eksperimen kimia tanpa fasilitas, bahan, dan pengawasan yang tepat.
 
 PENDALAMAN MATERI: STRUKTUR ATOM, IKATAN, DAN REAKSI
-BAB 7 —— STRUKTUR ATOM DAN ISOTOP
+BAB 7 — STRUKTUR ATOM DAN ISOTOP
 Atom tersusun atas inti yang mengandung proton dan neutron serta elektron yang menempati keadaan energi tertentu. Nomor atom menyatakan jumlah proton dan menentukan identitas unsur. Nomor massa merupakan jumlah proton dan neutron. Atom unsur yang sama dapat memiliki jumlah neutron berbeda; variasi ini disebut isotop.
 Model atom berkembang mengikuti bukti eksperimen. Model modern menggambarkan elektron melalui orbital dan peluang keberadaan, bukan lintasan planet kecil yang pasti. Konfigurasi elektron membantu menjelaskan pola sifat kimia dan kecenderungan atom berikatan.
-BAB 8 —— TABEL PERIODIK DAN SIFAT UNSUR
+BAB 8 — TABEL PERIODIK DAN SIFAT UNSUR
 Unsur disusun berdasarkan nomor atom. Unsur dalam satu golongan sering memiliki pola elektron valensi serupa sehingga menunjukkan kemiripan sifat. Jari-jari atom, energi ionisasi, dan elektronegativitas memperlihatkan kecenderungan periodik yang dapat dijelaskan melalui muatan inti efektif dan susunan elektron.
 Tren periodik berguna untuk memperkirakan reaktivitas, tetapi tidak menggantikan data eksperimen. Pengecualian dapat muncul karena konfigurasi elektron dan struktur atom yang lebih rinci.
-BAB 9 —— IKATAN ION, KOVALEN, DAN LOGAM
+BAB 9 — IKATAN ION, KOVALEN, DAN LOGAM
 Ikatan ion terbentuk melalui tarikan elektrostatik antara ion bermuatan berlawanan, sering setelah perpindahan elektron. Ikatan kovalen melibatkan pemakaian pasangan elektron bersama. Ikatan logam dapat dipahami melalui elektron valensi yang terdelokalisasi di antara pusat-pusat atom.
 Jenis ikatan membantu menjelaskan sifat bahan. Banyak senyawa ion memiliki titik leleh tinggi dan menghantarkan listrik ketika cair atau terlarut. Zat kovalen molekuler sering memiliki titik leleh lebih rendah, tetapi jaringan kovalen seperti intan sangat kuat. Logam umumnya menghantarkan listrik dan dapat ditempa.
-BAB 10 —— BENTUK MOLEKUL DAN GAYA ANTARMOLEKUL
+BAB 10 — BENTUK MOLEKUL DAN GAYA ANTARMOLEKUL
 Bentuk molekul dipengaruhi tolakan pasangan elektron di sekitar atom pusat. Bentuk tiga dimensi menentukan polaritas dan dapat memengaruhi titik didih, kelarutan, serta interaksi biologis. Gaya antarmolekul mencakup dispersi London, dipol-dipol, dan ikatan hidrogen.
 Ikatan hidrogen bukan ikatan kovalen baru antara molekul, melainkan interaksi kuat yang melibatkan hidrogen yang terikat pada atom elektronegatif dan pasangan elektron bebas molekul lain. Interaksi ini penting bagi sifat air dan struktur biomolekul.
-BAB 11 —— STOIKIOMETRI DAN KONSEP MOL
+BAB 11 — STOIKIOMETRI DAN KONSEP MOL
 Mol adalah satuan jumlah zat. Massa molar menghubungkan massa dengan jumlah partikel. Persamaan reaksi setara mematuhi kekekalan atom: jumlah tiap jenis atom sama pada kedua sisi. Koefisien reaksi menunjukkan perbandingan mol zat yang bereaksi.
 Dalam soal pereaksi pembatas, hitung jumlah mol setiap pereaksi dan bandingkan dengan rasio koefisien. Pereaksi yang habis lebih dahulu membatasi jumlah produk. Hasil teoritis dapat berbeda dari hasil eksperimen karena reaksi samping, kehilangan bahan, atau reaksi yang belum sempurna.
-BAB 12 —— ASAM, BASA, DAN KESETIMBANGAN
+BAB 12 — ASAM, BASA, DAN KESETIMBANGAN
 Dalam model Brønsted-Lowry, asam menyumbangkan proton dan basa menerima proton. Skala pH berkaitan dengan konsentrasi ion hidrogen dalam larutan. Larutan penyangga mengurangi perubahan pH ketika sedikit asam atau basa ditambahkan.
 Kesetimbangan kimia bersifat dinamis: reaksi maju dan balik berlangsung dengan laju sama pada keadaan setimbang. Perubahan konsentrasi, tekanan, atau suhu dapat menggeser komposisi kesetimbangan. Prinsip ini membantu memahami proses industri dan sistem biologis.
-BAB 13 —— KINETIKA DAN KATALIS
+BAB 13 — KINETIKA DAN KATALIS
 Kinetika mempelajari laju reaksi dan faktor yang memengaruhinya. Suhu, konsentrasi, luas permukaan, serta katalis dapat mengubah laju. Katalis menyediakan jalur reaksi alternatif dengan energi aktivasi lebih rendah dan tidak habis secara keseluruhan.
 Persamaan laju harus ditentukan melalui eksperimen; tidak selalu dapat disimpulkan hanya dari koefisien reaksi. Pengukuran yang teliti dan pengendalian kondisi diperlukan untuk membandingkan laju.
 LATIHAN PENDALAMAN
@@ -92,25 +92,25 @@ LATIHAN PENDALAMAN
 4. Mengapa katalis mempercepat reaksi? Jawaban: menyediakan jalur dengan energi aktivasi lebih rendah.
 
 PENDALAMAN LANJUTAN: IKATAN, REAKSI, DAN PERHITUNGAN KIMIA
-BAB 14 —— STRUKTUR ATOM DAN TABEL PERIODIK
+BAB 14 — STRUKTUR ATOM DAN TABEL PERIODIK
 Atom terdiri atas inti yang mengandung proton dan neutron serta elektron yang menempati keadaan energi tertentu. Nomor atom menunjukkan jumlah proton, sedangkan nomor massa merupakan jumlah proton dan neutron. Isotop memiliki jumlah proton sama tetapi jumlah neutron berbeda.
 Tabel periodik menyusun unsur berdasarkan nomor atom dan pola sifat. Unsur dalam satu golongan sering memiliki pola elektron valensi serupa, tetapi tren periodik perlu dipahami sebagai kecenderungan, bukan aturan tanpa pengecualian.
-BAB 15 —— IKATAN KIMIA DAN BENTUK MOLEKUL
+BAB 15 — IKATAN KIMIA DAN BENTUK MOLEKUL
 Ikatan ion terbentuk melalui interaksi elektrostatik antara ion, sedangkan ikatan kovalen melibatkan pemakaian pasangan elektron bersama. Ikatan logam menjelaskan banyak sifat logam seperti konduktivitas dan kemampuan ditempa.
 Bentuk molekul dipengaruhi susunan pasangan elektron. Bentuk dan polaritas molekul memengaruhi titik didih, kelarutan, dan interaksi antarmolekul. Rumus struktur memberi informasi yang tidak tampak dari rumus molekul saja.
-BAB 16 —— MOL DAN STOIKIOMETRI
+BAB 16 — MOL DAN STOIKIOMETRI
 Mol menghubungkan jumlah partikel dengan besaran makroskopis. Massa molar digunakan untuk mengubah massa menjadi jumlah mol. Persamaan reaksi setara menunjukkan perbandingan jumlah zat yang bereaksi dan terbentuk.
 Dalam perhitungan stoikiometri, tentukan reaktan pembatas, yaitu zat yang habis lebih dahulu menurut perbandingan reaksi. Hasil teoritis berbeda dari hasil aktual karena reaksi dapat tidak sempurna, terjadi reaksi samping, atau ada kehilangan saat pemisahan.
-BAB 17 —— ASAM, BASA, DAN KESETIMBANGAN
+BAB 17 — ASAM, BASA, DAN KESETIMBANGAN
 Asam dan basa memiliki beberapa definisi. Dalam model Brønsted-Lowry, asam mendonorkan proton dan basa menerimanya. Skala pH berkaitan dengan aktivitas ion hidrogen dalam larutan dan tidak selalu cukup dijelaskan sebagai ukuran konsentrasi sederhana pada semua kondisi.
 Kesetimbangan dinamis terjadi ketika laju reaksi maju dan balik sama. Perubahan suhu, tekanan, atau konsentrasi dapat menggeser komposisi kesetimbangan sesuai prinsip Le Chatelier, dengan rincian bergantung pada sistem.
-BAB 18 —— LAJU REAKSI DAN KATALIS
+BAB 18 — LAJU REAKSI DAN KATALIS
 Laju reaksi dipengaruhi konsentrasi, suhu, luas permukaan, tekanan untuk gas, dan katalis. Katalis menyediakan jalur reaksi alternatif dengan energi aktivasi lebih rendah dan tidak dikonsumsi secara keseluruhan.
 Model tumbukan menjelaskan bahwa partikel perlu bertumbukan dengan energi dan orientasi yang sesuai. Persamaan laju ditentukan secara eksperimen dan tidak selalu sama dengan koefisien pada persamaan reaksi keseluruhan.
-BAB 19 —— KIMIA DALAM INDUSTRI DAN LINGKUNGAN
+BAB 19 — KIMIA DALAM INDUSTRI DAN LINGKUNGAN
 Proses industri mengoptimalkan hasil, energi, biaya, keselamatan, dan limbah. Prinsip kimia hijau mendorong pencegahan limbah, penggunaan bahan lebih aman, efisiensi energi, dan desain produk yang lebih mudah terurai atau didaur ulang.
 Analisis dampak harus mencakup seluruh siklus hidup bahan. Mengganti satu bahan dengan bahan lain tidak otomatis lebih ramah lingkungan jika proses produksi atau pembuangannya lebih berdampak.
-BAB 20 —— PRAKTIK ILMIAH DAN KESELAMATAN
+BAB 20 — PRAKTIK ILMIAH DAN KESELAMATAN
 Setiap eksperimen memiliki tujuan, variabel, prosedur, dan risiko. Label bahan, lembar data keselamatan, alat pelindung, ventilasi, serta prosedur pembuangan harus dipahami sebelum kegiatan. Bahan tidak boleh dicampur sembarangan atau dicicipi.
 Catat hasil asli, termasuk data yang tidak sesuai harapan. Laporkan satuan, ketidakpastian, dan penyimpangan prosedur secara terbuka.
 LATIHAN PENDALAMAN
@@ -120,17 +120,17 @@ LATIHAN PENDALAMAN
 4. Mengapa hasil eksperimen harus mencatat penyimpangan prosedur? Jawaban: agar interpretasi dapat dinilai dan diulang dengan benar.
 
 PENDALAMAN KIMIA DAN PENERAPAN
-BAB 21 —— IKATAN KIMIA DAN BENTUK MOLEKUL
+BAB 21 — IKATAN KIMIA DAN BENTUK MOLEKUL
 Ikatan ion terbentuk melalui interaksi elektrostatik ion, sedangkan ikatan kovalen melibatkan pasangan elektron yang digunakan bersama. Ikatan logam melibatkan elektron terdelokalisasi. Bentuk molekul dipengaruhi susunan pasangan elektron dan memengaruhi polaritas serta sifat zat.
-BAB 22 —— LARUTAN DAN KONSENTRASI
+BAB 22 — LARUTAN DAN KONSENTRASI
 Larutan terdiri atas zat terlarut dan pelarut. Konsentrasi dapat dinyatakan sebagai molaritas, persen massa, atau satuan lain sesuai konteks. Pengenceran mengubah konsentrasi tanpa mengubah jumlah zat terlarut, selama tidak ada reaksi atau kehilangan bahan.
-BAB 23 —— ASAM, BASA, DAN PENYANGGA
+BAB 23 — ASAM, BASA, DAN PENYANGGA
 Asam dan basa dapat dijelaskan melalui beberapa teori. Skala pH berkaitan dengan aktivitas ion hidrogen dalam larutan. Larutan penyangga menahan perubahan pH ketika sejumlah kecil asam atau basa ditambahkan. Kapasitas penyangga terbatas dan bergantung komposisi.
-BAB 24 —— REDOKS DAN ELEKTROKIMIA
+BAB 24 — REDOKS DAN ELEKTROKIMIA
 Reaksi redoks melibatkan perpindahan elektron atau perubahan bilangan oksidasi. Oksidasi dan reduksi selalu terjadi berpasangan. Sel elektrokimia mengubah energi kimia dan listrik; baterai merupakan penerapan penting. Korosi adalah proses elektrokimia yang dapat diperlambat melalui desain, pelapisan, dan pemeliharaan.
-BAB 25 —— POLIMER DAN MATERIAL
+BAB 25 — POLIMER DAN MATERIAL
 Polimer tersusun dari unit berulang dan dapat bersifat alami atau sintetis. Sifatnya dipengaruhi struktur rantai, ikatan silang, massa molekul, dan aditif. Pemilihan material mempertimbangkan kekuatan, suhu operasi, ketahanan kimia, penggunaan, serta pengelolaan limbah.
-BAB 26 —— KIMIA LINGKUNGAN DAN KESELAMATAN
+BAB 26 — KIMIA LINGKUNGAN DAN KESELAMATAN
 Kimia lingkungan mengkaji perubahan zat di udara, air, dan tanah. Konsentrasi pencemar harus ditafsirkan bersama jalur paparan, durasi, dan standar yang relevan. Praktik laboratorium membutuhkan label, alat pelindung, ventilasi, dan prosedur pembuangan. Jangan mencampur bahan yang tidak dikenal; ikuti petunjuk guru dan lembar data keselamatan.
 LATIHAN
 1. Apa beda ikatan ion dan kovalen? Ikatan ion melibatkan tarik-menarik ion; kovalen berbagi pasangan elektron.
@@ -192,88 +192,88 @@ Pengolahan air memanfaatkan proses fisika dan kimia seperti penyaringan, pengend
 
 PENGAYAAN LANJUTAN — KIMIA DALAM KEHIDUPAN DAN TEKNOLOGI
 
-BAB 27 —— WUJUD MATERI DAN PERUBAHAN FASE
+BAB 27 — WUJUD MATERI DAN PERUBAHAN FASE
 Materi dapat berada dalam wujud padat, cair, gas, dan plasma. Perbedaan wujud berkaitan dengan susunan, jarak, gerak partikel, dan kekuatan interaksi antarpartikel. Dalam padatan, partikel bergetar di sekitar posisi yang relatif tetap. Dalam cairan, partikel dapat berpindah sambil tetap berinteraksi dekat. Dalam gas, partikel berjauhan dan bergerak lebih bebas. Plasma merupakan gas terionisasi yang mengandung partikel bermuatan.
 Perubahan fase meliputi peleburan, pembekuan, penguapan, pengembunan, sublimasi, dan deposisi. Perubahan fase fisik tidak mengubah identitas kimia zat. Es yang mencair tetap tersusun dari molekul air. Sebaliknya, pembakaran menghasilkan zat baru melalui perubahan susunan kimia.
 Pada zat murni dan tekanan tetap, suhu dapat relatif konstan selama perubahan fase karena energi digunakan untuk mengubah susunan dan interaksi partikel. Pada campuran, perubahan fase dapat berlangsung dalam rentang suhu. Diagram pemanasan membantu membedakan perubahan suhu dari perubahan fase.
 Pertanyaan: mengapa penguapan air bukan reaksi kimia? Jelaskan dengan menyebut identitas molekul sebelum dan sesudah proses.
 
-BAB 28 —— GAS DAN MODEL PARTIKEL
+BAB 28 — GAS DAN MODEL PARTIKEL
 Gas mengisi ruang wadah karena partikelnya bergerak acak dan menyebar. Model gas ideal menganggap ukuran partikel dapat diabaikan dibanding volume wadah, tumbukan bersifat lenting, dan interaksi antarmolekul diabaikan kecuali saat tumbukan. Model ini berguna sebagai pendekatan pada tekanan relatif rendah dan suhu yang tidak dekat dengan pengembunan.
 Tekanan gas timbul dari tumbukan partikel dengan dinding wadah. Pada volume tetap, kenaikan suhu mutlak meningkatkan energi kinetik rata-rata partikel sehingga tekanan cenderung naik. Pada suhu tetap, tekanan dan volume berhubungan terbalik untuk jumlah gas tertentu. Hubungan umum gas ideal ditulis PV = nRT.
 Dalam persamaan tersebut, P adalah tekanan, V volume, n jumlah mol, R konstanta gas, dan T suhu dalam kelvin. Suhu Celsius harus dikonversi ke kelvin sebelum digunakan. Satuan tekanan, volume, dan nilai R harus konsisten.
 Gas nyata menyimpang dari model ideal pada tekanan tinggi atau ketika suhu mendekati kondensasi. Pada keadaan tersebut, ukuran partikel dan gaya antarmolekul menjadi lebih penting. Model ilmiah dipilih berdasarkan kondisi, bukan digunakan tanpa batas.
 Latihan: jelaskan mengapa suhu mutlak diperlukan dalam persamaan gas dan sebutkan dua kondisi ketika model ideal kurang tepat.
 
-BAB 29 —— TERMOKIMIA DAN PERUBAHAN ENERGI
+BAB 29 — TERMOKIMIA DAN PERUBAHAN ENERGI
 Termokimia mempelajari perubahan energi yang menyertai reaksi dan perubahan fisik. Sistem adalah bagian yang dikaji, sedangkan lingkungan adalah segala sesuatu di luar sistem. Energi dapat berpindah sebagai kalor atau kerja. Batas sistem perlu dinyatakan agar arah perpindahan energi tidak membingungkan.
 Proses eksoterm melepaskan energi dari sistem ke lingkungan. Pada tekanan tetap, perubahan entalpi sistem bernilai negatif. Proses endoterm menyerap energi ke dalam sistem sehingga perubahan entalpinya positif. Tanda tersebut merujuk pada sistem, bukan pada perasaan hangat atau dingin pengamat.
 Hukum Hess menyatakan perubahan entalpi total tidak bergantung pada jalur reaksi jika keadaan awal dan akhir sama. Jika persamaan reaksi dibalik, tanda perubahan entalpi dibalik. Jika koefisien dikalikan faktor tertentu, perubahan entalpi juga dikalikan faktor itu.
 Contoh penalaran: suatu reaksi dapat berlangsung melalui dua tahap. Jika perubahan entalpi kedua tahap diketahui, perubahan entalpi total diperoleh dengan menjumlahkan keduanya setelah persamaan disesuaikan. Perhatikan keadaan zat dan koefisien.
 Nilai termokimia berlaku pada kondisi acuan tertentu. Pengukuran nyata dipengaruhi kehilangan kalor, kemurnian sampel, dan ketidakpastian alat. Bab ini bersifat konseptual dan bukan petunjuk melakukan pembakaran atau pencampuran bahan.
 
-BAB 30 —— KINETIKA, ENERGI AKTIVASI, DAN KATALIS
+BAB 30 — KINETIKA, ENERGI AKTIVASI, DAN KATALIS
 Laju reaksi menyatakan perubahan konsentrasi pereaksi atau produk terhadap waktu. Persamaan laju dapat berbentuk laju = k[A]^m[B]^n. Pangkat m dan n harus ditentukan melalui eksperimen untuk reaksi yang dikaji; nilainya tidak selalu sama dengan koefisien persamaan reaksi total.
 Teori tumbukan menyatakan partikel perlu bertumbukan dengan energi cukup dan orientasi yang sesuai agar reaksi berlangsung. Energi minimum untuk mencapai keadaan transisi disebut energi aktivasi. Katalis menyediakan jalur alternatif dengan energi aktivasi lebih rendah.
 Katalis mempercepat reaksi maju dan balik, sehingga sistem mencapai kesetimbangan lebih cepat. Katalis tidak mengubah tetapan kesetimbangan pada suhu yang sama dan tidak mengubah energi total antara keadaan awal dan akhir. Oleh sebab itu, katalis tidak otomatis membuat hasil kesetimbangan menjadi lebih banyak.
 Suhu dapat meningkatkan laju karena lebih banyak partikel memiliki energi yang cukup untuk melampaui penghalang aktivasi. Konsentrasi, luas permukaan, tekanan gas, dan sifat zat juga dapat memengaruhi laju.
 Pertanyaan: mengapa katalis mempercepat tercapainya kesetimbangan tanpa menggeser komposisi kesetimbangan? Jawaban harus menyebut pengaruhnya pada reaksi maju dan balik.
 
-BAB 31 —— KESETIMBANGAN KIMIA
+BAB 31 — KESETIMBANGAN KIMIA
 Kesetimbangan kimia terjadi pada sistem tertutup ketika laju reaksi maju dan balik sama. Konsentrasi zat tidak harus sama; yang tetap adalah konsentrasi makroskopis pada keadaan setimbang. Kesetimbangan bersifat dinamis karena reaksi tetap berlangsung pada tingkat partikel.
 Untuk reaksi aA + bB ⇌ cC + dD, tetapan kesetimbangan konsentrasi secara sederhana ditulis Kc = [C]^c[D]^d / ([A]^a[B]^b). Zat padat murni dan cairan murni tidak dimasukkan dalam bentuk sederhana ini. Nilai K bergantung pada suhu.
 Jika K besar, produk relatif lebih dominan pada kesetimbangan; jika K kecil, pereaksi relatif lebih dominan. Nilai K tidak menjelaskan cepat atau lambatnya sistem mencapai kesetimbangan. Laju dan komposisi kesetimbangan merupakan dua hal berbeda.
 Prinsip Le Chatelier membantu memperkirakan respons sistem terhadap perubahan konsentrasi, tekanan, atau suhu. Arah pergeseran akibat perubahan suhu bergantung pada sifat endoterm atau eksoterm reaksi maju. Perhitungan rinci tetap memerlukan persamaan yang sesuai.
 Dalam industri, kondisi operasi dipilih dengan mempertimbangkan hasil, laju, biaya, keselamatan, dan ketahanan peralatan. Kondisi yang memberi hasil kesetimbangan paling tinggi belum tentu paling efisien secara keseluruhan.
 
-BAB 32 —— SEL GALVANI DAN ENERGI LISTRIK
+BAB 32 — SEL GALVANI DAN ENERGI LISTRIK
 Elektrokimia menghubungkan reaksi redoks dengan energi listrik. Oksidasi adalah pelepasan elektron, sedangkan reduksi adalah penerimaan elektron. Kedua proses terjadi berpasangan karena elektron yang dilepaskan harus diterima oleh spesies lain.
 Dalam sel galvanik, reaksi redoks spontan menghasilkan arus listrik melalui rangkaian luar. Oksidasi berlangsung di anode dan reduksi di katode. Elektron mengalir melalui rangkaian luar dari anode menuju katode. Jalur ionik menjaga keseimbangan muatan dalam larutan.
 Baterai primer dirancang untuk penggunaan utama sekali, sedangkan baterai sekunder dapat diisi ulang melalui reaksi yang dipaksa berjalan ke arah sebaliknya oleh sumber energi luar. Kinerja baterai dipengaruhi bahan elektroda, elektrolit, suhu, laju pemakaian, dan usia.
 Baterai bekas memerlukan pengelolaan sesuai jenisnya. Pengumpulan dan daur ulang mengurangi risiko pencemaran serta memungkinkan sebagian material dipulihkan. Jangan membongkar atau merusak baterai; ikuti sistem pengumpulan resmi.
 Pertanyaan: mengapa elektron dan ion menempuh jalur berbeda dalam sel galvanik? Jelaskan fungsi rangkaian luar dan elektrolit.
 
-BAB 33 —— ELEKTROLISIS DAN PENERAPAN INDUSTRI
+BAB 33 — ELEKTROLISIS DAN PENERAPAN INDUSTRI
 Elektrolisis menggunakan energi listrik untuk mendorong reaksi redoks yang tidak spontan pada kondisi yang dikaji. Oksidasi tetap berlangsung di anode dan reduksi di katode. Namun, tanda muatan elektroda pada sel elektrolisis berbeda dari sel galvanik. Karena itu, lokasi reaksi sebaiknya diingat berdasarkan proses kimianya.
 Hukum Faraday menghubungkan jumlah zat yang terbentuk pada elektroda dengan muatan listrik yang melewati sel. Muatan total berhubungan dengan arus dan waktu. Perhitungan juga memerlukan jumlah elektron dalam reaksi dan massa molar zat.
 Elektrolisis diterapkan pada pemurnian logam, pelapisan permukaan, dan produksi bahan industri. Hasil proses dipengaruhi komposisi elektrolit, kondisi elektroda, arus, suhu, dan pengendalian proses. Industri memerlukan prosedur keselamatan, ventilasi, pengelolaan limbah, dan pemantauan mutu.
 Pembahasan ini bersifat konseptual, bukan petunjuk merakit alat atau menangani larutan reaktif. Kegiatan elektrokimia hanya dilakukan dalam fasilitas pendidikan yang sesuai dan di bawah pengawasan kompeten.
 Latihan: bandingkan sel galvanik dan elektrolisis berdasarkan spontanitas reaksi, sumber energi, dan perubahan energi.
 
-BAB 34 —— KIMIA ORGANIK DAN STRUKTUR KARBON
+BAB 34 — KIMIA ORGANIK DAN STRUKTUR KARBON
 Kimia organik mempelajari banyak senyawa karbon. Karbon dapat membentuk empat ikatan kovalen dan berikatan dengan atom karbon lain sehingga menghasilkan rantai, cincin, dan struktur bercabang. Variasi susunan atom menghasilkan senyawa dengan sifat yang berbeda.
 Hidrokarbon hanya mengandung karbon dan hidrogen. Alkana memiliki ikatan tunggal karbon-karbon, alkena memiliki setidaknya satu ikatan rangkap dua, dan alkuna memiliki setidaknya satu ikatan rangkap tiga. Senyawa aromatik memiliki sistem elektron terdelokalisasi pada struktur cincin tertentu.
 Gugus fungsi memberi pola reaktivitas khas. Alkohol memiliki gugus hidroksil, aldehida dan keton memiliki gugus karbonil pada posisi berbeda, asam karboksilat memiliki gugus karboksil, dan ester memiliki pola ikatan khas yang dijumpai pada banyak bahan alami maupun sintetis.
 Isomer memiliki rumus molekul sama tetapi susunan berbeda. Isomer struktur berbeda dalam keterhubungan atom, sedangkan stereoisomer berbeda dalam susunan ruang. Perbedaan susunan dapat memengaruhi titik didih, kelarutan, bau, dan interaksi biologis.
 Rumus molekul saja belum selalu cukup untuk menentukan sifat zat. Rumus struktur, bentuk tiga dimensi, dan gugus fungsi juga perlu diperhatikan.
 
-BAB 35 —— BIOMOLEKUL DAN KIMIA KEHIDUPAN
+BAB 35 — BIOMOLEKUL DAN KIMIA KEHIDUPAN
 Karbohidrat mencakup gula sederhana dan polimer seperti pati serta selulosa. Susunan ikatan antargula memengaruhi sifat dan kemampuan organisme memanfaatkannya. Lipid merupakan kelompok molekul yang cenderung kurang larut dalam air. Trigliserida menyimpan energi, fosfolipid membentuk bagian penting membran sel, dan steroid memiliki struktur cincin khas.
 Protein tersusun dari asam amino yang dihubungkan oleh ikatan peptida. Urutan asam amino memengaruhi pelipatan dan struktur tiga dimensi. Bentuk protein berhubungan dengan fungsinya. Suhu, pH, dan kondisi kimia tertentu dapat mengubah struktur protein atau menyebabkan denaturasi.
 Enzim adalah katalis biologis yang mempercepat reaksi dengan selektivitas tinggi. Enzim memiliki kondisi kerja optimum yang bergantung pada jenis dan lingkungannya. Perubahan suhu atau pH dapat mengubah bentuk sisi aktif dan memengaruhi aktivitas.
 DNA dan RNA merupakan asam nukleat yang berperan dalam penyimpanan dan penggunaan informasi genetik. Nukleotida tersusun dari gula, fosfat, dan basa nitrogen. Kimia biomolekul menghubungkan kimia dengan biologi, pangan, dan kesehatan.
 Bab ini menjelaskan konsep molekuler umum, bukan saran diet, diagnosis, atau pengobatan.
 
-BAB 36 —— KIMIA AIR DAN PENGOLAHAN
+BAB 36 — KIMIA AIR DAN PENGOLAHAN
 Air memiliki sifat khusus karena molekulnya polar dan dapat membentuk ikatan hidrogen. Sifat tersebut memengaruhi kapasitas kalor, tegangan permukaan, pelarutan ion, dan perilaku fase. Air merupakan pelarut penting, tetapi tidak semua zat larut di dalamnya.
 Kesadahan air terutama berkaitan dengan ion kalsium dan magnesium. Kesadahan dapat memengaruhi pembentukan kerak dan penggunaan sabun. Pengolahan air dapat mencakup koagulasi, flokulasi, sedimentasi, filtrasi, adsorpsi, dan disinfeksi. Proses dipilih berdasarkan karakter air baku dan standar mutu.
 Kekeruhan, warna, bau, dan rasa bukan ukuran lengkap keamanan air. Kontaminan mikrobiologi dan kimia mungkin tidak terlihat. Air yang tampak jernih belum tentu memenuhi persyaratan untuk diminum.
 Pengujian kualitas air mencakup parameter fisika, kimia, dan biologi. Hasil perlu dibandingkan dengan standar resmi yang berlaku dan ditafsirkan oleh pihak kompeten. Pengolahan rumah tangga tidak selalu menghilangkan seluruh jenis kontaminan.
 Kegiatan belajar yang aman dapat menggunakan data kualitas air yang diterbitkan lembaga resmi, bukan mencicipi sampel atau mencampur bahan kimia sendiri.
 
-BAB 37 —— KIMIA ATMOSFER DAN IKLIM
+BAB 37 — KIMIA ATMOSFER DAN IKLIM
 Atmosfer merupakan campuran gas dengan komposisi yang berubah menurut ketinggian dan kondisi. Nitrogen dan oksigen adalah komponen utama udara kering, sedangkan uap air bervariasi. Gas jejak seperti karbon dioksida, metana, dan ozon memiliki peran penting dalam proses atmosfer.
 Efek rumah kaca alami terjadi karena sebagian gas atmosfer menyerap dan memancarkan kembali radiasi inframerah. Peningkatan konsentrasi gas rumah kaca akibat aktivitas manusia memperkuat ketidakseimbangan energi Bumi. Kimia atmosfer mempelajari sumber, reaksi, perpindahan, dan penghilangan gas serta aerosol.
 Ozon di stratosfer membantu menyerap radiasi ultraviolet tertentu, sedangkan ozon dekat permukaan dapat menjadi polutan. Zat yang sama dapat memiliki dampak berbeda menurut lokasi dan konteks. Hujan asam berkaitan dengan pembentukan asam dari emisi sulfur dan nitrogen oksida.
 Saat membaca informasi iklim, bedakan cuaca harian dari tren jangka panjang. Periksa rentang data, metode, dan sumber. Kesimpulan ilmiah harus sebanding dengan bukti yang tersedia.
 
-BAB 38 —— KIMIA PANGAN DAN PENYIMPANAN
+BAB 38 — KIMIA PANGAN DAN PENYIMPANAN
 Pangan merupakan campuran air, karbohidrat, protein, lipid, mineral, vitamin, dan senyawa lain. Reaksi selama pengolahan dan penyimpanan dapat mengubah warna, aroma, tekstur, serta mutu.
 Pencokelatan enzimatis melibatkan enzim dan senyawa fenolik pada jaringan pangan yang terpapar oksigen. Pencokelatan nonenzimatis dapat melibatkan reaksi Maillard antara gugus karbonil dan amino. Karamelisasi merupakan perubahan kimia gula akibat pemanasan. Ketiganya memiliki mekanisme berbeda.
 Oksidasi lipid dapat menghasilkan senyawa yang mengubah aroma dan mutu. Cahaya, oksigen, suhu, dan komposisi lemak memengaruhi proses tersebut. Kemasan dan kondisi penyimpanan dirancang untuk memperlambat perubahan yang tidak diinginkan.
 Bahan tambahan pangan memiliki fungsi teknologi tertentu dan penggunaannya diatur standar. Klaim bahwa semua bahan tambahan pasti berbahaya atau pasti aman merupakan penyederhanaan. Keamanan pangan juga dipengaruhi mikroorganisme, kebersihan, suhu, dan cara penanganan.
 
-BAB 39 —— KIMIA ANALITIK DAN MUTU PENGUKURAN
+BAB 39 — KIMIA ANALITIK DAN MUTU PENGUKURAN
 Kimia analitik mengidentifikasi zat dan menentukan kadarnya. Analisis kualitatif menjawab zat apa yang ada, sedangkan analisis kuantitatif mengukur jumlah atau konsentrasi. Metode dipilih berdasarkan tujuan, jenis sampel, batas deteksi, biaya, dan kebutuhan akurasi.
 Kalibrasi menghubungkan respons alat dengan standar yang diketahui. Kurva kalibrasi mengubah sinyal menjadi perkiraan konsentrasi dalam rentang yang tervalidasi. Blanko membantu menilai sinyal latar dan sampel kontrol memantau konsistensi.
 Akurasi menunjukkan kedekatan hasil terhadap nilai acuan, sedangkan presisi menunjukkan kedekatan hasil pengukuran berulang. Hasil dapat presisi tetapi tidak akurat jika terdapat bias sistematis. Pengulangan tidak otomatis memperbaiki alat yang salah kalibrasi.
@@ -323,105 +323,105 @@ Setiap model memiliki asumsi dan batas penggunaan. Pembaca perlu memeriksa satua
 
 BAGIAN III — MEMAHAMI KIMIA SECARA LEBIH MENDALAM
 
-BAB 40 —— CAMPURAN, PEMISAHAN, DAN KEMURNIAN
+BAB 40 — CAMPURAN, PEMISAHAN, DAN KEMURNIAN
 Campuran terbentuk ketika dua atau lebih zat berada bersama tanpa harus membentuk zat baru. Komponen campuran tetap memiliki identitas kimianya, meskipun sifat yang diamati dapat berbeda dari sifat masing-masing komponen. Campuran homogen tampak seragam pada skala pengamatan, sedangkan campuran heterogen memiliki bagian dengan komposisi berbeda.
 Pemisahan campuran memanfaatkan perbedaan sifat fisika. Filtrasi memisahkan partikel padat yang tidak larut dari fluida. Penguapan dapat memisahkan zat terlarut yang tidak mudah menguap dari pelarut. Distilasi memanfaatkan perbedaan kecenderungan menguap dan mengembun. Kromatografi memisahkan komponen berdasarkan perbedaan interaksi dengan fase diam dan fase gerak.
 Tidak ada satu metode yang cocok untuk semua campuran. Pemilihan metode bergantung pada ukuran partikel, kelarutan, titik didih, kestabilan zat, kemurnian yang dibutuhkan, dan dampak lingkungan. Dalam industri, beberapa tahap pemisahan dapat digabungkan untuk mencapai mutu yang ditentukan.
 Kemurnian juga perlu didefinisikan sesuai tujuan. Bahan yang cukup murni untuk satu proses belum tentu memenuhi persyaratan proses lain. Sertifikat analisis dan metode pengujian membantu menjelaskan apa yang sebenarnya diukur.
 Pertanyaan pemahaman: mengapa filtrasi biasa tidak dapat memisahkan garam yang telah larut sempurna dalam air? Jelaskan berdasarkan ukuran partikel dan sifat campuran.
 
-BAB 41 —— KELARUTAN DAN KESETIMBANGAN PELARUTAN
+BAB 41 — KELARUTAN DAN KESETIMBANGAN PELARUTAN
 Kelarutan menyatakan jumlah maksimum zat yang dapat larut dalam pelarut pada kondisi tertentu hingga tercapai kesetimbangan. Nilainya dipengaruhi sifat zat terlarut, pelarut, suhu, dan untuk gas juga tekanan. Ungkapan “serupa melarutkan serupa” merupakan pedoman awal: zat dengan karakter interaksi yang mirip cenderung lebih mudah bercampur, tetapi bukan aturan mutlak.
 Larutan tak jenuh masih dapat melarutkan zat tambahan pada kondisi yang sama. Larutan jenuh berada pada kesetimbangan dengan zat terlarut yang belum larut. Larutan lewat jenuh mengandung zat terlarut lebih banyak daripada keadaan jenuh yang stabil dan dapat mudah membentuk kristal ketika terganggu.
 Untuk banyak padatan, kelarutan meningkat saat suhu naik, tetapi ada pengecualian. Kelarutan gas dalam cairan umumnya menurun ketika suhu meningkat dan meningkat ketika tekanan parsial gas di atas cairan meningkat. Hubungan ini penting untuk memahami gas terlarut di perairan.
 Kelarutan bukan sekadar sifat tetap tanpa konteks. Laporan kelarutan harus menyebutkan suhu, pelarut, satuan, dan metode. Perubahan pH dapat mengubah bentuk kimia zat tertentu sehingga kelarutannya juga berubah.
 Latihan: jelaskan mengapa minuman berkarbonasi lebih mudah kehilangan gas ketika dibiarkan terbuka dan menjadi hangat.
 
-BAB 42 —— SIFAT KOLIGATIF LARUTAN
+BAB 42 — SIFAT KOLIGATIF LARUTAN
 Sifat koligatif berkaitan terutama dengan jumlah partikel zat terlarut, bukan identitas kimianya saja. Contohnya meliputi penurunan tekanan uap, kenaikan titik didih, penurunan titik beku, dan tekanan osmotik. Model sederhana paling sesuai untuk larutan encer dengan perilaku mendekati ideal.
 Ketika zat terlarut nonvolatil ditambahkan, fraksi molekul pelarut pada permukaan berkurang sehingga tekanan uap pelarut cenderung turun. Akibatnya, titik didih larutan dapat lebih tinggi dan titik bekunya dapat lebih rendah dibanding pelarut murni pada tekanan yang sama.
 Tekanan osmotik berkaitan dengan kecenderungan pelarut bergerak melewati membran semipermeabel dari larutan lebih encer menuju larutan lebih pekat. Osmosis berperan dalam sistem biologis, pengawetan pangan, dan teknologi pemurnian air.
 Elektrolit dapat terurai menjadi ion sehingga jumlah partikel efektif berbeda dari jumlah satuan rumus yang dilarutkan. Pada larutan nyata, interaksi ion menyebabkan penyimpangan dari model ideal. Karena itu, perhitungan tingkat lanjut menggunakan faktor koreksi dan kondisi yang dinyatakan jelas.
 Pertanyaan: mengapa dua larutan dengan jumlah partikel terlarut efektif sama dapat menunjukkan perubahan titik beku yang mirip meskipun jenis zat terlarutnya berbeda?
 
-BAB 43 —— TERMODINAMIKA: ENTROPI DAN SPONTANITAS
+BAB 43 — TERMODINAMIKA: ENTROPI DAN SPONTANITAS
 Termodinamika mempelajari perubahan energi dan arah proses. Hukum pertama menyatakan energi total kekal: energi dapat berpindah atau berubah bentuk, tetapi tidak diciptakan dari ketiadaan dalam sistem tertutup. Dalam kimia, perubahan energi sistem perlu dibedakan dari energi yang berpindah ke lingkungan.
 Entropi merupakan besaran yang berkaitan dengan banyaknya cara mikroskopis suatu keadaan dapat diwujudkan. Untuk proses spontan, entropi total sistem dan lingkungan meningkat. Spontan tidak berarti cepat; suatu proses dapat menguntungkan secara termodinamika tetapi berjalan sangat lambat karena penghalang kinetika.
 Energi bebas Gibbs pada suhu dan tekanan tetap membantu menilai spontanitas. Perubahan Gibbs negatif menunjukkan proses maju menguntungkan secara termodinamika pada kondisi tersebut; nilai nol berkaitan dengan kesetimbangan. Tanda perubahan Gibbs tidak menyatakan laju reaksi.
 Suhu, tekanan, komposisi, dan keadaan zat dapat mengubah penilaian termodinamika. Perhitungan harus menggunakan data pada kondisi yang sesuai. Dalam sistem nyata, perubahan kecil kondisi dapat mengubah hasil, terutama ketika sistem dekat dengan kesetimbangan.
 Latihan: berikan contoh proses yang spontan tetapi lambat, lalu jelaskan perbedaan peran termodinamika dan kinetika.
 
-BAB 44 —— DIAGRAM FASE DAN PERUBAHAN KEADAAN
+BAB 44 — DIAGRAM FASE DAN PERUBAHAN KEADAAN
 Diagram fase menunjukkan keadaan stabil suatu zat pada kombinasi suhu dan tekanan. Wilayah diagram dapat menunjukkan fase padat, cair, dan gas. Garis batas menggambarkan kondisi ketika dua fase berada dalam kesetimbangan.
 Titik tripel adalah kondisi ketika tiga fase berada bersama dalam kesetimbangan. Titik kritis menandai batas berakhirnya perbedaan antara cairan dan gas; di atas kondisi kritis, zat dapat berada sebagai fluida superkritis. Konsep ini membantu menjelaskan perilaku zat yang tidak cukup dipahami hanya dengan titik didih pada tekanan biasa.
 Air memiliki perilaku khusus pada diagram fase padat-cair karena es biasa kurang rapat daripada air cair. Kemiringan garis kesetimbangan padat-cair untuk air berbeda dari banyak zat lain. Perilaku tersebut berkaitan dengan struktur ikatan hidrogen pada es.
 Diagram fase digunakan dalam ilmu material, geologi, pengolahan pangan, dan rekayasa. Pembacaan diagram memerlukan perhatian pada satuan tekanan, suhu, kemurnian sampel, serta apakah diagram berlaku untuk zat murni atau campuran.
 Pertanyaan: apa informasi yang dapat diperoleh dari posisi titik pada diagram fase, dan mengapa diagram tersebut harus dibaca bersama kondisi tekanan?
 
-BAB 45 —— KIMIA PERMUKAAN DAN ADSORPSI
+BAB 45 — KIMIA PERMUKAAN DAN ADSORPSI
 Permukaan bahan memiliki lingkungan atom dan molekul yang berbeda dari bagian dalam. Karena itu, proses pada permukaan dapat memengaruhi pembasahan, adhesi, katalisis, korosi, dan interaksi dengan lingkungan. Luas permukaan spesifik yang besar dapat meningkatkan jumlah tempat interaksi.
 Adsorpsi adalah penumpukan molekul atau ion pada permukaan, sedangkan absorpsi berarti masuknya zat ke bagian dalam bahan. Keduanya tidak sama dengan adsorpsi dan absorpsi yang kadang tercampur dalam penggunaan sehari-hari. Karbon aktif memiliki banyak pori dan digunakan sebagai adsorben dalam sejumlah proses pengolahan.
 Adsorpsi fisika umumnya melibatkan interaksi relatif lemah dan dapat bersifat reversibel. Adsorpsi kimia melibatkan pembentukan interaksi kimia yang lebih kuat. Jenis proses bergantung pada pasangan adsorben-adsorbat serta kondisi seperti suhu dan konsentrasi.
 Dalam pengolahan air atau udara, kinerja adsorben dipengaruhi ukuran pori, luas permukaan, waktu kontak, dan keberadaan zat lain yang bersaing. Bahan adsorben yang telah digunakan perlu dikelola dengan benar karena dapat mengandung kontaminan yang terkumpul.
 Latihan: bedakan adsorpsi dan absorpsi dengan contoh konseptual, lalu jelaskan mengapa porositas dapat meningkatkan kemampuan adsorben.
 
-BAB 46 —— KOROSI DAN PERLINDUNGAN MATERIAL
+BAB 46 — KOROSI DAN PERLINDUNGAN MATERIAL
 Korosi adalah penurunan mutu material akibat interaksi dengan lingkungan. Pada logam, korosi sering melibatkan proses elektrokimia: sebagian permukaan mengalami oksidasi dan bagian lain menjadi tempat reaksi reduksi. Air, oksigen, garam, pH, dan kontak antara logam berbeda dapat memengaruhi laju korosi.
 Karat pada besi merupakan campuran produk korosi yang komposisinya dapat berubah menurut kondisi. Korosi bukan sekadar perubahan warna; proses ini dapat mengurangi luas penampang dan kekuatan komponen. Penilaian kerusakan memerlukan pemeriksaan yang sesuai dengan fungsi benda.
 Perlindungan dapat dilakukan melalui pelapisan, pemilihan paduan, desain yang mengurangi perangkap air, pengendalian lingkungan, atau proteksi elektrokimia oleh tenaga kompeten. Cat dan lapisan pelindung berfungsi memisahkan permukaan dari lingkungan. Jika lapisan tergores, perlindungan setempat dapat berkurang.
 Pemilihan cara perlindungan harus mempertimbangkan biaya, umur layanan, kemudahan perawatan, dan dampak bahan pelapis. Pemeriksaan berkala membantu menemukan kerusakan sebelum berkembang menjadi kegagalan besar.
 Pertanyaan: mengapa dua logam yang bersentuhan dalam lingkungan lembap dapat mengalami korosi dengan perilaku berbeda dibanding ketika terpisah?
 
-BAB 47 —— PADUAN DAN HUBUNGAN STRUKTUR DENGAN SIFAT
+BAB 47 — PADUAN DAN HUBUNGAN STRUKTUR DENGAN SIFAT
 Paduan adalah bahan yang mengandung logam dengan satu atau lebih unsur lain untuk memperoleh kombinasi sifat tertentu. Baja merupakan paduan berbasis besi dengan karbon dan kemungkinan unsur tambahan. Kuningan berbasis tembaga dan seng, sedangkan perunggu secara umum berbasis tembaga dan timah, meskipun komposisi komersial dapat bervariasi.
 Atom unsur tambahan dapat mengubah susunan kisi, pergerakan dislokasi, ukuran butir, dan pembentukan fase. Perubahan mikrostruktur memengaruhi kekuatan, kekerasan, keuletan, ketahanan korosi, dan kemampuan diproses.
 Tidak ada paduan yang unggul dalam semua sifat. Bahan untuk rangka bangunan, alat kesehatan, kendaraan, dan perangkat elektronik memiliki persyaratan berbeda. Insinyur memilih komposisi dan perlakuan berdasarkan beban, suhu, lingkungan, umur pakai, serta standar.
 Pengujian material dapat mencakup uji tarik, kekerasan, ketangguhan, dan korosi. Hasil uji harus dilaporkan dengan metode dan kondisi pengujian karena nilai dari metode berbeda belum tentu dapat dibandingkan langsung.
 Latihan: mengapa pemilihan bahan untuk lingkungan laut perlu mempertimbangkan korosi selain kekuatan mekanis?
 
-BAB 48 —— KIMIA DAN CAHAYA: SPEKTROSKOPI
+BAB 48 — KIMIA DAN CAHAYA: SPEKTROSKOPI
 Atom dan molekul dapat menyerap atau memancarkan energi dalam bentuk radiasi elektromagnetik. Energi foton berhubungan dengan frekuensi melalui E = hν. Perbedaan tingkat energi menghasilkan pola interaksi yang dapat digunakan untuk mengenali zat.
 Spektroskopi adalah keluarga metode yang mempelajari interaksi radiasi dengan materi. Spektroskopi serapan mengukur bagian radiasi yang diserap sampel, sedangkan spektroskopi emisi mengamati radiasi yang dipancarkan. Spektrum dapat memberikan informasi tentang unsur, struktur molekul, atau lingkungan kimia.
 Setiap metode memiliki batas. Campuran kompleks dapat menghasilkan pita yang saling tumpang tindih. Konsentrasi, pelarut, suhu, panjang lintasan optik, dan kalibrasi memengaruhi hasil. Interpretasi yang baik memerlukan pembanding, kontrol mutu, serta pemahaman teori.
 Spektroskopi digunakan dalam analisis lingkungan, ilmu pangan, astronomi, forensik, dan pengembangan material. Penggunaan data spektrum harus menyertakan metode, rentang pengukuran, dan ketidakpastian.
 Pertanyaan: mengapa satu puncak spektrum tidak selalu cukup untuk memastikan identitas suatu senyawa dalam sampel campuran?
 
-BAB 49 —— KIMIA NUKLIR DAN ISOTOP
+BAB 49 — KIMIA NUKLIR DAN ISOTOP
 Inti atom terdiri atas proton dan neutron. Beberapa inti tidak stabil dan dapat berubah melalui peluruhan radioaktif, disertai emisi partikel atau radiasi. Isotop suatu unsur memiliki jumlah proton sama, tetapi jumlah neutron berbeda; sifat inti dapat berbeda meskipun sifat kimia umumnya mirip.
 Waktu paruh adalah waktu yang diperlukan jumlah inti radioaktif dalam sampel untuk menjadi setengah dari jumlah awal menurut model peluruhan eksponensial. Waktu paruh merupakan sifat isotop tertentu dan tidak bergantung pada jumlah awal dalam model sederhana.
 Radioisotop digunakan dalam bidang medis, penelitian, industri, dan penentuan umur bahan tertentu. Penggunaan radiasi memerlukan pengendalian ketat, pemantauan dosis, perlindungan, dan pengelolaan limbah sesuai peraturan. Paparan dan risiko bergantung pada jenis radiasi, energi, aktivitas, jalur paparan, dan durasi.
 Pembahasan dalam buku ini hanya menjelaskan prinsip ilmiah. Penanganan sumber radioaktif bukan kegiatan untuk dicoba sendiri dan hanya boleh dilakukan oleh institusi serta tenaga yang memiliki izin dan kompetensi.
 Latihan: jika suatu sampel memiliki waktu paruh 10 hari, jelaskan secara konseptual fraksi yang tersisa setelah 20 hari dalam model ideal.
 
-BAB 50 —— KIMIA KOMPUTASI DAN PEMODELAN
+BAB 50 — KIMIA KOMPUTASI DAN PEMODELAN
 Kimia komputasi menggunakan perhitungan komputer untuk memperkirakan struktur, energi, dan perilaku sistem kimia. Model dapat membantu membandingkan molekul, memahami mekanisme reaksi, atau menyaring kandidat material. Hasil komputasi merupakan prediksi berdasarkan teori, parameter, dan pendekatan tertentu.
 Model sederhana lebih cepat tetapi dapat mengabaikan detail. Model yang lebih rinci membutuhkan sumber daya komputasi lebih besar dan tetap memiliki asumsi. Tidak ada model yang otomatis benar hanya karena menghasilkan angka dengan banyak digit.
 Validasi membandingkan prediksi dengan data eksperimen atau hasil teoretis yang telah teruji. Kalibrasi parameter, pemilihan kondisi awal, dan analisis sensitivitas penting untuk menilai keandalan. Jika data pelatihan tidak mewakili kondisi penggunaan, model dapat menghasilkan prediksi yang buruk.
 Pembelajaran mesin juga digunakan untuk mempelajari pola dari data kimia. Kinerja perlu diuji pada data yang tidak digunakan saat pelatihan. Bias data, kebocoran informasi, dan ketidakpastian prediksi harus dilaporkan.
 Pertanyaan: mengapa prediksi komputer tetap perlu dibandingkan dengan eksperimen dan mengapa data uji harus dipisahkan dari data pelatihan?
 
-BAB 51 —— KIMIA HIJAU DAN SIKLUS HIDUP PRODUK
+BAB 51 — KIMIA HIJAU DAN SIKLUS HIDUP PRODUK
 Kimia hijau berupaya merancang bahan dan proses yang mengurangi atau menghindari penggunaan serta pembentukan zat berbahaya. Prinsipnya mencakup pencegahan limbah, efisiensi atom, pelarut lebih aman, penggunaan energi yang efisien, bahan baku terbarukan bila tepat, dan desain produk yang mempertimbangkan akhir masa pakai.
 Penilaian siklus hidup melihat dampak dari pengambilan bahan baku, produksi, distribusi, penggunaan, hingga pengelolaan akhir. Batas sistem harus dinyatakan. Perbandingan yang hanya menghitung tahap penggunaan dapat mengabaikan dampak besar pada produksi atau pembuangan.
 Istilah “biodegradabel”, “alami”, dan “dapat didaur ulang” perlu dibaca dengan konteks. Bahan yang dapat terurai mungkin memerlukan kondisi khusus. Bahan yang secara teknis dapat didaur ulang belum tentu benar-benar dikumpulkan dan diproses di suatu wilayah.
 Pilihan yang lebih baik biasanya memerlukan data kuantitatif dan skenario yang adil. Pengurangan penggunaan bahan, pemakaian ulang, perbaikan, serta desain tahan lama dapat menjadi bagian strategi, tetapi hasilnya bergantung pada pola penggunaan dan sistem setempat.
 Latihan: buat daftar batas sistem yang harus disepakati sebelum membandingkan dua jenis kemasan berdasarkan dampak lingkungan.
 
-BAB 52 —— MUTU DATA, REPRODUKSIBILITAS, DAN ETIKA
+BAB 52 — MUTU DATA, REPRODUKSIBILITAS, DAN ETIKA
 Data ilmiah harus dapat ditelusuri dari metode hingga kesimpulan. Catatan yang baik mencantumkan tanggal, kondisi, alat, satuan, prosedur, perubahan metode, dan identitas sampel tanpa membuka informasi pribadi yang tidak diperlukan. Data mentah perlu disimpan agar analisis dapat diperiksa.
 Reproduksibilitas berarti hasil dapat diperoleh kembali ketika analisis yang sama diterapkan pada data yang sama. Replikasi eksperimen melibatkan pengumpulan data baru dengan metode yang sebanding. Keduanya membantu menilai ketahanan kesimpulan.
 Memilih hanya hasil yang mendukung dugaan, mengubah data tanpa catatan, atau menghilangkan hasil yang tidak sesuai merupakan praktik yang merusak integritas ilmiah. Hasil negatif atau tidak sesuai harapan tetap dapat memberi informasi jika metode dan keterbatasannya dilaporkan secara jujur.
 Etika penelitian juga mencakup keselamatan, dampak lingkungan, penggunaan sumber daya, atribusi kontribusi, dan perlindungan data. Klaim harus sebanding dengan bukti dan tidak boleh melebih-lebihkan kepastian.
 Pertanyaan: apa perbedaan replikasi eksperimen dan reproduksibilitas analisis, serta mengapa keduanya penting?
 
-BAB 53 —— MEMBACA LABEL DAN INFORMASI BAHAN
+BAB 53 — MEMBACA LABEL DAN INFORMASI BAHAN
 Label produk dapat memuat nama bahan, konsentrasi, simbol bahaya, petunjuk penggunaan, penyimpanan, tanggal, dan informasi produsen. Makna label bergantung pada aturan yang berlaku untuk kategori produk tersebut. Simbol bahaya merupakan petunjuk untuk membaca informasi keselamatan lebih lanjut, bukan dekorasi.
 Nama kimia dan nama dagang tidak selalu sama. Satu bahan dapat memiliki beberapa nama, sementara nama dagang dapat merujuk pada campuran dengan komposisi yang berbeda. Karena itu, pembaca tidak boleh menebak kandungan hanya dari warna, aroma, atau nama pemasaran.
 Lembar data keselamatan memberikan informasi lebih rinci tentang bahaya, penanganan, penyimpanan, pertolongan pertama, dan pengelolaan tumpahan. Informasi tersebut harus digunakan sesuai konteks dan arahan pihak yang bertanggung jawab.
 Produk rumah tangga tidak boleh dicampur untuk membuat percobaan. Ikuti petunjuk pada label, simpan dalam kemasan aslinya, dan jauhkan dari jangkauan anak kecil. Jika informasi tidak jelas, jangan gunakan produk sampai memperoleh penjelasan dari sumber resmi.
 Latihan: jelaskan mengapa dua produk dengan nama pemasaran mirip belum tentu memiliki komposisi atau petunjuk keselamatan yang sama.
 
-BAB 54 —— MENYUSUN LAPORAN KIMIA YANG BAIK
+BAB 54 — MENYUSUN LAPORAN KIMIA YANG BAIK
 Laporan ilmiah menyampaikan pertanyaan, latar belakang, metode, hasil, analisis, kesimpulan, dan sumber. Tujuannya bukan membuat kegiatan tampak berhasil, melainkan menjelaskan apa yang dilakukan dan apa yang dapat disimpulkan dari bukti.
 Bagian metode harus cukup jelas agar pembaca memahami kondisi dan menilai keterulangan. Hasil menyajikan data tanpa mengubahnya agar sesuai dugaan. Tabel dan grafik perlu memiliki judul, label sumbu, satuan, serta keterangan yang diperlukan.
 Pembahasan menghubungkan hasil dengan konsep, membandingkan dengan prediksi, dan menjelaskan kemungkinan sumber ketidakpastian. Kesimpulan menjawab pertanyaan penelitian secara proporsional. Jika data belum cukup, nyatakan keterbatasan alih-alih membuat klaim pasti.
@@ -429,7 +429,7 @@ Sumber informasi harus dicatat secara konsisten. Kutipan langsung, parafrasa, da
 Kerangka sederhana laporan: judul; tujuan; teori singkat; metode yang disetujui guru; data; analisis; kesimpulan; keterbatasan; daftar pustaka. Kegiatan praktikum tetap harus mengikuti instruksi keselamatan dan pengawasan.
 Tugas: pilih satu fenomena kimia dari sumber tepercaya, lalu susun pertanyaan yang dapat dijawab dengan data tanpa melakukan percobaan berisiko.
 
-BAB 55 —— KETERKAITAN KONSEP DAN PETA PEMBELAJARAN
+BAB 55 — KETERKAITAN KONSEP DAN PETA PEMBELAJARAN
 Konsep kimia saling terhubung. Struktur atom membantu menjelaskan tabel periodik. Elektron valensi membantu menjelaskan ikatan. Ikatan dan bentuk molekul membantu menjelaskan sifat fisika serta reaktivitas. Stoikiometri menghubungkan persamaan reaksi dengan jumlah zat, sedangkan termodinamika dan kinetika menjelaskan aspek energi serta laju.
 Kesetimbangan menjelaskan komposisi sistem yang dapat bereaksi maju dan balik. Elektrokimia menghubungkan redoks dengan listrik. Kimia organik dan biomolekul memperlihatkan peran struktur karbon dalam kehidupan. Kimia analitik menyediakan cara memperoleh bukti tentang komposisi, sementara kimia lingkungan mengkaji perpindahan dan dampak zat.
 Saat menghadapi persoalan baru, mulailah dengan mendefinisikan sistem, mengidentifikasi zat dan kondisi, memilih model, memeriksa satuan, lalu menilai apakah asumsi model sesuai. Jangan langsung memasukkan angka ke rumus sebelum memahami makna besaran.

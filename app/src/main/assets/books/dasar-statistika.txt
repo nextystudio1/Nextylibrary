@@ -60,7 +60,6 @@ Bias: penyimpangan sistematis dalam pengumpulan atau analisis.
 CATATAN PENULIS
 Materi ini merupakan pengantar belajar. Untuk penelitian nyata, periksa metode pengumpulan data, sumber, dan asumsi analisis sebelum menarik kesimpulan.
 
-
 PENDALAMAN — ANALISIS DATA DAN KETIDAKPASTIAN
 BAB 7 — POPULASI DAN SAMPEL
 Populasi adalah seluruh kelompok sasaran penelitian, sedangkan sampel adalah bagian yang diamati. Sampel besar belum tentu mewakili populasi jika pemilihannya berat sebelah. Survei daring yang hanya dibagikan melalui satu platform dapat kurang mewakili orang yang jarang menggunakannya. Sampel acak sederhana, berstrata, dan klaster memiliki kelebihan serta keterbatasan yang berbeda.
@@ -126,8 +125,6 @@ LATIHAN
 3. Apakah sampel besar selalu representatif? Tidak; cara pemilihan sampel tetap menentukan bias.
 4. Apakah korelasi membuktikan sebab-akibat? Tidak.
 
-
-
 BAB LANJUTAN — DESAIN SURVEI DAN KUALITAS PENGUKURAN
 
 Survei mengumpulkan informasi dari responden melalui pertanyaan yang disusun sebelumnya. Pertanyaan perlu jelas, tidak menggiring, dan hanya meminta informasi yang diperlukan. Pertanyaan “Anda setuju bahwa layanan ini sangat buruk?” menggiring jawaban; bentuk yang lebih netral menanyakan penilaian responden tanpa menyisipkan kesimpulan.
@@ -155,7 +152,6 @@ Sampel acak: sampel yang dipilih dengan mekanisme peluang.
 Bias nonrespons: penyimpangan karena sebagian kelompok tidak menjawab.
 Validitas: ketepatan alat atau metode mengukur konsep.
 Reliabilitas: konsistensi hasil pengukuran.
-
 
 BAGIAN PENGEMBANGAN — PRAKTIK STATISTIKA SECARA BERTANGGUNG JAWAB
 

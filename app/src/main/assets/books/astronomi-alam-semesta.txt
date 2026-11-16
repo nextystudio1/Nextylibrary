@@ -231,8 +231,6 @@ LATIHAN
 2. Apa yang diukur paralaks? Jawaban: perubahan posisi tampak objek akibat perubahan posisi pengamat.
 3. Mengapa model kosmologi perlu banyak bukti? Jawaban: setiap pengukuran memiliki keterbatasan dan kemungkinan penjelasan alternatif.
 
-
-
 BAB 15 — MEMBACA DATA ASTRONOMI
 
 Astronomi modern menghasilkan data dalam bentuk citra, spektrum, kurva cahaya, dan katalog posisi. Citra memperlihatkan sebaran cahaya pada bidang langit, tetapi tampilannya dipengaruhi panjang gelombang, waktu paparan, sensor, dan pengolahan. Warna pada citra astronomi sering merupakan pemetaan warna untuk membedakan rentang radiasi; warna tersebut tidak selalu sama dengan warna yang akan dilihat mata.
@@ -365,7 +363,6 @@ Mengapa metode jarak astronomi perlu dikalibrasi? Karena hasil satu metode dapat
 
 RANGKUMAN
 Astronomi mengukur alam semesta melalui cahaya, gerak, dan gelombang gravitasi. Jarak, evolusi bintang, galaksi, serta kosmologi dipahami melalui metode yang saling melengkapi dan terus diuji.
-
 
 BAGIAN PENGAYAAN MATERI
 BAB LANJUTAN 1 — CAHAYA SEBAGAI PEMBAWA INFORMASI

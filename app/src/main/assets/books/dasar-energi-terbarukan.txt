@@ -1741,3 +1741,172 @@ Kesinambungan layanan: kemampuan mempertahankan atau memulihkan layanan penting 
 
 CATATAN EDITOR BAGIAN X
 Materi ini memperluas pembahasan pengelolaan permintaan, peramalan, penyimpanan alternatif, adaptasi iklim, ekonomi sirkular, dan literasi energi. Seluruh contoh bersifat pendidikan. Rancangan teknis, pengadaan, dan operasi sistem nyata membutuhkan kajian serta tenaga profesional.
+
+
+
+BAGIAN XI — TEKNOLOGI DAN SISTEM ENERGI DALAM PERSPEKTIF MENDALAM
+
+BAB 92 — DASAR SISTEM KELISTRIKAN DAN KESEIMBANGAN JARINGAN
+
+92.1 Produksi dan konsumsi harus seimbang
+Dalam sistem listrik, produksi dan konsumsi perlu dijaga seimbang setiap saat, dengan memperhitungkan penyimpanan dan pertukaran antarsistem. Ketidakseimbangan dapat memengaruhi frekuensi dan kestabilan. Operator sistem memantau kondisi jaringan dan mengatur sumber yang tersedia sesuai aturan operasi.
+
+92.2 Frekuensi sebagai indikator sistem
+Frekuensi berkaitan dengan keseimbangan daya pada sistem arus bolak-balik. Penyimpangan frekuensi dapat menunjukkan bahwa produksi dan konsumsi tidak seimbang. Sistem modern memiliki pengendalian otomatis dan cadangan untuk merespons perubahan, tetapi kemampuan respons bergantung karakter pembangkit dan jaringan.
+
+92.3 Cadangan operasi
+Cadangan operasi adalah kemampuan tambahan yang disiapkan untuk menghadapi perubahan permintaan atau gangguan. Cadangan dapat berupa kapasitas pembangkit yang siap dinaikkan, penyimpanan, atau respons beban. Kebutuhan cadangan ditentukan oleh ukuran sistem, variasi sumber, risiko gangguan, dan standar keandalan.
+
+92.4 Peran operator
+Operator sistem menggunakan data, prosedur, dan komunikasi untuk menjaga operasi. Keputusan operasi harus mengikuti protokol dan kewenangan. Materi ini menjelaskan konsep umum dan bukan petunjuk untuk mengakses atau mengendalikan infrastruktur listrik nyata.
+
+BAB 93 — MIKROJARINGAN DAN SISTEM ENERGI LOKAL
+
+93.1 Pengertian mikrojaringan
+Mikrojaringan adalah kelompok beban dan sumber energi lokal yang dapat dikelola sebagai satu sistem. Mikrojaringan dapat beroperasi terhubung dengan jaringan utama atau, jika dirancang dan disetujui, dalam mode terpisah. Komponen dapat mencakup pembangkit, penyimpanan, pengendali, dan beban.
+
+93.2 Kebutuhan desain
+Desain perlu memahami profil beban, sumber daya lokal, prioritas layanan, batas jaringan, strategi cadangan, dan kemampuan pengelola. Mode operasi yang berbeda memiliki persyaratan teknis dan keselamatan yang berbeda. Studi proteksi dan koordinasi dengan operator jaringan merupakan bagian penting.
+
+93.3 Manfaat dan keterbatasan
+Mikrojaringan dapat membantu ketahanan layanan lokal dan mengintegrasikan sumber terdistribusi. Namun, sistem memerlukan biaya awal, pengendalian, pemeliharaan, pengujian, dan tata kelola. Sistem lokal tidak otomatis lebih murah atau lebih andal daripada jaringan utama.
+
+93.4 Tata kelola mikrojaringan
+Pengelola perlu menetapkan aturan prioritas, pembagian biaya, pencatatan energi, prosedur gangguan, serta perlindungan data. Pengguna harus memahami batas layanan dan mekanisme pengaduan. Keterlibatan masyarakat sejak awal membantu memastikan sistem menjawab kebutuhan nyata.
+
+BAB 94 — PEMBANGKIT TERDISTRIBUSI DAN PERUBAHAN POLA JARINGAN
+
+94.1 Dari pembangkit terpusat ke sumber tersebar
+Pembangkit terdistribusi berada lebih dekat dengan beban atau tersebar di banyak lokasi. Contohnya dapat berupa sistem surya atap, pembangkit lokal, dan sumber lain yang memenuhi persyaratan jaringan. Penyebaran ini mengubah aliran daya dan kebutuhan pengelolaan jaringan distribusi.
+
+94.2 Tantangan teknis
+Jaringan distribusi awalnya banyak dirancang untuk aliran satu arah dari gardu ke pengguna. Sumber terdistribusi dapat menyebabkan aliran dua arah, perubahan tegangan, dan kebutuhan koordinasi proteksi. Solusi memerlukan studi jaringan, standar interkoneksi, serta peralatan yang sesuai.
+
+94.3 Partisipasi pengguna
+Pengguna dapat menjadi konsumen sekaligus produsen listrik. Peran ini sering disebut prosumer. Aturan pengukuran, kompensasi, ekspor energi, dan tanggung jawab harus dijelaskan secara transparan. Ketentuan dapat berbeda menurut wilayah dan waktu.
+
+94.4 Integrasi yang bertanggung jawab
+Pemasangan sumber terdistribusi harus memenuhi standar dan persyaratan operator. Pemasangan yang tidak sesuai dapat membahayakan pekerja dan mengganggu jaringan. Penilaian teknis dan pemasangan dilakukan pihak berkompeten.
+
+BAB 95 — KENDARAAN LISTRIK DAN HUBUNGANNYA DENGAN JARINGAN
+
+95.1 Energi transportasi
+Kendaraan listrik mengubah sebagian kebutuhan energi transportasi menjadi kebutuhan listrik. Dampak total bergantung pada sumber listrik, jenis kendaraan, pola penggunaan, proses produksi baterai, dan umur kendaraan. Perbandingan dengan kendaraan berbahan bakar perlu memakai jarak tempuh dan layanan yang sebanding.
+
+95.2 Pengisian daya
+Pengisian dapat dilakukan di rumah, tempat kerja, fasilitas umum, atau lokasi khusus. Waktu pengisian memengaruhi beban jaringan. Pengaturan jadwal dapat membantu menghindari jam puncak, tetapi harus memperhatikan kebutuhan perjalanan dan akses pengguna.
+
+95.3 Pengisian cerdas
+Pengisian cerdas mengatur waktu atau daya pengisian berdasarkan sinyal harga, ketersediaan energi, atau kondisi jaringan. Implementasi memerlukan perangkat kompatibel, komunikasi yang aman, dan persetujuan pengguna. Pengguna harus tetap dapat memenuhi kebutuhan mobilitasnya.
+
+95.4 Baterai setelah penggunaan kendaraan
+Baterai yang tidak lagi sesuai untuk kendaraan mungkin masih memiliki kapasitas untuk aplikasi tertentu setelah diuji dan dinilai. Penggunaan ulang memerlukan pemeriksaan kondisi, keselamatan, kompatibilitas, dan tanggung jawab produsen. Baterai yang rusak atau tidak layak harus dikelola melalui jalur yang sesuai.
+
+BAB 96 — HIDROGEN: RANTAI NILAI DAN BATAS PENERAPAN
+
+96.1 Hidrogen sebagai pembawa energi
+Hidrogen bukan sumber energi primer yang tersedia bebas dalam jumlah besar untuk langsung digunakan. Hidrogen perlu diproduksi dari bahan baku dan energi, kemudian disimpan, diangkut, dan digunakan. Setiap tahap memiliki kebutuhan energi dan biaya.
+
+96.2 Jalur produksi
+Hidrogen dapat diproduksi melalui beberapa jalur, termasuk proses yang menggunakan bahan bakar fosil dengan atau tanpa penangkapan karbon, serta elektrolisis air menggunakan listrik. Dampak emisi bergantung sumber energi, proses, kebocoran, dan batas perhitungan. Label warna hidrogen tidak selalu memiliki definisi seragam di semua yurisdiksi.
+
+96.3 Kebutuhan infrastruktur
+Penyimpanan dan pengangkutan hidrogen memerlukan material, tekanan, suhu, dan prosedur khusus. Infrastruktur harus dirancang mengikuti standar keselamatan. Penggunaan hidrogen bukan proyek percobaan rumahan dan tidak boleh dilakukan tanpa fasilitas serta tenaga kompeten.
+
+96.4 Memilih penggunaan
+Hidrogen dapat dipertimbangkan untuk kebutuhan tertentu yang sulit dielektrifikasi secara langsung, tetapi tidak selalu menjadi pilihan paling efisien untuk layanan yang dapat dipenuhi listrik langsung. Analisis perlu membandingkan seluruh rantai konversi, biaya, emisi, dan kebutuhan infrastruktur.
+
+BAB 97 — BAHAN BAKAR SINTETIS DAN KARBON DAUR ULANG
+
+97.1 Konsep bahan bakar sintetis
+Bahan bakar sintetis dapat dibuat dengan menggabungkan hidrogen dan sumber karbon melalui proses industri. Karbon dapat berasal dari berbagai sumber, tetapi asalnya menentukan neraca emisi. Penggunaan karbon yang ditangkap tidak otomatis membuat bahan bakar bebas emisi karena pembakaran akhirnya tetap melepaskan karbon.
+
+97.2 Kebutuhan energi
+Produksi bahan bakar sintetis memerlukan energi untuk menghasilkan hidrogen, menangkap atau menyediakan karbon, dan menjalankan proses sintesis. Konversi berulang menimbulkan kehilangan energi. Karena itu, bahan bakar sintetis perlu dinilai berdasarkan penggunaan akhir dan alternatif yang tersedia.
+
+97.3 Penggunaan khusus
+Bahan bakar sintetis dapat diteliti untuk sektor yang sulit menggunakan baterai atau listrik langsung, tetapi kelayakannya bergantung teknologi, biaya, pasokan energi rendah emisi, dan aturan. Klaim keberlanjutan harus didukung sertifikasi serta metodologi yang transparan.
+
+97.4 Menghindari penghitungan ganda
+Pengurangan emisi harus dihitung dengan batas sistem yang jelas agar penangkapan karbon, penggunaan karbon, dan emisi akhir tidak dihitung secara keliru. Jika karbon berasal dari sumber biologis atau udara, waktu dan keberlanjutan siklusnya juga perlu diperiksa.
+
+BAB 98 — ENERGI LAUT DAN POTENSI PERAIRAN
+
+98.1 Ragam energi laut
+Energi laut dapat berasal dari pasang surut, gelombang, arus, dan perbedaan temperatur atau salinitas. Setiap sumber memiliki karakter lokasi dan teknologi yang berbeda. Sebagian teknologi masih berkembang dan belum memiliki tingkat penerapan luas seperti surya atau angin.
+
+98.2 Tantangan lingkungan
+Instalasi di laut dapat berinteraksi dengan habitat, jalur pelayaran, perikanan, kebisingan bawah air, dan proses pesisir. Penilaian perlu dilakukan berdasarkan lokasi dan teknologi tertentu. Pemantauan setelah pemasangan penting untuk menguji prediksi dampak.
+
+98.3 Tantangan operasi
+Air laut bersifat korosif dan kondisi laut dapat menyulitkan akses pemeliharaan. Perangkat harus dirancang menghadapi gelombang, arus, cuaca, dan biofouling. Biaya operasi serta ketersediaan kapal dan teknisi dapat menentukan kelayakan.
+
+98.4 Peran dalam portofolio
+Energi laut mungkin sesuai untuk lokasi tertentu, tetapi tidak dapat dianggap cocok untuk seluruh pesisir. Perbandingan harus memasukkan profil produksi, kebutuhan jaringan, biaya, dampak, dan tingkat kematangan teknologi.
+
+BAB 99 — PANAS BUMI DAN PEMANFAATAN LANGSUNG PANAS
+
+99.1 Listrik bukan satu-satunya bentuk manfaat
+Panas bumi dapat dimanfaatkan secara langsung untuk pemanasan, pengeringan, proses pertanian, atau kebutuhan lain yang sesuai temperatur. Pemanfaatan langsung dapat menghindari sebagian tahap konversi menjadi listrik, tetapi memerlukan pengguna panas yang dekat dan kebutuhan yang stabil.
+
+99.2 Kesesuaian temperatur
+Setiap proses memerlukan rentang temperatur tertentu. Panas dengan temperatur lebih rendah dapat berguna untuk aplikasi tertentu, tetapi tidak cocok untuk semua proses industri. Kajian harus mengukur kualitas sumber panas dan mencocokkannya dengan kebutuhan pengguna.
+
+99.3 Pemanfaatan bertingkat
+Dalam sistem yang dirancang sesuai, panas dapat digunakan bertingkat untuk beberapa proses dengan kebutuhan temperatur yang menurun. Desain memerlukan analisis termal, jarak, kehilangan panas, dan jadwal kebutuhan. Pemanfaatan bertingkat tidak boleh mengabaikan kualitas fluida atau dampak lingkungan.
+
+99.4 Pengelolaan jangka panjang
+Pemanfaatan panas bumi perlu memperhatikan perubahan sumber, pengelolaan fluida, pemeliharaan, dan pemantauan. Data operasi menjadi dasar untuk memperbarui model dan menjaga keberlanjutan sumber.
+
+BAB 100 — MENGUJI KLAIM TEKNOLOGI BARU
+
+100.1 Klaim kinerja
+Klaim kinerja perlu disertai kondisi pengujian, metode, batas sistem, dan data yang dapat diperiksa. Angka terbaik dalam kondisi laboratorium belum tentu mewakili operasi lapangan. Periksa apakah klaim berasal dari pengujian independen atau hanya materi pemasaran.
+
+100.2 Kematangan teknologi
+Teknologi dapat berada pada tahap konsep, laboratorium, demonstrasi, penerapan awal, atau penggunaan komersial luas. Tahap kematangan memengaruhi risiko biaya, ketersediaan pemasok, dukungan teknis, dan kepastian kinerja. Istilah “terbaru” tidak sama dengan “paling sesuai”.
+
+100.3 Replikasi hasil
+Hasil uji yang dapat diulang oleh pihak independen lebih kuat daripada demonstrasi tunggal. Periksa jumlah sampel, lama pengujian, kondisi operasi, dan apakah hasil negatif dilaporkan. Transparansi metode membantu pembaca menilai kekuatan bukti.
+
+100.4 Keputusan bertahap
+Jika bukti masih terbatas, uji coba dapat dirancang dengan batas skala, pengawasan, indikator, dan rencana penghentian yang jelas. Uji coba tidak boleh mengancam layanan penting atau keselamatan. Keputusan memperluas penerapan dibuat setelah evaluasi hasil dan risiko.
+
+LATIHAN BAGIAN XI
+
+1. Mengapa produksi dan konsumsi listrik perlu diseimbangkan setiap saat?
+2. Apa perbedaan cadangan operasi dan penyimpanan energi?
+3. Sebutkan dua manfaat dan dua tantangan mikrojaringan.
+4. Mengapa pembangkit terdistribusi dapat mengubah pola aliran daya?
+5. Bagaimana pengisian kendaraan listrik dapat memengaruhi beban puncak?
+6. Mengapa hidrogen harus dinilai dari seluruh rantai produksinya?
+7. Jelaskan mengapa bahan bakar sintetis tidak otomatis bebas emisi.
+8. Sebutkan tiga tantangan pengembangan energi laut.
+9. Berikan contoh pemanfaatan langsung panas bumi.
+10. Sebutkan informasi yang harus ada untuk menilai klaim teknologi baru.
+
+PEMBAHASAN RINGKAS BAGIAN XI
+
+1. Karena ketidakseimbangan memengaruhi frekuensi dan kestabilan sistem.
+2. Cadangan operasi adalah kemampuan tambahan untuk merespons perubahan; penyimpanan adalah cara menyimpan energi untuk digunakan kemudian. Penyimpanan dapat menjadi salah satu sumber cadangan.
+3. Manfaatnya dapat berupa ketahanan layanan dan integrasi sumber lokal; tantangannya meliputi biaya, pengendalian, pemeliharaan, dan tata kelola.
+4. Karena sumber dapat memasok energi dari sisi distribusi sehingga aliran tidak selalu satu arah.
+5. Pengisian serentak dapat menambah beban pada jam tertentu; pengaturan jadwal dapat menggeser sebagian kebutuhan.
+6. Karena produksi, kompresi, penyimpanan, transportasi, dan penggunaan memerlukan energi serta dapat menimbulkan emisi.
+7. Proses produksi memerlukan energi dan karbon; pembakaran akhir dapat melepaskan karbon sehingga neraca keseluruhan harus dihitung.
+8. Korosi, akses pemeliharaan, dampak habitat, pelayaran, dan kematangan teknologi.
+9. Pengeringan hasil pertanian atau pemanasan air jika sumber dan kebutuhan sesuai.
+10. Metode uji, kondisi, data, batas sistem, sumber independen, ketidakpastian, dan tahap kematangan.
+
+GLOSARIUM TAMBAHAN BAGIAN XI
+Cadangan operasi: kemampuan tambahan yang disiapkan untuk menjaga keseimbangan dan keandalan sistem.
+Mikrojaringan: kelompok sumber dan beban lokal yang dikelola sebagai satu sistem.
+Prosumer: pengguna yang juga dapat menghasilkan energi.
+Pengisian cerdas: pengaturan waktu atau daya pengisian berdasarkan kondisi sistem dan kebutuhan.
+Biofouling: penumpukan organisme pada permukaan yang terendam air.
+Maturity teknologi: tahap perkembangan teknologi dari konsep hingga penerapan luas.
+Pemanfaatan langsung panas bumi: penggunaan panas bumi tanpa harus mengubahnya menjadi listrik terlebih dahulu.
+Bahan bakar sintetis: bahan bakar yang dibuat melalui proses konversi kimia dari bahan baku tertentu.
+
+CATATAN EDITOR BAGIAN XI
+Bagian ini menguraikan sistem kelistrikan, mikrojaringan, transportasi listrik, hidrogen, bahan bakar sintetis, energi laut, dan pemanfaatan panas bumi. Materi bersifat konseptual dan tidak memberi petunjuk operasi infrastruktur atau bahan berisiko. Penerapan nyata memerlukan standar, izin, dan tenaga ahli.

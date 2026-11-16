@@ -6,7 +6,7 @@ DESKRIPSI
 Mengenal privasi, kata sandi, penipuan digital, perangkat aman, dan perilaku bertanggung jawab di internet.
 
 TUJUAN PEMBELAJARAN
-Setelah mempelajari Keamanan Siber Dasar, pembaca mampu menjelaskan mengenal privasi, kata sandi, penipuan digital, perangkat aman, dan perilaku bertanggung jawab di internet., membedakan istilah yang sering tertukar, menilai contoh berdasarkan bukti, dan menerapkan konsep secara tepat sesuai konteks.
+Setelah mempelajari buku ini, pembaca diharapkan mampu mengenali ancaman digital umum, melindungi akun dan perangkat, menjaga privasi, mengenali upaya penipuan, serta mengetahui cara melaporkan insiden melalui saluran yang aman.
 
 BAB 1. ANCAMAN DIGITAL DAN CARA BERPIKIR AMAN
 
@@ -100,7 +100,7 @@ EVALUASI AKHIR
 5. Jelaskan langkah pelaporan yang aman ketika menemukan dugaan insiden.
 
 PEMBAHASAN DAN ARAH JAWABAN
-Pembahasan Keamanan Siber Dasar harus memperlihatkan alur berpikir: konsep yang dipilih, alasan penerapannya, bukti pendukung, dan batas kesimpulan. Pada soal kasus, nilai kecocokan solusi dengan kondisi. Pada soal verifikasi, periksa asal informasi dan konteksnya.
+Pembahasan Keamanan Siber Dasar menekankan pencegahan dan perlindungan: jangan membuka tautan mencurigakan, jangan membagikan kode rahasia, periksa alamat pengirim melalui kanal resmi, aktifkan autentikasi tambahan, dan minta bantuan orang dewasa tepercaya atau pengelola layanan bila akun terancam.
 
 GLOSARIUM
 Autentikasi: Proses memeriksa identitas pengguna.

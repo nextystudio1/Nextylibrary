@@ -114,7 +114,7 @@ Naskah ini merupakan bahan pembelajaran orisinal yang disusun untuk NextyLibrary
 
 PENDALAMAN MATERI
 
-BAB 6. ARGUMEN DEDUKTIF DAN INDUKTIF
+PENDALAMAN — ARGUMEN DEDUKTIF DAN INDUKTIF
 Penalaran deduktif bergerak dari premis menuju kesimpulan yang harus mengikuti bentuk logisnya jika premis benar. Penalaran induktif menyusun generalisasi dari sejumlah pengamatan, sehingga kesimpulannya bersifat mungkin dan terbuka untuk revisi. Contoh deduktif: semua mamalia bernapas dengan paru-paru; paus adalah mamalia; maka paus bernapas dengan paru-paru. Contoh induktif: beberapa logam yang diamati memuai ketika dipanaskan; dari pengamatan itu dibuat dugaan umum yang perlu diuji lebih luas. Kesalahan terjadi ketika kesimpulan induktif diperlakukan sebagai kepastian mutlak atau ketika bentuk deduktif tidak valid dianggap benar hanya karena kesimpulannya kebetulan benar.
 
 BAB 7. KESALAHAN BERPIKIR

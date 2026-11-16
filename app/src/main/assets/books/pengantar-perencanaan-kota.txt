@@ -129,3 +129,51 @@ Gunakan indikator akses angkutan umum, keselamatan jalan, kualitas udara, ruang 
 
 LATIHAN
 Pilih satu masalah perkotaan. Buat peta pihak terdampak, penyebab, hubungan dengan sistem kota lain, tiga alternatif kebijakan, dan indikator untuk mengevaluasi hasilnya.
+
+BAB 12. TATA GUNA LAHAN DAN BENTUK KOTA
+
+Tata guna lahan menggambarkan bagaimana ruang digunakan untuk hunian, perdagangan, industri, fasilitas umum, ruang terbuka, dan fungsi lainnya. Pola penggunaan lahan memengaruhi jarak perjalanan, kebutuhan infrastruktur, harga tanah, serta tekanan lingkungan. Pemisahan fungsi yang terlalu jauh dapat meningkatkan ketergantungan pada kendaraan, sedangkan campuran fungsi yang dirancang baik dapat mendekatkan kegiatan sehari-hari.
+
+Kepadatan tidak selalu berarti kualitas hidup yang buruk atau baik. Dampaknya bergantung pada desain bangunan, akses ruang terbuka, kapasitas layanan, keselamatan, dan kualitas lingkungan. Perencanaan perlu menilai kepadatan bersama akses transportasi, drainase, sekolah, layanan kesehatan, dan ruang publik.
+
+BAB 13. TRANSPORTASI DAN AKSESIBILITAS
+
+Sistem transportasi menghubungkan warga dengan pekerjaan, pendidikan, layanan kesehatan, dan kegiatan sosial. Mobilitas mengukur pergerakan, sedangkan aksesibilitas menilai kemudahan mencapai tujuan yang dibutuhkan. Kebijakan yang hanya mengejar kecepatan kendaraan dapat mengabaikan pejalan kaki, pesepeda, pengguna angkutan umum, anak, lansia, dan penyandang disabilitas.
+
+Perencanaan jaringan perlu mempertimbangkan kesinambungan trotoar, tempat penyeberangan, halte, keterpaduan tarif, keselamatan, dan keterjangkauan. Waktu perjalanan rata-rata dapat menutupi kesenjangan; analisis sebaiknya membandingkan kelompok dan wilayah dengan tetap menjaga privasi data perjalanan.
+
+BAB 14. PERUMAHAN DAN PASAR LAHAN
+
+Pasar lahan dipengaruhi lokasi, akses, regulasi, infrastruktur, dan ekspektasi pertumbuhan. Kenaikan nilai tanah dapat memberi keuntungan kepada pemilik, tetapi juga meningkatkan biaya bagi penyewa dan usaha kecil. Kebijakan perumahan perlu menilai keterjangkauan berdasarkan pendapatan, biaya transportasi, kualitas bangunan, kepastian bermukim, dan akses layanan.
+
+Pembangunan hunian baru tidak otomatis menyelesaikan kekurangan rumah jika lokasi jauh dari pekerjaan atau harga tidak terjangkau kelompok sasaran. Instrumen seperti perumahan terjangkau, peningkatan kawasan, perlindungan penyewa, dan penyediaan lahan publik memiliki konsekuensi yang perlu dievaluasi. Partisipasi warga penting terutama ketika kebijakan berpotensi memindahkan penduduk.
+
+BAB 15. RUANG PUBLIK DAN KEHIDUPAN SOSIAL
+
+Ruang publik menyediakan tempat untuk bergerak, beristirahat, bermain, berinteraksi, dan menyampaikan pendapat. Kualitasnya dipengaruhi akses masuk, kenyamanan, keteduhan, kebersihan, keselamatan, pemeliharaan, serta aturan penggunaan. Ruang yang tampak terbuka belum tentu inklusif jika desain atau pengelolaannya membuat kelompok tertentu tidak nyaman.
+
+Evaluasi ruang publik dapat menggabungkan pengamatan, pemetaan aktivitas, survei sukarela, dan wawancara. Pengamatan harus menghormati privasi; jangan merekam atau mengidentifikasi orang tanpa alasan dan izin yang sesuai. Catat waktu pengamatan karena penggunaan ruang berubah menurut jam, hari, cuaca, dan kegiatan.
+
+BAB 16. DRAINASE, AIR, DAN INFRASTRUKTUR HIJAU
+
+Sistem drainase perkotaan mengelola aliran air hujan melalui saluran, kolam retensi, permukaan resapan, dan infrastruktur lain. Pembangunan yang menambah permukaan kedap dapat mempercepat limpasan. Infrastruktur hijau seperti taman resapan, atap hijau, dan koridor vegetasi dapat melengkapi sistem teknis, tetapi efektivitasnya bergantung pada tanah, topografi, perawatan, dan skala daerah tangkapan.
+
+Masalah banjir tidak selalu dapat diselesaikan dengan memperbesar saluran. Sampah, penyempitan alur, penurunan tanah, pasang, dan perubahan tata guna lahan dapat saling berinteraksi. Perencanaan perlu melihat hubungan hulu-hilir dan tidak memindahkan risiko ke kawasan lain.
+
+BAB 17. DATA SPASIAL DAN SISTEM INFORMASI GEOGRAFIS
+
+Sistem informasi geografis mengelola data yang memiliki lokasi. Data vektor mewakili titik, garis, dan poligon; data raster menyimpan nilai dalam kisi. Setiap data memiliki sistem koordinat, skala, resolusi, tanggal, dan ketelitian. Menggabungkan peta dengan sistem koordinat berbeda tanpa transformasi yang tepat dapat menghasilkan lokasi yang keliru.
+
+Peta bukan cermin netral dari kenyataan. Pemilihan kelas, warna, batas wilayah, dan data yang ditampilkan dapat memengaruhi kesimpulan. Cantumkan sumber, tanggal, metode, dan keterbatasan. Jangan menampilkan lokasi rumah atau informasi sensitif individu jika tidak diperlukan.
+
+STUDI KASUS: MENILAI AKSES KE SEKOLAH
+
+Pilih wilayah kajian dan gunakan data jaringan jalan, lokasi sekolah, serta titik permukiman dalam bentuk agregat. Bandingkan jarak garis lurus dengan jarak melalui jaringan. Identifikasi hambatan seperti sungai, jalan besar, atau minimnya penyeberangan. Jelaskan keterbatasan data dan jangan menganggap jarak sebagai satu-satunya ukuran akses.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Apa perbedaan mobilitas dan aksesibilitas? Mobilitas adalah pergerakan; aksesibilitas adalah kemudahan mencapai tujuan.
+2. Mengapa kepadatan perlu dinilai bersama layanan? Karena dampaknya bergantung pada kapasitas dan kualitas lingkungan.
+3. Mengapa kenaikan nilai lahan dapat menimbulkan masalah sosial? Dapat meningkatkan biaya hunian dan mendorong perpindahan kelompok berpendapatan rendah.
+4. Apa manfaat infrastruktur hijau? Membantu mengelola air dan meningkatkan kualitas ruang, dengan syarat desain dan perawatan sesuai.
+5. Mengapa metadata peta penting? Untuk mengetahui ketelitian, cakupan, waktu, dan batas penggunaan data.

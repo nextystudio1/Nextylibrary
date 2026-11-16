@@ -66,7 +66,7 @@ CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.
 PENDALAMAN MATERI DAN PRAKTIK
 
-BAB 6. SISTEM KOORDINAT DAN REFERENSI
+PENDALAMAN — SISTEM KOORDINAT DAN REFERENSI
 Koordinat menunjukkan posisi suatu tempat menurut sistem acuan tertentu. Koordinat geografis menggunakan lintang dan bujur, sedangkan sistem proyeksi memindahkan permukaan bumi yang melengkung ke bidang datar. Setiap proyeksi memiliki distorsi, sehingga pilihan proyeksi harus sesuai tujuan peta. Sistem referensi koordinat menentukan datum, satuan, dan cara posisi dihitung. Dua lapisan peta dapat tampak bergeser jika memakai sistem referensi berbeda atau transformasi tidak tepat. Sebelum analisis, periksa metadata, satuan, datum, dan wilayah penggunaan. Jangan menganggap angka koordinat dapat dipertukarkan tanpa mengetahui sistemnya.
 
 BAB 7. DATA VEKTOR DAN RASTER

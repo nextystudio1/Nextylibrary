@@ -209,3 +209,25 @@ LATIHAN AKHIR
 3. Berikan contoh titik stasioner yang bukan maksimum atau minimum.
 4. Jelaskan integral sebagai akumulasi.
 5. Buat model optimasi sederhana dan nyatakan batasannya.
+
+BAB 11. LIMIT DAN KONTINUITAS
+Limit menjelaskan perilaku suatu fungsi ketika nilai masukan mendekati titik tertentu. Nilai fungsi di titik itu dapat berbeda atau bahkan tidak terdefinisi, sementara limitnya tetap ada. Kontinuitas pada suatu titik memerlukan fungsi terdefinisi, limit ada, dan keduanya sama. Gagasan ini menjadi dasar untuk memahami turunan dan integral. Saat menghitung limit, periksa domain serta bentuk aljabar sebelum melakukan penyederhanaan.
+
+BAB 12. TURUNAN SEBAGAI LAJU PERUBAHAN
+Turunan mengukur laju perubahan sesaat. Secara geometri, turunan berkaitan dengan kemiringan garis singgung kurva. Jika posisi dinyatakan sebagai fungsi waktu, turunannya menyatakan kecepatan sesaat. Aturan turunan membantu menghitung fungsi polinomial, hasil kali, hasil bagi, dan komposisi. Satuan turunan merupakan satuan keluaran dibagi satuan masukan, sehingga interpretasi harus menyertakan konteks.
+
+BAB 13. APLIKASI TURUNAN DAN OPTIMASI
+Turunan dapat digunakan untuk menemukan titik stasioner dan mempelajari kenaikan atau penurunan fungsi. Dalam optimasi, rumuskan fungsi tujuan dan batasan terlebih dahulu. Titik dengan turunan nol belum tentu maksimum atau minimum; periksa perubahan tanda, turunan kedua, atau batas domain. Hasil matematis perlu ditafsirkan sesuai konteks dan satuan.
+
+BAB 14. INTEGRAL DAN AKUMULASI
+Integral tentu mengukur akumulasi kuantitas yang berubah. Jika laju aliran diketahui terhadap waktu, integralnya memberi jumlah total yang mengalir. Luas bertanda di bawah kurva membantu memahami integral, tetapi daerah di bawah sumbu memiliki kontribusi negatif. Teorema dasar kalkulus menghubungkan diferensiasi dan integrasi. Pemilihan batas serta satuan harus diperiksa.
+
+BAB 15. PENDEKATAN NUMERIK
+Tidak semua integral atau persamaan memiliki penyelesaian sederhana. Metode numerik memberi pendekatan dengan membagi interval menjadi bagian kecil atau memperbaiki tebakan secara berulang. Hasil pendekatan perlu disertai toleransi atau perkiraan galat. Kalkulator dan perangkat lunak membantu perhitungan, tetapi pengguna tetap perlu memeriksa apakah hasil masuk akal.
+
+LATIHAN
+1. Jelaskan makna limit tanpa menggunakan definisi hafalan.
+2. Tafsirkan turunan posisi terhadap waktu.
+3. Mengapa titik dengan turunan nol belum tentu maksimum?
+4. Berikan contoh integral sebagai akumulasi.
+5. Mengapa hasil numerik perlu disertai informasi galat?

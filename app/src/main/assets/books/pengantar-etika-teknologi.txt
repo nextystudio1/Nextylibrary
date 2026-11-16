@@ -25,13 +25,6 @@ LATIHAN
 4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
 5. Bukti apa yang dapat memperkuat jawabanmu?
 
-LATIHAN
-1. Apa konsep utama dalam TEKNOLOGI DAN NILAI?
-2. Bagaimana hubungan konsep tersebut dengan bagian lain dalam buku?
-3. Berikan penerapan baru dan jelaskan langkah berpikirmu.
-4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
-5. Bukti apa yang dapat memperkuat jawabanmu?
-
 BAB 2. PRIVASI DAN DATA
 
 Sistem digital dapat mengumpulkan data perilaku, lokasi, preferensi, dan identitas. Pengumpulan harus memiliki tujuan jelas dan dibatasi pada kebutuhan. Pengguna perlu mendapat penjelasan tentang penggunaan data, penyimpanan, pembagian, dan pilihan pengendalian.

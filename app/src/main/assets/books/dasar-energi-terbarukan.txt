@@ -1422,3 +1422,153 @@ Variabel pendorong: faktor yang memengaruhi hasil atau perkembangan sistem.
 
 CATATAN EDITOR BAGIAN VIII
 Bagian ini menyediakan modul latihan untuk mengolah data, membangun skenario, menilai distribusi biaya dan manfaat, serta menyusun peta jalan. Soal dan angka bersifat edukatif. Hasil kajian nyata harus menggunakan data yang dapat diverifikasi dan ditinjau oleh pihak kompeten.
+
+
+
+BAGIAN IX — STUDI KASUS WILAYAH DAN PENERAPAN TEKNOLOGI
+
+BAB 75 — MEMBACA POTENSI ENERGI SUATU WILAYAH
+
+75.1 Potensi alam bukan kapasitas siap pakai
+Peta potensi surya, angin, hidro, atau panas bumi menunjukkan indikasi sumber daya, bukan jaminan bahwa pembangkit dapat dibangun. Potensi teknis perlu dikaji bersama kondisi lahan, jaringan, akses, tata ruang, lingkungan, dan kebutuhan masyarakat. Potensi ekonomi menambahkan pertimbangan biaya, pembiayaan, dan harga layanan. Ketiga tingkat kajian tersebut tidak boleh dicampur.
+
+75.2 Skala peta dan ketelitian
+Peta berskala luas cocok untuk penyaringan awal, tetapi tidak menggantikan pengukuran lokasi. Resolusi data yang kasar dapat menyembunyikan perbedaan topografi, tutupan awan lokal, atau pola angin di lembah. Peta perlu menyebut sumber, tahun, resolusi, metode, dan batas ketelitian. Jangan menarik kesimpulan pada tingkat bidang tanah dari peta regional.
+
+75.3 Menggabungkan beberapa lapisan informasi
+Kajian wilayah dapat menggabungkan lapisan sumber daya, jaringan listrik, kemiringan lahan, kawasan lindung, permukiman, akses jalan, dan penggunaan lahan. Setiap lapisan harus memiliki sistem koordinat dan tanggal yang sesuai. Ketika lapisan digabung, perbedaan skala serta ketidakpastian perlu diperhatikan. Hasil pemetaan merupakan alat bantu diskusi, bukan keputusan otomatis.
+
+75.4 Validasi lapangan
+Temuan awal perlu diuji dengan data lapangan yang dikumpulkan secara aman dan berizin. Validasi dapat mengungkap hambatan akses, kondisi lahan, penggunaan ruang yang tidak tercatat, atau perbedaan aktual dari data peta. Kegiatan lapangan harus menghormati masyarakat dan tidak memasuki area terbatas tanpa izin.
+
+BAB 76 — STUDI KASUS KONSEPTUAL: SEKOLAH DENGAN BEBAN SIANG HARI
+
+76.1 Gambaran masalah
+Bayangkan sebuah sekolah menggunakan listrik terutama pada pagi hingga sore hari. Beban utamanya berasal dari penerangan, kipas, komputer, pompa air, dan perangkat pembelajaran. Sekolah ingin mengurangi tagihan sekaligus meningkatkan ketahanan layanan. Sebelum memilih teknologi, tim perlu mengumpulkan jadwal penggunaan ruang, data tagihan, kondisi atap, kebutuhan keselamatan, dan rencana pemeliharaan.
+
+76.2 Alternatif pertama: efisiensi
+Langkah awal dapat berupa inventaris perangkat, pemeriksaan jadwal operasi, pemanfaatan cahaya alami, dan penggantian perangkat yang sudah tidak efisien melalui proses pengadaan yang tepat. Penghematan harus diukur dengan membandingkan periode yang setara. Jika jumlah siswa atau jam sekolah berubah, data perlu dinormalisasi.
+
+76.3 Alternatif kedua: pembangkitan surya
+Produksi surya pada siang hari mungkin bertepatan dengan sebagian kebutuhan sekolah. Namun, kecocokan waktu tidak dapat diasumsikan hanya dari total konsumsi bulanan. Profil beban per jam dan perkiraan produksi perlu dibandingkan. Kondisi struktur atap, bayangan, perlindungan petir, keselamatan akses, dan kesiapan pengelola juga harus dinilai oleh tenaga kompeten.
+
+76.4 Pelajaran dari kasus
+Pilihan terbaik dapat berupa kombinasi efisiensi dan pembangkitan, atau hanya efisiensi jika investasi belum layak. Tujuan studi bukan membuktikan bahwa satu teknologi selalu unggul, melainkan mengidentifikasi pilihan yang sesuai kebutuhan, data, dan kemampuan sekolah.
+
+BAB 77 — STUDI KASUS KONSEPTUAL: PULAU DENGAN SISTEM TERPISAH
+
+77.1 Tantangan layanan
+Pulau yang belum terhubung ke jaringan utama dapat bergantung pada pembangkit lokal dan pasokan bahan bakar yang datang melalui laut. Cuaca buruk dapat mengganggu transportasi, sedangkan permintaan dapat berubah karena musim wisata, kegiatan perikanan, atau kebutuhan fasilitas umum. Ketahanan layanan memerlukan perencanaan sumber energi, penyimpanan, cadangan, dan logistik.
+
+77.2 Pemetaan beban penting
+Beban dapat dikelompokkan menurut tingkat kepentingan, misalnya fasilitas kesehatan, komunikasi darurat, air bersih, kegiatan ekonomi, dan kebutuhan rumah tangga. Pengelompokan bukan berarti mengabaikan pengguna lain. Tujuannya memahami konsekuensi gangguan dan menyusun prioritas layanan yang transparan.
+
+77.3 Kombinasi sumber dan penyimpanan
+Surya dapat mengurangi penggunaan bahan bakar pada siang hari, sedangkan penyimpanan dapat membantu memasok beban pada waktu lain. Sumber yang dapat diatur mungkin tetap diperlukan untuk kondisi cuaca panjang atau kebutuhan puncak. Ukuran sistem harus didasarkan pada data cuaca, profil beban, cadangan, serta batas operasi yang ditetapkan perancang profesional.
+
+77.4 Logistik dan kelembagaan
+Suku cadang, teknisi, bahan bakar cadangan, dan komunikasi dengan pemasok menjadi bagian dari rancangan. Pengelola lokal membutuhkan pelatihan dan dukungan jangka panjang. Sistem yang hanya bergantung pada satu orang atau satu pemasok dapat rentan ketika terjadi pergantian personel atau gangguan pasokan.
+
+BAB 78 — STUDI KASUS KONSEPTUAL: KAWASAN PERTANIAN DAN BIOENERGI
+
+78.1 Memetakan aliran bahan
+Sebelum merencanakan bioenergi, petakan jenis residu, jumlah musiman, kadar air, lokasi, penggunaan yang sudah ada, dan biaya pengumpulan. Angka produksi pertanian tidak sama dengan jumlah residu yang dapat diambil. Sebagian residu mungkin dibutuhkan untuk pakan, kompos, perlindungan tanah, atau penggunaan rumah tangga.
+
+78.2 Menilai rantai pengumpulan
+Bahan baku yang tersebar dapat memerlukan biaya angkut tinggi. Kadar air memengaruhi massa yang diangkut dan kebutuhan pengolahan. Penyimpanan dapat menimbulkan kehilangan bahan atau risiko lingkungan jika tidak dikelola. Perhitungan harus mencakup seluruh rantai dari sumber hingga fasilitas konversi.
+
+78.3 Memeriksa manfaat bersih
+Manfaat energi perlu dibandingkan dengan energi dan emisi dari pengumpulan, pengeringan, pengangkutan, pengolahan, serta pengelolaan residu. Jika bahan baku dialihkan dari penggunaan yang lebih bermanfaat, dampak tersebut juga harus dipertimbangkan. Klaim “limbah menjadi energi” tidak otomatis berarti dampak bersih selalu positif.
+
+78.4 Kesepakatan dengan pemasok
+Perjanjian pasokan perlu menetapkan kualitas, jumlah, musim, harga, tanggung jawab, dan mekanisme penyelesaian masalah. Pemasok kecil perlu memahami syarat yang disepakati. Kebutuhan fasilitas tidak boleh mendorong pengambilan bahan secara berlebihan atau melanggar hak masyarakat.
+
+BAB 79 — STUDI KASUS KONSEPTUAL: KOTA DAN PANAS PERKOTAAN
+
+79.1 Pulau panas perkotaan
+Permukaan terbangun, kepadatan bangunan, sedikit vegetasi, dan panas buangan dapat membuat sebagian kawasan kota lebih panas dibanding area sekitarnya. Suhu yang lebih tinggi dapat meningkatkan kebutuhan pendinginan. Kenaikan beban pendingin dapat memperbesar beban puncak listrik, terutama pada jam tertentu.
+
+79.2 Mengurangi kebutuhan pendinginan
+Peneduhan, ventilasi yang sesuai, atap dan dinding yang dirancang baik, vegetasi, serta pengelolaan ruang dapat mengurangi paparan panas. Solusi harus sesuai iklim, kualitas udara, kebisingan, kelembapan, dan keselamatan bangunan. Membuka jendela tidak selalu tepat jika udara luar tercemar atau kondisi cuaca tidak mendukung.
+
+79.3 Pendinginan dan jaringan
+Ketika banyak bangunan menggunakan pendingin pada waktu yang sama, beban puncak dapat meningkat. Program efisiensi dan pengaturan beban dapat membantu, tetapi harus menjaga kenyamanan dan kesehatan penghuni. Fasilitas penting seperti rumah sakit memerlukan standar layanan dan cadangan yang lebih ketat.
+
+79.4 Keadilan adaptasi
+Kelompok berpenghasilan rendah mungkin tinggal di bangunan yang lebih panas dan memiliki akses pendinginan terbatas. Program adaptasi perlu memperhatikan kualitas hunian, ruang publik teduh, layanan kesehatan, dan keterjangkauan energi. Solusi perkotaan tidak boleh hanya menguntungkan kawasan yang sudah memiliki fasilitas baik.
+
+BAB 80 — STUDI KASUS KONSEPTUAL: INDUSTRI DAN PENGHEMATAN ENERGI
+
+80.1 Memahami proses
+Industri menggunakan energi untuk penggerak motor, pemanasan, pendinginan, udara bertekanan, pencahayaan, dan proses khusus. Analisis dimulai dengan diagram aliran proses dan inventaris energi. Setiap proses memiliki kebutuhan mutu, temperatur, tekanan, dan kontinuitas yang berbeda.
+
+80.2 Mengidentifikasi peluang
+Peluang dapat meliputi perbaikan kebocoran udara bertekanan, pengaturan motor sesuai beban, isolasi termal, pemulihan panas, dan pengendalian proses. Setiap peluang perlu diuji terhadap mutu produk, keselamatan, dan jadwal produksi. Penghematan yang mengganggu kualitas atau keselamatan bukan perbaikan yang dapat diterima.
+
+80.3 Mengukur hasil
+Penggunaan energi per unit produk dapat menjadi indikator, tetapi kualitas produk dan jenis produk harus diperhitungkan. Jika produksi berubah, konsumsi total dapat naik meskipun intensitas energi turun. Laporan perlu menyajikan kedua ukuran tersebut agar pembaca memahami gambaran lengkap.
+
+80.4 Perubahan budaya kerja
+Program efisiensi berhasil ketika operator, teknisi, manajemen, dan pekerja memahami tujuan serta peran masing-masing. Saran dari pekerja lapangan dapat mengungkap pemborosan yang tidak terlihat dalam laporan. Sistem pelaporan perlu mendorong perbaikan tanpa menghukum orang yang melaporkan masalah dengan jujur.
+
+BAB 81 — MEMBACA KONTRAK DAN PENAWARAN TEKNOLOGI
+
+81.1 Spesifikasi yang dapat dibandingkan
+Penawaran perlu menjelaskan kapasitas, kondisi pengujian, jaminan kinerja, umur rencana, garansi, biaya pemeliharaan, dan batas layanan. Dua penawaran dengan angka kapasitas sama belum tentu memberikan hasil yang sama jika kondisi uji berbeda. Periksa apakah komponen penting termasuk dalam harga.
+
+81.2 Garansi dan jaminan kinerja
+Garansi produk berbeda dari jaminan produksi energi atau ketersediaan sistem. Baca syarat, pengecualian, proses klaim, dan pihak yang bertanggung jawab. Jaminan yang tidak disertai metode pengukuran dan mekanisme penyelesaian dapat sulit digunakan ketika terjadi sengketa.
+
+81.3 Biaya sepanjang umur
+Biaya awal bukan satu-satunya biaya. Perlu dipertimbangkan operasi, pemeliharaan, penggantian komponen, biaya pembiayaan, dan penutupan. Perbandingan harus menggunakan periode, tingkat diskonto, dan asumsi yang sama. Jika asumsi berbeda, tampilkan perbedaannya secara terbuka.
+
+81.4 Menghindari klaim berlebihan
+Waspadai janji penghematan tetap tanpa pemeriksaan lokasi, klaim bebas perawatan, atau jaminan bahwa sistem selalu memasok daya dalam semua kondisi. Mintalah dokumen teknis, referensi proyek, dan penjelasan batas kinerja. Keputusan pembelian bernilai besar sebaiknya melibatkan penilai independen yang kompeten.
+
+BAB 82 — MENYUSUN KERANGKA MONITORING DAN EVALUASI
+
+82.1 Rantai hasil
+Kerangka monitoring dapat membedakan masukan, kegiatan, keluaran, hasil, dan dampak. Masukan misalnya dana dan tenaga. Kegiatan adalah pekerjaan yang dilakukan. Keluaran adalah perangkat atau layanan yang disediakan. Hasil adalah perubahan penggunaan atau kualitas layanan. Dampak merupakan perubahan jangka panjang yang dipengaruhi banyak faktor.
+
+82.2 Indikator SMART
+Indikator yang baik bersifat spesifik, terukur, relevan, dapat dicapai, dan memiliki batas waktu. Hindari indikator yang hanya menghitung aktivitas tanpa menilai hasil. Misalnya, jumlah pelatihan adalah keluaran; kemampuan peserta menjalankan tugas sesuai standar merupakan hasil yang berbeda.
+
+82.3 Metode pengumpulan
+Data dapat dikumpulkan melalui catatan operasi, survei, pengukuran, wawancara, dan observasi. Setiap metode memiliki bias. Survei dapat dipengaruhi ingatan responden, sedangkan pengukuran dapat dipengaruhi kalibrasi alat. Menggabungkan beberapa metode dapat memberi gambaran lebih kuat.
+
+82.4 Tindak lanjut
+Monitoring hanya berguna jika hasilnya digunakan. Tentukan ambang yang memicu pemeriksaan, siapa yang menindaklanjuti, dan kapan keputusan ditinjau. Catatan tindak lanjut membantu memastikan masalah tidak berulang dan rekomendasi tidak berhenti sebagai dokumen.
+
+BAB 83 — LATIHAN ANALISIS KASUS TERPADU
+
+Kasus A: Gedung pendidikan
+Sebuah gedung ingin mengurangi konsumsi energi tanpa mengurangi jam belajar. Data awal hanya berupa tagihan bulanan dan daftar perangkat. Susun rencana untuk memperoleh data tambahan, menetapkan baseline, memilih tindakan awal, dan mengevaluasi hasil. Jelaskan faktor yang dapat membuat perbandingan sebelum dan sesudah menjadi tidak adil.
+
+Kasus B: Layanan pulau
+Sebuah pulau mengalami gangguan pasokan ketika kapal terlambat. Susun daftar beban penting, data cuaca dan logistik yang dibutuhkan, alternatif penguatan sistem, serta pertanyaan yang harus dijawab sebelum investasi. Jelaskan peran pelatihan pengelola lokal.
+
+Kasus C: Residu pertanian
+Sebuah kelompok ingin mengolah residu menjadi energi. Buat inventaris penggunaan residu saat ini, pertanyaan tentang musim dan kadar air, serta metode menilai dampak pada tanah dan mata pencaharian. Jelaskan mengapa seluruh residu tidak selalu dapat dikumpulkan.
+
+Kasus D: Kawasan kota
+Suhu kawasan meningkat dan penggunaan pendingin bertambah. Buat rencana yang menggabungkan efisiensi bangunan, ruang teduh, pemantauan suhu, dan perlindungan kelompok rentan. Jelaskan indikator keberhasilan yang tidak hanya mengukur jumlah pohon atau perangkat.
+
+Kasus E: Industri
+Pabrik ingin menurunkan biaya energi. Susun langkah audit awal yang tidak mengganggu keselamatan atau mutu produk. Tentukan indikator intensitas energi dan jelaskan bagaimana perubahan volume produksi memengaruhi interpretasi hasil.
+
+PEDOMAN PEMBAHASAN KASUS
+Jawaban sebaiknya dimulai dengan perumusan masalah dan batas sistem. Selanjutnya tentukan data, sumber, kualitas, serta pihak yang perlu dilibatkan. Bandingkan alternatif berdasarkan layanan yang sama, biaya sepanjang umur, risiko, dan distribusi dampak. Akhiri dengan indikator, jadwal evaluasi, serta keterbatasan. Jawaban yang baik tidak mengklaim kepastian jika data belum memadai.
+
+GLOSARIUM TAMBAHAN BAGIAN IX
+Intensitas energi: jumlah energi per unit aktivitas atau keluaran yang didefinisikan.
+Kinerja layanan: ukuran seberapa baik kebutuhan pengguna dipenuhi.
+Lapisan informasi: kumpulan data spasial dengan tema tertentu dalam sistem pemetaan.
+Monitoring: pengumpulan dan peninjauan data secara berkala.
+Potensi teknis: sumber daya yang dapat dimanfaatkan dengan batasan teknis tertentu.
+Potensi ekonomi: bagian potensi yang diperkirakan layak berdasarkan asumsi biaya dan manfaat.
+Validasi lapangan: pemeriksaan data atau dugaan melalui pengamatan dan pengukuran di lokasi.
+Rantai hasil: hubungan antara masukan, kegiatan, keluaran, hasil, dan dampak.
+SMART: prinsip penyusunan tujuan yang spesifik, terukur, relevan, dapat dicapai, dan berbatas waktu.
+
+CATATAN EDITOR BAGIAN IX
+Studi kasus dalam bagian ini bersifat konseptual dan tidak menggambarkan proyek tertentu. Angka, kapasitas, dan keputusan investasi harus ditentukan dari data lokasi yang sahih. Semua pekerjaan teknis berisiko harus dilakukan oleh tenaga kompeten sesuai peraturan.

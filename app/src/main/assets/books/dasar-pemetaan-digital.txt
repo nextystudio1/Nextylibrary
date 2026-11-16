@@ -171,3 +171,35 @@ Evaluasi: Penilaian berdasarkan kriteria dan bukti.
 
 CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.
+PENDALAMAN MATERI DAN PRAKTIK
+
+BAB 6. SISTEM KOORDINAT DAN REFERENSI
+Koordinat menunjukkan posisi suatu tempat menurut sistem acuan tertentu. Koordinat geografis menggunakan lintang dan bujur, sedangkan sistem proyeksi memindahkan permukaan bumi yang melengkung ke bidang datar. Setiap proyeksi memiliki distorsi, sehingga pilihan proyeksi harus sesuai tujuan peta. Sistem referensi koordinat menentukan datum, satuan, dan cara posisi dihitung. Dua lapisan peta dapat tampak bergeser jika memakai sistem referensi berbeda atau transformasi tidak tepat. Sebelum analisis, periksa metadata, satuan, datum, dan wilayah penggunaan. Jangan menganggap angka koordinat dapat dipertukarkan tanpa mengetahui sistemnya.
+
+BAB 7. DATA VEKTOR DAN RASTER
+Data vektor mewakili objek sebagai titik, garis, dan poligon. Titik dapat mewakili lokasi fasilitas, garis mewakili jalan atau sungai, dan poligon mewakili batas wilayah atau bidang lahan. Data raster tersusun dari sel atau piksel dan sering digunakan untuk citra, elevasi, serta variabel yang berubah kontinu. Resolusi raster menentukan ukuran sel, tetapi resolusi tinggi tidak otomatis berarti data lebih akurat. Kualitas bergantung pada sumber, metode, waktu, dan proses pengolahan. Pilih jenis data sesuai pertanyaan analisis, bukan hanya karena formatnya tersedia.
+
+BAB 8. ANALISIS SPASIAL DAN KETERBATASAN
+Analisis spasial memeriksa hubungan berdasarkan lokasi. Contohnya adalah menghitung jarak ke fasilitas, mengidentifikasi area rawan genangan, atau membandingkan tutupan lahan. Buffer membuat zona pada jarak tertentu dari objek, sedangkan overlay menggabungkan beberapa lapisan berdasarkan lokasi. Hasil bergantung pada ketelitian data dan asumsi. Jarak lurus pada peta tidak selalu sama dengan waktu tempuh karena jaringan jalan, kemiringan, hambatan, dan moda transportasi. Korelasi spasial tidak membuktikan sebab-akibat. Analisis perlu menjelaskan skala, resolusi, dan batas interpretasi.
+
+BAB 9. PENGINDERAAN JAUH DAN PERUBAHAN LAHAN
+Penginderaan jauh memperoleh informasi permukaan bumi melalui sensor pada satelit, pesawat, atau wahana lain. Sensor merekam energi pada rentang spektrum tertentu. Citra dapat digunakan untuk memantau vegetasi, perairan, perkotaan, dan perubahan lahan. Perbandingan antarwaktu harus memperhatikan musim, tutupan awan, resolusi, sudut pengamatan, dan koreksi data. Perubahan warna pada citra belum tentu menunjukkan perubahan objek; bisa jadi disebabkan kondisi pencahayaan atau pemrosesan. Verifikasi lapangan dan data pendukung membantu meningkatkan keandalan interpretasi.
+
+BAB 10. ETIKA, PRIVASI, DAN PUBLIKASI PETA
+Peta dapat mengungkap lokasi rumah, sekolah, tempat perlindungan, atau fasilitas sensitif. Sebelum mempublikasikan data lokasi, pertimbangkan apakah detail tersebut diperlukan dan apakah ada risiko bagi orang yang dipetakan. Data individu dapat diagregasi atau disamarkan sesuai tujuan, tetapi proses itu perlu dilakukan hati-hati agar tidak menimbulkan kesan keliru. Cantumkan sumber, tanggal, sistem koordinat, skala, dan keterbatasan. Jangan mengubah simbol atau rentang warna untuk membesar-besarkan pola. Peta yang menarik secara visual tetap harus jujur terhadap data.
+
+STUDI KASUS
+Tim lingkungan membuat peta lokasi genangan berdasarkan laporan warga. Sebagian laporan hanya menyebut nama jalan, sebagian memakai titik GPS, dan sebagian tidak memiliki waktu kejadian. Sebelum membuat kesimpulan, tim perlu memeriksa duplikasi, ketepatan lokasi, waktu, dan sumber laporan. Peta akhir perlu menyebut bahwa data merupakan laporan warga, bukan pengukuran kedalaman yang seragam.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa proyeksi peta menimbulkan distorsi? Karena permukaan bumi melengkung dipindahkan ke bidang datar.
+2. Bedakan vektor dan raster: vektor memakai titik/garis/poligon, raster memakai sel atau piksel.
+3. Mengapa jarak lurus tidak selalu menunjukkan waktu tempuh? Karena jaringan, kondisi jalan, hambatan, dan moda berbeda.
+4. Sebutkan tiga hal yang diperiksa pada citra multiwaktu: musim, awan, resolusi, waktu, dan metode pemrosesan.
+5. Mengapa data lokasi perlu dilindungi? Karena dapat mengungkap keberadaan dan rutinitas individu atau lokasi sensitif.
+
+GLOSARIUM
+Datum: acuan matematis untuk menentukan posisi bumi.
+Overlay: penggabungan lapisan spasial.
+Raster: data spasial berbentuk kisi sel.
+Vektor: data spasial berbentuk titik, garis, atau poligon.

@@ -112,3 +112,29 @@ LATIHAN AKHIR
 3. Pilih lima kriteria untuk membandingkan dua alternatif kebijakan.
 4. Susun matriks tugas implementasi sederhana.
 5. Bedakan indikator keluaran, hasil, dan dampak.
+BAB LANJUTAN: IMPLEMENTASI, ANGGARAN, DAN PELAKSANAAN
+
+Implementasi mengubah keputusan menjadi layanan, aturan operasional, atau program nyata. Rencana pelaksanaan perlu menjelaskan tujuan, keluaran, penanggung jawab, jadwal, anggaran, kebutuhan data, dan mekanisme koordinasi. Setiap tugas harus memiliki pihak yang bertanggung jawab agar tidak terjadi pekerjaan ganda atau bagian yang terabaikan.
+
+Anggaran bukan sekadar daftar pengeluaran. Anggaran menunjukkan prioritas dan kelayakan. Bandingkan biaya awal dengan biaya operasi, pemeliharaan, pelatihan, komunikasi, dan evaluasi. Jika dana terbatas, jelaskan layanan mana yang diprioritaskan dan kelompok mana yang mungkin belum terjangkau. Transparansi membantu publik memahami pilihan tersebut.
+
+BAB LANJUTAN: INDIKATOR DAN KERANGKA EVALUASI
+
+Indikator keluaran menghitung produk langsung kegiatan, seperti jumlah dokumen layanan yang diproses. Indikator hasil mengukur perubahan yang dialami pengguna, seperti waktu tunggu atau tingkat keberhasilan memperoleh layanan. Dampak jangka panjang dapat dipengaruhi banyak faktor sehingga klaim sebab-akibat membutuhkan rancangan evaluasi yang lebih kuat.
+
+Indikator yang baik memiliki definisi, satuan, sumber data, frekuensi pengukuran, penanggung jawab, dan batas interpretasi. Hindari target yang mendorong petugas mengejar angka dengan mengorbankan mutu. Gabungkan ukuran kuantitatif dengan umpan balik pengguna, termasuk pengalaman kelompok yang sulit dijangkau.
+
+BAB LANJUTAN: KEADILAN DISTRIBUSI DAN DAMPAK SAMPING
+
+Kebijakan dapat menghasilkan manfaat dan beban yang tidak terbagi merata. Rata-rata peningkatan layanan dapat menyembunyikan kenyataan bahwa sebagian wilayah tertinggal. Karena itu, hasil perlu dipilah secara etis menurut wilayah atau kelompok yang relevan tanpa membuka identitas pribadi.
+
+Analisis dampak samping menanyakan siapa yang mungkin dirugikan, biaya apa yang tidak terlihat, dan apakah kebijakan menciptakan insentif yang keliru. Contohnya, target jumlah layanan dapat mendorong penyelesaian cepat tetapi mengurangi waktu untuk kasus kompleks. Mitigasi dapat berupa indikator mutu, audit sampel, kanal pengaduan, dan peninjauan berkala.
+
+BAB LANJUTAN: KETIDAKPASTIAN DAN ADAPTASI KEBIJAKAN
+
+Kebijakan dibuat dalam kondisi informasi yang tidak sempurna. Perkiraan biaya, perilaku masyarakat, dan perubahan lingkungan dapat meleset. Pembuat kebijakan perlu menyatakan asumsi, memantau sinyal perubahan, dan menetapkan kondisi kapan program ditinjau kembali.
+
+Pendekatan adaptif menggunakan pelaksanaan bertahap, evaluasi berkala, dan mekanisme koreksi. Perubahan kebijakan harus dijelaskan kepada masyarakat agar tidak dianggap sebagai keputusan tanpa alasan. Dokumentasikan apa yang dipelajari, mengapa penyesuaian dilakukan, dan bagaimana dampaknya akan diperiksa.
+
+LATIHAN ANALISIS KEBIJAKAN
+Pilih satu layanan publik. Buat matriks yang memuat tujuan, kelompok terdampak, alternatif, biaya, risiko, indikator keluaran, indikator hasil, dan cara menerima pengaduan. Tambahkan satu skenario ketika anggaran turun dan jelaskan penyesuaian yang tetap menjaga prinsip keadilan.

@@ -237,3 +237,34 @@ KETERLIBATAN MASYARAKAT
 Program konservasi lebih kuat ketika masyarakat setempat ikut menentukan tujuan, metode, dan pembagian manfaat. Pengetahuan lokal dapat membantu memahami perubahan musim dan kondisi habitat. Kemitraan harus menghormati hak, mata pencaharian, serta akses terhadap sumber daya.
 EVALUASI PROGRAM
 Tetapkan kondisi awal, indikator, jadwal pemantauan, dan pihak yang bertanggung jawab. Bandingkan hasil dengan tujuan yang realistis. Jika hasil tidak sesuai, periksa apakah masalah berasal dari rancangan, pelaksanaan, atau perubahan kondisi lingkungan.
+
+ALIRAN ENERGI DAN JARING-JARING MAKANAN
+Energi memasuki sebagian besar ekosistem melalui cahaya matahari yang ditangkap organisme fotosintetik. Energi kimia kemudian berpindah melalui hubungan makan-dimakan. Pada setiap perpindahan, sebagian energi digunakan untuk proses hidup dan dilepas sebagai panas, sehingga energi yang tersedia pada tingkat trofik lebih tinggi umumnya lebih kecil. Karena itu, piramida energi selalu menunjukkan penurunan energi pada tingkat yang lebih tinggi.
+
+Rantai makanan menggambarkan satu jalur sederhana, sedangkan jaring-jaring makanan memperlihatkan banyak hubungan yang saling terhubung. Hilangnya satu spesies dapat memengaruhi spesies lain melalui perubahan sumber makanan, persaingan, atau tekanan pemangsa. Dampaknya bergantung pada struktur ekosistem; tidak tepat menganggap semua perubahan menghasilkan akibat yang sama.
+
+SIKLUS MATERI DAN PERAN PENGURAI
+Materi seperti karbon, nitrogen, dan fosfor terus berpindah antara organisme dan lingkungan. Tumbuhan menyerap unsur hara, hewan memperolehnya melalui makanan, dan pengurai mengembalikan unsur ke tanah atau air. Pembakaran bahan bakar fosil memindahkan karbon geologis ke atmosfer dengan cepat, sehingga mengubah keseimbangan siklus karbon.
+
+Nitrogen di atmosfer sebagian besar tidak dapat langsung digunakan tumbuhan. Bakteri tertentu membantu mengubah nitrogen menjadi bentuk yang dapat dimanfaatkan. Pupuk dapat meningkatkan produktivitas, tetapi penggunaan berlebihan dapat terbawa ke perairan dan memicu eutrofikasi, yaitu pertumbuhan alga berlebihan yang kemudian dapat menurunkan oksigen terlarut.
+
+KEANEKARAGAMAN GEN, SPESIES, DAN EKOSISTEM
+Keanekaragaman hayati mencakup variasi genetik dalam satu spesies, variasi spesies, dan variasi ekosistem. Keragaman genetik membantu populasi menghadapi perubahan lingkungan, tetapi tidak menjamin semua populasi akan bertahan. Populasi kecil dan terisolasi dapat kehilangan variasi genetik serta lebih rentan terhadap gangguan.
+
+Ancaman utama mencakup kehilangan habitat, eksploitasi berlebihan, spesies invasif, pencemaran, dan perubahan iklim. Ancaman dapat saling memperkuat. Fragmentasi habitat, misalnya, memisahkan populasi dan menghambat perpindahan individu. Koridor ekologis dapat membantu menghubungkan habitat jika dirancang berdasarkan kebutuhan spesies dan kondisi lanskap.
+
+KONSERVASI BERBASIS BUKTI
+Konservasi in situ melindungi organisme di habitat alaminya, misalnya melalui taman nasional dan kawasan lindung. Konservasi ex situ dilakukan di luar habitat, seperti kebun botani atau penangkaran, dan dapat mendukung penelitian serta pemulihan populasi. Keduanya memiliki peran berbeda dan perlu disertai perlindungan habitat serta keterlibatan masyarakat.
+
+Pemantauan dapat menggunakan transek, petak contoh, kamera jebak, pengamatan burung, atau citra satelit. Metode harus konsisten agar data dapat dibandingkan dari waktu ke waktu. Catat lokasi, tanggal, cuaca, upaya pengamatan, dan keterbatasan alat. Tidak ditemukannya organisme dalam satu pengamatan bukan bukti pasti bahwa spesies itu tidak ada.
+
+PROYEK LAPANGAN SEKOLAH
+Pilih area aman di sekitar sekolah. Catat jenis tumbuhan yang terlihat pada petak kecil dengan bantuan guru atau panduan identifikasi tepercaya. Jangan mengambil organisme atau memasuki habitat sensitif. Bandingkan area teduh dan terbuka, lalu diskusikan faktor yang mungkin menjelaskan perbedaan. Data sederhana dapat menjadi awal pertanyaan ilmiah, bukan dasar untuk klaim luas.
+
+LATIHAN
+1. Mengapa energi berkurang pada tingkat trofik lebih tinggi? Karena organisme menggunakan energi untuk hidup dan banyak energi dilepas sebagai panas.
+2. Apa perbedaan keanekaragaman genetik dan keanekaragaman spesies? Yang pertama adalah variasi dalam satu spesies; yang kedua adalah variasi jenis spesies.
+3. Mengapa pupuk berlebihan dapat merusak perairan? Limpasan nutrien dapat memicu eutrofikasi dan penurunan oksigen.
+4. Sebutkan dua data yang perlu dicatat dalam pemantauan biodiversitas. Contoh: lokasi dan tanggal; dapat pula cuaca serta lama pengamatan.
+RANGKUMAN
+Ekosistem menghubungkan aliran energi dan daur materi. Keanekaragaman hayati mendukung fungsi ekosistem, tetapi menghadapi ancaman yang saling berkaitan. Konservasi efektif membutuhkan data yang konsisten, perlindungan habitat, dan kerja sama masyarakat.

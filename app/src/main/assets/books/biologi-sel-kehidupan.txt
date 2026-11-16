@@ -225,3 +225,34 @@ ADAPTASI DAN BATASNYA
 Adaptasi merupakan sifat yang meningkatkan keberhasilan hidup atau reproduksi dalam konteks tertentu. Sifat yang menguntungkan pada satu lingkungan belum tentu menguntungkan pada lingkungan lain. Adaptasi juga memiliki batas karena sejarah evolusi dan kompromi biologis.
 KEANEKARAGAMAN MIKROORGANISME
 Mikroorganisme hidup di tanah, air, tubuh organisme, dan lingkungan ekstrem. Sebagian membantu daur materi dan pencernaan, sementara sebagian dapat menyebabkan penyakit. Penggunaan antibiotik yang tidak tepat dapat mendorong seleksi mikroorganisme resisten.
+
+MEMBRAN SEL DAN TRANSPORT ZAT
+Membran sel tersusun terutama dari dua lapis fosfolipid dengan protein yang membantu mengatur pertukaran zat. Sifat selektif permeabel berarti sebagian zat dapat melintas lebih mudah daripada zat lain. Molekul kecil tertentu dapat berdifusi mengikuti gradien konsentrasi, sedangkan transport aktif memerlukan energi untuk memindahkan zat melawan gradien.
+
+Osmosis adalah perpindahan bersih air melalui membran selektif permeabel menuju sisi dengan konsentrasi zat terlarut efektif lebih tinggi. Pada larutan hipotonik, sel hewan dapat membengkak; pada larutan hipertonik, air keluar dan sel menyusut. Sel tumbuhan memiliki dinding sel yang membantu menahan tekanan turgor. Istilah ini menjelaskan kecenderungan, bukan berarti semua sel bereaksi identik dalam setiap kondisi.
+
+RESPIRASI SEL DAN FOTOSINTESIS
+Respirasi sel memindahkan energi dari molekul organik ke ATP yang dapat digunakan dalam proses sel. Pada respirasi aerob, oksigen berperan sebagai penerima elektron terakhir dalam rantai transpor elektron. Glikolisis berlangsung di sitoplasma; tahap berikutnya pada sel eukariot berlangsung terutama di mitokondria. ATP bukan tempat penyimpanan energi jangka panjang, melainkan pembawa energi yang terus dibuat dan digunakan.
+
+Fotosintesis mengubah energi cahaya menjadi energi kimia. Pada tumbuhan, reaksi bergantung cahaya berlangsung pada membran tilakoid, sedangkan siklus Calvin berlangsung di stroma kloroplas. Karbon dioksida digunakan untuk membentuk senyawa organik. Fotosintesis dan respirasi saling berkaitan dalam aliran karbon dan oksigen, tetapi keduanya bukan proses yang sekadar saling membalik.
+
+DNA, GEN, DAN EKSPRESI
+DNA menyimpan informasi genetik dalam urutan nukleotida. Gen merupakan bagian DNA yang berkontribusi pada produk fungsional, seperti RNA atau protein. Dalam ekspresi gen, informasi DNA ditranskripsi menjadi RNA; pada banyak gen pengode protein, RNA kemudian diterjemahkan menjadi urutan asam amino. Regulasi ekspresi gen membuat sel dengan DNA yang sama dapat memiliki fungsi berbeda.
+
+Mutasi adalah perubahan materi genetik. Dampaknya dapat netral, merugikan, atau dalam kondisi tertentu menguntungkan. Tidak semua mutasi diwariskan kepada keturunan; mutasi pada sel tubuh berbeda dari mutasi pada garis sel reproduktif. Sifat organisme umumnya dipengaruhi interaksi gen, lingkungan, dan perkembangan.
+
+PEMBELAHAN SEL DAN KESTABILAN GENETIK
+Mitosis menghasilkan dua sel anak yang secara umum memiliki informasi genetik hampir sama dengan sel induk, setelah DNA direplikasi. Mitosis penting untuk pertumbuhan dan perbaikan jaringan. Meiosis menghasilkan sel reproduksi dengan jumlah kromosom yang berkurang dan menciptakan variasi melalui pindah silang serta pemisahan kromosom secara independen.
+
+Siklus sel memiliki titik pemeriksaan yang membantu memastikan proses berjalan dengan benar. Gangguan regulasi dapat berkontribusi pada pembelahan tidak terkendali. Namun, kanker bukan satu penyakit tunggal dan penyebabnya beragam, melibatkan perubahan genetik, lingkungan, usia, dan faktor biologis lainnya.
+
+EVOLUSI DAN KEANEKARAGAMAN
+Evolusi adalah perubahan sifat yang diwariskan dalam populasi dari generasi ke generasi. Seleksi alam bekerja ketika variasi yang dapat diwariskan berkaitan dengan perbedaan keberhasilan reproduksi dalam lingkungan tertentu. Mutasi dan rekombinasi menghasilkan variasi; aliran gen dan hanyutan genetik juga mengubah frekuensi variasi. Individu tidak berevolusi karena “membutuhkan” sifat tertentu; perubahan terjadi pada populasi lintas generasi.
+
+LATIHAN
+1. Mengapa membran disebut selektif permeabel? Karena mengatur zat yang dapat melewatinya.
+2. Apa fungsi ATP? Menyediakan energi yang dapat digunakan dalam reaksi sel.
+3. Bedakan mitosis dan meiosis. Mitosis mendukung pertumbuhan dan perbaikan; meiosis membentuk sel reproduksi dengan pengurangan jumlah kromosom.
+4. Mengapa evolusi tidak memiliki tujuan yang telah ditentukan? Karena perubahan populasi dipengaruhi variasi dan kondisi lingkungan, bukan rencana masa depan.
+RANGKUMAN
+Sel adalah sistem hidup yang mengatur pertukaran zat, mengubah energi, menyimpan informasi, dan membelah. Pemahaman membran, metabolisme, genetika, pembelahan, serta evolusi menjelaskan kesatuan sekaligus keragaman kehidupan.

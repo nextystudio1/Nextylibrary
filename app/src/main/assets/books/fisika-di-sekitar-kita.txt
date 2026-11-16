@@ -362,3 +362,34 @@ GLOSARIUM
 Frekuensi: jumlah getaran tiap satuan waktu.
 Panjang gelombang: jarak antara dua titik sefase berurutan.
 Sonar: sistem yang menggunakan gelombang bunyi untuk mendeteksi objek atau jarak.
+
+PENGUKURAN DAN KETIDAKPASTIAN
+Fisika memerlukan pengukuran yang dapat diulang. Setiap hasil pengukuran memiliki satuan dan ketidakpastian. Ketelitian alat, cara membaca skala, kondisi lingkungan, serta keterampilan pengamat memengaruhi hasil. Menulis angka tanpa satuan dapat membuat hasil tidak dapat ditafsirkan. Gunakan satuan SI jika sesuai dan periksa konsistensi dimensi dalam perhitungan.
+
+Pengukuran berulang membantu melihat variasi acak. Rata-rata dapat merangkum hasil, tetapi tidak menghilangkan kesalahan sistematis seperti alat yang selalu menunjukkan nilai terlalu tinggi. Kalibrasi membandingkan alat dengan standar yang diketahui. Catat prosedur agar orang lain dapat mengulangi percobaan.
+
+TEKANAN DALAM KEHIDUPAN
+Tekanan didefinisikan sebagai gaya tegak lurus per satuan luas, P = F/A. Untuk gaya yang sama, luas bidang lebih kecil menghasilkan tekanan lebih besar. Konsep ini menjelaskan mengapa sepatu salju dibuat lebar untuk menyebarkan berat pada permukaan salju. Tekanan fluida diam bertambah dengan kedalaman dan dipengaruhi massa jenis fluida serta percepatan gravitasi.
+
+Hukum Pascal menjelaskan bahwa perubahan tekanan pada fluida tertutup diteruskan ke seluruh bagian fluida. Prinsip ini digunakan pada sistem hidrolik. Hukum Archimedes menyatakan gaya apung sama dengan berat fluida yang dipindahkan. Benda dapat mengapung ketika gaya apung menyeimbangkan beratnya; bentuk dan volume bagian yang tercelup ikut menentukan.
+
+SUHU, KALOR, DAN PERUBAHAN WUJUD
+Suhu berkaitan dengan keadaan termal, sedangkan kalor adalah energi yang berpindah karena perbedaan suhu. Kalor dapat menaikkan suhu atau mengubah wujud. Persamaan Q = mcΔT digunakan untuk perubahan suhu tanpa perubahan fase, dengan c sebagai kalor jenis. Saat perubahan wujud, energi dapat digunakan untuk mengubah susunan partikel tanpa menaikkan suhu selama proses berlangsung pada kondisi ideal.
+
+Konduksi memindahkan energi melalui interaksi partikel, konveksi melalui gerak fluida, dan radiasi melalui gelombang elektromagnetik. Panci logam menghantarkan panas dengan baik, sedangkan gagangnya sering dibuat dari bahan yang lebih sulit menghantarkan panas. Permukaan dan warna dapat memengaruhi penyerapan serta pancaran radiasi, tetapi faktor lingkungan lain juga berpengaruh.
+
+LISTRIK DALAM RUMAH
+Arus listrik adalah laju aliran muatan. Tegangan berkaitan dengan energi per satuan muatan, sedangkan hambatan menggambarkan kesulitan aliran arus. Untuk komponen ohmik pada kondisi tetap, hukum Ohm menyatakan V = IR. Daya listrik dapat dihitung dengan P = VI. Energi listrik bergantung pada daya dan lama pemakaian.
+
+Instalasi listrik rumah harus mengikuti standar dan dikerjakan tenaga kompeten. Jangan membuka stopkontak, memperbaiki kabel, atau melakukan percobaan pada jaringan listrik rumah. Pelajar dapat mempelajari konsep melalui rangkaian tegangan rendah yang aman dan perangkat pendidikan di bawah pengawasan guru.
+
+GELOMBANG DAN BUNYI
+Gelombang memindahkan energi tanpa memindahkan materi secara keseluruhan. Frekuensi menyatakan jumlah getaran per detik, sedangkan panjang gelombang adalah jarak antara titik sefase. Cepat rambat memenuhi v = fλ. Bunyi memerlukan medium dan tidak merambat di ruang hampa. Tinggi nada berkaitan dengan frekuensi, sedangkan kuat bunyi berkaitan dengan intensitas dan persepsi pendengaran.
+
+LATIHAN
+1. Gaya 20 N bekerja pada luas 0,5 m². Tekanan = 20/0,5 = 40 Pa.
+2. Apa beda kalor dan suhu? Suhu menyatakan keadaan termal; kalor adalah energi yang berpindah karena perbedaan suhu.
+3. Jika V = 12 V dan R = 4 Ω, arus I = 3 A.
+4. Gelombang memiliki frekuensi 5 Hz dan panjang gelombang 2 m. Cepat rambat = 10 m/s.
+RANGKUMAN
+Fisika menjelaskan fenomena sehari-hari melalui model, pengukuran, dan hukum yang dapat diuji. Tekanan, kalor, listrik, dan gelombang menjadi lebih mudah dipahami ketika konsep, satuan, asumsi, serta keselamatan diperhatikan.

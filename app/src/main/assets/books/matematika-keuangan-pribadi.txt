@@ -257,3 +257,32 @@ BIAYA TERSEMBUNYI
 Biaya dapat muncul dari perawatan, pengiriman, biaya administrasi, keterlambatan, atau kewajiban berulang. Baca ketentuan secara menyeluruh dan hitung total selama periode yang relevan. Perbandingan berdasarkan satu angka promosi sering tidak cukup.
 PENGAMBILAN KEPUTUSAN
 Gunakan informasi yang dapat diverifikasi dan hindari tekanan emosional. Minta penjelasan dari sumber resmi jika ada istilah yang tidak dipahami. Keputusan yang baik adalah keputusan yang sesuai kebutuhan dan dapat dipertanggungjawabkan, bukan sekadar mengikuti tren.
+
+MENYUSUN ANGGARAN YANG REALISTIS
+Anggaran adalah rencana penggunaan uang untuk periode tertentu. Mulailah dengan mencatat pemasukan yang benar-benar diterima dan pengeluaran yang benar-benar terjadi. Bedakan kebutuhan, keinginan, kewajiban, dan tujuan. Kategori ini bukan penilaian moral; tujuannya membantu melihat prioritas dan menemukan pengeluaran yang dapat disesuaikan.
+
+Anggaran perlu realistis. Jika terlalu ketat, rencana mudah ditinggalkan. Sisihkan ruang untuk pengeluaran tidak rutin seperti alat sekolah, perawatan perangkat, atau kebutuhan keluarga yang telah disepakati. Tinjau catatan secara berkala dan ubah rencana ketika kondisi berubah. Untuk pelajar, keputusan keuangan sebaiknya dibicarakan dengan orang tua atau wali sesuai situasi.
+
+BUNGA SEDERHANA DAN MAJEMUK
+Bunga sederhana dihitung dari pokok awal. Rumusnya I = P × r × t, dengan P sebagai pokok, r sebagai tingkat bunga per periode, dan t sebagai jumlah periode yang satuannya sesuai. Jika Rp1.000.000 dikenai bunga sederhana 5 persen per tahun selama dua tahun, bunga adalah Rp100.000 sebelum biaya atau pajak yang mungkin berlaku.
+
+Pada bunga majemuk, bunga yang diperoleh ditambahkan ke pokok untuk periode berikutnya. Nilai akhir dapat ditulis A = P(1+r)^t untuk tingkat tetap dan periode yang sesuai. Perbedaan hasil membesar seiring waktu, tetapi hasil nyata produk keuangan dapat dipengaruhi biaya, pajak, perubahan suku bunga, dan aturan penarikan. Pahami apakah tingkat yang ditampilkan tahunan atau per bulan.
+
+RISIKO, LIKUIDITAS, DAN DIVERSIFIKASI
+Risiko adalah ketidakpastian hasil. Likuiditas menunjukkan seberapa mudah aset diubah menjadi uang tanpa kehilangan nilai yang besar. Tabungan yang mudah diakses cocok untuk kebutuhan dekat, sedangkan aset yang nilainya berubah-ubah mungkin tidak cocok untuk uang yang segera diperlukan. Potensi hasil lebih tinggi biasanya disertai risiko lebih besar, bukan jaminan keuntungan.
+
+Diversifikasi menyebarkan dana pada beberapa aset atau jenis risiko. Diversifikasi dapat mengurangi dampak buruk dari satu sumber risiko, tetapi tidak menghapus seluruh risiko pasar. Jangan menaruh uang pada produk yang tidak dipahami. Waspadai janji keuntungan pasti yang sangat tinggi, tekanan untuk segera mentransfer uang, dan skema yang bergantung pada perekrutan anggota baru.
+
+KREDIT DAN BIAYA PINJAMAN
+Sebelum mengambil pinjaman, periksa jumlah pokok, bunga, biaya administrasi, denda, jadwal pembayaran, dan total pembayaran. Cicilan kecil tidak selalu berarti biaya total rendah jika jangka waktunya panjang. Keterlambatan dapat menambah beban dan memengaruhi catatan kredit. Anak dan remaja sebaiknya tidak mengambil pinjaman atau memberikan data keuangan tanpa pendampingan orang dewasa tepercaya.
+
+TUJUAN KEUANGAN DAN DANA DARURAT
+Tujuan yang baik memiliki nilai, batas waktu, dan langkah yang dapat diukur. Contoh: menabung untuk buku pelajaran dalam empat bulan. Hitung jumlah yang dibutuhkan, sumber dana, dan jumlah yang realistis disisihkan. Dana darurat ditujukan untuk kejadian tak terduga; jumlahnya disesuaikan dengan keadaan rumah tangga dan kemampuan, bukan satu angka yang cocok untuk semua orang.
+
+LATIHAN DAN PEMBAHASAN
+1. Hitung bunga sederhana Rp2.000.000 pada 4 persen per tahun selama 3 tahun. Jawaban: 2.000.000 × 0,04 × 3 = Rp240.000.
+2. Mengapa biaya pinjaman harus dihitung total? Karena biaya tambahan dan lamanya pinjaman dapat membuat total pembayaran jauh lebih besar dari pokok.
+3. Apa manfaat diversifikasi? Mengurangi ketergantungan pada satu aset atau sumber risiko, tetapi tidak menjamin bebas rugi.
+4. Buat tujuan menabung yang terukur. Jawaban bervariasi; harus memuat jumlah, tenggat, dan rencana setoran.
+RANGKUMAN
+Keuangan pribadi membutuhkan pencatatan, perencanaan, pemahaman bunga, penilaian risiko, dan keputusan hati-hati. Produk keuangan harus dipahami sebelum digunakan, dan keputusan penting perlu disesuaikan dengan usia serta dukungan wali.

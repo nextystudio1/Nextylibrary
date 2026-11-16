@@ -227,3 +227,34 @@ KETAHANAN PANGAN WILAYAH
 Produksi pangan dipengaruhi tanah, air, iklim, teknologi, akses pasar, dan tenaga kerja. Ketahanan pangan juga bergantung pada distribusi dan kemampuan rumah tangga memperoleh pangan. Wilayah yang menghasilkan banyak komoditas belum tentu seluruh penduduknya memiliki akses pangan yang baik.
 ADAPTASI WILAYAH
 Adaptasi terhadap perubahan iklim dapat mencakup perbaikan drainase, perlindungan pesisir, pengelolaan air, dan sistem peringatan. Pilihan harus didasarkan pada risiko lokal dan melibatkan warga yang terdampak. Infrastruktur perlu dirawat agar manfaatnya bertahan.
+
+BENTANG ALAM DAN PROSES PEMBENTUKAN
+Indonesia berada pada kawasan pertemuan beberapa lempeng tektonik dan bagian dari Cincin Api Pasifik. Proses tektonik membentuk pegunungan, palung laut, patahan, serta aktivitas vulkanik. Kondisi ini menghasilkan bentang alam yang beragam sekaligus risiko gempa bumi, tsunami, dan erupsi gunung api. Risiko tidak hanya ditentukan bahaya alam, tetapi juga paparan penduduk dan kerentanan bangunan serta layanan.
+
+Proses eksogen seperti pelapukan, erosi, gerakan massa, dan sedimentasi terus mengubah permukaan bumi. Hujan lebat pada lereng yang terganggu dapat meningkatkan risiko longsor. Penutup vegetasi, kemiringan, jenis tanah, tata air, dan tata guna lahan memengaruhi kestabilan lereng. Tidak semua longsor dapat dicegah, tetapi pemetaan dan tata ruang dapat mengurangi dampaknya.
+
+IKLIM, MUSIM, DAN AIR
+Iklim Indonesia dipengaruhi letak tropis, pola angin muson, topografi, laut, serta fenomena iklim global seperti El Niño dan La Niña. Dampaknya berbeda antarpulau dan antarmusim. Informasi prakiraan cuaca jangka pendek tidak sama dengan proyeksi iklim jangka panjang. Keduanya memiliki kegunaan dan skala waktu berbeda.
+
+Daerah aliran sungai menghubungkan wilayah hulu, tengah, dan hilir. Perubahan tutupan lahan di hulu dapat memengaruhi erosi, sedimentasi, dan aliran di hilir. Pengelolaan air perlu mempertimbangkan kebutuhan rumah tangga, pertanian, industri, ekosistem, serta kualitas air. Perlindungan mata air dan daerah resapan membantu menjaga ketersediaan air.
+
+PENDUDUK DAN PERSEBARAN KEGIATAN
+Penduduk Indonesia tersebar tidak merata. Konsentrasi penduduk dipengaruhi sejarah permukiman, lapangan kerja, infrastruktur, kondisi fisik, dan akses layanan. Kepadatan tinggi dapat mendukung pasar dan layanan, tetapi juga menimbulkan tekanan pada transportasi, perumahan, air, dan sanitasi. Wilayah berpenduduk jarang dapat menghadapi tantangan biaya layanan dan konektivitas.
+
+Urbanisasi adalah meningkatnya proporsi penduduk yang tinggal di wilayah perkotaan, termasuk melalui perpindahan dan perubahan wilayah. Kota tidak hanya menjadi pusat ekonomi, tetapi juga tempat tinggal, pendidikan, budaya, dan layanan. Perencanaan kota perlu memperhatikan hunian terjangkau, ruang terbuka, transportasi umum, drainase, dan akses bagi kelompok rentan.
+
+PETA, SKALA, DAN DATA SPASIAL
+Peta adalah representasi terpilih dari permukaan bumi. Skala menunjukkan perbandingan jarak peta dengan jarak sebenarnya. Peta skala besar menampilkan area lebih kecil dengan detail lebih banyak; peta skala kecil mencakup area luas dengan detail lebih sedikit. Legenda, arah utara, sistem koordinat, sumber, dan tahun data perlu diperiksa.
+
+Sistem Informasi Geografis menggabungkan data lokasi dengan atribut. Data dapat berupa titik fasilitas, garis jalan, atau poligon batas wilayah. Peta tematik membantu melihat pola, tetapi klasifikasi warna dan ukuran kelas dapat memengaruhi kesan pembaca. Jangan menyimpulkan sebab hanya dari pola spasial tanpa data tambahan.
+
+MITIGASI BENCANA BERBASIS WILAYAH
+Mitigasi mencakup pemetaan bahaya, aturan tata ruang, standar bangunan, pendidikan kebencanaan, jalur evakuasi, dan sistem peringatan. Peta bahaya bukan ramalan waktu kejadian; peta menunjukkan area yang memiliki tingkat potensi tertentu berdasarkan data dan metode. Ikuti informasi resmi kebencanaan dan arahan petugas setempat.
+
+LATIHAN
+1. Mengapa risiko bencana bukan hanya bahaya alam? Karena paparan dan kerentanan masyarakat juga menentukan dampak.
+2. Apa beda cuaca dan iklim? Cuaca menggambarkan kondisi atmosfer jangka pendek; iklim merangkum pola jangka panjang.
+3. Mengapa peta perlu mencantumkan tahun data? Karena kondisi wilayah dan data dapat berubah.
+4. Sebutkan tiga unsur pengelolaan DAS. Jawaban: perlindungan hulu, pengendalian erosi, dan pengelolaan kualitas air, serta koordinasi wilayah.
+RANGKUMAN
+Geografi Indonesia mempelajari hubungan bentang alam, iklim, penduduk, kegiatan ekonomi, dan ruang. Peta serta data spasial membantu memahami pola, sementara mitigasi dan perencanaan wilayah mengurangi kerentanan masyarakat.

@@ -40,19 +40,27 @@ LATIHAN PEMAHAMAN
 
 BAB 2. STRUKTUR DAN FUNGSI SEL MIKROBA
 
-Bakteri dan arkea merupakan organisme prokariotik yang tidak memiliki inti bermembran. Materi genetiknya berada di wilayah nukleoid. Membran sel mengatur pertukaran zat, sedangkan dinding sel membantu mempertahankan bentuk. Sebagian mikroba memiliki struktur tambahan seperti kapsul, flagela, atau pili yang berperan dalam interaksi dengan lingkungan.
+Sel mikroba memiliki susunan yang beragam. Bakteri dan arkea termasuk prokariota: materi genetik utamanya berada di wilayah nukleoid dan tidak dibungkus membran inti. Sel eukariotik, termasuk ragi, kapang, dan protozoa, memiliki inti serta organel bermembran. Virus bukan sel; partikel virus terdiri atas materi genetik yang dilindungi kapsid dan pada sebagian jenis memiliki selubung.
+Membran plasma menjadi batas selektif yang mengatur masuk-keluarnya zat dan menjadi tempat berbagai proses energi. Sitoplasma menjadi ruang berlangsungnya reaksi sel. Ribosom menyusun protein. Pada bakteri, dinding sel umumnya mengandung peptidoglikan, sedangkan arkea memiliki susunan dinding yang berbeda. Perbedaan ini penting dalam klasifikasi dan respons terhadap lingkungan.
+Bentuk sel dapat berupa kokus, basil, atau spiral, tetapi bentuk saja tidak cukup untuk menentukan spesies. Pengamatan laboratorium menggabungkan ciri morfologi, pewarnaan, karakter fisiologis, dan metode molekuler. Hasil identifikasi harus disertai metode karena tiap metode memiliki keterbatasan.
 
 BAB 3. PERTUMBUHAN DAN LINGKUNGAN
 
-Pertumbuhan populasi mikroba dipengaruhi ketersediaan nutrisi, suhu, pH, air, oksigen, dan kondisi lingkungan lain. Dalam kondisi sesuai, sebagian mikroba berkembang biak dengan pembelahan biner. Kurva pertumbuhan sering dijelaskan melalui fase lag, eksponensial, stasioner, dan penurunan. Model ini membantu memahami perubahan populasi dalam kultur.
+Pertumbuhan mikroba dapat berarti bertambahnya ukuran sel atau bertambahnya jumlah sel; dalam kajian populasi, istilah ini biasanya merujuk pada peningkatan jumlah sel atau biomassa. Bakteri tertentu berkembang biak melalui pembelahan biner, yaitu satu sel membentuk dua sel anak. Waktu generasi adalah waktu yang diperlukan populasi untuk berlipat ganda pada kondisi tertentu, bukan angka tetap yang berlaku untuk semua mikroba.
+Kurva pertumbuhan dalam sistem tertutup sering dibagi menjadi fase lag, eksponensial, stasioner, dan kematian. Pada fase lag, sel menyesuaikan metabolisme dengan lingkungan. Pada fase eksponensial, pembelahan berlangsung relatif cepat dan teratur. Pada fase stasioner, laju pembentukan sel seimbang dengan laju kehilangan sel akibat keterbatasan sumber daya atau penumpukan produk. Pada fase kematian, jumlah sel hidup menurun.
+Suhu, pH, aktivitas air, ketersediaan nutrisi, salinitas, dan oksigen memengaruhi pertumbuhan. Mikroba berbeda memiliki rentang toleransi berbeda. Karena itu, membandingkan laju pertumbuhan tanpa menyamakan kondisi pengamatan dapat menghasilkan kesimpulan keliru. Pembahasan pertumbuhan dalam buku ini bersifat konseptual; kegiatan kultur mikroorganisme harus dilakukan hanya di fasilitas pendidikan yang sesuai, dengan bahan aman dan pengawasan.
 
 BAB 4. MIKROBA DAN EKOSISTEM
 
-Mikroorganisme berperan dalam daur karbon, nitrogen, dan unsur lain. Pengurai memecah bahan organik sehingga nutrisi kembali tersedia. Mikroba tertentu membantu tanaman memperoleh nitrogen, sementara komunitas mikroba tanah berpengaruh pada struktur dan kesuburan tanah. Hubungan mikroba dengan organisme lain dapat saling menguntungkan, netral, atau merugikan.
+Mikroorganisme merupakan bagian penting dari aliran energi dan daur materi. Pengurai memecah sisa organisme dan mengembalikan unsur seperti karbon, nitrogen, dan fosfor ke lingkungan. Dalam daur karbon, mikroba tanah dan perairan membantu menguraikan bahan organik, sementara mikroorganisme fotosintetik tertentu mengikat karbon dioksida. Proses ini memengaruhi ketersediaan karbon dan keseimbangan ekosistem.
+Dalam daur nitrogen, beberapa mikroba mengubah nitrogen atmosfer menjadi senyawa yang dapat dimanfaatkan organisme, sedangkan kelompok lain mengubah senyawa nitrogen melalui nitrifikasi dan denitrifikasi. Proses tersebut tidak berlangsung secara terpisah dari lingkungan: kelembapan, oksigen, sumber karbon, dan kondisi tanah memengaruhi aktivitas komunitas mikroba.
+Hubungan mikroba dengan organisme lain dapat berupa mutualisme, komensalisme, atau parasitisme. Mikoriza, misalnya, merupakan hubungan antara jamur tertentu dan akar tumbuhan yang dapat membantu penyerapan mineral. Namun, manfaat atau dampak suatu hubungan bergantung pada spesies dan kondisi lingkungan; satu label tidak selalu berlaku pada semua keadaan.
 
 BAB 5. MIKROBA, PANGAN, DAN KESEHATAN
 
-Fermentasi memanfaatkan aktivitas mikroorganisme untuk menghasilkan perubahan yang diinginkan pada bahan pangan. Namun, kontaminasi oleh mikroba yang tidak diinginkan dapat menyebabkan kerusakan atau penyakit. Kebersihan tangan, air bersih, penyimpanan yang tepat, dan pemasakan sesuai anjuran merupakan bagian penting pencegahan risiko biologis.
+Fermentasi merupakan proses metabolisme yang memanfaatkan aktivitas mikroorganisme atau enzim untuk mengubah bahan. Pada beberapa pangan, mikroba menghasilkan asam, gas, atau senyawa aroma yang membentuk rasa dan tekstur. Yoghurt, tempe, dan beberapa produk fermentasi lain dihasilkan melalui proses yang berbeda dan melibatkan mikroorganisme yang sesuai. Keberhasilan dan keamanan pangan bergantung pada bahan baku, kebersihan, proses, suhu, waktu, serta penyimpanan.
+Kontaminasi dapat berasal dari bahan, air, permukaan, peralatan, atau penanganan yang tidak higienis. Tidak semua perubahan bau atau warna menunjukkan jenis mikroba tertentu, sehingga pangan yang tampak normal pun tidak selalu bebas risiko. Ikuti pedoman keamanan pangan dan jangan mencicipi bahan yang dicurigai rusak.
+Mikrobiota manusia adalah komunitas mikroorganisme yang hidup pada tubuh dan berinteraksi dengan fungsi biologis. Komposisinya berbeda antarbagian tubuh dan dapat dipengaruhi usia, lingkungan, pola makan, obat, serta kondisi kesehatan. Klaim tentang manfaat suatu produk mikroba perlu diperiksa berdasarkan bukti klinis yang relevan; hasil penelitian awal tidak otomatis membuktikan manfaat untuk semua orang.
 
 BAB 6. MEMBACA INFORMASI MIKROBIOLOGI
 
@@ -72,11 +80,13 @@ PEDOMAN PENILAIAN
 Penilaian menggunakan empat kriteria: ketepatan konsep, kualitas bukti, kejelasan penalaran, dan kemampuan menyampaikan keterbatasan. Jawaban tidak harus sama persis dengan contoh selama argumennya konsisten dan didukung informasi yang tepat.
 
 GLOSARIUM
-Mikroorganisme: Organisme berukuran sangat kecil.
-Prokariotik: Tipe sel yang tidak memiliki inti bermembran.
-Fermentasi: Proses metabolisme yang dilakukan mikroorganisme atau sel.
-Kontaminasi: Masuknya bahan atau organisme yang tidak diinginkan.
-Ekosistem: Kesatuan komunitas makhluk hidup dan lingkungannya.
+Prokariota: Organisme yang selnya tidak memiliki inti bermembran.
+Eukariota: Organisme dengan sel yang memiliki inti bermembran.
+Nukleoid: Wilayah sel prokariotik tempat materi genetik utama berada.
+Pembelahan biner: Proses reproduksi sel ketika satu sel membelah menjadi dua.
+Fase eksponensial: Tahap pertumbuhan populasi dengan laju peningkatan relatif tetap.
+Mikrobiota: Komunitas mikroorganisme yang hidup pada lingkungan tertentu.
+Fermentasi: Proses metabolisme yang menghasilkan perubahan senyawa melalui aktivitas sel atau enzim.
 
 CATATAN SUMBER DAN PENGEMBANGAN
 Buku ini merupakan materi pengantar orisinal. Untuk tugas akademik atau keputusan praktis, bandingkan penjelasan dengan buku ajar, standar, peraturan, dan publikasi lembaga yang kompeten. Catat judul sumber, penulis atau lembaga, tahun terbit, dan bagian yang digunakan. Periksa tanggal sumber pada topik yang dapat berubah.

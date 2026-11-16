@@ -174,3 +174,32 @@ Rekonsiliasi: Pencocokan dua catatan untuk menemukan selisih.
 
 CATATAN BELAJAR DAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar dan publikasi lembaga kompeten. Catat penulis atau lembaga, judul, tahun, dan bagian sumber. Periksa tanggal pembaruan terutama untuk pengetahuan yang berkembang, peraturan, teknologi, dan data statistik.
+
+BAB LANJUTAN: SIKLUS AKUNTANSI DAN PENGENDALIAN KEUANGAN
+
+1. Dari bukti transaksi ke pencatatan
+Setiap pencatatan perlu didukung bukti yang relevan, seperti faktur, kuitansi, nota, atau dokumen penerimaan. Periksa tanggal, pihak yang terlibat, uraian, jumlah, dan persetujuan. Dokumen yang tidak lengkap perlu ditandai untuk klarifikasi, bukan diisi berdasarkan perkiraan.
+
+2. Persamaan dasar akuntansi
+Aset adalah sumber daya yang dikuasai entitas; kewajiban adalah tanggungan kepada pihak lain; ekuitas merupakan hak residual. Persamaan dasarnya: Aset = Kewajiban + Ekuitas. Setiap transaksi memengaruhi setidaknya dua sisi pencatatan sehingga persamaan tetap seimbang. Keseimbangan angka saja belum menjamin transaksi benar; klasifikasi dan bukti tetap harus diperiksa.
+
+3. Jurnal dan buku besar
+Jurnal mencatat transaksi secara kronologis dengan akun debit dan kredit. Setelah itu, nilai dipindahkan ke buku besar agar perubahan setiap akun dapat dilihat. Debit dan kredit bukan sinonim dari bertambah dan berkurang untuk semua akun; pengaruhnya bergantung pada kelompok akun. Karena itu, pahami sifat normal akun sebelum mencatat.
+
+4. Neraca saldo dan penyesuaian
+Neraca saldo merangkum saldo akun untuk memeriksa keseimbangan debit dan kredit. Namun, kesalahan yang jumlahnya sama pada kedua sisi masih mungkin terjadi. Pada akhir periode, penyesuaian dapat diperlukan untuk beban yang masih harus dibayar, pendapatan yang masih harus diterima, pemakaian perlengkapan, penyusutan, atau transaksi yang manfaatnya melampaui satu periode.
+
+5. Laporan keuangan
+Laporan laba rugi merangkum pendapatan dan beban selama periode. Laporan posisi keuangan menunjukkan aset, kewajiban, dan ekuitas pada tanggal tertentu. Laporan arus kas menjelaskan penerimaan dan pengeluaran kas menurut aktivitas. Catatan atas laporan memberi rincian kebijakan dan informasi yang diperlukan untuk memahami angka.
+
+6. Pengendalian internal
+Pemisahan tugas, persetujuan transaksi, pembatasan akses, rekonsiliasi, dan pemeriksaan berkala membantu mengurangi kesalahan serta penyalahgunaan. Pada organisasi kecil, pemisahan tugas mungkin terbatas; pemeriksaan oleh pihak lain dan dokumentasi yang konsisten menjadi semakin penting.
+
+7. Membaca informasi keuangan secara kritis
+Bandingkan angka antarperiode, pahami perubahan kebijakan, dan perhatikan arus kas selain laba. Rasio keuangan dapat membantu analisis, tetapi tidak boleh ditafsirkan sendirian. Industri, ukuran organisasi, musim usaha, dan kondisi ekonomi memengaruhi arti suatu rasio.
+
+CONTOH
+Usaha menerima pembayaran tunai untuk jasa yang telah selesai. Catat penerimaan kas dan pendapatan jasa sesuai bukti. Jika pelanggan baru membayar uang muka untuk jasa yang belum diberikan, perlakuannya berbeda karena kewajiban pelayanan masih ada. Waktu pengakuan transaksi harus mengikuti prinsip dan standar yang berlaku.
+
+LATIHAN
+Buat lima transaksi sederhana usaha kecil: setoran modal, pembelian perlengkapan tunai, pembelian barang secara kredit, penerimaan pendapatan, dan pembayaran beban. Tentukan akun yang terpengaruh, sisi debit-kredit, serta dokumen pendukung yang diperlukan.

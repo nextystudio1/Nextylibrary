@@ -53,7 +53,6 @@ PROYEK TERPADU
 Proyek Dasar Analisis Risiko: pilih persoalan nyata yang dapat dikaji dengan konsep dari beberapa bab. Rumuskan pertanyaan, tujuan, ruang lingkup, dan cara memperoleh informasi. Gunakan metode yang sesuai dengan bidang ini, catat sumber dan batas data, lalu susun hasil menjadi laporan yang memisahkan temuan, penafsiran, dan rekomendasi. Jelaskan siapa yang dapat memanfaatkan hasil serta apa yang masih perlu diteliti.
 
 EVALUASI AKHIR
-EVALUASI AKHIR
 1. Bedakan bahaya, paparan, kerentanan, dan risiko.
 2. Jelaskan mengapa penilaian risiko perlu menetapkan kriteria kemungkinan dan dampak.
 3. Uraikan hierarki pengendalian dan alasan pengendalian pada sumber bahaya sering lebih kuat.

@@ -202,3 +202,28 @@ Perbaikan: “Sejumlah warga yang diwawancarai menyampaikan keberatan terhadap p
 
 LATIHAN
 Buat rancangan berita tentang fasilitas umum di lingkungan sekolah. Susun lima pertanyaan, daftar dokumen yang perlu diperiksa, pihak yang perlu dimintai tanggapan, dan risiko privasi yang harus dihindari.
+
+BAB 11. VERIFIKASI INFORMASI DAN SUMBER
+Jurnalis perlu memeriksa klaim sebelum menerbitkan berita. Verifikasi dapat mencakup dokumen asli, saksi, data, lokasi, waktu, dan konfirmasi dari pihak terkait. Satu unggahan media sosial bukan bukti yang cukup untuk semua klaim. Periksa apakah gambar atau video berasal dari peristiwa dan waktu yang disebutkan. Simpan catatan proses verifikasi agar keputusan editorial dapat ditinjau.
+
+BAB 12. WAWANCARA DAN PERLINDUNGAN NARASUMBER
+Wawancara yang baik dimulai dengan riset dan pertanyaan terbuka. Dengarkan jawaban, minta penjelasan, dan hindari memasukkan asumsi ke dalam pertanyaan. Jelaskan konteks penggunaan informasi dan sepakati batas yang relevan. Lindungi data pribadi dan pertimbangkan risiko bagi narasumber, terutama anak atau kelompok rentan. Jangan menjanjikan kerahasiaan yang tidak dapat dipenuhi.
+
+BAB 13. MENULIS BERITA DAN STRUKTUR INFORMASI
+Berita menyampaikan informasi utama dengan jelas, akurat, dan proporsional. Teras berita merangkum unsur terpenting, sementara paragraf berikutnya memberi konteks, rincian, dan tanggapan. Judul harus sesuai isi dan tidak membesar-besarkan. Kutipan perlu akurat dan tidak dipotong hingga mengubah makna. Pisahkan fakta, pernyataan narasumber, dan analisis penulis.
+
+BAB 14. ETIKA, KOREKSI, DAN HAK PRIVASI
+Etika jurnalistik menuntut akurasi, independensi, keadilan, dan tanggung jawab. Kesalahan yang sudah diterbitkan perlu dikoreksi secara terbuka dan jelas. Identitas korban, anak, atau pihak yang berisiko tidak boleh dibuka tanpa pertimbangan kuat dan dasar yang sah. Foto serta rekaman perlu digunakan dengan konteks yang benar. Kepentingan publik harus dibedakan dari rasa ingin tahu publik.
+
+BAB 15. JURNALISME DIGITAL DAN MULTIMEDIA
+Berita digital dapat memadukan teks, foto, audio, video, grafik, dan tautan dokumen. Setiap unsur harus membantu pemahaman dan dapat diverifikasi. Grafik perlu mencantumkan sumber dan skala. Konten yang dibuat atau diubah dengan alat digital harus diperiksa sebelum dipublikasikan dan diberi keterangan bila konteksnya memerlukan. Kecepatan publikasi tidak boleh mengalahkan akurasi.
+
+PROYEK
+Buat laporan berita pendek tentang kegiatan publik yang aman dan terbuka. Siapkan daftar pertanyaan, verifikasi dua sumber independen, catat konteks, dan minta izin untuk foto atau kutipan yang relevan. Tulis judul yang proporsional dan sertakan koreksi bila ditemukan kesalahan.
+
+LATIHAN
+1. Sebutkan langkah verifikasi sebuah foto yang beredar.
+2. Buat tiga pertanyaan wawancara terbuka.
+3. Bedakan fakta dan opini dalam satu paragraf berita.
+4. Jelaskan kapan identitas narasumber perlu dilindungi.
+5. Mengapa koreksi harus dilakukan secara jelas?

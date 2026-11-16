@@ -770,3 +770,220 @@ Analisis energi memerlukan pemahaman sains, data, matematika, teknologi, dan kon
 
 CATATAN EDITOR BAGIAN V
 Bagian ini merupakan materi pembelajaran konseptual. Contoh hitungan dibuat untuk latihan dan bukan rekomendasi ukuran peralatan. Data proyek nyata harus berasal dari pengukuran dan sumber yang dapat diverifikasi. Ketentuan teknis, keselamatan, dan perizinan mengikuti peraturan yang berlaku.
+
+
+
+BAGIAN VI — PENERAPAN, PERENCANAAN, DAN EVALUASI PROYEK
+
+BAB 48 — PANAS, PENDINGINAN, DAN ELEKTRIFIKASI
+
+48.1 Energi untuk panas
+Banyak kegiatan manusia membutuhkan panas, mulai dari memasak dan memanaskan air hingga proses industri. Panas dapat berasal dari pembakaran bahan bakar, listrik, panas matahari, panas bumi, atau pemanfaatan panas buangan. Pilihan teknologi dipengaruhi tingkat temperatur yang diperlukan, kontinuitas layanan, biaya, keselamatan, dan sumber energi yang tersedia.
+
+Kebutuhan panas bersuhu rendah berbeda dari kebutuhan panas bersuhu tinggi. Pemanasan air untuk keperluan bangunan dapat memiliki pilihan teknologi yang berbeda dari proses industri yang memerlukan temperatur sangat tinggi. Karena itu, istilah “elektrifikasi panas” tidak menunjuk satu alat saja. Kajian perlu memetakan temperatur, jadwal operasi, dan kebutuhan proses.
+
+48.2 Pompa kalor
+Pompa kalor memindahkan panas dari satu tempat ke tempat lain dengan bantuan energi listrik. Pada kondisi yang sesuai, energi panas yang dipindahkan dapat lebih besar daripada energi listrik yang digunakan karena alat memindahkan panas, bukan hanya mengubah listrik menjadi panas secara langsung. Kinerjanya dipengaruhi perbedaan temperatur, desain, kondisi lingkungan, dan pemeliharaan.
+
+Koefisien kinerja atau COP membandingkan panas yang disalurkan dengan energi yang digunakan pada kondisi tertentu. Nilai COP tidak tetap untuk semua kondisi. Perbandingan yang adil harus menyebut temperatur sumber dan tujuan, kondisi pengujian, serta batas sistem. Pompa kalor bukan berarti energi tanpa batas; alat tetap memerlukan listrik dan rancangan yang sesuai.
+
+48.3 Memasak dan layanan rumah tangga
+Pilihan memasak dapat mencakup listrik, gas, biomassa, atau teknologi lain. Perbandingan perlu memasukkan efisiensi, biaya bahan bakar, kualitas udara dalam ruang, keselamatan, ketersediaan energi, dan kebiasaan memasak. Peralihan teknologi harus memperhatikan kemampuan rumah tangga membeli perangkat dan membayar energi.
+
+48.4 Panas buangan
+Sebagian proses industri melepaskan panas yang belum dimanfaatkan. Pemulihan panas dapat mengurangi kebutuhan energi baru jika temperatur, waktu, dan lokasi sumber panas sesuai dengan kebutuhan lain. Namun, pemulihan membutuhkan penukar panas, sistem kendali, pemeliharaan, dan evaluasi keselamatan. Tidak semua panas buangan dapat digunakan kembali secara ekonomis.
+
+BAB 49 — KUALITAS UDARA, KESEHATAN, DAN MANFAAT ENERGI
+
+49.1 Emisi dan polutan
+Pembakaran bahan bakar dapat menghasilkan polutan udara seperti partikulat, nitrogen oksida, sulfur dioksida, dan senyawa lain, bergantung bahan bakar dan teknologi. Polutan dapat memengaruhi kesehatan manusia dan lingkungan. Analisis energi sebaiknya tidak hanya menghitung karbon dioksida, tetapi juga mempertimbangkan kualitas udara lokal.
+
+49.2 Paparan dan kerentanan
+Dampak kesehatan bergantung pada jenis polutan, konsentrasi, durasi paparan, lokasi, dan kondisi masyarakat. Anak-anak, lansia, serta orang dengan kondisi kesehatan tertentu dapat lebih rentan terhadap polusi. Data kesehatan harus dikelola secara etis dan tidak digunakan untuk membuat kesimpulan sebab-akibat tanpa metode yang tepat.
+
+49.3 Manfaat efisiensi
+Efisiensi bangunan, transportasi publik, peralatan yang lebih baik, dan pengurangan pembakaran terbuka dapat memberikan manfaat kesehatan selain penghematan energi. Manfaat tersebut perlu dinilai dengan indikator yang relevan dan tidak diasumsikan otomatis terjadi. Desain dan pelaksanaan program menentukan hasil.
+
+49.4 Keadilan manfaat
+Kelompok yang paling terdampak polusi belum tentu kelompok yang paling mudah mengakses teknologi bersih. Kebijakan perlu mempertimbangkan keterjangkauan, akses informasi, lokasi fasilitas, dan dukungan bagi rumah tangga berpenghasilan rendah. Keberhasilan transisi tidak hanya diukur dari kapasitas pembangkit, tetapi juga dari peningkatan kualitas layanan dan kesehatan lingkungan.
+
+BAB 50 — PEMBIAYAAN DAN MODEL KEPEMILIKAN
+
+50.1 Sumber pembiayaan
+Proyek energi dapat dibiayai melalui anggaran publik, modal perusahaan, pinjaman, investasi, hibah, atau gabungan beberapa sumber. Setiap sumber memiliki biaya, syarat, risiko, dan kewajiban pelaporan. Hibah dapat membantu proyek tertentu, tetapi biaya operasi dan pemeliharaan tetap harus tersedia setelah bantuan awal berakhir.
+
+50.2 Kepemilikan aset
+Aset dapat dimiliki pemerintah, perusahaan, koperasi, komunitas, atau rumah tangga. Model kepemilikan memengaruhi siapa yang mengambil keputusan, menanggung risiko, memperoleh pendapatan, dan bertanggung jawab atas pemeliharaan. Tidak ada satu model yang selalu cocok. Kapasitas pengelola dan aturan hukum harus diperiksa sejak awal.
+
+50.3 Keterjangkauan pembiayaan
+Sebuah proyek mungkin layak secara teknis tetapi tidak terjangkau bagi pengguna. Analisis perlu membandingkan biaya layanan dengan kemampuan membayar dan manfaat yang diterima. Skema cicilan atau subsidi harus transparan agar tidak menimbulkan beban tersembunyi. Perlindungan konsumen penting dalam penawaran produk energi rumah tangga.
+
+50.4 Risiko kontrak
+Kontrak perlu menjelaskan spesifikasi, jadwal, tanggung jawab, garansi, standar kinerja, pemeliharaan, penanganan kegagalan, dan penyelesaian sengketa. Pengadaan yang hanya berfokus pada harga terendah dapat mengabaikan mutu dan biaya sepanjang umur. Evaluasi penawaran perlu memakai kriteria yang diumumkan sejak awal.
+
+BAB 51 — MANAJEMEN PROYEK ENERGI
+
+51.1 Tahapan proyek
+Proyek energi umumnya melalui identifikasi kebutuhan, studi awal, studi kelayakan, perizinan, pembiayaan, desain, pengadaan, konstruksi, pengujian, operasi, pemeliharaan, dan penutupan. Setiap tahap memiliki keluaran dan keputusan. Melompat dari gagasan langsung ke pembelian peralatan dapat menyebabkan ketidaksesuaian kapasitas, lokasi, dan kebutuhan.
+
+51.2 Jadwal dan ketergantungan
+Jadwal proyek perlu menunjukkan aktivitas yang saling bergantung. Misalnya, pengadaan peralatan tertentu mungkin baru dilakukan setelah desain dan izin disetujui. Keterlambatan satu tahap dapat memengaruhi tahap berikutnya. Jadwal yang realistis memasukkan waktu konsultasi, pemeriksaan mutu, pengiriman, dan kemungkinan cuaca buruk.
+
+51.3 Manajemen risiko
+Daftar risiko sebaiknya mencatat peristiwa, penyebab, kemungkinan, konsekuensi, pemilik risiko, tindakan pencegahan, dan rencana respons. Risiko dapat berubah sepanjang proyek. Daftar perlu ditinjau berkala, bukan dibuat hanya untuk memenuhi dokumen awal.
+
+51.4 Pengendalian mutu
+Pengendalian mutu memastikan barang dan pekerjaan sesuai spesifikasi. Dokumen penerimaan perlu mencatat pemeriksaan, hasil pengujian, penyimpangan, dan tindakan koreksi. Pengujian hanya dilakukan oleh pihak yang kompeten dengan prosedur yang disetujui. Dokumentasi memudahkan pemeliharaan dan penelusuran masalah.
+
+BAB 52 — OPERASI, PEMELIHARAAN, DAN AKHIR MASA PAKAI
+
+52.1 Rencana operasi
+Rencana operasi menetapkan siapa yang bertanggung jawab, bagaimana sistem dipantau, bagaimana gangguan dilaporkan, dan bagaimana keputusan operasional dibuat. Pengguna perlu mengetahui batas layanan dan cara menghubungi pengelola. Sistem yang tidak memiliki penanggung jawab jelas berisiko tidak terawat.
+
+52.2 Pemeliharaan preventif dan korektif
+Pemeliharaan preventif dilakukan untuk mengurangi kemungkinan kegagalan, misalnya pemeriksaan terjadwal sesuai petunjuk produsen. Pemeliharaan korektif dilakukan setelah masalah ditemukan. Catatan pemeliharaan membantu mengenali komponen yang sering bermasalah dan memperbaiki rencana suku cadang.
+
+52.3 Ketersediaan suku cadang
+Suku cadang yang sulit diperoleh dapat memperpanjang waktu gangguan. Saat memilih teknologi, periksa dukungan pemasok, jaringan servis, masa ketersediaan komponen, dan kemungkinan penggantian yang kompatibel. Harga awal rendah tidak selalu menguntungkan jika layanan purna jual tidak memadai.
+
+52.4 Penutupan proyek
+Akhir masa pakai harus direncanakan sejak awal. Komponen mungkin dapat digunakan ulang, diperbaiki, didaur ulang, atau harus dikelola sebagai limbah khusus. Rencana penutupan mencakup pembongkaran aman, pemulihan lokasi, pengangkutan, dokumentasi, dan pembiayaan. Tanggung jawab tidak boleh dibiarkan tanpa pemilik ketika aset berhenti beroperasi.
+
+BAB 53 — KEBIJAKAN ENERGI DAN PERUBAHAN PERILAKU
+
+53.1 Peran kebijakan
+Kebijakan dapat mengarahkan investasi, menetapkan standar, memperbaiki akses, mendorong efisiensi, dan mengurangi dampak lingkungan. Kebijakan perlu memiliki tujuan yang terukur dan mekanisme evaluasi. Perubahan aturan yang terlalu sering atau tidak jelas dapat meningkatkan ketidakpastian investasi dan membebani pengguna.
+
+53.2 Standar dan label
+Standar minimum kinerja dapat mencegah perangkat yang sangat boros memasuki pasar. Label energi membantu konsumen membandingkan produk berdasarkan metode uji tertentu. Pembeli tetap perlu memeriksa ukuran, pola penggunaan, biaya awal, dan biaya operasi. Label tidak selalu menggambarkan konsumsi aktual setiap rumah tangga.
+
+53.3 Perilaku dan kebiasaan
+Perilaku pengguna memengaruhi waktu dan jumlah energi yang dipakai. Informasi yang jelas, umpan balik pemakaian, desain ruang, dan pengaturan perangkat dapat membantu kebiasaan hemat. Program perubahan perilaku sebaiknya tidak menyalahkan individu ketika masalah utama berasal dari bangunan yang buruk, perangkat tidak efisien, atau keterbatasan layanan.
+
+53.4 Evaluasi kebijakan
+Evaluasi membandingkan tujuan dengan hasil. Periksa apakah kebijakan mencapai kelompok sasaran, apakah biaya pelaksanaan wajar, dan apakah muncul dampak yang tidak diinginkan. Hasil evaluasi sebaiknya dipublikasikan agar kebijakan dapat diperbaiki berdasarkan bukti.
+
+BAB 54 — DATA TERBUKA, PEMODELAN, DAN DIGITALISASI
+
+54.1 Data energi
+Data energi dapat berasal dari meter, sensor, catatan operator, survei, citra satelit, dan publikasi statistik. Setiap sumber memiliki resolusi, ketelitian, cakupan, dan batas penggunaan. Metadata menjelaskan bagaimana data dikumpulkan dan apa arti setiap kolom. Tanpa metadata, angka mudah disalahartikan.
+
+54.2 Model dan asumsi
+Model menyederhanakan sistem nyata untuk menjawab pertanyaan tertentu. Model permintaan, cuaca, jaringan, dan ekonomi dapat membantu menguji skenario. Namun, hasil model bukan fakta yang pasti. Pengguna harus mengetahui asumsi, batas, versi data, serta kondisi yang tidak dimasukkan.
+
+54.3 Digitalisasi dan keamanan
+Sistem digital dapat membantu pemantauan dan kendali, tetapi juga menimbulkan kebutuhan keamanan siber, perlindungan data, dan kesinambungan operasi. Akses harus diberikan sesuai tugas, perangkat lunak perlu diperbarui oleh pengelola, dan prosedur pemulihan perlu disiapkan. Pembelajaran umum tidak memerlukan akses ke sistem kendali fasilitas nyata.
+
+54.4 Keterbukaan yang bertanggung jawab
+Data publik membantu penelitian dan akuntabilitas, tetapi tidak semua data boleh dibuka. Informasi pribadi, data pelanggan, dan rincian yang dapat mengganggu keamanan fasilitas perlu dilindungi. Publikasi data sebaiknya menghapus identitas dan menjelaskan batas pemanfaatan.
+
+BAB 55 — MEMBANGUN PORTOFOLIO ENERGI YANG BERAGAM
+
+55.1 Mengapa keberagaman penting
+Sistem yang mengandalkan satu sumber dapat rentan terhadap gangguan yang memengaruhi sumber tersebut. Portofolio beragam dapat menggabungkan sumber dengan karakteristik berbeda, efisiensi, penyimpanan, jaringan, dan pengelolaan permintaan. Namun, keberagaman saja tidak menjamin keandalan jika semua sumber menghadapi risiko yang sama atau jaringan tidak memadai.
+
+55.2 Kesesuaian wilayah
+Portofolio perlu sesuai dengan sumber daya, pola permintaan, kondisi lingkungan, dan kemampuan pengelola setempat. Daerah dengan potensi hidro musiman mungkin membutuhkan sumber pendukung pada musim kering. Wilayah dengan produksi surya tinggi mungkin memerlukan pengaturan beban dan penyimpanan untuk kebutuhan malam. Setiap contoh harus diuji dengan data lokasi.
+
+55.3 Fleksibilitas
+Fleksibilitas adalah kemampuan sistem menyesuaikan produksi, konsumsi, atau penyimpanan saat kondisi berubah. Fleksibilitas dapat berasal dari pembangkit yang dapat diatur, interkoneksi, baterai, penyimpanan lain, dan respons permintaan. Nilai fleksibilitas bergantung pada kecepatan respons, durasi, lokasi, dan kebutuhan jaringan.
+
+55.4 Tidak ada resep tunggal
+Portofolio yang optimal bagi satu negara, pulau, kota, atau fasilitas belum tentu cocok bagi tempat lain. Perbandingan harus menyatakan tujuan dan batas sistem. Keputusan yang baik mempertimbangkan alternatif dan alasan mengapa alternatif tertentu dipilih atau ditolak.
+
+BAB 56 — MENYUSUN RENCANA AKSI ENERGI KOMUNITAS
+
+56.1 Mulai dari masalah yang dirasakan
+Rencana komunitas sebaiknya dimulai dengan mendengarkan masalah yang dirasakan warga: biaya tinggi, pasokan tidak andal, kualitas udara, akses fasilitas, atau kebutuhan usaha. Jangan memaksakan teknologi sebelum kebutuhan dipahami. Pemetaan masalah membantu menetapkan prioritas.
+
+56.2 Menentukan tujuan dan indikator
+Tujuan perlu spesifik dan dapat diukur. Contoh tujuan pembelajaran adalah mengurangi pemakaian listrik ruang bersama tanpa mengurangi kenyamanan. Indikator dapat mencakup konsumsi energi, jam layanan, biaya, keluhan, dan kepuasan pengguna. Tetapkan baseline sebelum tindakan.
+
+56.3 Menentukan tindakan bertahap
+Susun tindakan menurut urgensi, biaya, kemampuan pelaksana, dan dampak. Tindakan awal dapat berupa pengumpulan data, perbaikan kebiasaan, atau pemeliharaan yang aman oleh petugas. Investasi besar memerlukan studi, izin, pembiayaan, dan pengawasan profesional. Rencana bertahap memungkinkan hasil awal dipelajari sebelum langkah berikutnya.
+
+56.4 Menjaga akuntabilitas
+Tetapkan siapa yang bertanggung jawab atas setiap tindakan, bagaimana kemajuan dilaporkan, dan bagaimana warga memberi masukan. Publikasikan hasil dengan bahasa sederhana dan jelaskan bila target belum tercapai. Akuntabilitas berarti berani melaporkan keberhasilan maupun keterbatasan.
+
+LATIHAN TERPADU BAGIAN VI
+
+1. Jelaskan mengapa kebutuhan panas bersuhu rendah dan tinggi dapat memerlukan teknologi berbeda.
+2. Apa yang diukur oleh COP pompa kalor dan mengapa nilainya tidak tetap?
+3. Sebutkan tiga manfaat kesehatan yang mungkin muncul dari pengurangan polusi udara.
+4. Mengapa model kepemilikan memengaruhi keberlanjutan proyek energi komunitas?
+5. Buat urutan tahapan proyek energi dari identifikasi kebutuhan hingga penutupan.
+6. Bedakan pemeliharaan preventif dan korektif serta berikan contoh konseptual.
+7. Mengapa rencana akhir masa pakai perlu dibuat sejak awal proyek?
+8. Jelaskan bagaimana label energi dapat membantu konsumen dan apa keterbatasannya.
+9. Mengapa model komputer tidak boleh diperlakukan sebagai ramalan yang pasti?
+10. Sebutkan unsur portofolio energi yang dapat meningkatkan fleksibilitas sistem.
+11. Susun tiga indikator untuk menilai rencana aksi energi komunitas.
+12. Mengapa kebijakan penghematan energi tidak boleh hanya menyalahkan perilaku individu?
+13. Sebuah proyek memiliki peralatan canggih tetapi tidak memiliki teknisi lokal atau suku cadang. Jelaskan risiko keberlanjutannya.
+14. Mengapa keterbukaan data perlu diseimbangkan dengan perlindungan privasi dan keamanan?
+15. Susun langkah evaluasi sederhana setelah program efisiensi berjalan selama enam bulan.
+
+PEMBAHASAN RINGKAS LATIHAN BAGIAN VI
+
+1. Tingkat temperatur, kebutuhan proses, dan karakter beban berbeda sehingga teknologi dan biaya juga berbeda.
+2. COP membandingkan panas yang disalurkan dengan listrik yang digunakan. Perbedaan temperatur dan kondisi operasi mengubah kinerjanya.
+3. Potensi manfaat meliputi berkurangnya paparan partikulat dan polutan pembakaran serta peningkatan kualitas udara lokal. Dampak nyata perlu dinilai dengan data.
+4. Kepemilikan menentukan pengambilan keputusan, pembiayaan, pembagian manfaat, dan tanggung jawab pemeliharaan.
+5. Identifikasi kebutuhan, studi awal, kelayakan, izin, pembiayaan, desain, pengadaan, konstruksi, pengujian, operasi, pemeliharaan, dan penutupan.
+6. Preventif dilakukan terjadwal untuk mengurangi risiko gangguan; korektif dilakukan setelah ditemukan kerusakan atau penurunan kinerja.
+7. Karena pembongkaran, limbah, pemulihan lokasi, dan biaya akhir masa pakai dapat menjadi beban besar jika tidak direncanakan.
+8. Label memudahkan perbandingan berdasarkan metode uji, tetapi konsumsi aktual bergantung ukuran dan pola penggunaan.
+9. Model menggunakan asumsi dan data terbatas. Kondisi nyata dapat berbeda dari skenario model.
+10. Sumber beragam, interkoneksi, penyimpanan, pembangkit fleksibel, dan respons permintaan.
+11. Contohnya konsumsi energi, jam layanan, biaya layanan, keterjangkauan, dan penyelesaian keluhan.
+12. Karena konsumsi juga dipengaruhi kualitas bangunan, perangkat, infrastruktur, dan kemampuan ekonomi pengguna.
+13. Gangguan dapat berlangsung lama, biaya operasi meningkat, dan sistem tidak dapat dipulihkan dengan cepat.
+14. Data terbuka mendukung akuntabilitas, tetapi data pribadi dan rincian sensitif harus dilindungi.
+15. Bandingkan data dengan baseline, periksa perubahan jumlah pengguna dan cuaca, wawancarai pengguna, tinjau biaya, lalu dokumentasikan keterbatasan.
+
+PROYEK AKHIR BUKU — KAJIAN ENERGI MINI
+
+Tujuan
+Menyusun kajian sederhana tentang kebutuhan dan peluang perbaikan energi pada satu fasilitas yang dapat diamati dengan aman, misalnya ruang kelas, perpustakaan, atau ruang komunitas. Proyek ini bukan desain instalasi dan tidak melibatkan pekerjaan listrik.
+
+Tahap 1: Penetapan ruang lingkup
+Tentukan fasilitas, periode pengamatan, pertanyaan utama, izin yang dibutuhkan, dan batas data yang boleh dikumpulkan. Hindari mengumpulkan informasi pribadi penghuni.
+
+Tahap 2: Pengumpulan data
+Kumpulkan data tagihan agregat atau catatan yang disetujui pengelola, daftar perangkat dari label yang terlihat, jadwal penggunaan, dan pengamatan kondisi ruang. Catat tanggal, sumber, satuan, serta data yang tidak tersedia.
+
+Tahap 3: Analisis
+Hitung perkiraan energi dengan asumsi yang jelas. Identifikasi beban utama dan waktu penggunaan. Periksa apakah ada perbedaan hari kerja, akhir pekan, atau musim. Buat grafik sederhana dengan label dan satuan.
+
+Tahap 4: Alternatif tindakan
+Susun sedikitnya tiga alternatif, misalnya penjadwalan, perawatan oleh petugas, atau peningkatan efisiensi perangkat. Nilai manfaat, biaya perkiraan, dampak terhadap kenyamanan, kebutuhan izin, dan risiko. Jangan merekomendasikan tindakan yang mengurangi keselamatan atau layanan penting.
+
+Tahap 5: Evaluasi
+Pilih indikator, tetapkan baseline, dan jelaskan bagaimana hasil akan dipantau. Jika tindakan telah diterapkan oleh pengelola, bandingkan data sebelum dan sesudah dengan mempertimbangkan perubahan cuaca, jadwal, dan jumlah pengguna.
+
+Tahap 6: Pelaporan
+Susun laporan yang memuat ringkasan, tujuan, metode, data, hasil, alternatif, keterbatasan, rekomendasi, dan daftar sumber. Sertakan lampiran tabel atau grafik jika diperlukan. Presentasikan temuan secara jujur dan hindari klaim yang melampaui bukti.
+
+RUBRIK KAJIAN ENERGI MINI
+Ketepatan ruang lingkup dan etika: 15 poin.
+Kualitas sumber dan pencatatan data: 20 poin.
+Ketepatan satuan dan perhitungan: 20 poin.
+Kedalaman analisis dan alternatif: 20 poin.
+Pertimbangan sosial, lingkungan, dan keselamatan: 15 poin.
+Kejelasan laporan dan presentasi: 10 poin.
+Total: 100 poin.
+
+GLOSARIUM TAMBAHAN BAGIAN VI
+Baseline: kondisi awal yang digunakan sebagai pembanding.
+COP: rasio panas yang disalurkan pompa kalor terhadap energi yang digunakan.
+Elektrifikasi: peralihan layanan atau proses agar menggunakan listrik.
+Fleksibilitas: kemampuan sistem menyesuaikan produksi, konsumsi, atau penyimpanan.
+Pemeliharaan korektif: tindakan perbaikan setelah masalah ditemukan.
+Pemeliharaan preventif: tindakan terjadwal untuk mengurangi kemungkinan gangguan.
+Portofolio energi: gabungan sumber, teknologi, dan layanan dalam suatu sistem.
+Profil temperatur: pola tingkat panas yang dibutuhkan oleh suatu proses.
+Rantai pasok: jaringan pihak dan proses yang menyediakan bahan, komponen, serta layanan.
+Skenario: gambaran kondisi yang mungkin terjadi berdasarkan asumsi tertentu.
+
+CATATAN EDITOR BAGIAN VI
+Bagian ini memperluas pembahasan ke penggunaan panas, kesehatan, pembiayaan, manajemen proyek, pemeliharaan, digitalisasi, dan rencana komunitas. Contoh bersifat edukatif. Proyek nyata harus mengikuti hukum, standar, izin, serta persyaratan keselamatan yang berlaku.

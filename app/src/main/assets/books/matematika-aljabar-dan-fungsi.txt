@@ -234,3 +234,12 @@ MENILAI JAWABAN
 Jawaban numerik perlu diperiksa melalui substitusi. Jawaban dalam konteks juga perlu diuji dengan perkiraan. Jika model menghitung waktu perjalanan negatif atau jumlah orang pecahan, kemungkinan ada kesalahan model, asumsi, atau interpretasi. Perkiraan kasar sebelum menghitung membantu mendeteksi hasil yang tidak wajar.
 PROYEK MINI
 Rancang dua pilihan layanan dengan biaya tetap dan biaya per penggunaan. Buat fungsi biaya masing-masing, tentukan titik ketika biaya sama, lalu jelaskan pilihan yang lebih hemat untuk tiga tingkat pemakaian. Cantumkan asumsi dan batas penggunaan model.
+BAB PENGAYAAN — FUNGSI DALAM SAINS DAN KEHIDUPAN
+FUNGSI LINEAR
+Fungsi linear memiliki laju perubahan tetap. Dalam bentuk y=mx+c, m menyatakan gradien dan c titik potong sumbu-y. Jika suhu suatu cairan naik dua derajat setiap menit dari suhu awal 20 derajat, model sederhana T(t)=20+2t dapat digunakan selama laju pemanasan tetap. Model perlu diperbarui ketika pemanas berhenti atau kehilangan panas berubah.
+FUNGSI KUADRAT
+Grafik fungsi kuadrat berbentuk parabola. Titik puncak dapat menyatakan nilai maksimum atau minimum dalam suatu model. Misalnya, luas persegi panjang dengan keliling tetap dapat dimodelkan sebagai fungsi kuadrat terhadap salah satu sisi. Domain harus dibatasi oleh ukuran yang mungkin.
+FUNGSI EKSPONENSIAL
+Pertumbuhan eksponensial terjadi ketika perubahan sebanding dengan jumlah yang sudah ada. Contoh ideal adalah pertumbuhan populasi pada kondisi sumber daya tidak membatasi. Dalam kenyataan, keterbatasan ruang, makanan, dan faktor lain membuat model eksponensial hanya sesuai pada rentang tertentu.
+INTERPRETASI PARAMETER
+Parameter bukan sekadar angka dalam rumus. Parameter membawa arti sesuai konteks, seperti biaya awal, laju perubahan, atau faktor pengali. Saat parameter berubah, bentuk grafik atau prediksi juga berubah. Jelaskan arti parameter sebelum menafsirkan grafik.

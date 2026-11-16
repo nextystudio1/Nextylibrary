@@ -202,3 +202,12 @@ LATIHAN
 2. Mengapa kepadatan rata-rata tidak cukup menjelaskan persebaran penduduk?
 3. Jelaskan tiga unsur yang memengaruhi risiko bencana.
 4. Apa keterbatasan membandingkan dua citra satelit yang diambil pada musim berbeda?
+BAB PENGAYAAN — KEPULAUAN DAN KONEKTIVITAS
+KARAKTER NEGARA KEPULAUAN
+Indonesia terdiri atas banyak pulau dengan kondisi geografis yang beragam. Laut dapat menjadi penghubung jalur perdagangan dan mobilitas, sekaligus tantangan bagi pemerataan layanan. Konektivitas tidak hanya ditentukan oleh jumlah pelabuhan, tetapi juga keterjangkauan biaya, jadwal, keselamatan, dan hubungan dengan transportasi darat.
+DAERAH ALIRAN SUNGAI
+Daerah aliran sungai adalah wilayah yang mengalirkan air menuju satu sistem sungai. Perubahan tutupan lahan di hulu dapat memengaruhi erosi, sedimentasi, dan banjir di hilir. Pengelolaan DAS memerlukan koordinasi lintas wilayah karena batas administrasi tidak selalu sama dengan batas aliran air.
+PESISIR DAN LAUT
+Wilayah pesisir dipengaruhi gelombang, arus, pasang surut, sedimentasi, dan aktivitas manusia. Mangrove dan padang lamun dapat menjadi habitat serta membantu mengurangi energi gelombang pada kondisi tertentu. Perlindungan pesisir perlu didasarkan pada karakter lokasi, bukan satu solusi untuk semua tempat.
+PERENCANAAN BERBASIS DATA
+Peta tematik membantu membandingkan kondisi wilayah, tetapi data harus diperiksa tanggal, skala, dan sumbernya. Peta risiko, misalnya, perlu diperbarui ketika penggunaan lahan atau infrastruktur berubah. Data lapangan tetap penting untuk memeriksa apakah informasi spasial sesuai kondisi nyata.

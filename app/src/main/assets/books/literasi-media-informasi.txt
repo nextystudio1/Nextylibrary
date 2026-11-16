@@ -225,3 +225,12 @@ RUANG DISKUSI YANG SEHAT
 Diskusi yang produktif memisahkan kritik terhadap klaim dari serangan terhadap orang. Minta sumber secara sopan, rangkum pandangan lawan bicara secara adil, dan akui ketika bukti belum cukup. Moderasi yang baik menjelaskan aturan dan menerapkannya secara konsisten.
 LEMBAR KERJA ANALISIS
 Pilih satu isu yang diberitakan oleh dua media. Catat judul, tanggal, sumber data, narasumber, fakta yang sama, penekanan yang berbeda, serta informasi yang belum tersedia. Buat simpulan terbatas: jelaskan apa yang dapat diketahui dan apa yang masih memerlukan verifikasi.
+BAB PENGAYAAN — INFORMASI PUBLIK DAN KECERDASAN DIGITAL
+MENILAI SUMBER ILMIAH
+Artikel ilmiah umumnya menjelaskan pertanyaan, metode, hasil, dan keterbatasan. Abstrak membantu mengenali isi, tetapi tidak menggantikan pembacaan metode. Periksa ukuran sampel, cara pengukuran, pembanding, dan apakah kesimpulan sesuai data. Satu penelitian jarang cukup untuk menyelesaikan perdebatan yang kompleks.
+TINJAUAN SISTEMATIS
+Tinjauan sistematis menggunakan prosedur pencarian dan seleksi sumber yang dijelaskan. Hasilnya dapat memberi gambaran lebih luas, tetapi kualitasnya tetap bergantung pada mutu penelitian yang dimasukkan. Perhatikan tanggal pencarian, kriteria inklusi, dan konflik kepentingan.
+KONTEKS DATA TERBUKA
+Data terbuka dapat membantu masyarakat memeriksa kebijakan dan melakukan analisis. Namun data perlu memiliki definisi, satuan, format, tanggal, dan keterangan metodologi. Data yang tersedia belum tentu lengkap atau bebas bias. Jangan menghapus konteks ketika mengubah tabel menjadi grafik.
+ETIKA BERBAGI
+Sebelum mengutip unggahan seseorang, pertimbangkan apakah identitasnya perlu ditampilkan. Konten publik tetap dapat berdampak pada keselamatan dan reputasi. Gunakan kutipan secukupnya, tautkan sumber yang sah, dan hindari menyebarkan materi pribadi yang tidak relevan.

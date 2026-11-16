@@ -237,3 +237,12 @@ PRESENTASI HASIL
 Slide presentasi sebaiknya menampilkan satu gagasan utama per bagian. Hindari paragraf panjang dan dekorasi yang mengganggu. Grafik harus terbaca dari jarak wajar. Penjelasan lisan memberi konteks yang tidak perlu ditulis seluruhnya di slide. Cantumkan sumber pada visual yang menggunakan data atau karya pihak lain.
 PENILAIAN MUTU TULISAN
 Nilai tulisan melalui ketepatan isi, kekuatan bukti, struktur, konsistensi istilah, dan keterbacaan. Umpan balik yang baik menyebut bagian tertentu dan memberi saran yang dapat dilakukan. Revisi tidak berarti mempertahankan semua kalimat; terkadang paragraf perlu dipindahkan atau dihapus agar argumen lebih jelas.
+BAB PENGAYAAN — PENELUSURAN SUMBER DAN KETERBUKAAN ILMIAH
+STRATEGI PENCARIAN PUSTAKA
+Mulailah dengan kata kunci utama, sinonim, dan istilah yang lebih khusus. Gunakan operator pencarian jika tersedia, lalu catat basis data, tanggal, dan kriteria pemilihan. Jangan hanya memilih sumber yang mendukung pendapat awal. Sumber yang berbeda dapat membantu menemukan batas dan perdebatan bidang kajian.
+MENILAI MUTU PUBLIKASI
+Periksa identitas penerbit, proses penelaahan, dewan editor, dan kejelasan kebijakan publikasi. Waspadai undangan publikasi yang menjanjikan penerimaan sangat cepat tanpa penilaian yang wajar. Status jurnal saja tidak menggantikan evaluasi terhadap metode dan isi artikel.
+REPRODUKSIBILITAS
+Penelitian yang transparan menjelaskan prosedur dan analisis sehingga pembaca dapat menilai atau mengulangi langkahnya. Tidak semua data dapat dibagikan karena privasi atau ketentuan etika, tetapi peneliti dapat menjelaskan alasan pembatasan dan menyediakan informasi metodologis yang cukup.
+KETERBATASAN DAN ARAH LANJUT
+Bagian keterbatasan bukan formalitas. Jelaskan sampel, alat ukur, periode, asumsi, atau faktor yang tidak dapat dikendalikan. Usulan penelitian lanjutan harus mengikuti keterbatasan yang benar-benar ditemukan, bukan daftar ide yang tidak terkait.

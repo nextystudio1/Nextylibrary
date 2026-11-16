@@ -209,3 +209,12 @@ MENGHADAPI KONFLIK DARING
 Ketika diskusi memanas, berhenti sejenak sebelum membalas. Simpan bukti jika terjadi pelanggaran aturan, gunakan fitur pelaporan, dan minta bantuan orang dewasa atau pengelola layanan yang tepercaya bila situasi terasa tidak aman. Jangan membalas dengan menyebarkan data pribadi atau melakukan perundungan balik.
 AUDIT PRIVASI PRIBADI
 Secara berkala tinjau aplikasi yang terpasang, izin lokasi, akses kamera dan mikrofon, daftar perangkat yang masuk ke akun, serta siapa yang dapat melihat unggahan. Hapus akses yang tidak lagi diperlukan. Pengaturan dapat berubah setelah pembaruan sehingga pemeriksaan ulang berguna.
+BAB PENGAYAAN — KEWARGAAN, LAYANAN, DAN ETIKA TEKNOLOGI
+IDENTITAS DIGITAL LEMBAGA
+Sekolah, organisasi, dan lembaga publik juga memiliki identitas digital. Akun resmi perlu menjaga konsistensi informasi, keamanan akses, dan prosedur koreksi. Pengelolaan akun sebaiknya tidak bergantung pada satu orang; gunakan pembagian kewenangan yang jelas dan dokumentasi pemulihan.
+TRANSPARANSI ALGORITMA
+Keputusan otomatis dapat memengaruhi rekomendasi, penyaringan, atau akses layanan. Pengguna perlu mengetahui tujuan sistem, jenis data yang dipakai, dan cara meminta peninjauan jika terjadi kesalahan. Transparansi tidak selalu berarti membuka seluruh kode, tetapi harus memberi penjelasan yang berguna bagi pihak terdampak.
+KETERLIBATAN WARGA
+Forum daring dapat memperluas partisipasi, namun tidak semua warga nyaman atau mampu menggunakannya. Sediakan jalur alternatif dan pastikan masukan dibaca serta ditanggapi. Partisipasi yang hanya mengumpulkan komentar tanpa proses tindak lanjut dapat mengurangi kepercayaan.
+KODE ETIK KOMUNITAS
+Komunitas digital yang sehat memiliki aturan tentang perilaku, privasi, moderasi, dan penyelesaian konflik. Aturan sebaiknya ditulis dengan bahasa sederhana, diterapkan konsisten, dan memberi kesempatan untuk mengajukan keberatan. Moderator perlu membedakan kritik yang sah dari pelecehan.

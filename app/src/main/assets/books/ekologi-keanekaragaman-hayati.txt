@@ -219,3 +219,12 @@ SPESIES ASING INVASIF
 Spesies asing dapat menjadi invasif ketika menyebar dan menimbulkan dampak ekologis atau ekonomi. Pencegahan masuk dan penyebaran sering lebih efektif daripada pengendalian setelah populasi meluas. Identifikasi harus akurat agar spesies lokal tidak keliru dianggap pengganggu.
 PRAKTIK PENGAMATAN
 Catat tanggal, lokasi umum, metode, jumlah pengamat, kondisi cuaca, dan kemungkinan bias. Foto dapat membantu dokumentasi, tetapi jangan merusak habitat atau mengganggu satwa demi memperoleh gambar. Data pengamatan warga dapat bermanfaat jika metode dan keterbatasannya dijelaskan.
+BAB PENGAYAAN — IKLIM, LAHAN, DAN KEANEKARAGAMAN
+PERUBAHAN IKLIM DAN EKOSISTEM
+Perubahan suhu dan pola hujan dapat menggeser wilayah sebaran spesies, waktu berbunga, dan hubungan antara organisme. Spesies dengan ruang hidup terbatas atau kemampuan berpindah rendah dapat menghadapi risiko lebih besar. Pengamatan jangka panjang membantu membedakan variasi alami dari tren yang menetap.
+KARBON DAN PENGGUNAAN LAHAN
+Hutan, gambut, tanah, dan laut menyimpan karbon dalam jumlah besar. Pengeringan gambut dan perubahan tutupan lahan dapat melepaskan karbon yang tersimpan. Perlindungan ekosistem alami sering memberi manfaat ganda bagi keanekaragaman, air, dan iklim.
+PERTANIAN DAN KEANEKARAGAMAN
+Lanskap pertanian dapat mendukung organisme melalui pagar hidup, koridor vegetasi, dan pengelolaan pestisida yang hati-hati. Praktik yang sesuai lokasi dapat menjaga penyerbuk dan musuh alami hama. Tidak ada satu teknik yang selalu cocok; keputusan perlu mempertimbangkan jenis tanaman, tanah, iklim, dan kondisi petani.
+ADAPTASI BERBASIS EKOSISTEM
+Pemulihan mangrove, perlindungan daerah resapan, dan ruang hijau dapat membantu masyarakat menghadapi sebagian dampak iklim. Keberhasilan perlu dinilai dengan indikator sosial dan ekologis. Proyek yang mengabaikan kebutuhan warga dapat menimbulkan konflik meskipun tujuan lingkungannya baik.

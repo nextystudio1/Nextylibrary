@@ -36,121 +36,21 @@ BAB 2. SENSOR DAN PERSEPSI
 
 Sensor mengubah besaran fisik menjadi sinyal yang dapat diolah. Contohnya sensor jarak, cahaya, suhu, tekanan, dan orientasi. Setiap sensor memiliki rentang ukur, resolusi, ketelitian, waktu respons, dan sumber gangguan. Pembacaan perlu dikalibrasi serta dibandingkan dengan kondisi nyata agar sistem tidak mengambil keputusan dari data keliru.
 
-PENDALAMAN KONSEP
-Dalam mempelajari topik ini, mulai dengan mendefinisikan istilah secara tepat. Perhatikan kondisi yang membuat suatu prinsip berlaku dan keadaan yang dapat mengubah hasil. Bandingkan lebih dari satu contoh. Jika terdapat data, periksa satuan, cara pengukuran, sumber, serta rentang waktunya. Penjelasan yang baik tidak hanya menyebut hasil, tetapi juga menunjukkan alasan dan batas kesimpulan.
-
-CONTOH PENERAPAN
-Pilih situasi sederhana yang dapat diamati atau dibaca dari sumber tepercaya. Uraikan masalah, pihak yang terlibat, informasi yang tersedia, dan pilihan tindakan. Gunakan konsep bab untuk menjelaskan hubungan sebab dan akibat secara hati-hati. Sebutkan faktor lain yang mungkin berpengaruh agar analisis tidak terlalu menyederhanakan keadaan.
-
-KEGIATAN BELAJAR
-1. Tulis ringkasan konsep utama dengan bahasa sendiri.
-2. Buat peta konsep yang menunjukkan hubungan antaristilah.
-3. Bandingkan dua contoh yang memiliki kondisi berbeda.
-4. Periksa satu klaim menggunakan sumber yang dapat dipercaya.
-5. Susun pertanyaan baru yang dapat diteliti lebih lanjut.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan istilah penting dalam bab ini.
-2. Uraikan proses atau mekanisme secara berurutan.
-3. Berikan contoh penerapan dalam kehidupan sehari-hari.
-4. Sebutkan satu batasan atau risiko salah penerapan.
-5. Buat kesimpulan yang didukung alasan dan bukti.
-
 BAB 3. AKTUATOR DAN GERAK
 
 Aktuator menghasilkan gerakan atau perubahan keadaan, misalnya motor listrik, servo, dan solenoid. Pemilihan aktuator mempertimbangkan torsi, kecepatan, beban, konsumsi daya, dan ketelitian. Mekanisme roda gigi atau tuas dapat mengubah karakter gerak. Perancangan perlu memasukkan batas mekanis dan perlindungan agar komponen tidak dipaksa melampaui kemampuannya.
-
-PENDALAMAN KONSEP
-Dalam mempelajari topik ini, mulai dengan mendefinisikan istilah secara tepat. Perhatikan kondisi yang membuat suatu prinsip berlaku dan keadaan yang dapat mengubah hasil. Bandingkan lebih dari satu contoh. Jika terdapat data, periksa satuan, cara pengukuran, sumber, serta rentang waktunya. Penjelasan yang baik tidak hanya menyebut hasil, tetapi juga menunjukkan alasan dan batas kesimpulan.
-
-CONTOH PENERAPAN
-Pilih situasi sederhana yang dapat diamati atau dibaca dari sumber tepercaya. Uraikan masalah, pihak yang terlibat, informasi yang tersedia, dan pilihan tindakan. Gunakan konsep bab untuk menjelaskan hubungan sebab dan akibat secara hati-hati. Sebutkan faktor lain yang mungkin berpengaruh agar analisis tidak terlalu menyederhanakan keadaan.
-
-KEGIATAN BELAJAR
-1. Tulis ringkasan konsep utama dengan bahasa sendiri.
-2. Buat peta konsep yang menunjukkan hubungan antaristilah.
-3. Bandingkan dua contoh yang memiliki kondisi berbeda.
-4. Periksa satu klaim menggunakan sumber yang dapat dipercaya.
-5. Susun pertanyaan baru yang dapat diteliti lebih lanjut.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan istilah penting dalam bab ini.
-2. Uraikan proses atau mekanisme secara berurutan.
-3. Berikan contoh penerapan dalam kehidupan sehari-hari.
-4. Sebutkan satu batasan atau risiko salah penerapan.
-5. Buat kesimpulan yang didukung alasan dan bukti.
 
 BAB 4. SISTEM KENDALI
 
 Sistem kendali membandingkan keadaan yang diinginkan dengan keadaan terukur, lalu menentukan tindakan. Kendali terbuka menjalankan perintah tanpa umpan balik, sedangkan kendali tertutup menggunakan umpan balik untuk mengoreksi perbedaan. Parameter kendali harus diuji pada kondisi aman karena respons terlalu lambat atau terlalu agresif dapat mengganggu kestabilan.
 
-PENDALAMAN KONSEP
-Dalam mempelajari topik ini, mulai dengan mendefinisikan istilah secara tepat. Perhatikan kondisi yang membuat suatu prinsip berlaku dan keadaan yang dapat mengubah hasil. Bandingkan lebih dari satu contoh. Jika terdapat data, periksa satuan, cara pengukuran, sumber, serta rentang waktunya. Penjelasan yang baik tidak hanya menyebut hasil, tetapi juga menunjukkan alasan dan batas kesimpulan.
-
-CONTOH PENERAPAN
-Pilih situasi sederhana yang dapat diamati atau dibaca dari sumber tepercaya. Uraikan masalah, pihak yang terlibat, informasi yang tersedia, dan pilihan tindakan. Gunakan konsep bab untuk menjelaskan hubungan sebab dan akibat secara hati-hati. Sebutkan faktor lain yang mungkin berpengaruh agar analisis tidak terlalu menyederhanakan keadaan.
-
-KEGIATAN BELAJAR
-1. Tulis ringkasan konsep utama dengan bahasa sendiri.
-2. Buat peta konsep yang menunjukkan hubungan antaristilah.
-3. Bandingkan dua contoh yang memiliki kondisi berbeda.
-4. Periksa satu klaim menggunakan sumber yang dapat dipercaya.
-5. Susun pertanyaan baru yang dapat diteliti lebih lanjut.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan istilah penting dalam bab ini.
-2. Uraikan proses atau mekanisme secara berurutan.
-3. Berikan contoh penerapan dalam kehidupan sehari-hari.
-4. Sebutkan satu batasan atau risiko salah penerapan.
-5. Buat kesimpulan yang didukung alasan dan bukti.
-
 BAB 5. PEMROGRAMAN ROBOT
 
 Program robot mengatur pembacaan sensor, pengambilan keputusan, dan perintah aktuator. Program yang baik memiliki struktur modular, penanganan kesalahan, batas waktu, dan kondisi berhenti yang jelas. Simulasi dapat membantu menguji logika sebelum perangkat fisik digunakan. Catatan pengujian memudahkan pelacakan masalah.
 
-PENDALAMAN KONSEP
-Dalam mempelajari topik ini, mulai dengan mendefinisikan istilah secara tepat. Perhatikan kondisi yang membuat suatu prinsip berlaku dan keadaan yang dapat mengubah hasil. Bandingkan lebih dari satu contoh. Jika terdapat data, periksa satuan, cara pengukuran, sumber, serta rentang waktunya. Penjelasan yang baik tidak hanya menyebut hasil, tetapi juga menunjukkan alasan dan batas kesimpulan.
-
-CONTOH PENERAPAN
-Pilih situasi sederhana yang dapat diamati atau dibaca dari sumber tepercaya. Uraikan masalah, pihak yang terlibat, informasi yang tersedia, dan pilihan tindakan. Gunakan konsep bab untuk menjelaskan hubungan sebab dan akibat secara hati-hati. Sebutkan faktor lain yang mungkin berpengaruh agar analisis tidak terlalu menyederhanakan keadaan.
-
-KEGIATAN BELAJAR
-1. Tulis ringkasan konsep utama dengan bahasa sendiri.
-2. Buat peta konsep yang menunjukkan hubungan antaristilah.
-3. Bandingkan dua contoh yang memiliki kondisi berbeda.
-4. Periksa satu klaim menggunakan sumber yang dapat dipercaya.
-5. Susun pertanyaan baru yang dapat diteliti lebih lanjut.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan istilah penting dalam bab ini.
-2. Uraikan proses atau mekanisme secara berurutan.
-3. Berikan contoh penerapan dalam kehidupan sehari-hari.
-4. Sebutkan satu batasan atau risiko salah penerapan.
-5. Buat kesimpulan yang didukung alasan dan bukti.
-
 BAB 6. ETIKA DAN KESELAMATAN
 
 Robot dapat bekerja dekat manusia sehingga desain perlu memperhatikan gerakan tak terduga, titik jepit, energi tersimpan, dan kegagalan sensor. Pengujian dilakukan bertahap dengan pengawasan dan area aman. Sistem harus memiliki cara berhenti yang dapat diandalkan. Pertimbangkan privasi jika robot mengumpulkan gambar, suara, atau data lokasi.
-
-PENDALAMAN KONSEP
-Dalam mempelajari topik ini, mulai dengan mendefinisikan istilah secara tepat. Perhatikan kondisi yang membuat suatu prinsip berlaku dan keadaan yang dapat mengubah hasil. Bandingkan lebih dari satu contoh. Jika terdapat data, periksa satuan, cara pengukuran, sumber, serta rentang waktunya. Penjelasan yang baik tidak hanya menyebut hasil, tetapi juga menunjukkan alasan dan batas kesimpulan.
-
-CONTOH PENERAPAN
-Pilih situasi sederhana yang dapat diamati atau dibaca dari sumber tepercaya. Uraikan masalah, pihak yang terlibat, informasi yang tersedia, dan pilihan tindakan. Gunakan konsep bab untuk menjelaskan hubungan sebab dan akibat secara hati-hati. Sebutkan faktor lain yang mungkin berpengaruh agar analisis tidak terlalu menyederhanakan keadaan.
-
-KEGIATAN BELAJAR
-1. Tulis ringkasan konsep utama dengan bahasa sendiri.
-2. Buat peta konsep yang menunjukkan hubungan antaristilah.
-3. Bandingkan dua contoh yang memiliki kondisi berbeda.
-4. Periksa satu klaim menggunakan sumber yang dapat dipercaya.
-5. Susun pertanyaan baru yang dapat diteliti lebih lanjut.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan istilah penting dalam bab ini.
-2. Uraikan proses atau mekanisme secara berurutan.
-3. Berikan contoh penerapan dalam kehidupan sehari-hari.
-4. Sebutkan satu batasan atau risiko salah penerapan.
-5. Buat kesimpulan yang didukung alasan dan bukti.
 
 PROYEK AKHIR
 Pilih persoalan yang menghubungkan setidaknya tiga bab. Rumuskan pertanyaan, tujuan, ruang lingkup, metode pengumpulan informasi, dan bentuk hasil. Gunakan sumber yang dapat diverifikasi. Sajikan temuan, pisahkan data dari interpretasi, jelaskan keterbatasan, dan berikan rekomendasi yang realistis. Cantumkan sumber yang digunakan.

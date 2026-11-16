@@ -190,3 +190,34 @@ Transisi yang adil mempertimbangkan pekerja, rumah tangga, komunitas lokal, dan 
 
 LATIHAN ANALISIS IKLIM
 Pilih satu risiko iklim di suatu wilayah. Pisahkan bahaya, paparan, dan kerentanan. Tentukan dua pilihan mitigasi dan dua pilihan adaptasi. Untuk setiap pilihan, jelaskan manfaat, kelompok terdampak, biaya, risiko samping, dan indikator keberhasilan.
+
+BAB LANJUTAN: RISIKO IKLIM DI WILAYAH PESISIR DAN PULAU KECIL
+
+Wilayah pesisir menghadapi gabungan proses laut dan darat. Kenaikan muka laut, gelombang ekstrem, perubahan garis pantai, intrusi air asin, dan perubahan ekosistem dapat memengaruhi permukiman serta mata pencaharian. Dampak lokal berbeda menurut bentuk pantai, penurunan atau pengangkatan tanah, sedimentasi, terumbu, mangrove, dan infrastruktur.
+
+Peta genangan perlu menjelaskan asumsi elevasi, skenario muka laut, kondisi pasang, gelombang, dan resolusi data. Peta bukan ramalan pasti untuk setiap bidang tanah. Pengukuran lapangan dan pengetahuan komunitas membantu memeriksa kondisi aktual, tetapi keduanya juga perlu didokumentasikan dan dibandingkan dengan data lain.
+
+Adaptasi pesisir dapat mencakup perlindungan ekosistem, penyesuaian bangunan, peringatan dini, tata ruang, dan dalam kondisi tertentu relokasi yang direncanakan secara adil. Pilihan relokasi menyangkut hak, mata pencaharian, budaya, dan jaringan sosial. Keputusan tidak boleh dipaksakan atau hanya dinilai dari biaya konstruksi.
+
+BAB LANJUTAN: PANGAN, AIR, DAN RISIKO IKLIM
+
+Sistem pangan dipengaruhi suhu, curah hujan, ketersediaan air, tanah, hama, transportasi, penyimpanan, dan harga. Perubahan iklim dapat mengubah musim tanam dan meningkatkan ketidakpastian hasil, tetapi dampak berbeda antarjenis tanaman dan wilayah. Informasi iklim perlu diterjemahkan bersama pengetahuan agronomi dan pengalaman petani.
+
+Ketahanan pangan bukan hanya jumlah produksi. Akses ekonomi, distribusi, kualitas gizi, stabilitas pasokan, dan kemampuan rumah tangga menghadapi gangguan juga penting. Gangguan panen dapat berdampak lebih besar pada rumah tangga yang memiliki tabungan terbatas atau bergantung pada satu sumber pendapatan.
+
+Adaptasi pertanian dapat meliputi diversifikasi tanaman, pengelolaan air, varietas yang sesuai, informasi musim, dan perlindungan tanah. Setiap opsi perlu diuji secara lokal. Varietas yang cocok di satu lokasi belum tentu sesuai di lokasi lain, dan perubahan praktik dapat membutuhkan biaya serta tenaga tambahan.
+
+BAB LANJUTAN: INFORMASI IKLIM UNTUK KEPUTUSAN
+
+Informasi iklim berguna jika sesuai dengan keputusan pengguna. Petani mungkin memerlukan informasi awal musim tanam, pengelola air memerlukan perkiraan ketersediaan, sedangkan pemerintah daerah memerlukan peta risiko jangka panjang. Skala waktu, resolusi wilayah, dan format komunikasi harus disesuaikan.
+
+Prakiraan probabilistik menyatakan peluang beberapa kategori kondisi, bukan kepastian. Pengguna perlu memahami periode berlaku, wilayah cakupan, sumber, dan keterbatasan. Komunikasi yang hanya menampilkan satu angka dapat menimbulkan kesan kepastian yang keliru.
+
+Layanan informasi iklim sebaiknya dibangun bersama pengguna. Uji apakah istilah dapat dipahami, apakah pesan tiba tepat waktu, dan apakah tersedia pilihan tindakan yang realistis. Informasi yang akurat tetapi tidak dapat diakses atau tidak sesuai kebutuhan belum tentu membantu pengambilan keputusan.
+
+LATIHAN PENDALAMAN
+1. Mengapa risiko pesisir perlu mempertimbangkan proses darat dan laut?
+2. Apa keterbatasan peta genangan?
+3. Mengapa ketahanan pangan lebih luas daripada jumlah produksi?
+4. Berikan contoh adaptasi pertanian yang perlu diuji secara lokal.
+5. Apa perbedaan prakiraan probabilistik dan kepastian?

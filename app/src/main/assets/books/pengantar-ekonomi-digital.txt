@@ -131,3 +131,51 @@ Ulasan dapat membantu keputusan tetapi rentan manipulasi, konflik kepentingan, d
 
 STUDI KASUS
 Bandingkan dua platform pada kategori layanan yang sama. Petakan kelompok pengguna, sumber pendapatan, biaya, aturan peringkat, perlindungan konsumen, dan pilihan untuk keluar. Gunakan informasi publik dan jelaskan keterbatasan analisis.
+
+BAB 12. TATA KELOLA DATA DAN EKONOMI INFORMASI
+
+Data menjadi sumber daya penting dalam ekonomi digital karena dapat digunakan untuk meningkatkan layanan, memahami kebutuhan, dan mengembangkan produk. Nilai data tidak hanya berasal dari jumlahnya, tetapi juga kualitas, konteks, kebaruan, hak penggunaan, dan kemampuan mengolahnya. Data yang tidak akurat atau tidak representatif dapat menghasilkan keputusan yang merugikan.
+
+Tata kelola data menetapkan siapa yang bertanggung jawab, siapa yang boleh mengakses, untuk tujuan apa data digunakan, berapa lama disimpan, dan bagaimana data dihapus atau diperbaiki. Organisasi perlu mengelola siklus data dari pengumpulan hingga penghapusan. Pengamanan teknis harus disertai kebijakan, pelatihan, dan pengawasan.
+
+BAB 13. PLATFORM DIGITAL DAN PERSAINGAN
+
+Platform dapat mempertemukan beberapa kelompok pengguna seperti pembeli dan penjual, pengembang dan pengguna, atau pengiklan dan audiens. Efek jaringan dapat meningkatkan nilai layanan ketika lebih banyak pihak bergabung. Namun, efek tersebut juga dapat memperkuat posisi platform besar dan membuat pengguna sulit berpindah.
+
+Analisis persaingan digital perlu memeriksa biaya berpindah, interoperabilitas, akses data, aturan peringkat, dan kendali atas infrastruktur. Harga rendah bagi satu kelompok dapat dibiayai dari kelompok lain. Karena itu, evaluasi model bisnis perlu melihat keseluruhan ekosistem, bukan hanya harga yang terlihat oleh konsumen.
+
+BAB 14. ALGORITMA, REKOMENDASI, DAN TRANSPARANSI
+
+Sistem rekomendasi menyusun urutan konten atau produk berdasarkan sinyal seperti riwayat interaksi, popularitas, dan preferensi yang diperkirakan. Hasilnya dapat membantu menemukan informasi, tetapi juga dapat mempersempit paparan atau mengutamakan konten yang mendorong interaksi tinggi. Tujuan optimasi dan data pelatihan memengaruhi keluaran.
+
+Pengguna perlu memperoleh penjelasan yang cukup tentang alasan rekomendasi dan pilihan untuk mengatur preferensi bila tersedia. Organisasi perlu memantau kesalahan, bias, dan dampak terhadap kelompok berbeda. Transparansi tidak selalu berarti membuka seluruh kode, tetapi menjelaskan tujuan, faktor utama, batas sistem, dan saluran keberatan.
+
+BAB 15. KEAMANAN TRANSAKSI DAN PERLINDUNGAN KONSUMEN
+
+Transaksi digital bergantung pada identitas, autentikasi, pembayaran, pencatatan, dan penyelesaian sengketa. Keamanan harus dibangun sejak desain melalui perlindungan akun, pemantauan penyalahgunaan, pembatasan akses, dan respons insiden. Pengguna perlu memeriksa identitas penyedia, rincian biaya, kebijakan pengembalian, dan saluran bantuan.
+
+Desain yang manipulatif dapat mendorong pengguna melakukan tindakan yang tidak mereka inginkan, misalnya menyembunyikan biaya atau membuat pembatalan sulit ditemukan. Praktik seperti ini merusak kepercayaan. Perlindungan konsumen membutuhkan informasi yang jelas, pilihan yang setara, dan mekanisme pengaduan yang berfungsi.
+
+BAB 16. KERJA DIGITAL DAN PERLINDUNGAN PEKERJA
+
+Platform kerja dapat mempertemukan pekerja dengan permintaan secara fleksibel, tetapi juga menimbulkan persoalan kestabilan pendapatan, penilaian otomatis, keselamatan, dan akses perlindungan sosial. Sistem peringkat dapat memengaruhi kesempatan memperoleh pekerjaan sehingga kriteria dan proses banding perlu jelas.
+
+Analisis kerja digital harus melihat pendapatan bersih setelah biaya, waktu tunggu, risiko kerja, kendali atas jadwal, serta perlindungan yang tersedia. Fleksibilitas tidak selalu berarti kebebasan penuh jika pekerja bergantung pada aturan platform yang berubah. Kebijakan perlu mempertimbangkan suara pekerja dan data yang dapat diverifikasi.
+
+BAB 17. MODEL BISNIS DIGITAL DAN KEBERLANJUTAN
+
+Model bisnis menjelaskan nilai yang ditawarkan, kelompok pelanggan, saluran, sumber pendapatan, biaya, mitra, dan aktivitas utama. Pendapatan dapat berasal dari langganan, komisi, iklan, lisensi, atau transaksi. Setiap model memiliki insentif yang berbeda dan dapat memengaruhi pengalaman pengguna.
+
+Keberlanjutan bisnis digital bergantung pada kepercayaan, keamanan, mutu layanan, kepatuhan, dan biaya operasional. Pertumbuhan pengguna tanpa model pendapatan yang jelas dapat menciptakan ketergantungan pada pembiayaan eksternal. Evaluasi harus mempertimbangkan nilai jangka panjang, bukan hanya angka unduhan atau kunjungan.
+
+PROYEK: AUDIT TRANSPARANSI LAYANAN DIGITAL
+
+Pilih layanan publik yang dapat diamati. Baca syarat layanan dan kebijakan privasi, catat jenis data, biaya, aturan pembatalan, penggunaan rekomendasi, serta kanal pengaduan. Jangan mengakses akun orang lain atau mengumpulkan data pribadi. Sajikan temuan dan pertanyaan yang masih belum terjawab.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa kualitas data lebih penting daripada jumlah semata? Karena data salah atau bias dapat menghasilkan keputusan keliru.
+2. Apa risiko efek jaringan? Dapat memperkuat dominasi dan meningkatkan biaya berpindah.
+3. Mengapa rekomendasi algoritmik perlu diawasi? Karena tujuan dan data dapat menghasilkan bias atau dampak yang tidak diinginkan.
+4. Apa ciri desain manipulatif? Pilihan penting disembunyikan atau dibuat sulit untuk ditolak.
+5. Mengapa pendapatan pekerja digital perlu dihitung bersih? Karena biaya, waktu tunggu, dan risiko memengaruhi hasil sebenarnya.

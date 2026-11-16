@@ -25,13 +25,6 @@ LATIHAN
 4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
 5. Bukti apa yang dapat memperkuat jawabanmu?
 
-LATIHAN
-1. Apa konsep utama dalam GAMBAR SEBAGAI PESAN?
-2. Bagaimana hubungan konsep tersebut dengan bagian lain dalam buku?
-3. Berikan penerapan baru dan jelaskan langkah berpikirmu.
-4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
-5. Bukti apa yang dapat memperkuat jawabanmu?
-
 BAB 2. KOMPOSISI DAN HIERARKI
 
 Komposisi mengatur hubungan elemen visual. Ukuran, kontras, posisi, dan ruang kosong membentuk hierarki perhatian. Tata letak yang baik membantu pembaca menemukan informasi penting tanpa membuat elemen lain hilang.
@@ -55,7 +48,6 @@ Desain perlu mempertimbangkan aksesibilitas, representasi, privasi, dan hak peng
 PROYEK AKHIR
 Pilih topik yang menghubungkan minimal tiga bab. Rumuskan pertanyaan, tujuan, batasan, metode, dan bentuk hasil. Gunakan sumber yang dapat diverifikasi serta catat proses pengumpulan informasi. Sajikan data dengan jelas, pisahkan temuan dari interpretasi, dan jelaskan keterbatasan.
 
-EVALUASI AKHIR
 EVALUASI AKHIR
 1. Jelaskan bagaimana komposisi dan kontras mengarahkan perhatian pembaca.
 2. Sebutkan tanda grafik yang dapat menyesatkan pembaca.

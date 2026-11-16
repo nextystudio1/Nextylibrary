@@ -171,37 +171,37 @@ Transportasi dapat mengurangi emisi melalui efisiensi kendaraan, elektrifikasi, 
 Industri membutuhkan panas, listrik, dan bahan baku. Penghematan energi, pemulihan panas buangan, elektrifikasi proses, hidrogen rendah emisi, dan perubahan bahan dapat membantu mengurangi emisi pada sektor berbeda. Tidak semua proses dapat menggunakan solusi yang sama.
 Kebijakan transportasi perlu memperhatikan akses bagi penyandang disabilitas, keselamatan jalan, keterjangkauan, dan kebutuhan daerah yang belum memiliki angkutan umum memadai. Peralihan teknologi harus diiringi infrastruktur dan layanan yang dapat diandalkan.
 
-BAB 10 — KEBIJAKAN, PEMBIAYAAN, DAN TATA KELOLA
+BAB 20 — KEBIJAKAN, PEMBIAYAAN, DAN TATA KELOLA
 Kebijakan energi mencakup target, standar, perizinan, tarif, subsidi, pajak, pengadaan, dan dukungan riset. Instrumen kebijakan memiliki konsekuensi distribusi: manfaat dan biaya dapat jatuh pada kelompok berbeda. Evaluasi harus mengukur hasil nyata dan memperhatikan akses energi.
 Pembiayaan proyek dipengaruhi risiko konstruksi, risiko teknologi, perubahan aturan, harga energi, suku bunga, dan kemampuan pembeli. Kontrak jangka panjang dapat memberi kepastian pendapatan, tetapi perlu transparansi dan pembagian risiko yang wajar.
 Tata kelola yang baik membuka informasi, mencegah konflik kepentingan, menyediakan konsultasi, dan memiliki mekanisme pengaduan. Data proyek sebaiknya menjelaskan metode pengukuran, asumsi, dan keterbatasan. Klaim keberlanjutan harus dapat diperiksa, bukan hanya berupa slogan pemasaran.
 
-BAB 11 — METODE MEMBANDINGKAN TEKNOLOGI
+BAB 21 — METODE MEMBANDINGKAN TEKNOLOGI
 Mulailah dengan menentukan layanan yang dibandingkan, misalnya pasokan listrik andal dalam jumlah tertentu selama satu tahun. Gunakan batas sistem yang sama untuk setiap pilihan. Catat apakah biaya jaringan, penyimpanan, cadangan, pembongkaran, dan dampak lingkungan dimasukkan.
 Buat matriks kriteria yang mencakup biaya, emisi, keandalan, kebutuhan lahan dan air, waktu pembangunan, dampak ekologi, kesiapan tenaga kerja, dan penerimaan masyarakat. Beri bobot hanya jika alasan bobot dijelaskan. Analisis sensitivitas menunjukkan apakah peringkat berubah ketika asumsi diganti.
 Hindari angka tunggal tanpa konteks. Cantumkan tahun harga, mata uang, tingkat diskonto, sumber data, kapasitas, faktor kapasitas, umur proyek, dan metode. Jika data belum tersedia, tandai sebagai ketidakpastian, bukan mengisinya dengan tebakan.
 Contoh latihan: bandingkan sistem surya dengan baterai dan sistem hidro kecil pada sebuah wilayah hipotetis. Jangan langsung memilih pemenang. Daftar dahulu data yang diperlukan, termasuk pola cuaca, debit musiman, ekologi, jaringan, kebutuhan warga, dan biaya konstruksi.
 
-BAB 12 — PROYEK PEMBELAJARAN: AUDIT ENERGI SEKOLAH
+BAB 22 — PROYEK PEMBELAJARAN: AUDIT ENERGI SEKOLAH
 Tujuan proyek adalah memahami pola pemakaian energi tanpa melakukan pekerjaan listrik berbahaya. Bentuk kelompok, tentukan ruang lingkup, dan minta izin sekolah. Gunakan data tagihan atau informasi pemakaian yang telah disetujui pihak sekolah.
 Buat inventaris perangkat berdasarkan label daya dan perkiraan lama pemakaian. Jangan membongkar perangkat, membuka panel, menaiki atap, atau menyentuh kabel. Jika diperlukan pengukuran teknis, minta petugas fasilitas atau tenaga profesional melakukannya.
 Hitung perkiraan energi dari daya dan waktu penggunaan. Tandai perangkat yang menyala saat ruang kosong, pencahayaan yang tidak sesuai kebutuhan, atau kebiasaan penggunaan yang dapat diperbaiki. Usulkan perubahan yang tidak mengurangi keselamatan dan kenyamanan.
 Bandingkan perkiraan sebelum dan sesudah perubahan. Catat keterbatasan: label daya mungkin tidak menunjukkan konsumsi rata-rata, waktu pemakaian dapat berubah, dan faktor cuaca memengaruhi pendinginan. Presentasikan metode dan ketidakpastian secara jujur.
 
-BAB 13 — PROYEK PEMBELAJARAN: PETA POTENSI ENERGI DAERAH
+BAB 23 — PROYEK PEMBELAJARAN: PETA POTENSI ENERGI DAERAH
 Pilih wilayah kajian berdasarkan data publik dan izin yang sesuai. Kumpulkan informasi umum tentang radiasi matahari, pola angin, sungai, panas bumi, jaringan, penggunaan lahan, dan permukiman. Gunakan peta dari lembaga yang kredibel dan catat tahun serta skala datanya.
 Tumpang susun peta dapat membantu menemukan area yang secara awal berpotensi, tetapi tidak membuktikan kelayakan proyek. Survei lapangan, pengukuran jangka panjang, kajian lingkungan, analisis hak lahan, dan konsultasi masyarakat tetap diperlukan.
 Buat peta tematik sederhana dengan legenda dan sumber. Hindari memetakan rumah pribadi atau data sensitif. Jelaskan wilayah yang tidak dapat dinilai karena keterbatasan data.
 Kesimpulan harus menggunakan istilah “indikasi awal” bila data belum cukup. Jangan menyatakan lokasi tertentu pasti layak hanya berdasarkan peta umum.
 
-BAB 14 — KESALAHPAHAMAN UMUM TENTANG ENERGI
+BAB 24 — KESALAHPAHAMAN UMUM TENTANG ENERGI
 Kesalahpahaman pertama adalah menganggap energi terbarukan tidak memiliki dampak lingkungan. Semua teknologi memiliki rantai pasok dan kebutuhan ruang; perbedaannya terletak pada jenis, skala, lokasi, dan pengelolaan dampak.
 Kesalahpahaman kedua adalah menganggap baterai menghasilkan energi. Baterai menyimpan energi yang sebelumnya dimasukkan, dengan sebagian energi hilang selama proses pengisian dan pengosongan.
 Kesalahpahaman ketiga adalah menyamakan daya dengan energi. Daya adalah laju, sedangkan energi merupakan jumlah selama periode. Kesalahan satuan dapat menghasilkan perkiraan yang sangat keliru.
 Kesalahpahaman keempat adalah menganggap satu teknologi cocok untuk semua wilayah. Potensi surya, angin, hidro, panas bumi, dan bioenergi berbeda menurut geografi, iklim, ekologi, jaringan, dan kebutuhan masyarakat.
 Kesalahpahaman kelima adalah menganggap target kapasitas sama dengan produksi energi. Kapasitas terpasang perlu dibaca bersama faktor kapasitas, waktu pemeliharaan, ketersediaan sumber, dan batas jaringan.
 
-BAB 15 — RANGKUMAN BESAR DAN PETA KONSEP
+BAB 25 — RANGKUMAN BESAR DAN PETA KONSEP
 Sumber energi primer menyediakan energi dari alam atau bahan baku. Teknologi konversi mengubah energi menjadi listrik, panas, atau bahan bakar. Jaringan dan penyimpanan membantu menyalurkan energi pada waktu dan tempat yang dibutuhkan. Pengguna mengonsumsi energi untuk layanan seperti penerangan, mobilitas, komunikasi, dan produksi.
 Keberlanjutan tidak dapat dinilai dari satu indikator. Analisis perlu menggabungkan emisi daur hidup, biaya, keandalan, lahan, air, biodiversitas, kesehatan, pekerjaan, dan keadilan. Setiap keputusan harus sesuai konteks dan didukung data.
 Pertanyaan utama saat menilai usulan energi: layanan apa yang dibutuhkan; data sumber daya apa yang tersedia; bagaimana sistem terhubung; siapa yang memperoleh manfaat; siapa yang menanggung dampak; bagaimana risiko dikelola; dan bagaimana kinerja dipantau setelah proyek berjalan.

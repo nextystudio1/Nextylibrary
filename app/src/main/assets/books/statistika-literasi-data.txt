@@ -494,3 +494,90 @@ Data 2, 3, 3, 4, 18 memiliki rata-rata 6 dan median 3. Nilai 18 menarik rata-rat
 
 RANGKUMAN
 Literasi statistika menggabungkan pengumpulan data, pemilihan ringkasan, visualisasi, dan penalaran. Kesimpulan harus sebanding dengan kualitas sampel, metode, dan ketidakpastian.
+
+BAGIAN PENGAYAAN MATERI
+BAB LANJUTAN 1 — MERANCANG PENGUMPULAN DATA
+
+Sebelum mengumpulkan data, tentukan pertanyaan yang ingin dijawab. Pertanyaan “apakah siswa menyukai pembelajaran daring?” masih terlalu luas. Perlu ditentukan kelompok yang diteliti, periode, arti “menyukai”, serta cara mengukurnya. Pertanyaan yang jelas membantu memilih metode dan mencegah pengumpulan informasi yang tidak diperlukan.
+
+Populasi adalah seluruh kelompok yang menjadi sasaran kesimpulan, sedangkan sampel adalah bagian yang benar-benar diamati. Sampel acak memberi setiap anggota populasi peluang terpilih sesuai rancangan. Sampel kemudahan diambil dari orang yang mudah dijangkau, tetapi hasilnya berisiko tidak mewakili populasi. Jika hanya meminta pendapat dari satu kelas, hasilnya tidak otomatis menggambarkan seluruh sekolah.
+
+Bias seleksi muncul ketika cara memilih responden membuat sebagian kelompok lebih mungkin masuk sampel. Bias nonrespons terjadi ketika orang yang tidak menjawab memiliki karakteristik berbeda dari yang menjawab. Peneliti perlu mencatat siapa yang tidak terjangkau, bagaimana responden dipilih, dan batas kesimpulan yang dapat dibuat.
+
+BAB LANJUTAN 2 — VARIABEL DAN KUALITAS PENGUKURAN
+
+Variabel adalah karakteristik yang dapat memiliki nilai berbeda. Variabel kategorik membagi data ke kelompok, seperti jenis transportasi. Variabel numerik menyatakan besaran, seperti waktu perjalanan. Variabel numerik dapat bersifat diskret, misalnya jumlah buku, atau kontinu, misalnya tinggi yang diukur.
+
+Definisi operasional menjelaskan bagaimana suatu konsep diukur. “Aktivitas fisik” dapat diukur sebagai menit aktivitas per minggu, jumlah langkah harian, atau kategori frekuensi. Ketiganya tidak identik. Peneliti harus menjelaskan alat ukur, satuan, periode, dan aturan pencatatan agar hasil dapat dipahami dan diulang.
+
+Reliabilitas berkaitan dengan konsistensi pengukuran, sedangkan validitas berkaitan dengan apakah alat ukur benar-benar mengukur hal yang dimaksud. Timbangan yang selalu menunjukkan dua kilogram lebih tinggi mungkin konsisten tetapi tidak akurat. Kuesioner yang menanyakan rasa percaya diri melalui pertanyaan yang membingungkan dapat menghasilkan data yang tidak valid meskipun jawabannya mudah dihitung.
+
+BAB LANJUTAN 3 — RATA-RATA, MEDIAN, DAN SEBARAN
+
+Rata-rata dihitung dengan menjumlahkan seluruh nilai lalu membaginya dengan banyak data. Median adalah nilai tengah setelah data diurutkan. Modus adalah nilai yang paling sering muncul. Ketiganya menggambarkan pusat data dari sudut berbeda. Jika distribusi memiliki pencilan ekstrem, median sering lebih mewakili nilai tipikal daripada rata-rata.
+
+Contoh data waktu perjalanan dalam menit: 10, 12, 12, 14, dan 52. Rata-rata adalah 20 menit, sedangkan median 12 menit. Nilai 52 menarik rata-rata ke atas. Jika pertanyaan yang diajukan adalah “berapa waktu perjalanan tipikal?”, median mungkin lebih informatif, tetapi pencilan tetap perlu diperiksa dan tidak boleh dibuang tanpa alasan.
+
+Sebaran menjelaskan variasi data. Rentang adalah selisih nilai maksimum dan minimum. Simpangan baku merangkum jarak data dari rata-rata dengan mempertimbangkan seluruh nilai. Dua kelompok dapat memiliki rata-rata sama tetapi tingkat variasi berbeda. Karena itu, laporan statistik sebaiknya tidak hanya menampilkan satu angka pusat.
+
+BAB LANJUTAN 4 — KORELASI, SEBAB-AKIBAT, DAN PERANCU
+
+Korelasi menggambarkan hubungan statistik antara dua variabel, tetapi tidak dengan sendirinya membuktikan sebab-akibat. Misalnya, penjualan minuman dingin dan penggunaan kipas dapat meningkat pada hari panas. Keduanya berkaitan karena dipengaruhi suhu, bukan berarti penjualan minuman menyebabkan kipas digunakan.
+
+Variabel perancu adalah faktor lain yang berkaitan dengan variabel yang diamati dan dapat memengaruhi hubungan yang terlihat. Dalam penelitian pendidikan, latar belakang pengetahuan, waktu belajar, akses perangkat, dan dukungan lingkungan dapat memengaruhi hasil. Jika faktor tersebut tidak dipertimbangkan, kesimpulan sebab-akibat dapat keliru.
+
+Eksperimen terkontrol dapat membantu menguji sebab-akibat jika peserta atau unit penelitian dialokasikan dengan cara yang tepat dan faktor lain dikendalikan. Dalam banyak situasi, eksperimen tidak etis atau tidak praktis. Penelitian observasional tetap berguna, tetapi kesimpulannya perlu menyatakan keterbatasan dan tidak melebih-lebihkan hubungan yang ditemukan.
+
+BAB LANJUTAN 5 — MEMBACA GRAFIK DAN ANGKA DALAM BERITA
+
+Grafik batang cocok membandingkan kategori, grafik garis menunjukkan perubahan dari waktu ke waktu, dan histogram menggambarkan distribusi data numerik. Diagram lingkaran hanya mudah dibaca ketika kategori sedikit dan jumlahnya membentuk keseluruhan yang jelas. Pemilihan grafik yang tidak tepat dapat membuat informasi sulit dipahami atau menyesatkan.
+
+Periksa apakah sumbu dimulai dari nol, apakah intervalnya konsisten, apakah kategori saling eksklusif, dan apakah ukuran sampel disebutkan. Grafik yang memotong sumbu dapat memperbesar kesan perbedaan. Persentase tanpa jumlah dasar juga dapat membingungkan: kenaikan dari 1 menjadi 2 adalah kenaikan 100 persen, tetapi jumlah kasus tetap kecil.
+
+Berita yang menyebut “risiko meningkat dua kali lipat” perlu diperiksa nilai awalnya. Jika risiko berubah dari 1 per 10.000 menjadi 2 per 10.000, kenaikan relatifnya 100 persen tetapi kenaikan absolutnya 1 per 10.000. Kedua ukuran memberi gambaran berbeda dan sebaiknya disampaikan bersama.
+
+BAB LANJUTAN 6 — PELUANG DAN KETIDAKPASTIAN
+
+Sampel yang berbeda dapat menghasilkan estimasi berbeda walaupun diambil dari populasi yang sama. Variasi ini disebut kesalahan sampling. Interval kepercayaan digunakan untuk menggambarkan ketidakpastian estimasi berdasarkan metode statistik dan asumsi tertentu. Interval 95 persen tidak berarti ada peluang 95 persen bahwa satu interval tertentu berisi parameter tetap dalam interpretasi frequentist sederhana; artinya prosedur pembentukan interval akan mencakup parameter dalam sekitar 95 persen pengulangan jangka panjang jika asumsi terpenuhi.
+
+Ukuran sampel yang lebih besar biasanya mengurangi variasi sampling, tetapi tidak otomatis menghilangkan bias. Survei daring dengan sejuta responden yang dipilih secara sukarela tetap dapat tidak mewakili populasi. Kualitas rancangan sampel dan pengukuran sama pentingnya dengan jumlah responden.
+
+BAB LANJUTAN 7 — ETIKA DAN PRIVASI DATA
+
+Data tentang seseorang harus dikumpulkan dengan tujuan yang jelas dan secara proporsional. Hindari meminta nama, alamat, nomor identitas, atau informasi sensitif jika tidak diperlukan. Jelaskan tujuan, penggunaan, pihak yang dapat mengakses, masa penyimpanan, dan cara mengajukan pertanyaan atau menarik persetujuan bila relevan.
+
+Data yang telah dihilangkan namanya belum tentu sepenuhnya anonim. Kombinasi usia, lokasi, pekerjaan, dan waktu dapat mengidentifikasi seseorang dalam kelompok kecil. Karena itu, data perlu dibatasi, disamarkan secara tepat, dan disimpan dengan pengamanan yang sesuai. Hasil publikasi sebaiknya tidak menampilkan rincian yang memungkinkan identifikasi individu.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Apa perbedaan populasi dan sampel?
+2. Mengapa sampel kemudahan dapat menghasilkan bias?
+3. Bedakan reliabilitas dan validitas.
+4. Hitung rata-rata dan median data 4, 5, 5, 6, 20.
+5. Mengapa korelasi tidak membuktikan sebab-akibat?
+6. Apa perbedaan kenaikan relatif dan absolut?
+7. Mengapa sampel besar belum tentu mewakili populasi?
+8. Sebutkan informasi yang perlu diperiksa ketika membaca grafik.
+
+KUNCI PEMBAHASAN
+1. Populasi adalah seluruh kelompok sasaran; sampel adalah bagian yang diamati.
+2. Orang yang mudah dijangkau belum tentu mewakili semua kelompok.
+3. Reliabilitas adalah konsistensi; validitas adalah ketepatan mengukur konsep yang dimaksud.
+4. Rata-rata 8; median 5.
+5. Hubungan dapat muncul karena faktor ketiga, arah hubungan terbalik, atau kebetulan.
+6. Relatif membandingkan perubahan dengan nilai awal; absolut menyatakan selisih nyata.
+7. Jika pemilihannya bias, jumlah besar tetap tidak memperbaiki keterwakilan.
+8. Judul, sumber, sumbu, satuan, rentang, ukuran sampel, periode, dan cara pengumpulan.
+
+GLOSARIUM TAMBAHAN
+Populasi: keseluruhan kelompok sasaran penelitian.
+Sampel: bagian populasi yang diamati.
+Bias seleksi: penyimpangan akibat cara pemilihan sampel.
+Variabel: karakteristik yang nilainya dapat berubah.
+Definisi operasional: penjelasan cara suatu konsep diukur.
+Reliabilitas: konsistensi hasil pengukuran.
+Validitas: ketepatan pengukuran terhadap konsep yang dituju.
+Median: nilai tengah setelah data diurutkan.
+Pencilan: nilai yang jauh dari pola umum data.
+Variabel perancu: faktor yang dapat memengaruhi hubungan antara variabel yang diamati.
+Kesalahan sampling: variasi estimasi akibat pengamatan hanya sebagian populasi.
+Interval kepercayaan: rentang estimasi yang dibentuk dengan prosedur statistik tertentu.

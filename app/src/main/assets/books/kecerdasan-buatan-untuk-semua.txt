@@ -481,3 +481,128 @@ Bayangkan model menyaring pertanyaan siswa untuk menentukan mana yang perlu dija
 
 RANGKUMAN
 AI yang bermanfaat memerlukan perumusan masalah, data yang layak, evaluasi yang tepat, pengawasan, dan mekanisme koreksi. Keberhasilan tidak cukup diukur dari kecanggihan model.
+
+
+BAGIAN PENGAYAAN MATERI
+BAB LANJUTAN 1 — DATA, FITUR, DAN LABEL
+
+Sistem kecerdasan buatan yang belajar dari contoh memerlukan data yang sesuai dengan tujuan. Dalam pembelajaran terawasi, data latihan biasanya memiliki fitur dan label. Fitur adalah informasi masukan yang digunakan model untuk membuat prediksi, sedangkan label adalah jawaban atau kategori yang ingin dipelajari. Contoh sederhana adalah data rumah dengan fitur luas bangunan, lokasi, dan jumlah kamar, sementara labelnya adalah harga jual yang tercatat.
+
+Kualitas data tidak hanya ditentukan oleh jumlah. Data harus relevan, cukup mewakili situasi penggunaan, memiliki definisi yang konsisten, dan dikumpulkan secara bertanggung jawab. Seribu contoh yang salah label dapat lebih merugikan daripada seratus contoh yang diperiksa dengan baik. Data yang terlalu banyak berasal dari satu kelompok juga dapat membuat model kurang akurat ketika digunakan pada kelompok lain.
+
+Pembagian data menjadi data latihan, validasi, dan pengujian membantu menilai kemampuan model. Data latihan digunakan untuk mempelajari pola. Data validasi membantu memilih konfigurasi dan mengendalikan proses pengembangan. Data pengujian digunakan untuk menilai kinerja pada contoh yang tidak dipakai selama pemilihan model. Jika data pengujian berulang kali dipakai untuk mengubah model, hasil evaluasi dapat menjadi terlalu optimistis.
+
+Kebocoran data terjadi ketika informasi yang seharusnya tidak tersedia saat prediksi justru masuk ke proses latihan atau evaluasi. Misalnya, model yang memprediksi risiko keterlambatan pembayaran tidak boleh menggunakan informasi yang baru muncul setelah tanggal prediksi. Kebocoran dapat menghasilkan angka akurasi tinggi di laboratorium, tetapi gagal ketika diterapkan di dunia nyata.
+
+BAB LANJUTAN 2 — KLASIFIKASI, REGRESI, DAN PENGELOMPOKAN
+
+Klasifikasi digunakan ketika keluaran berupa kategori, misalnya mengelompokkan pesan menjadi spam atau bukan spam. Regresi digunakan ketika keluaran berupa nilai numerik, seperti memperkirakan kebutuhan listrik harian. Pengelompokan atau clustering mencari kelompok dalam data tanpa label yang telah ditentukan. Ketiganya menjawab pertanyaan berbeda dan tidak boleh dipertukarkan hanya karena memakai algoritma yang sama.
+
+Model klasifikasi tidak cukup dinilai dari akurasi keseluruhan. Jika hanya satu dari seratus transaksi yang benar-benar bermasalah, model yang selalu menjawab “normal” akan memiliki akurasi 99 persen tetapi tidak menemukan satu pun kasus bermasalah. Karena itu, pengembang perlu memeriksa precision, recall, dan matriks kebingungan. Precision menilai proporsi prediksi positif yang benar. Recall menilai proporsi kasus positif yang berhasil ditemukan.
+
+Ambang keputusan juga penting. Model dapat menghasilkan skor kemungkinan, lalu sistem menentukan batas untuk mengubah skor menjadi keputusan. Ambang rendah dapat menemukan lebih banyak kasus, tetapi meningkatkan alarm keliru. Ambang tinggi dapat mengurangi alarm keliru, tetapi berisiko melewatkan kasus yang sebenarnya penting. Pilihan ambang harus mempertimbangkan akibat kesalahan bagi manusia.
+
+Contoh: sistem penyaring komentar ingin menemukan ancaman keselamatan. Jika sistem terlalu sensitif, komentar wajar mungkin ikut ditandai dan perlu ditinjau manusia. Jika terlalu longgar, komentar berbahaya dapat lolos. Tidak ada angka tunggal yang selalu paling baik; kebijakan moderasi harus menjelaskan prioritas, jalur banding, dan cara memperbaiki kesalahan.
+
+BAB LANJUTAN 3 — OVERFITTING DAN GENERALISASI
+
+Overfitting terjadi ketika model terlalu menyesuaikan diri pada data latihan, termasuk pola kebetulan atau noise. Model dapat terlihat sangat baik pada contoh yang telah dilihat tetapi buruk pada data baru. Sebaliknya, underfitting terjadi ketika model terlalu sederhana atau belum belajar pola penting, sehingga kinerjanya buruk pada data latihan maupun data baru.
+
+Generalisasi adalah kemampuan model bekerja pada data yang belum pernah dilihat dan masih relevan dengan tujuan. Untuk mengujinya, data evaluasi harus mewakili situasi penggunaan. Jika model akan digunakan sepanjang tahun, data dari satu musim saja mungkin tidak cukup. Jika pengguna berasal dari berbagai wilayah, pengujian perlu memeriksa apakah performa berbeda antarwilayah.
+
+Beberapa pendekatan untuk mengurangi overfitting antara lain menyederhanakan model, menambah data yang berkualitas, menggunakan regularisasi, menghentikan pelatihan pada waktu yang tepat, dan mengevaluasi pada data terpisah. Augmentasi data dapat membantu pada tugas tertentu, tetapi perubahan buatan harus tetap menjaga makna. Memutar foto sedikit mungkin wajar untuk mengenali objek, sedangkan membalik citra yang memiliki tulisan dapat mengubah informasi penting.
+
+BAB LANJUTAN 4 — MODEL BAHASA DAN KETERBATASAN JAWABAN
+
+Model bahasa mempelajari pola hubungan antarkata atau bagian teks dari kumpulan data. Saat menghasilkan jawaban, model memperkirakan kelanjutan yang sesuai dengan konteks. Kemampuan menyusun kalimat yang lancar tidak otomatis berarti setiap pernyataan benar. Model dapat menghasilkan jawaban yang terdengar meyakinkan tetapi keliru, terutama jika pertanyaan meminta fakta khusus, informasi terbaru, atau detail yang tidak tersedia dalam konteks.
+
+Istilah halusinasi digunakan untuk keluaran yang tampak meyakinkan tetapi tidak didukung fakta. Risiko ini dapat dikurangi melalui pencarian sumber tepercaya, penggunaan dokumen rujukan yang jelas, pemeriksaan kutipan, pengujian, serta penjelasan ketidakpastian. Namun pemeriksaan manusia tetap diperlukan untuk keputusan penting. Pengguna sebaiknya meminta sumber dan memeriksa apakah sumber benar-benar mendukung klaim, bukan hanya melihat adanya daftar tautan.
+
+Model bahasa juga dapat mencerminkan bias yang ada dalam data. Jika data pelatihan kurang mewakili bahasa, budaya, atau pengalaman tertentu, kualitas jawaban untuk kelompok tersebut dapat menurun. Sistem yang aman perlu diuji pada beragam contoh dan menyediakan mekanisme pelaporan ketika hasilnya merugikan atau tidak pantas.
+
+BAB LANJUTAN 5 — PRIVASI, KEAMANAN, DAN DATA PRIBADI
+
+Data pribadi adalah informasi yang dapat mengidentifikasi seseorang secara langsung atau melalui penggabungan dengan informasi lain. Nama, alamat, nomor identitas, lokasi rinci, rekaman suara, dan kebiasaan penggunaan dapat menjadi sensitif tergantung konteks. Sebelum memasukkan data ke layanan AI, pengguna perlu memahami tujuan pemrosesan, kebijakan penyimpanan, pengaturan privasi, dan siapa yang dapat mengaksesnya.
+
+Prinsip minimisasi data berarti hanya mengumpulkan informasi yang benar-benar diperlukan. Jika sebuah tugas dapat diselesaikan dengan data yang telah disamarkan, jangan mengirimkan identitas lengkap. Pengembang perlu membatasi akses, mengenkripsi data saat disimpan dan dikirim, mengatur masa penyimpanan, serta menyediakan prosedur penghapusan sesuai aturan yang berlaku.
+
+Prompt injection adalah upaya menyisipkan instruksi berbahaya ke dalam teks atau dokumen yang dibaca sistem AI. Misalnya, sebuah halaman berisi perintah agar sistem mengabaikan instruksi sebelumnya dan mengungkap data. Sistem yang membaca dokumen tidak boleh menganggap seluruh teks yang ditemukan sebagai instruksi yang harus dipatuhi. Data dari sumber luar harus diperlakukan sebagai masukan yang perlu dianalisis, bukan sebagai otoritas untuk mengubah aturan atau membocorkan informasi.
+
+Keamanan juga mencakup evaluasi sebelum peluncuran. Pengembang perlu menguji penyalahgunaan, akses tidak sah, kebocoran data, keluaran berbahaya, dan ketahanan ketika input tidak biasa diberikan. Setelah peluncuran, pemantauan harus dilakukan secara proporsional dengan privasi pengguna. Catatan insiden membantu tim memahami penyebab masalah dan memperbaiki sistem.
+
+BAB LANJUTAN 6 — AI DALAM PENDIDIKAN DAN PEKERJAAN
+
+AI dapat membantu menyusun rencana belajar, memberi contoh tambahan, menerjemahkan istilah, atau memberikan umpan balik awal pada tulisan. Manfaat terbesar muncul ketika AI digunakan sebagai pendamping berpikir, bukan pengganti proses memahami. Pelajar tetap perlu mencoba menjawab sendiri, memeriksa sumber, menjelaskan kembali dengan kata-kata sendiri, dan mengikuti aturan kejujuran akademik.
+
+Guru dapat menggunakan alat AI untuk menyiapkan variasi latihan atau mengidentifikasi topik yang perlu dijelaskan ulang. Namun penilaian yang menentukan masa depan siswa sebaiknya tidak diserahkan sepenuhnya kepada sistem otomatis. Konteks, perkembangan, kebutuhan belajar, dan kemungkinan kesalahan harus dipertimbangkan oleh pendidik.
+
+Di tempat kerja, AI dapat mempercepat pekerjaan berulang seperti merangkum dokumen, mengelompokkan permintaan, atau membantu membuat draf. Organisasi tetap perlu menetapkan siapa yang bertanggung jawab atas hasil akhir. Informasi rahasia tidak boleh dimasukkan ke alat yang belum disetujui. Hasil yang berkaitan dengan hukum, kesehatan, keselamatan, keuangan, atau keputusan penting harus diperiksa oleh tenaga yang kompeten.
+
+BAB LANJUTAN 7 — MENILAI KLAIM PRODUK AI
+
+Klaim seperti “akurasi 99 persen” tidak cukup tanpa mengetahui jenis tugas, ukuran sampel, cara pengujian, dan tingkat kesalahan pada kelompok berbeda. Bandingkan model pada data yang sama dan kondisi yang adil. Perhatikan juga latensi, biaya, konsumsi energi, kebutuhan perangkat, kemudahan penggunaan, dan dukungan ketika terjadi kesalahan.
+
+Demo produk biasanya memperlihatkan contoh terbaik. Pengujian mandiri harus mencakup kasus biasa, kasus sulit, input ambigu, dan input yang tidak relevan. Simpan contoh uji yang dapat diulang sehingga versi baru dapat dibandingkan dengan versi lama. Jangan mengubah kriteria setelah melihat hasil hanya agar sistem tampak lebih unggul.
+
+KERANGKA PROYEK — MEMBUAT PENGKLASIFIKASI SEDERHANA
+
+Tujuan proyek: memahami alur kerja model klasifikasi tanpa mengumpulkan data pribadi.
+1. Tentukan tugas sempit, misalnya mengelompokkan pertanyaan latihan menjadi kategori matematika, sains, atau bahasa.
+2. Susun contoh buatan sendiri yang tidak memuat nama atau identitas.
+3. Buat definisi kategori yang jelas dan saling tidak tumpang tindih.
+4. Periksa setiap label oleh lebih dari satu pembaca jika memungkinkan.
+5. Pisahkan data latihan dan pengujian sebelum proses pengembangan.
+6. Uji model pada contoh baru, catat prediksi benar dan salah.
+7. Periksa kesalahan per kategori, bukan hanya akurasi total.
+8. Tuliskan keterbatasan, risiko, dan kondisi ketika sistem tidak boleh digunakan.
+
+Contoh tabel evaluasi sederhana:
+Kategori matematika: 18 benar dari 20 contoh.
+Kategori sains: 15 benar dari 20 contoh.
+Kategori bahasa: 19 benar dari 20 contoh.
+Hasil ini menunjukkan performa berbeda antar kategori. Sampel kecil belum cukup untuk menyimpulkan kemampuan umum. Tambahkan contoh yang beragam dan lakukan evaluasi ulang.
+
+LATIHAN PEMAHAMAN LANJUTAN
+
+1. Apa perbedaan fitur dan label?
+2. Mengapa data pengujian tidak seharusnya dipakai berulang kali untuk memilih model?
+3. Berikan contoh kebocoran data.
+4. Mengapa akurasi dapat menyesatkan pada data yang tidak seimbang?
+5. Jelaskan perbedaan overfitting dan underfitting.
+6. Mengapa jawaban model bahasa yang lancar belum tentu benar?
+7. Sebutkan tiga prinsip untuk melindungi data pribadi.
+8. Apa yang dimaksud prompt injection dan bagaimana memperlakukannya?
+9. Mengapa keputusan penting perlu pemeriksaan manusia?
+10. Informasi apa yang harus menyertai klaim akurasi sebuah produk AI?
+
+KUNCI PEMBAHASAN
+
+1. Fitur adalah masukan yang dipakai model; label adalah target atau jawaban yang dipelajari.
+2. Pemakaian berulang membuat pengembang secara tidak langsung menyesuaikan model terhadap data pengujian sehingga evaluasi tidak lagi independen.
+3. Menggunakan informasi yang baru diketahui setelah waktu prediksi sebagai fitur untuk meramal keadaan sebelumnya.
+4. Model dapat selalu memilih kelas mayoritas dan tetap memperoleh akurasi tinggi walaupun gagal mengenali kelas minoritas.
+5. Overfitting terlalu mengikuti data latihan; underfitting belum menangkap pola penting.
+6. Kelancaran bahasa mengukur bentuk keluaran, bukan jaminan kebenaran faktual.
+7. Minimisasi data, pembatasan akses, dan perlindungan penyimpanan serta transmisi adalah contoh prinsip.
+8. Prompt injection adalah instruksi manipulatif yang disisipkan dalam konten masukan. Perlakukan konten luar sebagai data, bukan aturan yang berwenang.
+9. Model dapat salah, bias, atau tidak memahami konteks; manusia yang kompeten harus menilai konsekuensi dan bertanggung jawab.
+10. Jenis tugas, ukuran dan komposisi sampel, metode evaluasi, metrik, tingkat kesalahan, serta keterbatasan.
+
+GLOSARIUM TAMBAHAN
+
+Fitur: variabel masukan yang digunakan model.
+Label: target atau kategori yang menjadi jawaban acuan.
+Data latihan: data yang digunakan untuk mempelajari parameter model.
+Data validasi: data untuk membantu pemilihan model dan pengaturan.
+Data pengujian: data terpisah untuk evaluasi akhir.
+Kebocoran data: masuknya informasi yang tidak semestinya ke proses latihan atau evaluasi.
+Klasifikasi: tugas memprediksi kategori.
+Regresi: tugas memprediksi nilai numerik.
+Clustering: pengelompokan data berdasarkan kemiripan tanpa label awal.
+Precision: proporsi prediksi positif yang benar.
+Recall: proporsi kasus positif yang berhasil ditemukan.
+Overfitting: penyesuaian berlebihan pada data latihan.
+Underfitting: model terlalu sederhana untuk menangkap pola.
+Generalisasi: kemampuan bekerja pada data baru yang relevan.
+Prompt injection: instruksi manipulatif yang disisipkan dalam masukan atau dokumen.
+Minimisasi data: membatasi pengumpulan pada data yang diperlukan.

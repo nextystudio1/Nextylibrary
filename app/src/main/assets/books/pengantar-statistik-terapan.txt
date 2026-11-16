@@ -161,3 +161,29 @@ LATIHAN TERAPAN
 3. Tafsirkan nilai p tanpa menyebutnya sebagai peluang hipotesis benar.
 4. Jelaskan mengapa model dengan prediksi baik belum tentu menjelaskan sebab.
 5. Buat daftar praktik perlindungan data untuk proyek survei sekolah.
+BAB LANJUTAN: DISTRIBUSI SAMPLING DAN GALAT BAKU
+
+Statistik sampel berubah dari satu sampel ke sampel lain. Distribusi sampling menggambarkan perilaku suatu statistik jika pengambilan sampel diulang dengan rancangan yang sama. Konsep ini menjadi dasar untuk memahami galat baku dan interval kepercayaan. Galat baku bukan simpangan baku data mentah; galat baku menggambarkan variasi statistik sampel antar pengulangan konseptual.
+
+Teorema limit pusat menjelaskan kondisi ketika distribusi rata-rata sampel mendekati normal saat ukuran sampel cukup besar, dengan persyaratan tertentu pada distribusi dan ketergantungan data. Aturan “sampel besar selalu normal” terlalu sederhana. Data berkelompok, pencilan ekstrem, atau observasi yang saling bergantung dapat memengaruhi pendekatan.
+
+Interval kepercayaan menunjukkan rentang yang dihasilkan oleh prosedur estimasi dengan tingkat cakupan jangka panjang tertentu. Interval 95 persen bukan berarti terdapat peluang 95 persen bahwa parameter tetap berada dalam interval yang sudah dihitung pada interpretasi frekuentis. Penjelasan yang tepat mengacu pada prosedur pengambilan sampel dan asumsi model.
+
+BAB LANJUTAN: UJI HIPOTESIS DAN UKURAN EFEK
+
+Uji hipotesis membandingkan data dengan model nol yang menyatakan tidak ada efek atau perbedaan sesuai definisi penelitian. Nilai-p mengukur seberapa tidak selaras data dengan model nol, dengan asumsi model dan prosedur benar. Nilai-p bukan probabilitas bahwa hipotesis nol benar dan bukan ukuran besarnya efek.
+
+Keputusan statistik perlu disertai ukuran efek dan interval kepercayaan. Perbedaan kecil dapat signifikan pada sampel sangat besar, sedangkan efek penting dapat tidak signifikan pada sampel kecil. Relevansi praktis harus dinilai dengan konteks bidang, biaya, manfaat, dan konsekuensi.
+
+Pengujian berulang pada banyak variabel meningkatkan peluang temuan positif palsu jika tidak dikendalikan. Peneliti dapat menetapkan hipotesis sebelumnya, membatasi analisis eksploratif, atau menggunakan koreksi yang sesuai. Hasil eksploratif tetap berguna, tetapi perlu dikonfirmasi dengan data baru.
+
+BAB LANJUTAN: REGRESI DAN DIAGNOSTIK MODEL
+
+Regresi memodelkan hubungan antara variabel respons dan satu atau lebih prediktor. Koefisien menunjukkan perubahan rata-rata respons yang diperkirakan terkait dengan perubahan prediktor, dengan prediktor lain dalam model dianggap tetap. Interpretasi ini tidak otomatis bersifat kausal.
+
+Asumsi model perlu diperiksa melalui grafik residu, pola nonlinier, heteroskedastisitas, pengamatan berpengaruh, dan multikolinearitas. Diagnostik tidak boleh dilakukan hanya untuk memperoleh hasil yang diinginkan. Jika asumsi tidak sesuai, pertimbangkan transformasi yang dapat dijelaskan, model alternatif, atau pelaporan keterbatasan.
+
+Prediksi di luar rentang data disebut ekstrapolasi dan sering lebih tidak pasti. Model yang cocok pada data pelatihan belum tentu akurat pada populasi atau periode berbeda. Validasi pada data terpisah dan pemeriksaan kinerja pada kelompok relevan membantu menilai generalisasi.
+
+LATIHAN ANALISIS
+Gunakan dataset sederhana yang memiliki satu variabel respons dan dua prediktor. Buat ringkasan deskriptif, visualisasi, model regresi, dan pemeriksaan residu. Laporkan koefisien, ukuran efek, ketidakpastian, serta alasan mengapa hasil tidak boleh langsung dianggap sebagai hubungan sebab-akibat.

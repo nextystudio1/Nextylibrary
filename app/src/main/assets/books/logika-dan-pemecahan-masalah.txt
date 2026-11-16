@@ -6,7 +6,7 @@ DESKRIPSI
 Melatih penalaran, pola, argumen, strategi pemecahan masalah, keputusan, dan evaluasi solusi.
 
 TUJUAN PEMBELAJARAN
-Setelah mempelajari Logika dan Pemecahan Masalah, pembaca mampu menjelaskan melatih penalaran, pola, argumen, strategi pemecahan masalah, keputusan, dan evaluasi solusi., membedakan istilah yang sering tertukar, menilai contoh berdasarkan bukti, dan menerapkan konsep secara tepat sesuai konteks.
+Setelah mempelajari buku ini, pembaca diharapkan mampu merumuskan masalah, membedakan premis dan kesimpulan, mengenali pola penalaran, menguji argumen, membandingkan strategi, serta mengevaluasi solusi berdasarkan bukti dan batasan.
 
 BAB 1. MASALAH, TUJUAN, DAN BATASAN
 

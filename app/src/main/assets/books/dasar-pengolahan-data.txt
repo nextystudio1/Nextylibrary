@@ -36,121 +36,21 @@ BAB 2. STRUKTUR DATA
 
 Data tabular biasanya tersusun dalam baris dan kolom. Setiap baris mewakili unit pengamatan dan setiap kolom mewakili variabel. Nama kolom sebaiknya jelas, tipe data konsisten, dan satuan dicantumkan. Format tanggal, angka desimal, dan kategori perlu diseragamkan sebelum pengolahan.
 
-PENJELASAN LANJUTAN
-Dalam menggunakan konsep ini, perhatikan asumsi dan kondisi yang menyertainya. Sebuah model atau aturan biasanya dibuat untuk menjelaskan keadaan tertentu, bukan seluruh kemungkinan. Periksa definisi variabel, satuan, rentang penggunaan, serta faktor lain yang dapat mengubah hasil. Jika data tidak lengkap, nyatakan batas pengetahuan dan hindari kesimpulan yang terlalu luas.
-
-CONTOH DAN PENERAPAN
-Buat contoh dari situasi yang dapat diamati. Tuliskan tujuan, kondisi awal, proses, dan hasil. Bandingkan dengan situasi lain yang memiliki satu atau dua kondisi berbeda. Perbandingan membantu melihat unsur mana yang penting dan mana yang hanya kebetulan muncul bersamaan.
-
-AKTIVITAS
-1. Susun peta konsep dari istilah penting.
-2. Buat tabel yang membandingkan dua konsep terkait.
-3. Cari contoh penerapan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan yang memerlukan bukti tambahan.
-
-LATIHAN
-1. Jelaskan gagasan utama bab ini dengan kalimat sendiri.
-2. Uraikan proses atau hubungan yang dibahas secara berurutan.
-3. Berikan contoh baru dan jelaskan mengapa sesuai.
-4. Sebutkan keterbatasan model atau penjelasan.
-5. Tulis satu rekomendasi berdasarkan bukti yang tersedia.
-
 BAB 3. PEMBERSIHAN DATA
 
 Pembersihan mencakup pemeriksaan duplikasi, nilai hilang, salah ketik, rentang tidak masuk akal, dan ketidakkonsistenan. Jangan menghapus nilai hanya karena tidak sesuai dugaan. Tentukan aturan penanganan sebelum analisis dan catat setiap perubahan agar keputusan dapat ditinjau.
-
-PENJELASAN LANJUTAN
-Dalam menggunakan konsep ini, perhatikan asumsi dan kondisi yang menyertainya. Sebuah model atau aturan biasanya dibuat untuk menjelaskan keadaan tertentu, bukan seluruh kemungkinan. Periksa definisi variabel, satuan, rentang penggunaan, serta faktor lain yang dapat mengubah hasil. Jika data tidak lengkap, nyatakan batas pengetahuan dan hindari kesimpulan yang terlalu luas.
-
-CONTOH DAN PENERAPAN
-Buat contoh dari situasi yang dapat diamati. Tuliskan tujuan, kondisi awal, proses, dan hasil. Bandingkan dengan situasi lain yang memiliki satu atau dua kondisi berbeda. Perbandingan membantu melihat unsur mana yang penting dan mana yang hanya kebetulan muncul bersamaan.
-
-AKTIVITAS
-1. Susun peta konsep dari istilah penting.
-2. Buat tabel yang membandingkan dua konsep terkait.
-3. Cari contoh penerapan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan yang memerlukan bukti tambahan.
-
-LATIHAN
-1. Jelaskan gagasan utama bab ini dengan kalimat sendiri.
-2. Uraikan proses atau hubungan yang dibahas secara berurutan.
-3. Berikan contoh baru dan jelaskan mengapa sesuai.
-4. Sebutkan keterbatasan model atau penjelasan.
-5. Tulis satu rekomendasi berdasarkan bukti yang tersedia.
 
 BAB 4. TRANSFORMASI DAN PENGGABUNGAN
 
 Transformasi dapat mengubah format, menghitung variabel baru, atau mengelompokkan nilai. Penggabungan tabel memerlukan kunci yang tepat dan pemeriksaan jumlah baris sebelum serta sesudah proses. Kesalahan penggabungan dapat menggandakan data atau menghilangkan pengamatan tanpa disadari.
 
-PENJELASAN LANJUTAN
-Dalam menggunakan konsep ini, perhatikan asumsi dan kondisi yang menyertainya. Sebuah model atau aturan biasanya dibuat untuk menjelaskan keadaan tertentu, bukan seluruh kemungkinan. Periksa definisi variabel, satuan, rentang penggunaan, serta faktor lain yang dapat mengubah hasil. Jika data tidak lengkap, nyatakan batas pengetahuan dan hindari kesimpulan yang terlalu luas.
-
-CONTOH DAN PENERAPAN
-Buat contoh dari situasi yang dapat diamati. Tuliskan tujuan, kondisi awal, proses, dan hasil. Bandingkan dengan situasi lain yang memiliki satu atau dua kondisi berbeda. Perbandingan membantu melihat unsur mana yang penting dan mana yang hanya kebetulan muncul bersamaan.
-
-AKTIVITAS
-1. Susun peta konsep dari istilah penting.
-2. Buat tabel yang membandingkan dua konsep terkait.
-3. Cari contoh penerapan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan yang memerlukan bukti tambahan.
-
-LATIHAN
-1. Jelaskan gagasan utama bab ini dengan kalimat sendiri.
-2. Uraikan proses atau hubungan yang dibahas secara berurutan.
-3. Berikan contoh baru dan jelaskan mengapa sesuai.
-4. Sebutkan keterbatasan model atau penjelasan.
-5. Tulis satu rekomendasi berdasarkan bukti yang tersedia.
-
 BAB 5. ANALISIS DAN VISUALISASI
 
 Analisis deskriptif merangkum pola, sedangkan analisis lanjutan menguji pertanyaan tertentu. Grafik harus sesuai jenis data dan tidak menyembunyikan variasi. Sumbu, satuan, sumber, dan periode perlu ditampilkan. Hindari visualisasi yang membuat perbedaan kecil tampak dramatis.
 
-PENJELASAN LANJUTAN
-Dalam menggunakan konsep ini, perhatikan asumsi dan kondisi yang menyertainya. Sebuah model atau aturan biasanya dibuat untuk menjelaskan keadaan tertentu, bukan seluruh kemungkinan. Periksa definisi variabel, satuan, rentang penggunaan, serta faktor lain yang dapat mengubah hasil. Jika data tidak lengkap, nyatakan batas pengetahuan dan hindari kesimpulan yang terlalu luas.
-
-CONTOH DAN PENERAPAN
-Buat contoh dari situasi yang dapat diamati. Tuliskan tujuan, kondisi awal, proses, dan hasil. Bandingkan dengan situasi lain yang memiliki satu atau dua kondisi berbeda. Perbandingan membantu melihat unsur mana yang penting dan mana yang hanya kebetulan muncul bersamaan.
-
-AKTIVITAS
-1. Susun peta konsep dari istilah penting.
-2. Buat tabel yang membandingkan dua konsep terkait.
-3. Cari contoh penerapan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan yang memerlukan bukti tambahan.
-
-LATIHAN
-1. Jelaskan gagasan utama bab ini dengan kalimat sendiri.
-2. Uraikan proses atau hubungan yang dibahas secara berurutan.
-3. Berikan contoh baru dan jelaskan mengapa sesuai.
-4. Sebutkan keterbatasan model atau penjelasan.
-5. Tulis satu rekomendasi berdasarkan bukti yang tersedia.
-
 BAB 6. PRIVASI DAN REPRODUKSIBILITAS
 
 Data pribadi harus dikumpulkan seminimal mungkin, dilindungi, dan digunakan sesuai tujuan. Untuk berbagi hasil, hapus identitas yang tidak diperlukan dan periksa risiko identifikasi ulang. Simpan kode, catatan, versi data, serta asumsi agar analisis dapat diperiksa dan direproduksi.
-
-PENJELASAN LANJUTAN
-Dalam menggunakan konsep ini, perhatikan asumsi dan kondisi yang menyertainya. Sebuah model atau aturan biasanya dibuat untuk menjelaskan keadaan tertentu, bukan seluruh kemungkinan. Periksa definisi variabel, satuan, rentang penggunaan, serta faktor lain yang dapat mengubah hasil. Jika data tidak lengkap, nyatakan batas pengetahuan dan hindari kesimpulan yang terlalu luas.
-
-CONTOH DAN PENERAPAN
-Buat contoh dari situasi yang dapat diamati. Tuliskan tujuan, kondisi awal, proses, dan hasil. Bandingkan dengan situasi lain yang memiliki satu atau dua kondisi berbeda. Perbandingan membantu melihat unsur mana yang penting dan mana yang hanya kebetulan muncul bersamaan.
-
-AKTIVITAS
-1. Susun peta konsep dari istilah penting.
-2. Buat tabel yang membandingkan dua konsep terkait.
-3. Cari contoh penerapan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan yang memerlukan bukti tambahan.
-
-LATIHAN
-1. Jelaskan gagasan utama bab ini dengan kalimat sendiri.
-2. Uraikan proses atau hubungan yang dibahas secara berurutan.
-3. Berikan contoh baru dan jelaskan mengapa sesuai.
-4. Sebutkan keterbatasan model atau penjelasan.
-5. Tulis satu rekomendasi berdasarkan bukti yang tersedia.
 
 PROYEK AKHIR
 Pilih satu persoalan yang relevan dengan bidang buku. Rumuskan pertanyaan, tujuan, batasan, dan metode kajian. Gunakan sumber yang dapat diperiksa. Sajikan hasil dalam bentuk laporan, diagram, atau presentasi. Pisahkan data, interpretasi, dan rekomendasi. Sertakan catatan keterbatasan serta langkah lanjutan.

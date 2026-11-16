@@ -122,3 +122,35 @@ LATIHAN
 3. Bagaimana sedimen dapat merekam perubahan lingkungan?
 4. Mengapa instrumen perlu dikalibrasi?
 5. Sebutkan keterbatasan model oseanografi.
+BAB LANJUTAN: GELOMBANG, ENERGI, DAN TRANSPORTASI SEDIMEN
+
+Gelombang memindahkan energi, bukan memindahkan seluruh massa air secara permanen ke arah rambatnya. Gerak partikel air di bawah gelombang permukaan dapat membentuk lintasan orbital yang semakin kecil dengan bertambahnya kedalaman. Ketika gelombang memasuki perairan dangkal, interaksi dengan dasar laut mengubah kecepatan, panjang gelombang, dan arah rambat. Proses ini dapat memengaruhi pembentukan pantai dan perpindahan sedimen.
+
+Sedimen dapat berpindah sejajar pantai maupun tegak lurus pantai karena kombinasi gelombang, arus, pasang surut, dan suplai material dari daratan. Bangunan pantai dapat mengubah pola transportasi sedimen sehingga satu lokasi terlindungi sementara lokasi lain mengalami perubahan. Kajian pesisir perlu melihat satu sistem pantai, bukan hanya satu titik.
+
+BAB LANJUTAN: PASANG SURUT DAN ARUS PASANG
+
+Pasang surut merupakan perubahan periodik muka laut yang terutama dipengaruhi gaya gravitasi bulan dan matahari serta respons cekungan laut. Pola pasang dapat berbeda antarlokasi karena bentuk pantai, kedalaman, dan resonansi. Beberapa wilayah mengalami dua kali pasang dan dua kali surut dalam sehari lunar, sementara wilayah lain memiliki pola berbeda.
+
+Arus pasang surut merupakan gerakan horizontal yang berkaitan dengan naik turunnya muka air. Arus ini dapat memengaruhi pencampuran, transportasi sedimen, dan navigasi. Data pasang surut perlu mencantumkan lokasi dan waktu; tabel dari satu pelabuhan tidak otomatis berlaku untuk seluruh garis pantai.
+
+BAB LANJUTAN: KARBON LAUT DAN PENGASAMAN
+
+Laut menyerap dan melepaskan karbon dioksida melalui pertukaran dengan atmosfer. Sebagian karbon terlarut berada dalam sistem kimia karbonat dan bikarbonat. Penyerapan karbon dioksida tambahan dapat mengubah keseimbangan kimia air laut dan menurunkan pH, suatu proses yang dikenal sebagai pengasaman laut.
+
+Perubahan kimia tersebut dapat memengaruhi organisme yang membentuk struktur kalsium karbonat, meskipun dampaknya berbeda menurut spesies, kondisi lokal, dan kemampuan adaptasi. Pengasaman laut berbeda dari pemanasan laut, tetapi keduanya dapat terjadi bersamaan dan saling memperkuat tekanan ekologis. Pengukuran pH perlu menggunakan prosedur dan kalibrasi yang sesuai.
+
+BAB LANJUTAN: ZAT HARA, PRODUKTIVITAS, DAN OKSIGEN
+
+Nitrogen, fosfor, dan unsur lain dibutuhkan organisme laut. Upwelling dapat membawa air kaya nutrien dari kedalaman ke permukaan dan mendukung produktivitas primer. Namun, masukan nutrien berlebihan dari daratan dapat mendorong pertumbuhan alga yang tidak seimbang. Ketika biomassa alga terurai, proses penguraian dapat mengurangi oksigen terlarut dan menekan kehidupan organisme.
+
+Kondisi oksigen rendah tidak selalu disebabkan oleh satu faktor. Suhu, pencampuran, kedalaman, aliran air tawar, dan bahan organik ikut berperan. Pemantauan perlu mengukur beberapa parameter sekaligus dan dilakukan berulang agar perubahan musiman tidak salah dianggap sebagai tren jangka panjang.
+
+BAB LANJUTAN: DATA OSEANOGRAFI DAN KETIDAKPASTIAN
+
+Setiap data laut memiliki resolusi ruang dan waktu, batas deteksi, serta ketidakpastian pengukuran. Data satelit mengamati permukaan atau sifat yang dapat diperkirakan dari sinyal, sedangkan instrumen di laut dapat mengukur kondisi pada kedalaman tertentu. Keduanya saling melengkapi tetapi tidak dapat dipertukarkan begitu saja.
+
+Saat membandingkan data, samakan satuan, periode, kedalaman, dan metode sejauh mungkin. Periksa apakah ada nilai hilang, perubahan alat, atau perbedaan cakupan. Peta berwarna merupakan visualisasi, bukan penjelasan sebab. Interpretasi harus menghubungkan pola dengan proses fisik, kimia, biologi, dan kondisi setempat.
+
+PROYEK ANALISIS LAUT
+Gunakan data terbuka dari sumber ilmiah atau lembaga resmi untuk membandingkan satu parameter laut pada dua waktu atau lokasi. Catat sumber, satuan, resolusi, metode, dan keterbatasan. Buat grafik yang memiliki label jelas, jelaskan pola yang terlihat, dan hindari menyatakan hubungan sebab-akibat tanpa bukti tambahan. Jangan melakukan pengamatan lapangan di laut atau pesisir tanpa pendampingan, izin, dan prosedur keselamatan yang sesuai.

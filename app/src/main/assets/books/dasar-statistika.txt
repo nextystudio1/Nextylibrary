@@ -79,22 +79,22 @@ LATIHAN
 3. Apakah korelasi membuktikan sebab? Jawaban: tidak; diperlukan rancangan dan bukti tambahan.
 
 PENDALAMAN LANJUTAN: ANALISIS DATA DAN PENARIKAN KESIMPULAN
-BAB 7 — JENIS DATA DAN DESAIN PENGUMPULAN
+PENDALAMAN 1 — JENIS DATA DAN DESAIN PENGUMPULAN
 Data kategorik menyatakan kelompok, seperti jenis transportasi; data numerik menyatakan besaran, seperti waktu perjalanan. Data numerik dapat bersifat diskret atau kontinu. Skala nominal, ordinal, interval, dan rasio menentukan operasi ringkasan yang masuk akal.
 Sebelum mengumpulkan data, rumuskan populasi sasaran, unit analisis, variabel, definisi operasional, dan periode pengamatan. Pertanyaan survei harus netral dan tidak menggiring jawaban. Uji coba instrumen dapat menemukan istilah yang membingungkan.
-BAB 8 — DISTRIBUSI DAN NILAI EKSTREM
+PENDALAMAN 1 — DISTRIBUSI DAN NILAI EKSTREM
 Distribusi memperlihatkan frekuensi nilai dan pola penyebarannya. Histogram, diagram kotak, dan grafik titik menampilkan sisi berbeda dari data. Pencilan dapat merupakan kesalahan pencatatan, kejadian langka yang benar, atau petunjuk bahwa model yang dipakai tidak sesuai.
 Jangan menghapus pencilan hanya karena membuat hasil tidak rapi. Periksa sumbernya, jelaskan keputusan penanganan, dan bila perlu tampilkan analisis dengan serta tanpa nilai tersebut.
-BAB 9 — SAMPEL DAN KETERWAKILAN
+PENDALAMAN 1 — SAMPEL DAN KETERWAKILAN
 Sampel acak membantu mengurangi bias pemilihan, tetapi kerangka sampel yang tidak lengkap tetap dapat mengecualikan kelompok tertentu. Nonrespons juga dapat menimbulkan bias jika orang yang tidak menjawab berbeda secara sistematis dari yang menjawab.
 Ukuran sampel yang besar tidak otomatis menjamin hasil akurat. Metode pemilihan, kualitas pengukuran, dan tingkat respons sama pentingnya. Survei daring sukarela, misalnya, tidak selalu mewakili seluruh populasi.
-BAB 10 — HUBUNGAN ANTARVARIABEL
+PENDALAMAN 1 — HUBUNGAN ANTARVARIABEL
 Tabulasi silang membantu membandingkan kategori. Diagram pencar menunjukkan pola hubungan dua variabel numerik. Korelasi positif berarti nilai cenderung meningkat bersama, korelasi negatif berarti satu cenderung turun saat yang lain naik, dan korelasi dekat nol menunjukkan tidak ada hubungan linear kuat.
 Hubungan non-linear dapat luput dari koefisien korelasi sederhana. Periksa grafik dan kemungkinan variabel ketiga. Hubungan statistik tidak cukup untuk menyimpulkan sebab-akibat.
-BAB 11 — KETIDAKPASTIAN DAN INFERENSI
+PENDALAMAN 1 — KETIDAKPASTIAN DAN INFERENSI
 Statistik sampel digunakan untuk memperkirakan karakteristik populasi. Interval kepercayaan menunjukkan ketidakpastian prosedur estimasi dalam kerangka asumsi tertentu. Interval yang lebih sempit sering memerlukan data lebih banyak atau variasi lebih kecil, tetapi kualitas desain tetap menentukan.
 Uji hipotesis tidak menggantikan penilaian substantif. Nilai p perlu dibaca bersama ukuran efek, interval kepercayaan, rancangan penelitian, dan relevansi praktis. Hasil tidak signifikan bukan bukti otomatis bahwa tidak ada efek.
-BAB 12 — ETIKA, PRIVASI, DAN KOMUNIKASI DATA
+PENDALAMAN 1 — ETIKA, PRIVASI, DAN KOMUNIKASI DATA
 Data pribadi harus dikumpulkan seperlunya, dijaga aksesnya, dan dilaporkan dengan cara yang tidak mengungkap identitas. Data kelompok kecil dapat memungkinkan identifikasi kembali meskipun nama dihapus.
 Grafik yang jujur mencantumkan sumber, periode, satuan, ukuran sampel, dan skala. Hindari sumbu yang dipotong secara menyesatkan atau pilihan warna yang menyulitkan pembaca.
 BAB 13 — PROYEK ANALISIS SEDERHANA
@@ -472,7 +472,7 @@ Sampling klaster: pemilihan kelompok alami sebagai unit sampel.
 Nilai p: ukuran ketidakselarasan data dengan hipotesis nol di bawah asumsi model.
 Ukuran efek: ukuran besar kecilnya perbedaan atau hubungan.
 Ekstrapolasi: prediksi di luar rentang data pengamatan.
-BAB 13 — PENARIKAN SAMPEL DAN KETERWAKILAN
+PENDALAMAN 1 — PENARIKAN SAMPEL DAN KETERWAKILAN
 
 Dalam penelitian, sering kali tidak mungkin mengamati seluruh anggota populasi. Peneliti memilih sebagian anggota yang disebut sampel. Sampel yang baik harus sesuai dengan pertanyaan penelitian dan cara pemilihannya dijelaskan secara terbuka. Ukuran sampel saja tidak menjamin keterwakilan; sampel besar yang dipilih secara bias tetap dapat menghasilkan kesimpulan yang keliru.
 
@@ -482,7 +482,7 @@ Bias seleksi terjadi ketika peluang masuk sampel berkaitan dengan karakteristik 
 
 Margin of error pada survei sampel acak menggambarkan ketidakpastian akibat pengambilan sampel dalam kondisi asumsi tertentu. Margin tersebut tidak otomatis mencakup kesalahan pertanyaan, pencatatan, cakupan, atau nonrespons. Karena itu, laporan statistik perlu menyampaikan metode, tanggal pengumpulan, ukuran sampel, dan keterbatasan.
 
-BAB 14 — KORELASI DAN REGRESI
+PENDALAMAN 1 — KORELASI DAN REGRESI
 
 Korelasi mengukur arah dan kekuatan hubungan linear antara dua variabel. Koefisien korelasi Pearson berada antara -1 dan 1. Nilai positif menunjukkan kecenderungan kedua variabel meningkat bersama, nilai negatif menunjukkan kecenderungan satu meningkat ketika yang lain menurun, dan nilai mendekati nol menunjukkan hubungan linear yang lemah. Nilai mendekati nol tidak menyingkirkan kemungkinan hubungan non-linear.
 
@@ -490,7 +490,7 @@ Diagram pencar membantu memeriksa pola sebelum menghitung koefisien. Pencilan da
 
 Regresi linear sederhana memodelkan hubungan dengan persamaan ŷ = a + bx. Kemiringan b menggambarkan perubahan rata-rata prediksi y untuk kenaikan satu satuan x dalam model. Intersep a adalah prediksi ketika x bernilai nol, meskipun nilai tersebut mungkin tidak bermakna dalam konteks. Residual adalah selisih antara nilai pengamatan dan nilai prediksi.
 
-BAB 15 — MEMBACA HASIL STATISTIK DENGAN BIJAK
+PENDALAMAN 1 — MEMBACA HASIL STATISTIK DENGAN BIJAK
 
 Nilai p dalam pengujian hipotesis bukan probabilitas bahwa hipotesis nol benar. Nilai tersebut menyatakan seberapa ekstrem hasil yang diamati, atau yang lebih ekstrem, jika hipotesis nol dan asumsi model berlaku. Nilai p kecil dapat menjadi alasan meninjau bukti terhadap hipotesis nol, tetapi tidak menunjukkan besarnya dampak atau kepentingan praktis.
 

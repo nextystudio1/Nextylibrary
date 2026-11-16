@@ -6,31 +6,31 @@ DESKRIPSI
 Mengkaji privasi, keadilan, transparansi, keamanan, dampak sosial, dan tanggung jawab inovasi.
 
 PENDAHULUAN
-Buku ini mengajak pembaca memahami konsep melalui definisi, proses, bukti, dan penerapan. Pengetahuan perlu ditempatkan dalam konteks yang tepat. Ketika menemukan data atau klaim, periksa sumber, metode, waktu, dan batas kesimpulan.
+Buku Pengantar Etika Teknologi membahas mengkaji privasi, keadilan, transparansi, keamanan, dampak sosial, dan tanggung jawab inovasi.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
 
 BAB 1. TEKNOLOGI DAN NILAI
 
 Teknologi dirancang dalam konteks tujuan, nilai, dan kepentingan tertentu. Fitur yang memudahkan satu kelompok dapat menciptakan hambatan bagi kelompok lain. Evaluasi etis menanyakan siapa diuntungkan, siapa berisiko, dan siapa memiliki suara dalam keputusan desain.
 
-PENDALAMAN MATERI
-Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
+PENDALAMAN
+Pada TEKNOLOGI DAN NILAI, tentukan tujuan pesan, konteks, pihak yang terlibat, dan bukti yang digunakan. Pilih istilah yang tepat, periksa kemungkinan salah tafsir, dan jelaskan bagaimana penerapan konsep dapat dinilai.
 
-CONTOH KAJIAN
-Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
-
-KEGIATAN
-1. Buat ringkasan dengan bahasa sendiri.
-2. Susun peta konsep dan beri keterangan hubungan.
-3. Bandingkan dua contoh dengan kondisi berbeda.
-4. Periksa satu klaim menggunakan sumber tepercaya.
-5. Tulis pertanyaan lanjutan yang dapat diselidiki.
+CONTOH PENERAPAN
+Contoh kajian: pilih kasus sederhana yang berkaitan dengan TEKNOLOGI DAN NILAI dalam bidang Pengantar Etika Teknologi. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
 
 LATIHAN
-1. Definisikan istilah utama.
-2. Jelaskan mekanisme atau proses yang dibahas.
-3. Berikan contoh penerapan.
-4. Sebutkan satu keterbatasan penjelasan.
-5. Buat kesimpulan yang sesuai dengan bukti.
+1. Apa konsep utama dalam TEKNOLOGI DAN NILAI?
+2. Bagaimana hubungan konsep tersebut dengan bagian lain dalam buku?
+3. Berikan penerapan baru dan jelaskan langkah berpikirmu.
+4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
+5. Bukti apa yang dapat memperkuat jawabanmu?
+
+LATIHAN
+1. Apa konsep utama dalam TEKNOLOGI DAN NILAI?
+2. Bagaimana hubungan konsep tersebut dengan bagian lain dalam buku?
+3. Berikan penerapan baru dan jelaskan langkah berpikirmu.
+4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
+5. Bukti apa yang dapat memperkuat jawabanmu?
 
 BAB 2. PRIVASI DAN DATA
 

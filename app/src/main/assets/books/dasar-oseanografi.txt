@@ -6,7 +6,7 @@ DESKRIPSI
 Mengenal laut, arus, gelombang, pasang surut, ekosistem, dan pengamatan laut.
 
 PETA BELAJAR
-Pelajari Dasar Oseanografi secara bertahap: pahami istilah, ikuti proses yang dijelaskan, lalu uji konsep pada contoh yang sesuai. Catat hubungan antarbab dan tandai bagian yang memerlukan data, perhitungan, atau sumber tambahan.
+Pelajari laut sebagai sistem yang menghubungkan proses fisika, kimia, biologi, dan geologi. Ikuti pembahasan suhu, salinitas, arus, gelombang, pasang surut, ekosistem, serta metode pengamatan untuk memahami perubahan laut dan wilayah pesisir.
 
 BAB 1. LAUT SEBAGAI SISTEM
 
@@ -56,11 +56,12 @@ PROYEK TERPADU
 Buat kajian mini untuk Dasar Oseanografi dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari PENGAMATAN DAN KONSERVASI dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Dasar Oseanografi.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+EVALUASI AKHIR
+1. Jelaskan bagaimana suhu dan salinitas memengaruhi massa jenis air laut.
+2. Bedakan arus permukaan dan sirkulasi laut dalam.
+3. Uraikan penyebab utama pasang surut dan pengaruhnya di wilayah pesisir.
+4. Jelaskan hubungan ekosistem laut dengan produktivitas dan keanekaragaman hayati.
+5. Sebutkan metode pengamatan yang sesuai untuk mengkaji perubahan kondisi laut dan keterbatasannya.
 
 PEDOMAN PENILAIAN
 Nilai pemahaman Dasar Oseanografi berdasarkan ketepatan konsep, kecocokan metode, mutu bukti, dan kemampuan menerapkan materi. Jawaban harus menunjukkan alasan yang dapat diperiksa serta menyebutkan keterbatasan informasi bila ada.

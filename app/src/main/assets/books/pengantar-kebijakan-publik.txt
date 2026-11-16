@@ -186,3 +186,34 @@ LATIHAN DAN PEMBAHASAN
 3. Apa ciri konsultasi bermakna? Informasi jelas, akses setara, masukan dicatat, dan tanggapan diberikan.
 4. Mengapa indikator perlu definisi? Agar pengukuran konsisten dan dapat dibandingkan.
 5. Apa fungsi analisis skenario? Menguji ketahanan keputusan terhadap beberapa kemungkinan perubahan.
+
+BAB LANJUTAN: ANALISIS PEMANGKU KEPENTINGAN DAN KEKUASAAN
+
+Kebijakan dibentuk dan dijalankan oleh aktor yang memiliki kewenangan, sumber daya, kepentingan, dan akses informasi berbeda. Pemetaan pemangku kepentingan membantu mengidentifikasi pihak yang terdampak langsung, pelaksana, pengawas, kelompok yang kurang terwakili, serta pihak yang mungkin menolak perubahan.
+
+Peta kepentingan bukan alat untuk memberi label baik atau buruk. Ia merupakan hipotesis tentang hubungan yang perlu diverifikasi melalui dokumen, wawancara yang etis, dan pengamatan proses. Kepentingan suatu lembaga juga tidak selalu sama dengan pandangan setiap orang di dalamnya. Catat sumber informasi dan tingkat keyakinan.
+
+Partisipasi perlu dirancang agar kelompok dengan sumber daya terbatas dapat menyampaikan pandangan. Sediakan informasi dalam bahasa yang mudah dipahami, waktu yang masuk akal, aksesibilitas, dan cara memberi masukan tanpa harus hadir secara fisik. Jelaskan bagaimana masukan akan dipertimbangkan dan siapa yang membuat keputusan akhir.
+
+BAB LANJUTAN: DESAIN IMPLEMENTASI DAN KOORDINASI
+
+Kebijakan yang baik di atas kertas dapat gagal jika tugas pelaksana tidak jelas. Rencana implementasi harus menentukan keluaran, penanggung jawab, jadwal, sumber daya, koordinasi, risiko, dan mekanisme pelaporan. Setiap indikator harus memiliki definisi, sumber data, frekuensi, serta pihak yang memverifikasi.
+
+Koordinasi lintas lembaga memerlukan pembagian peran yang tidak tumpang tindih. Forum koordinasi tanpa kewenangan atau tindak lanjut dapat menjadi kegiatan administratif semata. Catatan keputusan perlu mencantumkan tindakan, tenggat, dan pihak yang bertanggung jawab. Jika terjadi konflik kewenangan, jalur penyelesaian harus ditentukan sejak awal.
+
+Uji kesiapan implementasi dengan skenario gangguan: anggaran terlambat, petugas berpindah, data tidak tersedia, atau jumlah pengguna meningkat. Rencana yang tangguh tidak mengasumsikan semua kondisi berjalan ideal. Namun fleksibilitas harus tetap menjaga hak, keselamatan, dan tujuan kebijakan.
+
+BAB LANJUTAN: EVALUASI DAMPAK DAN PEMBELAJARAN KEBIJAKAN
+
+Evaluasi proses memeriksa apakah kegiatan dilaksanakan sebagaimana direncanakan. Evaluasi hasil menilai perubahan yang terjadi pada sasaran. Evaluasi dampak mencoba memahami perubahan yang dapat dikaitkan dengan kebijakan dibandingkan keadaan yang mungkin terjadi tanpa kebijakan. Pertanyaan kausal memerlukan desain yang lebih kuat daripada sekadar membandingkan angka sebelum dan sesudah.
+
+Jika memungkinkan, gunakan kelompok pembanding atau desain kuasi-eksperimental yang sesuai. Dalam banyak kebijakan, pengacakan tidak layak atau tidak etis. Metode alternatif dapat memanfaatkan perubahan aturan, penerapan bertahap, atau perbandingan wilayah dengan asumsi yang diuji. Semua metode memiliki keterbatasan yang harus dilaporkan.
+
+Hasil evaluasi perlu digunakan untuk memperbaiki program, bukan hanya memenuhi kewajiban laporan. Temuan yang tidak sesuai harapan tetap penting. Bedakan kegagalan teori kebijakan, masalah implementasi, perubahan konteks, dan kelemahan pengukuran. Rekomendasi harus menyebut bukti yang mendukung serta bagian yang masih belum pasti.
+
+LATIHAN PENDALAMAN
+1. Apa fungsi pemetaan pemangku kepentingan?
+2. Sebutkan unsur penting dalam rencana implementasi.
+3. Mengapa forum koordinasi perlu memiliki tindak lanjut?
+4. Bedakan evaluasi proses, hasil, dan dampak.
+5. Mengapa perbandingan sebelum-sesudah belum tentu membuktikan dampak kebijakan?

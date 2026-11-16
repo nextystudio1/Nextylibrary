@@ -187,3 +187,26 @@ Lamun: tumbuhan berbunga yang hidup terendam di laut.
 Mangrove: kelompok tumbuhan pesisir yang beradaptasi pada lingkungan pasang surut.
 Salinitas: kadar garam terlarut dalam air.
 Jaringan trofik: hubungan makan-dimakan dalam ekosistem.
+
+BAB LANJUTAN: KEANEKARAGAMAN DAN KESEHATAN EKOSISTEM LAUT
+
+1. Habitat dan adaptasi
+Organisme laut hidup pada lingkungan yang berbeda, mulai dari zona pasang surut hingga laut dalam. Suhu, cahaya, tekanan, salinitas, oksigen, dan ketersediaan makanan membentuk kondisi habitat. Adaptasi morfologi, fisiologi, dan perilaku membantu organisme bertahan, tetapi setiap adaptasi memiliki batas.
+
+2. Plankton, nekton, dan bentos
+Plankton terbawa arus dan mencakup organisme fotosintetik maupun heterotrof. Nekton mampu berenang melawan arus, sedangkan bentos hidup di atau dekat dasar perairan. Kelompok ini saling terhubung dalam jaring makanan dan siklus materi.
+
+3. Terumbu karang
+Terumbu karang dibangun oleh organisme karang yang berasosiasi dengan alga simbion. Kondisi suhu, kejernihan air, cahaya, dan kualitas perairan memengaruhi kesehatan ekosistem. Pemutihan karang menunjukkan hilangnya atau berkurangnya simbion dan pigmen; kejadian ini dapat dipicu tekanan lingkungan dan tidak selalu berarti koloni langsung mati.
+
+4. Mangrove dan lamun
+Mangrove menyediakan habitat, menyimpan karbon, dan membantu meredam energi gelombang pada kondisi tertentu. Padang lamun menjadi tempat mencari makan dan berlindung bagi berbagai organisme serta menstabilkan sedimen. Perlindungan keduanya membutuhkan pengelolaan kualitas air dan tata ruang pesisir.
+
+5. Jaring makanan dan perubahan ekosistem
+Perubahan populasi satu spesies dapat memengaruhi spesies lain melalui hubungan pemangsaan, kompetisi, dan simbiosis. Pengambilan spesies secara berlebihan atau masuknya spesies invasif dapat mengubah struktur komunitas. Pengamatan jangka panjang diperlukan untuk membedakan variasi alami dari perubahan yang lebih menetap.
+
+6. Konservasi berbasis bukti
+Program konservasi perlu menetapkan kondisi awal, tujuan, indikator, dan cara pemantauan. Data tutupan habitat, keanekaragaman spesies, kualitas air, dan aktivitas manusia dapat dipakai bersama. Masyarakat pesisir perlu dilibatkan karena mereka memiliki pengetahuan lokal dan berkepentingan langsung pada keberlanjutan sumber daya.
+
+LATIHAN
+Buat peta konsep hubungan mangrove, lamun, terumbu karang, ikan, dan kegiatan manusia. Jelaskan dua jalur dampak jika kualitas air menurun dan data apa yang dibutuhkan untuk menguji dugaan tersebut.

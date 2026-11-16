@@ -6,28 +6,28 @@ DESKRIPSI
 Memahami tata ruang, hunian, transportasi, ruang publik, layanan dasar, dan kota berkelanjutan.
 
 PENDAHULUAN
-Buku ini memperkenalkan konsep utama, hubungan antarbagian, dan cara menerapkan pengetahuan secara bertanggung jawab. Pembaca diajak memeriksa bukti, mengenali asumsi, dan menyampaikan kesimpulan sesuai informasi yang tersedia.
+Buku Pengantar Perencanaan Kota membahas memahami tata ruang, hunian, transportasi, ruang publik, layanan dasar, dan kota berkelanjutan.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
 
 BAB 1. KOTA SEBAGAI SISTEM
 
 Kota menggabungkan permukiman, kegiatan ekonomi, jaringan transportasi, ruang terbuka, layanan publik, dan infrastruktur. Unsur tersebut saling memengaruhi. Perencanaan kota mengatur pertumbuhan agar kebutuhan penduduk terpenuhi dengan mempertimbangkan keterbatasan lahan dan lingkungan.
 
 PENDALAMAN
-Untuk menggunakan konsep dengan tepat, perhatikan definisi, konteks, dan batas penerapannya. Satu contoh tidak selalu mewakili semua keadaan. Bandingkan beberapa situasi, catat faktor yang berubah, dan periksa apakah kesimpulan tetap berlaku. Jika informasi belum cukup, nyatakan ketidakpastian daripada mengisi kekosongan dengan dugaan.
+Pada KOTA SEBAGAI SISTEM, bedakan fakta, aturan, kepentingan, dan penilaian. Identifikasi pihak yang terlibat serta kelompok yang terdampak. Bandingkan sumber dan sudut pandang sebelum menyusun kesimpulan agar konteks tidak terabaikan.
 
 KEGIATAN BELAJAR
-1. Tulis ringkasan dengan kalimat sendiri.
-2. Buat peta konsep yang menghubungkan istilah utama.
-3. Cari contoh yang relevan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan lanjutan untuk penyelidikan.
+1. Jelaskan satu istilah kunci dari KOTA SEBAGAI SISTEM dengan kalimat sendiri.
+2. Buat bagan yang menunjukkan hubungan antarkonsep.
+3. Terapkan konsep pada satu contoh yang relevan dengan Pengantar Perencanaan Kota.
+4. Tunjukkan asumsi atau kondisi yang dapat mengubah hasil.
+5. Sajikan kesimpulan beserta bukti pendukungnya.
 
 LATIHAN
-1. Definisikan istilah utama.
-2. Jelaskan proses yang dibahas secara runtut.
-3. Berikan contoh penerapan.
-4. Sebutkan keterbatasan informasi.
-5. Buat kesimpulan berdasarkan bukti.
+1. Apa konsep utama dalam KOTA SEBAGAI SISTEM?
+2. Bagaimana hubungan konsep tersebut dengan bagian lain dalam buku?
+3. Berikan penerapan baru dan jelaskan langkah berpikirmu.
+4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
+5. Bukti apa yang dapat memperkuat jawabanmu?
 
 BAB 2. TATA GUNA LAHAN
 
@@ -49,15 +49,15 @@ BAB 6. PARTISIPASI DAN TATA KELOLA
 
 Perencanaan yang baik melibatkan warga, ahli, pelaku usaha, dan lembaga pemerintah. Informasi rencana harus mudah dipahami dan masukan perlu ditanggapi. Transparansi membantu mencegah konflik kepentingan dan meningkatkan kesesuaian proyek dengan kebutuhan masyarakat.
 
-PROYEK AKHIR
-Pilih persoalan yang menghubungkan beberapa bab. Rumuskan pertanyaan, tujuan, batasan, dan metode. Gunakan sumber yang dapat diperiksa. Sajikan temuan dengan jelas, pisahkan data dari interpretasi, dan jelaskan keterbatasan. Rekomendasi harus realistis serta mempertimbangkan pihak yang terdampak.
+PROYEK TERPADU
+Buat kajian mini untuk Pengantar Perencanaan Kota dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Ringkas lima gagasan inti buku.
-2. Jelaskan hubungan antarbab.
-3. Analisis satu kasus berdasarkan bukti.
-4. Bandingkan dua pilihan tindakan.
-5. Jelaskan informasi tambahan yang masih dibutuhkan.
+1. Terangkan konsep inti dari PARTISIPASI DAN TATA KELOLA dan perannya dalam bidang ini.
+2. Hubungkan tiga gagasan dari bab yang berbeda.
+3. Analisis sebuah kasus menggunakan konsep buku Pengantar Perencanaan Kota.
+4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
+5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 GLOSARIUM
 Konsep: Gagasan untuk memahami suatu topik.
@@ -67,8 +67,7 @@ Risiko: Gabungan kemungkinan dan dampak kejadian.
 Evaluasi: Penilaian berdasarkan kriteria.
 
 CATATAN SUMBER
-Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, dan sumber lembaga kompeten. Periksa tahun terbit dan izin penggunaan sebelum mengutip atau menggunakan kembali materi.
-PENDALAMAN MATERI DAN PENERAPAN
+Naskah Pengantar Perencanaan Kota merupakan materi pembelajaran orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, atau sumber lembaga yang sesuai dengan bidang ini. Catat penulis, judul, tahun, dan bagian yang digunakan; periksa relevansi serta tanggal pembaruan sumber.
 
 BAB 6. TATA GUNA LAHAN DAN ZONA CAMPURAN
 Tata guna lahan menjelaskan bagaimana ruang dialokasikan untuk hunian, perdagangan, industri, fasilitas umum, pertanian, dan ruang terbuka. Pemisahan fungsi dapat mengurangi konflik tertentu, tetapi pemisahan berlebihan membuat perjalanan semakin jauh dan meningkatkan ketergantungan pada kendaraan. Konsep penggunaan lahan campuran menempatkan beberapa fungsi yang saling mendukung dalam jarak yang dapat dijangkau. Perencana perlu memeriksa skala kawasan, kapasitas jalan, ketersediaan air, risiko bencana, dan kebutuhan kelompok rentan. Perubahan zonasi juga dapat menaikkan nilai tanah dan memicu perpindahan warga jika perlindungan sosial tidak disiapkan. Peta tata ruang harus dibaca bersama aturan, tahun data, dan kondisi aktual.

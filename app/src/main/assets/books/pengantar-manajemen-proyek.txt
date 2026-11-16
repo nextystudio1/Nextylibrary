@@ -168,3 +168,45 @@ Serah terima: Proses penyerahan hasil kepada penerima.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk kajian lanjutan, gunakan sumber primer, buku ajar, standar, dan publikasi lembaga tepercaya. Catat penulis atau lembaga, judul, tahun, dan bagian yang digunakan. Periksa pembaruan informasi pada topik yang berkembang.
+
+BAB LANJUTAN: MENYUSUN RUANG LINGKUP DAN STRUKTUR PEKERJAAN
+
+Ruang lingkup menjelaskan hasil yang harus diserahkan dan batas pekerjaan. Pernyataan ruang lingkup yang baik menyebut tujuan, keluaran, kriteria penerimaan, asumsi, batasan, serta hal yang tidak termasuk pekerjaan. Batasan yang eksplisit mencegah tim menganggap semua permintaan baru otomatis menjadi bagian proyek. Setiap perubahan perlu dinilai dari dampak terhadap waktu, biaya, mutu, dan risiko.
+
+Struktur rincian pekerjaan memecah hasil besar menjadi paket kerja yang dapat diperkirakan dan ditugaskan. Pemecahan dilakukan berdasarkan keluaran, bukan sekadar daftar aktivitas acak. Paket kerja idealnya cukup kecil untuk dipantau, tetapi tidak terlalu rinci hingga biaya administrasinya melebihi manfaat. Kamus paket kerja dapat mencatat deskripsi, penanggung jawab, perkiraan durasi, kebutuhan sumber daya, dan bukti penyelesaian.
+
+Contoh: proyek membuat katalog digital dapat dipecah menjadi analisis kebutuhan, rancangan data, pengembangan antarmuka, migrasi data, pengujian, pelatihan, dan serah terima. Setiap bagian memiliki hasil yang dapat diperiksa. “Mengerjakan aplikasi” terlalu luas untuk dijadikan paket kerja karena tidak menjelaskan kapan bagian tersebut selesai.
+
+BAB LANJUTAN: JADWAL, KETERGANTUNGAN, DAN KAPASITAS
+
+Jadwal dibangun dari urutan pekerjaan dan ketergantungannya. Sebagian pekerjaan baru dapat dimulai setelah pekerjaan lain selesai, sedangkan sebagian dapat berjalan paralel. Ketergantungan perlu dibedakan dari kebiasaan tim: jika dua pekerjaan sebenarnya dapat dilakukan bersamaan, menempatkannya berurutan akan memperpanjang jadwal tanpa alasan.
+
+Perkiraan durasi sebaiknya menyatakan asumsi. Ketersediaan orang, waktu persetujuan, hari libur, pengadaan, dan waktu pengujian sering terlupakan. Perkiraan tunggal dapat memberi kesan pasti; rentang atau skenario optimistis, paling mungkin, dan pesimistis lebih jujur ketika ketidakpastian tinggi. Perbarui perkiraan berdasarkan data kemajuan, bukan sekadar mempertahankan tanggal awal.
+
+Kapasitas tim tidak sama dengan jumlah jam kalender. Seseorang dapat memiliki tugas operasional, rapat, dan pekerjaan lain. Penjadwalan yang membebankan seluruh waktu seseorang pada proyek akan menghasilkan rencana yang rapuh. Sisakan ruang untuk koordinasi, pembelajaran, koreksi, dan pekerjaan tak terduga.
+
+BAB LANJUTAN: ANGGARAN DAN PENGENDALIAN BIAYA
+
+Anggaran menghubungkan paket kerja dengan kebutuhan sumber daya. Komponen dapat mencakup tenaga kerja, perangkat, lisensi, perjalanan, bahan, layanan, dan biaya pemeliharaan. Biaya langsung terkait kegiatan tertentu, sedangkan biaya tidak langsung mendukung proyek secara umum. Dasar perkiraan perlu dicatat agar perubahan dapat dijelaskan.
+
+Cadangan risiko bukan dana bebas untuk menambah fitur tanpa persetujuan. Cadangan digunakan sesuai aturan tata kelola untuk menghadapi ketidakpastian yang telah dikenali atau kejadian tak terduga. Pengeluaran aktual dibandingkan dengan anggaran dan kemajuan fisik. Biaya yang rendah belum tentu berarti proyek sehat jika pekerjaan juga tertinggal.
+
+BAB LANJUTAN: MUTU, PENGUJIAN, DAN PENERIMAAN
+
+Mutu berarti kesesuaian hasil dengan kebutuhan dan kriteria yang disepakati, bukan sekadar tampilan menarik. Rencana mutu menjelaskan standar, metode pemeriksaan, penanggung jawab, dan bukti. Pemeriksaan proses bertujuan mencegah kesalahan, sedangkan pengujian hasil memastikan keluaran memenuhi kebutuhan.
+
+Kriteria penerimaan sebaiknya dapat diamati. Untuk sistem katalog, contohnya pencarian menghasilkan rekaman yang relevan, data dapat diperbarui oleh petugas berwenang, dan tampilan dapat digunakan melalui perangkat yang ditentukan. Kriteria kabur seperti “mudah digunakan” perlu diterjemahkan menjadi tugas dan indikator yang dapat diuji bersama pengguna.
+
+BAB LANJUTAN: RISIKO, PERUBAHAN, DAN PEMBELAJARAN
+
+Daftar risiko mencatat peristiwa, penyebab, kemungkinan, dampak, pemilik risiko, dan respons. Respons dapat berupa menghindari, mengurangi, memindahkan, atau menerima risiko. Risiko yang diterima tetap dipantau; penerimaan bukan berarti mengabaikannya. Risiko baru dapat muncul saat kondisi berubah.
+
+Permintaan perubahan dicatat dan dianalisis sebelum disetujui. Catatan keputusan membantu tim memahami mengapa jadwal atau ruang lingkup berubah. Setelah proyek selesai, evaluasi membandingkan tujuan dengan hasil, mengidentifikasi manfaat yang benar-benar terjadi, dan mencatat pelajaran yang dapat digunakan proyek berikutnya.
+
+LATIHAN APLIKATIF
+1. Buat pernyataan ruang lingkup untuk proyek penyelenggaraan pameran sekolah.
+2. Pecah proyek tersebut menjadi sedikitnya enam paket kerja.
+3. Tandai pekerjaan yang dapat berjalan paralel dan yang memiliki ketergantungan.
+4. Susun tiga kriteria penerimaan yang dapat diuji.
+5. Buat daftar tiga risiko beserta pemilik dan responsnya.
+6. Jelaskan mengapa biaya rendah tidak selalu berarti proyek berjalan baik.

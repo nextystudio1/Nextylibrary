@@ -6,7 +6,7 @@ DESKRIPSI
 Panduan memahami bacaan, menyusun paragraf, menulis esai, menyunting, dan mengutip sumber secara bertanggung jawab.
 
 TUJUAN PEMBELAJARAN
-Pembaca mampu menjelaskan konsep, menafsirkan contoh, memeriksa bukti, dan menerapkan pengetahuan secara bertanggung jawab.
+Setelah mempelajari Literasi Bahasa Indonesia dan Menulis, pembaca mampu menjelaskan panduan memahami bacaan, menyusun paragraf, menulis esai, menyunting, dan mengutip sumber secara bertanggung jawab., membedakan istilah yang sering tertukar, menilai contoh berdasarkan bukti, dan menerapkan konsep secara tepat sesuai konteks.
 
 BAB 1. MEMBACA SECARA AKTIF
 
@@ -16,15 +16,17 @@ CONTOH PENERAPAN
 Contoh kajian: pilih kasus sederhana yang berkaitan dengan MEMBACA SECARA AKTIF dalam bidang Literasi Bahasa Indonesia dan Menulis. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
 
 RANGKUMAN
-- Kenali definisi dan batas penggunaan konsep.
-- Hubungkan penjelasan dengan contoh nyata.
-- Periksa satuan, konteks, dan sumber informasi.
+- MEMBACA SECARA AKTIF: pahami istilah dan prinsip yang menjadi dasar pembahasan.
+- Perhatikan hubungan sebab, proses, dan akibat yang dijelaskan dalam bab.
+- Gunakan contoh untuk menguji apakah konsep dipahami dengan benar.
+- Nyatakan batas informasi sebelum membuat kesimpulan.
 
 LATIHAN
-1. Jelaskan dua istilah utama dari bab ini.
-2. Buat satu contoh baru dan uraikan alasannya.
-3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
-4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+1. Definisikan dua istilah penting dalam MEMBACA SECARA AKTIF.
+2. Jelaskan proses atau hubungan utama secara berurutan.
+3. Buat contoh baru dan terangkan mengapa sesuai.
+4. Identifikasi satu batasan atau kesalahan penafsiran.
+5. Susun pertanyaan yang membutuhkan bukti tambahan.
 
 BAB 2. PARAGRAF DAN KOHERENSI
 
@@ -54,7 +56,7 @@ EVALUASI AKHIR
 5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 PEDOMAN JAWABAN
-Jawaban dinilai dari ketepatan konsep, kejelasan alasan, relevansi contoh, dan kemampuan menyatakan batas pengetahuan. Jawaban berbeda dapat diterima apabila didukung penalaran dan bukti yang sesuai.
+Untuk Literasi Bahasa Indonesia dan Menulis, jawaban perlu menggunakan istilah bidang secara akurat, menunjukkan hubungan konsep dengan contoh, dan menjelaskan alasan setiap kesimpulan. Terima penafsiran berbeda jika konsisten, didukung bukti, dan tidak melampaui informasi yang tersedia.
 
 GLOSARIUM
 Koherensi: Keterpaduan alur gagasan dalam teks.
@@ -64,8 +66,7 @@ Argumen: Klaim yang didukung alasan dan bukti.
 Penyuntingan: Proses memperbaiki isi dan bentuk tulisan.
 
 SARAN BELAJAR
-Gunakan buku ini sebagai pengantar. Cocokkan informasi dengan buku ajar dan publikasi lembaga yang kompeten, terutama untuk topik yang berkembang. Catat sumber, penulis atau lembaga, tahun, dan bagian yang digunakan ketika memperluas bacaan.
-PENDALAMAN MATERI DAN PRAKTIK
+Saat memperdalam Literasi Bahasa Indonesia dan Menulis, bandingkan penjelasan buku ini dengan buku ajar dan publikasi lembaga yang relevan. Buat daftar istilah baru, cari contoh yang dapat diperiksa, dan catat perbedaan definisi atau metode. Utamakan sumber yang menjelaskan penulis, tanggal, dan dasar informasinya.
 
 BAB 6. MENYUSUN ARGUMEN YANG DAPAT DIPERTANGGUNGJAWABKAN
 Argumen adalah rangkaian klaim, alasan, dan bukti yang saling mendukung. Klaim menyatakan posisi yang hendak dijelaskan. Alasan menerangkan mengapa klaim masuk akal, sedangkan bukti memberi dasar untuk menilai alasan tersebut. Contoh, data, kutipan, dan hasil pengamatan dapat menjadi bukti jika relevan dan dapat diperiksa. Hindari menganggap banyaknya kalimat sebagai kekuatan argumen. Satu data yang tepat dapat lebih berguna daripada banyak contoh yang tidak berhubungan. Periksa apakah bukti benar-benar mendukung klaim, apakah ada penjelasan alternatif, dan apakah kesimpulan terlalu luas. Kata seperti “selalu”, “semua”, atau “pasti” perlu digunakan dengan hati-hati karena sering melampaui cakupan bukti. Dalam tulisan sekolah, jelaskan batas informasi dan bedakan fakta dari penilaian pribadi.

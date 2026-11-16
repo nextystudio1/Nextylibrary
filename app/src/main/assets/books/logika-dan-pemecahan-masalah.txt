@@ -31,11 +31,6 @@ Pola adalah keteraturan yang dapat membantu memperkirakan atau menjelaskan sesua
 
 Saat menyusun jadwal, kita tidak perlu memasukkan setiap detail kecil. Cukup gunakan waktu, prioritas, durasi, dan batas kegiatan. Namun, abstraksi yang terlalu jauh dapat menghilangkan faktor penting. Periksa kembali apakah model masih mewakili keadaan nyata.
 
-RANGKUMAN BAB
-- Pahami konsep inti dan konteks penerapannya.
-- Periksa asumsi sebelum mengambil kesimpulan.
-- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
-
 LATIHAN BAB 2
 1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
 2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
@@ -47,11 +42,6 @@ BAB 3. ARGUMEN DAN BUKTI
 Argumen terdiri atas klaim, alasan, dan bukti. Klaim menyatakan apa yang diyakini; alasan menjelaskan hubungan logis; bukti memberi dasar untuk menilai klaim. Banyaknya orang yang percaya suatu pernyataan tidak otomatis menjadikannya benar.
 
 Uji apakah bukti relevan, cukup, dan dapat diperiksa. Bedakan korelasi dengan sebab-akibat. Jika dua hal muncul bersamaan, mungkin ada faktor ketiga yang memengaruhi keduanya. Gunakan kata 'mungkin' ketika bukti belum cukup untuk kesimpulan pasti.
-
-RANGKUMAN BAB
-- Pahami konsep inti dan konteks penerapannya.
-- Periksa asumsi sebelum mengambil kesimpulan.
-- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
 
 LATIHAN BAB 3
 1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
@@ -65,11 +55,6 @@ Strategi umum meliputi memecah masalah menjadi bagian kecil, membuat daftar kemu
 
 Jika masalah besar terasa sulit, pecah menjadi langkah yang dapat diuji. Tentukan hasil yang diharapkan pada tiap langkah. Setelah satu langkah berhasil, catat apa yang dipelajari dan sesuaikan rencana.
 
-RANGKUMAN BAB
-- Pahami konsep inti dan konteks penerapannya.
-- Periksa asumsi sebelum mengambil kesimpulan.
-- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
-
 LATIHAN BAB 4
 1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
 2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
@@ -82,11 +67,6 @@ Keputusan sering dibuat dengan informasi terbatas. Buat beberapa alternatif, per
 
 Gunakan skenario terbaik, paling mungkin, dan terburuk untuk melihat rentang kemungkinan. Hindari rasa yakin berlebihan. Jika keputusan dapat dibatalkan, uji dalam skala kecil. Jika sulit dibatalkan, kumpulkan informasi lebih banyak dan mintalah masukan.
 
-RANGKUMAN BAB
-- Pahami konsep inti dan konteks penerapannya.
-- Periksa asumsi sebelum mengambil kesimpulan.
-- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
-
 LATIHAN BAB 5
 1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
 2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
@@ -98,11 +78,6 @@ BAB 6. EVALUASI DAN BELAJAR DARI KESALAHAN
 Solusi perlu dievaluasi berdasarkan tujuan awal. Apakah masalah berkurang? Apakah muncul dampak samping? Apakah hasilnya dapat diulang? Kesalahan adalah informasi tentang asumsi atau proses yang perlu diperbaiki, bukan alasan untuk berhenti berpikir.
 
 Buat catatan singkat tentang masalah, strategi, hasil, dan pelajaran. Dengan cara ini, pengalaman menjadi pengetahuan yang dapat digunakan kembali. Jangan hanya menilai hasil akhir; nilai juga proses, kerja sama, dan kejujuran dalam melaporkan hasil.
-
-RANGKUMAN BAB
-- Pahami konsep inti dan konteks penerapannya.
-- Periksa asumsi sebelum mengambil kesimpulan.
-- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
 
 LATIHAN BAB 6
 1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.

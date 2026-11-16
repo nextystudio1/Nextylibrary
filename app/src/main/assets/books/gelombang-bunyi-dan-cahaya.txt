@@ -6,7 +6,7 @@ DESKRIPSI
 Memahami gelombang, getaran, bunyi, cahaya, pemantulan, pembiasan, dan penerapannya.
 
 TUJUAN PEMBELAJARAN
-Pembaca mampu menjelaskan konsep, menafsirkan contoh, memeriksa bukti, dan menerapkan pengetahuan secara bertanggung jawab.
+Setelah mempelajari Gelombang, Bunyi, dan Cahaya, pembaca mampu menjelaskan memahami gelombang, getaran, bunyi, cahaya, pemantulan, pembiasan, dan penerapannya., membedakan istilah yang sering tertukar, menilai contoh berdasarkan bukti, dan menerapkan konsep secara tepat sesuai konteks.
 
 BAB 1. GETARAN DAN GELOMBANG
 
@@ -16,15 +16,17 @@ CONTOH PENERAPAN
 Contoh kajian: pilih kasus sederhana yang berkaitan dengan GETARAN DAN GELOMBANG dalam bidang Gelombang, Bunyi, dan Cahaya. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
 
 RANGKUMAN
-- Kenali definisi dan batas penggunaan konsep.
-- Hubungkan penjelasan dengan contoh nyata.
-- Periksa satuan, konteks, dan sumber informasi.
+- GETARAN DAN GELOMBANG: pahami istilah dan prinsip yang menjadi dasar pembahasan.
+- Perhatikan hubungan sebab, proses, dan akibat yang dijelaskan dalam bab.
+- Gunakan contoh untuk menguji apakah konsep dipahami dengan benar.
+- Nyatakan batas informasi sebelum membuat kesimpulan.
 
 LATIHAN
-1. Jelaskan dua istilah utama dari bab ini.
-2. Buat satu contoh baru dan uraikan alasannya.
-3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
-4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+1. Definisikan dua istilah penting dalam GETARAN DAN GELOMBANG.
+2. Jelaskan proses atau hubungan utama secara berurutan.
+3. Buat contoh baru dan terangkan mengapa sesuai.
+4. Identifikasi satu batasan atau kesalahan penafsiran.
+5. Susun pertanyaan yang membutuhkan bukti tambahan.
 
 BAB 2. GELOMBANG MEKANIK DAN ELEKTROMAGNETIK
 
@@ -54,7 +56,7 @@ EVALUASI AKHIR
 5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 PEDOMAN JAWABAN
-Jawaban dinilai dari ketepatan konsep, kejelasan alasan, relevansi contoh, dan kemampuan menyatakan batas pengetahuan. Jawaban berbeda dapat diterima apabila didukung penalaran dan bukti yang sesuai.
+Untuk Gelombang, Bunyi, dan Cahaya, jawaban perlu menggunakan istilah bidang secara akurat, menunjukkan hubungan konsep dengan contoh, dan menjelaskan alasan setiap kesimpulan. Terima penafsiran berbeda jika konsisten, didukung bukti, dan tidak melampaui informasi yang tersedia.
 
 GLOSARIUM
 Amplitudo: Simpangan maksimum suatu getaran.
@@ -64,8 +66,7 @@ Resonansi: Penguatan respons getaran pada kondisi frekuensi tertentu.
 Pembiasan: Perubahan arah rambat gelombang saat memasuki medium berbeda.
 
 SARAN BELAJAR
-Gunakan buku ini sebagai pengantar. Cocokkan informasi dengan buku ajar dan publikasi lembaga yang kompeten, terutama untuk topik yang berkembang. Catat sumber, penulis atau lembaga, tahun, dan bagian yang digunakan ketika memperluas bacaan.
-PENDALAMAN MATERI DAN PRAKTIK
+Saat memperdalam Gelombang, Bunyi, dan Cahaya, bandingkan penjelasan buku ini dengan buku ajar dan publikasi lembaga yang relevan. Buat daftar istilah baru, cari contoh yang dapat diperiksa, dan catat perbedaan definisi atau metode. Utamakan sumber yang menjelaskan penulis, tanggal, dan dasar informasinya.
 
 BAB 6. BESARAN GELOMBANG DAN PERHITUNGAN
 Frekuensi menyatakan banyak getaran setiap detik dan diukur dalam hertz. Periode adalah waktu untuk satu getaran, sehingga T = 1/f. Panjang gelombang adalah jarak antara dua titik berfase sama yang berurutan. Cepat rambat gelombang memenuhi v = fλ. Jika gelombang memiliki frekuensi 5 hertz dan panjang gelombang 2 meter, cepat rambatnya 10 meter per detik. Persamaan ini membantu menghubungkan sifat gelombang, tetapi nilai cepat rambat ditentukan oleh medium dan kondisi perambatan. Ketika gelombang memasuki medium lain, frekuensi umumnya tetap ditentukan sumber, sedangkan panjang gelombang dapat berubah karena cepat rambat berubah. Dalam membaca soal, tulis besaran yang diketahui, satuannya, besaran yang ditanya, lalu periksa apakah hasil memiliki satuan yang sesuai.

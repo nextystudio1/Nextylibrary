@@ -185,3 +185,29 @@ Aksesibilitas: kemudahan mencapai tempat atau layanan.
 Tata guna lahan: pengaturan fungsi ruang.
 Limpasan: air yang mengalir di permukaan tanah.
 Penggunaan campuran: penggabungan beberapa fungsi dalam satu kawasan.
+
+BAB LANJUTAN: KOTA INKLUSIF DAN PERENCANAAN BERKELANJUTAN
+
+1. Kota sebagai sistem
+Kota terdiri atas jaringan permukiman, transportasi, air, energi, ruang terbuka, ekonomi, layanan sosial, dan tata kelola. Perubahan pada satu bagian dapat memengaruhi bagian lain. Pembangunan jalan, misalnya, dapat memperbaiki konektivitas tetapi juga mengubah pola perjalanan, harga lahan, dan akses pejalan kaki.
+
+2. Tata guna lahan dan kepadatan
+Rencana tata guna lahan mengatur hubungan hunian, pekerjaan, perdagangan, fasilitas umum, dan ruang hijau. Kepadatan dapat mendukung layanan dan transportasi umum jika dirancang baik, tetapi perlu disertai infrastruktur, ruang publik, dan perlindungan kualitas lingkungan. Angka kepadatan harus dibaca bersama konteks wilayah.
+
+3. Mobilitas dan akses
+Perencanaan transportasi perlu memperhatikan pejalan kaki, pesepeda, angkutan umum, kendaraan pribadi, dan kebutuhan pengguna dengan mobilitas terbatas. Ukuran keberhasilan bukan hanya kecepatan kendaraan, melainkan akses terhadap sekolah, pekerjaan, layanan kesehatan, dan ruang publik dengan aman serta terjangkau.
+
+4. Air, drainase, dan risiko bencana
+Permukaan kedap air dapat meningkatkan limpasan hujan. Ruang resapan, taman, saluran yang terawat, dan perlindungan daerah aliran membantu pengelolaan air. Solusi harus mempertimbangkan kondisi tanah, topografi, sampah, pemeliharaan, dan dampak ke wilayah hilir.
+
+5. Perumahan dan keadilan ruang
+Ketersediaan hunian perlu dinilai dari keterjangkauan, kualitas, lokasi, akses layanan, keamanan bermukim, dan kedekatan dengan mata pencaharian. Penataan kawasan harus melibatkan warga dan menghindari pemindahan beban kepada kelompok yang paling rentan.
+
+6. Partisipasi masyarakat
+Peta partisipatif, diskusi publik, survei, dan lokakarya dapat mengungkap pengalaman yang tidak terlihat dalam data statistik. Proses partisipasi perlu transparan tentang pilihan yang masih terbuka, batas anggaran, dan bagaimana masukan akan dipakai.
+
+7. Indikator kota berkelanjutan
+Gunakan indikator akses angkutan umum, keselamatan jalan, kualitas udara, ruang hijau yang dapat dijangkau, layanan air, keterjangkauan hunian, dan ketahanan terhadap bencana. Data perlu dipilah secara tepat agar ketimpangan antarwilayah tidak tertutup oleh nilai rata-rata kota.
+
+LATIHAN
+Pilih satu masalah perkotaan. Buat peta pihak terdampak, penyebab, hubungan dengan sistem kota lain, tiga alternatif kebijakan, dan indikator untuk mengevaluasi hasilnya.

@@ -78,31 +78,103 @@ Rekonsiliasi: Pencocokan dua catatan untuk menemukan selisih.
 CATATAN SUMBER
 Naskah Pengantar Akuntansi Dasar merupakan materi pembelajaran orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, atau sumber lembaga yang sesuai dengan bidang ini. Catat penulis, judul, tahun, dan bagian yang digunakan; periksa relevansi serta tanggal pembaruan sumber.
 
-BAB LANJUTAN: SIKLUS AKUNTANSI DAN PENGENDALIAN KEUANGAN
 
-1. Dari bukti transaksi ke pencatatan
-Setiap pencatatan perlu didukung bukti yang relevan, seperti faktur, kuitansi, nota, atau dokumen penerimaan. Periksa tanggal, pihak yang terlibat, uraian, jumlah, dan persetujuan. Dokumen yang tidak lengkap perlu ditandai untuk klarifikasi, bukan diisi berdasarkan perkiraan.
+BAB 7. DASAR PENGAKUAN: KAS DAN AKRUAL
+Dalam dasar kas, transaksi dicatat ketika kas diterima atau dibayarkan. Dalam dasar akrual, pendapatan diakui ketika diperoleh dan beban diakui ketika terjadi sesuai prinsip yang berlaku, meskipun kas belum berpindah. Dasar akrual membantu menggambarkan kinerja dalam periode yang tepat, tetapi memerlukan pencatatan piutang, utang, dan penyesuaian.
 
-2. Persamaan dasar akuntansi
-Aset adalah sumber daya yang dikuasai entitas; kewajiban adalah tanggungan kepada pihak lain; ekuitas merupakan hak residual. Persamaan dasarnya: Aset = Kewajiban + Ekuitas. Setiap transaksi memengaruhi setidaknya dua sisi pencatatan sehingga persamaan tetap seimbang. Keseimbangan angka saja belum menjamin transaksi benar; klasifikasi dan bukti tetap harus diperiksa.
-
-3. Jurnal dan buku besar
-Jurnal mencatat transaksi secara kronologis dengan akun debit dan kredit. Setelah itu, nilai dipindahkan ke buku besar agar perubahan setiap akun dapat dilihat. Debit dan kredit bukan sinonim dari bertambah dan berkurang untuk semua akun; pengaruhnya bergantung pada kelompok akun. Karena itu, pahami sifat normal akun sebelum mencatat.
-
-4. Neraca saldo dan penyesuaian
-Neraca saldo merangkum saldo akun untuk memeriksa keseimbangan debit dan kredit. Namun, kesalahan yang jumlahnya sama pada kedua sisi masih mungkin terjadi. Pada akhir periode, penyesuaian dapat diperlukan untuk beban yang masih harus dibayar, pendapatan yang masih harus diterima, pemakaian perlengkapan, penyusutan, atau transaksi yang manfaatnya melampaui satu periode.
-
-5. Laporan keuangan
-Laporan laba rugi merangkum pendapatan dan beban selama periode. Laporan posisi keuangan menunjukkan aset, kewajiban, dan ekuitas pada tanggal tertentu. Laporan arus kas menjelaskan penerimaan dan pengeluaran kas menurut aktivitas. Catatan atas laporan memberi rincian kebijakan dan informasi yang diperlukan untuk memahami angka.
-
-6. Pengendalian internal
-Pemisahan tugas, persetujuan transaksi, pembatasan akses, rekonsiliasi, dan pemeriksaan berkala membantu mengurangi kesalahan serta penyalahgunaan. Pada organisasi kecil, pemisahan tugas mungkin terbatas; pemeriksaan oleh pihak lain dan dokumentasi yang konsisten menjadi semakin penting.
-
-7. Membaca informasi keuangan secara kritis
-Bandingkan angka antarperiode, pahami perubahan kebijakan, dan perhatikan arus kas selain laba. Rasio keuangan dapat membantu analisis, tetapi tidak boleh ditafsirkan sendirian. Industri, ukuran organisasi, musim usaha, dan kondisi ekonomi memengaruhi arti suatu rasio.
-
-CONTOH
-Usaha menerima pembayaran tunai untuk jasa yang telah selesai. Catat penerimaan kas dan pendapatan jasa sesuai bukti. Jika pelanggan baru membayar uang muka untuk jasa yang belum diberikan, perlakuannya berbeda karena kewajiban pelayanan masih ada. Waktu pengakuan transaksi harus mengikuti prinsip dan standar yang berlaku.
+Contoh: usaha menyelesaikan jasa pada 28 Maret senilai Rp1.200.000, tetapi pelanggan baru membayar 5 April. Dalam pencatatan akrual, pendapatan dan piutang dapat diakui pada Maret ketika jasa telah diberikan dan syarat pengakuan terpenuhi. Pada April, penerimaan kas mengurangi piutang; penerimaan tersebut bukan pendapatan baru jika pendapatannya sudah diakui sebelumnya. Perlakuan nyata harus mengikuti standar yang berlaku dan fakta kontrak.
 
 LATIHAN
-Buat lima transaksi sederhana usaha kecil: setoran modal, pembelian perlengkapan tunai, pembelian barang secara kredit, penerimaan pendapatan, dan pembayaran beban. Tentukan akun yang terpengaruh, sisi debit-kredit, serta dokumen pendukung yang diperlukan.
+1. Bedakan dasar kas dan dasar akrual.
+2. Mengapa tanggal penerimaan kas tidak selalu sama dengan periode pendapatan?
+3. Buat jurnal sederhana untuk jasa yang telah selesai tetapi belum dibayar.
+4. Jelaskan pengaruh pembayaran piutang pada periode berikutnya.
+
+BAB 8. PENYESUAIAN AKHIR PERIODE
+Penyesuaian memastikan pendapatan dan beban dicatat pada periode yang tepat. Contohnya meliputi perlengkapan yang telah digunakan, beban yang masih harus dibayar, pendapatan yang masih harus diterima, pembayaran di muka, dan penyusutan aset tetap. Penyesuaian dibuat berdasarkan bukti dan perhitungan yang dapat dijelaskan.
+
+Contoh perlengkapan: saldo akun perlengkapan sebelum pemeriksaan Rp900.000. Hasil pemeriksaan fisik menunjukkan perlengkapan tersisa Rp250.000. Dengan asumsi tidak ada transaksi lain yang belum dicatat, perlengkapan yang digunakan adalah Rp650.000. Penyesuaian mencatat beban perlengkapan Rp650.000 dan mengurangi aset perlengkapan dengan jumlah yang sama.
+
+Penyusutan mengalokasikan biaya perolehan aset berumur manfaat lebih dari satu periode selama masa manfaatnya. Penyusutan bukan penilaian harga pasar dan bukan pengukuran langsung kerusakan fisik. Metode serta umur manfaat harus ditentukan secara masuk akal dan sesuai standar.
+
+LATIHAN
+1. Mengapa penyesuaian diperlukan pada akhir periode?
+2. Hitung perlengkapan terpakai jika saldo awal pemeriksaan Rp1.400.000 dan sisa fisik Rp375.000.
+3. Bedakan beban dibayar di muka dan beban yang masih harus dibayar.
+4. Jelaskan apa yang diukur dan tidak diukur oleh penyusutan.
+
+BAB 9. NERACA SALDO DAN PENELUSURAN KESALAHAN
+Neraca saldo menyajikan saldo akun untuk memeriksa apakah total debit sama dengan total kredit. Keseimbangan merupakan pemeriksaan awal, bukan bukti bahwa seluruh transaksi benar. Kesalahan seperti transaksi yang tidak dicatat, penggunaan akun yang keliru, atau pencatatan jumlah yang sama pada akun yang salah dapat membuat neraca saldo tetap seimbang.
+
+Penelusuran dilakukan dengan membandingkan jurnal, buku besar, bukti transaksi, dan saldo pembantu. Periksa tanggal, nilai, nama akun, pihak terkait, dan apakah transaksi dicatat lebih dari sekali. Koreksi harus disertai keterangan dan jejak perubahan agar riwayat pencatatan tetap dapat ditelusuri.
+
+CONTOH
+Jika pembelian perlengkapan Rp200.000 keliru dicatat sebagai beban transportasi, total debit dan kredit tetap seimbang. Namun, klasifikasi beban menjadi salah. Kesalahan ini ditemukan dengan memeriksa bukti transaksi dan tujuan pembelian, bukan hanya melihat keseimbangan neraca saldo.
+
+LATIHAN
+1. Mengapa neraca saldo seimbang belum menjamin pencatatan benar?
+2. Berikan dua contoh kesalahan yang tetap membuat debit dan kredit seimbang.
+3. Susun langkah penelusuran untuk transaksi yang salah klasifikasi.
+4. Mengapa koreksi harus meninggalkan jejak audit?
+
+BAB 10. PERSEDIAAN DAN HARGA POKOK PENJUALAN
+Usaha dagang perlu mencatat persediaan barang untuk dijual. Persediaan yang tersedia dapat berubah karena pembelian, retur, potongan, kerusakan, dan penjualan. Harga pokok penjualan menghubungkan biaya persediaan yang dijual dengan pendapatan penjualan dalam periode yang sama.
+
+Dalam sistem periodik, nilai persediaan akhir ditentukan melalui perhitungan pada akhir periode. Dalam sistem perpetual, perubahan persediaan dicatat setiap terjadi transaksi. Metode pencatatan dan penilaian harus konsisten serta mengikuti standar yang berlaku. Barang rusak, usang, atau sulit dijual mungkin memerlukan penilaian khusus.
+
+Contoh sederhana: persediaan awal Rp2.000.000, pembelian bersih Rp5.500.000, dan persediaan akhir hasil pemeriksaan Rp1.700.000. Dengan asumsi tidak ada komponen lain yang perlu diperhitungkan, harga pokok penjualan adalah Rp2.000.000 + Rp5.500.000 − Rp1.700.000 = Rp5.800.000.
+
+LATIHAN
+1. Apa perbedaan sistem persediaan periodik dan perpetual?
+2. Hitung harga pokok penjualan jika persediaan awal Rp3.000.000, pembelian bersih Rp7.250.000, dan persediaan akhir Rp2.100.000.
+3. Mengapa pemeriksaan fisik persediaan penting?
+4. Jelaskan bagaimana barang rusak dapat memengaruhi laporan keuangan.
+
+BAB 11. MEMBACA LAPORAN DAN RASIO KEUANGAN
+Laporan keuangan perlu dibaca sebagai satu kesatuan. Laba menunjukkan hasil menurut dasar pengakuan yang digunakan, sedangkan arus kas menunjukkan penerimaan dan pembayaran kas. Perusahaan dapat mencatat laba tetapi mengalami tekanan kas ketika pelanggan belum membayar atau persediaan meningkat.
+
+Rasio likuiditas membantu menilai kemampuan memenuhi kewajiban jangka pendek. Rasio lancar dihitung dengan membagi aset lancar dengan liabilitas lancar. Misalnya aset lancar Rp12.000.000 dan liabilitas lancar Rp6.000.000 menghasilkan rasio lancar 2 kali. Angka ini tidak otomatis berarti kondisi aman; kualitas piutang, kecepatan perputaran persediaan, jatuh tempo utang, dan karakter industri juga perlu diperiksa.
+
+Rasio profitabilitas menghubungkan laba dengan penjualan, aset, atau ekuitas. Perbandingan antarperiode perlu memperhatikan perubahan metode, skala usaha, musim, dan kejadian tidak biasa. Rasio adalah alat bantu analisis, bukan jawaban tunggal.
+
+LATIHAN
+1. Mengapa laba dan kas dapat bergerak berbeda?
+2. Hitung rasio lancar jika aset lancar Rp18.000.000 dan liabilitas lancar Rp9.000.000.
+3. Sebutkan tiga informasi tambahan yang diperlukan untuk menafsirkan rasio lancar.
+4. Mengapa rasio dua usaha dari industri berbeda tidak selalu dapat dibandingkan langsung?
+
+BAB 12. ANGGARAN, ARUS KAS, DAN KEPUTUSAN USAHA
+Anggaran adalah rencana keuangan untuk periode mendatang. Anggaran dapat membantu memperkirakan penjualan, biaya, kebutuhan persediaan, investasi, dan kebutuhan kas. Anggaran bukan ramalan yang pasti; asumsi perlu dinyatakan dan diperbarui ketika kondisi berubah.
+
+Arus kas operasi berkaitan dengan kegiatan utama usaha. Arus kas investasi berkaitan dengan pembelian atau pelepasan aset jangka panjang. Arus kas pendanaan berkaitan dengan modal dan pinjaman. Pemisahan ini membantu pengguna memahami dari mana kas berasal dan untuk apa digunakan.
+
+Contoh: usaha memperkirakan penerimaan kas bulanan Rp8.000.000 dan pembayaran operasional Rp5.500.000. Selisih kas operasi sederhana adalah Rp2.500.000 sebelum memperhitungkan investasi, pendanaan, pajak, dan unsur lain. Perkiraan tersebut perlu dibandingkan dengan realisasi agar asumsi yang keliru dapat diperbaiki.
+
+LATIHAN
+1. Apa manfaat anggaran bagi usaha kecil?
+2. Bedakan arus kas operasi, investasi, dan pendanaan.
+3. Hitung selisih penerimaan Rp11.500.000 dan pembayaran operasi Rp8.250.000.
+4. Mengapa anggaran harus diperbarui ketika asumsi berubah?
+
+PROYEK TERPADU: SIKLUS AKUNTANSI USAHA KECIL
+Buat simulasi satu bulan untuk usaha fiktif. Susun saldo awal, sedikitnya 12 transaksi yang berbeda, jurnal umum, buku besar, neraca saldo, penyesuaian, laporan laba rugi, laporan posisi keuangan, dan ringkasan arus kas. Sertakan bukti transaksi simulasi, jelaskan asumsi, dan periksa apakah setiap angka dapat ditelusuri. Pastikan tidak ada transaksi yang dicatat dua kali.
+
+EVALUASI AKHIR
+1. Jelaskan perbedaan dasar kas dan dasar akrual.
+2. Buat jurnal untuk jasa yang telah selesai tetapi belum dibayar.
+3. Hitung perlengkapan terpakai berdasarkan saldo catatan dan hasil pemeriksaan fisik.
+4. Berikan contoh kesalahan yang tidak terdeteksi hanya dengan neraca saldo.
+5. Hitung harga pokok penjualan dari data persediaan yang diberikan.
+6. Jelaskan keterbatasan rasio lancar dalam menilai kondisi usaha.
+7. Bedakan tiga kelompok arus kas dan berikan contoh masing-masing.
+8. Uraikan bagaimana jejak audit membantu menjaga keandalan laporan.
+
+GLOSARIUM TAMBAHAN
+Dasar kas: Dasar pencatatan yang mengakui transaksi ketika kas diterima atau dibayar.
+Dasar akrual: Dasar pencatatan yang mengakui transaksi ketika hak atau kewajiban ekonomi timbul sesuai ketentuan.
+Penyesuaian: Pencatatan akhir periode untuk memastikan saldo dan pengakuan sesuai keadaan.
+Neraca saldo: Daftar saldo akun untuk memeriksa keseimbangan debit dan kredit.
+Harga pokok penjualan: Biaya persediaan yang berkaitan dengan barang yang telah dijual.
+Rasio lancar: Perbandingan aset lancar dengan liabilitas lancar.
+Anggaran: Rencana keuangan untuk periode tertentu.
+Jejak audit: Rangkaian bukti dan catatan yang memungkinkan transaksi ditelusuri.

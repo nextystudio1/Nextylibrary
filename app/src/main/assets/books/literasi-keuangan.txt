@@ -15,7 +15,7 @@ DAFTAR BAB
 7. Mengenal bank dan layanan keuangan
 8. Konsumsi bijak dan perencanaan masa depan
 
-BAB 1: MENGENAL UANG DAN CARA KERJANYA
+BAB 1 — MENGENAL UANG DAN CARA KERJANYA
 
 Uang adalah alat yang digunakan masyarakat untuk mempermudah pertukaran barang dan jasa. Uang juga menjadi satuan untuk menyatakan harga dan sarana menyimpan nilai. Dalam kehidupan sehari-hari, kita perlu memahami dari mana uang berasal, untuk apa digunakan, dan bagaimana mencatat penggunaannya.
 
@@ -25,7 +25,7 @@ Uang memiliki beberapa fungsi. Sebagai alat tukar, uang mempermudah transaksi. S
 
 Literasi keuangan bukan tentang menjadi kaya dengan cepat. Literasi keuangan adalah kemampuan memahami informasi keuangan dan membuat keputusan yang sesuai dengan kebutuhan, tujuan, serta kemampuan seseorang. Keputusan yang baik mempertimbangkan manfaat, biaya, risiko, dan konsekuensi jangka panjang.
 
-BAB 2: KEBUTUHAN, KEINGINAN, DAN PRIORITAS
+BAB 2 — KEBUTUHAN, KEINGINAN, DAN PRIORITAS
 
 Kebutuhan adalah sesuatu yang penting untuk kehidupan dan kegiatan sehari-hari, seperti makanan, tempat tinggal, pendidikan, dan kesehatan. Keinginan adalah hal yang menyenangkan untuk dimiliki, tetapi tidak selalu harus dipenuhi segera. Sebuah barang dapat menjadi kebutuhan bagi seseorang dalam situasi tertentu dan keinginan bagi orang lain.
 
@@ -35,7 +35,7 @@ Prioritas dapat berubah menurut keadaan. Buku pelajaran mungkin menjadi kebutuha
 
 Biaya kesempatan adalah nilai dari pilihan terbaik yang dilepas ketika mengambil keputusan. Jika uang digunakan membeli satu barang, uang tersebut tidak dapat digunakan untuk pilihan lain. Memahami biaya kesempatan membantu membandingkan alternatif dan menghindari anggapan bahwa suatu pembelian tidak memiliki konsekuensi.
 
-BAB 3: ANGGARAN DAN PENCATATAN
+BAB 3 — ANGGARAN DAN PENCATATAN
 
 Anggaran adalah rencana sederhana tentang pemasukan dan pengeluaran. Catat uang yang diterima, pengeluaran yang wajib, dan jumlah yang ingin disisihkan. Anggaran tidak harus rumit. Catatan di buku atau lembar kerja dapat membantu melihat kebiasaan penggunaan uang.
 
@@ -45,7 +45,7 @@ Anggaran perlu realistis. Jika rencana terlalu ketat dan tidak sesuai keadaan, r
 
 Contoh sederhana: seseorang menerima uang saku Rp100.000 selama satu minggu. Ia mencatat pengeluaran transportasi, makan, perlengkapan sekolah, dan kegiatan lain. Setelah satu minggu, ia membandingkan rencana dengan kenyataan. Tujuannya bukan menilai atau mempermalukan, tetapi memahami pola dan membuat rencana yang lebih tepat.
 
-BAB 4: MENABUNG DAN TUJUAN KEUANGAN
+BAB 4 — MENABUNG DAN TUJUAN KEUANGAN
 
 Menabung berarti menyisihkan sebagian uang untuk tujuan tertentu atau kebutuhan mendatang. Tujuan menabung sebaiknya jelas dan realistis, misalnya membeli perlengkapan belajar atau menyiapkan dana untuk kegiatan sekolah. Menabung secara teratur, meskipun jumlahnya kecil, dapat membangun kebiasaan yang baik.
 
@@ -55,7 +55,7 @@ Tempat menyimpan uang perlu aman. Untuk jumlah kecil, seseorang dapat menggunaka
 
 Dana cadangan membantu menghadapi kebutuhan tak terduga. Besarnya dana dan cara menyimpannya bergantung pada situasi keluarga. Bagi pelajar, latihan menabung dapat dimulai dengan tujuan sederhana dan diskusi bersama orang tua atau wali. Tidak perlu mengambil risiko besar demi memperoleh hasil cepat.
 
-BAB 5: MEMAHAMI HARGA, DISKON, DAN BIAYA
+BAB 5 — MEMAHAMI HARGA, DISKON, DAN BIAYA
 
 Harga adalah jumlah uang yang diminta untuk memperoleh barang atau jasa. Harga yang terlihat belum tentu seluruh biaya. Pengiriman, pajak, biaya layanan, langganan otomatis, dan perawatan dapat menambah pengeluaran. Sebelum membeli, hitung total biaya dan baca ketentuan transaksi.
 
@@ -65,7 +65,7 @@ Harga satuan membantu membandingkan produk dengan ukuran berbeda. Produk berkema
 
 Langganan digital perlu diperiksa secara khusus. Layanan dapat memperpanjang pembayaran secara otomatis setelah masa percobaan. Baca tanggal penagihan, cara membatalkan, dan biaya setelah promosi berakhir. Mintalah bantuan orang dewasa sebelum menyetujui pembayaran atau kontrak yang belum dipahami.
 
-BAB 6: RISIKO, PENIPUAN, DAN KEAMANAN DIGITAL
+BAB 6 — RISIKO, PENIPUAN, DAN KEAMANAN DIGITAL
 
 Jangan mudah percaya pada janji keuntungan besar, cepat, dan tanpa risiko. Informasi yang mendesak, meminta rahasia akun, kode sekali pakai, atau kata sandi patut dicurigai. Jangan membagikan data pribadi dan jangan mengirim uang hanya karena pesan yang mengaku berasal dari orang atau lembaga tertentu.
 
@@ -75,7 +75,7 @@ PIN, kata sandi, kode verifikasi, dan data kartu merupakan informasi rahasia. Ba
 
 Jika menerima tawaran keuangan yang membingungkan, berhenti sejenak dan bicarakan dengan orang dewasa tepercaya. Jika sudah terlanjur mengirim data atau uang, segera beri tahu keluarga dan hubungi penyedia layanan atau lembaga terkait melalui saluran resmi. Jangan merasa malu untuk meminta bantuan; tindakan cepat dapat membatasi kerugian.
 
-BAB 7: MENGENAL BANK DAN LAYANAN KEUANGAN
+BAB 7 — MENGENAL BANK DAN LAYANAN KEUANGAN
 
 Bank menerima simpanan dan menyediakan layanan pembayaran serta layanan keuangan lain sesuai izin dan aturan. Rekening dapat membantu menyimpan uang dan mencatat transaksi. Namun, setiap produk memiliki syarat, biaya, batas transaksi, dan risiko yang perlu dibaca. Produk keuangan tidak semuanya cocok untuk semua orang.
 
@@ -85,7 +85,7 @@ Transfer digital memudahkan pembayaran, tetapi pengguna harus memeriksa nama pen
 
 Lembaga keuangan beroperasi di bawah aturan dan pengawasan sesuai jenis layanannya. Di Indonesia, masyarakat dapat memeriksa informasi dan peringatan melalui otoritas resmi seperti Otoritas Jasa Keuangan dan Bank Indonesia sesuai kewenangannya. Waspadai pihak yang mengaku berizin tetapi tidak dapat diverifikasi melalui sumber resmi.
 
-BAB 8: KONSUMSI BIJAK DAN PERENCANAAN MASA DEPAN
+BAB 8 — KONSUMSI BIJAK DAN PERENCANAAN MASA DEPAN
 
 Konsumsi bijak berarti mempertimbangkan kebutuhan, mutu, biaya, dampak lingkungan, dan kondisi keuangan. Barang murah belum tentu hemat jika cepat rusak atau tidak aman. Barang mahal juga tidak otomatis lebih baik. Bandingkan fungsi, ketahanan, garansi, layanan purna jual, dan ulasan yang dapat dipercaya.
 
@@ -198,22 +198,22 @@ DAFTAR RUJUKAN UNTUK PENDALAMAN
 Gunakan materi edukasi OJK, Bank Indonesia, Kementerian Keuangan, dan lembaga perlindungan konsumen. Periksa ketentuan layanan melalui sumber resmi dan jangan menganggap materi edukasi sebagai rekomendasi membeli produk keuangan.
 
 PENDALAMAN: PERENCANAAN KEUANGAN DAN PENGAMBILAN KEPUTUSAN
-BAB 1 —— ANGGARAN DAN ARUS KAS
+BAB 9 — ANGGARAN DAN ARUS KAS
 Anggaran mencatat pemasukan dan pengeluaran dalam periode tertentu. Bedakan kebutuhan rutin, pengeluaran tidak tetap, dan tujuan menabung. Catatan sederhana membantu mengetahui pola, tetapi angka perlu ditafsirkan sesuai keadaan rumah tangga.
 Anggaran yang realistis menyediakan ruang untuk pengeluaran tak terduga. Tinjau kembali secara berkala dan sesuaikan bila pendapatan atau kebutuhan berubah. Tujuan anggaran adalah membantu mengambil keputusan, bukan memberi penilaian moral terhadap kondisi ekonomi seseorang.
-BAB 2 —— TABUNGAN DAN BUNGA MAJEMUK
+BAB 10 — TABUNGAN DAN BUNGA MAJEMUK
 Tabungan menyediakan dana untuk kebutuhan yang direncanakan dan keadaan darurat. Bunga sederhana dihitung dari pokok, sedangkan bunga majemuk dihitung atas pokok dan bunga yang telah terakumulasi. Perbedaan menjadi lebih besar dalam jangka waktu panjang.
 Periksa tingkat bunga, biaya, pajak, saldo minimum, dan perlindungan simpanan sesuai ketentuan resmi. Nilai nominal masa depan juga perlu dipertimbangkan bersama inflasi yang memengaruhi daya beli.
-BAB 3 —— UTANG DAN BIAYA PINJAMAN
+BAB 11 — UTANG DAN BIAYA PINJAMAN
 Pinjaman merupakan kewajiban yang harus dibayar sesuai perjanjian. Bandingkan tingkat bunga efektif, biaya administrasi, denda, tenor, dan total pembayaran. Cicilan bulanan rendah belum tentu berarti biaya keseluruhan rendah jika jangka waktu sangat panjang.
 Pahami kemampuan membayar dan risiko perubahan pendapatan. Jangan meminjam atas nama orang lain atau membagikan kode akses akun. Untuk keputusan keuangan penting, diskusikan dengan wali atau orang dewasa tepercaya.
-BAB 4 —— RISIKO DAN PERLINDUNGAN
+BAB 12 — RISIKO DAN PERLINDUNGAN
 Risiko adalah kemungkinan hasil berbeda dari yang diharapkan. Dana darurat, diversifikasi, dan perlindungan yang sesuai dapat membantu mengelola risiko. Diversifikasi menghindari ketergantungan pada satu aset, tetapi tidak menjamin keuntungan atau menghilangkan seluruh risiko.
 Waspadai janji hasil tinggi tanpa risiko, tekanan untuk segera mentransfer uang, dan skema yang tidak menjelaskan sumber keuntungan. Periksa legalitas lembaga melalui kanal resmi dan jangan mengirim data pribadi kepada pihak yang tidak terverifikasi.
-BAB 5 —— TUJUAN KEUANGAN DAN PRIORITAS
+BAB 13 — TUJUAN KEUANGAN DAN PRIORITAS
 Tujuan keuangan sebaiknya spesifik, memiliki batas waktu, dan disesuaikan dengan kemampuan. Pisahkan tujuan jangka pendek dan jangka panjang. Perubahan keadaan dapat mengharuskan prioritas disusun ulang.
 Biaya peluang membantu membandingkan pilihan: memilih satu penggunaan uang berarti melepaskan manfaat dari pilihan lain. Keputusan yang baik mempertimbangkan kebutuhan, risiko, dan konsekuensi, bukan hanya dorongan sesaat.
-BAB 6 —— KONSUMEN DIGITAL DAN PENIPUAN
+BAB 14 — KONSUMEN DIGITAL DAN PENIPUAN
 Belanja digital memerlukan pemeriksaan reputasi penjual, rincian produk, kebijakan pengembalian, dan keamanan pembayaran. Simpan bukti transaksi dan gunakan kanal resmi. Penawaran dengan urgensi berlebihan atau harga yang tidak masuk akal perlu dicermati.
 Jangan membagikan OTP, PIN, atau kata sandi. Jika terjadi transaksi mencurigakan, segera hubungi penyedia layanan melalui kontak resmi dan minta bantuan orang dewasa tepercaya.
 LATIHAN
@@ -235,13 +235,13 @@ LATIHAN
 
 
 
-BAB 15. KEAMANAN KEUANGAN DIGITAL
+BAB 15 — KEAMANAN KEUANGAN DIGITAL
 
 Layanan keuangan digital memudahkan pembayaran dan pencatatan, tetapi pengguna tetap perlu melindungi akun. Gunakan kata sandi unik, verifikasi berlapis bila tersedia, dan kunci perangkat. Jangan membagikan PIN, kata sandi, kode OTP, atau kode pemulihan kepada siapa pun. Petugas resmi tidak seharusnya meminta kode rahasia untuk mengambil alih akun.
 
 Waspadai pesan yang mendesak, hadiah yang tidak masuk akal, tautan dengan alamat menyerupai layanan resmi, dan permintaan transfer ke rekening pribadi. Jangan memasang aplikasi dari tautan pesan yang tidak jelas. Periksa nama penerima dan jumlah sebelum mengonfirmasi transaksi. Jika terjadi dugaan penipuan, segera hubungi penyedia layanan melalui kanal resmi dan mintalah bantuan orang dewasa tepercaya.
 
-BAB 16. KEPUTUSAN KEUANGAN DAN TUJUAN JANGKA PANJANG
+BAB 16 — KEPUTUSAN KEUANGAN DAN TUJUAN JANGKA PANJANG
 
 Keputusan keuangan yang baik mempertimbangkan kebutuhan, kemampuan, risiko, dan waktu. Dana untuk kebutuhan dekat sebaiknya tidak ditempatkan pada instrumen yang nilainya dapat berubah tajam. Investasi selalu memiliki risiko; potensi hasil lebih tinggi biasanya disertai kemungkinan kerugian lebih besar. Tidak ada keuntungan tinggi yang dijamin tanpa risiko.
 
@@ -394,7 +394,7 @@ Buat anggaran fiktif untuk kegiatan belajar selama satu bulan. Tentukan priorita
 RANGKUMAN
 Literasi keuangan mencakup perencanaan, anggaran, tabungan, keamanan, dan keputusan konsumen. Kebiasaan mencatat dan memeriksa informasi membantu mengurangi risiko.
 
-BAB 7 —— BUNGA, INFLASI, DAN NILAI UANG
+BAB 17 — BUNGA, INFLASI, DAN NILAI UANG
 
 Bunga adalah biaya penggunaan uang dalam pinjaman atau imbal hasil dalam produk simpanan tertentu. Bunga sederhana dihitung dari pokok awal, sedangkan bunga majemuk memperhitungkan bunga yang telah ditambahkan pada periode sebelumnya. Rumus bunga sederhana adalah I = P × r × t, dengan P sebagai pokok, r sebagai tingkat per periode, dan t sebagai jumlah periode yang sesuai. Satuan waktu harus konsisten: tingkat tahunan tidak boleh langsung dikalikan jumlah bulan tanpa penyesuaian.
 
@@ -402,7 +402,7 @@ Contoh pendidikan: simpanan hipotetis Rp1.000.000 dengan bunga sederhana 6 perse
 
 Inflasi adalah kenaikan tingkat harga barang dan jasa secara umum dalam suatu periode. Jika harga rata-rata naik, jumlah barang yang dapat dibeli dengan uang yang sama cenderung berkurang. Inflasi tidak berarti setiap harga naik dengan persentase sama. Dampaknya berbeda menurut pola pengeluaran rumah tangga dan perubahan pendapatan.
 
-BAB 8 —— MEMBANDINGKAN HARGA DAN BIAYA TOTAL
+BAB 18 — MEMBANDINGKAN HARGA DAN BIAYA TOTAL
 
 Harga yang terlihat di iklan belum tentu merupakan biaya akhir. Biaya pengiriman, biaya layanan, pajak, biaya berlangganan, dan syarat minimum dapat mengubah total pembayaran. Untuk membandingkan dua pilihan, gunakan satuan yang sama dan hitung biaya total selama periode yang sama.
 
@@ -410,7 +410,7 @@ Contoh: paket A berharga Rp30.000 per bulan tanpa biaya awal. Paket B berharga R
 
 Diskon persentase juga perlu diperiksa. Diskon 20 persen dari harga Rp100.000 berarti potongan Rp20.000 dan harga sebelum biaya tambahan menjadi Rp80.000. Jika harga awal dinaikkan sebelum diskon, label potongan besar belum tentu menunjukkan nilai terbaik. Bandingkan harga historis bila tersedia dan periksa spesifikasi barang.
 
-BAB 9 —— RISIKO, PENIPUAN, DAN KEAMANAN TRANSAKSI
+BAB 19 — RISIKO, PENIPUAN, DAN KEAMANAN TRANSAKSI
 
 Penipuan keuangan sering memakai tekanan waktu, janji keuntungan pasti, identitas palsu, atau permintaan kode rahasia. Pesan yang meminta kode OTP, PIN, kata sandi, atau akses jarak jauh harus diperlakukan sebagai tanda bahaya. Petugas layanan yang sah tidak seharusnya meminta kode rahasia untuk mengambil alih akun.
 
@@ -418,7 +418,7 @@ Periksa alamat situs dan nama pengirim secara teliti. Jangan mengandalkan logo a
 
 Risiko juga terdapat pada keputusan meminjam. Pinjaman memiliki kewajiban pembayaran, biaya, dan konsekuensi jika terlambat. Sebelum menandatangani kontrak, seseorang harus memahami total pembayaran, tingkat biaya, jadwal, denda, dan ketentuan data pribadi. Pelajar sebaiknya tidak mengambil pinjaman atau membuat komitmen keuangan tanpa pendampingan orang dewasa yang bertanggung jawab.
 
-BAB 10 —— SISTEM KEUANGAN DAN PERLINDUNGAN KONSUMEN
+BAB 20 — SISTEM KEUANGAN DAN PERLINDUNGAN KONSUMEN
 
 Bank dan lembaga keuangan menyediakan layanan seperti penyimpanan dana, pembayaran, transfer, dan pembiayaan. Setiap produk memiliki ketentuan dan risiko berbeda. Simpanan, investasi, dan pinjaman bukan hal yang sama. Konsumen perlu memeriksa izin lembaga, informasi produk, biaya, serta mekanisme pengaduan melalui sumber resmi.
 
@@ -482,7 +482,7 @@ Premi: pembayaran untuk memperoleh perlindungan asuransi.
 Polis: dokumen yang menjelaskan perjanjian asuransi.
 Pokok pinjaman: jumlah dana yang dipinjam sebelum bunga dan biaya.
 Likuiditas: kemudahan mengakses atau mengubah aset menjadi uang.
-BAB 11 —— BUNGA SEDERHANA DAN BUNGA MAJEMUK
+BAB 21 — BUNGA SEDERHANA DAN BUNGA MAJEMUK
 
 Bunga adalah biaya penggunaan uang atau imbalan atas dana yang dipinjamkan atau disimpan, bergantung pada produk keuangan. Bunga sederhana dihitung dari pokok awal untuk setiap periode. Rumus dasarnya adalah I = P × r × t, dengan P sebagai pokok, r tingkat bunga per periode, dan t jumlah periode yang sesuai.
 
@@ -490,7 +490,7 @@ Bunga majemuk menghitung bunga berdasarkan pokok ditambah bunga yang telah terku
 
 Contoh pendidikan: pokok 1.000.000 dengan tingkat 5 persen per tahun selama dua tahun menghasilkan bunga sederhana 100.000 sebelum biaya dan pajak. Dengan penggabungan tahunan, nilai akhir majemuk adalah 1.102.500. Angka ini hanya contoh matematika, bukan tawaran atau rekomendasi produk.
 
-BAB 12 —— INFLASI DAN DAYA BELI
+BAB 22 — INFLASI DAN DAYA BELI
 
 Inflasi adalah kenaikan tingkat harga umum secara berkelanjutan. Ketika harga rata-rata meningkat, jumlah barang dan jasa yang dapat dibeli dengan jumlah uang yang sama cenderung menurun. Inflasi diukur menggunakan indeks harga yang dibangun dari keranjang barang dan jasa. Keranjang tersebut merupakan pendekatan terhadap pola konsumsi, bukan gambaran identik bagi setiap rumah tangga.
 
@@ -498,7 +498,7 @@ Perubahan harga satu barang belum tentu menunjukkan inflasi umum. Harga sayur te
 
 Untuk memahami daya beli, bandingkan perubahan pendapatan dengan perubahan harga dalam periode yang sama. Kenaikan pendapatan nominal belum tentu berarti peningkatan daya beli jika harga naik lebih cepat. Perencanaan keuangan dapat mempertimbangkan kebutuhan pokok, dana darurat, dan tujuan jangka panjang tanpa mengandalkan perkiraan yang pasti.
 
-BAB 13 —— ANGGARAN DAN ARUS KAS
+BAB 23 — ANGGARAN DAN ARUS KAS
 
 Anggaran adalah rencana penggunaan uang dalam periode tertentu. Anggaran yang bermanfaat mencatat pemasukan, pengeluaran rutin, pengeluaran tidak rutin, tabungan, dan kewajiban. Tujuannya bukan membatasi setiap keputusan secara kaku, melainkan membantu seseorang memahami pilihan dan mengantisipasi kebutuhan.
 
@@ -506,7 +506,7 @@ Arus kas adalah pergerakan uang masuk dan keluar. Seseorang dapat memiliki aset 
 
 Dana darurat ditujukan untuk kebutuhan tak terduga, bukan pembelian rutin. Besarnya bergantung pada kondisi rumah tangga, kestabilan pendapatan, tanggungan, dan akses bantuan. Bagi pelajar, latihan membuat anggaran dapat dimulai dari uang saku secara sederhana dengan melibatkan orang tua atau wali.
 
-BAB 14 —— RISIKO, DIVERSIFIKASI, DAN KEPUTUSAN
+BAB 24 — RISIKO, DIVERSIFIKASI, DAN KEPUTUSAN
 
 Risiko keuangan adalah kemungkinan hasil berbeda dari yang diharapkan, termasuk kemungkinan kehilangan sebagian nilai. Setiap keputusan memiliki hubungan antara potensi hasil, ketidakpastian, jangka waktu, biaya, dan kebutuhan likuiditas. Janji keuntungan tinggi tanpa risiko patut dicurigai.
 

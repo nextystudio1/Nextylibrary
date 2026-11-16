@@ -6,24 +6,24 @@ DESKRIPSI
 Memahami platform, data, pembayaran digital, pasar daring, persaingan, dan perlindungan konsumen.
 
 PETA BELAJAR
-Buku ini disusun untuk membangun pemahaman bertahap. Kenali istilah, pahami mekanisme, hubungkan dengan contoh, lalu evaluasi penerapan. Catat pertanyaan yang belum terjawab dan periksa sumber informasi sebelum membuat kesimpulan.
+Pelajari Pengantar Ekonomi Digital secara bertahap: pahami istilah, ikuti proses yang dijelaskan, lalu uji konsep pada contoh yang sesuai. Catat hubungan antarbab dan tandai bagian yang memerlukan data, perhitungan, atau sumber tambahan.
 
 BAB 1. EKONOMI BERBASIS PLATFORM
 
 Platform digital mempertemukan beberapa kelompok pengguna, misalnya penjual dan pembeli atau pengemudi dan penumpang. Nilai platform dapat meningkat ketika jumlah pengguna bertambah, tetapi efek jaringan juga dapat memperkuat dominasi satu penyedia. Desain aturan platform memengaruhi biaya, akses, dan posisi tawar pengguna.
 
 PENDALAMAN
-Dalam mempelajari topik ini, bedakan pengertian, proses, bukti, dan penilaian. Pengertian memberi batas istilah; proses menerangkan hubungan antarbagian; bukti membantu menguji penjelasan; penilaian mempertimbangkan konteks dan akibat. Jangan menyimpulkan hubungan sebab-akibat hanya dari dua kejadian yang berlangsung bersamaan. Periksa apakah ada faktor lain yang mungkin memengaruhi hasil.
+Pada EKONOMI BERBASIS PLATFORM, petakan masukan, proses, keluaran, dan pihak yang menggunakan informasi. Periksa kualitas data, keandalan sistem, akses, serta akibat jika terjadi kesalahan. Uraikan alasan setiap keputusan teknis dan cara memeriksa hasilnya.
 
 CONTOH PENERAPAN
-Pilih peristiwa atau benda yang dapat diamati di sekitar. Catat waktu, tempat, kondisi, dan informasi relevan. Gunakan istilah dari bab ini untuk menjelaskan apa yang terjadi. Tuliskan juga hal yang belum diketahui. Dengan cara tersebut, contoh tidak hanya menjadi cerita, tetapi latihan menerapkan konsep secara tertib.
+Contoh kajian: pilih kasus sederhana yang berkaitan dengan EKONOMI BERBASIS PLATFORM dalam bidang Pengantar Ekonomi Digital. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
 
 KEGIATAN BELAJAR
-1. Buat ringkasan satu paragraf tanpa menyalin kalimat buku.
-2. Susun diagram yang menunjukkan hubungan antar konsep.
-3. Temukan contoh yang sesuai dan contoh yang tidak sesuai.
-4. Jelaskan mengapa suatu kesimpulan dapat berubah ketika informasi baru ditemukan.
-5. Diskusikan hasilnya dengan tetap menghargai perbedaan pendapat.
+1. Jelaskan satu istilah kunci dari EKONOMI BERBASIS PLATFORM dengan kalimat sendiri.
+2. Buat bagan yang menunjukkan hubungan antarkonsep.
+3. Terapkan konsep pada satu contoh yang relevan dengan Pengantar Ekonomi Digital.
+4. Tunjukkan asumsi atau kondisi yang dapat mengubah hasil.
+5. Sajikan kesimpulan beserta bukti pendukungnya.
 
 LATIHAN
 1. Definisikan tiga istilah penting.
@@ -53,17 +53,17 @@ BAB 6. KONSUMEN DIGITAL YANG CERMAT
 Sebelum membeli, bandingkan harga total, biaya tambahan, identitas penjual, ketentuan layanan, dan kebutuhan sebenarnya. Waspadai tekanan waktu palsu, penawaran tidak masuk akal, dan permintaan data sensitif. Simpan komunikasi penting dan gunakan mekanisme pengaduan resmi bila terjadi masalah.
 
 PROYEK TERPADU
-Rancang kajian kecil yang menghubungkan beberapa bab. Tentukan masalah, tujuan, pertanyaan, metode, data yang diperlukan, dan batasan. Pilih metode yang aman serta sesuai kemampuan. Sajikan hasil dengan bahasa jelas dan pisahkan temuan dari dugaan. Jika menggunakan data orang lain, jaga privasi dan sebutkan sumbernya.
+Buat kajian mini untuk Pengantar Ekonomi Digital dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Buat peta konsep seluruh buku.
-2. Jelaskan tiga hubungan antarbab.
-3. Analisis satu kasus dengan menyebutkan bukti dan asumsi.
-4. Bandingkan dua pendekatan penyelesaian masalah.
-5. Tulis kesimpulan yang proporsional dan sebutkan informasi tambahan yang masih dibutuhkan.
+1. Terangkan konsep inti dari KONSUMEN DIGITAL YANG CERMAT dan perannya dalam bidang ini.
+2. Hubungkan tiga gagasan dari bab yang berbeda.
+3. Analisis sebuah kasus menggunakan konsep buku Pengantar Ekonomi Digital.
+4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
+5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 PEDOMAN PENILAIAN
-Gunakan ketepatan konsep, kecermatan bukti, konsistensi penalaran, dan kejelasan komunikasi sebagai kriteria. Kesimpulan yang berbeda dapat diterima jika didukung bukti yang relevan dan tidak mengabaikan fakta penting.
+Nilai pemahaman Pengantar Ekonomi Digital berdasarkan ketepatan konsep, kecocokan metode, mutu bukti, dan kemampuan menerapkan materi. Jawaban harus menunjukkan alasan yang dapat diperiksa serta menyebutkan keterbatasan informasi bila ada.
 
 GLOSARIUM
 Platform: Layanan yang mempertemukan beberapa kelompok pengguna.
@@ -72,8 +72,8 @@ Data pribadi: Informasi yang berkaitan dengan individu.
 Interoperabilitas: Kemampuan sistem berbeda untuk saling bekerja.
 Perlindungan konsumen: Upaya menjaga hak dan kepentingan pembeli atau pengguna.
 
-CATATAN BELAJAR DAN SUMBER
-Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar dan publikasi lembaga kompeten. Catat penulis atau lembaga, judul, tahun, dan bagian sumber. Periksa tanggal pembaruan terutama untuk pengetahuan yang berkembang, peraturan, teknologi, dan data statistik.
+CATATAN SUMBER
+Naskah Pengantar Ekonomi Digital merupakan materi pembelajaran orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, atau sumber lembaga yang sesuai dengan bidang ini. Catat penulis, judul, tahun, dan bagian yang digunakan; periksa relevansi serta tanggal pembaruan sumber.
 
 BAB LANJUTAN: EKONOMI DIGITAL, PLATFORM, DAN TATA KELOLA DATA
 

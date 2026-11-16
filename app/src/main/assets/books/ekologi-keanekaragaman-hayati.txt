@@ -206,3 +206,16 @@ LATIHAN DAN STUDI KASUS
 3. Gambarkan jaring makanan sederhana dan prediksi dampak hilangnya satu spesies.
 4. Sebutkan indikator untuk memantau pemulihan sungai.
 5. Sebuah kawasan terpecah oleh jalan baru. Usulkan langkah mitigasi dan cara mengevaluasinya.
+BAB LANJUTAN — EKOLOGI TERAPAN DAN PEMULIHAN LINGKUNGAN
+KUALITAS AIR
+Kualitas air dinilai melalui parameter fisik, kimia, dan biologis. Suhu, kekeruhan, pH, oksigen terlarut, dan kandungan nutrien memberi informasi berbeda. Satu parameter saja tidak cukup untuk menggambarkan seluruh kondisi. Pengambilan sampel perlu memperhatikan lokasi, kedalaman, waktu, dan cuaca.
+EUTROFIKASI
+Masuknya nutrien berlebihan, terutama nitrogen dan fosfor, dapat mendorong pertumbuhan alga. Ketika biomassa mati dan terurai, oksigen terlarut dapat berkurang. Dampaknya dapat mencakup perubahan komunitas organisme dan penurunan kualitas air. Pengendalian sumber nutrien di daerah tangkapan air merupakan bagian penting pencegahan.
+EKOLOGI KOTA
+Taman, pohon jalan, sungai, dan lahan basah perkotaan menyediakan naungan, habitat, resapan air, dan ruang rekreasi. Konektivitas ruang hijau membantu pergerakan organisme. Perencanaan perlu memperhatikan spesies lokal, kebutuhan air, pemeliharaan, dan akses yang adil bagi warga.
+RESTORASI EKOSISTEM
+Restorasi bertujuan memulihkan fungsi dan proses ekologis, bukan sekadar menanam sebanyak mungkin pohon. Pemilihan spesies perlu sesuai kondisi setempat. Pemantauan mencakup tingkat hidup tanaman, regenerasi alami, kualitas tanah atau air, dan kembalinya interaksi ekologis. Keberhasilan jangka pendek belum menjamin ekosistem stabil.
+SPESIES ASING INVASIF
+Spesies asing dapat menjadi invasif ketika menyebar dan menimbulkan dampak ekologis atau ekonomi. Pencegahan masuk dan penyebaran sering lebih efektif daripada pengendalian setelah populasi meluas. Identifikasi harus akurat agar spesies lokal tidak keliru dianggap pengganggu.
+PRAKTIK PENGAMATAN
+Catat tanggal, lokasi umum, metode, jumlah pengamat, kondisi cuaca, dan kemungkinan bias. Foto dapat membantu dokumentasi, tetapi jangan merusak habitat atau mengganggu satwa demi memperoleh gambar. Data pengamatan warga dapat bermanfaat jika metode dan keterbatasannya dijelaskan.

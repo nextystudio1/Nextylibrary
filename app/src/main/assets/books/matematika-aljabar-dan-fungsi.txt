@@ -221,3 +221,16 @@ LATIHAN BERTAHAP
 3. Jika f(x)=3x−2 dan g(x)=x+4, tentukan f(g(2)).
 4. Selesaikan −3x+6 lebih besar atau sama dengan 15.
 5. Buat sistem persamaan dari situasi dua jenis barang dengan dua informasi harga.
+BAB LANJUTAN — PEMODELAN MATEMATIKA DAN PEMECAHAN MASALAH
+MEMILIH VARIABEL
+Sebelum membuat persamaan, tentukan besaran yang belum diketahui dan beri simbol yang jelas. Tuliskan satuan setiap variabel. Jika x menyatakan jumlah barang, maka x biasanya bilangan bulat tidak negatif. Jika x menyatakan waktu, satuannya perlu ditetapkan, misalnya menit atau jam. Pembatasan ini disebut domain kontekstual dan dapat menyingkirkan jawaban aljabar yang tidak masuk akal.
+MENGUBAH KALIMAT MENJADI MODEL
+Kalimat “biaya tetap 12.000 ditambah 3.000 untuk setiap barang” dapat ditulis C(n)=12.000+3.000n. Nilai 12.000 adalah komponen tetap, sedangkan 3.000n berubah menurut jumlah barang. Model ini hanya berlaku jika biaya per barang tetap dan tidak ada diskon atau batas minimum lain.
+MEMBANDINGKAN DUA PILIHAN
+Dua paket dapat dibandingkan melalui fungsi biaya. Paket A: C_A(n)=5.000+2.000n. Paket B: C_B(n)=11.000+1.000n. Titik perpotongan diperoleh dengan menyamakan kedua fungsi. 5.000+2.000n=11.000+1.000n sehingga n=6. Untuk jumlah di bawah enam, paket A lebih murah; di atas enam, paket B lebih murah. Periksa kembali apakah paket memiliki batas pemakaian.
+KESALAHAN UMUM
+Kesalahan sering muncul karena tanda negatif, urutan operasi, atau pembagian kedua ruas yang tidak setara. Saat menyederhanakan, lakukan operasi yang sama pada kedua ruas persamaan. Untuk pertidaksamaan, ingat bahwa perkalian atau pembagian dengan bilangan negatif membalik arah tanda.
+MENILAI JAWABAN
+Jawaban numerik perlu diperiksa melalui substitusi. Jawaban dalam konteks juga perlu diuji dengan perkiraan. Jika model menghitung waktu perjalanan negatif atau jumlah orang pecahan, kemungkinan ada kesalahan model, asumsi, atau interpretasi. Perkiraan kasar sebelum menghitung membantu mendeteksi hasil yang tidak wajar.
+PROYEK MINI
+Rancang dua pilihan layanan dengan biaya tetap dan biaya per penggunaan. Buat fungsi biaya masing-masing, tentukan titik ketika biaya sama, lalu jelaskan pilihan yang lebih hemat untuk tiga tingkat pemakaian. Cantumkan asumsi dan batas penggunaan model.

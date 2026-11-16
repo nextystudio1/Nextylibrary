@@ -224,3 +224,16 @@ Perbaikan laporan dimulai dengan membatasi klaim. Penulis dapat menyebut bahwa r
 
 DAFTAR PERIKSA NASKAH AKHIR
 Pastikan judul sesuai isi, pertanyaan dijawab, istilah konsisten, setiap klaim faktual memiliki dasar, kutipan tercatat, tabel terbaca, dan simpulan tidak lebih luas daripada data. Baca naskah dari sudut pandang pembaca baru: apakah alasan berpindah dari satu paragraf ke paragraf berikutnya jelas? Mintalah umpan balik untuk menemukan bagian yang masih membingungkan.
+BAB LANJUTAN — ARGUMENTASI DAN PENYAJIAN ILMIAH
+MEMBANGUN ARGUMEN
+Argumen terdiri atas klaim, alasan, dan bukti. Klaim menyatakan posisi yang hendak dipertahankan. Alasan menjelaskan hubungan logis, sedangkan bukti mendukung alasan tersebut. Paragraf yang hanya berisi pendapat tanpa bukti belum menjadi argumen akademik yang kuat.
+MENANGANI SANGGAHAN
+Sanggahan menunjukkan bahwa penulis memahami pandangan lain. Pilih keberatan yang paling relevan, jelaskan secara adil, lalu tanggapi dengan bukti atau pembatasan klaim. Jangan membuat versi lemah dari pendapat lawan hanya agar mudah dibantah.
+KOHESI DAN KOHERENSI
+Kohesi berkaitan dengan hubungan bahasa antarkalimat, misalnya penggunaan rujukan dan kata penghubung. Koherensi berkaitan dengan alur gagasan yang masuk akal. Kata penghubung tidak dapat memperbaiki urutan ide yang tidak logis. Setiap paragraf sebaiknya memiliki satu gagasan utama dan kalimat pendukung yang relevan.
+ABSTRAK DAN RINGKASAN
+Abstrak merangkum tujuan, metode, hasil utama, dan simpulan secara padat. Abstrak bukan pengantar yang berisi latar belakang panjang. Ringkasan menyampaikan inti suatu bacaan dengan bahasa sendiri tanpa memasukkan penilaian yang tidak ada dalam sumber.
+PRESENTASI HASIL
+Slide presentasi sebaiknya menampilkan satu gagasan utama per bagian. Hindari paragraf panjang dan dekorasi yang mengganggu. Grafik harus terbaca dari jarak wajar. Penjelasan lisan memberi konteks yang tidak perlu ditulis seluruhnya di slide. Cantumkan sumber pada visual yang menggunakan data atau karya pihak lain.
+PENILAIAN MUTU TULISAN
+Nilai tulisan melalui ketepatan isi, kekuatan bukti, struktur, konsistensi istilah, dan keterbacaan. Umpan balik yang baik menyebut bagian tertentu dan memberi saran yang dapat dilakukan. Revisi tidak berarti mempertahankan semua kalimat; terkadang paragraf perlu dipindahkan atau dihapus agar argumen lebih jelas.

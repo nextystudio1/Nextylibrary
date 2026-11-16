@@ -196,3 +196,16 @@ LATIHAN DAN REFLEKSI
 3. Berikan contoh desain layanan digital yang lebih aksesibel.
 4. Mengapa sistem rekomendasi dapat mempersempit paparan informasi?
 5. Bagaimana cara mengoreksi informasi keliru yang telanjur dibagikan?
+BAB LANJUTAN — KEAMANAN, HAK, DAN PARTISIPASI DIGITAL
+KEAMANAN PERANGKAT
+Keamanan tidak hanya bergantung pada satu aplikasi. Kunci layar, pembaruan sistem, pencadangan, dan pengaturan izin bekerja bersama. Instal aplikasi dari sumber tepercaya dan periksa alasan aplikasi meminta akses tertentu. Aplikasi pencatat sederhana tidak selalu memerlukan akses kontak atau lokasi.
+PENCADANGAN DAN PEMULIHAN
+Pencadangan membantu memulihkan dokumen ketika perangkat rusak atau hilang. Simpan salinan penting pada lokasi terpisah dan lindungi akun penyimpanan. Uji proses pemulihan sesekali; cadangan yang tidak dapat dibuka tidak banyak membantu. Jangan membagikan kode pemulihan kepada pihak yang tidak berwenang.
+JEJAK DIGITAL DAN REPUTASI
+Unggahan dapat disalin dan disimpan oleh orang lain. Sebelum menerbitkan sesuatu, bayangkan konten dibaca di luar kelompok awal. Namun jejak digital tidak berarti seseorang tidak boleh berubah. Koreksi, penjelasan, dan perilaku bertanggung jawab merupakan bagian dari reputasi yang sehat.
+AKSES DAN PARTISIPASI PUBLIK
+Teknologi dapat membantu warga mengakses informasi kebijakan, menyampaikan aspirasi, dan bekerja sama. Agar partisipasi bermakna, informasi harus mudah ditemukan, bahasanya jelas, dan mekanisme tanggapan dapat digunakan. Formulir digital yang rumit dapat menjadi penghalang bagi sebagian warga.
+MENGHADAPI KONFLIK DARING
+Ketika diskusi memanas, berhenti sejenak sebelum membalas. Simpan bukti jika terjadi pelanggaran aturan, gunakan fitur pelaporan, dan minta bantuan orang dewasa atau pengelola layanan yang tepercaya bila situasi terasa tidak aman. Jangan membalas dengan menyebarkan data pribadi atau melakukan perundungan balik.
+AUDIT PRIVASI PRIBADI
+Secara berkala tinjau aplikasi yang terpasang, izin lokasi, akses kamera dan mikrofon, daftar perangkat yang masuk ke akun, serta siapa yang dapat melihat unggahan. Hapus akses yang tidak lagi diperlukan. Pengaturan dapat berubah setelah pembaruan sehingga pemeriksaan ulang berguna.

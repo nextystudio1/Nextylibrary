@@ -239,3 +239,16 @@ LATIHAN
 2. Berikan contoh ketika recall lebih penting daripada akurasi.
 3. Sebutkan informasi minimum dalam dokumentasi dataset.
 4. Rancang prosedur jika sistem AI memberi hasil yang merugikan pengguna.
+BAB LANJUTAN — JENIS MODEL DAN PENERAPAN
+PEMBELAJARAN TERAWASI
+Pada pembelajaran terawasi, model belajar dari contoh yang memiliki label. Tugas klasifikasi memilih kategori, sedangkan regresi memperkirakan nilai numerik. Kualitas label dan representasi data sangat menentukan hasil. Model tidak memahami konteks seperti manusia; model mempelajari pola statistik dalam data.
+PEMBELAJARAN TANPA PENGAWASAN
+Metode tanpa pengawasan mencari struktur dalam data tanpa label target. Pengelompokan dapat membantu menemukan kelompok kemiripan, tetapi hasilnya bergantung pada fitur dan ukuran jarak yang dipilih. Kelompok yang terbentuk bukan otomatis kategori alami atau penjelasan sebab-akibat.
+PEMROSESAN BAHASA
+Sistem bahasa dapat melakukan klasifikasi teks, pencarian, peringkasan, dan pembuatan teks. Keluaran yang lancar belum tentu benar. Periksa fakta, tanggal, kutipan, dan rujukan secara terpisah. Jangan memasukkan informasi rahasia atau data pribadi ke layanan yang kebijakan penyimpanannya belum dipahami.
+VISI KOMPUTER
+Sistem visi komputer menganalisis gambar atau video untuk tugas seperti klasifikasi, deteksi objek, dan segmentasi. Performa dapat berubah akibat pencahayaan, sudut kamera, resolusi, dan variasi lingkungan. Pengujian harus mencakup kondisi penggunaan nyata serta kelompok yang terdampak.
+AI GENERATIF DAN HAK CIPTA
+Model generatif menghasilkan konten berdasarkan pola yang dipelajari. Pengguna tetap bertanggung jawab memeriksa keakuratan, privasi, dan hak penggunaan hasil. Jangan menganggap keluaran otomatis bebas kesalahan atau bebas dari kewajiban lisensi. Catat bantuan AI ketika aturan tugas atau organisasi mewajibkannya.
+DESAIN SISTEM YANG BERTANGGUNG JAWAB
+Sebelum penerapan, lakukan penilaian dampak: siapa yang diuntungkan, siapa yang berisiko, data apa yang dipakai, dan bagaimana kesalahan ditangani. Sediakan penjelasan yang sesuai, jalur banding, serta pilihan untuk tidak menggunakan sistem jika memungkinkan.

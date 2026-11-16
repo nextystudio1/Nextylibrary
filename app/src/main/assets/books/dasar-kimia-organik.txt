@@ -211,3 +211,25 @@ LATIHAN AKHIR
 3. Jelaskan fungsi panah lengkung dalam mekanisme reaksi.
 4. Sebutkan faktor yang memengaruhi sifat polimer.
 5. Berikan contoh penerapan prinsip kimia hijau.
+
+BAB 11. ISOMER DAN REPRESENTASI MOLEKUL
+Isomer merupakan senyawa dengan rumus molekul sama tetapi susunan atom atau orientasi ruang berbeda. Isomer struktur memiliki keterhubungan atom yang berbeda, sedangkan stereoisomer memiliki keterhubungan sama tetapi susunan ruang berbeda. Perbedaan struktur dapat memengaruhi sifat fisika, reaktivitas, dan interaksi biologis. Rumus struktur, model bola-dan-tongkat, dan notasi garis merupakan cara representasi yang masing-masing menonjolkan aspek tertentu.
+
+BAB 12. GUGUS FUNGSI DAN SIFAT SENYAWA
+Gugus fungsi adalah bagian struktur molekul yang berperan penting dalam reaksi dan sifat senyawa organik. Alkohol memiliki gugus hidroksil, aldehida dan keton memiliki gugus karbonil, asam karboksilat memiliki gugus karboksil, sedangkan amina mengandung nitrogen dengan pasangan elektron bebas. Identifikasi gugus fungsi membantu memperkirakan polaritas, titik didih, kelarutan, dan jenis reaksi yang mungkin terjadi. Prediksi tetap perlu diuji karena ukuran molekul dan lingkungan juga berpengaruh.
+
+BAB 13. REAKSI ORGANIK DAN MEKANISME
+Reaksi organik dapat dikelompokkan antara lain sebagai substitusi, adisi, eliminasi, oksidasi, dan reduksi. Mekanisme menjelaskan urutan perubahan ikatan dan perpindahan elektron. Panah lengkung dalam mekanisme menunjukkan pergerakan pasangan elektron, bukan gerakan atom secara langsung. Kondisi reaksi seperti pelarut, suhu, katalis, dan konsentrasi dapat memengaruhi jalur serta hasil. Persamaan reaksi harus memperhatikan keseimbangan atom dan muatan.
+
+BAB 14. POLIMER DAN MATERIAL ORGANIK
+Polimer tersusun dari unit berulang yang disebut monomer. Polimer alami meliputi selulosa, pati, protein, dan asam nukleat; polimer sintetis digunakan dalam kemasan, tekstil, komponen, dan perangkat. Sifat polimer dipengaruhi struktur rantai, panjang, percabangan, ikatan silang, dan suhu. Evaluasi material perlu memperhatikan performa, keamanan, penggunaan, serta pengelolaan akhir masa pakai.
+
+BAB 15. KIMIA ORGANIK, KESEHATAN, DAN LINGKUNGAN
+Senyawa organik terdapat dalam obat, pangan, bahan bakar, kosmetik, dan banyak produk sehari-hari. Sifat suatu senyawa ditentukan struktur serta dosis dan jalur paparan. Bahaya intrinsik berbeda dari risiko aktual yang juga dipengaruhi tingkat dan durasi paparan. Penanganan bahan kimia harus mengikuti label, lembar data keselamatan, aturan laboratorium, dan pengawasan yang sesuai. Jangan mencampur bahan yang tidak diketahui atau melakukan percobaan tanpa fasilitas dan pendampingan.
+
+LATIHAN
+1. Bedakan isomer struktur dan stereoisomer.
+2. Identifikasi gugus fungsi dari contoh struktur sederhana.
+3. Jelaskan arti panah lengkung pada mekanisme.
+4. Sebutkan faktor yang memengaruhi sifat polimer.
+5. Bedakan bahaya dan risiko dalam penilaian bahan kimia.

@@ -171,3 +171,62 @@ LATIHAN DAN PEMBAHASAN
 3. Kapan anonimitas perlu disepakati? Sebelum informasi diberikan, dengan batas dan prosedur yang jelas.
 4. Mengapa koreksi harus terlihat? Agar pembaca mengetahui apa yang berubah dan dapat menilai akurasi laporan.
 5. Apakah semua konten internet bebas digunakan? Tidak; hak cipta dan lisensi tetap berlaku.
+BAB 17. REPORTASE INVESTIGATIF DAN PENELUSURAN DOKUMEN
+
+Reportase investigatif berangkat dari pertanyaan tentang masalah yang memiliki kepentingan publik dan belum dijelaskan secara memadai. Prosesnya membutuhkan waktu, pencatatan, verifikasi, dan pengawasan editor. Dugaan awal harus diperlakukan sebagai hipotesis yang dapat terbukti salah. Jurnalis tidak boleh memilih hanya bukti yang mendukung kesimpulan yang sudah disukai.
+
+Buat peta klaim. Untuk setiap klaim, catat bukti yang mendukung, bukti yang berlawanan, sumber yang mengetahui secara langsung, dan hal yang belum diketahui. Pisahkan dokumen asli dari salinan, serta catat tanggal penerimaan dan asalnya. Dokumen yang tampak resmi tetap perlu diperiksa konteks, kelengkapan, dan konsistensinya.
+
+Permintaan informasi publik dapat menjadi salah satu jalur memperoleh dokumen, sesuai aturan yang berlaku. Rumuskan permintaan secara spesifik: jenis dokumen, periode, instansi, dan format yang dibutuhkan. Catat tanggapan, penolakan, atau bagian yang dikecualikan. Jangan mengakali pembatasan akses atau menerbitkan data pribadi yang tidak relevan dengan kepentingan publik.
+
+BAB 18. DATA, ANGKA, DAN VISUALISASI BERITA
+
+Angka dapat membuat berita lebih jelas, tetapi juga mudah menyesatkan. Selalu periksa satuan, periode, definisi, sumber, dan metode pengumpulan. Bedakan jumlah total, persentase, perubahan persentase, dan poin persentase. Jika angka meningkat dari 10 menjadi 15, kenaikannya 5 unit atau 50 persen dari nilai awal; kedua cara menyatakan perubahan menjawab pertanyaan berbeda.
+
+Penyebut penting. Jumlah kecelakaan di wilayah berpenduduk besar tidak dapat langsung dibandingkan dengan wilayah kecil tanpa mempertimbangkan populasi, jumlah perjalanan, atau paparan. Rata-rata dapat menyembunyikan variasi; median dan distribusi mungkin lebih tepat untuk menggambarkan pengalaman umum. Korelasi tidak membuktikan bahwa satu faktor menyebabkan faktor lain.
+
+Grafik harus memiliki judul informatif, label sumbu, satuan, sumber, periode, dan keterangan metodologi. Skala sumbu yang dipotong dapat membesar-besarkan perubahan. Peta choropleth sebaiknya menggunakan nilai yang dapat dibandingkan antarwilayah, misalnya rasio atau tingkat, bukan jumlah mentah ketika ukuran wilayah sangat berbeda. Jangan memakai warna atau simbol yang menyiratkan kepastian lebih tinggi daripada kualitas data.
+
+BAB 19. JURNALISME DIGITAL DAN DISTRIBUSI INFORMASI
+
+Distribusi berita digital dipengaruhi mesin pencari, rekomendasi platform, media sosial, notifikasi, dan komunitas. Setiap saluran memiliki cara kerja dan metrik yang berbeda. Jumlah tayangan tidak sama dengan jumlah pembaca yang memahami isi. Waktu baca, kunjungan kembali, koreksi, dan keterlibatan yang bermakna dapat memberi gambaran lebih lengkap.
+
+Judul dan gambar harus mewakili isi. Judul yang sengaja menghilangkan konteks untuk memancing klik dapat meningkatkan kunjungan sesaat tetapi merusak kepercayaan. Potongan video perlu mempertahankan konteks peristiwa. Konten lama yang dibagikan ulang harus diberi tanggal dan konteks agar tidak dianggap sebagai kejadian baru.
+
+Redaksi perlu memiliki protokol menghadapi informasi viral. Simpan klaim asli, telusuri sumber pertama, cari versi lengkap, periksa tanggal dan lokasi, serta hubungi pihak terkait. Jangan menyebarkan ulang konten berbahaya hanya untuk membantahnya jika pengulangan tersebut memperluas jangkauan. Ketika fakta belum dapat dipastikan, nyatakan batas pengetahuan secara jelas.
+
+BAB 20. KECERDASAN BUATAN DAN ETIKA REDAKSI
+
+Perangkat kecerdasan buatan dapat membantu transkripsi, pengelompokan dokumen, penerjemahan awal, dan pencarian pola. Namun keluaran sistem dapat salah, mengarang sumber, menghilangkan konteks, atau mereproduksi bias data. Semua fakta, kutipan, angka, nama, dan rujukan yang dihasilkan alat harus diperiksa terhadap sumber yang dapat diakses.
+
+Jangan mengunggah dokumen rahasia, data pribadi, atau materi yang diberikan dengan janji kerahasiaan ke layanan yang tidak disetujui redaksi. Kebijakan penggunaan alat perlu menjelaskan data apa yang boleh diproses, siapa yang meninjau hasil, kapan penggunaan harus diungkapkan, dan bagaimana kesalahan ditangani. Tanggung jawab akhir tetap berada pada manusia yang menerbitkan berita.
+
+Gambar dan audio sintetis menimbulkan risiko baru. Jika materi buatan digunakan sebagai ilustrasi, beri label yang jelas dan jangan menyajikannya sebagai dokumentasi peristiwa nyata. Jangan membuat rekaman palsu yang menyerupai seseorang untuk menipu publik. Arsip asli perlu dipertahankan agar proses verifikasi dapat dilakukan.
+
+BAB 21. KESELAMATAN, TRAUMA, DAN PERLINDUNGAN NARASUMBER
+
+Peliputan dapat menimbulkan risiko bagi jurnalis maupun narasumber. Sebelum wawancara, nilai apakah identitas, lokasi, pekerjaan, atau hubungan narasumber dapat membuatnya rentan. Jelaskan tujuan dan kemungkinan publikasi. Persetujuan harus diberikan tanpa tekanan dan dapat ditinjau kembali sesuai kesepakatan yang realistis.
+
+Dalam meliput anak, korban, atau orang yang sedang mengalami krisis, hindari pertanyaan yang menyalahkan, pengulangan pengalaman yang tidak perlu, serta publikasi detail yang dapat mengidentifikasi. Kepentingan publik perlu ditimbang terhadap risiko nyata bagi individu. Gunakan pendekatan yang menghormati martabat dan jangan menjanjikan perlindungan yang tidak mampu dipenuhi.
+
+Keselamatan lapangan mencakup perencanaan perjalanan, komunikasi tim, akses medis, perlindungan data, dan prosedur ketika situasi berubah. Jurnalis tidak perlu mengambil risiko yang tidak proporsional demi gambar atau kutipan. Editor bertanggung jawab memastikan bahwa tenggat dan tuntutan eksklusivitas tidak mengalahkan keselamatan.
+
+BAB 22. MENGELOLA REDAKSI, KOREKSI, DAN KUALITAS
+
+Alur redaksi yang baik menetapkan tanggung jawab reporter, editor, pemeriksa fakta, fotografer, dan pengelola publikasi. Untuk berita kompleks, gunakan daftar pemeriksaan: klaim utama, sumber langsung, pembanding, konteks, hak jawab, risiko hukum, privasi, hak cipta, dan ketepatan visual. Pemeriksaan bukan tanda ketidakpercayaan kepada reporter; ia merupakan pengendalian mutu.
+
+Hak jawab memberi kesempatan kepada pihak yang dikritik untuk menanggapi secara wajar. Redaksi perlu memberi waktu yang masuk akal dan mencatat upaya menghubungi. Tidak semua tanggapan harus diterima sebagai fakta; tanggapan diverifikasi dan ditempatkan dalam konteks. Penolakan memberi tanggapan juga dapat dicatat tanpa membuat dugaan tentang alasannya.
+
+Koreksi harus mudah ditemukan, menyebut bagian yang keliru, dan menjelaskan perbaikannya. Perubahan kecil seperti salah ketik dapat ditangani sesuai kebijakan redaksi, sedangkan perubahan fakta penting memerlukan catatan yang jelas. Arsip versi membantu akuntabilitas dan pembelajaran internal.
+
+PROYEK REDAKSI TERPADU
+
+Pilih isu publik yang dapat diteliti menggunakan dokumen terbuka dan wawancara sukarela. Buat daftar klaim dan peta sumber. Verifikasi minimal satu tabel data, satu dokumen, dan satu keterangan narasumber. Susun berita, infografik, serta catatan metode. Lakukan pemeriksaan privasi, hak cipta, risiko keselamatan, dan hak jawab sebelum menyelesaikan naskah.
+
+LATIHAN PENDALAMAN
+
+1. Mengapa dugaan awal dalam reportase investigatif harus dapat dibantah?
+2. Berikan contoh perbedaan jumlah total, persentase, dan poin persentase.
+3. Apa yang perlu dilakukan ketika informasi viral belum dapat diverifikasi?
+4. Sebutkan tiga risiko penggunaan AI dalam proses jurnalistik.
+5. Mengapa hak jawab dan koreksi merupakan bagian dari mutu redaksi?

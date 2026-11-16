@@ -194,3 +194,25 @@ Informasi genetik dapat sangat pribadi. Penggunaan data memerlukan persetujuan, 
 
 LATIHAN
 Sebuah tanaman memiliki dua variasi warna bunga. Susun rancangan persilangan hipotetis, tulis asumsi model, prediksi kemungkinan keturunan, lalu jelaskan mengapa hasil nyata dapat berbeda dari prediksi sederhana.
+
+BAB 11. EKSPRESI GEN DAN REGULASI
+Informasi genetik tidak digunakan secara terus-menerus dengan cara yang sama pada semua sel. Regulasi gen mengatur kapan dan seberapa banyak suatu gen diekspresikan. Sel saraf dan sel otot memiliki DNA yang pada dasarnya sama, tetapi menjalankan fungsi berbeda karena pola ekspresi gen berbeda. Regulasi dipengaruhi protein pengatur, sinyal sel, dan kondisi lingkungan. Perubahan ekspresi tidak selalu berarti urutan DNA berubah.
+
+BAB 12. MUTASI DAN PERBAIKAN DNA
+Mutasi adalah perubahan pada urutan materi genetik. Mutasi dapat muncul secara spontan atau dipengaruhi faktor lingkungan tertentu. Dampaknya bergantung pada lokasi, jenis perubahan, dan pengaruhnya terhadap fungsi gen atau pengaturan gen. Sebagian perubahan tidak memberi dampak yang jelas, sebagian dapat memengaruhi sifat, dan sebagian lain dapat merugikan. Sel memiliki mekanisme perbaikan DNA, meskipun mekanisme tersebut tidak selalu sempurna.
+
+BAB 13. PEWARISAN POLIGENIK DAN LINGKUNGAN
+Banyak sifat, seperti tinggi badan dan sejumlah karakter fisiologis, dipengaruhi banyak gen serta faktor lingkungan. Karena itu, variasi sifat sering membentuk rentang, bukan kelompok sederhana. Pengaruh genetik pada populasi tidak dapat digunakan untuk memastikan hasil pada satu individu. Nutrisi, kesehatan, pengalaman, dan lingkungan sosial dapat ikut membentuk perkembangan. Hindari menyimpulkan kemampuan atau nilai seseorang dari ciri biologis.
+
+BAB 14. GENETIKA POPULASI
+Genetika populasi mempelajari frekuensi alel dan genotipe dalam kelompok organisme serta perubahan dari generasi ke generasi. Mutasi, seleksi alam, aliran gen, dan hanyutan genetik dapat mengubah frekuensi tersebut. Ukuran populasi memengaruhi kekuatan hanyutan genetik; efek acak dapat lebih besar pada populasi kecil. Konsep ini membantu menjelaskan variasi dan sejarah populasi, tetapi tidak membenarkan pengelompokan sosial manusia secara sederhana berdasarkan genetika.
+
+BAB 15. ETIKA DAN PRIVASI INFORMASI GENETIK
+Informasi genetik dapat mengungkap hal tentang individu dan anggota keluarga. Pengumpulan serta penggunaan data genetik memerlukan persetujuan, keamanan penyimpanan, dan penjelasan tujuan. Hasil tes perlu ditafsirkan oleh tenaga yang kompeten karena tidak semua varian memiliki makna klinis yang jelas. Jangan membagikan hasil orang lain tanpa izin. Keputusan kesehatan sebaiknya tidak didasarkan pada iklan atau interpretasi mandiri yang melampaui bukti.
+
+LATIHAN TERAPAN
+1. Mengapa sel yang memiliki DNA serupa dapat memiliki fungsi berbeda?
+2. Apakah semua mutasi berdampak buruk? Jelaskan.
+3. Mengapa sifat poligenik tidak dapat dijelaskan dengan satu kotak persilangan sederhana?
+4. Sebutkan empat proses yang dapat mengubah frekuensi alel populasi.
+5. Mengapa data genetik perlu perlindungan privasi khusus?

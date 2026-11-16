@@ -16,7 +16,7 @@ PENDALAMAN
 Pada PETA DAN REPRESENTASI RUANG, tentukan tujuan peta dan pembacanya sebelum memilih skala, proyeksi, simbol, serta lapisan informasi. Peta untuk navigasi, perencanaan wilayah, dan penyajian statistik memerlukan pilihan desain yang berbeda.
 
 CONTOH PENERAPAN
-Contoh kajian: pilih kasus sederhana yang berkaitan dengan PETA DAN REPRESENTASI RUANG dalam bidang Dasar Pemetaan Digital. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
+Contoh: buat peta sederhana fasilitas umum di lingkungan sekolah menggunakan data lokasi yang memang boleh dipublikasikan. Tentukan sistem koordinat, skala, simbol, legenda, dan sumber data. Periksa apakah titik berada pada posisi yang masuk akal dan hindari menampilkan alamat rumah atau lokasi pribadi.
 
 LATIHAN
 1. Apa konsep utama dalam PETA DAN REPRESENTASI RUANG?

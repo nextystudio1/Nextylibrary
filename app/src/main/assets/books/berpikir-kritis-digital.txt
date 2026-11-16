@@ -240,8 +240,6 @@ LATIHAN
 2. Mengapa sumber primer berguna? Jawaban: memungkinkan pemeriksaan konteks dan isi awal.
 3. Bagaimana memperlakukan klaim yang belum terverifikasi? Jawaban: jangan sebarkan sebagai fakta dan cari bukti tambahan.
 
-
-
 BAB LANJUTAN — VERIFIKASI INFORMASI DAN JEJAK DIGITAL
 
 Informasi digital dapat disalin dan disebarkan jauh lebih cepat daripada proses pemeriksaannya. Karena itu, jangan langsung meneruskan pesan yang membuat takut, marah, atau sangat gembira. Emosi yang kuat dapat membuat orang melewatkan pemeriksaan sumber. Berhenti sejenak, cari sumber awal, dan bandingkan dengan pemberitaan atau dokumen tepercaya.
@@ -411,7 +409,6 @@ Pilih satu grafik publik dari lembaga resmi. Catat judul, periode, satuan, sumbe
 
 GLOSARIUM TAMBAHAN
 Median: nilai tengah setelah data diurutkan. Ruang gema: lingkungan informasi yang mengulang pandangan serupa. Jejak digital: rekaman aktivitas yang tertinggal di layanan digital.
-
 
 BAB PENGAYAAN 1 — MEMERIKSA SUMBER DAN KREDIBILITAS INFORMASI
 

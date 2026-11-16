@@ -149,3 +149,60 @@ LATIHAN PENDALAMAN
 3. Petakan tahap sistem pangan yang berpotensi menghasilkan limbah.
 4. Jelaskan satu risiko subsidi lingkungan yang dirancang buruk.
 5. Berikan contoh pertimbangan keadilan dalam transisi ekonomi.
+BAB 17. ANALISIS BIAYA-MANFAAT DAN NILAI JASA EKOSISTEM
+
+Analisis ekonomi lingkungan berusaha membuat konsekuensi pilihan terlihat, termasuk konsekuensi yang tidak memiliki harga pasar. Hutan, lahan basah, sungai, dan pesisir menyediakan jasa seperti pengaturan air, perlindungan dari gelombang, penyimpanan karbon, habitat, dan ruang rekreasi. Tidak semua nilai tersebut dapat diringkas menjadi satu angka tanpa kehilangan informasi penting.
+
+Analisis biaya-manfaat membandingkan perubahan manfaat dan biaya terhadap suatu kondisi dasar. Pertanyaan utamanya bukan sekadar apakah suatu proyek menghasilkan manfaat, melainkan dibandingkan dengan apa, untuk siapa, pada jangka waktu berapa lama, dan dengan ketidakpastian apa. Biaya pemulihan, kesehatan, waktu perjalanan, kehilangan mata pencaharian, dan risiko bencana dapat relevan meski tidak seluruhnya tercatat dalam transaksi pasar.
+
+Diskonto digunakan untuk membandingkan nilai uang pada waktu berbeda. Tingkat diskonto yang lebih tinggi membuat manfaat masa depan tampak lebih kecil dalam nilai saat ini. Dalam kebijakan lingkungan jangka panjang, pilihan tingkat diskonto memiliki konsekuensi etis antargenerasi. Karena itu, analis sebaiknya menyajikan sensitivitas pada beberapa asumsi, bukan menyembunyikan hasil di balik satu angka.
+
+Monetisasi tidak selalu tepat. Nilai budaya, identitas komunitas, hak masyarakat, dan keberadaan spesies dapat sulit atau tidak layak dipertukarkan dengan uang. Analisis kuantitatif perlu dilengkapi penilaian kualitatif, konsultasi publik, dan batas hukum. Hasil analisis merupakan masukan keputusan, bukan pengganti proses demokratis.
+
+BAB 18. SUMBER DAYA BERSAMA DAN MASALAH AKSES
+
+Sumber daya bersama memiliki karakteristik sulit mengecualikan pengguna dan pemanfaatan oleh seseorang dapat mengurangi ketersediaan bagi orang lain. Contohnya dapat mencakup perikanan terbuka, air tanah, dan padang penggembalaan. Tanpa aturan yang sesuai, pengguna mungkin terdorong mengambil manfaat secepat mungkin karena khawatir orang lain akan mengambilnya lebih dahulu.
+
+Namun kerusakan sumber daya bersama bukan sesuatu yang tidak terhindarkan. Komunitas dapat membangun aturan akses, batas pemanfaatan, pemantauan, sanksi bertahap, mekanisme penyelesaian konflik, dan forum pengambilan keputusan. Keberhasilan bergantung pada kesesuaian aturan dengan kondisi ekologis, legitimasi, pengetahuan lokal, serta kemampuan menegakkan kesepakatan.
+
+Hak kepemilikan juga memiliki banyak bentuk: akses, pemanfaatan, pengelolaan, dan pengalihan. Menyebut suatu sumber daya “milik bersama” tidak cukup menjelaskan siapa yang memiliki hak apa. Analisis perlu memeriksa hak formal dan praktik nyata, termasuk kelompok yang sering tidak tercatat dalam dokumen seperti pengguna musiman atau perempuan pengelola sumber daya.
+
+BAB 19. EKONOMI SIRKULAR DAN DESAIN PRODUK
+
+Ekonomi sirkular berupaya mempertahankan nilai bahan dan produk selama mungkin melalui pengurangan penggunaan bahan, perawatan, perbaikan, penggunaan kembali, pemanfaatan ulang, dan daur ulang. Urutan tindakan penting: mencegah kebutuhan bahan baru umumnya lebih baik daripada mengandalkan daur ulang setelah produk menjadi limbah.
+
+Desain menentukan sebagian besar peluang sirkularitas. Produk yang sulit dibongkar, memakai bahan campuran yang tidak kompatibel, atau memiliki komponen yang cepat rusak akan sulit diperbaiki. Informasi bahan, ketersediaan suku cadang, petunjuk perawatan, dan sistem pengembalian dapat memperpanjang umur produk. Model bisnis berbasis layanan dapat memberi insentif kepada produsen untuk menjaga produk tetap berfungsi, tetapi perlu diawasi agar tidak menciptakan ketergantungan atau pembatasan akses.
+
+Daur ulang membutuhkan pemilahan, pengumpulan, teknologi, pasar bahan sekunder, dan standar mutu. Tidak semua bahan dapat didaur ulang berulang kali tanpa penurunan kualitas. Transportasi dan energi proses juga perlu dihitung. Klaim “dapat didaur ulang” tidak sama dengan “benar-benar didaur ulang” di wilayah tertentu.
+
+BAB 20. KEBIJAKAN IKLIM DAN ANALISIS EMISI
+
+Kebijakan iklim dapat mencakup standar efisiensi, harga karbon, perdagangan emisi, investasi transportasi publik, perlindungan hutan, dan dukungan teknologi rendah emisi. Setiap instrumen bekerja melalui mekanisme berbeda. Harga karbon memberi sinyal biaya, sedangkan standar menetapkan batas kinerja. Kebijakan yang efektif sering menggabungkan instrumen dan memperhatikan kapasitas lembaga pelaksana.
+
+Inventarisasi emisi membutuhkan batas sistem, periode, sumber data, dan faktor emisi yang konsisten. Emisi langsung dari kegiatan yang dikendalikan organisasi berbeda dari emisi tidak langsung dalam listrik dan rantai pasok. Batas yang tidak dijelaskan dapat menghasilkan perbandingan menyesatkan. Ketidakpastian data perlu dilaporkan, terutama ketika angka digunakan untuk klaim publik.
+
+Pengurangan emisi perlu dibedakan dari pengimbangan. Mengurangi sumber emisi berarti mengubah proses atau konsumsi energi. Pengimbangan bergantung pada proyek lain yang harus memenuhi kriteria tambahan, pengukuran, permanensi, dan pencegahan penghitungan ganda. Pengimbangan yang tidak dapat diverifikasi tidak boleh dipakai untuk menutupi ketiadaan rencana pengurangan nyata.
+
+BAB 21. METODE PENILAIAN DAN KETERBATASAN DATA
+
+Penilaian dampak lingkungan dapat memakai eksperimen, pengamatan sebelum-sesudah, perbandingan lokasi, survei rumah tangga, pemetaan, atau model. Pilihan metode bergantung pada pertanyaan dan ketersediaan data. Korelasi antara kegiatan ekonomi dan kualitas lingkungan tidak otomatis membuktikan hubungan sebab-akibat; faktor lain mungkin memengaruhi keduanya.
+
+Survei perlu memiliki definisi populasi, metode pemilihan responden, pertanyaan yang tidak menggiring, dan prosedur perlindungan data. Data administrasi dapat memiliki cakupan luas tetapi dirancang untuk tujuan lain. Data sensor dapat memiliki frekuensi tinggi namun memerlukan kalibrasi dan pemeliharaan. Data warga dapat memperkaya pemahaman lokal, tetapi perlu protokol verifikasi dan pengakuan atas kontribusi mereka.
+
+Peta risiko perlu menunjukkan sumber, tanggal, skala, resolusi, dan ketidakpastian. Batas administratif tidak selalu sama dengan batas ekosistem. Wilayah hulu dan hilir saling terhubung; kebijakan di satu daerah dapat memengaruhi masyarakat di daerah lain. Analisis spasial sebaiknya menggabungkan kondisi ekologis dan distribusi sosial dampak.
+
+STUDI KASUS ANALITIS
+
+Sebuah kota mempertimbangkan pungutan untuk mengurangi sampah kemasan sekali pakai. Sebelum kebijakan diterapkan, tim perlu mengetahui jenis kemasan yang paling banyak digunakan, pola belanja, ketersediaan alternatif, biaya bagi pedagang kecil, dan kemampuan sistem pengumpulan. Setelah kebijakan berjalan, evaluasi harus memeriksa apakah penggunaan kemasan benar-benar turun, apakah sampah berpindah ke jenis lain, dan apakah beban biaya tidak terkonsentrasi pada kelompok rentan. Perubahan perilaku dan dampak lingkungan perlu diukur, bukan diasumsikan dari jumlah pungutan.
+
+PROYEK ANALISIS
+
+Pilih satu kebijakan lingkungan. Tetapkan kondisi dasar, kelompok terdampak, biaya langsung dan tidak langsung, jasa ekosistem yang terkait, serta dua alternatif kebijakan. Buat matriks efektivitas, keadilan, kelayakan administrasi, dan risiko dampak samping. Tentukan data yang dibutuhkan untuk evaluasi dan jelaskan keterbatasannya.
+
+LATIHAN PENDALAMAN
+
+1. Mengapa nilai jasa ekosistem tidak selalu tepat dinyatakan hanya dalam uang?
+2. Jelaskan kondisi yang memungkinkan komunitas mengelola sumber daya bersama secara berkelanjutan.
+3. Mengapa pencegahan limbah perlu didahulukan daripada daur ulang?
+4. Bedakan pengurangan emisi langsung dan pengimbangan emisi.
+5. Sebutkan tiga sumber bias atau ketidakpastian dalam evaluasi kebijakan lingkungan.

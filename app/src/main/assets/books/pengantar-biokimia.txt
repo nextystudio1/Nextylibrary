@@ -163,3 +163,34 @@ LATIHAN DAN PEMBAHASAN
 4. Apa peran gradien proton dalam pembentukan ATP? Gradien menyediakan gaya gerak proton yang dimanfaatkan kompleks ATP sintase.
 5. Mengapa kurva kalibrasi memerlukan standar? Untuk menghubungkan respons alat dengan nilai konsentrasi yang diketahui.
 6. Sebutkan tiga sumber variasi hasil analisis biokimia. Variasi biologis, penanganan sampel, dan keterbatasan instrumen atau metode.
+
+BAB LANJUTAN: LIPID DAN MEMBRAN BIOLOGIS
+
+Lipid mencakup kelompok molekul dengan sifat kelarutan yang beragam. Fosfolipid memiliki bagian hidrofilik dan hidrofobik sehingga dapat membentuk bilayer dalam lingkungan berair. Susunan ini menjadi dasar membran sel yang memisahkan kompartemen dan mengatur perpindahan zat.
+
+Komposisi asam lemak memengaruhi sifat membran. Panjang rantai dan tingkat ketidakjenuhan dapat memengaruhi kerapatan susunan molekul. Kolesterol pada membran hewan turut memodulasi sifat fisik membran. Protein membran menjalankan fungsi transportasi, penerimaan sinyal, dan pengenalan antarsel.
+
+Membran bersifat dinamis, bukan dinding yang sepenuhnya kaku. Pergerakan lipid dan protein dipengaruhi suhu, komposisi, dan interaksi molekul. Model membran membantu menjelaskan sifat tersebut, tetapi organisasi membran nyata lebih kompleks daripada gambar sederhana.
+
+BAB LANJUTAN: ENZIM DAN KINETIKA BIOKIMIA
+
+Enzim mempercepat reaksi dengan menyediakan jalur yang memiliki energi aktivasi lebih rendah. Enzim tidak mengubah keseimbangan akhir reaksi, tetapi memengaruhi laju tercapainya keadaan tersebut. Aktivitas enzim dipengaruhi suhu, pH, konsentrasi substrat, inhibitor, dan kondisi lingkungan.
+
+Model kinetika sederhana menggambarkan hubungan laju reaksi dengan konsentrasi substrat. Parameter seperti laju maksimum dan konstanta karakteristik membantu membandingkan sistem, tetapi interpretasi bergantung pada asumsi model. Enzim nyata dapat menunjukkan regulasi alosterik, kerja sama antarsitus, atau perilaku yang tidak sesuai model paling sederhana.
+
+Pengukuran aktivitas memerlukan kontrol, replikasi, blanko, dan kondisi yang konsisten. Hasil dipengaruhi kemurnian sampel, stabilitas enzim, serta metode pembacaan. Grafik harus disertai satuan, kondisi, dan penjelasan tentang cara menghitung laju.
+
+BAB LANJUTAN: METABOLISME TERINTEGRASI DAN HOMEOSTASIS
+
+Metabolisme karbohidrat, lipid, dan protein saling terhubung. Jalur metabolik tidak bekerja secara terpisah; produk dari satu jalur dapat menjadi bahan bagi jalur lain. Regulasi hormon dan sinyal sel membantu menyesuaikan penggunaan serta penyimpanan energi terhadap keadaan tubuh.
+
+Homeostasis menjaga kondisi internal dalam rentang yang mendukung fungsi biologis. Umpan balik negatif membantu mengembalikan variabel menuju rentang tertentu, sedangkan respons lain dapat memperkuat proses dalam konteks khusus. Analisis harus mempertimbangkan organ, jaringan, waktu, dan kondisi fisiologis.
+
+Pengukuran metabolit memberikan gambaran pada waktu tertentu, bukan keseluruhan proses. Sampel, waktu pengambilan, status nutrisi, aktivitas, dan penanganan laboratorium dapat memengaruhi hasil. Interpretasi data biokimia untuk kesehatan harus dilakukan oleh tenaga kompeten dalam konteks klinis.
+
+LATIHAN PENDALAMAN
+1. Mengapa fosfolipid dapat membentuk bilayer?
+2. Apa peran protein membran?
+3. Bagaimana enzim memengaruhi laju reaksi?
+4. Mengapa model kinetika perlu dibaca bersama asumsi?
+5. Sebutkan faktor yang memengaruhi interpretasi hasil metabolit.

@@ -1572,4 +1572,199 @@ Edisi ini merupakan naskah pengantar luas untuk pembelajaran mandiri dan pendamp
 
 Sebelum diterbitkan sebagai bahan ajar final, naskah perlu melewati penyuntingan bahasa, pemeriksaan persamaan, verifikasi rujukan, pemeriksaan hak penggunaan ilustrasi, serta peninjauan guru atau ahli fisika. Perkiraan jumlah halaman harus dihitung dari tata letak final, bukan hanya jumlah kata. Dalam aplikasi, nomor halaman baru dapat dinyatakan akurat setelah fitur paginasi diuji pada ukuran layar dan pengaturan huruf yang ditetapkan.
 
-Akhir naskah.
+
+BAGIAN XV — KONSEP LANJUTAN DAN PENERAPAN TERPADU
+
+BAB 121 — HUKUM KEPLER DAN DINAMIKA ORBIT
+
+Hukum Kepler merangkum pola gerak planet yang diamati. Orbit planet berbentuk elips dengan Matahari pada salah satu fokus. Garis penghubung planet dan Matahari menyapu luas yang sama dalam selang waktu yang sama. Kuadrat periode orbit sebanding dengan pangkat tiga sumbu semi-mayor orbit untuk benda yang mengitari pusat massa yang sama.
+
+Hukum-hukum tersebut dapat dijelaskan melalui gravitasi Newton. Gaya gravitasi menyediakan percepatan sentripetal yang membelokkan lintasan. Untuk orbit melingkar ideal, kecepatan orbit bergantung pada massa pusat dan jari-jari orbit, bukan massa satelit jika massanya jauh lebih kecil.
+
+Orbit elips memiliki jarak yang berubah-ubah dari pusat. Kecepatan satelit lebih besar ketika lebih dekat ke pusat dan lebih kecil ketika lebih jauh, sesuai kekekalan energi dan momentum sudut. Konsep ini digunakan untuk memahami orbit planet, komet, dan satelit buatan.
+
+BAB 122 — MOMENTUM SUDUT DAN KEKEKALANNYA
+
+Momentum sudut adalah besaran yang menggambarkan gerak rotasi terhadap titik atau sumbu. Untuk benda titik, momentum sudut bergantung pada posisi relatif terhadap titik acuan dan momentum linear. Untuk benda tegar yang berotasi pada sumbu tetap, bentuk sederhananya adalah hasil kali momen inersia dan kecepatan sudut.
+
+Jika resultan torsi eksternal pada sistem nol, momentum sudut total tetap. Penari es yang merapatkan lengan dapat berputar lebih cepat karena momen inersianya berkurang sementara momentum sudut tetap. Contoh ini menunjukkan hubungan antara distribusi massa dan gerak rotasi.
+
+Kekekalan momentum sudut penting dalam astronomi, dinamika benda tegar, dan teknologi giroskop. Namun, sistem nyata dapat mengalami torsi eksternal akibat gesekan, hambatan udara, atau interaksi lain. Batas sistem dan pengaruh luar perlu diperiksa.
+
+BAB 123 — GIROSKOP DAN STABILITAS ORIENTASI
+
+Giroskop adalah sistem berputar yang memiliki momentum sudut. Arah sumbu rotasi cenderung mempertahankan orientasinya ketika resultan torsi eksternal kecil. Jika torsi bekerja, arah momentum sudut dapat berubah; fenomena ini berkaitan dengan presesi.
+
+Giroskop digunakan dalam sistem navigasi, stabilisasi kamera, pesawat, kapal, dan perangkat elektronik. Sensor giroskop modern biasanya menggunakan prinsip mikroelektromekanis, bukan roda berputar besar. Perangkat mengukur laju rotasi dan menggabungkannya dengan sensor lain untuk memperkirakan orientasi.
+
+Pengukuran giroskop memiliki bias dan derau. Kesalahan kecil yang diintegrasikan terhadap waktu dapat menyebabkan estimasi orientasi bergeser. Karena itu, sistem navigasi menggabungkan data giroskop dengan akselerometer, magnetometer, atau sumber posisi lain.
+
+BAB 124 — TEGANGAN PERMUKAAN DAN KAPILARITAS
+
+Molekul pada permukaan cairan mengalami interaksi yang berbeda dari molekul di bagian dalam. Hal ini menimbulkan tegangan permukaan, yaitu kecenderungan permukaan cairan memperkecil luasnya. Tegangan permukaan menjelaskan bentuk tetesan dan perilaku beberapa objek ringan di permukaan air.
+
+Kapilaritas terjadi ketika interaksi antara cairan dan dinding saluran kecil bersaing dengan kohesi antarmolekul cairan. Pada tabung sempit, permukaan cairan dapat naik atau turun relatif terhadap permukaan luar. Arah dan besar efek bergantung pada bahan, cairan, dan geometri.
+
+Fenomena kapilaritas berperan dalam pergerakan air pada tanah dan tumbuhan, tinta pada kertas, serta proses industri. Deterjen dapat mengubah tegangan permukaan sehingga perilaku pembasahan berubah. Penjelasan lengkap memerlukan konsep energi permukaan dan sudut kontak.
+
+BAB 125 — DIFUSI DAN GERAK BROWN
+
+Difusi adalah penyebaran partikel dari wilayah berkonsentrasi tinggi ke wilayah berkonsentrasi rendah akibat gerak acak mikroskopis. Proses ini dapat berlangsung tanpa aliran makroskopis. Contoh sederhana adalah penyebaran aroma di ruangan, meskipun aliran udara juga dapat berperan.
+
+Gerak Brown adalah gerak acak partikel kecil yang tersuspensi dalam fluida akibat tumbukan tidak seimbang dari molekul fluida. Pengamatan gerak Brown menjadi bukti penting bagi keberadaan gerak termal molekul.
+
+Laju difusi dipengaruhi suhu, ukuran partikel, medium, dan gradien konsentrasi. Dalam biologi, kimia, dan ilmu material, difusi menentukan bagaimana zat berpindah melalui membran atau bahan. Model difusi sederhana perlu disesuaikan jika ada reaksi kimia, aliran, atau batas kompleks.
+
+BAB 126 — MEDAN LISTRIK DAN POTENSIAL
+
+Medan listrik menggambarkan gaya per satuan muatan uji positif pada suatu titik. Potensial listrik menyatakan energi potensial per satuan muatan. Medan berkaitan dengan perubahan potensial terhadap posisi; arah medan menuju penurunan potensial paling cepat.
+
+Permukaan equipotensial adalah kumpulan titik dengan potensial sama. Memindahkan muatan sepanjang permukaan equipotensial tidak memerlukan usaha oleh gaya listrik dalam model elektrostatik. Garis medan listrik tegak lurus permukaan equipotensial.
+
+Konsep potensial sering lebih mudah digunakan daripada menjumlahkan gaya dari banyak muatan. Dalam rangkaian, beda potensial antara dua titik berkaitan dengan energi yang dipindahkan per satuan muatan. Perlu dibedakan potensial sebagai sifat titik dan energi potensial yang bergantung pada muatan.
+
+BAB 127 — MEDAN MAGNET DAN GAYA LORENTZ
+
+Muatan bergerak dapat mengalami gaya dalam medan magnet. Untuk muatan dengan kecepatan tegak lurus medan magnet seragam, gaya magnet mengubah arah gerak tanpa mengubah besar kelajuan karena gaya selalu tegak lurus kecepatan. Lintasan dapat menjadi melingkar dalam kondisi ideal.
+
+Jika kecepatan memiliki komponen sejajar medan dan komponen tegak lurus, lintasan dapat berbentuk heliks. Gaya pada kawat berarus dalam medan magnet menjadi dasar kerja motor listrik. Arah gaya ditentukan oleh arah arus dan medan.
+
+Gaya Lorentz merupakan gabungan pengaruh medan listrik dan magnet pada muatan bergerak. Prinsip ini digunakan dalam spektrometer massa, motor, pengeras suara, dan berbagai sensor. Perangkat nyata perlu memperhitungkan medan tidak seragam, hambatan, dan geometri.
+
+BAB 128 — INDUKSI, HUKUM LENZ, DAN ENERGI
+
+Hukum Faraday menyatakan bahwa perubahan fluks magnet menimbulkan gaya gerak listrik induksi. Besarnya bergantung pada laju perubahan fluks dan jumlah lilitan. Hukum Lenz menentukan arah arus induksi: efek magnetiknya menentang perubahan fluks yang menyebabkannya.
+
+Arah tersebut konsisten dengan kekekalan energi. Jika arus induksi membantu perubahan yang menyebabkannya tanpa masukan energi, sistem seolah menghasilkan energi dari ketiadaan. Dalam kenyataan, diperlukan usaha untuk mengubah fluks melawan efek induksi.
+
+Prinsip ini tampak pada generator dan rem elektromagnetik. Pada rem arus pusar, perubahan fluks menghasilkan arus dalam konduktor yang menimbulkan gaya penentang gerak. Energi mekanik berubah menjadi energi termal pada konduktor.
+
+BAB 129 — FISIKA KUANTUM: TINGKAT ENERGI ATOM
+
+Elektron dalam atom tidak dapat memiliki sembarang energi pada keadaan terikat. Model kuantum menghasilkan tingkat energi diskret. Ketika elektron berpindah tingkat, atom dapat menyerap atau memancarkan foton dengan energi yang sama dengan selisih tingkat energi.
+
+Spektrum atom menjadi seperti sidik jari unsur. Garis spektrum hidrogen, misalnya, dapat dijelaskan melalui perubahan tingkat energi elektron. Model Bohr membantu pengantar untuk atom hidrogen, sedangkan atom banyak elektron memerlukan teori kuantum yang lebih lengkap.
+
+Konsep tingkat energi digunakan dalam laser, lampu, spektroskopi, dan teknologi semikonduktor. Pengukuran spektrum memberi informasi tentang komposisi dan kondisi materi, termasuk pada objek astronomi yang sangat jauh.
+
+BAB 130 — DUALITAS GELOMBANG-PARTIKEL
+
+Eksperimen menunjukkan bahwa cahaya dan materi dapat memperlihatkan sifat gelombang maupun partikel. Cahaya menunjukkan interferensi, tetapi pertukaran energinya dengan materi dapat berlangsung dalam kuanta foton. Elektron sebagai partikel juga dapat menghasilkan pola difraksi dalam kondisi eksperimen tertentu.
+
+Panjang gelombang de Broglie menghubungkan momentum partikel dengan sifat gelombangnya. Untuk objek sehari-hari, panjang gelombang tersebut sangat kecil sehingga efek gelombang tidak mudah diamati. Pada skala atom, efek ini menjadi penting.
+
+Dualitas bukan berarti objek berganti menjadi gelombang air atau bola kecil secara harfiah. Ini menunjukkan bahwa konsep klasik tidak cukup untuk menjelaskan seluruh hasil eksperimen mikroskopis. Mekanika kuantum menggunakan fungsi gelombang dan probabilitas untuk memprediksi hasil pengukuran.
+
+BAB 131 — PENGUKURAN, KALIBRASI, DAN KETERTELUSURAN
+
+Kalibrasi membandingkan hasil alat ukur dengan standar atau acuan yang diketahui. Tujuannya mengidentifikasi hubungan antara indikasi alat dan nilai acuan, termasuk penyimpangan yang mungkin terjadi. Kalibrasi tidak selalu berarti alat disetel; penyesuaian merupakan tindakan terpisah.
+
+Ketertelusuran metrologi menghubungkan hasil ukur dengan standar melalui rantai kalibrasi terdokumentasi yang tidak terputus, dengan ketidakpastian pada setiap tahap. Prinsip ini penting dalam industri, laboratorium, kesehatan, dan perdagangan.
+
+Alat yang tampak menunjukkan angka stabil belum tentu akurat. Perlu diperhatikan resolusi, rentang ukur, linearitas, histeresis, drift, dan kondisi lingkungan. Hasil ukur yang baik menyebut metode, satuan, ketidakpastian, serta status kalibrasi jika relevan.
+
+BAB 132 — MEMBEDAKAN AKURASI, PRESISI, DAN RESOLUSI
+
+Akurasi menggambarkan kedekatan hasil ukur dengan nilai acuan. Presisi menggambarkan kedekatan antarhasil pengukuran berulang. Resolusi adalah perubahan terkecil yang dapat ditampilkan atau dibedakan alat. Ketiganya tidak sama.
+
+Alat dapat menghasilkan angka yang berulang sangat konsisten tetapi semuanya bergeser dari nilai acuan; hasilnya presisi tetapi tidak akurat. Alat dengan tampilan banyak digit belum tentu memiliki akurasi tinggi. Digit tambahan tidak menghilangkan kesalahan kalibrasi.
+
+Evaluasi alat harus mempertimbangkan tujuan pengukuran. Termometer untuk pengamatan kelas mungkin memiliki kebutuhan berbeda dari sensor proses industri. Spesifikasi alat dipilih berdasarkan rentang, ketelitian, kondisi lingkungan, dan risiko keputusan yang dibuat dari data.
+
+BAB 133 — PENGOLAHAN DATA DAN VISUALISASI YANG JUJUR
+
+Visualisasi membantu pembaca memahami data, tetapi pilihan skala, rentang, dan jenis grafik dapat memengaruhi kesan. Sumbu yang dipotong dapat membuat perubahan kecil tampak sangat besar. Penggunaan skala logaritmik harus diberi label dan alasan yang jelas.
+
+Rata-rata tidak selalu cukup untuk menggambarkan data. Median, rentang, simpangan baku, dan interval kepercayaan dapat memberikan informasi tambahan. Pilih ringkasan sesuai distribusi dan pertanyaan penelitian.
+
+Jangan memilih hanya data yang mendukung hipotesis. Jelaskan data hilang, pencilan, dan perubahan metode. Visualisasi yang baik membuat pembaca dapat menilai pola sekaligus keterbatasannya.
+
+BAB 134 — MENILAI MODEL DAN KETIDAKPASTIAN PREDIKSI
+
+Model ilmiah memiliki parameter, asumsi, dan rentang penggunaan. Kecocokan terhadap data yang digunakan untuk membangun model belum menjamin kemampuan prediksi pada kondisi baru. Model perlu diuji dengan data independen atau dibandingkan dengan pengamatan lain.
+
+Ketidakpastian prediksi dapat berasal dari pengukuran, variasi alami, parameter model, dan bentuk model itu sendiri. Menambahkan lebih banyak digit pada hasil tidak mengurangi ketidakpastian. Hasil sebaiknya disajikan sebagai rentang atau skenario ketika hal itu lebih jujur.
+
+Model sederhana sering berguna karena mudah dipahami, tetapi model kompleks juga tidak otomatis lebih baik. Pilih tingkat kompleksitas yang sesuai dengan tujuan, data, dan kemampuan untuk menguji hasil.
+
+BAB 135 — PENGANTAR METODE NUMERIK
+
+Metode numerik menggunakan perhitungan berulang untuk memperkirakan solusi persamaan. Contohnya adalah metode Euler untuk mendekati perubahan sistem dari satu langkah waktu ke langkah berikutnya. Metode ini mudah dipahami, tetapi kesalahan dapat terakumulasi jika langkah terlalu besar.
+
+Metode numerik yang lebih canggih dapat meningkatkan akurasi atau stabilitas, tetapi tetap memerlukan pemeriksaan. Uji apakah hasil berubah ketika langkah waktu diperkecil. Bandingkan dengan solusi analitik jika tersedia dan periksa apakah besaran kekal tetap mendekati nilai yang seharusnya.
+
+Simulasi numerik banyak digunakan ketika sistem memiliki banyak variabel atau persamaan sulit diselesaikan secara langsung. Laporan harus menyebut metode, ukuran langkah, kondisi awal, dan uji validasi.
+
+BAB 136 — MENYATUKAN KONSEP MELALUI PROYEK MINI
+
+Proyek mini dapat menggabungkan pengukuran, pemodelan, grafik, dan komunikasi. Pilih pertanyaan yang aman dan dapat dijawab dengan data sederhana, misalnya membandingkan waktu pendinginan dua wadah tertutup yang aman pada suhu ruang menggunakan pengamatan tanpa pemanasan buatan.
+
+Tentukan variabel yang diubah, variabel yang diukur, dan faktor yang dijaga tetap. Gunakan alat ukur sesuai petunjuk, jangan memakai air panas atau perangkat listrik terbuka. Catat data secara konsisten dan hindari mengubah prosedur di tengah pengamatan tanpa mencatatnya.
+
+Setelah data terkumpul, buat grafik, perkirakan pola, dan bandingkan dengan model sederhana. Tulis keterbatasan seperti suhu ruang yang berubah, perbedaan bentuk wadah, atau resolusi termometer. Tujuan proyek adalah belajar menalar dari bukti, bukan membuktikan dugaan dengan segala cara.
+
+BAB 137 — MENJELASKAN FISIKA KEPADA ORANG LAIN
+
+Kemampuan menjelaskan merupakan bagian dari pemahaman. Mulailah dengan pertanyaan sehari-hari, lalu hubungkan dengan konsep dan contoh. Hindari istilah teknis yang tidak dijelaskan. Jika menggunakan analogi, sebutkan bagian mana yang sesuai dan bagian mana yang tidak.
+
+Diagram, tabel, dan grafik dapat membantu, tetapi harus memiliki label dan konteks. Persamaan perlu dijelaskan simbol serta satuannya. Contoh numerik sebaiknya sederhana dan setiap asumsi dinyatakan.
+
+Uji penjelasan dengan meminta pembaca lain mengulang gagasan utama menggunakan kata-katanya sendiri. Jika mereka salah memahami, perbaiki urutan atau contoh. Penjelasan yang baik tidak menyembunyikan ketidakpastian dan tidak mempermalukan orang yang bertanya.
+
+BAB 138 — KESALAHAN UMUM DALAM BELAJAR FISIKA
+
+Kesalahan umum pertama adalah memasukkan angka ke rumus tanpa memeriksa apakah rumus sesuai kondisi. Kesalahan kedua adalah mengabaikan arah pada besaran vektor. Kesalahan ketiga adalah mencampur satuan, misalnya kilometer per jam dengan meter per sekon tanpa konversi.
+
+Kesalahan lain adalah menganggap gaya selalu searah gerak, mengira benda bergerak harus selalu memiliki resultan gaya, atau menganggap energi hilang ketika gerak berhenti. Dalam mekanika, benda dapat bergerak dengan kecepatan konstan ketika resultan gaya nol. Energi mekanik dapat berubah menjadi energi internal, tetapi energi total tetap pada sistem lengkap.
+
+Strategi memperbaiki kesalahan adalah menuliskan konsep sebelum rumus, menggambar situasi, menyebut sistem koordinat, memeriksa satuan, dan menilai hasil secara masuk akal. Simpan daftar kesalahan pribadi sebagai bahan pengulangan.
+
+BAB 139 — GLOSARIUM PENGAYAAN
+
+Akurasi: kedekatan hasil pengukuran dengan nilai acuan.
+Akselerometer: sensor untuk mengukur percepatan.
+Akselerasi radial: komponen percepatan yang mengarah ke pusat lintasan melingkar.
+Difusi: penyebaran partikel akibat gerak acak dari konsentrasi tinggi ke rendah.
+Giroskop: perangkat atau sistem yang memanfaatkan dinamika rotasi untuk mengukur atau mempertahankan orientasi.
+Hukum Faraday: hubungan perubahan fluks magnet dengan gaya gerak listrik induksi.
+Hukum Kepler: tiga aturan empiris yang menggambarkan gerak orbit planet.
+Hukum Lenz: aturan arah arus induksi yang menentang perubahan fluks penyebabnya.
+Kapilaritas: gejala naik atau turunnya cairan pada saluran sempit.
+Momentum sudut: besaran vektor yang menggambarkan gerak rotasi.
+Presesi: perubahan arah sumbu rotasi akibat torsi.
+Presisi: kedekatan antarhasil pengukuran berulang.
+Tegangan permukaan: kecenderungan permukaan cairan memperkecil luas akibat interaksi molekul.
+Ketertelusuran: hubungan hasil ukur dengan standar melalui rantai kalibrasi terdokumentasi.
+Model numerik: representasi sistem melalui perhitungan diskret atau pendekatan komputasi.
+
+LATIHAN TERPADU AKHIR
+
+1. Mengapa momentum sudut dapat kekal ketika resultan torsi eksternal nol?
+2. Apa perbedaan gaya sentripetal dan gaya sentrifugal dalam kerangka analisis?
+3. Jelaskan bagaimana tegangan permukaan dapat menghasilkan tetesan.
+4. Apa yang dimaksud gerak Brown dan mengapa penting dalam sejarah sains?
+5. Mengapa garis medan listrik tegak lurus permukaan equipotensial?
+6. Bagaimana hukum Lenz berkaitan dengan kekekalan energi?
+7. Mengapa tingkat energi atom bersifat diskret dalam model kuantum?
+8. Apa perbedaan akurasi, presisi, dan resolusi?
+9. Mengapa model perlu diuji pada data yang tidak digunakan saat pembuatannya?
+10. Apa yang harus dicantumkan agar simulasi dapat diperiksa ulang?
+
+PEMBAHASAN TERPADU AKHIR
+
+1. Karena tidak adanya torsi eksternal menghasilkan laju perubahan momentum sudut total nol.
+2. Gaya sentripetal adalah resultan nyata menuju pusat dalam kerangka inersial; gaya sentrifugal merupakan gaya semu yang digunakan dalam kerangka berputar.
+3. Interaksi molekul pada permukaan menghasilkan kecenderungan mengurangi luas permukaan.
+4. Gerak acak partikel tersuspensi akibat tumbukan molekul fluida; pengamatan ini mendukung gambaran materi tersusun dari molekul yang bergerak.
+5. Perpindahan sepanjang permukaan equipotensial tidak mengubah potensial, sehingga medan mengarah tegak lurus permukaan itu.
+6. Arus induksi menentang perubahan fluks sehingga usaha diperlukan untuk menghasilkan perubahan tersebut.
+7. Kondisi batas dan sifat gelombang elektron menghasilkan keadaan energi tertentu yang diizinkan.
+8. Akurasi terkait nilai acuan, presisi terkait konsistensi pengulangan, dan resolusi terkait perubahan terkecil yang dapat dibedakan.
+9. Untuk menguji kemampuan generalisasi dan mendeteksi model yang hanya cocok pada data awal.
+10. Persamaan, asumsi, parameter, kondisi awal, metode numerik, ukuran langkah, dan data validasi.
+
+PERNYATAAN PENUTUP
+
+Naskah ini disusun sebagai bahan belajar orisinal yang menjelaskan konsep fisika dengan bahasa sendiri. Contoh dan latihan bertujuan membantu pembaca memahami hubungan antarkonsep. Untuk memastikan kualitas terbit, setiap persamaan, istilah, dan rujukan tetap perlu diperiksa oleh penyunting dan penelaah bidang fisika. Jumlah halaman final ditentukan oleh tata letak, ukuran huruf, ilustrasi, margin, serta fitur pembaca aplikasi. Angka jumlah kata hanya memberikan perkiraan awal dan bukan bukti bahwa aplikasi telah memiliki paginasi yang tepat.
+
+Akhir buku.

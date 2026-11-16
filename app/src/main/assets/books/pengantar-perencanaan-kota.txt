@@ -73,7 +73,7 @@ Evaluasi: Penilaian berdasarkan kriteria.
 CATATAN SUMBER
 Naskah Pengantar Perencanaan Kota merupakan materi pembelajaran orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, atau sumber lembaga yang sesuai dengan bidang ini. Catat penulis, judul, tahun, dan bagian yang digunakan; periksa relevansi serta tanggal pembaruan sumber.
 
-BAB 6. TATA GUNA LAHAN DAN ZONA CAMPURAN
+PENDALAMAN — TATA GUNA LAHAN DAN ZONA CAMPURAN
 Tata guna lahan menjelaskan bagaimana ruang dialokasikan untuk hunian, perdagangan, industri, fasilitas umum, pertanian, dan ruang terbuka. Pemisahan fungsi dapat mengurangi konflik tertentu, tetapi pemisahan berlebihan membuat perjalanan semakin jauh dan meningkatkan ketergantungan pada kendaraan. Konsep penggunaan lahan campuran menempatkan beberapa fungsi yang saling mendukung dalam jarak yang dapat dijangkau. Perencana perlu memeriksa skala kawasan, kapasitas jalan, ketersediaan air, risiko bencana, dan kebutuhan kelompok rentan. Perubahan zonasi juga dapat menaikkan nilai tanah dan memicu perpindahan warga jika perlindungan sosial tidak disiapkan. Peta tata ruang harus dibaca bersama aturan, tahun data, dan kondisi aktual.
 
 BAB 7. PERUMAHAN LAYAK DAN KETERJANGKAUAN

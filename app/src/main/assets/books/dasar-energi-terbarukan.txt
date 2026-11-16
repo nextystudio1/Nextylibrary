@@ -158,3 +158,33 @@ GLOSARIUM
 Daur hidup: seluruh tahap keberadaan produk atau teknologi.
 Fleksibilitas jaringan: kemampuan sistem menyesuaikan produksi dan permintaan.
 Penyimpanan energi: teknologi menyimpan energi untuk digunakan kemudian.
+BAB LANJUTAN — MENILAI POTENSI ENERGI DI SUATU WILAYAH
+Penilaian sumber energi tidak cukup dengan melihat apakah matahari bersinar atau angin bertiup. Perencana perlu mengukur pola sumber daya dalam jangka panjang, kebutuhan energi, kondisi jaringan, ruang yang tersedia, biaya, dampak lingkungan, dan penerimaan masyarakat. Data satu hari tidak mewakili kondisi satu tahun. Untuk surya, misalnya, awan, musim hujan, orientasi panel, bayangan bangunan, dan suhu memengaruhi hasil.
+Langkah awal adalah menetapkan kebutuhan layanan: berapa energi yang dipakai, kapan beban tertinggi terjadi, dan seberapa penting kontinuitas pasokan. Sekolah mungkin membutuhkan listrik paling besar pada siang hari, sedangkan rumah tangga memiliki puncak penggunaan pada pagi dan malam. Profil beban membantu menentukan kombinasi pembangkit, penyimpanan, dan penghematan.
+Contoh kajian sederhana: sebuah sekolah ingin memasang panel surya. Tim mengumpulkan tagihan listrik selama dua belas bulan, memetakan atap yang tidak terhalang, memeriksa kekuatan struktur melalui tenaga ahli, lalu membandingkan produksi perkiraan dengan pola pemakaian. Tim juga menghitung kebutuhan perawatan dan rencana pengelolaan panel pada akhir masa pakai. Hasil kajian harus menyebut asumsi serta rentang ketidakpastian, bukan menjanjikan angka produksi yang pasti.
+
+BAB LANJUTAN — SISTEM KELISTRIKAN DAN KESEIMBANGAN JARINGAN
+Listrik harus tersedia saat dibutuhkan. Operator jaringan menjaga keseimbangan antara produksi dan konsumsi setiap saat. Pembangkit surya dan angin berubah mengikuti cuaca sehingga sistem membutuhkan prakiraan, jaringan transmisi yang memadai, pembangkit fleksibel, penyimpanan, dan pengelolaan permintaan.
+Penyimpanan energi memindahkan ketersediaan energi dari satu waktu ke waktu lain. Baterai dapat merespons perubahan cepat, sedangkan penyimpanan hidro pompa memanfaatkan perbedaan ketinggian air. Setiap teknologi memiliki efisiensi, umur, kebutuhan lokasi, biaya, serta dampak rantai pasok. Penyimpanan bukan sumber energi primer; energi tetap harus dimasukkan ke sistem.
+Pengelolaan sisi permintaan mengatur waktu penggunaan tanpa menghilangkan layanan. Contohnya, pengisian kendaraan listrik dapat dijadwalkan di luar jam puncak jika pengguna dan jaringan memungkinkan. Program seperti ini perlu aturan yang adil agar kelompok yang tidak memiliki perangkat pintar tidak dirugikan.
+
+BAB LANJUTAN — ANALISIS BIAYA SEPANJANG UMUR
+Biaya teknologi energi mencakup investasi awal, pembiayaan, operasi, pemeliharaan, penggantian komponen, bahan bakar bila ada, dan pembongkaran. Membandingkan teknologi hanya dari harga pembelian dapat menyesatkan. Analisis biaya sepanjang umur menggunakan periode, tingkat diskonto, asumsi produksi, dan biaya yang dinyatakan secara transparan.
+Biaya listrik terukur per kilowatt-jam berguna untuk perbandingan, tetapi tidak menjelaskan seluruh nilai sistem. Pembangkit yang menghasilkan listrik pada siang hari memiliki nilai berbeda dari pembangkit yang dapat memasok saat malam. Lokasi, waktu produksi, keandalan, dan kebutuhan jaringan ikut menentukan.
+Dalam latihan perbandingan, gunakan asumsi yang sama untuk semua pilihan. Catat umur proyek, perkiraan produksi tahunan, penurunan kinerja, biaya perawatan, serta skenario optimistis dan konservatif. Jangan mengubah asumsi hanya agar satu pilihan tampak unggul.
+
+BAB LANJUTAN — LINGKUNGAN, KEADILAN, DAN TRANSISI
+Teknologi rendah emisi tetap memiliki jejak lingkungan. Penambangan bahan baku, penggunaan lahan dan air, pembuatan komponen, transportasi, serta pengelolaan limbah perlu dinilai. Penilaian daur hidup mengukur dampak dari tahap bahan baku hingga akhir masa pakai dengan batas sistem yang dijelaskan.
+Transisi energi juga menyangkut manusia. Pekerja dan daerah yang bergantung pada industri lama memerlukan pelatihan, perlindungan sosial, dan peluang ekonomi baru. Proyek baru sebaiknya melibatkan masyarakat sejak awal, menghormati hak atas tanah, membuka informasi dampak, serta menyediakan mekanisme pengaduan.
+Tidak ada satu teknologi yang cocok untuk semua tempat. Keputusan yang bertanggung jawab menggabungkan bukti ilmiah, kebutuhan lokal, keterjangkauan, perlindungan ekosistem, dan pemerataan akses energi.
+
+STUDI KASUS DAN LATIHAN
+Kasus: sebuah pulau kecil mengalami biaya listrik tinggi dan pasokan yang tidak stabil. Buat daftar data yang perlu dikumpulkan sebelum mengusulkan sistem energi. Pisahkan data sumber daya alam, profil beban, kondisi jaringan, kemampuan teknis lokal, biaya, dan masukan warga.
+Latihan 1: Jelaskan mengapa baterai tidak dapat disebut sumber energi primer.
+Latihan 2: Berikan tiga alasan mengapa data cuaca satu minggu tidak cukup untuk merancang pembangkit surya.
+Latihan 3: Buat tabel yang membandingkan dua pilihan energi berdasarkan biaya awal, biaya operasi, waktu produksi, kebutuhan lahan, dan dampak daur hidup.
+Latihan 4: Jelaskan siapa saja yang perlu dilibatkan dalam perencanaan transisi energi yang adil.
+Kunci pembahasan: jawaban yang baik menyebut penyimpanan sebagai pemindah waktu energi; menggunakan data musiman dan jangka panjang; membandingkan asumsi yang setara; serta melibatkan warga, pekerja, pemerintah, ahli, dan kelompok rentan. Tidak ada satu jawaban teknologi yang benar tanpa konteks wilayah.
+
+RANGKUMAN BAB
+Sistem energi harus dinilai sebagai satu kesatuan yang meliputi sumber, pembangkit, jaringan, penyimpanan, pengguna, dan tata kelola. Kinerja teknis, biaya sepanjang umur, dampak lingkungan, dan keadilan sosial saling berkaitan. Keputusan yang baik menjelaskan data, asumsi, keterbatasan, serta ketidakpastian.

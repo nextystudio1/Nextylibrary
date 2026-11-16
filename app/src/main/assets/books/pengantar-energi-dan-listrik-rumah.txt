@@ -129,3 +129,37 @@ Energi terbarukan: Energi dari sumber yang pulih secara alami dalam skala waktu 
 
 DAFTAR PUSTAKA DAN SARAN BELAJAR
 Naskah ini merupakan bahan pembelajaran orisinal yang disusun untuk NextyLibrary. Untuk topik yang memerlukan informasi mutakhir atau keputusan profesional, bandingkan dengan buku ajar, standar, dan publikasi lembaga resmi yang relevan. Catat judul, penulis/lembaga, tahun, serta bagian yang digunakan ketika menambahkan rujukan.
+
+PENDALAMAN MATERI
+
+BAB 6. DAYA, ENERGI, DAN KONSUMSI LISTRIK
+Daya listrik menyatakan laju penggunaan atau pemindahan energi dan diukur dalam watt. Energi listrik dapat dihitung dari daya dikalikan waktu. Perangkat 100 watt yang digunakan selama 5 jam memakai energi 500 watt-jam atau 0,5 kilowatt-jam. Perhitungan ini membantu memperkirakan konsumsi, tetapi daya aktual dapat berubah mengikuti mode kerja perangkat. Label daya memberi nilai acuan, bukan selalu konsumsi konstan. Catat waktu penggunaan dan periksa spesifikasi produsen. Penghematan energi dapat dilakukan melalui pemilihan perangkat efisien, pemeliharaan, pengaturan suhu yang wajar, dan mematikan perangkat yang tidak digunakan sesuai petunjuk.
+
+BAB 7. RANGKAIAN SERI DAN PARALEL
+Pada rangkaian seri, komponen tersusun dalam satu jalur sehingga arus yang sama melewati setiap komponen. Pada rangkaian paralel, terdapat cabang sehingga tegangan pada cabang ideal sama dengan tegangan sumber. Instalasi rumah menggunakan prinsip rangkaian paralel agar perangkat dapat bekerja secara independen. Jika satu perangkat dimatikan, perangkat lain tidak harus ikut padam. Perhitungan rangkaian perlu memperhatikan tegangan, arus, hambatan, dan batas komponen. Materi ini bersifat konseptual; jangan membuka stopkontak, panel listrik, atau mencoba merakit sambungan listrik rumah. Pemeriksaan instalasi harus dilakukan tenaga kompeten.
+
+BAB 8. PENGAMAN DAN KESELAMATAN
+Instalasi listrik memiliki pengaman seperti pemutus arus dan sistem pembumian yang dirancang untuk mengurangi risiko. Pengaman harus sesuai kapasitas instalasi dan dipasang dengan benar. Kabel rusak, stopkontak longgar, bau terbakar, atau perangkat yang terasa tidak normal merupakan tanda untuk menghentikan penggunaan dan meminta pemeriksaan orang dewasa atau teknisi berwenang. Jangan menyentuh kabel terbuka atau peralatan listrik yang terkena air. Jangan membebani satu terminal dengan banyak perangkat. Keselamatan lebih penting daripada mencoba memperbaiki sendiri. Ikuti petunjuk produsen dan standar kelistrikan setempat.
+
+BAB 9. ENERGI TERBARUKAN DI RUMAH
+Panel surya mengubah sebagian energi cahaya menjadi energi listrik. Keluaran dipengaruhi intensitas cahaya, orientasi, suhu, bayangan, dan efisiensi sistem. Sistem surya rumah dapat terhubung jaringan atau menggunakan penyimpanan, dengan rancangan dan pengamanan yang berbeda. Pemanas air surya memanfaatkan energi matahari untuk menaikkan suhu air. Evaluasi teknologi perlu mempertimbangkan biaya awal, perawatan, umur pakai, kebutuhan energi, dan kondisi lokasi. Jangan menganggap energi terbarukan tanpa dampak; bahan, produksi, transportasi, dan akhir masa pakai juga memiliki jejak lingkungan.
+
+BAB 10. AUDIT ENERGI SEDERHANA
+Audit energi dimulai dengan daftar perangkat, daya tertera, perkiraan jam pemakaian, dan frekuensi penggunaan. Perkiraan energi harian dapat dihitung dengan mengalikan daya dalam kilowatt dengan waktu dalam jam. Hasil tiap perangkat dijumlahkan untuk mendapat perkiraan total. Periksa perangkat yang menyala lama dan peluang penghematan yang tidak mengurangi keselamatan atau kebutuhan penting. Bandingkan perkiraan dengan tagihan untuk melihat apakah asumsi masuk akal. Perbedaan dapat terjadi karena daya aktual berubah, pemakaian tidak tercatat, atau perangkat lain ikut menggunakan energi. Audit sederhana membantu membuat keputusan berbasis data.
+
+STUDI KASUS
+Sebuah keluarga ingin memperkirakan penggunaan lampu 10 watt yang menyala 6 jam setiap hari. Energi harian lampu tersebut adalah 0,01 kW x 6 jam = 0,06 kWh. Jika ada lima lampu dengan pola sama, perkiraan menjadi 0,3 kWh per hari. Angka ini adalah perkiraan berdasarkan daya dan waktu, bukan pengukuran langsung. Penghematan dapat dibandingkan setelah mengganti lampu dengan perangkat lebih efisien.
+
+LATIHAN DAN PEMBAHASAN
+1. Perangkat 200 W digunakan 3 jam. Energi yang dipakai 0,2 kW x 3 = 0,6 kWh.
+2. Apa perbedaan daya dan energi? Daya adalah laju penggunaan energi, energi adalah jumlah yang digunakan selama waktu tertentu.
+3. Mengapa rangkaian rumah umumnya paralel? Agar perangkat mendapat tegangan kerja dan dapat beroperasi lebih independen.
+4. Sebutkan tiga tanda instalasi perlu diperiksa teknisi: kabel rusak, bau terbakar, stopkontak longgar atau panas tidak wajar.
+5. Mengapa audit energi menggunakan perkiraan? Karena daya aktual dan waktu penggunaan dapat berubah.
+
+GLOSARIUM
+Daya: laju penggunaan atau pemindahan energi.
+Energi listrik: energi yang dipindahkan melalui gejala listrik.
+Kilowatt-jam: satuan energi listrik.
+Pembumian: sistem penghubung ke bumi untuk keselamatan.
+Rangkaian paralel: rangkaian dengan beberapa cabang.

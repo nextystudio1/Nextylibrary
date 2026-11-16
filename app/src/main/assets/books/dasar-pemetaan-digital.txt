@@ -134,3 +134,51 @@ Kartografi: ilmu dan praktik pembuatan peta.
 Klasifikasi: pengelompokan nilai data ke dalam kelas.
 Pemetaan partisipatif: pemetaan yang melibatkan komunitas terkait.
 Ketidakpastian: keterbatasan kepastian pada posisi, atribut, waktu, atau cakupan data.
+
+BAB 12. SISTEM KOORDINAT DAN PROYEKSI PETA
+
+Koordinat geografis menyatakan posisi menggunakan lintang dan bujur pada permukaan bumi. Sistem koordinat terproyeksi memindahkan representasi permukaan melengkung ke bidang datar agar pengukuran tertentu lebih mudah. Tidak ada proyeksi datar yang dapat mempertahankan seluruh sifat bentuk, luas, jarak, dan arah sekaligus pada semua lokasi.
+
+Pemilihan sistem koordinat harus sesuai wilayah dan tujuan analisis. Data dari sistem berbeda perlu ditransformasikan dengan parameter yang benar. Kesalahan datum atau zona proyeksi dapat menyebabkan pergeseran lokasi. Metadata harus mencatat sistem koordinat, satuan, dan proses transformasi.
+
+BAB 13. KETELITIAN, RESOLUSI, DAN KETIDAKPASTIAN
+
+Ketelitian posisi menunjukkan kedekatan lokasi data dengan posisi sebenarnya menurut metode acuan. Resolusi menggambarkan tingkat detail spasial, sedangkan skala peta memengaruhi detail yang dapat ditampilkan. Data beresolusi tinggi tidak otomatis akurat jika sumber atau proses pengukurannya bermasalah.
+
+Ketidakpastian juga terdapat pada atribut, waktu, klasifikasi, dan kelengkapan. Peta batas administrasi dapat berbeda karena sumber, tanggal, atau definisi yang digunakan. Sebelum menggabungkan data, periksa skema atribut, satuan, tahun, metode, dan kualitas. Hindari menampilkan angka presisi berlebihan yang tidak didukung data.
+
+BAB 14. PENGINDERAAN JAUH DAN CITRA SATELIT
+
+Penginderaan jauh memperoleh informasi objek tanpa kontak langsung, misalnya melalui sensor satelit atau pesawat. Sensor pasif merekam energi alami yang dipantulkan atau dipancarkan, sedangkan sensor aktif memancarkan energi dan mengukur pantulannya. Setiap sensor memiliki resolusi spasial, spektral, radiometrik, dan temporal yang berbeda.
+
+Citra dapat terpengaruh awan, bayangan, sudut pengamatan, atmosfer, dan kondisi permukaan. Klasifikasi tutupan lahan memerlukan data pelatihan dan pemeriksaan akurasi. Perubahan warna pada citra tidak selalu menunjukkan perubahan objek; metode koreksi dan pembandingan harus dijelaskan.
+
+BAB 15. ANALISIS JARINGAN DAN KETERJANGKAUAN
+
+Analisis jaringan menggunakan hubungan antarsegmen untuk menghitung rute, waktu perjalanan, atau jangkauan layanan. Jaringan jalan perlu memiliki konektivitas, arah, pembatasan, dan atribut kecepatan yang sesuai. Hasil rute merupakan model dan dapat berbeda dari kondisi nyata karena kemacetan, penutupan, atau hambatan yang tidak tercatat.
+
+Analisis jangkauan fasilitas dapat membantu perencanaan sekolah, layanan kesehatan, dan transportasi. Namun, jarak bukan satu-satunya ukuran akses. Biaya, jam layanan, kapasitas, keselamatan, dan kebutuhan pengguna juga perlu dipertimbangkan. Sajikan hasil secara agregat agar tidak membuka lokasi sensitif individu.
+
+BAB 16. GEOPROSES DAN ANALISIS TUMPANG SUSUN
+
+Operasi tumpang susun menggabungkan beberapa lapisan untuk menjawab pertanyaan spasial. Contohnya, analisis kesesuaian lokasi dapat mempertimbangkan kemiringan, akses jalan, penggunaan lahan, dan kawasan lindung. Bobot setiap kriteria harus dijelaskan karena pilihan bobot dapat mengubah hasil.
+
+Buffer menunjukkan wilayah pada jarak tertentu dari fitur, tetapi hasilnya bergantung pada sistem koordinat dan metode jarak. Interpolasi memperkirakan nilai di lokasi yang tidak diukur berdasarkan data sampel dan asumsi tertentu. Hasil analisis spasial harus divalidasi dan tidak boleh dianggap sebagai kebenaran otomatis.
+
+BAB 17. ETIKA PEMETAAN DAN TATA KELOLA DATA
+
+Peta dapat mengungkap lokasi rumah, fasilitas sensitif, kelompok rentan, atau pola aktivitas. Pengumpulan dan publikasi harus memiliki tujuan yang sah, membatasi data yang dikumpulkan, serta mengurangi risiko identifikasi. Pemetaan partisipatif perlu menjelaskan bagaimana data digunakan dan siapa yang dapat mengaksesnya.
+
+Peta juga dapat memperkuat ketimpangan jika hanya menampilkan wilayah yang datanya lengkap. Catat daerah tanpa data dan jangan menafsirkannya sebagai tidak memiliki masalah. Berikan kesempatan bagi komunitas untuk memeriksa representasi wilayahnya dan mengoreksi kesalahan yang relevan.
+
+PROYEK: PETA AKSES FASILITAS PUBLIK
+
+Gunakan data terbuka yang memiliki izin penggunaan. Tentukan wilayah, fasilitas, jaringan, dan indikator akses. Periksa sistem koordinat, tanggal, dan kelengkapan. Buat peta yang menunjukkan metode serta keterbatasan. Hindari menampilkan alamat pribadi dan jangan menyimpulkan kebutuhan individu dari data agregat.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa proyeksi peta diperlukan? Untuk merepresentasikan permukaan bumi pada bidang datar sesuai tujuan.
+2. Apakah resolusi tinggi menjamin akurasi? Tidak; kualitas sumber dan metode tetap menentukan.
+3. Apa perbedaan sensor pasif dan aktif? Sensor pasif menerima energi alami; sensor aktif memancarkan energi sendiri.
+4. Mengapa analisis jaringan perlu atribut arah dan hambatan? Agar rute model mendekati kondisi perjalanan sebenarnya.
+5. Mengapa data spasial perlu perlindungan privasi? Karena lokasi dapat mengungkap identitas atau aktivitas sensitif.

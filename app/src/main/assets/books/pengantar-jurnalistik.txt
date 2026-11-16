@@ -174,3 +174,31 @@ Embargo: Kesepakatan waktu publikasi informasi.
 
 CATATAN BELAJAR DAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar dan publikasi lembaga kompeten. Catat penulis atau lembaga, judul, tahun, dan bagian sumber. Periksa tanggal pembaruan terutama untuk pengetahuan yang berkembang, peraturan, teknologi, dan data statistik.
+
+BAB LANJUTAN: KERJA REDAKSI DAN PRODUKSI BERITA
+
+1. Alur kerja redaksi
+Pekerjaan jurnalistik dimulai dari penentuan isu dan pertanyaan liputan. Reporter menyusun rencana, mencari narasumber, mengumpulkan dokumen, memeriksa data, menulis, lalu menyerahkan naskah untuk penyuntingan. Editor memeriksa akurasi, kejelasan, kepentingan publik, keseimbangan, serta risiko terhadap pihak yang diberitakan. Setelah terbit, redaksi tetap bertanggung jawab menanggapi koreksi.
+
+2. Menentukan nilai berita
+Nilai berita dapat mencakup dampak terhadap masyarakat, kedekatan, kebaruan, konflik kepentingan, tokoh yang terlibat, dan relevansi. Nilai berita bukan alasan untuk membesar-besarkan kejadian. Judul harus mencerminkan isi dan tidak boleh menjanjikan sesuatu yang tidak dibuktikan naskah.
+
+3. Wawancara yang bertanggung jawab
+Sebelum wawancara, jelaskan identitas dan tujuan peliputan. Siapkan pertanyaan terbuka, dengarkan jawaban, dan minta penjelasan ketika ada istilah yang kabur. Bedakan kutipan langsung dari parafrasa. Jangan mengubah makna jawaban dengan memotong konteks. Untuk informasi yang merugikan seseorang, berikan kesempatan yang wajar untuk menanggapi.
+
+4. Verifikasi dokumen dan data
+Periksa keaslian dokumen, tanggal, pembuat, konteks, dan kelengkapan. Untuk data statistik, cari definisi variabel, metode pengumpulan, ukuran sampel, periode, dan batas interpretasi. Angka tanpa konteks dapat menyesatkan. Simpan catatan sumber agar editor dapat menelusuri setiap klaim penting.
+
+5. Etika dan perlindungan narasumber
+Jangan menjanjikan kerahasiaan tanpa memahami kemampuan redaksi melindungi identitas. Hindari memublikasikan alamat, nomor kontak, atau rincian pribadi yang tidak relevan. Berhati-hatilah ketika meliput anak, korban, atau orang dalam situasi rentan. Kepentingan publik harus ditimbang dengan potensi dampak publikasi.
+
+6. Koreksi dan transparansi
+Kesalahan faktual harus diperbaiki dengan jelas. Catatan koreksi sebaiknya menyebut bagian yang salah dan informasi yang benar, bukan menghapus jejak kesalahan secara diam-diam. Jika berita berkembang, perbarui konteks dan beri penanda waktu pembaruan.
+
+CONTOH PENYUNTINGAN
+Kalimat awal: “Semua warga menolak proyek tersebut.”
+Masalah: kata “semua” membutuhkan bukti yang sangat kuat.
+Perbaikan: “Sejumlah warga yang diwawancarai menyampaikan keberatan terhadap proyek tersebut.” Tambahkan jumlah narasumber, lokasi, dan tanggapan pihak terkait agar pembaca memahami cakupannya.
+
+LATIHAN
+Buat rancangan berita tentang fasilitas umum di lingkungan sekolah. Susun lima pertanyaan, daftar dokumen yang perlu diperiksa, pihak yang perlu dimintai tanggapan, dan risiko privasi yang harus dihindari.

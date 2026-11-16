@@ -129,3 +129,51 @@ LATIHAN
 3. Jelaskan mengapa pengurangan limbah perlu dukungan sistem.
 4. Bedakan paparan dan kerentanan.
 5. Apa prinsip etika saat melakukan wawancara komunitas?
+
+BAB 12. EKOLOGI POLITIK DAN DISTRIBUSI SUMBER DAYA
+
+Ekologi manusia mempelajari hubungan timbal balik manusia, masyarakat, dan lingkungan. Ekologi politik menambahkan perhatian pada kekuasaan: siapa menguasai lahan, siapa memperoleh manfaat, siapa menanggung pencemaran, dan siapa dapat memengaruhi keputusan. Konflik lingkungan sering bukan semata kekurangan sumber daya, tetapi juga persoalan akses, hak, dan pembagian risiko.
+
+Analisis perlu menghindari gambaran bahwa komunitas selalu seragam. Dalam satu wilayah, kepentingan pemilik lahan, pekerja, perempuan, pemuda, kelompok adat, dan pendatang dapat berbeda. Penelitian yang baik menjelaskan variasi tersebut tanpa memberi label sederhana pada seluruh kelompok.
+
+BAB 13. KOTA, INFRASTRUKTUR, DAN KETIMPANGAN LINGKUNGAN
+
+Jalan, drainase, transportasi umum, jaringan air, dan ruang terbuka membentuk pengalaman lingkungan sehari-hari. Infrastruktur yang tidak merata dapat membuat sebagian warga lebih lama bepergian, lebih rentan terhadap banjir, atau memiliki akses lebih rendah ke ruang hijau. Penilaian kota tidak cukup dengan menghitung jumlah fasilitas; lokasi, kualitas, keterjangkauan, dan aksesibilitas juga penting.
+
+Konsep keadilan lingkungan menanyakan apakah kelompok tertentu mengalami beban lingkungan yang tidak proporsional dan apakah mereka dilibatkan dalam keputusan. Peta dapat membantu melihat pola, tetapi data agregat berisiko menyembunyikan kondisi tingkat rumah tangga. Pemetaan partisipatif dapat melengkapi data resmi dengan pengetahuan warga.
+
+BAB 14. PANGAN, AIR, DAN JEJAK EKOLOGIS
+
+Konsumsi perkotaan bergantung pada wilayah produksi yang sering berada jauh dari konsumen. Air, energi, lahan, dan bahan baku digunakan sepanjang rantai pasok. Jejak ekologis atau jejak air dapat menjadi alat untuk menelusuri tekanan tersebut, tetapi hasilnya bergantung pada batas sistem, metode, dan asumsi. Angka jejak tidak boleh diperlakukan sebagai ukuran tunggal keberlanjutan.
+
+Ketahanan pangan dan air dipengaruhi infrastruktur, kualitas lingkungan, tata kelola, harga, dan perubahan iklim. Gangguan di satu bagian rantai dapat berdampak pada banyak wilayah. Diversifikasi sumber, perlindungan daerah tangkapan air, pengurangan kehilangan, dan sistem distribusi yang adil dapat memperkuat ketahanan.
+
+BAB 15. PERUBAHAN PENGGUNAAN LAHAN DAN MIGRASI
+
+Perubahan penggunaan lahan dapat mengubah mata pencaharian, hubungan sosial, akses terhadap sumber daya, dan risiko bencana. Migrasi dapat menjadi strategi rumah tangga untuk menghadapi perubahan ekonomi atau lingkungan, tetapi tidak semua orang memiliki kemampuan untuk berpindah. Sebagian warga tetap tinggal karena ikatan sosial, keterbatasan biaya, atau pilihan hidup.
+
+Hindari menyebut setiap perpindahan sebagai “migrasi iklim”. Keputusan berpindah biasanya dipengaruhi banyak faktor yang saling terkait. Penelitian perlu membedakan bukti, persepsi, dan dugaan hubungan sebab-akibat. Kebijakan perlu melindungi hak warga dan menyediakan proses konsultasi yang bermakna.
+
+BAB 16. PENGETAHUAN LOKAL DAN KOLABORASI
+
+Masyarakat mengembangkan pengetahuan berdasarkan pengalaman panjang dengan musim, tanah, air, tumbuhan, dan perubahan lingkungan. Pengetahuan lokal bukan pengganti semua metode ilmiah, dan metode ilmiah bukan alasan untuk mengabaikan pengalaman warga. Kolaborasi dapat menguji kesesuaian temuan, mengungkap perubahan yang tidak tercatat, dan membantu merancang solusi yang dapat diterima.
+
+Peneliti harus menjelaskan tujuan, meminta persetujuan, menghormati batas informasi, dan menyepakati cara penggunaan hasil. Komunitas bukan sekadar sumber data. Mereka perlu memperoleh akses pada hasil dan kesempatan memberi tanggapan.
+
+BAB 17. MERANCANG INTERVENSI LINGKUNGAN SOSIAL
+
+Intervensi perlu dimulai dari pemetaan masalah dan pihak terkait. Tetapkan tujuan yang terukur, kegiatan, sumber daya, risiko, serta indikator hasil. Bedakan keluaran langsung seperti jumlah tempat sampah dari hasil seperti perubahan pengelolaan limbah. Perubahan perilaku jarang terjadi hanya karena satu kampanye; dukungan fasilitas, insentif, norma sosial, dan tata kelola juga berpengaruh.
+
+Evaluasi perlu memeriksa siapa yang mendapat manfaat dan siapa yang mungkin dirugikan. Program ruang hijau, misalnya, dapat meningkatkan kualitas lingkungan tetapi juga memicu kenaikan harga sewa. Dampak tidak langsung harus dipantau agar perbaikan tidak menciptakan ketidakadilan baru.
+
+STUDI KASUS: PENGELOLAAN SAMPAH DI KAWASAN PADAT
+
+Susun peta aliran sampah dari rumah tangga ke pengumpulan dan pengolahan. Identifikasi titik penumpukan, pihak yang bekerja, fasilitas yang tersedia, serta hambatan perilaku dan layanan. Wawancara hanya dilakukan dengan persetujuan dan tanpa mengumpulkan data pribadi yang tidak diperlukan. Rancang dua pilihan perbaikan dan bandingkan biaya, manfaat, akses, dan risiko.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Apa fokus tambahan ekologi politik? Kekuasaan dan distribusi manfaat serta beban lingkungan.
+2. Mengapa jumlah fasilitas tidak cukup menilai akses? Karena lokasi, kualitas, biaya, dan kemampuan menggunakan juga menentukan akses.
+3. Mengapa istilah migrasi iklim perlu hati-hati? Perpindahan biasanya memiliki banyak penyebab yang saling terkait.
+4. Apa manfaat pengetahuan lokal? Memberi konteks pengalaman dan perubahan yang mungkin tidak tertangkap data formal.
+5. Mengapa intervensi perlu memeriksa dampak tidak langsung? Agar solusi tidak memindahkan atau memperbesar masalah bagi kelompok lain.

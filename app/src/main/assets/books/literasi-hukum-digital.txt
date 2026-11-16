@@ -71,7 +71,7 @@ Naskah Literasi Hukum Digital merupakan materi pembelajaran orisinal Nexty Studi
 
 PENDALAMAN MATERI
 
-BAB 6. IDENTITAS DAN PRIVASI DIGITAL
+PENDALAMAN — IDENTITAS DAN PRIVASI DIGITAL
 Identitas digital terbentuk dari informasi yang seseorang bagikan, aktivitas akun, dan data yang dikumpulkan layanan. Nama pengguna, foto, lokasi, daftar kontak, serta kebiasaan penggunaan dapat menjadi bagian dari jejak digital. Tidak semua informasi perlu dibagikan kepada setiap layanan. Prinsip minimisasi data berarti hanya memberikan informasi yang benar-benar diperlukan. Sebelum mengisi formulir, periksa tujuan pengumpulan, pihak yang mengelola, masa penyimpanan, dan cara meminta penghapusan jika tersedia. Gunakan pengaturan privasi dan kata sandi unik. Jangan mengunggah dokumen identitas atau informasi lokasi sensitif secara terbuka. Privasi bukan berarti menyembunyikan kesalahan; privasi adalah kendali yang wajar atas informasi pribadi.
 
 BAB 7. HAK CIPTA DAN LISENSI KONTEN

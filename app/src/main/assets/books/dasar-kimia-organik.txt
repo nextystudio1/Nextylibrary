@@ -126,3 +126,45 @@ LATIHAN
 3. Terapkan konsep tersebut pada satu kasus baru dan uraikan alasannya.
 4. Mengapa identifikasi gugus fungsi saja belum cukup untuk memprediksi seluruh sifat fisik suatu senyawa?
 5. Informasi apa yang masih diperlukan agar kesimpulan lebih kuat?
+
+BAB 16. STEREOKIMIA DAN KIRALITAS
+
+Stereokimia mempelajari susunan ruang atom dalam molekul. Dua molekul dapat memiliki rumus dan urutan ikatan yang sama, tetapi susunan ruang berbeda. Isomer geometri muncul ketika rotasi terhalang, misalnya pada ikatan rangkap atau struktur cincin. Konfigurasi cis dan trans dapat menghasilkan perbedaan sifat fisik maupun interaksi biologis.
+
+Kiralitas terjadi ketika suatu objek tidak dapat ditumpangtindihkan dengan bayangan cerminnya. Pada molekul, pusat kiral sering berupa atom karbon yang terikat pada empat substituen berbeda. Pasangan enantiomer memiliki hubungan seperti tangan kiri dan kanan. Dalam lingkungan biologis yang juga kiral, enantiomer dapat berinteraksi secara berbeda dengan enzim atau reseptor. Karena itu, identitas stereokimia penting dalam kimia obat, pangan, dan bahan.
+
+BAB 17. MEKANISME REAKSI DAN INTERMEDIAT
+
+Mekanisme reaksi menggambarkan urutan perubahan ikatan yang menjelaskan bagaimana pereaksi menjadi produk. Panah lengkung dalam notasi mekanisme menunjukkan perpindahan pasangan elektron, bukan lintasan atom. Penjelasan mekanisme perlu konsisten dengan struktur pereaksi, kondisi reaksi, produk, dan bukti eksperimen.
+
+Intermediat seperti karbokation, karbanion, dan radikal memiliki kestabilan yang berbeda. Faktor seperti resonansi, efek induktif, pelarut, dan hambatan sterik dapat memengaruhi jalur reaksi. Mekanisme yang diusulkan merupakan model penjelasan dan harus dinilai berdasarkan data, bukan sekadar karena tampak masuk akal.
+
+BAB 18. KIMIA KARBONIL
+
+Gugus karbonil terdapat pada aldehida, keton, asam karboksilat, ester, amida, dan turunan lainnya. Ikatan karbonil bersifat polar sehingga atom karbon dapat menjadi pusat yang rentan terhadap serangan nukleofil. Namun, reaktivitas masing-masing turunan berbeda karena pengaruh substituen dan kestabilan gugus pergi.
+
+Aldehida dan keton banyak dibahas melalui reaksi adisi, sedangkan turunan asam karboksilat dapat mengalami substitusi asil. Perbedaan ini membantu menjelaskan mengapa struktur yang tampak serupa dapat memiliki pola reaksi berbeda. Dalam pembelajaran, buat tabel yang membandingkan struktur, sifat, contoh penggunaan, dan risiko bahan.
+
+BAB 19. POLIMER DAN HUBUNGAN STRUKTUR-SIFAT
+
+Polimer terbentuk dari unit berulang yang dihubungkan menjadi rantai. Polimerisasi adisi dan kondensasi merupakan dua kategori umum yang memiliki mekanisme serta hasil samping berbeda. Panjang rantai, distribusi massa molekul, percabangan, kristalinitas, dan ikatan silang memengaruhi kekuatan, kelenturan, transparansi, serta ketahanan panas.
+
+Termoplastik dapat dilunakkan kembali melalui pemanasan dalam kondisi tertentu, sedangkan termoset membentuk jaringan yang tidak mudah dilelehkan ulang. Elastomer mampu mengalami deformasi besar dan kembali mendekati bentuk awal. Kategori ini membantu memilih material, tetapi perilaku produk juga dipengaruhi aditif, proses pembuatan, penuaan, dan kondisi penggunaan.
+
+BAB 20. KIMIA HIJAU DAN PENILAIAN SIKLUS HIDUP
+
+Kimia hijau berupaya merancang produk dan proses yang mengurangi penggunaan serta pembentukan zat berbahaya. Prinsipnya mencakup pencegahan limbah, efisiensi atom, pelarut yang lebih aman, efisiensi energi, bahan baku terbarukan, dan desain untuk degradasi yang sesuai. Klaim “alami” atau “ramah lingkungan” perlu diuji; asal bahan saja tidak cukup untuk menilai dampak.
+
+Penilaian siklus hidup menelaah dampak dari ekstraksi bahan baku hingga produksi, distribusi, penggunaan, dan akhir masa pakai. Hasil bergantung pada unit fungsional, batas sistem, data, dan asumsi. Membandingkan dua kemasan, misalnya, harus mempertimbangkan fungsi yang sama, berat, jumlah penggunaan, transportasi, dan pengelolaan limbah.
+
+STUDI KASUS: MEMILIH BAHAN KEMASAN
+
+Sebuah usaha kecil ingin mengganti kemasan produknya. Tim membandingkan beberapa bahan berdasarkan perlindungan produk, kebutuhan bahan, biaya, keselamatan kontak pangan, kemampuan didaur ulang di wilayah setempat, dan dampak transportasi. Jangan menyimpulkan satu bahan selalu unggul. Pilihan yang baik bergantung pada sistem pengumpulan, kebiasaan pengguna, serta tujuan produk.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa enantiomer dapat memiliki efek biologis berbeda? Karena lingkungan biologis bersifat kiral dan dapat mengenali susunan ruang secara berbeda.
+2. Apa fungsi mekanisme reaksi? Menjelaskan urutan perubahan ikatan yang menghasilkan produk.
+3. Mengapa turunan karbonil memiliki reaktivitas berbeda? Karena struktur dan kestabilan gugus pergi memengaruhi jalur reaksi.
+4. Sebutkan faktor yang memengaruhi sifat polimer. Panjang rantai, percabangan, kristalinitas, ikatan silang, dan aditif.
+5. Mengapa label ramah lingkungan perlu bukti? Karena dampak bergantung pada seluruh siklus hidup dan konteks penggunaan.

@@ -169,3 +169,34 @@ Kesejahteraan: keadaan yang mendukung fungsi dan kualitas hidup.
 Sanitasi: pengelolaan lingkungan untuk menjaga kebersihan dan kesehatan.
 Rehabilitasi: dukungan untuk memulihkan atau meningkatkan fungsi.
 Konflik kepentingan: keadaan ketika kepentingan pribadi dapat memengaruhi penilaian.
+
+BAB LANJUTAN: LITERASI INFORMASI KESEHATAN
+
+Informasi kesehatan ditemukan melalui tenaga kesehatan, lembaga pemerintah, media, komunitas, dan platform digital. Kualitasnya berbeda-beda. Sebelum mempercayai klaim, periksa siapa penerbitnya, kapan diperbarui, bukti yang digunakan, apakah ada konflik kepentingan, dan apakah informasi sesuai dengan kelompok yang dibahas.
+
+Judul sensasional sering menyederhanakan hasil penelitian. Studi pada hewan, penelitian laboratorium, pengamatan populasi, dan uji klinis menjawab pertanyaan yang berbeda. Hubungan statistik tidak selalu menunjukkan sebab-akibat. Satu penelitian jarang cukup untuk mengubah rekomendasi kesehatan yang sudah didukung banyak bukti.
+
+Untuk keputusan pribadi, informasi umum tidak menggantikan penilaian tenaga kesehatan. Catat pertanyaan, gejala yang relevan, riwayat yang perlu disampaikan, dan sumber informasi yang membingungkan. Hindari menghentikan atau mengubah perawatan berdasarkan unggahan yang belum diverifikasi.
+
+BAB LANJUTAN: PENCEGAHAN PENYAKIT DAN KESEHATAN KOMUNITAS
+
+Pencegahan dapat dilakukan pada tingkat individu, lingkungan, dan sistem layanan. Kebersihan tangan, keamanan pangan, imunisasi sesuai program kesehatan, ventilasi yang baik, dan akses air bersih merupakan contoh upaya yang memiliki konteks penerapan masing-masing. Tidak ada satu tindakan yang menyelesaikan seluruh risiko.
+
+Kesehatan komunitas dipengaruhi kondisi perumahan, pekerjaan, pendidikan, transportasi, kualitas lingkungan, dan akses layanan. Karena itu, edukasi saja tidak cukup jika masyarakat tidak memiliki sarana untuk menerapkan perilaku sehat. Program yang baik menggabungkan informasi dengan perbaikan kondisi pendukung.
+
+Komunikasi risiko perlu menyampaikan tingkat ketidakpastian secara jujur. Hindari menyalahkan kelompok tertentu atau memberi stigma kepada orang yang mengalami penyakit. Informasi harus melindungi privasi dan mengarahkan masyarakat pada layanan resmi.
+
+BAB LANJUTAN: MEMAHAMI LAYANAN KESEHATAN DAN HAK PASIEN
+
+Layanan kesehatan memiliki tingkat dan fungsi berbeda, dari promosi kesehatan hingga perawatan lanjutan. Pengguna perlu memahami jalur layanan setempat, cara membuat janji, dokumen yang diperlukan, serta saluran bantuan ketika menghadapi hambatan. Ketentuan administrasi dapat berubah sehingga perlu diperiksa melalui sumber resmi.
+
+Komunikasi yang baik antara pasien dan tenaga kesehatan mencakup penjelasan tujuan tindakan, manfaat, risiko, alternatif, dan kesempatan bertanya sesuai konteks. Pasien berhak diperlakukan dengan hormat dan privasinya dijaga sesuai aturan. Pendamping dapat membantu jika pasien menghendaki.
+
+Catatan kesehatan merupakan informasi sensitif. Simpan dengan aman dan bagikan hanya kepada pihak yang relevan. Jika tidak memahami istilah atau instruksi, mintalah penjelasan ulang daripada menebak.
+
+LATIHAN PENDALAMAN
+1. Apa saja yang perlu diperiksa sebelum mempercayai klaim kesehatan?
+2. Mengapa studi laboratorium tidak otomatis menjadi rekomendasi klinis?
+3. Mengapa edukasi kesehatan perlu disertai dukungan lingkungan?
+4. Apa unsur komunikasi risiko yang bertanggung jawab?
+5. Mengapa catatan kesehatan perlu dilindungi?

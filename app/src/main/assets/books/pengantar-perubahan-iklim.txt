@@ -127,3 +127,40 @@ LATIHAN PENDALAMAN
 3. Bandingkan mitigasi dan adaptasi melalui contoh.
 4. Sebutkan tiga hal yang harus diperiksa sebelum menafsirkan grafik iklim.
 5. Jelaskan mengapa kebijakan iklim perlu memperhatikan keadilan.
+
+BAB 12. NERACA ENERGI BUMI DAN UMPAN BALIK IKLIM
+
+Iklim bumi dipengaruhi keseimbangan antara energi matahari yang masuk dan energi yang dipantulkan atau dipancarkan kembali ke angkasa. Permukaan, awan, aerosol, dan gas rumah kaca memengaruhi aliran energi tersebut. Gas rumah kaca menyerap dan memancarkan radiasi inframerah sehingga mengubah suhu lapisan bawah atmosfer. Efek rumah kaca alami memungkinkan bumi memiliki suhu yang mendukung kehidupan; peningkatan konsentrasi gas rumah kaca akibat aktivitas manusia memperkuat efek tersebut.
+
+Umpan balik iklim dapat memperbesar atau mengurangi perubahan awal. Ketika es dan salju berkurang, permukaan yang lebih gelap menyerap lebih banyak energi matahari. Uap air juga merupakan gas rumah kaca dan kadarnya di atmosfer dipengaruhi suhu. Umpan balik bukan penyebab awal yang berdiri sendiri; ia mengubah besarnya respons sistem.
+
+BAB 13. LAUT, ES, DAN KENAIKAN MUKA AIR
+
+Laut menyerap sebagian besar kelebihan panas dalam sistem iklim dan menyimpan karbon. Pemanasan air menyebabkan pemuaian termal, salah satu penyebab kenaikan muka laut. Hilangnya massa gletser dan lapisan es daratan menambah air ke laut. Perubahan muka laut relatif di suatu pantai juga dipengaruhi penurunan atau pengangkatan daratan, arus, angin, dan bentuk pesisir.
+
+Dampak pesisir meliputi banjir rob, erosi, intrusi air asin, dan gangguan ekosistem. Risiko tidak hanya ditentukan bahaya fisik, tetapi juga paparan penduduk dan aset serta kerentanan sosial. Perlindungan pantai perlu membandingkan pendekatan ekosistem, penataan ruang, infrastruktur, dan relokasi yang adil bila diperlukan.
+
+BAB 14. KARBON, LAHAN, DAN EKOSISTEM
+
+Hutan, tanah, lahan basah, dan laut berperan dalam siklus karbon. Perubahan tutupan lahan dapat melepaskan karbon tersimpan atau mengurangi kemampuan ekosistem menyerap karbon. Kebakaran, pengeringan lahan gambut, degradasi tanah, dan perubahan penggunaan lahan memiliki konsekuensi iklim serta keanekaragaman hayati.
+
+Penilaian serapan karbon perlu memperhitungkan permanensi, kebocoran, tambahan manfaat dibanding keadaan tanpa proyek, dan kemungkinan penghitungan ganda. Penanaman pohon bukan pengganti otomatis pengurangan emisi dari sumber fosil. Jenis ekosistem, kondisi tanah, air, dan kebutuhan masyarakat setempat harus menjadi pertimbangan.
+
+BAB 15. MEMBANDINGKAN SKENARIO DAN KETIDAKPASTIAN
+
+Proyeksi iklim bukan ramalan cuaca untuk tanggal tertentu. Proyeksi menggambarkan kemungkinan kondisi jangka panjang berdasarkan asumsi emisi, penggunaan lahan, dan respons sistem. Skenario berbeda membantu memahami rentang masa depan yang mungkin terjadi. Ketidakpastian berasal dari variasi alamiah, keterbatasan pengamatan, model, serta keputusan manusia di masa mendatang.
+
+Saat membaca laporan, periksa periode acuan, wilayah, variabel, skenario, dan rentang ketidakpastian. Hindari mengambil satu angka dari grafik lalu menerapkannya ke semua lokasi. Informasi global perlu diterjemahkan dengan data lokal dan pengetahuan masyarakat.
+
+LATIHAN ANALISIS IKLIM
+
+1. Jelaskan perbedaan efek rumah kaca alami dan penguatan efek rumah kaca.
+2. Berikan contoh umpan balik positif dalam sistem iklim.
+3. Mengapa kenaikan muka laut relatif dapat berbeda antarpesisir?
+4. Jelaskan empat hal yang perlu diperiksa dalam klaim kredit karbon.
+5. Apa perbedaan proyeksi iklim dan prakiraan cuaca?
+6. Pilih satu dampak iklim dan buat rantai sebab-akibat dari bahaya hingga konsekuensi sosial.
+
+PEMBAHASAN SINGKAT
+
+Umpan balik positif memperbesar perubahan awal, sedangkan istilah positif tidak berarti dampaknya baik. Muka laut relatif berbeda karena selain perubahan laut, gerak vertikal daratan juga berpengaruh. Klaim karbon perlu diuji terhadap tambahan manfaat, permanensi, kebocoran, dan penghitungan ganda. Proyeksi iklim membahas pola jangka panjang berdasarkan skenario; prakiraan cuaca membahas kondisi atmosfer pada waktu dan tempat tertentu.

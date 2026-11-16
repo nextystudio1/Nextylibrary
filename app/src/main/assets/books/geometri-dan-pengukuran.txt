@@ -70,7 +70,7 @@ Saat memperdalam Geometri dan Pengukuran, bandingkan penjelasan buku ini dengan 
 
 PENDALAMAN MATERI
 
-BAB 6. SKALA, DENAH, DAN PETA
+PENDALAMAN — SKALA, DENAH, DAN PETA
 Skala menyatakan perbandingan ukuran pada gambar dengan ukuran sebenarnya. Skala 1:100 berarti satu satuan pada denah mewakili seratus satuan yang sama di lapangan. Satuan harus disamakan sebelum menghitung. Jika panjang pada denah 4 cm dengan skala 1:100, panjang sebenarnya 400 cm atau 4 m. Skala membantu membuat objek besar dapat ditampilkan pada kertas, tetapi detail kecil dapat hilang. Denah ruangan biasanya menggunakan tampak atas dan simbol yang konsisten. Peta wilayah dapat menggunakan proyeksi, sehingga bentuk, luas, jarak, atau arah mengalami distorsi tertentu. Pembaca peta perlu memeriksa legenda, orientasi, skala, sumber data, dan tahun pembaruan. Peta bukan wilayah itu sendiri, melainkan model yang dibuat untuk tujuan tertentu.
 
 BAB 7. KELILING DAN LUAS BANGUN DATAR

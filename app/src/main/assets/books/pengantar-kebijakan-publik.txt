@@ -6,7 +6,7 @@ DESKRIPSI
 Memahami masalah publik, perumusan kebijakan, implementasi, evaluasi, dan partisipasi warga.
 
 PENDAHULUAN
-Buku Pengantar Kebijakan Publik membahas memahami masalah publik, perumusan kebijakan, implementasi, evaluasi, dan partisipasi warga.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini menguraikan siklus kebijakan publik: mengenali masalah, menyusun agenda, memilih instrumen, melaksanakan keputusan, dan mengevaluasi hasil. Setiap tahap dipengaruhi bukti, kapasitas lembaga, kepentingan, serta partisipasi warga.
 
 BAB 1. MASALAH PUBLIK
 
@@ -46,14 +46,16 @@ BAB 6. PARTISIPASI DAN AKUNTABILITAS
 Partisipasi warga dapat meningkatkan relevansi dan kepercayaan, terutama jika kelompok terdampak terlibat sejak awal. Konsultasi tidak boleh sekadar formalitas. Pemerintah perlu menjelaskan bagaimana masukan dipertimbangkan, menyediakan akses informasi, dan membuka mekanisme pengaduan.
 
 PROYEK TERPADU
-Buat kajian mini untuk Pengantar Kebijakan Publik dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
+PROYEK TERPADU
+Pilih persoalan layanan publik yang dapat diamati, misalnya pengelolaan sampah di lingkungan. Rumuskan masalah berdasarkan gejala dan penyebab yang mungkin. Petakan warga, petugas, pengelola, dan kelompok yang terdampak. Bandingkan dua alternatif kebijakan dengan kriteria efektivitas, biaya, keadilan, dan kelayakan. Buat indikator keluaran serta hasil, lalu jelaskan data yang masih diperlukan sebelum rekomendasi diterapkan.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari PARTISIPASI DAN AKUNTABILITAS dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Pengantar Kebijakan Publik.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+EVALUASI AKHIR
+1. Bedakan gejala masalah publik dan penyebab yang mendasarinya.
+2. Jelaskan bagaimana pemetaan pemangku kepentingan dapat mengubah rancangan kebijakan.
+3. Bandingkan instrumen regulasi, insentif, dan penyediaan layanan untuk satu masalah.
+4. Bedakan indikator keluaran, hasil, dan dampak.
+5. Jelaskan bagaimana konsultasi warga dan mekanisme pengaduan mendukung akuntabilitas.
 
 PEDOMAN PENILAIAN
 Nilai pemahaman Pengantar Kebijakan Publik berdasarkan ketepatan konsep, kecocokan metode, mutu bukti, dan kemampuan menerapkan materi. Jawaban harus menunjukkan alasan yang dapat diperiksa serta menyebutkan keterbatasan informasi bila ada.

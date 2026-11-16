@@ -578,3 +578,195 @@ Ketidakpastian: keterbatasan pengetahuan atau kemampuan memperkirakan suatu nila
 
 CATATAN EDITOR BAGIAN IV
 Bagian ini memperluas pembahasan dari pengenalan teknologi menuju analisis kebutuhan, kinerja sistem, ekonomi, lingkungan, dan tata kelola. Semua angka numerik dalam latihan yang tidak secara eksplisit disebut sebagai data publik adalah angka hipotetis untuk pembelajaran. Angka tersebut tidak boleh digunakan sebagai dasar investasi atau desain instalasi nyata.
+
+
+
+BAGIAN V — PENDALAMAN ILMIAH, TEKNIS, DAN KAJIAN TERAPAN
+
+BAB 38 — RADIASI MATAHARI, CUACA, DAN VARIASI PRODUKSI
+
+38.1 Memahami radiasi matahari
+Energi surya yang sampai ke permukaan bumi dipengaruhi posisi Matahari, lintang, musim, waktu, awan, aerosol, uap air, dan karakter atmosfer. Radiasi langsung datang dari arah Matahari, sedangkan radiasi baur telah tersebar oleh atmosfer dan awan. Permukaan modul menerima gabungan komponen tersebut, dengan proporsi yang berubah menurut kondisi langit.
+
+Data radiasi dapat disajikan sebagai daya per luas pada suatu saat atau energi per luas selama periode. Satuan dan interval harus diperhatikan. Data sesaat tidak dapat langsung diperlakukan sebagai energi harian. Untuk menghitung energi, nilai daya perlu diintegrasikan terhadap waktu atau menggunakan data energi terakumulasi yang sesuai.
+
+38.2 Orientasi, kemiringan, dan bayangan
+Orientasi dan kemiringan modul memengaruhi jumlah radiasi yang diterima sepanjang hari dan tahun. Sudut yang baik untuk satu musim belum tentu menghasilkan produksi tertinggi pada musim lain. Rancangan harus mempertimbangkan kebutuhan beban, kondisi atap, arah bayangan, drainase, kekuatan struktur, dan akses perawatan.
+
+Bayangan dari pohon, bangunan, antena, atau bagian atap dapat mengurangi produksi. Pola bayangan berubah sepanjang hari dan musim. Pemeriksaan lokasi yang hanya dilakukan sekali pada satu jam tertentu tidak cukup untuk memahami keseluruhan pola. Analisis profesional dapat menggunakan pemodelan lintasan Matahari dan pengamatan lapangan.
+
+38.3 Awan dan prakiraan
+Awan dapat mengubah radiasi yang diterima modul dengan cepat. Prakiraan cuaca membantu memperkirakan produksi, tetapi ketepatannya bergantung skala ruang, waktu, dan kondisi atmosfer. Operator sistem dapat menggunakan prakiraan bersama data aktual untuk menyiapkan sumber pendukung. Prakiraan bukan kepastian, sehingga cadangan dan fleksibilitas tetap diperlukan.
+
+38.4 Kinerja tahunan
+Produksi satu hari cerah tidak mewakili produksi tahunan. Analisis yang baik menggunakan data sepanjang tahun atau pendekatan meteorologi jangka panjang yang relevan. Tahun tertentu dapat lebih cerah atau lebih berawan daripada rata-rata. Karena itu, proyeksi sebaiknya menunjukkan rentang hasil dan menjelaskan sumber ketidakpastian.
+
+BAB 39 — ANGIN, IKLIM, DAN KARAKTERISTIK TURBIN
+
+39.1 Mengapa pengukuran angin memerlukan waktu
+Kecepatan angin berubah dari detik ke detik, dari hari ke hari, dan antar musim. Pengukuran jangka pendek dapat menangkap kondisi yang tidak mewakili iklim angin jangka panjang. Data perlu dinilai kualitasnya, termasuk lokasi sensor, ketinggian, kalibrasi, gangguan sekitar, dan periode kehilangan data.
+
+39.2 Distribusi kecepatan angin
+Rata-rata kecepatan angin saja belum cukup untuk memperkirakan produksi. Energi angin yang tersedia meningkat tajam terhadap kecepatan, sehingga distribusi frekuensi kecepatan penting. Dua lokasi dengan rata-rata sama dapat memiliki pola angin berbeda dan menghasilkan energi yang berbeda pada turbin yang sama.
+
+39.3 Turbin dan kurva daya
+Kurva daya menunjukkan keluaran turbin pada berbagai kecepatan angin dalam kondisi yang ditentukan. Kurva tersebut harus dibaca bersama batas operasi, kerapatan udara, turbulensi, dan karakter lokasi. Angka kapasitas nominal tidak berarti turbin selalu menghasilkan daya sebesar itu. Produksi tahunan dipengaruhi distribusi angin dan waktu ketersediaan turbin.
+
+39.4 Dampak kumulatif
+Sekelompok turbin dapat menimbulkan dampak kumulatif pada lanskap, habitat, jalur penerbangan satwa, akses, dan jaringan. Penilaian perlu mempertimbangkan proyek lain di sekitar lokasi, bukan hanya satu turbin. Pemantauan setelah proyek beroperasi dapat menguji apakah mitigasi berjalan efektif dan apakah penyesuaian diperlukan.
+
+BAB 40 — HIDROLOGI, MUSIM, DAN KEBERLANJUTAN AIR
+
+40.1 Siklus hidrologi
+Air bergerak melalui penguapan, kondensasi, presipitasi, infiltrasi, aliran permukaan, dan aliran bawah tanah. Hutan, tanah, lahan basah, dan tata guna lahan memengaruhi bagaimana air disimpan dan dialirkan. Perubahan tutupan lahan dapat memengaruhi debit puncak, erosi, dan ketersediaan air pada musim kering.
+
+40.2 Debit bukan angka tetap
+Debit sungai berubah mengikuti hujan, kondisi DAS, musim, dan pengelolaan air. Data debit perlu mencakup periode yang memadai untuk menggambarkan variasi. Rata-rata tahunan dapat menyembunyikan periode sangat rendah atau sangat tinggi. Perencanaan pembangkit perlu memperhatikan aliran yang dapat digunakan tanpa mengabaikan kebutuhan ekologi dan pengguna lain.
+
+40.3 Sedimentasi
+Sedimen berasal dari erosi tanah dan proses alami DAS. Bendungan atau bangunan air dapat mengubah pergerakan sedimen, sehingga terjadi penumpukan di bagian tertentu dan berkurangnya pasokan sedimen ke hilir. Dampaknya dapat meliputi kapasitas waduk, bentuk sungai, habitat, dan kestabilan pesisir. Pengelolaan sedimen perlu menjadi bagian dari rencana jangka panjang.
+
+40.4 Air sebagai sumber daya bersama
+Air digunakan untuk minum, sanitasi, pertanian, industri, ekosistem, dan energi. Perencanaan harus mengenali hak, kebutuhan, serta aturan yang berlaku. Dalam kondisi kekeringan, prioritas penggunaan air perlu ditetapkan secara adil dan transparan. Proyek energi tidak boleh menganggap seluruh debit sungai tersedia untuk pembangkitan.
+
+BAB 41 — PANAS BUMI: EKSPLORASI, RESERVOIR, DAN PEMANTAUAN
+
+41.1 Mengapa eksplorasi bertahap
+Keberadaan gunung api atau mata air panas tidak otomatis membuktikan bahwa lokasi layak menjadi pembangkit. Eksplorasi menggabungkan peta geologi, pengukuran geofisika, analisis kimia fluida, dan data lain untuk menyusun model bawah permukaan. Pengeboran eksplorasi memiliki biaya dan ketidakpastian tinggi.
+
+41.2 Model konseptual reservoir
+Model konseptual menggambarkan sumber panas, jalur fluida, batuan penyimpan, struktur geologi, serta kemungkinan zona pengisian dan pelepasan. Model tersebut diperbarui ketika data baru tersedia. Model bukan gambaran sempurna bawah tanah; ketidakpastian harus dinyatakan dan diuji.
+
+41.3 Pemantauan operasi
+Pemantauan dapat meliputi tekanan, temperatur, debit fluida, komposisi kimia, emisi, dan respons lingkungan. Perubahan parameter dari waktu ke waktu membantu operator memahami kondisi reservoir. Data harus ditafsirkan bersama kondisi operasi dan konteks geologi agar perubahan tidak salah diartikan.
+
+41.4 Hubungan dengan masyarakat
+Proyek panas bumi dapat melibatkan lahan, jalan, air, lalu lintas, dan perubahan aktivitas ekonomi. Informasi tentang rencana, pemantauan, serta mekanisme keluhan perlu tersedia dalam bahasa yang mudah dipahami. Kepercayaan tidak dapat dibangun hanya melalui janji manfaat; perlu bukti, dialog, dan tindak lanjut.
+
+BAB 42 — BIOENERGI DAN NERACA KARBON
+
+42.1 Asal bahan baku menentukan hasil
+Residu pertanian, limbah makanan, kotoran ternak, dan tanaman energi memiliki dampak yang berbeda. Penggunaan residu dapat mengurangi masalah limbah, tetapi pengambilan residu berlebihan dapat mengurangi bahan organik yang kembali ke tanah. Tanaman energi dapat bersaing dengan pangan, air, dan habitat jika tata kelolanya tidak tepat.
+
+42.2 Neraca karbon
+Neraca karbon membandingkan emisi dan penyerapan pada batas sistem dan periode yang jelas. Pembakaran biomassa melepaskan karbon dioksida pada saat penggunaan. Penilaian perlu memperhitungkan apakah bahan baku berasal dari limbah, bagaimana stok karbon lahan berubah, berapa lama pertumbuhan kembali, dan emisi dari pengolahan serta transportasi.
+
+42.3 Kebocoran metana
+Metana merupakan gas rumah kaca yang kuat. Pada sistem biogas, kebocoran dari sambungan, penyimpanan, atau pengolahan dapat mengurangi manfaat iklim. Sistem harus dirancang, dioperasikan, dan diperiksa oleh pihak kompeten. Pengelolaan residu digestat juga perlu memperhatikan kualitas air, bau, dan keamanan.
+
+42.4 Prinsip penggunaan berjenjang
+Bahan organik dapat memiliki kegunaan sebagai pangan, pakan, bahan baku, kompos, atau sumber energi. Penggunaan berjenjang mempertimbangkan nilai guna tertinggi dan kebutuhan lokal sebelum bahan dialihkan menjadi energi. Prinsip ini membantu menghindari pemborosan sumber daya dan konflik penggunaan.
+
+BAB 43 — MINERAL, RANTAI PASOK, DAN TANGGUNG JAWAB INDUSTRI
+
+43.1 Material dalam teknologi energi
+Teknologi surya, angin, baterai, jaringan, dan kendaraan listrik memerlukan berbagai material. Kebutuhan material dipengaruhi jenis teknologi, ukuran sistem, desain, umur, dan tingkat daur ulang. Peningkatan permintaan dapat memberi peluang ekonomi, tetapi juga menimbulkan tantangan pertambangan, pengolahan, energi, air, dan pengelolaan limbah.
+
+43.2 Tanggung jawab rantai pasok
+Penilaian rantai pasok perlu melihat keselamatan pekerja, hak masyarakat, transparansi asal bahan, kondisi lingkungan, dan kepatuhan hukum. Perusahaan dan pembeli dapat mendorong standar pengadaan yang lebih bertanggung jawab. Klaim bahwa suatu produk berkelanjutan sebaiknya didukung penelusuran dan audit yang kredibel.
+
+43.3 Desain untuk umur panjang
+Produk yang mudah diperbaiki, memiliki komponen yang dapat diganti, dan didukung suku cadang dapat mengurangi limbah. Standarisasi dan desain modular dapat membantu perawatan. Namun, perbaikan harus mempertahankan keselamatan dan mengikuti spesifikasi produsen.
+
+43.4 Daur ulang bukan solusi tunggal
+Daur ulang mengurangi kebutuhan bahan baru, tetapi memerlukan energi, fasilitas, pemilahan, dan sistem pengumpulan. Tidak semua material dapat dipulihkan sepenuhnya atau dengan biaya yang sama. Pengurangan penggunaan material, umur produk lebih panjang, penggunaan ulang yang aman, dan desain yang lebih baik tetap diperlukan.
+
+BAB 44 — PERENCANAAN TRANSMISI DAN KEADILAN RUANG
+
+44.1 Mengapa jaringan perlu direncanakan
+Sumber energi terbaik secara sumber daya dapat berada jauh dari pusat konsumsi. Energi perlu disalurkan melalui jaringan yang memerlukan koridor, gardu, dan fasilitas pendukung. Perencanaan jaringan harus memperhitungkan kebutuhan saat ini dan masa depan, kondisi lahan, keselamatan, serta dampak sosial dan lingkungan.
+
+44.2 Dampak koridor jaringan
+Jalur transmisi dapat memengaruhi penggunaan lahan, vegetasi, pemandangan, dan aktivitas masyarakat. Proses pemilihan jalur perlu menghindari area sensitif sejauh mungkin dan melibatkan pemilik serta pengguna lahan. Kompensasi dan konsultasi harus mengikuti ketentuan hukum dan prinsip keadilan.
+
+44.3 Perencanaan terpadu
+Perencanaan pembangkit dan jaringan sebaiknya dilakukan secara terpadu. Jika pembangkit dibangun lebih dahulu tanpa kesiapan jaringan, energi mungkin tidak dapat disalurkan sesuai rencana. Sebaliknya, jaringan yang direncanakan tanpa memperhatikan perkembangan sumber dan permintaan dapat menjadi tidak efisien.
+
+44.4 Keterbukaan informasi
+Peta rencana, alasan pemilihan jalur, alternatif yang dipertimbangkan, dan proses konsultasi perlu disampaikan secara jelas. Informasi teknis harus disajikan dengan bahasa yang dapat dipahami warga. Data pribadi dan informasi yang dapat menimbulkan risiko keamanan tetap perlu dilindungi.
+
+BAB 45 — PENGUKURAN KINERJA DAN INDIKATOR KEBERHASILAN
+
+45.1 Indikator harus sesuai tujuan
+Jika tujuan proyek adalah menyediakan listrik untuk fasilitas kesehatan, indikator keberhasilan harus mencakup kontinuitas pasokan dan kualitas layanan, bukan hanya jumlah panel terpasang. Jika tujuan proyek adalah mengurangi emisi, perlu dihitung emisi yang benar-benar dihindari dengan metode yang transparan. Jika tujuannya memperluas akses, ukur keterjangkauan dan jumlah pengguna yang memperoleh layanan.
+
+45.2 Baseline dan pembanding
+Baseline adalah kondisi awal sebelum intervensi. Tanpa baseline, perubahan sulit dikaitkan dengan proyek. Pembanding dapat berupa periode sebelum dan sesudah, fasilitas sejenis, atau skenario tanpa proyek. Perbandingan perlu mengendalikan perubahan cuaca, jam operasi, jumlah pengguna, dan faktor lain yang memengaruhi hasil.
+
+45.3 Pemantauan berkala
+Pemantauan harus memiliki jadwal, penanggung jawab, metode, dan format pelaporan. Data yang dikumpulkan perlu diperiksa kualitasnya. Jika ditemukan penyimpangan, tentukan apakah penyebabnya perubahan kondisi, kesalahan alat, kesalahan pencatatan, atau masalah operasional. Perbaikan harus didokumentasikan.
+
+45.4 Indikator sosial
+Indikator sosial dapat mencakup keterjangkauan, kualitas pekerjaan, partisipasi warga, keluhan yang diselesaikan, akses kelompok rentan, dan perubahan mata pencaharian. Angka agregat dapat menyembunyikan ketimpangan, sehingga data sebaiknya dipilah secara etis dan menjaga privasi.
+
+BAB 46 — KETERAMPILAN MATEMATIKA UNTUK ANALISIS ENERGI
+
+46.1 Konversi satuan
+Sebelum menghitung, pastikan semua satuan konsisten. Satu kilowatt sama dengan seribu watt. Satu megawatt sama dengan seribu kilowatt. Satu kilowatt-jam merupakan energi, bukan daya. Kesalahan mengubah watt menjadi kilowatt atau menit menjadi jam dapat menghasilkan kesalahan besar.
+
+Contoh: perangkat 500 watt bekerja selama 30 menit. Daya 500 watt sama dengan 0,5 kW dan waktu 30 menit sama dengan 0,5 jam. Energi adalah 0,5 × 0,5 = 0,25 kWh. Perhitungan ini menganggap daya konstan selama setengah jam.
+
+46.2 Persentase perubahan
+Persentase perubahan dihitung dengan membandingkan selisih nilai terhadap nilai awal. Jika konsumsi turun dari 100 kWh menjadi 90 kWh, penurunan 10 kWh atau 10 persen dari nilai awal. Pastikan pembanding yang digunakan jelas. Penurunan persentase tidak otomatis membuktikan penyebabnya tanpa analisis faktor lain.
+
+46.3 Rata-rata tertimbang
+Rata-rata tertimbang diperlukan ketika kelompok data memiliki bobot berbeda. Misalnya, rata-rata faktor emisi listrik untuk beberapa sumber perlu mempertimbangkan kontribusi energi masing-masing, bukan sekadar merata-ratakan angka setiap pembangkit. Metode pembobotan harus sesuai pertanyaan analisis.
+
+46.4 Membaca grafik
+Grafik garis cocok untuk perubahan menurut waktu, diagram batang untuk membandingkan kategori, dan diagram sebar untuk melihat hubungan dua variabel. Pilih skala sumbu yang tidak menyesatkan. Berikan judul, satuan, sumber, rentang waktu, dan keterangan. Grafik tanpa konteks dapat membuat pembaca menarik kesimpulan yang salah.
+
+BAB 47 — ETIKA, KESELAMATAN, DAN BATAS PROYEK PEMBELAJARAN
+
+47.1 Etika pengumpulan data
+Mintalah izin sebelum mengumpulkan data dari sekolah, rumah, atau komunitas. Jangan mengambil foto, alamat, nomor meter, atau informasi pribadi tanpa persetujuan yang sesuai. Simpan data hanya untuk tujuan yang dijelaskan dan batasi akses kepada anggota kelompok yang memerlukannya.
+
+47.2 Keselamatan
+Proyek pembelajaran energi harus menghindari pekerjaan pada instalasi listrik, atap, menara, turbin, bendungan, sumur panas bumi, baterai berenergi tinggi, bahan bakar, dan peralatan industri. Pengamatan dilakukan dari tempat aman dan dengan izin. Pekerjaan teknis hanya dilakukan tenaga terlatih dengan prosedur dan alat pelindung yang sesuai.
+
+47.3 Kejujuran akademik
+Jangan menyalin laporan atau mengubah data agar hasil terlihat lebih baik. Bedakan data pengamatan, data dari sumber, perkiraan, dan contoh hipotetis. Cantumkan sumber dan jelaskan keterbatasan. Jika terjadi kesalahan perhitungan, koreksi dan dokumentasikan perubahan.
+
+47.4 Menghargai perbedaan pandangan
+Keputusan energi melibatkan pertimbangan teknis, ekonomi, sosial, dan lingkungan. Orang dapat memiliki prioritas berbeda berdasarkan pengalaman dan kebutuhan. Diskusi yang baik menguji bukti dan alasan tanpa merendahkan pihak lain. Tujuan pembelajaran adalah memahami kompleksitas dan menyusun keputusan yang dapat dipertanggungjawabkan.
+
+LATIHAN PENDALAMAN BAGIAN V
+
+1. Jelaskan perbedaan radiasi langsung dan radiasi baur serta mengapa keduanya relevan bagi sistem fotovoltaik.
+2. Mengapa data angin rata-rata saja tidak cukup untuk memperkirakan produksi tahunan turbin?
+3. Jelaskan bagaimana sedimentasi dapat memengaruhi waduk dan wilayah hilir.
+4. Mengapa lokasi yang memiliki mata air panas belum tentu layak untuk pembangkit panas bumi?
+5. Jelaskan mengapa asal biomassa dan perubahan penggunaan lahan memengaruhi neraca karbon.
+6. Sebutkan tiga isu sosial dan lingkungan yang perlu diperiksa dalam rantai pasok mineral.
+7. Mengapa pembangunan jaringan transmisi perlu dikaji bersama pembangunan pembangkit?
+8. Susun tiga indikator teknis dan tiga indikator sosial untuk mengevaluasi proyek listrik komunitas.
+9. Hitung energi perangkat 750 watt yang digunakan selama 2 jam. Nyatakan hasil dalam kWh.
+10. Sebuah fasilitas menggunakan 240 kWh pada bulan pertama dan 216 kWh pada bulan kedua. Hitung persentase perubahan dan jelaskan mengapa penyebab perubahan belum dapat dipastikan hanya dari dua angka tersebut.
+11. Berikan contoh baseline yang sesuai untuk proyek penghematan energi sekolah.
+12. Jelaskan cara melindungi privasi ketika mengerjakan audit energi.
+13. Mengapa daur ulang harus dilengkapi dengan desain tahan lama dan perbaikan?
+14. Buat daftar asumsi yang perlu disampaikan dalam perhitungan produksi surya tahunan.
+15. Jelaskan bagaimana perubahan musim dapat memengaruhi perencanaan sistem energi wilayah terpencil.
+
+PEMBAHASAN RINGKAS LATIHAN PENDALAMAN
+
+1. Radiasi langsung datang dari arah Matahari, sedangkan radiasi baur telah tersebar oleh atmosfer. Modul dapat menerima keduanya, dan kontribusinya berubah menurut cuaca serta kondisi langit.
+2. Produksi bergantung distribusi kecepatan angin, bukan hanya rata-rata. Kurva daya turbin dan variasi angin menentukan energi yang dihasilkan.
+3. Sedimen dapat mengurangi kapasitas waduk, mengubah habitat, dan mengurangi pasokan sedimen ke hilir sehingga memengaruhi bentuk sungai atau pesisir.
+4. Kelayakan memerlukan kombinasi kondisi geologi, reservoir, temperatur, fluida, akses, jaringan, biaya, dan pengelolaan dampak.
+5. Bahan baku yang berasal dari perubahan lahan atau memerlukan input besar dapat menghasilkan emisi yang berbeda dari pemanfaatan limbah yang tersedia.
+6. Isu dapat meliputi keselamatan pekerja, hak masyarakat, penggunaan air, pencemaran, asal bahan, dan pengelolaan limbah.
+7. Pembangkit membutuhkan jalur penyaluran. Tanpa jaringan yang siap, listrik mungkin tidak dapat disalurkan secara efektif.
+8. Indikator teknis misalnya jam layanan, gangguan, dan energi tersalurkan. Indikator sosial misalnya keterjangkauan, partisipasi, dan penyelesaian keluhan.
+9. 750 watt = 0,75 kW. Energi = 0,75 × 2 = 1,5 kWh.
+10. Penurunan adalah 24 kWh. Persentase penurunan = 24 ÷ 240 × 100 persen = 10 persen. Perlu memeriksa cuaca, jam operasi, jumlah pengguna, dan perubahan peralatan sebelum menyimpulkan penyebab.
+11. Baseline dapat berupa konsumsi listrik dan jadwal penggunaan selama periode representatif sebelum tindakan, disertai catatan kondisi yang memengaruhi pemakaian.
+12. Gunakan data agregat, minta izin, hilangkan identitas pribadi, dan jangan menyebarkan nomor meter atau alamat.
+13. Daur ulang membutuhkan fasilitas dan energi serta tidak selalu memulihkan semua material. Memperpanjang umur produk mengurangi kebutuhan penggantian.
+14. Asumsi meliputi radiasi, orientasi, kemiringan, suhu, bayangan, kehilangan inverter, ketersediaan sistem, dan degradasi.
+15. Musim dapat mengubah radiasi, angin, debit air, dan kebutuhan energi. Data musiman diperlukan agar sistem tidak hanya sesuai pada satu periode.
+
+RANGKUMAN BAGIAN V
+Analisis energi memerlukan pemahaman sains, data, matematika, teknologi, dan konteks sosial. Sumber daya alam tidak selalu tersedia dengan pola tetap. Kinerja perangkat dipengaruhi kondisi lapangan, sedangkan dampak proyek dipengaruhi rantai pasok, lokasi, tata kelola, dan akhir masa pakai. Perencanaan yang baik menjelaskan asumsi, menggunakan data yang sesuai, menguji ketidakpastian, serta melibatkan masyarakat.
+
+CATATAN EDITOR BAGIAN V
+Bagian ini merupakan materi pembelajaran konseptual. Contoh hitungan dibuat untuk latihan dan bukan rekomendasi ukuran peralatan. Data proyek nyata harus berasal dari pengukuran dan sumber yang dapat diverifikasi. Ketentuan teknis, keselamatan, dan perizinan mengikuti peraturan yang berlaku.

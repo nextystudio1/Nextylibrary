@@ -153,3 +153,38 @@ Evaluasi: Penilaian berdasarkan kriteria.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, dan sumber lembaga kompeten. Periksa tahun terbit dan izin penggunaan sebelum mengutip atau menggunakan kembali materi.
+
+PENDALAMAN MATERI
+
+BAB 6. IDENTIFIKASI BAHAYA DAN KERENTANAN
+Bahaya adalah sumber atau keadaan yang berpotensi menimbulkan dampak. Risiko berkaitan dengan kemungkinan dan konsekuensi dampak tersebut. Kerentanan menjelaskan kondisi yang membuat individu, aset, atau sistem lebih mudah terdampak. Paparan menunjukkan siapa atau apa yang berada pada wilayah atau situasi berbahaya. Penilaian risiko yang baik memisahkan ketiga unsur tersebut. Misalnya, hujan lebat merupakan bahaya, permukiman di dataran rendah dapat memiliki paparan tinggi, dan drainase buruk dapat meningkatkan kerentanan banjir. Pengurangan risiko dapat dilakukan dengan mengurangi bahaya bila mungkin, menurunkan paparan, atau memperkuat kapasitas menghadapi dampak.
+
+BAB 7. KEMUNGKINAN, DAMPAK, DAN MATRIKS RISIKO
+Matriks risiko menggabungkan kategori kemungkinan dan dampak untuk membantu prioritas. Matriks merupakan alat komunikasi, bukan angka objektif yang selalu tepat. Kategori “rendah”, “sedang”, dan “tinggi” perlu memiliki definisi konsisten. Dampak dapat meliputi keselamatan, layanan, biaya, lingkungan, reputasi, dan waktu pemulihan. Risiko yang jarang terjadi tetapi berdampak sangat besar tidak boleh otomatis diabaikan. Penilaian perlu menjelaskan asumsi, sumber data, dan ketidakpastian. Untuk keputusan penting, gunakan analisis lebih rinci daripada sekadar warna matriks.
+
+BAB 8. PENGENDALIAN DAN HIERARKI MITIGASI
+Pengendalian risiko dapat dilakukan dengan menghilangkan sumber bahaya, mengganti proses, menerapkan pengendalian teknis, memperbaiki prosedur, dan menggunakan perlindungan yang sesuai. Pengendalian yang mengandalkan kewaspadaan individu saja sering lebih lemah dibanding perbaikan sistem. Pilihan harus disesuaikan dengan konteks dan dinilai efektivitasnya. Setelah tindakan diterapkan, risiko sisa tetap perlu diperiksa. Tidak ada pengendalian yang menjamin risiko menjadi nol. Rencana yang baik menetapkan penanggung jawab, sumber daya, jadwal, dan indikator keberhasilan.
+
+BAB 9. KESIAPSIAGAAN DAN KOMUNIKASI RISIKO
+Kesiapsiagaan mencakup rencana, pelatihan, jalur komunikasi, perlengkapan, dan pembagian peran. Informasi risiko perlu jelas, tepat waktu, dan tidak menimbulkan kepanikan. Pesan harus menyebut apa yang diketahui, apa yang belum diketahui, tindakan yang disarankan oleh otoritas berwenang, dan kapan informasi diperbarui. Gunakan sumber resmi untuk peringatan bencana dan keselamatan. Simulasi dapat membantu menguji apakah prosedur dipahami, tetapi harus dirancang aman dan diawasi. Setelah latihan, lakukan evaluasi untuk memperbaiki bagian yang membingungkan.
+
+BAB 10. PEMANTAUAN DAN PEMBELAJARAN
+Risiko berubah ketika teknologi, lingkungan, kebiasaan, atau kondisi organisasi berubah. Daftar risiko perlu ditinjau berkala dan setelah kejadian penting. Indikator awal dapat memberi sinyal perubahan sebelum dampak besar terjadi. Catatan insiden dan kejadian nyaris celaka membantu menemukan kelemahan sistem tanpa mencari kambing hitam. Analisis setelah kejadian berfokus pada fakta, keputusan, komunikasi, dan faktor sistemik. Pembelajaran harus diterjemahkan menjadi tindakan yang memiliki penanggung jawab dan tenggat. Jika tidak, laporan evaluasi hanya menjadi dokumen tanpa perubahan.
+
+STUDI KASUS
+Sekolah merencanakan kegiatan luar ruang pada musim hujan. Tim mengidentifikasi kemungkinan cuaca buruk, kondisi lokasi, akses komunikasi, dan kebutuhan peserta. Mereka menetapkan kriteria penundaan berdasarkan informasi cuaca resmi, menunjuk penanggung jawab komunikasi, serta menyiapkan lokasi alternatif yang aman. Rencana tersebut mengurangi ketidakpastian tanpa menganggap semua risiko dapat dihilangkan.
+
+LATIHAN DAN PEMBAHASAN
+1. Bedakan bahaya, paparan, dan kerentanan.
+2. Mengapa matriks risiko bukan pengganti analisis rinci?
+3. Sebutkan urutan umum pengendalian dari yang paling menghilangkan sumber hingga perlindungan individu.
+4. Apa ciri komunikasi risiko yang baik?
+5. Mengapa kejadian nyaris celaka perlu dicatat?
+
+GLOSARIUM
+Bahaya: sumber atau keadaan yang berpotensi menimbulkan dampak.
+Dampak: konsekuensi ketika suatu peristiwa terjadi.
+Paparan: keberadaan orang atau aset pada area/situasi bahaya.
+Risiko sisa: risiko yang masih ada setelah pengendalian.
+Kerentanan: kondisi yang meningkatkan kemungkinan atau besarnya dampak.
+Mitigasi: tindakan untuk mengurangi risiko.

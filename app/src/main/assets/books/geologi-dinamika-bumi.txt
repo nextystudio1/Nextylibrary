@@ -401,3 +401,50 @@ Apa beda pelapukan dan erosi? Pelapukan mengubah batuan di tempat, sedangkan ero
 
 RANGKUMAN
 Geologi mengkaji proses Bumi dari skala mineral hingga lempeng. Pemahaman proses dan peta membantu mengenali sumber daya serta bahaya, tetapi keputusan keselamatan memerlukan data dan penilaian ahli setempat.
+
+BAB PENGAYAAN — SIKLUS BATUAN DAN PROSES GEOLOGI
+
+Batuan dikelompokkan menjadi batuan beku, sedimen, dan metamorf berdasarkan proses pembentukannya. Batuan beku terbentuk dari pembekuan magma atau lava. Batuan sedimen terbentuk dari pengendapan, pemadatan, dan penyemenan material atau pengendapan kimia maupun biologis. Batuan metamorf terbentuk ketika batuan sebelumnya berubah akibat tekanan, suhu, atau fluida tanpa harus melebur seluruhnya.
+
+Siklus batuan bukan urutan satu arah. Batuan beku dapat mengalami pelapukan menjadi sedimen, sedimen dapat berubah menjadi batuan sedimen, dan batuan yang terkubur dapat mengalami metamorfisme. Batuan metamorf dapat melebur menjadi magma dalam kondisi tertentu. Proses geologi berlangsung dengan skala waktu yang sangat panjang, meskipun beberapa peristiwa seperti letusan dan longsor dapat terjadi cepat.
+
+BAB PENGAYAAN — GEMPA BUMI DAN GELOMBANG SEISMIK
+
+Gempa bumi terjadi ketika energi elastik yang tersimpan di batuan dilepaskan secara tiba-tiba, sering kali akibat pergeseran pada patahan. Titik awal pelepasan di dalam Bumi disebut hiposentrum, sedangkan titik di permukaan tepat di atasnya disebut episentrum. Gelombang seismik merambat melalui Bumi dan direkam oleh seismograf.
+
+Magnitudo menggambarkan ukuran gempa berdasarkan pengukuran gelombang dan sumbernya, sedangkan intensitas menggambarkan dampak atau guncangan yang dirasakan pada lokasi tertentu. Satu gempa memiliki satu nilai magnitudo, tetapi intensitas dapat berbeda antarwilayah karena jarak, kondisi tanah, kedalaman, dan kualitas bangunan.
+
+BAB PENGAYAAN — GUNUNG API DAN BAHAYA VULKANIK
+
+Gunung api terbentuk ketika magma mencapai permukaan atau mendekati permukaan. Aktivitas vulkanik dapat menghasilkan lava, abu, gas, aliran piroklastik, dan lahar. Jenis bahaya bergantung pada karakter magma, bentuk gunung, kandungan gas, interaksi dengan air, dan kondisi lereng.
+
+Abu vulkanik dapat mengganggu pernapasan, transportasi, pertanian, dan peralatan. Lahar dapat mengalir melalui lembah sungai terutama ketika material vulkanik bercampur air hujan. Pemantauan gunung api menggabungkan pengamatan gempa, deformasi, gas, suhu, dan visual. Masyarakat perlu mengikuti rekomendasi resmi serta zona bahaya yang ditetapkan.
+
+BAB PENGAYAAN — TANAH DAN SUMBER DAYA GEOLOGI
+
+Tanah terbentuk dari pelapukan batuan, bahan organik, air, udara, dan aktivitas organisme. Sifat tanah dipengaruhi bahan induk, iklim, topografi, organisme, dan waktu. Lapisan tanah dapat memiliki kandungan mineral, bahan organik, dan struktur yang berbeda.
+
+Sumber daya geologi mencakup mineral, batuan, air tanah, dan energi panas bumi. Pemanfaatannya dapat mendukung pembangunan, tetapi kegiatan ekstraksi perlu memperhitungkan dampak lingkungan, keselamatan pekerja, kebutuhan masyarakat, dan pemulihan lahan. Penilaian sumber daya harus membedakan cadangan yang layak ditambang dari seluruh potensi geologi.
+
+LATIHAN
+1. Apa perbedaan batuan beku, sedimen, dan metamorf?
+2. Bedakan hiposentrum dan episentrum.
+3. Apa perbedaan magnitudo dan intensitas gempa?
+4. Sebutkan tiga bahaya gunung api.
+5. Faktor apa saja yang memengaruhi pembentukan tanah?
+
+KUNCI PEMBAHASAN
+1. Dibedakan menurut proses pembentukannya: pembekuan magma, pengendapan, dan perubahan batuan oleh tekanan/suhu/fluida.
+2. Hiposentrum adalah titik awal di dalam Bumi; episentrum adalah titik permukaan di atasnya.
+3. Magnitudo mengukur ukuran sumber gempa; intensitas menggambarkan dampak atau guncangan setempat.
+4. Abu, lava, gas, aliran piroklastik, dan lahar.
+5. Bahan induk, iklim, topografi, organisme, dan waktu.
+
+GLOSARIUM TAMBAHAN
+Batuan beku: batuan hasil pembekuan magma atau lava.
+Batuan sedimen: batuan hasil pengendapan dan proses pembatuan.
+Batuan metamorf: batuan yang berubah karena tekanan, suhu, atau fluida.
+Hiposentrum: titik awal gempa di dalam Bumi.
+Episentrum: titik di permukaan tepat di atas hiposentrum.
+Seismograf: alat pencatat gelombang gempa.
+Lahar: aliran campuran air dan material vulkanik.

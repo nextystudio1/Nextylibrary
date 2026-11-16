@@ -6,28 +6,28 @@ DESKRIPSI
 Memahami hak digital, privasi, transaksi daring, kekayaan intelektual, dan tanggung jawab pengguna.
 
 PENDAHULUAN
-Buku ini memperkenalkan konsep utama, hubungan antarbagian, dan cara menerapkan pengetahuan secara bertanggung jawab. Pembaca diajak memeriksa bukti, mengenali asumsi, dan menyampaikan kesimpulan sesuai informasi yang tersedia.
+Buku Literasi Hukum Digital membahas memahami hak digital, privasi, transaksi daring, kekayaan intelektual, dan tanggung jawab pengguna.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
 
 BAB 1. HAK DAN TANGGUNG JAWAB DIGITAL
 
 Aktivitas digital tetap berada dalam ruang sosial dan hukum. Pengguna memiliki hak atas perlindungan tertentu sekaligus tanggung jawab menghormati hak orang lain. Kebebasan berekspresi tidak berarti bebas dari konsekuensi atas ancaman, penipuan, atau pelanggaran privasi.
 
 PENDALAMAN
-Untuk menggunakan konsep dengan tepat, perhatikan definisi, konteks, dan batas penerapannya. Satu contoh tidak selalu mewakili semua keadaan. Bandingkan beberapa situasi, catat faktor yang berubah, dan periksa apakah kesimpulan tetap berlaku. Jika informasi belum cukup, nyatakan ketidakpastian daripada mengisi kekosongan dengan dugaan.
+Pada HAK DAN TANGGUNG JAWAB DIGITAL, petakan masukan, proses, keluaran, dan pihak yang menggunakan informasi. Periksa kualitas data, keandalan sistem, akses, serta akibat jika terjadi kesalahan. Uraikan alasan setiap keputusan teknis dan cara memeriksa hasilnya.
 
 KEGIATAN BELAJAR
-1. Tulis ringkasan dengan kalimat sendiri.
-2. Buat peta konsep yang menghubungkan istilah utama.
-3. Cari contoh yang relevan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan lanjutan untuk penyelidikan.
+1. Jelaskan satu istilah kunci dari HAK DAN TANGGUNG JAWAB DIGITAL dengan kalimat sendiri.
+2. Buat bagan yang menunjukkan hubungan antarkonsep.
+3. Terapkan konsep pada satu contoh yang relevan dengan Literasi Hukum Digital.
+4. Tunjukkan asumsi atau kondisi yang dapat mengubah hasil.
+5. Sajikan kesimpulan beserta bukti pendukungnya.
 
 LATIHAN
-1. Definisikan istilah utama.
-2. Jelaskan proses yang dibahas secara runtut.
-3. Berikan contoh penerapan.
-4. Sebutkan keterbatasan informasi.
-5. Buat kesimpulan berdasarkan bukti.
+1. Apa konsep utama dalam HAK DAN TANGGUNG JAWAB DIGITAL?
+2. Bagaimana hubungan konsep tersebut dengan bagian lain dalam buku?
+3. Berikan penerapan baru dan jelaskan langkah berpikirmu.
+4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
+5. Bukti apa yang dapat memperkuat jawabanmu?
 
 BAB 2. PRIVASI DAN DATA PRIBADI
 
@@ -49,15 +49,15 @@ BAB 6. MENCARI BANTUAN DAN INFORMASI RESMI
 
 Aturan dapat berubah dan berbeda menurut yurisdiksi. Periksa sumber resmi, tanggal berlaku, serta konteks aturan. Penjelasan umum bukan pengganti konsultasi profesional untuk persoalan khusus. Hindari menyebarkan data pribadi atau tuduhan ketika fakta belum terverifikasi.
 
-PROYEK AKHIR
-Pilih persoalan yang menghubungkan beberapa bab. Rumuskan pertanyaan, tujuan, batasan, dan metode. Gunakan sumber yang dapat diperiksa. Sajikan temuan dengan jelas, pisahkan data dari interpretasi, dan jelaskan keterbatasan. Rekomendasi harus realistis serta mempertimbangkan pihak yang terdampak.
+PROYEK TERPADU
+Buat kajian mini untuk Literasi Hukum Digital dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Ringkas lima gagasan inti buku.
-2. Jelaskan hubungan antarbab.
-3. Analisis satu kasus berdasarkan bukti.
-4. Bandingkan dua pilihan tindakan.
-5. Jelaskan informasi tambahan yang masih dibutuhkan.
+1. Terangkan konsep inti dari MENCARI BANTUAN DAN INFORMASI RESMI dan perannya dalam bidang ini.
+2. Hubungkan tiga gagasan dari bab yang berbeda.
+3. Analisis sebuah kasus menggunakan konsep buku Literasi Hukum Digital.
+4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
+5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 GLOSARIUM
 Konsep: Gagasan untuk memahami suatu topik.
@@ -67,7 +67,7 @@ Risiko: Gabungan kemungkinan dan dampak kejadian.
 Evaluasi: Penilaian berdasarkan kriteria.
 
 CATATAN SUMBER
-Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, dan sumber lembaga kompeten. Periksa tahun terbit dan izin penggunaan sebelum mengutip atau menggunakan kembali materi.
+Naskah Literasi Hukum Digital merupakan materi pembelajaran orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, atau sumber lembaga yang sesuai dengan bidang ini. Catat penulis, judul, tahun, dan bagian yang digunakan; periksa relevansi serta tanggal pembaruan sumber.
 
 PENDALAMAN MATERI
 

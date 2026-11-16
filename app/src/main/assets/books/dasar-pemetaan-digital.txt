@@ -1,0 +1,173 @@
+Dasar Pemetaan Digital
+Penulis: Nexty Studio
+Buku pembelajaran orisinal NextyLibrary
+
+DESKRIPSI
+Mengenal koordinat, skala, data spasial, sistem informasi geografis, dan etika peta.
+
+PENDAHULUAN
+Buku ini mengajak pembaca memahami konsep melalui definisi, proses, bukti, dan penerapan. Pengetahuan perlu ditempatkan dalam konteks yang tepat. Ketika menemukan data atau klaim, periksa sumber, metode, waktu, dan batas kesimpulan.
+
+BAB 1. PETA DAN REPRESENTASI RUANG
+
+Peta adalah representasi terpilih dari permukaan bumi atau ruang lain. Setiap peta memiliki tujuan, skala, proyeksi, simbol, dan batas ketelitian. Peta tidak memuat seluruh kenyataan; pembuat memilih informasi relevan untuk tugas tertentu.
+
+PENDALAMAN MATERI
+Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
+
+CONTOH KAJIAN
+Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
+
+KEGIATAN
+1. Buat ringkasan dengan bahasa sendiri.
+2. Susun peta konsep dan beri keterangan hubungan.
+3. Bandingkan dua contoh dengan kondisi berbeda.
+4. Periksa satu klaim menggunakan sumber tepercaya.
+5. Tulis pertanyaan lanjutan yang dapat diselidiki.
+
+LATIHAN
+1. Definisikan istilah utama.
+2. Jelaskan mekanisme atau proses yang dibahas.
+3. Berikan contoh penerapan.
+4. Sebutkan satu keterbatasan penjelasan.
+5. Buat kesimpulan yang sesuai dengan bukti.
+
+BAB 2. KOORDINAT DAN REFERENSI
+
+Sistem koordinat digunakan untuk menentukan posisi. Koordinat geografis menggunakan lintang dan bujur, sedangkan proyeksi memindahkan permukaan bumi ke bidang datar. Perbedaan datum dan proyeksi dapat menyebabkan lokasi tampak bergeser jika data digabung tanpa penyesuaian.
+
+PENDALAMAN MATERI
+Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
+
+CONTOH KAJIAN
+Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
+
+KEGIATAN
+1. Buat ringkasan dengan bahasa sendiri.
+2. Susun peta konsep dan beri keterangan hubungan.
+3. Bandingkan dua contoh dengan kondisi berbeda.
+4. Periksa satu klaim menggunakan sumber tepercaya.
+5. Tulis pertanyaan lanjutan yang dapat diselidiki.
+
+LATIHAN
+1. Definisikan istilah utama.
+2. Jelaskan mekanisme atau proses yang dibahas.
+3. Berikan contoh penerapan.
+4. Sebutkan satu keterbatasan penjelasan.
+5. Buat kesimpulan yang sesuai dengan bukti.
+
+BAB 3. DATA RASTER DAN VEKTOR
+
+Data raster tersusun dari sel atau piksel dan cocok untuk fenomena kontinu seperti elevasi atau citra. Data vektor menggunakan titik, garis, dan poligon untuk objek diskret seperti lokasi, jalan, dan batas wilayah.
+
+PENDALAMAN MATERI
+Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
+
+CONTOH KAJIAN
+Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
+
+KEGIATAN
+1. Buat ringkasan dengan bahasa sendiri.
+2. Susun peta konsep dan beri keterangan hubungan.
+3. Bandingkan dua contoh dengan kondisi berbeda.
+4. Periksa satu klaim menggunakan sumber tepercaya.
+5. Tulis pertanyaan lanjutan yang dapat diselidiki.
+
+LATIHAN
+1. Definisikan istilah utama.
+2. Jelaskan mekanisme atau proses yang dibahas.
+3. Berikan contoh penerapan.
+4. Sebutkan satu keterbatasan penjelasan.
+5. Buat kesimpulan yang sesuai dengan bukti.
+
+BAB 4. ANALISIS SPASIAL
+
+Analisis spasial memeriksa hubungan berdasarkan lokasi, jarak, tumpang susun, dan pola sebaran. Hasil bergantung pada kualitas data, skala, dan metode. Kedekatan spasial tidak otomatis membuktikan sebab-akibat.
+
+PENDALAMAN MATERI
+Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
+
+CONTOH KAJIAN
+Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
+
+KEGIATAN
+1. Buat ringkasan dengan bahasa sendiri.
+2. Susun peta konsep dan beri keterangan hubungan.
+3. Bandingkan dua contoh dengan kondisi berbeda.
+4. Periksa satu klaim menggunakan sumber tepercaya.
+5. Tulis pertanyaan lanjutan yang dapat diselidiki.
+
+LATIHAN
+1. Definisikan istilah utama.
+2. Jelaskan mekanisme atau proses yang dibahas.
+3. Berikan contoh penerapan.
+4. Sebutkan satu keterbatasan penjelasan.
+5. Buat kesimpulan yang sesuai dengan bukti.
+
+BAB 5. VISUALISASI DAN KOMUNIKASI
+
+Peta tematik perlu memiliki judul, legenda, skala, sumber, dan tanggal data. Simbol dan warna harus konsisten. Klasifikasi data dapat mengubah kesan pola, sehingga metode pengelompokan perlu dijelaskan.
+
+PENDALAMAN MATERI
+Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
+
+CONTOH KAJIAN
+Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
+
+KEGIATAN
+1. Buat ringkasan dengan bahasa sendiri.
+2. Susun peta konsep dan beri keterangan hubungan.
+3. Bandingkan dua contoh dengan kondisi berbeda.
+4. Periksa satu klaim menggunakan sumber tepercaya.
+5. Tulis pertanyaan lanjutan yang dapat diselidiki.
+
+LATIHAN
+1. Definisikan istilah utama.
+2. Jelaskan mekanisme atau proses yang dibahas.
+3. Berikan contoh penerapan.
+4. Sebutkan satu keterbatasan penjelasan.
+5. Buat kesimpulan yang sesuai dengan bukti.
+
+BAB 6. PRIVASI DAN ETIKA
+
+Peta lokasi dapat mengungkap rumah, sekolah, tempat kerja, atau pola aktivitas individu. Hindari membagikan lokasi sensitif tanpa alasan dan izin. Gunakan data terbuka sesuai lisensinya dan pertimbangkan dampak pemakaian.
+
+PENDALAMAN MATERI
+Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
+
+CONTOH KAJIAN
+Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
+
+KEGIATAN
+1. Buat ringkasan dengan bahasa sendiri.
+2. Susun peta konsep dan beri keterangan hubungan.
+3. Bandingkan dua contoh dengan kondisi berbeda.
+4. Periksa satu klaim menggunakan sumber tepercaya.
+5. Tulis pertanyaan lanjutan yang dapat diselidiki.
+
+LATIHAN
+1. Definisikan istilah utama.
+2. Jelaskan mekanisme atau proses yang dibahas.
+3. Berikan contoh penerapan.
+4. Sebutkan satu keterbatasan penjelasan.
+5. Buat kesimpulan yang sesuai dengan bukti.
+
+PROYEK AKHIR
+Pilih topik yang menghubungkan minimal tiga bab. Rumuskan pertanyaan, tujuan, batasan, metode, dan bentuk hasil. Gunakan sumber yang dapat diverifikasi serta catat proses pengumpulan informasi. Sajikan data dengan jelas, pisahkan temuan dari interpretasi, dan jelaskan keterbatasan.
+
+EVALUASI AKHIR
+1. Sebutkan lima gagasan inti buku.
+2. Jelaskan hubungan antarbab dengan contoh.
+3. Analisis satu kasus berdasarkan bukti.
+4. Bandingkan dua pendekatan dan konsekuensinya.
+5. Tulis hal yang masih perlu dipelajari.
+
+GLOSARIUM
+Konsep: Gagasan utama untuk memahami topik.
+Bukti: Informasi yang dapat diperiksa untuk mendukung klaim.
+Konteks: Keadaan yang memengaruhi makna atau penerapan.
+Metode: Langkah sistematis untuk mencapai tujuan.
+Evaluasi: Penilaian berdasarkan kriteria dan bukti.
+
+CATATAN SUMBER
+Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.

@@ -186,22 +186,22 @@ CATATAN LISENSI
 Naskah pembelajaran ini ditulis sebagai karya orisinal Nexty Studio untuk NextyLibrary. Nama lembaga dan istilah ilmiah disebut sebagai rujukan konseptual, bukan sebagai klaim dukungan atau kepemilikan. Ilustrasi, foto, dan data pihak ketiga yang mungkin ditambahkan pada edisi mendatang harus diperiksa lisensi dan atribusinya secara terpisah.
 
 PENDALAMAN: OBSERVATORIUM, KOSMOLOGI, DAN METODE ASTRONOMI
-BAB 7 — SEJARAH PENGAMATAN LANGIT
+PENDALAMAN 1 — SEJARAH PENGAMATAN LANGIT
 Pengamatan langit berkembang dari kalender dan navigasi menjadi ilmu berbasis instrumen. Teleskop memperluas kemampuan melihat objek redup dan detail kecil. Fotografi, spektroskopi, detektor digital, dan observatorium antariksa kemudian membuka jendela panjang gelombang yang tidak dapat diamati dari permukaan Bumi.
 Kemajuan astronomi merupakan hasil kerja lintas generasi dan budaya. Catatan pengamatan lama masih berguna untuk mempelajari perubahan bintang, komet, dan aktivitas Matahari.
-BAB 8 — JARAK DALAM ASTRONOMI
+PENDALAMAN 2 — JARAK DALAM ASTRONOMI
 Jarak bintang dapat diperkirakan melalui paralaks, yaitu perubahan posisi tampak ketika Bumi bergerak mengelilingi Matahari. Untuk objek lebih jauh digunakan metode lain seperti bintang variabel tertentu dan supernova tipe Ia sebagai lilin standar dengan asumsi serta kalibrasi.
 Setiap metode memiliki rentang penggunaan dan ketidakpastian. Tangga jarak kosmik menggabungkan beberapa metode yang saling menguji.
-BAB 9 — SPEKTRUM DAN KOMPOSISI BINTANG
+PENDALAMAN 3 — SPEKTRUM DAN KOMPOSISI BINTANG
 Cahaya bintang dapat dipisahkan menjadi spektrum. Garis serapan dan emisi memberi petunjuk unsur kimia, suhu, tekanan, dan gerak. Pergeseran Doppler membantu mengukur kecepatan sepanjang garis pandang.
 Spektrum tidak dibaca secara terpisah dari model atmosfer bintang dan instrumen. Kalibrasi serta koreksi gangguan diperlukan agar interpretasi dapat dipercaya.
-BAB 10 — MATERI GELAP DAN ENERGI GELAP
+PENDALAMAN 4 — MATERI GELAP DAN ENERGI GELAP
 Gerak galaksi dan pelensaan gravitasi menunjukkan adanya massa yang tidak memancarkan cahaya seperti materi biasa. Materi gelap merupakan nama bagi komponen yang diduga menjelaskan pengaruh gravitasi tersebut, tetapi sifat partikelnya belum diketahui pasti.
 Pengamatan pengembangan kosmik menunjukkan percepatan ekspansi pada model standar, yang sering dihubungkan dengan energi gelap. Istilah ini merangkum fenomena yang belum sepenuhnya dipahami, bukan penjelasan final.
-BAB 11 — LUBANG HITAM DAN RELATIVITAS
+PENDALAMAN 5 — LUBANG HITAM DAN RELATIVITAS
 Lubang hitam adalah wilayah ruang-waktu dengan gravitasi begitu kuat sehingga batas yang disebut horizon peristiwa tidak dapat dilintasi cahaya menuju pengamat jauh. Lubang hitam dapat dideteksi melalui pengaruhnya pada materi sekitar, gerak bintang, gelombang gravitasi, dan citra lingkungan dekat horizon.
 Lubang hitam bukan penyedot kosmik yang menarik semua benda dari jarak tak terbatas. Pada jarak yang sama, pengaruh gravitasinya mengikuti hukum gravitasi seperti massa lain.
-BAB 12 — METODE DAN KETIDAKPASTIAN ASTRONOMI
+PENDALAMAN 6 — METODE DAN KETIDAKPASTIAN ASTRONOMI
 Astronomi menggabungkan pengamatan, simulasi, teori, dan analisis statistik. Hasil pengukuran memiliki ketidakpastian dan dapat dipengaruhi bias instrumen. Penemuan kuat biasanya dikonfirmasi melalui metode atau observatorium independen.
 Ketika membaca klaim baru, periksa apakah hasil telah melalui penelaahan ilmiah, apakah data tersedia, dan apakah kesimpulan sebanding dengan bukti.
 LATIHAN

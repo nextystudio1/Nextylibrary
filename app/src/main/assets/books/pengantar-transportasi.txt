@@ -12,26 +12,25 @@ BAB 1. TRANSPORTASI DAN MOBILITAS
 
 Transportasi memindahkan orang dan barang, sedangkan mobilitas menggambarkan kemampuan mencapai kegiatan dan layanan. Sistem transportasi terdiri atas kendaraan, jaringan, terminal, aturan, informasi, dan pengguna. Perencanaan perlu menilai akses, bukan hanya kecepatan kendaraan.
 
-PENDALAMAN MATERI
-Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
+PENDALAMAN KONSEP
+Sistem transportasi perlu dinilai dari aksesibilitas, keselamatan, keandalan, biaya, kapasitas, dan dampak lingkungan. Perjalanan bukan sekadar pergerakan kendaraan; tujuannya adalah mencapai kegiatan. Perencanaan perlu melihat seluruh rantai perjalanan dan kebutuhan pengguna yang beragam.
 
 CONTOH KAJIAN
-Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
+Bandingkan dua cara mencapai fasilitas umum menggunakan waktu tempuh, biaya, jumlah perpindahan, akses pejalan kaki, dan keandalan jadwal. Gunakan informasi yang dapat diverifikasi dan nyatakan waktu serta kondisi pengamatan.
 
 KEGIATAN
-1. Buat ringkasan dengan bahasa sendiri.
-2. Susun peta konsep dan beri keterangan hubungan.
-3. Bandingkan dua contoh dengan kondisi berbeda.
-4. Periksa satu klaim menggunakan sumber tepercaya.
-5. Tulis pertanyaan lanjutan yang dapat diselidiki.
+1. Petakan asal, tujuan, dan tahapan perjalanan.
+2. Identifikasi hambatan bagi pengguna berbeda.
+3. Bandingkan moda dengan kriteria sama.
+4. Periksa data keselamatan dan keterbatasannya.
+5. Susun rekomendasi serta dampak samping.
 
 LATIHAN
-1. Definisikan istilah utama.
-2. Jelaskan mekanisme atau proses yang dibahas.
-3. Berikan contoh penerapan.
-4. Sebutkan satu keterbatasan penjelasan.
-5. Buat kesimpulan yang sesuai dengan bukti.
-
+1. Bedakan mobilitas dan aksesibilitas.
+2. Mengapa kapasitas tidak sama dengan mutu layanan?
+3. Jelaskan peran angkutan umum dalam akses sosial.
+4. Sebutkan biaya eksternal transportasi.
+5. Mengapa evaluasi perlu mempertimbangkan kelompok terdampak?
 BAB 2. JARINGAN DAN KAPASITAS
 
 Jaringan jalan, rel, pelabuhan, dan jalur udara menghubungkan lokasi dengan kapasitas berbeda. Kemacetan muncul ketika permintaan melampaui kapasitas pada waktu dan tempat tertentu. Pengelolaan permintaan dapat melengkapi pembangunan infrastruktur.
@@ -124,3 +123,36 @@ RANGKUMAN DAN LATIHAN AKHIR
 4. Uraikan tiga bentuk integrasi angkutan umum.
 5. Jelaskan dua sumber biaya logistik selain ongkos angkut.
 6. Bandingkan pendekatan menghindari, beralih, dan meningkatkan efisiensi perjalanan.
+
+BAB LANJUTAN: PERMINTAAN PERJALANAN DAN TATA GUNA LAHAN
+
+Permintaan perjalanan berasal dari kebutuhan mencapai pekerjaan, pendidikan, layanan, dan kegiatan sosial. Tata guna lahan memengaruhi jarak dan pilihan moda. Campuran fungsi yang dirancang baik dapat mendekatkan kebutuhan harian, tetapi kedekatan tidak cukup jika jalur pejalan kaki tidak aman atau layanan tidak terjangkau.
+
+Analisis aksesibilitas dapat memakai waktu tempuh, biaya, jumlah tujuan yang dapat dicapai, dan hambatan perjalanan. Ukuran tersebut lebih informatif daripada hanya menghitung panjang jalan. Perbandingan perlu dilakukan pada waktu dan kondisi sebanding.
+
+BAB LANJUTAN: JARINGAN DAN KAPASITAS
+
+Jaringan transportasi terdiri atas simpul dan ruas. Simpul dapat berupa persimpangan, terminal, stasiun, atau pelabuhan; ruas menghubungkannya. Kapasitas dipengaruhi geometri, pengaturan operasi, konflik arus, kondisi permukaan, dan perilaku pengguna. Penambahan kapasitas pada satu ruas dapat memindahkan kemacetan ke bagian lain jika jaringan tidak dianalisis menyeluruh.
+
+Keandalan menunjukkan konsistensi waktu perjalanan dari hari ke hari. Rata-rata waktu tempuh dapat menyembunyikan variasi besar. Untuk layanan penting, ketepatan waktu dan kemungkinan gangguan sama pentingnya dengan kecepatan.
+
+BAB LANJUTAN: EKONOMI TRANSPORTASI DAN BIAYA EKSTERNAL
+
+Biaya perjalanan mencakup tarif, bahan bakar, parkir, waktu, serta dampak yang ditanggung masyarakat. Polusi, kebisingan, kemacetan, dan risiko keselamatan merupakan contoh biaya eksternal yang tidak selalu tercermin dalam harga perjalanan. Analisis kebijakan perlu menjelaskan siapa yang membayar dan siapa yang menerima manfaat.
+
+BAB LANJUTAN: ANGKUTAN UMUM TERPADU
+
+Perjalanan angkutan umum merupakan rantai dari akses awal, menunggu, naik kendaraan, berpindah moda, hingga mencapai tujuan. Integrasi jadwal, informasi, tarif, halte, dan jalur pejalan kaki membantu mengurangi beban perpindahan. Evaluasi perlu melibatkan pengguna dengan kebutuhan berbeda, termasuk penyandang disabilitas dan orang yang memiliki keterbatasan akses digital.
+
+BAB LANJUTAN: LOGISTIK DAN JEJAK LINGKUNGAN
+
+Logistik menghubungkan pemasok, fasilitas penyimpanan, pengangkut, dan penerima. Keputusan rute, ukuran muatan, frekuensi pengiriman, dan lokasi gudang memengaruhi biaya serta ketepatan waktu. Jejak lingkungan dipengaruhi jenis kendaraan, bahan bakar, tingkat keterisian, jarak, dan kemasan. Klaim lebih ramah lingkungan harus menyatakan batas sistem dan metode pengukuran.
+
+BAB LANJUTAN: DATA DAN EVALUASI KEBIJAKAN
+
+Data transportasi berasal dari pencacahan, survei, tiket, sensor, atau data agregat perangkat. Setiap sumber memiliki bias. Data aplikasi mungkin kurang mewakili orang yang tidak memakai ponsel atau layanan tertentu. Data lokasi sensitif dan perlu diminimalkan serta dilindungi.
+
+Perubahan sebelum dan sesudah kebijakan tidak otomatis disebabkan kebijakan karena dapat dipengaruhi musim, ekonomi, dan faktor lain. Laporan harus menjelaskan metode, batasan, serta dampak yang tidak diharapkan.
+
+PROYEK PERENCANAAN MOBILITAS
+Pilih satu kawasan berdasarkan peta dan data publik. Petakan tujuan perjalanan, pilihan moda, hambatan akses, dan keselamatan. Susun dua alternatif perbaikan, bandingkan manfaat, biaya, kelompok terdampak, dan dampak samping. Jangan mengumpulkan jejak lokasi pribadi atau melakukan pengamatan lalu lintas yang membahayakan.

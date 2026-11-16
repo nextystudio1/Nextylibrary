@@ -153,3 +153,35 @@ Evaluasi: Penilaian berdasarkan kriteria.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, dan sumber lembaga kompeten. Periksa tahun terbit dan izin penggunaan sebelum mengutip atau menggunakan kembali materi.
+PENDALAMAN MATERI DAN PENERAPAN
+
+BAB 6. TATA GUNA LAHAN DAN ZONA CAMPURAN
+Tata guna lahan menjelaskan bagaimana ruang dialokasikan untuk hunian, perdagangan, industri, fasilitas umum, pertanian, dan ruang terbuka. Pemisahan fungsi dapat mengurangi konflik tertentu, tetapi pemisahan berlebihan membuat perjalanan semakin jauh dan meningkatkan ketergantungan pada kendaraan. Konsep penggunaan lahan campuran menempatkan beberapa fungsi yang saling mendukung dalam jarak yang dapat dijangkau. Perencana perlu memeriksa skala kawasan, kapasitas jalan, ketersediaan air, risiko bencana, dan kebutuhan kelompok rentan. Perubahan zonasi juga dapat menaikkan nilai tanah dan memicu perpindahan warga jika perlindungan sosial tidak disiapkan. Peta tata ruang harus dibaca bersama aturan, tahun data, dan kondisi aktual.
+
+BAB 7. PERUMAHAN LAYAK DAN KETERJANGKAUAN
+Hunian layak bukan hanya bangunan yang berdiri, melainkan tempat tinggal yang aman, sehat, memiliki akses air dan sanitasi, serta terhubung dengan pekerjaan dan layanan. Keterjangkauan perlu dihitung dengan melihat biaya sewa atau cicilan, utilitas, transportasi, dan biaya perawatan. Rumah yang murah tetapi sangat jauh dari tempat kerja dapat menimbulkan beban perjalanan besar. Perencanaan perumahan perlu mempertimbangkan variasi ukuran keluarga, aksesibilitas bagi penyandang disabilitas, kualitas lingkungan, dan kepastian bermukim. Program perbaikan kawasan sebaiknya melibatkan warga sejak tahap pemetaan masalah hingga evaluasi.
+
+BAB 8. TRANSPORTASI DAN AKSESIBILITAS
+Sistem transportasi terdiri dari jaringan jalan, angkutan umum, jalur pejalan kaki, jalur sepeda, simpul perpindahan, dan layanan logistik. Kinerja tidak cukup diukur dari kecepatan kendaraan; keselamatan, keterjangkauan, keandalan, emisi, dan akses kelompok berbeda juga penting. Perjalanan pertama dan terakhir sering menjadi hambatan penggunaan angkutan umum. Trotoar yang terputus, penyeberangan yang tidak aman, atau halte yang sulit dicapai dapat membuat layanan tidak benar-benar inklusif. Perencanaan mobilitas perlu menghubungkan tata guna lahan dengan jaringan transportasi, bukan merancang keduanya secara terpisah.
+
+BAB 9. RUANG PUBLIK, AIR, DAN IKLIM KOTA
+Taman, lapangan, tepi sungai, dan plaza dapat mendukung aktivitas sosial, rekreasi, serta kesehatan lingkungan. Ruang hijau juga dapat membantu mengurangi panas dan mengelola air hujan, bergantung pada luas, vegetasi, tanah, dan perawatannya. Permukaan kedap air mempercepat limpasan, sehingga sistem drainase perlu dirancang bersama ruang resapan dan perlindungan daerah aliran. Pohon kota membutuhkan ruang akar, pemilihan jenis yang sesuai, serta perawatan. Penanaman tanpa rencana dapat merusak utilitas atau menghalangi pandangan. Adaptasi iklim kota memerlukan data suhu, banjir, kualitas udara, dan kelompok penduduk yang paling terpapar.
+
+BAB 10. PARTISIPASI DAN EVALUASI RENCANA
+Perencanaan yang baik menjelaskan masalah, alternatif, konsekuensi, dan alasan pemilihan. Partisipasi warga bukan sekadar sosialisasi setelah keputusan dibuat. Warga perlu memperoleh informasi yang dapat dipahami dan kesempatan menyampaikan pengalaman. Metode dapat berupa lokakarya, survei, pemetaan partisipatif, dan forum kelompok. Masukan harus dicatat serta dijelaskan bagaimana pengaruhnya terhadap keputusan. Evaluasi rencana memakai indikator yang dapat diukur, misalnya waktu tempuh, akses layanan, luas ruang terbuka, kualitas air, dan keterjangkauan hunian. Indikator perlu diperiksa dari waktu ke waktu agar dampak tak terduga dapat diketahui.
+
+STUDI KASUS
+Sebuah kawasan baru memiliki pusat belanja dan perumahan, tetapi tidak memiliki trotoar yang tersambung ke halte. Walaupun jarak pada peta dekat, warga sulit berjalan dengan aman. Audit akses perlu memeriksa kondisi trotoar, penyeberangan, penerangan, kemiringan, dan hambatan fisik. Solusi dapat mencakup jaringan pejalan kaki yang kontinu, penyeberangan aman, dan akses halte yang ramah pengguna.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa penggunaan lahan campuran dapat mengurangi perjalanan? Karena beberapa kebutuhan harian tersedia lebih dekat, meski hasilnya bergantung pada desain dan layanan.
+2. Sebutkan komponen biaya hunian selain sewa atau cicilan: utilitas, transportasi, perawatan, dan biaya layanan.
+3. Mengapa kecepatan kendaraan bukan satu-satunya ukuran transportasi? Karena keselamatan, akses, biaya, keandalan, dan dampak lingkungan juga penting.
+4. Bagaimana ruang hijau membantu pengelolaan air? Vegetasi dan tanah dapat menahan serta meresapkan sebagian air hujan.
+5. Apa ciri partisipasi warga yang bermakna? Informasi terbuka, kesempatan berpendapat, pencatatan masukan, dan penjelasan tindak lanjut.
+
+GLOSARIUM
+Aksesibilitas: kemudahan mencapai tempat atau layanan.
+Tata guna lahan: pengaturan fungsi ruang.
+Limpasan: air yang mengalir di permukaan tanah.
+Penggunaan campuran: penggabungan beberapa fungsi dalam satu kawasan.

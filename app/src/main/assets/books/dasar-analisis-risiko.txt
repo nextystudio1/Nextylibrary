@@ -6,14 +6,14 @@ DESKRIPSI
 Belajar mengenali bahaya, menilai kemungkinan dan dampak, mengendalikan risiko, dan mengevaluasi tindakan.
 
 PENDAHULUAN
-Buku Dasar Analisis Risiko membahas belajar mengenali bahaya, menilai kemungkinan dan dampak, mengendalikan risiko, dan mengevaluasi tindakan.. Bacalah setiap bab dengan menghubungkan istilah, contoh, dan persoalan yang muncul dalam bidang ini. Gunakan pertanyaan di akhir bagian untuk menguji pemahaman, lalu catat bagian yang memerlukan penjelasan atau bukti tambahan.
+Buku ini menjelaskan proses mengenali bahaya, menilai kemungkinan dan dampak, menentukan prioritas, memilih pengendalian, serta memantau risiko residual. Pendekatan ini dapat diterapkan pada kegiatan, layanan, proyek, dan sistem digital dengan menyesuaikan konteks.
 
 BAB 1. BAHAYA DAN RISIKO
 
 Bahaya adalah sumber atau keadaan yang berpotensi menimbulkan kerugian. Risiko mempertimbangkan kemungkinan kejadian dan besarnya dampak. Perbedaan ini penting: keberadaan bahaya tidak selalu berarti dampak pasti terjadi, karena paparan dan pengendalian ikut menentukan tingkat risiko.
 
 PENDALAMAN
-Pada BAHAYA DAN RISIKO, perhatikan tujuan pesan, pihak yang menerima, konteks, dan bukti yang digunakan. Pilih istilah yang jelas, periksa kemungkinan salah tafsir, dan bedakan informasi yang telah terverifikasi dari pendapat. Keberhasilan komunikasi terlihat dari pemahaman yang terbentuk, bukan hanya dari banyaknya informasi yang disampaikan.
+Pada BAHAYA DAN RISIKO, bedakan sumber bahaya, siapa atau apa yang terpapar, kondisi kerentanan, kemungkinan kejadian, dan besarnya dampak. Jangan menyamakan keberadaan bahaya dengan kepastian terjadinya kerugian.
 
 KEGIATAN BELAJAR
 1. Pilih satu istilah penting dari BAHAYA DAN RISIKO dan jelaskan dengan kalimat sendiri.
@@ -53,11 +53,12 @@ PROYEK TERPADU
 Proyek Dasar Analisis Risiko: pilih persoalan nyata yang dapat dikaji dengan konsep dari beberapa bab. Rumuskan pertanyaan, tujuan, ruang lingkup, dan cara memperoleh informasi. Gunakan metode yang sesuai dengan bidang ini, catat sumber dan batas data, lalu susun hasil menjadi laporan yang memisahkan temuan, penafsiran, dan rekomendasi. Jelaskan siapa yang dapat memanfaatkan hasil serta apa yang masih perlu diteliti.
 
 EVALUASI AKHIR
-1. Jelaskan konsep paling penting dari PEMANTAUAN DAN PEMBELAJARAN dan alasan konsep itu diperlukan.
-2. Hubungkan materi dari tiga bab yang saling berkaitan.
-3. Analisis satu persoalan menggunakan istilah dan metode dari buku Dasar Analisis Risiko.
-4. Bandingkan dua pendekatan dan jelaskan kelebihan serta keterbatasannya.
-5. Tulis kesimpulan berbasis bukti dan sebutkan pertanyaan yang belum terjawab.
+EVALUASI AKHIR
+1. Bedakan bahaya, paparan, kerentanan, dan risiko.
+2. Jelaskan mengapa penilaian risiko perlu menetapkan kriteria kemungkinan dan dampak.
+3. Uraikan hierarki pengendalian dan alasan pengendalian pada sumber bahaya sering lebih kuat.
+4. Jelaskan perbedaan risiko awal dan risiko residual setelah pengendalian.
+5. Buat contoh indikator untuk memantau apakah suatu pengendalian tetap efektif.
 
 GLOSARIUM
 Bahaya: Sumber atau keadaan yang berpotensi menimbulkan kerugian.

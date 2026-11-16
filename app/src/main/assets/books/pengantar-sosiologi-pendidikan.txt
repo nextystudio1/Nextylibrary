@@ -6,7 +6,7 @@ DESKRIPSI
 Mengkaji sekolah, keluarga, kesenjangan, kurikulum, budaya belajar, dan perubahan pendidikan.
 
 PETA BELAJAR
-Buku ini disusun untuk membangun pemahaman bertahap. Kenali istilah, pahami mekanisme, hubungkan dengan contoh, lalu evaluasi penerapan. Catat pertanyaan yang belum terjawab dan periksa sumber informasi sebelum membuat kesimpulan.
+Mulailah dengan melihat pendidikan sebagai lembaga sosial. Pelajari hubungan sekolah dengan keluarga, komunitas, kebijakan, dan struktur kesempatan. Selanjutnya bandingkan perspektif sosiologi, telusuri ketimpangan, lalu gunakan metode penelitian yang etis untuk memahami pengalaman pendidikan.
 
 BAB 1. PENDIDIKAN DAN MASYARAKAT
 
@@ -52,17 +52,17 @@ BAB 6. TEKNOLOGI DAN MASA DEPAN PENDIDIKAN
 Teknologi dapat memperluas akses materi dan komunikasi, tetapi perangkat serta koneksi tidak tersebar merata. Penggunaan teknologi harus memperhatikan privasi, aksesibilitas, kualitas sumber, dan tujuan belajar. Keberhasilan pendidikan tetap bergantung pada hubungan manusia, desain pembelajaran, dan dukungan yang memadai.
 
 PROYEK TERPADU
-Rancang kajian kecil yang menghubungkan beberapa bab. Tentukan masalah, tujuan, pertanyaan, metode, data yang diperlukan, dan batasan. Pilih metode yang aman serta sesuai kemampuan. Sajikan hasil dengan bahasa jelas dan pisahkan temuan dari dugaan. Jika menggunakan data orang lain, jaga privasi dan sebutkan sumbernya.
+Buat peta faktor sosial yang memengaruhi akses belajar di suatu wilayah dengan menggunakan dokumen publik. Hubungkan kondisi infrastruktur, kebijakan, dukungan komunitas, bahasa, dan aksesibilitas. Rumuskan dua alternatif perbaikan dan jelaskan kelompok yang mungkin memperoleh manfaat atau menghadapi hambatan. Jangan mengumpulkan identitas atau pengalaman pribadi peserta didik.
 
 EVALUASI AKHIR
-1. Buat peta konsep seluruh buku.
-2. Jelaskan tiga hubungan antarbab.
-3. Analisis satu kasus dengan menyebutkan bukti dan asumsi.
-4. Bandingkan dua pendekatan penyelesaian masalah.
-5. Tulis kesimpulan yang proporsional dan sebutkan informasi tambahan yang masih dibutuhkan.
+1. Bandingkan penjelasan pendidikan menurut perspektif fungsional, konflik, dan interaksionis.
+2. Jelaskan bagaimana modal sosial dapat memperluas sekaligus membatasi kesempatan belajar.
+3. Analisis satu contoh kebijakan sekolah dengan melihat tujuan, pelaksanaan, dan dampaknya.
+4. Pilih metode penelitian yang sesuai untuk mengkaji akses pendidikan dan jelaskan alasannya.
+5. Susun rekomendasi inklusif yang didukung bukti serta menyebutkan keterbatasannya.
 
 PEDOMAN PENILAIAN
-Gunakan ketepatan konsep, kecermatan bukti, konsistensi penalaran, dan kejelasan komunikasi sebagai kriteria. Kesimpulan yang berbeda dapat diterima jika didukung bukti yang relevan dan tidak mengabaikan fakta penting.
+Nilai kemampuan menggunakan teori sosiologi secara tepat, membedakan tingkat analisis, menghubungkan klaim dengan bukti, mengenali ketimpangan struktural, serta menjaga etika penelitian. Rekomendasi dinilai dari kelayakan, keadilan akses, dan kejelasan pihak yang bertanggung jawab.
 
 GLOSARIUM
 Sosialisasi: Proses mempelajari norma dan peran sosial.
@@ -72,7 +72,7 @@ Budaya sekolah: Nilai dan kebiasaan yang berkembang di lingkungan sekolah.
 Partisipasi: Keterlibatan aktif dalam kegiatan atau keputusan.
 
 CATATAN BELAJAR DAN SUMBER
-Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar dan publikasi lembaga kompeten. Catat penulis atau lembaga, judul, tahun, dan bagian sumber. Periksa tanggal pembaruan terutama untuk pengetahuan yang berkembang, peraturan, teknologi, dan data statistik.
+Naskah ini merupakan materi sosiologi pendidikan orisinal Nexty Studio. Untuk pendalaman, bandingkan pembahasan dengan karya sosiologi pendidikan, laporan statistik pendidikan resmi, kebijakan kementerian, dan penelitian yang menjelaskan metode serta keterbatasan. Catat penulis, lembaga, tahun, judul, dan bagian yang digunakan.
 
 BAB LANJUTAN: SEKOLAH, KETIMPANGAN, DAN PERUBAHAN SOSIAL
 

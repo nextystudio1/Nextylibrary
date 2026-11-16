@@ -193,3 +193,25 @@ Dalam desain ruang, geometri membantu memperkirakan kebutuhan bahan, kapasitas, 
 
 LATIHAN
 Rancang denah sederhana ruang belajar. Tentukan ukuran, hitung luas lantai, perkirakan kebutuhan penutup lantai, dan jelaskan bagaimana kamu memperhitungkan sisa bahan serta ketidakpastian pengukuran.
+
+BAB 11. KESEBANGUNAN DAN SKALA
+Dua bangun sebangun memiliki bentuk yang sama dan ukuran bersesuaian dengan perbandingan tetap. Sudut bersesuaian sama besar, sedangkan sisi bersesuaian memiliki rasio yang sama. Konsep ini digunakan pada denah, model, foto, dan pengukuran tidak langsung. Jika skala panjang berubah dengan faktor k, luas berubah dengan faktor k kuadrat dan volume berubah dengan faktor k pangkat tiga. Perbedaan ini penting ketika memperbesar model atau membaca gambar teknik.
+
+BAB 12. TEOREMA PYTHAGORAS
+Pada segitiga siku-siku, kuadrat panjang sisi miring sama dengan jumlah kuadrat kedua sisi lainnya. Hubungan ini ditulis a² + b² = c², dengan c sebagai sisi di depan sudut siku-siku. Rumus dapat digunakan untuk mencari jarak diagonal, memeriksa kesikuan, atau menyelesaikan persoalan koordinat. Pastikan segitiga yang digunakan benar-benar siku-siku sebelum menerapkan teorema. Hasil perhitungan perlu disesuaikan dengan ketelitian pengukuran awal.
+
+BAB 13. LINGKARAN DAN BUSUR
+Lingkaran memiliki titik pusat, jari-jari, diameter, keliling, dan luas. Diameter dua kali jari-jari. Keliling berhubungan dengan pi dan diameter, sedangkan luas berhubungan dengan pi dan kuadrat jari-jari. Busur merupakan bagian keliling, dan juring merupakan daerah yang dibatasi dua jari-jari serta busur. Besar sudut pusat menentukan bagian lingkaran yang diwakili. Konsep ini digunakan dalam roda, jam, desain melingkar, dan pengukuran benda silinder.
+
+BAB 14. KOORDINAT DAN JARAK
+Sistem koordinat menyatakan posisi menggunakan pasangan nilai pada sumbu. Jarak antara dua titik pada bidang dapat dihitung dengan menggabungkan perubahan horizontal dan vertikal menggunakan teorema Pythagoras. Titik tengah ruas garis diperoleh dari rata-rata koordinat masing-masing ujung. Koordinat membantu menggambarkan denah, grafik, dan peta sederhana. Perhatikan orientasi sumbu dan satuan agar posisi tidak tertukar.
+
+BAB 15. KETELITIAN, GALAT, DAN PENGUKURAN
+Setiap pengukuran memiliki keterbatasan. Ketelitian alat, cara membaca skala, kondisi lingkungan, dan pengulangan dapat memengaruhi hasil. Galat bukan selalu kesalahan ceroboh; sebagian merupakan ketidakpastian yang melekat pada proses ukur. Catat satuan dan ketelitian alat, ulangi pengukuran bila sesuai, lalu laporkan hasil dengan jumlah angka penting yang wajar. Jangan menuliskan presisi yang jauh melebihi kemampuan alat.
+
+LATIHAN TERAPAN
+1. Jika skala panjang diperbesar tiga kali, bagaimana perubahan luas dan volume?
+2. Sebuah segitiga memiliki sisi siku-siku 6 cm dan 8 cm. Tentukan sisi miringnya.
+3. Jelaskan perbedaan busur dan juring.
+4. Bagaimana menentukan jarak dua titik pada bidang koordinat?
+5. Mengapa hasil pengukuran tidak boleh dilaporkan dengan presisi berlebihan?

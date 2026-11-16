@@ -6,7 +6,7 @@ DESKRIPSI
 Menyusun pesan, mendengarkan aktif, berbicara di depan umum, presentasi visual, dan komunikasi kolaboratif.
 
 TUJUAN PEMBELAJARAN
-Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan konsep utama, menghubungkannya dengan situasi sehari-hari, mengevaluasi informasi, dan menerapkan langkah yang bertanggung jawab.
+Setelah mempelajari Komunikasi dan Presentasi Efektif, pembaca mampu menjelaskan menyusun pesan, mendengarkan aktif, berbicara di depan umum, presentasi visual, dan komunikasi kolaboratif., membedakan istilah yang sering tertukar, menilai contoh berdasarkan bukti, dan menerapkan konsep secara tepat sesuai konteks.
 
 BAB 1. TUJUAN DAN AUDIENS
 
@@ -14,16 +14,18 @@ Komunikasi efektif terjadi ketika pesan dipahami sesuai tujuan, bukan hanya keti
 
 Satu topik dapat dijelaskan dengan cara berbeda. Penjelasan untuk teman sebaya mungkin menggunakan contoh sehari-hari, sedangkan laporan ilmiah memerlukan definisi, metode, dan bukti yang lebih rinci. Penyesuaian bukan berarti mengubah fakta.
 
-RANGKUMAN BAB
-- Pahami konsep inti dan konteks penerapannya.
-- Periksa asumsi sebelum mengambil kesimpulan.
-- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+RANGKUMAN
+- TUJUAN DAN AUDIENS: pahami istilah dan prinsip yang menjadi dasar pembahasan.
+- Perhatikan hubungan sebab, proses, dan akibat yang dijelaskan dalam bab.
+- Gunakan contoh untuk menguji apakah konsep dipahami dengan benar.
+- Nyatakan batas informasi sebelum membuat kesimpulan.
 
-LATIHAN BAB 1
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti TUJUAN DAN AUDIENS dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Komunikasi dan Presentasi Efektif.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 2. MENYUSUN PESAN YANG JELAS
 
@@ -31,11 +33,12 @@ Pesan yang jelas memiliki gagasan utama, urutan logis, dan rincian pendukung. Gu
 
 Sebelum mengirim pesan, tanyakan: apa inti yang harus dipahami? Informasi apa yang dibutuhkan penerima? Apakah ada istilah yang dapat ditafsirkan ganda? Membaca ulang dari sudut pandang penerima membantu menemukan bagian yang membingungkan.
 
-LATIHAN BAB 2
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti MENYUSUN PESAN YANG JELAS dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Komunikasi dan Presentasi Efektif.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 3. MENDENGARKAN AKTIF
 
@@ -43,11 +46,12 @@ Mendengarkan aktif berarti memberi perhatian, tidak buru-buru menyela, dan memas
 
 Dalam diskusi, dengarkan alasan sebelum menanggapi. Catat perbedaan pendapat dan cari bagian yang disepakati. Menghargai orang tidak berarti harus menyetujui semua pendapatnya.
 
-LATIHAN BAB 3
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti MENDENGARKAN AKTIF dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Komunikasi dan Presentasi Efektif.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 4. BERBICARA DI DEPAN UMUM
 
@@ -55,11 +59,12 @@ Presentasi yang baik memiliki pembukaan yang menjelaskan topik, isi yang terstru
 
 Latih presentasi dengan durasi yang ditentukan. Periksa suara, kecepatan bicara, kontak mata yang wajar, dan posisi tubuh yang nyaman. Jika gugup, siapkan kalimat pembuka dan lakukan latihan bertahap di depan kelompok kecil.
 
-LATIHAN BAB 4
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti BERBICARA DI DEPAN UMUM dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Komunikasi dan Presentasi Efektif.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 5. MEDIA VISUAL DAN ALAT BANTU
 
@@ -67,11 +72,12 @@ Slide berfungsi mendukung pembicara, bukan menggantikan penjelasan. Satu slide s
 
 Jangan memenuhi slide dengan paragraf panjang. Gunakan gambar yang memiliki izin dan keterangan yang cukup. Pastikan ukuran huruf terbaca dari jarak presentasi dan warna memiliki kontras memadai.
 
-LATIHAN BAB 5
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti MEDIA VISUAL DAN ALAT BANTU dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Komunikasi dan Presentasi Efektif.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 6. UMPAN BALIK DAN KOMUNIKASI DIGITAL
 
@@ -79,11 +85,12 @@ Umpan balik yang berguna menjelaskan perilaku atau hasil yang diamati, dampaknya
 
 Jika terjadi salah paham, klarifikasi secara langsung dan tenang. Jangan meneruskan tangkapan layar percakapan pribadi tanpa izin. Dalam kerja kelompok, sepakati kanal komunikasi, waktu respons yang wajar, pembagian tugas, dan cara menyelesaikan perbedaan.
 
-LATIHAN BAB 6
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti UMPAN BALIK DAN KOMUNIKASI DIGITAL dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Komunikasi dan Presentasi Efektif.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 EVALUASI AKHIR
 1. Pilih tiga konsep dari buku ini dan jelaskan hubungan di antara ketiganya.
@@ -93,7 +100,7 @@ EVALUASI AKHIR
 5. Refleksikan bagian yang paling sulit dipahami serta strategi belajar yang akan digunakan untuk memperbaikinya.
 
 PEMBAHASAN DAN ARAH JAWABAN
-Jawaban yang baik menyebutkan konsep secara tepat, memberikan alasan, memakai contoh yang relevan, dan mengakui keterbatasan informasi. Untuk soal studi kasus, beberapa jawaban dapat diterima selama logis, aman, etis, dan didukung bukti. Untuk pemeriksaan klaim, utamakan sumber primer atau lembaga yang kompeten dan bedakan fakta dari opini.
+Pembahasan Komunikasi dan Presentasi Efektif harus memperlihatkan alur berpikir: konsep yang dipilih, alasan penerapannya, bukti pendukung, dan batas kesimpulan. Pada soal kasus, nilai kecocokan solusi dengan kondisi. Pada soal verifikasi, periksa asal informasi dan konteksnya.
 
 GLOSARIUM
 Audiens: Pihak yang menerima pesan.

@@ -174,3 +174,26 @@ Transisi energi: Perubahan sistem energi menuju susunan yang lebih berkelanjutan
 
 CATATAN BELAJAR DAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar dan publikasi lembaga kompeten. Catat penulis atau lembaga, judul, tahun, dan bagian sumber. Periksa tanggal pembaruan terutama untuk pengetahuan yang berkembang, peraturan, teknologi, dan data statistik.
+
+BAB LANJUTAN: TRANSISI ENERGI DAN PERENCANAAN LINGKUNGAN
+
+1. Memahami layanan energi
+Energi digunakan untuk penerangan, memasak, transportasi, komunikasi, produksi, dan layanan publik. Pembahasan energi perlu membedakan sumber primer, proses konversi, pembawa energi, serta layanan akhir. Listrik, misalnya, merupakan pembawa energi yang dapat dihasilkan dari berbagai sumber. Dampak lingkungan muncul pada tahap ekstraksi, pembangunan fasilitas, operasi, hingga pengelolaan limbah.
+
+2. Efisiensi dan konservasi
+Efisiensi berarti memperoleh layanan yang sama dengan energi lebih sedikit, sedangkan konservasi mencakup perubahan perilaku dan pengelolaan kebutuhan. Contohnya memperbaiki kebocoran udara ruang berpendingin, menggunakan pencahayaan sesuai kebutuhan, merawat mesin, dan mengatur jadwal operasi. Evaluasi harus melihat kenyamanan, keselamatan, biaya awal, biaya pemeliharaan, serta penghematan sepanjang umur alat.
+
+3. Membandingkan sumber energi
+Setiap sumber memiliki karakteristik berbeda dalam ketersediaan, kestabilan pasokan, biaya, kebutuhan lahan, emisi, dan dampak sosial. Perbandingan yang adil menggunakan batas analisis yang sama. Jangan hanya membandingkan emisi saat pembangkit beroperasi; pertimbangkan pula pembuatan peralatan, rantai pasok, pembangunan, dan akhir masa pakai.
+
+4. Penyimpanan dan jaringan
+Sumber yang berubah-ubah menurut cuaca atau waktu memerlukan pengelolaan jaringan, prakiraan, fleksibilitas permintaan, interkoneksi, atau penyimpanan. Penyimpanan bukan sumber energi primer; ia memindahkan energi dari satu waktu ke waktu lain dan memiliki kehilangan energi serta kebutuhan material.
+
+5. Dampak lingkungan dan keadilan
+Proyek energi dapat memengaruhi air, tanah, habitat, kesehatan, mata pencaharian, dan hak masyarakat. Kajian perlu melibatkan warga terdampak sejak awal, membuka informasi, menilai alternatif lokasi, dan menyediakan mekanisme pengaduan. Transisi yang adil memperhatikan pekerja dan komunitas yang ekonominya bergantung pada sektor yang berubah.
+
+6. Menyusun rencana energi sederhana
+Mulailah dengan memetakan pemakaian, menentukan layanan prioritas, menetapkan target terukur, membandingkan pilihan, lalu memantau hasil. Catat satuan, periode, sumber data, dan asumsi. Target tanpa data awal sulit dievaluasi.
+
+LATIHAN
+Pilih satu ruang kelas atau rumah. Buat inventaris peralatan listrik, perkiraan jam penggunaan, dan peluang penghematan yang tidak mengurangi keselamatan atau kebutuhan belajar. Susun tiga tindakan prioritas dan indikator keberhasilannya.

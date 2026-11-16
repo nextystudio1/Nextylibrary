@@ -13,7 +13,7 @@ BAB 1. LARUTAN DAN CAMPURAN
 Larutan adalah campuran homogen yang terdiri atas pelarut dan satu atau lebih zat terlarut. Komposisinya seragam pada skala pengamatan. Konsentrasi menyatakan jumlah zat terlarut dalam sejumlah larutan atau pelarut, sedangkan kelarutan menyatakan batas jumlah zat yang dapat larut pada kondisi tertentu. Pengenceran menurunkan konsentrasi dengan menambah pelarut; jika tidak ada zat yang hilang, jumlah mol zat terlarut tetap. Suhu dan sifat zat dapat memengaruhi kelarutan.
 
 CONTOH PENERAPAN
-Contoh kajian: pilih kasus sederhana yang berkaitan dengan LARUTAN DAN CAMPURAN dalam bidang Kimia Larutan dan Asam Basa. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
+Larutan gula dan air merupakan campuran homogen karena komponen terlarut tersebar merata pada skala yang diamati. Bandingkan dengan pasir dalam air yang membentuk campuran heterogen. Jelaskan perbedaan pelarut, zat terlarut, dan campuran, serta mengapa pengadukan tidak mengubah identitas kimia zat.
 
 RANGKUMAN
 - LARUTAN DAN CAMPURAN: pahami istilah dan prinsip yang menjadi dasar pembahasan.

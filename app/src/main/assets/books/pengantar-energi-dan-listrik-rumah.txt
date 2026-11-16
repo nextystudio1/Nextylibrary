@@ -168,3 +168,37 @@ Catat angka meter pada waktu yang konsisten dan kelompokkan penggunaan berdasark
 
 LATIHAN
 Buat inventaris perangkat listrik rumah tanpa menyentuh instalasi. Catat daya pada label, perkiraan lama pemakaian, dan peluang penghematan yang aman. Tanyakan kepada orang dewasa jika ada perangkat atau kondisi yang tampak tidak normal.
+BAB LANJUTAN: DAYA, ENERGI, DAN FAKTOR DAYA
+
+Daya listrik adalah laju penggunaan atau pemindahan energi. Untuk rangkaian arus searah sederhana, daya dapat dihitung dengan P = V × I, dengan tegangan dalam volt dan arus dalam ampere. Energi listrik merupakan daya dikalikan waktu. Jika alat berdaya 100 watt digunakan selama 5 jam, energi idealnya 500 watt-jam atau 0,5 kilowatt-jam.
+
+Pada sistem arus bolak-balik, hubungan tegangan, arus, dan daya dapat lebih kompleks karena perbedaan fase. Daya nyata menunjukkan energi yang digunakan untuk melakukan kerja per satuan waktu, sedangkan daya semu dan daya reaktif memiliki peran dalam sistem AC. Faktor daya menggambarkan perbandingan daya nyata terhadap daya semu. Konsep ini penting untuk memahami efisiensi pemanfaatan jaringan, terutama pada instalasi dan beban tertentu.
+
+Label daya peralatan biasanya menyatakan kondisi nominal, bukan konsumsi yang selalu konstan. Kulkas, pompa, dan pendingin ruangan dapat memiliki pola konsumsi berubah sesuai beban, suhu, dan siklus kerja. Perkiraan biaya perlu menggunakan data konsumsi aktual atau spesifikasi yang sesuai, serta tarif yang berlaku.
+
+BAB LANJUTAN: INSTALASI, PEMBUMIAN, DAN PERLINDUNGAN
+
+Instalasi rumah harus dirancang dan diperiksa oleh tenaga kompeten sesuai standar serta peraturan yang berlaku. Penghantar, pengaman arus lebih, perangkat arus sisa, pembumian, dan kualitas sambungan memiliki fungsi berbeda. Pemilihan komponen yang tidak sesuai dapat meningkatkan risiko kebakaran atau sengatan listrik.
+
+Pembumian menyediakan jalur proteksi untuk kondisi gangguan dan membantu perangkat pengaman bekerja sesuai rancangan. Pengaman arus lebih melindungi penghantar dari arus berlebihan, sedangkan perangkat arus sisa mendeteksi ketidakseimbangan arus tertentu. Tidak satu pun perangkat menggantikan kebutuhan instalasi yang benar dan pemeliharaan profesional.
+
+Pembaca tidak boleh membuka panel, mengubah kabel, atau menguji instalasi bertegangan tanpa kualifikasi. Jika ditemukan kabel rusak, bau terbakar, percikan, atau perangkat sering memutus, hentikan penggunaan bila aman dilakukan dan minta pemeriksaan teknisi berwenang. Materi ini bersifat pendidikan, bukan petunjuk pemasangan listrik mandiri.
+
+BAB LANJUTAN: BEBAN RUMAH DAN MANAJEMEN PERMINTAAN
+
+Beban rumah tangga terdiri dari penerangan, pendingin, pemanas, pompa, perangkat elektronik, dan peralatan memasak. Profil beban menunjukkan kapan konsumsi meningkat. Beban puncak dapat memengaruhi kapasitas sambungan dan kebutuhan sistem tenaga. Pengaturan waktu penggunaan beberapa peralatan dapat membantu mengurangi puncak jika sesuai dengan kebutuhan dan tarif.
+
+Efisiensi energi tidak selalu berarti mengurangi kenyamanan. Perawatan peralatan, pengaturan suhu yang wajar, pencahayaan sesuai kebutuhan, ventilasi yang baik, dan pemilihan perangkat berlabel efisiensi dapat mengurangi konsumsi. Perbandingan harus memperhatikan kapasitas dan fungsi; alat yang lebih kecil belum tentu lebih efisien jika harus bekerja lebih lama.
+
+Energi siaga dari perangkat yang terus terhubung dapat terakumulasi, tetapi besarannya bervariasi. Pengukuran dengan alat yang sesuai dapat memberikan gambaran lebih baik daripada menebak berdasarkan jumlah perangkat. Penggunaan meter listrik harus mengikuti petunjuk dan tidak melibatkan pembukaan instalasi.
+
+BAB LANJUTAN: ENERGI TERBARUKAN DAN PENYIMPANAN DI RUMAH
+
+Panel surya mengubah energi cahaya menjadi listrik. Produksi dipengaruhi intensitas radiasi, orientasi, kemiringan, bayangan, suhu, dan kondisi perangkat. Produksi harian tidak selalu sama dengan konsumsi rumah. Sistem dapat terhubung ke jaringan atau menggunakan penyimpanan, bergantung pada aturan dan rancangan teknis.
+
+Baterai menyimpan energi untuk digunakan kemudian, tetapi memiliki rugi konversi, batas kapasitas, umur siklus, dan persyaratan keselamatan. Kapasitas energi biasanya dinyatakan dalam kilowatt-jam, sedangkan daya keluaran dalam kilowatt. Dua spesifikasi ini tidak boleh disamakan.
+
+Evaluasi sistem rumah perlu menghitung pola konsumsi, potensi produksi, biaya investasi, pemeliharaan, penggantian komponen, dan ketentuan interkoneksi. Pemasangan harus ditangani penyedia dan tenaga profesional yang memenuhi standar keselamatan serta aturan setempat.
+
+LATIHAN PERHITUNGAN ENERGI
+Buat daftar lima peralatan rumah tangga, catat daya nominal dan perkiraan jam penggunaan harian berdasarkan informasi label atau pengukuran yang aman. Hitung energi perkiraan dalam kWh. Jelaskan mengapa hasilnya merupakan estimasi dan bagaimana pola penggunaan memengaruhi total bulanan.

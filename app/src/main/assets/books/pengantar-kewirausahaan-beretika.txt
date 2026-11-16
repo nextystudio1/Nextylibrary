@@ -170,3 +170,52 @@ Buat daftar risiko, kebutuhan kas, ketergantungan pada pemasok, dan skenario pen
 
 LATIHAN
 Rancang usaha kecil hipotetis. Petakan lima pemangku kepentingan, tiga potensi dilema etis, indikator keberhasilan finansial dan sosial, serta prosedur menerima keluhan pelanggan.
+BAB 8. MODEL BISNIS DAN PENCIPTAAN NILAI
+
+Model bisnis menjelaskan bagaimana sebuah usaha menciptakan nilai bagi pelanggan, menyampaikan nilai tersebut, dan memperoleh pendapatan yang memungkinkan kegiatan berlanjut. Model bisnis bukan hanya cara menetapkan harga. Ia menghubungkan kebutuhan pelanggan, kegiatan utama, sumber daya, mitra, saluran distribusi, hubungan pelanggan, struktur biaya, dan sumber pendapatan.
+
+Mulailah dari masalah yang benar-benar dialami calon pelanggan. Rumuskan siapa yang mengalami masalah, dalam situasi apa masalah muncul, seberapa sering terjadi, dan bagaimana mereka mengatasinya saat ini. Wawancara eksploratif sebaiknya memakai pertanyaan terbuka, misalnya meminta responden menceritakan pengalaman terakhir. Pertanyaan yang menggiring seperti “Anda pasti suka solusi murah ini, bukan?” menghasilkan jawaban yang bias.
+
+Proposisi nilai menyatakan manfaat utama yang ditawarkan. Manfaat dapat berupa penghematan waktu, kemudahan, keandalan, akses, kualitas, atau pengurangan risiko. Pernyataan nilai harus spesifik dan dapat diuji. “Produk terbaik untuk semua orang” terlalu luas untuk menjadi panduan keputusan. Pernyataan seperti “layanan antar bahan belajar untuk siswa di wilayah yang sulit dijangkau toko” lebih mudah diuji melalui wawancara dan percobaan.
+
+Saluran distribusi menentukan bagaimana pelanggan mengetahui, membeli, menerima, dan memperoleh bantuan atas produk. Saluran langsung memberi kendali lebih besar, tetapi membutuhkan tenaga dan biaya. Mitra distribusi dapat memperluas jangkauan, namun menambah ketergantungan dan mengurangi margin. Pilih saluran berdasarkan perilaku pelanggan, bukan semata-mata karena sedang populer.
+
+BAB 9. VALIDASI IDE, EKSPERIMEN, DAN PEMBELAJARAN
+
+Ide usaha adalah hipotesis, bukan bukti adanya pasar. Validasi dilakukan dengan menguji asumsi paling berisiko sebelum mengeluarkan sumber daya besar. Asumsi dapat berkaitan dengan kebutuhan, kesediaan membayar, kemudahan produksi, ketersediaan pemasok, atau kemampuan menjangkau pelanggan.
+
+Susun hipotesis dalam bentuk yang dapat diperiksa. Contohnya: “Sebagian pemilik warung di satu kawasan membutuhkan pencatatan stok sederhana dan bersedia mencoba prototipe selama dua minggu.” Tentukan siapa yang akan diuji, berapa banyak percobaan yang realistis, indikator apa yang diamati, dan batas keputusan yang akan digunakan. Jangan mengubah kriteria keberhasilan setelah melihat hasil hanya agar ide tampak berhasil.
+
+Eksperimen awal dapat berupa wawancara, contoh produk, layanan manual berskala kecil, halaman informasi, atau prototipe sederhana. Eksperimen harus jujur. Jangan menerima pembayaran untuk produk yang belum dapat disediakan tanpa menjelaskan status, risiko, jadwal, dan kebijakan pengembalian. Data calon pelanggan harus dikumpulkan seperlunya dan dijaga.
+
+Bedakan minat yang diucapkan dengan perilaku nyata. Seseorang dapat mengatakan ide terdengar menarik tetapi tidak pernah menggunakannya. Sebaliknya, percobaan berulang, penggunaan rutin, atau kesediaan merekomendasikan dapat menjadi sinyal yang lebih kuat. Satu hasil kecil tetap tidak membuktikan seluruh pasar; catat keterbatasan sampel dan kondisi percobaan.
+
+BAB 10. KEUANGAN USAHA DAN KETAHANAN KAS
+
+Laba dan kas berhubungan tetapi tidak sama. Penjualan secara kredit dapat tercatat sebagai pendapatan sebelum uang diterima. Pembelian peralatan dapat mengeluarkan kas besar di awal, sedangkan biaya akuntansinya dialokasikan sepanjang masa manfaat. Karena itu, pemilik usaha perlu melihat laporan laba rugi sederhana sekaligus arus kas.
+
+Pisahkan biaya tetap dan biaya variabel. Biaya tetap relatif tidak berubah dalam rentang kapasitas tertentu, seperti sewa bulanan. Biaya variabel mengikuti volume kegiatan, seperti bahan baku per unit. Dalam praktik, beberapa biaya bersifat campuran dan dapat berubah ketika kapasitas terlampaui. Catat asumsi yang digunakan agar perhitungan dapat diperbaiki.
+
+Titik impas unit dapat diperkirakan dengan rumus biaya tetap dibagi selisih harga jual per unit dan biaya variabel per unit. Rumus ini hanya bermakna jika definisi biaya konsisten dan asumsi harga serta volume cukup masuk akal. Contoh: biaya tetap bulanan Rp2.000.000, harga Rp20.000 per unit, dan biaya variabel Rp12.000 per unit. Kontribusi per unit Rp8.000 sehingga titik impas sekitar 250 unit. Angka tersebut belum otomatis mencakup pajak, bunga, perubahan persediaan, atau biaya yang belum dicatat.
+
+Buat proyeksi kas mingguan untuk usaha yang baru berjalan. Catat saldo awal, penerimaan yang benar-benar diperkirakan masuk, pembayaran pemasok, upah, sewa, transportasi, kewajiban, dan saldo akhir. Buat skenario dasar, optimistis, dan tekanan. Skenario tekanan membantu menentukan tindakan lebih awal, seperti menunda pengeluaran yang tidak penting atau mencari pemasok alternatif.
+
+BAB 11. TATA KELOLA, PENGUKURAN, DAN PERBAIKAN
+
+Tata kelola usaha kecil tidak harus rumit, tetapi tanggung jawab perlu jelas. Tentukan siapa yang menyetujui pembelian, mencatat transaksi, memeriksa stok, menangani keluhan, dan mengakses data pelanggan. Pemisahan tugas sederhana mengurangi kesalahan dan memudahkan penelusuran. Jika jumlah pekerja terbatas, pemeriksaan silang berkala dapat menjadi pengendalian pengganti.
+
+Gunakan indikator yang terkait dengan tujuan. Indikator keuangan dapat meliputi margin kontribusi, arus kas, dan umur piutang. Indikator pelanggan dapat mencakup pembelian ulang, waktu penyelesaian keluhan, dan tingkat pengembalian. Indikator operasional dapat berupa produk cacat, keterlambatan, dan kehilangan bahan. Indikator sosial atau lingkungan harus memiliki definisi, cara ukur, periode, serta batas interpretasi yang jelas.
+
+Siklus perbaikan dapat dilakukan melalui empat tahap: rencanakan perubahan, uji dalam skala terbatas, pelajari hasil, lalu tetapkan apakah perubahan diterapkan, disesuaikan, atau dihentikan. Dokumentasikan alasan keputusan. Kegagalan eksperimen yang dilakukan secara bertanggung jawab dapat menghasilkan pengetahuan yang mengurangi risiko berikutnya.
+
+STUDI KASUS TERPADU
+
+Sekelompok siswa ingin menjual paket alat tulis yang dikemas dari bahan daur ulang. Sebelum membeli persediaan besar, mereka mewawancarai calon pembeli, memeriksa keamanan dan mutu bahan, menghitung biaya per paket, serta membuat contoh produk. Mereka menemukan bahwa pembeli menyukai kemasan, tetapi membutuhkan pilihan isi yang dapat disesuaikan. Tim lalu menguji dua variasi paket, menjelaskan bahan secara jujur, mencatat biaya, dan mengumpulkan umpan balik. Kasus ini menunjukkan bahwa keberlanjutan usaha berasal dari pengujian kebutuhan, mutu, transparansi, dan disiplin keuangan—bukan hanya dari slogan ramah lingkungan.
+
+LATIHAN PENDALAMAN
+
+1. Jelaskan perbedaan proposisi nilai dan slogan promosi.
+2. Susun satu hipotesis pelanggan dan eksperimen kecil untuk mengujinya.
+3. Dengan biaya tetap Rp1.500.000, harga jual Rp15.000, dan biaya variabel Rp9.000 per unit, hitung titik impas unit serta sebutkan dua keterbatasan perhitungan.
+4. Mengapa proyeksi kas perlu dibuat terpisah dari perkiraan laba?
+5. Pilih tiga indikator usaha dan jelaskan definisi serta cara mengukurnya.

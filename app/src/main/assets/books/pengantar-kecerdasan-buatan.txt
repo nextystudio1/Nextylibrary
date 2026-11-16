@@ -420,3 +420,64 @@ Rancang aturan penggunaan AI untuk perpustakaan sekolah. Jelaskan data apa yang 
 
 RANGKUMAN
 Tata kelola AI memastikan sistem tetap dapat dipertanggungjawabkan sepanjang siklus hidupnya. Dokumentasi, keamanan, keadilan, keterlibatan manusia, dan evaluasi berkelanjutan tidak boleh menjadi tambahan belakangan.
+
+
+BAB PENGAYAAN 1 — MERANCANG PROYEK AI DARI MASALAH NYATA
+
+Proyek kecerdasan buatan sebaiknya dimulai dari masalah yang jelas, bukan dari keinginan memakai teknologi yang sedang populer. Tim perlu menuliskan siapa yang mengalami masalah, keputusan apa yang perlu dibantu, informasi apa yang tersedia, dan akibat jika sistem keliru. Contoh tujuan yang terlalu luas adalah “membuat AI untuk sekolah”. Tujuan yang lebih terukur adalah “mengelompokkan pertanyaan siswa ke dalam mata pelajaran agar petugas dapat meneruskannya kepada guru yang tepat”. Tujuan kedua memiliki pengguna, masukan, keluaran, dan ukuran keberhasilan yang lebih jelas.
+
+Sebelum membuat model, bandingkan beberapa pilihan penyelesaian. Aturan sederhana, formulir yang dirancang lebih baik, pencarian kata kunci, atau perbaikan alur kerja mungkin sudah menyelesaikan masalah. Model AI baru layak dipertimbangkan jika pola masukan cukup bervariasi dan pendekatan sederhana tidak memadai. Keputusan ini menghindari penggunaan model mahal untuk pekerjaan yang dapat diselesaikan dengan cara transparan.
+
+Dokumen rancangan awal sebaiknya memuat tujuan, pengguna, batas penggunaan, sumber data, pihak yang bertanggung jawab, metrik evaluasi, risiko, dan rencana ketika sistem gagal. Tetapkan juga kondisi penghentian. Jika data tidak cukup, performa kelompok tertentu jauh lebih rendah, atau dampak kesalahan terlalu besar, proyek tidak boleh dipaksakan untuk diluncurkan.
+
+BAB PENGAYAAN 2 — MENYIAPKAN DATA SECARA BERTANGGUNG JAWAB
+
+Data perlu memiliki asal-usul yang dapat dijelaskan. Catat siapa yang mengumpulkan, kapan dikumpulkan, untuk tujuan apa, dengan izin atau dasar apa data digunakan, dan perubahan apa yang dilakukan. Jangan menganggap semua data yang ditemukan di internet bebas dipakai. Hak cipta, privasi, ketentuan layanan, dan konteks pengumpulan tetap harus diperiksa.
+
+Pembersihan data dapat mencakup pemeriksaan nilai kosong, format tanggal, satuan yang tidak konsisten, duplikasi, kesalahan ketik, serta label yang bertentangan. Namun pembersihan tidak boleh menghapus variasi yang justru penting. Misalnya, variasi dialek atau cara menulis nama tempat tidak selalu merupakan kesalahan. Keputusan normalisasi harus didokumentasikan agar orang lain dapat memahami dampaknya.
+
+Data sintetis atau buatan dapat membantu membuat contoh uji tanpa memakai identitas nyata. Namun data sintetis bukan jaminan otomatis bebas bias. Jika dibuat berdasarkan asumsi yang keliru, data buatan dapat mengulang asumsi tersebut. Sampel sintetis sebaiknya diberi label yang jelas dan tidak dicampur diam-diam dengan data nyata ketika hasil evaluasi dilaporkan.
+
+BAB PENGAYAAN 3 — MEMBANGUN EVALUASI YANG BERGUNA
+
+Metrik harus mengikuti tujuan. Untuk sistem yang membantu pencarian dokumen, ketepatan hasil teratas dan kemampuan menemukan dokumen relevan mungkin lebih penting daripada akurasi klasifikasi. Untuk prediksi numerik, kesalahan rata-rata dapat digunakan, tetapi perlu diperiksa apakah kesalahan besar pada kasus tertentu tersembunyi di balik rata-rata yang kecil.
+
+Buat himpunan uji yang mencakup variasi bahasa, panjang masukan, kondisi normal, dan kasus yang tidak umum. Pisahkan contoh yang sengaja dibuat sulit agar tim dapat mengetahui batas sistem. Evaluasi juga perlu mengukur waktu respons, biaya komputasi, kebutuhan memori, dan kemampuan sistem memberi tahu pengguna ketika tidak yakin.
+
+Lakukan analisis kesalahan, bukan hanya mencatat skor. Kelompokkan kesalahan berdasarkan penyebab: data tidak lengkap, istilah ambigu, contoh di luar cakupan, perubahan lingkungan, atau kelemahan model. Pilih beberapa kesalahan yang paling sering dan paling berdampak untuk diperbaiki. Setelah perubahan dilakukan, jalankan kembali pengujian yang sama agar peningkatan dan penurunan performa dapat diketahui.
+
+BAB PENGAYAAN 4 — PEMANTAUAN SETELAH SISTEM DIGUNAKAN
+
+Kinerja model dapat berubah ketika pola penggunaan atau lingkungan berubah. Pergeseran data terjadi ketika distribusi masukan berbeda dari data pengembangan. Pergeseran konsep terjadi ketika hubungan antara masukan dan keluaran berubah. Contohnya, sistem yang memprediksi permintaan barang berdasarkan kebiasaan tahun lalu mungkin kurang tepat ketika terjadi perubahan besar pada pola belanja.
+
+Pemantauan perlu dilakukan dengan data yang sesuai aturan privasi. Catat indikator agregat, laporan pengguna, tingkat kegagalan, dan contoh kesalahan yang telah disamarkan. Jangan mengumpulkan informasi lebih banyak daripada yang diperlukan. Tentukan siapa yang menerima laporan, berapa lama waktu respons, dan bagaimana pengguna dapat meminta koreksi.
+
+Sistem perlu memiliki mekanisme kembali ke versi sebelumnya jika pembaruan menurunkan kualitas. Versi model, konfigurasi, dan data evaluasi harus dicatat. Tanpa pencatatan versi, tim akan kesulitan mengetahui perubahan mana yang menyebabkan masalah.
+
+BAB PENGAYAAN 5 — KERANGKA TATA KELOLA DAN TANGGUNG JAWAB
+
+Tanggung jawab tidak boleh dialihkan kepada model. Organisasi harus menetapkan pemilik proses, pengawas, penanggung jawab keamanan, dan pihak yang menangani keluhan. Pengguna perlu diberi tahu ketika berinteraksi dengan sistem otomatis, terutama jika hasilnya dapat memengaruhi akses layanan atau keputusan penting.
+
+Dokumentasi ringkas untuk setiap sistem dapat menjawab: apa tujuan model, data apa yang digunakan, bagaimana evaluasi dilakukan, keterbatasan apa yang diketahui, kelompok mana yang belum diuji, serta kapan manusia harus mengambil alih. Dokumen ini harus diperbarui saat model atau cara penggunaan berubah.
+
+Keadilan tidak berarti semua orang selalu menerima keluaran identik. Artinya, perbedaan hasil perlu diperiksa dan dapat dijelaskan dengan alasan yang relevan. Jika model memberikan hasil yang jauh berbeda untuk kelompok tertentu, tim harus memeriksa kualitas data, definisi target, konteks, dan dampak keputusan. Penilaian tersebut memerlukan keterlibatan orang yang memahami konteks pengguna.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa proyek AI harus dimulai dari definisi masalah?
+Jawaban: agar teknologi yang dipilih sesuai kebutuhan dan keberhasilan dapat diukur.
+2. Mengapa data internet tidak otomatis bebas digunakan?
+Jawaban: data dapat dilindungi hak cipta, privasi, atau ketentuan penggunaan.
+3. Apa beda pergeseran data dan pergeseran konsep?
+Jawaban: pergeseran data mengubah distribusi masukan; pergeseran konsep mengubah hubungan masukan dengan keluaran.
+4. Mengapa skor rata-rata tidak cukup?
+Jawaban: skor dapat menyembunyikan kelompok atau jenis kasus yang memiliki kesalahan tinggi.
+5. Apa fungsi pencatatan versi model?
+Jawaban: membantu mereproduksi hasil, melacak perubahan, dan mengembalikan versi yang lebih stabil.
+
+GLOSARIUM TAMBAHAN
+Pergeseran data: perubahan distribusi masukan dibandingkan data pengembangan.
+Pergeseran konsep: perubahan hubungan antara masukan dan target.
+Analisis kesalahan: pemeriksaan sistematis terhadap contoh prediksi yang keliru.
+Data sintetis: data buatan yang disusun untuk tujuan tertentu.
+Tata kelola AI: kebijakan, peran, dan proses untuk mengelola risiko serta tanggung jawab sistem AI.

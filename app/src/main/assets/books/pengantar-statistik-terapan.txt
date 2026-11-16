@@ -210,3 +210,26 @@ Korelasi: Ukuran hubungan antara variabel.
 
 CATATAN SUMBER DAN PENGEMBANGAN
 Buku ini merupakan materi pengantar orisinal. Untuk tugas akademik atau keputusan praktis, bandingkan penjelasan dengan buku ajar, standar, peraturan, dan publikasi lembaga yang kompeten. Catat judul sumber, penulis atau lembaga, tahun terbit, dan bagian yang digunakan. Periksa tanggal sumber pada topik yang dapat berubah.
+
+BAB LANJUTAN: DESAIN SURVEI DAN INTERPRETASI DATA
+
+1. Pertanyaan penelitian
+Survei yang baik dimulai dengan pertanyaan yang jelas. Tentukan populasi sasaran, unit analisis, variabel, periode, dan keputusan yang ingin didukung. Pertanyaan yang terlalu luas menghasilkan data yang sulit ditafsirkan. Definisikan istilah agar responden memahami hal yang sama.
+
+2. Populasi dan sampel
+Populasi adalah keseluruhan unit yang ingin dipelajari, sedangkan sampel merupakan bagian yang diamati. Teknik pengambilan sampel memengaruhi keterwakilan. Sampel yang besar belum tentu baik jika pemilihannya bias. Jelaskan kerangka sampel, metode pemilihan, tingkat respons, dan keterbatasannya.
+
+3. Menyusun kuesioner
+Gunakan bahasa netral dan satu gagasan untuk setiap pertanyaan. Hindari pertanyaan yang menggiring atau menggabungkan dua hal berbeda. Urutan pertanyaan dapat memengaruhi jawaban; uji coba membantu menemukan istilah yang membingungkan dan pilihan jawaban yang tidak lengkap.
+
+4. Statistik deskriptif
+Rata-rata, median, modus, rentang, dan simpangan baku merangkum data dengan cara berbeda. Rata-rata sensitif terhadap nilai ekstrem, sedangkan median sering lebih mewakili pusat data yang menceng. Pilih ukuran sesuai bentuk distribusi dan tujuan analisis.
+
+5. Visualisasi dan interpretasi
+Grafik harus memiliki judul, label sumbu, satuan, sumber, dan skala yang tidak menyesatkan. Diagram batang cocok membandingkan kategori; histogram menunjukkan distribusi nilai; diagram garis membantu melihat perubahan menurut waktu. Jangan menyimpulkan sebab-akibat hanya dari pola grafik.
+
+6. Ketidakpastian dan pelaporan
+Sampel, alat ukur, nonrespons, dan kesalahan pencatatan dapat memengaruhi hasil. Laporkan batasan dengan jujur. Jangan menghapus data yang tidak sesuai harapan tanpa alasan metodologis. Simpan dokumentasi agar analisis dapat ditinjau ulang.
+
+LATIHAN
+Rancang survei singkat tentang kebiasaan membaca di lingkungan sekolah. Tentukan populasi, metode sampel yang realistis, lima pertanyaan netral, dan tiga cara menyajikan hasil tanpa mengungkap identitas responden.

@@ -135,3 +135,42 @@ Netralisasi: Reaksi antara asam dan basa.
 
 SARAN BELAJAR
 Gunakan buku ini sebagai pengantar. Cocokkan informasi dengan buku ajar dan publikasi lembaga yang kompeten, terutama untuk topik yang berkembang. Catat sumber, penulis atau lembaga, tahun, dan bagian yang digunakan ketika memperluas bacaan.
+PENDALAMAN MATERI DAN PRAKTIK
+
+BAB 6. SATUAN KONSENTRASI DAN PENGENCERAN
+Konsentrasi dapat dinyatakan dengan beberapa cara. Persen massa membandingkan massa zat terlarut dengan massa larutan, sedangkan molaritas menyatakan jumlah mol zat terlarut per liter larutan. Pemilihan satuan bergantung pada kebutuhan perhitungan. Dalam pengenceran, jumlah mol zat terlarut tetap jika tidak terjadi reaksi atau kehilangan zat. Hubungan yang sering digunakan adalah M1V1 = M2V2, dengan volume dinyatakan dalam satuan yang konsisten. Misalnya, larutan 2 molar sebanyak 100 mililiter diencerkan hingga 400 mililiter. Konsentrasi akhirnya menjadi 0,5 molar karena volume menjadi empat kali dan jumlah zat terlarut tetap. Persamaan ini tidak boleh digunakan sembarangan jika terjadi reaksi, penguapan zat terlarut, atau perubahan jumlah mol. Dalam praktik laboratorium, perhitungan harus disertai pencatatan satuan dan prosedur keselamatan.
+
+BAB 7. ELEKTROLIT DAN DAYA HANTAR
+Larutan elektrolit dapat menghantarkan listrik karena mengandung ion bergerak. Elektrolit kuat terionisasi atau terdisosiasi hampir seluruhnya dalam larutan, sedangkan elektrolit lemah hanya sebagian. Larutan nonelektrolit tidak menghasilkan ion dalam jumlah berarti melalui pelarutan biasa. Daya hantar dipengaruhi konsentrasi ion, muatan ion, mobilitas, suhu, dan jenis pelarut. Karena itu, nyala lampu pada alat uji sederhana bukan ukuran langsung konsentrasi tanpa kalibrasi. Dua larutan dengan konsentrasi sama dapat menunjukkan daya hantar berbeda karena jenis ionnya berbeda. Konsep ini penting dalam memahami larutan garam, asam, basa, cairan tubuh, dan proses elektrokimia. Pengujian listrik hanya boleh menggunakan perangkat pembelajaran bertegangan rendah yang dirancang untuk tujuan tersebut.
+
+BAB 8. KESETIMBANGAN ASAM DAN BASA
+Asam dan basa lemah berada dalam kesetimbangan antara bentuk terionisasi dan tidak terionisasi. Tetapan kesetimbangan asam Ka dan basa Kb menggambarkan kecenderungan reaksi tersebut. Nilai Ka yang lebih besar menunjukkan ionisasi asam yang lebih kuat dalam kondisi pembanding yang sama. Pasangan asam-basa konjugasi berbeda satu proton. Larutan penyangga mengandung pasangan asam lemah dan basa konjugasinya atau basa lemah dan asam konjugasinya. Sistem ini dapat mengurangi perubahan pH ketika sejumlah kecil asam atau basa ditambahkan. Namun, kapasitas penyangga terbatas; penambahan berlebihan tetap mengubah pH. Darah dan sejumlah sistem biologis memanfaatkan pengaturan pH yang ketat. Perhitungan kesetimbangan perlu memperhatikan pendekatan yang digunakan dan tidak boleh menyamakan semua asam sebagai asam kuat.
+
+BAB 9. TITRASI DAN ANALISIS KUALITATIF
+Titrasi adalah metode analisis untuk menentukan konsentrasi larutan dengan mereaksikannya bersama larutan standar. Titik ekuivalen terjadi ketika jumlah pereaksi memenuhi perbandingan stoikiometri reaksi. Titik akhir ditentukan melalui perubahan indikator atau instrumen dan diusahakan sedekat mungkin dengan titik ekuivalen. Pemilihan indikator bergantung pada rentang perubahan warnanya dan karakter kurva titrasi. Hasil yang baik memerlukan alat terkalibrasi, pembacaan volume yang teliti, pengulangan, serta pencatatan data. Analisis kualitatif berbeda dari kuantitatif: analisis kualitatif mengidentifikasi keberadaan jenis zat, sedangkan analisis kuantitatif menentukan jumlah atau konsentrasinya. Kegiatan eksperimen asam-basa harus dilakukan dengan bahan dan prosedur sekolah yang aman, memakai perlindungan yang sesuai dan pengawasan guru.
+
+BAB 10. KIMIA LARUTAN DALAM LINGKUNGAN DAN KEHIDUPAN
+pH tanah memengaruhi ketersediaan unsur hara dan aktivitas organisme tanah. pH air dapat memengaruhi kehidupan akuatik, tetapi penilaian kualitas air tidak cukup hanya dengan satu angka pH. Suhu, oksigen terlarut, kekeruhan, zat terlarut, dan kontaminan juga perlu dipertimbangkan. Dalam industri pangan, pengendalian keasaman dapat membantu mutu dan kestabilan produk, tetapi keamanan pangan memerlukan prosedur tervalidasi. Produk pembersih rumah tangga tidak boleh dicampur sembarangan karena beberapa kombinasi dapat menghasilkan gas berbahaya. Label dan petunjuk keselamatan harus diikuti; jangan melakukan eksperimen pencampuran bahan rumah tangga. Kimia larutan berguna untuk menjelaskan proses sehari-hari, tetapi pengetahuan konsep tidak menggantikan pengujian laboratorium yang tepat.
+
+STUDI KASUS
+Sebuah kelompok membandingkan dua sampel air menggunakan kertas indikator. Sampel pertama menunjukkan warna yang mendekati netral, sedangkan sampel kedua sedikit lebih asam. Mereka menyimpulkan sampel pertama pasti aman diminum. Kesimpulan itu tidak sah karena pH hanya satu parameter. Untuk menilai keamanan, diperlukan pemeriksaan mikrobiologi dan parameter kimia lain oleh pihak yang kompeten. Hasil indikator juga memiliki ketidakpastian warna dan rentang pembacaan. Kasus ini menegaskan perbedaan antara hasil pengamatan, interpretasi, dan kesimpulan yang benar-benar didukung data.
+
+LATIHAN TERAPAN
+1. Jelaskan perbedaan molaritas dan persen massa.
+2. Larutan 1,5 M sebanyak 200 mL diencerkan menjadi 600 mL. Tentukan konsentrasi akhir.
+3. Mengapa larutan elektrolit dapat menghantarkan listrik?
+4. Jelaskan perbedaan titik ekuivalen dan titik akhir titrasi.
+5. Mengapa pH saja tidak cukup untuk menyatakan air aman diminum?
+
+PEMBAHASAN LATIHAN
+Molaritas memakai mol per liter larutan, sedangkan persen massa membandingkan massa zat terlarut dengan massa total larutan. Untuk pengenceran, M2 = (1,5 x 200)/600 = 0,5 M. Larutan elektrolit mengandung ion bergerak yang membawa muatan. Titik ekuivalen bersifat stoikiometris, sedangkan titik akhir merupakan tanda pengamatan. Air dapat mengandung mikroorganisme atau kontaminan lain meskipun pH-nya mendekati netral.
+
+GLOSARIUM
+Elektrolit: zat yang menghasilkan ion bergerak dalam larutan atau lelehan.
+Kesetimbangan: keadaan dinamis ketika laju reaksi maju dan balik sama.
+Molaritas: mol zat terlarut per liter larutan.
+Pengenceran: penurunan konsentrasi dengan menambah pelarut.
+pH: ukuran logaritmik yang berkaitan dengan aktivitas ion hidrogen.
+Titrasi: metode analisis menggunakan larutan standar.
+Titik ekuivalen: keadaan ketika pereaksi memenuhi perbandingan reaksi.
+Larutan penyangga: larutan yang menahan perubahan pH dalam batas kapasitasnya.

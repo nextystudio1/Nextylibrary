@@ -187,3 +187,23 @@ BAB LANJUTAN — INFLASI, PENGANGGURAN, DAN PERTUMBUHAN
 Inflasi adalah kenaikan tingkat harga umum secara berkelanjutan, bukan kenaikan harga satu barang saja. Indeks harga mengukur perubahan harga sekeranjang barang dan jasa. Keranjang tersebut merupakan pendekatan dan mungkin tidak sama dengan pola belanja setiap rumah tangga.
 Inflasi dapat dipengaruhi permintaan, biaya produksi, gangguan pasokan, dan faktor eksternal. Dampaknya berbeda menurut pendapatan, jenis pekerjaan, tabungan, dan kemampuan menyesuaikan pengeluaran. Angka inflasi perlu dibaca bersama periode, metode, dan kelompok pengeluaran.
 Pengangguran memiliki berbagai bentuk, termasuk transisi antarpekerjaan dan ketidaksesuaian keterampilan. Pertumbuhan ekonomi biasanya diukur melalui perubahan output, tetapi tidak otomatis menunjukkan pemerataan, kualitas lingkungan, atau kesejahteraan semua penduduk.
+PENDALAMAN MATERI — PASAR, KEBIJAKAN, DAN KESEJAHTERAAN
+PERMINTAAN DAN PENAWARAN
+Permintaan menggambarkan jumlah barang yang ingin dan mampu dibeli pada berbagai tingkat harga. Penawaran menggambarkan jumlah yang ingin dan mampu dijual produsen. Perubahan harga barang itu sendiri menimbulkan gerak sepanjang kurva, sedangkan perubahan pendapatan, selera, biaya produksi, teknologi, atau jumlah pelaku dapat menggeser kurva.
+KESEIMBANGAN DAN PERUBAHAN
+Harga keseimbangan terjadi ketika jumlah diminta sama dengan jumlah ditawarkan. Jika harga berada di atas keseimbangan, dapat muncul surplus; jika di bawahnya, dapat terjadi kekurangan. Dalam kenyataan, penyesuaian dipengaruhi kontrak, informasi, aturan, dan waktu.
+ELASTISITAS
+Elastisitas mengukur seberapa responsif jumlah terhadap perubahan harga atau faktor lain. Barang kebutuhan pokok dalam jangka pendek dapat memiliki respons berbeda dari barang pilihan. Elastisitas membantu memahami dampak perubahan harga dan kebijakan, tetapi hasilnya bergantung pada definisi pasar dan periode pengamatan.
+KEGAGALAN PASAR
+Eksternalitas terjadi ketika kegiatan ekonomi memengaruhi pihak lain tanpa tercermin sepenuhnya dalam harga. Polusi adalah contoh biaya eksternal. Barang publik sulit mengecualikan pengguna dan dapat digunakan bersama, sehingga penyediaannya membutuhkan pertimbangan kolektif. Informasi yang tidak seimbang juga dapat membuat transaksi tidak efisien.
+PERAN KEBIJAKAN PUBLIK
+Pajak, subsidi, regulasi, dan penyediaan layanan publik dapat memengaruhi insentif. Kebijakan perlu dinilai berdasarkan tujuan, biaya, distribusi manfaat, kemungkinan efek samping, dan kapasitas pelaksanaan. Niat baik tidak menjamin hasil baik; evaluasi data diperlukan.
+PERTUMBUHAN DAN PEMBANGUNAN
+Pertumbuhan ekonomi mengukur kenaikan produksi, sedangkan pembangunan mencakup kualitas hidup, pendidikan, kesehatan, kesempatan, dan keberlanjutan. Produk domestik bruto berguna tetapi tidak mengukur seluruh kesejahteraan, pekerjaan rumah tangga, distribusi pendapatan, atau kerusakan lingkungan.
+LITERASI KEUANGAN DAN LEMBAGA
+Lembaga keuangan menghubungkan pihak yang memiliki dana dan pihak yang membutuhkan pembiayaan. Produk keuangan berbeda dalam biaya, risiko, jangka waktu, dan likuiditas. Memahami kontrak, perlindungan konsumen, dan risiko penting sebelum mengambil keputusan.
+LATIHAN
+1. Bedakan perubahan jumlah diminta dan perubahan permintaan.
+2. Berikan contoh eksternalitas positif dan negatif.
+3. Mengapa pertumbuhan ekonomi tidak selalu berarti kesejahteraan merata?
+4. Sebutkan unsur yang perlu diperiksa dalam evaluasi subsidi.

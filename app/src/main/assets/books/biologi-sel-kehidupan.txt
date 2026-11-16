@@ -185,3 +185,23 @@ BAB LANJUTAN — PEMBELAHAN SEL DAN PEWARISAN
 Siklus sel mengatur pertumbuhan, replikasi DNA, dan pembelahan. Mitosis menghasilkan dua sel anak dengan jumlah kromosom yang umumnya sama dengan sel induk. Meiosis menghasilkan sel reproduksi dengan jumlah kromosom setengah, melalui dua tahap pembelahan.
 Rekombinasi dan pemisahan kromosom pada meiosis menghasilkan variasi genetik. Pewarisan sifat dapat dipelajari melalui pola dominan, resesif, dan pola yang lebih kompleks. Banyak sifat dipengaruhi banyak gen serta lingkungan.
 Pengaturan siklus sel penting untuk menjaga jaringan. Perubahan pada sistem pengendali dapat berkontribusi pada pertumbuhan sel yang tidak terkendali. Penelitian biologi sel membantu memahami penyakit, regenerasi, dan perkembangan organisme.
+PENDALAMAN MATERI — SEL, GEN, DAN KESEIMBANGAN HIDUP
+MEMBRAN DAN TRANSPORT
+Membran sel tersusun terutama dari lapisan ganda fosfolipid dengan protein. Struktur ini bersifat selektif: beberapa molekul dapat lewat dengan mudah, sedangkan yang lain memerlukan saluran atau pembawa. Difusi berlangsung mengikuti gradien konsentrasi; osmosis adalah perpindahan air melalui membran selektif.
+Transport aktif memerlukan energi untuk memindahkan zat melawan gradien. Pompa ion membantu mempertahankan perbedaan konsentrasi yang penting bagi fungsi sel saraf dan otot. Perubahan lingkungan dapat mengganggu keseimbangan air dan ion.
+METABOLISME DAN ENZIM
+Metabolisme mencakup reaksi penyusunan dan penguraian. Enzim mempercepat reaksi dengan menurunkan energi aktivasi, tetapi tidak habis digunakan dalam reaksi. Suhu, pH, konsentrasi substrat, dan kondisi lingkungan memengaruhi aktivitas enzim.
+Fotosintesis mengubah energi cahaya menjadi energi kimia yang tersimpan dalam senyawa organik. Respirasi sel melepaskan energi dari molekul organik untuk membentuk ATP. Kedua proses saling berkaitan dalam aliran energi ekosistem.
+DNA, GEN, DAN EKSPRESI
+DNA menyimpan informasi genetik dalam urutan nukleotida. Gen merupakan bagian DNA yang berkontribusi pada produk fungsional. Ekspresi gen melibatkan transkripsi menjadi RNA dan, untuk banyak gen, translasi menjadi protein. Tidak semua gen aktif di setiap sel; pengaturan ekspresi memungkinkan sel dengan materi genetik serupa memiliki fungsi berbeda.
+PEMBELAHAN DAN PEWARISAN
+Mitosis menghasilkan dua sel anak dengan jumlah kromosom yang umumnya sama seperti sel induk. Meiosis menghasilkan sel reproduksi dengan jumlah kromosom setengah dan meningkatkan variasi melalui pemisahan kromosom serta rekombinasi. Kesalahan pembelahan dapat mengubah jumlah atau struktur kromosom.
+HOMEOSTASIS
+Homeostasis menjaga kondisi internal dalam rentang yang mendukung kehidupan. Sistem umpan balik negatif mengurangi penyimpangan, misalnya pengaturan suhu tubuh. Umpan balik positif memperkuat proses tertentu untuk waktu terbatas, seperti rangkaian kontraksi saat persalinan.
+METODE PENGAMATAN
+Mikroskop cahaya memungkinkan pengamatan banyak struktur sel, sedangkan mikroskop elektron menampilkan detail lebih kecil dengan persiapan khusus. Ukuran skala harus diperhatikan; gambar mikroskopis sering diperbesar berkali-kali. Catat pembesaran, pewarnaan, dan keterbatasan alat.
+LATIHAN
+1. Bedakan difusi, osmosis, dan transport aktif.
+2. Mengapa enzim memiliki kondisi kerja optimum?
+3. Jelaskan hubungan DNA, RNA, dan protein.
+4. Bandingkan hasil mitosis dan meiosis.

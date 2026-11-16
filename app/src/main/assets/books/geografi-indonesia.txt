@@ -184,3 +184,21 @@ PROYEK PEMBELAJARAN GEOGRAFI
 Pilih satu lingkungan sekolah atau kawasan publik yang aman untuk diamati. Buat sketsa penggunaan lahan tanpa mencatat identitas atau lokasi rumah pribadi. Tandai fasilitas umum, ruang hijau, jalur pejalan kaki, dan titik yang berpotensi tergenang berdasarkan pengamatan yang wajar.
 Tuliskan metode pengamatan, tanggal, keterbatasan, dan hal yang tidak dapat disimpulkan. Wawancara hanya dilakukan dengan persetujuan. Jangan memasuki properti orang lain atau area berbahaya.
 Pertanyaan evaluasi: Mengapa peta perlu mencantumkan skala? Apa perbedaan bahaya dan risiko? Bagaimana perubahan penggunaan lahan memengaruhi limpasan air? Mengapa data spasial harus mencantumkan sumber dan tanggal?
+PENDALAMAN MATERI — RUANG, BENCANA, DAN PEMBANGUNAN
+BENTUK LAHAN DAN PROSES PEMBENTUKAN
+Bentang alam terbentuk oleh proses dari dalam bumi dan proses permukaan. Tektonisme dan vulkanisme membangun atau mengubah relief, sedangkan pelapukan, erosi, transportasi, dan pengendapan membentuk ulang permukaan. Bentuk lahan perlu dipahami sebagai hasil proses yang berlangsung dalam rentang waktu berbeda.
+IKLIM DAN VARIASI MUSIM
+Iklim Indonesia dipengaruhi letak tropis, pola angin muson, laut, topografi, dan fenomena samudra-atmosfer. Curah hujan dapat berbeda antarpulau dan antarketinggian. Informasi musim sebaiknya menggunakan data beberapa tahun, bukan satu kejadian cuaca.
+KEPENDUDUKAN DAN PERSEBARAN
+Kepadatan penduduk adalah perbandingan jumlah penduduk dengan luas wilayah tertentu. Angka rata-rata dapat menyembunyikan konsentrasi penduduk di kota atau dataran tertentu. Peta kepadatan perlu dibaca bersama akses pekerjaan, transportasi, air, sekolah, dan layanan kesehatan.
+RISIKO BENCANA
+Risiko bencana dipengaruhi bahaya, keterpaparan, dan kerentanan. Gempa bumi merupakan bahaya geologi, tetapi dampaknya bergantung pada kualitas bangunan, kesiapsiagaan, kondisi tanah, dan akses evakuasi. Peta bahaya bukan ramalan waktu kejadian; peta membantu perencanaan dan pengurangan risiko.
+PENGINDERAAN JAUH DAN SIG
+Citra satelit merekam pantulan atau pancaran energi dari permukaan bumi. Sistem Informasi Geografis menggabungkan lapisan data seperti jalan, elevasi, tutupan lahan, dan permukiman. Setiap data memiliki resolusi, tanggal, proyeksi, dan ketidakpastian. Perbandingan citra harus memperhatikan musim serta sensor.
+PEMBANGUNAN BERKELANJUTAN
+Perencanaan wilayah perlu menimbang ekonomi, lingkungan, dan keadilan sosial. Infrastruktur dapat membuka akses, tetapi juga mengubah aliran air, habitat, dan pola permukiman. Analisis dampak dan konsultasi warga membantu mengidentifikasi risiko sebelum keputusan dibuat.
+LATIHAN
+1. Bedakan cuaca dan iklim.
+2. Mengapa kepadatan rata-rata tidak cukup menjelaskan persebaran penduduk?
+3. Jelaskan tiga unsur yang memengaruhi risiko bencana.
+4. Apa keterbatasan membandingkan dua citra satelit yang diambil pada musim berbeda?

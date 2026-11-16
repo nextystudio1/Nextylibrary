@@ -221,4 +221,21 @@ LATIHAN DAN PEMBAHASAN
 3. Apa beda presisi dan recall? Jawab: presisi menilai ketepatan prediksi positif; recall menilai cakupan kasus positif.
 4. Mengapa perlu pengawasan manusia? Jawab: keluaran AI dapat keliru dan keputusan penting membutuhkan tanggung jawab.
 5. Apa itu pergeseran data? Jawab: perubahan karakteristik data penggunaan dibanding data pengembangan.
-
+PENDALAMAN MATERI — PEMBANGUNAN DAN EVALUASI SISTEM AI
+REPRESENTASI MASALAH
+Proyek kecerdasan buatan dimulai dari masalah yang dirumuskan dengan tepat. Tentukan siapa pengguna, keputusan apa yang dibantu, akibat kesalahan, serta kapan manusia harus mengambil alih. Tidak semua masalah memerlukan AI; aturan sederhana atau proses manual dapat lebih transparan dan mudah dirawat.
+DATA DAN LABEL
+Data pelatihan harus relevan dengan penggunaan nyata. Label yang keliru membuat model mempelajari pola yang salah. Dokumentasikan asal data, izin penggunaan, periode, proses pembersihan, dan kelompok yang kurang terwakili. Data historis dapat mengandung ketimpangan masa lalu sehingga prediksi yang menirunya dapat memperkuat ketidakadilan.
+PEMISAHAN DATA
+Data pelatihan digunakan untuk mempelajari pola, data validasi membantu memilih konfigurasi, dan data uji menilai kinerja akhir pada contoh yang tidak dipakai selama pengembangan. Kebocoran data terjadi ketika informasi dari data uji ikut memengaruhi pelatihan atau pemilihan model. Hasil evaluasi kemudian tampak lebih baik daripada kemampuan sebenarnya.
+METRIK DAN KESALAHAN
+Akurasi adalah proporsi prediksi yang benar, tetapi dapat menyesatkan pada kelas yang tidak seimbang. Presisi mengukur seberapa banyak prediksi positif yang benar; recall mengukur seberapa banyak kasus positif yang berhasil ditemukan. Pilih metrik berdasarkan konsekuensi kesalahan. Dalam sistem peringatan, melewatkan kejadian penting mungkin lebih merugikan daripada memberi peringatan tambahan.
+PENGUJIAN DAN PEMANTAUAN
+Uji sistem pada kondisi yang beragam, termasuk data tidak lengkap, perubahan bahasa, gangguan sensor, dan kelompok pengguna berbeda. Setelah diterapkan, pantau perubahan distribusi data dan tingkat kesalahan. Kinerja dapat menurun ketika lingkungan berubah. Sediakan mekanisme pelaporan, penghentian, dan evaluasi ulang.
+TANGGUNG JAWAB MANUSIA
+Keputusan berdampak tinggi memerlukan pengawasan manusia yang memahami keterbatasan sistem. Penjelasan model tidak selalu merupakan alasan kausal yang lengkap. Pengguna perlu diberi tahu kapan AI digunakan dan bagaimana mengajukan koreksi. Catat versi model, data, dan perubahan agar keputusan dapat diaudit.
+LATIHAN
+1. Mengapa data uji tidak boleh dipakai untuk memilih model berulang kali?
+2. Berikan contoh ketika recall lebih penting daripada akurasi.
+3. Sebutkan informasi minimum dalam dokumentasi dataset.
+4. Rancang prosedur jika sistem AI memberi hasil yang merugikan pengguna.

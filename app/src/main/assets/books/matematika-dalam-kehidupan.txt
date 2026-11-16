@@ -378,3 +378,21 @@ Model: representasi sederhana dari situasi nyata.
 Rasio: perbandingan dua besaran.
 Toleransi: rentang penyimpangan yang masih dapat diterima.
 Pembulatan: penyederhanaan angka sesuai ketelitian yang diperlukan.
+PENDALAMAN MATERI — PENGUKURAN, DATA, DAN MODEL
+SATUAN DAN KONVERSI
+Pengukuran membutuhkan satuan yang disepakati. Konversi satuan dilakukan dengan faktor yang setara, misalnya 1 kilometer sama dengan 1.000 meter. Tulis satuan pada setiap tahap agar kesalahan skala mudah ditemukan. Angka tanpa satuan sering tidak cukup untuk menjelaskan hasil.
+SKALA DAN PERBANDINGAN
+Skala peta membandingkan jarak pada gambar dengan jarak sebenarnya. Skala 1:100.000 berarti satu satuan pada peta mewakili 100.000 satuan yang sama di lapangan. Perbandingan juga digunakan dalam resep, campuran, kecepatan, dan kepadatan. Pastikan besaran yang dibandingkan memiliki satuan sejenis.
+GEOMETRI DALAM RUANG
+Keliling mengukur panjang batas bangun, sedangkan luas mengukur daerah dua dimensi. Volume mengukur ruang tiga dimensi. Rumus harus disesuaikan dengan bentuk. Untuk bangun gabungan, pecah menjadi bagian yang lebih sederhana dan perhatikan apakah ada bagian yang tumpang tindih.
+PENGUKURAN DAN KETIDAKPASTIAN
+Setiap alat memiliki resolusi dan keterbatasan. Hasil pengukuran tidak selalu tepat mutlak. Ulangi pengukuran jika memungkinkan, gunakan alat sesuai rentang, dan laporkan angka penting secara wajar. Selisih kecil belum tentu bermakna jika berada dalam batas ketidakpastian.
+DATA DAN RATA-RATA
+Mean diperoleh dengan menjumlahkan data dan membaginya dengan banyak data. Median adalah nilai tengah setelah data diurutkan. Modus adalah nilai yang paling sering muncul. Pilihan ukuran pemusatan bergantung pada bentuk distribusi dan tujuan analisis. Data ekstrem dapat menarik mean sehingga median lebih representatif.
+MODEL MATEMATIKA
+Model menyederhanakan situasi agar dapat dianalisis. Model kecepatan konstan menggunakan jarak = kecepatan × waktu, tetapi asumsi ini tidak sesuai jika kecepatan berubah. Setiap model memiliki domain berlaku. Periksa hasil terhadap kenyataan dan revisi asumsi jika diperlukan.
+LATIHAN
+1. Ubah 3,6 kilometer menjadi meter.
+2. Jelaskan arti skala peta 1:50.000.
+3. Kapan median lebih tepat daripada mean?
+4. Sebutkan dua asumsi pada model jarak = kecepatan × waktu.

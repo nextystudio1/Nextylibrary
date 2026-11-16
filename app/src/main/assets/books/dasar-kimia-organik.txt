@@ -46,7 +46,7 @@ BAB 6. POLIMER DAN KEHIDUPAN
 Polimer tersusun dari unit berulang yang disebut monomer. Protein, polisakarida, dan asam nukleat merupakan polimer biologis, sedangkan banyak plastik merupakan polimer sintetis. Sifat polimer dipengaruhi jenis monomer, panjang rantai, percabangan, dan interaksi antarrantai. Penggunaan bahan perlu mempertimbangkan ketahanan serta akhir masa pakai.
 
 PROYEK TERPADU
-Proyek Dasar Kimia Organik: pilih persoalan nyata yang dapat dikaji dengan konsep dari beberapa bab. Rumuskan pertanyaan, tujuan, ruang lingkup, dan cara memperoleh informasi. Gunakan metode yang sesuai dengan bidang ini, catat sumber dan batas data, lalu susun hasil menjadi laporan yang memisahkan temuan, penafsiran, dan rekomendasi. Jelaskan siapa yang dapat memanfaatkan hasil serta apa yang masih perlu diteliti.
+Proyek kajian struktur dan sifat senyawa: pilih tiga senyawa organik umum yang rumus atau struktur sederhananya tersedia di buku ajar. Identifikasi gugus fungsi, jenis ikatan, kepolaran perkiraan, dan kemungkinan interaksi antarmolekul. Bandingkan sifat yang dapat diperkirakan dari struktur dan jelaskan mengapa prediksi perlu diverifikasi melalui sumber tepercaya. Proyek ini berupa kajian pustaka dan gambar struktur, bukan percobaan atau pencampuran bahan kimia.
 
 EVALUASI AKHIR
 1. Jelaskan mengapa atom karbon dapat membentuk banyak struktur molekul.
@@ -124,5 +124,5 @@ LATIHAN
 1. Apa gagasan utama yang dijelaskan dalam LANJUTAN: KESELAMATAN, LINGKUNGAN, DAN KIMIA HIJAU?
 2. Jelaskan hubungan antara dua konsep penting pada bab ini.
 3. Terapkan konsep tersebut pada satu kasus baru dan uraikan alasannya.
-4. Sebutkan asumsi atau keterbatasan yang perlu diperhatikan.
+4. Mengapa identifikasi gugus fungsi saja belum cukup untuk memprediksi seluruh sifat fisik suatu senyawa?
 5. Informasi apa yang masih diperlukan agar kesimpulan lebih kuat?

@@ -399,3 +399,58 @@ Rancang aplikasi katalog buku sederhana. Tuliskan tiga kebutuhan fungsional dan 
 
 RANGKUMAN
 Rekayasa perangkat lunak memadukan kebutuhan, desain, struktur data, pengujian, keamanan, kontrol versi, dan pemeliharaan. Kode yang dapat berjalan hanyalah satu bagian dari produk yang andal.
+
+BAB PENGAYAAN — STRUKTUR DATA DASAR
+
+Struktur data menentukan cara informasi disimpan dan diatur agar dapat digunakan secara efisien. Array menyimpan kumpulan elemen dalam urutan tertentu dan biasanya diakses melalui indeks. List dapat mendukung penambahan atau penghapusan elemen dengan aturan implementasi tertentu. Stack mengikuti prinsip terakhir masuk, pertama keluar, sedangkan queue mengikuti prinsip pertama masuk, pertama keluar.
+
+Dictionary atau map menyimpan pasangan kunci dan nilai. Struktur ini berguna ketika program perlu mencari data berdasarkan identitas tertentu, misalnya kode barang menuju nama dan harga. Set menyimpan elemen unik dan membantu memeriksa keanggotaan atau menghapus duplikasi.
+
+Pemilihan struktur data memengaruhi kinerja program. Pencarian pada array tak terurut dapat memerlukan pemeriksaan banyak elemen, sedangkan pencarian pada struktur berbasis hash rata-rata dapat lebih cepat dengan asumsi tertentu. Namun kecepatan bukan satu-satunya pertimbangan; kebutuhan urutan, penggunaan memori, dan kemudahan pemeliharaan juga penting.
+
+BAB PENGAYAAN — PENCARIAN DAN PENGURUTAN
+
+Pencarian linear memeriksa elemen satu per satu hingga nilai ditemukan atau seluruh data selesai diperiksa. Metode ini sederhana dan dapat digunakan pada data yang belum terurut. Binary search membagi ruang pencarian menjadi dua setiap langkah, tetapi mensyaratkan data telah terurut dan akses elemen yang sesuai.
+
+Pengurutan menyusun data berdasarkan aturan, seperti angka dari kecil ke besar atau nama secara alfabetis. Algoritma pengurutan memiliki perbedaan kompleksitas waktu dan kebutuhan memori. Untuk kumpulan data kecil, algoritma sederhana dapat memadai. Untuk data besar, algoritma yang lebih efisien biasanya diperlukan.
+
+Kompleksitas waktu sering dijelaskan menggunakan notasi Big O untuk menggambarkan bagaimana kebutuhan langkah bertambah ketika ukuran masukan meningkat. O(n) tumbuh sebanding dengan jumlah data, sedangkan O(n²) dapat meningkat jauh lebih cepat. Notasi ini merupakan gambaran pertumbuhan, bukan prediksi waktu persis pada semua perangkat.
+
+BAB PENGAYAAN — MODULARITAS DAN PENGUJIAN
+
+Program yang baik dibagi menjadi fungsi atau modul dengan tanggung jawab yang jelas. Fungsi sebaiknya menerima masukan yang diperlukan dan menghasilkan keluaran yang dapat diprediksi. Pemisahan tanggung jawab membuat kode lebih mudah diuji, digunakan kembali, dan diperbaiki.
+
+Pengujian unit memeriksa bagian kecil program secara terpisah. Pengujian integrasi memeriksa apakah beberapa bagian bekerja bersama. Pengujian sistem menilai perilaku aplikasi secara menyeluruh. Kasus uji sebaiknya mencakup masukan normal, batas, kosong, dan tidak valid. Jangan hanya menguji satu contoh yang kebetulan berhasil.
+
+Debugging adalah proses menemukan dan memperbaiki penyebab kesalahan. Mulailah dengan mereproduksi masalah, membaca pesan kesalahan, mempersempit bagian yang terlibat, lalu menguji dugaan secara sistematis. Hindari mengubah banyak bagian sekaligus karena penyebab perbaikan menjadi sulit diketahui.
+
+BAB PENGAYAAN — FILE, API, DAN KEAMANAN DASAR
+
+Program sering membaca dan menulis file. Operasi file perlu menangani kemungkinan file tidak ditemukan, format salah, izin ditolak, atau penyimpanan penuh. Data yang berasal dari pengguna harus divalidasi sebelum diproses. Validasi membantu mencegah kesalahan logika dan mengurangi risiko penyalahgunaan.
+
+API memungkinkan satu program berkomunikasi dengan layanan lain melalui aturan yang disepakati. Ketika mengirim permintaan, periksa alamat layanan, metode, autentikasi, format data, kode status, dan kemungkinan kegagalan jaringan. Jangan menanamkan kunci rahasia dalam kode yang dibagikan secara publik. Gunakan pengelolaan rahasia dan hak akses minimum.
+
+LATIHAN
+1. Apa perbedaan stack dan queue?
+2. Mengapa binary search memerlukan data terurut?
+3. Apa arti kompleksitas O(n)?
+4. Mengapa pengujian perlu mencakup masukan batas dan tidak valid?
+5. Mengapa kunci API tidak boleh ditulis di kode publik?
+
+KUNCI PEMBAHASAN
+1. Stack memakai prinsip terakhir masuk pertama keluar; queue memakai pertama masuk pertama keluar.
+2. Karena algoritma menentukan bagian pencarian berdasarkan urutan data.
+3. Kebutuhan langkah bertumbuh sebanding dengan ukuran masukan.
+4. Kesalahan sering muncul pada kondisi tepi yang tidak terlihat pada contoh normal.
+5. Pihak lain dapat menyalin dan menyalahgunakan akses layanan.
+
+GLOSARIUM TAMBAHAN
+Array: kumpulan elemen berurutan yang diakses melalui indeks.
+Stack: struktur data dengan prinsip LIFO.
+Queue: struktur data dengan prinsip FIFO.
+Dictionary: struktur pasangan kunci dan nilai.
+Binary search: pencarian dengan membagi ruang pencarian pada data terurut.
+Big O: notasi untuk menggambarkan pertumbuhan kompleksitas.
+Unit test: pengujian bagian kecil program.
+API: antarmuka untuk komunikasi antarperangkat lunak.
+Validasi: pemeriksaan apakah masukan sesuai aturan.

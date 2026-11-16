@@ -210,3 +210,26 @@ Aksesibilitas: Kemudahan produk digunakan oleh beragam pengguna.
 
 CATATAN SUMBER DAN PENGEMBANGAN
 Buku ini merupakan materi pengantar orisinal. Untuk tugas akademik atau keputusan praktis, bandingkan penjelasan dengan buku ajar, standar, peraturan, dan publikasi lembaga yang kompeten. Catat judul sumber, penulis atau lembaga, tahun terbit, dan bagian yang digunakan. Periksa tanggal sumber pada topik yang dapat berubah.
+
+BAB LANJUTAN: RISET PENGGUNA DAN PENGEMBANGAN PRODUK
+
+1. Memahami masalah pengguna
+Pengembangan produk dimulai dengan memahami kegiatan, kebutuhan, hambatan, dan konteks pengguna. Pernyataan “pengguna ingin fitur lebih banyak” belum tentu menggambarkan masalah sebenarnya. Wawancara, observasi, dan analisis keluhan dapat membantu menemukan pekerjaan yang ingin diselesaikan pengguna.
+
+2. Menyusun kebutuhan
+Pisahkan kebutuhan fungsional, seperti kemampuan menyimpan data, dari kebutuhan kualitas seperti kemudahan, keandalan, aksesibilitas, dan keamanan. Susun prioritas berdasarkan manfaat, risiko, biaya, serta bukti. Hindari menjadikan pendapat satu orang sebagai gambaran seluruh pengguna.
+
+3. Ideasi dan pemilihan konsep
+Buat beberapa alternatif sebelum memilih. Gunakan sketsa, peta perjalanan pengguna, atau matriks keputusan. Kriteria dapat mencakup kegunaan, kelayakan teknis, biaya, dampak lingkungan, dan kemudahan perawatan. Catat alasan pemilihan agar keputusan dapat ditinjau kembali.
+
+4. Prototipe dan pengujian
+Prototipe dapat berupa gambar, model sederhana, atau produk interaktif terbatas. Tujuannya menguji asumsi, bukan langsung menghasilkan produk final. Berikan tugas yang jelas kepada peserta uji dan amati kesulitan tanpa terlalu banyak mengarahkan. Minta persetujuan sebelum mengumpulkan data dan jangan menyimpan informasi pribadi yang tidak diperlukan.
+
+5. Desain inklusif dan aksesibilitas
+Pertimbangkan variasi kemampuan, bahasa, usia, perangkat, dan lingkungan penggunaan. Teks yang terbaca, kontras memadai, navigasi konsisten, dan alternatif input dapat memperluas akses. Uji dengan pengguna yang beragam jika memungkinkan.
+
+6. Siklus perbaikan
+Setelah peluncuran, kumpulkan masukan, pantau kesalahan, dan ukur apakah produk benar-benar menyelesaikan masalah. Rencana pemeliharaan perlu mencakup pembaruan, dukungan, keamanan, ketersediaan suku cadang, dan akhir masa pakai.
+
+LATIHAN
+Pilih benda atau layanan yang sering digunakan. Tuliskan tiga masalah pengguna, rancang dua alternatif solusi, tentukan kriteria pemilihan, lalu buat rencana uji prototipe sederhana.

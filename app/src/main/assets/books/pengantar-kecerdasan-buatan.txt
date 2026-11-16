@@ -481,3 +481,40 @@ Pergeseran konsep: perubahan hubungan antara masukan dan target.
 Analisis kesalahan: pemeriksaan sistematis terhadap contoh prediksi yang keliru.
 Data sintetis: data buatan yang disusun untuk tujuan tertentu.
 Tata kelola AI: kebijakan, peran, dan proses untuk mengelola risiko serta tanggung jawab sistem AI.
+BAB 13 — MENILAI KUALITAS MODEL AI
+
+Model AI tidak cukup dinilai dari satu contoh yang berhasil. Penilaian harus menggunakan kumpulan data uji yang mewakili situasi penggunaan sebenarnya. Data pelatihan dipakai untuk mempelajari pola, data validasi membantu memilih pendekatan dan pengaturan, sedangkan data uji digunakan untuk memperkirakan kemampuan pada contoh yang belum pernah dipakai selama pengembangan. Memakai data uji berulang kali untuk mengubah model dapat membuat hasil penilaian terlalu optimistis.
+
+Pada tugas klasifikasi, akurasi adalah proporsi prediksi yang benar dari seluruh prediksi. Namun, akurasi dapat menyesatkan ketika kelas tidak seimbang. Bayangkan sistem mendeteksi transaksi yang perlu diperiksa: jika hanya satu dari seratus transaksi bermasalah, model yang selalu menyatakan “normal” memiliki akurasi 99 persen, tetapi gagal menemukan seluruh kasus bermasalah. Karena itu, pengembang juga memeriksa precision, recall, dan F1-score.
+
+Precision menjawab pertanyaan: dari semua contoh yang diprediksi positif, berapa bagian yang benar-benar positif? Recall menjawab: dari semua contoh yang benar-benar positif, berapa bagian yang berhasil ditemukan? F1-score merangkum precision dan recall melalui rata-rata harmonik. Pemilihan metrik bergantung pada akibat kesalahan. Dalam penyaringan awal penyakit, misalnya, melewatkan kasus yang perlu pemeriksaan dapat lebih serius daripada menghasilkan beberapa peringatan tambahan. Keputusan klinis tetap memerlukan tenaga kesehatan.
+
+Matriks kebingungan membantu melihat jenis kesalahan. Pada klasifikasi dua kelas terdapat true positive, true negative, false positive, dan false negative. Pengembang harus menerjemahkan angka tersebut menjadi dampak nyata bagi pengguna. Untuk sistem rekomendasi, metrik seperti click-through rate saja tidak cukup karena klik tidak selalu berarti manfaat. Waktu penggunaan, kepuasan, keragaman rekomendasi, dan dampak jangka panjang dapat memberi gambaran lebih lengkap.
+
+Evaluasi juga harus memeriksa kelompok pengguna dan kondisi yang berbeda. Kinerja yang tinggi pada satu bahasa, wilayah, rentang usia, atau jenis perangkat belum tentu berlaku pada kelompok lain. Ketimpangan data dapat membuat sistem lebih sering keliru pada kelompok yang kurang terwakili. Audit harus dilakukan dengan menjaga privasi dan menghindari pengumpulan data yang tidak diperlukan.
+
+Latihan: sebuah model memiliki 90 prediksi positif. Dari jumlah itu, 72 benar. Terdapat 80 kasus positif sebenarnya. Precision adalah 72/90 atau 80 persen. Recall adalah 72/80 atau 90 persen. Angka ini menunjukkan model cukup baik menemukan kasus positif, tetapi sebagian peringatannya keliru. Diskusikan apakah hal tersebut dapat diterima dengan mempertimbangkan biaya setiap jenis kesalahan.
+
+BAB 14 — DATA, PRIVASI, DAN TATA KELOLA
+
+Data bukan bahan mentah yang bebas dipakai tanpa batas. Data dapat menggambarkan kebiasaan, lokasi, kondisi ekonomi, kesehatan, hubungan sosial, atau identitas seseorang. Pengumpulan data harus memiliki tujuan yang jelas, dasar yang sah, dan batas penggunaan. Prinsip minimisasi data berarti hanya mengumpulkan informasi yang benar-benar diperlukan untuk fungsi yang dijelaskan kepada pengguna.
+
+Siklus tata kelola data mencakup perencanaan, pengumpulan, pemeriksaan kualitas, penyimpanan, penggunaan, pembagian, retensi, dan penghapusan. Setiap tahap membutuhkan penanggung jawab. Organisasi perlu menetapkan siapa yang boleh mengakses data, untuk tujuan apa, berapa lama data disimpan, serta bagaimana insiden ditangani. Catatan akses membantu penyelidikan ketika terjadi penggunaan yang tidak semestinya.
+
+Anonimisasi berupaya menghilangkan hubungan antara data dan identitas seseorang, sedangkan pseudonimisasi mengganti pengenal langsung dengan kode. Keduanya tidak otomatis membuat data bebas risiko. Gabungan beberapa atribut yang tampak biasa dapat memungkinkan identifikasi ulang. Oleh karena itu, akses terbatas, pengurangan detail, dan evaluasi risiko tetap diperlukan.
+
+Data sintetis dibuat secara artifisial untuk meniru sebagian karakteristik data nyata. Data ini dapat membantu pengujian ketika akses ke data asli dibatasi, tetapi kualitas dan risiko kebocorannya tetap harus diperiksa. Data sintetis bukan jaminan bahwa bias atau pola sensitif telah hilang.
+
+Organisasi sebaiknya menyediakan penjelasan yang mudah dipahami tentang data yang digunakan, menyediakan saluran pertanyaan, dan meninjau kembali kebutuhan penyimpanan. Ketika tujuan sudah tercapai, data yang tidak lagi diperlukan sebaiknya dihapus sesuai kebijakan dan ketentuan yang berlaku. Transparansi dan akuntabilitas merupakan bagian dari kualitas sistem, bukan tambahan setelah produk selesai.
+
+BAB 15 — MENGUJI AI DALAM KONDISI NYATA
+
+Pengujian laboratorium sering menggunakan lingkungan yang lebih teratur daripada dunia nyata. Setelah model diterapkan, masukan dapat berubah, perangkat pengguna beragam, jaringan tidak stabil, dan cara orang memakai sistem mungkin berbeda dari perkiraan. Perubahan distribusi data disebut data drift ketika karakteristik masukan berubah, sedangkan perubahan hubungan antara masukan dan target dapat disebut concept drift.
+
+Pemantauan produksi perlu mengamati kualitas prediksi, waktu respons, tingkat kegagalan, biaya komputasi, dan pola masukan. Sistem harus memiliki ambang peringatan yang masuk akal serta prosedur ketika kinerja menurun. Tidak setiap perubahan kecil menuntut pelatihan ulang; tim perlu mencari penyebab dan menguji perbaikan sebelum menerapkannya.
+
+Pengujian A/B membandingkan dua versi pada kelompok yang dialokasikan secara terencana. Hasilnya perlu dianalisis dengan memperhatikan ukuran sampel, durasi, dan kemungkinan dampak yang tidak diinginkan. Eksperimen tidak boleh mengorbankan keselamatan atau hak pengguna. Untuk keputusan berdampak tinggi, peninjauan manusia dan mekanisme banding tetap penting.
+
+Studi kasus: sekolah menggunakan sistem untuk menyarankan bahan belajar. Tim menemukan bahwa rekomendasi kurang sesuai bagi siswa dengan koneksi internet terbatas. Solusinya bukan sekadar mengganti model; tim juga menyediakan materi ringan, pilihan unduh yang aman, dan cara memberi umpan balik. Kasus ini menunjukkan bahwa keberhasilan AI bergantung pada keseluruhan layanan, bukan hanya skor model.
+
+Rangkuman bab: model yang baik harus diuji dengan metrik yang sesuai, data yang mewakili, pengawasan berkelanjutan, dan tata kelola yang bertanggung jawab. Kemampuan teknis harus berjalan bersama perlindungan pengguna.

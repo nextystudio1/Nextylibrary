@@ -515,3 +515,52 @@ Sebuah benda berpindah 12 meter ke timur lalu 5 meter ke barat. Jarak tempuhnya 
 
 RANGKUMAN
 Fisika memerlukan pengukuran, satuan, model, dan penalaran vektor. Hasil perhitungan harus ditafsirkan sesuai asumsi dan kondisi eksperimen.
+
+BAB PENGAYAAN — SUHU, KALOR, DAN PERPINDAHAN PANAS
+
+Suhu berkaitan dengan keadaan termal suatu benda, sedangkan kalor adalah energi yang berpindah karena perbedaan suhu. Ketika dua benda bersentuhan, energi termal berpindah dari benda bersuhu lebih tinggi menuju yang lebih rendah hingga mendekati kesetimbangan termal. Suhu tidak sama dengan jumlah energi total karena massa dan jenis bahan juga berpengaruh.
+
+Kalor dapat berpindah melalui konduksi, konveksi, dan radiasi. Konduksi terjadi melalui interaksi partikel dalam bahan, konveksi melalui gerak fluida, sedangkan radiasi melalui gelombang elektromagnetik. Matahari memanaskan Bumi terutama melalui radiasi, sementara air mendidih memperlihatkan perpindahan panas melalui konduksi dan konveksi.
+
+Kalor jenis menyatakan energi yang diperlukan untuk menaikkan suhu satu satuan massa zat sebesar satu derajat. Bahan dengan kalor jenis tinggi membutuhkan energi lebih besar untuk perubahan suhu yang sama. Konsep ini menjelaskan mengapa wilayah pesisir sering mengalami perubahan suhu harian yang lebih moderat dibanding wilayah daratan tertentu.
+
+BAB PENGAYAAN — GELOMBANG DAN BUNYI
+
+Gelombang memindahkan energi tanpa memindahkan materi secara keseluruhan. Gelombang mekanik memerlukan medium, seperti bunyi dan gelombang air. Gelombang elektromagnetik dapat merambat tanpa medium, seperti cahaya. Panjang gelombang, frekuensi, amplitudo, dan cepat rambat merupakan besaran penting untuk mendeskripsikan gelombang.
+
+Bunyi dihasilkan oleh getaran dan merambat melalui medium. Frekuensi berkaitan dengan tinggi-rendah nada, sedangkan amplitudo berkaitan dengan kuat-lemah bunyi dalam kondisi tertentu. Kecepatan bunyi bergantung pada sifat medium dan suhu. Bunyi tidak merambat di ruang hampa karena tidak ada medium untuk meneruskan getaran mekanik.
+
+Pemantulan bunyi dimanfaatkan pada sonar dan pengukuran jarak. Waktu tempuh gelombang pergi-pulang harus dibagi dua untuk memperoleh jarak satu arah. Prinsip ini juga digunakan pada beberapa teknologi pencitraan dan pengukuran, dengan penyesuaian terhadap medium serta frekuensi.
+
+BAB PENGAYAAN — LISTRIK DALAM RANGKAIAN
+
+Arus listrik adalah laju aliran muatan listrik. Tegangan menyatakan beda potensial yang mendorong perpindahan muatan, sedangkan hambatan menggambarkan kesulitan aliran arus. Hukum Ohm menyatakan V = IR untuk komponen ohmik dalam kondisi tertentu. Hubungan ini membantu menghitung besaran rangkaian sederhana.
+
+Pada rangkaian seri, arus yang melalui setiap komponen sama dan tegangan terbagi. Pada rangkaian paralel, beda potensial pada cabang sama sedangkan arus terbagi. Rangkaian rumah tangga umumnya dirancang paralel agar perangkat dapat bekerja secara independen. Instalasi listrik harus dilakukan oleh tenaga kompeten dan mengikuti standar keselamatan.
+
+Daya listrik dapat dihitung sebagai hasil kali tegangan dan arus pada kondisi arus searah sederhana. Energi yang digunakan bergantung pada daya dan lama pemakaian. Label daya perangkat membantu memperkirakan konsumsi, tetapi penggunaan aktual dapat berubah sesuai mode kerja.
+
+LATIHAN
+1. Apa perbedaan suhu dan kalor?
+2. Sebutkan tiga cara perpindahan panas.
+3. Mengapa bunyi tidak merambat di ruang hampa?
+4. Apa hubungan tegangan, arus, dan hambatan menurut hukum Ohm?
+5. Apa perbedaan rangkaian seri dan paralel?
+
+KUNCI PEMBAHASAN
+1. Suhu menggambarkan keadaan termal; kalor adalah energi yang berpindah karena perbedaan suhu.
+2. Konduksi, konveksi, dan radiasi.
+3. Bunyi adalah gelombang mekanik yang memerlukan medium.
+4. V = IR untuk komponen ohmik dalam kondisi yang sesuai.
+5. Seri memiliki arus sama melalui komponen; paralel memiliki tegangan sama pada tiap cabang.
+
+GLOSARIUM TAMBAHAN
+Kalor: energi yang berpindah akibat perbedaan suhu.
+Kalor jenis: energi per massa untuk menaikkan suhu satu derajat.
+Konduksi: perpindahan panas melalui interaksi partikel.
+Konveksi: perpindahan panas melalui aliran fluida.
+Radiasi: perpindahan energi melalui gelombang elektromagnetik.
+Frekuensi: jumlah getaran atau siklus per satuan waktu.
+Tegangan: beda potensial listrik.
+Arus: laju aliran muatan listrik.
+Hambatan: ukuran kesulitan aliran arus.

@@ -49,7 +49,6 @@ PROYEK TERPADU
 Buat kajian mini untuk Dasar Pengolahan Data dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-EVALUASI AKHIR
 1. Jelaskan mengapa pertanyaan analisis harus ditentukan sebelum mengolah data.
 2. Bedakan data hilang, data duplikat, dan nilai pencilan.
 3. Uraikan langkah pemeriksaan konsistensi tipe, format, dan rentang nilai.

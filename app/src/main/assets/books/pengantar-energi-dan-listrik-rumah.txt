@@ -6,7 +6,7 @@ DESKRIPSI
 Memahami energi, daya, tagihan listrik, efisiensi, sumber energi, dan keselamatan kelistrikan secara konseptual.
 
 TUJUAN PEMBELAJARAN
-Setelah mempelajari Pengantar Energi dan Listrik Rumah, pembaca mampu menjelaskan memahami energi, daya, tagihan listrik, efisiensi, sumber energi, dan keselamatan kelistrikan secara konseptual., membedakan istilah yang sering tertukar, menilai contoh berdasarkan bukti, dan menerapkan konsep secara tepat sesuai konteks.
+Setelah mempelajari buku ini, pembaca diharapkan mampu membedakan energi dan daya, membaca label konsumsi listrik, memperkirakan penggunaan energi, memahami prinsip efisiensi, serta mengenali aturan keselamatan kelistrikan rumah tangga.
 
 BAB 1. ENERGI DALAM KEHIDUPAN
 
@@ -93,11 +93,11 @@ LATIHAN BAB
 5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 EVALUASI AKHIR
-1. Pilih tiga konsep dari buku ini dan jelaskan hubungan di antara ketiganya.
-2. Buat satu studi kasus sederhana yang sesuai dengan topik buku. Jelaskan masalah, informasi yang diperlukan, pilihan tindakan, dan alasan memilih solusi.
-3. Temukan satu klaim populer terkait topik ini. Periksa sumber, bukti, tanggal, dan konteksnya. Tulis kesimpulan yang tidak melebihi bukti.
-4. Susun rencana penerapan selama satu minggu. Tentukan kegiatan, indikator keberhasilan, dan cara mengevaluasinya.
-5. Refleksikan bagian yang paling sulit dipahami serta strategi belajar yang akan digunakan untuk memperbaikinya.
+1. Jelaskan perbedaan daya listrik dan energi listrik.
+2. Sebuah alat berdaya 100 watt digunakan selama 5 jam. Hitung energi yang digunakan dalam kWh.
+3. Mengapa label efisiensi dan daya perlu diperiksa sebelum memilih peralatan?
+4. Jelaskan fungsi pengaman listrik dan pentingnya instalasi sesuai standar.
+5. Sebutkan cara mengurangi konsumsi listrik tanpa mengorbankan keselamatan. bagian yang paling sulit dipahami serta strategi belajar yang akan digunakan untuk memperbaikinya.
 
 PEMBAHASAN DAN ARAH JAWABAN
 Pembahasan Pengantar Energi dan Listrik Rumah harus memperlihatkan alur berpikir: konsep yang dipilih, alasan penerapannya, bukti pendukung, dan batas kesimpulan. Pada soal kasus, nilai kecocokan solusi dengan kondisi. Pada soal verifikasi, periksa asal informasi dan konteksnya.
@@ -114,19 +114,19 @@ Naskah ini merupakan bahan pembelajaran orisinal yang disusun untuk NextyLibrary
 
 PENDALAMAN MATERI
 
-BAB 6. DAYA, ENERGI, DAN KONSUMSI LISTRIK
+BAB 7. DAYA, ENERGI, DAN KONSUMSI LISTRIK
 Daya listrik menyatakan laju penggunaan atau pemindahan energi dan diukur dalam watt. Energi listrik dapat dihitung dari daya dikalikan waktu. Perangkat 100 watt yang digunakan selama 5 jam memakai energi 500 watt-jam atau 0,5 kilowatt-jam. Perhitungan ini membantu memperkirakan konsumsi, tetapi daya aktual dapat berubah mengikuti mode kerja perangkat. Label daya memberi nilai acuan, bukan selalu konsumsi konstan. Catat waktu penggunaan dan periksa spesifikasi produsen. Penghematan energi dapat dilakukan melalui pemilihan perangkat efisien, pemeliharaan, pengaturan suhu yang wajar, dan mematikan perangkat yang tidak digunakan sesuai petunjuk.
 
-BAB 7. RANGKAIAN SERI DAN PARALEL
+BAB 8. RANGKAIAN SERI DAN PARALEL
 Pada rangkaian seri, komponen tersusun dalam satu jalur sehingga arus yang sama melewati setiap komponen. Pada rangkaian paralel, terdapat cabang sehingga tegangan pada cabang ideal sama dengan tegangan sumber. Instalasi rumah menggunakan prinsip rangkaian paralel agar perangkat dapat bekerja secara independen. Jika satu perangkat dimatikan, perangkat lain tidak harus ikut padam. Perhitungan rangkaian perlu memperhatikan tegangan, arus, hambatan, dan batas komponen. Materi ini bersifat konseptual; jangan membuka stopkontak, panel listrik, atau mencoba merakit sambungan listrik rumah. Pemeriksaan instalasi harus dilakukan tenaga kompeten.
 
-BAB 8. PENGAMAN DAN KESELAMATAN
+BAB 9. PENGAMAN DAN KESELAMATAN
 Instalasi listrik memiliki pengaman seperti pemutus arus dan sistem pembumian yang dirancang untuk mengurangi risiko. Pengaman harus sesuai kapasitas instalasi dan dipasang dengan benar. Kabel rusak, stopkontak longgar, bau terbakar, atau perangkat yang terasa tidak normal merupakan tanda untuk menghentikan penggunaan dan meminta pemeriksaan orang dewasa atau teknisi berwenang. Jangan menyentuh kabel terbuka atau peralatan listrik yang terkena air. Jangan membebani satu terminal dengan banyak perangkat. Keselamatan lebih penting daripada mencoba memperbaiki sendiri. Ikuti petunjuk produsen dan standar kelistrikan setempat.
 
-BAB 9. ENERGI TERBARUKAN DI RUMAH
+BAB 10. ENERGI TERBARUKAN DI RUMAH
 Panel surya mengubah sebagian energi cahaya menjadi energi listrik. Keluaran dipengaruhi intensitas cahaya, orientasi, suhu, bayangan, dan efisiensi sistem. Sistem surya rumah dapat terhubung jaringan atau menggunakan penyimpanan, dengan rancangan dan pengamanan yang berbeda. Pemanas air surya memanfaatkan energi matahari untuk menaikkan suhu air. Evaluasi teknologi perlu mempertimbangkan biaya awal, perawatan, umur pakai, kebutuhan energi, dan kondisi lokasi. Jangan menganggap energi terbarukan tanpa dampak; bahan, produksi, transportasi, dan akhir masa pakai juga memiliki jejak lingkungan.
 
-BAB 10. AUDIT ENERGI SEDERHANA
+BAB 11. AUDIT ENERGI SEDERHANA
 Audit energi dimulai dengan daftar perangkat, daya tertera, perkiraan jam pemakaian, dan frekuensi penggunaan. Perkiraan energi harian dapat dihitung dengan mengalikan daya dalam kilowatt dengan waktu dalam jam. Hasil tiap perangkat dijumlahkan untuk mendapat perkiraan total. Periksa perangkat yang menyala lama dan peluang penghematan yang tidak mengurangi keselamatan atau kebutuhan penting. Bandingkan perkiraan dengan tagihan untuk melihat apakah asumsi masuk akal. Perbedaan dapat terjadi karena daya aktual berubah, pemakaian tidak tercatat, atau perangkat lain ikut menggunakan energi. Audit sederhana membantu membuat keputusan berbasis data.
 
 STUDI KASUS

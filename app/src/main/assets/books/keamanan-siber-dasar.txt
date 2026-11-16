@@ -1,0 +1,131 @@
+Keamanan Siber Dasar
+Penulis: Nexty Studio
+Edisi pembelajaran orisinal NextyLibrary
+
+DESKRIPSI
+Mengenal privasi, kata sandi, penipuan digital, perangkat aman, dan perilaku bertanggung jawab di internet.
+
+TUJUAN PEMBELAJARAN
+Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan konsep utama, menghubungkannya dengan situasi sehari-hari, mengevaluasi informasi, dan menerapkan langkah yang bertanggung jawab.
+
+BAB 1. ANCAMAN DIGITAL DAN CARA BERPIKIR AMAN
+
+Keamanan siber adalah upaya melindungi perangkat, akun, jaringan, dan informasi dari akses atau gangguan yang tidak diinginkan. Ancaman dapat berupa penipuan, pencurian akun, perangkat lunak berbahaya, kebocoran data, atau manipulasi psikologis. Tidak semua ancaman terlihat seperti serangan teknis; pesan yang mendesak dan menyamar sebagai pihak tepercaya juga dapat menjadi pintu masuk.
+
+Gunakan prinsip berhenti, periksa, dan pastikan. Berhenti sebelum mengeklik tautan atau mengirim data. Periksa alamat pengirim, ejaan domain, konteks permintaan, dan apakah pesan tersebut masuk akal. Pastikan melalui saluran resmi yang dicari secara mandiri, bukan nomor atau tautan yang diberikan dalam pesan mencurigakan.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 1
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 2. KATA SANDI DAN AUTENTIKASI
+
+Kata sandi yang kuat bersifat unik untuk setiap layanan dan sulit ditebak. Frasa sandi panjang yang mudah diingat dapat lebih baik daripada kombinasi pendek yang rumit tetapi dipakai berulang. Pengelola kata sandi tepercaya dapat membantu menyimpan kredensial secara aman. Jangan membagikan kata sandi, kode verifikasi, atau kode pemulihan kepada siapa pun.
+
+Autentikasi multifaktor menambah lapisan perlindungan karena login memerlukan bukti tambahan. Aktifkan fitur ini jika tersedia. Simpan kode pemulihan di tempat aman yang tidak mudah diakses orang lain. Jika menerima permintaan kode yang tidak pernah diminta, jangan berikan kode tersebut.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 2
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 3. PRIVASI DAN JEJAK DIGITAL
+
+Data pribadi mencakup informasi yang dapat mengenali atau menghubungkan seseorang, seperti alamat, nomor telepon, lokasi, foto dokumen, dan kombinasi informasi lain. Sebelum membagikan sesuatu, pikirkan siapa yang dapat melihatnya, berapa lama tersimpan, dan apakah dapat disalin atau diteruskan.
+
+Atur privasi akun, batasi izin aplikasi sesuai kebutuhan, dan tinjau unggahan lama. Jejak digital tidak selalu dapat dihapus sepenuhnya. Hindari mengunggah lokasi real-time atau dokumen pribadi secara terbuka. Hormati privasi teman dengan meminta izin sebelum mengunggah foto atau percakapan mereka.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 3
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 4. MENGENALI PHISHING DAN REKAYASA SOSIAL
+
+Phishing mencoba membuat orang menyerahkan informasi melalui pesan, situs, atau formulir palsu. Rekayasa sosial memanfaatkan rasa takut, rasa ingin tahu, hadiah, atau tekanan waktu. Ciri yang patut dicurigai antara lain alamat domain yang mirip tetapi salah, lampiran tidak diminta, permintaan rahasia, dan ancaman bahwa akun segera ditutup.
+
+Jika terlanjur mengeklik tautan, jangan panik. Jangan masukkan informasi tambahan. Tutup halaman, ganti kata sandi melalui aplikasi atau situs resmi jika kredensial telah diberikan, aktifkan autentikasi multifaktor, dan minta bantuan orang dewasa atau dukungan resmi layanan. Laporkan pesan penipuan melalui fitur yang tersedia.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 4
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 5. PERANGKAT, JARINGAN, DAN PEMBARUAN
+
+Pembaruan sistem operasi dan aplikasi sering memperbaiki celah keamanan. Pasang aplikasi dari sumber resmi, periksa izin yang diminta, dan hapus aplikasi yang tidak lagi digunakan. Kunci layar dan cadangkan data penting secara berkala. Hindari menggunakan perangkat yang tidak dikenal untuk membuka akun sensitif.
+
+Wi-Fi publik dapat memiliki risiko penyadapan atau jaringan palsu. Hindari memasukkan informasi penting pada jaringan yang tidak dipercaya. Pastikan nama jaringan melalui pengelola tempat. Matikan berbagi otomatis jika tidak diperlukan dan keluar dari akun setelah menggunakan perangkat bersama.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 5
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 6. ETIKA, PELAPORAN, DAN PEMULIHAN
+
+Keamanan siber juga berkaitan dengan etika: jangan mencoba masuk ke akun orang lain, menyebarkan data pribadi, atau menguji sistem tanpa izin. Jika menemukan kelemahan, laporkan secara bertanggung jawab kepada pemilik layanan. Simpan bukti yang relevan tanpa menyebarkannya ke publik.
+
+Ketika akun bermasalah, gunakan proses pemulihan resmi, periksa sesi login, cabut akses aplikasi yang tidak dikenal, dan beri tahu kontak jika akun digunakan mengirim pesan palsu. Belajar dari insiden berarti memperbaiki kebiasaan dan pengaturan, bukan menyalahkan korban.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 6
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+EVALUASI AKHIR
+1. Pilih tiga konsep dari buku ini dan jelaskan hubungan di antara ketiganya.
+2. Buat satu studi kasus sederhana yang sesuai dengan topik buku. Jelaskan masalah, informasi yang diperlukan, pilihan tindakan, dan alasan memilih solusi.
+3. Temukan satu klaim populer terkait topik ini. Periksa sumber, bukti, tanggal, dan konteksnya. Tulis kesimpulan yang tidak melebihi bukti.
+4. Susun rencana penerapan selama satu minggu. Tentukan kegiatan, indikator keberhasilan, dan cara mengevaluasinya.
+5. Refleksikan bagian yang paling sulit dipahami serta strategi belajar yang akan digunakan untuk memperbaikinya.
+
+PEMBAHASAN DAN ARAH JAWABAN
+Jawaban yang baik menyebutkan konsep secara tepat, memberikan alasan, memakai contoh yang relevan, dan mengakui keterbatasan informasi. Untuk soal studi kasus, beberapa jawaban dapat diterima selama logis, aman, etis, dan didukung bukti. Untuk pemeriksaan klaim, utamakan sumber primer atau lembaga yang kompeten dan bedakan fakta dari opini.
+
+GLOSARIUM
+Autentikasi: Proses memeriksa identitas pengguna.
+Phishing: Upaya menipu korban agar menyerahkan informasi.
+Enkripsi: Proses mengubah data agar hanya pihak berwenang dapat membacanya.
+Privasi: Pengendalian atas informasi pribadi.
+Autentikasi multifaktor: Login dengan lebih dari satu jenis bukti identitas.
+
+DAFTAR PUSTAKA DAN SARAN BELAJAR
+Naskah ini merupakan bahan pembelajaran orisinal yang disusun untuk NextyLibrary. Untuk topik yang memerlukan informasi mutakhir atau keputusan profesional, bandingkan dengan buku ajar, standar, dan publikasi lembaga resmi yang relevan. Catat judul, penulis/lembaga, tahun, serta bagian yang digunakan ketika menambahkan rujukan.

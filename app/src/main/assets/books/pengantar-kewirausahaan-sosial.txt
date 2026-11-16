@@ -117,3 +117,50 @@ LATIHAN AKHIR
 3. Susun rencana uji coba empat minggu.
 4. Bedakan keluaran dan hasil program.
 5. Buat lima prinsip tata kelola yang melindungi komunitas.
+BAB LANJUTAN: TEORI PERUBAHAN DAN RANTAI DAMPAK
+
+Teori perubahan menjelaskan mengapa suatu kegiatan diperkirakan menghasilkan perubahan tertentu. Rangkaian dasarnya dapat ditulis sebagai sumber daya, aktivitas, keluaran, hasil jangka pendek, dan dampak jangka panjang. Setiap hubungan memuat asumsi yang perlu diuji. Jika kelas literasi diselenggarakan, misalnya, jumlah kelas adalah keluaran; peningkatan kemampuan membaca merupakan hasil yang perlu diukur, bukan diasumsikan.
+
+Rantai dampak yang baik menyebut kondisi awal, kelompok yang ingin dilayani, mekanisme perubahan, faktor eksternal, serta risiko yang mungkin muncul. Diagram teori perubahan bukan bukti bahwa program berhasil. Ia adalah peta hipotesis yang harus diperiksa melalui data dan masukan komunitas.
+
+BAB LANJUTAN: DESAIN LAYANAN BERSAMA KOMUNITAS
+
+Desain layanan sebaiknya dimulai dengan mendengar pengalaman pengguna dan memahami perjalanan mereka saat mencoba memenuhi kebutuhan. Petakan tahap sebelum, selama, dan setelah menggunakan layanan. Pada setiap tahap, catat hambatan seperti jarak, biaya, waktu tunggu, bahasa, aksesibilitas, atau rasa tidak aman.
+
+Libatkan kelompok terdampak sejak perumusan masalah hingga evaluasi. Berikan penjelasan tentang tujuan kegiatan, penggunaan masukan, dan batas partisipasi. Hindari meminta cerita pribadi yang sensitif jika tidak diperlukan. Komunitas perlu memiliki kesempatan menolak, mengoreksi gambaran masalah, dan menilai apakah solusi yang dirancang benar-benar berguna.
+
+BAB LANJUTAN: PERENCANAAN KEUANGAN DAN UNIT EKONOMI
+
+Anggaran program perlu memisahkan biaya awal, biaya rutin, biaya langsung per penerima layanan, dan biaya pendukung. Perkiraan pendapatan harus menggunakan asumsi yang jelas. Contoh sederhana: jika sebuah program mengadakan empat lokakarya dengan biaya ruang dan bahan Rp500.000 per kegiatan serta biaya koordinasi Rp600.000, maka anggaran awal yang dihitung adalah Rp2.600.000. Angka ini belum memasukkan cadangan, pajak yang mungkin berlaku, atau biaya tak terduga; semua asumsi harus dicatat.
+
+Analisis unit ekonomi menanyakan berapa biaya untuk menyediakan satu unit layanan dan sumber pendanaan apa yang menutup biaya tersebut. Namun, biaya per penerima tidak boleh menjadi satu-satunya ukuran. Layanan bagi kelompok dengan kebutuhan lebih kompleks mungkin memerlukan biaya lebih tinggi agar akses dan mutu tetap adil. Keputusan keuangan perlu mempertimbangkan misi, kualitas, dan keberlanjutan.
+
+BAB LANJUTAN: RISIKO MISI DAN ETIKA PELAYANAN
+
+Organisasi sosial dapat mengalami pergeseran misi ketika sumber dana hanya mendukung kegiatan yang mudah dihitung atau menarik bagi pemberi dana. Risiko lain termasuk ketergantungan pada satu donor, beban administrasi berlebihan, konflik kepentingan, serta penggunaan cerita penerima manfaat untuk promosi tanpa persetujuan.
+
+Pencegahan dimulai dengan prinsip tertulis: tujuan sosial menjadi dasar keputusan, penerima manfaat dilibatkan, dana dicatat, konflik kepentingan diumumkan, dan keluhan ditangani dengan aman. Organisasi juga perlu mengukur dampak negatif, bukan hanya keberhasilan. Jika sebuah program menimbulkan stigma atau mengecualikan kelompok tertentu, rancangan harus diperbaiki.
+
+BAB LANJUTAN: KEMITRAAN DAN PENGEMBANGAN SKALA
+
+Kemitraan dapat memperluas keahlian, jangkauan, dan sumber daya. Sebelum bekerja sama, sepakati tujuan, peran, kontribusi, kepemilikan hasil, penggunaan data, pengambilan keputusan, dan cara mengakhiri kerja sama. Kesepakatan yang hanya berisi tujuan umum dapat menimbulkan perbedaan harapan.
+
+Perluasan program dapat dilakukan melalui replikasi, lisensi terbuka yang sesuai, pelatihan mitra, integrasi ke layanan yang sudah ada, atau advokasi perubahan sistem. Tidak semua model cocok diperluas secara seragam. Uji mutu dan konteks lokal terlebih dahulu, lalu dokumentasikan bagian yang harus tetap sama dan bagian yang boleh disesuaikan.
+
+BAB LANJUTAN: EVALUASI DAN PEMBELAJARAN ORGANISASI
+
+Evaluasi bukan hanya laporan untuk pendana. Evaluasi membantu organisasi mengetahui apa yang berjalan, siapa yang belum terjangkau, mengapa hasil berbeda, dan perubahan apa yang perlu dilakukan. Gabungkan indikator angka, wawancara yang etis, catatan pelaksanaan, serta masukan dari pihak yang tidak puas.
+
+Laporan yang bertanggung jawab menyertakan metode, jumlah dan karakteristik data secara agregat, keterbatasan, hasil yang tidak sesuai harapan, dan rencana tindak lanjut. Jangan memilih hanya data yang mendukung klaim. Jika hubungan sebab-akibat belum dapat dibuktikan, gunakan bahasa yang proporsional seperti "berkaitan dengan" atau "memberi indikasi", bukan mengklaim program sebagai satu-satunya penyebab perubahan.
+
+PROYEK AKHIR TERPERINCI
+Rancang proposal usaha sosial untuk satu kebutuhan komunitas. Sertakan:
+1. Rumusan masalah dan bukti awal.
+2. Peta pihak terdampak serta proses konsultasi yang etis.
+3. Teori perubahan dan asumsi utama.
+4. Deskripsi layanan, pelanggan, dan penerima manfaat.
+5. Rencana operasi, mitra, dan pembagian tanggung jawab.
+6. Anggaran sederhana dengan asumsi yang dapat diperiksa.
+7. Indikator keluaran, hasil, dampak, dan risiko negatif.
+8. Kebijakan privasi, pengaduan, dan konflik kepentingan.
+9. Rencana evaluasi dan kriteria untuk melanjutkan, mengubah, atau menghentikan program.

@@ -180,4 +180,35 @@ LATIHAN DAN PEMBAHASAN
 3. Apa risiko rekomendasi berulang? Jawab: paparan informasi dapat menjadi sempit dan memperkuat sudut pandang yang sama.
 4. Sebutkan dua cara menjaga akun. Jawab: kata sandi unik dan autentikasi tambahan.
 5. Apa yang perlu dilakukan sebelum mengunggah foto orang lain? Jawab: pertimbangkan privasi dan minta izin yang sesuai.
+PENDALAMAN MATERI — VERIFIKASI DAN PRODUKSI INFORMASI
 
+MEMBEDAKAN FAKTA, OPINI, DAN INTERPRETASI
+Fakta adalah pernyataan yang dapat diperiksa melalui bukti. Opini menyatakan penilaian atau preferensi. Interpretasi memberi makna pada fakta dengan menggunakan kerangka tertentu. Ketiganya dapat muncul dalam satu artikel, sehingga pembaca perlu mengenali perpindahan dari data menuju penilaian.
+Kalimat “curah hujan tercatat 80 milimeter” dapat diverifikasi melalui catatan pengukuran. Kalimat “kebijakan ini paling baik” adalah penilaian yang memerlukan kriteria. Interpretasi seperti “perubahan curah hujan berkaitan dengan tata guna lahan” membutuhkan data tambahan dan penjelasan metode.
+
+MENELUSURI ASAL INFORMASI
+Periksa siapa penerbit, siapa penulis, kapan diterbitkan, dan bukti apa yang disertakan. Cari dokumen asli ketika sebuah unggahan mengutip laporan. Perhatikan apakah kutipan dipotong sehingga maknanya berubah. Tanggal penting karena informasi lama dapat dibagikan kembali seolah-olah baru.
+Pencarian gambar terbalik dapat membantu menemukan kemunculan gambar sebelumnya, tetapi hasilnya tidak otomatis membuktikan lokasi atau waktu pengambilan. Cocokkan dengan petunjuk lain seperti cuaca, bangunan, papan nama, dan laporan independen.
+
+MEMBACA ANGKA DALAM BERITA
+Persentase perlu memiliki pembanding. Kenaikan dari 1 menjadi 2 adalah kenaikan 100 persen, tetapi jumlah absolutnya hanya bertambah satu. Rata-rata dapat menyembunyikan variasi; median kadang lebih tepat untuk data yang sangat menceng. Sampel kecil atau tidak representatif tidak boleh digeneralisasi kepada semua orang.
+Periksa ukuran sampel, cara pemilihan responden, periode pengamatan, definisi indikator, dan kemungkinan data yang hilang. Grafik tanpa satuan atau tanpa sumber harus diperlakukan hati-hati.
+
+MISINFORMASI DAN KONTEKS
+Misinformasi adalah informasi keliru yang dibagikan tanpa harus ada niat menipu. Disinformasi dibuat atau disebarkan dengan maksud menyesatkan. Informasi benar pun dapat menyesatkan jika ditempatkan di luar konteks, misalnya foto lama dipasangkan dengan peristiwa baru.
+Respons yang bertanggung jawab bukan sekadar menekan tombol bagikan. Tunda penyebaran, periksa klaim utama, cari konfirmasi independen, dan baca koreksi dari sumber yang kompeten. Jika belum dapat dipastikan, nyatakan ketidakpastian.
+
+IKLAN, SPONSOR, DAN KEPENTINGAN
+Konten bersponsor dapat menyerupai artikel biasa. Perhatikan label iklan, hubungan penulis dengan produk, tautan afiliasi, dan siapa yang membiayai publikasi. Kepentingan finansial tidak otomatis membuat klaim salah, tetapi pembaca perlu mengetahui konteksnya.
+Bandingkan klaim promosi dengan informasi teknis, ulasan independen, dan ketentuan produk. Hindari menyimpulkan kualitas hanya dari jumlah pengikut atau testimoni yang dipilih.
+
+MEMBUAT KONTEN INFORMASI YANG BERTANGGUNG JAWAB
+Sebelum membuat infografik, tentukan satu pesan utama dan audiens. Pilih bentuk visual sesuai jenis data. Beri sumber, tanggal, dan keterangan. Gunakan gambar yang memiliki izin. Jangan memanipulasi skala untuk membesar-besarkan perbedaan.
+Saat memperbaiki unggahan, tampilkan koreksi dengan jelas dan pertahankan catatan perubahan. Pembaca perlu tahu bagian mana yang berubah dan mengapa.
+
+LATIHAN ANALISIS
+1. Temukan satu klaim angka dalam berita dan catat pembanding serta sumber datanya.
+2. Jelaskan bagaimana foto yang benar dapat dipakai untuk menciptakan kesan yang salah.
+3. Bedakan misinformasi dan disinformasi melalui contoh hipotetis.
+4. Buat daftar pertanyaan untuk menilai konten bersponsor.
+5. Rancang infografik yang menyertakan sumber, periode, satuan, dan batasan data.

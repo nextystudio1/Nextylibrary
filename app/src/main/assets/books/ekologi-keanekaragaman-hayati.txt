@@ -174,4 +174,35 @@ LATIHAN DAN PEMBAHASAN
 3. Sebutkan dua jasa ekosistem. Jawab: penyerbukan dan pengaturan banjir.
 4. Mengapa indikator konservasi diperlukan? Jawab: agar perubahan dapat dinilai secara konsisten.
 5. Mengapa hubungan ekologi sulit diprediksi secara sederhana? Jawab: banyak spesies dan faktor lingkungan saling berinteraksi.
+PENDALAMAN MATERI — PROSES EKOLOGI DAN KONSERVASI
 
+SIKLUS MATERI DALAM EKOSISTEM
+Energi mengalir melalui ekosistem, sedangkan materi didaur ulang. Tumbuhan menyerap unsur dari tanah dan udara; organisme memindahkan unsur melalui makan; pengurai mengembalikan sebagian unsur ke lingkungan. Karbon bergerak melalui fotosintesis, respirasi, pembusukan, dan pembakaran.
+Siklus nitrogen melibatkan proses biologis dan kimia. Mikroorganisme tertentu mengubah nitrogen atmosfer menjadi bentuk yang dapat digunakan organisme. Proses lain mengembalikan nitrogen ke atmosfer. Pemupukan berlebihan dapat meningkatkan aliran nutrien ke perairan dan memicu eutrofikasi.
+
+DINAMIKA POPULASI
+Ukuran populasi dipengaruhi kelahiran, kematian, imigrasi, dan emigrasi. Pertumbuhan eksponensial mungkin terjadi ketika sumber daya berlimpah, tetapi dalam lingkungan nyata sumber daya dan faktor pembatas mengubah laju pertumbuhan. Daya dukung adalah ukuran konseptual tentang jumlah individu yang dapat didukung lingkungan dalam kondisi tertentu.
+Daya dukung bukan angka tetap. Kekeringan, perubahan habitat, penyakit, dan aktivitas manusia dapat mengubahnya. Pengelolaan populasi memerlukan pemantauan jangka panjang, bukan hanya satu kali penghitungan.
+
+INTERAKSI ANTARSPESIES
+Kompetisi terjadi ketika organisme menggunakan sumber daya terbatas yang sama. Predasi adalah hubungan ketika satu organisme memakan organisme lain. Mutualisme memberi manfaat bagi kedua pihak, sedangkan parasitisme menguntungkan satu pihak dan merugikan pihak lain.
+Hubungan ini dapat berubah menurut kondisi. Spesies yang bersaing pada satu sumber makanan dapat berbagi ruang ketika sumber daya lain tersedia. Karena itu, jaring makanan lebih menggambarkan kenyataan daripada satu rantai makanan sederhana.
+
+HABITAT, FRAGMENTASI, DAN KORIDOR
+Fragmentasi memecah habitat menjadi bagian yang lebih kecil dan terpisah. Dampaknya dapat berupa berkurangnya ruang jelajah, perubahan iklim mikro, meningkatnya tepi habitat, serta terhambatnya perpindahan gen. Koridor ekologis dapat membantu menghubungkan habitat, tetapi rancangan harus mempertimbangkan spesies sasaran, keselamatan, dan penggunaan lahan.
+Konservasi tidak hanya berarti melindungi kawasan. Praktik pertanian ramah lingkungan, tata ruang, pengendalian spesies invasif, dan pemulihan daerah aliran sungai dapat membantu menjaga fungsi ekosistem.
+
+JASA EKOSISTEM DAN NILAI ALAM
+Ekosistem menyediakan pangan, air, bahan, penyerbukan, pengaturan iklim, perlindungan pantai, dan manfaat budaya. Nilai ekonomi dapat membantu menjelaskan manfaat yang sering tidak terlihat dalam transaksi pasar, tetapi tidak seluruh nilai alam dapat dinyatakan dengan uang.
+Keputusan konservasi sebaiknya menggabungkan bukti ekologi, kebutuhan masyarakat, keadilan, dan pengetahuan lokal. Masyarakat yang hidup dekat kawasan sering memiliki pengalaman penting, tetapi partisipasi harus nyata dan menghormati hak mereka.
+
+MERANCANG PEMANTAUAN KEANEKARAGAMAN
+Indikator dapat berupa jumlah spesies, kelimpahan relatif, tutupan vegetasi, kualitas air, atau keberhasilan reproduksi. Metode pengambilan sampel harus konsisten agar perubahan dari waktu ke waktu dapat dibandingkan. Catat lokasi, tanggal, cuaca, alat, dan keterbatasan pengamatan.
+Tidak ditemukannya spesies dalam satu survei bukan bukti mutlak bahwa spesies tersebut tidak ada. Peluang deteksi dipengaruhi musim, waktu, perilaku, dan metode. Pengulangan survei meningkatkan keandalan kesimpulan.
+
+LATIHAN DAN STUDI KASUS
+1. Jelaskan perbedaan aliran energi dan daur materi.
+2. Mengapa daya dukung dapat berubah dari tahun ke tahun?
+3. Gambarkan jaring makanan sederhana dan prediksi dampak hilangnya satu spesies.
+4. Sebutkan indikator untuk memantau pemulihan sungai.
+5. Sebuah kawasan terpecah oleh jalan baru. Usulkan langkah mitigasi dan cara mengevaluasinya.

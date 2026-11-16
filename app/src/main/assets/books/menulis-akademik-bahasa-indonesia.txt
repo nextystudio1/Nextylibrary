@@ -189,4 +189,38 @@ LATIHAN DAN PEMBAHASAN
 3. Apa tujuan sintesis? Jawab: menghubungkan beberapa sumber untuk menghasilkan pemahaman terpadu.
 4. Apa beda revisi dan penyuntingan? Jawab: revisi memperbaiki isi dan struktur; penyuntingan memperbaiki bahasa dan penyajian.
 5. Mengapa bukti berlawanan perlu dibahas? Jawab: agar analisis jujur dan kesimpulan tidak bias.
+PENDALAMAN MATERI — MERANCANG PENELITIAN DAN LAPORAN
 
+MENYUSUN PERTANYAAN PENELITIAN
+Pertanyaan penelitian yang baik bersifat jelas, terbatas, dapat dijawab dengan bukti, dan sesuai dengan waktu serta sumber daya yang tersedia. Topik “penggunaan internet” dapat dipersempit menjadi “bagaimana kebiasaan memeriksa sumber memengaruhi kualitas tugas siswa kelas tertentu”. Pertanyaan yang terlalu luas mendorong tulisan menjadi kumpulan informasi tanpa arah.
+Sebelum mengumpulkan data, tentukan istilah penting. Jika meneliti “kebiasaan membaca”, jelaskan apakah yang dihitung adalah frekuensi, durasi, jenis bacaan, atau pemahaman. Definisi operasional membantu pembaca memahami apa yang benar-benar diukur.
+
+MEMILIH METODE DAN DATA
+Metode harus mengikuti pertanyaan. Kajian pustaka cocok untuk membandingkan temuan yang sudah diterbitkan. Wawancara membantu memahami pengalaman dan alasan. Kuesioner dapat menggambarkan pola jawaban kelompok, sedangkan pengamatan mencatat perilaku dalam konteks tertentu.
+Data primer diperoleh langsung oleh peneliti; data sekunder berasal dari dokumen atau penelitian yang sudah ada. Keduanya memiliki keterbatasan. Wawancara dengan sedikit orang memberi kedalaman, tetapi tidak otomatis mewakili populasi luas. Kuesioner dengan banyak jawaban tetap dapat bias jika pertanyaannya mengarahkan responden.
+
+ETIKA PENELITIAN
+Jelaskan tujuan kegiatan, jenis informasi yang dikumpulkan, cara penyimpanan, dan siapa yang dapat mengaksesnya. Partisipasi harus sukarela dan penolakan tidak boleh menimbulkan hukuman. Hindari mengumpulkan data pribadi yang tidak diperlukan. Samarkan identitas ketika kutipan dapat mengungkap seseorang.
+Jangan mengubah jawaban agar sesuai dugaan. Catat perubahan prosedur dan laporkan hasil yang tidak mendukung hipotesis. Kejujuran lebih penting daripada membuat hasil tampak sempurna.
+
+MENULIS BAGIAN METODE
+Bagian metode menjelaskan rancangan, peserta atau bahan, instrumen, prosedur, dan cara analisis. Uraian harus cukup rinci agar pembaca dapat menilai kesesuaian metode. Hindari klaim “menggunakan metode kualitatif” tanpa menerangkan siapa yang diwawancarai, bagaimana pertanyaan disusun, dan bagaimana tema dianalisis.
+Bagian hasil menyajikan temuan, bukan menafsirkan semuanya sekaligus. Tabel diberi judul dan satuan. Bagian pembahasan menghubungkan temuan dengan pertanyaan dan sumber terdahulu, menjelaskan kemungkinan alasan, serta mengakui keterbatasan.
+
+TABEL, GAMBAR, DAN KUTIPAN
+Tabel efektif untuk angka atau kategori yang perlu dibandingkan. Grafik digunakan ketika pola atau perubahan lebih mudah terlihat secara visual. Jangan memakai grafik tiga dimensi jika kedalaman tidak memiliki makna data. Sumbu, satuan, periode, dan sumber harus jelas.
+Kutipan langsung dipakai ketika pilihan kata asli penting. Parafrasa dipakai untuk menyampaikan gagasan dengan susunan sendiri. Keduanya tetap membutuhkan atribusi. Catatan kaki dapat memberi keterangan tambahan, tetapi jangan menjadikannya tempat menyembunyikan argumen utama.
+
+LATIHAN TERAPAN
+1. Ubah topik “sampah plastik” menjadi satu pertanyaan penelitian yang terukur.
+2. Pilih metode yang tepat untuk mengetahui pengalaman warga tentang pemilahan sampah. Jelaskan keterbatasannya.
+3. Buat definisi operasional untuk istilah “keterlibatan belajar”.
+4. Sebutkan informasi yang perlu disampaikan sebelum seseorang mengikuti wawancara.
+5. Jelaskan perbedaan hasil dan pembahasan dalam laporan penelitian.
+
+STUDI KASUS: LAPORAN YANG TERLALU PERCAYA DIRI
+Sebuah laporan menyimpulkan bahwa aplikasi belajar menyebabkan nilai meningkat. Data hanya berasal dari sepuluh pengguna yang secara sukarela mengisi survei. Kesimpulan itu melampaui bukti: peserta mungkin memang sudah memiliki motivasi tinggi, tidak ada kelompok pembanding, dan nilai sebelum penggunaan tidak dicatat.
+Perbaikan laporan dimulai dengan membatasi klaim. Penulis dapat menyebut bahwa responden melaporkan pengalaman positif, bukan menyatakan hubungan sebab-akibat telah terbukti. Penulis juga dapat menyarankan penelitian lanjutan dengan ukuran awal dan akhir serta sampel yang lebih beragam.
+
+DAFTAR PERIKSA NASKAH AKHIR
+Pastikan judul sesuai isi, pertanyaan dijawab, istilah konsisten, setiap klaim faktual memiliki dasar, kutipan tercatat, tabel terbaca, dan simpulan tidak lebih luas daripada data. Baca naskah dari sudut pandang pembaca baru: apakah alasan berpindah dari satu paragraf ke paragraf berikutnya jelas? Mintalah umpan balik untuk menemukan bagian yang masih membingungkan.

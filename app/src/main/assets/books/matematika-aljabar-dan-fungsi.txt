@@ -189,4 +189,35 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa domain perlu diperhatikan? Jawab: karena konteks dapat membatasi masukan yang bermakna.
 4. Apa yang diperiksa setelah menyelesaikan sistem persamaan? Jawab: substitusi ke semua persamaan dan pemeriksaan batasan konteks.
 5. Mengapa skala grafik harus dicantumkan? Jawab: agar kemiringan dan perbandingan visual tidak menyesatkan.
+PENDALAMAN MATERI — PEMODELAN, POLA, DAN PENALARAN
 
+POLA BARISAN
+Barisan adalah urutan bilangan yang mengikuti aturan tertentu. Pada barisan aritmetika, selisih dua suku berurutan tetap. Jika suku pertama 4 dan beda 3, barisannya 4, 7, 10, 13, dan seterusnya. Suku ke-n dapat ditulis Un = a + (n−1)b, dengan a suku pertama dan b beda.
+Barisan geometri memiliki rasio tetap. Contoh 2, 6, 18, 54 memiliki rasio 3. Rumus suku ke-n adalah Un = a r pangkat (n−1). Rumus harus digunakan sesuai pola; jangan menganggap semua pertumbuhan bersifat linear.
+
+PERSAMAAN KUADRAT
+Persamaan kuadrat berbentuk ax² + bx + c = 0 dengan a tidak sama dengan nol. Penyelesaian dapat diperoleh melalui pemfaktoran, melengkapkan kuadrat, atau rumus kuadrat. Diskriminan D = b² − 4ac memberi informasi jumlah akar real: dua akar berbeda jika D positif, satu akar kembar jika D nol, dan tidak ada akar real jika D negatif.
+Contoh x² − 5x + 6 = 0 dapat difaktorkan menjadi (x−2)(x−3)=0, sehingga x=2 atau x=3. Substitusi kembali merupakan pemeriksaan penting.
+
+FUNGSI KOMPOSISI DAN INVERS
+Komposisi f setelah g ditulis f(g(x)); artinya nilai x diproses oleh g terlebih dahulu, kemudian hasilnya menjadi masukan f. Jika g(x)=2x+1 dan f(x)=x², maka f(g(x))=(2x+1)².
+Fungsi invers membalik pemetaan ketika fungsi memiliki invers pada domain yang dipilih. Untuk menemukan invers, tulis y=f(x), tukar x dan y, lalu selesaikan y. Periksa domain dan range karena tidak semua fungsi mempunyai invers sebagai fungsi pada seluruh domain asal.
+
+PERTIDAKSAMAAN DAN NILAI MUTLAK
+Pertidaksamaan menyatakan hubungan lebih besar atau lebih kecil. Ketika kedua ruas dikalikan bilangan negatif, arah tanda harus dibalik. Contoh −2x lebih kecil dari 6 menghasilkan x lebih besar dari −3 setelah dibagi −2.
+Nilai mutlak menyatakan jarak dari nol. Persamaan |x−4|=3 berarti jarak x dari 4 adalah 3, sehingga x=1 atau x=7. Dalam konteks pengukuran, nilai mutlak dapat menggambarkan besar selisih tanpa memperhatikan arah.
+
+SISTEM PERSAMAAN DALAM KONTEKS
+Misalkan dua tiket dewasa dan satu tiket pelajar berharga 55 satuan, sedangkan satu tiket dewasa dan dua tiket pelajar berharga 50 satuan. Jika harga dewasa d dan pelajar p, modelnya 2d+p=55 dan d+2p=50. Eliminasi atau substitusi memberi d=20 dan p=15. Periksa dengan memasukkan nilai ke kedua persamaan.
+Model matematika harus mencantumkan satuan dan asumsi. Harga tidak negatif, jumlah barang biasanya bilangan bulat, dan diskon dapat mengubah hubungan. Jawaban aljabar yang benar belum tentu masuk akal dalam konteks.
+
+MEMBACA GRAFIK SECARA KRITIS
+Grafik dapat menyampaikan hubungan, tetapi pemilihan skala memengaruhi kesan visual. Sumbu yang tidak dimulai dari nol dapat menonjolkan perubahan kecil. Hal itu tidak selalu salah, tetapi harus diberi penjelasan. Periksa label, satuan, rentang, sumber data, dan apakah titik-titik dihubungkan secara bermakna.
+Korelasi pada grafik tidak membuktikan sebab-akibat. Dua variabel dapat bergerak bersama karena faktor ketiga. Penalaran yang baik membedakan pola yang terlihat dari penjelasan yang masih perlu diuji.
+
+LATIHAN BERTAHAP
+1. Tentukan suku ke-12 dari barisan 5, 9, 13, 17, ...
+2. Selesaikan x²−7x+12=0 dengan pemfaktoran.
+3. Jika f(x)=3x−2 dan g(x)=x+4, tentukan f(g(2)).
+4. Selesaikan −3x+6 lebih besar atau sama dengan 15.
+5. Buat sistem persamaan dari situasi dua jenis barang dengan dua informasi harga.

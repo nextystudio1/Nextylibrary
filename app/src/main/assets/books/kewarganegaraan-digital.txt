@@ -164,3 +164,35 @@ GLOSARIUM
 Privasi: kendali seseorang atas informasi dan ruang pribadinya.
 Autentikasi berlapis: verifikasi identitas dengan lebih dari satu faktor.
 Perundungan daring: tindakan menyakiti atau mengintimidasi melalui media digital.
+PENDALAMAN MATERI — KEHIDUPAN DIGITAL DALAM MASYARAKAT
+
+HAK, TANGGUNG JAWAB, DAN KEBEBASAN BEREKSPRESI
+Ruang digital memperluas kesempatan menyampaikan pendapat, mencari pengetahuan, dan membangun komunitas. Kebebasan berekspresi berjalan bersama tanggung jawab untuk tidak menyebarkan ancaman, fitnah, atau informasi pribadi orang lain tanpa alasan yang sah. Perbedaan pendapat bukan alasan untuk merendahkan martabat seseorang.
+Sebelum membagikan konten, pertimbangkan kebenaran, konteks, dampak, dan hak pihak yang disebut. Kritik sebaiknya diarahkan pada gagasan atau tindakan, bukan menyerang identitas pribadi. Jika melakukan kesalahan, koreksi secara terbuka dan jangan menghapus konteks yang diperlukan untuk memahami koreksi.
+
+AKSESIBILITAS DAN KESENJANGAN DIGITAL
+Tidak semua orang memiliki perangkat, jaringan, kemampuan, atau kondisi yang sama. Kesenjangan digital mencakup akses fisik, keterampilan, kualitas penggunaan, dan manfaat yang diperoleh. Layanan publik yang hanya tersedia secara daring dapat menyulitkan warga yang koneksinya terbatas.
+Desain inklusif menggunakan teks yang mudah dibaca, kontras memadai, navigasi konsisten, teks alternatif untuk gambar informatif, dan dukungan papan ketik atau pembaca layar. Materi pembelajaran sebaiknya tidak bergantung pada video berukuran besar saja; sediakan ringkasan teks atau pilihan unduhan yang ringan.
+
+DATA PRIBADI DAN PERSETUJUAN
+Data pribadi dapat berupa nama, alamat, nomor kontak, lokasi, identitas akun, atau gabungan informasi yang memungkinkan seseorang dikenali. Data yang tampak biasa dapat menjadi sensitif ketika digabungkan. Prinsip minimisasi berarti hanya mengumpulkan data yang benar-benar diperlukan.
+Persetujuan harus dipahami, spesifik, dan tidak dipaksakan. Membagikan foto teman ke grup lain bukan otomatis berarti memperoleh izin untuk mengunggahnya secara publik. Periksa pengaturan audiens, izin aplikasi, dan masa penyimpanan sebelum memberikan data.
+
+KEAMANAN AKUN DAN PENIPUAN
+Serangan rekayasa sosial memanfaatkan rasa takut, tergesa-gesa, hadiah, atau otoritas palsu agar korban memberikan informasi. Pesan yang mengaku berasal dari layanan resmi perlu diperiksa melalui kanal resmi yang dibuka secara mandiri, bukan tautan dalam pesan mencurigakan.
+Kata sandi yang unik mengurangi dampak jika satu layanan mengalami kebocoran. Pengelola kata sandi dapat membantu menyimpan kombinasi yang kuat. Autentikasi tambahan memberi lapisan perlindungan, tetapi kode verifikasi tidak boleh dibagikan kepada orang lain. Perbarui perangkat lunak melalui sumber resmi dan tinjau sesi akun yang masih aktif.
+
+ALGORITMA DAN RUANG PUBLIK
+Sistem rekomendasi memilih konten berdasarkan sinyal seperti riwayat tontonan, interaksi, dan popularitas. Tujuannya dapat meningkatkan relevansi, tetapi hasilnya bukan gambaran lengkap dunia. Konten yang memancing emosi dapat memperoleh perhatian tinggi meskipun mutunya rendah.
+Untuk memperluas perspektif, cari sumber dengan pendekatan berbeda, baca isi lengkap, dan bedakan popularitas dari kredibilitas. Platform perlu transparan mengenai aturan moderasi dan menyediakan mekanisme banding yang masuk akal.
+
+ETIKA KOLABORASI DAN KARYA DIGITAL
+Saat bekerja bersama, sepakati tujuan, pembagian tugas, cara memberi komentar, dan aturan penggunaan berkas. Cantumkan kontribusi anggota secara jujur. Jangan menghapus nama pembuat, mengambil desain, atau mengunggah ulang karya tanpa memeriksa izin.
+Lisensi menjelaskan penggunaan yang diizinkan. Atribusi bukan pengganti izin ketika lisensi mensyaratkannya. Untuk karya yang akan dipakai dalam proyek komersial, periksa ketentuan lisensi dan simpan catatan sumber.
+
+LATIHAN DAN REFLEKSI
+1. Mengapa persetujuan untuk mengirim foto kepada satu teman tidak sama dengan izin publikasi?
+2. Buat daftar tanda pesan digital yang berpotensi merupakan penipuan.
+3. Berikan contoh desain layanan digital yang lebih aksesibel.
+4. Mengapa sistem rekomendasi dapat mempersempit paparan informasi?
+5. Bagaimana cara mengoreksi informasi keliru yang telanjur dibagikan?

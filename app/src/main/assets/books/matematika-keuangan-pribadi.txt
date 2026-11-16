@@ -192,4 +192,35 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa bunga majemuk berbeda dari bunga sederhana? Jawab: bunga majemuk menghitung bunga atas akumulasi sebelumnya.
 4. Mengapa inflasi memengaruhi daya beli? Jawab: jumlah uang yang sama membeli lebih sedikit ketika harga meningkat.
 5. Sebutkan tiga hal untuk menilai produk keuangan. Jawab: biaya, risiko, dan ketentuan.
+PENDALAMAN MATERI — PERENCANAAN DAN KEPUTUSAN KEUANGAN
 
+MENGUBAH TUJUAN MENJADI RENCANA
+Tujuan keuangan yang jelas memiliki nilai, tenggat, dan alasan. Tujuan “ingin menabung” terlalu umum. Tujuan “menyisihkan sejumlah uang untuk kebutuhan pendidikan pada akhir tahun” lebih mudah dievaluasi. Rencana perlu realistis terhadap pendapatan, pengeluaran wajib, dan perubahan keadaan.
+Anggaran adalah perkiraan, bukan hukuman. Catat pengeluaran selama beberapa minggu untuk mengetahui pola sebenarnya. Kelompokkan kebutuhan tetap, kebutuhan berubah, dan pengeluaran pilihan. Sisakan ruang untuk biaya tidak terduga agar rencana tidak langsung gagal ketika muncul kebutuhan baru.
+
+PERSENTASE DAN DISKON
+Persentase menyatakan bagian per seratus. Diskon 20 persen dari harga 150.000 berarti potongan 30.000, sehingga harga setelah diskon adalah 120.000. Jika terdapat dua diskon berturut-turut, keduanya tidak selalu dijumlahkan. Diskon 20 persen lalu 10 persen menghasilkan 150.000 × 0,8 × 0,9 = 108.000.
+Bandingkan harga satuan ketika ukuran kemasan berbeda. Harga total yang lebih rendah belum tentu lebih hemat jika jumlah atau kualitas barang juga berbeda. Periksa biaya pengiriman, pajak, dan syarat promosi.
+
+BUNGA SEDERHANA DAN MAJEMUK
+Bunga sederhana dihitung dari pokok awal. Bunga majemuk dihitung dari pokok beserta bunga yang telah terakumulasi. Untuk pembelajaran, jika pokok P memperoleh tingkat bunga i per periode selama n periode, bunga sederhana adalah P × i × n. Nilai akhir majemuk adalah P(1+i)^n apabila tingkat dan periode konsisten.
+Dalam praktik, biaya administrasi, pajak, perubahan tingkat, dan aturan produk dapat mengubah hasil. Jangan membandingkan dua angka bunga tanpa memeriksa apakah keduanya per bulan atau per tahun dan apakah efektif atau nominal.
+
+INFLASI DAN NILAI UANG
+Inflasi adalah kenaikan tingkat harga secara umum dalam suatu periode. Jika harga rata-rata naik, daya beli uang dapat menurun. Perubahan harga satu barang belum cukup untuk menyimpulkan inflasi umum karena indeks harga menggunakan kumpulan barang dan bobot tertentu.
+Ketika merencanakan kebutuhan masa depan, bedakan nilai nominal dan nilai riil. Nilai nominal adalah jumlah uang yang tertulis; nilai riil mempertimbangkan perubahan harga. Perkiraan inflasi tetap tidak pasti sehingga rencana jangka panjang perlu ditinjau.
+
+RISIKO, LIKUIDITAS, DAN DIVERSIFIKASI
+Risiko adalah kemungkinan hasil berbeda dari harapan, termasuk kerugian. Likuiditas menggambarkan seberapa mudah aset digunakan untuk pembayaran tanpa kehilangan nilai besar. Produk dengan potensi hasil lebih tinggi dapat memiliki risiko dan ketidakpastian lebih besar.
+Diversifikasi menyebarkan sumber risiko, tetapi tidak menjamin keuntungan atau menghilangkan seluruh kerugian. Jangan menempatkan dana yang dibutuhkan segera pada instrumen yang sulit dicairkan. Waspadai janji hasil pasti yang tidak masuk akal, tekanan untuk segera membayar, dan penjelasan yang tidak transparan.
+
+MEMBACA KONTRAK DAN BIAYA
+Sebelum menyetujui layanan, baca biaya, denda, masa berlaku, pembatalan, perlindungan data, dan cara menyampaikan keluhan. Simpan bukti transaksi. Jika ada istilah yang tidak dipahami, minta penjelasan sebelum menyetujui.
+Keputusan keuangan yang baik mempertimbangkan kebutuhan, kemampuan, risiko, dan konsekuensi. Tidak ada satu produk yang cocok untuk semua orang. Materi ini bersifat pendidikan dan bukan rekomendasi membeli produk tertentu.
+
+LATIHAN HITUNG
+1. Hitung harga setelah diskon 15 persen dari 240.000.
+2. Bandingkan diskon 20 persen lalu 10 persen dengan diskon tunggal 30 persen.
+3. Jelaskan mengapa bunga tahunan tidak dapat dibandingkan langsung dengan bunga bulanan.
+4. Berikan contoh kebutuhan yang memerlukan likuiditas tinggi.
+5. Buat daftar lima hal yang perlu diperiksa sebelum menyetujui kontrak layanan.

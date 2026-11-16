@@ -184,3 +184,34 @@ LATIHAN GENETIKA
 3. Jelaskan makna heritabilitas tanpa menyamakannya dengan kepastian individu.
 4. Sebutkan faktor yang mengubah frekuensi alel.
 5. Rancang penelitian sederhana untuk menguji pengaruh lingkungan pada pertumbuhan tanaman dengan variabel yang terukur.
+
+BAB LANJUTAN: REGULASI EKSPRESI GEN
+
+Informasi genetik tidak selalu digunakan dengan tingkat yang sama pada setiap sel. Regulasi ekspresi gen mengatur kapan dan seberapa banyak produk gen dihasilkan. Pada organisme berbeda, mekanismenya melibatkan pengaturan transkripsi, pemrosesan RNA, translasi, dan perubahan setelah protein terbentuk. Sinyal lingkungan dan keadaan sel dapat memengaruhi mekanisme tersebut.
+
+Pada organisme eukariotik, struktur kromatin memengaruhi akses mesin transkripsi terhadap DNA. Modifikasi kimia pada DNA dan protein pengemasnya dapat berkaitan dengan perubahan ekspresi. Sebagian perubahan regulasi dapat bertahan melalui pembelahan sel, tetapi tidak berarti urutan DNA berubah. Istilah epigenetik harus digunakan secara tepat dan tidak boleh dianggap sebagai penjelasan universal bagi semua sifat yang diwariskan.
+
+Regulasi gen merupakan jaringan yang melibatkan banyak komponen. Satu gen dapat dipengaruhi beberapa faktor, dan satu faktor dapat memengaruhi banyak gen. Karena itu, hubungan sederhana antara satu gen dan satu sifat sering tidak memadai, terutama pada sifat kompleks.
+
+BAB LANJUTAN: GENOMIK, BIOINFORMATIKA, DAN KUALITAS DATA
+
+Genomik mempelajari keseluruhan materi genetik suatu organisme. Teknologi sekuensing menghasilkan data dalam jumlah besar yang memerlukan pengendalian mutu, pemetaan, anotasi, dan interpretasi. Hasil komputasi bergantung pada kualitas sampel, teknologi, basis data rujukan, dan parameter analisis.
+
+Varian genetik dapat berupa perubahan satu basa, penyisipan, penghapusan, atau perubahan struktur yang lebih besar. Menemukan varian tidak otomatis membuktikan bahwa varian tersebut menyebabkan suatu kondisi. Penilaian memerlukan bukti populasi, fungsi biologis, pola pewarisan, dan konteks klinis jika relevan.
+
+Data genomik sangat sensitif. Penggunaan harus memperhatikan persetujuan, tujuan, pengamanan, risiko identifikasi ulang, dan aturan yang berlaku. Informasi genetik juga dapat memiliki implikasi bagi kerabat biologis, sehingga komunikasi hasil perlu dilakukan secara bertanggung jawab oleh pihak yang kompeten.
+
+BAB LANJUTAN: GENETIKA POPULASI DAN KONSERVASI
+
+Genetika populasi mempelajari variasi genetik dalam dan antar populasi. Frekuensi alel dapat berubah akibat seleksi, mutasi, migrasi, perkawinan tidak acak, dan hanyutan genetik. Pada populasi kecil, hanyutan dapat mengurangi variasi secara cepat karena perubahan acak memiliki pengaruh relatif lebih besar.
+
+Variasi genetik penting bagi kemampuan populasi menghadapi perubahan lingkungan. Fragmentasi habitat dapat menghambat aliran gen, sementara koridor ekologis dapat membantu konektivitas jika dirancang sesuai kebutuhan spesies dan lanskap. Namun konektivitas juga harus mempertimbangkan penyakit, spesies invasif, dan karakter habitat.
+
+Data genetika konservasi harus ditafsirkan bersama ekologi, perilaku, ukuran populasi, dan ancaman habitat. Keputusan konservasi tidak boleh hanya didasarkan pada satu indeks genetik. Libatkan pengetahuan lokal dan prinsip perlindungan ekosistem.
+
+LATIHAN PENDALAMAN
+1. Apa perbedaan perubahan ekspresi gen dan perubahan urutan DNA?
+2. Mengapa penemuan varian tidak otomatis membuktikan penyebab suatu sifat?
+3. Sebutkan faktor yang dapat mengubah frekuensi alel.
+4. Mengapa populasi kecil rentan kehilangan variasi genetik?
+5. Mengapa data genomik memerlukan perlindungan khusus?

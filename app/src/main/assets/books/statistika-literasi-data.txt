@@ -329,8 +329,6 @@ LATIHAN
 2. Mengapa nilai p bukan ukuran efek? Jawaban: nilai p dipengaruhi ukuran sampel dan variasi, bukan besarnya dampak.
 3. Apa itu bias seleksi? Jawaban: distorsi dari proses pemilihan sampel atau peserta.
 
-
-
 BAB LANJUTAN — KORELASI, REGRESI, DAN KETERBATASAN DATA
 
 Korelasi menggambarkan hubungan statistik antara dua variabel. Korelasi positif berarti nilai keduanya cenderung meningkat bersama, sedangkan korelasi negatif berarti satu nilai cenderung meningkat ketika yang lain menurun. Korelasi tidak dengan sendirinya membuktikan sebab-akibat. Hubungan dapat dipengaruhi variabel ketiga, arah sebab yang berbeda, atau kebetulan.

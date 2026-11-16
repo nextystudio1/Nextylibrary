@@ -68,7 +68,7 @@ Pembiasan: Perubahan arah rambat gelombang saat memasuki medium berbeda.
 SARAN BELAJAR
 Saat memperdalam Gelombang, Bunyi, dan Cahaya, bandingkan penjelasan buku ini dengan buku ajar dan publikasi lembaga yang relevan. Buat daftar istilah baru, cari contoh yang dapat diperiksa, dan catat perbedaan definisi atau metode. Utamakan sumber yang menjelaskan penulis, tanggal, dan dasar informasinya.
 
-BAB 6. BESARAN GELOMBANG DAN PERHITUNGAN
+PENDALAMAN — BESARAN GELOMBANG DAN PERHITUNGAN
 Frekuensi menyatakan banyak getaran setiap detik dan diukur dalam hertz. Periode adalah waktu untuk satu getaran, sehingga T = 1/f. Panjang gelombang adalah jarak antara dua titik berfase sama yang berurutan. Cepat rambat gelombang memenuhi v = fλ. Jika gelombang memiliki frekuensi 5 hertz dan panjang gelombang 2 meter, cepat rambatnya 10 meter per detik. Persamaan ini membantu menghubungkan sifat gelombang, tetapi nilai cepat rambat ditentukan oleh medium dan kondisi perambatan. Ketika gelombang memasuki medium lain, frekuensi umumnya tetap ditentukan sumber, sedangkan panjang gelombang dapat berubah karena cepat rambat berubah. Dalam membaca soal, tulis besaran yang diketahui, satuannya, besaran yang ditanya, lalu periksa apakah hasil memiliki satuan yang sesuai.
 
 BAB 7. PEMANTULAN, PEMBIASAN, DAN DIFRAKSI

@@ -18,12 +18,12 @@ Robot merupakan sistem terpadu: sensor mengumpulkan informasi, pengendali mempro
 CONTOH KAJIAN
 Robot penyortir barang menggunakan sensor untuk mengenali karakteristik objek, pengendali untuk memilih jalur, dan aktuator untuk memindahkan objek. Setiap bagian harus bekerja sesuai urutan.
 
-LANGKAH PRAKTIK
-1. Rancang diagram robot penyiram tanaman yang hanya bekerja ketika kelembapan tanah berada di bawah ambang yang ditentukan.
-2. Tentukan sensor, pengendali, aktuator, dan sumber energi yang diperlukan.
-3. Jelaskan bagaimana sistem mencegah penyiraman berulang ketika sensor gagal.
-4. Tentukan kondisi berhenti yang aman.
-5. Buat tiga skenario uji tanpa harus merakit perangkat.
+ANALISIS SISTEM
+1. Gambarkan aliran informasi dari sensor hingga aktuator.
+2. Tentukan kondisi operasi normal dan kondisi yang membuat sistem harus berhenti.
+3. Jelaskan bagaimana hasil sensor diperiksa sebelum digunakan pengendali.
+4. Tentukan indikator yang membuktikan tugas robot berhasil.
+5. Jelaskan risiko kesalahan pengukuran dan dampaknya terhadap keputusan.
 
 RANGKUMAN BAB
 - Robot adalah sistem yang menggabungkan sensor, pengendali, dan aktuator.
@@ -105,3 +105,102 @@ Bandingkan hasil dengan kebutuhan awal: akurasi, waktu penyelesaian, konsumsi en
 
 LATIHAN
 Rancang skenario pengujian robot pengantar barang pada area simulasi yang aman. Tentukan tujuan, kondisi awal, sensor yang dipantau, kriteria keberhasilan, dan langkah evaluasi setelah terjadi kegagalan.
+
+
+BAB 7. MEKANIKA ROBOT DAN TRANSMISI GERAK
+Gerak robot dipengaruhi geometri, massa, gaya, torsi, gesekan, dan kestabilan. Gaya menyebabkan perubahan gerak translasi, sedangkan torsi berkaitan dengan kecenderungan benda berputar. Pada sistem beroda, posisi pusat massa dan distribusi beban memengaruhi kestabilan serta kemampuan melewati permukaan.
+
+Roda gigi, sabuk, rantai, dan mekanisme penghubung dapat mengubah hubungan antara putaran motor dan gerakan keluaran. Rasio transmisi yang meningkatkan torsi biasanya mengurangi kecepatan keluaran untuk daya masukan yang sama, dengan memperhitungkan rugi-rugi. Pemilihan motor tidak boleh hanya melihat angka kecepatan tanpa mempertimbangkan beban dan kebutuhan gerak.
+
+Contoh hitung konseptual: jika roda berputar 2 kali per detik dan keliling roda 0,30 meter, kecepatan ideal tanpa selip adalah 2 × 0,30 = 0,60 meter per detik. Nilai nyata dapat lebih rendah karena selip, hambatan, dan perubahan beban.
+
+LATIHAN
+1. Bedakan gaya dan torsi.
+2. Mengapa pusat massa memengaruhi kestabilan robot?
+3. Jelaskan kompromi antara torsi dan kecepatan pada transmisi.
+4. Hitung kecepatan ideal jika roda berputar 3 kali per detik dan kelilingnya 0,25 meter.
+5. Sebutkan faktor yang menyebabkan kecepatan nyata berbeda dari hasil hitung ideal.
+
+BAB 8. KINEMATIKA DAN KOORDINAT
+Kinematika membahas gerak melalui posisi, kecepatan, percepatan, dan orientasi. Robot bergerak pada bidang dapat menggunakan koordinat kartesius, sedangkan gerak berputar memerlukan sudut dan arah acuan. Sistem koordinat harus didefinisikan secara konsisten agar posisi sensor, roda, lengan, dan sasaran dapat dihubungkan.
+
+Odometri memperkirakan perubahan posisi dari putaran roda. Perkiraan ini dapat menyimpang akibat selip, ketidakrataan lantai, diameter roda yang berbeda, dan kesalahan pengukuran. Karena itu, odometri merupakan estimasi yang memiliki ketidakpastian, bukan posisi mutlak yang selalu tepat.
+
+LATIHAN
+1. Jelaskan perbedaan posisi, kecepatan, dan percepatan.
+2. Mengapa sistem koordinat perlu diberi arah dan satuan?
+3. Sebutkan tiga sumber kesalahan odometri.
+4. Mengapa estimasi posisi perlu diperiksa dengan informasi sensor lain?
+5. Buat contoh lintasan sederhana pada bidang koordinat dan jelaskan titik awal serta akhirnya.
+
+BAB 9. LOGIKA KENDALI DAN KEADAAN SISTEM
+Robot dapat dimodelkan sebagai kumpulan keadaan, misalnya siap, berjalan, menunggu, mengalami gangguan, dan berhenti aman. Perpindahan keadaan terjadi ketika kondisi tertentu terpenuhi. Model keadaan membantu memastikan perintah tidak dijalankan pada kondisi yang salah.
+
+Prioritas keputusan perlu jelas. Perintah berhenti karena kondisi keselamatan harus mengalahkan perintah gerak biasa. Sistem juga perlu menangani sensor yang tidak memberi data, data di luar rentang wajar, atau komunikasi terputus. Dalam keadaan tidak pasti, rancangan harus memilih respons yang mengurangi risiko dan memberi tahu pengguna.
+
+Pengujian logika tidak cukup dengan satu skenario normal. Uji juga batas nilai, masukan terlambat, sensor tidak tersedia, dan perubahan kondisi saat tugas berlangsung. Simulasi memungkinkan pengujian awal tanpa menjalankan perangkat fisik.
+
+LATIHAN
+1. Buat diagram keadaan sederhana untuk robot pengantar barang.
+2. Mengapa perintah berhenti harus memiliki prioritas yang jelas?
+3. Jelaskan respons yang sesuai ketika data sensor tidak tersedia.
+4. Berikan empat skenario uji, termasuk satu kondisi tidak normal.
+5. Apa manfaat simulasi sebelum pengujian perangkat?
+
+BAB 10. NAVIGASI DAN PERENCANAAN JALUR
+Navigasi adalah proses menentukan posisi, memahami lingkungan, dan memilih gerakan menuju tujuan. Robot dapat menggunakan penanda, peta, sensor jarak, kamera, atau gabungan beberapa sumber informasi. Setiap metode memiliki batasan: penanda dapat tertutup, peta dapat berubah, dan sensor memiliki rentang serta ketidakpastian.
+
+Perencanaan jalur mempertimbangkan jarak, hambatan, lebar lintasan, area terlarang, dan kebutuhan berhenti. Jalur terpendek belum tentu paling sesuai jika terlalu dekat dengan orang atau melewati permukaan yang tidak aman. Kriteria navigasi harus disesuaikan dengan tujuan dan lingkungan penggunaan.
+
+Lokalisasi adalah perkiraan posisi robot terhadap peta atau titik acuan. Pemetaan membangun representasi lingkungan. Keduanya dapat saling membantu, tetapi hasilnya dipengaruhi kualitas sensor, perubahan lingkungan, dan kesalahan model.
+
+LATIHAN
+1. Bedakan navigasi, lokalisasi, dan pemetaan.
+2. Mengapa jalur terpendek belum tentu jalur terbaik?
+3. Sebutkan kondisi lingkungan yang dapat mengganggu navigasi.
+4. Buat kriteria untuk mengevaluasi jalur robot pada peta simulasi.
+5. Jelaskan bagaimana sistem sebaiknya bertindak ketika posisi tidak dapat diperkirakan dengan yakin.
+
+BAB 11. KOMUNIKASI, DAYA, DAN PEMELIHARAAN
+Robot dapat bertukar data dengan komputer, pengendali lain, atau antarmuka pengguna. Komunikasi memiliki kecepatan, latensi, jangkauan, dan kemungkinan kehilangan paket. Sistem harus menentukan tindakan ketika pesan terlambat atau koneksi terputus. Perintah penting tidak boleh diasumsikan berhasil hanya karena telah dikirim.
+
+Sumber daya listrik dipilih berdasarkan tegangan, arus, kapasitas, kebutuhan puncak, dan karakter beban. Perkiraan energi membantu memperkirakan lama operasi, tetapi kondisi baterai, suhu, usia, dan pola penggunaan dapat mengubah hasil. Pengelolaan daya harus mengikuti spesifikasi komponen dan prosedur keselamatan produsen.
+
+Pemeliharaan mencakup pemeriksaan sambungan, kondisi mekanis, kebersihan sensor, pembaruan perangkat lunak, dan pencatatan gangguan. Catatan sebaiknya memuat tanggal, gejala, pemeriksaan, tindakan, dan hasil setelah perbaikan. Pekerjaan pada perangkat bertenaga atau bagian bergerak harus dilakukan oleh orang kompeten dengan prosedur keselamatan yang sesuai.
+
+LATIHAN
+1. Apa arti latensi dan kehilangan paket?
+2. Mengapa robot perlu respons ketika komunikasi terputus?
+3. Sebutkan informasi yang diperlukan untuk memperkirakan kebutuhan energi.
+4. Buat format catatan pemeliharaan yang dapat ditelusuri.
+5. Mengapa spesifikasi produsen dan prosedur keselamatan harus diikuti?
+
+BAB 12. STUDI KASUS: ROBOT PENGANTAR DI PERPUSTAKAAN
+Bayangkan perpustakaan ingin menguji konsep robot pengantar buku pada lingkungan simulasi. Tujuan proyek bukan menggantikan seluruh pekerjaan petugas, melainkan menguji apakah sistem dapat mengikuti jalur yang ditentukan, berhenti di titik tujuan, dan memberi informasi status dengan konsisten.
+
+Kebutuhan pengguna diterjemahkan menjadi indikator: keberhasilan mencapai titik tujuan, ketepatan berhenti, waktu perjalanan, jumlah intervensi, konsumsi energi, dan kemampuan masuk ke keadaan aman ketika jalur terhalang. Setiap indikator harus memiliki cara ukur dan batas penerimaan yang ditentukan sebelum pengujian.
+
+Tim perlu mencatat batasan simulasi. Simulasi mungkin tidak mewakili gesekan lantai, variasi pencahayaan, keramaian, atau gangguan komunikasi sepenuhnya. Hasil simulasi tidak boleh diklaim sebagai bukti bahwa perangkat siap digunakan di ruang publik.
+
+Rencana evaluasi dapat membandingkan beberapa skenario: jalur kosong, jalur dengan penghalang statis, perubahan tujuan, data sensor tidak tersedia, dan komunikasi terputus. Fokus pembelajaran adalah kualitas spesifikasi, pencatatan, analisis kesalahan, dan keputusan desain yang bertanggung jawab.
+
+PROYEK AKHIR TERPERINCI
+Buat dokumen rancangan konseptual robot untuk tugas yang aman dan bermanfaat. Sertakan kebutuhan pengguna, diagram blok, daftar sensor dan aktuator secara umum, alur keadaan, skenario simulasi, indikator keberhasilan, risiko, privasi, dan batasan. Rancangan konseptual bukan instruksi perakitan atau sertifikasi keselamatan.
+
+EVALUASI AKHIR
+1. Jelaskan hubungan mekanika, sensor, kendali, dan aktuator dalam satu sistem.
+2. Hitung kecepatan ideal roda berdasarkan frekuensi putar dan keliling roda.
+3. Mengapa sistem koordinat dan satuan harus konsisten?
+4. Buat model keadaan yang memprioritaskan penghentian aman.
+5. Bandingkan dua pendekatan navigasi dan jelaskan keterbatasannya.
+6. Uraikan bagaimana kehilangan komunikasi dan penurunan daya dapat memengaruhi operasi.
+7. Susun rencana uji simulasi dengan kriteria keberhasilan yang terukur.
+8. Jelaskan batas klaim yang dapat dibuat dari hasil simulasi.
+
+GLOSARIUM TAMBAHAN
+Kinematika: Kajian gerak berdasarkan posisi, kecepatan, dan percepatan.
+Odometri: Perkiraan perpindahan berdasarkan data gerak, misalnya putaran roda.
+Lokalisasi: Perkiraan posisi sistem terhadap acuan atau peta.
+Latensi: Waktu tunda antara pengiriman dan penerimaan informasi.
+Rasio transmisi: Perbandingan gerak masukan dan keluaran mekanisme.
+Keadaan sistem: Kondisi operasi yang menentukan respons kendali.

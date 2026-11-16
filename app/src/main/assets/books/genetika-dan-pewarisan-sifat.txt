@@ -13,7 +13,7 @@ BAB 1. INFORMASI GENETIK
 Informasi genetik tersimpan dalam molekul DNA pada hampir semua organisme. DNA tersusun atas nukleotida dengan empat jenis basa: adenin, timin, guanin, dan sitosin. Urutan basa menyimpan informasi biologis. Pada proses ekspresi gen, bagian DNA ditranskripsikan menjadi RNA; pada banyak gen, RNA kemudian menjadi cetakan untuk menyusun protein. Gen adalah segmen DNA yang memiliki produk fungsional, sedangkan kromosom merupakan struktur DNA dan protein yang mengemas materi genetik. Jumlah dan susunan kromosom berbeda antarspesies.
 
 CONTOH PENERAPAN
-Contoh kajian: pilih kasus sederhana yang berkaitan dengan INFORMASI GENETIK dalam bidang Genetika dan Pewarisan Sifat. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
+Gunakan persilangan Mendel hipotetis dengan satu sifat dan alel dominan-resesif untuk membuat kotak Punnett. Hitung peluang genotipe dan fenotipe keturunan, lalu jelaskan bahwa peluang pada model sederhana bukan ramalan pasti bagi satu individu dan banyak sifat manusia dipengaruhi banyak gen serta lingkungan.
 
 RANGKUMAN
 - INFORMASI GENETIK: pahami istilah dan prinsip yang menjadi dasar pembahasan.

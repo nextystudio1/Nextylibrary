@@ -83,25 +83,25 @@ LATIHAN
 3. Mengapa LED memerlukan pembatas arus? Jawaban: agar arus tidak melampaui batas kerja.
 
 PENDALAMAN LANJUTAN: ANALISIS RANGKAIAN DAN SISTEM ELEKTRONIK
-BAB 7 — KOMPONEN PASIF
+BAB 13 — KOMPONEN PASIF
 Resistor membatasi arus dan membagi tegangan. Kapasitor menyimpan energi dalam medan listrik dan dapat digunakan untuk penyaringan, penghalusan tegangan, serta pengaturan waktu. Induktor menyimpan energi dalam medan magnet dan banyak digunakan pada filter serta konverter daya.
 Komponen nyata memiliki toleransi, batas tegangan, arus, daya, suhu, dan frekuensi kerja. Pemilihan komponen harus melihat lembar data, bukan hanya nilai nominal.
-BAB 8 — DIODA DAN TRANSISTOR
+BAB 14 — DIODA DAN TRANSISTOR
 Dioda memungkinkan arus mengalir lebih mudah pada arah tertentu dalam kondisi kerja yang sesuai. LED memancarkan cahaya ketika dialiri arus dengan polaritas dan pembatasan arus yang benar. Dioda zener dapat digunakan untuk referensi atau pembatas tegangan pada rancangan tertentu.
 Transistor dapat berfungsi sebagai sakelar elektronik atau penguat. BJT dikendalikan oleh arus basis dalam model sederhana, sedangkan MOSFET dikendalikan oleh tegangan gerbang. Pemilihan jenis bergantung pada kecepatan, rugi daya, tegangan, arus, dan kebutuhan penggerak.
-BAB 9 — HUKUM KIRCHHOFF DAN ANALISIS
+BAB 15 — HUKUM KIRCHHOFF DAN ANALISIS
 Hukum arus Kirchhoff menyatakan jumlah arus yang masuk dan keluar simpul seimbang. Hukum tegangan Kirchhoff menyatakan jumlah perubahan tegangan dalam lintasan tertutup sama dengan nol. Kedua prinsip ini menjadi dasar analisis jaringan.
 Analisis rangkaian dapat dilakukan dengan metode simpul atau mesh. Periksa satuan, arah referensi, dan tanda hasil. Nilai negatif biasanya menunjukkan arah sebenarnya berlawanan dengan arah asumsi, bukan otomatis kesalahan.
-BAB 10 — SINYAL ANALOG DAN DIGITAL
+BAB 16 — SINYAL ANALOG DAN DIGITAL
 Sinyal analog berubah secara kontinu, sedangkan sinyal digital direpresentasikan oleh tingkat diskret. Konverter analog-ke-digital melakukan sampling dan kuantisasi. Frekuensi sampling perlu cukup tinggi agar perubahan sinyal dapat direpresentasikan sesuai batas teori dan kebutuhan aplikasi.
 Filter mengurangi komponen frekuensi tertentu. Filter rendah melewatkan frekuensi di bawah rentang tertentu, sedangkan filter tinggi melewatkan frekuensi di atasnya. Komponen nyata memiliki toleransi dan respons yang tidak ideal.
-BAB 11 — CATU DAYA DAN EFISIENSI
+BAB 17 — CATU DAYA DAN EFISIENSI
 Catu daya mengubah energi dari sumber menjadi tegangan dan arus yang dibutuhkan rangkaian. Regulator linear sederhana tetapi membuang selisih tegangan sebagai panas. Regulator switching dapat lebih efisien, namun menghasilkan riak dan gangguan elektromagnetik yang perlu dikelola.
 Rancangan harus mempertimbangkan isolasi, proteksi arus lebih, suhu, polaritas, dan kualitas komponen. Pekerjaan pembelajaran sebaiknya menggunakan kit tegangan rendah yang dirancang aman, bukan sumber listrik rumah tangga.
-BAB 12 — PENGUKURAN DAN PEMECAHAN GANGGUAN
+BAB 18 — PENGUKURAN DAN PEMECAHAN GANGGUAN
 Multimeter digunakan untuk mengukur tegangan, arus, dan resistansi sesuai mode serta terminal yang benar. Osiloskop menampilkan perubahan sinyal terhadap waktu. Probe, ground, rentang ukur, dan kalibrasi memengaruhi hasil.
 Pemecahan gangguan dimulai dari pemeriksaan visual, verifikasi catu daya tegangan rendah, pengukuran bertahap, dan pembandingan dengan diagram. Ubah satu hal pada satu waktu dan catat hasil agar penyebab masalah dapat dilacak.
-BAB 13 — DOKUMENTASI DAN DESAIN BERTANGGUNG JAWAB
+BAB 19 — DOKUMENTASI DAN DESAIN BERTANGGUNG JAWAB
 Skema, daftar komponen, versi papan, dan catatan pengujian memudahkan perawatan. Dokumentasi harus menyebut batas operasi dan kondisi uji. Desain yang baik memperhitungkan kegagalan komponen dan cara sistem masuk ke keadaan aman.
 Perangkat elektronik juga memiliki dampak lingkungan dari bahan baku hingga limbah. Perbaikan, penggunaan ulang, dan daur ulang melalui jalur resmi dapat mengurangi beban lingkungan.
 LATIHAN PENDALAMAN
@@ -111,17 +111,17 @@ LATIHAN PENDALAMAN
 4. Mengapa pembelajaran rangkaian harus menggunakan sumber tegangan rendah yang aman? Jawaban: untuk mengurangi risiko sengatan, panas, dan kerusakan peralatan.
 
 PENDALAMAN RANGKAIAN DAN PENGUKURAN
-BAB 14 — HUKUM KIRCHHOFF
+BAB 20 — HUKUM KIRCHHOFF
 Hukum arus Kirchhoff menyatakan jumlah arus yang masuk ke simpul sama dengan jumlah arus keluar, berdasarkan kekekalan muatan. Hukum tegangan Kirchhoff menyatakan jumlah perubahan tegangan dalam lintasan tertutup sama dengan nol pada model rangkaian yang sesuai. Tetapkan arah arus dan polaritas secara konsisten; hasil negatif berarti arah sebenarnya berlawanan dengan asumsi.
-BAB 15 — RANGKAIAN SERI DAN PARALEL
+BAB 21 — RANGKAIAN SERI DAN PARALEL
 Pada rangkaian seri, arus melalui komponen sama dan tegangan terbagi. Pada rangkaian paralel, tegangan cabang sama sedangkan arus terbagi. Hambatan ekuivalen seri adalah jumlah hambatan, sedangkan paralel dihitung dari jumlah kebalikan hambatan. Toleransi komponen membuat nilai aktual berbeda dari nominal.
-BAB 16 — KAPASITOR DAN INDUKTOR
+BAB 22 — KAPASITOR DAN INDUKTOR
 Kapasitor menyimpan energi dalam medan listrik dan menahan perubahan tegangan secara seketika pada model ideal. Induktor menyimpan energi dalam medan magnet dan menahan perubahan arus. Konstanta waktu RC adalah hasil kali resistansi dan kapasitansi. Konstanta waktu RL adalah induktansi dibagi resistansi pada rangkaian sederhana.
-BAB 17 — DIODA DAN TRANSISTOR
+BAB 23 — DIODA DAN TRANSISTOR
 Dioda mengalirkan arus terutama pada satu arah. LED memancarkan cahaya pada polaritas yang sesuai dan memerlukan pembatas arus. Transistor dapat menjadi sakelar atau penguat. Periksa tegangan, arus, disipasi daya, kondisi termal, dan lembar data model yang tepat; pinout komponen tidak selalu sama.
-BAB 18 — INSTRUMEN DAN KETIDAKPASTIAN
+BAB 24 — INSTRUMEN DAN KETIDAKPASTIAN
 Multimeter mengukur tegangan, arus, dan resistansi sesuai mode serta batas alat. Osiloskop memperlihatkan sinyal terhadap waktu. Kesalahan dapat muncul karena salah memilih terminal, rentang, referensi ground, atau jenis pengukuran. Catat resolusi dan kondisi pengukuran. Praktik pemula gunakan kit tegangan rendah yang dirancang untuk pembelajaran dengan pengawasan; jangan membuka peralatan listrik rumah tangga.
-BAB 19 — DOKUMENTASI DAN DIAGNOSIS
+BAB 25 — DOKUMENTASI DAN DIAGNOSIS
 Saat rangkaian tidak bekerja, periksa diagram, polaritas, sambungan, nilai komponen, dan sumber daya dalam kondisi aman. Ubah satu hal pada satu waktu dan catat hasil. Dokumentasi memuat skema, daftar komponen, versi rangkaian, hasil pengukuran, dan perbedaan dari rancangan.
 LATIHAN
 1. Makna arus simpul Kirchhoff? Kekekalan muatan.
@@ -166,97 +166,97 @@ Tegangan rendah: sumber tegangan pembelajaran dengan risiko lebih kecil sesuai s
 
 PENGEMBANGAN MATERI — SISTEM DAN APLIKASI ELEKTRONIKA
 
-BAB 20 — SATUAN DAN KETELITIAN
+BAB 26 — SATUAN DAN KETELITIAN
 Besaran listrik harus ditulis bersama satuannya. Tegangan menggunakan volt, arus ampere, hambatan ohm, daya watt, kapasitansi farad, induktansi henry, dan frekuensi hertz. Awalan kilo berarti seribu, mili berarti seperseribu, dan mikro berarti sepersejuta. Kesalahan mengubah miliampere menjadi ampere dapat menghasilkan perbedaan seribu kali. Biasakan memeriksa satuan pada setiap langkah perhitungan.
 
 Hasil pengukuran tidak pernah lepas dari ketidakpastian. Resolusi alat, kalibrasi, kondisi lingkungan, dan cara pengukuran memengaruhi angka yang ditampilkan. Tampilan beberapa angka desimal bukan jaminan bahwa semua angka tersebut akurat. Laporkan hasil sesuai kemampuan alat dan jangan menambah ketelitian semu.
 
-BAB 21 — KEKEKALAN MUATAN DAN ENERGI
+BAB 27 — KEKEKALAN MUATAN DAN ENERGI
 Hukum arus Kirchhoff berasal dari kekekalan muatan: jumlah arus yang masuk ke suatu simpul sama dengan jumlah arus yang keluar, menurut model rangkaian yang digunakan. Hukum tegangan Kirchhoff menyatakan jumlah perubahan tegangan sepanjang lintasan tertutup sama dengan nol. Keduanya membantu menganalisis jaringan listrik.
 
 Energi tidak diciptakan atau dimusnahkan. Sumber memasok energi, sedangkan komponen menyerap, menyimpan sementara, atau mengubahnya menjadi panas, cahaya, gerak, dan bentuk lain. Dalam rangkaian nyata, sebagian energi hilang sebagai panas akibat resistansi dan rugi komponen. Neraca daya membantu memeriksa apakah perhitungan masuk akal.
 
-BAB 22 — PEMBAGI TEGANGAN
+BAB 28 — PEMBAGI TEGANGAN
 Dua resistor seri dapat membagi tegangan sumber. Dalam model ideal tanpa beban yang memengaruhi rangkaian, tegangan pada salah satu resistor sebanding dengan nilai resistansinya dibanding jumlah kedua resistor. Konsep ini digunakan untuk memahami pengaturan level sinyal dan pembacaan sensor.
 
 Jika keluaran dihubungkan ke beban, beban dapat mengubah pembagian tegangan. Karena itu, hasil perhitungan ideal perlu menyebutkan asumsi. Pembagi tegangan sederhana juga tidak otomatis cocok menjadi catu daya karena tegangan dapat berubah ketika beban berubah.
 
-BAB 23 — RESPONS WAKTU RANGKAIAN RC
+BAB 29 — RESPONS WAKTU RANGKAIAN RC
 Rangkaian resistor dan kapasitor memiliki respons waktu. Untuk model RC sederhana, konstanta waktu adalah τ = R × C. Setelah satu konstanta waktu pada proses pengisian ideal, tegangan kapasitor telah mencapai sekitar 63 persen dari perubahan akhirnya. Setelah beberapa konstanta waktu, nilainya semakin mendekati keadaan tunak.
 
 Proses ini berlangsung bertahap, bukan berhenti mendadak. Toleransi komponen, kebocoran, suhu, dan karakteristik sumber dapat mengubah respons nyata. Konsep RC digunakan untuk memahami penyaringan, penghalusan sinyal, dan pengaturan waktu.
 
-BAB 24 — FILTER DAN FREKUENSI
+BAB 30 — FILTER DAN FREKUENSI
 Filter mengubah respons rangkaian terhadap komponen frekuensi yang berbeda. Filter lolos-rendah melewatkan frekuensi rendah lebih baik daripada frekuensi tinggi. Filter lolos-tinggi menunjukkan perilaku sebaliknya. Filter lolos-pita melewatkan rentang frekuensi tertentu.
 
 Filter nyata memiliki perubahan respons bertahap, bukan batas yang benar-benar tegak. Pemilihan filter perlu mempertimbangkan frekuensi sinyal, gangguan, perubahan fase, dan toleransi komponen. Penerapannya antara lain mengurangi derau dan mengolah sinyal audio atau sensor.
 
-BAB 25 — PENGUAT DAN DISTORSI
+BAB 31 — PENGUAT DAN DISTORSI
 Penguat meningkatkan amplitudo sinyal dengan menggunakan energi dari catu daya. Penguatan tegangan membandingkan tegangan keluaran dengan masukan pada kondisi tertentu. Penguat nyata memiliki batas frekuensi, derau, distorsi, dan kemampuan keluaran.
 
 Jika sinyal terlalu besar, keluaran dapat mencapai batas catu daya dan mengalami clipping sehingga bentuk gelombang berubah. Penguatan tinggi juga dapat memperkuat derau. Oleh sebab itu, spesifikasi penguat perlu dibaca bersama bandwidth, impedansi, konsumsi daya, dan kondisi beban.
 
-BAB 26 — KONVERSI ANALOG KE DIGITAL
+BAB 32 — KONVERSI ANALOG KE DIGITAL
 Konverter analog-ke-digital mengubah sinyal kontinu menjadi representasi angka. Sampling mengambil nilai sinyal pada waktu tertentu, sedangkan kuantisasi memetakan nilai ke tingkat digital. Jumlah bit menentukan banyaknya tingkat representasi ideal, tetapi tidak sendirian menentukan akurasi sistem.
 
 Sampling yang terlalu rendah dapat menimbulkan aliasing, yaitu frekuensi tampak sebagai frekuensi lain. Filter anti-alias membatasi komponen frekuensi sebelum proses sampling. Derau, referensi tegangan, dan kualitas rangkaian juga memengaruhi hasil konversi.
 
-BAB 27 — MIKROKONTROLER DAN SISTEM TERTANAM
+BAB 33 — MIKROKONTROLER DAN SISTEM TERTANAM
 Mikrokontroler menggabungkan pemroses, memori, dan antarmuka masukan-keluaran dalam satu chip. Perangkat ini dapat membaca sensor, menjalankan aturan kendali, dan mengatur keluaran. Sistem tertanam dirancang untuk tugas tertentu seperti pemantauan suhu atau pengendalian perangkat.
 
 Program harus memperhatikan waktu respons, penggunaan memori, keadaan awal, dan penanganan kesalahan. Masukan sensor bisa tidak tersedia atau berada di luar rentang. Sistem yang tangguh menentukan perilaku yang aman ketika terjadi gangguan. Tegangan logika dan batas arus setiap papan harus diperiksa pada dokumentasi resminya.
 
-BAB 28 — SENSOR DAN KALIBRASI
+BAB 34 — SENSOR DAN KALIBRASI
 Sensor mengubah besaran fisik menjadi sinyal yang dapat diolah. Sensor suhu, cahaya, tekanan, dan gerak memiliki rentang serta karakteristik berbeda. Kalibrasi membandingkan hasil sensor dengan acuan yang diketahui untuk menilai penyimpangan.
 
 Akurasi berkaitan dengan kedekatan terhadap nilai acuan, sedangkan presisi berkaitan dengan konsistensi pengukuran berulang. Sensor dapat presisi tetapi memiliki bias sehingga hasilnya selalu bergeser. Catat rentang kerja, kondisi lingkungan, tanggal kalibrasi, dan ketidakpastian.
 
-BAB 29 — KOMUNIKASI ANTARPERANGKAT
+BAB 35 — KOMUNIKASI ANTARPERANGKAT
 Perangkat elektronik bertukar data melalui protokol komunikasi. Protokol menentukan format pesan, waktu, alamat, dan cara mendeteksi kesalahan. Komunikasi serial mengirimkan informasi secara berurutan; komunikasi paralel menggunakan beberapa jalur data.
 
 Gangguan elektromagnetik, panjang kabel, konektor, dan perbedaan referensi dapat menyebabkan data rusak. Dokumentasi protokol diperlukan agar dua perangkat memahami format pesan yang sama. Bentuk konektor yang sama tidak menjamin susunan pin atau tingkat tegangan yang sama.
 
-BAB 30 — KOMPATIBILITAS ANTARMUKA
+BAB 36 — KOMPATIBILITAS ANTARMUKA
 Sebelum menghubungkan modul, periksa tingkat tegangan logika, kebutuhan arus, polaritas, referensi, dan protokol. Perangkat dengan tingkat logika berbeda mungkin memerlukan antarmuka yang sesuai. Pin mikrokontroler tidak selalu mampu memasok daya bagi beban besar.
 
 Gunakan modul pendidikan yang dinyatakan kompatibel dan ikuti dokumentasinya. Jangan menganggap seluruh papan pengembangan memiliki batas listrik yang sama. Kesalahan kompatibilitas dapat merusak komponen meskipun konektornya tampak cocok.
 
-BAB 31 — GANGGUAN ELEKTROMAGNETIK
+BAB 37 — GANGGUAN ELEKTROMAGNETIK
 Perangkat elektronik dapat menghasilkan dan menerima gangguan elektromagnetik. Gangguan dapat merambat melalui kabel atau terpancar melalui ruang. Gejalanya dapat berupa pembacaan sensor yang berubah-ubah, komunikasi terputus, atau suara dengung.
 
 Tata letak, penyaringan, pelindung, dan rancangan jalur arus memengaruhi kompatibilitas elektromagnetik. Pengujian harus memakai alat dan prosedur yang sesuai. Persyaratan standar berbeda menurut jenis produk dan wilayah.
 
-BAB 32 — MANAJEMEN PANAS
+BAB 38 — MANAJEMEN PANAS
 Komponen menghasilkan panas saat beroperasi. Suhu terlalu tinggi dapat mempercepat penuaan, mengubah karakteristik, atau menyebabkan kegagalan. Perancang memperhatikan daya yang dibuang, suhu lingkungan, jalur perpindahan panas, dan batas suhu komponen.
 
 Panas berpindah melalui konduksi, konveksi, dan radiasi. Heatsink membantu memperluas permukaan pelepasan panas, tetapi efektivitasnya bergantung pada kontak termal dan aliran udara. Jangan menyentuh komponen panas; pengukuran dilakukan dengan alat yang sesuai.
 
-BAB 33 — KEANDALAN DAN KEGAGALAN
+BAB 39 — KEANDALAN DAN KEGAGALAN
 Keandalan adalah kemampuan sistem menjalankan fungsi yang dimaksud dalam periode dan kondisi tertentu. Kegagalan dapat disebabkan panas, kelembapan, getaran, tegangan berlebih, korosi, atau penuaan. Sambungan dan perangkat lunak juga dapat menjadi sumber gangguan.
 
 Analisis mode kegagalan mengidentifikasi cara suatu bagian dapat gagal, dampaknya, dan langkah pengurangan risiko. Rancangan yang bertanggung jawab mempertimbangkan keadaan gagal dan perilaku aman. Pengujian membantu mengurangi ketidakpastian, tetapi tidak menjamin semua kemungkinan telah ditemukan.
 
-BAB 34 — EFISIENSI DAN LINGKUNGAN
+BAB 40 — EFISIENSI DAN LINGKUNGAN
 Efisiensi adalah perbandingan keluaran berguna terhadap masukan energi dalam batas sistem yang ditentukan. Rugi daya dapat muncul pada resistansi, sakelar, inti magnetik, dan proses konversi. Penilaian efisiensi harus menyebutkan apa yang dianggap masukan dan keluaran.
 
 Dampak lingkungan juga dipengaruhi bahan baku, umur pakai, kemudahan perbaikan, dan akhir masa penggunaan. Limbah elektronik dan baterai harus disalurkan melalui fasilitas pengumpulan atau daur ulang yang sesuai, bukan dibuang sembarangan.
 
-BAB 35 — STUDI KASUS SENSOR CAHAYA
+BAB 41 — STUDI KASUS SENSOR CAHAYA
 Sistem lampu otomatis dapat dipahami sebagai sensor cahaya, unit kendali, dan keluaran. Sensor membaca tingkat pencahayaan; pengendali membandingkan nilai dengan ambang; keluaran berubah mengikuti aturan. Nilai sensor dapat berfluktuasi sehingga sistem memerlukan penyaringan atau histeresis agar keluaran tidak berubah terlalu sering dekat ambang.
 
 Kasus ini dapat dipelajari melalui simulasi atau kit tegangan rendah yang dirancang untuk pendidikan. Hasil perlu dievaluasi dengan mencatat kondisi pencahayaan, posisi sensor, dan respons sistem. Jangan menghubungkan eksperimen pembelajaran ke instalasi listrik rumah.
 
-BAB 36 — STUDI KASUS PENCATAT SUHU
+BAB 42 — STUDI KASUS PENCATAT SUHU
 Pencatat suhu terdiri atas sensor, pengolah sinyal, pemroses, penyimpanan, dan antarmuka. Kualitas hasil dipengaruhi lokasi sensor, interval sampling, kalibrasi, dan lingkungan. Sensor yang menempel pada permukaan dapat membaca suhu berbeda dari udara di sekitarnya.
 
 Saat membaca grafik, periksa waktu pencatatan, data hilang, dan rentang kerja sensor. Jangan menganggap perubahan kecil sebagai perubahan nyata tanpa mempertimbangkan ketidakpastian alat.
 
-BAB 37 — MEMBACA DATASHEET
+BAB 43 — MEMBACA DATASHEET
 Datasheet menjelaskan fungsi, konfigurasi pin, kondisi operasi, karakteristik listrik, batas maksimum, dan informasi kemasan. Nilai maksimum absolut bukan nilai operasi yang dianjurkan terus-menerus. Operasi dekat batas dapat mengurangi keandalan.
 
 Perhatikan kondisi ketika spesifikasi diukur. Nilai arus, tegangan, dan penguatan dapat berubah terhadap suhu dan beban. Bandingkan komponen hanya jika kondisi pengujian sebanding.
 
-BAB 38 — PROSES DESAIN DAN PENGUJIAN
+BAB 44 — PROSES DESAIN DAN PENGUJIAN
 Desain dimulai dari kebutuhan, batasan, dan kriteria keberhasilan. Buat diagram blok yang menunjukkan masukan, keluaran, sumber energi, lingkungan, dan kondisi kegagalan. Setelah rancangan konseptual, evaluasi melalui simulasi atau kit pendidikan yang aman.
 
 Catat hasil terhadap kriteria yang ditentukan. Jika hasil tidak sesuai, cari penyebab dan revisi dengan dokumentasi. Pengujian harus dapat diulang dan tidak boleh mengabaikan prosedur keselamatan.
@@ -493,7 +493,7 @@ Induktansi: sifat rangkaian yang berkaitan dengan perubahan fluks magnet akibat 
 Penyearah: rangkaian yang mengubah arus bolak-balik menjadi keluaran searah.
 Titik kerja: kondisi tegangan dan arus DC tempat komponen beroperasi.
 Kalibrasi: pembandingan alat ukur dengan acuan untuk mengetahui penyimpangan.
-BAB 13 — PENGUKURAN DAN KESELAMATAN RANGKAIAN
+BAB 45 — PENGUKURAN DAN KESELAMATAN RANGKAIAN
 
 Pengukuran adalah bagian penting dari pembelajaran elektronika. Alat ukur yang umum diperkenalkan pada tingkat dasar adalah multimeter pendidikan. Alat ini dapat digunakan untuk mengukur tegangan, hambatan, dan arus sesuai fungsi serta petunjuk produsennya. Pembaca harus memahami batas alat, kondisi pengukuran, dan keselamatan sebelum melakukan praktik. Materi ini bersifat konseptual; jangan mengukur instalasi listrik rumah atau sumber tegangan tinggi sebagai percobaan mandiri.
 
@@ -503,7 +503,7 @@ Hambatan dapat diperiksa pada komponen yang tidak sedang diberi daya dan telah d
 
 Keselamatan dimulai dari pemeriksaan visual. Kabel yang terkelupas, komponen retak, konektor longgar, atau sumber daya yang tidak sesuai harus ditangani oleh orang yang kompeten. Jangan menyentuh bagian konduktor terbuka ketika rangkaian diberi daya. Jangan menggunakan air di area praktik, jangan bekerja sendirian pada kegiatan berisiko, dan hentikan kegiatan jika muncul bau, panas berlebihan, suara tidak normal, atau kerusakan.
 
-BAB 14 — KAPASITOR DAN PENYIMPANAN ENERGI
+BAB 46 — KAPASITOR DAN PENYIMPANAN ENERGI
 
 Kapasitor adalah komponen yang menyimpan energi dalam medan listrik. Secara sederhana, kapasitor terdiri dari dua konduktor yang dipisahkan bahan isolator atau dielektrik. Kapasitansi menyatakan kemampuan menyimpan muatan untuk beda potensial tertentu. Satuan kapasitansi adalah farad, meskipun komponen sehari-hari sering memiliki nilai mikrofarad, nanofarad, atau pikofarad.
 
@@ -515,7 +515,7 @@ Kapasitor digunakan untuk penyaringan, penghalusan perubahan tegangan, pengatura
 
 Latihan: sebuah rangkaian pendidikan menggunakan resistor 10 kilo-ohm dan kapasitor 100 mikrofarad. Konstanta waktunya adalah 10.000 × 0,0001 = 1 detik. Artinya, proses pengisian memiliki skala waktu sekitar satu detik; bukan berarti kapasitor selalu penuh tepat pada detik pertama. Jelaskan mengapa istilah “konstanta waktu” lebih tepat daripada menyebutnya “waktu pengisian penuh”.
 
-BAB 15 — DIODA DAN LED
+BAB 47 — DIODA DAN LED
 
 Dioda adalah komponen semikonduktor yang pada kondisi tertentu lebih mudah mengalirkan arus dalam satu arah dibanding arah sebaliknya. Sifat ini membuat dioda berguna dalam penyearah, perlindungan polaritas, dan pembentukan sinyal. Dioda memiliki dua terminal yang dikenal sebagai anoda dan katoda. Simbol rangkaian menunjukkan arah karakteristiknya.
 
@@ -523,7 +523,7 @@ LED atau light-emitting diode menghasilkan cahaya ketika dialiri arus pada kondi
 
 Penyearah menggunakan dioda untuk mengubah arus bolak-balik menjadi bentuk arus searah berdenyut. Penyearah setengah gelombang menggunakan satu bagian gelombang, sedangkan penyearah gelombang penuh memanfaatkan kedua bagian melalui konfigurasi yang sesuai. Kapasitor dapat membantu mengurangi riak keluaran, tetapi pemilihan komponen harus mengikuti perhitungan dan batas keselamatan.
 
-BAB 16 — MEMBACA DIAGRAM RANGKAIAN
+BAB 48 — MEMBACA DIAGRAM RANGKAIAN
 
 Diagram rangkaian adalah bahasa visual untuk menggambarkan hubungan listrik. Simbol standar membantu teknisi dan pelajar memahami fungsi komponen tanpa harus melihat bentuk fisiknya. Garis biasanya mewakili hubungan penghantar, titik pertemuan menandakan sambungan, dan label membantu membedakan komponen.
 

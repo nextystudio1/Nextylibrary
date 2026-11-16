@@ -192,3 +192,34 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa harga terendah belum tentu pilihan terbaik? Biaya total, mutu, dukungan, dan risiko juga menentukan.
 4. Apa manfaat pengendalian konfigurasi? Menjaga tim bekerja dengan versi dokumen dan produk yang benar.
 5. Apa yang harus ada dalam serah terima? Hasil yang diterima, dokumentasi, isu tersisa, pemilik operasi, dan dukungan.
+
+BAB LANJUTAN: PERENCANAAN SUMBER DAYA DAN KAPASITAS TIM
+
+Perencanaan proyek perlu menilai kapasitas nyata, bukan hanya daftar tugas. Setiap pekerjaan memerlukan keterampilan, waktu, alat, dan ketersediaan orang. Satu anggota tim yang dibebani banyak tugas kritis dapat menjadi titik kemacetan meskipun jadwal total tampak cukup.
+
+Perataan sumber daya menyesuaikan jadwal agar kebutuhan tidak melebihi kapasitas. Perubahan ini dapat memperpanjang durasi atau mengubah urutan kegiatan. Prioritas perlu diberikan pada pekerjaan yang memengaruhi jalur kritis, keselamatan, mutu, dan komitmen eksternal.
+
+Perkiraan waktu sebaiknya menyatakan asumsi dan rentang ketidakpastian. Estimasi tunggal dapat menimbulkan kesan presisi palsu. Gunakan pengalaman proyek sebelumnya, penilaian ahli, dan pembaruan berkala ketika informasi baru tersedia.
+
+BAB LANJUTAN: PENGELOLAAN RISIKO DAN ISU
+
+Risiko adalah peristiwa atau kondisi yang belum tentu terjadi, sedangkan isu adalah masalah yang sudah terjadi dan memerlukan tindakan. Register risiko mencatat penyebab, peristiwa, dampak, kemungkinan, pemilik, respons, dan tanda peringatan. Skor numerik membantu prioritas, tetapi tidak menggantikan penilaian terhadap konsekuensi.
+
+Respons risiko dapat berupa menghindari, mengurangi, memindahkan sebagian, atau menerima risiko dengan rencana cadangan. Pilihan harus memperhatikan biaya, kewenangan, dan dampak pada pihak lain. Risiko yang berkaitan dengan keselamatan, privasi, atau kepatuhan perlu dieskalasi sesuai prosedur.
+
+Isu perlu memiliki penanggung jawab, tenggat, keputusan yang dibutuhkan, dan status penyelesaian. Menyembunyikan isu membuat tim kehilangan kesempatan memperbaiki rencana. Budaya pelaporan yang sehat membedakan keterbukaan tentang masalah dari tindakan lalai atau pelanggaran yang disengaja.
+
+BAB LANJUTAN: MANAJEMEN PERUBAHAN DAN ADOPSI HASIL
+
+Proyek dapat menghasilkan sistem atau prosedur baru, tetapi manfaat baru muncul jika pengguna dapat mengadopsinya. Manajemen perubahan mengidentifikasi kelompok terdampak, kebutuhan pelatihan, perubahan peran, dukungan, dan hambatan. Komunikasi perlu berlangsung sepanjang proyek, bukan hanya menjelang peluncuran.
+
+Pelatihan harus sesuai tugas nyata dan memberi kesempatan praktik. Dokumentasi perlu mudah ditemukan serta diperbarui. Dukungan pascapeluncuran membantu menangani pertanyaan, kesalahan, dan penyesuaian. Ukur adopsi melalui penggunaan yang bermakna, bukan hanya jumlah akun atau peserta pelatihan.
+
+Serah terima mencakup pemilik operasi, anggaran pemeliharaan, dokumentasi, akses, isu tersisa, dan prosedur eskalasi. Tim proyek perlu memastikan pihak penerima memahami tanggung jawab sebelum proyek ditutup.
+
+LATIHAN PENDALAMAN
+1. Mengapa daftar tugas belum cukup untuk menilai kapasitas tim?
+2. Apa perbedaan risiko dan isu?
+3. Sebutkan unsur register risiko.
+4. Mengapa adopsi pengguna perlu direncanakan sejak awal?
+5. Apa saja yang harus dipastikan dalam serah terima proyek?

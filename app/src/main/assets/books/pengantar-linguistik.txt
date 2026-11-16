@@ -6,14 +6,14 @@ DESKRIPSI
 Mengenal bunyi bahasa, kata, kalimat, makna, variasi, dan perubahan bahasa.
 
 PENDAHULUAN
-Buku Pengantar Linguistik membahas mengenal bunyi bahasa, kata, kalimat, makna, variasi, dan perubahan bahasa.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini memperkenalkan linguistik sebagai kajian ilmiah tentang bahasa. Pembahasan mencakup bunyi ujaran, struktur kata, susunan kalimat, makna, penggunaan bahasa dalam konteks, variasi sosial, serta perubahan bahasa.
 
 BAB 1. BUNYI BAHASA
 
 Fonetik mempelajari bagaimana bunyi ujaran dihasilkan, disalurkan, dan diterima. Fonologi mengkaji pola bunyi yang membedakan makna dalam suatu bahasa. Bunyi dapat dianalisis melalui tempat dan cara artikulasi serta getaran pita suara. Variasi pelafalan tidak otomatis menunjukkan kemampuan berbahasa yang lebih rendah.
 
 PENDALAMAN
-Pada BUNYI BAHASA, tentukan tujuan pesan, konteks, pihak yang terlibat, dan bukti yang digunakan. Pilih istilah yang tepat, periksa kemungkinan salah tafsir, dan jelaskan bagaimana penerapan konsep dapat dinilai.
+Pada BUNYI BAHASA, amati perbedaan antara bunyi yang secara fisik terdengar dan fungsi bunyi dalam membedakan makna. Gunakan contoh dari bahasa yang benar-benar dikuasai dan catat variasi penutur tanpa memberi penilaian merendahkan.
 
 AKTIVITAS PENGAMATAN
 Kumpulkan beberapa contoh penggunaan bahasa dari situasi berbeda, misalnya percakapan keluarga, pengumuman publik, dan tulisan berita. Catat pilihan kata, susunan kalimat, tujuan penutur, serta konteks sosial. Jangan menyimpulkan kemampuan seseorang hanya dari satu contoh tuturan.
@@ -62,15 +62,12 @@ TUGAS TERPADU
 Lakukan analisis kecil terhadap satu fenomena bahasa yang dapat diamati secara etis. Rumuskan pertanyaan, tentukan data yang diperlukan, catat konteks, dan pilih tingkat analisis yang sesuai. Sajikan contoh secara anonim bila melibatkan penutur, lalu jelaskan batas generalisasi dari data yang terbatas.
 
 EVALUASI AKHIR
-1. Jelaskan perbedaan fonologi, morfologi, sintaksis, dan semantik.
-2. Analisis proses pembentukan sebuah kata.
-3. Berikan contoh ambiguitas kalimat dan jelaskan sumbernya.
-4. Hubungkan variasi bahasa dengan konteks sosial.
-5. Susun rancangan sederhana untuk mengkaji perubahan penggunaan suatu istilah.
-2. Jelaskan hubungan antara tiga konsep berbeda.
-3. Analisis satu contoh dengan menggunakan bukti.
-4. Bandingkan dua pendekatan atau penjelasan.
-5. Buat kesimpulan dan nyatakan keterbatasannya.
+EVALUASI AKHIR
+1. Jelaskan perbedaan fonetik dan fonologi dengan satu contoh.
+2. Uraikan morfem dalam kata berimbuhan dan fungsi tiap bagiannya.
+3. Buat contoh kalimat ambigu, lalu jelaskan dua kemungkinan maknanya.
+4. Bedakan makna semantik dan maksud pragmatik dalam sebuah percakapan.
+5. Rancang pengamatan variasi bahasa yang menghormati privasi dan konteks penutur.
 
 PEDOMAN PENILAIAN
 Nilai ketepatan analisis kebahasaan, konsistensi penggunaan istilah, kecukupan contoh, dan pemahaman konteks. Kesimpulan harus sesuai dengan data dan tidak menggeneralisasi satu kelompok penutur secara berlebihan.

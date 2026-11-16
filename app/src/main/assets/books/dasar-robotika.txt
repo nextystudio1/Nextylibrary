@@ -19,11 +19,11 @@ CONTOH PENERAPAN
 Pilih situasi sederhana yang dapat diamati atau dibaca dari sumber tepercaya. Uraikan masalah, pihak yang terlibat, informasi yang tersedia, dan pilihan tindakan. Gunakan konsep bab untuk menjelaskan hubungan sebab dan akibat secara hati-hati. Sebutkan faktor lain yang mungkin berpengaruh agar analisis tidak terlalu menyederhanakan keadaan.
 
 KEGIATAN BELAJAR
-1. Tulis ringkasan konsep utama dengan bahasa sendiri.
-2. Buat peta konsep yang menunjukkan hubungan antaristilah.
-3. Bandingkan dua contoh yang memiliki kondisi berbeda.
-4. Periksa satu klaim menggunakan sumber yang dapat dipercaya.
-5. Susun pertanyaan baru yang dapat diteliti lebih lanjut.
+1. Jelaskan satu istilah kunci dari ROBOT SEBAGAI SISTEM dengan kalimat sendiri.
+2. Buat bagan yang menunjukkan hubungan antarkonsep.
+3. Terapkan konsep pada satu contoh yang relevan dengan Dasar Robotika.
+4. Tunjukkan asumsi atau kondisi yang dapat mengubah hasil.
+5. Sajikan kesimpulan beserta bukti pendukungnya.
 
 LATIHAN PEMAHAMAN
 1. Jelaskan istilah penting dalam bab ini.
@@ -52,15 +52,15 @@ BAB 6. ETIKA DAN KESELAMATAN
 
 Robot dapat bekerja dekat manusia sehingga desain perlu memperhatikan gerakan tak terduga, titik jepit, energi tersimpan, dan kegagalan sensor. Pengujian dilakukan bertahap dengan pengawasan dan area aman. Sistem harus memiliki cara berhenti yang dapat diandalkan. Pertimbangkan privasi jika robot mengumpulkan gambar, suara, atau data lokasi.
 
-PROYEK AKHIR
-Pilih persoalan yang menghubungkan setidaknya tiga bab. Rumuskan pertanyaan, tujuan, ruang lingkup, metode pengumpulan informasi, dan bentuk hasil. Gunakan sumber yang dapat diverifikasi. Sajikan temuan, pisahkan data dari interpretasi, jelaskan keterbatasan, dan berikan rekomendasi yang realistis. Cantumkan sumber yang digunakan.
+PROYEK TERPADU
+Buat kajian mini untuk Dasar Robotika dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Ringkas lima gagasan utama buku.
-2. Jelaskan hubungan antara beberapa konsep dengan contoh.
-3. Analisis satu kasus menggunakan bukti.
-4. Bandingkan dua pilihan dan konsekuensinya.
-5. Jelaskan informasi tambahan yang diperlukan sebelum mengambil kesimpulan.
+1. Terangkan konsep inti dari ETIKA DAN KESELAMATAN dan perannya dalam bidang ini.
+2. Hubungkan tiga gagasan dari bab yang berbeda.
+3. Analisis sebuah kasus menggunakan konsep buku Dasar Robotika.
+4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
+5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 GLOSARIUM
 Konsep: Gagasan utama untuk memahami suatu topik.
@@ -70,7 +70,7 @@ Model: Penyederhanaan untuk menjelaskan sistem atau proses.
 Evaluasi: Penilaian berdasarkan kriteria dan informasi.
 
 CATATAN SUMBER
-Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, dan sumber lembaga yang kompeten. Periksa tahun terbit, metode, dan izin penggunaan sebelum mengutip atau menggunakan kembali materi.
+Naskah Dasar Robotika merupakan materi pembelajaran orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, atau sumber lembaga yang sesuai dengan bidang ini. Catat penulis, judul, tahun, dan bagian yang digunakan; periksa relevansi serta tanggal pembaruan sumber.
 
 BAB LANJUTAN: MERANCANG PROYEK ROBOTIKA SECARA SISTEMATIS
 

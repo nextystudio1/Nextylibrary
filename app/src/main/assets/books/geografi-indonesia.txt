@@ -220,3 +220,10 @@ TRANSPORTASI DAN KETIMPANGAN WILAYAH
 Jaringan transportasi memengaruhi akses ke pasar, sekolah, layanan kesehatan, dan pekerjaan. Wilayah yang jauh dari pusat layanan dapat menghadapi biaya perjalanan lebih tinggi. Penilaian konektivitas perlu melihat keterjangkauan, bukan hanya panjang jalan atau jumlah pelabuhan.
 PETA DAN PROYEKSI
 Proyeksi peta mengubah permukaan bumi yang melengkung menjadi bidang datar, sehingga selalu ada bentuk distorsi tertentu. Pilih proyeksi sesuai tujuan: luas, arah, jarak, atau bentuk. Peta tematik harus menyebut sumber dan metode klasifikasi.
+BAB PENGAYAAN — KOTA, DESA, DAN PERUBAHAN IKLIM
+PULAU PANAS PERKOTAAN
+Permukaan bangunan dan jalan dapat menyerap serta menyimpan panas. Kurangnya vegetasi dan perubahan aliran udara dapat meningkatkan suhu lokal. Pohon peneduh, ruang hijau, bahan permukaan yang sesuai, dan perencanaan bangunan dapat membantu mengurangi dampak panas.
+KETAHANAN PANGAN WILAYAH
+Produksi pangan dipengaruhi tanah, air, iklim, teknologi, akses pasar, dan tenaga kerja. Ketahanan pangan juga bergantung pada distribusi dan kemampuan rumah tangga memperoleh pangan. Wilayah yang menghasilkan banyak komoditas belum tentu seluruh penduduknya memiliki akses pangan yang baik.
+ADAPTASI WILAYAH
+Adaptasi terhadap perubahan iklim dapat mencakup perbaikan drainase, perlindungan pesisir, pengelolaan air, dan sistem peringatan. Pilihan harus didasarkan pada risiko lokal dan melibatkan warga yang terdampak. Infrastruktur perlu dirawat agar manfaatnya bertahan.

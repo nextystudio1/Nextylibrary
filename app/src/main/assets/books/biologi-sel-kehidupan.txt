@@ -216,3 +216,12 @@ SISTEM PENCERNAAN
 Pencernaan mekanis memecah makanan secara fisik, sedangkan pencernaan kimiawi menggunakan enzim. Zat hasil pencernaan diserap melalui permukaan usus. Serat, air, dan variasi bahan pangan turut memengaruhi fungsi sistem pencernaan, sementara kebutuhan nutrisi berbeda menurut usia dan aktivitas.
 KESEHATAN EKOSISTEM DAN MANUSIA
 Kesehatan manusia berkaitan dengan kualitas udara, air, pangan, dan lingkungan tempat tinggal. Pendekatan kesehatan lingkungan mempelajari hubungan tersebut tanpa menyederhanakan penyakit menjadi satu penyebab. Pencegahan memerlukan data, sanitasi, edukasi, dan kebijakan yang sesuai.
+BAB PENGAYAAN — GENETIKA, EVOLUSI, DAN LINGKUNGAN
+VARIASI GENETIK
+Variasi genetik muncul melalui mutasi dan pengacakan materi genetik dalam reproduksi. Variasi menjadi bahan bagi perubahan evolusioner. Tidak semua mutasi berdampak sama; sebagian netral, sebagian merugikan, dan sebagian dapat menguntungkan dalam lingkungan tertentu.
+SELEKSI ALAM
+Seleksi alam terjadi ketika variasi yang diwariskan berhubungan dengan perbedaan keberhasilan reproduksi. Individu tidak berevolusi karena membutuhkan sifat tertentu; perubahan terjadi pada populasi lintas generasi. Lingkungan yang berubah dapat mengubah sifat yang memberi keuntungan.
+ADAPTASI DAN BATASNYA
+Adaptasi merupakan sifat yang meningkatkan keberhasilan hidup atau reproduksi dalam konteks tertentu. Sifat yang menguntungkan pada satu lingkungan belum tentu menguntungkan pada lingkungan lain. Adaptasi juga memiliki batas karena sejarah evolusi dan kompromi biologis.
+KEANEKARAGAMAN MIKROORGANISME
+Mikroorganisme hidup di tanah, air, tubuh organisme, dan lingkungan ekstrem. Sebagian membantu daur materi dan pencernaan, sementara sebagian dapat menyebabkan penyakit. Penggunaan antibiotik yang tidak tepat dapat mendorong seleksi mikroorganisme resisten.

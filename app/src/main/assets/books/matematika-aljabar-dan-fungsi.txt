@@ -252,3 +252,10 @@ CONTOH PENYANGKAL
 Untuk menunjukkan pernyataan universal salah, satu contoh penyangkal sudah cukup. Jika seseorang menyatakan semua bilangan prima ganjil, bilangan 2 menjadi contoh penyangkal. Namun satu contoh yang cocok tidak cukup membuktikan pernyataan universal benar.
 ESTIMASI DAN PEMERIKSAAN
 Sebelum menghitung, perkirakan rentang hasil. Setelah menghitung, bandingkan dengan perkiraan. Jika luas ruangan diperkirakan hanya beberapa meter persegi tetapi hasil perhitungan ratusan meter persegi, periksa satuan dan operasi.
+BAB PENGAYAAN — STATISTIKA DASAR UNTUK MEMBACA MODEL
+RATA-RATA DAN SEBARAN
+Rata-rata memberi gambaran pusat data, tetapi tidak menjelaskan seberapa tersebar nilainya. Dua kelompok dapat memiliki rata-rata sama namun variasi berbeda. Rentang, kuartil, dan simpangan baku membantu menggambarkan sebaran.
+HUBUNGAN ANTARVARIABEL
+Diagram pencar memperlihatkan pola hubungan dua variabel. Arah positif berarti nilai cenderung meningkat bersama; arah negatif berarti satu cenderung turun ketika yang lain naik. Pola tidak selalu linear dan titik pencilan dapat memengaruhi ringkasan statistik.
+MODEL DAN KETIDAKPASTIAN
+Model matematika merupakan penyederhanaan. Parameter yang diestimasi dari data memiliki ketidakpastian. Hasil prediksi sebaiknya disajikan sebagai perkiraan dengan batasan, bukan angka pasti tanpa konteks.

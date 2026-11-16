@@ -169,3 +169,26 @@ Daur ulang: pengolahan bahan bekas menjadi bahan atau produk baru.
 Eksternalitas: dampak kegiatan ekonomi pada pihak lain di luar transaksi.
 Mitigasi: upaya mengurangi penyebab perubahan iklim.
 Barang publik: barang dengan sifat non-eksklusif dan non-rival dalam konteks tertentu.
+
+BAB LANJUTAN: KEBIJAKAN LINGKUNGAN DAN ANALISIS BIAYA-MANFAAT
+
+1. Eksternalitas
+Eksternalitas terjadi ketika kegiatan ekonomi menimbulkan dampak bagi pihak yang tidak sepenuhnya terlibat dalam transaksi. Pencemaran udara dapat membebankan biaya kesehatan kepada masyarakat, sementara ruang hijau dapat memberi manfaat bagi warga sekitar. Harga pasar tidak selalu mencerminkan seluruh biaya dan manfaat sosial.
+
+2. Barang publik dan sumber daya bersama
+Barang publik secara teori sulit mengecualikan pengguna dan pemanfaatannya oleh satu orang tidak selalu mengurangi kesempatan orang lain. Sumber daya bersama, seperti perikanan tertentu, dapat mengalami tekanan ketika akses dan aturan pemanfaatannya tidak dikelola. Kategori ini membantu menjelaskan mengapa koordinasi dan tata kelola diperlukan.
+
+3. Instrumen kebijakan
+Pemerintah dapat menggunakan standar, izin, pajak atau pungutan, insentif, sistem perdagangan kuota, informasi publik, dan perlindungan kawasan. Tidak ada satu instrumen yang cocok untuk semua masalah. Pilihan dipengaruhi kemampuan pengawasan, distribusi biaya, kepastian hukum, dan karakter pencemaran.
+
+4. Analisis biaya-manfaat
+Analisis membandingkan biaya dan manfaat suatu kebijakan dalam periode tertentu. Hasilnya sensitif terhadap asumsi, tingkat diskonto, nilai dampak yang sulit dihitung, dan siapa yang menerima manfaat atau menanggung biaya. Angka agregat dapat menyembunyikan ketimpangan distribusi.
+
+5. Nilai ekosistem
+Ekosistem memberi jasa penyediaan, pengaturan, budaya, dan pendukung proses ekologis. Penilaian ekonomi dapat membantu keputusan, tetapi tidak semua nilai alam dapat direduksi menjadi harga. Nilai intrinsik, hak masyarakat, dan batas ekologis tetap perlu dipertimbangkan.
+
+6. Evaluasi kebijakan
+Tetapkan kondisi awal, indikator, kelompok pembanding bila memungkinkan, jadwal pemantauan, dan mekanisme koreksi. Evaluasi yang baik membedakan keluaran kegiatan dari perubahan kondisi lingkungan. Penanaman pohon, misalnya, merupakan kegiatan; keberhasilan ekologis perlu dilihat dari kelangsungan hidup, fungsi habitat, dan manfaat jangka panjang.
+
+LATIHAN
+Bandingkan dua pilihan pengelolaan sampah di suatu lingkungan. Identifikasi biaya langsung, dampak lingkungan, kelompok terdampak, kebutuhan pengawasan, dan data yang masih belum tersedia. Jelaskan ketidakpastian analisis.

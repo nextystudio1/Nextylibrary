@@ -162,3 +162,25 @@ Kondensasi: perubahan uap menjadi cair.
 Tekanan udara: gaya per satuan luas akibat udara.
 Cuaca: keadaan atmosfer dalam waktu dan tempat tertentu.
 Iklim: pola statistik cuaca dalam periode panjang.
+
+BAB 11. TEKANAN UDARA DAN SIRKULASI
+Tekanan udara adalah gaya per satuan luas yang ditimbulkan oleh berat kolom udara. Tekanan umumnya berkurang ketika ketinggian bertambah. Perbedaan tekanan membantu menggerakkan udara dari wilayah bertekanan relatif tinggi menuju wilayah bertekanan relatif rendah, meskipun arah dan kecepatannya juga dipengaruhi rotasi bumi serta gesekan. Pola sirkulasi terbentuk dari pemanasan permukaan yang tidak merata, distribusi daratan dan lautan, serta perubahan musim.
+
+BAB 12. KELEMBAPAN DAN PEMBENTUKAN AWAN
+Udara mengandung uap air dalam jumlah yang berubah-ubah. Kelembapan relatif membandingkan kandungan uap air aktual dengan jumlah maksimum yang dapat ditampung pada suhu tertentu. Ketika udara mendingin hingga mendekati titik embun, uap air dapat mengembun pada partikel kecil dan membentuk awan. Awan tidak selalu menghasilkan hujan; pertumbuhan tetes atau kristal es perlu mencapai ukuran dan kondisi tertentu.
+
+BAB 13. STABILITAS ATMOSFER DAN CUACA
+Stabilitas atmosfer menggambarkan kecenderungan udara yang bergerak vertikal untuk kembali atau terus bergerak menjauh dari posisi awal. Pemanasan permukaan dapat mendorong udara naik, sementara lapisan udara yang stabil dapat membatasi gerak vertikal. Kondisi ini memengaruhi pembentukan awan dan hujan. Pengamatan cuaca menggabungkan suhu, tekanan, kelembapan, angin, tutupan awan, dan data radar atau satelit. Tidak satu indikator pun cukup untuk menggambarkan seluruh keadaan atmosfer.
+
+BAB 14. IKLIM, VARIABILITAS, DAN PERUBAHAN
+Cuaca menggambarkan keadaan atmosfer dalam waktu relatif singkat, sedangkan iklim merangkum pola statistik dalam periode panjang. Variabilitas alami menyebabkan kondisi berubah dari tahun ke tahun. Perubahan iklim mengacu pada perubahan pola jangka panjang yang dapat dipengaruhi faktor alami dan aktivitas manusia. Analisis perlu menggunakan rangkaian data panjang, memperhatikan kualitas pengamatan, serta membedakan tren dari fluktuasi sementara.
+
+BAB 15. MEMBACA PRAKIRAAN DAN INFORMASI CUACA
+Prakiraan cuaca adalah estimasi berdasarkan pengamatan dan model. Ketidakpastian meningkat untuk rincian lokasi dan waktu tertentu, sehingga prakiraan perlu diperbarui ketika data baru tersedia. Peluang hujan bukan berarti hujan pasti turun di setiap titik wilayah. Gunakan informasi dari lembaga meteorologi resmi dan perhatikan peringatan cuaca ekstrem. Dalam kondisi berisiko, ikuti arahan otoritas setempat.
+
+LATIHAN TERAPAN
+1. Bedakan tekanan udara dan kelembapan relatif.
+2. Jelaskan mengapa awan tidak selalu menghasilkan hujan.
+3. Sebutkan unsur yang perlu diamati untuk memahami cuaca.
+4. Mengapa iklim tidak dapat disimpulkan dari cuaca satu hari?
+5. Jelaskan cara membaca peluang hujan secara hati-hati.

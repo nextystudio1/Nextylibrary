@@ -171,3 +171,36 @@ Evaluasi: Penilaian berdasarkan kriteria dan bukti.
 
 CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.
+PENDALAMAN MATERI DAN PENERAPAN
+
+BAB 6. PERPINDAHAN PANAS PADA BANGUNAN
+Panas berpindah melalui konduksi, konveksi, dan radiasi. Konduksi berlangsung melalui bahan, misalnya panas merambat melalui dinding. Konveksi terjadi melalui gerak fluida seperti udara, sedangkan radiasi memindahkan energi melalui gelombang elektromagnetik. Ketiganya dapat terjadi bersamaan pada bangunan. Atap yang menerima matahari dapat memanaskan ruang di bawahnya; ventilasi dan lapisan insulasi memengaruhi seberapa cepat panas berpindah. Pemilihan bahan perlu mempertimbangkan iklim, orientasi bangunan, kelembapan, biaya, dan perawatan. Satu bahan tidak otomatis cocok untuk semua wilayah.
+
+BAB 7. VENTILASI DAN KUALITAS UDARA DALAM RUANG
+Ventilasi menyediakan pertukaran udara untuk membantu mengendalikan panas, kelembapan, dan polutan dalam ruang. Ventilasi alami memanfaatkan perbedaan tekanan dan suhu, sedangkan ventilasi mekanis menggunakan kipas atau sistem pengondisian udara. Bukaan yang besar belum tentu efektif jika arah angin, tata ruang, dan hambatan tidak mendukung aliran. Kualitas udara dalam ruang juga dipengaruhi sumber polutan, jumlah penghuni, aktivitas memasak, bahan bangunan, dan kebersihan sistem. Pengelolaan harus mempertimbangkan kualitas udara luar serta kebutuhan pengguna yang berbeda.
+
+BAB 8. PENCAHAYAAN ALAMI DAN BUATAN
+Pencahayaan yang baik mendukung penglihatan, pembelajaran, dan kenyamanan. Cahaya alami dapat mengurangi kebutuhan lampu pada siang hari, tetapi perlu dikendalikan agar tidak menimbulkan silau dan panas berlebih. Pencahayaan buatan dipilih berdasarkan fungsi ruang, tingkat terang, distribusi cahaya, warna cahaya, dan efisiensi. Angka iluminansi diukur dalam lux, sedangkan daya lampu diukur dalam watt; keduanya bukan besaran yang sama. Desain perlu menghindari kontras ekstrem dan memastikan tugas visual dapat dilakukan dengan nyaman. Penggunaan sensor atau pengaturan zona dapat mengurangi energi jika dirancang sesuai pola pemakaian.
+
+BAB 9. SELUBUNG BANGUNAN DAN STRATEGI PASIF
+Selubung bangunan mencakup atap, dinding, jendela, dan elemen yang memisahkan ruang dalam dari lingkungan luar. Strategi pasif memanfaatkan orientasi, peneduh, ventilasi, massa termal, dan vegetasi untuk mengurangi kebutuhan energi aktif. Peneduh luar dapat mengurangi radiasi matahari sebelum mencapai kaca. Pohon dapat memberi keteduhan, tetapi penempatannya perlu mempertimbangkan akar, keamanan, dan kebutuhan cahaya. Strategi pasif sebaiknya disesuaikan dengan iklim lokal; rancangan untuk wilayah panas lembap berbeda dari wilayah sejuk atau kering. Simulasi dan pengukuran setelah bangunan digunakan membantu memeriksa kinerja sebenarnya.
+
+BAB 10. AUDIT DAN EVALUASI KINERJA ENERGI
+Audit energi mengumpulkan informasi tentang konsumsi, jadwal penggunaan, kondisi peralatan, dan karakter bangunan. Data tagihan dapat menunjukkan pola bulanan, tetapi tidak menjelaskan sendiri penyebab perubahan. Pengukuran terpilih, inspeksi, dan wawancara pengguna membantu melengkapi gambaran. Indikator seperti energi per luas lantai dapat membantu perbandingan, tetapi perlu memperhitungkan fungsi, jam operasi, iklim, dan jumlah penghuni. Rekomendasi harus membedakan tindakan tanpa biaya besar, perawatan, dan investasi. Setelah perbaikan, ukur kembali agar penghematan tidak hanya diasumsikan.
+
+STUDI KASUS
+Ruang kelas terasa panas pada siang hari meskipun lampu sudah dimatikan. Pemeriksaan menunjukkan jendela menerima sinar matahari langsung dan ventilasi silang terhalang lemari. Solusi dapat berupa peneduh luar, penataan ulang ruang, dan pemeriksaan aliran udara. Menambah pendingin tanpa memahami penyebab dapat meningkatkan konsumsi energi.
+
+LATIHAN DAN PEMBAHASAN
+1. Bedakan konduksi, konveksi, dan radiasi dengan satu contoh bangunan.
+2. Mengapa ventilasi perlu mempertimbangkan kualitas udara luar? Karena udara luar dapat membawa polutan atau debu.
+3. Apa perbedaan lux dan watt? Lux mengukur iluminansi, watt mengukur daya.
+4. Sebutkan tiga strategi pasif: peneduh, orientasi, ventilasi alami, massa termal, dan vegetasi.
+5. Mengapa audit perlu dilakukan ulang setelah perbaikan? Untuk memverifikasi hasil dan menemukan perubahan penggunaan.
+
+GLOSARIUM
+Iluminansi: banyaknya fluks cahaya yang jatuh pada permukaan per satuan luas.
+Insulasi: bahan atau lapisan yang mengurangi perpindahan panas.
+Konduksi: perpindahan panas melalui bahan.
+Selubung bangunan: elemen pembatas ruang dalam dan lingkungan luar.
+Ventilasi silang: aliran udara melalui bukaan pada sisi berbeda.

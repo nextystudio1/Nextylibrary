@@ -171,3 +171,61 @@ Evaluasi: Penilaian berdasarkan kriteria dan bukti.
 
 CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.
+BAB 9. OPERASIONALISASI KONSEP DAN VARIABEL
+
+Konsep penelitian sering bersifat abstrak, seperti motivasi belajar, kepercayaan, kepuasan, atau kualitas layanan. Agar dapat diteliti, konsep perlu diterjemahkan menjadi definisi operasional. Definisi operasional menjelaskan bagaimana konsep dikenali atau diukur dalam penelitian tertentu. Definisi ini bukan satu-satunya makna konsep, melainkan keputusan metodologis yang harus dijelaskan.
+
+Variabel adalah karakteristik yang nilainya dapat berbeda antarorang, tempat, waktu, atau unit analisis. Variabel dapat berupa kategori, urutan, hitungan, atau ukuran numerik. Peneliti perlu menyebut unit analisis: apakah yang diamati individu, keluarga, sekolah, organisasi, dokumen, atau wilayah. Kesalahan menentukan unit analisis dapat menyebabkan kesimpulan yang tidak sesuai.
+
+Indikator yang baik relevan dengan konsep, dapat diamati, dan memiliki aturan pencatatan yang konsisten. Satu konsep kadang memerlukan beberapa indikator. Sebagai contoh, akses pendidikan dapat mencakup jarak, biaya, ketersediaan transportasi, fasilitas, dan kesesuaian jadwal. Menggunakan satu indikator saja dapat menyederhanakan persoalan secara berlebihan.
+
+CONTOH OPERASIONALISASI
+Konsep: keterjangkauan perpustakaan. Dimensi: jarak, biaya perjalanan, jam buka, dan aksesibilitas fisik. Indikator: waktu tempuh, ongkos pulang-pergi, jumlah jam layanan per minggu, serta ketersediaan jalur yang dapat digunakan pengunjung dengan kebutuhan mobilitas berbeda. Jelaskan cara pengukuran dan sumber datanya.
+
+BAB 10. SAMPEL DAN PEMILIHAN RESPONDEN
+
+Populasi adalah keseluruhan unit yang menjadi sasaran kesimpulan penelitian. Sampel adalah bagian dari populasi yang benar-benar diamati. Kerangka sampel berisi daftar atau prosedur untuk menjangkau unit yang memenuhi kriteria. Jika sebagian anggota populasi tidak tercakup, muncul risiko kesalahan cakupan.
+
+Sampling probabilitas memberi peluang terpilih yang diketahui melalui proses acak. Contohnya sampling acak sederhana, sistematis, berstrata, dan klaster. Sampling berstrata berguna ketika kelompok penting perlu terwakili. Sampling klaster dapat menghemat biaya ketika populasi tersebar, tetapi desainnya perlu diperhitungkan dalam analisis.
+
+Sampling nonprobabilitas, seperti purposif, kuota, dan bola salju, dapat sesuai untuk eksplorasi atau populasi yang sulit dijangkau. Namun, hasilnya tidak otomatis mewakili populasi secara statistik. Peneliti harus menyatakan dasar pemilihan peserta, keterbatasan jangkauan, dan alasan metode tersebut cocok dengan pertanyaan penelitian.
+
+Ukuran sampel tidak ditentukan oleh satu angka ajaib. Pertimbangannya meliputi variasi populasi, desain, ketelitian yang diinginkan, ukuran efek yang relevan, jumlah kelompok, tingkat nonrespons, dan sumber daya. Untuk penelitian kualitatif, kecukupan data dinilai dari kedalaman informasi dan tujuan analisis, bukan semata-mata rumus survei.
+
+BAB 11. WAWANCARA, OBSERVASI, DAN DOKUMENTASI
+
+Wawancara terstruktur menggunakan pertanyaan dan urutan yang relatif sama, sedangkan wawancara semi-terstruktur menyediakan panduan dengan ruang untuk pertanyaan lanjutan. Pertanyaan sebaiknya netral, jelas, dan tidak menggiring. Pertanyaan ganda dapat membingungkan karena meminta jawaban untuk dua hal sekaligus.
+
+Observasi memerlukan fokus, prosedur pencatatan, dan perhatian terhadap pengaruh kehadiran pengamat. Catatan lapangan dapat memisahkan deskripsi kejadian dari interpretasi peneliti. Pemisahan ini membantu mencegah dugaan pribadi tercatat seolah-olah fakta.
+
+Dokumen dapat berupa laporan, arsip, foto, notulen, kebijakan, atau materi digital. Keaslian, tujuan pembuatan, pembuat, tanggal, dan konteks dokumen perlu diperiksa. Dokumen resmi pun dapat memiliki sudut pandang dan keterbatasan tertentu.
+
+PRAKTIK WAWANCARA
+Susun lima pertanyaan terbuka tentang pengalaman menggunakan fasilitas umum. Uji apakah setiap pertanyaan hanya menanyakan satu hal. Tambahkan pertanyaan tindak lanjut seperti “Dapatkah Anda memberi contoh?” tanpa menekan responden untuk menjawab sesuai harapan peneliti.
+
+BAB 12. ANALISIS DATA KUANTITATIF DASAR
+
+Analisis dimulai dengan memeriksa kelengkapan, konsistensi, rentang nilai, dan kemungkinan duplikasi. Data hilang perlu dicatat dan ditangani sesuai alasan serta pola kemunculannya. Menghapus seluruh baris yang memiliki nilai kosong tanpa pemeriksaan dapat mengubah komposisi sampel.
+
+Statistik deskriptif merangkum data. Rata-rata sensitif terhadap nilai ekstrem, sedangkan median lebih tahan terhadap pencilan. Rentang dan simpangan baku menggambarkan variasi dengan cara berbeda. Grafik membantu menemukan pola, tetapi skala sumbu, ukuran sampel, dan pilihan kategori dapat memengaruhi kesan pembaca.
+
+Korelasi menggambarkan hubungan antarvariabel, bukan bukti bahwa satu variabel menyebabkan variabel lain. Hubungan dapat dipengaruhi variabel ketiga, arah sebab-akibat yang terbalik, atau kebetulan. Interpretasi harus mempertimbangkan desain penelitian, urutan waktu, mekanisme yang masuk akal, dan bukti lain.
+
+CONTOH PERHITUNGAN
+Lima waktu tempuh dalam menit adalah 10, 12, 12, 15, dan 31. Rata-ratanya 16 menit, sedangkan mediannya 12 menit. Nilai 31 membuat rata-rata lebih tinggi. Kedua ukuran benar secara matematis, tetapi menjawab pertanyaan ringkasan yang berbeda.
+
+BAB 13. ANALISIS KUALITATIF DAN KREDIBILITAS
+
+Analisis kualitatif dapat dimulai dengan membaca data berulang, memberi kode, mengelompokkan kode, membangun tema, dan meninjau kembali tema terhadap data asli. Kode sebaiknya memiliki definisi agar penerapannya konsisten. Tema bukan sekadar judul topik; tema menyampaikan pola makna yang menjawab pertanyaan penelitian.
+
+Kredibilitas dapat diperkuat melalui perbandingan sumber, pencatatan keputusan analisis, diskusi dengan peneliti lain, dan pemeriksaan apakah interpretasi didukung kutipan atau catatan lapangan. Triangulasi tidak berarti semua sumber harus sepakat. Perbedaan antar-sumber dapat menjadi temuan yang perlu dijelaskan.
+
+Peneliti juga perlu merefleksikan posisi dan asumsi dirinya. Latar belakang, hubungan dengan peserta, serta pilihan pertanyaan dapat memengaruhi data. Refleksivitas bukan pengakuan bahwa penelitian tidak berguna, melainkan upaya membuat proses interpretasi lebih transparan.
+
+RANGKUMAN DAN LATIHAN AKHIR
+1. Buat definisi operasional untuk konsep “kemudahan layanan”.
+2. Pilih metode sampling yang sesuai untuk survei siswa dari beberapa sekolah dan jelaskan alasannya.
+3. Perbaiki pertanyaan wawancara yang menggiring menjadi pertanyaan netral.
+4. Jelaskan perbedaan rata-rata dan median menggunakan contoh data.
+5. Mengapa korelasi tidak cukup untuk menyimpulkan sebab-akibat?
+6. Buat contoh sistem kode sederhana untuk menganalisis tanggapan terbuka.

@@ -126,3 +126,57 @@ LATIHAN TERAPAN
 3. Jelaskan peran ion dalam daya hantar listrik larutan.
 4. Mengapa indikator harus dipilih sesuai rentang perubahan pH?
 5. Sebutkan dua faktor selain pH yang dapat memengaruhi kualitas air.
+
+BAB 12. KESETIMBANGAN KIMIA DAN PRINSIP LE CHATELIER
+
+Kesetimbangan kimia terjadi ketika laju reaksi maju dan balik sama sehingga komposisi makroskopis tidak berubah terhadap waktu. Kesetimbangan bersifat dinamis, bukan berarti reaksi berhenti. Tetapan kesetimbangan menyatakan hubungan konsentrasi atau tekanan parsial pada keadaan setimbang sesuai persamaan reaksi.
+
+Perubahan konsentrasi, tekanan, atau suhu dapat menggeser posisi kesetimbangan. Prinsip Le Chatelier membantu memperkirakan arah respons sistem, tetapi tidak menentukan seberapa cepat sistem mencapai keadaan baru. Katalis mempercepat tercapainya kesetimbangan tanpa mengubah nilai tetapan kesetimbangan pada suhu yang sama.
+
+BAB 13. ASAM-BASA DAN SISTEM PENYANGGA
+
+Asam dan basa dapat dijelaskan melalui beberapa teori. Dalam konsep Brønsted-Lowry, asam mendonorkan proton dan basa menerima proton. Kekuatan asam berkaitan dengan kecenderungan melepaskan proton dalam pelarut tertentu. Nilai pH merupakan ukuran logaritmik aktivitas ion hidrogen dalam pendekatan yang sesuai.
+
+Larutan penyangga mengurangi perubahan pH ketika sejumlah kecil asam atau basa ditambahkan. Sistem penyangga terdiri dari pasangan asam lemah dan basa konjugat atau sebaliknya. Kapasitas penyangga terbatas; penambahan berlebihan dapat mengubah pH secara signifikan. Sistem biologis dan lingkungan menggunakan penyangga untuk menjaga kondisi kimia.
+
+BAB 14. TITRASI DAN ANALISIS KUANTITATIF
+
+Titrasi mengukur konsentrasi larutan melalui reaksi dengan larutan standar. Titik ekuivalen terjadi ketika jumlah zat bereaksi sesuai perbandingan stoikiometri, sedangkan titik akhir ditentukan melalui perubahan indikator atau sinyal instrumen. Keduanya berdekatan jika metode dan indikator dipilih dengan tepat, tetapi tidak selalu identik.
+
+Pemilihan indikator bergantung pada rentang perubahan warna dan bentuk kurva titrasi. Ketelitian dipengaruhi pembacaan volume, konsentrasi standar, kebersihan alat, dan pengulangan. Perhitungan harus menjaga satuan serta rasio koefisien reaksi. Praktikum hanya dilakukan dalam laboratorium pendidikan dengan bahan, prosedur, dan pengawasan yang disetujui.
+
+BAB 15. KELARUTAN DAN HASIL KALI KELARUTAN
+
+Kelarutan menyatakan jumlah zat yang dapat larut dalam kondisi tertentu. Untuk garam yang sedikit larut, hasil kali kelarutan menghubungkan konsentrasi ion pada kesetimbangan. Pengaruh ion senama dapat menurunkan kelarutan, sedangkan pembentukan kompleks atau perubahan pH dapat mengubahnya.
+
+Kelarutan dipengaruhi suhu, jenis pelarut, struktur zat, dan komposisi larutan. Istilah “larut” tidak berarti zat menghilang; partikel tersebar pada tingkat molekuler atau ionik. Pengendapan terjadi ketika kondisi larutan melampaui batas kesetimbangan yang sesuai. Analisis harus mempertimbangkan spesiasi dan kondisi sistem.
+
+BAB 16. ELEKTROKIMIA DAN REDOKS
+
+Reaksi oksidasi-reduksi melibatkan perpindahan elektron. Oksidasi adalah pelepasan elektron, sedangkan reduksi adalah penerimaan elektron. Sel elektrokimia mengubah energi kimia menjadi energi listrik atau menggunakan energi listrik untuk mendorong reaksi. Potensial elektroda membantu memperkirakan kecenderungan reaksi dalam kondisi standar.
+
+Korosi merupakan proses elektrokimia yang dapat merusak material. Faktor lingkungan seperti kelembapan, elektrolit, suhu, dan kontak antarlogam memengaruhi lajunya. Pencegahan dapat melibatkan pemilihan material, pelapisan, desain, dan pemeliharaan. Penanganan bahan serta perangkat listrik harus mengikuti prosedur keselamatan profesional.
+
+BAB 17. KINETIKA REAKSI DAN FAKTOR LAJU
+
+Kinetika mempelajari laju reaksi dan faktor yang memengaruhinya. Konsentrasi, suhu, luas permukaan, katalis, dan sifat pereaksi dapat mengubah laju. Hukum laju ditentukan secara eksperimen dan tidak selalu sama dengan koefisien persamaan reaksi. Mekanisme reaksi memberi model tentang tahapan yang terjadi.
+
+Energi aktivasi merupakan penghalang energi yang harus diatasi agar reaksi berlangsung. Katalis menyediakan jalur alternatif dengan penghalang lebih rendah, tetapi tidak mengubah posisi kesetimbangan. Grafik konsentrasi terhadap waktu dapat membantu menentukan orde reaksi dalam model tertentu. Data perlu diulang dan ketidakpastian dicatat.
+
+BAB 18. KIMIA LINGKUNGAN DAN MUTU AIR
+
+pH, alkalinitas, kesadahan, oksigen terlarut, dan kandungan ion merupakan sebagian parameter kimia yang digunakan untuk menilai air. Setiap parameter memberi informasi berbeda. pH yang sesuai tidak otomatis menunjukkan air aman, karena kontaminan biologis dan kimia lain tetap perlu diperiksa.
+
+Interpretasi hasil membutuhkan metode sampling, satuan, batas deteksi, waktu pengambilan, dan standar pembanding. Sampel yang tidak disimpan atau dianalisis dengan benar dapat berubah. Pengujian air minum harus mengikuti prosedur laboratorium dan standar resmi, bukan kesimpulan dari satu alat sederhana.
+
+STUDI KASUS: MENAFSIRKAN DATA pH DAN KESADAHAN
+
+Sebuah laporan mencatat pH dan kesadahan dari beberapa titik air. Bandingkan nilai dengan standar yang sesuai, periksa tanggal dan metode, serta catat parameter yang belum tersedia. Jelaskan apa yang dapat dan tidak dapat disimpulkan. Jangan menyatakan air layak konsumsi tanpa pemeriksaan menyeluruh.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa kesetimbangan disebut dinamis? Karena reaksi maju dan balik tetap berlangsung dengan laju sama.
+2. Apa peran katalis dalam kesetimbangan? Mempercepat tercapainya kesetimbangan tanpa mengubah tetapan pada suhu sama.
+3. Apa beda titik ekuivalen dan titik akhir titrasi? Titik ekuivalen ditentukan stoikiometri; titik akhir oleh sinyal indikator atau alat.
+4. Apa pengaruh ion senama terhadap kelarutan? Umumnya menurunkan kelarutan garam yang relevan.
+5. Mengapa satu nilai pH tidak cukup menilai mutu air? Karena parameter kimia, fisik, dan biologis lain juga diperlukan.

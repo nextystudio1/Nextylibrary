@@ -129,3 +129,37 @@ Teks alternatif: Deskripsi teks untuk membantu memahami gambar.
 
 DAFTAR PUSTAKA DAN SARAN BELAJAR
 Naskah ini merupakan bahan pembelajaran orisinal yang disusun untuk NextyLibrary. Untuk topik yang memerlukan informasi mutakhir atau keputusan profesional, bandingkan dengan buku ajar, standar, dan publikasi lembaga resmi yang relevan. Catat judul, penulis/lembaga, tahun, serta bagian yang digunakan ketika menambahkan rujukan.
+
+PENDALAMAN MATERI
+
+BAB 6. HIERARKI VISUAL DAN TIPOGRAFI
+Hierarki visual mengatur urutan perhatian pembaca. Ukuran, ketebalan huruf, warna, jarak, dan posisi dapat menunjukkan mana judul, subjudul, dan informasi pendukung. Tipografi bukan hanya pemilihan jenis huruf, tetapi juga pengaturan ukuran, panjang baris, spasi, dan kontras. Huruf dekoratif dapat menarik perhatian pada judul, tetapi kurang cocok untuk paragraf panjang. Gunakan jumlah jenis huruf secukupnya agar tampilan konsisten. Uji keterbacaan pada ukuran layar dan jarak baca yang wajar. Desain yang baik membantu pembaca menemukan informasi tanpa harus menebak struktur.
+
+BAB 7. WARNA DAN KONTRAS
+Warna memiliki fungsi informatif dan emosional, tetapi maknanya dapat berbeda menurut budaya dan konteks. Palet warna yang terarah membantu membangun identitas dan membedakan kategori. Kontras antara teks dan latar harus cukup agar informasi terbaca, termasuk bagi pengguna dengan gangguan penglihatan warna. Jangan mengandalkan warna sebagai satu-satunya penanda; tambahkan label, ikon, atau pola. Gunakan warna aksen untuk hal penting, bukan memberi warna berbeda pada setiap unsur. Periksa desain dalam tampilan abu-abu untuk melihat apakah hierarki masih jelas.
+
+BAB 8. GRID, KOMPOSISI, DAN RUANG KOSONG
+Grid membantu menata elemen agar memiliki hubungan yang konsisten. Kolom, margin, dan jarak antarbagian menciptakan ritme visual. Ruang kosong bukan ruang terbuang; ruang tersebut memberi jeda dan membantu kelompok informasi terbaca. Komposisi perlu menyesuaikan tujuan dan media. Poster acara memerlukan fokus yang cepat dikenali, sedangkan laporan membutuhkan struktur yang mendukung pembacaan panjang. Elemen yang terlalu rapat membuat halaman terasa berat, sementara jarak berlebihan dapat memutus hubungan informasi. Gunakan keselarasan dan pengulangan secara terencana.
+
+BAB 9. DESAIN UNTUK AKSESIBILITAS
+Desain aksesibel mempertimbangkan beragam kemampuan dan kondisi pengguna. Teks perlu memiliki ukuran yang memadai, kontras jelas, dan struktur yang konsisten. Gambar informatif memerlukan teks alternatif agar maknanya dapat dipahami melalui pembaca layar. Tombol dan tautan perlu memiliki label yang menjelaskan tindakan. Hindari menyampaikan informasi penting hanya melalui warna atau posisi. Uji desain dengan pengguna dan perangkat berbeda jika memungkinkan. Aksesibilitas bukan tahap tambahan setelah desain selesai; pertimbangkan sejak perencanaan agar perbaikan tidak memerlukan perubahan besar.
+
+BAB 10. PROSES DESAIN DAN EVALUASI
+Proses desain dimulai dengan memahami kebutuhan pengguna dan tujuan komunikasi. Kumpulkan konteks, buat beberapa alternatif, pilih konsep, susun prototipe, lalu uji. Umpan balik sebaiknya dikaitkan dengan tujuan, bukan hanya selera pribadi. Catat masalah yang ditemukan dan prioritas perbaikannya. Simpan versi kerja dan aset dengan nama teratur. Pastikan foto, ilustrasi, huruf, dan ikon memiliki izin penggunaan yang sesuai. Sebelum publikasi, periksa ejaan, ukuran, keterbacaan, konsistensi, dan tampilan pada media tujuan.
+
+STUDI KASUS
+Sebuah poster layanan kesehatan memuat banyak paragraf kecil dan menggunakan warna pucat. Pembaca kesulitan menemukan waktu layanan. Perbaikan dapat dimulai dengan menempatkan informasi waktu pada hierarki utama, memperbesar teks, meningkatkan kontras, dan memindahkan penjelasan panjang ke bagian pendukung. Isi tidak perlu dihapus jika penting, tetapi struktur harus membantu pembaca menemukan prioritas.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa hierarki visual penting? Karena mengarahkan urutan perhatian dan mempermudah pemahaman.
+2. Sebutkan tiga unsur tipografi selain jenis huruf: ukuran, spasi, panjang baris, ketebalan, dan kontras.
+3. Mengapa warna tidak boleh menjadi satu-satunya penanda? Karena sebagian pengguna sulit membedakan warna tertentu atau melihat desain tanpa warna.
+4. Apa fungsi grid? Menjaga konsistensi dan hubungan antar elemen.
+5. Sebutkan empat pemeriksaan sebelum publikasi: ejaan, keterbacaan, konsistensi, izin aset, dan tampilan lintas perangkat.
+
+GLOSARIUM
+Aksesibilitas: kemudahan penggunaan oleh orang dengan kebutuhan beragam.
+Grid: sistem garis bantu untuk mengatur tata letak.
+Hierarki visual: urutan perhatian yang dibentuk oleh elemen desain.
+Kontras: perbedaan visual antarunsur.
+Tipografi: pengaturan huruf dan teks.

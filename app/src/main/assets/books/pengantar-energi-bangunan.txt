@@ -46,17 +46,25 @@ BAB 6. AUDIT DAN PERBAIKAN
 Audit energi mengumpulkan data penggunaan, jam operasi, kondisi peralatan, dan karakter bangunan. Prioritas perbaikan dinilai berdasarkan biaya, potensi penghematan, kenyamanan, dan dampak lingkungan.
 
 PROYEK AKHIR
-Pilih topik yang menghubungkan minimal tiga bab. Rumuskan pertanyaan, tujuan, batasan, metode, dan bentuk hasil. Gunakan sumber yang dapat diverifikasi serta catat proses pengumpulan informasi. Sajikan data dengan jelas, pisahkan temuan dari interpretasi, dan jelaskan keterbatasan.
+Lakukan audit konseptual pada satu ruang belajar atau ruang keluarga. Catat orientasi ruang, pencahayaan alami, ventilasi, peralatan listrik, dan pola penggunaan. Identifikasi peluang penghematan energi tanpa mengurangi kenyamanan dan keselamatan. Bandingkan dua usulan perbaikan berdasarkan biaya, manfaat, kemudahan, serta dampak lingkungannya.
 
 EVALUASI AKHIR
-1. Sebutkan lima gagasan inti buku.
+1. Jelaskan hubungan selubung bangunan, perpindahan panas, dan kebutuhan pendinginan.
+2. Bandingkan strategi pencahayaan alami dengan pencahayaan buatan.
+3. Mengapa ventilasi dan kualitas udara dalam ruang perlu dinilai bersama?
+4. Uraikan cara membaca konsumsi energi peralatan dan mengidentifikasi pemborosan.
+5. Buat prioritas peningkatan efisiensi untuk bangunan dengan sumber daya terbatas.
 2. Jelaskan hubungan antarbab dengan contoh.
 3. Analisis satu kasus berdasarkan bukti.
 4. Bandingkan dua pendekatan dan konsekuensinya.
 5. Tulis hal yang masih perlu dipelajari.
 
 GLOSARIUM
-Konsep: Gagasan utama untuk memahami topik.
+Selubung bangunan: Elemen pemisah ruang dalam dari lingkungan luar.
+Beban pendinginan: Energi yang diperlukan untuk menjaga kondisi termal ruang.
+Pencahayaan alami: Pemanfaatan cahaya matahari untuk menerangi ruang.
+Ventilasi silang: Pertukaran udara melalui bukaan pada sisi ruang yang berbeda.
+Intensitas energi: Konsumsi energi dibandingkan ukuran aktivitas atau luas bangunan.
 Bukti: Informasi yang dapat diperiksa untuk mendukung klaim.
 Konteks: Keadaan yang memengaruhi makna atau penerapan.
 Metode: Langkah sistematis untuk mencapai tujuan.

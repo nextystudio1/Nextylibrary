@@ -16,7 +16,7 @@ PENDALAMAN
 Pada EKONOMI BERBASIS PLATFORM, petakan masukan, proses, keluaran, dan pihak yang menggunakan informasi. Periksa kualitas data, keandalan sistem, akses, serta akibat jika terjadi kesalahan. Uraikan alasan setiap keputusan teknis dan cara memeriksa hasilnya.
 
 CONTOH PENERAPAN
-Contoh kajian: pilih kasus sederhana yang berkaitan dengan EKONOMI BERBASIS PLATFORM dalam bidang Pengantar Ekonomi Digital. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
+Contoh: sebuah platform belanja memberi peringkat penjual berdasarkan ulasan dan kecepatan pengiriman. Analisis bagaimana aturan peringkat memengaruhi pilihan konsumen, peluang penjual baru, dan persaingan. Jelaskan data apa yang diperlukan sebelum menyimpulkan bahwa sistem tersebut adil.
 
 KEGIATAN BELAJAR
 1. Jelaskan satu istilah kunci dari EKONOMI BERBASIS PLATFORM dengan kalimat sendiri.
@@ -31,10 +31,6 @@ LATIHAN
 3. Analisis biaya transaksi yang berubah ketika kegiatan jual beli berpindah ke platform.
 4. Sebutkan risiko bagi konsumen ketika data pribadi menjadi bagian dari model bisnis.
 5. Rancang satu indikator untuk menilai keberhasilan usaha digital selain jumlah pengguna.
-2. Jelaskan satu mekanisme dengan urutan yang benar.
-3. Berikan contoh penerapan dalam kehidupan sehari-hari.
-4. Sebutkan satu keterbatasan atau risiko salah tafsir.
-5. Buat pertanyaan lanjutan yang dapat dijawab melalui pengamatan atau sumber tepercaya.
 
 BAB 2. DATA SEBAGAI SUMBER DAYA
 

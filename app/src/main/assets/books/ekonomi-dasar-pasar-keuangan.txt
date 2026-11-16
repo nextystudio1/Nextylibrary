@@ -375,3 +375,49 @@ Analisis contoh pasar transportasi lokal. Identifikasi pelaku, alternatif bagi k
 
 RANGKUMAN
 Pasar mengoordinasikan keputusan melalui harga, tetapi hasilnya dipengaruhi struktur, informasi, eksternalitas, dan distribusi kekuatan. Kebijakan ekonomi perlu menilai efisiensi sekaligus keadilan.
+
+BAB PENGAYAAN — UANG DAN SISTEM PEMBAYARAN
+
+Uang berfungsi sebagai alat tukar, satuan hitung, dan penyimpan nilai. Sebagai alat tukar, uang memudahkan transaksi dibanding barter. Sebagai satuan hitung, uang membantu membandingkan harga barang yang berbeda. Sebagai penyimpan nilai, uang memungkinkan daya beli dipindahkan ke masa depan, meskipun inflasi dapat mengurangi daya belinya.
+
+Sistem pembayaran mencakup uang tunai, transfer bank, kartu, dan pembayaran digital. Setiap metode memiliki biaya, kecepatan, risiko, dan kebutuhan infrastruktur. Pengguna perlu memeriksa nama penerima, jumlah, biaya, dan bukti transaksi sebelum menyelesaikan pembayaran. Kode OTP, PIN, dan kata sandi tidak boleh diberikan kepada pihak yang mengaku petugas.
+
+BAB PENGAYAAN — TABUNGAN, BUNGA, DAN NILAI WAKTU UANG
+
+Menabung berarti menyisihkan sebagian pendapatan untuk tujuan mendatang. Bunga sederhana dihitung dari pokok awal, sedangkan bunga majemuk dihitung dari pokok beserta bunga yang telah ditambahkan pada periode sebelumnya. Dalam perhitungan nyata, perhatikan frekuensi penggabungan bunga, biaya, pajak, dan ketentuan produk.
+
+Nilai waktu uang menjelaskan bahwa jumlah uang pada waktu berbeda tidak selalu setara. Uang yang tersedia sekarang dapat digunakan atau disimpan untuk memperoleh imbal hasil, tetapi juga menghadapi risiko dan inflasi. Perbandingan keuangan perlu menggunakan periode yang sama dan memperhitungkan seluruh biaya.
+
+BAB PENGAYAAN — RISIKO DAN DIVERSIFIKASI
+
+Risiko adalah kemungkinan hasil berbeda dari yang diharapkan. Produk keuangan memiliki tingkat risiko, jangka waktu, likuiditas, dan potensi hasil yang berbeda. Potensi imbal hasil yang lebih tinggi biasanya disertai risiko yang lebih besar, tetapi tidak ada jaminan bahwa risiko tinggi akan menghasilkan keuntungan.
+
+Diversifikasi berarti menyebarkan dana ke beberapa aset atau instrumen agar hasil tidak bergantung pada satu sumber saja. Diversifikasi tidak menghilangkan seluruh risiko, terutama risiko sistemik yang memengaruhi banyak aset sekaligus. Sebelum mengambil keputusan, pahami tujuan, jangka waktu, biaya, dan kemampuan menanggung kerugian.
+
+BAB PENGAYAAN — PENIPUAN KEUANGAN DAN PERLINDUNGAN KONSUMEN
+
+Waspadai tawaran keuntungan pasti yang sangat tinggi, tekanan untuk segera mentransfer uang, permintaan kode rahasia, dan pihak yang meminta biaya tambahan agar dana dapat dicairkan. Penipu dapat menggunakan identitas lembaga resmi atau testimoni palsu. Periksa legalitas melalui kanal resmi regulator atau lembaga terkait, bukan tautan yang dikirim oleh pihak yang menawarkan produk.
+
+Catat transaksi dan simpan bukti pembayaran. Jika menemukan dugaan penipuan, segera hubungi penyedia layanan keuangan melalui saluran resmi dan ikuti prosedur pelaporan. Jangan mencoba menyelesaikan masalah dengan mengirim uang tambahan kepada pihak yang mengaku dapat memulihkan dana.
+
+LATIHAN
+1. Sebutkan tiga fungsi utama uang.
+2. Apa perbedaan bunga sederhana dan bunga majemuk?
+3. Mengapa biaya perlu diperhitungkan ketika membandingkan produk keuangan?
+4. Apa tujuan diversifikasi?
+5. Sebutkan tiga tanda umum penipuan keuangan.
+
+KUNCI PEMBAHASAN
+1. Alat tukar, satuan hitung, dan penyimpan nilai.
+2. Bunga sederhana dihitung dari pokok awal; bunga majemuk memperhitungkan bunga yang telah ditambahkan.
+3. Biaya mengurangi hasil bersih dan dapat mengubah produk yang paling sesuai.
+4. Mengurangi ketergantungan pada satu aset atau sumber risiko.
+5. Janji keuntungan pasti tinggi, tekanan segera membayar, dan permintaan PIN atau OTP.
+
+GLOSARIUM TAMBAHAN
+Sistem pembayaran: sarana dan prosedur untuk memindahkan dana.
+Bunga sederhana: bunga yang dihitung dari pokok awal.
+Bunga majemuk: bunga yang dihitung dari pokok dan bunga terakumulasi.
+Likuiditas: kemudahan aset diubah menjadi uang tanpa kehilangan nilai besar.
+Diversifikasi: penyebaran investasi atau dana ke beberapa instrumen.
+Risiko sistemik: risiko yang dapat memengaruhi sistem atau banyak pelaku sekaligus.

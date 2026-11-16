@@ -131,8 +131,6 @@ Perpustakaan digital dapat merekomendasikan bahan belajar berdasarkan kategori, 
 TUGAS PRAKTIK
 Rancang ide sistem AI dengan menuliskan masalah, pengguna, data minimum, potensi bias, risiko kesalahan, ukuran keberhasilan, dan cara pengguna mengoreksi keluaran. Jelaskan mengapa solusi berbasis aturan sederhana mungkin cukup.
 
-
-
 BAB LANJUTAN — DATA, BIAS, DAN TANGGUNG JAWAB AI
 
 Sistem kecerdasan buatan belajar pola dari data. Jika data tidak mewakili kelompok atau situasi yang akan dihadapi, hasil dapat kurang akurat bagi sebagian pengguna. Bias dapat muncul dari cara data dikumpulkan, label yang diberikan, tujuan sistem, atau cara hasil digunakan.
@@ -164,8 +162,6 @@ Data pelatihan: data yang digunakan untuk menyesuaikan model.
 Data uji: data terpisah untuk mengevaluasi model.
 Bias: penyimpangan sistematis yang dapat menghasilkan perlakuan atau hasil tidak adil.
 AI generatif: sistem yang menghasilkan konten baru berdasarkan pola yang dipelajari.
-
-
 
 BAB TAMBAHAN — PENGGUNAAN AI DALAM PEMBELAJARAN
 
@@ -420,7 +416,6 @@ Rancang aturan penggunaan AI untuk perpustakaan sekolah. Jelaskan data apa yang 
 
 RANGKUMAN
 Tata kelola AI memastikan sistem tetap dapat dipertanggungjawabkan sepanjang siklus hidupnya. Dokumentasi, keamanan, keadilan, keterlibatan manusia, dan evaluasi berkelanjutan tidak boleh menjadi tambahan belakangan.
-
 
 BAB PENGAYAAN 1 — MERANCANG PROYEK AI DARI MASALAH NYATA
 

@@ -49,7 +49,6 @@ PROYEK TERPADU
 Modelkan pengisian sebuah tangki dengan laju aliran yang berubah terhadap waktu. Tentukan variabel waktu, laju aliran, dan volume. Buat fungsi sederhana untuk laju aliran, lalu jelaskan bagaimana integral tentu digunakan untuk memperkirakan perubahan volume selama interval tertentu. Jika menggunakan data buatan, nyatakan bahwa data tersebut hanya ilustrasi. Periksa satuan dan jelaskan asumsi model.
 
 EVALUASI AKHIR
-EVALUASI AKHIR
 1. Hitung limit fungsi sederhana dengan substitusi langsung dan jelaskan kapan cara itu tidak cukup.
 2. Jelaskan syarat kontinuitas suatu fungsi pada titik tertentu.
 3. Tentukan turunan fungsi polinomial sederhana dan tafsirkan maknanya sebagai laju perubahan.
@@ -107,19 +106,19 @@ LATIHAN AKHIR
 4. Jelaskan integral sebagai akumulasi.
 5. Buat model optimasi sederhana dan nyatakan batasannya.
 
-BAB 11. LIMIT DAN KONTINUITAS
+BAB 7. LIMIT DAN KONTINUITAS
 Limit menjelaskan perilaku suatu fungsi ketika nilai masukan mendekati titik tertentu. Nilai fungsi di titik itu dapat berbeda atau bahkan tidak terdefinisi, sementara limitnya tetap ada. Kontinuitas pada suatu titik memerlukan fungsi terdefinisi, limit ada, dan keduanya sama. Gagasan ini menjadi dasar untuk memahami turunan dan integral. Saat menghitung limit, periksa domain serta bentuk aljabar sebelum melakukan penyederhanaan.
 
-BAB 12. TURUNAN SEBAGAI LAJU PERUBAHAN
+BAB 8. TURUNAN SEBAGAI LAJU PERUBAHAN
 Turunan mengukur laju perubahan sesaat. Secara geometri, turunan berkaitan dengan kemiringan garis singgung kurva. Jika posisi dinyatakan sebagai fungsi waktu, turunannya menyatakan kecepatan sesaat. Aturan turunan membantu menghitung fungsi polinomial, hasil kali, hasil bagi, dan komposisi. Satuan turunan merupakan satuan keluaran dibagi satuan masukan, sehingga interpretasi harus menyertakan konteks.
 
-BAB 13. APLIKASI TURUNAN DAN OPTIMASI
+BAB 9. APLIKASI TURUNAN DAN OPTIMASI
 Turunan dapat digunakan untuk menemukan titik stasioner dan mempelajari kenaikan atau penurunan fungsi. Dalam optimasi, rumuskan fungsi tujuan dan batasan terlebih dahulu. Titik dengan turunan nol belum tentu maksimum atau minimum; periksa perubahan tanda, turunan kedua, atau batas domain. Hasil matematis perlu ditafsirkan sesuai konteks dan satuan.
 
-BAB 14. INTEGRAL DAN AKUMULASI
+BAB 10. INTEGRAL DAN AKUMULASI
 Integral tentu mengukur akumulasi kuantitas yang berubah. Jika laju aliran diketahui terhadap waktu, integralnya memberi jumlah total yang mengalir. Luas bertanda di bawah kurva membantu memahami integral, tetapi daerah di bawah sumbu memiliki kontribusi negatif. Teorema dasar kalkulus menghubungkan diferensiasi dan integrasi. Pemilihan batas serta satuan harus diperiksa.
 
-BAB 15. PENDEKATAN NUMERIK
+BAB 11. PENDEKATAN NUMERIK
 Tidak semua integral atau persamaan memiliki penyelesaian sederhana. Metode numerik memberi pendekatan dengan membagi interval menjadi bagian kecil atau memperbaiki tebakan secara berulang. Hasil pendekatan perlu disertai toleransi atau perkiraan galat. Kalkulator dan perangkat lunak membantu perhitungan, tetapi pengguna tetap perlu memeriksa apakah hasil masuk akal.
 
 LATIHAN

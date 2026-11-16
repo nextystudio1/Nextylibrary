@@ -364,3 +364,23 @@ Pilih topik pelajaran yang sudah dipahami guru. Buat lima pertanyaan dengan ting
 
 RANGKUMAN
 AI dapat memperluas kesempatan belajar jika dipakai sebagai alat bantu yang diperiksa. Pemahaman tentang data, token, konteks, bias, dan keterbatasan membantu pengguna membuat keputusan lebih aman dan adil. Tanggung jawab akademik serta penilaian akhir tetap berada pada manusia.
+
+BAB PEMBELAJARAN MESIN DAN EVALUASI
+Pembelajaran mesin adalah pendekatan yang memungkinkan sistem menemukan pola dari data untuk melakukan tugas tertentu. Dalam pembelajaran terawasi, contoh data memiliki label atau target. Dalam pembelajaran tanpa pengawasan, sistem mencari struktur tanpa label target yang diberikan. Pembelajaran penguatan mempelajari kebijakan melalui interaksi dan umpan balik berupa imbalan. Ketiga pendekatan memiliki kegunaan dan keterbatasan berbeda.
+
+Data pelatihan digunakan untuk menyesuaikan model, data validasi membantu memilih konfigurasi, dan data uji digunakan untuk memperkirakan kinerja pada data yang tidak dipakai saat pelatihan. Jika informasi dari data uji bocor ke proses pelatihan atau pemilihan model, hasil evaluasi dapat tampak terlalu baik. Pemisahan data harus mengikuti struktur masalah, terutama untuk data waktu atau data dari orang yang sama.
+
+AKURASI BUKAN SATU-SATUNYA UKURAN
+Akurasi adalah proporsi prediksi yang benar, tetapi dapat menyesatkan ketika kelas tidak seimbang. Presisi menilai proporsi prediksi positif yang benar, sedangkan recall menilai proporsi kasus positif yang berhasil ditemukan. Pilihan ukuran bergantung pada konsekuensi kesalahan. Dalam sistem pendidikan, misalnya, kesalahan memberi label siswa “berisiko” dapat berdampak berbeda dari kesalahan melewatkan kebutuhan dukungan.
+
+OVERFITTING DAN GENERALISASI
+Model dapat terlalu menyesuaikan diri dengan data pelatihan sehingga gagal pada contoh baru; keadaan ini disebut overfitting. Model yang terlalu sederhana dapat gagal menangkap pola penting. Evaluasi pada data yang representatif, regularisasi, dan pemantauan setelah penerapan membantu menilai kemampuan generalisasi. Kinerja dapat menurun ketika pola data di dunia nyata berubah.
+
+AI GENERATIF DAN VERIFIKASI
+Model generatif membuat teks, gambar, audio, atau kode berdasarkan pola yang dipelajari. Hasilnya dapat membantu eksplorasi ide, tetapi perlu pemeriksaan hak cipta, fakta, bias, dan privasi. Jangan mengunggah dokumen pribadi atau data teman tanpa izin. Untuk tugas sekolah, ikuti kebijakan guru dan nyatakan penggunaan alat bantu secara jujur.
+
+LATIHAN
+Buat contoh data simulasi berisi 20 catatan dengan dua kategori yang jumlahnya tidak seimbang. Hitung akurasi dari model tebakan sederhana yang selalu memilih kategori mayoritas. Jelaskan mengapa angka akurasi tinggi belum tentu berarti sistem berguna. Tidak perlu mengumpulkan data pribadi manusia.
+
+RANGKUMAN BAB
+Memahami jenis pembelajaran, pemisahan data, metrik evaluasi, overfitting, dan risiko generatif membantu menilai AI secara realistis. Sistem yang baik harus diuji sesuai tujuan dan dampak penggunaannya.

@@ -248,3 +248,23 @@ Rancang penyelidikan sederhana untuk membandingkan waktu larut gula pada suhu ai
 
 RANGKUMAN
 Metode ilmiah bukan urutan kaku yang selalu sama, melainkan cara berpikir terbuka yang menghubungkan pertanyaan, bukti, analisis, dan evaluasi. Penelitian yang kuat dapat diperiksa, diulang, mengakui keterbatasan, dan bersedia direvisi ketika bukti baru muncul.
+
+BAB MEMBEDAKAN HUBUNGAN DAN SEBAB-AKIBAT
+Dua variabel yang berubah bersama belum tentu memiliki hubungan sebab-akibat. Hubungan dapat muncul karena kebetulan, faktor ketiga, arah sebab yang terbalik, atau bias pengukuran. Contohnya, penjualan minuman dingin dan penggunaan pendingin ruangan dapat sama-sama meningkat saat cuaca panas. Cuaca menjadi faktor yang memengaruhi keduanya.
+
+Eksperimen terkontrol berusaha mengisolasi pengaruh variabel dengan membandingkan kelompok yang mendapat perlakuan dan kelompok pembanding. Pengacakan membantu menyebarkan faktor pengganggu secara lebih seimbang. Dalam penelitian pendidikan atau sosial, eksperimen tidak selalu etis atau praktis; peneliti dapat memakai rancangan observasional dan harus membatasi kesimpulan kausal.
+
+HIPOTESIS DAN PRAPENDAFTARAN
+Hipotesis adalah dugaan yang dapat diuji, bukan tebakan yang harus dibenarkan. Rumuskan hasil yang mungkin mendukung maupun tidak mendukung hipotesis. Sebelum mengumpulkan data, tentukan ukuran utama, metode analisis, dan kriteria pengecualian. Praktik ini mengurangi kecenderungan memilih analisis setelah melihat hasil yang paling menarik.
+
+KETIDAKPASTIAN DAN REPLIKASI
+Hasil pengukuran selalu memiliki ketidakpastian. Laporkan ukuran sampel, variasi, alat, dan prosedur agar pembaca memahami kekuatan bukti. Replikasi oleh peneliti lain membantu mengetahui apakah hasil dapat muncul kembali pada kondisi serupa. Kegagalan mereplikasi tidak selalu berarti penelitian awal curang; perbedaan sampel, alat, konteks, atau metode dapat memengaruhi hasil.
+
+ETIKA PENELITIAN
+Penelitian yang melibatkan manusia memerlukan persetujuan yang sesuai, perlindungan privasi, dan perhatian terhadap potensi dampak. Peserta harus memahami tujuan dan haknya. Penelitian terhadap hewan atau lingkungan juga membutuhkan pertimbangan etis dan aturan yang berlaku. Untuk proyek pelajar, pilih aktivitas aman, sederhana, dan disetujui guru.
+
+LATIHAN
+Buat dua penjelasan alternatif untuk hubungan antara waktu belajar dan nilai ujian. Selain “belajar lebih lama meningkatkan nilai”, pertimbangkan pengetahuan awal, kualitas tidur, dukungan belajar, dan cara mengukur waktu. Tentukan data apa yang diperlukan untuk membedakan penjelasan tersebut.
+
+RANGKUMAN BAB
+Metode ilmiah menuntut hipotesis yang dapat diuji, rancangan yang sesuai, pelaporan ketidakpastian, replikasi, dan etika. Sikap ilmiah berarti bersedia mengubah kesimpulan ketika bukti baru muncul.

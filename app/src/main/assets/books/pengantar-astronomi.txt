@@ -248,3 +248,23 @@ LATIHAN
 4. Mengapa pengukuran jarak jauh memerlukan beberapa metode? Karena satu metode memiliki batas jangkauan dan ketidakpastian.
 RANGKUMAN
 Astronomi mengubah cahaya menjadi bukti tentang objek yang tidak dapat dijangkau langsung. Spektrum, jarak, evolusi bintang, dan struktur galaksi memperlihatkan bagaimana pengamatan, model, serta pengukuran saling menguatkan.
+
+BAB MENGAMATI LANGIT DENGAN METODE ILMIAH
+Pengamatan langit perlu mempertimbangkan waktu, lokasi, cuaca, polusi cahaya, dan alat. Catat tanggal, jam, arah, kondisi langit, serta objek yang diamati. Pengamatan berulang membantu membedakan gerak harian akibat rotasi Bumi dari perubahan posisi objek terhadap latar bintang. Aplikasi peta langit dapat membantu identifikasi, tetapi hasilnya tetap perlu dibandingkan dengan sumber astronomi tepercaya.
+
+TELESKOP DAN BATAS PENGAMATAN
+Teleskop mengumpulkan lebih banyak cahaya daripada mata dan dapat meningkatkan kemampuan melihat objek redup. Diameter bukaan berpengaruh pada daya kumpul cahaya dan resolusi, sedangkan pembesaran tinggi tidak selalu menghasilkan gambar lebih baik. Kondisi atmosfer, getaran, kualitas optik, dan polusi cahaya membatasi pengamatan dari permukaan Bumi.
+
+Teleskop radio menangkap gelombang radio dari objek langit, sedangkan teleskop inframerah, ultraviolet, sinar-X, dan gamma mempelajari bagian spektrum yang berbeda. Atmosfer Bumi menyerap banyak panjang gelombang sehingga beberapa observatorium ditempatkan di luar angkasa. Setiap rentang spektrum mengungkap fenomena berbeda; menggabungkan pengamatan memberi gambaran lebih lengkap.
+
+MATAHARI DAN AKTIVITASNYA
+Matahari adalah bintang yang menghasilkan energi melalui fusi nuklir di bagian inti. Aktivitas Matahari berubah dalam siklus dan dapat memengaruhi ruang antariksa dekat Bumi. Letupan dan lontaran massa korona dapat mengganggu satelit, komunikasi radio, serta sistem listrik dalam kondisi tertentu. Pemantauan cuaca antariksa membantu mengurangi risiko teknologi.
+
+ASTROBIOLOGI DAN KEHIDUPAN
+Astrobiologi mempelajari kemungkinan kehidupan di luar Bumi melalui kajian lingkungan planet, kimia, biologi, dan evolusi. Keberadaan air cair atau molekul organik tidak otomatis membuktikan adanya kehidupan. Ilmuwan mencari bukti yang dapat diuji dan mempertimbangkan penjelasan nonbiologis. Sampai saat ini, kehidupan di luar Bumi belum dikonfirmasi.
+
+LATIHAN
+Rancang jurnal pengamatan Bulan selama dua minggu. Catat tanggal, waktu, fase yang tampak, arah, dan kondisi cuaca. Jangan melihat Matahari melalui teleskop atau teropong tanpa filter surya khusus yang dirancang dan dipasang dengan benar oleh pihak kompeten. Bandingkan hasil pengamatan dengan kalender fase Bulan dan jelaskan perbedaan yang mungkin terjadi karena cuaca atau waktu pengamatan.
+
+RANGKUMAN BAB
+Astronomi menggabungkan pengamatan berulang, instrumen, fisika, dan evaluasi bukti. Keterbatasan alat serta ketidakpastian harus dipahami agar kesimpulan tentang alam semesta tetap dapat dipercaya.

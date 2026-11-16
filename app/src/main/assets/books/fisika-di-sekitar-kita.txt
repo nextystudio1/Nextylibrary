@@ -393,3 +393,23 @@ LATIHAN
 4. Gelombang memiliki frekuensi 5 Hz dan panjang gelombang 2 m. Cepat rambat = 10 m/s.
 RANGKUMAN
 Fisika menjelaskan fenomena sehari-hari melalui model, pengukuran, dan hukum yang dapat diuji. Tekanan, kalor, listrik, dan gelombang menjadi lebih mudah dipahami ketika konsep, satuan, asumsi, serta keselamatan diperhatikan.
+
+BAB SUHU, KALOR, DAN PERPINDAHAN ENERGI
+Suhu berkaitan dengan keadaan termal suatu benda, sedangkan kalor adalah energi yang berpindah karena perbedaan suhu. Ketika dua benda bersentuhan, energi berpindah secara spontan dari benda bersuhu lebih tinggi ke yang lebih rendah sampai mendekati kesetimbangan termal. Suhu bukan ukuran langsung jumlah energi total benda karena massa dan jenis bahan juga berpengaruh.
+
+Kalor dapat berpindah melalui konduksi, konveksi, dan radiasi. Konduksi terjadi melalui interaksi partikel tanpa perpindahan massa secara keseluruhan; konveksi melibatkan gerak fluida; radiasi memindahkan energi melalui gelombang elektromagnetik. Dalam kehidupan sehari-hari, ketiganya dapat terjadi bersamaan, misalnya saat ruangan dipanaskan oleh sinar Matahari dan sirkulasi udara.
+
+PERUBAHAN WUJUD DAN KALOR LATEN
+Zat dapat berubah wujud ketika menerima atau melepas energi. Pada tekanan tertentu, energi yang diberikan saat perubahan wujud dapat digunakan untuk mengubah susunan partikel, sehingga suhu tidak selalu meningkat selama proses berlangsung. Kalor laten menjelaskan energi yang terlibat dalam perubahan fase tanpa perubahan suhu pada kondisi ideal.
+
+TEKANAN DAN FLUIDA
+Tekanan adalah gaya per satuan luas. Pada fluida diam, tekanan meningkat seiring kedalaman karena berat fluida di atas titik tersebut. Prinsip ini menjelaskan mengapa dinding bendungan dibuat lebih tebal di bagian bawah. Gaya apung muncul karena perbedaan tekanan fluida pada bagian bawah dan atas benda; besar gaya apung sama dengan berat fluida yang dipindahkan dalam kondisi prinsip Archimedes.
+
+GELOMBANG DAN BUNYI
+Gelombang membawa energi tanpa memindahkan materi secara keseluruhan dari satu tempat ke tempat lain. Gelombang mekanik memerlukan medium, sedangkan gelombang elektromagnetik dapat merambat di ruang hampa. Bunyi adalah gelombang mekanik yang memerlukan medium; frekuensi berkaitan dengan tinggi nada, sedangkan amplitudo berkaitan dengan intensitas gelombang.
+
+LATIHAN
+Jelaskan mengapa gagang panci sering dibuat dari bahan yang kurang menghantarkan panas. Bandingkan konduksi dan konveksi pada contoh di rumah. Buat diagram yang menunjukkan arah perpindahan energi, lalu tuliskan faktor yang dapat memengaruhi laju perpindahan.
+
+RANGKUMAN BAB
+Fisika sehari-hari menjelaskan suhu, kalor, tekanan, gaya apung, dan gelombang. Konsep-konsep ini membantu memahami alat rumah tangga, cuaca, transportasi, dan teknologi secara lebih ilmiah.

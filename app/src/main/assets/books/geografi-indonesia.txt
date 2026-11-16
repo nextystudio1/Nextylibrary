@@ -258,3 +258,22 @@ LATIHAN
 4. Sebutkan tiga unsur pengelolaan DAS. Jawaban: perlindungan hulu, pengendalian erosi, dan pengelolaan kualitas air, serta koordinasi wilayah.
 RANGKUMAN
 Geografi Indonesia mempelajari hubungan bentang alam, iklim, penduduk, kegiatan ekonomi, dan ruang. Peta serta data spasial membantu memahami pola, sementara mitigasi dan perencanaan wilayah mengurangi kerentanan masyarakat.
+
+BAB KEPENDUDUKAN DAN PERENCANAAN WILAYAH
+Penduduk tersebar tidak merata karena dipengaruhi sejarah permukiman, kondisi alam, lapangan kerja, infrastruktur, dan layanan. Kepadatan penduduk adalah jumlah penduduk per luas wilayah, tetapi angka rata-rata dapat menyembunyikan perbedaan besar antara pusat kota dan wilayah pinggiran. Peta kepadatan perlu dibaca bersama peta penggunaan lahan, akses transportasi, dan fasilitas umum.
+
+Urbanisasi adalah peningkatan proporsi penduduk yang tinggal di wilayah perkotaan dan dapat terjadi melalui migrasi maupun pertumbuhan alami. Kota menawarkan akses pendidikan, pekerjaan, dan layanan, tetapi pertumbuhan cepat dapat menambah tekanan pada perumahan, transportasi, air bersih, sanitasi, dan ruang terbuka. Perencanaan kota perlu melibatkan kelompok yang terdampak, bukan hanya mengejar pembangunan fisik.
+
+INDONESIA SEBAGAI NEGARA KEPULAUAN
+Kondisi kepulauan membuat transportasi laut, pelabuhan, konektivitas udara, dan jaringan digital penting bagi hubungan antardaerah. Biaya distribusi dapat berbeda karena jarak, cuaca, frekuensi layanan, dan kondisi infrastruktur. Kebijakan konektivitas perlu mempertimbangkan keterjangkauan, keselamatan, dampak lingkungan, serta kebutuhan masyarakat pulau kecil.
+
+Bencana alam memiliki karakter yang berbeda antardaerah. Risiko tidak hanya ditentukan bahaya, tetapi juga paparan dan kerentanan. Wilayah dengan bahaya tinggi dapat mengurangi risiko melalui tata ruang, bangunan sesuai standar, informasi, kesiapsiagaan, dan layanan darurat. Peta risiko harus diperbarui ketika data dan kondisi wilayah berubah.
+
+PETA TEMATIK DAN DATA SPASIAL
+Peta tematik menyajikan satu tema seperti curah hujan, kepadatan, penggunaan lahan, atau akses fasilitas. Skala menentukan tingkat detail yang dapat ditampilkan. Data spasial memiliki sumber, tanggal, resolusi, dan kemungkinan kesalahan. Peta digital tidak otomatis akurat; periksa metadata, metode pengumpulan, dan apakah batas wilayah sesuai.
+
+LATIHAN
+Pilih satu kecamatan atau kabupaten menggunakan data publik. Bandingkan sebaran penduduk dengan lokasi sekolah, fasilitas kesehatan, atau transportasi. Ajukan pertanyaan tentang kesenjangan akses, bukan langsung menyimpulkan penyebab. Catat keterbatasan data dan usulkan informasi tambahan yang dibutuhkan.
+
+RANGKUMAN BAB
+Geografi Indonesia mengkaji hubungan penduduk, kota, kepulauan, konektivitas, bencana, dan perencanaan. Peta menjadi alat analisis jika skala, sumber, dan keterbatasan datanya dipahami.

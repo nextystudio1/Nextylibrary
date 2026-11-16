@@ -170,3 +170,26 @@ Skala: perbandingan ukuran gambar dan ukuran sebenarnya.
 Volume: ukuran ruang tiga dimensi.
 Ketidakpastian: rentang keraguan yang melekat pada hasil ukur.
 Toleransi: batas penyimpangan yang masih dapat diterima.
+
+BAB LANJUTAN: GEOMETRI DALAM RUANG DAN PENERAPANNYA
+
+1. Bangun datar dan sifatnya
+Setiap bangun datar dapat dipelajari melalui sisi, sudut, simetri, keliling, dan luas. Rumus bukan sekadar hafalan; rumus menyatakan hubungan antarukuran berdasarkan definisi dan asumsi. Saat menghitung luas, pastikan satuan panjang konsisten. Luas dinyatakan dalam satuan persegi, sedangkan keliling dalam satuan panjang.
+
+2. Kesebangunan dan skala
+Dua bangun sebangun memiliki bentuk sama dengan ukuran yang dapat berbeda. Perbandingan sisi bersesuaian tetap. Konsep ini digunakan pada peta, model bangunan, fotografi, dan gambar teknik. Skala harus ditulis jelas, misalnya satu sentimeter pada gambar mewakili sejumlah satuan pada objek sebenarnya.
+
+3. Teorema Pythagoras
+Pada segitiga siku-siku, kuadrat panjang sisi miring sama dengan jumlah kuadrat kedua sisi lainnya. Hubungan ini dapat digunakan untuk menghitung jarak diagonal atau memeriksa ukuran rancangan. Teorema hanya berlaku pada segitiga siku-siku; pastikan jenis segitiga telah diketahui sebelum menerapkannya.
+
+4. Geometri ruang
+Kubus, balok, prisma, limas, tabung, kerucut, dan bola memiliki sifat serta rumus luas permukaan dan volume yang berbeda. Volume mengukur ruang yang ditempati, sedangkan luas permukaan mengukur jumlah area sisi luar. Pemilihan rumus bergantung pada bentuk dan informasi yang diketahui.
+
+5. Pengukuran dan ketidakpastian
+Hasil pengukuran dipengaruhi resolusi alat, cara membaca skala, kondisi lingkungan, dan keterampilan pengamat. Tuliskan satuan dan ketelitian yang wajar. Jangan melaporkan terlalu banyak angka desimal jika alat tidak mendukung ketelitian tersebut.
+
+6. Geometri dalam desain
+Dalam desain ruang, geometri membantu memperkirakan kebutuhan bahan, kapasitas, jarak, dan proporsi. Namun rancangan nyata juga harus mempertimbangkan toleransi, kekuatan bahan, aksesibilitas, keselamatan, serta aturan teknis yang berlaku.
+
+LATIHAN
+Rancang denah sederhana ruang belajar. Tentukan ukuran, hitung luas lantai, perkirakan kebutuhan penutup lantai, dan jelaskan bagaimana kamu memperhitungkan sisa bahan serta ketidakpastian pengukuran.

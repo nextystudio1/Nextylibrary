@@ -192,3 +192,35 @@ GLOSARIUM
 Persetujuan setelah penjelasan: persetujuan setelah peserta memahami tujuan dan risiko.
 Anonimisasi: menghilangkan penanda identitas dari data.
 Integritas ilmiah: kejujuran dan tanggung jawab dalam seluruh proses penelitian.
+BAB LANJUTAN — MERANCANG PENELITIAN YANG DAPAT DIUJI
+Rancangan penelitian menjelaskan bagaimana pertanyaan dijawab. Tentukan populasi atau objek yang dikaji, cara memilih sampel, variabel, alat ukur, prosedur, dan rencana analisis sebelum mengumpulkan data. Rancangan yang ditulis lebih dahulu mengurangi keputusan spontan yang dapat memengaruhi hasil.
+Sampel harus sesuai dengan pertanyaan. Sampel yang mudah dijangkau belum tentu mewakili populasi. Jika hanya mewawancarai teman sekelas, hasilnya tidak otomatis menggambarkan semua pelajar. Jelaskan cara pemilihan sampel dan kelompok yang mungkin tidak terwakili.
+Variabel operasional adalah definisi terukur dari konsep. Jika meneliti waktu belajar, jelaskan apakah yang dicatat adalah menit belajar mandiri, waktu membuka buku, atau waktu mengerjakan soal. Definisi yang jelas membuat pengukuran dapat diulang.
+Rancangan yang baik juga memikirkan faktor pengganggu. Jika ingin mempelajari hubungan cahaya dengan pertumbuhan tanaman, jenis benih, air, tanah, suhu, dan lama pengamatan perlu diperhatikan. Tidak semua faktor dapat dikendalikan, tetapi faktor penting perlu dicatat.
+
+BAB LANJUTAN — PENGUKURAN, KETIDAKPASTIAN, DAN KUALITAS DATA
+Setiap alat ukur memiliki resolusi dan keterbatasan. Pengukuran berulang dapat membantu menilai variasi, tetapi tidak otomatis menghilangkan kesalahan sistematis. Kalibrasi dan prosedur yang konsisten meningkatkan keterbandingan.
+Akurasi berkaitan dengan kedekatan hasil terhadap nilai acuan, sedangkan presisi berkaitan dengan kedekatan hasil pengukuran satu sama lain. Sekumpulan hasil dapat presisi tetapi tidak akurat jika alat memiliki bias. Karena itu, laporkan metode, alat, satuan, dan ketidakpastian yang relevan.
+Data mentah sebaiknya disimpan terpisah dari data yang telah dibersihkan. Setiap perubahan perlu dicatat, termasuk alasan menghapus entri, memperbaiki format, atau menangani nilai yang hilang. Jangan menghapus data hanya karena tidak mendukung hipotesis.
+Visualisasi membantu menemukan pola, tetapi pilihan skala sumbu dan rentang dapat menyesatkan. Beri judul, label, satuan, sumber, dan keterangan yang cukup. Jangan menyimpulkan sebab-akibat hanya dari korelasi.
+
+BAB LANJUTAN — ANALISIS DAN PENALARAN
+Analisis dimulai dengan memahami bentuk data. Untuk data numerik, ringkasan seperti rata-rata, median, rentang, dan simpangan dapat membantu. Rata-rata mudah dipengaruhi nilai ekstrem, sedangkan median lebih tahan terhadap sebagian nilai ekstrem. Pilih ringkasan sesuai distribusi dan pertanyaan.
+Perbedaan yang terlihat belum tentu bermakna secara ilmiah atau praktis. Ukuran sampel, variasi, desain, dan ketidakpastian memengaruhi interpretasi. Nilai statistik tidak menggantikan penjelasan konteks.
+Dalam penelitian kualitatif, peneliti dapat mengelompokkan tema dari wawancara atau pengamatan. Proses pengodean perlu dijelaskan, kutipan harus dianonimkan bila diperlukan, dan interpretasi perlu dibedakan dari pernyataan peserta.
+Sediakan beberapa penjelasan alternatif. Jika dua hal berubah bersamaan, mungkin ada faktor ketiga atau arah hubungan yang berbeda. Pernyataan kesimpulan harus sebanding dengan kekuatan desain penelitian.
+
+BAB LANJUTAN — ETIKA, PERSETUJUAN, DAN KETERBUKAAN
+Penelitian yang melibatkan manusia harus menghormati martabat, privasi, dan hak peserta. Jelaskan tujuan, kegiatan, potensi ketidaknyamanan, penggunaan data, serta sifat sukarela partisipasi. Peserta harus dapat menolak atau berhenti sesuai aturan yang berlaku.
+Untuk penelitian dengan anak atau kelompok yang membutuhkan perlindungan tambahan, ikuti ketentuan lembaga dan dapatkan persetujuan pihak yang berwenang serta persetujuan peserta sesuai kapasitasnya. Jangan mengumpulkan informasi sensitif tanpa kebutuhan dan perlindungan yang jelas.
+Integritas ilmiah melarang fabrikasi, falsifikasi, dan plagiarisme. Simpan catatan kerja, nyatakan kontribusi, dan laporkan keterbatasan. Jika menggunakan karya orang lain, berikan atribusi yang tepat dan patuhi lisensi.
+Keterbukaan berarti metode dan data dibagikan sejauh aman, etis, dan diizinkan. Data pribadi, informasi rahasia, atau data yang dapat membahayakan peserta tidak boleh dipublikasikan hanya demi keterbukaan.
+
+BAB LANJUTAN — MENULIS LAPORAN DAN MENGOMUNIKASIKAN TEMUAN
+Laporan penelitian umumnya memuat judul, ringkasan, latar belakang, pertanyaan, metode, hasil, pembahasan, keterbatasan, kesimpulan, dan referensi. Struktur dapat berbeda menurut bidang, tetapi pembaca harus dapat membedakan apa yang dilakukan, apa yang ditemukan, dan bagaimana temuan ditafsirkan.
+Bagian hasil menyajikan temuan tanpa melebih-lebihkan. Bagian pembahasan menghubungkan temuan dengan pertanyaan dan pengetahuan sebelumnya. Keterbatasan menjelaskan kondisi yang membatasi generalisasi atau ketepatan.
+Komunikasi ilmiah untuk publik menggunakan bahasa yang mudah dipahami tanpa menghilangkan nuansa. Hindari judul sensasional, klaim mutlak, dan angka tanpa konteks. Jika bukti masih awal, nyatakan bahwa temuan memerlukan pengujian lanjutan.
+
+LATIHAN TERPADU
+Susun rancangan penelitian sederhana tentang hubungan kebiasaan membaca dengan pemahaman materi. Definisikan kedua konsep secara terukur, tentukan sampel yang realistis, jelaskan potensi faktor pengganggu, dan buat prosedur yang tidak mengumpulkan data pribadi yang tidak diperlukan.
+Evaluasi rancangan teman dengan memeriksa apakah pertanyaan dapat diuji, metode sesuai, data dapat dipercaya, etika dipenuhi, dan kesimpulan yang direncanakan tidak melampaui bukti.

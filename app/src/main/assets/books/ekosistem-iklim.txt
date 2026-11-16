@@ -14,6 +14,12 @@ DAFTAR BAB
 6. Dampak perubahan iklim
 7. Pencemaran dan pengelolaan sumber daya
 8. Konservasi dan aksi berbasis ilmu
+9. Siklus Air dan Nutrien
+10. Cuaca dan Iklim — Pendalaman
+11. Efek Rumah Kaca dan Pemanasan Global
+12. Keanekaragaman dan Jasa Ekosistem
+13. Mitigasi dan Adaptasi
+14. Membaca Data Lingkungan
 
 BAB 1: MENGENAL EKOSISTEM
 
@@ -195,22 +201,22 @@ DAFTAR RUJUKAN UNTUK PENDALAMAN
 Gunakan laporan IPCC, materi Kementerian Lingkungan Hidup, BMKG, BRIN, serta publikasi ilmiah tentang ekosistem Indonesia. Perhatikan tahun terbit dan wilayah yang dibahas karena kondisi lingkungan bersifat lokal.
 
 PENDALAMAN: IKLIM, EKOSISTEM, DAN KETAHANAN LINGKUNGAN
-BAB 7 — SIKLUS AIR DAN NUTRIEN
+BAB 9 — SIKLUS AIR DAN NUTRIEN
 Air bergerak melalui evaporasi, transpirasi, kondensasi, presipitasi, infiltrasi, dan aliran permukaan. Perubahan tutupan lahan dapat memengaruhi seberapa banyak air meresap atau mengalir cepat. Siklus karbon, nitrogen, dan fosfor menghubungkan atmosfer, tanah, air, serta organisme.
 Aktivitas manusia seperti pembakaran bahan bakar fosil dan penggunaan pupuk dapat mengubah laju siklus biogeokimia. Dampaknya dapat muncul sebagai perubahan iklim, eutrofikasi, dan penurunan kualitas air.
-BAB 8 — CUACA DAN IKLIM
+BAB 10 — CUACA DAN IKLIM
 Cuaca menggambarkan kondisi atmosfer dalam waktu relatif singkat, sedangkan iklim merangkum pola jangka panjang. Suhu, tekanan, kelembapan, angin, dan curah hujan saling berinteraksi. Satu kejadian cuaca ekstrem tidak cukup untuk menyimpulkan perubahan iklim, tetapi catatan jangka panjang dapat menunjukkan perubahan peluang kejadian.
 Variabilitas alami dan pengaruh manusia dapat bekerja bersamaan. Analisis iklim menggunakan pengamatan, model, dan perbandingan periode.
-BAB 9 — EFEK RUMAH KACA DAN PEMANASAN GLOBAL
+BAB 11 — EFEK RUMAH KACA DAN PEMANASAN GLOBAL
 Gas rumah kaca menyerap dan memancarkan radiasi inframerah sehingga membantu menjaga suhu Bumi. Peningkatan konsentrasi gas tertentu akibat kegiatan manusia memperkuat efek rumah kaca dan menaikkan suhu rata-rata global.
 Dampak mencakup perubahan pola hujan, kenaikan muka laut, tekanan pada ekosistem, serta risiko kesehatan. Besarnya dampak berbeda menurut wilayah dan kemampuan adaptasi masyarakat.
-BAB 10 — KEANEKARAGAMAN DAN JASA EKOSISTEM
+BAB 12 — KEANEKARAGAMAN DAN JASA EKOSISTEM
 Ekosistem menyediakan jasa seperti penyerbukan, pengaturan air, pembentukan tanah, penyimpanan karbon, pangan, dan rekreasi. Keanekaragaman hayati membantu menjaga fungsi ekosistem, meskipun hubungan antara jumlah spesies dan ketahanan bergantung pada konteks.
 Fragmentasi habitat, polusi, eksploitasi berlebihan, spesies invasif, dan perubahan iklim merupakan tekanan utama. Konservasi perlu menggabungkan data ekologi dan pengetahuan masyarakat lokal.
-BAB 11 — MITIGASI DAN ADAPTASI
+BAB 13 — MITIGASI DAN ADAPTASI
 Mitigasi mengurangi sumber emisi atau meningkatkan penyerapannya. Adaptasi mengurangi kerentanan terhadap dampak yang telah terjadi atau diperkirakan. Contoh adaptasi meliputi tata ruang yang memperhitungkan banjir, perlindungan pesisir, dan sistem peringatan dini.
 Tidak semua solusi cocok untuk semua tempat. Kebijakan perlu mempertimbangkan biaya, keadilan, akses, serta dampak samping. Peralihan energi dan transportasi memerlukan perencanaan yang memperhatikan pekerja dan komunitas terdampak.
-BAB 12 — MEMBACA DATA LINGKUNGAN
+BAB 14 — MEMBACA DATA LINGKUNGAN
 Data lingkungan dapat berasal dari stasiun pengamatan, satelit, survei lapangan, dan model. Perhatikan satuan, rentang waktu, lokasi, metode, dan ketidakpastian. Peta warna dapat menonjolkan pola, tetapi kelas warna dan skala harus diperiksa.
 Ketika membandingkan dua lokasi, pastikan metode pengukuran sebanding. Data yang hilang dan perubahan alat ukur dapat memengaruhi tren.
 LATIHAN

@@ -6,24 +6,24 @@ DESKRIPSI
 Memahami kenyamanan termal, pencahayaan, ventilasi, beban energi, dan desain efisien.
 
 PENDAHULUAN
-Buku Pengantar Energi Bangunan membahas memahami kenyamanan termal, pencahayaan, ventilasi, beban energi, dan desain efisien.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini mengulas hubungan desain bangunan dengan kebutuhan energi, kenyamanan termal, pencahayaan, ventilasi, dan kualitas udara dalam ruang. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
 
 BAB 1. BANGUNAN DAN ENERGI
 
 Bangunan menggunakan energi untuk pencahayaan, pendinginan, pemanasan, peralatan, dan layanan lain. Kebutuhan dipengaruhi iklim, orientasi, luas selubung, jumlah penghuni, dan pola penggunaan. Analisis dimulai dengan memahami kebutuhan nyata.
 
 PENDALAMAN
-Pada BANGUNAN DAN ENERGI, pisahkan hasil pengamatan dari penjelasan. Tentukan faktor yang diukur, kondisi yang memengaruhinya, serta bukti yang mendukung kesimpulan. Jelaskan batas model atau metode yang digunakan dan data tambahan yang diperlukan.
+Pada BANGUNAN DAN ENERGI, mulai dengan membuat daftar pemakaian energi: pencahayaan, pendinginan, kipas, dan peralatan. Catat waktu penggunaan serta kondisi ruang. Bandingkan kebutuhan penghuni dengan pola pemakaian sebelum mengusulkan penghematan.
 
 CONTOH PENERAPAN
 Contoh kajian: pilih kasus sederhana yang berkaitan dengan BANGUNAN DAN ENERGI dalam bidang Pengantar Energi Bangunan. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
 
 LATIHAN
-1. Apa konsep utama dalam BANGUNAN DAN ENERGI?
-2. Bagaimana hubungan konsep tersebut dengan bagian lain dalam buku?
-3. Berikan penerapan baru dan jelaskan langkah berpikirmu.
-4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
-5. Bukti apa yang dapat memperkuat jawabanmu?
+1. Jelaskan tiga faktor desain yang memengaruhi kebutuhan energi bangunan.
+2. Bedakan perpindahan panas secara konduksi, konveksi, dan radiasi.
+3. Mengapa ventilasi perlu mempertimbangkan kualitas udara luar?
+4. Jelaskan cara mengurangi silau tanpa menghilangkan seluruh cahaya alami.
+5. Buat rencana pengamatan sederhana untuk mengenali pemborosan energi di satu ruang.
 
 BAB 2. PANAS DAN KENYAMANAN
 

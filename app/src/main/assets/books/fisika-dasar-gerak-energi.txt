@@ -2020,4 +2020,64 @@ Naskah ini mencakup pengantar, susunan materi, pembahasan konsep, contoh hitunga
 
 Penyuntingan akhir tetap perlu memeriksa konsistensi notasi, ejaan, akurasi persamaan, keterbacaan, lisensi ilustrasi, dan kecocokan tingkat pembaca. Setiap ilustrasi tambahan harus dibuat sendiri atau digunakan dengan izin yang sesuai. Rujukan perlu diverifikasi kembali sebelum publikasi.
 
+
+LAMPIRAN F — PENGAYAAN PEMECAHAN MASALAH
+
+CONTOH TERPADU 1 — MENGGABUNGKAN KINEMATIKA DAN DINAMIKA
+
+Sebuah model benda bermassa 4 kg mengalami resultan gaya konstan 8 N pada garis lurus. Jika mula-mula diam, tentukan percepatan dan kecepatan setelah 6 sekon.
+Penyelesaian: Dari Hukum II Newton, a = F/m = 8/4 = 2 m/s². Karena gaya dan massa tetap dalam model, percepatan konstan. Kecepatan akhir v = v₀ + at = 0 + 2 × 6 = 12 m/s. Jawaban konsisten dengan satuan dan arah resultan gaya.
+
+CONTOH TERPADU 2 — ENERGI DAN PERUBAHAN KETINGGIAN
+
+Sebuah benda bermassa 1,5 kg berpindah dari ketinggian 2 m ke 7 m. Gunakan g = 10 m/s². Tentukan perubahan energi potensial gravitasi.
+Penyelesaian: ΔEp = mg(h₂ − h₁) = 1,5 × 10 × (7 − 2) = 75 J. Energi potensial bertambah 75 J. Hasil tidak memerlukan pemilihan nilai nol energi potensial karena yang dihitung adalah perubahan.
+
+CONTOH TERPADU 3 — IMPULS DARI PERUBAHAN KECEPATAN
+
+Benda bermassa 0,5 kg berubah kecepatan dari 2 m/s ke kanan menjadi 4 m/s ke kiri. Ambil arah kanan positif. Tentukan perubahan momentumnya.
+Penyelesaian: Kecepatan awal +2 m/s dan kecepatan akhir −4 m/s. Δp = m(v akhir − v awal) = 0,5(−4 − 2) = −3 kg m/s. Tanda negatif menunjukkan perubahan momentum ke kiri. Besar impuls adalah 3 N s ke kiri.
+
+CONTOH TERPADU 4 — TEKANAN DAN LUAS
+
+Gaya tegak lurus 300 N bekerja pada bidang seluas 0,15 m². Tentukan tekanan rata-rata.
+Penyelesaian: p = F/A = 300/0,15 = 2.000 Pa. Jika luas diperkecil dengan gaya tetap, tekanan meningkat. Namun, distribusi gaya nyata dapat tidak merata sehingga tekanan lokal mungkin berbeda dari nilai rata-rata.
+
+CONTOH TERPADU 5 — ENERGI LISTRIK DAN BIAYA
+
+Perangkat ideal berdaya 0,08 kW digunakan selama 5 jam. Tentukan energi listrik yang dipakai.
+Penyelesaian: E = P t = 0,08 × 5 = 0,4 kWh. Untuk memperkirakan biaya, kalikan energi dengan tarif per kWh yang berlaku dan tambahkan komponen tagihan lain jika ada. Tarif harus diperiksa dari sumber resmi pada periode penggunaan.
+
+CONTOH TERPADU 6 — MENILAI HASIL EKSPERIMEN
+
+Sebuah kelompok mengukur periode ayunan sebanyak lima kali dan mendapatkan nilai yang sedikit berbeda. Mereka ingin melaporkan satu nilai. Langkah yang wajar adalah menghitung rata-rata, melihat sebaran, memeriksa apakah ada pencatatan yang keliru, dan menyebut resolusi alat. Jangan membuang hasil hanya karena tidak sesuai harapan. Jika ada alasan teknis kuat untuk mengecualikan satu pengukuran, alasan itu harus ditulis secara transparan.
+
+CONTOH TERPADU 7 — MEMERIKSA DIMENSI PERSAMAAN
+
+Seseorang mengusulkan persamaan jarak s = v + at². Periksa konsistensi dimensinya.
+Penyelesaian: Dimensi s adalah panjang [L]. Dimensi v adalah [L][T]⁻¹, sedangkan at² adalah [L][T]⁻²[T]² = [L]. Suku v dan at² memiliki dimensi berbeda sehingga tidak dapat dijumlahkan langsung. Persamaan tersebut tidak konsisten secara dimensi. Bentuk posisi GLBB yang benar memuat v₀t, bukan v₀ saja.
+
+CONTOH TERPADU 8 — MEMILIH MODEL YANG TEPAT
+
+Sebuah bola menggelinding di permukaan kasar. Apakah model bidang licin dapat langsung digunakan?
+Pembahasan: Tidak tanpa alasan. Gesekan dapat memengaruhi gerak translasi dan rotasi. Jika tujuan hanya perkiraan awal, model licin mungkin dipakai sebagai pendekatan dengan menyatakan batasnya. Untuk prediksi lebih akurat, gaya gesek dan kondisi kontak perlu dianalisis.
+
+CONTOH TERPADU 9 — MEMBACA HUBUNGAN FREKUENSI DAN PERIODE
+
+Sumber bergetar 50 kali dalam 10 sekon. Tentukan frekuensi dan periode.
+Penyelesaian: f = 50/10 = 5 Hz. Periode T = 1/f = 0,2 s. Frekuensi menyatakan banyak getaran tiap sekon, sedangkan periode menyatakan waktu satu getaran.
+
+CONTOH TERPADU 10 — MENYIMPULKAN DENGAN HATI-HATI
+
+Data simulasi menunjukkan suhu ruang meningkat ketika intensitas cahaya meningkat. Apakah data tersebut membuktikan cahaya satu-satunya penyebab kenaikan suhu?
+Pembahasan: Belum. Suhu awal, ventilasi, sifat permukaan, waktu pengamatan, dan sumber panas lain dapat berpengaruh. Untuk menilai hubungan, variabel lain perlu dikendalikan atau dicatat. Kesimpulan sebaiknya menyebut bahwa terdapat hubungan pada kondisi simulasi yang diuji, bukan klaim sebab tunggal.
+
+RANGKUMAN AKHIR PEMBELAJARAN
+
+Pembaca telah mempelajari cara menyatakan besaran, menggunakan satuan, memodelkan gerak, menghubungkan gaya dan percepatan, serta menerapkan kekekalan energi dan momentum. Materi berkembang ke rotasi, fluida, kalor, gelombang, optika, listrik, magnet, fisika modern, dan metode penelitian.
+
+Benang merah seluruh materi adalah hubungan antara model dan bukti. Model yang baik menjelaskan pola, membuat prediksi, dan menyatakan batas berlakunya. Pengukuran yang baik menjelaskan alat, metode, satuan, serta ketidakpastian. Kesimpulan yang baik tidak melebihi kekuatan data.
+
+Fisika terus berkembang melalui pertanyaan baru dan pengujian yang lebih teliti. Pembaca tidak diharapkan menguasai seluruh bidang hanya dari satu buku pengantar. Tujuan naskah ini adalah memberi peta konsep dan dasar penalaran agar pembelajaran lanjutan dapat dilakukan secara lebih terarah.
+
 Akhir buku.

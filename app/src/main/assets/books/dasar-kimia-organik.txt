@@ -174,3 +174,40 @@ Stereokimia: Kajian susunan tiga dimensi atom dalam molekul.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Gunakan buku ajar dan sumber lembaga kompeten untuk pendalaman. Catat sumber, tahun, dan bagian yang dirujuk. Untuk informasi yang terus berkembang, periksa edisi dan tanggal pembaruan sebelum mengutip.
+
+BAB LANJUTAN: GUGUS FUNGSI DAN SIFAT SENYAWA
+
+Gugus fungsi adalah bagian struktur molekul yang sangat memengaruhi reaktivitas dan sifat fisik senyawa organik. Alkohol memiliki gugus hidroksil, aldehida dan keton memiliki gugus karbonil, asam karboksilat memiliki gugus karboksil, sedangkan ester dan amina memiliki pola ikatan khas. Identifikasi gugus fungsi membantu memperkirakan jenis interaksi antarmolekul dan reaksi yang mungkin terjadi.
+
+Sifat fisik tidak hanya ditentukan massa molekul. Kepolaran, kemampuan membentuk ikatan hidrogen, bentuk molekul, dan luas permukaan memengaruhi titik didih, kelarutan, dan viskositas. Perbandingan harus dilakukan pada kondisi yang sama dan mempertimbangkan struktur keseluruhan.
+
+BAB LANJUTAN: ISOMER DAN REPRESENTASI STRUKTUR
+
+Isomer memiliki rumus molekul sama tetapi susunan atom atau orientasi ruang berbeda. Isomer struktur berbeda dalam cara atom terhubung, sedangkan stereoisomer memiliki konektivitas sama tetapi susunan ruang berbeda. Perbedaan ini dapat memengaruhi sifat, reaktivitas, dan interaksi biologis.
+
+Representasi garis, rumus struktur lengkap, dan model ruang menyajikan informasi dengan tingkat detail berbeda. Saat membaca struktur, periksa jumlah ikatan, muatan formal, pasangan elektron, serta kemungkinan stereokimia. Model dua dimensi dapat menyederhanakan bentuk tiga dimensi sehingga perlu dibaca dengan aturan yang tepat.
+
+BAB LANJUTAN: MEKANISME REAKSI ORGANIK
+
+Mekanisme reaksi menjelaskan bagaimana ikatan diputus dan dibentuk melalui tahapan. Panah lengkung digunakan untuk menunjukkan perpindahan pasangan elektron, bukan perpindahan atom secara sembarang. Analisis mekanisme mempertimbangkan nukleofil, elektrofil, gugus pergi, pelarut, suhu, dan struktur substrat.
+
+Persamaan reaksi keseluruhan tidak selalu menunjukkan seluruh proses. Intermediat dapat terbentuk lalu berubah pada tahap berikutnya. Penjelasan mekanisme harus konsisten dengan konservasi atom dan muatan, serta didukung bukti eksperimen bila tersedia.
+
+BAB LANJUTAN: POLIMER DAN KIMIA KEHIDUPAN
+
+Polimer tersusun dari unit berulang yang terhubung melalui ikatan kimia. Sifatnya dipengaruhi panjang rantai, percabangan, ikatan silang, kristalinitas, dan interaksi antarrantai. Polimer alam dan sintetis memiliki peran luas, mulai dari struktur biologis hingga bahan kemasan dan komponen teknologi.
+
+Biomolekul seperti karbohidrat, lipid, protein, dan asam nukleat memiliki struktur serta fungsi yang saling terkait. Perubahan kondisi seperti suhu dan pH dapat mengubah struktur dan aktivitas beberapa biomolekul. Pemahaman kimia organik membantu menjelaskan proses biologis tanpa menyederhanakan sistem kehidupan menjadi satu reaksi saja.
+
+BAB LANJUTAN: KESELAMATAN, LINGKUNGAN, DAN KIMIA HIJAU
+
+Praktik kimia yang bertanggung jawab mengutamakan pencegahan bahaya, penggunaan bahan secukupnya, pengurangan limbah, dan pemilihan proses yang lebih aman. Penilaian risiko mempertimbangkan sifat bahan, jumlah, rute paparan, durasi, dan kondisi kerja. Informasi keselamatan harus berasal dari lembar data keselamatan dan prosedur lembaga yang berwenang.
+
+Kimia hijau mendorong rancangan reaksi yang lebih efisien, penggunaan pelarut yang lebih aman, katalisis, bahan baku terbarukan jika sesuai, serta penghematan energi. Suatu proses tidak otomatis ramah lingkungan hanya karena satu bahan diganti; seluruh siklus hidup dan produk samping perlu dipertimbangkan.
+
+LATIHAN AKHIR
+1. Hubungkan gugus fungsi dengan sifat fisik senyawa.
+2. Bedakan isomer struktur dan stereoisomer.
+3. Jelaskan fungsi panah lengkung dalam mekanisme reaksi.
+4. Sebutkan faktor yang memengaruhi sifat polimer.
+5. Berikan contoh penerapan prinsip kimia hijau.

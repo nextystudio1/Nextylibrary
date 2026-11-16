@@ -6,7 +6,7 @@ DESKRIPSI
 Melatih penalaran, pola, argumen, strategi pemecahan masalah, keputusan, dan evaluasi solusi.
 
 TUJUAN PEMBELAJARAN
-Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan konsep utama, menghubungkannya dengan situasi sehari-hari, mengevaluasi informasi, dan menerapkan langkah yang bertanggung jawab.
+Setelah mempelajari Logika dan Pemecahan Masalah, pembaca mampu menjelaskan melatih penalaran, pola, argumen, strategi pemecahan masalah, keputusan, dan evaluasi solusi., membedakan istilah yang sering tertukar, menilai contoh berdasarkan bukti, dan menerapkan konsep secara tepat sesuai konteks.
 
 BAB 1. MASALAH, TUJUAN, DAN BATASAN
 
@@ -14,16 +14,18 @@ Pemecahan masalah dimulai dengan mendefinisikan keadaan yang ingin dicapai dan k
 
 Contoh: tugas kelompok terlambat bukan sekadar masalah 'anggota malas'. Periksa pembagian peran, kejelasan tenggat, ketersediaan bahan, komunikasi, dan ukuran tugas. Definisi masalah yang lebih baik membuka lebih banyak pilihan solusi.
 
-RANGKUMAN BAB
-- Pahami konsep inti dan konteks penerapannya.
-- Periksa asumsi sebelum mengambil kesimpulan.
-- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+RANGKUMAN
+- MASALAH, TUJUAN, DAN BATASAN: pahami istilah dan prinsip yang menjadi dasar pembahasan.
+- Perhatikan hubungan proses, keputusan, dan akibat yang dijelaskan dalam bab.
+- Gunakan contoh untuk menguji apakah konsep dipahami dengan benar.
+- Nyatakan batas informasi sebelum membuat kesimpulan.
 
-LATIHAN BAB 1
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti MASALAH, TUJUAN, DAN BATASAN dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Logika dan Pemecahan Masalah.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 2. POLA DAN ABSTRAKSI
 
@@ -31,11 +33,12 @@ Pola adalah keteraturan yang dapat membantu memperkirakan atau menjelaskan sesua
 
 Saat menyusun jadwal, kita tidak perlu memasukkan setiap detail kecil. Cukup gunakan waktu, prioritas, durasi, dan batas kegiatan. Namun, abstraksi yang terlalu jauh dapat menghilangkan faktor penting. Periksa kembali apakah model masih mewakili keadaan nyata.
 
-LATIHAN BAB 2
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti POLA DAN ABSTRAKSI dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Logika dan Pemecahan Masalah.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 3. ARGUMEN DAN BUKTI
 
@@ -43,11 +46,12 @@ Argumen terdiri atas klaim, alasan, dan bukti. Klaim menyatakan apa yang diyakin
 
 Uji apakah bukti relevan, cukup, dan dapat diperiksa. Bedakan korelasi dengan sebab-akibat. Jika dua hal muncul bersamaan, mungkin ada faktor ketiga yang memengaruhi keduanya. Gunakan kata 'mungkin' ketika bukti belum cukup untuk kesimpulan pasti.
 
-LATIHAN BAB 3
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti ARGUMEN DAN BUKTI dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Logika dan Pemecahan Masalah.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 4. STRATEGI PEMECAHAN
 
@@ -55,11 +59,12 @@ Strategi umum meliputi memecah masalah menjadi bagian kecil, membuat daftar kemu
 
 Jika masalah besar terasa sulit, pecah menjadi langkah yang dapat diuji. Tentukan hasil yang diharapkan pada tiap langkah. Setelah satu langkah berhasil, catat apa yang dipelajari dan sesuaikan rencana.
 
-LATIHAN BAB 4
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti STRATEGI PEMECAHAN dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Logika dan Pemecahan Masalah.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 5. KEPUTUSAN DAN KETIDAKPASTIAN
 
@@ -67,11 +72,12 @@ Keputusan sering dibuat dengan informasi terbatas. Buat beberapa alternatif, per
 
 Gunakan skenario terbaik, paling mungkin, dan terburuk untuk melihat rentang kemungkinan. Hindari rasa yakin berlebihan. Jika keputusan dapat dibatalkan, uji dalam skala kecil. Jika sulit dibatalkan, kumpulkan informasi lebih banyak dan mintalah masukan.
 
-LATIHAN BAB 5
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti KEPUTUSAN DAN KETIDAKPASTIAN dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Logika dan Pemecahan Masalah.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 6. EVALUASI DAN BELAJAR DARI KESALAHAN
 
@@ -79,11 +85,12 @@ Solusi perlu dievaluasi berdasarkan tujuan awal. Apakah masalah berkurang? Apaka
 
 Buat catatan singkat tentang masalah, strategi, hasil, dan pelajaran. Dengan cara ini, pengalaman menjadi pengetahuan yang dapat digunakan kembali. Jangan hanya menilai hasil akhir; nilai juga proses, kerja sama, dan kejujuran dalam melaporkan hasil.
 
-LATIHAN BAB 6
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti EVALUASI DAN BELAJAR DARI KESALAHAN dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Logika dan Pemecahan Masalah.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 EVALUASI AKHIR
 1. Pilih tiga konsep dari buku ini dan jelaskan hubungan di antara ketiganya.
@@ -93,7 +100,7 @@ EVALUASI AKHIR
 5. Refleksikan bagian yang paling sulit dipahami serta strategi belajar yang akan digunakan untuk memperbaikinya.
 
 PEMBAHASAN DAN ARAH JAWABAN
-Jawaban yang baik menyebutkan konsep secara tepat, memberikan alasan, memakai contoh yang relevan, dan mengakui keterbatasan informasi. Untuk soal studi kasus, beberapa jawaban dapat diterima selama logis, aman, etis, dan didukung bukti. Untuk pemeriksaan klaim, utamakan sumber primer atau lembaga yang kompeten dan bedakan fakta dari opini.
+Pembahasan Logika dan Pemecahan Masalah harus memperlihatkan alur berpikir: konsep yang dipilih, alasan penerapannya, bukti pendukung, dan batas kesimpulan. Pada soal kasus, nilai kecocokan solusi dengan kondisi. Pada soal verifikasi, periksa asal informasi dan konteksnya.
 
 GLOSARIUM
 Abstraksi: Pemilihan rincian yang relevan untuk memahami masalah.

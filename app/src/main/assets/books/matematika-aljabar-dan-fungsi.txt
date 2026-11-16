@@ -468,3 +468,61 @@ Komposisi fungsi: penerapan suatu fungsi pada hasil fungsi lain.
 Fungsi invers: fungsi yang membalik pemetaan fungsi asal.
 Barisan aritmetika: barisan dengan beda tetap.
 Barisan geometri: barisan dengan rasio tetap.
+
+
+BAB PENGAYAAN 1 — PERSAMAAN DAN PERTIDAKSAMAAN LINEAR
+
+Persamaan linear satu variabel memiliki bentuk umum ax + b = c, dengan a tidak sama dengan nol. Tujuan penyelesaian adalah menemukan nilai variabel yang membuat kedua ruas bernilai sama. Operasi yang dilakukan pada satu ruas harus dilakukan pula pada ruas lain agar kesetaraan tetap terjaga. Contoh: 3x + 5 = 20. Kurangi kedua ruas dengan 5 sehingga 3x = 15, lalu bagi kedua ruas dengan 3 sehingga x = 5. Substitusi kembali memberi 3(5)+5 = 20.
+
+Pertidaksamaan menggunakan tanda lebih kecil, lebih besar, kurang dari atau sama dengan, dan lebih dari atau sama dengan. Aturan penting: jika kedua ruas dikalikan atau dibagi bilangan negatif, arah tanda pertidaksamaan dibalik. Misalnya -2x < 8. Membagi dengan -2 menghasilkan x > -4. Pemeriksaan dengan nilai contoh membantu memastikan arah tanda sudah benar.
+
+BAB PENGAYAAN 2 — SISTEM PERSAMAAN LINEAR
+
+Sistem dua persamaan linear dua variabel mencari pasangan nilai yang memenuhi kedua persamaan sekaligus. Metode substitusi menyatakan satu variabel dalam variabel lain, kemudian menggantinya pada persamaan kedua. Metode eliminasi menjumlahkan atau mengurangkan persamaan untuk menghilangkan satu variabel. Metode grafik mencari titik perpotongan dua garis.
+
+Contoh: x + y = 10 dan x - y = 2. Menjumlahkan kedua persamaan menghasilkan 2x = 12 sehingga x = 6. Substitusi ke persamaan pertama menghasilkan y = 4. Pasangan (6,4) memenuhi kedua persamaan. Dalam konteks nyata, sistem persamaan dapat memodelkan dua jenis barang dengan jumlah dan harga total yang diketahui.
+
+Sistem dapat memiliki satu solusi, tidak memiliki solusi, atau memiliki tak hingga banyak solusi. Dua garis yang berpotongan memiliki satu solusi; dua garis sejajar berbeda tidak berpotongan; dua persamaan yang menggambarkan garis sama memiliki tak hingga banyak solusi. Memeriksa konsistensi data sangat penting sebelum menafsirkan hasil.
+
+BAB PENGAYAAN 3 — FUNGSI KUADRAT DAN DISKRIMINAN
+
+Fungsi kuadrat berbentuk f(x) = ax² + bx + c dengan a tidak sama dengan nol. Grafiknya parabola. Sumbu simetri berada pada x = -b/(2a), sedangkan koordinat y titik puncak diperoleh dengan memasukkan nilai x tersebut ke fungsi. Jika a positif, titik puncak merupakan nilai minimum; jika a negatif, titik puncak merupakan nilai maksimum.
+
+Diskriminan D = b² - 4ac menentukan jumlah akar real persamaan kuadrat. Jika D positif, terdapat dua akar real berbeda; jika D nol, terdapat satu akar real kembar; jika D negatif, tidak terdapat akar real. Rumus kuadrat x = (-b ± √D)/(2a) dapat digunakan untuk menyelesaikan persamaan ketika pemfaktoran tidak mudah.
+
+BAB PENGAYAAN 4 — EKSPONEN DAN LOGARITMA
+
+Eksponen menyatakan perkalian berulang dengan basis yang sama. Untuk basis bukan nol, aturan a^m × a^n = a^(m+n), a^m/a^n = a^(m-n), dan (a^m)^n = a^(mn) membantu menyederhanakan bentuk. Pangkat nol bernilai satu untuk basis bukan nol. Pangkat negatif menyatakan kebalikan, sehingga a^-n = 1/a^n.
+
+Logaritma adalah operasi kebalikan eksponen. Jika a^x = b, maka log basis a dari b sama dengan x, dengan syarat a positif dan tidak sama dengan satu serta b positif. Logaritma digunakan untuk menyelesaikan persamaan eksponensial dan menggambarkan skala yang rentangnya sangat lebar, misalnya skala pH dan magnitudo tertentu.
+
+BAB PENGAYAAN 5 — BARISAN, DERET, DAN POLA
+
+Barisan aritmetika memiliki beda tetap antara suku berurutan. Suku ke-n dapat dihitung dengan a_n = a_1 + (n-1)d. Jumlah n suku pertama adalah S_n = n/2 (a_1+a_n). Barisan geometri memiliki rasio tetap, sehingga a_n = a_1 r^(n-1). Untuk r tidak sama dengan satu, jumlah n suku pertama adalah S_n = a_1(1-r^n)/(1-r).
+
+Model barisan digunakan untuk tabungan berkala, pola susunan, dan pertumbuhan sederhana. Namun model matematika selalu memiliki asumsi. Pertumbuhan geometri tidak dapat berlangsung tanpa batas dalam lingkungan yang memiliki sumber daya terbatas. Gunakan rumus untuk memahami pola, lalu periksa apakah asumsi masih sesuai dengan keadaan nyata.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Selesaikan 4x - 7 = 13.
+Jawaban: 4x = 20, sehingga x = 5.
+2. Selesaikan -3x ≥ 12.
+Jawaban: bagi dengan -3 dan balik tanda, sehingga x ≤ -4.
+3. Selesaikan sistem x+y=9 dan x-y=3.
+Jawaban: x=6 dan y=3.
+4. Tentukan diskriminan x²-6x+9=0.
+Jawaban: D=36-36=0, sehingga satu akar kembar.
+5. Tentukan suku ke-8 barisan 2, 5, 8, 11, ...
+Jawaban: a8=2+7(3)=23.
+
+GLOSARIUM TAMBAHAN
+Persamaan linear: persamaan dengan variabel berpangkat satu.
+Pertidaksamaan: pernyataan perbandingan dua bentuk matematika.
+Sistem persamaan: kumpulan persamaan yang harus dipenuhi bersamaan.
+Diskriminan: nilai yang menentukan sifat akar persamaan kuadrat.
+Parabola: kurva grafik fungsi kuadrat.
+Eksponen: bentuk perpangkatan.
+Logaritma: operasi kebalikan eksponen.
+Barisan aritmetika: barisan dengan beda tetap.
+Barisan geometri: barisan dengan rasio tetap.
+Deret: jumlah suku-suku suatu barisan.

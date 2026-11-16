@@ -62,12 +62,26 @@ CATATAN PENULIS
 Biologi sel terus berkembang. Istilah dan model pada buku ini merupakan pengantar, bukan pengganti sumber ilmiah tingkat lanjut.
 
 PENDALAMAN MATERI: SEL, GEN, DAN KEHIDUPAN
-BAB 7 — MEMBRAN DAN LALU LINTAS ZAT
-Membran plasma tersusun terutama atas lapisan ganda fosfolipid dengan protein yang tertanam atau menempel. Susunan ini membuat membran bersifat selektif: sebagian zat dapat lewat dengan mudah, sedangkan zat lain memerlukan protein pembawa atau saluran. Difusi adalah perpindahan bersih partikel mengikuti gradien konsentrasi. Osmosis merupakan perpindahan air melalui membran selektif.
-Transpor pasif tidak memerlukan energi metabolik langsung, sedangkan transpor aktif menggunakan energi untuk memindahkan zat melawan gradien elektrokimia. Pompa ion membantu mempertahankan perbedaan konsentrasi yang penting bagi fungsi sel saraf dan otot. Endositosis dan eksositosis memindahkan bahan dalam vesikel.
-BAB 8 — ORGANEL DAN KERJA SAMA SEL
-Nukleus menyimpan sebagian besar DNA pada sel eukariotik dan mengatur aktivitas melalui pengendalian ekspresi gen. Ribosom merangkai asam amino menjadi protein. Retikulum endoplasma kasar berperan dalam sintesis protein tertentu, sedangkan retikulum halus terlibat dalam sintesis lipid dan detoksifikasi. Badan Golgi memodifikasi, memilah, dan mengemas molekul.
-Mitokondria menjalankan tahapan penting respirasi seluler untuk menghasilkan ATP. Kloroplas pada tumbuhan dan alga menangkap energi cahaya untuk fotosintesis. Lisosom membantu menguraikan bahan, sementara sitoskeleton mempertahankan bentuk dan membantu pergerakan serta transport internal. Organel bekerja sebagai sistem yang saling bergantung.
+BAB 7 — SITOSKELETON, BENTUK, DAN PERGERAKAN SEL
+Sitoskeleton adalah jaringan serat protein yang membantu mempertahankan bentuk sel, mengatur posisi organel, dan memungkinkan pergerakan. Tiga komponen utamanya ialah mikrofilamen aktin, filamen intermediat, dan mikrotubulus. Ketiganya berbeda dalam ukuran, susunan, dan fungsi, tetapi bekerja bersama sebagai kerangka dinamis, bukan rangka kaku.
+
+Mikrofilamen aktin berperan dalam perubahan bentuk permukaan sel, pergerakan sel tertentu, dan proses penyempitan saat sitoplasma membelah. Filamen intermediat memberi ketahanan mekanis sehingga sel dan jaringan tidak mudah rusak ketika menerima tarikan. Mikrotubulus menjadi jalur bagi protein motor yang mengangkut vesikel dan organel. Mikrotubulus juga membentuk struktur silia, flagela, dan gelendong pembelahan.
+
+Contoh hubungan struktur dan fungsi dapat dilihat pada sel epitel yang melapisi permukaan tubuh. Sel-sel tersebut saling terhubung dan memerlukan dukungan mekanis agar lapisan tetap utuh. Pada sel saraf, bentuk panjang membantu penghantaran sinyal ke lokasi yang jauh. Bentuk sel bukan hiasan; bentuk tersebut berkaitan dengan tugas yang dijalankan.
+
+Pergerakan di dalam sel membutuhkan koordinasi. Protein motor menggunakan energi dari ATP untuk bergerak sepanjang serat sitoskeleton sambil membawa muatan. Karena itu, gangguan pada protein motor atau struktur serat dapat menghambat distribusi bahan dan fungsi jaringan. Pemahaman ini menunjukkan bahwa organel, sitoskeleton, dan membran membentuk sistem yang terintegrasi.
+
+BAB 8 — KOMUNIKASI DAN PENGENALAN ANTARSEL
+Sel tidak bekerja sendiri. Pada organisme multiseluler, sel menerima sinyal kimia atau fisik dari lingkungan dan sel lain. Sinyal dapat berupa hormon, molekul pembawa pesan lokal, zat yang dilepaskan neuron, atau kontak langsung antarsel. Komunikasi membantu mengoordinasikan pertumbuhan, metabolisme, respons, dan pemeliharaan jaringan.
+
+Pada komunikasi berbasis reseptor, molekul sinyal berikatan dengan reseptor yang sesuai. Reseptor dapat berada di permukaan membran atau di dalam sel, bergantung pada sifat molekul sinyal. Ikatan tersebut mengubah aktivitas protein atau rangkaian reaksi di dalam sel. Proses dari penerimaan sinyal hingga munculnya respons disebut transduksi sinyal.
+
+Respons sel sangat beragam. Sel dapat membuka atau menutup saluran ion, mengubah aktivitas enzim, mengaktifkan ekspresi gen, atau mengeluarkan molekul tertentu. Satu sinyal yang sama dapat menimbulkan respons berbeda pada jenis sel yang berbeda karena setiap sel memiliki reseptor dan perangkat molekuler yang tidak selalu sama.
+
+Sel juga mengenali lingkungan melalui molekul pada permukaannya. Protein dan karbohidrat membran membantu pengenalan, perlekatan, dan komunikasi. Pada jaringan, sambungan antarsel menjaga kekuatan mekanis, membatasi perpindahan zat di antara sel, atau membentuk jalur komunikasi. Matriks ekstraseluler menyediakan dukungan sekaligus memberi sinyal yang memengaruhi perilaku sel.
+
+Contoh sederhana adalah pengaturan kadar glukosa darah. Hormon tertentu berikatan dengan reseptor pada sel sasaran dan memicu perubahan pengambilan atau penyimpanan glukosa. Contoh ini memperlihatkan bahwa kestabilan tubuh bergantung pada komunikasi antarsel, bukan kerja satu organ saja. Istilah dan jalur molekuler pada contoh ini merupakan pengantar; respons tubuh nyata melibatkan banyak jaringan dan mekanisme umpan balik.
+
 BAB 9 — DNA, RNA, DAN EKSPRESI GEN
 DNA menyimpan informasi genetik dalam urutan nukleotida. Replikasi menyalin DNA sebelum pembelahan sel. Dalam proses transkripsi, informasi pada gen disalin menjadi RNA. Pada banyak gen pengode protein, RNA kemudian diterjemahkan oleh ribosom menjadi urutan asam amino.
 Tidak semua DNA mengode protein. Bagian pengatur dan berbagai RNA nonpengode turut memengaruhi kapan dan seberapa kuat gen diekspresikan. Perubahan urutan DNA disebut mutasi; dampaknya dapat netral, merugikan, atau dalam konteks tertentu menguntungkan. Lingkungan dan regulasi gen juga memengaruhi ciri organisme.

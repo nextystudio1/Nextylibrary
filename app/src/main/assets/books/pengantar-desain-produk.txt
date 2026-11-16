@@ -1,0 +1,212 @@
+Pengantar Desain Produk
+Penulis: Nexty Studio
+Buku pembelajaran orisinal NextyLibrary
+
+DESKRIPSI
+Mengenal kebutuhan pengguna, fungsi, bentuk, prototipe, bahan, pengujian, dan keberlanjutan produk.
+
+PETA BELAJAR
+Buku ini membangun pemahaman bertahap: mulai dari istilah, prinsip, contoh, penerapan, hingga evaluasi. Bacalah bab secara berurutan dan tuliskan pertanyaan yang muncul.
+
+BAB 1. DESAIN BERPUSAT PADA PENGGUNA
+
+Desain produk dimulai dengan memahami masalah dan pengguna, bukan langsung menggambar bentuk. Pengamatan, wawancara, dan pemetaan perjalanan pengguna dapat mengungkap kebutuhan yang belum terpenuhi. Pernyataan masalah yang baik spesifik, tidak terlalu cepat mengunci solusi, dan dapat diuji.
+
+PENDALAMAN KONSEP
+Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
+
+CONTOH KAJIAN
+Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
+
+LANGKAH PRAKTIK
+1. Tuliskan pertanyaan yang ingin dijawab.
+2. Kumpulkan informasi dari sumber yang dapat diperiksa.
+3. Kelompokkan fakta, pendapat, dan dugaan.
+4. Terapkan konsep bab ini untuk menyusun penjelasan.
+5. Periksa apakah kesimpulan sesuai bukti.
+
+RANGKUMAN BAB
+- Kuasai istilah inti dan maknanya.
+- Pahami proses, bukan hanya menghafal nama.
+- Gunakan contoh relevan dan jelaskan konteksnya.
+- Sebutkan keterbatasan informasi ketika bukti belum cukup.
+
+LATIHAN PEMAHAMAN
+1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
+3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
+4. Buat satu pertanyaan lanjutan yang dapat diteliti.
+5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
+
+BAB 2. FUNGSI DAN PENGALAMAN
+
+Produk perlu menjalankan fungsi utama dengan jelas. Pengalaman pengguna juga dipengaruhi cara memegang, membaca petunjuk, merawat, menyimpan, dan memperbaiki produk. Keterjangkauan, keselamatan, aksesibilitas, serta konteks budaya perlu dipertimbangkan sejak tahap awal.
+
+PENDALAMAN KONSEP
+Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
+
+CONTOH KAJIAN
+Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
+
+LANGKAH PRAKTIK
+1. Tuliskan pertanyaan yang ingin dijawab.
+2. Kumpulkan informasi dari sumber yang dapat diperiksa.
+3. Kelompokkan fakta, pendapat, dan dugaan.
+4. Terapkan konsep bab ini untuk menyusun penjelasan.
+5. Periksa apakah kesimpulan sesuai bukti.
+
+RANGKUMAN BAB
+- Kuasai istilah inti dan maknanya.
+- Pahami proses, bukan hanya menghafal nama.
+- Gunakan contoh relevan dan jelaskan konteksnya.
+- Sebutkan keterbatasan informasi ketika bukti belum cukup.
+
+LATIHAN PEMAHAMAN
+1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
+3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
+4. Buat satu pertanyaan lanjutan yang dapat diteliti.
+5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
+
+BAB 3. SKETSA DAN EKSPLORASI KONSEP
+
+Sketsa membantu mengeksplorasi banyak gagasan dengan cepat. Buat beberapa alternatif, lalu bandingkan berdasarkan kebutuhan, biaya, kemudahan pembuatan, ketahanan, dan dampak lingkungan. Jangan memilih hanya karena satu konsep terlihat menarik; catat alasan dan bukti yang mendukung keputusan.
+
+PENDALAMAN KONSEP
+Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
+
+CONTOH KAJIAN
+Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
+
+LANGKAH PRAKTIK
+1. Tuliskan pertanyaan yang ingin dijawab.
+2. Kumpulkan informasi dari sumber yang dapat diperiksa.
+3. Kelompokkan fakta, pendapat, dan dugaan.
+4. Terapkan konsep bab ini untuk menyusun penjelasan.
+5. Periksa apakah kesimpulan sesuai bukti.
+
+RANGKUMAN BAB
+- Kuasai istilah inti dan maknanya.
+- Pahami proses, bukan hanya menghafal nama.
+- Gunakan contoh relevan dan jelaskan konteksnya.
+- Sebutkan keterbatasan informasi ketika bukti belum cukup.
+
+LATIHAN PEMAHAMAN
+1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
+3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
+4. Buat satu pertanyaan lanjutan yang dapat diteliti.
+5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
+
+BAB 4. BAHAN DAN PROSES PRODUKSI
+
+Pemilihan bahan mempertimbangkan kekuatan, berat, tekstur, ketersediaan, biaya, keamanan, dan akhir masa pakai. Proses produksi memengaruhi bentuk yang mungkin dibuat dan jumlah limbah. Desain yang baik menyesuaikan kebutuhan produk dengan kemampuan proses.
+
+PENDALAMAN KONSEP
+Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
+
+CONTOH KAJIAN
+Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
+
+LANGKAH PRAKTIK
+1. Tuliskan pertanyaan yang ingin dijawab.
+2. Kumpulkan informasi dari sumber yang dapat diperiksa.
+3. Kelompokkan fakta, pendapat, dan dugaan.
+4. Terapkan konsep bab ini untuk menyusun penjelasan.
+5. Periksa apakah kesimpulan sesuai bukti.
+
+RANGKUMAN BAB
+- Kuasai istilah inti dan maknanya.
+- Pahami proses, bukan hanya menghafal nama.
+- Gunakan contoh relevan dan jelaskan konteksnya.
+- Sebutkan keterbatasan informasi ketika bukti belum cukup.
+
+LATIHAN PEMAHAMAN
+1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
+3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
+4. Buat satu pertanyaan lanjutan yang dapat diteliti.
+5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
+
+BAB 5. PROTOTIPE DAN EVALUASI
+
+Prototipe adalah model untuk menguji gagasan. Prototipe awal dapat sederhana, misalnya model kertas atau bentuk digital. Pengujian harus memiliki pertanyaan yang jelas: apakah ukuran sesuai, apakah fungsi mudah dipahami, apakah bagian tertentu rapuh, atau apakah pengguna dapat menyelesaikan tugas.
+
+PENDALAMAN KONSEP
+Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
+
+CONTOH KAJIAN
+Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
+
+LANGKAH PRAKTIK
+1. Tuliskan pertanyaan yang ingin dijawab.
+2. Kumpulkan informasi dari sumber yang dapat diperiksa.
+3. Kelompokkan fakta, pendapat, dan dugaan.
+4. Terapkan konsep bab ini untuk menyusun penjelasan.
+5. Periksa apakah kesimpulan sesuai bukti.
+
+RANGKUMAN BAB
+- Kuasai istilah inti dan maknanya.
+- Pahami proses, bukan hanya menghafal nama.
+- Gunakan contoh relevan dan jelaskan konteksnya.
+- Sebutkan keterbatasan informasi ketika bukti belum cukup.
+
+LATIHAN PEMAHAMAN
+1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
+3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
+4. Buat satu pertanyaan lanjutan yang dapat diteliti.
+5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
+
+BAB 6. SIKLUS HIDUP DAN TANGGUNG JAWAB
+
+Dampak produk muncul dari pengambilan bahan, produksi, distribusi, penggunaan, dan pembuangan. Desain yang tahan lama, mudah diperbaiki, hemat energi, dan dapat dipisahkan komponennya dapat mengurangi dampak. Klaim ramah lingkungan harus didukung data.
+
+PENDALAMAN KONSEP
+Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
+
+CONTOH KAJIAN
+Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
+
+LANGKAH PRAKTIK
+1. Tuliskan pertanyaan yang ingin dijawab.
+2. Kumpulkan informasi dari sumber yang dapat diperiksa.
+3. Kelompokkan fakta, pendapat, dan dugaan.
+4. Terapkan konsep bab ini untuk menyusun penjelasan.
+5. Periksa apakah kesimpulan sesuai bukti.
+
+RANGKUMAN BAB
+- Kuasai istilah inti dan maknanya.
+- Pahami proses, bukan hanya menghafal nama.
+- Gunakan contoh relevan dan jelaskan konteksnya.
+- Sebutkan keterbatasan informasi ketika bukti belum cukup.
+
+LATIHAN PEMAHAMAN
+1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
+3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
+4. Buat satu pertanyaan lanjutan yang dapat diteliti.
+5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
+
+PROYEK AKHIR
+Susun proyek mini yang menghubungkan sedikitnya tiga bab. Tentukan pertanyaan, tujuan, batasan, sumber informasi, metode, hasil yang diharapkan, dan cara mengevaluasi hasil. Proyek tidak harus mahal atau rumit. Utamakan ketelitian, keselamatan, dan kejujuran dalam mencatat temuan.
+
+EVALUASI AKHIR
+1. Buat peta konsep yang menghubungkan istilah dari seluruh bab.
+2. Pilih satu kasus dan jelaskan dengan menggunakan minimal tiga konsep.
+3. Bedakan fakta, interpretasi, dan rekomendasi.
+4. Jelaskan keterbatasan data dan kemungkinan penjelasan alternatif.
+5. Tulis refleksi tentang hal yang berubah dari pemahaman awalmu.
+
+PEDOMAN PENILAIAN
+Penilaian menggunakan empat kriteria: ketepatan konsep, kualitas bukti, kejelasan penalaran, dan kemampuan menyampaikan keterbatasan. Jawaban tidak harus sama persis dengan contoh selama argumennya konsisten dan didukung informasi yang tepat.
+
+GLOSARIUM
+Ergonomi: Kajian kesesuaian produk dan lingkungan dengan kemampuan manusia.
+Prototipe: Model awal untuk menguji gagasan.
+Iterasi: Pengulangan proses dengan perbaikan berdasarkan evaluasi.
+Siklus hidup: Tahapan produk dari bahan baku hingga akhir penggunaan.
+Aksesibilitas: Kemudahan produk digunakan oleh beragam pengguna.
+
+CATATAN SUMBER DAN PENGEMBANGAN
+Buku ini merupakan materi pengantar orisinal. Untuk tugas akademik atau keputusan praktis, bandingkan penjelasan dengan buku ajar, standar, peraturan, dan publikasi lembaga yang kompeten. Catat judul sumber, penulis atau lembaga, tahun terbit, dan bagian yang digunakan. Periksa tanggal sumber pada topik yang dapat berubah.

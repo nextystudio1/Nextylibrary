@@ -163,3 +163,26 @@ Energi listrik: energi yang dipindahkan melalui gejala listrik.
 Kilowatt-jam: satuan energi listrik.
 Pembumian: sistem penghubung ke bumi untuk keselamatan.
 Rangkaian paralel: rangkaian dengan beberapa cabang.
+
+BAB LANJUTAN: INSTALASI LISTRIK RUMAH DAN EFISIENSI ENERGI
+
+1. Memahami sistem listrik rumah
+Instalasi rumah terdiri atas sumber pasokan, alat ukur, pengaman, penghantar, sakelar, stopkontak, dan beban listrik. Setiap bagian memiliki fungsi dan spesifikasi. Pemahaman konsep membantu penghuni mengenali label dan menggunakan peralatan secara wajar, tetapi pekerjaan pemasangan atau perbaikan instalasi harus dilakukan oleh tenaga kompeten sesuai standar keselamatan.
+
+2. Daya dan energi
+Daya menyatakan laju penggunaan energi, sedangkan energi merupakan akumulasi pemakaian selama waktu tertentu. Peralatan dengan daya besar belum tentu selalu menggunakan energi paling banyak jika waktu operasinya singkat. Perkiraan konsumsi dapat dibuat dengan mengalikan daya dan lama pemakaian, lalu memperhatikan pola penggunaan nyata.
+
+3. Beban dan pengelolaan pemakaian
+Jumlah perangkat yang digunakan bersamaan memengaruhi beban total. Perhatikan kapasitas instalasi dan petunjuk produsen. Jangan menggunakan kabel, sambungan, atau stopkontak yang rusak, panas tidak wajar, atau tidak sesuai peruntukan. Hindari menumpuk adaptor dan membebani satu titik listrik.
+
+4. Pengaman dan tanda bahaya
+Pengaman listrik dirancang untuk mengurangi risiko akibat kondisi tertentu, tetapi tidak menjadikan instalasi kebal terhadap kesalahan. Bau terbakar, percikan, suara tidak normal, atau bagian yang terasa panas perlu ditangani serius. Jauhkan diri dari sumber bahaya dan minta bantuan orang dewasa serta teknisi yang berwenang. Jangan membuka panel atau memperbaiki kabel bertegangan sendiri.
+
+5. Efisiensi peralatan
+Bandingkan label konsumsi energi, kapasitas, kebutuhan, masa pakai, dan biaya pemeliharaan. Perawatan sesuai panduan produsen membantu menjaga kinerja. Matikan perangkat yang tidak diperlukan dengan cara yang aman, atur pendinginan sesuai kebutuhan, dan manfaatkan cahaya alami tanpa mengorbankan kenyamanan.
+
+6. Pencatatan konsumsi
+Catat angka meter pada waktu yang konsisten dan kelompokkan penggunaan berdasarkan periode. Perubahan pemakaian dapat dipengaruhi cuaca, jumlah penghuni, perangkat baru, atau kebiasaan. Hindari menyimpulkan satu alat sebagai penyebab tanpa data yang cukup.
+
+LATIHAN
+Buat inventaris perangkat listrik rumah tanpa menyentuh instalasi. Catat daya pada label, perkiraan lama pemakaian, dan peluang penghematan yang aman. Tanyakan kepada orang dewasa jika ada perangkat atau kondisi yang tampak tidak normal.

@@ -6,7 +6,7 @@ DESKRIPSI
 Memahami batuan, tanah, air tanah, sumber daya, bencana geologi, dan pengelolaan lingkungan.
 
 PENDAHULUAN
-Buku Pengantar Geologi Lingkungan membahas memahami batuan, tanah, air tanah, sumber daya, bencana geologi, dan pengelolaan lingkungan.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini menjelaskan hubungan proses kebumian dengan kualitas lingkungan dan keputusan penggunaan ruang. Pembahasan mencakup batuan, tanah, air tanah, sumber daya, bahaya geologi, pencemaran, serta prinsip pengelolaan yang bertanggung jawab. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
 
 BAB 1. BUMI SEBAGAI SISTEM
 
@@ -24,19 +24,16 @@ LATIHAN
 3. Hubungkan penggunaan lahan dengan proses geomorfologi di suatu wilayah.
 4. Jelaskan mengapa peta geologi perlu dibaca bersama data curah hujan dan kemiringan lereng.
 5. Sebutkan keterbatasan yang harus diperhatikan saat menilai risiko lingkungan geologi.
-2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
-3. Berikan satu contoh dan satu contoh pembanding.
-4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
-5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
 
 RANGKUMAN
 - Batuan, struktur, air, dan bentuklahan membentuk sistem lingkungan yang saling terkait.
 - Proses geologi berlangsung dalam rentang waktu dan skala yang berbeda.
 - Aktivitas manusia dapat mengubah kestabilan tanah dan pola aliran air.
 - Penilaian risiko memerlukan data lokasi, proses, paparan, dan kerentanan.
-- Hubungkan konsep dengan bukti yang relevan.
-- Perhatikan konteks serta kemungkinan penjelasan lain.
-- Sampaikan kesimpulan secara proporsional.
+- Batuan dan tanah menyediakan kerangka fisik bagi ekosistem serta aktivitas manusia.
+- Air menghubungkan proses di permukaan dengan proses bawah permukaan.
+- Perubahan tutupan lahan dapat mengubah limpasan, erosi, dan pengisian air tanah.
+- Kajian risiko harus membedakan bahaya, paparan, kerentanan, dan kapasitas menghadapi dampak.
 
 BAB 2. MINERAL DAN BATUAN
 
@@ -67,10 +64,6 @@ EVALUASI AKHIR
 3. Jelaskan peran air tanah dalam kestabilan lingkungan.
 4. Analisis pengaruh perubahan penggunaan lahan terhadap proses erosi.
 5. Susun rekomendasi pengelolaan kawasan yang mempertimbangkan bukti dan ketidakpastian.
-2. Jelaskan hubungan antara tiga konsep berbeda.
-3. Analisis satu contoh dengan menggunakan bukti.
-4. Bandingkan dua pendekatan atau penjelasan.
-5. Buat kesimpulan dan nyatakan keterbatasannya.
 
 PEDOMAN PENILAIAN
 Nilai ketepatan istilah geologi, kemampuan menghubungkan proses dengan kondisi lokasi, penggunaan peta atau data yang sesuai, serta kehati-hatian dalam menyatakan risiko. Rekomendasi harus realistis dan menyebutkan keterbatasan informasi.
@@ -118,9 +111,9 @@ Bahan galian, air tanah, panas bumi, dan batuan merupakan sumber daya yang mendu
 Penutupan tambang dan pemulihan lahan sebaiknya direncanakan sejak awal. Rencana mencakup stabilitas lahan, pengelolaan air, revegetasi yang sesuai, pemantauan, dan keterlibatan masyarakat. Keberhasilan pemulihan dinilai dari fungsi dan risiko jangka panjang, bukan hanya penampilan permukaan.
 
 LATIHAN AKHIR
-1. Bedakan porositas dan permeabilitas.
-2. Jelaskan hubungan pengambilan air tanah dan intrusi air asin.
-3. Mengapa peta bahaya harus dibaca bersama data paparan dan kerentanan?
-4. Sebutkan faktor yang memengaruhi erosi dan kestabilan lereng.
-5. Uraikan tahapan umum penilaian lokasi tercemar.
-6. Buat daftar aspek yang perlu dimasukkan dalam rencana pemulihan lahan.
+1. Bedakan porositas total dan permeabilitas, lalu jelaskan mengapa keduanya tidak selalu sebanding.
+2. Uraikan bagaimana pengambilan air tanah yang berlebihan dapat mengubah kondisi akuifer pesisir.
+3. Jelaskan mengapa peta bahaya belum cukup untuk menyatakan tingkat risiko suatu permukiman.
+4. Analisis hubungan tutupan vegetasi, limpasan permukaan, dan erosi.
+5. Susun urutan umum kajian lokasi tercemar dari penelusuran riwayat lahan hingga interpretasi hasil laboratorium.
+6. Buat kerangka pemulihan lahan pascatambang yang mencakup air, kestabilan permukaan, vegetasi, dan pemantauan.

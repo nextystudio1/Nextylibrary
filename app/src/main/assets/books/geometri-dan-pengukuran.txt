@@ -10,7 +10,7 @@ Setelah mempelajari buku ini, pembaca diharapkan mampu mengenali sifat bangun da
 
 BAB 1. BENTUK DAN RUANG
 
-Geometri mempelajari bentuk, ukuran, posisi, dan hubungan ruang. Titik menunjukkan posisi, garis menunjukkan arah dan panjang, sedangkan bidang memiliki dua dimensi. Bangun datar seperti segitiga, persegi, dan lingkaran memiliki sifat yang berbeda. Bangun ruang seperti prisma, tabung, dan bola memiliki volume serta luas permukaan.
+Geometri mempelajari bentuk, ukuran, posisi, dan hubungan ruang. Titik menyatakan posisi, garis memiliki panjang tanpa lebar, dan bidang memiliki dua dimensi. Segitiga memiliki jumlah sudut dalam 180 derajat; persegi memiliki empat sisi sama panjang dan empat sudut siku-siku. Lingkaran ditentukan oleh jari-jari dan diameter. Pada bangun ruang, prisma dan tabung memiliki dua bidang alas sejajar, sedangkan bola memiliki satu permukaan lengkung. Memahami sifat ini membantu memilih rumus yang tepat.
 
 CONTOH PENERAPAN
 Contoh kajian: pilih kasus sederhana yang berkaitan dengan BENTUK DAN RUANG dalam bidang Geometri dan Pengukuran. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
@@ -48,7 +48,6 @@ BAB 6. SKALA DAN PENERAPAN
 
 Skala membandingkan jarak pada gambar dengan jarak sebenarnya. Skala 1:100 berarti satu satuan pada gambar mewakili seratus satuan yang sama di lapangan. Peta, denah, model arsitektur, dan gambar teknik menggunakan prinsip skala. Periksa satuan sebelum mengubah jarak.
 
-EVALUASI AKHIR
 EVALUASI AKHIR
 1. Jelaskan perbedaan keliling, luas, dan volume beserta satuannya.
 2. Hitung luas segitiga dengan alas 12 cm dan tinggi 7 cm.

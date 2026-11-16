@@ -203,3 +203,41 @@ Infografik: penyajian informasi melalui gabungan teks dan visual.
 Komposisi: pengaturan hubungan antarunsur visual.
 Misinformasi: informasi keliru yang disebarkan tanpa harus disertai niat menipu.
 Teks alternatif: deskripsi teks untuk menyampaikan fungsi atau isi visual.
+
+BAB 11. HIERARKI VISUAL DAN KOMPOSISI
+Hierarki visual membantu pembaca memahami urutan informasi. Ukuran, ketebalan huruf, warna, jarak, posisi, dan kontras dapat menunjukkan mana judul, subjudul, isi, serta keterangan. Jika semua elemen dibuat sama menonjol, pembaca kesulitan menentukan titik awal. Sebaliknya, terlalu banyak gaya yang bersaing membuat tampilan terasa bising.
+
+Komposisi mengatur hubungan antarunsur dalam bidang. Keseimbangan tidak harus berarti simetri; susunan asimetris dapat terasa stabil jika bobot visualnya diperhitungkan. Ruang kosong memberi jeda dan membantu kelompok informasi terlihat jelas. Gunakan kisi atau grid untuk menjaga konsistensi, tetapi jangan memaksakan semua elemen ke pola yang membuat isi sulit dibaca.
+
+BAB 12. TIPOGRAFI DAN KETERBACAAN
+Tipografi adalah pemilihan dan pengaturan huruf. Jenis huruf, ukuran, panjang baris, spasi antarbaris, dan kontras memengaruhi kenyamanan membaca. Huruf dekoratif mungkin cocok untuk judul singkat, tetapi sering kurang tepat untuk paragraf panjang. Batasi jumlah keluarga huruf dan gunakan ukuran yang konsisten untuk fungsi yang sama.
+
+Keterbacaan harus diuji pada ukuran layar atau media yang benar-benar digunakan. Teks yang terlihat jelas pada monitor besar dapat menjadi terlalu kecil pada ponsel. Hindari menempatkan teks panjang di atas foto yang ramai. Jika latar dan teks memiliki kontras rendah, pembaca perlu bekerja lebih keras. Uji pula tampilan pada kondisi cahaya dan ukuran perangkat yang berbeda.
+
+BAB 13. WARNA, KONTRAS, DAN AKSESIBILITAS
+Warna dapat membangun suasana dan mengelompokkan informasi, tetapi maknanya dipengaruhi budaya dan konteks. Jangan menyampaikan status hanya melalui warna; tambahkan label, ikon, atau pola agar informasi tetap dipahami oleh pembaca dengan perbedaan persepsi warna. Kontras antara teks dan latar perlu cukup kuat, terutama untuk teks kecil.
+
+Palet yang baik memiliki peran jelas: warna utama, warna pendukung, dan warna penekanan. Terlalu banyak warna aksen mengurangi fokus. Periksa kombinasi warna dalam mode terang dan gelap jika desain digunakan pada keduanya. Aksesibilitas bukan tahap tambahan di akhir, melainkan bagian dari keputusan desain sejak awal.
+
+BAB 14. DESAIN INFORMASI DAN VISUALISASI DATA
+Infografik menggabungkan teks, angka, dan elemen visual untuk menjelaskan gagasan. Grafik harus memakai skala yang jujur, label yang jelas, satuan yang tepat, dan sumber data. Memotong sumbu tanpa penjelasan dapat membuat perbedaan tampak jauh lebih besar. Ikon dekoratif tidak boleh menggantikan angka ketika ketepatan penting.
+
+Pilih bentuk visual sesuai jenis data. Diagram batang cocok untuk membandingkan kategori; garis dapat menunjukkan perubahan berurutan; peta digunakan untuk pola geografis; diagram alur menjelaskan tahapan. Hindari memasukkan terlalu banyak informasi dalam satu gambar. Jika pembaca membutuhkan detail, sediakan tabel atau penjelasan pendamping.
+
+BAB 15. PROSES DESAIN DAN UJI PENGGUNA
+Proses desain dimulai dari memahami kebutuhan, merumuskan masalah, membuat alternatif, menyusun prototipe, lalu menguji. Jangan langsung menganggap solusi pertama sebagai yang terbaik. Minta pengguna menyelesaikan tugas nyata sambil mengamati bagian yang membingungkan. Pertanyaan terbuka sering memberi wawasan lebih baik daripada hanya menanyakan apakah desain disukai.
+
+Catat masalah berdasarkan dampak dan frekuensi. Perubahan kecil seperti memperjelas label tombol dapat lebih bermanfaat daripada menambah dekorasi. Setelah revisi, uji kembali untuk memastikan masalah berkurang. Hormati privasi peserta uji dan jelaskan tujuan pengumpulan masukan.
+
+LATIHAN TERAPAN
+1. Buat hierarki visual untuk halaman informasi yang memiliki judul, ringkasan, tiga bagian, dan catatan.
+2. Jelaskan mengapa ruang kosong dapat meningkatkan keterbacaan.
+3. Rancang cara menyampaikan informasi yang tidak hanya bergantung pada warna.
+4. Pilih jenis grafik yang tepat untuk membandingkan lima kategori dan jelaskan alasannya.
+5. Susun tiga tugas sederhana untuk menguji prototipe aplikasi.
+
+GLOSARIUM TAMBAHAN
+Hierarki visual: urutan perhatian yang dibentuk oleh perbedaan tampilan.
+Grid: sistem garis bantu untuk mengatur posisi elemen.
+Kontras: perbedaan visual yang membantu elemen dibedakan.
+Prototipe: model awal untuk diuji sebelum produk diselesaikan.

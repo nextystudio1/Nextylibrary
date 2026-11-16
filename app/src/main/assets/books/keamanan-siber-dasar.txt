@@ -171,3 +171,34 @@ Hak akses: izin untuk melihat, mengubah, atau mengelola sumber daya.
 Cadangan: salinan data yang disiapkan untuk pemulihan.
 Pemulihan: proses mengembalikan data atau akses setelah gangguan.
 Lampiran: berkas yang disertakan dalam pesan digital.
+
+BAB LANJUTAN: MANAJEMEN IDENTITAS DAN AUTENTIKASI
+
+Identitas digital membantu sistem membedakan pengguna, sedangkan autentikasi memeriksa apakah seseorang benar-benar menguasai bukti identitas yang diklaim. Otorisasi menentukan tindakan apa yang boleh dilakukan setelah identitas diverifikasi. Ketiganya berbeda dan perlu dirancang secara terpisah.
+
+Kata sandi yang kuat dan unik mengurangi risiko penggunaan ulang kredensial. Pengelola kata sandi dapat membantu menyimpan kombinasi unik, sementara autentikasi multifaktor menambah lapisan verifikasi. Faktor tambahan tidak membuat akun kebal; pengguna tetap perlu waspada terhadap permintaan persetujuan yang tidak mereka mulai.
+
+Prinsip hak akses minimum memberi pengguna dan layanan hanya izin yang diperlukan. Akses perlu ditinjau ketika peran berubah atau tidak lagi dibutuhkan. Akun bersama menyulitkan penelusuran tanggung jawab dan sebaiknya dihindari jika tersedia mekanisme akun individual.
+
+BAB LANJUTAN: CADANGAN, PEMULIHAN, DAN KESIAPAN INSIDEN
+
+Cadangan data berguna ketika terjadi kerusakan perangkat, kesalahan pengguna, atau gangguan layanan. Cadangan perlu memiliki jadwal, cakupan, perlindungan akses, dan pengujian pemulihan. Salinan yang tidak pernah diuji belum tentu dapat digunakan ketika dibutuhkan.
+
+Strategi cadangan dapat mencakup beberapa salinan pada media atau lokasi berbeda. Satu salinan sebaiknya terlindung dari perubahan tidak sah yang dapat menyebar dari sistem utama. Tentukan prioritas pemulihan berdasarkan pentingnya layanan dan toleransi waktu gangguan.
+
+Rencana respons insiden menetapkan cara melaporkan kejadian, siapa yang menilai, bagaimana sistem terdampak diisolasi secara aman, bagaimana bukti dipertahankan, dan kapan pihak terkait diberi tahu. Pengguna umum sebaiknya tidak melakukan tindakan teknis berisiko; laporkan melalui saluran resmi dan ikuti arahan tim yang berwenang.
+
+BAB LANJUTAN: PRIVASI, JEJAK DIGITAL, DAN REKAYASA SOSIAL
+
+Jejak digital terbentuk dari informasi yang dibagikan, aktivitas layanan, dan data yang dikumpulkan perangkat atau platform. Pengaturan privasi dapat mengurangi paparan, tetapi tidak menjamin bahwa konten yang pernah dibagikan tidak disalin. Pikirkan tujuan, audiens, dan kemungkinan penyebaran ulang sebelum mengunggah informasi.
+
+Rekayasa sosial memanfaatkan kepercayaan, urgensi, rasa takut, atau keinginan membantu. Pesan palsu dapat meniru organisasi yang dikenal dan meminta informasi atau tindakan. Verifikasi melalui kanal resmi yang dicari secara mandiri, bukan melalui tautan atau nomor yang disediakan pesan mencurigakan.
+
+Jika menerima permintaan yang tidak biasa, berhenti sejenak, periksa konteks, dan konfirmasi melalui jalur kedua. Jangan membagikan kode autentikasi, kata sandi, atau data keuangan. Jika terjadi dugaan insiden, minta bantuan orang dewasa tepercaya atau tim dukungan resmi.
+
+LATIHAN PENDALAMAN
+1. Apa perbedaan identifikasi, autentikasi, dan otorisasi?
+2. Mengapa hak akses minimum penting?
+3. Mengapa cadangan perlu diuji pemulihannya?
+4. Sebutkan unsur rencana respons insiden.
+5. Bagaimana memverifikasi pesan yang meminta tindakan mendesak?

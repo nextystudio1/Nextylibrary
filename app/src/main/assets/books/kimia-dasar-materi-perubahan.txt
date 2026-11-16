@@ -138,8 +138,6 @@ LATIHAN
 3. Apa peran larutan penyangga? Menahan perubahan pH dalam kapasitas tertentu.
 4. Mengapa limbah kimia tidak boleh dibuang sembarangan? Dapat mencemari lingkungan dan membahayakan makhluk hidup.
 
-
-
 BAB LANJUTAN — IKATAN KIMIA DAN SIFAT ZAT
 
 Atom dapat berikatan untuk mencapai susunan elektron yang lebih stabil. Ikatan ion terbentuk melalui tarik-menarik antara ion bermuatan berlawanan, sedangkan ikatan kovalen melibatkan pemakaian pasangan elektron bersama. Ikatan logam melibatkan elektron yang terdelokalisasi di antara banyak atom logam.
@@ -188,7 +186,6 @@ BAB LANJUTAN — KIMIA LINGKUNGAN DAN KEHIDUPAN
 Kimia lingkungan mempelajari zat dan reaksi di udara, air, tanah, serta organisme. Polutan dapat berasal dari proses alam maupun aktivitas manusia. Dampak ditentukan oleh jenis zat, konsentrasi, lama paparan, jalur masuk, dan kerentanan organisme.
 Siklus karbon menghubungkan atmosfer, laut, tanah, batuan, dan makhluk hidup. Pembakaran bahan bakar fosil memindahkan karbon yang tersimpan lama ke atmosfer dalam bentuk karbon dioksida. Perubahan konsentrasi gas rumah kaca memengaruhi keseimbangan energi Bumi.
 Pengolahan air memanfaatkan proses fisika dan kimia seperti penyaringan, pengendapan, adsorpsi, dan disinfeksi. Tidak semua air jernih aman diminum; pengujian mikrobiologi dan kimia diperlukan sesuai standar. Materi ini tidak menggantikan panduan lembaga kesehatan atau penyedia air.
-
 
 PENGAYAAN LANJUTAN — KIMIA DALAM KEHIDUPAN DAN TEKNOLOGI
 

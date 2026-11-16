@@ -173,3 +173,29 @@ Panjang gelombang: jarak antara titik sefase yang berurutan.
 Periode: waktu untuk satu getaran.
 Polarisasi: pembatasan arah osilasi gelombang transversal.
 Resonansi: respons besar ketika frekuensi pemaksa sesuai frekuensi alami.
+
+BAB LANJUTAN: GELOMBANG, OPTIKA, DAN PENERAPAN TEKNOLOGI
+
+1. Besaran gelombang
+Gelombang dapat dijelaskan melalui amplitudo, panjang gelombang, frekuensi, periode, dan cepat rambat. Frekuensi menyatakan banyaknya getaran per satuan waktu, sedangkan periode adalah waktu untuk satu siklus. Hubungan cepat rambat, frekuensi, dan panjang gelombang membantu menganalisis bunyi maupun cahaya dalam konteks yang sesuai.
+
+2. Superposisi dan interferensi
+Ketika gelombang bertemu, simpangan total mengikuti prinsip superposisi dalam kondisi yang memenuhi asumsi model. Interferensi konstruktif dapat memperkuat amplitudo, sedangkan interferensi destruktif dapat menguranginya. Pola ini digunakan untuk memahami bunyi, gelombang air, dan fenomena optik.
+
+3. Bunyi dan medium
+Bunyi merupakan gelombang mekanik yang memerlukan medium. Cepat rambatnya dipengaruhi sifat medium dan kondisi lingkungan. Tinggi nada berkaitan dengan frekuensi, sedangkan kuat-lemah bunyi berkaitan dengan intensitas dan persepsi pendengaran. Paparan suara berlebihan dapat mengganggu kenyamanan dan kesehatan, sehingga lingkungan perlu dikelola.
+
+4. Pemantulan dan pembiasan cahaya
+Cahaya dapat dipantulkan dan dibiaskan ketika bertemu batas medium. Hukum pemantulan menghubungkan sudut datang dan sudut pantul, sedangkan pembiasan dipengaruhi perubahan kecepatan cahaya pada medium berbeda. Prinsip ini menjadi dasar cermin, lensa, kamera, dan alat optik.
+
+5. Lensa dan pembentukan bayangan
+Lensa mengubah arah berkas cahaya untuk membentuk bayangan. Posisi benda, jarak fokus, dan jenis lensa menentukan karakter bayangan. Model sinar utama membantu membuat diagram, tetapi sistem optik nyata juga dipengaruhi aberasi, ukuran bukaan, dan kualitas bahan.
+
+6. Gelombang elektromagnetik
+Spektrum elektromagnetik mencakup gelombang radio, gelombang mikro, inframerah, cahaya tampak, ultraviolet, sinar-X, dan gamma. Jenis gelombang berbeda dalam frekuensi dan energi. Penggunaan teknologi harus mengikuti standar keselamatan dan memahami karakter sumber radiasi.
+
+7. Pengukuran dan model
+Eksperimen gelombang perlu mengendalikan variabel, mencatat satuan, dan memperhatikan ketidakpastian alat. Model ideal membantu menjelaskan prinsip, tetapi hasil nyata dapat dipengaruhi batas alat, kondisi medium, dan gangguan lingkungan.
+
+LATIHAN
+Amati fenomena gema atau pemantulan cahaya dalam kehidupan sehari-hari tanpa menggunakan sumber berbahaya. Gambarkan model sederhana, tentukan besaran yang relevan, dan jelaskan keterbatasan pengamatan.

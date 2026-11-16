@@ -6,7 +6,7 @@ DESKRIPSI
 Memahami sensor, aktuator, kendali, mekanika, pemrograman, dan penerapan robot.
 
 PENDAHULUAN
-Buku ini disusun untuk membangun pemahaman bertahap. Setiap topik dijelaskan melalui konsep, hubungan antarbagian, contoh penerapan, dan latihan. Pembaca dianjurkan memeriksa sumber tambahan, mencatat pertanyaan, serta membedakan fakta, interpretasi, dan pendapat.
+Buku ini memperkenalkan robotika sebagai gabungan mekanika, elektronika, sensor, aktuator, sistem kendali, dan perangkat lunak. Pembahasan bergerak dari arsitektur robot menuju pemrograman, pengujian, keselamatan, dan pertimbangan etis.
 
 BAB 1. ROBOT SEBAGAI SISTEM
 
@@ -56,11 +56,12 @@ PROYEK TERPADU
 Buat kajian mini untuk Dasar Robotika dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari ETIKA DAN KESELAMATAN dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Dasar Robotika.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+EVALUASI AKHIR
+1. Uraikan alur informasi dari sensor hingga keputusan kendali dan gerakan aktuator.
+2. Bandingkan sensor yang mengukur jarak dengan sensor yang mengukur orientasi.
+3. Jelaskan perbedaan kendali terbuka dan kendali umpan balik.
+4. Mengapa pengujian perlu dilakukan bertahap dalam lingkungan yang aman?
+5. Sebutkan risiko keselamatan dan privasi yang perlu dipertimbangkan dalam rancangan robot.
 
 GLOSARIUM
 Konsep: Gagasan utama untuk memahami suatu topik.

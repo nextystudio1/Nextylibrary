@@ -6,7 +6,7 @@ DESKRIPSI
 Mengkaji hubungan manusia, lingkungan, kota, sumber daya, kesehatan, dan keberlanjutan.
 
 PENDAHULUAN
-Buku Pengantar Ekologi Manusia membahas mengkaji hubungan manusia, lingkungan, kota, sumber daya, kesehatan, dan keberlanjutan.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini mengkaji hubungan timbal balik manusia dengan lingkungan alam dan sosial. Pembahasan mencakup daya dukung, penggunaan lahan, urbanisasi, kesehatan lingkungan, pola konsumsi, keadilan, ketahanan komunitas, dan metode penelitian.
 
 BAB 1. MANUSIA DALAM EKOSISTEM
 
@@ -49,11 +49,11 @@ PROYEK TERPADU
 Buat kajian mini untuk Pengantar Ekologi Manusia dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari KEADILAN DAN TATA KELOLA dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Pengantar Ekologi Manusia.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+1. Jelaskan bagaimana daya dukung lingkungan membatasi penggunaan sumber daya.
+2. Uraikan hubungan tata guna lahan, mobilitas, dan kesehatan masyarakat.
+3. Berikan contoh bagaimana pola konsumsi menghasilkan jejak lingkungan.
+4. Bedakan paparan lingkungan, kerentanan, dan risiko kesehatan.
+5. Jelaskan bagaimana partisipasi masyarakat dapat memperkuat ketahanan komunitas.
 
 PEDOMAN PENILAIAN
 Nilai pemahaman Pengantar Ekologi Manusia berdasarkan ketepatan konsep, kecocokan metode, mutu bukti, dan kemampuan menerapkan materi. Jawaban harus menunjukkan alasan yang dapat diperiksa serta menyebutkan keterbatasan informasi bila ada.
@@ -105,19 +105,19 @@ LATIHAN AKHIR
 4. Jelaskan tiga unsur kerentanan iklim.
 5. Rancang indikator untuk memantau pemulihan kawasan sungai.
 
-BAB 11. POPULASI, KEPADATAN, DAN RUANG HIDUP
+BAB 7. POPULASI, KEPADATAN, DAN RUANG HIDUP
 Ekologi manusia mempelajari hubungan manusia dengan lingkungan alam dan lingkungan buatan. Kepadatan penduduk dapat memengaruhi kebutuhan air, energi, pangan, perumahan, dan transportasi, tetapi dampaknya bergantung pada pola konsumsi, teknologi, tata kelola, dan distribusi sumber daya. Angka kepadatan saja tidak cukup untuk menjelaskan kualitas hidup. Analisis perlu melihat akses layanan, kondisi lingkungan, dan ketimpangan antarwilayah.
 
-BAB 12. KOTA, MOBILITAS, DAN KESEHATAN LINGKUNGAN
+BAB 8. KOTA, MOBILITAS, DAN KESEHATAN LINGKUNGAN
 Desain kota memengaruhi cara orang bergerak, mengakses ruang hijau, dan memperoleh layanan. Transportasi yang aman dan terjangkau dapat mengurangi hambatan mobilitas. Polusi udara, kebisingan, panas perkotaan, serta kurangnya ruang terbuka dapat memengaruhi kenyamanan dan kesehatan. Perencanaan perlu melibatkan warga dengan kebutuhan yang beragam, termasuk anak, lansia, dan penyandang disabilitas.
 
-BAB 13. KONSUMSI, LIMBAH, DAN JEJAK EKOLOGIS
+BAB 9. KONSUMSI, LIMBAH, DAN JEJAK EKOLOGIS
 Pola konsumsi berkaitan dengan penggunaan bahan, energi, air, dan lahan. Jejak ekologis merupakan salah satu pendekatan untuk membandingkan permintaan manusia terhadap kapasitas ekosistem, tetapi memiliki asumsi dan keterbatasan. Pengurangan limbah membutuhkan desain produk, sistem pengumpulan, fasilitas pengolahan, dan kebiasaan yang didukung infrastruktur. Tanggung jawab tidak dapat dibebankan hanya kepada konsumen.
 
-BAB 14. KERENTANAN DAN KETAHANAN KOMUNITAS
+BAB 10. KERENTANAN DAN KETAHANAN KOMUNITAS
 Kerentanan dipengaruhi paparan bahaya, sensitivitas, dan kapasitas untuk merespons. Dua komunitas yang menghadapi banjir sama dapat mengalami dampak berbeda karena kualitas rumah, akses informasi, tabungan, layanan kesehatan, dan dukungan sosial. Ketahanan komunitas dibangun melalui jaringan bantuan, infrastruktur, pengetahuan lokal, dan tata kelola yang dapat dipercaya. Program perlu menghindari pemindahan risiko kepada kelompok yang lebih lemah.
 
-BAB 15. PENELITIAN EKOLOGI MANUSIA
+BAB 11. PENELITIAN EKOLOGI MANUSIA
 Penelitian dapat menggabungkan pengamatan lapangan, peta, data statistik, wawancara, dan survei. Metode harus sesuai pertanyaan dan memperhatikan persetujuan, privasi, serta keamanan peserta. Data kuantitatif menunjukkan pola, sedangkan wawancara dapat menjelaskan pengalaman dan makna. Keduanya saling melengkapi, tetapi tidak boleh digabung tanpa menjelaskan perbedaan cara pengumpulan dan batas kesimpulan.
 
 PROYEK

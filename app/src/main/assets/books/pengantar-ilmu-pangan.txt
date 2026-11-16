@@ -163,3 +163,35 @@ LATIHAN DENGAN PEMBAHASAN
 3. Mengapa rantai dingin perlu dicatat? Untuk mendeteksi dan menelusuri penyimpangan suhu.
 4. Apa perbedaan ketersediaan dan akses pangan? Ketersediaan berkaitan dengan pasokan; akses berkaitan dengan kemampuan memperoleh pangan.
 5. Mengapa label harus dibaca berdasarkan takaran saji? Karena nilai gizi yang dicantumkan dapat berubah sesuai jumlah yang dikonsumsi.
+BAB LANJUTAN: KIMIA PANGAN DAN PERUBAHAN SELAMA PENGOLAHAN
+
+Pangan tersusun dari air, karbohidrat, protein, lemak, vitamin, mineral, dan komponen minor lain. Komposisi memengaruhi tekstur, rasa, kestabilan, dan nilai gizi. Air tersedia tidak selalu sama dengan kadar air total. Aktivitas air menggambarkan ketersediaan air untuk reaksi dan pertumbuhan mikroorganisme, sehingga penting dalam memahami daya simpan.
+
+Protein dapat mengalami denaturasi akibat panas, perubahan pH, atau kondisi lain. Denaturasi mengubah struktur ruang protein dan dapat memengaruhi tekstur serta kemampuan mengikat air. Pada beberapa proses, perubahan tersebut diinginkan, misalnya pembentukan struktur gel; pada proses lain dapat menurunkan mutu.
+
+Karbohidrat dapat mengalami gelatinisasi ketika pati dipanaskan bersama air. Pendinginan dapat menyebabkan retrogradasi, yaitu penyusunan ulang molekul pati yang memengaruhi tekstur. Lemak dapat mengalami oksidasi yang menimbulkan bau tengik. Cahaya, oksigen, suhu, komposisi asam lemak, dan logam tertentu dapat memengaruhi laju oksidasi.
+
+BAB LANJUTAN: MIKROBIOLOGI DAN KEAMANAN PANGAN
+
+Mikroorganisme pada pangan dapat berperan dalam fermentasi, pembusukan, atau penyakit. Tidak semua mikroba berbahaya, dan tidak semua pangan yang tampak normal bebas dari bahaya. Keamanan perlu dinilai melalui proses produksi, penyimpanan, kebersihan, suhu, dan pengendalian kontaminasi.
+
+Pertumbuhan mikroba dipengaruhi suhu, pH, aktivitas air, ketersediaan nutrien, oksigen, serta waktu. Pengendalian dapat menggunakan kombinasi pemanasan, pendinginan, pengeringan, pengasaman, fermentasi, dan kemasan yang sesuai. Tidak ada satu metode yang cocok untuk semua produk. Proses harus mengikuti standar dan panduan keamanan pangan yang relevan.
+
+Kontaminasi silang dapat terjadi ketika bahan mentah, peralatan, permukaan, atau tangan memindahkan mikroorganisme ke pangan siap konsumsi. Pemisahan alur, sanitasi, kebersihan pekerja, dan pengendalian suhu merupakan bagian penting dari sistem keamanan. Catatan proses membantu penelusuran jika terjadi keluhan atau insiden.
+
+BAB LANJUTAN: PENGAWETAN, KEMASAN, DAN UMUR SIMPAN
+
+Pengawetan bertujuan memperlambat kerusakan dan menjaga keamanan serta mutu. Pendinginan menurunkan laju banyak reaksi dan pertumbuhan mikroba, tetapi tidak menghentikan semua proses. Pembekuan mengurangi ketersediaan air cair, namun perubahan tekstur dapat terjadi akibat pembentukan kristal es.
+
+Pengeringan menurunkan kadar air dan umumnya aktivitas air. Pengemasan melindungi produk dari kontaminasi, kelembapan, oksigen, cahaya, serta kerusakan mekanis. Pemilihan kemasan harus mempertimbangkan sifat produk, kondisi distribusi, keamanan bahan kontak pangan, dan dampak lingkungan.
+
+Umur simpan ditentukan melalui pengujian yang relevan terhadap produk dan kondisi penyimpanan. Parameter dapat mencakup mikrobiologi, kimia, fisik, sensori, dan integritas kemasan. Pengujian dipercepat dapat membantu pengembangan, tetapi tidak selalu menggantikan pengamatan kondisi nyata. Klaim umur simpan perlu didukung bukti dan kondisi penyimpanan yang jelas.
+
+BAB LANJUTAN: GIZI, LABEL, DAN KOMUNIKASI KONSUMEN
+
+Informasi gizi membantu konsumen memahami kandungan energi dan zat gizi, tetapi perlu dibaca dalam konteks ukuran saji dan pola makan keseluruhan. Klaim seperti “sumber serat” atau “rendah gula” harus mengikuti definisi dan ketentuan yang berlaku. Tampilan kemasan tidak boleh membuat klaim yang menyesatkan.
+
+Pengembangan produk perlu mempertimbangkan kebutuhan kelompok berbeda, termasuk alergi dan intoleransi. Informasi alergen harus jelas dan pengendalian kontaminasi silang perlu diterapkan. Formulasi baru perlu diuji dari sisi mutu, keamanan, penerimaan konsumen, dan konsistensi produksi.
+
+PROYEK KAJIAN PANGAN
+Pilih satu produk pangan kemasan. Analisis komposisi, proses pengolahan yang dapat diketahui, kemasan, informasi gizi, potensi bahaya, dan petunjuk penyimpanan. Bedakan informasi pada label dari dugaan proses yang belum terverifikasi. Ajukan perbaikan yang dapat diuji dan sesuai ketentuan keamanan pangan.

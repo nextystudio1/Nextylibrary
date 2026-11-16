@@ -42,151 +42,21 @@ BAB 2. POPULASI DAN SAMPEL
 
 Populasi adalah seluruh kelompok yang menjadi sasaran kajian, sedangkan sampel adalah bagian yang diamati. Sampel yang dipilih secara tepat dapat memberi gambaran populasi, tetapi sampel praktis yang hanya mengambil orang yang mudah dijangkau berisiko bias. Ukuran sampel saja tidak menjamin keterwakilan.
 
-PENDALAMAN KONSEP
-Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
-
-CONTOH KAJIAN
-Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
-
-LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
-2. Kumpulkan informasi dari sumber yang dapat diperiksa.
-3. Kelompokkan fakta, pendapat, dan dugaan.
-4. Terapkan konsep bab ini untuk menyusun penjelasan.
-5. Periksa apakah kesimpulan sesuai bukti.
-
-RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
-- Pahami proses, bukan hanya menghafal nama.
-- Gunakan contoh relevan dan jelaskan konteksnya.
-- Sebutkan keterbatasan informasi ketika bukti belum cukup.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
-3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
-4. Buat satu pertanyaan lanjutan yang dapat diteliti.
-5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
-
 BAB 3. JENIS DATA DAN KUALITAS PENGUKURAN
 
 Variabel kategorik mengelompokkan objek, sedangkan variabel numerik menyatakan besaran. Data dapat berasal dari pengukuran, pencatatan, survei, atau eksperimen. Definisi operasional perlu jelas agar pengukuran konsisten. Data hilang, salah input, dan perubahan cara ukur harus dicatat.
-
-PENDALAMAN KONSEP
-Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
-
-CONTOH KAJIAN
-Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
-
-LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
-2. Kumpulkan informasi dari sumber yang dapat diperiksa.
-3. Kelompokkan fakta, pendapat, dan dugaan.
-4. Terapkan konsep bab ini untuk menyusun penjelasan.
-5. Periksa apakah kesimpulan sesuai bukti.
-
-RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
-- Pahami proses, bukan hanya menghafal nama.
-- Gunakan contoh relevan dan jelaskan konteksnya.
-- Sebutkan keterbatasan informasi ketika bukti belum cukup.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
-3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
-4. Buat satu pertanyaan lanjutan yang dapat diteliti.
-5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
 
 BAB 4. RINGKASAN DAN VISUALISASI
 
 Rata-rata, median, dan modus merangkum pusat data dengan cara berbeda. Rentang dan simpangan baku menggambarkan variasi. Histogram, diagram batang, dan diagram pencar membantu melihat pola. Pilih grafik yang sesuai, beri label dan satuan, serta hindari skala yang membuat perbedaan tampak menyesatkan.
 
-PENDALAMAN KONSEP
-Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
-
-CONTOH KAJIAN
-Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
-
-LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
-2. Kumpulkan informasi dari sumber yang dapat diperiksa.
-3. Kelompokkan fakta, pendapat, dan dugaan.
-4. Terapkan konsep bab ini untuk menyusun penjelasan.
-5. Periksa apakah kesimpulan sesuai bukti.
-
-RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
-- Pahami proses, bukan hanya menghafal nama.
-- Gunakan contoh relevan dan jelaskan konteksnya.
-- Sebutkan keterbatasan informasi ketika bukti belum cukup.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
-3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
-4. Buat satu pertanyaan lanjutan yang dapat diteliti.
-5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
-
 BAB 5. HUBUNGAN DAN SEBAB-AKIBAT
 
 Korelasi menunjukkan keterkaitan dua variabel, tetapi tidak membuktikan bahwa satu variabel menyebabkan perubahan yang lain. Faktor ketiga, arah hubungan terbalik, dan kebetulan dapat menjelaskan pola. Klaim sebab-akibat membutuhkan desain penelitian dan bukti lebih kuat daripada sekadar dua angka bergerak bersama.
 
-PENDALAMAN KONSEP
-Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
-
-CONTOH KAJIAN
-Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
-
-LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
-2. Kumpulkan informasi dari sumber yang dapat diperiksa.
-3. Kelompokkan fakta, pendapat, dan dugaan.
-4. Terapkan konsep bab ini untuk menyusun penjelasan.
-5. Periksa apakah kesimpulan sesuai bukti.
-
-RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
-- Pahami proses, bukan hanya menghafal nama.
-- Gunakan contoh relevan dan jelaskan konteksnya.
-- Sebutkan keterbatasan informasi ketika bukti belum cukup.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
-3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
-4. Buat satu pertanyaan lanjutan yang dapat diteliti.
-5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
-
 BAB 6. KETIDAKPASTIAN DAN KOMUNIKASI HASIL
 
 Hasil statistik selalu memiliki ketidakpastian. Jelaskan ukuran sampel, cara pengumpulan, asumsi, dan batas generalisasi. Jangan hanya memilih angka yang mendukung kesimpulan. Komunikasi yang jujur menyampaikan temuan utama sekaligus hal yang belum dapat dipastikan.
-
-PENDALAMAN KONSEP
-Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
-
-CONTOH KAJIAN
-Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
-
-LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
-2. Kumpulkan informasi dari sumber yang dapat diperiksa.
-3. Kelompokkan fakta, pendapat, dan dugaan.
-4. Terapkan konsep bab ini untuk menyusun penjelasan.
-5. Periksa apakah kesimpulan sesuai bukti.
-
-RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
-- Pahami proses, bukan hanya menghafal nama.
-- Gunakan contoh relevan dan jelaskan konteksnya.
-- Sebutkan keterbatasan informasi ketika bukti belum cukup.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
-3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
-4. Buat satu pertanyaan lanjutan yang dapat diteliti.
-5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
 
 PROYEK AKHIR
 Susun proyek mini yang menghubungkan sedikitnya tiga bab. Tentukan pertanyaan, tujuan, batasan, sumber informasi, metode, hasil yang diharapkan, dan cara mengevaluasi hasil. Proyek tidak harus mahal atau rumit. Utamakan ketelitian, keselamatan, dan kejujuran dalam mencatat temuan.

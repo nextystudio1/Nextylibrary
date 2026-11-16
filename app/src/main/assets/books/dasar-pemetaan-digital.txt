@@ -6,14 +6,14 @@ DESKRIPSI
 Mengenal koordinat, skala, data spasial, sistem informasi geografis, dan etika peta.
 
 PENDAHULUAN
-Buku Dasar Pemetaan Digital membahas mengenal koordinat, skala, data spasial, sistem informasi geografis, dan etika peta.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini memperkenalkan pemetaan digital dan sistem informasi geografis. Materi mencakup koordinat, skala, proyeksi, data vektor dan raster, analisis spasial, visualisasi, kualitas data, serta etika penggunaan informasi lokasi.
 
 BAB 1. PETA DAN REPRESENTASI RUANG
 
 Peta adalah representasi terpilih dari permukaan bumi atau ruang lain. Setiap peta memiliki tujuan, skala, proyeksi, simbol, dan batas ketelitian. Peta tidak memuat seluruh kenyataan; pembuat memilih informasi relevan untuk tugas tertentu.
 
 PENDALAMAN
-Pada PETA DAN REPRESENTASI RUANG, petakan masukan, proses, keluaran, dan pihak yang menggunakan informasi. Periksa kualitas data, keandalan sistem, akses, serta akibat jika terjadi kesalahan. Uraikan alasan setiap keputusan teknis dan cara memeriksa hasilnya.
+Pada PETA DAN REPRESENTASI RUANG, tentukan tujuan peta dan pembacanya sebelum memilih skala, proyeksi, simbol, serta lapisan informasi. Peta untuk navigasi, perencanaan wilayah, dan penyajian statistik memerlukan pilihan desain yang berbeda.
 
 CONTOH PENERAPAN
 Contoh kajian: pilih kasus sederhana yang berkaitan dengan PETA DAN REPRESENTASI RUANG dalam bidang Dasar Pemetaan Digital. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.

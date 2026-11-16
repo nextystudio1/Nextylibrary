@@ -6,7 +6,7 @@ DESKRIPSI
 Mengenal larutan, konsentrasi, kelarutan, asam, basa, pH, dan reaksi netralisasi.
 
 TUJUAN PEMBELAJARAN
-Pembaca mampu menjelaskan konsep, menafsirkan contoh, memeriksa bukti, dan menerapkan pengetahuan secara bertanggung jawab.
+Setelah mempelajari Kimia Larutan dan Asam Basa, pembaca mampu menjelaskan mengenal larutan, konsentrasi, kelarutan, asam, basa, ph, dan reaksi netralisasi., membedakan istilah yang sering tertukar, menilai contoh berdasarkan bukti, dan menerapkan konsep secara tepat sesuai konteks.
 
 BAB 1. LARUTAN DAN CAMPURAN
 
@@ -16,15 +16,17 @@ CONTOH PENERAPAN
 Contoh kajian: pilih kasus sederhana yang berkaitan dengan LARUTAN DAN CAMPURAN dalam bidang Kimia Larutan dan Asam Basa. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
 
 RANGKUMAN
-- Kenali definisi dan batas penggunaan konsep.
-- Hubungkan penjelasan dengan contoh nyata.
-- Periksa satuan, konteks, dan sumber informasi.
+- LARUTAN DAN CAMPURAN: pahami istilah dan prinsip yang menjadi dasar pembahasan.
+- Perhatikan hubungan sebab, proses, dan akibat yang dijelaskan dalam bab.
+- Gunakan contoh untuk menguji apakah konsep dipahami dengan benar.
+- Nyatakan batas informasi sebelum membuat kesimpulan.
 
 LATIHAN
-1. Jelaskan dua istilah utama dari bab ini.
-2. Buat satu contoh baru dan uraikan alasannya.
-3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
-4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+1. Definisikan dua istilah penting dalam LARUTAN DAN CAMPURAN.
+2. Jelaskan proses atau hubungan utama secara berurutan.
+3. Buat contoh baru dan terangkan mengapa sesuai.
+4. Identifikasi satu batasan atau kesalahan penafsiran.
+5. Susun pertanyaan yang membutuhkan bukti tambahan.
 
 BAB 2. KELARUTAN DAN FAKTOR PENGARUH
 
@@ -54,7 +56,7 @@ EVALUASI AKHIR
 5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 PEDOMAN JAWABAN
-Jawaban dinilai dari ketepatan konsep, kejelasan alasan, relevansi contoh, dan kemampuan menyatakan batas pengetahuan. Jawaban berbeda dapat diterima apabila didukung penalaran dan bukti yang sesuai.
+Untuk Kimia Larutan dan Asam Basa, jawaban perlu menggunakan istilah bidang secara akurat, menunjukkan hubungan konsep dengan contoh, dan menjelaskan alasan setiap kesimpulan. Terima penafsiran berbeda jika konsisten, didukung bukti, dan tidak melampaui informasi yang tersedia.
 
 GLOSARIUM
 Larutan: Campuran homogen pelarut dan zat terlarut.
@@ -64,8 +66,7 @@ pH: Ukuran yang berkaitan dengan aktivitas ion hidrogen.
 Netralisasi: Reaksi antara asam dan basa.
 
 SARAN BELAJAR
-Gunakan buku ini sebagai pengantar. Cocokkan informasi dengan buku ajar dan publikasi lembaga yang kompeten, terutama untuk topik yang berkembang. Catat sumber, penulis atau lembaga, tahun, dan bagian yang digunakan ketika memperluas bacaan.
-PENDALAMAN MATERI DAN PRAKTIK
+Saat memperdalam Kimia Larutan dan Asam Basa, bandingkan penjelasan buku ini dengan buku ajar dan publikasi lembaga yang relevan. Buat daftar istilah baru, cari contoh yang dapat diperiksa, dan catat perbedaan definisi atau metode. Utamakan sumber yang menjelaskan penulis, tanggal, dan dasar informasinya.
 
 BAB 6. SATUAN KONSENTRASI DAN PENGENCERAN
 Konsentrasi dapat dinyatakan dengan beberapa cara. Persen massa membandingkan massa zat terlarut dengan massa larutan, sedangkan molaritas menyatakan jumlah mol zat terlarut per liter larutan. Pemilihan satuan bergantung pada kebutuhan perhitungan. Dalam pengenceran, jumlah mol zat terlarut tetap jika tidak terjadi reaksi atau kehilangan zat. Hubungan yang sering digunakan adalah M1V1 = M2V2, dengan volume dinyatakan dalam satuan yang konsisten. Misalnya, larutan 2 molar sebanyak 100 mililiter diencerkan hingga 400 mililiter. Konsentrasi akhirnya menjadi 0,5 molar karena volume menjadi empat kali dan jumlah zat terlarut tetap. Persamaan ini tidak boleh digunakan sembarangan jika terjadi reaksi, penguapan zat terlarut, atau perubahan jumlah mol. Dalam praktik laboratorium, perhitungan harus disertai pencatatan satuan dan prosedur keselamatan.

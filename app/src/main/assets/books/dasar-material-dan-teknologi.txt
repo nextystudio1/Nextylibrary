@@ -36,121 +36,21 @@ BAB 2. LOGAM DAN PADUAN
 
 Logam umumnya memiliki konduktivitas listrik dan panas yang baik serta dapat dibentuk. Paduan menggabungkan unsur untuk mengubah sifat. Baja, aluminium, dan tembaga digunakan pada aplikasi berbeda. Korosi dapat mengurangi kinerja, sehingga lingkungan, pelapisan, dan perawatan perlu diperhitungkan.
 
-PENJELASAN LANJUTAN
-Dalam menggunakan konsep ini, perhatikan asumsi dan kondisi yang menyertainya. Sebuah model atau aturan biasanya dibuat untuk menjelaskan keadaan tertentu, bukan seluruh kemungkinan. Periksa definisi variabel, satuan, rentang penggunaan, serta faktor lain yang dapat mengubah hasil. Jika data tidak lengkap, nyatakan batas pengetahuan dan hindari kesimpulan yang terlalu luas.
-
-CONTOH DAN PENERAPAN
-Buat contoh dari situasi yang dapat diamati. Tuliskan tujuan, kondisi awal, proses, dan hasil. Bandingkan dengan situasi lain yang memiliki satu atau dua kondisi berbeda. Perbandingan membantu melihat unsur mana yang penting dan mana yang hanya kebetulan muncul bersamaan.
-
-AKTIVITAS
-1. Susun peta konsep dari istilah penting.
-2. Buat tabel yang membandingkan dua konsep terkait.
-3. Cari contoh penerapan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan yang memerlukan bukti tambahan.
-
-LATIHAN
-1. Jelaskan gagasan utama bab ini dengan kalimat sendiri.
-2. Uraikan proses atau hubungan yang dibahas secara berurutan.
-3. Berikan contoh baru dan jelaskan mengapa sesuai.
-4. Sebutkan keterbatasan model atau penjelasan.
-5. Tulis satu rekomendasi berdasarkan bukti yang tersedia.
-
 BAB 3. POLIMER DAN ELASTOMER
 
 Polimer tersusun dari rantai molekul panjang. Sifatnya dipengaruhi struktur rantai, suhu, aditif, dan proses pembentukan. Termoplastik dapat dilunakkan kembali dengan pemanasan yang sesuai, sedangkan termoset membentuk jaringan yang tidak mudah dilelehkan ulang. Elastomer dapat mengalami deformasi besar dan kembali mendekati bentuk awal.
-
-PENJELASAN LANJUTAN
-Dalam menggunakan konsep ini, perhatikan asumsi dan kondisi yang menyertainya. Sebuah model atau aturan biasanya dibuat untuk menjelaskan keadaan tertentu, bukan seluruh kemungkinan. Periksa definisi variabel, satuan, rentang penggunaan, serta faktor lain yang dapat mengubah hasil. Jika data tidak lengkap, nyatakan batas pengetahuan dan hindari kesimpulan yang terlalu luas.
-
-CONTOH DAN PENERAPAN
-Buat contoh dari situasi yang dapat diamati. Tuliskan tujuan, kondisi awal, proses, dan hasil. Bandingkan dengan situasi lain yang memiliki satu atau dua kondisi berbeda. Perbandingan membantu melihat unsur mana yang penting dan mana yang hanya kebetulan muncul bersamaan.
-
-AKTIVITAS
-1. Susun peta konsep dari istilah penting.
-2. Buat tabel yang membandingkan dua konsep terkait.
-3. Cari contoh penerapan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan yang memerlukan bukti tambahan.
-
-LATIHAN
-1. Jelaskan gagasan utama bab ini dengan kalimat sendiri.
-2. Uraikan proses atau hubungan yang dibahas secara berurutan.
-3. Berikan contoh baru dan jelaskan mengapa sesuai.
-4. Sebutkan keterbatasan model atau penjelasan.
-5. Tulis satu rekomendasi berdasarkan bukti yang tersedia.
 
 BAB 4. KERAMIK DAN KACA
 
 Keramik umumnya keras dan tahan suhu tinggi, tetapi banyak jenisnya rapuh terhadap benturan. Kaca memiliki struktur amorf dan sifat optik yang berguna. Penggunaan memerlukan pertimbangan retak, kejut termal, dan metode penguatan. Sifat material perlu dipahami dalam konteks desain komponen.
 
-PENJELASAN LANJUTAN
-Dalam menggunakan konsep ini, perhatikan asumsi dan kondisi yang menyertainya. Sebuah model atau aturan biasanya dibuat untuk menjelaskan keadaan tertentu, bukan seluruh kemungkinan. Periksa definisi variabel, satuan, rentang penggunaan, serta faktor lain yang dapat mengubah hasil. Jika data tidak lengkap, nyatakan batas pengetahuan dan hindari kesimpulan yang terlalu luas.
-
-CONTOH DAN PENERAPAN
-Buat contoh dari situasi yang dapat diamati. Tuliskan tujuan, kondisi awal, proses, dan hasil. Bandingkan dengan situasi lain yang memiliki satu atau dua kondisi berbeda. Perbandingan membantu melihat unsur mana yang penting dan mana yang hanya kebetulan muncul bersamaan.
-
-AKTIVITAS
-1. Susun peta konsep dari istilah penting.
-2. Buat tabel yang membandingkan dua konsep terkait.
-3. Cari contoh penerapan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan yang memerlukan bukti tambahan.
-
-LATIHAN
-1. Jelaskan gagasan utama bab ini dengan kalimat sendiri.
-2. Uraikan proses atau hubungan yang dibahas secara berurutan.
-3. Berikan contoh baru dan jelaskan mengapa sesuai.
-4. Sebutkan keterbatasan model atau penjelasan.
-5. Tulis satu rekomendasi berdasarkan bukti yang tersedia.
-
 BAB 5. KOMPOSIT DAN MATERIAL CERDAS
 
 Komposit menggabungkan dua atau lebih bahan untuk memperoleh kombinasi sifat. Serat dapat memperkuat matriks, sementara orientasi serat memengaruhi kekuatan. Material cerdas dapat merespons suhu, tekanan, medan, atau rangsangan lain. Kinerja bergantung pada rancangan dan kondisi pemakaian.
 
-PENJELASAN LANJUTAN
-Dalam menggunakan konsep ini, perhatikan asumsi dan kondisi yang menyertainya. Sebuah model atau aturan biasanya dibuat untuk menjelaskan keadaan tertentu, bukan seluruh kemungkinan. Periksa definisi variabel, satuan, rentang penggunaan, serta faktor lain yang dapat mengubah hasil. Jika data tidak lengkap, nyatakan batas pengetahuan dan hindari kesimpulan yang terlalu luas.
-
-CONTOH DAN PENERAPAN
-Buat contoh dari situasi yang dapat diamati. Tuliskan tujuan, kondisi awal, proses, dan hasil. Bandingkan dengan situasi lain yang memiliki satu atau dua kondisi berbeda. Perbandingan membantu melihat unsur mana yang penting dan mana yang hanya kebetulan muncul bersamaan.
-
-AKTIVITAS
-1. Susun peta konsep dari istilah penting.
-2. Buat tabel yang membandingkan dua konsep terkait.
-3. Cari contoh penerapan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan yang memerlukan bukti tambahan.
-
-LATIHAN
-1. Jelaskan gagasan utama bab ini dengan kalimat sendiri.
-2. Uraikan proses atau hubungan yang dibahas secara berurutan.
-3. Berikan contoh baru dan jelaskan mengapa sesuai.
-4. Sebutkan keterbatasan model atau penjelasan.
-5. Tulis satu rekomendasi berdasarkan bukti yang tersedia.
-
 BAB 6. PENGUJIAN DAN KEBERLANJUTAN
 
 Pengujian material mengukur sifat melalui metode terstandar. Sampel, kondisi, dan prosedur harus dicatat agar hasil dapat dibandingkan. Evaluasi keberlanjutan mempertimbangkan bahan baku, energi produksi, umur pakai, perbaikan, daur ulang, dan limbah. Keputusan tidak cukup berdasarkan satu klaim pemasaran.
-
-PENJELASAN LANJUTAN
-Dalam menggunakan konsep ini, perhatikan asumsi dan kondisi yang menyertainya. Sebuah model atau aturan biasanya dibuat untuk menjelaskan keadaan tertentu, bukan seluruh kemungkinan. Periksa definisi variabel, satuan, rentang penggunaan, serta faktor lain yang dapat mengubah hasil. Jika data tidak lengkap, nyatakan batas pengetahuan dan hindari kesimpulan yang terlalu luas.
-
-CONTOH DAN PENERAPAN
-Buat contoh dari situasi yang dapat diamati. Tuliskan tujuan, kondisi awal, proses, dan hasil. Bandingkan dengan situasi lain yang memiliki satu atau dua kondisi berbeda. Perbandingan membantu melihat unsur mana yang penting dan mana yang hanya kebetulan muncul bersamaan.
-
-AKTIVITAS
-1. Susun peta konsep dari istilah penting.
-2. Buat tabel yang membandingkan dua konsep terkait.
-3. Cari contoh penerapan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan yang memerlukan bukti tambahan.
-
-LATIHAN
-1. Jelaskan gagasan utama bab ini dengan kalimat sendiri.
-2. Uraikan proses atau hubungan yang dibahas secara berurutan.
-3. Berikan contoh baru dan jelaskan mengapa sesuai.
-4. Sebutkan keterbatasan model atau penjelasan.
-5. Tulis satu rekomendasi berdasarkan bukti yang tersedia.
 
 PROYEK AKHIR
 Pilih satu persoalan yang relevan dengan bidang buku. Rumuskan pertanyaan, tujuan, batasan, dan metode kajian. Gunakan sumber yang dapat diperiksa. Sajikan hasil dalam bentuk laporan, diagram, atau presentasi. Pisahkan data, interpretasi, dan rekomendasi. Sertakan catatan keterbatasan serta langkah lanjutan.

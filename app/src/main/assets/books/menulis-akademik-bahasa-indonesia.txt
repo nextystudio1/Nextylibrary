@@ -421,3 +421,50 @@ Tulis satu paragraf dengan klaim, dua bukti, dan penjelasan. Tandai kalimat yang
 
 RANGKUMAN
 Tulisan akademik yang kuat memiliki pertanyaan terarah, tesis yang dapat diuji, bukti yang relevan, sitasi jujur, serta revisi yang memeriksa isi dan bahasa.
+
+BAB PENGAYAAN — MEMBANGUN ARGUMEN AKADEMIK
+
+Tulisan akademik menyampaikan gagasan melalui klaim, alasan, dan bukti. Klaim adalah pernyataan utama yang hendak dipertahankan. Alasan menjelaskan mengapa klaim masuk akal, sedangkan bukti mendukung alasan melalui data, hasil penelitian, dokumen, atau sumber tepercaya. Penulis perlu menjelaskan hubungan antara bukti dan klaim, bukan hanya menumpuk kutipan.
+
+Argumen yang kuat juga mempertimbangkan batas dan kemungkinan sanggahan. Mengakui keterbatasan tidak melemahkan tulisan; justru menunjukkan bahwa penulis memahami ruang lingkup kesimpulan. Jika bukti hanya berasal dari sampel kecil, kesimpulan sebaiknya tidak digeneralisasi secara berlebihan.
+
+BAB PENGAYAAN — PARAFRASE, RINGKASAN, DAN KUTIPAN
+
+Parafrase menyampaikan kembali gagasan sumber dengan struktur dan kata-kata sendiri sambil mempertahankan makna. Mengganti beberapa kata dengan sinonim belum tentu menjadi parafrase yang baik jika susunan dan gagasan masih menyalin sumber. Setelah parafrase, sumber tetap harus dicantumkan karena gagasan berasal dari penulis lain.
+
+Ringkasan mengambil inti teks yang lebih panjang dan menghilangkan rincian yang tidak diperlukan. Kutipan langsung menggunakan kata-kata sumber secara persis dan harus diberi penanda serta rujukan sesuai gaya sitasi. Gunakan kutipan langsung secara hemat, terutama jika gagasan dapat dijelaskan lebih jelas melalui parafrase.
+
+BAB PENGAYAAN — STRUKTUR PARAGRAF DAN KOHESI
+
+Paragraf akademik umumnya memiliki satu gagasan utama dan beberapa kalimat penjelas. Kalimat topik memperkenalkan fokus, kalimat pendukung memberikan alasan atau bukti, dan kalimat penutup menghubungkan gagasan dengan bagian berikutnya. Tidak semua paragraf harus mengikuti pola kaku, tetapi pembaca perlu dapat mengenali hubungan antar kalimat.
+
+Kohesi berkaitan dengan hubungan bentuk bahasa, seperti penggunaan kata rujukan dan konjungsi. Koherensi berkaitan dengan kesinambungan makna. Kata penghubung seperti “namun”, “sebab”, dan “oleh karena itu” harus mencerminkan hubungan logis yang benar. Jangan menggunakan konjungsi hanya untuk membuat kalimat terdengar formal.
+
+BAB PENGAYAAN — PENYUNTINGAN DAN ETIKA PUBLIKASI
+
+Penyuntingan dilakukan dalam beberapa tahap. Tahap pertama memeriksa struktur argumen dan kelengkapan isi. Tahap kedua memeriksa paragraf, transisi, dan kejelasan kalimat. Tahap terakhir memeriksa ejaan, tanda baca, konsistensi istilah, tabel, gambar, dan daftar pustaka.
+
+Etika akademik menuntut kejujuran dalam penggunaan sumber, data, dan kontribusi. Jangan mengarang data, memalsukan kutipan, atau menyembunyikan hasil yang tidak sesuai harapan. Jika menggunakan bantuan perangkat digital atau AI, ikuti aturan institusi dan tetap bertanggung jawab atas isi akhir.
+
+LATIHAN
+1. Apa tiga unsur dasar argumen akademik?
+2. Mengapa parafrase tetap memerlukan sitasi?
+3. Apa perbedaan kohesi dan koherensi?
+4. Mengapa penyuntingan perlu dilakukan bertahap?
+5. Sebutkan tiga bentuk pelanggaran etika akademik.
+
+KUNCI PEMBAHASAN
+1. Klaim, alasan, dan bukti.
+2. Karena gagasan tetap berasal dari sumber lain.
+3. Kohesi berkaitan dengan hubungan bentuk bahasa; koherensi berkaitan dengan kesinambungan makna.
+4. Agar masalah struktur dan isi diperbaiki sebelum fokus pada detail ejaan.
+5. Plagiarisme, pemalsuan data, dan kutipan palsu.
+
+GLOSARIUM TAMBAHAN
+Klaim: pernyataan utama yang didukung argumen.
+Parafrase: penyampaian ulang gagasan sumber dengan bahasa sendiri.
+Ringkasan: penyajian inti teks secara singkat.
+Kohesi: keterkaitan unsur bahasa dalam teks.
+Koherensi: kesinambungan dan keterpaduan makna.
+Sanggahan: argumen yang menentang atau membatasi klaim.
+Sitasi: penunjukan sumber gagasan atau informasi.

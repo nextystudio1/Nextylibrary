@@ -465,3 +465,67 @@ Susun anggaran sederhana dari pemasukan fiktif. Pisahkan kebutuhan pokok, kewaji
 
 RANGKUMAN
 Keputusan ekonomi rumah tangga menggabungkan anggaran, waktu, inflasi, biaya kesempatan, dan risiko. Perencanaan yang baik tidak menjanjikan hasil instan, tetapi membantu membuat pilihan lebih sadar.
+
+BAB PENGAYAAN — KELANGKAAN, PILIHAN, DAN BIAYA PELUANG
+
+Sumber daya terbatas sedangkan kebutuhan dan keinginan manusia beragam. Kelangkaan membuat individu, keluarga, perusahaan, dan pemerintah harus memilih. Setiap pilihan memiliki biaya peluang, yaitu nilai dari alternatif terbaik yang dilepaskan. Jika seseorang menggunakan waktu sore untuk bekerja, biaya peluangnya mungkin waktu belajar atau kegiatan lain yang tidak dilakukan.
+
+Biaya peluang tidak selalu berupa uang. Waktu, tenaga, ruang, dan kesempatan juga merupakan sumber daya. Ketika membandingkan dua pilihan, pertimbangkan manfaat langsung dan manfaat alternatif yang dikorbankan. Keputusan yang baik bukan berarti memilih sesuatu yang paling murah, melainkan memilih yang paling sesuai dengan tujuan dan batasan.
+
+BAB PENGAYAAN — PERMINTAAN, PENAWARAN, DAN HARGA
+
+Permintaan menunjukkan jumlah barang atau jasa yang ingin dan mampu dibeli konsumen pada berbagai tingkat harga. Penawaran menunjukkan jumlah yang ingin dan mampu dijual produsen. Dalam model sederhana, harga pasar bergerak menuju titik ketika jumlah yang diminta dan ditawarkan seimbang. Dalam kenyataan, pajak, subsidi, biaya produksi, ekspektasi, persaingan, dan perubahan selera dapat memengaruhi harga.
+
+Jika harga suatu barang naik, jumlah yang diminta biasanya turun dengan asumsi faktor lain tetap. Namun perubahan pendapatan atau harga barang pengganti dapat menggeser seluruh kurva permintaan. Barang pengganti memenuhi kebutuhan serupa, sedangkan barang pelengkap sering digunakan bersama. Contohnya, perubahan harga bahan bakar dapat memengaruhi permintaan terhadap moda transportasi tertentu.
+
+Elastisitas mengukur seberapa peka jumlah yang diminta atau ditawarkan terhadap perubahan harga atau faktor lain. Barang kebutuhan pokok tertentu dapat memiliki permintaan yang relatif tidak elastis dalam jangka pendek, sementara barang yang memiliki banyak pengganti dapat lebih elastis. Elastisitas membantu perusahaan dan pembuat kebijakan memahami kemungkinan dampak perubahan harga.
+
+BAB PENGAYAAN — INFLASI DAN DAYA BELI
+
+Inflasi adalah kenaikan tingkat harga umum secara berkelanjutan, bukan sekadar naiknya harga satu barang. Indeks harga konsumen mengukur perubahan harga keranjang barang dan jasa yang mewakili pola konsumsi rumah tangga. Keranjang dan bobot perlu diperbarui agar mencerminkan perubahan kebiasaan belanja.
+
+Ketika pendapatan nominal tetap tetapi harga umum naik, daya beli menurun. Jika pendapatan meningkat lebih cepat daripada inflasi, daya beli dapat meningkat. Perbandingan harus menggunakan periode dan ukuran yang konsisten. Inflasi juga dapat berbeda antarwilayah dan kelompok rumah tangga karena pola konsumsi tidak sama.
+
+Penyebab inflasi dapat berkaitan dengan peningkatan permintaan, kenaikan biaya produksi, gangguan pasokan, atau faktor lain. Kebijakan untuk mengatasinya perlu memahami sumber masalah. Kebijakan yang menekan permintaan mungkin tidak langsung memperbaiki gangguan pasokan, sementara bantuan yang tepat sasaran dapat membantu kelompok rentan menghadapi kenaikan harga kebutuhan penting.
+
+BAB PENGAYAAN — PRODUKTIVITAS DAN PEMBAGIAN KERJA
+
+Produktivitas mengukur keluaran dibandingkan masukan yang digunakan. Produktivitas tenaga kerja dapat dihitung sebagai jumlah keluaran per jam kerja. Peningkatan produktivitas dapat berasal dari keterampilan, teknologi, organisasi kerja, infrastruktur, dan kualitas bahan. Produktivitas yang lebih tinggi dapat mendukung peningkatan pendapatan, tetapi pembagian manfaatnya bergantung pada institusi dan kebijakan.
+
+Spesialisasi memungkinkan seseorang atau organisasi berfokus pada kegiatan yang dapat dilakukan relatif lebih efisien. Perdagangan kemudian memungkinkan pertukaran hasil. Keunggulan komparatif menjelaskan bahwa pihak dapat memperoleh manfaat dari spesialisasi berdasarkan biaya peluang relatif, bukan hanya siapa yang paling cepat menghasilkan semua barang.
+
+BAB PENGAYAAN — PERAN PEMERINTAH DAN BARANG PUBLIK
+
+Pemerintah menyediakan layanan dan infrastruktur yang penting bagi masyarakat, seperti jalan, pendidikan, kesehatan publik, dan perlindungan lingkungan. Sebagian barang publik memiliki sifat sulit mengecualikan pengguna dan penggunaan oleh satu orang tidak banyak mengurangi ketersediaan bagi orang lain. Pasar dapat kurang menyediakan barang seperti ini karena sulit menarik pembayaran dari setiap penerima manfaat.
+
+Pajak menjadi salah satu sumber pembiayaan layanan publik. Sistem pajak perlu mempertimbangkan keadilan, efisiensi, kemudahan administrasi, dan dampak terhadap perilaku. Subsidi dapat membantu akses terhadap barang penting, tetapi harus dirancang agar tepat sasaran dan tidak menimbulkan pemborosan besar.
+
+Kebijakan publik memiliki konsekuensi dan trade-off. Program yang membantu satu kelompok dapat menimbulkan biaya bagi kelompok lain atau anggaran umum. Evaluasi perlu melihat tujuan, biaya, manfaat, siapa yang menerima manfaat, siapa yang menanggung biaya, dan dampak jangka panjang.
+
+LATIHAN
+1. Jelaskan biaya peluang dengan contoh nonuang.
+2. Apa perbedaan pergeseran jumlah yang diminta dan pergeseran kurva permintaan?
+3. Mengapa kenaikan harga satu barang belum tentu berarti inflasi?
+4. Bagaimana produktivitas tenaga kerja dihitung?
+5. Apa yang dimaksud barang publik?
+6. Mengapa evaluasi kebijakan perlu melihat siapa yang menerima manfaat dan menanggung biaya?
+
+KUNCI PEMBAHASAN
+1. Menggunakan waktu untuk satu kegiatan berarti melepaskan kegiatan alternatif terbaik, misalnya waktu belajar ketika memilih bekerja.
+2. Perubahan jumlah yang diminta terjadi akibat perubahan harga barang itu sendiri; pergeseran kurva disebabkan faktor lain seperti pendapatan atau selera.
+3. Inflasi adalah kenaikan tingkat harga umum yang berkelanjutan, bukan perubahan satu harga saja.
+4. Keluaran dibagi masukan tenaga kerja, misalnya unit produk per jam kerja.
+5. Barang yang sulit mengecualikan pengguna dan konsumsi satu orang tidak banyak mengurangi kesempatan orang lain menggunakannya.
+6. Karena dampak kebijakan tidak tersebar merata dan perlu dinilai dari sisi keadilan serta efisiensi.
+
+GLOSARIUM TAMBAHAN
+Kelangkaan: keadaan ketika sumber daya terbatas dibanding kebutuhan.
+Biaya peluang: nilai alternatif terbaik yang dilepaskan.
+Permintaan: jumlah yang ingin dan mampu dibeli pada berbagai harga.
+Penawaran: jumlah yang ingin dan mampu dijual pada berbagai harga.
+Elastisitas: ukuran kepekaan jumlah terhadap perubahan faktor tertentu.
+Inflasi: kenaikan tingkat harga umum secara berkelanjutan.
+Daya beli: jumlah barang dan jasa yang dapat dibeli dengan pendapatan.
+Produktivitas: perbandingan keluaran dengan masukan.
+Keunggulan komparatif: kemampuan menghasilkan sesuatu dengan biaya peluang relatif lebih rendah.
+Barang publik: barang dengan sifat sulit mengecualikan pengguna dan tidak banyak berkurang karena digunakan bersama.

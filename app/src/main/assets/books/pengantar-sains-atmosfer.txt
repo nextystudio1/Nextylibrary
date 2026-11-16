@@ -13,17 +13,17 @@ BAB 1. LAPISAN ATMOSFER
 Atmosfer adalah selubung gas yang mengelilingi bumi dan berperan dalam pengaturan suhu, cuaca, serta perlindungan dari sebagian radiasi. Lapisan atmosfer dibedakan berdasarkan perubahan suhu terhadap ketinggian. Troposfer merupakan tempat sebagian besar fenomena cuaca berlangsung, sedangkan stratosfer memuat lapisan ozon yang menyerap sebagian radiasi ultraviolet.
 
 PENDALAMAN
-Konsep atmosfer saling berkaitan. Perubahan suhu dapat mengubah kerapatan udara; perbedaan tekanan dapat memengaruhi angin; gerakan udara dapat mengangkat uap air dan memengaruhi awan. Hubungan tersebut tidak selalu sederhana karena topografi, kelembapan, dan sistem cuaca yang lebih luas turut berperan. Gunakan model sebagai alat bantu dan periksa batas penggunaannya.
+Atmosfer tersusun atas beberapa lapisan dengan profil suhu berbeda. Troposfer merupakan tempat sebagian besar fenomena cuaca berlangsung, sedangkan stratosfer mengandung lapisan ozon yang menyerap sebagian radiasi ultraviolet.
 
 PENGAMATAN
-Catat kondisi langit, suhu dari sumber pengukuran yang sesuai, arah angin, dan waktu pengamatan. Bandingkan dengan prakiraan resmi untuk lokasi dan jam yang sama. Jangan menyimpulkan pola iklim dari beberapa hari pengamatan karena iklim memerlukan data jangka panjang.
+Gunakan diagram lapisan atmosfer untuk menandai ketinggian relatif dan fenomena utama pada tiap lapisan. Bandingkan dengan sumber pendidikan yang dapat dipercaya.
 
 LATIHAN
-1. Jelaskan istilah utama bab ini.
-2. Buat diagram proses yang menghubungkan dua konsep.
-3. Berikan contoh penerapan dalam kehidupan.
-4. Sebutkan faktor yang dapat mengubah hasil pengamatan.
-5. Jelaskan mengapa prakiraan memiliki ketidakpastian.
+1. Sebutkan urutan lapisan atmosfer dari permukaan Bumi ke atas.
+2. Di lapisan mana sebagian besar cuaca berlangsung?
+3. Apa peran ozon di stratosfer?
+4. Mengapa suhu tidak berubah dengan pola yang sama pada semua lapisan?
+5. Jelaskan mengapa atmosfer penting bagi kehidupan.
 
 BAB 2. KOMPOSISI UDARA
 
@@ -66,19 +66,19 @@ CATATAN SUMBER
 Materi ini merupakan pengantar orisinal Nexty Studio. Untuk informasi cuaca terkini, ikuti badan meteorologi resmi dan periksa waktu penerbitan peringatan.
 PENDALAMAN MATERI DAN PENGAMATAN
 
-BAB 6. TEKANAN UDARA DAN SUHU
+BAB 7. TEKANAN UDARA DAN SUHU
 Tekanan udara merupakan gaya per satuan luas yang ditimbulkan oleh berat kolom udara. Tekanan umumnya berkurang ketika ketinggian bertambah karena jumlah udara di atas suatu tempat semakin sedikit. Suhu menggambarkan keadaan termal udara dan memengaruhi kerapatan serta gerak molekul. Udara hangat pada tekanan yang sama umumnya lebih renggang daripada udara dingin. Namun, gerak atmosfer tidak hanya ditentukan suhu; kelembapan, tekanan, topografi, dan dinamika skala besar ikut berperan. Pengukuran suhu perlu dilakukan di tempat teduh dan berventilasi sesuai standar agar tidak dipengaruhi radiasi langsung. Data tekanan dan suhu selalu perlu disertai waktu serta lokasi pengamatan.
 
-BAB 7. KELEMBAPAN, KONDENSASI, DAN AWAN
+BAB 8. KELEMBAPAN, KONDENSASI, DAN AWAN
 Kelembapan menyatakan kandungan uap air di udara. Kelembapan relatif membandingkan jumlah uap air aktual dengan jumlah maksimum yang dapat ditampung udara pada suhu tersebut. Ketika udara mendingin hingga mencapai kondisi jenuh, uap air dapat mengalami kondensasi pada partikel kecil di atmosfer dan membentuk tetes awan. Awan memiliki bentuk dan ketinggian beragam yang berkaitan dengan proses pembentukannya. Kehadiran awan tidak selalu berarti hujan akan turun di lokasi pengamat. Untuk memahami peluang hujan, perlu memperhatikan jenis awan, perkembangan vertikal, kelembapan, dan data pengamatan lain.
 
-BAB 8. ANGIN, SIRKULASI, DAN ANGIN LOKAL
+BAB 9. ANGIN, SIRKULASI, DAN ANGIN LOKAL
 Angin adalah gerakan udara yang dipengaruhi perbedaan tekanan. Udara cenderung bergerak dari tekanan lebih tinggi menuju tekanan lebih rendah, tetapi rotasi bumi dan gesekan permukaan mengubah arah serta kecepatannya. Bentuk muka bumi dapat menghasilkan pola angin lokal. Pada siang hari, daratan lebih cepat menghangat daripada laut dalam kondisi tertentu sehingga dapat terbentuk angin laut. Pada malam hari, perbedaan pendinginan dapat membalik pola menjadi angin darat. Pola ini dipengaruhi musim, awan, dan kondisi geografis, sehingga tidak selalu muncul dengan kekuatan sama. Pengamatan angin perlu mencatat arah, kecepatan, waktu, dan keadaan sekitar.
 
-BAB 9. HUJAN, BADAI, DAN CUACA EKSTREM
+BAB 10. HUJAN, BADAI, DAN CUACA EKSTREM
 Hujan terbentuk ketika tetes air atau kristal es dalam awan tumbuh cukup besar untuk jatuh ke permukaan. Intensitas hujan dapat berubah cepat dan dipengaruhi dinamika awan serta kondisi atmosfer. Badai petir dapat disertai hujan lebat, angin kencang, petir, atau hujan es. Risiko cuaca ekstrem bergantung pada intensitas, durasi, lokasi, paparan, dan kerentanan masyarakat. Informasi prakiraan bukan kepastian mutlak; pembaruan diperlukan ketika kondisi berubah. Untuk keputusan keselamatan, ikuti peringatan resmi dan jangan mendekati lokasi banjir, sambaran petir, atau pohon dan bangunan yang tidak stabil.
 
-BAB 10. PRAKIRAAN, IKLIM, DAN LITERASI DATA
+BAB 11. PRAKIRAAN, IKLIM, DAN LITERASI DATA
 Cuaca menggambarkan keadaan atmosfer dalam waktu relatif singkat, sedangkan iklim merangkum pola statistik dalam periode panjang. Prakiraan menggunakan pengamatan, model numerik, dan pengetahuan proses atmosfer. Akurasi bergantung pada skala waktu, wilayah, kualitas data, dan kompleksitas keadaan. Peluang hujan 60 persen tidak berarti hujan turun selama 60 persen hari; maknanya mengikuti definisi probabilitas pada layanan prakiraan. Ketika membandingkan data, gunakan satuan, periode, dan lokasi yang sama. Grafik perlu memiliki label sumbu dan sumber. Perubahan iklim dinilai melalui tren jangka panjang, bukan satu hari panas atau satu kejadian hujan.
 
 STUDI KASUS
@@ -98,19 +98,19 @@ Tekanan udara: gaya per satuan luas akibat udara.
 Cuaca: keadaan atmosfer dalam waktu dan tempat tertentu.
 Iklim: pola statistik cuaca dalam periode panjang.
 
-BAB 11. TEKANAN UDARA DAN SIRKULASI
+BAB 12. TEKANAN UDARA DAN SIRKULASI
 Tekanan udara adalah gaya per satuan luas yang ditimbulkan oleh berat kolom udara. Tekanan umumnya berkurang ketika ketinggian bertambah. Perbedaan tekanan membantu menggerakkan udara dari wilayah bertekanan relatif tinggi menuju wilayah bertekanan relatif rendah, meskipun arah dan kecepatannya juga dipengaruhi rotasi bumi serta gesekan. Pola sirkulasi terbentuk dari pemanasan permukaan yang tidak merata, distribusi daratan dan lautan, serta perubahan musim.
 
-BAB 12. KELEMBAPAN DAN PEMBENTUKAN AWAN
+BAB 13. KELEMBAPAN DAN PEMBENTUKAN AWAN
 Udara mengandung uap air dalam jumlah yang berubah-ubah. Kelembapan relatif membandingkan kandungan uap air aktual dengan jumlah maksimum yang dapat ditampung pada suhu tertentu. Ketika udara mendingin hingga mendekati titik embun, uap air dapat mengembun pada partikel kecil dan membentuk awan. Awan tidak selalu menghasilkan hujan; pertumbuhan tetes atau kristal es perlu mencapai ukuran dan kondisi tertentu.
 
-BAB 13. STABILITAS ATMOSFER DAN CUACA
+BAB 14. STABILITAS ATMOSFER DAN CUACA
 Stabilitas atmosfer menggambarkan kecenderungan udara yang bergerak vertikal untuk kembali atau terus bergerak menjauh dari posisi awal. Pemanasan permukaan dapat mendorong udara naik, sementara lapisan udara yang stabil dapat membatasi gerak vertikal. Kondisi ini memengaruhi pembentukan awan dan hujan. Pengamatan cuaca menggabungkan suhu, tekanan, kelembapan, angin, tutupan awan, dan data radar atau satelit. Tidak satu indikator pun cukup untuk menggambarkan seluruh keadaan atmosfer.
 
-BAB 14. IKLIM, VARIABILITAS, DAN PERUBAHAN
+BAB 15. IKLIM, VARIABILITAS, DAN PERUBAHAN
 Cuaca menggambarkan keadaan atmosfer dalam waktu relatif singkat, sedangkan iklim merangkum pola statistik dalam periode panjang. Variabilitas alami menyebabkan kondisi berubah dari tahun ke tahun. Perubahan iklim mengacu pada perubahan pola jangka panjang yang dapat dipengaruhi faktor alami dan aktivitas manusia. Analisis perlu menggunakan rangkaian data panjang, memperhatikan kualitas pengamatan, serta membedakan tren dari fluktuasi sementara.
 
-BAB 15. MEMBACA PRAKIRAAN DAN INFORMASI CUACA
+BAB 16. MEMBACA PRAKIRAAN DAN INFORMASI CUACA
 Prakiraan cuaca adalah estimasi berdasarkan pengamatan dan model. Ketidakpastian meningkat untuk rincian lokasi dan waktu tertentu, sehingga prakiraan perlu diperbarui ketika data baru tersedia. Peluang hujan bukan berarti hujan pasti turun di setiap titik wilayah. Gunakan informasi dari lembaga meteorologi resmi dan perhatikan peringatan cuaca ekstrem. Dalam kondisi berisiko, ikuti arahan otoritas setempat.
 
 LATIHAN TERAPAN

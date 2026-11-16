@@ -168,3 +168,43 @@ Kerentanan: Kondisi yang meningkatkan kemungkinan mengalami dampak.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk kajian lanjutan, gunakan sumber primer, buku ajar, standar, dan publikasi lembaga tepercaya. Catat penulis atau lembaga, judul, tahun, dan bagian yang digunakan. Periksa pembaruan informasi pada topik yang berkembang.
+
+BAB LANJUTAN: AIR TANAH DAN SISTEM HIDROGEOLOGI
+
+Air tanah tersimpan dan bergerak melalui pori atau rekahan material geologi. Akuifer adalah lapisan yang dapat menyimpan dan mengalirkan air dalam jumlah berarti, sedangkan lapisan kedap atau kurang permeabel membatasi aliran. Porositas menggambarkan ruang kosong, sementara permeabilitas berkaitan dengan kemudahan fluida bergerak. Material berpori belum tentu memiliki permeabilitas tinggi jika porinya tidak saling terhubung.
+
+Pengisian ulang air tanah terjadi ketika air meresap dari permukaan. Tutupan lahan, jenis tanah, kemiringan, hujan, dan kondisi geologi memengaruhi proses tersebut. Pengambilan air yang melebihi pengisian ulang dalam jangka panjang dapat menurunkan muka air tanah. Di wilayah pesisir, perubahan tekanan air tanah dapat meningkatkan risiko intrusi air asin.
+
+Penilaian air tanah memerlukan data sumur, kedalaman muka air, sifat akuifer, dan kualitas kimia. Pengukuran sesaat tidak selalu menggambarkan perubahan musiman. Catatan berkala dengan metode yang konsisten membantu membedakan fluktuasi alami dari tren jangka panjang.
+
+BAB LANJUTAN: GEOLOGI, BENCANA, DAN TATA RUANG
+
+Kondisi geologi memengaruhi bahaya seperti longsor, amblesan, gempa, erosi pantai, dan banjir bandang. Bahaya tidak identik dengan bencana. Risiko terbentuk melalui pertemuan bahaya, paparan manusia atau aset, dan kerentanan. Peta geologi perlu dipadukan dengan data penggunaan lahan, kepadatan penduduk, infrastruktur, dan kemampuan evakuasi.
+
+Peta kerentanan bukan ramalan pasti. Skala peta, tanggal data, metode klasifikasi, dan ketidakpastian harus disampaikan. Informasi tingkat regional tidak boleh diperlakukan sebagai penilaian keamanan untuk satu bangunan. Keputusan teknis pada lokasi tertentu membutuhkan penyelidikan dan tenaga ahli yang sesuai.
+
+BAB LANJUTAN: TANAH, EROSI, DAN KESTABILAN LERENG
+
+Tanah terbentuk melalui interaksi bahan induk, iklim, organisme, topografi, dan waktu. Sifat tanah seperti tekstur, struktur, kandungan bahan organik, dan drainase memengaruhi penggunaan lahan. Penghilangan vegetasi dapat meningkatkan limpasan dan erosi, terutama ketika tanah terbuka pada hujan intensif.
+
+Kestabilan lereng dipengaruhi geometri, jenis material, air pori, vegetasi, dan perubahan beban. Hujan berkepanjangan dapat meningkatkan kejenuhan tanah dan mengubah kondisi kestabilan. Pengamatan retakan, rembesan, atau perubahan bentuk lahan dapat menjadi alasan untuk melaporkan kondisi kepada pihak berwenang, tetapi penilaian teknis tidak boleh dilakukan hanya dari satu tanda.
+
+BAB LANJUTAN: GEOLOGI LINGKUNGAN DAN PENCEMARAN
+
+Aktivitas pertambangan, industri, pertanian, dan pembuangan limbah dapat mengubah tanah serta air. Pergerakan kontaminan dipengaruhi kelarutan, adsorpsi, kondisi kimia, aliran air, dan sifat batuan. Sumber pencemar perlu diidentifikasi sebelum menentukan langkah pemulihan. Mengambil sampel tanpa prosedur yang benar dapat menghasilkan data yang menyesatkan.
+
+Penilaian lokasi tercemar biasanya mencakup riwayat penggunaan lahan, model konseptual lokasi, pengambilan sampel, analisis laboratorium, dan penilaian paparan. Hasil laboratorium perlu dibandingkan dengan standar yang berlaku dan konteks penggunaan lahan. Pengelolaan harus dilakukan oleh tenaga kompeten karena beberapa kontaminan membutuhkan penanganan khusus.
+
+BAB LANJUTAN: SUMBER DAYA GEOLOGI DAN KEBERLANJUTAN
+
+Bahan galian, air tanah, panas bumi, dan batuan merupakan sumber daya yang mendukung kehidupan serta ekonomi. Pengelolaannya memerlukan pertimbangan cadangan, kebutuhan masyarakat, dampak ekologis, keselamatan, dan pemulihan lahan. Sumber daya yang tersedia secara geologis belum tentu layak atau tepat untuk dieksploitasi.
+
+Penutupan tambang dan pemulihan lahan sebaiknya direncanakan sejak awal. Rencana mencakup stabilitas lahan, pengelolaan air, revegetasi yang sesuai, pemantauan, dan keterlibatan masyarakat. Keberhasilan pemulihan dinilai dari fungsi dan risiko jangka panjang, bukan hanya penampilan permukaan.
+
+LATIHAN AKHIR
+1. Bedakan porositas dan permeabilitas.
+2. Jelaskan hubungan pengambilan air tanah dan intrusi air asin.
+3. Mengapa peta bahaya harus dibaca bersama data paparan dan kerentanan?
+4. Sebutkan faktor yang memengaruhi erosi dan kestabilan lereng.
+5. Uraikan tahapan umum penilaian lokasi tercemar.
+6. Buat daftar aspek yang perlu dimasukkan dalam rencana pemulihan lahan.

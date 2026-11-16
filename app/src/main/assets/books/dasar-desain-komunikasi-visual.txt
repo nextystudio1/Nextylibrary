@@ -1,0 +1,131 @@
+Dasar Desain Komunikasi Visual
+Penulis: Nexty Studio
+Edisi pembelajaran orisinal NextyLibrary
+
+DESKRIPSI
+Prinsip tata letak, warna, tipografi, gambar, aksesibilitas, dan proses membuat pesan visual yang jelas.
+
+TUJUAN PEMBELAJARAN
+Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan konsep utama, menghubungkannya dengan situasi sehari-hari, mengevaluasi informasi, dan menerapkan langkah yang bertanggung jawab.
+
+BAB 1. DESAIN SEBAGAI KOMUNIKASI
+
+Desain komunikasi visual menyusun teks, bentuk, warna, gambar, dan ruang agar pesan mudah dipahami. Tujuan desain bukan sekadar membuat sesuatu terlihat menarik. Desain yang baik membantu pembaca menemukan informasi penting, memahami hubungan antarbagian, dan mengambil tindakan yang tepat.
+
+Sebelum membuat poster, tentukan siapa pembacanya, apa pesan utamanya, dan apa yang harus dilakukan pembaca setelah melihatnya. Poster kegiatan sekolah, misalnya, perlu menonjolkan nama kegiatan, waktu, tempat, dan cara mendaftar. Hiasan tidak boleh mengalahkan informasi utama.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 1
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 2. HIERARKI DAN TATA LETAK
+
+Hierarki visual mengatur urutan perhatian. Ukuran, ketebalan, posisi, kontras, dan ruang kosong dapat menunjukkan mana judul, subjudul, isi, dan keterangan. Gunakan grid sebagai panduan agar elemen sejajar dan konsisten. Ruang kosong bukan ruang terbuang; ia membantu mata beristirahat dan memisahkan kelompok informasi.
+
+Mulailah dengan sketsa hitam-putih sebelum memilih warna. Letakkan judul dan pesan utama terlebih dahulu, lalu informasi pendukung. Periksa apakah pembaca dapat memahami inti desain dalam beberapa detik. Jika semua elemen tampak sama penting, hierarki perlu diperbaiki.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 2
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 3. WARNA DAN KONTRAS
+
+Warna dapat membangun suasana dan membedakan kategori, tetapi maknanya dipengaruhi budaya dan konteks. Batasi palet agar tampilan konsisten. Pastikan teks memiliki kontras cukup terhadap latar. Jangan menggunakan warna sebagai satu-satunya penanda; tambahkan label, ikon, atau pola agar informasi tetap terbaca oleh orang dengan perbedaan persepsi warna.
+
+Uji desain dalam skala kecil dan pada layar berbeda. Warna yang terlihat jelas di monitor tertentu dapat tampak pudar di ponsel atau hasil cetak. Untuk informasi penting, utamakan keterbacaan daripada efek dekoratif.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 3
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 4. TIPOGRAFI DAN KETERBACAAN
+
+Tipografi mencakup pemilihan jenis huruf, ukuran, ketebalan, jarak baris, dan panjang baris. Gunakan keluarga huruf yang terbatas dan konsisten. Teks isi sebaiknya nyaman dibaca dalam ukuran normal. Huruf dekoratif lebih cocok untuk bagian singkat daripada paragraf panjang.
+
+Hindari seluruh paragraf menggunakan huruf kapital. Beri jarak antarbari dan margin yang cukup. Periksa tanda baca, ejaan, angka, serta konsistensi gaya. Desain profesional tetap membutuhkan penyuntingan bahasa.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 4
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 5. GAMBAR, IKON, DAN HAK PENGGUNAAN
+
+Gambar dapat menjelaskan hal yang sulit disampaikan dengan kata-kata. Pilih gambar yang relevan, tajam, dan tidak menyesatkan. Ikon harus mudah dikenali serta memiliki gaya yang konsisten. Pastikan gambar dan font memiliki izin penggunaan yang sesuai; mencantumkan nama pembuat tidak otomatis menggantikan izin.
+
+Jika membuat ilustrasi sendiri, simpan berkas sumber agar mudah diperbaiki. Gunakan teks alternatif atau keterangan ketika desain akan dibaca dengan teknologi bantu. Jangan mengubah foto sehingga memberi kesan kejadian yang tidak benar.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 5
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 6. PROSES DESAIN DAN EVALUASI
+
+Alur kerja yang baik dimulai dari riset singkat, penentuan tujuan, sketsa, pembuatan versi awal, umpan balik, revisi, dan ekspor. Minta orang lain mencoba memahami desain tanpa penjelasan lisan. Catat bagian yang membingungkan, lalu perbaiki berdasarkan pengamatan.
+
+Sebelum publikasi, periksa ukuran berkas, resolusi, margin aman, ejaan, kontras, dan tampilan di perangkat sasaran. Simpan versi final dan sumber. Evaluasi bukan sekadar bertanya apakah desain disukai, tetapi apakah pesan benar-benar tersampaikan.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 6
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+EVALUASI AKHIR
+1. Pilih tiga konsep dari buku ini dan jelaskan hubungan di antara ketiganya.
+2. Buat satu studi kasus sederhana yang sesuai dengan topik buku. Jelaskan masalah, informasi yang diperlukan, pilihan tindakan, dan alasan memilih solusi.
+3. Temukan satu klaim populer terkait topik ini. Periksa sumber, bukti, tanggal, dan konteksnya. Tulis kesimpulan yang tidak melebihi bukti.
+4. Susun rencana penerapan selama satu minggu. Tentukan kegiatan, indikator keberhasilan, dan cara mengevaluasinya.
+5. Refleksikan bagian yang paling sulit dipahami serta strategi belajar yang akan digunakan untuk memperbaikinya.
+
+PEMBAHASAN DAN ARAH JAWABAN
+Jawaban yang baik menyebutkan konsep secara tepat, memberikan alasan, memakai contoh yang relevan, dan mengakui keterbatasan informasi. Untuk soal studi kasus, beberapa jawaban dapat diterima selama logis, aman, etis, dan didukung bukti. Untuk pemeriksaan klaim, utamakan sumber primer atau lembaga yang kompeten dan bedakan fakta dari opini.
+
+GLOSARIUM
+Hierarki visual: Urutan perhatian yang dibentuk oleh elemen desain.
+Kontras: Perbedaan visual yang membantu elemen dibedakan.
+Tipografi: Pengaturan bentuk dan tampilan huruf.
+Grid: Panduan susunan elemen agar konsisten.
+Teks alternatif: Deskripsi teks untuk membantu memahami gambar.
+
+DAFTAR PUSTAKA DAN SARAN BELAJAR
+Naskah ini merupakan bahan pembelajaran orisinal yang disusun untuk NextyLibrary. Untuk topik yang memerlukan informasi mutakhir atau keputusan profesional, bandingkan dengan buku ajar, standar, dan publikasi lembaga resmi yang relevan. Catat judul, penulis/lembaga, tahun, serta bagian yang digunakan ketika menambahkan rujukan.

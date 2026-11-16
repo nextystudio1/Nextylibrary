@@ -167,3 +167,23 @@ GLOSARIUM
 Eksternalitas: dampak kegiatan ekonomi terhadap pihak lain.
 Barang publik: barang dengan sifat non-eksklusif dan non-rival pada tingkat tertentu.
 Informasi asimetris: ketidakseimbangan informasi antar pihak.
+BAB LANJUTAN — PERMINTAAN, PENAWARAN, DAN KESEIMBANGAN
+Permintaan menggambarkan jumlah barang atau jasa yang bersedia dan mampu dibeli pada berbagai tingkat harga dalam periode tertentu. Penawaran menggambarkan jumlah yang bersedia dan mampu dijual produsen. Harga pasar terbentuk melalui interaksi keduanya, dengan asumsi kondisi lain tetap.
+Perubahan harga barang itu sendiri menyebabkan pergerakan sepanjang kurva, sedangkan perubahan pendapatan, selera, teknologi, biaya input, jumlah penjual, dan ekspektasi dapat menggeser kurva. Membedakan pergerakan dan pergeseran membantu menjelaskan perubahan pasar.
+Harga keseimbangan bukan berarti semua orang memperoleh barang yang diinginkan. Daya beli, informasi, akses, dan distribusi memengaruhi siapa yang dapat membeli. Barang kebutuhan dasar dapat memunculkan pertanyaan kebijakan tentang keterjangkauan dan perlindungan kelompok rentan.
+Kekurangan atau surplus dapat muncul ketika harga tidak menyesuaikan atau ketika terjadi gangguan pasokan. Kebijakan harga perlu dinilai dari dampak terhadap konsumen, produsen, kualitas, dan ketersediaan jangka panjang.
+
+BAB LANJUTAN — ELASTISITAS DAN KEPUTUSAN EKONOMI
+Elastisitas mengukur seberapa peka satu variabel terhadap perubahan variabel lain. Elastisitas harga permintaan mengukur respons jumlah yang diminta terhadap perubahan harga. Barang dengan banyak pengganti cenderung memiliki respons berbeda dari barang yang sulit diganti, tetapi hasil bergantung pada waktu dan konteks.
+Produsen menggunakan informasi elastisitas untuk memahami dampak perubahan harga terhadap pendapatan. Pemerintah dapat menggunakannya untuk memperkirakan respons terhadap pajak atau subsidi. Perkiraan tersebut harus memperhatikan kelompok konsumen dan alternatif yang tersedia.
+Biaya peluang adalah nilai alternatif terbaik yang dilepaskan ketika memilih sesuatu. Biaya peluang tidak selalu berupa uang; waktu belajar, waktu istirahat, dan kesempatan lain juga memiliki nilai. Konsep ini membantu menjelaskan bahwa sumber daya terbatas dan pilihan selalu memiliki konsekuensi.
+
+BAB LANJUTAN — UANG, BANK, DAN KEBIJAKAN MONETER
+Uang berfungsi sebagai alat tukar, satuan hitung, dan penyimpan nilai. Sistem pembayaran berkembang dari uang tunai hingga transfer elektronik. Keamanan transaksi memerlukan perlindungan identitas, verifikasi, dan kebiasaan menjaga informasi rahasia.
+Bank menghimpun dana, menyalurkan pembiayaan, dan menyediakan layanan pembayaran sesuai aturan. Lembaga keuangan menghadapi risiko kredit, likuiditas, pasar, dan operasional. Pengawasan diperlukan untuk menjaga stabilitas dan melindungi nasabah.
+Bank sentral mengelola kebijakan moneter untuk menjaga kestabilan nilai uang dan mendukung kondisi ekonomi sesuai mandatnya. Suku bunga, operasi pasar, dan komunikasi kebijakan dapat memengaruhi keputusan konsumsi, investasi, serta nilai tukar. Dampaknya tidak langsung dan dapat berbeda antar kelompok.
+
+BAB LANJUTAN — INFLASI, PENGANGGURAN, DAN PERTUMBUHAN
+Inflasi adalah kenaikan tingkat harga umum secara berkelanjutan, bukan kenaikan harga satu barang saja. Indeks harga mengukur perubahan harga sekeranjang barang dan jasa. Keranjang tersebut merupakan pendekatan dan mungkin tidak sama dengan pola belanja setiap rumah tangga.
+Inflasi dapat dipengaruhi permintaan, biaya produksi, gangguan pasokan, dan faktor eksternal. Dampaknya berbeda menurut pendapatan, jenis pekerjaan, tabungan, dan kemampuan menyesuaikan pengeluaran. Angka inflasi perlu dibaca bersama periode, metode, dan kelompok pengeluaran.
+Pengangguran memiliki berbagai bentuk, termasuk transisi antarpekerjaan dan ketidaksesuaian keterampilan. Pertumbuhan ekonomi biasanya diukur melalui perubahan output, tetapi tidak otomatis menunjukkan pemerataan, kualitas lingkungan, atau kesejahteraan semua penduduk.

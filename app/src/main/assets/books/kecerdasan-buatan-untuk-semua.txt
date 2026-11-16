@@ -419,3 +419,21 @@ Pilih satu pekerjaan umum dan uraikan tugas yang mungkin dibantu AI, tugas yang 
 
 RANGKUMAN
 AI mengubah tugas dan proses kerja, bukan dengan pola yang sama di semua sektor. Adaptasi membutuhkan keterampilan, pengawasan, dan kebijakan yang memperhatikan pemerataan.
+
+BAB AI GENERATIF DAN MODEL BAHASA
+Model bahasa mempelajari pola dalam data teks untuk menghasilkan rangkaian kata yang sesuai dengan konteks masukan. Model generatif dapat membantu membuat draf, menjelaskan konsep, merangkum, atau menghasilkan contoh. Namun, kelancaran bahasa tidak menjamin kebenaran fakta. Model dapat menghasilkan informasi keliru, referensi yang tidak ada, atau jawaban yang terlalu yakin.
+
+PROMPT DAN KONTEKS
+Instruksi yang jelas menyebutkan tujuan, pembaca, format, batasan, dan konteks yang diperlukan. Memecah tugas menjadi langkah kecil dapat memudahkan pemeriksaan. Jangan memasukkan kata sandi, data identitas, atau informasi rahasia ke layanan yang belum dipahami kebijakan datanya.
+
+VERIFIKASI HASIL
+Periksa klaim penting melalui sumber primer atau lembaga tepercaya. Untuk perhitungan, ulangi dengan metode yang dapat diuji. Untuk kode, jalankan di lingkungan aman dan periksa efeknya sebelum digunakan. Untuk ringkasan, bandingkan dengan dokumen asli agar nuansa dan pengecualian tidak hilang.
+
+PENGGUNAAN YANG BERTANGGUNG JAWAB
+AI sebaiknya menjadi alat bantu, bukan pengganti penilaian manusia. Ikuti aturan sekolah atau institusi tentang penggunaan AI dan nyatakan bantuan yang digunakan bila diminta. Jangan menyerahkan hasil otomatis sebagai pengalaman atau penelitian pribadi yang tidak pernah dilakukan.
+
+LATIHAN
+Minta alat AI menjelaskan satu konsep sains, lalu periksa tiga klaim dari jawaban melalui buku atau sumber resmi. Catat bagian benar, bagian kurang lengkap, dan bagian yang perlu dikoreksi.
+
+RANGKUMAN
+AI generatif membantu pekerjaan bahasa dan pengetahuan, tetapi hasilnya harus diverifikasi. Transparansi, privasi, dan tanggung jawab tetap berada pada pengguna.

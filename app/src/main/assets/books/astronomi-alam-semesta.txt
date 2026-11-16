@@ -297,3 +297,21 @@ Bandingkan diagram evolusi dua bintang dengan massa awal berbeda menggunakan sum
 
 RANGKUMAN BAB
 Massa, suhu, spektrum, dan evolusi bintang menjelaskan bagaimana bintang lahir, menghasilkan energi, dan berakhir. Unsur yang tersebar dari generasi bintang berkontribusi pada pembentukan sistem planet berikutnya.
+
+BAB PENGAMATAN ASTRONOMI DAN ANALISIS DATA
+Astronomi modern menggabungkan pengamatan dari berbagai panjang gelombang. Cahaya tampak memberi informasi tentang bintang dan galaksi, sedangkan radio, inframerah, ultraviolet, sinar-X, dan sinar gamma mengungkap proses fisik yang berbeda. Atmosfer Bumi menyerap sebagian panjang gelombang, sehingga beberapa observatorium ditempatkan di luar angkasa.
+
+TELESKOP DAN RESOLUSI
+Teleskop mengumpulkan cahaya dan meningkatkan kemampuan mendeteksi objek redup. Diameter bukaan memengaruhi daya kumpul cahaya dan, bersama panjang gelombang, membatasi resolusi sudut. Kondisi atmosfer, getaran, kualitas optik, dan pemrosesan citra juga memengaruhi hasil. Teleskop besar tidak otomatis menghasilkan data sempurna.
+
+FOTOMETRI DAN SPEKTROSKOPI
+Fotometri mengukur kecerlangan objek pada rentang tertentu. Perubahan kecerlangan dapat menunjukkan transit planet, bintang variabel, atau peristiwa lain. Spektroskopi memisahkan cahaya menjadi panjang gelombang untuk mempelajari komposisi, suhu, kepadatan, dan gerak. Kalibrasi instrumen dan pengurangan gangguan sangat penting.
+
+DATA DAN KOLABORASI
+Survei astronomi menghasilkan data dalam jumlah besar yang dianalisis melalui perangkat komputasi. Data terbuka memungkinkan peneliti lain memeriksa hasil dan mengembangkan analisis. Namun, data mentah memerlukan dokumentasi, kalibrasi, dan pemahaman instrumen sebelum ditafsirkan.
+
+LATIHAN
+Pilih satu gambar astronomi dari lembaga observatorium resmi. Baca keterangan instrumen dan panjang gelombang. Jelaskan informasi apa yang terlihat serta hal yang tidak dapat disimpulkan hanya dari gambar.
+
+RANGKUMAN
+Astronomi mengandalkan instrumen, pengukuran, dan analisis data. Memahami cara data diperoleh membantu menilai kekuatan serta keterbatasan sebuah penemuan.

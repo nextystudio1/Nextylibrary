@@ -426,3 +426,21 @@ Gunakan data simulasi suhu harian selama beberapa minggu. Buat grafik, identifik
 
 RANGKUMAN BAB
 Regresi dan peramalan merangkum pola serta membantu membuat perkiraan, tetapi kualitasnya bergantung pada asumsi, pemeriksaan sisaan, dan ketidakpastian.
+
+BAB SAMPEL, POPULASI, DAN DESAIN SURVEI
+Populasi adalah keseluruhan kelompok yang ingin dipelajari, sedangkan sampel merupakan bagian yang diamati. Sampel yang besar belum tentu mewakili populasi jika pemilihannya bias. Kerangka sampel, peluang terpilih, tingkat respons, dan cara pengumpulan data memengaruhi kualitas hasil.
+
+SAMPLING ACAK
+Sampling acak sederhana memberi peluang terpilih yang sama kepada setiap anggota populasi. Sampling berstrata membagi populasi ke kelompok penting lalu mengambil sampel dari tiap kelompok. Sampling klaster memilih kelompok atau wilayah terlebih dahulu. Metode dipilih berdasarkan tujuan, biaya, dan struktur populasi.
+
+BIAS NONRESPONS
+Orang yang tidak menjawab survei mungkin berbeda dari orang yang menjawab. Jika perbedaan tersebut berkaitan dengan topik, hasil dapat bias. Peneliti dapat mengurangi masalah melalui desain pertanyaan yang jelas, pilihan waktu yang wajar, dan pelaporan tingkat respons. Penyesuaian statistik tidak selalu menghilangkan bias.
+
+MERANCANG KUESIONER
+Pertanyaan harus singkat, tidak menggiring, dan hanya menanyakan satu hal pada satu waktu. Pilihan jawaban perlu mencakup kategori yang relevan dan tidak tumpang tindih. Urutan pertanyaan dapat memengaruhi jawaban, sehingga uji coba diperlukan. Hindari mengumpulkan identitas pribadi jika tidak diperlukan.
+
+LATIHAN
+Rancang survei anonim fiktif tentang preferensi jam membaca. Tentukan populasi, cara memilih sampel, pertanyaan, dan potensi bias. Jelaskan mengapa hasil dari satu kelas tidak otomatis mewakili seluruh pelajar.
+
+RANGKUMAN
+Kualitas survei bergantung pada definisi populasi, metode sampling, tingkat respons, dan pertanyaan. Jumlah responden saja tidak menjamin hasil dapat digeneralisasi.

@@ -313,3 +313,21 @@ Buat peta tematik sederhana dari data publik menggunakan perangkat lunak pendidi
 
 RANGKUMAN
 Peta digital dan SIG membantu analisis keruangan, tetapi ketepatan koordinat, resolusi, metadata, serta konteks sosial menentukan kualitas kesimpulan.
+
+BAB KETAHANAN PANGAN DAN GEOGRAFI PERTANIAN
+Produksi pangan dipengaruhi tanah, air, iklim, varietas tanaman, tenaga kerja, teknologi, dan akses pasar. Produktivitas tinggi di satu wilayah tidak otomatis menjamin ketahanan pangan jika distribusi, daya beli, atau penyimpanan bermasalah. Ketahanan pangan mencakup ketersediaan, akses, pemanfaatan, dan stabilitas.
+
+POLA TANAM DAN AGROEKOSISTEM
+Petani memilih pola tanam berdasarkan musim, ketersediaan air, kondisi tanah, risiko hama, dan harga. Monokultur dapat memudahkan pengelolaan tertentu, tetapi meningkatkan ketergantungan pada satu komoditas. Diversifikasi tanaman dapat mendukung kesehatan tanah dan mengurangi risiko, walaupun memerlukan pengetahuan serta akses pasar.
+
+PERUBAHAN IKLIM DAN PERTANIAN
+Perubahan pola hujan, suhu, dan kejadian ekstrem dapat memengaruhi kalender tanam dan hasil panen. Adaptasi dapat mencakup varietas sesuai kondisi, pengelolaan air, perbaikan tanah, informasi iklim, dan sistem peringatan. Strategi perlu disesuaikan dengan ekosistem serta kemampuan petani setempat.
+
+RANTAI PANGAN DAN KEHILANGAN
+Pangan melewati tahap panen, penyimpanan, pengolahan, transportasi, penjualan, dan konsumsi. Kerusakan pada setiap tahap dapat mengurangi ketersediaan dan meningkatkan biaya. Pendinginan, kemasan tepat, infrastruktur, dan perencanaan permintaan dapat mengurangi kehilangan, tetapi harus mempertimbangkan energi dan limbah.
+
+LATIHAN
+Buat peta alur satu bahan pangan dari produsen hingga konsumen. Tandai titik yang berisiko menyebabkan kehilangan dan usulkan perbaikan. Gunakan informasi yang dapat diperiksa, bukan dugaan tentang petani atau pedagang tertentu.
+
+RANGKUMAN
+Geografi pertanian menghubungkan sumber daya alam, produksi, iklim, dan distribusi. Ketahanan pangan memerlukan sistem yang adil, tangguh, dan berkelanjutan.

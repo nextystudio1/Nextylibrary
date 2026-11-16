@@ -157,3 +157,27 @@ GLOSARIUM
 Sistem rekomendasi: sistem yang memilih konten berdasarkan data dan prediksi.
 Konten bersponsor: materi yang didukung atau dibayar pihak promosi.
 Kredibilitas: tingkat keterpercayaan sumber berdasarkan bukti dan rekam jejak.
+
+PENDALAMAN LITERASI MEDIA DAN INFORMASI
+
+BAB LANJUTAN — MEMERIKSA SUMBER DIGITAL
+Periksa siapa penerbit informasi, siapa penulisnya, kapan diterbitkan, bukti apa yang disertakan, dan apakah klaim dapat dikonfirmasi secara independen. Tampilan profesional tidak menjamin kebenaran. Akun anonim tidak selalu salah, tetapi identitas dan rekam jejak yang tidak jelas meningkatkan kebutuhan verifikasi.
+
+Bedakan sumber primer, sekunder, dan tersier. Sumber primer dapat berupa dokumen asli, data, atau wawancara langsung; sumber sekunder menganalisis sumber primer; sumber tersier merangkum pengetahuan. Jenis sumber yang tepat bergantung pada pertanyaan.
+
+BAB LANJUTAN — GAMBAR, VIDEO, DAN KONTEKS
+Foto atau video dapat asli tetapi diberi keterangan yang salah, dipotong, atau diambil dari peristiwa lain. Telusuri tanggal, lokasi, konteks, dan publikasi awal. Cuplikan singkat sering menghilangkan bagian sebelum atau sesudah kejadian yang mengubah makna.
+
+BAB LANJUTAN — ALGORITMA REKOMENDASI
+Sistem rekomendasi memilih konten berdasarkan sinyal seperti interaksi, kemiripan, dan preferensi yang diperkirakan. Hasilnya dapat membuat pengguna melihat materi serupa berulang kali. Rekomendasi bukan gambaran netral dari seluruh informasi yang tersedia.
+
+BAB LANJUTAN — PRIVASI DAN JEJAK DIGITAL
+Data yang dibagikan dapat disalin, disimpan, atau disebarkan kembali. Sebelum mengunggah, pertimbangkan tujuan, audiens, izin pihak lain, dan informasi yang dapat mengidentifikasi seseorang. Gunakan pengaturan privasi, kata sandi unik, serta autentikasi tambahan bila tersedia.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa tanggal publikasi penting? Jawab: informasi dapat berubah dan konteks waktu memengaruhi makna.
+2. Apakah video asli selalu memiliki keterangan benar? Jawab: tidak, konteks dan keterangannya tetap perlu diperiksa.
+3. Apa risiko rekomendasi berulang? Jawab: paparan informasi dapat menjadi sempit dan memperkuat sudut pandang yang sama.
+4. Sebutkan dua cara menjaga akun. Jawab: kata sandi unik dan autentikasi tambahan.
+5. Apa yang perlu dilakukan sebelum mengunggah foto orang lain? Jawab: pertimbangkan privasi dan minta izin yang sesuai.
+

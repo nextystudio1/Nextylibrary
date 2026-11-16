@@ -197,3 +197,28 @@ GLOSARIUM
 Verifikasi: pemeriksaan kebenaran informasi.
 Kejujuran akademik: perilaku jujur dalam proses belajar dan penilaian.
 Prompt: instruksi atau masukan yang diberikan kepada sistem AI.
+
+PENDALAMAN KECERDASAN BUATAN
+
+BAB LANJUTAN — MENENTUKAN MASALAH YANG TEPAT
+Proyek kecerdasan buatan dimulai dengan menentukan masalah dan memastikan bahwa pembelajaran mesin memang diperlukan. Aturan sederhana dapat lebih transparan dan hemat sumber daya untuk masalah yang memiliki ketentuan jelas. Sistem AI perlu dinilai berdasarkan manfaat, risiko, biaya, dan konsekuensi ketika salah.
+
+BAB LANJUTAN — KUALITAS DAN KETERWAKILAN DATA
+Data pelatihan harus relevan dengan penggunaan yang direncanakan. Data yang tidak mewakili kelompok pengguna dapat menghasilkan kinerja berbeda antar kelompok. Periksa sumber, izin, cara pelabelan, data hilang, duplikasi, dan perubahan distribusi. Kumpulan data besar tetap dapat memiliki bias sistematis.
+
+BAB LANJUTAN — EVALUASI MODEL
+Akurasi adalah proporsi prediksi benar, tetapi dapat menyesatkan ketika kelas tidak seimbang. Presisi mengukur bagian prediksi positif yang benar; recall mengukur bagian kasus positif yang berhasil ditemukan. Pemilihan metrik bergantung pada dampak kesalahan. Dalam konteks berbeda, positif palsu dan negatif palsu memiliki biaya berbeda.
+
+BAB LANJUTAN — KEAMANAN DAN PENGAWASAN MANUSIA
+Sistem AI dapat menghasilkan keluaran keliru, tidak lengkap, atau bias. Pengawasan manusia diperlukan ketika keputusan berdampak penting. Pengguna perlu mengetahui batas sistem, jalur koreksi, dan siapa yang bertanggung jawab. Jangan memasukkan data pribadi atau rahasia ke layanan yang belum dipahami kebijakan datanya.
+
+BAB LANJUTAN — DOKUMENTASI DAN PEMELIHARAAN
+Model dapat mengalami penurunan kinerja ketika data dunia nyata berubah. Pantau kinerja, catat versi model dan data, serta tetapkan proses evaluasi ulang. Dokumentasi menjelaskan tujuan, data, asumsi, batasan, dan cara penggunaan yang tidak dianjurkan.
+
+LATIHAN DAN PEMBAHASAN
+1. Kapan aturan sederhana lebih tepat daripada AI? Jawab: ketika masalah memiliki aturan jelas dan solusi transparan mencukupi.
+2. Mengapa data besar masih dapat bias? Jawab: ukuran tidak menjamin keterwakilan atau kualitas.
+3. Apa beda presisi dan recall? Jawab: presisi menilai ketepatan prediksi positif; recall menilai cakupan kasus positif.
+4. Mengapa perlu pengawasan manusia? Jawab: keluaran AI dapat keliru dan keputusan penting membutuhkan tanggung jawab.
+5. Apa itu pergeseran data? Jawab: perubahan karakteristik data penggunaan dibanding data pengembangan.
+

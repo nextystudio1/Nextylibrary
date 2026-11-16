@@ -164,3 +164,29 @@ GLOSARIUM
 Parabola: grafik fungsi kuadrat.
 Akar: nilai masukan yang menghasilkan keluaran nol.
 Titik puncak: titik maksimum atau minimum pada parabola.
+
+PENDALAMAN MATERI DAN PRAKTIK
+
+BAB LANJUTAN — PEMODELAN FUNGSI
+Fungsi adalah aturan yang memasangkan setiap masukan dalam domain dengan tepat satu keluaran. Domain menyatakan masukan yang diperbolehkan, sedangkan range menyatakan keluaran yang dihasilkan. Dalam masalah nyata, domain sering dibatasi oleh konteks. Model luas persegi panjang, misalnya, hanya bermakna untuk panjang dan lebar positif.
+
+Fungsi linear memiliki laju perubahan tetap. Fungsi kuadrat dapat menggambarkan lintasan ideal, luas, atau hubungan dengan titik maksimum dan minimum. Fungsi eksponensial menggambarkan perubahan dengan faktor pengali tetap pada selang yang sama, sedangkan fungsi logaritma membantu membalik hubungan eksponensial. Pemilihan model harus berdasarkan pola data dan pengetahuan konteks, bukan karena satu rumus terlihat mudah.
+
+BAB LANJUTAN — TRANSFORMASI GRAFIK
+Penambahan konstanta di luar fungsi menggeser grafik vertikal, sedangkan perubahan pada masukan dapat menggeser atau meregangkan grafik secara horizontal. Refleksi terhadap sumbu juga dapat dipahami melalui perubahan tanda. Memahami transformasi membantu menggambar grafik tanpa menghitung setiap titik dari awal.
+
+Saat membandingkan dua grafik, periksa skala sumbu. Grafik yang tampak curam dapat disebabkan pemotongan sumbu atau rentang yang sempit. Visualisasi harus menyatakan skala dan satuan agar pembaca tidak memperoleh kesan yang keliru.
+
+BAB LANJUTAN — SISTEM PERSAMAAN DAN INTERPRETASI
+Sistem persamaan mencari nilai yang memenuhi beberapa hubungan sekaligus. Solusi dapat tunggal, tidak ada, atau tak hingga banyak, bergantung pada hubungan antarpersamaan. Dalam konteks, solusi perlu diperiksa apakah masuk akal dan memenuhi batasan seperti bilangan bulat atau nilai nonnegatif.
+
+BAB LANJUTAN — PEMECAHAN MASALAH
+Langkah yang berguna adalah memahami pertanyaan, menentukan variabel, menyatakan asumsi, membangun model, menyelesaikan, lalu menafsirkan hasil. Jawaban numerik tanpa satuan atau konteks belum menjadi jawaban lengkap. Periksa kembali dengan substitusi dan perkiraan kasar.
+
+LATIHAN DAN PEMBAHASAN
+1. Jika f(x)=3x−2, tentukan f(4). Jawab: 3(4)−2=10.
+2. Jika y=x²−4, tentukan nilai y saat x=3. Jawab: 9−4=5.
+3. Mengapa domain perlu diperhatikan? Jawab: karena konteks dapat membatasi masukan yang bermakna.
+4. Apa yang diperiksa setelah menyelesaikan sistem persamaan? Jawab: substitusi ke semua persamaan dan pemeriksaan batasan konteks.
+5. Mengapa skala grafik harus dicantumkan? Jawab: agar kemiringan dan perbandingan visual tidak menyesatkan.
+

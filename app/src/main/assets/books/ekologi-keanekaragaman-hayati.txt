@@ -153,3 +153,25 @@ GLOSARIUM
 Jasa ekosistem: manfaat yang diperoleh manusia dari fungsi ekosistem.
 Spesies invasif: spesies yang menyebar di luar sebaran alaminya dan menimbulkan dampak.
 Restorasi: pemulihan struktur atau fungsi ekosistem.
+
+PENDALAMAN EKOLOGI DAN KEANEKARAGAMAN HAYATI
+
+BAB LANJUTAN — JARING-JARING MAKANAN
+Rantai makanan menggambarkan satu jalur perpindahan energi, sedangkan jaring-jaring makanan menghubungkan banyak jalur. Perubahan pada satu populasi dapat memengaruhi organisme lain melalui hubungan pemangsaan, kompetisi, dan ketersediaan sumber daya. Dampaknya tidak selalu sederhana karena organisme dapat memiliki lebih dari satu sumber makanan.
+
+BAB LANJUTAN — SUKSESI EKOLOGI
+Suksesi adalah perubahan komunitas dari waktu ke waktu. Suksesi primer berlangsung pada tempat yang belum memiliki tanah berkembang, sedangkan suksesi sekunder terjadi ketika komunitas pulih setelah gangguan tetapi sebagian kondisi dasar masih tersedia. Jalur suksesi dipengaruhi iklim, jenis gangguan, organisme yang datang, dan kondisi tanah.
+
+BAB LANJUTAN — JASA EKOSISTEM
+Ekosistem menyediakan jasa penyediaan seperti pangan dan air, jasa pengaturan seperti penyerapan banjir dan penyerbukan, jasa budaya seperti rekreasi, serta jasa pendukung seperti pembentukan tanah. Nilai-nilai tersebut sering saling terkait. Kebijakan pengelolaan perlu mempertimbangkan kelompok masyarakat yang memperoleh manfaat dan yang menanggung dampak.
+
+BAB LANJUTAN — KONSERVASI BERBASIS BUKTI
+Konservasi dapat dilakukan melalui perlindungan habitat, pemulihan kawasan, pengurangan tekanan, dan pengelolaan sumber daya secara berkelanjutan. Indikator keberhasilan harus ditentukan sejak awal, misalnya perubahan tutupan habitat atau kondisi populasi. Satu pengamatan singkat tidak cukup untuk memastikan tren jangka panjang.
+
+LATIHAN DAN PEMBAHASAN
+1. Apa beda rantai dan jaring-jaring makanan? Jawab: rantai satu jalur, jaring-jaring menghubungkan banyak jalur.
+2. Apa beda suksesi primer dan sekunder? Jawab: kondisi awal tempat dan keberadaan tanah atau sisa komunitas berbeda.
+3. Sebutkan dua jasa ekosistem. Jawab: penyerbukan dan pengaturan banjir.
+4. Mengapa indikator konservasi diperlukan? Jawab: agar perubahan dapat dinilai secara konsisten.
+5. Mengapa hubungan ekologi sulit diprediksi secara sederhana? Jawab: banyak spesies dan faktor lingkungan saling berinteraksi.
+

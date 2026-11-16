@@ -168,3 +168,28 @@ Pokok: jumlah awal yang dipinjam atau disimpan.
 Bunga sederhana: bunga berdasarkan pokok awal.
 Cicilan: pembayaran berkala untuk melunasi kewajiban.
 Biaya total: keseluruhan pembayaran termasuk biaya tambahan.
+
+PENDALAMAN MATEMATIKA KEUANGAN PRIBADI
+
+BAB LANJUTAN — ANGGARAN DAN ARUS KAS
+Anggaran membandingkan pemasukan dengan pengeluaran selama periode tertentu. Arus kas mencatat kapan uang diterima dan dibayarkan. Dua rumah tangga dengan jumlah pemasukan dan pengeluaran bulanan sama dapat memiliki kebutuhan pengelolaan berbeda jika waktu penerimaan dan pembayaran berbeda.
+
+BAB LANJUTAN — BIAYA KESEMPATAN
+Memilih satu penggunaan uang berarti melepaskan kesempatan menggunakan uang itu untuk hal lain. Biaya kesempatan adalah nilai alternatif terbaik yang dikorbankan. Konsep ini membantu membandingkan pilihan, tetapi nilai alternatif tidak selalu berupa uang; waktu dan manfaat juga dapat diperhitungkan.
+
+BAB LANJUTAN — BUNGA DAN NILAI WAKTU UANG
+Bunga sederhana dihitung dari pokok awal, sedangkan bunga majemuk menghitung bunga atas pokok dan bunga yang telah ditambahkan. Periode penggandaan memengaruhi hasil. Saat membandingkan produk keuangan, perhatikan suku bunga efektif, biaya, pajak, jangka waktu, dan risiko, bukan hanya angka promosi.
+
+BAB LANJUTAN — INFLASI DAN DAYA BELI
+Inflasi mengurangi jumlah barang atau jasa yang dapat dibeli oleh sejumlah uang yang sama jika harga umum meningkat. Kenaikan harga pribadi dapat berbeda dari angka inflasi rata-rata karena pola konsumsi setiap orang berbeda. Rencana keuangan jangka panjang perlu mempertimbangkan perubahan daya beli.
+
+BAB LANJUTAN — RISIKO DAN TUJUAN KEUANGAN
+Tujuan keuangan sebaiknya memiliki jumlah, batas waktu, dan prioritas. Dana untuk kebutuhan dekat umumnya memerlukan akses dan kestabilan lebih tinggi daripada tujuan jangka panjang. Tidak ada pilihan yang bebas risiko; pahami kemungkinan kerugian, biaya, dan ketentuan sebelum mengambil keputusan.
+
+LATIHAN DAN PEMBAHASAN
+1. Apa fungsi anggaran? Jawab: merencanakan dan membandingkan pemasukan serta pengeluaran.
+2. Apa biaya kesempatan? Jawab: nilai alternatif terbaik yang dilepaskan.
+3. Mengapa bunga majemuk berbeda dari bunga sederhana? Jawab: bunga majemuk menghitung bunga atas akumulasi sebelumnya.
+4. Mengapa inflasi memengaruhi daya beli? Jawab: jumlah uang yang sama membeli lebih sedikit ketika harga meningkat.
+5. Sebutkan tiga hal untuk menilai produk keuangan. Jawab: biaya, risiko, dan ketentuan.
+

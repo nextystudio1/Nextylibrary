@@ -13,16 +13,16 @@ BAB 1. KEUNIKAN ATOM KARBON
 Karbon dapat membentuk empat ikatan kovalen dan berikatan dengan atom karbon lain membentuk rantai serta cincin. Kemampuan ini menghasilkan keragaman senyawa organik. Struktur molekul menentukan sifat fisik dan kimia, sehingga rumus molekul saja belum selalu cukup untuk menjelaskan perilaku suatu senyawa.
 
 PENDALAMAN
-Pada KEUNIKAN ATOM KARBON, pisahkan pengamatan dari penjelasan. Tentukan besaran atau faktor yang dibahas, kondisi yang memengaruhinya, serta bukti yang dapat mendukung kesimpulan. Model ilmiah membantu menyederhanakan gejala, tetapi selalu memiliki batas; jelaskan kondisi ketika model tersebut tepat digunakan dan kapan perlu diperbarui.
+Karbon memiliki empat elektron valensi sehingga dapat membentuk hingga empat ikatan kovalen dalam banyak senyawa stabil. Kemampuan berkatenasi—membentuk ikatan C–C berulang—memungkinkan rantai lurus, bercabang, dan cincin. Panjang rantai, percabangan, ikatan rangkap, dan gugus fungsi memengaruhi bentuk serta sifat senyawa. Gambarkan beberapa isomer sederhana dengan rumus molekul sama untuk melihat bahwa rumus molekul tidak selalu menentukan struktur tunggal.
 
 CONTOH PENERAPAN
-Contoh kajian: pilih fenomena sehari-hari yang berkaitan dengan KEUNIKAN ATOM KARBON. Catat kondisi pengamatan dan informasi yang tersedia, lalu hubungkan dengan konsep ilmiah yang dibahas. Bedakan hal yang benar-benar diamati dari dugaan tentang penyebabnya dan sebutkan data tambahan yang diperlukan.
+Bandingkan etana dan etena. Keduanya tersusun dari karbon dan hidrogen, tetapi etana memiliki ikatan tunggal C–C sedangkan etena memiliki ikatan rangkap dua C=C. Jelaskan bagaimana perbedaan ikatan memengaruhi rumus molekul dan bentuk geometri di sekitar atom karbon. Gunakan model struktur, bukan percobaan kimia.
 
 LATIHAN
 1. Apa gagasan utama yang dijelaskan dalam KEUNIKAN ATOM KARBON?
 2. Jelaskan hubungan antara dua konsep penting pada bab ini.
 3. Terapkan konsep tersebut pada satu kasus baru dan uraikan alasannya.
-4. Sebutkan asumsi atau keterbatasan yang perlu diperhatikan.
+4. Mengapa rumus molekul yang sama dapat mewakili lebih dari satu struktur senyawa?
 5. Informasi apa yang masih diperlukan agar kesimpulan lebih kuat?
 
 BAB 2. IKATAN DAN BENTUK MOLEKUL

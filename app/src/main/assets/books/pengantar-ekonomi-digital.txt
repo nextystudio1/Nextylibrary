@@ -6,7 +6,7 @@ DESKRIPSI
 Memahami platform, data, pembayaran digital, pasar daring, persaingan, dan perlindungan konsumen.
 
 PETA BELAJAR
-Pelajari Pengantar Ekonomi Digital secara bertahap: pahami istilah, ikuti proses yang dijelaskan, lalu uji konsep pada contoh yang sesuai. Catat hubungan antarbab dan tandai bagian yang memerlukan data, perhitungan, atau sumber tambahan.
+Pelajari perubahan kegiatan ekonomi ketika transaksi, layanan, dan interaksi pasar berlangsung melalui teknologi digital. Perhatikan peran platform, data, sistem pembayaran, reputasi daring, persaingan, perlindungan konsumen, dan risiko ketergantungan pada penyedia layanan.
 
 BAB 1. EKONOMI BERBASIS PLATFORM
 
@@ -56,11 +56,11 @@ PROYEK TERPADU
 Buat kajian mini untuk Pengantar Ekonomi Digital dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari KONSUMEN DIGITAL YANG CERMAT dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Pengantar Ekonomi Digital.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+1. Jelaskan bagaimana efek jaringan dapat memperkuat posisi sebuah platform.
+2. Sebutkan manfaat dan risiko penggunaan data sebagai sumber daya ekonomi.
+3. Bandingkan pembayaran digital dan tunai dari sisi kemudahan, pencatatan, dan risiko.
+4. Mengapa ulasan dan sistem reputasi daring dapat memengaruhi keputusan konsumen?
+5. Jelaskan langkah konsumen untuk memeriksa keamanan, biaya, dan ketentuan layanan digital.
 
 PEDOMAN PENILAIAN
 Nilai pemahaman Pengantar Ekonomi Digital berdasarkan ketepatan konsep, kecocokan metode, mutu bukti, dan kemampuan menerapkan materi. Jawaban harus menunjukkan alasan yang dapat diperiksa serta menyebutkan keterbatasan informasi bila ada.

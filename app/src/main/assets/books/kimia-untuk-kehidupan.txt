@@ -327,8 +327,6 @@ LATIHAN
 2. Apa arti larutan 1 molar? Jawaban: satu mol zat terlarut per liter larutan.
 3. Mengapa pH tidak cukup untuk menilai bahaya? Jawaban: risiko juga dipengaruhi jenis zat, konsentrasi, reaktivitas, dan paparan.
 
-
-
 BAB LANJUTAN — LARUTAN, pH, DAN KIMIA LINGKUNGAN
 
 Larutan terdiri atas pelarut dan zat terlarut. Konsentrasi menyatakan banyaknya zat terlarut dalam jumlah larutan atau pelarut tertentu. Dua larutan dengan zat yang sama dapat memiliki sifat berbeda jika konsentrasinya berbeda. Dalam membaca data laboratorium, satuan konsentrasi harus selalu dicantumkan.

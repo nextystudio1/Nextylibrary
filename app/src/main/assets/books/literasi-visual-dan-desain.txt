@@ -182,3 +182,34 @@ LATIHAN DAN PEMBAHASAN
 3. Kapan grafik garis tepat digunakan? Untuk menunjukkan perubahan menurut urutan, sering kali waktu.
 4. Apa fungsi grid? Menjaga hubungan dan konsistensi posisi elemen.
 5. Mengapa desain informasi perlu diuji? Agar dapat diketahui apakah pengguna benar-benar menemukan dan memahami informasi.
+
+BAB LANJUTAN: DESAIN UNTUK AKSESIBILITAS
+
+Desain visual harus dapat digunakan oleh orang dengan variasi penglihatan, pendengaran, kemampuan motorik, dan pemrosesan informasi. Kontras teks, ukuran huruf, struktur judul, label yang jelas, dan penggunaan simbol pendamping warna membantu memperluas akses. Informasi penting tidak boleh hanya dibedakan melalui warna merah dan hijau.
+
+Pada media digital, teks alternatif menjelaskan gambar informatif bagi pengguna pembaca layar. Urutan baca harus masuk akal dan elemen interaktif memiliki nama yang dapat dikenali. Video informatif memerlukan teks atau bentuk akses lain yang sesuai. Dokumen yang tampak rapi secara visual belum tentu dapat diakses secara semantik.
+
+Uji aksesibilitas sebaiknya menggabungkan pemeriksaan otomatis dan evaluasi manusia. Alat otomatis dapat menemukan sebagian masalah, tetapi tidak memahami seluruh konteks. Libatkan pengguna dengan kebutuhan beragam secara sukarela dan berikan kompensasi atau dukungan yang wajar jika kegiatan merupakan riset formal.
+
+BAB LANJUTAN: SISTEM IKON, ILUSTRASI, DAN KONSISTENSI
+
+Ikon membantu mengenali tindakan atau kategori, tetapi simbol yang dianggap universal sering memiliki makna berbeda menurut konteks. Ikon penting sebaiknya disertai label teks, terutama untuk tindakan yang konsekuensinya besar. Bentuk, ketebalan garis, sudut, dan gaya ilustrasi perlu konsisten dalam satu sistem.
+
+Ilustrasi dapat menjelaskan proses atau konsep yang sulit difoto. Pastikan proporsi dan hubungan yang digambarkan tidak menyesatkan. Diagram teknis perlu memiliki legenda dan penjelasan, sedangkan ilustrasi dekoratif tidak boleh mengganggu hierarki informasi.
+
+Sistem aset visual memerlukan penamaan berkas, versi, lisensi, dan sumber yang jelas. Gunakan aset yang dibuat sendiri atau memiliki izin yang sesuai. Catat pembuat, ketentuan penggunaan, dan perubahan agar hak cipta tetap dihormati.
+
+BAB LANJUTAN: PENGUJIAN DAN EVALUASI DESAIN
+
+Evaluasi desain menguji apakah pengguna dapat menemukan informasi, memahami pesan, dan menyelesaikan tugas. Susun tugas yang realistis, amati tanpa terlalu banyak memberi petunjuk, lalu tanyakan bagian yang membingungkan. Jumlah peserta kecil dapat menemukan masalah kegunaan, tetapi tidak otomatis mewakili seluruh populasi.
+
+Catat tingkat keberhasilan tugas, waktu, kesalahan, komentar, dan kondisi pengujian. Jangan hanya meminta peserta menyatakan apakah desain “bagus”. Pertanyaan tentang pengalaman konkret menghasilkan informasi yang lebih berguna.
+
+Prioritaskan perbaikan berdasarkan dampak pada pengguna, frekuensi masalah, dan biaya perubahan. Setelah revisi, uji kembali untuk memastikan masalah benar-benar berkurang dan tidak muncul hambatan baru.
+
+LATIHAN PENDALAMAN
+1. Mengapa warna tidak boleh menjadi satu-satunya pembawa informasi?
+2. Apa fungsi teks alternatif?
+3. Mengapa ikon penting sebaiknya memiliki label?
+4. Apa keterbatasan uji kegunaan dengan peserta sedikit?
+5. Bagaimana menentukan prioritas revisi desain?

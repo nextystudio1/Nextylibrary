@@ -50,7 +50,7 @@ BAB 6. PEMANTAUAN DAN PEMBELAJARAN
 Risiko berubah ketika kegiatan, lingkungan, dan teknologi berubah. Tinjau pengendalian secara berkala dan setelah insiden atau perubahan penting. Catat pelajaran tanpa budaya menyalahkan agar penyebab sistemik dapat diperbaiki dan risiko serupa berkurang.
 
 PROYEK TERPADU
-Proyek Dasar Analisis Risiko: pilih persoalan nyata yang dapat dikaji dengan konsep dari beberapa bab. Rumuskan pertanyaan, tujuan, ruang lingkup, dan cara memperoleh informasi. Gunakan metode yang sesuai dengan bidang ini, catat sumber dan batas data, lalu susun hasil menjadi laporan yang memisahkan temuan, penafsiran, dan rekomendasi. Jelaskan siapa yang dapat memanfaatkan hasil serta apa yang masih perlu diteliti.
+Proyek penilaian risiko lingkungan sekolah: pilih satu kegiatan rutin yang aman untuk diamati, seperti antrean kantin atau perjalanan menuju kelas. Buat tabel bahaya, pihak yang mungkin terpapar, kemungkinan, dampak, pengendalian yang sudah ada, dan risiko sisa. Gunakan kriteria penilaian yang dijelaskan di buku, minta masukan guru atau penanggung jawab, lalu ajukan perbaikan yang realistis. Jangan melakukan uji coba yang menciptakan bahaya atau mengumpulkan data pribadi.
 
 EVALUASI AKHIR
 1. Bedakan bahaya, paparan, kerentanan, dan risiko.
@@ -132,8 +132,8 @@ LATIHAN
 1. Apa gagasan utama yang dijelaskan dalam LANJUTAN: MENGUKUR DAN MENGELOLA RISIKO?
 2. Jelaskan hubungan antara dua konsep penting pada bab ini.
 3. Terapkan konsep tersebut pada satu kasus baru dan uraikan alasannya.
-4. Sebutkan asumsi atau keterbatasan yang perlu diperhatikan.
-5. Informasi apa yang masih diperlukan agar kesimpulan lebih kuat?
+4. Mengapa matriks kemungkinan-dampak tidak boleh dianggap sebagai ukuran risiko yang sepenuhnya objektif?
+5. Bagaimana cara menentukan apakah pengendalian yang dipilih benar-benar menurunkan risiko?
 
 BAB 11. MENETAPKAN KRITERIA DAN TOLERANSI RISIKO
 Kriteria risiko membantu organisasi menentukan tingkat risiko yang dapat diterima, perlu dikurangi, atau membutuhkan keputusan khusus. Kriteria harus disesuaikan dengan tujuan, peraturan, sumber daya, serta dampak pada manusia dan lingkungan. Toleransi risiko bukan izin untuk mengabaikan keselamatan. Keputusan perlu didokumentasikan, termasuk siapa yang berwenang menyetujui dan kapan penilaian harus ditinjau kembali.

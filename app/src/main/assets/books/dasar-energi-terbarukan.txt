@@ -1208,3 +1208,163 @@ Variabel pengganggu: faktor lain yang dapat memengaruhi hubungan dua variabel ya
 
 CATATAN EDITOR BAGIAN VII
 Bagian ini menyajikan konsep lanjutan dan contoh hitungan sederhana untuk memperkuat literasi energi. Nilai contoh merupakan angka hipotetis. Jangan menggunakan contoh tersebut untuk menentukan kapasitas, membeli peralatan, mengubah instalasi, atau mengambil keputusan investasi nyata.
+
+
+
+BAGIAN VIII — MODUL PRAKTIK ANALISIS DAN PENGAMBILAN KEPUTUSAN
+
+BAB 67 — MENYUSUN DATA DASAR UNTUK STUDI ENERGI
+
+67.1 Inventaris data
+Studi energi yang dapat dipercaya memerlukan inventaris data. Catat nama variabel, definisi, satuan, sumber, periode, frekuensi, cakupan wilayah, dan penanggung jawab. Inventaris membantu tim mengetahui data yang tersedia dan data yang masih kurang. Data yang tidak memiliki definisi jelas dapat menimbulkan perbandingan yang salah.
+
+Contoh inventaris untuk fasilitas publik dapat mencakup konsumsi listrik bulanan, luas bangunan, jumlah pengguna, jam operasi, jenis peralatan, dan catatan gangguan. Setiap variabel memiliki sumber berbeda. Tagihan dapat memberi total energi, sedangkan jadwal ruang memberi konteks pemakaian. Jangan menganggap satu sumber dapat menjawab semua pertanyaan.
+
+67.2 Pemeriksaan mutu
+Periksa apakah nilai hilang, duplikat, salah satuan, atau berada jauh di luar rentang wajar. Nilai yang tampak tidak biasa belum tentu salah; bisa saja mencerminkan kejadian khusus. Tandai dan telusuri sebelum menghapus. Simpan salinan data asli agar proses koreksi dapat ditinjau.
+
+67.3 Metadata
+Metadata menjelaskan cara data dikumpulkan dan batas penggunaannya. Informasi penting meliputi definisi indikator, metode pengukuran, interval, akurasi, perubahan alat, serta pembaruan. Tanpa metadata, pengguna berikutnya mungkin menafsirkan data secara berbeda dari maksud pengumpulnya.
+
+67.4 Dokumentasi dan reproduksibilitas
+Catat rumus, asumsi, dan langkah perhitungan sehingga orang lain dapat mengulang analisis. Gunakan nama variabel yang konsisten dan tulis perubahan data. Dokumentasi yang baik mengurangi kesalahan dan memudahkan pembaruan ketika data baru tersedia.
+
+BAB 68 — MEMBANGUN SKENARIO DAN MENGUJI ASUMSI
+
+68.1 Skenario bukan ramalan
+Skenario menggambarkan beberapa kemungkinan kondisi masa depan berdasarkan asumsi. Skenario rendah, tengah, dan tinggi dapat membantu melihat rentang kebutuhan. Tidak satu pun harus dianggap pasti. Nilainya terletak pada pengujian ketahanan keputusan terhadap perubahan kondisi.
+
+68.2 Variabel pendorong
+Variabel yang dapat memengaruhi hasil meliputi pertumbuhan pengguna, aktivitas ekonomi, harga energi, cuaca, efisiensi perangkat, kebijakan, dan perkembangan teknologi. Pilih variabel berdasarkan pertanyaan studi. Terlalu banyak variabel dapat membuat model sulit dipahami, sedangkan terlalu sedikit dapat mengabaikan faktor penting.
+
+68.3 Skenario konsisten
+Asumsi dalam satu skenario harus masuk akal secara bersamaan. Misalnya, pertumbuhan jumlah pengguna yang tinggi mungkin juga memengaruhi luas layanan dan pola beban. Jangan menggabungkan asumsi yang saling bertentangan tanpa penjelasan. Setiap skenario perlu memiliki narasi yang menerangkan mengapa kondisi tersebut mungkin terjadi.
+
+68.4 Menggunakan hasil skenario
+Bandingkan kebutuhan energi, beban puncak, biaya, dan risiko pada setiap skenario. Cari keputusan yang tetap bermanfaat dalam beberapa skenario, misalnya efisiensi yang mengurangi pemborosan. Jika pilihan teknologi berubah drastis pada skenario berbeda, keputusan mungkin perlu ditunda sampai data tambahan tersedia atau dibuat bertahap.
+
+BAB 69 — ANALISIS BIAYA DAN MANFAAT SECARA HATI-HATI
+
+69.1 Menentukan siapa yang menanggung biaya
+Biaya proyek dapat ditanggung pengelola, pengguna, pemerintah, investor, atau masyarakat terdampak. Manfaat juga dapat tersebar tidak merata. Analisis perlu menyebut perspektif yang digunakan. Proyek yang menguntungkan operator belum tentu terjangkau bagi rumah tangga atau adil bagi warga sekitar.
+
+69.2 Biaya langsung dan tidak langsung
+Biaya langsung meliputi peralatan, konstruksi, operasi, dan pemeliharaan. Biaya tidak langsung dapat mencakup perubahan akses, gangguan kegiatan, kebutuhan pelatihan, atau dampak lingkungan. Tidak semua biaya mudah dinilai dengan uang, tetapi tetap perlu dicatat dan dibahas.
+
+69.3 Manfaat yang dapat diukur dan tidak langsung
+Manfaat dapat berupa layanan listrik, penghematan, pengurangan polusi, peningkatan keandalan, pekerjaan, atau peningkatan akses. Beberapa manfaat dapat dihitung dengan data, sementara yang lain memerlukan indikator kualitatif. Hindari menghitung manfaat ganda, misalnya memasukkan penghematan tagihan dan nilai energi yang sama sebagai dua manfaat terpisah.
+
+69.4 Distribusi manfaat
+Rata-rata manfaat dapat menyembunyikan siapa yang memperoleh keuntungan. Periksa dampak menurut kelompok pengguna, wilayah, tingkat pendapatan, dan jenis pekerjaan dengan menjaga privasi. Program yang adil perlu memberi perhatian pada kelompok yang menghadapi hambatan akses.
+
+BAB 70 — MENILAI KEBERLANJUTAN PROYEK KOMUNITAS
+
+70.1 Lebih dari pemasangan perangkat
+Keberlanjutan proyek komunitas bergantung pada kemampuan mengelola aset setelah pemasangan. Perlu ada pengelola, sumber biaya operasi, jadwal pemeliharaan, prosedur pengaduan, akses suku cadang, dan mekanisme pengambilan keputusan. Perangkat yang terpasang tetapi tidak berfungsi tidak menghasilkan layanan yang diharapkan.
+
+70.2 Kelembagaan lokal
+Pengelola dapat berbentuk organisasi komunitas, koperasi, lembaga publik, atau penyedia layanan. Aturan perlu menjelaskan kewenangan, transparansi keuangan, pergantian pengurus, dan pelaporan. Pelatihan harus sesuai tugas dan kemampuan peserta.
+
+70.3 Tarif dan dana pemeliharaan
+Jika pengguna membayar layanan, struktur tarif harus transparan dan mempertimbangkan keterjangkauan. Dana pemeliharaan perlu dipisahkan dan dicatat agar tidak habis untuk kebutuhan lain. Subsidi atau bantuan harus memiliki aturan yang jelas dan dapat diperiksa.
+
+70.4 Konflik dan penyelesaian
+Konflik dapat muncul terkait tarif, prioritas layanan, pembagian manfaat, atau tanggung jawab perbaikan. Mekanisme penyelesaian perlu disepakati sebelum masalah muncul. Keputusan dan alasan harus dicatat agar tidak bergantung pada hubungan pribadi pengurus.
+
+BAB 71 — MENILAI DAMPAK PEKERJAAN DAN EKONOMI LOKAL
+
+71.1 Jenis pekerjaan
+Proyek energi dapat menciptakan pekerjaan dalam perencanaan, konstruksi, operasi, pemeliharaan, logistik, dan layanan pendukung. Jumlah dan jenis pekerjaan berubah sepanjang siklus proyek. Pekerjaan sementara pada masa konstruksi berbeda dari pekerjaan tetap selama operasi.
+
+71.2 Kualitas pekerjaan
+Jumlah pekerjaan bukan satu-satunya indikator. Perhatikan keselamatan, upah, kepastian kerja, pelatihan, kesempatan karier, dan perlindungan pekerja. Pengadaan lokal dapat memberi manfaat ekonomi, tetapi perlu memastikan standar mutu dan keselamatan tetap terpenuhi.
+
+71.3 Peralihan pekerjaan
+Perubahan sistem energi dapat mengurangi kebutuhan pada beberapa jenis pekerjaan dan meningkatkan kebutuhan pada jenis lain. Program transisi pekerja perlu memetakan keterampilan yang dapat dialihkan, menyediakan pelatihan, dan memberi dukungan selama perubahan. Pelatihan sebaiknya terkait kebutuhan pekerjaan nyata, bukan hanya sertifikat tanpa peluang.
+
+71.4 Ekonomi lokal
+Belanja proyek dapat mendukung usaha lokal jika pemasok memiliki kesempatan yang adil. Namun, proyek juga dapat meningkatkan tekanan pada harga lahan, perumahan, atau layanan setempat. Evaluasi perlu memeriksa dampak positif dan negatif, serta bagaimana manfaat dibagikan.
+
+BAB 72 — PERENCANAAN KOMUNIKASI DAN PELAPORAN HASIL
+
+72.1 Menentukan audiens
+Laporan teknis untuk operator membutuhkan rincian berbeda dari ringkasan untuk warga. Tentukan siapa pembaca, pertanyaan yang ingin dijawab, dan keputusan yang akan didukung. Gunakan istilah teknis ketika diperlukan dan berikan definisi.
+
+72.2 Visualisasi yang bertanggung jawab
+Grafik harus memiliki satuan, rentang waktu, sumber, dan keterangan. Jangan memotong sumbu sehingga perubahan kecil tampak sangat besar tanpa penjelasan. Jika data merupakan estimasi, beri label sebagai estimasi. Peta perlu memiliki skala, legenda, tanggal, dan batas akurasi.
+
+72.3 Ringkasan eksekutif
+Ringkasan eksekutif menyampaikan tujuan, metode singkat, temuan utama, keterbatasan, dan rekomendasi. Ringkasan tidak boleh menghilangkan risiko penting hanya agar proyek tampak menarik. Pembaca seharusnya dapat memahami kesimpulan dan tingkat keyakinannya tanpa membaca seluruh lampiran.
+
+72.4 Menyampaikan hasil negatif
+Hasil yang tidak sesuai harapan tetap penting. Jika penghematan tidak tercapai, jelaskan apakah penyebabnya perubahan perilaku, asumsi awal, kerusakan, atau faktor lain yang belum diketahui. Rekomendasi perbaikan harus berdasarkan analisis, bukan menyalahkan pengguna tanpa bukti.
+
+BAB 73 — PETA JALAN PENGEMBANGAN ENERGI
+
+73.1 Peta jalan sebagai urutan tindakan
+Peta jalan menjelaskan tujuan jangka pendek, menengah, dan panjang. Tujuan perlu diterjemahkan menjadi tindakan, penanggung jawab, kebutuhan anggaran, indikator, serta jadwal. Peta jalan harus dapat diperbarui jika data atau kondisi berubah.
+
+73.2 Prioritas tanpa mengunci pilihan
+Langkah awal seperti efisiensi, perbaikan data, dan penguatan kelembagaan sering bermanfaat pada berbagai skenario. Keputusan investasi besar dapat dilakukan bertahap ketika informasi dan kesiapan meningkat. Pendekatan bertahap mengurangi risiko memilih teknologi yang belum sesuai kebutuhan.
+
+73.3 Evaluasi berkala
+Tinjau peta jalan pada interval yang ditentukan. Bandingkan target dan realisasi, periksa perubahan biaya, teknologi, cuaca, permintaan, dan kebijakan. Perubahan target harus disertai alasan dan dokumentasi agar akuntabilitas tetap terjaga.
+
+73.4 Koordinasi antarpihak
+Peta jalan melibatkan pemerintah, operator, pengguna, penyedia teknologi, lembaga pendidikan, dan masyarakat. Pembagian peran yang jelas mencegah pekerjaan tumpang tindih atau terabaikan. Forum koordinasi perlu memiliki agenda, catatan keputusan, dan tindak lanjut.
+
+BAB 74 — KESIMPULAN MENYELURUH: DARI SUMBER ENERGI KE LAYANAN
+
+Sistem energi adalah rangkaian yang menghubungkan sumber daya, teknologi, jaringan, penyimpanan, pengguna, kelembagaan, dan lingkungan. Keberhasilan tidak dapat diukur hanya dari jumlah peralatan atau kapasitas yang dibangun. Ukuran yang lebih bermakna adalah apakah layanan energi menjadi lebih andal, terjangkau, aman, dan berkelanjutan.
+
+Setiap teknologi memiliki keunggulan dan keterbatasan. Surya dan angin memanfaatkan aliran alam yang berubah. Hidro bergantung pada kondisi sungai dan DAS. Panas bumi bergantung pada geologi dan pengelolaan reservoir. Bioenergi bergantung pada asal bahan dan neraca karbon. Hidrogen memerlukan energi untuk diproduksi dan infrastruktur khusus. Penyimpanan membantu menggeser energi dalam waktu, tetapi memiliki biaya dan rugi-rugi.
+
+Keputusan harus berangkat dari kebutuhan layanan dan data yang sesuai. Perencana perlu menguji beberapa skenario, menjelaskan asumsi, menilai dampak sepanjang daur hidup, serta melibatkan masyarakat. Ketidakpastian bukan alasan untuk berhenti belajar; ketidakpastian adalah alasan untuk mengumpulkan data, menguji alternatif, dan membuat keputusan yang dapat diperbaiki.
+
+Bagi pembaca, keterampilan terpenting bukan menghafal nama teknologi. Keterampilan tersebut adalah mengajukan pertanyaan yang tepat, membaca data secara kritis, membedakan fakta dari asumsi, menghitung dengan satuan benar, mempertimbangkan pihak terdampak, dan menjelaskan kesimpulan secara jujur.
+
+BANK SOAL KOMPREHENSIF
+
+A. Pilihan jawaban singkat
+1. Satuan yang tepat untuk energi listrik adalah: watt, kilowatt, kilowatt-jam, atau volt? Jawaban: kilowatt-jam.
+2. Besaran yang menyatakan laju penggunaan energi adalah: daya, massa, suhu, atau tekanan? Jawaban: daya.
+3. Penyimpanan energi berfungsi terutama untuk: menciptakan energi, menggeser ketersediaan energi, menghapus semua rugi-rugi, atau menjamin cuaca cerah? Jawaban: menggeser ketersediaan energi.
+4. Data yang menjelaskan metode dan definisi variabel disebut: metadata, kapasitas, tarif, atau beban puncak? Jawaban: metadata.
+5. Perbandingan yang adil memerlukan: batas sistem yang sebanding, angka tanpa satuan, hanya harga awal, atau satu hari pengamatan? Jawaban: batas sistem yang sebanding.
+
+B. Soal uraian
+6. Jelaskan mengapa layanan energi harus menjadi titik awal perencanaan.
+7. Uraikan bagaimana profil beban memengaruhi kebutuhan penyimpanan.
+8. Jelaskan manfaat dan keterbatasan analisis daur hidup.
+9. Mengapa biaya proyek perlu dinilai dari perspektif kelompok yang berbeda?
+10. Bagaimana pengelola komunitas dapat menjaga transparansi dana pemeliharaan?
+11. Jelaskan perbedaan skenario dan ramalan.
+12. Mengapa data konsumsi perlu dinormalisasi ketika jumlah pengguna berubah?
+13. Jelaskan peran pendidikan dan pelatihan dalam transisi energi.
+14. Bagaimana cara mengomunikasikan hasil yang memiliki ketidakpastian besar?
+15. Mengapa rencana penutupan aset harus menjadi bagian dari studi awal?
+
+C. Tugas analisis
+16. Pilih satu fasilitas publik dan susun daftar data yang dibutuhkan untuk menilai konsumsi energi.
+17. Buat tiga skenario permintaan energi untuk fasilitas tersebut dan jelaskan asumsi tiap skenario.
+18. Susun matriks biaya, manfaat, risiko, dan distribusi dampak untuk dua alternatif perbaikan.
+19. Buat rancangan komunikasi hasil untuk pengelola dan pengguna fasilitas.
+20. Susun indikator pemantauan enam bulan setelah tindakan diterapkan.
+
+PEDOMAN PENILAIAN BANK SOAL
+Untuk soal uraian, nilai diberikan atas ketepatan konsep, kemampuan menjelaskan hubungan antarvariabel, penggunaan bukti, dan pengakuan terhadap keterbatasan. Untuk tugas analisis, nilai diberikan atas kelengkapan data, konsistensi asumsi, keadilan pertimbangan, dan kejelasan komunikasi. Jawaban yang berbeda dapat diterima jika logis dan didukung alasan.
+
+GLOSARIUM TAMBAHAN BAGIAN VIII
+Data dasar: data awal yang digunakan sebagai titik mula analisis.
+Distribusi dampak: cara biaya, manfaat, dan risiko terbagi di antara kelompok.
+Metadata: informasi tentang definisi, sumber, metode, dan batas penggunaan data.
+Normalisasi: penyesuaian data agar perbandingan mempertimbangkan perbedaan skala atau aktivitas.
+Peta jalan: rencana bertahap untuk mencapai tujuan dalam periode tertentu.
+Reproduksibilitas: kemampuan pihak lain mengulang analisis dengan data dan metode yang dijelaskan.
+Skenario: gambaran kemungkinan masa depan berdasarkan seperangkat asumsi.
+Transisi pekerja: proses dukungan dan perubahan keterampilan ketika kebutuhan pekerjaan berubah.
+Titik acuan: nilai atau kondisi yang digunakan untuk membandingkan perubahan.
+Variabel pendorong: faktor yang memengaruhi hasil atau perkembangan sistem.
+
+CATATAN EDITOR BAGIAN VIII
+Bagian ini menyediakan modul latihan untuk mengolah data, membangun skenario, menilai distribusi biaya dan manfaat, serta menyusun peta jalan. Soal dan angka bersifat edukatif. Hasil kajian nyata harus menggunakan data yang dapat diverifikasi dan ditinjau oleh pihak kompeten.

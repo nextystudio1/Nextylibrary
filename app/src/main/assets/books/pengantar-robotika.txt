@@ -13,30 +13,29 @@ BAB 1. ROBOT SEBAGAI SISTEM
 Robot adalah sistem yang menerima informasi dari lingkungan, mengolahnya, lalu melakukan tindakan melalui komponen mekanis atau elektronik. Sebuah robot dapat memiliki sensor, pengendali, aktuator, sumber energi, dan rangka. Tidak semua mesin otomatis adalah robot; istilah robot biasanya digunakan untuk sistem yang dapat merasakan kondisi dan menyesuaikan tindakannya berdasarkan program atau kendali.
 
 PENDALAMAN KONSEP
-Untuk memahami topik ini, pisahkan definisi, mekanisme, dan akibatnya. Definisi menjelaskan apa yang dimaksud suatu istilah. Mekanisme menerangkan bagaimana proses berlangsung. Akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Ketika menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
+Robot merupakan sistem terpadu: sensor mengumpulkan informasi, pengendali memproses masukan, dan aktuator menghasilkan tindakan. Kinerja tidak hanya ditentukan komponen, tetapi juga integrasi dan tujuan sistem.
 
 CONTOH KAJIAN
-Pilih satu contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteksnya, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
+Robot penyortir barang menggunakan sensor untuk mengenali karakteristik objek, pengendali untuk memilih jalur, dan aktuator untuk memindahkan objek. Setiap bagian harus bekerja sesuai urutan.
 
 LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
-2. Kumpulkan informasi dari sumber yang dapat diperiksa.
-3. Kelompokkan fakta, pendapat, dan dugaan.
-4. Terapkan konsep bab ini untuk menyusun penjelasan.
-5. Periksa kembali apakah kesimpulan sesuai bukti.
+1. Gambarkan alur sensor, pengendali, dan aktuator.
+2. Tentukan masukan dan keluaran sistem.
+3. Jelaskan tujuan yang ingin dicapai.
+4. Tandai kemungkinan gangguan.
+5. Tulis cara menguji fungsi sistem secara aman.
 
 RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
-- Pahami proses, bukan hanya menghafal nama.
-- Gunakan contoh yang relevan dan jelaskan konteksnya.
-- Sebutkan keterbatasan informasi ketika bukti belum cukup.
+- Robot adalah sistem yang menggabungkan sensor, pengendali, dan aktuator.
+- Tujuan penggunaan menentukan rancangan.
+- Integrasi komponen perlu diuji.
 
 LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
-3. Sebutkan kesalahan pemahaman yang mungkin terjadi pada topik ini.
-4. Buat satu pertanyaan lanjutan yang dapat diteliti.
-5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
+1. Sebutkan komponen utama sistem robot.
+2. Jelaskan alur informasi dari sensor ke aktuator.
+3. Mengapa robot memerlukan tujuan operasi yang jelas?
+4. Berikan contoh robot yang membantu kegiatan manusia.
+5. Apa batasan sistem robot sederhana?
 
 BAB 2. SENSOR DAN PENGUKURAN
 

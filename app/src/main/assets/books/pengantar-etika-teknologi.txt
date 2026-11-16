@@ -119,3 +119,33 @@ RANGKUMAN DAN LATIHAN AKHIR
 4. Bedakan keamanan informasi dan keselamatan sistem.
 5. Sebutkan tiga fitur yang meningkatkan aksesibilitas.
 6. Mengapa dampak lingkungan teknologi perlu dinilai sepanjang siklus hidup?
+
+BAB LANJUTAN: PRIVASI DAN TATA KELOLA DATA
+
+Privasi bukan hanya menyembunyikan rahasia; privasi berkaitan dengan kendali dan konteks penggunaan informasi. Data yang tampak biasa dapat menjadi sensitif ketika digabungkan. Prinsip minimisasi berarti mengumpulkan data yang diperlukan untuk tujuan yang jelas, membatasi akses, menentukan masa simpan, dan menghapusnya sesuai kebijakan.
+
+Persetujuan perlu spesifik, dapat dipahami, dan tidak menyesatkan. Jika layanan sulit digunakan tanpa menyetujui pengumpulan yang tidak relevan, pilihan pengguna menjadi tidak bermakna. Organisasi harus menjelaskan tujuan, pihak penerima, masa simpan, dan cara menggunakan hak yang tersedia.
+
+BAB LANJUTAN: KEADILAN ALGORITMA DAN BIAS
+
+Sistem otomatis belajar atau mengambil keputusan dari data, tujuan optimasi, dan rancangan manusia. Bias dapat muncul dari data tidak mewakili, label yang keliru, variabel proksi, atau proses penerapan. Kinerja rata-rata yang baik dapat menyembunyikan kesalahan besar pada kelompok tertentu.
+
+Evaluasi perlu memeriksa kualitas data, distribusi kesalahan, konsekuensi keputusan, mekanisme keberatan, dan pengawasan manusia. Tidak ada satu metrik keadilan yang cocok untuk semua konteks; pilihan metrik melibatkan pertimbangan nilai dan risiko.
+
+BAB LANJUTAN: TRANSPARANSI DAN AKUNTABILITAS
+
+Transparansi berarti memberikan informasi yang relevan tentang cara sistem bekerja, batasnya, dan pihak yang bertanggung jawab. Tidak semua rincian teknis harus dibuka kepada setiap orang, tetapi pengguna perlu memahami dampak keputusan terhadap mereka dan cara meminta peninjauan.
+
+Akuntabilitas memerlukan penanggung jawab yang jelas, dokumentasi, audit, mekanisme pengaduan, dan tindakan korektif. Menyebut bahwa keputusan dibuat oleh algoritma tidak menghapus tanggung jawab organisasi yang memilih dan mengoperasikannya.
+
+BAB LANJUTAN: KEAMANAN, KESELAMATAN, DAN PENYALAHGUNAAN
+
+Keamanan teknologi mencakup kerahasiaan, integritas, dan ketersediaan sistem. Keselamatan lebih luas: apakah penggunaan atau kegagalan sistem dapat menimbulkan kerugian bagi manusia dan lingkungan. Analisis risiko memetakan aset, ancaman, kerentanan, kemungkinan, dampak, serta pengendalian yang proporsional.
+
+Desain bertanggung jawab mempertimbangkan penyalahgunaan yang dapat diperkirakan, membatasi hak akses, menyediakan pemantauan yang menghormati privasi, dan menyiapkan respons insiden. Pengujian harus mendapat izin dan dilakukan dalam lingkungan yang aman.
+
+BAB LANJUTAN: LINGKUNGAN DAN TANGGUNG JAWAB INOVASI
+
+Teknologi membutuhkan energi, bahan, pusat data, perangkat, dan rantai pasok. Dampak lingkungan mencakup ekstraksi bahan, manufaktur, penggunaan, serta limbah elektronik. Klaim keberlanjutan perlu menyebut batas analisis dan bukti, bukan hanya label pemasaran.
+
+Tanggung jawab inovasi menggabungkan antisipasi dampak, refleksi nilai, pelibatan pihak terdampak, dan kemampuan mengubah arah ketika ditemukan risiko. Evaluasi etis dilakukan sepanjang siklus hidup, bukan hanya pada saat produk diluncurkan.

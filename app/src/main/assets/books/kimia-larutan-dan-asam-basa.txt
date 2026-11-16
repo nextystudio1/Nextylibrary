@@ -174,3 +174,24 @@ pH: ukuran logaritmik yang berkaitan dengan aktivitas ion hidrogen.
 Titrasi: metode analisis menggunakan larutan standar.
 Titik ekuivalen: keadaan ketika pereaksi memenuhi perbandingan reaksi.
 Larutan penyangga: larutan yang menahan perubahan pH dalam batas kapasitasnya.
+
+BAB 11. KONSENTRASI DAN PENGENCERAN
+Konsentrasi menyatakan banyaknya zat terlarut dalam sejumlah larutan atau pelarut. Konsentrasi dapat dinyatakan dengan satuan berbeda, seperti gram per liter, persen, atau molaritas. Karena satuan memiliki arti berbeda, angka konsentrasi tidak boleh dibandingkan sebelum satuannya dipahami. Molaritas menyatakan jumlah mol zat terlarut dalam satu liter larutan. Perhitungan harus memperhatikan volume akhir larutan, bukan sekadar volume pelarut yang mula-mula digunakan.
+
+Pengenceran menurunkan konsentrasi dengan menambah pelarut tanpa mengubah jumlah zat terlarut. Hubungan sederhana M1V1 = M2V2 berlaku untuk pengenceran ketika jumlah zat terlarut tetap dan satuan volume konsisten. Persamaan tersebut membantu menghitung kebutuhan secara matematis, tetapi kegiatan laboratorium tetap harus mengikuti prosedur keselamatan dan arahan pengajar. Jangan mencampur bahan rumah tangga atau bahan kimia yang tidak diketahui.
+
+BAB 12. ELEKTROLIT DAN DAYA HANTAR
+Larutan elektrolit dapat menghantarkan listrik karena mengandung ion yang bergerak. Elektrolit kuat terurai atau terionisasi secara luas, sedangkan elektrolit lemah hanya sebagian. Larutan nonelektrolit tidak menghasilkan ion dalam jumlah berarti. Daya hantar dipengaruhi konsentrasi ion, muatan, mobilitas ion, dan suhu. Karena itu, kemampuan menghantarkan listrik tidak hanya ditentukan oleh banyaknya zat yang dilarutkan.
+
+BAB 13. INDIKATOR DAN TITRASI
+Indikator asam-basa berubah warna pada rentang pH tertentu. Pemilihan indikator perlu disesuaikan dengan titik ekuivalen titrasi. Titrasi merupakan metode analisis untuk menentukan konsentrasi larutan melalui reaksi dengan larutan standar. Pembacaan volume harus dilakukan dengan teliti dan hasil pengukuran dicatat beserta satuannya. Perbedaan kecil antarulangan dapat digunakan untuk menilai ketelitian, sedangkan hasil yang jauh berbeda perlu diperiksa penyebabnya.
+
+BAB 14. ASAM-BASA DALAM KEHIDUPAN DAN LINGKUNGAN
+Konsep asam-basa digunakan untuk memahami tanah, air, proses pencernaan, pengolahan pangan, dan berbagai proses industri. pH tanah dapat memengaruhi ketersediaan unsur hara, sedangkan pH air berpengaruh pada organisme perairan. Nilai pH harus ditafsirkan sesuai konteks dan metode pengukuran. Satu angka tidak cukup untuk menyimpulkan seluruh kualitas air atau tanah karena parameter lain juga penting.
+
+LATIHAN TERAPAN
+1. Jelaskan perbedaan konsentrasi massa dan molaritas.
+2. Mengapa persamaan pengenceran memerlukan satuan volume yang konsisten?
+3. Jelaskan peran ion dalam daya hantar listrik larutan.
+4. Mengapa indikator harus dipilih sesuai rentang perubahan pH?
+5. Sebutkan dua faktor selain pH yang dapat memengaruhi kualitas air.

@@ -136,3 +136,38 @@ LATIHAN TERAPAN
 3. Bandingkan dua bahan berdasarkan lebih dari sekadar harga.
 4. Tentukan tujuan uji untuk prototipe botol minum.
 5. Sebutkan tiga cara memperpanjang masa guna produk.
+
+BAB 12. ERGONOMI, ANTROPOMETRI, DAN AKSESIBILITAS
+
+Ergonomi mempelajari hubungan manusia dengan benda, tugas, dan lingkungan. Antropometri menyediakan data ukuran tubuh untuk membantu menentukan jangkauan, ruang bebas, tinggi permukaan, dan posisi kendali. Data ukuran harus mewakili kelompok pengguna yang dituju; merancang hanya berdasarkan satu ukuran rata-rata dapat membuat produk tidak nyaman bagi banyak orang.
+
+Desain yang inklusif mempertimbangkan variasi kemampuan gerak, penglihatan, pendengaran, kekuatan, usia, dan konteks penggunaan. Kendali dapat diberi bentuk yang mudah dibedakan, label yang jelas, serta umpan balik yang tidak hanya mengandalkan warna atau suara. Pengujian dengan pengguna beragam lebih bermakna daripada mengasumsikan kebutuhan mereka.
+
+BAB 13. MATERIAL, SAMBUNGAN, DAN KETAHANAN
+
+Bahan dipilih berdasarkan fungsi, beban, lingkungan, proses produksi, dan akhir masa pakai. Sifat penting dapat mencakup kekuatan, kekakuan, ketangguhan, ketahanan korosi, konduktivitas, serta perilaku terhadap panas. Dua bahan dengan kekuatan serupa dapat berbeda dalam berat, kemudahan dibentuk, perbaikan, dan biaya siklus hidup.
+
+Sambungan seperti sekrup, perekat, las, atau kait memiliki karakteristik berbeda. Sambungan memengaruhi kemudahan perakitan, pembongkaran, perawatan, dan daur ulang. Titik konsentrasi tegangan, perubahan suhu, kelembapan, serta getaran dapat mempercepat kegagalan. Karena itu, uji produk harus mencerminkan kondisi penggunaan yang wajar dan mengikuti prosedur keselamatan.
+
+BAB 14. DESAIN UNTUK PERAKITAN DAN PERAWATAN
+
+Desain untuk perakitan mengurangi jumlah komponen, arah pemasangan yang membingungkan, dan kebutuhan alat khusus. Komponen yang hanya dapat dipasang dengan satu orientasi dapat mengurangi kesalahan. Dokumentasi perakitan perlu menggunakan urutan logis, ilustrasi yang jelas, dan peringatan pada tahap yang memiliki risiko.
+
+Kemudahan perawatan dipengaruhi akses ke bagian yang perlu dibersihkan atau diganti, ketersediaan suku cadang, serta kejelasan petunjuk. Produk yang mudah diperbaiki dapat memperpanjang masa guna. Namun, keputusan modularitas perlu menimbang tambahan sambungan, biaya, berat, dan potensi kegagalan.
+
+BAB 15. BIAYA, NILAI, DAN KEPUTUSAN DESAIN
+
+Biaya produk mencakup bahan, tenaga kerja, perkakas, pengujian, kemasan, distribusi, layanan, garansi, dan akhir masa pakai. Biaya produksi per unit biasanya berubah mengikuti jumlah produksi. Prototipe yang murah belum tentu menunjukkan biaya produksi massal karena proses, toleransi, dan pengendalian mutu dapat berbeda.
+
+Matriks keputusan membantu membandingkan konsep berdasarkan kriteria yang telah disepakati. Beri bobot hanya jika alasan prioritas jelas, lalu lakukan analisis sensitivitas untuk melihat apakah perubahan bobot mengubah pilihan. Nilai pengguna tidak selalu dapat direduksi menjadi angka; catatan kualitatif tetap diperlukan.
+
+STUDI KASUS: TEMPAT MINUM YANG MUDAH DIRAWAT
+
+Rancang konsep tempat minum untuk penggunaan sekolah. Tetapkan kebutuhan pengguna, kapasitas, kemudahan dibersihkan, risiko kebocoran, kemudahan dibawa, aksesibilitas, dan biaya. Bandingkan dua konsep dengan matriks kriteria. Buat prototipe sederhana untuk memeriksa genggaman, pembukaan tutup, dan kemudahan pencucian. Jangan menyatakan produk aman untuk pangan sebelum bahan dan prosesnya diverifikasi.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa persentil antropometri perlu dipilih sesuai fungsi? Karena dimensi yang tepat bergantung pada apakah yang dirancang adalah jangkauan, ruang bebas, atau tinggi permukaan.
+2. Mengapa sambungan memengaruhi daur ulang? Karena beberapa sambungan mempersulit pemisahan material.
+3. Apa manfaat desain modular? Bagian tertentu dapat diganti tanpa membuang seluruh produk, selama tambahan kompleksitasnya sepadan.
+4. Mengapa matriks keputusan memerlukan analisis sensitivitas? Agar tim mengetahui apakah keputusan sangat bergantung pada bobot yang subjektif.

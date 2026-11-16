@@ -49,7 +49,6 @@ PROYEK TERPADU
 Proyek Dasar Kimia Organik: pilih persoalan nyata yang dapat dikaji dengan konsep dari beberapa bab. Rumuskan pertanyaan, tujuan, ruang lingkup, dan cara memperoleh informasi. Gunakan metode yang sesuai dengan bidang ini, catat sumber dan batas data, lalu susun hasil menjadi laporan yang memisahkan temuan, penafsiran, dan rekomendasi. Jelaskan siapa yang dapat memanfaatkan hasil serta apa yang masih perlu diteliti.
 
 EVALUASI AKHIR
-EVALUASI AKHIR
 1. Jelaskan mengapa atom karbon dapat membentuk banyak struktur molekul.
 2. Hubungkan gugus fungsi dengan sifat fisik atau kimia senyawa.
 3. Bedakan isomer struktur dan stereoisomer.

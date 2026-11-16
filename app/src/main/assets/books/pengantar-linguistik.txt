@@ -205,3 +205,28 @@ LATIHAN AKHIR
 3. Jelaskan bagaimana urutan kata memengaruhi interpretasi.
 4. Berikan contoh perbedaan makna semantik dan pragmatik.
 5. Susun prinsip etis untuk dokumentasi bahasa komunitas.
+
+BAB 11. BUNYI BAHASA DAN FONETIK
+Fonetik mempelajari bunyi ujaran sebagai gejala fisik: bagaimana bunyi dihasilkan, merambat, dan diterima. Fonologi mengkaji bagaimana suatu bahasa mengatur bunyi untuk membedakan makna. Bunyi dapat dianalisis berdasarkan tempat dan cara artikulasi serta getaran pita suara. Transkripsi fonetis membantu mencatat pengucapan secara lebih teliti daripada ejaan biasa. Namun, variasi pengucapan antardaerah dan antarpembicara merupakan bagian alami bahasa, bukan otomatis kesalahan.
+
+BAB 12. MORFOLOGI DAN PEMBENTUKAN KATA
+Morfologi mempelajari struktur kata dan proses pembentukannya. Morfem adalah satuan terkecil yang membawa makna atau fungsi gramatikal. Kata dapat dibentuk melalui afiksasi, pengulangan, pemajemukan, dan proses lain. Dalam bahasa Indonesia, imbuhan dapat mengubah kelas kata atau hubungan makna. Analisis morfologi perlu memperhatikan konteks karena bentuk yang mirip belum tentu memiliki fungsi yang sama. Kamus dan contoh pemakaian membantu menguji analisis.
+
+BAB 13. SINTAKSIS DAN STRUKTUR KALIMAT
+Sintaksis mengkaji cara kata disusun menjadi frasa, klausa, dan kalimat. Urutan kata, penanda gramatikal, dan intonasi dapat memengaruhi penafsiran. Kalimat yang panjang tidak selalu lebih jelas; hubungan antargagasan perlu ditata agar pembaca mengetahui pelaku, tindakan, objek, dan keterangan. Analisis sintaksis dapat menggunakan diagram atau pengelompokan unsur. Ketika menyunting tulisan, periksa apakah setiap kata memiliki fungsi yang jelas dan apakah rujukan kata ganti tidak membingungkan.
+
+BAB 14. MAKNA, KONTEKS, DAN PRAGMATIK
+Semantik mempelajari makna bahasa, sedangkan pragmatik menelaah makna dalam penggunaan dan konteks. Kalimat yang sama dapat memiliki maksud berbeda bergantung pada situasi, hubungan penutur, intonasi, dan pengetahuan bersama. Makna kiasan, sindiran, kesantunan, serta maksud tidak langsung termasuk bahan kajian pragmatik. Untuk memahami percakapan, pembaca perlu mempertimbangkan konteks tanpa membuat dugaan yang tidak didukung.
+
+BAB 15. SOSIOLINGUISTIK DAN PERUBAHAN BAHASA
+Bahasa bervariasi menurut wilayah, usia, komunitas, situasi, dan tujuan komunikasi. Ragam formal dan informal memiliki fungsi berbeda. Perubahan bahasa terjadi melalui kontak, inovasi, perpindahan penduduk, media, dan perubahan sosial. Sikap merendahkan suatu dialek dapat menimbulkan diskriminasi karena variasi bahasa berkaitan dengan identitas dan sejarah komunitas. Penelitian bahasa perlu menghormati penutur, meminta persetujuan, dan tidak menyebarkan rekaman atau data pribadi tanpa izin.
+
+METODE PENGAMATAN BAHASA
+Tentukan pertanyaan yang sempit, misalnya variasi sapaan dalam dua situasi. Catat konteks, bukan hanya bentuk kata. Jika melibatkan orang, jelaskan tujuan pengamatan dan minta persetujuan. Samarkan identitas ketika menyajikan contoh. Jangan menyimpulkan karakter atau kemampuan seseorang hanya dari aksen atau pilihan kata.
+
+LATIHAN PENDALAMAN
+1. Bedakan fonetik dan fonologi.
+2. Identifikasi morfem dalam beberapa kata berimbuhan.
+3. Uraikan unsur pembentuk satu kalimat.
+4. Berikan contoh makna yang bergantung pada konteks.
+5. Jelaskan mengapa variasi dialek perlu dihormati.

@@ -6,7 +6,7 @@ DESKRIPSI
 Belajar mengumpulkan, membersihkan, mengolah, menyajikan, dan menjaga kualitas data.
 
 PENDAHULUAN
-Buku Dasar Pengolahan Data membahas belajar mengumpulkan, membersihkan, mengolah, menyajikan, dan menjaga kualitas data.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini membahas alur kerja data dari pertanyaan awal hingga penyajian temuan. Pembaca mempelajari struktur data, pemeriksaan kualitas, pembersihan, transformasi, analisis, visualisasi, privasi, dan dokumentasi agar hasil dapat ditinjau ulang.
 
 BAB 1. SIKLUS KERJA DATA
 
@@ -49,11 +49,12 @@ PROYEK TERPADU
 Buat kajian mini untuk Dasar Pengolahan Data dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari PRIVASI DAN REPRODUKSIBILITAS dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Dasar Pengolahan Data.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+EVALUASI AKHIR
+1. Jelaskan mengapa pertanyaan analisis harus ditentukan sebelum mengolah data.
+2. Bedakan data hilang, data duplikat, dan nilai pencilan.
+3. Uraikan langkah pemeriksaan konsistensi tipe, format, dan rentang nilai.
+4. Pilih grafik yang sesuai untuk membandingkan kategori dan melihat perubahan waktu.
+5. Jelaskan bagaimana dokumentasi transformasi dan perlindungan privasi meningkatkan keandalan analisis.
 
 PEDOMAN PENILAIAN
 Nilai pemahaman Dasar Pengolahan Data berdasarkan ketepatan konsep, kecocokan metode, mutu bukti, dan kemampuan menerapkan materi. Jawaban harus menunjukkan alasan yang dapat diperiksa serta menyebutkan keterbatasan informasi bila ada.

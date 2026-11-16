@@ -106,19 +106,19 @@ DAFTAR PUSTAKA DAN SARAN BELAJAR
 Naskah ini merupakan bahan pembelajaran orisinal yang disusun untuk NextyLibrary. Untuk topik yang memerlukan informasi mutakhir atau keputusan profesional, bandingkan dengan buku ajar, standar, dan publikasi lembaga resmi yang relevan. Catat judul, penulis/lembaga, tahun, serta bagian yang digunakan ketika menambahkan rujukan.
 PENDALAMAN MATERI DAN PRAKTIK
 
-BAB 6. MEDIA TANAM, AIR, DAN NUTRISI
+BAB 7. MEDIA TANAM, AIR, DAN NUTRISI
 Media tanam berfungsi menopang akar, menyediakan ruang udara, dan menahan air serta unsur hara. Tanah kebun, kompos matang, sekam, dan bahan lain memiliki sifat berbeda. Media yang terlalu padat dapat mengurangi udara di sekitar akar, sedangkan media yang terlalu cepat kering membuat tanaman mudah mengalami kekurangan air. Kebutuhan air dipengaruhi jenis tanaman, ukuran wadah, cuaca, dan tahap pertumbuhan. Penyiraman sebaiknya berdasarkan kondisi media dan kebutuhan tanaman, bukan jadwal kaku. Pupuk menyediakan unsur hara, tetapi pemberian berlebihan dapat merusak tanaman dan mencemari air. Ikuti petunjuk produk dan gunakan bahan yang aman untuk tanaman pangan.
 
-BAB 7. HIDROPONIK DAN BUDIDAYA WADAH
+BAB 8. HIDROPONIK DAN BUDIDAYA WADAH
 Hidroponik menumbuhkan tanaman dengan larutan nutrisi tanpa tanah sebagai media utama. Sistem dapat memakai media penyangga seperti rockwool atau bahan lain yang sesuai. Keberhasilan bergantung pada kualitas air, keseimbangan nutrisi, oksigen di zona akar, cahaya, dan kebersihan sistem. Hidroponik bukan berarti tanaman tidak membutuhkan perawatan. Perubahan pH dan konsentrasi larutan dapat memengaruhi penyerapan unsur hara. Untuk pemula, sistem sederhana perlu dipantau dan dicatat agar penyebab masalah dapat dikenali. Wadah harus memiliki drainase atau sirkulasi yang sesuai untuk mencegah genangan dan pertumbuhan organisme yang tidak diinginkan.
 
-BAB 8. HAMA, PENYAKIT, DAN PENGELOLAAN TERPADU
+BAB 9. HAMA, PENYAKIT, DAN PENGELOLAAN TERPADU
 Gejala daun menguning, bercak, atau pertumbuhan terhambat dapat disebabkan oleh hama, penyakit, kekurangan hara, air berlebih, atau kondisi cahaya. Diagnosis sebaiknya tidak dilakukan hanya dari satu gejala. Periksa bagian bawah daun, kondisi akar, pola penyebaran, dan riwayat perawatan. Pengelolaan hama terpadu mengutamakan pencegahan, pemantauan, sanitasi, pemilihan varietas sesuai, dan metode pengendalian yang paling rendah risikonya. Pestisida tidak boleh digunakan sembarangan, terutama pada tanaman pangan. Ikuti label, aturan setempat, dan arahan orang dewasa atau petugas pertanian yang kompeten.
 
-BAB 9. PANEN, PENYIMPANAN, DAN KEAMANAN PANGAN
+BAB 10. PANEN, PENYIMPANAN, DAN KEAMANAN PANGAN
 Waktu panen memengaruhi rasa, tekstur, dan daya simpan. Gunakan alat bersih dan wadah yang tidak mencemari hasil panen. Cuci tangan dan peralatan, pisahkan hasil panen dari bahan kimia, serta hindari meletakkan sayuran pada permukaan kotor. Penyimpanan bergantung pada jenis hasil; sebagian sayuran lebih baik disimpan dingin, sementara beberapa bahan tidak cocok pada suhu terlalu rendah. Jangan mengonsumsi tanaman yang terkena bahan tidak dikenal atau tumbuh di tanah yang diduga tercemar. Keamanan pangan dimulai dari pemilihan lokasi dan air, bukan hanya dari pencucian setelah panen.
 
-BAB 10. KETAHANAN PANGAN DAN PENGELOLAAN KOMUNITAS
+BAB 11. KETAHANAN PANGAN DAN PENGELOLAAN KOMUNITAS
 Ketahanan pangan mencakup ketersediaan, akses, pemanfaatan, dan stabilitas pasokan. Kebun komunitas dapat menambah ruang belajar, memperkuat hubungan sosial, dan menghasilkan sebagian bahan pangan. Namun, hasil kebun dipengaruhi musim, lahan, air, tenaga, dan pengetahuan. Pengelolaan bersama perlu membagi tugas, jadwal, biaya, serta hasil secara transparan. Kompos dari sisa organik dapat mengurangi sampah, tetapi bahan yang tercampur plastik, minyak, atau bahan berbahaya tidak boleh dimasukkan. Catatan hasil panen membantu mengevaluasi produktivitas dan kebutuhan perbaikan.
 
 STUDI KASUS

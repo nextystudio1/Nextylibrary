@@ -16,17 +16,24 @@ PENDALAMAN
 Pada BUNYI BAHASA, tentukan tujuan pesan, konteks, pihak yang terlibat, dan bukti yang digunakan. Pilih istilah yang tepat, periksa kemungkinan salah tafsir, dan jelaskan bagaimana penerapan konsep dapat dinilai.
 
 AKTIVITAS PENGAMATAN
-Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+Kumpulkan beberapa contoh penggunaan bahasa dari situasi berbeda, misalnya percakapan keluarga, pengumuman publik, dan tulisan berita. Catat pilihan kata, susunan kalimat, tujuan penutur, serta konteks sosial. Jangan menyimpulkan kemampuan seseorang hanya dari satu contoh tuturan.
 
 LATIHAN
-1. Jelaskan konsep utama tanpa menyalin kalimat buku.
+1. Bedakan fonetik dan fonologi dengan contoh bunyi bahasa.
+2. Uraikan bagaimana morfem membentuk kata.
+3. Jelaskan perbedaan makna leksikal dan makna kontekstual.
+4. Analisis bagaimana hubungan penutur dan pendengar memengaruhi pilihan ragam bahasa.
+5. Mengapa variasi dialek tidak tepat dinilai sebagai bentuk bahasa yang lebih rendah?
 2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
 3. Berikan satu contoh dan satu contoh pembanding.
 4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
 5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
 
 RANGKUMAN
-- Pahami istilah dan batas penggunaannya.
+- Linguistik mengkaji bahasa melalui bunyi, bentuk kata, struktur kalimat, makna, dan penggunaan.
+- Setiap tingkat analisis memiliki pertanyaan dan metode yang berbeda.
+- Bahasa berubah dan bervariasi menurut waktu, wilayah, komunitas, serta situasi.
+- Data bahasa perlu dicatat dalam konteks agar tidak disalahartikan.
 - Hubungkan konsep dengan bukti yang relevan.
 - Perhatikan konteks serta kemungkinan penjelasan lain.
 - Sampaikan kesimpulan secara proporsional.
@@ -52,17 +59,21 @@ BAB 6. BAHASA, IDENTITAS, DAN ETIKA
 Bahasa berkaitan dengan identitas, akses pendidikan, dan hubungan kekuasaan. Sikap merendahkan aksen atau dialek dapat menimbulkan diskriminasi. Penelitian bahasa harus menghormati penutur, meminta persetujuan, menjaga data, dan menggambarkan variasi secara akurat.
 
 TUGAS TERPADU
-Buat laporan mini yang menghubungkan sekurang-kurangnya tiga bab. Tentukan tujuan, pertanyaan, metode, sumber informasi, dan batasan. Sajikan temuan secara runtut. Bedakan data yang diamati dari tafsiran. Jika informasi belum cukup, nyatakan dengan jujur dan jelaskan apa yang perlu dikumpulkan berikutnya.
+Lakukan analisis kecil terhadap satu fenomena bahasa yang dapat diamati secara etis. Rumuskan pertanyaan, tentukan data yang diperlukan, catat konteks, dan pilih tingkat analisis yang sesuai. Sajikan contoh secara anonim bila melibatkan penutur, lalu jelaskan batas generalisasi dari data yang terbatas.
 
 EVALUASI AKHIR
-1. Tuliskan lima konsep inti dan definisinya.
+1. Jelaskan perbedaan fonologi, morfologi, sintaksis, dan semantik.
+2. Analisis proses pembentukan sebuah kata.
+3. Berikan contoh ambiguitas kalimat dan jelaskan sumbernya.
+4. Hubungkan variasi bahasa dengan konteks sosial.
+5. Susun rancangan sederhana untuk mengkaji perubahan penggunaan suatu istilah.
 2. Jelaskan hubungan antara tiga konsep berbeda.
 3. Analisis satu contoh dengan menggunakan bukti.
 4. Bandingkan dua pendekatan atau penjelasan.
 5. Buat kesimpulan dan nyatakan keterbatasannya.
 
 PEDOMAN PENILAIAN
-Periksa ketepatan istilah, kualitas bukti, alur penalaran, relevansi contoh, dan kejelasan bahasa. Jawaban dapat bervariasi jika alasan dan buktinya kuat. Hindari klaim mutlak ketika data hanya mendukung kesimpulan terbatas.
+Nilai ketepatan analisis kebahasaan, konsistensi penggunaan istilah, kecukupan contoh, dan pemahaman konteks. Kesimpulan harus sesuai dengan data dan tidak menggeneralisasi satu kelompok penutur secara berlebihan.
 
 GLOSARIUM
 Fonetik: Kajian produksi dan sifat fisik bunyi ujaran.

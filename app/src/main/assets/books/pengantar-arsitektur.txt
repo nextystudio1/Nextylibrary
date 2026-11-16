@@ -24,19 +24,13 @@ LANGKAH PRAKTIK
 3. Tandai jalur sirkulasi dan titik akses.
 4. Periksa pencahayaan, ventilasi, dan hambatan penggunaan.
 5. Bandingkan rancangan dengan kebutuhan awal.
-2. Kumpulkan informasi dari sumber yang dapat diperiksa.
-3. Kelompokkan fakta, pendapat, dan dugaan.
-4. Terapkan konsep bab ini untuk menyusun penjelasan.
-5. Periksa apakah kesimpulan sesuai bukti.
 
 RANGKUMAN BAB
 - Fungsi dan kebutuhan pengguna menjadi dasar keputusan ruang.
 - Struktur, bahan, dan iklim memengaruhi kinerja bangunan.
 - Aksesibilitas perlu dipertimbangkan sejak tahap perancangan.
 - Kualitas arsitektur mencakup pengalaman pengguna dan dampak lingkungan.
-- Pahami proses, bukan hanya menghafal nama.
-- Gunakan contoh relevan dan jelaskan konteksnya.
-- Sebutkan keterbatasan informasi ketika bukti belum cukup.
+- Keputusan desain perlu diuji terhadap kebutuhan dan kondisi tapak.
 
 LATIHAN PEMAHAMAN
 1. Jelaskan hubungan fungsi ruang dengan tata letak.
@@ -44,10 +38,6 @@ LATIHAN PEMAHAMAN
 3. Sebutkan pertimbangan aksesibilitas pada bangunan publik.
 4. Bandingkan dua material berdasarkan fungsi dan perawatannya.
 5. Informasi apa yang diperlukan sebelum membuat rancangan?
-2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
-3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
-4. Buat satu pertanyaan lanjutan yang dapat diteliti.
-5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
 
 BAB 2. FUNGSI DAN ORGANISASI RUANG
 
@@ -72,12 +62,12 @@ Ruang yang baik dapat digunakan oleh beragam orang, termasuk anak-anak, lansia, 
 PROYEK AKHIR
 Rancang konsep ruang belajar kecil berdasarkan kebutuhan penggunanya. Sertakan daftar kebutuhan, sketsa denah, jalur sirkulasi, pencahayaan, ventilasi, pilihan bahan, dan alasan setiap keputusan. Nyatakan bahwa rancangan konsep bukan pengganti pemeriksaan tenaga profesional atau ketentuan bangunan.
 
-EVALUASI AKHIR
-1. Terangkan konsep inti dari AKSESIBILITAS DAN TANGGUNG JAWAB dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Pengantar Arsitektur dan Ruang.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+EVALUASI BAB 1–6
+1. Mengapa kebutuhan pengguna perlu dianalisis sebelum membuat denah?
+2. Jelaskan hubungan orientasi, pencahayaan, dan kenyamanan termal.
+3. Bagaimana pemilihan material memengaruhi perawatan bangunan?
+4. Sebutkan dua cara meningkatkan aksesibilitas ruang publik.
+5. Mengapa keputusan struktur harus diperiksa tenaga ahli dan mengikuti aturan?
 
 PEDOMAN PENILAIAN
 Nilai kesesuaian rancangan dengan kebutuhan pengguna, kejelasan denah, pertimbangan aksesibilitas, alasan pemilihan bahan, serta kesadaran terhadap batas teknis. Gambar yang sederhana dapat memperoleh nilai baik jika keputusan desain dijelaskan dengan tepat.
@@ -127,3 +117,85 @@ EVALUASI AKHIR
 3. Bagaimana orientasi bangunan dan pelindung matahari memengaruhi kenyamanan?
 4. Sebutkan pertimbangan utama dalam memilih material bangunan.
 5. Jelaskan bagaimana aksesibilitas dan keselamatan dapat diperiksa sejak tahap konsep.
+
+BAB 7. TAPAK, KONTEKS, DAN HUBUNGAN DENGAN LINGKUNGAN
+Tapak adalah lahan tempat bangunan direncanakan. Analisis tapak memeriksa bentuk lahan, kemiringan, jenis tanah berdasarkan data yang tersedia, vegetasi, drainase, arah matahari, angin, akses jalan, kebisingan, dan bangunan sekitar. Informasi tersebut membantu perancang memahami peluang serta batasan sebelum menentukan tata letak.
+
+Bangunan tidak berdiri sendiri. Ketinggian, jarak, orientasi, dan bentuknya dapat memengaruhi cahaya, pandangan, privasi, aliran udara, serta pengalaman pejalan kaki di sekitarnya. Perancangan perlu memperhatikan hubungan dengan tetangga, ruang publik, jaringan transportasi, dan karakter kawasan.
+
+Drainase tapak perlu dipahami sebagai bagian dari pengelolaan air hujan. Permukaan kedap air dapat meningkatkan limpasan, sedangkan vegetasi dan area resapan dapat membantu mengelola air jika kondisi tanah dan desainnya sesuai. Rancangan tidak boleh mengalihkan masalah genangan ke lahan tetangga. Solusi teknis harus diperiksa sesuai kondisi lokasi dan ketentuan setempat.
+
+LATIHAN
+1. Sebutkan enam unsur yang perlu diamati dalam analisis tapak.
+2. Mengapa hubungan bangunan dengan jalan dan ruang publik penting?
+3. Jelaskan bagaimana permukaan kedap air dapat memengaruhi limpasan hujan.
+4. Buat daftar informasi yang harus dikumpulkan sebelum memilih posisi bangunan.
+5. Bandingkan dua alternatif tata letak berdasarkan akses, cahaya, vegetasi, dan dampak terhadap lingkungan sekitar.
+
+BAB 8. AKUSTIK DAN KENYAMANAN SENSORI
+Akustik arsitektur mempelajari bagaimana suara dihasilkan, merambat, dipantulkan, diserap, dan diterima di dalam ruang. Kualitas akustik penting pada ruang kelas, perpustakaan, rumah, ruang pertemuan, dan fasilitas publik. Ruang yang terlalu bising dapat mengganggu komunikasi dan konsentrasi.
+
+Permukaan keras seperti kaca, beton, dan keramik cenderung memantulkan suara, sedangkan bahan berpori tertentu dapat menyerap sebagian energi bunyi. Bentuk ruang, ukuran, posisi sumber suara, furnitur, dan jumlah pengguna juga memengaruhi kondisi akustik. Tidak ada satu material yang otomatis menyelesaikan semua masalah; solusi harus sesuai sumber gangguan dan fungsi ruang.
+
+Kenyamanan sensori juga mencakup cahaya, suhu, bau, tekstur, dan kemudahan orientasi. Pengguna memiliki kebutuhan berbeda. Penanda yang jelas, kontras visual yang memadai, pengurangan silau, dan pengaturan kebisingan dapat membantu lebih banyak orang menggunakan ruang.
+
+LATIHAN
+1. Bedakan bunyi yang dipantulkan dan diserap.
+2. Mengapa ruang kelas membutuhkan pertimbangan akustik?
+3. Sebutkan faktor selain material yang memengaruhi kualitas suara.
+4. Berikan tiga strategi konseptual untuk mengurangi gangguan kebisingan.
+5. Evaluasi satu ruang belajar dari sisi cahaya, suara, suhu, dan kemudahan orientasi.
+
+BAB 9. PROSES PERANCANGAN DAN KOMUNIKASI DESAIN
+Proses perancangan dimulai dengan memahami masalah, bukan langsung menggambar bentuk. Perancang menyusun tujuan, mengenali pengguna, mengumpulkan informasi tapak, menetapkan batasan, dan membuat program ruang. Setelah itu, beberapa alternatif konsep dapat dikembangkan dan dibandingkan berdasarkan kriteria yang jelas.
+
+Sketsa, diagram hubungan ruang, maket, dan model digital merupakan alat untuk menguji gagasan. Setiap alat memiliki keterbatasan. Sketsa cepat membantu eksplorasi bentuk, diagram memperjelas hubungan fungsi, sedangkan model tiga dimensi dapat membantu memahami volume dan cahaya. Model konseptual tidak membuktikan bahwa bangunan aman secara teknis.
+
+Umpan balik pengguna dan pihak terkait perlu dikumpulkan pada tahap yang tepat. Kritik sebaiknya dicatat sebagai masukan untuk diuji, bukan diterima atau ditolak tanpa alasan. Ketika kebutuhan saling bertentangan, perancang harus menjelaskan prioritas dan konsekuensi keputusan.
+
+Dokumentasi desain perlu menggunakan ukuran, skala, simbol, dan keterangan yang konsisten. Gambar harus dapat dipahami oleh pihak yang terlibat. Dokumen teknis untuk pelaksanaan bangunan harus disusun dan diperiksa oleh tenaga profesional yang berwenang sesuai peraturan.
+
+LATIHAN
+1. Susun urutan tahap perancangan dari identifikasi kebutuhan hingga evaluasi konsep.
+2. Apa perbedaan fungsi sketsa, diagram, dan model tiga dimensi?
+3. Mengapa alternatif desain perlu dibandingkan dengan kriteria yang jelas?
+4. Bagaimana cara mencatat dan menanggapi umpan balik pengguna?
+5. Buat matriks sederhana untuk membandingkan dua konsep ruang belajar.
+
+BAB 10. KINERJA BANGUNAN DAN EVALUASI PASCAHUNI
+Kinerja bangunan dapat dinilai melalui kenyamanan termal, pencahayaan, kualitas udara, akustik, aksesibilitas, penggunaan energi, kebutuhan air, kemudahan pemeliharaan, dan kepuasan pengguna. Penilaian tidak cukup berdasarkan tampilan foto karena pengalaman penggunaan dapat berbeda dari kesan visual.
+
+Evaluasi pascahuni dilakukan setelah bangunan digunakan. Informasi dapat dikumpulkan melalui pengamatan, wawancara sukarela, survei yang menjaga privasi, catatan pemeliharaan, serta pengukuran lingkungan yang sesuai. Hasilnya dibandingkan dengan tujuan awal perancangan. Perbedaan antara rencana dan kenyataan menjadi dasar rekomendasi perbaikan.
+
+Biaya bangunan mencakup lebih dari biaya pembangunan awal. Biaya operasi, energi, air, pembersihan, perbaikan, penggantian komponen, dan akhir masa pakai juga perlu dipertimbangkan. Pendekatan siklus hidup membantu menghindari keputusan yang tampak murah pada awalnya tetapi mahal dalam jangka panjang.
+
+Keberlanjutan arsitektur bukan hanya menambahkan tanaman atau menggunakan istilah ramah lingkungan. Penilaian perlu melihat konsumsi sumber daya, ketahanan, dampak material, akses transportasi, hubungan dengan ekosistem, dan kemampuan bangunan beradaptasi. Klaim kinerja harus didukung data dan metode yang dijelaskan.
+
+LATIHAN
+1. Sebutkan indikator yang dapat digunakan untuk mengevaluasi kinerja bangunan.
+2. Apa tujuan evaluasi pascahuni?
+3. Mengapa biaya siklus hidup berbeda dari biaya pembangunan awal?
+4. Jelaskan mengapa klaim bangunan berkelanjutan perlu didukung data.
+5. Rancang survei singkat tentang kenyamanan ruang publik dengan pertanyaan yang tidak meminta data pribadi sensitif.
+
+PROYEK AKHIR: EVALUASI RUANG BELAJAR
+Pilih ruang belajar yang dapat diamati secara wajar. Catat fungsi, tata letak, sirkulasi, sumber cahaya, kondisi ventilasi yang terlihat, kebisingan, aksesibilitas, dan kemudahan menemukan fasilitas. Jangan melakukan pengukuran teknis berisiko atau memasuki area terbatas.
+
+Buat dua alternatif perbaikan konseptual. Untuk setiap alternatif, jelaskan manfaat, keterbatasan, kebutuhan pemeliharaan, dan pihak yang perlu dilibatkan. Gunakan gambar sederhana yang diberi keterangan. Nyatakan bahwa usulan merupakan konsep pembelajaran dan bukan dokumen konstruksi.
+
+EVALUASI AKHIR
+1. Jelaskan bagaimana analisis tapak memengaruhi posisi dan orientasi bangunan.
+2. Uraikan hubungan akustik, fungsi ruang, dan kenyamanan pengguna.
+3. Mengapa proses desain memerlukan alternatif dan umpan balik?
+4. Jelaskan tujuan evaluasi pascahuni dan berikan tiga indikator.
+5. Bandingkan biaya awal dengan biaya siklus hidup.
+6. Buat rekomendasi perbaikan ruang yang didukung hasil pengamatan dan nyatakan keterbatasannya.
+
+GLOSARIUM TAMBAHAN
+Tapak: Lahan dan kondisi lingkungan tempat bangunan direncanakan.
+Limpasan: Air yang mengalir di permukaan ketika tidak meresap ke tanah.
+Akustik: Kajian tentang perilaku bunyi dalam ruang.
+Absorpsi bunyi: Penyerapan sebagian energi bunyi oleh material atau permukaan.
+Evaluasi pascahuni: Penilaian bangunan setelah digunakan.
+Biaya siklus hidup: Biaya yang timbul sepanjang masa penggunaan suatu aset.
+Diagram hubungan ruang: Gambar yang menunjukkan kedekatan atau hubungan fungsi antarruang.

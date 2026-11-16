@@ -134,8 +134,6 @@ LATIHAN
 3. Apa fungsi enzim? Mempercepat reaksi dengan menurunkan energi aktivasi.
 4. Apa yang dimaksud evolusi? Perubahan sifat terwariskan dalam populasi antargenerasi.
 
-
-
 BAB LANJUTAN — PEMBELAHAN SEL DAN KESTABILAN GENETIK
 
 Sel membelah untuk pertumbuhan, perbaikan jaringan, dan reproduksi. Pada organisme eukariotik, mitosis menghasilkan dua sel anak dengan informasi genetik yang pada umumnya sama dengan sel induk, sedangkan meiosis menghasilkan sel kelamin dengan jumlah kromosom setengah dari sel asal. Kedua proses memiliki fungsi dan tahapan yang berbeda.

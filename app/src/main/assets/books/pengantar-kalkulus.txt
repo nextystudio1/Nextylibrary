@@ -16,7 +16,7 @@ PENDALAMAN
 Pada FUNGSI DAN PERUBAHAN, nyatakan informasi yang diketahui, hal yang dicari, dan syarat yang berlaku. Pilih definisi atau aturan yang tepat, tunjukkan langkah penyelesaian, lalu periksa hasil dengan cara lain serta jelaskan maknanya.
 
 CONTOH PENERAPAN
-Contoh kajian: pilih kasus sederhana yang berkaitan dengan FUNGSI DAN PERUBAHAN dalam bidang Pengantar Kalkulus. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
+Misalkan posisi benda pada garis lurus dinyatakan oleh s(t)=t²+2t meter untuk t dalam detik. Hitung perubahan posisi dari t=1 ke t=3, lalu tentukan laju rata-rata pada interval tersebut. Jelaskan secara konseptual bahwa turunan menyatakan laju perubahan sesaat dan berbeda dari laju rata-rata.
 
 LATIHAN
 1. Apa konsep utama dalam FUNGSI DAN PERUBAHAN?

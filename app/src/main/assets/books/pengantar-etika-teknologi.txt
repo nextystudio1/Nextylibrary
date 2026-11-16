@@ -149,3 +149,29 @@ BAB LANJUTAN: LINGKUNGAN DAN TANGGUNG JAWAB INOVASI
 Teknologi membutuhkan energi, bahan, pusat data, perangkat, dan rantai pasok. Dampak lingkungan mencakup ekstraksi bahan, manufaktur, penggunaan, serta limbah elektronik. Klaim keberlanjutan perlu menyebut batas analisis dan bukti, bukan hanya label pemasaran.
 
 Tanggung jawab inovasi menggabungkan antisipasi dampak, refleksi nilai, pelibatan pihak terdampak, dan kemampuan mengubah arah ketika ditemukan risiko. Evaluasi etis dilakukan sepanjang siklus hidup, bukan hanya pada saat produk diluncurkan.
+BAB 12. METODE ANALISIS KASUS ETIKA TEKNOLOGI
+
+Analisis etika yang kuat dimulai dari deskripsi kasus yang netral. Catat teknologi yang digunakan, tujuan organisasi, konteks penerapan, keputusan yang dipengaruhi, serta pihak yang terkena dampak. Hindari langsung menyebut sistem “baik” atau “buruk” sebelum memahami proses dan bukti. Pisahkan fakta yang telah diverifikasi, asumsi, dan pertanyaan yang belum terjawab.
+
+Langkah berikutnya adalah memetakan pemangku kepentingan. Kelompok yang terlihat, seperti pengguna langsung dan pengelola, bukan satu-satunya pihak relevan. Pihak yang tidak menggunakan produk pun dapat terdampak oleh keputusan otomatis, pengumpulan data, perubahan lingkungan, atau pergeseran pekerjaan. Perhatikan perbedaan kekuasaan: siapa yang menentukan aturan, siapa yang dapat menolak, dan siapa yang menanggung akibat ketika terjadi kegagalan.
+
+Setelah itu, rumuskan nilai yang mungkin bertentangan. Personalisasi dapat meningkatkan kenyamanan tetapi membutuhkan data tambahan. Otomatisasi dapat mempercepat layanan tetapi mengurangi kesempatan untuk menjelaskan keadaan khusus. Pengawasan dapat membantu keamanan tetapi mengurangi privasi. Konflik tidak selalu memiliki jawaban tunggal; tugas analisis adalah menjelaskan pilihan, konsekuensi, dan alasan mengapa satu pilihan lebih dapat dipertanggungjawabkan.
+
+Gunakan matriks sederhana dengan kolom: pihak terdampak, manfaat, potensi kerugian, kemungkinan, tingkat dampak, bukti, dan tindakan pengurangan risiko. Nilai risiko secara kualitatif jika data angka tidak tersedia. Jangan menciptakan angka probabilitas agar tabel terlihat ilmiah. Nyatakan ketidakpastian dan data yang perlu dikumpulkan.
+
+CONTOH KERJA: SISTEM ABSENSI BIOMETRIK
+
+Sebuah lembaga mempertimbangkan absensi biometrik. Manfaat yang diklaim adalah pencatatan kehadiran lebih cepat dan mengurangi pemalsuan. Analisis perlu menanyakan apakah tujuan tersebut dapat dicapai dengan metode yang lebih sedikit mengumpulkan data sensitif. Periksa siapa yang menyimpan data, apakah templat biometrik dapat dipulihkan jika bocor, berapa lama data disimpan, bagaimana menangani kegagalan pembacaan, dan apakah tersedia prosedur alternatif yang tidak merugikan pengguna.
+
+Rekomendasi yang bertanggung jawab tidak cukup menyatakan “gunakan enkripsi”. Lembaga perlu membuktikan kebutuhan, membatasi tujuan, melakukan penilaian dampak, menyediakan alternatif yang setara, membatasi akses, menguji keamanan, serta menetapkan jadwal penghapusan. Jika manfaat tidak sebanding dengan risiko atau tersedia pilihan yang lebih aman, keputusan untuk tidak menerapkan teknologi juga merupakan hasil analisis yang sah.
+
+BAB 13. TATA KELOLA DAN SIKLUS HIDUP PRODUK
+
+Tata kelola etis mengubah prinsip menjadi pembagian tugas dan prosedur. Pada tahap perencanaan, tim menetapkan tujuan, pengguna, risiko, dan kriteria keberhasilan. Pada tahap desain, tim menguji kebutuhan aksesibilitas, privasi, dan potensi penyalahgunaan. Pada tahap pengembangan, keputusan teknis dan perubahan dicatat. Sebelum peluncuran, pengujian mencakup fungsi, keamanan, kegunaan, dan dampak pada kelompok relevan.
+
+Setelah peluncuran, tanggung jawab tidak berakhir. Organisasi perlu memantau keluhan, perubahan pola penggunaan, insiden, dan dampak yang tidak diperkirakan. Sistem yang awalnya layak dapat menjadi tidak sesuai ketika data, pengguna, aturan, atau lingkungan berubah. Karena itu, harus ada pemilik risiko yang berwenang menghentikan fitur, memperbaiki sistem, atau menarik produk.
+
+Dokumentasi yang berguna mencakup tujuan sistem, data yang dipakai, asumsi, batas kemampuan, hasil pengujian, keputusan penting, pihak penanggung jawab, serta prosedur pengaduan. Dokumentasi bukan sekadar arsip administratif; ia memungkinkan audit, pembelajaran, dan penjelasan kepada pihak terdampak.
+
+LATIHAN ANALISIS
+Pilih satu layanan digital yang dikenal. Buat diagram siklus hidupnya dari perencanaan sampai penghentian. Pada setiap tahap, tulis dua keputusan etis, pihak yang bertanggung jawab, bukti yang diperlukan, dan satu mekanisme koreksi. Akhiri dengan rekomendasi yang menyebut manfaat, risiko tersisa, dan alasan keputusan.

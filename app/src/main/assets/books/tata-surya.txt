@@ -229,8 +229,6 @@ LATIHAN
 2. Apa perbedaan planet dan planet katai? Jawaban: planet telah membersihkan lingkungan orbitnya, sedangkan planet katai belum.
 3. Mengapa pengamatan Matahari memerlukan perlindungan khusus? Jawaban: cahaya Matahari dapat merusak penglihatan dan sensor optik secara permanen.
 
-
-
 BAB LANJUTAN — ORBIT DAN DINAMIKA TATA SURYA
 
 Orbit merupakan lintasan benda yang dipengaruhi gravitasi. Bentuk orbit planet umumnya elips dengan Matahari berada di salah satu fokus. Kecepatan planet berubah sepanjang orbit: lebih cepat ketika lebih dekat ke Matahari dan lebih lambat ketika lebih jauh. Hukum Kepler merangkum pola gerak ini dan menjadi dasar penting mekanika orbit.

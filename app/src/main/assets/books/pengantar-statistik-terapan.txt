@@ -187,3 +187,34 @@ Prediksi di luar rentang data disebut ekstrapolasi dan sering lebih tidak pasti.
 
 LATIHAN ANALISIS
 Gunakan dataset sederhana yang memiliki satu variabel respons dan dua prediktor. Buat ringkasan deskriptif, visualisasi, model regresi, dan pemeriksaan residu. Laporkan koefisien, ukuran efek, ketidakpastian, serta alasan mengapa hasil tidak boleh langsung dianggap sebagai hubungan sebab-akibat.
+
+BAB LANJUTAN: RANCANGAN SAMPEL DAN KUALITAS PENGUKURAN
+
+Rancangan sampel menentukan siapa atau apa yang masuk ke dalam pengamatan. Populasi sasaran harus didefinisikan sebelum memilih sampel. Kerangka sampel yang tidak mencakup sebagian kelompok dapat menghasilkan bias cakupan. Sampel besar tidak otomatis mewakili populasi jika cara pemilihannya sistematis mengecualikan kelompok tertentu.
+
+Sampel acak sederhana memberi peluang pemilihan yang sama pada setiap unit dalam kerangka. Sampel berstrata membagi populasi menjadi kelompok yang relevan sebelum pemilihan, sedangkan sampel klaster memilih kelompok atau lokasi terlebih dahulu. Setiap desain memiliki konsekuensi pada biaya, presisi, dan analisis. Bobot sampel mungkin diperlukan ketika peluang pemilihan berbeda.
+
+Kesalahan sampling muncul karena hanya sebagian populasi diamati. Kesalahan nonsampling dapat muncul dari pertanyaan yang ambigu, nonrespons, pencatatan salah, atau perubahan prosedur. Menambah jumlah responden tidak otomatis memperbaiki kesalahan nonsampling. Pengendalian mutu perlu mencakup uji coba instrumen, pelatihan petugas, pemeriksaan data, dan dokumentasi.
+
+BAB LANJUTAN: DATA HILANG DAN IMPUTASI
+
+Data hilang dapat terjadi karena responden tidak menjawab, alat gagal, atau data tidak tercatat. Pola kehilangan perlu diperiksa sebelum analisis. Kehilangan yang berkaitan dengan nilai variabel itu sendiri dapat menimbulkan bias yang berbeda dari kehilangan yang sepenuhnya acak.
+
+Menghapus semua baris yang memiliki data hilang dapat mengurangi ukuran sampel dan mengubah komposisi data. Imputasi mengganti nilai yang hilang dengan perkiraan berdasarkan informasi yang tersedia, tetapi hasilnya bergantung pada asumsi model. Nilai imputasi bukan pengamatan asli dan perlu ditandai dalam dokumentasi.
+
+Laporkan jumlah dan pola data hilang untuk setiap variabel penting. Jelaskan metode penanganan, asumsi, dan analisis sensitivitas. Jika hasil berubah besar ketika asumsi diubah, ketidakpastian tersebut merupakan bagian penting dari kesimpulan.
+
+BAB LANJUTAN: VALIDASI MODEL DAN REPRODUKSIBILITAS
+
+Validasi menilai apakah model bekerja pada data yang tidak digunakan untuk membangun model. Pemisahan data pelatihan dan pengujian perlu dilakukan dengan mempertimbangkan struktur data. Untuk data berurutan waktu, pemisahan acak dapat membocorkan informasi masa depan ke masa lalu. Untuk data berkelompok, anggota kelompok yang sama sebaiknya tidak tersebar secara sembarangan antara pelatihan dan pengujian jika hal itu membuat evaluasi terlalu optimistis.
+
+Pemilihan metrik bergantung pada tujuan. Akurasi keseluruhan dapat menyesatkan pada kelas yang sangat tidak seimbang. Sensitivitas, spesifisitas, presisi, kurva kalibrasi, dan biaya kesalahan dapat lebih relevan. Model harus dibandingkan dengan pendekatan dasar yang sederhana, bukan hanya dengan model lain yang kompleks.
+
+Reproduksibilitas memerlukan catatan sumber data, definisi variabel, aturan pembersihan, versi perangkat lunak, parameter, dan langkah analisis. Data pribadi harus dilindungi dan tidak dibagikan tanpa dasar yang sah. Simpan kode dan dokumentasi secara teratur sehingga orang lain dapat memahami proses tanpa mengorbankan privasi.
+
+LATIHAN PENDALAMAN
+1. Mengapa sampel besar masih dapat bias?
+2. Apa perbedaan kesalahan sampling dan nonsampling?
+3. Mengapa penghapusan semua data hilang dapat mengubah hasil?
+4. Kapan pemisahan data secara acak dapat menimbulkan kebocoran?
+5. Mengapa model perlu dibandingkan dengan pendekatan dasar?

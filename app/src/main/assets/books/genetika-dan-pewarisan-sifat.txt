@@ -13,7 +13,7 @@ BAB 1. INFORMASI GENETIK
 Makhluk hidup menyimpan informasi biologis dalam materi genetik. Pada banyak organisme, DNA membawa instruksi yang digunakan sel untuk membentuk RNA dan protein. Gen merupakan bagian DNA yang berperan dalam fungsi tertentu. Tidak semua sifat ditentukan oleh satu gen; banyak sifat dipengaruhi banyak gen dan lingkungan.
 
 CONTOH PENERAPAN
-Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
+Contoh kajian: pilih kasus sederhana yang berkaitan dengan INFORMASI GENETIK dalam bidang Genetika dan Pewarisan Sifat. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
 
 RANGKUMAN
 - Kenali definisi dan batas penggunaan konsep.
@@ -47,11 +47,11 @@ BAB 6. ETIKA DAN MASA DEPAN GENETIKA
 Teknologi genetika dapat membantu penelitian dan bidang kesehatan, tetapi menimbulkan pertanyaan tentang privasi, persetujuan, keadilan, dan potensi diskriminasi. Informasi genetik bersifat pribadi dan dapat berkaitan dengan anggota keluarga. Penggunaan data harus transparan, aman, dan sesuai aturan.
 
 EVALUASI AKHIR
-1. Ringkas gagasan utama setiap bab.
-2. Buat peta konsep yang menghubungkan sedikitnya lima istilah.
-3. Susun studi kasus yang relevan, identifikasi fakta dan asumsi, lalu jelaskan solusi yang paling masuk akal.
-4. Jelaskan keterbatasan dari solusi yang kamu pilih.
-5. Buat rencana belajar lanjutan berdasarkan bagian yang belum dikuasai.
+1. Terangkan konsep inti dari ETIKA DAN MASA DEPAN GENETIKA dan perannya dalam bidang ini.
+2. Hubungkan tiga gagasan dari bab yang berbeda.
+3. Analisis sebuah kasus menggunakan konsep buku Genetika dan Pewarisan Sifat.
+4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
+5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 PEDOMAN JAWABAN
 Jawaban dinilai dari ketepatan konsep, kejelasan alasan, relevansi contoh, dan kemampuan menyatakan batas pengetahuan. Jawaban berbeda dapat diterima apabila didukung penalaran dan bukti yang sesuai.

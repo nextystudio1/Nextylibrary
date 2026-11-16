@@ -187,3 +187,50 @@ LATIHAN PENDALAMAN
 3. Mengapa tujuan dan kendala perlu ditulis sebelum optimasi?
 4. Buat matriks sederhana untuk membandingkan tiga alternatif solusi.
 5. Tuliskan bagaimana kelompok dapat menguji keputusan tanpa mengabaikan pendapat minoritas.
+BAB 14. BERPIKIR SISTEM DAN HUBUNGAN SEBAB-AKIBAT
+
+Masalah kompleks jarang memiliki satu penyebab. Berpikir sistem memandang unsur, hubungan, batas, dan perubahan dari waktu ke waktu. Contohnya kemacetan dipengaruhi tata guna lahan, pilihan moda, kapasitas jalan, jadwal kerja, harga transportasi, dan kebijakan parkir. Menambah kapasitas satu ruas dapat memindahkan antrean ke lokasi lain atau mendorong perjalanan tambahan.
+
+Diagram sebab-akibat membantu membedakan hubungan langsung dan hubungan tidak langsung. Panah harus diberi arti yang jelas: apakah perubahan satu variabel cenderung meningkatkan atau menurunkan variabel lain, dengan asumsi apa, dan dalam rentang waktu berapa lama. Diagram bukan bukti kausalitas; ia merupakan model awal yang perlu diuji.
+
+Umpan balik penguat memperbesar perubahan, sedangkan umpan balik penyeimbang cenderung menahan perubahan. Contoh sederhana: semakin banyak pengguna suatu layanan, semakin besar potensi rekomendasi dari mulut ke mulut, sehingga jumlah pengguna bertambah. Sebaliknya, ketika kapasitas layanan penuh, waktu tunggu meningkat dan kepuasan dapat turun. Dalam sistem nyata, beberapa lingkar umpan balik dapat bekerja bersamaan.
+
+BAB 15. KEPUTUSAN DALAM KONDISI KETIDAKPASTIAN
+
+Keputusan sering dibuat ketika informasi belum lengkap. Bedakan risiko yang memiliki perkiraan probabilitas dari ketidakpastian yang probabilitasnya tidak diketahui dengan baik. Gunakan rentang nilai, skenario, dan analisis sensitivitas daripada berpura-pura bahwa satu angka adalah kepastian.
+
+Pohon keputusan dapat menggambarkan pilihan, kemungkinan hasil, dan konsekuensi. Probabilitas harus memiliki dasar dan tidak boleh dibuat hanya agar perhitungan terlihat rapi. Jika data terbatas, nyatakan sumber penilaian ahli atau asumsi. Keputusan yang dapat dibatalkan dan diperbarui mungkin lebih baik ketika informasi baru diperkirakan akan datang.
+
+Nilai informasi menjelaskan apakah pengumpulan data tambahan berpotensi memperbaiki keputusan lebih besar daripada biaya dan waktu yang dibutuhkan. Tidak semua ketidakpastian harus dihilangkan. Fokuskan pengumpulan data pada hal yang dapat mengubah pilihan, keselamatan, atau dampak secara berarti.
+
+BAB 16. BIAS KOGNITIF DAN KUALITAS ARGUMEN
+
+Manusia menggunakan jalan pintas mental untuk membuat keputusan cepat. Jalan pintas dapat berguna, tetapi juga menimbulkan bias. Bias konfirmasi membuat seseorang lebih memperhatikan bukti yang mendukung keyakinannya. Efek jangkar membuat angka awal memengaruhi perkiraan berikutnya. Ketersediaan membuat kejadian yang mudah diingat tampak lebih umum daripada kenyataannya.
+
+Cara mengurangi bias bukan dengan menganggap diri bebas bias. Tuliskan prediksi sebelum melihat hasil, cari bukti yang dapat membantah hipotesis, gunakan kriteria evaluasi yang sama untuk semua alternatif, dan minta peninjauan dari orang yang memiliki sudut pandang berbeda. Catat alasan perubahan pendapat sebagai bagian dari pembelajaran.
+
+Argumen yang baik memiliki klaim, alasan, dan bukti yang relevan. Periksa apakah kesimpulan benar-benar mengikuti premis. Waspadai generalisasi dari satu contoh, serangan terhadap pribadi, pilihan palsu antara dua alternatif, dan penggunaan istilah yang berubah makna di tengah argumen. Kritik terhadap argumen sebaiknya menilai struktur dan bukti, bukan merendahkan pembicaranya.
+
+BAB 17. DESAIN EKSPERIMEN DAN PENGUJIAN SOLUSI
+
+Pengujian solusi perlu menetapkan tujuan, variabel, ukuran keberhasilan, dan kondisi pembanding. Jika beberapa faktor diubah sekaligus, sulit mengetahui faktor mana yang menyebabkan perubahan. Dalam situasi yang memungkinkan, ubah satu faktor utama sambil menjaga faktor lain tetap konsisten. Namun eksperimen lapangan sering memiliki keterbatasan sehingga metode dan asumsi harus dijelaskan.
+
+Kelompok pembanding membantu menilai apakah perubahan terjadi karena intervensi atau faktor lain. Pemilihan kelompok tidak boleh mengabaikan etika, persetujuan, atau akses yang adil. Pada kegiatan pendidikan atau layanan publik, jangan menahan bantuan penting hanya demi membuat eksperimen lebih sederhana.
+
+Uji coba kecil dapat mengungkap masalah kegunaan, biaya, waktu, dan penerimaan. Tetapkan kriteria berhenti jika muncul risiko keselamatan atau dampak yang tidak dapat diterima. Hasil negatif tetap perlu dicatat agar tim tidak mengulangi kesalahan yang sama.
+
+BAB 18. KOLABORASI DAN PENGAMBILAN KEPUTUSAN KELOMPOK
+
+Kelompok memerlukan tujuan bersama, pembagian peran, aturan komunikasi, dan cara menangani perbedaan pendapat. Peran fasilitator bukan memaksakan jawaban, melainkan memastikan informasi penting terdengar dan proses berjalan. Catat siapa yang bertanggung jawab, kapan keputusan ditinjau, dan bagaimana keberatan dapat disampaikan.
+
+Teknik seperti curah gagasan, penilaian anonim, matriks keputusan, dan diskusi terstruktur dapat mengurangi dominasi satu orang. Namun setiap teknik memiliki batas. Penilaian anonim dapat mengurangi tekanan sosial tetapi tidak menjamin kualitas argumen. Konsensus dapat membantu komitmen, tetapi jangan menyamakan diam dengan persetujuan.
+
+Setelah keputusan diterapkan, lakukan tinjauan tanpa menyalahkan secara otomatis. Bedakan kesalahan yang muncul dari informasi terbatas, desain proses yang buruk, dan pelanggaran yang disengaja. Tujuan evaluasi adalah memperbaiki sistem dan tanggung jawab secara proporsional.
+
+LATIHAN PENDALAMAN
+
+1. Buat contoh lingkar umpan balik penguat dan penyeimbang.
+2. Bedakan risiko dan ketidakpastian.
+3. Berikan dua cara mengurangi bias konfirmasi.
+4. Mengapa kelompok pembanding dapat membantu menguji solusi?
+5. Bagaimana kelompok dapat memastikan perbedaan pendapat tetap terdengar?

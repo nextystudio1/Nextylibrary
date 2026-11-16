@@ -174,3 +174,29 @@ Ekosistem pesisir: Komunitas dan lingkungan di wilayah peralihan darat-laut.
 
 CATATAN BELAJAR DAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar dan publikasi lembaga kompeten. Catat penulis atau lembaga, judul, tahun, dan bagian sumber. Periksa tanggal pembaruan terutama untuk pengetahuan yang berkembang, peraturan, teknologi, dan data statistik.
+
+BAB LANJUTAN: LAUT, IKLIM, DAN PENGELOLAAN PESISIR
+
+1. Laut sebagai sistem yang saling terhubung
+Laut menyimpan panas, memindahkan energi dan materi, serta menjadi habitat beragam organisme. Arus, gelombang, pasang surut, angin, dan bentuk dasar laut memengaruhi kondisi perairan. Perubahan di satu wilayah dapat berdampak pada wilayah lain melalui aliran air, organisme, dan aktivitas manusia.
+
+2. Sifat fisik dan kimia air laut
+Suhu, salinitas, tekanan, oksigen terlarut, dan tingkat keasaman memengaruhi kehidupan laut. Nilainya berbeda menurut kedalaman, musim, lokasi, dan proses pencampuran. Pengukuran harus menyertakan lokasi, waktu, kedalaman, alat, dan metode agar dapat dibandingkan.
+
+3. Produktivitas dan rantai makanan
+Fitoplankton memanfaatkan cahaya dan zat hara untuk fotosintesis. Organisme ini menjadi dasar banyak jaring makanan laut. Ketersediaan zat hara dan cahaya memengaruhi produktivitas, tetapi peningkatan nutrien berlebihan dari daratan dapat memicu ledakan alga dan penurunan oksigen pada kondisi tertentu.
+
+4. Pesisir dan ekosistem penting
+Mangrove, padang lamun, terumbu karang, pantai berlumpur, dan estuari memiliki fungsi ekologis serta mendukung kehidupan masyarakat. Setiap ekosistem mempunyai kebutuhan habitat yang berbeda. Perlindungan pesisir perlu mempertimbangkan keterhubungan ekosistem, aliran sedimen, kualitas air, dan pemanfaatan ruang.
+
+5. Pengamatan dan pengambilan sampel
+Data oseanografi dapat diperoleh melalui pengamatan lapangan, sensor, citra satelit, dan catatan jangka panjang. Setiap metode memiliki keterbatasan. Citra satelit memberi cakupan luas tetapi tidak selalu menggambarkan kondisi bawah permukaan. Sampel lapangan lebih rinci namun terbatas lokasi dan waktu.
+
+6. Tekanan manusia dan perubahan iklim
+Pencemaran, penangkapan berlebih, kerusakan habitat, pembangunan pesisir, dan perubahan iklim dapat berinteraksi. Dampaknya tidak selalu berdiri sendiri. Pengelolaan perlu menggabungkan ilmu alam, ekonomi, kebijakan, dan pengetahuan masyarakat setempat.
+
+7. Pengelolaan berbasis ekosistem
+Rencana pengelolaan perlu menetapkan tujuan, indikator, wilayah, pihak yang terlibat, dan mekanisme evaluasi. Keberhasilan tidak cukup diukur dari jumlah kegiatan; perlu dilihat perubahan kondisi habitat, kualitas air, kesejahteraan masyarakat, dan kepatuhan terhadap aturan.
+
+LATIHAN
+Buat profil satu kawasan pesisir berdasarkan peta dan sumber terbuka. Identifikasi ekosistem, kegiatan ekonomi, tekanan lingkungan, kelompok yang berkepentingan, serta data tambahan yang masih diperlukan. Bedakan pengamatan langsung dari dugaan.

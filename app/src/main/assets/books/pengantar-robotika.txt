@@ -210,3 +210,29 @@ Prototipe: Model awal untuk menguji rancangan.
 
 CATATAN SUMBER DAN PENGEMBANGAN
 Buku ini merupakan materi pengantar orisinal. Untuk tugas akademik atau keputusan praktis, bandingkan penjelasan dengan buku ajar, standar, peraturan, dan publikasi lembaga yang kompeten. Catat judul sumber, penulis atau lembaga, tahun terbit, dan bagian yang digunakan. Periksa tanggal sumber pada topik yang dapat berubah.
+
+BAB LANJUTAN: INTEGRASI SENSOR DAN EVALUASI ROBOT
+
+1. Arsitektur kendali
+Sistem robot dapat menggunakan kendali terbuka atau tertutup. Kendali terbuka memberi perintah tanpa mengukur hasil secara berulang, sedangkan kendali tertutup menggunakan umpan balik untuk membandingkan kondisi aktual dengan sasaran. Pilihan bergantung pada tugas, biaya, ketelitian, dan lingkungan.
+
+2. Kalibrasi dan kualitas sensor
+Kalibrasi menghubungkan keluaran alat dengan nilai acuan. Catat prosedur, kondisi, rentang pengukuran, dan tanggal pemeriksaan. Sensor yang tidak dikalibrasi dapat menghasilkan data yang tampak stabil tetapi menyimpang. Pemeriksaan silang dengan alat atau metode lain dapat membantu menemukan masalah.
+
+3. Penggabungan informasi
+Beberapa sensor dapat memberi informasi yang saling melengkapi. Namun data harus diselaraskan dari sisi waktu, koordinat, satuan, dan ketidakpastian. Jika sensor saling bertentangan, sistem perlu mengenali konflik dan beralih ke keadaan yang aman, bukan memilih nilai secara sembarangan.
+
+4. Perangkat lunak yang dapat diuji
+Pisahkan fungsi pembacaan sensor, pengambilan keputusan, dan pengendalian aktuator agar mudah diperiksa. Gunakan simulasi dan data uji yang dapat diulang. Catat kondisi batas, masukan tidak valid, keterlambatan, dan kegagalan komunikasi.
+
+5. Interaksi manusia dan robot
+Pengguna perlu memahami status, batas kemampuan, dan cara menghentikan sistem. Indikator harus jelas dan tidak menimbulkan tafsir ganda. Robot yang bekerja di sekitar manusia harus dirancang dengan penilaian risiko dan pengawasan yang sesuai.
+
+6. Keandalan dan pemeliharaan
+Keandalan dinilai dari kemampuan sistem menjalankan fungsi dalam kondisi yang ditentukan. Catat waktu operasi, kegagalan, penyebab, dan waktu perbaikan. Perawatan pencegahan harus mengikuti rekomendasi komponen dan hasil inspeksi, bukan jadwal yang dibuat tanpa dasar.
+
+7. Evaluasi proyek
+Bandingkan hasil dengan kebutuhan awal: akurasi, waktu penyelesaian, konsumsi energi, keselamatan, kemudahan penggunaan, dan biaya. Hasil uji yang gagal tetap berguna jika dicatat dan dianalisis dengan jujur.
+
+LATIHAN
+Rancang skenario pengujian robot pengantar barang pada area simulasi yang aman. Tentukan tujuan, kondisi awal, sensor yang dipantau, kriteria keberhasilan, dan langkah evaluasi setelah terjadi kegagalan.

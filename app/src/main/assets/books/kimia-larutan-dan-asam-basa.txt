@@ -68,7 +68,7 @@ Netralisasi: Reaksi antara asam dan basa.
 SARAN BELAJAR
 Saat memperdalam Kimia Larutan dan Asam Basa, bandingkan penjelasan buku ini dengan buku ajar dan publikasi lembaga yang relevan. Buat daftar istilah baru, cari contoh yang dapat diperiksa, dan catat perbedaan definisi atau metode. Utamakan sumber yang menjelaskan penulis, tanggal, dan dasar informasinya.
 
-BAB 6. SATUAN KONSENTRASI DAN PENGENCERAN
+PENDALAMAN — SATUAN KONSENTRASI DAN PENGENCERAN
 Konsentrasi dapat dinyatakan dengan beberapa cara. Persen massa membandingkan massa zat terlarut dengan massa larutan, sedangkan molaritas menyatakan jumlah mol zat terlarut per liter larutan. Pemilihan satuan bergantung pada kebutuhan perhitungan. Dalam pengenceran, jumlah mol zat terlarut tetap jika tidak terjadi reaksi atau kehilangan zat. Hubungan yang sering digunakan adalah M1V1 = M2V2, dengan volume dinyatakan dalam satuan yang konsisten. Misalnya, larutan 2 molar sebanyak 100 mililiter diencerkan hingga 400 mililiter. Konsentrasi akhirnya menjadi 0,5 molar karena volume menjadi empat kali dan jumlah zat terlarut tetap. Persamaan ini tidak boleh digunakan sembarangan jika terjadi reaksi, penguapan zat terlarut, atau perubahan jumlah mol. Dalam praktik laboratorium, perhitungan harus disertai pencatatan satuan dan prosedur keselamatan.
 
 BAB 7. ELEKTROLIT DAN DAYA HANTAR

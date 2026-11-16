@@ -558,3 +558,24 @@ Variabel bebas: faktor yang sengaja diubah.
 Variabel terikat: hasil yang diukur.
 Variabel kontrol: faktor yang dijaga tetap atau setara.
 Reprodusibilitas: kemampuan memperoleh hasil sebanding melalui prosedur yang dijelaskan.
+
+BAB MERANCANG PENGAMATAN ILMIAH
+Pengamatan ilmiah dimulai dari pertanyaan yang dapat dijawab melalui bukti. Pertanyaan yang baik cukup spesifik, dapat diukur, dan sesuai sumber daya. Catatan pengamatan harus memuat waktu, kondisi, alat, dan satuan agar hasil dapat dibandingkan.
+
+PENGUKURAN DAN KETIDAKPASTIAN
+Setiap pengukuran memiliki keterbatasan akibat alat, metode, lingkungan, dan pengamat. Resolusi alat berbeda dari akurasi. Pengulangan dapat membantu melihat variasi acak, tetapi tidak otomatis menghilangkan kesalahan sistematis. Hasil sebaiknya dilaporkan dengan ketelitian yang sesuai alat.
+
+MEMBUAT TABEL DAN GRAFIK
+Tabel menyusun data secara teratur, sedangkan grafik membantu melihat pola. Sumbu harus diberi label dan satuan. Pilih grafik sesuai jenis data: diagram batang untuk membandingkan kategori, grafik garis untuk perubahan berurutan, dan diagram pencar untuk hubungan dua variabel numerik. Jangan memotong sumbu tanpa keterangan yang jelas.
+
+MENAFSIRKAN HASIL
+Hasil pengamatan perlu dibandingkan dengan pertanyaan awal dan pengetahuan yang ada. Perbedaan dari dugaan awal bukan kegagalan; bisa menunjukkan asumsi yang salah atau faktor yang belum diperhatikan. Pisahkan hasil pengamatan dari penjelasan yang diajukan.
+
+KOMUNIKASI ILMIAH
+Laporan yang baik menyebut tujuan, metode, hasil, pembahasan, keterbatasan, dan sumber. Gambar harus memiliki keterangan. Data tidak boleh diubah untuk membuat hasil tampak lebih rapi. Ketidakpastian dan kegagalan prosedur yang relevan perlu disampaikan.
+
+LATIHAN
+Lakukan pengamatan sederhana yang aman, misalnya perubahan panjang bayangan benda sepanjang hari dengan pengawasan guru. Catat waktu, lokasi umum, dan ukuran. Buat grafik serta jelaskan keterbatasan pengukuran.
+
+RANGKUMAN
+Pengamatan ilmiah memerlukan pertanyaan jelas, pengukuran teliti, pencatatan jujur, dan interpretasi yang berhati-hati. Komunikasi membuat hasil dapat diperiksa orang lain.

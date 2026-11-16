@@ -447,3 +447,21 @@ Gunakan simulasi populasi serangga dengan dua variasi warna pada latar berbeda. 
 
 RANGKUMAN
 Evolusi menjelaskan perubahan populasi melalui variasi, pewarisan, seleksi, dan proses lain. Bukti lintas bidang mendukung pemahaman tentang keanekaragaman kehidupan.
+
+BAB FOTOSINTESIS DAN RESPIRASI SEL
+Fotosintesis mengubah energi cahaya menjadi energi kimia yang tersimpan dalam molekul organik. Pada tumbuhan, proses utama berlangsung di kloroplas. Reaksi bergantung cahaya menghasilkan pembawa energi dan oksigen, sedangkan siklus Calvin menggunakan karbon dioksida untuk membentuk senyawa organik dengan bantuan energi kimia.
+
+FAKTOR YANG MEMENGARUHI FOTOSINTESIS
+Laju fotosintesis dipengaruhi intensitas dan kualitas cahaya, ketersediaan karbon dioksida, suhu, air, serta kondisi daun. Peningkatan satu faktor tidak selalu meningkatkan laju tanpa batas karena faktor lain dapat menjadi pembatas. Konsep faktor pembatas membantu menjelaskan mengapa tanaman tidak selalu tumbuh lebih cepat ketika hanya satu kondisi diubah.
+
+RESPIRASI SEL
+Respirasi sel melepaskan energi dari molekul organik untuk menghasilkan ATP yang digunakan dalam proses kehidupan. Pada respirasi aerob, oksigen berperan sebagai penerima elektron terakhir. Tahapan utama melibatkan glikolisis, siklus asam sitrat, dan rantai transpor elektron. Fermentasi memungkinkan pembentukan ATP ketika oksigen tidak tersedia dalam kondisi tertentu, tetapi hasil energinya lebih sedikit.
+
+HUBUNGAN ANTARA KEDUANYA
+Fotosintesis menyimpan energi dan membentuk bahan organik, sedangkan respirasi menggunakan bahan organik untuk memperoleh energi yang dapat dipakai sel. Keduanya terhubung dalam siklus materi dan aliran energi ekosistem. Tumbuhan juga melakukan respirasi, bukan hanya fotosintesis.
+
+LATIHAN
+Buat diagram aliran materi dan energi antara fotosintesis dan respirasi. Tandai karbon dioksida, air, oksigen, glukosa, dan ATP. Jelaskan mengapa materi bersiklus sedangkan energi mengalir melalui sistem.
+
+RANGKUMAN
+Fotosintesis dan respirasi menghubungkan energi Matahari dengan aktivitas kehidupan. Keduanya berlangsung melalui rangkaian reaksi yang dikendalikan enzim.

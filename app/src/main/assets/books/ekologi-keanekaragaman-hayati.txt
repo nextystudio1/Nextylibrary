@@ -347,3 +347,24 @@ Rancang program restorasi hipotetis untuk lahan sekolah yang mengalami erosi. Te
 
 RANGKUMAN
 Restorasi membutuhkan diagnosis penyebab, tujuan ekologis, pemilihan spesies tepat, dan pemantauan jangka panjang. Keberhasilan bukan sekadar jumlah bibit yang ditanam.
+
+BAB JARING-JARING MAKANAN DAN ALIRAN ENERGI
+Rantai makanan menunjukkan urutan perpindahan energi melalui hubungan makan-dimakan, sedangkan jaring-jaring makanan menggambarkan banyak hubungan yang saling terhubung. Produsen mengubah energi cahaya atau kimia menjadi bahan organik. Konsumen memperoleh energi dengan memakan organisme lain, sementara pengurai mengembalikan unsur ke lingkungan.
+
+TINGKAT TROFIK DAN EFISIENSI
+Energi yang tersedia umumnya berkurang pada setiap perpindahan tingkat trofik karena organisme menggunakan energi untuk metabolisme dan kehilangan sebagian sebagai panas. Karena itu, biomassa pada tingkat trofik tinggi sering lebih kecil. Aturan persentase sederhana hanyalah pendekatan, bukan hukum tetap untuk semua ekosistem.
+
+PIRAMIDA EKOLOGI
+Piramida energi menggambarkan aliran energi per satuan luas dan waktu, sedangkan piramida biomassa menggambarkan massa organisme pada suatu waktu. Piramida jumlah menghitung individu. Bentuk piramida dapat berbeda, terutama pada ekosistem perairan, sehingga jenis piramida dan satuannya harus dinyatakan.
+
+SPESIES KUNCI DAN KESEIMBANGAN
+Beberapa spesies memiliki pengaruh besar terhadap struktur komunitas meskipun jumlahnya tidak dominan. Hilangnya spesies dapat mengubah hubungan makan-dimakan, habitat, dan proses ekosistem. Namun, respons ekosistem bergantung jaringan interaksi dan kondisi setempat.
+
+GANGGUAN DAN PEMULIHAN
+Kebakaran, pencemaran, perubahan lahan, spesies invasif, dan perubahan iklim dapat mengubah struktur ekosistem. Pemulihan membutuhkan waktu dan tidak selalu mengembalikan keadaan persis seperti sebelumnya. Restorasi perlu menetapkan tujuan, memantau indikator, dan melibatkan masyarakat sekitar.
+
+LATIHAN
+Buat jaring-jaring makanan dari ekosistem mangrove atau sawah menggunakan sumber pendidikan. Tandai produsen, konsumen, dan pengurai. Jelaskan kemungkinan perubahan jika salah satu organisme berkurang.
+
+RANGKUMAN
+Ekosistem tersusun dari hubungan energi dan materi. Jaring-jaring makanan membantu memahami dampak perubahan pada satu bagian terhadap keseluruhan sistem.

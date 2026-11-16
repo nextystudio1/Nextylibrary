@@ -468,3 +468,24 @@ Gunakan simulasi gelombang untuk mengubah frekuensi dan panjang gelombang. Catat
 
 RANGKUMAN
 Gelombang menjelaskan perambatan energi pada bunyi, cahaya, dan berbagai sistem. Pemahaman frekuensi, amplitudo, dan interaksi gelombang membantu menjelaskan teknologi sehari-hari.
+
+BAB LISTRIK, MAGNET, DAN INDUKSI
+Arus listrik adalah aliran muatan listrik. Tegangan menyatakan beda potensial yang mendorong perpindahan muatan, sedangkan hambatan menggambarkan kesulitan aliran. Hukum Ohm menghubungkan tegangan, arus, dan hambatan pada komponen ohmik dalam kondisi tertentu. Hubungan tersebut tidak berlaku identik untuk semua komponen dan semua kondisi.
+
+RANGKAIAN SERI DAN PARALEL
+Pada rangkaian seri, arus yang melalui komponen sama, sedangkan tegangan terbagi. Pada rangkaian paralel, beda potensial pada cabang sama, sedangkan arus terbagi. Hambatan ekuivalen rangkaian bergantung susunan. Analisis rangkaian membantu memahami instalasi rumah, perangkat elektronik, dan sistem kelistrikan.
+
+MEDAN MAGNET
+Arus listrik menghasilkan medan magnet. Elektromagnet memanfaatkan arus pada kumparan, sering dengan inti feromagnetik untuk memperkuat medan. Motor listrik mengubah energi listrik menjadi gerak melalui interaksi medan magnet dan arus. Generator melakukan proses kebalikan dengan induksi elektromagnetik.
+
+INDUKSI ELEKTROMAGNETIK
+Perubahan fluks magnetik pada kumparan dapat menimbulkan gaya gerak listrik induksi. Prinsip ini digunakan pada generator dan transformator. Transformator mengubah besar tegangan arus bolak-balik melalui perbandingan jumlah lilitan, dengan asumsi ideal; perangkat nyata memiliki rugi energi.
+
+KESELAMATAN LISTRIK
+Listrik jaringan rumah berbahaya dan bukan bahan percobaan pelajar. Pembelajaran rangkaian harus menggunakan kit tegangan rendah sesuai panduan guru. Jangan membuka stopkontak, menyentuh kabel terbuka, atau mencoba memperbaiki instalasi. Keselamatan dan pengawasan harus didahulukan.
+
+LATIHAN
+Gunakan simulasi rangkaian untuk membandingkan susunan seri dan paralel dengan sumber tegangan rendah virtual. Catat arus dan tegangan pada tiap komponen serta jelaskan perbedaannya.
+
+RANGKUMAN
+Listrik dan magnet saling berhubungan melalui medan dan induksi. Prinsipnya mendasari motor, generator, transformator, dan banyak perangkat modern.

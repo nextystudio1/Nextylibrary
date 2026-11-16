@@ -528,3 +528,24 @@ Kasus batas: masukan pada batas rentang atau kondisi khusus.
 Debugging: proses menemukan dan memperbaiki kesalahan program.
 Dokumentasi: penjelasan penggunaan dan rancangan perangkat lunak.
 Pengujian regresi: pengujian ulang untuk memastikan perubahan tidak merusak fitur yang sudah bekerja.
+
+BAB DEKOMPOSISI DAN ABSTRAKSI
+Berpikir komputasional adalah pendekatan menyelesaikan masalah dengan konsep yang juga digunakan dalam ilmu komputer. Dekomposisi memecah masalah besar menjadi bagian lebih kecil. Abstraksi memilih informasi penting dan mengabaikan rincian yang tidak diperlukan untuk tujuan tertentu. Keduanya membantu membuat solusi lebih terstruktur.
+
+PENGENALAN POLA
+Pengenalan pola mencari kesamaan atau pengulangan pada masalah. Pola dapat membantu menggunakan kembali solusi yang sudah diketahui. Namun, kemiripan tidak selalu berarti dua masalah identik. Periksa kondisi dan batas agar pola yang dipakai benar-benar relevan.
+
+ALGORITMA DAN REPRESENTASI
+Algoritma adalah urutan langkah yang jelas untuk menyelesaikan tugas. Algoritma dapat ditulis dalam bahasa sehari-hari, pseudocode, atau diagram alir. Instruksi perlu memiliki kondisi berhenti dan menangani masukan yang mungkin berbeda. Langkah ambigu akan menghasilkan pelaksanaan yang tidak konsisten.
+
+PENGUJIAN SOLUSI
+Uji solusi pada contoh normal, kasus batas, dan masukan yang tidak valid. Periksa apakah hasil benar, proses efisien, dan langkah dapat dipahami orang lain. Jika hasil salah, telusuri bagian terkecil yang menyebabkan kesalahan dan perbaiki secara sistematis.
+
+ETIKA DAN DAMPAK OTOMATISASI
+Program dapat memengaruhi privasi, akses, dan keputusan manusia. Pengembang perlu mempertimbangkan data yang dikumpulkan, kemungkinan bias, keamanan, dan pihak yang terdampak. Otomatisasi tidak menghilangkan tanggung jawab pembuat atau pengguna sistem.
+
+LATIHAN
+Pecah proses peminjaman buku perpustakaan menjadi langkah kecil. Buat diagram alir dengan kondisi buku tersedia atau sedang dipinjam. Uji diagram pada dua contoh dan perbaiki langkah yang ambigu.
+
+RANGKUMAN
+Berpikir komputasional menggabungkan dekomposisi, pola, abstraksi, dan algoritma. Pengujian serta pertimbangan etika membantu menghasilkan solusi yang bermanfaat.

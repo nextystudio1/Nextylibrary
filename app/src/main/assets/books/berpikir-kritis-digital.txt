@@ -345,3 +345,24 @@ Gunakan dua contoh media pendidikan yang disediakan guru. Tuliskan klaim, sumber
 
 RANGKUMAN
 Verifikasi visual membutuhkan pemeriksaan sumber, waktu, lokasi, dan konteks. Ketidakpastian harus dinyatakan, dan privasi orang yang muncul dalam media tetap dilindungi.
+
+BAB PENALARAN LOGIS DAN KEKELIRUAN ARGUMEN
+Penalaran logis menghubungkan premis dengan kesimpulan. Argumen deduktif bertujuan memastikan kesimpulan jika premis benar dan bentuk penalarannya valid. Penalaran induktif menyimpulkan pola umum dari pengamatan dan selalu memiliki tingkat ketidakpastian. Keduanya berguna, tetapi jenis bukti dan kekuatan kesimpulannya berbeda.
+
+KEKELIRUAN LOGIKA
+Serangan pribadi mengalihkan pembahasan dari isi argumen ke karakter orang. Generalisasi tergesa-gesa menarik kesimpulan luas dari contoh yang terlalu sedikit. Dilema palsu menyajikan hanya dua pilihan padahal alternatif lain mungkin ada. Kekeliruan sebab-akibat menganggap urutan atau korelasi sebagai bukti penyebab.
+
+KORELASI DAN KEBETULAN
+Dua peristiwa dapat berubah bersama tanpa satu menyebabkan yang lain. Variabel ketiga, arah hubungan terbalik, atau tren waktu dapat menjelaskan pola. Untuk menilai sebab, periksa mekanisme, urutan waktu, desain penelitian, dan penjelasan alternatif.
+
+BEBAN PEMBUKTIAN
+Orang yang membuat klaim perlu menyediakan bukti yang sebanding dengan kekuatan klaim. Ketiadaan bukti bukan otomatis bukti bahwa klaim benar. Klaim luar biasa memerlukan bukti yang kuat dan dapat diperiksa. Menggeser beban pembuktian dengan meminta orang lain membuktikan sesuatu yang tidak didukung bukan penalaran yang baik.
+
+BERPIKIR DALAM KONDISI TIDAK PASTI
+Gunakan tingkat keyakinan yang sesuai bukti. Pisahkan apa yang diketahui, diperkirakan, dan belum diketahui. Perbarui pandangan ketika informasi baru lebih kuat. Sikap kritis bukan berarti menolak semua hal, melainkan menilai klaim dengan standar yang konsisten.
+
+LATIHAN
+Ambil tiga pernyataan dari iklan atau berita yang aman. Identifikasi klaim, bukti, asumsi, dan kemungkinan kekeliruan. Tulis pertanyaan yang dapat membantu memeriksa masing-masing klaim.
+
+RANGKUMAN
+Penalaran logis membantu menilai hubungan premis dan kesimpulan. Mengenali kekeliruan serta ketidakpastian mencegah keputusan berdasarkan kesan semata.

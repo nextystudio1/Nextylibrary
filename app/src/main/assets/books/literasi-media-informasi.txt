@@ -399,3 +399,68 @@ Pilih satu isu publik yang tidak sensitif. Buat peta klaim utama, daftar sumber 
 
 RANGKUMAN
 Ekosistem informasi terdiri atas pembuat, platform, institusi, dan audiens. Pembaca yang teliti memeriksa sumber, konteks, bukti, etika, dan dampak penyebaran.
+
+BAB PENGAYAAN — MEMERIKSA SUMBER DAN KREDIBILITAS
+
+Sumber informasi perlu dinilai berdasarkan keahlian, bukti, transparansi, dan rekam jejak, bukan hanya tampilan profesional atau jumlah pengikut. Periksa siapa penulisnya, organisasi penerbit, tanggal publikasi, metode pengumpulan data, dan apakah sumber primer tersedia. Sumber primer dapat berupa dokumen resmi, data penelitian, peraturan, atau pernyataan langsung; sumber sekunder menjelaskan atau menganalisis sumber primer.
+
+Kredibilitas tidak berarti sebuah sumber selalu benar. Lembaga yang tepercaya pun dapat memperbaiki laporan ketika menemukan kesalahan. Karena itu, periksa apakah artikel memperbarui informasi, mengoreksi kekeliruan, dan membedakan fakta dari opini. Untuk klaim penting, cari konfirmasi independen dari beberapa sumber yang tidak sekadar menyalin satu sama lain.
+
+Tanggal menjadi penting dalam topik yang cepat berubah. Informasi kesehatan, kebijakan, harga, teknologi, dan bencana dapat berubah setelah artikel diterbitkan. Periksa tanggal kejadian dan tanggal publikasi. Artikel lama mungkin masih berguna untuk sejarah, tetapi belum tentu menggambarkan keadaan saat ini.
+
+BAB PENGAYAAN — TEKNIK VERIFIKASI GAMBAR DAN VIDEO
+
+Gambar dapat dipotong, diberi keterangan yang salah, atau diambil dari peristiwa lain. Sebelum membagikan gambar, cari konteks awalnya: siapa yang mengunggah, kapan pertama kali muncul, lokasi yang diklaim, dan apakah ada sumber lain yang melaporkan peristiwa sama. Pencarian gambar terbalik dapat membantu menemukan kemunculan sebelumnya, tetapi hasilnya tetap perlu diperiksa.
+
+Perhatikan petunjuk visual seperti papan nama, cuaca, bahasa pada rambu, bentuk bangunan, dan bayangan. Petunjuk tersebut dapat membantu menguji lokasi atau waktu, tetapi satu petunjuk tidak cukup untuk memastikan keaslian. Metadata berkas juga dapat hilang atau berubah ketika gambar dikirim melalui aplikasi.
+
+Video pendek dapat menghilangkan bagian sebelum dan sesudah kejadian. Potongan yang benar-benar berasal dari video asli tetap dapat memberi kesan keliru jika konteksnya dihapus. Cari versi lebih panjang, pernyataan pihak terkait, dan laporan independen. Hindari menyebarkan ulang materi yang memperlihatkan identitas pribadi atau dapat membahayakan orang lain.
+
+BAB PENGAYAAN — MEMAHAMI ANGKA DAN GRAFIK DALAM BERITA
+
+Angka perlu dibaca bersama satuan, periode, populasi, dan metode pengumpulan. Pernyataan “jumlah meningkat 50 persen” belum lengkap tanpa nilai awal dan nilai akhir. Kenaikan dari 2 menjadi 3 adalah 50 persen, tetapi perubahan absolutnya hanya satu. Dalam populasi besar, perbedaan antara persentase dan jumlah nyata dapat sangat penting.
+
+Grafik dapat menyesatkan melalui sumbu yang dipotong, interval tidak konsisten, pemilihan rentang waktu, atau kategori yang tidak sebanding. Periksa apakah grafik dimulai dari nol ketika perbandingan panjang batang digunakan, apakah semua kelompok menggunakan definisi yang sama, dan apakah data yang hilang dijelaskan.
+
+Rata-rata tidak selalu mewakili keadaan umum. Jika sebagian kecil nilai sangat tinggi, median mungkin lebih tepat untuk menjelaskan nilai tipikal. Berita yang menyebut pendapatan rata-rata sebaiknya dibaca bersama distribusi dan ukuran lain seperti median, rentang, atau kelompok pendapatan.
+
+BAB PENGAYAAN — ALGORITMA REKOMENDASI DAN RUANG GEMA
+
+Platform digital menggunakan berbagai sinyal untuk memilih konten yang mungkin menarik perhatian pengguna. Sinyal tersebut dapat mencakup riwayat tontonan, interaksi, hubungan akun, topik, dan karakteristik konten. Tujuan sistem berbeda-beda: sebagian mengoptimalkan relevansi, sebagian keterlibatan, dan sebagian lagi hasil bisnis. Rekomendasi bukan cermin netral dari seluruh informasi yang tersedia.
+
+Jika seseorang terus berinteraksi dengan satu jenis pandangan, sistem dapat semakin sering menampilkan konten serupa. Keadaan ini dapat mempersempit paparan terhadap sudut pandang lain, meskipun pengaruhnya tidak sama untuk semua pengguna atau platform. Pengguna dapat memperluas sumber bacaan, mengikuti sumber yang beragam, dan sengaja mencari penjelasan yang menguji keyakinan awal.
+
+Ruang gema adalah keadaan ketika pandangan serupa saling diperkuat dalam lingkungan informasi yang terbatas. Untuk menguranginya, bedakan antara membaca pendapat berbeda dan menerima semua pendapat sebagai sama kuat. Tetap gunakan bukti, metode, dan konteks untuk menilai klaim.
+
+BAB PENGAYAAN — ETIKA BERKOMUNIKASI DI RUANG DIGITAL
+
+Sebelum membagikan informasi, tanyakan apakah informasi itu benar, diperlukan, dan aman untuk disebarkan. Hindari menyebarkan data pribadi, foto tanpa izin, atau tuduhan yang belum diverifikasi. Kritik sebaiknya ditujukan pada gagasan atau tindakan, bukan menyerang identitas seseorang.
+
+Jejak digital dapat bertahan lama karena konten dapat disalin, diarsipkan, atau dibagikan ulang. Menghapus unggahan tidak menjamin semua salinannya hilang. Gunakan kata sandi yang kuat dan unik, aktifkan autentikasi berlapis jika tersedia, perbarui perangkat, dan waspadai pesan yang meminta kode verifikasi atau data rahasia.
+
+Jika menemukan informasi yang salah, koreksi dengan sumber yang dapat diperiksa dan bahasa yang tidak mempermalukan. Jika terjadi perundungan atau ancaman, simpan bukti seperlunya, gunakan fitur pelaporan, dan mintalah bantuan orang dewasa tepercaya atau pihak yang berwenang. Jangan membalas dengan menyebarkan informasi pribadi pihak lain.
+
+LATIHAN
+1. Mengapa tanggal publikasi penting saat memeriksa berita?
+2. Sebutkan empat hal yang perlu diperiksa pada sumber informasi.
+3. Mengapa gambar asli tetap dapat menyesatkan?
+4. Apa perbedaan kenaikan relatif dan absolut?
+5. Bagaimana algoritma rekomendasi dapat membatasi paparan informasi?
+6. Sebutkan tiga kebiasaan untuk menjaga keamanan akun.
+
+KUNCI PEMBAHASAN
+1. Karena informasi dapat berubah dan artikel lama mungkin tidak menggambarkan keadaan terbaru.
+2. Penulis, penerbit, bukti, metode, tanggal, dan sumber primer.
+3. Karena gambar dapat diberi konteks, lokasi, atau waktu yang salah.
+4. Relatif membandingkan perubahan dengan nilai awal; absolut menunjukkan selisih jumlah.
+5. Interaksi sebelumnya dapat membuat sistem lebih sering menampilkan konten serupa.
+6. Kata sandi unik, autentikasi berlapis, pembaruan perangkat, dan tidak membagikan kode verifikasi.
+
+GLOSARIUM TAMBAHAN
+Sumber primer: sumber langsung yang memuat data atau bukti awal.
+Sumber sekunder: sumber yang menganalisis atau menjelaskan sumber lain.
+Verifikasi: proses memeriksa kebenaran dan konteks informasi.
+Metadata: informasi tentang berkas, misalnya waktu, perangkat, atau format.
+Ruang gema: lingkungan informasi yang memperkuat pandangan serupa.
+Algoritma rekomendasi: sistem yang memilih konten berdasarkan sinyal dan tujuan tertentu.
+Jejak digital: rekaman aktivitas atau konten yang tertinggal di layanan digital.

@@ -450,3 +450,21 @@ Gunakan dua benda pada simulasi untuk membandingkan momentum sebelum dan sesudah
 
 RANGKUMAN
 Gerak melingkar, momentum, impuls, dan tumbukan memperluas pemahaman tentang gaya dan gerak. Hukum kekekalan berlaku dengan syarat sistem dan gaya luar diperhatikan.
+
+BAB GELOMBANG DAN BUNYI
+Gelombang adalah gangguan yang merambat dan membawa energi. Gelombang mekanik memerlukan medium, sedangkan gelombang elektromagnetik dapat merambat di ruang hampa. Besaran penting meliputi amplitudo, panjang gelombang, frekuensi, periode, dan cepat rambat. Hubungan cepat rambat sama dengan frekuensi dikalikan panjang gelombang.
+
+BUNYI DAN RESONANSI
+Bunyi merupakan gelombang mekanik yang merambat melalui medium. Frekuensi berkaitan dengan tinggi nada, sedangkan amplitudo berkaitan dengan kuat bunyi dalam kondisi pengukuran tertentu. Resonansi terjadi ketika sistem menerima energi secara efektif pada frekuensi tertentu. Resonansi dimanfaatkan pada alat musik, tetapi juga perlu diperhatikan dalam desain struktur.
+
+PEMANTULAN DAN PEMBIASAN
+Gelombang dapat dipantulkan, dibiaskan, mengalami difraksi, dan interferensi. Gema terjadi ketika bunyi pantul terdengar terpisah dari bunyi awal. Pembiasan terjadi ketika cepat rambat berubah saat gelombang memasuki medium atau wilayah berbeda. Fenomena ini menjelaskan banyak perilaku cahaya dan bunyi.
+
+GELOMBANG ELEKTROMAGNETIK
+Spektrum elektromagnetik mencakup radio, gelombang mikro, inframerah, cahaya tampak, ultraviolet, sinar-X, dan gamma. Semuanya memiliki sifat dasar gelombang elektromagnetik, tetapi berbeda frekuensi dan energi foton. Pemanfaatan serta risikonya bergantung jenis radiasi, intensitas, durasi, dan perlindungan.
+
+LATIHAN
+Gunakan simulasi gelombang untuk mengubah frekuensi dan panjang gelombang. Catat apa yang tetap dan apa yang berubah ketika medium sama. Jelaskan hubungan antara frekuensi dan panjang gelombang.
+
+RANGKUMAN
+Gelombang menjelaskan perambatan energi pada bunyi, cahaya, dan berbagai sistem. Pemahaman frekuensi, amplitudo, dan interaksi gelombang membantu menjelaskan teknologi sehari-hari.

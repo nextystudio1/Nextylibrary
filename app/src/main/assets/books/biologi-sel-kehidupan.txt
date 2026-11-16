@@ -318,3 +318,21 @@ Buat diagram alur DNA ke RNA ke protein. Jelaskan peran transkripsi, translasi, 
 
 RANGKUMAN
 Ekspresi gen menghubungkan informasi DNA dengan fungsi sel. Regulasi memungkinkan sel memiliki peran berbeda, sementara bioteknologi menuntut penilaian etis dan ilmiah.
+
+BAB PEMBELAHAN SEL DAN PEWARISAN
+Sel membelah untuk pertumbuhan, perbaikan, dan reproduksi. Mitosis menghasilkan dua sel anak yang secara umum memiliki informasi genetik sama dengan sel induk, sedangkan meiosis menghasilkan sel kelamin dengan jumlah kromosom setengah dari sel asal. Meiosis juga menghasilkan variasi melalui pindah silang dan pengacakan kromosom.
+
+KROMOSOM DAN GEN
+DNA tersusun dalam kromosom dan membawa gen yang berperan dalam pembentukan RNA serta protein. Alel adalah variasi bentuk gen pada lokasi tertentu. Sifat dapat dipengaruhi satu gen, banyak gen, dan lingkungan. Karena itu, pola pewarisan sederhana tidak menjelaskan semua ciri manusia atau organisme.
+
+MUTASI DAN VARIASI
+Mutasi adalah perubahan materi genetik. Dampaknya dapat netral, merugikan, atau dalam kondisi tertentu menguntungkan. Mutasi pada sel tubuh umumnya tidak diwariskan melalui reproduksi seksual, sedangkan perubahan pada garis sel pembentuk gamet dapat diwariskan. Variasi genetik menjadi bahan bagi evolusi populasi.
+
+SIKLUS SEL DAN KENDALI
+Siklus sel memiliki tahap pertumbuhan, replikasi DNA, dan pembelahan. Mekanisme pemeriksaan membantu memastikan DNA direplikasi dan kromosom dibagikan dengan benar. Gangguan pengendalian siklus sel dapat berkontribusi pada penyakit, termasuk kanker, yang memiliki penyebab kompleks dan tidak dapat dijelaskan oleh satu faktor tunggal.
+
+LATIHAN
+Buat diagram perbandingan mitosis dan meiosis yang menunjukkan jumlah pembelahan, jumlah sel anak, dan jumlah kromosom relatif. Jelaskan mengapa meiosis menghasilkan variasi.
+
+RANGKUMAN
+Pembelahan sel menjaga pertumbuhan dan reproduksi, sedangkan meiosis serta variasi genetik mendukung pewarisan dan evolusi. Siklus sel diatur oleh mekanisme kompleks.

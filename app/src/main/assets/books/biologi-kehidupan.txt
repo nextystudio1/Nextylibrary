@@ -429,3 +429,21 @@ Buat diagram yang menghubungkan fotosintesis, respirasi, karbon dioksida, oksige
 
 RANGKUMAN
 Fotosintesis dan respirasi menghubungkan energi dengan daur karbon. Adaptasi tumbuhan menunjukkan hubungan antara struktur, fungsi, dan lingkungan.
+
+BAB EVOLUSI DAN SELEKSI ALAM
+Evolusi adalah perubahan sifat yang diwariskan dalam populasi dari generasi ke generasi. Variasi genetik muncul melalui mutasi dan rekombinasi. Seleksi alam terjadi ketika variasi tertentu memengaruhi keberhasilan bertahan hidup dan reproduksi dalam lingkungan tertentu. Evolusi berlangsung pada populasi, bukan karena individu sengaja mengubah gen untuk memenuhi kebutuhan.
+
+ADAPTASI DAN LINGKUNGAN
+Adaptasi merupakan sifat yang meningkatkan kecocokan organisme pada kondisi tertentu dan terbentuk melalui proses evolusi. Sifat yang menguntungkan pada satu lingkungan belum tentu menguntungkan pada lingkungan lain. Perubahan lingkungan dapat mengubah tekanan seleksi, sementara migrasi dan aliran gen membawa variasi antar populasi.
+
+BUKTI EVOLUSI
+Bukti evolusi berasal dari fosil, anatomi perbandingan, biogeografi, genetika, dan pengamatan perubahan populasi. Fosil menunjukkan urutan perubahan organisme sepanjang waktu, sedangkan kesamaan DNA membantu menilai hubungan kekerabatan. Tidak semua garis keturunan memiliki catatan fosil lengkap, sehingga berbagai bukti saling melengkapi.
+
+RESISTANSI ANTIMIKROBA
+Populasi mikroorganisme dapat memiliki variasi kepekaan terhadap obat. Penggunaan antimikroba yang tidak tepat dapat memberi tekanan seleksi sehingga varian resisten lebih banyak bertahan. Resistansi merupakan contoh evolusi yang dapat diamati dalam waktu relatif singkat. Penggunaan obat harus mengikuti petunjuk tenaga kesehatan, bukan dihentikan atau dimulai sendiri.
+
+LATIHAN
+Gunakan simulasi populasi serangga dengan dua variasi warna pada latar berbeda. Catat perubahan proporsi setelah beberapa generasi simulasi. Jelaskan bahwa hasil bergantung asumsi dan tidak membuktikan organisme individu berubah warna karena kebutuhan.
+
+RANGKUMAN
+Evolusi menjelaskan perubahan populasi melalui variasi, pewarisan, seleksi, dan proses lain. Bukti lintas bidang mendukung pemahaman tentang keanekaragaman kehidupan.

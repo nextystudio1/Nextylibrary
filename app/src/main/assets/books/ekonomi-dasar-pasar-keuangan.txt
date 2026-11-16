@@ -310,3 +310,21 @@ Gunakan data simulasi ekspor dan impor untuk menghitung neraca perdagangan. Ubah
 
 RANGKUMAN
 Ekonomi makro menghubungkan nilai tukar, perdagangan, distribusi pendapatan, dan siklus bisnis. Indikator agregat perlu dilengkapi informasi tentang kelompok dan sektor yang terdampak.
+
+BAB KEBIJAKAN FISKAL DAN MONETER
+Kebijakan fiskal menggunakan penerimaan dan belanja pemerintah untuk memengaruhi perekonomian serta menyediakan layanan publik. Pajak membiayai layanan dan dapat memengaruhi insentif. Belanja pemerintah dapat mendukung infrastruktur, pendidikan, kesehatan, dan perlindungan sosial. Dampak kebijakan bergantung waktu, kondisi ekonomi, kualitas pelaksanaan, dan sumber pembiayaan.
+
+KEBIJAKAN MONETER
+Bank sentral mengelola kebijakan moneter untuk menjaga stabilitas harga dan mendukung kestabilan sistem keuangan sesuai mandatnya. Instrumen dapat memengaruhi suku bunga, likuiditas, dan ekspektasi. Perubahan suku bunga dapat berdampak pada biaya pinjaman, keputusan menabung, nilai tukar, dan permintaan agregat, tetapi efeknya tidak selalu langsung.
+
+INFLASI DAN PENGANGGURAN
+Inflasi dapat dipengaruhi permintaan, biaya produksi, pasokan, nilai tukar, dan ekspektasi. Pengangguran dapat berubah karena siklus ekonomi dan perubahan struktur. Kebijakan harus mempertimbangkan beberapa indikator sekaligus; menekan satu masalah dapat menimbulkan konsekuensi lain jika instrumen tidak tepat.
+
+UTANG DAN ANGGARAN PUBLIK
+Utang pemerintah dapat digunakan untuk membiayai kebutuhan yang manfaatnya berlangsung lama, tetapi menimbulkan kewajiban pembayaran di masa depan. Penilaian utang memperhatikan biaya bunga, pertumbuhan ekonomi, penerimaan, mata uang, dan kemampuan mengelola risiko. Anggaran publik juga perlu transparan dan dapat diawasi masyarakat.
+
+LATIHAN
+Buat simulasi anggaran daerah fiktif dengan dana terbatas. Alokasikan dana untuk pendidikan, kesehatan, transportasi, dan mitigasi bencana. Jelaskan alasan prioritas serta kelompok yang menerima manfaat.
+
+RANGKUMAN
+Kebijakan fiskal dan moneter memengaruhi ekonomi melalui saluran berbeda. Evaluasi memerlukan data, transparansi, dan perhatian pada dampak jangka pendek maupun panjang.

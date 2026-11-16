@@ -344,3 +344,21 @@ Bandingkan dua skenario pembelian fiktif: pembayaran langsung dan cicilan. Hitun
 
 RANGKUMAN
 Kredit adalah komitmen jangka waktu tertentu, bukan uang tambahan tanpa biaya. Memahami total pembayaran, bunga, denda, dan legalitas membantu menghindari keputusan yang merugikan.
+
+BAB NILAI WAKTU UANG
+Nilai uang dapat berubah menurut waktu karena inflasi, bunga, risiko, dan kesempatan penggunaan. Sejumlah uang saat ini tidak selalu setara dengan jumlah nominal yang sama pada masa mendatang. Konsep nilai waktu uang membantu membandingkan pilihan pembayaran dan tabungan, tetapi perhitungan harus menggunakan asumsi yang jelas.
+
+INFLASI DAN DAYA BELI
+Inflasi adalah kenaikan tingkat harga umum dalam suatu periode. Jika pendapatan tidak berubah sementara harga naik, daya beli dapat menurun. Indeks harga konsumen mengukur perubahan harga keranjang barang dan jasa representatif, tetapi pola belanja setiap rumah tangga berbeda sehingga dampak pribadi dapat tidak sama dengan angka rata-rata.
+
+BUNGA DAN PERTUMBUHAN
+Bunga sederhana dihitung dari pokok awal, sedangkan bunga majemuk memperhitungkan akumulasi bunga pada periode sebelumnya. Perbedaan menjadi semakin berarti seiring waktu. Dalam produk nyata, frekuensi penghitungan, biaya, pajak, dan aturan dapat memengaruhi hasil akhir. Gunakan simulasi resmi dan baca ketentuan.
+
+KEPUTUSAN MENABUNG
+Menabung dapat membantu mencapai tujuan dan menghadapi kebutuhan mendadak. Pilihan tempat menyimpan dana perlu mempertimbangkan keamanan, kemudahan akses, biaya, serta perlindungan yang berlaku. Pelajar dapat mempelajari konsep melalui simulasi sederhana dan mendiskusikan keputusan keuangan nyata dengan wali.
+
+LATIHAN
+Hitung pertumbuhan saldo simulasi dengan bunga sederhana dan majemuk selama beberapa periode. Bandingkan hasil dan sebutkan asumsi yang digunakan. Jelaskan mengapa hasil simulasi bukan janji hasil produk keuangan.
+
+RANGKUMAN
+Nilai waktu uang, inflasi, dan bunga membantu membandingkan pilihan keuangan. Ketepatan keputusan bergantung pada asumsi, biaya, risiko, dan tujuan.

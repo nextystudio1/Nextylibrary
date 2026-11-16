@@ -357,3 +357,21 @@ Gunakan data simulasi dua kelompok dengan rata-rata berbeda. Jelaskan perbedaan 
 
 RANGKUMAN BAB
 Pengujian hipotesis membantu menilai bukti dalam kerangka asumsi tertentu. Nilai-p, kesalahan statistik, ukuran efek, dan signifikansi praktis harus ditafsirkan bersama.
+
+BAB KORELASI, SEBAB-AKIBAT, DAN PERANCU
+Korelasi menggambarkan kecenderungan dua variabel berubah bersama. Korelasi positif berarti nilai cenderung meningkat bersama, sedangkan korelasi negatif berarti satu meningkat ketika yang lain cenderung menurun. Korelasi tidak membuktikan sebab-akibat karena hubungan dapat dipengaruhi variabel ketiga, arah pengaruh yang terbalik, atau kebetulan.
+
+VARIABEL PERANCU
+Variabel perancu berhubungan dengan variabel penjelas dan hasil sehingga dapat menciptakan atau mengubah hubungan yang diamati. Misalnya, hubungan antara konsumsi minuman tertentu dan aktivitas fisik dapat dipengaruhi usia atau kebiasaan lain. Peneliti perlu merancang pengukuran dan analisis untuk mempertimbangkan faktor yang relevan.
+
+EKSPERIMEN DAN STUDI OBSERVASIONAL
+Eksperimen dengan penempatan acak dapat memberi bukti kausal lebih kuat dalam kondisi yang tepat. Studi observasional mengamati keadaan tanpa mengatur perlakuan, sehingga lebih rentan terhadap perancu. Namun, eksperimen juga memiliki batas etika dan tidak selalu dapat dilakukan. Kesimpulan harus sesuai rancangan.
+
+MEMBACA GRAFIK KORELASI
+Diagram pencar menunjukkan pola pasangan data. Perhatikan bentuk hubungan, pencilan, kelompok tersembunyi, dan rentang nilai. Garis tren dapat meringkas pola tetapi menyembunyikan variasi. Jangan mengekstrapolasi jauh di luar rentang data tanpa alasan kuat.
+
+LATIHAN
+Gunakan data simulasi jam belajar dan nilai latihan. Buat diagram pencar dan hitung korelasi dengan alat pendidikan. Jelaskan mengapa hasil tidak membuktikan jam belajar sebagai satu-satunya penyebab nilai.
+
+RANGKUMAN
+Korelasi membantu menemukan pola, tetapi penalaran kausal memerlukan desain dan pemeriksaan perancu. Grafik harus dibaca bersama konteks dan kualitas data.

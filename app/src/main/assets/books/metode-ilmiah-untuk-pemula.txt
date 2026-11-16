@@ -306,3 +306,21 @@ Rancang eksperimen aman untuk membandingkan laju pelarutan gula dalam air pada k
 
 RANGKUMAN
 Eksperimen yang baik mengendalikan variabel, menggunakan pembanding, mengulang pengukuran, dan mendokumentasikan prosedur. Keselamatan dan etika harus menjadi bagian rancangan sejak awal.
+
+BAB HIPOTESIS, TEORI, DAN MODEL ILMIAH
+Hipotesis adalah dugaan yang dapat diuji melalui pengamatan atau eksperimen. Teori ilmiah merupakan kerangka penjelasan luas yang didukung banyak bukti dan telah diuji melalui berbagai pendekatan. Dalam bahasa sehari-hari, kata teori kadang berarti tebakan, tetapi dalam sains maknanya jauh lebih kuat.
+
+MODEL DAN PENYEDERHANAAN
+Model ilmiah menyederhanakan sistem nyata agar aspek tertentu dapat dipahami. Model dapat berupa diagram, persamaan, simulasi komputer, atau model fisik. Setiap model memiliki asumsi dan batas penggunaan. Model cuaca, misalnya, tidak menggambarkan setiap molekul udara, tetapi menghitung proses penting dalam skala tertentu.
+
+FALSIFIKASI DAN REVISI
+Hipotesis ilmiah perlu menghasilkan prediksi yang dapat dibandingkan dengan data. Jika pengamatan bertentangan, peneliti memeriksa metode, asumsi tambahan, dan kualitas data. Penjelasan dapat direvisi atau ditinggalkan ketika bukti yang lebih kuat muncul. Satu hasil yang tidak sesuai tidak otomatis membatalkan seluruh teori, tetapi harus ditanggapi secara terbuka.
+
+REPLIKASI DAN KETERBUKAAN
+Replikasi mencoba menguji kembali hasil menggunakan metode yang sama atau sebanding. Hasil yang konsisten memperkuat keyakinan, sedangkan perbedaan dapat mengungkap kondisi yang sebelumnya tidak diperhatikan. Pelaporan metode dan data yang sesuai etika membantu komunitas memeriksa temuan.
+
+LATIHAN
+Buat hipotesis tentang pengaruh jenis kertas terhadap waktu penyerapan air menggunakan bahan aman dan pengawasan guru. Tentukan variabel, prediksi, cara mengukur, dan kemungkinan hasil yang dapat menyangkal dugaan awal.
+
+RANGKUMAN
+Sains berkembang melalui hipotesis yang dapat diuji, model dengan batas jelas, replikasi, dan revisi berdasarkan bukti.

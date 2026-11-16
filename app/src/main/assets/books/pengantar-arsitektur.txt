@@ -121,7 +121,6 @@ Rancang konsep ruang belajar kecil untuk kebutuhan pengguna yang telah ditentuka
 LATIHAN
 Analisis satu ruang belajar. Gambar denah sederhana, tandai sumber cahaya dan aliran udara, identifikasi hambatan akses, lalu usulkan tiga perbaikan dengan mempertimbangkan biaya dan pemeliharaan.
 
-
 EVALUASI AKHIR
 1. Mengapa kebutuhan pengguna harus ditentukan sebelum bentuk bangunan dirancang?
 2. Jelaskan hubungan program ruang, zonasi, dan sirkulasi.

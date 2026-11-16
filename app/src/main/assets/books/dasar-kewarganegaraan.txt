@@ -6,24 +6,24 @@ DESKRIPSI
 Mempelajari konstitusi, demokrasi, hak warga, partisipasi, keberagaman, dan tanggung jawab publik.
 
 PENDAHULUAN
-Materi ini disusun sebagai pengantar untuk membangun pemahaman yang dapat diterapkan. Setiap topik perlu dibaca dengan memperhatikan konteks, bukti, dan batas penjelasan. Gunakan latihan untuk menguji pemahaman, bukan sekadar menghafal istilah.
+Buku Dasar Kewarganegaraan membahas mempelajari konstitusi, demokrasi, hak warga, partisipasi, keberagaman, dan tanggung jawab publik.. Bacalah setiap bab dengan menghubungkan istilah, contoh, dan persoalan yang muncul dalam bidang ini. Gunakan pertanyaan di akhir bagian untuk menguji pemahaman, lalu catat bagian yang memerlukan penjelasan atau bukti tambahan.
 
 BAB 1. NEGARA DAN KEWARGANEGARAAN
 
 Negara merupakan organisasi politik yang memiliki wilayah, penduduk, pemerintahan, dan kedaulatan. Kewarganegaraan menjelaskan hubungan hukum antara individu dan negara. Hubungan ini memuat hak serta tanggung jawab. Identitas kewarganegaraan tidak menghapus keberagaman bahasa, budaya, dan pengalaman masyarakat.
 
 PENDALAMAN
-Konsep pada bab ini sebaiknya dipahami melalui hubungan antara definisi, proses, contoh, dan konsekuensi. Definisi membantu menetapkan batas istilah. Proses menjelaskan urutan atau mekanisme. Contoh memperlihatkan penerapan pada konteks tertentu. Konsekuensi menunjukkan hal yang dapat berubah ketika kondisi berbeda. Satu contoh tidak selalu mewakili semua keadaan, sehingga perhatikan faktor pembatas dan kemungkinan pengecualian.
+Pada NEGARA DAN KEWARGANEGARAAN, analisis perlu membedakan fakta, aturan, kepentingan, dan penilaian. Identifikasi pihak yang terlibat, siapa yang terdampak, serta sumber informasi yang mendukung setiap klaim. Bandingkan beberapa sudut pandang sebelum menyusun kesimpulan agar penjelasan tidak mengabaikan konteks atau kelompok tertentu.
 
 AKTIVITAS PENGAMATAN
 Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
 
 LATIHAN
-1. Jelaskan konsep utama tanpa menyalin kalimat buku.
-2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
-3. Berikan satu contoh dan satu contoh pembanding.
-4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
-5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
+1. Apa gagasan utama yang dijelaskan dalam NEGARA DAN KEWARGANEGARAAN?
+2. Jelaskan hubungan antara dua konsep penting pada bab ini.
+3. Terapkan konsep tersebut pada satu kasus baru dan uraikan alasannya.
+4. Sebutkan asumsi atau keterbatasan yang perlu diperhatikan.
+5. Informasi apa yang masih diperlukan agar kesimpulan lebih kuat?
 
 RANGKUMAN
 - Pahami istilah dan batas penggunaannya.
@@ -55,14 +55,14 @@ TUGAS TERPADU
 Buat laporan mini yang menghubungkan sekurang-kurangnya tiga bab. Tentukan tujuan, pertanyaan, metode, sumber informasi, dan batasan. Sajikan temuan secara runtut. Bedakan data yang diamati dari tafsiran. Jika informasi belum cukup, nyatakan dengan jujur dan jelaskan apa yang perlu dikumpulkan berikutnya.
 
 EVALUASI AKHIR
-1. Tuliskan lima konsep inti dan definisinya.
-2. Jelaskan hubungan antara tiga konsep berbeda.
-3. Analisis satu contoh dengan menggunakan bukti.
-4. Bandingkan dua pendekatan atau penjelasan.
-5. Buat kesimpulan dan nyatakan keterbatasannya.
+1. Jelaskan konsep paling penting dari LITERASI WARGA dan alasan konsep itu diperlukan.
+2. Hubungkan materi dari tiga bab yang saling berkaitan.
+3. Analisis satu persoalan menggunakan istilah dan metode dari buku Dasar Kewarganegaraan.
+4. Bandingkan dua pendekatan dan jelaskan kelebihan serta keterbatasannya.
+5. Tulis kesimpulan berbasis bukti dan sebutkan pertanyaan yang belum terjawab.
 
 PEDOMAN PENILAIAN
-Periksa ketepatan istilah, kualitas bukti, alur penalaran, relevansi contoh, dan kejelasan bahasa. Jawaban dapat bervariasi jika alasan dan buktinya kuat. Hindari klaim mutlak ketika data hanya mendukung kesimpulan terbatas.
+Penilaian untuk Dasar Kewarganegaraan memperhatikan ketepatan istilah bidang, kesesuaian metode, mutu bukti, dan kemampuan menerapkan konsep pada kasus. Jawaban dinilai dari alasan yang dapat diperiksa serta pengakuan terhadap keterbatasan, bukan dari keseragaman pendapat.
 
 GLOSARIUM
 Kedaulatan: Kekuasaan tertinggi dalam penyelenggaraan negara.
@@ -72,7 +72,7 @@ Hak asasi: Hak dasar yang melekat pada manusia.
 Akuntabilitas: Kewajiban menjelaskan dan mempertanggungjawabkan keputusan.
 
 CATATAN SUMBER
-Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk kajian lanjutan, gunakan sumber primer, buku ajar, standar, dan publikasi lembaga tepercaya. Catat penulis atau lembaga, judul, tahun, dan bagian yang digunakan. Periksa pembaruan informasi pada topik yang berkembang.
+Naskah Dasar Kewarganegaraan disusun sebagai materi pembelajaran orisinal Nexty Studio. Untuk memperdalam topik, gunakan buku ajar, artikel ilmiah, standar, dan publikasi lembaga yang relevan dengan bidang ini. Catat penulis atau lembaga, judul, tahun, dan bagian yang digunakan; periksa tanggal serta ruang lingkup sumber sebelum menjadikannya dasar keputusan.
 
 BAB LANJUTAN: KONSTITUSI DAN PEMBAGIAN KEKUASAAN
 

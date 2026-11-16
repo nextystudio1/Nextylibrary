@@ -199,3 +199,44 @@ Absorpsi bunyi: Penyerapan sebagian energi bunyi oleh material atau permukaan.
 Evaluasi pascahuni: Penilaian bangunan setelah digunakan.
 Biaya siklus hidup: Biaya yang timbul sepanjang masa penggunaan suatu aset.
 Diagram hubungan ruang: Gambar yang menunjukkan kedekatan atau hubungan fungsi antarruang.
+BAB 14. STRUKTUR, MATERIAL, DAN LOGIKA BENTANGAN
+
+Sistem struktur menyalurkan beban bangunan menuju tanah. Beban dapat berupa berat sendiri, penghuni, perabot, angin, hujan, dan gempa sesuai kondisi lokasi serta peraturan. Jalur beban perlu dipahami sejak konsep ruang karena posisi kolom, dinding struktural, dan bentang memengaruhi kebebasan tata ruang. Keputusan struktur tidak dapat dibuat hanya dari tampilan visual.
+
+Balok menerima beban dari elemen yang ditopangnya dan menyalurkannya ke kolom atau dinding. Kolom meneruskan beban menuju fondasi. Pelat lantai membagi beban ke sistem pendukung. Dinding dapat berfungsi sebagai pembatas ruang, elemen penahan beban, atau bagian dari sistem penahan gaya lateral. Fungsi tersebut harus dibedakan karena perubahan pada elemen struktural dapat memengaruhi keselamatan.
+
+Material memiliki karakteristik yang berbeda. Beton memiliki kuat tekan tinggi, sedangkan baja memiliki kemampuan tarik dan daktilitas yang bermanfaat pada sistem tertentu. Kayu memiliki variasi sifat menurut jenis, kadar air, arah serat, dan mutu. Pemilihan material juga mempertimbangkan ketahanan terhadap api, kelembapan, korosi, ketersediaan, keterampilan konstruksi, perawatan, dan dampak siklus hidup.
+
+Konsep bentang panjang dapat menciptakan ruang fleksibel, tetapi biasanya memerlukan sistem struktur dan pengendalian lendutan yang lebih khusus. Ruang dengan banyak kolom mungkin lebih mudah dibangun pada kondisi tertentu, namun membatasi tata letak. Arsitek bekerja bersama insinyur struktur sejak awal untuk menguji kelayakan gagasan. Gambar konseptual tidak boleh dianggap sebagai instruksi konstruksi.
+
+BAB 15. PENCAHAYAAN, VENTILASI, DAN KENYAMANAN TERMAL
+
+Kenyamanan ruang dipengaruhi cahaya, suhu, kelembapan, pergerakan udara, dan aktivitas pengguna. Pencahayaan alami dapat mengurangi kebutuhan lampu pada siang hari, tetapi bukaan yang tidak terkendali dapat menimbulkan silau dan panas berlebih. Orientasi, ukuran bukaan, kedalaman ruang, perangkat peneduh, dan sifat kaca perlu dipertimbangkan bersama.
+
+Ventilasi alami bergantung pada perbedaan tekanan, suhu, arah angin, dan susunan bukaan. Bukaan berhadapan dapat membantu aliran silang pada kondisi tertentu, tetapi hasilnya dipengaruhi penghalang, kebisingan, polusi luar, dan keamanan. Ventilasi mekanis memberi kendali lebih besar namun membutuhkan energi, perawatan, dan penggantian filter sesuai kebutuhan.
+
+Kenyamanan termal bukan sekadar suhu udara. Kelembapan, kecepatan udara, suhu permukaan, pakaian, dan tingkat aktivitas turut berpengaruh. Pengguna yang berbeda dapat merasakan kondisi yang sama secara berbeda. Evaluasi ruang perlu menggabungkan pengukuran dengan umpan balik penghuni.
+
+BAB 16. AKSESIBILITAS DAN DESAIN INKLUSIF
+
+Desain inklusif mempertimbangkan variasi kemampuan fisik, sensorik, kognitif, usia, dan pengalaman pengguna. Jalur masuk, kemiringan, lebar sirkulasi, permukaan lantai, pegangan, pencahayaan, kontras visual, dan informasi arah memengaruhi kemampuan seseorang menggunakan bangunan secara mandiri. Aksesibilitas bukan tambahan dekoratif setelah desain selesai.
+
+Rute yang dapat diakses perlu berkesinambungan dari ruang luar ke fungsi utama. Satu pintu yang lebar tidak cukup jika jalur menuju pintu terhalang atau terdapat perubahan level yang tidak tertangani. Toilet, meja layanan, ruang berkumpul, dan jalur evakuasi juga perlu diperiksa. Persyaratan teknis harus merujuk peraturan dan standar yang berlaku di lokasi proyek.
+
+Libatkan pengguna dengan pengalaman yang beragam dalam proses evaluasi. Pengamatan dan wawancara harus dilakukan dengan hormat, tanpa menganggap satu orang mewakili seluruh kelompok. Catat hambatan yang ditemukan, prioritas perbaikan, serta alasan ketika suatu usulan belum dapat diterapkan.
+
+BAB 17. ADAPTASI BANGUNAN DAN EVALUASI PASCAHUNI
+
+Bangunan digunakan dalam jangka panjang, sementara kebutuhan penghuni dapat berubah. Ruang yang mudah disesuaikan, sistem utilitas yang dapat diakses untuk perawatan, dan dokumentasi yang baik dapat mengurangi biaya perubahan. Adaptasi perlu mempertimbangkan keselamatan struktur, kebakaran, aksesibilitas, serta karakter bangunan yang memiliki nilai budaya.
+
+Evaluasi pascahuni dilakukan setelah bangunan digunakan. Pertanyaan dapat mencakup apakah ruang mendukung kegiatan, apakah pengguna merasa nyaman, apakah sirkulasi mudah dipahami, dan apakah biaya operasional sesuai perkiraan. Metode dapat berupa survei, wawancara, observasi, pengukuran lingkungan, dan pemeriksaan catatan pemeliharaan.
+
+Temuan evaluasi perlu diterjemahkan menjadi prioritas. Masalah yang berdampak pada keselamatan dan akses harus ditangani lebih dahulu daripada perubahan kosmetik. Laporkan metode, jumlah responden, waktu pengukuran, serta keterbatasan agar hasil tidak dianggap mewakili semua pengguna.
+
+LATIHAN PENDALAMAN
+
+1. Jelaskan jalur beban dari pelat menuju tanah secara konseptual.
+2. Mengapa ukuran bukaan saja tidak cukup untuk menilai ventilasi?
+3. Berikan contoh rute aksesibel yang terputus meskipun pintu masuk sudah lebar.
+4. Sebutkan empat metode evaluasi pascahuni.
+5. Mengapa perubahan ruang harus melibatkan pemeriksaan struktur dan keselamatan?

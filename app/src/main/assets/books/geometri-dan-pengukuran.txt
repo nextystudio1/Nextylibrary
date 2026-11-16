@@ -1,0 +1,137 @@
+Geometri dan Pengukuran
+Penulis: Nexty Studio
+Edisi pembelajaran orisinal NextyLibrary
+
+DESKRIPSI
+Mengenal bentuk, sudut, luas, volume, skala, dan pengukuran dalam kehidupan.
+
+TUJUAN PEMBELAJARAN
+Pembaca mampu menjelaskan konsep, menafsirkan contoh, memeriksa bukti, dan menerapkan pengetahuan secara bertanggung jawab.
+
+BAB 1. BENTUK DAN RUANG
+
+Geometri mempelajari bentuk, ukuran, posisi, dan hubungan ruang. Titik menunjukkan posisi, garis menunjukkan arah dan panjang, sedangkan bidang memiliki dua dimensi. Bangun datar seperti segitiga, persegi, dan lingkaran memiliki sifat yang berbeda. Bangun ruang seperti prisma, tabung, dan bola memiliki volume serta luas permukaan.
+
+CONTOH PENERAPAN
+Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
+
+RANGKUMAN
+- Kenali definisi dan batas penggunaan konsep.
+- Hubungkan penjelasan dengan contoh nyata.
+- Periksa satuan, konteks, dan sumber informasi.
+
+LATIHAN
+1. Jelaskan dua istilah utama dari bab ini.
+2. Buat satu contoh baru dan uraikan alasannya.
+3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
+4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+
+BAB 2. MENGUKUR DENGAN SATUAN YANG KONSISTEN
+
+Pengukuran membandingkan suatu besaran dengan satuan baku. Panjang dapat dinyatakan dalam milimeter, sentimeter, meter, atau kilometer. Sebelum menghitung, ubah semua ukuran ke satuan yang sama. Kesalahan satuan dapat membuat hasil perhitungan keliru meskipun rumusnya benar.
+
+CONTOH PENERAPAN
+Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
+
+RANGKUMAN
+- Kenali definisi dan batas penggunaan konsep.
+- Hubungkan penjelasan dengan contoh nyata.
+- Periksa satuan, konteks, dan sumber informasi.
+
+LATIHAN
+1. Jelaskan dua istilah utama dari bab ini.
+2. Buat satu contoh baru dan uraikan alasannya.
+3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
+4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+
+BAB 3. SUDUT DAN HUBUNGAN GARIS
+
+Sudut terbentuk dari dua sinar yang bertemu pada satu titik. Sudut dapat dikelompokkan menjadi lancip, siku-siku, tumpul, lurus, dan penuh. Garis sejajar tidak berpotongan, sedangkan garis tegak lurus membentuk sudut siku-siku. Konsep ini digunakan dalam konstruksi, peta, dan rancangan benda.
+
+CONTOH PENERAPAN
+Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
+
+RANGKUMAN
+- Kenali definisi dan batas penggunaan konsep.
+- Hubungkan penjelasan dengan contoh nyata.
+- Periksa satuan, konteks, dan sumber informasi.
+
+LATIHAN
+1. Jelaskan dua istilah utama dari bab ini.
+2. Buat satu contoh baru dan uraikan alasannya.
+3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
+4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+
+BAB 4. KELILING DAN LUAS
+
+Keliling mengukur panjang batas bangun, sedangkan luas mengukur besar daerah di dalamnya. Rumus luas harus dipilih sesuai bentuk. Untuk persegi panjang, luas adalah panjang dikalikan lebar; untuk segitiga, setengah hasil kali alas dan tinggi. Satuan luas menggunakan satuan panjang kuadrat.
+
+CONTOH PENERAPAN
+Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
+
+RANGKUMAN
+- Kenali definisi dan batas penggunaan konsep.
+- Hubungkan penjelasan dengan contoh nyata.
+- Periksa satuan, konteks, dan sumber informasi.
+
+LATIHAN
+1. Jelaskan dua istilah utama dari bab ini.
+2. Buat satu contoh baru dan uraikan alasannya.
+3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
+4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+
+BAB 5. VOLUME DAN KAPASITAS
+
+Volume menyatakan ruang yang ditempati benda. Prisma tegak memiliki volume luas alas dikalikan tinggi. Kapasitas wadah sering dinyatakan dalam liter atau mililiter. Perhatikan bahwa bentuk luar wadah tidak selalu menunjukkan kapasitas secara intuitif; pengukuran diperlukan.
+
+CONTOH PENERAPAN
+Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
+
+RANGKUMAN
+- Kenali definisi dan batas penggunaan konsep.
+- Hubungkan penjelasan dengan contoh nyata.
+- Periksa satuan, konteks, dan sumber informasi.
+
+LATIHAN
+1. Jelaskan dua istilah utama dari bab ini.
+2. Buat satu contoh baru dan uraikan alasannya.
+3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
+4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+
+BAB 6. SKALA DAN PENERAPAN
+
+Skala membandingkan jarak pada gambar dengan jarak sebenarnya. Skala 1:100 berarti satu satuan pada gambar mewakili seratus satuan yang sama di lapangan. Peta, denah, model arsitektur, dan gambar teknik menggunakan prinsip skala. Periksa satuan sebelum mengubah jarak.
+
+CONTOH PENERAPAN
+Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
+
+RANGKUMAN
+- Kenali definisi dan batas penggunaan konsep.
+- Hubungkan penjelasan dengan contoh nyata.
+- Periksa satuan, konteks, dan sumber informasi.
+
+LATIHAN
+1. Jelaskan dua istilah utama dari bab ini.
+2. Buat satu contoh baru dan uraikan alasannya.
+3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
+4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+
+EVALUASI AKHIR
+1. Ringkas gagasan utama setiap bab.
+2. Buat peta konsep yang menghubungkan sedikitnya lima istilah.
+3. Susun studi kasus yang relevan, identifikasi fakta dan asumsi, lalu jelaskan solusi yang paling masuk akal.
+4. Jelaskan keterbatasan dari solusi yang kamu pilih.
+5. Buat rencana belajar lanjutan berdasarkan bagian yang belum dikuasai.
+
+PEDOMAN JAWABAN
+Jawaban dinilai dari ketepatan konsep, kejelasan alasan, relevansi contoh, dan kemampuan menyatakan batas pengetahuan. Jawaban berbeda dapat diterima apabila didukung penalaran dan bukti yang sesuai.
+
+GLOSARIUM
+Geometri: Cabang matematika yang mempelajari bentuk dan ruang.
+Keliling: Panjang seluruh batas suatu bangun.
+Luas: Ukuran daerah dua dimensi.
+Volume: Ukuran ruang tiga dimensi.
+Skala: Perbandingan ukuran gambar dengan ukuran sebenarnya.
+
+SARAN BELAJAR
+Gunakan buku ini sebagai pengantar. Cocokkan informasi dengan buku ajar dan publikasi lembaga yang kompeten, terutama untuk topik yang berkembang. Catat sumber, penulis atau lembaga, tahun, dan bagian yang digunakan ketika memperluas bacaan.

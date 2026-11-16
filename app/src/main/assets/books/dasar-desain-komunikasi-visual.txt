@@ -6,7 +6,7 @@ DESKRIPSI
 Prinsip tata letak, warna, tipografi, gambar, aksesibilitas, dan proses membuat pesan visual yang jelas.
 
 TUJUAN PEMBELAJARAN
-Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan konsep utama, menghubungkannya dengan situasi sehari-hari, mengevaluasi informasi, dan menerapkan langkah yang bertanggung jawab.
+Setelah mempelajari buku ini, pembaca diharapkan mampu menyusun hierarki visual, memilih tipografi dan warna yang terbaca, menggunakan gambar secara etis, membuat tata letak, serta menguji desain berdasarkan kebutuhan audiens.
 
 BAB 1. DESAIN SEBAGAI KOMUNIKASI
 
@@ -20,10 +20,10 @@ RANGKUMAN BAB
 - Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
 
 LATIHAN BAB 1
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Buat sketsa tata letak poster dengan satu judul, satu pesan utama, dan tiga informasi pendukung.
+2. Tandai elemen yang harus pertama kali dilihat pembaca.
+3. Jelaskan bagaimana ukuran, posisi, dan ruang kosong membangun hierarki.
+4. Ubah sketsa jika seluruh elemen tampak sama penting.
 
 BAB 2. HIERARKI DAN TATA LETAK
 
@@ -32,10 +32,10 @@ Hierarki visual mengatur urutan perhatian. Ukuran, ketebalan, posisi, kontras, d
 Mulailah dengan sketsa hitam-putih sebelum memilih warna. Letakkan judul dan pesan utama terlebih dahulu, lalu informasi pendukung. Periksa apakah pembaca dapat memahami inti desain dalam beberapa detik. Jika semua elemen tampak sama penting, hierarki perlu diperbaiki.
 
 LATIHAN BAB 2
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Buat sketsa tata letak poster dengan satu judul, satu pesan utama, dan tiga informasi pendukung.
+2. Tandai elemen yang harus pertama kali dilihat pembaca.
+3. Jelaskan bagaimana ukuran, posisi, dan ruang kosong membangun hierarki.
+4. Ubah sketsa jika seluruh elemen tampak sama penting.
 
 BAB 3. WARNA DAN KONTRAS
 
@@ -44,22 +44,22 @@ Warna dapat membangun suasana dan membedakan kategori, tetapi maknanya dipengaru
 Uji desain dalam skala kecil dan pada layar berbeda. Warna yang terlihat jelas di monitor tertentu dapat tampak pudar di ponsel atau hasil cetak. Untuk informasi penting, utamakan keterbacaan daripada efek dekoratif.
 
 LATIHAN BAB 3
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Buat sketsa tata letak poster dengan satu judul, satu pesan utama, dan tiga informasi pendukung.
+2. Tandai elemen yang harus pertama kali dilihat pembaca.
+3. Jelaskan bagaimana ukuran, posisi, dan ruang kosong membangun hierarki.
+4. Ubah sketsa jika seluruh elemen tampak sama penting.
 
 BAB 4. TIPOGRAFI DAN KETERBACAAN
 
 Tipografi mencakup pemilihan jenis huruf, ukuran, ketebalan, jarak baris, dan panjang baris. Gunakan keluarga huruf yang terbatas dan konsisten. Teks isi sebaiknya nyaman dibaca dalam ukuran normal. Huruf dekoratif lebih cocok untuk bagian singkat daripada paragraf panjang.
 
-Hindari seluruh paragraf menggunakan huruf kapital. Beri jarak antarbari dan margin yang cukup. Periksa tanda baca, ejaan, angka, serta konsistensi gaya. Desain profesional tetap membutuhkan penyuntingan bahasa.
+Hindari seluruh paragraf menggunakan huruf kapital. Beri jarak antarbaris dan margin yang cukup. Periksa tanda baca, ejaan, angka, serta konsistensi gaya. Desain profesional tetap membutuhkan penyuntingan bahasa.
 
 LATIHAN BAB 4
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Buat sketsa tata letak poster dengan satu judul, satu pesan utama, dan tiga informasi pendukung.
+2. Tandai elemen yang harus pertama kali dilihat pembaca.
+3. Jelaskan bagaimana ukuran, posisi, dan ruang kosong membangun hierarki.
+4. Ubah sketsa jika seluruh elemen tampak sama penting.
 
 BAB 5. GAMBAR, IKON, DAN HAK PENGGUNAAN
 
@@ -68,10 +68,10 @@ Gambar dapat menjelaskan hal yang sulit disampaikan dengan kata-kata. Pilih gamb
 Jika membuat ilustrasi sendiri, simpan berkas sumber agar mudah diperbaiki. Gunakan teks alternatif atau keterangan ketika desain akan dibaca dengan teknologi bantu. Jangan mengubah foto sehingga memberi kesan kejadian yang tidak benar.
 
 LATIHAN BAB 5
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Buat sketsa tata letak poster dengan satu judul, satu pesan utama, dan tiga informasi pendukung.
+2. Tandai elemen yang harus pertama kali dilihat pembaca.
+3. Jelaskan bagaimana ukuran, posisi, dan ruang kosong membangun hierarki.
+4. Ubah sketsa jika seluruh elemen tampak sama penting.
 
 BAB 6. PROSES DESAIN DAN EVALUASI
 
@@ -80,10 +80,10 @@ Alur kerja yang baik dimulai dari riset singkat, penentuan tujuan, sketsa, pembu
 Sebelum publikasi, periksa ukuran berkas, resolusi, margin aman, ejaan, kontras, dan tampilan di perangkat sasaran. Simpan versi final dan sumber. Evaluasi bukan sekadar bertanya apakah desain disukai, tetapi apakah pesan benar-benar tersampaikan.
 
 LATIHAN BAB 6
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Buat sketsa tata letak poster dengan satu judul, satu pesan utama, dan tiga informasi pendukung.
+2. Tandai elemen yang harus pertama kali dilihat pembaca.
+3. Jelaskan bagaimana ukuran, posisi, dan ruang kosong membangun hierarki.
+4. Ubah sketsa jika seluruh elemen tampak sama penting.
 
 EVALUASI AKHIR
 1. Jelaskan bagaimana hierarki visual membantu pembaca menemukan pesan utama.

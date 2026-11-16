@@ -135,3 +135,38 @@ Skala: Perbandingan ukuran gambar dengan ukuran sebenarnya.
 
 SARAN BELAJAR
 Gunakan buku ini sebagai pengantar. Cocokkan informasi dengan buku ajar dan publikasi lembaga yang kompeten, terutama untuk topik yang berkembang. Catat sumber, penulis atau lembaga, tahun, dan bagian yang digunakan ketika memperluas bacaan.
+
+PENDALAMAN MATERI
+
+BAB 6. SKALA, DENAH, DAN PETA
+Skala menyatakan perbandingan ukuran pada gambar dengan ukuran sebenarnya. Skala 1:100 berarti satu satuan pada denah mewakili seratus satuan yang sama di lapangan. Satuan harus disamakan sebelum menghitung. Jika panjang pada denah 4 cm dengan skala 1:100, panjang sebenarnya 400 cm atau 4 m. Skala membantu membuat objek besar dapat ditampilkan pada kertas, tetapi detail kecil dapat hilang. Denah ruangan biasanya menggunakan tampak atas dan simbol yang konsisten. Peta wilayah dapat menggunakan proyeksi, sehingga bentuk, luas, jarak, atau arah mengalami distorsi tertentu. Pembaca peta perlu memeriksa legenda, orientasi, skala, sumber data, dan tahun pembaruan. Peta bukan wilayah itu sendiri, melainkan model yang dibuat untuk tujuan tertentu.
+
+BAB 7. KELILING DAN LUAS BANGUN DATAR
+Keliling mengukur panjang batas bangun, sedangkan luas mengukur besar daerah yang ditempati. Persegi panjang memiliki keliling 2(p + l) dan luas p x l. Segitiga memiliki luas setengah hasil kali alas dan tinggi tegak lurus. Lingkaran memiliki keliling 2πr dan luas πr². Satuan keliling berupa satuan panjang, sedangkan luas menggunakan satuan persegi. Kesalahan umum adalah mencampur satuan cm dengan m atau menggunakan tinggi yang bukan tegak lurus terhadap alas. Dalam situasi nyata, luas lantai membantu memperkirakan kebutuhan ubin, sedangkan keliling dapat membantu memperkirakan panjang lis. Perkiraan awal perlu diberi tambahan wajar untuk pemotongan dan bentuk ruang yang tidak beraturan.
+
+BAB 8. VOLUME DAN KAPASITAS
+Volume menyatakan ruang tiga dimensi yang ditempati benda. Balok memiliki volume panjang x lebar x tinggi, sedangkan kubus memiliki volume sisi pangkat tiga. Prisma dan tabung dapat dipahami melalui luas alas dikalikan tinggi. Satuan volume kubik berbeda dari satuan kapasitas seperti liter, meskipun dapat dikonversi: satu liter setara dengan satu desimeter kubik. Ketika menghitung kapasitas wadah, perhatikan apakah bentuk bagian dalam sama dengan ukuran luar; ketebalan dinding mengurangi ruang yang tersedia. Benda berongga juga tidak selalu memiliki volume bahan yang sama dengan volume ruang luarnya. Konsep volume digunakan dalam kemasan, penyimpanan, konstruksi, dan perencanaan air.
+
+BAB 9. SUDUT DAN HUBUNGAN GARIS
+Sudut terbentuk dari dua sinar yang memiliki titik pangkal sama. Sudut dapat diklasifikasikan sebagai lancip, siku-siku, tumpul, lurus, atau refleks. Pada dua garis sejajar yang dipotong garis transversal, terdapat pasangan sudut sehadap dan dalam berseberangan yang memiliki hubungan khusus. Pemahaman hubungan sudut membantu menentukan kemiringan atap, membuat rangka, dan membaca gambar teknik. Pengukuran menggunakan busur derajat memerlukan penempatan pusat alat tepat di titik sudut dan garis dasar sejajar dengan salah satu kaki sudut. Hasil pengukuran sebaiknya ditulis dengan satuan derajat dan tingkat ketelitian yang sesuai alat.
+
+BAB 10. PENGUKURAN DAN KETIDAKPASTIAN
+Setiap alat ukur memiliki resolusi dan batas ketelitian. Penggaris dengan skala milimeter tidak mendukung klaim ketelitian hingga pecahan mikrometer. Pengukuran berulang dapat membantu melihat variasi, tetapi tidak menghapus kesalahan sistematis seperti alat yang tidak terkalibrasi. Catat nilai, satuan, alat, dan kondisi pengukuran. Untuk hasil berulang yang wajar, rata-rata dapat digunakan sebagai ringkasan, sementara rentang data memberi gambaran variasi. Angka penting menunjukkan ketelitian yang masuk akal dari pengukuran. Jangan menuliskan terlalu banyak angka desimal hanya karena kalkulator menampilkannya. Dalam pekerjaan teknik, keputusan harus mempertimbangkan toleransi dan konsekuensi kesalahan.
+
+STUDI KASUS
+Sebuah ruang kelas akan dipasangi alas lantai. Denah menunjukkan panjang 8 cm dan lebar 6 cm dengan skala 1:100. Ukuran sebenarnya adalah 8 m x 6 m, sehingga luasnya 48 m². Jika bahan dijual per meter persegi, kebutuhan pembelian perlu mempertimbangkan pola pemasangan, potongan, dan cadangan. Perhitungan luas memberi dasar, tetapi pengukuran lapangan tetap diperlukan sebelum membeli.
+
+LATIHAN DAN PEMBAHASAN
+1. Pada skala 1:200, panjang gambar 3,5 cm. Panjang sebenarnya 700 cm atau 7 m.
+2. Persegi panjang 5 m x 3 m memiliki luas 15 m² dan keliling 16 m.
+3. Balok berukuran 2 m x 1,5 m x 1 m memiliki volume 3 m³.
+4. Mengapa hasil ukur perlu disertai satuan? Karena angka tanpa satuan tidak menyatakan besaran secara lengkap dan dapat ditafsirkan keliru.
+5. Mengapa angka desimal berlebihan perlu dihindari? Karena ketelitian hasil tidak boleh melebihi kemampuan alat dan metode pengukuran.
+
+GLOSARIUM
+Luas: ukuran daerah dua dimensi.
+Keliling: panjang seluruh batas bangun.
+Skala: perbandingan ukuran gambar dan ukuran sebenarnya.
+Volume: ukuran ruang tiga dimensi.
+Ketidakpastian: rentang keraguan yang melekat pada hasil ukur.
+Toleransi: batas penyimpangan yang masih dapat diterima.

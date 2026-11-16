@@ -6,24 +6,24 @@ DESKRIPSI
 Memahami transaksi, persamaan akuntansi, pencatatan, laporan keuangan, dan etika.
 
 PETA BELAJAR
-Buku ini disusun untuk membangun pemahaman bertahap. Kenali istilah, pahami mekanisme, hubungkan dengan contoh, lalu evaluasi penerapan. Catat pertanyaan yang belum terjawab dan periksa sumber informasi sebelum membuat kesimpulan.
+Pelajari Pengantar Akuntansi Dasar secara bertahap: pahami istilah, ikuti proses yang dijelaskan, lalu uji konsep pada contoh yang sesuai. Catat hubungan antarbab dan tandai bagian yang memerlukan data, perhitungan, atau sumber tambahan.
 
 BAB 1. AKUNTANSI SEBAGAI INFORMASI
 
 Akuntansi mengidentifikasi, mencatat, mengelompokkan, dan melaporkan transaksi ekonomi. Informasi akuntansi membantu pemilik, pengelola, pemberi pinjaman, dan pihak lain memahami kondisi organisasi. Catatan yang baik harus dapat ditelusuri ke bukti transaksi dan disusun dengan prinsip yang konsisten.
 
 PENDALAMAN
-Dalam mempelajari topik ini, bedakan pengertian, proses, bukti, dan penilaian. Pengertian memberi batas istilah; proses menerangkan hubungan antarbagian; bukti membantu menguji penjelasan; penilaian mempertimbangkan konteks dan akibat. Jangan menyimpulkan hubungan sebab-akibat hanya dari dua kejadian yang berlangsung bersamaan. Periksa apakah ada faktor lain yang mungkin memengaruhi hasil.
+Pada AKUNTANSI SEBAGAI INFORMASI, bedakan fakta, aturan, kepentingan, dan penilaian. Identifikasi pihak yang terlibat serta kelompok yang terdampak. Bandingkan sumber dan sudut pandang sebelum menyusun kesimpulan agar konteks tidak terabaikan.
 
 CONTOH PENERAPAN
-Pilih peristiwa atau benda yang dapat diamati di sekitar. Catat waktu, tempat, kondisi, dan informasi relevan. Gunakan istilah dari bab ini untuk menjelaskan apa yang terjadi. Tuliskan juga hal yang belum diketahui. Dengan cara tersebut, contoh tidak hanya menjadi cerita, tetapi latihan menerapkan konsep secara tertib.
+Contoh kajian: pilih kasus sederhana yang berkaitan dengan AKUNTANSI SEBAGAI INFORMASI dalam bidang Pengantar Akuntansi Dasar. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
 
 KEGIATAN BELAJAR
-1. Buat ringkasan satu paragraf tanpa menyalin kalimat buku.
-2. Susun diagram yang menunjukkan hubungan antar konsep.
-3. Temukan contoh yang sesuai dan contoh yang tidak sesuai.
-4. Jelaskan mengapa suatu kesimpulan dapat berubah ketika informasi baru ditemukan.
-5. Diskusikan hasilnya dengan tetap menghargai perbedaan pendapat.
+1. Jelaskan satu istilah kunci dari AKUNTANSI SEBAGAI INFORMASI dengan kalimat sendiri.
+2. Buat bagan yang menunjukkan hubungan antarkonsep.
+3. Terapkan konsep pada satu contoh yang relevan dengan Pengantar Akuntansi Dasar.
+4. Tunjukkan asumsi atau kondisi yang dapat mengubah hasil.
+5. Sajikan kesimpulan beserta bukti pendukungnya.
 
 LATIHAN
 1. Definisikan tiga istilah penting.
@@ -53,17 +53,17 @@ BAB 6. PENGENDALIAN DAN ETIKA
 Pemisahan tugas, persetujuan, rekonsiliasi, dan penyimpanan dokumen membantu mengurangi kesalahan serta penyalahgunaan. Akuntansi harus menyajikan informasi secara jujur dan tidak sengaja menghilangkan kewajiban atau membesar-besarkan pendapatan. Data keuangan juga perlu dijaga kerahasiaannya.
 
 PROYEK TERPADU
-Rancang kajian kecil yang menghubungkan beberapa bab. Tentukan masalah, tujuan, pertanyaan, metode, data yang diperlukan, dan batasan. Pilih metode yang aman serta sesuai kemampuan. Sajikan hasil dengan bahasa jelas dan pisahkan temuan dari dugaan. Jika menggunakan data orang lain, jaga privasi dan sebutkan sumbernya.
+Buat kajian mini untuk Pengantar Akuntansi Dasar dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Buat peta konsep seluruh buku.
-2. Jelaskan tiga hubungan antarbab.
-3. Analisis satu kasus dengan menyebutkan bukti dan asumsi.
-4. Bandingkan dua pendekatan penyelesaian masalah.
-5. Tulis kesimpulan yang proporsional dan sebutkan informasi tambahan yang masih dibutuhkan.
+1. Terangkan konsep inti dari PENGENDALIAN DAN ETIKA dan perannya dalam bidang ini.
+2. Hubungkan tiga gagasan dari bab yang berbeda.
+3. Analisis sebuah kasus menggunakan konsep buku Pengantar Akuntansi Dasar.
+4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
+5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 PEDOMAN PENILAIAN
-Gunakan ketepatan konsep, kecermatan bukti, konsistensi penalaran, dan kejelasan komunikasi sebagai kriteria. Kesimpulan yang berbeda dapat diterima jika didukung bukti yang relevan dan tidak mengabaikan fakta penting.
+Nilai pemahaman Pengantar Akuntansi Dasar berdasarkan ketepatan konsep, kecocokan metode, mutu bukti, dan kemampuan menerapkan materi. Jawaban harus menunjukkan alasan yang dapat diperiksa serta menyebutkan keterbatasan informasi bila ada.
 
 GLOSARIUM
 Aset: Sumber daya yang dikendalikan entitas.
@@ -72,8 +72,8 @@ Ekuitas: Hak residual atas aset setelah dikurangi kewajiban.
 Jurnal: Catatan transaksi secara kronologis.
 Rekonsiliasi: Pencocokan dua catatan untuk menemukan selisih.
 
-CATATAN BELAJAR DAN SUMBER
-Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar dan publikasi lembaga kompeten. Catat penulis atau lembaga, judul, tahun, dan bagian sumber. Periksa tanggal pembaruan terutama untuk pengetahuan yang berkembang, peraturan, teknologi, dan data statistik.
+CATATAN SUMBER
+Naskah Pengantar Akuntansi Dasar merupakan materi pembelajaran orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, atau sumber lembaga yang sesuai dengan bidang ini. Catat penulis, judul, tahun, dan bagian yang digunakan; periksa relevansi serta tanggal pembaruan sumber.
 
 BAB LANJUTAN: SIKLUS AKUNTANSI DAN PENGENDALIAN KEUANGAN
 

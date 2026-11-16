@@ -221,3 +221,34 @@ Korelasi: Ukuran atau gambaran hubungan antarvariabel.
 Runtun waktu: Data yang dicatat menurut urutan waktu.
 Kunci utama: Kolom atau kombinasi kolom yang mengidentifikasi rekaman secara unik.
 Integritas data: Keutuhan, konsistensi, dan ketepatan data sepanjang siklus penggunaannya.
+
+BAB LANJUTAN: PEMODELAN DATA DAN REKAYASA FITUR
+
+Pemodelan data dimulai dengan memahami unit analisis dan tujuan. Satu baris tabel seharusnya mewakili entitas atau kejadian yang konsisten. Jika satu baris kadang mewakili pelanggan dan kadang transaksi, agregasi dapat menghasilkan kesimpulan keliru. Kamus data membantu menjelaskan nama, tipe, satuan, rentang, dan arti setiap kolom.
+
+Rekayasa fitur mengubah data mentah menjadi representasi yang lebih berguna untuk analisis. Contohnya menghitung selang waktu, mengelompokkan kategori, atau membuat indikator dari beberapa kolom. Setiap transformasi harus memiliki alasan substantif. Fitur yang menggunakan informasi masa depan untuk memprediksi masa lalu menyebabkan kebocoran data dan menghasilkan kinerja semu.
+
+Normalisasi, pengodean kategori, dan transformasi skala harus dipilih sesuai metode. Parameter transformasi sebaiknya dipelajari dari data pelatihan saja lalu diterapkan pada data validasi. Langkah ini mencegah informasi dari data pengujian memengaruhi proses pelatihan.
+
+BAB LANJUTAN: KUALITAS DATA DAN PENGENDALIAN PROSES
+
+Kualitas data mencakup akurasi, kelengkapan, konsistensi, validitas, ketepatan waktu, dan keunikan. Dimensi yang paling penting bergantung pada penggunaan. Data alamat untuk pengiriman memerlukan ketepatan lokasi, sedangkan data sensor memerlukan konsistensi satuan dan waktu.
+
+Aturan validasi dapat memeriksa rentang nilai, format, hubungan antar kolom, dan duplikasi. Namun aturan harus memahami konteks agar variasi yang sah tidak salah ditandai sebagai kesalahan. Simpan nilai asli ketika transformasi dilakukan dan dokumentasikan alasan koreksi.
+
+Proses pengolahan yang dapat diulang menggunakan skrip atau langkah terdokumentasi. Catat sumber, tanggal pengambilan, versi, perubahan skema, dan keputusan pembersihan. Untuk data pribadi, gunakan pembatasan akses, pengurangan identitas, serta masa simpan yang sesuai tujuan.
+
+BAB LANJUTAN: DATA BESAR, PRIVASI, DAN TATA KELOLA
+
+Volume data yang besar tidak otomatis menghasilkan informasi yang baik. Data yang dikumpulkan secara berlebihan dapat meningkatkan biaya, risiko privasi, dan kompleksitas. Tentukan tujuan sebelum pengumpulan dan pilih data minimum yang diperlukan.
+
+Penggabungan beberapa sumber dapat meningkatkan kegunaan tetapi juga memungkinkan identifikasi ulang. Data yang tampak anonim dapat menjadi sensitif ketika digabung dengan lokasi, waktu, atau atribut langka. Pengendalian perlu mencakup akses berbasis peran, audit, enkripsi, dan prosedur penghapusan sesuai kebijakan.
+
+Tata kelola data menetapkan siapa pemilik keputusan, siapa pengelola teknis, siapa pengguna, dan bagaimana kualitas dipantau. Ketika data dipakai untuk keputusan yang memengaruhi orang, perlu ada penjelasan, jalur koreksi, dan pemeriksaan dampak yang tidak adil.
+
+LATIHAN PENDALAMAN
+1. Mengapa unit analisis harus ditentukan sebelum membuat tabel?
+2. Apa itu kebocoran data dalam pemodelan?
+3. Sebutkan enam dimensi kualitas data.
+4. Mengapa data anonim dapat berisiko diidentifikasi ulang?
+5. Apa manfaat kamus data dan dokumentasi transformasi?

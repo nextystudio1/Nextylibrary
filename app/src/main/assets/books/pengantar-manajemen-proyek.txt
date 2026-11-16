@@ -16,17 +16,24 @@ PENDALAMAN
 Pada APA ITU PROYEK, bedakan fakta, aturan, kepentingan, dan penilaian. Identifikasi pihak yang terlibat serta kelompok yang terdampak. Bandingkan sumber dan sudut pandang sebelum menyusun kesimpulan agar konteks tidak terabaikan.
 
 AKTIVITAS PENGAMATAN
-Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+Pilih proyek sederhana yang sudah selesai atau sedang berjalan, seperti kegiatan sekolah atau pembuatan produk. Petakan tujuan, hasil yang diharapkan, pemangku kepentingan, jadwal, sumber daya, dan risiko. Bandingkan rencana awal dengan hasil yang terlihat dari informasi yang tersedia.
 
 LATIHAN
-1. Jelaskan konsep utama tanpa menyalin kalimat buku.
+1. Bedakan ruang lingkup proyek dari kegiatan operasional rutin.
+2. Jelaskan hubungan tujuan, keluaran, jadwal, dan anggaran.
+3. Buat contoh ketergantungan antara dua kegiatan proyek.
+4. Bagaimana perubahan ruang lingkup dapat memengaruhi waktu dan biaya?
+5. Tentukan cara melaporkan kemajuan proyek secara jujur kepada pemangku kepentingan.
 2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
 3. Berikan satu contoh dan satu contoh pembanding.
 4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
 5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
 
 RANGKUMAN
-- Pahami istilah dan batas penggunaannya.
+- Proyek memiliki tujuan, batas waktu, sumber daya, dan hasil yang ditentukan.
+- Perencanaan menghubungkan ruang lingkup, jadwal, biaya, mutu, dan risiko.
+- Komunikasi membantu menyelaraskan keputusan para pemangku kepentingan.
+- Pemantauan membandingkan kemajuan aktual dengan rencana dan memicu tindakan korektif.
 - Hubungkan konsep dengan bukti yang relevan.
 - Perhatikan konteks serta kemungkinan penjelasan lain.
 - Sampaikan kesimpulan secara proporsional.
@@ -52,17 +59,21 @@ BAB 6. PENUTUPAN DAN PEMBELAJARAN
 Proyek ditutup dengan pemeriksaan hasil, serah terima, dokumentasi, dan evaluasi. Tinjauan akhir mencari hal yang berhasil dan yang perlu diperbaiki tanpa budaya saling menyalahkan. Pelajaran disimpan agar proyek berikutnya dapat membuat estimasi dan keputusan lebih baik.
 
 TUGAS TERPADU
-Buat laporan mini yang menghubungkan sekurang-kurangnya tiga bab. Tentukan tujuan, pertanyaan, metode, sumber informasi, dan batasan. Sajikan temuan secara runtut. Bedakan data yang diamati dari tafsiran. Jika informasi belum cukup, nyatakan dengan jujur dan jelaskan apa yang perlu dikumpulkan berikutnya.
+Buat dokumen awal untuk proyek kecil: piagam proyek, daftar hasil, struktur pekerjaan, jadwal sederhana, perkiraan sumber daya, daftar risiko, dan rencana komunikasi. Tentukan kriteria penerimaan hasil serta cara menangani perubahan. Jelaskan asumsi yang digunakan dalam estimasi.
 
 EVALUASI AKHIR
-1. Tuliskan lima konsep inti dan definisinya.
+1. Apa fungsi piagam proyek dan siapa yang perlu menyetujuinya?
+2. Jelaskan cara memecah ruang lingkup menjadi paket pekerjaan.
+3. Bagaimana jalur kritis memengaruhi durasi proyek?
+4. Bandingkan risiko, masalah aktual, dan perubahan ruang lingkup.
+5. Buat indikator untuk menilai keberhasilan proyek selain ketepatan waktu.
 2. Jelaskan hubungan antara tiga konsep berbeda.
 3. Analisis satu contoh dengan menggunakan bukti.
 4. Bandingkan dua pendekatan atau penjelasan.
 5. Buat kesimpulan dan nyatakan keterbatasannya.
 
 PEDOMAN PENILAIAN
-Periksa ketepatan istilah, kualitas bukti, alur penalaran, relevansi contoh, dan kejelasan bahasa. Jawaban dapat bervariasi jika alasan dan buktinya kuat. Hindari klaim mutlak ketika data hanya mendukung kesimpulan terbatas.
+Periksa keterukuran tujuan, kelengkapan ruang lingkup, konsistensi jadwal dan sumber daya, identifikasi risiko, serta kejelasan komunikasi. Rencana yang baik menyatakan asumsi dan menyediakan cara menilai perubahan.
 
 GLOSARIUM
 Ruang lingkup: Batas pekerjaan dan hasil proyek.

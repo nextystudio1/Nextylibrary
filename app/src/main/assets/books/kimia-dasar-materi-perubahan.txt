@@ -166,3 +166,25 @@ GLOSARIUM
 Ikatan ion: tarik-menarik elektrostatik antarion.
 Ikatan kovalen: ikatan melalui pemakaian pasangan elektron bersama.
 Elektron terdelokalisasi: elektron yang tidak terikat pada satu atom tertentu.
+BAB LANJUTAN — IKATAN KIMIA DAN BENTUK MOLEKUL
+Atom dapat membentuk ikatan untuk mencapai susunan elektron yang lebih stabil. Ikatan ion terbentuk melalui tarikan elektrostatik antara ion bermuatan berlawanan. Ikatan kovalen melibatkan pemakaian bersama pasangan elektron. Ikatan logam melibatkan elektron valensi yang terdelokalisasi di antara banyak atom logam.
+Jenis ikatan membantu menjelaskan sifat zat, tetapi sifat makroskopis juga dipengaruhi struktur dan susunan partikel. Senyawa ion umumnya memiliki titik leleh tinggi dan dapat menghantarkan listrik ketika cair atau terlarut, karena ion dapat bergerak. Padatan ion tidak menghantarkan listrik dengan baik karena ionnya terikat pada posisi kisi.
+Bentuk molekul memengaruhi kepolaran dan interaksi antarmolekul. Perbedaan keelektronegatifan dapat menghasilkan ikatan polar, tetapi bentuk molekul menentukan apakah momen dipol saling meniadakan. Air berbentuk bengkok sehingga bersifat polar, sedangkan beberapa molekul simetris dapat bersifat nonpolar meskipun memiliki ikatan polar.
+Hubungan struktur dan sifat dapat digunakan untuk memperkirakan kelarutan, titik didih, kekerasan, dan konduktivitas. Prediksi tetap perlu diuji karena banyak faktor bekerja secara bersamaan.
+
+BAB LANJUTAN — STOIKIOMETRI DAN KONSEP MOL
+Persamaan reaksi kimia harus setara karena jumlah atom setiap unsur dipertahankan. Koefisien menyatakan perbandingan jumlah partikel atau mol, bukan massa secara langsung. Hukum kekekalan massa menjadi dasar penyetaraan persamaan.
+Mol adalah satuan jumlah zat. Massa molar menghubungkan massa dengan jumlah mol. Dengan persamaan setara, perbandingan koefisien digunakan untuk menghitung kebutuhan pereaksi dan hasil reaksi secara teoritis.
+Dalam praktik, hasil aktual dapat lebih rendah daripada hasil teoritis karena reaksi tidak berlangsung sempurna, terjadi reaksi samping, atau ada kehilangan saat pemisahan. Pereaksi pembatas adalah pereaksi yang habis lebih dahulu dan menentukan jumlah maksimum produk.
+Latihan: setarakan persamaan sederhana, ubah massa menjadi mol menggunakan massa molar yang diberikan, lalu gunakan rasio koefisien untuk menentukan jumlah produk. Tuliskan satuan pada setiap langkah agar kesalahan mudah ditemukan.
+
+BAB LANJUTAN — LARUTAN, KONSENTRASI, DAN pH
+Larutan terdiri atas pelarut dan zat terlarut. Konsentrasi menyatakan banyaknya zat terlarut dalam jumlah larutan atau pelarut tertentu. Molaritas menyatakan mol zat terlarut per liter larutan. Persen massa dan bagian per sejuta digunakan pada konteks konsentrasi lain.
+Pengenceran menurunkan konsentrasi dengan menambah pelarut, sementara jumlah mol zat terlarut tetap jika tidak ada zat yang hilang atau bereaksi. Hubungan konsentrasi awal, volume awal, konsentrasi akhir, dan volume akhir dapat digunakan pada perhitungan pengenceran.
+pH berkaitan dengan aktivitas ion hidrogen dalam larutan. Skala pH bersifat logaritmik, sehingga perubahan satu satuan pH menunjukkan perubahan sepuluh kali pada aktivitas ion hidrogen dalam pendekatan larutan encer. Nilai pH perlu diukur dengan prosedur dan alat yang sesuai.
+Asam dan basa memiliki peran dalam sistem biologis, pengolahan air, pertanian, dan industri. Jangan mencampur bahan kimia rumah tangga untuk percobaan; beberapa campuran dapat menghasilkan gas atau panas berbahaya. Kegiatan laboratorium harus mengikuti instruksi guru dan lembar keselamatan.
+
+BAB LANJUTAN — KIMIA LINGKUNGAN DAN KEHIDUPAN
+Kimia lingkungan mempelajari zat dan reaksi di udara, air, tanah, serta organisme. Polutan dapat berasal dari proses alam maupun aktivitas manusia. Dampak ditentukan oleh jenis zat, konsentrasi, lama paparan, jalur masuk, dan kerentanan organisme.
+Siklus karbon menghubungkan atmosfer, laut, tanah, batuan, dan makhluk hidup. Pembakaran bahan bakar fosil memindahkan karbon yang tersimpan lama ke atmosfer dalam bentuk karbon dioksida. Perubahan konsentrasi gas rumah kaca memengaruhi keseimbangan energi Bumi.
+Pengolahan air memanfaatkan proses fisika dan kimia seperti penyaringan, pengendapan, adsorpsi, dan disinfeksi. Tidak semua air jernih aman diminum; pengujian mikrobiologi dan kimia diperlukan sesuai standar. Materi ini tidak menggantikan panduan lembaga kesehatan atau penyedia air.

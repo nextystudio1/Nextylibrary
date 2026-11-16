@@ -308,3 +308,23 @@ Buat program daftar tugas sederhana yang dapat menambah, menampilkan, dan menand
 
 RANGKUMAN BAB
 Struktur data, fungsi, penanganan kesalahan, dan analisis kompleksitas membantu membuat program yang teratur dan dapat dirawat. Program yang baik bukan hanya berjalan, tetapi juga dapat diuji dan dipahami orang lain.
+
+BAB BASIS DATA DAN PENGELOLAAN INFORMASI
+Basis data menyimpan informasi secara terstruktur agar dapat dicari, diperbarui, dan dianalisis. Tabel relasional mengatur data dalam baris dan kolom. Kunci utama mengidentifikasi setiap baris secara unik, sedangkan kunci asing menghubungkan tabel. Desain yang baik mengurangi duplikasi dan menjaga konsistensi.
+
+Operasi dasar basis data meliputi membuat, membaca, memperbarui, dan menghapus data. Validasi masukan membantu mencegah data kosong atau tidak sesuai format. Aplikasi harus membatasi hak akses berdasarkan kebutuhan, menyimpan kata sandi secara aman menggunakan mekanisme yang sesuai, dan tidak menampilkan informasi sensitif tanpa alasan.
+
+JARINGAN DAN INTERNET
+Jaringan komputer menghubungkan perangkat agar dapat bertukar data. Alamat IP membantu mengidentifikasi antarmuka jaringan, sedangkan DNS menerjemahkan nama domain menjadi alamat yang digunakan jaringan. Protokol mengatur cara perangkat berkomunikasi. Internet merupakan jaringan dari banyak jaringan yang menggunakan standar bersama.
+
+KEAMANAN PERANGKAT LUNAK
+Keamanan perlu dipertimbangkan sejak tahap rancangan. Validasi masukan, pembaruan dependensi, pengelolaan sesi, pencadangan, dan pengujian membantu mengurangi risiko. Jangan menyimpan rahasia seperti token atau kata sandi di repositori publik. Gunakan layanan resmi dan ikuti panduan keamanan dari pengelola platform.
+
+DOKUMENTASI DAN PEMELIHARAAN
+Dokumentasi menjelaskan tujuan, cara memasang, konfigurasi, penggunaan, dan batasan program. Catatan perubahan membantu pengembang memahami alasan perbaikan. Pemeliharaan mencakup memperbaiki bug, memperbarui pustaka, memantau kinerja, dan menanggapi masukan pengguna.
+
+LATIHAN
+Rancang basis data sederhana untuk katalog buku dengan tabel buku dan kategori. Tentukan kunci utama, relasi, serta tiga aturan validasi. Gunakan data fiktif dan jangan memasukkan informasi pribadi.
+
+RANGKUMAN BAB
+Basis data, jaringan, keamanan, dan dokumentasi merupakan bagian penting pengembangan perangkat lunak. Aplikasi yang berguna harus menjaga integritas data serta dapat dipelihara.

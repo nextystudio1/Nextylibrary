@@ -335,3 +335,23 @@ Rancang ide sistem AI untuk mengelompokkan sampah berdasarkan foto. Tuliskan kat
 
 RANGKUMAN BAB
 AI adalah bagian dari sistem sosial dan teknis. Kualitas data, rancangan evaluasi, mekanisme ketidakpastian, dan pengawasan manusia menentukan apakah penerapannya bermanfaat.
+
+BAB VISI KOMPUTER DAN PEMROSESAN BAHASA
+Visi komputer adalah bidang AI yang mengolah gambar atau video untuk tugas seperti klasifikasi, deteksi objek, segmentasi, dan pengenalan pola. Hasil bergantung pada kualitas gambar, pencahayaan, sudut, variasi objek, serta data pelatihan. Sistem yang diuji pada foto laboratorium dapat bekerja berbeda pada kondisi jalan atau ruang kelas.
+
+Pemrosesan bahasa alami mempelajari cara komputer mengolah teks dan ujaran. Tugasnya meliputi klasifikasi teks, penerjemahan, pencarian informasi, pengenalan suara, dan peringkasan. Bahasa memiliki ambiguitas, konteks budaya, ironi, dan variasi dialek yang membuat pemrosesan tidak selalu sederhana.
+
+SISTEM MULTIMODAL
+Sistem multimodal menggabungkan beberapa jenis masukan seperti teks, gambar, audio, atau video. Penggabungan modalitas dapat memberi konteks lebih kaya, tetapi juga menambah risiko kesalahan dan privasi. Sistem dapat salah menghubungkan teks dengan bagian gambar atau mengabaikan informasi yang tidak terlihat dalam potongan data.
+
+PENGUJIAN DI DUNIA NYATA
+Model perlu diuji pada lingkungan yang mirip dengan tempat penerapan. Uji coba harus mencakup variasi kondisi, kelompok pengguna, perangkat, dan kasus gagal. Pantau perubahan kinerja dari waktu ke waktu karena data dan perilaku pengguna dapat berubah. Sediakan cara melaporkan kesalahan dan memperbaiki sistem.
+
+AI DAN AKSESIBILITAS
+Teknologi pengenalan suara, pembaca teks, deskripsi gambar, dan penerjemahan dapat membantu akses informasi. Namun, alat bantu harus diuji bersama pengguna yang membutuhkan, menghormati preferensi mereka, dan tidak menggantikan pilihan atau kendali pengguna. Akurasi untuk bahasa dan dialek yang kurang terwakili perlu diperhatikan.
+
+LATIHAN
+Rancang evaluasi sederhana untuk sistem klasifikasi gambar benda sekolah. Buat daftar variasi pencahayaan, sudut, latar, dan benda yang mirip. Tentukan cara mencatat salah klasifikasi serta kapan sistem harus menyatakan tidak yakin.
+
+RANGKUMAN BAB
+Visi komputer, pemrosesan bahasa, dan AI multimodal membuka banyak kemungkinan, tetapi kualitas penerapan ditentukan pengujian nyata, aksesibilitas, dan pengelolaan kegagalan.

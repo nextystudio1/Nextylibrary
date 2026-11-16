@@ -337,3 +337,23 @@ PENUTUP BAGIAN PENGEMBANGAN
 Statistika bukan mesin yang otomatis menghasilkan kebenaran. Kualitas kesimpulan bergantung pada pertanyaan, cara data dikumpulkan, definisi yang digunakan, analisis, dan kejujuran pelaporan. Angka yang tampak meyakinkan tetap perlu diperiksa. Pembaca yang cermat tidak hanya bertanya “berapa hasilnya?”, tetapi juga “dari mana data berasal, bagaimana hasil dihitung, dan apa batas kesimpulannya?”
 
 Akhir buku.
+
+BAB PENGUJIAN HIPOTESIS
+Pengujian hipotesis menggunakan data sampel untuk menilai apakah hasil yang diamati cukup tidak selaras dengan hipotesis nol menurut model statistik. Hipotesis nol biasanya menyatakan tidak ada perbedaan atau hubungan tertentu, sedangkan hipotesis alternatif menyatakan pola yang ingin diperiksa. Rumusan harus dibuat sebelum melihat hasil agar analisis tidak dipilih hanya untuk mendapatkan kesimpulan yang diinginkan.
+
+Nilai-p adalah peluang memperoleh data setidaknya sama ekstrem dengan yang diamati jika hipotesis nol dan asumsi model benar. Nilai-p bukan peluang hipotesis nol benar, bukan ukuran besarnya efek, dan bukan bukti bahwa hasil penting secara praktis. Hasil harus dibaca bersama ukuran efek, interval ketidakpastian, kualitas data, dan rancangan penelitian.
+
+KESALAHAN TIPE I DAN II
+Kesalahan tipe I terjadi ketika hipotesis nol ditolak padahal benar, sedangkan kesalahan tipe II terjadi ketika gagal menolak hipotesis nol padahal alternatif benar. Ukuran sampel, variasi data, besar efek, dan ambang keputusan memengaruhi peluang kesalahan. “Tidak signifikan” tidak berarti pasti tidak ada efek; mungkin data belum cukup informatif.
+
+PERBANDINGAN BANYAK KELOMPOK
+Ketika banyak hipotesis diuji, peluang menemukan hasil signifikan secara kebetulan dapat meningkat. Peneliti perlu merencanakan analisis, menggunakan koreksi yang sesuai bila diperlukan, dan melaporkan semua pengujian yang relevan. Memilih hanya hasil yang menarik dapat memberi gambaran yang menyesatkan.
+
+SIGNIFIKANSI PRAKTIS
+Perbedaan kecil dapat signifikan secara statistik pada sampel sangat besar, tetapi belum tentu penting dalam praktik. Sebaliknya, efek yang bermakna dapat tidak terdeteksi pada sampel kecil. Keputusan harus mempertimbangkan konteks, biaya, manfaat, risiko, dan kualitas bukti.
+
+LATIHAN
+Gunakan data simulasi dua kelompok dengan rata-rata berbeda. Jelaskan perbedaan antara besar efek dan nilai-p. Tuliskan informasi tambahan yang diperlukan sebelum menyimpulkan bahwa satu metode pembelajaran lebih baik.
+
+RANGKUMAN BAB
+Pengujian hipotesis membantu menilai bukti dalam kerangka asumsi tertentu. Nilai-p, kesalahan statistik, ukuran efek, dan signifikansi praktis harus ditafsirkan bersama.

@@ -408,3 +408,21 @@ Rancang survei anonim simulasi tentang moda transportasi ke sekolah. Tentukan po
 
 RANGKUMAN BAB
 Statistika yang dapat dipercaya dimulai dari desain pengumpulan data. Sampel, bias, distribusi, interval, korelasi, dan etika menentukan seberapa jauh kesimpulan dapat diterapkan.
+
+BAB REGRESI DAN PERAMALAN
+Regresi memodelkan hubungan antara variabel respons dan satu atau lebih variabel penjelas. Regresi linear sederhana menggunakan garis untuk merangkum pola hubungan linear. Kemiringan menunjukkan perubahan rata-rata respons yang diperkirakan untuk kenaikan satu unit variabel penjelas, sesuai model dan satuannya. Intersep adalah nilai prediksi ketika variabel penjelas bernilai nol, tetapi belum tentu memiliki makna praktis.
+
+SISAAN DAN KECocokan MODEL
+Sisaan adalah selisih antara nilai pengamatan dan nilai prediksi. Pola sisaan dapat menunjukkan bahwa model linear tidak sesuai, varians tidak konstan, atau ada pengamatan berpengaruh. Nilai R-kuadrat menjelaskan proporsi variasi data yang diterangkan model dalam konteks tertentu, tetapi tidak membuktikan sebab-akibat atau menjamin prediksi akurat.
+
+PERAMALAN DAN KETIDAKPASTIAN
+Peramalan menggunakan pola data masa lalu untuk memperkirakan nilai mendatang. Hasil perlu disertai rentang ketidakpastian dan asumsi bahwa pola relevan tidak berubah drastis. Peramalan jangka panjang biasanya lebih tidak pasti. Peristiwa luar biasa, perubahan kebijakan, atau gangguan sistem dapat membuat model historis tidak berlaku.
+
+DATA WAKTU
+Data runtun waktu memiliki urutan waktu dan dapat menunjukkan tren, musiman, siklus, serta variasi acak. Pemisahan data pelatihan dan pengujian harus mengikuti urutan waktu agar informasi masa depan tidak bocor ke masa lalu. Membandingkan model dengan perkiraan dasar sederhana membantu mengetahui apakah model kompleks benar-benar memberi nilai tambah.
+
+LATIHAN
+Gunakan data simulasi suhu harian selama beberapa minggu. Buat grafik, identifikasi tren dan variasi, lalu buat perkiraan sederhana untuk hari berikutnya. Jelaskan mengapa ramalan tidak boleh dianggap sebagai kepastian cuaca.
+
+RANGKUMAN BAB
+Regresi dan peramalan merangkum pola serta membantu membuat perkiraan, tetapi kualitasnya bergantung pada asumsi, pemeriksaan sisaan, dan ketidakpastian.

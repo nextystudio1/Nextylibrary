@@ -314,3 +314,23 @@ Ambil satu grafik dari laporan publik. Catat judul, sumber data, tahun, satuan, 
 
 RANGKUMAN BAB
 Literasi media memerlukan kemampuan membaca visualisasi data, membedakan sumber primer dan sekunder, menilai bukti sains, serta mengenali kepentingan komersial. Konteks dan penyebut sering menentukan arti sebuah angka.
+
+BAB MENILAI KREDIBILITAS SUMBER
+Kredibilitas sumber tidak ditentukan hanya oleh tampilan profesional atau jumlah pengikut. Periksa kompetensi penulis pada topik tersebut, transparansi metode, bukti yang disertakan, tanggal publikasi, koreksi, dan hubungan kepentingan. Sumber yang baik memungkinkan pembaca menelusuri dasar klaimnya.
+
+Lembaga resmi dapat menjadi rujukan utama untuk data dan kebijakan yang berada dalam kewenangannya, tetapi tetap periksa definisi, tanggal, dan ruang lingkup data. Media berita dapat membantu memberi konteks, sementara jurnal ilmiah menyajikan penelitian dengan metode tertentu. Setiap jenis sumber memiliki fungsi dan keterbatasan.
+
+PENCARIAN INFORMASI YANG EFEKTIF
+Mulailah dengan merumuskan pertanyaan spesifik. Gunakan kata kunci yang mewakili konsep utama, rentang waktu, wilayah, dan jenis sumber. Cari dokumen asli jika sebuah artikel mengutip laporan. Bandingkan beberapa sumber independen dan perhatikan apakah mereka mengacu pada bukti yang sama atau hanya saling mengutip.
+
+KOREKSI DAN KETIDAKPASTIAN
+Informasi dapat berubah ketika bukti baru tersedia. Sumber yang bertanggung jawab memperbarui atau mengoreksi kesalahan secara terbuka. Pembaca perlu membedakan “belum diketahui”, “bukti terbatas”, dan “terbukti tidak benar”. Ketiganya memiliki arti berbeda. Mengakui ketidakpastian bukan tanda kelemahan, melainkan bagian dari ketelitian.
+
+MENGOMUNIKASIKAN TEMUAN
+Saat membagikan hasil pemeriksaan, tuliskan klaim yang diperiksa, sumber utama, tanggal, dan kesimpulan. Hindari judul sensasional yang lebih kuat daripada isi bukti. Jika menemukan kesalahan pada unggahan sendiri, koreksi dengan jelas dan jangan menghapus konteks yang diperlukan untuk memahami perubahan.
+
+LATIHAN
+Pilih satu klaim informasi publik yang tidak menyangkut individu. Telusuri sumber asal, identifikasi penulis dan tanggal, lalu bandingkan dengan dua sumber independen. Buat ringkasan yang memisahkan fakta, interpretasi, dan hal yang belum diketahui.
+
+RANGKUMAN BAB
+Kredibilitas dibangun melalui kompetensi, transparansi, bukti, dan koreksi. Pencarian yang baik menelusuri sumber asal serta menyampaikan kesimpulan secara proporsional.

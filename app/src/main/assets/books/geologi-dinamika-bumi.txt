@@ -319,3 +319,20 @@ Amati peta geologi atau peta risiko resmi wilayah yang dipilih. Catat legenda, s
 
 RANGKUMAN BAB
 Siklus batuan, proses permukaan, air tanah, dan bahaya geologi membentuk bentang alam. Geologi memberi dasar ilmiah bagi pemanfaatan sumber daya dan pengurangan risiko bencana.
+
+BAB TEKTONIK LEMPENG DAN PEMBENTUKAN PEGUNUNGAN
+Litosfer Bumi terbagi menjadi lempeng yang bergerak relatif di atas bagian mantel yang lebih mudah berubah bentuk dalam skala geologi. Batas divergen terjadi ketika lempeng saling menjauh, konvergen ketika saling mendekat, dan transform ketika bergerak saling menggeser. Aktivitas gempa, gunung api, dan pembentukan pegunungan banyak berkaitan dengan batas lempeng, meskipun tidak semua terjadi tepat di batas.
+
+Pada zona subduksi, satu lempeng menunjam ke bawah lempeng lain. Proses ini dapat membentuk palung laut, busur gunung api, dan gempa besar. Tumbukan benua dapat menebalkan kerak dan membentuk pegunungan. Punggung tengah samudra terbentuk di zona pemekaran dasar laut dan menjadi tempat pembentukan kerak samudra baru.
+
+GUNUNG API DAN MATERIAL ERUPSI
+Magma adalah batuan cair di bawah permukaan, sedangkan lava adalah magma yang mencapai permukaan. Erupsi dapat menghasilkan lava, abu, gas, dan aliran piroklastik. Jenis bahaya bergantung pada komposisi magma, kandungan gas, viskositas, dan kondisi gunung api. Informasi status dan rekomendasi keselamatan harus mengikuti otoritas kebencanaan resmi.
+
+GEMPA DAN SESAR
+Sesar adalah rekahan tempat batuan mengalami perpindahan. Gempa terjadi ketika tegangan yang terakumulasi dilepaskan secara tiba-tiba. Kedalaman, magnitudo, jarak, kondisi tanah, dan kualitas bangunan memengaruhi dampak guncangan. Magnitudo bukan ukuran langsung kerusakan di setiap lokasi.
+
+LATIHAN
+Gunakan peta tektonik resmi untuk menandai batas lempeng di sekitar Indonesia. Jelaskan hubungan umum zona subduksi dengan gempa dan gunung api. Jangan menafsirkan peta sebagai prediksi waktu terjadinya gempa.
+
+RANGKUMAN BAB
+Tektonik lempeng menjelaskan banyak proses geologi besar. Pemahaman bahaya membantu perencanaan, tetapi gempa dan erupsi tidak dapat diprediksi secara tepat hanya dari pola sederhana.

@@ -277,3 +277,23 @@ NASA — Solar System Exploration: https://science.nasa.gov/solar-system/
 NASA Exoplanet Exploration: https://exoplanets.nasa.gov/
 European Space Agency — Space Science: https://www.esa.int/Science_Exploration/Space_Science
 Sumber daring diperiksa kembali sebelum digunakan untuk pembaruan edisi berikutnya.
+
+BAB BINTANG: MASSA, WARNA, DAN EVOLUSI
+Bintang adalah bola plasma yang menghasilkan energi melalui proses di bagian dalamnya. Massa awal merupakan salah satu faktor utama yang menentukan suhu, luminositas, umur, dan tahap akhir evolusi bintang. Bintang bermassa rendah menghabiskan waktu sangat lama pada tahap deret utama, sedangkan bintang bermassa besar menggunakan bahan bakar lebih cepat dan memiliki umur lebih singkat.
+
+Warna bintang berkaitan dengan suhu permukaan: bintang yang lebih panas tampak lebih biru, sedangkan yang lebih dingin tampak lebih merah. Warna yang terlihat juga dapat dipengaruhi atmosfer Bumi, debu antarbintang, dan instrumen. Diagram Hertzsprung–Russell membandingkan luminositas dengan suhu atau tipe spektral dan membantu mengelompokkan tahap evolusi bintang.
+
+SUPERNOVA DAN SISA BINTANG
+Sebagian bintang bermassa besar mengakhiri evolusi melalui ledakan supernova yang menyebarkan unsur ke ruang antarbintang. Inti yang tersisa dapat menjadi bintang neutron atau lubang hitam, bergantung pada massa dan proses keruntuhan. Bintang bermassa lebih rendah dapat melepaskan lapisan luarnya dan meninggalkan katai putih.
+
+UNSUR KIMIA DARI BINTANG
+Fusi di dalam bintang membentuk unsur hingga tahap tertentu, sementara proses pada peristiwa bintang dan lingkungan ekstrem menghasilkan unsur lain. Materi yang tersebar kemudian menjadi bagian dari awan gas dan debu yang dapat membentuk generasi bintang serta planet berikutnya. Unsur dalam tubuh manusia memiliki sejarah kosmik yang panjang, meskipun jalur pembentukannya berbeda untuk tiap unsur.
+
+MENGUKUR CAHAYA BINTANG
+Spektrum cahaya dapat menunjukkan garis serapan dan emisi yang berkaitan dengan unsur, suhu, gerak, dan kondisi fisik. Pergeseran garis spektrum membantu mengukur gerak radial melalui efek Doppler. Pengukuran ini memungkinkan astronom mempelajari objek yang terlalu jauh untuk dikunjungi.
+
+LATIHAN
+Bandingkan diagram evolusi dua bintang dengan massa awal berbeda menggunakan sumber astronomi pendidikan. Jelaskan mengapa bintang bermassa besar umumnya memiliki umur lebih pendek. Bedakan fakta yang diamati dari model teoretis yang digunakan untuk menafsirkannya.
+
+RANGKUMAN BAB
+Massa, suhu, spektrum, dan evolusi bintang menjelaskan bagaimana bintang lahir, menghasilkan energi, dan berakhir. Unsur yang tersebar dari generasi bintang berkontribusi pada pembentukan sistem planet berikutnya.

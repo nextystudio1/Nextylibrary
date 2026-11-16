@@ -382,3 +382,21 @@ Bayangkan sekolah memiliki anggaran terbatas untuk memperbaiki perpustakaan atau
 
 RANGKUMAN BAB
 Ekonomi sehari-hari membantu menilai pilihan, insentif, pendapatan, inflasi, tenaga kerja, dan barang bersama. Analisis yang baik menyebutkan alternatif yang dilepas serta siapa yang menerima manfaat dan menanggung biaya.
+
+BAB KEWIRAUSAHAAN DAN MODEL USAHA
+Kegiatan usaha menggabungkan sumber daya untuk menghasilkan barang atau jasa yang dibutuhkan orang. Model usaha menjelaskan siapa pelanggan, masalah yang diselesaikan, nilai yang ditawarkan, cara menjangkau pelanggan, sumber pendapatan, biaya, dan mitra utama. Ide yang menarik belum tentu menjadi usaha berkelanjutan jika kebutuhan pelanggan tidak terbukti atau biaya terlalu besar.
+
+PENDAPATAN, BIAYA, DAN TITIK IMPAS
+Pendapatan usaha berasal dari harga jual dikalikan jumlah produk terjual. Biaya dapat terdiri atas biaya tetap dan variabel. Titik impas terjadi ketika pendapatan sama dengan total biaya. Analisis ini membantu memperkirakan jumlah penjualan minimum berdasarkan asumsi harga dan biaya, tetapi hasilnya dapat berubah ketika permintaan atau biaya berubah.
+
+PRODUKTIVITAS DAN INOVASI
+Produktivitas meningkat ketika sumber daya digunakan lebih efektif, misalnya melalui perbaikan proses, pelatihan, teknologi, atau pengurangan limbah. Inovasi tidak selalu berupa teknologi baru; perubahan layanan, cara distribusi, atau desain produk juga dapat memberi nilai. Dampak inovasi perlu dinilai terhadap pekerja, konsumen, dan lingkungan.
+
+EKONOMI INFORMAL DAN USAHA KECIL
+Usaha kecil berperan dalam menyediakan pekerjaan dan layanan lokal. Mereka dapat menghadapi keterbatasan modal, akses pasar, pencatatan, dan perlindungan sosial. Kebijakan pendukung perlu disesuaikan dengan kebutuhan, bukan sekadar mendorong pinjaman. Pelatihan, akses informasi, infrastruktur, dan kepastian aturan juga penting.
+
+LATIHAN
+Buat simulasi usaha bazar sekolah dengan produk fiktif. Hitung biaya bahan, biaya tetap, harga jual, pendapatan pada beberapa skenario penjualan, dan titik impas. Jelaskan risiko jika jumlah pembeli lebih rendah dari perkiraan.
+
+RANGKUMAN BAB
+Kewirausahaan menghubungkan kebutuhan pelanggan, model usaha, biaya, pendapatan, dan produktivitas. Perencanaan yang baik menggunakan asumsi terbuka serta mempertimbangkan risiko dan dampak sosial.

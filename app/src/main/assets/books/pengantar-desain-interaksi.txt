@@ -151,3 +151,51 @@ BAB LANJUTAN: PROTOTIPE DAN EVALUASI KEGUNAAN
 Prototipe dapat berupa sketsa, wireframe, atau interaksi yang dapat diklik. Pilih tingkat detail sesuai pertanyaan yang ingin dijawab. Uji awal sebaiknya berfokus pada alur dan pemahaman, bukan warna atau dekorasi yang belum final.
 
 Evaluasi kegunaan mengamati keberhasilan tugas, kesalahan, waktu, dan persepsi pengguna. Sampel kecil dapat menemukan masalah desain, tetapi tidak otomatis mewakili seluruh populasi. Catat tugas, konteks, persetujuan, dan keterbatasan. Perbaiki masalah berdasarkan dampak dan frekuensi, lalu uji ulang.
+
+BAB 12. ARSITEKTUR INFORMASI DAN TAKSONOMI
+
+Arsitektur informasi mengatur konten agar pengguna dapat menemukan dan memahami informasi. Taksonomi mengelompokkan konten berdasarkan hubungan yang konsisten. Struktur yang baik mencerminkan cara pengguna mencari, bukan hanya struktur organisasi pembuat produk. Kategori yang terlalu banyak atau saling tumpang tindih dapat membuat navigasi membingungkan.
+
+Card sorting dan tree testing dapat membantu mengevaluasi pengelompokan serta label. Hasil metode tersebut perlu ditafsirkan sesuai karakter peserta dan tugas. Gunakan istilah yang akrab bagi pengguna, tetapi tetap tepat secara makna. Label harus diuji dalam konteks, bukan hanya dinilai oleh tim desain.
+
+BAB 13. DESAIN INTERAKSI DAN MODEL MENTAL
+
+Model mental adalah pemahaman pengguna tentang cara kerja suatu sistem. Antarmuka yang konsisten membantu pengguna memperkirakan hasil tindakan. Ketika ikon, istilah, atau pola interaksi tidak sesuai harapan, pengguna dapat melakukan kesalahan. Desain perlu menyediakan petunjuk, umpan balik, dan cara membatalkan tindakan yang memungkinkan.
+
+Affordance dan signifier membantu menunjukkan tindakan yang mungkin dilakukan. Tombol harus tampak dapat ditekan, tautan harus dapat dikenali, dan status proses perlu terlihat. Jangan mengandalkan petunjuk tersembunyi untuk fungsi penting.
+
+BAB 14. FORMULIR, VALIDASI, DAN PENCEGAHAN KESALAHAN
+
+Formulir yang baik meminta informasi seperlunya dan menjelaskan alasan ketika data sensitif diperlukan. Label harus jelas, format masukan diberi contoh, dan kesalahan ditampilkan dekat bagian yang perlu diperbaiki. Pesan kesalahan sebaiknya menjelaskan cara memperbaiki, bukan hanya menyatakan “tidak valid”.
+
+Validasi dapat dilakukan saat pengguna mengetik atau setelah pengiriman, bergantung pada konteks. Terlalu banyak peringatan dapat mengganggu. Simpan masukan yang sah ketika terjadi gangguan jika aman, dan jelaskan apakah tindakan berhasil agar pengguna tidak mengirim berulang kali.
+
+BAB 15. DESAIN RESPONSIF DAN KONTEKS PERANGKAT
+
+Antarmuka digunakan pada layar, orientasi, metode masukan, dan kondisi jaringan berbeda. Desain responsif menata ulang konten berdasarkan ruang yang tersedia, bukan sekadar mengecilkan semua elemen. Prioritaskan fungsi utama, keterbacaan, area sentuh yang memadai, dan navigasi yang konsisten.
+
+Perangkat bergerak sering digunakan dengan satu tangan, cahaya luar, atau koneksi tidak stabil. Uji produk pada kondisi nyata yang relevan. Jangan menyembunyikan fungsi penting hanya karena layar kecil; gunakan pengelompokan dan progresif disclosure untuk mengatur kompleksitas.
+
+BAB 16. AKSESIBILITAS DAN DESAIN UNIVERSAL
+
+Aksesibilitas mempertimbangkan kemampuan melihat, mendengar, bergerak, memahami, dan berinteraksi. Teks alternatif menjelaskan fungsi gambar, struktur heading membantu navigasi, dan kontras mendukung keterbacaan. Semua fungsi penting sebaiknya dapat diakses dengan metode masukan yang sesuai, termasuk papan ketik atau pembaca layar bila relevan.
+
+Desain universal berupaya membuat produk dapat digunakan oleh sebanyak mungkin orang, tetapi pengujian dengan pengguna nyata tetap diperlukan. Standar teknis memberi dasar pemeriksaan, bukan pengganti umpan balik. Hindari meminta pengguna mengungkap diagnosis; tanyakan hambatan penggunaan yang mereka alami.
+
+BAB 17. RISET PENGGUNA DAN ETIKA PENGUJIAN
+
+Riset pengguna dapat memakai wawancara, observasi, survei, dan pengujian kegunaan. Pilih metode sesuai pertanyaan. Pengujian tugas membantu menemukan hambatan, sedangkan wawancara menggali alasan dan pengalaman. Sampel kecil berguna untuk eksplorasi tetapi tidak mewakili semua pengguna.
+
+Jelaskan tujuan, durasi, penggunaan data, dan hak peserta untuk berhenti. Kumpulkan informasi seminimal mungkin dan samarkan identitas dalam laporan. Jangan merekam tanpa persetujuan. Temuan harus disampaikan dengan konteks dan keterbatasan agar tim tidak menggeneralisasi berlebihan.
+
+PROYEK: REDESAIN ALUR PENCARIAN BUKU
+
+Pilih alur pencarian katalog sederhana. Rumuskan tugas pengguna, buat sketsa struktur, lalu uji dengan peserta yang bersedia. Catat keberhasilan tugas, titik kebingungan, dan komentar. Perbaiki label atau urutan berdasarkan temuan dan uji ulang.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Apa tujuan arsitektur informasi? Membantu pengguna menemukan dan memahami konten.
+2. Mengapa model mental penting? Karena memengaruhi perkiraan pengguna terhadap hasil tindakan.
+3. Apa ciri pesan kesalahan yang baik? Menjelaskan masalah dan cara memperbaikinya.
+4. Mengapa desain responsif bukan sekadar mengecilkan tampilan? Karena tata letak dan prioritas harus menyesuaikan konteks perangkat.
+5. Mengapa riset pengguna perlu persetujuan? Untuk menghormati pilihan, privasi, dan hak peserta.

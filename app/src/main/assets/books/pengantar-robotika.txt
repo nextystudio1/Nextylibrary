@@ -42,151 +42,21 @@ BAB 2. SENSOR DAN PENGUKURAN
 
 Sensor mengubah besaran fisik menjadi sinyal yang dapat dibaca pengendali. Contohnya sensor cahaya, suhu, jarak, tekanan, dan gerak. Setiap sensor memiliki rentang ukur, resolusi, ketelitian, waktu respons, dan kemungkinan gangguan. Data sensor perlu dikalibrasi dan diuji pada kondisi nyata, karena angka yang ditampilkan tidak selalu sama dengan nilai sebenarnya.
 
-PENDALAMAN KONSEP
-Untuk memahami topik ini, pisahkan definisi, mekanisme, dan akibatnya. Definisi menjelaskan apa yang dimaksud suatu istilah. Mekanisme menerangkan bagaimana proses berlangsung. Akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Ketika menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
-
-CONTOH KAJIAN
-Pilih satu contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteksnya, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
-
-LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
-2. Kumpulkan informasi dari sumber yang dapat diperiksa.
-3. Kelompokkan fakta, pendapat, dan dugaan.
-4. Terapkan konsep bab ini untuk menyusun penjelasan.
-5. Periksa kembali apakah kesimpulan sesuai bukti.
-
-RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
-- Pahami proses, bukan hanya menghafal nama.
-- Gunakan contoh yang relevan dan jelaskan konteksnya.
-- Sebutkan keterbatasan informasi ketika bukti belum cukup.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
-3. Sebutkan kesalahan pemahaman yang mungkin terjadi pada topik ini.
-4. Buat satu pertanyaan lanjutan yang dapat diteliti.
-5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
-
 BAB 3. AKTUATOR DAN GERAK
 
 Aktuator mengubah energi menjadi gerakan atau tindakan. Motor DC dapat menghasilkan putaran, motor servo mengatur posisi dalam rentang tertentu, dan motor stepper bergerak dalam langkah. Pemilihan aktuator mempertimbangkan beban, torsi, kecepatan, efisiensi, kendali, dan keselamatan. Mekanisme transmisi seperti roda gigi atau sabuk dapat mengubah kecepatan dan gaya.
-
-PENDALAMAN KONSEP
-Untuk memahami topik ini, pisahkan definisi, mekanisme, dan akibatnya. Definisi menjelaskan apa yang dimaksud suatu istilah. Mekanisme menerangkan bagaimana proses berlangsung. Akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Ketika menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
-
-CONTOH KAJIAN
-Pilih satu contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteksnya, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
-
-LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
-2. Kumpulkan informasi dari sumber yang dapat diperiksa.
-3. Kelompokkan fakta, pendapat, dan dugaan.
-4. Terapkan konsep bab ini untuk menyusun penjelasan.
-5. Periksa kembali apakah kesimpulan sesuai bukti.
-
-RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
-- Pahami proses, bukan hanya menghafal nama.
-- Gunakan contoh yang relevan dan jelaskan konteksnya.
-- Sebutkan keterbatasan informasi ketika bukti belum cukup.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
-3. Sebutkan kesalahan pemahaman yang mungkin terjadi pada topik ini.
-4. Buat satu pertanyaan lanjutan yang dapat diteliti.
-5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
 
 BAB 4. PENGENDALI DAN UMPAN BALIK
 
 Pengendali mengolah masukan sensor dan menentukan keluaran. Kendali terbuka menjalankan perintah tanpa memeriksa hasil, sedangkan kendali tertutup membandingkan hasil dengan target melalui umpan balik. Contoh kendali tertutup adalah pengatur suhu yang mengukur suhu aktual lalu menyesuaikan pemanas. Umpan balik membantu sistem menghadapi perubahan beban dan gangguan.
 
-PENDALAMAN KONSEP
-Untuk memahami topik ini, pisahkan definisi, mekanisme, dan akibatnya. Definisi menjelaskan apa yang dimaksud suatu istilah. Mekanisme menerangkan bagaimana proses berlangsung. Akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Ketika menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
-
-CONTOH KAJIAN
-Pilih satu contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteksnya, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
-
-LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
-2. Kumpulkan informasi dari sumber yang dapat diperiksa.
-3. Kelompokkan fakta, pendapat, dan dugaan.
-4. Terapkan konsep bab ini untuk menyusun penjelasan.
-5. Periksa kembali apakah kesimpulan sesuai bukti.
-
-RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
-- Pahami proses, bukan hanya menghafal nama.
-- Gunakan contoh yang relevan dan jelaskan konteksnya.
-- Sebutkan keterbatasan informasi ketika bukti belum cukup.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
-3. Sebutkan kesalahan pemahaman yang mungkin terjadi pada topik ini.
-4. Buat satu pertanyaan lanjutan yang dapat diteliti.
-5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
-
 BAB 5. PEMROGRAMAN DAN PENGUJIAN
 
 Program robot biasanya memuat pembacaan sensor, pengambilan keputusan, dan pengendalian aktuator. Program perlu dibagi menjadi fungsi kecil agar mudah diuji. Pengujian dimulai dari komponen secara terpisah, kemudian integrasi, lalu uji skenario. Catat kondisi awal, masukan, keluaran yang diharapkan, hasil aktual, dan penyebab selisih.
 
-PENDALAMAN KONSEP
-Untuk memahami topik ini, pisahkan definisi, mekanisme, dan akibatnya. Definisi menjelaskan apa yang dimaksud suatu istilah. Mekanisme menerangkan bagaimana proses berlangsung. Akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Ketika menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
-
-CONTOH KAJIAN
-Pilih satu contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteksnya, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
-
-LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
-2. Kumpulkan informasi dari sumber yang dapat diperiksa.
-3. Kelompokkan fakta, pendapat, dan dugaan.
-4. Terapkan konsep bab ini untuk menyusun penjelasan.
-5. Periksa kembali apakah kesimpulan sesuai bukti.
-
-RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
-- Pahami proses, bukan hanya menghafal nama.
-- Gunakan contoh yang relevan dan jelaskan konteksnya.
-- Sebutkan keterbatasan informasi ketika bukti belum cukup.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
-3. Sebutkan kesalahan pemahaman yang mungkin terjadi pada topik ini.
-4. Buat satu pertanyaan lanjutan yang dapat diteliti.
-5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
-
 BAB 6. DESAIN AMAN DAN BERTANGGUNG JAWAB
 
 Robot harus dirancang dengan mempertimbangkan pengguna dan orang di sekitarnya. Bagian bergerak perlu pelindung, sumber energi harus sesuai, dan sistem harus memiliki cara berhenti yang aman. Penggunaan kamera atau sensor yang mengumpulkan data juga perlu menghormati privasi. Teknologi yang mampu melakukan tugas tidak otomatis berarti tugas itu patut dilakukan.
-
-PENDALAMAN KONSEP
-Untuk memahami topik ini, pisahkan definisi, mekanisme, dan akibatnya. Definisi menjelaskan apa yang dimaksud suatu istilah. Mekanisme menerangkan bagaimana proses berlangsung. Akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Ketika menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
-
-CONTOH KAJIAN
-Pilih satu contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteksnya, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
-
-LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
-2. Kumpulkan informasi dari sumber yang dapat diperiksa.
-3. Kelompokkan fakta, pendapat, dan dugaan.
-4. Terapkan konsep bab ini untuk menyusun penjelasan.
-5. Periksa kembali apakah kesimpulan sesuai bukti.
-
-RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
-- Pahami proses, bukan hanya menghafal nama.
-- Gunakan contoh yang relevan dan jelaskan konteksnya.
-- Sebutkan keterbatasan informasi ketika bukti belum cukup.
-
-LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
-3. Sebutkan kesalahan pemahaman yang mungkin terjadi pada topik ini.
-4. Buat satu pertanyaan lanjutan yang dapat diteliti.
-5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
 
 PROYEK AKHIR
 Susun proyek mini yang menghubungkan sedikitnya tiga bab. Tentukan pertanyaan, tujuan, batasan, sumber informasi, metode, hasil yang diharapkan, dan cara mengevaluasi hasil. Proyek tidak harus mahal atau rumit. Utamakan ketelitian, keselamatan, dan kejujuran dalam mencatat temuan.

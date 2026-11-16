@@ -13,10 +13,10 @@ BAB 1. EKONOMI BERBASIS PLATFORM
 Platform digital mempertemukan beberapa kelompok pengguna, misalnya penjual dan pembeli atau pengemudi dan penumpang. Nilai platform dapat meningkat ketika jumlah pengguna bertambah, tetapi efek jaringan juga dapat memperkuat dominasi satu penyedia. Desain aturan platform memengaruhi biaya, akses, dan posisi tawar pengguna.
 
 PENDALAMAN
-Pada EKONOMI BERBASIS PLATFORM, petakan masukan, proses, keluaran, dan pihak yang menggunakan informasi. Periksa kualitas data, keandalan sistem, akses, serta akibat jika terjadi kesalahan. Uraikan alasan setiap keputusan teknis dan cara memeriksa hasilnya.
+Untuk menganalisis platform, petakan dua atau lebih kelompok pengguna dan nilai yang dipertukarkan. Identifikasi sumber pendapatan, biaya yang ditanggung tiap kelompok, aturan akses, serta ketergantungan pada penyedia. Periksa apakah pengguna dapat berpindah layanan dan apakah pelaku usaha kecil memiliki pilihan yang wajar.
 
 CONTOH PENERAPAN
-Contoh: sebuah platform belanja memberi peringkat penjual berdasarkan ulasan dan kecepatan pengiriman. Analisis bagaimana aturan peringkat memengaruhi pilihan konsumen, peluang penjual baru, dan persaingan. Jelaskan data apa yang diperlukan sebelum menyimpulkan bahwa sistem tersebut adil.
+Contoh: sebuah platform belanja menampilkan penjual berdasarkan ulasan dan kecepatan pengiriman. Jika algoritma lebih mengutamakan penjual lama yang memiliki banyak ulasan, penjual baru dapat sulit terlihat meskipun kualitas barangnya baik. Untuk menilai dampaknya, bandingkan aturan pemeringkatan, distribusi tayangan, tingkat konversi, dan mekanisme banding penjual.
 
 KEGIATAN BELAJAR
 1. Jelaskan satu istilah kunci dari EKONOMI BERBASIS PLATFORM dengan kalimat sendiri.

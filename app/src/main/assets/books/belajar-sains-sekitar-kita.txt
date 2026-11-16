@@ -525,8 +525,6 @@ LATIHAN
 2. Mengapa data yang berlawanan dengan dugaan tetap dicatat? Jawaban: agar kesimpulan tidak dipilih berdasarkan harapan peneliti.
 3. Apa beda kesalahan acak dan sistematis? Jawaban: kesalahan acak berubah-ubah, sedangkan sistematis menggeser hasil secara konsisten.
 
-
-
 BAB LANJUTAN — MERANCANG PENYELIDIKAN YANG ADIL
 
 Penyelidikan yang baik dimulai dari pertanyaan yang dapat diuji. Pertanyaan seperti “apakah tanaman ini bagus?” terlalu luas. Pertanyaan yang lebih terukur misalnya “bagaimana perbedaan intensitas cahaya memengaruhi jumlah daun pada jenis tanaman yang sama selama periode pengamatan tertentu?” Pertanyaan tersebut menyebutkan faktor yang diamati dan hasil yang akan dicatat.

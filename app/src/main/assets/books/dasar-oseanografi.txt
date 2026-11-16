@@ -56,7 +56,6 @@ PROYEK TERPADU
 Buat kajian mini untuk Dasar Oseanografi dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-EVALUASI AKHIR
 1. Jelaskan bagaimana suhu dan salinitas memengaruhi massa jenis air laut.
 2. Bedakan arus permukaan dan sirkulasi laut dalam.
 3. Uraikan penyebab utama pasang surut dan pengaruhnya di wilayah pesisir.

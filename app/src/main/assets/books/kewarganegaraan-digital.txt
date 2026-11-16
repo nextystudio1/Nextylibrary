@@ -378,3 +378,54 @@ Sebuah pesan menyatakan sekolah akan ditutup besok dan meminta pembaca meneruska
 
 RANGKUMAN
 Kewargaan digital mencakup hak, tanggung jawab, privasi, literasi informasi, penghormatan, dan partisipasi. Perilaku yang bertanggung jawab dimulai dengan berpikir sebelum membagikan atau menanggapi konten.
+
+BAB PENGAYAAN — HAK, TANGGUNG JAWAB, DAN PARTISIPASI DIGITAL
+
+Ruang digital memungkinkan warga mengakses informasi, menyampaikan pendapat, belajar, bekerja, dan berpartisipasi dalam kehidupan publik. Hak digital perlu berjalan bersama tanggung jawab: menghormati hak orang lain, mematuhi hukum, menjaga keamanan, dan tidak menyebarkan informasi yang merugikan.
+
+Kebebasan berekspresi bukan berarti semua tindakan di ruang digital bebas dari konsekuensi. Ancaman, penipuan, penyebaran data pribadi tanpa dasar yang sah, dan pelecehan dapat merugikan orang lain. Perbedaan pendapat sebaiknya disampaikan dengan alasan dan bukti, bukan intimidasi atau serangan pribadi.
+
+Partisipasi digital dapat berupa mengikuti konsultasi publik, mengakses layanan pemerintah, menyampaikan aspirasi, dan memeriksa informasi kebijakan. Warga perlu memastikan kanal yang digunakan resmi dan melindungi data pribadi saat mengisi formulir daring.
+
+BAB PENGAYAAN — PRIVASI DAN PERLINDUNGAN IDENTITAS
+
+Privasi adalah kemampuan seseorang mengendalikan informasi tentang dirinya sesuai konteks. Tidak semua informasi yang dapat dibagikan berarti aman untuk dipublikasikan. Lokasi langsung, jadwal rutin, nomor identitas, dokumen sekolah, dan foto yang memperlihatkan informasi pribadi dapat disalahgunakan.
+
+Pengaturan privasi perlu ditinjau secara berkala karena layanan digital dapat mengubah fitur dan kebijakannya. Batasi siapa yang dapat melihat unggahan, periksa izin aplikasi, dan hindari memasang aplikasi dari sumber yang tidak jelas. Gunakan autentikasi dua faktor dan jangan pernah membagikan kode verifikasi.
+
+Identitas digital dapat ditiru melalui akun palsu. Jika menerima permintaan uang atau data sensitif dari akun yang dikenal, verifikasi melalui saluran lain yang sudah dipercaya. Jangan mengandalkan foto profil atau nama akun sebagai bukti identitas.
+
+BAB PENGAYAAN — KEAMANAN SIBER DASAR
+
+Phishing adalah upaya menipu pengguna agar memberikan informasi rahasia atau membuka tautan berbahaya. Pesan dapat meniru bank, sekolah, layanan pengiriman, atau teman. Periksa alamat pengirim, ejaan domain, nada mendesak, dan permintaan data. Jika ragu, buka layanan melalui aplikasi atau alamat resmi yang diketik sendiri.
+
+Kata sandi yang kuat dan unik mengurangi dampak ketika satu layanan mengalami kebocoran. Pengelola kata sandi dapat membantu menyimpan kata sandi yang berbeda. Perangkat dan aplikasi perlu diperbarui karena pembaruan sering memperbaiki kelemahan keamanan. Cadangan data membantu pemulihan jika perangkat rusak atau akun terkunci.
+
+Jika akun diduga diambil alih, gunakan prosedur pemulihan resmi, ubah kata sandi dari perangkat yang aman, keluarkan sesi yang tidak dikenal, dan periksa metode pemulihan. Jangan membayar pihak tidak dikenal yang menjanjikan pemulihan akun.
+
+BAB PENGAYAAN — JEJAK DIGITAL DAN REPUTASI
+
+Jejak digital terbentuk dari unggahan, komentar, pencarian, transaksi, dan interaksi. Sebagian jejak dibuat secara aktif oleh pengguna, sedangkan sebagian lain dihasilkan otomatis oleh layanan. Konten dapat disalin atau disimpan pihak lain sehingga penghapusan tidak selalu menghilangkan seluruh salinan.
+
+Sebelum mengunggah, pertimbangkan siapa yang dapat melihat, apakah orang lain memberi izin, apakah informasi benar, dan apakah unggahan dapat merugikan diri sendiri atau orang lain di masa depan. Kesalahan digital dapat diperbaiki dengan menghapus atau mengoreksi konten, meminta maaf, dan menghubungi pihak yang terdampak, tetapi pencegahan tetap penting.
+
+LATIHAN
+1. Mengapa hak digital perlu disertai tanggung jawab?
+2. Sebutkan empat informasi yang sebaiknya tidak dibagikan secara terbuka.
+3. Apa ciri umum pesan phishing?
+4. Mengapa kata sandi harus berbeda untuk setiap layanan?
+5. Mengapa menghapus unggahan tidak selalu menghilangkan jejak digital?
+
+KUNCI PEMBAHASAN
+1. Karena tindakan digital dapat memengaruhi hak, keselamatan, dan privasi orang lain.
+2. Lokasi langsung, nomor identitas, jadwal rutin, dokumen pribadi, atau kode verifikasi.
+3. Pengirim mencurigakan, tautan tidak sesuai, nada mendesak, dan permintaan informasi rahasia.
+4. Agar kebocoran satu layanan tidak langsung membuka akun lain.
+5. Konten dapat disalin, diarsipkan, atau dibagikan ulang oleh pengguna lain.
+
+GLOSARIUM TAMBAHAN
+Privasi digital: pengendalian informasi pribadi dalam layanan digital.
+Phishing: penipuan untuk memperoleh data atau akses melalui penyamaran.
+Autentikasi dua faktor: verifikasi identitas menggunakan dua jenis bukti.
+Jejak digital: rekaman aktivitas yang tertinggal dalam sistem digital.
+Akun palsu: akun yang menyamar sebagai orang atau lembaga lain.

@@ -491,3 +491,46 @@ Jelaskan bagaimana seleksi alam dapat mengubah frekuensi sifat dalam populasi. B
 
 RANGKUMAN
 Keanekaragaman kehidupan terbentuk melalui evolusi dan interaksi lingkungan. Konservasi yang efektif memerlukan pemahaman proses, data jangka panjang, dan kerja bersama masyarakat.
+
+BAB PENGAYAAN — EVOLUSI DAN SELEKSI ALAM
+
+Evolusi adalah perubahan sifat yang diwariskan dalam populasi dari generasi ke generasi. Variasi genetik muncul melalui mutasi dan rekombinasi. Seleksi alam terjadi ketika variasi tertentu memengaruhi keberhasilan bertahan hidup dan menghasilkan keturunan dalam lingkungan tertentu. Seleksi bekerja pada individu, tetapi perubahan evolusioner terlihat pada populasi lintas generasi.
+
+Adaptasi adalah sifat yang meningkatkan kecocokan organisme terhadap lingkungan melalui proses evolusi. Adaptasi bukan perubahan yang sengaja dilakukan individu karena membutuhkan sifat tertentu. Seekor hewan tidak mengembangkan warna kamuflase karena ingin bersembunyi; variasi yang diwariskan dan memberi keuntungan dapat menjadi lebih umum selama banyak generasi.
+
+Evolusi juga dipengaruhi hanyutan genetik, aliran gen, dan perkawinan tidak acak. Hanyutan genetik adalah perubahan frekuensi alel akibat peristiwa acak, yang dapat kuat pada populasi kecil. Aliran gen terjadi ketika individu atau gamet berpindah antar populasi. Berbagai mekanisme tersebut dapat bekerja bersamaan.
+
+BAB PENGAYAAN — KEANEKARAGAMAN DAN KLASIFIKASI
+
+Klasifikasi mengelompokkan organisme berdasarkan karakteristik dan hubungan evolusioner. Nama ilmiah membantu peneliti di berbagai negara merujuk spesies yang sama meskipun nama umum berbeda. Sistem penamaan binomial menggunakan nama genus dan epitet spesifik, ditulis dengan aturan yang disepakati.
+
+Keanekaragaman hayati mencakup variasi genetik, keanekaragaman spesies, dan keanekaragaman ekosistem. Keragaman genetik membantu populasi menghadapi perubahan lingkungan dan penyakit. Keragaman spesies membentuk jaring-jaring interaksi, sedangkan keanekaragaman ekosistem menyediakan berbagai habitat dan proses ekologis.
+
+BAB PENGAYAAN — MIKROORGANISME DAN KESEHATAN
+
+Bakteri, archaea, jamur mikroskopis, dan virus memiliki karakteristik yang berbeda. Bakteri dan archaea adalah organisme seluler prokariotik, sedangkan virus tidak memiliki struktur sel dan memerlukan sel inang untuk bereplikasi. Tidak semua mikroorganisme berbahaya; banyak berperan dalam pencernaan, daur unsur, fermentasi pangan, dan produksi obat.
+
+Pencegahan penyakit infeksi melibatkan kebersihan, sanitasi, imunisasi sesuai rekomendasi kesehatan, ventilasi, dan penggunaan obat secara tepat. Antibiotik bekerja terhadap bakteri tertentu, bukan virus. Penggunaan antibiotik tanpa indikasi atau tidak sesuai petunjuk dapat mendorong resistansi antimikroba.
+
+LATIHAN
+1. Apa perbedaan evolusi dan perubahan individu selama hidup?
+2. Sebutkan tiga mekanisme yang dapat mengubah frekuensi alel.
+3. Apa saja tingkat keanekaragaman hayati?
+4. Mengapa virus berbeda dari organisme seluler?
+5. Mengapa antibiotik tidak digunakan untuk mengobati infeksi virus?
+
+KUNCI PEMBAHASAN
+1. Evolusi adalah perubahan sifat diwariskan dalam populasi lintas generasi; perubahan individu tidak otomatis diwariskan.
+2. Seleksi alam, hanyutan genetik, aliran gen, mutasi, dan perkawinan tidak acak.
+3. Genetik, spesies, dan ekosistem.
+4. Virus tidak memiliki struktur sel dan bergantung pada sel inang untuk bereplikasi.
+5. Antibiotik menargetkan proses atau struktur bakteri, bukan mekanisme virus.
+
+GLOSARIUM TAMBAHAN
+Evolusi: perubahan sifat diwariskan dalam populasi lintas generasi.
+Seleksi alam: perubahan keberhasilan reproduksi yang berkaitan dengan variasi sifat.
+Adaptasi: sifat terwariskan yang meningkatkan kecocokan dalam lingkungan.
+Alel: variasi bentuk suatu gen.
+Hanyutan genetik: perubahan frekuensi alel akibat peristiwa acak.
+Aliran gen: perpindahan alel antar populasi.
+Resistansi antimikroba: kemampuan mikroorganisme bertahan terhadap obat antimikroba.

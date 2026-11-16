@@ -579,3 +579,68 @@ Lakukan pengamatan sederhana yang aman, misalnya perubahan panjang bayangan bend
 
 RANGKUMAN
 Pengamatan ilmiah memerlukan pertanyaan jelas, pengukuran teliti, pencatatan jujur, dan interpretasi yang berhati-hati. Komunikasi membuat hasil dapat diperiksa orang lain.
+
+BAB PENGAYAAN — MERANCANG PENYELIDIKAN SEDERHANA
+
+Penyelidikan sains dimulai dari pertanyaan yang dapat diuji. Pertanyaan “apakah tanaman tumbuh baik?” perlu dibuat lebih terukur, misalnya “bagaimana perbedaan intensitas cahaya memengaruhi pertambahan tinggi kecambah selama tujuh hari?” Pertanyaan yang jelas membantu menentukan variabel, alat ukur, dan cara mencatat hasil.
+
+Variabel bebas adalah faktor yang sengaja diubah, variabel terikat adalah hasil yang diukur, dan variabel kontrol adalah faktor lain yang dijaga tetap. Dalam contoh kecambah, intensitas cahaya menjadi variabel bebas, pertambahan tinggi menjadi variabel terikat, sedangkan jenis benih, jumlah air, media tanam, dan ukuran wadah dapat dikendalikan. Jika banyak faktor berubah sekaligus, penyebab perbedaan hasil sulit ditentukan.
+
+Pengukuran perlu diulang dan dicatat dengan satuan. Satu kecambah yang tumbuh tinggi belum cukup untuk menyimpulkan bahwa perlakuan tertentu selalu lebih baik. Gunakan beberapa sampel, catat semua hasil termasuk yang tidak sesuai dugaan, dan jelaskan jika ada sampel yang rusak atau tidak tumbuh. Data yang tidak mendukung dugaan tetap merupakan hasil ilmiah.
+
+BAB PENGAYAAN — ENERGI DALAM KEHIDUPAN SEHARI-HARI
+
+Energi adalah kemampuan untuk melakukan kerja atau menyebabkan perubahan. Energi dapat berpindah dan berubah bentuk, misalnya energi kimia dalam makanan menjadi energi gerak dan panas di tubuh. Pada lampu, energi listrik berubah menjadi cahaya dan panas. Tidak semua energi yang masuk menjadi bentuk keluaran yang diinginkan; sebagian tersebar ke lingkungan sebagai panas.
+
+Daya menyatakan laju penggunaan atau pemindahan energi. Perangkat dengan daya 100 watt menggunakan energi 100 joule setiap detik ketika bekerja pada daya tersebut. Energi listrik yang dipakai bergantung pada daya dan lama penggunaan. Karena itu, perangkat berdaya besar yang dipakai sebentar belum tentu menghabiskan energi lebih banyak daripada perangkat berdaya kecil yang menyala lama.
+
+Efisiensi membandingkan energi berguna yang diperoleh dengan energi masukan. Efisiensi tidak pernah melebihi 100 persen untuk proses nyata yang memenuhi hukum kekekalan energi. Jika sebuah alat menerima 100 joule dan menghasilkan 70 joule energi berguna, efisiensinya 70 persen. Sisa energi tidak hilang; energi itu berubah bentuk atau menyebar ke lingkungan.
+
+BAB PENGAYAAN — MATERI, CAMPURAN, DAN PEMISAHAN
+
+Materi dapat berupa zat murni atau campuran. Zat murni memiliki komposisi tetap, sedangkan campuran terdiri atas dua atau lebih zat yang bercampur tanpa harus membentuk zat baru. Campuran homogen tampak seragam, misalnya larutan garam, sedangkan campuran heterogen memiliki bagian yang dapat dibedakan.
+
+Metode pemisahan dipilih berdasarkan perbedaan sifat fisik. Filtrasi memisahkan padatan tidak larut dari cairan. Penguapan dapat memisahkan zat terlarut dari pelarut. Distilasi memanfaatkan perbedaan titik didih. Pemisahan magnetik digunakan jika salah satu komponen tertarik magnet. Kromatografi memisahkan komponen berdasarkan perbedaan interaksi dengan fase diam dan fase gerak.
+
+Dalam kegiatan praktikum, jangan mencicipi bahan kimia dan jangan mencampur bahan yang tidak diketahui. Gunakan label, alat pelindung, dan instruksi guru. Bahan rumah tangga pun dapat berbahaya jika dicampur atau digunakan tidak sesuai petunjuk.
+
+BAB PENGAYAAN — TUBUH MANUSIA SEBAGAI SISTEM
+
+Tubuh manusia terdiri atas sistem organ yang saling berhubungan. Sistem pencernaan memecah makanan menjadi molekul yang dapat diserap. Sistem pernapasan memasukkan oksigen dan mengeluarkan karbon dioksida. Sistem peredaran darah mengangkut gas, zat gizi, hormon, dan sisa metabolisme. Sistem ekskresi membantu menjaga keseimbangan air dan zat terlarut.
+
+Homeostasis adalah kemampuan tubuh mempertahankan kondisi internal dalam rentang yang sesuai meskipun lingkungan berubah. Pengaturan suhu tubuh, kadar glukosa darah, dan keseimbangan cairan melibatkan mekanisme umpan balik. Ketika suhu meningkat, tubuh dapat meningkatkan pelepasan panas melalui keringat dan perubahan aliran darah pada kulit.
+
+Sistem organ tidak bekerja sendiri. Saat berolahraga, otot membutuhkan lebih banyak oksigen dan energi. Frekuensi napas dan denyut jantung meningkat untuk mendukung kebutuhan tersebut. Setelah aktivitas selesai, sistem tubuh secara bertahap kembali menuju kondisi istirahat. Contoh ini menunjukkan hubungan antara struktur, fungsi, dan regulasi.
+
+BAB PENGAYAAN — MEMBEDAKAN BUKTI DAN PENDAPAT
+
+Pernyataan ilmiah perlu didukung bukti yang dapat diperiksa. Pengamatan langsung, hasil pengukuran, dan eksperimen dapat menjadi bukti, tetapi kualitasnya bergantung pada metode. Pendapat pribadi dapat menjadi sumber pertanyaan, tetapi tidak cukup untuk menetapkan fakta umum.
+
+Saat membaca klaim sains, periksa siapa yang membuat klaim, data apa yang digunakan, apakah metode dijelaskan, dan apakah hasil dapat diuji ulang. Waspadai penggunaan satu contoh sebagai bukti untuk semua keadaan. Korelasi juga tidak otomatis membuktikan sebab-akibat. Penjelasan ilmiah yang baik menyebutkan batas bukti dan hal yang masih belum diketahui.
+
+LATIHAN
+1. Apa perbedaan variabel bebas dan variabel terikat?
+2. Mengapa penyelidikan perlu mengulang pengukuran?
+3. Sebuah alat menerima 200 joule dan menghasilkan 150 joule energi berguna. Berapa efisiensinya?
+4. Metode apa yang cocok untuk memisahkan pasir dari air?
+5. Apa yang dimaksud homeostasis?
+6. Mengapa satu cerita pribadi tidak cukup membuktikan klaim ilmiah umum?
+
+KUNCI PEMBAHASAN
+1. Variabel bebas diubah; variabel terikat diukur sebagai hasil.
+2. Pengulangan membantu menilai variasi dan mengurangi pengaruh kesalahan acak.
+3. 150/200 × 100% = 75%.
+4. Filtrasi.
+5. Pemeliharaan kondisi internal tubuh dalam rentang yang sesuai.
+6. Cerita pribadi tidak mewakili seluruh populasi dan dapat dipengaruhi banyak faktor.
+
+GLOSARIUM TAMBAHAN
+Variabel bebas: faktor yang sengaja diubah dalam penyelidikan.
+Variabel terikat: hasil yang diukur.
+Variabel kontrol: faktor yang dijaga tetap.
+Daya: laju penggunaan atau pemindahan energi.
+Efisiensi: perbandingan keluaran berguna dengan masukan.
+Filtrasi: pemisahan menggunakan penyaring.
+Distilasi: pemisahan berdasarkan perbedaan titik didih.
+Homeostasis: pemeliharaan kondisi internal tubuh.
+Umpan balik: mekanisme ketika keluaran suatu proses memengaruhi proses itu kembali.

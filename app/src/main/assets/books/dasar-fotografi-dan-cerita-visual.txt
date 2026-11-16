@@ -135,3 +135,43 @@ Keterangan foto: Teks yang menjelaskan konteks gambar.
 
 SARAN BELAJAR
 Gunakan buku ini sebagai pengantar. Cocokkan informasi dengan buku ajar dan publikasi lembaga yang kompeten, terutama untuk topik yang berkembang. Catat sumber, penulis atau lembaga, tahun, dan bagian yang digunakan ketika memperluas bacaan.
+PENDALAMAN MATERI DAN PRAKTIK
+
+BAB 6. MEMBACA CAHAYA SECARA TERARAH
+Cahaya memiliki arah, kualitas, warna, dan intensitas. Cahaya dari depan cenderung memperlihatkan detail permukaan secara merata, sedangkan cahaya dari samping menonjolkan tekstur melalui bayangan. Cahaya dari belakang dapat membentuk siluet apabila kamera mengukur terang latar. Tidak ada satu arah yang selalu benar; pilihan ditentukan oleh informasi yang ingin ditampilkan. Saat memotret benda sederhana, bandingkan hasil ketika sumber cahaya berada di depan, samping, dan belakang subjek. Pertahankan jarak dan posisi kamera agar perbedaan dapat diamati. Catat bagian yang menjadi lebih jelas, bagian yang kehilangan detail, serta perubahan suasana. Hindari menyimpulkan kualitas foto hanya dari tingkat kecerahannya. Foto yang agak gelap dapat tetap informatif apabila detail penting terjaga.
+
+BAB 7. WARNA, KONTRAS, DAN SUASANA
+Warna dapat dijelaskan melalui rona, saturasi, dan kecerahan. Rona membedakan keluarga warna, saturasi menunjukkan kemurnian atau kekuatan warna, sedangkan kecerahan berkaitan dengan seberapa terang warna tampak. Kontras adalah perbedaan visual antara unsur, misalnya terang dan gelap atau warna yang saling berlawanan. Kontras membantu memisahkan subjek dari latar, tetapi kontras berlebihan dapat menghilangkan detail. Keseimbangan warna juga dipengaruhi sumber cahaya; lampu hangat dapat membuat objek putih tampak kekuningan. Ketika menyunting, lakukan perubahan kecil dan periksa foto pada layar yang berbeda bila memungkinkan. Jangan mengubah warna dokumentasi sehingga bukti visual menjadi menyesatkan. Untuk karya ekspresif, perubahan dapat menjadi pilihan artistik, tetapi konteks penyuntingan sebaiknya dijelaskan.
+
+BAB 8. LENSA, PERSPEKTIF, DAN JARAK
+Panjang fokus memengaruhi sudut pandang dan ukuran relatif objek dalam bingkai. Lensa sudut lebar menangkap bidang luas, sementara lensa telefoto mempersempit bidang pandang. Perspektif terutama berubah ketika posisi kamera berpindah. Jika kamera didekatkan ke wajah, bagian yang dekat lensa dapat tampak lebih besar dibanding bagian yang jauh. Karena itu, jangan menganggap perubahan perspektif semata-mata disebabkan oleh nama lensa. Untuk memahami efeknya, ambil dua foto dari posisi berbeda dengan subjek dan latar yang sama, lalu bandingkan hubungan ukuran objek depan dan belakang. Dalam dokumentasi, pilih jarak yang tidak mengganggu subjek dan tidak menimbulkan risiko. Perhatikan pula distorsi pada tepi bingkai, terutama ketika garis bangunan tampak melengkung atau miring.
+
+BAB 9. FOTO DOKUMENTASI DAN KETERANGAN
+Foto dokumentasi perlu menjawab pertanyaan siapa atau apa yang terlihat, kapan dan di mana foto dibuat jika informasi itu relevan, serta bagian mana yang tidak dapat dipastikan dari gambar. Keterangan foto yang baik bersifat ringkas, faktual, dan tidak menambahkan dugaan sebagai fakta. Simpan berkas asli sebelum penyuntingan, gunakan nama berkas yang konsisten, dan catat perubahan penting. Metadata dapat membantu mengetahui waktu dan perangkat, tetapi metadata bisa hilang atau berubah ketika berkas dipindahkan. Karena itu, metadata bukan bukti tunggal. Dalam laporan kegiatan, pilih gambar yang mewakili proses, bukan hanya hasil akhir. Pastikan izin diperoleh sebelum memotret atau membagikan gambar orang lain, terutama anak-anak dan situasi pribadi.
+
+BAB 10. ETIKA, HAK CIPTA, DAN PRIVASI
+Memotret di ruang publik tidak otomatis berarti semua penggunaan foto bebas dari pertimbangan etika. Hormati aturan tempat, permintaan orang yang tidak ingin difoto, dan konteks yang sensitif. Jangan mengunggah foto yang mengungkap alamat rumah, dokumen pribadi, atau informasi yang dapat membahayakan seseorang. Foto karya orang lain tetap memiliki hak cipta; mencantumkan nama pembuat tidak dengan sendirinya memberikan izin untuk menggunakan ulang. Gunakan karya sendiri, materi berlisensi sesuai kebutuhan, atau minta izin yang jelas. Saat membuat kolase atau manipulasi, beri penanda jika hasilnya dapat disalahartikan sebagai dokumentasi asli. Etika fotografi bukan hanya soal aturan hukum, melainkan juga tanggung jawab terhadap orang yang direkam dan orang yang melihat hasilnya.
+
+STUDI KASUS
+Sebuah kelompok siswa membuat laporan kebersihan lingkungan. Mereka memiliki banyak foto, tetapi sebagian tidak menunjukkan lokasi, sebagian terlalu gelap, dan satu foto menampilkan wajah warga tanpa izin. Kelompok perlu memilih gambar yang relevan, memperbaiki keterbacaan tanpa mengubah bukti, menulis keterangan yang dapat diverifikasi, dan meminta persetujuan sebelum menggunakan foto warga. Keputusan yang baik bukan memilih foto paling dramatis, melainkan foto yang paling jujur menjelaskan temuan.
+
+LATIHAN TERAPAN
+1. Buat tiga foto satu benda dengan arah cahaya berbeda. Jelaskan perubahan tekstur dan bayangannya.
+2. Pilih satu foto dokumentasi dan tulis keterangan yang hanya memuat hal yang benar-benar terlihat.
+3. Bandingkan dua sudut pandang yang menghasilkan kesan berbeda. Jelaskan faktor posisi kamera.
+4. Susun daftar pemeriksaan privasi sebelum membagikan foto.
+5. Jelaskan perbedaan penyuntingan untuk karya artistik dan penyuntingan untuk bukti dokumenter.
+
+PEMBAHASAN LATIHAN
+Untuk soal pertama, jawaban yang baik menyebut posisi sumber cahaya dan dampaknya terhadap sisi terang serta bayangan. Untuk soal kedua, keterangan tidak boleh menebak identitas atau alasan kejadian jika tidak terlihat. Untuk soal ketiga, perhatikan jarak kamera, tinggi kamera, dan hubungan objek depan-belakang. Untuk soal keempat, periksa wajah, alamat, papan nama, dokumen, lokasi sensitif, dan persetujuan orang yang tampak. Untuk soal kelima, karya artistik memberi ruang interpretasi, sedangkan dokumentasi harus mempertahankan integritas informasi dan menjelaskan perubahan yang dilakukan.
+
+GLOSARIUM
+Amplitudo cahaya: istilah yang tidak digunakan untuk menggantikan intensitas dalam pembahasan fotografi dasar.
+Bingkai: batas bidang yang direkam kamera.
+Eksposur: jumlah cahaya yang diterima sensor atau media peka cahaya.
+Fokus: keadaan ketika detail pada jarak tertentu tampak paling tajam.
+Metadata: informasi yang melekat pada berkas digital.
+Perspektif: hubungan ukuran dan posisi relatif objek akibat sudut pandang.
+Ruang negatif: area kosong yang mengelilingi atau memisahkan subjek.
+Saturasi: tingkat kemurnian atau kekuatan warna.
+Siluet: bentuk gelap subjek dengan latar yang lebih terang.

@@ -50,7 +50,6 @@ PROYEK TERPADU
 Pilih persoalan layanan publik yang dapat diamati, misalnya pengelolaan sampah di lingkungan. Rumuskan masalah berdasarkan gejala dan penyebab yang mungkin. Petakan warga, petugas, pengelola, dan kelompok yang terdampak. Bandingkan dua alternatif kebijakan dengan kriteria efektivitas, biaya, keadilan, dan kelayakan. Buat indikator keluaran serta hasil, lalu jelaskan data yang masih diperlukan sebelum rekomendasi diterapkan.
 
 EVALUASI AKHIR
-EVALUASI AKHIR
 1. Bedakan gejala masalah publik dan penyebab yang mendasarinya.
 2. Jelaskan bagaimana pemetaan pemangku kepentingan dapat mengubah rancangan kebijakan.
 3. Bandingkan instrumen regulasi, insentif, dan penyediaan layanan untuk satu masalah.

@@ -144,3 +144,51 @@ Permintaan perubahan dicatat dan dianalisis berdasarkan manfaat, biaya, jadwal, 
 
 LATIHAN KASUS
 Sebuah tim membuat katalog digital sekolah dengan waktu dan anggaran terbatas. Susun piagam proyek, struktur pekerjaan, jaringan ketergantungan, kriteria penerimaan, tiga risiko, dan alur persetujuan perubahan. Jelaskan keputusan jika permintaan fitur baru datang menjelang serah terima.
+
+BAB 12. PENGELOLAAN MANFAAT DAN KEBERHASILAN PROYEK
+
+Keberhasilan proyek tidak cukup diukur dari penyelesaian tepat waktu dan sesuai anggaran. Produk yang selesai belum tentu digunakan atau menghasilkan manfaat. Sejak awal, tim perlu menjelaskan siapa penerima manfaat, perubahan apa yang diharapkan, bagaimana perubahan diukur, dan siapa yang bertanggung jawab setelah proyek diserahkan.
+
+Rencana realisasi manfaat menghubungkan keluaran proyek dengan operasi organisasi. Contohnya, sistem informasi baru membutuhkan pelatihan, dukungan pengguna, pemeliharaan, dan pemilik proses. Jika unsur tersebut tidak disiapkan, investasi dapat menghasilkan aplikasi yang jarang digunakan.
+
+BAB 13. MANAJEMEN TIM DAN KOLABORASI
+
+Tim proyek biasanya terdiri dari orang dengan keahlian, kewenangan, dan beban kerja berbeda. Pembagian tanggung jawab harus jelas agar tugas tidak terabaikan atau dikerjakan ganda. Matriks tanggung jawab dapat menjelaskan siapa pelaksana, siapa pemilik keputusan, siapa yang dikonsultasikan, dan siapa yang perlu diberi informasi.
+
+Konflik tim sering muncul karena prioritas, sumber daya, definisi selesai, atau komunikasi yang tidak jelas. Pemimpin proyek perlu membedakan konflik tugas dari konflik personal. Diskusi yang berfokus pada fakta, dampak, dan pilihan penyelesaian lebih produktif daripada menyalahkan individu.
+
+BAB 14. PENGADAAN DAN HUBUNGAN PEMASOK
+
+Pengadaan dimulai dari definisi kebutuhan, spesifikasi, kriteria evaluasi, dan pemeriksaan risiko pemasok. Harga terendah belum tentu memberi biaya total terendah karena kualitas, dukungan, lisensi, waktu pengiriman, dan pemeliharaan juga berpengaruh. Kriteria harus ditetapkan sebelum penawaran dinilai agar proses transparan.
+
+Kontrak perlu menjelaskan ruang lingkup, hasil kerja, jadwal, kriteria penerimaan, hak kekayaan intelektual, keamanan data, perubahan, dan penyelesaian sengketa. Tim harus memahami ketergantungan pada pemasok serta rencana jika layanan tidak tersedia. Keputusan pengadaan mengikuti kebijakan organisasi dan aturan yang berlaku.
+
+BAB 15. PENGENDALIAN MUTU DAN PENERIMAAN
+
+Mutu berarti kesesuaian hasil dengan kebutuhan dan kriteria yang disepakati. Rencana mutu menentukan standar, metode pemeriksaan, penanggung jawab, dan bukti penerimaan. Pemeriksaan berkala lebih baik daripada menunggu sampai akhir karena masalah dapat ditemukan saat biaya perbaikannya masih rendah.
+
+Kriteria penerimaan harus dapat diuji. Untuk sistem digital, misalnya, kriteria dapat mencakup fungsi utama, aksesibilitas, keamanan, dokumentasi, dan hasil uji pengguna. Perubahan kriteria harus dicatat agar tidak terjadi perbedaan harapan saat serah terima.
+
+BAB 16. PENGELOLAAN PERUBAHAN DAN KONFIGURASI
+
+Perubahan proyek perlu melalui proses yang sebanding dengan dampaknya. Permintaan dicatat, dianalisis terhadap waktu, biaya, mutu, risiko, dan manfaat, lalu diputuskan oleh pihak berwenang. Perubahan kecil dapat disetujui melalui jalur sederhana, sedangkan perubahan besar memerlukan peninjauan lebih lengkap.
+
+Pengendalian konfigurasi memastikan tim mengetahui versi dokumen, desain, kode, dan produk yang sedang berlaku. Penamaan versi, riwayat perubahan, dan persetujuan membantu mencegah pekerjaan menggunakan dokumen lama. Cadangan dan akses terbatas juga penting untuk menjaga integritas hasil.
+
+BAB 17. PENUTUPAN, SERAH TERIMA, DAN PEMBELAJARAN
+
+Penutupan mencakup pemeriksaan hasil, penerimaan formal, penyelesaian kewajiban, pengarsipan dokumen, dan penyerahan kepada pengelola operasi. Catat isu yang belum selesai beserta pemilik dan batas penyelesaiannya. Jangan menganggap proyek selesai hanya karena jadwal kontrak berakhir.
+
+Tinjauan setelah proyek memeriksa apa yang berjalan baik, apa yang meleset, dan faktor penyebabnya. Pelajaran perlu ditulis secara spesifik agar dapat digunakan proyek berikutnya. Fokus pada proses dan kondisi, bukan mencari kambing hitam.
+
+STUDI KASUS: PENERAPAN SISTEM PERPUSTAKAAN DIGITAL
+
+Tim sekolah mengembangkan katalog digital dengan anggaran terbatas. Susun peta pemangku kepentingan, kebutuhan minimum, kriteria penerimaan, rencana pelatihan, dukungan setelah peluncuran, dan indikator penggunaan. Ketika muncul permintaan fitur baru, nilai manfaat dan dampaknya sebelum menyetujui perubahan.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa keberhasilan proyek perlu mengukur manfaat? Karena hasil selesai belum tentu digunakan atau memberi perubahan.
+2. Apa fungsi matriks tanggung jawab? Memperjelas peran dan kewenangan setiap pihak.
+3. Mengapa harga terendah belum tentu pilihan terbaik? Biaya total, mutu, dukungan, dan risiko juga menentukan.
+4. Apa manfaat pengendalian konfigurasi? Menjaga tim bekerja dengan versi dokumen dan produk yang benar.
+5. Apa yang harus ada dalam serah terima? Hasil yang diterima, dokumentasi, isu tersisa, pemilik operasi, dan dukungan.

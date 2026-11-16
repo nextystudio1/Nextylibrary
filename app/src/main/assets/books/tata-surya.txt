@@ -289,3 +289,24 @@ LATIHAN
 4. Mengapa wahana antariksa memakai bantuan gravitasi? Untuk mengubah lintasan dan energi geraknya dengan kebutuhan bahan bakar yang lebih rendah pada kondisi tertentu.
 RANGKUMAN
 Tata surya adalah sistem dinamis yang terdiri atas Matahari, planet, satelit, dan benda kecil. Gerak orbit, cahaya, atmosfer, serta eksplorasi robotik membantu menjelaskan asal-usul dan keragaman dunia di sekitar kita.
+
+BAB GRAVITASI DAN HUKUM ORBIT
+Gravitasi adalah interaksi tarik-menarik antara benda bermassa. Dalam model Newton, gaya gravitasi bertambah dengan massa dan berkurang terhadap kuadrat jarak antara pusat massa. Gaya gravitasi menjaga planet tetap berada pada orbit mengelilingi Matahari dan satelit alami mengelilingi planet. Orbit bukan lintasan yang dipertahankan oleh mesin, melainkan gerak akibat kecepatan tangensial dan tarikan gravitasi.
+
+Hukum Kepler menjelaskan bahwa orbit planet berbentuk elips dengan Matahari pada salah satu fokus, garis penghubung planet-Matahari menyapu luas yang sama dalam waktu sama, dan kuadrat periode orbit sebanding dengan pangkat tiga sumbu semi-mayor. Hukum ini membantu memperkirakan periode dan jarak orbit, tetapi perhitungan lebih teliti dapat memerlukan pengaruh gravitasi banyak benda.
+
+SATELIT BUATAN
+Satelit buatan digunakan untuk komunikasi, navigasi, pengamatan cuaca, pemantauan lingkungan, dan penelitian. Orbit rendah Bumi cocok untuk banyak pengamatan dekat, orbit geostasioner tampak tetap di atas satu wilayah ekuator untuk pengamat di Bumi, sedangkan orbit polar memungkinkan pengamatan lintang berbeda saat Bumi berotasi.
+
+Satelit memerlukan daya, komunikasi, pengendalian orientasi, dan perlindungan dari lingkungan antariksa. Sampah antariksa menjadi tantangan karena benda yang bergerak cepat dapat merusak wahana. Pengelolaan misi perlu mempertimbangkan akhir masa operasi dan pengurangan risiko tabrakan.
+
+PLANET DI LUAR TATA SURYA
+Eksoplanet adalah planet yang mengorbit bintang selain Matahari. Metode transit mendeteksi penurunan kecil cahaya bintang ketika planet melintas di depannya. Metode kecepatan radial mengukur gerak kecil bintang akibat tarikan planet. Metode lain termasuk pencitraan langsung dan pelensaan mikro gravitasi.
+
+Zona laik huni adalah rentang jarak dari bintang tempat air cair mungkin ada di permukaan planet dalam kondisi atmosfer tertentu. Berada di zona tersebut tidak menjamin adanya kehidupan. Atmosfer, medan magnet, aktivitas bintang, komposisi, dan sejarah planet turut menentukan kelayakhunian.
+
+LATIHAN
+Jelaskan perbedaan orbit geostasioner dan orbit polar. Kemudian uraikan mengapa keberadaan planet di zona laik huni tidak cukup untuk menyimpulkan bahwa planet tersebut memiliki kehidupan.
+
+RANGKUMAN BAB
+Gravitasi, hukum orbit, satelit buatan, dan pencarian eksoplanet menunjukkan penerapan fisika dalam eksplorasi ruang angkasa. Kesimpulan tentang planet lain harus didasarkan pada pengukuran dan mempertimbangkan keterbatasan metode.

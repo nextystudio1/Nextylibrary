@@ -423,3 +423,23 @@ LATIHAN DAN PEMBAHASAN
 
 RANGKUMAN
 Matematika sehari-hari melibatkan rasio, skala, persentase, statistika, dan pemodelan. Keterampilan utama bukan hanya menghitung, tetapi juga memilih metode, menjaga satuan, memahami asumsi, dan menafsirkan hasil dengan hati-hati.
+
+BAB PELUANG DAN PENGAMBILAN KEPUTUSAN
+Peluang menyatakan ukuran kemungkinan suatu kejadian dalam model tertentu. Untuk hasil yang sama mungkin, peluang kejadian adalah banyak hasil yang mendukung dibagi jumlah seluruh hasil. Model harus sesuai dengan situasi; tidak semua kejadian memiliki peluang yang sama dan tidak semua peristiwa saling bebas.
+
+Kejadian saling bebas berarti terjadinya satu kejadian tidak mengubah peluang kejadian lain. Pada pengambilan tanpa pengembalian, peluang berubah setelah satu objek diambil. Kesalahan menganggap kejadian tidak bergantung dapat menghasilkan perkiraan yang salah, misalnya saat menghitung peluang mengambil dua kartu tertentu dari satu tumpukan.
+
+RISIKO DAN NILAI HARAPAN
+Nilai harapan adalah rata-rata hasil jangka panjang dalam model peluang. Nilai ini berguna untuk membandingkan pilihan, tetapi tidak memprediksi hasil satu percobaan. Risiko juga melibatkan besarnya kerugian, peluang kejadian, dan kemampuan seseorang menanggung dampak. Keputusan yang memiliki nilai harapan sama dapat memiliki konsekuensi berbeda bagi kelompok berbeda.
+
+GEOMETRI DALAM DESAIN
+Luas dan volume membantu memperkirakan kebutuhan bahan. Luas permukaan dapat memengaruhi pertukaran panas atau jumlah cat, sedangkan volume membantu menghitung kapasitas. Pastikan satuan konsisten: luas menggunakan satuan persegi dan volume satuan kubik. Bentuk nyata dapat memiliki ketebalan, sisa potongan, atau bagian tak beraturan sehingga perhitungan ideal perlu ditambah toleransi.
+
+MODEL DAN OPTIMASI
+Optimasi mencari pilihan terbaik berdasarkan tujuan dan batasan. Misalnya, merancang jadwal belajar perlu mempertimbangkan waktu, tingkat kesulitan, jeda, dan kegiatan lain. Tujuan tidak selalu dapat dimaksimalkan sekaligus; meningkatkan satu hal dapat mengurangi hal lain. Tuliskan asumsi dan kriteria keberhasilan sebelum memilih solusi.
+
+LATIHAN
+Sebuah kelas merancang kotak penyimpanan dari karton dengan luas bahan terbatas. Tentukan beberapa bentuk yang mungkin, hitung volume dan luas permukaan, lalu bandingkan. Jelaskan mengapa bentuk dengan volume terbesar belum tentu paling praktis jika mudah rusak atau sulit disusun.
+
+RANGKUMAN BAB
+Peluang, risiko, geometri, dan optimasi membantu membuat keputusan yang lebih terukur. Matematika yang baik selalu menyatakan model, asumsi, satuan, serta keterbatasan hasil.

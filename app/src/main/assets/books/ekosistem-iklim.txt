@@ -282,3 +282,23 @@ LATIHAN
 3. Mengapa satu kejadian cuaca tidak cukup untuk menilai tren iklim? Karena tren memerlukan catatan panjang dan analisis statistik.
 RANGKUMAN
 Ekosistem dan iklim saling memengaruhi melalui air, energi, organisme, serta aktivitas manusia. Memahami perbedaan cuaca, variabilitas, perubahan iklim, adaptasi, dan mitigasi membantu pelajar menilai bukti serta mengambil tindakan berbasis ilmu.
+
+BAB INTERAKSI ANTARSPESIES
+Organisme berinteraksi melalui kompetisi, predasi, herbivori, parasitisme, mutualisme, dan komensalisme. Kompetisi terjadi ketika organisme menggunakan sumber daya terbatas yang sama. Predasi melibatkan satu organisme menangkap dan memakan organisme lain. Mutualisme memberi manfaat bagi kedua pihak, seperti hubungan penyerbuk dengan tumbuhan berbunga, meskipun tingkat ketergantungannya berbeda-beda.
+
+Spesies kunci dapat memiliki pengaruh besar terhadap struktur komunitas dibandingkan jumlah individunya. Hilangnya satu spesies dapat mengubah hubungan makan dan habitat, tetapi dampaknya bergantung pada ekosistem dan kemungkinan adanya spesies lain yang menjalankan fungsi serupa. Karena itu, prediksi ekologi perlu didukung data setempat.
+
+SUKSESI EKOLOGI
+Suksesi adalah perubahan komposisi komunitas dari waktu ke waktu. Suksesi primer dapat dimulai pada permukaan yang sangat miskin tanah, sedangkan suksesi sekunder terjadi ketika gangguan meninggalkan sebagian tanah atau organisme. Tahap suksesi tidak selalu mengikuti urutan yang sama; iklim, jenis gangguan, penyebaran benih, dan aktivitas manusia memengaruhi jalannya.
+
+KARBON DAN IKLIM
+Karbon bergerak antara atmosfer, organisme, tanah, laut, dan batuan melalui fotosintesis, respirasi, dekomposisi, pelarutan, sedimentasi, serta pembakaran. Pembakaran bahan bakar fosil memindahkan karbon yang tersimpan lama ke atmosfer dalam waktu relatif singkat. Laut menyerap sebagian karbon dioksida, tetapi penyerapan ini juga mengubah kimia air laut dan berkontribusi pada pengasaman laut.
+
+SOLUSI BERBASIS ALAM
+Restorasi mangrove, perlindungan hutan, pemulihan lahan gambut, dan ruang hijau perkotaan dapat memberi manfaat iklim sekaligus perlindungan habitat. Namun, proyek harus memperhatikan spesies lokal, hak masyarakat, ketersediaan air, dan pemeliharaan jangka panjang. Menanam banyak pohon dari satu jenis di lokasi yang tidak sesuai belum tentu memulihkan ekosistem.
+
+LATIHAN
+Buat diagram daur karbon dengan minimal lima tempat penyimpanan karbon dan panah proses perpindahan. Tandai proses yang menambah karbon atmosfer dan proses yang menyerapnya. Jelaskan mengapa perubahan penggunaan lahan dapat memengaruhi iklim dan keanekaragaman hayati sekaligus.
+
+RANGKUMAN BAB
+Interaksi spesies, suksesi, daur karbon, dan solusi berbasis alam menunjukkan bahwa ekosistem adalah jaringan hubungan. Pengelolaan lingkungan perlu melihat dampak jangka panjang serta kebutuhan manusia dan alam.

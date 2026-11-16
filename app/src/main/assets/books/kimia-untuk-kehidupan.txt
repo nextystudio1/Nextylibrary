@@ -392,3 +392,23 @@ LATIHAN
 4. Mengapa label pangan harus dibaca per sajian? Karena angka kandungan bergantung pada ukuran sajian dan jumlah yang dikonsumsi.
 RANGKUMAN
 Kimia kehidupan menjelaskan konsentrasi larutan, asam-basa, reaksi redoks, korosi, dan pangan. Konsep kimia membantu pengambilan keputusan, tetapi praktik laboratorium harus mengikuti prosedur keselamatan dan pengawasan yang benar.
+
+BAB IKATAN KIMIA DAN BENTUK MOLEKUL
+Atom dapat membentuk ikatan untuk mencapai susunan elektron yang lebih stabil. Ikatan ion terbentuk melalui tarikan antara ion bermuatan berlawanan setelah perpindahan elektron, sedangkan ikatan kovalen melibatkan pemakaian pasangan elektron bersama. Ikatan logam melibatkan elektron yang terdelokalisasi sehingga membantu menjelaskan konduktivitas dan sifat dapat ditempa pada logam.
+
+Bentuk molekul dipengaruhi susunan pasangan elektron di sekitar atom pusat. Tolakan pasangan elektron membantu memperkirakan geometri molekul, tetapi bentuk dan polaritas juga dipengaruhi perbedaan keelektronegatifan serta simetri. Molekul dengan ikatan polar belum tentu memiliki momen dipol total jika susunannya simetris.
+
+GAYA ANTARMOLEKUL
+Gaya dispersi terdapat pada semua partikel dan umumnya meningkat dengan ukuran serta kemudahan awan elektron terpolarisasi. Gaya dipol-dipol terjadi antarmolekul polar. Ikatan hidrogen merupakan interaksi kuat yang melibatkan hidrogen terikat pada atom elektronegatif tertentu dan pasangan elektron bebas. Gaya antarmolekul membantu menjelaskan titik didih, kelarutan, dan tegangan permukaan.
+
+LAJU REAKSI DAN KATALIS
+Laju reaksi dipengaruhi konsentrasi, suhu, luas permukaan, tekanan untuk gas, dan katalis. Kenaikan suhu umumnya meningkatkan energi kinetik partikel dan jumlah tumbukan efektif. Katalis menyediakan jalur reaksi alternatif dengan energi aktivasi lebih rendah dan tidak habis secara keseluruhan dalam reaksi. Katalis tidak mengubah posisi kesetimbangan, tetapi membantu sistem mencapainya lebih cepat.
+
+KIMIA HIJAU
+Kimia hijau berupaya merancang produk dan proses yang mengurangi penggunaan serta pembentukan zat berbahaya. Prinsipnya meliputi pencegahan limbah, efisiensi atom, pelarut lebih aman, efisiensi energi, bahan baku terbarukan bila sesuai, dan desain produk yang mudah terurai. Penilaian harus melihat seluruh siklus hidup; bahan terbarukan tidak otomatis lebih baik jika produksinya merusak habitat atau membutuhkan sumber daya besar.
+
+LATIHAN
+Bandingkan dua bahan pembersih berdasarkan label, fungsi, petunjuk penggunaan, dan peringatan keselamatan. Jangan mencampur produk. Jelaskan mengapa komposisi dan cara pemakaian lebih penting daripada klaim promosi semata.
+
+RANGKUMAN BAB
+Ikatan, bentuk molekul, gaya antarmolekul, laju reaksi, dan kimia hijau menjelaskan sifat bahan serta dampak proses kimia. Pengetahuan kimia perlu disertai penggunaan bahan sesuai label dan prosedur aman.

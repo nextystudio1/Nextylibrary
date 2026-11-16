@@ -273,3 +273,23 @@ Pemeriksaan lateral: verifikasi klaim dengan menelusuri sumber lain.
 Sumber primer: bukti atau data langsung dari objek/peristiwa.
 Jejak digital: rekaman aktivitas dan informasi yang tertinggal saat menggunakan layanan digital.
 Konteks: keadaan yang membantu menjelaskan makna informasi.
+
+BAB ALGORITMA REKOMENDASI DAN RUANG INFORMASI
+Platform digital sering menggunakan sistem rekomendasi untuk memilih konten yang ditampilkan. Sistem dapat mempertimbangkan riwayat tontonan, interaksi, popularitas, lokasi, atau kesamaan minat. Tujuannya dapat berupa meningkatkan relevansi atau keterlibatan pengguna, tetapi hasilnya dapat membatasi keragaman informasi jika pengguna terus menerima konten serupa.
+
+Personalisasi tidak selalu berarti informasi salah, tetapi dapat membuat seseorang jarang melihat sudut pandang berbeda. Pengguna dapat mencari sumber di luar rekomendasi otomatis, mengikuti media dengan standar editorial jelas, dan memeriksa topik yang sama dari beberapa sumber independen. Perbedaan pendapat perlu dinilai berdasarkan bukti, bukan sekadar kesesuaian dengan keyakinan.
+
+KONFIRMASI DAN PENALARAN
+Bias konfirmasi adalah kecenderungan mencari atau menafsirkan informasi yang mendukung keyakinan awal. Cara menguranginya adalah mencari bukti yang dapat membantah dugaan, menetapkan standar bukti sebelum membaca hasil, dan meminta orang lain memeriksa argumen. Pertanyaan penting bukan hanya “siapa yang setuju?”, melainkan “bukti apa yang dapat mengubah kesimpulan?”
+
+GAMBAR, VIDEO, DAN KONTEKS
+Gambar atau video dapat dipotong, diberi keterangan keliru, atau ditampilkan tanpa tanggal dan lokasi. Periksa sumber pertama, konteks sebelum dan sesudah, serta apakah media yang sama muncul dalam laporan tepercaya. Pencarian gambar balik dapat membantu menemukan kemunculan lebih awal, tetapi tidak selalu memastikan keaslian. Jangan menyebarkan konten yang mempermalukan atau membahayakan orang.
+
+MEMBUAT KEPUTUSAN BERDASARKAN BUKTI
+Buat daftar klaim, bukti pendukung, bukti yang berlawanan, dan hal yang belum diketahui. Bedakan fakta yang dapat diverifikasi, penilaian nilai, dan prediksi. Jika bukti belum cukup, kesimpulan sementara lebih jujur daripada kepastian palsu. Perbarui pendapat ketika informasi baru yang kuat tersedia.
+
+LATIHAN
+Pilih satu klaim populer yang tidak menyangkut data pribadi. Telusuri sumber awal dan dua sumber independen. Buat tabel tanggal publikasi, bukti, konteks, dan ketidakpastian. Tulis kesimpulan dengan tingkat keyakinan yang sesuai.
+
+RANGKUMAN BAB
+Berpikir kritis digital berarti memahami rekomendasi otomatis, mengenali bias, memeriksa konteks media, dan menimbang bukti yang mendukung maupun menentang suatu klaim.

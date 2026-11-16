@@ -325,3 +325,20 @@ LATIHAN
 4. Sebutkan dua hal yang wajib diperiksa sebelum menyalakan rangkaian. Polaritas dan batas tegangan/arus komponen.
 RANGKUMAN
 Elektronika menghubungkan komponen, hukum rangkaian, sinyal, dan pengukuran. Pemahaman simbol serta keselamatan kerja menjadi dasar sebelum merancang atau menguji perangkat.
+
+BAB LOGIKA DIGITAL DAN SISTEM TERTANAM
+Sistem digital merepresentasikan informasi menggunakan keadaan diskret, sering kali dinyatakan sebagai 0 dan 1. Gerbang logika seperti AND, OR, dan NOT mengolah masukan biner untuk menghasilkan keluaran. Tabel kebenaran menunjukkan keluaran untuk setiap kombinasi masukan dan membantu memeriksa rancangan.
+
+Mikrokontroler menggabungkan prosesor, memori, dan antarmuka masukan-keluaran dalam satu chip. Perangkat ini dapat membaca sensor dan mengendalikan aktuator melalui program. Sistem tertanam dirancang untuk tugas tertentu, misalnya pengatur suhu, alat ukur, atau pengendali lampu. Perancangan perlu mempertimbangkan konsumsi daya, keandalan, dan keamanan.
+
+SENSOR DAN KALIBRASI
+Sensor mengubah besaran fisik seperti suhu, cahaya, tekanan, atau gerak menjadi sinyal yang dapat diolah. Setiap sensor memiliki rentang ukur, resolusi, akurasi, waktu respons, dan kemungkinan penyimpangan. Kalibrasi membandingkan hasil sensor dengan acuan yang diketahui. Tanpa kalibrasi, angka yang tampil dapat terlihat presisi tetapi tidak akurat.
+
+SUMBER DAYA DAN EFISIENSI
+Rangkaian membutuhkan sumber daya yang sesuai dengan tegangan dan arus komponen. Regulator membantu menjaga tegangan, sedangkan kapasitor dapat membantu meredam perubahan sesaat. Efisiensi memperhatikan energi yang berguna dibandingkan energi yang masuk. Panas berlebih dapat menurunkan keandalan dan harus diperhitungkan dalam rancangan.
+
+PROYEK SIMULASI
+Rancang diagram sistem pemantau suhu kelas menggunakan sensor, mikrokontroler, indikator, dan sumber daya tegangan rendah. Tentukan masukan, proses, keluaran, kondisi batas, dan cara menguji. Gunakan simulator atau kit pendidikan sesuai arahan guru. Jangan menghubungkan rangkaian buatan ke listrik rumah.
+
+RANGKUMAN BAB
+Logika digital, mikrokontroler, sensor, kalibrasi, dan manajemen daya menjadi dasar banyak perangkat modern. Rancangan yang baik menggabungkan fungsi, pengujian, dan keselamatan.

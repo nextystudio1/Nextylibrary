@@ -186,3 +186,22 @@ Gunakan skenario, rentang perkiraan, dan analisis sensitivitas. Tanyakan apakah 
 
 LATIHAN
 Baca sebuah klaim populer. Tulis kesimpulannya, bukti yang diberikan, asumsi tersembunyi, kemungkinan penjelasan lain, dan informasi tambahan yang diperlukan sebelum mempercayainya.
+
+BAB 11. MODEL, ALGORITMA, DAN HEURISTIK
+Model merupakan penyederhanaan kenyataan untuk membantu memahami atau memperkirakan suatu keadaan. Model yang baik tidak harus memuat semua rincian, tetapi harus mempertahankan unsur yang penting bagi pertanyaan. Dalam pemecahan masalah, algoritma adalah urutan langkah yang jelas dan dapat diikuti. Heuristik merupakan aturan praktis yang membantu menemukan solusi lebih cepat, tetapi tidak menjamin hasil terbaik. Misalnya, ketika menyusun rute, seseorang dapat memilih jalan yang tampak paling dekat. Pilihan itu berguna sebagai awal, tetapi kemacetan, keamanan, dan kondisi jalan dapat mengubah hasil. Karena itu, model dan heuristik perlu diuji terhadap contoh nyata.
+
+BAB 12. OPTIMASI DAN KENDALA
+Optimasi mencari pilihan terbaik berdasarkan tujuan dan kendala. Tujuan dapat berupa meminimalkan waktu, biaya, atau penggunaan sumber daya, sedangkan kendala membatasi pilihan yang mungkin. Satu solusi tidak selalu terbaik untuk semua tujuan. Jadwal yang paling singkat mungkin membuat beban kerja tidak merata. Untuk membandingkan alternatif, tetapkan kriteria sebelum memilih, beri bobot secara transparan, dan uji apakah perubahan bobot mengubah keputusan. Analisis sensitivitas membantu mengetahui asumsi mana yang paling berpengaruh.
+
+BAB 13. KERJA KELOMPOK DAN PEMECAHAN MASALAH
+Kelompok dapat menggabungkan pengetahuan dan sudut pandang yang berbeda. Agar diskusi produktif, sepakati masalah, tujuan, aturan giliran bicara, pembagian peran, dan cara mengambil keputusan. Catat pendapat minoritas serta alasan di balik keputusan. Hindari menganggap kesepakatan sebagai bukti bahwa pilihan pasti benar. Setelah tindakan dilakukan, tinjau hasil bersama dan berikan ruang untuk memperbaiki proses tanpa menyalahkan individu secara tidak adil.
+
+STUDI KASUS TERPADU
+Sebuah kelompok siswa harus menyelenggarakan pameran dengan anggaran dan waktu terbatas. Mereka perlu mengidentifikasi kebutuhan pengunjung, memperkirakan biaya, membagi tugas, menyusun jadwal, dan menyiapkan rencana cadangan. Buat tiga alternatif rancangan, tentukan kriteria, lalu bandingkan manfaat dan risikonya. Setelah acara, evaluasi jumlah pengunjung, penggunaan anggaran, aksesibilitas, dan umpan balik. Jelaskan bagian model yang ternyata tidak sesuai kenyataan.
+
+LATIHAN PENDALAMAN
+1. Berikan contoh model yang bermanfaat tetapi tidak menggambarkan seluruh kenyataan.
+2. Jelaskan perbedaan algoritma dan heuristik.
+3. Mengapa tujuan dan kendala perlu ditulis sebelum optimasi?
+4. Buat matriks sederhana untuk membandingkan tiga alternatif solusi.
+5. Tuliskan bagaimana kelompok dapat menguji keputusan tanpa mengabaikan pendapat minoritas.

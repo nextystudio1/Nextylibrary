@@ -63,7 +63,6 @@ Transistor: komponen semikonduktor untuk sakelar atau penguatan.
 CATATAN PENULIS
 Naskah pengantar orisinal Nexty Studio. Materi ini bukan instruksi untuk memperbaiki perangkat listrik rumah atau menangani tegangan tinggi.
 
-
 PENDALAMAN — MEMBACA DAN MEMAHAMI SISTEM ELEKTRONIK
 BAB 7 — DIAGRAM RANGKAIAN
 Diagram menggunakan simbol untuk menunjukkan hubungan listrik, bukan bentuk fisik komponen. Garis menunjukkan sambungan; simbol mewakili resistor, kapasitor, sumber, sakelar, dan komponen lain. Pada rangkaian seri, komponen berada pada satu jalur sehingga arus sama melewati tiap komponen. Pada rangkaian paralel, cabang memiliki beda potensial yang sama dan arus terbagi sesuai karakteristik cabang.
@@ -129,8 +128,6 @@ LATIHAN
 3. Mengapa LED memerlukan pembatas arus? Arus berlebih dapat merusaknya.
 4. Mengapa lembar data penting? Memastikan batas listrik, pinout, dan kondisi operasi.
 
-
-
 BAB LANJUTAN — MEMBACA DIAGRAM DAN KESELAMATAN ELEKTRONIKA
 
 Diagram rangkaian menggunakan simbol untuk menggambarkan hubungan komponen. Diagram tidak selalu menunjukkan posisi fisik komponen, melainkan bagaimana komponen dihubungkan. Sebelum membaca rangkaian, kenali sumber tegangan, jalur arus, resistor, sakelar, dan beban. Perhatikan polaritas pada komponen yang memiliki terminal positif dan negatif.
@@ -162,7 +159,6 @@ Polaritas: penandaan terminal positif dan negatif.
 Multimeter: alat ukur besaran listrik.
 Resistor pembatas: komponen untuk membatasi arus pada rangkaian.
 Tegangan rendah: sumber tegangan pembelajaran dengan risiko lebih kecil sesuai standar kit.
-
 
 PENGEMBANGAN MATERI — SISTEM DAN APLIKASI ELEKTRONIKA
 
@@ -429,7 +425,6 @@ Pertanyaan: Mengapa batas maksimum absolut tidak boleh dianggap sebagai nilai ke
 
 RANGKUMAN PENGAYAAN
 Memahami sistem elektronik berarti menelusuri energi, sinyal, sensor, pemrosesan, dan umpan balik. Dokumentasi komponen, kalibrasi, keselamatan, serta pengujian terukur menjadi dasar rancangan yang andal.
-
 
 BAB PENGAYAAN 1 — MEMBACA DIAGRAM RANGKAIAN
 

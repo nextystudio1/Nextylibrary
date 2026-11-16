@@ -154,3 +154,45 @@ Saat membandingkan data, samakan satuan, periode, kedalaman, dan metode sejauh m
 
 PROYEK ANALISIS LAUT
 Gunakan data terbuka dari sumber ilmiah atau lembaga resmi untuk membandingkan satu parameter laut pada dua waktu atau lokasi. Catat sumber, satuan, resolusi, metode, dan keterbatasan. Buat grafik yang memiliki label jelas, jelaskan pola yang terlihat, dan hindari menyatakan hubungan sebab-akibat tanpa bukti tambahan. Jangan melakukan pengamatan lapangan di laut atau pesisir tanpa pendampingan, izin, dan prosedur keselamatan yang sesuai.
+BAB 16. MASSA AIR DAN STRATIFIKASI
+
+Massa air merupakan bagian perairan yang memiliki karakteristik suhu dan salinitas relatif khas. Karakteristik tersebut terbentuk melalui proses di permukaan, seperti pemanasan, pendinginan, penguapan, presipitasi, pembekuan, dan pencampuran. Ketika massa air bergerak, sifatnya dapat berubah akibat pertukaran panas dan pencampuran dengan perairan sekitarnya.
+
+Perbedaan kerapatan dapat membentuk stratifikasi vertikal. Air yang lebih rapat cenderung berada di bawah air yang lebih ringan, sehingga pencampuran vertikal dapat terhambat. Lapisan permukaan yang dipanaskan matahari dapat menjadi lebih ringan, sementara lapisan lebih dalam tetap dingin. Angin dan gelombang dapat mencampur lapisan atas, tetapi tidak selalu menembus seluruh kolom air.
+
+Kedalaman lapisan campuran berubah menurut musim, cuaca, dan lokasi. Stratifikasi memengaruhi distribusi oksigen, nutrien, dan organisme. Jika pencampuran melemah, nutrien dari kedalaman mungkin lebih sulit mencapai permukaan; sebaliknya, pencampuran kuat dapat membawa nutrien ke zona bercahaya. Penjelasan harus mempertimbangkan kondisi setempat dan data vertikal, bukan hanya suhu permukaan.
+
+BAB 17. ESTUARI DAN DINAMIKA AIR TAWAR-LAUT
+
+Estuari merupakan wilayah peralihan tempat air tawar dari sungai bercampur dengan air laut. Salinitas berubah menurut jarak dari muara, kedalaman, debit sungai, pasang surut, dan bentuk saluran. Beberapa estuari memiliki lapisan air tawar di atas air asin yang lebih rapat, sedangkan kondisi lain menunjukkan pencampuran lebih kuat.
+
+Estuari sering menjadi habitat penting bagi ikan, burung, dan organisme lain. Nutrien serta sedimen dari daratan dapat mendukung produktivitas, tetapi masukan berlebih atau pencemaran dapat mengubah kualitas air. Pembangunan, pengerukan, perubahan aliran sungai, dan hilangnya vegetasi pesisir juga memengaruhi fungsi estuari.
+
+Kajian estuari memerlukan pengukuran pada beberapa titik dan waktu, termasuk kondisi pasang dan surut. Satu sampel di dekat muara tidak mewakili seluruh sistem. Parameter yang dapat diamati antara lain salinitas, suhu, oksigen terlarut, kekeruhan, nutrien, dan kondisi habitat. Pengambilan sampel lapangan harus dilakukan oleh tim yang memiliki izin dan prosedur keselamatan.
+
+BAB 18. TERUMBU KARANG, LAMUN, DAN MANGROVE
+
+Terumbu karang dibangun oleh organisme karang yang hidup bersama alga simbion. Ekosistem ini menyediakan habitat dan mendukung perikanan serta pariwisata, tetapi sensitif terhadap perubahan suhu, kualitas air, sedimentasi, dan tekanan fisik. Pemutihan karang terjadi ketika hubungan simbiosis terganggu; tingkat pemulihan bergantung pada intensitas dan lamanya tekanan serta kondisi ekosistem.
+
+Padang lamun merupakan ekosistem tumbuhan berbunga yang hidup terendam di laut dangkal. Daunnya menjadi tempat mencari makan dan berlindung bagi berbagai organisme, sementara akar dan rimpangnya membantu menstabilkan sedimen. Mangrove tumbuh di wilayah pasang surut dan memiliki adaptasi terhadap kondisi berlumpur serta salinitas yang berubah. Akar mangrove dapat meredam energi gelombang dan menyediakan habitat asuhan.
+
+Ketiga ekosistem saling terhubung melalui aliran organisme, nutrien, dan sedimen. Perlindungan satu habitat saja mungkin tidak cukup jika sumber tekanan berasal dari daerah aliran sungai atau kegiatan di wilayah lain. Pengelolaan terpadu perlu mempertimbangkan konektivitas ekosistem, kualitas air, tata ruang, dan mata pencaharian masyarakat.
+
+BAB 19. PENCEMARAN LAUT DAN PEMANTAUAN
+
+Pencemaran laut dapat berasal dari limbah domestik, industri, pertanian, kegiatan pelayaran, tumpahan minyak, dan sampah padat. Polutan memiliki sifat serta jalur penyebaran berbeda. Sebagian mudah larut, sebagian melekat pada partikel, dan sebagian dapat terakumulasi dalam organisme. Risiko bergantung pada konsentrasi, lama paparan, toksisitas, dan sensitivitas organisme.
+
+Mikroplastik merupakan fragmen plastik berukuran kecil yang dapat berasal dari pecahan benda lebih besar atau produk tertentu. Pengukuran mikroplastik menghadapi tantangan kontaminasi sampel, perbedaan ukuran yang dihitung, dan metode identifikasi. Karena itu, hasil dari dua penelitian tidak selalu dapat dibandingkan tanpa memeriksa prosedurnya.
+
+Pemantauan pencemaran membutuhkan rancangan lokasi, frekuensi, parameter, metode laboratorium, kendali mutu, dan dokumentasi. Sampel harus diberi kode dan ditangani sesuai protokol. Interpretasi perlu membedakan keberadaan zat, tingkat paparan, dan bukti dampak biologis. Temuan pencemaran tidak boleh langsung dikaitkan dengan satu sumber tanpa analisis tambahan.
+
+BAB 20. PENGELOLAAN PESISIR TERPADU
+
+Wilayah pesisir merupakan ruang yang digunakan oleh masyarakat, ekosistem, industri, pariwisata, pelabuhan, dan infrastruktur. Keputusan pada satu sektor dapat menimbulkan konsekuensi pada sektor lain. Pembangunan pelindung pantai, misalnya, dapat mengurangi erosi setempat tetapi mengubah transportasi sedimen di lokasi sekitar.
+
+Pengelolaan terpadu memerlukan tujuan bersama, peta pemanfaatan ruang, data lingkungan, konsultasi publik, pembagian tanggung jawab, dan mekanisme evaluasi. Partisipasi masyarakat penting karena warga memiliki pengetahuan lokal tentang perubahan musim, lokasi tangkap, banjir rob, dan kondisi habitat. Pengetahuan tersebut perlu dipadukan dengan pengukuran ilmiah, bukan dianggap pengganti seluruh data.
+
+Indikator pengelolaan dapat mencakup kondisi habitat, kualitas air, risiko bencana, akses publik, keberlanjutan mata pencaharian, dan kepatuhan aturan. Indikator harus memiliki definisi, metode pengukuran, frekuensi, dan penanggung jawab. Hasil evaluasi digunakan untuk menyesuaikan kebijakan ketika kondisi berubah.
+
+PROYEK KAJIAN TERPADU
+Susun profil konseptual satu kawasan pesisir menggunakan peta dan data terbuka. Jelaskan bentuk pantai, ekosistem, proses oseanografi, kegiatan manusia, potensi tekanan, dan kelompok yang berkepentingan. Buat diagram hubungan sebab-akibat yang membedakan bukti dari hipotesis. Ajukan tiga tindakan pengelolaan dan jelaskan manfaat, risiko, kebutuhan data, serta cara mengevaluasinya.

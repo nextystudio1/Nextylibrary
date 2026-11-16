@@ -182,3 +182,34 @@ LATIHAN DAN PEMBAHASAN
 3. Apa fungsi keseimbangan putih? Menyesuaikan tampilan warna terhadap karakter pencahayaan.
 4. Mengapa urutan foto penting? Urutan membangun konteks dan alur makna.
 5. Mengapa izin pengambilan foto belum tentu mencakup publikasi? Tujuan penggunaan dan audiens dapat berbeda.
+
+BAB LANJUTAN: WARNA, KONTRAS, DAN PERSEPSI VISUAL
+
+Warna dalam foto dipengaruhi sumber cahaya, karakter sensor, profil warna, dan proses pengolahan. Dua objek yang tampak serupa di layar dapat berbeda ketika dicetak karena media dan ruang warna berbeda. Pengelolaan warna membantu menjaga konsistensi, tetapi tidak menghilangkan seluruh variasi perangkat.
+
+Kontras tonal menentukan pemisahan antara area terang dan gelap. Histogram dapat memberi gambaran distribusi nilai, tetapi tidak menunjukkan apakah sebuah foto secara estetis berhasil. Area yang menumpuk di tepi histogram perlu diperiksa bersama isi gambar dan tujuan visual. Tidak semua foto harus memiliki distribusi tonal yang merata.
+
+Warna juga membawa asosiasi budaya yang beragam. Pemilihan warna untuk proyek dokumenter atau komunikasi publik perlu mempertimbangkan konteks audiens dan aksesibilitas. Jangan mengandalkan warna sebagai satu-satunya pembeda informasi; gunakan bentuk, label, atau pola pendukung.
+
+BAB LANJUTAN: PENYUNTINGAN FOTO DAN INTEGRITAS DOKUMENTASI
+
+Penyuntingan dapat memperbaiki eksposur, warna, komposisi, dan gangguan kecil sesuai tujuan karya. Dalam fotografi dokumenter, perubahan yang mengubah makna peristiwa atau menghilangkan unsur penting dapat menyesatkan. Simpan berkas asli dan catat perubahan yang relevan ketika integritas dokumentasi diperlukan.
+
+Perbedaan antara koreksi teknis dan manipulasi konteks harus dijelaskan kepada audiens. Penggabungan beberapa foto, penghapusan objek, atau penambahan elemen dapat diterima dalam karya konseptual jika dinyatakan dengan jelas, tetapi tidak boleh disajikan sebagai dokumentasi faktual tanpa penjelasan.
+
+Metadata dapat membantu mengelola arsip, namun metadata juga dapat mengungkap lokasi atau informasi pribadi. Sebelum membagikan foto, periksa apakah data lokasi atau identitas perlu dihapus. Persetujuan subjek harus mencakup tujuan dan konteks publikasi.
+
+BAB LANJUTAN: ETIKA REPRESENTASI DAN CERITA VISUAL
+
+Cerita visual membentuk cara audiens memahami orang dan peristiwa. Pemilihan sudut, urutan, keterangan, dan momen dapat mengarahkan interpretasi. Fotografer perlu bertanya apakah subjek digambarkan secara bermartabat, apakah konteks penting hilang, dan apakah publikasi dapat menimbulkan risiko.
+
+Persetujuan perlu dipahami sebagai proses, bukan sekadar tanda tangan. Jelaskan penggunaan, audiens, kemungkinan penyebaran ulang, dan batas kendali setelah karya dipublikasikan. Untuk anak atau orang dalam situasi rentan, ikuti perlindungan dan persyaratan persetujuan yang berlaku serta utamakan keselamatan.
+
+Keterangan foto sebaiknya akurat dan membedakan fakta yang diketahui dari interpretasi. Jangan mengarang nama, lokasi, atau kronologi. Jika informasi belum terverifikasi, nyatakan keterbatasannya atau jangan gunakan klaim tersebut.
+
+LATIHAN PENDALAMAN
+1. Mengapa histogram tidak menentukan kualitas foto secara otomatis?
+2. Apa perbedaan koreksi teknis dan manipulasi konteks?
+3. Mengapa metadata lokasi perlu diperiksa sebelum publikasi?
+4. Apa saja yang perlu dijelaskan dalam persetujuan publikasi foto?
+5. Bagaimana keterangan foto dapat mengubah interpretasi audiens?

@@ -476,3 +476,28 @@ Sampling klaster: pemilihan kelompok alami sebagai unit sampel.
 Nilai p: ukuran ketidakselarasan data dengan hipotesis nol di bawah asumsi model.
 Ukuran efek: ukuran besar kecilnya perbedaan atau hubungan.
 Ekstrapolasi: prediksi di luar rentang data pengamatan.
+BAB 13 — PENARIKAN SAMPEL DAN KETERWAKILAN
+
+Dalam penelitian, sering kali tidak mungkin mengamati seluruh anggota populasi. Peneliti memilih sebagian anggota yang disebut sampel. Sampel yang baik harus sesuai dengan pertanyaan penelitian dan cara pemilihannya dijelaskan secara terbuka. Ukuran sampel saja tidak menjamin keterwakilan; sampel besar yang dipilih secara bias tetap dapat menghasilkan kesimpulan yang keliru.
+
+Sampel acak sederhana memberi setiap anggota populasi peluang terpilih yang sama. Sampel berstrata membagi populasi menjadi kelompok penting, kemudian mengambil sampel dari setiap kelompok. Sampel klaster memilih kelompok alami, misalnya sekolah atau wilayah, lalu mengamati anggota di dalam klaster terpilih. Setiap metode memiliki kelebihan, biaya, dan potensi bias.
+
+Bias seleksi terjadi ketika peluang masuk sampel berkaitan dengan karakteristik yang sedang diteliti. Survei daring terbuka, misalnya, dapat lebih banyak diisi orang yang memiliki akses internet dan minat tinggi pada topik tersebut. Tingkat respons juga penting: orang yang tidak menjawab mungkin berbeda secara sistematis dari orang yang menjawab.
+
+Margin of error pada survei sampel acak menggambarkan ketidakpastian akibat pengambilan sampel dalam kondisi asumsi tertentu. Margin tersebut tidak otomatis mencakup kesalahan pertanyaan, pencatatan, cakupan, atau nonrespons. Karena itu, laporan statistik perlu menyampaikan metode, tanggal pengumpulan, ukuran sampel, dan keterbatasan.
+
+BAB 14 — KORELASI DAN REGRESI
+
+Korelasi mengukur arah dan kekuatan hubungan linear antara dua variabel. Koefisien korelasi Pearson berada antara -1 dan 1. Nilai positif menunjukkan kecenderungan kedua variabel meningkat bersama, nilai negatif menunjukkan kecenderungan satu meningkat ketika yang lain menurun, dan nilai mendekati nol menunjukkan hubungan linear yang lemah. Nilai mendekati nol tidak menyingkirkan kemungkinan hubungan non-linear.
+
+Diagram pencar membantu memeriksa pola sebelum menghitung koefisien. Pencilan dapat memengaruhi korelasi secara besar. Hubungan yang tampak kuat juga dapat disebabkan oleh variabel ketiga atau tren waktu bersama. Oleh sebab itu, korelasi tidak boleh langsung ditafsirkan sebagai sebab-akibat.
+
+Regresi linear sederhana memodelkan hubungan dengan persamaan ŷ = a + bx. Kemiringan b menggambarkan perubahan rata-rata prediksi y untuk kenaikan satu satuan x dalam model. Intersep a adalah prediksi ketika x bernilai nol, meskipun nilai tersebut mungkin tidak bermakna dalam konteks. Residual adalah selisih antara nilai pengamatan dan nilai prediksi.
+
+BAB 15 — MEMBACA HASIL STATISTIK DENGAN BIJAK
+
+Nilai p dalam pengujian hipotesis bukan probabilitas bahwa hipotesis nol benar. Nilai tersebut menyatakan seberapa ekstrem hasil yang diamati, atau yang lebih ekstrem, jika hipotesis nol dan asumsi model berlaku. Nilai p kecil dapat menjadi alasan meninjau bukti terhadap hipotesis nol, tetapi tidak menunjukkan besarnya dampak atau kepentingan praktis.
+
+Interval kepercayaan memberi rentang nilai yang dihasilkan oleh prosedur estimasi pada tingkat cakupan tertentu dalam pengulangan jangka panjang. Interval yang sempit biasanya menunjukkan estimasi lebih presisi, tetapi presisi tidak sama dengan kebenaran jika desain penelitian bias. Besaran efek dan konteks praktis perlu dilaporkan bersama signifikansi statistik.
+
+Prinsip penting: statistik membantu menyusun penalaran, bukan menggantikan penilaian. Pembaca perlu menanyakan bagaimana data dikumpulkan, apakah asumsi terpenuhi, apakah analisis telah direncanakan, dan apakah hasil dapat direplikasi. Angka tanpa konteks mudah disalahartikan.

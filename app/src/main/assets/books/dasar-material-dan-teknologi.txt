@@ -6,31 +6,31 @@ DESKRIPSI
 Mengenal sifat logam, polimer, keramik, komposit, pengujian, dan pemilihan material.
 
 PENDAHULUAN
-Buku ini memperkenalkan konsep dan cara berpikir dalam bidang yang dibahas. Pemahaman dibangun dengan menghubungkan istilah, mekanisme, bukti, dan penerapan. Setiap bab dilengkapi kegiatan refleksi serta latihan agar pembaca dapat menguji pemahaman secara mandiri.
+Buku Dasar Material dan Teknologi membahas mengenal sifat logam, polimer, keramik, komposit, pengujian, dan pemilihan material.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
 
 BAB 1. STRUKTUR DAN SIFAT MATERIAL
 
 Sifat material berasal dari komposisi dan struktur pada tingkat atom, kristal, serta mikrostruktur. Kekuatan, kekerasan, keuletan, konduktivitas, dan ketahanan korosi merupakan sifat berbeda. Tidak ada material yang terbaik untuk semua penggunaan; pemilihan harus sesuai fungsi dan kondisi kerja.
 
-PENJELASAN LANJUTAN
-Dalam menggunakan konsep ini, perhatikan asumsi dan kondisi yang menyertainya. Sebuah model atau aturan biasanya dibuat untuk menjelaskan keadaan tertentu, bukan seluruh kemungkinan. Periksa definisi variabel, satuan, rentang penggunaan, serta faktor lain yang dapat mengubah hasil. Jika data tidak lengkap, nyatakan batas pengetahuan dan hindari kesimpulan yang terlalu luas.
+PENDALAMAN
+Pada STRUKTUR DAN SIFAT MATERIAL, pisahkan hasil pengamatan dari penjelasan. Tentukan faktor yang diukur, kondisi yang memengaruhinya, serta bukti yang mendukung kesimpulan. Jelaskan batas model atau metode yang digunakan dan data tambahan yang diperlukan.
 
-CONTOH DAN PENERAPAN
-Buat contoh dari situasi yang dapat diamati. Tuliskan tujuan, kondisi awal, proses, dan hasil. Bandingkan dengan situasi lain yang memiliki satu atau dua kondisi berbeda. Perbandingan membantu melihat unsur mana yang penting dan mana yang hanya kebetulan muncul bersamaan.
-
-AKTIVITAS
-1. Susun peta konsep dari istilah penting.
-2. Buat tabel yang membandingkan dua konsep terkait.
-3. Cari contoh penerapan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan yang memerlukan bukti tambahan.
+CONTOH PENERAPAN
+Contoh kajian: pilih kasus sederhana yang berkaitan dengan STRUKTUR DAN SIFAT MATERIAL dalam bidang Dasar Material dan Teknologi. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
 
 LATIHAN
-1. Jelaskan gagasan utama bab ini dengan kalimat sendiri.
-2. Uraikan proses atau hubungan yang dibahas secara berurutan.
-3. Berikan contoh baru dan jelaskan mengapa sesuai.
-4. Sebutkan keterbatasan model atau penjelasan.
-5. Tulis satu rekomendasi berdasarkan bukti yang tersedia.
+1. Apa konsep utama dalam STRUKTUR DAN SIFAT MATERIAL?
+2. Bagaimana hubungan konsep tersebut dengan bagian lain dalam buku?
+3. Berikan penerapan baru dan jelaskan langkah berpikirmu.
+4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
+5. Bukti apa yang dapat memperkuat jawabanmu?
+
+LATIHAN
+1. Apa konsep utama dalam STRUKTUR DAN SIFAT MATERIAL?
+2. Bagaimana hubungan konsep tersebut dengan bagian lain dalam buku?
+3. Berikan penerapan baru dan jelaskan langkah berpikirmu.
+4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
+5. Bukti apa yang dapat memperkuat jawabanmu?
 
 BAB 2. LOGAM DAN PADUAN
 
@@ -52,18 +52,18 @@ BAB 6. PENGUJIAN DAN KEBERLANJUTAN
 
 Pengujian material mengukur sifat melalui metode terstandar. Sampel, kondisi, dan prosedur harus dicatat agar hasil dapat dibandingkan. Evaluasi keberlanjutan mempertimbangkan bahan baku, energi produksi, umur pakai, perbaikan, daur ulang, dan limbah. Keputusan tidak cukup berdasarkan satu klaim pemasaran.
 
-PROYEK AKHIR
-Pilih satu persoalan yang relevan dengan bidang buku. Rumuskan pertanyaan, tujuan, batasan, dan metode kajian. Gunakan sumber yang dapat diperiksa. Sajikan hasil dalam bentuk laporan, diagram, atau presentasi. Pisahkan data, interpretasi, dan rekomendasi. Sertakan catatan keterbatasan serta langkah lanjutan.
+PROYEK TERPADU
+Buat kajian mini untuk Dasar Material dan Teknologi dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Definisikan lima istilah kunci.
-2. Hubungkan tiga bab dalam satu penjelasan.
-3. Analisis kasus dengan bukti yang relevan.
-4. Bandingkan alternatif solusi atau penafsiran.
-5. Jelaskan apa yang masih perlu dipelajari.
+1. Terangkan konsep inti dari PENGUJIAN DAN KEBERLANJUTAN dan perannya dalam bidang ini.
+2. Hubungkan tiga gagasan dari bab yang berbeda.
+3. Analisis sebuah kasus menggunakan konsep buku Dasar Material dan Teknologi.
+4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
+5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 PEDOMAN PENILAIAN
-Nilai ketepatan konsep, kualitas sumber, penalaran, relevansi contoh, dan kejelasan komunikasi. Hasil yang berbeda dapat diterima jika didukung alasan yang dapat diperiksa dan sesuai dengan batas informasi.
+Nilai pemahaman Dasar Material dan Teknologi berdasarkan ketepatan konsep, kecocokan metode, mutu bukti, dan kemampuan menerapkan materi. Jawaban harus menunjukkan alasan yang dapat diperiksa serta menyebutkan keterbatasan informasi bila ada.
 
 GLOSARIUM
 Paduan: Campuran unsur dengan sifat logam tertentu.
@@ -73,7 +73,7 @@ Komposit: Material gabungan dari dua atau lebih bahan.
 Mikrostruktur: Susunan bagian material pada skala mikroskopis.
 
 CATATAN SUMBER
-Naskah ini merupakan materi pengantar orisinal Nexty Studio. Gunakan buku ajar dan sumber lembaga kompeten untuk pendalaman. Catat sumber, tahun, dan bagian yang dirujuk. Untuk informasi yang terus berkembang, periksa edisi dan tanggal pembaruan sebelum mengutip.
+Naskah Dasar Material dan Teknologi merupakan materi pembelajaran orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, atau sumber lembaga yang sesuai dengan bidang ini. Catat penulis, judul, tahun, dan bagian yang digunakan; periksa relevansi serta tanggal pembaruan sumber.
 
 BAB LANJUTAN: HUBUNGAN STRUKTUR, SIFAT, DAN PROSES
 

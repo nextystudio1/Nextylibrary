@@ -367,9 +367,9 @@ Replikasi: pengulangan atau pengujian kembali penelitian untuk menilai konsisten
 Variabel: faktor yang dapat berubah atau diukur dalam penelitian.
 
 RUJUKAN UNTUK PENDALAMAN
-OpenStax Biology 2e: https://openstax.org/details/books/biology-2e
-National Human Genome Research Institute — Genetics: https://www.genome.gov/genetics
-Encyclopaedia Britannica — Biology: https://www.britannica.com/science/biology
+OpenStax Biology 2e:
+National Human Genome Research Institute — Genetics:
+Encyclopaedia Britannica — Biology:
 
 BAB SISTEM ORGAN DAN HOMEOSTASIS
 Organisme multiseluler memiliki tingkat organisasi dari sel, jaringan, organ, hingga sistem organ. Setiap tingkat memiliki fungsi khusus tetapi saling bergantung. Sistem pernapasan memasok oksigen dan mengeluarkan karbon dioksida; sistem peredaran darah mengangkut zat; sistem pencernaan memecah makanan menjadi molekul yang dapat diserap. Kerja bersama sistem menjaga kondisi internal.

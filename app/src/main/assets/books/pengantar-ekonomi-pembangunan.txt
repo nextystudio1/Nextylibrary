@@ -176,3 +176,34 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa proyek infrastruktur perlu menilai dampak lokal? Karena manfaat dan beban dapat tersebar tidak merata.
 4. Apa risiko pembiayaan melalui utang? Kewajiban pembayaran dan risiko fiskal bila manfaat atau pendapatan tidak sesuai perkiraan.
 5. Mengapa evaluasi perlu menggabungkan data angka dan narasi? Keduanya menjawab pertanyaan yang berbeda dan saling melengkapi.
+
+BAB LANJUTAN: KETIMPANGAN, KEMISKINAN, DAN PENGUKURAN KESEJAHTERAAN
+
+Kemiskinan dapat diukur melalui pendapatan, konsumsi, atau berbagai dimensi kehidupan seperti pendidikan, kesehatan, perumahan, dan akses layanan. Setiap ukuran menjawab pertanyaan berbeda. Garis kemiskinan berguna untuk pemantauan, tetapi tidak selalu menggambarkan kerentanan rumah tangga yang sedikit berada di atas ambang.
+
+Ketimpangan dapat diukur pada distribusi pendapatan, kekayaan, kesempatan, atau akses layanan. Ukuran agregat perlu dilengkapi analisis kelompok dan wilayah. Dua daerah dengan rata-rata pendapatan sama dapat memiliki pola distribusi dan biaya hidup berbeda.
+
+Kebijakan pengurangan kemiskinan memerlukan data yang mutakhir, mekanisme penargetan yang dapat diperiksa, serta jalur koreksi bagi warga yang tidak tercakup. Kesalahan inklusi dan eksklusi harus dipahami sebagai risiko desain, bukan semata-mata kesalahan individu. Perlindungan data penerima manfaat juga penting.
+
+BAB LANJUTAN: TRANSFORMASI STRUKTURAL DAN PASAR KERJA
+
+Pembangunan ekonomi sering melibatkan perubahan komposisi kegiatan dari sektor berproduktivitas rendah menuju kegiatan dengan produktivitas dan nilai tambah lebih tinggi. Perubahan ini tidak otomatis merata. Pekerja dapat menghadapi kesenjangan keterampilan, lokasi pekerjaan yang jauh, dan ketidakpastian pendapatan.
+
+Kualitas pekerjaan mencakup upah, keselamatan, stabilitas, perlindungan sosial, kesempatan berkembang, dan suara pekerja. Pertumbuhan jumlah pekerjaan perlu dibaca bersama kualitas dan distribusinya. Kebijakan pelatihan lebih efektif jika terkait kebutuhan nyata dan disertai akses bagi kelompok yang menghadapi hambatan.
+
+Perubahan teknologi dan perdagangan dapat menciptakan peluang sekaligus menggeser pekerjaan. Program transisi perlu menggabungkan informasi pasar kerja, pendidikan, dukungan pendapatan, dan perlindungan pekerja. Evaluasi harus menilai siapa yang berhasil berpindah dan siapa yang tertinggal.
+
+BAB LANJUTAN: PEMBANGUNAN DAERAH DAN KONEKTIVITAS
+
+Pembangunan daerah dipengaruhi lokasi, infrastruktur, sumber daya manusia, institusi, dan hubungan dengan pasar. Infrastruktur transportasi dan digital dapat memperluas akses, tetapi manfaatnya bergantung pada keterjangkauan dan kemampuan masyarakat memanfaatkannya.
+
+Pusat pertumbuhan dapat menarik investasi dan pekerjaan, namun juga berpotensi memperlebar kesenjangan dengan wilayah yang kurang terhubung. Kebijakan perlu mengukur aliran tenaga kerja, barang, modal, dan layanan antardaerah. Pembangunan tidak cukup dinilai dari nilai investasi yang masuk ke satu kota.
+
+Perencanaan daerah sebaiknya memanfaatkan data lokal dan konsultasi masyarakat. Indikator perlu mencakup produktivitas, kualitas pekerjaan, akses layanan, kondisi lingkungan, dan distribusi manfaat. Hindari menyamakan pertumbuhan ekonomi dengan peningkatan kesejahteraan semua kelompok.
+
+LATIHAN PENDALAMAN
+1. Mengapa kemiskinan multidimensi berbeda dari kemiskinan pendapatan?
+2. Apa perbedaan ketimpangan hasil dan ketimpangan kesempatan?
+3. Mengapa pertumbuhan pekerjaan perlu dinilai bersama kualitas kerja?
+4. Bagaimana konektivitas dapat memberi manfaat sekaligus memperlebar kesenjangan?
+5. Sebutkan indikator pembangunan daerah selain investasi.

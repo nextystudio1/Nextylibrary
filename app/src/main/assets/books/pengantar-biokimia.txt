@@ -120,3 +120,46 @@ LATIHAN TERAPAN
 3. Berikan dua fungsi protein selain sebagai sumber energi.
 4. Mengapa informasi DNA tidak selalu menentukan sifat secara langsung?
 5. Jelaskan mengapa hasil laboratorium perlu ditafsirkan dalam konteks.
+
+BAB 17. TERMODINAMIKA BIOKIMIA DAN ENERGI BEBAS
+
+Reaksi biokimia berlangsung dalam sistem yang bertukar energi dan materi dengan lingkungan. Hukum termodinamika membantu menjelaskan arah perubahan, tetapi tidak menjelaskan seberapa cepat reaksi terjadi. Energi bebas Gibbs menghubungkan perubahan entalpi, entropi, dan suhu pada tekanan konstan. Nilai perubahan energi bebas yang negatif menunjukkan proses secara termodinamika menguntungkan dalam kondisi yang dinyatakan, tetapi proses tersebut masih dapat berlangsung lambat karena memiliki penghalang energi aktivasi.
+
+Sel menggunakan penggandengan reaksi untuk menjalankan proses yang tidak menguntungkan secara energi. Hidrolisis ATP sering digandengkan dengan reaksi biosintesis, transportasi, atau perubahan bentuk protein. ATP bukan “baterai” yang menyimpan energi dalam satu ikatan ajaib; manfaatnya berasal dari keseluruhan perubahan energi bebas reaksi dan cara enzim mengatur penggandengan tersebut.
+
+BAB 18. KINETIKA ENZIM DAN PENGATURAN AKTIVITAS
+
+Laju reaksi enzim dipengaruhi konsentrasi substrat, konsentrasi enzim, suhu, pH, dan keberadaan molekul pengatur. Pada model sederhana Michaelis–Menten, laju meningkat ketika konsentrasi substrat bertambah lalu mendekati laju maksimum saat banyak sisi aktif terisi. Konstanta Km sering digunakan untuk menggambarkan konsentrasi substrat pada setengah laju maksimum dalam kondisi model tersebut; Km tidak selalu sama dengan ukuran langsung kekuatan ikatan enzim-substrat.
+
+Inhibitor kompetitif bersaing pada sisi pengikatan substrat dan pengaruhnya dapat dikurangi dengan menaikkan konsentrasi substrat dalam model sederhana. Inhibitor nonkompetitif murni mengubah laju maksimum tanpa mengubah Km pada model ideal, tetapi mekanisme nyata dapat lebih kompleks. Regulasi alosterik terjadi ketika molekul pengatur berikatan pada lokasi berbeda dari sisi aktif dan mengubah aktivitas enzim.
+
+BAB 19. METABOLISME KARBOHIDRAT SECARA TERPADU
+
+Glukosa dapat diuraikan melalui glikolisis menjadi piruvat, menghasilkan ATP dan pembawa elektron tereduksi. Dalam kondisi aerobik, piruvat dapat diubah menjadi asetil-KoA yang memasuki siklus asam sitrat. Elektron dari NADH dan FADH2 kemudian digunakan dalam rantai transpor elektron untuk membantu pembentukan gradien proton yang menggerakkan sintesis ATP.
+
+Jalur metabolisme tidak bekerja terpisah. Hati, otot, jaringan lemak, dan organ lain memiliki peran yang berbeda sesuai kebutuhan tubuh. Glikogen dapat disimpan dan diuraikan; pembentukan glukosa baru membantu mempertahankan ketersediaan glukosa pada kondisi tertentu. Pengaturan hormon, status energi sel, dan ketersediaan substrat memengaruhi jalur yang aktif. Diagram jalur perlu dibaca sebagai jaringan reaksi, bukan daftar hafalan yang berdiri sendiri.
+
+BAB 20. LIPID, MEMBRAN, DAN SINYAL SEL
+
+Lipid memiliki fungsi sebagai cadangan energi, komponen membran, pelindung, dan molekul sinyal. Fosfolipid bersifat amfipatik: memiliki bagian yang berinteraksi dengan air dan bagian yang menghindarinya. Sifat ini memungkinkan pembentukan bilayer membran. Kolesterol memengaruhi sifat fisik membran dan menjadi bahan awal beberapa molekul biologis.
+
+Asam lemak dapat diuraikan melalui beta-oksidasi untuk menghasilkan asetil-KoA serta pembawa elektron. Sintesis dan pemecahan lipid diatur sesuai keadaan fisiologis. Membran bukan pembatas pasif; protein membran membantu transportasi, pengenalan sinyal, dan komunikasi antarsel. Perubahan komposisi membran dapat memengaruhi fungsi protein dan respons sel.
+
+BAB 21. METODE ANALISIS BIOKIMIA DAN KUALITAS DATA
+
+Analisis biokimia dapat menggunakan spektrofotometri, elektroforesis, kromatografi, dan metode berbasis antibodi. Setiap metode memiliki prinsip, rentang pengukuran, batas deteksi, serta potensi interferensi. Kurva kalibrasi menghubungkan sinyal alat dengan konsentrasi standar. Sampel kontrol dan pengulangan membantu menilai konsistensi, tetapi tidak otomatis menghilangkan semua sumber kesalahan.
+
+Hasil laboratorium perlu dilaporkan bersama satuan, metode, kondisi pengukuran, dan batas interpretasi. Kontaminasi, penyimpanan yang tidak sesuai, serta pemrosesan sampel dapat mengubah hasil. Data biologis juga bervariasi antarindividu dan waktu. Karena itu, kesimpulan harus mempertimbangkan konteks dan tidak menggantikan penilaian tenaga profesional.
+
+STUDI KASUS: MENAFSIRKAN PERUBAHAN AKTIVITAS ENZIM
+
+Sebuah kelompok membandingkan aktivitas enzim pada tiga kondisi suhu menggunakan sampel dan prosedur yang sama. Mereka perlu menentukan variabel bebas, variabel terikat, kontrol, jumlah ulangan, serta cara menjaga suhu stabil. Jika aktivitas turun pada suhu sangat tinggi, kelompok tidak boleh langsung menyimpulkan enzim “habis”; perubahan struktur protein dan kondisi uji perlu dipertimbangkan. Laporkan data mentah, rata-rata, variasi, serta keterbatasan.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa reaksi yang menguntungkan secara termodinamika belum tentu cepat? Karena laju juga dipengaruhi energi aktivasi dan mekanisme reaksi.
+2. Apa perbedaan sisi aktif dan lokasi alosterik? Sisi aktif berperan langsung dalam katalisis; lokasi alosterik mengatur aktivitas melalui perubahan konformasi.
+3. Mengapa Km tidak boleh selalu disebut ukuran afinitas? Karena interpretasinya bergantung pada asumsi model dan mekanisme kinetika.
+4. Apa peran gradien proton dalam pembentukan ATP? Gradien menyediakan gaya gerak proton yang dimanfaatkan kompleks ATP sintase.
+5. Mengapa kurva kalibrasi memerlukan standar? Untuk menghubungkan respons alat dengan nilai konsentrasi yang diketahui.
+6. Sebutkan tiga sumber variasi hasil analisis biokimia. Variasi biologis, penanganan sampel, dan keterbatasan instrumen atau metode.

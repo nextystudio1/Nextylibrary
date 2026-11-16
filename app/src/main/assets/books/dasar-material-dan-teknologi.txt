@@ -19,11 +19,11 @@ CONTOH PENERAPAN
 Bandingkan dua bahan yang digunakan untuk benda sehari-hari, misalnya aluminium dan plastik pada wadah. Catat massa, kekakuan, ketahanan terhadap korosi, dan kebutuhan penggunaan berdasarkan informasi produk atau pengamatan aman. Jelaskan mengapa satu bahan lebih sesuai untuk fungsi tertentu dan mengapa tidak ada bahan yang unggul pada semua kriteria.
 
 LATIHAN
-1. Apa konsep utama dalam STRUKTUR DAN SIFAT MATERIAL?
-2. Bagaimana hubungan konsep tersebut dengan bagian lain dalam buku?
-3. Berikan penerapan baru dan jelaskan langkah berpikirmu.
-4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
-5. Bukti apa yang dapat memperkuat jawabanmu?
+1. Bedakan kekuatan, kekerasan, keuletan, dan ketangguhan.
+2. Mengapa struktur mikro dapat mengubah sifat material?
+3. Jelaskan mengapa pemilihan bahan harus mempertimbangkan lingkungan kerja.
+4. Berikan contoh kompromi antara massa, biaya, dan ketahanan.
+5. Informasi apa yang perlu dibaca pada lembar data material?
 
 BAB 2. LOGAM DAN PADUAN
 
@@ -109,3 +109,119 @@ LATIHAN AKHIR
 4. Bandingkan karakteristik umum logam, keramik, dan polimer.
 5. Buat matriks pemilihan material untuk komponen luar ruang.
 6. Jelaskan mengapa daur ulang memerlukan sistem, bukan hanya sifat bahan.
+
+
+BAB 7. IKATAN ATOM DAN STRUKTUR KRISTAL
+Sifat bahan berkaitan dengan cara atom berikatan dan tersusun. Ikatan logam memungkinkan elektron bergerak relatif bebas sehingga banyak logam menghantarkan listrik dan panas. Ikatan ionik dan kovalen pada banyak keramik menghasilkan kekakuan serta kestabilan suhu yang tinggi, tetapi pergerakan dislokasi sering terbatas sehingga deformasi plastisnya kecil.
+
+Pada padatan kristalin, atom tersusun dalam pola berulang. Struktur kristal, orientasi butir, batas butir, dan cacat memengaruhi sifat. Material amorf tidak memiliki keteraturan periodik jarak jauh seperti kristal; kaca merupakan contoh umum. Perbedaan struktur ini membantu menjelaskan mengapa bahan dengan komposisi mirip dapat menunjukkan respons berbeda.
+
+Cacat kristal bukan selalu berarti produk gagal. Dislokasi, batas butir, dan kekosongan atom memengaruhi deformasi serta difusi. Pengendalian ukuran butir dan proses dapat dimanfaatkan untuk mengubah sifat, tetapi hasilnya bergantung pada komposisi dan riwayat material.
+
+LATIHAN
+1. Mengapa ikatan logam berkaitan dengan konduktivitas?
+2. Bedakan struktur kristalin dan amorf.
+3. Apa peran batas butir pada sifat material?
+4. Mengapa cacat kristal dapat memengaruhi deformasi?
+5. Jelaskan mengapa komposisi saja tidak cukup untuk memprediksi sifat bahan.
+
+BAB 8. DIAGRAM FASA DAN PERUBAHAN FASA
+Diagram fasa menunjukkan fase yang stabil pada kondisi komposisi dan suhu tertentu dalam sistem yang dikaji. Diagram ini membantu memahami kapan material berada sebagai satu fase atau campuran beberapa fase. Diagram biner sering digunakan untuk menjelaskan hubungan dua komponen, tetapi pembaca harus memperhatikan sumbu, komposisi, tekanan, dan asumsi kesetimbangan.
+
+Perubahan suhu dapat menyebabkan pembekuan, peleburan, atau transformasi padat. Laju pendinginan dan kondisi proses dapat membuat struktur akhir berbeda dari kondisi kesetimbangan. Karena itu, diagram fasa merupakan alat penalaran penting, tetapi tidak selalu menggambarkan seluruh sejarah proses nyata.
+
+Istilah fase berbeda dari mikrostruktur. Fase merujuk pada bagian material dengan struktur dan komposisi tertentu, sedangkan mikrostruktur menggambarkan susunan fase, butir, dan fitur lain pada skala mikroskopis. Pengamatan mikrostruktur perlu dikaitkan dengan komposisi dan proses.
+
+LATIHAN
+1. Informasi apa yang ditunjukkan diagram fasa?
+2. Mengapa suhu dan komposisi perlu dibaca bersama?
+3. Bedakan fase dan mikrostruktur.
+4. Mengapa laju pendinginan dapat memengaruhi struktur akhir?
+5. Jelaskan batas penggunaan diagram kesetimbangan untuk proses yang berlangsung cepat.
+
+BAB 9. SIFAT MEKANIK DAN KEGAGALAN MATERIAL
+Uji tarik menghasilkan informasi mengenai hubungan tegangan dan regangan. Tegangan teknik dihitung dari gaya dibagi luas penampang awal, sedangkan regangan teknik membandingkan perubahan panjang dengan panjang awal. Kurva tegangan-regangan dapat menunjukkan perilaku elastis, awal deformasi plastis, kekuatan maksimum, dan perpanjangan hingga putus.
+
+Kekerasan menunjukkan ketahanan terhadap penetrasi atau deformasi lokal menurut metode uji tertentu. Ketangguhan berkaitan dengan kemampuan menyerap energi sebelum patah. Keuletan menggambarkan kemampuan mengalami deformasi plastis. Sifat-sifat ini saling berkaitan tetapi tidak dapat dipertukarkan.
+
+Kelelahan material dapat terjadi akibat beban berulang, bahkan ketika tegangan nominal berada di bawah kekuatan tarik maksimum. Retak dapat tumbuh dari konsentrasi tegangan, permukaan, atau cacat. Patah juga dapat dipengaruhi suhu, lingkungan, laju pembebanan, dan kondisi manufaktur. Analisis kegagalan harus berdasarkan pemeriksaan yang kompeten; satu foto kerusakan tidak cukup untuk memastikan penyebab.
+
+LATIHAN
+1. Bedakan tegangan dan regangan.
+2. Mengapa kekerasan tidak sama dengan ketangguhan?
+3. Jelaskan bagaimana beban berulang dapat menyebabkan kelelahan.
+4. Sebutkan faktor yang perlu diperiksa dalam analisis kegagalan.
+5. Mengapa kesimpulan tentang penyebab patah perlu didukung bukti pemeriksaan ahli?
+
+BAB 10. SIFAT TERMAL DAN LISTRIK
+Konduktivitas termal menunjukkan kemampuan material menghantarkan panas. Kapasitas panas menggambarkan energi yang diperlukan untuk menaikkan suhu sejumlah material. Pemuaian termal menyebabkan perubahan dimensi ketika suhu berubah; perbedaan pemuaian pada dua bahan yang disambungkan dapat menimbulkan tegangan.
+
+Konduktivitas listrik dipengaruhi pembawa muatan dan struktur bahan. Logam umumnya konduktif, sedangkan banyak keramik dan polimer bersifat isolatif. Namun terdapat bahan khusus dengan sifat semikonduktor, dielektrik, atau konduktif ionik. Klasifikasi sederhana perlu disesuaikan dengan komposisi dan kondisi operasi.
+
+Pemilihan material untuk lingkungan panas perlu mempertimbangkan suhu kerja, perubahan suhu, konduktivitas, pemuaian, oksidasi, dan stabilitas jangka panjang. Satu nilai sifat pada suhu ruang tidak selalu mewakili kinerja pada suhu tinggi.
+
+LATIHAN
+1. Bedakan konduktivitas termal dan kapasitas panas.
+2. Mengapa perbedaan pemuaian dapat menimbulkan tegangan?
+3. Sebutkan contoh penggunaan bahan isolator listrik.
+4. Mengapa sifat material perlu diperiksa pada suhu operasi?
+5. Pilih kriteria material untuk komponen yang mengalami perubahan suhu berulang.
+
+BAB 11. PROSES MANUFAKTUR DAN PENGARUHNYA
+Proses manufaktur mengubah bahan mentah menjadi komponen. Pengecoran membentuk benda melalui pengisian cetakan dengan bahan cair; pembentukan mekanis mengubah bentuk melalui gaya; pemesinan menghilangkan material; proses polimer dapat melibatkan pencetakan dan pembentukan; proses penyambungan menggabungkan beberapa komponen.
+
+Setiap proses memiliki batas geometri, toleransi, kualitas permukaan, biaya, kebutuhan energi, dan potensi cacat. Pilihan proses juga memengaruhi mikrostruktur serta sifat akhir. Desain yang baik mempertimbangkan kemampuan proses sejak awal, bukan hanya bentuk yang diinginkan.
+
+Pemeriksaan mutu membandingkan produk dengan spesifikasi. Cacat perlu diklasifikasikan menurut jenis, lokasi, ukuran, dan dampaknya terhadap fungsi. Pengendalian mutu bukan sekadar memeriksa produk akhir; pemantauan proses dapat mencegah variasi sebelum menghasilkan banyak produk tidak sesuai.
+
+LATIHAN
+1. Bedakan pengecoran, pembentukan, dan pemesinan.
+2. Mengapa proses manufaktur memengaruhi sifat akhir?
+3. Sebutkan empat kriteria memilih proses produksi.
+4. Apa manfaat pemeriksaan selama proses berlangsung?
+5. Jelaskan hubungan toleransi dimensi dan fungsi komponen.
+
+BAB 12. PEMILIHAN MATERIAL BERBASIS KEBUTUHAN
+Pemilihan material dimulai dengan menyatakan fungsi, beban, suhu, lingkungan, umur layanan, standar, dan batas biaya. Kriteria wajib perlu dipisahkan dari kriteria yang dapat dinegosiasikan. Material yang tidak memenuhi persyaratan keselamatan tidak boleh dipilih hanya karena murah atau ringan.
+
+Matriks keputusan dapat membandingkan kandidat berdasarkan kriteria yang diberi bobot. Bobot harus dijelaskan dan diuji sensitivitasnya: apakah hasil berubah jika prioritas biaya atau umur pakai diubah? Metode ini membantu membuat alasan keputusan transparan, tetapi tidak menggantikan uji teknis dan penilaian profesional.
+
+Contoh konseptual: untuk pegangan alat luar ruang, kriteria dapat mencakup kenyamanan, ketahanan cuaca, kekuatan, massa, biaya, dan kemudahan dibersihkan. Kandidat polimer, logam berlapis, atau komposit memiliki kelebihan dan batasan berbeda. Keputusan bergantung pada kondisi penggunaan yang ditetapkan.
+
+LATIHAN
+1. Mengapa kebutuhan fungsi harus ditulis sebelum memilih bahan?
+2. Bedakan kriteria wajib dan kriteria preferensi.
+3. Buat matriks keputusan tiga kandidat dengan empat kriteria.
+4. Apa yang dimaksud uji sensitivitas bobot?
+5. Mengapa hasil matriks tidak menggantikan pengujian dan standar?
+
+BAB 13. SIKLUS HIDUP, DAUR ULANG, DAN EKONOMI MATERIAL
+Dampak material muncul sepanjang siklus hidup: ekstraksi bahan baku, produksi, transportasi, penggunaan, perawatan, dan akhir masa pakai. Penilaian siklus hidup membandingkan dampak dalam batas sistem yang dinyatakan. Hasil dapat berubah ketika batas, sumber data, umur layanan, dan asumsi daur ulang berbeda.
+
+Daur ulang dipengaruhi kemurnian bahan, campuran material, pelapis, perekat, sistem pengumpulan, dan teknologi pemrosesan. Produk yang mudah dibongkar dan memiliki identifikasi bahan dapat lebih mudah dipilah. Penggunaan ulang dan perbaikan dapat memperpanjang umur produk, tetapi kelayakannya bergantung pada keselamatan dan kondisi komponen.
+
+Keputusan berkelanjutan tidak boleh didasarkan pada satu slogan. Perlu diperiksa konsumsi energi, air, bahan baku, emisi, limbah, ketahanan, kemampuan perbaikan, dan dampak sosial. Klaim lingkungan harus menyebut dasar perbandingan dan sumber data.
+
+PROYEK AKHIR: PEMILIHAN MATERIAL UNTUK PRODUK SEHARI-HARI
+Pilih produk sederhana, misalnya wadah, rangka rak, atau pegangan alat. Identifikasi fungsi dan kondisi pemakaian. Bandingkan minimal tiga jenis material menggunakan data yang dapat diperiksa dari lembar teknis atau sumber pendidikan. Buat matriks kriteria, jelaskan kompromi, dan nyatakan informasi yang belum tersedia. Jangan melakukan uji bahan berbahaya atau merusak komponen tanpa pengawasan.
+
+EVALUASI AKHIR
+1. Hubungkan ikatan atom, struktur kristal, dan sifat material.
+2. Jelaskan informasi yang dapat dibaca dari diagram fasa.
+3. Bedakan kekuatan, kekerasan, keuletan, dan ketangguhan.
+4. Mengapa beban berulang dapat menyebabkan kegagalan?
+5. Jelaskan dampak pemuaian termal pada sambungan dua material.
+6. Bandingkan tiga proses manufaktur dan pengaruhnya terhadap produk.
+7. Buat matriks pemilihan material dan uji perubahan bobot kriterianya.
+8. Jelaskan mengapa klaim keberlanjutan memerlukan batas sistem dan data.
+
+GLOSARIUM TAMBAHAN
+Struktur kristal: Susunan atom periodik dalam padatan kristalin.
+Fase: Bagian material dengan komposisi dan struktur tertentu.
+Diagram fasa: Peta kestabilan fase menurut variabel seperti suhu dan komposisi.
+Tegangan: Gaya per satuan luas.
+Regangan: Perbandingan perubahan dimensi terhadap dimensi awal.
+Kelelahan: Kerusakan akibat pembebanan berulang.
+Konduktivitas termal: Kemampuan material menghantarkan panas.
+Toleransi: Rentang penyimpangan ukuran yang diizinkan.
+Penilaian siklus hidup: Kajian dampak produk sepanjang tahapan hidupnya.

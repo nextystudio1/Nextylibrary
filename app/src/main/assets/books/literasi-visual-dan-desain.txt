@@ -66,7 +66,7 @@ CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.
 PENDALAMAN MATERI DAN PENERAPAN
 
-BAB 6. MEMBACA GRAFIK DAN DIAGRAM
+PENDALAMAN — MEMBACA GRAFIK DAN DIAGRAM
 Grafik menyederhanakan data agar pola dapat dilihat, tetapi bentuk visual dapat memengaruhi interpretasi. Periksa judul, label sumbu, satuan, skala, sumber, dan periode data. Sumbu yang tidak dimulai dari nol dapat memperbesar kesan perubahan pada grafik batang. Grafik garis cocok untuk menunjukkan perubahan berurutan, sedangkan diagram sebar membantu melihat hubungan dua variabel. Diagram lingkaran hanya efektif jika kategori saling terpisah dan jumlahnya membentuk keseluruhan. Jangan menyimpulkan sebab-akibat hanya dari dua garis yang bergerak bersama. Visualisasi harus memperjelas data, bukan menyembunyikan ketidakpastian.
 
 BAB 7. SIMBOL, IKON, DAN BAHASA VISUAL

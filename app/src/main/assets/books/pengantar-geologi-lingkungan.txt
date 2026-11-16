@@ -142,3 +142,51 @@ Pencemaran perlu dianalisis melalui sumber, jalur perpindahan, media yang terdam
 
 STUDI KASUS
 Gunakan peta publik dan laporan resmi untuk mengkaji hubungan penggunaan lahan, jenis batuan, air, dan potensi bahaya pada satu wilayah. Susun peta sebab-akibat dan jelaskan data apa yang masih diperlukan. Jangan memasuki lokasi berbahaya atau mengambil sampel tanpa izin dan pendampingan ahli.
+
+BAB 12. GEOKIMIA LINGKUNGAN
+
+Geokimia lingkungan mempelajari distribusi dan perpindahan unsur serta senyawa dalam tanah, batuan, air, dan udara. Kelarutan, pH, kondisi oksidasi-reduksi, mineral, dan bahan organik memengaruhi mobilitas unsur. Konsentrasi suatu zat tidak selalu sama dengan tingkat bahayanya; bentuk kimia dan jalur paparan juga penting.
+
+Siklus unsur dapat berubah akibat proses alami dan kegiatan manusia. Penilaian perlu membandingkan kondisi latar, lokasi terdampak, dan standar yang relevan. Sampel harus diambil serta dianalisis oleh pihak kompeten dengan metode tervalidasi. Pengambilan sampel tanpa izin atau perlindungan dapat membahayakan manusia dan lingkungan.
+
+BAB 13. GEOLOGI AIR TANAH DAN KERENTANAN AKUIFER
+
+Air tanah tersimpan dan bergerak melalui pori serta rekahan batuan. Akuifer memiliki karakter berbeda berdasarkan porositas, permeabilitas, ketebalan, dan kondisi batas. Daerah imbuhan membantu mengisi cadangan, sedangkan pemompaan berlebihan dapat menurunkan muka air dan mengubah aliran.
+
+Kerentanan pencemaran dipengaruhi kedalaman muka air, sifat lapisan penutup, jalur aliran, serta sumber kontaminan. Peta kerentanan merupakan alat penyaringan awal, bukan bukti bahwa suatu sumur aman atau tercemar. Keputusan penggunaan air memerlukan pengujian kualitas dan penilaian ahli.
+
+BAB 14. GEOLOGI PESISIR DAN PERUBAHAN GARIS PANTAI
+
+Pantai berubah akibat gelombang, arus, pasang surut, suplai sedimen, badai, dan aktivitas manusia. Erosi di satu lokasi dapat berkaitan dengan perubahan sedimentasi di lokasi lain. Struktur pelindung pantai dapat mengurangi dampak setempat tetapi juga mengubah proses alami dan memindahkan risiko.
+
+Pemantauan garis pantai menggunakan citra, survei, dan catatan historis. Perbandingan perlu memperhatikan pasang, musim, resolusi, dan metode pemetaan. Rencana adaptasi sebaiknya menggabungkan data fisik dengan mata pencaharian, ekosistem, akses publik, dan hak komunitas pesisir.
+
+BAB 15. GEOLOGI PERKOTAAN DAN INFRASTRUKTUR
+
+Kondisi geologi memengaruhi fondasi, kestabilan lereng, drainase, dan risiko penurunan tanah. Peta geologi regional berguna untuk perencanaan awal, tetapi desain proyek membutuhkan investigasi lokasi oleh tenaga profesional. Data yang tidak cukup dapat menyebabkan asumsi keliru tentang daya dukung atau kondisi bawah permukaan.
+
+Pembangunan bawah tanah dan pemompaan air tanah dapat mengubah kondisi geoteknik. Perencanaan perlu melibatkan ahli geologi, geoteknik, hidrologi, dan tata kota. Informasi risiko harus disampaikan dengan jelas tanpa memberi kesan bahwa peta umum dapat menggantikan pemeriksaan teknis.
+
+BAB 16. BENCANA GEOLOGI DAN KOMUNIKASI RISIKO
+
+Bahaya geologi mencakup gempa bumi, gerakan tanah, aktivitas vulkanik, dan tsunami. Risiko terbentuk dari interaksi bahaya, paparan, dan kerentanan. Dua wilayah dengan bahaya serupa dapat mengalami dampak berbeda karena kualitas bangunan, kepadatan, akses evakuasi, dan kesiapsiagaan.
+
+Peta bahaya membantu perencanaan, tetapi tidak dapat memprediksi waktu kejadian secara pasti. Informasi peringatan harus mengutamakan otoritas resmi. Komunikasi risiko sebaiknya menjelaskan apa yang diketahui, ketidakpastian, tindakan yang dianjurkan, dan sumber pembaruan. Jangan menyebarkan rumor atau membuat prediksi tanpa dasar.
+
+BAB 17. REKLAMASI DAN PEMULIHAN LAHAN
+
+Pemulihan lahan terganggu dimulai dengan penilaian kondisi fisik, kimia, biologis, serta penggunaan lahan yang diinginkan. Tujuan pemulihan perlu terukur dan mempertimbangkan risiko jangka panjang. Penutupan permukaan saja tidak menjamin fungsi ekosistem pulih.
+
+Pemantauan jangka panjang memeriksa kestabilan, kualitas air, vegetasi, dan kemungkinan perpindahan kontaminan. Metode harus dipilih berdasarkan kajian profesional, aturan lingkungan, dan konsultasi dengan pihak terdampak. Keberhasilan perlu dinilai dari fungsi yang pulih, bukan hanya tampilan permukaan.
+
+PROYEK: MEMBACA PETA GEOLOGI PUBLIK
+
+Pilih wilayah dengan peta geologi dan laporan resmi yang tersedia. Identifikasi satuan batuan, struktur, kemiringan, dan penggunaan lahan. Susun pertanyaan tentang air tanah atau kestabilan wilayah, lalu jelaskan data tambahan yang diperlukan. Jangan melakukan survei lapangan di lokasi berbahaya atau mengambil sampel tanpa izin.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Apa yang memengaruhi mobilitas unsur di lingkungan? pH, kondisi redoks, mineral, bahan organik, dan kelarutan.
+2. Mengapa peta kerentanan akuifer bukan jaminan air aman? Karena kualitas air perlu diuji langsung dengan metode yang sesuai.
+3. Mengapa intervensi pantai dapat memindahkan risiko? Karena aliran sedimen dan energi gelombang terhubung sepanjang pesisir.
+4. Apa tiga unsur pembentuk risiko bencana? Bahaya, paparan, dan kerentanan.
+5. Mengapa pemulihan lahan perlu pemantauan? Karena perubahan dan perpindahan pencemar dapat berlangsung dalam jangka panjang.

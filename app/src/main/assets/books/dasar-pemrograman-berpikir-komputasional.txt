@@ -495,8 +495,6 @@ LATIHAN
 2. Kapan pencarian biner dapat digunakan? Jawaban: ketika data terurut dan struktur akses mendukung pembagian rentang.
 3. Mengapa kasus batas perlu diuji? Jawaban: kesalahan sering muncul pada nilai kosong, minimum, maksimum, atau format tak terduga.
 
-
-
 BAB LANJUTAN — PENGUJIAN DAN PERAWATAN PROGRAM
 
 Program yang berjalan pada satu contoh belum tentu benar untuk semua masukan. Pengujian perlu mencakup kasus normal, batas, dan tidak valid. Jika fungsi menerima angka dari 1 sampai 100, uji nilai batas 1 dan 100, nilai di luar rentang, masukan kosong, serta tipe data yang tidak sesuai. Tujuannya bukan mencari pembenaran bahwa program selalu benar, melainkan menemukan kondisi yang belum ditangani.

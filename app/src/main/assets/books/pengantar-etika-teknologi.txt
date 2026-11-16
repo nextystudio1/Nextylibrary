@@ -1,0 +1,173 @@
+Pengantar Etika Teknologi
+Penulis: Nexty Studio
+Buku pembelajaran orisinal NextyLibrary
+
+DESKRIPSI
+Mengkaji privasi, keadilan, transparansi, keamanan, dampak sosial, dan tanggung jawab inovasi.
+
+PENDAHULUAN
+Buku ini mengajak pembaca memahami konsep melalui definisi, proses, bukti, dan penerapan. Pengetahuan perlu ditempatkan dalam konteks yang tepat. Ketika menemukan data atau klaim, periksa sumber, metode, waktu, dan batas kesimpulan.
+
+BAB 1. TEKNOLOGI DAN NILAI
+
+Teknologi dirancang dalam konteks tujuan, nilai, dan kepentingan tertentu. Fitur yang memudahkan satu kelompok dapat menciptakan hambatan bagi kelompok lain. Evaluasi etis menanyakan siapa diuntungkan, siapa berisiko, dan siapa memiliki suara dalam keputusan desain.
+
+PENDALAMAN MATERI
+Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
+
+CONTOH KAJIAN
+Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
+
+KEGIATAN
+1. Buat ringkasan dengan bahasa sendiri.
+2. Susun peta konsep dan beri keterangan hubungan.
+3. Bandingkan dua contoh dengan kondisi berbeda.
+4. Periksa satu klaim menggunakan sumber tepercaya.
+5. Tulis pertanyaan lanjutan yang dapat diselidiki.
+
+LATIHAN
+1. Definisikan istilah utama.
+2. Jelaskan mekanisme atau proses yang dibahas.
+3. Berikan contoh penerapan.
+4. Sebutkan satu keterbatasan penjelasan.
+5. Buat kesimpulan yang sesuai dengan bukti.
+
+BAB 2. PRIVASI DAN DATA
+
+Sistem digital dapat mengumpulkan data perilaku, lokasi, preferensi, dan identitas. Pengumpulan harus memiliki tujuan jelas dan dibatasi pada kebutuhan. Pengguna perlu mendapat penjelasan tentang penggunaan data, penyimpanan, pembagian, dan pilihan pengendalian.
+
+PENDALAMAN MATERI
+Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
+
+CONTOH KAJIAN
+Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
+
+KEGIATAN
+1. Buat ringkasan dengan bahasa sendiri.
+2. Susun peta konsep dan beri keterangan hubungan.
+3. Bandingkan dua contoh dengan kondisi berbeda.
+4. Periksa satu klaim menggunakan sumber tepercaya.
+5. Tulis pertanyaan lanjutan yang dapat diselidiki.
+
+LATIHAN
+1. Definisikan istilah utama.
+2. Jelaskan mekanisme atau proses yang dibahas.
+3. Berikan contoh penerapan.
+4. Sebutkan satu keterbatasan penjelasan.
+5. Buat kesimpulan yang sesuai dengan bukti.
+
+BAB 3. KEADILAN DAN BIAS
+
+Sistem otomatis dapat menghasilkan hasil berbeda bagi kelompok berbeda akibat data, desain, atau konteks penerapan. Pemeriksaan keadilan memerlukan pengujian pada kelompok relevan dan pemantauan setelah sistem digunakan. Ukuran keadilan harus dijelaskan.
+
+PENDALAMAN MATERI
+Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
+
+CONTOH KAJIAN
+Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
+
+KEGIATAN
+1. Buat ringkasan dengan bahasa sendiri.
+2. Susun peta konsep dan beri keterangan hubungan.
+3. Bandingkan dua contoh dengan kondisi berbeda.
+4. Periksa satu klaim menggunakan sumber tepercaya.
+5. Tulis pertanyaan lanjutan yang dapat diselidiki.
+
+LATIHAN
+1. Definisikan istilah utama.
+2. Jelaskan mekanisme atau proses yang dibahas.
+3. Berikan contoh penerapan.
+4. Sebutkan satu keterbatasan penjelasan.
+5. Buat kesimpulan yang sesuai dengan bukti.
+
+BAB 4. TRANSPARANSI DAN AKUNTABILITAS
+
+Pengguna perlu mengetahui ketika keputusan penting dibantu sistem otomatis. Transparansi menjelaskan tujuan, batas, data, dan cara mengajukan keberatan. Organisasi harus menetapkan pihak yang bertanggung jawab atas kesalahan dan dampak sistem.
+
+PENDALAMAN MATERI
+Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
+
+CONTOH KAJIAN
+Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
+
+KEGIATAN
+1. Buat ringkasan dengan bahasa sendiri.
+2. Susun peta konsep dan beri keterangan hubungan.
+3. Bandingkan dua contoh dengan kondisi berbeda.
+4. Periksa satu klaim menggunakan sumber tepercaya.
+5. Tulis pertanyaan lanjutan yang dapat diselidiki.
+
+LATIHAN
+1. Definisikan istilah utama.
+2. Jelaskan mekanisme atau proses yang dibahas.
+3. Berikan contoh penerapan.
+4. Sebutkan satu keterbatasan penjelasan.
+5. Buat kesimpulan yang sesuai dengan bukti.
+
+BAB 5. KEAMANAN DAN KESELAMATAN
+
+Keamanan teknologi mencakup perlindungan dari akses tidak sah, kebocoran, dan gangguan. Keselamatan menilai risiko terhadap manusia dan lingkungan. Pengujian, pembaruan, pencatatan insiden, dan rencana pemulihan penting.
+
+PENDALAMAN MATERI
+Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
+
+CONTOH KAJIAN
+Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
+
+KEGIATAN
+1. Buat ringkasan dengan bahasa sendiri.
+2. Susun peta konsep dan beri keterangan hubungan.
+3. Bandingkan dua contoh dengan kondisi berbeda.
+4. Periksa satu klaim menggunakan sumber tepercaya.
+5. Tulis pertanyaan lanjutan yang dapat diselidiki.
+
+LATIHAN
+1. Definisikan istilah utama.
+2. Jelaskan mekanisme atau proses yang dibahas.
+3. Berikan contoh penerapan.
+4. Sebutkan satu keterbatasan penjelasan.
+5. Buat kesimpulan yang sesuai dengan bukti.
+
+BAB 6. INOVASI DAN KEPENTINGAN PUBLIK
+
+Inovasi perlu mempertimbangkan dampak jangka panjang, akses, lingkungan, dan perubahan pekerjaan. Konsultasi publik membantu menemukan risiko yang tidak terlihat pengembang. Teknologi yang bermanfaat harus disertai tata kelola dan mekanisme koreksi.
+
+PENDALAMAN MATERI
+Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
+
+CONTOH KAJIAN
+Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
+
+KEGIATAN
+1. Buat ringkasan dengan bahasa sendiri.
+2. Susun peta konsep dan beri keterangan hubungan.
+3. Bandingkan dua contoh dengan kondisi berbeda.
+4. Periksa satu klaim menggunakan sumber tepercaya.
+5. Tulis pertanyaan lanjutan yang dapat diselidiki.
+
+LATIHAN
+1. Definisikan istilah utama.
+2. Jelaskan mekanisme atau proses yang dibahas.
+3. Berikan contoh penerapan.
+4. Sebutkan satu keterbatasan penjelasan.
+5. Buat kesimpulan yang sesuai dengan bukti.
+
+PROYEK AKHIR
+Pilih topik yang menghubungkan minimal tiga bab. Rumuskan pertanyaan, tujuan, batasan, metode, dan bentuk hasil. Gunakan sumber yang dapat diverifikasi serta catat proses pengumpulan informasi. Sajikan data dengan jelas, pisahkan temuan dari interpretasi, dan jelaskan keterbatasan.
+
+EVALUASI AKHIR
+1. Sebutkan lima gagasan inti buku.
+2. Jelaskan hubungan antarbab dengan contoh.
+3. Analisis satu kasus berdasarkan bukti.
+4. Bandingkan dua pendekatan dan konsekuensinya.
+5. Tulis hal yang masih perlu dipelajari.
+
+GLOSARIUM
+Konsep: Gagasan utama untuk memahami topik.
+Bukti: Informasi yang dapat diperiksa untuk mendukung klaim.
+Konteks: Keadaan yang memengaruhi makna atau penerapan.
+Metode: Langkah sistematis untuk mencapai tujuan.
+Evaluasi: Penilaian berdasarkan kriteria dan bukti.
+
+CATATAN SUMBER
+Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.

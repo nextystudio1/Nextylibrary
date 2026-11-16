@@ -186,3 +186,34 @@ Proses desain meliputi memahami kebutuhan, merumuskan masalah, membuat alternati
 
 PROYEK
 Buat poster edukasi satu halaman. Tetapkan satu pesan utama, susun hierarki, pilih tipografi dan palet warna yang mudah dibaca, lalu uji pada beberapa ukuran layar. Catat masukan dan jelaskan revisi.
+
+BAB LANJUTAN: SISTEM IDENTITAS VISUAL DAN KONSISTENSI MEREK
+
+Identitas visual adalah sistem yang membantu audiens mengenali organisasi atau produk melalui elemen grafis. Sistem dapat mencakup logo, warna, tipografi, bentuk, ilustrasi, fotografi, dan aturan tata letak. Konsistensi bukan berarti semua materi harus tampak sama persis, melainkan menggunakan prinsip yang membuat variasi tetap terasa satu keluarga.
+
+Panduan identitas perlu menjelaskan ukuran minimum, ruang kosong, latar yang sesuai, versi warna, dan penggunaan yang dilarang. Logo tidak boleh diregangkan atau diubah proporsinya. Namun panduan harus tetap praktis dan memungkinkan adaptasi untuk media cetak, layar kecil, dan kebutuhan aksesibilitas.
+
+Sistem desain yang baik diuji pada berbagai konteks: poster, dokumen, ikon aplikasi, presentasi, dan tampilan monokrom. Jika identitas hanya terbaca pada satu ukuran atau satu latar, sistem belum cukup tangguh.
+
+BAB LANJUTAN: TIPOGRAFI, GRID, DAN HIERARKI INFORMASI
+
+Tipografi mengatur bagaimana teks dibaca dan dipahami. Pemilihan huruf perlu mempertimbangkan keterbacaan, karakter, dukungan aksara, lisensi, dan tampilan pada perangkat. Ukuran, ketebalan, panjang baris, spasi, serta kontras bekerja bersama; satu faktor tidak dapat menggantikan seluruhnya.
+
+Grid membantu mengatur hubungan elemen. Grid kolom cocok untuk informasi yang memiliki beberapa bagian, sedangkan grid modular dapat mendukung komposisi kompleks. Grid merupakan alat bantu, bukan aturan yang harus diikuti secara kaku. Penyimpangan dapat digunakan ketika memiliki alasan komunikasi yang jelas.
+
+Hierarki menunjukkan urutan perhatian melalui ukuran, posisi, kontras, dan ruang kosong. Uji apakah pembaca dapat mengenali judul, informasi utama, detail, dan tindakan yang diharapkan dalam waktu singkat. Jangan menggunakan terlalu banyak gaya yang bersaing.
+
+BAB LANJUTAN: DESAIN INFORMASI DAN VISUALISASI DATA
+
+Desain informasi menyusun data agar pola dan hubungan mudah dipahami. Pilih bentuk visual sesuai pertanyaan: garis untuk perubahan waktu, batang untuk perbandingan kategori, dan diagram sebar untuk hubungan dua variabel. Diagram lingkaran hanya sesuai ketika bagian membentuk keseluruhan dan jumlah kategori tidak berlebihan.
+
+Judul harus menyampaikan pokok temuan tanpa melebih-lebihkan. Cantumkan satuan, sumber, periode, dan definisi. Skala sumbu yang dipotong dapat menonjolkan perbedaan secara tidak proporsional. Warna perlu memiliki kontras yang cukup dan tetap dapat dibedakan oleh pengguna dengan variasi persepsi warna.
+
+Infografik yang baik tidak memadatkan sebanyak mungkin angka. Ia memilih informasi yang relevan, memberi konteks, dan mengarahkan pembaca pada kesimpulan yang didukung data. Jika detail terlalu banyak, sediakan tabel atau catatan pendukung.
+
+LATIHAN PENDALAMAN
+1. Apa perbedaan konsistensi identitas dan keseragaman mutlak?
+2. Sebutkan unsur panduan penggunaan logo.
+3. Bagaimana grid membantu pembaca memahami tata letak?
+4. Jenis grafik apa yang cocok untuk data perubahan waktu?
+5. Mengapa skala dan satuan harus ditampilkan dengan jelas?

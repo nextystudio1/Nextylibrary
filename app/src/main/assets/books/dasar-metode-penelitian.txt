@@ -191,3 +191,34 @@ Keterbukaan penelitian meliputi dokumentasi metode, definisi variabel, prosedur 
 
 LATIHAN RANCANGAN PENELITIAN
 Susun proposal mini berisi latar belakang, rumusan masalah, tujuan, tinjauan konsep, desain, populasi, sampling, instrumen, prosedur analisis, etika, dan keterbatasan. Minta rekan menilai apakah setiap metode benar-benar menjawab pertanyaan penelitian.
+
+BAB LANJUTAN: VALIDITAS, RELIABILITAS, DAN OPERASIONALISASI
+
+Konsep penelitian sering bersifat abstrak, seperti kepercayaan, kesejahteraan, atau partisipasi. Operasionalisasi menerjemahkan konsep menjadi indikator yang dapat diamati. Satu konsep dapat memiliki beberapa dimensi sehingga satu pertanyaan survei mungkin tidak cukup mewakilinya.
+
+Validitas berkaitan dengan apakah instrumen benar-benar mengukur konsep yang dimaksud. Reliabilitas berkaitan dengan konsistensi pengukuran dalam kondisi yang sebanding. Instrumen dapat konsisten tetapi mengukur hal yang keliru. Karena itu, pengujian perlu memeriksa isi, proses respons, struktur, dan hubungan dengan ukuran lain.
+
+Uji coba instrumen membantu menemukan pertanyaan yang ambigu, urutan yang membingungkan, atau pilihan jawaban yang tidak mencakup pengalaman responden. Revisi harus dicatat agar perubahan instrumen dapat ditelusuri. Jika instrumen diubah di tengah pengumpulan, dampaknya terhadap keterbandingan perlu dijelaskan.
+
+BAB LANJUTAN: ETNOGRAFI DAN PENELITIAN KUALITATIF
+
+Penelitian kualitatif mempelajari makna, praktik, dan pengalaman dalam konteks. Wawancara mendalam, observasi, diskusi kelompok, dan analisis dokumen dapat digunakan sesuai pertanyaan. Tujuannya bukan selalu menghitung frekuensi, melainkan memahami pola dan variasi pengalaman.
+
+Peneliti perlu melakukan refleksi terhadap posisi dan pengaruhnya. Kehadiran pengamat dapat mengubah perilaku, sementara hubungan kuasa dapat memengaruhi jawaban. Catatan lapangan sebaiknya membedakan apa yang diamati, apa yang dikatakan peserta, dan interpretasi peneliti.
+
+Analisis tematik melibatkan pembacaan data, pemberian kode, pengembangan tema, pemeriksaan kasus yang berbeda, dan penyusunan penjelasan. Kutipan peserta harus dipilih secara bertanggung jawab dan tidak boleh membuka identitas tanpa dasar persetujuan. Tema tidak boleh dipaksakan agar sesuai dugaan awal.
+
+BAB LANJUTAN: PENELITIAN CAMPURAN DAN INTEGRASI TEMUAN
+
+Metode campuran menggabungkan data kuantitatif dan kualitatif untuk menjawab pertanyaan yang saling melengkapi. Desain dapat dimulai dengan survei lalu wawancara untuk menjelaskan pola, atau dimulai dengan eksplorasi kualitatif sebelum menyusun instrumen kuantitatif.
+
+Integrasi harus direncanakan, bukan sekadar menempatkan dua jenis hasil dalam laporan yang sama. Buat matriks yang menunjukkan temuan yang sejalan, saling melengkapi, atau bertentangan. Perbedaan hasil dapat mengungkap variasi konteks atau kelemahan pengukuran dan tidak perlu disembunyikan.
+
+Metode campuran memerlukan waktu, kompetensi, dan sumber daya lebih besar. Pilih hanya jika integrasi memberi nilai tambah yang jelas. Jelaskan bagaimana setiap jenis data memengaruhi kesimpulan akhir.
+
+LATIHAN PENDALAMAN
+1. Apa perbedaan validitas dan reliabilitas?
+2. Mengapa konsep abstrak memerlukan operasionalisasi?
+3. Bagaimana peneliti membedakan observasi dan interpretasi?
+4. Mengapa kasus yang berbeda dari tema dominan perlu diperiksa?
+5. Apa arti integrasi dalam metode campuran?

@@ -482,3 +482,34 @@ Premi: pembayaran untuk memperoleh perlindungan asuransi.
 Polis: dokumen yang menjelaskan perjanjian asuransi.
 Pokok pinjaman: jumlah dana yang dipinjam sebelum bunga dan biaya.
 Likuiditas: kemudahan mengakses atau mengubah aset menjadi uang.
+BAB 13 — BUNGA SEDERHANA DAN BUNGA MAJEMUK
+
+Bunga adalah biaya penggunaan uang atau imbalan atas dana yang dipinjamkan atau disimpan, bergantung pada produk keuangan. Bunga sederhana dihitung dari pokok awal untuk setiap periode. Rumus dasarnya adalah I = P × r × t, dengan P sebagai pokok, r tingkat bunga per periode, dan t jumlah periode yang sesuai.
+
+Bunga majemuk menghitung bunga berdasarkan pokok ditambah bunga yang telah terkumpul. Nilai akhir dapat ditulis A = P(1 + r)^n untuk tingkat dan periode yang sama. Perbedaan antara bunga sederhana dan majemuk menjadi semakin besar ketika jangka waktu bertambah. Namun, perhitungan nyata harus memperhatikan biaya, pajak, frekuensi penggabungan, dan ketentuan produk.
+
+Contoh pendidikan: pokok 1.000.000 dengan tingkat 5 persen per tahun selama dua tahun menghasilkan bunga sederhana 100.000 sebelum biaya dan pajak. Dengan penggabungan tahunan, nilai akhir majemuk adalah 1.102.500. Angka ini hanya contoh matematika, bukan tawaran atau rekomendasi produk.
+
+BAB 14 — INFLASI DAN DAYA BELI
+
+Inflasi adalah kenaikan tingkat harga umum secara berkelanjutan. Ketika harga rata-rata meningkat, jumlah barang dan jasa yang dapat dibeli dengan jumlah uang yang sama cenderung menurun. Inflasi diukur menggunakan indeks harga yang dibangun dari keranjang barang dan jasa. Keranjang tersebut merupakan pendekatan terhadap pola konsumsi, bukan gambaran identik bagi setiap rumah tangga.
+
+Perubahan harga satu barang belum tentu menunjukkan inflasi umum. Harga sayur tertentu dapat naik karena cuaca, sementara harga barang lain tetap atau turun. Indeks harga menggabungkan perubahan banyak kelompok dengan bobot tertentu. Karena pola belanja berbeda, dampak inflasi dapat dirasakan secara berbeda oleh keluarga.
+
+Untuk memahami daya beli, bandingkan perubahan pendapatan dengan perubahan harga dalam periode yang sama. Kenaikan pendapatan nominal belum tentu berarti peningkatan daya beli jika harga naik lebih cepat. Perencanaan keuangan dapat mempertimbangkan kebutuhan pokok, dana darurat, dan tujuan jangka panjang tanpa mengandalkan perkiraan yang pasti.
+
+BAB 15 — ANGGARAN DAN ARUS KAS
+
+Anggaran adalah rencana penggunaan uang dalam periode tertentu. Anggaran yang bermanfaat mencatat pemasukan, pengeluaran rutin, pengeluaran tidak rutin, tabungan, dan kewajiban. Tujuannya bukan membatasi setiap keputusan secara kaku, melainkan membantu seseorang memahami pilihan dan mengantisipasi kebutuhan.
+
+Arus kas adalah pergerakan uang masuk dan keluar. Seseorang dapat memiliki aset tetapi tetap mengalami kesulitan membayar tagihan jika uang tunai tidak tersedia pada waktunya. Karena itu, tanggal penerimaan dan jatuh tempo perlu diperhatikan. Catatan sederhana dapat membantu menemukan pengeluaran yang terlupakan atau biaya berulang yang tidak lagi diperlukan.
+
+Dana darurat ditujukan untuk kebutuhan tak terduga, bukan pembelian rutin. Besarnya bergantung pada kondisi rumah tangga, kestabilan pendapatan, tanggungan, dan akses bantuan. Bagi pelajar, latihan membuat anggaran dapat dimulai dari uang saku secara sederhana dengan melibatkan orang tua atau wali.
+
+BAB 16 — RISIKO, DIVERSIFIKASI, DAN KEPUTUSAN
+
+Risiko keuangan adalah kemungkinan hasil berbeda dari yang diharapkan, termasuk kemungkinan kehilangan sebagian nilai. Setiap keputusan memiliki hubungan antara potensi hasil, ketidakpastian, jangka waktu, biaya, dan kebutuhan likuiditas. Janji keuntungan tinggi tanpa risiko patut dicurigai.
+
+Diversifikasi berarti menyebarkan penempatan dana pada beberapa aset atau sumber risiko agar hasil tidak bergantung pada satu hal saja. Diversifikasi tidak menghilangkan seluruh risiko dan tidak menjamin keuntungan. Korelasi antar aset, biaya, jangka waktu, serta kebutuhan dana tetap perlu diperhatikan.
+
+Sebelum mengambil keputusan, pahami produk, biaya, aturan penarikan, risiko, dan pihak yang mengelolanya. Jangan membagikan kata sandi, kode verifikasi, atau informasi rahasia. Keputusan keuangan yang melibatkan kontrak atau jumlah besar sebaiknya dibahas dengan orang tua atau wali dan pihak profesional yang berwenang.

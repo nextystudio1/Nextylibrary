@@ -233,3 +233,28 @@ Indikator dapat mencakup penurunan gangguan layanan, akses air, waktu pemulihan,
 
 LATIHAN
 Pilih satu risiko iklim di daerah tempat tinggal. Buat peta sederhana pihak dan fasilitas yang terpapar, jelaskan kelompok yang paling rentan, dan susun tiga langkah adaptasi beserta indikator pemantauannya.
+
+BAB 11. SIKLUS KARBON DAN UMPAN BALIK IKLIM
+Karbon berpindah di antara atmosfer, laut, tanah, batuan, dan makhluk hidup. Tumbuhan menyerap karbon dioksida melalui fotosintesis, sedangkan respirasi, pembusukan, dan pembakaran melepaskannya kembali. Laut juga menyerap dan melepaskan karbon melalui pertukaran gas serta proses kimia dan biologis. Aktivitas manusia memindahkan karbon dari cadangan geologis ke atmosfer dalam waktu relatif singkat. Umpan balik iklim dapat memperkuat atau mengurangi perubahan awal. Contohnya, pencairan es mengurangi kemampuan permukaan bumi memantulkan cahaya, sehingga lebih banyak energi diserap. Umpan balik perlu dibedakan dari pemicu awal.
+
+BAB 12. LAUT, ES, DAN KENAIKAN MUKA AIR
+Muka laut berubah karena pemuaian air laut ketika menghangat dan penambahan air dari gletser serta lapisan es daratan. Perubahan tidak seragam di semua tempat karena arus, gravitasi, penurunan atau pengangkatan daratan, dan faktor regional. Masyarakat pesisir dapat menghadapi banjir rob, abrasi, intrusi air asin, dan gangguan ekosistem. Perencanaan adaptasi memerlukan peta elevasi, catatan pasang, proyeksi, kondisi infrastruktur, dan pengetahuan warga. Angka global tidak boleh langsung dianggap sebagai prediksi tepat untuk satu lokasi.
+
+BAB 13. MITIGASI: ENERGI, TRANSPORTASI, DAN LAHAN
+Mitigasi mengurangi emisi atau meningkatkan penyerapan gas rumah kaca. Pilihan energi mencakup efisiensi, elektrifikasi, dan sumber rendah emisi sesuai kondisi setempat. Transportasi dapat diperbaiki melalui angkutan umum, berjalan kaki, bersepeda, dan teknologi kendaraan yang lebih efisien. Pengelolaan lahan melindungi hutan, gambut, mangrove, dan tanah agar cadangan karbon tidak terlepas. Setiap pilihan perlu dinilai sepanjang daur hidupnya, termasuk bahan baku, proses produksi, penggunaan, dan akhir masa pakai.
+
+BAB 14. ADAPTASI DAN KEADILAN IKLIM
+Adaptasi mengurangi kerentanan terhadap dampak yang sudah terjadi atau diperkirakan. Contohnya adalah sistem peringatan dini, tata ruang yang memperhatikan bahaya, perlindungan sumber air, dan bangunan yang sesuai kondisi iklim. Kapasitas adaptasi tidak sama: kelompok dengan sumber daya terbatas sering menghadapi hambatan lebih besar. Kebijakan perlu mempertimbangkan akses informasi, biaya, hak masyarakat, dan distribusi manfaat. Adaptasi yang memindahkan risiko ke kelompok lain bukan solusi yang adil.
+
+BAB 15. MEMBACA DATA DAN KOMUNIKASI IKLIM
+Grafik suhu perlu diperiksa rentang waktu, satuan, lokasi, metode pengukuran, dan sumber datanya. Tren jangka panjang dapat tertutup variasi tahunan, sehingga pemilihan skala waktu memengaruhi interpretasi. Bedakan cuaca ekstrem tunggal dari perubahan peluang kejadian ekstrem. Ketika menyampaikan informasi, gunakan rentang ketidakpastian dan jelaskan apa yang diketahui serta belum diketahui. Hindari judul sensasional yang melebih-lebihkan satu kejadian.
+
+PROYEK AKHIR
+Pilih satu risiko iklim di wilayah yang dikenal. Susun pertanyaan, kumpulkan informasi dari lembaga ilmiah atau pemerintah, buat peta pihak terdampak, dan bandingkan satu pilihan mitigasi dengan satu pilihan adaptasi. Cantumkan asumsi, keterbatasan data, biaya, manfaat, serta cara memantau hasil.
+
+LATIHAN PENDALAMAN
+1. Jelaskan dua proses dalam siklus karbon.
+2. Mengapa kenaikan muka laut lokal dapat berbeda dari rata-rata global?
+3. Bandingkan mitigasi dan adaptasi melalui contoh.
+4. Sebutkan tiga hal yang harus diperiksa sebelum menafsirkan grafik iklim.
+5. Jelaskan mengapa kebijakan iklim perlu memperhatikan keadilan.

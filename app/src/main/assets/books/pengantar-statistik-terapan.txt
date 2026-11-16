@@ -233,3 +233,25 @@ Sampel, alat ukur, nonrespons, dan kesalahan pencatatan dapat memengaruhi hasil.
 
 LATIHAN
 Rancang survei singkat tentang kebiasaan membaca di lingkungan sekolah. Tentukan populasi, metode sampel yang realistis, lima pertanyaan netral, dan tiga cara menyajikan hasil tanpa mengungkap identitas responden.
+
+BAB 11. DISTRIBUSI DAN SEBARAN DATA
+Distribusi menggambarkan bagaimana nilai tersebar. Bentuk distribusi dapat simetris, menceng ke kanan, menceng ke kiri, atau memiliki lebih dari satu puncak. Rata-rata, median, dan modus memberikan informasi pusat yang berbeda. Rentang, rentang antarkuartil, dan simpangan baku membantu menjelaskan variasi. Dua kelompok dapat memiliki rata-rata sama tetapi sebaran sangat berbeda. Karena itu, ringkasan pusat sebaiknya disertai ukuran variasi dan visualisasi yang sesuai.
+
+BAB 12. PELUANG DAN DISTRIBUSI PROBABILITAS
+Peluang menyatakan tingkat kemungkinan suatu kejadian dengan nilai antara nol dan satu. Ruang sampel berisi hasil yang mungkin, sedangkan kejadian merupakan bagian dari ruang sampel. Distribusi probabilitas menggambarkan peluang untuk hasil-hasil tertentu. Dalam situasi nyata, peluang sering diperkirakan dari model atau data, sehingga asumsi harus dijelaskan. Peluang kecil bukan berarti mustahil, dan peluang besar bukan berarti pasti terjadi.
+
+BAB 13. SAMPLING DAN GALAT
+Survei biasanya mengamati sampel untuk mempelajari populasi. Sampel acak membantu mengurangi bias pemilihan, tetapi tidak menghilangkan semua sumber kesalahan. Galat sampling muncul karena hanya sebagian populasi diamati. Galat non-sampling dapat berasal dari pertanyaan yang membingungkan, responden yang tidak menjawab, pencatatan, atau pengukuran. Ukuran sampel perlu dipertimbangkan bersama metode pemilihan dan kualitas data.
+
+BAB 14. KORELASI DAN REGRESI
+Korelasi mengukur arah dan kekuatan hubungan antara dua variabel, tetapi tidak dengan sendirinya membuktikan sebab-akibat. Regresi memodelkan hubungan untuk menjelaskan atau memperkirakan nilai suatu variabel berdasarkan variabel lain. Hasil model perlu diperiksa melalui pola residual, asumsi, pencilan, dan kemampuan prediksi. Jangan menggunakan model di luar rentang data tanpa alasan yang kuat. Jelaskan ketidakpastian dan keterbatasan ketika menyampaikan hasil.
+
+BAB 15. KOMUNIKASI DATA DAN ETIKA
+Analisis statistik baru berguna ketika disampaikan dengan jelas. Gunakan grafik yang memiliki label, satuan, sumber, dan skala tepat. Hindari memilih rentang sumbu yang membuat perbedaan kecil tampak dramatis. Jangan menyembunyikan data yang tidak mendukung dugaan. Data pribadi perlu dilindungi dan hanya dikumpulkan sesuai kebutuhan. Dalam laporan, pisahkan hasil pengamatan, interpretasi, dan rekomendasi.
+
+LATIHAN TERAPAN
+1. Mengapa rata-rata perlu dibaca bersama ukuran variasi?
+2. Jelaskan perbedaan ruang sampel dan kejadian.
+3. Sebutkan dua contoh galat non-sampling.
+4. Mengapa korelasi tidak otomatis berarti sebab-akibat?
+5. Buat pedoman singkat untuk membuat grafik yang jujur.

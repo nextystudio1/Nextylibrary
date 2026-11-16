@@ -259,3 +259,34 @@ HUBUNGAN ANTARVARIABEL
 Diagram pencar memperlihatkan pola hubungan dua variabel. Arah positif berarti nilai cenderung meningkat bersama; arah negatif berarti satu cenderung turun ketika yang lain naik. Pola tidak selalu linear dan titik pencilan dapat memengaruhi ringkasan statistik.
 MODEL DAN KETIDAKPASTIAN
 Model matematika merupakan penyederhanaan. Parameter yang diestimasi dari data memiliki ketidakpastian. Hasil prediksi sebaiknya disajikan sebagai perkiraan dengan batasan, bukan angka pasti tanpa konteks.
+
+PERSAMAAN LINEAR DAN SISTEM PERSAMAAN
+Persamaan menyatakan bahwa dua bentuk memiliki nilai sama. Untuk menjaga kesetaraan, operasi yang dilakukan pada satu ruas harus dilakukan pada ruas lain. Pada persamaan 3x + 5 = 20, kurangi kedua ruas dengan 5 sehingga 3x = 15, lalu bagi kedua ruas dengan 3 sehingga x = 5. Pemeriksaan dilakukan dengan memasukkan x = 5 ke persamaan awal.
+
+Sistem persamaan linear memuat beberapa persamaan dengan variabel yang sama. Metode substitusi mengganti satu variabel menggunakan persamaan lain; metode eliminasi menghilangkan satu variabel melalui penjumlahan atau pengurangan persamaan. Dalam konteks nyata, dua persamaan dapat mewakili dua jenis tiket atau dua paket barang. Tetapkan arti variabel dan satuan sebelum menghitung.
+
+FUNGSI DAN GRAFIK
+Fungsi memasangkan setiap masukan dalam domain dengan tepat satu keluaran. Notasi f(x) menyatakan nilai fungsi pada masukan x. Jika f(x) = 2x + 3, maka f(4) = 11. Domain adalah himpunan masukan yang diperbolehkan; domain dapat dibatasi oleh konteks, misalnya jumlah barang tidak mungkin negatif.
+
+Grafik membantu melihat perubahan. Gradien garis menunjukkan perubahan keluaran untuk setiap satu unit perubahan masukan. Pada y = mx + c, m adalah gradien dan c adalah titik potong sumbu y. Gradien positif menunjukkan hubungan naik pada garis, gradien negatif menunjukkan hubungan turun. Hubungan grafik tidak otomatis membuktikan sebab-akibat.
+
+FUNGSI KUADRAT
+Fungsi kuadrat memiliki bentuk umum f(x) = ax² + bx + c dengan a tidak sama dengan nol. Grafiknya berbentuk parabola. Jika a positif, parabola terbuka ke atas dan memiliki titik minimum; jika a negatif, terbuka ke bawah dan memiliki titik maksimum. Titik puncak membantu menemukan nilai ekstrem, misalnya luas maksimum pada masalah ukuran tertentu.
+
+Persamaan kuadrat dapat diselesaikan dengan pemfaktoran, melengkapkan kuadrat, atau rumus kuadrat. Rumus kuadrat adalah x = (-b ± √(b² - 4ac))/(2a). Diskriminan b² - 4ac menentukan banyaknya akar real: positif berarti dua akar real berbeda, nol berarti satu akar real kembar, negatif berarti tidak ada akar real. Periksa kembali hasil sesuai konteks soal.
+
+BARISAN DAN POLA
+Barisan aritmetika memiliki beda tetap. Suku ke-n dapat ditulis Un = a + (n - 1)d. Barisan geometri memiliki rasio tetap dan suku ke-n Un = a r^(n-1). Model pertumbuhan harus digunakan dengan hati-hati: pertumbuhan geometri mengasumsikan rasio tetap, sedangkan kondisi nyata seperti sumber daya terbatas dapat mengubah pola.
+
+PEMODELAN DAN SATUAN
+Sebelum membuat model, tentukan variabel, satuan, asumsi, dan rentang yang masuk akal. Misalnya biaya perjalanan dapat dimodelkan sebagai biaya tetap ditambah biaya per kilometer. Setelah memperoleh hasil, periksa apakah angka masuk akal dan apakah model mengabaikan faktor penting seperti kemacetan atau tarif berbeda.
+
+LATIHAN DAN PEMBAHASAN
+1. Selesaikan 4x - 7 = 13. Jawaban: 4x = 20 sehingga x = 5.
+2. Jika f(x) = 3x - 2, hitung f(6). Jawaban: 16.
+3. Tentukan akar x² - 5x + 6 = 0. Jawaban: (x - 2)(x - 3) = 0, sehingga x = 2 atau x = 3.
+4. Barisan 5, 8, 11, 14, ... tentukan suku ke-10. Jawaban: a = 5, d = 3, U10 = 5 + 9(3) = 32.
+5. Mengapa hasil model perlu diperiksa satuannya? Jawaban: kesalahan satuan dapat menghasilkan angka yang tampak benar secara hitung tetapi salah secara makna.
+
+RANGKUMAN BAB
+Aljabar menyediakan bahasa untuk menyatakan hubungan dan menyelesaikan masalah. Persamaan menjaga kesetaraan, fungsi menggambarkan aturan masukan-keluaran, grafik menunjukkan pola, dan model menghubungkan matematika dengan situasi nyata. Hasil harus diperiksa secara aljabar maupun berdasarkan konteks.

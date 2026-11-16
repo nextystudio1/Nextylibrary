@@ -243,3 +243,33 @@ WAWANCARA DAN KUTIPAN
 Pertanyaan terbuka memberi ruang bagi narasumber menjelaskan pengalaman. Catat konteks, tanggal, dan persetujuan penggunaan kutipan. Jangan mengubah kutipan sehingga maksudnya berbeda. Jika memotong bagian, pastikan makna tetap utuh.
 KOREKSI DAN AKUNTABILITAS
 Penerbit informasi bertanggung jawab memperbaiki kesalahan yang ditemukan. Koreksi perlu mudah ditemukan, menjelaskan bagian yang berubah, dan mencantumkan waktu pembaruan. Menghapus kesalahan tanpa keterangan dapat membuat pembaca tetap memegang informasi lama.
+
+MENELUSURI SUMBER DIGITAL
+Pencarian informasi yang baik dimulai dengan memecah pertanyaan menjadi kata kunci. Gunakan istilah khusus, sinonim, rentang waktu, dan nama lembaga terkait. Hasil teratas mesin pencari bukan jaminan paling benar; urutannya dapat dipengaruhi relevansi, lokasi, popularitas, dan sistem rekomendasi. Catat kata kunci serta tanggal pencarian agar proses dapat diulang.
+
+Periksa siapa penerbitnya, siapa penulisnya, kapan diterbitkan, bukti apa yang disertakan, dan apakah ada kepentingan yang perlu diketahui. Untuk klaim ilmiah, cari penelitian asli atau ulasan ilmiah, bukan hanya unggahan yang mengutip unggahan lain. Untuk kebijakan, utamakan dokumen resmi dan periksa apakah aturan masih berlaku. Sumber resmi pun perlu dibaca kritis karena setiap dokumen memiliki tujuan dan ruang lingkup.
+
+MEMERIKSA FOTO DAN VIDEO
+Foto dapat dipotong, diberi keterangan keliru, atau ditampilkan kembali dari peristiwa lama. Periksa konteks, tanggal, lokasi, dan sumber pertama yang dapat ditemukan. Pencarian gambar terbalik dapat membantu menemukan kemunculan terdahulu, tetapi hasilnya bukan bukti tunggal. Cocokkan dengan laporan independen atau sumber lokal yang dapat dipercaya.
+
+Video pendek sering menghilangkan bagian sebelum dan sesudah peristiwa. Tanyakan apa yang terjadi sebelum rekaman dimulai, siapa yang merekam, dan apakah suara atau teks tambahan mengubah makna. Jangan menyebarkan konten yang memperlihatkan orang dalam keadaan rentan hanya karena sedang ramai dibicarakan.
+
+ANGKA, GRAFIK, DAN KESALAHAN PENALARAN
+Grafik perlu dibaca melalui judul, satuan, sumber data, rentang waktu, dan skala sumbu. Sumbu yang tidak dimulai dari nol dapat menonjolkan perbedaan kecil; hal itu tidak selalu salah, tetapi harus dijelaskan. Persentase perlu menyebut dasar pembanding. Perubahan dari 2 menjadi 4 adalah kenaikan 100 persen, tetapi jumlah absolutnya bertambah dua.
+
+Korelasi berarti dua hal berubah bersama, bukan otomatis bahwa yang satu menyebabkan yang lain. Variabel ketiga dapat memengaruhi keduanya. Untuk menilai sebab-akibat, periksa urutan waktu, mekanisme yang masuk akal, faktor pengganggu, dan rancangan penelitian. Hindari menyimpulkan dari satu contoh yang menarik.
+
+ALGORITMA DAN RUANG INFORMASI
+Platform digital menggunakan sistem rekomendasi untuk memilih konten yang mungkin menarik perhatian. Personalisasi dapat memudahkan penemuan materi, tetapi juga membuat pengguna jarang melihat sudut pandang lain. Cari sumber yang beragam, buka konteks lengkap, dan sesekali periksa topik dari sumber yang tidak biasa dibaca. Jumlah suka bukan ukuran ketepatan.
+
+MENULIS ULASAN INFORMASI
+Ulasan yang bertanggung jawab memisahkan fakta, tafsiran, dan pendapat. Mulailah dengan menyatakan klaim yang diperiksa, lalu jelaskan bukti pendukung, bukti yang bertentangan, dan batas kesimpulan. Kutipan harus akurat dan tidak dipotong hingga mengubah maksud. Tautan atau identitas sumber dicatat agar pembaca dapat memeriksa ulang.
+
+LATIHAN DAN PEMBAHASAN
+1. Sebuah unggahan menyatakan “semua siswa gagal karena telepon genggam”. Apa yang harus diperiksa? Jawaban: definisi gagal, data pembanding, ukuran penggunaan, faktor lain, sampel, dan sumber.
+2. Mengapa foto lama dapat menyesatkan ketika diberi keterangan peristiwa baru? Jawaban: gambar asli mungkin benar tetapi konteks waktu dan peristiwanya salah.
+3. Apa beda korelasi dan sebab-akibat? Jawaban: korelasi menunjukkan hubungan pola; sebab-akibat membutuhkan bukti bahwa perubahan satu faktor menghasilkan perubahan lain dengan faktor pengganggu diperiksa.
+4. Buat catatan sumber minimal berisi penulis/lembaga, judul, tanggal, alamat sumber, dan tanggal akses.
+
+RANGKUMAN BAB
+Literasi media adalah kemampuan menemukan, memeriksa, memahami, dan menyampaikan informasi secara bertanggung jawab. Kecepatan menyebarkan informasi tidak boleh mengalahkan pemeriksaan bukti. Pembaca yang kritis memeriksa sumber, konteks, angka, gambar, dan kepentingan di balik pesan.

@@ -244,3 +244,35 @@ GERAKAN SOSIAL
 Gerakan sosial adalah upaya kolektif untuk mempertahankan atau mengubah keadaan sosial. Gerakan dapat menggunakan kampanye, petisi, pendidikan publik, advokasi, dan kegiatan komunitas. Keberhasilan dipengaruhi sumber daya, jaringan, kepemimpinan, kesempatan politik, dan dukungan masyarakat.
 MODAL SOSIAL
 Modal sosial merujuk pada jaringan, kepercayaan, dan norma yang memudahkan kerja sama. Ikatan yang kuat dapat memberi dukungan, sementara jembatan antarkelompok membuka akses informasi baru. Namun jaringan tertutup dapat mengecualikan orang di luar kelompok.
+
+METODE PENELITIAN SOSIAL
+Penelitian sosial dimulai dari pertanyaan yang jelas dan dapat diteliti. Pertanyaan “mengapa remaja tidak peduli pendidikan?” terlalu luas dan mengandung penilaian. Pertanyaan yang lebih baik misalnya “faktor apa yang berkaitan dengan kehadiran siswa kelas tertentu selama satu semester?” Rumusan yang terukur membantu peneliti memilih data tanpa menyederhanakan manusia menjadi angka semata.
+
+Survei mengumpulkan jawaban dari banyak orang dengan pertanyaan yang seragam. Wawancara mendalam membantu memahami alasan dan pengalaman. Observasi mempelajari perilaku dalam konteks, sedangkan analisis dokumen memeriksa aturan, arsip, berita, atau catatan organisasi. Setiap metode memiliki keterbatasan. Survei dapat dipengaruhi cara pertanyaan disusun; wawancara dapat dipengaruhi hubungan peneliti dan narasumber; observasi dapat mengubah perilaku orang yang diamati.
+
+SAMPEL DAN ETIKA
+Sampel adalah bagian dari populasi yang diteliti. Sampel acak memberi peluang pemilihan yang lebih terukur, sedangkan sampel bertujuan dipakai ketika peneliti membutuhkan pengalaman khusus. Sampel yang mudah dijangkau belum tentu mewakili seluruh populasi. Hasil dari satu sekolah tidak otomatis berlaku untuk semua sekolah di Indonesia.
+
+Partisipasi harus berdasarkan persetujuan yang dipahami. Jelaskan tujuan, jenis data, cara penyimpanan, risiko, dan hak untuk berhenti. Penelitian yang melibatkan anak memerlukan perlindungan tambahan serta persetujuan sesuai ketentuan dan konteks. Identitas narasumber tidak boleh dibuka tanpa alasan dan izin yang sah. Hindari pertanyaan yang mempermalukan atau memaksa orang menceritakan pengalaman pribadi.
+
+STRUKTUR SOSIAL DAN MOBILITAS
+Struktur sosial adalah pola hubungan dan posisi yang membentuk kehidupan bersama. Kelas sosial dapat berkaitan dengan pendapatan, pendidikan, pekerjaan, kepemilikan aset, dan pengakuan sosial. Tidak ada satu ukuran yang menjelaskan seluruh pengalaman seseorang. Mobilitas sosial menggambarkan perubahan posisi sosial, baik antargenerasi maupun sepanjang kehidupan seseorang.
+
+Pendidikan dapat membuka kesempatan, tetapi manfaatnya dipengaruhi mutu sekolah, biaya, akses transportasi, dukungan keluarga, kesehatan, dan kesempatan kerja. Karena itu, menjelaskan keberhasilan hanya sebagai hasil usaha pribadi mengabaikan kondisi sosial. Sebaliknya, struktur sosial juga tidak membuat pilihan individu menjadi tidak berarti. Analisis yang baik memeriksa hubungan antara tindakan dan kesempatan.
+
+KONFLIK, KERJA SAMA, DAN PERUBAHAN
+Konflik dapat muncul karena perebutan sumber daya, perbedaan kepentingan, ketidaksetaraan, atau perbedaan nilai. Konflik tidak selalu berarti kekerasan; perdebatan terbuka dapat membantu masyarakat menguji aturan yang tidak adil. Penyelesaian yang sehat membutuhkan informasi, ruang dialog, perlindungan hak, dan mekanisme yang dipercaya.
+
+Lembaga sosial seperti keluarga, sekolah, pemerintah, organisasi keagamaan, dan pasar memiliki aturan serta fungsi yang saling berhubungan. Perubahan pada satu lembaga dapat berdampak pada lembaga lain. Misalnya, perubahan pola kerja orang tua dapat memengaruhi pembagian waktu pengasuhan dan kegiatan belajar.
+
+STUDI KASUS: AKSES PERPUSTAKAAN
+Sebuah kabupaten menemukan bahwa peminjaman buku berbeda antarsekolah. Jangan langsung menyimpulkan siswa di sekolah dengan peminjaman rendah tidak suka membaca. Periksa jumlah buku, jam layanan, jarak, akses internet, kondisi ruang, program guru, dan cara pencatatan. Bandingkan sekolah dengan karakteristik berbeda dan dengarkan siswa serta petugas perpustakaan. Rekomendasi harus mengikuti bukti, misalnya menambah koleksi yang relevan atau memperpanjang jam layanan.
+
+LATIHAN DAN PEMBAHASAN
+1. Bedakan populasi dan sampel. Jawaban: populasi adalah seluruh kelompok sasaran; sampel adalah bagian yang dipilih untuk diteliti.
+2. Mengapa hasil survei daring terbuka tidak otomatis mewakili semua warga? Jawaban: peserta memilih sendiri untuk menjawab dan akses internet tidak merata, sehingga peluang terpilih tidak sama.
+3. Berikan contoh perubahan pada satu lembaga yang memengaruhi lembaga lain. Jawaban beragam; jelaskan jalur pengaruhnya dan dukung dengan contoh.
+4. Sebutkan tiga perlindungan narasumber. Jawaban: persetujuan sadar, kerahasiaan data, dan hak untuk menolak atau berhenti.
+
+RANGKUMAN BAB
+Sosiologi menelaah pola hubungan sosial dengan bukti dan konsep yang jelas. Metode harus sesuai pertanyaan, sampel perlu dinilai keterwakilannya, dan etika melindungi orang yang diteliti. Penjelasan sosial yang kuat mempertimbangkan tindakan manusia sekaligus struktur kesempatan.

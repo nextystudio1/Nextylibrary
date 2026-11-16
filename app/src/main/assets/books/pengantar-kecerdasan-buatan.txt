@@ -263,3 +263,34 @@ KEAMANAN SISTEM AI
 Sistem dapat menerima masukan yang sengaja dirancang untuk mengganggu atau memanipulasi perilaku. Pengujian keamanan perlu memeriksa akses, penyimpanan data, integrasi, dan kemampuan pemulihan. Batasi hak akses sesuai kebutuhan dan siapkan prosedur ketika layanan tidak tersedia.
 PENGADAAN DAN EVALUASI
 Organisasi yang memakai layanan AI perlu menilai penyedia, lokasi penyimpanan, penggunaan data, pembaruan model, dukungan, dan mekanisme pengaduan. Keputusan pengadaan tidak cukup berdasarkan demonstrasi yang menarik; lakukan uji coba pada tugas nyata dan ukur manfaat serta risikonya.
+
+PEMBELAJARAN MESIN: DARI DATA KE MODEL
+Pembelajaran mesin adalah pendekatan yang membuat komputer mempelajari pola dari contoh data. Dalam pembelajaran terawasi, setiap contoh memiliki label atau nilai sasaran. Model mempelajari hubungan antara masukan dan sasaran, lalu diuji pada data yang tidak dipakai saat pelatihan. Dalam pembelajaran tanpa pengawasan, sistem mencari struktur seperti kelompok atau pola tanpa label sasaran yang disediakan. Pembelajaran penguatan mempelajari tindakan melalui umpan balik berupa penghargaan atau penalti dalam suatu lingkungan.
+
+Bayangkan sekolah ingin memperkirakan kebutuhan buku perpustakaan. Data dapat mencakup jumlah peminjaman, mata pelajaran, waktu, dan jumlah siswa. Model bukan pengganti keputusan pustakawan: hasilnya perlu dibandingkan dengan kalender sekolah, perubahan kurikulum, dan kebutuhan siswa yang tidak tercatat. Data historis juga dapat membawa ketimpangan, misalnya koleksi di wilayah tertentu lebih sedikit sehingga peminjamannya tampak rendah.
+
+MEMBAGI DATA DAN MENGUKUR KINERJA
+Data umumnya dibagi menjadi data pelatihan, validasi, dan pengujian. Data uji sebaiknya disimpan sampai pilihan model selesai agar penilaian akhir tidak terlalu optimistis. Kebocoran data terjadi ketika informasi yang seharusnya belum diketahui saat prediksi ikut masuk ke proses pelatihan. Contohnya, memprediksi kelulusan dengan memasukkan nilai akhir yang baru muncul setelah kelulusan diputuskan.
+
+Untuk klasifikasi, akurasi adalah proporsi prediksi yang benar, tetapi dapat menyesatkan pada kelas yang tidak seimbang. Jika 95 dari 100 transaksi bukan penipuan, model yang selalu menjawab “bukan penipuan” memperoleh akurasi 95 persen tetapi gagal menemukan penipuan. Presisi menjawab seberapa banyak prediksi positif yang benar; recall menjawab seberapa banyak kasus positif yang berhasil ditemukan. Pilihan ukuran harus mengikuti akibat kesalahan dalam konteks nyata.
+
+KESALAHAN MODEL DAN GENERALISASI
+Model terlalu sederhana dapat mengalami underfitting: pola penting tidak tertangkap. Model yang terlalu menyesuaikan diri dengan data pelatihan dapat mengalami overfitting dan gagal pada contoh baru. Validasi silang membantu mengukur kestabilan pada beberapa pembagian data. Data baru dari waktu atau wilayah berbeda juga perlu diuji karena pola dapat berubah.
+
+AI GENERATIF DAN PEMERIKSAAN HASIL
+Model generatif menyusun keluaran berdasarkan pola yang dipelajari, bukan otomatis memeriksa kebenaran setiap pernyataan. Jawaban yang lancar dapat berisi fakta keliru, rujukan yang tidak ada, atau angka yang tidak konsisten. Gunakan keluaran sebagai draf: cocokkan klaim dengan buku ajar, dokumen resmi, hasil perhitungan, atau sumber primer. Jangan memasukkan data pribadi, rahasia sekolah, atau informasi orang lain tanpa dasar izin yang jelas.
+
+LATIHAN TERARAH
+1. Sekolah membuat model untuk memprediksi siswa yang membutuhkan dukungan belajar. Sebutkan tiga variabel yang relevan dan dua variabel sensitif yang tidak boleh dipakai sembarangan.
+2. Mengapa data pengujian tidak boleh dipakai berulang kali untuk memilih model?
+3. Dalam sistem penyaring penyakit, kapan recall mungkin lebih penting daripada presisi? Jelaskan bahwa keputusan tetap memerlukan tenaga kesehatan.
+4. Buat daftar lima pertanyaan untuk memeriksa jawaban AI sebelum dipakai dalam tugas.
+
+PEMBAHASAN SINGKAT
+1. Contoh variabel relevan: kehadiran, hasil latihan formatif, dan akses perangkat. Informasi sensitif seperti kondisi kesehatan atau latar keluarga memerlukan perlindungan dan alasan penggunaan yang kuat; sering kali lebih tepat tidak digunakan.
+2. Karena model akan secara tidak langsung menyesuaikan diri pada data uji sehingga hasil evaluasi tidak lagi menjadi ukuran independen.
+3. Ketika melewatkan kasus positif memiliki akibat besar. Namun sistem tetap harus divalidasi dan tidak menggantikan diagnosis profesional.
+4. Periksa sumber, tanggal, definisi, perhitungan, dan apakah kesimpulan benar-benar didukung bukti.
+
+RANGKUMAN BAB
+Model belajar dari data dan harus diuji pada data yang terpisah. Ukuran kinerja dipilih sesuai konteks, bukan hanya angka akurasi. Keadilan, privasi, keamanan, dan pengawasan manusia merupakan bagian inti dari pengembangan AI, bukan tambahan setelah sistem selesai.

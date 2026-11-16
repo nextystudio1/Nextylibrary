@@ -255,3 +255,41 @@ MENYUNTING KALIMAT
 Kalimat efektif menyampaikan satu gagasan utama dengan struktur yang mudah diikuti. Hindari istilah teknis yang tidak diperlukan, rujukan kata ganti yang kabur, dan kalimat terlalu panjang. Variasikan struktur tanpa mengorbankan ketepatan.
 PENGELOLAAN VERSI
 Simpan versi naskah dengan penamaan konsisten dan catat perubahan penting. Perangkat kolaborasi dapat membantu, tetapi pembagian tanggung jawab penyuntingan harus jelas. Pastikan komentar dan revisi ditinjau sebelum dokumen akhir diserahkan.
+
+MERUMUSKAN PERTANYAAN DAN TESIS
+Tulisan akademik yang baik berangkat dari masalah yang terbatas dan dapat dijawab dengan bukti. Topik “pendidikan” terlalu luas untuk satu esai pendek. Topik dapat dipersempit menjadi “pengaruh ketersediaan bacaan nonfiksi terhadap kebiasaan membaca siswa kelas tertentu”. Pertanyaan penelitian menentukan jenis sumber dan batas pembahasan.
+
+Tesis adalah pernyataan utama yang akan dipertahankan melalui alasan dan bukti. Tesis bukan sekadar pengumuman topik. Pernyataan “perpustakaan penting” masih terlalu umum; tesis yang lebih terarah dapat menyatakan bahwa akses koleksi yang relevan, jam layanan, dan pendampingan guru bersama-sama mendukung pemanfaatan perpustakaan. Tesis harus dapat diuji dan boleh diperbaiki ketika bukti baru ditemukan.
+
+PARAGRAF ARGUMENTATIF
+Paragraf akademik biasanya memiliki satu gagasan utama, penjelasan, bukti, dan hubungan yang jelas dengan argumen keseluruhan. Pola sederhana: klaim, alasan, bukti, analisis, lalu penghubung ke gagasan berikutnya. Kutipan tidak boleh dibiarkan berdiri sendiri; penulis perlu menjelaskan mengapa kutipan tersebut mendukung argumen.
+
+Hindari generalisasi seperti “semua siswa” jika data hanya berasal dari satu kelas. Gunakan ungkapan yang sesuai cakupan, misalnya “pada kelompok yang diteliti”. Bedakan fakta terukur, penafsiran, dan pendapat. Jika bukti bertentangan, jelaskan perbedaannya alih-alih menyembunyikannya.
+
+PARAFRASE, KUTIPAN, DAN INTEGRITAS
+Parafrase menyampaikan gagasan sumber dengan susunan kalimat sendiri sambil tetap mencantumkan sumber. Mengganti beberapa kata dengan sinonim tanpa memahami gagasan bukan parafrase yang baik. Kutipan langsung harus sama dengan sumber dan diberi penanda sesuai gaya sitasi. Catat halaman atau bagian sumber ketika membaca agar rujukan mudah diperiksa.
+
+Plagiarisme mencakup penggunaan gagasan, susunan, atau kata orang lain tanpa pengakuan yang layak. Menyebut sumber tidak membenarkan kutipan yang terlalu panjang atau penggunaan di luar izin. Periksa ketentuan lisensi dan aturan tugas. Catatan pribadi, ringkasan, dan draf harus dibedakan agar gagasan sendiri tidak tertukar dengan kutipan.
+
+MENILAI KEKUATAN BUKTI
+Tidak semua sumber memiliki fungsi sama. Artikel penelitian dapat memberi metode dan hasil; buku ajar memberi penjelasan terstruktur; dokumen pemerintah memberi aturan atau statistik resmi; wawancara memberi pengalaman. Nilai kesesuaian sumber terhadap pertanyaan, kualitas metode, tanggal, konteks, dan kemungkinan konflik kepentingan. Sumber terbaru tidak selalu lebih tepat untuk menjelaskan peristiwa sejarah.
+
+PENYUNTINGAN BERTAHAP
+Lakukan penyuntingan dalam beberapa putaran. Putaran pertama memeriksa struktur dan kelengkapan argumen. Putaran kedua memeriksa bukti, sitasi, dan konsistensi istilah. Putaran ketiga memeriksa kalimat, ejaan, tanda baca, dan format. Membaca teks dengan suara pelan atau meminta teman meninjau dapat membantu menemukan bagian yang sulit dipahami.
+
+CONTOH KERANGKA ESAI
+Judul: Mengembangkan Kebiasaan Membaca Nonfiksi di Sekolah.
+Pendahuluan: masalah dan pertanyaan.
+Bagian pertama: akses dan relevansi koleksi.
+Bagian kedua: dukungan guru dan kegiatan membaca.
+Bagian ketiga: hambatan waktu serta fasilitas.
+Penutup: simpulan yang menjawab pertanyaan dan rekomendasi sesuai bukti. Kerangka ini bukan hasil penelitian; data tetap harus dikumpulkan sebelum membuat klaim faktual.
+
+LATIHAN DAN PEMBAHASAN
+1. Perbaiki topik “internet” menjadi pertanyaan yang terukur. Contoh: “Bagaimana pola penggunaan internet untuk mencari bahan tugas pada siswa kelas X selama satu bulan?”
+2. Apa beda parafrase dan kutipan langsung? Jawaban: parafrase menyusun kembali gagasan dengan kata sendiri dan tetap memberi sumber; kutipan langsung menyalin kata sumber secara persis dengan penanda.
+3. Mengapa satu contoh tidak cukup untuk klaim “semua siswa”? Jawaban: contoh tunggal tidak mewakili variasi populasi.
+4. Susun satu paragraf dengan klaim, bukti, dan analisis dari sumber yang benar-benar telah dibaca.
+
+RANGKUMAN BAB
+Menulis akademik adalah proses berpikir berbasis bukti. Pertanyaan yang terarah, tesis yang dapat diuji, paragraf runtut, sumber yang dinilai kritis, sitasi jujur, dan penyuntingan bertahap menghasilkan tulisan yang dapat diperiksa pembaca.

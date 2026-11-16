@@ -218,3 +218,38 @@ KEBIJAKAN FISKAL
 Pemerintah memperoleh penerimaan dan melakukan belanja untuk menyediakan layanan serta infrastruktur. Defisit dapat digunakan dalam keadaan tertentu, tetapi pembiayaan dan keberlanjutan utang perlu diperhatikan. Evaluasi fiskal melihat kualitas belanja, distribusi manfaat, dan kondisi ekonomi.
 PERDAGANGAN INTERNASIONAL
 Perdagangan memungkinkan wilayah memperoleh barang yang tidak diproduksi secara efisien di dalam negeri. Namun manfaat dan biaya dapat tersebar tidak merata. Perubahan perdagangan dapat memengaruhi pekerja, produsen, konsumen, dan lingkungan.
+
+PERMINTAAN, PENAWARAN, DAN KESEIMBANGAN
+Permintaan menunjukkan jumlah barang atau jasa yang bersedia dan mampu dibeli pada berbagai tingkat harga dalam periode tertentu. Dengan faktor lain tetap, harga yang lebih tinggi biasanya berkaitan dengan jumlah yang diminta lebih rendah. Penawaran menunjukkan jumlah yang bersedia dijual produsen; harga yang lebih tinggi dapat mendorong produsen menawarkan lebih banyak jika biaya dan kondisi lain tidak berubah.
+
+Harga keseimbangan terbentuk ketika jumlah yang diminta sama dengan jumlah yang ditawarkan. Jika harga berada di atas keseimbangan, dapat muncul kelebihan penawaran; jika di bawahnya, dapat terjadi kekurangan barang. Dalam kenyataan, penyesuaian tidak selalu cepat karena kontrak, stok, informasi, kekuatan pasar, dan kebijakan pemerintah.
+
+ELASTISITAS DAN KEPUTUSAN
+Elastisitas harga mengukur seberapa besar perubahan jumlah yang diminta dibanding perubahan harga. Barang dengan banyak pengganti cenderung lebih elastis daripada barang yang sulit diganti dalam jangka pendek. Kebutuhan pokok dapat tetap dibeli meskipun harga naik, tetapi rumah tangga berpendapatan rendah mungkin harus mengurangi konsumsi barang lain.
+
+Pendapatan, selera, harga barang terkait, jumlah pembeli, dan perkiraan masa depan dapat menggeser kurva permintaan. Teknologi, harga bahan baku, pajak, cuaca, dan jumlah produsen dapat menggeser penawaran. Bedakan perubahan jumlah akibat perubahan harga barang itu sendiri dengan pergeseran seluruh kurva akibat faktor lain.
+
+BIAYA, PENERIMAAN, DAN LABA
+Penerimaan total adalah harga dikalikan jumlah terjual. Laba ekonomi memperhitungkan biaya eksplisit dan biaya peluang, yaitu nilai pilihan terbaik yang dilepaskan. Seorang siswa yang menjual makanan saat akhir pekan perlu menghitung bahan, kemasan, transportasi, energi, barang rusak, serta waktu. Uang yang tersisa setelah belanja bahan belum tentu seluruhnya laba.
+
+Biaya tetap tidak berubah langsung mengikuti jumlah produksi dalam rentang tertentu, sedangkan biaya variabel berubah ketika produksi berubah. Biaya rata-rata diperoleh dengan membagi biaya total dengan jumlah output. Biaya marjinal adalah tambahan biaya untuk menghasilkan satu unit tambahan. Konsep marjinal membantu menilai apakah penambahan produksi masih masuk akal.
+
+INFLASI DAN DAYA BELI
+Inflasi adalah kenaikan tingkat harga umum secara berkelanjutan, bukan kenaikan harga satu barang saja. Indeks harga konsumen mengukur perubahan harga keranjang barang dan jasa yang mewakili pola konsumsi. Keranjang tersebut merupakan pendekatan statistik; pengalaman setiap keluarga berbeda menurut lokasi dan pola belanja.
+
+Jika pendapatan nominal naik lebih lambat daripada harga, daya beli dapat turun. Namun dampak inflasi tidak sama bagi semua orang. Pekerja dengan pendapatan tetap, penabung, peminjam, dan pelaku usaha dapat mengalami dampak berbeda. Karena itu, berita inflasi perlu dibaca bersama periode pengukuran, kelompok barang, dan perubahan pendapatan.
+
+MEMBACA LAPORAN KEUANGAN SEDERHANA
+Anggaran mencatat rencana pemasukan dan pengeluaran. Arus kas menunjukkan kapan uang benar-benar diterima dan dibayar. Seseorang dapat terlihat memperoleh laba tetapi mengalami kesulitan membayar tagihan karena pelanggan belum melunasi pembelian. Catatan sederhana yang konsisten membantu menghindari keputusan berdasarkan perkiraan.
+
+STUDI KASUS USAHA KECIL
+Seorang pelajar membuat 40 paket makanan. Biaya bahan dan kemasan Rp240.000, biaya transportasi Rp20.000, dan 4 paket tidak terjual. Jika 36 paket terjual masing-masing Rp8.000, penerimaan adalah Rp288.000. Selisih terhadap biaya yang disebutkan adalah Rp28.000, tetapi perhitungan ini belum memasukkan nilai waktu, energi, penyusutan alat, atau biaya lain. Kesimpulan harus menyebut batas data tersebut.
+
+LATIHAN DAN PEMBAHASAN
+1. Harga bahan baku naik. Apa yang mungkin terjadi pada penawaran produk? Jawaban: penawaran dapat berkurang atau bergeser ke kiri jika biaya lebih tinggi membuat produksi kurang menguntungkan.
+2. Mengapa kenaikan pendapatan nominal belum tentu meningkatkan daya beli? Jawaban: karena harga barang dan jasa juga dapat naik.
+3. Hitung penerimaan 25 barang dengan harga Rp12.000. Jawaban: Rp300.000.
+4. Sebutkan dua biaya peluang usaha pelajar. Jawaban: waktu belajar yang digunakan dan kegiatan lain yang dilepaskan.
+
+RANGKUMAN BAB
+Ekonomi mempelajari pilihan di tengah sumber daya terbatas. Permintaan, penawaran, biaya, insentif, inflasi, dan arus kas membantu menjelaskan keputusan rumah tangga maupun usaha. Angka ekonomi harus ditafsirkan sesuai konteks dan keterbatasan data.

@@ -227,3 +227,36 @@ KETERJANGKAUAN TEKNOLOGI
 Biaya perangkat, jaringan, dan layanan memengaruhi kemampuan berpartisipasi. Kebijakan akses digital perlu mempertimbangkan wilayah terpencil, penyandang disabilitas, dan warga dengan keterampilan terbatas. Pelatihan harus disertai dukungan yang berkelanjutan.
 ETIKA PENGGUNAAN AI
 Penggunaan AI dalam tugas, pekerjaan, atau layanan perlu transparan sesuai aturan yang berlaku. Periksa hasil sebelum dipakai, lindungi data pribadi, dan jangan mengatasnamakan seseorang tanpa izin. Tanggung jawab akhir tetap berada pada pihak yang memutuskan menggunakan keluaran.
+
+HAK, KEWAJIBAN, DAN ATURAN DI RUANG DIGITAL
+Ruang digital tetap merupakan ruang sosial yang melibatkan hak dan tanggung jawab. Pengguna berhak mencari informasi, belajar, berkomunikasi, dan menyampaikan pendapat dengan tetap menghormati hak orang lain serta hukum yang berlaku. Kebebasan berekspresi tidak berarti bebas mengancam, melecehkan, menyebarkan data pribadi, atau melakukan penipuan.
+
+Sebelum membagikan informasi tentang orang lain, pertimbangkan apakah informasi itu memang perlu, benar, dan telah mendapat izin. Tangkapan layar percakapan pribadi tetap dapat mengungkap identitas dan konteks. Menghapus unggahan tidak menjamin salinan yang telah dibuat orang lain ikut terhapus.
+
+PRIVASI DAN JEJAK DIGITAL
+Data pribadi dapat berupa nama, alamat, nomor kontak, lokasi, foto, identitas akun, dan gabungan informasi yang memungkinkan seseorang dikenali. Berikan data seminimal mungkin. Periksa izin aplikasi, pengaturan lokasi, visibilitas profil, serta siapa yang dapat melihat unggahan. Gunakan kata sandi berbeda untuk akun penting dan aktifkan autentikasi berlapis jika tersedia.
+
+Jejak digital terbentuk dari unggahan, komentar, aktivitas akun, dan data yang dikumpulkan layanan. Jejak tersebut dapat bertahan melalui salinan, arsip, atau tangkapan layar. Sebelum mengunggah, tanyakan apakah konten aman jika dilihat keluarga, guru, calon pemberi kerja, atau orang yang tidak dikenal. Pertanyaan ini bukan untuk membatasi kreativitas, melainkan membangun kebiasaan sadar konteks.
+
+KEAMANAN AKUN DAN PENIPUAN
+Pesan penipuan sering menciptakan rasa takut atau tergesa-gesa, misalnya mengancam akun akan ditutup atau menjanjikan hadiah. Jangan membuka tautan hanya karena pesan terlihat resmi. Periksa alamat pengirim melalui kanal resmi yang dicari secara mandiri. Jangan membagikan kode verifikasi, kata sandi, atau kode pemulihan. Layanan resmi tidak membutuhkan pengguna menyerahkan kode rahasia melalui percakapan.
+
+Jika akun diduga diambil alih, gunakan prosedur pemulihan resmi, ubah kata sandi dari perangkat tepercaya, cabut sesi yang tidak dikenal, dan beri tahu kontak bila akun dipakai mengirim pesan mencurigakan. Simpan bukti yang diperlukan untuk pelaporan tanpa menyebarkan data sensitif ke publik.
+
+ETIKA KOMUNIKASI DAN PERUNDUNGAN
+Perbedaan pendapat dapat disampaikan dengan mengkritik gagasan, bukan merendahkan orang. Hindari hinaan, ancaman, penyebaran rumor, dan pengucilan terkoordinasi. Jika melihat perundungan, jangan ikut menyebarkan konten; dukung pihak terdampak, gunakan fitur pelaporan, dan minta bantuan orang dewasa tepercaya atau pihak sekolah bila keselamatan atau kesejahteraan seseorang terganggu.
+
+AKSESIBILITAS DAN KESETARAAN DIGITAL
+Layanan digital sebaiknya dapat digunakan oleh orang dengan kemampuan dan perangkat berbeda. Teks alternatif membantu pengguna pembaca layar memahami gambar; takarir membantu memahami video; kontras yang cukup dan navigasi sederhana membantu lebih banyak orang. Materi belajar perlu menyediakan pilihan format dan tidak menganggap semua siswa memiliki internet cepat atau perangkat pribadi.
+
+PROYEK PELAJAR: AUDIT PRIVASI APLIKASI
+Pilih satu aplikasi yang digunakan untuk belajar. Catat jenis izin yang diminta, alasan izin menurut penjelasan aplikasi, pengaturan privasi yang tersedia, dan cara menghapus akun atau data. Jangan mengumpulkan data pengguna lain. Buat rekomendasi yang realistis, misalnya menonaktifkan izin yang tidak dibutuhkan.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa kode OTP tidak boleh diberikan kepada orang yang mengaku petugas? Jawaban: kode tersebut dapat memberi akses ke akun dan harus dirahasiakan.
+2. Sebutkan tiga unsur pesan penipuan yang patut dicurigai. Jawaban: tekanan waktu, tautan tidak dikenal, dan permintaan rahasia atau pembayaran yang tidak wajar.
+3. Apa tindakan bertanggung jawab saat menerima foto pribadi yang disebarkan tanpa izin? Jawaban: jangan meneruskan, dukung orang terdampak, laporkan melalui kanal tepat, dan minta bantuan tepercaya.
+4. Berikan dua contoh desain digital yang lebih aksesibel. Jawaban: takarir video dan teks alternatif gambar.
+
+RANGKUMAN BAB
+Kewarganegaraan digital menggabungkan hak, tanggung jawab, privasi, keamanan, etika, dan aksesibilitas. Warga digital yang baik tidak hanya mahir memakai teknologi, tetapi juga mampu melindungi diri, menghormati orang lain, serta berpartisipasi secara kritis.

@@ -170,3 +170,34 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa korelasi mikrobioma dan penyakit belum membuktikan sebab-akibat? Faktor lain dan arah hubungan masih perlu diuji.
 4. Mengapa fermentasi tidak otomatis menjamin pangan aman? Keamanan bergantung pada bahan, proses, kebersihan, dan pengendalian mutu.
 5. Apa fungsi surveilans? Mengamati pola penyakit untuk mendukung pencegahan dan keputusan kesehatan masyarakat.
+
+BAB LANJUTAN: INTERAKSI MIKROBA DENGAN INANG
+
+Hubungan mikroorganisme dan inang memiliki rentang luas, mulai dari mutualisme hingga hubungan yang merugikan. Mikrobiota normal dapat membantu metabolisme, membentuk penghalang terhadap kolonisasi organisme lain, dan berinteraksi dengan sistem imun. Dampaknya bergantung pada lokasi tubuh, kondisi inang, komposisi komunitas, dan lingkungan.
+
+Mikroorganisme oportunistik dapat menimbulkan masalah ketika pertahanan inang terganggu atau ketika mikroba berpindah ke lokasi tubuh yang tidak semestinya. Karena itu, keberadaan mikroba tidak otomatis menunjukkan penyakit. Penilaian klinis menggabungkan gejala, riwayat, pemeriksaan, dan hasil laboratorium oleh tenaga kesehatan.
+
+Sistem imun bawaan merespons pola umum, sedangkan sistem adaptif melibatkan respons yang lebih spesifik dan memori imunologis. Interaksi keduanya membantu mengendalikan infeksi, tetapi respons berlebihan juga dapat menyebabkan kerusakan jaringan. Pemahaman ini menjelaskan mengapa respons tubuh tidak dapat disederhanakan sebagai pertarungan satu mikroba melawan satu antibodi.
+
+BAB LANJUTAN: GENETIKA MIKROBA DAN TRANSFER GEN
+
+Mikroba dapat memiliki variasi genetik melalui mutasi dan pertukaran materi genetik. Pada bakteri, transfer gen horizontal dapat terjadi melalui beberapa mekanisme biologis. Proses tersebut berperan dalam evolusi, adaptasi, dan penyebaran sifat tertentu, termasuk resistansi antimikroba.
+
+Resistansi dapat muncul ketika variasi yang memungkinkan mikroba bertahan terseleksi oleh paparan antimikroba. Penggunaan yang tidak tepat pada manusia, hewan, atau lingkungan dapat meningkatkan tekanan seleksi. Pencegahan memerlukan penggunaan obat sesuai arahan tenaga kesehatan, pengendalian infeksi, sanitasi, surveilans, dan pengelolaan limbah yang bertanggung jawab.
+
+Data resistansi perlu dibaca menurut spesies, lokasi, waktu, jenis sampel, dan metode uji. Perubahan persentase tidak selalu berarti perubahan biologis murni karena pola pengambilan sampel dan laboratorium dapat berubah. Pelaporan harus menyertakan metadata.
+
+BAB LANJUTAN: MIKROBIOLOGI LINGKUNGAN DAN BIOREMEDIASI
+
+Mikroorganisme berperan dalam daur karbon, nitrogen, sulfur, dan unsur lain. Aktivitasnya memengaruhi kesuburan tanah, kualitas air, dan penguraian bahan organik. Komunitas mikroba merespons suhu, pH, oksigen, ketersediaan nutrien, dan keberadaan senyawa pencemar.
+
+Bioremediasi memanfaatkan organisme atau proses biologis untuk mengurangi pencemar. Keberhasilan bergantung pada sifat bahan pencemar, kondisi lokasi, organisme yang sesuai, dan pemantauan. Penurunan konsentrasi satu senyawa belum tentu berarti seluruh risiko hilang; produk antara dan perpindahan pencemar juga perlu diperiksa.
+
+Penerapan lingkungan harus dinilai secara hati-hati dan mengikuti izin serta pengawasan yang sesuai. Pelepasan organisme ke lingkungan tidak boleh dilakukan sebagai percobaan tanpa penilaian risiko, pengendalian, dan persetujuan yang diperlukan.
+
+LATIHAN PENDALAMAN
+1. Mengapa keberadaan mikroba tidak selalu berarti penyakit?
+2. Apa perbedaan respons imun bawaan dan adaptif?
+3. Bagaimana transfer gen horizontal memengaruhi evolusi mikroba?
+4. Mengapa data resistansi perlu dilengkapi metadata?
+5. Apa saja faktor yang menentukan keberhasilan bioremediasi?

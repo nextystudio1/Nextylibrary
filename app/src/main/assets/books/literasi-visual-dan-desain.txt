@@ -171,3 +171,35 @@ Evaluasi: Penilaian berdasarkan kriteria dan bukti.
 
 CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.
+PENDALAMAN MATERI DAN PENERAPAN
+
+BAB 6. MEMBACA GRAFIK DAN DIAGRAM
+Grafik menyederhanakan data agar pola dapat dilihat, tetapi bentuk visual dapat memengaruhi interpretasi. Periksa judul, label sumbu, satuan, skala, sumber, dan periode data. Sumbu yang tidak dimulai dari nol dapat memperbesar kesan perubahan pada grafik batang. Grafik garis cocok untuk menunjukkan perubahan berurutan, sedangkan diagram sebar membantu melihat hubungan dua variabel. Diagram lingkaran hanya efektif jika kategori saling terpisah dan jumlahnya membentuk keseluruhan. Jangan menyimpulkan sebab-akibat hanya dari dua garis yang bergerak bersama. Visualisasi harus memperjelas data, bukan menyembunyikan ketidakpastian.
+
+BAB 7. SIMBOL, IKON, DAN BAHASA VISUAL
+Simbol menyampaikan makna melalui bentuk yang dipelajari atau disepakati. Ikon yang menyerupai objek dapat mudah dikenali, tetapi tidak semua simbol memiliki arti universal. Konteks, budaya, dan pengalaman pengguna memengaruhi pemahaman. Sistem ikon perlu konsisten dalam gaya, ukuran, dan tingkat detail. Jika tindakan penting, sertakan label teks agar makna tidak bergantung pada tebakan. Simbol peringatan harus digunakan secara terarah agar tidak kehilangan perhatian. Uji pemahaman ikon dengan orang yang menjadi sasaran desain, bukan hanya dengan pembuatnya.
+
+BAB 8. KOMPOSISI DAN PERSEPSI
+Manusia cenderung mengelompokkan unsur berdasarkan kedekatan, kesamaan, kesinambungan, dan hubungan bentuk-latar. Prinsip persepsi ini membantu menyusun informasi. Elemen yang saling berkaitan sebaiknya ditempatkan berdekatan, sedangkan kelompok berbeda diberi jarak atau pembatas yang jelas. Keseimbangan visual tidak selalu berarti simetri. Fokus dapat dibangun melalui ukuran, kontras, posisi, dan ruang kosong. Komposisi perlu mempertimbangkan arah baca dan media. Desain layar ponsel memerlukan hierarki yang tetap terbaca pada ruang terbatas.
+
+BAB 9. MANIPULASI VISUAL DAN MISINFORMASI
+Foto, grafik, dan video dapat dipotong, diberi konteks palsu, atau disunting sehingga menghasilkan kesan yang berbeda. Pemeriksaan visual dimulai dari mencari sumber asli, tanggal, lokasi, dan konteks publikasi. Periksa apakah sumbu grafik dimulai secara tidak wajar, apakah gambar dipotong, dan apakah keterangan sesuai isi. Satu tanda tidak selalu membuktikan manipulasi, sehingga verifikasi perlu menggabungkan beberapa petunjuk. Ketika membagikan visual, sertakan konteks dan jangan menghapus atribusi. Jika tidak yakin, tahan penyebaran dan cari sumber yang lebih kuat.
+
+BAB 10. DESAIN INKLUSIF DAN EVALUASI
+Desain inklusif mempertimbangkan pengguna dengan kemampuan penglihatan, pendengaran, motorik, dan kognitif yang beragam. Kontras teks, ukuran huruf, urutan navigasi, teks alternatif, dan keterangan media membantu akses. Hindari menyampaikan informasi hanya melalui warna atau suara. Uji desain pada ukuran layar berbeda dan dengan pengguna yang beragam. Evaluasi dapat meminta pengguna menyelesaikan tugas tertentu, lalu mencatat bagian yang membingungkan. Kritik yang berguna menjelaskan masalah dan dampaknya, bukan hanya menyebut desain “bagus” atau “jelek”.
+
+STUDI KASUS
+Sebuah infografik menyatakan jumlah pengguna meningkat dua kali lipat, tetapi sumbu grafik dimulai dari angka yang sangat dekat dengan nilai awal. Secara visual kenaikan terlihat jauh lebih besar. Pembaca perlu memeriksa angka asli, rentang sumbu, dan periode pengukuran. Pembuat infografik sebaiknya menampilkan skala yang tidak menyesatkan serta menjelaskan konteks.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa label sumbu penting? Agar pembaca mengetahui variabel, satuan, dan rentang data.
+2. Kapan diagram lingkaran cocok? Saat kategori membentuk satu keseluruhan dan jumlah kategori tidak terlalu banyak.
+3. Mengapa ikon perlu diuji? Karena makna dapat berbeda antar pengguna dan budaya.
+4. Sebutkan tiga pemeriksaan visual sebelum membagikan grafik: sumber, skala, label, periode, dan konteks.
+5. Apa contoh desain inklusif? Kontras cukup, teks alternatif, label jelas, dan informasi tidak hanya dibedakan dengan warna.
+
+GLOSARIUM
+Infografik: penyajian informasi melalui gabungan teks dan visual.
+Komposisi: pengaturan hubungan antarunsur visual.
+Misinformasi: informasi keliru yang disebarkan tanpa harus disertai niat menipu.
+Teks alternatif: deskripsi teks untuk menyampaikan fungsi atau isi visual.

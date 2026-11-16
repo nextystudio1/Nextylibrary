@@ -130,3 +130,51 @@ Eksperimen gelombang perlu mengendalikan variabel, mencatat satuan, dan memperha
 
 LATIHAN
 Amati fenomena gema atau pemantulan cahaya dalam kehidupan sehari-hari tanpa menggunakan sumber berbahaya. Gambarkan model sederhana, tentukan besaran yang relevan, dan jelaskan keterbatasan pengamatan.
+
+BAB 12. SUPERPOSISI DAN INTERFERENSI GELOMBANG
+
+Superposisi menyatakan bahwa simpangan total pada medium linear merupakan penjumlahan kontribusi gelombang yang bertemu. Interferensi konstruktif terjadi ketika perbedaan fase membuat amplitudo saling memperkuat, sedangkan interferensi destruktif dapat mengurangi amplitudo. Pola interferensi bergantung pada koherensi sumber, panjang gelombang, dan perbedaan lintasan.
+
+Interferensi dapat diamati pada gelombang air, bunyi, dan cahaya. Pola terang-gelap pada percobaan optik menunjukkan sifat gelombang cahaya. Dalam praktik, sumber tidak selalu koheren sempurna dan alat memiliki keterbatasan, sehingga pola nyata dapat berbeda dari model ideal.
+
+BAB 13. GELOMBANG BERDIRI DAN RESONANSI
+
+Gelombang berdiri terbentuk dari superposisi gelombang yang merambat berlawanan arah dengan frekuensi dan amplitudo yang sesuai. Simpul merupakan titik dengan simpangan minimum, sedangkan perut memiliki simpangan maksimum. Pola ini muncul pada senar, kolom udara, dan sistem resonan lainnya.
+
+Resonansi terjadi ketika sistem diberi gaya periodik dekat frekuensi alaminya sehingga respons amplitudo meningkat. Redaman membatasi respons. Resonansi bermanfaat dalam alat musik dan sensor, tetapi dalam rekayasa struktur perlu diperhitungkan agar getaran tidak menimbulkan gangguan atau kerusakan.
+
+BAB 14. EFEK DOPPLER DAN APLIKASI
+
+Efek Doppler adalah perubahan frekuensi teramati akibat gerak relatif sumber dan pengamat. Ketika jarak relatif mengecil, frekuensi yang diterima dapat lebih tinggi; ketika menjauh, lebih rendah. Besarnya perubahan bergantung pada kecepatan relatif dan sifat medium untuk gelombang mekanik.
+
+Aplikasi mencakup pengukuran kecepatan, pemeriksaan medis berbasis ultrasonografi Doppler, dan analisis astronomi. Interpretasi memerlukan asumsi tentang gerak, medium, dan arah pengamatan. Jangan menggunakan satu angka frekuensi tanpa memeriksa kondisi pengukuran.
+
+BAB 15. POLARISASI DAN SIFAT CAHAYA
+
+Polarisasi menggambarkan orientasi getaran medan listrik cahaya. Cahaya yang tidak terpolarisasi memiliki arah getaran yang beragam, sedangkan cahaya terpolarisasi memiliki orientasi tertentu. Filter polarisasi dapat mengurangi pantulan tertentu dan digunakan dalam fotografi, layar, serta instrumen optik.
+
+Cahaya juga menunjukkan sifat partikel dalam interaksi tertentu. Model gelombang dan foton digunakan sesuai fenomena yang dikaji. Tidak satu pun model sederhana menjelaskan seluruh fenomena tanpa konteks; fisika modern menggabungkan keduanya dalam kerangka kuantum.
+
+BAB 16. PEMBIASAN, DISPERSI, DAN PEMBENTUKAN CITRA
+
+Pembiasan terjadi ketika gelombang berubah arah akibat perubahan kecepatan saat memasuki medium lain. Hukum Snell menghubungkan sudut datang, sudut bias, dan indeks bias. Dispersi terjadi ketika indeks bias bergantung pada panjang gelombang sehingga warna berbeda dapat dibelokkan dengan sudut berbeda.
+
+Lensa membentuk citra melalui pembiasan. Persamaan lensa tipis membantu menghubungkan jarak benda, jarak citra, dan fokus pada pendekatan tertentu. Citra nyata dan maya memiliki karakter berbeda. Dalam alat optik, aberasi dan batas resolusi membuat hasil nyata tidak sesempurna model ideal.
+
+BAB 17. AKUSTIK RUANG DAN KUALITAS SUARA
+
+Akustik ruang mempelajari bagaimana suara dipantulkan, diserap, dan disebarkan di dalam ruang. Waktu dengung yang terlalu panjang dapat mengurangi kejelasan ujaran, sedangkan penyerapan berlebihan dapat membuat ruang terasa kurang hidup. Bentuk ruang, bahan permukaan, ukuran, dan penataan sumber suara memengaruhi hasil.
+
+Pengukuran tingkat bunyi perlu memperhatikan skala desibel yang bersifat logaritmik. Penjumlahan tingkat bunyi tidak dilakukan seperti penjumlahan angka biasa. Penilaian kenyamanan juga bergantung pada frekuensi, durasi, pola, dan konteks. Pengendalian kebisingan sebaiknya mengutamakan desain dan perlindungan yang sesuai standar.
+
+PROYEK: ANALISIS AKUSTIK RUANG BELAJAR
+
+Amati ruang belajar tanpa membuat kebisingan tambahan. Catat sumber suara, bahan permukaan, posisi tempat duduk, dan kondisi saat ruang ramai atau sepi. Gunakan alat ukur yang sesuai bila tersedia dan ikuti petunjuknya. Buat usulan perbaikan seperti penataan ruang atau pengurangan sumber gangguan, bukan eksperimen dengan suara berbahaya.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Apa yang menentukan interferensi? Perbedaan fase, lintasan, panjang gelombang, dan koherensi sumber.
+2. Apa itu simpul gelombang berdiri? Titik dengan simpangan minimum.
+3. Mengapa resonansi perlu diperhitungkan dalam struktur? Karena respons getaran dapat meningkat dekat frekuensi alami.
+4. Apa penyebab efek Doppler? Gerak relatif sumber dan pengamat.
+5. Mengapa desibel tidak dijumlahkan secara aritmetika biasa? Karena skala desibel bersifat logaritmik.

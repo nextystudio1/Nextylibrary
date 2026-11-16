@@ -462,3 +462,35 @@ Gunakan data simulasi hubungan waktu latihan dan skor kuis. Buat diagram pencar,
 
 RANGKUMAN
 Regresi meringkas hubungan dan membantu prediksi, tetapi harus disertai diagnostik serta penjelasan ketidakpastian. Hubungan statistik tidak sama dengan sebab-akibat.
+
+PENGAYAAN: LITERASI STATISTIKA DAN DATA
+
+1. POPULASI, SAMPEL, DAN BIAS
+Populasi adalah kelompok yang ingin dipelajari, sedangkan sampel adalah bagian yang diamati. Sampel yang besar belum tentu mewakili populasi jika cara pemilihannya bias. Survei daring terbuka, misalnya, cenderung diisi oleh orang yang memilih berpartisipasi sehingga hasilnya tidak otomatis mewakili seluruh masyarakat. Metode pemilihan sampel harus dijelaskan.
+
+2. VARIABEL DAN JENIS DATA
+Variabel kategorik mengelompokkan objek, seperti jenis transportasi. Variabel numerik menyatakan jumlah atau ukuran. Data numerik diskret berasal dari hitungan, sedangkan data kontinu dapat mengambil nilai pada suatu rentang. Mengetahui jenis data membantu memilih ringkasan dan grafik yang sesuai.
+
+3. RATA-RATA, MEDIAN, DAN MODUS
+Rata-rata menggunakan seluruh nilai sehingga peka terhadap pencilan. Median adalah nilai tengah setelah data diurutkan dan lebih tahan terhadap nilai ekstrem. Modus adalah nilai yang paling sering muncul dan dapat digunakan untuk data kategori. Tidak ada satu ukuran pusat yang selalu paling tepat; pilihan bergantung pada bentuk data dan pertanyaan.
+
+4. PENYEBARAN DATA
+Dua kelompok dapat memiliki rata-rata sama tetapi variasi berbeda. Rentang adalah selisih nilai maksimum dan minimum. Kuartil membagi data terurut menjadi empat bagian, sedangkan rentang antarkuartil menunjukkan sebaran bagian tengah. Simpangan baku merangkum jarak data terhadap rata-rata dalam satuan yang sama dengan data.
+
+5. HUBUNGAN BUKAN SEBAB-AKIBAT
+Korelasi menunjukkan dua variabel berubah bersama, tetapi tidak membuktikan bahwa satu menyebabkan yang lain. Hubungan dapat dipengaruhi variabel ketiga, arah sebab-akibat yang terbalik, atau kebetulan. Untuk menyimpulkan sebab-akibat diperlukan rancangan penelitian yang tepat, pengendalian faktor pengganggu, dan bukti tambahan.
+
+6. MEMBACA GRAFIK SECARA KRITIS
+Periksa skala sumbu, satuan, sumber, periode, jumlah observasi, dan apakah ada data yang hilang. Grafik garis cocok untuk perubahan berurutan, diagram batang untuk membandingkan kategori, dan histogram untuk distribusi numerik. Bentuk visual yang menarik tidak menjamin penyajian jujur.
+
+7. KETIDAKPASTIAN DAN INTERVAL
+Estimasi dari sampel memiliki ketidakpastian. Interval kepercayaan menggambarkan prosedur yang dalam pengulangan jangka panjang akan mencakup parameter pada proporsi tertentu, dengan asumsi model terpenuhi. Interval bukan jaminan bahwa nilai parameter memiliki peluang tertentu berada di satu interval yang sudah dihitung. Penafsiran harus sesuai metode statistik.
+
+8. STUDI DATA SEDERHANA
+Catat waktu perjalanan ke sekolah selama lima hari. Hitung median dan rentang, lalu buat grafik titik. Lima pengamatan hanya menggambarkan pengalaman terbatas dan tidak cukup untuk menyimpulkan kondisi seluruh siswa. Jelaskan faktor yang mungkin memengaruhi, seperti cuaca, rute, dan jadwal.
+
+9. LATIHAN
+Data 2, 3, 3, 4, 18 memiliki rata-rata 6 dan median 3. Nilai 18 menarik rata-rata ke atas. Mengapa median lebih mewakili nilai tipikal dalam contoh ini? Karena sebagian besar nilai berada dekat 3 dan satu pencilan memengaruhi rata-rata. Apakah hubungan jam belajar dan nilai membuktikan sebab-akibat? Tidak, karena kemampuan awal, kualitas belajar, dan faktor lain dapat berperan.
+
+RANGKUMAN
+Literasi statistika menggabungkan pengumpulan data, pemilihan ringkasan, visualisasi, dan penalaran. Kesimpulan harus sebanding dengan kualitas sampel, metode, dan ketidakpastian.

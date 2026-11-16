@@ -372,3 +372,32 @@ Gunakan peta tektonik resmi untuk mengidentifikasi jenis batas lempeng di sekita
 
 RANGKUMAN
 Tektonik lempeng menjelaskan banyak proses geologi aktif. Jenis batas lempeng memengaruhi pembentukan kerak, pegunungan, gempa, dan gunung api.
+
+PENGAYAAN: PROSES GEOLOGI DAN BAHAYA ALAM
+
+1. BATUAN DAN SIKLUS BATUAN
+Batuan beku terbentuk dari pembekuan magma atau lava. Batuan sedimen terbentuk melalui pengendapan, pemadatan, dan penyemenan material atau pengendapan kimia/biologis. Batuan metamorf berubah akibat tekanan, suhu, dan fluida tanpa harus melebur seluruhnya. Ketiganya dapat berubah dalam siklus geologi yang berlangsung sangat lama.
+
+2. PELAPUKAN DAN EROSI
+Pelapukan menghancurkan atau mengubah batuan di tempatnya melalui proses fisik, kimia, dan biologis. Erosi memindahkan material oleh air, angin, es, atau gravitasi. Laju proses dipengaruhi iklim, kemiringan lereng, jenis batuan, vegetasi, dan aktivitas manusia. Penggundulan vegetasi pada lereng dapat meningkatkan limpasan dan memperbesar potensi erosi.
+
+3. TEKTONIK LEMPENG
+Litosfer terbagi menjadi lempeng yang bergerak di atas bagian mantel yang dapat mengalir sangat lambat. Pada batas divergen, lempeng saling menjauh; pada batas konvergen, lempeng mendekat; pada batas transform, lempeng bergeser sejajar. Interaksi ini berkaitan dengan gempa, gunung api, pembentukan pegunungan, dan cekungan samudra.
+
+4. GEMPA BUMI
+Gempa terjadi ketika energi elastik yang tersimpan pada batuan dilepaskan secara tiba-tiba, umumnya akibat pergeseran pada patahan. Magnitudo mengukur ukuran sumber gempa, sedangkan intensitas menggambarkan dampak guncangan di lokasi tertentu. Besarnya kerusakan juga dipengaruhi kedalaman, jarak, kondisi tanah, kualitas bangunan, dan kesiapsiagaan.
+
+5. GUNUNG API
+Magma dapat naik karena perbedaan densitas, tekanan gas, dan kondisi tektonik. Jenis magma, kandungan gas, serta interaksi dengan air memengaruhi karakter erupsi. Abu vulkanik, aliran piroklastik, lava, dan lahar memiliki bahaya berbeda. Informasi tingkat aktivitas dan zona bahaya harus mengikuti lembaga resmi; jangan mendekati kawah atau aliran berbahaya untuk pengamatan.
+
+6. AIR TANAH DAN DAS
+Air hujan dapat mengalir di permukaan, menguap, diserap tumbuhan, atau meresap menjadi air tanah. Daerah aliran sungai menghubungkan wilayah hulu, tengah, dan hilir. Perubahan tutupan lahan di hulu dapat memengaruhi debit dan sedimentasi di hilir. Pengelolaan DAS perlu mempertimbangkan kualitas air, kebutuhan warga, ekosistem, dan penggunaan lahan.
+
+7. MEMBACA PETA GEOLOGI
+Peta geologi menunjukkan persebaran satuan batuan, struktur, dan informasi geologi lainnya. Warna dan simbol dijelaskan pada legenda. Peta merupakan interpretasi berdasarkan pengamatan dan pemetaan pada skala tertentu; detail lokal mungkin tidak tergambar. Peta geologi tidak boleh dianggap sebagai jaminan keamanan untuk membangun tanpa kajian teknis setempat.
+
+8. LATIHAN
+Apa beda pelapukan dan erosi? Pelapukan mengubah batuan di tempat, sedangkan erosi memindahkan material. Mengapa dua gempa bermagnitudo sama dapat menimbulkan dampak berbeda? Karena kedalaman, jarak, kondisi tanah, bangunan, dan kesiapsiagaan berbeda. Mengapa peta geologi perlu dibaca bersama skalanya? Karena skala menentukan tingkat detail yang dapat ditampilkan.
+
+RANGKUMAN
+Geologi mengkaji proses Bumi dari skala mineral hingga lempeng. Pemahaman proses dan peta membantu mengenali sumber daya serta bahaya, tetapi keputusan keselamatan memerlukan data dan penilaian ahli setempat.

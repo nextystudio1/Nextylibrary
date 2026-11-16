@@ -349,3 +349,32 @@ Pilih persoalan sekolah yang aman, misalnya pengelolaan perpustakaan. Buat peta 
 
 RANGKUMAN
 Partisipasi warga memperkuat akuntabilitas dan kualitas keputusan. Informasi yang terbuka, proses inklusif, dan evaluasi membantu kebijakan menjawab kebutuhan masyarakat.
+
+PENGAYAAN: KEWARGAAN DIGITAL DAN TANGGUNG JAWAB
+
+1. IDENTITAS DAN JEJAK DIGITAL
+Aktivitas daring dapat meninggalkan jejak berupa unggahan, komentar, metadata, dan catatan penggunaan layanan. Jejak digital tidak selalu mudah dihapus atau dikendalikan setelah dibagikan. Sebelum mengunggah, pertimbangkan audiens, konteks, izin orang yang tampil, serta kemungkinan konten disalin di luar platform asal.
+
+2. PRIVASI DAN MINIMISASI DATA
+Prinsip minimisasi data berarti hanya mengumpulkan atau membagikan informasi yang benar-benar diperlukan. Hindari memasukkan data pribadi ke formulir yang tidak jelas tujuannya. Periksa izin aplikasi, pengaturan visibilitas, dan kebijakan penyimpanan. Kata sandi yang kuat dan autentikasi berlapis membantu melindungi akun, tetapi tidak menggantikan kewaspadaan terhadap tautan dan pesan mencurigakan.
+
+3. INFORMASI, OPINI, DAN BUKTI
+Pernyataan fakta dapat diperiksa dengan bukti; opini menyatakan penilaian; prediksi memperkirakan kejadian mendatang. Sebuah unggahan dapat mencampur ketiganya. Pembaca sebaiknya mengidentifikasi klaim utama, mencari sumber asli, memeriksa tanggal, dan membandingkan dengan sumber independen yang kompeten. Banyaknya orang membagikan informasi tidak membuktikan kebenarannya.
+
+4. DISINFORMASI DAN KONTEKS
+Foto atau video asli dapat digunakan dengan keterangan yang keliru, dipotong, atau diambil dari peristiwa lain. Periksa konteks, lokasi, tanggal, dan sumber pertama. Pencarian gambar terbalik dapat membantu menemukan kemunculan sebelumnya, tetapi hasilnya tetap perlu dinilai. Jangan menyebarkan konten yang belum terverifikasi hanya karena mengejutkan atau sesuai keyakinan pribadi.
+
+5. KOMUNIKASI YANG INKLUSIF
+Komunikasi digital yang baik menggunakan bahasa yang jelas, menghormati perbedaan, dan tidak menyerang identitas seseorang. Kritik sebaiknya diarahkan pada gagasan atau tindakan, disertai alasan dan bukti. Jika terjadi perundungan, dokumentasikan seperlunya, gunakan fitur pelaporan, dan minta bantuan orang dewasa tepercaya atau pihak sekolah sesuai situasi.
+
+6. HAK CIPTA DAN LISENSI
+Karya digital tetap memiliki pencipta dan ketentuan penggunaan. Mencantumkan nama pembuat tidak otomatis memberi izin untuk menyalin seluruh karya. Periksa lisensi, batas penggunaan, dan syarat atribusi. Untuk materi belajar, utamakan karya yang dibuat sendiri, domain publik, atau berlisensi yang mengizinkan penggunaan yang direncanakan.
+
+7. PARTISIPASI WARGA
+Ruang digital dapat digunakan untuk berdiskusi, menyampaikan aspirasi, mengakses layanan, dan mengikuti proses publik. Partisipasi yang bertanggung jawab memerlukan pemeriksaan informasi, perlindungan data pribadi, dan kesediaan berdialog. Kritik terhadap kebijakan dapat disampaikan secara tegas tanpa ancaman atau penyebaran data pribadi.
+
+8. LATIHAN KASUS
+Sebuah pesan menyatakan sekolah akan ditutup besok dan meminta pembaca meneruskan pesan. Langkah yang tepat adalah memeriksa kanal resmi sekolah, tanggal pesan, dan konfirmasi dari pihak berwenang sebelum membagikannya. Jika unggahan memakai foto tanpa konteks, cari sumber awal dan bandingkan detail visual.
+
+RANGKUMAN
+Kewargaan digital mencakup hak, tanggung jawab, privasi, literasi informasi, penghormatan, dan partisipasi. Perilaku yang bertanggung jawab dimulai dengan berpikir sebelum membagikan atau menanggapi konten.

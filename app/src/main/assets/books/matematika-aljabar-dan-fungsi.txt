@@ -388,3 +388,32 @@ Gunakan fungsi kuadrat sederhana untuk menentukan titik puncak melalui turunan d
 
 RANGKUMAN
 Limit, kontinuitas, dan turunan menjelaskan perilaku fungsi serta laju perubahan. Konsep ini menjadi dasar kalkulus dan pemodelan sains.
+
+PENGAYAAN: ALJABAR UNTUK MEMODELKAN HUBUNGAN
+
+1. VARIABEL DAN EKSPRESI
+Variabel mewakili besaran yang nilainya dapat berubah. Ekspresi 3x + 5 menyatakan tiga kali suatu nilai ditambah lima. Jika x = 4, nilainya 17. Variabel bukan sekadar huruf pengganti angka; variabel membantu menyatakan pola umum yang berlaku untuk banyak keadaan.
+
+2. PERSAMAAN SEBAGAI KESEIMBANGAN
+Persamaan menyatakan dua bentuk memiliki nilai sama. Untuk menyelesaikan 2x + 7 = 19, kurangi kedua sisi dengan 7 sehingga 2x = 12, lalu bagi kedua sisi dengan 2 sehingga x = 6. Operasi yang sama harus diterapkan pada kedua sisi agar kesetaraan tetap terjaga. Periksa hasil dengan substitusi: 2(6)+7 = 19.
+
+3. PERTIDAKSAMAAN DAN BATAS
+Pertidaksamaan menyatakan hubungan lebih besar atau lebih kecil. Jika 3x ≤ 18, maka x ≤ 6. Ketika kedua sisi dikalikan atau dibagi bilangan negatif, arah tanda pertidaksamaan berbalik. Aturan ini penting dalam model anggaran, kapasitas, dan batas penggunaan sumber daya.
+
+4. FUNGSI DAN DOMAIN
+Fungsi memasangkan setiap masukan dalam domain dengan tepat satu keluaran. Dalam y = 2x + 1, setiap x menghasilkan satu y. Domain perlu ditentukan sesuai konteks. Jika x adalah jumlah barang, nilai negatif atau pecahan mungkin tidak masuk akal. Grafik fungsi membantu melihat perubahan, titik potong, dan perilaku hubungan.
+
+5. FUNGSI LINEAR DAN LAJU PERUBAHAN
+Bentuk y = mx + c memiliki gradien m dan titik potong sumbu-y c. Gradien menyatakan perubahan y untuk setiap satu unit perubahan x. Jika biaya perjalanan terdiri dari tarif awal Rp5.000 dan Rp2.000 per kilometer, modelnya C = 2.000x + 5.000. Model hanya sesuai selama tarif per kilometer tetap.
+
+6. FUNGSI KUADRAT
+Fungsi kuadrat berbentuk ax² + bx + c dengan a tidak sama dengan nol. Grafiknya parabola. Titik puncak menunjukkan nilai maksimum atau minimum pada model. Dalam konteks nyata, model kuadrat dapat menggambarkan lintasan ideal suatu benda, tetapi asumsi seperti hambatan udara mungkin diabaikan.
+
+7. MENAFSIRKAN GRAFIK
+Sebelum membaca grafik, periksa judul, label sumbu, satuan, skala, dan sumber data. Sumbu yang tidak dimulai dari nol dapat menonjolkan perubahan kecil. Grafik yang benar secara matematis tetap dapat menyesatkan jika skala atau konteks disembunyikan.
+
+8. LATIHAN
+Selesaikan 4x - 3 = 13. Tambahkan 3 pada kedua sisi: 4x = 16, sehingga x = 4. Model tarif T = 3.000 + 1.500k digunakan untuk perjalanan k kilometer. Untuk 8 km, T = Rp15.000. Jelaskan arti gradien dan konstanta pada model tersebut.
+
+RANGKUMAN
+Aljabar menyatakan pola dan hubungan secara umum. Persamaan, pertidaksamaan, fungsi, serta grafik menjadi alat untuk membangun model, menguji hasil, dan menjelaskan batas asumsi.

@@ -471,3 +471,32 @@ Buat tabel perbandingan baterai, korosi besi, dan pengolahan air berdasarkan rea
 
 RANGKUMAN
 Redoks menghubungkan reaksi kimia dengan listrik dan lingkungan. Pemahaman kualitas air dan kimia hijau membantu menilai teknologi secara bertanggung jawab.
+
+PENGAYAAN: KIMIA DALAM KEHIDUPAN SEHARI-HARI
+
+1. STRUKTUR ATOM DAN SIFAT UNSUR
+Atom terdiri atas inti yang mengandung proton dan neutron serta elektron di sekitarnya. Nomor atom menunjukkan jumlah proton dan menentukan identitas unsur. Susunan elektron, terutama elektron valensi, membantu menjelaskan pola ikatan dan sifat kimia. Isotop memiliki jumlah proton sama tetapi jumlah neutron berbeda.
+
+2. IKATAN KIMIA
+Ikatan ion terbentuk melalui tarik-menarik antara ion bermuatan berlawanan setelah perpindahan elektron. Ikatan kovalen melibatkan pemakaian pasangan elektron bersama. Ikatan logam melibatkan elektron yang terdelokalisasi pada kisi logam. Jenis ikatan membantu menjelaskan titik leleh, daya hantar, kelarutan, dan sifat mekanik, tetapi sifat zat juga dipengaruhi struktur dan kondisi.
+
+3. KONSENTRASI LARUTAN
+Konsentrasi menyatakan banyaknya zat terlarut dalam jumlah larutan atau pelarut tertentu. Molaritas adalah mol zat terlarut per liter larutan. Jika 0,5 mol zat dilarutkan hingga volume akhir 1 liter, konsentrasinya 0,5 mol/L. Saat mengencerkan larutan, jumlah mol zat terlarut tetap jika tidak ada reaksi atau kehilangan; konsentrasi turun karena volume bertambah.
+
+4. ASAM, BASA, DAN pH
+Asam meningkatkan konsentrasi ion hidronium dalam air, sedangkan basa dapat menerima proton atau meningkatkan ion hidroksida, bergantung definisi yang digunakan. Skala pH berkaitan dengan aktivitas ion hidrogen dan bersifat logaritmik. Perubahan satu unit pH berarti perubahan sepuluh kali pada besaran terkait dalam kondisi ideal. Jangan mencicipi atau mencampur bahan kimia rumah tangga untuk menguji pH.
+
+5. REAKSI DAN KEKEKALAN MASSA
+Persamaan reaksi harus setara jumlah atom tiap unsur di kedua sisi. Koefisien menunjukkan perbandingan jumlah partikel atau mol, bukan massa langsung. Dalam sistem tertutup, massa total dipertahankan selama reaksi kimia. Jika hasil pengukuran tampak berubah, periksa apakah gas keluar, bahan menempel pada wadah, atau sistem tidak benar-benar tertutup.
+
+6. LAJU REAKSI
+Laju reaksi dipengaruhi konsentrasi, suhu, luas permukaan, tekanan untuk gas, dan katalis. Katalis menyediakan jalur reaksi dengan energi aktivasi lebih rendah dan tidak habis secara keseluruhan dalam reaksi bersih. Katalis tidak mengubah posisi kesetimbangan, tetapi membantu sistem mencapai keadaan setimbang lebih cepat.
+
+7. KIMIA DAN LINGKUNGAN
+Bahan kimia dapat bermanfaat sekaligus menimbulkan risiko bergantung sifat, dosis, jalur paparan, dan cara penggunaan. Label bahaya dan petunjuk penyimpanan perlu diikuti. Limbah tidak boleh dibuang sembarangan ke saluran air atau tanah. Pengelolaan harus mengikuti ketentuan setempat dan petunjuk fasilitas pengumpulan.
+
+8. LATIHAN
+Sebuah larutan mengandung 0,2 mol zat dalam volume akhir 0,5 L. Molaritasnya 0,4 mol/L. Mengapa persamaan reaksi perlu disetarakan? Agar jumlah atom tiap unsur konsisten dengan hukum kekekalan massa. Apa fungsi katalis? Mempercepat tercapainya keadaan reaksi tanpa mengubah kesetimbangan akhir.
+
+RANGKUMAN
+Kimia menjelaskan struktur materi, ikatan, larutan, reaksi, dan dampak bahan. Perhitungan yang baik selalu memperhatikan satuan, kondisi, keselamatan, dan batas model.

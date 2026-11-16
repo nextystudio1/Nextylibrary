@@ -6,7 +6,7 @@ DESKRIPSI
 Mengenal bentuk, sudut, luas, volume, skala, dan pengukuran dalam kehidupan.
 
 TUJUAN PEMBELAJARAN
-Setelah mempelajari Geometri dan Pengukuran, pembaca mampu menjelaskan mengenal bentuk, sudut, luas, volume, skala, dan pengukuran dalam kehidupan., membedakan istilah yang sering tertukar, menilai contoh berdasarkan bukti, dan menerapkan konsep secara tepat sesuai konteks.
+Setelah mempelajari buku ini, pembaca diharapkan mampu mengenali sifat bangun datar dan bangun ruang, menghitung sudut, keliling, luas, dan volume, menggunakan skala, serta memilih satuan dan alat ukur yang sesuai.
 
 BAB 1. BENTUK DAN RUANG
 
@@ -49,11 +49,12 @@ BAB 6. SKALA DAN PENERAPAN
 Skala membandingkan jarak pada gambar dengan jarak sebenarnya. Skala 1:100 berarti satu satuan pada gambar mewakili seratus satuan yang sama di lapangan. Peta, denah, model arsitektur, dan gambar teknik menggunakan prinsip skala. Periksa satuan sebelum mengubah jarak.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari SKALA DAN PENERAPAN dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Geometri dan Pengukuran.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+EVALUASI AKHIR
+1. Jelaskan perbedaan keliling, luas, dan volume beserta satuannya.
+2. Hitung luas segitiga dengan alas 12 cm dan tinggi 7 cm.
+3. Jelaskan hubungan sudut pada dua garis sejajar yang dipotong garis transversal.
+4. Sebuah denah berskala 1:200. Apa arti skala tersebut bagi ukuran pada denah dan ukuran sebenarnya?
+5. Mengapa ketelitian alat ukur dan satuan penting saat menghitung ukuran benda?
 
 PEDOMAN JAWABAN
 Untuk Geometri dan Pengukuran, jawaban perlu menggunakan istilah bidang secara akurat, menunjukkan hubungan konsep dengan contoh, dan menjelaskan alasan setiap kesimpulan. Terima penafsiran berbeda jika konsisten, didukung bukti, dan tidak melampaui informasi yang tersedia.

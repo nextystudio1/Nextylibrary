@@ -390,3 +390,45 @@ Jelaskan mengapa jaring-jaring makanan lebih realistis daripada satu rantai maka
 
 RANGKUMAN PENGAYAAN
 Ekosistem merupakan jaringan hubungan dinamis. Memahami perubahan lingkungan memerlukan pengamatan lintas skala, pemahaman siklus materi dan aliran energi, serta evaluasi bukti dan keadilan kebijakan.
+
+BAB PENGAYAAN — IKLIM DAN SISTEM BUMI
+
+Iklim terbentuk dari interaksi atmosfer, lautan, daratan, es, dan kehidupan. Laut menyimpan serta memindahkan energi dalam jumlah besar, sementara arus laut membantu mengatur distribusi panas. Perubahan tutupan lahan dapat memengaruhi albedo, penguapan, dan penyimpanan karbon. Karena itu, iklim tidak dapat dipahami hanya dari suhu udara di satu tempat.
+
+Efek rumah kaca alami menjaga Bumi tetap cukup hangat bagi kehidupan. Gas seperti uap air, karbon dioksida, metana, dan dinitrogen oksida menyerap serta memancarkan radiasi inframerah. Peningkatan konsentrasi gas rumah kaca akibat aktivitas manusia memperkuat efek ini dan mengubah keseimbangan energi Bumi.
+
+Perubahan iklim dapat memengaruhi pola curah hujan, gelombang panas, ekosistem, pertanian, kesehatan, dan wilayah pesisir. Dampak berbeda menurut lokasi dan kemampuan masyarakat beradaptasi. Pengurangan emisi dan adaptasi perlu berjalan bersama: mitigasi menekan penyebab perubahan, sedangkan adaptasi mengurangi kerugian dari dampak yang telah terjadi atau tidak dapat dihindari.
+
+BAB PENGAYAAN — KEANEKARAGAMAN DAN KETAHANAN EKOSISTEM
+
+Keanekaragaman hayati dapat membantu ekosistem menghadapi gangguan karena spesies memiliki fungsi yang berbeda. Namun keragaman tinggi tidak otomatis membuat setiap ekosistem kebal terhadap perubahan. Kerusakan habitat, pencemaran, eksploitasi berlebihan, spesies invasif, dan perubahan iklim dapat bekerja bersama sehingga memperbesar tekanan.
+
+Ketahanan ekosistem adalah kemampuan menyerap gangguan dan mempertahankan atau memulihkan fungsi penting. Konektivitas habitat memungkinkan organisme berpindah dan menjaga aliran gen. Koridor ekologis dapat menghubungkan kawasan yang terpisah, tetapi perencanaannya perlu memperhatikan jenis organisme dan kondisi lanskap.
+
+BAB PENGAYAAN — PENCEMARAN DAN SIKLUS NUTRIEN
+
+Nitrogen dan fosfor diperlukan untuk pertumbuhan organisme, tetapi masukan berlebih ke perairan dapat menyebabkan eutrofikasi. Ledakan pertumbuhan alga dapat mengurangi cahaya dan, ketika biomassa terurai, menurunkan oksigen terlarut. Kondisi rendah oksigen dapat menyebabkan kematian organisme air dan mengubah struktur komunitas.
+
+Pencemaran udara dapat berasal dari transportasi, industri, pembakaran, dan sumber alami. Partikel halus dapat masuk ke saluran pernapasan dan berdampak pada kesehatan. Pemantauan kualitas lingkungan perlu menggunakan instrumen dan standar yang sesuai, serta memperhatikan paparan kelompok rentan.
+
+LATIHAN
+1. Sebutkan komponen utama sistem iklim Bumi.
+2. Apa perbedaan mitigasi dan adaptasi perubahan iklim?
+3. Mengapa keanekaragaman hayati dapat membantu ketahanan ekosistem?
+4. Bagaimana kelebihan nutrien dapat menurunkan oksigen di perairan?
+5. Mengapa pemantauan lingkungan perlu dilakukan berulang?
+
+KUNCI PEMBAHASAN
+1. Atmosfer, lautan, daratan, es, dan kehidupan.
+2. Mitigasi mengurangi penyebab/emisi; adaptasi mengurangi dampak.
+3. Perbedaan fungsi spesies dapat membantu mempertahankan proses ekologi ketika terjadi gangguan.
+4. Pertumbuhan alga meningkat; penguraian biomassa menggunakan oksigen terlarut.
+5. Kondisi berubah menurut waktu, musim, sumber pencemar, dan cuaca.
+
+GLOSARIUM TAMBAHAN
+Albedo: bagian radiasi yang dipantulkan permukaan.
+Gas rumah kaca: gas yang menyerap dan memancarkan radiasi inframerah.
+Mitigasi: upaya mengurangi penyebab perubahan iklim.
+Adaptasi: penyesuaian untuk mengurangi dampak perubahan iklim.
+Ketahanan ekosistem: kemampuan ekosistem menghadapi dan pulih dari gangguan.
+Eutrofikasi: pengayaan nutrien perairan yang memicu pertumbuhan organisme berlebihan.

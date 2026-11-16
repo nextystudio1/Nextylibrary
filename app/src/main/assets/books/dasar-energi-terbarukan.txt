@@ -124,6 +124,15 @@ Bab 97 Bahan bakar sintetis dan karbon daur ulang
 Bab 98 Energi laut dan potensi perairan
 Bab 99 Panas bumi dan pemanfaatan langsung panas
 Bab 100 Menguji klaim teknologi baru
+Bagian XII — Lampiran pembelajaran, data, dan referensi konseptual
+Bab 101 Panduan membaca tagihan dan data konsumsi
+Bab 102 Formula dasar dan makna batas perhitungan
+Bab 103 Membaca tabel dan grafik energi
+Bab 104 Daftar periksa studi kelayakan awal
+Bab 105 Etika penggunaan data dan kecerdasan buatan
+Bab 106 Kamus istilah lebih luas
+Bab 107 Rencana belajar mandiri selama delapan minggu
+Bab 108 Kunci pemahaman dan refleksi akhir
 Bagian IV — Analisis sistem dan penerapan mendalam
 Bab 26 Perencanaan kebutuhan dan profil beban
 Bab 27 Sistem surya: rancangan konseptual dan kinerja

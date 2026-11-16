@@ -6,14 +6,14 @@ DESKRIPSI
 Memahami batuan, tanah, air tanah, sumber daya, bencana geologi, dan pengelolaan lingkungan.
 
 PENDAHULUAN
-Materi ini disusun sebagai pengantar untuk membangun pemahaman yang dapat diterapkan. Setiap topik perlu dibaca dengan memperhatikan konteks, bukti, dan batas penjelasan. Gunakan latihan untuk menguji pemahaman, bukan sekadar menghafal istilah.
+Buku Pengantar Geologi Lingkungan membahas memahami batuan, tanah, air tanah, sumber daya, bencana geologi, dan pengelolaan lingkungan.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
 
 BAB 1. BUMI SEBAGAI SISTEM
 
 Geologi mempelajari bahan, struktur, proses, dan sejarah bumi. Sistem bumi melibatkan batuan, air, udara, kehidupan, dan aktivitas manusia. Proses geologi berlangsung pada rentang waktu berbeda, dari perubahan lereng setelah hujan hingga pembentukan pegunungan selama jutaan tahun.
 
 PENDALAMAN
-Konsep pada bab ini sebaiknya dipahami melalui hubungan antara definisi, proses, contoh, dan konsekuensi. Definisi membantu menetapkan batas istilah. Proses menjelaskan urutan atau mekanisme. Contoh memperlihatkan penerapan pada konteks tertentu. Konsekuensi menunjukkan hal yang dapat berubah ketika kondisi berbeda. Satu contoh tidak selalu mewakili semua keadaan, sehingga perhatikan faktor pembatas dan kemungkinan pengecualian.
+Pada BUMI SEBAGAI SISTEM, pisahkan hasil pengamatan dari penjelasan. Tentukan faktor yang diukur, kondisi yang memengaruhinya, serta bukti yang mendukung kesimpulan. Jelaskan batas model atau metode yang digunakan dan data tambahan yang diperlukan.
 
 AKTIVITAS PENGAMATAN
 Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
@@ -72,7 +72,7 @@ Erosi: Pengikisan dan pemindahan material.
 Kerentanan: Kondisi yang meningkatkan kemungkinan mengalami dampak.
 
 CATATAN SUMBER
-Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk kajian lanjutan, gunakan sumber primer, buku ajar, standar, dan publikasi lembaga tepercaya. Catat penulis atau lembaga, judul, tahun, dan bagian yang digunakan. Periksa pembaruan informasi pada topik yang berkembang.
+Naskah Pengantar Geologi Lingkungan merupakan materi pembelajaran orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, atau sumber lembaga yang sesuai dengan bidang ini. Catat penulis, judul, tahun, dan bagian yang digunakan; periksa relevansi serta tanggal pembaruan sumber.
 
 BAB LANJUTAN: AIR TANAH DAN SISTEM HIDROGEOLOGI
 

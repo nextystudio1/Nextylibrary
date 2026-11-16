@@ -117,3 +117,28 @@ LATIHAN AKHIR
 4. Analisis hubungan tutupan vegetasi, limpasan permukaan, dan erosi.
 5. Susun urutan umum kajian lokasi tercemar dari penelusuran riwayat lahan hingga interpretasi hasil laboratorium.
 6. Buat kerangka pemulihan lahan pascatambang yang mencakup air, kestabilan permukaan, vegetasi, dan pemantauan.
+
+BAB LANJUTAN: PROSES LERENG DAN KERAWANAN GERAKAN TANAH
+
+Kestabilan lereng dipengaruhi kemiringan, jenis material, struktur geologi, air tanah, vegetasi, dan perubahan yang dilakukan manusia. Hujan dapat meningkatkan kandungan air dan tekanan pori sehingga kekuatan geser efektif tanah berkurang. Pemotongan kaki lereng, beban tambahan, atau drainase yang buruk juga dapat mengubah keseimbangan. Tidak setiap lereng curam pasti longsor; penilaian memerlukan kondisi setempat dan data teknis.
+
+Peta kerawanan menunjukkan wilayah yang memiliki kondisi relatif mendukung terjadinya bahaya, bukan kepastian waktu atau titik kejadian. Peta perlu dibaca bersama skala, tanggal, metode, dan tingkat ketelitiannya. Keputusan keselamatan harus mengikuti informasi resmi dan arahan pihak berwenang, bukan eksperimen lapangan mandiri.
+
+BAB LANJUTAN: AIR TANAH DAN KERENTANAN AKUIFER
+
+Air tanah tersimpan dan bergerak melalui pori atau rekahan batuan. Akuifer adalah lapisan yang dapat menyimpan dan mengalirkan air dalam jumlah berarti. Permeabilitas menunjukkan kemudahan aliran, sedangkan porositas menggambarkan ruang kosong dalam material. Material berpori belum tentu memiliki permeabilitas tinggi jika porinya tidak saling terhubung.
+
+Pemompaan berlebihan dapat menurunkan muka air tanah, meningkatkan biaya pengambilan, dan pada wilayah pesisir memungkinkan intrusi air asin. Pencemaran dapat bergerak mengikuti aliran air tanah dan sulit dipulihkan. Perlindungan memerlukan pemetaan sumber pencemar, zona imbuhan, penggunaan lahan, serta pemantauan kualitas air.
+
+BAB LANJUTAN: TANAH, EROSI, DAN KUALITAS LAHAN
+
+Tanah terbentuk dari pelapukan bahan induk dan dipengaruhi iklim, organisme, relief, waktu, serta aktivitas manusia. Struktur tanah, bahan organik, tekstur, dan organisme tanah memengaruhi kemampuan menyimpan air serta mendukung vegetasi. Erosi memindahkan partikel tanah oleh air atau angin dan dapat mengurangi lapisan subur serta meningkatkan sedimentasi di sungai.
+
+Pengelolaan lahan perlu menyesuaikan kemiringan, jenis tanah, tutupan vegetasi, dan penggunaan. Penilaian kualitas tanah menggunakan beberapa indikator; satu pengukuran tidak cukup mewakili seluruh fungsi tanah.
+
+BAB LANJUTAN: PENCEMARAN DAN PEMULIHAN LINGKUNGAN
+
+Pencemaran perlu dianalisis melalui sumber, jalur perpindahan, media yang terdampak, dan penerima risiko. Konsentrasi zat saja belum menjelaskan risiko tanpa informasi paparan, durasi, bentuk kimia, dan karakteristik lokasi. Pemulihan dapat berupa pencegahan sumber, pengendalian penyebaran, atau pemulihan media yang tercemar. Pilihan metode harus didasarkan pada investigasi profesional dan ketentuan lingkungan.
+
+STUDI KASUS
+Gunakan peta publik dan laporan resmi untuk mengkaji hubungan penggunaan lahan, jenis batuan, air, dan potensi bahaya pada satu wilayah. Susun peta sebab-akibat dan jelaskan data apa yang masih diperlukan. Jangan memasuki lokasi berbahaya atau mengambil sampel tanpa izin dan pendampingan ahli.

@@ -114,6 +114,16 @@ Bab 88 Ekonomi sirkular dalam teknologi energi
 Bab 89 Pendidikan dan literasi energi
 Bab 90 Menyusun portofolio pembelajaran energi
 Bab 91 Penutup: prinsip keputusan energi yang bertanggung jawab
+Bagian XI — Teknologi dan sistem energi dalam perspektif mendalam
+Bab 92 Dasar sistem kelistrikan dan keseimbangan jaringan
+Bab 93 Mikrojaringan dan sistem energi lokal
+Bab 94 Pembangkit terdistribusi dan perubahan pola jaringan
+Bab 95 Kendaraan listrik dan hubungannya dengan jaringan
+Bab 96 Hidrogen: rantai nilai dan batas penerapan
+Bab 97 Bahan bakar sintetis dan karbon daur ulang
+Bab 98 Energi laut dan potensi perairan
+Bab 99 Panas bumi dan pemanfaatan langsung panas
+Bab 100 Menguji klaim teknologi baru
 Bagian IV — Analisis sistem dan penerapan mendalam
 Bab 26 Perencanaan kebutuhan dan profil beban
 Bab 27 Sistem surya: rancangan konseptual dan kinerja

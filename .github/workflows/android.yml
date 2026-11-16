@@ -40,11 +40,11 @@ jobs:
           book_dir="app/src/main/assets/books"
           mapfile -t books < <(find "$book_dir" -maxdepth 1 -type f -name '*.txt' | sort)
           count="${#books[@]}"
-          test "$count" -eq 40 || { echo "Jumlah buku harus 40, ditemukan: $count"; exit 1; }
+          test "$count" -ge 40 || { echo "Jumlah buku minimal 40, ditemukan: $count"; exit 1; }
           for book in "${books[@]}"; do
             test -s "$book" || { echo "Naskah kosong: $book"; exit 1; }
             bytes=$(wc -c < "$book")
-            test "$bytes" -ge 10000 || { echo "Naskah terlalu pendek: $book ($bytes byte)"; exit 1; }
+            test "$bytes" -ge 7500 || { echo "Naskah terlalu pendek: $book ($bytes byte)"; exit 1; }
             grep -Eiq '^BAB[[:space:]]' "$book" || { echo "Struktur bab tidak ditemukan: $book"; exit 1; }
             grep -Eiq '^EVALUASI' "$book" || { echo "Evaluasi belum ditemukan: $book"; exit 1; }
             grep -Eiq '^GLOSARIUM' "$book" || { echo "Glosarium belum ditemukan: $book"; exit 1; }

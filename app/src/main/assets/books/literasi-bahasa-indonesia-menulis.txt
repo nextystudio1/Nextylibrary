@@ -180,3 +180,44 @@ LATIHAN DAN PEMBAHASAN
 3. Apa perbedaan hasil dan pembahasan dalam laporan? Hasil menyajikan temuan; pembahasan menafsirkan dan mengaitkannya.
 4. Mengapa penyuntingan dilakukan berlapis? Agar masalah struktur dan isi diperbaiki sebelum detail bahasa.
 5. Apa yang membuat bahasa sederhana tetap akurat? Istilah dijelaskan, batas klaim dijaga, dan bukti tidak dihilangkan.
+BAB 14. MENYUSUN PARAGRAF DAN ALUR GAGASAN
+
+Paragraf yang baik mengembangkan satu gagasan utama dengan dukungan yang relevan. Kalimat topik dapat dinyatakan secara langsung atau dibangun melalui beberapa kalimat, tetapi pembaca harus dapat mengenali fokusnya. Kalimat penjelas memberi definisi, alasan, contoh, data, atau uraian proses. Kalimat penutup dapat merangkum hubungan atau mengantar ke gagasan berikutnya.
+
+Kesatuan paragraf terganggu ketika beberapa gagasan yang tidak berhubungan dimasukkan tanpa penjelasan. Kepaduan terganggu ketika hubungan antarkalimat tidak jelas. Kata penghubung seperti “namun”, “karena itu”, dan “sebaliknya” harus mencerminkan hubungan logis yang benar. Menambahkan kata penghubung tidak otomatis membuat argumen runtut.
+
+Panjang paragraf bergantung pada fungsi dan kompleksitas gagasan. Paragraf sangat panjang dapat dipecah ketika berpindah subtopik, bukti, atau tahap penjelasan. Paragraf sangat pendek dapat dipertahankan untuk penekanan, tetapi penggunaan berlebihan membuat tulisan terasa terputus. Bacalah draf dengan memperhatikan alur informasi, bukan hanya jumlah kalimat.
+
+BAB 15. MENULIS DEFINISI, PERBANDINGAN, DAN PROSES
+
+Definisi menjelaskan makna istilah dalam konteks tertentu. Definisi operasional menyebut bagaimana konsep dikenali atau diukur dalam suatu tulisan. Hindari definisi melingkar yang hanya mengulang istilah. Jika istilah memiliki beberapa penggunaan, nyatakan batas penggunaan yang dipilih.
+
+Perbandingan harus menggunakan dasar yang setara. Membandingkan dua kebijakan, misalnya, dapat memakai kriteria biaya, jangkauan, keadilan, dan kemudahan pelaksanaan. Jangan membandingkan keunggulan satu pilihan dengan kelemahan pilihan lain tanpa alasan. Jelaskan pula kondisi ketika masing-masing pilihan lebih sesuai.
+
+Tulisan proses perlu menyusun tahapan dalam urutan yang dapat diikuti. Bedakan langkah wajib, pilihan, dan peringatan. Jika proses bergantung pada kondisi tertentu, nyatakan cabangnya. Dalam topik berisiko, jangan menyederhanakan petunjuk sehingga pembaca mengabaikan pengawasan atau standar keselamatan.
+
+BAB 16. MENYUSUN ARGUMEN DAN MENANGANI SANGGAHAN
+
+Argumen terdiri dari klaim, alasan, dan bukti. Klaim menjawab pertanyaan yang dibahas. Alasan menjelaskan hubungan antara bukti dan klaim. Bukti dapat berupa data, dokumen, hasil penelitian, atau contoh yang relevan. Sumber harus cukup kuat untuk mendukung tingkat kepastian yang dinyatakan.
+
+Sanggahan bukan sekadar pendapat yang berbeda. Pilih keberatan yang benar-benar relevan, jelaskan mengapa pembaca mungkin menerimanya, lalu jawab dengan bukti atau pembatasan klaim. Jika sanggahan kuat, penulis dapat mempersempit kesimpulan. Mengakui batas argumen sering meningkatkan kepercayaan pembaca.
+
+BAB 17. PENYUNTINGAN, GAYA, DAN AKSESIBILITAS
+
+Penyuntingan substantif memeriksa tujuan, struktur, kelengkapan, dan ketepatan. Penyuntingan kalimat memperbaiki kejelasan, konsistensi istilah, dan hubungan antargagasan. Pemeriksaan akhir menilai ejaan, tanda baca, angka, nama, kutipan, dan format. Urutan ini menghemat waktu karena memperbaiki kalimat sebelum struktur berubah dapat menyebabkan pekerjaan berulang.
+
+Gunakan istilah yang konsisten dan jelaskan singkatan pada kemunculan pertama. Hindari kalimat yang terlalu bertingkat jika beberapa kalimat sederhana dapat menyampaikan hubungan lebih jelas. Judul bagian harus menggambarkan isi, bukan hanya menarik perhatian. Daftar dan tabel membantu ketika informasi memang bersifat sejajar atau dapat dibandingkan.
+
+Aksesibilitas tulisan mencakup hierarki judul yang jelas, deskripsi teks untuk gambar informatif, kontras yang memadai pada dokumen digital, serta bahasa yang tidak bergantung pada warna saja. Tautan harus memiliki label yang menjelaskan tujuan. Tabel kompleks perlu memiliki judul dan kepala kolom yang jelas.
+
+PROYEK PENYUNTINGAN
+
+Ambil satu tulisan 800–1.200 kata. Tandai klaim utama, struktur paragraf, bukti, istilah yang belum didefinisikan, dan kalimat yang dapat disalahpahami. Lakukan penyuntingan substantif terlebih dahulu, kemudian penyuntingan bahasa. Simpan daftar perubahan beserta alasan dan mintalah pembaca lain menguji kejelasannya.
+
+LATIHAN PENDALAMAN
+
+1. Apa perbedaan kesatuan dan kepaduan paragraf?
+2. Mengapa perbandingan memerlukan kriteria yang setara?
+3. Bagaimana sanggahan dapat membantu memperkuat tulisan?
+4. Sebutkan urutan tiga tahap penyuntingan dan tujuannya.
+5. Berikan tiga contoh keputusan yang membuat dokumen digital lebih aksesibel.

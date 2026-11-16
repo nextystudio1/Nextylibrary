@@ -6,7 +6,7 @@ DESKRIPSI
 Mengenal organisme laut, rantai makanan, habitat pesisir, adaptasi, dan konservasi.
 
 PENDAHULUAN
-Buku Pengantar Biologi Laut membahas mengenal organisme laut, rantai makanan, habitat pesisir, adaptasi, dan konservasi.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini membahas keanekaragaman organisme laut, produktivitas primer, habitat pesisir, adaptasi fisiologis, jaringan trofik, dinamika perairan, tekanan pencemaran, perikanan, dan konservasi. Materi menghubungkan proses biologis dengan kondisi lingkungan serta kehidupan masyarakat pesisir.
 
 BAB 1. KEHIDUPAN DI LAUT
 
@@ -53,11 +53,11 @@ PROYEK TERPADU
 Buat kajian mini untuk Pengantar Biologi Laut dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari KONSERVASI LAUT dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Pengantar Biologi Laut.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+1. Jelaskan perbedaan fitoplankton dan zooplankton dalam jaring makanan laut.
+2. Bandingkan fungsi ekologis mangrove, padang lamun, dan terumbu karang.
+3. Uraikan bagaimana suhu, salinitas, dan oksigen memengaruhi organisme laut.
+4. Jelaskan bagaimana nutrien berlebih dapat menyebabkan penurunan oksigen perairan.
+5. Sebutkan data yang diperlukan untuk menilai kondisi stok ikan dan mengapa data tangkapan saja tidak cukup.
 
 GLOSARIUM
 Konsep: Gagasan untuk memahami suatu topik.
@@ -71,19 +71,19 @@ Naskah Pengantar Biologi Laut merupakan materi pembelajaran orisinal Nexty Studi
 
 PENDALAMAN MATERI
 
-BAB 6. EKOSISTEM PESISIR DAN MANGROVE
+BAB 7. EKOSISTEM PESISIR DAN MANGROVE
 Wilayah pesisir merupakan pertemuan darat dan laut dengan kondisi lingkungan yang berubah mengikuti pasang surut, gelombang, dan aliran air tawar. Mangrove memiliki akar dan adaptasi yang membantu hidup pada substrat berlumpur serta kondisi salinitas yang berubah. Ekosistem mangrove menyediakan habitat, tempat asuhan bagi sejumlah organisme, penyimpan karbon, dan perlindungan pesisir. Namun, fungsi tersebut bergantung pada kondisi hidrologi, keanekaragaman jenis, dan keterhubungan dengan ekosistem lain. Penanaman bibit tidak selalu berhasil jika aliran air dan kondisi lokasi tidak sesuai. Pemulihan perlu didahului penilaian penyebab kerusakan dan keterlibatan masyarakat setempat.
 
-BAB 7. TERUMBU KARANG DAN PADANG LAMUN
+BAB 8. TERUMBU KARANG DAN PADANG LAMUN
 Terumbu karang dibangun oleh hewan karang yang hidup bersimbiosis dengan alga mikroskopis pada banyak spesies. Karang membutuhkan kondisi tertentu, termasuk kejernihan air dan rentang suhu yang sesuai. Tekanan panas dapat menyebabkan pemutihan ketika hubungan simbiosis terganggu. Padang lamun merupakan tumbuhan berbunga yang hidup terendam di laut dangkal. Lamun menstabilkan sedimen, menyediakan habitat, dan mendukung rantai makanan. Terumbu karang dan lamun saling terhubung dengan mangrove melalui perpindahan organisme dan materi. Kerusakan satu habitat dapat memengaruhi ekosistem di sekitarnya.
 
-BAB 8. RANTAI MAKANAN DAN JARINGAN TROFIK LAUT
+BAB 9. RANTAI MAKANAN DAN JARINGAN TROFIK LAUT
 Produsen seperti fitoplankton memanfaatkan energi cahaya untuk membentuk bahan organik. Organisme konsumen memperoleh energi dengan memakan organisme lain. Hubungan makan-dimakan membentuk rantai makanan, sedangkan banyak rantai yang saling terhubung membentuk jaringan trofik. Energi berkurang pada setiap perpindahan tingkat trofik karena digunakan untuk metabolisme dan terlepas sebagai panas. Perubahan jumlah predator atau mangsa dapat memengaruhi banyak bagian jaringan. Karena itu, pengelolaan perikanan perlu mempertimbangkan hubungan antarspesies dan bukan hanya jumlah tangkapan satu jenis.
 
-BAB 9. OSEANOGRAFI DAN ARUS LAUT
+BAB 10. OSEANOGRAFI DAN ARUS LAUT
 Air laut bergerak karena angin, perbedaan densitas, pasang surut, bentuk pantai, dan rotasi bumi. Suhu serta salinitas memengaruhi densitas. Arus membawa panas, nutrien, organisme, dan material lain. Gelombang berbeda dari arus: gelombang terutama memindahkan energi, sedangkan arus merupakan aliran massa air. Pasang surut dipengaruhi gaya gravitasi bulan dan matahari serta bentuk cekungan laut. Informasi arus dan pasang surut penting untuk keselamatan pelayaran, perikanan, dan penelitian pesisir. Prediksi lokal tetap perlu merujuk data resmi dan kondisi aktual.
 
-BAB 10. KONSERVASI DAN PEMANFAATAN BERKELANJUTAN
+BAB 11. KONSERVASI DAN PEMANFAATAN BERKELANJUTAN
 Konservasi laut meliputi perlindungan habitat, pengelolaan perikanan, pengurangan pencemaran, dan pemulihan ekosistem. Kawasan konservasi dapat memberi ruang bagi habitat penting, tetapi keberhasilannya memerlukan pengawasan, pendanaan, data, dan dukungan masyarakat. Penangkapan ikan berkelanjutan mempertimbangkan ukuran tangkapan, musim reproduksi, alat tangkap, dan kondisi stok. Sampah laut berasal dari beragam sumber di darat dan laut. Pencegahan dari sumber sering lebih efektif daripada hanya membersihkan pantai. Kebijakan yang baik mempertemukan tujuan ekologis dan kebutuhan sosial ekonomi masyarakat pesisir.
 
 STUDI KASUS
@@ -126,23 +126,23 @@ Program konservasi perlu menetapkan kondisi awal, tujuan, indikator, dan cara pe
 LATIHAN
 Buat peta konsep hubungan mangrove, lamun, terumbu karang, ikan, dan kegiatan manusia. Jelaskan dua jalur dampak jika kualitas air menurun dan data apa yang dibutuhkan untuk menguji dugaan tersebut.
 
-BAB 11. FISIOLOGI ORGANISME LAUT
+BAB 12. FISIOLOGI ORGANISME LAUT
 Fisiologi mempelajari fungsi tubuh organisme. Ikan bertulang memiliki insang yang memungkinkan pertukaran gas antara air dan darah. Osmoregulasi membantu organisme menjaga keseimbangan air dan ion meskipun salinitas lingkungan berubah. Mamalia laut memiliki paru-paru dan adaptasi penyimpanan oksigen, sehingga pola menyelamnya berbeda dari ikan. Suhu tubuh, laju metabolisme, dan ketersediaan oksigen memengaruhi aktivitas organisme. Adaptasi memiliki batas toleransi; perubahan lingkungan yang terlalu cepat dapat melampaui kemampuan penyesuaian.
 
-BAB 12. REPRODUKSI DAN SIKLUS HIDUP
+BAB 13. REPRODUKSI DAN SIKLUS HIDUP
 Organisme laut memiliki strategi reproduksi yang beragam. Sebagian menghasilkan banyak telur dengan peluang hidup individu yang rendah, sedangkan sebagian lain memberi perlindungan atau perawatan lebih besar pada keturunannya. Larva banyak spesies tersebar mengikuti arus sebelum menetap atau tumbuh menjadi bentuk dewasa. Keberhasilan reproduksi dipengaruhi musim, suhu, makanan, habitat pemijahan, dan tekanan pemangsaan. Pengelolaan perikanan perlu memperhatikan musim reproduksi serta ukuran individu agar populasi memiliki kesempatan pulih.
 
-BAB 13. PENCEMARAN DAN KESEHATAN LAUT
+BAB 14. PENCEMARAN DAN KESEHATAN LAUT
 Pencemaran laut dapat berasal dari limbah domestik, industri, pertanian, aktivitas kapal, dan sampah yang terbawa sungai. Nutrien berlebih dapat memicu ledakan alga dan menurunkan oksigen ketika biomassa terurai. Bahan kimia tertentu dapat terakumulasi dalam organisme dan berpindah melalui jaring makanan. Plastik dapat terpecah menjadi bagian kecil, tetapi proses tersebut tidak membuat masalahnya hilang. Penilaian pencemaran memerlukan pengambilan sampel yang tepat, pembanding, informasi sumber, dan analisis laboratorium yang sesuai.
 
-BAB 14. PERIKANAN DAN PENGELOLAAN STOK
+BAB 15. PERIKANAN DAN PENGELOLAAN STOK
 Stok ikan merupakan bagian populasi yang menjadi sasaran pengelolaan. Data tangkapan saja tidak selalu cukup untuk menilai kondisi stok karena dipengaruhi upaya penangkapan, alat, musim, dan lokasi. Pengelolaan dapat menggunakan batas ukuran, musim penutupan, kawasan perlindungan, pencatatan tangkapan, serta pengawasan alat tangkap. Kebijakan harus mempertimbangkan kondisi ekologi dan mata pencaharian masyarakat. Ketidakpastian data perlu dinyatakan secara terbuka dan diperbaiki melalui pemantauan.
 
-BAB 15. METODE PENELITIAN BIOLOGI LAUT
+BAB 16. METODE PENELITIAN BIOLOGI LAUT
 Penelitian dapat menggunakan transek, kuadrat, pengamatan visual, pengukuran kualitas air, pengambilan sampel, dan wawancara. Metode dipilih sesuai pertanyaan dan harus dijelaskan agar hasil dapat ditafsirkan. Pengulangan membantu mengukur variasi, sedangkan lokasi pembanding membantu menilai perubahan. Peneliti harus meminimalkan gangguan habitat, mengikuti aturan keselamatan dan izin, serta tidak mengambil organisme dilindungi. Data lapangan perlu mencatat tanggal, lokasi umum, kondisi cuaca, alat, dan keterbatasan.
 
-PROYEK AKHIR
-Rancang studi sederhana untuk membandingkan kondisi dua habitat pesisir. Tentukan pertanyaan, indikator, metode pengamatan yang tidak merusak, jumlah pengulangan, dan cara menyajikan data. Jelaskan faktor pengganggu serta batas kesimpulan yang dapat dibuat dari hasil tersebut.
+PROYEK AKHIR: MEMBANDINGKAN HABITAT PESISIR
+Gunakan data terbuka atau bahan pembelajaran untuk membandingkan dua habitat pesisir, misalnya mangrove dan padang lamun. Tentukan indikator yang dapat dibandingkan, seperti fungsi habitat, jenis tekanan lingkungan, dan manfaat ekosistem. Buat tabel bukti dari sumber tepercaya, jelaskan perbedaan metode pengumpulan data, dan hindari menyimpulkan sebab-akibat dari data yang hanya menunjukkan hubungan. Jika melakukan pengamatan lapangan, lakukan dari lokasi aman, tanpa mengambil atau mengganggu organisme.
 
 LATIHAN PENDALAMAN
 1. Jelaskan fungsi osmoregulasi.

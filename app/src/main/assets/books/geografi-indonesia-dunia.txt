@@ -21,6 +21,12 @@ DAFTAR ISI
 12. Globalisasi dan Keterhubungan Wilayah
 13. Pembangunan Berkelanjutan
 14. Penelitian Geografi dan Literasi Data
+15. Peta, Skala, dan Proyeksi — Pendalaman
+16. Lempeng Tektonik dan Bentang Alam
+17. Iklim, Monsun, dan Keragaman Wilayah
+18. Penduduk dan Migrasi
+19. Kota, Desa, dan Jaringan Ekonomi
+20. Pembangunan dan Lingkungan
 Lampiran: Glosarium, Latihan, Proyek Pemetaan
 
 BAB 1. GEOGRAFI SEBAGAI ILMU KERUANGAN
@@ -289,22 +295,22 @@ PENUTUP
 Geografi membantu memahami bahwa tempat tidak berdiri sendiri. Bentang alam, iklim, penduduk, ekonomi, dan kebijakan saling berhubungan. Dengan peta dan data yang digunakan secara kritis, kita dapat mengambil keputusan yang lebih baik untuk masyarakat dan lingkungan.
 
 PENDALAMAN: GEOGRAFI REGIONAL DAN HUBUNGAN ANTARWILAYAH
-BAB 7 — PETA, SKALA, DAN PROYEKSI
+BAB 15 — PETA, SKALA, DAN PROYEKSI
 Peta adalah representasi permukaan Bumi pada bidang datar. Karena Bumi melengkung, setiap proyeksi menimbulkan distorsi tertentu pada luas, bentuk, jarak, atau arah. Pilih proyeksi sesuai tujuan peta, bukan menganggap satu proyeksi paling benar untuk semua kebutuhan.
 Skala menghubungkan jarak pada peta dengan jarak sebenarnya. Legenda, orientasi, sistem koordinat, dan sumber data harus diperiksa sebelum menarik kesimpulan.
-BAB 8 — LEMPENG TEKTONIK DAN BENTANG ALAM
+BAB 16 — LEMPENG TEKTONIK DAN BENTANG ALAM
 Litosfer terbagi menjadi lempeng yang bergerak relatif satu sama lain. Interaksi lempeng dapat membentuk pegunungan, palung laut, gunung api, dan gempa. Indonesia berada di kawasan pertemuan beberapa lempeng sehingga memiliki keragaman bentang alam sekaligus risiko geologi.
 Risiko bencana tidak hanya ditentukan bahaya alam. Paparan penduduk, kualitas bangunan, kesiapsiagaan, dan akses informasi memengaruhi dampak.
-BAB 9 — IKLIM, MONSUN, DAN KERAGAMAN WILAYAH
+BAB 17 — IKLIM, MONSUN, DAN KERAGAMAN WILAYAH
 Letak lintang, ketinggian, jarak dari laut, dan pola angin memengaruhi iklim wilayah. Monsun menyebabkan perubahan arah angin musiman yang berkaitan dengan pola hujan di banyak bagian Indonesia.
 Pola iklim tidak selalu sama setiap tahun. Variabilitas samudra dan atmosfer dapat memengaruhi musim. Perencanaan pertanian, air, dan kebencanaan memerlukan informasi lokal yang mutakhir.
-BAB 10 — PENDUDUK DAN MIGRASI
+BAB 18 — PENDUDUK DAN MIGRASI
 Distribusi penduduk dipengaruhi sejarah permukiman, pekerjaan, akses transportasi, sumber daya, dan kebijakan. Migrasi dapat bersifat sementara atau menetap, sukarela atau terpaksa. Dampaknya mencakup perubahan struktur umur, pasar kerja, dan kebutuhan layanan.
 Angka kepadatan rata-rata tidak menunjukkan bagaimana penduduk tersebar. Pusat kota yang padat dapat berada dalam provinsi yang secara keseluruhan berpenduduk jarang.
-BAB 11 — KOTA, DESA, DAN JARINGAN EKONOMI
+BAB 19 — KOTA, DESA, DAN JARINGAN EKONOMI
 Kota dan desa saling terhubung melalui arus pangan, tenaga kerja, layanan, modal, dan informasi. Batas administratif tidak selalu sama dengan wilayah fungsional. Perjalanan harian dan rantai pasok menunjukkan hubungan antardaerah.
 Ketimpangan layanan dapat muncul karena jarak, biaya, dan kualitas infrastruktur. Perencanaan wilayah perlu mempertimbangkan kebutuhan kelompok yang berbeda.
-BAB 12 — PEMBANGUNAN DAN LINGKUNGAN
+BAB 20 — PEMBANGUNAN DAN LINGKUNGAN
 Pembangunan wilayah mencakup infrastruktur, pendidikan, kesehatan, ekonomi, dan kualitas lingkungan. Indikator tunggal tidak cukup untuk menilai kesejahteraan. Pertumbuhan ekonomi perlu dilihat bersama distribusi manfaat dan daya dukung ekosistem.
 Partisipasi masyarakat lokal membantu mengenali dampak yang tidak terlihat dalam statistik agregat. Peta risiko dan data sosial dapat digunakan bersama untuk perencanaan.
 LATIHAN

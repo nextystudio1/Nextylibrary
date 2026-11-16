@@ -271,9 +271,9 @@ Transit: peristiwa ketika objek melintas di depan objek lain dari sudut pandang 
 Positif palsu: hasil yang tampak mendukung suatu deteksi padahal penyebabnya bukan objek yang dicari.
 
 RUJUKAN UNTUK PENDALAMAN
-NASA — Solar System Exploration: https://science.nasa.gov/solar-system/
-NASA Exoplanet Exploration: https://exoplanets.nasa.gov/
-European Space Agency — Space Science: https://www.esa.int/Science_Exploration/Space_Science
+NASA — Solar System Exploration:
+NASA Exoplanet Exploration:
+European Space Agency — Space Science:
 Sumber daring diperiksa kembali sebelum digunakan untuk pembaruan edisi berikutnya.
 
 BAB BINTANG: MASSA, WARNA, DAN EVOLUSI

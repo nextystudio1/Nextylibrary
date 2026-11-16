@@ -13,24 +13,24 @@ BAB 1. BELAJAR DAN PERUBAHAN
 Belajar adalah proses memperoleh atau mengubah pengetahuan, keterampilan, dan cara memahami sesuatu melalui pengalaman serta latihan. Hasil belajar tidak selalu terlihat seketika. Pengetahuan dapat berkembang melalui latihan, umpan balik, diskusi, dan penerapan pada situasi baru. Kesalahan merupakan informasi tentang bagian yang perlu diperbaiki.
 
 PENDALAMAN
-Dalam mempelajari topik ini, bedakan pengertian, proses, bukti, dan penilaian. Pengertian memberi batas istilah; proses menerangkan hubungan antarbagian; bukti membantu menguji penjelasan; penilaian mempertimbangkan konteks dan akibat. Jangan menyimpulkan hubungan sebab-akibat hanya dari dua kejadian yang berlangsung bersamaan. Periksa apakah ada faktor lain yang mungkin memengaruhi hasil.
+Belajar melibatkan perubahan pengetahuan atau keterampilan melalui pengalaman dan latihan. Hasil belajar dipengaruhi pengetahuan awal, konteks, kesempatan berlatih, dan umpan balik. Satu teori tidak menjelaskan semua keadaan.
 
 CONTOH PENERAPAN
-Pilih peristiwa atau benda yang dapat diamati di sekitar. Catat waktu, tempat, kondisi, dan informasi relevan. Gunakan istilah dari bab ini untuk menjelaskan apa yang terjadi. Tuliskan juga hal yang belum diketahui. Dengan cara tersebut, contoh tidak hanya menjadi cerita, tetapi latihan menerapkan konsep secara tertib.
+Seorang pelajar mempelajari konsep baru dengan menghubungkannya pada pengetahuan yang telah dimiliki. Setelah membaca, ia mencoba menjelaskan konsep itu tanpa melihat catatan untuk mengetahui bagian yang belum dipahami.
 
 KEGIATAN BELAJAR
-1. Buat ringkasan satu paragraf tanpa menyalin kalimat buku.
-2. Susun diagram yang menunjukkan hubungan antar konsep.
-3. Temukan contoh yang sesuai dan contoh yang tidak sesuai.
-4. Jelaskan mengapa suatu kesimpulan dapat berubah ketika informasi baru ditemukan.
-5. Diskusikan hasilnya dengan tetap menghargai perbedaan pendapat.
+1. Pilih satu keterampilan yang sedang dipelajari.
+2. Catat pengetahuan awal tentang keterampilan itu.
+3. Tentukan perubahan yang ingin dicapai.
+4. Buat cara sederhana untuk menguji pemahaman.
+5. Refleksikan hasil dan bagian yang perlu diperbaiki.
 
 LATIHAN
-1. Definisikan tiga istilah penting.
-2. Jelaskan satu mekanisme dengan urutan yang benar.
-3. Berikan contoh penerapan dalam kehidupan sehari-hari.
-4. Sebutkan satu keterbatasan atau risiko salah tafsir.
-5. Buat pertanyaan lanjutan yang dapat dijawab melalui pengamatan atau sumber tepercaya.
+1. Bedakan belajar, menghafal, dan memahami.
+2. Mengapa pengetahuan awal dapat membantu sekaligus menimbulkan miskonsepsi?
+3. Buat cara menguji pemahaman tanpa melihat buku.
+4. Jelaskan peran latihan dan umpan balik.
+5. Berikan contoh penerapan belajar pada situasi baru.
 
 BAB 2. PERHATIAN DAN BEBAN KOGNITIF
 
@@ -101,19 +101,19 @@ Kesalahan merupakan informasi tentang bagian yang belum dikuasai. Pecah masalah 
 LATIHAN
 Pilih satu topik pelajaran. Buat tujuan yang terukur, tiga pertanyaan untuk menguji ingatan, jadwal pengulangan berjeda, dan cara mengevaluasi apakah pemahaman sudah dapat diterapkan pada soal baru.
 
-BAB 11. PERHATIAN DAN BEBAN KOGNITIF
+BAB 7. PERHATIAN DAN BEBAN KOGNITIF
 Perhatian membantu memilih informasi yang diproses, tetapi kapasitasnya terbatas. Gangguan, perpindahan tugas yang terlalu sering, dan informasi berlebihan dapat mengurangi pemahaman. Beban kognitif muncul ketika tuntutan tugas melebihi sumber daya berpikir yang tersedia. Materi yang kompleks dapat dipecah menjadi bagian bermakna, diberi contoh, dan disertai latihan bertahap. Tujuannya bukan menghindari tantangan, melainkan mengatur urutan agar pengetahuan baru dapat dibangun.
 
-BAB 12. INGATAN DAN LATIHAN MENGINGAT
+BAB 8. INGATAN DAN LATIHAN MENGINGAT
 Belajar tidak cukup dengan membaca ulang. Latihan mengingat, seperti menjawab pertanyaan tanpa melihat catatan, membantu mengetahui bagian yang sudah dikuasai dan yang perlu dipelajari kembali. Pengulangan berjeda memberi kesempatan untuk menguatkan ingatan dalam beberapa sesi. Umpan balik penting agar kesalahan tidak terus diulang. Buat pertanyaan yang meminta penjelasan dan penerapan, bukan hanya menghafal istilah.
 
-BAB 13. MOTIVASI DAN TUJUAN BELAJAR
+BAB 9. MOTIVASI DAN TUJUAN BELAJAR
 Motivasi dapat dipengaruhi rasa ingin tahu, tujuan, dukungan sosial, persepsi kemampuan, dan relevansi materi. Tujuan yang spesifik membantu mengarahkan kegiatan, tetapi target perlu realistis dan dapat disesuaikan. Umpan balik yang menjelaskan strategi lebih berguna daripada label seperti pintar atau tidak pintar. Ketika mengalami kesulitan, pecah tugas, cari sumber bantuan, dan tinjau metode belajar.
 
-BAB 14. UMPAN BALIK DAN PENILAIAN
+BAB 10. UMPAN BALIK DAN PENILAIAN
 Penilaian formatif memberi informasi selama proses belajar sehingga strategi dapat diperbaiki. Penilaian sumatif merangkum pencapaian pada akhir periode. Umpan balik efektif menjelaskan apa yang sudah tepat, bagian yang perlu diperbaiki, dan langkah berikutnya. Penilaian yang adil menggunakan kriteria jelas serta mempertimbangkan aksesibilitas. Satu nilai tidak menggambarkan seluruh kemampuan seseorang.
 
-BAB 15. PERBEDAAN INDIVIDU DAN LINGKUNGAN BELAJAR
+BAB 11. PERBEDAAN INDIVIDU DAN LINGKUNGAN BELAJAR
 Pembelajar memiliki pengalaman, bahasa, kebutuhan, minat, dan kondisi lingkungan yang berbeda. Tidak ada satu metode yang selalu paling baik untuk semua orang dan semua materi. Pilihan strategi sebaiknya mengikuti tujuan: diagram dapat membantu hubungan ruang, penjelasan lisan dapat membantu urutan proses, dan latihan praktik dapat membantu keterampilan prosedural. Lingkungan belajar yang aman menghargai pertanyaan, kesalahan, dan keberagaman.
 
 PROYEK

@@ -345,8 +345,6 @@ LATIHAN
 2. Jika panjang diperbesar tiga kali, luas berubah berapa kali? Jawaban: sembilan kali.
 3. Kapan median lebih berguna? Jawaban: ketika data memiliki pencilan atau distribusi menceng.
 
-
-
 BAB LANJUTAN — MODEL MATEMATIKA DAN KEPUTUSAN
 
 Matematika dapat digunakan untuk menyederhanakan situasi nyata melalui model. Model adalah representasi yang memilih aspek tertentu dari keadaan, sehingga tidak memuat seluruh kerumitan dunia nyata. Saat membuat model, tuliskan asumsi, variabel, satuan, dan batas penggunaannya.

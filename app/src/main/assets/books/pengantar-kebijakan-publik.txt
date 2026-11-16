@@ -138,3 +138,51 @@ Pendekatan adaptif menggunakan pelaksanaan bertahap, evaluasi berkala, dan mekan
 
 LATIHAN ANALISIS KEBIJAKAN
 Pilih satu layanan publik. Buat matriks yang memuat tujuan, kelompok terdampak, alternatif, biaya, risiko, indikator keluaran, indikator hasil, dan cara menerima pengaduan. Tambahkan satu skenario ketika anggaran turun dan jelaskan penyesuaian yang tetap menjaga prinsip keadilan.
+
+BAB 12. IMPLEMENTASI KEBIJAKAN DAN KOORDINASI LEMBAGA
+
+Kebijakan yang dirancang dengan baik tetap dapat gagal saat pelaksanaan. Penyebabnya dapat berupa sumber daya tidak cukup, tanggung jawab tumpang tindih, prosedur tidak jelas, data terlambat, atau koordinasi antarinstansi lemah. Analisis implementasi memeriksa hubungan antara tujuan, organisasi pelaksana, aturan, kapasitas, dan kondisi lapangan.
+
+Peta pelaksanaan menjelaskan siapa melakukan apa, kapan, dengan sumber daya apa, dan kepada siapa harus melapor. Perjanjian kerja sama perlu menetapkan kewenangan dan mekanisme penyelesaian perbedaan. Koordinasi bukan sekadar rapat; harus menghasilkan keputusan, tindak lanjut, dan penanggung jawab.
+
+BAB 13. ANGGARAN DAN ANALISIS BIAYA KEBIJAKAN
+
+Anggaran menerjemahkan prioritas kebijakan menjadi alokasi sumber daya. Perencanaan perlu menghitung biaya awal, operasi, pemeliharaan, pengawasan, komunikasi, serta evaluasi. Program yang murah pada tahun pertama dapat menjadi mahal jika membutuhkan perawatan besar atau tidak memiliki sumber pembiayaan berkelanjutan.
+
+Analisis biaya-manfaat membandingkan nilai manfaat dan biaya, tetapi tidak semua nilai sosial mudah dihitung dalam uang. Analisis biaya-efektivitas dapat membandingkan biaya untuk mencapai hasil tertentu. Distribusi manfaat dan beban harus tetap diperiksa karena nilai total positif dapat menyembunyikan kerugian pada kelompok tertentu.
+
+BAB 14. REGULASI, KEPATUHAN, DAN PENEGAKAN
+
+Regulasi menetapkan kewajiban, hak, standar, dan mekanisme pengawasan. Aturan yang baik perlu memiliki tujuan jelas, dasar kewenangan, definisi yang dapat dipahami, serta mekanisme pelaksanaan. Kepatuhan dipengaruhi pengetahuan, biaya, kapasitas, insentif, dan kepercayaan terhadap lembaga.
+
+Penegakan perlu konsisten, proporsional, dan dapat dipertanggungjawabkan. Sanksi tanpa dukungan informasi atau akses pemenuhan kewajiban dapat tidak efektif. Sebaliknya, pembinaan tanpa pengawasan dapat membuat aturan diabaikan. Pilihan instrumen perlu disesuaikan dengan tingkat risiko dan karakter masalah.
+
+BAB 15. PARTISIPASI PUBLIK DAN KONSULTASI
+
+Partisipasi dapat berlangsung melalui informasi, konsultasi, kolaborasi, atau pelibatan langsung dalam keputusan. Metode harus sesuai dengan dampak kebijakan dan kelompok yang terkena. Pertemuan terbuka saja belum tentu inklusif jika waktu, lokasi, bahasa, atau format membuat sebagian warga sulit hadir.
+
+Konsultasi yang bermakna menjelaskan bagian keputusan yang masih terbuka, menyediakan informasi yang dapat dipahami, mencatat masukan, dan memberi tanggapan tentang bagaimana masukan digunakan. Jangan mengklaim dukungan publik hanya karena sejumlah orang hadir. Perbedaan pendapat perlu dicatat secara jujur.
+
+BAB 16. DATA, INDIKATOR, DAN EVALUASI DAMPAK
+
+Indikator perlu memiliki definisi, sumber, frekuensi, penanggung jawab, dan batas interpretasi. Indikator keluaran mengukur produk kegiatan, sedangkan indikator hasil mengukur perubahan pada sasaran. Dampak jangka panjang sering dipengaruhi faktor di luar program sehingga memerlukan desain evaluasi yang hati-hati.
+
+Data administratif dapat membantu pemantauan, tetapi mungkin tidak mencakup warga yang tidak mengakses layanan. Survei dan wawancara dapat melengkapi, dengan tetap memperhatikan privasi, persetujuan, dan keterwakilan. Publikasikan metode dan keterbatasan agar masyarakat dapat menilai mutu kesimpulan.
+
+BAB 17. KETAHANAN KEBIJAKAN DAN PENGELOLAAN KRISIS
+
+Kebijakan perlu diuji terhadap perubahan kondisi seperti bencana, gangguan pasokan, perubahan ekonomi, dan teknologi baru. Analisis skenario membantu mengidentifikasi keputusan yang tetap berguna pada beberapa kemungkinan masa depan. Rencana kontinjensi menetapkan pemicu, kewenangan, sumber daya, dan komunikasi ketika keadaan berubah.
+
+Dalam krisis, kecepatan keputusan penting, tetapi transparansi dan akuntabilitas tetap diperlukan. Catat dasar keputusan, informasi yang tersedia, ketidakpastian, dan waktu peninjauan. Setelah krisis, evaluasi apakah respons melindungi kelompok terdampak dan apakah prosedur perlu diperbaiki.
+
+STUDI KASUS: PROGRAM TRANSPORTASI PUBLIK
+
+Rancang analisis kebijakan untuk meningkatkan layanan angkutan umum. Identifikasi masalah akses, kelompok pengguna, pilihan rute, biaya operasi, kebutuhan infrastruktur, keselamatan, dan dampak lingkungan. Tetapkan indikator waktu tunggu, keterjangkauan, keandalan, dan aksesibilitas. Sertakan proses pengaduan serta evaluasi setelah implementasi.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa kebijakan dapat gagal saat implementasi? Karena kapasitas, koordinasi, sumber daya, atau prosedur tidak sesuai.
+2. Apa beda biaya-manfaat dan biaya-efektivitas? Yang pertama membandingkan nilai biaya dan manfaat; yang kedua membandingkan biaya untuk mencapai hasil.
+3. Apa ciri konsultasi bermakna? Informasi jelas, akses setara, masukan dicatat, dan tanggapan diberikan.
+4. Mengapa indikator perlu definisi? Agar pengukuran konsisten dan dapat dibandingkan.
+5. Apa fungsi analisis skenario? Menguji ketahanan keputusan terhadap beberapa kemungkinan perubahan.

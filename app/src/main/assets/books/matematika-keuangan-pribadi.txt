@@ -453,3 +453,58 @@ Nilai sekarang: nilai saat ini dari arus uang masa depan.
 Nilai masa depan: nilai dana setelah berkembang selama periode tertentu.
 Tingkat diskonto: tingkat untuk mengubah nilai masa depan menjadi nilai sekarang.
 Hasil riil: hasil setelah memperhitungkan inflasi.
+
+
+BAB PENGAYAAN 1 — MEMBACA ARUS KAS PRIBADI
+
+Arus kas mencatat uang yang masuk dan keluar selama periode tertentu. Pemasukan dapat berasal dari uang saku, hadiah, atau hasil pekerjaan yang sesuai usia dan aturan. Pengeluaran dapat berupa kebutuhan sekolah, transportasi, makanan, dan hiburan. Mencatat arus kas membantu melihat pola, bukan untuk menilai seseorang berdasarkan jumlah uang yang dimiliki.
+
+Pisahkan kebutuhan, keinginan, dan kewajiban. Kebutuhan adalah pengeluaran yang mendukung kehidupan sehari-hari, sedangkan keinginan dapat ditunda atau dipilih sesuai prioritas. Kewajiban adalah pembayaran yang sudah disepakati. Kategori ini tidak selalu sama bagi setiap orang; konteks keluarga dan kondisi setempat perlu diperhatikan.
+
+Anggaran sederhana dapat dibuat dengan mencatat pemasukan yang benar-benar tersedia, menetapkan prioritas, lalu menentukan batas pengeluaran. Sisihkan ruang untuk pengeluaran tidak terduga jika memungkinkan. Anggaran harus realistis dan dapat diperbaiki setelah dibandingkan dengan catatan aktual. Jika pengeluaran melebihi rencana, cari penyebabnya tanpa menyalahkan diri secara berlebihan.
+
+BAB PENGAYAAN 2 — BUNGA SEDERHANA DAN BUNGA MAJEMUK
+
+Bunga sederhana dihitung dari pokok awal. Rumus dasarnya I = P × r × t, dengan P sebagai pokok, r sebagai tingkat bunga per periode, dan t sebagai jumlah periode yang sesuai satuan tingkat bunga. Jika pokok Rp1.000.000 memperoleh bunga sederhana 5 persen per tahun selama dua tahun, bunga totalnya Rp100.000, sebelum biaya atau pajak yang berlaku.
+
+Bunga majemuk menghitung bunga atas pokok dan bunga yang telah ditambahkan pada periode sebelumnya. Nilai akhir dapat dinyatakan A = P(1+r)^n untuk tingkat per periode tetap dan penggandaan setiap periode. Pertumbuhan majemuk membuat nilai berkembang lebih cepat dibanding bunga sederhana dalam kondisi yang sama, tetapi hasil aktual produk keuangan dapat dipengaruhi biaya, pajak, risiko, dan perubahan suku bunga.
+
+Saat membandingkan produk, pastikan tingkat bunga menggunakan periode yang sama. Tingkat 1 persen per bulan tidak sama dengan 1 persen per tahun. Periksa apakah tingkat yang ditampilkan nominal atau efektif, kapan bunga dihitung, dan apakah ada biaya administrasi atau penalti.
+
+BAB PENGAYAAN 3 — INFLASI DAN DAYA BELI
+
+Inflasi adalah kenaikan tingkat harga barang dan jasa secara umum dalam suatu periode. Jika harga satu barang naik, itu belum tentu berarti inflasi keseluruhan meningkat; pengukuran inflasi menggunakan kumpulan barang dan jasa. Inflasi mengurangi daya beli uang apabila pendapatan nominal tidak meningkat secepat harga.
+
+Nilai nominal menunjukkan jumlah uang yang tertulis, sedangkan nilai riil memperhitungkan perubahan harga. Jika uang bertambah 4 persen sementara tingkat harga naik 3 persen, peningkatan daya beli kira-kira 1 persen, dengan perhitungan lebih tepat menggunakan perbandingan faktor pertumbuhan. Karena itu, menilai hasil tabungan atau investasi sebaiknya tidak hanya melihat angka nominal.
+
+BAB PENGAYAAN 4 — RISIKO, DIVERSIFIKASI, DAN KEPUTUSAN
+
+Setiap keputusan keuangan mengandung ketidakpastian. Risiko dapat berupa perubahan harga, keterlambatan pembayaran, kehilangan akses, biaya tak terduga, atau penipuan. Sebelum mengambil keputusan, pahami tujuan, jangka waktu, kemungkinan kerugian, dan apakah dana tersebut diperlukan dalam waktu dekat.
+
+Diversifikasi berarti tidak menempatkan seluruh dana pada satu jenis aset atau satu pihak. Prinsip ini dapat mengurangi risiko khusus, tetapi tidak menghapus seluruh risiko pasar. Diversifikasi juga tidak menjamin keuntungan. Produk yang menjanjikan hasil tinggi tanpa risiko patut dicurigai karena keuntungan dan risiko biasanya memiliki hubungan.
+
+Jangan mengambil keputusan hanya karena tekanan waktu, pesan viral, atau janji keuntungan pasti. Periksa identitas penyedia melalui saluran resmi, pahami biaya dan syarat, dan diskusikan keputusan penting dengan orang dewasa tepercaya. Jangan membagikan kode verifikasi, kata sandi, atau data pribadi kepada pihak yang menghubungi secara tiba-tiba.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa arus kas perlu dicatat?
+Jawaban: agar pemasukan, pengeluaran, dan pola penggunaan uang dapat dipahami.
+2. Hitung bunga sederhana Rp2.000.000 pada 4 persen per tahun selama 3 tahun.
+Jawaban: I = 2.000.000 × 0,04 × 3 = Rp240.000.
+3. Apa beda bunga sederhana dan majemuk?
+Jawaban: bunga sederhana dihitung dari pokok awal; bunga majemuk menghitung bunga dari pokok ditambah bunga yang telah terkumpul.
+4. Mengapa inflasi perlu diperhitungkan?
+Jawaban: karena kenaikan harga dapat mengurangi daya beli uang.
+5. Apakah diversifikasi menjamin tidak rugi?
+Jawaban: tidak. Diversifikasi hanya membantu mengurangi jenis risiko tertentu.
+
+GLOSARIUM TAMBAHAN
+Arus kas: catatan pemasukan dan pengeluaran dalam periode tertentu.
+Pokok: jumlah awal yang menjadi dasar perhitungan bunga.
+Bunga sederhana: bunga yang dihitung dari pokok awal.
+Bunga majemuk: bunga yang dihitung dari pokok beserta bunga sebelumnya.
+Inflasi: kenaikan tingkat harga secara umum.
+Daya beli: jumlah barang dan jasa yang dapat dibeli dengan uang.
+Nilai nominal: nilai uang sebagaimana dinyatakan.
+Nilai riil: nilai yang telah memperhitungkan perubahan tingkat harga.
+Diversifikasi: penyebaran dana atau risiko ke beberapa pilihan.

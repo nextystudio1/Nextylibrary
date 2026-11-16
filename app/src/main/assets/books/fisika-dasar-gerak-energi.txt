@@ -764,7 +764,6 @@ CATATAN EDITORIAL
 
 Buku ini merupakan pengantar konseptual dan matematis. Beberapa persamaan menggunakan model ideal seperti percepatan konstan, fluida tak kental, pegas ideal, dan rangkaian ohmik. Keadaan nyata dapat memerlukan model lebih lengkap. Pembaca perlu membedakan pendekatan dari pengukuran aktual, memeriksa satuan, dan tidak menerapkan contoh hitungan sebagai rancangan alat tanpa kajian keselamatan serta standar teknis.
 
-
 BAGIAN IX — PENDALAMAN MEKANIKA DAN PEMODELAN
 
 BAB 51 — MEMILIH SISTEM DAN BATAS ANALISIS
@@ -1256,7 +1255,6 @@ Pembaca yang menguasai dasar fisika diharapkan mampu bertanya secara terarah, me
 
 Teruslah belajar dengan rasa ingin tahu, ketelitian, sikap terbuka terhadap bukti, dan perhatian pada keselamatan. Pemahaman ilmiah berkembang ketika pertanyaan diuji dan penjelasan bersedia diperbaiki.
 
-
 BAGIAN XIV — PENGAYAAN TOPIK DAN CONTOH ANALISIS
 
 BAB 97 — GERAK PROYEKTIL: MEMBACA ASUMSI DAN HASIL
@@ -1572,7 +1570,6 @@ Edisi ini merupakan naskah pengantar luas untuk pembelajaran mandiri dan pendamp
 
 Sebelum diterbitkan sebagai bahan ajar final, naskah perlu melewati penyuntingan bahasa, pemeriksaan persamaan, verifikasi rujukan, pemeriksaan hak penggunaan ilustrasi, serta peninjauan guru atau ahli fisika. Perkiraan jumlah halaman harus dihitung dari tata letak final, bukan hanya jumlah kata. Dalam aplikasi, nomor halaman baru dapat dinyatakan akurat setelah fitur paginasi diuji pada ukuran layar dan pengaturan huruf yang ditetapkan.
 
-
 BAGIAN XV — KONSEP LANJUTAN DAN PENERAPAN TERPADU
 
 BAB 121 — HUKUM KEPLER DAN DINAMIKA ORBIT
@@ -1767,7 +1764,6 @@ PERNYATAAN PENUTUP
 
 Naskah ini disusun sebagai bahan belajar orisinal yang menjelaskan konsep fisika dengan bahasa sendiri. Contoh dan latihan bertujuan membantu pembaca memahami hubungan antarkonsep. Untuk memastikan kualitas terbit, setiap persamaan, istilah, dan rujukan tetap perlu diperiksa oleh penyunting dan penelaah bidang fisika. Jumlah halaman final ditentukan oleh tata letak, ukuran huruf, ilustrasi, margin, serta fitur pembaca aplikasi. Angka jumlah kata hanya memberikan perkiraan awal dan bukan bukti bahwa aplikasi telah memiliki paginasi yang tepat.
 
-
 BAGIAN XVI — BANK SOAL BERTAHAP DAN PEMBAHASAN RINCI
 
 PETUNJUK BANK SOAL
@@ -1912,7 +1908,6 @@ PENUTUP BANK SOAL
 
 Latihan yang efektif dilakukan dengan mencoba terlebih dahulu, memeriksa proses, lalu memperbaiki kesalahan. Jangan hanya menghafal jawaban akhir. Catat mengapa sebuah persamaan dipilih, mengapa asumsi diperlukan, dan bagaimana satuan memastikan makna hasil. Dengan cara itu, soal yang bentuknya berbeda tetap dapat dianalisis melalui prinsip yang sama.
 
-
 LAMPIRAN A — STUDI KASUS TERPADU
 
 STUDI KASUS 1 — MEMERIKSA KONSISTENSI DATA GERAK
@@ -2019,7 +2014,6 @@ LAMPIRAN E — PERNYATAAN KELENGKAPAN NASKAH
 Naskah ini mencakup pengantar, susunan materi, pembahasan konsep, contoh hitungan, latihan bertingkat, kunci pembahasan, glosarium, rangkuman rumus, studi kasus, serta panduan belajar. Kelengkapan naskah tidak berarti setiap topik fisika telah dibahas setara buku universitas khusus. Buku ini dirancang sebagai pengantar luas yang memberi landasan untuk belajar lebih lanjut.
 
 Penyuntingan akhir tetap perlu memeriksa konsistensi notasi, ejaan, akurasi persamaan, keterbacaan, lisensi ilustrasi, dan kecocokan tingkat pembaca. Setiap ilustrasi tambahan harus dibuat sendiri atau digunakan dengan izin yang sesuai. Rujukan perlu diverifikasi kembali sebelum publikasi.
-
 
 LAMPIRAN F — PENGAYAAN PEMECAHAN MASALAH
 

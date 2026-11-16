@@ -271,9 +271,9 @@ Diversifikasi: penyebaran dana ke beberapa jenis aset untuk mengelola risiko.
 OTP: kode sekali pakai untuk verifikasi; tidak boleh dibagikan.
 
 RUJUKAN UNTUK PENDALAMAN
-Otoritas Jasa Keuangan: https://www.ojk.go.id/
-Bank Indonesia — Edukasi dan Perlindungan Konsumen: https://www.bi.go.id/
-Sikapi Uangmu (OJK): https://sikapiuangmu.ojk.go.id/
+Otoritas Jasa Keuangan (OJK): lembaga pengawas sektor jasa keuangan di Indonesia.
+Bank Indonesia: materi edukasi sistem pembayaran, kebanksentralan, dan perlindungan konsumen sesuai kewenangannya.
+Sikapi Uangmu (OJK): materi literasi keuangan untuk masyarakat.
 
 MEMBEDAKAN PRODUK SIMPANAN DAN INVESTASI
 Simpanan umumnya ditujukan untuk menjaga dana dan memenuhi kebutuhan yang relatif dekat. Investasi bertujuan mengembangkan nilai dalam jangka waktu tertentu dan dapat mengalami penurunan nilai. Sebelum memilih produk, pahami lembaga penyedia, aturan perlindungan, biaya, risiko, akses pencairan, serta apakah produk diawasi otoritas yang berwenang. Jangan menganggap semua produk yang dipasarkan melalui aplikasi memiliki tingkat keamanan sama.

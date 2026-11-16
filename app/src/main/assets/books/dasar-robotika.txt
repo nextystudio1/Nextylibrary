@@ -171,3 +171,31 @@ Evaluasi: Penilaian berdasarkan kriteria dan informasi.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, dan sumber lembaga yang kompeten. Periksa tahun terbit, metode, dan izin penggunaan sebelum mengutip atau menggunakan kembali materi.
+
+BAB LANJUTAN: MERANCANG PROYEK ROBOTIKA SECARA SISTEMATIS
+
+1. Dari kebutuhan menuju spesifikasi
+Proyek robotika yang baik dimulai dari masalah yang jelas, bukan dari keinginan memasang sebanyak mungkin komponen. Tuliskan siapa yang akan menggunakan robot, lingkungan kerjanya, tugas utama, batas ukuran, sumber energi, biaya, dan kondisi yang membuat sistem harus berhenti. Contoh: robot pengantar di ruang kelas perlu bergerak pada lantai rata, menghindari orang, membawa beban ringan, dan mudah dimatikan oleh operator.
+
+Ubah kebutuhan menjadi kriteria yang dapat diuji. “Robot harus aman” terlalu umum. Kriteria yang lebih berguna misalnya robot bergerak pada kecepatan rendah di area uji, berhenti ketika sensor mendeteksi penghalang dalam jarak yang ditetapkan, dan memiliki tombol penghenti yang mudah dijangkau. Nilai batas harus ditentukan melalui penilaian risiko dan pengujian yang sesuai, bukan ditebak.
+
+2. Membagi sistem menjadi subsistem
+Sebuah robot dapat dibagi menjadi mekanik, aktuator, sensor, kendali, energi, komunikasi, dan antarmuka pengguna. Diagram blok membantu menunjukkan hubungan antarbagiannya. Sensor mengirim pengukuran ke pengendali; pengendali memproses masukan dan memberi perintah kepada aktuator; sumber energi memasok kebutuhan listrik; antarmuka menyampaikan status kepada operator.
+
+Pembagian ini memudahkan diagnosis. Jika robot tidak bergerak, periksa apakah perintah kendali muncul, apakah penggerak menerima daya, apakah mekanisme tidak macet, dan apakah sistem keselamatan sedang aktif. Hindari mengganti banyak komponen sekaligus karena penyebab masalah menjadi sulit diketahui.
+
+3. Memilih sensor dan memahami keterbatasannya
+Sensor tidak memberikan gambaran sempurna tentang dunia. Sensor jarak dapat terganggu bentuk permukaan atau sudut pantul. Kamera dipengaruhi cahaya, bayangan, dan kualitas gambar. Sensor posisi dapat mengalami pergeseran pembacaan. Karena itu, dokumentasikan rentang kerja, ketelitian, waktu respons, kondisi lingkungan, serta kemungkinan kegagalan.
+
+Untuk keputusan penting, gabungkan beberapa petunjuk dan rancang keadaan aman ketika data hilang atau tidak masuk akal. Sistem tidak boleh menganggap nilai sensor yang tidak tersedia sebagai bukti bahwa jalur bebas hambatan.
+
+4. Pengujian bertahap
+Mulai dari pemeriksaan komponen tanpa gerakan, lanjutkan simulasi, pengujian aktuator pada kondisi terkendali, lalu uji integrasi di area yang dibatasi. Catat versi perangkat lunak, konfigurasi, kondisi baterai, hasil pengukuran, dan kejadian tidak biasa. Setiap perubahan sebaiknya diuji kembali dengan skenario yang sama agar hasil dapat dibandingkan.
+
+5. Dokumentasi dan pemeliharaan
+Buat diagram kabel, daftar komponen, catatan versi, prosedur pemeriksaan, serta daftar gejala dan kemungkinan penyebab. Dokumentasi yang jelas membuat proyek dapat dipelajari dan diperbaiki oleh orang lain. Jadwalkan pemeriksaan sambungan, struktur, sensor, baterai, dan fungsi penghenti sesuai panduan komponen.
+
+LATIHAN DAN PEMBAHASAN
+Kasus: tim membuat robot pengantar buku yang kadang berhenti tanpa alasan jelas.
+Pertanyaan: data apa yang perlu dicatat?
+Pembahasan: catat waktu kejadian, posisi, kondisi permukaan, pembacaan sensor, status baterai, pesan kesalahan, beban, serta versi program. Bandingkan kejadian berulang untuk mencari pola. Jangan langsung menaikkan kecepatan atau menonaktifkan fitur keselamatan.

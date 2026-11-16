@@ -428,3 +428,51 @@ Rancang survei kebiasaan membaca dengan pertanyaan yang netral. Tentukan populas
 
 RANGKUMAN
 Statistika penelitian dimulai dari pertanyaan dan rancangan yang baik. Sampel, pengukuran, analisis, dan pelaporan harus transparan agar kesimpulan dapat dinilai.
+
+BAB PENGAYAAN — DISTRIBUSI DAN BENTUK DATA
+
+Distribusi menunjukkan bagaimana nilai tersebar. Distribusi simetris memiliki pola yang relatif seimbang di kedua sisi pusat, sedangkan distribusi miring memiliki ekor lebih panjang pada salah satu sisi. Bentuk distribusi memengaruhi ukuran ringkasan yang tepat. Rata-rata dan simpangan baku sering digunakan pada distribusi yang tidak terlalu dipengaruhi pencilan, sedangkan median dan rentang antarkuartil dapat lebih tahan terhadap nilai ekstrem.
+
+Kuartil membagi data terurut menjadi empat bagian. Rentang antarkuartil adalah selisih kuartil ketiga dan kuartil pertama. Ukuran ini menggambarkan sebaran bagian tengah data. Diagram kotak dapat menampilkan median, kuartil, dan nilai yang dianggap pencilan menurut aturan tertentu.
+
+BAB PENGAYAAN — SAMPLING DAN DISTRIBUSI SAMPEL
+
+Sampel acak sederhana memberi setiap anggota populasi peluang terpilih yang sama. Sampling berstrata membagi populasi menjadi kelompok lalu mengambil sampel dari setiap kelompok. Sampling klaster memilih kelompok alami, seperti sekolah atau desa, kemudian mengamati anggota di dalam klaster. Metode dipilih berdasarkan tujuan, biaya, dan struktur populasi.
+
+Distribusi sampel adalah distribusi suatu statistik dari banyak sampel yang mungkin diambil dengan rancangan yang sama. Rata-rata sampel memiliki variasi antar sampel. Ketika ukuran sampel meningkat dan asumsi terpenuhi, distribusi rata-rata sampel sering mendekati normal menurut teorema limit pusat. Teorema ini tidak berarti semua data asli harus berdistribusi normal.
+
+BAB PENGAYAAN — UJI HIPOTESIS DAN MAKNA HASIL
+
+Uji hipotesis menggunakan data sampel untuk menilai apakah hasil cukup tidak selaras dengan hipotesis nol menurut model statistik. Nilai p bukan probabilitas bahwa hipotesis nol benar. Nilai p adalah peluang memperoleh hasil setidaknya sama ekstrem dengan yang diamati jika hipotesis nol dan asumsi model berlaku.
+
+Signifikansi statistik tidak selalu berarti dampak penting secara praktis. Perbedaan yang sangat kecil dapat menjadi signifikan pada sampel besar, sementara perbedaan yang bermakna dapat tidak signifikan pada sampel kecil. Karena itu, laporkan ukuran efek dan interval ketidakpastian, bukan hanya nilai p.
+
+BAB PENGAYAAN — MEMBACA KORELASI DAN REGRESI
+
+Koefisien korelasi mengukur arah dan kekuatan hubungan linear antara dua variabel numerik. Nilainya berada antara -1 dan 1. Nilai dekat nol menunjukkan hubungan linear lemah, tetapi tidak menyingkirkan hubungan non-linear. Pencilan dapat sangat memengaruhi koefisien korelasi.
+
+Regresi linear memodelkan hubungan rata-rata antara variabel prediktor dan respons. Garis regresi dapat membantu membuat prediksi dalam rentang data, tetapi ekstrapolasi jauh di luar rentang pengamatan berisiko. Hubungan regresi tidak otomatis membuktikan sebab-akibat.
+
+LATIHAN
+1. Apa kelebihan median dibanding rata-rata ketika ada pencilan?
+2. Apa perbedaan sampling berstrata dan klaster?
+3. Apa makna nilai p secara sederhana?
+4. Mengapa signifikansi statistik tidak sama dengan pentingnya dampak?
+5. Mengapa prediksi jauh di luar rentang data berisiko?
+
+KUNCI PEMBAHASAN
+1. Median lebih tahan terhadap nilai ekstrem.
+2. Berstrata mengambil sampel dari tiap kelompok; klaster memilih kelompok alami untuk diamati.
+3. Peluang memperoleh data setidaknya sama ekstrem jika hipotesis nol dan asumsi model berlaku.
+4. Nilai p dipengaruhi ukuran sampel dan tidak menyatakan besarnya dampak.
+5. Pola hubungan dapat berubah di luar rentang yang diamati.
+
+GLOSARIUM TAMBAHAN
+Distribusi: pola penyebaran nilai data.
+Kuartil: nilai yang membagi data terurut menjadi empat bagian.
+Rentang antarkuartil: selisih kuartil ketiga dan pertama.
+Sampling berstrata: pengambilan sampel dari setiap kelompok strata.
+Sampling klaster: pemilihan kelompok alami sebagai unit sampel.
+Nilai p: ukuran ketidakselarasan data dengan hipotesis nol di bawah asumsi model.
+Ukuran efek: ukuran besar kecilnya perbedaan atau hubungan.
+Ekstrapolasi: prediksi di luar rentang data pengamatan.

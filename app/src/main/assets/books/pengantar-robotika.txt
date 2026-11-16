@@ -204,3 +204,34 @@ Lokalisasi: Perkiraan posisi sistem terhadap acuan atau peta.
 Latensi: Waktu tunda antara pengiriman dan penerimaan informasi.
 Rasio transmisi: Perbandingan gerak masukan dan keluaran mekanisme.
 Keadaan sistem: Kondisi operasi yang menentukan respons kendali.
+
+BAB LANJUTAN: KINEMATIKA DAN DINAMIKA ROBOT
+
+Kinematika mempelajari gerak tanpa membahas penyebab gaya, sedangkan dinamika menghubungkan gerak dengan gaya dan torsi. Pada robot bergerak, posisi dan orientasi perlu dinyatakan dalam kerangka koordinat yang jelas. Perubahan kerangka harus dilakukan secara konsisten agar sensor dan aktuator merujuk pada acuan yang sama.
+
+Robot beroda dapat menggunakan model gerak yang mempertimbangkan jarak antar roda, kecepatan roda, dan batas putar. Model ideal perlu dibandingkan dengan gerak nyata karena selip, ketidakrataan permukaan, beban, dan ketidakpastian sensor menyebabkan penyimpangan. Pengujian harus dilakukan pada lingkungan aman dengan batas kecepatan yang sesuai.
+
+Torsi motor tidak hanya ditentukan oleh daya nominal. Rasio transmisi, efisiensi mekanis, diameter roda, dan beban memengaruhi gaya gerak. Pemilihan aktuator perlu mempertimbangkan kondisi operasi dan faktor keselamatan, bukan hanya kecepatan maksimum.
+
+BAB LANJUTAN: SENSOR, KALIBRASI, DAN FUSI DATA
+
+Sensor memiliki rentang, resolusi, derau, bias, dan laju pembaruan. Sensor jarak dapat terganggu oleh permukaan atau kondisi lingkungan, sedangkan sensor inersia dapat mengalami bias yang terakumulasi. Data sensor harus dipahami sesuai prinsip pengukuran dan keterbatasannya.
+
+Kalibrasi membandingkan keluaran sensor dengan acuan yang diketahui. Prosedur dan kondisi kalibrasi perlu dicatat. Kalibrasi tidak menghilangkan seluruh kesalahan, tetapi membantu memperkirakan dan mengoreksi sebagian penyimpangan yang sistematis.
+
+Fusi sensor menggabungkan beberapa sumber informasi untuk menghasilkan estimasi yang lebih stabil. Misalnya, odometri dapat memberi perkiraan gerak jangka pendek, sementara sensor lain membantu membatasi akumulasi kesalahan. Penggabungan memerlukan sinkronisasi waktu, kerangka koordinat, dan model ketidakpastian.
+
+BAB LANJUTAN: PERANGKAT LUNAK, KEADAAN, DAN PENGUJIAN
+
+Perangkat lunak robot perlu memiliki keadaan operasi yang jelas, seperti inisialisasi, siap, bergerak, berhenti, dan kondisi gangguan. Transisi antar-keadaan harus ditentukan agar perintah tidak dijalankan dalam kondisi yang tidak sesuai. Penghentian aman perlu dipertimbangkan sejak desain.
+
+Pengujian dilakukan pada unit, integrasi, simulasi, dan lingkungan nyata yang terkendali. Simulasi membantu menguji banyak skenario, tetapi tidak sepenuhnya menggantikan pengujian fisik karena sensor, gesekan, dan variasi perangkat dapat berbeda. Catat versi perangkat lunak, konfigurasi, kondisi pengujian, dan hasil.
+
+Robot yang berinteraksi dengan manusia perlu memberi isyarat status yang dapat dipahami, bergerak secara dapat diprediksi, dan memiliki batas operasi yang sesuai. Evaluasi tidak hanya menilai apakah tugas selesai, tetapi juga apakah sistem aman, dapat dihentikan, dan mudah dipulihkan ketika terjadi gangguan.
+
+LATIHAN PENDALAMAN
+1. Apa perbedaan kinematika dan dinamika?
+2. Mengapa model gerak robot berbeda dari gerak nyata?
+3. Sebutkan karakteristik sensor yang perlu diperhatikan.
+4. Apa manfaat fusi sensor?
+5. Mengapa keadaan operasi dan penghentian aman harus dirancang sejak awal?

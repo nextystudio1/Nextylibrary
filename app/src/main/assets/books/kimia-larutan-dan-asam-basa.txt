@@ -6,7 +6,7 @@ DESKRIPSI
 Mengenal larutan, konsentrasi, kelarutan, asam, basa, pH, dan reaksi netralisasi.
 
 TUJUAN PEMBELAJARAN
-Setelah mempelajari Kimia Larutan dan Asam Basa, pembaca mampu menjelaskan mengenal larutan, konsentrasi, kelarutan, asam, basa, ph, dan reaksi netralisasi., membedakan istilah yang sering tertukar, menilai contoh berdasarkan bukti, dan menerapkan konsep secara tepat sesuai konteks.
+Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan sifat larutan, menyatakan konsentrasi, memahami kelarutan, membedakan asam dan basa, menafsirkan skala pH, serta menjelaskan netralisasi secara konseptual.
 
 BAB 1. LARUTAN DAN CAMPURAN
 
@@ -49,11 +49,12 @@ BAB 6. KIMIA LARUTAN DALAM KEHIDUPAN
 Larutan digunakan dalam minuman, pembersih, pertanian, kesehatan, dan pengolahan air. Label produk dan petunjuk keselamatan harus dibaca. Jangan mencampur bahan pembersih rumah tangga karena kombinasi tertentu dapat menghasilkan gas atau reaksi berbahaya.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari KIMIA LARUTAN DALAM KEHIDUPAN dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Kimia Larutan dan Asam Basa.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+EVALUASI AKHIR
+1. Bedakan pelarut, zat terlarut, dan larutan.
+2. Jelaskan perbedaan konsentrasi dan kelarutan.
+3. Apa arti pH di bawah 7, sama dengan 7, dan di atas 7 dalam konteks larutan berair pada kondisi umum?
+4. Jelaskan secara konseptual bagaimana reaksi asam dan basa dapat menghasilkan garam dan air.
+5. Mengapa bahan kimia tidak boleh dicampur tanpa pengetahuan dan prosedur keselamatan yang sesuai?
 
 PEDOMAN JAWABAN
 Untuk Kimia Larutan dan Asam Basa, jawaban perlu menggunakan istilah bidang secara akurat, menunjukkan hubungan konsep dengan contoh, dan menjelaskan alasan setiap kesimpulan. Terima penafsiran berbeda jika konsisten, didukung bukti, dan tidak melampaui informasi yang tersedia.

@@ -116,3 +116,57 @@ Kegiatan mikrobiologi memerlukan pelatihan, fasilitas, prosedur, dan pengawasan 
 
 LATIHAN
 Buat peta konsep peran mikroorganisme dalam pangan, tanah, air, dan kesehatan. Untuk setiap contoh, jelaskan manfaat atau risikonya serta tindakan pencegahan yang sesuai.
+
+BAB 12. GENETIKA MIKROBA DAN VARIASI
+
+Mikroorganisme memiliki mekanisme pewarisan informasi genetik yang beragam. Pada bakteri, materi genetik umumnya berada pada kromosom utama dan dapat disertai plasmid. Variasi genetik muncul melalui mutasi dan pertukaran materi genetik. Proses tersebut membantu menjelaskan adaptasi populasi, tetapi tidak berarti setiap perubahan selalu menguntungkan.
+
+Transfer gen horizontal dapat terjadi melalui beberapa mekanisme alami, sehingga sifat tertentu dapat menyebar antarorganisme. Dalam konteks kesehatan masyarakat, perpindahan gen yang berkaitan dengan resistansi antimikroba menjadi perhatian. Pembahasan konsep ini tidak memerlukan praktik manipulasi mikroba; pemahaman dapat dibangun melalui diagram dan data yang telah dipublikasikan.
+
+BAB 13. MIKROBA DALAM SIKLUS BIOGEOKIMIA
+
+Mikroorganisme berperan dalam siklus karbon, nitrogen, sulfur, dan unsur lain. Penguraian bahan organik mengembalikan unsur ke lingkungan. Dalam siklus nitrogen, kelompok mikroba menjalankan transformasi seperti fiksasi nitrogen, nitrifikasi, dan denitrifikasi. Proses tersebut dipengaruhi ketersediaan oksigen, sumber energi, kelembapan, suhu, dan kondisi kimia.
+
+Perubahan komunitas mikroba dapat memengaruhi kesuburan tanah, kualitas air, dan emisi gas rumah kaca. Karena proses berlangsung dalam jaringan interaksi, dampak satu jenis mikroba tidak dapat dinilai terpisah dari kondisi ekosistem. Peneliti menggunakan pengukuran kimia, pengamatan ekologi, dan analisis molekuler untuk menyusun gambaran yang lebih lengkap.
+
+BAB 14. MIKROBIOMA DAN KESEHATAN
+
+Mikrobioma merujuk pada komunitas mikroorganisme beserta lingkungan genetik dan fungsionalnya dalam suatu habitat. Mikrobioma manusia berbeda antarbagian tubuh dan berubah sepanjang kehidupan. Pola makan, lingkungan, obat, usia, dan kondisi kesehatan dapat berhubungan dengan komposisinya. Hubungan statistik tidak otomatis membuktikan sebab-akibat.
+
+Penelitian mikrobioma perlu memperhatikan ukuran sampel, kelompok pembanding, metode pengambilan sampel, kontaminasi, dan cara analisis. Klaim komersial tentang produk yang mengubah mikrobioma perlu dinilai berdasarkan bukti klinis yang sesuai. Informasi mikrobioma tidak dapat digunakan sendirian untuk mendiagnosis penyakit atau menggantikan nasihat tenaga kesehatan.
+
+BAB 15. MIKROBIOLOGI PANGAN DAN FERMENTASI
+
+Fermentasi memanfaatkan aktivitas mikroorganisme atau enzim untuk mengubah bahan pangan. Proses dapat membentuk rasa, aroma, tekstur, dan karakter penyimpanan tertentu. Keberhasilan produk bergantung pada bahan baku, kondisi proses, kebersihan, pengendalian mutu, dan standar keamanan pangan.
+
+Tidak semua mikroorganisme dalam pangan bermanfaat. Kontaminasi dapat menghasilkan pembusukan atau bahaya kesehatan. Keamanan tidak dapat dipastikan hanya dari bau, rasa, atau penampilan. Produksi pangan harus mengikuti pedoman resmi, prosedur tervalidasi, dan pengawasan yang sesuai. Materi ini bersifat konseptual dan bukan panduan melakukan kultur mikroorganisme di rumah.
+
+BAB 16. MIKROBIOLOGI LINGKUNGAN DAN PENGOLAHAN LIMBAH
+
+Mikroorganisme membantu menguraikan bahan organik dalam tanah dan sistem pengolahan air limbah. Proses biologis dapat menurunkan beban pencemar jika kondisi sistem terkelola dengan benar. Kinerja dipengaruhi komposisi limbah, suhu, pH, oksigen, waktu tinggal, dan karakter komunitas mikroba.
+
+Pemantauan pengolahan limbah menggunakan indikator fisik, kimia, dan biologis. Satu indikator tidak cukup menggambarkan seluruh mutu air. Pengambilan sampel harus mengikuti prosedur keselamatan dan standar lembaga. Air hasil pengolahan hanya boleh digunakan sesuai kualitas yang terverifikasi dan ketentuan yang berlaku.
+
+BAB 17. VIROLOGI DAN INTERAKSI INANG
+
+Virus merupakan entitas biologis yang memerlukan sel inang untuk memperbanyak diri. Struktur virus umumnya mencakup materi genetik dan kapsid; sebagian memiliki selubung lipid. Virus berbeda dari bakteri, sehingga antibiotik yang menargetkan struktur atau proses bakteri tidak digunakan untuk mengobati infeksi virus.
+
+Interaksi virus dan inang dipengaruhi reseptor, respons imun, variasi genetik, dan kondisi lingkungan. Penularan dapat berlangsung melalui jalur yang berbeda menurut virusnya. Pencegahan harus mengikuti rekomendasi kesehatan masyarakat yang relevan, seperti vaksinasi yang tersedia, kebersihan, ventilasi, dan langkah pengendalian infeksi.
+
+BAB 18. DIAGNOSTIK, SURVEILANS, DAN INTERPRETASI DATA
+
+Metode diagnostik mikrobiologi dapat mendeteksi organisme, komponen organisme, atau respons tubuh. Kultur, mikroskopi, uji antigen, dan metode amplifikasi asam nukleat memiliki tujuan serta batas yang berbeda. Hasil positif atau negatif harus ditafsirkan berdasarkan sensitivitas, spesifisitas, waktu pengambilan sampel, dan kemungkinan hasil yang tidak sesuai.
+
+Surveilans mengamati pola penyakit pada populasi untuk mendukung pencegahan dan respons. Data surveilans dipengaruhi definisi kasus, akses pemeriksaan, pelaporan, dan perubahan kebijakan. Kenaikan jumlah laporan tidak selalu berarti kenaikan kejadian sebenarnya; perubahan jumlah tes atau pelaporan juga dapat berperan.
+
+STUDI KASUS: MEMBACA LAPORAN KUALITAS AIR
+
+Sebuah laporan memuat beberapa indikator kualitas air pada titik hulu dan hilir. Bandingkan lokasi, waktu, metode, satuan, dan baku mutu yang relevan. Jelaskan indikator mana yang berubah dan apa yang belum dapat disimpulkan. Jangan menyatakan air aman diminum hanya berdasarkan satu parameter; penilaian harus menggunakan standar lengkap dan otoritas terkait.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Apa perbedaan mutasi dan transfer gen horizontal? Mutasi mengubah materi genetik; transfer horizontal memindahkan materi genetik antarorganisme.
+2. Mengapa mikroba penting dalam siklus nitrogen? Mereka menjalankan transformasi kimia nitrogen yang memengaruhi ketersediaan unsur.
+3. Mengapa korelasi mikrobioma dan penyakit belum membuktikan sebab-akibat? Faktor lain dan arah hubungan masih perlu diuji.
+4. Mengapa fermentasi tidak otomatis menjamin pangan aman? Keamanan bergantung pada bahan, proses, kebersihan, dan pengendalian mutu.
+5. Apa fungsi surveilans? Mengamati pola penyakit untuk mendukung pencegahan dan keputusan kesehatan masyarakat.

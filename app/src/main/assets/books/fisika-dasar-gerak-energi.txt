@@ -83,7 +83,7 @@ Bab 50 Fisika Modern secara Singkat
 
 BAGIAN I — DASAR PENGUKURAN DAN GERAK
 
-BAB 1 — BESARAN, SATUAN, DAN DIMENSI
+Pendalaman 1 — — BESARAN, SATUAN, DAN DIMENSI
 
 Besaran fisika adalah sifat yang dapat diukur dan dinyatakan dengan angka serta satuan. Panjang, massa, waktu, suhu, arus listrik, jumlah zat, dan intensitas cahaya merupakan tujuh besaran pokok dalam Sistem Internasional (SI). Besaran lain dibentuk dari kombinasi besaran pokok. Luas memiliki satuan meter persegi, volume meter kubik, kecepatan meter per sekon, dan gaya newton.
 
@@ -95,7 +95,7 @@ Contoh: 72 kilometer per jam dikonversi ke meter per sekon dengan mengalikan 1.0
 
 Kekeliruan umum adalah mencampur massa dan berat. Massa menyatakan ukuran kelembaman dan satuannya kilogram. Berat adalah gaya gravitasi pada benda, satuannya newton, dan dekat permukaan Bumi dapat dihitung dengan W = m g. Nilai g sekitar 9,8 m/s², tetapi dapat sedikit berbeda menurut lokasi.
 
-BAB 2 — PENGUKURAN DAN KETIDAKPASTIAN
+Pendalaman 1 — — PENGUKURAN DAN KETIDAKPASTIAN
 
 Pengukuran membandingkan suatu besaran dengan satuan atau standar. Setiap alat memiliki resolusi dan batas ketelitian. Penggaris dengan skala milimeter tidak mendukung klaim ketelitian hingga sepersejuta meter. Hasil sebaiknya ditulis sesuai kemampuan alat dan prosedur.
 
@@ -107,7 +107,7 @@ Angka penting menunjukkan ketelitian yang layak dilaporkan. Hasil 2,4 m tidak bo
 
 Contoh pengukuran waktu: tiga pengamatan menghasilkan 4,8 s, 5,0 s, dan 4,9 s. Rata-ratanya sekitar 4,9 s. Sebaran kecil memberi gambaran konsistensi, tetapi belum membuktikan tidak adanya bias alat.
 
-BAB 3 — SKALAR, VEKTOR, DAN KOMPONEN
+Pendalaman 1 — — SKALAR, VEKTOR, DAN KOMPONEN
 
 Besaran skalar cukup dinyatakan dengan nilai dan satuan, misalnya massa, suhu, energi, dan waktu. Besaran vektor memiliki nilai, satuan, dan arah, misalnya perpindahan, kecepatan, percepatan, serta gaya. Arah membuat operasi vektor berbeda dari operasi bilangan biasa.
 
@@ -119,7 +119,7 @@ Contoh: perpindahan 10 m ke timur lalu 6 m ke barat menghasilkan perpindahan 4 m
 
 Ketika menjumlahkan vektor, tetapkan sistem koordinat lebih dahulu. Jika arah timur dipilih positif, arah barat bernilai negatif. Pilihan koordinat boleh berbeda, tetapi hasil fisik harus konsisten.
 
-BAB 4 — POSISI, JARAK, DAN PERPINDAHAN
+Pendalaman 1 — — POSISI, JARAK, DAN PERPINDAHAN
 
 Posisi menyatakan letak benda relatif terhadap titik acuan. Dalam satu dimensi, posisi dapat dinyatakan dengan koordinat pada garis. Perubahan posisi dari awal ke akhir disebut perpindahan. Perpindahan hanya bergantung pada posisi awal dan akhir, bukan bentuk lintasan.
 
@@ -129,7 +129,7 @@ Titik acuan harus dinyatakan karena posisi bersifat relatif. Dalam peta, koordin
 
 Contoh: seseorang berjalan 3 m ke timur lalu 4 m ke utara. Jarak totalnya 7 m. Besar perpindahannya 5 m karena kedua arah saling tegak lurus dan dapat dihitung dengan teorema Pythagoras. Arah perpindahan mengarah ke timur laut.
 
-BAB 5 — KELAJUAN DAN KECEPATAN
+Pendalaman 1 — — KELAJUAN DAN KECEPATAN
 
 Kelajuan rata-rata adalah jarak total dibagi waktu total. Kecepatan rata-rata adalah perpindahan dibagi selang waktu. Kelajuan merupakan skalar, sedangkan kecepatan merupakan vektor. Karena itu, kelajuan tidak menjelaskan arah gerak.
 
@@ -139,7 +139,7 @@ Contoh: pelari menyelesaikan satu putaran lintasan 400 m dalam 100 s. Kelajuan r
 
 Untuk perjalanan dengan beberapa tahap, jangan merata-ratakan angka kelajuan begitu saja jika durasi tiap tahap berbeda. Gunakan jarak total dibagi waktu total. Jika waktu berhenti termasuk dalam pengamatan, jelaskan apakah waktu berhenti dihitung.
 
-BAB 6 — PERCEPATAN DAN GERAK LURUS BERATURAN
+Pendalaman 1 — — PERCEPATAN DAN GERAK LURUS BERATURAN
 
 Percepatan adalah laju perubahan kecepatan terhadap waktu. Percepatan rata-rata dihitung dari perubahan kecepatan dibagi selang waktu. Satuan SI-nya m/s². Percepatan dapat terjadi karena besar kecepatan berubah, arah berubah, atau keduanya.
 
@@ -149,7 +149,7 @@ Persamaan posisi untuk GLB dapat ditulis x = x₀ + vt. x₀ adalah posisi awal,
 
 Contoh: benda berada pada x₀ = 2 m dan bergerak dengan v = 3 m/s selama 4 s. Posisi akhirnya 14 m. Periksa dengan memasukkan satuan: meter ditambah meter per sekon dikalikan sekon menghasilkan meter.
 
-BAB 7 — GERAK LURUS BERUBAH BERATURAN
+Pendalaman 1 — — GERAK LURUS BERUBAH BERATURAN
 
 Gerak lurus berubah beraturan (GLBB) merupakan model gerak lurus dengan percepatan konstan. Kecepatan berubah secara teratur terhadap waktu. Persamaan yang sering digunakan adalah v = v₀ + at dan x = x₀ + v₀t + ½at². Persamaan ini berlaku ketika percepatan konstan dan gerak dapat dipandang satu dimensi.
 
@@ -159,7 +159,7 @@ Contoh: benda mula-mula diam dan mengalami percepatan 2 m/s² selama 3 s. Kecepa
 
 Perlambatan berarti percepatan berlawanan arah dengan kecepatan pada saat itu. Tanda negatif tidak selalu berarti benda bergerak ke arah negatif; maknanya bergantung pada sistem koordinat.
 
-BAB 8 — MEMBACA GRAFIK GERAK
+Pendalaman 1 — — MEMBACA GRAFIK GERAK
 
 Grafik posisi terhadap waktu menunjukkan perubahan posisi. Kemiringan grafik posisi-waktu menyatakan kecepatan. Garis lurus dengan kemiringan tetap menggambarkan kecepatan konstan. Garis horizontal menunjukkan posisi tidak berubah terhadap waktu.
 
@@ -169,7 +169,7 @@ Grafik percepatan terhadap waktu dapat digunakan untuk menentukan perubahan kece
 
 Saat membandingkan dua grafik, pastikan rentang dan skala sumbu sama. Grafik dengan kemiringan tampak lebih curam belum tentu menunjukkan nilai lebih besar jika skala sumbunya berbeda.
 
-BAB 9 — GERAK DUA DIMENSI DAN GERAK PROYEKTIL
+Pendalaman 1 — — GERAK DUA DIMENSI DAN GERAK PROYEKTIL
 
 Gerak dua dimensi dianalisis melalui komponen horizontal dan vertikal. Dalam model proyektil ideal dekat permukaan Bumi, percepatan horizontal dianggap nol dan percepatan vertikal sama dengan gravitasi yang arahnya ke bawah. Kedua komponen waktu berjalan bersamaan.
 
@@ -177,7 +177,7 @@ Kecepatan awal dapat diuraikan menjadi v₀x = v₀ cos θ dan v₀y = v₀ sin 
 
 Model ini membantu memahami lintasan bola dalam olahraga, tetapi tidak boleh digunakan untuk merancang peluncuran benda atau kegiatan berbahaya. Dalam keadaan nyata, hambatan udara, putaran, bentuk benda, dan perubahan kondisi lingkungan memengaruhi lintasan.
 
-BAB 10 — GERAK RELATIF DAN KERANGKA ACUAN
+Pendalaman 1 — — GERAK RELATIF DAN KERANGKA ACUAN
 
 Gerak selalu dinyatakan terhadap kerangka acuan. Penumpang yang duduk di kereta memiliki kecepatan nol relatif terhadap kursi, tetapi bergerak relatif terhadap stasiun. Dua pengamat yang bergerak relatif dapat mengukur kecepatan berbeda untuk benda yang sama.
 
@@ -187,7 +187,7 @@ Pemilihan kerangka acuan yang tepat menyederhanakan masalah. Untuk mempelajari g
 
 BAGIAN II — GAYA DAN INTERAKSI
 
-BAB 11 — KONSEP GAYA DAN DIAGRAM BENDA BEBAS
+Pendalaman 1 — — KONSEP GAYA DAN DIAGRAM BENDA BEBAS
 
 Gaya adalah interaksi yang dapat mengubah gerak atau bentuk benda. Gaya merupakan vektor dan satuan SI-nya newton. Gaya dapat terjadi melalui kontak, seperti dorongan, tegangan tali, dan gesekan, atau melalui medan, seperti gravitasi dan magnet.
 
@@ -195,7 +195,7 @@ Diagram benda bebas menggambarkan satu benda atau sistem yang dipilih beserta ga
 
 Langkah membuat diagram: tentukan objek yang dianalisis; pilih sumbu; identifikasi kontak dan interaksi jarak jauh; gambarkan gaya eksternal; uraikan gaya miring menjadi komponen bila diperlukan. Jangan menggambar “gaya gerak” sebagai gaya tambahan tanpa mengidentifikasi interaksi fisiknya.
 
-BAB 12 — HUKUM NEWTON PERTAMA
+Pendalaman 1 — — HUKUM NEWTON PERTAMA
 
 Hukum pertama Newton menyatakan bahwa benda mempertahankan keadaan diam atau gerak lurus beraturan jika resultan gaya eksternal nol. Sifat mempertahankan keadaan gerak disebut inersia. Massa menjadi ukuran kelembaman dalam mekanika klasik.
 
@@ -203,7 +203,7 @@ Benda yang tampak berhenti tidak berarti tidak ada gaya. Buku di atas meja menga
 
 Hukum ini juga menjelaskan mengapa penumpang merasakan perubahan gerak ketika kendaraan mulai atau berhenti. Tubuh cenderung mempertahankan keadaan geraknya, sehingga sistem keselamatan kendaraan dirancang untuk membantu mengendalikan gerak relatif tubuh.
 
-BAB 13 — HUKUM NEWTON KEDUA
+Pendalaman 1 — — HUKUM NEWTON KEDUA
 
 Hukum kedua Newton menyatakan resultan gaya sama dengan massa dikalikan percepatan: ΣF = ma. Arah percepatan sama dengan arah resultan gaya. Jika massa tetap, resultan gaya dua kali lebih besar menghasilkan percepatan dua kali lebih besar dalam model yang sama.
 
@@ -211,7 +211,7 @@ Gunakan resultan gaya, bukan salah satu gaya saja. Jika benda ditarik ke kanan 1
 
 Satuan newton setara dengan kg m/s². Pemeriksaan satuan membantu mendeteksi kesalahan. Hukum kedua dapat diterapkan pada tiap sumbu secara terpisah: ΣFx = max dan ΣFy = may.
 
-BAB 14 — HUKUM NEWTON KETIGA
+Pendalaman 1 — — HUKUM NEWTON KETIGA
 
 Hukum ketiga Newton menyatakan bahwa jika benda A memberikan gaya pada benda B, benda B memberikan gaya yang sama besar dan berlawanan arah pada A. Kedua gaya bekerja pada dua benda berbeda. Oleh karena itu, pasangan aksi-reaksi tidak saling menghapus dalam diagram satu benda.
 
@@ -219,7 +219,7 @@ Ketika seseorang mendorong dinding, dinding memberikan gaya balik pada orang ter
 
 Kesalahan umum adalah menganggap berat benda dan gaya normal sebagai pasangan aksi-reaksi. Keduanya bekerja pada benda yang sama sehingga bukan pasangan hukum ketiga. Pasangan berat adalah gaya gravitasi benda pada Bumi; pasangan normal adalah gaya benda pada permukaan.
 
-BAB 15 — GAYA BERAT, NORMAL, TEGANGAN, DAN PEGAS
+Pendalaman 1 — — GAYA BERAT, NORMAL, TEGANGAN, DAN PEGAS
 
 Berat adalah gaya gravitasi pada benda. Dekat permukaan Bumi, besar berat dapat diperkirakan dengan W = mg. Massa tetap ketika lokasi berubah, sedangkan berat dapat berubah jika percepatan gravitasi berbeda.
 
@@ -229,7 +229,7 @@ Tegangan adalah gaya yang diteruskan melalui tali atau kabel ideal. Model tali r
 
 Untuk pegas ideal dalam rentang elastis, gaya pemulih sebanding dengan perubahan panjang: F = −kx. Tanda negatif menunjukkan arah gaya berlawanan dengan simpangan. Pegas nyata memiliki batas elastis dan dapat berubah permanen jika dibebani berlebihan.
 
-BAB 16 — GESEKAN DAN HAMBATAN FLUIDA
+Pendalaman 1 — — GESEKAN DAN HAMBATAN FLUIDA
 
 Gesekan muncul ketika permukaan bersentuhan. Gesekan statis mencegah permukaan mulai bergeser dan menyesuaikan nilainya hingga batas maksimum. Gesekan kinetis bekerja saat permukaan saling meluncur. Model sederhana sering menghubungkan gaya gesek dengan koefisien gesek dan gaya normal.
 
@@ -237,7 +237,7 @@ Gesekan tidak selalu merugikan. Tanpa gesekan yang cukup, kaki sulit mencengkera
 
 Hambatan fluida terjadi ketika benda bergerak relatif terhadap udara atau cairan. Besarnya dipengaruhi bentuk, luas penampang, kecepatan, dan sifat fluida. Pada banyak kondisi, hambatan meningkat tajam saat kecepatan bertambah. Karena itu, model tanpa hambatan hanya cocok untuk pendekatan tertentu.
 
-BAB 17 — GERAK MELINGKAR
+Pendalaman 1 — — GERAK MELINGKAR
 
 Pada gerak melingkar beraturan, besar kecepatan tetap tetapi arahnya berubah. Perubahan arah berarti terdapat percepatan menuju pusat lintasan, disebut percepatan sentripetal. Besarnya aₛ = v²/r, dengan v kelajuan dan r jari-jari lintasan.
 
@@ -245,7 +245,7 @@ Gaya sentripetal bukan gaya baru. Ia adalah nama untuk resultan gaya radial yang
 
 Periode adalah waktu untuk satu putaran dan frekuensi adalah jumlah putaran per sekon. Hubungannya f = 1/T. Kecepatan sudut menyatakan perubahan sudut per waktu. Hubungan v = ωr menghubungkan kecepatan linear dan sudut.
 
-BAB 18 — GRAVITASI DAN GERAK ORBIT
+Pendalaman 1 — — GRAVITASI DAN GERAK ORBIT
 
 Gravitasi merupakan interaksi antara benda bermassa. Dalam model Newton, besar gaya gravitasi antara dua massa sebanding dengan hasil kali massa dan berbanding terbalik dengan kuadrat jarak antara pusat massanya. Arah gaya sepanjang garis penghubung kedua pusat massa.
 
@@ -255,7 +255,7 @@ Hukum Kepler menggambarkan pola orbit planet. Orbit planet berbentuk elips denga
 
 BAGIAN III — USAHA, ENERGI, DAN MOMENTUM
 
-BAB 19 — USAHA OLEH GAYA
+Pendalaman 1 — — USAHA OLEH GAYA
 
 Dalam fisika, usaha terjadi ketika gaya memiliki komponen searah perpindahan. Untuk gaya konstan, usaha W = F s cos θ. Jika gaya searah perpindahan, usaha positif; jika berlawanan, negatif; jika tegak lurus, usaha nol.
 
@@ -263,7 +263,7 @@ Seseorang yang membawa tas berjalan mendatar dengan ketinggian tetap memberikan 
 
 Usaha merupakan besaran skalar dan satuannya joule. Satu joule sama dengan satu newton meter. Untuk gaya yang berubah, usaha dapat dipahami sebagai luas bertanda di bawah grafik gaya terhadap perpindahan.
 
-BAB 20 — ENERGI KINETIK DAN POTENSIAL
+Pendalaman 1 — — ENERGI KINETIK DAN POTENSIAL
 
 Energi kinetik adalah energi yang berkaitan dengan gerak. Untuk benda bermassa m dengan kelajuan v, energi kinetik translasi adalah Ek = ½mv². Karena kelajuan dikuadratkan, penggandaan kelajuan menghasilkan energi kinetik empat kali lipat jika massa tetap.
 
@@ -271,7 +271,7 @@ Energi potensial gravitasi dekat permukaan Bumi dapat ditulis Ep = mgh relatif t
 
 Energi potensial elastis pegas ideal adalah ½kx². Energi dapat tersimpan dalam konfigurasi sistem dan berubah menjadi bentuk lain. Saat menghitung, nyatakan batas sistem dan jenis energi yang diperhitungkan.
 
-BAB 21 — KEKEKALAN ENERGI MEKANIK
+Pendalaman 1 — — KEKEKALAN ENERGI MEKANIK
 
 Energi mekanik adalah jumlah energi kinetik dan potensial. Jika hanya gaya konservatif melakukan usaha pada sistem, energi mekanik total tetap. Gravitasi dan gaya pegas ideal termasuk gaya konservatif.
 
@@ -279,7 +279,7 @@ Gesekan dan hambatan udara merupakan gaya nonkonservatif dalam model umum. Kedua
 
 Contoh: benda turun dari ketinggian. Dalam model tanpa hambatan, penurunan energi potensial sama dengan kenaikan energi kinetik. Dalam keadaan nyata, sebagian energi dapat berpindah ke udara dan permukaan sebagai energi termal dan suara.
 
-BAB 22 — DAYA DAN EFISIENSI
+Pendalaman 1 — — DAYA DAN EFISIENSI
 
 Daya adalah laju melakukan usaha atau memindahkan energi. Daya rata-rata P = W/t. Satuan SI-nya watt, setara joule per sekon. Mesin berdaya besar dapat memindahkan energi lebih cepat, tetapi tidak otomatis lebih hemat energi.
 
@@ -287,7 +287,7 @@ Efisiensi membandingkan keluaran berguna dengan masukan energi. Efisiensi = (ene
 
 Tidak ada mesin nyata yang mengubah seluruh energi masukan menjadi keluaran berguna sesuai tujuan. Sebagian energi menyebar ke lingkungan dalam bentuk panas, bunyi, atau bentuk lain. Prinsip ini tidak berarti energi hilang; energi hanya berpindah atau berubah bentuk.
 
-BAB 23 — MOMENTUM DAN IMPULS
+Pendalaman 1 — — MOMENTUM DAN IMPULS
 
 Momentum linear adalah hasil kali massa dan kecepatan, p = mv. Momentum merupakan vektor. Benda bermassa besar yang bergerak lambat dapat memiliki momentum sama dengan benda bermassa kecil yang bergerak lebih cepat.
 
@@ -295,7 +295,7 @@ Impuls adalah perubahan momentum. Untuk gaya konstan, impuls J = F Δt. Untuk ga
 
 Keselamatan kendaraan memanfaatkan konsep perubahan momentum dan waktu interaksi. Sabuk pengaman dan struktur penyerap energi dirancang oleh insinyur untuk mengelola perlambatan. Penjelasan konsep ini bukan ajakan melakukan uji tabrak atau mengubah perangkat keselamatan.
 
-BAB 24 — TUMBUKAN DAN KEKEKALAN MOMENTUM
+Pendalaman 1 — — TUMBUKAN DAN KEKEKALAN MOMENTUM
 
 Dalam sistem yang resultan gaya eksternalnya dapat diabaikan selama interaksi, momentum total tetap. Untuk dua benda satu dimensi, jumlah momentum sebelum interaksi sama dengan jumlah momentum sesudahnya, dengan arah ditangani melalui tanda.
 
@@ -303,7 +303,7 @@ Tumbukan elastis mempertahankan momentum dan energi kinetik total. Tumbukan tida
 
 Analisis tumbukan memerlukan batas sistem yang jelas. Jika gaya luar seperti gesekan lantai signifikan selama interval yang ditinjau, momentum sistem tidak dapat dianggap kekal secara sederhana.
 
-BAB 25 — PUSAT MASSA DAN KESEIMBANGAN
+Pendalaman 1 — — PUSAT MASSA DAN KESEIMBANGAN
 
 Pusat massa adalah posisi rata-rata massa suatu sistem yang dibobot oleh distribusi massanya. Untuk benda homogen dan simetris, pusat massa sering berada di pusat geometris. Untuk bentuk tidak beraturan, letaknya dapat berbeda dari pusat geometris.
 
@@ -313,7 +313,7 @@ Stabilitas dipengaruhi posisi pusat massa dan luas bidang tumpu. Dalam gambaran 
 
 BAGIAN IV — ROTASI DAN FLUIDA
 
-BAB 26 — BESARAN GERAK ROTASI
+Pendalaman 1 — — BESARAN GERAK ROTASI
 
 Gerak rotasi menggambarkan perubahan sudut terhadap waktu. Perpindahan sudut diukur dalam radian. Kecepatan sudut adalah laju perubahan sudut, sedangkan percepatan sudut adalah laju perubahan kecepatan sudut.
 
@@ -321,7 +321,7 @@ Untuk titik pada benda tegar yang berotasi dengan kecepatan sudut sama, kecepata
 
 Momen inersia menyatakan kelembaman rotasi dan bergantung pada massa serta distribusinya terhadap sumbu. Dua benda bermassa sama dapat memiliki momen inersia berbeda jika bentuk dan sebaran massanya berbeda.
 
-BAB 27 — TORSI DAN KESETIMBANGAN ROTASI
+Pendalaman 1 — — TORSI DAN KESETIMBANGAN ROTASI
 
 Torsi adalah ukuran kecenderungan gaya memutar benda terhadap sumbu. Besarnya bergantung pada gaya dan lengan momen tegak lurus. Gaya yang sama dapat menghasilkan torsi berbeda jika diberikan pada jarak berbeda dari sumbu.
 
@@ -329,7 +329,7 @@ Pintu lebih mudah dibuka ketika didorong jauh dari engsel karena lengan momennya
 
 Titik acuan untuk menghitung torsi dapat dipilih agar gaya yang garis kerjanya melalui titik itu tidak menghasilkan torsi. Pemilihan ini menyederhanakan persamaan, tetapi hasil akhir tidak bergantung pada titik acuan jika semua syarat keseimbangan dipenuhi.
 
-BAB 28 — TEKANAN DAN FLUIDA STATIS
+Pendalaman 1 — — TEKANAN DAN FLUIDA STATIS
 
 Fluida adalah zat yang dapat mengalir, termasuk cairan dan gas. Tekanan didefinisikan sebagai gaya tegak lurus per satuan luas. Satuannya pascal, yaitu newton per meter persegi.
 
@@ -337,7 +337,7 @@ Pada fluida diam, tekanan bertambah dengan kedalaman karena titik yang lebih dal
 
 Tekanan pada kedalaman yang sama dalam fluida terhubung dan diam sama jika fluida sejenis dan kondisi setimbang. Bentuk wadah tidak menentukan tekanan hidrostatik pada kedalaman yang sama, meskipun bentuk wadah memengaruhi volume dan gaya pada dinding.
 
-BAB 29 — HUKUM PASCAL DAN ARCHIMEDES
+Pendalaman 1 — — HUKUM PASCAL DAN ARCHIMEDES
 
 Hukum Pascal menyatakan perubahan tekanan pada fluida tertutup diteruskan ke seluruh bagian fluida. Prinsip ini digunakan pada sistem hidrolik. Dalam model ideal, tekanan pada dua piston sama, sehingga gaya dapat diperbesar dengan perbandingan luas penampang. Sistem nyata memiliki rugi-rugi dan batas tekanan.
 
@@ -345,7 +345,7 @@ Prinsip Archimedes menyatakan benda yang tercelup dalam fluida mengalami gaya ap
 
 Kapal besar dapat mengapung karena bentuk lambung membuat volume air yang dipindahkan cukup besar. Udara di dalam ruang kapal menurunkan massa jenis rata-rata sistem. Stabilitas kapal merupakan persoalan teknik yang lebih kompleks daripada sekadar gaya apung.
 
-BAB 30 — ALIRAN FLUIDA
+Pendalaman 1 — — ALIRAN FLUIDA
 
 Aliran fluida dapat bersifat laminar atau turbulen. Pada aliran laminar, lapisan fluida bergerak relatif teratur; pada aliran turbulen, gerak menjadi lebih tidak teratur dan bercampur. Keadaan aliran dipengaruhi kecepatan, ukuran saluran, viskositas, dan massa jenis.
 
@@ -355,7 +355,7 @@ Persamaan Bernoulli menghubungkan tekanan, energi kinetik per volume, dan energi
 
 BAGIAN V — SUHU, KALOR, DAN TERMODINAMIKA
 
-BAB 31 — SUHU DAN PEMUAIAN
+Pendalaman 1 — — SUHU DAN PEMUAIAN
 
 Suhu menggambarkan keadaan termal suatu sistem dan menentukan arah perpindahan kalor spontan ketika dua benda bersentuhan. Termometer mengukur suhu melalui sifat fisik yang berubah secara teratur terhadap suhu, seperti pemuaian cairan atau perubahan hambatan listrik.
 
@@ -363,7 +363,7 @@ Skala Celsius dan Kelvin sering digunakan dalam sains. Hubungan keduanya adalah 
 
 Banyak bahan memuai ketika suhu naik. Pemuaian panjang untuk perubahan suhu kecil dapat diperkirakan dengan ΔL = αL₀ΔT. Koefisien α bergantung pada bahan. Struktur bangunan dan jembatan mempertimbangkan pemuaian melalui sambungan dan rancangan yang sesuai.
 
-BAB 32 — KALOR DAN KALOR JENIS
+Pendalaman 1 — — KALOR DAN KALOR JENIS
 
 Kalor adalah energi yang berpindah karena perbedaan suhu, bukan zat yang tersimpan sebagai cairan di dalam benda. Kalor mengalir spontan dari suhu lebih tinggi ke suhu lebih rendah hingga tercapai kesetimbangan termal, jika tidak ada pengaruh lain.
 
@@ -371,7 +371,7 @@ Untuk perubahan suhu tanpa perubahan fase, kalor dapat dihitung dengan Q = mcΔT
 
 Jika beberapa benda bertukar kalor dalam sistem terisolasi, energi yang dilepas sama dengan energi yang diterima. Perhitungan perlu memperhitungkan wadah dan lingkungan jika kontribusinya tidak dapat diabaikan.
 
-BAB 33 — PERPINDAHAN KALOR
+Pendalaman 1 — — PERPINDAHAN KALOR
 
 Konduksi adalah perpindahan energi melalui interaksi mikroskopis tanpa perpindahan materi secara keseluruhan. Logam umumnya menghantarkan kalor lebih baik daripada kayu atau busa. Isolator memperlambat perpindahan kalor, tetapi tidak menghentikannya sepenuhnya.
 
@@ -379,7 +379,7 @@ Konveksi terjadi ketika perpindahan energi berkaitan dengan gerak fluida. Perbed
 
 Radiasi termal adalah perpindahan energi melalui gelombang elektromagnetik. Radiasi tidak memerlukan medium, sehingga energi Matahari dapat mencapai Bumi melalui ruang hampa. Permukaan berbeda dapat menyerap dan memancarkan radiasi dengan karakteristik berbeda.
 
-BAB 34 — PERUBAHAN WUJUD
+Pendalaman 1 — — PERUBAHAN WUJUD
 
 Zat dapat berubah antara padat, cair, dan gas ketika energi berpindah. Melebur, membeku, menguap, mengembun, dan menyublim merupakan perubahan wujud. Selama perubahan fase zat murni pada tekanan tetap, suhu dapat tetap sementara energi digunakan untuk mengubah susunan dan interaksi partikel.
 
@@ -387,7 +387,7 @@ Kalor laten menyatakan energi per satuan massa yang terlibat dalam perubahan fas
 
 Tekanan memengaruhi titik didih dan titik lebur. Karena itu, suhu perubahan fase tidak selalu sama pada semua kondisi. Diagram fase merangkum keadaan zat pada kombinasi suhu dan tekanan.
 
-BAB 35 — HUKUM TERMODINAMIKA
+Pendalaman 1 — — HUKUM TERMODINAMIKA
 
 Termodinamika mempelajari hubungan kalor, usaha, suhu, dan energi internal. Hukum pertama termodinamika menyatakan perubahan energi internal sistem sama dengan kalor yang diterima sistem dikurangi usaha yang dilakukan sistem, menurut konvensi tanda yang digunakan.
 
@@ -397,7 +397,7 @@ Mesin pendingin memindahkan kalor dari ruang lebih dingin ke lingkungan lebih ha
 
 BAGIAN VI — GETARAN, GELOMBANG, DAN BUNYI
 
-BAB 36 — GETARAN HARMONIK
+Pendalaman 1 — — GETARAN HARMONIK
 
 Getaran adalah gerak bolak-balik di sekitar posisi keseimbangan. Periode T adalah waktu untuk satu siklus dan frekuensi f adalah jumlah siklus per sekon. Hubungannya f = 1/T. Satuan frekuensi adalah hertz.
 
@@ -405,7 +405,7 @@ Gerak harmonik sederhana merupakan model ketika gaya pemulih sebanding dengan si
 
 Energi dalam osilator ideal berganti antara energi kinetik dan potensial. Pada sistem nyata, gesekan dan hambatan menyebabkan amplitudo berkurang; keadaan ini disebut redaman. Gaya luar periodik dapat mempertahankan atau memperbesar respons pada kondisi tertentu.
 
-BAB 37 — SIFAT DAN PERSAMAAN GELOMBANG
+Pendalaman 1 — — SIFAT DAN PERSAMAAN GELOMBANG
 
 Gelombang adalah gangguan yang merambat dan membawa energi serta informasi. Gelombang mekanik memerlukan medium, seperti bunyi dan gelombang pada tali. Gelombang elektromagnetik dapat merambat di ruang hampa, seperti cahaya dan gelombang radio.
 
@@ -413,7 +413,7 @@ Panjang gelombang λ adalah jarak antara dua titik berfase sama yang berdekatan.
 
 Gelombang transversal memiliki arah getar tegak lurus arah rambat, sedangkan gelombang longitudinal memiliki arah getar sejajar arah rambat. Gelombang nyata dapat lebih rumit dan terdiri atas gabungan beberapa komponen.
 
-BAB 38 — PEMANTULAN, PEMBIASAN, DIFRAKSI, DAN INTERFERENSI
+Pendalaman 1 — — PEMANTULAN, PEMBIASAN, DIFRAKSI, DAN INTERFERENSI
 
 Pemantulan terjadi ketika gelombang kembali ke medium asal setelah mengenai batas. Pada pemantulan cahaya oleh permukaan ideal, sudut datang sama dengan sudut pantul jika diukur terhadap garis normal. Permukaan kasar menyebarkan cahaya ke banyak arah.
 
@@ -421,7 +421,7 @@ Pembiasan adalah perubahan arah rambat ketika gelombang memasuki medium dengan c
 
 Difraksi adalah penyebaran gelombang ketika melewati celah atau tepi penghalang. Interferensi terjadi ketika gelombang bertumpuk; hasilnya dapat saling menguatkan atau melemahkan bergantung beda fase. Gejala ini menunjukkan sifat gelombang cahaya dan bunyi.
 
-BAB 39 — BUNYI DAN PENERAPANNYA
+Pendalaman 1 — — BUNYI DAN PENERAPANNYA
 
 Bunyi adalah gelombang mekanik yang merambat melalui medium. Di udara, bunyi umumnya berupa gelombang longitudinal. Bunyi tidak merambat di ruang hampa karena tidak ada medium yang meneruskan gangguan mekanik.
 
@@ -431,7 +431,7 @@ Pemantulan bunyi menghasilkan gema dan gaung. Teknologi ultrasonografi menggunak
 
 BAGIAN VII — LISTRIK, MAGNET, DAN CAHAYA
 
-BAB 40 — MUATAN DAN MEDAN LISTRIK
+Pendalaman 1 — — MUATAN DAN MEDAN LISTRIK
 
 Muatan listrik memiliki dua jenis, positif dan negatif. Muatan sejenis saling tolak dan muatan berbeda jenis saling tarik. Muatan total dalam sistem terisolasi kekal. Benda dapat menjadi bermuatan melalui perpindahan elektron.
 
@@ -439,7 +439,7 @@ Hukum Coulomb menggambarkan gaya elektrostatik antara muatan titik. Besarnya ber
 
 Garis medan merupakan cara visual menggambarkan arah medan. Garis keluar dari muatan positif dan masuk ke muatan negatif dalam model sederhana. Gambar garis medan bukan lintasan nyata partikel.
 
-BAB 41 — ARUS, TEGANGAN, DAN HAMBATAN
+Pendalaman 1 — — ARUS, TEGANGAN, DAN HAMBATAN
 
 Arus listrik adalah laju aliran muatan. Satu ampere setara satu coulomb per sekon. Tegangan atau beda potensial adalah energi per satuan muatan antara dua titik. Hambatan mengukur kecenderungan komponen menghambat arus.
 
@@ -447,7 +447,7 @@ Hukum Ohm menyatakan V = IR untuk komponen ohmik pada kondisi fisik yang tetap. 
 
 Arus konvensional didefinisikan searah gerak muatan positif, sedangkan elektron dalam logam bergerak rata-rata berlawanan arah arus konvensional. Perbedaan definisi ini penting ketika membaca diagram rangkaian.
 
-BAB 42 — RANGKAIAN LISTRIK
+Pendalaman 1 — — RANGKAIAN LISTRIK
 
 Rangkaian seri memiliki satu jalur arus; arus sama melalui setiap komponen ideal, sedangkan tegangan terbagi. Rangkaian paralel memiliki cabang; tegangan pada setiap cabang sama, sedangkan arus total terbagi ke cabang-cabang.
 
@@ -455,7 +455,7 @@ Hukum Kirchhoff tentang arus menyatakan jumlah arus masuk simpul sama dengan jum
 
 Rangkaian nyata memiliki hambatan internal sumber, toleransi komponen, dan batas daya. Materi ini untuk memahami konsep dan membaca diagram, bukan instruksi membongkar stopkontak atau menangani jaringan listrik rumah. Pekerjaan listrik dilakukan tenaga kompeten dengan prosedur keselamatan.
 
-BAB 43 — ENERGI DAN DAYA LISTRIK
+Pendalaman 1 — — ENERGI DAN DAYA LISTRIK
 
 Energi listrik yang dipindahkan dapat dihitung dari E = VIt untuk kondisi tegangan dan arus konstan. Daya listrik P = VI. Pada resistor ohmik, bentuk lain adalah P = I²R atau P = V²/R.
 
@@ -463,7 +463,7 @@ Pemakaian energi rumah biasanya dicatat dalam kilowatt-jam (kWh), yaitu energi d
 
 Efisiensi perangkat dipengaruhi desain, beban, dan kondisi operasi. Label energi membantu konsumen membandingkan perangkat berdasarkan prosedur uji yang ditentukan. Perbandingan perlu memperhatikan ukuran, fungsi, dan pola penggunaan, bukan angka label saja.
 
-BAB 44 — MAGNET DAN INDUKSI ELEKTROMAGNETIK
+Pendalaman 1 — — MAGNET DAN INDUKSI ELEKTROMAGNETIK
 
 Magnet memiliki kutub utara dan selatan. Kutub sejenis tolak-menolak dan kutub berbeda tarik-menarik. Medan magnet dapat digambarkan dengan garis yang membentuk lintasan tertutup. Kompas merespons medan magnet di sekitarnya.
 
@@ -471,7 +471,7 @@ Arus listrik menghasilkan medan magnet. Perubahan fluks magnet melalui rangkaian
 
 Generator mengubah energi mekanik menjadi energi listrik melalui induksi. Motor listrik mengubah energi listrik menjadi gerak melalui interaksi medan magnet dan arus. Perangkat nyata memiliki rugi-rugi dan batas operasi.
 
-BAB 45 — CAHAYA, CERMIN, DAN LENSA
+Pendalaman 1 — — CAHAYA, CERMIN, DAN LENSA
 
 Cahaya adalah gelombang elektromagnetik yang juga menunjukkan sifat partikel dalam fenomena tertentu. Dalam optika geometris, cahaya dimodelkan sebagai sinar yang merambat lurus pada medium homogen. Model ini memudahkan analisis cermin dan lensa.
 
@@ -483,7 +483,7 @@ Mata manusia memiliki lensa yang memfokuskan cahaya ke retina. Kacamata membantu
 
 BAGIAN VIII — FISIKA DALAM PENELITIAN DAN KEHIDUPAN
 
-BAB 46 — MODEL, DATA, DAN PENALARAN ILMIAH
+Pendalaman 1 — — MODEL, DATA, DAN PENALARAN ILMIAH
 
 Model fisika adalah representasi sederhana dari sistem nyata. Model benda titik mengabaikan ukuran benda; bidang licin mengabaikan gesekan; tali ideal mengabaikan massa dan elastisitas. Penyederhanaan membuat perhitungan mungkin, tetapi harus disebutkan agar hasil tidak dianggap berlaku tanpa batas.
 
@@ -491,7 +491,7 @@ Data pengukuran perlu disimpan bersama satuan, waktu, metode, alat, dan kondisi 
 
 Prediksi model dibandingkan dengan hasil pengamatan. Jika tidak cocok, periksa kualitas data, kalibrasi, asumsi, dan persamaan yang digunakan. Jangan menghapus hasil yang tidak sesuai hanya agar mendukung dugaan awal.
 
-BAB 47 — KESELAMATAN, ETIKA, DAN KOMUNIKASI SAINS
+Pendalaman 1 — — KESELAMATAN, ETIKA, DAN KOMUNIKASI SAINS
 
 Kegiatan fisika yang baik mengutamakan keselamatan. Jangan menguji kendaraan, mengangkat beban berat, membongkar instalasi listrik, memanaskan wadah tertutup, atau membuat sistem bertekanan. Demonstrasi sekolah harus menggunakan alat yang sesuai dan pengawasan guru.
 
@@ -499,7 +499,7 @@ Etika ilmiah menuntut pencatatan data jujur, pengakuan keterbatasan, serta pemis
 
 Komunikasi sains yang jelas menyebut pertanyaan, metode, hasil, ketidakpastian, dan keterbatasan. Grafik harus memiliki judul, label sumbu, satuan, dan keterangan. Hindari skala yang menyesatkan atau pemilihan data secara sepihak.
 
-BAB 48 — PROYEK AUDIT ENERGI DAN GERAK DI LINGKUNGAN
+Pendalaman 1 — — PROYEK AUDIT ENERGI DAN GERAK DI LINGKUNGAN
 
 Proyek pembelajaran dapat dimulai dengan mengamati penggunaan energi di ruang kelas tanpa menyentuh instalasi listrik. Catat jenis perangkat, label daya yang terlihat, lama penggunaan berdasarkan pengamatan, dan kondisi ruang. Jangan membuka perangkat atau mengukur bagian bertegangan.
 
@@ -507,7 +507,7 @@ Perkiraan energi dapat dihitung dari daya tertera dikalikan waktu penggunaan, de
 
 Proyek gerak dapat menggunakan data publik atau simulasi aman untuk membuat grafik posisi-waktu dan kecepatan-waktu. Tentukan variabel, satuan, rentang waktu, dan keterbatasan data. Sajikan hasil dalam laporan singkat yang dapat diperiksa orang lain.
 
-BAB 49 — STRATEGI MENYELESAIKAN MASALAH FISIKA
+Pendalaman 1 — — STRATEGI MENYELESAIKAN MASALAH FISIKA
 
 Mulailah dengan membaca soal dan menggambar situasi. Tentukan objek atau sistem yang dianalisis. Tuliskan besaran diketahui dan ditanyakan, lengkap dengan satuan. Pilih sistem koordinat yang memudahkan.
 
@@ -515,7 +515,7 @@ Pilih prinsip fisika berdasarkan kondisi, bukan karena rumus terlihat familiar. 
 
 Selesaikan secara simbolik jika memungkinkan, kemudian masukkan angka. Periksa satuan, tanda, orde besaran, dan apakah hasil sesuai kondisi. Tulis asumsi dan jangan menyembunyikan langkah yang menentukan hasil.
 
-BAB 50 — FISIKA MODERN SECARA SINGKAT
+Pendalaman 1 — — FISIKA MODERN SECARA SINGKAT
 
 Fisika klasik sangat berhasil menjelaskan banyak fenomena sehari-hari, tetapi tidak cukup untuk semua kondisi. Relativitas diperlukan untuk memahami ruang-waktu dan gerak pada kecepatan sangat tinggi. Mekanika kuantum menjelaskan perilaku materi dan cahaya pada skala atom dan subatom.
 

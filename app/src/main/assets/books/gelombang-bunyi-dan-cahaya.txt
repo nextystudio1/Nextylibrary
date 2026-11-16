@@ -49,7 +49,6 @@ BAB 6. SPEKTRUM DAN TEKNOLOGI
 Cahaya tampak merupakan bagian kecil dari spektrum elektromagnetik. Gelombang radio, inframerah, ultraviolet, sinar-X, dan gamma memiliki rentang frekuensi serta kegunaan berbeda. Pemanfaatannya harus memperhatikan keselamatan dan karakter masing-masing jenis radiasi.
 
 EVALUASI AKHIR
-EVALUASI AKHIR
 1. Hitung frekuensi jika diketahui periode gelombang dan jelaskan hubungan keduanya.
 2. Bedakan gelombang transversal dan longitudinal.
 3. Jelaskan mengapa bunyi memerlukan medium untuk merambat, sedangkan cahaya dapat merambat di ruang hampa.

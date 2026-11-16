@@ -211,3 +211,28 @@ LATIHAN AKHIR
 3. Susun urutan prioritas pengelolaan sampah dari pencegahan hingga pembuangan.
 4. Jelaskan tiga unsur kerentanan iklim.
 5. Rancang indikator untuk memantau pemulihan kawasan sungai.
+
+BAB 11. POPULASI, KEPADATAN, DAN RUANG HIDUP
+Ekologi manusia mempelajari hubungan manusia dengan lingkungan alam dan lingkungan buatan. Kepadatan penduduk dapat memengaruhi kebutuhan air, energi, pangan, perumahan, dan transportasi, tetapi dampaknya bergantung pada pola konsumsi, teknologi, tata kelola, dan distribusi sumber daya. Angka kepadatan saja tidak cukup untuk menjelaskan kualitas hidup. Analisis perlu melihat akses layanan, kondisi lingkungan, dan ketimpangan antarwilayah.
+
+BAB 12. KOTA, MOBILITAS, DAN KESEHATAN LINGKUNGAN
+Desain kota memengaruhi cara orang bergerak, mengakses ruang hijau, dan memperoleh layanan. Transportasi yang aman dan terjangkau dapat mengurangi hambatan mobilitas. Polusi udara, kebisingan, panas perkotaan, serta kurangnya ruang terbuka dapat memengaruhi kenyamanan dan kesehatan. Perencanaan perlu melibatkan warga dengan kebutuhan yang beragam, termasuk anak, lansia, dan penyandang disabilitas.
+
+BAB 13. KONSUMSI, LIMBAH, DAN JEJAK EKOLOGIS
+Pola konsumsi berkaitan dengan penggunaan bahan, energi, air, dan lahan. Jejak ekologis merupakan salah satu pendekatan untuk membandingkan permintaan manusia terhadap kapasitas ekosistem, tetapi memiliki asumsi dan keterbatasan. Pengurangan limbah membutuhkan desain produk, sistem pengumpulan, fasilitas pengolahan, dan kebiasaan yang didukung infrastruktur. Tanggung jawab tidak dapat dibebankan hanya kepada konsumen.
+
+BAB 14. KERENTANAN DAN KETAHANAN KOMUNITAS
+Kerentanan dipengaruhi paparan bahaya, sensitivitas, dan kapasitas untuk merespons. Dua komunitas yang menghadapi banjir sama dapat mengalami dampak berbeda karena kualitas rumah, akses informasi, tabungan, layanan kesehatan, dan dukungan sosial. Ketahanan komunitas dibangun melalui jaringan bantuan, infrastruktur, pengetahuan lokal, dan tata kelola yang dapat dipercaya. Program perlu menghindari pemindahan risiko kepada kelompok yang lebih lemah.
+
+BAB 15. PENELITIAN EKOLOGI MANUSIA
+Penelitian dapat menggabungkan pengamatan lapangan, peta, data statistik, wawancara, dan survei. Metode harus sesuai pertanyaan dan memperhatikan persetujuan, privasi, serta keamanan peserta. Data kuantitatif menunjukkan pola, sedangkan wawancara dapat menjelaskan pengalaman dan makna. Keduanya saling melengkapi, tetapi tidak boleh digabung tanpa menjelaskan perbedaan cara pengumpulan dan batas kesimpulan.
+
+PROYEK
+Petakan satu persoalan lingkungan di lingkungan tempat tinggal, seperti akses ruang hijau atau pengelolaan sampah. Amati kondisi umum tanpa mengumpulkan data pribadi. Identifikasi pihak terdampak, faktor penyebab, dan pilihan perbaikan yang dapat dibahas bersama warga.
+
+LATIHAN
+1. Mengapa kepadatan penduduk tidak cukup untuk menilai kualitas hidup?
+2. Sebutkan tiga faktor yang membentuk mobilitas perkotaan.
+3. Jelaskan mengapa pengurangan limbah perlu dukungan sistem.
+4. Bedakan paparan dan kerentanan.
+5. Apa prinsip etika saat melakukan wawancara komunitas?

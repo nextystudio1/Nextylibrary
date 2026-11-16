@@ -450,3 +450,24 @@ Bandingkan dua material kemasan berdasarkan fungsi, ketahanan, penggunaan ulang,
 
 RANGKUMAN
 Polimer menyediakan material dengan sifat beragam. Pemilihan dan pengelolaannya perlu mempertimbangkan struktur, fungsi, keamanan, serta dampak sepanjang siklus hidup.
+
+BAB REAKSI REDOKS DAN KIMIA LINGKUNGAN
+Reaksi oksidasi-reduksi melibatkan perpindahan elektron atau perubahan bilangan oksidasi. Oksidasi berarti kenaikan bilangan oksidasi, sedangkan reduksi berarti penurunan. Kedua proses selalu berlangsung berpasangan karena elektron yang dilepas suatu zat diterima zat lain. Konsep ini menjelaskan kerja baterai, korosi, pemutihan, dan proses metabolisme.
+
+SEL ELEKTROKIMIA
+Sel volta mengubah energi kimia reaksi spontan menjadi energi listrik. Sel elektrolisis menggunakan energi listrik untuk mendorong reaksi yang tidak spontan. Elektroda tempat oksidasi disebut anode dan tempat reduksi disebut katode. Tanda muatan elektroda bergantung jenis sel, sehingga istilah anode dan katode lebih aman diingat melalui jenis reaksinya.
+
+KOROSI DAN PENCEGAHAN
+Korosi adalah kerusakan material akibat reaksi dengan lingkungan. Pada besi, air dan oksigen berperan dalam pembentukan karat. Pencegahan dapat dilakukan dengan pelapisan, pemilihan bahan tahan korosi, pengendalian kelembapan, atau perlindungan elektrokimia pada sistem yang dirancang ahli. Pilihan metode bergantung lingkungan dan biaya pemeliharaan.
+
+KIMIA AIR
+Kualitas air dapat dinilai melalui parameter fisika, kimia, dan biologi. pH menunjukkan tingkat keasaman, sedangkan oksigen terlarut membantu menggambarkan kondisi bagi organisme air. Kekeruhan, zat terlarut, dan kontaminan tertentu memerlukan metode pengukuran berbeda. Satu parameter saja tidak cukup untuk menyatakan air aman diminum; pengujian harus mengikuti standar dan dilakukan laboratorium berwenang.
+
+KIMIA HIJAU
+Kimia hijau berupaya merancang produk dan proses yang mengurangi penggunaan serta pembentukan zat berbahaya. Prinsipnya meliputi pencegahan limbah, efisiensi atom, pelarut lebih aman, penggunaan energi yang efisien, dan bahan baku terbarukan jika sesuai. Penilaian tetap perlu melihat seluruh siklus hidup agar dampak tidak sekadar berpindah ke tahap lain.
+
+LATIHAN
+Buat tabel perbandingan baterai, korosi besi, dan pengolahan air berdasarkan reaksi kimia yang terlibat. Gunakan sumber pendidikan tepercaya dan jelaskan batas pengetahuan dari model sederhana.
+
+RANGKUMAN
+Redoks menghubungkan reaksi kimia dengan listrik dan lingkungan. Pemahaman kualitas air dan kimia hijau membantu menilai teknologi secara bertanggung jawab.

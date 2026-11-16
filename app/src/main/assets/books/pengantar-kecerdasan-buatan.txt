@@ -373,3 +373,24 @@ Gunakan contoh data fiktif klasifikasi email penting dan tidak penting. Buat mat
 
 RANGKUMAN
 Pembelajaran mesin membutuhkan pembagian data yang benar, evaluasi sesuai tujuan, dan pemeriksaan bias. Nilai metrik tidak cukup tanpa memahami dampak kesalahan.
+
+BAB SISTEM AI, DATA, DAN PENERAPAN
+Sistem kecerdasan buatan umumnya terdiri dari data masukan, model, proses inferensi, dan keluaran yang digunakan manusia atau sistem lain. Dalam penerapan nyata, kualitas hasil juga dipengaruhi perangkat, antarmuka, pembaruan, dan kondisi penggunaan. Model yang baik pada uji laboratorium belum tentu bekerja sama baiknya di lingkungan berbeda.
+
+SIKLUS HIDUP PROYEK AI
+Proyek AI dimulai dari perumusan masalah, pengumpulan data yang sah, pembersihan data, pemilihan pendekatan, pelatihan, evaluasi, penerapan, dan pemantauan. Tujuan harus didefinisikan sebelum memilih model. Jika masalah sebenarnya dapat diselesaikan dengan aturan sederhana, AI mungkin menambah biaya dan kerumitan tanpa manfaat sepadan.
+
+DATA BERLABEL DAN KUALITAS
+Data perlu relevan dengan konteks penggunaan, cukup mewakili variasi, dan memiliki label yang konsisten. Kesalahan label dapat membatasi kinerja model. Data pribadi memerlukan dasar pemrosesan dan perlindungan sesuai aturan. Data yang dikumpulkan untuk satu tujuan belum tentu layak digunakan untuk tujuan lain.
+
+PEMANTAUAN SETELAH PENERAPAN
+Pola data dapat berubah seiring waktu, misalnya karena perilaku pengguna, musim, atau kondisi pasar. Perubahan ini disebut pergeseran data dan dapat menurunkan kualitas prediksi. Sistem perlu dipantau dengan indikator, mekanisme pelaporan kesalahan, dan proses peninjauan manusia. Keputusan berdampak tinggi tidak seharusnya diserahkan tanpa pengawasan yang sesuai.
+
+AKSESIBILITAS DAN DAMPAK SOSIAL
+AI dapat membantu penerjemahan, pembaca layar, dan pengolahan informasi, tetapi dapat pula memperkuat ketimpangan jika hanya cocok untuk bahasa atau kelompok tertentu. Evaluasi harus melibatkan pengguna yang terdampak dan menyediakan cara mengajukan keberatan atau koreksi.
+
+LATIHAN
+Rancang konsep alat bantu belajar berbasis AI. Tentukan masalah, data minimum yang dibutuhkan, risiko privasi, cara mengukur keberhasilan, dan kapan guru perlu memeriksa hasil.
+
+RANGKUMAN
+AI adalah bagian dari sistem sosial dan teknis yang lebih luas. Perancangan, data, pemantauan, aksesibilitas, dan pengawasan manusia sama pentingnya dengan model.

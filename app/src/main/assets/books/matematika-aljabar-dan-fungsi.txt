@@ -367,3 +367,24 @@ Buat masalah fiktif tentang dua jenis tiket dengan jumlah tiket dan total harga 
 
 RANGKUMAN
 Persamaan kuadrat dan sistem persamaan membantu memodelkan hubungan serta menyelesaikan masalah. Hasil harus diperiksa melalui substitusi, grafik, dan interpretasi konteks.
+
+BAB LIMIT DAN KONTINUITAS
+Limit menggambarkan nilai yang didekati fungsi ketika variabel mendekati suatu titik. Nilai limit tidak selalu sama dengan nilai fungsi di titik tersebut. Limit membantu memahami perilaku grafik di sekitar titik, termasuk ketika fungsi tidak terdefinisi tepat pada titik itu.
+
+LIMIT KIRI DAN KANAN
+Limit dua sisi ada jika limit dari kiri dan kanan sama. Jika keduanya berbeda, limit dua sisi tidak ada. Pada grafik, periksa arah pendekatan dari kedua sisi, bukan hanya titik yang digambar. Tabel nilai dapat membantu, tetapi pemilihan nilai harus cukup dekat dan tidak boleh menggantikan penalaran.
+
+KONTINUITAS
+Fungsi kontinu di suatu titik jika nilai fungsi terdefinisi, limitnya ada, dan keduanya sama. Diskontinuitas dapat berupa lubang, loncatan, atau perilaku tak terbatas. Konsep kontinuitas digunakan dalam pemodelan gerak, perubahan suhu, dan hubungan kuantitatif lain.
+
+TURUNAN SEBAGAI LAJU PERUBAHAN
+Turunan mengukur laju perubahan sesaat. Secara geometri, turunan merupakan kemiringan garis singgung grafik. Jika posisi dinyatakan sebagai fungsi waktu, turunannya adalah kecepatan sesaat. Turunan kedua menggambarkan perubahan kecepatan atau percepatan dalam model gerak satu dimensi.
+
+APLIKASI OPTIMASI
+Turunan dapat membantu mencari titik maksimum atau minimum fungsi. Titik stasioner terjadi ketika turunan pertama nol atau tidak terdefinisi, tetapi tidak semua titik stasioner merupakan maksimum atau minimum. Periksa perubahan tanda turunan, turunan kedua, serta batas domain. Model harus memiliki satuan dan asumsi yang masuk akal.
+
+LATIHAN
+Gunakan fungsi kuadrat sederhana untuk menentukan titik puncak melalui turunan dan bandingkan dengan metode melengkapkan kuadrat. Jelaskan mengapa dua metode memberi hasil yang sama.
+
+RANGKUMAN
+Limit, kontinuitas, dan turunan menjelaskan perilaku fungsi serta laju perubahan. Konsep ini menjadi dasar kalkulus dan pemodelan sains.

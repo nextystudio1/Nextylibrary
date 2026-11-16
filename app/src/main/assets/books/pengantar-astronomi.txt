@@ -307,3 +307,21 @@ Buat bagan skala jarak dari Bumi, tata surya, Bima Sakti, hingga galaksi jauh. T
 
 RANGKUMAN
 Galaksi dan kosmologi mengkaji struktur terbesar alam semesta. Jarak, spektrum, gravitasi, dan model teoretis saling melengkapi untuk menjelaskan bukti pengamatan.
+
+BAB BINTANG DAN EVOLUSI STELLAR
+Bintang terbentuk dari awan gas dan debu yang runtuh karena gravitasi. Ketika bagian pusat menjadi cukup panas dan rapat, fusi nuklir dapat dimulai. Tekanan dari energi yang dihasilkan membantu menyeimbangkan tarikan gravitasi. Keseimbangan ini berubah selama komposisi inti bintang berkembang.
+
+MASSA MENENTUKAN JALUR EVOLUSI
+Massa awal merupakan salah satu faktor utama yang menentukan umur dan akhir kehidupan bintang. Bintang bermassa rendah hingga menengah dapat berkembang menjadi raksasa merah, melepaskan lapisan luar, lalu menyisakan katai putih. Bintang bermassa jauh lebih besar dapat mengalami tahap superraksasa dan mengakhiri evolusinya melalui ledakan supernova, menyisakan bintang neutron atau lubang hitam pada kondisi tertentu.
+
+DIAGRAM HERTZSPRUNG-RUSSELL
+Diagram Hertzsprung-Russell membandingkan luminositas dengan suhu permukaan atau warna bintang. Banyak bintang berada pada deret utama, tempat berlangsungnya fusi hidrogen di inti. Posisi bintang pada diagram membantu astronom memperkirakan tahap evolusinya. Diagram tersebut merupakan alat interpretasi populasi bintang, bukan foto langsung struktur internal.
+
+FUSI DAN PEMBENTUKAN UNSUR
+Fusi di dalam bintang mengubah inti atom ringan menjadi inti lebih berat dan melepaskan energi. Proses nukleosintesis bintang membentuk banyak unsur, sementara unsur berat tertentu terbentuk melalui peristiwa astrofisika lain. Materi yang dilepaskan bintang memperkaya awan antarbintang dan menjadi bahan bagi generasi bintang serta planet berikutnya.
+
+LATIHAN
+Bandingkan jalur evolusi bintang bermassa rendah dan bermassa besar dalam diagram alur. Tandai tahap yang menghasilkan katai putih, bintang neutron, atau lubang hitam, dan beri catatan bahwa hasil akhir bergantung massa serta proses kehilangan massa.
+
+RANGKUMAN
+Bintang berubah sepanjang hidupnya karena keseimbangan gravitasi dan tekanan energi. Evolusi bintang juga membentuk dan menyebarkan unsur yang menjadi bahan planet.

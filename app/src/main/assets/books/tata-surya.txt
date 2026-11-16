@@ -348,3 +348,21 @@ Bandingkan metode transit dan kecepatan radial dalam tabel: sinyal yang diukur, 
 
 RANGKUMAN
 Eksoplanet dipelajari melalui perubahan cahaya dan spektrum bintang. Menilai kelayakhunian membutuhkan lebih banyak informasi daripada jarak planet dari bintangnya.
+
+BAB BULAN DAN DINAMIKA BUMI-BULAN
+Bulan adalah satelit alami Bumi dan menunjukkan fase karena geometri posisi Matahari, Bumi, dan Bulan. Fase Bulan bukan disebabkan bayangan Bumi, kecuali pada peristiwa gerhana Bulan. Periode rotasi Bulan hampir sama dengan periode orbitnya sehingga sisi yang sama umumnya menghadap Bumi.
+
+GERHANA
+Gerhana Matahari terjadi ketika Bulan berada di antara Bumi dan Matahari sehingga bayangannya jatuh ke sebagian wilayah Bumi. Gerhana Bulan terjadi ketika Bulan memasuki bayangan Bumi. Gerhana tidak terjadi setiap bulan karena bidang orbit Bulan miring terhadap bidang orbit Bumi mengelilingi Matahari.
+
+PASANG SURUT
+Gaya gravitasi Bulan dan Matahari serta gerak sistem Bumi-Bulan menghasilkan pasang surut. Banyak wilayah mengalami dua pasang dan dua surut dalam satu hari lunar, tetapi bentuk garis pantai, kedalaman laut, dan bentuk teluk memengaruhi pola lokal. Pasang purnama dan perbani berbeda karena konfigurasi relatif Matahari, Bumi, dan Bulan.
+
+ORBIT DAN HUKUM KEPLER
+Orbit planet dan satelit dapat dijelaskan melalui hukum Kepler. Orbit elips memiliki benda pusat pada salah satu fokus. Luas yang disapu garis penghubung benda dan pusat dalam waktu sama adalah sama, dan kuadrat periode orbit berbanding dengan pangkat tiga sumbu semi-mayor untuk sistem yang sesuai. Hukum ini menjadi dasar untuk memahami gerak planet dan satelit.
+
+LATIHAN
+Buat diagram posisi Matahari, Bumi, dan Bulan untuk fase baru, purnama, kuartal pertama, dan kuartal akhir. Tandai arah cahaya Matahari serta jelaskan mengapa fase berbeda.
+
+RANGKUMAN
+Bulan memengaruhi pengamatan langit dan pasang surut melalui orbit serta gravitasi. Geometri sistem menjelaskan fase dan gerhana.

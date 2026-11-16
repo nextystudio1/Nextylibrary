@@ -352,3 +352,24 @@ Rancang tiga pertanyaan wawancara fiktif tentang kebiasaan membaca di perpustaka
 
 RANGKUMAN
 Wawancara dan observasi memberi pemahaman mendalam jika dilakukan secara sistematis dan etis. Catatan yang jujur memisahkan bukti dari interpretasi.
+
+BAB MEMERIKSA FOTO, VIDEO, DAN KLAIM VIRAL
+Konten visual dapat dipotong, diberi keterangan keliru, atau digunakan kembali dari peristiwa berbeda. Pemeriksaan dimulai dengan memisahkan apa yang benar-benar tampak dari klaim yang menyertainya. Tanyakan siapa pengunggah awal, kapan konten muncul, lokasi yang diklaim, dan apakah sumber independen mendukungnya.
+
+PENCARIAN SUMBER ASLI
+Telusuri frasa khas dalam keterangan, cari unggahan paling awal yang dapat ditemukan, dan bandingkan versi lain. Pencarian gambar terbalik dapat membantu menemukan kemunculan sebelumnya, tetapi hasilnya bukan bukti otomatis bahwa gambar benar atau salah. Perhatikan tanggal publikasi dan konteks.
+
+MEMERIKSA VIDEO
+Video dapat kehilangan konteks ketika hanya satu bagian pendek yang dibagikan. Periksa potongan sebelum dan sesudahnya jika tersedia, suara, papan nama, cuaca, dan detail tempat. Jangan menyimpulkan lokasi hanya dari satu objek yang mirip. Metadata dapat membantu, tetapi sering hilang saat file dibagikan ulang.
+
+KLAIM ANGKA DAN GRAFIK
+Periksa sumber data, definisi, periode, populasi, dan satuan. Grafik dengan sumbu terpotong dapat membesar-besarkan perubahan. Persentase harus dibedakan dari jumlah absolut. Perbandingan antarnegara atau antartahun memerlukan definisi yang sebanding.
+
+TANGGUNG JAWAB SAAT BELUM PASTI
+Jika bukti belum cukup, tunda berbagi dan nyatakan bahwa informasi belum terverifikasi. Koreksi perlu menyertakan sumber dan menjelaskan kesalahan tanpa mempermalukan orang. Hindari menyebarkan ulang konten berbahaya hanya untuk membantahnya.
+
+LATIHAN
+Pilih klaim publik yang tidak sensitif dan periksa dengan dua sumber independen. Buat catatan klaim, bukti pendukung, bukti yang bertentangan, dan tingkat kepastian. Jangan menghubungi atau menargetkan individu dalam latihan.
+
+RANGKUMAN
+Verifikasi visual dan klaim viral memerlukan konteks, sumber asli, serta pemeriksaan data. Sikap menunda berbagi ketika belum pasti merupakan bagian penting literasi media.

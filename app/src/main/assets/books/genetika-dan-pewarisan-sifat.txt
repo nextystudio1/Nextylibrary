@@ -171,3 +171,26 @@ Genotipe: susunan alel suatu individu.
 Kromosom: struktur pengemasan DNA dan protein.
 Mutasi: perubahan materi genetik.
 Rekombinasi: pembentukan kombinasi materi genetik baru.
+
+BAB LANJUTAN: GENETIKA DALAM KEHIDUPAN DAN PENELITIAN
+
+1. DNA, gen, dan ekspresi
+DNA menyimpan informasi biologis dalam urutan nukleotida. Gen merupakan bagian DNA yang berkontribusi pada produk fungsional, sedangkan ekspresi gen melibatkan proses penggunaan informasi tersebut. Tidak semua bagian genom mengode protein, dan pengaturan ekspresi dapat terjadi pada banyak tahap. Karena itu, hubungan gen dengan sifat tidak selalu sederhana.
+
+2. Pewarisan sifat dan variasi
+Sifat dapat dipengaruhi satu gen, banyak gen, lingkungan, atau interaksi keduanya. Pola dominan-resesif merupakan model dasar yang berguna untuk kasus tertentu, tetapi tidak menjelaskan semua sifat manusia maupun organisme lain. Diagram silsilah membantu menyusun dugaan pola pewarisan, namun kesimpulan harus mempertimbangkan ukuran keluarga dan informasi yang tersedia.
+
+3. Mutasi dan rekombinasi
+Mutasi adalah perubahan materi genetik. Dampaknya dapat netral, merugikan, atau dalam kondisi tertentu menguntungkan bagi kelangsungan suatu populasi. Rekombinasi menghasilkan kombinasi alel baru. Keduanya berkontribusi terhadap variasi genetik yang menjadi bahan bagi proses evolusi.
+
+4. Genetika populasi
+Frekuensi alel dapat berubah karena seleksi alam, aliran gen, mutasi, dan hanyutan genetik. Populasi kecil lebih rentan terhadap perubahan acak frekuensi alel. Model matematika sederhana membantu memahami asumsi, tetapi populasi nyata sering dipengaruhi banyak faktor sekaligus.
+
+5. Lingkungan dan epigenetika
+Lingkungan dapat memengaruhi aktivitas gen melalui mekanisme pengaturan tertentu. Epigenetika mempelajari perubahan regulasi gen yang tidak mengubah urutan DNA. Hindari menyimpulkan bahwa pengalaman singkat otomatis mengubah gen seseorang atau bahwa semua perubahan epigenetik diwariskan antargenerasi.
+
+6. Etika genetika
+Informasi genetik dapat sangat pribadi. Penggunaan data memerlukan persetujuan, perlindungan identitas, penjelasan keterbatasan, dan kehati-hatian agar hasil tes tidak digunakan untuk diskriminasi. Hasil pemeriksaan juga perlu ditafsirkan oleh tenaga ahli yang sesuai.
+
+LATIHAN
+Sebuah tanaman memiliki dua variasi warna bunga. Susun rancangan persilangan hipotetis, tulis asumsi model, prediksi kemungkinan keturunan, lalu jelaskan mengapa hasil nyata dapat berbeda dari prediksi sederhana.

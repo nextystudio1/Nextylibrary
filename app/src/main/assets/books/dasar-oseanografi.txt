@@ -16,7 +16,7 @@ PENDALAMAN
 Pada LAUT SEBAGAI SISTEM, pisahkan hasil pengamatan dari penjelasan. Tentukan faktor yang diukur, kondisi yang memengaruhinya, serta bukti yang mendukung kesimpulan. Jelaskan batas model atau metode yang digunakan dan data tambahan yang diperlukan.
 
 CONTOH PENERAPAN
-Contoh kajian: pilih kasus sederhana yang berkaitan dengan LAUT SEBAGAI SISTEM dalam bidang Dasar Oseanografi. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
+Gunakan data terbuka suhu permukaan laut dan peta arus dari lembaga ilmiah untuk membandingkan dua wilayah pada waktu yang sama. Perhatikan musim, kedalaman pengukuran, dan resolusi data. Jelaskan mengapa satu peta atau satu tanggal belum cukup untuk menyimpulkan pola laut sepanjang tahun.
 
 KEGIATAN BELAJAR
 1. Jelaskan satu istilah kunci dari LAUT SEBAGAI SISTEM dengan kalimat sendiri.

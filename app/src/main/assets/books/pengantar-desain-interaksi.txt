@@ -1,0 +1,170 @@
+Pengantar Desain Interaksi
+Penulis: Nexty Studio
+Buku pembelajaran orisinal NextyLibrary
+
+DESKRIPSI
+Memahami pengguna, alur tugas, navigasi, aksesibilitas, prototipe, dan evaluasi antarmuka.
+
+PENDAHULUAN
+Materi ini disusun sebagai pengantar untuk membangun pemahaman yang dapat diterapkan. Setiap topik perlu dibaca dengan memperhatikan konteks, bukti, dan batas penjelasan. Gunakan latihan untuk menguji pemahaman, bukan sekadar menghafal istilah.
+
+BAB 1. INTERAKSI MANUSIA DAN TEKNOLOGI
+
+Desain interaksi mempelajari bagaimana orang menggunakan sistem dan bagaimana sistem merespons tindakan mereka. Tujuan utamanya membuat tugas mudah dipahami, dapat diprediksi, dan tidak membebani pengguna. Desain yang baik mempertimbangkan konteks, kemampuan, keterbatasan, serta tujuan pengguna.
+
+PENDALAMAN
+Konsep pada bab ini sebaiknya dipahami melalui hubungan antara definisi, proses, contoh, dan konsekuensi. Definisi membantu menetapkan batas istilah. Proses menjelaskan urutan atau mekanisme. Contoh memperlihatkan penerapan pada konteks tertentu. Konsekuensi menunjukkan hal yang dapat berubah ketika kondisi berbeda. Satu contoh tidak selalu mewakili semua keadaan, sehingga perhatikan faktor pembatas dan kemungkinan pengecualian.
+
+AKTIVITAS PENGAMATAN
+Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+
+LATIHAN
+1. Jelaskan konsep utama tanpa menyalin kalimat buku.
+2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
+3. Berikan satu contoh dan satu contoh pembanding.
+4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
+5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
+
+RANGKUMAN
+- Pahami istilah dan batas penggunaannya.
+- Hubungkan konsep dengan bukti yang relevan.
+- Perhatikan konteks serta kemungkinan penjelasan lain.
+- Sampaikan kesimpulan secara proporsional.
+
+BAB 2. RISET PENGGUNA
+
+Riset pengguna dapat menggunakan wawancara, observasi, survei, dan analisis tugas. Pertanyaan harus netral agar tidak mengarahkan jawaban. Temuan perlu dibedakan dari asumsi perancang. Data pribadi dikumpulkan seperlunya, disimpan dengan aman, dan digunakan sesuai persetujuan.
+
+PENDALAMAN
+Konsep pada bab ini sebaiknya dipahami melalui hubungan antara definisi, proses, contoh, dan konsekuensi. Definisi membantu menetapkan batas istilah. Proses menjelaskan urutan atau mekanisme. Contoh memperlihatkan penerapan pada konteks tertentu. Konsekuensi menunjukkan hal yang dapat berubah ketika kondisi berbeda. Satu contoh tidak selalu mewakili semua keadaan, sehingga perhatikan faktor pembatas dan kemungkinan pengecualian.
+
+AKTIVITAS PENGAMATAN
+Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+
+LATIHAN
+1. Jelaskan konsep utama tanpa menyalin kalimat buku.
+2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
+3. Berikan satu contoh dan satu contoh pembanding.
+4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
+5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
+
+RANGKUMAN
+- Pahami istilah dan batas penggunaannya.
+- Hubungkan konsep dengan bukti yang relevan.
+- Perhatikan konteks serta kemungkinan penjelasan lain.
+- Sampaikan kesimpulan secara proporsional.
+
+BAB 3. ALUR DAN NAVIGASI
+
+Alur tugas menggambarkan langkah yang dilakukan untuk mencapai tujuan. Navigasi yang konsisten membantu pengguna mengetahui posisi dan pilihan berikutnya. Label harus menggunakan bahasa yang dikenal pengguna. Hindari menempatkan tindakan penting pada lokasi yang berubah-ubah atau menggunakan istilah yang tidak jelas.
+
+PENDALAMAN
+Konsep pada bab ini sebaiknya dipahami melalui hubungan antara definisi, proses, contoh, dan konsekuensi. Definisi membantu menetapkan batas istilah. Proses menjelaskan urutan atau mekanisme. Contoh memperlihatkan penerapan pada konteks tertentu. Konsekuensi menunjukkan hal yang dapat berubah ketika kondisi berbeda. Satu contoh tidak selalu mewakili semua keadaan, sehingga perhatikan faktor pembatas dan kemungkinan pengecualian.
+
+AKTIVITAS PENGAMATAN
+Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+
+LATIHAN
+1. Jelaskan konsep utama tanpa menyalin kalimat buku.
+2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
+3. Berikan satu contoh dan satu contoh pembanding.
+4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
+5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
+
+RANGKUMAN
+- Pahami istilah dan batas penggunaannya.
+- Hubungkan konsep dengan bukti yang relevan.
+- Perhatikan konteks serta kemungkinan penjelasan lain.
+- Sampaikan kesimpulan secara proporsional.
+
+BAB 4. UMPAN BALIK DAN PENCEGAHAN KESALAHAN
+
+Sistem perlu memberi tanda ketika tindakan berhasil, gagal, atau sedang diproses. Pesan kesalahan sebaiknya menjelaskan masalah dan cara memperbaikinya. Pencegahan kesalahan dapat dilakukan dengan validasi, konfirmasi untuk tindakan berdampak besar, serta pilihan pembatalan yang wajar.
+
+PENDALAMAN
+Konsep pada bab ini sebaiknya dipahami melalui hubungan antara definisi, proses, contoh, dan konsekuensi. Definisi membantu menetapkan batas istilah. Proses menjelaskan urutan atau mekanisme. Contoh memperlihatkan penerapan pada konteks tertentu. Konsekuensi menunjukkan hal yang dapat berubah ketika kondisi berbeda. Satu contoh tidak selalu mewakili semua keadaan, sehingga perhatikan faktor pembatas dan kemungkinan pengecualian.
+
+AKTIVITAS PENGAMATAN
+Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+
+LATIHAN
+1. Jelaskan konsep utama tanpa menyalin kalimat buku.
+2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
+3. Berikan satu contoh dan satu contoh pembanding.
+4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
+5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
+
+RANGKUMAN
+- Pahami istilah dan batas penggunaannya.
+- Hubungkan konsep dengan bukti yang relevan.
+- Perhatikan konteks serta kemungkinan penjelasan lain.
+- Sampaikan kesimpulan secara proporsional.
+
+BAB 5. AKSESIBILITAS DAN DESAIN INKLUSIF
+
+Antarmuka harus mempertimbangkan ukuran teks, kontras, navigasi papan ketik, pembaca layar, dan cara interaksi alternatif. Warna tidak boleh menjadi satu-satunya penanda. Pengujian dengan pengguna beragam membantu menemukan hambatan yang tidak terlihat oleh tim perancang.
+
+PENDALAMAN
+Konsep pada bab ini sebaiknya dipahami melalui hubungan antara definisi, proses, contoh, dan konsekuensi. Definisi membantu menetapkan batas istilah. Proses menjelaskan urutan atau mekanisme. Contoh memperlihatkan penerapan pada konteks tertentu. Konsekuensi menunjukkan hal yang dapat berubah ketika kondisi berbeda. Satu contoh tidak selalu mewakili semua keadaan, sehingga perhatikan faktor pembatas dan kemungkinan pengecualian.
+
+AKTIVITAS PENGAMATAN
+Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+
+LATIHAN
+1. Jelaskan konsep utama tanpa menyalin kalimat buku.
+2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
+3. Berikan satu contoh dan satu contoh pembanding.
+4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
+5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
+
+RANGKUMAN
+- Pahami istilah dan batas penggunaannya.
+- Hubungkan konsep dengan bukti yang relevan.
+- Perhatikan konteks serta kemungkinan penjelasan lain.
+- Sampaikan kesimpulan secara proporsional.
+
+BAB 6. PROTOTIPE DAN EVALUASI
+
+Prototipe dapat berupa sketsa, wireframe, atau simulasi interaktif. Uji kegunaan mengamati apakah peserta dapat menyelesaikan tugas dan di mana mereka mengalami kesulitan. Catat keberhasilan, waktu, kesalahan, dan komentar tanpa menganggap satu peserta mewakili semua pengguna. Perbaikan dilakukan secara iteratif.
+
+PENDALAMAN
+Konsep pada bab ini sebaiknya dipahami melalui hubungan antara definisi, proses, contoh, dan konsekuensi. Definisi membantu menetapkan batas istilah. Proses menjelaskan urutan atau mekanisme. Contoh memperlihatkan penerapan pada konteks tertentu. Konsekuensi menunjukkan hal yang dapat berubah ketika kondisi berbeda. Satu contoh tidak selalu mewakili semua keadaan, sehingga perhatikan faktor pembatas dan kemungkinan pengecualian.
+
+AKTIVITAS PENGAMATAN
+Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+
+LATIHAN
+1. Jelaskan konsep utama tanpa menyalin kalimat buku.
+2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
+3. Berikan satu contoh dan satu contoh pembanding.
+4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
+5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
+
+RANGKUMAN
+- Pahami istilah dan batas penggunaannya.
+- Hubungkan konsep dengan bukti yang relevan.
+- Perhatikan konteks serta kemungkinan penjelasan lain.
+- Sampaikan kesimpulan secara proporsional.
+
+TUGAS TERPADU
+Buat laporan mini yang menghubungkan sekurang-kurangnya tiga bab. Tentukan tujuan, pertanyaan, metode, sumber informasi, dan batasan. Sajikan temuan secara runtut. Bedakan data yang diamati dari tafsiran. Jika informasi belum cukup, nyatakan dengan jujur dan jelaskan apa yang perlu dikumpulkan berikutnya.
+
+EVALUASI AKHIR
+1. Tuliskan lima konsep inti dan definisinya.
+2. Jelaskan hubungan antara tiga konsep berbeda.
+3. Analisis satu contoh dengan menggunakan bukti.
+4. Bandingkan dua pendekatan atau penjelasan.
+5. Buat kesimpulan dan nyatakan keterbatasannya.
+
+PEDOMAN PENILAIAN
+Periksa ketepatan istilah, kualitas bukti, alur penalaran, relevansi contoh, dan kejelasan bahasa. Jawaban dapat bervariasi jika alasan dan buktinya kuat. Hindari klaim mutlak ketika data hanya mendukung kesimpulan terbatas.
+
+GLOSARIUM
+Wireframe: Kerangka tata letak antarmuka.
+Usabilitas: Tingkat kemudahan sistem digunakan untuk mencapai tujuan.
+Umpan balik: Respons sistem terhadap tindakan pengguna.
+Aksesibilitas: Kemudahan digunakan oleh orang dengan kebutuhan beragam.
+Prototipe: Model awal untuk menguji gagasan.
+
+CATATAN SUMBER
+Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk kajian lanjutan, gunakan sumber primer, buku ajar, standar, dan publikasi lembaga tepercaya. Catat penulis atau lembaga, judul, tahun, dan bagian yang digunakan. Periksa pembaruan informasi pada topik yang berkembang.

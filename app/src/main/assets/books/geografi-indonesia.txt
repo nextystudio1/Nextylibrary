@@ -416,3 +416,58 @@ Sumber daya terbarukan: sumber daya yang dapat pulih jika pemanfaatannya terkend
 Sumber daya tak terbarukan: sumber daya yang terbentuk dalam rentang waktu geologi.
 Mitigasi: upaya mengurangi risiko atau dampak bencana.
 Kesiapsiagaan: tindakan persiapan sebelum keadaan darurat terjadi.
+
+
+BAB PENGAYAAN 1 — POSISI STRATEGIS DAN KONEKTIVITAS INDONESIA
+
+Indonesia terletak di antara Benua Asia dan Australia serta Samudra Hindia dan Pasifik. Posisi ini memengaruhi jalur perdagangan, pelayaran, pertukaran budaya, dan hubungan antarnegara. Wilayah kepulauan membuat laut berperan sebagai penghubung sekaligus tantangan konektivitas. Pelabuhan, jalur kapal, bandara, dan jaringan komunikasi menjadi bagian penting dalam pemerataan layanan.
+
+Kondisi geografis tidak otomatis menghasilkan keuntungan yang sama di setiap daerah. Akses ke pasar, infrastruktur, kualitas sumber daya manusia, dan tata kelola menentukan bagaimana posisi strategis dapat dimanfaatkan. Daerah terpencil dapat menghadapi biaya transportasi tinggi, sementara wilayah pesisir tertentu memiliki peluang ekonomi dari perikanan, pariwisata, dan perdagangan.
+
+BAB PENGAYAAN 2 — TEKTONIK, GUNUNG API, DAN GEMPA
+
+Kepulauan Indonesia berada di wilayah pertemuan beberapa lempeng tektonik. Interaksi lempeng dapat membentuk pegunungan, palung laut, patahan, dan aktivitas vulkanik. Pergerakan lempeng berlangsung sangat lambat dalam skala waktu manusia, tetapi akumulasi tegangan dapat dilepaskan dalam bentuk gempa bumi.
+
+Gunung api terbentuk ketika magma mencapai atau mendekati permukaan. Aktivitas vulkanik dapat membawa risiko seperti aliran piroklastik, lava, abu, dan lahar. Pada saat yang sama, proses vulkanik berperan dalam pembentukan bentang alam dan tanah. Manfaat dan risiko harus dipahami bersama, tanpa mengabaikan keselamatan masyarakat.
+
+Peta bahaya menunjukkan wilayah yang berpotensi terkena dampak, bukan ramalan tepat kapan bencana akan terjadi. Kesiapsiagaan perlu mengikuti informasi resmi, jalur evakuasi, sistem peringatan, dan arahan petugas. Saat terjadi gempa atau aktivitas gunung api, masyarakat harus mengutamakan panduan lembaga kebencanaan dan tidak menyebarkan kabar yang belum diverifikasi.
+
+BAB PENGAYAAN 3 — IKLIM, MUSIM, DAN VARIASI CURAH HUJAN
+
+Iklim Indonesia dipengaruhi posisi tropis, angin muson, bentuk kepulauan, ketinggian, dan kondisi laut. Banyak wilayah mengalami pola musim hujan dan kemarau, tetapi awal dan lamanya musim dapat berbeda antarwilayah serta berubah dari tahun ke tahun. Fenomena iklim skala besar seperti El Niño dan La Niña dapat memengaruhi distribusi curah hujan.
+
+Curah hujan tidak tersebar merata. Pegunungan dapat memaksa udara naik dan menghasilkan hujan orografis, sementara wilayah bayangan hujan dapat lebih kering. Perbedaan ini memengaruhi pertanian, ketersediaan air, ekosistem, dan perencanaan infrastruktur. Informasi iklim perlu dibaca sesuai lokasi dan periode, bukan disamaratakan untuk seluruh Indonesia.
+
+BAB PENGAYAAN 4 — KOTA, DESA, DAN PERUBAHAN PENGGUNAAN LAHAN
+
+Urbanisasi adalah meningkatnya proporsi penduduk yang tinggal di kawasan perkotaan, yang dapat terjadi melalui perpindahan penduduk dan perubahan status wilayah. Kota menyediakan akses pekerjaan, pendidikan, dan layanan, tetapi pertumbuhan yang tidak terencana dapat menimbulkan kemacetan, tekanan perumahan, berkurangnya ruang terbuka, dan peningkatan risiko banjir.
+
+Perubahan penggunaan lahan perlu dilihat melalui peta dan data dari waktu ke waktu. Hutan yang berubah menjadi permukiman, perkebunan, atau infrastruktur dapat memengaruhi aliran air, keanekaragaman hayati, dan suhu lokal. Analisis yang baik membandingkan lokasi, luas perubahan, periode, dan faktor penyebab, bukan hanya melihat satu foto.
+
+BAB PENGAYAAN 5 — PEMETAAN DAN SISTEM INFORMASI GEOGRAFIS
+
+Peta adalah representasi permukaan Bumi yang disederhanakan. Setiap peta memiliki skala, simbol, legenda, orientasi, dan sistem koordinat. Proyeksi peta mengubah permukaan lengkung Bumi menjadi bidang datar sehingga selalu ada bentuk distorsi tertentu, misalnya pada luas, jarak, atau arah. Pilih proyeksi berdasarkan tujuan peta.
+
+Sistem Informasi Geografis (SIG) menggabungkan data lokasi dengan informasi atribut. Contohnya, peta sekolah dapat dilengkapi jumlah siswa, kondisi bangunan, dan jarak ke fasilitas kesehatan. Lapisan data dapat ditumpuk untuk menganalisis keterjangkauan layanan atau wilayah rawan banjir. Kualitas hasil sangat bergantung pada ketelitian koordinat, tanggal data, skala, dan definisi atribut.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa laut penting bagi Indonesia?
+Jawaban: sebagai penghubung antarpulau, jalur perdagangan, sumber daya, dan bagian dari identitas geografis.
+2. Apa hubungan tektonik dengan gempa?
+Jawaban: interaksi lempeng menimbulkan tegangan yang dapat dilepaskan sebagai gempa.
+3. Mengapa musim tidak sama persis di semua daerah?
+Jawaban: dipengaruhi posisi, topografi, angin, laut, dan variasi iklim.
+4. Apa dampak perubahan penggunaan lahan?
+Jawaban: dapat memengaruhi aliran air, suhu, habitat, dan risiko bencana.
+5. Mengapa proyeksi peta menimbulkan distorsi?
+Jawaban: permukaan lengkung tidak dapat dibentangkan ke bidang datar tanpa perubahan ukuran atau bentuk.
+
+GLOSARIUM TAMBAHAN
+Tektonik: proses dan struktur yang berkaitan dengan pergerakan lempeng kerak Bumi.
+Lempeng: bagian besar litosfer yang bergerak relatif terhadap bagian lain.
+Muson: pola angin musiman yang memengaruhi cuaca dan curah hujan.
+Urbanisasi: proses meningkatnya penduduk atau kawasan perkotaan.
+Penggunaan lahan: bentuk pemanfaatan suatu wilayah oleh manusia.
+Proyeksi peta: metode menggambarkan permukaan Bumi pada bidang datar.
+SIG: sistem untuk menyimpan, mengolah, menganalisis, dan menampilkan data geografis.

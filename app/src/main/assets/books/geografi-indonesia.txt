@@ -61,7 +61,6 @@ Kerentanan: kondisi yang membuat kelompok atau wilayah mudah terdampak.
 CATATAN PENULIS
 Data wilayah dan kondisi kebencanaan dapat berubah. Gunakan peta dan informasi resmi terbaru untuk kebutuhan perjalanan, penelitian, atau kesiapsiagaan.
 
-
 PENDALAMAN — RUANG DAN PEMBANGUNAN INDONESIA
 BAB 7 — KEPULAUAN DAN KONEKTIVITAS
 Bentuk kepulauan membuat laut menjadi ruang penghubung sekaligus tantangan. Pelabuhan, jalur pelayaran, penerbangan, dan jaringan komunikasi menghubungkan pusat kegiatan. Jarak tidak hanya diukur dalam kilometer; waktu tempuh, biaya, cuaca, kapasitas transportasi, dan akses layanan ikut menentukan keterjangkauan. Infrastruktur perlu direncanakan dengan mempertimbangkan lingkungan dan kebutuhan masyarakat.
@@ -126,8 +125,6 @@ LATIHAN
 2. Mengapa pengelolaan DAS harus lintas wilayah? Dampak di hulu dapat terjadi di hilir.
 3. Apa tiga unsur dasar risiko bencana? Bahaya, paparan, dan kerentanan.
 4. Mengapa tahun data peta harus diperiksa? Kondisi wilayah berubah seiring waktu.
-
-
 
 BAB LANJUTAN — BENCANA, RISIKO, DAN KETANGGUHAN WILAYAH
 
@@ -416,7 +413,6 @@ Sumber daya terbarukan: sumber daya yang dapat pulih jika pemanfaatannya terkend
 Sumber daya tak terbarukan: sumber daya yang terbentuk dalam rentang waktu geologi.
 Mitigasi: upaya mengurangi risiko atau dampak bencana.
 Kesiapsiagaan: tindakan persiapan sebelum keadaan darurat terjadi.
-
 
 BAB PENGAYAAN 1 — POSISI STRATEGIS DAN KONEKTIVITAS INDONESIA
 

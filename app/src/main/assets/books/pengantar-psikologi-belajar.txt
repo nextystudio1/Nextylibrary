@@ -12,26 +12,25 @@ BAB 1. BELAJAR DAN PERUBAHAN
 
 Belajar adalah proses memperoleh atau mengubah pengetahuan, keterampilan, dan cara memahami sesuatu melalui pengalaman serta latihan. Hasil belajar tidak selalu terlihat seketika. Pengetahuan dapat berkembang melalui latihan, umpan balik, diskusi, dan penerapan pada situasi baru. Kesalahan merupakan informasi tentang bagian yang perlu diperbaiki.
 
-PENDALAMAN
-Belajar melibatkan perubahan pengetahuan atau keterampilan melalui pengalaman dan latihan. Hasil belajar dipengaruhi pengetahuan awal, konteks, kesempatan berlatih, dan umpan balik. Satu teori tidak menjelaskan semua keadaan.
+PENDALAMAN KONSEP
+Belajar dapat diamati melalui perubahan pemahaman dan kemampuan menerapkan konsep. Pisahkan pengetahuan awal, strategi, umpan balik, dan kondisi lingkungan. Satu hasil tidak cukup untuk menyimpulkan bahwa satu metode selalu efektif bagi semua orang.
 
 CONTOH PENERAPAN
-Seorang pelajar mempelajari konsep baru dengan menghubungkannya pada pengetahuan yang telah dimiliki. Setelah membaca, ia mencoba menjelaskan konsep itu tanpa melihat catatan untuk mengetahui bagian yang belum dipahami.
+Pelajar mempelajari konsep, menutup bahan bacaan, lalu menjelaskan kembali dengan kata sendiri. Ia memeriksa penjelasan, mencatat miskonsepsi, dan menjadwalkan latihan ulang.
 
 KEGIATAN BELAJAR
-1. Pilih satu keterampilan yang sedang dipelajari.
-2. Catat pengetahuan awal tentang keterampilan itu.
-3. Tentukan perubahan yang ingin dicapai.
-4. Buat cara sederhana untuk menguji pemahaman.
-5. Refleksikan hasil dan bagian yang perlu diperbaiki.
+1. Rumuskan tujuan yang dapat diamati.
+2. Pilih latihan yang menguji pemahaman.
+3. Jadwalkan pengulangan berjeda.
+4. Gunakan umpan balik spesifik.
+5. Refleksikan faktor lingkungan.
 
 LATIHAN
-1. Bedakan belajar, menghafal, dan memahami.
-2. Mengapa pengetahuan awal dapat membantu sekaligus menimbulkan miskonsepsi?
-3. Buat cara menguji pemahaman tanpa melihat buku.
-4. Jelaskan peran latihan dan umpan balik.
-5. Berikan contoh penerapan belajar pada situasi baru.
-
+1. Bedakan mengingat dan memahami.
+2. Mengapa latihan mengambil kembali informasi berguna?
+3. Berikan contoh umpan balik yang dapat ditindaklanjuti.
+4. Bagaimana beban kognitif dapat dikelola?
+5. Mengapa metode belajar tidak selalu cocok untuk semua orang?
 BAB 2. PERHATIAN DAN BEBAN KOGNITIF
 
 Perhatian membantu memilih informasi yang diproses, tetapi kapasitasnya terbatas. Tugas yang terlalu banyak dilakukan bersamaan dapat meningkatkan beban kognitif dan mengurangi ketelitian. Materi lebih mudah dipahami ketika disusun bertahap, istilah baru dijelaskan, dan contoh diberikan sebelum persoalan yang lebih kompleks.
@@ -125,3 +124,36 @@ LATIHAN
 3. Buat tujuan belajar yang spesifik dan dapat dievaluasi.
 4. Apa ciri umpan balik yang membantu?
 5. Mengapa strategi belajar perlu disesuaikan dengan tugas?
+
+BAB LANJUTAN: PERKEMBANGAN KOGNITIF DAN PENGETAHUAN AWAL
+
+Kemampuan berpikir berkembang melalui interaksi pengalaman, bahasa, lingkungan, dan kematangan. Pengetahuan awal membantu menafsirkan informasi baru, tetapi miskonsepsi juga dapat bertahan jika tidak diperiksa. Pengajar dapat menggali pemahaman awal melalui pertanyaan terbuka, peta konsep, atau prediksi sebelum menjelaskan materi.
+
+Beban kognitif berkaitan dengan tuntutan pada memori kerja yang kapasitasnya terbatas. Materi kompleks lebih mudah dipelajari ketika unsur penting disusun bertahap, istilah baru dijelaskan, dan contoh kerja ditampilkan sebelum latihan mandiri.
+
+BAB LANJUTAN: PEMBELAJARAN SOSIAL DAN BAHASA
+
+Diskusi, penjelasan teman sebaya, pemodelan, dan kolaborasi dapat membantu pelajar melihat cara berpikir berbeda. Agar bermanfaat, tugas dan peran perlu jelas serta setiap anggota mendapat kesempatan berkontribusi. Bahasa membantu menyusun dan mengomunikasikan pemikiran; meminta pelajar menjelaskan alasan dan memberi contoh dapat memperlihatkan pemahaman yang tidak terlihat dari jawaban singkat.
+
+BAB LANJUTAN: MEMORI DAN PENGAMBILAN KEMBALI
+
+Ingatan bukan rekaman sempurna. Informasi dapat berubah ketika dipanggil kembali dan dipengaruhi konteks serta pengetahuan baru. Latihan mengambil kembali informasi tanpa melihat catatan menguji kemampuan mengakses materi. Setelah menjawab, periksa jawaban dan perbaiki kesalahan agar miskonsepsi tidak terus diulang.
+
+Pengulangan berjeda menyebarkan latihan dalam beberapa kesempatan. Jarak yang sesuai bergantung pada kesulitan materi dan berapa lama pengetahuan perlu dipertahankan. Variasi contoh membantu membedakan prinsip umum dari ciri khusus satu contoh.
+
+BAB LANJUTAN: MOTIVASI DAN KEYAKINAN DIRI
+
+Motivasi dipengaruhi nilai tugas, harapan untuk berhasil, rasa memiliki, dan kondisi lingkungan. Tujuan proses memberi arah tindakan yang dapat dikendalikan, misalnya menyelesaikan latihan dan meninjau kesalahan. Umpan balik sebaiknya spesifik terhadap strategi atau hasil kerja, bukan memberi label tetap pada kemampuan seseorang.
+
+BAB LANJUTAN: ASESMEN FORMATIF DAN SUMATIF
+
+Asesmen formatif digunakan selama proses belajar untuk mengetahui pemahaman dan menentukan langkah berikutnya. Asesmen sumatif menilai capaian pada akhir unit atau periode. Instrumen harus sesuai dengan kemampuan yang hendak diukur. Jika tujuan adalah menjelaskan proses, soal definisi saja belum cukup.
+
+Rubrik yang baik menyebut kriteria dan tingkat kualitas dengan bahasa jelas. Hasil asesmen digunakan untuk memperbaiki pembelajaran, bukan hanya memberi peringkat.
+
+BAB LANJUTAN: PERBEDAAN INDIVIDU DAN INKLUSI
+
+Pelajar berbeda dalam pengalaman, bahasa, akses, minat, dan kebutuhan dukungan. Perbedaan tidak boleh menjadi label kemampuan yang kaku. Pembelajaran inklusif menyediakan beragam cara mengakses materi, berpartisipasi, dan menunjukkan pemahaman. Penyesuaian dapat mencakup teks mudah dibaca, penjelasan visual, alat bantu aksesibilitas, atau pilihan format jawaban.
+
+PROYEK: RENCANA BELAJAR BERBASIS BUKTI
+Pilih satu topik. Rumuskan tujuan terukur, pecah menjadi subtopik, jadwalkan latihan mengingat berjeda, buat variasi soal, dan tentukan cara menerima umpan balik. Refleksikan bagian yang membantu tanpa menganggap satu metode cocok bagi semua orang.

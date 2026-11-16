@@ -417,3 +417,54 @@ Selesaikan 4x - 3 = 13. Tambahkan 3 pada kedua sisi: 4x = 16, sehingga x = 4. Mo
 
 RANGKUMAN
 Aljabar menyatakan pola dan hubungan secara umum. Persamaan, pertidaksamaan, fungsi, serta grafik menjadi alat untuk membangun model, menguji hasil, dan menjelaskan batas asumsi.
+
+BAB PENGAYAAN — PERSAMAAN LINEAR DAN SISTEM PERSAMAAN
+
+Persamaan linear satu variabel dapat diselesaikan dengan melakukan operasi yang sama pada kedua ruas. Tujuannya adalah mengisolasi variabel tanpa mengubah kesetaraan. Misalnya, 3x + 5 = 20. Kurangi kedua ruas dengan 5 sehingga 3x = 15, lalu bagi kedua ruas dengan 3 sehingga x = 5. Substitusi ke persamaan awal digunakan untuk memeriksa hasil.
+
+Sistem persamaan linear dua variabel memiliki dua atau lebih persamaan yang harus dipenuhi bersamaan. Metode eliminasi menghilangkan salah satu variabel dengan menjumlahkan atau mengurangkan persamaan yang telah disesuaikan. Metode substitusi mengganti satu variabel dengan bentuk yang setara dari persamaan lain. Grafik dapat menunjukkan titik potong sebagai solusi jika sistem memiliki satu solusi.
+
+BAB PENGAYAAN — PERTIDAKSAMAAN DAN NILAI MUTLAK
+
+Pertidaksamaan menyatakan hubungan lebih besar atau lebih kecil. Ketika kedua ruas dikalikan atau dibagi dengan bilangan negatif, arah tanda pertidaksamaan harus dibalik. Contoh: -2x > 6. Membagi kedua ruas dengan -2 menghasilkan x < -3. Aturan ini sering menjadi sumber kesalahan.
+
+Nilai mutlak menyatakan jarak suatu bilangan dari nol pada garis bilangan. Karena jarak tidak negatif, nilai mutlak selalu nol atau positif. Persamaan |x| = 4 memiliki dua solusi, yaitu x = 4 dan x = -4. Konsep ini dapat digunakan untuk memodelkan jarak dari target atau toleransi kesalahan.
+
+BAB PENGAYAAN — FUNGSI KOMPOSISI DAN INVERS
+
+Komposisi fungsi menerapkan satu fungsi lalu fungsi lain pada hasilnya. Jika f(x) = 2x + 1 dan g(x) = x², maka f(g(x)) = 2x² + 1. Urutan komposisi penting karena pada umumnya f(g(x)) tidak sama dengan g(f(x)).
+
+Fungsi invers membalik hubungan masukan dan keluaran. Tidak semua fungsi memiliki invers yang merupakan fungsi pada seluruh domain awal. Agar invers menjadi fungsi, domain dapat perlu dibatasi. Grafik fungsi dan inversnya saling mencerminkan terhadap garis y = x.
+
+BAB PENGAYAAN — POLA, BARISAN, DAN DERET
+
+Barisan adalah urutan bilangan menurut aturan tertentu. Barisan aritmetika memiliki beda tetap, sedangkan barisan geometri memiliki rasio tetap. Rumus suku ke-n membantu menemukan nilai pada posisi tertentu tanpa menulis seluruh suku sebelumnya. Deret adalah penjumlahan suku-suku suatu barisan.
+
+Pola matematika dapat digunakan untuk memodelkan tabungan berkala, pertumbuhan populasi sederhana, atau susunan benda. Namun model harus diperiksa terhadap asumsi. Pertumbuhan geometri tidak dapat berlangsung tanpa batas dalam lingkungan yang memiliki sumber daya terbatas.
+
+LATIHAN
+1. Selesaikan 4x - 7 = 13.
+2. Selesaikan sistem x + y = 9 dan x - y = 3.
+3. Selesaikan -3x ≤ 12.
+4. Jika f(x)=x+2 dan g(x)=3x, tentukan f(g(x)).
+5. Tentukan suku ke-6 barisan aritmetika 2, 5, 8, 11, ...
+6. Mengapa model pertumbuhan geometri perlu dibatasi dalam situasi nyata?
+
+KUNCI PEMBAHASAN
+1. 4x=20 sehingga x=5.
+2. Menjumlahkan persamaan memberi 2x=12, x=6, y=3.
+3. Membagi dengan -3 membalik tanda, sehingga x ≥ -4.
+4. f(g(x))=3x+2.
+5. a6=2+(6-1)3=17.
+6. Karena sumber daya dan kondisi lingkungan membatasi pertumbuhan.
+
+GLOSARIUM TAMBAHAN
+Persamaan linear: persamaan dengan variabel berpangkat satu.
+Eliminasi: metode menghilangkan variabel dari sistem persamaan.
+Substitusi: mengganti variabel dengan bentuk yang setara.
+Pertidaksamaan: pernyataan hubungan lebih besar atau lebih kecil.
+Nilai mutlak: jarak bilangan dari nol.
+Komposisi fungsi: penerapan suatu fungsi pada hasil fungsi lain.
+Fungsi invers: fungsi yang membalik pemetaan fungsi asal.
+Barisan aritmetika: barisan dengan beda tetap.
+Barisan geometri: barisan dengan rasio tetap.

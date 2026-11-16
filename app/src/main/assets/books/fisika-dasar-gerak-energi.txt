@@ -2081,3 +2081,58 @@ Benang merah seluruh materi adalah hubungan antara model dan bukti. Model yang b
 Fisika terus berkembang melalui pertanyaan baru dan pengujian yang lebih teliti. Pembaca tidak diharapkan menguasai seluruh bidang hanya dari satu buku pengantar. Tujuan naskah ini adalah memberi peta konsep dan dasar penalaran agar pembelajaran lanjutan dapat dilakukan secara lebih terarah.
 
 Akhir buku.
+
+BAB PENGAYAAN — VEKTOR DAN GERAK DUA DIMENSI
+
+Besaran skalar hanya memiliki nilai, sedangkan besaran vektor memiliki nilai dan arah. Massa dan suhu adalah contoh skalar; perpindahan, kecepatan, dan gaya adalah contoh vektor. Dua vektor tidak cukup dijumlahkan dengan menjumlahkan angka jika arahnya berbeda. Komponen horizontal dan vertikal dapat dihitung terpisah lalu digabungkan.
+
+Gerak dua dimensi dapat dianalisis sebagai dua gerak satu dimensi yang berlangsung bersamaan. Pada gerak peluru ideal tanpa hambatan udara, komponen horizontal memiliki kecepatan tetap, sedangkan komponen vertikal mengalami percepatan gravitasi. Lintasan yang terbentuk berupa parabola. Model ini merupakan pendekatan; hambatan udara dan bentuk objek dapat mengubah lintasan nyata.
+
+BAB PENGAYAAN — HUKUM NEWTON DAN GAYA GESEK
+
+Hukum pertama Newton menyatakan bahwa benda mempertahankan keadaan diam atau gerak lurus beraturan jika resultan gaya nol. Hukum kedua menghubungkan resultan gaya dengan massa dan percepatan melalui F = ma. Hukum ketiga menyatakan bahwa gaya interaksi muncul berpasangan dengan besar sama dan arah berlawanan, tetapi bekerja pada benda yang berbeda.
+
+Gaya gesek bekerja ketika dua permukaan bersentuhan dan cenderung bergerak relatif. Gesekan dapat membantu berjalan dan mengerem, tetapi juga menyebabkan keausan serta perubahan energi mekanik menjadi energi termal. Gesekan tidak selalu merugikan; dalam banyak sistem, gesekan diperlukan agar gerak dapat dikendalikan.
+
+Diagram benda bebas membantu menyelesaikan persoalan gaya. Gambarkan objek sebagai titik atau bentuk sederhana, lalu tunjukkan semua gaya luar yang bekerja: berat, gaya normal, tegangan, dorongan, dan gesekan bila ada. Jangan menggambar pasangan aksi-reaksi pada satu diagram benda yang sama karena keduanya bekerja pada objek berbeda.
+
+BAB PENGAYAAN — USAHA, ENERGI, DAN DAYA
+
+Usaha dalam fisika terjadi ketika gaya menyebabkan perpindahan. Untuk gaya konstan yang searah perpindahan, usaha adalah gaya dikalikan perpindahan. Jika gaya tegak lurus terhadap perpindahan, usaha oleh gaya tersebut bernilai nol. Definisi ini berbeda dari penggunaan kata “usaha” dalam percakapan sehari-hari.
+
+Energi kinetik berkaitan dengan gerak dan dirumuskan sebagai setengah massa dikalikan kuadrat kecepatan. Energi potensial gravitasi dekat permukaan Bumi berkaitan dengan ketinggian terhadap titik acuan. Energi mekanik adalah jumlah energi kinetik dan potensial. Jika hanya gaya konservatif bekerja, jumlah energi mekanik tetap; jika ada gesekan, sebagian energi mekanik berubah menjadi bentuk lain.
+
+Daya adalah laju melakukan usaha atau memindahkan energi. Dua mesin dapat melakukan usaha yang sama tetapi membutuhkan waktu berbeda. Mesin yang menyelesaikan pekerjaan dalam waktu lebih singkat memiliki daya rata-rata lebih besar. Efisiensi membandingkan energi atau daya berguna dengan masukan.
+
+BAB PENGAYAAN — MOMENTUM DAN IMPULS
+
+Momentum linear adalah hasil kali massa dan kecepatan. Momentum merupakan besaran vektor sehingga arah gerak harus diperhitungkan. Impuls adalah perubahan momentum dan dapat dinyatakan sebagai gaya rata-rata dikalikan selang waktu. Untuk perubahan momentum yang sama, memperpanjang waktu tumbukan dapat mengurangi gaya rata-rata.
+
+Hukum kekekalan momentum berlaku pada sistem terisolasi ketika resultan gaya luar dapat diabaikan. Prinsip ini digunakan untuk menganalisis tumbukan dan gerak roket. Pada tumbukan lenting, energi kinetik total sistem tetap; pada tumbukan tidak lenting, sebagian energi kinetik berubah menjadi bentuk lain. Momentum total tetap dalam sistem terisolasi meskipun energi kinetik tidak selalu tetap.
+
+LATIHAN
+1. Apa perbedaan skalar dan vektor?
+2. Sebuah benda bermassa 2 kg mengalami percepatan 3 m/s². Berapa resultan gayanya?
+3. Mengapa gaya aksi dan reaksi tidak saling meniadakan pada satu benda?
+4. Kapan usaha oleh gaya bernilai nol?
+5. Apa hubungan impuls dan momentum?
+6. Mengapa momentum tetap pada tumbukan dalam sistem terisolasi?
+
+KUNCI PEMBAHASAN
+1. Skalar memiliki nilai; vektor memiliki nilai dan arah.
+2. F = ma = 2 × 3 = 6 N.
+3. Karena kedua gaya bekerja pada benda yang berbeda.
+4. Jika tidak ada perpindahan atau gaya tegak lurus terhadap perpindahan.
+5. Impuls sama dengan perubahan momentum.
+6. Tidak ada resultan gaya luar yang signifikan sehingga momentum total sistem tetap.
+
+GLOSARIUM TAMBAHAN
+Vektor: besaran yang memiliki nilai dan arah.
+Skalar: besaran yang hanya memiliki nilai.
+Resultan gaya: jumlah vektor semua gaya yang bekerja pada benda.
+Gaya normal: gaya kontak tegak lurus permukaan.
+Usaha: perpindahan energi oleh gaya ketika terjadi perpindahan.
+Energi kinetik: energi yang berkaitan dengan gerak.
+Momentum: hasil kali massa dan kecepatan.
+Impuls: perubahan momentum akibat gaya selama selang waktu.
+Tumbukan lenting: tumbukan yang mempertahankan energi kinetik total.

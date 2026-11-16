@@ -460,3 +460,49 @@ Spektroskopi dan kimia nuklir memperluas cara manusia mempelajari materi. Kimia 
 CATATAN PENUTUP PENULIS
 Buku ini merupakan pengantar belajar mandiri. Kedalaman setiap topik dapat diperluas melalui buku ajar, sumber universitas, standar, dan publikasi ilmiah yang dapat diperiksa. Untuk penggunaan akademik, pembaca perlu memeriksa kembali persamaan, data numerik, dan ketentuan keselamatan pada sumber tepercaya yang mutakhir. Tidak ada bagian buku ini yang menggantikan instruksi guru, prosedur laboratorium, atau lembar data keselamatan.
 Akhir buku.
+
+BAB PENGAYAAN — MODEL PARTIKEL DAN PERUBAHAN WUJUD
+
+Materi tersusun atas partikel yang terus bergerak. Dalam zat padat, partikel bergetar di sekitar posisi relatif tetap; dalam cairan, partikel dapat bergerak melewati satu sama lain; dalam gas, partikel bergerak lebih bebas dan berjauhan. Model partikel membantu menjelaskan bentuk, volume, tekanan, dan perubahan wujud.
+
+Perubahan wujud meliputi mencair, membeku, menguap, mengembun, menyublim, dan deposisi. Selama perubahan wujud zat murni pada tekanan tetap, energi yang masuk atau keluar dapat digunakan untuk mengubah susunan dan jarak partikel, sehingga suhu tidak selalu berubah selama proses berlangsung. Kalor laten menjelaskan energi yang terlibat dalam perubahan wujud.
+
+BAB PENGAYAAN — CAMPURAN DAN PEMISAHAN
+
+Campuran homogen memiliki komposisi seragam pada skala pengamatan, sedangkan campuran heterogen memiliki bagian yang berbeda. Larutan gula merupakan contoh campuran homogen, sedangkan pasir dalam air merupakan campuran heterogen. Campuran dapat dipisahkan berdasarkan perbedaan sifat fisik tanpa harus mengubah identitas kimia komponennya.
+
+Filtrasi memisahkan padatan tak larut dari cairan. Distilasi memanfaatkan perbedaan titik didih. Kromatografi memanfaatkan perbedaan interaksi komponen dengan fase diam dan fase gerak. Kristalisasi dapat digunakan untuk memperoleh padatan terlarut dari larutan. Pemilihan teknik bergantung pada sifat bahan dan tingkat kemurnian yang dibutuhkan.
+
+BAB PENGAYAAN — PERSAMAAN REAKSI DAN KEKEKALAN MASSA
+
+Persamaan reaksi kimia menggambarkan pereaksi dan produk. Persamaan harus disetarakan agar jumlah atom setiap unsur sama di kedua sisi, sesuai hukum kekekalan massa dalam sistem tertutup. Menyetarakan persamaan berarti mengubah koefisien, bukan indeks dalam rumus kimia, karena perubahan indeks akan mengubah identitas zat.
+
+Contoh sederhana: pembentukan air ditulis 2H2 + O2 → 2H2O. Di kedua sisi terdapat empat atom hidrogen dan dua atom oksigen. Koefisien menunjukkan perbandingan jumlah partikel atau mol dalam reaksi, bukan massa langsung.
+
+BAB PENGAYAAN — KIMIA DALAM KEHIDUPAN DAN KESELAMATAN
+
+Bahan rumah tangga memiliki sifat kimia yang berbeda. Label produk perlu dibaca untuk mengetahui cara penggunaan, penyimpanan, dan peringatan. Jangan mencampur pembersih yang berbeda, terutama produk yang mengandung pemutih dengan bahan lain, karena dapat menghasilkan gas berbahaya. Gunakan sesuai petunjuk dan simpan jauh dari jangkauan anak kecil.
+
+Dalam praktikum, gunakan kacamata pelindung, sarung tangan yang sesuai, dan ventilasi memadai sesuai arahan pengajar. Jangan mencicipi bahan, menghirup langsung uap, atau melakukan eksperimen tanpa pengawasan. Jika terjadi tumpahan atau paparan, ikuti prosedur keselamatan laboratorium dan minta bantuan petugas.
+
+LATIHAN
+1. Apa perbedaan zat padat, cair, dan gas menurut model partikel?
+2. Sebutkan tiga metode pemisahan campuran.
+3. Mengapa persamaan reaksi harus disetarakan?
+4. Mengapa indeks rumus kimia tidak boleh diubah saat menyetarakan?
+5. Sebutkan tiga aturan keselamatan dasar saat menggunakan bahan kimia.
+
+KUNCI PEMBAHASAN
+1. Perbedaan utama terdapat pada susunan, jarak, dan kebebasan gerak partikel.
+2. Filtrasi, distilasi, kromatografi, kristalisasi, atau metode lain yang sesuai.
+3. Untuk memenuhi kekekalan jumlah atom setiap unsur dalam reaksi.
+4. Karena indeks mengubah komposisi dan identitas zat.
+5. Baca label, gunakan pelindung, jangan mencampur bahan sembarangan, dan ikuti arahan pengajar.
+
+GLOSARIUM TAMBAHAN
+Model partikel: gambaran materi sebagai kumpulan partikel.
+Kalor laten: energi yang terlibat dalam perubahan wujud.
+Campuran homogen: campuran dengan komposisi seragam.
+Campuran heterogen: campuran dengan bagian yang berbeda.
+Koefisien reaksi: angka di depan rumus zat dalam persamaan reaksi.
+Indeks kimia: angka kecil yang menunjukkan jumlah atom dalam rumus.

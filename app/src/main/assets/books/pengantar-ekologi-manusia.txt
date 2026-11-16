@@ -174,3 +174,40 @@ Ekosistem: Interaksi organisme dengan lingkungan fisiknya.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Gunakan buku ajar dan sumber lembaga kompeten untuk pendalaman. Catat sumber, tahun, dan bagian yang dirujuk. Untuk informasi yang terus berkembang, periksa edisi dan tanggal pembaruan sebelum mengutip.
+
+BAB LANJUTAN: EKOSISTEM PERKOTAAN DAN PINGGIRAN
+
+Ekosistem perkotaan merupakan gabungan proses ekologis dan aktivitas manusia. Taman, sungai, lahan kosong, kebun, pepohonan jalan, dan ruang terbuka dapat menjadi habitat, jalur pergerakan organisme, serta penyedia jasa ekosistem. Fragmentasi habitat terjadi ketika ruang alami terpisah oleh bangunan dan infrastruktur, sehingga pergerakan spesies menjadi lebih sulit.
+
+Ruang hijau dapat membantu mengurangi suhu lokal, menahan air hujan, menyaring sebagian polutan, dan menyediakan ruang rekreasi. Manfaatnya bergantung pada jenis vegetasi, luas, konektivitas, perawatan, dan akses masyarakat. Penanaman pohon saja tidak cukup jika spesies tidak sesuai lokasi atau kebutuhan airnya terlalu tinggi.
+
+BAB LANJUTAN: JASA EKOSISTEM DAN PENILAIAN
+
+Jasa ekosistem sering dikelompokkan menjadi penyediaan, pengaturan, budaya, dan pendukung. Contohnya pangan dan air bersih, pengaturan banjir dan suhu, nilai rekreasi, serta proses pembentukan tanah. Kategori ini membantu mengidentifikasi manfaat yang sering tidak tercermin dalam harga pasar.
+
+Penilaian jasa ekosistem dapat menggunakan indikator biofisik, survei preferensi, atau pendekatan ekonomi. Tidak semua nilai dapat atau perlu diubah menjadi uang. Nilai budaya, hubungan masyarakat dengan tempat, dan hak komunitas perlu dipertimbangkan melalui proses yang menghormati konteks.
+
+BAB LANJUTAN: LIMBAH, POLUSI, DAN SIKLUS MATERIAL
+
+Limbah menunjukkan ketidaksesuaian antara pola produksi, konsumsi, dan kemampuan lingkungan mengolah sisa. Pencegahan limbah biasanya lebih baik daripada hanya mengandalkan pengolahan di akhir proses. Pengurangan bahan, penggunaan ulang, perbaikan, pemilahan, dan daur ulang dapat menekan kebutuhan sumber daya baru.
+
+Polusi air dapat berasal dari limbah domestik, pertanian, industri, dan limpasan perkotaan. Penilaian kualitas air menggunakan beberapa parameter karena satu angka tidak menggambarkan seluruh kondisi. Pengambilan sampel harus mempertimbangkan lokasi, kedalaman, waktu, cuaca, dan prosedur laboratorium.
+
+BAB LANJUTAN: PERUBAHAN IKLIM DAN ADAPTASI LOKAL
+
+Perubahan iklim memengaruhi suhu, pola hujan, risiko kekeringan, banjir, dan kondisi ekosistem. Dampaknya berbeda menurut lokasi dan kelompok masyarakat. Kerentanan dipengaruhi paparan, sensitivitas, dan kapasitas beradaptasi. Peta risiko perlu digabung dengan informasi sosial agar prioritas tidak hanya mengikuti area dengan data paling lengkap.
+
+Adaptasi dapat mencakup perlindungan daerah resapan, pemulihan mangrove, diversifikasi mata pencaharian, sistem peringatan, dan perencanaan ruang. Pilihan adaptasi harus dinilai agar tidak memindahkan risiko ke komunitas lain atau merusak ekosistem yang menjadi penyangga.
+
+BAB LANJUTAN: PEMANTAUAN DAN RESTORASI EKOLOGI
+
+Pemantauan ekologi mengukur perubahan kondisi dari waktu ke waktu. Indikator dapat mencakup tutupan vegetasi, kualitas air, kelimpahan spesies, kondisi tanah, atau konektivitas habitat. Metode, lokasi, dan waktu pengukuran harus konsisten agar tren dapat dibandingkan.
+
+Restorasi bertujuan memulihkan fungsi ekosistem, bukan sekadar membuat lokasi tampak hijau. Sasaran perlu mempertimbangkan kondisi acuan, spesies lokal, proses alami, dan kebutuhan masyarakat. Keberhasilan dinilai dalam jangka panjang karena pemulihan struktur dan fungsi dapat berlangsung bertahun-tahun.
+
+LATIHAN AKHIR
+1. Jelaskan dampak fragmentasi habitat.
+2. Berikan empat contoh jasa ekosistem.
+3. Susun urutan prioritas pengelolaan sampah dari pencegahan hingga pembuangan.
+4. Jelaskan tiga unsur kerentanan iklim.
+5. Rancang indikator untuk memantau pemulihan kawasan sungai.

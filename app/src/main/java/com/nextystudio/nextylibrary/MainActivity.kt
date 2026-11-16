@@ -358,7 +358,7 @@ private fun HomeScreen(books: List<Book>, categories: List<BookCategory>, loadin
                             CircularProgressIndicator(color = Green, modifier = Modifier.size(28.dp))
                         } else {
                             OutlinedButton(onClick = onLoadMore, shape = RoundedCornerShape(14.dp)) {
-                                Text("Muat 40 buku berikutnya", color = Green, fontWeight = FontWeight.Bold)
+                                Text("Muat buku berikutnya", color = Green, fontWeight = FontWeight.Bold)
                             }
                         }
                     }
@@ -1321,7 +1321,7 @@ private fun fetchCategories(): List<BookCategory> {
     } finally { connection.disconnect() }
 }
 
-private const val BOOKS_PAGE_SIZE = 40
+private const val BOOKS_PAGE_SIZE = 200
 
 private fun fetchBooks(offset: Int = 0, search: String = "", categoryId: String? = null): List<Book> {
     val query = StringBuilder("select=id,title,author,description,category_id,page_count,cover_path,content_path,language,license_type,license_note")

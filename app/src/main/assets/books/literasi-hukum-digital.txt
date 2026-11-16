@@ -187,3 +187,29 @@ Jejak digital: rekaman aktivitas atau informasi seseorang di layanan digital.
 Lisensi: izin penggunaan karya dengan syarat tertentu.
 Minimisasi data: pembatasan data pada hal yang benar-benar diperlukan.
 Verifikasi: pemeriksaan untuk memastikan keaslian atau kebenaran.
+
+BAB LANJUTAN: HAK DIGITAL, PRIVASI, DAN TANGGUNG JAWAB
+
+1. Identitas dan jejak digital
+Aktivitas daring dapat meninggalkan data yang tersimpan pada perangkat, layanan, atau pihak lain. Unggahan, komentar, metadata, dan riwayat penggunaan dapat memiliki konteks berbeda ketika dilihat di kemudian hari. Sebelum membagikan informasi, pertimbangkan tujuan, audiens, dampak, dan apakah informasi tersebut perlu dipublikasikan.
+
+2. Privasi dan minimisasi data
+Privasi bukan hanya menyembunyikan sesuatu. Privasi berkaitan dengan kendali atas informasi pribadi dan konteks penggunaannya. Layanan yang bertanggung jawab hanya mengumpulkan data yang diperlukan, menjelaskan tujuannya, membatasi akses, dan menyediakan cara untuk mengelola informasi sesuai ketentuan yang berlaku.
+
+3. Persetujuan dan ketentuan layanan
+Persetujuan perlu diberikan secara sadar dan berdasarkan informasi yang dapat dipahami. Ketentuan layanan yang panjang sering sulit dibaca, sehingga pengguna perlu mencari bagian tentang pengumpulan data, berbagi dengan pihak lain, masa simpan, penghapusan, dan penyelesaian sengketa. Persetujuan tidak menghapus kewajiban penyedia untuk mematuhi hukum.
+
+4. Hak cipta dan penggunaan konten
+Tulisan, foto, musik, video, dan perangkat lunak dapat dilindungi hak cipta. Ketersediaan suatu konten di internet tidak otomatis berarti bebas digunakan. Periksa lisensi, izin, batas penggunaan, dan kewajiban atribusi. Jika ragu, gunakan materi yang dibuat sendiri atau materi dengan lisensi yang jelas.
+
+5. Komunikasi dan reputasi daring
+Sampaikan kritik terhadap gagasan atau tindakan tanpa menyerang martabat pribadi. Periksa fakta sebelum membagikan kabar, terutama informasi yang dapat merugikan seseorang. Jika membuat kesalahan, koreksi secara terbuka. Hindari meneruskan tangkapan layar yang memuat data pribadi tanpa alasan sah.
+
+6. Keamanan akun
+Gunakan kata sandi unik, autentikasi tambahan bila tersedia, dan perangkat lunak yang diperbarui. Waspadai permintaan kode verifikasi, tautan mendesak, atau pesan yang meniru lembaga resmi. Jangan membagikan kode rahasia kepada orang lain. Jika akun bermasalah, gunakan jalur pemulihan resmi penyedia.
+
+7. Menghadapi masalah digital
+Catat kronologi, simpan bukti secara aman, gunakan fitur pelaporan, dan minta bantuan orang dewasa tepercaya atau lembaga resmi sesuai persoalan. Jangan membalas ancaman dengan menyebarkan data atau melakukan tindakan yang melanggar hukum.
+
+LATIHAN
+Buat daftar data yang dibagikan sebuah aplikasi hipotetis. Kelompokkan data yang benar-benar diperlukan, data opsional, dan data yang sebaiknya tidak dikumpulkan. Jelaskan alasan serta cara memberi penjelasan yang mudah dipahami pengguna.

@@ -489,3 +489,29 @@ Gunakan simulasi rangkaian untuk membandingkan susunan seri dan paralel dengan s
 
 RANGKUMAN
 Listrik dan magnet saling berhubungan melalui medan dan induksi. Prinsipnya mendasari motor, generator, transformator, dan banyak perangkat modern.
+
+PENGAYAAN: PENGUKURAN DAN MODEL FISIKA
+
+1. BESARAN DAN SATUAN
+Besaran pokok SI menjadi dasar bagi besaran turunan. Kecepatan merupakan panjang dibagi waktu, sedangkan percepatan merupakan perubahan kecepatan per waktu. Pemeriksaan satuan dapat membantu menemukan kesalahan rumus. Hasil hitung tanpa satuan belum menjelaskan besaran fisik yang dimaksud.
+
+2. VEKTOR DAN SKALAR
+Skalar hanya memiliki besar, sedangkan vektor memiliki besar dan arah. Jarak adalah skalar, perpindahan adalah vektor. Kecepatan rata-rata berdasarkan perpindahan berbeda dari kelajuan rata-rata berdasarkan jarak tempuh. Perbedaan ini penting ketika gerak berubah arah.
+
+3. GRAFIK GERAK
+Pada grafik posisi-waktu, kemiringan menunjukkan kecepatan. Pada grafik kecepatan-waktu, kemiringan menunjukkan percepatan dan luas daerah bertanda menunjukkan perpindahan. Membaca grafik memerlukan perhatian pada sumbu, satuan, dan tanda positif-negatif.
+
+4. HUKUM NEWTON
+Hukum pertama menjelaskan kecenderungan mempertahankan keadaan gerak jika resultan gaya nol. Hukum kedua menghubungkan resultan gaya, massa, dan percepatan. Hukum ketiga menyatakan gaya interaksi muncul berpasangan pada dua benda berbeda. Pasangan aksi-reaksi tidak saling meniadakan pada satu benda yang sama.
+
+5. ENERGI DAN DAYA
+Energi menyatakan kemampuan melakukan perubahan atau kerja, sedangkan daya menyatakan laju pemindahan atau penggunaan energi. Dua alat dapat menggunakan energi sama tetapi memerlukan waktu berbeda karena dayanya berbeda. Efisiensi membandingkan keluaran berguna dengan masukan energi.
+
+6. MODEL DAN BATAS
+Model tanpa gesekan memudahkan analisis awal, tetapi tidak selalu cocok untuk keadaan nyata. Jika hasil model berbeda dari pengamatan, periksa asumsi, ketelitian alat, dan faktor yang diabaikan. Model yang lebih rumit hanya berguna jika data dan tujuan membenarkannya.
+
+7. LATIHAN
+Sebuah benda berpindah 12 meter ke timur lalu 5 meter ke barat. Jarak tempuhnya 17 meter, perpindahannya 7 meter ke timur. Jelaskan mengapa kedua nilai berbeda. Buat grafik posisi terhadap waktu untuk gerak sederhana dan tafsirkan kemiringannya.
+
+RANGKUMAN
+Fisika memerlukan pengukuran, satuan, model, dan penalaran vektor. Hasil perhitungan harus ditafsirkan sesuai asumsi dan kondisi eksperimen.

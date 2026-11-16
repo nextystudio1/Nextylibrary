@@ -345,3 +345,29 @@ Rancang eksperimen aman tentang pengaruh intensitas cahaya pada perkecambahan me
 
 RANGKUMAN
 Penelitian yang baik memiliki definisi pengukuran, prosedur transparan, pencatatan jujur, dan perlindungan peserta. Replikasi membantu menguji kekuatan temuan.
+
+PENGAYAAN: MERANCANG PENELITIAN YANG DAPAT DIPERCAYA
+
+1. DARI RASA INGIN TAHU KE PERTANYAAN
+Pertanyaan penelitian perlu cukup spesifik agar dapat dijawab melalui pengamatan. Tentukan objek, variabel, kondisi, dan rentang waktu. Pertanyaan yang terlalu luas dapat dipecah menjadi beberapa pertanyaan kecil yang dapat diuji satu per satu.
+
+2. HIPOTESIS DAN PREDIKSI
+Hipotesis adalah dugaan yang dapat diuji, bukan tebakan yang harus dibenarkan. Prediksi menyatakan hasil yang diharapkan jika hipotesis dan asumsi tertentu benar. Peneliti harus bersedia menerima hasil yang tidak sesuai dugaan awal. Hasil negatif atau tidak berbeda tetap dapat memberi informasi.
+
+3. VARIABEL DAN KONTROL
+Variabel bebas adalah faktor yang diubah atau dibandingkan, variabel terikat adalah hasil yang diukur, dan variabel kontrol dijaga agar perbandingan lebih adil. Dalam penelitian observasional, peneliti tidak selalu dapat mengendalikan faktor. Keterbatasan itu harus dinyatakan agar pembaca tidak menganggap hubungan sebagai sebab-akibat.
+
+4. REPLIKASI DAN REPRODUKSIBILITAS
+Replikasi mengulang penelitian untuk melihat apakah pola serupa muncul. Reproduksibilitas berkaitan dengan kemampuan memperoleh hasil yang sama dari data dan prosedur yang tersedia. Catatan metode, definisi, dan analisis perlu cukup jelas agar orang lain dapat menilai atau mengulang pekerjaan.
+
+5. ETIKA PENELITIAN
+Penelitian yang melibatkan manusia perlu persetujuan, perlindungan privasi, dan penjelasan tujuan. Peserta harus mengetahui bahwa partisipasi bersifat sukarela sesuai aturan yang berlaku. Penelitian hewan, lingkungan, dan bahan berbahaya juga memerlukan standar etika serta keselamatan yang relevan.
+
+6. MENGHINDARI BIAS KONFIRMASI
+Bias konfirmasi terjadi ketika seseorang lebih memperhatikan bukti yang mendukung keyakinannya dan mengabaikan bukti yang bertentangan. Untuk menguranginya, tuliskan kemungkinan hasil yang akan melemahkan hipotesis, gunakan prosedur analisis yang direncanakan, dan minta orang lain meninjau metode.
+
+7. LATIHAN
+Susun rancangan penelitian sederhana tentang hubungan pencahayaan ruang belajar dan kenyamanan membaca. Tentukan apa yang diukur, faktor pengganggu, cara menjaga etika, dan batas kesimpulan. Jangan membuat klaim sebab-akibat jika rancangan hanya berupa survei.
+
+RANGKUMAN
+Penelitian yang dapat dipercaya memiliki pertanyaan terarah, metode transparan, etika, pengendalian bias, dan kesediaan menerima hasil apa adanya.

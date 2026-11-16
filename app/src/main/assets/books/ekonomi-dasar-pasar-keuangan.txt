@@ -349,3 +349,29 @@ Pilih satu produk sehari-hari dan telusuri kemungkinan komponen rantai pasoknya 
 
 RANGKUMAN
 Perdagangan dan nilai tukar menghubungkan ekonomi nasional dengan dunia. Dampaknya perlu dinilai melalui struktur produksi, konsumen, pekerja, dan ketahanan rantai pasok.
+
+PENGAYAAN: PASAR, HARGA, DAN KEBIJAKAN
+
+1. STRUKTUR PASAR
+Pasar persaingan, monopoli, oligopoli, dan persaingan monopolistik memiliki jumlah pelaku serta hambatan masuk yang berbeda. Struktur pasar memengaruhi kekuatan menentukan harga, pilihan konsumen, dan dorongan inovasi. Dalam praktik, pasar dapat berada di antara kategori ideal tersebut.
+
+2. ELASTISITAS PERMINTAAN
+Elastisitas harga mengukur seberapa besar jumlah yang diminta berubah ketika harga berubah. Barang dengan banyak pengganti cenderung memiliki permintaan lebih elastis. Kebutuhan pokok dalam jangka pendek dapat lebih tidak elastis, tetapi respons dapat berubah dalam jangka panjang.
+
+3. BIAYA PRODUKSI
+Biaya tetap tidak berubah langsung ketika jumlah produksi berubah dalam rentang tertentu, sedangkan biaya variabel berubah mengikuti produksi. Biaya total adalah gabungan keduanya. Keputusan produksi perlu mempertimbangkan biaya rata-rata, biaya marginal, kapasitas, dan permintaan pasar.
+
+4. EKSTERNALITAS
+Eksternalitas muncul ketika kegiatan ekonomi menimbulkan dampak pada pihak lain yang tidak sepenuhnya tercermin dalam harga. Pencemaran udara merupakan contoh biaya eksternal. Kebijakan dapat menggunakan standar, pajak, insentif, atau mekanisme lain untuk mengurangi dampak, dengan mempertimbangkan keadilan dan efektivitas.
+
+5. BARANG PUBLIK DAN SUMBER DAYA BERSAMA
+Barang publik memiliki sifat sulit mengecualikan pengguna dan penggunaan seseorang tidak selalu mengurangi manfaat bagi orang lain. Sumber daya bersama dapat mengalami eksploitasi berlebihan jika akses dan pengelolaannya tidak diatur. Institusi dan aturan komunitas dapat membantu menjaga keberlanjutan.
+
+6. KETIMPANGAN DAN KESEJAHTERAAN
+Pertumbuhan ekonomi tidak otomatis berarti manfaat terbagi merata. Analisis kesejahteraan mempertimbangkan pendapatan, akses pendidikan dan kesehatan, kualitas pekerjaan, serta kesempatan. Indikator rata-rata perlu dilengkapi distribusi dan data kelompok.
+
+7. LATIHAN
+Analisis contoh pasar transportasi lokal. Identifikasi pelaku, alternatif bagi konsumen, kemungkinan eksternalitas, dan kebijakan yang dapat memperbaiki hasil. Jelaskan siapa yang memperoleh manfaat dan siapa yang mungkin menanggung biaya.
+
+RANGKUMAN
+Pasar mengoordinasikan keputusan melalui harga, tetapi hasilnya dipengaruhi struktur, informasi, eksternalitas, dan distribusi kekuatan. Kebijakan ekonomi perlu menilai efisiensi sekaligus keadilan.

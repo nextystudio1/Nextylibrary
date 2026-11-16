@@ -357,3 +357,29 @@ Buat diagram umpan balik negatif pengaturan suhu tubuh. Tandai perubahan awal, r
 
 RANGKUMAN
 Sel dan organ berkomunikasi untuk menjaga fungsi tubuh. Homeostasis, sistem saraf, hormon, dan imun bekerja melalui mekanisme yang saling terhubung.
+
+PENGAYAAN: MEMBRAN, GEN, DAN KOMUNIKASI SEL
+
+1. MEMBRAN SEBAGAI PEMBATAS SELEKTIF
+Membran sel tersusun terutama dari lapisan ganda fosfolipid dengan protein dan molekul lain. Bagian hidrofilik berinteraksi dengan air, sedangkan bagian hidrofobik membentuk penghalang bagi banyak zat bermuatan atau polar. Protein membran membantu transportasi, penerimaan sinyal, dan pengenalan sel.
+
+2. TRANSPOR PASIF DAN AKTIF
+Difusi adalah perpindahan partikel mengikuti gradien konsentrasi. Osmosis adalah perpindahan air melalui membran selektif. Transport aktif menggunakan energi untuk memindahkan zat melawan gradien elektrokimia. Perbedaan mekanisme ini menjelaskan bagaimana sel menjaga komposisi internal meskipun lingkungan berubah.
+
+3. RESEPTOR DAN KOMUNIKASI
+Sel menerima sinyal melalui molekul yang berikatan dengan reseptor. Ikatan ini dapat memicu rangkaian reaksi di dalam sel sehingga respons terjadi pada tempat dan waktu tertentu. Sel yang berbeda dapat merespons sinyal sama dengan cara berbeda karena memiliki reseptor dan perangkat molekuler yang berbeda.
+
+4. GEN DAN EKSPRESI
+Gen merupakan bagian DNA yang menyimpan informasi untuk menghasilkan RNA fungsional atau produk protein. Ekspresi gen diatur oleh faktor transkripsi, keadaan kromatin, sinyal sel, dan lingkungan. Tidak semua gen aktif pada semua sel. Pengaturan ini memungkinkan sel dengan DNA hampir sama menjalankan fungsi berbeda.
+
+5. MUTASI DAN VARIASI
+Mutasi adalah perubahan materi genetik. Dampaknya dapat netral, merugikan, atau dalam konteks tertentu menguntungkan. Variasi genetik menjadi bahan bagi evolusi, tetapi tidak setiap mutasi diwariskan kepada keturunan. Mutasi pada sel tubuh berbeda konsekuensinya dari mutasi pada garis sel reproduksi.
+
+6. SEL DAN PENYAKIT
+Gangguan pada pembelahan, komunikasi, metabolisme, atau perbaikan DNA dapat berkontribusi pada penyakit. Penjelasan biologis perlu menghindari anggapan bahwa satu gen selalu menentukan satu sifat secara sederhana. Banyak karakter dipengaruhi banyak gen dan lingkungan.
+
+7. LATIHAN
+Jelaskan mengapa membran disebut selektif permeabel. Bandingkan difusi dan transport aktif. Mengapa semua sel tidak mengekspresikan seluruh gen secara bersamaan? Jawaban perlu menghubungkan struktur, energi, dan pengaturan.
+
+RANGKUMAN
+Membran mengatur pertukaran dan komunikasi, sementara ekspresi gen mengatur fungsi sel. Interaksi keduanya memungkinkan kehidupan berlangsung secara terkoordinasi.

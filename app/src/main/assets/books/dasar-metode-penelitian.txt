@@ -53,21 +53,21 @@ BAB 6. PENULISAN DAN KOMUNIKASI
 Laporan penelitian menjelaskan latar belakang, metode, hasil, pembahasan, kesimpulan, dan sumber. Hasil perlu disampaikan dengan bahasa jelas. Kesimpulan harus mengikuti bukti, bukan melampaui data.
 
 PROYEK AKHIR
-Pilih topik yang menghubungkan minimal tiga bab. Rumuskan pertanyaan, tujuan, batasan, metode, dan bentuk hasil. Gunakan sumber yang dapat diverifikasi serta catat proses pengumpulan informasi. Sajikan data dengan jelas, pisahkan temuan dari interpretasi, dan jelaskan keterbatasan.
+Susun rancangan penelitian kecil: pilih masalah yang dapat dijawab, tulis pertanyaan dan tujuan, tentukan unit kajian serta metode pengumpulan data. Buat rencana analisis sebelum mengumpulkan informasi. Jelaskan persetujuan, privasi, keterbatasan sampel, dan cara melaporkan hasil tanpa melebih-lebihkan temuan.
 
 EVALUASI AKHIR
-1. Sebutkan lima gagasan inti buku.
-2. Jelaskan hubungan antarbab dengan contoh.
-3. Analisis satu kasus berdasarkan bukti.
-4. Bandingkan dua pendekatan dan konsekuensinya.
-5. Tulis hal yang masih perlu dipelajari.
+1. Bedakan masalah penelitian, pertanyaan, tujuan, dan hipotesis.
+2. Jelaskan cara menilai relevansi serta mutu sumber dalam tinjauan pustaka.
+3. Pilih metode yang sesuai untuk satu pertanyaan dan berikan alasannya.
+4. Uraikan cara memeriksa kualitas data dan mengurangi bias.
+5. Jelaskan batas kesimpulan yang dapat ditarik dari hasil penelitian.
 
 GLOSARIUM
-Konsep: Gagasan utama untuk memahami topik.
-Bukti: Informasi yang dapat diperiksa untuk mendukung klaim.
-Konteks: Keadaan yang memengaruhi makna atau penerapan.
-Metode: Langkah sistematis untuk mencapai tujuan.
-Evaluasi: Penilaian berdasarkan kriteria dan bukti.
+Variabel: Karakteristik yang dapat memiliki nilai berbeda.
+Hipotesis: Dugaan terarah yang dapat diuji dengan bukti.
+Sampel: Bagian dari populasi yang diteliti.
+Validitas: Derajat ketepatan alat atau proses dalam mengukur hal yang dimaksud.
+Bias: Kecenderungan sistematis yang dapat memengaruhi hasil.
 
 CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.

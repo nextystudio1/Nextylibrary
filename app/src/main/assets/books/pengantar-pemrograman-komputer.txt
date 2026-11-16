@@ -288,3 +288,23 @@ LATIHAN
 4. Sebutkan dua praktik keamanan dasar. Contoh: validasi masukan dan tidak menyimpan rahasia di kode publik.
 RANGKUMAN
 Pemrograman adalah proses merancang solusi, menulis instruksi, menguji, memperbaiki, dan merawat program. Keterampilan teknis perlu disertai pemahaman kebutuhan pengguna, keamanan, privasi, serta dokumentasi.
+
+BAB STRUKTUR DATA DASAR
+Variabel menyimpan nilai, sedangkan struktur data mengatur kumpulan nilai agar dapat digunakan secara efisien. Array atau daftar menyimpan elemen berurutan. Tabel atau rekaman mengelompokkan atribut suatu objek. Peta atau kamus menghubungkan kunci dengan nilai. Pemilihan struktur bergantung pada cara data dicari, ditambah, dihapus, dan diproses.
+
+Indeks pada daftar sering dimulai dari nol dalam banyak bahasa, tetapi tidak semuanya menggunakan aturan yang sama. Kesalahan indeks dapat menyebabkan program mengambil elemen yang keliru atau keluar dari rentang. Uji kasus kosong, satu elemen, elemen pertama, dan elemen terakhir.
+
+FUNGSI DAN PEMECAHAN MASALAH
+Fungsi mengelompokkan instruksi yang menjalankan tugas tertentu. Parameter menjadi masukan, sedangkan nilai kembali menjadi hasil. Fungsi kecil dengan satu tanggung jawab lebih mudah diuji dan digunakan ulang. Hindari fungsi yang mengubah banyak keadaan tersembunyi karena hal tersebut membuat perilaku program sulit diprediksi.
+
+PENANGANAN KESALAHAN
+Kesalahan sintaks terjadi ketika aturan bahasa dilanggar. Kesalahan saat berjalan muncul ketika program dieksekusi, misalnya pembagian dengan nol atau berkas tidak ditemukan. Kesalahan logika menghasilkan keluaran yang tidak sesuai meskipun program berjalan. Pesan kesalahan, pencatatan proses, dan pengujian bertahap membantu menemukan sumber masalah.
+
+KOMPLEKSITAS DAN EFISIENSI
+Algoritma yang menyelesaikan tugas sama dapat memerlukan waktu dan memori berbeda. Notasi kompleksitas seperti O(n) menggambarkan bagaimana kebutuhan sumber daya bertumbuh ketika ukuran masukan meningkat, bukan waktu pasti dalam detik. Untuk data kecil, algoritma sederhana mungkin cukup; untuk data besar, pilihan struktur dan algoritma menjadi lebih penting.
+
+PROYEK LATIHAN
+Buat program daftar tugas sederhana yang dapat menambah, menampilkan, dan menandai tugas selesai. Tentukan struktur data, validasi masukan kosong, dan uji kondisi ketika daftar belum memiliki tugas. Tambahkan dokumentasi singkat tentang cara menjalankan dan batasan program.
+
+RANGKUMAN BAB
+Struktur data, fungsi, penanganan kesalahan, dan analisis kompleksitas membantu membuat program yang teratur dan dapat dirawat. Program yang baik bukan hanya berjalan, tetapi juga dapat diuji dan dipahami orang lain.

@@ -360,3 +360,25 @@ Inflasi: kenaikan tingkat harga umum secara berkelanjutan.
 Daya beli: jumlah barang dan jasa yang dapat dibeli.
 Produktivitas: keluaran dibandingkan dengan masukan.
 Barang publik: barang/layanan yang manfaatnya dapat dinikmati bersama dengan karakteristik tertentu.
+
+BAB PILIHAN, INSENTIF, DAN BIAYA PELUANG
+Setiap keputusan menggunakan sumber daya yang terbatas. Biaya peluang adalah nilai alternatif terbaik yang dilepaskan ketika seseorang memilih satu pilihan. Jika waktu sore digunakan untuk belajar, alternatif yang dilepaskan mungkin kegiatan lain. Biaya peluang bukan selalu uang; waktu, tenaga, dan kesempatan juga termasuk sumber daya.
+
+Insentif adalah sesuatu yang mengubah manfaat atau biaya suatu tindakan. Diskon dapat mendorong pembelian, sedangkan denda keterlambatan dapat mendorong orang membayar tepat waktu. Insentif tidak selalu menghasilkan perilaku yang diharapkan karena orang memiliki informasi, kebutuhan, dan batasan berbeda. Kebijakan yang baik perlu mengantisipasi kemungkinan dampak samping.
+
+PENDAPATAN, KONSUMSI, DAN TABUNGAN
+Pendapatan rumah tangga digunakan untuk konsumsi, tabungan, dan kewajiban lain. Kenaikan pendapatan dapat mengubah pola belanja, tetapi pengaruhnya berbeda menurut kebutuhan, harga, jumlah anggota keluarga, dan harapan masa depan. Pengeluaran tidak boleh dinilai tanpa memahami konteks rumah tangga.
+
+Inflasi mengukur kenaikan tingkat harga umum, bukan kenaikan harga satu barang saja. Indeks harga konsumen menggunakan keranjang barang dan jasa untuk memperkirakan perubahan biaya hidup. Keranjang tersebut merupakan rata-rata; pengalaman tiap keluarga dapat berbeda karena pola konsumsi mereka tidak sama.
+
+PASAR TENAGA KERJA
+Pasar tenaga kerja mempertemukan pencari kerja dan pemberi kerja. Upah dipengaruhi keterampilan, pengalaman, produktivitas, permintaan, penawaran, aturan, serta kondisi ekonomi. Pendidikan dan pelatihan dapat memperluas kesempatan, tetapi tidak menjamin pekerjaan tertentu. Kesempatan kerja juga dipengaruhi lokasi, akses transportasi, kondisi industri, dan diskriminasi.
+
+EKONOMI PUBLIK DAN BARANG BERSAMA
+Barang publik murni memiliki sifat sulit mengecualikan pengguna dan tidak berkurang ketika digunakan orang lain, seperti manfaat penerangan jalan pada tingkat tertentu. Barang bersama dapat digunakan banyak orang tetapi rentan berkurang, misalnya stok ikan di perairan. Pengelolaan sumber daya bersama membutuhkan aturan, pemantauan, dan partisipasi pengguna agar tidak terjadi eksploitasi berlebihan.
+
+LATIHAN
+Bayangkan sekolah memiliki anggaran terbatas untuk memperbaiki perpustakaan atau lapangan. Identifikasi manfaat, biaya langsung, biaya peluang, pihak yang terdampak, dan informasi yang masih diperlukan. Susun rekomendasi yang menjelaskan kriteria prioritas, bukan sekadar menyatakan pilihan favorit.
+
+RANGKUMAN BAB
+Ekonomi sehari-hari membantu menilai pilihan, insentif, pendapatan, inflasi, tenaga kerja, dan barang bersama. Analisis yang baik menyebutkan alternatif yang dilepas serta siapa yang menerima manfaat dan menanggung biaya.

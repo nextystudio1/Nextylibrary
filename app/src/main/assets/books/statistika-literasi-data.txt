@@ -385,3 +385,26 @@ LATIHAN
 3. Apa yang harus ditulis pada grafik? Judul, label sumbu, satuan, sumber, dan periode.
 RANGKUMAN
 Literasi data membutuhkan kemampuan membaca distribusi, ukuran posisi, korelasi, regresi, dan ketidakpastian. Statistik menjadi bermanfaat ketika metode, asumsi, serta batas kesimpulan disampaikan secara jujur.
+
+BAB DESAIN SURVEI DAN KUALITAS DATA
+Survei mengumpulkan informasi dari sebagian atau seluruh anggota populasi. Sampel acak memberi peluang pemilihan yang diketahui, sedangkan sampel kemudahan memilih responden yang mudah dijangkau. Sampel kemudahan dapat berguna untuk eksplorasi, tetapi hasilnya tidak otomatis mewakili populasi yang lebih luas.
+
+Bias nonrespons terjadi ketika orang yang tidak menjawab berbeda secara sistematis dari yang menjawab. Pertanyaan menggiring, pilihan jawaban yang tidak lengkap, dan urutan pertanyaan juga dapat memengaruhi hasil. Uji coba kuesioner pada kelompok kecil membantu menemukan pertanyaan yang membingungkan.
+
+DISTRIBUSI DAN PENCilan
+Distribusi menunjukkan pola sebaran data. Pencilan adalah nilai yang jauh dari sebagian besar pengamatan, tetapi tidak boleh dihapus hanya karena tampak berbeda. Periksa kemungkinan kesalahan input, kondisi khusus, atau variasi nyata. Median dan rentang antarkuartil sering lebih tahan terhadap pencilan dibandingkan rata-rata dan simpangan baku.
+
+INTERVAL KEPERCAYAAN
+Interval kepercayaan menggambarkan rentang nilai yang dihasilkan oleh prosedur estimasi dengan tingkat cakupan tertentu dalam pengulangan sampel. Interval 95 persen tidak berarti ada peluang 95 persen bahwa satu interval yang sudah dihitung memuat parameter tetap dalam interpretasi frekuentis. Cara penjelasan yang tepat penting agar ketidakpastian tidak disalahartikan.
+
+KORELASI BUKAN SEBAB-AKIBAT
+Korelasi mengukur pola hubungan, bukan membuktikan bahwa satu variabel menyebabkan variabel lain. Hubungan dapat dipengaruhi variabel ketiga, pemilihan sampel, atau arah sebab yang berbeda. Diagram sebar dan pengetahuan konteks membantu menilai apakah hubungan masuk akal, tetapi kesimpulan kausal memerlukan rancangan dan asumsi tambahan.
+
+ETIKA DATA
+Data dapat mengungkap identitas ketika beberapa atribut digabungkan. Hapus informasi pengenal yang tidak diperlukan, batasi akses, dan jelaskan tujuan pengumpulan. Jangan mengumpulkan data teman sekelas tanpa persetujuan atau membagikan jawaban individu. Data publik pun perlu digunakan sesuai lisensi dan ketentuan sumber.
+
+LATIHAN
+Rancang survei anonim simulasi tentang moda transportasi ke sekolah. Tentukan populasi, metode sampel, pertanyaan netral, dan kemungkinan bias. Jelaskan mengapa hasil dari satu kelas tidak boleh langsung dianggap mewakili seluruh kota.
+
+RANGKUMAN BAB
+Statistika yang dapat dipercaya dimulai dari desain pengumpulan data. Sampel, bias, distribusi, interval, korelasi, dan etika menentukan seberapa jauh kesimpulan dapat diterapkan.

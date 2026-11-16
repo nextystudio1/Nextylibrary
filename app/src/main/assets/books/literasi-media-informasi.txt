@@ -294,3 +294,23 @@ LATIHAN
 3. Apa tindakan tepat setelah menyadari telah membagikan informasi keliru? Koreksi dengan jelas, sertakan sumber yang lebih kuat, dan hindari menyalahkan pembaca.
 RANGKUMAN
 Literasi informasi membantu masyarakat membaca klaim sains, angka, sponsor, dan perdebatan publik. Sikap kritis berarti memeriksa bukti secara adil, mengakui ketidakpastian, dan bertanggung jawab memperbaiki kesalahan.
+
+BAB MEMBACA DATA DAN GRAFIK DI MEDIA
+Grafik dapat menyederhanakan informasi, tetapi skala sumbu, titik awal, rentang waktu, dan pilihan kategori memengaruhi kesan pembaca. Grafik batang sering lebih mudah dibandingkan jika sumbu dimulai dari nol. Grafik garis cocok untuk perubahan berurutan, sedangkan diagram sebar dapat menunjukkan hubungan dua variabel. Jenis grafik harus sesuai dengan pertanyaan.
+
+Persentase perlu disertai penyebut. “Naik 50 persen” memiliki makna berbeda jika jumlah awal 2 kasus dibandingkan 20.000 kasus. Perubahan relatif juga perlu dibedakan dari perubahan absolut. Berita yang menyebut risiko meningkat dua kali lipat sebaiknya menjelaskan risiko awal dan kelompok yang diteliti.
+
+SUMBER PRIMER DAN SEKUNDER
+Sumber primer berasal langsung dari peristiwa atau pengumpulan data, misalnya dokumen resmi, hasil survei, atau rekaman wawancara. Sumber sekunder mengolah atau menafsirkan sumber lain, seperti artikel analisis dan buku tinjauan. Sumber primer tidak otomatis netral; metode, kepentingan, dan konteksnya tetap perlu diperiksa.
+
+MEMERIKSA KLAIM KESEHATAN DAN SAINS
+Klaim ilmiah perlu dinilai berdasarkan desain penelitian, ukuran sampel, kelompok pembanding, pengukuran, dan apakah hasil telah ditinjau oleh ahli. Satu penelitian jarang cukup untuk menyimpulkan aturan umum. Tinjauan sistematis dan panduan lembaga profesional dapat membantu merangkum banyak bukti, tetapi pembaca tetap perlu memperhatikan tanggal dan ruang lingkupnya.
+
+IKLAN, SPONSOR, DAN KEPENTINGAN
+Konten berbayar, tautan afiliasi, dan kerja sama merek dapat memengaruhi cara produk ditampilkan. Keberadaan sponsor tidak otomatis membuat semua informasi salah, tetapi hubungan tersebut perlu diungkapkan agar pembaca dapat menilai potensi konflik kepentingan. Pisahkan klaim promosi dari bukti independen.
+
+LATIHAN
+Ambil satu grafik dari laporan publik. Catat judul, sumber data, tahun, satuan, skala sumbu, dan populasi yang diwakili. Tulis ulang kesimpulan grafik dalam dua kalimat yang tidak melebih-lebihkan hubungan atau sebab-akibat.
+
+RANGKUMAN BAB
+Literasi media memerlukan kemampuan membaca visualisasi data, membedakan sumber primer dan sekunder, menilai bukti sains, serta mengenali kepentingan komersial. Konteks dan penyebut sering menentukan arti sebuah angka.

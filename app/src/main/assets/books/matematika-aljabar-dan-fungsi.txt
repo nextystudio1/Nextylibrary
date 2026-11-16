@@ -312,3 +312,23 @@ LATIHAN
 4. Nyatakan 2^5=32 dalam bentuk logaritma. Jawaban: log_2(32)=5.
 RANGKUMAN
 Aljabar bukan hanya manipulasi simbol. Pertidaksamaan, nilai mutlak, komposisi, invers, eksponen, dan logaritma membantu memodelkan jarak, batas, pertumbuhan, serta skala. Pemeriksaan domain dan langkah hitung menjaga jawaban tetap sah.
+
+BAB PERSAMAAN KUADRAT
+Persamaan kuadrat memiliki bentuk umum ax² + bx + c = 0 dengan a tidak sama dengan nol. Penyelesaiannya dapat diperoleh melalui pemfaktoran, melengkapkan kuadrat, atau rumus kuadrat. Diskriminan b² − 4ac memberi informasi tentang jenis akar real: positif menghasilkan dua akar real berbeda, nol menghasilkan akar real kembar, dan negatif tidak menghasilkan akar real.
+
+Grafik fungsi kuadrat berbentuk parabola. Tanda koefisien a menentukan arah buka: ke atas jika positif dan ke bawah jika negatif. Titik puncak menunjukkan nilai minimum atau maksimum. Bentuk grafik membantu memodelkan lintasan ideal, luas maksimum, atau hubungan kuantitatif lain, selama asumsi model sesuai.
+
+SISTEM PERSAMAAN
+Sistem persamaan linear mencari nilai variabel yang memenuhi beberapa persamaan sekaligus. Metode substitusi mengganti satu variabel dengan ekspresi yang setara, sedangkan eliminasi menggabungkan persamaan untuk menghilangkan variabel. Pada grafik dua variabel, solusi merupakan titik potong dua garis. Garis sejajar yang berbeda tidak memiliki solusi, sedangkan garis berimpit memiliki tak terhingga banyak solusi.
+
+PERTIDAKSAMAAN DAN DAERAH SOLUSI
+Pertidaksamaan menyatakan hubungan lebih besar, lebih kecil, atau sama dengan. Ketika kedua ruas dikalikan atau dibagi bilangan negatif, arah tanda pertidaksamaan harus dibalik. Untuk dua variabel, setiap pertidaksamaan membentuk daerah pada bidang koordinat. Sistem beberapa pertidaksamaan menghasilkan irisan daerah yang memenuhi seluruh batasan.
+
+FUNGSI EKSPONENSIAL DAN LOGARITMA
+Fungsi eksponensial menggambarkan perubahan ketika variabel berada pada pangkat. Model pertumbuhan eksponensial dapat digunakan jika laju pertumbuhan relatif tetap pada rentang tertentu. Logaritma merupakan operasi kebalikan eksponen dan membantu menyelesaikan persamaan yang variabelnya berada pada pangkat. Model pertumbuhan tidak boleh diekstrapolasi tanpa batas karena sumber daya dan kondisi nyata dapat berubah.
+
+LATIHAN
+Sebuah kegiatan menjual tiket dengan biaya tetap dan pendapatan per tiket tertentu. Bentuk fungsi biaya dan pendapatan, lalu tentukan titik impas dengan menyamakan keduanya. Jelaskan arti solusi dan bagaimana hasil berubah jika biaya tetap meningkat. Gunakan angka simulasi dan periksa satuan.
+
+RANGKUMAN BAB
+Persamaan kuadrat, sistem linear, pertidaksamaan, eksponen, dan logaritma menyediakan alat untuk menyelesaikan masalah dengan batasan. Interpretasi hasil dan pemeriksaan asumsi sama pentingnya dengan prosedur hitung.

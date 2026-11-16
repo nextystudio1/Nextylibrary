@@ -313,3 +313,25 @@ LATIHAN
 3. Mengapa data siswa perlu dilindungi? Karena data dapat mengungkap identitas dan kondisi pribadi yang tidak diperlukan untuk tugas AI.
 RANGKUMAN
 Penerapan AI yang bertanggung jawab membutuhkan tujuan yang jelas, evaluasi nyata, perlindungan data, transparansi, dan pertanggungjawaban manusia.
+
+BAB JENIS DATA DAN REPRESENTASI
+Sistem AI memproses data yang dapat berbentuk angka, kategori, teks, gambar, suara, atau rangkaian waktu. Data terstruktur disimpan dalam format teratur seperti tabel, sedangkan data tidak terstruktur memerlukan proses tambahan untuk dianalisis. Label pada data harus didefinisikan secara jelas agar orang yang memberi label memahami kategori dengan cara yang konsisten.
+
+Kualitas data meliputi ketepatan, kelengkapan, konsistensi, keterkinian, dan keterwakilan. Data yang banyak belum tentu berkualitas. Kesalahan pencatatan, kelompok yang kurang terwakili, dan perubahan cara pengumpulan dapat membuat model menghasilkan prediksi yang tidak adil atau tidak akurat.
+
+PIPELINE PENGEMBANGAN AI
+Pengembangan AI dimulai dari merumuskan masalah dan menentukan apakah AI memang diperlukan. Tim kemudian mengumpulkan data secara sah, memeriksa kualitasnya, memilih pendekatan, melatih model, mengevaluasi hasil, dan merencanakan pemantauan. Setiap tahap perlu didokumentasikan agar keputusan dapat ditinjau.
+
+Sebelum sistem digunakan, tentukan kondisi ketika sistem harus menolak memberi prediksi atau meminta pemeriksaan manusia. Contohnya, model klasifikasi gambar dapat menyatakan “tidak yakin” jika gambar terlalu gelap atau objek berada di luar kategori pelatihan. Mekanisme penolakan lebih bertanggung jawab daripada memaksakan jawaban pada semua masukan.
+
+BIAS DAN DAMPAK SOSIAL
+Bias dapat masuk melalui data historis, pemilihan variabel, definisi target, proses pelabelan, atau cara hasil digunakan. Menghapus atribut sensitif tidak otomatis menghilangkan bias karena variabel lain dapat menjadi proksi. Evaluasi perlu memeriksa kinerja pada kelompok yang relevan dan melibatkan pihak yang memahami dampak keputusan.
+
+AI DALAM PENDIDIKAN
+AI dapat membantu memberi contoh, menyusun latihan, atau menjelaskan konsep dengan cara berbeda. Namun, jawaban yang lancar tidak menjamin kebenaran. Siswa harus memeriksa fakta dengan buku, guru, atau sumber tepercaya, dan tetap mengerjakan bagian penalaran sendiri. Guru perlu menetapkan aturan penggunaan yang jelas agar alat bantu tidak menggantikan proses belajar.
+
+LATIHAN
+Rancang ide sistem AI untuk mengelompokkan sampah berdasarkan foto. Tuliskan kategori, sumber data yang sah, risiko salah klasifikasi, cara mengukur kinerja, serta kapan manusia harus memeriksa hasil. Jangan mengunggah foto orang atau data pribadi.
+
+RANGKUMAN BAB
+AI adalah bagian dari sistem sosial dan teknis. Kualitas data, rancangan evaluasi, mekanisme ketidakpastian, dan pengawasan manusia menentukan apakah penerapannya bermanfaat.

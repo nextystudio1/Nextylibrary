@@ -128,3 +128,58 @@ Catat kronologi, simpan bukti secara aman, gunakan fitur pelaporan, dan minta ba
 
 LATIHAN
 Buat daftar data yang dibagikan sebuah aplikasi hipotetis. Kelompokkan data yang benar-benar diperlukan, data opsional, dan data yang sebaiknya tidak dikumpulkan. Jelaskan alasan serta cara memberi penjelasan yang mudah dipahami pengguna.
+
+BAB 8. KONTRAK DIGITAL DAN KEABSAHAN PERSETUJUAN
+
+Aktivitas digital dapat melibatkan persetujuan atas syarat layanan, pembelian, langganan, atau penggunaan data. Keberadaan tombol “setuju” tidak dengan sendirinya menjawab semua persoalan hukum. Penilaian dapat bergantung pada identitas para pihak, kecakapan, kewenangan, kejelasan informasi, kehendak bebas, objek perjanjian, dan ketentuan hukum yang berlaku.
+
+Pengguna sebaiknya membaca ringkasan biaya, durasi, perpanjangan otomatis, pembatalan, pengembalian dana, serta cara menghubungi penyedia. Penyedia layanan perlu menyampaikan syarat dengan bahasa yang mudah dipahami dan tidak menyembunyikan ketentuan penting. Untuk anak dan remaja, aturan mengenai persetujuan orang tua atau wali dapat berlaku bergantung pada jenis layanan dan yurisdiksi.
+
+BAB 9. KONSUMEN, TRANSAKSI, DAN PENYELESAIAN SENGKETA
+
+Transaksi elektronik memiliki risiko seperti barang tidak sesuai deskripsi, pembayaran ganda, penipuan, layanan tidak diberikan, atau langganan yang sulit dihentikan. Simpan bukti transaksi, deskripsi produk, komunikasi, dan nomor pengaduan secara aman. Jangan membagikan kode autentikasi atau kata sandi ketika mengajukan keluhan.
+
+Langkah penyelesaian dapat dimulai dari kanal resmi penyedia, dilanjutkan mekanisme pengaduan konsumen atau lembaga berwenang sesuai jenis masalah. Prosedur, batas waktu, dan lembaga yang tepat dapat berbeda. Hindari mengunggah seluruh bukti yang memuat alamat, nomor identitas, atau data keuangan ke ruang publik.
+
+BAB 10. DATA PRIBADI DAN TANGGUNG JAWAB PENGENDALI
+
+Data pribadi adalah informasi yang dapat mengidentifikasi seseorang secara langsung atau melalui penggabungan dengan informasi lain. Pengumpulan data seharusnya memiliki tujuan yang jelas, dasar pemrosesan yang sah, dan batas penyimpanan. Prinsip minimisasi berarti hanya mengumpulkan data yang diperlukan untuk tujuan yang dijelaskan.
+
+Pengguna perlu memahami izin aplikasi, tetapi tanggung jawab tidak boleh dibebankan hanya kepada pengguna. Organisasi yang memproses data perlu menerapkan pengamanan, membatasi akses, mengelola vendor, dan memiliki prosedur penanganan insiden. Kebocoran data memerlukan respons yang cepat, penilaian dampak, dan pemberitahuan sesuai ketentuan yang berlaku.
+
+BAB 11. HAK CIPTA, LISENSI, DAN KONTEN DIGITAL
+
+Konten digital seperti tulisan, foto, ilustrasi, video, musik, perangkat lunak, dan desain dapat dilindungi hak cipta. Mengunduh atau menemukan materi secara daring tidak otomatis memberikan izin untuk menggandakan, mengubah, atau mendistribusikannya. Lisensi menjelaskan penggunaan yang diizinkan, termasuk atribusi, penggunaan komersial, dan kewajiban berbagi dengan ketentuan tertentu.
+
+Sebelum menggunakan aset, periksa pencipta, pemegang hak, jenis lisensi, batas penggunaan, dan bukti izin. Kutipan untuk tujuan tertentu memiliki batas dan syarat yang perlu diperiksa menurut hukum setempat. Atribusi tidak menggantikan izin jika izin memang diperlukan. Karya orisinal juga perlu memiliki catatan penciptaan dan kesepakatan hak yang jelas.
+
+BAB 12. IDENTITAS DIGITAL DAN PENYALAHGUNAAN AKUN
+
+Identitas digital terbentuk dari akun, nama pengguna, unggahan, riwayat aktivitas, dan data yang dikaitkan dengan seseorang. Pengambilalihan akun dapat terjadi melalui kata sandi yang digunakan ulang, rekayasa sosial, perangkat yang tidak aman, atau pemulihan akun yang lemah. Gunakan kata sandi unik, autentikasi multifaktor, pembaruan perangkat, serta pemeriksaan sesi aktif bila tersedia.
+
+Jika akun disalahgunakan, gunakan prosedur pemulihan resmi, simpan bukti, beri tahu kontak yang mungkin menerima pesan palsu, dan laporkan melalui kanal yang sesuai. Jangan mencoba membalas dengan mengambil alih akun orang lain atau menyebarkan data pribadi. Tindakan balasan dapat memperbesar kerugian dan menimbulkan masalah hukum.
+
+BAB 13. PLATFORM, MODERASI, DAN KEBEBASAN BEREKSPRESI
+
+Platform digital menetapkan aturan komunitas dan mekanisme moderasi. Keputusan penghapusan konten, pembatasan akun, atau penurunan jangkauan dapat dipengaruhi aturan layanan, hukum, dan sistem otomatis maupun peninjauan manusia. Pengguna perlu membedakan kritik, pelanggaran kebijakan, dan tindakan yang melanggar hukum.
+
+Transparansi moderasi mencakup alasan keputusan, proses banding, konsistensi, dan perlindungan dari penyalahgunaan. Kebebasan berekspresi penting, tetapi tidak berarti setiap platform wajib menampilkan semua konten tanpa aturan. Sebaliknya, aturan platform juga sebaiknya jelas, dapat dipahami, dan diterapkan secara adil.
+
+BAB 14. BUKTI ELEKTRONIK DAN LITERASI PELAPORAN
+
+Informasi digital dapat berubah, dihapus, dipotong, atau kehilangan konteks. Catatan waktu, alamat sumber, identitas akun, dan urutan peristiwa dapat membantu pemeriksaan. Tangkapan layar berguna sebagai catatan, tetapi tidak selalu cukup untuk membuktikan keaslian atau keseluruhan konteks. Jangan mengubah bukti asli; buat salinan kerja bila perlu dan simpan secara aman.
+
+Saat melaporkan masalah, jelaskan kronologi secara faktual, pisahkan hal yang diamati dari dugaan, dan lampirkan bukti yang relevan tanpa menyebarkan data orang lain. Jika ada ancaman keselamatan atau pemerasan, minta bantuan orang dewasa tepercaya dan otoritas yang sesuai. Jangan menghadapi pelaku sendirian atau melakukan penyelidikan yang membahayakan.
+
+STUDI KASUS: APLIKASI YANG MEMINTA IZIN BERLEBIHAN
+
+Sebuah aplikasi pencatat sederhana meminta akses kontak, lokasi terus-menerus, mikrofon, dan foto. Analisis fungsi inti aplikasi, alasan yang diberikan, apakah izin dapat ditolak, pilihan alternatif, serta kebijakan privasinya. Buat daftar pertanyaan kepada penyedia. Jangan menyimpulkan pelanggaran hukum hanya dari banyaknya izin; nilai tujuan, dasar pemrosesan, transparansi, dan ketentuan yang berlaku.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa tombol persetujuan tidak menyelesaikan semua persoalan kontrak? Karena syarat keabsahan dan perlindungan konsumen tetap harus dinilai.
+2. Apa arti minimisasi data? Mengumpulkan hanya data yang diperlukan untuk tujuan yang jelas.
+3. Apakah atribusi selalu cukup untuk memakai karya orang lain? Tidak; lisensi atau izin mungkin tetap diperlukan.
+4. Mengapa tangkapan layar bukan bukti tunggal? Karena konteks, keaslian, waktu, dan sumber perlu diverifikasi.
+5. Apa langkah aman saat akun diambil alih? Gunakan pemulihan resmi, amankan akses, simpan bukti, dan laporkan.
+6. Mengapa analisis hukum perlu menyebut yurisdiksi? Karena aturan dan prosedur berbeda menurut wilayah serta dapat berubah.

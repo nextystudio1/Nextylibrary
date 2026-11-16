@@ -107,7 +107,7 @@ Naskah ini merupakan bahan pembelajaran orisinal yang disusun untuk NextyLibrary
 
 PENDALAMAN MATERI
 
-BAB 6. HIERARKI VISUAL DAN TIPOGRAFI
+PENDALAMAN — HIERARKI VISUAL DAN TIPOGRAFI
 Hierarki visual mengatur urutan perhatian pembaca. Ukuran, ketebalan huruf, warna, jarak, dan posisi dapat menunjukkan mana judul, subjudul, dan informasi pendukung. Tipografi bukan hanya pemilihan jenis huruf, tetapi juga pengaturan ukuran, panjang baris, spasi, dan kontras. Huruf dekoratif dapat menarik perhatian pada judul, tetapi kurang cocok untuk paragraf panjang. Gunakan jumlah jenis huruf secukupnya agar tampilan konsisten. Uji keterbacaan pada ukuran layar dan jarak baca yang wajar. Desain yang baik membantu pembaca menemukan informasi tanpa harus menebak struktur.
 
 BAB 7. WARNA DAN KONTRAS

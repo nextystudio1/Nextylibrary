@@ -27,7 +27,7 @@ LAMPIRAN B. Lembar Evaluasi Mingguan
 GLOSARIUM
 EVALUASI AKHIR
 
-BAB 1. MEMAHAMI ARTI BELAJAR
+BAB 1 — MEMAHAMI ARTI BELAJAR
 
 Belajar adalah proses perubahan pengetahuan, keterampilan, sikap, atau cara berpikir melalui pengalaman, latihan, pengamatan, dan refleksi. Belajar bukan hanya kegiatan membaca buku atau menghafal kalimat. Seseorang benar-benar mempelajari sesuatu ketika ia dapat menjelaskan gagasan dengan kata-katanya sendiri, mengenali kapan gagasan itu dapat digunakan, serta menerapkannya pada situasi yang sesuai.
 
@@ -54,7 +54,7 @@ LATIHAN BAB 1
 3. Mengapa membaca ulang belum tentu membuktikan bahwa seseorang sudah menguasai materi?
 4. Pilih satu topik yang sedang dipelajari. Tuliskan tiga hal yang sudah diketahui dan tiga pertanyaan yang ingin dijawab.
 
-BAB 2. MENENTUKAN TUJUAN DAN RENCANA
+BAB 2 — MENENTUKAN TUJUAN DAN RENCANA
 
 Tujuan belajar memberi arah pada kegiatan. Tujuan yang terlalu umum, seperti “ingin pintar matematika”, sulit digunakan untuk menentukan langkah berikutnya. Tujuan yang lebih jelas menyebutkan kemampuan yang ingin ditunjukkan. Contohnya, “dapat menyelesaikan soal perbandingan dan menjelaskan alasan setiap langkah.” Tujuan seperti ini membantu memilih bahan belajar dan cara mengevaluasi kemajuan.
 
@@ -86,7 +86,7 @@ LATIHAN BAB 2
 3. Mengapa rencana belajar perlu menyediakan waktu istirahat?
 4. Sebutkan dua alasan rencana belajar mungkin perlu diubah.
 
-BAB 3. MENYIAPKAN LINGKUNGAN BELAJAR
+BAB 3 — MENYIAPKAN LINGKUNGAN BELAJAR
 
 Lingkungan belajar mencakup tempat, alat, suasana, dan kebiasaan yang mendukung perhatian. Tempat belajar tidak harus mahal atau memiliki perabot khusus. Hal yang lebih penting adalah cukup aman, memiliki penerangan yang memadai, dan memungkinkan bahan belajar mudah dijangkau.
 
@@ -110,7 +110,7 @@ LATIHAN BAB 3
 2. Rancang perubahan sederhana agar tempat belajar lebih nyaman.
 3. Mengapa membuka terlalu banyak sumber sekaligus dapat mengganggu fokus?
 
-BAB 4. MEMBACA UNTUK MEMAHAMI
+BAB 4 — MEMBACA UNTUK MEMAHAMI
 
 Membaca untuk belajar berbeda dari membaca sekadar menyelesaikan halaman. Pembaca perlu memiliki pertanyaan dan mencari hubungan antargagasan. Sebelum membaca, lihat judul, subjudul, gambar, tabel, dan rangkuman. Buat perkiraan tentang hal yang akan dibahas, kemudian periksa apakah perkiraan itu benar.
 
@@ -141,7 +141,7 @@ LATIHAN BAB 4
 2. Buat dua pertanyaan yang jawabannya dapat ditemukan dalam bacaan.
 3. Apa saja yang perlu diperiksa sebelum menafsirkan grafik?
 
-BAB 5. MENCATAT DAN MENYUSUN PENGETAHUAN
+BAB 5 — MENCATAT DAN MENYUSUN PENGETAHUAN
 
 Catatan yang baik bukan salinan seluruh buku. Catatan berfungsi menyimpan struktur gagasan, istilah, pertanyaan, contoh, dan hubungan penting. Menyalin terlalu banyak dapat menyita waktu tanpa memastikan pemahaman.
 
@@ -165,7 +165,7 @@ LATIHAN BAB 5
 2. Buat peta konsep dengan sedikitnya lima istilah yang saling berhubungan.
 3. Mengapa catatan perlu mencantumkan sumber?
 
-BAB 6. MENGINGAT DENGAN CARA YANG TEPAT
+BAB 6 — MENGINGAT DENGAN CARA YANG TEPAT
 
 Ingatan terbentuk melalui proses menerima informasi, mengolahnya, menyimpannya, dan memanggilnya kembali. Informasi yang hanya dilihat sekilas mungkin sulit diingat. Menghubungkan gagasan dengan pengetahuan sebelumnya, membuat contoh, dan menggunakannya dalam latihan dapat membantu memperkuat pemahaman.
 
@@ -193,7 +193,7 @@ LATIHAN BAB 6
 2. Jelaskan perbedaan membaca ulang dan mengingat aktif.
 3. Buat jadwal pengulangan sederhana untuk materi yang dipelajari hari ini.
 
-BAB 7. LATIHAN, SOAL, DAN UMPAN BALIK
+BAB 7 — LATIHAN, SOAL, DAN UMPAN BALIK
 
 Latihan memberi kesempatan untuk menggunakan pengetahuan. Mulailah dari soal yang menguji konsep dasar, lalu tingkatkan ke soal yang membutuhkan penerapan dan penalaran. Jika langsung mengerjakan soal yang terlalu sulit tanpa dasar yang cukup, pembaca dapat kesulitan mengetahui bagian mana yang belum dipahami.
 
@@ -217,7 +217,7 @@ LATIHAN BAB 7
 2. Jelaskan mengapa jawaban benar tanpa alasan belum tentu menunjukkan pemahaman.
 3. Buat satu soal penerapan dari topik yang sedang dipelajari.
 
-BAB 8. BERPIKIR KRITIS DAN MEMECAHKAN MASALAH
+BAB 8 — BERPIKIR KRITIS DAN MEMECAHKAN MASALAH
 
 Berpikir kritis adalah kemampuan menilai informasi dan alasan secara cermat. Sikap kritis bukan berarti menolak semua pendapat. Sikap ini berarti memeriksa dasar suatu klaim, membedakan bukti dari dugaan, dan bersedia mengubah kesimpulan jika alasan yang lebih kuat ditemukan.
 
@@ -243,7 +243,7 @@ LATIHAN BAB 8
 2. Buat contoh generalisasi terburu-buru.
 3. Susun tiga pilihan untuk menyelesaikan masalah keterlambatan mengumpulkan tugas, lalu bandingkan konsekuensinya.
 
-BAB 9. MENGELOLA WAKTU DAN MENJAGA KONSISTENSI
+BAB 9 — MENGELOLA WAKTU DAN MENJAGA KONSISTENSI
 
 Waktu belajar perlu disusun berdasarkan prioritas dan kemampuan nyata. Bedakan tugas penting, tugas mendesak, dan tugas yang dapat dijadwalkan kemudian. Periksa tenggat, tingkat kesulitan, serta waktu yang dibutuhkan untuk menyelesaikan setiap bagian.
 
@@ -267,7 +267,7 @@ LATIHAN BAB 9
 2. Buat rencana belajar mingguan yang tetap menyediakan waktu istirahat.
 3. Tuliskan satu hambatan belajar dan satu perubahan yang dapat dicoba.
 
-BAB 10. BELAJAR DARI KESALAHAN
+BAB 10 — BELAJAR DARI KESALAHAN
 
 Kesalahan merupakan bagian wajar dari proses belajar. Kesalahan dapat menunjukkan bahwa konsep belum dipahami, strategi belum sesuai, atau informasi yang digunakan belum lengkap. Sikap yang membantu adalah mengamati kesalahan secara spesifik dan menentukan tindakan perbaikan.
 
@@ -288,7 +288,7 @@ LATIHAN BAB 10
 2. Apa perbedaan kesalahan konsep dan kesalahan hitung?
 3. Susun satu pertanyaan spesifik tentang materi yang belum dipahami.
 
-BAB 11. BELAJAR BERSAMA DAN MENJELASKAN KEMBALI
+BAB 11 — BELAJAR BERSAMA DAN MENJELASKAN KEMBALI
 
 Belajar bersama dapat mempertemukan sudut pandang yang berbeda. Diskusi yang baik memiliki tujuan, aturan saling menghormati, dan kesempatan bagi setiap anggota untuk menyampaikan alasan. Kelompok belajar bukan sekadar berkumpul; setiap pertemuan perlu menghasilkan sesuatu, seperti jawaban, rangkuman, atau penyelesaian masalah.
 
@@ -309,7 +309,7 @@ LATIHAN BAB 11
 2. Buat aturan singkat untuk diskusi kelompok yang sehat.
 3. Mengapa setiap anggota perlu memahami hasil kerja kelompok?
 
-BAB 12. PROYEK DAN PENERAPAN PENGETAHUAN
+BAB 12 — PROYEK DAN PENERAPAN PENGETAHUAN
 
 Proyek menghubungkan beberapa pengetahuan untuk menghasilkan karya atau jawaban atas pertanyaan nyata. Proyek dapat berupa laporan pengamatan, model sederhana, poster informasi, percobaan aman, wawancara, atau pemetaan masalah lingkungan. Pilih kegiatan yang sesuai usia, fasilitas, dan aturan keselamatan.
 
@@ -333,7 +333,7 @@ LATIHAN BAB 12
 2. Sebutkan data apa yang diperlukan dan data apa yang tidak perlu dikumpulkan.
 3. Mengapa keterbatasan metode perlu dituliskan dalam laporan?
 
-BAB 13. BELAJAR DI DUNIA DIGITAL
+BAB 13 — BELAJAR DI DUNIA DIGITAL
 
 Teknologi digital menyediakan buku elektronik, video pembelajaran, simulasi, kursus, dan alat bantu pencatatan. Banyaknya pilihan tidak otomatis membuat belajar lebih baik. Pilih sumber berdasarkan tujuan, mutu isi, aksesibilitas, dan kejelasan penulis atau lembaganya.
 
@@ -357,7 +357,7 @@ LATIHAN BAB 13
 2. Sebutkan tiga informasi pribadi yang tidak boleh sembarangan dibagikan.
 3. Mengapa jawaban dari alat kecerdasan buatan perlu diperiksa?
 
-BAB 14. MENYUSUN SISTEM BELAJAR PRIBADI
+BAB 14 — MENYUSUN SISTEM BELAJAR PRIBADI
 
 Sistem belajar pribadi adalah rangkaian kebiasaan yang membantu seseorang menentukan apa yang dipelajari, bagaimana mempelajarinya, dan bagaimana memeriksa kemajuan. Sistem yang baik tidak harus rumit. Sistem perlu mudah digunakan dan dapat diubah ketika kebutuhan berubah.
 
@@ -441,22 +441,22 @@ Belajar yang efektif bukan tentang menghabiskan waktu sebanyak-banyaknya atau me
 © 2026 Tim Edukasi Nexty Studio. Naskah orisinal untuk NextyLibrary.
 
 PENDALAMAN: STRATEGI BELAJAR, METAKOGNISI, DAN KEBIASAAN
-BAB 7 — INGATAN DAN PENGULANGAN BERJARAK
+BAB 15 — INGATAN DAN PENGULANGAN BERJARAK
 Belajar bukan hanya membaca berulang. Mengambil kembali informasi dari ingatan melalui latihan soal atau menjelaskan tanpa melihat catatan dapat memperkuat retensi. Pengulangan berjeda memberi jarak antar sesi sehingga materi dipanggil kembali setelah sebagian waktu berlalu.
 Jadwal dapat disesuaikan dengan tingkat kesulitan dan waktu ujian. Materi yang sulit dapat diulang lebih sering, tetapi jeda dan istirahat tetap penting.
-BAB 8 — LATIHAN BERTAHAP DAN UMPAN BALIK
+BAB 16 — LATIHAN BERTAHAP DAN UMPAN BALIK
 Latihan bertahap dimulai dari contoh yang dikerjakan, lalu beralih ke soal dengan bantuan, dan akhirnya soal mandiri. Umpan balik yang baik menjelaskan bagian yang tepat, kesalahan, dan langkah perbaikan.
 Kesalahan adalah informasi tentang strategi yang belum berhasil. Catat jenis kesalahan dan cari pola, misalnya salah memahami pertanyaan, salah rumus, atau kurang teliti menghitung.
-BAB 9 — MENGATUR WAKTU DAN PRIORITAS
+BAB 17 — MENGATUR WAKTU DAN PRIORITAS
 Pecah tugas besar menjadi langkah yang dapat dilakukan. Tentukan prioritas berdasarkan tenggat, kepentingan, dan perkiraan waktu. Jadwal yang realistis menyisakan ruang untuk perubahan dan istirahat.
 Hindari memenuhi jadwal dengan terlalu banyak target. Tinjau kemajuan secara berkala dan ubah strategi jika beban tidak sesuai.
-BAB 10 — MEMBACA AKTIF DAN CATATAN
+BAB 18 — MEMBACA AKTIF DAN CATATAN
 Membaca aktif dimulai dengan pertanyaan tentang tujuan bacaan. Catat ide utama, istilah, bukti, dan pertanyaan yang belum terjawab. Ringkasan dengan kata sendiri lebih berguna daripada menyalin seluruh paragraf.
 Peta konsep dapat menunjukkan hubungan antar gagasan. Gunakan simbol dan warna secukupnya agar struktur membantu pemahaman, bukan menjadi pekerjaan dekoratif.
-BAB 11 — BELAJAR KOLABORATIF
+BAB 19 — BELAJAR KOLABORATIF
 Diskusi kelompok efektif ketika setiap peserta memiliki tugas dan tujuan yang jelas. Menjelaskan konsep kepada teman dapat mengungkap bagian yang belum dipahami. Kelompok perlu memberi ruang bagi pertanyaan dan koreksi yang sopan.
 Pastikan semua anggota berkontribusi. Jangan mengandalkan satu orang menyelesaikan seluruh pekerjaan.
-BAB 12 — EVALUASI STRATEGI BELAJAR
+BAB 20 — EVALUASI STRATEGI BELAJAR
 Nilai strategi berdasarkan bukti: apakah dapat menjelaskan konsep, menyelesaikan soal baru, dan mengingat materi setelah jeda? Lama belajar saja tidak cukup untuk mengukur hasil.
 Jika hasil belum sesuai, ubah metode, bukan sekadar menambah durasi tanpa arah. Kombinasikan latihan mengingat, contoh, diskusi, dan istirahat.
 LATIHAN
@@ -479,7 +479,7 @@ LATIHAN
 
 
 
-BAB 15. MEMERIKSA KEMAJUAN TANPA TERJEBAK NILAI
+BAB 21 — MEMERIKSA KEMAJUAN TANPA TERJEBAK NILAI
 
 Nilai ujian memberi sebagian informasi tentang hasil belajar, tetapi tidak selalu menunjukkan seluruh kemampuan. Periksa juga apakah pembaca mampu menjelaskan konsep, memilih strategi yang tepat, menemukan kesalahan, dan menerapkan pengetahuan pada masalah baru. Gunakan beberapa bukti: latihan, proyek, penjelasan lisan, catatan refleksi, dan hasil tugas.
 
@@ -487,7 +487,7 @@ Kesalahan dapat dikelompokkan menjadi kesalahan konsep, prosedur, ketelitian, at
 
 Umpan balik yang berguna bersifat spesifik. Pernyataan “belajar lebih giat” tidak memberi petunjuk jelas. Pernyataan “jelaskan mengapa penyebut disamakan sebelum menjumlahkan pecahan” menunjukkan bagian yang harus diperbaiki. Setelah menerima umpan balik, lakukan revisi dan coba soal sejenis.
 
-BAB 16. MENGGUNAKAN SUMBER BELAJAR DENGAN BIJAK
+BAB 22 — MENGGUNAKAN SUMBER BELAJAR DENGAN BIJAK
 
 Sumber belajar dapat berupa buku, guru, video, simulasi, artikel, dan diskusi. Pilih sumber berdasarkan tujuan dan keandalannya. Untuk informasi ilmiah atau kesehatan, utamakan lembaga pendidikan, badan publik, jurnal, dan buku ajar yang jelas penulis serta tanggalnya. Konten populer dapat menjadi pengantar, tetapi klaim penting perlu diperiksa melalui sumber lain.
 

@@ -174,3 +174,29 @@ Ketahanan pangan: Kondisi ketika semua orang memiliki akses terhadap pangan yang
 
 CATATAN BELAJAR DAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar dan publikasi lembaga kompeten. Catat penulis atau lembaga, judul, tahun, dan bagian sumber. Periksa tanggal pembaruan terutama untuk pengetahuan yang berkembang, peraturan, teknologi, dan data statistik.
+
+BAB LANJUTAN: KEAMANAN PANGAN DARI PRODUKSI HINGGA KONSUMSI
+
+1. Bahaya dan risiko
+Keamanan pangan membahas pencegahan bahaya biologis, kimia, dan fisik. Bahaya adalah sesuatu yang berpotensi menimbulkan dampak; risiko mempertimbangkan peluang dan tingkat keparahan dampaknya. Penilaian perlu memperhatikan jenis pangan, proses, kondisi penyimpanan, kelompok konsumen, dan cara penyajian.
+
+2. Kebersihan dan pencegahan kontaminasi silang
+Bahan mentah dan pangan siap santap perlu dipisahkan. Peralatan, permukaan kerja, tangan, dan wadah harus dijaga kebersihannya. Air yang digunakan harus memenuhi persyaratan. Bahan pembersih disimpan terpisah dari bahan pangan dan digunakan sesuai petunjuk. Kebersihan bukan hanya tampilan; prosedur harus konsisten dan dapat diperiksa.
+
+3. Suhu dan penyimpanan
+Suhu memengaruhi pertumbuhan mikroorganisme dan mutu pangan. Ikuti panduan keamanan pangan yang berlaku untuk jenis bahan dan prosesnya. Jangan mengandalkan bau atau tampilan sebagai satu-satunya tanda aman. Catat waktu penerimaan, kondisi penyimpanan, suhu pemantauan, dan tindakan ketika terjadi penyimpangan.
+
+4. Pelabelan dan informasi konsumen
+Label membantu konsumen memahami komposisi, alergen, berat bersih, tanggal, petunjuk penyimpanan, dan identitas produsen. Klaim gizi atau kesehatan harus memiliki dasar dan mengikuti aturan. Informasi alergen perlu ditampilkan secara jelas untuk membantu konsumen membuat keputusan.
+
+5. Mutu berbeda dari keamanan
+Pangan dapat mengalami perubahan warna, tekstur, atau rasa tanpa semua perubahan itu menunjukkan bahaya yang sama. Sebaliknya, pangan yang tampak normal belum tentu bebas bahaya. Karena itu, keputusan keamanan harus berdasarkan proses, riwayat penyimpanan, dan pedoman yang sahih.
+
+6. Sistem pengendalian
+Produsen dapat memetakan tahapan proses, mengidentifikasi bahaya, menetapkan langkah pengendalian, melakukan pemantauan, dan menyimpan catatan. Jika terjadi penyimpangan, produk perlu ditangani sesuai prosedur dan tidak boleh dipasarkan hanya demi menghindari kerugian.
+
+7. Komunikasi risiko
+Pesan keamanan pangan harus spesifik, mudah dipahami, dan tidak menimbulkan kepanikan. Jelaskan apa yang diketahui, apa yang belum pasti, siapa yang perlu mengambil tindakan, dan sumber informasi resmi yang dapat diperiksa.
+
+LATIHAN
+Rancang alur sederhana pembuatan makanan di kantin sekolah. Tandai titik penerimaan bahan, penyimpanan, persiapan, pengolahan, penyajian, dan pembersihan. Untuk setiap tahap, tulis potensi bahaya dan cara pengendaliannya.

@@ -475,3 +475,54 @@ Algoritma rekomendasi: sistem yang memilih konten untuk disarankan kepada penggu
 Ad hominem: kekeliruan yang menyerang pribadi, bukan argumen.
 Generalisasi tergesa-gesa: kesimpulan luas dari bukti yang terlalu sedikit.
 Autentikasi multifaktor: verifikasi identitas dengan lebih dari satu jenis bukti.
+BAB 13 — BIAS KONFIRMASI DAN CARA MENGUJINYA
+
+Bias konfirmasi adalah kecenderungan mencari, menafsirkan, dan mengingat informasi yang mendukung keyakinan yang sudah dimiliki. Bias ini dapat terjadi pada siapa pun, termasuk orang yang merasa dirinya objektif. Dalam ruang digital, bias konfirmasi dapat diperkuat oleh pilihan akun yang diikuti, rekomendasi algoritma, dan kelompok diskusi yang memiliki pandangan serupa.
+
+Salah satu cara menguranginya adalah merumuskan terlebih dahulu bukti apa yang dapat mengubah pendapat. Jika tidak ada bukti yang mungkin membuat seseorang mempertimbangkan ulang, keyakinan tersebut berisiko menjadi kebal terhadap pemeriksaan. Carilah sumber yang memiliki metode jelas, bukan sekadar sumber yang menyatakan kesimpulan berbeda.
+
+Menguji klaim bukan berarti selalu mengambil posisi tengah. Jika bukti kuat mendukung satu kesimpulan, kesimpulan itu layak diberi bobot lebih besar. Berpikir kritis berarti menyesuaikan keyakinan dengan kualitas bukti, bukan membagi kepercayaan secara sama rata kepada semua pendapat.
+
+Latihan: pilih satu klaim yang sering muncul di media sosial. Tuliskan alasan yang mendukungnya, alasan yang menentangnya, jenis bukti yang diperlukan, dan kondisi yang akan membuat kesimpulan berubah. Bedakan pengalaman pribadi, kesaksian, data terukur, dan pendapat ahli.
+
+BAB 14 — MEMBACA GRAFIK DAN ANGKA DI MEDIA
+
+Grafik dapat menjelaskan data dengan cepat, tetapi pilihan skala dan cara penyajian dapat memengaruhi kesan pembaca. Sumbu yang tidak dimulai dari nol dapat membuat perbedaan kecil tampak besar pada grafik batang. Grafik garis kadang menggunakan rentang waktu yang dipilih secara selektif sehingga tren terlihat berbeda. Pembaca perlu memeriksa judul, label sumbu, satuan, sumber, periode, dan ukuran sampel.
+
+Rata-rata tidak selalu mewakili keadaan umum. Distribusi pendapatan, misalnya, dapat memiliki beberapa nilai sangat tinggi yang menaikkan rata-rata. Median menunjukkan nilai tengah setelah data diurutkan dan sering lebih tahan terhadap pencilan. Modus menunjukkan nilai yang paling sering muncul. Pemilihan ukuran ringkasan harus sesuai dengan pertanyaan.
+
+Persentase juga perlu memiliki penyebut yang jelas. Pernyataan “naik 50 persen” tidak lengkap tanpa mengetahui nilai awal dan periode perbandingan. Kenaikan dari 2 menjadi 3 berbeda skala dengan kenaikan dari 2.000 menjadi 3.000, meskipun persentasenya sama. Persentase perubahan dihitung dari selisih dibagi nilai awal, kemudian dikalikan 100 persen.
+
+Korelasi menunjukkan bahwa dua variabel berubah bersama, tetapi tidak dengan sendirinya membuktikan hubungan sebab-akibat. Variabel ketiga dapat memengaruhi keduanya, atau hubungan dapat terjadi secara kebetulan. Untuk menyimpulkan sebab-akibat diperlukan rancangan penelitian yang tepat, pengendalian faktor pengganggu, dan bukti tambahan.
+
+BAB 15 — JEJAK DIGITAL DAN REPUTASI
+
+Jejak digital adalah data yang tertinggal dari aktivitas seseorang di layanan digital. Sebagian jejak dibuat secara sadar, seperti unggahan dan komentar. Sebagian lain tercatat otomatis, misalnya waktu akses, preferensi, atau data teknis perangkat. Jejak tersebut dapat disimpan, disalin, dan dibagikan lebih luas daripada yang dibayangkan pembuatnya.
+
+Sebelum mengunggah sesuatu, pertimbangkan tujuan, audiens, konteks, dan kemungkinan penyebaran ulang. Informasi pribadi orang lain tidak boleh dibagikan tanpa izin yang sesuai. Tangkapan layar percakapan tetap dapat mengungkap identitas atau konteks meskipun nama disamarkan. Menghapus unggahan tidak selalu menghapus salinan yang sudah dibuat pihak lain.
+
+Reputasi digital dibangun dari konsistensi perilaku. Mengoreksi kesalahan secara terbuka, memberi atribusi kepada pembuat karya, dan berkomunikasi dengan hormat membantu membangun kepercayaan. Jika terjadi konflik, simpan bukti yang relevan, gunakan fitur pelaporan, dan mintalah bantuan orang dewasa tepercaya ketika situasinya melibatkan ancaman atau penyalahgunaan.
+
+BAB 16 — MEMERIKSA FOTO, VIDEO, DAN KONTEN BUATAN AI
+
+Foto dan video dapat dipotong, diberi keterangan yang keliru, disusun ulang, atau dihasilkan dengan teknologi generatif. Karena itu, tampilan yang meyakinkan tidak otomatis membuktikan bahwa suatu peristiwa benar-benar terjadi. Pemeriksaan awal dapat dimulai dari sumber unggahan, tanggal, lokasi yang diklaim, konteks peristiwa, dan apakah media yang sama pernah muncul sebelumnya.
+
+Pencarian gambar terbalik dapat membantu menemukan kemunculan gambar yang lebih lama. Namun, hasil pencarian bukan bukti tunggal. Gambar asli pun dapat digunakan dalam narasi yang menyesatkan. Periksa apakah keterangan sesuai dengan isi gambar dan apakah ada sumber independen yang mengonfirmasi peristiwa.
+
+Konten buatan AI dapat memiliki ketidakkonsistenan visual atau suara, tetapi tanda-tanda tersebut semakin sulit dikenali. Detektor otomatis juga dapat keliru. Cara yang lebih kuat adalah memeriksa asal-usul konten, konteks penerbitan, catatan autentisitas jika tersedia, dan konfirmasi dari sumber tepercaya. Jangan menyebarkan konten sensitif hanya untuk menguji apakah orang lain dapat mengenalinya.
+
+BAB 17 — MENYUSUN KESIMPULAN BERBASIS BUKTI
+
+Kesimpulan yang baik memisahkan fakta yang diamati, penafsiran, dan rekomendasi. Fakta harus dapat ditelusuri ke sumber. Penafsiran menjelaskan makna fakta dengan mempertimbangkan keterbatasan. Rekomendasi menyatakan tindakan yang diusulkan beserta alasan dan risikonya.
+
+Gunakan bahasa yang sebanding dengan kekuatan bukti. Jika penelitian hanya menunjukkan hubungan, jangan menulis bahwa satu hal pasti menyebabkan hal lain. Jika data terbatas, sebutkan keterbatasannya. Mengakui ketidakpastian bukan kelemahan; justru membantu pembaca memahami seberapa jauh kesimpulan dapat dipercaya.
+
+Kerangka ringkas untuk mengevaluasi klaim adalah: siapa yang menyampaikan, apa klaimnya, bukti apa yang tersedia, bagaimana bukti dikumpulkan, apakah ada penjelasan alternatif, dan apa yang belum diketahui. Kerangka ini dapat diterapkan pada berita, iklan, unggahan media sosial, maupun diskusi kelas.
+
+BAB 18 — PROYEK LITERASI INFORMASI
+
+Pilih isu publik yang tidak memerlukan pengungkapan data pribadi. Kumpulkan beberapa sumber dengan sudut pandang dan metode berbeda. Catat tanggal terbit, penulis atau lembaga, bukti utama, serta keterbatasan. Buat tabel yang membedakan klaim, bukti pendukung, bukti yang belum tersedia, dan pertanyaan lanjutan.
+
+Setelah itu, tulis ringkasan yang menjelaskan apa yang dapat disimpulkan dan apa yang belum dapat dipastikan. Minta teman membaca ringkasan untuk memeriksa apakah bahasa yang digunakan terlalu mutlak atau memihak. Revisi berdasarkan masukan yang beralasan.
+
+Penilaian proyek dapat menggunakan empat kriteria: ketepatan sumber, kualitas pemeriksaan bukti, kejelasan penalaran, dan tanggung jawab komunikasi. Tujuan akhirnya bukan memenangkan perdebatan, melainkan menghasilkan pemahaman yang lebih akurat dan membantu orang mengambil keputusan secara bijaksana.

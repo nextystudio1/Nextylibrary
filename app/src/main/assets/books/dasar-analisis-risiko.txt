@@ -16,18 +16,18 @@ PENDALAMAN
 Pada BAHAYA DAN RISIKO, bedakan sumber bahaya, siapa atau apa yang terpapar, kondisi kerentanan, kemungkinan kejadian, dan besarnya dampak. Jangan menyamakan keberadaan bahaya dengan kepastian terjadinya kerugian.
 
 KEGIATAN BELAJAR
-1. Pilih satu istilah penting dari BAHAYA DAN RISIKO dan jelaskan dengan kalimat sendiri.
-2. Buat diagram yang menunjukkan hubungan antarkonsep pada bab ini.
-3. Susun satu contoh penerapan yang sesuai dengan bidang Dasar Analisis Risiko.
-4. Tulis satu kondisi yang dapat membuat penerapan konsep berubah.
-5. Presentasikan temuan dan jelaskan bukti yang mendukungnya.
+1. Pilih satu kegiatan sekolah, misalnya perjalanan studi atau penggunaan laboratorium, lalu daftar sumber bahaya tanpa melakukan tindakan berisiko.
+2. Untuk setiap bahaya, identifikasi pihak yang mungkin terpapar dan dampak yang mungkin timbul.
+3. Jelaskan satu pengendalian yang dapat mengurangi risiko pada sumbernya.
+4. Tentukan indikator sederhana untuk memeriksa apakah pengendalian berjalan.
+5. Nyatakan informasi yang belum diketahui dan perlu diperiksa oleh penanggung jawab.
 
 LATIHAN
-1. Apa gagasan utama yang dijelaskan dalam BAHAYA DAN RISIKO?
-2. Jelaskan hubungan antara dua konsep penting pada bab ini.
-3. Terapkan konsep tersebut pada satu kasus baru dan uraikan alasannya.
-4. Sebutkan asumsi atau keterbatasan yang perlu diperhatikan.
-5. Informasi apa yang masih diperlukan agar kesimpulan lebih kuat?
+1. Bedakan bahaya, paparan, kerentanan, dan risiko dengan contoh yang aman.
+2. Mengapa penilaian kemungkinan dan dampak memerlukan kriteria yang jelas?
+3. Bandingkan pengendalian pada sumber bahaya dengan imbauan agar individu lebih berhati-hati.
+4. Apa yang dimaksud risiko residual setelah pengendalian diterapkan?
+5. Sebutkan dua alasan daftar risiko perlu ditinjau ulang.
 
 BAB 2. IDENTIFIKASI BAHAYA
 

@@ -13,10 +13,11 @@ BAB 1. ROBOT SEBAGAI SISTEM
 Robot adalah sistem yang menggabungkan bagian mekanis, elektronik, sensor, aktuator, dan perangkat lunak untuk menjalankan tugas. Tidak semua mesin otomatis merupakan robot. Sebuah robot umumnya menerima informasi dari lingkungan, memprosesnya, lalu menghasilkan tindakan. Desain dimulai dari kebutuhan tugas, batas ruang, keselamatan, dan kemampuan yang diharapkan.
 
 PENDALAMAN KONSEP
-Dalam mempelajari topik ini, mulai dengan mendefinisikan istilah secara tepat. Perhatikan kondisi yang membuat suatu prinsip berlaku dan keadaan yang dapat mengubah hasil. Bandingkan lebih dari satu contoh. Jika terdapat data, periksa satuan, cara pengukuran, sumber, serta rentang waktunya. Penjelasan yang baik tidak hanya menyebut hasil, tetapi juga menunjukkan alasan dan batas kesimpulan.
+Arsitektur robot dapat dipahami sebagai aliran informasi dan energi. Sensor mengubah keadaan lingkungan menjadi sinyal; rangkaian antarmuka mengondisikan sinyal agar dapat dibaca pengendali; perangkat lunak menafsirkan data; lalu pengendali mengirim perintah ke penggerak. Jalur energi berbeda dari jalur informasi: baterai atau catu daya menyediakan energi, sedangkan sinyal kendali menentukan kapan dan bagaimana energi digunakan. Memisahkan kedua jalur ini membantu menemukan sumber kegagalan.
+Spesifikasi robot sebaiknya ditulis sebagai kebutuhan yang dapat diuji. Kebutuhan “dapat membawa barang” perlu dijabarkan menjadi massa beban, ukuran barang, jarak tempuh, kemiringan lantai, waktu operasi, dan batas kecepatan. Spesifikasi juga memuat kondisi lingkungan dan batas keselamatan. Tanpa batas yang jelas, keberhasilan uji sulit dinilai secara objektif.
 
 CONTOH PENERAPAN
-Pilih situasi sederhana yang dapat diamati atau dibaca dari sumber tepercaya. Uraikan masalah, pihak yang terlibat, informasi yang tersedia, dan pilihan tindakan. Gunakan konsep bab untuk menjelaskan hubungan sebab dan akibat secara hati-hati. Sebutkan faktor lain yang mungkin berpengaruh agar analisis tidak terlalu menyederhanakan keadaan.
+Robot pengantar buku di perpustakaan dapat dibagi menjadi subsistem navigasi, penggerak, penyimpanan barang, antarmuka, dan keselamatan. Kebutuhan awalnya bukan “bergerak otomatis”, melainkan mengantar beban tertentu melalui jalur yang telah dipetakan tanpa menghalangi pengunjung. Tim perlu menguji kemampuan berhenti, mendeteksi penghalang, dan memberi tahu operator ketika jalur tidak dapat dilalui. Keberhasilan dinilai dari ketepatan pengantaran, waktu, jumlah kegagalan, dan keselamatan, bukan hanya dari apakah robot dapat bergerak.
 
 KEGIATAN BELAJAR
 1. Jelaskan satu istilah kunci dari ROBOT SEBAGAI SISTEM dengan kalimat sendiri.
@@ -63,11 +64,13 @@ EVALUASI AKHIR
 5. Sebutkan risiko keselamatan dan privasi yang perlu dipertimbangkan dalam rancangan robot.
 
 GLOSARIUM
-Konsep: Gagasan utama untuk memahami suatu topik.
-Bukti: Informasi yang dapat diperiksa untuk mendukung atau menolak klaim.
-Konteks: Keadaan yang memengaruhi makna dan penerapan.
-Model: Penyederhanaan untuk menjelaskan sistem atau proses.
-Evaluasi: Penilaian berdasarkan kriteria dan informasi.
+Sensor: Komponen yang mengubah besaran lingkungan menjadi sinyal terukur.
+Aktuator: Komponen yang mengubah energi menjadi gerak atau tindakan.
+Torsi: Kecenderungan gaya untuk memutar suatu benda terhadap sumbu.
+Resolusi sensor: Perubahan terkecil pada besaran yang masih dapat dibedakan alat.
+Kalibrasi: Pembandingan hasil ukur dengan acuan untuk mengetahui penyimpangan.
+Umpan balik: Informasi keluaran yang digunakan untuk mengoreksi tindakan sistem.
+Kondisi gagal aman: Keadaan sistem ketika kegagalan terdeteksi dan tindakan berisiko dihentikan.
 
 CATATAN SUMBER
 Naskah Dasar Robotika merupakan materi pembelajaran orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, atau sumber lembaga yang sesuai dengan bidang ini. Catat penulis, judul, tahun, dan bagian yang digunakan; periksa relevansi serta tanggal pembaruan sumber.

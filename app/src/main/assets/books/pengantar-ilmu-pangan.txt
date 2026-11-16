@@ -57,7 +57,6 @@ PROYEK TERPADU
 Pilih satu produk pangan yang umum dijumpai. Buat peta alur dari bahan baku hingga dikonsumsi. Pada setiap tahap, catat perubahan mutu yang mungkin terjadi, potensi bahaya, cara pengendalian, kebutuhan kemasan, serta kemungkinan kehilangan atau limbah. Gunakan label produk dan sumber resmi sebagai bahan kajian; jangan melakukan percobaan dengan bahan yang tidak diketahui keamanannya.
 
 EVALUASI AKHIR
-EVALUASI AKHIR
 1. Jelaskan perbedaan kadar air dan aktivitas air serta pengaruhnya terhadap kestabilan pangan.
 2. Bandingkan perubahan yang terjadi pada pangan selama fermentasi dan pembusukan.
 3. Uraikan tiga kelompok bahaya keamanan pangan dan contoh pencegahannya.
@@ -103,19 +102,19 @@ Pesan keamanan pangan harus spesifik, mudah dipahami, dan tidak menimbulkan kepa
 LATIHAN
 Rancang alur sederhana pembuatan makanan di kantin sekolah. Tandai titik penerimaan bahan, penyimpanan, persiapan, pengolahan, penyajian, dan pembersihan. Untuk setiap tahap, tulis potensi bahaya dan cara pengendaliannya.
 
-BAB 11. KEAMANAN PANGAN DAN HIGIENE
+BAB 7. KEAMANAN PANGAN DAN HIGIENE
 Keamanan pangan bertujuan mencegah bahaya biologis, kimia, dan fisik pada makanan. Kebersihan tangan, peralatan, air, penyimpanan, dan pemisahan bahan mentah dari makanan siap santap membantu mengurangi risiko. Suhu dan waktu penyimpanan memengaruhi pertumbuhan mikroorganisme. Bahan yang tampak normal belum tentu aman, sehingga ikuti petunjuk penyimpanan dan panduan resmi. Orang yang menangani pangan perlu menjaga kebersihan dan mencegah kontaminasi silang.
 
-BAB 12. KARBOHIDRAT, PROTEIN, DAN LEMAK
+BAB 8. KARBOHIDRAT, PROTEIN, DAN LEMAK
 Karbohidrat merupakan sumber energi penting, protein menyediakan asam amino untuk membangun dan memperbaiki jaringan, sedangkan lemak berperan dalam penyimpanan energi, membran sel, dan penyerapan vitamin tertentu. Bahan pangan biasanya mengandung campuran zat gizi. Kualitas pola makan dinilai dari keseluruhan variasi dan kecukupan, bukan satu zat gizi secara terpisah. Kebutuhan berbeda menurut usia, aktivitas, kondisi, dan konteks individu.
 
-BAB 13. MIKRONUTRIEN DAN AIR
+BAB 9. MIKRONUTRIEN DAN AIR
 Vitamin dan mineral dibutuhkan dalam jumlah relatif kecil tetapi memiliki fungsi penting, seperti pembentukan sel darah, kesehatan tulang, fungsi saraf, dan metabolisme. Air membantu transportasi zat, pengaturan suhu, serta berbagai reaksi tubuh. Sumber zat gizi beragam dan dapat berasal dari bahan pangan hewani maupun nabati. Suplemen tidak otomatis diperlukan oleh semua orang; kebutuhan khusus sebaiknya dibahas dengan tenaga kesehatan yang kompeten.
 
-BAB 14. PENGOLAHAN DAN PENGAWETAN PANGAN
+BAB 10. PENGOLAHAN DAN PENGAWETAN PANGAN
 Pengolahan dapat meningkatkan keamanan, daya simpan, rasa, dan kemudahan konsumsi. Pendinginan memperlambat pertumbuhan banyak mikroorganisme, pengeringan mengurangi ketersediaan air, sedangkan pemanasan dengan proses yang tepat dapat menurunkan mikroba. Setiap metode memiliki batas dan tidak menggantikan kebersihan. Kemasan perlu sesuai jenis produk dan kondisi penyimpanan.
 
-BAB 15. SISTEM PANGAN DAN KEBERLANJUTAN
+BAB 11. SISTEM PANGAN DAN KEBERLANJUTAN
 Sistem pangan menghubungkan petani, nelayan, pengolah, pedagang, konsumen, dan pengelola limbah. Kehilangan pangan dapat terjadi saat panen, penyimpanan, pengangkutan, penjualan, dan konsumsi. Perbaikan memerlukan infrastruktur, informasi, teknologi yang sesuai, serta kebijakan. Pilihan pangan juga dipengaruhi harga, budaya, akses, dan ketersediaan lokal.
 
 PROYEK

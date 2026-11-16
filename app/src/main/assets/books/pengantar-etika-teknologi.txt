@@ -55,7 +55,6 @@ EVALUASI AKHIR
 4. Siapa yang seharusnya bertanggung jawab ketika keputusan teknologi merugikan pengguna?
 5. Buat prinsip desain yang menjaga manfaat teknologi sekaligus menghormati hak manusia.
 
-
 GLOSARIUM
 Akuntabilitas: Kewajiban menjelaskan dan mempertanggungjawabkan keputusan.
 Privasi: Hak seseorang mengendalikan informasi pribadinya.

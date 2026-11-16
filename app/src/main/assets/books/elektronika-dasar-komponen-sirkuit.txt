@@ -429,3 +429,67 @@ Pertanyaan: Mengapa batas maksimum absolut tidak boleh dianggap sebagai nilai ke
 
 RANGKUMAN PENGAYAAN
 Memahami sistem elektronik berarti menelusuri energi, sinyal, sensor, pemrosesan, dan umpan balik. Dokumentasi komponen, kalibrasi, keselamatan, serta pengujian terukur menjadi dasar rancangan yang andal.
+
+
+BAB PENGAYAAN 1 — MEMBACA DIAGRAM RANGKAIAN
+
+Diagram rangkaian adalah bahasa visual untuk menjelaskan hubungan listrik. Simbol digunakan untuk mewakili sumber tegangan, resistor, kapasitor, dioda, sakelar, dan komponen lain. Garis menunjukkan hubungan konduktif, bukan selalu bentuk fisik kabel yang sebenarnya. Karena itu, diagram skematik lebih menekankan hubungan fungsi daripada tata letak komponen pada papan.
+
+Sebelum menganalisis rangkaian, identifikasi sumber, jalur arus, titik referensi, dan komponen yang terhubung seri atau paralel. Komponen seri dilalui arus yang sama, sedangkan komponen paralel memiliki beda potensial yang sama pada kedua ujung cabangnya. Kesalahan membaca titik persilangan garis dapat mengubah pemahaman hubungan rangkaian. Perhatikan apakah persilangan diberi titik sambungan atau hanya melintas.
+
+BAB PENGAYAAN 2 — HUKUM KIRCHHOFF DAN ANALISIS DASAR
+
+Hukum arus Kirchhoff menyatakan jumlah arus yang masuk ke sebuah simpul sama dengan jumlah arus yang keluar, jika muatan tidak menumpuk pada simpul tersebut dalam keadaan rangkaian yang dianalisis. Hukum tegangan Kirchhoff menyatakan jumlah perubahan tegangan sepanjang satu lintasan tertutup sama dengan nol. Kedua prinsip ini merupakan konsekuensi kekekalan muatan dan energi dalam model rangkaian.
+
+Contoh: sebuah simpul menerima arus 2 ampere dan 3 ampere. Jika hanya ada satu cabang keluar, arus cabang tersebut 5 ampere. Pada rangkaian tertutup, sumber 9 volt yang terhubung dengan dua penurunan tegangan 4 volt dan 5 volt memenuhi persamaan 9 - 4 - 5 = 0. Tanda positif dan negatif bergantung pada arah lintasan yang dipilih; yang penting adalah konsistensi.
+
+BAB PENGAYAAN 3 — KAPASITOR DAN INDUKTOR
+
+Kapasitor menyimpan energi dalam medan listrik. Kapasitansi menyatakan kemampuan menyimpan muatan per beda potensial. Pada kapasitor ideal, hubungan muatan dan tegangan adalah Q = C V. Kapasitor dapat digunakan untuk penyaringan, penundaan perubahan tegangan, kopling sinyal, dan penyimpanan energi sementara. Nilai kapasitansi, tegangan kerja, toleransi, suhu, serta polaritas pada jenis tertentu harus diperhatikan.
+
+Induktor menyimpan energi dalam medan magnet ketika arus mengalir. Induktansi berkaitan dengan perubahan fluks magnet terhadap arus. Induktor digunakan dalam filter, konverter daya, rangkaian resonansi, dan sistem komunikasi. Pada rangkaian nyata, induktor juga memiliki resistansi kawat dan batas arus sehingga tidak berperilaku ideal.
+
+Kapasitor dan induktor dapat menghasilkan respons yang bergantung pada frekuensi. Reaktansi kapasitor menurun ketika frekuensi meningkat, sedangkan reaktansi induktor meningkat. Prinsip ini menjadi dasar filter yang melewatkan rentang frekuensi tertentu dan meredam rentang lain.
+
+BAB PENGAYAAN 4 — DIODA, TRANSISTOR, DAN PENGUAT
+
+Dioda semikonduktor terutama mengalirkan arus dengan lebih mudah pada satu arah dibanding arah sebaliknya, dalam batas kondisi kerjanya. Dioda penyearah digunakan untuk mengubah arus bolak-balik menjadi bentuk searah berdenyut. Dioda pemancar cahaya menghasilkan cahaya ketika dialiri arus dengan arah dan batas yang sesuai. Setiap dioda memiliki karakteristik tegangan maju, arus maksimum, dan disipasi daya.
+
+Transistor dapat digunakan sebagai sakelar elektronik atau penguat. Pada penggunaan sakelar, transistor dioperasikan dalam keadaan yang mewakili hidup dan mati. Pada penguat, transistor bekerja di wilayah operasi yang dirancang agar perubahan sinyal masukan menghasilkan perubahan keluaran yang terkontrol. Pemilihan titik kerja, beban, dan catu daya menentukan apakah sinyal mengalami distorsi.
+
+Penguat operasional adalah rangkaian terpadu yang banyak digunakan untuk penguatan, penjumlahan, pembandingan, dan pengolahan sinyal. Model ideal membantu analisis awal, tetapi perangkat nyata memiliki batas tegangan masukan, rentang keluaran, bandwidth, arus, dan laju perubahan keluaran. Desain yang baik selalu memeriksa lembar data komponen.
+
+BAB PENGAYAAN 5 — SENSOR DAN PENGUKURAN
+
+Sensor mengubah besaran fisik menjadi sinyal yang dapat dibaca sistem. Sensor suhu, cahaya, tekanan, kelembapan, dan gerak memiliki prinsip kerja serta batas berbeda. Keluaran sensor dapat berupa tegangan analog, arus, resistansi, pulsa, atau data digital. Rangkaian antarmuka menyesuaikan sinyal agar dapat diproses mikrokontroler atau perangkat ukur.
+
+Kalibrasi membandingkan keluaran alat dengan acuan yang diketahui. Kalibrasi membantu menemukan penyimpangan sistematis, tetapi tidak menghilangkan semua ketidakpastian. Pengukuran perlu mencatat rentang, resolusi, kondisi lingkungan, dan prosedur. Jika sensor hanya akurat pada rentang tertentu, hasil di luar rentang tidak boleh dianggap dapat dipercaya.
+
+BAB PENGAYAAN 6 — GANGGUAN, PEMBUMIAN, DAN KOMPATIBILITAS
+
+Gangguan elektromagnetik dapat masuk melalui kabel, catu daya, atau kopling antarjalur. Gejalanya dapat berupa pembacaan sensor tidak stabil, reset tak terduga, atau komunikasi data terganggu. Praktik desain yang baik mencakup jalur arus balik yang terencana, pemisahan sinyal sensitif dari sumber gangguan, penyaringan yang sesuai, dan tata letak yang mengikuti rekomendasi komponen.
+
+Pembumian atau ground dalam rangkaian menjadi titik referensi tegangan dan jalur arus balik. Istilah ini tidak selalu berarti setiap titik ground terhubung langsung ke tanah fisik. Sistem harus dirancang agar arus besar tidak mengalir melalui jalur referensi sinyal yang sensitif. Pada peralatan yang terhubung ke listrik rumah, keselamatan isolasi dan perlindungan harus mengikuti standar serta dilakukan oleh orang yang kompeten.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Apa perbedaan komponen seri dan paralel?
+Jawaban: komponen seri berbagi arus yang sama; komponen paralel memiliki tegangan yang sama pada cabangnya.
+2. Sebuah simpul menerima 1,5 A dan 2 A. Berapa arus keluar jika hanya ada satu cabang keluar?
+Jawaban: 3,5 A.
+3. Apa fungsi utama kapasitor?
+Jawaban: menyimpan energi dalam medan listrik dan digunakan untuk penyaringan atau pengolahan perubahan tegangan.
+4. Mengapa lembar data komponen penting?
+Jawaban: berisi batas operasi, karakteristik, toleransi, dan kondisi penggunaan.
+5. Mengapa hasil sensor perlu dikalibrasi?
+Jawaban: agar pembacaan dibandingkan dengan acuan dan penyimpangan dapat diketahui.
+
+GLOSARIUM TAMBAHAN
+Simpul: titik pertemuan beberapa cabang rangkaian.
+Hukum arus Kirchhoff: jumlah arus masuk simpul sama dengan jumlah arus keluar.
+Hukum tegangan Kirchhoff: jumlah perubahan tegangan pada lintasan tertutup sama dengan nol.
+Kapasitansi: kemampuan kapasitor menyimpan muatan per beda potensial.
+Induktansi: sifat rangkaian yang berkaitan dengan perubahan fluks magnet akibat arus.
+Penyearah: rangkaian yang mengubah arus bolak-balik menjadi keluaran searah.
+Titik kerja: kondisi tegangan dan arus DC tempat komponen beroperasi.
+Kalibrasi: pembandingan alat ukur dengan acuan untuk mengetahui penyimpangan.

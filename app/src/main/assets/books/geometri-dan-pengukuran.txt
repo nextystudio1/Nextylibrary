@@ -192,3 +192,34 @@ LATIHAN TERPADU
 3. Balok berukuran 8 cm × 5 cm × 4 cm. Hitung volume dan luas permukaannya.
 4. Tentukan jarak titik (2,3) dan (8,11).
 5. Jelaskan perbedaan kongruensi dan kesebangunan menggunakan contoh.
+
+BAB LANJUTAN: TRIGONOMETRI DAN MODEL PERIODIK
+
+Trigonometri menghubungkan sudut dengan perbandingan sisi pada segitiga dan fungsi periodik. Sinus dan kosinus digunakan untuk memodelkan gerak berulang, gelombang, rotasi, dan proyeksi. Satuan sudut harus diperhatikan karena derajat dan radian tidak dapat dipertukarkan tanpa konversi.
+
+Model periodik dapat ditulis dalam bentuk yang memuat amplitudo, periode, pergeseran horizontal, dan garis tengah. Amplitudo menunjukkan setengah rentang puncak-ke-lembah, sedangkan periode menunjukkan panjang satu siklus. Parameter tersebut dapat ditaksir dari data, tetapi model sinusoidal tidak cocok untuk semua pola berulang.
+
+Contoh penerapan meliputi perubahan panjang bayangan, pasang surut sederhana, dan sinyal. Data nyata dapat memiliki tren, gangguan, dan beberapa frekuensi. Model harus dibandingkan dengan pengamatan serta dievaluasi residunya.
+
+BAB LANJUTAN: VEKTOR DAN GEOMETRI KOORDINAT
+
+Vektor memiliki besar dan arah. Vektor dapat direpresentasikan melalui komponen pada sumbu koordinat. Penjumlahan vektor dilakukan dengan menjumlahkan komponen sejenis, sedangkan panjang vektor diperoleh dari hubungan Pythagoras pada ruang Euclid.
+
+Hasil kali titik mengukur hubungan arah dua vektor dan berguna untuk menentukan sudut atau proyeksi. Hasil kali silang pada ruang tiga dimensi menghasilkan vektor yang tegak lurus terhadap dua vektor awal. Penggunaan rumus harus disertai pemahaman orientasi dan sistem koordinat.
+
+Geometri koordinat mengubah masalah bentuk menjadi persamaan. Persamaan garis, lingkaran, dan kurva lain dapat dianalisis menggunakan aljabar. Pilih sistem koordinat yang memudahkan perhitungan, tetapi jelaskan arti titik asal dan skala agar hasil dapat ditafsirkan.
+
+BAB LANJUTAN: KETIDAKPASTIAN PENGUKURAN DAN ANGKA PENTING
+
+Setiap pengukuran memiliki ketidakpastian. Ketidakpastian dapat berasal dari resolusi alat, kalibrasi, lingkungan, metode, dan variasi pengamat. Menuliskan terlalu banyak angka desimal tidak membuat hasil lebih akurat.
+
+Angka penting menunjukkan ketelitian pelaporan sesuai alat dan metode. Ketika beberapa besaran digabungkan, ketidakpastian dapat merambat ke hasil. Untuk perhitungan sederhana, pendekatan aturan angka penting membantu pelaporan, sedangkan analisis yang lebih rinci menggunakan propagasi ketidakpastian.
+
+Hasil pengukuran sebaiknya memuat nilai, satuan, metode, dan ketidakpastian yang relevan. Saat membandingkan dua hasil, periksa apakah perbedaannya bermakna dibandingkan ketidakpastian. Jangan menyimpulkan perubahan nyata dari selisih kecil yang berada dalam rentang ketidakpastian.
+
+LATIHAN PENDALAMAN
+1. Apa makna amplitudo dan periode pada model sinusoidal?
+2. Mengapa satuan derajat dan radian harus dibedakan?
+3. Apa perbedaan besar dan arah vektor?
+4. Sebutkan sumber ketidakpastian pengukuran.
+5. Mengapa angka desimal yang banyak tidak menjamin akurasi?

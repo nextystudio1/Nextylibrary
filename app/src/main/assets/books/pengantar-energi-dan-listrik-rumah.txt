@@ -6,7 +6,7 @@ DESKRIPSI
 Memahami energi, daya, tagihan listrik, efisiensi, sumber energi, dan keselamatan kelistrikan secara konseptual.
 
 TUJUAN PEMBELAJARAN
-Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan konsep utama, menghubungkannya dengan situasi sehari-hari, mengevaluasi informasi, dan menerapkan langkah yang bertanggung jawab.
+Setelah mempelajari Pengantar Energi dan Listrik Rumah, pembaca mampu menjelaskan memahami energi, daya, tagihan listrik, efisiensi, sumber energi, dan keselamatan kelistrikan secara konseptual., membedakan istilah yang sering tertukar, menilai contoh berdasarkan bukti, dan menerapkan konsep secara tepat sesuai konteks.
 
 BAB 1. ENERGI DALAM KEHIDUPAN
 
@@ -14,16 +14,18 @@ Energi adalah kemampuan untuk menyebabkan perubahan atau melakukan kerja. Dalam 
 
 Lampu mengubah energi listrik menjadi cahaya dan panas. Kipas mengubah energi listrik menjadi gerak serta bunyi. Perubahan bentuk energi membantu menjelaskan mengapa perangkat tidak selalu mengubah seluruh energi masuk menjadi bentuk yang kita inginkan.
 
-RANGKUMAN BAB
-- Pahami konsep inti dan konteks penerapannya.
-- Periksa asumsi sebelum mengambil kesimpulan.
-- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+RANGKUMAN
+- ENERGI DALAM KEHIDUPAN: pahami istilah dan prinsip yang menjadi dasar pembahasan.
+- Perhatikan hubungan proses, keputusan, dan akibat yang dijelaskan dalam bab.
+- Gunakan contoh untuk menguji apakah konsep dipahami dengan benar.
+- Nyatakan batas informasi sebelum membuat kesimpulan.
 
-LATIHAN BAB 1
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti ENERGI DALAM KEHIDUPAN dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Pengantar Energi dan Listrik Rumah.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 2. DAYA DAN PEMAKAIAN LISTRIK
 
@@ -31,11 +33,12 @@ Daya menyatakan laju penggunaan atau pemindahan energi. Satuan daya adalah watt,
 
 Sebagai latihan hitung, perangkat 100 watt yang digunakan selama 5 jam memakai 500 watt-jam atau 0,5 kilowatt-jam. Perhitungan ini membantu memperkirakan konsumsi, tetapi tagihan sebenarnya juga dipengaruhi tarif, biaya lain, dan cara pencatatan meter.
 
-LATIHAN BAB 2
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti DAYA DAN PEMAKAIAN LISTRIK dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Pengantar Energi dan Listrik Rumah.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 3. MEMBACA LABEL PERANGKAT
 
@@ -43,11 +46,12 @@ Label perangkat dapat memuat tegangan, daya, frekuensi, arus, dan informasi kese
 
 Bandingkan konsumsi energi beberapa perangkat dengan memperhatikan daya dan lama pemakaian. Perangkat berdaya besar yang digunakan sebentar belum tentu memakai energi lebih banyak daripada perangkat kecil yang menyala sepanjang hari.
 
-LATIHAN BAB 3
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti MEMBACA LABEL PERANGKAT dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Pengantar Energi dan Listrik Rumah.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 4. EFISIENSI DAN KEBIASAAN HEMAT
 
@@ -55,11 +59,12 @@ Efisiensi berarti memperoleh layanan yang sama dengan penggunaan energi lebih se
 
 Catat pemakaian listrik selama beberapa periode dan cari perubahan yang masuk akal. Hindari menyimpulkan keberhasilan hanya dari satu angka karena cuaca, jumlah penghuni, dan aktivitas dapat berubah.
 
-LATIHAN BAB 4
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti EFISIENSI DAN KEBIASAAN HEMAT dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Pengantar Energi dan Listrik Rumah.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 5. SUMBER ENERGI DAN DAMPAK
 
@@ -67,11 +72,12 @@ Listrik dapat dihasilkan dari berbagai sumber seperti batu bara, gas, air, panas
 
 Energi terbarukan dapat mengurangi ketergantungan pada bahan bakar fosil, tetapi juga memerlukan perencanaan jaringan dan penyimpanan. Tidak ada sumber energi yang bebas dari seluruh dampak; tujuan kebijakan adalah memilih kombinasi yang aman dan berkelanjutan.
 
-LATIHAN BAB 5
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti SUMBER ENERGI DAN DAMPAK dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Pengantar Energi dan Listrik Rumah.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 BAB 6. KESELAMATAN LISTRIK
 
@@ -79,11 +85,12 @@ Listrik dapat menyebabkan bahaya jika instalasi rusak, basah, kelebihan beban, a
 
 Jika tercium bau terbakar, terlihat percikan, atau perangkat menjadi sangat panas, hentikan penggunaan dari posisi aman dan minta bantuan. Jangan menyiram perangkat listrik dengan air. Keselamatan lebih penting daripada mencoba memperbaiki sendiri.
 
-LATIHAN BAB 6
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+LATIHAN BAB
+1. Jelaskan konsep inti KESELAMATAN LISTRIK dengan istilah yang tepat.
+2. Berikan contoh penerapan yang sesuai dengan bidang Pengantar Energi dan Listrik Rumah.
+3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
+4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
+5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 EVALUASI AKHIR
 1. Pilih tiga konsep dari buku ini dan jelaskan hubungan di antara ketiganya.
@@ -93,7 +100,7 @@ EVALUASI AKHIR
 5. Refleksikan bagian yang paling sulit dipahami serta strategi belajar yang akan digunakan untuk memperbaikinya.
 
 PEMBAHASAN DAN ARAH JAWABAN
-Jawaban yang baik menyebutkan konsep secara tepat, memberikan alasan, memakai contoh yang relevan, dan mengakui keterbatasan informasi. Untuk soal studi kasus, beberapa jawaban dapat diterima selama logis, aman, etis, dan didukung bukti. Untuk pemeriksaan klaim, utamakan sumber primer atau lembaga yang kompeten dan bedakan fakta dari opini.
+Pembahasan Pengantar Energi dan Listrik Rumah harus memperlihatkan alur berpikir: konsep yang dipilih, alasan penerapannya, bukti pendukung, dan batas kesimpulan. Pada soal kasus, nilai kecocokan solusi dengan kondisi. Pada soal verifikasi, periksa asal informasi dan konteksnya.
 
 GLOSARIUM
 Energi: Besaran yang berkaitan dengan kemampuan melakukan kerja atau menyebabkan perubahan.

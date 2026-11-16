@@ -6,7 +6,7 @@ DESKRIPSI
 Memahami sumber daya, eksternalitas, polusi, ekonomi sirkular, kebijakan, dan pembangunan berkelanjutan.
 
 TUJUAN PEMBELAJARAN
-Pembaca mampu menjelaskan konsep, menafsirkan contoh, memeriksa bukti, dan menerapkan pengetahuan secara bertanggung jawab.
+Setelah mempelajari Pengantar Ekonomi Lingkungan, pembaca mampu menjelaskan memahami sumber daya, eksternalitas, polusi, ekonomi sirkular, kebijakan, dan pembangunan berkelanjutan., membedakan istilah yang sering tertukar, menilai contoh berdasarkan bukti, dan menerapkan konsep secara tepat sesuai konteks.
 
 BAB 1. EKONOMI DAN SUMBER DAYA
 
@@ -16,15 +16,17 @@ CONTOH PENERAPAN
 Contoh kajian: pilih kasus sederhana yang berkaitan dengan EKONOMI DAN SUMBER DAYA dalam bidang Pengantar Ekonomi Lingkungan. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
 
 RANGKUMAN
-- Kenali definisi dan batas penggunaan konsep.
-- Hubungkan penjelasan dengan contoh nyata.
-- Periksa satuan, konteks, dan sumber informasi.
+- EKONOMI DAN SUMBER DAYA: pahami istilah dan prinsip yang menjadi dasar pembahasan.
+- Perhatikan hubungan proses, keputusan, dan akibat yang dijelaskan dalam bab.
+- Gunakan contoh untuk menguji apakah konsep dipahami dengan benar.
+- Nyatakan batas informasi sebelum membuat kesimpulan.
 
 LATIHAN
-1. Jelaskan dua istilah utama dari bab ini.
-2. Buat satu contoh baru dan uraikan alasannya.
-3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
-4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+1. Definisikan dua istilah penting dalam EKONOMI DAN SUMBER DAYA.
+2. Jelaskan proses atau hubungan utama secara berurutan.
+3. Buat contoh baru dan terangkan mengapa sesuai.
+4. Identifikasi satu batasan atau kesalahan penafsiran.
+5. Susun pertanyaan yang membutuhkan bukti tambahan.
 
 BAB 2. EKSTERNALITAS
 
@@ -54,7 +56,7 @@ EVALUASI AKHIR
 5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 PEDOMAN JAWABAN
-Jawaban dinilai dari ketepatan konsep, kejelasan alasan, relevansi contoh, dan kemampuan menyatakan batas pengetahuan. Jawaban berbeda dapat diterima apabila didukung penalaran dan bukti yang sesuai.
+Untuk Pengantar Ekonomi Lingkungan, jawaban perlu menggunakan istilah bidang secara akurat, menunjukkan hubungan konsep dengan contoh, dan menjelaskan alasan setiap kesimpulan. Terima penafsiran berbeda jika konsisten, didukung bukti, dan tidak melampaui informasi yang tersedia.
 
 GLOSARIUM
 Eksternalitas: Dampak kegiatan terhadap pihak lain di luar transaksi.
@@ -64,7 +66,7 @@ Keadilan lingkungan: Prinsip pemerataan risiko, manfaat, dan partisipasi lingkun
 Keberlanjutan: Kemampuan menjaga keseimbangan kebutuhan lintas generasi.
 
 SARAN BELAJAR
-Gunakan buku ini sebagai pengantar. Cocokkan informasi dengan buku ajar dan publikasi lembaga yang kompeten, terutama untuk topik yang berkembang. Catat sumber, penulis atau lembaga, tahun, dan bagian yang digunakan ketika memperluas bacaan.
+Saat memperdalam Pengantar Ekonomi Lingkungan, bandingkan penjelasan buku ini dengan buku ajar dan publikasi lembaga yang relevan. Buat daftar istilah baru, cari contoh yang dapat diperiksa, dan catat perbedaan definisi atau metode. Utamakan sumber yang menjelaskan penulis, tanggal, dan dasar informasinya.
 
 PENDALAMAN MATERI
 

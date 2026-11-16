@@ -60,7 +60,11 @@ EVALUASI AKHIR
 5. Tulis kesimpulan berbasis bukti dan sebutkan pertanyaan yang belum terjawab.
 
 GLOSARIUM
-Konsep: Gagasan untuk memahami suatu topik.
+Bahaya: Sumber atau keadaan yang berpotensi menimbulkan kerugian.
+Paparan: Keberadaan manusia, aset, atau lingkungan pada wilayah terdampak.
+Kerentanan: Kondisi yang meningkatkan kemungkinan mengalami kerugian.
+Mitigasi: Upaya mengurangi kemungkinan atau dampak risiko.
+Risiko residual: Risiko yang masih tersisa setelah pengendalian diterapkan.
 Bukti: Informasi yang dapat diperiksa.
 Konteks: Keadaan yang memengaruhi makna atau penerapan.
 Risiko: Gabungan kemungkinan dan dampak kejadian.

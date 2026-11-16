@@ -58,7 +58,6 @@ Tingkat trofik: posisi organisme dalam aliran energi.
 CATATAN PENULIS
 Naskah orisinal Nexty Studio untuk pembelajaran. Identifikasi spesies dan pengelolaan kawasan memerlukan data serta tenaga ahli setempat.
 
-
 PENDALAMAN — JARINGAN KEHIDUPAN DAN KONSERVASI
 BAB 7 — DINAMIKA POPULASI
 Ukuran populasi berubah karena kelahiran, kematian, imigrasi, dan emigrasi. Sumber daya seperti makanan, air, ruang, dan tempat berkembang biak dapat membatasi pertumbuhan. Daya dukung bukan angka tetap; ia berubah mengikuti musim, gangguan, dan kondisi ekosistem. Model pertumbuhan eksponensial dan logistik membantu memahami pola, tetapi populasi nyata dipengaruhi banyak faktor sekaligus.
@@ -120,8 +119,6 @@ BAB 19 — MEMBACA DATA LINGKUNGAN
 Data ekologi berasal dari transek, plot, kamera jebak, penginderaan jauh, dan pengukuran kualitas air. Setiap metode memiliki bias deteksi. Tidak ditemukannya spesies dalam survei singkat tidak selalu berarti spesies tidak ada. Catat lokasi, tanggal, cuaca, metode, upaya sampling, dan ketidakpastian.
 STUDI KASUS
 Sebuah sungai mengalami penurunan kualitas air. Tim memetakan sumber pencemar, mengukur parameter di beberapa titik, mencatat musim dan debit, serta berdiskusi dengan warga. Rekomendasi harus menggabungkan hasil pengukuran, sumber pencemar terverifikasi, dan kemampuan pelaksanaan, bukan menyalahkan kelompok tanpa bukti.
-
-
 
 BAB LANJUTAN — JASA EKOSISTEM DAN KONSERVASI
 

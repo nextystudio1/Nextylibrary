@@ -200,3 +200,25 @@ Rencana pengelolaan perlu menetapkan tujuan, indikator, wilayah, pihak yang terl
 
 LATIHAN
 Buat profil satu kawasan pesisir berdasarkan peta dan sumber terbuka. Identifikasi ekosistem, kegiatan ekonomi, tekanan lingkungan, kelompok yang berkepentingan, serta data tambahan yang masih diperlukan. Bedakan pengamatan langsung dari dugaan.
+
+BAB 11. GELOMBANG, PASANG SURUT, DAN PANTAI
+Gelombang laut membawa energi melalui permukaan air. Tinggi dan periodenya dipengaruhi angin, durasi, dan panjang lintasan angin. Pasang surut terutama berkaitan dengan gaya gravitasi bulan dan matahari serta bentuk cekungan laut. Gelombang dan pasang dapat berinteraksi dengan bentuk pantai, menghasilkan perubahan garis pantai dan transportasi sedimen. Pengamatan kondisi laut harus menggunakan informasi resmi dan memperhatikan keselamatan.
+
+BAB 12. SIRKULASI LAUT DAN IKLIM
+Arus laut mengangkut panas, garam, nutrien, dan organisme. Sirkulasi dipengaruhi angin, perbedaan densitas, rotasi bumi, dan bentuk dasar laut. Arus permukaan dan sirkulasi laut dalam memiliki mekanisme serta skala waktu berbeda. Perubahan sirkulasi dapat memengaruhi iklim regional dan produktivitas ekosistem. Data suhu, salinitas, dan arus perlu dibaca bersama untuk membangun penjelasan.
+
+BAB 13. SEDIMEN DAN BENTUK DASAR LAUT
+Sedimen berasal dari pelapukan daratan, sisa organisme, dan proses kimia. Ukuran butir serta komposisinya dipengaruhi sumber, energi arus, kedalaman, dan kondisi kimia. Sedimen dapat merekam perubahan lingkungan, tetapi proses pengadukan dan perpindahan dapat mengubah susunannya. Peta batimetri membantu memahami bentuk dasar laut dan penting untuk navigasi serta penelitian.
+
+BAB 14. METODE DAN INSTRUMEN OSEANOGRAFI
+Pengukuran laut menggunakan alat seperti termometer, sensor tekanan, pengukur salinitas, pelampung, sonar, dan penginderaan jauh. Setiap alat memiliki rentang, resolusi, kalibrasi, serta sumber galat. Catatan metadata harus menyebut waktu, lokasi, kedalaman, metode, dan kondisi pengukuran. Data dari instrumen berbeda perlu diselaraskan sebelum dibandingkan.
+
+BAB 15. OSEANOGRAFI TERAPAN DAN KEBERLANJUTAN
+Pengetahuan oseanografi mendukung perencanaan pesisir, pelayaran, perikanan, konservasi, dan kesiapsiagaan bencana. Model dapat membantu memperkirakan arus atau sebaran pencemar, tetapi hasilnya bergantung pada data masukan dan asumsi. Keputusan tidak boleh hanya mengandalkan satu peta atau satu prediksi. Informasi ilmiah perlu dipadukan dengan pengetahuan lokal dan komunikasi risiko yang jelas.
+
+LATIHAN
+1. Bedakan gelombang dan arus.
+2. Sebutkan faktor yang memengaruhi pasang surut.
+3. Bagaimana sedimen dapat merekam perubahan lingkungan?
+4. Mengapa instrumen perlu dikalibrasi?
+5. Sebutkan keterbatasan model oseanografi.

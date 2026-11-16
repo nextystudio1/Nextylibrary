@@ -183,3 +183,32 @@ LATIHAN DAN PEMBAHASAN
 4. Mengapa tangkapan layar bukan bukti tunggal? Karena konteks, keaslian, waktu, dan sumber perlu diverifikasi.
 5. Apa langkah aman saat akun diambil alih? Gunakan pemulihan resmi, amankan akses, simpan bukti, dan laporkan.
 6. Mengapa analisis hukum perlu menyebut yurisdiksi? Karena aturan dan prosedur berbeda menurut wilayah serta dapat berubah.
+
+BAB LANJUTAN: KONTRAK DIGITAL DAN TRANSAKSI ELEKTRONIK
+
+Transaksi digital dapat melibatkan pengguna, penyedia platform, penjual, penyedia pembayaran, dan pihak pengiriman. Hak dan kewajiban masing-masing pihak perlu dibaca dari ketentuan layanan, informasi harga, kebijakan pengembalian, serta aturan perlindungan konsumen yang berlaku. Tombol persetujuan tidak berarti semua ketentuan otomatis adil atau dapat diberlakukan tanpa batas.
+
+Sebelum menyetujui transaksi, periksa identitas pihak yang menawarkan, rincian barang atau jasa, total biaya, ketentuan pembatalan, dan cara menghubungi layanan pengaduan. Simpan bukti transaksi secara aman. Hindari membagikan kode autentikasi atau kata sandi kepada pihak yang mengaku sebagai petugas.
+
+Kontrak elektronik dapat memiliki akibat hukum, tetapi penilaian keabsahan dan sengketa bergantung pada hukum yang berlaku, kapasitas para pihak, persetujuan, bukti, dan konteks transaksi. Materi ini merupakan pengantar literasi, bukan nasihat hukum untuk kasus tertentu.
+
+BAB LANJUTAN: DATA PRIBADI DAN TANGGUNG JAWAB PLATFORM
+
+Data pribadi dapat muncul dalam formulir, foto, lokasi, identitas perangkat, riwayat transaksi, dan interaksi daring. Pengumpulan data seharusnya memiliki tujuan yang jelas, dasar pemrosesan yang sah, pembatasan akses, masa simpan yang wajar, dan perlindungan keamanan. Pengguna perlu memahami bahwa pengaturan privasi tidak selalu menghapus seluruh jejak yang telah disalin pihak lain.
+
+Platform memiliki tanggung jawab sesuai peran dan aturan yang berlaku, sementara pengguna juga perlu berhati-hati terhadap informasi yang dibagikan. Tanggung jawab tidak boleh dibebankan sepenuhnya kepada individu jika desain layanan mendorong pengumpulan berlebihan atau menyembunyikan pilihan penting.
+
+Ketika terjadi insiden, catat informasi yang relevan, gunakan saluran pengaduan resmi, dan hindari menyebarkan data korban. Organisasi perlu memiliki prosedur respons, penilaian dampak, pembatasan akses, serta pemberitahuan sesuai kewajiban hukum.
+
+BAB LANJUTAN: BUKTI DIGITAL DAN PROSEDUR PENANGANAN SENGKETA
+
+Bukti digital dapat berupa pesan, dokumen, log sistem, rekaman transaksi, atau metadata. Nilai bukti dipengaruhi keaslian, integritas, relevansi, cara memperoleh, dan konteks. Potongan layar tanpa informasi sumber dan urutan percakapan dapat menghilangkan konteks penting.
+
+Dalam sengketa, simpan salinan asli jika aman dan sah, catat tanggal serta sumber, dan jangan mengubah isi. Hindari mengakses akun atau perangkat orang lain tanpa izin. Jika perkara serius, mintalah bantuan orang dewasa tepercaya dan profesional yang berwenang; prosedur formal harus mengikuti ketentuan yurisdiksi.
+
+LATIHAN PENDALAMAN
+1. Informasi apa yang sebaiknya diperiksa sebelum transaksi digital?
+2. Mengapa tanggung jawab perlindungan data tidak hanya berada pada pengguna?
+3. Sebutkan unsur yang memengaruhi keandalan bukti digital.
+4. Mengapa konteks percakapan penting saat menilai tangkapan layar?
+5. Apa batas materi literasi hukum dibandingkan nasihat hukum kasus tertentu?

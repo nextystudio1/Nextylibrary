@@ -127,3 +127,58 @@ LATIHAN
 3. Mengapa titik dengan turunan nol belum tentu maksimum?
 4. Berikan contoh integral sebagai akumulasi.
 5. Mengapa hasil numerik perlu disertai informasi galat?
+
+BAB 12. LIMIT DAN KONTINUITAS SECARA MENDALAM
+
+Limit menggambarkan nilai yang didekati fungsi ketika variabel mendekati suatu titik. Nilai fungsi tepat di titik tersebut dapat berbeda atau bahkan tidak terdefinisi, sementara limitnya tetap ada. Sebagai contoh, fungsi (x²−1)/(x−1) tidak terdefinisi pada x=1, tetapi untuk x selain 1 dapat disederhanakan menjadi x+1 sehingga limit saat x mendekati 1 adalah 2.
+
+Limit satu sisi diperlukan ketika perilaku dari kiri dan kanan berbeda. Limit dua sisi ada jika kedua limit satu sisi sama. Kontinuitas di suatu titik mensyaratkan fungsi terdefinisi di titik itu, limitnya ada, dan nilai fungsi sama dengan limit tersebut. Tiga syarat ini membantu mengklasifikasikan lubang, loncatan, dan perilaku tak terbatas pada grafik.
+
+BAB 13. ATURAN TURUNAN DAN RANTAI
+
+Turunan hasil kali dan hasil bagi digunakan ketika fungsi dibentuk dari beberapa komponen. Aturan rantai digunakan untuk fungsi komposisi: perubahan fungsi luar dikalikan laju perubahan fungsi dalam. Jika y=f(g(x)), maka dy/dx=f'(g(x))g'(x). Aturan ini penting untuk model yang menghubungkan beberapa tahap, misalnya posisi yang bergantung pada waktu melalui kecepatan yang juga berubah.
+
+Turunan implisit membantu ketika hubungan dua variabel tidak mudah ditulis sebagai satu fungsi eksplisit. Dengan mendiferensiasikan kedua sisi terhadap x, variabel y diperlakukan sebagai fungsi x sehingga turunan y menghasilkan dy/dx. Hasil perlu diperiksa pada titik yang memenuhi persamaan awal.
+
+BAB 14. APLIKASI TURUNAN: OPTIMASI DAN LAJU TERKAIT
+
+Masalah optimasi dimulai dengan menentukan besaran yang ingin dimaksimalkan atau diminimalkan. Tuliskan fungsi tujuan, batasan, dan domain yang masuk akal. Titik kritis terjadi ketika turunan nol atau tidak ada, tetapi kandidat juga harus dibandingkan dengan titik batas. Uji turunan kedua dapat membantu mengklasifikasikan maksimum atau minimum lokal, namun pemeriksaan domain tetap penting.
+
+Laju terkait menghubungkan perubahan beberapa besaran yang saling bergantung. Misalnya, luas lingkaran berubah ketika jari-jari berubah. Diferensiasikan hubungan terhadap waktu, lalu masukkan nilai pada saat yang diminta. Jangan memasukkan angka terlalu awal karena hubungan umum diperlukan agar ketergantungan antarvariabel tetap terlihat.
+
+BAB 15. INTEGRAL TENTU DAN TEOREMA DASAR
+
+Integral tentu dapat dipahami sebagai limit jumlah Riemann. Interval dibagi menjadi potongan kecil, lalu nilai fungsi dikalikan lebar potongan dan dijumlahkan. Dalam limit, jumlah tersebut menjadi akumulasi bertanda. Jika fungsi berada di bawah sumbu horizontal, kontribusinya negatif; luas geometris total memerlukan perhatian terhadap tanda atau pemisahan interval.
+
+Teorema dasar kalkulus menyatakan hubungan antara turunan dan integral. Jika F adalah antiturunan f, integral f dari a ke b sama dengan F(b)−F(a). Rumus ini membuat perhitungan integral tertentu lebih efisien. Satuan hasil integral adalah satuan fungsi dikalikan satuan variabel, sebuah pemeriksaan penting dalam penerapan.
+
+BAB 16. TEKNIK INTEGRASI DAN PEMILIHAN METODE
+
+Substitusi digunakan ketika bagian dari integran berkaitan dengan turunan fungsi lain. Integrasi parsial berasal dari aturan turunan hasil kali dan berguna untuk produk fungsi. Pecahan parsial dapat menyederhanakan fungsi rasional menjadi bentuk yang lebih mudah diintegralkan. Tidak ada satu teknik yang selalu berhasil; struktur integran memberi petunjuk metode yang tepat.
+
+Saat melakukan substitusi pada integral tentu, batas harus diubah sesuai variabel baru atau dikembalikan ke variabel semula. Kesalahan batas sering menghasilkan jawaban yang tampak rapi tetapi salah. Setelah memperoleh hasil, diferensiasikan antiturunan untuk memeriksa apakah kembali ke integran awal.
+
+BAB 17. DERET DAN PENDEKATAN FUNGSI
+
+Deret tak hingga memerlukan pengujian konvergensi. Suku yang menuju nol merupakan syarat perlu, tetapi bukan syarat cukup. Deret geometri konvergen ketika nilai mutlak rasionya kurang dari satu. Uji perbandingan, rasio, akar, dan integral memiliki kondisi penggunaan yang berbeda; memilih uji perlu didasarkan pada bentuk deret.
+
+Deret Taylor merepresentasikan fungsi melalui polinom di sekitar suatu titik ketika syarat yang sesuai terpenuhi. Polinom dapat memberikan pendekatan numerik, tetapi galat pemotongan perlu diperhatikan. Interval pendekatan yang baik bergantung pada perilaku turunan tingkat lebih tinggi dan jarak dari titik pusat.
+
+BAB 18. KALKULUS MULTIVARIABEL DAN MODEL
+
+Fungsi dua variabel dapat menggambarkan suhu pada permukaan, biaya terhadap dua input, atau ketinggian medan. Turunan parsial mengukur perubahan terhadap satu variabel ketika variabel lain ditahan tetap. Gradien menunjukkan arah kenaikan tercepat pada model yang terdiferensialkan. Turunan arah mengukur laju perubahan pada arah tertentu.
+
+Optimasi multivariabel mempertimbangkan titik kritis dan perilaku batas wilayah. Matriks turunan kedua membantu mengklasifikasikan titik pada kondisi tertentu. Dalam penerapan, model harus diuji terhadap asumsi, skala, dan data. Hasil matematis tidak otomatis menjadi rekomendasi kebijakan tanpa pertimbangan konteks.
+
+CONTOH TERPADU
+
+Sebuah tangki menerima air dengan laju yang berubah terhadap waktu. Fungsi laju memiliki satuan liter per menit. Integral laju pada interval waktu menghasilkan volume tambahan dalam liter. Jika tangki juga mengalirkan air keluar, laju bersih adalah laju masuk dikurangi laju keluar. Volume akhir diperoleh dari volume awal ditambah akumulasi laju bersih. Periksa bahwa tanda, interval, dan satuan konsisten.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Apakah limit harus sama dengan nilai fungsi? Tidak; limit ditentukan oleh perilaku di sekitar titik.
+2. Mengapa aturan rantai penting? Karena banyak model merupakan komposisi beberapa hubungan.
+3. Apakah setiap titik dengan turunan nol merupakan ekstrem? Tidak; bisa berupa titik belok stasioner.
+4. Apa makna integral laju terhadap waktu? Akumulasi perubahan besaran selama interval.
+5. Mengapa suku menuju nol tidak menjamin deret konvergen? Karena jumlah tak hingga dapat tetap membesar meski setiap suku makin kecil.
+6. Bagaimana memeriksa antiturunan? Diferensiasikan hasilnya dan bandingkan dengan integran.

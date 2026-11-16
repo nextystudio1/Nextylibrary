@@ -564,3 +564,32 @@ Frekuensi: jumlah getaran atau siklus per satuan waktu.
 Tegangan: beda potensial listrik.
 Arus: laju aliran muatan listrik.
 Hambatan: ukuran kesulitan aliran arus.
+BAB 13 — GELOMBANG DAN PERAMBATAN ENERGI
+
+Gelombang adalah gangguan yang merambat dan membawa energi. Pada gelombang mekanik, perambatan memerlukan medium, sedangkan gelombang elektromagnetik dapat merambat di ruang hampa. Besaran penting meliputi amplitudo, panjang gelombang, frekuensi, periode, dan cepat rambat. Hubungan dasarnya adalah v = fλ, dengan v sebagai cepat rambat, f frekuensi, dan λ panjang gelombang.
+
+Frekuensi menyatakan banyaknya siklus per detik dan satuannya hertz. Periode adalah waktu untuk satu siklus, sehingga T = 1/f. Jika frekuensi meningkat sementara cepat rambat tetap, panjang gelombang menjadi lebih pendek. Hubungan ini dapat diamati pada gelombang air maupun bunyi dalam kondisi yang sesuai.
+
+Gelombang dapat mengalami pemantulan, pembiasan, difraksi, dan interferensi. Pemantulan terjadi ketika gelombang kembali setelah mengenai batas. Pembiasan terjadi ketika kecepatan gelombang berubah saat memasuki medium berbeda. Difraksi adalah pembelokan atau penyebaran gelombang ketika melewati celah atau tepi penghalang. Interferensi terjadi ketika gelombang bertumpang tindih.
+
+BAB 14 — BUNYI DAN AKUSTIK
+
+Bunyi merupakan gelombang mekanik yang merambat melalui perubahan tekanan pada medium. Di udara pada suhu ruang, bunyi merambat dengan kecepatan sekitar 343 meter per detik, tetapi nilai tepatnya dipengaruhi suhu dan sifat medium. Bunyi tidak merambat di ruang hampa karena tidak ada partikel medium yang meneruskan gangguan.
+
+Frekuensi berkaitan dengan tinggi-rendah nada, sedangkan amplitudo berkaitan dengan kuat-lemahnya bunyi yang diterima. Intensitas bunyi dapat dinyatakan dalam watt per meter persegi. Tingkat intensitas sering dinyatakan dalam desibel dengan skala logaritmik, sehingga kenaikan beberapa desibel dapat mewakili perubahan intensitas yang berarti.
+
+Gema terjadi ketika pantulan bunyi terdengar terpisah dari bunyi awal. Gaung merupakan pantulan yang bertumpuk sehingga memperpanjang bunyi. Bahan penyerap suara, bentuk ruangan, dan jarak permukaan memengaruhi akustik. Ruang belajar, aula, studio, dan ruang publik memerlukan rancangan akustik yang berbeda sesuai tujuan.
+
+BAB 15 — LISTRIK DAN MAGNETISME
+
+Muatan listrik menghasilkan medan listrik. Muatan sejenis saling tolak dan muatan berbeda jenis saling tarik. Arus listrik adalah aliran muatan, sedangkan medan magnet muncul dari magnet dan muatan yang bergerak. Hubungan antara listrik dan magnet menjadi dasar motor listrik, generator, transformator, dan banyak perangkat modern.
+
+Arus pada kawat dapat menghasilkan medan magnet di sekitarnya. Kumparan memperkuat medan magnet, terutama ketika memiliki inti yang sesuai. Elektromagnet dapat dihidupkan dan dimatikan dengan mengendalikan arus. Motor listrik memanfaatkan gaya pada penghantar berarus dalam medan magnet untuk menghasilkan gerak.
+
+Induksi elektromagnetik terjadi ketika perubahan fluks magnet menghasilkan gaya gerak listrik. Prinsip ini digunakan pada generator dan transformator. Generator mengubah energi mekanik menjadi energi listrik, sedangkan transformator mengubah tingkat tegangan arus bolak-balik melalui induksi pada dua kumparan. Efisiensi dan keselamatan bergantung pada rancangan serta kualitas komponen.
+
+BAB 16 — ENERGI, DAYA, DAN EFISIENSI
+
+Energi menyatakan kemampuan melakukan kerja atau menyebabkan perubahan. Daya adalah laju pemindahan atau penggunaan energi. Jika energi dalam joule dibagi waktu dalam sekon, diperoleh daya dalam watt. Dalam perangkat listrik, daya ideal pada arus searah dapat dihitung dari P = V × I. Untuk rangkaian arus bolak-balik, perhitungan daya nyata dapat memerlukan faktor daya.
+
+Efisiensi adalah perbandingan keluaran yang berguna terhadap masukan. Tidak ada proses nyata yang mengubah seluruh energi masukan menjadi keluaran yang diinginkan; sebagian energi tersebar sebagai panas, suara, atau bentuk lain. Memahami efisiensi membantu membandingkan teknologi dan merancang penggunaan energi yang lebih baik.

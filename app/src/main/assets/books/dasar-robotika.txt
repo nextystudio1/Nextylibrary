@@ -102,3 +102,37 @@ LATIHAN DAN PEMBAHASAN
 Kasus: tim membuat robot pengantar buku yang kadang berhenti tanpa alasan jelas.
 Pertanyaan: data apa yang perlu dicatat?
 Pembahasan: catat waktu kejadian, posisi, kondisi permukaan, pembacaan sensor, status baterai, pesan kesalahan, beban, serta versi program. Bandingkan kejadian berulang untuk mencari pola. Jangan langsung menaikkan kecepatan atau menonaktifkan fitur keselamatan.
+
+BAB LANJUTAN: MEKANIKA DAN TRANSMISI GERAK
+
+Gerak robot dipengaruhi gaya, massa, torsi, gesekan, dan geometri mekanisme. Torsi berkaitan dengan gaya yang bekerja pada jarak tertentu dari sumbu putar. Pada sistem nyata, gesekan bantalan, kelenturan rangka, dan efisiensi transmisi membuat keluaran berbeda dari nilai ideal. Rasio roda gigi mengubah hubungan kecepatan dan torsi; reduksi kecepatan umumnya meningkatkan torsi keluaran, tetapi menimbulkan rugi-rugi dan tidak menciptakan energi.
+
+Pemilihan motor perlu mempertimbangkan kurva torsi-kecepatan, arus, suhu, beban, dan batas kerja produsen. Angka kecepatan tanpa beban tidak cukup untuk memprediksi kinerja saat membawa muatan. Catat asumsi dan uji model pada kondisi aman.
+
+BAB LANJUTAN: KINEMATIKA DAN KOORDINAT
+
+Kinematika mempelajari gerak melalui posisi, kecepatan, dan percepatan. Semua besaran perlu dinyatakan terhadap kerangka koordinat yang jelas. Robot dapat memakai koordinat global untuk peta dan koordinat lokal untuk arah hadapnya. Transformasi koordinat menghubungkan posisi sensor, pusat robot, dan titik tujuan.
+
+Odometri memperkirakan perpindahan dari perubahan putaran roda. Selip, lantai tidak rata, perbedaan diameter roda, dan kesalahan sensor membuat estimasi menyimpang. Karena itu, odometri adalah perkiraan yang perlu diperiksa dan dapat digabungkan dengan sumber sensor lain.
+
+BAB LANJUTAN: LOGIKA KENDALI DAN KEADAAN SISTEM
+
+Robot dapat dimodelkan dengan keadaan seperti diam, bergerak, menunggu, mengalami gangguan, dan berhenti aman. Perpindahan keadaan dipicu kondisi yang terdefinisi. Model keadaan mengurangi perintah yang saling bertentangan dan memudahkan pengujian alur.
+
+Pengendali perlu membedakan data valid, terlambat, dan tidak tersedia. Jika sensor penting gagal atau komunikasi terputus, sistem tidak boleh terus menjalankan perintah lama tanpa batas. Respons kegagalan harus ditentukan melalui analisis risiko dan diuji secara terkendali.
+
+BAB LANJUTAN: NAVIGASI DAN PERENCANAAN JALUR
+
+Navigasi menggabungkan estimasi posisi, representasi lingkungan, penentuan tujuan, dan pemantauan gerak. Peta dapat berbentuk kisi, graf, atau representasi geometris. Jalur terpendek belum tentu terbaik jika melewati area ramai atau sulit dilalui. Fungsi biaya dapat mempertimbangkan jarak, waktu, kelengkungan, dan tingkat risiko.
+
+Dalam lingkungan yang berubah, robot perlu memperbarui informasi dan menghentikan gerak jika jalur tidak lagi dapat dipastikan aman. Hasil simulasi tidak membuktikan keselamatan perangkat fisik; pengujian nyata memerlukan izin, pengawasan, area terkendali, dan prosedur penghentian.
+
+BAB LANJUTAN: DAYA, KOMUNIKASI, DAN PEMELIHARAAN
+
+Perkiraan energi memasukkan motor, pengendali, sensor, komunikasi, dan beban tambahan. Daya sesaat berbeda dari energi total selama satu siklus kerja. Pengujian konsumsi pada beberapa kondisi beban lebih realistis daripada mengandalkan angka nominal satu komponen.
+
+Komunikasi berkabel atau nirkabel dipilih berdasarkan jarak, gangguan, waktu respons, keamanan, dan keandalan. Pesan kendali memerlukan format dan pemeriksaan kesalahan. Pemeliharaan meliputi inspeksi mekanis, sambungan, sensor, perangkat lunak, dan catatan perubahan.
+
+STUDI KASUS: ROBOT PENGANTAR BUKU
+
+Tim memetakan jalur, lebar lorong, kondisi lantai, kepadatan pengguna, berat muatan, dan kebutuhan aksesibilitas. Kriteria penerimaan mencakup kemampuan berhenti ketika jalur tidak jelas, tidak menghalangi pintu keluar, menjaga muatan, dan menyediakan kendali operator. Evaluasi memisahkan hasil simulasi dari uji fisik serta menilai privasi bila sistem memakai kamera atau menyimpan lokasi.

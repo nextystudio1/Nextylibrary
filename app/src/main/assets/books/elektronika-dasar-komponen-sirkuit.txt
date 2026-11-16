@@ -162,3 +162,142 @@ Polaritas: penandaan terminal positif dan negatif.
 Multimeter: alat ukur besaran listrik.
 Resistor pembatas: komponen untuk membatasi arus pada rangkaian.
 Tegangan rendah: sumber tegangan pembelajaran dengan risiko lebih kecil sesuai standar kit.
+
+
+PENGEMBANGAN MATERI — SISTEM DAN APLIKASI ELEKTRONIKA
+
+BAB 20 — SATUAN DAN KETELITIAN
+Besaran listrik harus ditulis bersama satuannya. Tegangan menggunakan volt, arus ampere, hambatan ohm, daya watt, kapasitansi farad, induktansi henry, dan frekuensi hertz. Awalan kilo berarti seribu, mili berarti seperseribu, dan mikro berarti sepersejuta. Kesalahan mengubah miliampere menjadi ampere dapat menghasilkan perbedaan seribu kali. Biasakan memeriksa satuan pada setiap langkah perhitungan.
+
+Hasil pengukuran tidak pernah lepas dari ketidakpastian. Resolusi alat, kalibrasi, kondisi lingkungan, dan cara pengukuran memengaruhi angka yang ditampilkan. Tampilan beberapa angka desimal bukan jaminan bahwa semua angka tersebut akurat. Laporkan hasil sesuai kemampuan alat dan jangan menambah ketelitian semu.
+
+BAB 21 — KEKEKALAN MUATAN DAN ENERGI
+Hukum arus Kirchhoff berasal dari kekekalan muatan: jumlah arus yang masuk ke suatu simpul sama dengan jumlah arus yang keluar, menurut model rangkaian yang digunakan. Hukum tegangan Kirchhoff menyatakan jumlah perubahan tegangan sepanjang lintasan tertutup sama dengan nol. Keduanya membantu menganalisis jaringan listrik.
+
+Energi tidak diciptakan atau dimusnahkan. Sumber memasok energi, sedangkan komponen menyerap, menyimpan sementara, atau mengubahnya menjadi panas, cahaya, gerak, dan bentuk lain. Dalam rangkaian nyata, sebagian energi hilang sebagai panas akibat resistansi dan rugi komponen. Neraca daya membantu memeriksa apakah perhitungan masuk akal.
+
+BAB 22 — PEMBAGI TEGANGAN
+Dua resistor seri dapat membagi tegangan sumber. Dalam model ideal tanpa beban yang memengaruhi rangkaian, tegangan pada salah satu resistor sebanding dengan nilai resistansinya dibanding jumlah kedua resistor. Konsep ini digunakan untuk memahami pengaturan level sinyal dan pembacaan sensor.
+
+Jika keluaran dihubungkan ke beban, beban dapat mengubah pembagian tegangan. Karena itu, hasil perhitungan ideal perlu menyebutkan asumsi. Pembagi tegangan sederhana juga tidak otomatis cocok menjadi catu daya karena tegangan dapat berubah ketika beban berubah.
+
+BAB 23 — RESPONS WAKTU RANGKAIAN RC
+Rangkaian resistor dan kapasitor memiliki respons waktu. Untuk model RC sederhana, konstanta waktu adalah τ = R × C. Setelah satu konstanta waktu pada proses pengisian ideal, tegangan kapasitor telah mencapai sekitar 63 persen dari perubahan akhirnya. Setelah beberapa konstanta waktu, nilainya semakin mendekati keadaan tunak.
+
+Proses ini berlangsung bertahap, bukan berhenti mendadak. Toleransi komponen, kebocoran, suhu, dan karakteristik sumber dapat mengubah respons nyata. Konsep RC digunakan untuk memahami penyaringan, penghalusan sinyal, dan pengaturan waktu.
+
+BAB 24 — FILTER DAN FREKUENSI
+Filter mengubah respons rangkaian terhadap komponen frekuensi yang berbeda. Filter lolos-rendah melewatkan frekuensi rendah lebih baik daripada frekuensi tinggi. Filter lolos-tinggi menunjukkan perilaku sebaliknya. Filter lolos-pita melewatkan rentang frekuensi tertentu.
+
+Filter nyata memiliki perubahan respons bertahap, bukan batas yang benar-benar tegak. Pemilihan filter perlu mempertimbangkan frekuensi sinyal, gangguan, perubahan fase, dan toleransi komponen. Penerapannya antara lain mengurangi derau dan mengolah sinyal audio atau sensor.
+
+BAB 25 — PENGUAT DAN DISTORSI
+Penguat meningkatkan amplitudo sinyal dengan menggunakan energi dari catu daya. Penguatan tegangan membandingkan tegangan keluaran dengan masukan pada kondisi tertentu. Penguat nyata memiliki batas frekuensi, derau, distorsi, dan kemampuan keluaran.
+
+Jika sinyal terlalu besar, keluaran dapat mencapai batas catu daya dan mengalami clipping sehingga bentuk gelombang berubah. Penguatan tinggi juga dapat memperkuat derau. Oleh sebab itu, spesifikasi penguat perlu dibaca bersama bandwidth, impedansi, konsumsi daya, dan kondisi beban.
+
+BAB 26 — KONVERSI ANALOG KE DIGITAL
+Konverter analog-ke-digital mengubah sinyal kontinu menjadi representasi angka. Sampling mengambil nilai sinyal pada waktu tertentu, sedangkan kuantisasi memetakan nilai ke tingkat digital. Jumlah bit menentukan banyaknya tingkat representasi ideal, tetapi tidak sendirian menentukan akurasi sistem.
+
+Sampling yang terlalu rendah dapat menimbulkan aliasing, yaitu frekuensi tampak sebagai frekuensi lain. Filter anti-alias membatasi komponen frekuensi sebelum proses sampling. Derau, referensi tegangan, dan kualitas rangkaian juga memengaruhi hasil konversi.
+
+BAB 27 — MIKROKONTROLER DAN SISTEM TERTANAM
+Mikrokontroler menggabungkan pemroses, memori, dan antarmuka masukan-keluaran dalam satu chip. Perangkat ini dapat membaca sensor, menjalankan aturan kendali, dan mengatur keluaran. Sistem tertanam dirancang untuk tugas tertentu seperti pemantauan suhu atau pengendalian perangkat.
+
+Program harus memperhatikan waktu respons, penggunaan memori, keadaan awal, dan penanganan kesalahan. Masukan sensor bisa tidak tersedia atau berada di luar rentang. Sistem yang tangguh menentukan perilaku yang aman ketika terjadi gangguan. Tegangan logika dan batas arus setiap papan harus diperiksa pada dokumentasi resminya.
+
+BAB 28 — SENSOR DAN KALIBRASI
+Sensor mengubah besaran fisik menjadi sinyal yang dapat diolah. Sensor suhu, cahaya, tekanan, dan gerak memiliki rentang serta karakteristik berbeda. Kalibrasi membandingkan hasil sensor dengan acuan yang diketahui untuk menilai penyimpangan.
+
+Akurasi berkaitan dengan kedekatan terhadap nilai acuan, sedangkan presisi berkaitan dengan konsistensi pengukuran berulang. Sensor dapat presisi tetapi memiliki bias sehingga hasilnya selalu bergeser. Catat rentang kerja, kondisi lingkungan, tanggal kalibrasi, dan ketidakpastian.
+
+BAB 29 — KOMUNIKASI ANTARPERANGKAT
+Perangkat elektronik bertukar data melalui protokol komunikasi. Protokol menentukan format pesan, waktu, alamat, dan cara mendeteksi kesalahan. Komunikasi serial mengirimkan informasi secara berurutan; komunikasi paralel menggunakan beberapa jalur data.
+
+Gangguan elektromagnetik, panjang kabel, konektor, dan perbedaan referensi dapat menyebabkan data rusak. Dokumentasi protokol diperlukan agar dua perangkat memahami format pesan yang sama. Bentuk konektor yang sama tidak menjamin susunan pin atau tingkat tegangan yang sama.
+
+BAB 30 — KOMPATIBILITAS ANTARMUKA
+Sebelum menghubungkan modul, periksa tingkat tegangan logika, kebutuhan arus, polaritas, referensi, dan protokol. Perangkat dengan tingkat logika berbeda mungkin memerlukan antarmuka yang sesuai. Pin mikrokontroler tidak selalu mampu memasok daya bagi beban besar.
+
+Gunakan modul pendidikan yang dinyatakan kompatibel dan ikuti dokumentasinya. Jangan menganggap seluruh papan pengembangan memiliki batas listrik yang sama. Kesalahan kompatibilitas dapat merusak komponen meskipun konektornya tampak cocok.
+
+BAB 31 — GANGGUAN ELEKTROMAGNETIK
+Perangkat elektronik dapat menghasilkan dan menerima gangguan elektromagnetik. Gangguan dapat merambat melalui kabel atau terpancar melalui ruang. Gejalanya dapat berupa pembacaan sensor yang berubah-ubah, komunikasi terputus, atau suara dengung.
+
+Tata letak, penyaringan, pelindung, dan rancangan jalur arus memengaruhi kompatibilitas elektromagnetik. Pengujian harus memakai alat dan prosedur yang sesuai. Persyaratan standar berbeda menurut jenis produk dan wilayah.
+
+BAB 32 — MANAJEMEN PANAS
+Komponen menghasilkan panas saat beroperasi. Suhu terlalu tinggi dapat mempercepat penuaan, mengubah karakteristik, atau menyebabkan kegagalan. Perancang memperhatikan daya yang dibuang, suhu lingkungan, jalur perpindahan panas, dan batas suhu komponen.
+
+Panas berpindah melalui konduksi, konveksi, dan radiasi. Heatsink membantu memperluas permukaan pelepasan panas, tetapi efektivitasnya bergantung pada kontak termal dan aliran udara. Jangan menyentuh komponen panas; pengukuran dilakukan dengan alat yang sesuai.
+
+BAB 33 — KEANDALAN DAN KEGAGALAN
+Keandalan adalah kemampuan sistem menjalankan fungsi yang dimaksud dalam periode dan kondisi tertentu. Kegagalan dapat disebabkan panas, kelembapan, getaran, tegangan berlebih, korosi, atau penuaan. Sambungan dan perangkat lunak juga dapat menjadi sumber gangguan.
+
+Analisis mode kegagalan mengidentifikasi cara suatu bagian dapat gagal, dampaknya, dan langkah pengurangan risiko. Rancangan yang bertanggung jawab mempertimbangkan keadaan gagal dan perilaku aman. Pengujian membantu mengurangi ketidakpastian, tetapi tidak menjamin semua kemungkinan telah ditemukan.
+
+BAB 34 — EFISIENSI DAN LINGKUNGAN
+Efisiensi adalah perbandingan keluaran berguna terhadap masukan energi dalam batas sistem yang ditentukan. Rugi daya dapat muncul pada resistansi, sakelar, inti magnetik, dan proses konversi. Penilaian efisiensi harus menyebutkan apa yang dianggap masukan dan keluaran.
+
+Dampak lingkungan juga dipengaruhi bahan baku, umur pakai, kemudahan perbaikan, dan akhir masa penggunaan. Limbah elektronik dan baterai harus disalurkan melalui fasilitas pengumpulan atau daur ulang yang sesuai, bukan dibuang sembarangan.
+
+BAB 35 — STUDI KASUS SENSOR CAHAYA
+Sistem lampu otomatis dapat dipahami sebagai sensor cahaya, unit kendali, dan keluaran. Sensor membaca tingkat pencahayaan; pengendali membandingkan nilai dengan ambang; keluaran berubah mengikuti aturan. Nilai sensor dapat berfluktuasi sehingga sistem memerlukan penyaringan atau histeresis agar keluaran tidak berubah terlalu sering dekat ambang.
+
+Kasus ini dapat dipelajari melalui simulasi atau kit tegangan rendah yang dirancang untuk pendidikan. Hasil perlu dievaluasi dengan mencatat kondisi pencahayaan, posisi sensor, dan respons sistem. Jangan menghubungkan eksperimen pembelajaran ke instalasi listrik rumah.
+
+BAB 36 — STUDI KASUS PENCATAT SUHU
+Pencatat suhu terdiri atas sensor, pengolah sinyal, pemroses, penyimpanan, dan antarmuka. Kualitas hasil dipengaruhi lokasi sensor, interval sampling, kalibrasi, dan lingkungan. Sensor yang menempel pada permukaan dapat membaca suhu berbeda dari udara di sekitarnya.
+
+Saat membaca grafik, periksa waktu pencatatan, data hilang, dan rentang kerja sensor. Jangan menganggap perubahan kecil sebagai perubahan nyata tanpa mempertimbangkan ketidakpastian alat.
+
+BAB 37 — MEMBACA DATASHEET
+Datasheet menjelaskan fungsi, konfigurasi pin, kondisi operasi, karakteristik listrik, batas maksimum, dan informasi kemasan. Nilai maksimum absolut bukan nilai operasi yang dianjurkan terus-menerus. Operasi dekat batas dapat mengurangi keandalan.
+
+Perhatikan kondisi ketika spesifikasi diukur. Nilai arus, tegangan, dan penguatan dapat berubah terhadap suhu dan beban. Bandingkan komponen hanya jika kondisi pengujian sebanding.
+
+BAB 38 — PROSES DESAIN DAN PENGUJIAN
+Desain dimulai dari kebutuhan, batasan, dan kriteria keberhasilan. Buat diagram blok yang menunjukkan masukan, keluaran, sumber energi, lingkungan, dan kondisi kegagalan. Setelah rancangan konseptual, evaluasi melalui simulasi atau kit pendidikan yang aman.
+
+Catat hasil terhadap kriteria yang ditentukan. Jika hasil tidak sesuai, cari penyebab dan revisi dengan dokumentasi. Pengujian harus dapat diulang dan tidak boleh mengabaikan prosedur keselamatan.
+
+LATIHAN TERPADU DAN PEMBAHASAN
+1. Resistor 1 kΩ dialiri arus ideal 2 mA. Berapa tegangannya?
+Pembahasan: V = I × R = 0,002 A × 1.000 Ω = 2 V.
+2. Apa arti konstanta waktu RC?
+Pembahasan: ukuran karakteristik waktu respons rangkaian resistor-kapasitor sederhana, dengan τ = R × C.
+3. Mengapa sampling terlalu rendah dapat menimbulkan aliasing?
+Pembahasan: perubahan sinyal yang cepat tidak direpresentasikan cukup rapat sehingga tampak sebagai frekuensi lain.
+4. Apa perbedaan akurasi dan presisi?
+Pembahasan: akurasi adalah kedekatan terhadap nilai acuan; presisi adalah konsistensi hasil berulang.
+5. Mengapa datasheet perlu dibaca?
+Pembahasan: datasheet memuat batas operasi, karakteristik, susunan pin, dan kondisi pengujian.
+6. Mengapa sensor perlu dikalibrasi?
+Pembahasan: agar hasil dapat dibandingkan dengan acuan dan penyimpangannya diketahui.
+7. Apa fungsi histeresis pada kendali ambang?
+Pembahasan: mengurangi perubahan keluaran berulang ketika masukan berfluktuasi dekat ambang.
+8. Apa yang dimaksud kondisi gagal aman?
+Pembahasan: perilaku sistem yang dirancang untuk mengurangi risiko ketika terjadi gangguan.
+9. Mengapa konektor yang sama belum tentu kompatibel?
+Pembahasan: susunan pin, tegangan, arus, dan protokol dapat berbeda.
+10. Sebutkan tiga informasi penting dalam laporan pengujian.
+Pembahasan: kondisi uji, alat dan metode, serta hasil beserta keterbatasannya.
+
+GLOSARIUM TAMBAHAN
+ADC: rangkaian yang mengubah sinyal analog menjadi data digital.
+Aliasing: kesalahan representasi frekuensi akibat sampling yang tidak memadai.
+Bandwidth: rentang frekuensi kerja suatu sistem.
+Datasheet: dokumen spesifikasi resmi komponen.
+Efisiensi: rasio keluaran berguna terhadap masukan.
+Histeresis: perbedaan ambang saat keluaran berubah ke arah berbeda.
+Kalibrasi: pembandingan hasil alat terhadap acuan.
+Kuantisasi: pemetaan nilai kontinu ke tingkat diskret.
+Mikrokontroler: pemroses terintegrasi untuk mengendalikan perangkat.
+Sampling: pengambilan nilai sinyal pada waktu tertentu.
+Sinyal analog: sinyal yang berubah kontinu.
+Sinyal digital: sinyal yang direpresentasikan dalam tingkat diskret.
+
+PENUTUP PENGEMBANGAN
+Elektronika menggabungkan fisika, matematika, material, pengukuran, dan rekayasa. Pemahaman yang baik bukan hanya mengenali nama komponen, tetapi juga membaca spesifikasi, menjelaskan asumsi, mengevaluasi hasil, dan memahami batas keselamatan. Setiap rancangan perlu diuji secara bertanggung jawab dan didokumentasikan.
+
+Akhir buku.

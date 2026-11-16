@@ -71,7 +71,7 @@ Evaluasi: Penilaian berdasarkan kriteria dan bukti.
 
 CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.
-BAB 9. PERENCANAAN BERBASIS KEBUTUHAN PERJALANAN
+BAB 7. PERENCANAAN BERBASIS KEBUTUHAN PERJALANAN
 
 Perjalanan terjadi karena orang ingin mencapai kegiatan, bukan semata-mata karena ingin menggunakan kendaraan. Kegiatan tersebut meliputi sekolah, pekerjaan, layanan kesehatan, belanja, rekreasi, dan hubungan sosial. Perencanaan yang berorientasi pada mobilitas mengukur apakah tujuan dapat dicapai dengan aman, terjangkau, dan dalam waktu wajar.
 
@@ -82,7 +82,7 @@ Survei perjalanan perlu mencatat asal, tujuan, waktu, moda, biaya, tujuan kegiat
 LATIHAN PEMETAAN
 Pilih satu fasilitas umum. Gambarkan area yang dapat dicapai dalam 10, 20, dan 30 menit dengan berjalan kaki atau angkutan umum. Bandingkan jarak garis lurus dengan waktu tempuh sebenarnya. Jelaskan pengaruh hambatan jalan, persimpangan, jadwal, dan kondisi trotoar.
 
-BAB 10. KESELAMATAN JALAN DAN SISTEM YANG MEMAAFKAN KESALAHAN
+BAB 8. KESELAMATAN JALAN DAN SISTEM YANG MEMAAFKAN KESALAHAN
 
 Keselamatan jalan tidak cukup bergantung pada kehati-hatian individu. Sistem yang aman menggabungkan desain kecepatan, kendaraan, jalan, aturan, penegakan, dan respons setelah kecelakaan. Prinsip sistem yang memaafkan kesalahan mengakui bahwa manusia dapat melakukan kesalahan, sehingga konsekuensi kesalahan perlu dibatasi melalui desain.
 
@@ -90,7 +90,7 @@ Kecepatan berkaitan dengan jarak berhenti, bidang pandang, dan tingkat keparahan
 
 Audit keselamatan dapat dilakukan sebelum dan sesudah pembangunan. Pemeriksaan meliputi konsistensi desain, konflik gerakan, kondisi permukaan, penerangan, akses pejalan kaki, dan keterbacaan rambu. Data kecelakaan penting, tetapi lokasi dengan banyak pejalan kaki juga perlu dinilai berdasarkan paparan dan potensi risiko, bukan hanya jumlah kejadian yang tercatat.
 
-BAB 11. ANGKUTAN UMUM TERPADU
+BAB 9. ANGKUTAN UMUM TERPADU
 
 Kualitas angkutan umum ditentukan oleh keseluruhan perjalanan dari pintu ke pintu. Penumpang mempertimbangkan waktu berjalan menuju halte, waktu tunggu, waktu di kendaraan, perpindahan moda, tarif, kenyamanan, dan keandalan. Layanan yang cepat di dalam kendaraan dapat tetap tidak menarik jika akses awal dan akhir sulit.
 
@@ -101,7 +101,7 @@ Rute perlu mempertimbangkan permintaan, kepadatan, cakupan wilayah, dan tujuan s
 CONTOH ANALISIS
 Bandingkan dua perjalanan dengan angkutan umum. Hitung waktu akses, menunggu, perjalanan, dan perpindahan. Catat biaya total serta kemudahan memperoleh informasi. Usulkan satu perubahan yang meningkatkan keandalan tanpa menganggap bahwa penambahan kendaraan selalu menjadi satu-satunya jawaban.
 
-BAB 12. LOGISTIK DAN RANTAI PASOK
+BAB 10. LOGISTIK DAN RANTAI PASOK
 
 Logistik mengatur pergerakan, penyimpanan, dan informasi barang dari pemasok sampai pengguna. Biaya logistik mencakup transportasi, pergudangan, penanganan, persediaan, kerusakan, keterlambatan, dan administrasi. Keputusan moda dipengaruhi jarak, volume, nilai barang, waktu, keandalan, dan kebutuhan khusus seperti suhu terkendali.
 
@@ -109,7 +109,7 @@ Pengiriman yang efisien tidak selalu berarti kendaraan bergerak secepat mungkin.
 
 Rantai pasok yang tangguh memiliki pemasok alternatif, informasi persediaan yang baik, dan rencana menghadapi gangguan. Ketahanan tidak berarti menimbun barang tanpa batas. Persediaan berlebih menimbulkan biaya dan potensi kerusakan; persediaan terlalu sedikit meningkatkan risiko kekurangan. Kebijakan perlu disesuaikan dengan ketidakpastian permintaan dan waktu pasok.
 
-BAB 13. TRANSPORTASI, IKLIM, DAN KUALITAS LINGKUNGAN
+BAB 11. TRANSPORTASI, IKLIM, DAN KUALITAS LINGKUNGAN
 
 Transportasi memengaruhi kualitas udara, kebisingan, penggunaan lahan, konsumsi energi, dan emisi gas rumah kaca. Dampak dipengaruhi jenis kendaraan, bahan bakar, jarak perjalanan, tingkat keterisian, kondisi lalu lintas, dan sumber energi. Penilaian perlu melihat keseluruhan sistem, termasuk produksi kendaraan dan infrastruktur.
 

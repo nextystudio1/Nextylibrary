@@ -6,33 +6,44 @@ DESKRIPSI
 Prinsip ruang, fungsi, bentuk, iklim, bahan, aksesibilitas, dan proses perancangan bangunan.
 
 PETA BELAJAR
-Buku ini membangun pemahaman bertahap: mulai dari istilah, prinsip, contoh, penerapan, hingga evaluasi. Bacalah bab secara berurutan dan tuliskan pertanyaan yang muncul.
+Pelajari arsitektur dengan menghubungkan kebutuhan penghuni, fungsi ruang, struktur, iklim, bahan, dan lingkungan sekitar. Amati bagaimana keputusan pada satu bagian memengaruhi kenyamanan, aksesibilitas, keselamatan, dan penggunaan energi.
 
 BAB 1. ARSITEKTUR DAN KEBUTUHAN MANUSIA
 
 Arsitektur menghubungkan ruang, kegiatan, budaya, teknologi, dan lingkungan. Bangunan tidak hanya dinilai dari bentuk luar, tetapi juga dari kenyamanan, keselamatan, kemudahan digunakan, ketahanan, dan dampaknya. Proses perancangan dimulai dengan memahami pengguna ruang, kegiatan, kondisi tapak, aturan, serta keterbatasan biaya.
 
 PENDALAMAN KONSEP
-Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
+Ruang arsitektur tidak hanya dinilai dari bentuk. Analisis juga alur gerak, cahaya alami, ventilasi, skala manusia, akses bagi beragam pengguna, serta hubungan bangunan dengan tapak. Pilihan material dan struktur harus sesuai fungsi, kondisi lingkungan, dan persyaratan teknis.
 
 CONTOH KAJIAN
-Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
+Amati bangunan publik yang dapat diakses secara wajar. Catat fungsi ruang, jalur masuk, orientasi, pencahayaan, ventilasi, dan kemudahan menemukan fasilitas. Jelaskan satu keputusan desain yang mendukung pengguna dan satu aspek yang masih dapat diperbaiki.
 
 LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
+1. Buat daftar kebutuhan pengguna untuk satu ruang.
+2. Gambar sketsa denah sederhana dengan ukuran perkiraan.
+3. Tandai jalur sirkulasi dan titik akses.
+4. Periksa pencahayaan, ventilasi, dan hambatan penggunaan.
+5. Bandingkan rancangan dengan kebutuhan awal.
 2. Kumpulkan informasi dari sumber yang dapat diperiksa.
 3. Kelompokkan fakta, pendapat, dan dugaan.
 4. Terapkan konsep bab ini untuk menyusun penjelasan.
 5. Periksa apakah kesimpulan sesuai bukti.
 
 RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
+- Fungsi dan kebutuhan pengguna menjadi dasar keputusan ruang.
+- Struktur, bahan, dan iklim memengaruhi kinerja bangunan.
+- Aksesibilitas perlu dipertimbangkan sejak tahap perancangan.
+- Kualitas arsitektur mencakup pengalaman pengguna dan dampak lingkungan.
 - Pahami proses, bukan hanya menghafal nama.
 - Gunakan contoh relevan dan jelaskan konteksnya.
 - Sebutkan keterbatasan informasi ketika bukti belum cukup.
 
 LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
+1. Jelaskan hubungan fungsi ruang dengan tata letak.
+2. Bagaimana orientasi bangunan memengaruhi cahaya dan panas?
+3. Sebutkan pertimbangan aksesibilitas pada bangunan publik.
+4. Bandingkan dua material berdasarkan fungsi dan perawatannya.
+5. Informasi apa yang diperlukan sebelum membuat rancangan?
 2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
 3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
 4. Buat satu pertanyaan lanjutan yang dapat diteliti.
@@ -59,7 +70,7 @@ BAB 6. AKSESIBILITAS DAN TANGGUNG JAWAB
 Ruang yang baik dapat digunakan oleh beragam orang, termasuk anak-anak, lansia, dan penyandang disabilitas. Jalur tanpa hambatan, pencahayaan memadai, penanda jelas, dan fasilitas yang dapat dijangkau meningkatkan akses. Perancangan juga perlu memperhatikan keselamatan kebakaran, evakuasi, privasi, serta dampak bangunan terhadap tetangga dan lingkungan.
 
 PROYEK AKHIR
-Susun proyek mini yang menghubungkan sedikitnya tiga bab. Tentukan pertanyaan, tujuan, batasan, sumber informasi, metode, hasil yang diharapkan, dan cara mengevaluasi hasil. Proyek tidak harus mahal atau rumit. Utamakan ketelitian, keselamatan, dan kejujuran dalam mencatat temuan.
+Rancang konsep ruang belajar kecil berdasarkan kebutuhan penggunanya. Sertakan daftar kebutuhan, sketsa denah, jalur sirkulasi, pencahayaan, ventilasi, pilihan bahan, dan alasan setiap keputusan. Nyatakan bahwa rancangan konsep bukan pengganti pemeriksaan tenaga profesional atau ketentuan bangunan.
 
 EVALUASI AKHIR
 1. Terangkan konsep inti dari AKSESIBILITAS DAN TANGGUNG JAWAB dan perannya dalam bidang ini.
@@ -69,7 +80,7 @@ EVALUASI AKHIR
 5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 PEDOMAN PENILAIAN
-Penilaian menggunakan empat kriteria: ketepatan konsep, kualitas bukti, kejelasan penalaran, dan kemampuan menyampaikan keterbatasan. Jawaban tidak harus sama persis dengan contoh selama argumennya konsisten dan didukung informasi yang tepat.
+Nilai kesesuaian rancangan dengan kebutuhan pengguna, kejelasan denah, pertimbangan aksesibilitas, alasan pemilihan bahan, serta kesadaran terhadap batas teknis. Gambar yang sederhana dapat memperoleh nilai baik jika keputusan desain dijelaskan dengan tepat.
 
 GLOSARIUM
 Program ruang: Daftar kebutuhan ruang dan karakter penggunaannya.
@@ -79,7 +90,7 @@ Ventilasi silang: Aliran udara melalui bukaan pada sisi berbeda.
 Aksesibilitas: Kemudahan ruang digunakan oleh beragam orang.
 
 CATATAN SUMBER DAN PENGEMBANGAN
-Buku ini merupakan materi pengantar orisinal. Untuk tugas akademik atau keputusan praktis, bandingkan penjelasan dengan buku ajar, standar, peraturan, dan publikasi lembaga yang kompeten. Catat judul sumber, penulis atau lembaga, tahun terbit, dan bagian yang digunakan. Periksa tanggal sumber pada topik yang dapat berubah.
+Gunakan standar bangunan, panduan aksesibilitas, buku konstruksi, dan publikasi arsitektur yang relevan. Periksa wilayah berlakunya aturan dan jangan menjadikan contoh gambar sebagai bukti bahwa suatu rancangan telah memenuhi persyaratan teknis.
 
 BAB LANJUTAN: ARSITEKTUR, IKLIM, DAN KENYAMANAN RUANG
 

@@ -19,11 +19,11 @@ CONTOH PENERAPAN
 Contoh: olah tabel jumlah pengunjung perpustakaan per hari. Periksa nilai kosong, format tanggal, baris ganda, dan satuan sebelum menghitung total atau rata-rata. Simpan salinan data mentah, dokumentasikan setiap perubahan, lalu bandingkan hasil sebelum dan sesudah pembersihan.
 
 LATIHAN
-1. Apa konsep utama dalam SIKLUS KERJA DATA?
-2. Bagaimana hubungan konsep tersebut dengan bagian lain dalam buku?
-3. Berikan penerapan baru dan jelaskan langkah berpikirmu.
-4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
-5. Bukti apa yang dapat memperkuat jawabanmu?
+1. Bedakan data mentah, data yang telah dibersihkan, dan hasil analisis.
+2. Mengapa pertanyaan penelitian menentukan jenis data yang dikumpulkan?
+3. Sebutkan informasi yang perlu dicatat agar proses dapat diulang.
+4. Berikan contoh keputusan pengolahan yang dapat mengubah kesimpulan.
+5. Jelaskan mengapa hasil perlu ditinjau sebelum dibagikan.
 
 BAB 2. STRUKTUR DATA
 
@@ -110,3 +110,114 @@ LATIHAN APLIKATIF
 3. Jelaskan pemeriksaan yang diperlukan setelah menggabungkan dua tabel.
 4. Pilih grafik untuk membandingkan jumlah peminjaman bulanan dan jelaskan alasannya.
 5. Tulis tiga risiko privasi dari data lokasi dan cara menguranginya.
+
+
+BAB 7. STATISTIK DESKRIPTIF DAN DISTRIBUSI
+Statistik deskriptif merangkum sekumpulan data tanpa otomatis menarik kesimpulan untuk seluruh populasi. Ukuran pemusatan meliputi rata-rata, median, dan modus. Rata-rata menggunakan seluruh nilai sehingga dapat berubah kuat akibat pencilan. Median adalah nilai tengah setelah data diurutkan dan sering lebih tahan terhadap nilai ekstrem. Modus menunjukkan nilai atau kategori yang paling sering muncul.
+
+Ukuran penyebaran membantu menjelaskan variasi. Rentang adalah selisih nilai terbesar dan terkecil. Rentang antarkuartil menggambarkan sebaran bagian tengah data. Simpangan baku mengukur penyebaran terhadap rata-rata, tetapi harus ditafsirkan bersama bentuk distribusi dan satuan.
+
+Contoh: waktu membaca lima orang adalah 10, 12, 12, 14, dan 42 menit. Rata-ratanya 18 menit, sedangkan mediannya 12 menit. Nilai 42 menaikkan rata-rata. Kedua ukuran benar secara hitung, tetapi memberi gambaran berbeda. Karena itu, tampilkan ukuran yang sesuai dan periksa distribusinya.
+
+LATIHAN
+1. Kapan median lebih informatif daripada rata-rata?
+2. Hitung rata-rata dan median data 4, 5, 5, 6, 20.
+3. Apa yang dapat dan tidak dapat dijelaskan oleh rentang?
+4. Mengapa ukuran pemusatan perlu dibaca bersama ukuran penyebaran?
+5. Buat contoh data yang memiliki rata-rata dan median berbeda jauh.
+
+BAB 8. POPULASI, SAMPEL, DAN BIAS
+Populasi adalah keseluruhan unit yang menjadi sasaran pertanyaan. Sampel merupakan bagian populasi yang diamati. Pengambilan sampel dilakukan karena sering kali tidak praktis atau tidak mungkin mengukur semua unit. Namun, sampel harus dipilih dengan metode yang sesuai tujuan agar hasil tidak menyesatkan.
+
+Sampel acak memberi peluang pemilihan yang diketahui bagi anggota populasi, sedangkan sampel kemudahan memilih unit yang mudah dijangkau. Sampel kemudahan dapat berguna untuk eksplorasi, tetapi hasilnya tidak boleh digeneralisasi seolah-olah mewakili populasi tanpa bukti.
+
+Bias dapat muncul dari kerangka sampel yang tidak lengkap, nonrespons, pertanyaan menggiring, alat ukur yang tidak konsisten, atau pemilihan waktu pengumpulan. Jumlah sampel yang besar tidak otomatis menghilangkan bias sistematis. Kualitas rancangan dan keterwakilan sama pentingnya dengan ukuran sampel.
+
+LATIHAN
+1. Bedakan populasi dan sampel.
+2. Mengapa survei yang hanya dibagikan melalui satu kelompok daring dapat bias?
+3. Jelaskan perbedaan sampel acak dan sampel kemudahan.
+4. Sebutkan dua cara mengurangi bias nonrespons.
+5. Apa batas kesimpulan dari sampel yang tidak mewakili populasi?
+
+BAB 9. HUBUNGAN ANTARVARIABEL DAN KORELASI
+Analisis hubungan memeriksa apakah perubahan satu variabel berkaitan dengan perubahan variabel lain. Korelasi menggambarkan arah dan kekuatan hubungan tertentu, tetapi tidak membuktikan sebab-akibat. Dua variabel dapat berkorelasi karena faktor ketiga, kebetulan, atau proses yang lebih kompleks.
+
+Diagram pencar membantu melihat pola hubungan dua variabel numerik. Pola dapat positif, negatif, tidak jelas, atau melengkung. Nilai pencilan dapat memengaruhi ukuran korelasi dan perlu diperiksa konteksnya. Korelasi juga dapat berbeda antar kelompok sehingga analisis gabungan perlu ditafsirkan hati-hati.
+
+Contoh: jumlah penjualan minuman dingin dan suhu harian mungkin meningkat bersama. Hal tersebut tidak berarti pembelian minuman menyebabkan suhu meningkat. Suhu dapat memengaruhi permintaan, sementara faktor lain seperti hari libur dan lokasi juga berperan.
+
+LATIHAN
+1. Jelaskan mengapa korelasi tidak sama dengan sebab-akibat.
+2. Berikan contoh faktor ketiga yang memengaruhi dua variabel.
+3. Kapan diagram pencar lebih tepat daripada diagram batang?
+4. Mengapa pencilan perlu ditinjau sebelum menghitung korelasi?
+5. Tuliskan kesimpulan yang hati-hati dari dua variabel yang berkorelasi.
+
+BAB 10. DATA WAKTU DAN PERBANDINGAN
+Data runtun waktu dicatat secara berurutan, misalnya jumlah kunjungan per hari atau pemakaian listrik per bulan. Pola dapat mencakup tren, musiman, siklus, dan variasi acak. Periode pengamatan harus cukup untuk menjawab pertanyaan; beberapa titik data saja tidak cukup untuk menyimpulkan pola musiman.
+
+Perbandingan antarperiode perlu memperhatikan perubahan definisi, cara pengumpulan, cakupan, dan hari operasional. Jika sistem pencatatan berubah, lonjakan angka mungkin mencerminkan perubahan metode, bukan perubahan kejadian sebenarnya. Dokumentasikan perubahan tersebut sebelum membuat interpretasi.
+
+Rata-rata bergerak dapat membantu menghaluskan fluktuasi jangka pendek, tetapi juga dapat menyembunyikan perubahan mendadak. Pilihan jendela harus dijelaskan. Prediksi sederhana merupakan perkiraan yang bergantung pada asumsi, bukan kepastian.
+
+LATIHAN
+1. Bedakan tren dan pola musiman.
+2. Mengapa perubahan sistem pencatatan dapat mengganggu perbandingan?
+3. Jelaskan manfaat dan keterbatasan rata-rata bergerak.
+4. Buat daftar informasi yang diperlukan sebelum membandingkan dua tahun data.
+5. Tulis batasan untuk sebuah perkiraan berdasarkan data historis.
+
+BAB 11. BASIS DATA DAN INTEGRITAS INFORMASI
+Basis data menyimpan informasi secara terstruktur agar dapat dicari, diperbarui, dan dihubungkan. Tabel memiliki kolom dan baris; kunci utama membedakan setiap rekaman, sedangkan kunci asing menghubungkan rekaman dengan tabel lain. Desain yang baik mengurangi pengulangan dan menjaga konsistensi.
+
+Aturan integritas dapat memastikan nilai wajib tersedia, format sesuai, dan hubungan antartabel valid. Validasi pada saat data masuk membantu mencegah kesalahan, tetapi tidak menggantikan pemeriksaan berkala. Hak akses perlu dibatasi sesuai kebutuhan pengguna dan tanggung jawabnya.
+
+Cadangan data perlu diuji pemulihannya. Memiliki salinan cadangan saja belum menjamin data dapat dipulihkan ketika terjadi kerusakan. Rencana pemulihan sebaiknya menjelaskan frekuensi pencadangan, lokasi penyimpanan, tanggung jawab, dan cara menguji hasil pemulihan.
+
+LATIHAN
+1. Apa fungsi kunci utama dan kunci asing?
+2. Mengapa integritas referensial penting ketika tabel saling terhubung?
+3. Berikan contoh aturan validasi untuk data tanggal.
+4. Mengapa proses pemulihan cadangan perlu diuji?
+5. Jelaskan prinsip pembatasan hak akses berdasarkan kebutuhan.
+
+BAB 12. PENGAMBILAN KEPUTUSAN BERBASIS DATA
+Data dapat membantu keputusan, tetapi keputusan juga memerlukan tujuan, konteks, biaya, risiko, dan pertimbangan manusia. Indikator yang mudah diukur belum tentu mewakili hal yang paling penting. Jika organisasi hanya mengejar satu angka, perilaku dapat berubah untuk memperbaiki angka tersebut tanpa meningkatkan hasil sebenarnya.
+
+Dashboard harus menampilkan definisi indikator, periode, sumber, dan keterbatasan. Perbandingan perlu adil terhadap perbedaan ukuran kelompok dan konteks. Angka rata-rata dapat menyembunyikan kesenjangan antarwilayah atau kelompok pengguna, sehingga pemecahan data perlu dilakukan secara bertanggung jawab dan tetap menjaga privasi.
+
+Keputusan yang baik menyatakan bukti yang digunakan, asumsi, alternatif, serta alasan memilih tindakan. Setelah keputusan diterapkan, hasilnya perlu dipantau untuk melihat apakah manfaat yang diharapkan benar-benar terjadi dan apakah muncul dampak yang tidak diinginkan.
+
+LATIHAN
+1. Mengapa indikator tidak selalu mewakili seluruh tujuan?
+2. Berikan contoh bagaimana rata-rata dapat menyembunyikan ketimpangan.
+3. Apa informasi minimum yang perlu ada pada dashboard?
+4. Jelaskan cara mengevaluasi dampak keputusan setelah diterapkan.
+5. Buat rekomendasi singkat yang menyebut bukti, asumsi, dan keterbatasan.
+
+PROYEK AKHIR: ANALISIS DATA PEMINJAMAN BUKU
+Gunakan data simulasi atau data yang telah mendapat izin. Tetapkan pertanyaan, unit analisis, periode, dan definisi variabel. Buat kamus data, periksa duplikasi serta nilai hilang, dokumentasikan transformasi, hitung ringkasan deskriptif, dan buat visualisasi yang menjawab pertanyaan.
+
+Laporan harus membedakan temuan dari penafsiran. Jangan mengidentifikasi kebiasaan individu. Nyatakan keterbatasan, misalnya data tidak mencakup pengunjung yang hanya membaca di tempat atau perubahan sistem pencatatan. Sertakan langkah agar analisis dapat diulang.
+
+EVALUASI AKHIR
+1. Hitung rata-rata dan median dari sekumpulan data dan jelaskan perbedaannya.
+2. Bedakan populasi, sampel, dan kerangka sampel.
+3. Jelaskan dua sumber bias dalam survei.
+4. Mengapa korelasi tidak cukup untuk menyimpulkan sebab-akibat?
+5. Sebutkan hal yang harus diperiksa sebelum membandingkan data antarperiode.
+6. Jelaskan fungsi kunci utama, kunci asing, dan aturan integritas.
+7. Susun rekomendasi berbasis data yang menyatakan asumsi dan keterbatasan.
+8. Jelaskan bagaimana privasi dipertahankan saat hasil analisis dibagikan.
+
+GLOSARIUM TAMBAHAN
+Populasi: Seluruh unit yang menjadi sasaran penelitian.
+Sampel: Bagian populasi yang diamati.
+Bias: Penyimpangan sistematis dalam proses pengumpulan atau analisis.
+Median: Nilai tengah setelah data diurutkan.
+Kuartil: Nilai yang membagi data terurut menjadi empat bagian.
+Korelasi: Ukuran atau gambaran hubungan antarvariabel.
+Runtun waktu: Data yang dicatat menurut urutan waktu.
+Kunci utama: Kolom atau kombinasi kolom yang mengidentifikasi rekaman secara unik.
+Integritas data: Keutuhan, konsistensi, dan ketepatan data sepanjang siklus penggunaannya.

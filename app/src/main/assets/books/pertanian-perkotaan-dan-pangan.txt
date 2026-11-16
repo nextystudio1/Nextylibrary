@@ -162,3 +162,54 @@ Catat jenis tanaman, tanggal tanam, kondisi cuaca, kebutuhan air, gangguan, hasi
 
 LATIHAN
 Rancang kebun kecil pada area yang aman dan mendapat izin. Pilih tiga tanaman sesuai kondisi, buat jadwal pengamatan, rencanakan penggunaan air, dan tentukan cara mencatat hasil serta limbah.
+BAB 8. PERENCANAAN RUANG DAN PEMILIHAN SISTEM BUDIDAYA
+
+Perencanaan kebun dimulai dengan membaca kondisi lokasi. Amati arah dan lama penyinaran, bayangan bangunan, aliran air saat hujan, akses menuju sumber air, kekuatan permukaan, serta kemungkinan gangguan dari kendaraan atau aktivitas sekitar. Pada balkon dan atap, beban wadah, air, dan media tanam perlu diperhitungkan oleh pihak yang memahami kapasitas bangunan. Jangan menempatkan wadah berat pada struktur yang belum dipastikan aman.
+
+Pilih tanaman berdasarkan iklim mikro, ukuran ruang, tujuan panen, waktu pemeliharaan, dan kemampuan perawat. Sayuran daun umumnya memiliki siklus lebih singkat daripada beberapa tanaman buah, tetapi kebutuhan cahaya dan air tetap berbeda antarjenis. Mulailah dengan sedikit jenis tanaman agar pengamatan lebih mudah. Kalender tanam sebaiknya menyesuaikan musim hujan, suhu, dan pola ketersediaan air setempat.
+
+Sistem wadah memudahkan pengendalian media dan pemindahan tanaman, tetapi volumenya membatasi ruang akar dan cadangan air. Bedengan dapat menyediakan volume lebih besar, namun hanya layak jika tanah dan drainasenya diketahui aman. Hidroponik mengalirkan larutan nutrisi ke akar tanpa tanah; sistem ini membutuhkan pemantauan pH, konsentrasi nutrisi, aliran, kebersihan, dan pasokan listrik jika memakai pompa. Tidak ada metode yang otomatis paling hemat untuk semua lokasi.
+
+BAB 9. KESEHATAN TANAH, KOMPOS, DAN SIKLUS HARA
+
+Tanah merupakan sistem hidup yang tersusun dari mineral, bahan organik, air, udara, dan organisme. Struktur tanah memengaruhi pergerakan air serta udara. Pemadatan dapat mengurangi ruang pori dan menghambat akar. Bahan organik membantu pembentukan agregat dan dapat meningkatkan kemampuan tanah menahan air, tetapi manfaatnya bergantung pada mutu bahan dan kondisi tanah.
+
+Kompos matang terbentuk melalui penguraian bahan organik oleh organisme. Proses memerlukan keseimbangan bahan kaya karbon dan nitrogen, kelembapan, udara, serta ukuran bahan yang sesuai. Campuran terlalu basah dan kurang udara dapat menjadi anaerob dan berbau. Campuran terlalu kering memperlambat penguraian. Kompos yang belum matang dapat mengganggu tanaman karena proses penguraian masih aktif atau mengandung senyawa yang belum stabil.
+
+Hara tanaman dibutuhkan dalam jumlah berbeda. Nitrogen berkaitan dengan pembentukan jaringan vegetatif, fosfor berperan dalam transfer energi dan perkembangan akar, sedangkan kalium mendukung pengaturan air dan berbagai proses fisiologis. Unsur mikro juga diperlukan meski jumlahnya kecil. Gejala daun menguning atau pertumbuhan lambat tidak selalu menunjukkan satu jenis kekurangan; pH, akar rusak, air berlebih, penyakit, dan salinitas dapat menghasilkan gejala mirip. Diagnosis perlu melihat pola gejala, kondisi media, dan riwayat perawatan.
+
+BAB 10. KEAMANAN PANGAN DAN KUALITAS AIR
+
+Keamanan pangan harus dipertimbangkan sejak pemilihan lokasi sampai hasil panen dikonsumsi. Tanah yang mungkin tercemar logam berat atau bahan kimia tidak boleh dianggap aman hanya karena tanaman tumbuh subur. Jika riwayat lahan tidak jelas, gunakan sumber media yang dapat ditelusuri atau lakukan pengujian melalui laboratorium yang kompeten. Lapisan pembatas atau wadah bersih dapat mengurangi kontak dengan tanah bermasalah, tetapi tidak menggantikan penilaian risiko.
+
+Air untuk menyiram tanaman pangan perlu berasal dari sumber yang sesuai. Air limbah yang tidak diolah tidak boleh digunakan pada tanaman konsumsi. Penampungan air hujan harus ditutup dan dirawat agar tidak menjadi tempat berkembang biak nyamuk atau terkontaminasi kotoran. Air yang tampak jernih belum tentu bebas mikroorganisme atau bahan terlarut berbahaya.
+
+Saat panen, gunakan alat dan wadah bersih. Pisahkan hasil panen dari bahan kimia, bahan bakar, dan limbah. Cuci tangan dan peralatan, serta gunakan air yang aman untuk pencucian. Hasil yang rusak atau menunjukkan pembusukan harus dipisahkan. Catatan tanggal panen, lokasi, dan perlakuan membantu penelusuran jika muncul keluhan.
+
+BAB 11. EKONOMI KEBUN DAN PENGUKURAN PRODUKTIVITAS
+
+Produktivitas kebun tidak cukup diukur dari berat panen. Catat luas yang digunakan, jumlah tanaman hidup, waktu kerja, air, media, benih, pupuk, kehilangan akibat hama, dan hasil layak konsumsi. Hasil per meter persegi dapat membantu perbandingan, tetapi perlu periode pengamatan yang sama dan pencatatan kondisi musim.
+
+Hitung biaya awal dan biaya berulang secara terpisah. Wadah, rak, dan alat dapat digunakan beberapa musim, sedangkan benih, nutrisi, dan bahan pengendali hama merupakan biaya berulang. Jika kebun dikelola bersama, waktu sukarela tetap perlu dicatat agar kebutuhan tenaga tidak diremehkan. Nilai panen untuk konsumsi rumah tangga dapat dibandingkan dengan harga pasar, tetapi penghematan tersebut bukan pendapatan tunai.
+
+Rencana kebun komunitas juga membutuhkan aturan pembagian tugas dan hasil. Tetapkan jadwal, cara mengambil keputusan, prosedur penggunaan alat, penanganan konflik, dan mekanisme ketika anggota tidak dapat hadir. Transparansi catatan mengurangi kesalahpahaman dan membantu kebun bertahan lebih lama.
+
+BAB 12. KEBUN KOTA, IKLIM, DAN KETAHANAN PANGAN
+
+Kebun kota dapat memperpendek sebagian rantai pasok dan memberi ruang belajar tentang pangan, tetapi tidak dapat menggantikan seluruh kebutuhan pangan kota. Produksi lokal tetap bergantung pada benih, media, nutrisi, air, energi, dan pengetahuan. Penilaian manfaat perlu menghitung masukan tersebut, bukan hanya melihat lokasi tanam yang dekat dengan konsumen.
+
+Panas ekstrem, hujan lebat, kekeringan, dan perubahan pola musim memengaruhi tanaman. Strategi adaptasi meliputi pemilihan varietas yang sesuai, peneduhan yang terukur, mulsa, drainase, penampungan air yang aman, dan penyesuaian waktu tanam. Setiap tindakan harus diuji pada kondisi lokal karena peneduhan berlebihan dapat mengurangi fotosintesis dan drainase yang buruk dapat merusak akar.
+
+Kebun juga dapat menjadi ruang sosial yang mempertemukan warga lintas usia. Agar manfaatnya adil, akses tidak boleh hanya tersedia bagi kelompok yang memiliki waktu dan sumber daya. Jadwal yang fleksibel, pembagian hasil yang disepakati, aksesibilitas fisik, serta pelibatan warga sekitar dapat memperkuat manfaat bersama.
+
+PROYEK LAPANGAN
+
+Buat rancangan kebun pangan pada ruang yang benar-benar aman dan mendapat izin. Dokumentasikan cahaya, sumber air, ukuran ruang, risiko pencemaran, dan kebutuhan struktur. Pilih metode budidaya dan tiga tanaman, susun kalender, hitung biaya awal serta biaya berulang, dan tentukan indikator hasil. Sertakan prosedur kebersihan, pengelolaan limbah, dan pembagian tugas.
+
+LATIHAN PENDALAMAN
+
+1. Mengapa tanah yang subur secara visual belum tentu aman untuk tanaman pangan?
+2. Jelaskan hubungan karbon, nitrogen, kelembapan, dan udara dalam pengomposan.
+3. Sebutkan empat penyebab gejala daun menguning selain kekurangan nitrogen.
+4. Mengapa hasil panen per meter persegi perlu dilengkapi catatan masukan?
+5. Buat dua strategi adaptasi kebun terhadap cuaca ekstrem dan jelaskan risiko masing-masing.

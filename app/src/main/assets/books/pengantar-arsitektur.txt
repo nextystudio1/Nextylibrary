@@ -210,3 +210,29 @@ Aksesibilitas: Kemudahan ruang digunakan oleh beragam orang.
 
 CATATAN SUMBER DAN PENGEMBANGAN
 Buku ini merupakan materi pengantar orisinal. Untuk tugas akademik atau keputusan praktis, bandingkan penjelasan dengan buku ajar, standar, peraturan, dan publikasi lembaga yang kompeten. Catat judul sumber, penulis atau lembaga, tahun terbit, dan bagian yang digunakan. Periksa tanggal sumber pada topik yang dapat berubah.
+
+BAB LANJUTAN: ARSITEKTUR, IKLIM, DAN KENYAMANAN RUANG
+
+1. Hubungan bangunan dan iklim
+Rancangan bangunan dipengaruhi suhu, kelembapan, hujan, arah angin, radiasi matahari, dan kondisi tapak. Respons arsitektur dapat mencakup orientasi, peneduh, ventilasi, material, dan tata ruang. Solusi harus disesuaikan iklim setempat, bukan menyalin bentuk bangunan dari wilayah lain tanpa evaluasi.
+
+2. Pencahayaan alami
+Bukaan dan orientasi dapat membantu memasukkan cahaya siang, tetapi perlu mengendalikan silau dan panas berlebih. Kedalaman ruang, warna permukaan, ukuran jendela, dan penghalang luar memengaruhi distribusi cahaya. Perencanaan pencahayaan harus memperhatikan fungsi ruang dan kebutuhan pengguna.
+
+3. Ventilasi dan kualitas udara
+Ventilasi membantu pertukaran udara, tetapi efektivitasnya dipengaruhi arah angin, ukuran bukaan, perbedaan suhu, dan tata letak. Udara luar juga dapat membawa polutan atau kebisingan. Karena itu, rancangan perlu mempertimbangkan kondisi lingkungan dan persyaratan teknis bangunan.
+
+4. Material dan siklus hidup
+Pemilihan material tidak hanya berdasarkan harga awal. Pertimbangkan ketersediaan lokal, daya tahan, perawatan, energi produksi, kemampuan digunakan kembali, dan akhir masa pakai. Material yang tampak murah dapat menimbulkan biaya tinggi jika sering diganti atau sulit dirawat.
+
+5. Aksesibilitas dan keselamatan
+Ruang perlu dapat digunakan oleh orang dengan kemampuan dan kebutuhan berbeda. Jalur sirkulasi, kemiringan, lebar pintu, pencahayaan, penanda, dan fasilitas sanitasi perlu mengikuti standar yang berlaku. Keselamatan kebakaran, struktur, dan evakuasi harus ditangani oleh tenaga kompeten sesuai peraturan.
+
+6. Ruang publik dan perilaku
+Ruang publik yang baik mendukung pertemuan, pergerakan, istirahat, dan kegiatan beragam. Tempat duduk, naungan, keterhubungan pejalan kaki, keamanan, dan pemeliharaan memengaruhi pengalaman. Pengamatan pengguna membantu menguji apakah ruang benar-benar berfungsi sesuai tujuan.
+
+7. Evaluasi pascahuni
+Setelah bangunan digunakan, kumpulkan masukan tentang kenyamanan termal, cahaya, akustik, sirkulasi, akses, dan biaya operasi. Evaluasi pascahuni membantu menemukan perbedaan antara rancangan dan pengalaman nyata. Temuan menjadi bahan perbaikan dan pembelajaran untuk proyek berikutnya.
+
+LATIHAN
+Analisis satu ruang belajar. Gambar denah sederhana, tandai sumber cahaya dan aliran udara, identifikasi hambatan akses, lalu usulkan tiga perbaikan dengan mempertimbangkan biaya dan pemeliharaan.

@@ -6,7 +6,7 @@ DESKRIPSI
 Belajar membaca gambar, grafik, simbol, tata letak, dan pesan visual secara kritis.
 
 PENDAHULUAN
-Buku Literasi Visual dan Desain membahas belajar membaca gambar, grafik, simbol, tata letak, dan pesan visual secara kritis.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini mengembangkan kemampuan membaca dan menilai pesan visual. Pembahasan meliputi komposisi, warna, tipografi, simbol, grafik, manipulasi gambar, aksesibilitas, dan etika penggunaan visual.
 
 BAB 1. GAMBAR SEBAGAI PESAN
 
@@ -56,11 +56,12 @@ PROYEK AKHIR
 Pilih topik yang menghubungkan minimal tiga bab. Rumuskan pertanyaan, tujuan, batasan, metode, dan bentuk hasil. Gunakan sumber yang dapat diverifikasi serta catat proses pengumpulan informasi. Sajikan data dengan jelas, pisahkan temuan dari interpretasi, dan jelaskan keterbatasan.
 
 EVALUASI AKHIR
-1. Sebutkan lima gagasan inti buku.
-2. Jelaskan hubungan antarbab dengan contoh.
-3. Analisis satu kasus berdasarkan bukti.
-4. Bandingkan dua pendekatan dan konsekuensinya.
-5. Tulis hal yang masih perlu dipelajari.
+EVALUASI AKHIR
+1. Jelaskan bagaimana komposisi dan kontras mengarahkan perhatian pembaca.
+2. Sebutkan tanda grafik yang dapat menyesatkan pembaca.
+3. Bedakan fakta visual, interpretasi, dan manipulasi.
+4. Rancang pemeriksaan sederhana untuk menilai keterbacaan sebuah poster.
+5. Jelaskan mengapa sumber, konteks, dan hak penggunaan gambar perlu diperiksa.
 
 GLOSARIUM
 Konsep: Gagasan utama untuk memahami topik.

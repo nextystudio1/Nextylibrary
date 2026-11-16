@@ -148,3 +148,39 @@ LATIHAN TERAPAN
 3. Mengapa sifat poligenik tidak dapat dijelaskan dengan satu kotak persilangan sederhana?
 4. Sebutkan empat proses yang dapat mengubah frekuensi alel populasi.
 5. Mengapa data genetik perlu perlindungan privasi khusus?
+BAB LANJUTAN: EKSPRESI GEN DAN REGULASI
+
+Informasi genetik tidak selalu menghasilkan sifat secara langsung. Gen dapat ditranskripsi menjadi RNA, kemudian sebagian RNA diterjemahkan menjadi protein. Protein menjalankan fungsi struktural, katalitik, transportasi, atau pengaturan. Pada organisme eukariotik, pemrosesan RNA dan pengaturan aktivitas gen memungkinkan sel yang memiliki DNA serupa menjalankan fungsi berbeda.
+
+Regulasi ekspresi gen dapat terjadi pada tingkat kromatin, transkripsi, pemrosesan RNA, kestabilan RNA, translasi, dan aktivitas protein. Faktor transkripsi berikatan dengan bagian DNA tertentu dan memengaruhi tingkat transkripsi. Sinyal lingkungan dan keadaan sel dapat mengubah aktivitas regulator tersebut. Karena itu, ekspresi gen merupakan proses dinamis, bukan sakelar yang selalu berada pada keadaan tetap.
+
+Perubahan ekspresi tidak selalu mengubah urutan DNA. Perbedaan nutrisi, suhu, hormon, atau sinyal perkembangan dapat memengaruhi aktivitas gen. Kajian ekspresi gen perlu menentukan jaringan, tahap perkembangan, kondisi perlakuan, dan metode pengukuran. Sampel dari jaringan berbeda tidak dapat dibandingkan tanpa mempertimbangkan komposisi selnya.
+
+BAB LANJUTAN: MUTASI DAN PERBAIKAN DNA
+
+Mutasi adalah perubahan materi genetik. Mutasi dapat berupa substitusi basa, insersi, delesi, atau perubahan struktur kromosom. Dampaknya bergantung pada lokasi, jenis perubahan, dan konteks biologis. Mutasi pada bagian pengode dapat mengubah urutan asam amino, tetapi tidak semua perubahan menghasilkan perubahan protein atau sifat yang terlihat.
+
+Sel memiliki sistem perbaikan DNA untuk mengenali dan memperbaiki berbagai jenis kerusakan. Mekanisme berbeda menangani kesalahan pasangan basa, kerusakan akibat radiasi, atau putusnya untai DNA. Perbaikan tidak selalu sempurna; perubahan yang lolos dapat menjadi mutasi tetap setelah replikasi.
+
+Mutasi dapat bersifat netral, merugikan, atau menguntungkan dalam konteks tertentu. Penilaian dampak perlu mempertimbangkan lingkungan dan frekuensi alel. Satu varian yang menguntungkan pada kondisi tertentu belum tentu memberi keuntungan pada kondisi lain. Hindari menyimpulkan sifat kompleks hanya dari satu variasi gen tanpa bukti yang memadai.
+
+BAB LANJUTAN: PEWARISAN POLIGENIK DAN LINGKUNGAN
+
+Banyak sifat dipengaruhi oleh banyak gen dan lingkungan. Tinggi tanaman, hasil panen, tekanan darah, dan berbagai karakter kuantitatif tidak mengikuti pola satu gen sederhana. Setiap varian dapat memberi kontribusi kecil, sementara interaksi gen dan lingkungan membentuk hasil akhir.
+
+Heritabilitas merupakan ukuran variasi suatu sifat dalam populasi dan lingkungan tertentu yang berkaitan dengan variasi genetik. Nilainya bukan persentase sifat seseorang yang “ditentukan gen”. Heritabilitas tinggi tidak berarti lingkungan tidak berpengaruh, dan nilai dari satu populasi tidak otomatis berlaku pada populasi lain.
+
+Interaksi gen-lingkungan terjadi ketika pengaruh genotipe berbeda menurut kondisi lingkungan. Contohnya, varietas tanaman dapat menunjukkan hasil berbeda pada tingkat air atau jenis tanah yang berbeda. Penelitian perlu menggunakan rancangan yang memungkinkan faktor genetik dan lingkungan dipisahkan sejauh mungkin.
+
+BAB LANJUTAN: GENETIKA POPULASI DAN EVOLUSI
+
+Genetika populasi mempelajari frekuensi alel dan genotipe dalam populasi serta perubahan dari generasi ke generasi. Frekuensi dapat berubah akibat seleksi alam, mutasi, migrasi, dan hanyutan genetik. Perubahan acak lebih kuat pengaruhnya pada populasi kecil, sedangkan aliran gen dapat membawa alel antar populasi.
+
+Keseimbangan Hardy-Weinberg menjadi model dasar untuk memahami frekuensi genotipe ketika asumsi tertentu terpenuhi, seperti perkawinan acak dan tidak adanya seleksi, mutasi, migrasi, serta hanyutan. Penyimpangan dari model dapat menjadi petunjuk untuk penyelidikan, tetapi tidak langsung membuktikan satu mekanisme tertentu. Struktur populasi dan kesalahan pengambilan sampel juga dapat memengaruhi hasil.
+
+LATIHAN GENETIKA
+1. Bedakan mutasi dan perubahan ekspresi gen.
+2. Mengapa sifat kompleks tidak dapat dijelaskan hanya dengan satu gen?
+3. Jelaskan makna heritabilitas tanpa menyamakannya dengan kepastian individu.
+4. Sebutkan faktor yang mengubah frekuensi alel.
+5. Rancang penelitian sederhana untuk menguji pengaruh lingkungan pada pertumbuhan tanaman dengan variabel yang terukur.

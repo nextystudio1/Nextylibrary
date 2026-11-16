@@ -33,106 +33,21 @@ BAB 2. IDENTIFIKASI BAHAYA
 
 Identifikasi dilakukan dengan mengamati proses, lingkungan, peralatan, dan pengalaman kejadian sebelumnya. Libatkan orang yang memahami kegiatan karena mereka sering mengetahui kondisi yang tidak terlihat dalam dokumen. Catat lokasi, situasi, pihak terpapar, dan kemungkinan akibat.
 
-PENDALAMAN
-Untuk menggunakan konsep dengan tepat, perhatikan definisi, konteks, dan batas penerapannya. Satu contoh tidak selalu mewakili semua keadaan. Bandingkan beberapa situasi, catat faktor yang berubah, dan periksa apakah kesimpulan tetap berlaku. Jika informasi belum cukup, nyatakan ketidakpastian daripada mengisi kekosongan dengan dugaan.
-
-KEGIATAN BELAJAR
-1. Tulis ringkasan dengan kalimat sendiri.
-2. Buat peta konsep yang menghubungkan istilah utama.
-3. Cari contoh yang relevan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan lanjutan untuk penyelidikan.
-
-LATIHAN
-1. Definisikan istilah utama.
-2. Jelaskan proses yang dibahas secara runtut.
-3. Berikan contoh penerapan.
-4. Sebutkan keterbatasan informasi.
-5. Buat kesimpulan berdasarkan bukti.
-
 BAB 3. KEMUNGKINAN DAN DAMPAK
 
 Penilaian risiko sering menggunakan kategori kemungkinan dan tingkat dampak. Matriks risiko membantu menyusun prioritas, tetapi hasilnya bergantung pada definisi kategori dan kualitas informasi. Angka tidak boleh memberi kesan presisi palsu ketika data masih terbatas.
-
-PENDALAMAN
-Untuk menggunakan konsep dengan tepat, perhatikan definisi, konteks, dan batas penerapannya. Satu contoh tidak selalu mewakili semua keadaan. Bandingkan beberapa situasi, catat faktor yang berubah, dan periksa apakah kesimpulan tetap berlaku. Jika informasi belum cukup, nyatakan ketidakpastian daripada mengisi kekosongan dengan dugaan.
-
-KEGIATAN BELAJAR
-1. Tulis ringkasan dengan kalimat sendiri.
-2. Buat peta konsep yang menghubungkan istilah utama.
-3. Cari contoh yang relevan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan lanjutan untuk penyelidikan.
-
-LATIHAN
-1. Definisikan istilah utama.
-2. Jelaskan proses yang dibahas secara runtut.
-3. Berikan contoh penerapan.
-4. Sebutkan keterbatasan informasi.
-5. Buat kesimpulan berdasarkan bukti.
 
 BAB 4. PENGENDALIAN RISIKO
 
 Pengendalian dapat dilakukan dengan menghilangkan bahaya, mengganti proses, menerapkan rekayasa, mengatur prosedur, dan menggunakan perlindungan yang sesuai. Pengendalian yang lebih mendasar umumnya lebih kuat daripada hanya mengandalkan kehati-hatian individu. Pilih langkah yang dapat diterapkan dan dipantau.
 
-PENDALAMAN
-Untuk menggunakan konsep dengan tepat, perhatikan definisi, konteks, dan batas penerapannya. Satu contoh tidak selalu mewakili semua keadaan. Bandingkan beberapa situasi, catat faktor yang berubah, dan periksa apakah kesimpulan tetap berlaku. Jika informasi belum cukup, nyatakan ketidakpastian daripada mengisi kekosongan dengan dugaan.
-
-KEGIATAN BELAJAR
-1. Tulis ringkasan dengan kalimat sendiri.
-2. Buat peta konsep yang menghubungkan istilah utama.
-3. Cari contoh yang relevan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan lanjutan untuk penyelidikan.
-
-LATIHAN
-1. Definisikan istilah utama.
-2. Jelaskan proses yang dibahas secara runtut.
-3. Berikan contoh penerapan.
-4. Sebutkan keterbatasan informasi.
-5. Buat kesimpulan berdasarkan bukti.
-
 BAB 5. KOMUNIKASI DAN KESIAPSIAGAAN
 
 Informasi risiko harus disampaikan dengan jelas, tepat waktu, dan sesuai audiens. Jelaskan apa yang diketahui, apa yang belum pasti, dan tindakan yang dianjurkan. Rencana kesiapsiagaan menetapkan peran, jalur komunikasi, sumber daya, serta cara meminta bantuan.
 
-PENDALAMAN
-Untuk menggunakan konsep dengan tepat, perhatikan definisi, konteks, dan batas penerapannya. Satu contoh tidak selalu mewakili semua keadaan. Bandingkan beberapa situasi, catat faktor yang berubah, dan periksa apakah kesimpulan tetap berlaku. Jika informasi belum cukup, nyatakan ketidakpastian daripada mengisi kekosongan dengan dugaan.
-
-KEGIATAN BELAJAR
-1. Tulis ringkasan dengan kalimat sendiri.
-2. Buat peta konsep yang menghubungkan istilah utama.
-3. Cari contoh yang relevan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan lanjutan untuk penyelidikan.
-
-LATIHAN
-1. Definisikan istilah utama.
-2. Jelaskan proses yang dibahas secara runtut.
-3. Berikan contoh penerapan.
-4. Sebutkan keterbatasan informasi.
-5. Buat kesimpulan berdasarkan bukti.
-
 BAB 6. PEMANTAUAN DAN PEMBELAJARAN
 
 Risiko berubah ketika kegiatan, lingkungan, dan teknologi berubah. Tinjau pengendalian secara berkala dan setelah insiden atau perubahan penting. Catat pelajaran tanpa budaya menyalahkan agar penyebab sistemik dapat diperbaiki dan risiko serupa berkurang.
-
-PENDALAMAN
-Untuk menggunakan konsep dengan tepat, perhatikan definisi, konteks, dan batas penerapannya. Satu contoh tidak selalu mewakili semua keadaan. Bandingkan beberapa situasi, catat faktor yang berubah, dan periksa apakah kesimpulan tetap berlaku. Jika informasi belum cukup, nyatakan ketidakpastian daripada mengisi kekosongan dengan dugaan.
-
-KEGIATAN BELAJAR
-1. Tulis ringkasan dengan kalimat sendiri.
-2. Buat peta konsep yang menghubungkan istilah utama.
-3. Cari contoh yang relevan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan lanjutan untuk penyelidikan.
-
-LATIHAN
-1. Definisikan istilah utama.
-2. Jelaskan proses yang dibahas secara runtut.
-3. Berikan contoh penerapan.
-4. Sebutkan keterbatasan informasi.
-5. Buat kesimpulan berdasarkan bukti.
 
 PROYEK AKHIR
 Pilih persoalan yang menghubungkan beberapa bab. Rumuskan pertanyaan, tujuan, batasan, dan metode. Gunakan sumber yang dapat diperiksa. Sajikan temuan dengan jelas, pisahkan data dari interpretasi, dan jelaskan keterbatasan. Rekomendasi harus realistis serta mempertimbangkan pihak yang terdampak.

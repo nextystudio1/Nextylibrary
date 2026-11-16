@@ -114,19 +114,19 @@ Naskah ini merupakan bahan pembelajaran orisinal yang disusun untuk NextyLibrary
 
 PENDALAMAN MATERI
 
-BAB 6. RISET PELANGGAN DAN VALIDASI IDE
+BAB 7. RISET PELANGGAN DAN VALIDASI IDE
 Ide usaha perlu diuji terhadap kebutuhan nyata. Riset pelanggan dapat dilakukan melalui wawancara, observasi, survei, dan analisis keluhan. Pertanyaan sebaiknya tidak menggiring jawaban. Daripada bertanya “produk ini bagus, bukan?”, tanyakan bagaimana calon pelanggan menyelesaikan masalah saat ini dan apa yang belum memuaskan. Pisahkan pernyataan responden dari interpretasi peneliti. Sampel kecil berguna untuk menemukan pola awal, tetapi tidak otomatis mewakili seluruh pasar. Validasi dapat dilakukan dengan prototipe sederhana, halaman informasi, atau uji layanan terbatas tanpa membuat janji yang tidak dapat dipenuhi.
 
-BAB 7. MODEL BISNIS DAN PROPOSISI NILAI
+BAB 8. MODEL BISNIS DAN PROPOSISI NILAI
 Model bisnis menjelaskan bagaimana usaha menciptakan, menyampaikan, dan memperoleh nilai. Proposisi nilai menyatakan masalah pelanggan yang dibantu dan manfaat yang ditawarkan. Segmen pelanggan perlu didefinisikan secara jelas, bukan sekadar “semua orang”. Saluran distribusi, hubungan pelanggan, sumber pendapatan, sumber daya, kegiatan utama, dan mitra membentuk bagian lain model. Model awal merupakan hipotesis yang perlu diperbarui berdasarkan data. Keunggulan tidak harus berupa teknologi rumit; layanan yang lebih mudah diakses, lebih konsisten, atau lebih sesuai kebutuhan dapat menjadi nilai.
 
-BAB 8. BIAYA, HARGA, DAN ARUS KAS
+BAB 9. BIAYA, HARGA, DAN ARUS KAS
 Biaya tetap tidak berubah langsung mengikuti jumlah produksi dalam rentang tertentu, sedangkan biaya variabel berubah mengikuti volume. Harga perlu mempertimbangkan biaya, nilai bagi pelanggan, persaingan, dan keberlanjutan usaha. Pendapatan bukan sama dengan laba, karena biaya harus dikurangkan. Laba di atas kertas juga berbeda dari arus kas: usaha dapat mencatat penjualan tetapi belum menerima pembayaran. Catatan sederhana perlu memisahkan pemasukan, pengeluaran, piutang, persediaan, dan kewajiban. Keputusan harga tidak sebaiknya didasarkan pada tebakan atau meniru pesaing tanpa memahami struktur biaya sendiri.
 
-BAB 9. PEMASARAN JUJUR DAN LAYANAN PELANGGAN
+BAB 10. PEMASARAN JUJUR DAN LAYANAN PELANGGAN
 Pemasaran menyampaikan manfaat produk kepada orang yang mungkin membutuhkannya. Klaim harus dapat dibuktikan. Jangan menggunakan testimoni palsu, foto yang menyesatkan, atau janji hasil pasti tanpa dasar. Informasi harga, batas layanan, risiko, dan kebijakan pengembalian perlu disampaikan dengan jelas. Keluhan pelanggan dapat menjadi sumber pembelajaran jika dicatat dan ditangani dengan hormat. Data pelanggan hanya digunakan untuk tujuan yang telah dijelaskan dan dijaga keamanannya. Hubungan jangka panjang lebih kuat jika usaha memenuhi janji secara konsisten.
 
-BAB 10. ETIKA, DAMPAK, DAN PERTUMBUHAN
+BAB 11. ETIKA, DAMPAK, DAN PERTUMBUHAN
 Keputusan usaha memengaruhi pekerja, pelanggan, pemasok, komunitas, dan lingkungan. Pertumbuhan yang sehat tidak hanya diukur dari omzet, tetapi juga kualitas produk, keselamatan, perlakuan adil, dan kemampuan memenuhi kewajiban. Periksa dampak bahan baku, kemasan, energi, dan limbah. Hindari praktik yang mengeksploitasi pekerja atau menyembunyikan informasi penting dari konsumen. Ketika usaha berkembang, prosedur pencatatan, pengendalian mutu, dan perlindungan data perlu ikut berkembang. Pertumbuhan cepat tanpa sistem dapat meningkatkan kesalahan dan merusak kepercayaan.
 
 STUDI KASUS

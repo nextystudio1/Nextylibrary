@@ -432,11 +432,11 @@ Validasi — pemeriksaan kesesuaian data atau tindakan terhadap aturan.
 
 DAFTAR BACAAN DAN RUJUKAN KONSEPTUAL
 
-• Python Software Foundation. Python Tutorial dan dokumentasi resmi bahasa Python. https://docs.python.org/3/tutorial/
-• MDN Web Docs. JavaScript Guide. https://developer.mozilla.org/docs/Web/JavaScript/Guide
-• Computer Science Unplugged. Materi pengenalan ilmu komputer melalui aktivitas. https://www.csunplugged.org/
-• CS50. Materi pengantar ilmu komputer dari Harvard University. https://cs50.harvard.edu/x/
-• OWASP Foundation. OWASP Top 10: kategori risiko keamanan aplikasi web. https://owasp.org/www-project-top-ten/
+• Python Software Foundation. Python Tutorial dan dokumentasi resmi bahasa Python.
+• MDN Web Docs. JavaScript Guide.
+• Computer Science Unplugged. Materi pengenalan ilmu komputer melalui aktivitas.
+• CS50. Materi pengantar ilmu komputer dari Harvard University.
+• OWASP Foundation. OWASP Top 10: kategori risiko keamanan aplikasi web.
 
 Catatan: daftar bacaan digunakan sebagai rujukan konseptual untuk pembaca yang ingin mendalami topik. Naskah ini merupakan materi orisinal Tim Edukasi Nexty Studio dan bukan salinan dari sumber-sumber tersebut.
 

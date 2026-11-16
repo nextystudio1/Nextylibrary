@@ -360,8 +360,8 @@ pH: ukuran keasaman larutan.
 Indikator: zat atau alat yang menunjukkan sifat tertentu melalui perubahan terukur.
 
 RUJUKAN UNTUK PENDALAMAN
-OpenStax Chemistry 2e: https://openstax.org/details/books/chemistry-2e
-Royal Society of Chemistry — Education: https://edu.rsc.org/
+OpenStax Chemistry 2e:
+Royal Society of Chemistry — Education:
 
 KONSENTRASI DAN PENGENCERAN
 Konsentrasi menyatakan banyaknya zat terlarut dalam sejumlah larutan atau pelarut. Salah satu satuan yang umum adalah molaritas, yaitu jumlah mol zat terlarut per liter larutan. Persamaan M = n/V menggunakan volume larutan dalam liter. Saat menyiapkan larutan, perhatikan apakah volume yang dimaksud adalah volume akhir larutan, bukan hanya volume pelarut yang ditambahkan.

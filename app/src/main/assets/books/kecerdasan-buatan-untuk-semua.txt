@@ -317,8 +317,6 @@ LATIHAN
 2. Apa arti recall? Jawaban: proporsi kasus positif sebenarnya yang berhasil ditemukan.
 3. Mengapa pengawasan manusia diperlukan? Jawaban: model memiliki keterbatasan dan keputusan dapat berdampak pada manusia.
 
-
-
 BAB LANJUTAN — MENGUJI SISTEM AI DALAM KONTEKS NYATA
 
 Sistem AI perlu diuji pada kondisi yang mendekati penggunaan sebenarnya. Data uji sebaiknya mencakup variasi bahasa, perangkat, kualitas masukan, dan kelompok pengguna yang relevan. Jika model hanya diuji pada contoh yang sangat mirip dengan data pelatihan, hasil evaluasi dapat terlihat terlalu baik.
@@ -487,7 +485,6 @@ Bayangkan model menyaring pertanyaan siswa untuk menentukan mana yang perlu dija
 
 RANGKUMAN
 AI yang bermanfaat memerlukan perumusan masalah, data yang layak, evaluasi yang tepat, pengawasan, dan mekanisme koreksi. Keberhasilan tidak cukup diukur dari kecanggihan model.
-
 
 BAGIAN PENGAYAAN MATERI
 BAB LANJUTAN 1 — DATA, FITUR, DAN LABEL

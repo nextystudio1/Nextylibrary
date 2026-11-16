@@ -60,7 +60,6 @@ Metode: prosedur terencana untuk menjawab pertanyaan.
 CATATAN PENULIS
 Contoh penelitian dalam buku ini bersifat pendidikan. Kegiatan praktis tetap harus disesuaikan dengan usia, fasilitas, dan pengawasan yang tersedia.
 
-
 PENDALAMAN — MERANCANG PENYELIDIKAN YANG DAPAT DIPERCAYA
 BAB 7 — VARIABEL DAN RANCANGAN PENGUJIAN
 Variabel bebas adalah faktor yang sengaja diubah atau dibandingkan; variabel terikat adalah hasil yang diamati; variabel kontrol dijaga agar perbandingan lebih adil. Dalam penelitian observasional, peneliti tidak selalu dapat mengendalikan faktor. Karena itu, kesimpulan perlu dibatasi sesuai rancangan. Definisi operasional menjelaskan bagaimana suatu konsep diukur sehingga orang lain dapat memahami prosedurnya.
@@ -159,8 +158,6 @@ LATIHAN
 2. Mengapa persetujuan partisipan penting? Menghormati otonomi dan melindungi hak peserta.
 3. Mengapa satu penelitian jarang cukup? Sampel, metode, konteks, dan bias dapat memengaruhi hasil.
 4. Apa manfaat catatan analisis? Proses dapat ditelusuri, diperiksa, dan diulang.
-
-
 
 BAB LANJUTAN — ETIKA DAN KETERBUKAAN PENELITIAN
 

@@ -178,3 +178,34 @@ Harga pokok penjualan: Biaya persediaan yang berkaitan dengan barang yang telah 
 Rasio lancar: Perbandingan aset lancar dengan liabilitas lancar.
 Anggaran: Rencana keuangan untuk periode tertentu.
 Jejak audit: Rangkaian bukti dan catatan yang memungkinkan transaksi ditelusuri.
+
+BAB LANJUTAN: PENGENDALIAN INTERNAL DAN PEMISAHAN TUGAS
+
+Pengendalian internal adalah proses untuk membantu organisasi menjaga aset, menghasilkan informasi yang andal, dan menjalankan kegiatan sesuai kebijakan. Pengendalian tidak hanya berupa pemeriksaan akhir. Ia dapat dibangun melalui persetujuan transaksi, pembatasan akses, dokumentasi, rekonsiliasi, dan pemantauan rutin.
+
+Pemisahan tugas mengurangi risiko satu orang menguasai seluruh proses dari awal hingga akhir. Misalnya, pihak yang menyetujui pembayaran sebaiknya tidak menjadi satu-satunya pihak yang mencatat dan merekonsiliasi transaksi. Pada organisasi kecil, pemisahan penuh mungkin sulit sehingga diperlukan pemeriksaan pengganti, tinjauan berkala, atau persetujuan pihak lain.
+
+Pengendalian harus sebanding dengan risiko dan biaya. Prosedur yang terlalu rumit dapat menghambat kegiatan, sementara prosedur yang terlalu longgar membuka peluang kesalahan. Evaluasi perlu menilai apakah kontrol benar-benar berjalan, bukan hanya apakah dokumen kebijakan tersedia.
+
+BAB LANJUTAN: AKUNTANSI PERSEDIAAN DAN ASET TETAP
+
+Persediaan merupakan barang yang dimiliki untuk dijual atau digunakan dalam proses produksi. Pencatatan persediaan perlu konsisten agar nilai aset dan beban yang terkait dapat dihitung dengan benar. Metode penilaian harus mengikuti standar akuntansi yang berlaku dan diterapkan secara konsisten. Perbedaan metode dapat menghasilkan angka laba dan persediaan yang berbeda.
+
+Aset tetap digunakan dalam operasi lebih dari satu periode. Biaya perolehan, umur manfaat, nilai residu, dan metode penyusutan memengaruhi nilai tercatat. Penyusutan merupakan alokasi biaya selama masa manfaat, bukan pengukuran langsung harga pasar aset. Perubahan estimasi harus didasarkan pada informasi yang relevan dan diungkapkan sesuai standar.
+
+Perusahaan juga perlu menilai indikasi penurunan nilai, biaya perawatan, dan penghentian aset. Catatan aset yang baik mencakup identitas, lokasi, tanggal perolehan, kondisi, penanggung jawab, dan riwayat perubahan.
+
+BAB LANJUTAN: ANALISIS LAPORAN KEUANGAN
+
+Analisis laporan keuangan menghubungkan angka dengan kondisi organisasi. Rasio likuiditas menilai kemampuan memenuhi kewajiban jangka pendek, rasio solvabilitas melihat struktur pendanaan dan kemampuan jangka panjang, sedangkan rasio profitabilitas menilai hasil dibandingkan penjualan, aset, atau ekuitas.
+
+Rasio tidak boleh ditafsirkan secara terpisah. Rasio lancar yang tinggi dapat menunjukkan likuiditas, tetapi juga mungkin mencerminkan persediaan lambat bergerak. Margin laba dapat berubah karena harga, biaya, campuran produk, atau kebijakan pengakuan. Bandingkan tren beberapa periode dan organisasi sejenis dengan memperhatikan perbedaan model usaha.
+
+Arus kas penting karena laba akuntansi tidak sama dengan kas yang tersedia. Organisasi dapat mencatat pendapatan tetapi belum menerima pembayaran. Analisis perlu melihat arus kas operasi, investasi, dan pendanaan serta menjelaskan transaksi tidak berulang.
+
+LATIHAN PENDALAMAN
+1. Mengapa pemisahan tugas menjadi bagian pengendalian internal?
+2. Apa perbedaan penyusutan dan penurunan nilai aset?
+3. Mengapa rasio lancar yang tinggi belum tentu selalu baik?
+4. Apa perbedaan laba dan arus kas?
+5. Mengapa rasio perlu dibandingkan dengan tren dan konteks industri?

@@ -174,3 +174,38 @@ Optimasi: Pencarian nilai maksimum atau minimum sesuai batasan.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Gunakan buku ajar dan sumber lembaga kompeten untuk pendalaman. Catat sumber, tahun, dan bagian yang dirujuk. Untuk informasi yang terus berkembang, periksa edisi dan tanggal pembaruan sebelum mengutip.
+
+BAB LANJUTAN: LIMIT DAN KONTINUITAS
+
+Limit menjelaskan perilaku suatu fungsi ketika masukan mendekati nilai tertentu. Perhatian utama bukan hanya nilai fungsi tepat pada titik itu, melainkan nilai yang didekati dari sekitar titik. Perbedaan ini penting ketika fungsi tidak terdefinisi pada suatu titik tetapi memiliki perilaku yang dapat diperkirakan di sekitarnya.
+
+Limit kiri dan limit kanan harus sama agar limit dua sisi ada. Jika keduanya berbeda, fungsi tidak memiliki limit dua sisi pada titik tersebut. Pada grafik, limit dapat dibaca sebagai ketinggian yang didekati kurva dari kedua arah, tetapi grafik hanya alat bantu; pembuktian aljabar atau definisi formal diperlukan untuk argumen yang lebih kuat.
+
+Fungsi kontinu pada titik jika fungsi terdefinisi di titik itu, limitnya ada, dan nilai limit sama dengan nilai fungsi. Kontinuitas berguna dalam pemodelan perubahan yang tidak meloncat, tetapi model nyata dapat memiliki diskontinuitas, misalnya perubahan tarif pada ambang tertentu.
+
+BAB LANJUTAN: TURUNAN SEBAGAI LAJU PERUBAHAN
+
+Turunan mengukur laju perubahan sesaat. Secara geometris, turunan adalah kemiringan garis singgung grafik; secara kontekstual, turunan dapat berarti kecepatan sesaat, laju pertumbuhan, atau perubahan biaya terhadap jumlah produksi. Satuan turunan merupakan satuan keluaran dibagi satuan masukan.
+
+Aturan turunan membantu menghitung fungsi yang dibentuk dari penjumlahan, perkalian, pembagian, dan komposisi. Aturan rantai sangat penting ketika satu besaran bergantung pada besaran lain melalui beberapa tahap. Namun, aturan tidak boleh digunakan tanpa memeriksa domain dan titik tempat fungsi dapat diturunkan.
+
+Tanda turunan memberi informasi arah perubahan: turunan positif menunjukkan fungsi meningkat pada interval, sedangkan turunan negatif menunjukkan penurunan. Titik dengan turunan nol dapat menjadi kandidat maksimum, minimum, atau titik datar yang bukan ekstrem. Pemeriksaan turunan kedua dan perubahan tanda membantu membedakan kasus.
+
+BAB LANJUTAN: INTEGRAL DAN AKUMULASI
+
+Integral tentu mengakumulasi kontribusi kecil sepanjang interval. Dalam interpretasi geometris, integral dapat menyatakan luas bertanda di bawah kurva. Dalam konteks lain, integral dari laju aliran dapat menghasilkan volume total, sedangkan integral dari kecepatan dapat menghasilkan perpindahan.
+
+Teorema dasar kalkulus menghubungkan diferensiasi dan integrasi. Hubungan ini memungkinkan akumulasi dihitung melalui antiturunan ketika syarat yang sesuai terpenuhi. Batas integral dan orientasi interval penting: membalik batas mengubah tanda integral.
+
+BAB LANJUTAN: PEMODELAN DENGAN KALKULUS
+
+Model optimasi menggunakan turunan untuk mencari nilai yang memaksimalkan atau meminimalkan suatu besaran. Langkah awal adalah mendefinisikan variabel keputusan, fungsi tujuan, batasan, dan domain. Solusi matematis perlu diperiksa terhadap konteks: nilai negatif atau ukuran yang tidak mungkin mungkin menandakan model atau batasan salah.
+
+Persamaan diferensial menggambarkan hubungan antara besaran dan laju perubahannya. Model pertumbuhan sederhana dapat menghasilkan perubahan eksponensial, tetapi asumsi pertumbuhan proporsional tanpa batas jarang berlaku selamanya. Model yang lebih realistis dapat memasukkan kapasitas lingkungan atau keterbatasan sumber daya.
+
+LATIHAN AKHIR
+1. Jelaskan perbedaan nilai fungsi dan limitnya.
+2. Tentukan makna satuan turunan untuk jarak terhadap waktu.
+3. Berikan contoh titik stasioner yang bukan maksimum atau minimum.
+4. Jelaskan integral sebagai akumulasi.
+5. Buat model optimasi sederhana dan nyatakan batasannya.

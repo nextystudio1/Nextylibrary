@@ -174,3 +174,45 @@ Mikrostruktur: Susunan bagian material pada skala mikroskopis.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Gunakan buku ajar dan sumber lembaga kompeten untuk pendalaman. Catat sumber, tahun, dan bagian yang dirujuk. Untuk informasi yang terus berkembang, periksa edisi dan tanggal pembaruan sebelum mengutip.
+
+BAB LANJUTAN: HUBUNGAN STRUKTUR, SIFAT, DAN PROSES
+
+Sifat material tidak muncul secara terpisah dari struktur dan proses pembuatannya. Komposisi kimia, susunan atom, ukuran butir, porositas, cacat, dan perlakuan proses dapat memengaruhi kekuatan, kekerasan, keuletan, konduktivitas, dan ketahanan korosi. Dua benda dengan bahan dasar sama dapat menunjukkan kinerja berbeda jika riwayat pembuatannya berbeda.
+
+Pemilihan material sebaiknya dimulai dari fungsi dan kondisi kerja. Komponen yang menerima beban berulang memerlukan perhatian terhadap kelelahan; komponen pada lingkungan lembap perlu mempertimbangkan korosi; bagian yang bersentuhan dengan makanan memerlukan persyaratan keamanan dan kebersihan. Harga awal bukan satu-satunya pertimbangan karena umur pakai, perawatan, dan akhir masa pakai juga memengaruhi biaya total.
+
+Lembar spesifikasi material biasanya mencantumkan komposisi, sifat mekanik, rentang suhu, standar pengujian, dan toleransi. Angka pada lembar data harus dibaca bersama metode uji dan kondisi sampel. Nilai kekuatan tarik dari dua sumber belum tentu dapat dibandingkan langsung jika standar, bentuk spesimen, atau perlakuannya berbeda.
+
+BAB LANJUTAN: PENGUJIAN DAN KETIDAKPASTIAN PENGUKURAN
+
+Pengujian material dapat mencakup uji tarik, kekerasan, impak, kelelahan, korosi, dan pemeriksaan mikrostruktur. Setiap uji menjawab pertanyaan tertentu. Uji kekerasan tidak otomatis menggantikan uji ketangguhan; uji tarik pada suhu ruang tidak cukup untuk memprediksi kinerja pada suhu tinggi.
+
+Hasil pengukuran dipengaruhi kalibrasi alat, persiapan sampel, operator, kondisi lingkungan, dan prosedur. Pengulangan membantu menilai variasi. Pelaporan sebaiknya mencantumkan jumlah sampel, metode, satuan, kondisi pengujian, dan ukuran variasi bila tersedia. Satu hasil yang sangat tinggi atau rendah perlu diperiksa, bukan langsung dianggap mewakili seluruh bahan.
+
+Pengujian destruktif merusak sampel, sedangkan pengujian tak merusak bertujuan memeriksa komponen tanpa menghilangkan kegunaannya. Pemilihan metode bergantung pada jenis cacat yang dicari, geometri, bahan, akses, dan tingkat kepastian yang diperlukan.
+
+BAB LANJUTAN: KOROSI DAN PERLINDUNGAN MATERIAL
+
+Korosi adalah degradasi material akibat interaksi dengan lingkungan. Bentuknya dapat merata, terlokalisasi, galvanik, atau berkaitan dengan tegangan. Air, oksigen, garam, suhu, dan kondisi permukaan memengaruhi laju serta pola kerusakan. Pemeriksaan perlu mencari penyebab agar tindakan perbaikan tidak hanya menutupi gejala.
+
+Perlindungan dapat dilakukan melalui pemilihan paduan, pelapisan, desain yang mengurangi perangkap cairan, pengendalian lingkungan, dan inspeksi berkala. Pelapisan yang rusak dapat menjadi titik awal korosi lokal. Dua logam berbeda yang bersentuhan dalam elektrolit juga dapat membentuk pasangan galvanik; pemilihan sambungan dan isolasi perlu dipertimbangkan.
+
+BAB LANJUTAN: POLIMER, KERAMIK, LOGAM, DAN KOMPOSIT
+
+Logam umumnya memiliki kombinasi kekuatan, keuletan, dan kemampuan dibentuk yang berguna untuk struktur serta mesin. Keramik sering memiliki kekerasan dan ketahanan suhu tinggi, tetapi banyak jenisnya rapuh terhadap retak. Polimer memiliki massa jenis rendah dan mudah dibentuk, namun sifatnya dapat berubah akibat suhu, waktu, sinar ultraviolet, dan bahan kimia.
+
+Komposit menggabungkan bahan penguat dan matriks untuk memperoleh sifat yang tidak mudah dicapai oleh satu bahan saja. Arah serat, ikatan antarmuka, cacat produksi, dan kondisi beban sangat memengaruhi kinerja. Komposit tidak otomatis lebih baik; perbaikan, daur ulang, biaya produksi, dan inspeksi dapat lebih rumit.
+
+BAB LANJUTAN: PEMILIHAN MATERIAL DAN KEBERLANJUTAN
+
+Pemilihan material merupakan keputusan multikriteria. Kebutuhan fungsi, keselamatan, biaya, ketersediaan, kemampuan manufaktur, perawatan, dan dampak lingkungan perlu dinilai bersama. Mengurangi massa dapat menurunkan energi penggunaan pada beberapa aplikasi, tetapi proses produksi bahan tertentu mungkin lebih intensif sumber daya.
+
+Pendekatan siklus hidup mempertimbangkan ekstraksi, pemrosesan, transportasi, penggunaan, perbaikan, penggunaan kembali, dan daur ulang. Material yang secara teori dapat didaur ulang belum tentu benar-benar didaur ulang jika sistem pengumpulan dan pemisahannya tidak tersedia. Desain untuk pembongkaran dan penandaan material dapat membantu pemulihan di akhir masa pakai.
+
+LATIHAN AKHIR
+1. Jelaskan hubungan struktur mikro dengan sifat mekanik.
+2. Pilih pengujian untuk menilai ketahanan terhadap beban berulang dan jelaskan alasannya.
+3. Mengapa hasil uji perlu menyebut metode dan kondisi sampel?
+4. Bandingkan karakteristik umum logam, keramik, dan polimer.
+5. Buat matriks pemilihan material untuk komponen luar ruang.
+6. Jelaskan mengapa daur ulang memerlukan sistem, bukan hanya sifat bahan.

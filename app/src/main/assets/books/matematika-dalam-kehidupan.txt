@@ -479,3 +479,21 @@ Rancang denah ruang baca sederhana dengan ukuran fiktif. Hitung luas lantai, lua
 
 RANGKUMAN
 Geometri dan pengukuran membantu merancang, membaca peta, dan memahami ruang. Ketepatan bergantung pada sketsa, satuan, asumsi, serta pemilihan rumus.
+
+BAB OPTIMASI DAN PENGAMBILAN KEPUTUSAN
+Optimasi mencari pilihan terbaik menurut tujuan dan batasan tertentu. Dalam kehidupan sehari-hari, tujuan dapat berupa meminimalkan biaya, memaksimalkan manfaat, atau menghemat waktu. Batasan dapat berupa anggaran, kapasitas, tenaga, dan aturan. Solusi terbaik selalu bergantung pada tujuan yang ditetapkan; tidak ada satu jawaban terbaik untuk semua nilai.
+
+MODEL MATEMATIKA
+Variabel keputusan mewakili hal yang dapat dipilih. Fungsi tujuan menyatakan ukuran yang ingin dioptimalkan, sedangkan kendala menyatakan batas yang harus dipenuhi. Model perlu menyatakan satuan dan asumsi. Jika asumsi tidak realistis, solusi matematis dapat tidak berguna dalam praktik.
+
+OPTIMASI LINEAR SEDERHANA
+Dalam masalah dua variabel, kendala linear membentuk daerah solusi yang memenuhi semua batas. Fungsi tujuan linear dapat mencapai nilai optimum pada titik sudut daerah layak dalam kondisi umum. Grafik membantu memahami konsep sebelum menggunakan metode komputasi untuk persoalan lebih besar.
+
+KEPUTUSAN DENGAN BANYAK KRITERIA
+Keputusan nyata sering melibatkan beberapa tujuan yang saling bertentangan, seperti biaya, kualitas, waktu, dan dampak lingkungan. Pemberian bobot dapat membantu membandingkan pilihan, tetapi bobot mencerminkan penilaian dan perlu dijelaskan. Analisis sensitivitas menunjukkan apakah hasil berubah ketika bobot atau asumsi diubah.
+
+LATIHAN
+Rancang simulasi pembelian perlengkapan kelas dengan batas anggaran dan kebutuhan jumlah minimum. Tentukan variabel, kendala, dan tujuan. Bandingkan dua pilihan dan jelaskan nilai yang diprioritaskan.
+
+RANGKUMAN
+Optimasi mengubah persoalan menjadi tujuan dan kendala yang jelas. Solusi harus diperiksa terhadap asumsi, kriteria, dan dampak praktis.

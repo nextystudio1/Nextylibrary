@@ -327,3 +327,21 @@ Bandingkan rekomendasi dari dua akun atau layanan dengan topik yang sama menggun
 
 RANGKUMAN
 Sistem rekomendasi memengaruhi apa yang terlihat di ruang digital. Memahami metrik, privasi, dan keberagaman sumber membantu pengguna tetap memiliki kendali dan berpikir kritis.
+
+BAB MEMERIKSA GAMBAR, VIDEO, DAN KONTEKS
+Konten visual dapat menyesatkan walaupun gambar atau video itu sendiri asli. Foto lama dapat diberi keterangan seolah-olah peristiwa baru, video dapat dipotong sehingga konteks hilang, dan gambar dari tempat lain dapat dikaitkan dengan kejadian yang tidak berhubungan. Pemeriksaan harus menilai media dan klaim yang menyertainya.
+
+LANGKAH PEMERIKSAAN
+Identifikasi klaim spesifik yang dibuat unggahan. Periksa tanggal publikasi, sumber pertama, lokasi, dan apakah ada versi lengkap. Cari petunjuk visual yang dapat diverifikasi seperti papan nama atau kondisi cuaca, tetapi jangan menganggap satu petunjuk sebagai bukti final. Bandingkan dengan laporan independen dan sumber resmi yang relevan.
+
+KONTEKS VIDEO
+Potongan video pendek dapat menghilangkan bagian sebelum atau sesudah kejadian. Audio dapat ditambahkan atau diganti. Periksa apakah rekaman lengkap tersedia, apakah suara dan gambar selaras, serta apakah keterangan menjelaskan siapa yang merekam dan kapan. Jika tidak dapat dipastikan, nyatakan bahwa informasi belum terverifikasi.
+
+MENGHINDARI PENYEBARAN KERUGIAN
+Jangan membagikan ulang foto pribadi, rekaman korban, atau konten yang dapat membahayakan seseorang hanya demi membuktikan klaim. Jika unggahan mengandung data pribadi atau ancaman, gunakan jalur pelaporan yang sesuai. Verifikasi tidak boleh berubah menjadi perburuan identitas atau pelecehan.
+
+LATIHAN
+Gunakan dua contoh media pendidikan yang disediakan guru. Tuliskan klaim, sumber asli, tanggal, konteks, dan tingkat kepastian. Jelaskan bukti tambahan yang diperlukan sebelum menyebarkannya.
+
+RANGKUMAN
+Verifikasi visual membutuhkan pemeriksaan sumber, waktu, lokasi, dan konteks. Ketidakpastian harus dinyatakan, dan privasi orang yang muncul dalam media tetap dilindungi.

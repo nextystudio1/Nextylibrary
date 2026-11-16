@@ -380,3 +380,21 @@ Rancang diagram blok alat pemantau suhu ruang berbasis sensor dan mikrokontroler
 
 RANGKUMAN
 Sensor dan sistem akuisisi data menghubungkan dunia fisik dengan sistem elektronik. Kalibrasi, sampling, batas komponen, dan penanganan kegagalan menentukan keandalan.
+
+BAB CATU DAYA DAN EFISIENSI ENERGI
+Catu daya menyediakan energi listrik dengan tegangan dan arus yang sesuai bagi rangkaian. Catu daya ideal menjaga tegangan tetap, tetapi perangkat nyata memiliki batas arus, riak, dan efisiensi. Pemilihan catu daya harus mengikuti kebutuhan beban dan spesifikasi komponen. Tegangan yang terlalu tinggi dapat merusak perangkat.
+
+REGULATOR DAN STABILITAS
+Regulator menjaga keluaran dalam rentang tertentu meskipun masukan atau beban berubah. Regulator linear sederhana dapat membuang selisih energi sebagai panas, sedangkan regulator switching dapat lebih efisien pada kondisi tertentu tetapi memiliki rangkaian lebih kompleks. Efisiensi dihitung sebagai perbandingan daya keluaran terhadap daya masukan.
+
+DAYA DAN PEMANASAN
+Daya listrik pada beban resistif dapat dihitung dari tegangan dikalikan arus atau dari hubungan resistansi yang sesuai. Energi yang hilang sebagai panas perlu diperhitungkan. Komponen memiliki batas suhu dan daya; desain perlu menyediakan ventilasi atau pembuangan panas yang sesuai spesifikasi.
+
+GROUND DAN GANGGUAN
+Ground menjadi titik referensi tegangan dalam rangkaian, tetapi bukan berarti semua titik ground selalu identik pada kondisi nyata. Jalur arus, panjang kabel, dan gangguan elektromagnetik dapat memengaruhi pembacaan sensor. Tata letak rangkaian, penyaringan, dan sambungan yang baik membantu mengurangi gangguan.
+
+LATIHAN
+Gunakan simulator rangkaian untuk membandingkan daya masukan dan keluaran pada dua catu daya ideal dengan efisiensi berbeda. Hitung energi yang hilang dan jelaskan mengapa panas perlu dikelola. Jangan membuka atau memperbaiki catu daya listrik rumah.
+
+RANGKUMAN
+Catu daya, regulator, efisiensi, dan pengelolaan panas menentukan kestabilan sistem elektronik. Rancangan harus mengikuti spesifikasi dan prosedur keselamatan.

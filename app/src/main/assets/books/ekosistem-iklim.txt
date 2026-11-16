@@ -340,3 +340,21 @@ Gambar diagram daur air dan tandai proses yang dipengaruhi vegetasi serta penggu
 
 RANGKUMAN
 Daur air menghubungkan atmosfer, tanah, air permukaan, dan air tanah. Pengelolaan berkelanjutan membutuhkan pemahaman daerah aliran sungai dan keseimbangan penggunaan serta pengisian ulang.
+
+BAB SIKLUS KARBON DAN UMPAN BALIK IKLIM
+Karbon berpindah di antara atmosfer, lautan, tanah, batuan, dan makhluk hidup. Fotosintesis menyerap karbon dioksida, sedangkan respirasi, dekomposisi, dan pembakaran melepaskannya. Laut menyerap dan melepaskan karbon melalui pertukaran gas dan proses kimia. Perubahan keseimbangan antarreservoir memengaruhi konsentrasi gas rumah kaca di atmosfer.
+
+EFEK RUMAH KACA
+Gas rumah kaca menyerap dan memancarkan kembali radiasi inframerah sehingga memengaruhi suhu sistem Bumi. Efek rumah kaca alami membuat Bumi lebih hangat dibanding kondisi tanpa gas tersebut. Peningkatan konsentrasi gas akibat aktivitas manusia memperkuat pemanasan. Ini berbeda dari penipisan ozon, yang merupakan masalah kimia atmosfer dengan mekanisme berbeda.
+
+UMPAN BALIK IKLIM
+Umpan balik positif memperkuat perubahan awal, misalnya berkurangnya es yang menurunkan reflektivitas permukaan sehingga lebih banyak energi diserap. Umpan balik negatif cenderung mengurangi perubahan. Umpan balik dapat memiliki skala waktu berbeda dan ketidakpastian yang perlu dipelajari melalui pengamatan serta model.
+
+DAMPAK LAUTAN
+Lautan menyerap sebagian panas berlebih dan karbon dioksida. Pemanasan menyebabkan ekspansi termal air laut dan berkontribusi pada kenaikan muka laut, bersama pencairan es daratan. Penyerapan karbon juga mengubah kimia air laut dan dapat memengaruhi organisme pembentuk cangkang atau kerangka.
+
+LATIHAN
+Buat diagram aliran karbon antara atmosfer, tumbuhan, tanah, laut, dan bahan bakar fosil. Tandai proses yang dipengaruhi manusia dan jelaskan perbedaan sumber karbon jangka pendek serta jangka panjang.
+
+RANGKUMAN
+Siklus karbon dan umpan balik iklim menjelaskan hubungan aktivitas manusia dengan sistem Bumi. Pengamatan, eksperimen, dan model diperlukan untuk memahami perubahan serta ketidakpastiannya.

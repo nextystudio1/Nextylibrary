@@ -429,3 +429,21 @@ Pilih satu jenis bahaya di wilayah Indonesia dan gunakan sumber resmi untuk meng
 
 RANGKUMAN
 Risiko bencana dapat dikurangi melalui pemetaan, infrastruktur, kesiapsiagaan, dan perhatian terhadap kelompok yang membutuhkan dukungan. Informasi harus berasal dari sumber resmi dan diperbarui.
+
+BAB URBANISASI DAN TATA RUANG
+Urbanisasi adalah meningkatnya proporsi penduduk yang tinggal di wilayah perkotaan dan proses perubahan wilayah menjadi berciri perkotaan. Faktor pendorong meliputi kesempatan kerja, pendidikan, layanan, serta perubahan ekonomi di desa. Urbanisasi dapat menghasilkan inovasi dan produktivitas, tetapi juga meningkatkan kebutuhan perumahan, transportasi, air, sanitasi, dan ruang terbuka.
+
+STRUKTUR KOTA
+Kota memiliki pusat kegiatan, kawasan permukiman, industri, perdagangan, dan jaringan transportasi. Pola ruang dipengaruhi sejarah, topografi, kebijakan, harga lahan, serta investasi. Model kota dalam buku ajar merupakan penyederhanaan dan tidak selalu cocok untuk semua kota, terutama kota yang tumbuh melalui sejarah dan kondisi geografis berbeda.
+
+TRANSPORTASI DAN AKSES
+Jarak tempuh tidak hanya ditentukan jarak lurus, tetapi juga jaringan jalan, kemacetan, biaya, keselamatan, dan akses bagi pejalan kaki atau pengguna transportasi umum. Perencanaan yang berorientasi pada akses dapat mengurangi ketergantungan pada kendaraan pribadi. Ketersediaan trotoar, penyeberangan, dan ruang publik memengaruhi kualitas hidup.
+
+RISIKO PERMUKIMAN
+Permukiman dapat terpapar banjir, longsor, panas ekstrem, dan polusi. Pemetaan risiko perlu memadukan bahaya, kondisi bangunan, kepadatan, dan kemampuan warga mengakses layanan. Penataan ruang harus mempertimbangkan hak warga dan menghindari pemindahan tanpa proses yang adil.
+
+LATIHAN
+Bandingkan denah dua kawasan kota dari sumber peta terbuka. Catat akses ke sekolah, layanan kesehatan, ruang terbuka, dan transportasi. Jelaskan keterbatasan data peta terhadap pengalaman warga.
+
+RANGKUMAN
+Geografi perkotaan mengkaji perubahan ruang, akses, dan risiko. Kota yang berkelanjutan memerlukan tata ruang inklusif dan layanan dasar yang terjangkau.

@@ -21,6 +21,12 @@ DAFTAR ISI
 12. Perdagangan dan Globalisasi
 13. Pertumbuhan, Pembangunan, dan Ketimpangan
 14. Ekonomi Berkelanjutan dan Literasi Ekonomi
+15. Kelangkaan dan Biaya Peluang — Pendalaman
+16. Permintaan, Penawaran, dan Harga — Pendalaman
+17. Produksi dan Rantai Pasok
+18. Konsumsi dan Perilaku
+19. Publik, Pajak, dan Layanan
+20. Ekonomi Berkelanjutan
 Lampiran: Istilah, latihan, dan pembahasan
 
 BAB 1. APA YANG DIPELAJARI ILMU EKONOMI
@@ -292,22 +298,22 @@ PENUTUP
 Ilmu ekonomi membantu kita memahami pilihan dan konsekuensinya. Angka, harga, dan kebijakan perlu dibaca dalam konteks, bukan diterima begitu saja. Dengan memahami kelangkaan, pasar, uang, pekerjaan, dan dampak lingkungan, pembaca dapat menilai keputusan ekonomi secara lebih kritis dan bertanggung jawab.
 
 PENDALAMAN: EKONOMI RUMAH TANGGA DAN KEPUTUSAN SEHARI-HARI
-BAB 7 — KELANGKAAN DAN BIAYA PELUANG
+BAB 15 — KELANGKAAN DAN BIAYA PELUANG
 Sumber daya seperti waktu, uang, tenaga, dan bahan selalu terbatas dibandingkan banyaknya keinginan. Kelangkaan membuat individu dan masyarakat harus memilih. Biaya peluang adalah nilai dari alternatif terbaik yang dilepaskan ketika memilih satu tindakan.
 Keputusan yang baik tidak hanya membandingkan harga, tetapi juga waktu, kualitas, risiko, dan manfaat jangka panjang. Pilihan yang tampak murah dapat memiliki biaya tersembunyi seperti perawatan atau waktu perjalanan.
-BAB 8 — PERMINTAAN, PENAWARAN, DAN HARGA
+BAB 16 — PERMINTAAN, PENAWARAN, DAN HARGA
 Permintaan menggambarkan jumlah barang yang ingin dan mampu dibeli pada berbagai tingkat harga. Penawaran menggambarkan jumlah yang ingin dijual produsen. Interaksi keduanya membantu membentuk harga pasar, tetapi kondisi nyata dipengaruhi informasi, kekuatan pasar, pajak, dan kebijakan.
 Perubahan selera, pendapatan, biaya produksi, atau teknologi dapat menggeser kurva. Bedakan perubahan jumlah yang diminta akibat harga dari perubahan permintaan akibat faktor lain.
-BAB 9 — PRODUKSI DAN RANTAI PASOK
+BAB 17 — PRODUKSI DAN RANTAI PASOK
 Barang yang sampai ke konsumen melewati proses bahan baku, produksi, penyimpanan, transportasi, dan distribusi. Gangguan pada satu bagian dapat memengaruhi ketersediaan dan harga. Rantai pasok yang efisien tetap perlu mempertimbangkan ketahanan dan dampak lingkungan.
 Produsen membuat keputusan tentang jumlah produksi, kualitas, tenaga kerja, dan investasi. Produktivitas mengukur keluaran dibandingkan masukan, tetapi tidak selalu menggambarkan kualitas pekerjaan atau dampak sosial.
-BAB 10 — KONSUMSI DAN PERILAKU
+BAB 18 — KONSUMSI DAN PERILAKU
 Keputusan konsumen dipengaruhi kebutuhan, pendapatan, harga, kebiasaan, iklan, dan informasi. Bias perilaku dapat membuat orang lebih fokus pada diskon daripada total biaya. Membuat daftar kebutuhan dan membandingkan biaya per unit dapat membantu keputusan yang lebih sadar.
 Iklan harus dibedakan dari ulasan independen. Periksa syarat promosi, biaya tambahan, dan kebijakan pengembalian sebelum membeli.
-BAB 11 — PUBLIK, PAJAK, DAN LAYANAN
+BAB 19 — PUBLIK, PAJAK, DAN LAYANAN
 Pemerintah menyediakan layanan dan infrastruktur yang mendukung kegiatan masyarakat. Pajak merupakan salah satu sumber pembiayaan. Kebijakan publik memiliki konsekuensi distribusi: kelompok berbeda dapat menerima manfaat dan menanggung biaya secara berbeda.
 Evaluasi kebijakan perlu melihat tujuan, data, biaya, dampak, dan mekanisme akuntabilitas. Satu indikator tidak cukup untuk menggambarkan seluruh keberhasilan.
-BAB 12 — EKONOMI BERKELANJUTAN
+BAB 20 — EKONOMI BERKELANJUTAN
 Kegiatan ekonomi bergantung pada sumber daya alam dan sistem sosial. Eksternalitas terjadi ketika biaya atau manfaat kegiatan tidak sepenuhnya tercermin dalam harga. Polusi, limbah, dan penggunaan sumber daya berlebih dapat membebankan biaya kepada masyarakat luas.
 Ekonomi sirkular berupaya menjaga bahan tetap digunakan melalui desain tahan lama, perbaikan, penggunaan ulang, dan daur ulang. Penerapannya memerlukan infrastruktur dan perubahan perilaku, bukan hanya slogan.
 LATIHAN

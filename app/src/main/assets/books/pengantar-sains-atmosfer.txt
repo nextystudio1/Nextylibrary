@@ -119,3 +119,53 @@ LATIHAN TERAPAN
 3. Sebutkan unsur yang perlu diamati untuk memahami cuaca.
 4. Mengapa iklim tidak dapat disimpulkan dari cuaca satu hari?
 5. Jelaskan cara membaca peluang hujan secara hati-hati.
+
+BAB 12. DINAMIKA ATMOSFER DAN GELOMBANG PLANET
+
+Atmosfer bergerak karena perbedaan pemanasan, tekanan, dan pengaruh rotasi bumi. Gradien tekanan mendorong gerak udara, sedangkan gaya Coriolis membelokkan gerak relatif terhadap permukaan bumi. Gesekan dekat permukaan memperlambat dan mengubah arah angin. Kombinasi gaya tersebut membantu menjelaskan pola angin skala besar, tetapi kondisi lokal seperti topografi dan perbedaan suhu darat-laut juga berpengaruh.
+
+Gelombang atmosfer memindahkan energi dan momentum. Gelombang Rossby berkaitan dengan perubahan lintang dan rotasi bumi serta berperan dalam pola aliran skala besar. Gelombang dapat memengaruhi posisi palung dan punggung atmosfer, sehingga berkaitan dengan perubahan pola cuaca. Analisis sinoptik menggabungkan peta tekanan, angin, suhu, dan kelembapan untuk menilai konfigurasi sistem.
+
+BAB 13. SIKLON TROPIS DAN SISTEM KONVEKTIF
+
+Siklon tropis berkembang di atas laut hangat ketika kondisi atmosfer mendukung konveksi terorganisasi, kelembapan, dan rotasi yang memadai. Tidak setiap gangguan tropis berkembang menjadi siklon. Struktur umumnya dapat mencakup pusat tekanan rendah, pita hujan, dan sirkulasi angin yang kuat. Dampaknya tidak hanya ditentukan kecepatan angin, tetapi juga hujan lebat, gelombang, kenaikan muka air, dan kerentanan wilayah.
+
+Sistem konvektif dapat menghasilkan hujan intens dalam waktu relatif singkat. Pemantauan radar, satelit, stasiun permukaan, dan model numerik saling melengkapi. Informasi peringatan harus mengutamakan sumber resmi dan memperhatikan perubahan lintasan maupun intensitas. Masyarakat perlu mengikuti instruksi otoritas setempat, bukan mencoba menyimpulkan keselamatan hanya dari jarak pusat sistem.
+
+BAB 14. INTERAKSI LAUT DAN ATMOSFER
+
+Laut menyimpan panas dan mengubahnya melalui arus, pencampuran, penguapan, serta pertukaran energi dengan atmosfer. Variasi suhu permukaan laut dapat memengaruhi pembentukan awan dan pola hujan. Fenomena iklim seperti El Niño dan La Niña merupakan bagian dari variasi sistem laut-atmosfer tropis Pasifik dan dapat memengaruhi pola curah hujan di banyak wilayah, termasuk Indonesia, dengan dampak yang bervariasi menurut musim dan lokasi.
+
+Indeks iklim merangkum kondisi tertentu, tetapi tidak menjelaskan seluruh cuaca lokal. Hubungan statistik masa lalu tidak selalu menjamin respons identik pada setiap kejadian. Analisis perlu memperhatikan musim, kondisi regional, dan faktor lain yang bekerja bersamaan.
+
+BAB 15. PENGAMATAN ATMOSFER DAN INSTRUMENTASI
+
+Stasiun cuaca mengukur unsur seperti suhu, tekanan, kelembapan, curah hujan, dan angin. Penempatan alat, kalibrasi, perlindungan dari gangguan, serta jadwal pemeliharaan menentukan kualitas data. Pengukuran yang tidak standar dapat menciptakan bias sistematis sehingga tren menjadi sulit dibandingkan.
+
+Satelit menyediakan cakupan luas dan pengamatan awan, uap air, serta karakteristik permukaan. Radar cuaca membantu memantau presipitasi dan pergerakan sistem hujan. Setiap instrumen mengukur besaran yang berbeda dan memiliki keterbatasan. Data satelit bukan pengganti langsung pengukuran permukaan; keduanya perlu dipadukan sesuai tujuan.
+
+BAB 16. MODEL NUMERIK DAN ASIMILASI DATA
+
+Model cuaca membagi atmosfer menjadi kisi ruang dan langkah waktu, kemudian menyelesaikan persamaan fisika secara numerik. Proses kecil yang tidak dapat diwakili secara eksplisit sering direpresentasikan melalui parameterisasi. Kondisi awal dibangun dari pengamatan yang beragam melalui proses asimilasi data. Kesalahan kecil pada kondisi awal dan keterbatasan model dapat berkembang, sehingga prakiraan memiliki ketidakpastian.
+
+Ensemble menggunakan beberapa simulasi dengan kondisi awal atau konfigurasi berbeda untuk memperkirakan rentang hasil. Probabilitas harus ditafsirkan sesuai definisi dan periode prakiraan. Model bukan mesin kepastian; keterampilan meteorolog menggabungkan keluaran model, pengamatan terbaru, dan pengetahuan proses atmosfer.
+
+BAB 17. IKLIM, KUALITAS UDARA, DAN KESEHATAN LINGKUNGAN
+
+Kualitas udara dipengaruhi emisi, reaksi kimia atmosfer, cuaca, topografi, dan transportasi polutan. Angin dapat menyebarkan polutan, sedangkan kondisi atmosfer stabil dapat membuat polutan terakumulasi dekat permukaan. Hujan dapat menghilangkan sebagian partikel, tetapi pengaruhnya bergantung pada jenis polutan dan kondisi setempat.
+
+Pemantauan kualitas udara menggunakan alat dengan prinsip dan rentang akurasi berbeda. Indeks kualitas udara menyederhanakan beberapa pengukuran untuk komunikasi publik; periksa parameter, waktu, lokasi, dan sumbernya. Informasi kesehatan harus mengikuti panduan otoritas yang berwenang dan mempertimbangkan kelompok rentan.
+
+BAB 18. ANALISIS DATA ATMOSFER
+
+Sebelum menghitung rata-rata, periksa satuan, zona waktu, lokasi stasiun, periode data, nilai hilang, dan perubahan alat. Data curah hujan sering memiliki distribusi yang tidak simetris sehingga median, persentil, atau jumlah kejadian dapat lebih informatif daripada rata-rata saja. Perbandingan antarlokasi memerlukan perhatian pada ketinggian, lingkungan stasiun, dan panjang catatan.
+
+Tren perlu diuji dengan metode yang sesuai dan tidak boleh disimpulkan dari dua titik waktu saja. Perubahan lokasi stasiun atau alat dapat menciptakan perubahan semu. Dokumentasikan proses pembersihan data dan jangan menghapus nilai ekstrem hanya karena tampak tidak biasa; nilai tersebut dapat merupakan kejadian penting atau kesalahan yang perlu diverifikasi.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa gaya Coriolis bukan gaya yang mengawali gerak angin? Gerak didorong gradien tekanan; Coriolis membelokkan gerak dalam kerangka bumi berotasi.
+2. Mengapa dampak siklon tidak cukup dinilai dari angin maksimum? Hujan, gelombang, banjir, dan kerentanan juga menentukan dampak.
+3. Apa peran interaksi laut-atmosfer? Pertukaran panas dan uap air memengaruhi sirkulasi serta pola hujan.
+4. Mengapa data stasiun perlu metadata? Agar perubahan alat, lokasi, dan metode dapat diperhitungkan.
+5. Apa manfaat prakiraan ensemble? Menunjukkan rentang kemungkinan dan ketidakpastian, bukan satu hasil pasti.

@@ -6,14 +6,14 @@ DESKRIPSI
 Mengenal tujuan proyek, ruang lingkup, jadwal, biaya, risiko, tim, dan evaluasi hasil.
 
 PENDAHULUAN
-Buku Pengantar Manajemen Proyek membahas mengenal tujuan proyek, ruang lingkup, jadwal, biaya, risiko, tim, dan evaluasi hasil.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini menjelaskan cara merencanakan dan mengendalikan proyek dari penetapan tujuan hingga serah terima. Pembahasan meliputi ruang lingkup, struktur pekerjaan, jadwal, biaya, kapasitas tim, mutu, risiko, komunikasi, dan evaluasi.
 
 BAB 1. APA ITU PROYEK
 
 Proyek adalah usaha sementara untuk menghasilkan keluaran yang memiliki tujuan tertentu. Proyek berbeda dari operasi rutin karena memiliki awal, akhir, batas sumber daya, dan hasil yang didefinisikan. Keberhasilan tidak hanya diukur dari selesai tepat waktu, tetapi juga mutu, manfaat, dan kepuasan pihak terkait.
 
 PENDALAMAN
-Pada APA ITU PROYEK, bedakan fakta, aturan, kepentingan, dan penilaian. Identifikasi pihak yang terlibat serta kelompok yang terdampak. Bandingkan sumber dan sudut pandang sebelum menyusun kesimpulan agar konteks tidak terabaikan.
+Pada APA ITU PROYEK, tentukan hasil akhir yang harus diserahkan, batas waktu, sumber daya, dan pihak yang menerima hasil. Bedakan proyek sementara dari operasi rutin yang berlangsung terus-menerus.
 
 AKTIVITAS PENGAMATAN
 Pilih proyek sederhana yang sudah selesai atau sedang berjalan, seperti kegiatan sekolah atau pembuatan produk. Petakan tujuan, hasil yang diharapkan, pemangku kepentingan, jadwal, sumber daya, dan risiko. Bandingkan rencana awal dengan hasil yang terlihat dari informasi yang tersedia.
@@ -24,10 +24,10 @@ LATIHAN
 3. Buat contoh ketergantungan antara dua kegiatan proyek.
 4. Bagaimana perubahan ruang lingkup dapat memengaruhi waktu dan biaya?
 5. Tentukan cara melaporkan kemajuan proyek secara jujur kepada pemangku kepentingan.
-2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
-3. Berikan satu contoh dan satu contoh pembanding.
-4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
-5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
+2. Buat contoh ketergantungan antara dua kegiatan proyek.
+3. Jelaskan dampak perubahan ruang lingkup terhadap jadwal dan biaya.
+4. Tentukan bukti yang menunjukkan bahwa hasil proyek telah diterima.
+5. Susun satu pertanyaan yang membutuhkan data tambahan.
 
 RANGKUMAN
 - Proyek memiliki tujuan, batas waktu, sumber daya, dan hasil yang ditentukan.
@@ -62,15 +62,12 @@ TUGAS TERPADU
 Buat dokumen awal untuk proyek kecil: piagam proyek, daftar hasil, struktur pekerjaan, jadwal sederhana, perkiraan sumber daya, daftar risiko, dan rencana komunikasi. Tentukan kriteria penerimaan hasil serta cara menangani perubahan. Jelaskan asumsi yang digunakan dalam estimasi.
 
 EVALUASI AKHIR
-1. Apa fungsi piagam proyek dan siapa yang perlu menyetujuinya?
-2. Jelaskan cara memecah ruang lingkup menjadi paket pekerjaan.
-3. Bagaimana jalur kritis memengaruhi durasi proyek?
-4. Bandingkan risiko, masalah aktual, dan perubahan ruang lingkup.
-5. Buat indikator untuk menilai keberhasilan proyek selain ketepatan waktu.
-2. Jelaskan hubungan antara tiga konsep berbeda.
-3. Analisis satu contoh dengan menggunakan bukti.
-4. Bandingkan dua pendekatan atau penjelasan.
-5. Buat kesimpulan dan nyatakan keterbatasannya.
+EVALUASI AKHIR
+1. Apa fungsi piagam proyek dan informasi apa yang wajib dicantumkan?
+2. Jelaskan cara memecah ruang lingkup menjadi paket pekerjaan yang dapat dipantau.
+3. Bagaimana ketergantungan kegiatan memengaruhi jalur kritis dan tanggal selesai?
+4. Bedakan risiko, masalah aktual, dan permintaan perubahan.
+5. Buat kriteria penerimaan hasil dan indikator manfaat setelah proyek selesai.
 
 PEDOMAN PENILAIAN
 Periksa keterukuran tujuan, kelengkapan ruang lingkup, konsistensi jadwal dan sumber daya, identifikasi risiko, serta kejelasan komunikasi. Rencana yang baik menyatakan asumsi dan menyediakan cara menilai perubahan.

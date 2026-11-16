@@ -194,3 +194,34 @@ LATIHAN DAN PEMBAHASAN
 3. Apa tujuan hukum administrasi? Mengatur kewenangan dan tindakan pemerintahan agar sah dan dapat dipertanggungjawabkan.
 4. Apa makna praduga tak bersalah? Seseorang tidak dianggap bersalah sebelum proses hukum yang sah menetapkannya.
 5. Mengapa akses keadilan lebih luas daripada keberadaan pengadilan? Karena warga juga memerlukan informasi, bantuan, aksesibilitas, dan mekanisme pemulihan.
+
+BAB LANJUTAN: PENALARAN HUKUM DAN PENAFSIRAN PERATURAN
+
+Penalaran hukum dimulai dengan merumuskan isu secara tepat. Setelah itu, identifikasi aturan yang relevan, tentukan unsur atau syarat yang harus dipenuhi, hubungkan aturan dengan fakta, lalu susun kesimpulan yang mempertimbangkan pengecualian. Kerangka ini membantu membedakan fakta, norma, dan pendapat.
+
+Penafsiran dapat memperhatikan bunyi teks, hubungan dengan ketentuan lain, tujuan pembentukan, sejarah pembentukan, serta prinsip hukum. Metode yang digunakan bergantung pada sistem hukum dan konteks. Satu pasal tidak sebaiknya dibaca terpisah jika definisi atau pengecualiannya terdapat pada pasal lain.
+
+Peraturan dapat berubah, dicabut, atau dinyatakan tidak berlaku. Karena itu, pencarian aturan perlu memeriksa sumber resmi, tanggal berlaku, perubahan, dan aturan pelaksana. Ringkasan di internet dapat membantu orientasi, tetapi bukan pengganti pemeriksaan naskah resmi.
+
+BAB LANJUTAN: HUKUM ADMINISTRASI DAN KEPUTUSAN PEMERINTAH
+
+Hukum administrasi mengatur kewenangan dan tindakan badan atau pejabat pemerintahan. Keputusan harus memiliki dasar kewenangan, mengikuti prosedur, mempertimbangkan fakta yang relevan, dan tidak menyalahgunakan tujuan kewenangan. Transparansi dan alasan keputusan membantu pihak terdampak memahami dasar tindakan.
+
+Warga dapat memiliki hak untuk memperoleh informasi, mengajukan keberatan, atau menggunakan mekanisme penyelesaian sesuai aturan. Batas waktu dan prosedur berbeda menurut jenis keputusan. Catat tanggal penerimaan dokumen dan simpan bukti komunikasi. Untuk perkara nyata, konsultasikan dengan bantuan hukum atau pihak berwenang.
+
+Diskresi dapat diperlukan ketika aturan memberi ruang keputusan untuk menghadapi keadaan konkret, tetapi bukan kebebasan tanpa batas. Penggunaan diskresi harus sesuai tujuan, proporsional, dan dapat dipertanggungjawabkan. Dokumentasi alasan keputusan penting untuk pengawasan.
+
+BAB LANJUTAN: HUKUM, TEKNOLOGI, DAN PERLINDUNGAN HAK
+
+Teknologi menimbulkan persoalan hukum terkait data, identitas, transaksi, konten, kekayaan intelektual, dan tanggung jawab platform. Aturan dapat berbeda antarnegara, sehingga yurisdiksi menjadi pertanyaan awal. Layanan digital lintas batas dapat melibatkan hukum tempat pengguna, penyedia, atau transaksi berlangsung.
+
+Sistem otomatis yang memengaruhi akses layanan perlu diperiksa dari sisi akurasi, transparansi, kesempatan mengajukan keberatan, dan dampak diskriminatif. Keputusan yang merugikan seseorang sebaiknya tidak hanya bergantung pada keluaran otomatis tanpa mekanisme peninjauan yang sesuai.
+
+Literasi hukum teknologi menuntut kehati-hatian: jangan menganggap semua konten daring bebas digunakan, semua persetujuan digital sah dalam segala keadaan, atau semua sengketa dapat diselesaikan dengan satu prosedur. Periksa aturan resmi dan mintalah bantuan profesional jika hak atau keselamatan terancam.
+
+LATIHAN PENDALAMAN
+1. Apa urutan dasar penalaran hukum?
+2. Mengapa status dan tanggal berlaku peraturan harus diperiksa?
+3. Apa batas penggunaan diskresi oleh pejabat?
+4. Mengapa yurisdiksi penting dalam sengketa digital?
+5. Mengapa keputusan otomatis perlu mekanisme keberatan?

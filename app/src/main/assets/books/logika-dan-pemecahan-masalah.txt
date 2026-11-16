@@ -1,0 +1,131 @@
+Logika dan Pemecahan Masalah
+Penulis: Nexty Studio
+Edisi pembelajaran orisinal NextyLibrary
+
+DESKRIPSI
+Melatih penalaran, pola, argumen, strategi pemecahan masalah, keputusan, dan evaluasi solusi.
+
+TUJUAN PEMBELAJARAN
+Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan konsep utama, menghubungkannya dengan situasi sehari-hari, mengevaluasi informasi, dan menerapkan langkah yang bertanggung jawab.
+
+BAB 1. MASALAH, TUJUAN, DAN BATASAN
+
+Pemecahan masalah dimulai dengan mendefinisikan keadaan yang ingin dicapai dan kondisi yang membatasi. Masalah yang kabur menghasilkan solusi yang tidak tepat. Pisahkan gejala dari penyebab dan tulis informasi yang sudah diketahui, belum diketahui, serta asumsi yang digunakan.
+
+Contoh: tugas kelompok terlambat bukan sekadar masalah 'anggota malas'. Periksa pembagian peran, kejelasan tenggat, ketersediaan bahan, komunikasi, dan ukuran tugas. Definisi masalah yang lebih baik membuka lebih banyak pilihan solusi.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 1
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 2. POLA DAN ABSTRAKSI
+
+Pola adalah keteraturan yang dapat membantu memperkirakan atau menjelaskan sesuatu. Abstraksi memilih informasi yang relevan dan mengabaikan rincian yang tidak memengaruhi persoalan. Keduanya penting dalam matematika, sains, pemrograman, dan keputusan sehari-hari.
+
+Saat menyusun jadwal, kita tidak perlu memasukkan setiap detail kecil. Cukup gunakan waktu, prioritas, durasi, dan batas kegiatan. Namun, abstraksi yang terlalu jauh dapat menghilangkan faktor penting. Periksa kembali apakah model masih mewakili keadaan nyata.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 2
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 3. ARGUMEN DAN BUKTI
+
+Argumen terdiri atas klaim, alasan, dan bukti. Klaim menyatakan apa yang diyakini; alasan menjelaskan hubungan logis; bukti memberi dasar untuk menilai klaim. Banyaknya orang yang percaya suatu pernyataan tidak otomatis menjadikannya benar.
+
+Uji apakah bukti relevan, cukup, dan dapat diperiksa. Bedakan korelasi dengan sebab-akibat. Jika dua hal muncul bersamaan, mungkin ada faktor ketiga yang memengaruhi keduanya. Gunakan kata 'mungkin' ketika bukti belum cukup untuk kesimpulan pasti.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 3
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 4. STRATEGI PEMECAHAN
+
+Strategi umum meliputi memecah masalah menjadi bagian kecil, membuat daftar kemungkinan, menggambar diagram, mencoba kasus sederhana, bekerja mundur dari tujuan, dan mencari analogi. Pilih strategi sesuai jenis masalah, bukan karena satu metode selalu terbaik.
+
+Jika masalah besar terasa sulit, pecah menjadi langkah yang dapat diuji. Tentukan hasil yang diharapkan pada tiap langkah. Setelah satu langkah berhasil, catat apa yang dipelajari dan sesuaikan rencana.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 4
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 5. KEPUTUSAN DAN KETIDAKPASTIAN
+
+Keputusan sering dibuat dengan informasi terbatas. Buat beberapa alternatif, pertimbangkan manfaat, biaya, risiko, dan dampak bagi pihak lain. Bedakan risiko yang dapat dihitung dari ketidakpastian yang belum dipahami.
+
+Gunakan skenario terbaik, paling mungkin, dan terburuk untuk melihat rentang kemungkinan. Hindari rasa yakin berlebihan. Jika keputusan dapat dibatalkan, uji dalam skala kecil. Jika sulit dibatalkan, kumpulkan informasi lebih banyak dan mintalah masukan.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 5
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+BAB 6. EVALUASI DAN BELAJAR DARI KESALAHAN
+
+Solusi perlu dievaluasi berdasarkan tujuan awal. Apakah masalah berkurang? Apakah muncul dampak samping? Apakah hasilnya dapat diulang? Kesalahan adalah informasi tentang asumsi atau proses yang perlu diperbaiki, bukan alasan untuk berhenti berpikir.
+
+Buat catatan singkat tentang masalah, strategi, hasil, dan pelajaran. Dengan cara ini, pengalaman menjadi pengetahuan yang dapat digunakan kembali. Jangan hanya menilai hasil akhir; nilai juga proses, kerja sama, dan kejujuran dalam melaporkan hasil.
+
+RANGKUMAN BAB
+- Pahami konsep inti dan konteks penerapannya.
+- Periksa asumsi sebelum mengambil kesimpulan.
+- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
+
+LATIHAN BAB 6
+1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
+2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
+3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
+4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+
+EVALUASI AKHIR
+1. Pilih tiga konsep dari buku ini dan jelaskan hubungan di antara ketiganya.
+2. Buat satu studi kasus sederhana yang sesuai dengan topik buku. Jelaskan masalah, informasi yang diperlukan, pilihan tindakan, dan alasan memilih solusi.
+3. Temukan satu klaim populer terkait topik ini. Periksa sumber, bukti, tanggal, dan konteksnya. Tulis kesimpulan yang tidak melebihi bukti.
+4. Susun rencana penerapan selama satu minggu. Tentukan kegiatan, indikator keberhasilan, dan cara mengevaluasinya.
+5. Refleksikan bagian yang paling sulit dipahami serta strategi belajar yang akan digunakan untuk memperbaikinya.
+
+PEMBAHASAN DAN ARAH JAWABAN
+Jawaban yang baik menyebutkan konsep secara tepat, memberikan alasan, memakai contoh yang relevan, dan mengakui keterbatasan informasi. Untuk soal studi kasus, beberapa jawaban dapat diterima selama logis, aman, etis, dan didukung bukti. Untuk pemeriksaan klaim, utamakan sumber primer atau lembaga yang kompeten dan bedakan fakta dari opini.
+
+GLOSARIUM
+Abstraksi: Pemilihan rincian yang relevan untuk memahami masalah.
+Argumen: Rangkaian klaim dan alasan yang mendukung kesimpulan.
+Korelasi: Hubungan statistik antara dua variabel.
+Asumsi: Anggapan yang digunakan sebagai dasar penalaran.
+Evaluasi: Penilaian berdasarkan kriteria dan bukti.
+
+DAFTAR PUSTAKA DAN SARAN BELAJAR
+Naskah ini merupakan bahan pembelajaran orisinal yang disusun untuk NextyLibrary. Untuk topik yang memerlukan informasi mutakhir atau keputusan profesional, bandingkan dengan buku ajar, standar, dan publikasi lembaga resmi yang relevan. Catat judul, penulis/lembaga, tahun, serta bagian yang digunakan ketika menambahkan rujukan.

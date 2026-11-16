@@ -6,7 +6,7 @@ DESKRIPSI
 Panduan memahami tubuh, kebiasaan sehat, pencegahan penyakit, informasi kesehatan, dan keputusan yang bertanggung jawab.
 
 TUJUAN PEMBELAJARAN
-Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan konsep utama, menghubungkannya dengan situasi sehari-hari, mengevaluasi informasi, dan menerapkan langkah yang bertanggung jawab.
+Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan faktor yang memengaruhi kesehatan, mengenali kebiasaan pencegahan, membaca informasi kesehatan secara kritis, memahami batas pertolongan pertama, dan mengetahui kapan perlu meminta bantuan tenaga kesehatan.
 
 BAB 1. MEMAHAMI KESEHATAN SECARA MENYELURUH
 
@@ -20,10 +20,10 @@ RANGKUMAN BAB
 - Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
 
 LATIHAN BAB 1
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Jelaskan mengapa kesehatan mencakup aspek fisik, mental, dan sosial.
+2. Buat peta faktor yang dapat memengaruhi konsentrasi belajar tanpa menyimpulkan penyebab hanya dari satu gejala.
+3. Sebutkan kapan keluhan yang menetap perlu dibicarakan dengan orang dewasa tepercaya atau tenaga kesehatan.
+4. Mengapa perubahan kebiasaan sebaiknya diamati dalam konteks yang lebih luas?
 
 BAB 2. MENGENALI KEBUTUHAN TUBUH
 
@@ -32,10 +32,10 @@ Tubuh membutuhkan energi, zat gizi, air, istirahat, gerak, dan lingkungan yang a
 Perhatikan sinyal tubuh seperti rasa haus, lelah, lapar, nyeri, dan perubahan suasana hati. Sinyal tersebut memberi petunjuk, tetapi tidak selalu menjelaskan penyebabnya. Keluhan berat, mendadak, atau menetap perlu dinilai tenaga kesehatan. Hindari mengonsumsi obat atau suplemen hanya karena rekomendasi media sosial.
 
 LATIHAN BAB 2
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Sebutkan beberapa kebutuhan dasar tubuh dan jelaskan mengapa kebutuhan dapat berbeda antarindividu.
+2. Mengapa angka umum pada poster kesehatan tidak selalu menjadi aturan mutlak?
+3. Jelaskan mengapa obat atau suplemen tidak boleh digunakan hanya berdasarkan saran media sosial.
+4. Berikan contoh sinyal tubuh yang perlu ditanggapi dan kapan meminta bantuan.
 
 BAB 3. KEBERSIHAN DAN PENCEGAHAN
 
@@ -44,10 +44,10 @@ Kebersihan tangan, air minum yang aman, pengolahan makanan yang tepat, ventilasi
 Pencegahan juga mencakup imunisasi sesuai jadwal yang berlaku, pemeriksaan kesehatan yang dianjurkan, serta tinggal di rumah ketika sedang sakit jika memungkinkan. Tidak semua penyakit dapat dicegah sepenuhnya. Tujuan kebiasaan pencegahan adalah menurunkan risiko dan mengurangi dampak, bukan menjanjikan perlindungan sempurna.
 
 LATIHAN BAB 3
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Jelaskan bagaimana kebersihan tangan dan keamanan air membantu menurunkan risiko penyakit.
+2. Sebutkan waktu penting untuk mencuci tangan.
+3. Mengapa imunisasi dan kebersihan lingkungan merupakan langkah yang saling melengkapi?
+4. Mengapa pencegahan tidak menjamin seseorang tidak akan pernah sakit?
 
 BAB 4. AKTIVITAS FISIK DAN ISTIRAHAT
 
@@ -56,10 +56,10 @@ Aktivitas fisik dapat berupa berjalan, bersepeda, bermain olahraga, menari, berk
 Tidur membantu proses pemulihan dan pembelajaran. Jadwal tidur yang teratur, suasana kamar yang nyaman, serta mengurangi gangguan sebelum tidur dapat mendukung kualitas istirahat. Jika sulit tidur berlangsung lama dan mengganggu kegiatan, bicarakan dengan keluarga atau tenaga kesehatan.
 
 LATIHAN BAB 4
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Sebutkan beberapa bentuk aktivitas fisik yang dapat disesuaikan dengan kemampuan.
+2. Jelaskan manfaat pemanasan dan pemulihan setelah aktivitas.
+3. Sebutkan dua kebiasaan yang dapat mendukung kualitas tidur.
+4. Kapan gangguan tidur perlu dibicarakan dengan keluarga atau tenaga kesehatan?
 
 BAB 5. MEMBACA INFORMASI KESEHATAN
 
@@ -68,10 +68,10 @@ Informasi kesehatan perlu diperiksa sumber, tanggal, bukti, dan konteksnya. Test
 Bandingkan informasi dengan lembaga kesehatan tepercaya dan tanyakan kepada tenaga kesehatan. Perhatikan apakah tulisan membedakan fakta, dugaan, dan pendapat. Judul sensasional tidak menggantikan isi penelitian. Jangan menyebarkan informasi medis yang belum diperiksa.
 
 LATIHAN BAB 5
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Sebutkan empat hal yang perlu diperiksa sebelum mempercayai klaim kesehatan.
+2. Mengapa testimoni pribadi tidak cukup untuk membuktikan efektivitas suatu cara?
+3. Berikan contoh ciri klaim kesehatan yang patut diwaspadai.
+4. Bagaimana cara membandingkan informasi media sosial dengan sumber lembaga kesehatan?
 
 BAB 6. PERTOLONGAN AWAL DAN MENCARI BANTUAN
 
@@ -80,10 +80,10 @@ Pertolongan pertama bertujuan menjaga keselamatan sampai bantuan yang sesuai tib
 Dalam keadaan darurat, informasi yang jelas membantu: lokasi, apa yang terjadi, kapan mulai, dan kondisi orang yang membutuhkan bantuan. Untuk keluhan ringan sekalipun, mintalah bantuan jika ragu. Mencari pertolongan bukan tanda kelemahan, melainkan langkah bertanggung jawab.
 
 LATIHAN BAB 6
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Apa tujuan utama pertolongan pertama?
+2. Mengapa keselamatan lokasi harus diperhatikan sebelum memberi bantuan?
+3. Informasi apa yang perlu disampaikan ketika meminta bantuan darurat?
+4. Mengapa seseorang tidak boleh melakukan tindakan atau memberi obat yang belum dipahami?
 
 EVALUASI AKHIR
 1. Pilih tiga konsep dari buku ini dan jelaskan hubungan di antara ketiganya.

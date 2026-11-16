@@ -129,3 +129,35 @@ Autentikasi multifaktor: Login dengan lebih dari satu jenis bukti identitas.
 
 DAFTAR PUSTAKA DAN SARAN BELAJAR
 Naskah ini merupakan bahan pembelajaran orisinal yang disusun untuk NextyLibrary. Untuk topik yang memerlukan informasi mutakhir atau keputusan profesional, bandingkan dengan buku ajar, standar, dan publikasi lembaga resmi yang relevan. Catat judul, penulis/lembaga, tahun, serta bagian yang digunakan ketika menambahkan rujukan.
+PENDALAMAN MATERI KEAMANAN DEFENSIF
+
+BAB 6. PERLINDUNGAN AKUN DAN AUTENTIKASI
+Akun digital sering menjadi pintu masuk ke banyak layanan. Gunakan kata sandi yang panjang, unik, dan tidak digunakan ulang. Pengelola kata sandi tepercaya dapat membantu membuat dan menyimpan kata sandi berbeda. Autentikasi multifaktor menambahkan pemeriksaan selain kata sandi, misalnya aplikasi autentikator atau kunci keamanan. Kode pemulihan perlu disimpan secara aman dan tidak dibagikan kepada siapa pun. Periksa perangkat dan sesi yang masih masuk, terutama setelah menggunakan perangkat bersama. Jika layanan memberi peringatan masuk yang tidak dikenal, gunakan prosedur pemulihan resmi dan tinjau keamanan akun lain yang memakai kata sandi sama.
+
+BAB 7. MENGENALI REKAYASA SOSIAL DAN PENIPUAN
+Rekayasa sosial memanfaatkan kepercayaan, rasa takut, rasa ingin tahu, atau tekanan waktu untuk mendorong seseorang memberikan informasi atau melakukan tindakan. Pesan dapat menyamar sebagai bank, sekolah, kurir, teman, atau dukungan teknis. Tanda yang patut diperiksa meliputi permintaan kode rahasia, tautan tidak biasa, ancaman akun ditutup, hadiah yang terlalu menarik, dan permintaan merahasiakan transaksi. Jangan mengandalkan logo atau nama tampilan karena dapat ditiru. Hubungi organisasi melalui nomor atau aplikasi resmi yang dicari secara mandiri. Jika sudah terlanjur memberikan informasi, segera gunakan kanal resmi untuk mengamankan akun dan minta bantuan orang dewasa tepercaya.
+
+BAB 8. PEMBARUAN, CADANGAN, DAN KEAMANAN PERANGKAT
+Pembaruan perangkat lunak memperbaiki kesalahan dan celah keamanan. Aktifkan pembaruan otomatis jika tersedia dan unduh aplikasi dari toko resmi atau sumber yang dapat diverifikasi. Periksa izin aplikasi: aplikasi senter, misalnya, tidak selalu memerlukan akses kontak atau mikrofon. Buat cadangan data penting secara berkala dan pastikan cadangan dapat dipulihkan. Kunci layar dengan metode yang sesuai, jangan tinggalkan perangkat terbuka, dan berhati-hati saat memakai jaringan publik. Hindari memasang berkas yang tidak dikenal hanya karena dijanjikan fitur gratis. Keamanan perangkat merupakan gabungan kebiasaan, pembaruan, dan pengaturan yang tepat.
+
+BAB 9. PRIVASI, JEJAK DIGITAL, DAN DATA
+Informasi yang dibagikan dapat disalin, disimpan, dan muncul kembali di luar konteks awal. Sebelum mengunggah foto atau lokasi, periksa apakah ada alamat, identitas, jadwal, atau dokumen yang seharusnya tidak terbuka. Atur siapa yang dapat melihat unggahan dan tinjau izin aplikasi secara berkala. Data pribadi orang lain tidak boleh disebarkan tanpa dasar dan izin yang sesuai. Jika mengelola proyek digital, kumpulkan data seminimal mungkin, batasi akses, dan jelaskan tujuan penggunaan. Penghapusan unggahan tidak selalu menghapus salinan yang sudah dibuat pihak lain.
+
+BAB 10. RESPONS INSIDEN DAN KEBIASAAN AMAN
+Ketika akun diduga diambil alih, jangan panik dan jangan mengikuti instruksi dari pihak yang menghubungi secara mendadak. Gunakan perangkat tepercaya dan kanal resmi untuk mengganti kredensial, mengakhiri sesi yang tidak dikenal, serta memeriksa metode pemulihan. Beri tahu kontak jika akun digunakan mengirim pesan mencurigakan. Simpan bukti yang relevan tanpa menyebarkan data sensitif. Untuk perangkat sekolah atau organisasi, laporkan kepada pengelola yang berwenang. Setelah masalah terkendali, tinjau penyebab dan perbaiki kebiasaan. Materi ini berfokus pada perlindungan dan pemulihan, bukan teknik menyerang sistem.
+
+STUDI KASUS
+Seseorang menerima pesan yang mengaku berasal dari layanan permainan dan meminta kode verifikasi untuk “memindahkan hadiah”. Kode tersebut sebenarnya dapat digunakan untuk masuk ke akun. Tindakan aman adalah tidak membagikan kode, menutup pesan, dan memeriksa pengumuman melalui aplikasi resmi. Jika kode telah diberikan, segera lakukan pemulihan akun melalui prosedur resmi.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa kata sandi tidak boleh digunakan ulang? Kebocoran satu layanan dapat membuka akun lain.
+2. Apa manfaat autentikasi multifaktor? Menambah lapisan pemeriksaan ketika kata sandi diketahui pihak lain.
+3. Sebutkan tiga tanda rekayasa sosial: tekanan waktu, permintaan rahasia, dan tautan atau identitas yang tidak dapat diverifikasi.
+4. Mengapa izin aplikasi perlu ditinjau? Agar akses data sesuai fungsi dan kebutuhan.
+5. Apa langkah awal saat akun diduga diambil alih? Gunakan kanal pemulihan resmi, amankan kredensial, dan laporkan kepada pihak tepercaya.
+
+GLOSARIUM
+Autentikasi multifaktor: pemeriksaan identitas melalui lebih dari satu faktor.
+Cadangan: salinan data untuk pemulihan.
+Rekayasa sosial: manipulasi psikologis untuk memperoleh akses atau informasi.
+Sesi: keadaan ketika akun sedang masuk pada perangkat atau aplikasi.

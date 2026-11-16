@@ -293,3 +293,25 @@ LATIHAN DAN PEMBAHASAN
 
 RANGKUMAN BAB
 Menulis akademik adalah proses berpikir berbasis bukti. Pertanyaan yang terarah, tesis yang dapat diuji, paragraf runtut, sumber yang dinilai kritis, sitasi jujur, dan penyuntingan bertahap menghasilkan tulisan yang dapat diperiksa pembaca.
+
+BAB MENYUSUN ARGUMEN AKADEMIK
+Argumen akademik terdiri atas klaim, alasan, bukti, dan penjelasan hubungan di antara ketiganya. Klaim harus cukup spesifik agar dapat diperiksa. Alasan menjelaskan mengapa klaim masuk akal, sedangkan bukti dapat berupa data, hasil penelitian, dokumen, atau pendapat ahli yang relevan. Setelah menyajikan bukti, penulis perlu menjelaskan maknanya; menumpuk kutipan tanpa analisis belum membentuk argumen.
+
+Contoh klaim terlalu luas: “Teknologi selalu meningkatkan pendidikan.” Klaim yang lebih terukur: “Simulasi interaktif dapat membantu siswa memahami konsep tertentu apabila disertai tujuan belajar, umpan balik, dan bimbingan guru.” Klaim kedua memberi batas kondisi dan dapat diuji melalui penelitian atau perbandingan hasil belajar.
+
+PARAGRAF YANG TERPADU
+Satu paragraf akademik sebaiknya memiliki satu gagasan utama. Kalimat pertama dapat memperkenalkan gagasan, kalimat berikutnya memberi penjelasan dan bukti, lalu kalimat penutup menghubungkan gagasan dengan pembahasan berikutnya. Variasikan struktur kalimat tanpa membuat kalimat terlalu panjang. Kata penghubung seperti “namun”, “sebab”, “akibatnya”, dan “sebaliknya” harus menunjukkan hubungan logis yang tepat.
+
+MENGGUNAKAN KUTIPAN DAN PARAFRASE
+Kutipan langsung mempertahankan kata-kata sumber dan harus diberi tanda serta rujukan sesuai gaya yang diminta. Parafrase menyampaikan gagasan sumber dengan susunan kalimat sendiri, tetapi tetap membutuhkan sitasi. Mengganti beberapa kata dengan sinonim tidak cukup untuk disebut parafrase yang baik. Baca sumber sampai memahami maksudnya, tutup sumber, tulis kembali gagasannya, lalu bandingkan untuk memastikan makna tidak berubah.
+
+Catat sumber sejak awal penelitian. Simpan identitas penulis, judul, tahun, penerbit atau jurnal, volume, halaman, dan tautan atau DOI jika tersedia. Jangan mencantumkan sumber yang tidak pernah diperiksa. Jangan membuat nomor halaman, kutipan, atau nama penulis berdasarkan perkiraan. Ikuti gaya sitasi yang ditentukan guru atau institusi secara konsisten.
+
+MENYUNTING DENGAN TAHAPAN
+Penyuntingan isi memeriksa apakah tujuan tulisan tercapai, argumen runtut, dan bukti cukup. Penyuntingan struktur memeriksa urutan bagian dan transisi. Penyuntingan kalimat memperbaiki kejelasan, kehematan, dan ketepatan istilah. Pemeriksaan akhir berfokus pada ejaan, tanda baca, format, tabel, gambar, dan daftar pustaka. Memeriksa semua hal sekaligus sering membuat kesalahan penting terlewat.
+
+LATIHAN
+Tulislah satu paragraf 150–200 kata tentang manfaat ruang terbuka hijau di lingkungan sekolah. Sertakan satu klaim, dua alasan, dan bukti yang dapat diverifikasi. Tandai mana fakta, mana pendapat, dan mana kesimpulan. Minta teman membaca paragraf tersebut lalu tanyakan bagian mana yang paling sulit dipahami. Revisi berdasarkan masukan yang relevan.
+
+RANGKUMAN BAB
+Tulisan akademik yang kuat mengutamakan klaim terukur, bukti relevan, penjelasan, sitasi jujur, dan penyuntingan bertahap. Kejelasan lebih penting daripada istilah rumit yang tidak diperlukan.

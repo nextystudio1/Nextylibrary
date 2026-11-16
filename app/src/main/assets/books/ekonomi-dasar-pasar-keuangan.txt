@@ -253,3 +253,23 @@ LATIHAN DAN PEMBAHASAN
 
 RANGKUMAN BAB
 Ekonomi mempelajari pilihan di tengah sumber daya terbatas. Permintaan, penawaran, biaya, insentif, inflasi, dan arus kas membantu menjelaskan keputusan rumah tangga maupun usaha. Angka ekonomi harus ditafsirkan sesuai konteks dan keterbatasan data.
+
+BAB PERMINTAAN, PENAWARAN, DAN HARGA
+Permintaan menunjukkan jumlah barang atau jasa yang bersedia dan mampu dibeli pada berbagai tingkat harga dalam periode tertentu. Penawaran menunjukkan jumlah yang bersedia dijual produsen. Dalam model sederhana, kenaikan harga cenderung menurunkan jumlah yang diminta dan meningkatkan jumlah yang ditawarkan, dengan faktor lain dianggap tetap. Kenyataan dapat dipengaruhi pendapatan, selera, teknologi, biaya input, kebijakan, dan harapan.
+
+Harga keseimbangan terbentuk ketika jumlah yang diminta sama dengan jumlah yang ditawarkan. Jika terjadi kekurangan pasokan, harga dapat mendapat tekanan naik; jika terjadi kelebihan pasokan, penjual dapat menurunkan harga. Namun, pasar nyata tidak selalu langsung menyesuaikan karena kontrak, regulasi, biaya distribusi, dan kekuatan pasar.
+
+ELASTISITAS DAN PILIHAN KONSUMEN
+Elastisitas mengukur seberapa responsif jumlah permintaan atau penawaran terhadap perubahan faktor tertentu. Barang dengan banyak pengganti cenderung memiliki permintaan lebih elastis daripada barang yang sulit digantikan, meski hasilnya bergantung waktu dan kondisi. Konsep ini membantu memahami mengapa perubahan harga kecil dapat menghasilkan perubahan pembelian yang berbeda pada barang berbeda.
+
+BIAYA PRODUKSI DAN PRODUKTIVITAS
+Biaya tetap tidak berubah dalam rentang produksi tertentu, sedangkan biaya variabel berubah mengikuti jumlah produksi. Biaya total adalah gabungan keduanya. Biaya rata-rata dihitung dengan membagi biaya total oleh jumlah output. Produktivitas mengukur keluaran dibandingkan masukan; peningkatan produktivitas dapat berasal dari keterampilan, teknologi, organisasi kerja, dan kualitas infrastruktur.
+
+PERAN PEMERINTAH DAN KEBIJAKAN
+Pemerintah menyediakan barang publik, mengatur standar, memungut pajak, dan dapat memberi bantuan untuk mengatasi kegagalan pasar atau melindungi kelompok rentan. Kebijakan memiliki manfaat dan biaya. Evaluasi harus melihat tujuan, sasaran penerima, dampak samping, biaya administrasi, serta data sebelum dan sesudah penerapan. Jangan menyimpulkan keberhasilan hanya dari satu angka.
+
+LATIHAN
+Sebuah kantin sekolah menjual roti. Jika harga naik, faktor apa saja selain harga yang dapat mengubah jumlah pembelian? Pertimbangkan pendapatan siswa, pilihan makanan lain, kualitas, lokasi, dan waktu istirahat. Buat diagram permintaan sederhana dan jelaskan asumsi yang digunakan. Gunakan data simulasi, bukan data transaksi pribadi kantin.
+
+RANGKUMAN BAB
+Ekonomi mempelajari pilihan ketika sumber daya terbatas. Permintaan, penawaran, elastisitas, biaya, produktivitas, dan kebijakan memberi alat untuk menilai keputusan rumah tangga, usaha, dan pemerintah secara lebih sistematis.

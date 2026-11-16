@@ -256,3 +256,27 @@ LATIHAN
 4. Mengapa evolusi tidak memiliki tujuan yang telah ditentukan? Karena perubahan populasi dipengaruhi variasi dan kondisi lingkungan, bukan rencana masa depan.
 RANGKUMAN
 Sel adalah sistem hidup yang mengatur pertukaran zat, mengubah energi, menyimpan informasi, dan membelah. Pemahaman membran, metabolisme, genetika, pembelahan, serta evolusi menjelaskan kesatuan sekaligus keragaman kehidupan.
+
+BAB MEMBRAN, TRANSPORT, DAN KOMUNIKASI SEL
+Membran sel tersusun terutama dari dua lapis fosfolipid dengan protein dan komponen lain. Struktur ini bersifat selektif: beberapa molekul dapat melewati membran dengan mudah, sedangkan yang lain memerlukan protein pengangkut atau energi. Selektivitas membantu sel mempertahankan kondisi internal yang sesuai untuk reaksi kehidupan.
+
+Difusi adalah perpindahan bersih partikel dari daerah berkonsentrasi lebih tinggi ke lebih rendah. Osmosis adalah perpindahan air melalui membran selektif akibat perbedaan potensial air. Transport aktif menggunakan energi untuk memindahkan zat melawan gradien elektrokimia. Ketiga proses tersebut penting bagi penyerapan nutrisi, keseimbangan air, dan fungsi jaringan.
+
+ENZIM DAN METABOLISME
+Enzim adalah katalis biologis yang mempercepat reaksi dengan menurunkan energi aktivasi. Enzim memiliki kondisi kerja yang dipengaruhi suhu, pH, konsentrasi substrat, dan keberadaan penghambat. Suhu terlalu tinggi dapat mengubah struktur protein sehingga fungsi enzim menurun. Enzim tidak habis digunakan dalam satu reaksi, meskipun dapat mengalami perubahan atau kerusakan.
+
+Metabolisme mencakup reaksi penyusunan molekul dan pemecahan molekul. Respirasi sel melepaskan energi dari molekul organik untuk menghasilkan ATP melalui rangkaian proses. Fotosintesis mengubah energi cahaya menjadi energi kimia yang tersimpan dalam senyawa organik. Kedua proses saling berkaitan dalam aliran energi dan daur materi, tetapi tidak sekadar kebalikan sederhana dari satu reaksi.
+
+GEN, EKSPRESI, DAN VARIASI
+DNA menyimpan informasi genetik dalam urutan nukleotida. Gen adalah bagian DNA yang berkontribusi pada produk fungsional, seperti RNA atau protein. Ekspresi gen melibatkan transkripsi dan, untuk gen pengode protein, translasi. Lingkungan sel dan mekanisme pengaturan memengaruhi gen mana yang aktif dan kapan aktivitas itu berlangsung.
+
+Variasi genetik dapat muncul melalui mutasi dan pengacakan materi genetik saat reproduksi. Mutasi tidak selalu merugikan; dampaknya bergantung lokasi, jenis perubahan, dan lingkungan. Seleksi alam mengubah frekuensi variasi yang diwariskan ketika variasi tertentu memengaruhi keberhasilan reproduksi. Evolusi terjadi pada populasi lintas generasi, bukan perubahan terarah pada satu individu karena kebutuhan.
+
+PENELITIAN BIOLOGI DAN ETIKA
+Pengamatan organisme harus memperhatikan kesejahteraan makhluk hidup dan aturan sekolah. Gunakan simulasi atau bahan non-berbahaya bila memungkinkan. Catat prosedur, jumlah sampel, kondisi lingkungan, dan hasil apa adanya. Jangan menggeneralisasi hasil dari satu organisme atau satu percobaan kecil ke semua makhluk hidup.
+
+LATIHAN
+Jelaskan mengapa sel tumbuhan dan sel hewan perlu mengatur perpindahan air. Hubungkan jawaban dengan membran selektif, osmosis, dan kestabilan sel. Kemudian buat diagram sederhana yang membedakan difusi, osmosis, dan transport aktif.
+
+RANGKUMAN BAB
+Membran, enzim, metabolisme, dan ekspresi gen menjelaskan bagaimana sel mempertahankan kehidupan. Biologi menggabungkan pengamatan, model, dan eksperimen yang dilakukan secara etis serta dapat diperiksa.

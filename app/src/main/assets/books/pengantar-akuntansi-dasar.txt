@@ -52,15 +52,15 @@ BAB 6. PENGENDALIAN DAN ETIKA
 
 Pemisahan tugas, persetujuan, rekonsiliasi, dan penyimpanan dokumen membantu mengurangi kesalahan serta penyalahgunaan. Akuntansi harus menyajikan informasi secara jujur dan tidak sengaja menghilangkan kewajiban atau membesar-besarkan pendapatan. Data keuangan juga perlu dijaga kerahasiaannya.
 
-PROYEK TERPADU
-Buat kajian mini untuk Pengantar Akuntansi Dasar dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
+PROYEK TERPADU: SIKLUS AKUNTANSI USAHA KECIL
+Buat simulasi pembukuan satu usaha sederhana selama satu bulan. Tetapkan jenis usaha dan saldo awal. Susun sedikitnya 10 transaksi yang realistis, lalu siapkan bukti transaksi simulasi, jurnal umum, buku besar, neraca saldo, dan laporan laba rugi serta posisi keuangan sederhana. Catat asumsi, lakukan pemeriksaan keseimbangan debit-kredit, dan jelaskan transaksi yang memerlukan penyesuaian. Jangan menggunakan data keuangan pribadi atau dokumen asli orang lain.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari PENGENDALIAN DAN ETIKA dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Pengantar Akuntansi Dasar.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+1. Tuliskan persamaan dasar akuntansi dan jelaskan pengaruh pembelian perlengkapan secara tunai.
+2. Mengapa debit tidak selalu berarti uang masuk dan kredit tidak selalu berarti uang keluar?
+3. Susun jurnal untuk transaksi jasa yang diterima tunai dan pembelian perlengkapan secara kredit.
+4. Bedakan fungsi laporan laba rugi, laporan posisi keuangan, dan laporan arus kas.
+5. Jelaskan dua pengendalian internal yang dapat mengurangi kesalahan pencatatan serta pentingnya bukti transaksi.
 
 PEDOMAN PENILAIAN
 Nilai pemahaman Pengantar Akuntansi Dasar berdasarkan ketepatan konsep, kecocokan metode, mutu bukti, dan kemampuan menerapkan materi. Jawaban harus menunjukkan alasan yang dapat diperiksa serta menyebutkan keterbatasan informasi bila ada.

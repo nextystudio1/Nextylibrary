@@ -493,3 +493,40 @@ Induktansi: sifat rangkaian yang berkaitan dengan perubahan fluks magnet akibat 
 Penyearah: rangkaian yang mengubah arus bolak-balik menjadi keluaran searah.
 Titik kerja: kondisi tegangan dan arus DC tempat komponen beroperasi.
 Kalibrasi: pembandingan alat ukur dengan acuan untuk mengetahui penyimpangan.
+BAB 13 — PENGUKURAN DAN KESELAMATAN RANGKAIAN
+
+Pengukuran adalah bagian penting dari pembelajaran elektronika. Alat ukur yang umum diperkenalkan pada tingkat dasar adalah multimeter pendidikan. Alat ini dapat digunakan untuk mengukur tegangan, hambatan, dan arus sesuai fungsi serta petunjuk produsennya. Pembaca harus memahami batas alat, kondisi pengukuran, dan keselamatan sebelum melakukan praktik. Materi ini bersifat konseptual; jangan mengukur instalasi listrik rumah atau sumber tegangan tinggi sebagai percobaan mandiri.
+
+Tegangan diukur di antara dua titik, sehingga pengukuran tegangan dilakukan secara paralel terhadap bagian rangkaian yang diamati. Arus merupakan aliran muatan melalui suatu cabang, sehingga pengukuran arus memerlukan alat ukur yang dipasang sesuai rancangan rangkaian. Kesalahan memilih mode atau terminal dapat merusak alat dan menimbulkan bahaya. Untuk latihan, gunakan rangkaian tegangan rendah yang dirancang khusus untuk pendidikan dan ikuti arahan guru.
+
+Hambatan dapat diperiksa pada komponen yang tidak sedang diberi daya dan telah dipisahkan dari rangkaian sesuai prosedur. Pembacaan hambatan pada komponen yang masih terhubung dengan banyak jalur dapat dipengaruhi komponen lain. Hasil pengukuran bukan sekadar angka; pembaca harus mencatat satuan, kondisi, ketelitian alat, serta kemungkinan sumber kesalahan.
+
+Keselamatan dimulai dari pemeriksaan visual. Kabel yang terkelupas, komponen retak, konektor longgar, atau sumber daya yang tidak sesuai harus ditangani oleh orang yang kompeten. Jangan menyentuh bagian konduktor terbuka ketika rangkaian diberi daya. Jangan menggunakan air di area praktik, jangan bekerja sendirian pada kegiatan berisiko, dan hentikan kegiatan jika muncul bau, panas berlebihan, suara tidak normal, atau kerusakan.
+
+BAB 14 — KAPASITOR DAN PENYIMPANAN ENERGI
+
+Kapasitor adalah komponen yang menyimpan energi dalam medan listrik. Secara sederhana, kapasitor terdiri dari dua konduktor yang dipisahkan bahan isolator atau dielektrik. Kapasitansi menyatakan kemampuan menyimpan muatan untuk beda potensial tertentu. Satuan kapasitansi adalah farad, meskipun komponen sehari-hari sering memiliki nilai mikrofarad, nanofarad, atau pikofarad.
+
+Hubungan dasar kapasitor dinyatakan dengan Q = C × V, dengan Q sebagai muatan, C sebagai kapasitansi, dan V sebagai tegangan. Persamaan ini membantu memahami bahwa pada kapasitansi tetap, tegangan yang lebih besar berkaitan dengan muatan yang lebih besar. Energi yang tersimpan pada kapasitor ideal dapat dinyatakan dengan E = 1/2 C V². Karena energi meningkat seiring kuadrat tegangan, spesifikasi tegangan komponen tidak boleh diabaikan.
+
+Dalam rangkaian arus searah, kapasitor dapat mengalami proses pengisian dan pengosongan. Pada rangkaian RC, waktu respons dipengaruhi nilai resistansi dan kapasitansi. Konstanta waktu tau = R × C memberi ukuran karakteristik proses tersebut. Setelah satu konstanta waktu dalam pengisian ideal, tegangan kapasitor mencapai sekitar 63 persen dari nilai akhirnya. Setelah beberapa konstanta waktu, perubahan mendekati keadaan tunak.
+
+Kapasitor digunakan untuk penyaringan, penghalusan perubahan tegangan, pengaturan waktu, kopling sinyal, dan berbagai fungsi lain. Jenis kapasitor memiliki karakteristik berbeda. Kapasitor elektrolit memiliki polaritas pada banyak jenisnya, sedangkan keramik umumnya tidak memiliki polaritas. Nilai, toleransi, suhu kerja, dan tegangan maksimum perlu dicocokkan dengan rancangan.
+
+Latihan: sebuah rangkaian pendidikan menggunakan resistor 10 kilo-ohm dan kapasitor 100 mikrofarad. Konstanta waktunya adalah 10.000 × 0,0001 = 1 detik. Artinya, proses pengisian memiliki skala waktu sekitar satu detik; bukan berarti kapasitor selalu penuh tepat pada detik pertama. Jelaskan mengapa istilah “konstanta waktu” lebih tepat daripada menyebutnya “waktu pengisian penuh”.
+
+BAB 15 — DIODA DAN LED
+
+Dioda adalah komponen semikonduktor yang pada kondisi tertentu lebih mudah mengalirkan arus dalam satu arah dibanding arah sebaliknya. Sifat ini membuat dioda berguna dalam penyearah, perlindungan polaritas, dan pembentukan sinyal. Dioda memiliki dua terminal yang dikenal sebagai anoda dan katoda. Simbol rangkaian menunjukkan arah karakteristiknya.
+
+LED atau light-emitting diode menghasilkan cahaya ketika dialiri arus pada kondisi kerja yang sesuai. Warna cahaya dipengaruhi bahan semikonduktor. LED memerlukan pembatas arus dalam rancangan sederhana karena arus berlebihan dapat merusaknya. Resistor seri sering digunakan pada rangkaian pendidikan untuk membantu membatasi arus, dengan nilai yang ditentukan berdasarkan tegangan sumber, tegangan maju LED, dan arus yang diizinkan.
+
+Penyearah menggunakan dioda untuk mengubah arus bolak-balik menjadi bentuk arus searah berdenyut. Penyearah setengah gelombang menggunakan satu bagian gelombang, sedangkan penyearah gelombang penuh memanfaatkan kedua bagian melalui konfigurasi yang sesuai. Kapasitor dapat membantu mengurangi riak keluaran, tetapi pemilihan komponen harus mengikuti perhitungan dan batas keselamatan.
+
+BAB 16 — MEMBACA DIAGRAM RANGKAIAN
+
+Diagram rangkaian adalah bahasa visual untuk menggambarkan hubungan listrik. Simbol standar membantu teknisi dan pelajar memahami fungsi komponen tanpa harus melihat bentuk fisiknya. Garis biasanya mewakili hubungan penghantar, titik pertemuan menandakan sambungan, dan label membantu membedakan komponen.
+
+Membaca diagram dilakukan secara sistematis: kenali sumber daya, telusuri jalur, identifikasi komponen, perhatikan polaritas, lalu pahami tujuan rangkaian. Jangan menyimpulkan bahwa dua garis yang bersilangan selalu tersambung; perhatikan konvensi titik sambungan pada diagram. Diagram yang baik mencantumkan nilai komponen dan informasi penting lainnya.
+
+Proyek pembelajaran yang aman dapat berupa simulasi rangkaian LED bertegangan rendah menggunakan perangkat lunak pendidikan atau kit yang memang dirancang untuk pemula. Sebelum merakit, buat daftar komponen, gambar diagram, periksa kesesuaian spesifikasi, dan minta pemeriksaan guru. Setelah pengujian, catat hasil dan bandingkan dengan prediksi. Proses ilmiah ini lebih penting daripada sekadar membuat lampu menyala.

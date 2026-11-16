@@ -175,3 +175,25 @@ Perspektif: hubungan ukuran dan posisi relatif objek akibat sudut pandang.
 Ruang negatif: area kosong yang mengelilingi atau memisahkan subjek.
 Saturasi: tingkat kemurnian atau kekuatan warna.
 Siluet: bentuk gelap subjek dengan latar yang lebih terang.
+
+BAB 11. CAHAYA DAN KENDALI EKSPOSUR
+Eksposur adalah jumlah cahaya yang diterima sensor atau film. Tiga kendali utama yang sering dibahas adalah bukaan diafragma, kecepatan rana, dan sensitivitas ISO. Ketiganya saling berhubungan, tetapi juga memengaruhi tampilan gambar. Bukaan memengaruhi kedalaman bidang, kecepatan rana memengaruhi tampilan gerak, sedangkan ISO berkaitan dengan sensitivitas dan karakter noise. Tidak ada pengaturan terbaik untuk semua situasi; keputusan bergantung pada tujuan visual dan kondisi cahaya.
+
+BAB 12. KOMPOSISI DAN ARAH PERHATIAN
+Komposisi mengatur posisi subjek, latar, garis, bentuk, dan ruang kosong. Aturan sepertiga dapat menjadi panduan awal, bukan hukum mutlak. Garis pengarah membantu membawa mata menuju subjek, sedangkan lapisan depan, tengah, dan belakang memberi kesan kedalaman. Periksa tepi bingkai agar objek yang tidak sengaja terpotong tidak mengganggu cerita. Sebelum memotret, tentukan apa yang ingin dilihat atau dirasakan penonton.
+
+BAB 13. WARNA, CAHAYA, DAN SUASANA
+Warna dipengaruhi sumber cahaya, pengaturan keseimbangan putih, dan karakter media tampilan. Cahaya pagi, siang, dan senja dapat menghasilkan suasana berbeda. Kontras warna dapat menonjolkan subjek, tetapi warna yang terlalu kuat dapat mengalihkan perhatian dari isi. Saat mengedit, usahakan perubahan tetap mendukung keadaan yang ingin didokumentasikan dan tidak menyesatkan penonton mengenai konteks peristiwa.
+
+BAB 14. CERITA FOTO DAN ETIKA
+Cerita visual memiliki konteks: siapa yang digambarkan, di mana peristiwa berlangsung, dan mengapa momen tersebut penting. Foto dokumenter sebaiknya tidak mengubah kejadian atau memberi keterangan yang keliru. Mintalah izin ketika memotret orang dalam situasi privat atau sensitif. Hindari menyebarkan gambar yang dapat mempermalukan atau membahayakan subjek. Keterangan foto perlu menjelaskan fakta yang diketahui dan menghindari dugaan.
+
+BAB 15. ALUR KERJA DAN ARSIP
+Alur kerja fotografi mencakup perencanaan, pengambilan gambar, pemilihan, penyuntingan, penyimpanan, dan publikasi. Simpan salinan asli sebelum mengedit. Gunakan nama berkas yang konsisten dan catat tanggal serta konteks pemotretan. Pilih format sesuai kebutuhan: format terkompresi untuk berbagi dan format berkualitas tinggi untuk penyuntingan lanjutan. Cadangan teratur membantu mencegah kehilangan karya.
+
+LATIHAN TERAPAN
+1. Jelaskan bagaimana bukaan dan kecepatan rana memengaruhi tampilan foto.
+2. Buat tiga alternatif komposisi untuk satu subjek yang sama.
+3. Mengapa keseimbangan putih perlu diperhatikan?
+4. Sebutkan situasi ketika izin subjek perlu diminta.
+5. Susun alur pengarsipan foto yang mudah ditelusuri.

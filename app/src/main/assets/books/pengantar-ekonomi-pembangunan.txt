@@ -54,10 +54,7 @@ EVALUASI AKHIR
 3. Bandingkan indikator pendapatan dengan indikator kesejahteraan lain.
 4. Analisis kemungkinan dampak tidak merata dari sebuah proyek pembangunan.
 5. Susun rekomendasi kebijakan yang mempertimbangkan keberlanjutan dan kelompok rentan.
-2. Jelaskan hubungan antarbab dengan contoh.
-3. Analisis satu kasus berdasarkan bukti.
-4. Bandingkan dua pendekatan dan konsekuensinya.
-5. Tulis hal yang masih perlu dipelajari.
+
 
 GLOSARIUM
 Pembangunan inklusif: Proses pembangunan yang memperluas kesempatan bagi berbagai kelompok.
@@ -72,7 +69,7 @@ Evaluasi: Penilaian berdasarkan kriteria dan bukti.
 
 CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.
-BAB 9. STRUKTUR EKONOMI DAN PERUBAHAN SEKTORAL
+BAB 7. STRUKTUR EKONOMI DAN PERUBAHAN SEKTORAL
 
 Perekonomian biasanya terdiri atas sektor pertanian, industri, dan jasa. Perubahan struktur terjadi ketika kontribusi tenaga kerja dan nilai tambah antarsektor berubah seiring waktu. Peralihan dari kegiatan berproduktivitas rendah menuju kegiatan yang lebih produktif dapat meningkatkan pendapatan, tetapi prosesnya tidak otomatis dan tidak selalu merata.
 
@@ -83,7 +80,7 @@ Rantai nilai membantu menjelaskan hubungan antarkegiatan. Produk pertanian, misa
 CONTOH ANALISIS
 Pilih satu komoditas daerah. Gambar alur dari produsen sampai konsumen. Tandai siapa yang melakukan setiap tahap, biaya utama, risiko kerusakan, dan informasi yang dibutuhkan. Kemudian ajukan dua cara agar nilai tambah lokal meningkat tanpa mengabaikan kelestarian lingkungan.
 
-BAB 10. INFRASTRUKTUR DAN KONEKTIVITAS
+BAB 8. INFRASTRUKTUR DAN KONEKTIVITAS
 
 Infrastruktur mencakup jalan, pelabuhan, jaringan listrik, air bersih, telekomunikasi, sekolah, dan fasilitas kesehatan. Infrastruktur dapat menurunkan biaya transaksi serta memperluas akses terhadap pasar dan layanan. Dampaknya bergantung pada lokasi, mutu konstruksi, pemeliharaan, keterjangkauan, dan kesesuaian dengan kebutuhan masyarakat.
 
@@ -96,7 +93,7 @@ PERTANYAAN PEMAHAMAN
 2. Berikan contoh manfaat infrastruktur yang tidak langsung berupa pendapatan.
 3. Jelaskan mengapa konektivitas digital harus disertai literasi digital.
 
-BAB 11. LEMBAGA, TATA KELOLA, DAN KEPERCAYAAN
+BAB 9. LEMBAGA, TATA KELOLA, DAN KEPERCAYAAN
 
 Lembaga adalah aturan formal maupun kebiasaan yang membentuk perilaku masyarakat. Kepastian hukum, layanan publik yang konsisten, pengawasan, dan mekanisme penyelesaian sengketa dapat mengurangi ketidakpastian. Dunia usaha dan rumah tangga lebih mudah membuat keputusan jangka panjang ketika aturan diterapkan secara adil dan dapat diprediksi.
 
@@ -107,7 +104,7 @@ Indikator tata kelola perlu dibaca sebagai alat bantu, bukan gambaran sempurna. 
 STUDI KASUS
 Sebuah layanan perizinan memerlukan banyak kunjungan dan dokumen yang sama. Susun peta proses, tandai tahapan yang tidak memberi nilai tambah, lalu usulkan penyederhanaan. Pastikan usulan tetap menjaga verifikasi, perlindungan hak, akses bagi warga yang kesulitan menggunakan layanan digital, dan jalur pengaduan.
 
-BAB 12. PEMBANGUNAN WILAYAH DAN KESENJANGAN
+BAB 10. PEMBANGUNAN WILAYAH DAN KESENJANGAN
 
 Pembangunan wilayah dipengaruhi lokasi, sumber daya, sejarah investasi, kepadatan penduduk, konektivitas, dan kapasitas pemerintah daerah. Perbedaan hasil antardaerah tidak selalu menunjukkan perbedaan usaha individu; kondisi awal dan kesempatan juga berperan. Kebijakan wilayah perlu mengidentifikasi hambatan spesifik, bukan menyalin satu program ke semua tempat.
 
@@ -118,7 +115,7 @@ Perencanaan berbasis tempat dapat menggabungkan data statistik, peta, konsultasi
 AKTIVITAS
 Buat profil singkat dua wilayah dengan indikator yang sama: pendidikan, kesehatan, pekerjaan, konektivitas, dan kualitas lingkungan. Jelaskan perbedaan konteks sebelum menyusun rekomendasi. Jangan menyimpulkan sebab-akibat hanya dari dua angka yang bergerak bersama.
 
-BAB 13. EVALUASI PROGRAM PEMBANGUNAN
+BAB 11. EVALUASI PROGRAM PEMBANGUNAN
 
 Program pembangunan memiliki tujuan, sasaran, kegiatan, keluaran, hasil, dan dampak. Keluaran adalah produk langsung kegiatan, seperti jumlah pelatihan yang diselenggarakan. Hasil menggambarkan perubahan yang dialami peserta, misalnya peningkatan keterampilan. Dampak merujuk pada perubahan lebih luas dan jangka panjang yang mungkin dipengaruhi banyak faktor.
 

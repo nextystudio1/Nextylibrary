@@ -136,3 +136,51 @@ Komunikasi berkabel atau nirkabel dipilih berdasarkan jarak, gangguan, waktu res
 STUDI KASUS: ROBOT PENGANTAR BUKU
 
 Tim memetakan jalur, lebar lorong, kondisi lantai, kepadatan pengguna, berat muatan, dan kebutuhan aksesibilitas. Kriteria penerimaan mencakup kemampuan berhenti ketika jalur tidak jelas, tidak menghalangi pintu keluar, menjaga muatan, dan menyediakan kendali operator. Evaluasi memisahkan hasil simulasi dari uji fisik serta menilai privasi bila sistem memakai kamera atau menyimpan lokasi.
+
+BAB 13. SENSOR, AKTUATOR, DAN AKUISISI DATA
+
+Sensor mengubah besaran fisik menjadi sinyal yang dapat diproses sistem. Contohnya sensor jarak, suhu, cahaya, tekanan, dan posisi. Setiap sensor memiliki rentang kerja, resolusi, akurasi, waktu respons, dan sumber gangguan. Pemilihan sensor dimulai dari kebutuhan pengukuran, bukan dari popularitas komponen.
+
+Aktuator menghasilkan gerak atau tindakan, misalnya motor, servo, dan mekanisme linear. Sistem kendali menghubungkan pembacaan sensor dengan keputusan dan keluaran aktuator. Dalam desain, perhatikan batas mekanis, beban, konsumsi daya, keselamatan pengguna, dan perilaku ketika sensor gagal. Uji harus dilakukan dalam kondisi terkontrol dan sesuai spesifikasi perangkat.
+
+BAB 14. ELEKTRONIKA DAN SISTEM TERTANAM
+
+Sistem robotik biasanya memadukan catu daya, pengendali, sensor, aktuator, dan komunikasi. Mikrokontroler menjalankan program untuk membaca masukan dan mengatur keluaran. Antarmuka digital dan analog memiliki karakter berbeda, sehingga rancangan harus sesuai tegangan, arus, dan spesifikasi komponen.
+
+Dokumentasi rangkaian membantu pemeliharaan dan penelusuran masalah. Perlindungan arus lebih, pengelolaan panas, isolasi, serta koneksi yang benar penting untuk mengurangi risiko. Perakitan dan pengujian perangkat listrik perlu mengikuti panduan produsen dan dilakukan dengan pengawasan yang sesuai; jangan melakukan eksperimen pada sumber listrik berbahaya.
+
+BAB 15. KENDALI UMPAN BALIK
+
+Kendali umpan balik membandingkan keadaan aktual dengan nilai tujuan. Selisih atau galat digunakan untuk menentukan tindakan koreksi. Kendali terbuka menjalankan perintah tanpa mengukur hasil, sedangkan kendali tertutup menggunakan pengukuran untuk menyesuaikan keluaran. Pilihan bergantung pada kebutuhan ketelitian, biaya, dan kompleksitas.
+
+Pengendali proporsional, integral, dan derivatif merupakan keluarga metode yang umum dipelajari. Pengaturan parameter memengaruhi kecepatan respons, kestabilan, dan kemungkinan osilasi. Model matematis membantu analisis, tetapi pengujian harus memperhatikan batas perangkat dan kondisi operasi yang aman.
+
+BAB 16. LOKALISASI DAN PEMETAAN ROBOT
+
+Robot bergerak perlu memperkirakan posisi dan orientasinya. Odometri menggunakan informasi gerak roda atau aktuator, tetapi kesalahan dapat terakumulasi. Sensor jarak, kamera, dan pengukuran lain dapat membantu memperbaiki estimasi. Setiap sensor memiliki ketidakpastian dan kondisi kegagalan berbeda.
+
+Pemetaan membangun representasi lingkungan untuk perencanaan gerak. Peta dapat berupa grid, fitur, atau model geometris. Lingkungan dinamis menambah tantangan karena orang dan benda dapat berpindah. Robot yang beroperasi dekat manusia perlu memiliki batas kecepatan, deteksi hambatan, dan mekanisme berhenti yang dirancang serta diuji oleh pihak kompeten.
+
+BAB 17. PERENCANAAN GERAK DAN INTERAKSI MANUSIA-ROBOT
+
+Perencanaan gerak menentukan lintasan yang memenuhi batas ruang dan kemampuan mekanis. Lintasan yang pendek belum tentu paling aman atau nyaman. Robot di ruang publik perlu mempertimbangkan jalur evakuasi, akses kursi roda, kepadatan orang, dan aturan fasilitas.
+
+Interaksi manusia-robot mencakup sinyal status, perintah, umpan balik, dan kemampuan mengambil alih. Indikator harus mudah dimengerti serta tidak memberi kesan kemampuan yang sebenarnya tidak dimiliki sistem. Jika robot tidak yakin terhadap keadaan lingkungan, perilaku aman dapat berupa berhenti dan meminta bantuan operator.
+
+BAB 18. KEANDALAN, PENGUJIAN, DAN PEMELIHARAAN
+
+Keandalan dinilai melalui kemampuan sistem menjalankan fungsi sesuai kondisi yang ditentukan. Pengujian unit memeriksa komponen, pengujian integrasi memeriksa hubungan antarkomponen, dan pengujian sistem menilai perilaku keseluruhan. Skenario uji perlu mencakup kondisi normal, batas operasi, gangguan sensor, dan pemulihan.
+
+Catatan kegagalan membantu tim menemukan pola dan memperbaiki desain. Pemeliharaan preventif memeriksa komponen sesuai panduan produsen. Perangkat lunak perlu memiliki pencatatan versi dan prosedur pembaruan. Jangan mengoperasikan robot yang menunjukkan kerusakan atau perilaku tidak terduga di dekat orang.
+
+STUDI KASUS: ROBOT PENGANTAR BUKU
+
+Rancang spesifikasi robot yang membawa buku di perpustakaan. Tetapkan batas muatan, area operasi, kebutuhan aksesibilitas, kondisi berhenti, peran operator, dan prosedur ketika jalur terhalang. Evaluasi keberhasilan bukan hanya kecepatan, tetapi juga keselamatan, keandalan, privasi, dan kemudahan penggunaan.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Apa beda sensor dan aktuator? Sensor mengukur keadaan; aktuator menghasilkan tindakan.
+2. Mengapa sensor harus dipilih berdasarkan kebutuhan? Karena rentang, akurasi, respons, dan lingkungan berbeda.
+3. Apa manfaat umpan balik? Mengoreksi perbedaan antara kondisi aktual dan tujuan.
+4. Mengapa odometri dapat meleset? Kesalahan pengukuran gerak dapat terakumulasi.
+5. Apa ukuran keberhasilan robot publik? Fungsi, keselamatan, keandalan, aksesibilitas, privasi, dan kemudahan penggunaan.

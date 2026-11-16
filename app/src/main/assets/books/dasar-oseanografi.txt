@@ -6,24 +6,24 @@ DESKRIPSI
 Mengenal laut, arus, gelombang, pasang surut, ekosistem, dan pengamatan laut.
 
 PETA BELAJAR
-Buku ini disusun untuk membangun pemahaman bertahap. Kenali istilah, pahami mekanisme, hubungkan dengan contoh, lalu evaluasi penerapan. Catat pertanyaan yang belum terjawab dan periksa sumber informasi sebelum membuat kesimpulan.
+Pelajari Dasar Oseanografi secara bertahap: pahami istilah, ikuti proses yang dijelaskan, lalu uji konsep pada contoh yang sesuai. Catat hubungan antarbab dan tandai bagian yang memerlukan data, perhitungan, atau sumber tambahan.
 
 BAB 1. LAUT SEBAGAI SISTEM
 
 Samudra menutupi sebagian besar permukaan bumi dan berperan dalam iklim, siklus air, keanekaragaman hayati, serta kehidupan manusia. Oseanografi mempelajari laut melalui pendekatan fisika, kimia, biologi, dan geologi. Keempat bidang tersebut saling melengkapi karena perubahan suhu, salinitas, dasar laut, dan organisme dapat memengaruhi satu sama lain.
 
 PENDALAMAN
-Dalam mempelajari topik ini, bedakan pengertian, proses, bukti, dan penilaian. Pengertian memberi batas istilah; proses menerangkan hubungan antarbagian; bukti membantu menguji penjelasan; penilaian mempertimbangkan konteks dan akibat. Jangan menyimpulkan hubungan sebab-akibat hanya dari dua kejadian yang berlangsung bersamaan. Periksa apakah ada faktor lain yang mungkin memengaruhi hasil.
+Pada LAUT SEBAGAI SISTEM, pisahkan hasil pengamatan dari penjelasan. Tentukan faktor yang diukur, kondisi yang memengaruhinya, serta bukti yang mendukung kesimpulan. Jelaskan batas model atau metode yang digunakan dan data tambahan yang diperlukan.
 
 CONTOH PENERAPAN
-Pilih peristiwa atau benda yang dapat diamati di sekitar. Catat waktu, tempat, kondisi, dan informasi relevan. Gunakan istilah dari bab ini untuk menjelaskan apa yang terjadi. Tuliskan juga hal yang belum diketahui. Dengan cara tersebut, contoh tidak hanya menjadi cerita, tetapi latihan menerapkan konsep secara tertib.
+Contoh kajian: pilih kasus sederhana yang berkaitan dengan LAUT SEBAGAI SISTEM dalam bidang Dasar Oseanografi. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
 
 KEGIATAN BELAJAR
-1. Buat ringkasan satu paragraf tanpa menyalin kalimat buku.
-2. Susun diagram yang menunjukkan hubungan antar konsep.
-3. Temukan contoh yang sesuai dan contoh yang tidak sesuai.
-4. Jelaskan mengapa suatu kesimpulan dapat berubah ketika informasi baru ditemukan.
-5. Diskusikan hasilnya dengan tetap menghargai perbedaan pendapat.
+1. Jelaskan satu istilah kunci dari LAUT SEBAGAI SISTEM dengan kalimat sendiri.
+2. Buat bagan yang menunjukkan hubungan antarkonsep.
+3. Terapkan konsep pada satu contoh yang relevan dengan Dasar Oseanografi.
+4. Tunjukkan asumsi atau kondisi yang dapat mengubah hasil.
+5. Sajikan kesimpulan beserta bukti pendukungnya.
 
 LATIHAN
 1. Definisikan tiga istilah penting.
@@ -53,17 +53,17 @@ BAB 6. PENGAMATAN DAN KONSERVASI
 Pengamatan laut menggunakan kapal, pelampung, satelit, sensor, dan pencatatan lapangan. Data harus menyertakan lokasi, waktu, kedalaman, satuan, serta metode. Konservasi laut memerlukan ilmu pengetahuan, tata kelola, partisipasi masyarakat pesisir, dan pengelolaan sumber daya yang mempertimbangkan kebutuhan jangka panjang.
 
 PROYEK TERPADU
-Rancang kajian kecil yang menghubungkan beberapa bab. Tentukan masalah, tujuan, pertanyaan, metode, data yang diperlukan, dan batasan. Pilih metode yang aman serta sesuai kemampuan. Sajikan hasil dengan bahasa jelas dan pisahkan temuan dari dugaan. Jika menggunakan data orang lain, jaga privasi dan sebutkan sumbernya.
+Buat kajian mini untuk Dasar Oseanografi dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Buat peta konsep seluruh buku.
-2. Jelaskan tiga hubungan antarbab.
-3. Analisis satu kasus dengan menyebutkan bukti dan asumsi.
-4. Bandingkan dua pendekatan penyelesaian masalah.
-5. Tulis kesimpulan yang proporsional dan sebutkan informasi tambahan yang masih dibutuhkan.
+1. Terangkan konsep inti dari PENGAMATAN DAN KONSERVASI dan perannya dalam bidang ini.
+2. Hubungkan tiga gagasan dari bab yang berbeda.
+3. Analisis sebuah kasus menggunakan konsep buku Dasar Oseanografi.
+4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
+5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 PEDOMAN PENILAIAN
-Gunakan ketepatan konsep, kecermatan bukti, konsistensi penalaran, dan kejelasan komunikasi sebagai kriteria. Kesimpulan yang berbeda dapat diterima jika didukung bukti yang relevan dan tidak mengabaikan fakta penting.
+Nilai pemahaman Dasar Oseanografi berdasarkan ketepatan konsep, kecocokan metode, mutu bukti, dan kemampuan menerapkan materi. Jawaban harus menunjukkan alasan yang dapat diperiksa serta menyebutkan keterbatasan informasi bila ada.
 
 GLOSARIUM
 Salinitas: Ukuran kandungan garam terlarut dalam air.
@@ -72,8 +72,8 @@ Pasang surut: Perubahan periodik tinggi muka laut.
 Oseanografi: Ilmu yang mempelajari laut.
 Ekosistem pesisir: Komunitas dan lingkungan di wilayah peralihan darat-laut.
 
-CATATAN BELAJAR DAN SUMBER
-Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar dan publikasi lembaga kompeten. Catat penulis atau lembaga, judul, tahun, dan bagian sumber. Periksa tanggal pembaruan terutama untuk pengetahuan yang berkembang, peraturan, teknologi, dan data statistik.
+CATATAN SUMBER
+Naskah Dasar Oseanografi merupakan materi pembelajaran orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, atau sumber lembaga yang sesuai dengan bidang ini. Catat penulis, judul, tahun, dan bagian yang digunakan; periksa relevansi serta tanggal pembaruan sumber.
 
 BAB LANJUTAN: LAUT, IKLIM, DAN PENGELOLAAN PESISIR
 

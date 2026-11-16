@@ -210,3 +210,26 @@ Adaptasi: Penyesuaian untuk mengurangi dampak perubahan iklim.
 
 CATATAN SUMBER DAN PENGEMBANGAN
 Buku ini merupakan materi pengantar orisinal. Untuk tugas akademik atau keputusan praktis, bandingkan penjelasan dengan buku ajar, standar, peraturan, dan publikasi lembaga yang kompeten. Catat judul sumber, penulis atau lembaga, tahun terbit, dan bagian yang digunakan. Periksa tanggal sumber pada topik yang dapat berubah.
+
+BAB LANJUTAN: ADAPTASI IKLIM DAN KETAHANAN MASYARAKAT
+
+1. Mitigasi dan adaptasi
+Mitigasi mengurangi sumber emisi atau meningkatkan penyerapannya, sedangkan adaptasi mengurangi kerentanan terhadap dampak yang sudah terjadi atau diperkirakan. Keduanya saling melengkapi. Program adaptasi yang baik tidak boleh memperburuk emisi atau memindahkan risiko kepada kelompok lain.
+
+2. Risiko iklim
+Risiko dipengaruhi bahaya iklim, paparan, dan kerentanan. Banjir, kekeringan, gelombang panas, dan perubahan pola musim dapat berdampak berbeda menurut lokasi serta kemampuan masyarakat untuk merespons. Peta bahaya saja tidak cukup; perlu informasi tentang penduduk, infrastruktur, mata pencaharian, dan layanan penting.
+
+3. Air dan pertanian
+Perubahan pola hujan dapat memengaruhi ketersediaan air, kalender tanam, dan produktivitas. Pengelolaan dapat mencakup efisiensi irigasi, perlindungan daerah resapan, varietas yang sesuai, serta informasi cuaca yang dapat diakses petani. Pilihan harus disesuaikan kondisi lokal dan tidak mengabaikan pengetahuan masyarakat.
+
+4. Kota dan kesehatan
+Ruang hijau, drainase, transportasi, bangunan yang nyaman secara termal, dan sistem peringatan dapat membantu kota menghadapi dampak iklim. Kelompok rentan perlu mendapat perhatian karena akses terhadap pendinginan, layanan kesehatan, dan tempat aman tidak merata.
+
+5. Solusi berbasis alam
+Pemulihan mangrove, hutan, lahan basah, dan ruang hijau dapat memberi manfaat ganda jika dirancang tepat. Namun penanaman tidak otomatis berhasil. Jenis lokal, kondisi hidrologi, hak lahan, pemeliharaan, dan keterlibatan masyarakat menentukan hasil jangka panjang.
+
+6. Mengukur keberhasilan adaptasi
+Indikator dapat mencakup penurunan gangguan layanan, akses air, waktu pemulihan, kondisi ekosistem, dan kemampuan kelompok terdampak. Hitung juga biaya pemeliharaan dan risiko maladaptasi. Evaluasi perlu dilakukan berulang karena kondisi iklim dan sosial terus berubah.
+
+LATIHAN
+Pilih satu risiko iklim di daerah tempat tinggal. Buat peta sederhana pihak dan fasilitas yang terpapar, jelaskan kelompok yang paling rentan, dan susun tiga langkah adaptasi beserta indikator pemantauannya.

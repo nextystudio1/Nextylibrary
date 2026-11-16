@@ -400,3 +400,73 @@ Mengapa fase Bulan berulang? Karena geometri Matahari-Bumi-Bulan berubah secara 
 
 RANGKUMAN PENGAYAAN
 Tata Surya merupakan sistem dinamis yang diatur gravitasi dan sejarah pembentukan. Memahami gerak, musim, fase, serta benda kecil membutuhkan model yang jelas dan pengamatan yang teliti.
+
+BAGIAN PENGAYAAN MATERI
+BAB LANJUTAN 1 — MENGAPA PLANET MENGORBIT MATAHARI
+
+Planet bergerak karena gabungan kecepatan gerak dan tarikan gravitasi. Jika sebuah planet tidak memiliki kecepatan menyamping, planet akan jatuh menuju Matahari. Jika tidak ada gravitasi, planet akan bergerak lurus menjauh. Orbit terbentuk karena planet terus bergerak ke depan sementara gravitasi terus membelokkan lintasannya. Gambaran ini membantu menjelaskan mengapa orbit bukan jalur yang membuat planet diam di tempat.
+
+Orbit planet umumnya berbentuk elips, dengan Matahari berada pada salah satu fokus elips. Jarak planet dari Matahari berubah sepanjang orbit. Ketika lebih dekat, planet bergerak lebih cepat; ketika lebih jauh, planet bergerak lebih lambat. Hukum Kepler menjelaskan pola gerak ini dan menjadi dasar penting untuk memahami sistem planet maupun benda langit lain.
+
+Periode orbit adalah waktu yang diperlukan benda untuk menyelesaikan satu putaran. Semakin jauh planet dari Matahari, umumnya semakin lama periode orbitnya. Hubungan matematis antara periode dan ukuran orbit memungkinkan astronom memperkirakan massa objek pusat jika data gerak benda yang mengorbit tersedia. Prinsip yang sama digunakan untuk mempelajari planet di sekitar bintang lain.
+
+BAB LANJUTAN 2 — PLANET KEBUMIAN DAN PLANET RAKSASA
+
+Planet kebumian—Merkurius, Venus, Bumi, dan Mars—memiliki permukaan padat dan komposisi yang relatif kaya batuan serta logam. Ukurannya lebih kecil dibanding planet raksasa, tetapi struktur internalnya kompleks. Planet raksasa mencakup Jupiter dan Saturnus yang didominasi hidrogen serta helium, serta Uranus dan Neptunus yang memiliki komposisi kaya senyawa volatil seperti air, amonia, dan metana dalam kondisi bagian dalam yang ekstrem.
+
+Pengelompokan ini tidak berarti setiap planet dalam kelompok sama. Venus memiliki atmosfer sangat tebal dan suhu permukaan tinggi akibat efek rumah kaca yang kuat. Mars memiliki atmosfer tipis dan jejak lingkungan masa lalu yang berbeda dari sekarang. Jupiter memiliki badai raksasa dan medan magnet kuat. Saturnus terkenal dengan sistem cincinnya yang tersusun terutama dari partikel es dan batuan. Uranus memiliki kemiringan sumbu rotasi yang sangat besar, sedangkan Neptunus memiliki angin atmosfer yang sangat cepat.
+
+Perbandingan planet perlu mempertimbangkan lebih dari ukuran. Massa, kerapatan, komposisi, atmosfer, medan magnet, satelit, dan sejarah geologi memberi gambaran yang lebih lengkap. Planet yang ukurannya mirip belum tentu memiliki lingkungan permukaan yang mirip.
+
+BAB LANJUTAN 3 — BULAN, PASANG SURUT, DAN GERHANA
+
+Bulan memengaruhi Bumi melalui gravitasi, terutama dalam pembentukan pasang surut laut. Tarikan Bulan dan Matahari menyebabkan permukaan laut mengalami perubahan berkala. Bentuk garis pantai, kedalaman laut, cuaca, dan bentuk cekungan juga memengaruhi tinggi pasang surut setempat. Karena itu, waktu dan tinggi pasang surut tidak sama di seluruh wilayah.
+
+Gerhana Matahari terjadi ketika Bulan berada di antara Bumi dan Matahari sehingga sebagian cahaya Matahari tertutup bagi pengamat di wilayah tertentu. Gerhana Bulan terjadi ketika Bumi berada di antara Matahari dan Bulan sehingga bayangan Bumi jatuh ke Bulan. Gerhana tidak terjadi setiap bulan karena bidang orbit Bulan miring terhadap bidang orbit Bumi mengelilingi Matahari.
+
+Fase Bulan berubah karena bagian permukaan Bulan yang diterangi Matahari dan terlihat dari Bumi berubah sepanjang orbitnya. Fase Bulan bukan disebabkan bayangan Bumi, kecuali saat gerhana Bulan. Memahami perbedaan fase dan gerhana membantu menghindari salah kaprah yang umum muncul dalam penjelasan sederhana.
+
+BAB LANJUTAN 4 — ASTEROID, KOMET, DAN METEOR
+
+Asteroid adalah benda kecil berbatu atau logam yang mengorbit Matahari. Banyak asteroid berada di sabuk utama antara Mars dan Jupiter, tetapi terdapat pula kelompok yang orbitnya mendekati orbit Bumi. Komet mengandung es, debu, dan material lain. Ketika mendekati Matahari, sebagian es berubah menjadi gas dan membentuk koma serta ekor. Ekor komet tidak selalu berada tepat di belakang arah geraknya; tekanan radiasi dan angin Matahari memengaruhi arahnya.
+
+Meteoroid adalah benda kecil di ruang antarplanet. Ketika memasuki atmosfer Bumi dan menghasilkan kilatan cahaya, fenomenanya disebut meteor. Jika sebagian material bertahan dan mencapai permukaan, sisa tersebut disebut meteorit. Istilah-istilah ini menggambarkan tahap dan lokasi yang berbeda, bukan tiga jenis benda yang sepenuhnya terpisah.
+
+Dampak benda langit ke Bumi memiliki tingkat risiko yang berbeda. Pemantauan orbit membantu ilmuwan memperkirakan apakah suatu objek memiliki kemungkinan mendekati Bumi. Penilaian risiko memerlukan pengamatan berulang karena ketidakpastian posisi dan orbit dapat berubah ketika data baru diperoleh. Tidak setiap objek dekat Bumi merupakan ancaman.
+
+BAB LANJUTAN 5 — EKSOPLANET DAN PENCARIAN DUNIA LAIN
+
+Eksoplanet adalah planet yang mengorbit bintang selain Matahari. Salah satu metode penemuan yang banyak digunakan adalah metode transit, yaitu mengukur penurunan kecil cahaya bintang ketika planet melintas di depan bintang dari sudut pandang pengamat. Kedalaman penurunan cahaya dapat membantu memperkirakan ukuran planet relatif terhadap bintangnya.
+
+Metode kecepatan radial mengukur gerak kecil bintang akibat tarikan gravitasi planet. Planet dan bintang sebenarnya mengorbit pusat massa bersama. Gerak bintang yang sangat kecil dapat dideteksi melalui perubahan spektrum. Metode pencitraan langsung lebih sulit karena cahaya bintang jauh lebih terang daripada planet, tetapi dapat memberikan informasi penting pada kondisi tertentu.
+
+Penemuan planet tidak sama dengan penemuan kehidupan. Untuk menilai apakah sebuah dunia mungkin memiliki lingkungan yang mendukung kehidupan, peneliti perlu mempelajari atmosfer, suhu, radiasi bintang, komposisi, dan stabilitas orbit. Bahkan jika suatu gas terdeteksi, peneliti harus memeriksa kemungkinan proses nonbiologis yang dapat menghasilkan gas tersebut.
+
+KEGIATAN PENGAMATAN — MENCATAT FASE BULAN
+
+Selama beberapa minggu, amati Bulan pada waktu yang aman dan catat bentuk bagian terang, waktu pengamatan, serta posisi umum di langit. Jangan mengamati Matahari secara langsung. Bandingkan catatan dari hari ke hari. Diskusikan mengapa bentuk bagian terang berubah dan mengapa waktu terbit Bulan juga bergeser.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Mengapa orbit planet dapat dipahami sebagai gabungan gerak maju dan gravitasi?
+2. Apa perbedaan utama planet kebumian dan planet raksasa?
+3. Mengapa gerhana tidak terjadi setiap bulan?
+4. Bedakan meteoroid, meteor, dan meteorit.
+5. Bagaimana metode transit dapat mengungkap ukuran eksoplanet?
+6. Mengapa deteksi atmosfer tidak otomatis membuktikan adanya kehidupan?
+
+KUNCI PEMBAHASAN
+1. Kecepatan menyamping membawa planet maju, sedangkan gravitasi membelokkan lintasan menuju objek pusat sehingga terbentuk orbit.
+2. Planet kebumian umumnya berbatu dan memiliki permukaan padat; planet raksasa lebih besar dan didominasi gas atau material volatil.
+3. Bidang orbit Bulan miring sehingga pada kebanyakan bulan bayangan tidak sejajar dengan Bumi dan Matahari.
+4. Meteoroid berada di ruang antarplanet, meteor adalah fenomena cahaya di atmosfer, meteorit adalah material yang mencapai permukaan.
+5. Penurunan cahaya bintang saat transit berkaitan dengan luas relatif planet terhadap bintang.
+6. Gas dapat terbentuk melalui proses nonbiologis; diperlukan konteks dan bukti tambahan.
+
+GLOSARIUM TAMBAHAN
+Orbit elips: lintasan berbentuk elips.
+Periode orbit: waktu untuk menyelesaikan satu putaran.
+Planet kebumian: planet berbatu dengan permukaan padat.
+Planet raksasa: planet berukuran besar yang didominasi gas atau material volatil.
+Pasang surut: perubahan periodik tinggi permukaan laut akibat gaya gravitasi terutama Bulan dan Matahari.
+Transit: peristiwa ketika benda melintas di depan bintang dari sudut pandang pengamat.
+Eksoplanet: planet di luar tata surya.

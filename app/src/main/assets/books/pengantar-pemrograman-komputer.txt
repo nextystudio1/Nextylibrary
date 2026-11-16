@@ -78,7 +78,6 @@ Debugging: proses menemukan dan memperbaiki kesalahan.
 CATATAN PENULIS
 Contoh dalam buku menggunakan pseudocode agar konsep dapat dipelajari tanpa bergantung pada satu bahasa. Praktikkan konsep menggunakan lingkungan belajar yang aman dan tepercaya.
 
-
 PENDALAMAN — MERANCANG PROGRAM YANG TERUJI
 BAB 7 — FUNGSI DAN PEMECAHAN MASALAH
 Fungsi mengelompokkan instruksi untuk tugas tertentu. Fungsi yang baik memiliki tujuan jelas, masukan yang terdefinisi, dan keluaran yang dapat dipahami. Pemecahan masalah dilakukan dengan membagi tugas besar menjadi bagian kecil, menyelesaikan tiap bagian, lalu menggabungkannya. Pendekatan ini disebut dekomposisi.
@@ -194,8 +193,6 @@ BAB 38 — DOKUMENTASI PROYEK
 Dokumentasi menjelaskan tujuan program, cara menjalankan, kebutuhan perangkat, struktur berkas, konfigurasi, dan batasan. Dokumentasi yang baik membantu pengguna dan pengembang lain memahami keputusan teknis serta mengurangi ketergantungan pada satu orang.
 TUGAS AKHIR
 Rancang program kecil untuk mencatat kegiatan belajar. Tulis kebutuhan pengguna, pseudocode, struktur data, kasus uji normal dan batas, cara menyimpan data, serta risiko privasi. Jelaskan cara memperbaiki program jika masukan tidak valid.
-
-
 
 BAB LANJUTAN — STRUKTUR DATA DAN PEMILIHAN ALGORITMA
 

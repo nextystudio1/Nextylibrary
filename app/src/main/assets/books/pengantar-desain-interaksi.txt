@@ -6,7 +6,7 @@ DESKRIPSI
 Memahami pengguna, alur tugas, navigasi, aksesibilitas, prototipe, dan evaluasi antarmuka.
 
 PENDAHULUAN
-Buku Pengantar Desain Interaksi membahas memahami pengguna, alur tugas, navigasi, aksesibilitas, prototipe, dan evaluasi antarmuka.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini membahas perancangan interaksi antara manusia dan produk digital. Materi mencakup riset pengguna, pemetaan tugas, arsitektur informasi, navigasi, umpan balik, pencegahan kesalahan, aksesibilitas, prototipe, dan evaluasi kegunaan.
 
 BAB 1. INTERAKSI MANUSIA DAN TEKNOLOGI
 
@@ -55,11 +55,11 @@ TUGAS TERPADU
 Buat laporan mini yang menghubungkan sekurang-kurangnya tiga bab. Tentukan tujuan, pertanyaan, metode, sumber informasi, dan batasan. Sajikan temuan secara runtut. Bedakan data yang diamati dari tafsiran. Jika informasi belum cukup, nyatakan dengan jujur dan jelaskan apa yang perlu dikumpulkan berikutnya.
 
 EVALUASI AKHIR
-1. Tuliskan lima konsep inti dan definisinya.
-2. Jelaskan hubungan antara tiga konsep berbeda.
-3. Analisis satu contoh dengan menggunakan bukti.
-4. Bandingkan dua pendekatan atau penjelasan.
-5. Buat kesimpulan dan nyatakan keterbatasannya.
+1. Bedakan kebutuhan pengguna, keinginan pengguna, dan asumsi perancang.
+2. Buat alur tugas untuk menyelesaikan satu kegiatan pada aplikasi.
+3. Jelaskan bagaimana umpan balik sistem membantu pengguna memahami hasil tindakan.
+4. Sebutkan dua cara mencegah kesalahan dan satu cara membantu pemulihan setelah kesalahan.
+5. Rancang uji kegunaan sederhana dan tentukan indikator keberhasilannya.
 
 PEDOMAN PENILAIAN
 Periksa ketepatan istilah, kualitas bukti, alur penalaran, relevansi contoh, dan kejelasan bahasa. Jawaban dapat bervariasi jika alasan dan buktinya kuat. Hindari klaim mutlak ketika data hanya mendukung kesimpulan terbatas.

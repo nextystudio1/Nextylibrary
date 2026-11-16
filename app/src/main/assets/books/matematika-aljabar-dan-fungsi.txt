@@ -90,25 +90,25 @@ LATIHAN PENDALAMAN
 4. Mengapa satuan penting dalam pemodelan? Jawaban: satuan membantu memeriksa konsistensi dan mencegah penafsiran keliru.
 
 PENDALAMAN LANJUTAN: PERSAMAAN, FUNGSI, DAN PEMODELAN
-BAB 7 — PERSAMAAN LINEAR DAN SISTEM
+BAB 14 — PERSAMAAN LINEAR DAN SISTEM
 Persamaan linear satu variabel menyatakan kesetaraan dua bentuk aljabar. Operasi yang sama pada kedua ruas mempertahankan kesetaraan. Untuk sistem dua persamaan, metode substitusi dan eliminasi dapat digunakan untuk mencari pasangan nilai yang memenuhi keduanya.
 Sistem dapat memiliki satu solusi, tidak memiliki solusi, atau memiliki tak hingga solusi. Interpretasi grafik membantu memahami apakah dua garis berpotongan, sejajar, atau berimpit.
-BAB 8 — PERTIDAKSAMAAN DAN NILAI MUTLAK
+BAB 15 — PERTIDAKSAMAAN DAN NILAI MUTLAK
 Pertidaksamaan membandingkan nilai menggunakan tanda lebih besar atau lebih kecil. Ketika kedua ruas dikalikan bilangan negatif, arah tanda harus dibalik. Himpunan penyelesaian dapat digambarkan pada garis bilangan.
 Nilai mutlak menyatakan jarak suatu bilangan dari nol. Persamaan nilai mutlak sering memiliki dua kemungkinan arah, sehingga setiap solusi perlu diuji kembali ke persamaan awal.
-BAB 9 — FUNGSI DAN DOMAIN
+BAB 16 — FUNGSI DAN DOMAIN
 Fungsi memasangkan setiap masukan dalam domain dengan tepat satu keluaran. Domain adalah himpunan masukan yang diperbolehkan, sedangkan range adalah himpunan keluaran yang dihasilkan. Notasi fungsi membantu menyatakan hubungan tanpa harus menuliskan semua pasangan.
 Grafik fungsi memperlihatkan perilaku hubungan. Perhatikan titik potong, interval naik-turun, nilai maksimum atau minimum, dan batas domain. Grafik harus dibaca sesuai skala sumbu.
-BAB 10 — FUNGSI KUADRAT
+BAB 17 — FUNGSI KUADRAT
 Fungsi kuadrat memiliki grafik parabola. Koefisien menentukan arah buka dan bentuknya. Titik puncak menunjukkan nilai ekstrem, sedangkan akar adalah titik potong dengan sumbu horizontal jika akar real ada.
 Persamaan kuadrat dapat diselesaikan melalui pemfaktoran, melengkapkan kuadrat, atau rumus kuadrat. Diskriminan memberi informasi jumlah akar real berbeda, tetapi interpretasi tetap terkait konteks soal.
-BAB 11 — BARISAN DAN POLA
+BAB 18 — BARISAN DAN POLA
 Barisan aritmetika memiliki selisih tetap, sedangkan barisan geometri memiliki rasio tetap. Rumus suku ke-n membantu menghitung posisi jauh tanpa menulis semua suku. Jumlah beberapa suku dapat dihitung dengan rumus deret.
 Pola numerik dapat digunakan untuk membuat model, tetapi pola dari sedikit data tidak selalu berlaku selamanya. Uji model terhadap informasi tambahan dan konteks.
-BAB 12 — PEMODELAN DAN OPTIMASI
+BAB 19 — PEMODELAN DAN OPTIMASI
 Model aljabar menyederhanakan masalah nyata menjadi variabel, persamaan, dan batasan. Contoh biaya dapat ditulis sebagai biaya tetap ditambah biaya per unit. Model linear dapat membantu menentukan titik impas ketika asumsi sesuai.
 Optimasi mencari nilai terbaik berdasarkan tujuan dan batasan. Sebelum menghitung, definisikan variabel keputusan, fungsi tujuan, dan kendala. Periksa apakah solusi matematis masuk akal di dunia nyata.
-BAB 13 — KESALAHAN UMUM DAN PEMERIKSAAN
+BAB 20 — KESALAHAN UMUM DAN PEMERIKSAAN
 Kesalahan sering muncul karena distribusi tidak merata, salah tanda, menggabungkan suku yang tidak sejenis, atau mengabaikan domain. Setiap langkah perlu mempertahankan kesetaraan.
 Substitusikan hasil ke persamaan awal, periksa satuan, dan bandingkan dengan perkiraan. Penjelasan langkah lebih penting daripada hanya menuliskan jawaban akhir.
 LATIHAN PENDALAMAN
@@ -118,17 +118,17 @@ LATIHAN PENDALAMAN
 4. Mengapa model perlu diperiksa terhadap konteks? Jawaban: asumsi matematis dapat tidak sesuai kondisi nyata.
 
 PENDALAMAN ALJABAR DAN PEMODELAN
-BAB 14 — PERSAMAAN DAN PERTIDAKSAMAAN
+BAB 21 — PERSAMAAN DAN PERTIDAKSAMAAN
 Persamaan menyatakan dua ekspresi bernilai sama. Operasi yang sama pada kedua ruas mempertahankan kesetaraan selama sah. Untuk pertidaksamaan, mengalikan atau membagi dengan bilangan negatif membalik arah tanda. Persamaan kuadrat dapat diselesaikan dengan faktorisasi, melengkapkan kuadrat, atau rumus kuadrat. Periksa hasil dengan substitusi.
-BAB 15 — FUNGSI KOMPOSISI DAN INVERS
+BAB 22 — FUNGSI KOMPOSISI DAN INVERS
 Komposisi f(g(x)) berarti keluaran g menjadi masukan f. Urutan penting karena komposisi umumnya tidak komutatif. Fungsi invers membalik pemetaan jika fungsi satu-satu pada domain yang dipilih. Untuk mencari invers, tulis y=f(x), tukar x dan y, lalu selesaikan. Periksa domain dan range.
-BAB 16 — EKSPONEN DAN LOGARITMA
+BAB 23 — EKSPONEN DAN LOGARITMA
 Eksponen menyatakan perkalian berulang. Logaritma adalah operasi kebalikan eksponen: log_b(a)=c berarti b^c=a, dengan b positif dan bukan satu serta a positif. Model eksponensial dapat menggambarkan pertumbuhan atau peluruhan pada kondisi tertentu; periksa asumsi laju relatif dan batas sumber daya.
-BAB 17 — BARISAN DAN DERET
+BAB 24 — BARISAN DAN DERET
 Barisan aritmetika memiliki beda tetap, sedangkan barisan geometri memiliki rasio tetap. Deret adalah jumlah suku-suku barisan. Gunakan rumus sesuai jenis dan jumlah suku. Periksa apakah pola benar-benar tetap sebelum meneruskan rumus ke banyak suku.
-BAB 18 — FUNGSI TRIGONOMETRI
+BAB 25 — FUNGSI TRIGONOMETRI
 Sinus, kosinus, dan tangen menghubungkan sudut dengan perbandingan sisi pada segitiga siku-siku dan menjadi fungsi periodik. Sudut dapat dinyatakan dalam derajat atau radian; pastikan mode kalkulator sesuai. Grafik menunjukkan amplitudo, periode, pergeseran, dan garis tengah.
-BAB 19 — PEMODELAN DAN VALIDASI
+BAB 26 — PEMODELAN DAN VALIDASI
 Model matematika menyederhanakan situasi melalui variabel, asumsi, dan hubungan. Tentukan pertanyaan, definisikan variabel, buat model, analisis, lalu bandingkan hasil dengan data. Jika prediksi meleset, periksa kualitas data, asumsi, parameter, dan faktor yang diabaikan.
 LATIHAN
 1. Mengapa pertidaksamaan berbalik saat dibagi bilangan negatif? Urutan pada garis bilangan terbalik.
@@ -526,7 +526,7 @@ Logaritma: operasi kebalikan eksponen.
 Barisan aritmetika: barisan dengan beda tetap.
 Barisan geometri: barisan dengan rasio tetap.
 Deret: jumlah suku-suku suatu barisan.
-BAB 13 — SISTEM PERSAMAAN LINEAR
+BAB 27 — SISTEM PERSAMAAN LINEAR
 
 Sistem persamaan linear terdiri dari dua atau lebih persamaan yang harus dipenuhi secara bersamaan. Pada dua variabel, setiap persamaan linear dapat digambarkan sebagai garis. Penyelesaian sistem merupakan titik perpotongan garis-garis tersebut, jika titik perpotongan ada. Tiga kemungkinan utama adalah satu penyelesaian, tidak ada penyelesaian, atau tak hingga banyak penyelesaian.
 
@@ -536,7 +536,7 @@ Metode eliminasi menghilangkan satu variabel melalui penjumlahan atau penguranga
 
 Model matematika membantu menyelesaikan persoalan sehari-hari. Misalnya, dua jenis tiket memiliki harga berbeda dan jumlah penjualan diketahui. Dengan mendefinisikan variabel, menyusun persamaan, dan memeriksa satuan, jumlah masing-masing tiket dapat dihitung. Tantangan utamanya sering bukan manipulasi simbol, melainkan menerjemahkan cerita menjadi hubungan matematika yang tepat.
 
-BAB 14 — PERTIDAKSAMAAN DAN DAERAH PENYELESAIAN
+BAB 28 — PERTIDAKSAMAAN DAN DAERAH PENYELESAIAN
 
 Pertidaksamaan menyatakan bahwa satu nilai lebih besar, lebih kecil, atau tidak sama dengan nilai lain. Simbol yang umum adalah lebih besar dari, lebih kecil dari, lebih besar atau sama dengan, dan lebih kecil atau sama dengan. Ketika kedua ruas pertidaksamaan dikalikan atau dibagi dengan bilangan negatif, arah tanda harus dibalik. Aturan ini berasal dari sifat urutan bilangan pada garis bilangan.
 
@@ -546,7 +546,7 @@ Pada dua variabel, pertidaksamaan linear membentuk setengah bidang pada bidang k
 
 Konsep daerah penyelesaian digunakan dalam optimasi sederhana. Sebuah usaha mungkin memiliki keterbatasan bahan, waktu, atau kapasitas. Batas-batas itu dapat ditulis sebagai pertidaksamaan. Fungsi tujuan kemudian digunakan untuk mencari nilai terbaik di dalam daerah yang memenuhi semua batas. Dalam model linear dua variabel, titik pojok daerah layak menjadi kandidat penting untuk diperiksa.
 
-BAB 15 — FUNGSI KUADRAT
+BAB 29 — FUNGSI KUADRAT
 
 Fungsi kuadrat memiliki bentuk umum f(x) = ax² + bx + c dengan a tidak sama dengan nol. Grafiknya berupa parabola. Jika a positif, parabola terbuka ke atas dan memiliki titik minimum. Jika a negatif, parabola terbuka ke bawah dan memiliki titik maksimum. Bentuk grafik dipengaruhi nilai a, b, dan c.
 
@@ -556,7 +556,7 @@ Contoh: f(x) = x² - 5x + 6 dapat difaktorkan menjadi (x - 2)(x - 3). Akar-akarn
 
 Fungsi kuadrat dapat memodelkan lintasan ideal suatu benda, luas maksimum, atau hubungan biaya dan pendapatan dalam kondisi tertentu. Model harus digunakan dengan hati-hati: asumsi yang menyederhanakan situasi perlu disebutkan, dan hasil matematika tidak otomatis menggambarkan seluruh kompleksitas dunia nyata.
 
-BAB 16 — BARISAN DAN DERET
+BAB 30 — BARISAN DAN DERET
 
 Barisan adalah urutan bilangan yang mengikuti pola tertentu. Barisan aritmetika memiliki beda tetap antara suku berurutan. Jika suku pertama a dan beda d, suku ke-n adalah Un = a + (n - 1)d. Jumlah n suku pertama adalah Sn = n/2 × (2a + (n - 1)d).
 
@@ -564,7 +564,7 @@ Barisan geometri memiliki rasio tetap antara suku berurutan. Jika suku pertama a
 
 Contoh aritmetika: tabungan bertambah dengan jumlah tetap setiap minggu. Contoh geometri: jumlah bakteri dalam model ideal dapat berlipat pada interval tertentu. Model geometri tidak boleh dianggap berlaku tanpa batas karena sumber daya, lingkungan, dan faktor biologis membatasi pertumbuhan nyata.
 
-BAB 17 — STRATEGI MEMECAHKAN SOAL
+BAB 31 — STRATEGI MEMECAHKAN SOAL
 
 Penyelesaian soal matematika yang baik dimulai dengan membaca pertanyaan secara teliti. Tuliskan informasi yang diketahui, tentukan apa yang dicari, pilih konsep yang sesuai, lalu kerjakan langkah demi langkah. Periksa satuan dan tanda operasi. Setelah memperoleh hasil, tanyakan apakah nilainya masuk akal dalam konteks.
 

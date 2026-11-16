@@ -171,3 +171,37 @@ Evaluasi: Penilaian berdasarkan kriteria dan bukti.
 
 CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.
+PENDALAMAN MATERI ILMIAH
+
+BAB 6. ENZIM DAN PENGATURAN REAKSI
+Enzim adalah molekul biologis, umumnya protein, yang mempercepat reaksi dengan menurunkan energi aktivasi. Enzim memiliki sisi aktif yang berinteraksi dengan substrat. Model kunci-gembok memberi gambaran awal, sedangkan model penyesuaian terinduksi menjelaskan perubahan bentuk enzim ketika substrat berikatan. Aktivitas enzim dipengaruhi suhu, pH, konsentrasi substrat, dan keberadaan inhibitor. Suhu terlalu tinggi dapat mengubah struktur protein sehingga fungsi menurun. Enzim tidak habis dalam reaksi, tetapi dapat mengalami perubahan aktivitas dan memerlukan kondisi yang sesuai. Setiap enzim memiliki kondisi kerja yang berbeda; jangan menganggap satu nilai pH atau suhu cocok bagi semuanya.
+
+BAB 7. KARBOHIDRAT, LIPID, DAN PROTEIN
+Karbohidrat berperan sebagai sumber energi dan juga bagian struktur pada sejumlah organisme. Lipid mencakup trigliserida, fosfolipid, dan molekul lain dengan fungsi penyimpanan energi serta pembentukan membran. Protein tersusun dari asam amino dan menjalankan fungsi struktural, transportasi, pengaturan, serta katalisis. Struktur molekul menentukan sifat dan fungsinya. Perubahan urutan asam amino dapat memengaruhi pelipatan protein, tetapi dampaknya bergantung pada lokasi dan konteks. Tidak tepat menyebut satu kelompok zat gizi sebagai satu-satunya sumber energi atau menganggap semua lemak memiliki sifat yang sama.
+
+BAB 8. ATP DAN METABOLISME ENERGI
+ATP merupakan molekul yang digunakan sel untuk menghubungkan reaksi yang melepaskan energi dengan proses yang memerlukan energi. ATP dapat diubah menjadi ADP dan fosfat, lalu dibentuk kembali melalui jalur metabolisme. Respirasi sel menguraikan molekul organik dan memindahkan energi melalui rangkaian reaksi. Glikolisis berlangsung di sitoplasma, sedangkan tahap respirasi aerob berikutnya terutama berlangsung di mitokondria pada sel eukariotik. Oksigen berperan sebagai penerima elektron akhir dalam rantai transpor elektron aerob. Jalur metabolisme saling terhubung dan diatur sesuai kebutuhan sel, bukan sekadar urutan reaksi yang selalu berjalan dengan laju sama.
+
+BAB 9. MEMBRAN DAN TRANSPOR MOLEKUL
+Membran sel tersusun terutama dari lapisan ganda fosfolipid dengan protein dan komponen lain. Struktur ini membatasi bagian dalam sel sekaligus memungkinkan pertukaran zat secara selektif. Difusi merupakan perpindahan bersih partikel mengikuti gradien konsentrasi. Osmosis adalah perpindahan air melalui membran selektif. Transpor aktif memerlukan energi untuk memindahkan zat melawan gradien elektrokimia. Protein kanal dan pembawa membantu molekul tertentu melewati membran. Keseimbangan ion dan air penting untuk fungsi sel, sehingga gangguan transpor dapat berdampak luas.
+
+BAB 10. BIOKIMIA, KESEHATAN, DAN PENELITIAN
+Biokimia membantu menjelaskan proses pencernaan, kerja hormon, metabolisme obat, dan perubahan sel. Namun, hasil laboratorium harus ditafsirkan berdasarkan metode, rentang rujukan, kondisi pengambilan sampel, serta konteks individu. Satu angka tidak cukup untuk membuat diagnosis. Penelitian biokimia memerlukan kontrol, pengulangan, pencatatan prosedur, dan perlindungan keselamatan. Sampel biologis perlu ditangani sesuai standar dan tidak boleh digunakan tanpa izin yang sesuai. Klaim kesehatan yang menggunakan istilah biokimia belum tentu benar; periksa bukti penelitian dan kualitas sumber.
+
+STUDI KASUS
+Sebuah percobaan kelas membandingkan aktivitas enzim pada dua suhu. Kelompok hanya melakukan satu pengukuran untuk tiap kondisi dan tidak mengontrol jumlah substrat. Hasilnya belum cukup untuk menyimpulkan pengaruh suhu. Percobaan perlu mengendalikan variabel lain, melakukan pengulangan, dan melaporkan variasi data.
+
+LATIHAN DAN PEMBAHASAN
+1. Apa fungsi enzim? Mempercepat reaksi dengan menurunkan energi aktivasi.
+2. Mengapa suhu ekstrem dapat menurunkan aktivitas enzim? Karena struktur tiga dimensi enzim dapat berubah.
+3. Sebutkan tiga fungsi protein: katalisis, struktur, transportasi, dan pengaturan.
+4. Apa peran ATP? Menghubungkan reaksi pelepas energi dengan proses yang memerlukan energi.
+5. Mengapa hasil laboratorium tidak boleh ditafsirkan sendiri tanpa konteks? Karena metode, rentang rujukan, kondisi sampel, dan keadaan individu memengaruhi makna hasil.
+
+GLOSARIUM
+ATP: molekul pembawa energi yang digunakan sel.
+Enzim: katalis biologis.
+Fosfolipid: molekul lipid utama penyusun membran sel.
+Metabolisme: keseluruhan reaksi kimia dalam organisme.
+Osmosis: perpindahan air melalui membran selektif.
+Substrat: molekul yang bekerja pada enzim.

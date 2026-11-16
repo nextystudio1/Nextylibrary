@@ -31,11 +31,6 @@ Daya menyatakan laju penggunaan atau pemindahan energi. Satuan daya adalah watt,
 
 Sebagai latihan hitung, perangkat 100 watt yang digunakan selama 5 jam memakai 500 watt-jam atau 0,5 kilowatt-jam. Perhitungan ini membantu memperkirakan konsumsi, tetapi tagihan sebenarnya juga dipengaruhi tarif, biaya lain, dan cara pencatatan meter.
 
-RANGKUMAN BAB
-- Pahami konsep inti dan konteks penerapannya.
-- Periksa asumsi sebelum mengambil kesimpulan.
-- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
-
 LATIHAN BAB 2
 1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
 2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
@@ -47,11 +42,6 @@ BAB 3. MEMBACA LABEL PERANGKAT
 Label perangkat dapat memuat tegangan, daya, frekuensi, arus, dan informasi keselamatan. Periksa kesesuaian spesifikasi dengan sumber listrik dan petunjuk produsen. Jangan menganggap semua adaptor atau kabel dapat dipertukarkan hanya karena bentuk konektornya mirip.
 
 Bandingkan konsumsi energi beberapa perangkat dengan memperhatikan daya dan lama pemakaian. Perangkat berdaya besar yang digunakan sebentar belum tentu memakai energi lebih banyak daripada perangkat kecil yang menyala sepanjang hari.
-
-RANGKUMAN BAB
-- Pahami konsep inti dan konteks penerapannya.
-- Periksa asumsi sebelum mengambil kesimpulan.
-- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
 
 LATIHAN BAB 3
 1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
@@ -65,11 +55,6 @@ Efisiensi berarti memperoleh layanan yang sama dengan penggunaan energi lebih se
 
 Catat pemakaian listrik selama beberapa periode dan cari perubahan yang masuk akal. Hindari menyimpulkan keberhasilan hanya dari satu angka karena cuaca, jumlah penghuni, dan aktivitas dapat berubah.
 
-RANGKUMAN BAB
-- Pahami konsep inti dan konteks penerapannya.
-- Periksa asumsi sebelum mengambil kesimpulan.
-- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
-
 LATIHAN BAB 4
 1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
 2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
@@ -82,11 +67,6 @@ Listrik dapat dihasilkan dari berbagai sumber seperti batu bara, gas, air, panas
 
 Energi terbarukan dapat mengurangi ketergantungan pada bahan bakar fosil, tetapi juga memerlukan perencanaan jaringan dan penyimpanan. Tidak ada sumber energi yang bebas dari seluruh dampak; tujuan kebijakan adalah memilih kombinasi yang aman dan berkelanjutan.
 
-RANGKUMAN BAB
-- Pahami konsep inti dan konteks penerapannya.
-- Periksa asumsi sebelum mengambil kesimpulan.
-- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
-
 LATIHAN BAB 5
 1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
 2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
@@ -98,11 +78,6 @@ BAB 6. KESELAMATAN LISTRIK
 Listrik dapat menyebabkan bahaya jika instalasi rusak, basah, kelebihan beban, atau digunakan tidak sesuai petunjuk. Jangan membuka panel listrik, memperbaiki kabel, atau menyentuh bagian bertegangan. Jauhkan peralatan listrik dari air dan laporkan kerusakan kepada orang dewasa atau teknisi yang kompeten.
 
 Jika tercium bau terbakar, terlihat percikan, atau perangkat menjadi sangat panas, hentikan penggunaan dari posisi aman dan minta bantuan. Jangan menyiram perangkat listrik dengan air. Keselamatan lebih penting daripada mencoba memperbaiki sendiri.
-
-RANGKUMAN BAB
-- Pahami konsep inti dan konteks penerapannya.
-- Periksa asumsi sebelum mengambil kesimpulan.
-- Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
 
 LATIHAN BAB 6
 1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.

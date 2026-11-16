@@ -6,7 +6,7 @@ DESKRIPSI
 Belajar merancang pengumpulan data, merangkum angka, membaca variasi, dan menafsirkan hasil.
 
 PETA BELAJAR
-Buku ini membangun pemahaman bertahap: mulai dari istilah, prinsip, contoh, penerapan, hingga evaluasi. Bacalah bab secara berurutan dan tuliskan pertanyaan yang muncul.
+Mulailah dengan merumuskan pertanyaan statistik, lalu tentukan populasi dan variabel yang relevan. Setelah itu pelajari cara mengumpulkan data, merangkum distribusi, memperkirakan ketidakpastian, dan mengomunikasikan hasil. Setiap metode harus dipilih berdasarkan jenis data dan tujuan analisis.
 
 BAB 1. STATISTIK DAN PERTANYAAN PENELITIAN
 
@@ -19,24 +19,24 @@ CONTOH KAJIAN
 Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
 
 LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
-2. Kumpulkan informasi dari sumber yang dapat diperiksa.
-3. Kelompokkan fakta, pendapat, dan dugaan.
-4. Terapkan konsep bab ini untuk menyusun penjelasan.
-5. Periksa apakah kesimpulan sesuai bukti.
+1. Tentukan populasi dan unit analisis.
+2. Definisikan variabel serta satuannya.
+3. Pilih cara sampling dan pengukuran.
+4. Periksa data hilang, nilai tidak wajar, dan konsistensi pencatatan.
+5. Pilih ringkasan atau model yang sesuai dengan pertanyaan.
 
 RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
-- Pahami proses, bukan hanya menghafal nama.
-- Gunakan contoh relevan dan jelaskan konteksnya.
-- Sebutkan keterbatasan informasi ketika bukti belum cukup.
+- Pertanyaan penelitian menentukan desain pengumpulan data.
+- Keterwakilan sampel lebih penting daripada ukuran sampel semata.
+- Statistik deskriptif perlu memperlihatkan pusat dan variasi.
+- Kesimpulan harus mempertimbangkan bias dan ketidakpastian.
 
 LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
-3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
-4. Buat satu pertanyaan lanjutan yang dapat diteliti.
-5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
+1. Tentukan apakah variabel yang diberikan bersifat kategorik atau numerik.
+2. Pilih ukuran pusat yang sesuai untuk data dengan pencilan.
+3. Jelaskan bagaimana sampel sukarela dapat menimbulkan bias.
+4. Buat grafik yang sesuai untuk membandingkan dua kategori.
+5. Tuliskan satu batasan yang harus dicantumkan dalam laporan statistik.
 
 BAB 2. POPULASI DAN SAMPEL
 
@@ -69,7 +69,7 @@ EVALUASI AKHIR
 5. Tulis refleksi tentang hal yang berubah dari pemahaman awalmu.
 
 PEDOMAN PENILAIAN
-Penilaian menggunakan empat kriteria: ketepatan konsep, kualitas bukti, kejelasan penalaran, dan kemampuan menyampaikan keterbatasan. Jawaban tidak harus sama persis dengan contoh selama argumennya konsisten dan didukung informasi yang tepat.
+Penilaian memperhatikan ketepatan pemilihan metode, transparansi pengolahan data, ketepatan perhitungan, kejelasan visualisasi, serta kehati-hatian dalam menafsirkan hasil. Kesalahan perhitungan perlu diperbaiki dengan menunjukkan langkahnya; kesimpulan yang mengakui keterbatasan lebih baik daripada klaim berlebihan.
 
 GLOSARIUM
 Populasi: Seluruh kelompok sasaran penelitian.
@@ -79,7 +79,7 @@ Median: Nilai tengah setelah data diurutkan.
 Korelasi: Ukuran hubungan antara variabel.
 
 CATATAN SUMBER DAN PENGEMBANGAN
-Buku ini merupakan materi pengantar orisinal. Untuk tugas akademik atau keputusan praktis, bandingkan penjelasan dengan buku ajar, standar, peraturan, dan publikasi lembaga yang kompeten. Catat judul sumber, penulis atau lembaga, tahun terbit, dan bagian yang digunakan. Periksa tanggal sumber pada topik yang dapat berubah.
+Naskah ini disusun sebagai materi statistik terapan orisinal Nexty Studio. Pengembangan lanjutan sebaiknya membandingkan definisi dan metode dengan buku statistik, dokumentasi perangkat analisis, serta publikasi metodologi yang kredibel. Catat versi perangkat, definisi variabel, metode sampling, dan tanggal data agar analisis dapat ditinjau ulang.
 
 BAB LANJUTAN: DESAIN SURVEI DAN INTERPRETASI DATA
 

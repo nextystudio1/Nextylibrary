@@ -135,3 +135,37 @@ Keberlanjutan: Kemampuan menjaga keseimbangan kebutuhan lintas generasi.
 
 SARAN BELAJAR
 Gunakan buku ini sebagai pengantar. Cocokkan informasi dengan buku ajar dan publikasi lembaga yang kompeten, terutama untuk topik yang berkembang. Catat sumber, penulis atau lembaga, tahun, dan bagian yang digunakan ketika memperluas bacaan.
+
+PENDALAMAN MATERI
+
+BAB 6. EKSTERNALITAS DAN BARANG PUBLIK
+Eksternalitas terjadi ketika kegiatan ekonomi menimbulkan dampak bagi pihak lain yang tidak sepenuhnya tercermin dalam harga. Polusi udara dari kegiatan produksi merupakan contoh eksternalitas negatif, sedangkan penanaman pohon yang memberi manfaat bagi lingkungan sekitar dapat menjadi eksternalitas positif. Barang publik memiliki sifat sulit mengecualikan pengguna dan penggunaan oleh satu orang tidak selalu mengurangi manfaat bagi orang lain. Udara bersih dan sistem peringatan bencana memiliki karakteristik barang publik dalam banyak konteks. Karena pasar tidak selalu memasukkan seluruh biaya dan manfaat sosial, kebijakan publik dapat diperlukan. Instrumen kebijakan mencakup standar, pajak, insentif, dan sistem kuota yang dirancang sesuai bukti serta kondisi lokal.
+
+BAB 7. SUMBER DAYA TERBARUKAN DAN TAK TERBARUKAN
+Sumber daya terbarukan dapat pulih melalui proses alam jika laju pemanfaatan tidak melampaui kemampuan regenerasi. Hutan, perikanan, dan air tanah dapat mengalami penurunan jika digunakan melebihi kapasitas pulihnya. Sumber daya tak terbarukan terbentuk dalam skala waktu geologis sehingga persediaannya terbatas pada skala kehidupan manusia. Pengelolaan yang baik memperhitungkan stok, laju pemulihan, kebutuhan masyarakat, dampak ekologis, dan pilihan pengganti. Label “terbarukan” bukan berarti bebas batas. Hutan yang ditebang lebih cepat daripada tumbuh kembali tetap dapat mengalami kerusakan.
+
+BAB 8. EKONOMI SIRKULAR DAN PENGELOLAAN LIMBAH
+Ekonomi sirkular berupaya mempertahankan nilai bahan dan produk melalui desain tahan lama, perawatan, penggunaan ulang, perbaikan, dan daur ulang. Pendekatan ini berbeda dari pola linear ambil-produksi-buang. Daur ulang bermanfaat, tetapi membutuhkan energi, pemilahan, teknologi, dan pasar bahan sekunder. Pencegahan limbah dan penggunaan produk lebih lama sering lebih efektif daripada mengandalkan daur ulang setelah barang menjadi sampah. Analisis harus melihat seluruh siklus hidup, sebab solusi yang tampak ramah lingkungan pada satu tahap dapat memindahkan beban ke tahap lain.
+
+BAB 9. KEBIJAKAN IKLIM DAN TRANSISI ENERGI
+Perubahan iklim menimbulkan biaya ekonomi melalui risiko terhadap pertanian, kesehatan, infrastruktur, dan wilayah pesisir. Mitigasi berupaya mengurangi sumber emisi atau meningkatkan penyerapannya, sedangkan adaptasi mengurangi kerentanan terhadap dampak yang sudah terjadi atau diperkirakan. Transisi energi mencakup efisiensi, energi rendah emisi, jaringan, penyimpanan, dan akses yang adil. Kebijakan perlu memperhatikan pekerja, rumah tangga berpendapatan rendah, dan wilayah yang bergantung pada industri tertentu. Tidak ada satu teknologi yang menyelesaikan semua masalah; kombinasi kebijakan harus dinilai berdasarkan biaya, manfaat, keandalan, dan dampak sosial.
+
+BAB 10. MENILAI KEBIJAKAN LINGKUNGAN
+Evaluasi kebijakan membandingkan kondisi sebelum dan sesudah intervensi serta mempertimbangkan apa yang mungkin terjadi tanpa kebijakan. Indikator dapat mencakup kualitas air, emisi, kesehatan, pendapatan, dan akses layanan. Data perlu memiliki definisi, periode, dan metode yang konsisten. Korelasi tidak otomatis menunjukkan sebab-akibat; perubahan dapat dipengaruhi cuaca, harga, atau kebijakan lain. Analisis biaya-manfaat membantu menyusun pilihan, tetapi nilai budaya, keadilan antargenerasi, dan kerusakan yang sulit dipulihkan juga perlu diperhatikan. Keputusan yang baik menjelaskan asumsi dan ketidakpastian, bukan menyembunyikannya.
+
+STUDI KASUS
+Sebuah kota mengenakan biaya pengelolaan sampah dan menyediakan pemilahan. Keberhasilan tidak cukup diukur dari jumlah sampah yang terkumpul. Kota perlu memeriksa apakah sampah yang dibuang sembarangan berkurang, tingkat daur ulang meningkat, biaya rumah tangga tetap terjangkau, dan pekerja pengelola mendapat perlindungan. Kebijakan dapat diperbaiki jika beban biaya tidak adil atau fasilitas pemilahan sulit dijangkau.
+
+LATIHAN DAN PEMBAHASAN
+1. Jelaskan eksternalitas negatif dengan contoh pencemaran udara.
+2. Mengapa sumber daya terbarukan tetap dapat habis atau rusak?
+3. Susun urutan prioritas pengelolaan sampah dan jelaskan alasannya.
+4. Bedakan mitigasi dan adaptasi perubahan iklim.
+5. Mengapa evaluasi kebijakan perlu membandingkan kondisi tanpa kebijakan?
+
+GLOSARIUM
+Adaptasi: penyesuaian untuk mengurangi dampak perubahan iklim.
+Daur ulang: pengolahan bahan bekas menjadi bahan atau produk baru.
+Eksternalitas: dampak kegiatan ekonomi pada pihak lain di luar transaksi.
+Mitigasi: upaya mengurangi penyebab perubahan iklim.
+Barang publik: barang dengan sifat non-eksklusif dan non-rival dalam konteks tertentu.

@@ -434,3 +434,51 @@ Buat perbandingan fiktif dua paket layanan selama enam bulan. Masukkan biaya awa
 
 GLOSARIUM TAMBAHAN
 Inflasi: kenaikan tingkat harga umum. Bunga majemuk: bunga yang dihitung atas pokok dan bunga sebelumnya. Biaya total: seluruh biaya yang dibayar dalam periode tertentu.
+
+BAB PENGAYAAN — MENYUSUN ANGGARAN YANG REALISTIS
+
+Anggaran adalah rencana penggunaan uang dalam periode tertentu. Anggaran sederhana mencatat pemasukan, pengeluaran tetap, pengeluaran berubah, tabungan, dan tujuan keuangan. Catatan sebaiknya dibuat berdasarkan transaksi nyata agar perkiraan tidak terlalu jauh dari kebiasaan sebenarnya.
+
+Pengeluaran tetap relatif rutin, seperti biaya langganan atau transportasi tertentu. Pengeluaran variabel berubah sesuai kebutuhan, seperti makanan, perlengkapan, dan kegiatan. Pengeluaran tidak terduga perlu disiapkan melalui ruang cadangan. Jika total rencana melebihi pemasukan, tinjau kembali prioritas dan cari penyesuaian yang realistis.
+
+Anggaran bukan alat untuk menghakimi diri. Fungsinya membantu melihat pilihan dan konsekuensi. Tinjau secara berkala karena kebutuhan, pemasukan, dan tujuan dapat berubah. Pisahkan kebutuhan penting, keinginan, dan tujuan jangka panjang tanpa menganggap semua kesenangan harus dihapus.
+
+BAB PENGAYAAN — DANA DARURAT DAN PERLINDUNGAN RISIKO
+
+Dana darurat adalah simpanan yang disiapkan untuk pengeluaran mendadak atau gangguan pemasukan. Besarnya bergantung pada kondisi keluarga, kestabilan pendapatan, tanggungan, dan akses terhadap dukungan lain. Dana ini perlu mudah diakses dan tidak sebaiknya ditempatkan seluruhnya pada aset yang nilainya mudah berubah.
+
+Asuransi adalah mekanisme pemindahan sebagian risiko ke perusahaan asuransi dengan membayar premi sesuai perjanjian. Polis perlu dibaca untuk memahami manfaat, pengecualian, batas pertanggungan, masa tunggu, dan prosedur klaim. Asuransi bukan tabungan biasa dan tidak semua kerugian otomatis ditanggung.
+
+BAB PENGAYAAN — UTANG DAN BIAYA PINJAMAN
+
+Utang dapat membantu memenuhi kebutuhan tertentu atau membiayai aset produktif, tetapi menimbulkan kewajiban pembayaran. Sebelum meminjam, periksa jumlah pokok, bunga, biaya administrasi, denda, jadwal cicilan, dan total pembayaran. Angsuran yang tampak kecil dapat menjadi mahal jika jangka waktu sangat panjang atau biaya tambahan tinggi.
+
+Hindari meminjam untuk membayar utang lain tanpa rencana yang jelas. Jangan memberikan kode OTP, PIN, atau akses kontak kepada pihak yang menawarkan pinjaman. Periksa legalitas penyedia melalui kanal resmi regulator. Jika mengalami kesulitan pembayaran, hubungi pemberi pinjaman melalui saluran resmi dan cari bantuan yang tepercaya.
+
+BAB PENGAYAAN — MENETAPKAN TUJUAN KEUANGAN
+
+Tujuan keuangan sebaiknya spesifik, memiliki jumlah atau hasil yang jelas, dan memiliki jangka waktu. Tujuan jangka pendek dapat berupa membeli perlengkapan sekolah; tujuan jangka panjang dapat berupa pendidikan atau kebutuhan keluarga. Pisahkan dana untuk tujuan berbeda agar penggunaan uang lebih terarah.
+
+Inflasi dapat mengurangi daya beli tabungan dalam jangka panjang. Namun mengejar hasil tinggi tanpa memahami risiko juga dapat merugikan. Pilih instrumen berdasarkan jangka waktu, kebutuhan likuiditas, biaya, dan tingkat risiko yang dapat dipahami. Tidak ada produk yang cocok untuk semua orang.
+
+LATIHAN
+1. Apa saja komponen dasar anggaran?
+2. Mengapa dana darurat perlu mudah diakses?
+3. Sebutkan empat hal yang harus diperiksa sebelum mengambil pinjaman.
+4. Apa perbedaan tabungan dan asuransi?
+5. Mengapa tujuan keuangan perlu memiliki jangka waktu?
+
+KUNCI PEMBAHASAN
+1. Pemasukan, pengeluaran, tabungan/tujuan, dan cadangan.
+2. Karena dana digunakan saat kebutuhan mendadak muncul.
+3. Pokok, bunga, biaya, denda, jadwal, dan total pembayaran.
+4. Tabungan menyimpan dana; asuransi memindahkan sebagian risiko sesuai polis.
+5. Jangka waktu membantu menentukan jumlah yang perlu disisihkan dan jenis produk yang sesuai.
+
+GLOSARIUM TAMBAHAN
+Anggaran: rencana pemasukan dan pengeluaran.
+Dana darurat: simpanan untuk kebutuhan mendadak.
+Premi: pembayaran untuk memperoleh perlindungan asuransi.
+Polis: dokumen yang menjelaskan perjanjian asuransi.
+Pokok pinjaman: jumlah dana yang dipinjam sebelum bunga dan biaya.
+Likuiditas: kemudahan mengakses atau mengubah aset menjadi uang.

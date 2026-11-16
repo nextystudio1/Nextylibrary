@@ -10,7 +10,7 @@ Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan hubungan DNA,
 
 BAB 1. INFORMASI GENETIK
 
-Makhluk hidup menyimpan informasi biologis dalam materi genetik. Pada banyak organisme, DNA membawa instruksi yang digunakan sel untuk membentuk RNA dan protein. Gen merupakan bagian DNA yang berperan dalam fungsi tertentu. Tidak semua sifat ditentukan oleh satu gen; banyak sifat dipengaruhi banyak gen dan lingkungan.
+Informasi genetik tersimpan dalam molekul DNA pada hampir semua organisme. DNA tersusun atas nukleotida dengan empat jenis basa: adenin, timin, guanin, dan sitosin. Urutan basa menyimpan informasi biologis. Pada proses ekspresi gen, bagian DNA ditranskripsikan menjadi RNA; pada banyak gen, RNA kemudian menjadi cetakan untuk menyusun protein. Gen adalah segmen DNA yang memiliki produk fungsional, sedangkan kromosom merupakan struktur DNA dan protein yang mengemas materi genetik. Jumlah dan susunan kromosom berbeda antarspesies.
 
 CONTOH PENERAPAN
 Contoh kajian: pilih kasus sederhana yang berkaitan dengan INFORMASI GENETIK dalam bidang Genetika dan Pewarisan Sifat. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
@@ -48,7 +48,6 @@ BAB 6. ETIKA DAN MASA DEPAN GENETIKA
 
 Teknologi genetika dapat membantu penelitian dan bidang kesehatan, tetapi menimbulkan pertanyaan tentang privasi, persetujuan, keadilan, dan potensi diskriminasi. Informasi genetik bersifat pribadi dan dapat berkaitan dengan anggota keluarga. Penggunaan data harus transparan, aman, dan sesuai aturan.
 
-EVALUASI AKHIR
 EVALUASI AKHIR
 1. Jelaskan hubungan DNA, gen, kromosom, dan protein.
 2. Bedakan alel, genotipe, dan fenotipe.

@@ -25,13 +25,6 @@ LATIHAN
 4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
 5. Bukti apa yang dapat memperkuat jawabanmu?
 
-LATIHAN
-1. Apa konsep utama dalam FUNGSI DAN PERUBAHAN?
-2. Bagaimana hubungan konsep tersebut dengan bagian lain dalam buku?
-3. Berikan penerapan baru dan jelaskan langkah berpikirmu.
-4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
-5. Bukti apa yang dapat memperkuat jawabanmu?
-
 BAB 2. GAGASAN LIMIT
 
 Limit menjelaskan nilai yang didekati fungsi ketika variabel mendekati suatu titik. Limit tidak selalu sama dengan nilai fungsi tepat di titik tersebut. Konsep ini menjadi dasar untuk memahami kontinuitas dan turunan. Penalaran limit membantu menjelaskan perubahan lokal tanpa harus menganggap perubahan terjadi secara diskret.

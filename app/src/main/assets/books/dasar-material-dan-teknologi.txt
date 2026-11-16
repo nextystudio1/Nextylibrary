@@ -6,7 +6,7 @@ DESKRIPSI
 Mengenal sifat logam, polimer, keramik, komposit, pengujian, dan pemilihan material.
 
 PENDAHULUAN
-Buku Dasar Material dan Teknologi membahas mengenal sifat logam, polimer, keramik, komposit, pengujian, dan pemilihan material.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini menguraikan hubungan struktur, proses pembuatan, dan sifat material. Pembahasan meliputi logam, polimer, keramik, komposit, metode pengujian, pemilihan bahan, serta pertimbangan umur pakai dan dampak lingkungan.
 
 BAB 1. STRUKTUR DAN SIFAT MATERIAL
 
@@ -49,11 +49,12 @@ PROYEK TERPADU
 Buat kajian mini untuk Dasar Material dan Teknologi dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari PENGUJIAN DAN KEBERLANJUTAN dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Dasar Material dan Teknologi.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+EVALUASI AKHIR
+1. Jelaskan hubungan struktur mikro dengan sifat mekanik suatu material.
+2. Bandingkan karakter umum logam, polimer, keramik, dan komposit.
+3. Mengapa hasil pengujian harus disertai metode dan kondisi pengukuran?
+4. Jelaskan penyebab umum korosi dan prinsip perlindungan material.
+5. Pilih material untuk satu penggunaan dan jelaskan kompromi biaya, kinerja, keselamatan, serta keberlanjutannya.
 
 PEDOMAN PENILAIAN
 Nilai pemahaman Dasar Material dan Teknologi berdasarkan ketepatan konsep, kecocokan metode, mutu bukti, dan kemampuan menerapkan materi. Jawaban harus menunjukkan alasan yang dapat diperiksa serta menyebutkan keterbatasan informasi bila ada.

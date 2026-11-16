@@ -13,7 +13,7 @@ BAB 1. GETARAN DAN GELOMBANG
 Getaran adalah gerak bolak-balik di sekitar posisi keseimbangan. Gelombang membawa energi dari satu tempat ke tempat lain tanpa memindahkan materi secara keseluruhan. Besaran penting meliputi amplitudo, periode, frekuensi, panjang gelombang, dan cepat rambat.
 
 CONTOH PENERAPAN
-Contoh kajian: pilih kasus sederhana yang berkaitan dengan GETARAN DAN GELOMBANG dalam bidang Gelombang, Bunyi, dan Cahaya. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
+Amati riak pada permukaan air dalam wadah dangkal dengan gangguan kecil yang aman. Bedakan arah rambat gelombang dari gerak partikel air, lalu jelaskan amplitudo, panjang gelombang, dan frekuensi secara kualitatif. Hindari menyimpulkan kecepatan tanpa pengukuran jarak dan waktu yang memadai.
 
 RANGKUMAN
 - GETARAN DAN GELOMBANG: pahami istilah dan prinsip yang menjadi dasar pembahasan.

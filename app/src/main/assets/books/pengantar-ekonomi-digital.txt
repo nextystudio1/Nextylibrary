@@ -104,3 +104,30 @@ Jumlah unduhan atau pengguna aktif tidak cukup. Ukur juga retensi yang sehat, ke
 
 LATIHAN
 Analisis sebuah layanan digital yang dikenal luas. Gambarkan kelompok pengguna, sumber pendapatan, data yang dibutuhkan, risiko, cara melindungi konsumen, dan tiga indikator keberhasilan yang lebih bermakna daripada jumlah pengguna.
+
+BAB LANJUTAN: EKONOMI DATA DAN EFEK JARINGAN
+
+Platform dapat memiliki efek jaringan langsung ketika manfaat meningkat bersama jumlah pengguna sejenis, atau efek tidak langsung ketika bertambahnya satu kelompok menarik kelompok lain. Efek ini dapat mempercepat pertumbuhan, tetapi juga menciptakan hambatan masuk bagi pesaing. Analisis persaingan perlu memeriksa kemampuan pengguna berpindah, interoperabilitas, biaya multi-homing, dan kendali platform atas akses pasar.
+
+Data dapat menjadi masukan produksi, alat personalisasi, dan sumber keunggulan. Nilainya bergantung pada kualitas, izin penggunaan, konteks, dan kemampuan mengubahnya menjadi layanan. Pengumpulan data lebih banyak tidak otomatis menghasilkan keputusan lebih baik jika data bias atau tujuan tidak jelas.
+
+BAB LANJUTAN: MODEL BISNIS DAN PENDAPATAN DIGITAL
+
+Model bisnis digital dapat memperoleh pendapatan dari transaksi, langganan, iklan, komisi, lisensi, atau layanan tambahan. Setiap model mengatur insentif yang berbeda. Layanan gratis bagi pengguna dapat dibiayai melalui iklan atau pemanfaatan data; karena itu, transparansi tentang sumber pendapatan dan penggunaan informasi penting.
+
+Analisis unit ekonomi melihat biaya untuk memperoleh dan melayani pengguna, pendapatan rata-rata, tingkat retensi, dan biaya dukungan. Angka pertumbuhan pengguna tidak cukup untuk membuktikan keberlanjutan. Periksa pula biaya akuisisi, ketergantungan promosi, pengembalian dana, dan kualitas layanan.
+
+BAB LANJUTAN: PEMBAYARAN, KEAMANAN, DAN PERLINDUNGAN KONSUMEN
+
+Pembayaran digital melibatkan pengguna, penyedia layanan, lembaga keuangan, jaringan pemrosesan, dan pedagang. Biaya dapat muncul sebagai biaya transaksi, konversi, layanan, atau keterlambatan. Pengguna perlu memahami total biaya, ketentuan pengembalian, serta mekanisme pengaduan.
+
+Keamanan memerlukan autentikasi, perlindungan perangkat, pembaruan, dan kewaspadaan terhadap pesan palsu. Jangan membagikan kode rahasia atau kredensial. Platform harus menjelaskan proses sengketa, pembatalan, dan penanganan insiden dengan bahasa yang dapat dipahami.
+
+BAB LANJUTAN: ALGORITMA, REPUTASI, DAN KETIMPANGAN PASAR
+
+Sistem rekomendasi dan peringkat memengaruhi apa yang dilihat pengguna. Sinyal seperti ulasan, kecepatan pengiriman, harga, dan riwayat interaksi dapat digunakan dengan bobot berbeda. Jika mekanisme tidak transparan, pelaku usaha sulit memahami penurunan jangkauan atau memperbaiki layanan.
+
+Ulasan dapat membantu keputusan tetapi rentan manipulasi, konflik kepentingan, dan bias seleksi. Platform perlu menyediakan moderasi yang konsisten, proses banding, dan penjelasan tentang konten berbayar atau promosi.
+
+STUDI KASUS
+Bandingkan dua platform pada kategori layanan yang sama. Petakan kelompok pengguna, sumber pendapatan, biaya, aturan peringkat, perlindungan konsumen, dan pilihan untuk keluar. Gunakan informasi publik dan jelaskan keterbatasan analisis.

@@ -6,33 +6,44 @@ DESKRIPSI
 Mengenal kebutuhan pengguna, fungsi, bentuk, prototipe, bahan, pengujian, dan keberlanjutan produk.
 
 PETA BELAJAR
-Buku ini membangun pemahaman bertahap: mulai dari istilah, prinsip, contoh, penerapan, hingga evaluasi. Bacalah bab secara berurutan dan tuliskan pertanyaan yang muncul.
+Ikuti proses desain produk dari mengenali kebutuhan pengguna hingga menguji bentuk, fungsi, bahan, dan pengalaman penggunaan. Setiap keputusan perlu ditautkan pada masalah yang hendak diselesaikan serta batas biaya, produksi, perawatan, dan dampak lingkungan.
 
 BAB 1. DESAIN BERPUSAT PADA PENGGUNA
 
 Desain produk dimulai dengan memahami masalah dan pengguna, bukan langsung menggambar bentuk. Pengamatan, wawancara, dan pemetaan perjalanan pengguna dapat mengungkap kebutuhan yang belum terpenuhi. Pernyataan masalah yang baik spesifik, tidak terlalu cepat mengunci solusi, dan dapat diuji.
 
 PENDALAMAN KONSEP
-Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
+Desain produk yang baik menyeimbangkan kegunaan, kenyamanan, ketahanan, kemudahan perawatan, dan proses produksi. Bentuk yang menarik belum tentu menyelesaikan kebutuhan. Uji asumsi melalui sketsa, model sederhana, pengamatan penggunaan, dan umpan balik dari calon pengguna.
 
 CONTOH KAJIAN
-Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
+Pilih benda sehari-hari seperti tempat minum, tas, atau alat tulis. Amati cara orang menggunakannya, bagian yang terasa nyaman, titik yang mudah rusak, dan bahan yang digunakan. Usulkan satu perubahan yang dapat meningkatkan fungsi tanpa menambah kerumitan yang tidak perlu.
 
 LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
+1. Rumuskan kebutuhan pengguna dalam satu kalimat.
+2. Buat tiga alternatif bentuk dengan fungsi yang sama.
+3. Bandingkan bahan, biaya, ketahanan, dan kemudahan produksi.
+4. Buat model kertas atau sketsa beranotasi.
+5. Minta umpan balik dan catat revisi yang diperlukan.
 2. Kumpulkan informasi dari sumber yang dapat diperiksa.
 3. Kelompokkan fakta, pendapat, dan dugaan.
 4. Terapkan konsep bab ini untuk menyusun penjelasan.
 5. Periksa apakah kesimpulan sesuai bukti.
 
 RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
+- Desain produk dimulai dari kebutuhan, bukan dari bentuk semata.
+- Ergonomi dan kemudahan penggunaan perlu diuji.
+- Bahan serta proses produksi memengaruhi mutu dan biaya.
+- Revisi berdasarkan umpan balik merupakan bagian dari proses desain.
 - Pahami proses, bukan hanya menghafal nama.
 - Gunakan contoh relevan dan jelaskan konteksnya.
 - Sebutkan keterbatasan informasi ketika bukti belum cukup.
 
 LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
+1. Bedakan kebutuhan pengguna dan fitur produk.
+2. Mengapa ergonomi perlu diuji pada pengguna yang beragam?
+3. Bandingkan dua bahan untuk satu fungsi produk.
+4. Sebutkan dampak yang perlu dipertimbangkan sepanjang siklus hidup produk.
+5. Bagaimana umpan balik dapat mengubah rancangan?
 2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
 3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
 4. Buat satu pertanyaan lanjutan yang dapat diteliti.
@@ -59,7 +70,7 @@ BAB 6. SIKLUS HIDUP DAN TANGGUNG JAWAB
 Dampak produk muncul dari pengambilan bahan, produksi, distribusi, penggunaan, dan pembuangan. Desain yang tahan lama, mudah diperbaiki, hemat energi, dan dapat dipisahkan komponennya dapat mengurangi dampak. Klaim ramah lingkungan harus didukung data.
 
 PROYEK AKHIR
-Susun proyek mini yang menghubungkan sedikitnya tiga bab. Tentukan pertanyaan, tujuan, batasan, sumber informasi, metode, hasil yang diharapkan, dan cara mengevaluasi hasil. Proyek tidak harus mahal atau rumit. Utamakan ketelitian, keselamatan, dan kejujuran dalam mencatat temuan.
+Kembangkan konsep produk sederhana untuk menyelesaikan kebutuhan yang jelas. Sertakan ringkasan pengguna, tiga alternatif, alasan pemilihan, sketsa, bahan yang dipertimbangkan, serta catatan uji penggunaan. Jelaskan keterbatasan model dan perubahan yang masih diperlukan.
 
 EVALUASI AKHIR
 1. Terangkan konsep inti dari SIKLUS HIDUP DAN TANGGUNG JAWAB dan perannya dalam bidang ini.
@@ -69,7 +80,7 @@ EVALUASI AKHIR
 5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 PEDOMAN PENILAIAN
-Penilaian menggunakan empat kriteria: ketepatan konsep, kualitas bukti, kejelasan penalaran, dan kemampuan menyampaikan keterbatasan. Jawaban tidak harus sama persis dengan contoh selama argumennya konsisten dan didukung informasi yang tepat.
+Nilai pemahaman kebutuhan pengguna, hubungan fungsi dan bentuk, alasan pemilihan bahan, kualitas proses iterasi, serta kejelasan komunikasi rancangan. Penilaian tidak hanya melihat tampilan akhir, tetapi juga proses dan bukti pengujian.
 
 GLOSARIUM
 Ergonomi: Kajian kesesuaian produk dan lingkungan dengan kemampuan manusia.
@@ -79,7 +90,7 @@ Siklus hidup: Tahapan produk dari bahan baku hingga akhir penggunaan.
 Aksesibilitas: Kemudahan produk digunakan oleh beragam pengguna.
 
 CATATAN SUMBER DAN PENGEMBANGAN
-Buku ini merupakan materi pengantar orisinal. Untuk tugas akademik atau keputusan praktis, bandingkan penjelasan dengan buku ajar, standar, peraturan, dan publikasi lembaga yang kompeten. Catat judul sumber, penulis atau lembaga, tahun terbit, dan bagian yang digunakan. Periksa tanggal sumber pada topik yang dapat berubah.
+Untuk pengembangan desain produk, gunakan literatur ergonomi, ilmu bahan, proses manufaktur, dan desain berkelanjutan. Periksa hak penggunaan gambar, model, dan rancangan pihak lain sebelum menjadikannya referensi.
 
 BAB LANJUTAN: RISET PENGGUNA DAN PENGEMBANGAN PRODUK
 

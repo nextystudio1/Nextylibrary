@@ -161,3 +161,29 @@ Drainase: pengaliran kelebihan air.
 Hidroponik: budidaya tanaman menggunakan larutan nutrisi.
 Media tanam: bahan tempat akar tumbuh dan memperoleh dukungan.
 Ketahanan pangan: keadaan ketika masyarakat memiliki akses pangan yang cukup dan aman.
+
+BAB LANJUTAN: SISTEM PANGAN KOTA DAN PERTANIAN BERKELANJUTAN
+
+1. Rantai pasok pangan
+Pangan bergerak melalui produksi, pengumpulan, penyimpanan, pengolahan, distribusi, penjualan, dan konsumsi. Setiap tahap dapat menambah nilai sekaligus menimbulkan kehilangan. Pemetaan rantai pasok membantu mengetahui titik kerusakan, biaya, ketergantungan, dan peluang memperpendek jarak distribusi.
+
+2. Pertanian perkotaan
+Kebun rumah, kebun komunitas, hidroponik, dan budidaya dalam wadah dapat mendukung pembelajaran serta sebagian kebutuhan pangan. Pilihan metode harus mempertimbangkan cahaya, air, ruang, kualitas media, beban struktur, dan keselamatan. Tidak semua tanaman cocok untuk setiap lokasi.
+
+3. Tanah dan media tanam
+Media tanam perlu menyediakan dukungan akar, air, udara, dan unsur hara. Tanah perkotaan dapat memiliki kualitas yang tidak diketahui, sehingga sumber media harus dipilih dengan hati-hati. Jangan menggunakan tanah dari lokasi yang dicurigai tercemar. Kompos matang dapat memperbaiki sifat media, tetapi bahan mentah yang belum terurai dapat menimbulkan masalah.
+
+4. Air dan nutrisi
+Tanaman membutuhkan air dan unsur hara dalam jumlah seimbang. Kekurangan maupun kelebihan dapat mengganggu pertumbuhan dan mencemari lingkungan. Pemupukan perlu mengikuti kebutuhan tanaman dan petunjuk produk, bukan menambah sebanyak mungkin. Penggunaan air dapat dihemat melalui penyiraman sesuai kondisi dan penampungan air hujan yang aman.
+
+5. Keanekaragaman dan pengendalian hama
+Rotasi tanaman, tanaman pendamping yang sesuai, kebersihan kebun, dan pemantauan rutin dapat membantu mengurangi gangguan. Identifikasi organisme sebelum mengambil tindakan. Penggunaan pestisida harus mengikuti aturan dan label serta tidak dilakukan sembarangan, terutama di area yang dapat dijangkau anak atau hewan.
+
+6. Kompos dan pengurangan limbah
+Sisa organik tertentu dapat diolah menjadi kompos jika bahan, kelembapan, udara, dan prosesnya dikelola. Bahan yang tidak sesuai dapat mengundang hama atau menghasilkan bau. Pisahkan limbah, hindari memasukkan bahan berbahaya, dan ikuti panduan pengelolaan setempat.
+
+7. Mengukur hasil kebun
+Catat jenis tanaman, tanggal tanam, kondisi cuaca, kebutuhan air, gangguan, hasil panen, dan penggunaan bahan. Data sederhana membantu membandingkan metode. Hasil kebun juga perlu dinilai dari biaya, waktu, kualitas, dan manfaat pembelajaran, bukan hanya berat panen.
+
+LATIHAN
+Rancang kebun kecil pada area yang aman dan mendapat izin. Pilih tiga tanaman sesuai kondisi, buat jadwal pengamatan, rencanakan penggunaan air, dan tentukan cara mencatat hasil serta limbah.

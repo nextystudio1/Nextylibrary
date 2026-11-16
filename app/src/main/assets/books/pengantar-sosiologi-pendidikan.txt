@@ -145,3 +145,51 @@ Penelitian di lingkungan pendidikan melibatkan anak dan informasi sensitif. Perl
 
 PROYEK KAJIAN SEKOLAH
 Rancang kajian berbasis dokumen publik atau pengamatan yang tidak mengumpulkan data pribadi. Rumuskan masalah, pilih perspektif teori, tentukan indikator akses dan partisipasi, jelaskan metode, dan susun rekomendasi yang dapat diuji.
+
+BAB 12. PENDIDIKAN, KELAS SOSIAL, DAN MOBILITAS
+
+Pendidikan sering dipandang sebagai jalur mobilitas sosial, tetapi peluang belajar dipengaruhi kondisi keluarga, lingkungan, biaya, lokasi, kualitas sekolah, dan jaringan sosial. Hubungan antara pendidikan dan pekerjaan tidak selalu linear. Kualifikasi dapat membuka peluang, tetapi struktur pasar kerja dan diskriminasi juga memengaruhi hasil.
+
+Analisis sosiologis perlu membedakan akses masuk, pengalaman belajar, hasil pendidikan, dan transisi setelah lulus. Kesamaan angka partisipasi belum tentu berarti kesamaan pengalaman atau mutu. Data perlu dibaca bersama konteks lokal dan suara kelompok yang kurang terwakili.
+
+BAB 13. KURIKULUM, PENGETAHUAN, DAN IDENTITAS
+
+Kurikulum menentukan pengetahuan, keterampilan, dan nilai yang dianggap penting untuk dipelajari. Pemilihan isi dapat mencerminkan sejarah, prioritas sosial, dan perdebatan tentang identitas. Kurikulum yang inklusif perlu menyajikan perspektif yang beragam dengan dasar bukti, bukan sekadar menambah contoh simbolis.
+
+Pengetahuan lokal dan pengalaman komunitas dapat memperkaya pembelajaran jika dibahas secara akurat dan dengan penghormatan. Guru perlu menghindari stereotip dan memberi ruang bagi siswa untuk berpikir kritis. Materi juga perlu dievaluasi agar tidak mengulang bias yang ada dalam sumber.
+
+BAB 14. SEKOLAH SEBAGAI ORGANISASI SOSIAL
+
+Sekolah memiliki struktur formal seperti aturan, jabatan, jadwal, dan kurikulum, serta hubungan informal yang terbentuk melalui interaksi. Budaya sekolah memengaruhi rasa aman, partisipasi, disiplin, dan harapan terhadap siswa. Aturan yang sama dapat dialami berbeda oleh siswa dengan kebutuhan dan kondisi berbeda.
+
+Kajian organisasi sekolah memperhatikan distribusi kewenangan, komunikasi, kepemimpinan, kerja sama keluarga, dan hubungan dengan komunitas. Perubahan kebijakan perlu mempertimbangkan kapasitas guru, beban administrasi, fasilitas, dan mekanisme umpan balik.
+
+BAB 15. KETIDAKSETARAAN DIGITAL DALAM PENDIDIKAN
+
+Teknologi pembelajaran dapat memperluas akses materi dan komunikasi, tetapi juga dapat memperbesar kesenjangan. Perangkat, koneksi, ruang belajar, literasi digital, dan dukungan keluarga tidak tersebar merata. Platform yang sulit diakses penyandang disabilitas dapat mengecualikan peserta didik meskipun konten tersedia secara daring.
+
+Evaluasi teknologi pendidikan perlu memeriksa apakah alat membantu tujuan belajar, bukan sekadar jumlah pengguna. Perlindungan data siswa, batas pengumpulan informasi, keamanan akun, dan transparansi penggunaan data menjadi bagian dari tanggung jawab lembaga.
+
+BAB 16. DISIPLIN, KESEJAHTERAAN, DAN IKLIM SEKOLAH
+
+Disiplin sekolah sebaiknya mendukung keselamatan dan proses belajar, bukan mempermalukan siswa. Aturan yang jelas, konsisten, proporsional, dan dapat dijelaskan membantu membangun kepercayaan. Pendekatan restoratif dapat memberi ruang untuk memahami dampak perilaku, memperbaiki hubungan, dan mencegah pengulangan sesuai kebijakan lembaga.
+
+Iklim sekolah mencakup rasa aman, hubungan guru-siswa, dukungan teman sebaya, keadilan prosedur, dan kesempatan berpartisipasi. Survei iklim sekolah perlu menjaga kerahasiaan dan menyediakan jalur bantuan jika pertanyaan memunculkan pengalaman sulit. Hasil sebaiknya digunakan untuk memperbaiki sistem, bukan memberi label kepada individu.
+
+BAB 17. KEMITRAAN SEKOLAH, KELUARGA, DAN KOMUNITAS
+
+Pendidikan berlangsung di dalam dan luar sekolah. Keluarga, perpustakaan, organisasi lokal, layanan publik, dan lingkungan sekitar dapat mendukung pembelajaran. Kemitraan perlu memiliki tujuan, pembagian peran, komunikasi, dan perlindungan peserta didik yang jelas.
+
+Partisipasi keluarga tidak boleh dinilai hanya dari kehadiran pada pertemuan. Jadwal kerja, bahasa, akses transportasi, dan tanggung jawab pengasuhan dapat memengaruhi keterlibatan. Sekolah dapat menyediakan saluran komunikasi yang beragam dan tidak menyalahkan keluarga atas hambatan struktural.
+
+PROYEK: ANALISIS AKSES BELAJAR
+
+Gunakan data publik atau dokumen kebijakan sekolah yang dapat diakses. Buat kerangka untuk menilai akses perangkat, dukungan belajar, aksesibilitas, dan partisipasi. Jangan mewawancarai siswa atau mengumpulkan data sensitif tanpa izin lembaga dan persetujuan yang sesuai. Sajikan rekomendasi yang dapat dievaluasi.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa pendidikan tidak otomatis menghasilkan mobilitas sosial? Karena hasil juga dipengaruhi pasar kerja, jaringan, dan ketimpangan peluang.
+2. Apa yang dibahas sosiologi kurikulum? Pemilihan pengetahuan, nilai, dan perspektif dalam pembelajaran.
+3. Mengapa teknologi dapat memperbesar kesenjangan? Karena akses perangkat, koneksi, dan kemampuan pengguna berbeda.
+4. Apa tujuan disiplin yang mendukung belajar? Menjaga keselamatan, tanggung jawab, dan hubungan yang dapat diperbaiki.
+5. Mengapa kemitraan perlu fleksibel? Agar keluarga dengan kondisi dan akses berbeda tetap dapat berpartisipasi.

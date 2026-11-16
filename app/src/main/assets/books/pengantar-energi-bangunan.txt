@@ -123,3 +123,51 @@ LATIHAN TERAPAN
 3. Mengapa produksi energi surya perlu dibandingkan dengan pola konsumsi?
 4. Apa yang dimaksud penilaian siklus hidup bahan?
 5. Susun indikator untuk mengevaluasi satu program penghematan energi.
+
+BAB 17. BEBAN ENERGI DAN PROFIL PENGGUNAAN
+
+Konsumsi energi bangunan berubah menurut jam, hari, musim, cuaca, dan pola aktivitas penghuni. Profil beban menunjukkan kapan energi digunakan dan perangkat apa yang berkontribusi. Dua gedung dengan konsumsi tahunan serupa dapat memiliki kebutuhan daya puncak berbeda, sehingga strategi pengelolaannya juga berbeda.
+
+Submeter dapat membantu memisahkan penggunaan berdasarkan zona atau sistem, tetapi data harus dibaca dengan memperhatikan ketelitian alat dan periode pencatatan. Indikator seperti konsumsi per luas lantai berguna untuk perbandingan awal, namun perlu dikontekstualkan dengan fungsi bangunan, jumlah penghuni, jam operasi, dan kondisi iklim.
+
+BAB 18. SELUBUNG BANGUNAN DAN PERPINDAHAN PANAS
+
+Selubung bangunan memisahkan ruang dalam dari lingkungan luar. Atap, dinding, jendela, lantai, dan sambungan konstruksi memengaruhi perpindahan panas serta masuknya udara. Kinerja termal dipengaruhi konduksi, konveksi, radiasi, warna permukaan, orientasi, dan kualitas pemasangan. Nilai material saja tidak cukup jika terdapat celah atau jembatan termal.
+
+Peneduh luar dapat mengurangi radiasi matahari yang masuk melalui jendela. Ventilasi alami dapat membantu pada kondisi tertentu, tetapi efektivitasnya bergantung pada arah angin, kelembapan, kebisingan, polusi luar, dan keamanan. Desain perlu menggabungkan strategi pasif dengan kebutuhan kenyamanan dan kesehatan penghuni.
+
+BAB 19. SISTEM PENDINGINAN DAN VENTILASI
+
+Sistem pendinginan memindahkan panas dari ruang ke lingkungan melalui siklus refrigerasi. Kinerja dipengaruhi kapasitas, kondisi luar, beban internal, perawatan, dan pengaturan operasi. Peralatan yang terlalu besar dapat sering hidup-mati dan mengendalikan kelembapan dengan kurang baik; peralatan yang terlalu kecil mungkin tidak mampu memenuhi beban puncak.
+
+Ventilasi memasok udara luar dan membantu mengendalikan polutan dalam ruang. Kebutuhan udara luar bergantung pada jenis ruang, jumlah penghuni, aktivitas, serta standar yang berlaku. Filter, saluran, dan komponen sistem memerlukan pemeriksaan terjadwal. Perubahan sistem harus dirancang dan dievaluasi oleh tenaga kompeten sesuai peraturan keselamatan.
+
+BAB 20. PENCAHAYAAN DAN KUALITAS RUANG
+
+Pencahayaan alami dan buatan memengaruhi kenyamanan visual, produktivitas, dan konsumsi energi. Tingkat iluminansi perlu sesuai dengan tugas, tetapi angka tunggal tidak menggambarkan seluruh kualitas cahaya. Silau, distribusi, warna, kedipan, kontras, dan akses cahaya siang juga penting.
+
+Lampu hemat energi dapat mengurangi konsumsi, tetapi penggantian perlu mempertimbangkan mutu cahaya, kompatibilitas pengendali, umur pakai, dan pengelolaan limbah. Sensor kehadiran dan pengaturan cahaya siang dapat mengurangi penggunaan yang tidak perlu jika dikonfigurasi sesuai pola ruang. Pengguna perlu diberi kendali manual yang masuk akal agar sistem tidak mengganggu aktivitas.
+
+BAB 21. ENERGI TERBARUKAN PADA BANGUNAN
+
+Panel surya atap menghasilkan listrik sesuai intensitas matahari, orientasi, kemiringan, bayangan, suhu, dan karakteristik sistem. Produksi tidak selalu bertepatan dengan waktu beban tertinggi. Analisis perlu membandingkan profil produksi dan konsumsi, kebutuhan penyimpanan, aturan interkoneksi, biaya, serta perawatan.
+
+Perkiraan produksi dari perangkat lunak merupakan estimasi, bukan jaminan hasil. Kajian lokasi perlu memperhatikan kondisi struktur atap, keselamatan instalasi, perlindungan petir, dan ketentuan teknis. Sistem penyimpanan memiliki keterbatasan umur dan memerlukan pengelolaan yang sesuai standar; pekerjaan instalasi harus dilakukan tenaga profesional.
+
+BAB 22. KENYAMANAN, KESEHATAN, DAN PERILAKU PENGHUNI
+
+Kinerja energi tidak boleh dicapai dengan mengorbankan kesehatan atau kenyamanan. Suhu, kelembapan, kecepatan udara, kualitas udara, kebisingan, dan pencahayaan saling berpengaruh. Persepsi nyaman juga dipengaruhi pakaian, aktivitas, adaptasi, dan kemampuan penghuni mengendalikan ruang.
+
+Perubahan operasi gedung sebaiknya melibatkan pengguna. Sediakan cara menyampaikan keluhan, catat lokasi dan waktu, lalu periksa apakah masalah terkait pengaturan, pemeliharaan, desain, atau kepadatan. Data keluhan perlu dianonimkan jika dipakai untuk evaluasi.
+
+PROYEK: AUDIT ENERGI SEDERHANA BERBASIS DATA
+
+Pilih ruang belajar atau kantor dengan izin pengelola. Catat luas, fungsi, jam penggunaan, jumlah pengguna secara agregat, dan konsumsi energi yang tersedia. Identifikasi peluang penghematan tanpa mengubah instalasi listrik atau peralatan keselamatan. Usulkan prioritas berdasarkan biaya, potensi dampak, kenyamanan, dan kemudahan pemeliharaan. Evaluasi hasil setelah periode yang sebanding.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa konsumsi tahunan tidak cukup untuk merancang pengelolaan beban? Karena waktu terjadinya beban dan daya puncak juga penting.
+2. Apa pengaruh selubung bangunan? Mengatur perpindahan panas dan pertukaran udara dengan lingkungan.
+3. Mengapa kapasitas pendingin harus sesuai beban? Kapasitas yang tidak sesuai dapat menurunkan efisiensi dan kenyamanan.
+4. Apa faktor kualitas pencahayaan selain tingkat terang? Silau, distribusi, warna, kedipan, dan kontras.
+5. Mengapa produksi panel surya perlu dibandingkan dengan profil beban? Karena waktu produksi dan waktu konsumsi bisa berbeda.

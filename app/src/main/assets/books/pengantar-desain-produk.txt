@@ -233,3 +233,25 @@ Setelah peluncuran, kumpulkan masukan, pantau kesalahan, dan ukur apakah produk 
 
 LATIHAN
 Pilih benda atau layanan yang sering digunakan. Tuliskan tiga masalah pengguna, rancang dua alternatif solusi, tentukan kriteria pemilihan, lalu buat rencana uji prototipe sederhana.
+
+BAB 11. RISET PENGGUNA DAN KEBUTUHAN
+Desain produk dimulai dengan memahami orang yang akan menggunakannya. Riset dapat dilakukan melalui pengamatan, wawancara, kuesioner, dan analisis konteks penggunaan. Pertanyaan perlu netral dan tidak menggiring jawaban. Bedakan kebutuhan yang dinyatakan pengguna dengan masalah yang terlihat saat mereka melakukan tugas. Catat pola dari beberapa sumber, bukan hanya satu komentar. Lindungi identitas dan data peserta, serta jelaskan tujuan riset sebelum mengumpulkan informasi.
+
+BAB 12. ERGONOMI DAN ANTROPOMETRI
+Ergonomi mempelajari hubungan manusia dengan produk, alat, dan lingkungan kerja. Antropometri mengukur variasi dimensi tubuh manusia. Produk yang nyaman untuk satu orang belum tentu sesuai untuk semua orang. Desain perlu mempertimbangkan rentang pengguna, postur, jangkauan, kekuatan, serta lama penggunaan. Jika memungkinkan, sediakan penyesuaian dan uji pada kelompok pengguna yang beragam. Hindari menganggap satu ukuran sebagai ukuran universal.
+
+BAB 13. BAHAN DAN PROSES PRODUKSI
+Pemilihan bahan mempertimbangkan kekuatan, berat, biaya, ketersediaan, kemudahan perawatan, keamanan, dan dampak lingkungan. Proses produksi juga memengaruhi bentuk yang mungkin dibuat, tingkat ketelitian, jumlah produksi, dan limbah. Desain yang tampak menarik di layar belum tentu dapat dibuat secara konsisten. Kolaborasi dengan pihak produksi sejak tahap awal membantu menemukan batasan dan peluang perbaikan.
+
+BAB 14. PROTOTIPE DAN PENGUJIAN
+Prototipe merupakan representasi awal untuk menguji gagasan. Bentuknya dapat berupa sketsa, model sederhana, simulasi, atau produk fungsional awal. Tentukan pertanyaan yang ingin dijawab sebelum membuat prototipe. Uji tugas nyata, amati kesulitan, dan catat temuan tanpa menyalahkan pengguna. Satu putaran pengujian biasanya mengungkap masalah, sedangkan pengujian ulang memastikan apakah perubahan benar-benar membantu.
+
+BAB 15. SIKLUS HIDUP DAN TANGGUNG JAWAB DESAIN
+Produk memiliki dampak sejak bahan baku diperoleh hingga produk tidak lagi digunakan. Desain yang bertanggung jawab mempertimbangkan ketahanan, kemudahan diperbaiki, penggunaan ulang, daur ulang, dan keselamatan. Kemasan berlebihan serta komponen yang sulit diganti dapat memperbesar limbah. Klaim ramah lingkungan harus didukung data dan batasan yang jelas. Pertimbangkan pula aksesibilitas, privasi, dan dampak sosial dari penggunaan produk.
+
+LATIHAN TERAPAN
+1. Susun tiga pertanyaan wawancara netral untuk memahami kebutuhan pengguna.
+2. Mengapa desain ergonomis perlu mempertimbangkan variasi tubuh?
+3. Bandingkan dua bahan berdasarkan lebih dari sekadar harga.
+4. Tentukan tujuan uji untuk prototipe botol minum.
+5. Sebutkan tiga cara memperpanjang masa guna produk.

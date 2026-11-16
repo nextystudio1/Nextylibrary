@@ -192,3 +192,28 @@ Tetapkan kondisi awal, indikator, kelompok pembanding bila memungkinkan, jadwal 
 
 LATIHAN
 Bandingkan dua pilihan pengelolaan sampah di suatu lingkungan. Identifikasi biaya langsung, dampak lingkungan, kelompok terdampak, kebutuhan pengawasan, dan data yang masih belum tersedia. Jelaskan ketidakpastian analisis.
+
+BAB 11. EKONOMI SUMBER DAYA ALAM
+Sumber daya alam dapat dikelompokkan berdasarkan kemampuan pulih dan pola pemanfaatannya. Sumber daya terbarukan tetap dapat mengalami penurunan jika laju pemanfaatan melampaui kemampuan pemulihan. Sumber daya tak terbarukan terbentuk melalui proses geologis yang sangat lama. Keputusan pemanfaatan perlu memperhitungkan stok, laju regenerasi, dampak ekstraksi, dan kebutuhan generasi mendatang. Harga pasar saja tidak selalu mencerminkan nilai ekologis atau biaya pemulihan.
+
+BAB 12. EKONOMI SIRKULAR DAN DESAIN PRODUK
+Ekonomi sirkular berupaya mempertahankan nilai bahan dan produk selama mungkin melalui desain tahan lama, perawatan, penggunaan ulang, perbaikan, dan daur ulang. Strategi terbaik sering dimulai sebelum produk menjadi limbah: mengurangi bahan yang tidak diperlukan dan merancang produk agar mudah diperbaiki. Daur ulang membutuhkan pemilahan, teknologi, energi, serta pasar bagi bahan hasil olahan. Karena itu, klaim bahwa suatu produk sepenuhnya ramah lingkungan perlu diperiksa berdasarkan seluruh daur hidup.
+
+BAB 13. PANGAN, AIR, DAN JEJAK LINGKUNGAN
+Sistem pangan melibatkan produksi, pengolahan, penyimpanan, distribusi, konsumsi, dan pengelolaan sisa. Dampak lingkungan dapat muncul pada setiap tahap. Efisiensi air dan energi, pengurangan kehilangan pangan, perlindungan tanah, dan praktik pertanian yang sesuai ekosistem dapat mengurangi tekanan. Pilihan konsumsi dipengaruhi harga, budaya, akses, dan ketersediaan sehingga perubahan tidak dapat dibebankan hanya kepada individu. Kebijakan perlu memperbaiki sistem sekaligus mendukung petani dan pekerja.
+
+BAB 14. PEMBIAYAAN DAN INSENTIF LINGKUNGAN
+Pajak pencemaran, subsidi untuk teknologi bersih, standar, izin, dan pengadaan publik merupakan contoh instrumen ekonomi atau kebijakan. Setiap instrumen memiliki konsekuensi distribusi. Pungutan dapat mendorong pengurangan pencemaran, tetapi perlu rancangan agar tidak membebani rumah tangga berpendapatan rendah secara tidak proporsional. Subsidi dapat mempercepat perubahan, tetapi harus memiliki kriteria, batas waktu, transparansi, dan evaluasi agar tidak mempertahankan teknologi yang tidak efektif.
+
+BAB 15. KEADILAN LINGKUNGAN DAN TRANSISI
+Keadilan lingkungan menelaah siapa yang menerima manfaat dan siapa yang menanggung pencemaran atau risiko. Komunitas yang memiliki pengaruh politik lebih kecil dapat menghadapi beban lebih besar. Transisi menuju ekonomi rendah emisi perlu memperhatikan pekerja, daerah yang bergantung pada industri tertentu, akses energi, dan keterjangkauan layanan. Pelibatan masyarakat sejak awal meningkatkan kualitas informasi dan legitimasi keputusan. Kompensasi saja tidak menggantikan kewajiban mencegah kerusakan.
+
+PROYEK ANALISIS
+Pilih satu persoalan lingkungan di suatu kota atau daerah. Petakan kegiatan ekonomi, sumber dampak, kelompok terdampak, dan kebijakan yang berlaku. Bandingkan dua instrumen kebijakan dengan mempertimbangkan efektivitas, biaya administrasi, keadilan, dan kemungkinan dampak samping. Buat indikator untuk mengevaluasi hasil setelah kebijakan diterapkan.
+
+LATIHAN PENDALAMAN
+1. Mengapa sumber daya terbarukan tetap dapat terkuras?
+2. Bandingkan penggunaan ulang dan daur ulang.
+3. Petakan tahap sistem pangan yang berpotensi menghasilkan limbah.
+4. Jelaskan satu risiko subsidi lingkungan yang dirancang buruk.
+5. Berikan contoh pertimbangan keadilan dalam transisi ekonomi.

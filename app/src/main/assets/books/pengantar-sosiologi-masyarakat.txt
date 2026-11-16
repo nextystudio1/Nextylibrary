@@ -376,3 +376,42 @@ Analisis contoh fiktif akses kegiatan ekstrakurikuler di sekolah. Identifikasi f
 
 RANGKUMAN
 Stratifikasi dan mobilitas menjelaskan bagaimana sumber daya serta kesempatan tersebar. Analisis yang baik menghubungkan pengalaman individu dengan struktur sosial.
+
+BAB 9 — METODE PENELITIAN SOSIAL
+
+Penelitian sosial dimulai dari pertanyaan yang jelas dan dapat diteliti. Pertanyaan “mengapa semua orang bersikap egois?” terlalu luas dan mengandung penilaian. Pertanyaan “faktor apa yang memengaruhi partisipasi siswa dalam kegiatan kerja kelompok?” lebih terarah. Peneliti menentukan konsep, kelompok yang diamati, tempat, waktu, dan bukti yang diperlukan.
+
+Survei mengumpulkan jawaban dari sejumlah responden melalui pertanyaan yang disusun hati-hati. Pertanyaan harus netral, tidak menggiring, dan mudah dipahami. Pertanyaan “Apakah Anda setuju bahwa fasilitas sekolah sangat buruk?” menggiring jawaban. Bentuk yang lebih netral ialah “Bagaimana penilaian Anda terhadap kondisi fasilitas sekolah?” Pilihan jawaban juga perlu mencakup variasi pengalaman yang mungkin terjadi.
+
+Wawancara membantu memahami alasan dan pengalaman secara mendalam. Pewawancara sebaiknya mendengarkan, meminta contoh, dan tidak memaksakan tafsir. Observasi mencatat perilaku dalam konteks tertentu. Dokumen, arsip, dan data statistik dapat melengkapi kedua metode tersebut. Setiap metode memiliki keterbatasan: survei bergantung pada kualitas pertanyaan dan kejujuran jawaban, sedangkan wawancara dapat dipengaruhi hubungan antara peneliti dan narasumber.
+
+Sampel adalah bagian dari populasi yang diteliti. Sampel yang besar belum tentu mewakili populasi apabila pemilihannya berat sebelah. Jika ingin mengetahui kebiasaan membaca seluruh siswa, hanya mewawancarai anggota klub literasi akan menghasilkan gambaran yang tidak seimbang. Peneliti perlu menjelaskan cara memilih responden dan siapa yang mungkin tidak terwakili.
+
+Etika penelitian meliputi persetujuan, kerahasiaan, keamanan data, dan perlakuan yang adil. Identitas responden tidak boleh diumumkan tanpa alasan dan izin yang sesuai. Data pribadi dikumpulkan sesedikit mungkin, disimpan dengan aman, dan digunakan sesuai tujuan. Peneliti juga wajib melaporkan hasil apa adanya, termasuk hasil yang tidak sesuai dugaan.
+
+Contoh rancangan: pertanyaan penelitian adalah “Apa yang membuat siswa memilih berjalan kaki, bersepeda, atau menggunakan kendaraan ke sekolah?” Konsep yang diamati meliputi jarak, keamanan rute, ketersediaan transportasi, cuaca, dan kebijakan keluarga. Data dapat dikumpulkan melalui survei anonim dan wawancara sukarela. Hasil tidak boleh digunakan untuk mempermalukan siswa; tujuannya memahami kebutuhan transportasi.
+
+BAB 10 — SOSIALISASI DAN PEMBENTUKAN IDENTITAS
+
+Sosialisasi adalah proses mempelajari nilai, norma, bahasa, kebiasaan, dan keterampilan yang membantu seseorang hidup bersama orang lain. Proses ini berlangsung sepanjang kehidupan. Keluarga, sekolah, kelompok sebaya, organisasi, media, dan lingkungan kerja dapat menjadi agen sosialisasi. Pengaruh setiap agen tidak selalu sama dan dapat berubah menurut situasi.
+
+Sosialisasi bukan sekadar meniru. Individu menafsirkan pengalaman, bertanya, menerima, menolak, atau mengubah kebiasaan. Anak yang belajar antre, misalnya, tidak hanya menghafal urutan; ia memahami bahwa orang lain juga memiliki hak dan waktu. Norma dapat membantu koordinasi, tetapi norma juga dapat diperdebatkan ketika dianggap tidak adil.
+
+Identitas sosial terbentuk melalui berbagai keanggotaan dan pengalaman. Seseorang dapat menjadi anggota keluarga, warga daerah, pelajar, penggemar seni, atau anggota komunitas olahraga sekaligus. Tidak satu label pun menjelaskan seluruh kepribadian seseorang. Karena itu, generalisasi berdasarkan kelompok harus dihindari.
+
+BAB 11 — LEMBAGA SOSIAL DAN PERUBAHAN
+
+Lembaga sosial adalah pola aturan dan hubungan yang memenuhi kebutuhan masyarakat, misalnya pendidikan, keluarga, ekonomi, politik, dan agama. Lembaga bukan hanya gedung atau organisasi; ia juga mencakup peran, norma, dan prosedur. Sekolah, misalnya, memiliki ruang kelas dan tenaga pendidik, tetapi juga aturan penilaian, kurikulum, hak siswa, serta tanggung jawab bersama.
+
+Perubahan sosial dapat dipengaruhi teknologi, migrasi, pendidikan, konflik kepentingan, kebijakan, dan perubahan lingkungan. Dampaknya tidak selalu seragam. Teknologi pembelajaran jarak jauh dapat memperluas akses bagi sebagian orang, tetapi menyulitkan mereka yang tidak memiliki perangkat atau koneksi. Analisis sosiologis menanyakan siapa yang memperoleh manfaat, siapa yang menghadapi hambatan, dan bagaimana kebijakan dapat mengurangi kesenjangan.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa sampel survei perlu mewakili populasi? Pembahasan: karena kesimpulan dari sampel digunakan untuk memahami populasi. Sampel yang berat sebelah dapat menghasilkan gambaran yang keliru.
+2. Berikan contoh dua agen sosialisasi yang memberi pengaruh berbeda. Pembahasan: keluarga dapat mengajarkan kebiasaan di rumah, sedangkan sekolah mengajarkan aturan belajar dan kerja sama. Keduanya dapat saling melengkapi atau berbeda.
+3. Mengapa perubahan teknologi perlu dianalisis dari sisi kesenjangan? Pembahasan: akses, kemampuan, dan manfaat teknologi tersebar tidak merata sehingga kebijakan perlu mempertimbangkan kelompok yang tertinggal.
+
+PROYEK MINI
+Pilih satu kebiasaan di lingkungan sekolah atau komunitas, misalnya antre, kerja kelompok, atau pemilahan sampah. Susun pertanyaan penelitian netral, tentukan cara mengumpulkan informasi tanpa mengambil data sensitif, catat keterbatasan, lalu tulis kesimpulan yang membedakan fakta dan pendapat.
+
+GLOSARIUM TAMBAHAN
+Populasi: seluruh kelompok sasaran penelitian. Sampel: bagian dari populasi yang diamati. Sosialisasi: proses mempelajari norma dan peran sosial. Lembaga sosial: pola aturan dan hubungan untuk memenuhi kebutuhan bersama.

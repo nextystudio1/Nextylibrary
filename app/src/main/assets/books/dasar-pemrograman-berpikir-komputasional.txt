@@ -549,3 +549,53 @@ Pecah proses peminjaman buku perpustakaan menjadi langkah kecil. Buat diagram al
 
 RANGKUMAN
 Berpikir komputasional menggabungkan dekomposisi, pola, abstraksi, dan algoritma. Pengujian serta pertimbangan etika membantu menghasilkan solusi yang bermanfaat.
+
+BAB 15 — REPRESENTASI DATA DAN VALIDASI INPUT
+
+Program menerima data dari pengguna, berkas, sensor, atau layanan lain. Data masukan tidak boleh langsung dianggap benar. Pengguna dapat memasukkan teks ketika program mengharapkan angka, mengosongkan kolom wajib, atau memberi nilai di luar rentang. Validasi input memeriksa apakah data sesuai aturan sebelum diproses.
+
+Validasi dapat memeriksa tipe, rentang, format, dan hubungan antarkolom. Contohnya, jumlah barang harus berupa bilangan bulat tidak negatif. Tanggal harus memiliki format yang sah. Jika dua kolom saling terkait, program perlu memeriksa konsistensinya. Pesan kesalahan sebaiknya menjelaskan cara memperbaiki input tanpa membocorkan informasi internal.
+
+Perbedaan validasi sisi pengguna dan sisi server penting. Pemeriksaan di tampilan membantu pengguna mengoreksi kesalahan lebih awal, tetapi dapat dilewati. Sistem yang menyimpan data tetap perlu memvalidasi ulang di bagian yang dipercaya. Prinsip ini mencegah data rusak dan mengurangi risiko penyalahgunaan.
+
+BAB 16 — STRUKTUR DATA DAN PEMILIHAN YANG TEPAT
+
+Array atau daftar menyimpan sejumlah elemen dalam urutan tertentu. Struktur ini cocok untuk kumpulan nilai yang perlu ditelusuri. Tabel atau record menyimpan beberapa atribut yang berkaitan, misalnya identitas produk, harga, dan jumlah stok. Peta atau dictionary menghubungkan kunci dengan nilai sehingga pencarian berdasarkan kunci dapat lebih langsung.
+
+Pemilihan struktur data bergantung pada operasi yang sering dilakukan. Jika program sering menambahkan elemen di akhir daftar, array dinamis dapat sesuai. Jika perlu mencari data berdasarkan kode unik, peta dapat lebih tepat. Tidak ada satu struktur yang selalu terbaik; pertimbangkan ukuran data, pola akses, kemudahan pemeliharaan, dan batasan bahasa pemrograman.
+
+Contoh: daftar nilai siswa cocok disimpan sebagai kumpulan angka, sedangkan informasi setiap siswa lebih mudah dikelola sebagai record yang berisi kode, nama tampilan, dan nilai. Hindari menyimpan data pribadi yang tidak diperlukan. Untuk latihan, gunakan data fiktif.
+
+BAB 17 — ALGORITMA PENCARIAN DAN PENGURUTAN
+
+Pencarian linear memeriksa elemen satu per satu sampai nilai ditemukan atau seluruh data selesai diperiksa. Cara ini sederhana dan dapat digunakan pada data yang belum terurut. Pencarian biner bekerja pada data yang sudah terurut dan membagi ruang pencarian menjadi dua bagian pada setiap langkah. Syarat data terurut harus dipenuhi; jika tidak, hasilnya tidak dapat diandalkan.
+
+Pengurutan menyusun data berdasarkan aturan, misalnya angka dari kecil ke besar atau nama menurut abjad. Algoritma pengurutan sederhana mudah dipahami, tetapi dapat menjadi lambat pada data besar. Algoritma yang lebih efisien mengurangi jumlah operasi, meskipun implementasinya mungkin lebih rumit. Memilih algoritma juga berarti mempertimbangkan kebutuhan nyata, bukan sekadar mengejar istilah yang canggih.
+
+BAB 18 — KOMPLEKSITAS DAN PENGUKURAN KINERJA
+
+Kompleksitas waktu menggambarkan bagaimana jumlah operasi bertambah ketika ukuran masukan meningkat. Notasi Big O menyederhanakan gambaran pertumbuhan, bukan mengukur detik secara langsung. Algoritma O(n) biasanya bertambah sebanding dengan jumlah data, sedangkan O(n²) dapat bertambah jauh lebih cepat untuk data besar.
+
+Pengukuran kinerja perlu dilakukan dengan data uji yang mewakili penggunaan sebenarnya. Catat ukuran masukan, perangkat, kondisi pengujian, dan jumlah pengulangan. Satu hasil pengukuran dapat dipengaruhi proses lain yang berjalan. Jangan menyimpulkan program lebih cepat hanya dari satu percobaan.
+
+BAB 19 — DESAIN MODULAR DAN PEMELIHARAAN
+
+Program modular membagi tanggung jawab ke bagian-bagian yang jelas. Fungsi sebaiknya memiliki tujuan terfokus, nama yang menjelaskan pekerjaan, dan masukan-keluaran yang dapat dipahami. Modul yang terlalu saling bergantung sulit diuji dan diubah. Dokumentasi singkat menjelaskan alasan keputusan penting, bukan mengulang setiap baris kode.
+
+Perubahan program sebaiknya dilakukan bertahap. Setelah satu bagian diubah, jalankan pengujian yang relevan. Catatan versi membantu mengetahui perubahan apa yang dibuat dan mengapa. Jika muncul kesalahan, kemampuan kembali ke versi stabil mengurangi risiko kehilangan pekerjaan.
+
+BAB 20 — PROYEK: PENGELOLAAN KOLEKSI BUKU SEDERHANA
+
+Buat program latihan yang mengelola daftar buku fiktif. Setiap entri dapat memiliki kode, judul, kategori, dan status tersedia atau dipinjam. Fitur awal: menambah entri, menampilkan daftar, mencari berdasarkan kode, mengubah status, dan menolak kode ganda. Gunakan data contoh, bukan data pribadi pengguna perpustakaan.
+
+Rancang struktur data terlebih dahulu. Tentukan aturan validasi: kode tidak boleh kosong, status hanya menerima pilihan yang ditentukan, dan judul harus memiliki isi. Pisahkan fungsi untuk menambah, mencari, memperbarui, dan menampilkan data. Uji kondisi normal, data kosong, kode tidak ditemukan, dan masukan yang salah.
+
+Kriteria keberhasilan bukan hanya program berjalan sekali. Program harus memberi pesan yang jelas, mempertahankan data sesuai rancangan, dan menangani kondisi tidak terduga tanpa berhenti secara tiba-tiba. Setelah selesai, tulis dokumentasi cara menjalankan dan batasan yang masih ada.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa validasi perlu dilakukan di sisi server? Pembahasan: pemeriksaan pada antarmuka dapat dilewati sehingga bagian yang menyimpan atau memproses data harus memeriksa ulang.
+2. Kapan pencarian biner dapat digunakan? Pembahasan: ketika data telah diurutkan berdasarkan kunci yang sama dengan kunci pencarian.
+3. Apa arti O(n²) secara umum? Pembahasan: pertumbuhan jumlah operasi dapat sebanding dengan kuadrat ukuran masukan dalam model yang dianalisis.
+
+GLOSARIUM TAMBAHAN
+Validasi: pemeriksaan kesesuaian data terhadap aturan. Struktur data: cara mengorganisasi data. Kompleksitas: gambaran kebutuhan sumber daya algoritma ketika ukuran masukan bertambah. Modular: tersusun dari bagian dengan tanggung jawab terpisah.

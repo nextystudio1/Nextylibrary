@@ -393,3 +393,44 @@ Buat anggaran fiktif untuk kegiatan belajar selama satu bulan. Tentukan priorita
 
 RANGKUMAN
 Literasi keuangan mencakup perencanaan, anggaran, tabungan, keamanan, dan keputusan konsumen. Kebiasaan mencatat dan memeriksa informasi membantu mengurangi risiko.
+
+BAB 9 — BUNGA, INFLASI, DAN NILAI UANG
+
+Bunga adalah biaya penggunaan uang dalam pinjaman atau imbal hasil dalam produk simpanan tertentu. Bunga sederhana dihitung dari pokok awal, sedangkan bunga majemuk memperhitungkan bunga yang telah ditambahkan pada periode sebelumnya. Rumus bunga sederhana adalah I = P × r × t, dengan P sebagai pokok, r sebagai tingkat per periode, dan t sebagai jumlah periode yang sesuai. Satuan waktu harus konsisten: tingkat tahunan tidak boleh langsung dikalikan jumlah bulan tanpa penyesuaian.
+
+Contoh pendidikan: simpanan hipotetis Rp1.000.000 dengan bunga sederhana 6 persen per tahun selama satu tahun menghasilkan bunga Rp60.000 sebelum pajak atau biaya. Contoh ini hanya latihan matematika, bukan rekomendasi produk. Dalam layanan nyata, periksa apakah tingkat bunga tetap atau berubah, kapan bunga dibayarkan, pajak, biaya administrasi, dan syarat penarikan.
+
+Inflasi adalah kenaikan tingkat harga barang dan jasa secara umum dalam suatu periode. Jika harga rata-rata naik, jumlah barang yang dapat dibeli dengan uang yang sama cenderung berkurang. Inflasi tidak berarti setiap harga naik dengan persentase sama. Dampaknya berbeda menurut pola pengeluaran rumah tangga dan perubahan pendapatan.
+
+BAB 10 — MEMBANDINGKAN HARGA DAN BIAYA TOTAL
+
+Harga yang terlihat di iklan belum tentu merupakan biaya akhir. Biaya pengiriman, biaya layanan, pajak, biaya berlangganan, dan syarat minimum dapat mengubah total pembayaran. Untuk membandingkan dua pilihan, gunakan satuan yang sama dan hitung biaya total selama periode yang sama.
+
+Contoh: paket A berharga Rp30.000 per bulan tanpa biaya awal. Paket B berharga Rp25.000 per bulan tetapi memiliki biaya aktivasi Rp60.000. Dalam tiga bulan, total A adalah Rp90.000, sedangkan total B adalah Rp135.000. Paket dengan harga bulanan lebih rendah tidak otomatis lebih murah dalam periode pendek.
+
+Diskon persentase juga perlu diperiksa. Diskon 20 persen dari harga Rp100.000 berarti potongan Rp20.000 dan harga sebelum biaya tambahan menjadi Rp80.000. Jika harga awal dinaikkan sebelum diskon, label potongan besar belum tentu menunjukkan nilai terbaik. Bandingkan harga historis bila tersedia dan periksa spesifikasi barang.
+
+BAB 11 — RISIKO, PENIPUAN, DAN KEAMANAN TRANSAKSI
+
+Penipuan keuangan sering memakai tekanan waktu, janji keuntungan pasti, identitas palsu, atau permintaan kode rahasia. Pesan yang meminta kode OTP, PIN, kata sandi, atau akses jarak jauh harus diperlakukan sebagai tanda bahaya. Petugas layanan yang sah tidak seharusnya meminta kode rahasia untuk mengambil alih akun.
+
+Periksa alamat situs dan nama pengirim secara teliti. Jangan mengandalkan logo atau foto profil karena mudah disalin. Hubungi lembaga melalui kanal resmi yang dicari secara mandiri, bukan nomor yang dikirim oleh pihak yang mencurigakan. Jika transaksi tidak dikenal muncul, segera beri tahu penyedia layanan dan orang dewasa tepercaya.
+
+Risiko juga terdapat pada keputusan meminjam. Pinjaman memiliki kewajiban pembayaran, biaya, dan konsekuensi jika terlambat. Sebelum menandatangani kontrak, seseorang harus memahami total pembayaran, tingkat biaya, jadwal, denda, dan ketentuan data pribadi. Pelajar sebaiknya tidak mengambil pinjaman atau membuat komitmen keuangan tanpa pendampingan orang dewasa yang bertanggung jawab.
+
+BAB 12 — SISTEM KEUANGAN DAN PERLINDUNGAN KONSUMEN
+
+Bank dan lembaga keuangan menyediakan layanan seperti penyimpanan dana, pembayaran, transfer, dan pembiayaan. Setiap produk memiliki ketentuan dan risiko berbeda. Simpanan, investasi, dan pinjaman bukan hal yang sama. Konsumen perlu memeriksa izin lembaga, informasi produk, biaya, serta mekanisme pengaduan melalui sumber resmi.
+
+Perlindungan konsumen mencakup hak memperoleh informasi yang jelas, perlakuan yang adil, keamanan data, dan jalur pengaduan. Simpan bukti transaksi dan baca ringkasan ketentuan sebelum menyetujui layanan. Jangan membagikan data keuangan di ruang publik atau perangkat yang tidak aman.
+
+LATIHAN DAN PEMBAHASAN
+1. Hitung bunga sederhana Rp500.000 pada 4 persen per tahun selama satu tahun. Pembahasan: 500.000 × 0,04 × 1 = Rp20.000 sebelum biaya atau pajak.
+2. Mengapa biaya total lebih penting daripada cicilan bulanan? Pembahasan: cicilan rendah dapat disertai tenor panjang dan biaya tambahan sehingga jumlah akhir lebih besar.
+3. Apa tindakan aman ketika menerima permintaan OTP? Pembahasan: jangan berikan kode, hentikan komunikasi, verifikasi melalui kanal resmi, dan laporkan jika perlu.
+
+PROYEK MINI
+Buat perbandingan fiktif dua paket layanan selama enam bulan. Masukkan biaya awal, biaya bulanan, biaya tambahan, dan syarat pembatalan. Tulis alasan pilihan berdasarkan biaya total dan kebutuhan, bukan hanya promosi.
+
+GLOSARIUM TAMBAHAN
+Inflasi: kenaikan tingkat harga umum. Bunga majemuk: bunga yang dihitung atas pokok dan bunga sebelumnya. Biaya total: seluruh biaya yang dibayar dalam periode tertentu.

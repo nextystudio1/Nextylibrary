@@ -366,3 +366,48 @@ Ambil tiga pernyataan dari iklan atau berita yang aman. Identifikasi klaim, bukt
 
 RANGKUMAN
 Penalaran logis membantu menilai hubungan premis dan kesimpulan. Mengenali kekeliruan serta ketidakpastian mencegah keputusan berdasarkan kesan semata.
+
+BAB 9 — CARA MEMBACA ANGKA DAN GRAFIK DIGITAL
+
+Angka sering memberi kesan objektif, tetapi maknanya bergantung pada cara pengumpulan dan penyajian. Persentase perlu memiliki pembilang, penyebut, dan kelompok pembanding yang jelas. Pernyataan “jumlah pengguna meningkat 50 persen” belum cukup jika tidak diketahui jumlah awal, periode, dan cara menghitung pengguna aktif. Kenaikan dari dua menjadi tiga orang juga 50 persen, tetapi skalanya berbeda dari kenaikan ribuan menjadi ribuan lebih banyak.
+
+Rata-rata dapat menutupi variasi. Jika lima orang memiliki waktu perjalanan 10, 12, 13, 15, dan 50 menit, rata-ratanya 20 menit, sedangkan median 13 menit. Nilai yang sangat besar memengaruhi rata-rata. Karena itu, pembaca perlu melihat ukuran pemusatan dan sebaran, bukan satu angka saja.
+
+Grafik dapat menyesatkan melalui sumbu yang dipotong, interval tidak konsisten, ukuran gambar yang tidak proporsional, atau pemilihan rentang waktu tertentu. Sumbu vertikal yang dimulai dari angka selain nol dapat membuat perbedaan kecil tampak dramatis pada diagram batang. Pada grafik garis, perubahan rentang waktu dapat menyembunyikan tren jangka panjang. Periksa judul, label, satuan, sumber, tanggal, dan catatan metodologi.
+
+BAB 10 — FOTO, VIDEO, DAN KONTEKS
+
+Sebuah gambar dapat asli tetapi diberi keterangan yang salah. Foto banjir dari tahun sebelumnya, misalnya, dapat dibagikan seolah-olah menunjukkan kejadian hari ini. Karena itu, pemeriksaan tidak berhenti pada pertanyaan apakah gambar pernah ada; pembaca juga perlu memeriksa tanggal, lokasi, sumber pertama, dan kesesuaian konteks.
+
+Pencarian gambar terbalik dapat membantu menemukan kemunculan lain dari gambar yang sama. Namun hasil pencarian bukan bukti final. Foto yang dipotong, diberi teks, atau diunggah ulang mungkin kehilangan konteks. Bandingkan dengan laporan lembaga tepercaya dan sumber lokal yang memiliki informasi langsung.
+
+Video juga dapat diedit melalui pemotongan, penggabungan, perubahan kecepatan, atau penambahan suara. Potongan pendek tidak selalu menggambarkan keseluruhan peristiwa. Tanyakan apa yang terjadi sebelum dan sesudah bagian yang ditampilkan. Hindari menyebarkan konten yang mempermalukan, membahayakan, atau mengungkap identitas orang tanpa alasan yang sah.
+
+BAB 11 — ALGORITMA REKOMENDASI DAN RUANG GEMA
+
+Platform digital menggunakan sistem rekomendasi untuk memilih konten yang mungkin menarik perhatian. Sistem dapat mempertimbangkan riwayat tontonan, interaksi, waktu melihat, dan kesamaan pola pengguna. Tujuannya berbeda-beda, tetapi rekomendasi tidak sama dengan penilaian kebenaran atau kepentingan publik.
+
+Jika seseorang hanya berinteraksi dengan satu jenis pandangan, sistem dapat semakin sering menampilkan konten serupa. Ruang gema terjadi ketika paparan terhadap sudut pandang berbeda berkurang. Cara mengimbanginya adalah mengikuti sumber yang beragam, membaca laporan lengkap, mencari argumen terbaik dari pihak berbeda, dan sengaja memeriksa bukti yang dapat mengubah pendapat.
+
+BAB 12 — PRIVASI DAN JEJAK DIGITAL
+
+Data pribadi mencakup informasi yang dapat mengenali atau menghubungkan aktivitas dengan seseorang. Sebelum mengisi formulir, periksa tujuan, pihak yang menerima data, kebijakan penyimpanan, dan apakah informasi yang diminta benar-benar diperlukan. Hindari membagikan alamat rumah, kode verifikasi, dokumen identitas, atau lokasi langsung kepada pihak yang tidak jelas.
+
+Jejak digital dapat bertahan melalui salinan, tangkapan layar, arsip, dan unggahan ulang. Sebelum mengirim sesuatu, pertimbangkan audiens, dampak, dan kemungkinan konteks berubah. Jika menemukan konten yang merugikan, gunakan fitur pelaporan platform dan minta bantuan orang dewasa tepercaya bila keselamatan atau privasi terancam.
+
+BAB 13 — MEMBANGUN ARGUMEN BERBASIS BUKTI
+
+Argumen yang baik menyatakan klaim, menyajikan alasan, menunjukkan bukti, dan menjelaskan hubungan bukti dengan kesimpulan. Bukti perlu relevan dan cukup kuat. Pengalaman pribadi dapat menjadi ilustrasi, tetapi tidak selalu mewakili seluruh populasi. Satu contoh tidak otomatis membuktikan pola umum.
+
+Pisahkan fakta, interpretasi, dan nilai. Fakta dapat diperiksa melalui sumber; interpretasi menjelaskan makna fakta; nilai menyatakan hal yang dianggap penting. Ketiganya dapat muncul bersama, tetapi sebaiknya dikenali secara terpisah agar diskusi tidak berubah menjadi pertukaran tuduhan.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa persentase harus disertai angka dasar? Pembahasan: tanpa angka dasar, pembaca tidak dapat menilai skala perubahan.
+2. Apakah foto asli selalu membuktikan keterangan unggahan? Pembahasan: tidak. Foto dapat asli tetapi waktu, lokasi, atau konteksnya salah.
+3. Bagaimana mengurangi ruang gema? Pembahasan: memperluas sumber, memeriksa argumen berbeda, dan menilai bukti sebelum menyimpulkan.
+
+PROYEK MINI
+Pilih satu grafik publik dari lembaga resmi. Catat judul, periode, satuan, sumber data, dan jenis grafik. Tulis dua hal yang dapat disimpulkan serta dua hal yang belum dapat disimpulkan dari grafik tersebut.
+
+GLOSARIUM TAMBAHAN
+Median: nilai tengah setelah data diurutkan. Ruang gema: lingkungan informasi yang mengulang pandangan serupa. Jejak digital: rekaman aktivitas yang tertinggal di layanan digital.

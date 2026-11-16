@@ -6,31 +6,31 @@ DESKRIPSI
 Memahami struktur karbon, gugus fungsi, isomer, reaksi, polimer, dan kimia kehidupan.
 
 PENDAHULUAN
-Buku ini memperkenalkan konsep dan cara berpikir dalam bidang yang dibahas. Pemahaman dibangun dengan menghubungkan istilah, mekanisme, bukti, dan penerapan. Setiap bab dilengkapi kegiatan refleksi serta latihan agar pembaca dapat menguji pemahaman secara mandiri.
+Buku Dasar Kimia Organik membahas memahami struktur karbon, gugus fungsi, isomer, reaksi, polimer, dan kimia kehidupan.. Bacalah setiap bab dengan menghubungkan istilah, contoh, dan persoalan yang muncul dalam bidang ini. Gunakan pertanyaan di akhir bagian untuk menguji pemahaman, lalu catat bagian yang memerlukan penjelasan atau bukti tambahan.
 
 BAB 1. KEUNIKAN ATOM KARBON
 
 Karbon dapat membentuk empat ikatan kovalen dan berikatan dengan atom karbon lain membentuk rantai serta cincin. Kemampuan ini menghasilkan keragaman senyawa organik. Struktur molekul menentukan sifat fisik dan kimia, sehingga rumus molekul saja belum selalu cukup untuk menjelaskan perilaku suatu senyawa.
 
-PENJELASAN LANJUTAN
-Dalam menggunakan konsep ini, perhatikan asumsi dan kondisi yang menyertainya. Sebuah model atau aturan biasanya dibuat untuk menjelaskan keadaan tertentu, bukan seluruh kemungkinan. Periksa definisi variabel, satuan, rentang penggunaan, serta faktor lain yang dapat mengubah hasil. Jika data tidak lengkap, nyatakan batas pengetahuan dan hindari kesimpulan yang terlalu luas.
+PENDALAMAN
+Pada KEUNIKAN ATOM KARBON, pisahkan pengamatan dari penjelasan. Tentukan besaran atau faktor yang dibahas, kondisi yang memengaruhinya, serta bukti yang dapat mendukung kesimpulan. Model ilmiah membantu menyederhanakan gejala, tetapi selalu memiliki batas; jelaskan kondisi ketika model tersebut tepat digunakan dan kapan perlu diperbarui.
 
-CONTOH DAN PENERAPAN
-Buat contoh dari situasi yang dapat diamati. Tuliskan tujuan, kondisi awal, proses, dan hasil. Bandingkan dengan situasi lain yang memiliki satu atau dua kondisi berbeda. Perbandingan membantu melihat unsur mana yang penting dan mana yang hanya kebetulan muncul bersamaan.
-
-AKTIVITAS
-1. Susun peta konsep dari istilah penting.
-2. Buat tabel yang membandingkan dua konsep terkait.
-3. Cari contoh penerapan dan jelaskan konteksnya.
-4. Identifikasi satu kesalahan umum dalam memahami topik.
-5. Buat pertanyaan yang memerlukan bukti tambahan.
+CONTOH PENERAPAN
+Contoh kajian: pilih fenomena sehari-hari yang berkaitan dengan KEUNIKAN ATOM KARBON. Catat kondisi pengamatan dan informasi yang tersedia, lalu hubungkan dengan konsep ilmiah yang dibahas. Bedakan hal yang benar-benar diamati dari dugaan tentang penyebabnya dan sebutkan data tambahan yang diperlukan.
 
 LATIHAN
-1. Jelaskan gagasan utama bab ini dengan kalimat sendiri.
-2. Uraikan proses atau hubungan yang dibahas secara berurutan.
-3. Berikan contoh baru dan jelaskan mengapa sesuai.
-4. Sebutkan keterbatasan model atau penjelasan.
-5. Tulis satu rekomendasi berdasarkan bukti yang tersedia.
+1. Apa gagasan utama yang dijelaskan dalam KEUNIKAN ATOM KARBON?
+2. Jelaskan hubungan antara dua konsep penting pada bab ini.
+3. Terapkan konsep tersebut pada satu kasus baru dan uraikan alasannya.
+4. Sebutkan asumsi atau keterbatasan yang perlu diperhatikan.
+5. Informasi apa yang masih diperlukan agar kesimpulan lebih kuat?
+
+LATIHAN
+1. Apa gagasan utama yang dijelaskan dalam KEUNIKAN ATOM KARBON?
+2. Jelaskan hubungan antara dua konsep penting pada bab ini.
+3. Terapkan konsep tersebut pada satu kasus baru dan uraikan alasannya.
+4. Sebutkan asumsi atau keterbatasan yang perlu diperhatikan.
+5. Informasi apa yang masih diperlukan agar kesimpulan lebih kuat?
 
 BAB 2. IKATAN DAN BENTUK MOLEKUL
 
@@ -52,18 +52,18 @@ BAB 6. POLIMER DAN KEHIDUPAN
 
 Polimer tersusun dari unit berulang yang disebut monomer. Protein, polisakarida, dan asam nukleat merupakan polimer biologis, sedangkan banyak plastik merupakan polimer sintetis. Sifat polimer dipengaruhi jenis monomer, panjang rantai, percabangan, dan interaksi antarrantai. Penggunaan bahan perlu mempertimbangkan ketahanan serta akhir masa pakai.
 
-PROYEK AKHIR
-Pilih satu persoalan yang relevan dengan bidang buku. Rumuskan pertanyaan, tujuan, batasan, dan metode kajian. Gunakan sumber yang dapat diperiksa. Sajikan hasil dalam bentuk laporan, diagram, atau presentasi. Pisahkan data, interpretasi, dan rekomendasi. Sertakan catatan keterbatasan serta langkah lanjutan.
+PROYEK TERPADU
+Proyek Dasar Kimia Organik: pilih persoalan nyata yang dapat dikaji dengan konsep dari beberapa bab. Rumuskan pertanyaan, tujuan, ruang lingkup, dan cara memperoleh informasi. Gunakan metode yang sesuai dengan bidang ini, catat sumber dan batas data, lalu susun hasil menjadi laporan yang memisahkan temuan, penafsiran, dan rekomendasi. Jelaskan siapa yang dapat memanfaatkan hasil serta apa yang masih perlu diteliti.
 
 EVALUASI AKHIR
-1. Definisikan lima istilah kunci.
-2. Hubungkan tiga bab dalam satu penjelasan.
-3. Analisis kasus dengan bukti yang relevan.
-4. Bandingkan alternatif solusi atau penafsiran.
-5. Jelaskan apa yang masih perlu dipelajari.
+1. Jelaskan konsep paling penting dari POLIMER DAN KEHIDUPAN dan alasan konsep itu diperlukan.
+2. Hubungkan materi dari tiga bab yang saling berkaitan.
+3. Analisis satu persoalan menggunakan istilah dan metode dari buku Dasar Kimia Organik.
+4. Bandingkan dua pendekatan dan jelaskan kelebihan serta keterbatasannya.
+5. Tulis kesimpulan berbasis bukti dan sebutkan pertanyaan yang belum terjawab.
 
 PEDOMAN PENILAIAN
-Nilai ketepatan konsep, kualitas sumber, penalaran, relevansi contoh, dan kejelasan komunikasi. Hasil yang berbeda dapat diterima jika didukung alasan yang dapat diperiksa dan sesuai dengan batas informasi.
+Penilaian untuk Dasar Kimia Organik memperhatikan ketepatan istilah bidang, kesesuaian metode, mutu bukti, dan kemampuan menerapkan konsep pada kasus. Jawaban dinilai dari alasan yang dapat diperiksa serta pengakuan terhadap keterbatasan, bukan dari keseragaman pendapat.
 
 GLOSARIUM
 Gugus fungsi: Susunan atom yang memberi sifat reaksi khas.
@@ -73,7 +73,7 @@ Polimer: Molekul besar yang tersusun dari unit berulang.
 Stereokimia: Kajian susunan tiga dimensi atom dalam molekul.
 
 CATATAN SUMBER
-Naskah ini merupakan materi pengantar orisinal Nexty Studio. Gunakan buku ajar dan sumber lembaga kompeten untuk pendalaman. Catat sumber, tahun, dan bagian yang dirujuk. Untuk informasi yang terus berkembang, periksa edisi dan tanggal pembaruan sebelum mengutip.
+Naskah Dasar Kimia Organik disusun sebagai materi pembelajaran orisinal Nexty Studio. Untuk memperdalam topik, gunakan buku ajar, artikel ilmiah, standar, dan publikasi lembaga yang relevan dengan bidang ini. Catat penulis atau lembaga, judul, tahun, dan bagian yang digunakan; periksa tanggal serta ruang lingkup sumber sebelum menjadikannya dasar keputusan.
 
 BAB LANJUTAN: GUGUS FUNGSI DAN SIFAT SENYAWA
 
@@ -128,8 +128,8 @@ BAB 15. KIMIA ORGANIK, KESEHATAN, DAN LINGKUNGAN
 Senyawa organik terdapat dalam obat, pangan, bahan bakar, kosmetik, dan banyak produk sehari-hari. Sifat suatu senyawa ditentukan struktur serta dosis dan jalur paparan. Bahaya intrinsik berbeda dari risiko aktual yang juga dipengaruhi tingkat dan durasi paparan. Penanganan bahan kimia harus mengikuti label, lembar data keselamatan, aturan laboratorium, dan pengawasan yang sesuai. Jangan mencampur bahan yang tidak diketahui atau melakukan percobaan tanpa fasilitas dan pendampingan.
 
 LATIHAN
-1. Bedakan isomer struktur dan stereoisomer.
-2. Identifikasi gugus fungsi dari contoh struktur sederhana.
-3. Jelaskan arti panah lengkung pada mekanisme.
-4. Sebutkan faktor yang memengaruhi sifat polimer.
-5. Bedakan bahaya dan risiko dalam penilaian bahan kimia.
+1. Apa gagasan utama yang dijelaskan dalam LANJUTAN: KESELAMATAN, LINGKUNGAN, DAN KIMIA HIJAU?
+2. Jelaskan hubungan antara dua konsep penting pada bab ini.
+3. Terapkan konsep tersebut pada satu kasus baru dan uraikan alasannya.
+4. Sebutkan asumsi atau keterbatasan yang perlu diperhatikan.
+5. Informasi apa yang masih diperlukan agar kesimpulan lebih kuat?

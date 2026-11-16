@@ -93,25 +93,25 @@ LATIHAN PENDALAMAN
 4. Mengapa data rata-rata perlu dilengkapi distribusi? Jawaban: rata-rata dapat menyembunyikan perbedaan antar kelompok.
 
 PENDALAMAN LANJUTAN: PASAR, UANG, DAN KEBIJAKAN EKONOMI
-BAB 7 — ELASTISITAS DAN RESPONS PASAR
+PENDALAMAN 1 — ELASTISITAS DAN RESPONS PASAR
 Elastisitas mengukur seberapa besar respons jumlah yang diminta atau ditawarkan terhadap perubahan faktor tertentu. Elastisitas harga permintaan membandingkan persentase perubahan jumlah dengan persentase perubahan harga. Barang kebutuhan, barang dengan banyak pengganti, dan barang yang menyerap porsi besar pendapatan dapat memiliki respons berbeda.
 Elastisitas membantu memahami dampak pajak, perubahan harga, dan strategi usaha. Namun, hasil dipengaruhi jangka waktu, definisi pasar, serta kondisi konsumen.
-BAB 8 — STRUKTUR PASAR DAN PERSAINGAN
+PENDALAMAN 1 — STRUKTUR PASAR DAN PERSAINGAN
 Pasar persaingan, monopoli, oligopoli, dan persaingan monopolistik memiliki ciri berbeda terkait jumlah pelaku, hambatan masuk, dan kekuatan menentukan harga. Struktur pasar memengaruhi inovasi, kualitas, pilihan konsumen, dan pembagian keuntungan.
 Konsentrasi pasar perlu dianalisis bersama hambatan masuk dan perilaku perusahaan. Banyak penjual tidak selalu berarti persaingan efektif jika akses distribusi atau informasi dikuasai pihak tertentu.
-BAB 9 — UANG, BANK, DAN SISTEM PEMBAYARAN
+PENDALAMAN 1 — UANG, BANK, DAN SISTEM PEMBAYARAN
 Uang berfungsi sebagai alat tukar, satuan hitung, dan penyimpan nilai. Bank menghimpun dana dan menyalurkan pembiayaan, serta menyediakan layanan pembayaran. Sistem pembayaran modern melibatkan bank, penyedia jasa, jaringan, dan pengawasan keamanan.
 Pengguna perlu memahami biaya layanan, perlindungan konsumen, keamanan akun, serta risiko penipuan. Jangan membagikan PIN, kata sandi, atau kode verifikasi.
-BAB 10 — INFLASI DAN DAYA BELI
+PENDALAMAN 1 — INFLASI DAN DAYA BELI
 Inflasi adalah kenaikan tingkat harga umum secara berkelanjutan. Perubahan harga satu barang belum tentu berarti inflasi umum. Indeks harga mengukur perubahan sekeranjang barang dan jasa, tetapi pola belanja setiap rumah tangga dapat berbeda dari keranjang rata-rata.
 Inflasi mengurangi daya beli jika pendapatan tidak meningkat sebanding. Penyebabnya dapat berkaitan dengan permintaan, biaya produksi, gangguan pasokan, atau faktor eksternal.
-BAB 11 — PENGANGGURAN DAN PERTUMBUHAN
+PENDALAMAN 1 — PENGANGGURAN DAN PERTUMBUHAN
 Tingkat pengangguran mengukur bagian angkatan kerja yang tidak bekerja tetapi mencari atau siap bekerja sesuai definisi statistik. Angka ini tidak mencakup seluruh persoalan kualitas pekerjaan, jam kerja, atau ketidakcocokan keterampilan.
 Pertumbuhan ekonomi mengukur peningkatan produksi barang dan jasa, tetapi tidak otomatis menunjukkan pemerataan atau kualitas lingkungan. Analisis perlu menggabungkan produktivitas, pendapatan, layanan publik, dan indikator kesejahteraan.
-BAB 12 — KEBIJAKAN FISKAL DAN MONETER
+PENDALAMAN 1 — KEBIJAKAN FISKAL DAN MONETER
 Kebijakan fiskal menggunakan belanja dan pajak pemerintah untuk memengaruhi kegiatan ekonomi. Kebijakan moneter memengaruhi kondisi uang dan kredit, termasuk suku bunga, untuk menjaga stabilitas harga dan mendukung kondisi ekonomi sesuai mandat bank sentral.
 Dampak kebijakan memiliki jeda waktu dan ketidakpastian. Penilaian harus melihat tujuan, konteks, kelompok yang terdampak, serta konsekuensi jangka pendek dan panjang.
-BAB 13 — MEMBACA INFORMASI EKONOMI
+PENDALAMAN 1 — MEMBACA INFORMASI EKONOMI
 Setiap indikator ekonomi memiliki definisi, periode, cakupan, dan keterbatasan. Periksa apakah angka nominal atau riil, per kapita atau total, serta sudah disesuaikan inflasi atau belum. Perbandingan antarnegara juga perlu memperhatikan metode dan daya beli.
 Jangan menarik kesimpulan dari satu angka atau satu bulan data. Tren, konteks, dan beberapa indikator bersama-sama memberi gambaran yang lebih baik.
 LATIHAN PENDALAMAN
@@ -121,7 +121,7 @@ LATIHAN PENDALAMAN
 4. Mengapa angka inflasi rumah tangga dapat berbeda dari angka rata-rata? Jawaban: pola konsumsi dan bobot pengeluaran tiap rumah tangga berbeda.
 
 PENDALAMAN EKONOMI DAN KEBIJAKAN PUBLIK
-BAB 14 — PRODUKTIVITAS DAN PERTUMBUHAN
+PENDALAMAN 1 — PRODUKTIVITAS DAN PERTUMBUHAN
 Produktivitas mengukur keluaran dibanding masukan. Peningkatan dapat berasal dari keterampilan, teknologi, organisasi kerja, infrastruktur, dan inovasi. Pertumbuhan ekonomi agregat tidak otomatis meningkatkan kesejahteraan semua kelompok; distribusi pendapatan, kualitas pekerjaan, dan dampak lingkungan juga perlu dilihat.
 BAB 15 — INFLASI DAN KEBIJAKAN MONETER
 Inflasi adalah kenaikan tingkat harga umum secara berkelanjutan. Bank sentral menggunakan instrumen kebijakan moneter untuk memengaruhi kondisi pembiayaan dan permintaan agregat. Dampaknya tidak langsung dan memiliki jeda. Inflasi dapat berasal dari tekanan permintaan, biaya, gangguan pasokan, atau kombinasi.

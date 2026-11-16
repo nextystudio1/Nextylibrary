@@ -171,3 +171,67 @@ Evaluasi: Penilaian berdasarkan kriteria dan bukti.
 
 CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.
+BAB 9. STRUKTUR EKONOMI DAN PERUBAHAN SEKTORAL
+
+Perekonomian biasanya terdiri atas sektor pertanian, industri, dan jasa. Perubahan struktur terjadi ketika kontribusi tenaga kerja dan nilai tambah antarsektor berubah seiring waktu. Peralihan dari kegiatan berproduktivitas rendah menuju kegiatan yang lebih produktif dapat meningkatkan pendapatan, tetapi prosesnya tidak otomatis dan tidak selalu merata.
+
+Produktivitas perlu dibedakan dari jumlah pekerja. Sebuah sektor dapat menyerap banyak tenaga kerja tetapi menghasilkan nilai tambah per pekerja yang relatif kecil. Sebaliknya, sektor dengan produktivitas tinggi mungkin menyerap lebih sedikit pekerja karena menggunakan teknologi dan modal lebih besar. Karena itu, kebijakan transformasi ekonomi perlu memperhatikan penciptaan pekerjaan yang layak, bukan hanya peningkatan output.
+
+Rantai nilai membantu menjelaskan hubungan antarkegiatan. Produk pertanian, misalnya, dapat melewati tahap pengolahan, pengemasan, penyimpanan, transportasi, pemasaran, dan layanan purnajual. Nilai tambah dapat meningkat ketika pelaku lokal mampu menguasai lebih banyak tahap dengan mutu yang baik. Namun, keberhasilan memerlukan standar, pembiayaan, keterampilan, akses pasar, dan tata kelola yang dapat dipercaya.
+
+CONTOH ANALISIS
+Pilih satu komoditas daerah. Gambar alur dari produsen sampai konsumen. Tandai siapa yang melakukan setiap tahap, biaya utama, risiko kerusakan, dan informasi yang dibutuhkan. Kemudian ajukan dua cara agar nilai tambah lokal meningkat tanpa mengabaikan kelestarian lingkungan.
+
+BAB 10. INFRASTRUKTUR DAN KONEKTIVITAS
+
+Infrastruktur mencakup jalan, pelabuhan, jaringan listrik, air bersih, telekomunikasi, sekolah, dan fasilitas kesehatan. Infrastruktur dapat menurunkan biaya transaksi serta memperluas akses terhadap pasar dan layanan. Dampaknya bergantung pada lokasi, mutu konstruksi, pemeliharaan, keterjangkauan, dan kesesuaian dengan kebutuhan masyarakat.
+
+Analisis proyek infrastruktur sebaiknya membandingkan manfaat dan biaya sepanjang umur aset. Biaya tidak berhenti pada pembangunan awal; operasi, pemeliharaan, pembaruan, dan dampak lingkungan juga perlu dihitung. Manfaat dapat berupa penghematan waktu, penurunan kehilangan hasil, akses layanan, atau peningkatan keselamatan. Nilai manfaat perlu diukur secara hati-hati agar tidak menghitung manfaat yang sama dua kali.
+
+Konektivitas digital juga menjadi infrastruktur pembangunan. Akses internet dapat mendukung pembelajaran, perdagangan, layanan publik, dan koordinasi usaha. Akan tetapi, jaringan saja tidak cukup. Masyarakat memerlukan perangkat yang terjangkau, kemampuan digital, layanan yang relevan, perlindungan data, dan pilihan akses bagi wilayah yang belum terhubung.
+
+PERTANYAAN PEMAHAMAN
+1. Mengapa biaya pemeliharaan harus dihitung sejak perencanaan proyek?
+2. Berikan contoh manfaat infrastruktur yang tidak langsung berupa pendapatan.
+3. Jelaskan mengapa konektivitas digital harus disertai literasi digital.
+
+BAB 11. LEMBAGA, TATA KELOLA, DAN KEPERCAYAAN
+
+Lembaga adalah aturan formal maupun kebiasaan yang membentuk perilaku masyarakat. Kepastian hukum, layanan publik yang konsisten, pengawasan, dan mekanisme penyelesaian sengketa dapat mengurangi ketidakpastian. Dunia usaha dan rumah tangga lebih mudah membuat keputusan jangka panjang ketika aturan diterapkan secara adil dan dapat diprediksi.
+
+Tata kelola yang baik membutuhkan transparansi, akuntabilitas, partisipasi, efektivitas, dan kepatuhan hukum. Transparansi berarti informasi keputusan tersedia dan dapat dipahami. Akuntabilitas berarti pihak yang memiliki kewenangan dapat diminta menjelaskan tindakan dan hasilnya. Partisipasi memberi ruang bagi kelompok terdampak untuk menyampaikan kebutuhan sebelum keputusan ditetapkan.
+
+Indikator tata kelola perlu dibaca sebagai alat bantu, bukan gambaran sempurna. Survei persepsi, data administrasi, audit, dan pengamatan lapangan memiliki kekuatan serta keterbatasan masing-masing. Penilaian yang bertanggung jawab membandingkan beberapa sumber dan menjelaskan kemungkinan bias.
+
+STUDI KASUS
+Sebuah layanan perizinan memerlukan banyak kunjungan dan dokumen yang sama. Susun peta proses, tandai tahapan yang tidak memberi nilai tambah, lalu usulkan penyederhanaan. Pastikan usulan tetap menjaga verifikasi, perlindungan hak, akses bagi warga yang kesulitan menggunakan layanan digital, dan jalur pengaduan.
+
+BAB 12. PEMBANGUNAN WILAYAH DAN KESENJANGAN
+
+Pembangunan wilayah dipengaruhi lokasi, sumber daya, sejarah investasi, kepadatan penduduk, konektivitas, dan kapasitas pemerintah daerah. Perbedaan hasil antardaerah tidak selalu menunjukkan perbedaan usaha individu; kondisi awal dan kesempatan juga berperan. Kebijakan wilayah perlu mengidentifikasi hambatan spesifik, bukan menyalin satu program ke semua tempat.
+
+Pusat pertumbuhan dapat menciptakan pekerjaan dan pasar bagi wilayah sekitarnya melalui hubungan perdagangan, perjalanan, dan rantai pasok. Namun, manfaat dapat terkonsentrasi jika transportasi mahal, keterampilan tidak cocok, atau usaha kecil tidak dapat masuk ke jaringan pemasok. Evaluasi perlu melihat siapa yang memperoleh manfaat, siapa yang menanggung biaya, dan bagaimana hubungan antardaerah terbentuk.
+
+Perencanaan berbasis tempat dapat menggabungkan data statistik, peta, konsultasi publik, dan pengetahuan lokal. Data rata-rata kabupaten dapat menyembunyikan kesenjangan antarkecamatan atau desa. Peta akses sekolah, fasilitas kesehatan, pasar, dan transportasi dapat membantu menunjukkan lokasi yang memerlukan perhatian.
+
+AKTIVITAS
+Buat profil singkat dua wilayah dengan indikator yang sama: pendidikan, kesehatan, pekerjaan, konektivitas, dan kualitas lingkungan. Jelaskan perbedaan konteks sebelum menyusun rekomendasi. Jangan menyimpulkan sebab-akibat hanya dari dua angka yang bergerak bersama.
+
+BAB 13. EVALUASI PROGRAM PEMBANGUNAN
+
+Program pembangunan memiliki tujuan, sasaran, kegiatan, keluaran, hasil, dan dampak. Keluaran adalah produk langsung kegiatan, seperti jumlah pelatihan yang diselenggarakan. Hasil menggambarkan perubahan yang dialami peserta, misalnya peningkatan keterampilan. Dampak merujuk pada perubahan lebih luas dan jangka panjang yang mungkin dipengaruhi banyak faktor.
+
+Rantai hasil atau teori perubahan menjelaskan bagaimana kegiatan diharapkan menghasilkan perubahan. Setiap hubungan perlu menyebut asumsi. Pelatihan, misalnya, mungkin meningkatkan keterampilan, tetapi peningkatan pendapatan juga memerlukan permintaan tenaga kerja, akses modal, dan kesempatan menerapkan keterampilan.
+
+Evaluasi proses menilai apakah program dijalankan sesuai rencana dan menjangkau sasaran. Evaluasi hasil menilai perubahan yang terjadi. Jika memungkinkan, pembanding yang layak membantu memperkirakan apa yang mungkin terjadi tanpa program. Namun, pemilihan metode harus mempertimbangkan etika, kualitas data, biaya, dan risiko salah tafsir.
+
+RANGKUMAN
+Pembangunan yang berhasil menghubungkan perubahan struktur ekonomi, infrastruktur, lembaga, pemerataan wilayah, dan evaluasi. Tidak ada satu indikator yang cukup untuk menggambarkan seluruh kesejahteraan. Kesimpulan yang kuat menggabungkan data, konteks, suara masyarakat, dan penjelasan keterbatasan.
+
+LATIHAN AKHIR
+1. Bedakan pertumbuhan output dengan perubahan kesejahteraan.
+2. Buat peta rantai nilai satu produk lokal.
+3. Sebutkan komponen biaya siklus hidup proyek infrastruktur.
+4. Jelaskan tiga unsur tata kelola yang dapat meningkatkan kepercayaan.
+5. Rancang indikator keluaran dan hasil untuk program pelatihan kerja.
+6. Mengapa perbandingan wilayah harus mempertimbangkan kondisi awal?

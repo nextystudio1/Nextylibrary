@@ -433,3 +433,20 @@ Periksa label daya beberapa perangkat rumah tangga tanpa membongkar atau menyent
 
 RANGKUMAN BAB
 Listrik, magnet, induksi, energi, dan daya menjelaskan banyak teknologi sehari-hari. Keselamatan merupakan bagian wajib dari pembelajaran kelistrikan; pengamatan dilakukan dari label dan demonstrasi aman.
+
+BAB GERAK MELINGKAR DAN GRAVITASI
+Gerak melingkar terjadi ketika benda bergerak mengikuti lintasan lingkaran. Kecepatan linear selalu menyinggung lintasan, sedangkan percepatan sentripetal mengarah ke pusat lingkaran. Besarnya percepatan sentripetal bergantung pada kuadrat kelajuan dan berbanding terbalik dengan jari-jari lintasan. Gaya resultan ke arah pusat mempertahankan gerak melingkar.
+
+Gaya sentripetal bukan jenis gaya baru; gaya tersebut merupakan resultan gaya nyata seperti tegangan, gesekan, atau gravitasi. Pada kendaraan yang berbelok, gesekan antara ban dan jalan dapat menyediakan gaya menuju pusat lintasan. Jika gesekan tidak cukup, kendaraan dapat tergelincir.
+
+MOMENTUM DAN IMPULS
+Momentum adalah hasil kali massa dan kecepatan. Impuls merupakan perubahan momentum akibat gaya yang bekerja selama selang waktu. Dalam sistem tertutup dengan resultan gaya luar dapat diabaikan, momentum total kekal. Prinsip ini membantu menjelaskan tumbukan dan gerak roket.
+
+TUMBUKAN
+Tumbukan elastis mempertahankan energi kinetik total sekaligus momentum, sedangkan tumbukan tidak elastis mempertahankan momentum tetapi sebagian energi kinetik berubah menjadi bentuk lain. Dalam tumbukan tidak elastis sempurna, benda bergerak bersama setelah tumbukan. Model nyata sering memiliki kehilangan energi akibat bunyi, panas, dan deformasi.
+
+LATIHAN
+Gunakan dua benda pada simulasi untuk membandingkan momentum sebelum dan sesudah tumbukan. Catat massa dan kecepatan, lalu jelaskan apakah momentum total mendekati tetap. Gunakan simulasi pendidikan, bukan percobaan berbahaya.
+
+RANGKUMAN
+Gerak melingkar, momentum, impuls, dan tumbukan memperluas pemahaman tentang gaya dan gerak. Hukum kekekalan berlaku dengan syarat sistem dan gaya luar diperhatikan.

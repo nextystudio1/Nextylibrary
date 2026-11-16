@@ -412,3 +412,20 @@ Buat peta konsep yang menghubungkan mikroorganisme, penguraian, daur unsur, ferm
 
 RANGKUMAN BAB
 Mikroorganisme memiliki peran luas bagi ekosistem, pangan, dan kesehatan. Memahami keragaman dan cara penularan membantu menghindari generalisasi serta penggunaan obat yang tidak tepat.
+
+BAB FOTOSINTESIS DAN RESPIRASI
+Fotosintesis mengubah energi cahaya menjadi energi kimia yang tersimpan dalam senyawa organik. Pada tumbuhan, kloroplas mengandung pigmen yang menangkap cahaya. Reaksi bergantung cahaya menghasilkan molekul pembawa energi, sedangkan siklus Calvin menggunakan karbon dioksida untuk membentuk senyawa organik. Laju fotosintesis dipengaruhi intensitas cahaya, konsentrasi karbon dioksida, suhu, air, dan kondisi daun.
+
+Respirasi sel memecah molekul organik untuk menghasilkan ATP yang dapat digunakan dalam proses sel. Glikolisis berlangsung di sitoplasma, sedangkan tahap berikutnya pada respirasi aerob berlangsung terutama di mitokondria. Fermentasi memungkinkan regenerasi molekul pembawa elektron ketika oksigen tidak digunakan sebagai penerima elektron akhir.
+
+HUBUNGAN ENERGI DAN MATERI
+Energi mengalir melalui ekosistem, sedangkan atom karbon dan unsur lain didaur ulang. Tumbuhan menyerap karbon dioksida dan organisme melepaskannya melalui respirasi serta proses lain. Pembakaran biomassa dan bahan bakar fosil juga memindahkan karbon ke atmosfer. Memahami perbedaan aliran energi dan daur materi penting untuk menjelaskan ekologi.
+
+ADAPTASI TUMBUHAN
+Tumbuhan memiliki adaptasi terhadap lingkungan, seperti bentuk daun, akar, lapisan kutikula, dan mekanisme pengaturan stomata. Adaptasi merupakan hasil perubahan populasi lintas generasi, bukan keputusan sadar individu. Lingkungan berbeda menyeleksi variasi yang berbeda.
+
+LATIHAN
+Buat diagram yang menghubungkan fotosintesis, respirasi, karbon dioksida, oksigen, glukosa, dan ATP. Jelaskan bagian yang menyimpan energi dan bagian yang melepaskannya.
+
+RANGKUMAN
+Fotosintesis dan respirasi menghubungkan energi dengan daur karbon. Adaptasi tumbuhan menunjukkan hubungan antara struktur, fungsi, dan lingkungan.

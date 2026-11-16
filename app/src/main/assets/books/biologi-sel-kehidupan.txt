@@ -300,3 +300,21 @@ Gunakan contoh organisme fiktif dengan variasi warna yang diwariskan. Buat simul
 
 RANGKUMAN BAB
 Pembelahan sel, pewarisan, mutasi, dan seleksi alam menjelaskan pertumbuhan serta keragaman kehidupan. Evolusi bekerja pada populasi lintas generasi dan didukung banyak jenis bukti ilmiah.
+
+BAB SINTESIS PROTEIN DAN REGULASI GEN
+Informasi genetik pada DNA dapat ditranskripsikan menjadi RNA. Pada sel eukariotik, RNA awal mengalami pemrosesan sebelum digunakan dalam translasi. Ribosom membaca kodon pada RNA pembawa pesan, sedangkan RNA transfer membawa asam amino untuk menyusun rantai polipeptida. Urutan asam amino memengaruhi pelipatan dan fungsi protein.
+
+REGULASI EKSPRESI
+Tidak semua gen aktif pada semua sel. Faktor transkripsi, modifikasi kromatin, sinyal sel, dan mekanisme RNA membantu mengatur kapan gen diekspresikan. Sel otot dan sel saraf memiliki DNA yang hampir sama tetapi fungsi berbeda karena pola ekspresi gen berbeda.
+
+EPIGENETIKA
+Epigenetika mempelajari perubahan pengaturan ekspresi gen yang tidak mengubah urutan DNA. Beberapa tanda epigenetik dapat berubah selama perkembangan dan dipengaruhi lingkungan, tetapi tidak semua perubahan diwariskan. Istilah ini tidak boleh digunakan untuk menyederhanakan sifat kompleks menjadi akibat satu pengalaman.
+
+BIOTEKNOLOGI DAN ETIKA
+Teknik biologi molekuler digunakan untuk penelitian, diagnosis, pertanian, dan produksi obat. Penggunaan teknologi genetik memerlukan penilaian keamanan, dampak lingkungan, keadilan akses, dan persetujuan yang sesuai. Hasil penelitian perlu dikomunikasikan dengan jelas tanpa menjanjikan manfaat yang belum terbukti.
+
+LATIHAN
+Buat diagram alur DNA ke RNA ke protein. Jelaskan peran transkripsi, translasi, dan regulasi gen. Gunakan model kertas atau diagram, bukan eksperimen biologis pada manusia atau hewan.
+
+RANGKUMAN
+Ekspresi gen menghubungkan informasi DNA dengan fungsi sel. Regulasi memungkinkan sel memiliki peran berbeda, sementara bioteknologi menuntut penilaian etis dan ilmiah.

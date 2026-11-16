@@ -404,3 +404,18 @@ Minta alat AI menjelaskan konsep sains tingkat sekolah dengan satu contoh. Perik
 
 RANGKUMAN BAB
 AI generatif dapat membantu belajar dan berkarya, tetapi keluaran perlu diverifikasi. Privasi, hak cipta, evaluasi, dan tanggung jawab manusia harus menjadi bagian dari setiap penggunaan.
+
+BAB AI DAN KERJA MASA DEPAN
+AI dapat mengotomatisasi sebagian tugas, membantu analisis, dan mengubah cara pekerjaan dilakukan. Dampaknya tidak sama pada semua profesi: beberapa tugas berkurang, tugas lain berubah, dan kebutuhan keterampilan baru muncul. Lebih tepat membahas perubahan tugas daripada menyatakan seluruh pekerjaan akan hilang atau seluruh pekerjaan akan aman.
+
+KETERAMPILAN MANUSIA
+Pemecahan masalah, komunikasi, kreativitas, penilaian etis, kerja sama, dan kemampuan belajar tetap penting ketika alat otomatis digunakan. Keterampilan teknis perlu dipadukan dengan pemahaman bidang. Orang yang menggunakan AI harus mampu memeriksa hasil dan bertanggung jawab atas keputusan.
+
+OTOMATISASI DAN KETIMPANGAN
+Manfaat produktivitas dapat terkonsentrasi pada organisasi atau kelompok yang memiliki akses teknologi, modal, dan keterampilan. Kebijakan pendidikan, pelatihan, perlindungan pekerja, dan akses digital dapat memengaruhi distribusi manfaat. Evaluasi perlu melihat kualitas pekerjaan, bukan hanya jumlah sistem yang diterapkan.
+
+LATIHAN
+Pilih satu pekerjaan umum dan uraikan tugas yang mungkin dibantu AI, tugas yang membutuhkan interaksi manusia, serta risiko kesalahan otomatisasi. Buat rekomendasi pelatihan yang realistis.
+
+RANGKUMAN
+AI mengubah tugas dan proses kerja, bukan dengan pola yang sama di semua sektor. Adaptasi membutuhkan keterampilan, pengawasan, dan kebijakan yang memperhatikan pemerataan.

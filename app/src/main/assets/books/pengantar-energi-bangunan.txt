@@ -55,7 +55,6 @@ EVALUASI AKHIR
 4. Uraikan cara membaca konsumsi energi peralatan dan mengidentifikasi pemborosan.
 5. Buat prioritas peningkatan efisiensi untuk bangunan dengan sumber daya terbatas.
 
-
 GLOSARIUM
 Selubung bangunan: Elemen pemisah ruang dalam dari lingkungan luar.
 Beban pendinginan: Energi yang diperlukan untuk menjaga kondisi termal ruang.

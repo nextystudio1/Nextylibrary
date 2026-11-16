@@ -142,3 +142,45 @@ LATIHAN PENDALAMAN
 3. Uraikan unsur pembentuk satu kalimat.
 4. Berikan contoh makna yang bergantung pada konteks.
 5. Jelaskan mengapa variasi dialek perlu dihormati.
+
+BAB 12. PSIKOLINGUISTIK: BAHASA DALAM PIKIRAN
+
+Psikolinguistik mengkaji hubungan bahasa dengan proses mental. Bidangnya mencakup pemerolehan bahasa, pemahaman ujaran, produksi kalimat, pengenalan kata, dan hubungan bahasa dengan ingatan. Ketika seseorang mendengar kalimat, ia tidak sekadar menerima bunyi satu per satu. Otak memanfaatkan pengetahuan bunyi, kosakata, tata bahasa, konteks, dan harapan untuk membangun tafsir secara cepat.
+
+Pemerolehan bahasa pertama berlangsung melalui interaksi yang kaya. Anak membangun pola dari paparan bahasa dan kesempatan berkomunikasi. Perkembangan tidak selalu seragam; variasi pengalaman, kondisi individu, dan lingkungan memengaruhi jalurnya. Pembelajaran bahasa kedua melibatkan faktor seperti intensitas paparan, kebutuhan komunikasi, strategi belajar, dan kesempatan menggunakan bahasa dalam konteks bermakna.
+
+BAB 13. PEMEROLEHAN DAN PEMBELAJARAN BAHASA KEDUA
+
+Pembelajaran bahasa kedua bukan sekadar menghafal daftar kata. Pembelajar perlu mengembangkan kemampuan memahami masukan, menghasilkan ujaran, membaca, menulis, serta menyesuaikan bahasa terhadap situasi. Kesalahan dapat menjadi petunjuk tentang aturan sementara yang sedang dibangun. Guru atau peneliti perlu membedakan kesalahan sistematis dari kekeliruan sesaat.
+
+Umpan balik yang efektif menjelaskan bagian yang perlu diperbaiki dan memberi kesempatan mencoba kembali. Paparan yang dapat dipahami, latihan bermakna, interaksi, dan refleksi membantu pembelajar mengembangkan kompetensi. Penilaian sebaiknya tidak hanya mengukur hafalan tata bahasa, tetapi juga kemampuan menyampaikan maksud dan memahami orang lain.
+
+BAB 14. ANALISIS WACANA DAN KOHESI
+
+Wacana adalah penggunaan bahasa dalam satuan yang lebih luas daripada kalimat. Hubungan antarkalimat dibangun melalui rujukan, pengulangan yang terarah, konjungsi, substitusi, dan hubungan makna. Kohesi berkaitan dengan penanda hubungan dalam teks, sedangkan koherensi berkaitan dengan keterpaduan makna yang dapat dibangun pembaca.
+
+Analisis wacana memperhatikan siapa berbicara, kepada siapa, untuk tujuan apa, melalui media apa, dan dalam situasi seperti apa. Satu pernyataan dapat memiliki fungsi berbeda dalam wawancara, debat, pengumuman, atau percakapan keluarga. Analisis yang bertanggung jawab mengutip konteks secukupnya dan tidak mengubah maksud penutur melalui pemotongan.
+
+BAB 15. PRAGMATIK, KESANTUNAN, DAN TINDAK TUTUR
+
+Tindak tutur menjelaskan bahwa ujaran dapat melakukan tindakan, misalnya meminta, berjanji, menyarankan, atau menyatakan. Keberhasilan tindakan bergantung pada konteks dan konvensi sosial. Kesantunan bukan daftar aturan universal; bentuk yang dianggap sopan dapat berbeda antarbahasa, komunitas, hubungan sosial, dan situasi.
+
+Strategi seperti sapaan, pilihan kata, penanda keraguan, atau bentuk tidak langsung dapat menjaga hubungan sosial. Namun, bentuk tidak langsung juga dapat menimbulkan ambiguitas. Dalam komunikasi lintas budaya, tanyakan dan klarifikasi bila perlu daripada menganggap satu gaya komunikasi mewakili seluruh anggota kelompok.
+
+BAB 16. KORPUS DAN LINGUISTIK KOMPUTASIONAL
+
+Korpus adalah kumpulan data bahasa yang disusun untuk tujuan analisis. Korpus dapat digunakan untuk mengamati frekuensi kata, kolokasi, variasi ragam, perubahan pemakaian, dan pola tata bahasa. Hasil pencarian korpus dipengaruhi desain sampel, periode, genre, metadata, serta cara anotasi. Frekuensi tinggi tidak otomatis berarti suatu bentuk lebih benar atau lebih baik.
+
+Linguistik komputasional mengembangkan metode untuk memproses bahasa menggunakan komputer, misalnya pemisahan kata, penandaan kelas kata, pengenalan entitas, dan analisis sentimen. Sistem otomatis dapat salah memahami ironi, dialek, bahasa campuran, atau konteks lokal. Data bahasa juga dapat memuat informasi pribadi; pengumpulan dan penggunaan harus menghormati izin, privasi, dan ketentuan lisensi.
+
+PROYEK: MINI-KORPUS BAHASA PUBLIK
+
+Kumpulkan teks publik yang penggunaannya diizinkan, misalnya pengumuman resmi yang memang tersedia untuk publik. Tentukan pertanyaan terbatas, kriteria pemilihan teks, dan rentang waktu. Catat metadata tanpa menyimpan data pribadi yang tidak diperlukan. Hitung pola sederhana, periksa contoh secara manual, dan jelaskan keterbatasan sampel. Jangan menggeneralisasi temuan mini-korpus kepada seluruh penutur bahasa.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Apa yang dipelajari psikolinguistik? Proses mental yang terlibat dalam memahami, menghasilkan, dan memperoleh bahasa.
+2. Mengapa kesalahan pembelajar dapat berguna? Kesalahan dapat memperlihatkan pola aturan yang sedang dibangun.
+3. Bedakan kohesi dan koherensi. Kohesi adalah penanda hubungan tekstual; koherensi adalah keterpaduan makna.
+4. Mengapa frekuensi korpus bukan ukuran kebenaran bahasa? Frekuensi dipengaruhi jenis dan cakupan data, bukan penilaian normatif.
+5. Sebutkan dua tantangan sistem bahasa otomatis. Konteks, ironi, dialek, bahasa campuran, dan bias data.

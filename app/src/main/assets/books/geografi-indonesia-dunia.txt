@@ -447,3 +447,34 @@ Bandingkan denah dua kawasan kota dari sumber peta terbuka. Catat akses ke sekol
 
 RANGKUMAN
 Geografi perkotaan mengkaji perubahan ruang, akses, dan risiko. Kota yang berkelanjutan memerlukan tata ruang inklusif dan layanan dasar yang terjangkau.
+
+LAMPIRAN PENGAYAAN: MEMAHAMI RUANG DAN WILAYAH
+
+1. SKALA GEOGRAFI
+Fenomena geografi dapat dikaji pada skala lokal, regional, nasional, dan global. Banjir di satu lingkungan mungkin berkaitan dengan saluran tersumbat, perubahan tutupan lahan di daerah hulu, tata ruang kota, serta pola hujan regional. Penjelasan yang hanya melihat satu skala berisiko melewatkan hubungan penting. Peneliti perlu memilih skala sesuai pertanyaan dan menghubungkan beberapa tingkat ketika diperlukan.
+
+2. PETA TEMATIK DAN DATA SPASIAL
+Peta tematik menampilkan satu tema, misalnya kepadatan penduduk, curah hujan, atau penggunaan lahan. Warna pada legenda harus dibaca dengan cermat: kelas warna dapat menunjukkan rentang nilai, bukan batas administratif. Dua peta hanya layak dibandingkan jika definisi indikator, tahun data, satuan, dan metode pengelompokan sebanding. Data spasial juga memiliki resolusi; data yang terlalu kasar dapat menyembunyikan variasi antarwilayah.
+
+3. KEPENDUDUKAN DAN MOBILITAS
+Jumlah penduduk dipengaruhi kelahiran, kematian, imigrasi, dan emigrasi. Kepadatan rata-rata tidak menggambarkan persebaran secara sempurna. Wilayah dengan kepadatan sedang dapat memiliki pusat permukiman yang sangat padat dan kawasan lain yang jarang penduduk. Mobilitas harian untuk sekolah dan bekerja juga membentuk kebutuhan transportasi, air, energi, serta layanan publik.
+
+4. KONEKTIVITAS ANTARWILAYAH
+Jaringan jalan, pelabuhan, bandara, dan telekomunikasi menghubungkan pusat produksi dengan pasar dan layanan. Konektivitas dapat membuka peluang ekonomi, tetapi manfaatnya tidak selalu terbagi merata. Analisis perlu menanyakan siapa yang memperoleh akses, berapa biaya perjalanan, apakah kelompok rentan terlayani, dan bagaimana dampak lingkungan dari pembangunan infrastruktur.
+
+5. KETAHANAN BENCANA
+Risiko bencana dipengaruhi bahaya, paparan, dan kerentanan. Bahaya adalah potensi kejadian seperti gempa atau banjir; paparan berkaitan dengan manusia dan aset yang berada di wilayah terdampak; kerentanan menunjukkan seberapa besar kemungkinan mengalami kerugian. Peta bahaya bukan ramalan pasti. Informasi risiko perlu dipadukan dengan rencana evakuasi resmi, kualitas bangunan, sistem peringatan, dan kesiapan masyarakat.
+
+6. PERUBAHAN PENGGUNAAN LAHAN
+Hutan, sawah, rawa, permukiman, dan kawasan industri memiliki fungsi berbeda. Perubahan lahan dapat mengubah aliran air, suhu lokal, habitat, serta mata pencaharian. Citra satelit membantu memantau perubahan, tetapi klasifikasi perlu diverifikasi dengan data lapangan karena bayangan, awan, musim, dan kemiripan objek dapat menyebabkan salah tafsir.
+
+7. STUDI KASUS PEMBELAJARAN
+Bayangkan sebuah kota mengalami genangan lebih sering. Kumpulkan data curah hujan, elevasi, lokasi saluran, perubahan permukaan kedap air, dan riwayat genangan. Bandingkan peta dari tahun berbeda. Wawancarai warga secara etis dan jangan menganggap satu kesaksian mewakili seluruh kota. Rumuskan beberapa kemungkinan penyebab, lalu jelaskan data tambahan yang diperlukan untuk mengujinya.
+
+8. LATIHAN
+Mengapa kepadatan penduduk rata-rata tidak cukup untuk menentukan lokasi fasilitas kesehatan? Karena distribusi penduduk, jaringan transportasi, waktu tempuh, hambatan geografis, dan kelompok yang membutuhkan layanan juga penting.
+Apa beda bahaya dan risiko? Bahaya adalah potensi kejadian merugikan, sedangkan risiko mempertimbangkan paparan dan kerentanan.
+Mengapa tahun data harus dicantumkan pada peta? Karena kondisi ruang berubah dan peta lama dapat tidak lagi mewakili keadaan sekarang.
+
+RANGKUMAN PENGAYAAN
+Geografi menghubungkan lokasi, lingkungan, manusia, dan jaringan. Peta serta data spasial harus dibaca bersama skala, waktu, definisi indikator, dan keterbatasan pengukuran.

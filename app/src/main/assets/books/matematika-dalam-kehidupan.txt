@@ -497,3 +497,33 @@ Rancang simulasi pembelian perlengkapan kelas dengan batas anggaran dan kebutuha
 
 RANGKUMAN
 Optimasi mengubah persoalan menjadi tujuan dan kendala yang jelas. Solusi harus diperiksa terhadap asumsi, kriteria, dan dampak praktis.
+
+LAMPIRAN PENGAYAAN: MATEMATIKA UNTUK MENGAMBIL KEPUTUSAN
+
+1. MEMBACA DATA SEBELUM MENGHITUNG
+Persoalan sehari-hari sering disajikan dalam tabel, grafik, iklan, atau pernyataan singkat. Langkah pertama bukan langsung memasukkan angka ke rumus, melainkan mengenali apa yang diukur, satuannya, rentang waktunya, dan siapa yang mengumpulkan data. Angka 20 persen dapat berarti kenaikan dibanding nilai awal, bagian dari keseluruhan, atau tingkat diskon. Ketiganya tidak selalu menghasilkan perhitungan yang sama.
+
+Contoh: harga sebuah barang naik dari Rp80.000 menjadi Rp100.000. Kenaikannya Rp20.000. Persentase kenaikan dihitung terhadap harga awal, yaitu 20.000/80.000 × 100% = 25%. Jika kemudian harga turun 20% dari Rp100.000, harga akhirnya Rp80.000, bukan Rp80.000? Perhitungan penurunan adalah 20.000 sehingga kembali menjadi Rp80.000. Contoh ini menunjukkan bahwa persentase harus selalu menyebut basis pembanding.
+
+2. MEMBANDINGKAN PILIHAN DENGAN SATUAN YANG SETARA
+Harga paket tidak dapat dibandingkan hanya dari angka total. Hitung harga per satuan: harga dibagi jumlah atau ukuran. Paket A berisi 750 gram seharga Rp18.000, sedangkan paket B berisi 1 kilogram seharga Rp23.000. Harga per kilogram A adalah Rp24.000, sedangkan B Rp23.000. Paket B lebih murah per kilogram, tetapi keputusan tetap mempertimbangkan kebutuhan, masa simpan, dan kemungkinan makanan terbuang.
+
+3. RASIO, SKALA, DAN PROPORSI
+Rasio membandingkan dua besaran. Pada peta berskala 1:100.000, satu sentimeter pada peta mewakili 100.000 sentimeter atau satu kilometer di lapangan. Skala hanya berlaku jika peta dicetak atau ditampilkan pada ukuran yang sesuai. Memperbesar gambar peta tanpa memperbarui keterangan skala dapat membuat pembacaan jarak keliru.
+
+4. KETIDAKPASTIAN PENGUKURAN
+Hasil pengukuran tidak selalu tepat mutlak. Penggaris dengan skala milimeter tidak dapat memberikan ketelitian hingga mikrometer. Tuliskan hasil sesuai kemampuan alat dan jangan menambahkan angka desimal yang tidak didukung pengukuran. Dalam eksperimen, pengulangan membantu melihat variasi. Rata-rata merangkum pusat data, sedangkan rentang atau simpangan baku memberi gambaran penyebaran.
+
+5. MEMBANGUN MODEL SEDERHANA
+Model matematika menyederhanakan keadaan nyata. Misalnya biaya perjalanan dapat ditulis sebagai biaya tetap ditambah biaya per kilometer dikalikan jarak. Model ini berguna untuk perkiraan, tetapi belum tentu mencakup kemacetan, tarif berubah, atau biaya parkir. Setiap model harus menyatakan asumsi dan batas penggunaannya.
+
+6. LATIHAN TERBIMBING
+Soal A: Sebuah toko memberi potongan 15% pada barang seharga Rp240.000. Besar potongan adalah 0,15 × 240.000 = Rp36.000. Harga setelah potongan adalah Rp204.000.
+Soal B: Jarak dua kota pada peta 4,5 cm dengan skala 1:200.000. Jarak sebenarnya 4,5 × 200.000 cm = 900.000 cm = 9 km.
+Soal C: Nilai ulangan 70, 75, 80, 85, dan 90. Rata-rata adalah 400/5 = 80. Median juga 80. Kesamaan ini terjadi pada contoh tersebut, tetapi tidak selalu terjadi pada kumpulan data lain.
+
+7. EVALUASI DIRI
+Jelaskan mengapa diskon 20% lalu kenaikan 20% tidak otomatis mengembalikan harga awal. Buat satu contoh perbandingan harga per satuan. Sebutkan asumsi yang diperlukan ketika menggunakan model biaya perjalanan. Periksa jawaban dengan menuliskan satuan pada setiap langkah.
+
+RANGKUMAN PENGAYAAN
+Matematika membantu mengambil keputusan jika angka dibaca bersama konteks, satuan, asumsi, dan ketidakpastian. Perhitungan yang benar bukan hanya menghasilkan angka, tetapi juga menjelaskan arti dan batas kesimpulannya.

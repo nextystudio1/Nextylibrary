@@ -358,3 +358,35 @@ Buat diagram aliran karbon antara atmosfer, tumbuhan, tanah, laut, dan bahan bak
 
 RANGKUMAN
 Siklus karbon dan umpan balik iklim menjelaskan hubungan aktivitas manusia dengan sistem Bumi. Pengamatan, eksperimen, dan model diperlukan untuk memahami perubahan serta ketidakpastiannya.
+
+LAMPIRAN PENGAYAAN: EKOLOGI DAN PERUBAHAN IKLIM
+
+1. TINGKAT ORGANISASI KEHIDUPAN
+Ekologi mempelajari hubungan organisme dengan lingkungannya pada tingkat individu, populasi, komunitas, ekosistem, hingga biosfer. Perubahan pada satu tingkat dapat memengaruhi tingkat lain. Penurunan populasi penyerbuk, misalnya, dapat mengubah keberhasilan reproduksi tumbuhan tertentu dan kemudian memengaruhi organisme yang bergantung pada tumbuhan tersebut. Namun hubungan ekologis jarang sesederhana satu sebab dan satu akibat.
+
+2. RELUNG DAN KOMPETISI
+Relung ekologi menggambarkan peran organisme serta sumber daya dan kondisi yang dibutuhkannya. Dua spesies dapat bersaing jika menggunakan sumber daya terbatas yang sama. Kompetisi dapat mendorong perubahan perilaku, penggunaan ruang, atau pembagian waktu aktivitas. Keberadaan spesies tidak hanya ditentukan oleh kompetisi; predasi, penyakit, iklim, dan sejarah wilayah juga berpengaruh.
+
+3. JARING-JARING MAKANAN
+Rantai makanan menggambarkan satu jalur perpindahan energi, sedangkan jaring-jaring makanan menunjukkan banyak hubungan sekaligus. Energi mengalir melalui tingkat trofik dan sebagian besar digunakan untuk metabolisme atau terlepas sebagai panas. Karena itu energi yang tersedia pada tingkat trofik lebih tinggi umumnya lebih kecil. Materi seperti karbon dan nitrogen berbeda: materi dapat didaur ulang melalui proses biogeokimia.
+
+4. SUKSESI DAN PEMULIHAN EKOSISTEM
+Suksesi adalah perubahan komposisi komunitas sepanjang waktu. Setelah gangguan, spesies perintis dapat menempati ruang terbuka, mengubah kondisi tanah, dan memengaruhi spesies berikutnya. Pemulihan tidak selalu kembali persis ke keadaan sebelum gangguan. Hasilnya bergantung pada jenis gangguan, sumber benih, kondisi tanah, iklim, dan tekanan manusia. Keberhasilan restorasi sebaiknya diukur melalui indikator ekologis, bukan hanya jumlah bibit yang ditanam.
+
+5. SIKLUS KARBON
+Karbon bergerak di antara atmosfer, organisme, tanah, laut, dan batuan. Fotosintesis menyerap karbon dioksida, sedangkan respirasi, penguraian, dan pembakaran melepaskannya. Laut menyerap sebagian karbon dari atmosfer, tetapi penyerapan ini mengubah kimia air laut. Pembakaran bahan bakar fosil memindahkan karbon yang tersimpan sangat lama ke atmosfer dalam waktu relatif singkat sehingga mengganggu keseimbangan siklus.
+
+6. MEMBEDAKAN CUACA DAN IKLIM
+Cuaca menjelaskan keadaan atmosfer pada waktu dan tempat tertentu. Iklim merangkum pola statistik cuaca dalam jangka panjang, termasuk rata-rata dan variasinya. Satu hari dingin tidak membantah tren pemanasan global, sebagaimana satu hari panas tidak cukup untuk membuktikannya. Analisis iklim menggunakan catatan panjang, banyak lokasi, serta pengendalian terhadap perubahan alat dan metode pengamatan.
+
+7. ADAPTASI DAN MITIGASI
+Mitigasi mengurangi sumber emisi gas rumah kaca atau meningkatkan penyerapannya. Adaptasi mengurangi kerugian akibat dampak iklim yang telah terjadi atau diperkirakan. Contoh adaptasi meliputi perlindungan wilayah pesisir, pengelolaan air, sistem peringatan, dan penyesuaian kalender tanam. Pilihan kebijakan perlu mempertimbangkan keadilan: kelompok yang paling sedikit berkontribusi terhadap emisi dapat memiliki kemampuan adaptasi paling terbatas.
+
+8. MEMERIKSA KLAIM LINGKUNGAN
+Klaim seperti “produk ini ramah lingkungan” perlu diperiksa berdasarkan seluruh daur hidup, bukan hanya satu tahap. Tanyakan bahan baku, proses produksi, transportasi, masa pakai, perbaikan, dan akhir penggunaan. Satu indikator yang membaik belum tentu berarti dampak keseluruhan turun. Perbandingan harus menggunakan fungsi dan batas sistem yang setara.
+
+9. LATIHAN PEMAHAMAN
+Jelaskan mengapa jaring-jaring makanan lebih realistis daripada satu rantai makanan. Berikan contoh perbedaan mitigasi dan adaptasi. Mengapa data iklim perlu rentang waktu panjang? Jawaban yang baik menghubungkan konsep, contoh, serta keterbatasan bukti.
+
+RANGKUMAN PENGAYAAN
+Ekosistem merupakan jaringan hubungan dinamis. Memahami perubahan lingkungan memerlukan pengamatan lintas skala, pemahaman siklus materi dan aliran energi, serta evaluasi bukti dan keadilan kebijakan.

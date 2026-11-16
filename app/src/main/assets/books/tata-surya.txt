@@ -366,3 +366,37 @@ Buat diagram posisi Matahari, Bumi, dan Bulan untuk fase baru, purnama, kuartal 
 
 RANGKUMAN
 Bulan memengaruhi pengamatan langit dan pasang surut melalui orbit serta gravitasi. Geometri sistem menjelaskan fase dan gerhana.
+
+LAMPIRAN PENGAYAAN: DINAMIKA TATA SURYA
+
+1. GRAVITASI DAN ORBIT
+Gravitasi menjaga planet, satelit, dan benda kecil tetap terikat pada sistem orbit. Orbit bukan lintasan melingkar sempurna untuk semua benda; banyak orbit berbentuk elips. Kecepatan dan jarak berubah sepanjang orbit elips. Benda bergerak lebih cepat ketika lebih dekat dengan pusat tarikannya dan lebih lambat ketika lebih jauh, sesuai hukum gerak orbit.
+
+2. ROTASI, REVOLUSI, DAN MUSIM
+Rotasi adalah perputaran benda pada sumbunya, sedangkan revolusi adalah gerak mengelilingi benda lain. Siang dan malam terutama disebabkan rotasi Bumi. Musim terutama terjadi karena sumbu rotasi Bumi miring terhadap bidang orbitnya, sehingga sudut datang sinar Matahari dan lama penyinaran berubah sepanjang tahun. Jarak Bumi-Matahari bukan penyebab utama pergantian musim.
+
+3. PLANET KEBUMIAN DAN RAKSASA
+Merkurius, Venus, Bumi, dan Mars memiliki permukaan padat dan disebut planet kebumian. Jupiter dan Saturnus didominasi unsur ringan, sedangkan Uranus dan Neptunus sering dikelompokkan sebagai raksasa es karena komposisi bagian dalamnya berbeda. Kategori ini membantu membandingkan struktur, atmosfer, cincin, satelit, dan sejarah pembentukan planet.
+
+4. ATMOSFER DAN PERMUKAAN PLANET
+Atmosfer planet dipengaruhi gravitasi, suhu, komposisi, serta sejarah kehilangan dan penambahan gas. Venus memiliki atmosfer sangat tebal dengan efek rumah kaca kuat. Mars memiliki atmosfer tipis dan permukaan yang menunjukkan jejak air masa lalu. Perbandingan planet membantu ilmuwan menguji bagaimana atmosfer berevolusi, tetapi kondisi setiap planet tidak dapat disamakan begitu saja dengan Bumi.
+
+5. ASTEROID, KOMET, DAN METEOR
+Asteroid adalah benda kecil berbatu atau logam yang mengorbit Matahari. Komet mengandung es dan debu; ketika mendekati Matahari, sebagian material menguap dan membentuk koma serta ekor. Meteoroid adalah pecahan kecil di ruang angkasa, meteor adalah gejala cahaya ketika memasuki atmosfer, dan meteorit adalah bagian yang mencapai permukaan. Istilah ini menunjuk tahap yang berbeda.
+
+6. BULAN DAN PASANG SURUT
+Fase Bulan terjadi karena kita melihat bagian permukaan Bulan yang disinari Matahari dari sudut berbeda sepanjang orbitnya. Fase bukan disebabkan bayangan Bumi, kecuali saat gerhana Bulan. Pasang surut terutama dipengaruhi perbedaan tarikan gravitasi Bulan pada bagian Bumi yang berbeda, dengan kontribusi Matahari. Bentuk garis pantai, kedalaman, dan bentuk teluk dapat memperkuat atau mengubah pola pasang.
+
+7. MENILAI MODEL TATA SURYA
+Model skala sering tidak dapat menampilkan ukuran planet dan jarak orbit secara bersamaan pada halaman kecil. Jika ukuran planet dibuat mudah dilihat, jarak antarplanet biasanya tidak lagi sesuai skala. Model adalah alat bantu, bukan salinan sempurna alam. Pembelajar perlu bertanya aspek apa yang dipertahankan dan aspek apa yang disederhanakan.
+
+8. AKTIVITAS PENGAMATAN AMAN
+Catat posisi Bulan pada waktu yang berbeda selama beberapa minggu, tanpa melihat Matahari secara langsung. Gambar bentuk fase yang tampak dan bandingkan dengan tanggal. Amati perubahan posisi relatif terhadap bangunan atau horizon dari lokasi yang sama. Catatan harus menyertakan waktu, arah, cuaca, dan kondisi pengamatan agar dapat dibandingkan.
+
+9. LATIHAN DAN PEMBAHASAN
+Mengapa musim di Bumi tidak terutama disebabkan jarak dari Matahari? Karena kemiringan sumbu mengubah sudut penyinaran dan panjang siang pada tiap belahan Bumi.
+Apa perbedaan meteor dan meteorit? Meteor adalah gejala cahaya di atmosfer, sedangkan meteorit adalah material yang mencapai permukaan.
+Mengapa fase Bulan berulang? Karena geometri Matahari-Bumi-Bulan berubah secara periodik seiring orbit Bulan.
+
+RANGKUMAN PENGAYAAN
+Tata Surya merupakan sistem dinamis yang diatur gravitasi dan sejarah pembentukan. Memahami gerak, musim, fase, serta benda kecil membutuhkan model yang jelas dan pengamatan yang teliti.

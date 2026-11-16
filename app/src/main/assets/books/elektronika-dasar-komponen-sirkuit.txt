@@ -398,3 +398,34 @@ Gunakan simulator rangkaian untuk membandingkan daya masukan dan keluaran pada d
 
 RANGKUMAN
 Catu daya, regulator, efisiensi, dan pengelolaan panas menentukan kestabilan sistem elektronik. Rancangan harus mengikuti spesifikasi dan prosedur keselamatan.
+
+LAMPIRAN PENGAYAAN: ELEKTRONIKA DALAM SISTEM NYATA
+
+1. DARI DIAGRAM BLOK KE ALIRAN ENERGI
+Sistem elektronik dapat dipahami sebagai rangkaian blok: sumber energi, pengondisi sinyal, pemroses, keluaran, dan umpan balik. Pada termometer digital, sensor mengubah suhu menjadi perubahan sinyal listrik. Rangkaian pengondisi membuat sinyal lebih mudah dibaca, pengendali mengolahnya, lalu layar menampilkan hasil. Diagram blok membantu menemukan bagian yang perlu diperiksa tanpa menebak-nebak komponen.
+
+2. SENSOR DAN KALIBRASI
+Sensor tidak membaca besaran fisik secara sempurna. Karakteristik pentingnya meliputi rentang ukur, sensitivitas, resolusi, waktu respons, dan ketidakpastian. Kalibrasi membandingkan pembacaan sensor dengan acuan yang diketahui. Jika sensor suhu menunjukkan nilai yang selalu lebih tinggi daripada acuan, diperlukan koreksi sesuai prosedur dan rentang kalibrasi. Satu titik kalibrasi belum tentu cukup untuk seluruh rentang.
+
+3. SINYAL ANALOG DAN DIGITAL
+Sinyal analog berubah secara kontinu, sedangkan sistem digital merepresentasikan nilai dalam bentuk diskret. Konverter analog-ke-digital mengambil sampel sinyal dan mengubahnya menjadi angka. Frekuensi sampling harus cukup untuk menangkap perubahan sinyal yang ingin diamati. Selain laju sampling, resolusi bit menentukan banyaknya tingkat nilai yang dapat direpresentasikan. Gangguan listrik, pembulatan, dan rentang masukan juga memengaruhi hasil.
+
+4. UMPAN BALIK PADA PENGENDALI
+Pengendali umpan balik membandingkan nilai keluaran dengan nilai target. Selisihnya disebut galat. Pengendali kemudian mengubah masukan sistem agar galat mengecil. Contohnya pengatur suhu ruangan: sensor membaca suhu, pengendali membandingkannya dengan setelan, lalu mengatur pemanas atau pendingin. Pengaturan yang terlalu agresif dapat menyebabkan suhu berosilasi. Respons sistem dipengaruhi karakteristik perangkat, jeda sensor, dan kondisi lingkungan.
+
+5. GANGGUAN DAN KUALITAS PENGUKURAN
+Gangguan dapat berasal dari kabel, sumber daya, interferensi elektromagnetik, sambungan longgar, atau lingkungan. Pemisahan jalur sinyal dan daya, pembumian yang dirancang benar, penyaringan, serta tata letak papan yang baik dapat mengurangi gangguan. Perubahan rangkaian harus dilakukan setelah sumber energi diputus dan kapasitor yang relevan ditangani sesuai petunjuk pabrikan. Jangan menyentuh bagian bertegangan atau mencoba rangkaian listrik rumah tanpa pendamping kompeten.
+
+6. MEMBACA LEMBAR DATA
+Lembar data komponen menjelaskan batas tegangan, arus, daya, suhu kerja, konfigurasi pin, kondisi pengujian, dan karakteristik listrik. Nilai maksimum absolut bukan nilai operasi yang dianjurkan terus-menerus. Rancangan harus memiliki margin yang memadai dan memperhatikan pendinginan. Pastikan nomor komponen dan versi lembar data cocok dengan komponen yang digunakan.
+
+7. CONTOH ANALISIS KONSEPTUAL
+Sebuah lampu indikator tidak menyala. Diagram blok menunjukkan kemungkinan sumber daya, pengendali, jalur keluaran, atau lampu. Pemeriksaan konseptual dimulai dari gejala: apakah perangkat lain juga mati, apakah indikator daya menyala, dan apakah ada pesan kesalahan. Tanpa membuka perangkat atau menyentuh bagian listrik, pengguna dapat memeriksa sambungan eksternal yang aman dan mengikuti panduan resmi. Jika masalah berlanjut, teknisi yang kompeten perlu memeriksa perangkat.
+
+8. LATIHAN DAN PEMBAHASAN
+Pertanyaan: Mengapa sensor perlu dikalibrasi? Jawaban: karena pembacaan dapat memiliki offset, kesalahan skala, atau perubahan karakteristik sehingga perlu dibandingkan dengan acuan.
+Pertanyaan: Apa beda resolusi dan akurasi? Jawaban: resolusi adalah perubahan terkecil yang dapat ditampilkan atau dibedakan; akurasi berkaitan dengan kedekatan hasil terhadap nilai acuan.
+Pertanyaan: Mengapa batas maksimum absolut tidak boleh dianggap sebagai nilai kerja normal? Jawaban: karena batas itu menunjukkan kondisi ekstrem yang dapat merusak atau mengurangi keandalan komponen.
+
+RANGKUMAN PENGAYAAN
+Memahami sistem elektronik berarti menelusuri energi, sinyal, sensor, pemrosesan, dan umpan balik. Dokumentasi komponen, kalibrasi, keselamatan, serta pengujian terukur menjadi dasar rancangan yang andal.

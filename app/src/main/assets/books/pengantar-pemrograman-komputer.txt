@@ -98,31 +98,31 @@ LATIHAN
 3. Mengapa kasus batas penting? Jawaban: kesalahan sering muncul pada nilai ekstrem atau masukan kosong.
 
 PENDALAMAN: MERANCANG, MENGUJI, DAN MEMELIHARA PROGRAM
-BAB 7 — MEMECAH MASALAH MENJADI ALGORITMA
+BAB 13 — MEMECAH MASALAH MENJADI ALGORITMA
 Sebelum menulis kode, jelaskan masukan, keluaran, dan aturan proses. Contoh: program menghitung total belanja menerima daftar harga dan jumlah barang, memeriksa nilai masukan, mengalikan harga dengan jumlah, lalu menjumlahkan hasil. Uraian langkah dalam bahasa sehari-hari atau pseudocode membantu menemukan bagian yang belum jelas.
 Dekomposisi memecah persoalan besar menjadi bagian kecil. Abstraksi mempertahankan informasi yang penting dan mengabaikan rincian yang tidak diperlukan. Pengenalan pola membantu menemukan proses yang dapat digunakan ulang. Keempat keterampilan ini merupakan inti berpikir komputasional, bukan sekadar menghafal sintaks.
-BAB 8 — TIPE DATA, RUANG LINGKUP, DAN KETEPATAN
+BAB 14 — TIPE DATA, RUANG LINGKUP, DAN KETEPATAN
 Tipe data menentukan jenis nilai dan operasi yang masuk akal. Bilangan bulat cocok untuk jumlah benda, bilangan pecahan untuk ukuran yang memerlukan desimal, teks untuk nama, dan nilai logika untuk kondisi benar atau salah. Memilih tipe yang keliru dapat menimbulkan hasil salah, misalnya pembagian bilangan bulat yang membuang bagian desimal pada bahasa tertentu.
 Variabel lokal biasanya hanya berlaku dalam fungsi atau blok tempat ia didefinisikan. Ruang lingkup yang jelas mengurangi perubahan nilai tak terduga. Gunakan nama yang menjelaskan makna, seperti total_harga, bukan x1, kecuali untuk variabel indeks sederhana.
-BAB 9 — FUNGSI DAN PEMECAHAN MODUL
+BAB 15 — FUNGSI DAN PEMECAHAN MODUL
 Fungsi mengemas tugas tertentu agar dapat dipanggil berkali-kali. Fungsi yang baik memiliki tujuan jelas, masukan yang terdefinisi, dan keluaran yang dapat diprediksi. Hindari fungsi yang melakukan terlalu banyak hal sekaligus. Pisahkan validasi masukan, perhitungan, dan tampilan agar tiap bagian lebih mudah diuji.
 Modul mengelompokkan fungsi dan data terkait. Pemisahan modul membantu tim bekerja, memudahkan pemeliharaan, dan membatasi ketergantungan. Namun, terlalu banyak lapisan untuk program kecil juga dapat membuat struktur sulit dipahami. Pilih tingkat pemisahan sesuai kompleksitas.
-BAB 10 — STRUKTUR DATA DASAR
+BAB 16 — STRUKTUR DATA DASAR
 Array atau daftar menyimpan beberapa nilai berurutan. Peta atau kamus menyimpan pasangan kunci dan nilai. Himpunan menyimpan elemen unik. Pemilihan struktur data memengaruhi cara pencarian, penambahan, dan penghapusan dilakukan.
 Misalnya daftar cocok untuk urutan tugas, kamus cocok untuk menghubungkan kode barang dengan harga, sedangkan himpunan cocok untuk memeriksa apakah sebuah alamat surel sudah pernah dicatat. Pahami pula bahwa indeks daftar sering dimulai dari nol pada banyak bahasa, sehingga kesalahan batas indeks dapat menyebabkan program gagal.
-BAB 11 — PENGUJIAN DAN DEBUGGING
+BAB 17 — PENGUJIAN DAN DEBUGGING
 Pengujian memeriksa apakah program berperilaku sesuai kebutuhan. Kasus normal menguji penggunaan sehari-hari; kasus batas menguji nilai minimum, maksimum, kosong, atau sangat besar; kasus tidak valid menguji masukan yang salah format. Jangan hanya menguji satu contoh yang kebetulan berhasil.
 Debugging adalah proses menemukan dan memperbaiki sumber kesalahan. Baca pesan kesalahan, buat ulang masalah dengan contoh sekecil mungkin, periksa asumsi, dan ubah satu hal pada satu waktu. Setelah perbaikan, jalankan kembali pengujian lama agar masalah tidak muncul lagi.
-BAB 12 — KOMPLEKSITAS DAN EFISIENSI
+BAB 18 — KOMPLEKSITAS DAN EFISIENSI
 Kompleksitas waktu menggambarkan bagaimana kebutuhan langkah bertambah ketika ukuran masukan meningkat. Algoritma pencarian linear memeriksa elemen satu per satu; pada daftar panjang, jumlah pemeriksaan dapat meningkat sebanding dengan jumlah elemen. Pencarian biner dapat lebih cepat, tetapi mensyaratkan data terurut.
 Notasi Big O membantu membandingkan pertumbuhan, bukan memprediksi detik secara tepat. Faktor perangkat keras, bahasa, dan implementasi juga berpengaruh. Untuk pemula, utamakan kebenaran dan keterbacaan, lalu ukur kinerja sebelum melakukan optimasi.
-BAB 13 — KEAMANAN DAN PRIVASI DALAM PEMROGRAMAN
+BAB 19 — KEAMANAN DAN PRIVASI DALAM PEMROGRAMAN
 Program harus memperlakukan masukan pengguna sebagai data yang belum tentu aman. Validasi format dan rentang, batasi hak akses, dan jangan menyimpan kata sandi dalam bentuk teks biasa. Rahasia seperti token API tidak boleh ditanam langsung dalam aplikasi publik atau diunggah ke repositori.
 Kumpulkan data pribadi sesedikit mungkin dan jelaskan tujuan penggunaannya. Gunakan pustaka dari sumber tepercaya, perbarui dependensi, dan periksa izin aplikasi. Pesan kesalahan untuk pengguna sebaiknya membantu tanpa membocorkan informasi internal yang sensitif.
-BAB 14 — KONTROL VERSI DAN KERJA TIM
+BAB 20 — KONTROL VERSI DAN KERJA TIM
 Sistem kontrol versi menyimpan riwayat perubahan kode. Commit kecil dengan pesan yang jelas memudahkan penelusuran. Cabang kerja memungkinkan pengembangan fitur secara terpisah, sedangkan peninjauan perubahan membantu menemukan kesalahan sebelum digabungkan.
 Dokumentasikan cara menjalankan proyek, versi perangkat yang diperlukan, dan langkah pengujian. Saat terjadi konflik perubahan, pahami kedua versi sebelum memilih atau menggabungkan bagian. Jangan menimpa pekerjaan rekan tanpa komunikasi.
-BAB 15 — PROYEK TERPADU: PENGELOLA TUGAS SEDERHANA
+BAB 21 — PROYEK TERPADU: PENGELOLA TUGAS SEDERHANA
 Rancang program daftar tugas dengan fitur menambah, menampilkan, menandai selesai, dan menghapus tugas. Tentukan struktur data, aturan validasi, serta perilaku ketika daftar kosong atau nomor tugas tidak ditemukan. Pisahkan logika pengelolaan dari antarmuka.
 Buat kasus uji untuk daftar kosong, satu tugas, beberapa tugas, nomor tidak valid, dan masukan kosong. Setelah versi dasar stabil, tambahkan penyimpanan lokal dan pencarian. Dokumentasikan batasan: misalnya data hanya tersimpan pada perangkat dan belum disinkronkan.
 LATIHAN PENDALAMAN
@@ -135,25 +135,25 @@ GLOSARIUM TAMBAHAN
 Algoritma: urutan langkah untuk menyelesaikan masalah. Debugging: proses menemukan dan memperbaiki kesalahan. Dependensi: pustaka atau komponen yang dibutuhkan program. Kompleksitas: gambaran pertumbuhan kebutuhan sumber daya. Modul: bagian program dengan tanggung jawab tertentu. Pseudocode: uraian algoritma yang menyerupai kode tetapi tidak terikat sintaks bahasa.
 
 PENDALAMAN LANJUTAN: STRUKTUR DATA, KUALITAS, DAN REKAYASA PERANGKAT LUNAK
-BAB 7 — STRUKTUR DATA DASAR
+BAB 22 — STRUKTUR DATA DASAR
 Array menyimpan kumpulan elemen yang dapat diakses melalui indeks. List dapat menyediakan operasi penambahan dan penghapusan yang lebih fleksibel. Stack mengikuti prinsip terakhir masuk pertama keluar, sedangkan queue mengikuti prinsip pertama masuk pertama keluar.
 Pemilihan struktur data memengaruhi kecepatan operasi dan penggunaan memori. Pilih berdasarkan operasi yang paling sering dilakukan dan ukuran data.
-BAB 8 — FUNGSI, MODULARITAS, DAN RUANG LINGKUP
+BAB 23 — FUNGSI, MODULARITAS, DAN RUANG LINGKUP
 Fungsi membungkus pekerjaan tertentu sehingga dapat digunakan ulang. Parameter menerima masukan dan nilai kembali menyampaikan hasil. Ruang lingkup menentukan bagian program yang dapat mengakses variabel.
 Modularitas memudahkan pengujian dan pemeliharaan. Fungsi sebaiknya memiliki tanggung jawab jelas dan tidak bergantung pada keadaan global yang tidak perlu.
-BAB 9 — PENANGANAN KESALAHAN
+BAB 24 — PENANGANAN KESALAHAN
 Kesalahan sintaks terjadi ketika aturan bahasa dilanggar, kesalahan runtime muncul saat program berjalan, dan kesalahan logika menghasilkan keluaran yang tidak sesuai. Pesan kesalahan perlu dibaca sebagai petunjuk, bukan diabaikan.
 Validasi masukan, penanganan pengecualian, dan pencatatan kejadian membantu program lebih tangguh. Jangan menampilkan informasi rahasia dalam pesan kesalahan kepada pengguna.
-BAB 10 — BERKAS DAN BASIS DATA
+BAB 25 — BERKAS DAN BASIS DATA
 Program dapat membaca dan menulis berkas untuk menyimpan informasi. Format teks sederhana mudah diperiksa, sedangkan format terstruktur seperti JSON memudahkan pertukaran data. Basis data diperlukan ketika data perlu dicari, diperbarui, dan dijaga konsistensinya.
 Selalu periksa kegagalan baca-tulis, encoding, dan izin akses. Buat cadangan data penting dan hindari menyimpan kata sandi dalam teks biasa.
-BAB 11 — ANTARMUKA DAN API
+BAB 26 — ANTARMUKA DAN API
 Antarmuka memungkinkan pengguna berinteraksi dengan program. API memungkinkan program berkomunikasi dengan layanan lain melalui aturan permintaan dan respons. Dokumentasi API harus menjelaskan parameter, format data, autentikasi, dan kemungkinan kesalahan.
 Validasi data dari luar sistem karena masukan dapat salah atau tidak tepercaya. Batasi hak akses sesuai kebutuhan dan lindungi token autentikasi.
-BAB 12 — PENGUJIAN DAN KONTROL VERSI
+BAB 27 — PENGUJIAN DAN KONTROL VERSI
 Uji unit memeriksa bagian kecil, uji integrasi memeriksa hubungan antarbagian, dan uji sistem menilai aplikasi secara menyeluruh. Kasus uji harus mencakup masukan normal, batas, kosong, dan tidak valid.
 Kontrol versi mencatat perubahan sehingga tim dapat membandingkan, meninjau, dan memulihkan kode. Pesan commit sebaiknya menjelaskan perubahan secara spesifik.
-BAB 13 — KEAMANAN DAN PEMELIHARAAN
+BAB 28 — KEAMANAN DAN PEMELIHARAAN
 Praktik aman mencakup pembaruan dependensi, validasi masukan, pengelolaan rahasia, pembatasan izin, dan pencadangan. Jangan menganggap aplikasi kecil bebas dari risiko keamanan.
 Pemeliharaan meliputi perbaikan bug, peningkatan kompatibilitas, dokumentasi, dan penghapusan kode yang tidak lagi digunakan. Catat perubahan agar pengguna mengetahui dampaknya.
 LATIHAN PENDALAMAN
@@ -163,17 +163,17 @@ LATIHAN PENDALAMAN
 4. Mengapa rahasia tidak boleh ditulis langsung dalam kode publik? Jawaban: dapat terekspos dan disalahgunakan.
 
 PENDALAMAN REKAYASA PERANGKAT LUNAK
-BAB 14 — STRUKTUR DATA
+BAB 29 — STRUKTUR DATA
 Array menyimpan kumpulan elemen yang dapat diakses melalui indeks. List menyediakan operasi penambahan dan penghapusan yang fleksibel. Stack mengikuti prinsip terakhir masuk pertama keluar, sedangkan queue mengikuti prinsip pertama masuk pertama keluar. Pilih struktur data berdasarkan operasi yang sering dilakukan dan ukuran data.
-BAB 15 — FUNGSI DAN MODULARITAS
+BAB 30 — FUNGSI DAN MODULARITAS
 Fungsi membungkus pekerjaan tertentu agar dapat digunakan ulang. Parameter menerima masukan dan nilai kembali menyampaikan hasil. Ruang lingkup menentukan bagian program yang dapat mengakses variabel. Fungsi sebaiknya memiliki tanggung jawab jelas dan tidak bergantung pada keadaan global yang tidak perlu.
-BAB 16 — PENANGANAN KESALAHAN
+BAB 31 — PENANGANAN KESALAHAN
 Kesalahan sintaks terjadi ketika aturan bahasa dilanggar, kesalahan runtime muncul saat program berjalan, dan kesalahan logika menghasilkan keluaran tidak sesuai. Baca pesan kesalahan sebagai petunjuk. Validasi masukan, penanganan pengecualian, dan pencatatan kejadian membantu program lebih tangguh.
-BAB 17 — BERKAS DAN BASIS DATA
+BAB 32 — BERKAS DAN BASIS DATA
 Program membaca dan menulis berkas untuk menyimpan informasi. Format teks mudah diperiksa, sedangkan format terstruktur memudahkan pertukaran data. Basis data diperlukan ketika informasi perlu dicari, diperbarui, dan dijaga konsistensinya. Periksa kegagalan baca-tulis, encoding, izin akses, dan buat cadangan data penting.
-BAB 18 — API DAN KEAMANAN
+BAB 33 — API DAN KEAMANAN
 API memungkinkan program berkomunikasi dengan layanan lain melalui aturan permintaan dan respons. Dokumentasi menjelaskan parameter, format, autentikasi, dan kesalahan. Validasi data dari luar sistem karena masukan tidak selalu tepercaya. Batasi hak akses dan jangan menulis token rahasia langsung di kode publik.
-BAB 19 — PENGUJIAN DAN PEMELIHARAAN
+BAB 34 — PENGUJIAN DAN PEMELIHARAAN
 Uji unit memeriksa bagian kecil, uji integrasi memeriksa hubungan antarbagian, dan uji sistem menilai aplikasi secara menyeluruh. Kasus uji mencakup masukan normal, batas, kosong, dan tidak valid. Kontrol versi melacak perubahan. Pemeliharaan meliputi perbaikan bug, pembaruan dependensi, kompatibilitas, dokumentasi, dan pencadangan.
 LATIHAN
 1. Apa beda stack dan queue? Stack terakhir masuk pertama keluar; queue pertama masuk pertama keluar.
@@ -182,15 +182,15 @@ LATIHAN
 4. Mengapa rahasia tidak ditulis dalam kode publik? Agar tidak terekspos dan disalahgunakan.
 
 LAMPIRAN PRAKTIK: MEMBACA ALGORITMA DAN MENILAI PROGRAM
-BAB 20 — PSEUDOCODE DAN DIAGRAM ALIR
+BAB 35 — PSEUDOCODE DAN DIAGRAM ALIR
 Pseudocode menjelaskan langkah algoritma menggunakan bahasa terstruktur yang tidak terikat sintaks bahasa pemrograman. Diagram alir memperlihatkan urutan, keputusan, masukan, dan keluaran. Keduanya membantu meninjau logika sebelum kode dibuat.
 Contoh proses menghitung rata-rata: terima daftar angka, periksa apakah daftar tidak kosong, jumlahkan seluruh elemen, hitung banyak elemen, lalu bagi jumlah dengan banyak elemen. Jika daftar kosong, program harus memberi pesan yang sesuai, bukan membagi dengan nol.
-BAB 21 — KOMPLEKSITAS SECARA INTUITIF
+BAB 36 — KOMPLEKSITAS SECARA INTUITIF
 Kompleksitas waktu menggambarkan bagaimana jumlah operasi bertambah saat ukuran masukan meningkat. Pencarian linear dapat memeriksa elemen satu per satu; pencarian biner memerlukan data terurut dan berulang kali membagi ruang pencarian. Kompleksitas ruang memperhatikan memori tambahan.
 Notasi asimtotik membantu membandingkan pertumbuhan kebutuhan komputasi, tetapi tidak selalu memprediksi waktu nyata karena perangkat keras, implementasi, dan ukuran masukan juga berpengaruh.
-BAB 22 — KETERAKSESAN DAN PENGALAMAN PENGGUNA
+BAB 37 — KETERAKSESAN DAN PENGALAMAN PENGGUNA
 Program yang benar secara teknis belum tentu mudah digunakan. Pesan kesalahan harus menjelaskan masalah dan langkah pemulihan. Antarmuka perlu mempertimbangkan pembaca layar, ukuran teks, navigasi papan ketik, kontras, serta bahasa yang jelas.
-BAB 23 — DOKUMENTASI PROYEK
+BAB 38 — DOKUMENTASI PROYEK
 Dokumentasi menjelaskan tujuan program, cara menjalankan, kebutuhan perangkat, struktur berkas, konfigurasi, dan batasan. Dokumentasi yang baik membantu pengguna dan pengembang lain memahami keputusan teknis serta mengurangi ketergantungan pada satu orang.
 TUGAS AKHIR
 Rancang program kecil untuk mencatat kegiatan belajar. Tulis kebutuhan pengguna, pseudocode, struktur data, kasus uji normal dan batas, cara menyimpan data, serta risiko privasi. Jelaskan cara memperbaiki program jika masukan tidak valid.

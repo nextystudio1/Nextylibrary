@@ -168,3 +168,40 @@ Skalabilitas: Kemampuan memperluas dampak dengan menjaga mutu.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk kajian lanjutan, gunakan sumber primer, buku ajar, standar, dan publikasi lembaga tepercaya. Catat penulis atau lembaga, judul, tahun, dan bagian yang digunakan. Periksa pembaruan informasi pada topik yang berkembang.
+
+BAB LANJUTAN: MEMAHAMI MASALAH SOSIAL DAN MERANCANG SOLUSI
+
+Kewirausahaan sosial berangkat dari masalah yang dialami masyarakat, bukan semata-mata dari ide produk. Masalah perlu dipahami melalui percakapan dengan kelompok terdampak, pengamatan, dan data yang relevan. Hindari menganggap orang yang mengalami masalah hanya sebagai penerima bantuan; mereka memiliki pengetahuan dan kemampuan untuk ikut merancang solusi.
+
+Pernyataan masalah yang baik menjelaskan siapa yang terdampak, kebutuhan yang belum terpenuhi, konteks, serta bukti awal. Setelah itu, tim dapat menyusun beberapa alternatif dan mengujinya dalam skala kecil. Solusi yang terlihat menarik bagi pendiri belum tentu mudah digunakan atau sesuai prioritas komunitas.
+
+BAB LANJUTAN: MODEL BISNIS SOSIAL
+
+Model bisnis sosial menjelaskan penerima manfaat, pelanggan, nilai yang ditawarkan, kegiatan utama, mitra, sumber daya, biaya, dan sumber pendapatan. Penerima manfaat tidak selalu sama dengan pihak yang membayar. Misalnya, layanan pendidikan dapat digunakan siswa, dibayar sekolah, dan didukung mitra komunitas. Perbedaan peran ini perlu dipahami agar model tetap adil dan berkelanjutan.
+
+Pendapatan dapat berasal dari penjualan, kontrak layanan, hibah, kemitraan, atau kombinasi beberapa sumber. Ketergantungan pada satu sumber dana meningkatkan risiko. Namun, mengejar pendapatan tanpa menjaga misi dapat menggeser fokus dari kebutuhan masyarakat. Tata kelola perlu menjelaskan bagaimana keputusan ekonomi tetap selaras dengan tujuan sosial.
+
+BAB LANJUTAN: RISET PASAR DAN UJI COBA
+
+Riset pasar tidak hanya mengukur minat, tetapi mempelajari alternatif yang sudah digunakan masyarakat, biaya yang sanggup ditanggung, kebiasaan, dan hambatan akses. Wawancara harus menghindari pertanyaan yang menggiring. Bukti perilaku, seperti kesediaan mencoba prototipe atau menggunakan layanan, sering lebih informatif daripada pujian umum.
+
+Uji coba terbatas memungkinkan tim memeriksa asumsi sebelum memperluas layanan. Tetapkan tujuan, ukuran keberhasilan, batas waktu, dan cara menerima masukan. Catat juga dampak yang tidak diinginkan. Jika hasil tidak sesuai harapan, tim dapat mengubah fitur, model pendanaan, atau bahkan merumuskan ulang masalah.
+
+BAB LANJUTAN: PENGUKURAN DAMPAK SOSIAL
+
+Dampak sosial adalah perubahan yang berkaitan dengan intervensi, bukan sekadar jumlah kegiatan. Rantai hasil dapat membedakan sumber daya, aktivitas, keluaran, hasil jangka pendek, dan dampak jangka panjang. Contohnya, jumlah kelas merupakan keluaran; peningkatan kemampuan peserta merupakan hasil yang perlu diukur dengan cara yang sesuai.
+
+Indikator harus bermakna bagi komunitas dan tidak mendorong manipulasi angka. Gabungkan data kuantitatif dengan cerita pengalaman yang diperoleh secara etis. Jelaskan keterbatasan atribusi: perubahan sosial biasanya dipengaruhi banyak faktor, sehingga organisasi tidak boleh mengklaim seluruh perubahan sebagai hasil usahanya sendiri.
+
+BAB LANJUTAN: TATA KELOLA DAN KEBERLANJUTAN
+
+Organisasi sosial membutuhkan pembagian peran, pencatatan keuangan, kebijakan konflik kepentingan, perlindungan penerima manfaat, dan mekanisme pengaduan. Transparansi membangun kepercayaan, tetapi informasi pribadi penerima manfaat harus tetap dilindungi. Kisah seseorang tidak boleh dipublikasikan tanpa persetujuan yang jelas.
+
+Keberlanjutan meliputi keuangan, kapasitas tim, kualitas layanan, dan hubungan dengan komunitas. Rencana suksesi dan dokumentasi proses mengurangi ketergantungan pada satu pendiri. Kemitraan yang sehat memiliki tujuan, kontribusi, tanggung jawab, dan cara mengevaluasi hasil yang disepakati.
+
+LATIHAN AKHIR
+1. Rumuskan satu masalah sosial dengan menyebut kelompok terdampak dan bukti yang dibutuhkan.
+2. Buat model bisnis sosial sederhana dan bedakan pelanggan dari penerima manfaat.
+3. Susun rencana uji coba empat minggu.
+4. Bedakan keluaran dan hasil program.
+5. Buat lima prinsip tata kelola yang melindungi komunitas.

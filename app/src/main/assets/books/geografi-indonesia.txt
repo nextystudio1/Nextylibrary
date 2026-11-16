@@ -211,3 +211,12 @@ PESISIR DAN LAUT
 Wilayah pesisir dipengaruhi gelombang, arus, pasang surut, sedimentasi, dan aktivitas manusia. Mangrove dan padang lamun dapat menjadi habitat serta membantu mengurangi energi gelombang pada kondisi tertentu. Perlindungan pesisir perlu didasarkan pada karakter lokasi, bukan satu solusi untuk semua tempat.
 PERENCANAAN BERBASIS DATA
 Peta tematik membantu membandingkan kondisi wilayah, tetapi data harus diperiksa tanggal, skala, dan sumbernya. Peta risiko, misalnya, perlu diperbarui ketika penggunaan lahan atau infrastruktur berubah. Data lapangan tetap penting untuk memeriksa apakah informasi spasial sesuai kondisi nyata.
+BAB PENGAYAAN — SUMBER DAYA DAN TATA RUANG
+SUMBER DAYA AIR
+Air tersedia melalui hujan, sungai, danau, waduk, serta air tanah. Ketersediaan dipengaruhi musim, geologi, penggunaan lahan, dan kebutuhan penduduk. Pengambilan air tanah berlebihan dapat menyebabkan penurunan muka tanah di lokasi tertentu. Pengelolaan perlu memperhitungkan daerah imbuhan dan kualitas air.
+TATA GUNA LAHAN
+Tata guna lahan menggambarkan fungsi ruang untuk permukiman, pertanian, industri, konservasi, dan kegiatan lain. Perubahan fungsi lahan dapat meningkatkan nilai ekonomi sekaligus mengubah risiko banjir, suhu, dan habitat. Perencanaan ruang membutuhkan data lintas sektor.
+TRANSPORTASI DAN KETIMPANGAN WILAYAH
+Jaringan transportasi memengaruhi akses ke pasar, sekolah, layanan kesehatan, dan pekerjaan. Wilayah yang jauh dari pusat layanan dapat menghadapi biaya perjalanan lebih tinggi. Penilaian konektivitas perlu melihat keterjangkauan, bukan hanya panjang jalan atau jumlah pelabuhan.
+PETA DAN PROYEKSI
+Proyeksi peta mengubah permukaan bumi yang melengkung menjadi bidang datar, sehingga selalu ada bentuk distorsi tertentu. Pilih proyeksi sesuai tujuan: luas, arah, jarak, atau bentuk. Peta tematik harus menyebut sumber dan metode klasifikasi.

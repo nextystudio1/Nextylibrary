@@ -237,3 +237,14 @@ PENIPUAN KEUANGAN
 Waspadai janji keuntungan tanpa risiko, tekanan untuk segera mentransfer, identitas yang tidak dapat diverifikasi, serta permintaan kode rahasia. Periksa informasi melalui lembaga resmi dan jangan mengirim uang hanya berdasarkan tangkapan layar atau testimoni. Simpan bukti komunikasi dan transaksi.
 EVALUASI RENCANA
 Rencana keuangan perlu ditinjau ketika pendapatan, kebutuhan, atau tujuan berubah. Evaluasi bukan tanda gagal. Catat apa yang berjalan, apa yang tidak, dan penyesuaian apa yang masuk akal. Materi ini untuk literasi umum, bukan rekomendasi produk atau keputusan keuangan pribadi.
+BAB PENGAYAAN — PERHITUNGAN KEUANGAN DALAM KEHIDUPAN
+PAJAK DAN HARGA AKHIR
+Harga barang dapat berubah setelah pajak atau biaya layanan ditambahkan. Jika tarif pajak t persen diterapkan pada harga sebelum pajak H, harga akhir adalah H(1+t/100). Pastikan apakah harga yang ditampilkan sudah termasuk pajak agar tidak menghitung dua kali.
+PERBANDINGAN HARGA SATUAN
+Untuk membandingkan kemasan, hitung harga per satuan: harga total dibagi jumlah atau berat. Perbandingan hanya adil jika satuan dan mutu produk sebanding. Perhatikan juga tanggal kedaluwarsa dan kemungkinan barang terbuang.
+NILAI WAKTU UANG
+Uang yang tersedia sekarang dapat memiliki nilai berbeda dari jumlah sama pada masa depan karena inflasi, peluang penggunaan, dan risiko. Perhitungan nilai waktu uang bergantung pada asumsi tingkat dan periode. Jangan mencampur tingkat bulanan dengan jumlah periode tahunan.
+DANA DARURAT DAN KETIDAKPASTIAN
+Dana untuk kebutuhan tak terduga bertujuan menjaga kelangsungan kebutuhan pokok ketika keadaan berubah. Besarnya kebutuhan berbeda menurut kondisi rumah tangga dan kestabilan pendapatan. Prinsip umumnya adalah memisahkan dana yang mudah diakses dari uang untuk tujuan jangka panjang.
+KEPUTUSAN BERDASARKAN INFORMASI
+Sebelum memilih produk, bandingkan biaya total, risiko, likuiditas, syarat, dan perlindungan konsumen. Simpan dokumen dan bukti transaksi. Jika informasi tidak jelas, jangan terburu-buru menyetujui.

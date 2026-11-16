@@ -243,3 +243,12 @@ FUNGSI EKSPONENSIAL
 Pertumbuhan eksponensial terjadi ketika perubahan sebanding dengan jumlah yang sudah ada. Contoh ideal adalah pertumbuhan populasi pada kondisi sumber daya tidak membatasi. Dalam kenyataan, keterbatasan ruang, makanan, dan faktor lain membuat model eksponensial hanya sesuai pada rentang tertentu.
 INTERPRETASI PARAMETER
 Parameter bukan sekadar angka dalam rumus. Parameter membawa arti sesuai konteks, seperti biaya awal, laju perubahan, atau faktor pengali. Saat parameter berubah, bentuk grafik atau prediksi juga berubah. Jelaskan arti parameter sebelum menafsirkan grafik.
+BAB PENGAYAAN — PENALARAN DAN PEMBUKTIAN
+POLA DAN GENERALISASI
+Matematika bergerak dari contoh menuju aturan umum. Beberapa contoh dapat membantu menemukan dugaan, tetapi belum membuktikan bahwa aturan berlaku untuk semua bilangan. Pembuktian memerlukan alasan yang mencakup seluruh kasus dalam domain yang dinyatakan.
+ARGUMEN MATEMATIS
+Setiap langkah penyelesaian harus mengikuti definisi, sifat, atau teorema yang sah. Menulis hasil akhir tanpa alasan membuat proses sulit diperiksa. Gunakan notasi secara konsisten dan jelaskan perubahan bentuk yang tidak langsung terlihat.
+CONTOH PENYANGKAL
+Untuk menunjukkan pernyataan universal salah, satu contoh penyangkal sudah cukup. Jika seseorang menyatakan semua bilangan prima ganjil, bilangan 2 menjadi contoh penyangkal. Namun satu contoh yang cocok tidak cukup membuktikan pernyataan universal benar.
+ESTIMASI DAN PEMERIKSAAN
+Sebelum menghitung, perkirakan rentang hasil. Setelah menghitung, bandingkan dengan perkiraan. Jika luas ruangan diperkirakan hanya beberapa meter persegi tetapi hasil perhitungan ratusan meter persegi, periksa satuan dan operasi.

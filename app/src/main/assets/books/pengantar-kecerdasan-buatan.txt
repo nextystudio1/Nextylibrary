@@ -252,3 +252,14 @@ AI GENERATIF DAN HAK CIPTA
 Model generatif menghasilkan konten berdasarkan pola yang dipelajari. Pengguna tetap bertanggung jawab memeriksa keakuratan, privasi, dan hak penggunaan hasil. Jangan menganggap keluaran otomatis bebas kesalahan atau bebas dari kewajiban lisensi. Catat bantuan AI ketika aturan tugas atau organisasi mewajibkannya.
 DESAIN SISTEM YANG BERTANGGUNG JAWAB
 Sebelum penerapan, lakukan penilaian dampak: siapa yang diuntungkan, siapa yang berisiko, data apa yang dipakai, dan bagaimana kesalahan ditangani. Sediakan penjelasan yang sesuai, jalur banding, serta pilihan untuk tidak menggunakan sistem jika memungkinkan.
+BAB PENGAYAAN — KUALITAS, KEADILAN, DAN PENGUJIAN AI
+BIAS DALAM DATA
+Bias dapat muncul karena kelompok tertentu kurang terwakili, label tidak konsisten, atau cara pengumpulan data mencerminkan ketimpangan. Menghapus atribut sensitif tidak selalu menghilangkan bias karena variabel lain dapat menjadi pengganti tidak langsung. Audit perlu melihat hasil untuk kelompok yang relevan dan konteks penggunaan.
+KALIBRASI DAN KEPERCAYAAN
+Skor keyakinan model bukan jaminan bahwa prediksi benar. Model yang terkalibrasi dengan baik memiliki kesesuaian antara tingkat keyakinan dan frekuensi keberhasilan pada kumpulan kasus. Kalibrasi dapat berubah ketika distribusi data bergeser.
+PENGUJIAN DI LUAR DATA LATIH
+Uji model pada data yang berasal dari waktu, tempat, atau perangkat berbeda. Hasil yang baik pada satu kumpulan data belum tentu berlaku pada lingkungan baru. Catat perbedaan populasi dan kondisi pengumpulan data.
+KEAMANAN SISTEM AI
+Sistem dapat menerima masukan yang sengaja dirancang untuk mengganggu atau memanipulasi perilaku. Pengujian keamanan perlu memeriksa akses, penyimpanan data, integrasi, dan kemampuan pemulihan. Batasi hak akses sesuai kebutuhan dan siapkan prosedur ketika layanan tidak tersedia.
+PENGADAAN DAN EVALUASI
+Organisasi yang memakai layanan AI perlu menilai penyedia, lokasi penyimpanan, penggunaan data, pembaruan model, dukungan, dan mekanisme pengaduan. Keputusan pengadaan tidak cukup berdasarkan demonstrasi yang menarik; lakukan uji coba pada tugas nyata dan ukur manfaat serta risikonya.

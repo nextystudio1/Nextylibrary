@@ -218,3 +218,12 @@ KETERLIBATAN WARGA
 Forum daring dapat memperluas partisipasi, namun tidak semua warga nyaman atau mampu menggunakannya. Sediakan jalur alternatif dan pastikan masukan dibaca serta ditanggapi. Partisipasi yang hanya mengumpulkan komentar tanpa proses tindak lanjut dapat mengurangi kepercayaan.
 KODE ETIK KOMUNITAS
 Komunitas digital yang sehat memiliki aturan tentang perilaku, privasi, moderasi, dan penyelesaian konflik. Aturan sebaiknya ditulis dengan bahasa sederhana, diterapkan konsisten, dan memberi kesempatan untuk mengajukan keberatan. Moderator perlu membedakan kritik yang sah dari pelecehan.
+BAB PENGAYAAN — KEBIJAKAN PLATFORM DAN KEADILAN DIGITAL
+MODERASI KONTEN
+Platform menetapkan aturan tentang spam, penipuan, ancaman, dan perilaku yang merugikan. Moderasi perlu menyeimbangkan keselamatan, kebebasan berekspresi, konsistensi, dan hak banding. Kesalahan moderasi dapat terjadi sehingga prosedur peninjauan penting.
+PORTABILITAS DAN KENDALI DATA
+Pengguna sebaiknya memahami cara mengunduh, memperbarui, atau menghapus data sesuai kebijakan layanan. Berpindah platform dapat sulit jika data tidak dapat dipindahkan. Standar interoperabilitas dan format terbuka dapat membantu mengurangi ketergantungan.
+KETERJANGKAUAN TEKNOLOGI
+Biaya perangkat, jaringan, dan layanan memengaruhi kemampuan berpartisipasi. Kebijakan akses digital perlu mempertimbangkan wilayah terpencil, penyandang disabilitas, dan warga dengan keterampilan terbatas. Pelatihan harus disertai dukungan yang berkelanjutan.
+ETIKA PENGGUNAAN AI
+Penggunaan AI dalam tugas, pekerjaan, atau layanan perlu transparan sesuai aturan yang berlaku. Periksa hasil sebelum dipakai, lindungi data pribadi, dan jangan mengatasnamakan seseorang tanpa izin. Tanggung jawab akhir tetap berada pada pihak yang memutuskan menggunakan keluaran.

@@ -234,3 +234,12 @@ KONTEKS DATA TERBUKA
 Data terbuka dapat membantu masyarakat memeriksa kebijakan dan melakukan analisis. Namun data perlu memiliki definisi, satuan, format, tanggal, dan keterangan metodologi. Data yang tersedia belum tentu lengkap atau bebas bias. Jangan menghapus konteks ketika mengubah tabel menjadi grafik.
 ETIKA BERBAGI
 Sebelum mengutip unggahan seseorang, pertimbangkan apakah identitasnya perlu ditampilkan. Konten publik tetap dapat berdampak pada keselamatan dan reputasi. Gunakan kutipan secukupnya, tautkan sumber yang sah, dan hindari menyebarkan materi pribadi yang tidak relevan.
+BAB PENGAYAAN — PRODUKSI MEDIA DAN KOMUNIKASI PUBLIK
+MENYUSUN PESAN UNTUK AUDIENS
+Pesan publik yang efektif menyesuaikan bahasa, format, dan tingkat rincian dengan kebutuhan audiens. Informasi keselamatan atau layanan perlu langsung menyampaikan tindakan utama, waktu, lokasi, dan sumber resmi. Hindari judul sensasional yang tidak didukung isi.
+VISUALISASI DATA
+Pilih diagram batang untuk membandingkan kategori, garis untuk perubahan waktu, dan sebar untuk melihat hubungan dua variabel. Diagram lingkaran hanya cocok untuk bagian dari keseluruhan yang jelas. Jangan memotong sumbu atau mengubah skala tanpa penjelasan.
+WAWANCARA DAN KUTIPAN
+Pertanyaan terbuka memberi ruang bagi narasumber menjelaskan pengalaman. Catat konteks, tanggal, dan persetujuan penggunaan kutipan. Jangan mengubah kutipan sehingga maksudnya berbeda. Jika memotong bagian, pastikan makna tetap utuh.
+KOREKSI DAN AKUNTABILITAS
+Penerbit informasi bertanggung jawab memperbaiki kesalahan yang ditemukan. Koreksi perlu mudah ditemukan, menjelaskan bagian yang berubah, dan mencantumkan waktu pembaruan. Menghapus kesalahan tanpa keterangan dapat membuat pembaca tetap memegang informasi lama.

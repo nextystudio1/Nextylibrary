@@ -197,3 +197,25 @@ Mulailah dengan memetakan pemakaian, menentukan layanan prioritas, menetapkan ta
 
 LATIHAN
 Pilih satu ruang kelas atau rumah. Buat inventaris peralatan listrik, perkiraan jam penggunaan, dan peluang penghematan yang tidak mengurangi keselamatan atau kebutuhan belajar. Susun tiga tindakan prioritas dan indikator keberhasilannya.
+
+BAB 11. EFISIENSI ENERGI DAN PERILAKU KONSUMSI
+Efisiensi energi berarti memperoleh layanan yang sama dengan penggunaan energi lebih sedikit. Contohnya, pencahayaan alami, lampu efisien, perawatan peralatan, dan pengaturan suhu ruang yang sesuai. Penghematan perlu dinilai berdasarkan kebutuhan nyata, kenyamanan, keselamatan, serta biaya sepanjang masa pakai. Perubahan perilaku dapat membantu, tetapi desain bangunan, akses teknologi, dan kebijakan juga menentukan konsumsi energi.
+
+BAB 12. DAMPAK LINGKUNGAN SEPANJANG DAUR HIDUP
+Penilaian daur hidup memeriksa dampak bahan baku, produksi, distribusi, penggunaan, dan akhir masa pakai. Produk yang tampak hemat saat digunakan mungkin memerlukan bahan atau proses produksi yang intensif. Batas sistem dan asumsi harus dinyatakan agar perbandingan adil. Indikator dapat mencakup emisi, penggunaan air, lahan, energi, dan limbah. Satu indikator tidak selalu mewakili seluruh dampak.
+
+BAB 13. TRANSISI ENERGI YANG ADIL
+Peralihan menuju sistem energi rendah emisi memengaruhi pekerja, konsumen, pemerintah daerah, dan industri. Kebijakan transisi perlu mempertimbangkan keterjangkauan, keandalan pasokan, pelatihan kerja, dan akses wilayah terpencil. Konsultasi masyarakat membantu menemukan dampak yang mungkin terlewat oleh perencanaan teknis. Keberhasilan bukan hanya jumlah teknologi baru, melainkan layanan energi yang aman, terjangkau, dan berkelanjutan.
+
+BAB 14. MEMBACA DATA ENERGI
+Data konsumsi perlu dibaca dengan memperhatikan satuan, periode, luas bangunan, jumlah penghuni, dan jenis layanan. Membandingkan dua rumah tanpa mempertimbangkan ukuran dan iklim dapat menghasilkan kesimpulan keliru. Intensitas energi, misalnya konsumsi per meter persegi, membantu perbandingan tetapi tetap memiliki keterbatasan. Grafik harus menampilkan sumber, periode, serta metode pengukuran.
+
+PROYEK
+Audit sederhana penggunaan energi di ruang belajar tanpa membongkar instalasi listrik. Catat peralatan, perkiraan waktu penggunaan, kebutuhan layanan, dan peluang penghematan yang aman. Buat rekomendasi dengan mempertimbangkan biaya, kenyamanan, serta keterbatasan data.
+
+LATIHAN
+1. Bedakan efisiensi energi dan pengurangan layanan.
+2. Sebutkan tahap dalam penilaian daur hidup.
+3. Mengapa transisi energi perlu memperhatikan pekerja?
+4. Apa kelemahan membandingkan konsumsi total dua bangunan?
+5. Susun indikator untuk mengevaluasi program hemat energi.

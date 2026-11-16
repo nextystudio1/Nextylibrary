@@ -155,3 +155,185 @@ Sampel acak: sampel yang dipilih dengan mekanisme peluang.
 Bias nonrespons: penyimpangan karena sebagian kelompok tidak menjawab.
 Validitas: ketepatan alat atau metode mengukur konsep.
 Reliabilitas: konsistensi hasil pengukuran.
+
+
+BAGIAN PENGEMBANGAN — PRAKTIK STATISTIKA SECARA BERTANGGUNG JAWAB
+
+BAB 20 — MERUMUSKAN PERTANYAAN PENELITIAN
+Analisis yang baik dimulai dari pertanyaan yang dapat dijawab dengan bukti. Pertanyaan “Apakah teknologi baik?” terlalu luas karena kata baik memiliki banyak arti. Pertanyaan yang lebih terukur misalnya “Bagaimana hubungan frekuensi penggunaan aplikasi belajar dengan waktu penyelesaian latihan pada kelompok siswa yang diamati?” Pertanyaan ini menyebutkan variabel, kelompok, dan konteks, tetapi tetap tidak menyatakan bahwa hubungan yang ditemukan pasti bersifat sebab-akibat.
+
+Sebelum mengumpulkan data, tuliskan tujuan, populasi sasaran, unit analisis, variabel utama, dan batas waktu. Unit analisis adalah objek yang setiap baris data wakili, misalnya seorang siswa, satu rumah tangga, satu sekolah, atau satu hari pengamatan. Kesalahan menentukan unit analisis dapat membuat jumlah pengamatan ditafsirkan keliru. Sepuluh pengukuran dari satu orang bukan sepuluh orang yang berbeda.
+
+Definisi operasional menjelaskan bagaimana konsep abstrak diukur. “Kebiasaan membaca” dapat diukur melalui jumlah hari membaca dalam seminggu, durasi, atau jumlah halaman. Setiap ukuran menangkap sisi yang berbeda. Karena itu, peneliti perlu menjelaskan pilihan ukuran dan tidak menganggap satu indikator mewakili seluruh konsep.
+
+BAB 21 — MEMBUAT KAMUS DATA
+Kamus data adalah dokumen yang menjelaskan setiap variabel, arti, tipe, satuan, dan kode yang digunakan. Contoh: variabel usia memiliki satuan tahun; variabel moda_transportasi memiliki kategori berjalan kaki, sepeda, angkutan umum, dan kendaraan pribadi. Kode angka 1, 2, 3, dan 4 harus disertai keterangan agar tidak disalahartikan sebagai ukuran atau urutan.
+
+Nilai kosong harus dibedakan dari angka nol. Nol dapat berarti jumlah benar-benar tidak ada, sedangkan kosong berarti informasi tidak tercatat atau tidak tersedia. Jangan mengganti seluruh nilai kosong dengan nol karena dapat mengubah rata-rata dan distribusi. Catat alasan data hilang jika diketahui, misalnya responden melewati pertanyaan atau alat ukur gagal mencatat.
+
+Satuan juga perlu konsisten. Data panjang yang mencampur sentimeter dan meter harus diseragamkan sebelum perhitungan. Simpan salinan data asli, buat catatan setiap perubahan, dan gunakan nama kolom yang jelas. Langkah ini membantu orang lain memeriksa proses analisis.
+
+BAB 22 — FREKUENSI, PROPORSI, DAN PERSENTASE
+Frekuensi adalah banyaknya kemunculan suatu kategori atau nilai. Proporsi diperoleh dengan membagi frekuensi kategori dengan jumlah seluruh pengamatan yang relevan. Persentase adalah proporsi dikalikan seratus persen.
+
+Contoh: dari 40 responden, 10 memilih berjalan kaki. Proporsinya 10/40 = 0,25 atau 25 persen. Penyebut harus disebutkan. Jika ada 5 jawaban kosong, peneliti perlu menjelaskan apakah persentase dihitung dari 40 orang yang diundang atau 35 jawaban yang lengkap. Dua cara itu menjawab pertanyaan yang berbeda.
+
+Kategori sebaiknya saling terpisah dan mencakup pilihan yang masuk akal. Jika responden dapat memilih lebih dari satu jawaban, total persentase bisa melebihi 100 persen. Hal itu bukan kesalahan selama metode penghitungan dijelaskan.
+
+BAB 23 — MEMBACA DIAGRAM KOTAK
+Diagram kotak merangkum median, kuartil bawah, kuartil atas, dan kemungkinan pencilan menurut aturan yang digunakan. Kotak membentang dari kuartil pertama ke kuartil ketiga; garis di dalamnya menunjukkan median. Panjang kotak menggambarkan rentang antarkuartil.
+
+Diagram ini berguna untuk membandingkan pusat dan sebaran beberapa kelompok. Namun, diagram kotak tidak memperlihatkan semua detail distribusi. Dua kelompok dapat memiliki median dan rentang antarkuartil sama tetapi bentuk distribusi berbeda. Karena itu, gabungkan dengan histogram atau grafik titik bila jumlah data memungkinkan.
+
+Metode penentuan kuartil dapat sedikit berbeda antarperangkat lunak, terutama pada sampel kecil. Sebutkan metode yang dipakai jika ketelitian perhitungan penting. Jangan membandingkan angka kuartil dari dua laporan sebelum memastikan definisinya sepadan.
+
+BAB 24 — VARIANS DAN SIMPANGAN BAKU
+Varians merangkum rata-rata kuadrat penyimpangan nilai terhadap rata-rata. Simpangan baku adalah akar kuadrat varians sehingga satuannya sama dengan satuan data. Simpangan baku yang lebih besar menunjukkan data lebih tersebar terhadap rata-rata, tetapi tidak dengan sendirinya menunjukkan kualitas atau nilai yang lebih buruk.
+
+Untuk populasi berukuran N, varians populasi dihitung dengan menjumlahkan kuadrat selisih setiap nilai terhadap rata-rata populasi, kemudian membaginya dengan N. Untuk sampel, estimasi varians yang lazim menggunakan jumlah kuadrat selisih dibagi n−1. Pembagi n−1 membantu mengoreksi kecenderungan estimasi varians sampel yang terlalu kecil dalam kondisi pengambilan sampel acak sederhana.
+
+Contoh sederhana: data 2, 4, dan 6 memiliki rata-rata 4. Selisihnya −2, 0, dan 2; kuadrat selisihnya 4, 0, dan 4. Jumlah kuadrat selisih adalah 8. Varians populasi untuk tiga nilai tersebut adalah 8/3. Jika ketiganya diperlakukan sebagai sampel untuk memperkirakan populasi lebih luas, varians sampelnya 8/2 = 4 dan simpangan baku sampelnya 2.
+
+BAB 25 — DISTRIBUSI NORMAL DAN STANDARISASI
+Distribusi normal berbentuk lonceng dan simetris. Dalam model normal, rata-rata berada di pusat dan simpangan baku menentukan lebar sebaran. Banyak fenomena dapat didekati dengan model ini, tetapi tidak semua data berbentuk normal. Data pendapatan, misalnya, sering menceng ke kanan.
+
+Skor baku atau z-score menyatakan jarak suatu nilai dari rata-rata dalam satuan simpangan baku: z = (x − rata-rata)/simpangan baku. Jika nilai 80, rata-rata 70, dan simpangan baku 5, skor bakunya 2. Artinya nilai tersebut berada dua simpangan baku di atas rata-rata kelompok pembanding.
+
+Skor baku memudahkan perbandingan pada skala berbeda, tetapi hanya bermakna jika kelompok pembanding dan definisi pengukurannya sesuai. Skor z tidak otomatis menunjukkan kemampuan mutlak seseorang dan tidak boleh digunakan tanpa konteks.
+
+BAB 26 — PELUANG GABUNGAN DAN ATURAN DASAR
+Untuk dua kejadian A dan B, peluang gabungan dapat ditulis P(A atau B) = P(A) + P(B) − P(A dan B). Bagian irisan dikurangi agar tidak dihitung dua kali. Jika A dan B saling lepas, peluang irisan nol sehingga rumus menjadi penjumlahan sederhana.
+
+Peluang kejadian bersama dapat ditulis P(A dan B) = P(A) × P(B|A). Jika A dan B independen, P(B|A) sama dengan P(B), sehingga peluang gabungan menjadi hasil kali peluang masing-masing. Independensi merupakan asumsi yang harus didukung konteks, bukan sesuatu yang boleh dianggap benar tanpa pemeriksaan.
+
+Contoh: sebuah kantong memiliki 3 bola merah dan 2 bola biru. Jika satu bola diambil dan tidak dikembalikan, peluang warna pada pengambilan kedua bergantung pada hasil pertama. Jika bola pertama merah, komposisi kantong berubah. Pengambilan tanpa pengembalian umumnya tidak independen.
+
+BAB 27 — SIMULASI UNTUK MEMAHAMI PELUANG
+Simulasi menggunakan pengulangan proses acak untuk mempelajari perilaku suatu model. Misalnya, lemparan koin dapat disimulasikan berkali-kali untuk melihat proporsi sisi gambar. Dalam jumlah percobaan kecil, proporsi dapat jauh dari 50 persen. Dengan semakin banyak percobaan, proporsi biasanya lebih stabil di sekitar peluang model, walaupun tidak harus tepat sama.
+
+Simulasi tidak membuktikan bahwa model sesuai kenyataan. Hasilnya hanya menjelaskan apa yang mungkin terjadi jika asumsi model benar. Jika peluang awal keliru atau proses nyata tidak independen, simulasi dapat memberi gambaran yang menyesatkan.
+
+Catat jumlah pengulangan, aturan simulasi, dan sumber bilangan acak bila hasil perlu direproduksi. Untuk pembelajaran, bandingkan beberapa ukuran percobaan dan diskusikan mengapa hasil berubah.
+
+BAB 28 — MEMAHAMI REGRESI LINEAR
+Regresi linear sederhana merangkum hubungan antara satu variabel penjelas X dan satu variabel respons Y dengan persamaan perkiraan Y = a + bX. Konstanta a adalah nilai prediksi ketika X bernilai nol, sedangkan kemiringan b menunjukkan perubahan prediksi Y untuk kenaikan satu unit X dalam model.
+
+Contoh: model waktu belajar dan nilai latihan dapat menghasilkan kemiringan positif. Ini berarti pada data yang dianalisis, waktu belajar yang lebih lama berkaitan dengan nilai prediksi yang lebih tinggi. Namun, motivasi, pengalaman awal, kualitas bahan, dan faktor lain dapat memengaruhi keduanya. Regresi observasional tidak cukup untuk menyatakan bahwa menambah waktu belajar pasti menyebabkan kenaikan tertentu.
+
+Periksa diagram pencar sebelum memasang garis. Hubungan mungkin melengkung, memiliki kelompok terpisah, atau dipengaruhi pencilan. Periksa residual, yaitu selisih antara nilai aktual dan nilai prediksi. Pola residual yang jelas menunjukkan bahwa model sederhana mungkin belum memadai.
+
+BAB 29 — RESIDUAL DAN KETEPATAN MODEL
+Residual positif berarti nilai aktual lebih tinggi daripada prediksi model; residual negatif berarti lebih rendah. Plot residual membantu memeriksa apakah kesalahan tersebar tanpa pola yang jelas. Pola melengkung dapat mengindikasikan hubungan non-linear. Sebaran residual yang makin lebar pada nilai prediksi tertentu dapat menunjukkan variasi yang tidak konstan.
+
+Ukuran seperti R-kuadrat merangkum proporsi variasi data yang dijelaskan model dalam konteks tertentu. Nilai R-kuadrat tinggi tidak menjamin model benar, bebas bias, atau mampu memprediksi data baru. Model yang terlalu rumit dapat menyesuaikan data latihan dengan baik tetapi berkinerja buruk pada data baru.
+
+Pisahkan data untuk pelatihan dan pengujian jika tujuan analisis adalah prediksi. Jangan menggunakan data pengujian berulang kali untuk memilih model sampai informasi pengujian bocor ke proses pelatihan. Untuk data berurutan menurut waktu, pemisahan perlu menghormati urutan waktu.
+
+BAB 30 — PERBANDINGAN KELOMPOK
+Perbandingan kelompok harus memperhatikan ukuran sampel, variasi, definisi kelompok, dan cara pengukuran. Selisih rata-rata dapat terlihat besar tetapi tidak stabil jika sampelnya kecil. Sebaliknya, selisih kecil dapat terdeteksi pada sampel sangat besar tetapi belum tentu penting secara praktis.
+
+Laporkan selisih dalam satuan yang mudah dipahami, ukuran efek bila sesuai, dan interval ketidakpastian. Jangan hanya menyebut kelompok mana yang “menang”. Pertimbangkan apakah kelompok memiliki karakteristik awal yang berbeda sehingga perbandingan menjadi tidak adil.
+
+BAB 31 — DATA MENURUT WAKTU
+Data runtun waktu dikumpulkan berurutan, misalnya suhu harian, jumlah pengunjung bulanan, atau penggunaan listrik per jam. Pola dapat mencakup tren jangka panjang, musiman, siklus, dan variasi acak. Grafik garis merupakan langkah awal yang penting sebelum menghitung ringkasan.
+
+Perubahan musiman tidak sama dengan tren. Penjualan yang naik setiap Desember mungkin dipengaruhi musim liburan, bukan pertumbuhan permanen. Bandingkan periode yang setara dan periksa apakah ada perubahan cara pencatatan.
+
+Ramalan selalu memiliki ketidakpastian. Semakin jauh horizon ramalan, biasanya semakin besar ruang kesalahan. Sajikan rentang atau skenario, bukan satu angka yang seolah pasti.
+
+BAB 32 — INDEKS DAN ANGKA PERUBAHAN
+Indeks membandingkan nilai terhadap periode atau kelompok dasar. Jika indeks tahun dasar ditetapkan 100 dan indeks berikutnya 110, nilai pada periode kedua 10 persen lebih tinggi daripada periode dasar menurut definisi indeks tersebut. Pemilihan tahun dasar perlu dijelaskan.
+
+Persentase perubahan dihitung sebagai (nilai baru − nilai lama)/nilai lama × 100 persen, selama nilai lama bukan nol. Jika nilai awal sangat kecil, persentase dapat tampak besar. Karena itu, sertakan perubahan absolut agar pembaca memahami skala sebenarnya.
+
+BAB 33 — INFLASI DAN INDEKS HARGA
+Indeks harga merangkum perubahan harga sekumpulan barang dan jasa menurut metode pembobotan tertentu. Keranjang konsumsi dan bobotnya memengaruhi hasil. Pengalaman inflasi setiap rumah tangga dapat berbeda karena pola belanja berbeda dari keranjang rata-rata.
+
+Perubahan indeks bukan berarti semua harga naik dengan persentase sama. Sebagian harga dapat naik, sebagian tetap, dan sebagian turun. Saat membaca berita inflasi, periksa periode perbandingan, cakupan wilayah, kelompok barang, dan apakah angka yang disebut merupakan perubahan bulanan atau tahunan.
+
+BAB 34 — MEMBACA RISIKO DAN TINGKAT DASAR
+Angka risiko perlu dibaca bersama tingkat dasar atau base rate. Jika suatu kejadian sangat jarang, hasil tes positif belum tentu berarti kemungkinan seseorang benar-benar mengalami kondisi tersebut sangat tinggi. Interpretasi bergantung pada sensitivitas, spesifisitas, dan seberapa umum kejadian sebelum tes.
+
+Contoh ilustratif: dari 1.000 objek, 10 benar-benar memiliki karakteristik tertentu. Sebuah alat penyaring dapat menghasilkan sejumlah positif benar dan positif palsu. Tanpa mengetahui jumlah awal dan karakteristik alat, persentase positif saja tidak cukup untuk memperkirakan peluang sebenarnya. Contoh ini menunjukkan pentingnya tabel frekuensi dua arah dan bukan alat diagnosis.
+
+BAB 35 — KESALAHAN UMUM DALAM PENAFSIRAN
+Kesalahan umum meliputi menganggap korelasi sebagai sebab, mengabaikan penyebut persentase, memilih sampel yang mudah dijangkau lalu menggeneralisasi luas, menghapus pencilan tanpa alasan, dan menyimpulkan tidak ada efek hanya karena hasil uji tidak signifikan.
+
+Kesalahan lain adalah membandingkan rata-rata tanpa memeriksa sebaran, menganggap angka desimal berarti pengukuran sangat akurat, serta mengabaikan perubahan definisi data. Ketelitian tampilan angka tidak sama dengan ketelitian informasi. Laporkan angka sesuai resolusi pengukuran dan jangan menambah angka desimal yang tidak didukung.
+
+BAB 36 — MENULIS LAPORAN STATISTIKA
+Laporan yang baik memuat pertanyaan, sumber data, populasi dan sampel, definisi variabel, metode pengumpulan, metode analisis, hasil, keterbatasan, dan kesimpulan. Grafik harus diberi judul dan keterangan yang dapat dipahami tanpa menebak-nebak.
+
+Pisahkan hasil dari interpretasi. Hasil menyatakan apa yang ditemukan; interpretasi menjelaskan maknanya dalam konteks dan asumsi. Kesimpulan harus sebanding dengan rancangan. Jika penelitian hanya observasional, gunakan bahasa “berhubungan” atau “berkaitan”, bukan “menyebabkan”, kecuali ada bukti kausal yang memadai.
+
+BAB 37 — PROYEK: DATA PENGGUNAAN AIR RUMAH TANGGA
+Tujuan proyek adalah memahami variasi penggunaan air tanpa mengumpulkan identitas pribadi yang tidak diperlukan. Catat angka meter pada waktu yang disepakati atau gunakan data simulasi jika pencatatan nyata tidak memungkinkan. Tetapkan satuan, periode, dan cara menangani hari ketika data tidak tersedia.
+
+Buat tabel harian, grafik garis, rata-rata, median, dan rentang. Tandai hari yang berbeda dari pola umum, lalu periksa apakah ada alasan seperti jumlah penghuni atau kegiatan khusus. Jangan menyimpulkan penyebab hanya dari pola angka. Tulis keterbatasan, misalnya durasi pengamatan singkat atau alat ukur yang tidak diperiksa.
+
+BAB 38 — PROYEK: MEMBANDINGKAN WAKTU PERJALANAN
+Rumuskan pertanyaan tentang waktu perjalanan pada dua rute atau dua jenis hari. Tentukan titik awal dan akhir, waktu keberangkatan, cara mengukur, dan jumlah pengamatan. Jangan mencatat lokasi rinci atau identitas orang jika tidak dibutuhkan.
+
+Bandingkan median dan rentang, bukan hanya satu perjalanan tercepat. Kondisi cuaca, kemacetan, dan waktu keberangkatan dapat memengaruhi hasil. Jika pengamatan dilakukan pada hari yang berbeda, jelaskan bahwa kondisi tidak sepenuhnya setara.
+
+BAB 39 — PROYEK: SURVEI KEBIASAAN MEMBACA
+Susun pertanyaan netral tentang frekuensi membaca, jenis bacaan, dan waktu yang digunakan. Hindari meminta nama atau informasi pribadi yang tidak relevan. Berikan penjelasan singkat tentang tujuan survei dan partisipasi yang sukarela.
+
+Laporkan jumlah undangan, jumlah respons, dan jumlah jawaban lengkap. Jika survei hanya dilakukan pada satu kelas, batasi kesimpulan pada kelompok tersebut. Hasil tidak otomatis mewakili seluruh sekolah atau semua remaja.
+
+BAB 40 — DAFTAR PERIKSA SEBELUM MEMPUBLIKASIKAN ANGKA
+Periksa kembali: apakah sumber data disebutkan; apakah definisi dan satuan jelas; apakah sampel sesuai dengan populasi sasaran; apakah nilai kosong ditangani secara terbuka; apakah grafik memiliki skala jujur; apakah ketidakpastian dijelaskan; apakah kesimpulan melampaui bukti; dan apakah privasi terlindungi.
+
+Minta orang lain membaca laporan untuk menemukan istilah ambigu, salah hitung, atau visual yang membingungkan. Simpan data dan langkah analisis sesuai aturan privasi agar hasil dapat diperiksa tanpa membuka informasi sensitif.
+
+LATIHAN TERPADU DAN PEMBAHASAN
+
+1. Dari 80 responden, 20 memilih berjalan kaki. Hitung proporsi dan persentasenya.
+Pembahasan: proporsi = 20/80 = 0,25. Persentase = 25 persen.
+
+2. Data 2, 4, 6 memiliki rata-rata 4. Hitung varians populasi.
+Pembahasan: kuadrat selisih adalah 4, 0, dan 4. Jumlahnya 8. Bagi dengan 3, sehingga varians populasi 8/3.
+
+3. Jika nilai 80, rata-rata 70, dan simpangan baku 5, berapa skor z?
+Pembahasan: z = (80−70)/5 = 2. Nilai berada dua simpangan baku di atas rata-rata.
+
+4. Mengapa pengambilan bola tanpa pengembalian tidak independen?
+Pembahasan: hasil pertama mengubah komposisi bola yang tersisa sehingga peluang pengambilan kedua berubah.
+
+5. Apa arti kemiringan positif pada regresi linear?
+Pembahasan: dalam model, kenaikan satu unit X berkaitan dengan kenaikan nilai prediksi Y sebesar kemiringan. Itu bukan bukti sebab-akibat.
+
+6. Apakah R-kuadrat tinggi menjamin prediksi masa depan akurat?
+Pembahasan: tidak. Model dapat terlalu menyesuaikan data latihan, melanggar asumsi, atau menghadapi perubahan pola.
+
+7. Mengapa angka persentase harus menyebutkan penyebut?
+Pembahasan: karena persentase dapat berubah tergantung kelompok dasar yang digunakan.
+
+8. Apa perbedaan tren dan pola musiman?
+Pembahasan: tren adalah arah perubahan jangka panjang; musiman adalah pola yang berulang pada periode tertentu.
+
+9. Mengapa data kosong tidak boleh otomatis diganti nol?
+Pembahasan: kosong berarti tidak diketahui atau tidak tercatat, sedangkan nol adalah nilai yang benar-benar tidak ada.
+
+10. Sebutkan empat bagian penting laporan statistik.
+Pembahasan: pertanyaan, sumber dan metode data, hasil analisis, serta keterbatasan dan kesimpulan.
+
+GLOSARIUM TAMBAHAN
+Definisi operasional: cara konkret mengukur suatu konsep.
+Unit analisis: objek yang diwakili oleh satu unit pengamatan.
+Kamus data: keterangan variabel, tipe, satuan, dan kode.
+Proporsi: bagian dari keseluruhan yang dinyatakan sebagai rasio.
+Varians: ukuran rata-rata kuadrat penyimpangan dari rata-rata.
+Simpangan baku: akar kuadrat varians.
+Skor z: jarak nilai dari rata-rata dalam satuan simpangan baku.
+Residual: selisih nilai aktual dan nilai prediksi.
+Regresi: metode pemodelan hubungan antara variabel.
+R-kuadrat: ukuran variasi data yang dirangkum oleh model dalam konteks tertentu.
+Runtun waktu: data yang dicatat berurutan menurut waktu.
+Tingkat dasar: frekuensi awal suatu kejadian sebelum informasi tambahan.
+Bias nonrespons: bias akibat perbedaan sistematis antara yang menjawab dan tidak menjawab.
+
+PENUTUP BAGIAN PENGEMBANGAN
+Statistika bukan mesin yang otomatis menghasilkan kebenaran. Kualitas kesimpulan bergantung pada pertanyaan, cara data dikumpulkan, definisi yang digunakan, analisis, dan kejujuran pelaporan. Angka yang tampak meyakinkan tetap perlu diperiksa. Pembaca yang cermat tidak hanya bertanya “berapa hasilnya?”, tetapi juga “dari mana data berasal, bagaimana hasil dihitung, dan apa batas kesimpulannya?”
+
+Akhir buku.

@@ -113,7 +113,7 @@ DAFTAR PUSTAKA DAN SARAN BELAJAR
 Naskah ini merupakan bahan pembelajaran orisinal yang disusun untuk NextyLibrary. Untuk topik yang memerlukan informasi mutakhir atau keputusan profesional, bandingkan dengan buku ajar, standar, dan publikasi lembaga resmi yang relevan. Catat judul, penulis/lembaga, tahun, serta bagian yang digunakan ketika menambahkan rujukan.
 PENDALAMAN MATERI KEAMANAN DEFENSIF
 
-BAB 6. PERLINDUNGAN AKUN DAN AUTENTIKASI
+PENDALAMAN — PERLINDUNGAN AKUN DAN AUTENTIKASI
 Akun digital sering menjadi pintu masuk ke banyak layanan. Gunakan kata sandi yang panjang, unik, dan tidak digunakan ulang. Pengelola kata sandi tepercaya dapat membantu membuat dan menyimpan kata sandi berbeda. Autentikasi multifaktor menambahkan pemeriksaan selain kata sandi, misalnya aplikasi autentikator atau kunci keamanan. Kode pemulihan perlu disimpan secara aman dan tidak dibagikan kepada siapa pun. Periksa perangkat dan sesi yang masih masuk, terutama setelah menggunakan perangkat bersama. Jika layanan memberi peringatan masuk yang tidak dikenal, gunakan prosedur pemulihan resmi dan tinjau keamanan akun lain yang memakai kata sandi sama.
 
 BAB 7. MENGENALI REKAYASA SOSIAL DAN PENIPUAN

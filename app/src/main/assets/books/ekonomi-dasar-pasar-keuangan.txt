@@ -293,3 +293,20 @@ Buat perbandingan simulasi antara rekening simpanan dan obligasi berdasarkan tuj
 
 RANGKUMAN BAB
 Sistem keuangan membantu perputaran dana dan kegiatan ekonomi, tetapi produk keuangan memiliki karakter berbeda. Pemahaman kontrak, risiko, legalitas, dan perlindungan konsumen merupakan bagian penting literasi keuangan.
+
+BAB PERDAGANGAN, NILAI TUKAR, DAN NERACA
+Nilai tukar menyatakan harga satu mata uang dalam mata uang lain. Perubahannya dapat dipengaruhi suku bunga, inflasi, arus perdagangan, investasi, kebijakan, dan ekspektasi. Pelemahan mata uang dapat membuat impor lebih mahal dan ekspor lebih kompetitif dalam kondisi tertentu, tetapi dampaknya bergantung struktur ekonomi serta kontrak.
+
+Neraca perdagangan mencatat perbedaan nilai ekspor dan impor barang dalam periode tertentu. Neraca transaksi berjalan mencakup barang, jasa, pendapatan primer, dan transfer berjalan. Angka tersebut membantu memahami hubungan ekonomi dengan dunia, tetapi tidak cukup sendirian untuk menilai kesejahteraan masyarakat.
+
+KETIMPANGAN DAN DISTRIBUSI PENDAPATAN
+Pertumbuhan ekonomi mengukur perubahan produksi atau pendapatan agregat, sedangkan kesejahteraan mencakup kesehatan, pendidikan, keamanan, lingkungan, dan distribusi kesempatan. Produk domestik bruto per kapita adalah rata-rata dan tidak menunjukkan bagaimana pendapatan terbagi. Ukuran ketimpangan seperti kurva Lorenz dan koefisien Gini membantu menggambarkan distribusi, tetapi perlu dibaca sesuai metode dan sumber.
+
+SIKLUS BISNIS
+Aktivitas ekonomi dapat mengalami ekspansi dan kontraksi. Perubahan permintaan, investasi, kebijakan, kondisi keuangan, dan guncangan global memengaruhi pekerjaan serta produksi. Indikator ekonomi perlu dibaca bersama karena satu indikator dapat bergerak berbeda dari indikator lain.
+
+LATIHAN
+Gunakan data simulasi ekspor dan impor untuk menghitung neraca perdagangan. Ubah satu asumsi nilai tukar dan jelaskan mengapa dampaknya tidak otomatis sama untuk semua perusahaan. Gunakan angka latihan, bukan prediksi nilai tukar.
+
+RANGKUMAN
+Ekonomi makro menghubungkan nilai tukar, perdagangan, distribusi pendapatan, dan siklus bisnis. Indikator agregat perlu dilengkapi informasi tentang kelompok dan sektor yang terdampak.

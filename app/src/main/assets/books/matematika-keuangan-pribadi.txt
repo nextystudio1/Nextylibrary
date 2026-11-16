@@ -327,3 +327,20 @@ Buat simulasi tabungan dengan setoran rutin bulanan dan tingkat pertumbuhan hipo
 
 RANGKUMAN BAB
 Pajak, asuransi, dan nilai waktu uang membantu memahami hubungan keuangan pribadi dengan layanan publik dan pengelolaan risiko. Semua perhitungan harus disertai asumsi serta pemahaman aturan yang berlaku.
+
+BAB KREDIT, CICILAN, DAN BIAYA TOTAL
+Kredit memungkinkan pembelian atau penggunaan dana sebelum pembayaran penuh, tetapi menimbulkan kewajiban di masa depan. Cicilan bulanan perlu dilihat bersama jumlah pokok, bunga, biaya administrasi, asuransi, denda, dan lama pembayaran. Angsuran rendah dapat terjadi karena tenor lebih panjang sehingga total biaya menjadi lebih besar.
+
+Bunga sederhana dihitung dari pokok awal, sedangkan bunga majemuk dihitung atas saldo yang mencakup bunga sebelumnya sesuai periode. Produk nyata dapat memakai metode perhitungan dan biaya berbeda. Baca simulasi resmi dan perjanjian, jangan mengandalkan satu angka promosi.
+
+RISIKO DAN KEMAMPUAN MEMBAYAR
+Kemampuan membayar dipengaruhi kestabilan pendapatan, kewajiban lain, dan kemungkinan keadaan darurat. Keterlambatan dapat menimbulkan biaya tambahan dan berdampak pada catatan kredit sesuai aturan. Pelajar sebaiknya mempelajari konsep melalui angka simulasi, bukan mengajukan produk kredit.
+
+PENIPUAN DAN PINJAMAN ILEGAL
+Waspadai tawaran pinjaman yang meminta akses berlebihan ke kontak atau foto, biaya awal tidak jelas, atau mengancam peminjam. Periksa legalitas melalui otoritas resmi dan mintalah bantuan wali. Jangan mengirim dokumen identitas atau kode verifikasi ke pihak yang tidak terverifikasi.
+
+LATIHAN
+Bandingkan dua skenario pembelian fiktif: pembayaran langsung dan cicilan. Hitung total pembayaran, selisih biaya, dan konsekuensi jika satu angsuran terlambat menurut asumsi latihan. Jelaskan mengapa keputusan harus mempertimbangkan kebutuhan serta kemampuan membayar.
+
+RANGKUMAN
+Kredit adalah komitmen jangka waktu tertentu, bukan uang tambahan tanpa biaya. Memahami total pembayaran, bunga, denda, dan legalitas membantu menghindari keputusan yang merugikan.

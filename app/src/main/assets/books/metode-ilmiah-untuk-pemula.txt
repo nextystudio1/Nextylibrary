@@ -288,3 +288,21 @@ Buat rancangan penelitian sederhana tentang intensitas cahaya dan pertumbuhan ta
 
 RANGKUMAN BAB
 Laporan yang baik menyampaikan metode dan hasil secara jujur. Definisi operasional, validitas, reliabilitas, keterbatasan, serta perlindungan peserta menentukan mutu penelitian.
+
+BAB DESAIN EKSPERIMEN DAN PENGENDALIAN VARIABEL
+Eksperimen menguji pengaruh perlakuan dengan membandingkan kondisi. Variabel bebas merupakan faktor yang diubah, variabel terikat adalah hasil yang diukur, dan variabel kontrol dijaga agar pengaruh lain tidak mengaburkan hasil. Dalam eksperimen sederhana, satu faktor dapat diubah sementara faktor lain dipertahankan, tetapi rancangan nyata sering lebih kompleks.
+
+PENGACAKAN DAN KELOMPOK PEMBANDING
+Pengacakan penempatan peserta atau objek membantu mengurangi bias sistematis. Kelompok pembanding menunjukkan apa yang mungkin terjadi tanpa perlakuan atau dengan perlakuan standar. Jika pengacakan tidak mungkin, peneliti harus menjelaskan perbedaan awal kelompok dan membatasi kesimpulan.
+
+PENGUKURAN BERULANG
+Pengukuran berulang membantu mengetahui variasi alami dan mengurangi ketergantungan pada satu hasil. Gunakan alat dan prosedur yang sama, catat kalibrasi, dan tentukan cara menangani data hilang sebelum analisis. Mengulang pengukuran tidak berarti menghapus nilai yang tidak sesuai harapan.
+
+REPRODUKSIBILITAS
+Penelitian lebih mudah diperiksa jika prosedur, definisi variabel, bahan, dan analisis dijelaskan dengan cukup rinci. Berbagi data harus mempertimbangkan privasi, persetujuan, dan lisensi. Reproduksibilitas bukan sekadar menyalin hasil, tetapi memberi kesempatan untuk menilai proses dan asumsi.
+
+LATIHAN
+Rancang eksperimen aman untuk membandingkan laju pelarutan gula dalam air pada kondisi suhu yang ditentukan guru. Tentukan variabel, prosedur, jumlah pengulangan, dan cara mencatat hasil. Gunakan bahan pangan biasa dan jangan memanaskan cairan tanpa pengawasan.
+
+RANGKUMAN
+Eksperimen yang baik mengendalikan variabel, menggunakan pembanding, mengulang pengukuran, dan mendokumentasikan prosedur. Keselamatan dan etika harus menjadi bagian rancangan sejak awal.

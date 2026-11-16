@@ -335,3 +335,21 @@ Susun kerangka karya ilmiah satu halaman tentang kualitas ruang baca sekolah. Tu
 
 RANGKUMAN BAB
 Karya ilmiah mengutamakan struktur yang jelas, bahasa tepat, visualisasi jujur, dan penyampaian terbuka. Penulis bertanggung jawab memastikan pembaca dapat menelusuri dasar setiap klaim.
+
+BAB MENYUSUN TINJAUAN PUSTAKA
+Tinjauan pustaka menyatukan hasil penelitian terdahulu untuk menjelaskan apa yang sudah diketahui, bagian yang belum jelas, dan alasan penelitian dilakukan. Susun sumber berdasarkan tema, metode, atau perdebatan, bukan hanya urutan penulis. Bandingkan persamaan dan perbedaan temuan, lalu jelaskan kemungkinan penyebabnya.
+
+PENCARIAN DAN SELEKSI SUMBER
+Tentukan kata kunci, rentang tahun, jenis publikasi, dan kriteria relevansi sebelum mencari. Basis data ilmiah, katalog perpustakaan, repositori institusi, dan situs lembaga resmi dapat membantu. Baca abstrak untuk penyaringan awal, kemudian periksa metode dan hasil sebelum mengutip. Jangan mengandalkan cuplikan mesin pencari sebagai pengganti dokumen asli.
+
+MENGHINDARI PLAGIARISME
+Catatan penelitian sebaiknya memisahkan kutipan langsung, parafrase, dan komentar pribadi. Tandai kutipan sejak awal agar tidak tertukar dengan tulisan sendiri. Gunakan perangkat pengelola referensi bila membantu, tetapi periksa kembali hasil otomatis karena metadata dapat salah.
+
+MENULIS ULANG DENGAN AKURAT
+Parafrase yang baik mempertahankan makna sumber, menyebutkan rujukan, dan menempatkan gagasan dalam alur argumen sendiri. Jangan mengubah kesimpulan penelitian menjadi klaim yang lebih kuat. Jika sumber menyatakan hubungan, jangan menulisnya sebagai sebab-akibat.
+
+LATIHAN
+Pilih tiga sumber tentang satu topik pendidikan. Buat tabel tujuan, metode, temuan, keterbatasan, dan hubungan antarsumber. Susun satu paragraf sintesis yang membandingkan sumber, bukan meringkas satu per satu.
+
+RANGKUMAN
+Tinjauan pustaka yang kuat memetakan pengetahuan dan perdebatan secara kritis. Seleksi sumber, catatan, sitasi, dan parafrase yang jujur mencegah kesalahan akademik.

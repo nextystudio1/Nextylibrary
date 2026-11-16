@@ -296,3 +296,20 @@ Pilih satu ancaman wilayah, seperti banjir, longsor, kekeringan, atau abrasi. Bu
 
 RANGKUMAN BAB
 Geografi Indonesia menghubungkan iklim, topografi, pesisir, dan aktivitas manusia. Pengurangan risiko membutuhkan informasi lokal, perencanaan ruang, ekosistem sehat, dan kesiapsiagaan masyarakat.
+
+BAB PETA, KOORDINAT, DAN SISTEM INFORMASI GEOGRAFIS
+Koordinat geografis menggunakan garis lintang dan bujur untuk menentukan posisi di permukaan Bumi. Lintang mengukur posisi utara atau selatan ekuator, sedangkan bujur mengukur posisi timur atau barat meridian acuan. Koordinat harus disertai datum atau sistem referensi yang sesuai agar lokasi tidak bergeser ketika data digabungkan.
+
+Sistem Informasi Geografis (SIG) mengelola data yang memiliki lokasi. Data vektor mewakili titik, garis, dan poligon, sedangkan data raster tersusun dari sel atau piksel. Contoh data vektor adalah lokasi sekolah dan batas administrasi; contoh raster adalah citra satelit dan model elevasi. Setiap lapisan perlu memiliki sumber, tanggal, skala, dan sistem koordinat.
+
+PENGINDERAAN JAUH
+Penginderaan jauh mengumpulkan informasi permukaan tanpa kontak langsung, misalnya melalui satelit atau pesawat. Sensor pasif merekam energi alami yang dipantulkan atau dipancarkan, sedangkan sensor aktif mengirim energi dan mengukur pantulannya. Citra dapat membantu memantau tutupan lahan, suhu permukaan, dan perubahan wilayah, tetapi awan, resolusi, dan metode klasifikasi membatasi interpretasi.
+
+ANALISIS SPASIAL
+Tumpang susun lapisan peta dapat membantu melihat hubungan lokasi, misalnya jarak permukiman ke fasilitas kesehatan. Kedekatan geografis tidak selalu berarti akses mudah karena kondisi jalan, biaya, waktu, dan kapasitas layanan berbeda. Hasil analisis harus dipahami bersama data sosial dan kondisi lapangan.
+
+LATIHAN
+Buat peta tematik sederhana dari data publik menggunakan perangkat lunak pendidikan atau peta cetak. Sertakan legenda, skala, arah utara, sumber, dan tanggal data. Jelaskan batas interpretasi peta.
+
+RANGKUMAN
+Peta digital dan SIG membantu analisis keruangan, tetapi ketepatan koordinat, resolusi, metadata, serta konteks sosial menentukan kualitas kesimpulan.

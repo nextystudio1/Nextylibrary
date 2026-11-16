@@ -174,3 +174,46 @@ Anonimisasi: Penghilangan atau pengubahan identitas untuk mengurangi risiko priv
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Gunakan buku ajar dan sumber lembaga kompeten untuk pendalaman. Catat sumber, tahun, dan bagian yang dirujuk. Untuk informasi yang terus berkembang, periksa edisi dan tanggal pembaruan sebelum mengutip.
+
+BAB LANJUTAN: MERANCANG ALUR KERJA DATA
+
+Alur kerja data dimulai dari pertanyaan, bukan dari keinginan mengumpulkan sebanyak mungkin informasi. Pertanyaan menentukan unit analisis, sumber, periode, dan bentuk data yang diperlukan. Sebelum pengumpulan, buat kamus data yang memuat nama kolom, definisi, tipe, satuan, nilai yang diperbolehkan, serta aturan untuk data yang tidak tersedia. Kamus data membantu anggota tim menggunakan istilah secara konsisten.
+
+Data mentah sebaiknya disimpan terpisah dari data yang telah dibersihkan. Setiap perubahan perlu dicatat dalam skrip, log, atau catatan proses sehingga keputusan dapat ditinjau kembali. Mengubah nilai langsung tanpa jejak menyulitkan pemeriksaan kesalahan. Gunakan salinan kerja dan simpan versi yang jelas, terutama ketika beberapa orang mengolah berkas yang sama.
+
+Pemeriksaan kualitas dapat mencakup kelengkapan, keunikan, validitas, konsistensi, ketepatan waktu, dan kesesuaian konteks. Nilai kosong tidak selalu berarti kesalahan: responden mungkin tidak mengetahui jawaban, pertanyaan tidak berlaku, atau informasi memang tidak dicatat. Kode yang berbeda sebaiknya digunakan untuk membedakan alasan tersebut bila relevan.
+
+BAB LANJUTAN: PEMBERSIHAN DAN TRANSFORMASI
+
+Pembersihan data adalah proses mendeteksi dan menangani masalah, bukan menghapus semua nilai yang tampak tidak biasa. Pencilan dapat berasal dari salah ketik, kesalahan alat, atau kejadian nyata yang penting. Sebelum menghapusnya, periksa sumber dan dokumentasikan alasan. Bila keputusan belum pasti, lakukan analisis dengan dan tanpa nilai tersebut lalu bandingkan hasil.
+
+Transformasi dapat mencakup pengubahan format tanggal, penyamaan satuan, pemisahan kolom, penggabungan tabel, atau pembuatan kategori. Setiap transformasi harus mempertahankan makna. Menggabungkan kategori yang berbeda dapat menyembunyikan pola; mengubah satuan tanpa mencatat faktor konversi dapat menghasilkan angka keliru.
+
+Penggabungan tabel memerlukan kunci yang tepat. Kunci yang tidak unik dapat menggandakan baris dan mengubah jumlah agregat. Setelah penggabungan, periksa jumlah baris, kecocokan kunci, dan contoh rekaman secara manual. Buat ringkasan sebelum dan sesudah transformasi agar perubahan dapat ditelusuri.
+
+BAB LANJUTAN: VISUALISASI UNTUK MENJELASKAN DATA
+
+Grafik dipilih berdasarkan pertanyaan. Grafik garis cocok untuk perubahan sepanjang waktu; diagram batang membantu membandingkan kategori; histogram menunjukkan distribusi; diagram pencar memperlihatkan hubungan dua ukuran numerik. Peta berguna ketika lokasi merupakan bagian penting dari pola, tetapi batas wilayah dan ukuran populasi harus dipertimbangkan.
+
+Sumbu yang dipotong, kategori yang tidak seimbang, warna yang sulit dibedakan, dan label yang tidak jelas dapat mengarahkan pembaca pada kesimpulan yang salah. Judul sebaiknya menyampaikan pesan utama tanpa melebih-lebihkan. Cantumkan satuan, periode, sumber, dan jumlah observasi. Jika data tidak lengkap, jelaskan bagian yang hilang.
+
+Visualisasi yang baik tidak harus rumit. Satu grafik yang menjawab satu pertanyaan sering lebih efektif daripada dasbor penuh elemen. Gunakan anotasi untuk menjelaskan perubahan penting, tetapi bedakan fakta pengamatan dari dugaan penyebab.
+
+BAB LANJUTAN: PRIVASI DAN ETIKA DATA
+
+Data yang dapat mengidentifikasi seseorang perlu dilindungi. Pengurangan risiko dimulai dari minimisasi: kumpulkan hanya informasi yang diperlukan untuk tujuan yang sah. Batasi akses berdasarkan peran, gunakan penyimpanan yang aman, dan tetapkan masa simpan. Data yang telah dihapus nama pun dapat berisiko dikenali kembali jika digabungkan dengan informasi lain.
+
+Anonimisasi dan pseudonimisasi bukan hal yang sama. Anonimisasi bertujuan membuat identifikasi kembali tidak lagi wajar dilakukan, sedangkan pseudonimisasi mengganti identitas langsung dengan kode dan masih mungkin dihubungkan kembali melalui informasi tambahan. Peneliti perlu menjelaskan perlindungan yang benar-benar diterapkan, bukan menggunakan istilah keamanan secara longgar.
+
+BAB LANJUTAN: MENYAJIKAN TEMUAN DAN KETERBATASAN
+
+Laporan data yang bertanggung jawab memisahkan pertanyaan, metode, temuan, interpretasi, dan rekomendasi. Tampilkan ukuran sampel dan definisi indikator. Hindari mengubah korelasi menjadi klaim sebab-akibat. Jelaskan apakah data mewakili seluruh populasi atau hanya kelompok yang diamati.
+
+Sebelum menerbitkan hasil, lakukan pemeriksaan ulang angka, label, satuan, pembulatan, dan konsistensi antarbagian. Minta orang lain menelusuri satu atau dua hasil dari data mentah sampai grafik. Pemeriksaan ini sering menemukan kesalahan yang tidak terlihat oleh pembuat analisis.
+
+LATIHAN APLIKATIF
+1. Buat kamus data untuk survei peminjaman buku.
+2. Tentukan cara membedakan data kosong karena tidak berlaku dan karena tidak dijawab.
+3. Jelaskan pemeriksaan yang diperlukan setelah menggabungkan dua tabel.
+4. Pilih grafik untuk membandingkan jumlah peminjaman bulanan dan jelaskan alasannya.
+5. Tulis tiga risiko privasi dari data lokasi dan cara menguranginya.

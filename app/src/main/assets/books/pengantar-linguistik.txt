@@ -168,3 +168,40 @@ Pragmatik: Kajian makna bahasa dalam konteks.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk kajian lanjutan, gunakan sumber primer, buku ajar, standar, dan publikasi lembaga tepercaya. Catat penulis atau lembaga, judul, tahun, dan bagian yang digunakan. Periksa pembaruan informasi pada topik yang berkembang.
+
+BAB LANJUTAN: BUNYI BAHASA DAN SISTEM FONOLOGI
+
+Fonetik mempelajari bunyi ujaran dari sisi produksi, sifat akustik, dan persepsi. Fonologi menelaah bagaimana bunyi berfungsi membedakan makna dalam suatu bahasa. Perbedaan bunyi yang penting dalam satu bahasa belum tentu memiliki fungsi yang sama dalam bahasa lain. Karena itu, analisis bunyi perlu didasarkan pada data bahasa yang diteliti.
+
+Fonem adalah satuan bunyi yang dapat membedakan makna, sedangkan alofon merupakan variasi pengucapan yang tidak membedakan makna dalam konteks tertentu. Pasangan minimal membantu menguji apakah dua bunyi berfungsi sebagai fonem berbeda. Peneliti perlu mencatat lingkungan bunyi dan variasi penutur agar generalisasi tidak terlalu luas.
+
+BAB LANJUTAN: MORFOLOGI DAN PEMBENTUKAN KATA
+
+Morfologi mempelajari struktur internal kata dan proses pembentukannya. Morfem adalah satuan terkecil yang membawa makna atau fungsi gramatikal. Kata dapat terbentuk melalui afiksasi, pengulangan, pemajemukan, atau perubahan bentuk lainnya.
+
+Analisis morfologi membedakan akar, dasar, imbuhan, dan bentuk turunan. Satu imbuhan dapat memiliki beberapa fungsi bergantung pada konteks. Contoh perlu dikumpulkan dari kalimat nyata agar peneliti tidak menyimpulkan fungsi hanya dari satu kata.
+
+BAB LANJUTAN: SINTAKSIS DAN STRUKTUR KALIMAT
+
+Sintaksis menelaah cara kata dan frasa disusun menjadi satuan yang lebih besar. Konstituen dapat diuji melalui distribusi, penggantian, pemindahan, atau koordinasi. Urutan kata memengaruhi hubungan gramatikal dan fokus informasi, tetapi pola setiap bahasa berbeda.
+
+Kalimat kompleks dapat mengandung klausa utama dan klausa subordinat. Hubungan antarklausa dapat menyatakan sebab, waktu, syarat, tujuan, atau pertentangan. Analisis harus memperhatikan bentuk dan makna agar kategori sintaksis tidak ditentukan hanya berdasarkan terjemahan.
+
+BAB LANJUTAN: SEMANTIK DAN PRAGMATIK
+
+Semantik mempelajari makna yang dikodekan oleh kata dan struktur. Relasi makna mencakup sinonimi, antonimi, hiponimi, polisemi, dan homonimi. Makna kalimat dapat dipengaruhi komposisi unsur, tetapi konteks juga berperan dalam interpretasi.
+
+Pragmatik menelaah makna dalam penggunaan. Ujaran yang berbentuk pertanyaan dapat berfungsi sebagai permintaan, sedangkan kalimat pernyataan dapat menyampaikan sindiran atau janji. Penafsiran memerlukan konteks penutur, pendengar, tujuan, dan pengetahuan bersama.
+
+BAB LANJUTAN: VARIASI, PERUBAHAN, DAN DOKUMENTASI BAHASA
+
+Bahasa bervariasi menurut wilayah, kelompok sosial, situasi, generasi, dan media. Variasi bukan bentuk yang secara linguistik lebih rendah; penilaian sosial terhadap variasi sering berkaitan dengan kekuasaan dan prestise. Peneliti perlu membedakan deskripsi pola bahasa dari penilaian normatif.
+
+Perubahan bahasa berlangsung melalui kontak, inovasi, pergeseran makna, dan perubahan bunyi atau tata bahasa. Dokumentasi bahasa dapat merekam kosakata, cerita, percakapan, tata bahasa, dan pengetahuan budaya dengan persetujuan komunitas. Pengarsipan harus memperhatikan akses, kepemilikan, privasi, dan hak komunitas penutur.
+
+LATIHAN AKHIR
+1. Bedakan fonetik dan fonologi.
+2. Buat contoh analisis morfem dari beberapa kata.
+3. Jelaskan bagaimana urutan kata memengaruhi interpretasi.
+4. Berikan contoh perbedaan makna semantik dan pragmatik.
+5. Susun prinsip etis untuk dokumentasi bahasa komunitas.

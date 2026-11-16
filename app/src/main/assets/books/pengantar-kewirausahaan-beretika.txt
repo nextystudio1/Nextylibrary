@@ -6,7 +6,7 @@ DESKRIPSI
 Mengenal kebutuhan pelanggan, model usaha, biaya, pemasaran, layanan, dan tanggung jawab sosial.
 
 TUJUAN PEMBELAJARAN
-Setelah mempelajari Pengantar Kewirausahaan Beretika, pembaca mampu menjelaskan mengenal kebutuhan pelanggan, model usaha, biaya, pemasaran, layanan, dan tanggung jawab sosial., membedakan istilah yang sering tertukar, menilai contoh berdasarkan bukti, dan menerapkan konsep secara tepat sesuai konteks.
+Setelah mempelajari buku ini, pembaca diharapkan mampu mengenali kebutuhan pelanggan, merancang model usaha sederhana, menghitung biaya dan harga, menguji gagasan, memasarkan produk secara jujur, serta mempertimbangkan tanggung jawab terhadap pelanggan dan lingkungan.
 
 BAB 1. MASALAH SEBAGAI AWAL USAHA
 
@@ -21,11 +21,11 @@ RANGKUMAN
 - Nyatakan batas informasi sebelum membuat kesimpulan.
 
 LATIHAN BAB
-1. Jelaskan konsep inti MASALAH SEBAGAI AWAL USAHA dengan istilah yang tepat.
-2. Berikan contoh penerapan yang sesuai dengan bidang Pengantar Kewirausahaan Beretika.
-3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
-4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
-5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
+1. Amati satu kesulitan sehari-hari yang dialami kelompok tertentu.
+2. Tulis rumusan masalah yang menyebut siapa terdampak, kapan, dan dalam kondisi apa.
+3. Bukti apa yang membedakan kebutuhan nyata dari dugaan pribadi?
+4. Sebutkan dua solusi yang sudah digunakan dan kekurangannya.
+5. Buat pertanyaan wawancara netral untuk memeriksa kebutuhan tersebut.
 
 BAB 2. PELANGGAN DAN NILAI YANG DITAWARKAN
 
@@ -34,11 +34,11 @@ Nilai adalah manfaat yang diterima pelanggan dibandingkan biaya, waktu, dan usah
 Buat proposisi nilai satu kalimat: produk apa yang ditawarkan, untuk siapa, masalah apa yang dibantu, dan apa pembeda yang dapat dibuktikan. Hindari klaim berlebihan. Jika belum memiliki data, katakan bahwa produk sedang diuji.
 
 LATIHAN BAB
-1. Jelaskan konsep inti PELANGGAN DAN NILAI YANG DITAWARKAN dengan istilah yang tepat.
-2. Berikan contoh penerapan yang sesuai dengan bidang Pengantar Kewirausahaan Beretika.
-3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
-4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
-5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
+1. Tentukan satu kelompok pelanggan yang jelas dan jangan memakai label 'semua orang'.
+2. Tuliskan manfaat utama produk dalam satu kalimat.
+3. Bandingkan manfaat produk dengan biaya, waktu, dan usaha pelanggan.
+4. Data apa yang dapat membuktikan bahwa manfaat itu benar-benar dirasakan?
+5. Buat satu proposisi nilai tanpa klaim yang belum teruji.
 
 BAB 3. MODEL USAHA DAN BIAYA
 
@@ -47,11 +47,11 @@ Model usaha menjelaskan bagaimana nilai dibuat, disampaikan, dan menghasilkan pe
 Contoh sederhana: jika biaya bahan dan kemasan satu produk Rp8.000 dan biaya lain yang dialokasikan Rp2.000, total biaya per unit Rp10.000. Harga Rp12.000 memberi selisih Rp2.000 sebelum pajak atau biaya lain yang belum dihitung. Catatan yang rapi mencegah keputusan berdasarkan perkiraan semata.
 
 LATIHAN BAB
-1. Jelaskan konsep inti MODEL USAHA DAN BIAYA dengan istilah yang tepat.
-2. Berikan contoh penerapan yang sesuai dengan bidang Pengantar Kewirausahaan Beretika.
-3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
-4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
-5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
+1. Bedakan biaya tetap, biaya variabel, pendapatan, dan keuntungan.
+2. Hitung total biaya jika bahan Rp7.000, kemasan Rp1.500, dan biaya lain Rp1.000 per unit.
+3. Jika harga jual Rp12.000, berapa selisih sebelum biaya lain yang belum dihitung?
+4. Jelaskan akibat jika penjualan meningkat tetapi pembayaran pelanggan terlambat.
+5. Buat catatan arus kas sederhana untuk satu minggu.
 
 BAB 4. RISET PASAR DAN UJI COBA
 
@@ -60,11 +60,11 @@ Riset pasar dapat dilakukan melalui observasi, survei singkat, wawancara, dan uj
 Uji coba kecil membantu menemukan masalah sebelum usaha diperluas. Tetapkan ukuran keberhasilan, misalnya jumlah orang yang mencoba, tingkat pembelian ulang, atau waktu penyelesaian layanan. Jangan mengumpulkan data pribadi yang tidak diperlukan.
 
 LATIHAN BAB
-1. Jelaskan konsep inti RISET PASAR DAN UJI COBA dengan istilah yang tepat.
-2. Berikan contoh penerapan yang sesuai dengan bidang Pengantar Kewirausahaan Beretika.
-3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
-4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
-5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
+1. Susun tiga pertanyaan wawancara yang tidak menggiring jawaban.
+2. Jelaskan mengapa sampel kecil tidak otomatis mewakili seluruh pasar.
+3. Rancang prototipe murah yang dapat menguji satu asumsi utama.
+4. Pilih indikator uji coba selain jumlah orang yang menyukai ide.
+5. Jelaskan bagaimana tanggapan negatif dapat digunakan untuk memperbaiki produk.
 
 BAB 5. PEMASARAN DAN KEPERCAYAAN
 
@@ -73,11 +73,11 @@ Pemasaran menyampaikan manfaat secara jujur melalui pesan, harga, kemasan, dan l
 Bangun kepercayaan melalui respons yang sopan, informasi yang konsisten, dan penyelesaian keluhan. Jika terjadi kesalahan, akui, jelaskan langkah perbaikan, dan jangan menyalahkan pelanggan tanpa pemeriksaan.
 
 LATIHAN BAB
-1. Jelaskan konsep inti PEMASARAN DAN KEPERCAYAAN dengan istilah yang tepat.
-2. Berikan contoh penerapan yang sesuai dengan bidang Pengantar Kewirausahaan Beretika.
-3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
-4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
-5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
+1. Bedakan informasi produk, opini promosi, dan klaim yang perlu bukti.
+2. Buat contoh deskripsi produk yang menyebut ukuran, bahan, harga, dan batas layanan.
+3. Mengapa foto promosi harus mewakili produk sebenarnya?
+4. Susun langkah menangani keluhan pelanggan secara adil.
+5. Jelaskan kapan testimoni boleh digunakan.
 
 BAB 6. ETIKA DAN PERTUMBUHAN BERKELANJUTAN
 
@@ -86,11 +86,11 @@ Usaha memiliki dampak pada pelanggan, pekerja, pemasok, masyarakat, dan lingkung
 Buat evaluasi berkala: apakah pelanggan benar-benar terbantu, apakah biaya terkendali, apakah kualitas konsisten, dan apakah dampak negatif dapat dikurangi. Pisahkan uang usaha dan uang pribadi dengan pencatatan yang jelas.
 
 LATIHAN BAB
-1. Jelaskan konsep inti ETIKA DAN PERTUMBUHAN BERKELANJUTAN dengan istilah yang tepat.
-2. Berikan contoh penerapan yang sesuai dengan bidang Pengantar Kewirausahaan Beretika.
-3. Bandingkan dua keadaan yang menghasilkan penerapan berbeda.
-4. Sebutkan informasi yang diperlukan untuk memeriksa kesimpulan.
-5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
+1. Identifikasi dampak usaha terhadap pelanggan, pekerja, pemasok, dan lingkungan.
+2. Buat satu aturan sederhana untuk melindungi data pelanggan.
+3. Bagaimana usaha merespons produk yang ternyata tidak sesuai standar mutu?
+4. Pilih indikator yang menilai manfaat pelanggan dan bukan hanya omzet.
+5. Jelaskan mengapa pertumbuhan cepat tidak selalu berarti usaha sehat.
 
 EVALUASI AKHIR
 1. Pilih tiga konsep dari buku ini dan jelaskan hubungan di antara ketiganya.

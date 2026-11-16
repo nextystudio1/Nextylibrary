@@ -198,22 +198,22 @@ DAFTAR RUJUKAN UNTUK PENDALAMAN
 Gunakan materi edukasi OJK, Bank Indonesia, Kementerian Keuangan, dan lembaga perlindungan konsumen. Periksa ketentuan layanan melalui sumber resmi dan jangan menganggap materi edukasi sebagai rekomendasi membeli produk keuangan.
 
 PENDALAMAN: PERENCANAAN KEUANGAN DAN PENGAMBILAN KEPUTUSAN
-BAB 7 — ANGGARAN DAN ARUS KAS
+BAB 1 —— ANGGARAN DAN ARUS KAS
 Anggaran mencatat pemasukan dan pengeluaran dalam periode tertentu. Bedakan kebutuhan rutin, pengeluaran tidak tetap, dan tujuan menabung. Catatan sederhana membantu mengetahui pola, tetapi angka perlu ditafsirkan sesuai keadaan rumah tangga.
 Anggaran yang realistis menyediakan ruang untuk pengeluaran tak terduga. Tinjau kembali secara berkala dan sesuaikan bila pendapatan atau kebutuhan berubah. Tujuan anggaran adalah membantu mengambil keputusan, bukan memberi penilaian moral terhadap kondisi ekonomi seseorang.
-BAB 8 — TABUNGAN DAN BUNGA MAJEMUK
+BAB 2 —— TABUNGAN DAN BUNGA MAJEMUK
 Tabungan menyediakan dana untuk kebutuhan yang direncanakan dan keadaan darurat. Bunga sederhana dihitung dari pokok, sedangkan bunga majemuk dihitung atas pokok dan bunga yang telah terakumulasi. Perbedaan menjadi lebih besar dalam jangka waktu panjang.
 Periksa tingkat bunga, biaya, pajak, saldo minimum, dan perlindungan simpanan sesuai ketentuan resmi. Nilai nominal masa depan juga perlu dipertimbangkan bersama inflasi yang memengaruhi daya beli.
-BAB 9 — UTANG DAN BIAYA PINJAMAN
+BAB 3 —— UTANG DAN BIAYA PINJAMAN
 Pinjaman merupakan kewajiban yang harus dibayar sesuai perjanjian. Bandingkan tingkat bunga efektif, biaya administrasi, denda, tenor, dan total pembayaran. Cicilan bulanan rendah belum tentu berarti biaya keseluruhan rendah jika jangka waktu sangat panjang.
 Pahami kemampuan membayar dan risiko perubahan pendapatan. Jangan meminjam atas nama orang lain atau membagikan kode akses akun. Untuk keputusan keuangan penting, diskusikan dengan wali atau orang dewasa tepercaya.
-BAB 10 — RISIKO DAN PERLINDUNGAN
+BAB 4 —— RISIKO DAN PERLINDUNGAN
 Risiko adalah kemungkinan hasil berbeda dari yang diharapkan. Dana darurat, diversifikasi, dan perlindungan yang sesuai dapat membantu mengelola risiko. Diversifikasi menghindari ketergantungan pada satu aset, tetapi tidak menjamin keuntungan atau menghilangkan seluruh risiko.
 Waspadai janji hasil tinggi tanpa risiko, tekanan untuk segera mentransfer uang, dan skema yang tidak menjelaskan sumber keuntungan. Periksa legalitas lembaga melalui kanal resmi dan jangan mengirim data pribadi kepada pihak yang tidak terverifikasi.
-BAB 11 — TUJUAN KEUANGAN DAN PRIORITAS
+BAB 5 —— TUJUAN KEUANGAN DAN PRIORITAS
 Tujuan keuangan sebaiknya spesifik, memiliki batas waktu, dan disesuaikan dengan kemampuan. Pisahkan tujuan jangka pendek dan jangka panjang. Perubahan keadaan dapat mengharuskan prioritas disusun ulang.
 Biaya peluang membantu membandingkan pilihan: memilih satu penggunaan uang berarti melepaskan manfaat dari pilihan lain. Keputusan yang baik mempertimbangkan kebutuhan, risiko, dan konsekuensi, bukan hanya dorongan sesaat.
-BAB 12 — KONSUMEN DIGITAL DAN PENIPUAN
+BAB 6 —— KONSUMEN DIGITAL DAN PENIPUAN
 Belanja digital memerlukan pemeriksaan reputasi penjual, rincian produk, kebijakan pengembalian, dan keamanan pembayaran. Simpan bukti transaksi dan gunakan kanal resmi. Penawaran dengan urgensi berlebihan atau harga yang tidak masuk akal perlu dicermati.
 Jangan membagikan OTP, PIN, atau kata sandi. Jika terjadi transaksi mencurigakan, segera hubungi penyedia layanan melalui kontak resmi dan minta bantuan orang dewasa tepercaya.
 LATIHAN
@@ -394,7 +394,7 @@ Buat anggaran fiktif untuk kegiatan belajar selama satu bulan. Tentukan priorita
 RANGKUMAN
 Literasi keuangan mencakup perencanaan, anggaran, tabungan, keamanan, dan keputusan konsumen. Kebiasaan mencatat dan memeriksa informasi membantu mengurangi risiko.
 
-BAB 9 — BUNGA, INFLASI, DAN NILAI UANG
+BAB 7 —— BUNGA, INFLASI, DAN NILAI UANG
 
 Bunga adalah biaya penggunaan uang dalam pinjaman atau imbal hasil dalam produk simpanan tertentu. Bunga sederhana dihitung dari pokok awal, sedangkan bunga majemuk memperhitungkan bunga yang telah ditambahkan pada periode sebelumnya. Rumus bunga sederhana adalah I = P × r × t, dengan P sebagai pokok, r sebagai tingkat per periode, dan t sebagai jumlah periode yang sesuai. Satuan waktu harus konsisten: tingkat tahunan tidak boleh langsung dikalikan jumlah bulan tanpa penyesuaian.
 
@@ -402,7 +402,7 @@ Contoh pendidikan: simpanan hipotetis Rp1.000.000 dengan bunga sederhana 6 perse
 
 Inflasi adalah kenaikan tingkat harga barang dan jasa secara umum dalam suatu periode. Jika harga rata-rata naik, jumlah barang yang dapat dibeli dengan uang yang sama cenderung berkurang. Inflasi tidak berarti setiap harga naik dengan persentase sama. Dampaknya berbeda menurut pola pengeluaran rumah tangga dan perubahan pendapatan.
 
-BAB 10 — MEMBANDINGKAN HARGA DAN BIAYA TOTAL
+BAB 8 —— MEMBANDINGKAN HARGA DAN BIAYA TOTAL
 
 Harga yang terlihat di iklan belum tentu merupakan biaya akhir. Biaya pengiriman, biaya layanan, pajak, biaya berlangganan, dan syarat minimum dapat mengubah total pembayaran. Untuk membandingkan dua pilihan, gunakan satuan yang sama dan hitung biaya total selama periode yang sama.
 
@@ -410,7 +410,7 @@ Contoh: paket A berharga Rp30.000 per bulan tanpa biaya awal. Paket B berharga R
 
 Diskon persentase juga perlu diperiksa. Diskon 20 persen dari harga Rp100.000 berarti potongan Rp20.000 dan harga sebelum biaya tambahan menjadi Rp80.000. Jika harga awal dinaikkan sebelum diskon, label potongan besar belum tentu menunjukkan nilai terbaik. Bandingkan harga historis bila tersedia dan periksa spesifikasi barang.
 
-BAB 11 — RISIKO, PENIPUAN, DAN KEAMANAN TRANSAKSI
+BAB 9 —— RISIKO, PENIPUAN, DAN KEAMANAN TRANSAKSI
 
 Penipuan keuangan sering memakai tekanan waktu, janji keuntungan pasti, identitas palsu, atau permintaan kode rahasia. Pesan yang meminta kode OTP, PIN, kata sandi, atau akses jarak jauh harus diperlakukan sebagai tanda bahaya. Petugas layanan yang sah tidak seharusnya meminta kode rahasia untuk mengambil alih akun.
 
@@ -418,7 +418,7 @@ Periksa alamat situs dan nama pengirim secara teliti. Jangan mengandalkan logo a
 
 Risiko juga terdapat pada keputusan meminjam. Pinjaman memiliki kewajiban pembayaran, biaya, dan konsekuensi jika terlambat. Sebelum menandatangani kontrak, seseorang harus memahami total pembayaran, tingkat biaya, jadwal, denda, dan ketentuan data pribadi. Pelajar sebaiknya tidak mengambil pinjaman atau membuat komitmen keuangan tanpa pendampingan orang dewasa yang bertanggung jawab.
 
-BAB 12 — SISTEM KEUANGAN DAN PERLINDUNGAN KONSUMEN
+BAB 10 —— SISTEM KEUANGAN DAN PERLINDUNGAN KONSUMEN
 
 Bank dan lembaga keuangan menyediakan layanan seperti penyimpanan dana, pembayaran, transfer, dan pembiayaan. Setiap produk memiliki ketentuan dan risiko berbeda. Simpanan, investasi, dan pinjaman bukan hal yang sama. Konsumen perlu memeriksa izin lembaga, informasi produk, biaya, serta mekanisme pengaduan melalui sumber resmi.
 
@@ -482,7 +482,7 @@ Premi: pembayaran untuk memperoleh perlindungan asuransi.
 Polis: dokumen yang menjelaskan perjanjian asuransi.
 Pokok pinjaman: jumlah dana yang dipinjam sebelum bunga dan biaya.
 Likuiditas: kemudahan mengakses atau mengubah aset menjadi uang.
-BAB 13 — BUNGA SEDERHANA DAN BUNGA MAJEMUK
+BAB 11 —— BUNGA SEDERHANA DAN BUNGA MAJEMUK
 
 Bunga adalah biaya penggunaan uang atau imbalan atas dana yang dipinjamkan atau disimpan, bergantung pada produk keuangan. Bunga sederhana dihitung dari pokok awal untuk setiap periode. Rumus dasarnya adalah I = P × r × t, dengan P sebagai pokok, r tingkat bunga per periode, dan t jumlah periode yang sesuai.
 
@@ -490,7 +490,7 @@ Bunga majemuk menghitung bunga berdasarkan pokok ditambah bunga yang telah terku
 
 Contoh pendidikan: pokok 1.000.000 dengan tingkat 5 persen per tahun selama dua tahun menghasilkan bunga sederhana 100.000 sebelum biaya dan pajak. Dengan penggabungan tahunan, nilai akhir majemuk adalah 1.102.500. Angka ini hanya contoh matematika, bukan tawaran atau rekomendasi produk.
 
-BAB 14 — INFLASI DAN DAYA BELI
+BAB 12 —— INFLASI DAN DAYA BELI
 
 Inflasi adalah kenaikan tingkat harga umum secara berkelanjutan. Ketika harga rata-rata meningkat, jumlah barang dan jasa yang dapat dibeli dengan jumlah uang yang sama cenderung menurun. Inflasi diukur menggunakan indeks harga yang dibangun dari keranjang barang dan jasa. Keranjang tersebut merupakan pendekatan terhadap pola konsumsi, bukan gambaran identik bagi setiap rumah tangga.
 
@@ -498,7 +498,7 @@ Perubahan harga satu barang belum tentu menunjukkan inflasi umum. Harga sayur te
 
 Untuk memahami daya beli, bandingkan perubahan pendapatan dengan perubahan harga dalam periode yang sama. Kenaikan pendapatan nominal belum tentu berarti peningkatan daya beli jika harga naik lebih cepat. Perencanaan keuangan dapat mempertimbangkan kebutuhan pokok, dana darurat, dan tujuan jangka panjang tanpa mengandalkan perkiraan yang pasti.
 
-BAB 15 — ANGGARAN DAN ARUS KAS
+BAB 13 —— ANGGARAN DAN ARUS KAS
 
 Anggaran adalah rencana penggunaan uang dalam periode tertentu. Anggaran yang bermanfaat mencatat pemasukan, pengeluaran rutin, pengeluaran tidak rutin, tabungan, dan kewajiban. Tujuannya bukan membatasi setiap keputusan secara kaku, melainkan membantu seseorang memahami pilihan dan mengantisipasi kebutuhan.
 
@@ -506,7 +506,7 @@ Arus kas adalah pergerakan uang masuk dan keluar. Seseorang dapat memiliki aset 
 
 Dana darurat ditujukan untuk kebutuhan tak terduga, bukan pembelian rutin. Besarnya bergantung pada kondisi rumah tangga, kestabilan pendapatan, tanggungan, dan akses bantuan. Bagi pelajar, latihan membuat anggaran dapat dimulai dari uang saku secara sederhana dengan melibatkan orang tua atau wali.
 
-BAB 16 — RISIKO, DIVERSIFIKASI, DAN KEPUTUSAN
+BAB 14 —— RISIKO, DIVERSIFIKASI, DAN KEPUTUSAN
 
 Risiko keuangan adalah kemungkinan hasil berbeda dari yang diharapkan, termasuk kemungkinan kehilangan sebagian nilai. Setiap keputusan memiliki hubungan antara potensi hasil, ketidakpastian, jangka waktu, biaya, dan kebutuhan likuiditas. Janji keuntungan tinggi tanpa risiko patut dicurigai.
 

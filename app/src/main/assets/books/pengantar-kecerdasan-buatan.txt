@@ -87,25 +87,25 @@ LATIHAN
 3. Mengapa keputusan penting memerlukan peninjauan manusia? Jawaban: model dapat salah dan tidak memahami seluruh konteks atau dampak sosial.
 
 PENDALAMAN LANJUTAN: PEMBANGUNAN DAN EVALUASI SISTEM AI
-BAB 7 — MENENTUKAN MASALAH YANG TEPAT
+BAB 13 — MENENTUKAN MASALAH YANG TEPAT
 Proyek AI sebaiknya dimulai dari kebutuhan pengguna, bukan dari keinginan memakai teknologi terbaru. Rumuskan keputusan atau tugas yang ingin dibantu, siapa yang terdampak, kesalahan seperti apa yang mungkin terjadi, dan apakah solusi non-AI lebih sederhana.
 Tetapkan kriteria keberhasilan sebelum membangun model. Ukuran teknis seperti akurasi perlu dilengkapi ukuran manfaat, biaya, kemudahan penggunaan, dan risiko.
-BAB 8 — SIKLUS PENGEMBANGAN DATA
+BAB 14 — SIKLUS PENGEMBANGAN DATA
 Data dikumpulkan, diperiksa, dibersihkan, diberi label, dan dipisahkan untuk pelatihan serta evaluasi. Setiap langkah dapat menimbulkan bias. Data yang tidak mewakili kondisi penggunaan akan membuat model sulit bekerja saat diterapkan.
 Dokumentasikan asal data, izin penggunaan, definisi label, dan perubahan yang dilakukan. Jangan memasukkan data pribadi yang tidak diperlukan.
-BAB 9 — MODEL DAN KOMPROMI KINERJA
+BAB 15 — MODEL DAN KOMPROMI KINERJA
 Model sederhana sering lebih mudah dijelaskan dan dirawat. Model kompleks dapat menangkap pola rumit, tetapi memerlukan lebih banyak data, komputasi, dan pengawasan. Pilihan model harus sesuai kebutuhan, bukan hanya mengejar skor tertinggi.
 Overfitting terjadi ketika model terlalu menyesuaikan diri dengan data pelatihan sehingga kinerjanya menurun pada data baru. Validasi dan pengujian yang benar membantu mendeteksinya.
-BAB 10 — PEMANTAUAN SETELAH PELUNCURAN
+BAB 16 — PEMANTAUAN SETELAH PELUNCURAN
 Kondisi data dapat berubah dari waktu ke waktu. Perubahan distribusi masukan disebut data drift, sedangkan perubahan hubungan antara masukan dan target dapat disebut concept drift. Sistem yang baik memantau kinerja dan memiliki prosedur pembaruan.
 Catat versi model, data, konfigurasi, serta insiden. Sediakan cara untuk menghentikan atau mengembalikan sistem jika terjadi masalah.
-BAB 11 — PENJELASAN DAN AKUNTABILITAS
+BAB 17 — PENJELASAN DAN AKUNTABILITAS
 Pengguna perlu mengetahui kapan berinteraksi dengan sistem otomatis dan bagaimana hasil digunakan. Penjelasan model dapat membantu pemeriksaan, tetapi tidak selalu memberi gambaran sempurna tentang alasan internal model.
 Tentukan pihak yang bertanggung jawab atas keputusan, koreksi, dan keluhan. Keputusan penting sebaiknya memiliki jalur peninjauan manusia.
-BAB 12 — PENGGUNAAN AI DALAM PEMBELAJARAN
+BAB 18 — PENGGUNAAN AI DALAM PEMBELAJARAN
 AI dapat membantu membuat latihan, memberi umpan balik awal, dan menjelaskan konsep dari beberapa sudut. Namun, pelajar tetap perlu memeriksa fakta, memahami proses, dan menyelesaikan tugas dengan integritas.
 Jangan menyerahkan data pribadi atau tugas rahasia ke layanan tanpa memahami kebijakan. Ikuti aturan sekolah tentang penggunaan AI dan ungkapkan bantuan yang digunakan jika diwajibkan.
-BAB 13 — KERANGKA PENILAIAN RISIKO
+BAB 19 — KERANGKA PENILAIAN RISIKO
 Penilaian risiko dimulai dari pemetaan penggunaan, pihak terdampak, tingkat dampak, kemungkinan kesalahan, dan kemampuan mitigasi. Uji sistem dalam kondisi normal dan kondisi ekstrem yang relevan. Evaluasi juga kelompok yang mungkin mengalami kinerja berbeda.
 Risiko harus ditinjau sepanjang siklus hidup. Sistem yang aman saat uji awal dapat berubah ketika data, pengguna, atau konteks berubah.
 LATIHAN PENDALAMAN
@@ -115,18 +115,18 @@ LATIHAN PENDALAMAN
 4. Mengapa jalur banding manusia penting? Jawaban: keluaran otomatis dapat salah dan keputusan dapat berdampak pada hak pengguna.
 
 PENDALAMAN TEKNIS, ETIKA, DAN STUDI KASUS
-BAB 14 — PEMBELAJARAN TERAWASI
+BAB 20 — PEMBELAJARAN TERAWASI
 Dalam supervised learning, model belajar dari contoh berlabel. Untuk klasifikasi, label berupa kategori; untuk regresi, label berupa nilai numerik. Model mempelajari pola dari data pelatihan lalu diuji pada data yang tidak digunakan saat pelatihan.
 Pembagian data harus mencegah kebocoran. Jika contoh yang hampir sama muncul pada data pelatihan dan pengujian, skor dapat tampak tinggi tetapi tidak mencerminkan kemampuan pada kasus baru. Untuk data berurutan waktu, pemisahan berdasarkan waktu sering lebih tepat.
-BAB 15 — PEMBELAJARAN TANPA PENGAWASAN
+BAB 21 — PEMBELAJARAN TANPA PENGAWASAN
 Unsupervised learning mencari struktur dalam data tanpa label target. Pengelompokan membantu menemukan kemiripan, sedangkan reduksi dimensi merangkum banyak fitur. Hasil klaster bukan kebenaran alamiah: jumlah kelompok, skala fitur, algoritma, dan ukuran jarak dapat mengubah hasil.
-BAB 16 — METRIK EVALUASI
+BAB 22 — METRIK EVALUASI
 Akurasi adalah proporsi prediksi benar, tetapi dapat menyesatkan pada data tidak seimbang. Precision mengukur proporsi prediksi positif yang benar; recall mengukur proporsi kasus positif yang ditemukan. F1 merangkum keduanya. Metrik dipilih berdasarkan konsekuensi kesalahan, bukan karena satu angka populer.
-BAB 17 — MODEL GENERATIF DAN KETERBATASAN
+BAB 23 — MODEL GENERATIF DAN KETERBATASAN
 Model generatif menghasilkan teks, gambar, audio, atau data lain berdasarkan pola yang dipelajari. Keluaran lancar belum tentu benar. Sistem dapat menghasilkan informasi keliru atau sumber yang tidak ada. Verifikasi fakta penting melalui dokumen primer, sumber resmi, perhitungan, dan konteks. Jangan jadikan AI satu-satunya penentu keputusan berisiko tinggi.
-BAB 18 — PRIVASI, HAK CIPTA, DAN DATA
+BAB 24 — PRIVASI, HAK CIPTA, DAN DATA
 Data pelatihan dan masukan pengguna dapat memuat informasi pribadi atau karya terlindungi. Pengembang harus memahami dasar penggunaan, izin, tujuan, masa simpan, dan mekanisme penghapusan. Catat asal dataset dan syarat lisensi. Jangan menganggap materi bebas digunakan hanya karena ditemukan di internet.
-BAB 19 — STUDI KASUS SISTEM REKOMENDASI
+BAB 25 — STUDI KASUS SISTEM REKOMENDASI
 Perpustakaan digital dapat merekomendasikan bahan belajar berdasarkan kategori, tingkat kesulitan, dan tujuan belajar yang dipilih pengguna. Rekomendasi tidak boleh mengunci pembaca dalam satu topik atau menyimpulkan sifat sensitif. Evaluasi apakah rekomendasi memperluas penemuan materi dan apakah pengguna dapat mengatur personalisasi.
 TUGAS PRAKTIK
 Rancang ide sistem AI dengan menuliskan masalah, pengguna, data minimum, potensi bias, risiko kesalahan, ukuran keberhasilan, dan cara pengguna mengoreksi keluaran. Jelaskan mengapa solusi berbasis aturan sederhana mungkin cukup.
@@ -481,7 +481,7 @@ Pergeseran konsep: perubahan hubungan antara masukan dan target.
 Analisis kesalahan: pemeriksaan sistematis terhadap contoh prediksi yang keliru.
 Data sintetis: data buatan yang disusun untuk tujuan tertentu.
 Tata kelola AI: kebijakan, peran, dan proses untuk mengelola risiko serta tanggung jawab sistem AI.
-BAB 13 — MENILAI KUALITAS MODEL AI
+BAB 26 — MENILAI KUALITAS MODEL AI
 
 Model AI tidak cukup dinilai dari satu contoh yang berhasil. Penilaian harus menggunakan kumpulan data uji yang mewakili situasi penggunaan sebenarnya. Data pelatihan dipakai untuk mempelajari pola, data validasi membantu memilih pendekatan dan pengaturan, sedangkan data uji digunakan untuk memperkirakan kemampuan pada contoh yang belum pernah dipakai selama pengembangan. Memakai data uji berulang kali untuk mengubah model dapat membuat hasil penilaian terlalu optimistis.
 
@@ -495,7 +495,7 @@ Evaluasi juga harus memeriksa kelompok pengguna dan kondisi yang berbeda. Kinerj
 
 Latihan: sebuah model memiliki 90 prediksi positif. Dari jumlah itu, 72 benar. Terdapat 80 kasus positif sebenarnya. Precision adalah 72/90 atau 80 persen. Recall adalah 72/80 atau 90 persen. Angka ini menunjukkan model cukup baik menemukan kasus positif, tetapi sebagian peringatannya keliru. Diskusikan apakah hal tersebut dapat diterima dengan mempertimbangkan biaya setiap jenis kesalahan.
 
-BAB 14 — DATA, PRIVASI, DAN TATA KELOLA
+BAB 27 — DATA, PRIVASI, DAN TATA KELOLA
 
 Data bukan bahan mentah yang bebas dipakai tanpa batas. Data dapat menggambarkan kebiasaan, lokasi, kondisi ekonomi, kesehatan, hubungan sosial, atau identitas seseorang. Pengumpulan data harus memiliki tujuan yang jelas, dasar yang sah, dan batas penggunaan. Prinsip minimisasi data berarti hanya mengumpulkan informasi yang benar-benar diperlukan untuk fungsi yang dijelaskan kepada pengguna.
 
@@ -507,7 +507,7 @@ Data sintetis dibuat secara artifisial untuk meniru sebagian karakteristik data 
 
 Organisasi sebaiknya menyediakan penjelasan yang mudah dipahami tentang data yang digunakan, menyediakan saluran pertanyaan, dan meninjau kembali kebutuhan penyimpanan. Ketika tujuan sudah tercapai, data yang tidak lagi diperlukan sebaiknya dihapus sesuai kebijakan dan ketentuan yang berlaku. Transparansi dan akuntabilitas merupakan bagian dari kualitas sistem, bukan tambahan setelah produk selesai.
 
-BAB 15 — MENGUJI AI DALAM KONDISI NYATA
+BAB 28 — MENGUJI AI DALAM KONDISI NYATA
 
 Pengujian laboratorium sering menggunakan lingkungan yang lebih teratur daripada dunia nyata. Setelah model diterapkan, masukan dapat berubah, perangkat pengguna beragam, jaringan tidak stabil, dan cara orang memakai sistem mungkin berbeda dari perkiraan. Perubahan distribusi data disebut data drift ketika karakteristik masukan berubah, sedangkan perubahan hubungan antara masukan dan target dapat disebut concept drift.
 

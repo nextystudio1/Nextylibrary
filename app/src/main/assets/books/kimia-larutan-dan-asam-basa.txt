@@ -1,0 +1,137 @@
+Kimia Larutan dan Asam Basa
+Penulis: Nexty Studio
+Edisi pembelajaran orisinal NextyLibrary
+
+DESKRIPSI
+Mengenal larutan, konsentrasi, kelarutan, asam, basa, pH, dan reaksi netralisasi.
+
+TUJUAN PEMBELAJARAN
+Pembaca mampu menjelaskan konsep, menafsirkan contoh, memeriksa bukti, dan menerapkan pengetahuan secara bertanggung jawab.
+
+BAB 1. LARUTAN DAN CAMPURAN
+
+Larutan adalah campuran homogen yang terdiri atas pelarut dan zat terlarut. Konsentrasi menyatakan banyaknya zat terlarut dalam sejumlah larutan atau pelarut. Larutan dapat dibuat lebih encer dengan menambahkan pelarut, tetapi jumlah zat terlarut tetap jika tidak ada yang hilang.
+
+CONTOH PENERAPAN
+Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
+
+RANGKUMAN
+- Kenali definisi dan batas penggunaan konsep.
+- Hubungkan penjelasan dengan contoh nyata.
+- Periksa satuan, konteks, dan sumber informasi.
+
+LATIHAN
+1. Jelaskan dua istilah utama dari bab ini.
+2. Buat satu contoh baru dan uraikan alasannya.
+3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
+4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+
+BAB 2. KELARUTAN DAN FAKTOR PENGARUH
+
+Kelarutan menunjukkan jumlah maksimum zat yang dapat larut dalam kondisi tertentu. Suhu, tekanan untuk gas, dan sifat zat memengaruhi kelarutan. Pengadukan dan ukuran partikel memengaruhi kecepatan pelarutan, bukan selalu jumlah maksimum yang dapat larut.
+
+CONTOH PENERAPAN
+Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
+
+RANGKUMAN
+- Kenali definisi dan batas penggunaan konsep.
+- Hubungkan penjelasan dengan contoh nyata.
+- Periksa satuan, konteks, dan sumber informasi.
+
+LATIHAN
+1. Jelaskan dua istilah utama dari bab ini.
+2. Buat satu contoh baru dan uraikan alasannya.
+3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
+4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+
+BAB 3. ASAM DAN BASA
+
+Asam dan basa dapat dijelaskan melalui beberapa teori. Dalam larutan air, asam Arrhenius meningkatkan konsentrasi ion hidrogen, sedangkan basa Arrhenius meningkatkan ion hidroksida. Teori Brønsted-Lowry menjelaskan asam sebagai donor proton dan basa sebagai penerima proton.
+
+CONTOH PENERAPAN
+Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
+
+RANGKUMAN
+- Kenali definisi dan batas penggunaan konsep.
+- Hubungkan penjelasan dengan contoh nyata.
+- Periksa satuan, konteks, dan sumber informasi.
+
+LATIHAN
+1. Jelaskan dua istilah utama dari bab ini.
+2. Buat satu contoh baru dan uraikan alasannya.
+3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
+4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+
+BAB 4. SKALA PH
+
+pH berkaitan dengan konsentrasi ion hidrogen dan dinyatakan pada skala logaritmik. Perubahan satu satuan pH berarti perubahan sepuluh kali pada konsentrasi ion hidrogen dalam kondisi yang sesuai. Indikator warna memberi perkiraan, sedangkan alat ukur yang dikalibrasi dapat memberikan hasil lebih terukur.
+
+CONTOH PENERAPAN
+Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
+
+RANGKUMAN
+- Kenali definisi dan batas penggunaan konsep.
+- Hubungkan penjelasan dengan contoh nyata.
+- Periksa satuan, konteks, dan sumber informasi.
+
+LATIHAN
+1. Jelaskan dua istilah utama dari bab ini.
+2. Buat satu contoh baru dan uraikan alasannya.
+3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
+4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+
+BAB 5. NETRALISASI DAN GARAM
+
+Reaksi asam-basa dapat menghasilkan air dan garam, bergantung pada zat yang bereaksi. Netralisasi digunakan dalam berbagai proses, tetapi tidak semua campuran asam dan basa aman. Reaksi dapat menghasilkan panas atau gas, sehingga eksperimen harus dilakukan dalam lingkungan laboratorium dengan pengawasan.
+
+CONTOH PENERAPAN
+Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
+
+RANGKUMAN
+- Kenali definisi dan batas penggunaan konsep.
+- Hubungkan penjelasan dengan contoh nyata.
+- Periksa satuan, konteks, dan sumber informasi.
+
+LATIHAN
+1. Jelaskan dua istilah utama dari bab ini.
+2. Buat satu contoh baru dan uraikan alasannya.
+3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
+4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+
+BAB 6. KIMIA LARUTAN DALAM KEHIDUPAN
+
+Larutan digunakan dalam minuman, pembersih, pertanian, kesehatan, dan pengolahan air. Label produk dan petunjuk keselamatan harus dibaca. Jangan mencampur bahan pembersih rumah tangga karena kombinasi tertentu dapat menghasilkan gas atau reaksi berbahaya.
+
+CONTOH PENERAPAN
+Amati satu situasi di lingkunganmu yang berkaitan dengan bab ini. Catat fakta yang dapat diperiksa, istilah penting, dan faktor yang belum diketahui. Jelaskan bagaimana konsep pada bab ini membantu memahami situasi tersebut. Hindari menarik kesimpulan yang melampaui informasi yang tersedia.
+
+RANGKUMAN
+- Kenali definisi dan batas penggunaan konsep.
+- Hubungkan penjelasan dengan contoh nyata.
+- Periksa satuan, konteks, dan sumber informasi.
+
+LATIHAN
+1. Jelaskan dua istilah utama dari bab ini.
+2. Buat satu contoh baru dan uraikan alasannya.
+3. Bandingkan dua situasi yang tampak serupa tetapi memiliki perbedaan penting.
+4. Tulis satu pertanyaan yang membutuhkan penyelidikan lebih lanjut.
+
+EVALUASI AKHIR
+1. Ringkas gagasan utama setiap bab.
+2. Buat peta konsep yang menghubungkan sedikitnya lima istilah.
+3. Susun studi kasus yang relevan, identifikasi fakta dan asumsi, lalu jelaskan solusi yang paling masuk akal.
+4. Jelaskan keterbatasan dari solusi yang kamu pilih.
+5. Buat rencana belajar lanjutan berdasarkan bagian yang belum dikuasai.
+
+PEDOMAN JAWABAN
+Jawaban dinilai dari ketepatan konsep, kejelasan alasan, relevansi contoh, dan kemampuan menyatakan batas pengetahuan. Jawaban berbeda dapat diterima apabila didukung penalaran dan bukti yang sesuai.
+
+GLOSARIUM
+Larutan: Campuran homogen pelarut dan zat terlarut.
+Konsentrasi: Ukuran jumlah zat terlarut dalam larutan.
+Kelarutan: Jumlah maksimum zat yang dapat larut pada kondisi tertentu.
+pH: Ukuran yang berkaitan dengan aktivitas ion hidrogen.
+Netralisasi: Reaksi antara asam dan basa.
+
+SARAN BELAJAR
+Gunakan buku ini sebagai pengantar. Cocokkan informasi dengan buku ajar dan publikasi lembaga yang kompeten, terutama untuk topik yang berkembang. Catat sumber, penulis atau lembaga, tahun, dan bagian yang digunakan ketika memperluas bacaan.

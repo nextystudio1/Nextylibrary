@@ -40,6 +40,9 @@ BAB 3. DEBIT DAN KREDIT
 
 Sistem pencatatan berpasangan menggunakan debit dan kredit. Debit bukan selalu berarti uang masuk dan kredit bukan selalu berarti uang keluar. Pengaruhnya bergantung pada jenis akun. Memahami kelompok aset, liabilitas, ekuitas, pendapatan, dan beban lebih penting daripada menghafal satu aturan tanpa konteks.
 
+CONTOH PENCATATAN BERPASANGAN
+Pemilik menyetor modal tunai Rp5.000.000. Kas sebagai aset bertambah sehingga dicatat di sisi debit, sedangkan modal pemilik bertambah di sisi kredit. Jurnalnya: Debit Kas Rp5.000.000; Kredit Modal Rp5.000.000. Kemudian usaha membeli perlengkapan tunai Rp300.000: Debit Perlengkapan Rp300.000; Kredit Kas Rp300.000. Kedua transaksi menjaga persamaan akuntansi tetap seimbang. Jika usaha menerima pendapatan jasa tunai Rp750.000, jurnalnya Debit Kas Rp750.000 dan Kredit Pendapatan Jasa Rp750.000. Nilai dalam contoh hanya simulasi; akun dan pengakuan transaksi harus disesuaikan dengan fakta serta standar yang berlaku.
+
 BAB 4. JURNAL DAN BUKU BESAR
 
 Transaksi dicatat dalam jurnal dengan tanggal, akun, nilai, dan keterangan. Selanjutnya catatan dikelompokkan dalam buku besar agar saldo tiap akun dapat diketahui. Bukti transaksi seperti faktur dan kuitansi mendukung pencatatan. Koreksi harus meninggalkan jejak audit, bukan menghapus sejarah secara sembarangan.

@@ -54,6 +54,60 @@ Bab 34 Studi kasus pembelajaran berbasis skenario
 Bab 35 Membaca data, grafik, dan klaim energi
 Bab 36 Komunikasi publik dan partisipasi masyarakat
 Bab 37 Keterampilan riset dan penulisan kajian energi
+Bagian V — Pendalaman ilmiah, teknis, dan kajian terapan
+Bab 38 Radiasi matahari, cuaca, dan variasi produksi
+Bab 39 Angin, iklim, dan karakteristik turbin
+Bab 40 Hidrologi, musim, dan keberlanjutan air
+Bab 41 Panas bumi: eksplorasi, reservoir, dan pemantauan
+Bab 42 Bioenergi dan neraca karbon
+Bab 43 Mineral, rantai pasok, dan tanggung jawab industri
+Bab 44 Perencanaan transmisi dan keadilan ruang
+Bab 45 Pengukuran kinerja dan indikator keberhasilan
+Bab 46 Keterampilan matematika untuk analisis energi
+Bab 47 Etika, keselamatan, dan batas proyek pembelajaran
+Bagian VI — Penerapan, perencanaan, dan evaluasi proyek
+Bab 48 Panas, pendinginan, dan elektrifikasi
+Bab 49 Kualitas udara, kesehatan, dan manfaat energi
+Bab 50 Pembiayaan dan model kepemilikan
+Bab 51 Manajemen proyek energi
+Bab 52 Operasi, pemeliharaan, dan akhir masa pakai
+Bab 53 Kebijakan energi dan perubahan perilaku
+Bab 54 Data terbuka, pemodelan, dan digitalisasi
+Bab 55 Membangun portofolio energi yang beragam
+Bab 56 Menyusun rencana aksi energi komunitas
+Bagian VII — Pendalaman konsep dan contoh perhitungan
+Bab 57 Konservasi energi dan neraca sistem
+Bab 58 Efisiensi, konservasi, dan efek pantulan
+Bab 59 Dasar elektroteknik dalam sistem energi
+Bab 60 Kualitas daya dan peralatan elektronik
+Bab 61 Perencanaan lokasi dan tata ruang energi
+Bab 62 Pertanian, pangan, dan energi
+Bab 63 Energi, air, dan hubungan antarsektor
+Bab 64 Perbandingan teknologi secara adil
+Bab 65 Komunikasi risiko dan penanganan informasi salah
+Bab 66 Arah inovasi dan masa depan sistem energi
+Bagian VIII — Modul praktik analisis dan pengambilan keputusan
+Bab 67 Menyusun data dasar untuk studi energi
+Bab 68 Membangun skenario dan menguji asumsi
+Bab 69 Analisis biaya dan manfaat secara hati-hati
+Bab 70 Menilai keberlanjutan proyek komunitas
+Bab 71 Menilai dampak pekerjaan dan ekonomi lokal
+Bab 72 Perencanaan komunikasi dan pelaporan hasil
+Bab 73 Peta jalan pengembangan energi
+Bab 74 Kesimpulan menyeluruh: dari sumber energi ke layanan
+Bagian IV — Analisis sistem dan penerapan mendalam
+Bab 26 Perencanaan kebutuhan dan profil beban
+Bab 27 Sistem surya: rancangan konseptual dan kinerja
+Bab 28 Penyimpanan energi dan pengelolaan baterai
+Bab 29 Integrasi energi terbarukan ke jaringan
+Bab 30 Keandalan, risiko, dan ketahanan sistem
+Bab 31 Ekonomi proyek dan biaya sepanjang umur
+Bab 32 Dampak lingkungan dan penilaian daur hidup
+Bab 33 Energi terbarukan di kepulauan dan wilayah terpencil
+Bab 34 Studi kasus pembelajaran berbasis skenario
+Bab 35 Membaca data, grafik, dan klaim energi
+Bab 36 Komunikasi publik dan partisipasi masyarakat
+Bab 37 Keterampilan riset dan penulisan kajian energi
 
 CARA MENGGUNAKAN BUKU
 Bacalah bab secara berurutan. Catat istilah yang belum dipahami, kerjakan latihan, lalu bandingkan jawaban dengan pembahasan. Pada proyek, gunakan data publik dan izin yang sesuai. Jangan melakukan pekerjaan listrik, pekerjaan di ketinggian, atau percobaan berisiko tanpa tenaga ahli dan pengawasan yang kompeten.

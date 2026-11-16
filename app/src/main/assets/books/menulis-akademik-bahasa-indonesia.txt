@@ -88,25 +88,25 @@ LATIHAN
 3. Apa fungsi abstrak? Jawaban: memberi ringkasan tujuan, metode, hasil, dan kesimpulan tulisan.
 
 PENDALAMAN LANJUTAN: RISET, ARGUMENTASI, DAN PUBLIKASI
-BAB 7 — MENENTUKAN MASALAH PENELITIAN
+BAB 13 — MENENTUKAN MASALAH PENELITIAN
 Masalah penelitian harus cukup spesifik untuk dijawab dengan waktu dan sumber daya yang tersedia. Rumusan masalah dapat berbentuk pertanyaan tentang hubungan, proses, pengalaman, atau evaluasi. Pertanyaan yang baik tidak mengasumsikan jawaban sejak awal.
 Tinjauan pustaka membantu mengetahui konsep, temuan, dan celah penelitian. Catat kata kunci, rentang tahun, jenis sumber, dan alasan memilih literatur.
-BAB 8 — KERANGKA TEORI DAN KONSEP
+BAB 14 — KERANGKA TEORI DAN KONSEP
 Kerangka teori menjelaskan konsep yang digunakan untuk memahami masalah. Definisi operasional menerjemahkan konsep menjadi indikator yang dapat diamati. Satu konsep dapat memiliki beberapa dimensi sehingga pengukuran perlu dijelaskan.
 Jangan menggunakan istilah teknis hanya untuk membuat tulisan tampak ilmiah. Definisikan istilah dan jelaskan hubungan antar konsep dengan bahasa yang tepat.
-BAB 9 — METODE DAN KETERBATASAN
+BAB 15 — METODE DAN KETERBATASAN
 Metode harus sesuai dengan pertanyaan. Penelitian kuantitatif dapat mengukur pola dan hubungan, sedangkan penelitian kualitatif dapat menggali pengalaman dan makna. Metode campuran digunakan ketika kedua jenis bukti saling melengkapi.
 Jelaskan pemilihan partisipan, instrumen, prosedur, analisis, dan etika. Keterbatasan bukan pengakuan bahwa penelitian tidak berguna; keterbatasan menunjukkan batas kesimpulan yang dapat ditarik.
-BAB 10 — MENYAJIKAN HASIL
+BAB 16 — MENYAJIKAN HASIL
 Hasil menyajikan temuan secara terstruktur tanpa menambahkan klaim yang tidak didukung. Tabel dan gambar harus dirujuk dalam teks, diberi judul, serta menyebut sumber. Hindari mengulang seluruh angka dalam narasi.
 Pisahkan hasil dari interpretasi ketika struktur tulisan memerlukannya. Data yang tidak mendukung dugaan awal tetap harus dilaporkan secara jujur.
-BAB 11 — DISKUSI DAN IMPLIKASI
+BAB 17 — DISKUSI DAN IMPLIKASI
 Diskusi menghubungkan temuan dengan pertanyaan penelitian dan literatur terdahulu. Jelaskan kemungkinan mekanisme, perbedaan hasil, dan alternatif interpretasi. Jangan mengklaim hubungan sebab-akibat jika desain tidak mendukung.
 Implikasi dapat bersifat teoretis, praktis, atau kebijakan. Rekomendasi harus sebanding dengan kekuatan bukti dan menyebut pihak yang relevan.
-BAB 12 — SITASI DAN PENGELOLAAN REFERENSI
+BAB 18 — SITASI DAN PENGELOLAAN REFERENSI
 Gaya sitasi berbeda dalam urutan unsur dan format, tetapi semuanya bertujuan membantu pembaca menemukan sumber. Gunakan satu gaya secara konsisten dan periksa detail nama, tahun, judul, penerbit, serta DOI atau alamat resmi jika tersedia.
 Manajer referensi dapat membantu menyimpan sumber, tetapi metadata otomatis perlu diperiksa. Jangan mencantumkan sumber yang tidak pernah dibaca atau membuat DOI palsu.
-BAB 13 — PENYUNTINGAN AKHIR DAN KETERBUKAAN
+BAB 19 — PENYUNTINGAN AKHIR DAN KETERBUKAAN
 Penyuntingan akhir memeriksa alur argumen, konsistensi istilah, ejaan, tabel, gambar, dan kesesuaian sitasi. Pastikan abstrak sesuai isi dan kesimpulan menjawab tujuan.
 Jika tulisan menggunakan bantuan alat digital atau AI, ikuti aturan lembaga atau penerbit dan nyatakan penggunaannya bila diwajibkan. Penulis tetap bertanggung jawab atas ketepatan dan orisinalitas naskah.
 LATIHAN PENDALAMAN
@@ -116,17 +116,17 @@ LATIHAN PENDALAMAN
 4. Mengapa daftar pustaka perlu diperiksa manual? Jawaban: metadata otomatis dapat salah atau tidak lengkap.
 
 PENDALAMAN PRAKTIK PENULISAN ILMIAH
-BAB 14 — MEMBANGUN ARGUMEN BERBASIS BUKTI
+BAB 20 — MEMBANGUN ARGUMEN BERBASIS BUKTI
 Argumen akademik terdiri atas klaim, alasan, bukti, dan penjelasan hubungan di antaranya. Klaim harus cukup terbatas agar didukung data. Bukti dapat berupa hasil penelitian, dokumen, statistik, atau analisis sumber primer. Setelah menyajikan bukti, jelaskan apa yang ditunjukkan, batas penerapannya, dan bagaimana bukti mendukung klaim.
-BAB 15 — PARAFRASA DAN SINTESIS
+BAB 21 — PARAFRASA DAN SINTESIS
 Parafrasa menyampaikan gagasan sumber dengan struktur dan kata-kata sendiri sambil tetap memberi atribusi. Mengganti beberapa kata dengan sinonim belum cukup. Pahami gagasan, tulis ulang berdasarkan pemahaman, lalu bandingkan agar makna tidak berubah. Sintesis menghubungkan beberapa sumber untuk menunjukkan kesamaan, perbedaan, perkembangan, atau celah pengetahuan.
-BAB 16 — MENULIS TABEL DAN GAMBAR
+BAB 22 — MENULIS TABEL DAN GAMBAR
 Tabel cocok untuk membandingkan nilai secara tepat, sedangkan grafik membantu memperlihatkan pola. Cantumkan judul, satuan, keterangan, sumber, dan periode. Sumbu yang dipotong atau skala tidak konsisten dapat menyesatkan. Bedakan jumlah absolut dengan tingkat per kapita.
-BAB 17 — ABSTRAK DAN KESIMPULAN
+BAB 23 — ABSTRAK DAN KESIMPULAN
 Abstrak merangkum masalah, tujuan, metode, temuan utama, dan makna hasil. Tulis setelah naskah stabil agar tidak menjanjikan hal yang tidak dibahas. Kesimpulan menjawab pertanyaan berdasarkan hasil. Jangan memasukkan data baru atau mengubah korelasi menjadi sebab-akibat.
-BAB 18 — ETIKA KEPENULISAN DAN KOLABORASI
+BAB 24 — ETIKA KEPENULISAN DAN KOLABORASI
 Kepengarangan harus mencerminkan kontribusi intelektual dan tanggung jawab. Sepakati urutan penulis, pembagian tugas, dan penanganan konflik sejak awal. Bantuan penyuntingan, pendanaan, dan penggunaan alat diungkapkan sesuai kebijakan. Plagiarisme, fabrikasi, dan falsifikasi merusak kepercayaan ilmiah.
-BAB 19 — MENILAI MUTU SUMBER
+BAB 25 — MENILAI MUTU SUMBER
 Periksa penulis, kompetensi, penerbit, metode, tanggal, pendanaan, dan konflik kepentingan. Artikel ilmiah tetap dapat memiliki keterbatasan atau dikoreksi. Untuk klaim penting, cari dukungan beberapa sumber independen dan utamakan dokumen primer atau tinjauan berkualitas.
 LATIHAN PENYUNTINGAN
 Ambil satu paragraf argumentatif. Tandai klaim, bukti, dan penjelasannya. Periksa apakah setiap klaim didukung. Tulis ulang dengan batasan yang jelas dan tambahkan sitasi yang benar-benar telah dibaca.

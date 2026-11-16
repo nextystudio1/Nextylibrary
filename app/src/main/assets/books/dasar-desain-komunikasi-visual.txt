@@ -189,3 +189,28 @@ Minta pengguna menemukan informasi tertentu tanpa diberi petunjuk berlebihan. Ca
 
 LATIHAN
 Buat rancangan poster edukasi satu halaman. Tetapkan satu pesan utama, susun tiga tingkat informasi, pilih palet warna dengan kontras memadai, dan uji apakah orang lain dapat menemukan pesan utama dengan cepat.
+
+BAB 11. HIERARKI VISUAL DAN ALUR BACA
+Hierarki visual mengarahkan perhatian melalui ukuran, posisi, kontras, ruang kosong, dan pengelompokan. Informasi utama perlu terlihat lebih dahulu, diikuti penjelasan dan rincian. Terlalu banyak elemen yang sama-sama menonjol membuat pembaca kesulitan menentukan prioritas. Uji desain dengan meminta orang lain menjelaskan pesan yang mereka tangkap dalam beberapa detik. Jika pesan utama tidak terbaca, sederhanakan komposisi.
+
+BAB 12. TIPOGRAFI DAN KETERBACAAN
+Pemilihan huruf perlu mempertimbangkan bentuk, ukuran, jarak antarbaris, panjang baris, dan konteks media. Huruf dekoratif dapat berguna pada judul singkat, tetapi kurang cocok untuk paragraf panjang. Gunakan jumlah jenis huruf secara terbatas dan bangun konsistensi melalui ukuran serta ketebalan. Pastikan teks tetap terbaca pada layar kecil dan saat diperbesar.
+
+BAB 13. WARNA, KONTRAS, DAN AKSESIBILITAS
+Warna dapat membedakan kategori, membangun suasana, dan menunjukkan hubungan. Namun, warna tidak boleh menjadi satu-satunya pembawa informasi karena sebagian pembaca memiliki gangguan penglihatan warna atau menggunakan layar berbeda. Tambahkan label, pola, ikon, atau bentuk. Periksa kontras teks dengan latar dan uji desain dalam kondisi terang maupun redup.
+
+BAB 14. INFOGRAFIK DAN VISUALISASI DATA
+Infografik menggabungkan teks, gambar, dan data untuk menjelaskan suatu pesan. Grafik batang cocok untuk membandingkan kategori, grafik garis untuk perubahan berurutan, dan diagram sebar untuk melihat hubungan dua variabel. Skala sumbu yang dipotong dapat membesar-besarkan perbedaan. Cantumkan sumber, satuan, periode, dan catatan tentang data yang hilang. Jangan mengubah proporsi gambar atau ikon sehingga memberi kesan angka yang menyesatkan.
+
+BAB 15. PROSES DESAIN DAN UJI PENGGUNA
+Proses desain meliputi memahami kebutuhan, merumuskan masalah, membuat alternatif, memilih konsep, membuat purwarupa, menguji, dan memperbaiki. Umpan balik perlu diarahkan pada tujuan, bukan selera pribadi semata. Catat siapa yang menguji, tugas yang diberikan, kendala yang muncul, dan perubahan setelah pengujian. Jangan mengumpulkan data pribadi yang tidak diperlukan.
+
+PROYEK
+Buat poster edukasi satu halaman. Tetapkan satu pesan utama, susun hierarki, pilih tipografi dan palet warna yang mudah dibaca, lalu uji pada beberapa ukuran layar. Catat masukan dan jelaskan revisi.
+
+LATIHAN
+1. Sebutkan empat cara membangun hierarki visual.
+2. Mengapa paragraf panjang membutuhkan tipografi sederhana?
+3. Berikan cara menyampaikan informasi tanpa mengandalkan warna saja.
+4. Pilih jenis grafik yang tepat untuk data perubahan bulanan.
+5. Buat rencana uji sederhana untuk poster.

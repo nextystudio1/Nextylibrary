@@ -153,3 +153,37 @@ Evaluasi: Penilaian berdasarkan kriteria.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar, publikasi ilmiah, standar, dan sumber lembaga kompeten. Periksa tahun terbit dan izin penggunaan sebelum mengutip atau menggunakan kembali materi.
+
+PENDALAMAN MATERI
+
+BAB 6. IDENTITAS DAN PRIVASI DIGITAL
+Identitas digital terbentuk dari informasi yang seseorang bagikan, aktivitas akun, dan data yang dikumpulkan layanan. Nama pengguna, foto, lokasi, daftar kontak, serta kebiasaan penggunaan dapat menjadi bagian dari jejak digital. Tidak semua informasi perlu dibagikan kepada setiap layanan. Prinsip minimisasi data berarti hanya memberikan informasi yang benar-benar diperlukan. Sebelum mengisi formulir, periksa tujuan pengumpulan, pihak yang mengelola, masa penyimpanan, dan cara meminta penghapusan jika tersedia. Gunakan pengaturan privasi dan kata sandi unik. Jangan mengunggah dokumen identitas atau informasi lokasi sensitif secara terbuka. Privasi bukan berarti menyembunyikan kesalahan; privasi adalah kendali yang wajar atas informasi pribadi.
+
+BAB 7. HAK CIPTA DAN LISENSI KONTEN
+Karya digital seperti tulisan, foto, musik, video, dan perangkat lunak dapat dilindungi hak cipta. Mengakses sebuah karya di internet tidak otomatis memberi izin untuk menyalin, mengubah, atau menggunakannya secara komersial. Lisensi menjelaskan izin dan batas penggunaan. Lisensi terbuka pun memiliki syarat yang berbeda, misalnya atribusi, pembatasan penggunaan komersial, atau kewajiban berbagi dengan lisensi serupa. Simpan catatan pencipta, sumber, lisensi, dan tanggal akses. Jika izin tidak jelas, pilih karya sendiri atau minta izin. Menghapus nama pencipta atau mengubah sedikit karya tidak menghilangkan hak pencipta.
+
+BAB 8. TRANSAKSI DAN PERLINDUNGAN KONSUMEN
+Transaksi digital memerlukan pemeriksaan identitas penjual, rincian produk, harga total, biaya tambahan, kebijakan pengembalian, dan bukti pembayaran. Penawaran yang mendesak, harga tidak masuk akal, atau permintaan kode rahasia patut dicurigai. Jangan membagikan PIN, kata sandi, atau kode verifikasi. Simpan bukti komunikasi dan transaksi melalui saluran resmi. Jika terjadi masalah, gunakan mekanisme pengaduan platform dan lembaga yang berwenang. Konsumen perlu memahami bahwa tangkapan layar dapat membantu dokumentasi tetapi belum tentu cukup sebagai satu-satunya bukti.
+
+BAB 9. PERUNDUNGAN, PENCEMARAN NAMA, DAN TANGGUNG JAWAB
+Komunikasi digital tetap memiliki dampak nyata. Mengirim ancaman, menyebarkan data pribadi, atau mengunggah tuduhan tanpa dasar dapat merugikan orang lain. Sebelum membagikan konten tentang seseorang, periksa kebenaran, konteks, dan kepentingan publiknya. Kritik terhadap gagasan berbeda dari serangan terhadap identitas pribadi. Jika menjadi sasaran perundungan, simpan bukti secara aman, gunakan fitur pelaporan, blokir akun bila perlu, dan cari bantuan orang dewasa tepercaya atau pihak berwenang jika ada ancaman. Jangan membalas dengan menyebarkan informasi pribadi pihak lain.
+
+BAB 10. MEMAHAMI ATURAN DAN MENCARI BANTUAN
+Aturan digital dapat berubah dan berbeda menurut negara serta konteks. Materi ini memberi pemahaman umum, bukan nasihat hukum untuk kasus tertentu. Ketika menghadapi masalah, catat kronologi, simpan bukti asli, hindari mengubah atau menyebarkan ulang materi yang sensitif, dan cari informasi dari lembaga resmi. Periksa tanggal dan wilayah berlakunya aturan. Jangan menyimpulkan seseorang bersalah hanya dari potongan unggahan. Jika menyangkut keselamatan, ancaman, atau data pribadi, mintalah bantuan orang dewasa tepercaya dan pihak yang berwenang.
+
+STUDI KASUS
+Sebuah akun mengirim pesan bahwa hadiah akan hangus dalam lima menit jika penerima tidak mengisi data identitas dan kode verifikasi. Tekanan waktu dan permintaan kode rahasia merupakan tanda bahaya. Tindakan aman adalah tidak memberikan kode, memeriksa informasi melalui kanal resmi, dan melaporkan pesan mencurigakan.
+
+LATIHAN DAN PEMBAHASAN
+1. Jelaskan prinsip minimisasi data: berikan hanya informasi yang diperlukan untuk tujuan yang jelas.
+2. Mengapa karya yang tersedia gratis belum tentu bebas digunakan ulang? Karena hak cipta dan lisensi tetap berlaku.
+3. Sebutkan tanda transaksi digital mencurigakan: tekanan waktu, permintaan kode rahasia, identitas penjual tidak jelas, atau harga tidak wajar.
+4. Apa beda kritik dan serangan pribadi? Kritik membahas gagasan atau tindakan, serangan pribadi menyerang identitas atau karakter.
+5. Mengapa aturan hukum perlu diperiksa dari sumber resmi dan tanggal terbaru? Karena aturan dapat berubah dan memiliki wilayah berlaku.
+
+GLOSARIUM
+Data pribadi: informasi yang berkaitan dengan seseorang.
+Jejak digital: rekaman aktivitas atau informasi seseorang di layanan digital.
+Lisensi: izin penggunaan karya dengan syarat tertentu.
+Minimisasi data: pembatasan data pada hal yang benar-benar diperlukan.
+Verifikasi: pemeriksaan untuk memastikan keaslian atau kebenaran.

@@ -157,3 +157,37 @@ LATIHAN DAN PEMBAHASAN
 2. Mengapa rencana analisis sebaiknya disusun lebih awal? Untuk mengurangi keputusan analisis yang dipengaruhi hasil.
 3. Apakah nilai p kecil membuktikan efek besar? Tidak; besar efek dan ketidakpastiannya perlu dilihat terpisah.
 4. Mengapa data hilang perlu dilaporkan? Karena pola kehilangan dapat memengaruhi representasi dan kesimpulan.
+BAB LANJUTAN: RUMUSAN MASALAH DAN KERANGKA KONSEPTUAL
+
+Rumusan masalah mengubah topik luas menjadi pertanyaan yang dapat dijawab dengan bukti. Pertanyaan yang baik menyebut fenomena, kelompok atau unit analisis, konteks, dan batas waktu jika relevan. Pertanyaan harus cukup fokus untuk diteliti, tetapi tidak terlalu sempit hingga kehilangan arti.
+
+Tinjauan pustaka membantu mengetahui konsep, temuan terdahulu, perdebatan, dan kekosongan pengetahuan. Pencarian literatur perlu menggunakan beberapa kata kunci dan sinonim. Catat basis data, tanggal pencarian, kriteria inklusi, dan alasan memilih sumber. Membaca abstrak saja tidak cukup untuk menilai metode dan keterbatasan sebuah penelitian.
+
+Kerangka konseptual menggambarkan hubungan yang akan dikaji. Variabel atau konsep perlu didefinisikan secara operasional. Jika penelitian membahas “keterlibatan belajar”, peneliti harus menjelaskan apakah yang dimaksud kehadiran, partisipasi diskusi, waktu belajar, atau ukuran lain. Definisi operasional menjaga agar pengukuran selaras dengan pertanyaan.
+
+BAB LANJUTAN: SAMPLING DAN KETERWAKILAN
+
+Populasi adalah keseluruhan unit yang menjadi sasaran kesimpulan, sedangkan sampel adalah bagian yang benar-benar diamati. Kerangka sampel menjelaskan bagaimana anggota populasi dapat dipilih. Sampel acak memberi peluang pemilihan yang diketahui, sementara sampling purposif memilih kasus berdasarkan kriteria yang relevan dengan tujuan kualitatif.
+
+Ukuran sampel tidak otomatis menjamin keterwakilan. Sampel besar yang berasal dari kelompok yang mudah dijangkau dapat tetap bias. Nonrespons juga dapat mengubah komposisi sampel jika orang yang tidak menjawab memiliki karakteristik berbeda. Laporan penelitian harus menjelaskan siapa yang tidak terjangkau dan bagaimana hal itu membatasi generalisasi.
+
+Pada penelitian kualitatif, kecukupan data dinilai dari kedalaman, variasi pengalaman, dan kemampuan data menjawab pertanyaan. Peneliti perlu menjelaskan proses pemilihan partisipan dan alasan menghentikan pengumpulan data. Istilah “mewakili seluruh populasi” tidak tepat jika rancangan tidak mendukung klaim tersebut.
+
+BAB LANJUTAN: VALIDITAS, RELIABILITAS, DAN KREDIBILITAS
+
+Validitas berkaitan dengan apakah instrumen atau interpretasi benar-benar mewakili konsep yang diteliti. Reliabilitas berkaitan dengan konsistensi pengukuran dalam kondisi yang sebanding. Instrumen dapat konsisten tetapi mengukur hal yang keliru. Karena itu, konsistensi saja tidak cukup.
+
+Uji coba instrumen dapat menemukan pertanyaan ambigu, pilihan jawaban yang tumpang tindih, dan urutan yang memengaruhi respons. Pada pengukuran kuantitatif, peneliti dapat memeriksa konsistensi internal atau kesepakatan antarpenilai sesuai jenis instrumen. Pada penelitian kualitatif, kredibilitas dapat diperkuat melalui catatan proses, triangulasi yang tepat, refleksivitas, dan pemeriksaan interpretasi.
+
+Triangulasi bukan sekadar mengumpulkan banyak jenis data. Sumber yang berbeda dapat memiliki bias yang sama. Peneliti perlu menjelaskan bagaimana perbandingan sumber memperkuat, memperumit, atau justru menunjukkan pertentangan temuan.
+
+BAB LANJUTAN: ETIKA, DATA, DAN KETERBUKAAN PENELITIAN
+
+Penelitian yang melibatkan manusia harus menghormati martabat, privasi, dan hak partisipan. Persetujuan perlu diberikan secara sukarela setelah tujuan, prosedur, risiko, manfaat, dan hak untuk berhenti dijelaskan. Untuk kelompok yang membutuhkan perlindungan tambahan, prosedur harus mengikuti ketentuan etik dan hukum yang berlaku.
+
+Data perlu dikumpulkan secara proporsional, disimpan dengan pengamanan sesuai tingkat sensitivitas, dan hanya diakses pihak yang berwenang. Identitas dapat dipisahkan dari data analisis jika memungkinkan. Peneliti tidak boleh menjanjikan anonimitas jika kombinasi informasi masih memungkinkan seseorang dikenali.
+
+Keterbukaan penelitian meliputi dokumentasi metode, definisi variabel, prosedur analisis, dan batasan. Berbagi data harus mempertimbangkan persetujuan, privasi, hak, serta risiko identifikasi ulang. Hasil negatif atau tidak sesuai dugaan tetap penting dilaporkan agar gambaran bukti tidak menjadi berat sebelah.
+
+LATIHAN RANCANGAN PENELITIAN
+Susun proposal mini berisi latar belakang, rumusan masalah, tujuan, tinjauan konsep, desain, populasi, sampling, instrumen, prosedur analisis, etika, dan keterbatasan. Minta rekan menilai apakah setiap metode benar-benar menjawab pertanyaan penelitian.

@@ -56,11 +56,11 @@ PROYEK TERPADU
 Buat kajian mini untuk Energi dan Lingkungan dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari TRANSISI YANG ADIL dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Energi dan Lingkungan.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+1. Bedakan energi primer, energi akhir, dan energi berguna.
+2. Bandingkan sumber energi terbarukan dan tak terbarukan dari sisi ketersediaan serta dampak.
+3. Jelaskan mengapa efisiensi energi dapat mengurangi kebutuhan pasokan.
+4. Uraikan dampak lingkungan yang perlu diperhitungkan sepanjang daur hidup teknologi energi.
+5. Jelaskan prinsip transisi energi yang adil bagi pekerja dan masyarakat terdampak.
 
 PEDOMAN PENILAIAN
 Nilai pemahaman Energi dan Lingkungan berdasarkan ketepatan konsep, kecocokan metode, mutu bukti, dan kemampuan menerapkan materi. Jawaban harus menunjukkan alasan yang dapat diperiksa serta menyebutkan keterbatasan informasi bila ada.
@@ -98,16 +98,16 @@ Mulailah dengan memetakan pemakaian, menentukan layanan prioritas, menetapkan ta
 LATIHAN
 Pilih satu ruang kelas atau rumah. Buat inventaris peralatan listrik, perkiraan jam penggunaan, dan peluang penghematan yang tidak mengurangi keselamatan atau kebutuhan belajar. Susun tiga tindakan prioritas dan indikator keberhasilannya.
 
-BAB 11. EFISIENSI ENERGI DAN PERILAKU KONSUMSI
+BAB 7. EFISIENSI ENERGI DAN PERILAKU KONSUMSI
 Efisiensi energi berarti memperoleh layanan yang sama dengan penggunaan energi lebih sedikit. Contohnya, pencahayaan alami, lampu efisien, perawatan peralatan, dan pengaturan suhu ruang yang sesuai. Penghematan perlu dinilai berdasarkan kebutuhan nyata, kenyamanan, keselamatan, serta biaya sepanjang masa pakai. Perubahan perilaku dapat membantu, tetapi desain bangunan, akses teknologi, dan kebijakan juga menentukan konsumsi energi.
 
-BAB 12. DAMPAK LINGKUNGAN SEPANJANG DAUR HIDUP
+BAB 8. DAMPAK LINGKUNGAN SEPANJANG DAUR HIDUP
 Penilaian daur hidup memeriksa dampak bahan baku, produksi, distribusi, penggunaan, dan akhir masa pakai. Produk yang tampak hemat saat digunakan mungkin memerlukan bahan atau proses produksi yang intensif. Batas sistem dan asumsi harus dinyatakan agar perbandingan adil. Indikator dapat mencakup emisi, penggunaan air, lahan, energi, dan limbah. Satu indikator tidak selalu mewakili seluruh dampak.
 
-BAB 13. TRANSISI ENERGI YANG ADIL
+BAB 9. TRANSISI ENERGI YANG ADIL
 Peralihan menuju sistem energi rendah emisi memengaruhi pekerja, konsumen, pemerintah daerah, dan industri. Kebijakan transisi perlu mempertimbangkan keterjangkauan, keandalan pasokan, pelatihan kerja, dan akses wilayah terpencil. Konsultasi masyarakat membantu menemukan dampak yang mungkin terlewat oleh perencanaan teknis. Keberhasilan bukan hanya jumlah teknologi baru, melainkan layanan energi yang aman, terjangkau, dan berkelanjutan.
 
-BAB 14. MEMBACA DATA ENERGI
+BAB 10. MEMBACA DATA ENERGI
 Data konsumsi perlu dibaca dengan memperhatikan satuan, periode, luas bangunan, jumlah penghuni, dan jenis layanan. Membandingkan dua rumah tanpa mempertimbangkan ukuran dan iklim dapat menghasilkan kesimpulan keliru. Intensitas energi, misalnya konsumsi per meter persegi, membantu perbandingan tetapi tetap memiliki keterbatasan. Grafik harus menampilkan sumber, periode, serta metode pengukuran.
 
 PROYEK

@@ -13,30 +13,29 @@ BAB 1. CUACA DAN IKLIM
 Cuaca menggambarkan kondisi atmosfer dalam waktu singkat, sedangkan iklim merangkum pola dalam jangka panjang. Satu hari yang dingin tidak membantah tren pemanasan jangka panjang. Untuk memahami iklim, ilmuwan menganalisis pengamatan bertahun-tahun, catatan laut, es, vegetasi, dan indikator lain.
 
 PENDALAMAN KONSEP
-Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
+Cuaca menggambarkan keadaan atmosfer dalam jangka pendek, sedangkan iklim merangkum pola statistik dalam jangka panjang. Variabilitas alami membuat kondisi tiap tahun berbeda, sehingga tren iklim dinilai dari catatan panjang dan banyak indikator.
 
 CONTOH KAJIAN
-Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
+Bandingkan catatan suhu harian dengan rerata klimatologis jangka panjang dari lembaga meteorologi. Jelaskan mengapa satu hari panas tidak cukup untuk menyatakan perubahan iklim.
 
 LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
-2. Kumpulkan informasi dari sumber yang dapat diperiksa.
-3. Kelompokkan fakta, pendapat, dan dugaan.
-4. Terapkan konsep bab ini untuk menyusun penjelasan.
-5. Periksa apakah kesimpulan sesuai bukti.
+1. Catat perbedaan cuaca dan iklim.
+2. Temukan data suhu harian dan data iklim jangka panjang.
+3. Bandingkan rentang waktu dan satuannya.
+4. Jelaskan mengapa data singkat tidak cukup untuk menyimpulkan tren.
+5. Tulis batas kesimpulan.
 
 RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
-- Pahami proses, bukan hanya menghafal nama.
-- Gunakan contoh relevan dan jelaskan konteksnya.
-- Sebutkan keterbatasan informasi ketika bukti belum cukup.
+- Cuaca bersifat jangka pendek; iklim menggambarkan pola jangka panjang.
+- Variabilitas alami terjadi di dalam sistem iklim.
+- Tren memerlukan catatan pengamatan panjang.
 
 LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
-3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
-4. Buat satu pertanyaan lanjutan yang dapat diteliti.
-5. Jelaskan bukti seperti apa yang akan memperkuat jawabanmu.
+1. Bedakan cuaca dan iklim.
+2. Mengapa data iklim memerlukan rentang waktu panjang?
+3. Jelaskan satu contoh variabilitas cuaca.
+4. Sebutkan sumber data iklim yang dapat dipercaya.
+5. Mengapa satu peristiwa ekstrem tidak cukup untuk menilai tren?
 
 BAB 2. EFEK RUMAH KACA
 
@@ -104,19 +103,19 @@ Indikator dapat mencakup penurunan gangguan layanan, akses air, waktu pemulihan,
 LATIHAN
 Pilih satu risiko iklim di daerah tempat tinggal. Buat peta sederhana pihak dan fasilitas yang terpapar, jelaskan kelompok yang paling rentan, dan susun tiga langkah adaptasi beserta indikator pemantauannya.
 
-BAB 11. SIKLUS KARBON DAN UMPAN BALIK IKLIM
+BAB 7. SIKLUS KARBON DAN UMPAN BALIK IKLIM
 Karbon berpindah di antara atmosfer, laut, tanah, batuan, dan makhluk hidup. Tumbuhan menyerap karbon dioksida melalui fotosintesis, sedangkan respirasi, pembusukan, dan pembakaran melepaskannya kembali. Laut juga menyerap dan melepaskan karbon melalui pertukaran gas serta proses kimia dan biologis. Aktivitas manusia memindahkan karbon dari cadangan geologis ke atmosfer dalam waktu relatif singkat. Umpan balik iklim dapat memperkuat atau mengurangi perubahan awal. Contohnya, pencairan es mengurangi kemampuan permukaan bumi memantulkan cahaya, sehingga lebih banyak energi diserap. Umpan balik perlu dibedakan dari pemicu awal.
 
-BAB 12. LAUT, ES, DAN KENAIKAN MUKA AIR
+BAB 8. LAUT, ES, DAN KENAIKAN MUKA AIR
 Muka laut berubah karena pemuaian air laut ketika menghangat dan penambahan air dari gletser serta lapisan es daratan. Perubahan tidak seragam di semua tempat karena arus, gravitasi, penurunan atau pengangkatan daratan, dan faktor regional. Masyarakat pesisir dapat menghadapi banjir rob, abrasi, intrusi air asin, dan gangguan ekosistem. Perencanaan adaptasi memerlukan peta elevasi, catatan pasang, proyeksi, kondisi infrastruktur, dan pengetahuan warga. Angka global tidak boleh langsung dianggap sebagai prediksi tepat untuk satu lokasi.
 
-BAB 13. MITIGASI: ENERGI, TRANSPORTASI, DAN LAHAN
+BAB 9. MITIGASI: ENERGI, TRANSPORTASI, DAN LAHAN
 Mitigasi mengurangi emisi atau meningkatkan penyerapan gas rumah kaca. Pilihan energi mencakup efisiensi, elektrifikasi, dan sumber rendah emisi sesuai kondisi setempat. Transportasi dapat diperbaiki melalui angkutan umum, berjalan kaki, bersepeda, dan teknologi kendaraan yang lebih efisien. Pengelolaan lahan melindungi hutan, gambut, mangrove, dan tanah agar cadangan karbon tidak terlepas. Setiap pilihan perlu dinilai sepanjang daur hidupnya, termasuk bahan baku, proses produksi, penggunaan, dan akhir masa pakai.
 
-BAB 14. ADAPTASI DAN KEADILAN IKLIM
+BAB 10. ADAPTASI DAN KEADILAN IKLIM
 Adaptasi mengurangi kerentanan terhadap dampak yang sudah terjadi atau diperkirakan. Contohnya adalah sistem peringatan dini, tata ruang yang memperhatikan bahaya, perlindungan sumber air, dan bangunan yang sesuai kondisi iklim. Kapasitas adaptasi tidak sama: kelompok dengan sumber daya terbatas sering menghadapi hambatan lebih besar. Kebijakan perlu mempertimbangkan akses informasi, biaya, hak masyarakat, dan distribusi manfaat. Adaptasi yang memindahkan risiko ke kelompok lain bukan solusi yang adil.
 
-BAB 15. MEMBACA DATA DAN KOMUNIKASI IKLIM
+BAB 11. MEMBACA DATA DAN KOMUNIKASI IKLIM
 Grafik suhu perlu diperiksa rentang waktu, satuan, lokasi, metode pengukuran, dan sumber datanya. Tren jangka panjang dapat tertutup variasi tahunan, sehingga pemilihan skala waktu memengaruhi interpretasi. Bedakan cuaca ekstrem tunggal dari perubahan peluang kejadian ekstrem. Ketika menyampaikan informasi, gunakan rentang ketidakpastian dan jelaskan apa yang diketahui serta belum diketahui. Hindari judul sensasional yang melebih-lebihkan satu kejadian.
 
 PROYEK AKHIR

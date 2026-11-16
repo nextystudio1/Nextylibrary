@@ -125,3 +125,39 @@ LATIHAN TERAPAN
 3. Sebutkan dua contoh galat non-sampling.
 4. Mengapa korelasi tidak otomatis berarti sebab-akibat?
 5. Buat pedoman singkat untuk membuat grafik yang jujur.
+BAB LANJUTAN: PELUANG BERSYARAT DAN TABEL KONTINGENSI
+
+Peluang bersyarat menyatakan kemungkinan suatu kejadian ketika informasi tentang kejadian lain sudah diketahui. Notasi P(A|B) dibaca sebagai peluang A dengan syarat B terjadi. Konsep ini penting ketika membandingkan kelompok, menilai hasil tes, atau membaca hubungan antarvariabel. Peluang gabungan dan peluang bersyarat tidak boleh tertukar; urutan informasi yang diketahui dapat mengubah pertanyaan yang sedang dijawab.
+
+Tabel kontingensi merangkum frekuensi dua variabel kategorik. Contoh: dari 100 responden, 60 menyatakan membaca setiap minggu dan 40 tidak. Jika 30 dari kelompok pertama menggunakan perpustakaan sekolah, proporsi 30/60 menjawab pertanyaan tentang kelompok pembaca mingguan, sedangkan 30/100 menjawab proporsi seluruh responden. Penyebut harus selalu disebutkan agar persentase tidak menyesatkan.
+
+BAB LANJUTAN: ESTIMASI DAN INTERVAL KEPERCAYAAN
+
+Statistik sampel digunakan untuk memperkirakan parameter populasi. Estimasi titik memberi satu angka, sedangkan interval kepercayaan menunjukkan rentang nilai yang konsisten dengan metode dan asumsi tertentu. Interval yang lebih lebar biasanya menunjukkan ketidakpastian lebih besar. Interval kepercayaan bukan jaminan bahwa parameter memiliki peluang tertentu untuk berada di dalam satu interval yang sudah dihitung; interpretasinya berkaitan dengan kinerja metode dalam pengambilan sampel berulang.
+
+Ketelitian estimasi dipengaruhi ukuran sampel, variasi data, desain sampling, dan kualitas pengukuran. Sampel besar dapat menghasilkan estimasi presisi tetapi tetap bias jika kerangka sampel tidak mewakili populasi. Karena itu, pelaporan harus menjelaskan metode, nonrespons, dan batas generalisasi.
+
+BAB LANJUTAN: UJI HIPOTESIS DAN MAKNA HASIL
+
+Uji hipotesis membandingkan data dengan suatu model atau asumsi awal. Nilai p menggambarkan seberapa tidak selaras data yang diamati dengan hipotesis nol, jika asumsi model benar. Nilai p bukan peluang bahwa hipotesis nol benar dan bukan ukuran besarnya pengaruh. Hasil yang signifikan secara statistik belum tentu penting secara praktis.
+
+Kesimpulan perlu mempertimbangkan ukuran efek, interval kepercayaan, desain penelitian, jumlah pengujian, dan konteks. Jangan mengubah hipotesis setelah melihat hasil tanpa menyatakannya. Hasil yang tidak signifikan juga tidak otomatis membuktikan tidak ada hubungan; data mungkin kurang informatif atau pengukuran kurang tepat.
+
+BAB LANJUTAN: REGRESI DAN PREDIKSI
+
+Regresi memodelkan hubungan antara variabel respons dan satu atau lebih prediktor. Dalam regresi linear sederhana, kemiringan garis menggambarkan perubahan rata-rata respons yang diperkirakan untuk kenaikan satu unit prediktor, dalam konteks model. Interpretasi koefisien memerlukan satuan, rentang data, dan asumsi yang sesuai.
+
+Model prediksi tidak otomatis menjelaskan sebab-akibat. Periksa pola residu, pencilan, hubungan nonlinier, dan apakah data pelatihan mewakili data yang akan diprediksi. Prediksi di luar rentang pengamatan disebut ekstrapolasi dan dapat sangat tidak andal. Model harus dinilai menggunakan data yang tidak dipakai untuk melatihnya bila tujuan utamanya adalah prediksi.
+
+BAB LANJUTAN: ETIKA DATA DAN REPRODUKSIBILITAS
+
+Data dapat memuat informasi pribadi meskipun nama telah dihapus. Gabungan beberapa variabel kadang dapat mengidentifikasi seseorang. Kumpulkan data seminimal mungkin, batasi akses, jelaskan tujuan penggunaan, dan simpan sesuai kebijakan yang berlaku. Untuk tugas belajar, gunakan data sintetis atau data terbuka yang memang boleh digunakan.
+
+Analisis yang dapat direproduksi menyimpan definisi variabel, langkah pembersihan, keputusan mengecualikan data, rumus, dan versi berkas. Catatan tersebut memungkinkan orang lain memahami bagaimana hasil diperoleh. Reproduksibilitas tidak berarti data sensitif harus dipublikasikan; dokumentasi metode dapat dibagikan tanpa membuka identitas.
+
+LATIHAN TERAPAN
+1. Buat tabel kontingensi dari data kategorik kecil yang disediakan guru.
+2. Jelaskan perbedaan estimasi titik dan interval.
+3. Tafsirkan nilai p tanpa menyebutnya sebagai peluang hipotesis benar.
+4. Jelaskan mengapa model dengan prediksi baik belum tentu menjelaskan sebab.
+5. Buat daftar praktik perlindungan data untuk proyek survei sekolah.

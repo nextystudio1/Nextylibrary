@@ -31,10 +31,6 @@ LATIHAN
 3. Jelaskan mengapa verifikasi silang penting sebelum informasi diterbitkan.
 4. Analisis bagaimana judul dapat memengaruhi pemahaman pembaca.
 5. Buat kerangka berita yang memisahkan fakta terverifikasi dan konteks tambahan.
-2. Jelaskan satu mekanisme dengan urutan yang benar.
-3. Berikan contoh penerapan dalam kehidupan sehari-hari.
-4. Sebutkan satu keterbatasan atau risiko salah tafsir.
-5. Buat pertanyaan lanjutan yang dapat dijawab melalui pengamatan atau sumber tepercaya.
 
 BAB 2. NILAI BERITA DAN SUDUT PANDANG
 
@@ -57,14 +53,16 @@ BAB 6. ETIKA DAN KOREKSI
 Jurnalis perlu menghormati privasi, menghindari diskriminasi, memberi kesempatan tanggapan, dan mempertimbangkan keselamatan narasumber. Foto serta video tidak boleh dimanipulasi sehingga mengubah makna. Jika kesalahan terjadi, koreksi harus jelas, mudah ditemukan, dan menjelaskan bagian yang diperbaiki.
 
 PROYEK TERPADU
-Buat kajian mini untuk Pengantar Jurnalistik dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
+PROYEK TERPADU
+Buat paket liputan informatif tentang fasilitas umum yang dapat diamati secara aman dan terbuka. Susun rencana liputan, daftar narasumber, pertanyaan wawancara, dokumen yang perlu diperiksa, dan sudut pandang pihak terdampak. Tulis berita ringkas dengan judul proporsional. Tandai setiap klaim yang belum terverifikasi dan lindungi informasi pribadi yang tidak relevan.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari ETIKA DAN KOREKSI dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Pengantar Jurnalistik.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+EVALUASI AKHIR
+1. Jelaskan perbedaan fakta, pernyataan narasumber, analisis, dan opini.
+2. Susun langkah verifikasi untuk sebuah foto yang beredar tanpa konteks.
+3. Buat tiga pertanyaan wawancara yang terbuka dan tidak menggiring jawaban.
+4. Jelaskan bagaimana judul yang sensasional dapat mengubah makna sebuah berita.
+5. Uraikan cara melakukan koreksi ketika berita yang sudah terbit mengandung kesalahan.
 
 PEDOMAN PENILAIAN
 Nilai pemahaman Pengantar Jurnalistik berdasarkan ketepatan konsep, kecocokan metode, mutu bukti, dan kemampuan menerapkan materi. Jawaban harus menunjukkan alasan yang dapat diperiksa serta menyebutkan keterbatasan informasi bila ada.

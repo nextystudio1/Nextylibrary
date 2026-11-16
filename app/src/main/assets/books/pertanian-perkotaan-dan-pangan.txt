@@ -6,7 +6,7 @@ DESKRIPSI
 Dasar budidaya tanaman di ruang terbatas, tanah, air, kompos, hidroponik, panen, dan ketahanan pangan.
 
 TUJUAN PEMBELAJARAN
-Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan konsep utama, menghubungkannya dengan situasi sehari-hari, mengevaluasi informasi, dan menerapkan langkah yang bertanggung jawab.
+Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan alur sistem pangan perkotaan, memilih media tanam sesuai kebutuhan tanaman, membandingkan budidaya tanah dan hidroponik, mengenali tanda gangguan tanaman, serta merencanakan panen dan pengurangan limbah secara aman.
 
 BAB 1. SISTEM PANGAN DAN KOTA
 
@@ -20,10 +20,10 @@ RANGKUMAN BAB
 - Gunakan contoh sebagai latihan, lalu sesuaikan dengan keadaan nyata.
 
 LATIHAN BAB 1
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Gambarkan alur pangan dari produksi hingga konsumsi dan pengelolaan sisa.
+2. Jelaskan dua manfaat dan dua keterbatasan kebun komunitas bagi pasokan pangan kota.
+3. Faktor apa yang perlu dipertimbangkan sebelum memilih tanaman untuk ruang terbatas?
+4. Mengapa kebun perkotaan tidak dapat menggantikan seluruh sistem pertanian?
 
 BAB 2. MEDIA TANAM DAN KESEHATAN TANAH
 
@@ -32,10 +32,10 @@ Tanah merupakan campuran mineral, bahan organik, air, udara, dan organisme. Stru
 Gunakan wadah berlubang untuk drainase dan pilih media yang bersih. Kompos matang dapat menambah bahan organik, tetapi kompos yang belum matang dapat mengganggu tanaman. Jangan mengambil tanah dari lokasi tercemar atau menggunakan bahan yang tidak diketahui asalnya.
 
 LATIHAN BAB 2
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Sebutkan fungsi mineral, bahan organik, air, dan udara dalam tanah.
+2. Jelaskan mengapa media tanam perlu menahan air sekaligus memiliki drainase.
+3. Apa risiko menggunakan tanah dari lokasi yang diduga tercemar?
+4. Bandingkan media yang terlalu padat dan media yang terlalu cepat kering.
 
 BAB 3. AIR, CAHAYA, DAN KEBUTUHAN TANAMAN
 
@@ -44,10 +44,10 @@ Tanaman memerlukan cahaya untuk fotosintesis, air untuk proses fisiologis, serta
 Amati kelembapan media sebelum menyiram. Letakkan tanaman sesuai kebutuhan cahaya dan putar wadah bila pertumbuhan condong ke satu arah. Catat waktu penyiraman dan respons tanaman agar keputusan didasarkan pada pengamatan.
 
 LATIHAN BAB 3
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Jelaskan peran cahaya dalam fotosintesis.
+2. Mengapa daun layu tidak selalu berarti tanaman kekurangan air?
+3. Susun catatan pengamatan sederhana untuk memantau kelembapan media dan respons tanaman.
+4. Faktor apa saja yang membuat kebutuhan air berbeda antarjenis tanaman?
 
 BAB 4. HIDROPONIK DAN BUDIDAYA WADAH
 
@@ -56,10 +56,10 @@ Hidroponik menumbuhkan tanaman dengan larutan nutrisi dan media penyangga, tanpa
 Mulai dengan skala kecil dan tanaman yang sesuai. Gunakan larutan nutrisi yang memang dirancang untuk hidroponik serta ikuti petunjuk produsen. Jangan mencampur bahan kimia secara sembarangan. Bersihkan wadah dan alat untuk mengurangi pertumbuhan mikroorganisme yang tidak diinginkan.
 
 LATIHAN BAB 4
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Jelaskan perbedaan budidaya hidroponik dan budidaya menggunakan tanah.
+2. Sebutkan empat faktor yang perlu dipantau dalam sistem hidroponik.
+3. Mengapa petunjuk produsen larutan nutrisi harus diikuti?
+4. Apa manfaat memulai budidaya pada skala kecil dan mencatat perubahan?
 
 BAB 5. HAMA, PENYAKIT, DAN PENGAMATAN
 
@@ -68,10 +68,10 @@ Daun berlubang, bercak, atau perubahan warna dapat disebabkan hama, penyakit, ke
 Pencegahan dapat dilakukan dengan menjaga kebersihan, memberi jarak tanaman, membuang bagian yang sakit secara tepat, dan memilih varietas yang sesuai. Jika menggunakan produk pengendali, baca label, ikuti aturan keselamatan, dan minta bimbingan orang dewasa yang memahami penggunaannya.
 
 LATIHAN BAB 5
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Sebutkan beberapa penyebab yang mungkin menghasilkan bercak atau perubahan warna daun.
+2. Mengapa identifikasi penyebab perlu dilakukan sebelum memilih tindakan?
+3. Jelaskan dua cara pencegahan yang tidak bergantung pada bahan pengendali.
+4. Mengapa label dan arahan orang dewasa yang kompeten penting saat menggunakan produk pengendali?
 
 BAB 6. PANEN, PENYIMPANAN, DAN PENGURANGAN LIMBAH
 
@@ -80,10 +80,10 @@ Waktu panen memengaruhi rasa, tekstur, dan daya simpan. Gunakan alat bersih dan 
 Rencanakan penanaman berdasarkan kebutuhan agar hasil tidak berlebihan. Sisa tanaman yang sehat dapat dikomposkan sesuai metode yang aman. Catat hasil panen dan bagian yang terbuang untuk memperbaiki perencanaan musim berikutnya.
 
 LATIHAN BAB 6
-1. Jelaskan kembali gagasan utama bab ini dengan bahasamu sendiri.
-2. Berikan dua contoh penerapan di rumah, sekolah, atau lingkungan.
-3. Sebutkan satu kesalahan umum yang perlu dihindari dan jelaskan alasannya.
-4. Buat satu pertanyaan lanjutan yang ingin kamu teliti.
+1. Faktor apa yang memengaruhi waktu panen dan daya simpan hasil tanaman?
+2. Mengapa alat dan wadah panen perlu dijaga kebersihannya?
+3. Bagaimana catatan hasil panen dan sisa pangan dapat membantu perencanaan berikutnya?
+4. Sebutkan cara memanfaatkan sisa tanaman yang sehat secara bertanggung jawab.
 
 EVALUASI AKHIR
 1. Pilih tiga konsep dari buku ini dan jelaskan hubungan di antara ketiganya.

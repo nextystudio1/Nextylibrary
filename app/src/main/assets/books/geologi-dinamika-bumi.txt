@@ -247,8 +247,6 @@ Daftar berikut merupakan titik awal untuk pendalaman. Pembaca perlu memeriksa ed
 CATATAN PENULIS
 Naskah pengembangan orisinal Nexty Studio untuk pembelajaran umum. Naskah ini merupakan bahan belajar, bukan pengganti buku ajar resmi, survei lapangan, nasihat profesional, atau informasi kebencanaan dari lembaga berwenang. Edisi berikutnya perlu ditinjau oleh pengajar atau ahli geologi dan diperbarui ketika ilmu serta data berkembang.
 
-
-
 BAB LANJUTAN — BATUAN, SUMBER DAYA, DAN BAHAYA GEOLOGI
 
 Siklus batuan menjelaskan perubahan antara batuan beku, sedimen, dan metamorf. Batuan beku terbentuk dari pembekuan magma atau lava. Batuan sedimen terbentuk melalui pengendapan dan pemadatan material. Batuan metamorf berubah akibat tekanan, suhu, dan fluida tanpa harus melebur seluruhnya. Proses-proses ini berlangsung dalam skala waktu yang sangat panjang.

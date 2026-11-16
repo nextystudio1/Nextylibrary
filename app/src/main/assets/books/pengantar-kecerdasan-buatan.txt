@@ -294,3 +294,22 @@ PEMBAHASAN SINGKAT
 
 RANGKUMAN BAB
 Model belajar dari data dan harus diuji pada data yang terpisah. Ukuran kinerja dipilih sesuai konteks, bukan hanya angka akurasi. Keadilan, privasi, keamanan, dan pengawasan manusia merupakan bagian inti dari pengembangan AI, bukan tambahan setelah sistem selesai.
+
+PEMROSESAN BAHASA DAN DATA
+Sistem AI bahasa memproses teks melalui representasi numerik. Model dapat mengenali pola sintaksis dan hubungan kata dari data pelatihan, lalu menghasilkan keluaran berdasarkan konteks. Proses ini tidak menjamin model mengetahui apakah informasi terbaru, benar, atau sesuai situasi pengguna. Untuk fakta yang berubah, gunakan sumber primer yang mutakhir.
+
+PENGUJIAN SEBELUM PENERAPAN
+Sebelum AI dipakai di sekolah atau organisasi, tentukan tujuan, pengguna, dampak kesalahan, dan cara menghentikan sistem. Uji dengan data yang mewakili situasi nyata, termasuk kasus sulit dan masukan yang tidak biasa. Catat kinerja, kelompok yang terdampak, kegagalan, dan prosedur eskalasi kepada manusia.
+
+AI DALAM PENDIDIKAN
+AI dapat membantu membuat variasi soal, memberi umpan balik awal, dan menyusun penjelasan alternatif. Namun, sistem dapat memberi jawaban salah dengan nada yakin, sehingga guru dan siswa perlu memeriksa hasil. Penilaian belajar sebaiknya mengukur pemahaman siswa, bukan sekadar kemampuan menghasilkan teks. Jangan memasukkan identitas, nilai, atau catatan pribadi siswa ke layanan tanpa izin dan kebijakan yang jelas.
+
+KETERBUKAAN DAN AKUNTABILITAS
+Dokumentasi sistem perlu menjelaskan tujuan, data yang digunakan secara umum, batasan, hasil pengujian, dan pihak yang bertanggung jawab. Pengguna perlu tahu kapan keputusan dibantu AI dan bagaimana mengajukan koreksi. Jika sistem berdampak pada kesempatan belajar atau layanan, harus ada mekanisme peninjauan manusia yang nyata, bukan sekadar tombol formal.
+
+LATIHAN
+1. Mengapa AI bahasa dapat menghasilkan jawaban salah yang terdengar meyakinkan? Karena kelancaran keluaran tidak sama dengan verifikasi fakta.
+2. Sebutkan tiga hal yang diuji sebelum sistem diterapkan. Tujuan, kinerja pada data relevan, serta dampak dan mekanisme penanganan kesalahan.
+3. Mengapa data siswa perlu dilindungi? Karena data dapat mengungkap identitas dan kondisi pribadi yang tidak diperlukan untuk tugas AI.
+RANGKUMAN
+Penerapan AI yang bertanggung jawab membutuhkan tujuan yang jelas, evaluasi nyata, perlindungan data, transparansi, dan pertanggungjawaban manusia.

@@ -290,3 +290,25 @@ LATIHAN DAN PEMBAHASAN
 
 RANGKUMAN BAB
 Aljabar menyediakan bahasa untuk menyatakan hubungan dan menyelesaikan masalah. Persamaan menjaga kesetaraan, fungsi menggambarkan aturan masukan-keluaran, grafik menunjukkan pola, dan model menghubungkan matematika dengan situasi nyata. Hasil harus diperiksa secara aljabar maupun berdasarkan konteks.
+
+PERTIDAKSAMAAN DAN NILAI MUTLAK
+Pertidaksamaan membandingkan dua bentuk menggunakan tanda lebih besar, lebih kecil, atau sama dengan. Jika kedua ruas dikalikan atau dibagi bilangan negatif, arah tanda harus dibalik. Contoh: -2x < 6 menghasilkan x > -3 setelah dibagi -2. Kesalahan membalik tanda sering terjadi, sehingga hasil perlu diuji dengan memasukkan nilai contoh.
+
+Nilai mutlak menyatakan jarak suatu bilangan dari nol pada garis bilangan. Persamaan |x - 4| = 3 berarti jarak x dari 4 adalah 3, sehingga x = 1 atau x = 7. Dalam konteks pengukuran, nilai mutlak dapat menyatakan besar selisih tanpa memperhatikan arah.
+
+FUNGSI KOMPOSISI DAN INVERS
+Komposisi fungsi menerapkan satu fungsi setelah fungsi lain. Jika f(x)=2x dan g(x)=x+3, maka f(g(x))=2(x+3)=2x+6. Urutan penting karena umumnya f(g(x)) tidak sama dengan g(f(x)). Fungsi invers membalik hubungan masukan dan keluaran pada domain yang sesuai; tidak setiap fungsi memiliki invers sebagai fungsi pada seluruh domainnya.
+
+EKSPONEN DAN LOGARITMA
+Aturan eksponen membantu menyederhanakan perkalian dan pembagian bilangan berpangkat. Untuk basis positif yang sesuai, a^m × a^n = a^(m+n) dan a^m/a^n = a^(m-n). Logaritma adalah operasi kebalikan eksponen: log_b(x)=y berarti b^y=x, dengan b positif dan tidak sama dengan 1 serta x positif. Skala logaritmik digunakan ketika rentang nilai sangat lebar, seperti pH dan magnitudo gempa.
+
+MEMERIKSA SOLUSI
+Penyelesaian aljabar harus memeriksa domain, satuan, dan kemungkinan solusi yang tidak memenuhi persamaan awal. Mengkuadratkan kedua ruas dapat menghasilkan solusi tambahan yang harus diuji. Membagi dengan bentuk yang mungkin bernilai nol juga dapat menghilangkan solusi. Tulis alasan setiap langkah agar kesalahan mudah ditemukan.
+
+LATIHAN
+1. Selesaikan -3x ≥ 12. Jawaban: x ≤ -4 karena tanda berbalik saat dibagi bilangan negatif.
+2. Selesaikan |x-2|=5. Jawaban: x=7 atau x=-3.
+3. Jika f(x)=x+1 dan g(x)=3x, hitung f(g(2)). Jawaban: g(2)=6, lalu f(6)=7.
+4. Nyatakan 2^5=32 dalam bentuk logaritma. Jawaban: log_2(32)=5.
+RANGKUMAN
+Aljabar bukan hanya manipulasi simbol. Pertidaksamaan, nilai mutlak, komposisi, invers, eksponen, dan logaritma membantu memodelkan jarak, batas, pertumbuhan, serta skala. Pemeriksaan domain dan langkah hitung menjaga jawaban tetap sah.

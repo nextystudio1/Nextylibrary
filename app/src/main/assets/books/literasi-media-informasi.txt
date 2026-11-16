@@ -273,3 +273,24 @@ LATIHAN DAN PEMBAHASAN
 
 RANGKUMAN BAB
 Literasi media adalah kemampuan menemukan, memeriksa, memahami, dan menyampaikan informasi secara bertanggung jawab. Kecepatan menyebarkan informasi tidak boleh mengalahkan pemeriksaan bukti. Pembaca yang kritis memeriksa sumber, konteks, angka, gambar, dan kepentingan di balik pesan.
+
+MEMBACA INFORMASI SAINS DAN KESEHATAN
+Klaim kesehatan dapat berdampak langsung pada keputusan seseorang. Bedakan penelitian awal, uji klinis, tinjauan sistematis, pedoman profesional, dan pendapat pribadi. Satu penelitian tidak selalu cukup untuk mengubah rekomendasi. Periksa jumlah peserta, rancangan, kelompok pembanding, ukuran efek, keterbatasan, serta apakah hasil telah ditinjau oleh ahli.
+
+Judul berita sering menyederhanakan hasil penelitian. “Risiko meningkat dua kali” perlu dibaca bersama risiko dasar. Kenaikan relatif dari 1 menjadi 2 kasus per 10.000 orang berbeda dampaknya dari 1.000 menjadi 2.000 kasus per 10.000 orang. Angka absolut dan kelompok yang diteliti membantu memberi konteks.
+
+KONFLIK KEPENTINGAN DAN SPONSOR
+Pendanaan tidak otomatis membuat penelitian salah, tetapi sumber dana dan hubungan penulis perlu diketahui. Periksa apakah sponsor memiliki kepentingan terhadap hasil, apakah metode transparan, dan apakah penelitian independen memberikan temuan serupa. Iklan yang tampil seperti artikel perlu diberi label jelas.
+
+DISINFORMASI DAN KOREKSI
+Misinformasi adalah informasi keliru yang dibagikan tanpa harus ada niat menipu; disinformasi melibatkan penyebaran yang sengaja menyesatkan. Dalam praktik, niat sering sulit dibuktikan. Fokus pada pemeriksaan klaim, bukan menebak motif orang. Jika pernah membagikan informasi salah, koreksi secara terbuka dan jangan menghapus konteks yang dibutuhkan pembaca.
+
+DISKUSI PUBLIK YANG SEHAT
+Dalam debat, rangkum pendapat lawan secara adil sebelum menjawab. Gunakan bukti yang relevan, akui ketidakpastian, dan hindari serangan pribadi. Perbedaan pendapat dapat diselesaikan dengan memperjelas definisi dan standar bukti. Tidak semua klaim memiliki dukungan yang sama kuat; sikap terbuka bukan berarti menganggap semua klaim sama benar.
+
+LATIHAN
+1. Mengapa risiko relatif perlu disertai angka absolut? Agar pembaca memahami besarnya dampak dalam konteks nyata.
+2. Apakah pendanaan industri otomatis membatalkan penelitian? Tidak, tetapi konflik kepentingan harus diungkap dan hasil perlu dibandingkan dengan bukti independen.
+3. Apa tindakan tepat setelah menyadari telah membagikan informasi keliru? Koreksi dengan jelas, sertakan sumber yang lebih kuat, dan hindari menyalahkan pembaca.
+RANGKUMAN
+Literasi informasi membantu masyarakat membaca klaim sains, angka, sponsor, dan perdebatan publik. Sikap kritis berarti memeriksa bukti secara adil, mengakui ketidakpastian, dan bertanggung jawab memperbaiki kesalahan.

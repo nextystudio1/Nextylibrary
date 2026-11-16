@@ -363,3 +363,25 @@ Regresi: metode pemodelan hubungan dan perkiraan.
 Residu: selisih antara hasil aktual dan hasil prediksi.
 Bias seleksi: penyimpangan akibat cara sampel dipilih.
 Pencilan: nilai yang jauh dari pola sebagian besar data.
+
+DISTRIBUSI DAN BENTUK DATA
+Distribusi menunjukkan bagaimana nilai tersebar. Distribusi simetris memiliki pola relatif seimbang di sekitar pusat, sedangkan distribusi menceng memiliki ekor lebih panjang pada salah satu sisi. Bentuk distribusi memengaruhi pilihan ukuran ringkasan. Rata-rata dan simpangan baku sering digunakan pada data yang sesuai, sedangkan median dan rentang antarkuartil lebih tahan terhadap pencilan.
+
+PERSENTIL DAN KUARTIL
+Persentil menunjukkan posisi relatif suatu nilai dalam kumpulan data. Kuartil membagi data terurut menjadi empat bagian. Metode perhitungan kuartil dapat berbeda menurut perangkat lunak dan konvensi, terutama pada sampel kecil; nyatakan metode yang digunakan jika ketepatan penting.
+
+KORELASI DAN REGRESI
+Koefisien korelasi merangkum arah dan kekuatan hubungan linear antara dua variabel, biasanya dari -1 sampai 1. Nilai dekat nol tidak berarti tidak ada hubungan apa pun; pola mungkin non-linear. Regresi linear membuat model garis untuk menggambarkan hubungan rata-rata, tetapi prediksi di luar rentang data berisiko karena pola dapat berubah.
+
+SAMPEL DAN KETIDAKPASTIAN
+Statistik sampel digunakan untuk memperkirakan karakteristik populasi. Interval kepercayaan menggambarkan ketidakpastian metode estimasi dalam kerangka statistik tertentu; bukan jaminan bahwa parameter populasi memiliki peluang tertentu berada pada satu interval yang sudah dihitung. Kesimpulan perlu menyebut populasi sasaran, metode sampel, dan asumsi.
+
+ETIKA VISUALISASI DATA
+Jangan memilih skala, warna, atau rentang hanya untuk membuat perbedaan tampak dramatis. Tampilkan sumber, satuan, jumlah pengamatan, dan periode. Jika data hilang atau tidak lengkap, jelaskan. Jangan menghapus kategori yang tidak sesuai harapan tanpa alasan metodologis.
+
+LATIHAN
+1. Kapan median lebih tepat daripada rata-rata? Ketika data menceng atau memiliki pencilan yang kuat.
+2. Apakah korelasi membuktikan sebab-akibat? Tidak, faktor ketiga dan arah hubungan perlu dipertimbangkan.
+3. Apa yang harus ditulis pada grafik? Judul, label sumbu, satuan, sumber, dan periode.
+RANGKUMAN
+Literasi data membutuhkan kemampuan membaca distribusi, ukuran posisi, korelasi, regresi, dan ketidakpastian. Statistik menjadi bermanfaat ketika metode, asumsi, serta batas kesimpulan disampaikan secara jujur.

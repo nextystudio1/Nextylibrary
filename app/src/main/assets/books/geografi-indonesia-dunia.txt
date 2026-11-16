@@ -356,3 +356,22 @@ GLOSARIUM
 Urbanisasi: peningkatan proporsi penduduk yang tinggal di wilayah perkotaan.
 Konektivitas: keterhubungan wilayah melalui transportasi dan komunikasi.
 Indikator: ukuran yang digunakan untuk menggambarkan suatu keadaan.
+
+INTERAKSI ANTARWILAYAH
+Wilayah saling terhubung melalui perdagangan, migrasi, komunikasi, transportasi, dan aliran modal. Keterhubungan dapat memperluas akses pasar dan pengetahuan, tetapi juga membuat gangguan di satu tempat berdampak pada tempat lain. Gangguan pelabuhan, bencana, atau perubahan harga energi dapat memengaruhi rantai pasok lintas negara.
+
+GLOBALISASI DAN KETIMPANGAN
+Globalisasi bukan proses yang manfaatnya terbagi sama rata. Pusat industri, wilayah pemasok bahan mentah, kota jasa, dan komunitas lokal dapat mengalami dampak berbeda. Analisis geografi menanyakan lokasi kegiatan, siapa yang memperoleh manfaat, siapa yang menanggung biaya, dan bagaimana kebijakan dapat memperbaiki ketimpangan.
+
+PERUBAHAN PENGGUNAAN LAHAN
+Perluasan kota, perkebunan, pertambangan, dan infrastruktur mengubah tutupan lahan. Perubahan dapat menyediakan pekerjaan dan layanan, tetapi juga memengaruhi habitat, air, tanah, serta hak masyarakat. Peta perubahan tutupan lahan perlu dibandingkan pada skala dan periode yang konsisten serta diverifikasi dengan data lapangan.
+
+KETAHANAN WILAYAH
+Ketahanan wilayah adalah kemampuan masyarakat dan sistem layanan untuk menghadapi gangguan, beradaptasi, dan pulih. Infrastruktur penting perlu dirancang dengan mempertimbangkan risiko iklim, bencana geologi, dan kebutuhan kelompok rentan. Rencana yang baik mencakup informasi risiko, layanan dasar, komunikasi, serta partisipasi masyarakat.
+
+LATIHAN
+1. Mengapa gangguan di pelabuhan dapat memengaruhi harga barang di wilayah lain? Karena rantai pasok dan distribusi saling terhubung.
+2. Apa yang harus diperhatikan saat membandingkan peta tutupan lahan? Skala, periode, klasifikasi, sumber data, dan verifikasi lapangan.
+3. Berikan contoh upaya meningkatkan ketahanan wilayah. Contoh: sistem peringatan, rencana evakuasi, dan infrastruktur yang memperhitungkan risiko.
+RANGKUMAN
+Geografi dunia mengkaji keterhubungan ruang, globalisasi, perubahan lahan, dan ketahanan. Analisis lokasi dan aliran membantu memahami dampak lokal dari proses global.

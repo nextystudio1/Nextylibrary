@@ -301,3 +301,27 @@ PENUTUP PENGEMBANGAN
 Elektronika menggabungkan fisika, matematika, material, pengukuran, dan rekayasa. Pemahaman yang baik bukan hanya mengenali nama komponen, tetapi juga membaca spesifikasi, menjelaskan asumsi, mengevaluasi hasil, dan memahami batas keselamatan. Setiap rancangan perlu diuji secara bertanggung jawab dan didokumentasikan.
 
 Akhir buku.
+
+KOMPONEN PASIF DAN AKTIF
+Resistor membatasi arus dan dapat membentuk pembagi tegangan. Kapasitor menyimpan energi dalam medan listrik dan menahan perubahan tegangan secara sementara. Induktor menyimpan energi dalam medan magnet dan menahan perubahan arus. Perilaku komponen bergantung frekuensi, nilai komponen, dan kondisi rangkaian.
+
+Dioda memungkinkan arus lebih mudah mengalir pada satu arah dibanding arah sebaliknya dalam kondisi tertentu. LED memancarkan cahaya ketika dialiri arus dengan polaritas dan batas yang sesuai. Transistor dapat digunakan sebagai sakelar elektronik atau penguat. Setiap komponen memiliki batas tegangan, arus, dan daya yang tidak boleh dilampaui.
+
+MEMBACA DIAGRAM RANGKAIAN
+Diagram rangkaian menggunakan simbol standar untuk menggambarkan hubungan listrik. Jalur yang tersambung ditandai sesuai konvensi gambar; persilangan garis belum tentu berarti sambungan jika tidak ada penanda. Periksa sumber tegangan, polaritas, titik referensi, dan nilai komponen sebelum menganalisis.
+
+Hukum Kirchhoff tentang arus menyatakan jumlah arus yang masuk ke simpul sama dengan jumlah arus yang keluar, dalam model rangkaian terkumpul. Hukum tegangan menyatakan jumlah perubahan tegangan sepanjang lintasan tertutup sama dengan nol. Kedua prinsip ini membantu menganalisis rangkaian bercabang dan tertutup.
+
+PENGUKURAN DAN KESELAMATAN
+Multimeter dapat mengukur tegangan, arus, dan resistansi dengan pengaturan yang tepat. Pengukuran tegangan dilakukan paralel terhadap komponen; pengukuran arus memerlukan alat tersusun seri dan konfigurasi yang sesuai. Kesalahan memilih mode atau terminal dapat merusak alat dan menimbulkan bahaya. Pelajar hanya boleh bekerja pada kit tegangan rendah yang dirancang untuk pendidikan dan diawasi guru. Jangan mengukur stopkontak atau membuka perangkat listrik rumah.
+
+PENYARINGAN SINYAL
+Rangkaian RC dapat membentuk penyaring lolos-rendah atau lolos-tinggi. Penyaring lolos-rendah melewatkan frekuensi rendah lebih mudah daripada frekuensi tinggi; penyaring lolos-tinggi menunjukkan kecenderungan sebaliknya. Frekuensi potong ideal rangkaian RC sederhana bergantung pada resistansi dan kapasitansi. Dalam perangkat nyata, toleransi komponen dan beban memengaruhi respons.
+
+LATIHAN
+1. Apa fungsi resistor? Membatasi arus atau membentuk pembagi tegangan.
+2. Mengapa pengukuran arus harus dilakukan dengan konfigurasi berbeda dari tegangan? Karena alat perlu menjadi bagian jalur arus yang diukur.
+3. Apa fungsi transistor dalam rangkaian? Dapat berfungsi sebagai sakelar atau penguat.
+4. Sebutkan dua hal yang wajib diperiksa sebelum menyalakan rangkaian. Polaritas dan batas tegangan/arus komponen.
+RANGKUMAN
+Elektronika menghubungkan komponen, hukum rangkaian, sinyal, dan pengukuran. Pemahaman simbol serta keselamatan kerja menjadi dasar sebelum merancang atau menguji perangkat.

@@ -276,3 +276,28 @@ Magma: batuan cair di bawah permukaan.
 Lava: magma yang mencapai permukaan.
 Metamorf: perubahan batuan akibat tekanan, suhu, dan fluida.
 Mitigasi: upaya mengurangi risiko bencana.
+
+MINERAL DAN BATUAN
+Mineral adalah zat padat alami dengan komposisi kimia dan struktur kristal tertentu. Batuan merupakan agregat satu atau lebih mineral atau bahan geologi. Batuan beku terbentuk dari pembekuan magma atau lava, batuan sedimen dari pengendapan dan pemadatan material, sedangkan batuan metamorf berubah karena tekanan, suhu, dan fluida tanpa harus melebur seluruhnya.
+
+Siklus batuan menggambarkan perubahan antarkelompok batuan melalui pelapukan, erosi, pengendapan, pemanasan, tekanan, peleburan, dan pembekuan. Siklus ini bukan urutan tunggal; batuan dapat menempuh jalur berbeda bergantung kondisi geologi.
+
+TEKTONIK LEMPENG
+Litosfer terbagi menjadi lempeng yang bergerak di atas bagian mantel yang lebih mudah berubah bentuk dalam skala waktu geologi. Pada batas divergen, lempeng saling menjauh; pada batas konvergen, lempeng saling mendekat; pada batas transform, lempeng bergeser mendatar. Interaksi tersebut berkaitan dengan gempa, pembentukan pegunungan, palung, dan gunung api.
+
+Gempa bumi terjadi ketika energi elastik yang tersimpan dilepaskan akibat pergeseran batuan. Magnitudo menggambarkan ukuran sumber gempa, sedangkan intensitas menggambarkan dampak guncangan di lokasi tertentu. Satu gempa memiliki satu magnitudo utama, tetapi intensitas dapat berbeda antarlokasi.
+
+TANAH, AIR TANAH, DAN SUMBER DAYA
+Tanah terbentuk melalui interaksi bahan induk, iklim, organisme, relief, dan waktu. Lapisan tanah memiliki sifat berbeda yang memengaruhi kesuburan dan infiltrasi. Erosi dipercepat oleh hilangnya tutupan vegetasi, pengolahan lahan yang tidak sesuai, dan aliran permukaan yang terkonsentrasi.
+
+Air tanah tersimpan dan bergerak melalui pori atau rekahan batuan. Akuifer dapat menyediakan air, tetapi pengambilan berlebihan dapat menurunkan muka air tanah dan menyebabkan intrusi air asin di wilayah pesisir. Perlindungan daerah imbuhan dan pengelolaan pemompaan penting untuk keberlanjutan.
+
+MITIGASI BERBASIS GEOLOGI
+Peta geologi dan peta bahaya membantu tata ruang, tetapi tidak memprediksi waktu pasti gempa atau erupsi. Bangunan tahan gempa, pemantauan, edukasi, jalur evakuasi, dan kepatuhan terhadap arahan resmi mengurangi risiko. Hindari menyebarkan prediksi bencana yang tidak memiliki dasar ilmiah.
+
+LATIHAN
+1. Bedakan batuan beku dan sedimen. Batuan beku berasal dari pembekuan magma/lava; sedimen terbentuk dari material yang diendapkan dan mengalami pemadatan.
+2. Apa beda magnitudo dan intensitas gempa? Magnitudo mengukur ukuran sumber; intensitas menggambarkan guncangan atau dampak di tempat.
+3. Mengapa air tanah perlu dikelola? Pengambilan berlebihan dapat menurunkan cadangan dan memicu dampak lingkungan.
+RANGKUMAN
+Geologi menjelaskan bahan penyusun Bumi, proses tektonik, pembentukan batuan, tanah, dan air tanah. Ilmu geologi penting untuk memahami sumber daya sekaligus mengurangi risiko bencana.

@@ -262,3 +262,23 @@ GLOSARIUM
 Mitigasi iklim: tindakan mengurangi emisi atau meningkatkan penyerapannya.
 Adaptasi iklim: penyesuaian untuk mengurangi dampak perubahan iklim.
 Atribusi: analisis kontribusi faktor tertentu terhadap suatu kejadian.
+
+SIKLUS AIR DAN KETERKAITAN IKLIM
+Air bergerak melalui penguapan, transpirasi, kondensasi, presipitasi, infiltrasi, dan aliran permukaan. Perubahan tutupan lahan dapat mengubah seberapa banyak air meresap ke tanah atau mengalir cepat ke sungai. Karena itu, banjir dan kekeringan tidak hanya berkaitan dengan curah hujan, tetapi juga kondisi daerah aliran sungai, drainase, dan penggunaan lahan.
+
+Iklim adalah pola statistik kondisi atmosfer dalam jangka panjang. Variabilitas alami seperti El Niño dan La Niña memengaruhi pola hujan dan suhu, sedangkan peningkatan gas rumah kaca mengubah keseimbangan energi Bumi. Cuaca harian dapat berbeda dari kecenderungan iklim jangka panjang; satu hari dingin tidak membantah pemanasan global.
+
+DAMPAK DAN ADAPTASI
+Perubahan iklim memengaruhi pertanian, kesehatan, pesisir, ketersediaan air, dan keanekaragaman hayati. Dampak berbeda menurut lokasi dan kemampuan masyarakat beradaptasi. Adaptasi dapat berupa varietas tanaman sesuai kondisi, pengelolaan air, ruang terbuka hijau, perlindungan pesisir, sistem peringatan, dan perencanaan kota yang memperhitungkan panas ekstrem.
+
+Mitigasi mengurangi sumber emisi atau meningkatkan penyerapannya. Efisiensi energi, energi rendah karbon, transportasi publik, perlindungan hutan, dan pengurangan limbah dapat berkontribusi. Adaptasi dan mitigasi saling melengkapi: mengurangi emisi membatasi risiko jangka panjang, sementara adaptasi mengurangi dampak yang sudah terjadi atau tidak dapat dihindari.
+
+MEMBACA DATA IKLIM
+Data suhu dan hujan perlu diperiksa berdasarkan periode, lokasi stasiun, kelengkapan catatan, serta metode pengukuran. Tren jangka panjang lebih bermakna daripada membandingkan dua hari. Anomali suhu adalah selisih dari nilai acuan yang ditetapkan; selalu sebutkan periode acuannya. Grafik harus memperlihatkan skala dan rentang waktu dengan jelas.
+
+LATIHAN
+1. Bedakan cuaca dan iklim. Cuaca adalah keadaan jangka pendek; iklim adalah pola jangka panjang.
+2. Berikan dua contoh adaptasi. Contoh: sistem peringatan banjir dan penghematan air saat kemarau.
+3. Mengapa satu kejadian cuaca tidak cukup untuk menilai tren iklim? Karena tren memerlukan catatan panjang dan analisis statistik.
+RANGKUMAN
+Ekosistem dan iklim saling memengaruhi melalui air, energi, organisme, serta aktivitas manusia. Memahami perbedaan cuaca, variabilitas, perubahan iklim, adaptasi, dan mitigasi membantu pelajar menilai bukti serta mengambil tindakan berbasis ilmu.

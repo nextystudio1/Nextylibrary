@@ -359,3 +359,46 @@ Mengapa astronomi membutuhkan banyak jenis instrumen? Karena objek memancarkan r
 
 RANGKUMAN PENGAYAAN
 Astronomi modern mengubah cahaya menjadi data untuk mengukur sifat dan sejarah alam semesta. Kesimpulan yang kuat menggabungkan instrumen, model, pengujian silang, dan pelaporan ketidakpastian.
+
+BAB PENGAYAAN — MENGAMATI LANGIT SECARA SISTEMATIS
+
+Pengamatan langit dimulai dengan menentukan waktu, lokasi, arah, kondisi cuaca, dan objek yang ingin diamati. Catatan yang konsisten membantu membandingkan perubahan posisi Bulan, planet, atau rasi bintang. Peta langit dan aplikasi astronomi dapat membantu mengenali objek, tetapi pengamat perlu memeriksa pengaturan lokasi dan waktu agar informasi sesuai.
+
+Mata manusia beradaptasi terhadap gelap secara bertahap. Cahaya putih terang dapat mengganggu adaptasi tersebut, sehingga pengamat dapat menggunakan pencahayaan redup yang sesuai. Pengamatan harus dilakukan dari tempat aman, memperhatikan lingkungan sekitar, dan tidak pernah melihat Matahari secara langsung tanpa alat pelindung khusus yang dirancang dan disertifikasi untuk tujuan tersebut.
+
+BAB PENGAYAAN — TELESKOP DAN BATAS PENGAMATAN
+
+Teleskop mengumpulkan cahaya lebih banyak daripada mata dan membantu memisahkan detail objek yang tampak berdekatan. Diameter bukaan berpengaruh pada kemampuan mengumpulkan cahaya dan resolusi teoritis. Pembesaran tinggi tidak selalu menghasilkan gambar lebih baik; kondisi atmosfer, kualitas optik, fokus, dan kestabilan dudukan juga penting.
+
+Teleskop optik dapat menggunakan lensa atau cermin. Teleskop radio mengumpulkan gelombang radio dan sering memerlukan antena besar atau susunan antena. Instrumen astronomi modern dapat mengamati berbagai panjang gelombang, termasuk inframerah dan sinar-X, yang sebagian besar tidak dapat diamati dari permukaan Bumi karena atmosfer menyerapnya.
+
+BAB PENGAYAAN — SKALA DAN WAKTU KOSMIK
+
+Cahaya membutuhkan waktu untuk menempuh jarak. Ketika mengamati Matahari, kita melihatnya sebagaimana beberapa menit sebelumnya; ketika mengamati galaksi jauh, kita melihat cahaya yang telah berjalan selama jutaan atau miliaran tahun. Teleskop dengan demikian berfungsi sebagai alat untuk mempelajari masa lalu alam semesta.
+
+Tahun cahaya adalah satuan jarak, bukan waktu. Satu tahun cahaya adalah jarak yang ditempuh cahaya dalam satu tahun. Satuan ini membantu menjelaskan skala antarbintang. Jarak kosmik yang besar juga berarti perjalanan antarbintang dengan teknologi saat ini menghadapi tantangan energi, waktu, dan keselamatan yang sangat besar.
+
+BAB PENGAYAAN — ETIKA DAN KESELAMATAN PENGAMATAN
+
+Pengamatan astronomi dapat dilakukan dengan mata telanjang, binokular, atau teleskop. Jangan mengarahkan teleskop ke Matahari tanpa filter surya yang tepat pada bagian depan alat dan sesuai standar keselamatan. Filter yang dipasang di belakang okuler tidak aman karena panas dapat merusaknya. Jika ragu, lakukan pengamatan Matahari hanya melalui kegiatan resmi yang dipandu tenaga berpengalaman.
+
+LATIHAN
+1. Mengapa catatan waktu dan lokasi penting dalam pengamatan langit?
+2. Apa pengaruh diameter bukaan teleskop?
+3. Mengapa pembesaran tinggi tidak selalu memperbaiki gambar?
+4. Apa arti melihat galaksi jauh sebagai melihat masa lalu?
+5. Mengapa pengamatan Matahari memerlukan perlindungan khusus?
+
+KUNCI PEMBAHASAN
+1. Posisi objek dan kondisi langit berubah menurut lokasi serta waktu.
+2. Bukaan lebih besar dapat mengumpulkan lebih banyak cahaya dan meningkatkan resolusi teoritis.
+3. Atmosfer, fokus, optik, dan kestabilan alat membatasi kualitas gambar.
+4. Cahaya membutuhkan waktu lama untuk sampai ke Bumi.
+5. Cahaya dan energi Matahari dapat merusak mata secara permanen.
+
+GLOSARIUM TAMBAHAN
+Resolusi: kemampuan alat memisahkan detail yang berdekatan.
+Bukaan teleskop: diameter lensa atau cermin utama pengumpul cahaya.
+Teleskop radio: instrumen untuk mengamati gelombang radio dari objek langit.
+Okuler: bagian teleskop tempat pengamat melihat citra.
+Tahun cahaya: jarak yang ditempuh cahaya dalam satu tahun.

@@ -204,3 +204,25 @@ Insulasi: bahan atau lapisan yang mengurangi perpindahan panas.
 Konduksi: perpindahan panas melalui bahan.
 Selubung bangunan: elemen pembatas ruang dalam dan lingkungan luar.
 Ventilasi silang: aliran udara melalui bukaan pada sisi berbeda.
+
+BAB 11. SISTEM PENDINGINAN DAN BEBAN PUNCAK
+Sistem pendinginan memindahkan panas dari ruang ke lingkungan luar. Kebutuhan pendinginan dipengaruhi suhu luar, radiasi matahari, jumlah penghuni, peralatan, kelembapan, dan pertukaran udara. Beban puncak adalah kebutuhan tertinggi dalam periode tertentu dan penting dalam perencanaan kapasitas. Sistem yang terlalu besar dapat bekerja tidak efisien dan mengendalikan kelembapan dengan kurang baik. Pemilihan sistem perlu mempertimbangkan ukuran ruang, pola pemakaian, perawatan, kebisingan, dan efisiensi pada kondisi operasi nyata.
+
+BAB 12. KENYAMANAN TERMAL DAN PENGGUNA
+Kenyamanan termal tidak hanya ditentukan suhu udara. Suhu radiasi permukaan, kecepatan udara, kelembapan, pakaian, dan tingkat aktivitas ikut memengaruhi sensasi penghuni. Dua orang dalam ruang yang sama dapat merasakan kondisi berbeda. Karena itu, evaluasi bangunan perlu menggabungkan pengukuran dengan umpan balik pengguna. Pengaturan yang memberi kendali wajar kepada penghuni, seperti kipas atau peneduh yang dapat disesuaikan, dapat meningkatkan kenyamanan tanpa selalu menambah konsumsi energi besar.
+
+BAB 13. ENERGI TERBARUKAN PADA BANGUNAN
+Panel surya mengubah sebagian energi cahaya menjadi energi listrik. Kinerja dipengaruhi orientasi, kemiringan, bayangan, suhu, kebersihan, dan karakter sistem. Produksi energi berubah sepanjang hari dan musim, sehingga perlu dibandingkan dengan pola konsumsi. Sistem penyimpanan dapat membantu menggeser penggunaan energi, tetapi memiliki biaya, umur pakai, dan dampak material. Penilaian yang baik memperhitungkan keseluruhan siklus hidup, bukan hanya energi yang dihasilkan saat beroperasi.
+
+BAB 14. MATERIAL, AIR, DAN SIKLUS HIDUP
+Dampak bangunan tidak berhenti pada konsumsi listrik. Produksi bahan, transportasi, konstruksi, penggunaan air, pemeliharaan, dan akhir masa pakai juga memerlukan sumber daya. Pendekatan siklus hidup membantu membandingkan pilihan secara lebih menyeluruh. Bahan lokal dapat mengurangi sebagian kebutuhan transportasi, tetapi mutu, ketahanan, dan proses produksinya tetap perlu dinilai. Penghematan air dapat dilakukan melalui desain yang sesuai, pemantauan kebocoran oleh pengelola, serta pemilihan perlengkapan yang efisien.
+
+BAB 15. RENCANA PERBAIKAN BERDASARKAN DATA
+Rencana efisiensi sebaiknya dimulai dari data dasar: pemakaian energi, jadwal operasi, kondisi ruang, dan kebutuhan penghuni. Tetapkan indikator sebelum perubahan dilakukan, misalnya konsumsi per luas atau jam penggunaan. Setelah tindakan diterapkan, bandingkan data dengan mempertimbangkan perubahan cuaca dan jumlah pengguna. Catat biaya, kenyamanan, dan efek samping. Hasil yang transparan membantu menentukan apakah tindakan perlu diteruskan, diubah, atau dihentikan.
+
+LATIHAN TERAPAN
+1. Mengapa sistem pendinginan yang terlalu besar belum tentu efisien?
+2. Sebutkan faktor kenyamanan termal selain suhu udara.
+3. Mengapa produksi energi surya perlu dibandingkan dengan pola konsumsi?
+4. Apa yang dimaksud penilaian siklus hidup bahan?
+5. Susun indikator untuk mengevaluasi satu program penghematan energi.

@@ -168,3 +168,51 @@ Prototipe: Model awal untuk menguji gagasan.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk kajian lanjutan, gunakan sumber primer, buku ajar, standar, dan publikasi lembaga tepercaya. Catat penulis atau lembaga, judul, tahun, dan bagian yang digunakan. Periksa pembaruan informasi pada topik yang berkembang.
+
+BAB LANJUTAN: RISET PENGGUNA DAN PERUMUSAN MASALAH
+
+Desain interaksi dimulai dengan memahami tujuan, konteks, dan hambatan pengguna. Riset tidak boleh hanya mengumpulkan pendapat tentang warna atau bentuk tombol. Peneliti perlu mengetahui tugas yang ingin diselesaikan, perangkat yang digunakan, lingkungan penggunaan, keterbatasan akses, serta cara pengguna menilai keberhasilan.
+
+Wawancara membantu memahami pengalaman dan alasan, sedangkan observasi tugas menunjukkan apa yang benar-benar dilakukan. Pertanyaan sebaiknya netral dan meminta contoh konkret. “Ceritakan terakhir kali Anda mencari dokumen” biasanya lebih informatif daripada “Apakah Anda suka fitur pencarian?” Catat persetujuan, lindungi data pribadi, dan hindari mengumpulkan informasi yang tidak diperlukan.
+
+Temuan riset disintesis menjadi kebutuhan dan masalah yang dapat ditindaklanjuti. Persona, perjalanan pengguna, atau peta tugas dapat membantu tim berdiskusi, tetapi bukan pengganti data. Persona harus mewakili pola kebutuhan yang ditemukan, bukan stereotip berdasarkan usia atau pekerjaan.
+
+BAB LANJUTAN: ARSITEKTUR INFORMASI DAN NAVIGASI
+
+Arsitektur informasi mengatur konten, label, kategori, dan hubungan antarlayar agar pengguna dapat menemukan hal yang dibutuhkan. Struktur yang baik mengikuti cara pengguna memahami tugas, bukan semata-mata struktur organisasi pembuat aplikasi. Istilah menu perlu diuji dengan pengguna karena label yang terasa jelas bagi pengembang dapat membingungkan pembaca.
+
+Navigasi harus menunjukkan posisi, pilihan berikutnya, dan cara kembali. Kedalaman menu yang berlebihan meningkatkan beban mengingat. Namun, menaruh semua fungsi pada satu layar juga dapat menimbulkan kepadatan. Pengelompokan berdasarkan tujuan dan frekuensi penggunaan membantu menentukan struktur yang seimbang.
+
+BAB LANJUTAN: MODEL MENTAL DAN UMPAN BALIK
+
+Model mental adalah pemahaman pengguna tentang cara kerja sistem. Antarmuka yang konsisten dengan pengalaman umum dapat mengurangi kebutuhan belajar, tetapi metafora visual tidak selalu dipahami sama oleh semua orang. Uji apakah ikon, istilah, dan urutan tindakan benar-benar dimengerti.
+
+Umpan balik memberi tahu bahwa tindakan telah diterima dan apa hasilnya. Setelah pengguna menyimpan data, sistem sebaiknya memberi konfirmasi yang jelas. Jika proses membutuhkan waktu, tampilkan status yang jujur. Pesan kesalahan perlu menjelaskan masalah dan langkah pemulihan tanpa menyalahkan pengguna atau membocorkan informasi sensitif.
+
+BAB LANJUTAN: PROTOTIPE DAN PENGUJIAN KEGUNAAN
+
+Prototipe dapat berupa sketsa kertas, wireframe, atau rancangan interaktif. Tingkat detail dipilih berdasarkan pertanyaan yang ingin dijawab. Sketsa sederhana cukup untuk membandingkan alur, sedangkan prototipe interaktif diperlukan untuk menguji transisi dan respons kontrol. Jangan menghabiskan banyak waktu memoles tampilan sebelum alur dasarnya diuji.
+
+Dalam pengujian kegunaan, berikan tugas yang realistis dan amati tanpa terlalu banyak mengarahkan. Ukuran dapat mencakup keberhasilan tugas, waktu, kesalahan, kebutuhan bantuan, dan komentar peserta. Sampel kecil dapat mengungkap masalah penting, tetapi tidak otomatis mewakili semua kelompok pengguna.
+
+Catatan pengujian harus memisahkan pengamatan dari interpretasi. “Peserta menekan tombol kembali tiga kali” adalah pengamatan; “peserta tidak memahami navigasi” adalah interpretasi yang perlu diperiksa dengan bukti lain. Setelah pengujian, prioritaskan masalah berdasarkan tingkat dampak dan frekuensi, lalu uji ulang perbaikannya.
+
+BAB LANJUTAN: AKSESIBILITAS DAN DESAIN INKLUSIF
+
+Aksesibilitas berarti antarmuka dapat digunakan oleh orang dengan kemampuan, perangkat, dan kondisi yang beragam. Kontras teks, ukuran huruf yang dapat diperbesar, label pembaca layar, urutan fokus, teks alternatif, dan kontrol yang cukup mudah dijangkau merupakan bagian dari rancangan. Informasi penting tidak boleh disampaikan hanya melalui warna.
+
+Desain inklusif mempertimbangkan variasi penglihatan, pendengaran, motorik, kognitif, bahasa, dan kondisi situasional. Caption membantu orang dengan gangguan pendengaran sekaligus pengguna di tempat bising. Target sentuh yang memadai membantu pengguna dengan keterbatasan motorik dan orang yang sedang bergerak. Pengujian dengan teknologi bantu memberikan temuan yang tidak selalu terlihat dari pemeriksaan visual.
+
+BAB LANJUTAN: ETIKA, PRIVASI, DAN EVALUASI PRODUK
+
+Antarmuka dapat memengaruhi keputusan melalui urutan pilihan, bahasa, dan pengaturan awal. Pola desain yang menyamarkan biaya, mempersulit pembatalan, atau menekan pengguna mengambil keputusan bukan praktik yang berpusat pada manusia. Informasi penting perlu disampaikan secara jelas dan pilihan harus dapat dipahami.
+
+Evaluasi setelah peluncuran menggabungkan analitik, umpan balik, laporan masalah, dan pengujian berkala. Data penggunaan harus dikumpulkan secara proporsional dan dijelaskan kepada pengguna. Peningkatan metrik klik tidak selalu berarti pengalaman lebih baik; keberhasilan harus diukur berdasarkan kebutuhan yang benar-benar diselesaikan.
+
+LATIHAN AKHIR
+1. Rancang lima pertanyaan wawancara untuk pengguna aplikasi perpustakaan.
+2. Buat struktur navigasi untuk mencari dan membaca buku.
+3. Tulis contoh pesan sukses dan pesan kesalahan yang membantu.
+4. Susun tugas untuk uji kegunaan fitur pencarian.
+5. Buat daftar pemeriksaan aksesibilitas untuk satu layar.
+6. Identifikasi dua pola desain manipulatif dan jelaskan alternatif etisnya.

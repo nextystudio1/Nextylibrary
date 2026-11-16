@@ -188,3 +188,26 @@ Paparan: keberadaan orang atau aset pada area/situasi bahaya.
 Risiko sisa: risiko yang masih ada setelah pengendalian.
 Kerentanan: kondisi yang meningkatkan kemungkinan atau besarnya dampak.
 Mitigasi: tindakan untuk mengurangi risiko.
+
+BAB LANJUTAN: MENGUKUR DAN MENGELOLA RISIKO
+
+1. Risiko bukan kepastian
+Risiko menggambarkan kemungkinan suatu kejadian dan konsekuensinya dalam konteks tertentu. Penilaian risiko tidak selalu menghasilkan angka pasti; data yang terbatas perlu dinyatakan sebagai ketidakpastian. Bedakan bahaya, paparan, kerentanan, peluang, dan dampak agar analisis tidak mencampuradukkan istilah.
+
+2. Menentukan konteks dan tujuan
+Sebelum menilai risiko, tentukan sistem yang dikaji, tujuan, batas analisis, periode, pihak terdampak, dan kriteria penerimaan. Risiko pada kegiatan laboratorium berbeda dari risiko proyek konstruksi atau risiko layanan digital. Kriteria harus sesuai peraturan dan standar yang berlaku.
+
+3. Identifikasi kejadian
+Gunakan diskusi terstruktur, daftar periksa, tinjauan pengalaman, analisis proses, dan konsultasi pihak yang memahami kegiatan. Catat penyebab, peristiwa, serta akibat secara terpisah. Hindari hanya mencatat kejadian yang pernah terjadi; skenario yang belum pernah terjadi juga dapat relevan.
+
+4. Analisis dan prioritas
+Matriks risiko sederhana dapat membantu mengurutkan perhatian berdasarkan kemungkinan dan dampak. Namun kategori rendah, sedang, dan tinggi memiliki batasan serta dapat memberi kesan ketepatan palsu. Jelaskan dasar penilaian, sumber data, asumsi, dan alasan prioritas.
+
+5. Perlakuan risiko
+Pilihan penanganan mencakup menghindari kegiatan, mengurangi kemungkinan atau dampak, berbagi risiko melalui pengaturan yang sah, atau menerima risiko yang tersisa dengan alasan terdokumentasi. Setiap tindakan perlu memiliki penanggung jawab, tenggat, sumber daya, dan indikator efektivitas.
+
+6. Pemantauan dan komunikasi
+Risiko berubah ketika kondisi, teknologi, orang, atau aturan berubah. Tinjau ulang penilaian secara berkala dan setelah perubahan besar. Komunikasikan temuan dengan bahasa yang mudah dipahami, termasuk hal yang belum diketahui dan tindakan yang harus dilakukan.
+
+LATIHAN
+Pilih kegiatan sekolah seperti acara olahraga atau pameran. Buat daftar lima risiko, penyebab, dampak, pihak terdampak, tindakan pencegahan, dan cara memeriksa apakah tindakan tersebut efektif. Jangan mengabaikan risiko yang kecil kemungkinannya tetapi berdampak besar.

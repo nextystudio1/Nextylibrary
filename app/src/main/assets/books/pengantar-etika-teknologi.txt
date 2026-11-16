@@ -46,17 +46,25 @@ BAB 6. INOVASI DAN KEPENTINGAN PUBLIK
 Inovasi perlu mempertimbangkan dampak jangka panjang, akses, lingkungan, dan perubahan pekerjaan. Konsultasi publik membantu menemukan risiko yang tidak terlihat pengembang. Teknologi yang bermanfaat harus disertai tata kelola dan mekanisme koreksi.
 
 PROYEK AKHIR
-Pilih topik yang menghubungkan minimal tiga bab. Rumuskan pertanyaan, tujuan, batasan, metode, dan bentuk hasil. Gunakan sumber yang dapat diverifikasi serta catat proses pengumpulan informasi. Sajikan data dengan jelas, pisahkan temuan dari interpretasi, dan jelaskan keterbatasan.
+Pilih satu teknologi digital yang digunakan dalam kehidupan sehari-hari. Petakan pihak yang terlibat, data yang dikumpulkan, manfaat, risiko, serta keputusan yang dibuat oleh sistem. Gunakan prinsip privasi, keadilan, transparansi, dan akuntabilitas untuk menilai kasus. Akhiri dengan rancangan perlindungan pengguna yang dapat diterapkan.
 
 EVALUASI AKHIR
-1. Sebutkan lima gagasan inti buku.
+1. Bedakan privasi, keamanan, keadilan, dan transparansi dalam penggunaan teknologi.
+2. Jelaskan mengapa persetujuan pengguna harus diberikan dengan pemahaman yang memadai.
+3. Analisis risiko bias pada sistem otomatis.
+4. Siapa yang seharusnya bertanggung jawab ketika keputusan teknologi merugikan pengguna?
+5. Buat prinsip desain yang menjaga manfaat teknologi sekaligus menghormati hak manusia.
 2. Jelaskan hubungan antarbab dengan contoh.
 3. Analisis satu kasus berdasarkan bukti.
 4. Bandingkan dua pendekatan dan konsekuensinya.
 5. Tulis hal yang masih perlu dipelajari.
 
 GLOSARIUM
-Konsep: Gagasan utama untuk memahami topik.
+Akuntabilitas: Kewajiban menjelaskan dan mempertanggungjawabkan keputusan.
+Privasi: Hak seseorang mengendalikan informasi pribadinya.
+Bias algoritmik: Ketimpangan hasil sistem akibat data atau rancangan yang tidak adil.
+Transparansi: Keterbukaan mengenai cara kerja dan dasar keputusan.
+Persetujuan bermakna: Persetujuan yang diberikan setelah tujuan dan konsekuensi dipahami.
 Bukti: Informasi yang dapat diperiksa untuk mendukung klaim.
 Konteks: Keadaan yang memengaruhi makna atau penerapan.
 Metode: Langkah sistematis untuk mencapai tujuan.

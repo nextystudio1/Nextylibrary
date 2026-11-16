@@ -125,3 +125,41 @@ LATIHAN
 3. Mengapa variasi pangan penting?
 4. Bandingkan pendinginan dan pengeringan.
 5. Petakan tiga titik kehilangan pangan dalam rantai pasok.
+
+BAB 12. MIKROBIOLOGI PANGAN DAN SUMBER BAHAYA
+
+Keamanan pangan berkaitan dengan bahaya biologis, kimia, dan fisik. Bahaya biologis dapat berupa mikroorganisme patogen atau toksin yang dihasilkannya. Bahaya kimia dapat berasal dari kontaminan, residu, atau penggunaan bahan yang tidak sesuai. Bahaya fisik mencakup benda asing yang dapat mencederai konsumen.
+
+Keberadaan mikroorganisme tidak selalu berarti pangan berbahaya; sebagian digunakan dalam fermentasi. Risiko bergantung pada jenis organisme, jumlah, kondisi pangan, proses, penyimpanan, dan kerentanan konsumen. Pangan yang tampak dan berbau normal belum tentu aman. Pengendalian perlu mengikuti pedoman keamanan pangan yang berlaku dan tidak mengandalkan penilaian indera saja.
+
+BAB 13. RANTAI DINGIN DAN KENDALI MUTU
+
+Rantai dingin menjaga produk pada rentang suhu yang sesuai sejak produksi hingga penyimpanan dan distribusi. Putusnya rantai dingin dapat mempercepat penurunan mutu atau meningkatkan risiko mikrobiologis. Catatan suhu membantu menelusuri penyimpangan, tetapi alat ukur harus sesuai, terawat, dan digunakan dengan prosedur yang benar.
+
+Kendali mutu menggabungkan spesifikasi bahan baku, pemeriksaan proses, kebersihan fasilitas, ketertelusuran, dan pemeriksaan produk. Sampel yang diuji hanya mewakili bagian tertentu dari lot, sehingga rancangan sampling memengaruhi kesimpulan. Hasil uji perlu ditafsirkan berdasarkan metode dan batas yang berlaku.
+
+BAB 14. FERMENTASI DAN PERUBAHAN BIOKIMIA
+
+Fermentasi memanfaatkan aktivitas mikroorganisme atau enzim untuk mengubah komponen pangan. Perubahan dapat memengaruhi rasa, aroma, tekstur, keasaman, dan daya simpan. Jenis mikroorganisme, bahan awal, kondisi proses, serta kebersihan menentukan hasil. Fermentasi bukan jaminan keamanan jika proses tidak terkendali.
+
+Dalam pembelajaran, fermentasi dapat dipahami melalui konsep metabolisme, substrat, produk, dan kondisi lingkungan. Produksi pangan untuk konsumsi harus mengikuti standar keamanan, fasilitas yang sesuai, dan pengawasan kompeten. Jangan menggunakan percobaan tidak terkontrol sebagai dasar menyatakan suatu pangan aman.
+
+BAB 15. LABEL, INFORMASI GIZI, DAN KONSUMEN
+
+Label membantu konsumen memahami identitas produk, komposisi, informasi gizi, alergen, tanggal, penyimpanan, dan pihak yang bertanggung jawab. Format serta kewajiban label mengikuti peraturan yang berlaku dan dapat berubah. Klaim seperti “alami”, “sehat”, atau “tinggi” harus dinilai berdasarkan definisi dan bukti, bukan kesan promosi.
+
+Informasi gizi perlu dibaca dalam konteks takaran saji. Angka per sajian tidak sama dengan jumlah yang dikonsumsi jika porsinya berbeda. Perbandingan produk sebaiknya menggunakan dasar yang setara dan memperhatikan kebutuhan individu yang beragam.
+
+BAB 16. PANGAN, BUDAYA, DAN KETAHANAN PANGAN
+
+Pangan memiliki makna budaya, sosial, ekonomi, dan ekologis. Pola konsumsi dipengaruhi ketersediaan, harga, tradisi, waktu, fasilitas memasak, dan akses pasar. Ketahanan pangan mencakup ketersediaan, akses, pemanfaatan, dan stabilitas dari waktu ke waktu. Produksi yang tinggi tidak otomatis berarti semua rumah tangga dapat memperoleh pangan bergizi.
+
+Sistem pangan yang tangguh memerlukan keragaman sumber, penyimpanan yang memadai, distribusi yang dapat diandalkan, dan pengurangan kehilangan. Kebijakan perlu mendengar petani, pekerja pangan, pedagang, konsumen, dan komunitas lokal.
+
+LATIHAN DENGAN PEMBAHASAN
+
+1. Mengapa makanan yang tampak normal belum tentu aman? Karena sebagian bahaya tidak mengubah warna, bau, atau rasa.
+2. Apa tujuan ketertelusuran? Mengidentifikasi asal bahan dan jalur distribusi saat terjadi masalah.
+3. Mengapa rantai dingin perlu dicatat? Untuk mendeteksi dan menelusuri penyimpangan suhu.
+4. Apa perbedaan ketersediaan dan akses pangan? Ketersediaan berkaitan dengan pasokan; akses berkaitan dengan kemampuan memperoleh pangan.
+5. Mengapa label harus dibaca berdasarkan takaran saji? Karena nilai gizi yang dicantumkan dapat berubah sesuai jumlah yang dikonsumsi.

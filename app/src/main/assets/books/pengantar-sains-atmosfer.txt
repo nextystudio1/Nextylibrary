@@ -169,3 +169,34 @@ LATIHAN DAN PEMBAHASAN
 3. Apa peran interaksi laut-atmosfer? Pertukaran panas dan uap air memengaruhi sirkulasi serta pola hujan.
 4. Mengapa data stasiun perlu metadata? Agar perubahan alat, lokasi, dan metode dapat diperhitungkan.
 5. Apa manfaat prakiraan ensemble? Menunjukkan rentang kemungkinan dan ketidakpastian, bukan satu hasil pasti.
+
+BAB LANJUTAN: DINAMIKA LAPISAN BATAS ATMOSFER
+
+Lapisan batas atmosfer adalah bagian terbawah atmosfer yang secara langsung dipengaruhi permukaan bumi dalam skala waktu harian. Pemanasan matahari pada siang hari dapat membentuk turbulensi konvektif, sedangkan pendinginan permukaan pada malam hari sering menghasilkan lapisan yang lebih stabil. Perubahan stabilitas ini memengaruhi pencampuran uap air, panas, dan polutan.
+
+Turbulensi memindahkan sifat atmosfer secara vertikal dan horizontal. Pada kondisi tercampur baik, konsentrasi polutan dekat permukaan dapat tersebar ke volume udara yang lebih besar. Pada kondisi stabil, pencampuran vertikal melemah sehingga polutan dapat bertahan dekat permukaan. Namun konsentrasi aktual juga dipengaruhi emisi, angin, topografi, dan proses kimia atmosfer.
+
+Ketinggian lapisan batas tidak tetap. Ia berubah menurut waktu, tutupan lahan, awan, kelembapan, dan kondisi angin. Kota dengan permukaan beton dan aspal memiliki karakter pertukaran panas berbeda dari kawasan vegetasi atau perairan. Pengamatan perlu menggabungkan profil suhu, angin, kelembapan, dan informasi permukaan.
+
+BAB LANJUTAN: AWAN, AEROSOL, DAN RADIASI
+
+Awan memengaruhi neraca energi bumi melalui interaksi dengan radiasi matahari dan radiasi inframerah. Dampaknya bergantung pada ketinggian, ketebalan optik, ukuran tetes, fase air, dan kondisi atmosfer di bawahnya. Karena itu, tidak tepat menyatakan semua awan selalu mendinginkan atau selalu menghangatkan permukaan.
+
+Aerosol adalah partikel kecil atau tetes yang melayang di udara. Sumbernya dapat berupa debu, garam laut, asap kebakaran, aktivitas industri, dan reaksi kimia atmosfer. Aerosol dapat menyerap atau menghamburkan radiasi, serta menjadi inti kondensasi awan. Komposisi dan ukuran partikel menentukan sifat optiknya dan pengaruhnya terhadap kesehatan serta iklim.
+
+Pengamatan aerosol menggunakan instrumen dengan prinsip berbeda. Pengukuran massa partikel, jumlah partikel, dan kedalaman optik aerosol tidak menghasilkan besaran yang identik. Data harus dibaca sesuai metode, kalibrasi, lokasi, dan kondisi cuaca. Satelit memberi cakupan luas, tetapi pengamatan permukaan tetap diperlukan untuk memahami paparan manusia.
+
+BAB LANJUTAN: VARIABILITAS IKLIM DAN TELEKONEKSI
+
+Variabilitas iklim mencakup perubahan pola atmosfer dan laut dari minggu hingga beberapa tahun. Interaksi laut-atmosfer dapat memengaruhi distribusi hujan dan suhu pada wilayah yang berjauhan. Hubungan semacam ini disebut telekoneksi, tetapi kekuatan dan dampaknya dapat berubah menurut musim dan kondisi latar.
+
+Indeks iklim merangkum keadaan suatu pola menjadi angka yang dapat dibandingkan. Indeks bukan penyebab tunggal dan tidak selalu menjelaskan kondisi lokal. Analisis yang baik menggabungkan indeks, data observasi, dinamika regional, serta pengaruh topografi dan penggunaan lahan.
+
+Ketika menyampaikan informasi iklim, bedakan cuaca harian, variabilitas antartahun, dan perubahan iklim jangka panjang. Satu kejadian ekstrem tidak dengan sendirinya membuktikan tren, meskipun perubahan iklim dapat mengubah peluang atau intensitas jenis kejadian tertentu. Atribusi memerlukan metode dan pembanding yang tepat.
+
+LATIHAN PENDALAMAN
+1. Mengapa polutan dapat lebih terkonsentrasi pada malam yang stabil?
+2. Sebutkan dua cara awan memengaruhi neraca energi.
+3. Apa perbedaan pengukuran massa partikel dan kedalaman optik aerosol?
+4. Mengapa indeks iklim tidak boleh diperlakukan sebagai prakiraan lokal langsung?
+5. Bedakan cuaca, variabilitas iklim, dan tren iklim jangka panjang.

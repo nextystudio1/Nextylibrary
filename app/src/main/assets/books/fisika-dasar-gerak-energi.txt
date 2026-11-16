@@ -1912,4 +1912,112 @@ PENUTUP BANK SOAL
 
 Latihan yang efektif dilakukan dengan mencoba terlebih dahulu, memeriksa proses, lalu memperbaiki kesalahan. Jangan hanya menghafal jawaban akhir. Catat mengapa sebuah persamaan dipilih, mengapa asumsi diperlukan, dan bagaimana satuan memastikan makna hasil. Dengan cara itu, soal yang bentuknya berbeda tetap dapat dianalisis melalui prinsip yang sama.
 
+
+LAMPIRAN A — STUDI KASUS TERPADU
+
+STUDI KASUS 1 — MEMERIKSA KONSISTENSI DATA GERAK
+
+Sekelompok siswa memperoleh data posisi benda pada beberapa waktu dari simulasi. Mereka melihat posisi bertambah, tetapi selang pertambahan tidak sama. Langkah pertama bukan langsung memilih rumus, melainkan membuat grafik posisi terhadap waktu dan memeriksa skala. Jika kemiringan berubah, kecepatan juga berubah. Kemudian grafik kecepatan dapat dibuat dari perkiraan perubahan posisi tiap interval.
+
+Perbedaan hasil antar kelompok dapat terjadi karena interval pencatatan berbeda atau pembacaan grafik tidak presisi. Siswa perlu mencatat metode pengambilan data dan tidak menggabungkan data yang menggunakan titik acuan berbeda tanpa konversi. Kesimpulan yang tepat menyebut pola yang terlihat, rentang data, dan keterbatasan simulasi.
+
+STUDI KASUS 2 — MENENTUKAN GAYA RESULTAN
+
+Sebuah benda dianalisis dalam bidang datar. Beberapa gaya dapat bekerja sekaligus: gaya tarik, gesekan, gaya normal, dan berat. Diagram benda bebas memisahkan gaya pada benda yang ditinjau. Setelah memilih sumbu, gaya dijumlahkan sebagai komponen, bukan dengan menjumlahkan semua besar gaya.
+
+Jika resultan horizontal nol, percepatan horizontal nol. Benda dapat diam atau bergerak dengan kecepatan horizontal konstan. Jika resultan vertikal nol, tidak ada percepatan vertikal. Kedua kondisi harus dinilai terpisah. Diagram yang rapi membantu menghindari anggapan bahwa satu gaya selalu memiliki pasangan penyeimbang pada benda yang sama.
+
+STUDI KASUS 3 — MEMBANDINGKAN DUA CARA MENGANGKAT BEBAN
+
+Dua cara memindahkan benda dapat memiliki perubahan energi potensial gravitasi yang sama jika massa dan perubahan ketinggian sama. Namun, waktu yang digunakan dapat berbeda sehingga daya rata-rata berbeda. Jalur yang lebih panjang juga dapat melibatkan gaya gesek atau usaha tambahan.
+
+Perbandingan perlu menyatakan sistem dan keluaran yang dinilai. Jika hanya perubahan energi potensial, hasil ideal sama. Jika yang dinilai usaha total oleh orang atau mesin, gaya, lintasan, dan efisiensi mekanis ikut berpengaruh. Contoh ini memperlihatkan bahwa energi, usaha, dan daya menjawab pertanyaan yang berbeda.
+
+STUDI KASUS 4 — MENAFSIRKAN PENDINGINAN MINUMAN
+
+Pendinginan minuman melibatkan perpindahan kalor dari minuman ke wadah dan lingkungan yang lebih dingin. Laju perubahan suhu tidak selalu konstan. Pada banyak kondisi sederhana, perbedaan suhu yang lebih besar menghasilkan laju perpindahan kalor lebih besar, tetapi geometri wadah, aliran udara, dan sifat bahan juga berperan.
+
+Jika dua wadah dibandingkan, variabel seperti volume, bahan, bentuk, suhu awal, dan kondisi lingkungan perlu dikendalikan. Jangan menyimpulkan bahan mana paling baik hanya dari satu pengukuran tanpa mengulang dan melaporkan ketidakpastian. Pengamatan dapat dilakukan pada kondisi ruang tanpa menggunakan cairan panas atau sumber panas berbahaya.
+
+STUDI KASUS 5 — MEMAHAMI KEBISINGAN DAN AKUSTIK RUANG
+
+Bunyi di ruang tertutup dipantulkan oleh dinding, lantai, dan langit-langit. Permukaan keras cenderung memantulkan bunyi lebih kuat daripada bahan penyerap tertentu. Pantulan yang datang terlambat dapat membuat suara memanjang dan mengurangi kejelasan percakapan.
+
+Desain akustik mempertimbangkan volume ruang, bentuk, bahan permukaan, posisi sumber, dan posisi pendengar. Mengurangi kebisingan tidak selalu berarti membuat ruang sepenuhnya kedap; kebutuhan ruang kelas, studio, dan aula berbeda. Pengukuran tingkat bunyi perlu menggunakan alat yang sesuai dan memperhatikan standar kesehatan lingkungan.
+
+STUDI KASUS 6 — MENILAI KINERJA PANEL SURYA
+
+Panel surya mengubah sebagian energi radiasi Matahari menjadi energi listrik. Keluaran dipengaruhi intensitas cahaya, sudut datang, suhu panel, bayangan, dan karakter sistem elektronik. Nilai daya puncak pada lembar spesifikasi diperoleh pada kondisi uji tertentu dan tidak selalu sama dengan daya aktual setiap saat.
+
+Penilaian sistem perlu melihat energi yang dihasilkan sepanjang waktu, bukan hanya daya sesaat. Inverter, kabel, penyimpanan, dan pola pemakaian ikut memengaruhi energi yang dapat digunakan. Analisis yang adil menyebut lokasi, periode pengamatan, kondisi cuaca, dan metode pencatatan.
+
+STUDI KASUS 7 — MEMBACA SENSOR SUHU
+
+Sensor suhu mengubah perubahan sifat bahan menjadi sinyal yang dapat diukur. Sensor berbeda memiliki rentang, waktu respons, resolusi, dan ketidakpastian yang berbeda. Sensor yang ditempel pada permukaan mungkin menunjukkan suhu permukaan, bukan suhu udara atau suhu bagian dalam objek.
+
+Sebelum membandingkan dua sensor, pastikan keduanya dikalibrasi atau dibandingkan pada kondisi acuan yang sama. Beri waktu agar sensor mencapai kesetimbangan termal. Catat posisi sensor dan kondisi lingkungan. Jangan menganggap angka digital yang tampil adalah nilai benar tanpa batas ketidakpastian.
+
+STUDI KASUS 8 — MEMAHAMI PENGEREMAN KENDARAAN SECARA FISIKA
+
+Pengereman mengubah energi kinetik kendaraan menjadi bentuk energi lain, terutama energi termal pada sistem rem dan lingkungan. Jarak berhenti dipengaruhi kecepatan awal, kondisi permukaan, karakter ban, sistem pengereman, dan waktu respons manusia. Dalam model ideal tertentu, jarak pengereman meningkat sebanding dengan kuadrat kecepatan awal jika perlambatan konstan.
+
+Model sederhana tidak mencakup seluruh faktor keselamatan jalan. Kondisi nyata berubah karena cuaca, kemiringan, kondisi kendaraan, dan reaksi pengemudi. Pembahasan ini bertujuan memahami prinsip fisika, bukan mendorong pengujian pengereman di jalan. Keselamatan berkendara mengikuti aturan lalu lintas dan petunjuk pihak berwenang.
+
+STUDI KASUS 9 — MEMAHAMI CITRA MEDIS
+
+Citra medis dibentuk melalui interaksi energi dengan jaringan tubuh dan pemrosesan sinyal. Pada radiografi, penyerapan sinar-X yang berbeda menghasilkan kontras. Pada ultrasonografi, pantulan gelombang suara menghasilkan informasi batas jaringan. Pada MRI, respons inti atom dalam medan magnet digunakan untuk membentuk citra.
+
+Setiap teknik memiliki karakter kontras dan keterbatasan berbeda. Citra dapat dipengaruhi gerakan, posisi, parameter alat, dan karakter jaringan. Interpretasi klinis dilakukan oleh tenaga profesional; pembaca umum tidak sebaiknya membuat diagnosis hanya dari penjelasan fisika atau satu gambar.
+
+STUDI KASUS 10 — MEMERIKSA KLAIM VIRAL TENTANG FISIKA
+
+Klaim viral dapat menyatakan sebuah alat menghasilkan energi tanpa masukan, sebuah bahan menghilangkan gravitasi, atau sebuah perangkat memiliki efisiensi melebihi batas termodinamika. Cara memeriksanya adalah meminta definisi sistem, mengidentifikasi energi masuk dan keluar, memeriksa alat ukur, serta mencari pengujian independen.
+
+Jika klaim menyatakan energi keluaran lebih besar daripada energi masukan, tanyakan apakah ada sumber energi yang tidak dihitung atau batas sistem yang berubah. Pengukuran perlu dilakukan dalam kondisi terkontrol dan diulang. Video singkat bukan bukti yang cukup untuk menilai klaim ilmiah.
+
+LAMPIRAN B — RANGKUMAN CARA BERPIKIR FISIKA
+
+1. Mulai dari pertanyaan yang jelas. Pertanyaan yang terlalu luas sulit diuji.
+2. Tentukan sistem. Batas sistem menentukan gaya, energi, dan momentum yang dianalisis.
+3. Buat representasi. Diagram, grafik, dan tabel membantu menyederhanakan situasi.
+4. Nyatakan asumsi. Model ideal hanya berlaku pada kondisi yang disebutkan.
+5. Pilih prinsip. Gunakan hukum yang menjawab pertanyaan, bukan sekadar rumus yang paling dikenal.
+6. Jaga satuan. Konversi sebelum menghitung dan periksa dimensi hasil.
+7. Periksa arah. Besaran vektor memerlukan tanda dan arah yang konsisten.
+8. Evaluasi ketidakpastian. Hasil ukur bukan angka mutlak tanpa batas.
+9. Bandingkan dengan bukti. Prediksi harus diuji terhadap pengamatan atau data yang sesuai.
+10. Komunikasikan keterbatasan. Kesimpulan harus sebanding dengan mutu data.
+
+LAMPIRAN C — KUNCI KONSEP SINGKAT
+
+- Resultan gaya nol berarti percepatan nol, bukan selalu benda diam.
+- Perpindahan bergantung pada posisi awal dan akhir; jarak bergantung pada lintasan.
+- Kecepatan memiliki arah; kelajuan tidak.
+- Usaha bergantung pada komponen gaya searah perpindahan.
+- Energi total sistem tertutup tetap, tetapi energi mekanik dapat berubah bentuk.
+- Momentum total kekal jika resultan gaya eksternal dapat diabaikan.
+- Torsi bergantung pada gaya dan lengan momen.
+- Tekanan fluida diam bertambah dengan kedalaman.
+- Kalor adalah energi yang berpindah karena perbedaan suhu.
+- Gelombang membawa energi dan informasi.
+- Tegangan adalah energi per satuan muatan; arus adalah laju aliran muatan.
+- Induksi elektromagnetik membutuhkan perubahan fluks magnet.
+- Model ilmiah adalah alat penalaran, bukan salinan sempurna kenyataan.
+- Ketidakpastian harus dilaporkan, bukan disembunyikan.
+- Keselamatan dan etika merupakan bagian dari praktik sains.
+
+LAMPIRAN D — CATATAN UNTUK PENGAJAR DAN PEMBACA MANDIRI
+
+Materi dapat dipilih sesuai tingkat pembelajaran. Bab awal dapat digunakan sebagai pengantar mekanika dan pengukuran. Bab fluida, kalor, gelombang, listrik, dan magnet dapat dipelajari setelah konsep matematika dasarnya dikuasai. Topik kuantum, relativitas, partikel, dan metode numerik merupakan pengayaan yang dapat dibaca secara konseptual terlebih dahulu.
+
+Pengajar dapat memilih latihan yang sesuai dengan tujuan dan kemampuan kelas. Tidak semua bab harus diselesaikan dalam satu semester. Pembelajaran yang baik memberi waktu untuk diskusi, representasi grafik, pemecahan masalah, dan refleksi. Kegiatan eksperimen harus mengikuti fasilitas dan prosedur keselamatan sekolah.
+
+Pembaca mandiri dapat membuat jadwal bertahap, mengulang bab yang sulit, dan menyelesaikan soal tanpa melihat pembahasan. Jika jawaban berbeda, periksa langkah dan asumsi terlebih dahulu. Mintalah bantuan guru atau sumber tepercaya ketika menemukan perbedaan konsep yang tidak dapat diselesaikan sendiri.
+
+LAMPIRAN E — PERNYATAAN KELENGKAPAN NASKAH
+
+Naskah ini mencakup pengantar, susunan materi, pembahasan konsep, contoh hitungan, latihan bertingkat, kunci pembahasan, glosarium, rangkuman rumus, studi kasus, serta panduan belajar. Kelengkapan naskah tidak berarti setiap topik fisika telah dibahas setara buku universitas khusus. Buku ini dirancang sebagai pengantar luas yang memberi landasan untuk belajar lebih lanjut.
+
+Penyuntingan akhir tetap perlu memeriksa konsistensi notasi, ejaan, akurasi persamaan, keterbacaan, lisensi ilustrasi, dan kecocokan tingkat pembaca. Setiap ilustrasi tambahan harus dibuat sendiri atau digunakan dengan izin yang sesuai. Rujukan perlu diverifikasi kembali sebelum publikasi.
+
 Akhir buku.

@@ -19,11 +19,11 @@ CONTOH KAJIAN
 Robot penyortir barang menggunakan sensor untuk mengenali karakteristik objek, pengendali untuk memilih jalur, dan aktuator untuk memindahkan objek. Setiap bagian harus bekerja sesuai urutan.
 
 LANGKAH PRAKTIK
-1. Gambarkan alur sensor, pengendali, dan aktuator.
-2. Tentukan masukan dan keluaran sistem.
-3. Jelaskan tujuan yang ingin dicapai.
-4. Tandai kemungkinan gangguan.
-5. Tulis cara menguji fungsi sistem secara aman.
+1. Rancang diagram robot penyiram tanaman yang hanya bekerja ketika kelembapan tanah berada di bawah ambang yang ditentukan.
+2. Tentukan sensor, pengendali, aktuator, dan sumber energi yang diperlukan.
+3. Jelaskan bagaimana sistem mencegah penyiraman berulang ketika sensor gagal.
+4. Tentukan kondisi berhenti yang aman.
+5. Buat tiga skenario uji tanpa harus merakit perangkat.
 
 RANGKUMAN BAB
 - Robot adalah sistem yang menggabungkan sensor, pengendali, dan aktuator.
@@ -61,11 +61,11 @@ PROYEK AKHIR
 Susun proyek mini yang menghubungkan sedikitnya tiga bab. Tentukan pertanyaan, tujuan, batasan, sumber informasi, metode, hasil yang diharapkan, dan cara mengevaluasi hasil. Proyek tidak harus mahal atau rumit. Utamakan ketelitian, keselamatan, dan kejujuran dalam mencatat temuan.
 
 EVALUASI AKHIR
-1. Buat peta konsep yang menghubungkan istilah dari seluruh bab.
-2. Pilih satu kasus dan jelaskan dengan menggunakan minimal tiga konsep.
-3. Bedakan fakta, interpretasi, dan rekomendasi.
-4. Jelaskan keterbatasan data dan kemungkinan penjelasan alternatif.
-5. Tulis refleksi tentang hal yang paling berubah dari pemahaman awalmu.
+1. Bandingkan kendali terbuka dan kendali tertutup pada robot pengikut garis.
+2. Jelaskan pengaruh resolusi sensor terhadap keputusan pengendali.
+3. Uraikan mengapa aktuator harus dipilih berdasarkan beban dan kebutuhan gerak.
+4. Buat rencana pengujian yang mencatat masukan, keluaran yang diharapkan, hasil aktual, dan kondisi gagal.
+5. Sebutkan dua risiko keselamatan dan cara menguranginya.
 
 PEDOMAN PENILAIAN
 Penilaian dapat menggunakan empat kriteria: ketepatan konsep, kualitas bukti, kejelasan penalaran, dan kemampuan menyampaikan keterbatasan. Jawaban tidak harus sama persis dengan contoh selama argumennya konsisten dan didukung informasi yang tepat.

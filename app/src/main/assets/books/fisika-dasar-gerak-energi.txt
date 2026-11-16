@@ -156,3 +156,25 @@ GLOSARIUM
 Momentum: hasil kali massa dan kecepatan.
 Impuls: perubahan momentum akibat gaya selama waktu tertentu.
 Tumbukan lenting: tumbukan yang mempertahankan energi kinetik total ideal.
+BAB LANJUTAN — USAHA, ENERGI, DAN DAYA
+Usaha dalam fisika terjadi ketika gaya menyebabkan perpindahan. Untuk gaya konstan yang searah perpindahan, usaha sama dengan hasil kali gaya dan perpindahan. Jika arah gaya membentuk sudut, hanya komponen gaya yang sejajar perpindahan yang berkontribusi pada usaha.
+Energi kinetik berkaitan dengan gerak dan bergantung pada massa serta kuadrat kecepatan. Energi potensial gravitasi dekat permukaan Bumi bergantung pada massa, percepatan gravitasi, dan ketinggian terhadap titik acuan. Titik acuan dapat dipilih sesuai kebutuhan, tetapi harus digunakan secara konsisten.
+Daya adalah laju melakukan usaha atau memindahkan energi. Dua mesin dapat melakukan usaha yang sama, tetapi mesin dengan daya lebih besar menyelesaikannya dalam waktu lebih singkat. Dalam kehidupan sehari-hari, daya listrik menunjukkan laju penggunaan atau pemindahan energi.
+Contoh: sebuah benda diangkat ke rak. Energi potensialnya bertambah. Jika benda kemudian jatuh, energi potensial berubah menjadi energi kinetik. Dalam sistem nyata, hambatan udara dan gesekan mengubah sebagian energi mekanik menjadi energi termal dan bunyi.
+
+BAB LANJUTAN — MOMENTUM DAN IMPULS
+Momentum adalah besaran vektor yang merupakan hasil kali massa dan kecepatan. Impuls berkaitan dengan perubahan momentum dan dapat dipahami sebagai gaya rata-rata dikalikan selang waktu. Untuk perubahan momentum yang sama, memperpanjang waktu interaksi dapat mengurangi besar gaya rata-rata.
+Hukum kekekalan momentum berlaku pada sistem yang resultan gaya eksternalnya dapat diabaikan. Pada tumbukan, momentum total sistem tetap, tetapi energi kinetik tidak selalu tetap. Tumbukan elastis mempertahankan energi kinetik total, sedangkan tumbukan tidak elastis mengubah sebagian energi kinetik menjadi bentuk lain.
+Sabuk pengaman, zona remuk kendaraan, dan bantalan pelindung dirancang untuk mengelola perubahan momentum dan waktu tumbukan. Penjelasan ini merupakan konsep fisika, bukan petunjuk untuk melakukan uji tabrak atau eksperimen berbahaya.
+Latihan: jelaskan perbedaan momentum dan energi kinetik. Mengapa dua benda dengan momentum sama dapat memiliki energi kinetik berbeda? Gunakan hubungan massa dan kecepatan untuk menjelaskan.
+
+BAB LANJUTAN — GERAK MELINGKAR DAN GRAVITASI
+Gerak melingkar memiliki arah kecepatan yang terus berubah meskipun kelajuannya tetap. Perubahan arah ini memerlukan percepatan menuju pusat lintasan, yang disebut percepatan sentripetal. Gaya sentripetal bukan jenis gaya baru; ia adalah resultan gaya yang mengarah ke pusat.
+Gravitasi merupakan interaksi tarik-menarik antara benda bermassa. Hukum gravitasi universal menjelaskan bahwa besar gaya berbanding lurus dengan hasil kali massa dan berbanding terbalik dengan kuadrat jarak antara pusat massa. Hukum ini membantu menjelaskan orbit planet dan satelit.
+Satelit yang mengorbit terus-menerus berada dalam keadaan jatuh bebas mengelilingi Bumi. Satelit tidak perlu terus-menerus menyalakan mesin untuk mempertahankan orbit ideal, tetapi orbit nyata dapat berubah akibat hambatan atmosfer tipis dan gangguan gravitasi lain.
+Gunakan model dengan menyatakan asumsi. Model gravitasi sederhana dapat mengabaikan bentuk tidak bulat sempurna, atmosfer, dan pengaruh benda lain; hasilnya merupakan pendekatan, bukan gambaran lengkap.
+
+BAB LANJUTAN — GETARAN, GELOMBANG, DAN ENERGI
+Getaran adalah gerak bolak-balik di sekitar titik keseimbangan. Periode menyatakan waktu untuk satu siklus, sedangkan frekuensi menyatakan jumlah siklus per satuan waktu. Keduanya berhubungan sebagai kebalikan satu sama lain.
+Gelombang memindahkan energi tanpa memindahkan materi secara keseluruhan dari satu tempat ke tempat lain. Gelombang mekanik memerlukan medium, sedangkan gelombang elektromagnetik dapat merambat di ruang hampa. Panjang gelombang, frekuensi, dan cepat rambat saling berhubungan.
+Pemantulan, pembiasan, difraksi, dan interferensi merupakan gejala penting gelombang. Contoh penerapannya meliputi kacamata, serat optik, alat musik, komunikasi radio, dan pencitraan medis. Penerapan harus dibahas sesuai batas keselamatan dan konteks profesional.

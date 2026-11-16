@@ -527,3 +527,84 @@ Jelaskan mengapa diskon 20% lalu kenaikan 20% tidak otomatis mengembalikan harga
 
 RANGKUMAN PENGAYAAN
 Matematika membantu mengambil keputusan jika angka dibaca bersama konteks, satuan, asumsi, dan ketidakpastian. Perhitungan yang benar bukan hanya menghasilkan angka, tetapi juga menjelaskan arti dan batas kesimpulannya.
+
+BAGIAN PENGAYAAN MATERI
+BAB LANJUTAN 1 — RASIO, PROPORSI, DAN SKALA
+
+Rasio membandingkan dua besaran melalui pembagian. Jika sebuah kelas memiliki 12 siswa laki-laki dan 18 siswa perempuan, rasio laki-laki terhadap perempuan adalah 12:18 atau 2:3 setelah disederhanakan. Urutan penting: rasio 2:3 tidak sama dengan 3:2. Rasio juga perlu menyebutkan besaran yang dibandingkan agar tidak menimbulkan salah tafsir.
+
+Proporsi menyatakan kesetaraan dua rasio. Jika 3 buku berharga Rp45.000 dan harga per buku sama, 5 buku diperkirakan berharga Rp75.000. Penalaran proporsional hanya tepat ketika hubungan memang sebanding. Biaya pengiriman, diskon bertingkat, dan tarif minimum dapat membuat hubungan harga tidak linear.
+
+Skala pada peta dan gambar teknik menggunakan rasio antara ukuran gambar dan ukuran sebenarnya. Skala 1:100 berarti satu satuan pada gambar mewakili seratus satuan yang sama pada objek sebenarnya. Pastikan satuan disamakan sebelum menghitung. Kesalahan umum terjadi ketika sentimeter pada peta dibandingkan langsung dengan kilometer di lapangan tanpa konversi.
+
+BAB LANJUTAN 2 — PERSENTASE DAN PERUBAHAN BERTAHAP
+
+Persentase menyatakan bagian per seratus. Diskon 20 persen dari harga Rp150.000 adalah Rp30.000 sehingga harga setelah diskon menjadi Rp120.000. Jika ada diskon kedua, perhitungannya sering diterapkan pada harga setelah diskon pertama, bukan selalu dijumlahkan begitu saja. Diskon 20 persen lalu 10 persen menghasilkan harga akhir 0,8 × 0,9 = 0,72 dari harga awal, yaitu potongan total 28 persen.
+
+Kenaikan dan penurunan persentase harus memperhatikan nilai awal. Jika nilai naik 25 persen lalu turun 20 persen, hasil akhirnya kembali ke nilai awal karena faktor pengalinya 1,25 × 0,8 = 1. Namun jika naik 20 persen lalu turun 20 persen, hasil akhirnya menjadi 0,96 dari nilai awal, atau turun 4 persen. Persentase yang sama tidak selalu saling menghapus karena dasar perhitungannya berubah.
+
+BAB LANJUTAN 3 — FUNGSI DAN GRAFIK
+
+Fungsi memasangkan setiap masukan dalam domain dengan tepat satu keluaran. Dalam fungsi linear y = mx + c, nilai m menunjukkan gradien atau laju perubahan tetap, sedangkan c adalah titik potong sumbu y. Jika m positif, grafik naik dari kiri ke kanan; jika negatif, grafik turun. Gradien dapat dihitung dari perubahan y dibagi perubahan x.
+
+Fungsi kuadrat memiliki bentuk umum y = ax² + bx + c dengan a tidak sama dengan nol. Grafiknya berbentuk parabola. Jika a positif, parabola terbuka ke atas; jika a negatif, terbuka ke bawah. Titik puncak menunjukkan nilai minimum atau maksimum. Fungsi kuadrat dapat digunakan untuk memodelkan lintasan ideal, luas, atau hubungan lain, tetapi model harus sesuai dengan asumsi situasi nyata.
+
+Grafik membantu melihat pola, tetapi skala sumbu dapat memengaruhi kesan visual. Grafik yang sumbunya dimulai dari angka bukan nol dapat membuat perubahan kecil tampak sangat besar. Selalu periksa label, satuan, rentang, dan sumber data sebelum menarik kesimpulan.
+
+BAB LANJUTAN 4 — PELUANG DAN PENGAMBILAN KEPUTUSAN
+
+Peluang suatu kejadian berada antara 0 dan 1. Nilai 0 berarti mustahil dalam model yang digunakan, sedangkan 1 berarti pasti. Untuk hasil yang sama mungkin, peluang dapat dihitung dengan membagi banyak hasil yang diinginkan dengan banyak seluruh hasil. Jika sebuah dadu seimbang dilempar, peluang memperoleh angka genap adalah 3/6 atau 1/2.
+
+Kejadian saling lepas tidak dapat terjadi bersamaan dalam satu percobaan. Peluang gabungan dua kejadian saling lepas adalah jumlah peluang masing-masing. Untuk kejadian yang tidak saling lepas, penjumlahan sederhana dapat menghitung bagian irisan dua kali sehingga perlu dikurangi peluang irisan. Pemahaman ini penting ketika membaca statistik dan risiko.
+
+Peluang tidak menjamin hasil pada satu kejadian. Jika peluang hujan 70 persen, bukan berarti hujan pasti turun selama 70 persen waktu hari itu. Angka tersebut menyatakan tingkat kemungkinan berdasarkan model dan informasi tertentu. Evaluasi ramalan perlu dilakukan pada banyak kesempatan, bukan hanya satu kejadian.
+
+BAB LANJUTAN 5 — GEOMETRI DAN PENGUKURAN
+
+Keliling mengukur panjang batas suatu bangun, sedangkan luas mengukur besar daerah di dalamnya. Persegi panjang dengan panjang 8 cm dan lebar 5 cm memiliki keliling 2(8+5) = 26 cm dan luas 8×5 = 40 cm². Satuan luas menggunakan satuan kuadrat karena dua dimensi dikalikan.
+
+Volume mengukur ruang tiga dimensi. Balok dengan panjang 8 cm, lebar 5 cm, dan tinggi 3 cm memiliki volume 120 cm³. Perhatikan perbedaan satuan cm, cm², dan cm³. Kesalahan satuan dapat membuat jawaban numerik terlihat masuk akal tetapi memiliki makna fisik yang keliru.
+
+Teorema Pythagoras berlaku pada segitiga siku-siku: kuadrat sisi miring sama dengan jumlah kuadrat kedua sisi lainnya. Jika sisi tegak 3 dan 4 satuan, sisi miringnya 5 satuan. Hubungan ini digunakan dalam pengukuran jarak, konstruksi, navigasi, dan berbagai persoalan geometri.
+
+BAB LANJUTAN 6 — MEMERIKSA JAWABAN MATEMATIKA
+
+Sebelum menghitung, perkirakan rentang jawaban. Jika membeli tiga barang yang masing-masing berharga sekitar Rp20.000, totalnya seharusnya mendekati Rp60.000, bukan Rp600.000. Perkiraan kasar dapat mendeteksi kesalahan letak koma atau salah memasukkan angka.
+
+Periksa satuan pada setiap langkah. Dalam kecepatan, jarak dibagi waktu; jika jarak dinyatakan kilometer dan waktu jam, hasilnya km/jam. Dalam luas, satuan panjang harus konsisten. Konversi 1 meter menjadi 100 sentimeter, tetapi 1 meter persegi sama dengan 10.000 sentimeter persegi karena kedua dimensi ikut dikonversi.
+
+Cara lain adalah memasukkan hasil ke persamaan awal. Jika menyelesaikan 2x + 3 = 11 dan memperoleh x = 4, substitusi menghasilkan 2(4)+3 = 11 sehingga sesuai. Pemeriksaan ini sederhana tetapi efektif untuk menemukan kesalahan aljabar.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Sederhanakan rasio 15:25.
+2. Harga Rp200.000 didiskon 15 persen. Berapa harga akhirnya?
+3. Nilai naik 10 persen lalu turun 10 persen. Berapa perubahan relatif dari nilai awal?
+4. Pada fungsi y = 3x - 2, berapa gradien dan titik potong sumbu y?
+5. Dadu seimbang dilempar sekali. Berapa peluang memperoleh angka lebih dari 4?
+6. Hitung luas persegi panjang 12 cm × 7 cm.
+7. Segitiga siku-siku memiliki sisi tegak 6 dan 8 satuan. Berapa sisi miringnya?
+8. Mengapa satuan perlu diperiksa dalam perhitungan?
+
+KUNCI PEMBAHASAN
+1. 3:5.
+2. Diskon Rp30.000; harga akhir Rp170.000.
+3. Faktor perubahan 1,1 × 0,9 = 0,99, sehingga turun 1 persen.
+4. Gradien 3 dan titik potong sumbu y -2.
+5. Angka 5 atau 6, jadi 2/6 = 1/3.
+6. 84 cm².
+7. √(6²+8²) = √100 = 10 satuan.
+8. Satuan menentukan makna besaran dan membantu mendeteksi kesalahan konversi atau operasi.
+
+GLOSARIUM TAMBAHAN
+Rasio: perbandingan dua besaran melalui pembagian.
+Proporsi: kesetaraan antara dua rasio.
+Skala: perbandingan ukuran gambar dengan ukuran sebenarnya.
+Persentase: bagian per seratus.
+Gradien: ukuran perubahan keluaran terhadap perubahan masukan pada grafik.
+Domain: himpunan nilai masukan yang diperbolehkan.
+Range: himpunan nilai keluaran yang dihasilkan.
+Peluang: ukuran kemungkinan suatu kejadian.
+Keliling: panjang batas bangun datar.
+Luas: ukuran daerah dua dimensi.
+Volume: ukuran ruang tiga dimensi.
+Estimasi: perkiraan nilai yang digunakan untuk memeriksa kewajaran hasil.

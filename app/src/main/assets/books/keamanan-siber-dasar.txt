@@ -93,11 +93,11 @@ LATIHAN BAB
 5. Tulis satu pertanyaan lanjutan yang dapat diteliti.
 
 EVALUASI AKHIR
-1. Pilih tiga konsep dari buku ini dan jelaskan hubungan di antara ketiganya.
-2. Buat satu studi kasus sederhana yang sesuai dengan topik buku. Jelaskan masalah, informasi yang diperlukan, pilihan tindakan, dan alasan memilih solusi.
-3. Temukan satu klaim populer terkait topik ini. Periksa sumber, bukti, tanggal, dan konteksnya. Tulis kesimpulan yang tidak melebihi bukti.
-4. Susun rencana penerapan selama satu minggu. Tentukan kegiatan, indikator keberhasilan, dan cara mengevaluasinya.
-5. Refleksikan bagian yang paling sulit dipahami serta strategi belajar yang akan digunakan untuk memperbaikinya.
+1. Petakan aset informasi dan ancaman yang relevan pada satu layanan digital.
+2. Jelaskan mengapa kata sandi kuat perlu disertai autentikasi tambahan dan pembaruan perangkat lunak.
+3. Tinjau contoh pesan mencurigakan dan sebutkan tanda yang perlu diperiksa tanpa membuka tautan.
+4. Susun aturan perlindungan data yang menghormati privasi pengguna.
+5. Jelaskan langkah pelaporan yang aman ketika menemukan dugaan insiden.
 
 PEMBAHASAN DAN ARAH JAWABAN
 Pembahasan Keamanan Siber Dasar harus memperlihatkan alur berpikir: konsep yang dipilih, alasan penerapannya, bukti pendukung, dan batas kesimpulan. Pada soal kasus, nilai kecocokan solusi dengan kondisi. Pada soal verifikasi, periksa asal informasi dan konteksnya.

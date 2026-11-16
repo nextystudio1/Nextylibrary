@@ -210,3 +210,39 @@ LATIHAN AKHIR
 4. Bandingkan dua sumber informasi dengan kriteria otoritas dan bukti.
 5. Buat daftar langkah preservasi untuk arsip digital.
 6. Tentukan tiga indikator dampak program literasi informasi.
+BAB 12. PENGEMBANGAN KOLEKSI BERBASIS KEBUTUHAN
+
+Pengembangan koleksi merupakan proses berulang untuk memastikan bahan perpustakaan relevan, beragam, mutakhir, dapat diakses, dan sesuai misi lembaga. Keputusan tidak cukup didasarkan pada jumlah judul atau popularitas. Perpustakaan perlu memahami kebutuhan belajar, riset, pekerjaan, budaya, dan rekreasi informasi komunitas yang dilayaninya.
+
+Analisis kebutuhan dapat dilakukan melalui survei, wawancara, diskusi kelompok, analisis pertanyaan referensi, statistik peminjaman, serta konsultasi dengan pendidik atau komunitas. Setiap metode memiliki keterbatasan. Statistik penggunaan menunjukkan bahan yang dipakai, tetapi tidak mengungkap kebutuhan yang belum terpenuhi. Survei dapat menjangkau banyak orang, tetapi jawaban mungkin dipengaruhi pertanyaan dan tingkat partisipasi.
+
+Kebijakan koleksi perlu menetapkan cakupan subjek, tingkat kedalaman, bahasa, format, kriteria kualitas, kebutuhan aksesibilitas, serta prinsip penyiangan. Kriteria evaluasi dapat meliputi akurasi, otoritas, relevansi, kemutakhiran, keterwakilan perspektif, kualitas penyajian, dan status hak. Kebijakan tertulis membuat keputusan konsisten serta dapat dijelaskan kepada publik.
+
+Penyiangan bukan tindakan membuang bahan secara sembarangan. Bahan yang rusak, usang, tidak relevan, atau jarang digunakan dapat ditinjau, tetapi frekuensi penggunaan tidak boleh menjadi satu-satunya alasan. Karya lokal, arsip sejarah, atau bahan yang mewakili kelompok kecil mungkin tetap penting. Keputusan perlu memperhatikan nilai jangka panjang dan kebijakan pelestarian.
+
+BAB 13. KLASIFIKASI, TAJUK SUBJEK, DAN TEMU KEMBALI
+
+Klasifikasi mengelompokkan bahan berdasarkan sistem yang dipilih agar koleksi dapat ditata dan dijelajahi. Tajuk subjek menyediakan istilah terkontrol untuk mewakili topik. Keduanya berkaitan, tetapi tidak identik: nomor klasifikasi membantu penempatan, sedangkan tajuk subjek membantu pencarian berdasarkan konsep.
+
+Istilah yang dipakai pengguna sehari-hari dapat berbeda dari istilah profesional. Sistem temu kembali yang baik menyediakan rujukan silang, sinonim, istilah lebih luas, dan istilah lebih khusus. Misalnya, pencarian dengan istilah umum dapat diarahkan ke istilah baku tanpa menghilangkan kata yang digunakan masyarakat. Perubahan istilah perlu didokumentasikan agar catatan lama tetap dapat ditemukan.
+
+Kualitas metadata dipengaruhi konsistensi, kelengkapan, ketepatan, dan interoperabilitas. Catatan minimal perlu menjelaskan judul, pencipta, subjek, tanggal, format, bahasa, dan identitas unik. Untuk sumber digital, informasi lisensi, versi, ukuran berkas, dan lokasi penyimpanan dapat diperlukan. Metadata yang terlalu rumit juga dapat membebani staf; skema harus seimbang dengan kemampuan pemeliharaan.
+
+BAB 14. LAYANAN DIGITAL DAN DESAIN PENGALAMAN
+
+Layanan digital mencakup katalog daring, repositori, basis data, layanan referensi jarak jauh, dan bahan pembelajaran. Keberhasilan layanan tidak ditentukan oleh kecanggihan fitur semata. Pengguna harus dapat memahami cara mencari, membuka, menyimpan, dan menggunakan bahan dengan perangkat serta koneksi yang beragam.
+
+Desain antarmuka perlu menyediakan navigasi konsisten, istilah yang jelas, pencarian yang toleran terhadap variasi ejaan, filter yang berguna, serta pesan kesalahan yang membantu. Informasi hak akses harus terlihat sebelum pengguna menghabiskan waktu membuka bahan. Teks dapat diperbesar, kontras perlu memadai, dan konten gambar penting sebaiknya memiliki deskripsi alternatif.
+
+Privasi pengguna perpustakaan perlu dijaga. Riwayat pencarian dan bacaan dapat mengungkap minat atau keadaan pribadi. Pengumpulan data analitik sebaiknya dibatasi, dijelaskan, dan disimpan hanya selama diperlukan. Personalisasi tidak boleh menjadi alasan untuk mengumpulkan informasi yang tidak relevan dengan layanan.
+
+BAB 15. PRESERVASI, KURASI, DAN KONTINUITAS DIGITAL
+
+Preservasi digital bertujuan menjaga agar objek tetap dapat ditemukan, dibuka, dipahami, dan dipercaya dalam jangka panjang. Salinan cadangan penting, tetapi bukan satu-satunya unsur. Pengelola juga perlu menjaga metadata, dokumentasi format, hak akses, pemeriksaan integritas, dan rencana pemulihan.
+
+Pemeriksaan integritas menggunakan nilai pemeriksa berkas atau checksum untuk mengetahui apakah berkas berubah. Pemeriksaan berkala dapat menemukan kerusakan sebelum menyebar ke semua salinan. Strategi penyimpanan sebaiknya memisahkan salinan berdasarkan lokasi atau risiko kegagalan dan menguji pemulihan secara berkala.
+
+Migrasi format dapat diperlukan ketika perangkat lunak lama tidak lagi tersedia. Proses migrasi perlu mencatat format sumber, format tujuan, alat yang digunakan, tanggal, dan hasil pemeriksaan. Untuk bahan yang memiliki tata letak, audio, video, atau interaksi, pemeriksaan tidak cukup hanya memastikan berkas dapat dibuka; fungsi dan makna juga harus dipertahankan sejauh mungkin.
+
+PROYEK PENGELOLAAN KOLEKSI
+Rancang kebijakan koleksi mini untuk perpustakaan pendidikan. Tetapkan komunitas pengguna, lima bidang prioritas, kriteria seleksi, prosedur penyiangan, standar metadata, kebijakan privasi, dan rencana preservasi. Uji rancangan pada sepuluh contoh bahan dengan format berbeda. Catat keputusan dan alasan agar dapat diaudit.

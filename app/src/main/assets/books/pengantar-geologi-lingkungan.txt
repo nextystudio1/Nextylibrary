@@ -16,17 +16,24 @@ PENDALAMAN
 Pada BUMI SEBAGAI SISTEM, pisahkan hasil pengamatan dari penjelasan. Tentukan faktor yang diukur, kondisi yang memengaruhinya, serta bukti yang mendukung kesimpulan. Jelaskan batas model atau metode yang digunakan dan data tambahan yang diperlukan.
 
 AKTIVITAS PENGAMATAN
-Pilih kasus sederhana yang aman dan dapat diamati. Tuliskan pertanyaan, konteks, informasi yang tersedia, dan informasi yang belum diketahui. Gunakan konsep bab untuk mengelompokkan temuan. Jika ada angka, cantumkan satuan dan cara memperolehnya. Jika ada pendapat, catat siapa yang menyampaikan dan dalam konteks apa.
+Amati peta geologi atau laporan kebencanaan dari lembaga resmi untuk satu wilayah. Catat jenis batuan atau bentuklahan yang disebutkan, proses alam yang berpengaruh, serta penggunaan lahan di sekitarnya. Bedakan informasi hasil pengukuran dari interpretasi. Jelaskan data tambahan yang dibutuhkan sebelum menyimpulkan tingkat kerawanan.
 
 LATIHAN
-1. Jelaskan konsep utama tanpa menyalin kalimat buku.
+1. Jelaskan perbedaan pelapukan, erosi, dan gerakan massa.
+2. Bagaimana struktur geologi dapat memengaruhi aliran air tanah?
+3. Hubungkan penggunaan lahan dengan proses geomorfologi di suatu wilayah.
+4. Jelaskan mengapa peta geologi perlu dibaca bersama data curah hujan dan kemiringan lereng.
+5. Sebutkan keterbatasan yang harus diperhatikan saat menilai risiko lingkungan geologi.
 2. Buat diagram atau tabel untuk menunjukkan hubungan antarbagian.
 3. Berikan satu contoh dan satu contoh pembanding.
 4. Identifikasi asumsi yang mungkin memengaruhi kesimpulan.
 5. Susun satu pertanyaan yang membutuhkan bukti tambahan.
 
 RANGKUMAN
-- Pahami istilah dan batas penggunaannya.
+- Batuan, struktur, air, dan bentuklahan membentuk sistem lingkungan yang saling terkait.
+- Proses geologi berlangsung dalam rentang waktu dan skala yang berbeda.
+- Aktivitas manusia dapat mengubah kestabilan tanah dan pola aliran air.
+- Penilaian risiko memerlukan data lokasi, proses, paparan, dan kerentanan.
 - Hubungkan konsep dengan bukti yang relevan.
 - Perhatikan konteks serta kemungkinan penjelasan lain.
 - Sampaikan kesimpulan secara proporsional.
@@ -52,17 +59,21 @@ BAB 6. GEOLOGI UNTUK KEPUTUSAN BERKELANJUTAN
 Data geologi digunakan dalam perencanaan infrastruktur, konservasi air, pengelolaan limbah, dan pengurangan risiko bencana. Peta, sampel, pengukuran, dan model harus memiliki metadata serta batas ketelitian. Keputusan yang baik menggabungkan ilmu kebumian dengan pengetahuan lokal dan aturan keselamatan.
 
 TUGAS TERPADU
-Buat laporan mini yang menghubungkan sekurang-kurangnya tiga bab. Tentukan tujuan, pertanyaan, metode, sumber informasi, dan batasan. Sajikan temuan secara runtut. Bedakan data yang diamati dari tafsiran. Jika informasi belum cukup, nyatakan dengan jujur dan jelaskan apa yang perlu dikumpulkan berikutnya.
+Buat telaah lingkungan geologi untuk satu kawasan berdasarkan peta dan dokumen publik. Uraikan kondisi geologi, proses yang mungkin terjadi, aktivitas manusia, serta potensi dampaknya. Buat peta konsep hubungan faktor-faktor tersebut. Pisahkan fakta sumber dari interpretasi dan jangan membuat klaim risiko tanpa data yang memadai.
 
 EVALUASI AKHIR
-1. Tuliskan lima konsep inti dan definisinya.
+1. Terangkan bagaimana proses geologi membentuk bentang alam.
+2. Bandingkan bahaya geologi dengan risiko bagi masyarakat.
+3. Jelaskan peran air tanah dalam kestabilan lingkungan.
+4. Analisis pengaruh perubahan penggunaan lahan terhadap proses erosi.
+5. Susun rekomendasi pengelolaan kawasan yang mempertimbangkan bukti dan ketidakpastian.
 2. Jelaskan hubungan antara tiga konsep berbeda.
 3. Analisis satu contoh dengan menggunakan bukti.
 4. Bandingkan dua pendekatan atau penjelasan.
 5. Buat kesimpulan dan nyatakan keterbatasannya.
 
 PEDOMAN PENILAIAN
-Periksa ketepatan istilah, kualitas bukti, alur penalaran, relevansi contoh, dan kejelasan bahasa. Jawaban dapat bervariasi jika alasan dan buktinya kuat. Hindari klaim mutlak ketika data hanya mendukung kesimpulan terbatas.
+Nilai ketepatan istilah geologi, kemampuan menghubungkan proses dengan kondisi lokasi, penggunaan peta atau data yang sesuai, serta kehati-hatian dalam menyatakan risiko. Rekomendasi harus realistis dan menyebutkan keterbatasan informasi.
 
 GLOSARIUM
 Mineral: Zat padat alami dengan komposisi dan struktur tertentu.

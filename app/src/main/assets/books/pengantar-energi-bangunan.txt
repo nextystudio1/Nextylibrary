@@ -16,7 +16,7 @@ PENDALAMAN
 Pada BANGUNAN DAN ENERGI, mulai dengan membuat daftar pemakaian energi: pencahayaan, pendinginan, kipas, dan peralatan. Catat waktu penggunaan serta kondisi ruang. Bandingkan kebutuhan penghuni dengan pola pemakaian sebelum mengusulkan penghematan.
 
 CONTOH PENERAPAN
-Contoh kajian: pilih kasus sederhana yang berkaitan dengan BANGUNAN DAN ENERGI dalam bidang Pengantar Energi Bangunan. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
+Bandingkan kenyamanan termal dua ruang kelas berdasarkan orientasi jendela, ventilasi, paparan matahari, dan penggunaan lampu atau kipas. Catat kondisi pada waktu yang sama dan jangan mengubah instalasi listrik. Usulkan perbaikan pasif seperti peneduh atau pengaturan ventilasi, lalu jelaskan faktor yang perlu diuji sebelum menyimpulkan penghematan energi.
 
 LATIHAN
 1. Jelaskan tiga faktor desain yang memengaruhi kebutuhan energi bangunan.

@@ -407,3 +407,55 @@ Amati satu ruang hijau atau lingkungan perairan dari sumber yang aman. Buat peta
 
 GLOSARIUM TAMBAHAN
 Daya dukung: kapasitas lingkungan menopang populasi. Fragmentasi: pemecahan habitat menjadi bagian terpisah. In situ: konservasi di habitat alami. Ex situ: konservasi di luar habitat alami.
+
+BAB PENGAYAAN — JARING-JARING MAKANAN DAN ALIRAN ENERGI
+
+Ekosistem terdiri atas organisme dan lingkungan fisik yang saling berinteraksi. Produsen seperti tumbuhan menangkap energi cahaya melalui fotosintesis. Konsumen memperoleh energi dengan memakan organisme lain, sedangkan pengurai memecah sisa organisme dan mengembalikan unsur hara ke lingkungan. Energi mengalir melalui tingkat trofik, sedangkan materi bersiklus.
+
+Rantai makanan menunjukkan satu jalur perpindahan energi, sedangkan jaring-jaring makanan menggambarkan banyak hubungan makan yang saling terhubung. Hilangnya satu spesies dapat memengaruhi beberapa spesies lain, terutama jika spesies tersebut memiliki peran penting. Dampak perubahan tidak selalu sederhana karena organisme dapat memiliki sumber makanan alternatif atau beradaptasi.
+
+Energi yang tersedia umumnya berkurang pada setiap perpindahan tingkat trofik karena sebagian digunakan untuk metabolisme dan terlepas sebagai panas. Karena itu, piramida energi biasanya menyempit pada tingkat trofik yang lebih tinggi. Piramida jumlah atau biomassa dapat memiliki bentuk berbeda bergantung ekosistem dan organisme.
+
+BAB PENGAYAAN — SIKLUS AIR, KARBON, DAN NITROGEN
+
+Siklus air melibatkan penguapan, transpirasi, kondensasi, presipitasi, infiltrasi, dan aliran permukaan. Vegetasi memengaruhi penyerapan air dan penguapan, sedangkan perubahan penggunaan lahan dapat mengubah limpasan dan risiko banjir. Air tanah menjadi cadangan penting, tetapi pengambilan berlebihan dapat menurunkan muka air tanah dan memicu intrusi air laut di wilayah pesisir.
+
+Siklus karbon menghubungkan atmosfer, organisme, tanah, laut, dan batuan. Fotosintesis menyerap karbon dioksida, sedangkan respirasi, pembusukan, dan pembakaran melepaskan karbon. Pembakaran bahan bakar fosil memindahkan karbon yang tersimpan lama ke atmosfer dalam waktu relatif singkat sehingga meningkatkan konsentrasi gas rumah kaca.
+
+Siklus nitrogen melibatkan fiksasi nitrogen, nitrifikasi, asimilasi, amonifikasi, dan denitrifikasi. Mikroorganisme memiliki peran penting dalam mengubah nitrogen ke bentuk yang dapat digunakan organisme. Penggunaan pupuk berlebihan dapat menyebabkan limpasan nutrien ke perairan dan memicu eutrofikasi.
+
+BAB PENGAYAAN — SPESIES INVASIF DAN KESEIMBANGAN EKOSISTEM
+
+Spesies invasif adalah organisme yang diperkenalkan di luar wilayah asalnya dan dapat menyebar serta menimbulkan dampak ekologis, ekonomi, atau kesehatan. Tidak semua spesies asing menjadi invasif. Dampaknya bergantung pada kemampuan menyebar, interaksi dengan spesies lokal, dan kondisi ekosistem.
+
+Pengendalian spesies invasif perlu didasarkan pada identifikasi yang benar dan penilaian risiko. Pemindahan organisme dari satu tempat ke tempat lain tanpa pertimbangan dapat menyebarkan hama atau penyakit. Pencegahan sering lebih efektif daripada penanganan setelah spesies menyebar luas.
+
+BAB PENGAYAAN — KONSERVASI DAN RESTORASI
+
+Konservasi melindungi keanekaragaman hayati melalui kawasan lindung, pengelolaan habitat, penegakan hukum, pendidikan, dan keterlibatan masyarakat. Konservasi tidak hanya melindungi spesies yang terkenal, tetapi juga proses ekologi, variasi genetik, dan hubungan antarorganisme.
+
+Restorasi ekosistem berupaya memulihkan fungsi wilayah yang rusak. Penanaman pohon saja tidak selalu cukup; pemilihan spesies, kondisi tanah, aliran air, penyebab kerusakan, dan keterlibatan masyarakat perlu diperhatikan. Keberhasilan restorasi dinilai dari pemulihan fungsi dan keanekaragaman, bukan hanya jumlah bibit yang ditanam.
+
+LATIHAN
+1. Apa perbedaan aliran energi dan siklus materi?
+2. Mengapa energi berkurang pada tingkat trofik lebih tinggi?
+3. Sebutkan tiga proses dalam siklus air.
+4. Bagaimana pupuk berlebihan dapat memengaruhi perairan?
+5. Mengapa tidak semua spesies asing disebut invasif?
+6. Mengapa restorasi tidak cukup hanya menghitung jumlah pohon?
+
+KUNCI PEMBAHASAN
+1. Energi mengalir satu arah dan sebagian terlepas sebagai panas; materi berputar melalui siklus.
+2. Organisme menggunakan energi untuk metabolisme dan aktivitas, sehingga tidak seluruhnya diteruskan.
+3. Penguapan, kondensasi, presipitasi, infiltrasi, transpirasi, atau aliran permukaan.
+4. Nutrien berlebih dapat memicu pertumbuhan alga dan menurunkan oksigen saat biomassa terurai.
+5. Karena dampak dan kemampuan menyebar berbeda; hanya sebagian yang menimbulkan gangguan besar.
+6. Fungsi ekosistem, komposisi spesies, tanah, dan aliran air juga harus pulih.
+
+GLOSARIUM TAMBAHAN
+Tingkat trofik: posisi organisme dalam aliran energi makanan.
+Produsen: organisme yang membuat bahan organik dari sumber energi.
+Pengurai: organisme yang memecah materi organik.
+Eutrofikasi: pengayaan nutrien perairan yang dapat memicu pertumbuhan alga berlebihan.
+Spesies invasif: spesies yang menyebar di luar wilayah asal dan menimbulkan dampak.
+Restorasi ekosistem: upaya memulihkan struktur dan fungsi ekosistem.

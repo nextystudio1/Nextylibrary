@@ -194,22 +194,22 @@ DAFTAR RUJUKAN UNTUK PENDALAMAN
 Gunakan Pedoman Gizi Seimbang Kementerian Kesehatan RI, informasi keamanan pangan BPOM, bahan edukasi WHO dan FAO, serta buku biologi manusia dan ilmu gizi dari penerbit akademik. Periksa pembaruan pedoman dan jangan mengganti konsultasi kesehatan dengan bacaan umum.
 
 PENDALAMAN: GIZI, PANGAN, DAN KESEHATAN MASYARAKAT
-BAB 7 — MEMAHAMI LABEL PANGAN
+BAB 9 — MEMAHAMI LABEL PANGAN
 Label pangan memuat informasi seperti daftar bahan, takaran saji, energi, dan kandungan zat gizi. Takaran saji bukan rekomendasi jumlah yang harus dimakan; jumlah yang dikonsumsi bisa lebih atau kurang. Bandingkan produk dengan satuan yang sama dan periksa jumlah sajian dalam kemasan.
 Daftar bahan umumnya disusun menurut jumlah yang digunakan. Klaim seperti “alami” atau “rendah” perlu dibaca bersama definisi aturan yang berlaku. Label membantu membuat pilihan, tetapi tidak menggantikan pola makan yang beragam.
-BAB 8 — PENCERNAAN DAN PENYERAPAN
+BAB 10 — PENCERNAAN DAN PENYERAPAN
 Pencernaan mekanis memecah makanan menjadi bagian lebih kecil, sedangkan pencernaan kimiawi menggunakan enzim. Penyerapan sebagian besar zat gizi berlangsung melalui permukaan usus halus yang memiliki struktur memperluas area kontak.
 Karbohidrat diuraikan menjadi gula sederhana, protein menjadi asam amino dan peptida kecil, sedangkan lemak diemulsikan dan diproses agar dapat diserap. Air dan elektrolit juga diserap sepanjang saluran pencernaan.
-BAB 9 — MIKRONUTRIEN DAN FUNGSINYA
+BAB 11 — MIKRONUTRIEN DAN FUNGSINYA
 Vitamin dan mineral dibutuhkan dalam jumlah relatif kecil tetapi memiliki fungsi penting. Zat besi berperan dalam pengangkutan oksigen, yodium diperlukan untuk hormon tiroid, kalsium mendukung tulang dan fungsi sel, sedangkan vitamin A berperan dalam penglihatan dan fungsi jaringan.
 Kebutuhan berbeda menurut usia, tahap kehidupan, pola makan, dan kondisi kesehatan. Suplemen bukan pengganti makanan beragam dan penggunaan dosis tinggi dapat berisiko. Untuk kebutuhan khusus, konsultasikan dengan tenaga kesehatan.
-BAB 10 — SERAT, AIR, DAN KESEHATAN PENCERNAAN
+BAB 12 — SERAT, AIR, DAN KESEHATAN PENCERNAAN
 Serat pangan terdapat pada sayur, buah, kacang-kacangan, dan biji-bijian. Sebagian serat membantu keteraturan buang air besar, sementara serat yang difermentasi mikrobiota usus menghasilkan senyawa yang dapat mendukung kesehatan usus.
 Kebutuhan cairan dipengaruhi cuaca, aktivitas, makanan, dan kondisi tubuh. Air putih merupakan pilihan utama untuk banyak situasi sehari-hari. Rasa haus, warna urine, dan kondisi lingkungan dapat menjadi petunjuk umum, tetapi tidak menggantikan saran medis pada kondisi khusus.
-BAB 11 — KEAMANAN PANGAN
+BAB 13 — KEAMANAN PANGAN
 Keamanan pangan mencakup kebersihan, pemisahan bahan mentah dan matang, pemasakan yang memadai, serta penyimpanan pada suhu yang sesuai. Kontaminasi silang dapat terjadi melalui tangan, talenan, pisau, dan permukaan dapur.
 Periksa kebersihan, tanggal kedaluwarsa, kondisi kemasan, serta cara penyimpanan. Makanan yang tampak dan berbau normal belum tentu bebas dari mikroorganisme penyebab penyakit.
-BAB 12 — POLA MAKAN, BUDAYA, DAN LINGKUNGAN
+BAB 14 — POLA MAKAN, BUDAYA, DAN LINGKUNGAN
 Pola makan dibentuk oleh budaya, ketersediaan pangan, ekonomi, keluarga, dan lingkungan. Edukasi gizi sebaiknya menghormati keragaman makanan lokal dan tidak memberi stigma pada bentuk tubuh atau pilihan keluarga.
 Sistem pangan juga memiliki dampak lingkungan melalui penggunaan lahan, air, energi, transportasi, dan limbah. Mengurangi pemborosan pangan serta memilih bahan lokal yang sesuai ketersediaan dapat menjadi bagian dari pendekatan berkelanjutan.
 LATIHAN
@@ -372,13 +372,13 @@ Baca label dua produk pangan kemasan. Bandingkan ukuran saji, energi, gula, natr
 RANGKUMAN
 Gizi berkaitan dengan kebutuhan individu, kualitas pangan, dan kebiasaan jangka panjang. Keberagaman, keamanan, serta informasi label membantu membuat pilihan yang lebih baik.
 
-BAB 9 — PENCERNAAN DAN PENYERAPAN ZAT GIZI
+BAB 15 — PENCERNAAN DAN PENYERAPAN ZAT GIZI
 
 Sistem pencernaan mengubah makanan menjadi komponen yang dapat diserap dan digunakan tubuh. Proses dimulai di mulut melalui pengunyahan dan pencampuran dengan air liur. Makanan bergerak melalui kerongkongan menuju lambung, tempat makanan diaduk dan bercampur dengan cairan pencernaan. Di usus halus, enzim membantu memecah karbohidrat, protein, dan lemak menjadi bentuk yang lebih sederhana. Permukaan usus halus memiliki struktur yang memperluas area penyerapan.
 
 Hasil pencernaan diserap melalui dinding usus dan diedarkan melalui darah atau sistem limfa. Usus besar menyerap sebagian air dan membantu membentuk feses. Mikrobiota usus merupakan komunitas mikroorganisme yang hidup di saluran pencernaan. Pola makan beragam, termasuk sumber serat, dapat mendukung lingkungan usus yang sehat. Respons tubuh tetap berbeda antarindividu.
 
-BAB 10 — KARBOHIDRAT, PROTEIN, DAN LEMAK DALAM POLA MAKAN
+BAB 16 — KARBOHIDRAT, PROTEIN, DAN LEMAK DALAM POLA MAKAN
 
 Karbohidrat merupakan sumber energi penting. Sumbernya antara lain nasi, jagung, kentang, singkong, roti, buah, dan beberapa jenis kacang-kacangan. Serat merupakan bagian pangan nabati yang tidak dicerna sepenuhnya dan berperan dalam kesehatan pencernaan. Memilih variasi sumber karbohidrat membantu memperkaya asupan zat gizi.
 
@@ -386,19 +386,19 @@ Protein tersusun dari asam amino dan diperlukan untuk membangun serta memperbaik
 
 Lemak membantu penyerapan vitamin tertentu, menjadi bagian membran sel, dan menyediakan energi. Jenis serta sumber lemak perlu diperhatikan. Ikan, kacang, biji-bijian, dan minyak nabati dapat menjadi bagian pola makan seimbang. Lemak tidak perlu dihilangkan; tubuh membutuhkannya dalam jumlah dan jenis yang sesuai.
 
-BAB 11 — MIKRONUTRIEN DAN AIR
+BAB 17 — MIKRONUTRIEN DAN AIR
 
 Vitamin dan mineral dibutuhkan dalam jumlah relatif kecil, tetapi memiliki fungsi penting. Zat besi membantu pembentukan hemoglobin, kalsium berperan dalam tulang dan fungsi otot, yodium diperlukan untuk pembentukan hormon tiroid, sedangkan vitamin A mendukung penglihatan dan fungsi kekebalan. Sumber pangan beragam membantu menyediakan mikronutrien.
 
 Air membantu mengatur suhu, mengangkut zat, dan mendukung reaksi tubuh. Kebutuhan cairan berubah menurut cuaca, aktivitas, makanan, dan kondisi kesehatan. Rasa haus dapat menjadi salah satu petunjuk, tetapi kebutuhan individu tidak selalu sama. Minuman berpemanis sebaiknya tidak menjadi satu-satunya sumber cairan sehari-hari.
 
-BAB 12 — KEAMANAN PANGAN
+BAB 18 — KEAMANAN PANGAN
 
 Keamanan pangan dimulai dari kebersihan tangan, alat, dan permukaan. Bahan mentah perlu dipisahkan dari makanan siap santap untuk mengurangi kontaminasi silang. Makanan perlu dimasak dan disimpan dengan cara yang sesuai. Perhatikan tanggal kedaluwarsa, kondisi kemasan, bau, perubahan warna, dan petunjuk penyimpanan. Jika ragu terhadap keamanan makanan, jangan mencicipinya untuk menguji.
 
 Alergi makanan berbeda dari intoleransi. Alergi melibatkan respons sistem kekebalan dan dapat menimbulkan reaksi serius. Intoleransi biasanya berkaitan dengan kesulitan mencerna komponen tertentu. Orang yang mengalami gejala berulang perlu berkonsultasi dengan tenaga kesehatan, bukan menghapus banyak kelompok pangan berdasarkan dugaan sendiri.
 
-BAB 13 — MEMAHAMI LABEL DAN INFORMASI GIZI
+BAB 19 — MEMAHAMI LABEL DAN INFORMASI GIZI
 
 Label pangan dapat mencantumkan ukuran saji, jumlah sajian per kemasan, energi, zat gizi, komposisi, tanggal, dan informasi produsen. Angka pada label sering merujuk pada satu ukuran saji, bukan seluruh kemasan. Jika satu kemasan berisi tiga sajian dan seseorang mengonsumsi semuanya, jumlah zat gizi perlu dihitung sesuai jumlah sajian.
 
@@ -468,7 +468,7 @@ Ukuran saji: jumlah pangan acuan pada informasi label.
 Alergen: bahan yang dapat memicu reaksi alergi pada orang tertentu.
 Kontaminasi silang: perpindahan mikroorganisme atau bahan berbahaya antar makanan atau permukaan.
 Metabolisme: rangkaian reaksi kimia dalam tubuh.
-BAB 13 — LABEL PANGAN DAN INFORMASI GIZI
+BAB 20 — LABEL PANGAN DAN INFORMASI GIZI
 
 Label pangan membantu konsumen memahami komposisi dan karakteristik produk. Informasi yang dapat dicermati meliputi daftar bahan, ukuran sajian, energi, protein, lemak, karbohidrat, gula, natrium, tanggal kedaluwarsa, serta petunjuk penyimpanan. Daftar bahan umumnya disusun menurut urutan jumlah dari yang terbanyak ke yang lebih sedikit sesuai ketentuan yang berlaku.
 
@@ -476,7 +476,7 @@ Ukuran sajian penting karena angka pada tabel gizi mengacu pada jumlah tertentu.
 
 Klaim seperti “sumber serat”, “rendah gula”, atau “tinggi protein” memiliki ketentuan tertentu dan sebaiknya tidak dinilai hanya dari tulisan besar di kemasan. Periksa tabel gizi dan daftar bahan. Produk dengan satu keunggulan tidak otomatis memenuhi seluruh kebutuhan pola makan.
 
-BAB 14 — KEBUTUHAN CAIRAN DAN KESEIMBANGAN TUBUH
+BAB 21 — KEBUTUHAN CAIRAN DAN KESEIMBANGAN TUBUH
 
 Air berperan dalam pengaturan suhu, transportasi zat, pencernaan, dan berbagai reaksi tubuh. Kebutuhan cairan berbeda antarindividu karena dipengaruhi usia, aktivitas, suhu lingkungan, kondisi tubuh, serta makanan yang dikonsumsi. Tidak ada satu angka yang tepat untuk semua orang dalam segala keadaan.
 
@@ -484,7 +484,7 @@ Rasa haus dapat menjadi petunjuk untuk minum, tetapi kebutuhan dapat meningkat s
 
 Keseimbangan cairan melibatkan elektrolit seperti natrium dan kalium. Tubuh mengatur keseimbangan tersebut melalui ginjal dan mekanisme hormonal. Gangguan cairan yang berat memerlukan perhatian medis. Untuk kegiatan olahraga atau kondisi khusus, ikuti arahan tenaga kesehatan atau pendidik olahraga yang kompeten.
 
-BAB 15 — MAKANAN, BUDAYA, DAN LINGKUNGAN
+BAB 22 — MAKANAN, BUDAYA, DAN LINGKUNGAN
 
 Pola makan terbentuk dari ketersediaan pangan, kebiasaan keluarga, budaya, ekonomi, iklan, dan lingkungan. Edukasi gizi yang baik menghormati keragaman makanan dan tidak merendahkan budaya tertentu. Bahan pangan lokal dapat menjadi bagian dari pola makan seimbang apabila dipilih dan diolah dengan memperhatikan kebutuhan gizi serta keamanan pangan.
 
@@ -492,7 +492,7 @@ Sistem pangan juga memiliki dampak lingkungan. Produksi, pengolahan, pengemasan,
 
 Keberlanjutan tidak berarti semua orang harus mengonsumsi menu yang sama. Pilihan dipengaruhi akses, harga, kondisi kesehatan, dan ketersediaan. Pendekatan yang realistis adalah memperbaiki kebiasaan secara bertahap tanpa rasa bersalah dan tanpa aturan ekstrem.
 
-BAB 16 — MEMAHAMI INFORMASI GIZI DI INTERNET
+BAB 23 — MEMAHAMI INFORMASI GIZI DI INTERNET
 
 Informasi gizi di internet memiliki kualitas beragam. Waspadai klaim yang menjanjikan hasil cepat, menyatakan satu bahan sebagai solusi semua masalah, atau menganjurkan menghindari kelompok makanan tanpa alasan medis yang jelas. Testimoni pribadi tidak setara dengan penelitian yang dirancang dengan baik.
 

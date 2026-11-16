@@ -1582,3 +1582,153 @@ SMART: prinsip penyusunan tujuan yang spesifik, terukur, relevan, dapat dicapai,
 
 CATATAN EDITOR BAGIAN IX
 Studi kasus dalam bagian ini bersifat konseptual dan tidak menggambarkan proyek tertentu. Angka, kapasitas, dan keputusan investasi harus ditentukan dari data lokasi yang sahih. Semua pekerjaan teknis berisiko harus dilakukan oleh tenaga kompeten sesuai peraturan.
+
+
+
+BAGIAN X — KETAHANAN SISTEM, INOVASI, DAN PEMBELAJARAN LANJUTAN
+
+BAB 84 — PENGELOLAAN PERMINTAAN DAN RESPONS BEBAN
+
+84.1 Permintaan bukan sesuatu yang selalu tetap
+Kebutuhan listrik berubah mengikuti waktu, cuaca, aktivitas ekonomi, kalender sekolah, dan kebiasaan pengguna. Karena itu, sistem energi tidak cukup dirancang berdasarkan konsumsi tahunan. Profil per jam dan periode beban puncak membantu memahami kapan kapasitas paling dibutuhkan. Perubahan permintaan dapat lebih cepat daripada pembangunan pembangkit atau jaringan, sehingga pengelolaan sisi permintaan menjadi bagian penting perencanaan.
+
+84.2 Respons beban
+Respons beban adalah perubahan pola konsumsi sebagai tanggapan terhadap sinyal, kesepakatan, atau kebutuhan sistem. Bentuknya dapat berupa pemindahan waktu penggunaan, pengurangan sementara beban yang tidak penting, atau pengaturan otomatis oleh sistem yang disetujui pengguna. Program harus menjelaskan kapan perubahan dilakukan, berapa lama, kompensasi bila ada, dan perlindungan bagi pengguna yang membutuhkan layanan berkelanjutan.
+
+84.3 Pemindahan waktu dan pengurangan energi
+Memindahkan kegiatan dari jam puncak tidak selalu mengurangi total energi, tetapi dapat membantu mengurangi tekanan pada jaringan. Mengurangi energi berarti menurunkan konsumsi total untuk layanan yang sama atau lebih baik. Kedua tujuan ini berbeda dan harus memiliki indikator masing-masing. Contohnya, pengisian kendaraan dapat dijadwalkan di luar jam puncak, sedangkan efisiensi motor dapat mengurangi energi total proses.
+
+84.4 Batas etika dan layanan penting
+Program respons beban tidak boleh memutus layanan kritis tanpa pengaturan keselamatan. Fasilitas kesehatan, sistem air, komunikasi darurat, dan kebutuhan khusus harus memiliki perlindungan yang sesuai. Persetujuan pengguna, transparansi data, keamanan sistem digital, dan mekanisme pengaduan menjadi syarat tata kelola.
+
+BAB 85 — PERAMALAN KEBUTUHAN ENERGI
+
+85.1 Tujuan peramalan
+Peramalan memperkirakan kebutuhan energi pada periode mendatang untuk membantu perencanaan kapasitas, anggaran, jaringan, dan operasi. Peramalan bukan kepastian. Hasilnya dipengaruhi kualitas data historis, perubahan perilaku, pertumbuhan penduduk, teknologi, harga, dan kebijakan.
+
+85.2 Metode sederhana
+Metode sederhana dapat menggunakan tren historis, rata-rata bergerak, atau hubungan dengan variabel aktivitas. Metode yang lebih kompleks dapat memasukkan cuaca, kalender, harga, dan pola penggunaan. Pilihan metode harus disesuaikan dengan ketersediaan data dan tujuan. Model rumit tidak otomatis lebih akurat jika data masukan buruk.
+
+85.3 Memisahkan pelatihan dan pengujian
+Dalam evaluasi model, data historis dapat dibagi menjadi bagian untuk membangun model dan bagian untuk menguji kinerja. Pengujian harus meniru penggunaan pada masa depan, misalnya melatih model dengan periode lebih lama dan menguji pada periode setelahnya. Memakai informasi masa depan secara tidak sengaja dapat membuat hasil evaluasi tampak terlalu baik.
+
+85.4 Galat dan rentang prediksi
+Galat adalah selisih antara perkiraan dan hasil aktual. Ukuran galat perlu dipilih sesuai tujuan dan skala data. Selain satu angka perkiraan, rentang prediksi membantu menunjukkan ketidakpastian. Perencana dapat menyiapkan keputusan yang tetap memadai ketika kebutuhan lebih tinggi atau lebih rendah daripada perkiraan tengah.
+
+BAB 86 — PENYIMPANAN ENERGI DI LUAR BATERAI
+
+86.1 Ragam bentuk penyimpanan
+Penyimpanan energi tidak hanya menggunakan baterai elektrokimia. Bentuk lain dapat mencakup penyimpanan air melalui pemompaan, udara bertekanan, penyimpanan panas, roda gila, dan bahan bakar yang diproduksi untuk digunakan kemudian. Setiap teknologi memiliki skala, durasi, efisiensi, lokasi, biaya, serta kebutuhan infrastruktur yang berbeda.
+
+86.2 Penyimpanan panas
+Panas dapat disimpan dalam air, material padat, atau material perubahan fase. Penyimpanan panas dapat membantu menggeser waktu pemanasan atau pendinginan dan mengurangi kebutuhan daya pada jam tertentu. Kesesuaian ditentukan oleh temperatur, durasi penyimpanan, kehilangan panas, ruang, dan kebutuhan pengguna.
+
+86.3 Penyimpanan mekanis
+Penyimpanan mekanis mengubah energi listrik menjadi bentuk energi potensial atau kinetik, lalu mengubahnya kembali. Contohnya penyimpanan air yang dipompa ke tempat lebih tinggi. Kelayakan bergantung pada geografi, konstruksi, sumber air, dampak lingkungan, dan kebutuhan jaringan. Tidak semua wilayah memiliki kondisi yang sesuai.
+
+86.4 Memilih berdasarkan layanan
+Teknologi penyimpanan harus dibandingkan berdasarkan layanan yang diperlukan: respons cepat, durasi beberapa jam, cadangan jangka panjang, atau pengelolaan panas. Bandingkan daya, kapasitas energi, durasi, efisiensi putar-balik, umur, biaya, dan dampak. Menyebut kapasitas daya saja tidak menjelaskan berapa lama energi dapat disalurkan.
+
+BAB 87 — ADAPTASI IKLIM DAN KETAHANAN INFRASTRUKTUR ENERGI
+
+87.1 Bahaya iklim
+Infrastruktur energi dapat terpapar banjir, gelombang panas, badai, kekeringan, kebakaran lahan, kenaikan muka laut, dan longsor. Bahaya berbeda menurut wilayah dan berubah sepanjang waktu. Penilaian perlu menggunakan data iklim dan kondisi setempat, bukan hanya pengalaman masa lalu.
+
+87.2 Paparan dan kerentanan
+Risiko ditentukan oleh bahaya, paparan, dan kerentanan. Fasilitas di lokasi rawan belum tentu memiliki risiko sama jika desain, perlindungan, akses, dan kesiapan berbeda. Analisis perlu memetakan aset, jalur pasokan, pekerja, pengguna, dan masyarakat sekitar yang dapat terdampak.
+
+87.3 Desain tahan iklim
+Langkah adaptasi dapat mencakup pemilihan lokasi yang lebih aman, peninggian atau perlindungan peralatan sesuai kajian, drainase yang memadai, redundansi, persediaan suku cadang, dan rencana pemulihan. Keputusan teknis harus dibuat berdasarkan standar dan penilaian profesional. Adaptasi bukan berarti menghilangkan seluruh risiko.
+
+87.4 Rencana kesinambungan layanan
+Rencana kesinambungan menjelaskan layanan prioritas, jalur komunikasi, sumber cadangan, peran personel, dan prosedur pemulihan. Rencana perlu diuji melalui latihan yang aman. Setelah gangguan, evaluasi dilakukan untuk memperbaiki prosedur dan mengurangi kerentanan yang ditemukan.
+
+BAB 88 — EKONOMI SIRKULAR DALAM TEKNOLOGI ENERGI
+
+88.1 Dari pola ambil-pakai-buang ke sirkularitas
+Ekonomi sirkular berupaya menjaga nilai material dan produk selama mungkin melalui desain tahan lama, perawatan, perbaikan, penggunaan ulang, pemulihan komponen, dan daur ulang. Dalam teknologi energi, pendekatan ini dapat mengurangi limbah dan kebutuhan bahan baru, tetapi memerlukan sistem pengumpulan serta standar mutu.
+
+88.2 Desain yang mudah diperbaiki
+Produk yang menggunakan komponen modular, dokumentasi jelas, dan suku cadang tersedia dapat lebih mudah dirawat. Perbaikan harus dilakukan oleh pihak kompeten agar keselamatan dan garansi tetap terjaga. Produk yang disegel atau tidak didukung suku cadang dapat menimbulkan biaya akhir masa pakai lebih tinggi.
+
+88.3 Tanggung jawab produsen
+Skema tanggung jawab produsen dapat mendorong pengumpulan dan pengelolaan produk setelah masa pakai. Pelaksanaan memerlukan sistem pelacakan, fasilitas pengolahan, pembiayaan, dan aturan yang jelas. Konsumen perlu mendapat informasi mengenai cara mengembalikan produk yang sudah tidak digunakan.
+
+88.4 Batas daur ulang
+Daur ulang dapat memerlukan energi dan bahan tambahan. Kualitas material yang dipulihkan juga dapat berbeda. Karena itu, urutan yang sering lebih baik adalah menghindari pemborosan, memperpanjang umur, memperbaiki, menggunakan ulang dengan aman, lalu mendaur ulang ketika pilihan sebelumnya tidak sesuai.
+
+BAB 89 — PENDIDIKAN DAN LITERASI ENERGI
+
+89.1 Literasi energi
+Literasi energi adalah kemampuan memahami sumber, penggunaan, biaya, dampak, dan pilihan layanan energi. Literasi tidak hanya berarti mengetahui nama teknologi, tetapi juga mampu membaca satuan, memeriksa klaim, memahami tagihan, dan menilai informasi secara kritis.
+
+89.2 Pembelajaran berbasis masalah
+Pembelajaran dapat dimulai dari masalah nyata yang aman diamati, seperti pencahayaan ruang kelas, ventilasi, jadwal penggunaan perangkat, atau pengelolaan sampah organik. Peserta didik merumuskan pertanyaan, mengumpulkan data dengan izin, membuat analisis, dan menyampaikan temuan. Kegiatan tidak boleh melibatkan pembongkaran instalasi atau penggunaan peralatan berbahaya.
+
+89.3 Menghubungkan disiplin ilmu
+Energi menghubungkan fisika, kimia, biologi, matematika, geografi, ekonomi, sejarah, dan kewarganegaraan. Analisis teknologi membutuhkan sains; perencanaan membutuhkan matematika dan data; evaluasi dampak membutuhkan ilmu lingkungan dan sosial; keputusan publik membutuhkan komunikasi dan tata kelola.
+
+89.4 Menilai sumber informasi
+Sumber yang baik menjelaskan penulis atau lembaga, metode, tanggal, data, dan keterbatasan. Periksa apakah tulisan membedakan fakta, opini, dan promosi. Satu sumber tidak selalu cukup untuk klaim besar. Bandingkan publikasi ilmiah, data lembaga resmi, standar, dan laporan independen yang relevan.
+
+BAB 90 — MENYUSUN PORTOFOLIO PEMBELAJARAN ENERGI
+
+90.1 Isi portofolio
+Portofolio dapat berisi pertanyaan penelitian, catatan sumber, tabel data, grafik, perhitungan, refleksi, dan revisi kesimpulan. Setiap bagian perlu diberi tanggal dan konteks. Portofolio menunjukkan proses berpikir, bukan hanya hasil akhir.
+
+90.2 Menyimpan data dengan baik
+Gunakan nama berkas yang konsisten, satuan yang jelas, dan catatan sumber. Simpan data pribadi secara minimal dan dengan izin. Jika data dibagikan untuk pembelajaran, hilangkan identitas yang tidak diperlukan. Jangan mengunggah informasi sensitif ke ruang publik.
+
+90.3 Refleksi
+Refleksi yang baik menjawab apa yang dipelajari, asumsi apa yang berubah, kesalahan apa yang ditemukan, dan data apa yang masih dibutuhkan. Mengakui kesalahan perhitungan atau interpretasi merupakan bagian dari proses ilmiah.
+
+90.4 Mengembangkan pertanyaan baru
+Hasil kajian sering memunculkan pertanyaan lanjutan. Pertanyaan dapat dipersempit agar dapat dijawab dengan sumber daya yang tersedia. Penelitian yang baik tidak harus menjawab semuanya sekaligus; ruang lingkup yang jelas membantu menghasilkan temuan yang lebih dapat dipercaya.
+
+BAB 91 — PENUTUP: PRINSIP KEPUTUSAN ENERGI YANG BERTANGGUNG JAWAB
+
+Keputusan energi yang bertanggung jawab dimulai dengan memahami layanan yang dibutuhkan, bukan langsung memilih perangkat. Keputusan harus didasarkan pada data yang sesuai, batas sistem yang jelas, perbandingan alternatif yang adil, dan pengakuan atas ketidakpastian. Dampak sosial, lingkungan, kesehatan, dan ekonomi harus dipertimbangkan bersama kinerja teknis.
+
+Tidak ada teknologi yang bebas dari kebutuhan sumber daya, biaya, risiko, dan pemeliharaan. Pilihan yang tepat di satu tempat mungkin tidak tepat di tempat lain. Kondisi geografis, pola permintaan, kemampuan pengelola, jaringan, aturan, dan nilai masyarakat memengaruhi hasil.
+
+Pembaca dapat menerapkan prinsip sederhana: tanyakan layanan apa yang diperlukan; ukur kondisi awal; periksa kualitas sumber; gunakan satuan dengan benar; bandingkan alternatif yang setara; pertimbangkan siapa yang memperoleh manfaat dan menanggung risiko; dan evaluasi hasil setelah pelaksanaan. Prinsip ini berlaku untuk rumah, sekolah, usaha, kota, pulau, maupun sistem nasional.
+
+LATIHAN BAGIAN X
+
+1. Jelaskan perbedaan pemindahan waktu beban dan pengurangan konsumsi energi.
+2. Mengapa program respons beban memerlukan perlindungan untuk layanan kritis?
+3. Sebutkan tiga faktor yang dapat membuat peramalan kebutuhan energi meleset.
+4. Jelaskan mengapa data pengujian model harus meniru penggunaan pada masa depan.
+5. Bandingkan penyimpanan baterai dan penyimpanan panas berdasarkan layanan yang dapat diberikan.
+6. Mengapa risiko iklim perlu mempertimbangkan bahaya, paparan, dan kerentanan?
+7. Berikan contoh langkah adaptasi infrastruktur yang perlu dinilai secara profesional.
+8. Jelaskan urutan prioritas ekonomi sirkular untuk perangkat energi.
+9. Mengapa literasi energi mencakup kemampuan memeriksa klaim?
+10. Buat rancangan portofolio pembelajaran energi selama satu semester.
+
+PEMBAHASAN RINGKAS BAGIAN X
+
+1. Pemindahan waktu menggeser kapan energi digunakan; pengurangan konsumsi menurunkan jumlah energi untuk layanan tertentu.
+2. Karena beberapa layanan tidak boleh terganggu tanpa menimbulkan risiko bagi kesehatan, keselamatan, atau kepentingan publik.
+3. Perubahan populasi, aktivitas ekonomi, cuaca, harga, kebijakan, dan efisiensi perangkat dapat mengubah kebutuhan.
+4. Agar evaluasi tidak menggunakan informasi yang belum tersedia pada saat prediksi dibuat.
+5. Baterai menyimpan energi secara elektrokimia; penyimpanan panas menyimpan energi termal. Keduanya memiliki batas temperatur, durasi, efisiensi, dan penggunaan berbeda.
+6. Bahaya saja tidak menjelaskan risiko. Lokasi aset dan kemampuan menghadapi gangguan turut menentukan konsekuensi.
+7. Contohnya perlindungan banjir, drainase, pemilihan lokasi, dan redundansi; semua harus mengikuti kajian serta standar.
+8. Hindari pemborosan, perpanjang umur, perbaiki, gunakan ulang dengan aman, lalu daur ulang.
+9. Karena klaim dapat salah konteks, memakai satuan keliru, atau berasal dari promosi yang tidak menjelaskan metode.
+10. Portofolio dapat memuat pertanyaan, sumber, data, grafik, hitungan, laporan, presentasi, dan refleksi berkala.
+
+GLOSARIUM TAMBAHAN BAGIAN X
+Adaptasi iklim: penyesuaian untuk mengurangi risiko dan dampak perubahan iklim.
+Peramalan: perkiraan kondisi masa depan berdasarkan data dan metode.
+Respons beban: perubahan pola konsumsi sebagai tanggapan terhadap sinyal atau kebutuhan sistem.
+Sistem terpisah: sistem listrik yang tidak tersambung ke jaringan utama yang lebih luas.
+Penyimpanan termal: penyimpanan energi dalam bentuk panas atau dingin.
+Ekonomi sirkular: pendekatan menjaga nilai produk dan material melalui umur panjang, perbaikan, penggunaan ulang, dan daur ulang.
+Portofolio pembelajaran: kumpulan bukti proses dan hasil belajar.
+Rentang prediksi: kisaran nilai yang menggambarkan ketidakpastian perkiraan.
+Kesinambungan layanan: kemampuan mempertahankan atau memulihkan layanan penting saat terjadi gangguan.
+
+CATATAN EDITOR BAGIAN X
+Materi ini memperluas pembahasan pengelolaan permintaan, peramalan, penyimpanan alternatif, adaptasi iklim, ekonomi sirkular, dan literasi energi. Seluruh contoh bersifat pendidikan. Rancangan teknis, pengadaan, dan operasi sistem nyata membutuhkan kajian serta tenaga profesional.

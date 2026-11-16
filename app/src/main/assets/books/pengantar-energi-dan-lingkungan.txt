@@ -119,3 +119,30 @@ LATIHAN
 3. Mengapa transisi energi perlu memperhatikan pekerja?
 4. Apa kelemahan membandingkan konsumsi total dua bangunan?
 5. Susun indikator untuk mengevaluasi program hemat energi.
+
+BAB LANJUTAN: PEMBANGKITAN DAN EFISIENSI ENERGI
+
+Sistem energi mengubah sumber primer menjadi bentuk yang dapat digunakan. Pembangkit termal mengubah energi panas menjadi kerja mekanis lalu listrik, sedangkan panel surya fotovoltaik mengubah radiasi menjadi listrik secara langsung. Setiap teknologi memiliki efisiensi, profil keluaran, kebutuhan lahan, bahan, pemeliharaan, dan dampak lingkungan berbeda.
+
+Efisiensi perlu dinyatakan dengan batas sistem yang jelas. Efisiensi alat tidak sama dengan efisiensi seluruh rantai dari sumber hingga layanan akhir. Penghematan energi dapat berasal dari peralatan yang lebih efisien, pengurangan kehilangan, perbaikan bangunan, atau perubahan pola penggunaan tanpa mengurangi layanan penting.
+
+BAB LANJUTAN: JARINGAN LISTRIK DAN KEANDALAN
+
+Jaringan listrik menyeimbangkan produksi dan konsumsi secara terus-menerus. Pembangkit, transmisi, distribusi, penyimpanan, dan pengelolaan beban saling terkait. Gangguan pada satu bagian dapat memengaruhi wilayah lain. Keandalan dinilai melalui frekuensi, durasi, dan cakupan gangguan, bukan hanya jumlah kapasitas terpasang.
+
+Sumber energi yang berubah mengikuti cuaca memerlukan perencanaan sistem, prakiraan, fleksibilitas permintaan, interkoneksi, atau penyimpanan. Tidak ada satu solusi yang cocok untuk semua wilayah; pilihan bergantung pada profil beban, jaringan, sumber daya, biaya, dan dampak.
+
+BAB LANJUTAN: PENYIMPANAN ENERGI DAN BATERAI
+
+Penyimpanan energi membantu memindahkan ketersediaan energi dari satu waktu ke waktu lain. Baterai memiliki kapasitas energi, daya maksimum, efisiensi bolak-balik, umur siklus, dan batas suhu. Kapasitas energi menjawab berapa lama energi dapat disediakan, sedangkan daya menentukan seberapa cepat energi dapat dilepas.
+
+Penilaian baterai perlu memasukkan bahan baku, manufaktur, penggunaan, keselamatan, dan pengelolaan akhir masa pakai. Ikuti ketentuan produsen dan sistem pengelolaan resmi; jangan membongkar atau menguji baterai secara mandiri.
+
+BAB LANJUTAN: EMISI DAN ANALISIS DAUR HIDUP
+
+Dampak energi tidak berhenti pada emisi saat alat digunakan. Ekstraksi bahan, produksi, transportasi, konstruksi, operasi, dan akhir masa pakai dapat memberi beban lingkungan. Analisis daur hidup menetapkan tujuan, batas sistem, inventaris masukan-keluaran, penilaian dampak, dan interpretasi.
+
+Perbandingan teknologi harus menggunakan fungsi layanan yang setara. Membandingkan dua pembangkit tanpa menyamakan jumlah listrik, masa operasi, dan batas analisis dapat menyesatkan. Ketidakpastian data dan asumsi perlu dijelaskan.
+
+PROYEK ANALISIS ENERGI
+Pilih satu layanan, misalnya penerangan ruang belajar. Bandingkan dua pilihan berdasarkan energi, biaya sepanjang umur pakai, keandalan, kebutuhan perawatan, dan dampak daur hidup. Nyatakan asumsi dan jangan mengklaim satu teknologi selalu paling baik untuk semua kondisi.

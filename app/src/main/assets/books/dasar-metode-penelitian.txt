@@ -122,3 +122,38 @@ RANGKUMAN DAN LATIHAN AKHIR
 4. Jelaskan perbedaan rata-rata dan median menggunakan contoh data.
 5. Mengapa korelasi tidak cukup untuk menyimpulkan sebab-akibat?
 6. Buat contoh sistem kode sederhana untuk menganalisis tanggapan terbuka.
+
+BAB 14. VALIDITAS, RELIABILITAS, DAN KESALAHAN PENGUKURAN
+
+Pengukuran mengubah konsep menjadi indikator yang dapat diamati. Validitas menanyakan apakah instrumen benar-benar mengukur konsep yang dimaksud. Reliabilitas berkaitan dengan konsistensi hasil ketika pengukuran dilakukan dalam kondisi yang sebanding. Instrumen dapat konsisten tetapi tidak valid, misalnya timbangan yang selalu menunjukkan nilai terlalu tinggi.
+
+Kesalahan pengukuran dapat bersifat sistematis atau acak. Kesalahan sistematis menggeser hasil ke arah tertentu, sedangkan kesalahan acak menambah variasi. Uji coba instrumen, definisi operasional yang jelas, pelatihan pengumpul data, dan prosedur pencatatan membantu mengurangi masalah. Jangan mengubah pertanyaan di tengah pengumpulan data tanpa mendokumentasikan perubahan.
+
+BAB 15. ETIKA PENELITIAN DAN PERLINDUNGAN PARTISIPAN
+
+Penelitian yang melibatkan manusia perlu menghormati martabat, pilihan, privasi, dan keselamatan partisipan. Informasi tentang tujuan, prosedur, potensi ketidaknyamanan, penggunaan data, dan hak untuk berhenti harus disampaikan secara mudah dipahami. Persetujuan tidak boleh diperoleh melalui tekanan atau janji yang menyesatkan.
+
+Perlindungan tambahan diperlukan ketika penelitian melibatkan anak atau kelompok yang berada dalam hubungan kuasa. Izin orang tua atau wali dan persetujuan anak sesuai usia serta aturan yang berlaku mungkin diperlukan. Peneliti perlu mengumpulkan data seminimal mungkin, membatasi akses, mengamankan penyimpanan, dan menghapus data sesuai jadwal. Identitas tidak boleh dicantumkan hanya karena nama mudah diperoleh.
+
+BAB 16. MENYUSUN PROPOSAL DAN RENCANA ANALISIS
+
+Proposal penelitian menghubungkan masalah, pertanyaan, tinjauan pustaka, kerangka konsep, metode, rencana analisis, jadwal, sumber daya, dan etika. Setiap bagian harus saling konsisten. Pertanyaan sebab-akibat membutuhkan rancangan yang berbeda dari pertanyaan pengalaman atau deskripsi.
+
+Rencana analisis ditulis sebelum melihat hasil sejauh memungkinkan. Tentukan variabel utama, cara menangani data hilang, kriteria inklusi, dan metode yang sesuai. Hal ini mengurangi risiko memilih analisis hanya karena menghasilkan temuan yang diinginkan. Perubahan rencana tetap dapat dilakukan, tetapi harus dicatat dan dijelaskan.
+
+BAB 17. MENAFSIRKAN HASIL DAN MENULIS LAPORAN
+
+Hasil penelitian perlu dibedakan dari interpretasi dan rekomendasi. Sajikan ukuran efek atau pola yang relevan, bukan hanya menyebut signifikan atau tidak signifikan. Nilai p bukan ukuran besar manfaat dan tidak menunjukkan probabilitas hipotesis benar. Interval kepercayaan memberi gambaran ketidakpastian estimasi dalam kerangka metode yang digunakan.
+
+Laporan yang baik menjelaskan siapa atau apa yang diteliti, kapan data dikumpulkan, bagaimana variabel diukur, bagaimana analisis dilakukan, dan apa keterbatasannya. Hasil yang tidak sesuai dugaan tetap perlu dilaporkan. Jangan menghapus data atau mengubah hasil agar sesuai harapan.
+
+CONTOH RENCANA PENELITIAN
+
+Pertanyaan: apakah pengingat belajar berkaitan dengan keteraturan menyelesaikan tugas? Definisikan “pengingat” dan “keteraturan” secara operasional. Tentukan populasi, cara sampling, instrumen, potensi faktor perancu, dan perlindungan privasi. Jika hanya menggunakan survei potong lintang, simpulkan hubungan, bukan sebab-akibat.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Dapatkah instrumen reliabel tetapi tidak valid? Ya, hasilnya konsisten tetapi mengukur hal yang keliru.
+2. Mengapa rencana analisis sebaiknya disusun lebih awal? Untuk mengurangi keputusan analisis yang dipengaruhi hasil.
+3. Apakah nilai p kecil membuktikan efek besar? Tidak; besar efek dan ketidakpastiannya perlu dilihat terpisah.
+4. Mengapa data hilang perlu dilaporkan? Karena pola kehilangan dapat memengaruhi representasi dan kesimpulan.

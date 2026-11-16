@@ -478,3 +478,64 @@ Mengapa tahun data harus dicantumkan pada peta? Karena kondisi ruang berubah dan
 
 RANGKUMAN PENGAYAAN
 Geografi menghubungkan lokasi, lingkungan, manusia, dan jaringan. Peta serta data spasial harus dibaca bersama skala, waktu, definisi indikator, dan keterbatasan pengukuran.
+
+BAB PENGAYAAN — MEMBACA PETA DAN DATA KERUANGAN
+
+Peta adalah model permukaan Bumi yang disederhanakan. Setiap peta dibuat untuk tujuan tertentu sehingga tidak mungkin menampilkan seluruh informasi dengan tingkat detail yang sama. Peta topografi menekankan bentuk permukaan dan ketinggian, peta tematik menampilkan satu tema seperti kepadatan penduduk atau curah hujan, sedangkan peta administrasi menunjukkan batas wilayah pemerintahan.
+
+Skala peta menyatakan hubungan jarak pada peta dengan jarak sebenarnya. Skala angka 1:250.000 berarti satu satuan pada peta mewakili 250.000 satuan yang sama di lapangan. Jika jarak pada peta 4 cm, jarak sebenarnya adalah 1.000.000 cm atau 10 km. Perhitungan harus mempertahankan satuan yang konsisten dan memperhatikan bahwa jarak garis lurus tidak selalu sama dengan jarak perjalanan mengikuti jalan.
+
+Proyeksi peta adalah cara menggambarkan permukaan Bumi yang melengkung pada bidang datar. Setiap proyeksi menimbulkan distorsi pada bentuk, luas, jarak, atau arah. Peta dunia yang membuat wilayah dekat kutub tampak sangat besar tidak selalu cocok untuk membandingkan luas negara. Untuk membandingkan luas, gunakan proyeksi setara; untuk navigasi, sifat proyeksi yang berbeda mungkin lebih berguna.
+
+Koordinat geografis menggunakan lintang dan bujur. Lintang menunjukkan posisi utara atau selatan dari khatulistiwa, sedangkan bujur menunjukkan posisi timur atau barat dari meridian utama. Koordinat membantu menentukan lokasi, tetapi ketelitian bergantung pada sistem referensi, kualitas alat, dan cara penulisan. Saat membagikan lokasi, pertimbangkan privasi dan bagikan hanya kepada pihak yang tepat.
+
+BAB PENGAYAAN — PROSES PEMBENTUKAN BENTANG ALAM
+
+Bentang alam terbentuk melalui interaksi proses dari dalam dan luar Bumi. Tenaga endogen mencakup tektonisme, vulkanisme, dan gempa bumi. Tenaga eksogen mencakup pelapukan, erosi, pengangkutan, dan pengendapan. Bentuk lahan yang terlihat sekarang merupakan hasil proses yang berlangsung dengan kecepatan berbeda selama waktu yang panjang.
+
+Lempeng tektonik bergerak beberapa sentimeter per tahun, tetapi dalam jutaan tahun perpindahan tersebut dapat membentuk pegunungan, cekungan samudra, dan busur kepulauan. Indonesia berada pada kawasan pertemuan beberapa lempeng tektonik sehingga memiliki aktivitas gempa dan gunung api yang tinggi. Kondisi ini juga membentuk tanah vulkanik yang pada sejumlah wilayah mendukung pertanian, tetapi risiko bencana tetap harus dikelola.
+
+Sungai mengikis batuan di bagian hulu, mengangkut sedimen, dan mengendapkannya ketika energi aliran berkurang. Dataran banjir dan delta dapat menjadi wilayah subur, tetapi juga rentan banjir dan perubahan alur. Pengelolaan daerah aliran sungai memerlukan perhatian pada tutupan vegetasi, tata guna lahan, kualitas air, dan kegiatan di hulu maupun hilir.
+
+BAB PENGAYAAN — IKLIM, CUACA, DAN KERENTANAN WILAYAH
+
+Cuaca menggambarkan keadaan atmosfer dalam jangka pendek, sedangkan iklim merangkum pola statistik cuaca dalam periode panjang. Satu hari yang sangat dingin tidak membatalkan tren pemanasan jangka panjang. Untuk memahami iklim, peneliti menganalisis catatan suhu, curah hujan, angin, kelembapan, dan variabel lain selama periode yang memadai.
+
+Indonesia beriklim tropis dengan variasi musim dan curah hujan yang dipengaruhi monsun, topografi, kedekatan dengan laut, serta fenomena iklim skala besar. Musim hujan dan kemarau tidak selalu mulai pada tanggal yang sama di setiap daerah. Perencanaan pertanian, air bersih, dan mitigasi bencana perlu memakai informasi iklim setempat dan prakiraan terbaru.
+
+Risiko bencana dapat dipahami sebagai gabungan bahaya, paparan, dan kerentanan. Bahaya adalah kejadian yang berpotensi menimbulkan dampak, paparan adalah orang atau aset yang berada di wilayah terdampak, dan kerentanan menggambarkan tingkat mudahnya pihak tersebut mengalami kerugian. Peta bahaya saja belum cukup untuk menilai risiko tanpa data penduduk, bangunan, akses evakuasi, dan kapasitas tanggap.
+
+BAB PENGAYAAN — KEPENDUDUKAN DAN PERKOTAAN
+
+Kepadatan penduduk adalah jumlah penduduk per satuan luas, tetapi angka rata-rata dapat menyembunyikan perbedaan antarwilayah. Dua kabupaten dengan kepadatan rata-rata sama dapat memiliki pola permukiman yang berbeda. Sebagian wilayah mungkin sangat padat sementara bagian lain berupa hutan atau lahan pertanian.
+
+Urbanisasi adalah meningkatnya proporsi penduduk yang tinggal di kawasan perkotaan dan dapat berkaitan dengan perpindahan penduduk maupun perubahan status wilayah. Kota menyediakan peluang pendidikan, pekerjaan, layanan kesehatan, dan perdagangan, tetapi juga menghadapi tantangan transportasi, perumahan, sampah, polusi, serta ketimpangan akses layanan.
+
+Perencanaan kota yang baik menghubungkan tata ruang, transportasi umum, ruang terbuka hijau, drainase, dan kebutuhan kelompok rentan. Data geografi membantu menentukan lokasi sekolah, fasilitas kesehatan, jalur evakuasi, serta layanan dasar. Peta harus diperbarui karena batas, penduduk, dan penggunaan lahan berubah.
+
+LATIHAN
+1. Mengapa setiap proyeksi peta menimbulkan distorsi?
+2. Hitung jarak sebenarnya jika jarak peta 3 cm pada skala 1:100.000.
+3. Jelaskan perbedaan tenaga endogen dan eksogen.
+4. Mengapa wilayah sekitar lempeng tektonik perlu perencanaan risiko?
+5. Bedakan cuaca dan iklim.
+6. Sebutkan tiga komponen penting dalam memahami risiko bencana.
+
+KUNCI PEMBAHASAN
+1. Permukaan Bumi melengkung sedangkan peta datar; pemindahan bentuk menimbulkan distorsi.
+2. 3 × 100.000 cm = 300.000 cm = 3 km.
+3. Endogen berasal dari proses internal Bumi; eksogen bekerja di permukaan melalui air, angin, es, gravitasi, dan organisme.
+4. Aktivitas tektonik dapat memicu gempa, tsunami, atau aktivitas vulkanik; perencanaan mengurangi paparan dan kerentanan.
+5. Cuaca adalah kondisi atmosfer jangka pendek; iklim adalah pola statistik jangka panjang.
+6. Bahaya, paparan, dan kerentanan.
+
+GLOSARIUM TAMBAHAN
+Proyeksi peta: metode menggambarkan permukaan melengkung pada bidang datar.
+Lintang: posisi sudut utara atau selatan khatulistiwa.
+Bujur: posisi sudut timur atau barat meridian utama.
+Tenaga endogen: proses pembentuk permukaan Bumi dari dalam.
+Tenaga eksogen: proses yang mengubah permukaan Bumi dari luar.
+Daerah aliran sungai: wilayah yang mengalirkan air menuju satu sistem sungai.
+Paparan: keberadaan manusia atau aset di wilayah yang dapat terkena bahaya.
+Kerentanan: kondisi yang meningkatkan kemungkinan mengalami kerugian.
+Urbanisasi: peningkatan proporsi penduduk perkotaan.

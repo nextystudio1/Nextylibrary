@@ -205,3 +205,25 @@ Fosfolipid: molekul lipid utama penyusun membran sel.
 Metabolisme: keseluruhan reaksi kimia dalam organisme.
 Osmosis: perpindahan air melalui membran selektif.
 Substrat: molekul yang bekerja pada enzim.
+
+BAB 11. ENZIM DAN KATALISIS BIOLOGIS
+Enzim adalah molekul biologis yang mempercepat reaksi dengan menurunkan energi aktivasi. Banyak enzim berupa protein yang memiliki bentuk tiga dimensi tertentu. Substrat berinteraksi dengan bagian aktif enzim, kemudian produk dilepaskan. Suhu, pH, konsentrasi substrat, dan kondisi lingkungan dapat memengaruhi aktivitas. Kondisi ekstrem dapat mengubah struktur enzim sehingga fungsinya menurun. Enzim tidak habis digunakan dalam satu reaksi, tetapi dapat mengalami kerusakan atau pengaturan aktivitas.
+
+BAB 12. METABOLISME DAN ATP
+Metabolisme mencakup seluruh reaksi kimia dalam sel. Katabolisme memecah molekul dan dapat melepaskan energi, sedangkan anabolisme menyusun molekul dan memerlukan energi. ATP berperan sebagai pembawa energi yang dapat digunakan untuk berbagai proses sel. Energi tidak diciptakan dari ketiadaan; sel mengubah energi kimia dari nutrien menjadi bentuk yang dapat dimanfaatkan. Jalur metabolisme saling terhubung dan diatur sesuai kebutuhan sel.
+
+BAB 13. KARBOHIDRAT, LIPID, DAN PROTEIN
+Karbohidrat berperan sebagai sumber energi dan bahan penyusun struktur. Lipid berfungsi sebagai cadangan energi, komponen membran, dan molekul sinyal. Protein menjalankan banyak fungsi, termasuk katalisis, transportasi, struktur, dan pengaturan. Struktur molekul menentukan sifat dan fungsinya. Perubahan bentuk protein dapat mengubah aktivitasnya. Tidak ada satu kelompok zat gizi yang dapat menggantikan seluruh fungsi kelompok lainnya.
+
+BAB 14. ASAM NUKLEAT DAN INFORMASI BIOLOGIS
+DNA menyimpan informasi genetik, sedangkan RNA terlibat dalam penggunaan informasi tersebut untuk menghasilkan protein dan mengatur berbagai proses. Nukleotida tersusun atas gula, gugus fosfat, dan basa nitrogen. Urutan basa menyimpan informasi, tetapi ekspresi gen juga dipengaruhi mekanisme pengaturan dan lingkungan sel. Hubungan gen dengan sifat tidak selalu sederhana karena banyak sifat dipengaruhi banyak gen dan faktor lingkungan.
+
+BAB 15. BIOKIMIA DALAM KESEHATAN DAN TEKNOLOGI
+Prinsip biokimia digunakan dalam memahami metabolisme, diagnosis laboratorium, pengembangan obat, pangan, dan bioteknologi. Hasil pemeriksaan laboratorium perlu ditafsirkan sesuai metode, rentang rujukan, dan keadaan individu. Satu hasil tidak selalu cukup untuk menetapkan diagnosis. Dalam teknologi pangan, reaksi enzimatis dapat membantu proses tertentu, tetapi mutu dan keamanan produk tetap perlu dinilai dengan standar yang sesuai.
+
+LATIHAN TERAPAN
+1. Jelaskan bagaimana enzim mempercepat reaksi.
+2. Bedakan katabolisme dan anabolisme.
+3. Berikan dua fungsi protein selain sebagai sumber energi.
+4. Mengapa informasi DNA tidak selalu menentukan sifat secara langsung?
+5. Jelaskan mengapa hasil laboratorium perlu ditafsirkan dalam konteks.

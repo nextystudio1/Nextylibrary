@@ -163,3 +163,25 @@ Mitosis: pembelahan inti yang menghasilkan dua inti anak.
 Meiosis: pembelahan yang menghasilkan sel dengan jumlah kromosom setengah.
 Mutasi: perubahan urutan atau struktur materi genetik.
 Siklus sel: rangkaian tahap pertumbuhan dan pembelahan sel.
+BAB LANJUTAN — MEMBRAN SEL DAN TRANSPORT
+Membran sel tersusun terutama dari lapisan ganda fosfolipid dengan protein dan molekul lain. Struktur ini bersifat selektif: sebagian zat dapat melewati membran dengan mudah, sedangkan zat lain memerlukan protein pengangkut atau energi.
+Difusi adalah perpindahan partikel mengikuti gradien konsentrasi. Osmosis merupakan perpindahan air melalui membran selektif. Transport aktif memerlukan energi untuk memindahkan zat melawan gradien elektrokimia. Mekanisme tersebut menjaga kondisi internal sel.
+Sel tumbuhan memiliki dinding sel yang membantu mempertahankan bentuk dan tekanan turgor. Perbedaan konsentrasi larutan di luar sel dapat menyebabkan perubahan volume sel. Konsep ini membantu menjelaskan penyerapan air oleh akar dan respons sel terhadap lingkungan.
+Transport membran juga penting bagi sel saraf, penyerapan nutrisi, dan pengaturan ion. Gangguan pada protein membran dapat memengaruhi fungsi jaringan dan organ.
+
+BAB LANJUTAN — METABOLISME DAN ENERGI SEL
+Metabolisme mencakup seluruh reaksi kimia dalam sel. Reaksi katabolik menguraikan molekul dan dapat melepaskan energi, sedangkan reaksi anabolik menyusun molekul dan memerlukan energi. ATP berfungsi sebagai pembawa energi yang dapat digunakan untuk berbagai proses sel.
+Respirasi sel mengubah energi kimia dari molekul makanan menjadi bentuk yang dapat digunakan sel. Tahap-tahapnya melibatkan reaksi di sitoplasma dan organel tertentu. Oksigen berperan sebagai penerima elektron terakhir pada respirasi aerob, sedangkan jalur anaerob memiliki hasil energi dan produk yang berbeda.
+Fotosintesis mengubah energi cahaya menjadi energi kimia. Pada tumbuhan, kloroplas menjadi tempat berlangsungnya reaksi yang menghasilkan senyawa organik dari karbon dioksida dan air. Fotosintesis dan respirasi saling berkaitan dalam aliran energi dan siklus materi, tetapi bukan proses yang sekadar saling membalikkan.
+Laju metabolisme dipengaruhi suhu, ketersediaan substrat, enzim, dan kondisi sel. Enzim mempercepat reaksi dengan menurunkan energi aktivasi tanpa habis digunakan dalam reaksi.
+
+BAB LANJUTAN — DNA, GEN, DAN EKSPRESI GEN
+DNA menyimpan informasi genetik dalam urutan nukleotida. Gen merupakan bagian DNA yang berkontribusi pada produk fungsional, seperti RNA atau protein. Tidak semua DNA mengode protein; bagian nonpengode juga dapat memiliki fungsi pengaturan dan struktural.
+Ekspresi gen melibatkan transkripsi DNA menjadi RNA dan, untuk gen pengode protein, translasi RNA menjadi rantai polipeptida. Pengaturan ekspresi memungkinkan sel yang memiliki genom sama menjalankan fungsi berbeda.
+Mutasi adalah perubahan materi genetik. Dampaknya dapat netral, merugikan, atau menguntungkan dalam konteks tertentu. Mutasi tidak selalu menyebabkan penyakit dan tidak selalu diwariskan; akibatnya bergantung pada jenis sel, lokasi perubahan, serta pengaruhnya terhadap fungsi.
+Lingkungan dan regulasi gen berinteraksi dalam perkembangan dan fungsi organisme. Hindari penjelasan deterministik yang menyatakan satu gen selalu menentukan sifat kompleks seperti kecerdasan atau kepribadian.
+
+BAB LANJUTAN — PEMBELAHAN SEL DAN PEWARISAN
+Siklus sel mengatur pertumbuhan, replikasi DNA, dan pembelahan. Mitosis menghasilkan dua sel anak dengan jumlah kromosom yang umumnya sama dengan sel induk. Meiosis menghasilkan sel reproduksi dengan jumlah kromosom setengah, melalui dua tahap pembelahan.
+Rekombinasi dan pemisahan kromosom pada meiosis menghasilkan variasi genetik. Pewarisan sifat dapat dipelajari melalui pola dominan, resesif, dan pola yang lebih kompleks. Banyak sifat dipengaruhi banyak gen serta lingkungan.
+Pengaturan siklus sel penting untuk menjaga jaringan. Perubahan pada sistem pengendali dapat berkontribusi pada pertumbuhan sel yang tidak terkendali. Penelitian biologi sel membantu memahami penyakit, regenerasi, dan perkembangan organisme.

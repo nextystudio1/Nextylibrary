@@ -161,3 +161,31 @@ Autentikasi multifaktor: pemeriksaan identitas melalui lebih dari satu faktor.
 Cadangan: salinan data untuk pemulihan.
 Rekayasa sosial: manipulasi psikologis untuk memperoleh akses atau informasi.
 Sesi: keadaan ketika akun sedang masuk pada perangkat atau aplikasi.
+
+BAB 11. KEAMANAN KOMUNIKASI DAN BERBAGI BERKAS
+Komunikasi digital berlangsung melalui surel, pesan instan, forum, dan ruang kolaborasi. Setiap saluran memiliki pengaturan privasi dan risiko yang berbeda. Sebelum mengirim berkas, periksa penerima, nama berkas, isi dokumen, serta izin akses. Tautan berbagi yang dapat dibuka siapa saja mungkin tersebar jauh di luar kelompok awal. Gunakan akses terbatas bila dokumen hanya ditujukan kepada orang tertentu, dan cabut izin ketika kolaborasi selesai.
+
+Lampiran perlu diperlakukan dengan hati-hati, terutama jika datang tanpa konteks. Konfirmasi kepada pengirim melalui percakapan terpisah jika ada sesuatu yang tidak biasa. Jangan mengaktifkan fitur atau memasang aplikasi tambahan hanya karena diminta oleh pesan mendesak. Dalam kelompok sekolah atau organisasi, sepakati aturan penamaan, penyimpanan, dan penghapusan dokumen agar informasi tidak tercecer.
+
+BAB 12. KEAMANAN DATA DAN CADANGAN
+Data dapat hilang karena kerusakan perangkat, kesalahan pengguna, kehilangan, atau gangguan layanan. Cadangan yang baik memiliki jadwal, lokasi penyimpanan, dan prosedur pemulihan yang jelas. Menyalin berkas ke satu tempat saja belum tentu cukup jika tempat tersebut selalu terhubung ke perangkat utama. Untuk dokumen penting, pertimbangkan lebih dari satu salinan pada media atau layanan tepercaya, dengan perlindungan akses yang sesuai.
+
+Cadangan perlu diuji. Berkas yang tampak tersimpan belum tentu dapat dibuka kembali. Lakukan pemeriksaan berkala terhadap kelengkapan, tanggal, dan kemampuan pemulihan. Tentukan data mana yang benar-benar perlu disimpan agar tidak mengumpulkan informasi berlebihan. Jika perangkat digunakan bersama, pisahkan akun dan ruang penyimpanan agar data pribadi tidak tercampur.
+
+BAB 13. KEAMANAN DALAM KEGIATAN BELAJAR DAN KERJA
+Akun belajar, penyimpanan awan, dan aplikasi rapat sering memuat tugas serta identitas pengguna. Gunakan akun sesuai pemiliknya dan jangan berbagi akses melalui kata sandi bersama. Jika perlu bekerja kelompok, manfaatkan fitur undangan dan peran pengguna. Berikan hak minimum yang diperlukan: pembaca tidak selalu perlu menjadi editor atau pemilik dokumen.
+
+Ketika memakai komputer umum, hindari menyimpan kata sandi, periksa apakah akun sudah keluar, dan jangan meninggalkan dokumen pribadi. Pada perangkat milik sekolah atau organisasi, ikuti aturan pengelola. Jika menemukan konten yang mengganggu atau permintaan data yang tidak pantas, simpan informasi seperlunya dan laporkan kepada orang dewasa atau petugas yang berwenang.
+
+LATIHAN TERAPAN
+1. Sebuah kelompok membagikan dokumen tugas melalui tautan terbuka. Jelaskan dua risiko dan satu pengaturan yang lebih tepat.
+2. Mengapa cadangan perlu diuji dengan mencoba memulihkan berkas?
+3. Berikan contoh hak akses minimum untuk anggota kelompok yang hanya perlu membaca laporan.
+4. Buat daftar periksa singkat sebelum mengirim lampiran.
+5. Jelaskan mengapa keamanan siber mencakup kebiasaan manusia, bukan hanya perangkat lunak.
+
+GLOSARIUM TAMBAHAN
+Hak akses: izin untuk melihat, mengubah, atau mengelola sumber daya.
+Cadangan: salinan data yang disiapkan untuk pemulihan.
+Pemulihan: proses mengembalikan data atau akses setelah gangguan.
+Lampiran: berkas yang disertakan dalam pesan digital.

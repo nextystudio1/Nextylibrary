@@ -156,3 +156,35 @@ LATIHAN TERAPAN
 3. Sebutkan lima kategori risiko proyek.
 4. Bagaimana prinsip minimisasi data membantu mengurangi risiko digital?
 5. Berikan contoh indikator awal dan indikator hasil untuk satu pengendalian.
+BAB LANJUTAN: MENETAPKAN KONTEKS DAN KRITERIA RISIKO
+
+Analisis risiko dimulai dengan menetapkan tujuan keputusan. Risiko yang relevan bagi keselamatan pengguna belum tentu sama dengan risiko terhadap biaya, reputasi, keberlangsungan layanan, atau lingkungan. Batas sistem perlu dijelaskan: kegiatan apa yang dianalisis, periode waktu, lokasi, pihak terkait, dan kondisi operasi yang diasumsikan.
+
+Kriteria risiko menentukan bagaimana kemungkinan dan konsekuensi dinilai. Kriteria dapat bersifat kuantitatif jika data memadai, atau kualitatif jika bukti terbatas. Skala seperti rendah, sedang, dan tinggi harus memiliki definisi operasional. Tanpa definisi, dua penilai dapat memberi label berbeda untuk kondisi yang sama.
+
+Toleransi risiko merupakan keputusan tata kelola, bukan sekadar hasil perhitungan. Organisasi perlu menjelaskan risiko mana yang dapat diterima, mana yang harus dikurangi, dan mana yang mengharuskan kegiatan dihentikan atau dirancang ulang. Risiko terhadap hak dasar dan keselamatan tidak boleh disamarkan oleh skor rata-rata yang rendah.
+
+BAB LANJUTAN: ANALISIS PENYEBAB DAN KONSEKUENSI
+
+Satu peristiwa dapat memiliki beberapa penyebab dan menghasilkan beberapa konsekuensi. Diagram sebab-akibat membantu mengelompokkan faktor manusia, proses, teknologi, lingkungan, dan tata kelola. Diagram pohon kesalahan bergerak dari kejadian puncak ke kombinasi penyebab yang mungkin. Diagram peristiwa menelusuri kemungkinan perkembangan setelah suatu pemicu terjadi.
+
+Alat tersebut membantu struktur berpikir, tetapi tidak membuktikan bahwa hubungan sebab-akibat benar. Setiap cabang perlu diuji dengan bukti, wawancara, catatan kejadian, atau pengujian yang sesuai. Hindari menganggap kesalahan individu sebagai penyebab tunggal sebelum memeriksa beban kerja, desain antarmuka, pelatihan, prosedur, dan pengawasan.
+
+Konsekuensi dapat langsung maupun tidak langsung. Gangguan sistem informasi, misalnya, dapat menghambat layanan utama, menunda keputusan, memengaruhi kepercayaan, dan meningkatkan beban petugas. Penilaian perlu memperhitungkan durasi, jangkauan, kemampuan pemulihan, serta kemungkinan dampak berantai.
+
+BAB LANJUTAN: KONTROL DAN RISIKO SISA
+
+Pengendalian risiko dapat menghindari aktivitas, mengurangi kemungkinan, membatasi dampak, memindahkan sebagian konsekuensi melalui pengaturan yang sah, atau menerima risiko dengan alasan terdokumentasi. Pengendalian yang dipilih harus sesuai penyebab. Pelatihan tidak cukup jika masalah utama adalah rancangan proses yang membingungkan atau peralatan yang tidak layak.
+
+Setiap kontrol memiliki efektivitas, biaya, pemilik, dan kemungkinan kegagalan. Kontrol administratif dapat bergantung pada konsistensi manusia. Kontrol teknis dapat gagal karena perubahan konfigurasi atau pemeliharaan yang buruk. Karena itu, kontrol perlu diuji dan dipantau, bukan hanya dicantumkan dalam dokumen.
+
+Risiko sisa adalah risiko yang tetap ada setelah pengendalian diterapkan. Keputusan menerima risiko sisa harus dibuat oleh pihak yang memiliki kewenangan dan memahami konsekuensinya. Catat asumsi, bukti, alasan penerimaan, indikator pemantauan, dan kondisi yang memicu penilaian ulang.
+
+BAB LANJUTAN: PEMANTAUAN DAN KOMUNIKASI RISIKO
+
+Risiko berubah ketika proses, teknologi, personel, lingkungan, atau peraturan berubah. Register risiko perlu memiliki tanggal tinjauan, penanggung jawab, status tindakan, dan bukti penutupan. Indikator peringatan dapat berupa peningkatan keluhan, kegagalan berulang, keterlambatan pemeliharaan, atau perubahan pola insiden.
+
+Komunikasi risiko harus jelas mengenai apa yang diketahui, apa yang belum diketahui, kemungkinan dampak, dan tindakan yang sedang dilakukan. Bahasa yang terlalu teknis dapat menghalangi pemahaman, sedangkan bahasa yang terlalu menyederhanakan dapat menyesatkan. Komunikasi perlu disesuaikan dengan kebutuhan pihak yang menerima informasi.
+
+LATIHAN REGISTER RISIKO
+Pilih proses layanan pendidikan atau perpustakaan. Identifikasi lima risiko, penyebab, konsekuensi, kontrol yang ada, tindakan tambahan, pemilik tindakan, dan risiko sisa. Tetapkan indikator yang dapat diamati serta jadwal tinjauan. Jelaskan data apa yang masih kurang untuk meningkatkan keyakinan penilaian.

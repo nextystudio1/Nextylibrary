@@ -36,121 +36,21 @@ BAB 2. KOMPOSISI DAN HIERARKI
 
 Komposisi mengatur hubungan elemen visual. Ukuran, kontras, posisi, dan ruang kosong membentuk hierarki perhatian. Tata letak yang baik membantu pembaca menemukan informasi penting tanpa membuat elemen lain hilang.
 
-PENDALAMAN MATERI
-Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
-
-CONTOH KAJIAN
-Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
-
-KEGIATAN
-1. Buat ringkasan dengan bahasa sendiri.
-2. Susun peta konsep dan beri keterangan hubungan.
-3. Bandingkan dua contoh dengan kondisi berbeda.
-4. Periksa satu klaim menggunakan sumber tepercaya.
-5. Tulis pertanyaan lanjutan yang dapat diselidiki.
-
-LATIHAN
-1. Definisikan istilah utama.
-2. Jelaskan mekanisme atau proses yang dibahas.
-3. Berikan contoh penerapan.
-4. Sebutkan satu keterbatasan penjelasan.
-5. Buat kesimpulan yang sesuai dengan bukti.
-
 BAB 3. WARNA DAN TIPOGRAFI
 
 Warna dapat membedakan kategori atau membangun suasana, tetapi maknanya dipengaruhi budaya dan konteks. Tipografi menentukan keterbacaan. Pilih ukuran, ketebalan, dan jarak huruf yang sesuai. Pastikan kontras cukup dan informasi tidak bergantung pada warna saja.
-
-PENDALAMAN MATERI
-Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
-
-CONTOH KAJIAN
-Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
-
-KEGIATAN
-1. Buat ringkasan dengan bahasa sendiri.
-2. Susun peta konsep dan beri keterangan hubungan.
-3. Bandingkan dua contoh dengan kondisi berbeda.
-4. Periksa satu klaim menggunakan sumber tepercaya.
-5. Tulis pertanyaan lanjutan yang dapat diselidiki.
-
-LATIHAN
-1. Definisikan istilah utama.
-2. Jelaskan mekanisme atau proses yang dibahas.
-3. Berikan contoh penerapan.
-4. Sebutkan satu keterbatasan penjelasan.
-5. Buat kesimpulan yang sesuai dengan bukti.
 
 BAB 4. MEMBACA GRAFIK
 
 Grafik menyederhanakan data, tetapi pilihan sumbu, rentang, jenis grafik, dan pengelompokan dapat memengaruhi interpretasi. Periksa judul, sumber, satuan, periode, dan skala. Diagram batang, garis, dan pencar menjawab pertanyaan berbeda.
 
-PENDALAMAN MATERI
-Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
-
-CONTOH KAJIAN
-Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
-
-KEGIATAN
-1. Buat ringkasan dengan bahasa sendiri.
-2. Susun peta konsep dan beri keterangan hubungan.
-3. Bandingkan dua contoh dengan kondisi berbeda.
-4. Periksa satu klaim menggunakan sumber tepercaya.
-5. Tulis pertanyaan lanjutan yang dapat diselidiki.
-
-LATIHAN
-1. Definisikan istilah utama.
-2. Jelaskan mekanisme atau proses yang dibahas.
-3. Berikan contoh penerapan.
-4. Sebutkan satu keterbatasan penjelasan.
-5. Buat kesimpulan yang sesuai dengan bukti.
-
 BAB 5. MANIPULASI DAN KONTEKS
 
 Gambar dapat dipotong, disunting, diberi keterangan keliru, atau dipasangkan dengan cerita yang tidak sesuai. Verifikasi melalui sumber asli, tanggal, lokasi, dan konteks. Gambar autentik pun dapat menyesatkan bila konteks dihilangkan.
 
-PENDALAMAN MATERI
-Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
-
-CONTOH KAJIAN
-Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
-
-KEGIATAN
-1. Buat ringkasan dengan bahasa sendiri.
-2. Susun peta konsep dan beri keterangan hubungan.
-3. Bandingkan dua contoh dengan kondisi berbeda.
-4. Periksa satu klaim menggunakan sumber tepercaya.
-5. Tulis pertanyaan lanjutan yang dapat diselidiki.
-
-LATIHAN
-1. Definisikan istilah utama.
-2. Jelaskan mekanisme atau proses yang dibahas.
-3. Berikan contoh penerapan.
-4. Sebutkan satu keterbatasan penjelasan.
-5. Buat kesimpulan yang sesuai dengan bukti.
-
 BAB 6. ETIKA KOMUNIKASI VISUAL
 
 Desain perlu mempertimbangkan aksesibilitas, representasi, privasi, dan hak penggunaan gambar. Hindari stereotip. Keterangan gambar harus akurat. Gunakan aset sendiri, berlisensi sesuai kebutuhan, atau memiliki izin.
-
-PENDALAMAN MATERI
-Konsep pada bab ini dapat digunakan untuk menjelaskan situasi tertentu, tetapi penerapannya memerlukan perhatian terhadap kondisi. Periksa definisi, satuan, rentang, dan asumsi. Jika terdapat beberapa kemungkinan penjelasan, bandingkan bukti yang mendukung masing-masing. Hindari memilih kesimpulan hanya karena sesuai dugaan awal.
-
-CONTOH KAJIAN
-Ambil satu contoh yang relevan dari lingkungan sekitar atau bahan bacaan. Catat konteks dan sumber. Uraikan bagaimana konsep bab membantu menjelaskan contoh. Tuliskan pula bagian yang tidak dapat dijelaskan oleh informasi yang tersedia.
-
-KEGIATAN
-1. Buat ringkasan dengan bahasa sendiri.
-2. Susun peta konsep dan beri keterangan hubungan.
-3. Bandingkan dua contoh dengan kondisi berbeda.
-4. Periksa satu klaim menggunakan sumber tepercaya.
-5. Tulis pertanyaan lanjutan yang dapat diselidiki.
-
-LATIHAN
-1. Definisikan istilah utama.
-2. Jelaskan mekanisme atau proses yang dibahas.
-3. Berikan contoh penerapan.
-4. Sebutkan satu keterbatasan penjelasan.
-5. Buat kesimpulan yang sesuai dengan bukti.
 
 PROYEK AKHIR
 Pilih topik yang menghubungkan minimal tiga bab. Rumuskan pertanyaan, tujuan, batasan, metode, dan bentuk hasil. Gunakan sumber yang dapat diverifikasi serta catat proses pengumpulan informasi. Sajikan data dengan jelas, pisahkan temuan dari interpretasi, dan jelaskan keterbatasan.

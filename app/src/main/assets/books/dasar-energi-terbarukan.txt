@@ -41,6 +41,19 @@ Bab 22 Proyek pembelajaran: audit energi sekolah
 Bab 23 Proyek pembelajaran: peta potensi energi daerah
 Bab 24 Kesalahpahaman umum tentang energi
 Bab 25 Rangkuman besar dan peta konsep
+Bagian IV — Analisis sistem dan penerapan mendalam
+Bab 26 Perencanaan kebutuhan dan profil beban
+Bab 27 Sistem surya: rancangan konseptual dan kinerja
+Bab 28 Penyimpanan energi dan pengelolaan baterai
+Bab 29 Integrasi energi terbarukan ke jaringan
+Bab 30 Keandalan, risiko, dan ketahanan sistem
+Bab 31 Ekonomi proyek dan biaya sepanjang umur
+Bab 32 Dampak lingkungan dan penilaian daur hidup
+Bab 33 Energi terbarukan di kepulauan dan wilayah terpencil
+Bab 34 Studi kasus pembelajaran berbasis skenario
+Bab 35 Membaca data, grafik, dan klaim energi
+Bab 36 Komunikasi publik dan partisipasi masyarakat
+Bab 37 Keterampilan riset dan penulisan kajian energi
 
 CARA MENGGUNAKAN BUKU
 Bacalah bab secara berurutan. Catat istilah yang belum dipahami, kerjakan latihan, lalu bandingkan jawaban dengan pembahasan. Pada proyek, gunakan data publik dan izin yang sesuai. Jangan melakukan pekerjaan listrik, pekerjaan di ketinggian, atau percobaan berisiko tanpa tenaga ahli dan pengawasan yang kompeten.
@@ -269,3 +282,299 @@ Sumber tersebut merupakan rujukan untuk penelaahan lebih lanjut; edisi, tahun te
 
 CATATAN EDITOR
 Materi ini menjelaskan prinsip umum, bukan rancangan teknis untuk membangun pembangkit atau instalasi listrik. Proyek nyata memerlukan studi kelayakan, data lokasi, izin, kajian lingkungan, standar teknis, dan tenaga profesional. Angka kinerja teknologi tidak disamaratakan karena dipengaruhi lokasi, rancangan, kondisi operasi, dan tahun data.
+
+
+
+BAGIAN IV — ANALISIS SISTEM DAN PENERAPAN MENDALAM
+
+BAB 26 — PERENCANAAN KEBUTUHAN DAN PROFIL BEBAN
+
+26.1 Memulai dari layanan, bukan dari teknologi
+Perencanaan energi yang baik dimulai dengan pertanyaan: layanan apa yang perlu disediakan? Sebuah sekolah membutuhkan pencahayaan ruang kelas, kipas atau pendingin, komputer, pompa air, jaringan komunikasi, dan fasilitas lain. Rumah sakit memiliki kebutuhan berbeda karena sebagian peralatan harus beroperasi terus-menerus. Wilayah pertanian mungkin memerlukan energi untuk pompa pada musim tertentu. Dengan memetakan layanan, perencana dapat menghindari kesalahan memilih teknologi hanya karena sedang populer.
+
+Kebutuhan energi perlu dibedakan dari kebutuhan daya. Energi menunjukkan jumlah pemakaian selama periode, sedangkan daya menunjukkan kemampuan sistem memasok kebutuhan pada saat tertentu. Dua wilayah dapat menggunakan energi harian yang sama tetapi memiliki beban puncak berbeda. Wilayah pertama mungkin menggunakan listrik merata sepanjang hari, sedangkan wilayah kedua mengalami lonjakan besar pada malam hari. Perbedaan pola tersebut memengaruhi ukuran pembangkit, jaringan, dan penyimpanan.
+
+26.2 Membuat profil beban
+Profil beban menggambarkan perubahan kebutuhan daya menurut waktu. Data dapat disusun per jam, per hari, atau menurut musim, bergantung pada tujuan analisis. Profil harian membantu melihat kapan kebutuhan tertinggi terjadi. Profil mingguan dapat menunjukkan perbedaan antara hari sekolah dan akhir pekan. Profil musiman penting untuk daerah yang kegiatan ekonominya berubah mengikuti musim tanam, pariwisata, atau cuaca.
+
+Untuk latihan kelas, gunakan data hipotetis berikut. Sebuah bangunan menggunakan rata-rata 2 kW selama 6 jam kegiatan utama dan 0,5 kW selama 18 jam lainnya. Energi hariannya adalah (2 × 6) + (0,5 × 18) = 21 kWh. Beban puncak yang tampak dari contoh ini adalah 2 kW, dengan asumsi tidak ada lonjakan singkat yang lebih tinggi. Contoh tersebut bukan data bangunan nyata; tujuannya menunjukkan bahwa energi total dan beban puncak perlu dihitung terpisah.
+
+Data pengukuran dapat memiliki celah, kesalahan pencatatan, atau perubahan perilaku. Catat satuan, zona waktu, interval pencatatan, serta apakah data merupakan daya sesaat atau energi selama interval. Jangan menggabungkan data dengan interval berbeda tanpa penyesuaian. Bila data tidak lengkap, jelaskan bagian yang hilang dan jangan mengarang angka pengganti tanpa metode yang jelas.
+
+26.3 Mengelola sisi permintaan
+Pengelolaan sisi permintaan berarti mengubah waktu atau besarnya pemakaian tanpa menghilangkan layanan penting. Contohnya, kegiatan yang fleksibel dapat dijadwalkan pada saat pasokan energi terbarukan melimpah. Pengisian kendaraan atau pengoperasian pompa tertentu mungkin dapat digeser waktunya jika sesuai kebutuhan pengguna dan aturan teknis. Namun, beban seperti layanan kesehatan, keselamatan, dan kebutuhan dasar tidak boleh dikurangi secara sembarangan.
+
+Penghematan energi dan penggeseran beban adalah dua tindakan berbeda. Penghematan mengurangi jumlah energi yang digunakan, sedangkan penggeseran beban mengubah waktu pemakaian. Keduanya dapat membantu sistem, tetapi manfaatnya perlu diukur dengan indikator yang tepat. Penggeseran beban tidak selalu mengurangi energi total, bahkan dapat menambah konsumsi jika proses menjadi kurang efisien.
+
+26.4 Ketidakpastian permintaan
+Permintaan masa depan dipengaruhi pertumbuhan penduduk, perubahan ekonomi, teknologi, harga, cuaca, dan kebijakan. Karena itu, perencana sebaiknya membuat beberapa skenario, misalnya pertumbuhan rendah, sedang, dan tinggi. Skenario bukan ramalan pasti. Skenario adalah cara sistematis untuk menguji apakah rencana tetap masuk akal dalam berbagai kemungkinan.
+
+BAB 27 — SISTEM SURYA: RANCANGAN KONSEPTUAL DAN KINERJA
+
+27.1 Dari modul ke sistem lengkap
+Sistem fotovoltaik tidak hanya terdiri atas panel. Sistem lengkap dapat mencakup modul, struktur penyangga, inverter, kabel, perangkat proteksi, sistem pemantauan, dan pada konfigurasi tertentu baterai serta pengendali pengisian. Komponen harus saling sesuai. Ketidaksesuaian tegangan, arus, kapasitas, atau karakteristik operasi dapat menurunkan kinerja dan menimbulkan risiko.
+
+Sistem terhubung jaringan menyalurkan listrik ke instalasi dan jaringan sesuai aturan interkoneksi. Sistem mandiri dirancang untuk melayani beban tanpa sambungan jaringan utama, sehingga perlu mempertimbangkan cadangan energi dan periode produksi rendah. Sistem hibrida menggabungkan beberapa sumber atau penyimpanan. Tidak ada konfigurasi yang selalu paling baik; pilihan bergantung pada kebutuhan, kondisi jaringan, biaya, dan ketentuan setempat.
+
+27.2 Energi surya yang diterima tidak sama dengan energi listrik
+Radiasi matahari yang mengenai permukaan modul tidak seluruhnya berubah menjadi listrik. Sebagian cahaya dipantulkan atau tidak diserap, dan proses konversi memiliki batas. Suhu, debu, kelembapan, bayangan, orientasi, kemiringan, serta karakteristik inverter memengaruhi hasil. Perkiraan produksi perlu menggunakan data radiasi yang sesuai lokasi dan memperhitungkan kehilangan sistem.
+
+Istilah daya puncak modul merujuk pada keluaran di kondisi uji standar, bukan janji bahwa modul selalu menghasilkan daya tersebut di lapangan. Kondisi lapangan berubah dari menit ke menit. Ketika membandingkan penawaran, periksa apakah angka yang digunakan merupakan kapasitas nominal, produksi tahunan, atau estimasi penghematan. Ketiganya tidak dapat dipertukarkan.
+
+27.3 Contoh perhitungan energi sederhana
+Anggap sebuah sistem hipotetis memiliki kapasitas nominal 1 kW. Untuk latihan, misalkan sistem menerima ekuivalen 4 jam matahari puncak per hari dan faktor kinerja keseluruhan 0,8. Perkiraan energi harian adalah 1 kW × 4 jam × 0,8 = 3,2 kWh. Ini merupakan ilustrasi aritmetika, bukan estimasi untuk lokasi tertentu. Data radiasi, suhu, orientasi, bayangan, dan konfigurasi nyata harus diperiksa sebelum membuat proyeksi.
+
+Jika hasil aktual lebih rendah daripada perkiraan, jangan langsung menyimpulkan panel rusak. Periksa terlebih dahulu apakah periode cuaca sebanding, apakah data diukur dengan cara yang sama, apakah terdapat bayangan atau penghentian sistem, dan apakah estimasi awal menggunakan asumsi yang realistis. Diagnosis instalasi listrik tetap menjadi pekerjaan teknisi berkualifikasi.
+
+27.4 Perawatan dan akhir masa pakai
+Rencana proyek perlu menjelaskan siapa yang memantau kinerja, bagaimana kerusakan dilaporkan, ketersediaan suku cadang, garansi, dan pengelolaan modul pada akhir masa pakai. Daur ulang dapat memulihkan sebagian material, tetapi kemampuan fasilitas pengolahan berbeda antarwilayah. Kontrak pengadaan sebaiknya menjelaskan tanggung jawab pengangkutan dan pengelolaan limbah.
+
+BAB 28 — PENYIMPANAN ENERGI DAN PENGELOLAAN BATERAI
+
+28.1 Mengapa penyimpanan diperlukan
+Penyimpanan memindahkan ketersediaan energi dari satu waktu ke waktu lain. Baterai dapat membantu mengatasi perbedaan antara produksi dan pemakaian, menyediakan layanan jaringan tertentu, atau menjaga pasokan ketika terjadi gangguan. Penyimpanan tidak menciptakan energi. Energi yang keluar selalu lebih kecil daripada energi yang masuk karena terdapat rugi-rugi konversi dan proses.
+
+Kebutuhan penyimpanan tidak hanya ditentukan oleh kapasitas energi. Daya keluaran, durasi, frekuensi siklus, kecepatan respons, umur, suhu operasi, lokasi, dan keselamatan juga penting. Sistem yang dirancang untuk memasok daya tinggi selama beberapa menit berbeda dari sistem yang dimaksudkan memasok daya lebih rendah selama berjam-jam.
+
+28.2 Kapasitas daya dan kapasitas energi
+Kapasitas daya umumnya dinyatakan dalam kW atau MW, sedangkan kapasitas energi dinyatakan dalam kWh atau MWh. Jika baterai hipotetis memiliki kapasitas energi 10 kWh dan memasok beban konstan 2 kW, durasi ideal berdasarkan pembagian sederhana adalah 5 jam. Dalam praktik, durasi dapat lebih pendek karena batas kedalaman pengosongan, efisiensi, suhu, usia baterai, dan kebutuhan cadangan.
+
+Kedalaman pengosongan menunjukkan bagian kapasitas yang digunakan dalam suatu siklus. Penggunaan di luar rentang yang direkomendasikan produsen dapat mempercepat degradasi atau meningkatkan risiko. Pengelolaan baterai perlu mengikuti sistem manajemen baterai, spesifikasi produk, standar instalasi, dan prosedur keselamatan. Pembaca tidak boleh membongkar atau memodifikasi baterai.
+
+28.3 Umur dan degradasi
+Kinerja baterai berubah seiring waktu dan penggunaan. Degradasi dapat dipengaruhi jumlah siklus, suhu, tingkat pengisian, laju pengisian dan pengosongan, serta kondisi penyimpanan. Karena itu, proyeksi ekonomi sebaiknya memasukkan kemungkinan penggantian atau penurunan kapasitas. Garansi produk perlu dibaca secara cermat karena dapat memiliki syarat penggunaan dan batas tertentu.
+
+28.4 Keselamatan dan tanggung jawab
+Baterai berenergi tinggi dapat menimbulkan bahaya jika rusak, salah dipasang, mengalami hubungan pendek, atau digunakan di luar spesifikasi. Sistem harus memiliki perlindungan, ventilasi atau pengendalian termal yang sesuai, pemantauan, dan prosedur tanggap darurat berdasarkan standar. Penempatan, pemasangan, perawatan, serta penanganan baterai rusak harus dilakukan oleh tenaga terlatih. Jangan mencoba membuat paket baterai besar dari sel lepas sebagai proyek mandiri.
+
+28.5 Pilihan penyimpanan selain baterai
+Penyimpanan hidro pompa menggunakan listrik untuk memompa air ke tempat lebih tinggi, lalu mengalirkannya kembali melalui turbin ketika energi dibutuhkan. Sistem ini membutuhkan kondisi geografis, air, lahan, dan perizinan yang sesuai. Pilihan lain meliputi penyimpanan panas, udara tekan, roda gila, dan penyimpanan berbasis bahan kimia. Setiap pilihan memiliki rentang durasi, efisiensi, skala, dan biaya berbeda.
+
+BAB 29 — INTEGRASI ENERGI TERBARUKAN KE JARINGAN
+
+29.1 Jaringan sebagai sistem yang saling terhubung
+Jaringan listrik terdiri atas pembangkit, transmisi, gardu, distribusi, sistem kendali, dan pengguna. Kualitas pasokan dipengaruhi keseimbangan antara produksi dan konsumsi, kondisi peralatan, serta kemampuan jaringan menyalurkan daya. Pembangkit yang berada jauh dari pusat beban membutuhkan jaringan yang memadai. Karena itu, potensi sumber daya alam saja tidak menjamin proyek dapat memasok listrik secara ekonomis.
+
+29.2 Variabilitas dan ketidakpastian
+Variabilitas adalah perubahan keluaran yang terjadi mengikuti kondisi alam, misalnya perubahan radiasi atau kecepatan angin. Ketidakpastian berkaitan dengan keterbatasan kemampuan memperkirakan perubahan tersebut. Peramalan cuaca membantu operator menyiapkan sumber lain, tetapi hasil peramalan tidak sempurna. Sistem yang tangguh menggunakan kombinasi peramalan, cadangan, fleksibilitas, jaringan, dan pengelolaan permintaan.
+
+Variabilitas tidak berarti sistem tidak dapat diandalkan. Tantangannya harus dinilai pada skala sistem, bukan hanya satu pembangkit. Kombinasi sumber dengan pola produksi berbeda, interkoneksi antarwilayah, penyimpanan, pembangkit fleksibel, dan pengelolaan beban dapat membantu. Kelayakan setiap opsi bergantung pada kondisi jaringan dan biaya.
+
+29.3 Frekuensi dan tegangan
+Sistem tenaga listrik harus menjaga frekuensi dan tegangan dalam rentang yang ditetapkan. Gangguan besar atau ketidakseimbangan dapat mengganggu operasi. Inverter modern dapat menyediakan layanan tertentu jika dirancang, dikonfigurasi, dan diizinkan sesuai aturan jaringan. Persyaratan teknis berbeda menurut sistem dan standar yang berlaku.
+
+Penjelasan ini bersifat konseptual. Penyetelan proteksi, pengoperasian gardu, dan pekerjaan jaringan bukan kegiatan pembelajaran mandiri. Semua pekerjaan tersebut membutuhkan operator dan tenaga profesional dengan prosedur keselamatan.
+
+29.4 Jaringan distribusi dan pembangkitan tersebar
+Panel surya atap, pembangkit komunitas, dan sumber kecil lain dapat terhubung pada jaringan distribusi. Hal ini dapat mengurangi kebutuhan pasokan dari lokasi jauh, tetapi juga mengubah arah aliran daya dan profil tegangan. Operator perlu mengetahui lokasi, kapasitas, dan karakteristik sumber yang terhubung agar jaringan tetap aman dan stabil.
+
+BAB 30 — KEANDALAN, RISIKO, DAN KETAHANAN SISTEM
+
+30.1 Keandalan sebagai kemampuan memenuhi kebutuhan
+Keandalan menggambarkan kemampuan sistem menyediakan listrik sesuai kebutuhan dengan tingkat gangguan yang dapat diterima. Ukurannya dapat mencakup frekuensi gangguan, lama gangguan, energi yang tidak tersalurkan, dan kemampuan pulih. Satu angka tidak selalu menjelaskan pengalaman semua pelanggan karena wilayah dan kelompok pengguna dapat terdampak berbeda.
+
+30.2 Risiko alam dan risiko operasional
+Banjir, badai, gelombang panas, longsor, gempa, kebakaran, dan kekeringan dapat memengaruhi sumber energi serta jaringan. Risiko perlu dinilai berdasarkan bahaya, paparan, kerentanan, dan kapasitas menghadapi gangguan. Pembangkit hidro mungkin sensitif terhadap perubahan debit; sistem surya dapat terdampak banjir atau badai; jaringan dapat terganggu oleh pohon tumbang atau kerusakan infrastruktur.
+
+Perubahan iklim dapat mengubah pola bahaya dan kondisi operasi. Data historis tetap berguna, tetapi tidak selalu cukup untuk menggambarkan risiko masa depan. Perencanaan perlu memakai informasi iklim yang relevan dan memperhatikan ketidakpastian.
+
+30.3 Ketahanan dan pemulihan
+Ketahanan sistem adalah kemampuan mengantisipasi, menyerap, beradaptasi, dan pulih dari gangguan. Langkahnya dapat mencakup desain infrastruktur yang sesuai, pemeliharaan, suku cadang, rencana komunikasi, pelatihan, dan koordinasi antarlembaga. Sistem lokal atau mikrogrid dapat membantu layanan penting pada kondisi tertentu, tetapi membutuhkan rancangan, pengoperasian, dan pembiayaan yang tepat.
+
+Prioritas pemulihan harus mempertimbangkan keselamatan manusia dan layanan penting seperti rumah sakit, air bersih, komunikasi darurat, serta tempat evakuasi. Rencana pemulihan perlu diuji dan diperbarui. Dokumen yang tidak pernah dilatih belum tentu dapat digunakan secara efektif saat terjadi gangguan.
+
+30.4 Risiko sosial dan tata kelola
+Risiko proyek tidak hanya teknis. Konflik lahan, ketimpangan manfaat, perubahan mata pencaharian, dan kurangnya informasi dapat menghambat proyek atau menimbulkan kerugian sosial. Pemetaan pemangku kepentingan, konsultasi, mekanisme keluhan, dan keterbukaan informasi perlu menjadi bagian dari perencanaan sejak awal.
+
+BAB 31 — EKONOMI PROYEK DAN BIAYA SEPANJANG UMUR
+
+31.1 Biaya awal bukan seluruh biaya
+Biaya proyek dapat mencakup studi, lahan, peralatan, konstruksi, jaringan, pembiayaan, operasi, pemeliharaan, penggantian komponen, pengelolaan limbah, dan pembongkaran. Membandingkan dua teknologi hanya dari harga pembelian dapat menghasilkan kesimpulan keliru. Sistem dengan biaya awal lebih rendah mungkin memiliki biaya operasi atau kebutuhan penggantian lebih tinggi.
+
+31.2 Nilai waktu uang
+Uang pada waktu berbeda tidak selalu setara nilainya karena inflasi, biaya modal, dan risiko. Analisis proyek menggunakan konsep nilai kini untuk membandingkan arus kas pada waktu berbeda. Tingkat diskonto yang dipilih dapat memengaruhi hasil. Karena itu, laporan harus menyatakan asumsi tingkat diskonto dan alasan penggunaannya.
+
+31.3 Biaya listrik rata-rata sepanjang umur
+Biaya listrik rata-rata sepanjang umur proyek sering digunakan untuk membandingkan biaya produksi. Perhitungan memerlukan biaya modal, biaya operasi, produksi energi, umur proyek, dan asumsi keuangan. Ukuran ini tidak selalu mencakup seluruh biaya sistem, misalnya penguatan jaringan, penyimpanan tambahan, atau nilai layanan keandalan. Maka, angka biaya rata-rata tidak boleh diperlakukan sebagai harga listrik akhir untuk semua pengguna.
+
+31.4 Contoh arus kas sederhana
+Sebuah proyek hipotetis memiliki biaya awal 100 satuan uang dan biaya operasi 5 satuan per tahun selama lima tahun. Tanpa diskonto dan tanpa penggantian, total pengeluaran nominalnya 100 + (5 × 5) = 125 satuan. Contoh ini belum memasukkan pendapatan, nilai sisa, inflasi, pajak, maupun biaya modal. Tujuannya hanya menunjukkan bahwa biaya operasi perlu dihitung bersama investasi awal.
+
+31.5 Analisis sensitivitas
+Uji sensitivitas mengubah satu atau beberapa asumsi untuk melihat dampaknya. Variabel yang dapat diuji meliputi harga peralatan, suku bunga, produksi tahunan, biaya bahan bakar, umur komponen, dan biaya jaringan. Jika perubahan kecil pada satu asumsi mengubah kesimpulan secara drastis, keputusan proyek memiliki ketidakpastian tinggi dan membutuhkan pemeriksaan lebih lanjut.
+
+BAB 32 — DAMPAK LINGKUNGAN DAN PENILAIAN DAUR HIDUP
+
+32.1 Batas sistem
+Penilaian daur hidup menghitung dampak pada tahapan yang ditentukan, misalnya pengambilan bahan baku, produksi, transportasi, pembangunan, operasi, dan akhir masa pakai. Hasil sangat dipengaruhi batas sistem. Perbandingan hanya adil jika fungsi yang dibandingkan setara dan batas analisis dijelaskan.
+
+32.2 Berbagai kategori dampak
+Emisi gas rumah kaca merupakan satu kategori dampak, bukan keseluruhan dampak lingkungan. Analisis dapat mencakup penggunaan air, pencemaran udara, toksisitas, perubahan penggunaan lahan, sumber daya mineral, limbah, dan biodiversitas. Teknologi yang memiliki emisi operasional rendah masih dapat memerlukan material dan proses manufaktur yang berdampak.
+
+32.3 Dampak lokasi
+Dampak tidak hanya ditentukan teknologi, tetapi juga lokasi. Pembangkit yang dibangun pada habitat sensitif dapat menimbulkan risiko berbeda dari proyek di lahan yang telah terdegradasi. Jalur transmisi dapat melewati wilayah dengan nilai ekologis atau sosial penting. Kajian lokasi harus dilakukan dengan data setempat dan partisipasi pihak terdampak.
+
+32.4 Mitigasi dan hierarki tindakan
+Urutan tindakan yang baik dimulai dengan menghindari dampak bila memungkinkan, kemudian meminimalkan, memulihkan, dan menangani dampak tersisa sesuai ketentuan. Kompensasi tidak selalu dapat menggantikan ekosistem atau nilai budaya yang hilang. Karena itu, klaim bahwa suatu proyek “netral” perlu diperiksa dengan cermat.
+
+32.5 Limbah dan ekonomi sirkular
+Peralatan energi memiliki masa pakai. Panel, inverter, bilah turbin, baterai, kabel, dan komponen lain membutuhkan pengelolaan akhir masa pakai. Prinsip ekonomi sirkular mendorong desain tahan lama, perbaikan, penggunaan ulang yang aman, pemulihan material, dan tanggung jawab produsen. Namun, daur ulang harus dilakukan oleh fasilitas yang sesuai standar; bukan dengan membongkar peralatan berbahaya secara informal.
+
+BAB 33 — ENERGI TERBARUKAN DI KEPULAUAN DAN WILAYAH TERPENCIL
+
+33.1 Kondisi geografis Indonesia
+Wilayah kepulauan memiliki tantangan berupa jarak antarpulau, kepadatan penduduk yang berbeda, akses logistik, variasi sumber daya, dan ukuran jaringan yang beragam. Sistem besar yang cocok untuk kota padat belum tentu cocok untuk pulau kecil atau komunitas terpencil. Perencanaan perlu mempertimbangkan kebutuhan dasar, kemampuan pemeliharaan lokal, ketersediaan suku cadang, dan biaya pengangkutan.
+
+33.2 Sistem hibrida
+Sistem hibrida dapat menggabungkan surya, angin, hidro skala sesuai, penyimpanan, dan pembangkit lain yang tersedia. Tujuannya bukan sekadar memaksimalkan satu sumber, tetapi menyediakan layanan yang andal dengan biaya dan dampak yang dapat diterima. Pemilihan kombinasi memerlukan data beban, cuaca, sumber daya, jaringan, dan kebutuhan cadangan.
+
+33.3 Peran masyarakat lokal
+Masyarakat setempat memiliki pengetahuan tentang pola cuaca, penggunaan lahan, kebutuhan ekonomi, dan kondisi sosial. Pelibatan sejak awal dapat memperbaiki rancangan dan membantu menentukan model pengelolaan. Pelatihan operator lokal, rencana suku cadang, dan pembiayaan pemeliharaan sama pentingnya dengan pemasangan perangkat.
+
+33.4 Keterjangkauan dan akses
+Akses energi bukan hanya tersedianya sambungan. Layanan harus terjangkau, aman, cukup andal, dan sesuai kebutuhan. Rumah tangga dengan pendapatan terbatas dapat tetap kesulitan memanfaatkan listrik jika biaya sambungan atau tarif terlalu tinggi. Program energi perlu menilai siapa yang benar-benar menerima manfaat.
+
+BAB 34 — STUDI KASUS PEMBELAJARAN BERBASIS SKENARIO
+
+34.1 Skenario A: sekolah di wilayah perkotaan
+Sebuah sekolah ingin mengurangi tagihan listrik. Kelompok siswa diminta mengidentifikasi peluang tanpa membuka instalasi listrik. Data yang tersedia berupa tagihan bulanan, daftar perangkat, jadwal kelas, dan luas ruang. Tugas pertama adalah memeriksa konsistensi data dan mengidentifikasi bulan yang berbeda karena libur atau kegiatan khusus.
+
+Kelompok kemudian menyusun hipotesis: apakah konsumsi tinggi berkaitan dengan jam operasi, pendinginan, pencahayaan, atau perangkat yang dibiarkan aktif? Setiap hipotesis perlu bukti. Saran dapat berupa penjadwalan, perawatan perangkat oleh petugas, peneduh, atau kebiasaan mematikan peralatan yang tidak digunakan. Evaluasi harus memeriksa kenyamanan dan keselamatan, bukan hanya pengurangan angka tagihan.
+
+34.2 Skenario B: komunitas pulau kecil
+Sebuah komunitas pulau kecil memiliki kebutuhan listrik malam hari dan kegiatan ekonomi pada siang hari. Sumber surya tampak menjanjikan, tetapi kelompok belum memiliki data beban per jam, cuaca, kondisi dermaga, atau biaya pengiriman peralatan. Kesimpulan yang tepat bukan langsung menentukan kapasitas sistem, melainkan menyusun daftar data dan pertanyaan yang harus dijawab.
+
+Pertanyaan penting mencakup kebutuhan fasilitas kesehatan, air bersih, komunikasi, sekolah, usaha lokal, serta biaya operasi. Siapa yang akan merawat sistem? Bagaimana pengadaan suku cadang? Bagaimana warga menyampaikan keluhan? Apa rencana jika komponen utama rusak? Jawaban atas pertanyaan tersebut memengaruhi keberhasilan proyek.
+
+34.3 Skenario C: daerah dengan sungai dan kawasan sensitif
+Sebuah usulan pembangkit hidro kecil berada di daerah yang memiliki fungsi ekologi dan kegiatan masyarakat. Penilaian tidak cukup dengan menghitung debit dan beda ketinggian. Kajian perlu memeriksa aliran ekologis, migrasi ikan, sedimentasi, kualitas air, hak penggunaan air, akses warga, dan dampak kumulatif proyek lain.
+
+Kelompok belajar diminta menyusun matriks pihak terdampak dan daftar pertanyaan konsultasi. Hindari menyimpulkan proyek pasti baik atau pasti buruk sebelum data lengkap. Tujuan latihan adalah melatih penalaran yang seimbang dan transparan.
+
+34.4 Skenario D: kawasan industri
+Sebuah kawasan industri ingin mengurangi emisi dan biaya energi. Langkah awal adalah membuat inventaris pemakaian energi berdasarkan proses, waktu operasi, dan kebutuhan kualitas pasokan. Peluang dapat berupa efisiensi motor, pemulihan panas, pengelolaan beban, elektrifikasi proses yang sesuai, dan pembelian listrik rendah emisi.
+
+Tidak semua tindakan harus dilakukan sekaligus. Prioritaskan berdasarkan keselamatan, penghematan yang terukur, waktu pengembalian, dampak operasional, dan kesiapan teknologi. Perubahan proses harus diuji dan disetujui oleh tim teknik serta keselamatan perusahaan.
+
+BAB 35 — MEMBACA DATA, GRAFIK, DAN KLAIM ENERGI
+
+35.1 Periksa judul, satuan, dan rentang waktu
+Grafik dapat terlihat meyakinkan tetapi menyesatkan jika sumbu tidak jelas atau rentang waktu dipilih secara selektif. Selalu periksa judul, satuan, sumber, tanggal, cakupan geografis, dan definisi indikator. Angka kapasitas terpasang tidak sama dengan produksi energi. Persentase bauran energi juga perlu diketahui apakah dihitung berdasarkan energi primer, listrik, kapasitas, atau indikator lain.
+
+35.2 Rata-rata dan variasi
+Rata-rata membantu merangkum data, tetapi dapat menyembunyikan variasi. Produksi surya rata-rata harian tidak menjelaskan hari mendung berturut-turut. Debit sungai rata-rata tahunan tidak menjelaskan musim kering. Untuk perencanaan, lihat distribusi, nilai ekstrem, pola musiman, dan data pada periode yang relevan.
+
+35.3 Korelasi dan sebab-akibat
+Dua variabel yang berubah bersama belum tentu memiliki hubungan sebab-akibat langsung. Kenaikan konsumsi listrik dan pertumbuhan ekonomi, misalnya, dapat dipengaruhi banyak faktor lain. Analisis harus mempertimbangkan variabel pengganggu, perubahan populasi, harga, cuaca, dan struktur industri.
+
+35.4 Memeriksa klaim pemasaran
+Klaim seperti “bebas emisi”, “100 persen hijau”, atau “paling murah” perlu diperiksa definisinya. Tanyakan batas perhitungan, tahun data, sumber listrik, cakupan rantai pasok, dan apakah klaim telah diverifikasi secara independen. Bahasa promosi tidak menggantikan bukti teknis.
+
+35.5 Menyajikan ketidakpastian
+Gunakan rentang atau skenario bila data tidak pasti. Jelaskan asumsi yang paling memengaruhi hasil. Hindari angka dengan banyak digit desimal jika ketelitian data tidak mendukungnya. Penyajian yang jujur lebih berguna daripada kesan presisi yang tidak nyata.
+
+BAB 36 — KOMUNIKASI PUBLIK DAN PARTISIPASI MASYARAKAT
+
+36.1 Menjelaskan teknologi dengan bahasa yang mudah
+Komunikasi energi perlu menjelaskan manfaat, keterbatasan, biaya, risiko, dan ketidakpastian dengan bahasa yang dapat dipahami. Hindari istilah teknis tanpa penjelasan. Gunakan analogi seperlunya, tetapi jelaskan bagian yang tidak sama agar analogi tidak menimbulkan pemahaman keliru.
+
+36.2 Konsultasi bukan sekadar sosialisasi
+Sosialisasi sering hanya menyampaikan informasi satu arah. Partisipasi bermakna memberi ruang bagi warga untuk bertanya, menyampaikan pengetahuan lokal, mengusulkan perubahan, dan memperoleh jawaban yang dapat ditelusuri. Proses perlu dilakukan pada waktu dan tempat yang dapat diakses kelompok terdampak.
+
+36.3 Memetakan pemangku kepentingan
+Pihak yang mungkin terlibat meliputi rumah tangga, pemerintah, operator, pekerja, pemilik lahan, kelompok adat, pelaku usaha, sekolah, organisasi lingkungan, dan kelompok rentan. Tidak semua pihak memiliki pengaruh atau sumber daya yang sama. Perencana perlu memastikan kelompok yang mudah terabaikan tetap dapat berpartisipasi.
+
+36.4 Mekanisme keluhan
+Mekanisme keluhan perlu mudah diakses, aman, memiliki batas waktu respons, dan melindungi pelapor dari pembalasan. Setiap keluhan harus dicatat, ditinjau, dijawab, dan bila perlu ditindaklanjuti. Transparansi proses membangun kepercayaan, meskipun tidak semua perbedaan pendapat dapat diselesaikan.
+
+BAB 37 — KETERAMPILAN RISET DAN PENULISAN KAJIAN ENERGI
+
+37.1 Merumuskan pertanyaan
+Pertanyaan riset yang baik jelas, terbatas, dan dapat dijawab dengan data yang tersedia. Contoh: “Bagaimana pola pemakaian listrik ruang kelas selama hari sekolah?” lebih terukur daripada “Bagaimana cara menyelesaikan seluruh masalah energi?” Pertanyaan yang jelas membantu menentukan metode dan batas kajian.
+
+37.2 Menilai mutu sumber
+Utamakan data lembaga resmi, laporan teknis yang menjelaskan metode, publikasi ilmiah, dan dokumen yang dapat diperiksa. Perhatikan tahun terbit, penulis, lembaga, cakupan data, dan kemungkinan konflik kepentingan. Satu sumber saja jarang cukup untuk klaim besar. Bandingkan beberapa sumber yang independen.
+
+37.3 Mencatat metode
+Tuliskan bagaimana data diperoleh, kapan dikumpulkan, satuan yang digunakan, cara membersihkan data, dan asumsi perhitungan. Jika menggunakan data sekunder, catat judul dokumen, penerbit, tahun, tabel atau bagian yang relevan, dan alamat publikasi. Jangan mengubah angka tanpa mencatat alasannya.
+
+37.4 Menulis kesimpulan yang proporsional
+Kesimpulan harus sesuai kekuatan bukti. Jika penelitian hanya mengamati satu gedung selama satu minggu, jangan menggeneralisasi hasilnya untuk semua sekolah. Bedakan temuan, interpretasi, dan rekomendasi. Jelaskan keterbatasan dan data tambahan yang diperlukan.
+
+37.5 Struktur laporan
+Laporan pembelajaran dapat berisi judul, ringkasan, latar belakang, pertanyaan, metode, hasil, pembahasan, keterbatasan, kesimpulan, rekomendasi, dan daftar sumber. Grafik perlu diberi judul, label sumbu, satuan, dan sumber data. Lampiran dapat memuat tabel mentah yang tidak cocok dimasukkan ke bagian utama.
+
+LATIHAN TERPADU BAGIAN IV
+
+Latihan 1 — Profil beban
+Sebuah ruang belajar menggunakan daya rata-rata 1,2 kW selama 5 jam dan 0,3 kW selama 4 jam. Hitung energi untuk dua periode tersebut.
+Pembahasan: periode pertama menggunakan 1,2 × 5 = 6 kWh. Periode kedua menggunakan 0,3 × 4 = 1,2 kWh. Totalnya 7,2 kWh. Perhitungan mengasumsikan daya rata-rata tetap pada tiap periode.
+
+Latihan 2 — Perkiraan produksi surya
+Sistem hipotetis berkapasitas 2 kW menerima ekuivalen 3,5 jam matahari puncak dan memiliki faktor kinerja 0,75. Perkirakan energi hariannya.
+Pembahasan: 2 × 3,5 × 0,75 = 5,25 kWh per hari. Ini hanya latihan; nilai lokasi nyata harus didukung data radiasi dan karakteristik sistem.
+
+Latihan 3 — Durasi penyimpanan
+Penyimpanan hipotetis memiliki energi yang dapat digunakan sebesar 8 kWh dan memasok beban 1 kW. Berapa durasi ideal berdasarkan pembagian sederhana?
+Pembahasan: 8 kWh ÷ 1 kW = 8 jam. Dalam praktik, durasi dipengaruhi rugi-rugi, batas operasi, dan kondisi baterai.
+
+Latihan 4 — Menilai klaim
+Sebuah iklan menyebut pembangkit sebagai “tanpa dampak lingkungan”. Sebutkan empat pertanyaan untuk memeriksa klaim tersebut.
+Pembahasan: periksa bahan baku dan manufaktur, penggunaan lahan dan air, dampak biodiversitas, serta pengelolaan akhir masa pakai. Periksa pula batas sistem dan sumber data klaim.
+
+Latihan 5 — Memilih sistem wilayah terpencil
+Data apa yang harus dikumpulkan sebelum menentukan sistem energi untuk pulau kecil?
+Pembahasan: profil beban per waktu, kebutuhan layanan penting, data sumber daya musiman, kondisi jaringan, akses logistik, biaya investasi dan operasi, kapasitas perawatan lokal, dampak lingkungan, serta masukan warga.
+
+Latihan 6 — Membedakan kapasitas dan energi
+Sebuah pembangkit memiliki kapasitas nominal 5 MW. Apakah angka tersebut cukup untuk mengetahui produksi listrik selama satu tahun?
+Pembahasan: tidak. Diperlukan data waktu operasi, faktor kapasitas, pemeliharaan, ketersediaan sumber, dan pembatasan jaringan. Kapasitas adalah daya, sedangkan produksi tahunan adalah energi.
+
+Latihan 7 — Analisis sensitivitas
+Mengapa perencana perlu menguji perubahan biaya peralatan dan produksi tahunan?
+Pembahasan: kedua variabel dapat memengaruhi biaya rata-rata dan kelayakan proyek. Uji sensitivitas menunjukkan seberapa kuat kesimpulan terhadap perubahan asumsi.
+
+Latihan 8 — Partisipasi masyarakat
+Sebutkan ciri proses konsultasi yang bermakna.
+Pembahasan: informasi tersedia lebih awal, bahasa mudah dipahami, waktu dan tempat dapat diakses, kelompok terdampak terwakili, pertanyaan dijawab, masukan dicatat, dan ada penjelasan bagaimana masukan memengaruhi keputusan.
+
+LATIHAN ANALISIS LANJUTAN
+
+1. Sebuah sekolah memiliki tagihan listrik yang meningkat selama tiga bulan. Susun lima kemungkinan penyebab dan data yang diperlukan untuk menguji setiap penyebab.
+2. Sebuah wilayah memiliki produksi surya tinggi pada siang hari dan kebutuhan puncak pada malam hari. Jelaskan beberapa pilihan sistem dan konsekuensi masing-masing tanpa menganggap satu pilihan pasti terbaik.
+3. Dua proyek memiliki biaya awal berbeda. Proyek A lebih murah dibangun tetapi memerlukan penggantian komponen lebih sering. Proyek B lebih mahal pada awalnya tetapi biaya operasi diperkirakan lebih rendah. Susun data yang dibutuhkan untuk membandingkan keduanya.
+4. Sebuah laporan menggunakan data produksi satu bulan untuk menyimpulkan kinerja tahunan. Jelaskan mengapa kesimpulan itu belum kuat dan data apa yang perlu ditambahkan.
+5. Buat rancangan konsultasi masyarakat untuk proyek energi hipotetis. Identifikasi kelompok yang perlu dilibatkan, informasi yang perlu dibuka, dan cara menindaklanjuti keluhan.
+6. Jelaskan bagaimana perubahan iklim dapat memengaruhi perencanaan pembangkit hidro, surya, angin, dan jaringan.
+7. Sebuah perusahaan menyatakan produknya “ramah lingkungan” karena tidak menghasilkan emisi saat digunakan. Jelaskan mengapa analisis bahan baku dan akhir masa pakai tetap diperlukan.
+8. Buat daftar risiko proyek energi dari tahap perencanaan hingga pembongkaran, lalu kelompokkan menurut risiko teknis, lingkungan, sosial, dan keuangan.
+9. Jelaskan perbedaan penghematan energi dan penggeseran beban dengan contoh yang tidak mengganggu layanan penting.
+10. Susun kerangka laporan kajian energi untuk sebuah fasilitas publik dengan metode, batasan, dan indikator keberhasilan yang jelas.
+
+RUBRIK PROYEK AKHIR
+Aspek 1 — Ketepatan konsep (25 persen): menggunakan istilah energi, daya, efisiensi, faktor kapasitas, dan daur hidup secara benar.
+Aspek 2 — Kualitas data (20 persen): sumber jelas, tahun data dicatat, satuan konsisten, dan keterbatasan disebutkan.
+Aspek 3 — Metode (20 persen): langkah perhitungan dapat diulang dan asumsi dinyatakan.
+Aspek 4 — Analisis dampak (15 persen): membahas aspek lingkungan, sosial, ekonomi, dan keandalan secara seimbang.
+Aspek 5 — Komunikasi (10 persen): grafik dan penjelasan mudah dipahami.
+Aspek 6 — Etika dan keselamatan (10 persen): tidak melakukan pengukuran berbahaya, menjaga privasi, dan meminta izin.
+
+DAFTAR ISTILAH TAMBAHAN BAGIAN IV
+Analisis sensitivitas: pengujian dampak perubahan asumsi terhadap hasil analisis.
+Beban puncak: kebutuhan daya tertinggi dalam periode tertentu.
+Degradasi: penurunan kinerja atau kapasitas seiring waktu.
+Daya nominal: daya yang dinyatakan sebagai kemampuan terukur atau peringkat suatu perangkat.
+Daur hidup: seluruh tahapan suatu produk atau sistem dari bahan baku hingga akhir masa pakai.
+Faktor kinerja: faktor ringkas yang mewakili berbagai kehilangan dalam sistem.
+Interkoneksi: hubungan listrik antara sistem atau jaringan.
+Mikrogrid: sistem energi lokal yang dapat mengelola sumber, beban, dan dalam konfigurasi tertentu beroperasi terpisah dari jaringan utama.
+Profil beban: pola kebutuhan daya menurut waktu.
+Skenario: gambaran kondisi yang mungkin terjadi berdasarkan asumsi tertentu.
+Sistem hibrida: sistem yang menggabungkan dua atau lebih sumber atau teknologi.
+Sistem fotovoltaik: sistem yang mengubah radiasi matahari menjadi listrik.
+Tingkat diskonto: tingkat yang digunakan untuk menghitung nilai kini arus kas masa depan.
+Variabilitas: perubahan suatu besaran dari waktu ke waktu.
+Ketidakpastian: keterbatasan pengetahuan atau kemampuan memperkirakan suatu nilai.
+
+CATATAN EDITOR BAGIAN IV
+Bagian ini memperluas pembahasan dari pengenalan teknologi menuju analisis kebutuhan, kinerja sistem, ekonomi, lingkungan, dan tata kelola. Semua angka numerik dalam latihan yang tidak secara eksplisit disebut sebagai data publik adalah angka hipotetis untuk pembelajaran. Angka tersebut tidak boleh digunakan sebagai dasar investasi atau desain instalasi nyata.

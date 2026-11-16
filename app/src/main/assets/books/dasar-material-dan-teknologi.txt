@@ -49,7 +49,6 @@ PROYEK TERPADU
 Buat kajian mini untuk Dasar Material dan Teknologi dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
 
 EVALUASI AKHIR
-EVALUASI AKHIR
 1. Jelaskan hubungan struktur mikro dengan sifat mekanik suatu material.
 2. Bandingkan karakter umum logam, polimer, keramik, dan komposit.
 3. Mengapa hasil pengujian harus disertai metode dan kondisi pengukuran?

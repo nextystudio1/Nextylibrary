@@ -121,3 +121,33 @@ LATIHAN AKHIR
 4. Susun tugas untuk uji kegunaan fitur pencarian.
 5. Buat daftar pemeriksaan aksesibilitas untuk satu layar.
 6. Identifikasi dua pola desain manipulatif dan jelaskan alternatif etisnya.
+
+BAB LANJUTAN: RISET PENGGUNA DAN PERUMUSAN MASALAH
+
+Riset pengguna bertujuan memahami tujuan, konteks, hambatan, dan strategi yang digunakan orang ketika menyelesaikan tugas. Metode dapat berupa wawancara, observasi yang disetujui, survei, analisis dukungan pelanggan, atau pengujian prototipe. Pilihan metode ditentukan oleh pertanyaan, bukan tren. Hindari mengumpulkan informasi pribadi yang tidak diperlukan.
+
+Temuan riset perlu dibedakan dari interpretasi. Catat pola yang berulang, kasus yang berbeda, dan hal yang belum diketahui. Persona atau peta perjalanan pengguna merupakan alat sintesis, bukan gambaran sempurna seluruh orang. Validasi kembali dengan pengguna yang beragam.
+
+BAB LANJUTAN: ARSITEKTUR INFORMASI DAN NAVIGASI
+
+Arsitektur informasi mengatur bagaimana konten dikelompokkan, diberi nama, dan ditemukan. Struktur yang baik mengikuti cara pengguna memahami tugas, bukan hanya struktur organisasi pembuat aplikasi. Label harus konsisten dan istilah teknis dijelaskan bila memang diperlukan.
+
+Navigasi perlu memberi petunjuk lokasi, pilihan berikutnya, dan cara kembali. Pengguna tidak seharusnya menebak akibat suatu tombol. Uji struktur dengan tugas pencarian nyata dan amati apakah orang dapat menemukan informasi tanpa bantuan.
+
+BAB LANJUTAN: UMPAN BALIK, KESALAHAN, DAN KENDALI
+
+Antarmuka perlu memberi umpan balik setelah tindakan: apakah perintah diterima, sedang diproses, berhasil, atau gagal. Pesan kesalahan yang baik menyebut masalah dengan jelas dan menawarkan langkah pemulihan. Hindari menyalahkan pengguna atau menghapus masukan yang sudah dibuat tanpa peringatan.
+
+Pencegahan kesalahan dapat dilakukan melalui batas input, pilihan yang jelas, konfirmasi untuk tindakan berdampak besar, dan kemampuan membatalkan. Konfirmasi berlebihan juga dapat melelahkan; gunakan sesuai tingkat risiko.
+
+BAB LANJUTAN: AKSESIBILITAS DAN DESAIN UNIVERSAL
+
+Aksesibilitas memastikan antarmuka dapat digunakan oleh orang dengan kemampuan dan kondisi berbeda. Perhatikan kontras, ukuran teks, navigasi papan ketik, label pembaca layar, teks alternatif, fokus yang terlihat, dan ketergantungan pada warna saja. Konten multimedia memerlukan alternatif yang sesuai.
+
+Desain universal berusaha mengurangi hambatan sejak awal, tetapi tidak menghilangkan kebutuhan penyesuaian individual. Uji dengan teknologi bantu dan libatkan pengguna yang memiliki kebutuhan akses berbeda. Kepatuhan pada daftar periksa belum menggantikan pengujian nyata.
+
+BAB LANJUTAN: PROTOTIPE DAN EVALUASI KEGUNAAN
+
+Prototipe dapat berupa sketsa, wireframe, atau interaksi yang dapat diklik. Pilih tingkat detail sesuai pertanyaan yang ingin dijawab. Uji awal sebaiknya berfokus pada alur dan pemahaman, bukan warna atau dekorasi yang belum final.
+
+Evaluasi kegunaan mengamati keberhasilan tugas, kesalahan, waktu, dan persepsi pengguna. Sampel kecil dapat menemukan masalah desain, tetapi tidak otomatis mewakili seluruh populasi. Catat tugas, konteks, persetujuan, dan keterbatasan. Perbaiki masalah berdasarkan dampak dan frekuensi, lalu uji ulang.

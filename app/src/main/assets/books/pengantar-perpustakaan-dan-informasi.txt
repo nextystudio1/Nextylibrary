@@ -168,3 +168,51 @@ Literasi informasi: Kemampuan menemukan, menilai, dan menggunakan informasi.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk kajian lanjutan, gunakan sumber primer, buku ajar, standar, dan publikasi lembaga tepercaya. Catat penulis atau lembaga, judul, tahun, dan bagian yang digunakan. Periksa pembaruan informasi pada topik yang berkembang.
+
+BAB LANJUTAN: SIKLUS HIDUP INFORMASI DAN KOLEKSI
+
+Pengelolaan koleksi dimulai dari kebijakan pengembangan yang menjelaskan kebutuhan pengguna, cakupan subjek, format, bahasa, tingkat kedalaman, dan prioritas. Keputusan pengadaan perlu mempertimbangkan relevansi, kualitas, kemutakhiran, biaya, hak penggunaan, serta keberagaman perspektif. Koleksi yang besar belum tentu bermanfaat jika sulit ditemukan atau tidak sesuai kebutuhan komunitas.
+
+Siklus koleksi mencakup seleksi, pengadaan, penerimaan, pengolahan, penyimpanan, pemeliharaan, evaluasi, dan penyiangan. Penyiangan bukan sekadar membuang bahan lama; keputusan perlu mempertimbangkan kondisi fisik, relevansi, duplikasi, nilai sejarah, serta kebijakan lembaga. Bahan yang jarang dipinjam mungkin tetap penting bagi penelitian atau dokumentasi lokal.
+
+BAB LANJUTAN: KATALOG, METADATA, DAN PENGORGANISASIAN
+
+Metadata adalah informasi terstruktur yang menjelaskan suatu sumber, misalnya judul, pencipta, subjek, penerbit, tanggal, format, bahasa, dan pengenal. Metadata yang konsisten meningkatkan temu kembali dan pertukaran data antar sistem. Kesalahan ejaan, variasi nama, atau istilah subjek yang tidak seragam dapat membuat bahan sulit ditemukan.
+
+Katalog menggambarkan sumber dan menyediakan titik akses untuk menemukannya. Pengendalian nama membantu menghubungkan karya yang dibuat oleh orang atau lembaga yang sama meskipun penulisannya bervariasi. Klasifikasi mengelompokkan bahan berdasarkan sistem tertentu, sedangkan tajuk subjek menggambarkan topik. Keduanya memiliki fungsi berbeda dan dapat digunakan bersama.
+
+Untuk koleksi digital, metadata teknis dan administratif juga penting. Format berkas, ukuran, hak akses, tanggal migrasi, dan riwayat perubahan dapat membantu pemeliharaan jangka panjang. Metadata harus mengikuti skema yang terdokumentasi agar sistem tidak bergantung pada pengetahuan satu petugas saja.
+
+BAB LANJUTAN: LITERASI INFORMASI DAN EVALUASI SUMBER
+
+Literasi informasi meliputi kemampuan merumuskan kebutuhan, menemukan sumber, menilai kualitas, menggunakan informasi secara etis, dan menyampaikan hasil. Strategi pencarian dimulai dengan kata kunci utama, sinonim, istilah lebih luas, dan istilah lebih khusus. Operator pencarian dapat mempersempit atau memperluas hasil, tetapi pencarian perlu disesuaikan dengan sistem yang digunakan.
+
+Evaluasi sumber mempertimbangkan otoritas, bukti, metode, tujuan, tanggal, dan konteks. Popularitas atau tampilan profesional tidak menjamin akurasi. Untuk klaim penting, telusuri sumber primer dan bandingkan dengan sumber independen. Periksa apakah kutipan benar-benar mendukung kesimpulan yang dibuat.
+
+BAB LANJUTAN: LAYANAN REFERENSI DAN PENGALAMAN PENGGUNA
+
+Layanan referensi membantu pengguna mengubah pertanyaan umum menjadi kebutuhan informasi yang dapat ditelusuri. Petugas dapat menggunakan pertanyaan klarifikasi, mengulang inti kebutuhan, dan menjelaskan batas pencarian. Jawaban yang baik menunjukkan sumber serta cara pengguna dapat memeriksa informasi tersebut.
+
+Layanan perlu dirancang agar mudah diakses melalui meja layanan, pesan, surel, atau kanal digital yang tersedia. Standar layanan sebaiknya menjelaskan waktu respons, privasi, penanganan pertanyaan sensitif, dan prosedur rujukan. Petugas tidak perlu berpura-pura mengetahui semua hal; menjelaskan keterbatasan dan mengarahkan ke sumber yang tepat merupakan bagian dari layanan profesional.
+
+BAB LANJUTAN: PRESERVASI DIGITAL DAN HAK AKSES
+
+Berkas digital dapat rusak, hilang, atau tidak dapat dibuka ketika perangkat lunak dan format berubah. Preservasi digital memerlukan beberapa salinan yang dikelola dengan baik, pemeriksaan integritas, dokumentasi, dan rencana pemulihan. Menyimpan berkas pada satu perangkat atau satu akun bukan strategi preservasi yang memadai.
+
+Migrasi format dapat menjaga keterbacaan, tetapi berpotensi mengubah tampilan atau fitur. Catat format asli, format hasil, perangkat lunak, tanggal, dan pemeriksaan mutu. Untuk bahan audiovisual atau interaktif, dokumentasi perilaku dan konteks penggunaan dapat sama pentingnya dengan berkas itu sendiri.
+
+Akses koleksi harus memperhatikan hak cipta, lisensi, privasi, dan ketentuan penggunaan. Memiliki salinan fisik atau digital tidak otomatis memberi hak untuk menyebarkan ulang. Catat status hak, izin, dan batas penggunaan. Jika status tidak jelas, batasi distribusi sampai ada kepastian yang memadai.
+
+BAB LANJUTAN: MENGUKUR DAMPAK PERPUSTAKAAN
+
+Statistik peminjaman dan kunjungan dapat menggambarkan aktivitas, tetapi tidak sepenuhnya menunjukkan dampak. Evaluasi dapat menanyakan apakah pengguna berhasil menemukan informasi, meningkatkan keterampilan, menyelesaikan tugas, atau merasa lebih terhubung dengan komunitas. Survei, wawancara, observasi, dan data layanan dapat digabungkan untuk memperoleh gambaran lebih utuh.
+
+Indikator harus terkait tujuan layanan. Jika program bertujuan meningkatkan literasi informasi, jumlah peserta saja tidak cukup; perlu ada penilaian keterampilan sebelum dan sesudah atau contoh penerapan. Hasil evaluasi digunakan untuk memperbaiki koleksi, jadwal, aksesibilitas, dan bentuk pendampingan.
+
+LATIHAN AKHIR
+1. Susun lima kriteria seleksi buku untuk koleksi pendidikan.
+2. Buat contoh metadata untuk sebuah buku.
+3. Rancang strategi pencarian untuk topik perubahan iklim.
+4. Bandingkan dua sumber informasi dengan kriteria otoritas dan bukti.
+5. Buat daftar langkah preservasi untuk arsip digital.
+6. Tentukan tiga indikator dampak program literasi informasi.

@@ -54,10 +54,7 @@ EVALUASI AKHIR
 3. Mengapa ventilasi dan kualitas udara dalam ruang perlu dinilai bersama?
 4. Uraikan cara membaca konsumsi energi peralatan dan mengidentifikasi pemborosan.
 5. Buat prioritas peningkatan efisiensi untuk bangunan dengan sumber daya terbatas.
-2. Jelaskan hubungan antarbab dengan contoh.
-3. Analisis satu kasus berdasarkan bukti.
-4. Bandingkan dua pendekatan dan konsekuensinya.
-5. Tulis hal yang masih perlu dipelajari.
+
 
 GLOSARIUM
 Selubung bangunan: Elemen pemisah ruang dalam dari lingkungan luar.
@@ -74,19 +71,19 @@ CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.
 PENDALAMAN MATERI DAN PENERAPAN
 
-BAB 6. PERPINDAHAN PANAS PADA BANGUNAN
+BAB 7. PERPINDAHAN PANAS PADA BANGUNAN
 Panas berpindah melalui konduksi, konveksi, dan radiasi. Konduksi berlangsung melalui bahan, misalnya panas merambat melalui dinding. Konveksi terjadi melalui gerak fluida seperti udara, sedangkan radiasi memindahkan energi melalui gelombang elektromagnetik. Ketiganya dapat terjadi bersamaan pada bangunan. Atap yang menerima matahari dapat memanaskan ruang di bawahnya; ventilasi dan lapisan insulasi memengaruhi seberapa cepat panas berpindah. Pemilihan bahan perlu mempertimbangkan iklim, orientasi bangunan, kelembapan, biaya, dan perawatan. Satu bahan tidak otomatis cocok untuk semua wilayah.
 
-BAB 7. VENTILASI DAN KUALITAS UDARA DALAM RUANG
+BAB 8. VENTILASI DAN KUALITAS UDARA DALAM RUANG
 Ventilasi menyediakan pertukaran udara untuk membantu mengendalikan panas, kelembapan, dan polutan dalam ruang. Ventilasi alami memanfaatkan perbedaan tekanan dan suhu, sedangkan ventilasi mekanis menggunakan kipas atau sistem pengondisian udara. Bukaan yang besar belum tentu efektif jika arah angin, tata ruang, dan hambatan tidak mendukung aliran. Kualitas udara dalam ruang juga dipengaruhi sumber polutan, jumlah penghuni, aktivitas memasak, bahan bangunan, dan kebersihan sistem. Pengelolaan harus mempertimbangkan kualitas udara luar serta kebutuhan pengguna yang berbeda.
 
-BAB 8. PENCAHAYAAN ALAMI DAN BUATAN
+BAB 9. PENCAHAYAAN ALAMI DAN BUATAN
 Pencahayaan yang baik mendukung penglihatan, pembelajaran, dan kenyamanan. Cahaya alami dapat mengurangi kebutuhan lampu pada siang hari, tetapi perlu dikendalikan agar tidak menimbulkan silau dan panas berlebih. Pencahayaan buatan dipilih berdasarkan fungsi ruang, tingkat terang, distribusi cahaya, warna cahaya, dan efisiensi. Angka iluminansi diukur dalam lux, sedangkan daya lampu diukur dalam watt; keduanya bukan besaran yang sama. Desain perlu menghindari kontras ekstrem dan memastikan tugas visual dapat dilakukan dengan nyaman. Penggunaan sensor atau pengaturan zona dapat mengurangi energi jika dirancang sesuai pola pemakaian.
 
-BAB 9. SELUBUNG BANGUNAN DAN STRATEGI PASIF
+BAB 10. SELUBUNG BANGUNAN DAN STRATEGI PASIF
 Selubung bangunan mencakup atap, dinding, jendela, dan elemen yang memisahkan ruang dalam dari lingkungan luar. Strategi pasif memanfaatkan orientasi, peneduh, ventilasi, massa termal, dan vegetasi untuk mengurangi kebutuhan energi aktif. Peneduh luar dapat mengurangi radiasi matahari sebelum mencapai kaca. Pohon dapat memberi keteduhan, tetapi penempatannya perlu mempertimbangkan akar, keamanan, dan kebutuhan cahaya. Strategi pasif sebaiknya disesuaikan dengan iklim lokal; rancangan untuk wilayah panas lembap berbeda dari wilayah sejuk atau kering. Simulasi dan pengukuran setelah bangunan digunakan membantu memeriksa kinerja sebenarnya.
 
-BAB 10. AUDIT DAN EVALUASI KINERJA ENERGI
+BAB 11. AUDIT DAN EVALUASI KINERJA ENERGI
 Audit energi mengumpulkan informasi tentang konsumsi, jadwal penggunaan, kondisi peralatan, dan karakter bangunan. Data tagihan dapat menunjukkan pola bulanan, tetapi tidak menjelaskan sendiri penyebab perubahan. Pengukuran terpilih, inspeksi, dan wawancara pengguna membantu melengkapi gambaran. Indikator seperti energi per luas lantai dapat membantu perbandingan, tetapi perlu memperhitungkan fungsi, jam operasi, iklim, dan jumlah penghuni. Rekomendasi harus membedakan tindakan tanpa biaya besar, perawatan, dan investasi. Setelah perbaikan, ukur kembali agar penghematan tidak hanya diasumsikan.
 
 STUDI KASUS
@@ -106,19 +103,19 @@ Konduksi: perpindahan panas melalui bahan.
 Selubung bangunan: elemen pembatas ruang dalam dan lingkungan luar.
 Ventilasi silang: aliran udara melalui bukaan pada sisi berbeda.
 
-BAB 11. SISTEM PENDINGINAN DAN BEBAN PUNCAK
+BAB 12. SISTEM PENDINGINAN DAN BEBAN PUNCAK
 Sistem pendinginan memindahkan panas dari ruang ke lingkungan luar. Kebutuhan pendinginan dipengaruhi suhu luar, radiasi matahari, jumlah penghuni, peralatan, kelembapan, dan pertukaran udara. Beban puncak adalah kebutuhan tertinggi dalam periode tertentu dan penting dalam perencanaan kapasitas. Sistem yang terlalu besar dapat bekerja tidak efisien dan mengendalikan kelembapan dengan kurang baik. Pemilihan sistem perlu mempertimbangkan ukuran ruang, pola pemakaian, perawatan, kebisingan, dan efisiensi pada kondisi operasi nyata.
 
-BAB 12. KENYAMANAN TERMAL DAN PENGGUNA
+BAB 13. KENYAMANAN TERMAL DAN PENGGUNA
 Kenyamanan termal tidak hanya ditentukan suhu udara. Suhu radiasi permukaan, kecepatan udara, kelembapan, pakaian, dan tingkat aktivitas ikut memengaruhi sensasi penghuni. Dua orang dalam ruang yang sama dapat merasakan kondisi berbeda. Karena itu, evaluasi bangunan perlu menggabungkan pengukuran dengan umpan balik pengguna. Pengaturan yang memberi kendali wajar kepada penghuni, seperti kipas atau peneduh yang dapat disesuaikan, dapat meningkatkan kenyamanan tanpa selalu menambah konsumsi energi besar.
 
-BAB 13. ENERGI TERBARUKAN PADA BANGUNAN
+BAB 14. ENERGI TERBARUKAN PADA BANGUNAN
 Panel surya mengubah sebagian energi cahaya menjadi energi listrik. Kinerja dipengaruhi orientasi, kemiringan, bayangan, suhu, kebersihan, dan karakter sistem. Produksi energi berubah sepanjang hari dan musim, sehingga perlu dibandingkan dengan pola konsumsi. Sistem penyimpanan dapat membantu menggeser penggunaan energi, tetapi memiliki biaya, umur pakai, dan dampak material. Penilaian yang baik memperhitungkan keseluruhan siklus hidup, bukan hanya energi yang dihasilkan saat beroperasi.
 
-BAB 14. MATERIAL, AIR, DAN SIKLUS HIDUP
+BAB 15. MATERIAL, AIR, DAN SIKLUS HIDUP
 Dampak bangunan tidak berhenti pada konsumsi listrik. Produksi bahan, transportasi, konstruksi, penggunaan air, pemeliharaan, dan akhir masa pakai juga memerlukan sumber daya. Pendekatan siklus hidup membantu membandingkan pilihan secara lebih menyeluruh. Bahan lokal dapat mengurangi sebagian kebutuhan transportasi, tetapi mutu, ketahanan, dan proses produksinya tetap perlu dinilai. Penghematan air dapat dilakukan melalui desain yang sesuai, pemantauan kebocoran oleh pengelola, serta pemilihan perlengkapan yang efisien.
 
-BAB 15. RENCANA PERBAIKAN BERDASARKAN DATA
+BAB 16. RENCANA PERBAIKAN BERDASARKAN DATA
 Rencana efisiensi sebaiknya dimulai dari data dasar: pemakaian energi, jadwal operasi, kondisi ruang, dan kebutuhan penghuni. Tetapkan indikator sebelum perubahan dilakukan, misalnya konsumsi per luas atau jam penggunaan. Setelah tindakan diterapkan, bandingkan data dengan mempertimbangkan perubahan cuaca dan jumlah pengguna. Catat biaya, kenyamanan, dan efek samping. Hasil yang transparan membantu menentukan apakah tindakan perlu diteruskan, diubah, atau dihentikan.
 
 LATIHAN TERAPAN

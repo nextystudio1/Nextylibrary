@@ -6,33 +6,44 @@ DESKRIPSI
 Memahami budaya, identitas, bahasa, tradisi, perubahan sosial, dan penelitian yang menghormati masyarakat.
 
 PETA BELAJAR
-Buku ini membangun pemahaman bertahap: mulai dari istilah, prinsip, contoh, penerapan, hingga evaluasi. Bacalah bab secara berurutan dan tuliskan pertanyaan yang muncul.
+Mulailah dengan mengamati bagaimana manusia membangun makna melalui bahasa, kebiasaan, simbol, hubungan keluarga, dan lembaga sosial. Bandingkan contoh dari konteks berbeda tanpa menganggap satu kebudayaan sebagai ukuran bagi kebudayaan lain.
 
 BAB 1. APA YANG DIPELAJARI ANTROPOLOGI
 
 Antropologi mempelajari manusia dan kehidupannya dalam berbagai konteks. Antropologi budaya menelaah makna, nilai, praktik, simbol, dan hubungan sosial. Budaya bukan sesuatu yang beku; ia dipelajari, diperdebatkan, diwariskan, dan berubah melalui interaksi antargenerasi serta hubungan dengan lingkungan.
 
 PENDALAMAN KONSEP
-Pisahkan definisi, mekanisme, dan akibat. Definisi menjelaskan arti istilah; mekanisme menerangkan bagaimana proses berlangsung; akibat menunjukkan perubahan yang dapat diamati. Ketiganya saling berkaitan, tetapi tidak boleh dicampur menjadi satu klaim. Saat menemukan penjelasan baru, tanyakan bukti apa yang mendukungnya dan dalam kondisi apa penjelasan itu berlaku.
+Dalam antropologi, praktik budaya perlu dipahami dari sudut pandang orang yang menjalankannya. Catat siapa yang memberi makna pada suatu kebiasaan, bagaimana makna itu diwariskan, dan bagaimana perubahan ekonomi, lingkungan, atau teknologi memengaruhinya. Hindari menyimpulkan karakter seluruh kelompok dari satu pengalaman individu.
 
 CONTOH KAJIAN
-Pilih contoh dari rumah, sekolah, lingkungan, atau berita yang relevan. Catat konteks, pihak yang terlibat, dan informasi yang tersedia. Uraikan konsep yang dapat digunakan untuk menjelaskan contoh tersebut. Tandai informasi yang belum diketahui agar tidak berubah menjadi asumsi.
+Pilih tradisi atau kebiasaan sosial yang dapat dipelajari melalui sumber terbuka dan pengamatan yang menghormati privasi. Uraikan konteks sejarahnya, istilah lokal yang digunakan, pihak yang terlibat, dan variasi praktik. Bedakan penjelasan warga dari penafsiran peneliti.
 
 LANGKAH PRAKTIK
-1. Tuliskan pertanyaan yang ingin dijawab.
+1. Rumuskan pertanyaan tentang praktik budaya tertentu.
+2. Tentukan konteks tempat, waktu, dan kelompok yang dibahas.
+3. Bandingkan sumber yang mewakili lebih dari satu sudut pandang.
+4. Catat istilah lokal beserta maknanya menurut sumber.
+5. Jelaskan perubahan budaya tanpa memberi penilaian merendahkan.
 2. Kumpulkan informasi dari sumber yang dapat diperiksa.
 3. Kelompokkan fakta, pendapat, dan dugaan.
 4. Terapkan konsep bab ini untuk menyusun penjelasan.
 5. Periksa apakah kesimpulan sesuai bukti.
 
 RANGKUMAN BAB
-- Kuasai istilah inti dan maknanya.
+- Makna budaya terbentuk dan dipelajari dalam kehidupan sosial.
+- Praktik yang tampak serupa dapat memiliki arti berbeda.
+- Perubahan budaya dipengaruhi banyak faktor yang saling berhubungan.
+- Penjelasan antropologis harus menghormati konteks dan keragaman.
 - Pahami proses, bukan hanya menghafal nama.
 - Gunakan contoh relevan dan jelaskan konteksnya.
 - Sebutkan keterbatasan informasi ketika bukti belum cukup.
 
 LATIHAN PEMAHAMAN
-1. Jelaskan gagasan utama bab ini dengan bahasamu sendiri.
+1. Bedakan kebudayaan, identitas, dan praktik sosial.
+2. Mengapa suatu kebiasaan perlu dipahami dalam konteksnya?
+3. Berikan contoh perubahan budaya akibat teknologi atau migrasi.
+4. Jelaskan risiko generalisasi terhadap kelompok masyarakat.
+5. Sumber apa yang dapat membantu memeriksa penjelasan budaya?
 2. Berikan dua contoh penerapan dan jelaskan perbedaannya.
 3. Sebutkan kesalahan pemahaman yang mungkin terjadi.
 4. Buat satu pertanyaan lanjutan yang dapat diteliti.
@@ -59,7 +70,7 @@ BAB 6. MENGHINDARI STEREOTIP
 Stereotip menyederhanakan kelompok menjadi gambaran tetap. Penelitian yang baik memeriksa variasi pengalaman dan memberi ruang bagi suara anggota komunitas. Ketika menulis tentang budaya lain, gunakan istilah yang dipilih komunitas jika memungkinkan, jelaskan konteks, dan jangan menganggap satu orang mewakili semua orang.
 
 PROYEK AKHIR
-Susun proyek mini yang menghubungkan sedikitnya tiga bab. Tentukan pertanyaan, tujuan, batasan, sumber informasi, metode, hasil yang diharapkan, dan cara mengevaluasi hasil. Proyek tidak harus mahal atau rumit. Utamakan ketelitian, keselamatan, dan kejujuran dalam mencatat temuan.
+Buat kajian mini tentang satu praktik budaya dengan menggunakan sumber yang dapat diperiksa. Jelaskan latar, makna menurut pihak terkait, variasi praktik, dan perubahan dari waktu ke waktu. Hindari mengambil atau menyebarkan informasi pribadi tanpa izin.
 
 EVALUASI AKHIR
 1. Terangkan konsep inti dari MENGHINDARI STEREOTIP dan perannya dalam bidang ini.
@@ -69,7 +80,7 @@ EVALUASI AKHIR
 5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
 
 PEDOMAN PENILAIAN
-Penilaian menggunakan empat kriteria: ketepatan konsep, kualitas bukti, kejelasan penalaran, dan kemampuan menyampaikan keterbatasan. Jawaban tidak harus sama persis dengan contoh selama argumennya konsisten dan didukung informasi yang tepat.
+Nilai ketepatan penggunaan konsep antropologi, kepekaan terhadap konteks, keragaman sumber, serta kemampuan menghindari stereotip. Kesimpulan harus membedakan data, penuturan narasumber, dan interpretasi penulis.
 
 GLOSARIUM
 Antropologi: Ilmu yang mempelajari manusia dan kehidupannya.
@@ -79,7 +90,7 @@ Observasi: Pengamatan sistematis terhadap suatu keadaan.
 Stereotip: Generalisasi sederhana terhadap anggota kelompok.
 
 CATATAN SUMBER DAN PENGEMBANGAN
-Buku ini merupakan materi pengantar orisinal. Untuk tugas akademik atau keputusan praktis, bandingkan penjelasan dengan buku ajar, standar, peraturan, dan publikasi lembaga yang kompeten. Catat judul sumber, penulis atau lembaga, tahun terbit, dan bagian yang digunakan. Periksa tanggal sumber pada topik yang dapat berubah.
+Untuk memperdalam antropologi budaya, gunakan karya etnografi, arsip, museum, dan publikasi akademik yang menjelaskan konteks serta metode. Perhatikan izin, atribusi, dan cara sumber menggambarkan masyarakat yang dibahas.
 
 BAB LANJUTAN: METODE ETNOGRAFI DAN PEMAHAMAN BUDAYA
 

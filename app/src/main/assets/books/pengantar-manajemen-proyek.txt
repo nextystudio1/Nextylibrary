@@ -62,7 +62,6 @@ TUGAS TERPADU
 Buat dokumen awal untuk proyek kecil: piagam proyek, daftar hasil, struktur pekerjaan, jadwal sederhana, perkiraan sumber daya, daftar risiko, dan rencana komunikasi. Tentukan kriteria penerimaan hasil serta cara menangani perubahan. Jelaskan asumsi yang digunakan dalam estimasi.
 
 EVALUASI AKHIR
-EVALUASI AKHIR
 1. Apa fungsi piagam proyek dan informasi apa yang wajib dicantumkan?
 2. Jelaskan cara memecah ruang lingkup menjadi paket pekerjaan yang dapat dipantau.
 3. Bagaimana ketergantungan kegiatan memengaruhi jalur kritis dan tanggal selesai?

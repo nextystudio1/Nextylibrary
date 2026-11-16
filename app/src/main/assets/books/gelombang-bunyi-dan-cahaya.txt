@@ -6,7 +6,7 @@ DESKRIPSI
 Memahami gelombang, getaran, bunyi, cahaya, pemantulan, pembiasan, dan penerapannya.
 
 TUJUAN PEMBELAJARAN
-Setelah mempelajari Gelombang, Bunyi, dan Cahaya, pembaca mampu menjelaskan memahami gelombang, getaran, bunyi, cahaya, pemantulan, pembiasan, dan penerapannya., membedakan istilah yang sering tertukar, menilai contoh berdasarkan bukti, dan menerapkan konsep secara tepat sesuai konteks.
+Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan besaran gelombang, membedakan gelombang mekanik dan elektromagnetik, memahami sifat bunyi dan cahaya, serta menerapkan prinsip pemantulan, pembiasan, interferensi, dan spektrum dalam contoh sehari-hari.
 
 BAB 1. GETARAN DAN GELOMBANG
 
@@ -49,11 +49,12 @@ BAB 6. SPEKTRUM DAN TEKNOLOGI
 Cahaya tampak merupakan bagian kecil dari spektrum elektromagnetik. Gelombang radio, inframerah, ultraviolet, sinar-X, dan gamma memiliki rentang frekuensi serta kegunaan berbeda. Pemanfaatannya harus memperhatikan keselamatan dan karakter masing-masing jenis radiasi.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari SPEKTRUM DAN TEKNOLOGI dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Gelombang, Bunyi, dan Cahaya.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+EVALUASI AKHIR
+1. Hitung frekuensi jika diketahui periode gelombang dan jelaskan hubungan keduanya.
+2. Bedakan gelombang transversal dan longitudinal.
+3. Jelaskan mengapa bunyi memerlukan medium untuk merambat, sedangkan cahaya dapat merambat di ruang hampa.
+4. Uraikan perbedaan pemantulan dan pembiasan cahaya.
+5. Sebutkan satu penerapan gelombang elektromagnetik dan jelaskan prinsip dasarnya.
 
 PEDOMAN JAWABAN
 Untuk Gelombang, Bunyi, dan Cahaya, jawaban perlu menggunakan istilah bidang secara akurat, menunjukkan hubungan konsep dengan contoh, dan menjelaskan alasan setiap kesimpulan. Terima penafsiran berbeda jika konsisten, didukung bukti, dan tidak melampaui informasi yang tersedia.

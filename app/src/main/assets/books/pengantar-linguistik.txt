@@ -184,3 +184,48 @@ LATIHAN DAN PEMBAHASAN
 3. Bedakan kohesi dan koherensi. Kohesi adalah penanda hubungan tekstual; koherensi adalah keterpaduan makna.
 4. Mengapa frekuensi korpus bukan ukuran kebenaran bahasa? Frekuensi dipengaruhi jenis dan cakupan data, bukan penilaian normatif.
 5. Sebutkan dua tantangan sistem bahasa otomatis. Konteks, ironi, dialek, bahasa campuran, dan bias data.
+BAB 14. VARIASI BAHASA, DIALEK, DAN SIKAP SOSIAL
+
+Bahasa tidak digunakan dalam ruang sosial yang netral. Penutur menyesuaikan pilihan kata, pelafalan, dan gaya berdasarkan lawan bicara, tujuan, tempat, serta hubungan sosial. Variasi dapat muncul menurut wilayah, kelompok usia, pekerjaan, komunitas, dan situasi formal atau santai. Perbedaan tersebut merupakan objek kajian linguistik, bukan bukti bahwa satu kelompok lebih cerdas daripada kelompok lain.
+
+Dialek dapat memiliki pola bunyi, kosakata, dan tata bahasa yang sistematis. Label “bahasa” dan “dialek” sering juga dipengaruhi sejarah, kebijakan, pendidikan, dan identitas. Peneliti perlu menjelaskan kriteria yang digunakan dan menghindari penilaian berdasarkan prasangka. Bahasa standar berguna dalam konteks tertentu, misalnya administrasi dan pendidikan formal, tetapi tidak menghapus nilai komunikasi varietas lain.
+
+Alih kode terjadi ketika penutur berpindah bahasa atau varietas dalam percakapan. Campur kode dapat melibatkan unsur dari lebih dari satu bahasa dalam satu tuturan. Fenomena ini dapat menunjukkan identitas, kedekatan, efisiensi, atau penyesuaian terhadap topik. Analisis harus melihat konteks percakapan, bukan langsung menyebutnya sebagai kerusakan bahasa.
+
+BAB 15. PRAGMATIK, KESANTUNAN, DAN KONTEKS
+
+Makna tuturan tidak hanya berasal dari arti kata. Pragmatik mempelajari bagaimana konteks membantu pendengar menafsirkan maksud. Kalimat “Di sini panas sekali” dapat menjadi pernyataan suhu, keluhan, atau permintaan tidak langsung untuk membuka jendela, bergantung pada situasi.
+
+Tindak tutur dapat dibedakan secara konseptual menjadi tindakan mengucapkan kalimat, maksud yang dilakukan melalui kalimat, dan akibat yang ditimbulkan pada pendengar. Permintaan, janji, peringatan, dan permohonan maaf memiliki syarat sosial yang berbeda. Keberhasilan suatu tindak tutur dipengaruhi hubungan peserta, norma, dan apakah tindakan tersebut sesuai keadaan.
+
+Kesantunan bukan daftar ungkapan yang berlaku sama di semua komunitas. Bentuk sapaan, jarak sosial, tingkat langsung, dan pilihan bahasa dapat berbeda. Penelitian harus memperhatikan perspektif peserta dan menghindari anggapan bahwa satu norma budaya mewakili seluruh penutur.
+
+BAB 16. WACANA, IDENTITAS, DAN KUASA
+
+Analisis wacana memeriksa bagaimana bahasa membentuk hubungan antargagasan, identitas, dan kekuasaan. Pilihan kata dalam berita, kebijakan, iklan, atau percakapan dapat menonjolkan satu sudut pandang dan mengaburkan sudut pandang lain. Analisis tidak cukup hanya mencari kata tertentu; konteks produksi, audiens, genre, dan struktur teks juga perlu diperiksa.
+
+Perhatikan siapa yang diberi kesempatan berbicara, siapa yang hanya dibicarakan, kata kerja apa yang digunakan, dan apakah pelaku suatu tindakan disebutkan. Kalimat pasif dapat berguna untuk menonjolkan peristiwa, tetapi dalam konteks tertentu juga dapat menyamarkan tanggung jawab. Temuan harus didukung contoh dan prosedur analisis yang transparan.
+
+BAB 17. PERANCANGAN PENELITIAN LINGUISTIK
+
+Penelitian dimulai dengan pertanyaan yang jelas, misalnya bagaimana bentuk sapaan digunakan dalam layanan publik atau bagaimana istilah teknis dijelaskan dalam buku sekolah. Tentukan unit analisis, konteks, sumber data, dan batas waktu. Pertanyaan yang terlalu luas sulit dijawab secara konsisten.
+
+Data dapat diperoleh melalui korpus, observasi, wawancara, kuesioner, rekaman yang disetujui, atau dokumen publik. Setiap metode memiliki keterbatasan. Korpus digital mungkin tidak mewakili penutur yang tidak aktif di internet. Wawancara dapat dipengaruhi situasi dan hubungan peneliti dengan responden. Kuesioner menangkap jawaban yang dilaporkan, bukan selalu perilaku nyata.
+
+Buat pedoman anotasi yang menjelaskan kategori dan contoh. Jika beberapa peneliti mengode data, uji konsistensi antarpenilai dan bahas kasus yang ambigu. Simpan data dengan aman, hapus informasi pribadi yang tidak diperlukan, dan jelaskan izin serta lisensi. Kesimpulan harus sebanding dengan cakupan sampel.
+
+BAB 18. BAHASA, PENDIDIKAN, DAN TEKNOLOGI
+
+Pendidikan bahasa melibatkan penguasaan bentuk, makna, penggunaan, serta kemampuan berkomunikasi dalam konteks. Pembelajaran bahasa tambahan dipengaruhi paparan, kesempatan praktik, motivasi, dukungan sosial, dan pengalaman belajar. Kesalahan merupakan bagian dari perkembangan sistem bahasa pembelajar; umpan balik sebaiknya membantu mereka memahami pola, bukan mempermalukan.
+
+Teknologi pemrosesan bahasa mencakup pengenalan ujaran, penerjemahan otomatis, pemeriksaan ejaan, pencarian, dan sistem percakapan. Kinerjanya bergantung pada data latihan, ragam bahasa, kualitas rekaman, dan konteks. Bahasa dengan sumber daya digital terbatas dapat mengalami ketimpangan dukungan. Evaluasi perlu menguji dialek, variasi ejaan, bahasa campuran, dan konteks penggunaan nyata.
+
+Sistem otomatis dapat menghasilkan kalimat lancar tetapi salah secara faktual atau pragmatik. Pengguna harus memeriksa hasil, terutama untuk dokumen penting, informasi kesehatan, hukum, atau keputusan berisiko. Pelestarian bahasa juga memerlukan persetujuan komunitas, kendali atas rekaman, dan pembagian manfaat yang adil.
+
+LATIHAN PENDALAMAN
+
+1. Mengapa variasi dialek tidak tepat dinilai sebagai ukuran kecerdasan?
+2. Berikan contoh bagaimana konteks mengubah maksud sebuah tuturan.
+3. Sebutkan dua cara bahasa dapat menampilkan atau menyamarkan kuasa.
+4. Mengapa sampel korpus daring mungkin tidak mewakili seluruh penutur?
+5. Apa yang harus diperhatikan ketika membangun teknologi untuk bahasa dengan data terbatas?

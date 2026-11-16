@@ -6,14 +6,14 @@ DESKRIPSI
 Memahami tata ruang, hunian, transportasi, ruang publik, layanan dasar, dan kota berkelanjutan.
 
 PENDAHULUAN
-Buku Pengantar Perencanaan Kota membahas memahami tata ruang, hunian, transportasi, ruang publik, layanan dasar, dan kota berkelanjutan.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini membahas kota sebagai sistem ruang dan aktivitas yang saling terhubung. Materi mencakup tata guna lahan, hunian, transportasi, ruang publik, layanan dasar, lingkungan perkotaan, partisipasi warga, dan prinsip kota berkelanjutan.
 
 BAB 1. KOTA SEBAGAI SISTEM
 
 Kota menggabungkan permukiman, kegiatan ekonomi, jaringan transportasi, ruang terbuka, layanan publik, dan infrastruktur. Unsur tersebut saling memengaruhi. Perencanaan kota mengatur pertumbuhan agar kebutuhan penduduk terpenuhi dengan mempertimbangkan keterbatasan lahan dan lingkungan.
 
 PENDALAMAN
-Pada KOTA SEBAGAI SISTEM, bedakan fakta, aturan, kepentingan, dan penilaian. Identifikasi pihak yang terlibat serta kelompok yang terdampak. Bandingkan sumber dan sudut pandang sebelum menyusun kesimpulan agar konteks tidak terabaikan.
+Pada KOTA SEBAGAI SISTEM, telusuri hubungan antara tempat tinggal, tempat kerja, sekolah, layanan kesehatan, transportasi, dan ruang terbuka. Perubahan pada satu unsur dapat memengaruhi akses dan kebutuhan unsur lain.
 
 KEGIATAN BELAJAR
 1. Jelaskan satu istilah kunci dari KOTA SEBAGAI SISTEM dengan kalimat sendiri.
@@ -50,14 +50,16 @@ BAB 6. PARTISIPASI DAN TATA KELOLA
 Perencanaan yang baik melibatkan warga, ahli, pelaku usaha, dan lembaga pemerintah. Informasi rencana harus mudah dipahami dan masukan perlu ditanggapi. Transparansi membantu mencegah konflik kepentingan dan meningkatkan kesesuaian proyek dengan kebutuhan masyarakat.
 
 PROYEK TERPADU
-Buat kajian mini untuk Pengantar Perencanaan Kota dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
+PROYEK TERPADU
+Amati satu kawasan yang dapat diakses dengan aman. Buat peta sederhana yang menandai hunian, jalan, halte atau titik transportasi, ruang terbuka, sekolah, dan layanan dasar. Nilai kemudahan berjalan kaki, akses bagi penyandang disabilitas, keselamatan penyeberangan, dan jarak ke layanan. Usulkan tiga perbaikan dan jelaskan kelompok yang paling diuntungkan serta data yang masih dibutuhkan.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari PARTISIPASI DAN TATA KELOLA dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Pengantar Perencanaan Kota.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+EVALUASI AKHIR
+1. Jelaskan hubungan tata guna lahan dan kebutuhan transportasi.
+2. Mengapa hunian terjangkau perlu dipertimbangkan bersama akses pekerjaan dan layanan?
+3. Sebutkan ciri ruang publik yang aman dan inklusif.
+4. Bandingkan pendekatan kota yang bergantung pada kendaraan pribadi dengan kota yang mendukung beragam moda.
+5. Jelaskan bagaimana partisipasi warga dapat memperbaiki rencana tata ruang.
 
 GLOSARIUM
 Tata guna lahan: Pengaturan pemanfaatan ruang untuk berbagai kegiatan.

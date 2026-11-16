@@ -174,3 +174,29 @@ Perlindungan konsumen: Upaya menjaga hak dan kepentingan pembeli atau pengguna.
 
 CATATAN BELAJAR DAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Untuk pendalaman, gunakan buku ajar dan publikasi lembaga kompeten. Catat penulis atau lembaga, judul, tahun, dan bagian sumber. Periksa tanggal pembaruan terutama untuk pengetahuan yang berkembang, peraturan, teknologi, dan data statistik.
+
+BAB LANJUTAN: EKONOMI DIGITAL, PLATFORM, DAN TATA KELOLA DATA
+
+1. Pasar digital dan efek jaringan
+Platform digital mempertemukan beberapa kelompok pengguna, misalnya penjual dan pembeli atau pembuat konten dan penonton. Nilai platform dapat meningkat ketika lebih banyak pihak bergabung, tetapi efek jaringan juga dapat memperkuat dominasi satu penyedia. Persaingan perlu dinilai dari kemudahan berpindah, interoperabilitas, biaya, kualitas layanan, dan pilihan nyata bagi pengguna.
+
+2. Model bisnis digital
+Pendapatan dapat berasal dari penjualan langsung, langganan, komisi, iklan, lisensi, atau layanan tambahan. Model gratis bagi pengguna belum tentu tanpa biaya; data, perhatian, dan ketergantungan pada platform dapat menjadi bagian dari pertukaran. Analisis bisnis harus menjelaskan siapa yang membayar, nilai yang diterima, dan risiko yang ditanggung.
+
+3. Data sebagai aset dan tanggung jawab
+Data dapat membantu memperbaiki layanan, tetapi pengumpulan harus memiliki tujuan yang jelas dan dasar yang sah. Terapkan prinsip minimisasi data, pembatasan akses, keamanan, masa simpan yang wajar, dan transparansi. Data pribadi tidak boleh dikumpulkan hanya karena secara teknis memungkinkan.
+
+4. Keamanan dan kepercayaan
+Organisasi perlu mengelola kata sandi, autentikasi, pembaruan perangkat lunak, pencadangan, pencatatan akses, dan penanganan insiden. Pengguna juga perlu mengenali pesan penipuan, tautan mencurigakan, dan permintaan informasi yang tidak relevan. Tanggung jawab keamanan tidak boleh dibebankan hanya kepada pengguna; penyedia layanan harus merancang perlindungan yang memadai.
+
+5. Pembayaran dan inklusi
+Pembayaran digital dapat memperluas akses, namun membutuhkan konektivitas, perangkat, literasi, dan perlindungan konsumen. Biaya transaksi, gangguan layanan, kesalahan transfer, dan penyalahgunaan akun perlu dipertimbangkan. Desain layanan harus menyediakan bantuan dan mekanisme penyelesaian masalah yang jelas.
+
+6. Algoritma dan dampak sosial
+Sistem rekomendasi dan pemeringkatan memengaruhi informasi yang dilihat pengguna. Hasilnya dapat dipengaruhi data latihan, tujuan optimasi, dan rancangan produk. Evaluasi perlu menguji akurasi, bias, keterjelasan, dampak terhadap kelompok berbeda, serta jalur banding ketika keputusan otomatis merugikan.
+
+7. Mengukur keberhasilan
+Jumlah unduhan atau pengguna aktif tidak cukup. Ukur juga retensi yang sehat, kepuasan, aksesibilitas, penyelesaian masalah, keamanan, biaya, dan dampak terhadap mitra. Indikator harus sesuai tujuan layanan dan tidak mendorong praktik manipulatif.
+
+LATIHAN
+Analisis sebuah layanan digital yang dikenal luas. Gambarkan kelompok pengguna, sumber pendapatan, data yang dibutuhkan, risiko, cara melindungi konsumen, dan tiga indikator keberhasilan yang lebih bermakna daripada jumlah pengguna.

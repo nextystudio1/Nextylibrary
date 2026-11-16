@@ -53,21 +53,21 @@ BAB 6. PRIVASI DAN ETIKA
 Peta lokasi dapat mengungkap rumah, sekolah, tempat kerja, atau pola aktivitas individu. Hindari membagikan lokasi sensitif tanpa alasan dan izin. Gunakan data terbuka sesuai lisensinya dan pertimbangkan dampak pemakaian.
 
 PROYEK AKHIR
-Pilih topik yang menghubungkan minimal tiga bab. Rumuskan pertanyaan, tujuan, batasan, metode, dan bentuk hasil. Gunakan sumber yang dapat diverifikasi serta catat proses pengumpulan informasi. Sajikan data dengan jelas, pisahkan temuan dari interpretasi, dan jelaskan keterbatasan.
+Buat peta tematik sederhana untuk satu wilayah yang datanya dapat digunakan secara sah. Tentukan tujuan peta, skala, sistem koordinat, sumber data, dan kelompok pengguna. Susun lapisan informasi, periksa konsistensi atribut serta metadata, lalu jelaskan keterbatasan ketelitian dan risiko salah tafsir.
 
 EVALUASI AKHIR
-1. Sebutkan lima gagasan inti buku.
-2. Jelaskan hubungan antarbab dengan contoh.
-3. Analisis satu kasus berdasarkan bukti.
-4. Bandingkan dua pendekatan dan konsekuensinya.
-5. Tulis hal yang masih perlu dipelajari.
+1. Jelaskan perbedaan data spasial berbentuk titik, garis, dan poligon.
+2. Mengapa sistem koordinat dan proyeksi harus dicatat saat menggabungkan data?
+3. Pilih simbol dan skala yang sesuai untuk satu tujuan peta.
+4. Uraikan pemeriksaan kualitas atribut dan posisi.
+5. Sebutkan informasi metadata yang membantu orang lain menilai peta.
 
 GLOSARIUM
-Konsep: Gagasan utama untuk memahami topik.
-Bukti: Informasi yang dapat diperiksa untuk mendukung klaim.
-Konteks: Keadaan yang memengaruhi makna atau penerapan.
-Metode: Langkah sistematis untuk mencapai tujuan.
-Evaluasi: Penilaian berdasarkan kriteria dan bukti.
+Data spasial: Data yang memiliki informasi lokasi atau bentuk geografis.
+Koordinat: Nilai yang menyatakan posisi dalam suatu sistem acuan.
+Proyeksi peta: Cara merepresentasikan permukaan bumi pada bidang datar.
+Layer: Lapisan informasi tematik dalam sistem pemetaan.
+Metadata: Keterangan mengenai asal, struktur, waktu, dan kualitas data.
 
 CATATAN SUMBER
 Materi ini merupakan naskah pengantar orisinal Nexty Studio. Untuk pendalaman, rujuk buku ajar, publikasi ilmiah, standar, dan lembaga yang kompeten. Catat identitas sumber dan tanggal akses.

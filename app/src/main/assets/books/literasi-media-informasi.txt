@@ -125,8 +125,6 @@ Laporan, infografik, dan presentasi menyatakan tujuan, audiens, sumber, tanggal,
 LATIHAN
 Pilih lima klaim dari pesan viral. Untuk tiap klaim, catat sumber pertama, bukti pendukung, bukti bertentangan, tanggal, dan status verifikasi. Tandai klaim yang belum dapat dipastikan.
 
-
-
 BAB LANJUTAN — ALGORITMA REKOMENDASI DAN RUANG INFORMASI
 
 Platform digital menggunakan sistem rekomendasi untuk memilih konten yang mungkin menarik bagi pengguna. Sistem dapat mempertimbangkan riwayat tontonan, interaksi, dan kesamaan perilaku pengguna. Rekomendasi membantu menemukan informasi, tetapi dapat mempersempit paparan jika pengguna hanya melihat materi serupa berulang kali.

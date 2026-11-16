@@ -136,8 +136,6 @@ LATIHAN
 3. Apa beda barisan dan deret? Barisan adalah urutan; deret adalah jumlah suku.
 4. Mengapa model divalidasi? Untuk menguji kesesuaian asumsi dan hasil dengan kenyataan.
 
-
-
 BAB LANJUTAN — FUNGSI KUADRAT DAN PEMODELAN
 
 Fungsi kuadrat memiliki bentuk umum f(x) = ax² + bx + c dengan a tidak sama dengan nol. Grafiknya berupa parabola. Tanda koefisien a menentukan arah buka parabola: jika positif, terbuka ke atas; jika negatif, terbuka ke bawah. Titik puncak menunjukkan nilai minimum atau maksimum pada grafik.
@@ -468,7 +466,6 @@ Komposisi fungsi: penerapan suatu fungsi pada hasil fungsi lain.
 Fungsi invers: fungsi yang membalik pemetaan fungsi asal.
 Barisan aritmetika: barisan dengan beda tetap.
 Barisan geometri: barisan dengan rasio tetap.
-
 
 BAB PENGAYAAN 1 — PERSAMAAN DAN PERTIDAKSAMAAN LINEAR
 

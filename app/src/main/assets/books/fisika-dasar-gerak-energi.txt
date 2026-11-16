@@ -1256,4 +1256,320 @@ Pembaca yang menguasai dasar fisika diharapkan mampu bertanya secara terarah, me
 
 Teruslah belajar dengan rasa ingin tahu, ketelitian, sikap terbuka terhadap bukti, dan perhatian pada keselamatan. Pemahaman ilmiah berkembang ketika pertanyaan diuji dan penjelasan bersedia diperbaiki.
 
-Akhir naskah edisi pembelajaran.
+
+BAGIAN XIV — PENGAYAAN TOPIK DAN CONTOH ANALISIS
+
+BAB 97 — GERAK PROYEKTIL: MEMBACA ASUMSI DAN HASIL
+
+Gerak proyektil sering diperkenalkan dengan benda yang bergerak setelah diberi kecepatan awal, lalu hanya dipengaruhi gravitasi. Model ini memisahkan gerak horizontal dan vertikal. Pemisahan tersebut dapat dilakukan karena kedua komponen memiliki persamaan gerak masing-masing dan menggunakan waktu yang sama.
+
+Pada arah horizontal, jika hambatan udara diabaikan, kecepatan tetap. Pada arah vertikal, percepatan konstan mengarah ke bawah. Di titik tertinggi lintasan, komponen kecepatan vertikal sesaat nol, tetapi komponen horizontal tetap ada. Karena itu, benda tidak berhenti di titik tertinggi.
+
+Lintasan parabola hanya merupakan hasil model ideal. Hambatan udara dapat mengubah bentuk lintasan, mengurangi jangkauan, dan membuat lintasan naik serta turun tidak simetris. Putaran benda juga dapat memengaruhi gerak melalui interaksi dengan udara. Untuk analisis olahraga atau rekayasa, pengukuran dan model yang lebih rinci diperlukan.
+
+Saat menyelesaikan soal, tentukan sumbu vertikal positif ke atas atau ke bawah, lalu pertahankan konvensi itu. Tuliskan komponen kecepatan awal, percepatan, dan kondisi batas. Periksa apakah waktu yang dihitung sesuai dengan situasi, misalnya saat benda kembali ke ketinggian awal atau mencapai ketinggian tertentu.
+
+BAB 98 — GAYA SENTRIPETAL DALAM BERBAGAI SISTEM
+
+Gerak melingkar terjadi ketika arah kecepatan berubah terus-menerus. Percepatan radial menuju pusat lintasan memiliki besar v²/r. Resultan gaya radial harus menghasilkan percepatan tersebut menurut Hukum II Newton.
+
+Pada satelit ideal, gravitasi menyediakan gaya radial. Pada kendaraan yang berbelok, gesekan antara ban dan jalan dapat menyediakan gaya yang diperlukan. Pada benda yang bergerak melingkar dengan tali, tegangan dapat berperan. Sumber gaya berbeda, tetapi kebutuhan percepatan radial berasal dari perubahan arah kecepatan.
+
+Jika kelajuan berubah, terdapat pula komponen percepatan tangensial. Percepatan total merupakan gabungan komponen radial dan tangensial yang saling tegak lurus. Membedakan keduanya membantu menjelaskan gerak melingkar tidak beraturan.
+
+Istilah “gaya sentrifugal” dapat muncul ketika pengamat menggunakan kerangka berputar. Dalam kerangka inersial, gaya nyata yang mengarah ke pusat menghasilkan percepatan radial. Dalam kerangka berputar, gaya semu dapat diperkenalkan agar hukum gerak dapat ditulis dalam kerangka tersebut. Keduanya merupakan cara analisis yang berbeda dan tidak boleh dicampur tanpa penjelasan.
+
+BAB 99 — HUKUM KEKEKALAN DAN SIMETRI
+
+Hukum kekekalan menyatakan bahwa besaran tertentu tetap pada sistem yang memenuhi kondisi tertentu. Kekekalan energi berkaitan dengan sifat waktu yang seragam dalam hukum fisika, sedangkan kekekalan momentum berkaitan dengan keseragaman ruang. Hubungan mendalam antara simetri dan kekekalan dirumuskan secara matematis dalam teorema Noether.
+
+Pada tingkat pengantar, pembaca dapat memahami bahwa hukum kekekalan bukan aturan yang berlaku tanpa syarat. Momentum total sistem dapat berubah jika ada resultan gaya luar. Energi suatu sistem terbuka dapat berubah karena energi masuk atau keluar. Muatan listrik total pada sistem terisolasi tetap.
+
+Saat menggunakan hukum kekekalan, selalu tanyakan: besaran apa yang dipertahankan, sistem apa yang dipilih, selama interval mana, dan pengaruh luar apa yang dapat diabaikan? Pertanyaan tersebut lebih penting daripada sekadar menghafalkan persamaan.
+
+BAB 100 — PUSAT MASSA DAN GERAK SISTEM BANYAK BENDA
+
+Sistem yang terdiri atas banyak benda dapat dianalisis melalui gerak pusat massanya. Pusat massa bergerak seolah-olah seluruh massa sistem terkumpul di titik itu dan resultan gaya eksternal bekerja padanya, dalam kerangka mekanika Newton.
+
+Gaya internal dapat mengubah gerak bagian-bagian sistem, tetapi tidak mengubah momentum total sistem. Contohnya, dua benda yang saling mendorong dapat bergerak saling menjauh, sementara pusat massa tetap diam jika mula-mula diam dan tidak ada gaya eksternal.
+
+Konsep pusat massa digunakan untuk menganalisis gerak benda yang terpecah, sistem kendaraan, dan gerak atlet. Namun, mengetahui pusat massa saja belum cukup untuk menilai stabilitas atau rotasi; distribusi massa dan torsi juga penting.
+
+BAB 101 — TUMBUKAN DALAM DUA DIMENSI
+
+Tumbukan dua dimensi melibatkan komponen momentum pada dua sumbu. Kekekalan momentum diterapkan secara terpisah pada sumbu x dan y jika resultan gaya luar selama tumbukan dapat diabaikan. Dengan demikian, satu persamaan vektor menjadi dua persamaan komponen.
+
+Energi kinetik hanya kekal pada tumbukan elastis ideal. Pada tumbukan tidak elastis, sebagian energi kinetik berubah menjadi energi internal, suara, atau perubahan bentuk. Informasi tentang apakah benda menempel, memantul, atau berubah bentuk diperlukan untuk menentukan model yang tepat.
+
+Dalam analisis, pilih sumbu yang memudahkan arah gerak awal. Beri tanda positif dan negatif pada komponen kecepatan. Jangan menjumlahkan besar momentum tanpa memperhatikan arah. Setelah memperoleh komponen akhir, besar dan arah vektor dapat dihitung dengan geometri.
+
+BAB 102 — TEKANAN ATMOSFER DAN CUACA
+
+Tekanan atmosfer timbul dari berat kolom udara di atas suatu wilayah dan interaksi gerak atmosfer. Tekanan berubah terhadap ketinggian, suhu, kelembapan, dan sistem cuaca. Barometer mengukur tekanan atmosfer dan dapat digunakan bersama data lain untuk memahami perubahan cuaca.
+
+Udara bergerak dari wilayah bertekanan relatif tinggi menuju wilayah bertekanan relatif rendah, tetapi arah dan kecepatannya dipengaruhi rotasi Bumi, gesekan permukaan, serta bentuk topografi. Karena itu, angin tidak selalu bergerak lurus dari tekanan tinggi ke tekanan rendah.
+
+Peta isobar menghubungkan titik-titik dengan tekanan sama. Jarak antarisobar dapat memberi petunjuk tentang gradien tekanan. Interpretasi cuaca tetap memerlukan data suhu, kelembapan, awan, angin, dan pengamatan vertikal atmosfer.
+
+BAB 103 — PRINSIP KERJA POMPA DAN SISTEM HIDRAULIK
+
+Pompa memindahkan fluida dengan memberikan energi kepada aliran. Energi dapat digunakan untuk menaikkan tekanan, mengatasi perbedaan ketinggian, dan mengatasi kehilangan akibat gesekan. Pemilihan pompa bergantung pada laju aliran, tekanan yang diperlukan, sifat fluida, dan karakter sistem.
+
+Sistem hidraulik memanfaatkan fluida yang relatif sulit dimampatkan untuk meneruskan tekanan. Perbedaan luas piston dapat menghasilkan perbedaan gaya, tetapi perpindahan piston juga berbeda. Dalam sistem ideal, keuntungan gaya disertai pengurangan jarak perpindahan sehingga usaha tidak bertambah secara ajaib.
+
+Sistem nyata memiliki kebocoran, gesekan, kompresibilitas kecil, dan batas tekanan. Rancangan harus mengikuti standar teknik dan prosedur keselamatan. Penjelasan prinsip ini tidak dimaksudkan sebagai petunjuk membuat alat bertekanan.
+
+BAB 104 — PERUBAHAN FASE DAN DIAGRAM FASE
+
+Diagram fase menunjukkan keadaan zat pada kombinasi tekanan dan suhu. Wilayah diagram menunjukkan fase padat, cair, atau gas yang stabil. Garis batas menggambarkan kondisi kesetimbangan antara dua fase.
+
+Titik tripel adalah kondisi ketika tiga fase dapat berada dalam kesetimbangan. Titik kritis menandai akhir batas antara cairan dan gas; di atas kondisi kritis, zat dapat berada sebagai fluida superkritis. Istilah ini membantu menjelaskan mengapa sifat zat tidak selalu mengikuti gambaran sederhana tiga wujud.
+
+Diagram fase penting dalam meteorologi, geologi, teknik pangan, dan industri. Air memiliki perilaku khusus pada fase padat karena struktur kristalnya membuat es kurang rapat daripada air cair pada kondisi umum. Sifat ini berdampak pada danau, ekosistem, dan proses alam.
+
+BAB 105 — MESIN KALOR, KULKAS, DAN POMPA KALOR
+
+Mesin kalor menerima energi dari sumber bersuhu tinggi, mengubah sebagian menjadi usaha, lalu melepaskan sisa energi ke lingkungan bersuhu lebih rendah. Efisiensi mesin kalor dibatasi oleh hukum kedua termodinamika. Mesin nyata memiliki kehilangan akibat gesekan, perpindahan kalor yang tidak ideal, dan proses yang tidak reversibel.
+
+Kulkas menggunakan usaha dari luar untuk memindahkan kalor dari ruang dingin ke lingkungan yang lebih hangat. Pompa kalor menggunakan prinsip yang sama tetapi tujuan utamanya menyediakan pemanasan pada ruang tertentu. Kinerja kulkas dan pompa kalor sering dinilai dengan koefisien performa, bukan efisiensi mesin kalor biasa.
+
+Perangkat tersebut menunjukkan bahwa energi tidak diciptakan. Energi listrik digunakan untuk menggerakkan kompresor dan memindahkan kalor. Nilai kinerja bergantung pada perbedaan suhu, rancangan, kondisi operasi, dan pemeliharaan.
+
+BAB 106 — EFEK DOPPLER
+
+Efek Doppler adalah perubahan frekuensi teramati ketika sumber gelombang dan pengamat bergerak relatif. Ketika sumber dan pengamat saling mendekat, frekuensi yang teramati umumnya lebih tinggi; ketika saling menjauh, frekuensinya lebih rendah. Fenomena ini terjadi pada bunyi dan gelombang elektromagnetik dengan rumusan yang sesuai.
+
+Pada bunyi, cepat rambat gelombang bergantung pada medium. Gerak sumber mengubah jarak antar-muka gelombang yang dipancarkan, sedangkan gerak pengamat mengubah laju pengamat melewati muka gelombang. Karena itu, rumus perlu disesuaikan dengan siapa yang bergerak dan arah geraknya.
+
+Efek Doppler digunakan dalam radar, pengukuran aliran, astronomi, dan pemeriksaan medis tertentu. Dalam astronomi, pergeseran spektrum membantu mengukur gerak relatif sumber cahaya. Interpretasi perlu memperhitungkan jenis gelombang dan kondisi pengamatan.
+
+BAB 107 — GELOMBANG BERDIRI DAN RESONANSI AKUSTIK
+
+Gelombang berdiri terbentuk ketika gelombang datang dan pantul saling bertumpuk dengan frekuensi sama dalam arah berlawanan. Pola tersebut memiliki simpul, yaitu titik dengan amplitudo minimum, dan perut, yaitu titik dengan amplitudo maksimum.
+
+Pada dawai yang kedua ujungnya terikat, pola gelombang berdiri hanya muncul pada panjang gelombang tertentu yang memenuhi syarat batas. Frekuensi alami dawai dipengaruhi panjang, tegangan, massa per satuan panjang, dan kondisi ujung.
+
+Kolom udara dalam pipa juga dapat beresonansi. Alat musik memanfaatkan bentuk resonansi untuk menghasilkan nada. Ruang dan bahan memengaruhi pantulan serta penyerapan bunyi, sehingga desain akustik mempertimbangkan waktu dengung dan kejelasan suara.
+
+BAB 108 — PEMBENTUKAN BAYANGAN DAN ABERASI LENSA
+
+Lensa ideal digambarkan dengan permukaan dan indeks bias yang menghasilkan pemfokusan sesuai persamaan lensa tipis. Lensa nyata dapat memiliki aberasi sferis, kromatik, koma, dan distorsi. Aberasi menyebabkan citra tidak setajam atau seakurat prediksi model ideal.
+
+Aberasi kromatik terjadi karena indeks bias bahan bergantung pada panjang gelombang. Warna berbeda dapat difokuskan pada posisi berbeda. Sistem lensa majemuk dirancang untuk mengurangi aberasi dengan menggabungkan bahan dan bentuk lensa yang sesuai.
+
+Resolusi juga dibatasi difraksi, getaran, fokus, kualitas sensor, dan kondisi cahaya. Karena itu, kualitas kamera atau mikroskop tidak ditentukan oleh angka perbesaran atau jumlah piksel saja. Seluruh sistem optik dan pemrosesan citra berperan.
+
+BAB 109 — EFEK FOTOLISTRIK DAN FOTON
+
+Efek fotolistrik terjadi ketika cahaya mengenai bahan dan menyebabkan elektron terlepas jika energi foton cukup. Energi foton berbanding lurus dengan frekuensi cahaya. Intensitas yang lebih besar berarti lebih banyak energi datang per satuan waktu pada kondisi tertentu, tetapi frekuensi menentukan energi tiap foton.
+
+Fenomena ini membantu menunjukkan bahwa cahaya dapat berinteraksi dalam paket energi diskret yang disebut foton. Model klasik gelombang saja tidak cukup menjelaskan seluruh pengamatan efek fotolistrik. Penjelasan kuantum menghubungkan energi foton dengan frekuensi.
+
+Efek fotolistrik menjadi dasar bagi beberapa sensor cahaya dan teknologi fotovoltaik, meskipun mekanisme rinci perangkat dapat berbeda. Penggunaan teknologi tersebut memperlihatkan hubungan fisika dasar dengan rekayasa modern.
+
+BAB 110 — RADIOAKTIVITAS DAN INTI ATOM
+
+Inti atom tersusun atas proton dan neutron. Beberapa inti tidak stabil dan dapat mengalami peluruhan radioaktif, yaitu perubahan spontan yang disertai emisi partikel atau radiasi. Jenis peluruhan antara lain alfa, beta, dan gamma, dengan sifat serta daya tembus berbeda.
+
+Aktivitas radioaktif menyatakan jumlah peluruhan per satuan waktu. Waktu paruh adalah waktu yang diperlukan agar jumlah inti radioaktif yang belum meluruh menjadi setengah dari jumlah awal dalam model peluruhan eksponensial. Waktu paruh bersifat khas bagi isotop tertentu.
+
+Radiasi pengion dapat berinteraksi dengan jaringan dan bahan. Penggunaan sumber radioaktif memerlukan pengendalian, perizinan, pelindung, pemantauan, dan prosedur profesional. Materi ini hanya untuk pemahaman ilmiah, bukan panduan memperoleh atau menangani sumber radiasi.
+
+BAB 111 — ENERGI IKAT INTI DAN REAKSI NUKLIR
+
+Energi ikat inti berkaitan dengan energi yang diperlukan untuk memisahkan inti menjadi proton dan neutron penyusunnya. Massa inti lebih kecil daripada jumlah massa partikel bebas penyusunnya; selisih massa berkaitan dengan energi ikat melalui hubungan massa-energi.
+
+Fisi adalah pembelahan inti berat menjadi inti lebih ringan, sedangkan fusi adalah penggabungan inti ringan. Kedua proses dapat melepaskan energi jika produk memiliki energi ikat per nukleon yang lebih besar daripada keadaan awal. Reaksi nuklir berbeda dari reaksi kimia karena melibatkan inti atom.
+
+Reaktor nuklir dirancang dengan sistem kendali, pendinginan, pelindung radiasi, dan penghalang keselamatan berlapis. Pembahasan konsep energi nuklir harus memisahkan prinsip fisika, desain teknik, tata kelola, limbah, dan risiko. Naskah ini tidak memberikan instruksi pengoperasian atau pembangunan perangkat nuklir.
+
+BAB 112 — RELATIVITAS KHUSUS DAN BATAS KECEPATAN
+
+Relativitas khusus menjelaskan ruang dan waktu bagi pengamat inersial. Dua prinsip utamanya adalah hukum fisika sama dalam semua kerangka inersial dan kecepatan cahaya di vakum sama bagi semua pengamat inersial. Konsekuensinya, pengukuran waktu dan panjang bergantung pada keadaan gerak pengamat.
+
+Dilatasi waktu berarti jam yang bergerak relatif terhadap pengamat dapat terukur berdetak lebih lambat menurut pengamat tersebut. Kontraksi panjang berlaku pada panjang yang diukur sejajar arah gerak. Efek ini sangat kecil pada kecepatan sehari-hari, tetapi penting pada kecepatan mendekati cahaya.
+
+Tidak ada benda bermassa yang dapat dipercepat hingga mencapai kecepatan cahaya di vakum melalui proses biasa karena kebutuhan energi meningkat tanpa batas dalam model relativitas khusus. Hubungan energi-massa menunjukkan bahwa massa dan energi merupakan aspek yang saling terkait.
+
+BAB 113 — ASTRONOMI DAN SPEKTRUM CAHAYA BINTANG
+
+Cahaya bintang membawa informasi tentang suhu, komposisi kimia, gerak, dan kondisi fisiknya. Spektrum cahaya dapat diuraikan menjadi panjang gelombang. Garis spektrum tertentu berkaitan dengan transisi energi atom dan ion.
+
+Pola garis serapan atau emisi membantu astronom mengenali unsur kimia. Pergeseran garis spektrum dapat menunjukkan gerak relatif melalui efek Doppler. Intensitas dan warna juga memberi petunjuk suhu permukaan, walaupun analisis sebenarnya memerlukan model atmosfer bintang.
+
+Jarak bintang sulit diukur secara langsung. Paralaks tahunan mengukur perubahan posisi tampak bintang relatif terhadap latar belakang ketika Bumi mengorbit Matahari. Untuk jarak lebih jauh, astronom menggunakan metode lain yang dikalibrasi. Setiap metode memiliki rentang dan ketidakpastian.
+
+BAB 114 — FISIKA PARTIKEL DAN MODEL STANDAR
+
+Fisika partikel mempelajari komponen dasar materi dan interaksinya. Model Standar mengelompokkan partikel menjadi fermion penyusun materi dan boson pembawa interaksi. Quark membentuk proton dan neutron; elektron termasuk keluarga lepton.
+
+Model Standar menjelaskan elektromagnetisme, interaksi lemah, dan interaksi kuat melalui kerangka teori kuantum medan. Gravitasi belum tergabung secara lengkap dalam model ini. Karena itu, fisika modern masih memiliki pertanyaan terbuka tentang materi gelap, energi gelap, dan penyatuan teori.
+
+Eksperimen partikel menggunakan detektor dan akselerator untuk menguji prediksi teori. Hasilnya dianalisis secara statistik dan memerlukan kolaborasi besar. Penemuan ilmiah dinilai melalui bukti yang dapat diperiksa dan direplikasi, bukan klaim tunggal.
+
+BAB 115 — SIMULASI KOMPUTER DALAM FISIKA
+
+Simulasi komputer menyelesaikan model matematika secara numerik ketika solusi analitik sulit diperoleh. Simulasi dapat digunakan untuk mempelajari gerak, aliran fluida, cuaca, struktur material, dan sistem banyak partikel.
+
+Hasil simulasi bergantung pada model, parameter, kondisi awal, metode numerik, dan resolusi komputasi. Kesalahan pembulatan serta langkah waktu atau ruang yang terlalu besar dapat menghasilkan artefak. Karena itu, simulasi perlu diuji melalui verifikasi kode dan validasi terhadap data atau teori yang relevan.
+
+Visualisasi simulasi dapat membantu memahami pola, tetapi gambar yang menarik tidak otomatis menjadi bukti. Pembaca harus menanyakan persamaan apa yang digunakan, asumsi apa yang dibuat, dan seberapa sensitif hasil terhadap perubahan parameter.
+
+BAB 116 — KECERDASAN BUATAN DAN ANALISIS DATA FISIKA
+
+Kecerdasan buatan dapat membantu mengelompokkan data, mengenali pola citra, memperkirakan parameter, dan mempercepat analisis. Dalam fisika, metode pembelajaran mesin digunakan untuk memilah data eksperimen besar dan menemukan pola yang sulit dikenali secara manual.
+
+Model AI tetap bergantung pada data pelatihan dan tujuan optimisasi. Data yang tidak seimbang, label keliru, atau kondisi pengukuran yang berbeda dapat membuat prediksi bias. Model yang cocok pada data pelatihan belum tentu bekerja baik pada data baru.
+
+AI tidak menggantikan hukum fisika atau pemeriksaan ilmiah. Prediksi perlu dibandingkan dengan pengukuran, diuji pada data terpisah, dan disertai ukuran ketidakpastian. Peneliti harus mendokumentasikan metode serta tidak menyajikan keluaran model sebagai pengamatan langsung.
+
+BAB 117 — ETIKA DATA DAN REPRODUKSIBILITAS
+
+Reproduksibilitas berarti metode dan analisis dijelaskan cukup rinci agar pihak lain dapat memeriksa atau mengulangi pekerjaan. Data mentah, kode, parameter, dan catatan eksperimen membantu meningkatkan keterlacakan jika dapat dibagikan secara aman dan sesuai izin.
+
+Privasi dan keamanan tetap perlu dijaga. Data yang memuat informasi pribadi tidak boleh dipublikasikan tanpa dasar dan izin yang sesuai. Dalam proyek pembelajaran, gunakan data terbuka atau data buatan yang tidak mengidentifikasi individu.
+
+Peneliti perlu melaporkan hasil negatif maupun positif, menyebut keterbatasan, dan menghindari manipulasi grafik. Transparansi tidak berarti semua data harus dibuka tanpa pertimbangan; tata kelola data harus menyeimbangkan keterbukaan, hak, dan keselamatan.
+
+BAB 118 — MENILAI KUALITAS SUMBER ILMIAH
+
+Sumber ilmiah dapat berupa buku ajar, artikel penelitian, laporan lembaga, data terbuka, dan bahan pendidikan. Nilai sumber berdasarkan keahlian penulis, metode, tanggal, penerbit, referensi, serta kemungkinan konflik kepentingan.
+
+Artikel yang ditinjau sejawat telah melewati proses penilaian oleh ahli, tetapi bukan berarti bebas dari kesalahan. Periksa ukuran sampel, metode pengukuran, analisis, batasan, dan apakah hasil telah didukung penelitian lain. Berita sains sebaiknya ditelusuri ke penelitian atau lembaga asal.
+
+Sumber populer dapat berguna untuk pengantar, tetapi klaim teknis sebaiknya diperiksa melalui sumber primer atau buku ajar tepercaya. Catat tanggal akses karena data dan standar dapat berubah.
+
+BAB 119 — MENYUSUN LAPORAN FISIKA YANG DAPAT DIPERIKSA
+
+Laporan fisika yang baik dimulai dari pertanyaan yang jelas dan tujuan terukur. Pendahuluan menjelaskan konsep terkait. Metode menyebut alat, variabel, prosedur aman, dan cara pengolahan data. Hasil menampilkan tabel atau grafik tanpa mengubah data agar sesuai harapan.
+
+Pembahasan menghubungkan hasil dengan model, menghitung besaran yang relevan, serta membahas ketidakpastian dan penyimpangan. Kesimpulan menjawab pertanyaan secara proporsional. Sumber rujukan dicantumkan agar pembaca dapat menelusuri konsep.
+
+Gunakan bahasa yang tepat dan hindari klaim berlebihan. Pisahkan hasil pengukuran dari interpretasi. Jika eksperimen tidak berhasil, jelaskan apa yang terjadi dan apa yang dapat diperbaiki. Kegagalan prosedur dapat menjadi informasi pembelajaran jika dilaporkan jujur.
+
+BAB 120 — RENCANA PENGUASAAN FISIKA SELAMA DELAPAN MINGGU
+
+Minggu pertama berfokus pada satuan, dimensi, vektor, dan pengukuran. Latihan utama adalah konversi satuan, membaca grafik sederhana, serta menuliskan ketidakpastian. Minggu kedua mempelajari gerak lurus, percepatan, dan grafik posisi-waktu serta kecepatan-waktu.
+
+Minggu ketiga mempelajari gaya, Hukum Newton, gesekan, dan gerak melingkar. Minggu keempat mempelajari usaha, energi, momentum, tumbukan, dan rotasi. Setiap sesi sebaiknya mencakup ringkasan konsep dan beberapa soal bertahap.
+
+Minggu kelima membahas fluida, suhu, kalor, dan termodinamika. Minggu keenam membahas getaran, gelombang, bunyi, dan optika. Minggu ketujuh membahas listrik, magnet, dan teknologi semikonduktor. Minggu kedelapan digunakan untuk proyek analisis data, mengulang konsep yang lemah, dan menyusun portofolio.
+
+Jadwal dapat disesuaikan dengan waktu belajar dan jenjang pembaca. Tujuan utamanya adalah pemahaman yang bertahap, bukan mengejar banyak halaman dalam waktu singkat. Gunakan sumber tepercaya dan minta bantuan guru ketika menemukan konsep yang belum jelas.
+
+LATIHAN APLIKASI DAN PEMBAHASAN
+
+A. Gerak dan dinamika
+1. Benda bergerak dari 3 m/s menjadi 15 m/s dalam 6 s. Tentukan percepatan rata-ratanya.
+Pembahasan: a = (15 − 3)/6 = 2 m/s².
+
+2. Benda bermassa 8 kg mendapat resultan gaya 24 N. Tentukan percepatannya.
+Pembahasan: a = F/m = 24/8 = 3 m/s².
+
+3. Gaya 40 N bekerja searah perpindahan 5 m. Tentukan usaha.
+Pembahasan: W = Fs = 40 × 5 = 200 J.
+
+4. Benda bermassa 4 kg bergerak 5 m/s. Tentukan momentum dan energi kinetiknya.
+Pembahasan: p = 4 × 5 = 20 kg m/s; Ek = ½ × 4 × 25 = 50 J.
+
+5. Mengapa gaya normal pada bidang miring licin tidak selalu sama dengan berat?
+Pembahasan: karena normal menyeimbangkan komponen berat tegak lurus bidang, bukan seluruh berat, jika tidak ada percepatan tegak lurus bidang.
+
+B. Energi dan kalor
+6. Mesin menerima 1.000 J dan menghasilkan keluaran berguna 700 J. Hitung efisiensi.
+Pembahasan: η = 700/1.000 × 100% = 70%.
+
+7. Benda 2 kg dipanaskan dengan kalor jenis 500 J/(kg °C) dan menerima 2.000 J. Tentukan perubahan suhu ideal.
+Pembahasan: ΔT = Q/(mc) = 2.000/(2 × 500) = 2 °C.
+
+8. Mengapa energi mekanik berkurang pada gerak dengan gesekan?
+Pembahasan: sebagian energi mekanik berubah menjadi energi internal dan bentuk lain; energi total tetap jika sistem lengkap diperhitungkan.
+
+9. Apa perbedaan kalor dan suhu?
+Pembahasan: kalor adalah energi yang berpindah karena perbedaan suhu; suhu menyatakan keadaan termal.
+
+10. Mengapa mesin kalor tidak dapat memiliki efisiensi 100 persen dalam siklus?
+Pembahasan: hukum kedua termodinamika mengharuskan sebagian energi dilepas ke lingkungan.
+
+C. Gelombang dan optika
+11. Gelombang memiliki frekuensi 20 Hz dan panjang gelombang 0,5 m. Hitung cepat rambat.
+Pembahasan: v = fλ = 20 × 0,5 = 10 m/s.
+
+12. Periode getaran 0,25 s. Tentukan frekuensi.
+Pembahasan: f = 1/T = 4 Hz.
+
+13. Mengapa bunyi tidak merambat di ruang hampa?
+Pembahasan: bunyi mekanik memerlukan medium untuk meneruskan gangguan.
+
+14. Apa perbedaan pemantulan dan pembiasan?
+Pembahasan: pemantulan mengembalikan gelombang ke medium asal; pembiasan mengubah arah rambat saat cepat rambat berubah di medium lain.
+
+15. Mengapa teleskop memerlukan bukaan yang cukup besar?
+Pembahasan: bukaan lebih besar dapat mengumpulkan lebih banyak cahaya dan meningkatkan resolusi difraksi dalam kondisi yang sesuai.
+
+D. Listrik dan magnet
+16. Hambatan 10 Ω dipasang pada beda potensial 20 V. Hitung arus ideal.
+Pembahasan: I = V/R = 20/10 = 2 A.
+
+17. Perangkat menggunakan daya 100 W selama 3 jam. Berapa energi listriknya dalam kWh?
+Pembahasan: 100 W = 0,1 kW; energi = 0,1 × 3 = 0,3 kWh.
+
+18. Apa fungsi transformator?
+Pembahasan: mengubah tingkat tegangan arus bolak-balik melalui induksi elektromagnetik.
+
+19. Mengapa generator menghasilkan tegangan induksi?
+Pembahasan: karena perubahan fluks magnet yang melingkupi kumparan menimbulkan gaya gerak listrik.
+
+20. Mengapa dioda memiliki arah penghantaran utama?
+Pembahasan: karakter sambungan p-n membuat arus lebih mudah mengalir pada bias maju daripada bias balik dalam rentang operasi yang sesuai.
+
+E. Penalaran ilmiah
+21. Dua kelompok memperoleh hasil pengukuran berbeda. Apakah salah satunya pasti keliru?
+Pembahasan: tidak. Perbedaan dapat berasal dari ketidakpastian, metode, alat, atau kondisi yang berbeda. Data dan prosedur perlu diperiksa.
+22. Grafik menunjukkan dua variabel meningkat bersama. Apakah satu pasti menyebabkan yang lain?
+Pembahasan: tidak. Hubungan dapat dipengaruhi variabel ketiga atau kebetulan.
+23. Mengapa sumber data dan metode harus dicantumkan?
+Pembahasan: agar hasil dapat ditelusuri, dinilai, dan diuji ulang.
+24. Apa yang dilakukan ketika hasil tidak sesuai prediksi?
+Pembahasan: periksa data, satuan, alat, asumsi, metode, dan model; jangan mengubah data untuk memaksakan kesesuaian.
+25. Mengapa kesimpulan perlu menyebut keterbatasan?
+Pembahasan: agar pembaca memahami seberapa jauh hasil dapat diterapkan.
+
+DAFTAR ISTILAH TAMBAHAN
+
+Aberasi: penyimpangan citra dari hasil yang diprediksi model optik ideal.
+Albedo: fraksi radiasi datang yang dipantulkan permukaan.
+Arus bolak-balik: arus yang arah dan besarnya berubah secara periodik.
+Arus searah: arus dengan arah konvensional tetap.
+Bilangan Reynolds: besaran tak berdimensi untuk menilai karakter aliran fluida.
+Dioda: komponen semikonduktor dengan penghantaran utama satu arah.
+Dilatasi waktu: perbedaan pengukuran selang waktu antar pengamat yang bergerak relatif.
+Efek Doppler: perubahan frekuensi teramati akibat gerak relatif sumber dan pengamat.
+Entropi: besaran termodinamika yang berkaitan dengan arah proses dan banyaknya keadaan mikroskopis.
+Fisi: pembelahan inti atom berat menjadi inti lebih ringan.
+Foton: kuanta energi cahaya atau radiasi elektromagnetik.
+Gas ideal: model gas dengan partikel titik dan interaksi antarmolekul diabaikan kecuali tumbukan.
+Gelombang berdiri: pola gelombang hasil superposisi gelombang berlawanan arah dengan frekuensi sama.
+Induksi elektromagnetik: timbulnya gaya gerak listrik akibat perubahan fluks magnet.
+Kapasitor: komponen yang menyimpan muatan dan energi dalam medan listrik.
+Kapasitansi: ukuran kemampuan kapasitor menyimpan muatan per beda potensial.
+Koefisien performa: perbandingan perpindahan kalor berguna terhadap usaha masukan pada perangkat pendingin atau pompa kalor.
+Konduktivitas termal: ukuran kemampuan bahan menghantarkan kalor.
+Model Standar: kerangka teori partikel elementer dan interaksi tertentu.
+Paralaks: perubahan posisi tampak objek akibat perubahan posisi pengamat.
+Peluruhan radioaktif: perubahan spontan inti tidak stabil disertai emisi radiasi atau partikel.
+Resonansi: respons besar sistem ketika frekuensi pemaksa dekat frekuensi alaminya.
+Semikonduktor: bahan dengan konduktivitas yang dapat dikendalikan.
+Simpul: titik gelombang berdiri dengan amplitudo minimum.
+Superposisi: prinsip bahwa gangguan gelombang yang bertumpuk dijumlahkan.
+Tegangan mekanik: gaya per satuan luas pada bahan.
+Transistor: komponen semikonduktor untuk penguatan atau pensaklaran sinyal.
+Viskositas: ukuran hambatan internal fluida terhadap aliran.
+
+CATATAN AKHIR EDISI
+
+Edisi ini merupakan naskah pengantar luas untuk pembelajaran mandiri dan pendamping pembelajaran. Materi tidak menggantikan buku tingkat lanjut, standar laboratorium, instruksi guru, atau pelatihan profesional. Rumus dan contoh disajikan dengan model yang disederhanakan. Untuk penerapan rekayasa, kesehatan, listrik, radiasi, transportasi, dan sistem bertekanan, gunakan standar resmi serta tenaga yang memiliki kompetensi.
+
+Sebelum diterbitkan sebagai bahan ajar final, naskah perlu melewati penyuntingan bahasa, pemeriksaan persamaan, verifikasi rujukan, pemeriksaan hak penggunaan ilustrasi, serta peninjauan guru atau ahli fisika. Perkiraan jumlah halaman harus dihitung dari tata letak final, bukan hanya jumlah kata. Dalam aplikasi, nomor halaman baru dapat dinyatakan akurat setelah fitur paginasi diuji pada ukuran layar dan pengaturan huruf yang ditetapkan.
+
+Akhir naskah.

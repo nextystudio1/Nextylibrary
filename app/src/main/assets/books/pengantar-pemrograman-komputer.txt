@@ -228,3 +228,34 @@ Struktur data: cara mengorganisasi dan menyimpan data.
 Larik: kumpulan elemen yang diakses berdasarkan posisi.
 Antrean: struktur data dengan prinsip pertama masuk pertama keluar.
 Kompleksitas: gambaran pertumbuhan kebutuhan sumber daya algoritma.
+BAB LANJUTAN — STRUKTUR DATA DAN PEMILIHANNYA
+Struktur data adalah cara mengatur informasi agar dapat digunakan secara efisien. Array atau daftar menyimpan sekumpulan elemen dalam urutan tertentu. Tabel pasangan kunci-nilai memudahkan pencarian berdasarkan identitas. Tumpukan menggunakan prinsip terakhir masuk, pertama keluar, sedangkan antrean menggunakan prinsip pertama masuk, pertama keluar.
+Pilih struktur data berdasarkan operasi yang sering dilakukan. Jika aplikasi sering menambahkan elemen di akhir, daftar dinamis dapat sesuai. Jika perlu memeriksa apakah suatu nilai pernah muncul, himpunan dapat membantu. Jika data harus dipasangkan dengan label, peta kunci-nilai dapat membuat maksud program lebih jelas.
+Contoh antrean: sistem nomor layanan menyimpan orang sesuai urutan kedatangan. Contoh tumpukan: fitur batal pada editor dapat menyimpan perubahan terbaru agar dapat dibatalkan terlebih dahulu. Contoh peta: kamus digital menghubungkan kata dengan definisi.
+Struktur data bukan sekadar istilah untuk dihafal. Buat contoh kecil, tentukan operasi yang diperlukan, lalu jelaskan alasan memilih struktur tersebut.
+
+BAB LANJUTAN — PENCARIAN DAN PENGURUTAN
+Pencarian linear memeriksa elemen satu per satu. Metode ini sederhana dan dapat digunakan pada data yang belum terurut. Pencarian biner membagi ruang pencarian menjadi dua bagian berulang kali, tetapi mensyaratkan data telah terurut dan akses elemen mendukung proses tersebut.
+Pengurutan menyusun data menurut aturan, misalnya angka dari kecil ke besar atau nama secara alfabetis. Algoritma pengurutan berbeda dalam kebutuhan waktu dan memori. Untuk data kecil, algoritma sederhana dapat cukup; untuk data besar, pemilihan algoritma dan pustaka yang tepat menjadi penting.
+Kompleksitas waktu menggambarkan bagaimana kebutuhan operasi bertambah ketika ukuran masukan bertambah. Notasi O besar membantu membandingkan laju pertumbuhan, bukan menjanjikan waktu persis. O(n) tumbuh sebanding dengan jumlah data, sedangkan O(log n) tumbuh lebih lambat pada kondisi yang sesuai.
+Latihan: buat daftar sepuluh angka. Tulis langkah pencarian linear untuk menemukan satu angka. Urutkan daftar, lalu gambarkan pencarian biner. Catat jumlah pemeriksaan dan jelaskan mengapa prasyarat data terurut penting.
+
+BAB LANJUTAN — MODULARITAS, FUNGSI, DAN PENGUJIAN
+Program besar lebih mudah dipahami ketika dibagi menjadi modul dengan tanggung jawab jelas. Fungsi menerima masukan, menjalankan satu tugas, dan dapat mengembalikan hasil. Nama fungsi sebaiknya menjelaskan tindakan, sementara parameter menjelaskan informasi yang dibutuhkan.
+Pisahkan logika inti dari tampilan dan penyimpanan data bila memungkinkan. Pemisahan ini membuat program lebih mudah diuji dan diubah. Hindari fungsi yang melakukan terlalu banyak hal atau bergantung pada variabel global tanpa alasan kuat.
+Pengujian unit memeriksa bagian kecil secara terisolasi. Pengujian integrasi memeriksa kerja sama antarmodul. Pengujian sistem menilai perilaku aplikasi sebagai satu kesatuan. Kasus uji perlu mencakup masukan normal, batas, kosong, dan tidak valid.
+Contoh fungsi luas persegi panjang harus diuji dengan ukuran positif, salah satu ukuran nol, dan masukan yang tidak sesuai tipe. Tentukan perilaku yang diharapkan sebelum menjalankan tes. Hasil tes yang gagal adalah informasi untuk memperbaiki program, bukan alasan menyembunyikan kesalahan.
+
+BAB LANJUTAN — DEBUGGING DAN KUALITAS KODE
+Debugging adalah proses menemukan penyebab kesalahan. Mulailah dengan membuat ulang masalah secara konsisten, membaca pesan kesalahan, mempersempit bagian yang dicurigai, lalu menguji satu perubahan pada satu waktu.
+Gunakan pencatatan yang tidak memuat kata sandi, token, atau data pribadi. Saat membagikan contoh masalah, hapus informasi rahasia. Catat versi program, lingkungan, langkah reproduksi, hasil yang diharapkan, dan hasil aktual.
+Kode yang mudah dibaca mengurangi biaya pemeliharaan. Gunakan penamaan konsisten, format rapi, komentar untuk menjelaskan alasan yang tidak jelas, dan dokumentasi cara menjalankan program. Komentar tidak perlu mengulang setiap baris kode.
+Kontrol versi membantu melacak perubahan. Commit kecil dengan pesan jelas memudahkan peninjauan dan pemulihan. Jangan menyimpan kunci akses atau file rahasia di repositori publik.
+
+BAB LANJUTAN — KEAMANAN DAN ETIKA PEMROGRAMAN
+Keamanan perlu dipikirkan sejak perancangan. Validasi masukan, batasi hak akses, gunakan pustaka yang terawat, dan jangan menganggap data dari pengguna selalu aman. Pesan kesalahan untuk pengguna sebaiknya membantu tanpa membocorkan rincian internal.
+Data pribadi hanya dikumpulkan jika diperlukan, dengan tujuan yang jelas dan perlindungan yang sesuai. Aplikasi perlu memberi penjelasan tentang penggunaan data serta menyediakan cara yang wajar untuk mengelolanya. Periksa lisensi pustaka dan aset sebelum memasukkannya ke produk.
+Programmer bertanggung jawab pada dampak sistem yang dibuat. Pertimbangkan aksesibilitas, bias, konsumsi sumber daya, risiko penyalahgunaan, dan pihak yang mungkin dirugikan. Kualitas perangkat lunak mencakup manfaat, keandalan, keamanan, dan tanggung jawab sosial.
+
+PROYEK AKHIR
+Rancang aplikasi daftar tugas sederhana. Tuliskan kebutuhan pengguna, model data, alur tambah-ubah-hapus, validasi, serta skenario pengujian. Buat pseudocode sebelum menulis kode. Setelah berjalan, minta orang lain mencoba dan catat kesulitan mereka tanpa mengumpulkan informasi pribadi yang tidak diperlukan.

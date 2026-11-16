@@ -6,7 +6,7 @@ DESKRIPSI
 Mengenal limit, turunan, integral, fungsi, dan penerapan perubahan.
 
 PENDAHULUAN
-Buku Pengantar Kalkulus membahas mengenal limit, turunan, integral, fungsi, dan penerapan perubahan.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini memperkenalkan kalkulus sebagai bahasa matematika untuk mempelajari perubahan dan akumulasi. Pembahasan bergerak dari fungsi dan limit menuju turunan, integral, optimasi, serta pendekatan numerik. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
 
 BAB 1. FUNGSI DAN PERUBAHAN
 
@@ -46,14 +46,15 @@ BAB 6. INTEGRAL DAN AKUMULASI
 Integral tentu mengukur akumulasi, misalnya luas bertanda di bawah kurva. Integral tak tentu berkaitan dengan antiturunan. Teorema dasar kalkulus menghubungkan turunan dan integral. Pemilihan batas, satuan, dan interpretasi fisik penting agar hasil perhitungan memiliki makna.
 
 PROYEK TERPADU
-Buat kajian mini untuk Pengantar Kalkulus dengan memilih satu persoalan yang dapat dianalisis menggunakan beberapa bab. Tetapkan pertanyaan, tujuan, batas kajian, metode, dan jenis informasi yang dibutuhkan. Susun laporan yang memisahkan data, analisis, dan rekomendasi serta menjelaskan keterbatasannya.
+Modelkan pengisian sebuah tangki dengan laju aliran yang berubah terhadap waktu. Tentukan variabel waktu, laju aliran, dan volume. Buat fungsi sederhana untuk laju aliran, lalu jelaskan bagaimana integral tentu digunakan untuk memperkirakan perubahan volume selama interval tertentu. Jika menggunakan data buatan, nyatakan bahwa data tersebut hanya ilustrasi. Periksa satuan dan jelaskan asumsi model.
 
 EVALUASI AKHIR
-1. Terangkan konsep inti dari INTEGRAL DAN AKUMULASI dan perannya dalam bidang ini.
-2. Hubungkan tiga gagasan dari bab yang berbeda.
-3. Analisis sebuah kasus menggunakan konsep buku Pengantar Kalkulus.
-4. Bandingkan dua pendekatan beserta kelebihan dan batasannya.
-5. Buat kesimpulan yang didukung bukti dan nyatakan hal yang belum diketahui.
+EVALUASI AKHIR
+1. Hitung limit fungsi sederhana dengan substitusi langsung dan jelaskan kapan cara itu tidak cukup.
+2. Jelaskan syarat kontinuitas suatu fungsi pada titik tertentu.
+3. Tentukan turunan fungsi polinomial sederhana dan tafsirkan maknanya sebagai laju perubahan.
+4. Jelaskan mengapa titik kritis perlu diperiksa sebelum disebut maksimum atau minimum.
+5. Tafsirkan integral tentu sebagai akumulasi dan sertakan satuan yang sesuai.
 
 PEDOMAN PENILAIAN
 Nilai pemahaman Pengantar Kalkulus berdasarkan ketepatan konsep, kecocokan metode, mutu bukti, dan kemampuan menerapkan materi. Jawaban harus menunjukkan alasan yang dapat diperiksa serta menyebutkan keterbatasan informasi bila ada.
@@ -95,6 +96,9 @@ BAB LANJUTAN: PEMODELAN DENGAN KALKULUS
 Model optimasi menggunakan turunan untuk mencari nilai yang memaksimalkan atau meminimalkan suatu besaran. Langkah awal adalah mendefinisikan variabel keputusan, fungsi tujuan, batasan, dan domain. Solusi matematis perlu diperiksa terhadap konteks: nilai negatif atau ukuran yang tidak mungkin mungkin menandakan model atau batasan salah.
 
 Persamaan diferensial menggambarkan hubungan antara besaran dan laju perubahannya. Model pertumbuhan sederhana dapat menghasilkan perubahan eksponensial, tetapi asumsi pertumbuhan proporsional tanpa batas jarang berlaku selamanya. Model yang lebih realistis dapat memasukkan kapasitas lingkungan atau keterbatasan sumber daya.
+
+CONTOH HITUNG
+Misalkan posisi sebuah benda dinyatakan oleh s(t) = t² + 3t meter, dengan t dalam sekon. Kecepatan sesaat diperoleh dari turunan s'(t) = 2t + 3 meter per sekon. Pada t = 2 sekon, kecepatannya 7 meter per sekon. Contoh ini menunjukkan bahwa turunan mengubah fungsi posisi menjadi fungsi kecepatan. Satuan ikut berubah karena meter dibagi sekon.
 
 LATIHAN AKHIR
 1. Jelaskan perbedaan nilai fungsi dan limitnya.

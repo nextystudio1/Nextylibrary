@@ -188,3 +188,98 @@ Kunci pembahasan: jawaban yang baik menyebut penyimpanan sebagai pemindah waktu 
 
 RANGKUMAN BAB
 Sistem energi harus dinilai sebagai satu kesatuan yang meliputi sumber, pembangkit, jaringan, penyimpanan, pengguna, dan tata kelola. Kinerja teknis, biaya sepanjang umur, dampak lingkungan, dan keadilan sosial saling berkaitan. Keputusan yang baik menjelaskan data, asumsi, keterbatasan, serta ketidakpastian.
+BAB 20 — DASAR TERMODINAMIKA UNTUK MEMAHAMI ENERGI
+Hukum pertama termodinamika menyatakan bahwa energi tidak diciptakan atau dimusnahkan, melainkan berpindah atau berubah bentuk. Dalam pembangkit listrik, energi kimia, panas, gerak air, atau gerak udara dikonversi menjadi energi listrik. Setiap konversi memiliki batas dan sebagian energi menyebar sebagai panas ke lingkungan.
+Hukum kedua termodinamika menjelaskan bahwa proses nyata memiliki arah dan tidak seluruh energi dapat diubah menjadi kerja berguna. Karena itu, efisiensi konversi selalu menjadi pertimbangan penting. Efisiensi didefinisikan sebagai perbandingan keluaran berguna terhadap masukan energi, dinyatakan dalam persen.
+Misalnya, jika suatu perangkat menerima 100 satuan energi dan menghasilkan 35 satuan energi listrik yang berguna, efisiensinya 35 persen. Sisa energi tidak lenyap; energi tersebut berpindah ke bentuk lain, misalnya panas. Contoh ini hanya ilustrasi perhitungan, bukan nilai kinerja teknologi tertentu.
+Penting membedakan efisiensi perangkat dengan faktor kapasitas pembangkit. Efisiensi membahas seberapa baik energi masukan diubah menjadi keluaran berguna. Faktor kapasitas membandingkan produksi aktual selama periode dengan produksi maksimum teoretis jika pembangkit beroperasi pada daya nominal sepanjang periode. Keduanya menjawab pertanyaan berbeda.
+Energi dan daya juga berbeda. Energi adalah jumlah yang dipindahkan atau digunakan, sedangkan daya adalah laju pemindahan energi. Kilowatt (kW) merupakan satuan daya dan kilowatt-jam (kWh) merupakan satuan energi. Perangkat 1 kW yang beroperasi selama 2 jam menggunakan energi 2 kWh jika dayanya konstan.
+
+BAB 21 — MEMAHAMI SATUAN DAN TAGIHAN LISTRIK
+Tagihan listrik biasanya berkaitan dengan energi yang digunakan selama periode tertentu, bukan hanya daya perangkat. Untuk memperkirakan energi, kalikan daya dalam kilowatt dengan lama pemakaian dalam jam. Jika daya berubah, gunakan perkiraan daya rata-rata atau data pengukuran yang sesuai.
+Contoh: lampu berdaya 10 watt menyala 5 jam setiap hari. Energi harian adalah 10 watt dikalikan 5 jam, yaitu 50 watt-jam atau 0,05 kWh. Dalam 30 hari, pemakaian menjadi sekitar 1,5 kWh. Perhitungan ini mengasumsikan daya dan waktu pemakaian tetap.
+Beban puncak adalah kebutuhan daya tertinggi pada suatu waktu. Beban puncak penting karena jaringan dan pembangkit harus mampu melayani permintaan pada periode tersebut. Mengurangi pemakaian saat puncak dapat membantu sistem, walaupun total energi bulanan tidak banyak berubah.
+Faktor daya, kualitas tegangan, dan kualitas frekuensi merupakan aspek teknis lain dalam sistem listrik. Pembahasan pengukuran dan perbaikan instalasi harus dilakukan oleh tenaga kompeten sesuai standar keselamatan. Pembaca tidak perlu membuka panel listrik atau menyentuh penghantar untuk memahami konsep ini.
+
+BAB 22 — TEKNOLOGI FOTOVOLTAIK LEBIH DALAM
+Sel fotovoltaik menggunakan bahan semikonduktor. Ketika cahaya diserap, energi foton dapat membebaskan pembawa muatan sehingga medan listrik internal membantu menghasilkan arus. Banyak sel dihubungkan menjadi modul, beberapa modul membentuk susunan, dan sistem lengkap memerlukan komponen pendukung.
+Inverter mengubah listrik arus searah dari modul menjadi arus bolak-balik yang sesuai untuk beban atau jaringan. Pengendali, kabel, proteksi, struktur pemasangan, pemantauan, dan sistem pembumian merupakan bagian rancangan. Pemilihan komponen harus sesuai standar dan dilakukan oleh pihak berkualifikasi.
+Suhu modul yang lebih tinggi umumnya menurunkan tegangan dan dapat menurunkan daya keluaran. Ventilasi belakang modul dan cara pemasangan memengaruhi suhu operasional. Bayangan pada sebagian modul dapat mengurangi produksi lebih besar daripada luas bayangan yang terlihat, bergantung pada konfigurasi rangkaian dan perangkat pengoptimal.
+Modul mengalami penurunan kinerja bertahap selama masa pakai. Tingkat penurunan bergantung pada teknologi, kualitas produk, iklim, pemasangan, dan perawatan. Perkiraan produksi jangka panjang sebaiknya memasukkan penurunan kinerja serta ketidakpastian cuaca.
+Pembersihan dan pemeriksaan harus mengikuti petunjuk produsen serta aturan keselamatan. Jangan naik ke atap atau menyentuh instalasi listrik untuk melakukan pemeriksaan sendiri. Pekerjaan di ketinggian dan pekerjaan listrik merupakan tugas tenaga terlatih.
+
+BAB 23 — ENERGI ANGIN: AERODINAMIKA DAN PEMILIHAN LOKASI
+Bilah turbin dirancang agar aliran udara menghasilkan gaya angkat dan torsi pada rotor. Kecepatan angin berubah menurut ketinggian, bentuk permukaan, bangunan, vegetasi, dan pola cuaca. Pengukuran yang representatif memerlukan lokasi, ketinggian, dan durasi yang sesuai dengan rancangan.
+Kurva daya turbin menggambarkan hubungan kecepatan angin dengan keluaran listrik. Turbin memiliki kecepatan mulai beroperasi, rentang keluaran nominal, dan batas operasi tertentu. Pada angin terlalu kuat, sistem kendali dapat membatasi atau menghentikan operasi untuk melindungi perangkat.
+Pemilihan lokasi mempertimbangkan akses jalan, fondasi, sambungan jaringan, jarak dari permukiman, kebisingan, bayangan bergerak, jalur penerbangan, dan satwa terbang. Kajian ekologi dapat memerlukan pengamatan lintas musim. Mitigasi dampak harus dirancang berdasarkan temuan setempat, bukan asumsi umum.
+Turbin lepas pantai memanfaatkan pola angin laut, tetapi memerlukan fondasi atau sistem apung, kabel bawah laut, kapal khusus, dan perawatan yang lebih kompleks. Kondisi gelombang, korosi, kedalaman, pelabuhan, dan ekosistem laut memengaruhi biaya serta kelayakan.
+
+BAB 24 — HIDROENERGI DAN PENGELOLAAN DAS
+Energi air bergantung pada debit dan beda ketinggian. Secara konseptual, potensi daya dipengaruhi massa jenis air, percepatan gravitasi, debit, tinggi jatuh, dan efisiensi sistem. Persamaan sederhana membantu memahami hubungan, tetapi desain nyata memerlukan data hidrologi, geologi, sedimentasi, dan keselamatan bendungan.
+Daerah aliran sungai menghubungkan wilayah hulu, tengah, dan hilir. Perubahan tutupan lahan di hulu dapat memengaruhi erosi, sedimentasi, dan pola aliran di hilir. Karena itu, proyek hidro tidak boleh dinilai hanya pada lokasi turbin atau bendungan; dampak satu DAS perlu diperhatikan.
+Aliran ekologis adalah pola aliran air yang diperlukan untuk menjaga fungsi ekosistem sungai. Pengelolaannya perlu memperhatikan musim, habitat, migrasi ikan, kualitas air, dan kebutuhan masyarakat. Pengaturan air juga harus mempertimbangkan irigasi, air minum, pengendalian banjir, dan kegiatan ekonomi.
+Pembangkit aliran sungai tidak selalu bebas dampak. Pengambilan air, bangunan pengarah, akses jalan, dan perubahan sedimen dapat memengaruhi sungai. Kajian lingkungan harus memeriksa dampak kumulatif jika beberapa proyek berada dalam satu daerah aliran sungai.
+
+BAB 25 — PANAS BUMI DAN SISTEM BAWAH PERMUKAAN
+Energi panas bumi berasal dari panas internal Bumi. Sistem panas bumi yang dapat dimanfaatkan memerlukan sumber panas, fluida, dan jalur permeabel atau rekahan yang memungkinkan fluida bergerak. Kondisi geologi tiap wilayah berbeda sehingga eksplorasi melibatkan pemetaan, geofisika, geokimia, dan pengeboran.
+Pembangkit uap kering menggunakan uap dari reservoir untuk memutar turbin. Sistem flash menurunkan tekanan fluida panas sehingga sebagian berubah menjadi uap. Sistem siklus biner memindahkan panas ke fluida kerja lain yang memiliki titik didih lebih rendah. Pemilihan teknologi bergantung pada temperatur, tekanan, kimia fluida, dan kondisi reservoir.
+Pengelolaan reservoir penting untuk menjaga keberlanjutan produksi. Pengambilan dan injeksi fluida perlu dirancang dengan pemantauan tekanan, temperatur, kimia, dan respons reservoir. Pengelolaan yang buruk dapat menurunkan kinerja atau menimbulkan dampak yang tidak diinginkan.
+Kajian lingkungan mencakup penggunaan air, emisi gas dari fluida, pengelolaan mineral terlarut, kebisingan, penggunaan lahan, dan potensi aktivitas seismik terinduksi. Pemantauan transparan dan prosedur tanggap diperlukan sesuai karakter lapangan.
+
+BAB 26 — BIOENERGI, BIOGAS, DAN BIOBAHAN BAKAR
+Bahan baku bioenergi dapat berupa residu pertanian, limbah makanan, kotoran ternak, residu kehutanan, dan tanaman energi. Setiap bahan memiliki kadar air, kandungan energi, ketersediaan musiman, serta kebutuhan pengangkutan yang berbeda. Penggunaan residu harus tetap memperhatikan fungsi ekologisnya; tidak semua sisa tanaman sebaiknya diambil dari lahan.
+Pencernaan anaerob menguraikan bahan organik tanpa oksigen melalui komunitas mikroorganisme dan menghasilkan biogas. Komposisi biogas bervariasi, dengan metana sebagai komponen pembawa energi utama dan karbon dioksida serta gas lain sebagai komponen tambahan. Pengelolaan gas memerlukan sistem tertutup, ventilasi yang tepat, pengendalian kebocoran, dan standar keselamatan.
+Bioetanol dapat diproduksi melalui fermentasi bahan bergula atau berpati setelah tahap pengolahan yang sesuai. Biodiesel dapat dibuat dari minyak nabati atau lemak melalui proses kimia. Penilaian keberlanjutan harus memperhitungkan asal bahan, perubahan penggunaan lahan, pupuk, air, energi proses, transportasi, dan dampak terhadap pangan.
+Istilah bioenergi tidak otomatis berarti bebas emisi. Karbon yang dilepas saat pembakaran perlu dianalisis bersama pertumbuhan kembali bahan baku, perubahan stok karbon lahan, emisi proses, dan rentang waktu pemulihan. Kesimpulan bergantung pada metode serta sumber data yang digunakan.
+
+BAB 27 — HIDROGEN DAN BAHAN BAKAR SINTETIS
+Hidrogen merupakan pembawa energi, bukan sumber energi primer yang tersedia bebas dalam jumlah besar. Hidrogen perlu diproduksi dari bahan atau energi lain. Produksi dapat menggunakan gas alam dengan atau tanpa penangkapan karbon, atau elektrolisis air menggunakan listrik.
+Dampak hidrogen sangat dipengaruhi jalur produksi dan sumber energinya. Elektrolisis menggunakan listrik rendah emisi dapat menghasilkan hidrogen dengan jejak emisi lebih rendah, tetapi hasilnya bergantung pada intensitas emisi listrik, efisiensi alat, dan rantai pasok. Label warna hidrogen tidak selalu memiliki definisi universal; pembaca perlu melihat metode dan data emisi.
+Hidrogen dapat digunakan sebagai bahan baku industri, penyimpanan energi tertentu, atau bahan bakar pada aplikasi yang sesuai. Penyimpanan dan transportasinya memiliki tantangan teknis karena sifat molekul dan kebutuhan sistem khusus. Penggunaan harus mengikuti standar industri dan tidak dilakukan sebagai percobaan rumahan.
+Bahan bakar sintetis dapat dibuat dengan menggabungkan hidrogen dan sumber karbon. Jika karbon berasal dari udara atau sumber berkelanjutan, jejak emisinya dapat berbeda dibanding bahan bakar fosil, tetapi kebutuhan energi proses dan ketersediaan bahan tetap penting. Bahan bakar sintetis tidak menghilangkan emisi polutan lokal ketika dibakar.
+
+BAB 28 — EFISIENSI ENERGI PADA BANGUNAN
+Bangunan menggunakan energi untuk pencahayaan, pendinginan, pemanasan, ventilasi, pompa, dan perangkat. Desain pasif dapat mengurangi kebutuhan energi melalui orientasi bangunan, peneduh, ventilasi, insulasi, pencahayaan alami, dan pemilihan bahan. Solusi yang tepat bergantung pada iklim dan kebiasaan penghuni.
+Audit energi dimulai dengan mengumpulkan tagihan, inventaris peralatan, jadwal penggunaan, serta kondisi ruang. Pengukuran dilakukan dengan alat yang sesuai oleh petugas kompeten. Hasil audit mengurutkan peluang penghematan menurut potensi, biaya, kenyamanan, dan kemudahan pelaksanaan.
+Peralatan efisien mengurangi energi untuk layanan yang sama. Namun, perilaku pengguna juga memengaruhi hasil. Penghematan yang baik menjaga kualitas udara, kenyamanan termal, pencahayaan yang cukup, dan aksesibilitas.
+Efek pantulan dapat terjadi ketika efisiensi membuat layanan lebih murah sehingga pemakaiannya meningkat. Karena itu, evaluasi sebaiknya melihat konsumsi total dan kualitas layanan, bukan hanya efisiensi perangkat.
+
+BAB 29 — TRANSPORTASI DAN INDUSTRI
+Transportasi dapat mengurangi emisi melalui efisiensi kendaraan, elektrifikasi, angkutan umum, berjalan kaki, bersepeda, perencanaan kota, dan peralihan moda. Kendaraan listrik memindahkan sebagian emisi dari knalpot ke pembangkitan listrik dan rantai pasok baterai. Dampak keseluruhan bergantung pada sumber listrik, ukuran kendaraan, penggunaan, dan umur pakai.
+Industri membutuhkan panas, listrik, dan bahan baku. Penghematan energi, pemulihan panas buangan, elektrifikasi proses, hidrogen rendah emisi, dan perubahan bahan dapat membantu mengurangi emisi pada sektor berbeda. Tidak semua proses dapat menggunakan solusi yang sama.
+Kebijakan transportasi perlu memperhatikan akses bagi penyandang disabilitas, keselamatan jalan, keterjangkauan, dan kebutuhan daerah yang belum memiliki angkutan umum memadai. Peralihan teknologi harus diiringi infrastruktur dan layanan yang dapat diandalkan.
+
+BAB 30 — KEBIJAKAN, PEMBIAYAAN, DAN TATA KELOLA
+Kebijakan energi mencakup target, standar, perizinan, tarif, subsidi, pajak, pengadaan, dan dukungan riset. Instrumen kebijakan memiliki konsekuensi distribusi: manfaat dan biaya dapat jatuh pada kelompok berbeda. Evaluasi harus mengukur hasil nyata dan memperhatikan akses energi.
+Pembiayaan proyek dipengaruhi risiko konstruksi, risiko teknologi, perubahan aturan, harga energi, suku bunga, dan kemampuan pembeli. Kontrak jangka panjang dapat memberi kepastian pendapatan, tetapi perlu transparansi dan pembagian risiko yang wajar.
+Tata kelola yang baik membuka informasi, mencegah konflik kepentingan, menyediakan konsultasi, dan memiliki mekanisme pengaduan. Data proyek sebaiknya menjelaskan metode pengukuran, asumsi, dan keterbatasan. Klaim keberlanjutan harus dapat diperiksa, bukan hanya berupa slogan pemasaran.
+
+BAB 31 — METODE MEMBANDINGKAN TEKNOLOGI
+Mulailah dengan menentukan layanan yang dibandingkan, misalnya pasokan listrik andal dalam jumlah tertentu selama satu tahun. Gunakan batas sistem yang sama untuk setiap pilihan. Catat apakah biaya jaringan, penyimpanan, cadangan, pembongkaran, dan dampak lingkungan dimasukkan.
+Buat matriks kriteria yang mencakup biaya, emisi, keandalan, kebutuhan lahan dan air, waktu pembangunan, dampak ekologi, kesiapan tenaga kerja, dan penerimaan masyarakat. Beri bobot hanya jika alasan bobot dijelaskan. Analisis sensitivitas menunjukkan apakah peringkat berubah ketika asumsi diganti.
+Hindari angka tunggal tanpa konteks. Cantumkan tahun harga, mata uang, tingkat diskonto, sumber data, kapasitas, faktor kapasitas, umur proyek, dan metode. Jika data belum tersedia, tandai sebagai ketidakpastian, bukan mengisinya dengan tebakan.
+Contoh latihan: bandingkan sistem surya dengan baterai dan sistem hidro kecil pada sebuah wilayah hipotetis. Jangan langsung memilih pemenang. Daftar dahulu data yang diperlukan, termasuk pola cuaca, debit musiman, ekologi, jaringan, kebutuhan warga, dan biaya konstruksi.
+
+BAB 32 — PROYEK PEMBELAJARAN: AUDIT ENERGI SEKOLAH
+Tujuan proyek adalah memahami pola pemakaian energi tanpa melakukan pekerjaan listrik berbahaya. Bentuk kelompok, tentukan ruang lingkup, dan minta izin sekolah. Gunakan data tagihan atau informasi pemakaian yang telah disetujui pihak sekolah.
+Buat inventaris perangkat berdasarkan label daya dan perkiraan lama pemakaian. Jangan membongkar perangkat, membuka panel, menaiki atap, atau menyentuh kabel. Jika diperlukan pengukuran teknis, minta petugas fasilitas atau tenaga profesional melakukannya.
+Hitung perkiraan energi dari daya dan waktu penggunaan. Tandai perangkat yang menyala saat ruang kosong, pencahayaan yang tidak sesuai kebutuhan, atau kebiasaan penggunaan yang dapat diperbaiki. Usulkan perubahan yang tidak mengurangi keselamatan dan kenyamanan.
+Bandingkan perkiraan sebelum dan sesudah perubahan. Catat keterbatasan: label daya mungkin tidak menunjukkan konsumsi rata-rata, waktu pemakaian dapat berubah, dan faktor cuaca memengaruhi pendinginan. Presentasikan metode dan ketidakpastian secara jujur.
+
+BAB 33 — PROYEK PEMBELAJARAN: PETA POTENSI ENERGI DAERAH
+Pilih wilayah kajian berdasarkan data publik dan izin yang sesuai. Kumpulkan informasi umum tentang radiasi matahari, pola angin, sungai, panas bumi, jaringan, penggunaan lahan, dan permukiman. Gunakan peta dari lembaga yang kredibel dan catat tahun serta skala datanya.
+Tumpang susun peta dapat membantu menemukan area yang secara awal berpotensi, tetapi tidak membuktikan kelayakan proyek. Survei lapangan, pengukuran jangka panjang, kajian lingkungan, analisis hak lahan, dan konsultasi masyarakat tetap diperlukan.
+Buat peta tematik sederhana dengan legenda dan sumber. Hindari memetakan rumah pribadi atau data sensitif. Jelaskan wilayah yang tidak dapat dinilai karena keterbatasan data.
+Kesimpulan harus menggunakan istilah “indikasi awal” bila data belum cukup. Jangan menyatakan lokasi tertentu pasti layak hanya berdasarkan peta umum.
+
+BAB 34 — KESALAHPAHAMAN UMUM TENTANG ENERGI
+Kesalahpahaman pertama adalah menganggap energi terbarukan tidak memiliki dampak lingkungan. Semua teknologi memiliki rantai pasok dan kebutuhan ruang; perbedaannya terletak pada jenis, skala, lokasi, dan pengelolaan dampak.
+Kesalahpahaman kedua adalah menganggap baterai menghasilkan energi. Baterai menyimpan energi yang sebelumnya dimasukkan, dengan sebagian energi hilang selama proses pengisian dan pengosongan.
+Kesalahpahaman ketiga adalah menyamakan daya dengan energi. Daya adalah laju, sedangkan energi merupakan jumlah selama periode. Kesalahan satuan dapat menghasilkan perkiraan yang sangat keliru.
+Kesalahpahaman keempat adalah menganggap satu teknologi cocok untuk semua wilayah. Potensi surya, angin, hidro, panas bumi, dan bioenergi berbeda menurut geografi, iklim, ekologi, jaringan, dan kebutuhan masyarakat.
+Kesalahpahaman kelima adalah menganggap target kapasitas sama dengan produksi energi. Kapasitas terpasang perlu dibaca bersama faktor kapasitas, waktu pemeliharaan, ketersediaan sumber, dan batas jaringan.
+
+BAB 35 — RANGKUMAN BESAR DAN PETA KONSEP
+Sumber energi primer menyediakan energi dari alam atau bahan baku. Teknologi konversi mengubah energi menjadi listrik, panas, atau bahan bakar. Jaringan dan penyimpanan membantu menyalurkan energi pada waktu dan tempat yang dibutuhkan. Pengguna mengonsumsi energi untuk layanan seperti penerangan, mobilitas, komunikasi, dan produksi.
+Keberlanjutan tidak dapat dinilai dari satu indikator. Analisis perlu menggabungkan emisi daur hidup, biaya, keandalan, lahan, air, biodiversitas, kesehatan, pekerjaan, dan keadilan. Setiap keputusan harus sesuai konteks dan didukung data.
+Pertanyaan utama saat menilai usulan energi: layanan apa yang dibutuhkan; data sumber daya apa yang tersedia; bagaimana sistem terhubung; siapa yang memperoleh manfaat; siapa yang menanggung dampak; bagaimana risiko dikelola; dan bagaimana kinerja dipantau setelah proyek berjalan.

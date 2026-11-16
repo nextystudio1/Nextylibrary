@@ -25,13 +25,6 @@ LATIHAN
 4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
 5. Bukti apa yang dapat memperkuat jawabanmu?
 
-LATIHAN
-1. Apa konsep utama dalam SIKLUS KERJA DATA?
-2. Bagaimana hubungan konsep tersebut dengan bagian lain dalam buku?
-3. Berikan penerapan baru dan jelaskan langkah berpikirmu.
-4. Sebutkan satu batasan atau kondisi yang perlu diperhatikan.
-5. Bukti apa yang dapat memperkuat jawabanmu?
-
 BAB 2. STRUKTUR DATA
 
 Data tabular biasanya tersusun dalam baris dan kolom. Setiap baris mewakili unit pengamatan dan setiap kolom mewakili variabel. Nama kolom sebaiknya jelas, tipe data konsisten, dan satuan dicantumkan. Format tanggal, angka desimal, dan kategori perlu diseragamkan sebelum pengolahan.

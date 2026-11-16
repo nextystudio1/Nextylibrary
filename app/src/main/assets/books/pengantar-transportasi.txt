@@ -188,3 +188,34 @@ Indikator layanan dapat mencakup ketepatan waktu, frekuensi, keterjangkauan, kep
 
 LATIHAN PERENCANAAN
 Buat evaluasi sederhana untuk satu koridor angkutan. Tetapkan tujuan layanan, pilih lima indikator, jelaskan cara mengumpulkan data, dan tentukan kelompok pengguna yang perlu diwawancarai. Susun rekomendasi jangka pendek dan jangka panjang beserta keterbatasan analisis.
+
+BAB LANJUTAN: PERENCANAAN JARINGAN DAN KONEKTIVITAS
+
+Jaringan transportasi dapat dipahami sebagai kumpulan simpul dan ruas. Simpul meliputi terminal, stasiun, pelabuhan, dan pusat perpindahan; ruas menghubungkan simpul tersebut. Kualitas jaringan tidak hanya ditentukan panjang jalan atau jumlah rute, tetapi juga keterhubungan, kapasitas, keandalan, keselamatan, dan kemudahan berpindah moda.
+
+Analisis jaringan dapat menilai akses ke pusat pekerjaan, sekolah, layanan kesehatan, dan pasar. Waktu perjalanan umum mencakup berjalan kaki, menunggu, berpindah, dan perjalanan utama. Rute yang terlihat pendek di peta dapat memerlukan waktu lama jika frekuensi rendah atau perpindahan tidak terkoordinasi.
+
+Ketahanan jaringan berkaitan dengan kemampuan tetap berfungsi ketika satu ruas atau simpul terganggu. Jalur alternatif, redundansi, informasi gangguan, dan koordinasi operator dapat mengurangi dampak. Namun redundansi memiliki biaya, sehingga prioritas perlu ditentukan berdasarkan risiko dan kebutuhan layanan.
+
+BAB LANJUTAN: KESELAMATAN JALAN DAN SISTEM BERKESELAMATAN
+
+Keselamatan jalan merupakan hasil interaksi desain jalan, kecepatan, kendaraan, perilaku, dan perlindungan pengguna. Pendekatan sistem berkeselamatan mengakui bahwa kesalahan manusia dapat terjadi, sehingga sistem perlu mengurangi kemungkinan kesalahan berujung pada cedera berat. Desain kecepatan, penyeberangan, pemisahan arus, pencahayaan, dan kualitas kendaraan menjadi bagian dari pencegahan.
+
+Pengguna rentan seperti pejalan kaki, pesepeda, anak, lansia, dan penyandang disabilitas membutuhkan perhatian khusus. Fasilitas harus tersambung, mudah dikenali, dan tidak berhenti mendadak. Audit keselamatan dilakukan oleh pihak kompeten dengan prosedur yang sesuai; pengamatan pembelajaran tidak boleh menggantikan pemeriksaan teknis.
+
+Data kecelakaan perlu dianalisis bersama paparan perjalanan. Jumlah kejadian mentah tidak cukup jika volume pengguna berbeda. Indikator dapat mencakup tingkat kejadian per jarak atau perjalanan, tingkat keparahan, dan pola lokasi. Data harus dilindungi agar tidak membuka identitas korban.
+
+BAB LANJUTAN: LOGISTIK, RANTAI PASOK, DAN DAMPAK LINGKUNGAN
+
+Logistik mengatur pergerakan barang dari pemasok ke pengguna. Kinerja dipengaruhi waktu, biaya, kapasitas, keandalan, penyimpanan, dan kualitas informasi. Gangguan pada satu simpul dapat menyebar ke bagian lain, terutama ketika persediaan sangat rendah atau pemasok terkonsentrasi.
+
+Pemilihan moda bergantung pada jarak, volume, nilai barang, urgensi, akses jaringan, dan kebutuhan penanganan. Perbandingan harus mencakup biaya total, bukan tarif perjalanan saja. Biaya lingkungan seperti emisi, kebisingan, dan penggunaan ruang juga perlu diperhitungkan.
+
+Rantai pasok yang tangguh memiliki visibilitas, alternatif pemasok, rencana gangguan, dan komunikasi yang jelas. Namun persediaan cadangan membutuhkan ruang dan modal. Keputusan harus menyeimbangkan efisiensi harian dengan kemampuan menghadapi gangguan.
+
+LATIHAN PENDALAMAN
+1. Mengapa waktu perjalanan harus mencakup waktu tunggu dan perpindahan?
+2. Apa tujuan pendekatan sistem berkeselamatan?
+3. Mengapa data kecelakaan perlu dikaitkan dengan paparan perjalanan?
+4. Sebutkan faktor pemilihan moda logistik.
+5. Apa pertukaran antara efisiensi persediaan dan ketahanan rantai pasok?

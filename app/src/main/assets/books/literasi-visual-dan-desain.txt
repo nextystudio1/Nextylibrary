@@ -134,3 +134,51 @@ Hierarki visual: urutan perhatian yang dibentuk oleh perbedaan tampilan.
 Grid: sistem garis bantu untuk mengatur posisi elemen.
 Kontras: perbedaan visual yang membantu elemen dibedakan.
 Prototipe: model awal untuk diuji sebelum produk diselesaikan.
+
+BAB 12. SEMIOTIKA DAN MAKNA VISUAL
+
+Semiotika mempelajari tanda dan proses pembentukan makna. Dalam komunikasi visual, tanda dapat berupa ikon, indeks, atau simbol. Ikon menyerupai objek yang dirujuk, indeks memiliki hubungan faktual atau sebab-akibat, sedangkan simbol bergantung pada kesepakatan sosial. Satu gambar dapat memuat beberapa jenis tanda sekaligus.
+
+Makna visual tidak hanya berada pada objek gambar. Konteks budaya, pengalaman pembaca, media, dan tujuan komunikasi turut memengaruhi interpretasi. Desainer perlu menguji apakah simbol dipahami sesuai maksud dan apakah pengguna dari latar berbeda dapat menafsirkannya dengan aman.
+
+BAB 13. TIPOGRAFI DAN KETERBACAAN
+
+Tipografi mengatur bentuk huruf, ukuran, jarak, panjang baris, hierarki, dan kontras. Pilihan huruf harus mendukung isi serta kondisi penggunaan. Teks panjang memerlukan kenyamanan baca yang berbeda dari judul poster. Terlalu banyak jenis huruf dan variasi gaya dapat mengganggu konsistensi.
+
+Keterbacaan juga dipengaruhi lebar kolom, spasi baris, kontras terhadap latar, dan kepadatan informasi. Uji desain pada perangkat dan ukuran layar yang benar-benar digunakan. Jangan mengandalkan tampilan pada satu monitor besar jika karya akan dibaca terutama melalui ponsel.
+
+BAB 14. WARNA, KONTRAS, DAN AKSESIBILITAS
+
+Warna dapat membangun hierarki, mengelompokkan informasi, dan menyampaikan suasana. Namun, makna warna tidak universal. Perbedaan persepsi warna dan kondisi pencahayaan dapat membuat informasi yang hanya dibedakan melalui warna sulit dipahami. Gunakan label, bentuk, pola, atau ikon sebagai penanda tambahan.
+
+Kontras teks dan latar perlu cukup agar informasi terbaca. Hindari teks kecil di atas gambar yang ramai. Untuk grafik, pilih palet yang membedakan kategori dengan jelas dan tetap dapat dipahami dalam tampilan monokrom atau oleh pengguna dengan gangguan persepsi warna.
+
+BAB 15. KOMPOSISI, GRID, DAN HIERARKI
+
+Komposisi mengatur hubungan antarunsur pada bidang. Keseimbangan tidak selalu berarti simetri; bobot visual dapat diatur melalui ukuran, warna, posisi, dan ruang kosong. Grid membantu menjaga keteraturan, tetapi tidak harus membatasi kreativitas. Penyimpangan dari grid sebaiknya memiliki alasan visual yang jelas.
+
+Hierarki menunjukkan urutan perhatian. Judul, subjudul, isi, keterangan, dan ajakan tindakan perlu dibedakan secara konsisten. Jika semua elemen dibuat sangat menonjol, tidak ada elemen yang benar-benar menonjol. Uji apakah pembaca dapat menemukan informasi utama dalam waktu singkat.
+
+BAB 16. VISUALISASI DATA DAN KEJUJURAN GRAFIK
+
+Grafik mengubah data menjadi bentuk visual agar pola lebih mudah dipahami. Grafik batang cocok untuk membandingkan kategori, grafik garis untuk perubahan berurutan, dan diagram sebar untuk melihat hubungan dua variabel. Pilihan grafik harus mengikuti pertanyaan, bukan sekadar tampilan yang menarik.
+
+Skala sumbu, pemilihan rentang, ukuran simbol, dan pemotongan data dapat memengaruhi persepsi. Cantumkan satuan, periode, sumber, dan jumlah observasi. Jangan menyiratkan hubungan sebab-akibat dari korelasi. Jika data memiliki ketidakpastian, tampilkan rentang atau jelaskan keterbatasannya.
+
+BAB 17. DESAIN INFORMASI DAN WAYFINDING
+
+Desain informasi membantu orang menemukan, memahami, dan menggunakan informasi. Papan petunjuk, peta fasilitas, formulir, dan antarmuka perlu disusun sesuai urutan tugas pengguna. Istilah harus konsisten dan petunjuk tidak boleh saling bertentangan. Pengujian perlu melibatkan pengguna yang memiliki kemampuan dan pengalaman beragam.
+
+Wayfinding yang baik mempertimbangkan titik keputusan, jarak pandang, bahasa, simbol, pencahayaan, dan aksesibilitas. Informasi darurat harus mudah dikenali tanpa menimbulkan kepanikan. Jangan menempatkan dekorasi yang mengaburkan petunjuk penting.
+
+PROYEK: AUDIT VISUAL MATERI INFORMASI
+
+Pilih poster atau halaman informasi yang boleh dianalisis. Catat tujuan, pembaca, hierarki, kontras, aksesibilitas, dan kejelasan data. Lakukan uji singkat dengan beberapa pembaca yang bersedia: minta mereka menemukan tiga informasi tertentu. Catat waktu dan kesulitan tanpa mengumpulkan identitas yang tidak diperlukan. Usulkan revisi dan jelaskan alasan desainnya.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Apa perbedaan ikon dan simbol? Ikon menyerupai objek; simbol bergantung pada kesepakatan.
+2. Mengapa informasi tidak boleh dibedakan hanya dengan warna? Karena tidak semua pengguna melihat atau menafsirkan warna dengan cara sama.
+3. Kapan grafik garis tepat digunakan? Untuk menunjukkan perubahan menurut urutan, sering kali waktu.
+4. Apa fungsi grid? Menjaga hubungan dan konsistensi posisi elemen.
+5. Mengapa desain informasi perlu diuji? Agar dapat diketahui apakah pengguna benar-benar menemukan dan memahami informasi.

@@ -6,7 +6,7 @@ DESKRIPSI
 Memahami pertumbuhan, kesejahteraan, kemiskinan, ketimpangan, dan pembangunan inklusif.
 
 PENDAHULUAN
-Buku Pengantar Ekonomi Pembangunan membahas memahami pertumbuhan, kesejahteraan, kemiskinan, ketimpangan, dan pembangunan inklusif.. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
+Buku ini membahas bagaimana pertumbuhan ekonomi berhubungan dengan kesejahteraan, kemiskinan, ketimpangan, kesempatan, dan kualitas institusi. Pembaca diajak menilai pembangunan melalui lebih dari satu indikator. Materi disusun dari pengenalan istilah menuju penerapan pada persoalan bidang ini. Saat membaca, hubungkan penjelasan dengan contoh, periksa alasan di balik setiap kesimpulan, dan catat pertanyaan yang belum terjawab.
 
 BAB 1. PERTUMBUHAN DAN PEMBANGUNAN
 
@@ -16,7 +16,7 @@ PENDALAMAN
 Pada PERTUMBUHAN DAN PEMBANGUNAN, bedakan fakta, aturan, kepentingan, dan penilaian. Identifikasi pihak yang terlibat serta kelompok yang terdampak. Bandingkan sumber dan sudut pandang sebelum menyusun kesimpulan agar konteks tidak terabaikan.
 
 CONTOH PENERAPAN
-Contoh kajian: pilih kasus sederhana yang berkaitan dengan PERTUMBUHAN DAN PEMBANGUNAN dalam bidang Pengantar Ekonomi Pembangunan. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
+Contoh: suatu daerah mencatat kenaikan nilai produksi, tetapi akses pendidikan dan layanan kesehatan antarkecamatan masih berbeda. Jelaskan mengapa pertumbuhan belum tentu berarti peningkatan kesejahteraan yang merata. Tentukan indikator tambahan yang perlu dibandingkan.
 
 LATIHAN
 1. Apa konsep utama dalam PERTUMBUHAN DAN PEMBANGUNAN?

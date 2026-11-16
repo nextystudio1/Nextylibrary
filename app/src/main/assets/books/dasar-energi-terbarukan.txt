@@ -987,3 +987,224 @@ Skenario: gambaran kondisi yang mungkin terjadi berdasarkan asumsi tertentu.
 
 CATATAN EDITOR BAGIAN VI
 Bagian ini memperluas pembahasan ke penggunaan panas, kesehatan, pembiayaan, manajemen proyek, pemeliharaan, digitalisasi, dan rencana komunitas. Contoh bersifat edukatif. Proyek nyata harus mengikuti hukum, standar, izin, serta persyaratan keselamatan yang berlaku.
+
+
+
+BAGIAN VII — PENDALAMAN KONSEP DAN CONTOH PERHITUNGAN
+
+BAB 57 — KONSERVASI ENERGI DAN NERACA SISTEM
+
+57.1 Mengapa neraca energi berguna
+Neraca energi mencatat energi yang masuk, keluar, tersimpan, dan berubah bentuk dalam batas sistem tertentu. Prinsip ini membantu menemukan kehilangan, memeriksa konsistensi data, dan memahami proses. Sebelum membuat neraca, tentukan batas sistem: apakah yang dianalisis satu perangkat, satu bangunan, satu kawasan, atau seluruh jaringan.
+
+Misalnya, sebuah gedung menerima listrik dari jaringan dan menggunakan sebagian untuk penerangan, pendinginan, pompa, serta perangkat elektronik. Neraca dapat mengelompokkan pemakaian tersebut, tetapi kategori harus tidak saling tumpang tindih. Jika data hanya berupa tagihan total, pembagian ke tiap kategori memerlukan pengukuran atau estimasi yang dijelaskan metodenya.
+
+57.2 Energi tersimpan dan rugi-rugi
+Energi dapat tersimpan sementara dalam baterai, air pada ketinggian, bahan bakar, atau massa termal bangunan. Dalam proses nyata, sebagian energi berubah menjadi panas yang tidak dimanfaatkan. Neraca yang baik tidak menghilangkan bagian yang tidak diketahui; catat sebagai kehilangan atau komponen yang belum terukur dengan batas ketidakpastian.
+
+57.3 Batas pengukuran
+Pengukuran harus sesuai pertanyaan. Untuk mengetahui energi bulanan, data energi terakumulasi dapat lebih relevan daripada pembacaan daya sesaat. Untuk memahami beban puncak, interval data perlu cukup rapat. Alat ukur memiliki akurasi, rentang operasi, dan batas penggunaan. Pengukuran instalasi listrik dilakukan oleh petugas kompeten.
+
+57.4 Kesalahan umum dalam neraca
+Kesalahan dapat muncul ketika satuan tidak konsisten, periode pengamatan berbeda, data ganda, atau aliran energi dihitung dua kali. Catat sumber setiap angka dan lakukan pemeriksaan kewajaran. Jika total komponen tidak sama dengan total sistem, jelaskan selisih dan kemungkinan penyebabnya.
+
+BAB 58 — EFISIENSI, KONSERVASI, DAN EFEK PANTULAN
+
+58.1 Efisiensi perangkat
+Efisiensi perangkat membandingkan keluaran berguna dengan energi masukan. Efisiensi yang lebih tinggi dapat mengurangi energi untuk layanan yang sama. Namun, membandingkan perangkat memerlukan kondisi uji dan definisi layanan yang setara. Perangkat yang berbeda fungsi tidak dapat dibandingkan hanya berdasarkan satu angka efisiensi.
+
+58.2 Konservasi energi
+Konservasi energi dalam konteks penggunaan sehari-hari berarti mengurangi kebutuhan energi melalui perubahan desain, kebiasaan, dan pengelolaan. Contohnya mengoptimalkan pencahayaan alami, mengurangi kebocoran udara, mematikan perangkat yang tidak dibutuhkan, atau memperbaiki jadwal operasi. Tindakan harus tetap menjaga kesehatan, keselamatan, dan kenyamanan.
+
+58.3 Efek pantulan langsung dan tidak langsung
+Ketika perangkat menjadi lebih efisien, biaya layanan dapat turun sehingga penggunaan meningkat. Ini disebut efek pantulan. Jika efisiensi pendingin meningkat dan pengguna kemudian mengatur suhu lebih rendah atau menyalakannya lebih lama, sebagian penghematan dapat berkurang. Efek pantulan tidak berarti efisiensi tidak berguna; artinya evaluasi perlu mengukur konsumsi dan layanan aktual.
+
+Efek tidak langsung dapat terjadi ketika uang yang dihemat digunakan untuk konsumsi lain yang juga membutuhkan energi. Besarnya efek bergantung pada konteks ekonomi dan perilaku. Karena itu, analisis kebijakan dapat melihat perubahan konsumsi total, bukan hanya perubahan satu perangkat.
+
+58.4 Mengukur keberhasilan
+Keberhasilan program efisiensi perlu dibandingkan dengan baseline yang adil. Jika jumlah penghuni atau jam operasi berubah, konsumsi total mungkin tidak mencerminkan efisiensi sebenarnya. Indikator intensitas energi, misalnya energi per siswa-hari atau energi per unit produksi, dapat membantu jika definisinya konsisten.
+
+BAB 59 — DASAR ELEKTROTEKNIK DALAM SISTEM ENERGI
+
+59.1 Tegangan, arus, dan daya
+Tegangan menggambarkan beda potensial listrik, arus menggambarkan laju aliran muatan, dan daya listrik menggambarkan laju pemindahan energi. Untuk rangkaian arus searah sederhana, hubungan daya dapat dijelaskan sebagai hasil kali tegangan dan arus. Pada sistem arus bolak-balik, hubungan daya dapat melibatkan faktor daya dan karakteristik beban.
+
+59.2 Mengapa sistem memakai tegangan berbeda
+Pembangkit, transmisi, distribusi, dan peralatan pengguna memiliki tingkat tegangan yang berbeda sesuai fungsi dan desain. Tegangan transmisi yang lebih tinggi dapat membantu menyalurkan daya dengan arus lebih rendah untuk kondisi tertentu, sehingga mengurangi sebagian rugi-rugi penghantar. Transformator digunakan untuk menaikkan atau menurunkan tegangan pada sistem yang sesuai.
+
+59.3 Rugi-rugi jaringan
+Penghantar memiliki resistansi sehingga sebagian energi berubah menjadi panas ketika arus mengalir. Besar rugi-rugi dipengaruhi arus, resistansi, panjang, bahan, suhu, dan kondisi jaringan. Perencanaan jaringan memperhitungkan kapasitas, rugi-rugi, keandalan, keselamatan, dan biaya.
+
+59.4 Batas pembelajaran
+Konsep listrik dapat dipelajari melalui diagram, simulasi, dan contoh hitungan bertegangan rendah yang dirancang aman. Namun, membuka panel, mengubah instalasi, mengukur penghantar aktif, atau memperbaiki jaringan bukan kegiatan mandiri. Semua pekerjaan tersebut memerlukan kompetensi, izin, dan prosedur keselamatan.
+
+BAB 60 — KUALITAS DAYA DAN PERALATAN ELEKTRONIK
+
+60.1 Kualitas daya
+Kualitas daya mencakup karakteristik tegangan, frekuensi, bentuk gelombang, dan gangguan yang dapat memengaruhi peralatan. Perubahan tegangan atau gangguan sesaat dapat menyebabkan perangkat berhenti atau bekerja tidak semestinya. Persyaratan kualitas daya bergantung jenis jaringan dan pengguna.
+
+60.2 Beban nonlinier
+Sebagian perangkat elektronik menarik arus dengan bentuk gelombang yang tidak sederhana. Kondisi ini dapat menimbulkan harmonisa, yaitu komponen frekuensi selain frekuensi dasar. Harmonisa dapat memengaruhi rugi-rugi dan operasi peralatan jika tidak dikelola. Penilaian dan mitigasi merupakan pekerjaan teknis khusus.
+
+60.3 Inverter dan sistem modern
+Inverter menghubungkan sumber arus searah dengan jaringan atau beban arus bolak-balik. Selain konversi, inverter modern dapat memiliki fungsi pemantauan dan dukungan jaringan. Fungsi tersebut harus memenuhi standar dan pengaturan operator. Tidak semua inverter memiliki fitur atau kemampuan yang sama.
+
+60.4 Pentingnya standar
+Standar membantu memastikan kompatibilitas, keselamatan, dan kinerja minimum. Pengguna perlu memeriksa sertifikasi dan spesifikasi yang relevan melalui lembaga berwenang. Label atau klaim pemasaran saja tidak cukup untuk memastikan sebuah perangkat sesuai untuk semua kondisi.
+
+BAB 61 — PERENCANAAN LOKASI DAN TATA RUANG ENERGI
+
+61.1 Kesesuaian lahan
+Pemilihan lokasi perlu menggabungkan data sumber daya, jaringan, akses, topografi, kondisi tanah, tata ruang, dan penggunaan lahan saat ini. Area dengan potensi energi tinggi mungkin memiliki nilai ekologis, pertanian, budaya, atau sosial yang juga tinggi. Penilaian harus mempertimbangkan alternatif lokasi dan dampak kumulatif.
+
+61.2 Menghindari konflik penggunaan lahan
+Lahan dapat digunakan untuk pangan, permukiman, konservasi, infrastruktur, dan kegiatan ekonomi. Proyek energi perlu mengidentifikasi pemilik, pengguna, hak formal maupun kebiasaan, serta kelompok yang mungkin tidak tercatat dalam dokumen kepemilikan. Pemetaan partisipatif dapat membantu memahami penggunaan ruang, tetapi harus dilakukan dengan persetujuan dan perlindungan data.
+
+61.3 Tata ruang dan perizinan
+Rencana tata ruang dan perizinan memberi kerangka untuk mengatur pembangunan. Persyaratan dapat berbeda menurut jenis proyek dan wilayah. Pengembang harus memeriksa ketentuan yang berlaku serta melibatkan lembaga berwenang. Buku ini tidak menggantikan nasihat hukum atau studi perizinan.
+
+61.4 Pemantauan perubahan lahan
+Perubahan lahan perlu dipantau sepanjang proyek. Kondisi yang terlihat pada awal pembangunan dapat berubah karena akses baru, kegiatan tambahan, atau dampak tidak langsung. Pemantauan membantu mendeteksi perubahan yang tidak direncanakan dan menentukan tindakan koreksi.
+
+BAB 62 — PERTANIAN, PANGAN, DAN ENERGI
+
+62.1 Hubungan sistem pangan dan energi
+Pertanian menggunakan energi untuk mesin, irigasi, pengolahan, penyimpanan, pendinginan, dan transportasi. Pada saat yang sama, residu pertanian dapat menjadi bahan baku energi jika pemanfaatannya tidak mengganggu kesuburan tanah atau kebutuhan lain. Hubungan ini perlu dinilai sebagai satu sistem.
+
+62.2 Energi untuk irigasi
+Pompa air menggunakan energi dan dipengaruhi kebutuhan air, tinggi angkat, efisiensi, serta jadwal irigasi. Pengelolaan air yang lebih baik dapat mengurangi kebutuhan energi sekaligus menjaga produktivitas. Perubahan jadwal harus mempertimbangkan tanaman, kondisi tanah, dan ketersediaan air.
+
+62.3 Residu dan kesuburan tanah
+Jerami, sekam, batang, dan residu lain dapat dimanfaatkan untuk beberapa tujuan. Sebagian residu perlu dikembalikan ke tanah untuk menjaga bahan organik dan mengurangi erosi. Pengambilan semua residu demi bahan bakar dapat menurunkan kualitas tanah dalam jangka panjang.
+
+62.4 Agrivoltaik
+Agrivoltaik menggabungkan penggunaan lahan untuk produksi pertanian dan pembangkitan surya. Keberhasilannya bergantung jenis tanaman, jarak dan ketinggian modul, bayangan, air, mekanisasi, serta kondisi ekonomi petani. Tidak semua tanaman atau sistem pertanian cocok. Kajian lapangan diperlukan sebelum menyimpulkan manfaat.
+
+BAB 63 — ENERGI, AIR, DAN HUBUNGAN ANTARSEKTOR
+
+63.1 Keterkaitan air dan energi
+Penyediaan air memerlukan energi untuk pengambilan, pengolahan, pemompaan, dan distribusi. Sebaliknya, beberapa teknologi energi membutuhkan air untuk pendinginan atau proses. Perencanaan air dan energi secara terpisah dapat mengabaikan hubungan tersebut dan menimbulkan tekanan pada sumber daya.
+
+63.2 Jejak air
+Jejak air dapat mencakup air yang digunakan langsung dan air yang terkait dalam rantai pasok. Definisi dan batas perhitungan harus dinyatakan. Penggunaan air pada wilayah yang kekurangan air dapat menimbulkan dampak berbeda dari penggunaan yang sama pada wilayah dengan ketersediaan tinggi.
+
+63.3 Pengolahan air dan energi
+Pengolahan air limbah dapat menghasilkan biogas dari bahan organik, tetapi proses membutuhkan pengelolaan teknis dan kualitas keluaran. Pemanfaatan energi dari fasilitas air limbah dapat menjadi bagian dari efisiensi sumber daya, namun tidak boleh mengorbankan mutu pengolahan dan kesehatan masyarakat.
+
+63.4 Perencanaan lintas sektor
+Koordinasi antara pengelola air, energi, pertanian, tata ruang, dan lingkungan dapat mengurangi konflik. Data perlu dibagikan dengan tata kelola yang jelas. Keputusan yang menguntungkan satu sektor belum tentu optimal bagi keseluruhan wilayah.
+
+BAB 64 — PERBANDINGAN TEKNOLOGI SECARA ADIL
+
+64.1 Menentukan fungsi yang sama
+Perbandingan teknologi harus menyamakan layanan. Membandingkan satu kilowatt kapasitas dengan satu kilowatt-jam energi merupakan kesalahan kategori. Demikian juga, membandingkan pembangkit yang memasok listrik kapan saja dengan sumber yang produksinya berubah tanpa memasukkan kebutuhan fleksibilitas dapat menghasilkan kesimpulan tidak seimbang.
+
+64.2 Batas geografis dan waktu
+Biaya dan emisi dipengaruhi lokasi, tahun harga, sumber bahan, kondisi jaringan, serta umur proyek. Data dari negara atau tahun berbeda tidak boleh dipindahkan begitu saja. Jika memakai data luar wilayah, jelaskan penyesuaian dan keterbatasannya.
+
+64.3 Indikator multi-kriteria
+Kriteria dapat meliputi biaya, emisi, keandalan, kebutuhan lahan, air, dampak biodiversitas, kesiapan teknologi, waktu pembangunan, dan manfaat lokal. Bobot mencerminkan prioritas dan nilai, bukan fakta alam yang netral. Karena itu, bobot harus dijelaskan dan hasilnya diuji dengan beberapa pilihan bobot.
+
+64.4 Menyajikan hasil tanpa kepastian palsu
+Hasil analisis sebaiknya menunjukkan rentang, skenario, dan asumsi kunci. Jika data tidak cukup, nyatakan bahwa kesimpulan masih sementara. Mengakui ketidakpastian merupakan bagian dari analisis ilmiah, bukan kelemahan laporan.
+
+BAB 65 — KOMUNIKASI RISIKO DAN PENANGANAN INFORMASI SALAH
+
+65.1 Mengapa komunikasi risiko penting
+Masyarakat membutuhkan informasi yang akurat tentang manfaat dan risiko proyek. Informasi yang terlalu teknis dapat sulit dipahami, sedangkan penyederhanaan berlebihan dapat menghilangkan hal penting. Komunikasi yang baik menjelaskan apa yang diketahui, apa yang belum diketahui, dan bagaimana ketidakpastian akan dikelola.
+
+65.2 Menjawab pertanyaan publik
+Jawaban perlu langsung, sopan, dan berbasis bukti. Jika data belum tersedia, katakan data sedang dikumpulkan atau belum dapat disimpulkan. Jangan memberi janji bahwa dampak tidak mungkin terjadi. Jelaskan mekanisme pemantauan dan pihak yang bertanggung jawab.
+
+65.3 Memeriksa informasi viral
+Informasi viral dapat mencampur data benar, konteks yang hilang, dan klaim tidak berdasar. Periksa sumber asli, tanggal, lokasi, definisi, dan apakah gambar atau grafik telah dipotong. Bandingkan dengan sumber independen dan hindari menyebarkan klaim yang belum terverifikasi.
+
+65.4 Koreksi terbuka
+Jika informasi yang disampaikan ternyata salah, koreksi dengan jelas dan jelaskan perubahan. Menyembunyikan kesalahan dapat merusak kepercayaan. Catatan versi dan tanggal pembaruan membantu pembaca memahami perkembangan informasi.
+
+BAB 66 — ARAH INOVASI DAN MASA DEPAN SISTEM ENERGI
+
+66.1 Riset dan pengembangan
+Inovasi energi mencakup material, penyimpanan, jaringan, perangkat lunak, proses industri, dan desain sistem. Teknologi baru perlu diuji dari sisi kinerja, biaya, keselamatan, dampak lingkungan, dan kesiapan produksi. Hasil laboratorium belum tentu langsung berlaku pada skala komersial.
+
+66.2 Skala demonstrasi dan penerapan
+Tahap demonstrasi membantu menguji teknologi pada kondisi lebih nyata. Evaluasi harus mengukur apakah hasil sesuai target, apakah biaya dapat diterima, dan apakah ada risiko baru. Keberhasilan satu proyek percontohan tidak otomatis membuktikan bahwa teknologi cocok untuk semua wilayah.
+
+66.3 Keterampilan masa depan
+Transisi energi memerlukan keterampilan teknik, konstruksi, pengelolaan data, keselamatan, keuangan, kebijakan, komunikasi, dan pemeliharaan. Pendidikan dan pelatihan perlu mengikuti kebutuhan lokal dan memberi akses bagi kelompok yang beragam. Pekerja sektor lama membutuhkan jalur pelatihan dan perlindungan yang layak.
+
+66.4 Inovasi yang bertanggung jawab
+Inovasi sebaiknya dinilai dari manfaat nyata, distribusi manfaat, dampak tidak diinginkan, dan kemampuan masyarakat mengawasi. Teknologi bukan tujuan akhir; teknologi merupakan sarana menyediakan layanan energi yang aman, terjangkau, andal, dan berkelanjutan.
+
+KUMPULAN SOAL PERHITUNGAN BAGIAN VII
+
+Soal 1
+Sebuah alat berdaya 1,5 kW digunakan selama 2 jam 20 menit. Hitung energi yang digunakan jika daya konstan.
+Pembahasan: 20 menit adalah sepertiga jam. Waktu total 2⅓ jam. Energi = 1,5 × 2⅓ = 3,5 kWh.
+
+Soal 2
+Konsumsi energi suatu ruangan turun dari 180 kWh menjadi 153 kWh dalam periode pembanding yang setara. Hitung penurunan persentasenya.
+Pembahasan: selisih 27 kWh. Penurunan = 27 ÷ 180 × 100 persen = 15 persen. Kesimpulan tetap perlu memeriksa kesetaraan jam operasi dan jumlah pengguna.
+
+Soal 3
+Sebuah sistem hipotetis memasukkan 12 kWh ke penyimpanan dan kemudian mengeluarkan 10,2 kWh. Hitung efisiensi putar-balik.
+Pembahasan: efisiensi = 10,2 ÷ 12 × 100 persen = 85 persen. Angka ini hanya contoh aritmetika dan tidak mewakili produk tertentu.
+
+Soal 4
+Sebuah bangunan menggunakan 900 kWh dalam 30 hari. Berapa konsumsi rata-rata per hari?
+Pembahasan: 900 ÷ 30 = 30 kWh per hari. Nilai rata-rata tidak menunjukkan variasi harian atau beban puncak.
+
+Soal 5
+Dua fasilitas memiliki konsumsi 1.000 kWh dan 800 kWh. Fasilitas pertama melayani 100 pengguna dan fasilitas kedua 50 pengguna. Hitung konsumsi per pengguna untuk masing-masing.
+Pembahasan: fasilitas pertama 10 kWh per pengguna; fasilitas kedua 16 kWh per pengguna. Perbandingan ini belum memperhitungkan perbedaan layanan, luas, jam operasi, atau jenis peralatan.
+
+Soal 6
+Sistem hipotetis menghasilkan 4.000 kWh dalam satu bulan dari kapasitas nominal 10 kW. Jika bulan tersebut memiliki 30 hari, hitung faktor kapasitas bulan itu.
+Pembahasan: energi maksimum teoretis = 10 kW × 24 jam × 30 hari = 7.200 kWh. Faktor kapasitas = 4.000 ÷ 7.200 × 100 persen, sekitar 55,6 persen. Ini hanya contoh matematika; interpretasi pembangkit nyata perlu data ketersediaan dan batas sistem.
+
+Soal 7
+Sebuah perangkat berlabel 600 watt digunakan 4 jam per hari selama 25 hari. Hitung energi perkiraan.
+Pembahasan: 600 watt = 0,6 kW. Energi = 0,6 × 4 × 25 = 60 kWh.
+
+Soal 8
+Sebuah program memiliki biaya awal 2.000 satuan uang dan biaya operasi 100 satuan per tahun selama 4 tahun. Hitung total nominal sebelum diskonto.
+Pembahasan: 2.000 + (100 × 4) = 2.400 satuan uang. Perhitungan belum memasukkan inflasi, penggantian, pendapatan, dan nilai waktu uang.
+
+Soal 9
+Sebuah sumber energi memasok 40 persen kebutuhan tahunan suatu sistem. Apakah angka tersebut menjelaskan pasokan setiap jam?
+Pembahasan: tidak. Persentase tahunan tidak menunjukkan waktu produksi. Profil per jam dan kebutuhan fleksibilitas harus diperiksa.
+
+Soal 10
+Sebuah proyek memiliki estimasi emisi 50 satuan per tahun, tetapi rentang ketidakpastiannya 35 sampai 70. Bagaimana sebaiknya angka disajikan?
+Pembahasan: tampilkan estimasi tengah bersama rentang, metode, batas sistem, dan sumber ketidakpastian. Jangan hanya menyajikan satu angka seolah pasti.
+
+SOAL ESAI DAN DISKUSI BAGIAN VII
+
+1. Jelaskan bagaimana neraca energi membantu mengidentifikasi kehilangan pada suatu bangunan.
+2. Berikan contoh ketika efisiensi perangkat meningkat tetapi konsumsi total tidak turun sesuai harapan.
+3. Jelaskan mengapa kualitas daya penting bagi rumah sakit dan pusat data.
+4. Diskusikan konflik penggunaan lahan yang mungkin muncul pada proyek energi dan cara menanganinya.
+5. Jelaskan hubungan antara produksi pangan, residu pertanian, dan bioenergi.
+6. Mengapa air dan energi perlu direncanakan secara terpadu?
+7. Buat kerangka perbandingan dua teknologi dengan setidaknya enam kriteria.
+8. Jelaskan cara menyampaikan ketidakpastian proyek kepada masyarakat tanpa menimbulkan kepanikan atau memberi janji palsu.
+9. Mengapa hasil uji laboratorium belum cukup untuk menyatakan teknologi siap digunakan secara luas?
+10. Buat rencana pelatihan keterampilan untuk mendukung operasi dan pemeliharaan sistem energi komunitas.
+
+PEDOMAN JAWABAN ESAI
+Jawaban yang kuat menjelaskan konsep, menggunakan contoh yang relevan, menyebut asumsi, dan mengakui keterbatasan. Untuk pertanyaan kebijakan dan sosial, tidak selalu ada satu jawaban benar. Penilaian menekankan kualitas alasan, penggunaan bukti, pertimbangan kelompok terdampak, dan konsistensi kesimpulan.
+
+GLOSARIUM TAMBAHAN BAGIAN VII
+Beban nonlinier: beban listrik yang karakteristik arusnya tidak sebanding secara sederhana dengan tegangan.
+Efek pantulan: peningkatan penggunaan layanan yang dapat mengurangi sebagian penghematan akibat efisiensi.
+Faktor daya: ukuran hubungan daya aktif dengan daya semu pada sistem arus bolak-balik.
+Harmonisa: komponen frekuensi selain frekuensi dasar dalam gelombang listrik.
+Neraca energi: pencatatan aliran energi masuk, keluar, tersimpan, dan berubah bentuk dalam batas sistem.
+Pompa kalor: perangkat yang memindahkan panas menggunakan energi, umumnya listrik.
+Rugi-rugi jaringan: energi yang hilang selama penyaluran listrik, misalnya menjadi panas pada penghantar.
+Tata ruang: pengaturan pemanfaatan ruang berdasarkan fungsi, kebutuhan, dan ketentuan wilayah.
+Transformator: perangkat listrik untuk mengubah tingkat tegangan arus bolak-balik.
+Variabel pengganggu: faktor lain yang dapat memengaruhi hubungan dua variabel yang sedang dianalisis.
+
+CATATAN EDITOR BAGIAN VII
+Bagian ini menyajikan konsep lanjutan dan contoh hitungan sederhana untuk memperkuat literasi energi. Nilai contoh merupakan angka hipotetis. Jangan menggunakan contoh tersebut untuk menentukan kapasitas, membeli peralatan, mengubah instalasi, atau mengambil keputusan investasi nyata.

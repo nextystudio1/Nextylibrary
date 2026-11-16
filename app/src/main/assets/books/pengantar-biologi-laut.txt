@@ -150,3 +150,35 @@ LATIHAN PENDALAMAN
 3. Uraikan bagaimana nutrien berlebih dapat memengaruhi oksigen perairan.
 4. Mengapa data tangkapan tidak selalu mewakili ukuran stok?
 5. Sebutkan prinsip etika dalam penelitian biologi laut.
+BAB LANJUTAN: FISIOLOGI DAN ADAPTASI ORGANISME LAUT
+
+Organisme laut menghadapi perubahan salinitas, suhu, tekanan, cahaya, dan ketersediaan oksigen. Osmoregulasi menjaga keseimbangan air dan ion dalam tubuh. Organisme yang hidup di lingkungan dengan salinitas berubah perlu mengatur perpindahan air dan garam, sedangkan organisme laut terbuka menghadapi tantangan yang berbeda dari organisme estuari.
+
+Adaptasi fisiologis dapat mencakup pengaturan ion, protein yang berfungsi pada suhu tertentu, pigmen, dan strategi metabolisme. Adaptasi bukan respons yang selalu terjadi dalam waktu singkat pada individu; dalam konteks evolusi, sifat adaptif dapat meningkat frekuensinya pada populasi selama banyak generasi. Aklimatisasi individu dan adaptasi evolusioner harus dibedakan.
+
+Ketersediaan oksigen dipengaruhi suhu, pencampuran, fotosintesis, dan respirasi. Organisme memiliki toleransi yang berbeda terhadap kondisi oksigen rendah. Perubahan suhu dan oksigen dapat berinteraksi, sehingga penilaian dampak lingkungan sebaiknya tidak menguji satu faktor secara terpisah saja.
+
+BAB LANJUTAN: PLANKTON DAN PRODUKTIVITAS PRIMER
+
+Plankton mencakup organisme yang pergerakannya terbatas dibanding arus, termasuk fitoplankton dan zooplankton. Fitoplankton melakukan fotosintesis dan menjadi dasar banyak jaring makanan laut. Zooplankton memakan fitoplankton atau organisme lain dan menjadi penghubung energi menuju tingkat trofik lebih tinggi.
+
+Produktivitas primer dipengaruhi cahaya, nutrien, suhu, pencampuran, dan kedalaman zona bercahaya. Daerah upwelling sering memiliki pasokan nutrien tinggi, tetapi produktivitas tetap bergantung pada kondisi lain. Ledakan fitoplankton tidak selalu menguntungkan; beberapa spesies dapat menghasilkan toksin atau menyebabkan penurunan oksigen ketika biomassa terurai.
+
+Pengukuran plankton menggunakan jaring, botol sampel, sensor, dan citra. Setiap metode memiliki selektivitas ukuran dan keterbatasan identifikasi. Sampel sesaat tidak menggambarkan perubahan musiman. Rancangan pemantauan perlu mengulang pengamatan dan mencatat kondisi lingkungan.
+
+BAB LANJUTAN: JARING MAKANAN DAN ALIRAN ENERGI
+
+Jaring makanan menggambarkan hubungan makan yang lebih kompleks daripada rantai linear. Organisme dapat memakan beberapa jenis mangsa dan menjadi mangsa bagi beberapa predator. Perubahan pada satu populasi dapat memengaruhi tingkat trofik lain melalui efek langsung maupun tidak langsung.
+
+Energi berkurang pada setiap perpindahan trofik karena digunakan untuk metabolisme dan hilang sebagai panas. Karena itu, biomassa predator puncak umumnya didukung oleh produktivitas yang lebih besar pada tingkat trofik bawah. Namun, bentuk piramida biomassa dapat berbeda menurut ekosistem dan periode pengukuran.
+
+Spesies kunci dapat memiliki pengaruh besar terhadap struktur komunitas meskipun jumlah individunya tidak dominan. Penghilangan predator atau herbivor tertentu dapat memicu perubahan berantai. Kesimpulan tentang spesies kunci memerlukan bukti interaksi dan eksperimen atau pengamatan yang dirancang dengan baik.
+
+BAB LANJUTAN: REPRODUKSI, LARVA, DAN KONEKTIVITAS
+
+Strategi reproduksi organisme laut sangat beragam. Sebagian melepaskan gamet ke air, sebagian melakukan pembuahan internal, dan sebagian merawat keturunan. Tahap larva pada banyak spesies dapat terbawa arus sehingga menghubungkan populasi yang berjauhan. Keberhasilan rekrutmen dipengaruhi kondisi lingkungan, makanan, predator, dan kesesuaian habitat.
+
+Konektivitas populasi penting dalam perencanaan kawasan konservasi. Kawasan yang dilindungi perlu mempertimbangkan lokasi pemijahan, jalur larva, habitat asuhan, dan pergerakan organisme dewasa. Batas administratif tidak selalu sesuai dengan batas ekologis.
+
+PROYEK BIOLOGI LAUT
+Pilih satu ekosistem atau kelompok organisme laut. Susun profil habitat, adaptasi, peran trofik, reproduksi, ancaman, dan metode pemantauan. Gunakan sumber ilmiah dan jelaskan ketidakpastian. Jangan mengumpulkan organisme atau memasuki habitat tanpa izin dan pendampingan yang sesuai.

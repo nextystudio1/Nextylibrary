@@ -164,3 +164,29 @@ LATIHAN ANALISIS IKLIM
 PEMBAHASAN SINGKAT
 
 Umpan balik positif memperbesar perubahan awal, sedangkan istilah positif tidak berarti dampaknya baik. Muka laut relatif berbeda karena selain perubahan laut, gerak vertikal daratan juga berpengaruh. Klaim karbon perlu diuji terhadap tambahan manfaat, permanensi, kebocoran, dan penghitungan ganda. Proyeksi iklim membahas pola jangka panjang berdasarkan skenario; prakiraan cuaca membahas kondisi atmosfer pada waktu dan tempat tertentu.
+BAB LANJUTAN: ATRIBUSI DAN DETEKSI PERUBAHAN IKLIM
+
+Deteksi perubahan iklim menilai apakah suatu variabel berubah secara bermakna dibandingkan variasi alaminya. Atribusi menilai faktor yang paling mungkin menjelaskan perubahan tersebut. Keduanya berbeda: menemukan tren suhu tidak dengan sendirinya menjelaskan seluruh penyebabnya. Analisis menggunakan catatan pengamatan, pemahaman proses fisik, dan simulasi model.
+
+Variabilitas alami terjadi pada berbagai skala waktu, dari perubahan musiman hingga variasi antartahun dan antardekade. Untuk mengenali tren jangka panjang, peneliti memeriksa seri data yang cukup panjang, konsistensi alat, perubahan lokasi stasiun, dan metode pengolahan. Data yang hilang atau perubahan prosedur dapat menimbulkan kesan perubahan yang bukan berasal dari iklim.
+
+Atribusi menggunakan perbandingan simulasi dengan faktor manusia dan simulasi yang hanya memasukkan faktor alami. Jika pola pengamatan lebih sesuai dengan simulasi yang memasukkan pengaruh manusia, hal itu menjadi bukti kontribusi manusia. Kesimpulan ilmiah dinyatakan dengan tingkat keyakinan dan batas ketidakpastian, bukan kepastian mutlak untuk setiap kejadian cuaca individual.
+
+BAB LANJUTAN: RISIKO IKLIM DAN KERENTANAN
+
+Risiko iklim terbentuk dari interaksi bahaya, paparan, dan kerentanan. Bahaya dapat berupa panas ekstrem, hujan intens, kekeringan, kenaikan muka laut, atau perubahan kondisi ekosistem. Paparan menunjukkan manusia, aset, dan lingkungan yang berada di wilayah terdampak. Kerentanan dipengaruhi kondisi sosial ekonomi, kualitas infrastruktur, kesehatan, akses informasi, dan kemampuan beradaptasi.
+
+Dua wilayah yang mengalami bahaya serupa dapat memiliki risiko berbeda. Kawasan dengan drainase baik, ruang terbuka, layanan kesehatan, dan sistem peringatan mungkin lebih mampu mengurangi dampak dibanding kawasan dengan permukiman rentan dan akses layanan terbatas. Karena itu, penilaian risiko harus memasukkan data sosial dan tata ruang, bukan hanya peta bahaya.
+
+Peta risiko perlu menjelaskan skala, tahun data, definisi kategori, serta ketidakpastian. Peta tidak boleh digunakan untuk memberi label permanen pada komunitas. Kondisi dapat berubah setelah perbaikan infrastruktur atau perubahan tata ruang. Penggunaan peta perlu disertai konsultasi dan pembaruan berkala.
+
+BAB LANJUTAN: MITIGASI, ADAPTASI, DAN TRANSISI YANG ADIL
+
+Mitigasi mengurangi sumber emisi atau meningkatkan penyerapannya. Contohnya adalah efisiensi energi, energi rendah karbon, perlindungan ekosistem, dan perubahan sistem transportasi. Adaptasi mengurangi kerugian dari dampak yang sudah terjadi atau diperkirakan, misalnya perbaikan drainase, sistem peringatan, pengelolaan air, dan penyesuaian praktik pertanian.
+
+Kedua pendekatan saling melengkapi. Adaptasi tanpa mitigasi dapat menghadapi batas ketika perubahan menjadi terlalu besar. Mitigasi tanpa adaptasi tidak menghilangkan seluruh risiko yang telah terakumulasi. Kebijakan yang baik menguji kemungkinan maladaptasi, yaitu tindakan yang menyelesaikan masalah jangka pendek tetapi memperbesar risiko atau ketimpangan pada masa depan.
+
+Transisi yang adil mempertimbangkan pekerja, rumah tangga, komunitas lokal, dan daerah yang ekonominya bergantung pada sektor intensif karbon. Pelatihan keterampilan, perlindungan sosial, konsultasi publik, dan akses energi terjangkau membantu membagi manfaat serta beban secara lebih wajar.
+
+LATIHAN ANALISIS IKLIM
+Pilih satu risiko iklim di suatu wilayah. Pisahkan bahaya, paparan, dan kerentanan. Tentukan dua pilihan mitigasi dan dua pilihan adaptasi. Untuk setiap pilihan, jelaskan manfaat, kelompok terdampak, biaya, risiko samping, dan indikator keberhasilan.

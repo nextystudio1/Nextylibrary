@@ -500,3 +500,76 @@ Sebuah larutan mengandung 0,2 mol zat dalam volume akhir 0,5 L. Molaritasnya 0,4
 
 RANGKUMAN
 Kimia menjelaskan struktur materi, ikatan, larutan, reaksi, dan dampak bahan. Perhitungan yang baik selalu memperhatikan satuan, kondisi, keselamatan, dan batas model.
+
+BAGIAN PENGAYAAN MATERI
+BAB LANJUTAN 1 — IKATAN KIMIA DAN BENTUK MOLEKUL
+
+Atom dapat berikatan untuk membentuk molekul atau senyawa. Ikatan ion terbentuk melalui perpindahan elektron dan tarikan antara ion bermuatan berlawanan. Ikatan kovalen terbentuk ketika atom berbagi pasangan elektron. Ikatan logam melibatkan elektron yang dapat bergerak di antara banyak atom logam, sehingga membantu menjelaskan sifat seperti daya hantar listrik dan kemampuan ditempa.
+
+Jenis ikatan memengaruhi sifat zat, tetapi sifat zat juga dipengaruhi susunan partikel dan kondisi lingkungan. Garam dapur tersusun dari ion yang teratur dalam kisi kristal. Air tersusun dari molekul yang memiliki bentuk bengkok dan distribusi muatan tidak merata. Perbedaan struktur tersebut membantu menjelaskan mengapa garam dapat larut dalam air dan mengapa air memiliki sifat khusus seperti tegangan permukaan yang relatif tinggi.
+
+Bentuk molekul memengaruhi polaritas dan interaksi antarmolekul. Molekul polar memiliki distribusi muatan yang tidak simetris, sedangkan molekul nonpolar memiliki distribusi yang lebih merata. Konsep polaritas membantu memperkirakan kelarutan: zat dengan sifat interaksi yang serupa cenderung lebih mudah bercampur, meskipun aturan ini bukan hukum mutlak dan terdapat banyak pengecualian.
+
+BAB LANJUTAN 2 — LARUTAN, KONSENTRASI, DAN PENGENCERAN
+
+Larutan adalah campuran homogen yang terdiri atas pelarut dan zat terlarut. Konsentrasi menyatakan banyaknya zat terlarut dalam sejumlah larutan atau pelarut. Dalam laboratorium, konsentrasi dapat dinyatakan sebagai molaritas, yaitu jumlah mol zat terlarut per liter larutan. Dalam kehidupan sehari-hari, konsentrasi sering dinyatakan sebagai persen massa, persen volume, atau satuan lain.
+
+Contoh perhitungan: jika 0,5 mol zat dilarutkan hingga volume akhir 1 liter, konsentrasinya 0,5 mol/L. Perhatikan bahwa volume yang digunakan adalah volume akhir larutan, bukan hanya volume pelarut sebelum zat dimasukkan. Ketelitian pengukuran volume sangat penting ketika menyiapkan larutan dengan konsentrasi tertentu.
+
+Pengenceran dilakukan dengan menambah pelarut sehingga konsentrasi turun, sementara jumlah mol zat terlarut tetap jika tidak terjadi reaksi atau kehilangan zat. Hubungan sederhana M1V1 = M2V2 dapat digunakan untuk pengenceran larutan dengan satuan konsentrasi yang sama. Rumus ini tidak boleh digunakan tanpa memeriksa asumsi, satuan, dan apakah volume berubah secara aditif.
+
+BAB LANJUTAN 3 — ASAM, BASA, DAN pH
+
+Asam dan basa dapat dijelaskan dengan beberapa teori. Dalam pengantar, asam Arrhenius meningkatkan konsentrasi ion hidrogen dalam air, sedangkan basa Arrhenius meningkatkan ion hidroksida. Teori Brønsted-Lowry menjelaskan asam sebagai donor proton dan basa sebagai penerima proton. Kerangka yang lebih luas membantu menjelaskan reaksi yang tidak terbatas pada larutan air.
+
+Skala pH digunakan untuk menyatakan tingkat keasaman larutan berdasarkan aktivitas ion hidrogen. Dalam larutan encer pada kondisi tertentu, pH sering diperkenalkan sebagai negatif logaritma konsentrasi ion hidrogen. Karena bersifat logaritmik, perubahan satu angka pH berkaitan dengan perubahan sekitar sepuluh kali pada aktivitas ion hidrogen. pH 3 bukan hanya sedikit lebih asam daripada pH 4.
+
+Indikator asam-basa berubah warna pada rentang pH tertentu. Kertas indikator memberi perkiraan, sedangkan pH meter dapat memberi hasil lebih terukur jika dikalibrasi dan digunakan dengan benar. Jangan mencampur bahan pembersih rumah tangga untuk mencoba reaksi kimia. Beberapa campuran dapat menghasilkan gas berbahaya atau panas. Pembelajaran kimia harus menggunakan bahan dan prosedur yang disetujui guru atau petugas laboratorium.
+
+BAB LANJUTAN 4 — LAJU REAKSI DAN KESETIMBANGAN
+
+Laju reaksi menyatakan perubahan konsentrasi pereaksi atau produk per satuan waktu. Suhu, konsentrasi, luas permukaan, tekanan untuk gas, dan katalis dapat memengaruhi laju reaksi. Kenaikan suhu umumnya membuat partikel bergerak lebih cepat dan meningkatkan frekuensi tumbukan efektif. Katalis menyediakan jalur reaksi alternatif dengan energi aktivasi lebih rendah dan tidak habis secara permanen dalam reaksi keseluruhan.
+
+Tidak semua reaksi berlangsung sampai seluruh pereaksi habis. Pada reaksi reversibel, reaksi maju dan balik dapat mencapai kesetimbangan dinamis: kedua arah tetap berlangsung, tetapi lajunya sama sehingga konsentrasi makroskopis tidak berubah. Kesetimbangan bukan berarti reaksi berhenti. Perubahan suhu, tekanan, atau konsentrasi dapat menggeser posisi kesetimbangan sesuai prinsip Le Chatelier.
+
+Konsep kesetimbangan penting dalam industri. Produsen perlu mempertimbangkan hasil produk, laju produksi, biaya energi, keselamatan, dan dampak lingkungan. Kondisi yang memberi hasil maksimum belum tentu paling ekonomis atau paling aman. Kimia industri menggabungkan prinsip ilmiah dengan rekayasa proses.
+
+BAB LANJUTAN 5 — KIMIA LINGKUNGAN DAN PENGELOLAAN LIMBAH
+
+Air, udara, dan tanah mengandung campuran berbagai zat. Pencemaran dapat terjadi ketika konsentrasi suatu zat melebihi kemampuan lingkungan untuk menguraikan, menyerap, atau menetralkannya. Penilaian pencemaran harus memperhatikan jenis zat, konsentrasi, lama paparan, jalur masuk, dan kerentanan organisme.
+
+Pengolahan air dapat mencakup penyaringan, pengendapan, koagulasi, filtrasi, dan disinfeksi. Tahapan yang digunakan bergantung pada sumber air dan standar kualitas yang ingin dicapai. Air yang tampak jernih belum tentu aman diminum karena beberapa kontaminan tidak terlihat, tidak berbau, dan tidak berasa. Pengujian harus menggunakan metode yang sesuai.
+
+Kimia hijau berupaya merancang produk dan proses yang mengurangi penggunaan serta pembentukan zat berbahaya. Prinsipnya mencakup pencegahan limbah, penggunaan bahan baku terbarukan bila sesuai, efisiensi energi, katalisis, dan desain produk yang lebih mudah terurai. Pengurangan dampak sebaiknya dinilai sepanjang daur hidup, bukan hanya pada satu tahap produksi.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Apa perbedaan ikatan ion, kovalen, dan logam?
+2. Mengapa bentuk molekul dapat memengaruhi kelarutan?
+3. Hitung molaritas larutan yang mengandung 0,2 mol zat dalam volume akhir 0,5 liter.
+4. Apa asumsi utama dalam rumus pengenceran M1V1 = M2V2?
+5. Mengapa perubahan satu angka pH berarti perubahan besar pada tingkat keasaman?
+6. Apa arti kesetimbangan dinamis?
+7. Sebutkan tiga faktor yang dapat memengaruhi laju reaksi.
+8. Mengapa air jernih belum tentu aman diminum?
+
+KUNCI PEMBAHASAN
+1. Ikatan ion melibatkan tarikan ion setelah perpindahan elektron; kovalen berbagi pasangan elektron; logam melibatkan elektron terdelokalisasi.
+2. Bentuk molekul memengaruhi distribusi muatan dan interaksi dengan pelarut.
+3. M = 0,2 mol / 0,5 L = 0,4 mol/L.
+4. Jumlah mol zat terlarut tetap dan tidak terjadi reaksi atau kehilangan zat selama pengenceran; satuan konsentrasi konsisten.
+5. Skala pH bersifat logaritmik sehingga satu unit mewakili perubahan sekitar sepuluh kali pada aktivitas ion hidrogen.
+6. Reaksi maju dan balik tetap berlangsung dengan laju sama.
+7. Suhu, konsentrasi, luas permukaan, tekanan gas, dan katalis.
+8. Kontaminan tertentu tidak terlihat secara kasatmata sehingga perlu pengujian.
+
+GLOSARIUM TAMBAHAN
+Ikatan ion: ikatan akibat tarikan elektrostatik antarion.
+Ikatan kovalen: ikatan melalui pemakaian bersama pasangan elektron.
+Ikatan logam: ikatan yang melibatkan elektron terdelokalisasi pada kisi logam.
+Polaritas: ketidakmerataan distribusi muatan dalam ikatan atau molekul.
+Molaritas: jumlah mol zat terlarut per liter larutan.
+Pengenceran: penurunan konsentrasi dengan penambahan pelarut.
+pH: ukuran keasaman yang berkaitan dengan aktivitas ion hidrogen.
+Katalis: zat yang mempercepat reaksi melalui jalur alternatif dan tidak habis secara keseluruhan.
+Kesetimbangan dinamis: keadaan ketika laju reaksi maju dan balik sama.
+Kimia hijau: pendekatan perancangan kimia untuk mengurangi bahaya dan limbah.

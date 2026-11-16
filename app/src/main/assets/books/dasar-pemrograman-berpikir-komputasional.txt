@@ -27,7 +27,7 @@ LAMPIRAN B. Latihan dan Pembahasan
 GLOSARIUM
 DAFTAR BACAAN
 
-BAB 1. KOMPUTER DAN PROGRAM
+PENDALAMAN 1 — KOMPUTER DAN PROGRAM
 
 Komputer adalah perangkat yang menerima masukan, mengolah data berdasarkan instruksi, menyimpan informasi, dan menghasilkan keluaran. Komputer dapat berupa laptop, telepon pintar, server, mesin kasir, atau perangkat kecil yang tertanam pada alat rumah tangga. Bentuknya berbeda, tetapi prinsip kerjanya memiliki kesamaan: perangkat keras menjalankan instruksi yang disediakan perangkat lunak.
 
@@ -52,7 +52,7 @@ PERTANYAAN PEMAHAMAN
 2. Mengapa memahami masalah perlu dilakukan sebelum menulis kode?
 3. Tentukan masukan, proses, dan keluaran dari program penghitung nilai rata-rata.
 
-BAB 2. BERPIKIR KOMPUTASIONAL
+PENDALAMAN 1 — BERPIKIR KOMPUTASIONAL
 
 Berpikir komputasional adalah pendekatan untuk memecahkan masalah secara terstruktur sehingga solusinya dapat dijalankan oleh manusia atau komputer. Pendekatan ini tidak berarti semua masalah harus diselesaikan dengan komputer. Keterampilan utamanya adalah merumuskan masalah, menemukan pola, memilih informasi penting, dan menyusun langkah yang dapat diperiksa.
 
@@ -84,7 +84,7 @@ RANGKUMAN BAB 2
 LATIHAN
 Pilih satu kegiatan sehari-hari, misalnya menyiapkan tas sekolah. Tuliskan bagian-bagian kecilnya, pola yang berulang, informasi yang penting, dan urutan langkahnya.
 
-BAB 3. ALGORITMA DAN PSEUDOCODE
+PENDALAMAN 1 — ALGORITMA DAN PSEUDOCODE
 
 Algoritma adalah urutan langkah terbatas untuk menyelesaikan masalah. Instruksi harus cukup jelas agar dapat diikuti tanpa menebak maksud pembuatnya. Kata seperti “lakukan dengan benar” terlalu umum. Instruksi yang baik menjelaskan tindakan dan kondisi yang diperlukan.
 
@@ -111,7 +111,7 @@ RANGKUMAN BAB 3
 • Flowchart menggambarkan alur menggunakan simbol.
 • Kasus khusus perlu dipikirkan sejak tahap perancangan.
 
-BAB 4. VARIABEL DAN TIPE DATA
+PENDALAMAN 1 — VARIABEL DAN TIPE DATA
 
 Variabel adalah nama yang digunakan untuk merujuk pada suatu nilai dalam program. Bayangkan sebuah kotak berlabel yang isinya dapat digunakan atau diperbarui. Nama variabel sebaiknya menjelaskan maknanya, misalnya jumlahBuku, namaPenulis, atau totalHarga. Nama seperti x1 dan data2 boleh digunakan pada contoh singkat, tetapi kurang membantu pada program yang lebih besar.
 
@@ -134,7 +134,7 @@ RANGKUMAN BAB 4
 LATIHAN
 Tentukan tipe data yang tepat untuk: nama buku, jumlah halaman, harga, tanggal terbit, dan status ketersediaan.
 
-BAB 5. OPERATOR DAN EKSPRESI
+PENDALAMAN 1 — OPERATOR DAN EKSPRESI
 
 Operator adalah simbol atau kata yang melakukan operasi terhadap nilai. Operator aritmetika mencakup penjumlahan, pengurangan, perkalian, pembagian, dan sisa pembagian. Operator perbandingan membandingkan dua nilai, misalnya lebih besar, lebih kecil, atau sama. Operator logika menggabungkan kondisi, seperti DAN, ATAU, dan TIDAK.
 
@@ -154,7 +154,7 @@ RANGKUMAN BAB 5
 • Operator logika menggabungkan kondisi.
 • Tanda kurung memperjelas urutan operasi.
 
-BAB 6. PERCABANGAN DAN PENGAMBILAN KEPUTUSAN
+PENDALAMAN 1 — PERCABANGAN DAN PENGAMBILAN KEPUTUSAN
 
 Percabangan membuat program memilih tindakan berdasarkan kondisi. Bentuk paling sederhana adalah JIKA dan JIKA TIDAK. Contoh:
 
@@ -177,7 +177,7 @@ RANGKUMAN BAB 6
 • Tabel keputusan membantu memeriksa kombinasi.
 • Jalur berhasil dan gagal sama-sama perlu diuji.
 
-BAB 7. PERULANGAN
+PENDALAMAN 1 — PERULANGAN
 
 Perulangan menjalankan serangkaian instruksi lebih dari sekali. Perulangan berguna ketika tugas dilakukan pada banyak data atau sampai suatu kondisi tercapai. Tanpa perulangan, instruksi yang sama mungkin harus ditulis berulang kali dan sulit dipelihara.
 
@@ -203,7 +203,7 @@ RANGKUMAN BAB 7
 • Perulangan kondisi memerlukan syarat berhenti yang dapat dicapai.
 • Perulangan bertingkat perlu memperhatikan efisiensi.
 
-BAB 8. FUNGSI DAN PEMECAHAN PROGRAM
+PENDALAMAN 1 — FUNGSI DAN PEMECAHAN PROGRAM
 
 Fungsi adalah bagian program yang diberi nama dan menjalankan tugas tertentu. Fungsi membantu memecah program besar menjadi bagian yang lebih mudah dipahami, diuji, dan digunakan kembali. Nama fungsi sebaiknya berupa tindakan yang jelas, misalnya hitungTotal atau validasiEmail.
 
@@ -229,7 +229,7 @@ RANGKUMAN BAB 8
 • Nilai kembalian mengirimkan hasil.
 • Fungsi yang terfokus lebih mudah diuji dan dipelihara.
 
-BAB 9. STRUKTUR DATA DASAR
+PENDALAMAN 1 — STRUKTUR DATA DASAR
 
 Struktur data adalah cara mengatur informasi agar dapat disimpan dan diolah. Array atau daftar menyimpan sejumlah elemen dalam urutan tertentu. Set digunakan untuk kumpulan nilai unik. Peta atau dictionary menghubungkan kunci dengan nilai, misalnya kode buku dengan judulnya.
 
@@ -250,7 +250,7 @@ RANGKUMAN BAB 9
 • Stack menggunakan prinsip terakhir masuk pertama keluar.
 • Queue menggunakan prinsip pertama masuk pertama keluar.
 
-BAB 10. MENGENAL INPUT, OUTPUT, DAN BERKAS
+PENDALAMAN 1 — MENGENAL INPUT, OUTPUT, DAN BERKAS
 
 Input adalah data yang diterima program, sedangkan output adalah hasil yang diberikan program. Input dapat berasal dari pengguna, berkas, sensor, atau layanan lain. Output dapat berupa teks, gambar, suara, laporan, atau data yang disimpan.
 
@@ -268,7 +268,7 @@ RANGKUMAN BAB 10
 • Berkas menyimpan data secara persisten.
 • Penanganan kesalahan dan pencadangan merupakan bagian dari pengelolaan data.
 
-BAB 11. PENGUJIAN DAN PERBAIKAN KESALAHAN
+PENDALAMAN 1 — PENGUJIAN DAN PERBAIKAN KESALAHAN
 
 Kesalahan program sering disebut bug. Kesalahan sintaks terjadi ketika kode melanggar aturan bahasa. Kesalahan saat berjalan muncul ketika program dieksekusi, misalnya mencoba membaca berkas yang tidak ada. Kesalahan logika terjadi ketika program berjalan tetapi menghasilkan jawaban yang salah.
 
@@ -288,7 +288,7 @@ RANGKUMAN BAB 11
 • Uji nilai normal, batas, kosong, dan tidak valid.
 • Pengujian regresi menjaga fitur lama tetap berfungsi.
 
-BAB 12. EFISIENSI DAN KUALITAS PROGRAM
+PENDALAMAN 1 — EFISIENSI DAN KUALITAS PROGRAM
 
 Program yang benar belum tentu efisien. Efisiensi berkaitan dengan waktu pemrosesan, penggunaan memori, energi, dan kapasitas jaringan. Aplikasi yang memuat seluruh katalog sekaligus mungkin terasa lambat ketika jumlah data bertambah. Memuat data secara bertahap dapat mengurangi beban awal.
 
@@ -306,7 +306,7 @@ RANGKUMAN BAB 12
 • Keterbacaan dan kemudahan pemeliharaan adalah bagian dari kualitas.
 • Ukur sebelum mengoptimasi.
 
-BAB 13. KEAMANAN DAN ETIKA PEMROGRAMAN
+PENDALAMAN 1 — KEAMANAN DAN ETIKA PEMROGRAMAN
 
 Program dapat mengelola informasi penting, sehingga keamanan perlu dirancang sejak awal. Prinsip hak akses minimum berarti setiap bagian hanya memperoleh izin yang diperlukan. Aplikasi pembaca buku tidak perlu meminta akses lokasi jika fitur utamanya tidak membutuhkannya.
 
@@ -327,7 +327,7 @@ RANGKUMAN BAB 13
 • Hormati privasi, hak cipta, dan kebutuhan pengguna.
 • Hasil bantuan AI tetap perlu diperiksa dan diuji.
 
-BAB 14. PROYEK TERPADU UNTUK PEMULA
+PENDALAMAN 1 — PROYEK TERPADU UNTUK PEMULA
 
 Proyek: membuat program katalog buku sederhana. Tujuannya adalah menyimpan daftar buku, menampilkan seluruh buku, mencari judul, dan menambahkan buku baru.
 
@@ -447,22 +447,22 @@ Pemrograman bukan sekadar menghafal perintah bahasa tertentu. Intinya adalah mem
 Mulailah dari masalah kecil yang dekat dengan kehidupan sehari-hari. Buat rancangan, tulis pseudocode, implementasikan, lalu uji dengan berbagai masukan. Simpan catatan tentang hal yang berhasil dan hal yang perlu diperbaiki. Dengan latihan yang konsisten dan sikap bertanggung jawab, pembaca dapat berkembang dari pengguna teknologi menjadi pembuat solusi digital.
 
 PENDALAMAN: ALGORITMA, DATA, DAN PEMECAHAN MASALAH
-BAB 7 — DEKOMPOSISI DAN ABSTRAKSI
+PENDALAMAN 2 — DEKOMPOSISI DAN ABSTRAKSI
 Dekomposisi memecah masalah besar menjadi bagian kecil yang dapat ditangani. Abstraksi memilih detail yang relevan untuk tujuan tertentu. Saat merancang aplikasi perpustakaan, misalnya, model data dapat berfokus pada buku, anggota, peminjaman, dan tanggal kembali tanpa meniru setiap detail fisik rak.
 Pola membantu menemukan bagian yang dapat digunakan kembali. Setelah solusi disusun, uji setiap bagian secara terpisah sebelum menggabungkannya. Dokumentasikan asumsi agar pengguna lain memahami batas solusi.
-BAB 8 — REPRESENTASI DATA
+PENDALAMAN 2 — REPRESENTASI DATA
 Komputer menyimpan informasi dalam bentuk bit. Teks, gambar, suara, dan angka dikodekan menggunakan aturan tertentu. Kesalahan encoding dapat membuat karakter tampil tidak benar. Ukuran berkas dipengaruhi resolusi, durasi, format, dan kompresi.
 Kompresi lossless mempertahankan informasi asli, sedangkan kompresi lossy mengurangi sebagian informasi demi ukuran lebih kecil. Pilih format sesuai kebutuhan kualitas, kompatibilitas, dan penyimpanan.
-BAB 9 — PENCARIAN DAN PENGURUTAN
+PENDALAMAN 2 — PENCARIAN DAN PENGURUTAN
 Pencarian linear memeriksa elemen satu demi satu. Pencarian biner bekerja pada data terurut dengan membagi ruang pencarian berulang kali. Pengurutan menyusun data berdasarkan kriteria, misalnya abjad atau nilai.
 Pemilihan algoritma perlu mempertimbangkan ukuran data, kebutuhan kestabilan urutan, dan biaya memori. Uji dengan data kosong, satu elemen, duplikasi, dan nilai yang tidak ditemukan.
-BAB 10 — DATA, BASIS DATA, DAN KUALITAS
+PENDALAMAN 2 — DATA, BASIS DATA, DAN KUALITAS
 Basis data mengorganisasi data agar dapat disimpan, dicari, dan diperbarui secara konsisten. Tabel relasional menggunakan baris, kolom, kunci utama, dan relasi. Validasi mencegah nilai yang tidak sesuai aturan, sedangkan cadangan membantu pemulihan ketika terjadi kegagalan.
 Data berkualitas harus akurat, lengkap, konsisten, relevan, dan mutakhir. Jangan menyimpan data pribadi yang tidak diperlukan. Tetapkan hak akses dan prosedur penghapusan.
-BAB 11 — ANTARMUKA DAN PENGALAMAN PENGGUNA
+PENDALAMAN 2 — ANTARMUKA DAN PENGALAMAN PENGGUNA
 Antarmuka yang baik membuat tindakan utama mudah ditemukan, memberi umpan balik, dan mencegah kesalahan. Konsistensi istilah, ukuran teks yang terbaca, kontras, serta dukungan aksesibilitas membantu lebih banyak orang.
 Uji aplikasi dengan pengguna dan perangkat berbeda. Catat tugas yang gagal, bagian yang membingungkan, serta waktu penyelesaian. Jangan menganggap selera pengembang mewakili semua pengguna.
-BAB 12 — PENGUJIAN DAN PEMELIHARAAN
+PENDALAMAN 2 — PENGUJIAN DAN PEMELIHARAAN
 Pengujian unit memeriksa fungsi kecil, pengujian integrasi memeriksa kerja antarbagian, dan pengujian sistem memeriksa aplikasi secara keseluruhan. Regresi memastikan perbaikan tidak merusak fitur yang sebelumnya berjalan.
 Perangkat lunak perlu diperbarui untuk memperbaiki bug, menutup celah keamanan, dan menyesuaikan perubahan platform. Catatan versi harus menjelaskan perubahan secara jujur.
 LATIHAN

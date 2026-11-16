@@ -129,3 +129,37 @@ Evaluasi: Penilaian berdasarkan kriteria dan bukti.
 
 DAFTAR PUSTAKA DAN SARAN BELAJAR
 Naskah ini merupakan bahan pembelajaran orisinal yang disusun untuk NextyLibrary. Untuk topik yang memerlukan informasi mutakhir atau keputusan profesional, bandingkan dengan buku ajar, standar, dan publikasi lembaga resmi yang relevan. Catat judul, penulis/lembaga, tahun, serta bagian yang digunakan ketika menambahkan rujukan.
+
+PENDALAMAN MATERI
+
+BAB 6. ARGUMEN DEDUKTIF DAN INDUKTIF
+Penalaran deduktif bergerak dari premis menuju kesimpulan yang harus mengikuti bentuk logisnya jika premis benar. Penalaran induktif menyusun generalisasi dari sejumlah pengamatan, sehingga kesimpulannya bersifat mungkin dan terbuka untuk revisi. Contoh deduktif: semua mamalia bernapas dengan paru-paru; paus adalah mamalia; maka paus bernapas dengan paru-paru. Contoh induktif: beberapa logam yang diamati memuai ketika dipanaskan; dari pengamatan itu dibuat dugaan umum yang perlu diuji lebih luas. Kesalahan terjadi ketika kesimpulan induktif diperlakukan sebagai kepastian mutlak atau ketika bentuk deduktif tidak valid dianggap benar hanya karena kesimpulannya kebetulan benar.
+
+BAB 7. KESALAHAN BERPIKIR
+Kekeliruan berpikir dapat muncul dalam argumen sehari-hari. Serangan pribadi mengalihkan pembahasan dari gagasan ke karakter orang. Generalisasi tergesa-gesa menarik kesimpulan luas dari contoh terlalu sedikit. Sebab palsu menganggap dua peristiwa yang berurutan pasti memiliki hubungan sebab-akibat. Dilema palsu menyajikan hanya dua pilihan padahal kemungkinan lain ada. Mengenali kekeliruan bukan berarti otomatis membuktikan pendapat lawan salah; kita tetap perlu menilai bukti dan menyusun alasan sendiri. Diskusi yang sehat berfokus pada klaim, definisi, data, dan hubungan logis.
+
+BAB 8. MEMECAH MASALAH KOMPLEKS
+Masalah kompleks dapat dipecah menjadi bagian yang lebih kecil, tetapi hubungan antarbagiannya harus tetap diperhatikan. Mulailah dengan mendefinisikan masalah, pihak yang terdampak, batas waktu, sumber daya, dan kriteria keberhasilan. Buat peta sebab-akibat untuk membedakan gejala dari akar masalah. Setelah itu susun beberapa alternatif, nilai konsekuensi dan risikonya, lalu pilih langkah yang dapat diuji. Pemecahan masalah bukan sekadar mencari jawaban tercepat; solusi perlu dipantau dan diperbaiki berdasarkan hasil. Jika masalah berubah, definisi awal juga mungkin perlu ditinjau.
+
+BAB 9. KEPUTUSAN DALAM KETIDAKPASTIAN
+Keputusan sering dibuat dengan informasi tidak lengkap. Bedakan risiko yang peluangnya dapat diperkirakan dari ketidakpastian yang peluangnya belum diketahui dengan baik. Buat beberapa skenario, catat asumsi, dan pikirkan dampak jika asumsi salah. Keputusan yang mudah dibalik dapat diuji dalam skala kecil, sedangkan keputusan sulit dibalik membutuhkan pemeriksaan lebih teliti. Hindari bias konfirmasi, yaitu kecenderungan mencari informasi yang mendukung pendapat awal dan mengabaikan bukti yang berlawanan. Catatan keputusan membantu mengevaluasi apakah hasil buruk terjadi karena proses berpikir yang keliru atau karena keadaan yang tidak dapat diperkirakan.
+
+BAB 10. BERPIKIR SISTEM
+Berpikir sistem memandang masalah sebagai jaringan unsur yang saling memengaruhi. Umpan balik penguat dapat memperbesar perubahan, sedangkan umpan balik penyeimbang cenderung menahan perubahan. Keterlambatan membuat akibat suatu tindakan tidak selalu terlihat segera. Contohnya, kebijakan penghematan air mungkin baru menunjukkan dampak setelah kebiasaan warga berubah. Diagram sebab-akibat membantu memetakan hubungan, tetapi tidak menggantikan data. Saat memperbaiki satu bagian sistem, periksa apakah masalah berpindah ke bagian lain. Pendekatan sistem berguna untuk isu lingkungan, pendidikan, transportasi, dan organisasi.
+
+STUDI KASUS
+Sekolah ingin mengurangi keterlambatan. Hukuman tambahan mungkin mengurangi sebagian kasus, tetapi penyebab keterlambatan dapat mencakup transportasi, jadwal, jarak, dan kebiasaan tidur. Tim perlu mengumpulkan data tanpa mempermalukan siswa, mengelompokkan faktor yang dapat dikendalikan, mencoba beberapa intervensi, dan mengevaluasi hasil. Kasus ini memperlihatkan pentingnya membedakan gejala dan penyebab.
+
+LATIHAN DAN PEMBAHASAN
+1. Bedakan deduksi dan induksi: deduksi menjaga kepastian bentuk jika premis benar, induksi menyimpulkan pola yang masih dapat direvisi.
+2. Berikan contoh generalisasi tergesa-gesa: menyimpulkan semua anggota kelompok memiliki sifat tertentu dari satu orang.
+3. Mengapa perlu memetakan akar masalah? Agar solusi tidak hanya menutupi gejala.
+4. Apa manfaat skenario? Membantu melihat konsekuensi jika asumsi berbeda.
+5. Jelaskan umpan balik penyeimbang: proses yang menahan atau mengurangi perubahan awal.
+
+GLOSARIUM
+Deduksi: penalaran dari premis ke kesimpulan logis.
+Induksi: penalaran dari pengamatan menuju pola umum.
+Premis: pernyataan dasar dalam argumen.
+Bias konfirmasi: kecenderungan memilih bukti yang mendukung keyakinan.
+Umpan balik: pengaruh hasil proses terhadap proses berikutnya.

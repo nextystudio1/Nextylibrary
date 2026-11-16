@@ -146,3 +146,51 @@ Perbandingan teknologi harus menggunakan fungsi layanan yang setara. Membandingk
 
 PROYEK ANALISIS ENERGI
 Pilih satu layanan, misalnya penerangan ruang belajar. Bandingkan dua pilihan berdasarkan energi, biaya sepanjang umur pakai, keandalan, kebutuhan perawatan, dan dampak daur hidup. Nyatakan asumsi dan jangan mengklaim satu teknologi selalu paling baik untuk semua kondisi.
+
+BAB 12. SISTEM ENERGI DAN KUALITAS LAYANAN
+
+Sistem energi mencakup pembangkitan, transmisi, distribusi, penyimpanan, dan penggunaan akhir. Kualitas layanan tidak hanya diukur dari jumlah energi, tetapi juga keandalan, keterjangkauan, keselamatan, dan kemampuan sistem pulih dari gangguan. Perencanaan perlu memperhatikan variasi permintaan dan lokasi pengguna.
+
+Akses energi yang memadai mendukung pendidikan, kesehatan, kegiatan ekonomi, dan komunikasi. Namun, rumah tangga dan wilayah memiliki kebutuhan serta kemampuan membayar berbeda. Kebijakan energi perlu memeriksa siapa yang belum terlayani dan apakah biaya energi membebani kelompok tertentu secara tidak proporsional.
+
+BAB 13. EKONOMI ENERGI DAN TARIF
+
+Biaya energi terdiri dari investasi, bahan bakar, operasi, pemeliharaan, jaringan, dan biaya lingkungan. Tarif dapat dirancang untuk memulihkan biaya, memberi sinyal penggunaan, dan melindungi akses dasar. Setiap rancangan memiliki konsekuensi distribusi dan perlu dijelaskan secara transparan.
+
+Subsidi dapat membantu kelompok sasaran, tetapi desain yang tidak tepat dapat lebih banyak dinikmati pengguna besar atau menekan anggaran publik. Evaluasi perlu melihat ketepatan sasaran, dampak pada konsumsi, biaya fiskal, dan alternatif bantuan. Perubahan tarif sebaiknya disertai informasi yang mudah dipahami dan mekanisme pengaduan.
+
+BAB 14. INTEGRASI ENERGI TERBARUKAN
+
+Sumber terbarukan seperti surya, angin, air, panas bumi, dan bioenergi memiliki pola produksi serta kebutuhan lokasi berbeda. Integrasi ke jaringan memerlukan perencanaan fleksibilitas, penyimpanan, transmisi, pengaturan beban, dan cadangan. Variabilitas produksi tidak berarti sumber tersebut tidak berguna; sistem dapat menggabungkan beragam sumber dan teknologi pendukung.
+
+Penilaian proyek perlu memperhatikan ekologi, penggunaan lahan, hak masyarakat, rantai pasok, limbah, dan penerimaan lokal. Label terbarukan tidak otomatis berarti dampak nol. Konsultasi dan analisis siklus hidup membantu melihat konsekuensi dari hulu hingga akhir masa pakai.
+
+BAB 15. PENYIMPANAN ENERGI DAN FLEKSIBILITAS
+
+Penyimpanan energi membantu menggeser waktu penggunaan energi dan mendukung kestabilan sistem. Teknologi berbeda memiliki kapasitas, daya, efisiensi, umur, biaya, dan risiko yang berbeda. Pemilihan harus berdasarkan kebutuhan layanan: cadangan singkat, pengaturan beban, atau penyimpanan lebih lama.
+
+Baterai dan sistem penyimpanan memerlukan instalasi, pemantauan, ventilasi, perlindungan, serta pengelolaan akhir masa pakai sesuai standar. Pekerjaan teknis harus dilakukan oleh tenaga profesional. Pengguna tidak boleh membongkar atau memodifikasi perangkat penyimpanan energi.
+
+BAB 16. EMISI, POLUSI, DAN PENILAIAN SIKLUS HIDUP
+
+Dampak energi mencakup emisi gas rumah kaca, polusi udara, penggunaan air, perubahan lahan, dan limbah. Analisis siklus hidup menghitung dampak sepanjang rantai pasok dan masa penggunaan dengan batas sistem yang dinyatakan. Perbandingan harus memakai unit fungsi yang setara dan menjelaskan asumsi.
+
+Emisi langsung saat operasi berbeda dari emisi tidak langsung dalam produksi bahan, konstruksi, dan transportasi. Teknologi rendah emisi saat digunakan tetap memiliki jejak produksi. Sebaliknya, analisis yang hanya menghitung tahap produksi dapat mengabaikan manfaat selama masa operasi. Transparansi batas sistem sangat penting.
+
+BAB 17. TRANSISI ENERGI YANG ADIL
+
+Transisi energi mengubah teknologi, pekerjaan, investasi, dan pola konsumsi. Perubahan dapat memengaruhi pekerja sektor tertentu, komunitas sekitar fasilitas, dan konsumen berpendapatan rendah. Kebijakan transisi yang adil perlu memikirkan pelatihan ulang, perlindungan sosial, kesempatan kerja, konsultasi komunitas, dan keterjangkauan layanan.
+
+Indikator transisi tidak hanya jumlah kapasitas terpasang atau penurunan emisi. Ukur juga kualitas pekerjaan, akses energi, keterjangkauan, partisipasi, dan dampak lokal. Perubahan yang cepat tanpa dukungan dapat menimbulkan penolakan dan ketimpangan baru.
+
+PROYEK: PERBANDINGAN PILIHAN ENERGI UNTUK FASILITAS UMUM
+
+Bandingkan dua opsi pasokan energi untuk fasilitas umum berdasarkan keandalan, biaya sepanjang umur pakai, emisi, kebutuhan ruang, pemeliharaan, dan dampak sosial. Gunakan sumber data yang jelas dan nyatakan ketidakpastian. Jangan melakukan instalasi atau pengujian listrik; proyek ini berupa analisis dokumen dan perhitungan.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Apa saja unsur kualitas layanan energi? Keandalan, keterjangkauan, keselamatan, dan pemulihan gangguan.
+2. Mengapa subsidi perlu dievaluasi? Untuk memastikan sasaran, biaya, dan dampaknya tepat.
+3. Mengapa energi terbarukan perlu dukungan sistem? Karena pola produksi dan lokasi sumber berbeda.
+4. Apa tujuan penyimpanan energi? Menggeser waktu penggunaan dan membantu fleksibilitas sistem.
+5. Apa arti transisi energi yang adil? Perubahan memperhatikan pekerja, konsumen, komunitas, dan pembagian manfaat serta beban.

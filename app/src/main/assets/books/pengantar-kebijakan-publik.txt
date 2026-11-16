@@ -174,3 +174,48 @@ Akuntabilitas: Kewajiban menjelaskan dan mempertanggungjawabkan keputusan.
 
 CATATAN SUMBER
 Naskah ini merupakan materi pengantar orisinal Nexty Studio. Gunakan buku ajar dan sumber lembaga kompeten untuk pendalaman. Catat sumber, tahun, dan bagian yang dirujuk. Untuk informasi yang terus berkembang, periksa edisi dan tanggal pembaruan sebelum mengutip.
+
+BAB LANJUTAN: IDENTIFIKASI MASALAH PUBLIK
+
+Masalah publik muncul ketika suatu keadaan dipandang memiliki dampak luas dan membutuhkan tindakan kolektif. Tidak semua persoalan pribadi otomatis menjadi masalah kebijakan, tetapi pola yang berulang dapat menunjukkan hambatan sistemik. Identifikasi masalah memerlukan data, pengalaman warga, analisis penyebab, dan penjelasan tentang siapa yang terdampak.
+
+Perumusan masalah memengaruhi pilihan solusi. Jika kemacetan didefinisikan hanya sebagai kekurangan jalan, kebijakan mungkin berfokus pada pelebaran. Jika masalah dirumuskan sebagai sulitnya mencapai tempat kerja dengan aman dan terjangkau, pilihan dapat mencakup angkutan umum, tata ruang, jalur berjalan kaki, dan pengaturan waktu kerja. Definisi yang baik membuka ruang bagi beberapa alternatif.
+
+Peta masalah membantu membedakan gejala, penyebab langsung, dan faktor struktural. Hubungan sebab-akibat harus diperlakukan sebagai hipotesis yang perlu diuji. Wawancara, data administrasi, observasi, dan studi terdahulu dapat memberikan sudut pandang yang saling melengkapi.
+
+BAB LANJUTAN: PEMANGKU KEPENTINGAN DAN PARTISIPASI
+
+Pemangku kepentingan adalah pihak yang memengaruhi atau terdampak oleh kebijakan. Mereka dapat mencakup warga, kelompok rentan, pelaku usaha, pekerja, organisasi masyarakat, lembaga pemerintah, dan penyedia layanan. Pemetaan tidak hanya mencatat siapa yang memiliki kekuasaan, tetapi juga siapa yang menanggung risiko dan siapa yang suaranya jarang terdengar.
+
+Partisipasi memiliki beberapa tingkat: pemberian informasi, konsultasi, keterlibatan dalam perancangan, hingga pembagian kewenangan. Konsultasi yang bermakna menjelaskan ruang keputusan yang masih terbuka dan bagaimana masukan akan digunakan. Mengundang warga setelah keputusan praktis tidak dapat diubah dapat menciptakan kesan partisipasi semu.
+
+Metode partisipasi harus sesuai konteks. Pertemuan terbuka dapat menjangkau banyak orang tetapi tidak selalu aman atau nyaman bagi semua pihak. Diskusi kelompok kecil, survei, forum daring, dan wawancara dapat melengkapi satu sama lain. Fasilitator perlu mengurangi dominasi peserta tertentu dan melindungi kerahasiaan bila dibutuhkan.
+
+BAB LANJUTAN: MEMBANDINGKAN ALTERNATIF KEBIJAKAN
+
+Alternatif kebijakan dinilai berdasarkan efektivitas, efisiensi, keadilan, kelayakan administratif, penerimaan publik, dan dampak lingkungan. Kriteria harus dijelaskan sebelum alternatif dibandingkan agar penilaian tidak berubah hanya untuk membenarkan pilihan awal. Bobot kriteria merupakan keputusan normatif dan perlu dibuka kepada pembaca.
+
+Analisis biaya-manfaat mencoba membandingkan konsekuensi dalam satuan yang sebanding, tetapi tidak semua nilai mudah dihitung dengan uang. Martabat, hak, rasa aman, dan distribusi dampak tidak seharusnya diabaikan hanya karena sulit dimonetisasi. Analisis multikriteria dapat membantu menyajikan pertimbangan yang berbeda tanpa menyembunyikan pilihan nilai.
+
+Analisis sensitivitas menguji apakah rekomendasi berubah ketika asumsi biaya, permintaan, atau tingkat keberhasilan berubah. Jika hasil sangat bergantung pada satu asumsi, pembuat kebijakan perlu menyatakan ketidakpastian dan menyiapkan opsi penyesuaian.
+
+BAB LANJUTAN: IMPLEMENTASI DAN KOORDINASI
+
+Kebijakan dapat gagal bukan karena tujuannya keliru, melainkan karena pembagian tugas tidak jelas, anggaran tidak cukup, prosedur terlalu rumit, atau koordinasi lemah. Rencana implementasi perlu menyebut penanggung jawab, jadwal, sumber daya, indikator, dan mekanisme penyelesaian hambatan.
+
+Koordinasi lintas lembaga membutuhkan pertukaran data yang sah, definisi indikator yang sama, dan forum untuk menyelesaikan perbedaan. Penunjukan satu koordinator tidak menggantikan kebutuhan setiap lembaga untuk memiliki kewenangan dan tanggung jawab yang jelas.
+
+Pelaksanaan sering memerlukan penyesuaian. Perubahan sebaiknya dicatat beserta alasan, pihak yang menyetujui, dan konsekuensinya. Fleksibilitas bukan berarti mengubah tujuan tanpa pertanggungjawaban; penyesuaian harus tetap menjaga hak dan sasaran utama kebijakan.
+
+BAB LANJUTAN: MONITORING, EVALUASI, DAN PEMBELAJARAN
+
+Monitoring mengumpulkan informasi rutin tentang pelaksanaan dan kemajuan. Evaluasi menilai relevansi, efektivitas, efisiensi, dampak, dan keberlanjutan. Indikator perlu memiliki definisi, sumber, frekuensi, dan pihak yang bertanggung jawab. Jumlah kegiatan saja tidak cukup untuk membuktikan perubahan kesejahteraan.
+
+Evaluasi harus memperhatikan distribusi hasil. Program yang meningkatkan rata-rata layanan mungkin tetap meninggalkan kelompok terpencil. Data perlu dipilah secara etis menurut wilayah atau karakteristik yang relevan, dengan perlindungan privasi. Temuan yang tidak sesuai harapan tetap penting untuk memperbaiki rancangan.
+
+LATIHAN AKHIR
+1. Ubah definisi masalah kemacetan menjadi masalah akses mobilitas.
+2. Buat peta pemangku kepentingan untuk kebijakan pengelolaan sampah.
+3. Pilih lima kriteria untuk membandingkan dua alternatif kebijakan.
+4. Susun matriks tugas implementasi sederhana.
+5. Bedakan indikator keluaran, hasil, dan dampak.

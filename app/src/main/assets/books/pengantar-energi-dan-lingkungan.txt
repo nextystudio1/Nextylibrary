@@ -13,7 +13,7 @@ BAB 1. ENERGI DAN TRANSFORMASI
 Energi adalah kemampuan untuk melakukan kerja atau menyebabkan perubahan. Energi dapat berpindah dan berubah bentuk, misalnya dari energi kimia menjadi panas atau listrik. Dalam setiap proses nyata, sebagian energi menyebar sebagai panas sehingga efisiensi menjadi pertimbangan penting dalam desain sistem.
 
 PENDALAMAN
-Pada ENERGI DAN TRANSFORMASI, pisahkan hasil pengamatan dari penjelasan. Tentukan faktor yang diukur, kondisi yang memengaruhinya, serta bukti yang mendukung kesimpulan. Jelaskan batas model atau metode yang digunakan dan data tambahan yang diperlukan.
+Pada ENERGI DAN TRANSFORMASI, telusuri perubahan energi pada satu peralatan sehari-hari. Catat bentuk energi masukan, keluaran yang diinginkan, dan energi yang terlepas ke lingkungan. Gunakan contoh tersebut untuk menjelaskan mengapa efisiensi tidak pernah cukup dinilai dari satu angka tanpa konteks.
 
 CONTOH PENERAPAN
 Contoh kajian: pilih kasus sederhana yang berkaitan dengan ENERGI DAN TRANSFORMASI dalam bidang Energi dan Lingkungan. Catat kondisi awal, informasi yang tersedia, dan hasil yang ingin dipahami. Terapkan konsep dari bab ini, jelaskan alasan setiap langkah, lalu sebutkan batas kesimpulan.
@@ -31,10 +31,6 @@ LATIHAN
 3. Mengapa efisiensi energi dapat mengurangi tekanan terhadap lingkungan?
 4. Bandingkan dua pilihan energi dengan mempertimbangkan emisi, keandalan, dan kebutuhan lahan.
 5. Usulkan kebiasaan hemat energi dan jelaskan indikator untuk mengevaluasi dampaknya.
-2. Jelaskan satu mekanisme dengan urutan yang benar.
-3. Berikan contoh penerapan dalam kehidupan sehari-hari.
-4. Sebutkan satu keterbatasan atau risiko salah tafsir.
-5. Buat pertanyaan lanjutan yang dapat dijawab melalui pengamatan atau sumber tepercaya.
 
 BAB 2. SUMBER ENERGI
 

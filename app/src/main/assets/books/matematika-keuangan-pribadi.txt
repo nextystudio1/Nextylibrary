@@ -406,3 +406,50 @@ Buat rencana sederhana untuk tujuan menabung selama enam bulan. Tentukan jumlah 
 
 RANGKUMAN
 Keuangan pribadi yang sehat berawal dari tujuan, pencatatan, pengelolaan risiko, pemahaman biaya, dan kewaspadaan terhadap penipuan.
+
+BAB PENGAYAAN — BUNGA SEDERHANA DAN MAJEMUK
+
+Bunga sederhana dihitung berdasarkan pokok awal. Jika pokok Rp1.000.000 memperoleh bunga sederhana 5 persen per tahun selama dua tahun, bunga totalnya Rp100.000. Bunga majemuk menghitung bunga atas pokok beserta bunga yang telah terkumpul. Dengan tingkat dan periode yang sama, hasil bunga majemuk umumnya lebih besar jika bunga terus ditambahkan ke pokok.
+
+Rumus bunga majemuk A = P(1+r)^n berlaku untuk penggabungan satu kali per periode dengan tingkat tetap. P adalah pokok, r adalah tingkat per periode, dan n adalah jumlah periode. Jika frekuensi penggabungan berbeda, rumus perlu disesuaikan. Periksa apakah suku bunga yang disebut adalah tahunan atau per bulan.
+
+BAB PENGAYAAN — NILAI SEKARANG DAN NILAI MASA DEPAN
+
+Nilai masa depan menunjukkan nilai dana setelah memperoleh imbal hasil selama periode tertentu. Nilai sekarang adalah nilai saat ini dari sejumlah uang yang akan diterima di masa depan, dengan tingkat diskonto tertentu. Konsep ini membantu membandingkan pilihan pembayaran pada waktu berbeda.
+
+Jika seseorang harus memilih menerima uang sekarang atau jumlah yang sama beberapa tahun mendatang, inflasi dan potensi hasil investasi membuat kedua pilihan tidak setara. Namun keputusan juga perlu mempertimbangkan risiko, kepastian pembayaran, pajak, biaya, dan kebutuhan dana saat ini.
+
+BAB PENGAYAAN — CICILAN DAN TOTAL BIAYA KREDIT
+
+Cicilan bulanan tidak menunjukkan seluruh biaya pinjaman. Bandingkan total pembayaran selama masa pinjaman, biaya administrasi, asuransi wajib, denda, dan ketentuan pelunasan lebih awal. Suku bunga promosi dapat berubah setelah periode tertentu. Baca jadwal pembayaran dan minta rincian tertulis sebelum menyetujui kontrak.
+
+Rasio pembayaran utang terhadap pendapatan dapat membantu menilai beban cicilan, tetapi tidak ada satu ambang yang sesuai untuk semua keadaan. Kebutuhan dasar, kestabilan pemasukan, tanggungan, dan cadangan perlu dipertimbangkan. Hindari mengambil kewajiban yang tidak dipahami atau yang membuat kebutuhan pokok tidak terpenuhi.
+
+BAB PENGAYAAN — INFLASI DAN HASIL RIIL
+
+Hasil nominal adalah perubahan angka uang, sedangkan hasil riil memperhitungkan perubahan daya beli akibat inflasi. Jika tabungan tumbuh 4 persen dalam setahun sementara inflasi 5 persen, daya beli secara pendekatan menurun sekitar 1 persen. Perhitungan yang lebih tepat menggunakan rasio (1+hasil nominal)/(1+inflasi)-1.
+
+Pajak dan biaya juga memengaruhi hasil bersih. Saat membandingkan produk, gunakan hasil setelah biaya dan pajak bila informasinya tersedia. Jangan membandingkan suku bunga sebelum biaya dari satu produk dengan hasil bersih produk lain.
+
+LATIHAN
+1. Hitung bunga sederhana 6 persen dari Rp2.000.000 selama satu tahun.
+2. Apa perbedaan bunga sederhana dan majemuk?
+3. Mengapa cicilan rendah belum tentu berarti kredit murah?
+4. Jika hasil nominal 4 persen dan inflasi 5 persen, apa yang terjadi pada daya beli secara pendekatan?
+5. Mengapa biaya dan pajak perlu diperhitungkan?
+
+KUNCI PEMBAHASAN
+1. Rp120.000.
+2. Bunga sederhana berdasarkan pokok awal; majemuk juga memperhitungkan bunga yang terakumulasi.
+3. Jangka waktu panjang dan biaya tambahan dapat membuat total pembayaran besar.
+4. Hasil riil kira-kira -1 persen.
+5. Keduanya mengurangi hasil bersih yang diterima.
+
+GLOSARIUM TAMBAHAN
+Pokok: jumlah awal dana atau pinjaman.
+Bunga sederhana: bunga yang dihitung dari pokok awal.
+Bunga majemuk: bunga yang dihitung dari pokok dan bunga terakumulasi.
+Nilai sekarang: nilai saat ini dari arus uang masa depan.
+Nilai masa depan: nilai dana setelah berkembang selama periode tertentu.
+Tingkat diskonto: tingkat untuk mengubah nilai masa depan menjadi nilai sekarang.
+Hasil riil: hasil setelah memperhitungkan inflasi.

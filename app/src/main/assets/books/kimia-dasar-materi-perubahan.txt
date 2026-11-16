@@ -321,3 +321,142 @@ Kimia menghubungkan struktur partikel dengan sifat dan perubahan materi. Model a
 Kimia organik dan biomolekul menunjukkan keragaman senyawa karbon. Kimia air, atmosfer, pangan, analitik, dan material memperlihatkan penerapan konsep pada teknologi serta lingkungan. Keselamatan, etika, dan integritas data memastikan pengetahuan digunakan secara bertanggung jawab.
 Setiap model memiliki asumsi dan batas penggunaan. Pembaca perlu memeriksa satuan, metode, bukti, serta ketidakpastian sebelum menerima kesimpulan.
 
+BAGIAN III — MEMAHAMI KIMIA SECARA LEBIH MENDALAM
+
+BAB 33 — CAMPURAN, PEMISAHAN, DAN KEMURNIAN
+Campuran terbentuk ketika dua atau lebih zat berada bersama tanpa harus membentuk zat baru. Komponen campuran tetap memiliki identitas kimianya, meskipun sifat yang diamati dapat berbeda dari sifat masing-masing komponen. Campuran homogen tampak seragam pada skala pengamatan, sedangkan campuran heterogen memiliki bagian dengan komposisi berbeda.
+Pemisahan campuran memanfaatkan perbedaan sifat fisika. Filtrasi memisahkan partikel padat yang tidak larut dari fluida. Penguapan dapat memisahkan zat terlarut yang tidak mudah menguap dari pelarut. Distilasi memanfaatkan perbedaan kecenderungan menguap dan mengembun. Kromatografi memisahkan komponen berdasarkan perbedaan interaksi dengan fase diam dan fase gerak.
+Tidak ada satu metode yang cocok untuk semua campuran. Pemilihan metode bergantung pada ukuran partikel, kelarutan, titik didih, kestabilan zat, kemurnian yang dibutuhkan, dan dampak lingkungan. Dalam industri, beberapa tahap pemisahan dapat digabungkan untuk mencapai mutu yang ditentukan.
+Kemurnian juga perlu didefinisikan sesuai tujuan. Bahan yang cukup murni untuk satu proses belum tentu memenuhi persyaratan proses lain. Sertifikat analisis dan metode pengujian membantu menjelaskan apa yang sebenarnya diukur.
+Pertanyaan pemahaman: mengapa filtrasi biasa tidak dapat memisahkan garam yang telah larut sempurna dalam air? Jelaskan berdasarkan ukuran partikel dan sifat campuran.
+
+BAB 34 — KELARUTAN DAN KESETIMBANGAN PELARUTAN
+Kelarutan menyatakan jumlah maksimum zat yang dapat larut dalam pelarut pada kondisi tertentu hingga tercapai kesetimbangan. Nilainya dipengaruhi sifat zat terlarut, pelarut, suhu, dan untuk gas juga tekanan. Ungkapan “serupa melarutkan serupa” merupakan pedoman awal: zat dengan karakter interaksi yang mirip cenderung lebih mudah bercampur, tetapi bukan aturan mutlak.
+Larutan tak jenuh masih dapat melarutkan zat tambahan pada kondisi yang sama. Larutan jenuh berada pada kesetimbangan dengan zat terlarut yang belum larut. Larutan lewat jenuh mengandung zat terlarut lebih banyak daripada keadaan jenuh yang stabil dan dapat mudah membentuk kristal ketika terganggu.
+Untuk banyak padatan, kelarutan meningkat saat suhu naik, tetapi ada pengecualian. Kelarutan gas dalam cairan umumnya menurun ketika suhu meningkat dan meningkat ketika tekanan parsial gas di atas cairan meningkat. Hubungan ini penting untuk memahami gas terlarut di perairan.
+Kelarutan bukan sekadar sifat tetap tanpa konteks. Laporan kelarutan harus menyebutkan suhu, pelarut, satuan, dan metode. Perubahan pH dapat mengubah bentuk kimia zat tertentu sehingga kelarutannya juga berubah.
+Latihan: jelaskan mengapa minuman berkarbonasi lebih mudah kehilangan gas ketika dibiarkan terbuka dan menjadi hangat.
+
+BAB 35 — SIFAT KOLIGATIF LARUTAN
+Sifat koligatif berkaitan terutama dengan jumlah partikel zat terlarut, bukan identitas kimianya saja. Contohnya meliputi penurunan tekanan uap, kenaikan titik didih, penurunan titik beku, dan tekanan osmotik. Model sederhana paling sesuai untuk larutan encer dengan perilaku mendekati ideal.
+Ketika zat terlarut nonvolatil ditambahkan, fraksi molekul pelarut pada permukaan berkurang sehingga tekanan uap pelarut cenderung turun. Akibatnya, titik didih larutan dapat lebih tinggi dan titik bekunya dapat lebih rendah dibanding pelarut murni pada tekanan yang sama.
+Tekanan osmotik berkaitan dengan kecenderungan pelarut bergerak melewati membran semipermeabel dari larutan lebih encer menuju larutan lebih pekat. Osmosis berperan dalam sistem biologis, pengawetan pangan, dan teknologi pemurnian air.
+Elektrolit dapat terurai menjadi ion sehingga jumlah partikel efektif berbeda dari jumlah satuan rumus yang dilarutkan. Pada larutan nyata, interaksi ion menyebabkan penyimpangan dari model ideal. Karena itu, perhitungan tingkat lanjut menggunakan faktor koreksi dan kondisi yang dinyatakan jelas.
+Pertanyaan: mengapa dua larutan dengan jumlah partikel terlarut efektif sama dapat menunjukkan perubahan titik beku yang mirip meskipun jenis zat terlarutnya berbeda?
+
+BAB 36 — TERMODINAMIKA: ENTROPI DAN SPONTANITAS
+Termodinamika mempelajari perubahan energi dan arah proses. Hukum pertama menyatakan energi total kekal: energi dapat berpindah atau berubah bentuk, tetapi tidak diciptakan dari ketiadaan dalam sistem tertutup. Dalam kimia, perubahan energi sistem perlu dibedakan dari energi yang berpindah ke lingkungan.
+Entropi merupakan besaran yang berkaitan dengan banyaknya cara mikroskopis suatu keadaan dapat diwujudkan. Untuk proses spontan, entropi total sistem dan lingkungan meningkat. Spontan tidak berarti cepat; suatu proses dapat menguntungkan secara termodinamika tetapi berjalan sangat lambat karena penghalang kinetika.
+Energi bebas Gibbs pada suhu dan tekanan tetap membantu menilai spontanitas. Perubahan Gibbs negatif menunjukkan proses maju menguntungkan secara termodinamika pada kondisi tersebut; nilai nol berkaitan dengan kesetimbangan. Tanda perubahan Gibbs tidak menyatakan laju reaksi.
+Suhu, tekanan, komposisi, dan keadaan zat dapat mengubah penilaian termodinamika. Perhitungan harus menggunakan data pada kondisi yang sesuai. Dalam sistem nyata, perubahan kecil kondisi dapat mengubah hasil, terutama ketika sistem dekat dengan kesetimbangan.
+Latihan: berikan contoh proses yang spontan tetapi lambat, lalu jelaskan perbedaan peran termodinamika dan kinetika.
+
+BAB 37 — DIAGRAM FASE DAN PERUBAHAN KEADAAN
+Diagram fase menunjukkan keadaan stabil suatu zat pada kombinasi suhu dan tekanan. Wilayah diagram dapat menunjukkan fase padat, cair, dan gas. Garis batas menggambarkan kondisi ketika dua fase berada dalam kesetimbangan.
+Titik tripel adalah kondisi ketika tiga fase berada bersama dalam kesetimbangan. Titik kritis menandai batas berakhirnya perbedaan antara cairan dan gas; di atas kondisi kritis, zat dapat berada sebagai fluida superkritis. Konsep ini membantu menjelaskan perilaku zat yang tidak cukup dipahami hanya dengan titik didih pada tekanan biasa.
+Air memiliki perilaku khusus pada diagram fase padat-cair karena es biasa kurang rapat daripada air cair. Kemiringan garis kesetimbangan padat-cair untuk air berbeda dari banyak zat lain. Perilaku tersebut berkaitan dengan struktur ikatan hidrogen pada es.
+Diagram fase digunakan dalam ilmu material, geologi, pengolahan pangan, dan rekayasa. Pembacaan diagram memerlukan perhatian pada satuan tekanan, suhu, kemurnian sampel, serta apakah diagram berlaku untuk zat murni atau campuran.
+Pertanyaan: apa informasi yang dapat diperoleh dari posisi titik pada diagram fase, dan mengapa diagram tersebut harus dibaca bersama kondisi tekanan?
+
+BAB 38 — KIMIA PERMUKAAN DAN ADSORPSI
+Permukaan bahan memiliki lingkungan atom dan molekul yang berbeda dari bagian dalam. Karena itu, proses pada permukaan dapat memengaruhi pembasahan, adhesi, katalisis, korosi, dan interaksi dengan lingkungan. Luas permukaan spesifik yang besar dapat meningkatkan jumlah tempat interaksi.
+Adsorpsi adalah penumpukan molekul atau ion pada permukaan, sedangkan absorpsi berarti masuknya zat ke bagian dalam bahan. Keduanya tidak sama dengan adsorpsi dan absorpsi yang kadang tercampur dalam penggunaan sehari-hari. Karbon aktif memiliki banyak pori dan digunakan sebagai adsorben dalam sejumlah proses pengolahan.
+Adsorpsi fisika umumnya melibatkan interaksi relatif lemah dan dapat bersifat reversibel. Adsorpsi kimia melibatkan pembentukan interaksi kimia yang lebih kuat. Jenis proses bergantung pada pasangan adsorben-adsorbat serta kondisi seperti suhu dan konsentrasi.
+Dalam pengolahan air atau udara, kinerja adsorben dipengaruhi ukuran pori, luas permukaan, waktu kontak, dan keberadaan zat lain yang bersaing. Bahan adsorben yang telah digunakan perlu dikelola dengan benar karena dapat mengandung kontaminan yang terkumpul.
+Latihan: bedakan adsorpsi dan absorpsi dengan contoh konseptual, lalu jelaskan mengapa porositas dapat meningkatkan kemampuan adsorben.
+
+BAB 39 — KOROSI DAN PERLINDUNGAN MATERIAL
+Korosi adalah penurunan mutu material akibat interaksi dengan lingkungan. Pada logam, korosi sering melibatkan proses elektrokimia: sebagian permukaan mengalami oksidasi dan bagian lain menjadi tempat reaksi reduksi. Air, oksigen, garam, pH, dan kontak antara logam berbeda dapat memengaruhi laju korosi.
+Karat pada besi merupakan campuran produk korosi yang komposisinya dapat berubah menurut kondisi. Korosi bukan sekadar perubahan warna; proses ini dapat mengurangi luas penampang dan kekuatan komponen. Penilaian kerusakan memerlukan pemeriksaan yang sesuai dengan fungsi benda.
+Perlindungan dapat dilakukan melalui pelapisan, pemilihan paduan, desain yang mengurangi perangkap air, pengendalian lingkungan, atau proteksi elektrokimia oleh tenaga kompeten. Cat dan lapisan pelindung berfungsi memisahkan permukaan dari lingkungan. Jika lapisan tergores, perlindungan setempat dapat berkurang.
+Pemilihan cara perlindungan harus mempertimbangkan biaya, umur layanan, kemudahan perawatan, dan dampak bahan pelapis. Pemeriksaan berkala membantu menemukan kerusakan sebelum berkembang menjadi kegagalan besar.
+Pertanyaan: mengapa dua logam yang bersentuhan dalam lingkungan lembap dapat mengalami korosi dengan perilaku berbeda dibanding ketika terpisah?
+
+BAB 40 — PADUAN DAN HUBUNGAN STRUKTUR DENGAN SIFAT
+Paduan adalah bahan yang mengandung logam dengan satu atau lebih unsur lain untuk memperoleh kombinasi sifat tertentu. Baja merupakan paduan berbasis besi dengan karbon dan kemungkinan unsur tambahan. Kuningan berbasis tembaga dan seng, sedangkan perunggu secara umum berbasis tembaga dan timah, meskipun komposisi komersial dapat bervariasi.
+Atom unsur tambahan dapat mengubah susunan kisi, pergerakan dislokasi, ukuran butir, dan pembentukan fase. Perubahan mikrostruktur memengaruhi kekuatan, kekerasan, keuletan, ketahanan korosi, dan kemampuan diproses.
+Tidak ada paduan yang unggul dalam semua sifat. Bahan untuk rangka bangunan, alat kesehatan, kendaraan, dan perangkat elektronik memiliki persyaratan berbeda. Insinyur memilih komposisi dan perlakuan berdasarkan beban, suhu, lingkungan, umur pakai, serta standar.
+Pengujian material dapat mencakup uji tarik, kekerasan, ketangguhan, dan korosi. Hasil uji harus dilaporkan dengan metode dan kondisi pengujian karena nilai dari metode berbeda belum tentu dapat dibandingkan langsung.
+Latihan: mengapa pemilihan bahan untuk lingkungan laut perlu mempertimbangkan korosi selain kekuatan mekanis?
+
+BAB 41 — KIMIA DAN CAHAYA: SPEKTROSKOPI
+Atom dan molekul dapat menyerap atau memancarkan energi dalam bentuk radiasi elektromagnetik. Energi foton berhubungan dengan frekuensi melalui E = hν. Perbedaan tingkat energi menghasilkan pola interaksi yang dapat digunakan untuk mengenali zat.
+Spektroskopi adalah keluarga metode yang mempelajari interaksi radiasi dengan materi. Spektroskopi serapan mengukur bagian radiasi yang diserap sampel, sedangkan spektroskopi emisi mengamati radiasi yang dipancarkan. Spektrum dapat memberikan informasi tentang unsur, struktur molekul, atau lingkungan kimia.
+Setiap metode memiliki batas. Campuran kompleks dapat menghasilkan pita yang saling tumpang tindih. Konsentrasi, pelarut, suhu, panjang lintasan optik, dan kalibrasi memengaruhi hasil. Interpretasi yang baik memerlukan pembanding, kontrol mutu, serta pemahaman teori.
+Spektroskopi digunakan dalam analisis lingkungan, ilmu pangan, astronomi, forensik, dan pengembangan material. Penggunaan data spektrum harus menyertakan metode, rentang pengukuran, dan ketidakpastian.
+Pertanyaan: mengapa satu puncak spektrum tidak selalu cukup untuk memastikan identitas suatu senyawa dalam sampel campuran?
+
+BAB 42 — KIMIA NUKLIR DAN ISOTOP
+Inti atom terdiri atas proton dan neutron. Beberapa inti tidak stabil dan dapat berubah melalui peluruhan radioaktif, disertai emisi partikel atau radiasi. Isotop suatu unsur memiliki jumlah proton sama, tetapi jumlah neutron berbeda; sifat inti dapat berbeda meskipun sifat kimia umumnya mirip.
+Waktu paruh adalah waktu yang diperlukan jumlah inti radioaktif dalam sampel untuk menjadi setengah dari jumlah awal menurut model peluruhan eksponensial. Waktu paruh merupakan sifat isotop tertentu dan tidak bergantung pada jumlah awal dalam model sederhana.
+Radioisotop digunakan dalam bidang medis, penelitian, industri, dan penentuan umur bahan tertentu. Penggunaan radiasi memerlukan pengendalian ketat, pemantauan dosis, perlindungan, dan pengelolaan limbah sesuai peraturan. Paparan dan risiko bergantung pada jenis radiasi, energi, aktivitas, jalur paparan, dan durasi.
+Pembahasan dalam buku ini hanya menjelaskan prinsip ilmiah. Penanganan sumber radioaktif bukan kegiatan untuk dicoba sendiri dan hanya boleh dilakukan oleh institusi serta tenaga yang memiliki izin dan kompetensi.
+Latihan: jika suatu sampel memiliki waktu paruh 10 hari, jelaskan secara konseptual fraksi yang tersisa setelah 20 hari dalam model ideal.
+
+BAB 43 — KIMIA KOMPUTASI DAN PEMODELAN
+Kimia komputasi menggunakan perhitungan komputer untuk memperkirakan struktur, energi, dan perilaku sistem kimia. Model dapat membantu membandingkan molekul, memahami mekanisme reaksi, atau menyaring kandidat material. Hasil komputasi merupakan prediksi berdasarkan teori, parameter, dan pendekatan tertentu.
+Model sederhana lebih cepat tetapi dapat mengabaikan detail. Model yang lebih rinci membutuhkan sumber daya komputasi lebih besar dan tetap memiliki asumsi. Tidak ada model yang otomatis benar hanya karena menghasilkan angka dengan banyak digit.
+Validasi membandingkan prediksi dengan data eksperimen atau hasil teoretis yang telah teruji. Kalibrasi parameter, pemilihan kondisi awal, dan analisis sensitivitas penting untuk menilai keandalan. Jika data pelatihan tidak mewakili kondisi penggunaan, model dapat menghasilkan prediksi yang buruk.
+Pembelajaran mesin juga digunakan untuk mempelajari pola dari data kimia. Kinerja perlu diuji pada data yang tidak digunakan saat pelatihan. Bias data, kebocoran informasi, dan ketidakpastian prediksi harus dilaporkan.
+Pertanyaan: mengapa prediksi komputer tetap perlu dibandingkan dengan eksperimen dan mengapa data uji harus dipisahkan dari data pelatihan?
+
+BAB 44 — KIMIA HIJAU DAN SIKLUS HIDUP PRODUK
+Kimia hijau berupaya merancang bahan dan proses yang mengurangi atau menghindari penggunaan serta pembentukan zat berbahaya. Prinsipnya mencakup pencegahan limbah, efisiensi atom, pelarut lebih aman, penggunaan energi yang efisien, bahan baku terbarukan bila tepat, dan desain produk yang mempertimbangkan akhir masa pakai.
+Penilaian siklus hidup melihat dampak dari pengambilan bahan baku, produksi, distribusi, penggunaan, hingga pengelolaan akhir. Batas sistem harus dinyatakan. Perbandingan yang hanya menghitung tahap penggunaan dapat mengabaikan dampak besar pada produksi atau pembuangan.
+Istilah “biodegradabel”, “alami”, dan “dapat didaur ulang” perlu dibaca dengan konteks. Bahan yang dapat terurai mungkin memerlukan kondisi khusus. Bahan yang secara teknis dapat didaur ulang belum tentu benar-benar dikumpulkan dan diproses di suatu wilayah.
+Pilihan yang lebih baik biasanya memerlukan data kuantitatif dan skenario yang adil. Pengurangan penggunaan bahan, pemakaian ulang, perbaikan, serta desain tahan lama dapat menjadi bagian strategi, tetapi hasilnya bergantung pada pola penggunaan dan sistem setempat.
+Latihan: buat daftar batas sistem yang harus disepakati sebelum membandingkan dua jenis kemasan berdasarkan dampak lingkungan.
+
+BAB 45 — MUTU DATA, REPRODUKSIBILITAS, DAN ETIKA
+Data ilmiah harus dapat ditelusuri dari metode hingga kesimpulan. Catatan yang baik mencantumkan tanggal, kondisi, alat, satuan, prosedur, perubahan metode, dan identitas sampel tanpa membuka informasi pribadi yang tidak diperlukan. Data mentah perlu disimpan agar analisis dapat diperiksa.
+Reproduksibilitas berarti hasil dapat diperoleh kembali ketika analisis yang sama diterapkan pada data yang sama. Replikasi eksperimen melibatkan pengumpulan data baru dengan metode yang sebanding. Keduanya membantu menilai ketahanan kesimpulan.
+Memilih hanya hasil yang mendukung dugaan, mengubah data tanpa catatan, atau menghilangkan hasil yang tidak sesuai merupakan praktik yang merusak integritas ilmiah. Hasil negatif atau tidak sesuai harapan tetap dapat memberi informasi jika metode dan keterbatasannya dilaporkan secara jujur.
+Etika penelitian juga mencakup keselamatan, dampak lingkungan, penggunaan sumber daya, atribusi kontribusi, dan perlindungan data. Klaim harus sebanding dengan bukti dan tidak boleh melebih-lebihkan kepastian.
+Pertanyaan: apa perbedaan replikasi eksperimen dan reproduksibilitas analisis, serta mengapa keduanya penting?
+
+BAB 46 — MEMBACA LABEL DAN INFORMASI BAHAN
+Label produk dapat memuat nama bahan, konsentrasi, simbol bahaya, petunjuk penggunaan, penyimpanan, tanggal, dan informasi produsen. Makna label bergantung pada aturan yang berlaku untuk kategori produk tersebut. Simbol bahaya merupakan petunjuk untuk membaca informasi keselamatan lebih lanjut, bukan dekorasi.
+Nama kimia dan nama dagang tidak selalu sama. Satu bahan dapat memiliki beberapa nama, sementara nama dagang dapat merujuk pada campuran dengan komposisi yang berbeda. Karena itu, pembaca tidak boleh menebak kandungan hanya dari warna, aroma, atau nama pemasaran.
+Lembar data keselamatan memberikan informasi lebih rinci tentang bahaya, penanganan, penyimpanan, pertolongan pertama, dan pengelolaan tumpahan. Informasi tersebut harus digunakan sesuai konteks dan arahan pihak yang bertanggung jawab.
+Produk rumah tangga tidak boleh dicampur untuk membuat percobaan. Ikuti petunjuk pada label, simpan dalam kemasan aslinya, dan jauhkan dari jangkauan anak kecil. Jika informasi tidak jelas, jangan gunakan produk sampai memperoleh penjelasan dari sumber resmi.
+Latihan: jelaskan mengapa dua produk dengan nama pemasaran mirip belum tentu memiliki komposisi atau petunjuk keselamatan yang sama.
+
+BAB 47 — MENYUSUN LAPORAN KIMIA YANG BAIK
+Laporan ilmiah menyampaikan pertanyaan, latar belakang, metode, hasil, analisis, kesimpulan, dan sumber. Tujuannya bukan membuat kegiatan tampak berhasil, melainkan menjelaskan apa yang dilakukan dan apa yang dapat disimpulkan dari bukti.
+Bagian metode harus cukup jelas agar pembaca memahami kondisi dan menilai keterulangan. Hasil menyajikan data tanpa mengubahnya agar sesuai dugaan. Tabel dan grafik perlu memiliki judul, label sumbu, satuan, serta keterangan yang diperlukan.
+Pembahasan menghubungkan hasil dengan konsep, membandingkan dengan prediksi, dan menjelaskan kemungkinan sumber ketidakpastian. Kesimpulan menjawab pertanyaan penelitian secara proporsional. Jika data belum cukup, nyatakan keterbatasan alih-alih membuat klaim pasti.
+Sumber informasi harus dicatat secara konsisten. Kutipan langsung, parafrasa, dan gagasan orang lain perlu diberi atribusi. Menggunakan referensi bukan kelemahan; justru memungkinkan pembaca memeriksa dasar pengetahuan.
+Kerangka sederhana laporan: judul; tujuan; teori singkat; metode yang disetujui guru; data; analisis; kesimpulan; keterbatasan; daftar pustaka. Kegiatan praktikum tetap harus mengikuti instruksi keselamatan dan pengawasan.
+Tugas: pilih satu fenomena kimia dari sumber tepercaya, lalu susun pertanyaan yang dapat dijawab dengan data tanpa melakukan percobaan berisiko.
+
+BAB 48 — KETERKAITAN KONSEP DAN PETA PEMBELAJARAN
+Konsep kimia saling terhubung. Struktur atom membantu menjelaskan tabel periodik. Elektron valensi membantu menjelaskan ikatan. Ikatan dan bentuk molekul membantu menjelaskan sifat fisika serta reaktivitas. Stoikiometri menghubungkan persamaan reaksi dengan jumlah zat, sedangkan termodinamika dan kinetika menjelaskan aspek energi serta laju.
+Kesetimbangan menjelaskan komposisi sistem yang dapat bereaksi maju dan balik. Elektrokimia menghubungkan redoks dengan listrik. Kimia organik dan biomolekul memperlihatkan peran struktur karbon dalam kehidupan. Kimia analitik menyediakan cara memperoleh bukti tentang komposisi, sementara kimia lingkungan mengkaji perpindahan dan dampak zat.
+Saat menghadapi persoalan baru, mulailah dengan mendefinisikan sistem, mengidentifikasi zat dan kondisi, memilih model, memeriksa satuan, lalu menilai apakah asumsi model sesuai. Jangan langsung memasukkan angka ke rumus sebelum memahami makna besaran.
+Peta konsep dapat dibuat dengan menulis satu gagasan pada setiap simpul dan menghubungkannya menggunakan kata kerja seperti “menjelaskan”, “memengaruhi”, atau “diukur dengan”. Hubungan yang jelas lebih berguna daripada daftar istilah tanpa penjelasan.
+Tugas akhir: buat peta konsep yang menghubungkan minimal sepuluh topik dalam buku ini. Sertakan satu contoh penerapan dan satu keterbatasan model.
+
+BANK SOAL PENGUATAN — BAGIAN III
+1. Mengapa distilasi dapat memisahkan sebagian campuran cair? Pembahasan: komponen memiliki kecenderungan menguap yang berbeda sehingga komposisi uap dan cairan berbeda; pemisahan bergantung pada sifat campuran dan rancangan proses.
+2. Apa yang dimaksud larutan jenuh? Pembahasan: larutan yang berada dalam kesetimbangan dengan zat terlarut yang belum larut pada kondisi tertentu.
+3. Mengapa tekanan osmotik penting dalam sistem biologis? Pembahasan: perpindahan pelarut melalui membran dapat memengaruhi volume dan keseimbangan sel.
+4. Apakah proses spontan selalu cepat? Pembahasan: tidak; spontanitas termodinamika berbeda dari laju kinetika.
+5. Apa fungsi diagram fase? Pembahasan: menunjukkan fase yang stabil pada kombinasi suhu dan tekanan.
+6. Mengapa adsorpsi berbeda dari absorpsi? Pembahasan: adsorpsi berlangsung pada permukaan, absorpsi melibatkan masuknya zat ke bagian dalam bahan.
+7. Sebutkan dua faktor lingkungan yang dapat mempercepat korosi. Pembahasan: kelembapan dan elektrolit terlarut dapat memengaruhi proses elektrokimia; faktor lain termasuk oksigen, pH, dan kontak logam berbeda.
+8. Mengapa paduan dikembangkan? Pembahasan: untuk memperoleh kombinasi sifat sesuai kebutuhan, bukan karena satu bahan harus unggul dalam segala hal.
+9. Apa informasi yang dapat diberikan spektrum? Pembahasan: pola interaksi radiasi dengan materi yang dapat membantu identifikasi atau penentuan struktur, bergantung metode.
+10. Apa arti waktu paruh? Pembahasan: waktu yang diperlukan jumlah inti radioaktif menjadi setengah menurut model peluruhan.
+11. Mengapa model komputasi harus divalidasi? Pembahasan: prediksi bergantung pada asumsi dan parameter sehingga perlu dibandingkan dengan bukti independen.
+12. Apa yang diperiksa dalam penilaian siklus hidup? Pembahasan: dampak dari bahan baku hingga akhir masa pakai dalam batas sistem yang dinyatakan.
+13. Mengapa hasil negatif tetap perlu dilaporkan? Pembahasan: hasil tersebut bagian dari bukti dan mencegah pelaporan selektif.
+14. Mengapa label harus dibaca utuh? Pembahasan: nama dagang atau simbol saja tidak menjelaskan seluruh komposisi dan tindakan keselamatan.
+15. Apa fungsi bagian keterbatasan dalam laporan? Pembahasan: menjelaskan batas data dan mencegah kesimpulan melampaui bukti.
+
+RANGKUMAN BAGIAN III
+Campuran dapat dipisahkan berdasarkan perbedaan sifat fisika. Kelarutan dan sifat koligatif menjelaskan perilaku larutan. Termodinamika membahas energi dan spontanitas, sedangkan kinetika membahas laju. Diagram fase menghubungkan keadaan zat dengan suhu dan tekanan. Kimia permukaan, korosi, dan paduan menunjukkan hubungan struktur bahan dengan kinerja.
+Spektroskopi dan kimia nuklir memperluas cara manusia mempelajari materi. Kimia komputasi membantu membangun prediksi yang tetap harus divalidasi. Kimia hijau dan penilaian siklus hidup membantu menilai dampak proses. Integritas data, pembacaan label, dan penulisan laporan merupakan bagian penting dari praktik ilmiah yang bertanggung jawab.
+
+CATATAN PENUTUP PENULIS
+Buku ini merupakan pengantar belajar mandiri. Kedalaman setiap topik dapat diperluas melalui buku ajar, sumber universitas, standar, dan publikasi ilmiah yang dapat diperiksa. Untuk penggunaan akademik, pembaca perlu memeriksa kembali persamaan, data numerik, dan ketentuan keselamatan pada sumber tepercaya yang mutakhir. Tidak ada bagian buku ini yang menggantikan instruksi guru, prosedur laboratorium, atau lembar data keselamatan.
+Akhir buku.

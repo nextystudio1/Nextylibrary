@@ -764,4 +764,496 @@ CATATAN EDITORIAL
 
 Buku ini merupakan pengantar konseptual dan matematis. Beberapa persamaan menggunakan model ideal seperti percepatan konstan, fluida tak kental, pegas ideal, dan rangkaian ohmik. Keadaan nyata dapat memerlukan model lebih lengkap. Pembaca perlu membedakan pendekatan dari pengukuran aktual, memeriksa satuan, dan tidak menerapkan contoh hitungan sebagai rancangan alat tanpa kajian keselamatan serta standar teknis.
 
-Akhir buku.
+
+BAGIAN IX — PENDALAMAN MEKANIKA DAN PEMODELAN
+
+BAB 51 — MEMILIH SISTEM DAN BATAS ANALISIS
+
+Sebelum menggunakan hukum fisika, tentukan sistem yang sedang dikaji. Sistem dapat berupa satu benda, beberapa benda, atau wilayah ruang yang berisi fluida dan energi. Segala sesuatu di luar sistem disebut lingkungan. Pemilihan batas sistem menentukan gaya, energi, dan perpindahan momentum mana yang dihitung sebagai pengaruh eksternal.
+
+Misalnya, ketika dua benda bertumbukan, keduanya dapat dipilih sebagai satu sistem. Gaya kontak di antara kedua benda menjadi gaya internal sehingga tidak mengubah momentum total sistem. Namun, gaya gesek dari lantai merupakan gaya eksternal. Jika pengaruhnya kecil selama tumbukan singkat, momentum total dapat didekati tetap. Jika tidak, pengaruh tersebut harus dimasukkan.
+
+Dalam kajian energi, batas sistem juga penting. Jika benda dan Bumi dipilih sebagai sistem, energi potensial gravitasi termasuk energi internal sistem. Jika hanya benda yang dipilih, gaya gravitasi berasal dari lingkungan dan dapat melakukan usaha pada benda. Kedua pendekatan dapat menghasilkan jawaban sama bila digunakan secara konsisten.
+
+Kesalahan pemula sering terjadi karena batas sistem berubah di tengah perhitungan. Contohnya, energi potensial dihitung seolah-olah Bumi termasuk sistem, tetapi gaya gravitasi kemudian diperlakukan sebagai gaya internal tanpa penjelasan. Tuliskan sistem, lingkungan, dan interaksi sejak awal.
+
+Langkah kerja yang disarankan:
+1. Tentukan pertanyaan yang ingin dijawab.
+2. Pilih objek atau kumpulan objek yang relevan.
+3. Gambarkan batas sistem.
+4. Daftarkan gaya dan aliran energi yang melintasi batas.
+5. Tentukan apakah pengaruh luar dapat diabaikan.
+6. Pilih hukum yang sesuai dengan batas tersebut.
+
+BAB 52 — KOMPONEN VEKTOR PADA BIDANG MIRING
+
+Bidang miring membantu mempelajari gaya pada arah yang tidak sejajar dengan sumbu horizontal. Sistem koordinat sering dipilih sejajar dan tegak lurus permukaan. Pilihan ini membuat gaya normal berada pada satu sumbu dan gerak sepanjang bidang berada pada sumbu lainnya.
+
+Berat benda selalu mengarah vertikal ke bawah. Pada bidang miring dengan sudut θ terhadap horizontal, berat dapat diuraikan menjadi komponen sejajar bidang sebesar mg sin θ dan komponen tegak lurus bidang sebesar mg cos θ. Komponen tersebut bukan gaya tambahan; keduanya hanya cara menyatakan satu vektor berat dalam koordinat yang dipilih.
+
+Jika benda tidak mengalami percepatan tegak lurus bidang dan tidak ada gaya lain pada arah itu, gaya normal dapat sama dengan mg cos θ. Pernyataan ini tidak berlaku otomatis jika ada gaya lain, bidang bergerak, atau percepatan tegak lurus permukaan.
+
+Sepanjang bidang, resultan gaya menentukan percepatan. Gesekan, jika ada, arahnya menentang kecenderungan gerak relatif atau gerak yang sedang terjadi. Arah gesekan perlu ditentukan dari kondisi, bukan selalu diasumsikan mengarah ke atas atau ke bawah bidang.
+
+Contoh simbolik: sebuah benda meluncur pada bidang licin dengan sudut θ. Komponen berat sepanjang bidang adalah mg sin θ. Dengan Hukum II Newton, ma = mg sin θ sehingga a = g sin θ. Massa saling menghilangkan. Hasil ini hanya berlaku untuk bidang lurus, licin, dan sudut tetap.
+
+BAB 53 — GERAK DENGAN PERCEPATAN BERUBAH
+
+Persamaan GLBB berlaku ketika percepatan konstan. Dalam banyak situasi nyata, gaya berubah terhadap posisi, waktu, atau kecepatan sehingga percepatan juga berubah. Gerak seperti ini memerlukan pendekatan yang lebih umum.
+
+Percepatan sesaat adalah laju perubahan kecepatan pada saat tertentu. Secara matematis, percepatan merupakan turunan kecepatan terhadap waktu. Kecepatan sesaat merupakan turunan posisi terhadap waktu. Gagasan turunan menjelaskan mengapa kemiringan grafik posisi-waktu memberi kecepatan dan kemiringan grafik kecepatan-waktu memberi percepatan.
+
+Jika data pengamatan tersedia dalam interval waktu kecil, perubahan kecepatan tiap interval dapat digunakan untuk memperkirakan percepatan rata-rata. Semakin kecil interval, semakin dekat perkiraan itu terhadap nilai sesaat, selama data cukup teliti dan tidak didominasi derau pengukuran.
+
+Integrasi merupakan kebalikan gagasan diferensiasi. Luas bertanda di bawah grafik kecepatan-waktu memberi perpindahan, sedangkan luas di bawah grafik percepatan-waktu memberi perubahan kecepatan. Pada grafik yang tidak sederhana, luas dapat diperkirakan dengan membagi daerah menjadi bentuk-bentuk sederhana atau menggunakan perangkat analisis data.
+
+BAB 54 — GERAK HARMONIK DAN ENERGI PEGAS
+
+Pegas ideal mengikuti Hukum Hooke dalam rentang elastis: gaya pemulih sebanding dengan simpangan dan berlawanan arah. Ketika benda yang terhubung ke pegas digeser lalu dilepas, sistem dapat berosilasi di sekitar posisi keseimbangan.
+
+Untuk sistem massa-pegas ideal tanpa redaman, periode bergantung pada massa dan konstanta pegas. Massa lebih besar membuat osilasi lebih lambat, sedangkan pegas lebih kaku membuat osilasi lebih cepat. Dalam model ideal, amplitudo tidak mengubah periode, tetapi sifat ini dapat berubah pada sistem nyata atau gerak yang tidak lagi kecil.
+
+Energi total osilator ideal bergantian antara energi potensial pegas dan energi kinetik. Pada simpangan maksimum, kecepatan sesaat nol dan energi tersimpan sebagai energi potensial. Saat melewati keseimbangan, kelajuan maksimum dan energi terutama berupa energi kinetik.
+
+Dalam sistem nyata, gesekan internal dan hambatan udara menyebabkan amplitudo berkurang. Energi mekanik berpindah ke lingkungan sebagai energi termal dan bunyi. Jika gaya luar periodik bekerja, sistem dapat menunjukkan resonansi ketika frekuensi pemaksa mendekati frekuensi alami. Rekayasa struktur memperhatikan resonansi agar getaran tidak melampaui batas aman.
+
+BAB 55 — REDAMAN, RESONANSI, DAN GETARAN STRUKTUR
+
+Redaman adalah proses berkurangnya energi getaran akibat interaksi dengan lingkungan atau gesekan internal. Redaman ringan membuat amplitudo turun perlahan, sedangkan redaman kuat dapat membuat sistem kembali ke keseimbangan tanpa banyak berosilasi. Karakter redaman bergantung pada massa, kekakuan, dan mekanisme kehilangan energi.
+
+Resonansi terjadi ketika sistem menerima pengaruh periodik dekat frekuensi alaminya. Respons dapat meningkat karena energi ditambahkan secara teratur pada fase yang sesuai. Resonansi bukan selalu berbahaya; alat musik memanfaatkannya untuk memperkuat bunyi. Namun, struktur teknik perlu dirancang dengan mempertimbangkan frekuensi getaran lingkungan.
+
+Frekuensi alami dipengaruhi bentuk, massa, kekakuan, dan kondisi tumpuan. Perubahan kecil pada struktur dapat mengubah karakter getaran. Karena itu, analisis getaran pada jembatan, gedung, mesin, dan kendaraan memerlukan pengukuran serta perhitungan profesional.
+
+BAB 56 — KESETIMBANGAN STATIS DAN PUSAT GRAVITASI
+
+Benda tegar berada dalam keseimbangan statis jika resultan gaya dan resultan torsi sama dengan nol. Kedua syarat harus dipenuhi. Resultan gaya nol saja belum menjamin benda tidak berotasi; resultan torsi juga harus nol.
+
+Pusat gravitasi adalah titik kerja resultan gaya berat dalam medan gravitasi yang dapat dianggap seragam. Untuk benda kecil di dekat permukaan Bumi, pusat gravitasi sering berimpit dengan pusat massa. Pada medan gravitasi yang berubah secara berarti, keduanya dapat berbeda.
+
+Stabilitas dipengaruhi posisi pusat massa terhadap bidang tumpu. Jika proyeksi pusat massa berada di dalam bidang tumpu, benda dapat berada dalam keseimbangan. Jika proyeksi keluar, benda cenderung terguling kecuali ada dukungan atau gaya lain. Lebar alas, distribusi massa, dan bentuk objek memengaruhi kestabilan.
+
+BAB 57 — ELASTISITAS DAN SIFAT MEKANIK BAHAN
+
+Bahan dapat berubah bentuk ketika diberi gaya. Deformasi elastis bersifat pulih ketika gaya dilepas selama bahan tetap dalam batas elastis. Deformasi plastis meninggalkan perubahan bentuk permanen. Hubungan tegangan dan regangan pada rentang elastis sering mendekati linear.
+
+Tegangan mekanik didefinisikan sebagai gaya per luas penampang, sedangkan regangan adalah perubahan panjang relatif terhadap panjang awal. Modulus Young menyatakan perbandingan tegangan terhadap regangan dalam rentang linear. Nilainya menggambarkan kekakuan bahan, bukan langsung kekuatan patahnya.
+
+Bahan yang kaku belum tentu paling kuat atau paling tangguh. Kekuatan berkaitan dengan tegangan maksimum yang dapat ditahan, sedangkan ketangguhan berkaitan dengan energi yang dapat diserap sebelum patah. Pemilihan bahan untuk bangunan, kendaraan, atau alat memerlukan lebih dari satu parameter.
+
+BAB 58 — VISKOSITAS DAN ALIRAN DALAM KEHIDUPAN
+
+Viskositas menggambarkan hambatan internal fluida terhadap aliran. Madu mengalir lebih lambat daripada air pada kondisi suhu yang sama karena viskositasnya lebih tinggi. Viskositas cairan dapat berubah dengan suhu; banyak cairan menjadi lebih mudah mengalir ketika dipanaskan.
+
+Aliran laminar terjadi ketika lapisan fluida bergerak teratur. Aliran turbulen memiliki pusaran dan fluktuasi yang lebih kompleks. Bilangan Reynolds merupakan besaran tak berdimensi yang membantu memperkirakan kecenderungan rezim aliran dengan mempertimbangkan kerapatan, kecepatan, ukuran karakteristik, dan viskositas.
+
+Dalam pipa, energi mekanik berkurang akibat gesekan fluida dengan dinding dan gesekan internal. Karena itu, tekanan dapat turun sepanjang aliran. Pompa menyediakan energi untuk mengatasi kehilangan tersebut. Perhitungan sistem pipa nyata harus memperhatikan diameter, panjang, sambungan, kekasaran, dan karakter fluida.
+
+BAGIAN X — PENDALAMAN KALOR, GELOMBANG, DAN OPTIKA
+
+BAB 59 — GAS IDEAL DAN TEORI KINETIK
+
+Gas ideal merupakan model partikel yang bergerak acak, memiliki volume partikel yang diabaikan dibanding ruang gas, dan tidak berinteraksi kecuali saat tumbukan elastis. Model ini mendekati perilaku banyak gas pada tekanan rendah dan suhu yang tidak terlalu dekat dengan kondisi pencairan.
+
+Persamaan keadaan gas ideal adalah PV = nRT. Tekanan P, volume V, jumlah mol n, konstanta gas R, dan suhu mutlak T saling berhubungan. Suhu harus dinyatakan dalam kelvin. Jika jumlah gas tetap, perubahan tekanan, volume, dan suhu dapat dianalisis menggunakan persamaan tersebut.
+
+Teori kinetik menghubungkan suhu dengan energi kinetik rata-rata gerak translasi partikel. Semakin tinggi suhu mutlak, semakin besar energi kinetik rata-rata partikel gas ideal. Ini merupakan penjelasan mikroskopis dari konsep suhu.
+
+Gas nyata dapat menyimpang dari model ideal, terutama pada tekanan tinggi atau suhu rendah ketika ukuran partikel dan gaya antarmolekul menjadi penting. Persamaan gas ideal tidak boleh digunakan tanpa memeriksa kondisi.
+
+BAB 60 — KALORIMETRI DAN KESETIMBANGAN TERMAL
+
+Kalorimetri adalah metode mengukur perpindahan kalor melalui perubahan suhu atau perubahan keadaan suatu sistem. Dalam model wadah terisolasi, jumlah kalor yang dilepas sama dengan jumlah kalor yang diterima. Dalam praktik, wadah dan lingkungan dapat ikut bertukar energi sehingga perlu diperhitungkan.
+
+Saat mencampur dua sampel dengan suhu berbeda, suhu akhir berada di antara suhu awal jika tidak ada perubahan fase dan tidak ada sumber energi lain. Suhu akhir bergantung pada massa dan kalor jenis masing-masing bahan. Bahan dengan kapasitas kalor lebih besar membutuhkan energi lebih banyak untuk perubahan suhu yang sama.
+
+Kalorimeter memiliki kapasitas kalor sendiri. Jika kapasitas wadah diabaikan padahal cukup besar, hasil perhitungan dapat menyimpang. Pengukuran yang baik mencatat massa, suhu awal, suhu akhir, jenis bahan, dan ketidakpastian alat.
+
+BAB 61 — PERPINDAHAN KALOR DAN ISOLASI TERMAL
+
+Perancangan bangunan memperhatikan aliran kalor melalui dinding, atap, lantai, jendela, dan ventilasi. Isolasi termal memperlambat perpindahan kalor, sementara ventilasi membantu pertukaran udara dan pengelolaan kelembapan. Keduanya memiliki fungsi berbeda dan perlu dirancang bersama.
+
+Konduktivitas termal menunjukkan kemampuan bahan menghantarkan kalor. Bahan dengan konduktivitas rendah dapat digunakan sebagai isolator. Namun, kinerja bangunan tidak ditentukan oleh satu bahan saja; sambungan, celah udara, kelembapan, jembatan termal, dan orientasi bangunan turut berpengaruh.
+
+Radiasi Matahari dapat memanaskan permukaan dan ruang dalam. Warna, reflektivitas, peneduh, dan jenis kaca memengaruhi energi yang masuk. Penghematan energi sebaiknya dinilai dengan mempertimbangkan kenyamanan, kualitas udara, kebutuhan pendinginan, dan kondisi iklim setempat.
+
+BAB 62 — ENTROPI DAN ARAH PROSES ALAMI
+
+Entropi merupakan besaran termodinamika yang membantu menjelaskan arah proses alami. Dalam proses spontan pada sistem terisolasi, entropi total tidak berkurang. Pernyataan ini tidak berarti setiap bagian sistem selalu mengalami kenaikan entropi; bagian tertentu dapat menjadi lebih teratur jika lingkungan mengalami perubahan yang lebih besar.
+
+Ketika es mencair dalam ruangan hangat, es menyerap kalor dan berubah menjadi air. Energi berpindah dari lingkungan ke es. Jika sistem mencakup es dan lingkungan, perubahan total entropi mengikuti hukum kedua termodinamika.
+
+Entropi sering dijelaskan secara mikroskopis melalui banyaknya susunan keadaan yang mungkin. Penjelasan populer tentang “ketidakteraturan” dapat membantu sebagai pengantar, tetapi tidak mencakup seluruh makna matematis entropi.
+
+BAB 63 — POLARISASI DAN SPEKTRUM ELEKTROMAGNETIK
+
+Gelombang elektromagnetik terdiri atas medan listrik dan medan magnet yang berubah dan saling terkait. Spektrumnya mencakup gelombang radio, gelombang mikro, inframerah, cahaya tampak, ultraviolet, sinar-X, dan sinar gamma. Semua merupakan jenis radiasi elektromagnetik dengan rentang frekuensi dan panjang gelombang berbeda.
+
+Cahaya tampak hanya bagian kecil dari spektrum. Mata manusia peka terhadap rentang panjang gelombang tertentu. Instrumen khusus diperlukan untuk mendeteksi sebagian besar spektrum di luar jangkauan penglihatan.
+
+Polarisasi menggambarkan orientasi arah getar medan listrik pada gelombang elektromagnetik. Filter polarisasi dapat mengurangi silau dari permukaan tertentu dan digunakan dalam layar serta instrumen optik. Polarisasi juga membantu ilmuwan mempelajari sifat bahan dan sumber cahaya.
+
+BAB 64 — INTERFERENSI DAN DIFRAKSI CAHAYA
+
+Interferensi muncul ketika dua atau lebih gelombang bertumpuk. Jika puncak bertemu puncak, amplitudo dapat saling menguatkan; jika puncak bertemu lembah, amplitudo dapat saling melemahkan. Pola interferensi bergantung pada beda fase dan koherensi sumber.
+
+Difraksi menjadi nyata ketika ukuran celah atau penghalang sebanding dengan panjang gelombang. Cahaya yang melewati celah sempit dapat menyebar dan menghasilkan pola terang-gelap. Fenomena ini membatasi ketajaman alat optik karena bukaan terbatas.
+
+Lapisan tipis pada gelembung sabun atau permukaan tertentu dapat menunjukkan warna akibat interferensi. Warna yang terlihat bergantung ketebalan lapisan, sudut pandang, panjang gelombang, dan indeks bias. Fenomena tersebut menunjukkan bahwa cahaya memiliki sifat gelombang.
+
+BAB 65 — INSTRUMEN OPTIK DAN BATAS RESOLUSI
+
+Mikroskop dan teleskop mengumpulkan serta memfokuskan cahaya untuk membentuk citra. Perbesaran membuat citra tampak lebih besar, tetapi tidak otomatis menambah detail. Kemampuan membedakan dua titik berdekatan disebut resolusi.
+
+Resolusi dipengaruhi panjang gelombang, ukuran bukaan, kualitas lensa, fokus, dan kondisi pengamatan. Difraksi menetapkan batas fundamental bagi sistem optik dengan bukaan tertentu. Karena itu, memperbesar citra secara digital tidak dapat menggantikan informasi detail yang tidak pernah tertangkap sensor.
+
+Mikroskop modern dapat menggunakan cahaya, elektron, atau metode lain. Setiap teknik memiliki keunggulan dan keterbatasan, termasuk persiapan sampel, resolusi, kontras, biaya, serta kondisi pengoperasian.
+
+BAGIAN XI — PENDALAMAN LISTRIK DAN TEKNOLOGI
+
+BAB 66 — ENERGI POTENSIAL LISTRIK DAN KAPASITOR
+
+Muatan dalam medan listrik memiliki energi potensial listrik. Perubahan energi potensial berkaitan dengan kerja gaya listrik dan beda potensial. Tegangan dapat dipahami sebagai perubahan energi potensial per satuan muatan.
+
+Kapasitor menyimpan muatan dan energi dalam medan listrik di antara konduktornya. Kapasitansi didefinisikan sebagai perbandingan besar muatan terhadap beda potensial. Kapasitansi bergantung pada geometri dan bahan dielektrik.
+
+Energi kapasitor ideal dapat dinyatakan dengan beberapa bentuk persamaan yang setara, misalnya setengah kapasitansi dikalikan tegangan kuadrat. Kapasitor digunakan untuk penyaringan sinyal, penyimpanan energi sementara, pengaturan waktu, dan pengelolaan perubahan tegangan pada perangkat elektronik.
+
+BAB 67 — RANGKAIAN RC DAN PERUBAHAN WAKTU
+
+Rangkaian resistor-kapasitor (RC) menunjukkan bahwa tegangan dan arus dapat berubah terhadap waktu ketika kapasitor diisi atau dikosongkan. Perubahan ideal berlangsung secara eksponensial, bukan seketika. Konstanta waktu bergantung pada hasil kali resistansi dan kapasitansi.
+
+Setelah satu konstanta waktu, kapasitor ideal telah mencapai sebagian besar perubahan menuju keadaan akhirnya, tetapi belum tepat mencapai nilai akhir. Setelah beberapa konstanta waktu, perubahannya semakin kecil. Konsep ini digunakan dalam pengaturan sinyal dan penyaringan elektronik.
+
+Rangkaian RC merupakan model penting untuk memahami respons waktu sistem. Analisisnya menghubungkan persamaan listrik dengan persamaan diferensial. Perangkat nyata memiliki toleransi komponen, kebocoran, dan batas tegangan.
+
+BAB 68 — ARUS SEARAH DAN ARUS BOLAK-BALIK
+
+Arus searah memiliki arah aliran konvensional yang tetap, sedangkan arus bolak-balik berubah arah secara periodik. Baterai umumnya menyediakan arus searah. Sistem jaringan listrik banyak menggunakan arus bolak-balik karena transformasi tegangan dapat dilakukan secara efisien dengan transformator.
+
+Tegangan dan arus bolak-balik dapat digambarkan sebagai gelombang terhadap waktu. Frekuensi menyatakan jumlah siklus per sekon. Nilai efektif atau RMS digunakan untuk membandingkan efek pemanasan arus bolak-balik dengan arus searah pada resistor.
+
+Dalam rangkaian yang mengandung kapasitor dan induktor, hubungan fase antara arus dan tegangan dapat berbeda. Analisis arus bolak-balik memerlukan konsep impedansi dan sudut fase. Pekerjaan pada jaringan listrik tegangan tinggi atau instalasi rumah bukan kegiatan percobaan mandiri.
+
+BAB 69 — TRANSFORMATOR DAN TRANSMISI ENERGI
+
+Transformator bekerja berdasarkan induksi elektromagnetik. Arus bolak-balik pada kumparan primer menghasilkan fluks magnet yang berubah dan menginduksi tegangan pada kumparan sekunder. Perbandingan tegangan ideal berkaitan dengan perbandingan jumlah lilitan.
+
+Transmisi daya jarak jauh menghadapi kehilangan energi pada penghantar akibat hambatan. Untuk daya yang sama, menaikkan tegangan memungkinkan arus lebih kecil. Karena kehilangan daya pada hambatan sebanding dengan kuadrat arus, pengiriman pada tegangan tinggi dapat mengurangi rugi-rugi pada kondisi yang sesuai.
+
+Transformator nyata memiliki rugi tembaga, rugi inti, kebocoran fluks, dan pemanasan. Efisiensinya tinggi pada rancangan yang baik, tetapi tidak sempurna. Sistem tenaga listrik memerlukan perlindungan, pengaturan, dan pemeliharaan profesional.
+
+BAB 70 — SEMIKONDUKTOR DAN DIODA
+
+Semikonduktor memiliki sifat listrik di antara konduktor dan isolator. Konduktivitasnya dapat dikendalikan melalui suhu, cahaya, medan listrik, dan penambahan pengotor terkontrol yang disebut doping. Silikon merupakan bahan penting dalam perangkat elektronik.
+
+Doping menghasilkan bahan tipe-n dengan pembawa muatan mayoritas berupa elektron dan tipe-p dengan pembawa mayoritas berupa lubang. Pertemuan kedua bahan membentuk sambungan p-n. Dioda ideal mengalirkan arus terutama pada satu arah dan menghambatnya pada arah sebaliknya, meskipun perangkat nyata memiliki karakteristik lebih rinci.
+
+LED merupakan dioda yang memancarkan cahaya ketika dialiri arus pada kondisi yang sesuai. Warna cahaya berkaitan dengan energi foton dan karakter bahan semikonduktor. Komponen harus digunakan sesuai spesifikasi arus dan tegangan yang ditetapkan produsen.
+
+BAB 71 — TRANSISTOR DAN LOGIKA DIGITAL
+
+Transistor merupakan komponen semikonduktor yang dapat berfungsi sebagai penguat atau sakelar elektronik. Dalam komputer digital, transistor digunakan untuk membangun gerbang logika dan rangkaian pemrosesan. Kombinasi gerbang logika menghasilkan operasi seperti AND, OR, dan NOT.
+
+Sistem digital merepresentasikan informasi melalui keadaan diskret, sering kali dinyatakan sebagai 0 dan 1. Tegangan fisik pada rangkaian memiliki rentang yang ditafsirkan sebagai tingkat logika. Gangguan, keterlambatan, konsumsi daya, dan panas menjadi pertimbangan desain.
+
+Prosesor modern berisi miliaran transistor dalam skala sangat kecil. Perkembangan teknologi semikonduktor memungkinkan perangkat semakin padat dan efisien, tetapi menghadirkan tantangan panas, konsumsi energi, manufaktur, dan pengelolaan sumber daya.
+
+BAB 72 — SENSOR DAN PENGUKURAN ELEKTRONIK
+
+Sensor mengubah besaran fisik menjadi sinyal yang dapat diukur. Termistor merespons suhu, fotodioda merespons cahaya, sensor tekanan merespons perubahan tekanan, dan akselerometer mengukur percepatan. Setiap sensor memiliki rentang, sensitivitas, resolusi, dan ketidakpastian.
+
+Sinyal sensor dapat berupa analog atau digital. Sistem akuisisi data mengubah sinyal menjadi angka untuk disimpan dan dianalisis. Kalibrasi menghubungkan keluaran sensor dengan nilai acuan yang diketahui.
+
+Data sensor tidak otomatis benar. Sensor dapat mengalami drift, gangguan listrik, saturasi, dan kesalahan pemasangan. Catat jenis sensor, satuan, interval pencuplikan, kondisi pengukuran, serta prosedur kalibrasi.
+
+BAGIAN XII — FISIKA BUMI, ANTARIKSA, DAN APLIKASI
+
+BAB 73 — GRAVITASI BUMI DAN SATELIT
+
+Bumi tidak berbentuk bola sempurna dan distribusi massanya tidak seragam. Karena itu, nilai gravitasi dan medan gravitasi sedikit berubah menurut lokasi. Rotasi Bumi juga memengaruhi percepatan efektif yang terukur di permukaan.
+
+Satelit buatan digunakan untuk komunikasi, navigasi, pengamatan cuaca, pemantauan lingkungan, dan penelitian. Ketinggian orbit, inklinasi, periode, dan bentuk orbit dipilih berdasarkan misi. Orbit geostasioner memiliki periode sama dengan rotasi Bumi relatif terhadap kerangka yang sesuai sehingga satelit tampak tetap di atas wilayah tertentu.
+
+Satelit memerlukan pengendalian orbit dan orientasi. Gangguan gravitasi, tekanan radiasi Matahari, dan hambatan atmosfer dapat mengubah orbit. Sampah antariksa menjadi persoalan keselamatan dan keberlanjutan ruang dekat Bumi.
+
+BAB 74 — GELOMBANG SEISMIK DAN STRUKTUR BUMI
+
+Gempa bumi menghasilkan gelombang seismik yang merambat melalui bagian dalam dan permukaan Bumi. Gelombang primer (P) bersifat longitudinal dan dapat merambat melalui padatan serta cairan. Gelombang sekunder (S) bersifat transversal dan tidak merambat melalui cairan dalam model elastis sederhana.
+
+Perbedaan kecepatan dan jalur gelombang membantu ahli geofisika menyelidiki struktur bagian dalam Bumi. Zona bayangan gelombang menunjukkan bahwa sifat material dan keadaan fisik lapisan Bumi berubah terhadap kedalaman.
+
+Seismograf merekam gerakan tanah sebagai fungsi waktu. Data dari beberapa stasiun dapat digunakan untuk memperkirakan lokasi sumber gempa. Besaran gempa dan intensitas dampak merupakan konsep berbeda; dampak di suatu tempat juga dipengaruhi jarak, kondisi tanah, dan kualitas bangunan.
+
+BAB 75 — FISIKA ATMOSFER DAN CUACA
+
+Atmosfer adalah fluida gas yang dipengaruhi gravitasi, pemanasan Matahari, rotasi Bumi, dan kandungan uap air. Perbedaan pemanasan menghasilkan variasi suhu dan tekanan yang mendorong sirkulasi udara. Angin merupakan gerak udara yang dipengaruhi gradien tekanan dan gaya lain.
+
+Tekanan udara umumnya menurun dengan ketinggian karena jumlah udara di atas suatu titik semakin sedikit. Suhu dan kelembapan memengaruhi kerapatan udara serta pembentukan awan. Perubahan fase air melepaskan atau menyerap kalor laten yang memengaruhi perkembangan sistem cuaca.
+
+Model cuaca menggunakan pengamatan dan persamaan fisika untuk memperkirakan keadaan atmosfer. Prediksi memiliki ketidakpastian karena atmosfer bersifat kompleks dan sensitif terhadap kondisi awal. Informasi prakiraan perlu dibaca bersama rentang waktu, wilayah, dan tingkat keyakinan.
+
+BAB 76 — ENERGI MATAHARI DAN KESEIMBANGAN BUMI
+
+Matahari memasok sebagian besar energi yang menggerakkan sistem iklim Bumi. Sebagian radiasi dipantulkan oleh awan, atmosfer, dan permukaan; sebagian diserap dan menghangatkan sistem. Bumi kemudian memancarkan energi inframerah ke ruang angkasa.
+
+Efek rumah kaca alami terjadi karena gas tertentu menyerap dan memancarkan radiasi inframerah. Proses ini menjaga suhu rata-rata Bumi lebih hangat daripada jika atmosfer tidak memiliki gas penyerap tersebut. Peningkatan konsentrasi gas rumah kaca akibat aktivitas manusia mengubah keseimbangan energi dan mendorong pemanasan global.
+
+Albedo adalah fraksi radiasi yang dipantulkan permukaan. Es dan salju memiliki albedo relatif tinggi, sedangkan permukaan gelap menyerap lebih banyak energi. Perubahan tutupan lahan dapat mengubah albedo dan aliran energi lokal.
+
+BAB 77 — FISIKA DALAM TEKNOLOGI MEDIS
+
+Teknologi medis memanfaatkan prinsip fisika untuk pencitraan, pemantauan, dan terapi. Sinar-X berinteraksi dengan jaringan dan digunakan untuk menghasilkan citra struktur internal. Ultrasonografi menggunakan pantulan gelombang suara frekuensi tinggi. MRI memanfaatkan sifat magnetik inti atom dan gelombang radio untuk membentuk citra.
+
+Setiap metode memiliki manfaat, batas, dan pertimbangan keselamatan yang berbeda. Sinar-X menggunakan radiasi pengion sehingga penggunaannya mengikuti prinsip justifikasi dan optimisasi oleh tenaga profesional. Ultrasonografi tidak menggunakan radiasi pengion, tetapi tetap memerlukan prosedur dan interpretasi yang tepat.
+
+Sensor fisiologis mengukur besaran seperti tekanan, suhu, denyut, dan aktivitas listrik. Hasil pengukuran dipengaruhi posisi sensor, gerakan, kalibrasi, serta karakter individu. Alat bantu pembelajaran tidak menggantikan diagnosis tenaga kesehatan.
+
+BAB 78 — FISIKA MATERIAL DAN NANOTEKNOLOGI
+
+Sifat bahan bergantung pada susunan atom, ikatan, struktur kristal, cacat, dan skala mikrostruktur. Bahan dapat dikelompokkan secara umum sebagai logam, keramik, polimer, komposit, dan semikonduktor. Setiap kelompok memiliki kombinasi kekuatan, massa jenis, konduktivitas, dan ketahanan yang berbeda.
+
+Nanomaterial memiliki struktur pada skala nanometer. Pada skala ini, luas permukaan relatif besar dan efek kuantum dapat memengaruhi sifat tertentu. Namun, tidak semua bahan nano otomatis lebih baik; kinerja bergantung komposisi, bentuk, proses pembuatan, dan tujuan penggunaan.
+
+Pengembangan material perlu mempertimbangkan seluruh daur hidup, mulai dari bahan baku dan produksi hingga penggunaan serta daur ulang. Klaim keunggulan harus didukung pengujian yang relevan, bukan hanya istilah teknologi yang menarik.
+
+BAB 79 — FISIKA DALAM TRANSPORTASI
+
+Transportasi melibatkan gaya, energi, momentum, gesekan, aerodinamika, dan efisiensi. Hambatan udara meningkat ketika kecepatan bertambah dan dipengaruhi bentuk kendaraan, luas frontal, serta sifat udara. Desain aerodinamis dapat mengurangi energi yang dibutuhkan untuk melaju pada kondisi tertentu.
+
+Ban berinteraksi dengan permukaan jalan melalui deformasi dan gesekan. Kondisi permukaan, tekanan ban sesuai rekomendasi produsen, cuaca, dan kecepatan memengaruhi performa serta keselamatan. Sistem pengereman mengubah energi kinetik menjadi bentuk energi lain, terutama panas.
+
+Kendaraan listrik mengubah energi listrik tersimpan menjadi energi mekanik melalui motor. Kendaraan berbahan bakar mengubah energi kimia melalui proses termal. Perbandingan teknologi perlu memperhitungkan sumber energi, efisiensi, produksi, pemeliharaan, dan emisi sepanjang daur hidup.
+
+BAB 80 — EFISIENSI ENERGI DAN BATAS TERMODINAMIKA
+
+Efisiensi energi menilai seberapa besar energi masukan yang menjadi keluaran berguna menurut tujuan yang ditetapkan. Perbandingan harus menggunakan batas sistem yang sama. Perangkat dengan efisiensi tinggi pada satu kondisi belum tentu memiliki kinerja sama pada semua beban.
+
+Mesin kalor bekerja dengan mengambil energi dari sumber bersuhu tinggi, mengubah sebagian menjadi usaha, dan melepaskan sisanya ke lingkungan bersuhu lebih rendah. Hukum kedua termodinamika membatasi efisiensi maksimum mesin yang bekerja antara dua suhu tertentu.
+
+Efisiensi tidak boleh disamakan dengan penghematan biaya atau dampak lingkungan secara keseluruhan. Perangkat efisien yang digunakan jauh lebih lama atau dalam jumlah lebih banyak dapat meningkatkan konsumsi total. Penilaian yang baik melihat pola penggunaan dan dampak sistem secara menyeluruh.
+
+BAGIAN XIII — PRAKTIK ANALISIS, STUDI KASUS, DAN PENGUATAN KONSEP
+
+BAB 81 — MENYUSUN TABEL DAN GRAFIK DATA
+
+Tabel data yang baik memisahkan variabel, nilai, dan satuan. Setiap kolom memiliki judul yang jelas. Catatan metode menjelaskan bagaimana data dikumpulkan, kapan pengukuran dilakukan, dan alat apa yang digunakan. Tanpa informasi ini, pembaca sulit menilai mutu hasil.
+
+Grafik dipilih sesuai hubungan yang ingin ditampilkan. Grafik garis cocok untuk perubahan terhadap waktu; diagram pencar membantu melihat hubungan dua variabel; histogram menunjukkan sebaran data. Skala sumbu harus proporsional dan tidak boleh dipotong dengan cara yang menyesatkan.
+
+Garis tren merangkum kecenderungan, bukan menggantikan data. Jangan memaksakan garis lurus jika pola melengkung. Selalu periksa pencilan, tetapi jangan menghapusnya tanpa alasan yang dapat dipertanggungjawabkan. Pencilan dapat berasal dari kesalahan pencatatan, kondisi khusus, atau fenomena yang penting.
+
+BAB 82 — REGRESI LINEAR DAN HUBUNGAN FISIKA
+
+Banyak hubungan fisika dapat diuji dengan grafik. Jika model memprediksi y = ax + b, data dapat diplot untuk melihat apakah pola mendekati garis lurus. Kemiringan a dan intersep b dapat dibandingkan dengan prediksi teori.
+
+Contoh sederhana adalah hubungan jarak dan waktu pada gerak berkecepatan konstan. Jika posisi diplot terhadap waktu, kemiringan garis mewakili kecepatan. Jika terdapat intersep bukan nol, hal itu dapat menunjukkan posisi awal yang tidak nol atau offset pengukuran.
+
+Regresi linear menghasilkan parameter terbaik menurut kriteria statistik tertentu, tetapi tidak membuktikan model benar. Periksa sebaran residu, rentang data, ketidakpastian, dan apakah hubungan linear masuk akal secara fisika. Ekstrapolasi jauh di luar rentang pengamatan berisiko menghasilkan prediksi keliru.
+
+BAB 83 — ANALISIS KETIDAKPASTIAN SEDERHANA
+
+Ketidakpastian hasil perhitungan berasal dari ketidakpastian besaran masukan. Untuk penjumlahan atau pengurangan, ketidakpastian absolut perlu dipertimbangkan. Untuk perkalian atau pembagian, ketidakpastian relatif sering lebih informatif. Aturan rinci bergantung pada asumsi statistik dan hubungan antarvariabel.
+
+Jika sebuah panjang diukur sebagai 10,0 ± 0,1 cm, ketidakpastian relatifnya sekitar satu persen. Angka ini membantu menilai seberapa besar ketidakpastian dibanding nilai ukur. Pelaporan tidak boleh menampilkan digit yang jauh melampaui ketelitian data.
+
+Ketidakpastian sistematis perlu ditangani melalui kalibrasi, pemeriksaan metode, dan pembandingan dengan standar. Pengulangan mengurangi pengaruh variasi acak pada rata-rata, tetapi tidak otomatis mengoreksi bias sistematis.
+
+BAB 84 — ANALISIS DIMENSI DAN ESTIMASI ORDE BESARAN
+
+Analisis dimensi memeriksa konsistensi satuan pada persamaan. Kedua sisi persamaan harus memiliki dimensi yang sama. Jika sebuah persamaan menyamakan panjang dengan waktu, pasti ada kesalahan atau besaran perantara yang belum dinyatakan.
+
+Analisis dimensi tidak dapat membuktikan persamaan sepenuhnya benar karena faktor numerik tanpa dimensi dan bentuk fungsi mungkin belum diketahui. Namun, metode ini sangat berguna untuk menemukan kesalahan awal dan memperkirakan bentuk hubungan.
+
+Estimasi orde besaran menggunakan angka pendekatan untuk menilai skala hasil. Dalam perencanaan awal, perkiraan kasar dapat menunjukkan apakah hasil berada pada skala milimeter, meter, atau kilometer. Estimasi bukan pengganti pengukuran atau desain rinci; fungsinya membantu memeriksa kewajaran.
+
+BAB 85 — STUDI KASUS: MENGANALISIS PERJALANAN
+
+Bayangkan data perjalanan sederhana berisi posisi kendaraan pada beberapa waktu yang dicatat dari simulasi pembelajaran. Pertama, tentukan titik acuan dan arah positif. Kedua, buat tabel waktu dan posisi. Ketiga, plot posisi terhadap waktu. Keempat, hitung perubahan posisi pada tiap interval.
+
+Jika kemiringan grafik tetap, gerak mendekati kecepatan konstan. Jika kemiringan berubah, kecepatan berubah dan mungkin terdapat percepatan. Perubahan kemiringan perlu dinilai dengan mempertimbangkan resolusi data dan ketidakpastian pencatatan.
+
+Laporan sebaiknya menyebut bahwa data berasal dari simulasi, bukan kendaraan nyata. Jangan menyimpulkan kemampuan pengemudi atau kondisi lalu lintas dari data terbatas. Tujuan studi kasus adalah menerapkan konsep posisi, kecepatan, percepatan, dan grafik secara konsisten.
+
+BAB 86 — STUDI KASUS: NERACA ENERGI RUANG KELAS
+
+Sebuah ruang kelas menerima energi dari pencahayaan, perangkat elektronik, penghuni, dan radiasi Matahari. Energi keluar melalui dinding, atap, jendela, ventilasi, dan sistem pendingin. Suhu ruang merupakan hasil keseimbangan dinamis berbagai aliran energi.
+
+Audit pembelajaran dapat mencatat jumlah perangkat, label daya, dan lama penggunaan berdasarkan pengamatan. Perkiraan energi listrik dihitung dari daya dikalikan waktu. Perkiraan ini tidak sama dengan pembacaan meter karena daya aktual dapat berubah dan beberapa perangkat memiliki siklus kerja.
+
+Untuk suhu ruang, catat kondisi cuaca, waktu, jumlah orang, dan keadaan ventilasi. Perbandingan antarhari perlu mempertimbangkan faktor-faktor tersebut. Rekomendasi yang baik tidak hanya mengejar pengurangan energi, tetapi juga menjaga pencahayaan, kenyamanan, dan kualitas udara.
+
+BAB 87 — STUDI KASUS: MEMBANDINGKAN BAHAN ISOLASI
+
+Bahan isolasi dapat dibandingkan melalui konduktivitas termal, ketebalan, ketahanan kelembapan, daya tahan, biaya, dan dampak lingkungan. Konduktivitas rendah menunjukkan bahan lebih sulit menghantarkan kalor pada kondisi pengujian yang ditentukan.
+
+Perbandingan harus menggunakan kondisi dan metode yang setara. Ketebalan berbeda dapat membuat hasil tidak adil jika hanya membandingkan suhu permukaan. Sambungan dan celah udara juga dapat menjadi jalur perpindahan kalor yang signifikan.
+
+Dalam proyek kelas, gunakan data teknis yang dipublikasikan produsen atau lembaga pengujian. Jangan melakukan eksperimen pemanasan berbahaya. Kesimpulan harus menyebut batas data dan tidak menggeneralisasi satu hasil untuk semua bangunan.
+
+BAB 88 — STUDI KASUS: MEMAHAMI KONSUMSI LISTRIK
+
+Energi listrik rumah tangga bergantung pada daya perangkat dan lamanya penggunaan. Perangkat berdaya tinggi yang digunakan sebentar belum tentu memakai energi lebih besar daripada perangkat berdaya rendah yang menyala lama. Karena itu, watt dan kilowatt-jam perlu dibedakan.
+
+Perkiraan konsumsi dapat dibuat dengan mengalikan daya nominal dalam kilowatt dengan waktu operasi dalam jam. Jika perangkat memiliki beberapa mode, daya aktual dapat berubah. Label daya biasanya menunjukkan kondisi atau batas tertentu, bukan selalu konsumsi rata-rata harian.
+
+Analisis biaya juga memerlukan tarif yang berlaku, pajak atau biaya lain, dan struktur tagihan. Jangan menyimpulkan jumlah tagihan hanya dari satu perangkat. Gunakan data tagihan milik sendiri secara privat dan hindari membagikan informasi akun atau alamat.
+
+BAB 89 — MEMBACA KLAIM TEKNOLOGI SECARA KRITIS
+
+Klaim teknologi sering menggunakan kata “hemat”, “paling efisien”, atau “ramah lingkungan”. Kata-kata tersebut harus diikuti pertanyaan: dibandingkan dengan apa, pada kondisi apa, memakai batas sistem yang mana, dan berdasarkan pengukuran apa?
+
+Efisiensi satu komponen tidak selalu mencerminkan efisiensi keseluruhan sistem. Panel surya, misalnya, perlu dinilai bersama inverter, penyimpanan, lokasi, pola pemakaian, dan masa pakai. Kendaraan perlu dinilai bersama sumber energi dan proses produksi.
+
+Periksa sumber data, tanggal, metode uji, dan konflik kepentingan. Cari hasil pengujian independen jika tersedia. Jika informasi belum cukup, kesimpulan yang jujur adalah “belum dapat dipastikan”, bukan memilih klaim yang paling menarik.
+
+BAB 90 — FISIKA DAN PERUBAHAN IKLIM
+
+Perubahan iklim dapat dipahami melalui neraca energi Bumi, radiasi, perpindahan kalor, dinamika fluida, dan perubahan komposisi atmosfer. Peningkatan gas rumah kaca mengubah jumlah radiasi inframerah yang diserap dan dipancarkan atmosfer sehingga keseimbangan energi bergeser.
+
+Pengamatan iklim menggunakan catatan suhu, laut, es, curah hujan, dan berbagai indikator lain. Tren jangka panjang harus dibedakan dari variasi cuaca harian atau musiman. Analisis atribusi membandingkan pengamatan dengan simulasi untuk menilai kontribusi faktor alami dan aktivitas manusia.
+
+Fisika menyediakan dasar untuk memahami mekanisme, sedangkan ilmu iklim menggabungkan banyak jenis data dan model. Ketidakpastian pada rincian regional tidak menghapus bukti kuat tentang pemanasan global. Komunikasi yang baik menyatakan tingkat keyakinan dan batas prediksi.
+
+BAB 91 — FISIKA DAN PENGEMBANGAN ENERGI BERSIH
+
+Teknologi energi bersih melibatkan konversi energi, termodinamika, material, jaringan listrik, dan penyimpanan. Panel fotovoltaik mengubah sebagian energi radiasi menjadi listrik. Turbin angin mengambil sebagian energi kinetik aliran udara. Pembangkit air memanfaatkan energi potensial dan kinetik air.
+
+Tidak ada teknologi yang bebas dampak. Penilaian perlu memperhitungkan bahan baku, lahan, air, keanekaragaman hayati, limbah, keandalan, dan emisi sepanjang daur hidup. Perbandingan harus mempertimbangkan lokasi dan fungsi sistem.
+
+Sistem listrik masa depan dapat menggabungkan berbagai sumber, penyimpanan, interkoneksi, pengelolaan permintaan, dan pembangkit fleksibel. Tantangannya bukan sekadar menghasilkan energi, tetapi memastikan pasokan andal, terjangkau, dan berkelanjutan.
+
+BAB 92 — RANGKUMAN KONSEPTUAL MEKANIKA
+
+Mekanika menjelaskan gerak dan interaksi. Kinematika mendeskripsikan posisi, kecepatan, dan percepatan tanpa membahas penyebabnya. Dinamika menghubungkan gerak dengan gaya melalui hukum Newton. Diagram benda bebas membantu mengidentifikasi gaya eksternal pada sistem.
+
+Usaha dan energi memberi cara lain untuk menganalisis perubahan gerak. Momentum sangat berguna untuk interaksi singkat seperti tumbukan. Kekekalan energi dan momentum berlaku pada kondisi sistem yang berbeda; keduanya tidak boleh diterapkan tanpa memeriksa gaya eksternal dan batas sistem.
+
+Gerak rotasi memperluas konsep translasi melalui sudut, torsi, dan momen inersia. Fluida memperkenalkan tekanan, gaya apung, dan aliran. Semua cabang menggunakan pengukuran, model, satuan, dan pemeriksaan hasil.
+
+BAB 93 — RANGKUMAN KONSEPTUAL TERMAL DAN GELOMBANG
+
+Suhu menggambarkan keadaan termal, sedangkan kalor adalah energi yang berpindah akibat perbedaan suhu. Perpindahan kalor berlangsung melalui konduksi, konveksi, dan radiasi. Termodinamika menghubungkan energi internal, usaha, kalor, dan arah proses.
+
+Getaran dan gelombang menggambarkan perubahan periodik serta perambatan gangguan. Frekuensi, periode, panjang gelombang, dan cepat rambat saling berkaitan. Pemantulan, pembiasan, difraksi, dan interferensi menjelaskan banyak fenomena bunyi serta cahaya.
+
+Optika geometris berguna ketika panjang gelombang kecil dibanding ukuran sistem, sedangkan sifat gelombang diperlukan untuk menjelaskan difraksi dan interferensi. Pemilihan model bergantung pada pertanyaan yang hendak dijawab.
+
+BAB 94 — RANGKUMAN KONSEPTUAL LISTRIK DAN MAGNET
+
+Muatan listrik menghasilkan medan listrik. Arus menyatakan laju aliran muatan, tegangan menyatakan energi per satuan muatan, dan hambatan menghubungkan arus dengan tegangan pada komponen ohmik. Rangkaian dianalisis dengan hukum Ohm dan hukum Kirchhoff.
+
+Arus menghasilkan medan magnet, sedangkan perubahan fluks magnet dapat menimbulkan induksi. Generator dan transformator memanfaatkan prinsip ini. Semikonduktor memungkinkan pengendalian arus dan menjadi dasar perangkat elektronik modern.
+
+Keselamatan merupakan batas utama penerapan konsep listrik. Pengetahuan rumus tidak membuat seseorang otomatis kompeten menangani instalasi atau perangkat bertegangan. Pengujian teknis harus mengikuti standar dan dilakukan oleh pihak yang terlatih.
+
+BAB 95 — PETA BELAJAR LANJUTAN
+
+Pembaca yang ingin memperdalam mekanika dapat mempelajari kalkulus dasar, vektor, persamaan diferensial, dan metode numerik. Pembaca yang tertarik termodinamika dapat mempelajari teori kinetik, mesin kalor, perpindahan kalor, serta sifat material. Setiap bidang memiliki matematika dan metode eksperimen yang berkembang.
+
+Untuk gelombang dan optika, pelajari bilangan kompleks, superposisi, interferensi, difraksi, serta elektromagnetisme. Untuk listrik dan magnet, pelajari medan, potensial, rangkaian arus bolak-balik, induksi, dan persamaan Maxwell pada tingkat lanjut.
+
+Belajar lanjut sebaiknya dilakukan bertahap. Pastikan konsep dasar, satuan, aljabar, trigonometri, dan grafik sudah kuat sebelum masuk ke matematika yang lebih tinggi. Gunakan buku ajar, simulasi pendidikan, kuliah terbuka, dan bimbingan guru.
+
+BAB 96 — PORTOFOLIO BELAJAR FISIKA
+
+Portofolio membantu pembaca melacak perkembangan pemahaman. Simpan ringkasan konsep, contoh soal yang diselesaikan, grafik data, refleksi kesalahan, dan pertanyaan yang belum terjawab. Portofolio tidak harus berisi eksperimen rumit; analisis data publik atau simulasi juga dapat menjadi karya belajar.
+
+Setiap karya perlu mencantumkan tujuan, sumber data, metode, hasil, dan keterbatasan. Jika menggunakan gambar atau data dari pihak lain, ikuti ketentuan lisensi dan atribusi. Jangan mengklaim data simulasi sebagai hasil pengukuran nyata.
+
+Tinjau portofolio secara berkala. Cari pola kesalahan, misalnya sering lupa satuan, salah memilih arah positif, atau menerapkan rumus di luar asumsi. Perbaikan yang terarah lebih berguna daripada sekadar menambah jumlah latihan.
+
+LATIHAN PENDALAMAN BAGIAN IX–XIII
+
+1. Mengapa batas sistem harus ditentukan sebelum menerapkan hukum kekekalan?
+2. Sebuah benda berada pada bidang miring licin. Mengapa berat perlu diuraikan menjadi dua komponen?
+3. Apa perbedaan percepatan rata-rata dan percepatan sesaat?
+4. Jelaskan pertukaran energi kinetik dan potensial pada osilator ideal.
+5. Mengapa resonansi dapat bermanfaat sekaligus perlu dikendalikan?
+6. Apa perbedaan tegangan dan regangan bahan?
+7. Bagaimana viskositas memengaruhi aliran fluida?
+8. Dalam kondisi apa model gas ideal lebih sesuai digunakan?
+9. Mengapa kapasitas kalor wadah dapat memengaruhi hasil kalorimetri?
+10. Apa perbedaan konduktivitas termal dan kapasitas kalor?
+11. Jelaskan peran entropi dalam menentukan arah proses alami.
+12. Apa yang dimaksud polarisasi cahaya?
+13. Mengapa perbesaran citra tidak selalu meningkatkan resolusi?
+14. Apa fungsi kapasitor dalam rangkaian?
+15. Mengapa arus pada rangkaian RC berubah terhadap waktu?
+16. Mengapa transmisi daya menggunakan tegangan tinggi?
+17. Bagaimana sambungan p-n menjadi dasar kerja dioda?
+18. Mengapa data sensor perlu dikalibrasi?
+19. Apa yang dapat dipelajari dari gelombang seismik?
+20. Mengapa prakiraan cuaca memiliki ketidakpastian?
+21. Apa yang dimaksud neraca energi Bumi?
+22. Mengapa teknologi energi perlu dinilai sepanjang daur hidup?
+23. Apa perbedaan efisiensi komponen dan efisiensi sistem?
+24. Mengapa korelasi tidak otomatis menunjukkan sebab-akibat?
+25. Apa kegunaan analisis dimensi?
+26. Bagaimana ketidakpastian pengukuran memengaruhi kesimpulan?
+27. Mengapa data pencilan tidak boleh langsung dihapus?
+28. Sebutkan informasi yang harus ada pada grafik ilmiah.
+29. Mengapa keselamatan dan etika termasuk bagian metode ilmiah?
+30. Susun rencana belajar lanjutan berdasarkan topik fisika yang paling menarik bagimu.
+
+PEMBAHASAN LATIHAN PENDALAMAN
+
+1. Batas sistem menentukan interaksi mana yang internal dan eksternal serta apakah kekekalan dapat diterapkan.
+2. Karena sumbu sejajar dan tegak lurus bidang memudahkan analisis gaya dan percepatan.
+3. Percepatan rata-rata dihitung pada selang waktu; percepatan sesaat menggambarkan laju perubahan kecepatan pada suatu saat.
+4. Energi berganti antara energi potensial pegas dan energi kinetik.
+5. Resonansi memperkuat respons dan berguna pada alat musik, tetapi respons berlebihan dapat merusak struktur.
+6. Tegangan adalah gaya per luas; regangan adalah perubahan panjang relatif.
+7. Viskositas lebih tinggi umumnya meningkatkan hambatan aliran.
+8. Pada tekanan relatif rendah dan suhu cukup jauh dari kondisi pencairan.
+9. Wadah juga menyerap atau melepas kalor sehingga ikut memengaruhi suhu akhir.
+10. Konduktivitas menunjukkan kemampuan menghantarkan kalor; kapasitas kalor menunjukkan energi yang diperlukan untuk mengubah suhu.
+11. Entropi total sistem terisolasi tidak berkurang pada proses spontan.
+12. Orientasi arah getar medan listrik gelombang elektromagnetik.
+13. Perbesaran tidak memulihkan detail yang dibatasi difraksi atau kualitas sensor.
+14. Menyimpan muatan dan energi dalam medan listrik serta memengaruhi respons waktu rangkaian.
+15. Kapasitor memerlukan waktu untuk mengubah muatan dan tegangan melalui resistor.
+16. Untuk daya yang sama, arus lebih kecil sehingga rugi daya resistif dapat berkurang.
+17. Sambungan p-n memiliki karakter penghantaran yang berbeda menurut arah bias.
+18. Kalibrasi menghubungkan keluaran sensor dengan nilai acuan dan membantu mengidentifikasi bias.
+19. Struktur bagian dalam Bumi dan lokasi sumber gempa.
+20. Atmosfer kompleks dan sensitif terhadap kondisi awal serta keterbatasan pengamatan dan model.
+21. Keseimbangan energi radiasi yang masuk, dipantulkan, diserap, dan dipancarkan Bumi.
+22. Dampak terjadi pada produksi bahan, penggunaan, dan akhir masa pakai.
+23. Efisiensi komponen menilai satu bagian; efisiensi sistem menilai keseluruhan rangkaian proses.
+24. Variabel ketiga atau kebetulan dapat menghasilkan hubungan tanpa sebab langsung.
+25. Memeriksa konsistensi dimensi dan memperkirakan bentuk hubungan fisika.
+26. Ketidakpastian menentukan seberapa kuat hasil dapat mendukung suatu kesimpulan.
+27. Pencilan dapat merupakan kesalahan atau fenomena nyata yang penting; perlu diperiksa dan dijelaskan.
+28. Judul, sumbu, satuan, skala, legenda bila perlu, serta sumber dan metode data.
+29. Agar data jujur, metode dapat ditinjau, dan kegiatan tidak menimbulkan risiko yang tidak perlu.
+30. Jawaban terbuka; rencana yang baik memiliki tujuan, urutan prasyarat, sumber belajar, dan evaluasi.
+
+RUBRIK PENILAIAN MANDIRI
+
+Gunakan rubrik ini untuk menilai jawaban dan proyek belajar, bukan untuk menggantikan penilaian guru.
+- Ketepatan konsep: apakah istilah dan hukum fisika digunakan dengan benar?
+- Ketepatan matematika: apakah persamaan, substitusi, dan operasi hitung konsisten?
+- Satuan dan dimensi: apakah satuan ditulis dan hasil diperiksa?
+- Penalaran: apakah alasan dan asumsi dijelaskan?
+- Bukti: apakah data dan sumber dapat ditelusuri?
+- Keterbatasan: apakah ketidakpastian dan batas model disebutkan?
+- Komunikasi: apakah tabel, grafik, dan uraian mudah dipahami?
+- Keselamatan dan etika: apakah kegiatan dan penggunaan data dilakukan secara bertanggung jawab?
+
+Refleksi akhir:
+1. Konsep mana yang paling mudah dipahami dan mengapa?
+2. Bagian mana yang masih membingungkan?
+3. Kesalahan apa yang paling sering muncul dalam latihan?
+4. Bagaimana cara memeriksa hasil hitungan sebelum menyimpulkan?
+5. Topik fisika apa yang ingin dipelajari lebih lanjut?
+
+PENUTUP
+
+Fisika bukan kumpulan rumus yang berdiri sendiri. Setiap persamaan menyatakan hubungan antara besaran dalam kondisi tertentu. Pengukuran menyediakan data, model menyederhanakan keadaan, matematika menyusun hubungan, dan pengujian membantu menilai apakah penjelasan sesuai dengan bukti.
+
+Pembaca yang menguasai dasar fisika diharapkan mampu bertanya secara terarah, membedakan fakta dari dugaan, membaca grafik, memeriksa satuan, dan menyampaikan keterbatasan. Kemampuan tersebut berguna bukan hanya dalam pelajaran sains, tetapi juga ketika menilai teknologi dan mengambil keputusan sehari-hari.
+
+Teruslah belajar dengan rasa ingin tahu, ketelitian, sikap terbuka terhadap bukti, dan perhatian pada keselamatan. Pemahaman ilmiah berkembang ketika pertanyaan diuji dan penjelasan bersedia diperbaiki.
+
+Akhir naskah edisi pembelajaran.

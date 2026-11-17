@@ -26,6 +26,8 @@ Bab 5 Kelajuan dan Kecepatan
 Bab 6 Percepatan dan Gerak Lurus Beraturan
 Bab 7 Gerak Lurus Berubah Beraturan
 Bab 8 Membaca Grafik Gerak
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/grafik-gerak-waktu.svg|Grafik posisi terhadap waktu]]
 Bab 9 Gerak Dua Dimensi dan Gerak Proyektil
 Bab 10 Gerak Relatif dan Kerangka Acuan
 

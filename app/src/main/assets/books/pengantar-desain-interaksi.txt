@@ -223,3 +223,53 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Kapan konfirmasi tindakan diperlukan dan kapan justru mengganggu?
 4. Sebutkan lima ukuran yang dapat digunakan dalam uji kegunaan.
 5. Mengapa hasil uji dengan peserta terbatas harus dilaporkan bersama keterbatasannya?
+BAB LANJUTAN 4. DESAIN FORMULIR DAN PENGALAMAN INPUT
+
+Formulir merupakan titik interaksi ketika pengguna menyampaikan informasi kepada sistem. Formulir yang baik hanya meminta data yang diperlukan untuk menyelesaikan tugas. Setiap kolom perlu memiliki label yang jelas, format yang dijelaskan, dan contoh jika format tidak umum. Placeholder tidak sebaiknya menjadi satu-satunya label karena dapat hilang ketika pengguna mulai mengetik.
+
+Pengelompokan kolom membantu pengguna memahami hubungan informasi. Urutkan pertanyaan sesuai alur berpikir, bukan struktur basis data. Jika formulir panjang, bagi menjadi bagian yang bermakna dan jelaskan kemajuan. Namun, jangan memecah formulir menjadi terlalu banyak langkah jika tugas sebenarnya sederhana. Pengguna perlu mengetahui apakah informasi dapat disimpan dan dilanjutkan nanti.
+
+Validasi sebaiknya membantu sebelum dan sesudah pengiriman. Berikan batasan format di dekat kolom, periksa data ketika sesuai, dan tampilkan pesan kesalahan yang menjelaskan cara memperbaiki. Jangan hanya memberi warna merah tanpa teks. Jika beberapa kolom bermasalah, ringkasan kesalahan di bagian atas dapat membantu pengguna menemukan semuanya.
+
+Privasi perlu dipertimbangkan dalam setiap formulir. Hindari meminta informasi yang tidak relevan, jelaskan alasan pengumpulan, dan batasi penyimpanan. Untuk data sensitif, jelaskan siapa yang dapat mengakses dan bagaimana data digunakan sesuai kebijakan. Formulir yang singkat, jelas, dan aman meningkatkan kemungkinan data yang diberikan akurat.
+
+LATIHAN BAB
+1. Mengapa placeholder tidak cukup sebagai label?
+2. Bagaimana urutan kolom dapat mengikuti alur berpikir pengguna?
+3. Apa ciri pesan kesalahan yang membantu?
+4. Mengapa warna tidak boleh menjadi satu-satunya penanda kesalahan?
+5. Sebutkan data yang sebaiknya tidak diminta jika tidak relevan.
+
+BAB LANJUTAN 5. DESAIN NOTIFIKASI DAN PENGATURAN PERHATIAN
+
+Notifikasi memberi tahu pengguna tentang kejadian yang mungkin memerlukan perhatian. Notifikasi yang terlalu sering dapat mengganggu, menambah beban kognitif, dan membuat pesan penting terabaikan. Karena itu, sistem perlu membedakan informasi, pengingat, dan peringatan yang memerlukan tindakan. Tingkat urgensi harus sesuai dengan konsekuensi jika pesan diabaikan.
+
+Pesan notifikasi sebaiknya ringkas dan menjelaskan apa yang terjadi serta tindakan yang tersedia. Hindari bahasa yang menakut-nakuti atau membuat pengguna merasa bersalah. Jika tindakan tidak mendesak, pengguna dapat diberi pilihan untuk menunda atau mengatur frekuensi. Pengaturan preferensi perlu mudah ditemukan dan tidak boleh menyulitkan pengguna untuk mematikan pesan yang tidak diperlukan.
+
+Waktu dan konteks menentukan kegunaan notifikasi. Pengingat yang dikirim saat pengguna sedang mengerjakan tugas lain dapat mengganggu. Pengelompokan pesan dan ringkasan berkala dapat mengurangi interupsi. Namun, pesan yang benar-benar penting perlu memiliki jalur penyampaian yang dapat diandalkan dan tidak tercampur dengan promosi.
+
+Evaluasi notifikasi dapat mengukur apakah pesan dibuka, apakah tindakan yang dimaksud selesai, berapa banyak pesan diabaikan, dan apakah pengguna merasa terganggu. Tingkat klik yang tinggi tidak otomatis berarti notifikasi bermanfaat; pesan yang manipulatif juga dapat mendorong klik. Tujuan utamanya adalah membantu pengguna, bukan memaksimalkan interaksi.
+
+LATIHAN BAB
+1. Apa perbedaan notifikasi informasi dan peringatan mendesak?
+2. Mengapa terlalu banyak notifikasi dapat menurunkan perhatian?
+3. Sebutkan unsur pesan notifikasi yang baik.
+4. Bagaimana pengguna seharusnya mengatur pesan yang tidak mendesak?
+5. Mengapa tingkat klik bukan satu-satunya ukuran keberhasilan notifikasi?
+
+BAB LANJUTAN 6. DESAIN ETIS, PERSUASI, DAN POLA MANIPULATIF
+
+Desain dapat memengaruhi pilihan pengguna melalui susunan informasi, warna, urutan, dan pengaturan awal. Pengaruh tidak selalu buruk; pengingat dapat membantu menyelesaikan tugas dan penjelasan yang jelas dapat mendorong keputusan yang lebih terinformasi. Masalah muncul ketika antarmuka menyembunyikan pilihan, membuat pembatalan sulit, atau menggunakan tekanan emosional untuk memperoleh tindakan yang tidak diinginkan pengguna.
+
+Pola manipulatif sering membuat satu pilihan jauh lebih menonjol daripada pilihan lain, menyamarkan biaya, atau menampilkan persetujuan sebagai satu-satunya jalan. Contoh lain adalah tombol berhenti berlangganan yang sengaja sulit ditemukan atau pilihan berbagi data yang sudah aktif tanpa penjelasan memadai. Desain etis menampilkan konsekuensi secara jelas dan memberi pilihan yang seimbang.
+
+Evaluasi etika perlu bertanya siapa yang diuntungkan, siapa yang menanggung risiko, informasi apa yang disembunyikan, dan apakah pengguna dapat membatalkan keputusan. Uji dengan kelompok pengguna yang beragam dapat menemukan dampak yang tidak terlihat oleh tim perancang. Persetujuan harus didasarkan pada pemahaman, bukan kelelahan atau kebingungan.
+
+Tim desain dapat membuat daftar pemeriksaan: biaya terlihat sebelum konfirmasi, izin diminta pada saat relevan, penolakan semudah penerimaan, pengaturan privasi dapat ditemukan, dan keputusan dapat ditinjau ulang. Prinsip ini membantu membangun kepercayaan jangka panjang dan mengurangi risiko merugikan pengguna.
+
+LATIHAN BAB
+1. Bedakan persuasi yang informatif dan pola desain manipulatif.
+2. Mengapa pembatalan harus mudah ditemukan?
+3. Sebutkan tiga pertanyaan untuk menilai dampak etis sebuah fitur.
+4. Apa arti pilihan yang seimbang dalam antarmuka?
+5. Buat daftar pemeriksaan etika untuk fitur persetujuan penggunaan data.

@@ -252,3 +252,33 @@ LATIHAN BAB 16
 3. Mengapa persetujuan tidak menggantikan kewajiban menjaga keamanan?
 4. Apa perbedaan penghapusan data dan pembatasan akses?
 5. Susun lima aturan sederhana untuk melindungi data anggota komunitas belajar.
+
+BAB 17. TATA KELOLA KEAMANAN INFORMASI
+
+Keamanan informasi bukan hanya urusan perangkat lunak atau tim teknis. Organisasi perlu menetapkan siapa yang bertanggung jawab atas kebijakan, aset informasi, persetujuan akses, penanganan insiden, dan evaluasi. Kebijakan yang baik menjelaskan tujuan serta perilaku yang diharapkan dalam bahasa yang dapat dipahami seluruh anggota. Aturan yang terlalu rumit dan tidak sesuai pekerjaan sehari-hari cenderung diabaikan.
+
+Inventaris aset membantu mengetahui informasi dan layanan apa yang perlu dilindungi. Aset dapat berupa dokumen, akun, perangkat, layanan daring, jaringan, dan pengetahuan operasional. Untuk setiap aset, catat pemilik proses, klasifikasi, lokasi penyimpanan, ketergantungan, serta kebutuhan ketersediaannya. Klasifikasi informasi dapat membedakan informasi publik, internal, rahasia, dan sangat terbatas. Kategori harus disertai contoh dan aturan penanganan.
+
+Prinsip hak akses minimum berarti seseorang memperoleh akses sesuai tugasnya, bukan akses seluas-luasnya demi kemudahan. Akses perlu ditinjau ketika peran berubah dan dicabut ketika tidak lagi diperlukan. Akun bersama menyulitkan penelusuran tanggung jawab, sehingga identitas pengguna sebaiknya dapat dibedakan. Proses persetujuan akses harus terdokumentasi dan memiliki penanggung jawab.
+
+Pihak ketiga juga perlu dinilai. Penyedia layanan dapat menyimpan atau memproses informasi organisasi, sehingga perjanjian perlu menjelaskan tujuan, lokasi pemrosesan, perlindungan, pemberitahuan insiden, dan pengembalian atau penghapusan data. Penilaian tidak berhenti pada saat kontrak ditandatangani; perubahan layanan dan subkontraktor dapat mengubah risiko.
+
+BAB 18. KESIAPAN DAN PEMBELAJARAN DARI INSIDEN
+
+Insiden keamanan dapat berupa kehilangan perangkat, salah kirim dokumen, akses tidak sah, gangguan layanan, atau paparan informasi. Organisasi perlu menyediakan jalur pelaporan yang mudah ditemukan dan tidak menghukum orang yang melapor dengan itikad baik. Pelaporan dini membantu membatasi dampak dan mempertahankan bukti yang relevan.
+
+Rencana respons menjelaskan peran, jalur komunikasi, proses penilaian dampak, pencatatan keputusan, serta kapan bantuan ahli atau pihak berwenang diperlukan. Tidak semua anggota organisasi harus melakukan penyelidikan teknis. Pengguna umum sebaiknya mengikuti prosedur resmi, tidak menyebarkan data yang diduga bocor, dan tidak mencoba memperbaiki sistem di luar kewenangannya.
+
+Komunikasi insiden perlu akurat dan proporsional. Hindari spekulasi, menyalahkan korban, atau menjanjikan bahwa tidak ada dampak sebelum pemeriksaan memadai. Pihak terdampak perlu menerima informasi yang relevan, langkah perlindungan yang disarankan, dan jalur untuk bertanya. Catatan komunikasi membantu memastikan informasi konsisten.
+
+Setelah insiden, lakukan evaluasi yang berorientasi perbaikan. Tinjau apakah kebijakan jelas, akses sesuai kebutuhan, pelatihan memadai, dan proses pelaporan berjalan. Temuan harus diterjemahkan menjadi tindakan yang memiliki pemilik serta tenggat. Simulasi diskusi dapat menguji koordinasi tanpa menciptakan gangguan nyata.
+
+LATIHAN
+1. Mengapa inventaris aset perlu memiliki pemilik?
+2. Jelaskan prinsip hak akses minimum.
+3. Apa informasi penting dalam perjanjian penyedia layanan?
+4. Mengapa pelapor insiden perlu dilindungi dari budaya menyalahkan?
+5. Apa tujuan evaluasi pascainsiden?
+
+PROYEK
+Buat kebijakan keamanan informasi ringkas untuk organisasi belajar. Tentukan klasifikasi data, aturan akses, proses perubahan peran, jalur pelaporan, dan tanggung jawab komunikasi. Gunakan contoh hipotetis dan jangan menguji sistem nyata tanpa izin.

@@ -262,3 +262,46 @@ LATIHAN
 4. Apa perbedaan kesalahan acak dan sistematis?
 5. Mengapa hasil pengukuran harus sesuai dengan resolusi alat?
 
+PENDALAMAN: GEOMETRI ANALITIK, STATISTIKA UKUR, DAN PEMODELAN
+
+BAB: GEOMETRI ANALITIK DAN HUBUNGAN ALJABAR
+
+Geometri analitik menghubungkan bentuk geometri dengan persamaan. Titik pada bidang dinyatakan dengan pasangan koordinat, sedangkan garis dapat dinyatakan melalui gradien dan titik yang dilaluinya. Bentuk persamaan yang berbeda dapat menggambarkan garis yang sama. Memahami hubungan ini membantu berpindah antara gambar, tabel, dan simbol tanpa kehilangan makna.
+
+Jarak pada bidang berasal dari teorema Pythagoras. Untuk dua titik, selisih koordinat horizontal dan vertikal menjadi komponen segitiga siku-siku. Jarak merupakan panjang sisi miring. Rumus tersebut dapat diperluas ke ruang tiga dimensi dengan menambahkan komponen kedalaman. Perhitungan harus memperhatikan satuan yang konsisten.
+
+Lingkaran dapat dinyatakan melalui pusat dan jari-jari. Persamaan lingkaran membantu memodelkan jangkauan, lintasan, dan wilayah yang memiliki jarak sama dari satu titik. Namun model lingkaran sederhana tidak selalu sesuai dengan kondisi nyata karena hambatan dan bentuk wilayah dapat mengubah jangkauan sebenarnya.
+
+BAB: TRANSFORMASI DAN SIMETRI
+
+Translasi menggeser semua titik dengan vektor yang sama. Rotasi memutar titik terhadap pusat tertentu, sedangkan refleksi mencerminkan bentuk terhadap garis. Dilatasi mengubah ukuran dengan faktor skala. Isometri seperti translasi, rotasi, dan refleksi mempertahankan jarak, sementara dilatasi mempertahankan bentuk tetapi mengubah ukuran.
+
+Simetri dapat membantu menjelaskan pola pada bangunan, desain, organisme, dan ornamen. Simetri matematis merupakan sifat bentuk ideal; objek nyata dapat memiliki penyimpangan akibat bahan, proses pembuatan, atau pertumbuhan. Pengukuran diperlukan untuk menentukan apakah suatu bentuk mendekati simetri dan seberapa besar deviasinya.
+
+BAB: TRIGONOMETRI DALAM PENGUKURAN
+
+Sinus, kosinus, dan tangen menghubungkan sudut dengan perbandingan sisi pada segitiga siku-siku. Dalam konteks pengukuran, sudut elevasi dan jarak horizontal dapat digunakan untuk memperkirakan tinggi objek jika asumsi geometri terpenuhi. Hasil tetap memiliki ketidakpastian dari pengukuran sudut, jarak, dan posisi pengamat.
+
+Sudut harus dinyatakan secara konsisten dalam derajat atau radian sesuai kebutuhan perhitungan. Pada lingkaran satuan, koordinat titik membantu memahami nilai sinus dan kosinus untuk sudut yang lebih luas daripada sudut lancip. Grafik fungsi trigonometri menjelaskan pola periodik, tetapi penggunaan model periodik harus didukung alasan dari fenomena yang dikaji.
+
+BAB: PENGUKURAN BERULANG DAN PROPAGASI KETIDAKPASTIAN
+
+Pengukuran berulang dapat memperlihatkan variasi. Rata-rata merangkum pusat data, sedangkan rentang dan simpangan baku membantu menggambarkan penyebaran. Pengulangan tidak mengatasi bias alat atau metode. Jika semua pengukuran memakai alat yang salah kalibrasi, rata-ratanya tetap dapat menyimpang dari nilai sebenarnya.
+
+Ketika beberapa besaran digunakan dalam perhitungan, ketidakpastian setiap besaran dapat memengaruhi hasil. Pada pendekatan sederhana, ketidakpastian relatif sering dijumlahkan untuk perkalian dan pembagian sebagai perkiraan konservatif. Metode yang lebih tepat bergantung pada hubungan variabel dan asumsi distribusi. Jangan menyajikan jumlah digit kalkulator sebagai bukti ketelitian.
+
+BAB: PEMODELAN DAN PEMERIKSAAN HASIL
+
+Model matematika menyederhanakan situasi agar dapat dianalisis. Langkah pentingnya adalah menentukan variabel, asumsi, hubungan, dan batas penerapan. Setelah memperoleh hasil, periksa satuan, tanda, skala, serta apakah hasil masuk akal. Jika model memprediksi panjang negatif atau sudut di luar konteks, periksa asumsi dan perhitungan.
+
+PROYEK
+
+Ukur denah sederhana ruang belajar menggunakan alat yang sesuai dan izin pemilik ruang. Buat sketsa berskala, hitung luas, serta tampilkan ketidakpastian yang wajar. Bandingkan hasil pengukuran ulang dan jelaskan kemungkinan sumber perbedaan. Hindari mengukur atau memetakan ruang pribadi tanpa izin.
+
+LATIHAN
+
+1. Apa perbedaan isometri dan dilatasi?
+2. Mengapa lingkaran jangkauan belum tentu menggambarkan akses nyata?
+3. Bagaimana sudut dan jarak memengaruhi estimasi tinggi?
+4. Mengapa pengukuran berulang tidak menghilangkan bias sistematis?
+5. Bagaimana memeriksa kewajaran hasil model matematika?

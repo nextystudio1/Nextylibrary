@@ -276,3 +276,43 @@ LATIHAN PENDALAMAN
 3. Apa manfaat analisis biaya siklus hidup dibanding hanya biaya pembangunan?
 4. Mengapa peta bahaya tidak sama dengan peta risiko?
 5. Susun lima kriteria untuk membandingkan dua alternatif koridor angkutan umum.
+
+BAB PENDALAMAN: TATA GUNA LAHAN DAN BENTUK KOTA
+
+Perencanaan tata guna lahan mengatur hubungan antara tempat tinggal, kegiatan ekonomi, fasilitas umum, ruang terbuka, jaringan transportasi, dan kawasan lindung. Keputusan lokasi tidak pernah berdiri sendiri. Perumahan yang jauh dari pekerjaan dapat meningkatkan waktu perjalanan dan biaya transportasi. Kawasan komersial yang tidak terhubung dengan angkutan umum dapat mendorong ketergantungan pada kendaraan pribadi. Sebaliknya, pencampuran fungsi yang dirancang baik dapat mendekatkan kebutuhan harian, tetapi tetap harus memperhatikan kebisingan, keselamatan, kapasitas infrastruktur, dan kesesuaian lingkungan.
+
+Kepadatan perlu dibaca dengan cermat. Kepadatan penduduk menghitung jumlah penduduk pada luas wilayah tertentu, sedangkan kepadatan bangunan melihat intensitas massa bangunan atau luas lantai. Dua kawasan dengan kepadatan penduduk sama dapat memiliki bentuk ruang yang berbeda. Satu kawasan mungkin terdiri atas bangunan bertingkat dengan ruang terbuka bersama, sementara kawasan lain berupa rumah tapak rapat dengan akses jalan terbatas. Karena itu, angka kepadatan perlu dilengkapi peta, kondisi hunian, dan kualitas fasilitas.
+
+PRINSIP KOTA KOMPAK DAN KETERHUBUNGAN
+
+Kota kompak berupaya mengurangi jarak perjalanan dan menggunakan lahan secara efisien. Namun, pemadatan tanpa ruang terbuka, drainase, sekolah, layanan kesehatan, dan transportasi yang memadai dapat memperburuk kualitas hidup. Prinsip kompak harus diterapkan bersama standar keselamatan, kecukupan infrastruktur, dan perlindungan kelompok rentan. Tujuan utamanya bukan memaksimalkan jumlah bangunan, melainkan membangun akses yang baik dengan penggunaan sumber daya yang bertanggung jawab.
+
+Keterhubungan pejalan kaki dan pesepeda juga penting. Jalur yang terputus, trotoar terhalang, persimpangan berbahaya, dan kurangnya penyeberangan dapat membuat jarak pendek terasa sulit ditempuh. Audit aksesibilitas menilai kesinambungan rute, permukaan, kemiringan, pencahayaan, peneduh, dan kemudahan menyeberang. Perencanaan harus memperhatikan anak, lansia, penyandang disabilitas, serta orang yang membawa barang atau mendampingi anak.
+
+PERUMAHAN DAN KETERJANGKAUAN
+
+Keterjangkauan hunian tidak cukup diukur dari harga beli atau sewa. Biaya transportasi, utilitas, perawatan, dan waktu perjalanan turut menentukan beban rumah tangga. Hunian yang murah tetapi jauh dari pekerjaan dapat menimbulkan biaya perjalanan tinggi. Penilaian kebijakan perumahan perlu melihat lokasi, kualitas bangunan, keamanan penguasaan, akses layanan, dan risiko penggusuran.
+
+Penyediaan hunian juga berkaitan dengan partisipasi penghuni. Program penataan kawasan sebaiknya memberi informasi yang mudah dipahami, mekanisme pengaduan, dan pilihan yang mempertimbangkan mata pencaharian serta jaringan sosial. Pemindahan warga dapat memutus akses ke sekolah, pasar, dan dukungan keluarga. Jika relokasi tidak dapat dihindari, proses harus transparan, sesuai hukum, dan menyediakan perlindungan yang layak.
+
+INFRASTRUKTUR HIJAU DAN AIR PERKOTAAN
+
+Infrastruktur hijau menggunakan unsur alam atau sistem yang meniru proses alam untuk membantu mengelola air, panas, dan kualitas ruang. Contohnya meliputi taman, koridor vegetasi, lahan basah, dan permukaan yang memungkinkan air meresap. Manfaatnya bergantung pada kondisi tanah, pemeliharaan, luas, dan keterhubungan dengan sistem drainase. Infrastruktur hijau bukan pengganti seluruh saluran teknis, melainkan bagian dari pendekatan yang lebih luas.
+
+Pengelolaan air hujan perlu mempertimbangkan seluruh daerah tangkapan. Pembangunan yang menambah permukaan kedap dapat mempercepat limpasan, tetapi dampak aktual bergantung pada topografi, jaringan saluran, dan kondisi sungai. Solusi pada satu blok dapat memindahkan genangan ke lokasi lain jika tidak direncanakan pada skala kawasan. Karena itu, perencanaan drainase memerlukan koordinasi lintas wilayah administrasi.
+
+DATA, PARTISIPASI, DAN KEADILAN RUANG
+
+Peta digital membantu menggabungkan data penggunaan lahan, jaringan jalan, fasilitas, dan risiko. Namun, data dapat tidak mutakhir atau tidak mencatat kelompok yang tidak terwakili dalam sistem administrasi. Peta harus diperlakukan sebagai alat bantu, bukan kebenaran tunggal. Audit lapangan dan konsultasi diperlukan untuk menemukan gang yang tidak tercatat, jalur informal, hambatan akses, atau fasilitas yang tidak berfungsi.
+
+Partisipasi publik yang bermakna dilakukan sebelum keputusan terkunci. Dokumen rencana perlu disediakan dalam format yang dapat dipahami, waktu konsultasi harus memungkinkan beragam kelompok hadir, dan tanggapan perlu dijawab. Catatan partisipasi sebaiknya menunjukkan masukan mana yang diterima, mana yang tidak, serta alasan keputusan. Dengan demikian, konsultasi menjadi bagian dari akuntabilitas.
+
+LATIHAN DAN PROYEK
+
+1. Mengapa kepadatan penduduk tidak cukup untuk menggambarkan kualitas lingkungan permukiman?
+2. Jelaskan hubungan lokasi hunian dengan biaya perjalanan rumah tangga.
+3. Apa perbedaan fungsi infrastruktur hijau dan jaringan drainase teknis?
+4. Mengapa data peta perlu diperiksa melalui pengamatan lapangan?
+5. Rancang indikator untuk menilai akses berjalan kaki menuju fasilitas umum.
+
+Proyek: pilih satu kawasan pada peta publik. Tandai hunian, fasilitas dasar, ruang terbuka, dan jalur pejalan kaki. Identifikasi satu kesenjangan akses. Usulkan perubahan yang mempertimbangkan biaya, dampak pada warga, pemeliharaan, dan indikator keberhasilan. Jangan memasuki lahan privat atau mengumpulkan data pribadi.

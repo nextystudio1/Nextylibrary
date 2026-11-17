@@ -335,3 +335,34 @@ LATIHAN
 
 PROYEK
 Buat prototipe alur pencarian dan peminjaman buku. Susun tiga skenario tugas, indikator keberhasilan, dan lembar observasi. Lakukan pengujian sukarela dengan persetujuan peserta, rangkum temuan tanpa identitas pribadi, lalu buat daftar perbaikan prioritas.
+
+BAB PENDALAMAN: ARSITEKTUR INFORMASI DAN NAVIGASI
+
+Arsitektur informasi adalah cara menyusun konten, fitur, dan hubungan antarbagian agar pengguna memahami di mana mereka berada serta ke mana harus menuju. Struktur yang baik mengikuti cara pengguna mengelompokkan tugas, bukan semata-mata struktur organisasi pembuat produk. Label menu perlu memakai istilah yang akrab, konsisten, dan cukup spesifik untuk membedakan pilihan.
+
+Hierarki dapat diuji dengan meminta calon pengguna mengelompokkan kartu berisi nama fitur atau mencari lokasi suatu informasi tanpa melihat desain akhir. Hasilnya memperlihatkan istilah yang membingungkan dan kategori yang tidak sesuai harapan. Navigasi utama sebaiknya menonjolkan tugas yang paling sering dilakukan, sedangkan fungsi jarang digunakan dapat ditempatkan pada bagian sekunder tanpa dibuat mustahil ditemukan.
+
+BAB PENDALAMAN: MODEL MENTAL DAN UMPAN BALIK
+
+Model mental adalah gambaran yang dibentuk pengguna tentang cara kerja suatu sistem. Ikon, label, urutan langkah, dan respons antarmuka membangun harapan tersebut. Ketika tindakan menghasilkan konsekuensi yang tidak terduga, pengguna kehilangan kepercayaan dan harus menebak-nebak keadaan sistem.
+
+Umpan balik perlu menjelaskan bahwa tindakan telah diterima, sedang diproses, berhasil, atau membutuhkan perhatian. Pesan kesalahan yang baik menyebutkan masalah dengan bahasa yang dapat dipahami dan langkah pemulihan yang aman. Hindari pesan yang hanya menampilkan kode teknis tanpa penjelasan. Untuk tindakan yang berdampak besar, sediakan konfirmasi dan cara membatalkan jika memungkinkan.
+
+BAB PENDALAMAN: DESAIN FORMULIR DAN PENCEGAHAN KESALAHAN
+
+Formulir sebaiknya meminta informasi yang benar-benar diperlukan. Label harus tetap terlihat ketika pengguna mulai mengetik; petunjuk tidak cukup disampaikan melalui teks contoh yang hilang. Kelompokkan bidang menurut tujuan, jelaskan format yang diharapkan, dan tampilkan kesalahan dekat dengan bidang terkait.
+
+Pencegahan kesalahan lebih baik daripada hanya menampilkan peringatan setelah kesalahan terjadi. Pilihan yang tidak berlaku dapat dinonaktifkan dengan alasan yang jelas. Sistem dapat menyimpan kemajuan sementara, memeriksa format masukan, dan meminta konfirmasi sebelum menghapus data. Namun, validasi jangan terlalu ketat hingga menolak variasi sah seperti nama atau alamat yang tidak mengikuti pola sempit.
+
+BAB PENDALAMAN: AKSESIBILITAS DAN DESAIN INKLUSIF
+
+Aksesibilitas berarti antarmuka dapat digunakan oleh orang dengan kemampuan, perangkat, dan situasi yang beragam. Kontras teks, ukuran huruf, navigasi papan ketik, teks alternatif gambar, struktur judul, dan dukungan pembaca layar perlu dipikirkan sejak awal. Warna tidak boleh menjadi satu-satunya penanda status; gunakan pula teks, bentuk, atau ikon yang jelas.
+
+Desain inklusif juga mempertimbangkan koneksi lambat, layar kecil, bahasa berbeda, serta pengguna yang baru mengenal teknologi. Pengujian dengan pengguna yang memiliki kebutuhan akses berbeda mengungkap hambatan yang mungkin tidak terlihat oleh tim pembuat. Aksesibilitas bukan tambahan kosmetik, melainkan bagian dari mutu dan keandalan produk.
+
+BAB PENDALAMAN: METRIK DAN ITERASI PRODUK
+
+Metrik interaksi harus terhubung dengan tujuan pengguna. Tingkat penyelesaian tugas, waktu menyelesaikan tugas, jumlah kesalahan, dan kebutuhan bantuan dapat memberi gambaran kegunaan. Angka tidak boleh ditafsirkan tanpa konteks: waktu singkat mungkin menunjukkan efisiensi, tetapi bisa pula berarti pengguna melewati informasi penting.
+
+Siklus iterasi dimulai dari masalah yang teramati, hipotesis perbaikan, prototipe, pengujian, dan keputusan berdasarkan bukti. Catat perubahan serta alasan memilihnya agar tim dapat membandingkan versi. Data analitik perlu diminimalkan dan dianonimkan sejauh mungkin; jangan mengumpulkan isi pribadi hanya karena secara teknis tersedia.
+

@@ -373,3 +373,34 @@ Latihan penerapan:
 3. Buat daftar data yang perlu dicadangkan dan jadwal pengujian pemulihan.
 4. Susun prosedur pelaporan jika anggota kehilangan akses akun.
 5. Jelaskan perbedaan autentikasi, otorisasi, dan prinsip hak akses minimum.
+
+BAB LANJUTAN: TATA KELOLA KEAMANAN, RESPONS INSIDEN, DAN PEMULIHAN
+
+Keamanan siber bukan hanya urusan perangkat lunak atau tim teknis. Organisasi perlu mengetahui aset yang dimiliki, proses yang bergantung pada aset tersebut, pihak yang bertanggung jawab, dan dampak jika layanan terganggu. Inventaris aset membantu menentukan prioritas perlindungan. Aset dapat mencakup akun, perangkat, aplikasi, data, layanan awan, serta hubungan dengan penyedia pihak ketiga.
+
+Penilaian risiko menggabungkan kemungkinan kejadian dan konsekuensinya. Penilaian kualitatif dapat membantu menentukan prioritas ketika data numerik terbatas, tetapi kategori harus didefinisikan secara konsisten. Risiko tidak berhenti setelah satu kali penilaian karena sistem, ancaman, dan proses kerja berubah. Organisasi perlu meninjau kembali asumsi ketika ada aplikasi baru, perubahan staf, integrasi, atau perubahan cara kerja.
+
+Kebijakan keamanan menerjemahkan tujuan menjadi aturan yang dapat diterapkan. Kebijakan perlu menjelaskan pengelolaan akun, penggunaan perangkat, klasifikasi informasi, pencadangan, pembaruan, dan pelaporan masalah. Aturan yang terlalu rumit cenderung diabaikan, sedangkan aturan yang terlalu umum sulit diaudit. Kebijakan harus disertai penanggung jawab, prosedur, pelatihan, serta mekanisme pengecualian yang tercatat.
+
+Manajemen identitas dan akses memastikan setiap orang memperoleh akses sesuai tugas. Prinsip hak akses minimum membatasi izin hanya pada hal yang diperlukan. Akses sementara perlu memiliki masa berlaku, sedangkan akses pegawai yang berpindah peran atau meninggalkan organisasi harus ditinjau. Akun bersama menyulitkan pelacakan tanggung jawab dan sebaiknya dihindari jika ada pilihan akun individual yang aman.
+
+Pencadangan harus dirancang berdasarkan kebutuhan pemulihan. Organisasi perlu menentukan data mana yang penting, seberapa banyak kehilangan data yang dapat diterima, dan berapa lama layanan boleh tidak tersedia. Salinan cadangan harus dilindungi dari akses tidak sah dan gangguan yang sama dengan sistem utama. Keberadaan berkas cadangan belum membuktikan bahwa pemulihan akan berhasil; pengujian berkala diperlukan.
+
+Respons insiden memerlukan alur komunikasi dan pembagian peran. Tahap umum mencakup persiapan, identifikasi, pembatasan dampak, pemulihan, dan pembelajaran setelah kejadian. Tindakan harus mengikuti prosedur organisasi dan arahan personel kompeten. Catatan waktu, sistem yang terdampak, keputusan, serta komunikasi perlu dipelihara agar penanganan dapat dievaluasi. Pelaporan yang cepat membantu organisasi mengambil keputusan berdasarkan informasi yang lebih lengkap.
+
+Komunikasi insiden harus jujur, terkoordinasi, dan tidak berspekulasi. Pihak terdampak perlu memperoleh informasi yang relevan tentang layanan, langkah perlindungan, dan pembaruan berikutnya. Organisasi harus mematuhi kewajiban pemberitahuan yang berlaku. Menyembunyikan kejadian atau membuat klaim keamanan yang belum diverifikasi dapat memperbesar kerugian dan merusak kepercayaan.
+
+Keamanan rantai pasok menjadi penting karena organisasi menggunakan perangkat lunak, perangkat keras, dan layanan dari pihak lain. Penilaian penyedia dapat mencakup praktik pembaruan, pengelolaan akses, lokasi dan pemrosesan data, dukungan insiden, serta ketentuan penghentian layanan. Ketergantungan pada satu penyedia perlu dipertimbangkan dalam rencana kesinambungan. Kontrak sebaiknya menjelaskan tanggung jawab keamanan secara terukur.
+
+Kesadaran keamanan perlu dibangun melalui kebiasaan, bukan hanya pelatihan satu kali. Simulasi edukatif, panduan pelaporan, dan contoh kasus dapat membantu anggota mengenali situasi mencurigakan. Budaya menyalahkan orang yang melaporkan masalah membuat insiden terlambat diketahui. Organisasi sebaiknya mendorong pelaporan cepat dan memperbaiki proses yang memungkinkan kesalahan berulang.
+
+Pengukuran keamanan dapat menggunakan indikator seperti waktu penanganan insiden, keberhasilan uji pemulihan, cakupan pembaruan, serta jumlah akun dengan akses yang tidak lagi diperlukan. Angka harus ditafsirkan sesuai konteks. Jumlah insiden yang dilaporkan meningkat bisa berarti masalah bertambah, tetapi juga dapat menunjukkan pelaporan membaik. Indikator perlu dikombinasikan dengan peninjauan kualitatif.
+
+Studi kasus: sebuah organisasi pendidikan mengalami gangguan pada layanan penyimpanan. Tim mengikuti prosedur respons, mengidentifikasi layanan yang terdampak, mengaktifkan komunikasi internal, dan menilai integritas cadangan sebelum pemulihan. Setelah layanan kembali, organisasi meninjau penyebab, memperbarui prosedur, dan menguji rencana pemulihan. Pembelajaran didokumentasikan tanpa menyebarkan rincian yang dapat meningkatkan risiko.
+
+Latihan penerapan:
+1. Buat inventaris aset informasi untuk organisasi kecil.
+2. Tentukan kriteria prioritas risiko dan jelaskan keterbatasannya.
+3. Susun rencana pencadangan berdasarkan kebutuhan pemulihan.
+4. Buat alur pelaporan insiden yang jelas bagi seluruh anggota.
+5. Tentukan indikator untuk mengevaluasi kesiapan pemulihan.

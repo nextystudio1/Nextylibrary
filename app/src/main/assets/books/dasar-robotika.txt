@@ -184,3 +184,27 @@ LATIHAN DAN PEMBAHASAN
 3. Apa manfaat umpan balik? Mengoreksi perbedaan antara kondisi aktual dan tujuan.
 4. Mengapa odometri dapat meleset? Kesalahan pengukuran gerak dapat terakumulasi.
 5. Apa ukuran keberhasilan robot publik? Fungsi, keselamatan, keandalan, aksesibilitas, privasi, dan kemudahan penggunaan.
+BAB LANJUTAN 1. ARSITEKTUR PERANGKAT KERAS DAN INTEGRASI SISTEM
+
+Robot dapat dibangun dari pengendali, sensor, aktuator, rangka mekanis, sumber daya, dan perangkat komunikasi. Pemilihan komponen harus mengikuti kebutuhan tugas. Sensor dipilih berdasarkan rentang ukur, resolusi, laju pembacaan, ketahanan lingkungan, konsumsi daya, dan antarmuka. Aktuator dipilih berdasarkan beban, kecepatan, ketelitian, dan batas operasi. Komponen yang cocok secara terpisah belum tentu cocok ketika diintegrasikan karena tegangan, arus, protokol, dan kebutuhan mekanisnya dapat berbeda.
+
+Dokumen antarmuka membantu menjelaskan pin, tegangan logika, konektor, format data, dan kondisi operasi. Sebelum sistem dirakit, buat diagram blok yang memisahkan aliran energi dan aliran informasi. Periksa kebutuhan catu daya pada kondisi normal dan saat beban puncak. Sediakan margin yang wajar sesuai lembar data komponen dan praktik keselamatan.
+
+BAB LANJUTAN 2. KALIBRASI SENSOR DAN PENGOLAHAN DATA
+
+Sensor menghasilkan pengukuran yang mengandung gangguan, bias, keterbatasan resolusi, dan kemungkinan kesalahan. Kalibrasi membandingkan keluaran sensor dengan acuan yang diketahui untuk memahami hubungan antara sinyal dan besaran fisik. Kalibrasi perlu dilakukan pada rentang penggunaan yang relevan; satu titik acuan belum tentu cukup untuk sensor dengan respons nonlinier.
+
+Penyaringan data dapat mengurangi gangguan, tetapi setiap filter memiliki konsekuensi. Rata-rata bergerak dapat menghaluskan variasi acak sekaligus menambah keterlambatan respons. Median berguna untuk mengurangi pengaruh pencilan tertentu. Pemilihan metode harus didasarkan pada karakter sinyal dan kebutuhan sistem. Simpan data mentah ketika memungkinkan agar analisis ulang dapat dilakukan.
+
+BAB LANJUTAN 3. KENDALI, KEADAAN SISTEM, DAN PENGUJIAN
+
+Sistem kendali membandingkan keadaan yang diukur dengan tujuan, lalu menentukan tindakan koreksi. Kendali terbuka tidak menggunakan umpan balik keluaran; kendali tertutup menggunakan pengukuran untuk menyesuaikan tindakan. Sistem tertutup dapat lebih tahan terhadap gangguan, tetapi memerlukan sensor dan rancangan yang stabil. Parameter kendali perlu diuji secara bertahap agar respons tidak berosilasi atau melampaui batas.
+
+Perangkat lunak robot sebaiknya memiliki keadaan yang jelas, misalnya mulai, siaga, menjalankan tugas, berhenti, dan kesalahan. Setiap keadaan memiliki kondisi masuk, tindakan, serta kondisi keluar. Pengujian dilakukan mulai dari komponen, integrasi, simulasi, hingga uji terbatas di lingkungan aman. Sediakan mekanisme berhenti yang dapat diakses, batas gerak, dan prosedur pemulihan. Jangan menguji robot bergerak tanpa pengawasan dan pengamanan area.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Mengapa kecocokan tegangan dan arus perlu diperiksa saat integrasi?
+2. Apa tujuan kalibrasi sensor?
+3. Bandingkan rata-rata bergerak dan median untuk data sensor yang bising.
+4. Jelaskan perbedaan kendali terbuka dan tertutup.
+5. Susun daftar uji keselamatan sebelum robot edukasi dijalankan.

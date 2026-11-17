@@ -226,3 +226,35 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Mengapa daya pada label tidak selalu sama dengan konsumsi aktual?
 4. Sebutkan tanda instalasi yang perlu dilaporkan kepada orang dewasa atau teknisi.
 5. Jelaskan dua strategi desain pasif yang dapat mengurangi kebutuhan energi bangunan.
+BAB LANJUTAN. EFISIENSI, SISTEM KELISTRIKAN, DAN PEMBACAAN KONSUMSI
+
+Energi listrik yang digunakan rumah berasal dari sistem pembangkitan, transmisi, distribusi, dan instalasi pelanggan. Pembangkit mengubah energi primer menjadi energi listrik melalui teknologi yang berbeda. Listrik kemudian dinaikkan tegangannya untuk transmisi jarak jauh, diturunkan pada gardu, lalu disalurkan melalui jaringan distribusi. Sistem ini harus menjaga keseimbangan antara pasokan dan permintaan karena kebutuhan listrik berubah sepanjang hari.
+
+Daya terpasang perangkat tidak selalu sama dengan daya rata-rata yang digunakan. Kulkas, misalnya, bekerja dalam siklus sehingga kompresornya tidak terus-menerus memakai daya maksimum. Sebaliknya, perangkat pemanas dapat menggunakan daya tinggi selama dinyalakan. Untuk memperkirakan konsumsi, catat daya nominal, pola operasi, dan durasi pemakaian. Jika tersedia, pengukuran energi dari alat ukur yang sesuai dapat memberikan gambaran lebih baik daripada perkiraan berdasarkan label saja.
+
+Energi listrik dihitung dengan hubungan energi sama dengan daya dikalikan waktu untuk daya yang dianggap konstan. Jika perangkat 500 watt digunakan selama dua jam, konsumsi idealnya satu kilowatt-jam. Jika daya berubah sepanjang waktu, energi merupakan akumulasi daya terhadap waktu. Perhitungan sederhana berguna untuk memahami skala penggunaan, tetapi tidak menggantikan pencatatan meter dan ketentuan tarif yang berlaku.
+
+Efisiensi menyatakan perbandingan keluaran yang berguna terhadap masukan energi. Perangkat dengan efisiensi lebih tinggi dapat menyediakan layanan yang sama dengan energi lebih sedikit, tetapi keputusan pembelian juga perlu mempertimbangkan harga awal, umur pakai, kemudahan perawatan, dan kesesuaian kapasitas. Lampu LED umumnya menggunakan energi lebih rendah dibanding lampu pijar untuk tingkat pencahayaan sebanding. Namun, pencahayaan yang terlalu terang atau dibiarkan menyala di ruang kosong tetap merupakan pemborosan.
+
+Penghematan energi sebaiknya dimulai dari layanan yang ingin dipertahankan. Untuk pendinginan ruang, kurangi panas yang masuk melalui peneduhan, ventilasi yang sesuai, dan penutupan celah yang tidak diinginkan. Atur suhu perangkat pendingin secara wajar dan rawat filter sesuai petunjuk produsen. Untuk lemari pendingin, pastikan pintu tertutup baik dan sirkulasi udara di sekitarnya tidak terhalang. Kebiasaan sederhana dapat memberi hasil tanpa mengorbankan kebutuhan dasar penghuni.
+
+Beban listrik rumah terdiri dari berbagai perangkat yang dapat menyala bersamaan. Daya total sesaat penting ketika menilai kapasitas sambungan. Jika banyak perangkat berdaya besar digunakan bersamaan, pemutus arus dapat bekerja sesuai karakteristik perlindungannya. Jangan mengatasi gangguan dengan mengganti pengaman ke kapasitas lebih besar tanpa pemeriksaan teknisi kompeten. Pengaman dipilih untuk melindungi penghantar dan instalasi, bukan sekadar agar perangkat tidak mudah terputus.
+
+Instalasi listrik rumah memerlukan penghantar dengan ukuran yang sesuai, sambungan yang baik, pembumian, serta perangkat proteksi. Kabel yang rusak, sambungan longgar, beban berlebih, dan lingkungan lembap dapat meningkatkan risiko. Jangan membuka panel, memperbaiki kabel terbuka, atau menyentuh komponen instalasi yang bertegangan. Jika muncul bau terbakar, percikan, panas tidak wajar, atau pemutus arus berulang kali bekerja, hentikan penggunaan area yang bermasalah bila aman dilakukan dan minta bantuan orang dewasa serta teknisi listrik yang kompeten. Jangan melakukan eksperimen kelistrikan pada tegangan rumah.
+
+Label energi dan spesifikasi produk membantu membandingkan perangkat, tetapi angka perlu dibaca sesuai kondisi pengujian. Kapasitas pendinginan, suhu lingkungan, frekuensi buka-tutup pintu, dan cara penggunaan dapat membuat konsumsi nyata berbeda. Perbandingan yang adil menggunakan layanan yang setara, misalnya kapasitas dan fungsi yang sama. Biaya kepemilikan total dapat dihitung dengan menjumlahkan harga pembelian, perkiraan biaya energi, dan perawatan selama masa penggunaan, dengan menyatakan asumsi tarif serta jam operasi.
+
+Sumber energi juga memiliki dampak lingkungan yang berbeda. Bahan bakar fosil menghasilkan emisi saat dibakar, sementara pembangkit terbarukan memiliki dampak dari bahan, lahan, konstruksi, dan pengelolaan akhir masa pakai. Penilaian tidak cukup berdasarkan satu tahap saja. Analisis daur hidup meninjau bahan baku, pembuatan, operasi, dan akhir masa pakai. Pilihan energi yang baik mempertimbangkan keandalan, keterjangkauan, dampak lingkungan, dan kebutuhan masyarakat setempat.
+
+CONTOH PERHITUNGAN
+Sebuah rumah menggunakan tiga lampu 10 watt selama rata-rata 6 jam per hari. Energi hariannya adalah 3 dikalikan 10 watt dikalikan 6 jam, yaitu 180 watt-jam atau 0,18 kilowatt-jam. Dalam 30 hari, perkiraan menjadi 5,4 kilowatt-jam. Ini hanya menghitung lampu tersebut, bukan seluruh rumah, dan mengasumsikan durasi pemakaian rata-rata benar.
+
+LATIHAN DAN PEMBAHASAN
+1. Perangkat 200 watt menyala 3 jam. Berapa energi yang digunakan? Pembahasan: 600 watt-jam atau 0,6 kilowatt-jam.
+2. Mengapa daya nominal kulkas tidak selalu sama dengan daya rata-rata harian? Pembahasan: kompresor bekerja dalam siklus dan dipengaruhi kondisi suhu serta penggunaan.
+3. Mengapa pengaman listrik tidak boleh diganti sembarangan dengan kapasitas lebih besar? Pembahasan: pengaman harus sesuai kemampuan penghantar dan rancangan instalasi agar perlindungan tetap efektif.
+4. Apa yang perlu disamakan saat membandingkan efisiensi dua perangkat? Pembahasan: fungsi, kapasitas layanan, kondisi pengujian, serta pola penggunaan.
+5. Sebutkan tiga bagian analisis daur hidup. Pembahasan: bahan dan produksi, tahap operasi, serta akhir masa pakai; pengangkutan juga dapat dimasukkan.
+
+PROYEK MINI
+Buat inventaris energi rumah secara konseptual tanpa membuka atau menyentuh instalasi listrik. Catat nama perangkat, daya pada label, perkiraan jam pemakaian, dan jumlah hari penggunaan. Hitung perkiraan energi bulanan dengan satuan yang konsisten. Pilih dua peluang penghematan yang tetap menjaga kenyamanan dan keselamatan, lalu jelaskan asumsi serta keterbatasan hitungan.

@@ -261,3 +261,48 @@ LATIHAN DAN PEMBAHASAN
 
 PROYEK MINI
 Pilih masalah sederhana di lingkungan belajar, misalnya keterlambatan pengumpulan tugas. Tulis rumusan masalah tanpa menyalahkan individu, buat diagram kemungkinan penyebab, dan susun tiga solusi alternatif. Tentukan kriteria yang mencakup efektivitas, keadilan, biaya, dan kemudahan. Rancang uji coba terbatas, ukuran hasil, serta kondisi yang membuat solusi perlu diubah.
+
+BAB LANJUTAN: MENILAI ARGUMEN DAN BUKTI
+
+Argumen terdiri atas klaim dan alasan yang mendukungnya. Premis adalah pernyataan yang digunakan sebagai dasar, sedangkan kesimpulan adalah pernyataan yang hendak ditunjukkan. Memisahkan keduanya membantu pembaca menilai apakah alasan benar-benar relevan. Sebuah tulisan dapat terdengar meyakinkan karena bahasanya tegas, tetapi ketegasan tidak menggantikan bukti.
+
+Argumen deduktif bertujuan menjamin kesimpulan jika premis benar dan bentuk penalarannya valid. Argumen induktif mendukung kesimpulan dengan derajat kekuatan tertentu berdasarkan pola atau bukti. Kesimpulan induktif tetap terbuka terhadap informasi baru. Dalam kehidupan sehari-hari, banyak keputusan menggunakan penalaran induktif karena informasi tidak pernah lengkap.
+
+Validitas berbeda dari kebenaran premis. Bentuk argumen dapat valid walaupun salah satu premisnya tidak sesuai kenyataan. Karena itu, evaluasi perlu memeriksa struktur dan mutu bukti. Argumen yang kuat membutuhkan premis yang dapat dipertanggungjawabkan, definisi yang jelas, dan hubungan yang relevan antara alasan dengan kesimpulan.
+
+Korelasi tidak dengan sendirinya menunjukkan sebab-akibat. Dua variabel dapat bergerak bersama karena salah satunya memengaruhi yang lain, karena ada faktor ketiga, atau karena pola kebetulan. Untuk menilai sebab-akibat, peneliti perlu mempertimbangkan urutan waktu, mekanisme yang masuk akal, faktor pengganggu, dan desain penelitian. Kesimpulan harus sebanding dengan kekuatan bukti.
+
+KEKELIRUAN PENALARAN YANG SERING TERJADI
+
+Generalisasi tergesa-gesa terjadi ketika kesimpulan luas dibuat dari contoh yang terlalu sedikit atau tidak mewakili. Pengalaman satu orang dapat menjadi petunjuk untuk bertanya lebih lanjut, tetapi tidak cukup untuk menggambarkan seluruh populasi. Penilaian sampel perlu memperhatikan cara pemilihan, ukuran, dan variasi kelompok.
+
+Serangan pribadi mengalihkan pembahasan dari isi argumen ke karakter orang yang menyampaikan. Identitas pembicara kadang relevan untuk menilai konflik kepentingan atau keahlian, tetapi tidak menggantikan pemeriksaan klaim. Demikian pula, popularitas suatu pendapat tidak otomatis membuktikan kebenarannya.
+
+Dilema palsu menyajikan seolah hanya ada dua pilihan padahal alternatif lain mungkin tersedia. Sebelum menerima pilihan yang dibatasi, tanyakan apakah ada opsi campuran, tahapan, atau pendekatan berbeda. Kekeliruan sebab palsu menganggap satu peristiwa menyebabkan peristiwa lain hanya karena terjadi lebih dahulu atau bersamaan.
+
+Argumen dari ketidaktahuan menyatakan bahwa suatu klaim benar karena belum terbukti salah, atau salah karena belum terbukti benar. Ketiadaan bukti dapat mencerminkan keterbatasan pencarian, pengukuran, atau akses data. Kesimpulan yang bertanggung jawab menyatakan tingkat pengetahuan saat ini dan jenis bukti yang masih diperlukan.
+
+MEMECAHKAN MASALAH YANG TIDAK TERSTRUKTUR
+
+Masalah nyata sering memiliki tujuan yang saling bersaing. Sebuah solusi mungkin murah tetapi lambat, cepat tetapi tidak merata, atau efektif tetapi sulit dipelihara. Langkah awal adalah membedakan gejala dari penyebab. Keterlambatan layanan, misalnya, dapat berasal dari jadwal, alur persetujuan, kapasitas petugas, atau ketidaklengkapan informasi.
+
+Peta sebab-akibat membantu mengelompokkan kemungkinan penyebab, tetapi tidak membuktikan hubungan. Setiap dugaan perlu diuji melalui data, observasi, wawancara yang sesuai, atau percobaan terbatas. Tim sebaiknya mencatat asumsi dan bukti yang dapat menggugurkannya. Cara ini mencegah kelompok hanya mencari informasi yang mendukung gagasan awal.
+
+Kriteria keputusan perlu ditetapkan sebelum memilih solusi. Kriteria dapat meliputi manfaat, biaya, keadilan, keselamatan, waktu, kemudahan pemeliharaan, dan dampak lingkungan. Bobot kriteria dapat digunakan untuk membandingkan alternatif, tetapi angka bobot tetap mencerminkan pilihan nilai. Hasil matriks keputusan sebaiknya menjadi alat diskusi, bukan pengganti pertimbangan manusia.
+
+Eksperimen kecil dapat menguji apakah solusi bekerja dalam kondisi terbatas. Uji coba harus memiliki tujuan, ukuran hasil, batas keselamatan, dan cara menghentikan kegiatan jika muncul masalah. Hasil negatif bukan kegagalan belajar; hasil itu memberi informasi tentang asumsi yang perlu diperbaiki. Perlu dibedakan antara solusi yang tidak efektif dan pelaksanaan yang belum sesuai rancangan.
+
+BERPIKIR SISTEM DAN UMPAN BALIK
+
+Sistem terdiri atas unsur yang saling berhubungan. Perubahan satu bagian dapat menghasilkan konsekuensi di bagian lain. Contohnya, mempercepat satu tahap layanan dapat memindahkan antrean ke tahap berikutnya. Karena itu, evaluasi perlu melihat alur keseluruhan, bukan hanya indikator lokal.
+
+Umpan balik penguat memperbesar perubahan, sedangkan umpan balik penyeimbang menahan perubahan menuju kondisi tertentu. Dalam sistem persediaan, peningkatan permintaan dapat mendorong pemesanan lebih banyak, tetapi keterlambatan pasokan dan kapasitas gudang dapat membatasi respons. Diagram sebab-akibat membantu mengidentifikasi hubungan, jeda waktu, dan kemungkinan efek samping.
+
+Pemecahan masalah yang baik bersifat iteratif. Setelah solusi diterapkan, tim memantau indikator, mengumpulkan masukan, dan membandingkan hasil dengan tujuan awal. Jika konteks berubah, solusi dapat disesuaikan. Dokumentasi keputusan dan alasan perubahan membuat proses belajar dapat digunakan oleh orang lain.
+
+LATIHAN BAB
+1. Bedakan validitas argumen dan kebenaran premis.
+2. Mengapa korelasi tidak cukup untuk membuktikan sebab-akibat?
+3. Berikan contoh dilema palsu dalam keputusan sehari-hari.
+4. Mengapa kriteria solusi sebaiknya ditentukan sebelum memilih alternatif?
+5. Jelaskan bagaimana umpan balik dapat mengubah perilaku suatu sistem.

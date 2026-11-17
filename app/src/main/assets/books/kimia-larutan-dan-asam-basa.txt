@@ -204,3 +204,38 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Apa yang dimaksud larutan jenuh dan kesetimbangan dinamis?
 4. Bedakan teori asam-basa Arrhenius dan Brønsted-Lowry.
 5. Mengapa larutan penyangga memiliki kapasitas terbatas?
+
+BAB LANJUTAN: KESETIMBANGAN KELARUTAN
+
+Kelarutan menyatakan jumlah maksimum zat yang dapat larut dalam pelarut pada kondisi tertentu. Larutan jenuh berada dalam kesetimbangan dinamis dengan zat yang belum larut. Pada tingkat partikel, proses pelarutan dan pembentukan kembali padatan dapat berlangsung bersamaan dengan laju yang seimbang.
+
+Kelarutan dipengaruhi suhu, tekanan untuk gas, sifat pelarut, dan interaksi antarpartikel. Banyak padatan memiliki kelarutan yang meningkat ketika suhu naik, tetapi tidak semua mengikuti pola yang sama. Gas umumnya lebih mudah larut pada suhu lebih rendah dan tekanan parsial lebih tinggi. Hubungan tersebut penting untuk memahami minuman berkarbonasi dan proses lingkungan.
+
+Hasil kali kelarutan digunakan untuk menggambarkan kesetimbangan garam yang sukar larut. Perbandingan hasil kali ion dengan konstanta kesetimbangan membantu menilai apakah pengendapan mungkin terjadi. Perhitungan harus memperhatikan stoikiometri dan kondisi larutan. Model sederhana dapat memiliki keterbatasan pada larutan dengan konsentrasi tinggi karena aktivitas ion tidak sama dengan konsentrasi.
+
+BAB LANJUTAN: ASAM, BASA, DAN KESETIMBANGAN
+
+Menurut Brønsted-Lowry, asam mendonorkan proton dan basa menerimanya. Pasangan asam-basa konjugasi berbeda satu proton. Air dapat bertindak sebagai asam maupun basa dalam reaksi yang berbeda. Konsep ini membantu menjelaskan reaksi yang tidak terbatas pada larutan air.
+
+Asam lemah hanya terionisasi sebagian dalam air, sedangkan asam kuat terionisasi hampir seluruhnya pada kondisi yang sesuai. Kekuatan asam berbeda dari konsentrasi larutan. Larutan asam lemah yang pekat dapat memiliki konsentrasi lebih besar daripada larutan asam kuat yang sangat encer. Karena itu, istilah kuat dan pekat tidak boleh dipertukarkan.
+
+pH didefinisikan melalui aktivitas ion hidrogen, dan pada pendekatan larutan encer sering diperkirakan menggunakan konsentrasi. Skala pH bersifat logaritmik; perubahan satu unit berkaitan dengan perubahan sepuluh kali pada aktivitas ion hidrogen. Pengukuran pH harus memperhatikan kalibrasi alat, suhu, dan sifat sampel.
+
+BAB LANJUTAN: LARUTAN PENYANGGA DAN KAPASITASNYA
+
+Larutan penyangga mengurangi perubahan pH ketika sejumlah kecil asam atau basa ditambahkan. Sistem ini biasanya terdiri atas asam lemah dan basa konjugasinya atau basa lemah dan asam konjugasinya. Penyangga bekerja karena kedua komponen dapat merespons penambahan zat dalam batas tertentu.
+
+Persamaan Henderson-Hasselbalch dapat membantu memperkirakan pH penyangga pada kondisi yang sesuai. Namun persamaan tersebut tidak berarti pH dapat dipertahankan tanpa batas. Kapasitas penyangga bergantung pada jumlah total komponen dan perbandingannya. Penambahan asam atau basa yang terlalu banyak dapat menghabiskan salah satu komponen dan mengubah pH secara nyata.
+
+Penyangga penting dalam sistem biologis, pengolahan pangan, laboratorium, dan proses industri. Contoh biologis perlu dipahami sebagai sistem yang diatur bersama mekanisme lain, bukan hanya satu pasangan zat. Dalam pekerjaan laboratorium, larutan penyangga dibuat dan digunakan sesuai prosedur keselamatan serta petunjuk pengajar.
+
+LATIHAN
+1. Apa yang dimaksud kesetimbangan dinamis pada larutan jenuh?
+2. Mengapa kelarutan gas dipengaruhi suhu dan tekanan?
+3. Apa perbedaan kekuatan asam dan konsentrasi?
+4. Mengapa skala pH bersifat logaritmik?
+5. Mengapa larutan penyangga memiliki kapasitas terbatas?
+
+PROYEK KONSEPTUAL
+Buat peta konsep yang menghubungkan kelarutan, kesetimbangan, asam-basa, pH, dan larutan penyangga. Sertakan contoh penggunaan dalam kehidupan dan tuliskan asumsi yang digunakan pada setiap hubungan.
+

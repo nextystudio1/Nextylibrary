@@ -213,3 +213,40 @@ LATIHAN PENDALAMAN
 3. Mengapa metadata lokasi perlu diperiksa sebelum publikasi?
 4. Apa saja yang perlu dijelaskan dalam persetujuan publikasi foto?
 5. Bagaimana keterangan foto dapat mengubah interpretasi audiens?
+
+BAB LANJUTAN: PENCAHAYAAN DALAM BERBAGAI KONDISI
+
+Cahaya memiliki arah, intensitas, warna, dan kualitas. Cahaya keras menghasilkan batas bayangan yang tegas, sedangkan cahaya menyebar menghasilkan transisi yang lebih lembut. Keduanya bukan kategori baik dan buruk. Pilihan bergantung pada tujuan foto. Potret untuk menunjukkan tekstur dapat memanfaatkan cahaya menyamping, sementara dokumentasi benda yang perlu terbaca merata mungkin membutuhkan pencahayaan yang lebih menyebar.
+
+Suhu warna menjelaskan kecenderungan warna sumber cahaya. Cahaya pagi, lampu pijar, lampu fluoresen, dan layar dapat menghasilkan kesan warna berbeda. Pengaturan keseimbangan putih membantu kamera menafsirkan warna netral. Namun, koreksi otomatis tidak selalu memahami suasana yang ingin dipertahankan. Karena itu, fotografer perlu memeriksa hasil pada beberapa kondisi tampilan dan tidak mengandalkan layar yang kecerahannya terlalu tinggi.
+
+Rentang dinamis adalah rentang terang dan gelap yang dapat direkam dengan detail. Adegan dengan langit sangat terang dan objek teduh dapat melampaui kemampuan sensor. Fotografer dapat mengubah posisi, memilih waktu berbeda, atau menentukan bagian adegan yang paling penting. Menggabungkan beberapa eksposur perlu dilakukan secara transparan jika foto dimaksudkan sebagai dokumentasi faktual.
+
+LATIHAN KAJIAN CAHAYA
+Buat tiga foto benda yang sama: cahaya dari depan, dari samping, dan cahaya menyebar. Catat perubahan tekstur, bayangan, dan keterbacaan. Jangan mengubah kesimpulan hanya karena satu foto terlihat lebih dramatis. Jelaskan foto mana yang paling sesuai untuk katalog produk dan mana yang paling sesuai untuk memperlihatkan tekstur.
+
+BAB LANJUTAN: LENSA, JARAK, DAN PERSPEKTIF
+
+Panjang fokus memengaruhi sudut pandang dan ukuran relatif subjek dalam bingkai. Namun, perspektif terutama berubah ketika posisi kamera berubah. Memotret wajah dari jarak sangat dekat dapat membuat bagian yang lebih dekat ke lensa tampak lebih besar. Menggunakan lensa lebih panjang dari jarak yang lebih jauh dapat menghasilkan komposisi berbeda tanpa berarti lensa tersebut secara ajaib mengubah bentuk ruang.
+
+Kedalaman bidang adalah rentang jarak yang tampak cukup tajam. Nilainya dipengaruhi bukaan, panjang fokus, jarak kamera ke subjek, dan ukuran tampilan akhir. Latar belakang kabur dapat membantu memisahkan subjek, tetapi tidak selalu tepat. Foto dokumentasi laboratorium, misalnya, mungkin perlu memperlihatkan beberapa objek sekaligus dengan jelas.
+
+Distorsi lensa dapat terlihat sebagai garis yang melengkung atau perubahan bentuk di tepi bingkai. Koreksi perangkat lunak berguna, tetapi koreksi ekstrem dapat memotong bagian gambar. Untuk dokumentasi arsitektur, kamera sebaiknya dijaga agar garis vertikal tidak berubah secara tidak sengaja. Jika koreksi dilakukan, simpan versi asli dan catat perubahan penting.
+
+STUDI KASUS
+Sebuah foto ruang kelas tampak membuat ruangan lebih luas daripada kenyataannya. Periksa apakah fotografer menggunakan sudut sangat lebar, posisi dekat dinding, atau koreksi perspektif. Jelaskan mengapa foto tersebut tidak cukup untuk mengukur luas ruangan. Pengukuran memerlukan metode dan alat yang sesuai, bukan perkiraan dari gambar.
+
+BAB LANJUTAN: ALUR KERJA DAN PENGARSIPAN
+
+Alur kerja yang baik memisahkan berkas asli, hasil pilihan, dan hasil suntingan. Gunakan nama berkas konsisten yang memuat tanggal atau kode proyek, tetapi hindari memasukkan data pribadi yang tidak diperlukan. Buat salinan cadangan pada media berbeda dan periksa secara berkala apakah berkas benar-benar dapat dibuka.
+
+Metadata dapat membantu pencarian, misalnya tanggal pemotretan, jenis kamera, dan pengaturan teknis. Metadata lokasi perlu ditinjau sebelum foto dibagikan secara luas. Foto kegiatan sekolah atau rumah dapat tanpa sengaja mengungkap lokasi rutin. Hapus informasi yang tidak diperlukan ketika keselamatan dan privasi menjadi pertimbangan.
+
+Penyuntingan sebaiknya mengikuti tujuan. Penyesuaian paparan, kontras, dan pemotongan dapat membantu keterbacaan. Menghapus objek penting, menambahkan elemen, atau mengubah urutan peristiwa dapat mengubah makna. Untuk karya seni, manipulasi dapat menjadi bagian dari ekspresi, tetapi untuk dokumentasi berita atau penelitian, perubahan harus dibatasi dan dijelaskan.
+
+PROYEK AKHIR
+Susun esai foto lima gambar tentang satu kegiatan komunitas dengan izin yang sesuai. Setiap gambar memiliki keterangan yang menjawab apa yang terlihat, kapan dibuat, dan konteks yang telah diverifikasi. Tambahkan catatan metode pemilihan gambar, proses penyuntingan, serta keterbatasan cerita yang dapat disampaikan oleh lima foto tersebut.
+
+KUNCI REFLEKSI
+Foto yang menarik belum tentu paling informatif. Pilih gambar berdasarkan tujuan, bukti, etika, dan kebutuhan pembaca. Jika suatu detail tidak dapat diverifikasi, jangan menyajikannya sebagai fakta.
+

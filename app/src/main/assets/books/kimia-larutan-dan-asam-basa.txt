@@ -180,3 +180,27 @@ LATIHAN DAN PEMBAHASAN
 3. Apa beda titik ekuivalen dan titik akhir titrasi? Titik ekuivalen ditentukan stoikiometri; titik akhir oleh sinyal indikator atau alat.
 4. Apa pengaruh ion senama terhadap kelarutan? Umumnya menurunkan kelarutan garam yang relevan.
 5. Mengapa satu nilai pH tidak cukup menilai mutu air? Karena parameter kimia, fisik, dan biologis lain juga diperlukan.
+BAB LANJUTAN 1. KONSENTRASI DAN PERHITUNGAN STOIKIOMETRI
+
+Konsentrasi menyatakan komposisi larutan dengan cara tertentu. Molaritas didefinisikan sebagai jumlah mol zat terlarut per liter larutan. Untuk menggunakannya, satuan volume harus dikonversi ke liter dan jumlah zat dinyatakan dalam mol. Hubungan jumlah mol, massa, dan massa molar membantu menghubungkan pengukuran laboratorium dengan persamaan reaksi.
+
+Dalam reaksi kimia, koefisien persamaan setara menunjukkan perbandingan jumlah partikel atau mol, bukan perbandingan massa secara langsung. Persamaan harus setara agar jumlah atom setiap unsur terjaga. Perhitungan stoikiometri dimulai dengan menuliskan reaksi setara, mengubah data menjadi mol, menggunakan rasio koefisien, lalu mengubah hasil ke satuan yang diminta. Semua hasil perlu diperiksa kewajaran dan satuannya.
+
+BAB LANJUTAN 2. KESETIMBANGAN KELARUTAN DAN FAKTOR PENGARUH
+
+Larutan jenuh berada dalam kesetimbangan dinamis dengan zat terlarut yang belum larut pada kondisi tertentu. Hasil kali kelarutan menggambarkan hubungan konsentrasi ion pada kesetimbangan untuk senyawa yang sukar larut. Perubahan konsentrasi ion dapat menggeser kesetimbangan dan memengaruhi apakah endapan terbentuk.
+
+Suhu dapat mengubah kelarutan, tetapi arah dan besarnya perubahan bergantung pada zat serta proses pelarutannya. Karena itu, pernyataan bahwa semua zat lebih mudah larut pada suhu tinggi tidak selalu benar. Tekanan terutama berpengaruh pada kelarutan gas dalam cairan. Model kesetimbangan memberi kerangka untuk menjelaskan fenomena, tetapi penerapannya memerlukan asumsi tentang suhu, aktivitas, dan komposisi larutan.
+
+BAB LANJUTAN 3. ASAM BASA, PENYANGGA, DAN INDIKATOR
+
+Asam dan basa dapat dijelaskan melalui beberapa teori. Dalam konsep Brønsted-Lowry, asam mendonorkan proton dan basa menerimanya. Pasangan asam-basa konjugasi berbeda satu proton. Kekuatan asam berkaitan dengan kecenderungan melepaskan proton dalam pelarut tertentu, bukan sekadar konsentrasi larutan.
+
+Larutan penyangga mengurangi perubahan pH ketika sejumlah kecil asam atau basa ditambahkan. Sistem ini penting dalam proses biologis dan berbagai proses kimia. Kapasitas penyangga terbatas; penambahan yang terlalu besar dapat mengubah pH secara signifikan. Indikator asam-basa berubah warna pada rentang pH tertentu, sehingga pemilihannya harus sesuai dengan titik akhir pengukuran yang diinginkan.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Jelaskan arti molaritas dan satuannya.
+2. Mengapa persamaan reaksi harus disetarakan sebelum perhitungan?
+3. Apa yang dimaksud larutan jenuh dan kesetimbangan dinamis?
+4. Bedakan teori asam-basa Arrhenius dan Brønsted-Lowry.
+5. Mengapa larutan penyangga memiliki kapasitas terbatas?

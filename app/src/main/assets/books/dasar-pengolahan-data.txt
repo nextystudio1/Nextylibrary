@@ -280,3 +280,44 @@ LATIHAN DAN PEMBAHASAN
 
 PROYEK MINI
 Buat dataset kecil berisi sedikitnya 20 catatan kegiatan belajar fiktif dengan variabel tanggal, durasi, jenis kegiatan, dan penilaian pemahaman. Tetapkan kamus data dan aturan validasi sebelum membuat data. Sisipkan beberapa kesalahan yang aman untuk latihan, seperti format tanggal tidak seragam atau satu kategori salah eja. Bersihkan salinan data, simpan catatan perubahan, lalu buat satu tabel ringkasan dan satu grafik. Tulis laporan singkat yang membedakan temuan, keterbatasan, dan pertanyaan lanjutan. Jangan memasukkan nama, nomor telepon, atau informasi pribadi nyata.
+
+BAB LANJUTAN: KUALITAS DATA DAN TRANSFORMASI
+
+Kualitas data tidak hanya ditentukan oleh banyaknya baris. Data yang lengkap tetapi definisinya tidak konsisten dapat menghasilkan kesimpulan keliru. Dimensi kualitas yang umum diperiksa meliputi akurasi, kelengkapan, konsistensi, ketepatan waktu, keunikan, dan kesesuaian dengan tujuan. Setiap dimensi perlu diterjemahkan menjadi aturan pemeriksaan yang dapat dilakukan.
+
+Validasi tipe memastikan nilai sesuai jenis yang diharapkan. Kolom tanggal harus dapat dibaca sebagai tanggal, nilai jumlah harus mengikuti aturan numerik, dan kategori harus berasal dari daftar yang disepakati. Validasi rentang memeriksa nilai yang tidak masuk akal menurut konteks. Aturan tidak boleh terlalu kaku hingga menolak variasi sah; pengecualian perlu ditinjau dan dicatat.
+
+Duplikasi dapat terjadi karena satu entitas tercatat beberapa kali, tetapi baris berulang tidak selalu salah. Dalam data transaksi, dua pembelian dengan nilai sama pada tanggal sama mungkin merupakan transaksi berbeda. Kunci unik perlu dirancang berdasarkan identitas kejadian, bukan sekadar kemiripan beberapa kolom. Penghapusan duplikasi harus didukung aturan dan catatan.
+
+Normalisasi dan standardisasi membantu menyatukan format. Nama wilayah, satuan, tanggal, dan kategori perlu memiliki kamus data. Konversi satuan harus mempertahankan makna dan ketelitian yang sesuai. Data mentah sebaiknya disimpan sebagai sumber yang tidak diubah, sementara hasil pembersihan dibuat pada salinan dengan riwayat transformasi.
+
+INTEGRASI DAN STRUKTUR DATA
+
+Integrasi menggabungkan beberapa sumber berdasarkan kunci atau aturan pencocokan. Sebelum menggabungkan tabel, periksa tingkat granularitasnya. Satu tabel mungkin memiliki satu baris per pelanggan, sedangkan tabel lain satu baris per transaksi. Penggabungan tanpa memahami relasi dapat menggandakan baris dan mengubah total secara tidak sengaja.
+
+Kunci primer mengidentifikasi satu catatan secara unik dalam tabel, sedangkan kunci asing menghubungkan catatan ke tabel lain. Relasi satu-ke-satu, satu-ke-banyak, dan banyak-ke-banyak memerlukan desain berbeda. Tabel penghubung sering digunakan untuk relasi banyak-ke-banyak. Pemeriksaan jumlah baris sebelum dan sesudah join membantu menemukan penggandaan yang tidak diharapkan.
+
+Data terstruktur memiliki skema yang relatif jelas, sedangkan data semi-terstruktur seperti JSON memiliki struktur bertingkat yang dapat bervariasi. Data tidak terstruktur seperti teks dan gambar memerlukan metode pemrosesan berbeda. Pemilihan format harus mempertimbangkan penggunaan, interoperabilitas, ukuran, dan kebutuhan jangka panjang.
+
+PRIVASI, KEAMANAN, DAN ETIKA PENGOLAHAN
+
+Data pribadi perlu dikumpulkan sesuai tujuan dan dasar yang sah. Pengolah data harus menghindari memasukkan identitas langsung ke laporan yang tidak membutuhkannya. Penghapusan nama belum tentu membuat data anonim jika kombinasi lokasi, usia, waktu, dan atribut lain masih dapat mengidentifikasi seseorang. Pembatasan akses dan pengurangan detail merupakan bagian dari pengelolaan risiko.
+
+Data sintetis dapat membantu demonstrasi dan pengujian tanpa memakai catatan pribadi nyata, tetapi kualitasnya bergantung pada cara pembuatan dan tujuan penggunaan. Data sintetis bukan otomatis bebas risiko. Jika terlalu mirip dengan sumber, pola langka dapat tetap terungkap. Dokumentasi perlu menjelaskan bagaimana data dibuat dan keterbatasannya.
+
+Kontrol versi membantu melacak perubahan pada kode, skema, dan proses transformasi. Setiap perubahan penting sebaiknya memiliki alasan, tanggal, dan penanggung jawab. Ketika hasil berubah, tim dapat menelusuri apakah penyebabnya berasal dari data baru, aturan pembersihan, atau perbaikan kode. Reproduksibilitas memerlukan lingkungan dan dependensi yang dicatat.
+
+DARI DATA MENJADI KEPUTUSAN
+
+Ringkasan statistik membantu melihat pola, tetapi angka agregat dapat menyembunyikan perbedaan kelompok. Rata-rata perlu dibaca bersama median, rentang, dan distribusi. Pemilihan ukuran bergantung pada bentuk data dan pertanyaan. Grafik harus menampilkan satuan, sumber, periode, dan definisi indikator.
+
+Dashboard dapat memudahkan pemantauan, tetapi terlalu banyak indikator membuat perhatian tersebar. Indikator utama harus terhubung dengan keputusan yang akan diambil. Setiap visualisasi perlu menjawab pertanyaan tertentu. Warna tidak boleh menjadi satu-satunya pembeda informasi karena pengguna dapat memiliki keterbatasan persepsi warna.
+
+Laporan analisis sebaiknya membedakan fakta, interpretasi, dan rekomendasi. Fakta menjelaskan apa yang terlihat pada data; interpretasi mengusulkan makna dengan mempertimbangkan konteks; rekomendasi menyatakan tindakan yang mungkin dilakukan. Batas data dan ketidakpastian perlu disebutkan. Data tidak menggantikan pertimbangan etis atau pengetahuan lapangan.
+
+LATIHAN BAB
+1. Mengapa duplikasi harus dinilai berdasarkan konteks kejadian?
+2. Apa risiko menggabungkan tabel dengan tingkat granularitas berbeda?
+3. Jelaskan fungsi kunci primer dan kunci asing.
+4. Mengapa penghapusan nama belum tentu membuat data anonim?
+5. Bedakan fakta, interpretasi, dan rekomendasi dalam laporan data.

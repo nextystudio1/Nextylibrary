@@ -357,3 +357,50 @@ Pengendalian internal membantu melindungi aset, menjaga keandalan catatan, dan m
 
 Audit memberikan penilaian berdasarkan bukti dan prosedur yang dirancang untuk tujuan tertentu. Audit tidak menjamin bahwa seluruh kesalahan atau kecurangan pasti ditemukan. Independensi, skeptisisme profesional, kecukupan bukti, dan dokumentasi penting untuk menjaga mutu pemeriksaan. Akuntan juga perlu menghindari konflik kepentingan dan tidak memanipulasi laporan demi memenuhi tekanan pihak tertentu.
 
+BAB LANJUTAN: SIKLUS AKUNTANSI DAN PENGAMBILAN KEPUTUSAN
+
+Dari transaksi menuju laporan
+
+Siklus akuntansi dimulai ketika transaksi terjadi dan bukti pendukung diterima. Bukti dapat berupa faktur, kuitansi, nota, kontrak, atau catatan penerimaan. Langkah berikutnya adalah mengidentifikasi akun yang terpengaruh, menentukan debit dan kredit, mencatat jurnal, memindahkan jumlah ke buku besar, lalu menyusun neraca saldo. Penyesuaian dilakukan untuk transaksi yang manfaat atau kewajibannya melintasi periode. Setelah laporan disusun, akun nominal ditutup sesuai prosedur dan saldo awal periode berikutnya disiapkan.
+
+Urutan ini menunjukkan mengapa pencatatan tidak boleh hanya mengandalkan ingatan. Dokumen yang tertata memungkinkan transaksi ditelusuri dari laporan kembali ke bukti awal. Nomor dokumen, tanggal, uraian, akun, dan pihak terkait perlu dicatat secara konsisten. Jika terjadi koreksi, jejak perubahan harus tetap dapat diperiksa; menghapus catatan tanpa penjelasan mengurangi keandalan sistem.
+
+Akrual dan kas
+
+Basis kas mencatat penerimaan dan pembayaran ketika uang berpindah. Basis akrual mengakui pendapatan ketika diperoleh dan beban ketika terjadi sesuai ketentuan yang berlaku, meskipun kas belum diterima atau dibayarkan. Perbedaan ini penting untuk memahami kinerja periode. Usaha yang memberikan layanan secara kredit mungkin telah memperoleh pendapatan, tetapi belum menerima uang. Sebaliknya, pembayaran di muka dapat diterima sebelum seluruh layanan diberikan.
+
+Akrual memberi gambaran aktivitas ekonomi yang lebih lengkap, tetapi memerlukan estimasi dan penilaian. Piutang perlu dievaluasi kemungkinan tertagihnya. Beban penyusutan mengalokasikan biaya aset selama masa manfaat yang diperkirakan. Estimasi harus didasarkan pada informasi yang wajar dan ditinjau ketika keadaan berubah.
+
+Persediaan dan harga pokok
+
+Persediaan mencakup barang yang disimpan untuk dijual atau bahan yang digunakan dalam produksi. Pengendalian persediaan membutuhkan pencatatan jumlah, lokasi, kondisi, dan pergerakan barang. Perbedaan antara catatan dan hasil pemeriksaan fisik perlu ditelusuri, bukan langsung disesuaikan tanpa penjelasan. Kerusakan, kehilangan, kedaluwarsa, dan perubahan nilai dapat memengaruhi laporan.
+
+Harga pokok penjualan menghubungkan persediaan awal, pembelian bersih, dan persediaan akhir. Metode penilaian yang digunakan harus mengikuti standar yang relevan dan diterapkan konsisten. Pemilihan metode dapat memengaruhi nilai persediaan dan laba yang dilaporkan, sehingga pembaca laporan perlu memahami kebijakan yang digunakan.
+
+Membaca arus kas
+
+Laba tidak sama dengan kas yang tersedia. Laporan arus kas mengelompokkan arus ke aktivitas operasi, investasi, dan pendanaan. Aktivitas operasi berkaitan dengan kegiatan utama organisasi. Aktivitas investasi mencakup pembelian atau pelepasan aset jangka panjang. Aktivitas pendanaan berkaitan dengan modal dan pinjaman.
+
+Organisasi dapat melaporkan laba tetapi mengalami tekanan kas karena pelanggan terlambat membayar atau persediaan menumpuk. Sebaliknya, penerimaan pinjaman meningkatkan kas tetapi bukan pendapatan usaha. Karena itu, penilaian kesehatan keuangan memerlukan laporan laba rugi, posisi keuangan, dan arus kas secara bersamaan.
+
+Anggaran dan analisis selisih
+
+Anggaran menerjemahkan rencana menjadi perkiraan pendapatan, biaya, dan kebutuhan kas. Anggaran bukan angka yang tidak boleh berubah; ia merupakan alat koordinasi dan pembanding. Setelah periode berjalan, bandingkan realisasi dengan anggaran dan uraikan selisih berdasarkan penyebab. Selisih harga perlu dibedakan dari selisih kuantitas. Kenaikan biaya dapat berasal dari perubahan harga pemasok, volume aktivitas, mutu bahan, atau pemborosan proses.
+
+Analisis yang baik tidak otomatis menyalahkan orang yang mengelola pos anggaran. Periksa apakah asumsi awal realistis dan apakah perubahan di luar kendali telah terjadi. Gunakan temuan untuk memperbaiki perkiraan periode berikutnya.
+
+Rasio keuangan dengan konteks
+
+Rasio likuiditas memberi petunjuk kemampuan memenuhi kewajiban jangka pendek. Rasio solvabilitas membantu menilai struktur pendanaan dan beban utang. Rasio profitabilitas menunjukkan hubungan laba dengan penjualan, aset, atau modal. Rasio aktivitas mengukur efisiensi penggunaan sumber daya. Satu rasio tidak cukup untuk memberi kesimpulan menyeluruh. Bandingkan dengan periode sebelumnya, karakter industri, kebijakan akuntansi, dan kondisi ekonomi.
+
+Rasio yang tampak membaik dapat menyembunyikan masalah. Persediaan yang sangat rendah mungkin meningkatkan rasio tertentu tetapi menyebabkan kehabisan barang. Utang yang rendah dapat mengurangi risiko pembiayaan, namun organisasi mungkin juga kehilangan kesempatan investasi yang layak. Angka harus dibaca bersama cerita operasional dan kualitas data.
+
+Studi kasus pembukuan sederhana
+
+Sebuah usaha kecil menjual produk dan menerima sebagian pembayaran secara tunai, sebagian melalui transfer, serta sebagian secara kredit. Pemilik perlu memisahkan uang pribadi dan usaha, mencatat penjualan harian, menyimpan bukti pembelian, dan merekonsiliasi saldo rekening. Setiap akhir bulan, ia menghitung persediaan, memeriksa piutang, mencatat kewajiban, serta meninjau biaya yang belum dibayar.
+
+Laporan bulanan kemudian digunakan untuk menjawab pertanyaan: produk mana yang memberi margin memadai, pelanggan mana yang sering terlambat membayar, apakah kas cukup untuk kewajiban dekat, dan apakah pembelian aset baru dapat ditunda atau dibiayai. Keputusan tidak hanya didasarkan pada saldo rekening saat itu.
+
+Etika dan batas tanggung jawab
+
+Akuntansi membutuhkan integritas karena laporan digunakan oleh pemilik, pekerja, pemberi pinjaman, pemasok, dan pihak lain. Pengakuan pendapatan yang terlalu dini, penyembunyian kewajiban, atau pengubahan bukti dapat merugikan pengguna laporan. Ketika menemukan kesalahan, dokumentasikan, koreksi melalui prosedur yang benar, dan komunikasikan dampaknya. Untuk pelaporan formal, ikuti standar dan ketentuan yang berlaku serta minta bantuan akuntan kompeten bila diperlukan.

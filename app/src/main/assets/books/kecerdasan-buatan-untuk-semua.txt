@@ -66,6 +66,8 @@ LATIHAN
 Mengapa foto tanaman yang semuanya diambil di bawah cahaya yang sama dapat membuat model kurang andal?
 
 BAB 3. PEMBELAJARAN MESIN
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/alur-pembelajaran-mesin.svg|Alur pembelajaran mesin dari pengumpulan data hingga penerapan dan pemantauan.]]
 Pembelajaran mesin atau machine learning adalah pendekatan yang memungkinkan komputer menemukan pola dari data untuk membuat prediksi atau keputusan. Dalam pemrograman biasa, aturan ditulis secara eksplisit. Dalam pembelajaran mesin, pengembang menentukan model dan proses belajar, lalu model menyesuaikan parameter berdasarkan contoh.
 
 Pembelajaran terawasi menggunakan contoh yang memiliki label. Contohnya memprediksi harga rumah dari luas, lokasi, dan karakteristik lain dengan data harga yang diketahui. Pembelajaran tak terawasi mencari struktur atau kelompok tanpa label target. Pembelajaran penguatan mempelajari tindakan melalui umpan balik berupa penghargaan atau penalti dalam suatu lingkungan.

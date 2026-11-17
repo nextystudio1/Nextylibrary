@@ -37,6 +37,8 @@ Riset pengguna dapat menggunakan wawancara, observasi, survei, dan analisis tuga
 
 BAB 3. ALUR DAN NAVIGASI
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/alur-navigasi.svg|Contoh struktur navigasi aplikasi dari beranda menuju detail konten.]]
+
 Alur tugas menggambarkan langkah yang dilakukan untuk mencapai tujuan. Navigasi yang konsisten membantu pengguna mengetahui posisi dan pilihan berikutnya. Label harus menggunakan bahasa yang dikenal pengguna. Hindari menempatkan tindakan penting pada lokasi yang berubah-ubah atau menggunakan istilah yang tidak jelas.
 
 BAB 4. UMPAN BALIK DAN PENCEGAHAN KESALAHAN

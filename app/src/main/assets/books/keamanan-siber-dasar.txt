@@ -29,6 +29,8 @@ LATIHAN BAB
 
 BAB 2. KATA SANDI DAN AUTENTIKASI
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/autentikasi-dua-langkah.svg|Ilustrasi autentikasi dua langkah dengan dua faktor verifikasi.]]
+
 Kata sandi yang kuat bersifat unik untuk setiap layanan dan sulit ditebak. Frasa sandi panjang yang mudah diingat dapat lebih baik daripada kombinasi pendek yang rumit tetapi dipakai berulang. Pengelola kata sandi tepercaya dapat membantu menyimpan kredensial secara aman. Jangan membagikan kata sandi, kode verifikasi, atau kode pemulihan kepada siapa pun.
 
 Autentikasi multifaktor menambah lapisan perlindungan karena login memerlukan bukti tambahan. Aktifkan fitur ini jika tersedia. Simpan kode pemulihan di tempat aman yang tidak mudah diakses orang lain. Jika menerima permintaan kode yang tidak pernah diminta, jangan berikan kode tersebut.

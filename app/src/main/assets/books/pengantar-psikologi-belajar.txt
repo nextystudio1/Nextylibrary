@@ -205,3 +205,27 @@ LATIHAN DAN PEMBAHASAN
 3. Apa ciri umpan balik efektif? Spesifik, dapat ditindaklanjuti, dan berfokus pada pekerjaan.
 4. Mengapa tujuan proses berguna? Karena lebih dapat dikendalikan daripada hasil yang dipengaruhi banyak faktor.
 5. Apa prinsip pembelajaran inklusif? Beragam cara akses, partisipasi, dan ekspresi pemahaman dengan menghormati kebutuhan individu.
+BAB LANJUTAN 1. PERHATIAN, BEBAN KOGNITIF, DAN LINGKUNGAN BELAJAR
+
+Perhatian membantu memilih informasi yang akan diproses, tetapi kapasitasnya terbatas dan mudah teralihkan. Tugas yang menuntut perpindahan fokus berulang dapat menambah biaya kognitif karena seseorang harus membangun kembali konteks setiap kali kembali ke tugas utama. Mengurangi gangguan yang tidak perlu, membagi tugas besar menjadi bagian yang jelas, dan menyiapkan tujuan sesi dapat membantu menjaga arah belajar.
+
+Beban kognitif berkaitan dengan tuntutan pemrosesan informasi dalam memori kerja. Materi yang kompleks lebih mudah dipelajari jika istilah baru dijelaskan, contoh disusun bertahap, dan informasi visual ditempatkan dekat dengan penjelasannya. Namun penyederhanaan berlebihan juga berisiko menghilangkan hubungan penting. Desain pembelajaran perlu menyeimbangkan kejelasan dengan kedalaman.
+
+BAB LANJUTAN 2. LATIHAN PENGAMBILAN KEMBALI DAN PENGULANGAN BERJARAK
+
+Membaca ulang dapat memberi rasa akrab, tetapi rasa akrab tidak selalu berarti mampu mengingat atau menerapkan konsep. Latihan pengambilan kembali meminta pelajar mencoba menjawab tanpa melihat bahan, kemudian memeriksa ketepatan jawabannya. Bentuknya dapat berupa pertanyaan singkat, kartu konsep, menjelaskan kembali, atau menyelesaikan soal dari ingatan.
+
+Pengulangan berjarak menyebarkan latihan dalam beberapa sesi, bukan menumpuk semuanya dalam satu waktu. Jarak yang sesuai bergantung pada tingkat kesulitan, tujuan, dan waktu sampai pengetahuan dibutuhkan. Setelah mencoba mengingat, umpan balik penting untuk memperbaiki miskonsepsi. Latihan yang terlalu mudah mungkin tidak cukup menantang; latihan yang terlalu sulit tanpa dukungan dapat membuat pelajar kehilangan arah.
+
+BAB LANJUTAN 3. TRANSFER BELAJAR DAN METAKOGNISI
+
+Transfer terjadi ketika pengetahuan digunakan pada situasi yang berbeda dari contoh awal. Transfer dekat melibatkan situasi yang mirip, sedangkan transfer jauh memerlukan pengenalan prinsip pada konteks yang lebih berbeda. Untuk mendukung transfer, pelajar perlu membandingkan beberapa contoh, menjelaskan prinsip umum, dan mengenali kapan prinsip tersebut tidak berlaku.
+
+Metakognisi adalah kemampuan memantau dan mengatur proses berpikir sendiri. Sebelum belajar, tetapkan tujuan dan perkirakan pengetahuan awal. Selama belajar, periksa apakah penjelasan dapat disampaikan tanpa melihat catatan. Setelah belajar, evaluasi kesalahan dan tentukan latihan berikutnya. Penilaian diri perlu dibandingkan dengan bukti seperti hasil kuis atau kemampuan menyelesaikan tugas, karena keyakinan pribadi dapat terlalu tinggi atau terlalu rendah.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Mengapa perpindahan tugas yang sering dapat mengganggu konsentrasi?
+2. Bedakan membaca ulang dan latihan pengambilan kembali.
+3. Buat jadwal pengulangan berjarak untuk satu topik selama satu minggu.
+4. Jelaskan perbedaan transfer dekat dan transfer jauh.
+5. Buat tiga pertanyaan metakognitif untuk mengevaluasi sesi belajar.

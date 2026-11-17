@@ -361,3 +361,29 @@ PROYEK MINI: LATIHAN SKENARIO LAYANAN DIGITAL
 
 Buat tiga skenario gangguan untuk layanan perpustakaan digital hipotetis: gangguan jaringan, kesalahan data katalog, dan ketidaktersediaan penyedia. Untuk setiap skenario, tulis dampak terhadap pembaca, proses yang harus diprioritaskan, informasi yang perlu disampaikan, dan kondisi pemulihan. Jangan melakukan pengujian pada layanan nyata. Akhiri dengan daftar perubahan rencana berdasarkan temuan latihan.
 
+BAB LANJUTAN: RISIKO DINAMIS, KONTROL, DAN KEPUTUSAN DI BAWAH KETIDAKPASTIAN
+
+Risiko bukan hanya daftar kejadian buruk. Analisis risiko menghubungkan tujuan, sumber ketidakpastian, peristiwa, konsekuensi, dan kemungkinan terjadinya. Sebuah risiko perlu dijelaskan secara spesifik agar dapat ditindaklanjuti. Pernyataan “proyek bisa gagal” terlalu umum. Pernyataan yang lebih berguna menyebut kondisi pemicu, kejadian yang mungkin terjadi, dampak terhadap sasaran, dan asumsi yang mendasarinya.
+
+Peluang dan dampak sering dinilai menggunakan skala kualitatif ketika data historis terbatas. Skala tersebut harus memiliki definisi yang konsisten. Label rendah, sedang, dan tinggi tanpa penjelasan dapat menghasilkan penilaian berbeda antaranggota tim. Matriks risiko membantu menentukan prioritas awal, tetapi tidak boleh dianggap sebagai ukuran presisi. Dua risiko dengan skor sama dapat memerlukan tindakan berbeda karena sifat konsekuensi dan kemampuan pemulihannya tidak sama.
+
+Kontrol pencegahan berusaha mengurangi kemungkinan kejadian, sedangkan kontrol deteksi membantu menemukan masalah lebih awal. Kontrol korektif membatasi dampak dan mengembalikan proses ke kondisi yang dapat diterima. Tidak semua kontrol efektif dalam semua situasi. Pemeriksaan manual dapat menemukan kesalahan tetapi juga rentan terhadap kelelahan dan ketidakkonsistenan. Otomatisasi dapat mempercepat pemeriksaan, namun perlu dipantau agar kesalahan sistematis tidak tersebar lebih luas.
+
+Risiko residual adalah risiko yang masih tersisa setelah kontrol diterapkan. Risiko ini perlu dibandingkan dengan batas toleransi yang telah disepakati. Jika risikonya masih terlalu tinggi, tim dapat mengubah desain, mengurangi ruang lingkup, menambah kontrol, memindahkan aktivitas, atau menghentikan kegiatan. Keputusan menerima risiko harus memiliki penanggung jawab dan alasan yang terdokumentasi. Penerimaan bukan berarti risiko menghilang.
+
+Ketergantungan antarrisiko dapat memperbesar dampak. Gangguan pemasok dapat menyebabkan keterlambatan, yang kemudian menekan waktu pengujian dan meningkatkan kemungkinan kesalahan. Jika risiko dinilai satu per satu, rangkaian tersebut mungkin terlewat. Peta ketergantungan membantu melihat jalur dampak, titik kendali, dan sumber daya yang perlu disiapkan. Analisis skenario dapat menguji beberapa gangguan yang terjadi bersamaan.
+
+Indikator risiko utama memberi sinyal perubahan kondisi sebelum dampak penuh terjadi. Contohnya adalah meningkatnya jumlah tugas tertunda, menurunnya ketersediaan layanan, atau bertambahnya temuan pemeriksaan. Indikator harus memiliki ambang, sumber data, frekuensi pemantauan, dan penanggung jawab. Terlalu banyak indikator dapat menimbulkan kelelahan pemantauan, sedangkan indikator yang tidak terkait keputusan hanya menambah laporan.
+
+Komunikasi risiko harus jelas, seimbang, dan sesuai audiens. Menyampaikan angka tanpa konteks dapat menimbulkan rasa aman atau kekhawatiran yang tidak tepat. Laporan sebaiknya menjelaskan apa yang diketahui, apa yang belum diketahui, rentang kemungkinan, tindakan yang tersedia, dan kapan informasi akan diperbarui. Ketidakpastian tidak perlu disembunyikan; justru penjelasan batas pengetahuan membantu penerima membuat keputusan yang lebih baik.
+
+Budaya keselamatan mendorong pelaporan masalah tanpa mempermalukan orang yang mengungkapkannya dengan itikad baik. Namun, budaya terbuka tetap membutuhkan tanggung jawab dan pembelajaran. Organisasi perlu membedakan kesalahan tidak sengaja, kelemahan sistem, dan tindakan yang sengaja mengabaikan aturan. Tinjauan insiden berfokus pada bukti, kondisi kerja, dan perbaikan kontrol, bukan pada pencarian kambing hitam.
+
+Studi kasus: perpustakaan digital mengalami gangguan penyajian katalog. Tim memetakan risiko terhadap akses pembaca, memeriksa ketergantungan pada layanan lain, dan menyiapkan prosedur komunikasi. Mereka menetapkan indikator pemulihan dan cara memeriksa konsistensi data setelah layanan kembali. Latihan dilakukan dengan skenario simulasi, bukan dengan mengganggu layanan nyata.
+
+Latihan penerapan:
+1. Ubah pernyataan risiko yang terlalu umum menjadi uraian sebab-kejadian-dampak.
+2. Bedakan kontrol pencegahan, deteksi, dan korektif.
+3. Jelaskan mengapa risiko residual tetap perlu dipantau.
+4. Buat tiga indikator risiko dengan ambang dan penanggung jawab.
+5. Rancang ringkasan komunikasi risiko yang menjelaskan ketidakpastian.

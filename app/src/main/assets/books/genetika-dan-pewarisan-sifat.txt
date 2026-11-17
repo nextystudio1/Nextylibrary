@@ -215,3 +215,34 @@ LATIHAN PENDALAMAN
 3. Sebutkan faktor yang dapat mengubah frekuensi alel.
 4. Mengapa populasi kecil rentan kehilangan variasi genetik?
 5. Mengapa data genomik memerlukan perlindungan khusus?
+BAB LANJUTAN. EKSPRESI GEN, VARIASI, DAN GENETIKA MODERN
+
+Gen tidak bekerja sebagai instruksi yang berdiri sendiri. Aktivitas gen dipengaruhi oleh jenis sel, tahap perkembangan, sinyal dari dalam dan luar sel, serta pengaturan pada tingkat DNA, RNA, dan protein. Sel tubuh umumnya memiliki informasi genetik yang sama, tetapi sel saraf, sel otot, dan sel kulit menjalankan fungsi berbeda karena kelompok gen yang aktif tidak sama. Pengaturan ekspresi gen memungkinkan organisme membentuk jaringan dengan struktur dan tugas khusus.
+
+Transkripsi adalah proses pembentukan RNA berdasarkan cetakan DNA. Pada organisme eukariotik, RNA awal dapat mengalami pemrosesan, termasuk penyambungan bagian yang dipertahankan dan pembuangan bagian tertentu. RNA pembawa pesan kemudian dapat diterjemahkan oleh ribosom menjadi rantai asam amino. Urutan asam amino memengaruhi pelipatan dan fungsi protein. Perubahan pada urutan DNA dapat memengaruhi RNA atau protein, tetapi akibatnya bergantung pada lokasi perubahan dan konteks biologis.
+
+Mutasi adalah perubahan materi genetik. Mutasi dapat berupa penggantian, penambahan, atau penghilangan basa, serta perubahan struktur kromosom. Sebagian mutasi tidak mengubah fungsi protein, sebagian mengubah fungsi, dan sebagian dapat memengaruhi pengaturan gen. Mutasi dapat muncul secara spontan ketika materi genetik disalin atau akibat paparan faktor tertentu. Tidak semua mutasi merugikan; variasi genetik merupakan bahan penting bagi evolusi. Dampak mutasi harus dinilai berdasarkan bukti, bukan hanya dari nama atau jenis perubahannya.
+
+Meiosis menghasilkan sel dengan setengah jumlah kromosom dibandingkan sel induk diploid. Selama meiosis, kromosom homolog berpasangan dan dapat mengalami pindah silang, yaitu pertukaran segmen. Pemisahan kromosom dan kombinasi alel menghasilkan variasi pada gamet. Saat fertilisasi, kombinasi materi genetik dari dua gamet membentuk kombinasi baru. Proses ini membantu menjelaskan mengapa saudara kandung dapat memiliki kemiripan sekaligus perbedaan, kecuali pada keadaan khusus seperti kembar identik.
+
+Pola Mendel sederhana berguna untuk memahami pewarisan satu atau beberapa gen dengan asumsi tertentu. Namun, banyak sifat tidak mengikuti pola dominan-resesif tunggal. Dominansi tidak berarti alel lebih kuat secara umum, dan alel resesif tidak selalu langka. Dominansi tidak lengkap dapat menghasilkan fenotipe perantara, sedangkan kodominansi memungkinkan dua bentuk alel tampak bersama. Sifat poligenik dipengaruhi banyak gen, dan lingkungan dapat memengaruhi hasil akhirnya.
+
+Fenotipe adalah karakteristik yang dapat diamati atau diukur, sedangkan genotipe merujuk pada susunan genetik yang relevan. Hubungan keduanya tidak selalu sederhana. Tinggi tanaman, misalnya, dipengaruhi banyak gen sekaligus kondisi cahaya, air, nutrisi, dan suhu. Pada manusia, banyak karakteristik juga melibatkan interaksi kompleks antara gen, perkembangan, pengalaman, dan lingkungan. Karena itu, satu hasil tes genetik tidak dapat digunakan untuk meramalkan seluruh kemampuan, kepribadian, atau masa depan seseorang.
+
+Genetika populasi mempelajari perubahan frekuensi alel dalam populasi dari generasi ke generasi. Seleksi alam dapat mengubah frekuensi alel ketika variasi yang diwariskan memengaruhi keberhasilan reproduksi dalam lingkungan tertentu. Hanyutan genetik adalah perubahan acak yang dapat kuat pada populasi kecil. Aliran gen terjadi ketika individu atau gamet berpindah antar-populasi. Mutasi memperkenalkan variasi baru, sedangkan perkawinan tidak acak dapat mengubah pola kombinasi genotipe. Evolusi tidak memiliki tujuan yang telah ditentukan; perubahan bergantung pada variasi dan kondisi lingkungan.
+
+Teknologi DNA memungkinkan peneliti memperbanyak, membaca, dan membandingkan urutan genetik. PCR memperbanyak bagian DNA tertentu sehingga lebih mudah dianalisis. Pengurutan DNA membaca susunan basa, sementara analisis ekspresi gen dapat mengukur RNA atau produk terkait. Hasil laboratorium harus dilengkapi kontrol, standar mutu, dan interpretasi yang sesuai. Kesalahan sampel, kontaminasi, atau keterbatasan metode dapat menghasilkan kesimpulan yang keliru.
+
+Pengujian genetik memiliki manfaat dan keterbatasan. Dalam layanan kesehatan, tes tertentu dapat membantu mengidentifikasi variasi yang berkaitan dengan risiko atau respons obat. Hasil risiko bukan kepastian bahwa seseorang akan mengalami penyakit. Interpretasi memerlukan riwayat keluarga, faktor lingkungan, validitas tes, dan konsultasi tenaga kesehatan yang kompeten. Informasi genetik juga menyangkut privasi keluarga karena hasil seseorang dapat memberi petunjuk tentang kerabat biologisnya.
+
+Etika genetika mencakup persetujuan yang dipahami, kerahasiaan, keadilan akses, pencegahan diskriminasi, dan komunikasi hasil yang tidak menyesatkan. Data genetik sebaiknya dikumpulkan hanya untuk tujuan yang jelas dan disimpan dengan perlindungan memadai. Penelitian pada manusia memerlukan peninjauan etik dan perlindungan peserta. Teknologi penyuntingan gen menimbulkan pertanyaan tentang keamanan, dampak jangka panjang, persetujuan generasi mendatang, dan batas penggunaan. Kemajuan teknis tidak otomatis membuat setiap penerapan dapat dibenarkan.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa sel tubuh yang berbeda dapat memiliki fungsi berbeda meskipun membawa DNA yang hampir sama? Pembahasan: pola ekspresi gen berbeda sehingga protein dan aktivitas sel juga berbeda.
+2. Apakah semua mutasi menyebabkan penyakit? Pembahasan: tidak. Dampaknya dapat netral, merugikan, atau dalam konteks tertentu memberi variasi yang menguntungkan.
+3. Apa peran pindah silang dalam meiosis? Pembahasan: pertukaran segmen kromosom homolog menghasilkan kombinasi alel baru.
+4. Mengapa sifat poligenik sulit diprediksi dengan satu kotak Punnett? Pembahasan: banyak gen dan faktor lingkungan berkontribusi terhadap fenotipe.
+5. Mengapa hasil tes genetik perlu dijelaskan secara hati-hati? Pembahasan: hasil memiliki batas akurasi dan interpretasi, serta risiko bukan kepastian.
+
+PROYEK MINI
+Buat peta konsep dari DNA menuju RNA, protein, sel, dan fenotipe. Tambahkan contoh hipotetis yang menunjukkan bahwa lingkungan dapat memengaruhi fenotipe. Akhiri dengan daftar tiga prinsip etika untuk pengelolaan data genetik. Gunakan contoh pembelajaran, bukan data genetik pribadi atau keluarga.

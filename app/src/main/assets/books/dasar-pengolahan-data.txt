@@ -356,3 +356,50 @@ Laporan analisis yang baik dimulai dari pertanyaan keputusan, bukan dari banyakn
 
 Pisahkan hasil deskriptif dari interpretasi dan rekomendasi. Hasil menyatakan pola yang ditemukan; interpretasi menawarkan penjelasan yang masih perlu diuji; rekomendasi mempertimbangkan tujuan, biaya, risiko, dan pihak terdampak. Cantumkan keterbatasan sampel dan metode. Mengakui ketidakpastian justru meningkatkan kegunaan laporan karena pembaca dapat menilai seberapa jauh kesimpulan layak diterapkan.
 
+BAB LANJUTAN: MUTU DATA, REPRODUKSIBILITAS, DAN ANALISIS YANG BERTANGGUNG JAWAB
+
+Rancangan pengumpulan data
+
+Pengumpulan data harus dimulai dengan pertanyaan yang dapat dijawab. Tentukan unit analisis, populasi sasaran, periode pengamatan, variabel, dan metode pengukuran. Jika ingin mengetahui kepuasan pengguna perpustakaan sekolah, unit analisisnya dapat berupa pengunjung atau pengalaman kunjungan; keduanya menghasilkan pertanyaan dan rancangan yang berbeda. Definisi operasional perlu menjelaskan bagaimana konsep abstrak diterjemahkan menjadi indikator yang dapat diamati.
+
+Sampel harus sesuai dengan tujuan. Sampel kemudahan mungkin cepat diperoleh, tetapi tidak otomatis mewakili seluruh populasi. Sampel acak memberi peluang pemilihan yang lebih terukur, sedangkan desain berstrata dapat memastikan kelompok penting terwakili. Catat siapa yang tidak merespons dan bagaimana perekrutan dilakukan. Tingkat respons tinggi saja tidak menjamin tidak adanya bias.
+
+Pembersihan data tanpa menghapus jejak
+
+Data mentah sebaiknya disimpan terpisah dari data hasil pembersihan. Buat salinan kerja dan catat setiap aturan transformasi. Periksa nilai kosong, duplikasi, format tanggal, satuan, rentang yang tidak masuk akal, serta kategori yang penulisannya tidak konsisten. Jangan langsung menghapus nilai ekstrem; nilai tersebut mungkin kesalahan pencatatan, tetapi mungkin juga kejadian nyata yang penting.
+
+Nilai kosong memiliki berbagai sebab. Responden mungkin tidak mengetahui jawaban, pertanyaan tidak berlaku, atau data gagal direkam. Mengganti semua nilai kosong dengan nol dapat menghasilkan makna yang salah. Dokumentasikan alasan dan metode penanganannya. Jika imputasi digunakan, jelaskan asumsi serta pengaruhnya terhadap hasil.
+
+Tipe data dan struktur tabel
+
+Tabel yang baik memiliki satu baris per unit pengamatan sesuai definisi dan kolom yang jelas. Kunci unik membantu mengenali catatan. Tanggal sebaiknya disimpan dalam format yang konsisten, angka dipisahkan dari simbol satuan, dan kategori menggunakan kamus nilai. Data relasional dapat memisahkan tabel orang, transaksi, dan produk agar informasi tidak berulang secara berlebihan.
+
+Sebelum menggabungkan tabel, pastikan kunci memiliki arti yang sama dan tingkat keunikan sesuai. Penggabungan yang keliru dapat menggandakan baris atau kehilangan catatan. Hitung jumlah baris sebelum dan sesudah proses, lalu periksa beberapa contoh secara manual. Simpan skrip atau catatan langkah sehingga proses dapat diulang.
+
+Eksplorasi dan pemilihan metode
+
+Analisis eksploratif digunakan untuk memahami distribusi, pola, dan anomali. Mulai dari jumlah observasi, ukuran pemusatan, variasi, frekuensi kategori, dan visualisasi sederhana. Rata-rata sensitif terhadap nilai ekstrem, sedangkan median lebih tahan terhadap beberapa jenis pencilan. Pilihan ringkasan harus mengikuti bentuk distribusi dan pertanyaan.
+
+Ketika membandingkan kelompok, perhatikan ukuran sampel dan variasinya. Selisih rata-rata tidak selalu berarti perbedaan penting secara praktis. Interval ketidakpastian dapat memberi gambaran rentang nilai yang masih sesuai dengan data dan model. Nilai signifikansi statistik bukan ukuran besarnya dampak, dan tidak membuktikan bahwa suatu hubungan bersifat kausal.
+
+Pengantar pemodelan
+
+Model menyederhanakan kenyataan untuk menjawab pertanyaan tertentu. Model prediksi perlu dievaluasi pada data yang tidak digunakan untuk melatihnya. Memisahkan data secara acak tidak selalu tepat jika data memiliki urutan waktu atau kelompok yang saling berkaitan. Dalam kasus deret waktu, pengujian harus menjaga urutan agar informasi masa depan tidak bocor ke proses pelatihan.
+
+Periksa lebih dari satu metrik. Akurasi dapat menyesatkan ketika kelas tidak seimbang. Untuk klasifikasi, presisi, recall, dan matriks kebingungan membantu menjelaskan jenis kesalahan. Untuk prediksi numerik, galat absolut dan galat kuadrat memberi penekanan berbeda terhadap kesalahan besar. Pilih metrik berdasarkan konsekuensi keputusan, bukan karena menghasilkan angka yang paling menarik.
+
+Bias dan dampak sosial
+
+Data mencerminkan proses pengumpulan dan keputusan manusia. Jika kelompok tertentu jarang tercatat, model atau laporan dapat mengabaikan kebutuhannya. Variabel proksi juga dapat membawa informasi sensitif secara tidak langsung. Analisis perlu menilai apakah hasil berbeda antar kelompok, apakah perbedaan tersebut memiliki penjelasan yang sah, dan apakah penggunaan model berpotensi merugikan pihak tertentu.
+
+Prinsip privasi meliputi pengumpulan secukupnya, pembatasan akses, pengamanan penyimpanan, dan penghapusan sesuai jadwal. Menghapus nama tidak selalu membuat data anonim; kombinasi atribut dapat mengidentifikasi seseorang. Untuk publikasi, pertimbangkan agregasi dan risiko pengungkapan kembali. Data individu tidak boleh dibagikan hanya karena secara teknis mudah diekspor.
+
+Reproduksibilitas dan dokumentasi
+
+Analisis yang dapat diulang memerlukan data yang memiliki izin penggunaan, definisi variabel, catatan transformasi, versi perangkat lunak, parameter, serta skrip. Tetapkan nama berkas dan struktur folder yang konsisten. Catatan perubahan membantu anggota tim memahami mengapa hasil berbeda antara dua versi. Jika data tidak dapat dibagikan karena privasi atau lisensi, bagikan dokumentasi dan contoh sintetis yang tidak mengungkap individu.
+
+Laporan sebaiknya menyatakan pertanyaan, sumber data, metode, hasil, keterbatasan, dan rekomendasi secara terpisah. Grafik perlu menyebut satuan, periode, jumlah observasi, serta sumber. Hindari pemotongan sumbu yang membuat perbedaan kecil tampak dramatis. Jelaskan apakah angka merupakan hitungan, persentase, estimasi, atau proyeksi.
+
+Praktik proyek terpadu
+
+Gunakan data terbuka tentang kualitas udara atau transportasi yang memiliki keterangan sumber dan lisensi. Rumuskan pertanyaan sederhana, periksa struktur dan kelengkapan, buat ringkasan deskriptif, lalu visualisasikan pola berdasarkan waktu atau wilayah. Simpan langkah pembersihan, uji apakah hasil berubah ketika beberapa asumsi diganti, dan tulis batas interpretasi. Jangan menyimpulkan sebab-akibat hanya dari pola bersamaan. Proyek dianggap baik ketika orang lain dapat memahami asal data, mengulang langkah utama, dan menilai keterbatasan hasil.

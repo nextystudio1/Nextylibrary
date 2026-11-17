@@ -182,3 +182,27 @@ Konektivitas populasi penting dalam perencanaan kawasan konservasi. Kawasan yang
 
 PROYEK BIOLOGI LAUT
 Pilih satu ekosistem atau kelompok organisme laut. Susun profil habitat, adaptasi, peran trofik, reproduksi, ancaman, dan metode pemantauan. Gunakan sumber ilmiah dan jelaskan ketidakpastian. Jangan mengumpulkan organisme atau memasuki habitat tanpa izin dan pendampingan yang sesuai.
+BAB LANJUTAN 1. FISIOLOGI ORGANISME DAN ADAPTASI LAUT
+
+Organisme laut menghadapi perubahan salinitas, suhu, tekanan, oksigen terlarut, dan ketersediaan cahaya. Adaptasi dapat berupa bentuk tubuh, perilaku, maupun proses fisiologis. Ikan laut dan ikan air tawar, misalnya, menghadapi tantangan osmoregulasi yang berbeda karena pergerakan air dan garam melalui permukaan tubuh. Adaptasi bukan berarti organisme dapat bertahan pada semua kondisi; setiap spesies memiliki batas toleransi.
+
+Kedalaman memengaruhi tekanan dan cahaya. Organisme di zona fotik dapat memanfaatkan energi cahaya secara langsung atau tidak langsung, sedangkan organisme lebih dalam mengandalkan sumber energi lain seperti materi organik yang turun dari lapisan atas atau produksi kimia pada habitat tertentu. Penjelasan ekologi perlu menghubungkan adaptasi dengan kondisi habitat, bukan sekadar memberi daftar ciri.
+
+BAB LANJUTAN 2. JARING MAKANAN DAN ALIRAN ENERGI
+
+Rantai makanan menunjukkan jalur sederhana perpindahan energi, sedangkan jaring makanan menggambarkan banyak hubungan makan yang saling terhubung. Produsen primer seperti fitoplankton mengubah energi cahaya menjadi energi kimia. Energi berpindah ke konsumen melalui makan, tetapi sebagian digunakan untuk metabolisme dan terlepas sebagai panas. Karena itu, energi yang tersedia umumnya berkurang pada tingkat trofik lebih tinggi.
+
+Perubahan pada satu populasi dapat memengaruhi banyak spesies. Penangkapan berlebihan terhadap predator, misalnya, dapat mengubah kelimpahan organisme yang dimangsanya dan berdampak pada struktur komunitas. Namun respons ekosistem tidak selalu sederhana karena organisme dapat memiliki mangsa alternatif, migrasi, dan variasi musiman. Analisis perlu menggunakan data jangka waktu memadai.
+
+BAB LANJUTAN 3. PEMANTAUAN EKOSISTEM DAN KONSERVASI PESISIR
+
+Pemantauan ekosistem menggabungkan pengamatan habitat, kualitas air, keanekaragaman spesies, dan aktivitas manusia. Pengukuran suhu, salinitas, kekeruhan, oksigen terlarut, dan nutrien dapat membantu menjelaskan kondisi perairan. Metode sampling harus konsisten agar perubahan antarwaktu dapat dibandingkan. Catat lokasi, waktu, alat, kondisi cuaca, dan keterbatasan pengukuran.
+
+Konservasi pesisir memerlukan kerja sama masyarakat, ilmuwan, pengelola, dan pemerintah. Kawasan perlindungan dapat membantu menjaga habitat, tetapi keberhasilannya bergantung pada rancangan, kepatuhan, pengawasan, serta kebutuhan masyarakat lokal. Program restorasi mangrove atau lamun perlu mempertimbangkan kondisi hidrologi, substrat, spesies lokal, dan pemantauan jangka panjang. Menanam bibit tanpa memperbaiki penyebab kerusakan sering menghasilkan keberhasilan yang rendah.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Jelaskan osmoregulasi dan mengapa salinitas penting bagi organisme laut.
+2. Bedakan rantai makanan dengan jaring makanan.
+3. Mengapa energi yang tersedia cenderung berkurang pada tingkat trofik lebih tinggi?
+4. Sebutkan variabel yang dapat digunakan untuk memantau kualitas perairan.
+5. Mengapa restorasi habitat perlu didasarkan pada kondisi ekologi setempat?

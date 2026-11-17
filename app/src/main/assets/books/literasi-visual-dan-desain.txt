@@ -293,3 +293,55 @@ LATIHAN
 
 PROYEK
 Buat satu lembar materi belajar yang memuat penjelasan, diagram, contoh, dan latihan. Uji kepada beberapa pembaca dengan meminta mereka menemukan informasi tertentu dan menjelaskan kembali konsep. Catat bagian yang membingungkan, lalu revisi hierarki dan keterangan visual.
+
+BAB: SISTEM GRID DAN KONSISTENSI TATA LETAK
+
+Grid adalah kerangka untuk mengatur posisi teks, gambar, dan ruang kosong. Grid tidak harus terlihat oleh pembaca; fungsinya membantu pembuat desain menjaga hubungan antarbagian. Pada halaman sederhana, grid dapat berupa satu kolom. Halaman majalah atau laporan dapat memakai beberapa kolom dengan jarak yang konsisten. Pilihan grid bergantung pada panjang teks, jenis gambar, dan perangkat tempat karya dibaca.
+
+Margin memberi ruang antara isi dan tepi halaman. Gutter adalah jarak antar kolom. Jika jarak terlalu sempit, elemen terasa bertumpuk; jika terlalu lebar, hubungan antarbagian dapat terputus. Grid sebaiknya menjadi pedoman, bukan aturan kaku. Elemen penting boleh melintasi kolom jika hal itu memperkuat hierarki dan tetap menjaga keterbacaan.
+
+Konsistensi tidak berarti semua halaman harus identik. Sistem desain dapat menetapkan gaya judul, ukuran teks, warna, ikon, dan keterangan gambar, sementara komposisi menyesuaikan kebutuhan isi. Buat aturan yang cukup sederhana agar mudah diterapkan dan cukup lentur untuk menangani variasi materi.
+
+BAB: TIPOGRAFI UNTUK KETERBACAAN
+
+Tipografi mencakup pemilihan huruf, ukuran, ketebalan, jarak antarhuruf, jarak baris, dan panjang baris. Huruf dekoratif mungkin cocok untuk judul pendek, tetapi dapat menyulitkan pembacaan paragraf panjang. Untuk teks utama, pilih jenis huruf yang jelas pada ukuran layar atau cetak yang digunakan.
+
+Panjang baris memengaruhi gerak mata. Baris yang terlalu panjang membuat pembaca sulit menemukan awal baris berikutnya, sedangkan baris yang terlalu pendek memecah kalimat menjadi terlalu banyak bagian. Jarak baris perlu memberi ruang tanpa membuat paragraf tampak tercerai. Uji hasil pada perangkat yang benar-benar akan digunakan, termasuk layar kecil.
+
+Hirarki tipografi membantu pembaca membedakan judul, subjudul, isi, kutipan, dan keterangan. Gunakan perbedaan ukuran dan ketebalan secara konsisten. Jangan mengandalkan warna saja untuk membedakan informasi karena sebagian pembaca memiliki keterbatasan persepsi warna atau membaca dalam kondisi layar berbeda. Kontras dan struktur heading juga mendukung aksesibilitas.
+
+BAB: WARNA, KONTRAS, DAN MAKNA
+
+Warna dapat membangun suasana dan membantu mengelompokkan informasi, tetapi maknanya dipengaruhi budaya dan konteks. Warna merah tidak selalu berarti bahaya, dan warna hijau tidak otomatis membuktikan sesuatu aman atau ramah lingkungan. Berikan label atau simbol pendamping ketika warna menyampaikan status penting.
+
+Kontras adalah perbedaan visual antara elemen dan latar. Teks perlu memiliki kontras memadai agar dapat dibaca. Kombinasi warna yang tampak menarik pada monitor pembuat belum tentu nyaman bagi semua pembaca. Periksa desain dalam mode terang dan gelap bila produk mendukung keduanya, serta uji pada layar dengan kualitas berbeda.
+
+Palet yang terbatas membantu menjaga kesatuan. Tentukan warna utama, pendukung, netral, dan warna penekanan. Gunakan warna penekanan secara hemat agar informasi penting benar-benar menonjol. Hindari memberi terlalu banyak kategori warna tanpa sistem yang jelas karena pembaca harus menghafal kode yang tidak perlu.
+
+BAB: DESAIN UNTUK BERBAGAI PERANGKAT
+
+Desain responsif menyesuaikan susunan dengan ukuran dan orientasi layar. Pada layar lebar, dua kolom dapat membantu membandingkan informasi. Pada layar sempit, susunan satu kolom sering lebih mudah dibaca. Elemen interaktif perlu memiliki area sentuh yang memadai dan jarak yang mencegah salah pilih.
+
+Jangan hanya mengecilkan seluruh halaman desktop untuk perangkat seluler. Teks yang terlalu kecil, tombol yang rapat, dan gambar yang terpotong mengurangi kegunaan. Tentukan prioritas konten, lalu susun ulang sesuai ruang yang tersedia. Uji dengan konten nyata karena judul panjang dan paragraf berbeda dapat mengungkap masalah yang tidak tampak pada contoh singkat.
+
+Perhatikan pula penggunaan tanpa koneksi cepat, ukuran berkas, dan kebutuhan pembaca yang menggunakan pembesaran teks atau pembaca layar. Gambar informatif memerlukan teks alternatif yang menjelaskan fungsi atau informasi utamanya. Gambar dekoratif tidak perlu diberi deskripsi panjang yang mengganggu alur. Struktur dokumen yang benar membantu teknologi bantu memahami urutan isi.
+
+BAB: PROSES KRITIK DAN ITERASI DESAIN
+
+Kritik desain sebaiknya dimulai dari tujuan dan kebutuhan pengguna. Pertanyaan seperti “apakah pembaca dapat menemukan jadwal?” lebih berguna daripada “apakah saya suka warna ini?”. Amati tugas yang dilakukan pengguna, bagian yang membuat mereka ragu, dan informasi yang terlewat. Pisahkan masalah yang ditemukan dari dugaan penyebabnya.
+
+Setelah masalah dirumuskan, buat beberapa alternatif. Jangan menganggap revisi pertama pasti benar. Bandingkan alternatif berdasarkan keterbacaan, konsistensi, aksesibilitas, biaya, dan waktu. Catat alasan memilih satu solusi agar keputusan dapat dievaluasi ketika konteks berubah.
+
+Simpan versi desain dan dokumentasikan perubahan utama. Catatan sederhana berisi tanggal, masalah, perubahan, dan hasil pengujian membantu tim memahami perkembangan. Jika perubahan tidak memperbaiki masalah, kembali ke temuan awal dan uji pendekatan lain. Iterasi merupakan proses belajar, bukan tanda bahwa desain sebelumnya tidak berguna.
+
+PROYEK
+
+Rancang dua versi halaman informasi sekolah: satu untuk layar ponsel dan satu untuk cetak A4. Gunakan isi yang sama, tetapi susun ulang sesuai media. Tetapkan grid, hierarki tipografi, palet warna, dan aturan gambar. Uji apakah pembaca dapat menemukan tanggal, lokasi, syarat, dan kontak dalam waktu singkat. Revisi berdasarkan hasil pengamatan.
+
+PERTANYAAN
+
+1. Apa fungsi grid dalam tata letak?
+2. Mengapa tipografi dekoratif tidak selalu cocok untuk teks panjang?
+3. Mengapa informasi tidak boleh dibedakan hanya dengan warna?
+4. Apa perbedaan mengecilkan desain dan merancang ulang secara responsif?
+5. Bagaimana kritik berbasis tugas membantu proses iterasi?

@@ -253,3 +253,36 @@ LATIHAN
 PROYEK
 Buat audit konseptual ruang kelas tanpa membongkar atau mengubah instalasi. Catat pola pemakaian, pencahayaan, keluhan kenyamanan, dan informasi energi yang tersedia dengan izin. Susun tiga usulan perbaikan, jelaskan manfaat dan keterbatasannya, serta tentukan data yang diperlukan untuk menguji dampaknya.
 
+BAB LANJUTAN. KENYAMANAN TERMAL DAN PERILAKU PENGGUNA
+
+Kenyamanan termal dipengaruhi suhu udara, suhu radiasi permukaan, kelembapan, kecepatan udara, pakaian, dan tingkat aktivitas. Karena faktor tersebut saling berhubungan, suhu termometer saja tidak menggambarkan seluruh pengalaman penghuni. Dua ruang dengan suhu udara sama dapat terasa berbeda jika satu memiliki permukaan panas atau aliran udara yang berbeda.
+
+Desain bangunan dapat memengaruhi kenyamanan melalui orientasi, peneduhan, ventilasi, massa termal, dan pemilihan material. Peneduh luar dapat mengurangi panas matahari sebelum mencapai kaca. Ventilasi alami dapat membantu pada kondisi tertentu, tetapi efektivitasnya bergantung arah angin, bukaan, keamanan, kebisingan, dan kualitas udara luar. Strategi pasif perlu disesuaikan dengan iklim dan pola penggunaan ruang.
+
+Perilaku penghuni juga memengaruhi energi. Pengaturan tirai, pembukaan jendela, penggunaan peralatan, dan jadwal ruang dapat mengubah beban bangunan. Namun, jangan menyalahkan penghuni atas masalah desain. Pengelola perlu menyediakan kontrol yang mudah dipahami, informasi yang jelas, dan pilihan yang tidak mengorbankan kesehatan atau aksesibilitas.
+
+BAB LANJUTAN. PENCAHAYAAN ALAMI DAN KUALITAS VISUAL
+
+Pencahayaan alami dapat mengurangi kebutuhan lampu pada siang hari, tetapi harus dikendalikan agar tidak menimbulkan silau atau panas berlebih. Kedalaman ruang, ukuran dan posisi jendela, orientasi, peneduh, serta reflektansi permukaan memengaruhi distribusi cahaya. Cahaya yang cukup di dekat jendela belum tentu menjangkau bagian ruang yang lebih dalam.
+
+Silau dapat mengganggu kenyamanan dan kemampuan melihat. Kontras yang terlalu besar antara layar dan latar juga dapat menyebabkan kelelahan visual. Desain perlu mempertimbangkan posisi pekerjaan, arah pandang, jenis aktivitas, dan kebutuhan pengguna yang berbeda. Tirai atau peneduh yang mudah diatur dapat membantu, tetapi harus tetap menjaga keselamatan dan ventilasi.
+
+Lampu buatan dipilih berdasarkan kebutuhan tugas, efisiensi, kualitas warna, distribusi cahaya, dan kemudahan pemeliharaan. Penggunaan sensor dan kontrol otomatis dapat mengurangi energi jika dirancang sesuai pola hunian. Sistem yang terlalu rumit dapat membuat penghuni mematikan kontrol atau menggunakan lampu secara tidak efisien. Evaluasi setelah pemasangan diperlukan untuk memastikan hasil nyata.
+
+BAB LANJUTAN. DEKARBONISASI DAN SIKLUS HIDUP BANGUNAN
+
+Dampak energi bangunan tidak hanya berasal dari listrik dan bahan bakar selama pemakaian. Material konstruksi memiliki energi dan emisi yang terkait ekstraksi, produksi, transportasi, pemasangan, pemeliharaan, dan akhir masa pakai. Analisis siklus hidup membantu membandingkan pilihan secara lebih menyeluruh, tetapi hasilnya bergantung batas sistem, data, umur layanan, dan asumsi.
+
+Perbaikan efisiensi dapat mengurangi kebutuhan energi, sementara elektrifikasi dan pasokan listrik rendah emisi dapat mengubah sumber emisi. Namun, keputusan perlu mempertimbangkan iklim lokal, jaringan energi, biaya, ketersediaan teknologi, dan kemampuan pemeliharaan. Material tahan lama dan desain yang mudah diperbaiki dapat mengurangi kebutuhan penggantian.
+
+Penggunaan kembali bangunan dapat mempertahankan sebagian material dan nilai sosial, tetapi perlu pemeriksaan struktur, keselamatan, aksesibilitas, dan kebutuhan fungsi baru. Pembongkaran bukan satu-satunya pilihan, dan renovasi juga bukan selalu pilihan terbaik. Penilaian harus membandingkan skenario secara transparan.
+
+LATIHAN
+1. Mengapa suhu udara tidak cukup untuk menilai kenyamanan termal?
+2. Sebutkan manfaat dan keterbatasan ventilasi alami.
+3. Apa yang dimaksud silau dalam desain pencahayaan?
+4. Mengapa analisis siklus hidup diperlukan?
+5. Faktor apa yang perlu dibandingkan ketika memilih renovasi atau pembangunan baru?
+
+PROYEK
+Buat evaluasi konseptual ruang belajar. Catat pola penggunaan, sumber panas, cahaya alami, kontrol pengguna, dan data energi yang tersedia dengan izin. Usulkan perbaikan pasif dan operasional, lalu tentukan indikator untuk mengevaluasi kenyamanan, aksesibilitas, serta penggunaan energi. Jangan mengubah instalasi bangunan tanpa tenaga ahli dan izin.

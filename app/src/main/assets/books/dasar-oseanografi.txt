@@ -40,6 +40,8 @@ Suhu air laut dipengaruhi radiasi matahari, pertukaran panas dengan atmosfer, ar
 
 BAB 3. ARUS DAN SIRKULASI
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/arus-laut.svg|Skema konseptual sirkulasi air laut di permukaan dan bagian dalam.]]
+
 [[NEXTY_IMAGE|file:///android_asset/illustrations/arus-laut.svg|Skema arus permukaan, lapisan tengah, dan sirkulasi laut dalam.]]
 
 Arus laut dipengaruhi angin, rotasi bumi, perbedaan kerapatan, bentuk garis pantai, dan topografi dasar laut. Arus memindahkan panas, nutrisi, organisme, dan material. Arus permukaan dan sirkulasi laut dalam memiliki mekanisme serta skala waktu yang berbeda. Peta arus harus dibaca bersama periode pengamatan.

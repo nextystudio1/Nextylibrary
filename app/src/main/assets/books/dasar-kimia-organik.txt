@@ -31,6 +31,8 @@ Ikatan kovalen terbentuk ketika atom berbagi pasangan elektron. Panjang ikatan, 
 
 BAB 3. GUGUS FUNGSI
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/molekul-organik.svg|Model beberapa gugus fungsi organik dan pengaruhnya terhadap sifat senyawa.]]
+
 Gugus fungsi adalah susunan atom tertentu yang memberi pola reaktivitas khas. Alkohol memiliki gugus hidroksil, aldehida dan keton memiliki gugus karbonil, sedangkan asam karboksilat memiliki gugus karboksil. Penamaan dan pengenalan gugus fungsi membantu mengelompokkan senyawa serta memprediksi reaksi secara umum.
 
 BAB 4. ISOMER DAN STEREOKIMIA

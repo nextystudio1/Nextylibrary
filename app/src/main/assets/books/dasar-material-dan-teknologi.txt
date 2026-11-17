@@ -31,6 +31,8 @@ Logam umumnya memiliki konduktivitas listrik dan panas yang baik serta dapat dib
 
 BAB 3. POLIMER DAN ELASTOMER
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/struktur-polimer.svg|Diagram unit berulang yang membentuk rantai polimer.]]
+
 Polimer tersusun dari rantai molekul panjang. Sifatnya dipengaruhi struktur rantai, suhu, aditif, dan proses pembentukan. Termoplastik dapat dilunakkan kembali dengan pemanasan yang sesuai, sedangkan termoset membentuk jaringan yang tidak mudah dilelehkan ulang. Elastomer dapat mengalami deformasi besar dan kembali mendekati bentuk awal.
 
 BAB 4. KERAMIK DAN KACA

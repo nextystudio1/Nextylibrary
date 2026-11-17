@@ -38,6 +38,8 @@ Sumber daya bersama sulit membatasi penggunaannya dan dapat berkurang ketika dig
 
 BAB 4. EKONOMI SIRKULAR
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/ekonomi-sirkular.svg|Siklus rancang, gunakan, perbaiki, pakai ulang, dan daur ulang.]]
+
 Ekonomi sirkular berupaya mengurangi limbah dengan merancang produk tahan lama, memperbaiki, menggunakan kembali, dan mendaur ulang bahan. Daur ulang penting, tetapi pencegahan limbah dan desain yang baik sering lebih efektif. Sistem perlu mempertimbangkan energi, transportasi, dan kualitas bahan.
 
 BAB 5. KEBIJAKAN DAN INSTRUMEN

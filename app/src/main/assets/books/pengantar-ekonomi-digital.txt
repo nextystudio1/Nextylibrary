@@ -253,3 +253,44 @@ LATIHAN BAB
 3. Mengapa klaim sirkular perlu dinilai sepanjang siklus hidup?
 4. Sebutkan empat indikator ekonomi sirkular.
 5. Bagaimana hak atas perbaikan dapat memengaruhi model bisnis?
+
+BAB LANJUTAN: DATA, PLATFORM, DAN PERSAINGAN
+
+Ekonomi digital mengubah cara nilai diciptakan, disalurkan, dan dipertukarkan. Data dapat menjadi masukan bagi rekomendasi, perencanaan persediaan, deteksi penipuan, dan pengembangan layanan. Namun data bukan sumber daya yang bebas digunakan tanpa batas. Pengumpulan perlu memiliki tujuan yang jelas, dasar yang sah, batas penyimpanan, pengamanan, serta mekanisme bagi orang untuk memahami dan menggunakan haknya. Organisasi juga perlu menghindari pengumpulan berlebihan hanya karena penyimpanan data semakin murah.
+
+Nilai data sering meningkat ketika digabungkan dengan data lain, tetapi penggabungan dapat menambah risiko identifikasi dan penyalahgunaan. Data yang tampak anonim dapat menjadi mudah dikenali kembali ketika dikaitkan dengan lokasi, waktu, atau atribut lain. Pengurangan risiko mencakup pembatasan akses, agregasi, penghilangan atribut langsung, pengujian kemungkinan identifikasi ulang, dan pengawasan penggunaan. Tidak ada satu teknik yang menjamin anonimitas mutlak untuk semua konteks.
+
+Platform multi-sisi menghubungkan kelompok pengguna yang saling membutuhkan, seperti penjual dan pembeli atau pengemudi dan penumpang. Keputusan harga pada satu sisi dapat memengaruhi partisipasi sisi lain. Efek jaringan muncul ketika manfaat layanan meningkat seiring bertambahnya pengguna, tetapi efek tersebut juga dapat menciptakan hambatan masuk bagi pesaing. Platform yang sudah besar dapat memperoleh keuntungan dari data, merek, dan biaya perpindahan pengguna.
+
+Biaya perpindahan terjadi ketika pengguna sulit meninggalkan suatu layanan karena riwayat, kontak, format berkas, langganan, atau perangkat yang terhubung. Portabilitas data dan interoperabilitas dapat mengurangi hambatan, tetapi perlu dirancang dengan perlindungan keamanan. Kemudahan memindahkan data harus disertai verifikasi identitas dan persetujuan yang jelas agar tidak membuka jalan bagi pengambilalihan akun.
+
+Persaingan digital tidak hanya dilihat dari harga. Layanan gratis dapat bersaing melalui perhatian pengguna, data, iklan, kualitas rekomendasi, atau ekosistem produk. Analisis pasar perlu mempertimbangkan kualitas, privasi, pilihan, inovasi, serta kemampuan pelaku usaha kecil menjangkau pelanggan. Penilaian terhadap dominasi pasar juga perlu membedakan pertumbuhan karena inovasi dari praktik yang menghambat persaingan secara tidak sehat.
+
+TENAGA KERJA DAN KETERAMPILAN DIGITAL
+
+Otomatisasi dapat menggantikan sebagian tugas sekaligus menciptakan tugas baru. Dampaknya tidak sama pada semua pekerjaan. Pekerjaan yang terdiri dari langkah rutin dan terstruktur lebih mudah diotomatisasi dibanding pekerjaan yang menuntut penilaian kontekstual, hubungan sosial, kreativitas, dan tanggung jawab kompleks. Namun hampir semua bidang dapat berubah karena perangkat digital menggeser komposisi tugas.
+
+Analisis pekerjaan sebaiknya memeriksa tugas, bukan hanya nama jabatan. Dalam satu pekerjaan, pencatatan rutin mungkin dapat diotomatisasi sementara komunikasi dengan pelanggan tetap membutuhkan manusia. Pelatihan yang efektif menghubungkan keterampilan teknis dengan pemahaman bidang, komunikasi, pemecahan masalah, dan kemampuan mengevaluasi hasil alat otomatis. Program pelatihan juga perlu menyediakan waktu belajar dan pengakuan atas keterampilan yang diperoleh.
+
+Kerja berbasis platform dapat membuka akses pasar dan fleksibilitas, tetapi juga menimbulkan ketidakpastian pendapatan, penilaian otomatis, dan ketergantungan pada aturan platform. Transparansi tentang cara penugasan, penilaian, dan penonaktifan akun penting bagi pekerja. Perlindungan sosial perlu mempertimbangkan bentuk hubungan kerja dan risiko yang benar-benar dihadapi, bukan sekadar label dalam aplikasi.
+
+INFRASTRUKTUR DAN KETAHANAN EKONOMI DIGITAL
+
+Ekonomi digital bergantung pada jaringan komunikasi, pusat data, perangkat, listrik, kabel bawah laut, dan sistem pembayaran. Gangguan pada satu komponen dapat memengaruhi layanan lain. Ketahanan dibangun melalui cadangan, pemulihan bencana, pengujian keamanan, pemantauan, serta rencana komunikasi ketika layanan terganggu. Organisasi perlu mengetahui layanan pihak ketiga yang menjadi ketergantungannya.
+
+Kesenjangan digital mencakup akses, keterjangkauan, mutu koneksi, perangkat, keterampilan, dan kemampuan menggunakan layanan dengan aman. Menyediakan jaringan saja belum cukup jika layanan publik tidak ramah bagi penyandang disabilitas atau warga yang memiliki literasi digital terbatas. Desain multi-kanal, bantuan tatap muka, bahasa yang mudah dipahami, dan mekanisme pengaduan tetap diperlukan.
+
+Pengadaan teknologi publik perlu menilai biaya sepanjang siklus hidup, bukan hanya harga awal. Biaya dapat meliputi lisensi, pemeliharaan, migrasi, pelatihan, keamanan, dan penghentian layanan. Kontrak perlu mengatur kepemilikan data, akses saat kerja sama berakhir, portabilitas, standar terbuka, serta tanggung jawab ketika terjadi insiden. Penguncian pada satu penyedia dapat meningkatkan biaya dan mengurangi fleksibilitas.
+
+STUDI KASUS: TOKO KECIL BERPINDAH KE PLATFORM
+
+Sebuah toko lokal memakai platform untuk menerima pesanan. Pada tahap awal, jangkauan pelanggan meningkat. Setelah beberapa bulan, pemilik menyadari biaya komisi, promosi berbayar, dan ketergantungan pada peringkat pencarian memengaruhi margin. Toko kemudian menghitung keuntungan per pesanan setelah seluruh biaya, bukan hanya omzet yang terlihat pada dasbor.
+
+Pemilik tetap menggunakan platform untuk menjangkau pelanggan baru, tetapi membangun pencatatan stok dan layanan pelanggan yang dapat dipindahkan. Informasi pelanggan disimpan sesuai aturan dan persetujuan yang berlaku. Toko juga memperbaiki katalog, foto produk, dan proses pengiriman. Keputusan tersebut bukan berarti meninggalkan platform, melainkan mengurangi ketergantungan operasional dan memperkuat kemampuan usaha mengelola hubungan dengan pelanggan.
+
+LATIHAN BAB
+1. Mengapa penggabungan beberapa kumpulan data dapat meningkatkan risiko privasi?
+2. Jelaskan efek jaringan pada platform multi-sisi.
+3. Mengapa otomatisasi perlu dianalisis pada tingkat tugas?
+4. Sebutkan komponen ketahanan infrastruktur digital.
+5. Buat daftar biaya siklus hidup untuk pengadaan sistem digital.

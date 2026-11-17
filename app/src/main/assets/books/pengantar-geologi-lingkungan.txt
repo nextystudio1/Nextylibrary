@@ -363,3 +363,52 @@ Kegiatan pertambangan, industri, dan perubahan lahan dapat mengubah kualitas tan
 
 Pemulihan lokasi tercemar dimulai dengan penyelidikan oleh tenaga kompeten, pengambilan sampel yang mengikuti prosedur, dan penilaian risiko. Pilihan pemulihan bergantung pada jenis kontaminan, kondisi geologi, penggunaan lahan, dan perlindungan masyarakat. Hasil pemantauan jangka panjang diperlukan untuk memastikan perbaikan bertahan.
 
+BAB LANJUTAN: AIR TANAH, GERAKAN TANAH, DAN PENGELOLAAN RISIKO GEOLOGI
+
+Siklus air dan sistem air tanah
+
+Air hujan sebagian mengalir di permukaan, sebagian menguap, diserap tumbuhan, atau meresap ke dalam tanah. Air yang meresap dapat bergerak melalui pori dan rekahan batuan menuju zona jenuh. Lapisan yang mampu menyimpan dan mengalirkan air dalam jumlah berarti disebut akuifer. Sifat akuifer dipengaruhi porositas, permeabilitas, ketebalan, struktur geologi, dan kondisi pengisian ulang.
+
+Air tanah tidak selalu bergerak mengikuti garis lurus dari daerah tinggi ke rendah secara sederhana. Aliran dipengaruhi gradien hidraulik dan sifat material. Pemompaan dapat menurunkan muka air setempat dan mengubah arah aliran. Pengambilan yang melampaui pengisian ulang dapat menyebabkan penurunan cadangan, intrusi air asin di wilayah pesisir, atau penurunan tanah pada kondisi tertentu.
+
+Perlindungan kualitas air tanah
+
+Kualitas air tanah dipengaruhi geologi alami dan aktivitas manusia. Zat terlarut dapat berasal dari mineral, pertanian, limbah, kebocoran penyimpanan, atau kegiatan industri. Kontaminan bergerak dengan air dan dapat berubah melalui proses kimia maupun biologis. Kecepatan serta arah pergerakannya bergantung pada jenis zat, kondisi tanah, dan karakter akuifer.
+
+Pemantauan perlu menggunakan titik sampel yang dirancang sesuai tujuan dan arah aliran air tanah. Sampel harus diambil, disimpan, dan dianalisis dengan prosedur yang menjaga kualitas data. Satu hasil uji tidak selalu menggambarkan keseluruhan wilayah. Interpretasi memerlukan informasi latar geologi, penggunaan lahan, kedalaman sumur, dan riwayat pengambilan sampel.
+
+Erosi dan sedimentasi
+
+Erosi adalah pelepasan serta pemindahan material oleh air, angin, es, atau gravitasi. Aktivitas manusia seperti pembukaan lahan, konstruksi, dan hilangnya vegetasi dapat mempercepat proses. Sedimentasi terjadi ketika material yang terbawa mengendap, misalnya di sungai, waduk, dan pesisir. Dampaknya dapat mencakup pendangkalan, perubahan habitat, dan peningkatan kekeruhan.
+
+Pengelolaan erosi dimulai dengan memahami sumber sedimen dan jalur pergerakannya. Penutup tanah, pengaturan drainase, stabilisasi lereng, dan perlindungan vegetasi dapat menjadi bagian dari pendekatan, tetapi harus disesuaikan dengan kondisi lokasi. Intervensi di satu titik dapat memindahkan aliran atau erosi ke lokasi lain, sehingga evaluasi dilakukan pada skala daerah tangkapan.
+
+Gerakan tanah dan kestabilan lereng
+
+Gerakan tanah mencakup berbagai perpindahan material lereng, dari jatuhan batu hingga longsoran yang lebih luas. Faktor pemicu dapat meliputi hujan, perubahan muka air tanah, erosi kaki lereng, getaran, dan perubahan beban. Kerentanan dipengaruhi kemiringan, jenis material, struktur geologi, pelapukan, drainase, serta sejarah kejadian.
+
+Peta kerentanan bukan ramalan pasti bahwa longsor akan terjadi pada waktu tertentu. Peta menunjukkan kondisi relatif yang perlu digabungkan dengan informasi curah hujan, pemantauan, penggunaan lahan, dan riwayat kejadian. Penilaian teknis memerlukan tenaga ahli dan data lapangan. Warga perlu mengikuti peringatan resmi dan rencana evakuasi setempat, bukan mencoba memeriksa lereng yang menunjukkan tanda bahaya.
+
+Bahaya gempa dan kondisi geologi lokal
+
+Guncangan gempa dapat diperkuat atau berubah oleh kondisi tanah setempat. Endapan lunak, ketebalan sedimen, dan topografi dapat memengaruhi respons gelombang. Risiko tidak hanya bergantung pada jarak dari sumber gempa, tetapi juga kualitas bangunan, kepadatan penduduk, jaringan infrastruktur, dan kesiapsiagaan.
+
+Pemetaan geologi teknik membantu mengenali jenis tanah dan batuan untuk perencanaan bangunan serta infrastruktur. Peta regional tidak menggantikan investigasi tapak untuk proyek penting. Pengujian dan desain harus mengikuti standar serta dilakukan tenaga profesional. Informasi bahaya harus diterjemahkan menjadi keputusan tata ruang, standar konstruksi, dan rencana darurat.
+
+Geologi pesisir dan perubahan garis pantai
+
+Garis pantai berubah akibat gelombang, arus, pasang surut, suplai sedimen, perubahan muka laut, dan kegiatan manusia. Bangunan pantai dapat melindungi satu lokasi tetapi mengubah distribusi sedimen di tempat lain. Karena itu, evaluasi perlu melihat sistem pesisir secara menyeluruh dan memperhatikan habitat serta mata pencaharian masyarakat.
+
+Pemantauan dapat menggunakan foto berulang, citra, survei lapangan, dan data pasang surut. Perbandingan harus mempertimbangkan musim, kondisi gelombang, dan ketelitian posisi. Satu citra tidak cukup untuk menyimpulkan tren jangka panjang. Catatan lokal dari nelayan dan warga pesisir dapat melengkapi data instrumen, dengan tetap diuji silang.
+
+Pertambangan, bahan geologi, dan pemulihan lahan
+
+Kegiatan pertambangan mengubah bentuk lahan, aliran air, habitat, dan pola sosial ekonomi. Risiko bergantung pada jenis bahan, metode ekstraksi, pengelolaan limbah, kestabilan fasilitas, dan pengawasan. Perencanaan perlu mencakup penilaian dampak, keselamatan pekerja dan masyarakat, pengelolaan air, serta rencana penutupan sejak awal.
+
+Pemulihan lahan tidak cukup dilakukan dengan menutup permukaan. Tujuannya dapat mencakup kestabilan bentuk lahan, pengendalian erosi, kualitas air, pemulihan vegetasi, dan penggunaan pascatambang yang aman. Indikator harus disesuaikan dengan kondisi awal dan disertai pemantauan jangka panjang. Tanggung jawab dan pendanaan pemulihan perlu jelas sebelum kegiatan berlangsung.
+
+Menyusun peta risiko geologi
+
+Peta risiko menggabungkan bahaya, paparan, dan kerentanan. Bahaya menjelaskan proses yang berpotensi merusak; paparan menunjukkan manusia dan aset yang berada di area terdampak; kerentanan menggambarkan tingkat kemungkinan mengalami kerugian. Peta bahaya saja belum menjelaskan seluruh risiko masyarakat.
+
+Latihan pemetaan dapat memilih satu jenis bahaya di wilayah studi, mengumpulkan peta geologi dan penggunaan lahan, serta mencatat sumber data dan skala. Tandai fasilitas penting, jalur akses, dan kelompok yang mungkin memerlukan dukungan. Jelaskan ketidakpastian dan jangan menampilkan peta latihan sebagai peringatan resmi. Hasilnya dapat menjadi bahan diskusi dengan instansi kebencanaan dan ahli setempat.

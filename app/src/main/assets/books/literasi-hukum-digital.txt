@@ -305,3 +305,36 @@ LATIHAN BAB
 3. Mengapa kepemilikan salinan konten tidak sama dengan hak distribusi?
 4. Apa risiko keputusan otomatis yang tidak menyediakan mekanisme koreksi?
 5. Buat daftar informasi penting yang perlu dijelaskan dalam transaksi digital.
+
+BAB PENDALAMAN: IDENTITAS, DATA PRIBADI, DAN PERSETUJUAN
+
+Layanan digital mengumpulkan berbagai jenis informasi, mulai dari data akun hingga jejak penggunaan. Tidak semua data memiliki tingkat risiko yang sama. Informasi yang dapat mengidentifikasi seseorang, jika digabungkan dengan data lain, dapat menimbulkan risiko privasi. Karena itu, pengguna dan penyelenggara perlu memahami tujuan pengumpulan, dasar pemrosesan, masa penyimpanan, pihak penerima, serta mekanisme pemenuhan hak sesuai hukum yang berlaku.
+
+Persetujuan yang bermakna memerlukan informasi yang mudah dipahami dan pilihan yang tidak menyesatkan. Persetujuan tidak seharusnya disamarkan dalam teks panjang yang sulit dibaca atau dipaksakan melalui desain antarmuka manipulatif. Dalam situasi tertentu, pemrosesan data dapat memiliki dasar hukum lain selain persetujuan; dasar tersebut perlu dinilai sesuai konteks dan ketentuan yang berlaku.
+
+Prinsip minimisasi data berarti hanya mengumpulkan informasi yang diperlukan untuk tujuan yang jelas. Pembatasan akses, pengamanan, dan jadwal penghapusan mengurangi risiko penyalahgunaan. Pengguna sebaiknya berhati-hati membagikan data yang tidak relevan, sedangkan organisasi perlu merancang perlindungan sejak tahap pengembangan layanan.
+
+BAB PENDALAMAN: BUKTI ELEKTRONIK DAN KEANDALAN INFORMASI
+
+Informasi elektronik dapat menjadi bagian dari pembuktian, tetapi keandalannya perlu dinilai. Asal dokumen, konteks, waktu, integritas, dan cara perolehannya dapat memengaruhi penilaian. Tangkapan layar mungkin membantu menunjukkan tampilan, tetapi tidak selalu menyimpan seluruh metadata atau konteks percakapan. Satu potongan informasi tidak boleh langsung dianggap menggambarkan keseluruhan peristiwa.
+
+Rantai penguasaan bukti menjelaskan siapa yang memperoleh, menyimpan, memindahkan, dan memeriksa suatu berkas. Catatan yang rapi membantu menunjukkan apakah berkas berubah selama proses. Dalam konteks pembelajaran, gunakan contoh sintetis atau materi yang diperoleh secara sah. Jangan mengakses akun, perangkat, atau data orang lain tanpa kewenangan.
+
+BAB PENDALAMAN: KONTRAK DAN TRANSAKSI ELEKTRONIK
+
+Transaksi digital tetap memerlukan kejelasan mengenai pihak, objek, harga, kewajiban, waktu, dan mekanisme penyelesaian masalah. Ketentuan layanan sebaiknya dibaca sebelum pengguna menyetujui transaksi, terutama bagian pembatalan, pengembalian dana, penggunaan data, dan pembatasan tanggung jawab. Bukti pembayaran dan komunikasi transaksi perlu disimpan secara aman.
+
+Tanda tangan elektronik memiliki bentuk dan tingkat keandalan yang berbeda. Penilaian hukumnya bergantung pada ketentuan yang berlaku, metode identifikasi, integritas dokumen, serta proses penerbitan. Jangan menganggap gambar tanda tangan yang ditempel pada dokumen otomatis memiliki karakteristik yang sama dengan layanan tanda tangan elektronik yang memenuhi persyaratan hukum.
+
+BAB PENDALAMAN: PLATFORM, MODERASI, DAN TANGGUNG JAWAB
+
+Platform digital mengatur interaksi melalui ketentuan layanan, sistem pelaporan, moderasi, dan rekomendasi konten. Keputusan moderasi dapat memengaruhi kebebasan berekspresi, keamanan pengguna, dan akses informasi. Prosedur yang baik menjelaskan aturan, alasan tindakan, cara mengajukan keberatan, serta waktu peninjauan yang wajar.
+
+Tanggung jawab para pihak tidak selalu sama. Pembuat konten, pengguna, penyedia layanan, dan pengelola sistem memiliki peran serta kewajiban yang dapat berbeda menurut hukum dan fakta. Analisis perlu menghindari kesimpulan umum sebelum mengetahui tindakan, kendali, pengetahuan, dan dampak yang relevan.
+
+BAB PENDALAMAN: MENILAI ISU HUKUM DIGITAL
+
+Untuk menganalisis masalah, susun kronologi, identifikasi pihak, rumuskan isu, cari aturan yang relevan, lalu bandingkan fakta dengan unsur ketentuan. Bedakan fakta yang telah didukung bukti dari dugaan atau pendapat. Periksa tanggal aturan dan perubahan regulasi karena ketentuan dapat berubah.
+
+Materi pengantar bukan pengganti nasihat hukum profesional. Persoalan nyata dapat bergantung pada yurisdiksi, dokumen, dan keadaan khusus. Jika menghadapi sengketa atau risiko serius, mintalah bantuan pihak yang kompeten melalui jalur resmi. Literasi hukum digital bertujuan membantu orang bertanya dengan tepat dan memahami hak serta tanggung jawab, bukan mendorong tindakan sepihak.
+

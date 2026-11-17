@@ -250,3 +250,35 @@ LATIHAN DAN PEMBAHASAN
 
 PROYEK MINI
 Rancang teori perubahan satu halaman untuk usaha sosial hipotetis yang membantu akses bahan bacaan. Tentukan kelompok sasaran, masalah, kegiatan, keluaran, hasil, tiga indikator, risiko yang tidak diinginkan, dan cara meminta masukan peserta. Tandai klaim mana yang dapat diukur segera dan mana yang memerlukan pengamatan jangka panjang.
+
+BAB LANJUTAN. PERANCANGAN LAYANAN BERSAMA KOMUNITAS
+
+Usaha sosial sebaiknya tidak memulai solusi hanya dari asumsi pendirinya. Riset partisipatif mengajak kelompok yang mengalami masalah ikut menentukan kebutuhan, kriteria keberhasilan, dan bentuk layanan. Wawancara, diskusi kelompok, observasi, dan pemetaan perjalanan pengguna dapat memberi gambaran berbeda. Metode dipilih dengan memperhatikan keamanan, aksesibilitas, dan kesediaan peserta.
+
+Keterlibatan yang bermakna memerlukan umpan balik yang ditindaklanjuti. Jika komunitas diminta memberi pendapat tetapi tidak pernah mengetahui hasilnya, kepercayaan dapat menurun. Jelaskan keputusan yang berubah, keputusan yang belum dapat diubah, serta alasannya. Hindari menjadikan satu orang sebagai wakil seluruh komunitas; pengalaman di dalam kelompok dapat beragam.
+
+Prototipe layanan memungkinkan gagasan diuji dalam skala kecil. Prototipe dapat berupa jadwal, formulir, contoh materi, atau simulasi alur layanan. Uji apakah orang memahami informasi, dapat menyelesaikan tugas, dan mengetahui tempat meminta bantuan. Catat hambatan tanpa menyalahkan peserta. Perbaikan perlu dilakukan sebelum memperluas layanan.
+
+BAB LANJUTAN. PENGUKURAN DAMPAK DAN RISIKO YANG TIDAK DIINGINKAN
+
+Teori perubahan menjelaskan hubungan antara sumber daya, kegiatan, keluaran, hasil, dan dampak yang diharapkan. Hubungan tersebut merupakan hipotesis yang perlu diuji, bukan jaminan. Sebuah program kelas belajar mungkin menyelenggarakan banyak sesi, tetapi hasil belajar dapat dipengaruhi kehadiran, mutu fasilitator, waktu, dan dukungan rumah. Indikator harus membantu memahami mekanisme, bukan sekadar menunjukkan jumlah kegiatan.
+
+Pengukuran dampak memerlukan data dasar, definisi indikator, jadwal, dan metode pengumpulan. Pilih ukuran yang sesuai dengan manfaat yang dijanjikan. Jika tujuan program adalah meningkatkan akses bacaan, jumlah buku yang dibagikan saja tidak cukup; periksa apakah bahan sesuai kebutuhan, mudah dijangkau, dan benar-benar digunakan. Data kualitatif dapat membantu memahami mengapa hasil berbeda antar kelompok.
+
+Program dapat menimbulkan dampak yang tidak diinginkan. Layanan gratis dapat membuat penyedia lokal kehilangan pelanggan; bantuan berbasis seleksi dapat menimbulkan stigma; pengumpulan data penerima manfaat dapat membuka risiko privasi. Analisis risiko perlu melibatkan penerima manfaat dan menyediakan mekanisme pengaduan yang aman. Jika dampak negatif lebih besar daripada manfaat, desain harus diubah atau kegiatan dihentikan.
+
+BAB LANJUTAN. KEMITRAAN DAN AKUNTABILITAS
+
+Kemitraan dapat memperluas jangkauan, keahlian, dan sumber daya, tetapi juga menciptakan ketergantungan. Kesepakatan perlu menyatakan tujuan bersama, kontribusi, pembagian keputusan, penggunaan merek, kepemilikan hasil, pengelolaan data, dan cara mengakhiri kerja sama. Perbedaan misi perlu dibicarakan sebelum kegiatan berjalan.
+
+Akuntabilitas bukan hanya laporan kepada pemberi dana. Organisasi juga bertanggung jawab kepada penerima manfaat, pekerja, relawan, pemasok, dan komunitas. Laporan yang baik menyampaikan hasil, penggunaan dana, kegagalan, keterbatasan, dan rencana perbaikan. Bahasa harus dapat dipahami oleh pihak yang terdampak, bukan hanya oleh pembaca laporan keuangan.
+
+LATIHAN
+1. Mengapa komunitas perlu dilibatkan dalam perumusan solusi?
+2. Apa perbedaan keluaran dan hasil dalam teori perubahan?
+3. Berikan contoh dampak tidak diinginkan dari program sosial.
+4. Apa saja yang perlu diatur dalam kemitraan?
+5. Mengapa akuntabilitas harus mencakup penerima manfaat?
+
+PROYEK
+Rancang uji coba usaha sosial untuk meningkatkan akses belajar. Buat rencana partisipasi, prototipe layanan, indikator hasil, daftar dampak tak diinginkan, prosedur pengaduan, dan aturan kemitraan. Tetapkan syarat untuk memperluas, mengubah, atau menghentikan uji coba.

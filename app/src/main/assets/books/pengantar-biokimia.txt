@@ -244,3 +244,41 @@ LATIHAN BAB 24
 3. Mengapa oksigen penting dalam respirasi aerob?
 4. Mengapa hasil ATP tidak selalu merupakan angka yang sama pada setiap kondisi?
 5. Sebutkan satu fungsi mitokondria selain produksi ATP.
+
+BAB 25. REGULASI METABOLISME DAN INTEGRASI JALUR
+
+Jalur metabolisme tidak bekerja sebagai rangkaian terpisah. Sel mengatur aliran bahan melalui ketersediaan substrat, aktivitas enzim, modifikasi protein, dan pengaturan ekspresi gen. Pengaturan alosterik terjadi ketika molekul berikatan pada bagian enzim selain sisi aktif dan mengubah aktivitasnya. Umpan balik negatif dapat terjadi ketika produk akhir menghambat langkah awal jalur sehingga produksi tidak berlebihan. Mekanisme ini membantu sel menyesuaikan penggunaan sumber daya dengan kebutuhan.
+
+Regulasi melalui modifikasi kovalen, seperti fosforilasi, dapat mengubah aktivitas, lokasi, atau interaksi protein. Enzim kinase menambahkan gugus fosfat, sedangkan fosfatase melepaskannya. Dampaknya bergantung pada protein dan konteks; fosforilasi tidak selalu mengaktifkan enzim. Sinyal dari luar sel dapat memicu rangkaian respons yang menghubungkan reseptor membran dengan perubahan metabolisme di dalam sel.
+
+Jaringan metabolik juga dipengaruhi kompartemen. Reaksi tertentu berlangsung di sitosol, mitokondria, atau organel lain. Pemisahan ini membantu mengatur lingkungan reaksi dan mencegah proses yang tidak sesuai berlangsung bersamaan. Perpindahan metabolit antar-kompartemen memerlukan pembawa atau sistem transportasi. Karena itu, diagram jalur perlu menunjukkan lokasi, bukan hanya urutan panah.
+
+Ketika membahas metabolisme organisme, hindari menyamakan satu jalur dengan seluruh keadaan tubuh. Kebutuhan energi, jenis jaringan, tahap pertumbuhan, aktivitas, dan kondisi lingkungan dapat mengubah prioritas metabolik. Buku pengantar menjelaskan prinsip umum, sedangkan penilaian kondisi individu memerlukan data dan keahlian yang sesuai.
+
+BAB 26. MEMBRAN BIOLOGIS DAN TRANSPOR MOLEKUL
+
+Membran biologis tersusun terutama dari lapisan ganda lipid dengan protein yang memiliki fungsi beragam. Bagian kepala lipid berinteraksi dengan air, sedangkan ekornya cenderung menghindari air. Susunan ini membentuk penghalang selektif yang memungkinkan sel mempertahankan komposisi internal berbeda dari lingkungan. Membran bersifat dinamis; komponen dapat bergerak dan susunannya dipengaruhi jenis lipid, suhu, serta protein.
+
+Difusi sederhana terjadi ketika molekul bergerak mengikuti gradien konsentrasi tanpa bantuan protein pembawa. Molekul tertentu memerlukan kanal atau transporter karena ukuran, muatan, atau sifat kimianya. Transpor terfasilitasi tetap mengikuti gradien elektrokimia dan tidak secara langsung memerlukan energi metabolik. Sebaliknya, transpor aktif memindahkan zat melawan gradien dan memerlukan sumber energi, baik secara langsung maupun melalui gradien lain.
+
+Osmosis menggambarkan perpindahan air melalui membran selektif akibat perbedaan potensial air. Istilah hipotonik, hipertonik, dan isotonik menjelaskan hubungan konsentrasi efektif zat terlarut antara dua lingkungan. Dampak pada sel bergantung pada jenis sel dan karakter membrannya. Penjelasan harus menyebutkan sisi pembanding agar istilah tersebut tidak digunakan secara terbalik.
+
+Transportasi membran berperan dalam penyerapan nutrien, pengaturan ion, komunikasi sel, dan pembuangan zat. Reseptor membran menerima sinyal, sedangkan protein kanal dan pompa membantu menjaga kondisi internal. Gangguan pada protein transport dapat mengubah fungsi jaringan. Hubungan ini menunjukkan bahwa struktur molekul dan fungsi fisiologis saling terkait.
+
+BAB 27. ENZIM, KINETIKA, DAN INTERPRETASI DATA
+
+Kinetika enzim mempelajari hubungan laju reaksi dengan konsentrasi substrat dan kondisi reaksi. Pada model sederhana, laju meningkat ketika konsentrasi substrat bertambah, lalu mendekati keadaan jenuh ketika banyak sisi aktif telah terisi. Parameter seperti laju maksimum dan konstanta Michaelis membantu membandingkan sistem dalam kondisi tertentu. Parameter tersebut tidak boleh ditafsirkan sebagai ukuran tunggal kualitas enzim tanpa mempertimbangkan model dan kondisi pengukuran.
+
+Inhibitor kompetitif bersaing dengan substrat pada sisi aktif, sedangkan inhibitor nonkompetitif dalam model tertentu berikatan pada lokasi lain dan mengubah aktivitas. Sistem nyata dapat menunjukkan mekanisme yang lebih kompleks. Perubahan pH, suhu, kekuatan ion, dan konsentrasi enzim juga dapat mengubah hasil. Karena itu, laporan eksperimen harus menyebutkan kondisi dan kontrol yang digunakan.
+
+Grafik kinetika membantu melihat pola, tetapi transformasi matematis dapat mengubah sebaran galat. Analisis sebaiknya menggunakan metode yang sesuai dan tidak memilih grafik hanya karena menghasilkan garis lurus. Ulangan eksperimen, kontrol negatif dan positif, serta pencatatan data mentah membantu menilai keandalan. Nilai yang menyimpang perlu ditinjau berdasarkan prosedur yang terdokumentasi, bukan dihapus tanpa alasan.
+
+LATIHAN
+1. Jelaskan umpan balik negatif dalam regulasi metabolisme.
+2. Apa perbedaan difusi terfasilitasi dan transpor aktif?
+3. Mengapa istilah hipotonik perlu menyebutkan pembanding?
+4. Apa makna kejenuhan enzim pada peningkatan substrat?
+5. Mengapa kondisi eksperimen perlu dicantumkan dalam laporan?
+
+PROYEK
+Gunakan data kinetika enzim contoh yang disediakan guru atau sumber pendidikan terbuka. Buat grafik laju terhadap konsentrasi substrat, jelaskan pola kejenuhan, dan sebutkan keterbatasan model. Jangan melakukan eksperimen dengan bahan biologis atau kimia tanpa fasilitas dan pengawasan yang sesuai.

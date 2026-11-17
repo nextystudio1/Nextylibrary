@@ -254,3 +254,46 @@ LATIHAN
 4. Apa manfaat dan keterbatasan konsolidasi logistik?
 5. Mengapa indikator emisi perlu memiliki batas sistem yang jelas?
 
+PENDALAMAN TRANSPORTASI: KESELAMATAN, PERMINTAAN, DAN KEBIJAKAN
+
+BAB LANJUTAN: KESELAMATAN JALAN DAN SISTEM YANG MEMAAFKAN KESALAHAN
+
+Keselamatan transportasi merupakan hasil interaksi desain jalan, kecepatan, kendaraan, perilaku, penegakan aturan, dan kualitas layanan darurat. Pendekatan sistem yang aman tidak mengandalkan anggapan bahwa setiap pengguna selalu bertindak sempurna. Infrastruktur dan aturan perlu mengurangi kemungkinan kesalahan berubah menjadi cedera serius.
+
+Kecepatan memengaruhi jarak berhenti dan tingkat energi saat terjadi tabrakan. Karena itu, pengelolaan kecepatan harus disesuaikan dengan fungsi jalan dan keberadaan pengguna rentan. Kawasan sekolah, pasar, dan permukiman membutuhkan perhatian khusus terhadap penyeberangan, jarak pandang, trotoar, serta akses kendaraan layanan. Solusi harus dirancang oleh pihak berwenang berdasarkan standar teknis.
+
+Data keselamatan perlu dibaca dengan hati-hati. Jumlah kejadian saja tidak cukup tanpa mengetahui volume perjalanan, jenis pengguna, lokasi, waktu, dan tingkat keparahan. Titik dengan banyak kejadian mungkin memiliki arus pengguna jauh lebih besar. Namun angka yang rendah juga dapat mencerminkan kurangnya pelaporan. Gabungkan catatan resmi, audit infrastruktur, dan informasi komunitas tanpa menyebarkan identitas korban.
+
+BAB LANJUTAN: PERMINTAAN PERJALANAN DAN PILIHAN MODA
+
+Permintaan perjalanan terbentuk dari lokasi rumah, pekerjaan, pendidikan, layanan, harga, waktu, dan kebiasaan. Perjalanan bukan tujuan pada dirinya sendiri; orang bergerak untuk memperoleh akses pada kegiatan. Kebijakan transportasi sebaiknya menilai apakah kebutuhan dapat dipenuhi dengan perjalanan yang lebih singkat, layanan dekat, atau pilihan moda yang lebih baik.
+
+Pilihan moda dipengaruhi biaya total, waktu, keandalan, kenyamanan, keselamatan, dan akses. Biaya kendaraan pribadi bukan hanya bahan bakar, melainkan juga parkir, perawatan, penyusutan, dan penggunaan ruang. Angkutan umum memiliki biaya tarif dan waktu tunggu. Berjalan kaki dan bersepeda memerlukan jaringan yang aman serta nyaman. Perbandingan yang adil harus memasukkan seluruh komponen relevan.
+
+Perubahan tata guna lahan dapat mengubah pola perjalanan dalam jangka panjang. Kawasan dengan campuran fungsi yang terencana dapat mendekatkan sebagian kebutuhan, tetapi tidak semua pekerjaan atau layanan dapat ditempatkan di setiap lingkungan. Perencanaan harus menghubungkan kebijakan ruang, perumahan, dan transportasi.
+
+BAB LANJUTAN: PERENCANAAN ANGKUTAN UMUM BERBASIS KINERJA
+
+Perencanaan rute dimulai dengan memahami pola asal-tujuan secara agregat, pusat kegiatan, dan kelompok yang belum terlayani. Data survei perjalanan perlu menjelaskan periode, cakupan, dan keterbatasan. Data digital dapat memperkaya analisis, tetapi penggunaan data individu memerlukan perlindungan privasi dan dasar yang sah.
+
+Kinerja layanan dapat dinilai melalui frekuensi, keteraturan, ketepatan waktu, kapasitas, waktu tunggu, kemudahan perpindahan, dan akses ke halte. Ketepatan waktu rata-rata dapat menyembunyikan layanan yang sangat tidak teratur. Ukuran variasi dan pengalaman pada jam sibuk perlu dipertimbangkan. Informasi gangguan harus tersedia dalam format yang dapat diakses.
+
+Subsidi angkutan umum dapat dibenarkan untuk mendukung akses dan manfaat publik, tetapi perlu transparansi biaya serta sasaran. Evaluasi tidak hanya menghitung penumpang, melainkan juga akses kelompok berpendapatan berbeda, pengurangan waktu perjalanan, dan kualitas layanan. Perubahan rute harus dikomunikasikan lebih awal dan menyediakan mekanisme masukan.
+
+BAB LANJUTAN: EVALUASI DAMPAK DAN KEADILAN TRANSPORTASI
+
+Proyek transportasi dapat memberi manfaat dan beban yang berbeda. Jalan baru mungkin mempercepat perjalanan sebagian pengguna, tetapi juga memisahkan lingkungan atau meningkatkan kebisingan. Jalur angkutan umum dapat meningkatkan akses, tetapi perubahan kawasan sekitar dapat menaikkan harga sewa. Penilaian perlu memeriksa distribusi dampak dan kemungkinan perpindahan masalah.
+
+Analisis sebelum-sesudah perlu mempertimbangkan perubahan lain yang terjadi bersamaan. Jika waktu perjalanan turun setelah proyek, belum tentu seluruh perubahan disebabkan proyek tersebut. Bandingkan lokasi atau periode yang sesuai, jelaskan faktor luar, dan hindari klaim kausal yang tidak didukung rancangan evaluasi.
+
+PROYEK: AUDIT AKSES PERJALANAN
+
+Pilih perjalanan menuju fasilitas publik dan lakukan pengamatan aman tanpa merekam identitas pengguna. Catat tahap berjalan kaki, menunggu, berpindah moda, dan mencapai tujuan. Identifikasi hambatan fisik serta informasi. Susun tiga rekomendasi dengan mempertimbangkan keselamatan, biaya, pemerataan akses, dan dampak lingkungan.
+
+LATIHAN
+
+1. Mengapa sistem keselamatan tidak boleh bergantung pada perilaku sempurna pengguna?
+2. Sebutkan komponen biaya total kendaraan pribadi.
+3. Mengapa ketepatan waktu rata-rata belum cukup menilai angkutan umum?
+4. Bagaimana proyek transportasi dapat menghasilkan dampak yang tidak merata?
+5. Apa keterbatasan metode evaluasi sebelum-sesudah?

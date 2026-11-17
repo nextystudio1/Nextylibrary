@@ -352,3 +352,29 @@ PROYEK MINI: JURNAL ATMOSFER LOKAL
 
 Selama beberapa hari, catat suhu, kondisi awan secara deskriptif, arah angin jika tersedia, dan hujan berdasarkan pengamatan aman dari tempat terlindung. Sertakan waktu serta lokasi umum tanpa membagikan alamat pribadi. Bandingkan catatan dengan prakiraan resmi. Tujuannya bukan membuktikan prakiraan salah dari satu kejadian, melainkan memahami perbedaan antara pengamatan titik lokal dan prakiraan untuk wilayah yang lebih luas.
 
+BAB LANJUTAN: DINAMIKA CUACA, PENGAMATAN, DAN KETIDAKPASTIAN PRAKIRAAN
+
+Atmosfer merupakan sistem fluida yang bergerak dan bertukar energi dengan permukaan bumi. Pemanasan matahari tidak merata karena perbedaan lintang, musim, tutupan awan, sifat permukaan, dan waktu harian. Perbedaan pemanasan menghasilkan variasi tekanan dan mendorong gerakan udara. Angin bergerak sebagai respons terhadap gradien tekanan, tetapi arahnya juga dipengaruhi rotasi bumi dan gesekan dekat permukaan. Karena faktor-faktor ini saling berinteraksi, pola angin lokal dapat berbeda dari sirkulasi skala luas.
+
+Kelembapan menjelaskan kandungan uap air di udara. Kelembapan relatif membandingkan tekanan uap aktual dengan nilai jenuh pada suhu yang sama. Karena nilai jenuh berubah mengikuti suhu, kelembapan relatif dapat berubah walaupun jumlah uap air tidak banyak berubah. Titik embun memberi informasi tentang kondisi ketika udara mencapai kejenuhan jika didinginkan pada tekanan yang sesuai. Pembedaan istilah ini penting ketika membaca laporan cuaca dan menjelaskan pembentukan awan atau kabut.
+
+Awan terbentuk ketika udara lembap mengalami pendinginan hingga mencapai kejenuhan dan uap air berkondensasi pada partikel yang tersedia. Jenis awan berkaitan dengan proses pengangkatan udara, kestabilan atmosfer, dan kondisi kelembapan. Awan tidak hanya menunjukkan kemungkinan hujan; awan juga memengaruhi penerimaan dan pelepasan radiasi. Pengamatan awan perlu mencatat jenis secara deskriptif, tutupan langit, waktu, serta perubahan selama periode tertentu.
+
+Hujan dapat terbentuk melalui proses mikrofisika yang melibatkan pertumbuhan tetes air atau kristal es. Intensitas hujan di satu titik tidak selalu mewakili seluruh wilayah. Hujan konvektif dapat sangat lokal, sementara sistem hujan luas dapat berlangsung lebih lama. Pengukur hujan harus ditempatkan dengan memperhatikan penghalang dan prosedur pemeliharaan. Data perlu diperiksa terhadap kemungkinan sumbatan, tumpahan, atau kesalahan pencatatan.
+
+Prakiraan cuaca menggunakan pengamatan dan model numerik untuk memperkirakan keadaan atmosfer pada waktu mendatang. Model membagi atmosfer menjadi sel perhitungan dan menyelesaikan persamaan fisika secara pendekatan. Kondisi awal tidak pernah diketahui secara sempurna, sedangkan proses skala kecil mungkin tidak dapat direpresentasikan secara rinci. Akibatnya, prakiraan memiliki ketidakpastian yang meningkat pada umumnya ketika jangka waktu makin panjang. Prakiraan probabilistik menyampaikan peluang, bukan kepastian bahwa suatu kejadian akan terjadi tepat di satu lokasi.
+
+Verifikasi prakiraan membandingkan hasil prediksi dengan pengamatan yang sesuai. Ukuran evaluasi harus dipilih menurut jenis variabel dan tujuan. Prakiraan hujan, misalnya, dapat dinilai melalui ketepatan waktu, lokasi, dan intensitas. Satu prakiraan yang meleset tidak cukup untuk menyimpulkan seluruh sistem tidak berguna. Evaluasi memerlukan banyak kejadian dan periode yang representatif, serta memperhatikan kualitas alat pengamatan.
+
+Iklim berbeda dari cuaca karena menggambarkan pola statistik dalam rentang waktu panjang. Perubahan iklim dapat memengaruhi distribusi suhu, curah hujan, dan kejadian ekstrem, tetapi satu kejadian cuaca tidak dapat dijelaskan hanya dengan satu faktor. Analisis atribusi membandingkan kemungkinan atau intensitas kejadian pada kondisi iklim yang berbeda menggunakan metode ilmiah. Penjelasan yang bertanggung jawab menyebutkan bukti, batas analisis, dan tingkat keyakinan.
+
+Informasi cuaca perlu diterjemahkan menjadi keputusan yang berguna. Peringatan harus menjelaskan jenis bahaya, wilayah, waktu berlaku, tingkat dampak, dan tindakan yang dianjurkan oleh otoritas terkait. Masyarakat perlu mengetahui kanal resmi dan memahami bahwa kondisi lokal dapat berubah. Pengamatan mandiri tidak menggantikan peringatan resmi, terutama untuk aktivitas yang berisiko.
+
+Studi kasus: sekolah ingin menyusun prosedur kegiatan luar ruang saat musim hujan. Pengelola menentukan sumber prakiraan resmi, penanggung jawab pemeriksaan, waktu pembaruan, serta kondisi untuk memindahkan kegiatan. Mereka mencatat keputusan dan membandingkannya dengan pengamatan, tetapi tidak menilai keberhasilan hanya dari apakah hujan turun tepat di halaman sekolah. Fokusnya adalah keselamatan dan proses keputusan yang konsisten.
+
+Latihan penerapan:
+1. Jelaskan perbedaan kelembapan relatif dan jumlah uap air.
+2. Uraikan mengapa hujan lokal sulit diprakirakan secara tepat pada satu titik.
+3. Buat tabel sederhana untuk memverifikasi prakiraan dan pengamatan.
+4. Bedakan satu kejadian cuaca dengan tren iklim.
+5. Susun alur penggunaan informasi peringatan cuaca dari sumber resmi.

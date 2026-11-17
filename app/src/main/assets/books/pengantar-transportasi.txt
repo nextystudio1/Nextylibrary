@@ -365,3 +365,27 @@ LATIHAN PENDALAMAN
 4. Susun indikator aksesibilitas halte dari awal hingga akhir perjalanan.
 5. Buat matriks penilaian tiga alternatif perbaikan koridor.
 
+BAB LANJUTAN: PERENCANAAN JARINGAN, KESELAMATAN, DAN AKSESIBILITAS
+
+Sistem transportasi terdiri atas jaringan, kendaraan, fasilitas, aturan, informasi, dan perilaku pengguna. Kinerja sistem tidak dapat dinilai hanya dari kecepatan kendaraan. Perencana perlu memperhatikan apakah orang dapat mencapai sekolah, pekerjaan, layanan kesehatan, dan kebutuhan sehari-hari dengan biaya serta waktu yang wajar. Ukuran aksesibilitas berfokus pada kesempatan mencapai tujuan, bukan semata-mata jumlah perjalanan atau panjang jalan.
+
+Jaringan transportasi dapat digambarkan sebagai simpul dan ruas. Simpul mewakili lokasi penting atau persimpangan, sedangkan ruas menghubungkan simpul. Analisis jaringan membantu memperkirakan rute, jarak, waktu, dan titik yang rentan mengalami gangguan. Namun, jarak terpendek belum tentu menjadi rute terbaik jika kondisi trotoar, keselamatan, biaya, atau keandalan berbeda. Data jaringan perlu diperbarui ketika terjadi perubahan jalan, layanan, atau pembatasan.
+
+Angkutan umum membutuhkan keterpaduan rute, jadwal, halte, informasi, dan sistem pembayaran. Kualitas perjalanan mencakup akses menuju halte, waktu tunggu, perpindahan moda, kepadatan, kenyamanan, dan keandalan. Satu rute yang cepat tetapi jarang beroperasi mungkin kurang berguna bagi pengguna yang membutuhkan kepastian. Integrasi antarmoda sebaiknya mengurangi hambatan perpindahan, terutama bagi lansia, anak, dan pengguna dengan kebutuhan mobilitas berbeda.
+
+Keselamatan jalan menggunakan pendekatan sistem. Kesalahan manusia dapat terjadi, sehingga desain jalan, kecepatan, kendaraan, dan respons pascakejadian harus mengurangi kemungkinan serta tingkat keparahan dampak. Infrastruktur pejalan kaki yang menerus, penyeberangan yang terlihat, pencahayaan, dan pengelolaan kecepatan merupakan bagian dari keselamatan. Pendidikan pengguna tetap penting, tetapi tidak dapat menggantikan desain lingkungan yang aman.
+
+Perencanaan inklusif mengakui bahwa kemampuan dan kebutuhan pengguna beragam. Jalur tanpa hambatan, permukaan yang stabil, informasi audio dan visual, ruang tunggu yang layak, serta akses ke kendaraan dapat menentukan apakah perjalanan mungkin dilakukan. Konsultasi perlu melibatkan pengguna yang mengalami hambatan secara langsung, bukan hanya mengandalkan asumsi perencana. Audit aksesibilitas dilakukan sepanjang perjalanan dari titik asal hingga tujuan, termasuk perpindahan moda.
+
+Dampak lingkungan transportasi meliputi emisi, kebisingan, penggunaan lahan, fragmentasi habitat, dan konsumsi energi. Penilaian sebaiknya mempertimbangkan seluruh siklus hidup dan pola perjalanan yang mungkin berubah setelah infrastruktur dibangun. Penambahan kapasitas jalan dapat memengaruhi pilihan moda dan lokasi kegiatan. Karena itu, evaluasi alternatif harus memasukkan pengelolaan permintaan perjalanan, angkutan umum, berjalan kaki, dan bersepeda.
+
+Data transportasi dapat berasal dari survei perjalanan, pencacahan lalu lintas, jadwal operator, pengamatan halte, dan data agregat perangkat. Setiap sumber memiliki bias. Survei dapat tidak menjangkau kelompok tertentu; data digital dapat mengecualikan orang yang tidak menggunakan perangkat; pencacahan singkat tidak selalu menggambarkan variasi harian. Pengumpulan data harus menghormati privasi dan tidak mengumpulkan identitas individu yang tidak diperlukan.
+
+Studi kasus: sebuah kawasan sekolah mengalami kemacetan pada jam masuk. Tim tidak langsung menyimpulkan bahwa jalan perlu diperlebar. Mereka memetakan perjalanan siswa, lokasi penjemputan, kondisi trotoar, jadwal, dan konflik pergerakan. Alternatif yang diuji dapat mencakup zona antar-jemput yang tertata, jalur berjalan kaki yang aman, pengaturan waktu, dan koordinasi angkutan. Hasil dinilai melalui keselamatan, waktu perjalanan, akses, serta pengalaman warga.
+
+Latihan penerapan:
+1. Gambar jaringan perjalanan menuju sekolah dan tandai titik perpindahan.
+2. Bandingkan ukuran mobilitas dengan ukuran aksesibilitas.
+3. Buat daftar pemeriksaan keselamatan bagi pejalan kaki di satu koridor.
+4. Rancang survei perjalanan yang tidak meminta data pribadi berlebihan.
+5. Susun matriks untuk membandingkan tiga alternatif perbaikan layanan.

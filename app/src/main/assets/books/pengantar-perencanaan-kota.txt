@@ -316,3 +316,34 @@ LATIHAN DAN PROYEK
 5. Rancang indikator untuk menilai akses berjalan kaki menuju fasilitas umum.
 
 Proyek: pilih satu kawasan pada peta publik. Tandai hunian, fasilitas dasar, ruang terbuka, dan jalur pejalan kaki. Identifikasi satu kesenjangan akses. Usulkan perubahan yang mempertimbangkan biaya, dampak pada warga, pemeliharaan, dan indikator keberhasilan. Jangan memasuki lahan privat atau mengumpulkan data pribadi.
+
+BAB PENDALAMAN: TATA GUNA LAHAN DAN BENTUK KOTA
+
+Tata guna lahan menggambarkan bagaimana ruang dialokasikan untuk hunian, pekerjaan, perdagangan, ruang terbuka, industri, dan fasilitas umum. Pemisahan fungsi yang terlalu jauh dapat meningkatkan kebutuhan perjalanan, sedangkan pencampuran fungsi yang dirancang baik dapat mendekatkan kegiatan sehari-hari. Namun, kepadatan dan campuran fungsi perlu disertai layanan dasar, ruang publik, dan pengelolaan dampak.
+
+Bentuk kota dipengaruhi jaringan jalan, blok, ukuran kavling, transportasi, kondisi alam, dan sejarah perkembangan. Pola kota tidak dapat dinilai hanya dari kepadatan. Akses pejalan kaki, konektivitas, keselamatan, dan keterjangkauan hunian turut menentukan kualitas lingkungan perkotaan.
+
+BAB PENDALAMAN: PERUMAHAN DAN KETERJANGKAUAN
+
+Keterjangkauan perumahan berkaitan dengan harga atau sewa, pendapatan rumah tangga, biaya perjalanan, serta akses terhadap layanan. Hunian yang murah tetapi jauh dari pekerjaan dapat menimbulkan biaya transportasi dan waktu yang tinggi. Karena itu, evaluasi perumahan perlu melihat total biaya hidup, bukan harga bangunan saja.
+
+Kebijakan perumahan dapat mencakup penyediaan lahan, perbaikan permukiman, dukungan pembiayaan, pengaturan tata ruang, dan perlindungan penyewa. Setiap pendekatan memiliki risiko. Penataan kawasan tanpa perlindungan warga dapat memindahkan kelompok berpendapatan rendah dari lokasi yang dekat dengan mata pencaharian. Proses perencanaan perlu melibatkan warga terdampak sejak awal.
+
+BAB PENDALAMAN: MOBILITAS DAN RUANG JALAN
+
+Jalan merupakan ruang publik yang digunakan berbagai moda dan kegiatan. Perencanaan yang hanya mengutamakan kendaraan pribadi dapat mengurangi keselamatan dan kenyamanan pejalan kaki, pesepeda, serta pengguna angkutan umum. Hierarki jalan, trotoar yang tersambung, penyeberangan aman, dan akses halte memengaruhi pilihan perjalanan.
+
+Kinerja transportasi tidak cukup diukur dari kecepatan kendaraan. Waktu perjalanan door-to-door, keterjangkauan tarif, akses bagi penyandang disabilitas, keselamatan, dan keandalan layanan juga penting. Data asal-tujuan perlu dikumpulkan dengan perlindungan privasi dan metode yang jelas.
+
+BAB PENDALAMAN: RUANG TERBUKA, AIR, DAN IKLIM KOTA
+
+Ruang terbuka menyediakan tempat rekreasi, interaksi sosial, habitat, dan pengelolaan air hujan. Pepohonan dan permukaan berpori dapat membantu mengurangi panas serta limpasan, tetapi manfaatnya bergantung pada lokasi, pemeliharaan, dan jenis vegetasi. Ruang hijau harus dapat diakses oleh kelompok usia dan kemampuan yang berbeda.
+
+Perencanaan kota tangguh menghubungkan drainase, sungai, daerah resapan, dan kawasan pesisir sebagai satu sistem. Pembangunan di area rawan dapat meningkatkan paparan bahaya. Peta risiko perlu diperbarui dan dikomunikasikan dengan jelas agar keputusan tata ruang tidak mengabaikan perubahan kondisi lingkungan.
+
+BAB PENDALAMAN: DATA KOTA DAN PARTISIPASI WARGA
+
+Data kota berasal dari sensus, survei, catatan layanan, pengamatan lapangan, dan sensor. Setiap sumber memiliki cakupan dan kesalahan berbeda. Peta digital dapat membantu menemukan kesenjangan akses, tetapi data yang tidak mutakhir atau terlalu agregat dapat menyembunyikan kebutuhan kelompok tertentu.
+
+Partisipasi warga memberi informasi tentang pengalaman sehari-hari yang tidak selalu tercatat dalam statistik. Lokakarya peta, survei aksesibel, dan forum lingkungan dapat digunakan dengan perlindungan data pribadi. Masukan harus ditanggapi dan dikaitkan dengan keputusan, bukan sekadar dikumpulkan sebagai formalitas.
+

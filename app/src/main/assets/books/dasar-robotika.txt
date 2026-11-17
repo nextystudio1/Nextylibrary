@@ -333,3 +333,36 @@ Log pemeliharaan sebaiknya memuat tanggal, gejala, kondisi saat muncul, tindakan
 
 Pertimbangkan pula konsumsi energi, ketersediaan suku cadang, kemudahan perbaikan, keamanan data, dan pengelolaan perangkat pada akhir masa pakai. Robot yang bermanfaat bukan hanya yang mampu menjalankan demonstrasi, melainkan yang dapat dioperasikan, dipelihara, dan dihentikan secara bertanggung jawab.
 
+
+BAB PENDALAMAN: PERSEPSI LINGKUNGAN DAN REPRESENTASI PETA
+
+Robot memerlukan representasi lingkungan untuk memperkirakan posisi dan memilih tindakan. Peta dapat berbentuk kisi, fitur geometris, titik referensi, atau representasi semantik. Peta kisi membagi ruang menjadi sel yang diberi nilai bebas, terhalang, atau belum diketahui. Resolusi yang lebih tinggi memberi detail lebih banyak tetapi meningkatkan kebutuhan memori dan komputasi.
+
+Peta fitur menyimpan objek atau titik yang dapat dikenali berulang, sedangkan peta semantik memberi label seperti pintu, lorong, atau area terlarang. Pilihan representasi bergantung pada tugas. Robot yang hanya perlu mengikuti jalur sederhana tidak selalu membutuhkan model lingkungan yang sangat rinci. Detail yang tidak relevan dapat menambah biaya tanpa meningkatkan hasil.
+
+Pemetaan selalu memiliki ketidakpastian. Pengukuran sensor dapat berubah karena pencahayaan, permukaan, gangguan, atau posisi pemasangan. Peta perlu memiliki informasi kapan dan bagaimana data diperoleh. Jika lingkungan berubah, peta lama dapat menjadi tidak sesuai. Sistem harus dapat mengenali ketidakpastian dan menghindari keputusan yang terlalu yakin berdasarkan informasi usang.
+
+BAB PENDALAMAN: PERENCANAAN GERAK DAN KENDALA
+
+Perencanaan gerak memilih lintasan yang menghubungkan posisi awal dan tujuan dengan mempertimbangkan kendala. Jalur terpendek belum tentu paling baik karena dapat melewati area sempit, memiliki banyak belokan, atau sulit diikuti oleh sistem kendali. Kriteria dapat mencakup jarak, kelancaran, waktu, konsumsi energi, dan jarak dari batas aman.
+
+Perencanaan global menggunakan informasi peta untuk memilih rute secara umum, sedangkan perencanaan lokal menyesuaikan gerak terhadap keadaan sekitar yang berubah. Keduanya perlu berkomunikasi. Jika jalur lokal terhalang, sistem dapat meminta rute alternatif atau menyatakan bahwa tujuan tidak dapat dicapai. Mengulang perintah yang sama tanpa evaluasi dapat membuat sistem terjebak.
+
+Kendala fisik perlu dimodelkan secara realistis. Dimensi robot, kemampuan berbelok, percepatan, dan kondisi permukaan memengaruhi lintasan yang dapat dijalankan. Model yang menganggap robot sebagai titik dapat berguna untuk pengantar, tetapi tidak cukup untuk menilai ruang bebas bagi robot dengan ukuran nyata. Setiap penyederhanaan harus dinyatakan.
+
+BAB PENDALAMAN: KENDALI, UMPAN BALIK, DAN KESTABILAN
+
+Sistem kendali menggunakan pengukuran untuk membandingkan keadaan aktual dengan tujuan. Selisih disebut galat. Pengendali mengolah galat untuk menghasilkan masukan yang diharapkan mengurangi perbedaan. Kendali terbuka tidak menggunakan umpan balik, sedangkan kendali tertutup memanfaatkan pengukuran secara berulang. Umpan balik dapat meningkatkan ketahanan terhadap gangguan, tetapi rancangan yang buruk dapat menghasilkan osilasi atau respons lambat.
+
+Pengendali proporsional menghasilkan respons berdasarkan besar galat. Pengendali integral memperhitungkan akumulasi galat, sedangkan komponen derivatif merespons laju perubahan galat. Kombinasi PID digunakan dalam banyak sistem karena dapat disesuaikan untuk berbagai kebutuhan. Namun, parameter yang sesuai pada satu kondisi belum tentu sesuai pada kondisi lain. Evaluasi perlu melihat respons, kestabilan, batas aktuator, dan gangguan.
+
+BAB PENDALAMAN: INTERAKSI MANUSIA-ROBOT
+
+Robot yang beroperasi dekat manusia perlu menyampaikan status dengan jelas. Lampu indikator, suara, layar, atau gerak dapat memberi informasi bahwa robot sedang bekerja, menunggu, atau mengalami gangguan. Sinyal harus konsisten dan tidak menimbulkan tafsir berbahaya. Pengguna juga perlu memahami batas kemampuan robot dan cara meminta bantuan.
+
+Desain interaksi perlu mempertimbangkan kemampuan pengguna yang beragam, termasuk perbedaan penglihatan, pendengaran, mobilitas, dan pengalaman teknologi. Kendali yang penting sebaiknya mudah ditemukan dan tidak hanya bergantung pada satu bentuk sinyal. Pengujian dengan pengguna dilakukan secara aman dan dengan persetujuan, serta tidak menggantikan pemeriksaan keselamatan teknis.
+
+PROYEK MINI: EVALUASI ANTARMUKA ROBOT KONSEPTUAL
+
+Buat sketsa antarmuka robot layanan hipotetis. Tampilkan status, tujuan, peringatan, dan cara meminta bantuan. Uji pemahaman melalui skenario tertulis dengan beberapa calon pembaca secara sukarela. Catat istilah yang membingungkan dan perbaiki desain. Jangan menguji robot fisik atau mekanisme bergerak.
+

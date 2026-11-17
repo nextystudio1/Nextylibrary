@@ -212,3 +212,53 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Tentukan turunan f(x)=3x³−2x²+5.
 4. Jika posisi s(t)=t²+4t, tentukan kecepatan sesaat pada t=2.
 5. Jelaskan hubungan integral kecepatan terhadap perpindahan dan jarak.
+BAB LANJUTAN 4. FUNGSI EKSPONENSIAL DAN LOGARITMA DALAM KALKULUS
+
+Fungsi eksponensial menggambarkan perubahan ketika laju perubahan suatu besaran sebanding dengan nilai besaran itu sendiri. Model ini muncul pada pertumbuhan populasi dalam kondisi terbatas tertentu, peluruhan zat, bunga majemuk kontinu, dan proses pendinginan sederhana. Bentuk umum fungsi eksponensial adalah f(x)=a e^(kx), dengan a sebagai nilai awal dan k sebagai parameter laju. Tanda dan besar k menentukan apakah model meningkat atau menurun serta seberapa cepat perubahannya.
+
+Turunan fungsi eksponensial alami e^x adalah dirinya sendiri. Sifat ini membuat fungsi tersebut berguna dalam model diferensial. Jika y'=ky dan y(0)=a, solusi modelnya adalah y=a e^(kt). Persamaan ini menyatakan bahwa laju perubahan pada setiap saat bergantung pada jumlah yang sedang ada. Model tersebut hanya sesuai jika asumsi laju proporsional cukup masuk akal pada rentang yang dianalisis.
+
+Logaritma merupakan invers fungsi eksponensial. Logaritma membantu menyelesaikan persamaan ketika variabel berada pada pangkat. Dengan mengambil logaritma, hubungan eksponensial dapat diubah menjadi bentuk yang lebih mudah dianalisis. Dalam data, transformasi log dapat membantu menampilkan rentang nilai yang sangat lebar, tetapi interpretasi hasil harus memperhatikan bahwa perubahan pada skala log tidak sama dengan perubahan absolut.
+
+Contoh: suatu besaran mengikuti model N(t)=500e^(0,03t). Nilai awalnya 500 dan parameter laju 0,03 per satuan waktu. Turunannya N'(t)=15e^(0,03t), sehingga laju sesaat meningkat seiring N. Model ini tidak boleh diekstrapolasi tanpa batas jika pada kenyataan terdapat sumber daya terbatas atau faktor penghambat.
+
+LATIHAN BAB
+1. Apa makna parameter k pada model eksponensial?
+2. Mengapa turunan e^x sama dengan e^x menjadi sifat penting?
+3. Tentukan turunan f(t)=8e^(−0,2t).
+4. Jelaskan kapan model pertumbuhan eksponensial dapat menjadi tidak realistis.
+5. Apa fungsi logaritma ketika menyelesaikan persamaan eksponensial?
+
+BAB LANJUTAN 5. PERSAMAAN DIFERENSIAL DASAR DAN PEMODELAN
+
+Persamaan diferensial menghubungkan suatu fungsi dengan satu atau lebih turunannya. Persamaan ini digunakan ketika pertanyaan utama berkaitan dengan bagaimana keadaan berubah. Contohnya adalah perubahan posisi terhadap waktu, laju pendinginan, pertumbuhan populasi, atau perubahan konsentrasi dalam model sederhana. Sebelum menyelesaikan persamaan, tentukan variabel, satuan, kondisi awal, dan asumsi yang digunakan.
+
+Persamaan diferensial orde satu memuat turunan pertama. Salah satu bentuk dasar adalah dy/dt=ky. Solusinya berupa fungsi eksponensial setelah kondisi awal diberikan. Bentuk lain, dy/dt=c, menyatakan laju perubahan konstan sehingga solusinya berupa fungsi linear. Perbedaan bentuk persamaan menghasilkan perilaku yang berbeda; karena itu, pemilihan model harus didasarkan pada mekanisme yang masuk akal.
+
+Kondisi awal menentukan solusi khusus dari keluarga solusi. Tanpa kondisi awal, persamaan dapat memiliki banyak solusi yang berbeda hanya pada konstanta. Dalam penerapan, kondisi awal berasal dari pengukuran atau definisi masalah. Ketidakpastian pengukuran awal dapat memengaruhi hasil proyeksi, terutama jika model digunakan untuk rentang waktu panjang.
+
+Model matematis merupakan penyederhanaan. Model pertumbuhan eksponensial, misalnya, dapat sesuai untuk rentang awal tetapi gagal ketika sumber daya menjadi terbatas. Model yang lebih realistis mungkin memasukkan daya dukung atau faktor penghambat. Model perlu diuji terhadap data, dibandingkan dengan alternatif, dan tidak diperlakukan sebagai gambaran sempurna dari sistem nyata.
+
+LATIHAN BAB
+1. Apa yang dimaksud persamaan diferensial?
+2. Apa fungsi kondisi awal?
+3. Selesaikan dy/dt=4 dengan kondisi y(0)=3.
+4. Jelaskan asumsi di balik model dy/dt=ky.
+5. Mengapa model perlu diuji terhadap data dan dibandingkan dengan alternatif?
+
+BAB LANJUTAN 6. KESALAHAN NUMERIK, GALAT, DAN KESTABILAN
+
+Perhitungan numerik menghasilkan pendekatan, bukan selalu nilai eksak. Galat absolut adalah selisih antara hasil pendekatan dan nilai acuan, sedangkan galat relatif membandingkan galat dengan besar nilai acuan. Keduanya memberi sudut pandang berbeda. Galat relatif dapat menjadi tidak bermakna ketika nilai acuan sangat dekat dengan nol, sehingga konteks perlu diperiksa.
+
+Pembulatan angka dapat menimbulkan galat yang terakumulasi dalam rangkaian operasi. Menggunakan lebih banyak angka di tengah perhitungan dapat mengurangi sebagian galat pembulatan, tetapi tidak menghilangkan kesalahan model atau kesalahan data. Ketelitian hasil sebaiknya sebanding dengan ketelitian pengukuran awal; menampilkan banyak digit tidak otomatis membuat hasil lebih akurat.
+
+Metode numerik juga dapat memiliki galat pemotongan, yaitu akibat mengganti proses matematis kontinu dengan langkah terbatas. Misalnya, pendekatan turunan menggunakan selisih nilai fungsi pada dua titik yang berjarak kecil. Jarak terlalu besar dapat menghasilkan pendekatan kasar, sedangkan jarak terlalu kecil dapat memperbesar pengaruh pembulatan. Pemilihan langkah memerlukan keseimbangan.
+
+Kestabilan berkaitan dengan bagaimana kesalahan kecil pada masukan atau langkah perhitungan memengaruhi hasil. Dalam simulasi berulang, metode yang tidak stabil dapat menghasilkan penyimpangan besar walaupun kondisi awal hanya berubah sedikit. Pemeriksaan hasil dapat dilakukan melalui pengujian dengan langkah berbeda, perbandingan terhadap kasus yang memiliki solusi diketahui, dan pemeriksaan satuan serta batas fisik.
+
+LATIHAN BAB
+1. Bedakan galat absolut dan galat relatif.
+2. Mengapa banyak digit desimal tidak menjamin akurasi?
+3. Apa sumber galat pemotongan pada pendekatan numerik?
+4. Mengapa langkah numerik yang sangat kecil tidak selalu terbaik?
+5. Sebutkan tiga cara memeriksa hasil simulasi numerik.

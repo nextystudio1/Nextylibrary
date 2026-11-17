@@ -223,3 +223,42 @@ LATIHAN PENDALAMAN
 3. Apa perbedaan besar dan arah vektor?
 4. Sebutkan sumber ketidakpastian pengukuran.
 5. Mengapa angka desimal yang banyak tidak menjamin akurasi?
+
+BAB LANJUTAN: TRANSFORMASI DAN SIMETRI
+
+Transformasi geometri memindahkan atau mengubah bangun menurut aturan tertentu. Translasi menggeser setiap titik dengan arah dan jarak yang sama. Refleksi mencerminkan titik terhadap garis atau bidang. Rotasi memutar bangun terhadap pusat dan sudut tertentu. Dilatasi mengubah ukuran berdasarkan faktor skala dari pusat yang ditentukan.
+
+Transformasi kaku seperti translasi, refleksi, dan rotasi mempertahankan jarak serta besar sudut. Dilatasi mempertahankan bentuk dan perbandingan panjang, tetapi mengubah ukuran kecuali faktor skalanya satu. Memahami sifat yang dipertahankan membantu menentukan apakah dua bangun kongruen atau sebangun.
+
+Simetri dapat berupa simetri lipat dan simetri putar. Pola ubin, ornamen, desain huruf, dan struktur alam dapat dianalisis menggunakan simetri. Tidak semua pola yang tampak teratur memiliki simetri sempurna; pengukuran dan penentuan sumbu perlu dilakukan dengan cermat.
+
+BAB LANJUTAN: TRIGONOMETRI DAN PENGUKURAN TIDAK LANGSUNG
+
+Trigonometri menghubungkan sudut dan panjang sisi segitiga. Pada segitiga siku-siku, sinus adalah perbandingan sisi depan terhadap hipotenusa, kosinus adalah sisi samping terhadap hipotenusa, dan tangen adalah sisi depan terhadap sisi samping. Pemilihan rasio bergantung pada informasi yang diketahui dan besaran yang dicari.
+
+Pengukuran tidak langsung berguna ketika jarak atau tinggi sulit diukur langsung. Dengan sudut elevasi dan jarak mendatar yang diketahui, tinggi dapat diperkirakan menggunakan hubungan tangen, dengan memperhatikan tinggi alat dan kondisi permukaan. Hasil merupakan perkiraan yang ketelitiannya bergantung pada alat, posisi, dan asumsi geometri.
+
+Sudut dapat dinyatakan dalam derajat atau radian. Satu putaran penuh setara dengan 360 derajat atau 2π radian. Dalam banyak konteks matematika lanjutan, radian memudahkan hubungan antara panjang busur dan jari-jari. Jangan mencampur satuan sudut dalam kalkulator atau rumus.
+
+BAB LANJUTAN: VEKTOR DAN GEOMETRI KOORDINAT
+
+Vektor memiliki besar dan arah. Perpindahan 5 meter ke timur berbeda dari perpindahan 5 meter ke utara meskipun besarnya sama. Vektor dapat diuraikan menjadi komponen pada sumbu yang saling tegak lurus. Komponen membantu menghitung resultan dan memahami gerak dalam bidang.
+
+Pada bidang koordinat, jarak dua titik dapat dihitung dengan teorema Pythagoras. Titik tengah ruas garis diperoleh dengan merata-ratakan koordinat masing-masing ujung. Kemiringan garis menyatakan perubahan vertikal dibanding perubahan horizontal, selama garis tidak vertikal. Konsep ini menghubungkan geometri dengan grafik dan pemodelan.
+
+BAB LANJUTAN: KETIDAKPASTIAN DAN KEPUTUSAN PENGUKURAN
+
+Setiap alat ukur memiliki resolusi dan batas ketelitian. Penggaris dengan skala milimeter tidak mendukung pelaporan panjang hingga banyak angka desimal tanpa metode tambahan. Pengulangan pengukuran dapat membantu memperkirakan variasi acak, tetapi tidak menghilangkan kesalahan sistematis akibat alat yang tidak terkalibrasi.
+
+Ketidakpastian absolut dinyatakan dalam satuan yang sama dengan besaran, sedangkan ketidakpastian relatif membandingkannya dengan nilai pengukuran. Persentase ketidakpastian memudahkan perbandingan skala. Ketika hasil digunakan untuk keputusan, pertimbangkan apakah ketidakpastian cukup kecil untuk tujuan tersebut.
+
+CONTOH
+Sebuah denah memiliki skala 1:100. Panjang garis 4,2 cm mewakili 420 cm atau 4,2 m pada keadaan nyata. Jika garis hanya dapat dibaca sampai 0,1 cm, ketidakpastian pembacaan juga perlu dipertimbangkan. Menuliskan hasil sebagai 4,2000 m akan memberi kesan ketelitian yang tidak didukung alat.
+
+LATIHAN
+1. Transformasi apa yang mempertahankan ukuran dan bentuk?
+2. Bagaimana memilih rasio trigonometri yang tepat?
+3. Mengapa arah penting dalam penjumlahan vektor?
+4. Apa perbedaan kesalahan acak dan sistematis?
+5. Mengapa hasil pengukuran harus sesuai dengan resolusi alat?
+

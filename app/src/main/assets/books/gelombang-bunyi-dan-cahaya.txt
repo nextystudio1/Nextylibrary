@@ -208,3 +208,33 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Mengapa difraksi lebih nyata ketika ukuran celah mendekati panjang gelombang?
 4. Jelaskan apa yang berubah dan tetap ketika cahaya memasuki medium dengan indeks bias berbeda.
 5. Buat diagram sinar untuk satu lensa dan jelaskan asumsi yang digunakan.
+BAB LANJUTAN. SUPERPOSISI, OPTIKA, DAN PENERAPAN GELOMBANG
+
+Ketika dua gelombang bertemu pada medium yang sama, simpangan total pada suatu titik merupakan jumlah simpangan masing-masing gelombang selama prinsip superposisi berlaku. Jika puncak bertemu puncak, amplitudo dapat menguat; keadaan ini disebut interferensi konstruktif. Jika puncak bertemu lembah dengan besar yang sesuai, amplitudo dapat melemah; keadaan ini disebut interferensi destruktif. Setelah saling bertemu, gelombang dapat terus merambat sesuai sifat mediumnya. Prinsip ini membantu menjelaskan pola pada gelombang air, bunyi, dan cahaya.
+
+Interferensi cahaya dapat diamati ketika dua berkas koheren bertemu. Koheren berarti memiliki hubungan fase yang stabil. Pola terang dan gelap bergantung pada perbedaan lintasan dan panjang gelombang. Percobaan celah ganda menunjukkan bahwa cahaya memiliki sifat gelombang. Namun, hasil pengamatan harus memperhatikan lebar celah, jarak layar, kestabilan sumber, dan kondisi lingkungan. Pola yang tidak jelas tidak otomatis membantah teori; alat dan prosedur juga perlu dievaluasi.
+
+Difraksi adalah penyebaran gelombang ketika melewati celah atau tepi penghalang. Efeknya lebih mudah terlihat ketika ukuran celah sebanding dengan panjang gelombang. Bunyi dapat terdengar dari balik pintu karena panjang gelombangnya relatif besar dibandingkan banyak celah sehari-hari. Cahaya juga mengalami difraksi, tetapi efeknya sering sulit dilihat tanpa susunan optik yang sesuai. Kisi difraksi memanfaatkan banyak celah berjarak teratur untuk memisahkan komponen panjang gelombang.
+
+Pemantulan cahaya mengikuti hukum bahwa sudut datang sama dengan sudut pantul, dengan sudut diukur terhadap garis normal. Cermin datar membentuk bayangan maya, tegak, dan berukuran sama dengan benda. Cermin lengkung dapat menghasilkan bayangan dengan sifat berbeda sesuai posisi benda terhadap titik fokus dan pusat kelengkungan. Cermin cekung dapat membentuk bayangan nyata atau maya, sedangkan cermin cembung menghasilkan bidang pandang lebih luas dengan bayangan maya yang diperkecil.
+
+Pembiasan terjadi ketika gelombang memasuki medium dengan kecepatan rambat berbeda. Untuk cahaya, indeks bias menyatakan perbandingan kecepatan cahaya di vakum terhadap kecepatannya dalam medium. Hukum Snellius menghubungkan indeks bias dan sinus sudut datang serta sudut bias. Arah pembelokan bergantung pada perubahan indeks bias. Sedotan dalam gelas tampak bengkok karena cahaya berubah arah ketika berpindah dari air ke udara. Lensa memanfaatkan pembiasan untuk mengumpulkan atau menyebarkan berkas cahaya.
+
+Lensa konvergen mengumpulkan sinar sejajar menuju fokus, sedangkan lensa divergen membuat sinar menyebar seolah berasal dari fokus. Persamaan lensa tipis menghubungkan jarak benda, jarak bayangan, dan panjang fokus dengan konvensi tanda yang harus digunakan secara konsisten. Pembesaran membandingkan ukuran bayangan dengan ukuran benda. Dalam soal, gambar sinar utama dapat membantu memeriksa apakah hasil perhitungan masuk akal. Jangan menghafal tanda tanpa memahami apakah bayangan nyata atau maya dan bagaimana orientasinya.
+
+Bunyi juga dapat mengalami interferensi. Dua sumber dengan frekuensi hampir sama dapat menghasilkan pelayangan, yaitu perubahan kuat bunyi secara berkala. Pelayangan berguna untuk membandingkan frekuensi, misalnya ketika menyetem alat musik. Resonansi muncul ketika frekuensi pemaksa mendekati frekuensi alami sistem. Resonansi dapat memperbesar amplitudo, tetapi besarnya respons dipengaruhi redaman dan karakter sistem. Dalam bangunan atau peralatan, perancang perlu memahami frekuensi alami agar getaran tidak mengganggu fungsi dan kenyamanan.
+
+Spektrum elektromagnetik mencakup gelombang radio, gelombang mikro, inframerah, cahaya tampak, ultraviolet, sinar-X, dan sinar gamma. Semua merupakan gelombang elektromagnetik, tetapi berbeda frekuensi dan panjang gelombang. Energi foton meningkat seiring frekuensi. Karena itu, paparan radiasi perlu dinilai berdasarkan jenis, intensitas, durasi, dan konteks penggunaannya. Sinar-X digunakan dalam pencitraan medis dengan pengendalian paparan, sedangkan gelombang radio digunakan dalam komunikasi. Tidak tepat menyamakan seluruh radiasi elektromagnetik sebagai sama berbahayanya.
+
+PENGAMATAN TERARAH
+Gunakan cermin datar dan sumber cahaya ruangan untuk mengamati pemantulan tanpa menatap sumber cahaya yang sangat terang. Tandai garis normal pada kertas, lalu bandingkan sudut datang dan pantul secara geometris. Untuk pembiasan, amati benda lurus melalui wadah transparan berisi air dari posisi yang aman. Catat perubahan tampilan dan jelaskan bahwa pengamatan kualitatif tidak cukup untuk menghitung indeks bias secara presisi.
+
+LATIHAN DAN PEMBAHASAN
+1. Apa perbedaan interferensi konstruktif dan destruktif? Pembahasan: konstruktif menghasilkan penguatan simpangan, sedangkan destruktif menghasilkan pelemahan sesuai hubungan fase.
+2. Mengapa bunyi dapat terdengar dari balik sudut? Pembahasan: gelombang bunyi dapat mengalami difraksi, terutama ketika ukuran penghalang atau celah sebanding dengan panjang gelombangnya.
+3. Mengapa sedotan tampak bengkok di dalam air? Pembahasan: cahaya mengalami pembiasan pada batas air dan udara sehingga posisi tampak berbeda.
+4. Apa fungsi garis normal dalam hukum pemantulan? Pembahasan: garis normal menjadi acuan pengukuran sudut datang dan sudut pantul.
+5. Mengapa sinar-X memerlukan pengendalian penggunaan? Pembahasan: fotonnya berenergi tinggi dan dapat mengionisasi materi, sehingga paparan harus dibatasi sesuai kebutuhan medis dan prosedur keselamatan.
+
+PROYEK MINI
+Buat diagram konsep yang menghubungkan pemantulan, pembiasan, difraksi, interferensi, dan resonansi. Untuk setiap fenomena, tulis definisi, kondisi terjadinya, satu contoh, dan satu batasan pengamatan. Tambahkan gambar sinar sederhana untuk cermin atau lensa dan jelaskan asumsi yang digunakan.

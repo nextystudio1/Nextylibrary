@@ -310,3 +310,38 @@ LATIHAN BAB 22
 
 PROYEK AKHIR
 Rancang proyek peningkatan layanan perpustakaan sekolah. Buat piagam proyek, peta pemangku kepentingan, struktur pekerjaan, jadwal, anggaran perkiraan, daftar risiko, rencana komunikasi, kriteria penerimaan, dan rencana manfaat. Tambahkan rencana perubahan, pelatihan, serah terima, serta evaluasi. Jelaskan asumsi dan batas rancangan agar pembaca dapat menilai kelayakannya.
+
+BAB PENDALAMAN: PERENCANAAN BERDASARKAN HASIL DAN MANFAAT
+
+Proyek tidak seharusnya dinilai hanya dari banyaknya kegiatan yang selesai. Kegiatan adalah pekerjaan yang dilakukan, keluaran adalah produk langsung dari pekerjaan, sedangkan manfaat adalah perubahan yang diharapkan setelah keluaran digunakan. Dalam proyek layanan perpustakaan, misalnya, pelatihan petugas merupakan kegiatan, panduan katalog merupakan keluaran, dan kemudahan pengguna menemukan bahan merupakan manfaat. Pembedaan ini membantu tim menghindari kesibukan yang tidak menghasilkan perubahan berarti.
+
+Rantai hasil dapat ditulis sebagai hubungan antara sumber daya, kegiatan, keluaran, hasil antara, dan manfaat jangka panjang. Setiap hubungan memuat asumsi. Panduan baru mungkin meningkatkan konsistensi layanan jika petugas memiliki waktu untuk memakainya dan prosedur didukung pimpinan. Jika asumsi tidak terpenuhi, keluaran dapat selesai tetapi manfaat tidak muncul. Catat asumsi penting sejak perencanaan dan periksa kembali selama pelaksanaan.
+
+Indikator perlu dipilih secara seimbang. Jumlah dokumen yang dibuat mudah dihitung, tetapi belum tentu menggambarkan kualitas. Waktu penyelesaian layanan, tingkat kesalahan, kepuasan pengguna, dan kemudahan akses dapat memberi gambaran lebih lengkap. Indikator kualitatif seperti wawancara atau pengamatan membantu menjelaskan alasan di balik perubahan angka. Hindari mengumpulkan data yang tidak akan digunakan, terutama data pribadi yang tidak diperlukan.
+
+Tentukan kondisi awal sebelum intervensi. Tanpa data awal, tim mungkin sulit mengetahui apakah perubahan berasal dari proyek atau faktor lain. Jika pengukuran penuh tidak memungkinkan, gunakan sampel yang masuk akal dan jelaskan keterbatasannya. Bandingkan periode yang sebanding dan perhatikan perubahan jumlah pengguna, musim, kebijakan, atau kondisi operasional.
+
+BAB PENDALAMAN: PENGELOLAAN PERUBAHAN DAN ADOPSI
+
+Perubahan proyek sering memengaruhi kebiasaan kerja. Orang dapat menolak bukan karena tidak peduli, melainkan karena tujuan belum jelas, beban tambahan belum diperhitungkan, atau pengalaman sebelumnya membuat mereka ragu. Komunikasi perubahan perlu menjelaskan alasan, dampak terhadap peran, dukungan yang tersedia, dan cara menyampaikan masalah. Pengumuman satu arah jarang cukup untuk membangun pemahaman.
+
+Pemetaan dampak membantu tim mengetahui siapa yang perlu diberi informasi, diajak berkonsultasi, dilatih, atau diberi kewenangan mengambil keputusan. Pelatihan sebaiknya disesuaikan dengan tugas nyata. Sediakan panduan ringkas, contoh situasi, kesempatan mencoba dalam lingkungan aman, dan saluran bantuan setelah peluncuran. Jangan menganggap kehadiran dalam pelatihan otomatis berarti seseorang sudah mampu menjalankan proses baru.
+
+Adopsi perlu dipantau melalui bukti penggunaan dan umpan balik. Jika sistem baru jarang dipakai, cari penyebab sebelum menyimpulkan bahwa pengguna tidak kooperatif. Antarmuka mungkin membingungkan, akses perangkat terbatas, atau prosedur terlalu panjang. Perbaikan kecil yang melibatkan pengguna dapat meningkatkan penerimaan dan mengurangi pekerjaan ulang.
+
+BAB PENDALAMAN: ESTIMASI, CADANGAN, DAN KETIDAKPASTIAN
+
+Estimasi biaya dan waktu merupakan perkiraan berbasis informasi yang tersedia, bukan janji tanpa risiko. Tim dapat menggunakan pendekatan analogi dari proyek serupa, estimasi parametrik berdasarkan satuan kerja, atau estimasi rinci per aktivitas. Setiap pendekatan memiliki kelemahan. Proyek pembanding mungkin berbeda konteks, parameter mungkin tidak stabil, dan rincian awal dapat berubah ketika kebutuhan lebih dipahami.
+
+Pisahkan biaya langsung, biaya pendukung, biaya operasi, serta biaya pemeliharaan setelah proyek selesai. Pertimbangkan pula biaya pelatihan, migrasi data, lisensi, aksesibilitas, dan dukungan pengguna. Anggaran yang hanya menghitung pembelian awal dapat membuat solusi tampak murah tetapi mahal untuk dipertahankan.
+
+Cadangan risiko perlu memiliki alasan dan aturan penggunaan. Catat risiko yang dicakup, pihak yang menyetujui penggunaan, serta dampak terhadap perkiraan akhir. Ketika terjadi perubahan, perbarui jadwal dan biaya berdasarkan konsekuensi nyata, bukan menyembunyikan selisih agar laporan terlihat baik. Transparansi memberi kesempatan kepada pemangku kepentingan untuk memilih penyesuaian ruang lingkup, waktu, atau sumber daya.
+
+BAB PENDALAMAN: TATA KELOLA DAN ETIKA PROYEK
+
+Keputusan proyek perlu memiliki jejak yang dapat ditelusuri. Catatan keputusan memuat masalah, pilihan yang dipertimbangkan, alasan pemilihan, pihak yang menyetujui, serta tanggal. Ini mencegah tim mengulang diskusi dan membantu anggota baru memahami konteks. Konflik kepentingan perlu diungkapkan, terutama ketika pemilihan pemasok atau penerima manfaat dapat dipengaruhi hubungan pribadi.
+
+Pengadaan harus menggunakan kriteria yang diumumkan dan relevan, bukan sekadar harga terendah. Kualitas, keamanan, dukungan, keberlanjutan, aksesibilitas, dan biaya sepanjang masa pakai dapat menjadi pertimbangan. Informasi penawaran dijaga sesuai aturan, dan evaluasi dilakukan secara konsisten.
+
+Pada akhir proyek, serahkan bukan hanya produk, tetapi juga dokumentasi, hak akses, daftar kontak dukungan, prosedur pemeliharaan, serta daftar keterbatasan. Tentukan siapa pemilik manfaat setelah tim proyek dibubarkan. Evaluasi beberapa waktu setelah serah terima dapat menguji apakah manfaat benar-benar bertahan. Dengan demikian, penutupan proyek menjadi awal pengelolaan hasil, bukan sekadar penandatanganan dokumen.
+

@@ -217,3 +217,27 @@ LATIHAN PENDALAMAN
 3. Bagaimana grid membantu pembaca memahami tata letak?
 4. Jenis grafik apa yang cocok untuk data perubahan waktu?
 5. Mengapa skala dan satuan harus ditampilkan dengan jelas?
+BAB LANJUTAN 1. GRID, HIERARKI, DAN RITME VISUAL
+
+Grid adalah sistem bantu untuk menata elemen agar hubungan antarbagian konsisten. Grid kolom cocok untuk halaman dengan beberapa area informasi; grid modular membantu menyusun kartu atau komponen berulang. Grid bukan aturan kaku. Perancang dapat menyimpang secara sengaja untuk menekankan pesan, selama keterbacaan dan keteraturan tetap terjaga.
+
+Hierarki visual mengarahkan urutan perhatian melalui ukuran, bobot huruf, kontras, posisi, ruang kosong, dan pengelompokan. Jika semua elemen dibuat menonjol, tidak ada yang benar-benar menonjol. Tentukan satu pesan utama, informasi pendukung, dan rincian tambahan. Uji apakah pembaca dapat menemukan informasi penting dalam waktu singkat.
+
+BAB LANJUTAN 2. WARNA, KONTRAS, DAN AKSESIBILITAS
+
+Warna dapat membangun suasana, mengelompokkan informasi, dan menunjukkan status. Namun warna tidak boleh menjadi satu-satunya pembeda. Gunakan label, bentuk, pola, atau ikon tambahan agar informasi tetap dapat dipahami oleh pembaca dengan persepsi warna berbeda. Kontras teks dengan latar perlu memadai, terutama untuk teks kecil dan informasi penting.
+
+Palet warna sebaiknya memiliki peran yang konsisten: warna utama, warna pendukung, warna penekanan, dan warna status. Uji desain pada layar berbeda dan dalam kondisi terang maupun redup. Periksa juga versi cetak jika karya akan dicetak, karena warna layar dan tinta dapat menghasilkan tampilan berbeda.
+
+BAB LANJUTAN 3. HAK CIPTA, LISENSI, DAN ETIKA VISUAL
+
+Gambar, ikon, foto, huruf, dan ilustrasi dapat memiliki hak cipta atau ketentuan lisensi. Tidak semua materi yang ditemukan di internet bebas digunakan. Perancang perlu memeriksa pemilik hak, jenis lisensi, izin modifikasi, kewajiban atribusi, dan batas penggunaan komersial. Simpan catatan sumber serta izin agar penggunaan dapat ditelusuri.
+
+Desain visual juga perlu menghindari stereotip dan manipulasi. Foto tidak boleh dipotong atau diberi keterangan sehingga mengubah makna secara menyesatkan. Visualisasi data harus menjaga skala, label, dan konteks agar tidak membesar-besarkan perbedaan. Jika ilustrasi bersifat simbolis atau data merupakan simulasi, nyatakan dengan jelas.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Apa fungsi grid dan kapan perancang dapat menyimpang darinya?
+2. Mengapa terlalu banyak elemen menonjol melemahkan hierarki?
+3. Sebutkan cara menyampaikan informasi selain menggunakan warna.
+4. Apa yang harus diperiksa sebelum memakai foto dari internet?
+5. Bagaimana grafik dapat menyesatkan meskipun angka sumbernya benar?

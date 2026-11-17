@@ -347,3 +347,46 @@ LATIHAN DAN PROYEK
 5. Susun matriks tiga kebutuhan, ukuran keberhasilan, dan metode pengujiannya.
 
 Proyek: pilih benda sehari-hari yang aman. Buat ringkasan konteks penggunaan, tiga kebutuhan utama, dua konsep, kriteria pemilihan, serta rencana pengujian. Jelaskan bagaimana privasi peserta dijaga dan bagaimana temuan dapat mengubah rancangan.
+
+BAB PENDALAMAN: RISET PENGGUNA YANG BERTANGGUNG JAWAB
+
+Riset pengguna membantu tim memahami konteks penggunaan, bukan mencari pembenaran bagi gagasan yang sudah disukai. Pertanyaan awal sebaiknya terbuka dan netral. Pertanyaan seperti “Apa yang biasanya Anda lakukan ketika menyimpan barang ini?” memberi ruang bagi cerita, sedangkan pertanyaan yang mengarahkan dapat membuat peserta sekadar menyetujui asumsi pewawancara. Pengamatan terhadap kegiatan nyata dapat melengkapi wawancara karena orang tidak selalu mengingat setiap langkah atau kesulitan.
+
+Sebelum mengumpulkan informasi, jelaskan tujuan, jenis data, lama kegiatan, dan bagaimana hasil akan digunakan. Partisipasi harus sukarela. Hindari mengumpulkan identitas atau informasi sensitif yang tidak diperlukan. Catatan dapat dianonimkan dan disimpan dengan akses terbatas. Untuk peserta anak atau kelompok yang memerlukan perlindungan tambahan, ikuti ketentuan persetujuan dan pendampingan yang berlaku.
+
+Temuan riset perlu dipisahkan dari interpretasi. Catatan “pengguna membuka tutup dua kali” adalah pengamatan; dugaan bahwa mekanisme tutup membingungkan merupakan interpretasi yang perlu diuji. Tim dapat mengelompokkan pola, mencari kasus yang berbeda, dan menuliskan tingkat keyakinan. Satu komentar tidak otomatis mewakili semua pengguna, tetapi dapat menjadi petunjuk untuk pertanyaan berikutnya.
+
+BAB PENDALAMAN: MATERIAL, PROSES, DAN AKHIR MASA PAKAI
+
+Pemilihan material memengaruhi kekuatan, massa, biaya, kenyamanan, perawatan, dan dampak lingkungan. Tidak ada material yang unggul pada semua aspek. Logam mungkin tahan lama dan dapat didaur ulang pada sistem tertentu, tetapi ekstraksi dan pemrosesannya memerlukan energi. Polimer dapat ringan dan mudah dibentuk, namun jenis campuran dan kontaminasi dapat menyulitkan daur ulang. Kayu dapat berasal dari sumber terbarukan jika dikelola dengan baik, tetapi kualitas dan ketahanannya bergantung pada spesies, pengolahan, serta lingkungan penggunaan.
+
+Desainer perlu memahami proses manufaktur sejak tahap konsep. Bentuk yang sangat rumit dapat meningkatkan kebutuhan cetakan, waktu perakitan, dan risiko cacat. Pengurangan jumlah komponen, penggunaan pengikat yang dapat dilepas, serta pemilihan material yang kompatibel dapat mempermudah perbaikan dan pemisahan saat produk tidak digunakan lagi. Keputusan ini harus dinilai bersama kebutuhan kekuatan dan keselamatan.
+
+Akhir masa pakai sebaiknya dipertimbangkan sejak awal. Produk yang dapat dibongkar dan diperbaiki memiliki peluang umur guna lebih panjang. Petunjuk perawatan, ketersediaan suku cadang, dan dukungan layanan menentukan apakah rancangan yang dapat diperbaiki benar-benar dapat diperbaiki oleh pengguna. Klaim ramah lingkungan perlu menyebut dasar penilaian, bukan hanya memakai simbol atau istilah umum.
+
+BAB PENDALAMAN: ERGONOMI DAN KENYAMANAN
+
+Ergonomi mempelajari hubungan manusia dengan benda, tugas, dan lingkungan. Ukuran tangan, jangkauan, kekuatan, kebiasaan, serta kemampuan sensorik bervariasi. Karena itu, satu ukuran tidak selalu cocok untuk semua orang. Rentang ukuran pengguna perlu dipertimbangkan, dan bila mungkin produk menyediakan penyesuaian atau pilihan konfigurasi.
+
+Kenyamanan tidak hanya terkait bentuk fisik. Beban kognitif, kejelasan instruksi, umpan balik, dan kemungkinan kesalahan juga penting. Tombol yang bentuk dan posisinya tidak jelas dapat membuat pengguna ragu. Penanda yang konsisten membantu membangun pemahaman, sedangkan umpan balik yang tepat memberi tahu apakah tindakan berhasil. Desain yang baik membantu pengguna pulih dari kesalahan tanpa menyalahkan mereka.
+
+Uji ergonomi harus memperhatikan konteks. Pegangan yang nyaman ketika tangan kering mungkin berbeda saat pengguna memakai sarung tangan. Produk yang digunakan sambil berdiri memiliki kebutuhan berbeda dari produk yang digunakan di meja. Pengujian tidak boleh memaksa peserta melakukan aktivitas yang berisiko; rancangan uji harus aman dan sesuai dengan tujuan pembelajaran.
+
+BAB PENDALAMAN: SPESIFIKASI DAN VALIDASI
+
+Spesifikasi menerjemahkan kebutuhan menjadi kriteria yang dapat diperiksa. “Mudah dibawa” terlalu umum; tim perlu menentukan konteks, batas massa, cara membawa, dan ukuran keberhasilan yang masuk akal. Namun, angka spesifikasi tidak boleh dibuat hanya agar tampak ilmiah. Dasarnya dapat berupa standar relevan, pengukuran produk pembanding, kebutuhan pengguna, atau hasil pengujian awal.
+
+Validasi menilai apakah produk memenuhi kebutuhan dalam penggunaan yang dimaksud. Verifikasi memeriksa apakah rancangan dibuat sesuai spesifikasi. Keduanya berbeda. Produk dapat dibuat persis sesuai gambar tetapi tetap tidak menyelesaikan masalah pengguna karena kebutuhan awal salah dipahami. Sebaliknya, prototipe yang menarik belum membuktikan ketahanan, keamanan, atau kepatuhan terhadap standar.
+
+Rencana pengujian sebaiknya memuat tujuan, metode, kondisi, sampel, indikator, kriteria penerimaan, dan cara mencatat kegagalan. Jika hasil tidak sesuai, tim perlu menelusuri penyebab dan memperbarui rancangan atau spesifikasi. Catatan perubahan membantu memastikan bahwa keputusan desain dapat ditelusuri.
+
+LATIHAN DAN PROYEK
+
+1. Bedakan pengamatan langsung, kutipan peserta, dan interpretasi peneliti.
+2. Mengapa material perlu dinilai sepanjang siklus hidup?
+3. Berikan contoh fitur yang dapat meningkatkan kemampuan produk untuk diperbaiki.
+4. Jelaskan perbedaan verifikasi dan validasi.
+5. Buat tiga spesifikasi terukur untuk benda sehari-hari yang aman.
+6. Susun rencana uji yang tidak mengumpulkan data pribadi yang tidak diperlukan.
+
+Proyek: pilih produk sederhana yang digunakan dalam kegiatan belajar. Buat peta kebutuhan, profil konteks, dan dua konsep rancangan. Bandingkan konsep menggunakan kriteria fungsi, aksesibilitas, material, biaya, perawatan, dan akhir masa pakai. Buat prototipe nonfungsional atau model kertas, lalu uji pemahaman dan kenyamanan dasar tanpa melakukan pengujian berbahaya. Sajikan perubahan yang dibuat berdasarkan temuan.

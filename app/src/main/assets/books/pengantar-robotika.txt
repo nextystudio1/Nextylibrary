@@ -383,3 +383,31 @@ LATIHAN DAN PROYEK
 5. Mengapa simulasi tidak menggantikan evaluasi keselamatan sistem nyata?
 
 Proyek: gunakan simulasi konseptual atau data contoh untuk membandingkan estimasi posisi dengan dan tanpa derau. Buat grafik galat, jelaskan asumsi model, dan tuliskan kondisi ketika sistem perlu menyatakan bahwa estimasinya tidak dapat dipercaya. Tidak perlu merakit atau menguji perangkat fisik.
+
+
+BAB PENDALAMAN: ARSITEKTUR PERANGKAT LUNAK ROBOT
+
+Perangkat lunak robot biasanya dibagi menjadi beberapa lapisan agar fungsi dapat diuji secara terpisah. Lapisan akuisisi membaca sensor dan memberi penanda waktu. Lapisan estimasi mengolah pengukuran menjadi perkiraan keadaan. Lapisan perencanaan memilih tujuan antara berdasarkan peta dan batas sistem. Lapisan kendali menghasilkan perintah yang sesuai, sedangkan lapisan pemantauan memeriksa apakah sistem masih berada dalam kondisi yang diizinkan. Pemisahan ini memudahkan penelusuran ketika hasil tidak sesuai harapan.
+
+Antarmuka antarmodul perlu mendefinisikan format data, satuan, rentang nilai, frekuensi pembaruan, dan perilaku ketika data tidak tersedia. Kesalahan satuan dapat menghasilkan keluaran yang tampak masuk akal tetapi sebenarnya salah. Misalnya, nilai dalam derajat tidak boleh diperlakukan sebagai radian. Penamaan variabel yang jelas dan pemeriksaan rentang membantu mencegah kesalahan semacam ini.
+
+Sistem juga memerlukan keadaan aman ketika terjadi kegagalan. Jika sensor utama tidak memberikan data yang dapat dipercaya, robot seharusnya tidak terus bertindak seolah-olah estimasinya benar. Perilaku yang tepat bergantung pada konteks, tetapi dapat mencakup menghentikan tugas, memberi peringatan, meminta pemeriksaan, atau beralih ke mode terbatas yang telah dievaluasi. Keadaan aman harus dirancang dan diuji, bukan hanya disebut dalam dokumentasi.
+
+BAB PENDALAMAN: SENSOR, KALIBRASI, DAN FUSI DATA
+
+Sensor mengubah fenomena fisik menjadi sinyal yang dapat diproses. Setiap sensor memiliki rentang ukur, resolusi, sensitivitas, laju pembaruan, dan karakteristik derau. Resolusi tinggi tidak menjamin akurasi tinggi. Sensor dapat menghasilkan banyak angka dengan konsistensi yang baik tetapi memiliki bias sistematis akibat pemasangan atau kalibrasi yang keliru.
+
+Kalibrasi membandingkan pembacaan sensor dengan acuan yang diketahui. Hasilnya dapat berupa koreksi offset, skala, atau model hubungan yang lebih kompleks. Kalibrasi perlu dilakukan sesuai prosedur dan kondisi penggunaan. Perubahan suhu, getaran, usia komponen, dan pemasangan ulang dapat mengubah karakteristik sensor. Catatan kalibrasi membantu menentukan apakah data masih layak digunakan.
+
+Fusi sensor menggabungkan pengukuran yang memiliki kelebihan dan keterbatasan berbeda. Kamera memberi informasi visual, sedangkan sensor jarak dapat memberi ukuran jarak secara langsung pada kondisi tertentu. Penggabungan harus mempertimbangkan waktu pengukuran, sistem koordinat, ketidakpastian, dan kemungkinan data saling bertentangan. Sistem yang baik tidak sekadar merata-ratakan semua nilai; ia menilai kualitas dan relevansi tiap sumber.
+
+BAB PENDALAMAN: EVALUASI KINERJA DAN PENGUJIAN
+
+Kinerja robot perlu diukur menggunakan indikator yang sesuai tugas. Akurasi posisi, tingkat keberhasilan tugas, waktu penyelesaian, konsumsi energi, frekuensi kegagalan, dan kemampuan pulih merupakan contoh indikator yang berbeda. Satu angka gabungan dapat menyembunyikan kelemahan penting. Laporan sebaiknya menunjukkan hasil per skenario dan kondisi yang diuji.
+
+Pengujian harus mencakup kondisi normal, batas operasi yang diizinkan, variasi lingkungan, dan kegagalan sensor yang disimulasikan secara aman. Tim perlu menetapkan kriteria lulus sebelum melihat hasil agar tidak mengubah standar setelah mengetahui performa. Pengujian berulang membantu membedakan hasil konsisten dari keberhasilan kebetulan. Catat versi perangkat lunak, konfigurasi, dan data pengujian sehingga perbandingan antarrilis dapat dilakukan secara adil.
+
+PROYEK MINI: RANCANGAN EVALUASI ROBOT VIRTUAL
+
+Pilih robot virtual sederhana, misalnya agen yang bergerak pada kisi dua dimensi. Definisikan tujuan, ukuran keberhasilan, batas peta, dan beberapa skenario hambatan. Bandingkan dua pendekatan perencanaan secara konseptual menggunakan data simulasi. Sajikan tabel hasil, jelaskan skenario yang sulit, dan sebutkan aspek dunia nyata yang belum terwakili. Proyek ini menekankan evaluasi dan pemahaman model, bukan pembuatan perangkat fisik.
+

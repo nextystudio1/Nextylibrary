@@ -194,3 +194,27 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa energi terbarukan perlu dukungan sistem? Karena pola produksi dan lokasi sumber berbeda.
 4. Apa tujuan penyimpanan energi? Menggeser waktu penggunaan dan membantu fleksibilitas sistem.
 5. Apa arti transisi energi yang adil? Perubahan memperhatikan pekerja, konsumen, komunitas, dan pembagian manfaat serta beban.
+BAB LANJUTAN 1. ANALISIS KEBUTUHAN ENERGI DAN BEBAN
+
+Perencanaan energi dimulai dari memahami layanan yang dibutuhkan, bukan sekadar memilih teknologi pembangkit. Beban listrik berubah menurut jam, hari, musim, jenis bangunan, dan kegiatan. Profil beban menunjukkan kapan permintaan meningkat dan kapan menurun. Beban puncak penting bagi kapasitas jaringan, sedangkan energi total selama periode penting bagi konsumsi dan biaya. Dua bangunan dengan konsumsi bulanan sama dapat memiliki profil puncak yang sangat berbeda.
+
+Audit energi mengidentifikasi penggunaan utama melalui inventaris peralatan, daya terukur, lama operasi, dan pola pemakaian. Perkiraan sederhana energi listrik adalah daya dikalikan waktu, dengan satuan yang konsisten. Peralatan 100 watt yang digunakan 5 jam mengonsumsi sekitar 500 watt-jam atau 0,5 kWh. Perhitungan ini merupakan perkiraan bila daya aktual berubah selama operasi. Pengukuran langsung dapat memberi gambaran lebih baik.
+
+BAB LANJUTAN 2. EFISIENSI, KONSERVASI, DAN EFEK REBOUND
+
+Efisiensi berarti memperoleh layanan yang sama dengan masukan energi lebih sedikit, sedangkan konservasi dapat mencakup perubahan perilaku atau pengurangan kebutuhan layanan. Lampu efisien, isolasi bangunan, motor dengan kendali yang tepat, dan perawatan peralatan dapat mengurangi konsumsi. Namun penghematan teknis tidak selalu sama dengan penurunan konsumsi aktual.
+
+Efek rebound terjadi ketika peningkatan efisiensi menurunkan biaya penggunaan sehingga layanan dipakai lebih banyak. Misalnya, pendingin ruangan yang lebih efisien dapat mendorong waktu pemakaian lebih panjang atau suhu pengaturan lebih rendah. Efek ini tidak membatalkan manfaat efisiensi, tetapi menunjukkan pentingnya mengevaluasi konsumsi total dan kebijakan pendukung.
+
+BAB LANJUTAN 3. PENYIMPANAN, FLEKSIBILITAS, DAN KEANDALAN SISTEM
+
+Sumber energi terbarukan tertentu bergantung pada cuaca dan waktu. Penyimpanan dapat menggeser energi dari saat produksi tinggi ke saat kebutuhan meningkat, tetapi memiliki batas kapasitas, efisiensi, umur, biaya, dan dampak rantai pasok. Baterai bukan satu-satunya pilihan; sistem juga dapat menggunakan penyimpanan termal, pemompaan air, pengelolaan permintaan, atau interkoneksi jaringan.
+
+Keandalan sistem bergantung pada gabungan pembangkit, jaringan, penyimpanan, cadangan, dan kemampuan mengatur beban. Fleksibilitas permintaan dapat dilakukan dengan menggeser kegiatan yang tidak harus berlangsung pada jam tertentu. Keputusan perlu mempertimbangkan kebutuhan pengguna rentan agar penghematan biaya tidak mengurangi akses terhadap layanan dasar.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Bedakan daya puncak dengan energi yang digunakan selama sebulan.
+2. Hitung konsumsi peralatan 60 watt yang digunakan 8 jam.
+3. Jelaskan efek rebound dengan contoh selain pendingin ruangan.
+4. Sebutkan tiga pilihan fleksibilitas sistem selain menambah pembangkit.
+5. Mengapa penyimpanan energi perlu dinilai berdasarkan seluruh siklus hidupnya?

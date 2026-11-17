@@ -286,3 +286,40 @@ LATIHAN
 
 PROYEK
 Buat laporan sederhana tentang pola cuaca lokal menggunakan data publik dan aman. Catat periode, lokasi umum, sumber, variabel, dan data yang hilang. Buat grafik perubahan suhu atau hujan, lalu jelaskan keterbatasan pengamatan. Jangan mendekati kondisi cuaca berbahaya untuk mengumpulkan data.
+
+BAB PENDALAMAN: KESEIMBANGAN ENERGI BUMI
+
+Sistem atmosfer menerima energi terutama dari Matahari dan melepaskan energi ke angkasa dalam bentuk radiasi. Permukaan, awan, gas rumah kaca, dan aerosol memengaruhi bagaimana energi diserap, dipantulkan, dan dipancarkan. Keseimbangan energi pada skala planet membantu menjelaskan suhu rata-rata, sedangkan variasi lokal dipengaruhi daratan, lautan, topografi, dan sirkulasi udara.
+
+Albedo adalah bagian radiasi yang dipantulkan oleh permukaan atau sistem. Permukaan cerah umumnya memantulkan lebih banyak radiasi daripada permukaan gelap, tetapi kondisi awan dan sudut Matahari juga berpengaruh. Gas rumah kaca menyerap dan memancarkan radiasi inframerah pada pita tertentu. Efek ini merupakan bagian alami sistem iklim, sementara peningkatan konsentrasi gas tertentu akibat aktivitas manusia mengubah keseimbangan energi.
+
+Aerosol dapat memengaruhi radiasi secara langsung maupun melalui interaksi dengan awan. Dampaknya bergantung pada ukuran, komposisi, ketinggian, dan sifat permukaan. Karena proses ini kompleks, satu pengamatan aerosol tidak cukup untuk menyimpulkan dampak iklim secara keseluruhan.
+
+BAB PENDALAMAN: AWAN, PRESIPITASI, DAN SIKLUS AIR
+
+Awan terbentuk ketika udara lembap mengalami pendinginan hingga kondisi yang memungkinkan uap air mengembun pada partikel inti kondensasi. Pertumbuhan tetes awan dan kristal es dipengaruhi suhu, kelembapan, gerak vertikal, serta karakter partikel. Tidak semua awan menghasilkan hujan di permukaan; sebagian presipitasi dapat menguap sebelum mencapai tanah.
+
+Jenis awan memberi petunjuk tentang kondisi atmosfer, tetapi pengamatan visual harus dikaitkan dengan data lain. Radar cuaca, satelit, stasiun permukaan, dan pengukuran udara atas memiliki cakupan serta keterbatasan berbeda. Penggabungan sumber membantu membangun gambaran yang lebih lengkap.
+
+Siklus air menghubungkan penguapan, transpirasi, kondensasi, presipitasi, infiltrasi, dan aliran permukaan. Perubahan tutupan lahan dapat memengaruhi sebagian jalur tersebut. Hujan dengan jumlah sama dapat menghasilkan limpasan berbeda bergantung pada kelembapan awal tanah, kemiringan, drainase, dan tutupan permukaan.
+
+BAB PENDALAMAN: SIRKULASI DAN VARIABILITAS CUACA
+
+Perbedaan pemanasan antara wilayah membentuk gradien tekanan yang mendorong gerak udara. Rotasi bumi membelokkan gerak dalam skala besar, sementara gesekan dan bentuk permukaan memengaruhi aliran dekat tanah. Pegunungan dapat memaksa udara naik, menghasilkan perubahan awan dan hujan di sisi yang berbeda.
+
+Sirkulasi atmosfer memiliki variasi pada berbagai skala waktu. Pola harian berkaitan dengan pemanasan siang dan pendinginan malam, sedangkan variasi musiman dipengaruhi pergeseran posisi Matahari dan sistem angin regional. Fenomena antar-tahunan dapat mengubah pola hujan dan suhu di wilayah luas. Hubungan statistik antara dua fenomena tidak otomatis membuktikan sebab langsung.
+
+BAB PENDALAMAN: PENGAMATAN, MODEL, DAN PRAKIRAAN
+
+Prakiraan cuaca menggunakan pengamatan untuk memperkirakan keadaan atmosfer pada waktu mendatang. Data dimasukkan ke model numerik yang menghitung perubahan berdasarkan persamaan fisika. Kondisi awal tidak pernah diketahui secara sempurna, dan model memiliki keterbatasan resolusi serta representasi proses. Karena atmosfer bersifat dinamis, ketidakpastian biasanya meningkat seiring bertambahnya jangka prakiraan.
+
+Prakiraan probabilistik menyatakan peluang suatu kejadian, bukan kepastian. Peluang hujan perlu ditafsirkan sesuai definisi wilayah, periode, dan ambang yang digunakan. Pengguna sebaiknya membaca pembaruan resmi dan memperhatikan peringatan otoritas, terutama untuk keputusan keselamatan.
+
+Verifikasi membandingkan prakiraan dengan pengamatan setelah periode berlalu. Ukuran kesalahan harus sesuai jenis variabel dan tujuan. Satu prakiraan yang tepat tidak membuktikan model selalu akurat, sebagaimana satu kesalahan tidak cukup untuk menilai seluruh sistem. Evaluasi memerlukan banyak kasus dan periode yang representatif.
+
+BAB PENDALAMAN: ATMOSFER KOTA DAN KUALITAS UDARA
+
+Kota mengubah pertukaran energi dan aliran udara melalui bangunan, jalan, vegetasi, dan sumber panas. Pulau panas perkotaan dapat membuat suhu kawasan terbangun lebih tinggi daripada wilayah sekitarnya pada kondisi tertentu. Intensitasnya dipengaruhi bentuk kota, bahan permukaan, kelembapan, angin, dan waktu pengamatan.
+
+Kualitas udara dipengaruhi emisi, reaksi kimia atmosfer, transportasi, dan kondisi meteorologi. Angin dapat menyebarkan polutan, tetapi kondisi atmosfer stabil dapat membatasi pencampuran vertikal. Data konsentrasi perlu dikaitkan dengan lokasi stasiun, ketinggian alat, waktu, dan metode pengukuran. Informasi ini membantu membedakan perubahan emisi dari perubahan kondisi penyebaran.
+

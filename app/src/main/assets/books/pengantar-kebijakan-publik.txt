@@ -316,3 +316,34 @@ LATIHAN BAB
 3. Sebutkan hambatan yang dapat membuat partisipasi publik tidak setara.
 4. Bedakan evaluasi proses, hasil, dan dampak.
 5. Buat indikator layanan air bersih yang melampaui jumlah fasilitas dibangun.
+
+BAB PENDALAMAN: SIKLUS KEBIJAKAN DAN PERUMUSAN MASALAH
+
+Kebijakan publik tidak selalu bergerak dalam urutan lurus, tetapi kerangka siklus membantu memetakan prosesnya. Masalah dikenali, masuk ke agenda, dirumuskan pilihan, diputuskan, dilaksanakan, lalu dievaluasi. Hasil evaluasi dapat mengubah agenda atau rancangan awal. Pada praktiknya beberapa tahap berlangsung bersamaan dan dipengaruhi negosiasi, kapasitas lembaga, serta perubahan keadaan.
+
+Perumusan masalah menentukan siapa yang dianggap terdampak dan penyebab apa yang menjadi perhatian. Masalah kemacetan, misalnya, dapat dibingkai sebagai kekurangan jalan, tata ruang yang memisahkan tempat tinggal dan pekerjaan, layanan angkutan umum yang tidak memadai, atau pengelolaan perjalanan. Setiap bingkai menghasilkan pilihan kebijakan berbeda. Analisis yang baik membandingkan beberapa penjelasan sebelum menetapkan intervensi.
+
+BAB PENDALAMAN: INSTRUMEN DAN DESAIN KEBIJAKAN
+
+Pemerintah memiliki beragam instrumen: regulasi, penyediaan layanan, pajak dan subsidi, informasi publik, pengadaan, serta kemitraan. Instrumen dipilih berdasarkan sifat masalah, kemampuan pelaksanaan, perilaku sasaran, dan konsekuensi yang mungkin muncul. Larangan dapat memberi batas jelas, tetapi memerlukan pengawasan. Insentif dapat mendorong perubahan, tetapi hasilnya bergantung pada respons pihak yang menerima.
+
+Desain kebijakan perlu menetapkan tujuan yang dapat diuji, kelompok sasaran, mekanisme pelaksanaan, sumber daya, dan indikator. Tujuan yang terlalu umum sulit dievaluasi. Tujuan yang terlalu sempit dapat mengabaikan manfaat lain. Teori perubahan menjelaskan bagaimana kegiatan diharapkan menghasilkan keluaran, perubahan perilaku, dan dampak jangka panjang.
+
+BAB PENDALAMAN: IMPLEMENTASI DAN KAPASITAS KELEMBAGAAN
+
+Kebijakan yang disahkan belum tentu terlaksana seperti rancangan. Pelaksana lapangan menghadapi keterbatasan staf, anggaran, data, teknologi, dan koordinasi. Aturan yang rumit dapat membuat warga yang berhak justru kesulitan mengakses layanan. Prosedur perlu diuji dari sudut pandang pengguna, bukan hanya dari kenyamanan administrasi.
+
+Koordinasi lintas lembaga penting ketika masalah melintasi batas kewenangan. Pembagian peran, standar data, jadwal, dan mekanisme penyelesaian konflik perlu jelas. Pemantauan pelaksanaan dapat menemukan hambatan lebih awal. Perubahan prosedur sebaiknya dicatat agar alasan dan dampaknya dapat ditinjau.
+
+BAB PENDALAMAN: EVALUASI DAN PEMBELAJARAN KEBIJAKAN
+
+Evaluasi proses memeriksa apakah kegiatan dijalankan sesuai rancangan. Evaluasi keluaran mengukur produk langsung seperti jumlah layanan yang diberikan. Evaluasi hasil melihat perubahan jangka menengah, sedangkan evaluasi dampak menelaah perubahan yang dapat dikaitkan dengan kebijakan dibandingkan keadaan tanpa intervensi. Setiap jenis evaluasi menjawab pertanyaan berbeda.
+
+Perbandingan sebelum dan sesudah belum cukup untuk memastikan sebab-akibat karena faktor lain dapat berubah pada waktu yang sama. Desain evaluasi perlu mempertimbangkan kelompok pembanding, tren awal, dan keterbatasan data. Temuan yang tidak sesuai harapan tetap berguna jika dilaporkan secara jujur dan digunakan untuk memperbaiki program.
+
+BAB PENDALAMAN: PARTISIPASI, KEADILAN, DAN AKUNTABILITAS
+
+Partisipasi publik meningkatkan kualitas informasi dan legitimasi, tetapi prosesnya dapat didominasi kelompok yang memiliki waktu, akses, dan sumber daya lebih besar. Penyelenggara perlu menyediakan format yang mudah diakses, bahasa yang jelas, waktu yang memadai, serta saluran bagi kelompok yang jarang terdengar.
+
+Akuntabilitas memerlukan keterbukaan alasan keputusan, penggunaan anggaran, indikator kinerja, dan mekanisme pengaduan. Data harus disajikan dengan konteks agar tidak mendorong kesimpulan keliru. Kebijakan yang baik tidak hanya dinilai dari niat, melainkan juga dari bukti pelaksanaan, distribusi manfaat, serta kesediaan lembaga memperbaiki kesalahan.
+

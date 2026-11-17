@@ -233,3 +233,53 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Jelaskan perbedaan basis kas dan basis akrual.
 4. Mengapa laporan laba rugi perlu dibaca bersama laporan arus kas?
 5. Sebutkan dua keterbatasan penggunaan rasio keuangan.
+BAB LANJUTAN 4. AKUNTANSI BIAYA DAN PERILAKU BIAYA
+
+Akuntansi biaya menyediakan informasi untuk memahami penggunaan sumber daya dalam menghasilkan barang atau jasa. Biaya langsung dapat ditelusuri secara relatif jelas ke objek biaya tertentu, sedangkan biaya tidak langsung perlu dialokasikan menggunakan dasar yang masuk akal. Objek biaya dapat berupa produk, layanan, proyek, departemen, atau pelanggan. Pemilihan objek menentukan bagaimana informasi biaya disusun.
+
+Biaya tetap tidak berubah secara total dalam rentang aktivitas tertentu, sedangkan biaya variabel berubah mengikuti tingkat aktivitas. Dalam praktik, perilaku biaya dapat bersifat campuran dan berubah ketika kapasitas melewati batas tertentu. Biaya tetap per unit akan turun ketika jumlah unit meningkat dalam rentang relevan, tetapi hal itu tidak berarti biaya total tetap selalu sama pada semua tingkat produksi.
+
+Analisis biaya-volume-laba membantu memahami hubungan harga jual, biaya variabel, biaya tetap, dan volume. Titik impas adalah tingkat aktivitas ketika total pendapatan sama dengan total biaya dalam asumsi model. Model ini berguna untuk perencanaan awal, tetapi hasilnya sensitif terhadap asumsi harga, bauran produk, kapasitas, dan perilaku biaya. Keputusan tidak sebaiknya dibuat hanya berdasarkan satu angka titik impas.
+
+Alokasi biaya tidak langsung dapat menggunakan jam tenaga kerja, jam mesin, luas ruang, atau pemicu biaya lain. Dasar alokasi perlu mencerminkan hubungan penggunaan sumber daya sebaik mungkin. Jika dasar alokasi tidak tepat, biaya produk atau layanan dapat tampak terlalu tinggi atau rendah sehingga keputusan harga dan penghentian produk menjadi keliru.
+
+LATIHAN BAB
+1. Bedakan biaya langsung dan tidak langsung.
+2. Apa perbedaan biaya tetap total dan biaya tetap per unit?
+3. Apa arti titik impas?
+4. Mengapa analisis biaya-volume-laba bergantung pada asumsi?
+5. Berikan contoh dasar alokasi biaya tidak langsung.
+
+BAB LANJUTAN 5. AKUNTANSI UNTUK ORGANISASI NIRLABA
+
+Organisasi nirlaba menggunakan sumber daya untuk mencapai misi, bukan membagikan laba kepada pemilik. Walaupun tujuan berbeda dari perusahaan komersial, organisasi tetap memerlukan pencatatan yang andal, pengendalian internal, anggaran, dan pelaporan pertanggungjawaban. Pengurus harus dapat menjelaskan bagaimana dana diterima dan digunakan untuk kegiatan yang sesuai dengan tujuan organisasi.
+
+Sumbangan dapat memiliki pembatasan penggunaan dari pemberi dana. Dana yang dibatasi untuk program tertentu perlu dipantau agar tidak digunakan untuk tujuan lain tanpa dasar yang sah. Pencatatan harus membedakan pembatasan, kewajiban, dan kebijakan internal organisasi. Pengelolaan dana yang transparan membantu menjaga kepercayaan donatur dan penerima manfaat.
+
+Laporan keuangan perlu dibaca bersama informasi program. Besarnya pengeluaran administrasi saja tidak cukup untuk menilai efektivitas organisasi. Pembaca juga perlu melihat kualitas layanan, hasil kegiatan, keberlanjutan pendanaan, serta biaya yang diperlukan untuk menghasilkan manfaat. Pengukuran dampak sosial memiliki keterbatasan dan tidak selalu dapat diringkas menjadi satu rasio.
+
+Pengendalian internal pada organisasi kecil tetap penting meskipun pemisahan tugas sulit dilakukan karena jumlah staf terbatas. Pengawasan pengurus, rekonsiliasi berkala, persetujuan transaksi, bukti pengeluaran, dan pelaporan kepada pihak yang tidak melakukan transaksi dapat mengurangi risiko. Kebijakan harus realistis dan sebanding dengan skala kegiatan.
+
+LATIHAN BAB
+1. Apa perbedaan tujuan organisasi nirlaba dan perusahaan komersial?
+2. Mengapa dana dengan pembatasan perlu dipantau terpisah?
+3. Mengapa rasio administrasi tidak cukup menilai dampak organisasi?
+4. Sebutkan empat kontrol yang dapat diterapkan organisasi kecil.
+5. Informasi apa yang membantu donatur menilai pertanggungjawaban dana?
+
+BAB LANJUTAN 6. AUDIT, BUKTI, DAN TANGGUNG JAWAB PELAPORAN
+
+Audit merupakan proses pemeriksaan yang sistematis terhadap informasi dan bukti untuk memberikan tingkat keyakinan sesuai tujuan penugasan. Audit laporan keuangan menilai apakah laporan disajikan secara wajar berdasarkan kerangka pelaporan yang berlaku. Audit tidak menjamin bahwa seluruh kesalahan atau kecurangan pasti ditemukan; prosedur menggunakan pertimbangan profesional dan pengujian berdasarkan risiko.
+
+Bukti audit harus relevan dan cukup. Dokumen sumber, konfirmasi pihak ketiga, pengamatan, perhitungan ulang, dan prosedur analitis dapat memberi jenis bukti berbeda. Bukti dari sumber independen sering memiliki karakteristik keandalan yang berbeda dari penjelasan lisan pihak internal. Auditor mengevaluasi konsistensi berbagai bukti dan menindaklanjuti hal yang bertentangan.
+
+Materialitas membantu menentukan apakah suatu salah saji dapat memengaruhi keputusan pengguna laporan. Penilaian tidak hanya bergantung pada nilai uang; sifat transaksi dan konteks juga dapat penting. Salah saji kecil yang berkaitan dengan kepatuhan atau konflik kepentingan dapat memiliki arti khusus walaupun jumlahnya tidak besar.
+
+Tanggung jawab penyusunan laporan tetap berada pada manajemen atau pihak yang ditetapkan oleh kerangka organisasi. Auditor independen tidak mengambil alih tanggung jawab tersebut. Pemisahan peran menjaga kejelasan akuntabilitas. Jika ditemukan kelemahan pengendalian, komunikasi temuan perlu menjelaskan risiko dan rekomendasi perbaikan secara proporsional.
+
+LATIHAN BAB
+1. Apa tujuan audit laporan keuangan?
+2. Mengapa audit tidak menjamin semua kecurangan ditemukan?
+3. Sebutkan empat jenis bukti audit.
+4. Apa makna materialitas?
+5. Mengapa tanggung jawab penyusunan laporan tidak berpindah kepada auditor?

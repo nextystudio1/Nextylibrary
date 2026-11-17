@@ -366,3 +366,62 @@ Metrik interaksi harus terhubung dengan tujuan pengguna. Tingkat penyelesaian tu
 
 Siklus iterasi dimulai dari masalah yang teramati, hipotesis perbaikan, prototipe, pengujian, dan keputusan berdasarkan bukti. Catat perubahan serta alasan memilihnya agar tim dapat membandingkan versi. Data analitik perlu diminimalkan dan dianonimkan sejauh mungkin; jangan mengumpulkan isi pribadi hanya karena secara teknis tersedia.
 
+BAB LANJUTAN: ARSITEKTUR INFORMASI, PROTOTIPE, DAN EVALUASI PENGALAMAN
+
+Arsitektur informasi
+
+Arsitektur informasi mengatur bagaimana konten dikelompokkan, diberi nama, dan dihubungkan agar pengguna dapat menemukan hal yang dibutuhkan. Struktur yang jelas mengurangi beban mengingat dan membantu pengguna membangun pemahaman tentang sistem. Kategori sebaiknya mengikuti cara pengguna memahami tugas, bukan semata-mata struktur organisasi pembuat produk.
+
+Pohon navigasi dapat diuji melalui card sorting, yaitu meminta peserta mengelompokkan topik menurut pemahaman mereka. Tree testing kemudian memeriksa apakah pengguna dapat menemukan informasi pada struktur yang diusulkan. Hasilnya tidak harus menghasilkan satu susunan universal; kebutuhan kelompok pengguna berbeda dapat memerlukan jalur alternatif atau pencarian yang kuat.
+
+Model mental dan umpan balik
+
+Model mental adalah gambaran yang dibangun pengguna tentang cara kerja suatu sistem. Ikon, label, urutan langkah, dan respons sistem memengaruhi gambaran tersebut. Ketika tindakan menghasilkan respons yang tidak terlihat, pengguna dapat mengira sistem tidak bekerja dan mengulangi tindakan. Umpan balik yang jelas menunjukkan apa yang terjadi, apakah proses berhasil, dan apa langkah berikutnya.
+
+Status sistem perlu disampaikan dengan bahasa yang spesifik. Pesan “terjadi kesalahan” kurang membantu dibanding penjelasan tentang bagian yang bermasalah dan cara melanjutkan. Namun, pesan tidak boleh membocorkan informasi sensitif atau menyalahkan pengguna. Untuk proses yang memerlukan waktu, tampilkan status dan berikan pilihan yang aman jika proses gagal.
+
+Pencegahan kesalahan dan pemulihan
+
+Desain yang baik mengurangi peluang kesalahan sebelum terjadi. Pilihan yang tidak relevan dapat disembunyikan, format masukan dapat diberi contoh, dan tindakan berisiko dapat meminta konfirmasi yang proporsional. Konfirmasi tidak perlu digunakan untuk setiap klik karena terlalu banyak dialog justru melelahkan dan dapat membuat pengguna menekan tombol tanpa membaca.
+
+Pemulihan harus mempertimbangkan kemungkinan membatalkan tindakan, menyimpan perubahan, atau mengulangi proses tanpa kehilangan pekerjaan. Pesan kesalahan sebaiknya menjelaskan apa yang dapat dilakukan pengguna. Sistem perlu menjaga data ketika koneksi terputus atau aplikasi ditutup secara tidak terduga, sesuai tingkat risiko tugas.
+
+Prototipe dari kesetiaan rendah hingga tinggi
+
+Prototipe sederhana berupa sketsa atau wireframe membantu menguji alur sebelum tim menghabiskan waktu pada detail visual. Prototipe interaktif dapat menguji navigasi dan respons. Prototipe dengan tingkat kesetiaan tinggi berguna untuk menilai detail visual, tetapi dapat membuat peserta mengira semua fungsi sudah benar-benar tersedia. Jelaskan batas simulasi sebelum sesi uji.
+
+Setiap prototipe sebaiknya memiliki pertanyaan evaluasi. Misalnya, apakah pengguna memahami perbedaan simpan dan terbitkan, atau dapat menemukan pengaturan privasi? Jangan membuat prototipe hanya untuk menunjukkan bahwa desain terlihat menarik. Hasil uji perlu mengubah keputusan desain jika bukti menunjukkan masalah.
+
+Metode evaluasi kegunaan
+
+Uji kegunaan mengamati orang menyelesaikan tugas yang relevan. Tugas harus ditulis netral dan tidak membocorkan langkah yang diharapkan. Fasilitator dapat meminta peserta menjelaskan apa yang sedang mereka cari, tetapi jangan terlalu sering membantu. Catat keberhasilan, kesalahan, waktu, keraguan, dan komentar yang muncul.
+
+Jumlah peserta dan metode bergantung pada tujuan penelitian. Uji formatif skala kecil dapat menemukan masalah utama, sedangkan evaluasi kuantitatif memerlukan rancangan dan sampel yang sesuai. Jangan mengklaim hasil berlaku untuk seluruh populasi jika peserta hanya berasal dari satu kelompok. Catat karakteristik yang relevan tanpa mengumpulkan data pribadi berlebihan.
+
+Desain visual dan hierarki
+
+Hierarki visual membantu pengguna memahami urutan informasi. Ukuran, jarak, kontras, posisi, dan tipografi dapat menunjukkan hubungan antarbagian. Konsistensi komponen mengurangi kebutuhan belajar ulang. Namun, konsistensi bukan berarti semua halaman harus identik; perbedaan fungsi perlu tercermin dalam struktur yang sesuai.
+
+Warna tidak boleh menjadi satu-satunya penanda status. Gunakan teks, ikon, atau pola tambahan. Kontras perlu diperiksa pada kondisi layar yang berbeda. Animasi dapat memberi petunjuk perubahan, tetapi harus singkat, tidak mengganggu tugas, dan menyediakan pengurangan gerak bila sesuai kebutuhan aksesibilitas.
+
+Desain responsif dan lintas perangkat
+
+Tampilan responsif menyesuaikan susunan dengan ukuran layar, orientasi, dan cara input. Pada layar kecil, prioritas konten dan urutan tindakan menjadi penting. Target sentuh perlu cukup mudah dijangkau, sementara keyboard dan pembaca layar membutuhkan urutan fokus yang masuk akal. Uji pada perangkat nyata karena simulator tidak selalu mewakili kinerja, ukuran teks, dan kondisi penggunaan sebenarnya.
+
+Koneksi lambat dan perangkat dengan kemampuan terbatas juga perlu dipertimbangkan. Hindari memuat aset besar yang tidak diperlukan. Berikan status saat data sedang dimuat dan pesan yang dapat dipahami ketika jaringan gagal. Pengguna sebaiknya tidak kehilangan masukan hanya karena koneksi sementara terputus.
+
+Etika, privasi, dan desain persuasif
+
+Desain memengaruhi pilihan. Pola antarmuka yang menyembunyikan biaya, membuat pembatalan sulit, atau menekan pengguna untuk menyetujui sesuatu dapat merusak kepercayaan. Persetujuan harus jelas, pilihan penting tidak boleh disamarkan, dan pengaturan privasi perlu mudah ditemukan. Desain persuasif yang etis membantu pengguna mencapai tujuan mereka, bukan mengeksploitasi perhatian atau kerentanan.
+
+Minimalkan pengumpulan data dan jelaskan tujuan setiap izin. Gunakan data uji yang tidak mengungkap identitas. Rekaman sesi atau analitik perlu memiliki dasar yang sah, batas retensi, dan pengamanan. Tim harus mempertimbangkan dampak bagi kelompok rentan sebelum meluncurkan fitur.
+
+Dokumentasi dan sistem desain
+
+Sistem desain menyimpan komponen, aturan penggunaan, token visual, pola interaksi, dan panduan aksesibilitas. Dokumentasi membantu tim menjaga konsistensi dan mengurangi duplikasi kerja. Setiap komponen perlu menjelaskan tujuan, variasi, keadaan, perilaku keyboard, dan batas penggunaan.
+
+Perubahan komponen harus memiliki versi dan catatan. Uji regresi memastikan perbaikan pada satu bagian tidak merusak bagian lain. Tim juga perlu menyediakan jalur pengecualian ketika kebutuhan produk tidak cocok dengan pola standar, disertai alasan yang terdokumentasi.
+
+Proyek evaluasi antarmuka
+
+Pilih satu alur sederhana, misalnya mencari artikel dan menyimpan bacaan. Buat diagram langkah, prototipe, serta tugas uji. Minta beberapa peserta mencoba tanpa arahan rinci. Kelompokkan masalah berdasarkan dampak dan frekuensi, lalu revisi desain. Ulangi pengujian untuk memastikan perubahan benar-benar membantu. Simpan keputusan, bukti, dan keterbatasan agar proses desain dapat dipertanggungjawabkan.

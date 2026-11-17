@@ -262,3 +262,46 @@ LATIHAN BAB
 3. Sebutkan informasi yang perlu dicatat untuk menjaga konteks bukti digital.
 4. Mengapa mengakses akun pihak lain bukan cara yang tepat mengumpulkan bukti?
 5. Faktor apa yang perlu dipertimbangkan saat memilih mekanisme penyelesaian?
+
+BAB LANJUTAN: TANGGUNG JAWAB DAN TATA KELOLA DATA
+
+Layanan digital mengolah data pada berbagai tahap: pengumpulan, penggunaan, penyimpanan, pembagian, pengarsipan, dan penghapusan. Setiap tahap membawa tanggung jawab. Organisasi perlu menjelaskan tujuan pemrosesan, membatasi akses sesuai tugas, menjaga akurasi, dan menetapkan masa penyimpanan. Data yang tidak lagi diperlukan sebaiknya ditangani sesuai kebijakan retensi dan ketentuan hukum yang berlaku.
+
+Persetujuan bukan satu-satunya konsep yang relevan dalam tata kelola data. Dasar pemrosesan dapat berbeda menurut jenis layanan dan yurisdiksi. Penjelasan kepada pengguna harus mudah dipahami, tidak menyamarkan tujuan penting dalam teks yang panjang, serta menyediakan cara untuk mengajukan pertanyaan atau menggunakan hak yang tersedia. Organisasi juga perlu memastikan bahwa persetujuan tidak diperoleh melalui tekanan atau pilihan yang menyesatkan.
+
+Pengendali dan pemroses data dapat memiliki tanggung jawab berbeda sesuai peran dan aturan yang berlaku. Kontrak antarpihak perlu menjelaskan tujuan, instruksi, keamanan, bantuan ketika terjadi insiden, subpemroses, dan penghapusan atau pengembalian data setelah hubungan berakhir. Pembagian tanggung jawab tidak boleh menjadi alasan untuk mengabaikan kewajiban perlindungan.
+
+KEAMANAN INFORMASI DAN RESPONS INSIDEN
+
+Keamanan informasi bertujuan menjaga kerahasiaan, integritas, dan ketersediaan. Kerahasiaan membatasi akses kepada pihak berwenang; integritas menjaga agar data tidak berubah tanpa izin; ketersediaan memastikan layanan dapat digunakan saat diperlukan. Kontrol organisasi dapat mencakup pengelolaan akses, pembaruan sistem, pencadangan, pelatihan, pemantauan, dan pengujian prosedur pemulihan.
+
+Rencana respons insiden sebaiknya menetapkan siapa yang menerima laporan, siapa yang menilai dampak, bagaimana bukti dan catatan dipelihara, serta siapa yang berwenang mengambil keputusan. Komunikasi kepada pengguna dan otoritas harus mengikuti ketentuan yang berlaku. Pesan yang jelas menyampaikan apa yang diketahui, apa yang belum diketahui, tindakan yang dilakukan, dan langkah yang perlu dipertimbangkan penerima.
+
+Tidak semua gangguan merupakan pelanggaran data, dan tidak semua insiden memiliki dampak yang sama. Penilaian perlu mempertimbangkan jenis data, jumlah orang terdampak, kemungkinan penyalahgunaan, durasi paparan, serta efektivitas kontrol. Organisasi harus menghindari klaim bahwa insiden sepenuhnya aman sebelum investigasi memadai.
+
+KONTRAK DIGITAL DAN HAK KONSUMEN
+
+Ketentuan layanan merupakan bagian dari hubungan kontraktual, tetapi pengguna sering menghadapi dokumen panjang dan sulit dipahami. Informasi penting seperti biaya, perpanjangan otomatis, pembatasan akun, penggunaan data, pengembalian dana, dan mekanisme sengketa perlu disajikan dengan jelas. Desain antarmuka tidak seharusnya menyembunyikan pilihan penting atau mendorong pengguna menyetujui hal yang tidak mereka pahami.
+
+Transaksi elektronik memerlukan informasi tentang identitas pelaku usaha, deskripsi barang atau jasa, harga, biaya tambahan, cara pembayaran, pengiriman, dan kanal pengaduan. Bukti transaksi perlu disimpan secara wajar. Jika terjadi sengketa, pihak terkait dapat menelusuri komunikasi dan dokumen sesuai aturan, tanpa mengubah atau menyebarkan data pribadi yang tidak relevan.
+
+Hak konsumen dan kewajiban penyedia layanan dapat berbeda menurut negara dan jenis transaksi. Materi literasi hukum perlu membedakan prinsip umum dari aturan khusus yang berlaku di suatu wilayah. Untuk kasus nyata, pembaca sebaiknya memeriksa sumber resmi terbaru atau meminta bantuan profesional yang kompeten.
+
+KEKAYAAN INTELEKTUAL DI RUANG DIGITAL
+
+Konten digital dapat dilindungi oleh hak cipta atau rezim kekayaan intelektual lain. Kemudahan menyalin berkas tidak berarti izin penggunaan otomatis tersedia. Pengguna perlu membedakan kepemilikan salinan, hak untuk membaca, dan hak untuk menggandakan, mengubah, atau mendistribusikan. Lisensi menjelaskan izin dan batas penggunaan; syaratnya perlu diperiksa sebelum konten dipakai kembali.
+
+Pengecualian dan pembatasan hak cipta berbeda antarwilayah dan bergantung pada tujuan serta konteks. Mengutip sumber secara tepat, mencantumkan atribusi, dan menggunakan materi berlisensi sesuai syarat merupakan praktik penting, tetapi atribusi saja tidak selalu menggantikan izin. Organisasi perlu menyimpan catatan lisensi dan bukti izin untuk aset yang digunakan.
+
+TATA KELOLA ALGORITMA DAN KEPUTUSAN OTOMATIS
+
+Sistem otomatis dapat memengaruhi rekomendasi, akses layanan, penilaian risiko, dan prioritas penanganan. Pengguna perlu mengetahui ketika keputusan penting dibuat atau dibantu sistem otomatis, sesuai ketentuan yang berlaku. Organisasi perlu menilai kualitas data, kemungkinan bias, keterjelasan alasan, mekanisme koreksi, dan jalur peninjauan manusia.
+
+Keputusan otomatis dapat menghasilkan dampak tidak seimbang jika data historis mencerminkan ketidaksetaraan atau jika variabel pengganti berkaitan erat dengan karakteristik sensitif. Audit tidak cukup hanya memeriksa akurasi rata-rata. Perlu ditinjau tingkat kesalahan antar kelompok, kualitas data, prosedur keberatan, dan dampak nyata terhadap orang yang terkena keputusan.
+
+LATIHAN BAB
+1. Jelaskan tiga tujuan utama keamanan informasi.
+2. Informasi apa yang sebaiknya disampaikan dalam pemberitahuan insiden?
+3. Mengapa kepemilikan salinan konten tidak sama dengan hak distribusi?
+4. Apa risiko keputusan otomatis yang tidak menyediakan mekanisme koreksi?
+5. Buat daftar informasi penting yang perlu dijelaskan dalam transaksi digital.

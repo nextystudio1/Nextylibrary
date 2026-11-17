@@ -345,3 +345,36 @@ Pengadaan harus menggunakan kriteria yang diumumkan dan relevan, bukan sekadar h
 
 Pada akhir proyek, serahkan bukan hanya produk, tetapi juga dokumentasi, hak akses, daftar kontak dukungan, prosedur pemeliharaan, serta daftar keterbatasan. Tentukan siapa pemilik manfaat setelah tim proyek dibubarkan. Evaluasi beberapa waktu setelah serah terima dapat menguji apakah manfaat benar-benar bertahan. Dengan demikian, penutupan proyek menjadi awal pengelolaan hasil, bukan sekadar penandatanganan dokumen.
 
+
+BAB PENDALAMAN: JALUR KRITIS DAN KETERGANTUNGAN KEGIATAN
+
+Jadwal proyek bukan sekadar daftar tanggal. Setiap kegiatan memiliki durasi, kebutuhan sumber daya, dan hubungan ketergantungan. Sebagian kegiatan baru dapat dimulai setelah kegiatan lain selesai, sementara sebagian dapat berjalan paralel. Diagram jaringan membantu memperlihatkan hubungan tersebut dan menemukan rangkaian kegiatan yang menentukan waktu penyelesaian proyek.
+
+Jalur kritis adalah rangkaian kegiatan dengan total durasi terpanjang dalam jaringan jadwal. Keterlambatan pada kegiatan di jalur ini dapat menggeser tanggal akhir apabila tidak ada penyesuaian. Kegiatan di luar jalur kritis mungkin memiliki kelonggaran waktu, tetapi kelonggaran tersebut dapat habis jika terjadi perubahan. Perhitungan jadwal harus diperbarui ketika durasi aktual atau ketergantungan berubah.
+
+Estimasi durasi sebaiknya mencatat asumsi dan kapasitas yang tersedia. Satu orang tidak dapat mengerjakan beberapa tugas penuh secara bersamaan hanya karena semuanya tercantum pada kalender. Keterbatasan tenaga, alat, persetujuan, dan waktu tunggu sering menjadi penyebab keterlambatan. Penjadwalan yang realistis memperhitungkan kapasitas dan menghindari pembebanan berlebihan.
+
+BAB PENDALAMAN: PENGELOLAAN PERUBAHAN RUANG LINGKUP
+
+Perubahan merupakan hal wajar dalam proyek, tetapi perubahan tanpa proses dapat membuat tujuan tidak terkendali. Setiap usulan perlu menjelaskan kebutuhan, manfaat, urgensi, dampak pada jadwal, biaya, mutu, risiko, dan pekerjaan yang harus ditunda atau dihapus. Pihak yang berwenang kemudian memutuskan apakah perubahan diterima, ditolak, atau ditunda.
+
+Catatan perubahan menjaga agar semua anggota bekerja berdasarkan versi ruang lingkup yang sama. Setelah disetujui, dokumen terkait seperti jadwal, anggaran, daftar risiko, dan kriteria penerimaan perlu diperbarui. Perubahan kecil yang berulang dapat menghasilkan dampak besar jika tidak dicatat. Tim perlu membedakan perbaikan yang termasuk ruang lingkup awal dari permintaan tambahan.
+
+BAB PENDALAMAN: MUTU, PENGUJIAN, DAN PENERIMAAN HASIL
+
+Mutu berarti kesesuaian hasil dengan kebutuhan dan kriteria yang disepakati, bukan sekadar tampilan menarik. Kriteria penerimaan harus dapat diamati. Untuk produk digital, misalnya, kriteria dapat meliputi fungsi utama, kompatibilitas, aksesibilitas, keamanan, waktu respons, dan dokumentasi. Untuk kegiatan pelatihan, kriteria dapat meliputi cakupan materi, kehadiran, pemahaman, dan ketersediaan bahan tindak lanjut.
+
+Pengujian sebaiknya direncanakan sejak awal. Pemeriksaan bertahap membantu menemukan masalah sebelum biaya perbaikannya membesar. Catat kasus uji, hasil yang diharapkan, hasil aktual, bukti, tingkat keparahan, dan status penyelesaian. Pengujian oleh pembuat sendiri berguna, tetapi masukan dari calon pengguna dapat mengungkap asumsi yang tidak disadari tim.
+
+Penerimaan hasil perlu dilakukan oleh pihak yang memiliki kewenangan dan memahami kriteria. Jika hasil diterima dengan catatan, tuliskan kekurangan, batas waktu perbaikan, dan siapa yang bertanggung jawab. Jangan menyamakan penyerahan berkas dengan keberhasilan manfaat. Hasil proyek mungkin perlu dipantau setelah digunakan untuk memastikan ia benar-benar menyelesaikan masalah.
+
+BAB PENDALAMAN: KOMUNIKASI DAN PENGELOLAAN PEMANGKU KEPENTINGAN
+
+Pihak yang berbeda membutuhkan informasi berbeda. Sponsor mungkin memerlukan ringkasan biaya, risiko, dan keputusan; anggota tim membutuhkan tugas dan ketergantungan; pengguna membutuhkan perubahan layanan dan cara memperoleh bantuan. Rencana komunikasi menentukan informasi apa yang disampaikan, kepada siapa, kapan, melalui saluran apa, dan siapa pemiliknya.
+
+Komunikasi yang baik bersifat dua arah. Laporan status harus menyebutkan kemajuan berdasarkan bukti, masalah yang belum selesai, keputusan yang diperlukan, dan dampak jika keputusan terlambat. Hindari laporan yang hanya menyatakan proyek “aman” tanpa ukuran. Ketika masalah muncul, sampaikan sedini mungkin agar pilihan perbaikan masih tersedia.
+
+PROYEK MINI: RENCANA PROYEK KEGIATAN SEKOLAH
+
+Susun rencana kegiatan sederhana dengan tujuan terukur, hasil yang diserahkan, batas ruang lingkup, daftar aktivitas, ketergantungan, jadwal, anggaran perkiraan, risiko, dan kriteria penerimaan. Buat pula format laporan mingguan singkat. Setelah simulasi, bandingkan rencana dengan hasil dan jelaskan asumsi mana yang ternyata tidak tepat. Pembelajaran utama bukan membuat jadwal tampak sempurna, melainkan membuat keputusan dapat dipahami dan diperbaiki.
+

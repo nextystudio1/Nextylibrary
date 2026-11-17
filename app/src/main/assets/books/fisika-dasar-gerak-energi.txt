@@ -19,6 +19,8 @@ BAGIAN I — DASAR PENGUKURAN DAN GERAK
 Bab 1 Besaran, Satuan, dan Dimensi
 Bab 2 Pengukuran dan Ketidakpastian
 Bab 3 Skalar, Vektor, dan Komponen
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/vektor-gerak.svg|Ilustrasi komponen vektor dan contoh grafik posisi terhadap waktu.]]
 Bab 4 Posisi, Jarak, dan Perpindahan
 Bab 5 Kelajuan dan Kecepatan
 Bab 6 Percepatan dan Gerak Lurus Beraturan

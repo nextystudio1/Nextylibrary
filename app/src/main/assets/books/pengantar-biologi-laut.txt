@@ -43,6 +43,8 @@ Organisme laut memiliki adaptasi bentuk tubuh, fisiologi, dan perilaku. Ikan mem
 
 BAB 5. JARING MAKANAN DAN KESEIMBANGAN
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/jaring-makanan-laut.svg|Contoh jaring makanan laut dan aliran energi antartingkat trofik.]]
+
 Energi mengalir melalui hubungan makan-dimakan. Produsen, konsumen, dan pengurai menjalankan peran berbeda. Perubahan jumlah satu populasi dapat memengaruhi populasi lain. Jaring makanan lebih kompleks daripada satu rantai karena organisme sering memiliki beberapa sumber makanan dan pemangsa.
 
 BAB 6. KONSERVASI LAUT

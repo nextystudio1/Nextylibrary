@@ -31,6 +31,8 @@ Nilai mutlak menyatakan jarak suatu bilangan dari nol pada garis bilangan. Karen
 Pertidaksamaan dapat memiliki banyak solusi. Himpunan solusi dapat digambarkan pada garis bilangan atau ditulis menggunakan notasi interval.
 
 BAB 5 — KOORDINAT DAN GRAFIK
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/vektor-gerak.svg|Contoh sumbu koordinat dan hubungan posisi terhadap waktu.]]
 Bidang koordinat terdiri dari sumbu mendatar x dan sumbu tegak y. Titik ditulis sebagai pasangan berurutan (x, y). Posisi titik ditentukan oleh jarak dan arah dari titik asal.
 Persamaan garis lurus sering ditulis y = mx + c. Nilai m adalah gradien atau kemiringan, sedangkan c adalah titik potong sumbu y.
 Gradien menunjukkan perubahan y dibanding perubahan x. Gradien positif berarti garis naik dari kiri ke kanan; gradien negatif berarti turun.

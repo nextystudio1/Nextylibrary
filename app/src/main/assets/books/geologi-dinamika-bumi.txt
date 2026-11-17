@@ -57,6 +57,8 @@ AKTIVITAS
 Buat garis waktu sederhana yang memuat pembentukan batuan, pengendapan lapisan, pemotongan oleh sesar, dan erosi. Urutkan peristiwa berdasarkan prinsip geologi relatif dan jelaskan alasan urutannya.
 
 BAB 4 — LEMPENG TEKTONIK DAN PEMBENTUKAN KERAK
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/tektonik-lempeng.svg|Penampang konseptual pergerakan lempeng tektonik pada batas konvergen.]]
 4.1 Litosfer dan astenosfer
 Litosfer terdiri atas kerak dan bagian paling atas mantel yang bersifat kaku dalam skala waktu geologi. Di bawahnya terdapat bagian mantel atas yang lebih mudah berubah bentuk, sering disebut astenosfer. Lempeng litosfer bergerak sebagai bagian yang relatif kaku, sementara material mantel mengalami deformasi perlahan.
 Gerakan lempeng dipengaruhi oleh beberapa proses, termasuk tarikan lempeng yang menunjam dan dorongan dari punggung tengah samudra. Penjelasan modern tidak menyederhanakan gerakan lempeng sebagai benda yang hanya mengapung di atas lautan magma.

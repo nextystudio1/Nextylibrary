@@ -19,6 +19,8 @@ Contoh: catatan jarak perjalanan berisi 2, 3, 3, 4, dan 30 kilometer. Angka 30 t
 Buat kamus data sederhana yang menjelaskan nama variabel, satuan, dan arti setiap kode. Simpan data asli agar perubahan dapat ditelusuri.
 
 BAB 3 — TABEL DAN GRAFIK
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/grafik-statistika.svg|Contoh diagram batang dan grafik garis untuk penyajian data.]]
 Tabel frekuensi menunjukkan berapa kali suatu nilai atau kategori muncul. Grafik batang cocok untuk membandingkan kategori. Grafik garis berguna untuk melihat perubahan dari waktu ke waktu. Histogram memperlihatkan sebaran data numerik yang dikelompokkan ke dalam interval.
 Judul, label sumbu, satuan, dan sumber data harus dicantumkan. Skala grafik perlu dimulai dan diatur secara jujur. Memotong sumbu dapat membuat perbedaan kecil tampak sangat besar. Jangan menggunakan gambar dekoratif yang ukuran atau luasnya menyesatkan.
 Ketika membaca grafik, tanyakan: siapa yang mengumpulkan data, kapan data dikumpulkan, berapa banyak pengamatan, dan apakah ada kelompok yang tidak tercakup?

@@ -34,6 +34,8 @@ DNA pada sel tersusun bersama protein membentuk kromosom. Sebelum pembelahan, ma
 
 BAB 3. PEWARISAN SIFAT
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/pewarisan-sifat.svg|Kotak Punnett untuk contoh persilangan sederhana Aa × Aa.]]
+
 AleI adalah variasi suatu gen pada lokasi tertentu. Kombinasi alel dapat memengaruhi sifat, tetapi hubungan genotipe dan fenotipe sering lebih kompleks daripada satu kotak persilangan. Dominansi tidak berarti alel dominan selalu lebih baik atau lebih umum di populasi.
 
 BAB 4. VARIASI DAN EVOLUSI

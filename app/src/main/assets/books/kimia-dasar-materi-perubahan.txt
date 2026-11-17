@@ -13,6 +13,8 @@ Campuran homogen memiliki komposisi seragam pada skala pengamatan, seperti larut
 Sifat fisika dapat diamati tanpa mengubah identitas kimia zat, misalnya warna, massa jenis, dan titik leleh. Sifat kimia berkaitan dengan kemampuan zat mengalami reaksi, misalnya mudah terbakar atau bereaksi dengan zat lain.
 
 BAB 2 — ATOM DAN TABEL PERIODIK
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/struktur-atom.svg|Model sederhana inti atom dan elektron; bukan lintasan sebenarnya.]]
 Atom merupakan unit dasar unsur. Atom tersusun atas inti yang mengandung proton dan neutron, serta elektron yang berada pada daerah di sekitar inti.
 Nomor atom menunjukkan jumlah proton. Pada atom netral, jumlah elektron sama dengan jumlah proton. Nomor massa merupakan jumlah proton dan neutron.
 Isotop adalah atom dari unsur yang sama dengan jumlah neutron berbeda. Karena jumlah protonnya sama, isotop memiliki nomor atom yang sama tetapi massa berbeda.

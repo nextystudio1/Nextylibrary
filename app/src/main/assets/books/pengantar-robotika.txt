@@ -285,3 +285,45 @@ LATIHAN BAB 15
 3. Apa yang perlu diamati ketika menguji interaksi manusia-robot?
 4. Mengapa antarmuka harus menjelaskan batas kemampuan sistem?
 5. Rancang tiga status sederhana untuk robot pengantar di perpustakaan.
+
+PENDALAMAN: KINEMATIKA, SENSOR, DAN KEANDALAN SISTEM
+
+BAB: KINEMATIKA DAN RUANG KERJA ROBOT
+
+Kinematika mempelajari hubungan gerak tanpa membahas penyebab gaya secara rinci. Pada robot bergerak, posisi dan orientasi dapat dinyatakan dalam kerangka koordinat. Perpindahan antara kerangka dunia, badan robot, dan sensor harus didefinisikan dengan konsisten. Kesalahan kerangka koordinat dapat membuat sistem memperkirakan posisi secara keliru.
+
+Robot berlengan memiliki sendi dan ruas yang membentuk rantai kinematik. Posisi ujung lengan bergantung pada sudut atau perpindahan sendi. Masalah kinematika maju menghitung posisi ujung dari keadaan sendi, sedangkan kinematika invers mencari keadaan sendi untuk mencapai posisi yang diinginkan. Solusi invers dapat lebih dari satu atau tidak ada, tergantung geometri dan batas mekanis.
+
+Ruang kerja adalah himpunan posisi yang dapat dicapai robot. Ruang tersebut dibatasi panjang ruas, rentang sendi, tabrakan antarkomponen, dan lingkungan. Model matematis perlu dibandingkan dengan batas fisik sebenarnya. Perancangan dan pengujian sistem bergerak harus dilakukan di lingkungan terkendali dengan pengawasan yang sesuai.
+
+BAB: SENSOR DAN FUSI INFORMASI
+
+Sensor mengubah kondisi fisik menjadi sinyal yang dapat diproses. Sensor jarak, kamera, encoder, dan unit pengukuran inersia memiliki prinsip serta keterbatasan berbeda. Setiap pembacaan memiliki noise, rentang kerja, resolusi, dan kemungkinan bias. Data sensor tidak boleh dianggap sebagai gambaran sempurna keadaan dunia.
+
+Fusi sensor menggabungkan beberapa sumber untuk memperoleh perkiraan yang lebih kuat. Namun sumber yang berbeda dapat memiliki laju pembaruan, koordinat, dan ketidakpastian berbeda. Sistem perlu menyelaraskan waktu dan kerangka koordinat, lalu menangani data hilang atau tidak konsisten. Jika keyakinan sistem rendah, status tersebut harus terlihat dan sistem sebaiknya memilih respons aman.
+
+BAB: KENDALI DAN UMPAN BALIK
+
+Sistem kendali mengatur keluaran berdasarkan tujuan dan informasi keadaan. Kendali terbuka tidak menggunakan umpan balik, sedangkan kendali tertutup membandingkan keluaran dengan nilai acuan. Umpan balik dapat mengoreksi gangguan, tetapi rancangan yang buruk dapat menghasilkan osilasi atau respons lambat.
+
+Pengendali proporsional, integral, dan derivatif merupakan keluarga metode yang sering dipelajari. Setiap komponen memiliki peran dan konsekuensi terhadap kestabilan serta respons. Penyetelan tidak boleh dilakukan pada mesin berbahaya tanpa prosedur keselamatan, pembatas gerak, dan pengawasan ahli. Simulasi merupakan cara awal untuk mempelajari konsep sebelum perangkat nyata diuji.
+
+BAB: KEANDALAN DAN KESELAMATAN ROBOT
+
+Keandalan berkaitan dengan kemampuan sistem menjalankan fungsi dalam kondisi yang ditentukan. Analisis kegagalan memeriksa komponen, perangkat lunak, sensor, komunikasi, dan interaksi pengguna. Mode aman perlu dirancang untuk kehilangan daya, sensor gagal, komunikasi terputus, atau perintah yang tidak valid.
+
+Penghentian darurat, pembatasan ruang gerak, pelindung fisik, dan prosedur pengawasan merupakan bagian dari sistem keselamatan. Fitur keselamatan harus mengikuti standar dan penilaian profesional; satu tombol atau sensor tidak menjamin seluruh risiko teratasi. Robot yang berinteraksi dengan publik harus memiliki batas operasi yang jelas dan mekanisme meminta bantuan manusia.
+
+BAB: SIMULASI DAN DOKUMENTASI
+
+Simulasi membantu memeriksa logika dan perilaku dalam skenario yang dapat diulang. Namun simulasi bergantung pada model; gesekan, kelenturan, keterlambatan, dan kondisi lingkungan mungkin tidak terwakili sempurna. Hasil simulasi harus diberi label sebagai hasil model, bukan bukti bahwa perangkat nyata pasti berperilaku sama.
+
+Dokumentasi mencakup tujuan, diagram sistem, versi perangkat lunak, konfigurasi sensor, hasil uji, keterbatasan, dan perubahan. Catatan yang baik memudahkan tim lain meninjau keputusan serta mengulang pengujian dengan aman.
+
+LATIHAN
+
+1. Apa perbedaan kinematika maju dan invers?
+2. Mengapa ruang kerja robot memiliki batas?
+3. Sebutkan sumber ketidakpastian sensor.
+4. Apa perbedaan kendali terbuka dan tertutup?
+5. Mengapa simulasi tidak menggantikan pengujian keselamatan profesional?

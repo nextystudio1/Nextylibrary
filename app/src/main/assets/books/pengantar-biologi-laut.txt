@@ -274,3 +274,53 @@ Susun profil ekosistem pesisir berdasarkan sumber ilmiah terbuka dan data yang d
 PERTANYAAN EVALUASI
 
 Mengapa zona fotik penting bagi produktivitas primer? Bagaimana arus memengaruhi penyebaran larva? Apa hubungan mangrove, lamun, dan terumbu karang? Mengapa pemutihan karang perlu dipantau berulang? Bagaimana pengasaman laut berbeda dari pencemaran setempat?
+
+BAB PENDALAMAN: PRODUKTIVITAS, JARING MAKANAN, DAN SIKLUS BIOGEOKIMIA
+
+Produktivitas primer laut terutama dilakukan organisme fotosintetik seperti fitoplankton, alga, dan tumbuhan laut. Organisme tersebut mengubah energi cahaya menjadi bahan organik yang menjadi dasar banyak jaring makanan. Produktivitas dipengaruhi cahaya, ketersediaan nutrien, suhu, pencampuran air, dan kedalaman lapisan tempat cahaya masih memadai. Laut yang tampak jernih belum tentu memiliki produktivitas tinggi, sebab kejernihan dapat berkaitan dengan rendahnya partikel dan nutrien.
+
+Nutrien seperti nitrogen, fosfor, dan besi dapat membatasi pertumbuhan organisme pada wilayah tertentu. Arus dan proses pencampuran membawa nutrien ke lapisan permukaan. Di beberapa wilayah, naiknya massa air dari kedalaman dapat mendukung produktivitas perikanan. Namun, hubungan nutrien dan produktivitas tidak selalu linear; komposisi komunitas dan kondisi fisik juga menentukan respons ekosistem.
+
+JARING MAKANAN DAN ALIRAN ENERGI
+
+Energi berpindah dari produsen ke konsumen melalui hubungan makan-dimakan. Pada setiap perpindahan, sebagian energi digunakan untuk metabolisme atau hilang sebagai panas, sehingga energi yang tersedia pada tingkat trofik berikutnya lebih kecil. Jaring makanan nyata memiliki banyak jalur, bukan rantai tunggal. Satu spesies dapat memakan beberapa jenis organisme dan menjadi mangsa bagi beberapa predator.
+
+Perubahan populasi satu spesies dapat menimbulkan dampak berantai. Penangkapan predator besar, misalnya, dapat mengubah tekanan pemangsaan terhadap organisme lain. Dampak tersebut bergantung pada struktur jaring makanan dan kondisi setempat. Karena itu, pengelolaan perikanan perlu melihat ekosistem, bukan hanya jumlah tangkapan satu spesies.
+
+SIKLUS KARBON LAUT
+
+Laut menyerap dan menyimpan karbon melalui pertukaran gas dengan atmosfer, fotosintesis, pelarutan karbon, dan perpindahan bahan organik ke kedalaman. Sebagian karbon kembali ke atmosfer melalui respirasi dan proses fisik. Perubahan konsentrasi karbon dioksida memengaruhi kimia karbonat air laut dan dapat menurunkan ketersediaan ion karbonat yang dibutuhkan sejumlah organisme untuk membentuk struktur kalsium karbonat.
+
+Pengasaman laut adalah perubahan kimia akibat penyerapan karbon dioksida, bukan berarti seluruh laut berubah menjadi asam kuat. Dampaknya berbeda menurut wilayah, suhu, sirkulasi, dan kondisi kimia awal. Organisme juga memiliki kemampuan respons yang berbeda. Pemantauan jangka panjang diperlukan untuk memisahkan variasi musiman dari tren yang lebih luas.
+
+HABITAT PESISIR DAN KONEKTIVITAS
+
+Mangrove, padang lamun, dan terumbu karang dapat saling terhubung melalui pergerakan organisme dan aliran materi. Habitat tersebut menyediakan tempat berlindung, mencari makan, dan berkembang biak bagi berbagai spesies. Konektivitas membantu menjelaskan mengapa kerusakan satu habitat dapat berdampak pada habitat lain. Namun, hubungan ekologis perlu diteliti berdasarkan lokasi dan spesies, bukan diasumsikan sama di semua pesisir.
+
+Mangrove dapat mengurangi energi gelombang dalam kondisi tertentu, menyimpan karbon, dan menyediakan habitat. Padang lamun menstabilkan sedimen dan menjadi tempat mencari makan bagi sejumlah hewan. Terumbu karang membentuk struktur kompleks yang mendukung keanekaragaman. Masing-masing memiliki kebutuhan lingkungan dan tekanan yang berbeda. Restorasi tidak cukup hanya menanam bibit; kondisi hidrologi, kualitas air, sumber propagul, dan penyebab kerusakan harus diperiksa.
+
+PERIKANAN DAN PENGELOLAAN BERBASIS EKOSISTEM
+
+Data perikanan mencakup hasil tangkapan, upaya penangkapan, ukuran organisme, musim, dan lokasi. Hasil tangkapan yang tetap tinggi belum tentu menunjukkan stok sehat jika upaya penangkapan meningkat tajam. Pengelolaan perlu mempertimbangkan data biologis, kondisi ekonomi nelayan, hak akses, dan kepatuhan terhadap aturan.
+
+Pendekatan berbasis ekosistem memperhitungkan habitat, spesies non-target, interaksi makanan, serta dampak alat tangkap. Kawasan konservasi dapat membantu melindungi habitat dan proses ekologis, tetapi desainnya harus memperhatikan konektivitas, kebutuhan masyarakat, pengawasan, dan evaluasi. Keberhasilan tidak hanya diukur dari luas kawasan yang ditetapkan.
+
+PENCEMARAN DAN SAMPAH LAUT
+
+Sampah laut dapat berasal dari daratan maupun kegiatan di laut. Plastik dapat terpecah menjadi bagian lebih kecil, tetapi proses tersebut tidak berarti material hilang dari lingkungan. Organisme dapat terpapar melalui tertelan atau terjerat. Penilaian dampak memerlukan informasi jenis material, ukuran, konsentrasi, jalur paparan, dan respons organisme.
+
+Pencegahan di sumber biasanya lebih efektif daripada hanya membersihkan pantai setelah sampah tersebar. Kebijakan pengurangan bahan sekali pakai, pengelolaan sampah, desain kemasan, dan tanggung jawab produsen dapat saling melengkapi. Program bersih pantai tetap bermanfaat untuk edukasi dan pengumpulan data, tetapi tidak menggantikan perbaikan sistem pengelolaan limbah.
+
+METODE PENGAMATAN DAN KETIDAKPASTIAN
+
+Survei laut dipengaruhi cuaca, pasang surut, arus, visibilitas, dan kemampuan alat. Pengamatan satu kali tidak cukup untuk menyimpulkan tren. Metode perlu konsisten, lokasi dicatat secara tepat, dan keterbatasan sampel dijelaskan. Data dari penginderaan jauh dapat mencakup area luas, tetapi perlu validasi lapangan karena sensor mengukur karakteristik tertentu, bukan seluruh kondisi ekosistem.
+
+LATIHAN DAN PROYEK
+
+1. Mengapa kejernihan air tidak selalu menunjukkan produktivitas primer tinggi?
+2. Bagaimana perubahan predator dapat memengaruhi jaring makanan?
+3. Jelaskan perbedaan pengasaman laut dan pencemaran lokal.
+4. Mengapa restorasi habitat harus memeriksa penyebab kerusakan terlebih dahulu?
+5. Mengapa hasil tangkapan perlu dibandingkan dengan upaya penangkapan?
+
+Proyek: susun profil satu habitat laut berdasarkan publikasi ilmiah dan data resmi. Gambarkan jaring makanan sederhana, faktor lingkungan, tekanan utama, dan indikator pemantauan. Pisahkan pengamatan langsung dari informasi pustaka serta jelaskan ketidakpastian.

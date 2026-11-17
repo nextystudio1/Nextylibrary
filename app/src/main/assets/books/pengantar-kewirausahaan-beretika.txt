@@ -219,3 +219,38 @@ LATIHAN PENDALAMAN
 3. Dengan biaya tetap Rp1.500.000, harga jual Rp15.000, dan biaya variabel Rp9.000 per unit, hitung titik impas unit serta sebutkan dua keterbatasan perhitungan.
 4. Mengapa proyeksi kas perlu dibuat terpisah dari perkiraan laba?
 5. Pilih tiga indikator usaha dan jelaskan definisi serta cara mengukurnya.
+
+BAB LANJUTAN: RISET PELANGGAN DAN PERUMUSAN MASALAH
+
+Riset pelanggan bertujuan memahami pekerjaan, kebutuhan, hambatan, dan konteks penggunaan, bukan sekadar meminta orang menyukai suatu ide. Pertanyaan terbuka seperti “Ceritakan bagaimana Anda menyelesaikan tugas ini” biasanya memberi informasi lebih kaya daripada “Apakah Anda akan membeli produk kami?” Pertanyaan yang menggiring dapat menghasilkan jawaban yang menyenangkan pewawancara tetapi tidak mencerminkan perilaku nyata.
+
+Wawancara perlu memiliki tujuan, panduan, dan batas waktu. Mintalah persetujuan sebelum mencatat atau merekam. Jangan mengumpulkan data pribadi yang tidak diperlukan. Catatan sebaiknya membedakan kutipan langsung, pengamatan, dan interpretasi peneliti. Temuan dari beberapa orang dapat membantu menemukan pola awal, tetapi tidak otomatis mewakili seluruh pasar.
+
+Peta perjalanan pelanggan menggambarkan tahapan sebelum, selama, dan sesudah menggunakan produk. Pada setiap tahap, catat tujuan pengguna, titik kontak, pertanyaan, hambatan, dan peluang perbaikan. Peta ini membantu usaha memahami pengalaman secara menyeluruh, bukan hanya transaksi pembelian.
+
+BAB LANJUTAN: MODEL BISNIS DAN EKONOMI UNIT
+
+Model bisnis menjelaskan bagaimana usaha menciptakan, menyampaikan, dan memperoleh nilai. Komponennya dapat mencakup segmen pelanggan, proposisi nilai, saluran, hubungan pelanggan, aktivitas utama, sumber daya, mitra, struktur biaya, dan sumber pendapatan. Komponen tersebut saling terkait. Perubahan saluran penjualan dapat memengaruhi biaya, kecepatan layanan, dan pengalaman pelanggan.
+
+Ekonomi unit menilai pendapatan dan biaya yang terkait dengan satu unit produk atau satu pelanggan dalam periode tertentu. Perhitungan perlu membedakan biaya tetap, biaya variabel, biaya akuisisi pelanggan, biaya layanan, pengembalian barang, dan biaya pembayaran. Margin kotor bukan laba bersih karena masih ada biaya operasional lain.
+
+Arus kas menunjukkan kapan uang benar-benar masuk dan keluar. Usaha dapat mencatat laba secara akuntansi tetapi mengalami kekurangan kas ketika pelanggan membayar terlambat atau persediaan menumpuk. Proyeksi kas membantu memperkirakan kebutuhan modal kerja. Buat beberapa skenario dan tandai asumsi yang paling berpengaruh.
+
+BAB LANJUTAN: PEMASARAN JUJUR DAN HUBUNGAN PELANGGAN
+
+Pemasaran yang bertanggung jawab menyampaikan manfaat, harga, batas produk, dan syarat transaksi secara jelas. Klaim kesehatan, lingkungan, atau kinerja perlu didukung bukti yang relevan. Testimoni tidak boleh disajikan seolah-olah hasil umum jika hanya mencerminkan pengalaman satu orang. Foto produk juga tidak boleh menimbulkan gambaran yang menyesatkan tentang ukuran atau kualitas.
+
+Harga perlu dijelaskan sebelum pelanggan berkomitmen. Biaya tambahan, syarat pengiriman, kebijakan pengembalian, dan batas layanan harus mudah ditemukan. Desain antarmuka tidak boleh menggunakan pola manipulatif yang menyulitkan pembatalan atau memaksa pelanggan menyetujui hal yang tidak diperlukan.
+
+Keluhan pelanggan dapat menjadi sumber pembelajaran. Catat kategori masalah, waktu penyelesaian, dan tindak lanjut tanpa menyebarkan informasi pribadi. Tanggapan yang baik mengakui masalah, menjelaskan langkah yang dapat dilakukan, dan tidak menjanjikan hasil yang belum pasti.
+
+PROYEK
+Rancang gagasan usaha sederhana untuk menyelesaikan kebutuhan nyata di lingkungan sekolah atau komunitas. Lakukan wawancara secara sukarela dan dengan izin, buat peta perjalanan pengguna, susun model bisnis, hitung biaya unit, dan tulis risiko sosial serta lingkungan. Presentasikan asumsi yang belum diuji dan rencana eksperimen berikutnya.
+
+LATIHAN
+1. Mengapa pertanyaan wawancara perlu menghindari arahan?
+2. Apa perbedaan margin kotor dan laba bersih?
+3. Mengapa usaha yang mencatat laba masih dapat kekurangan kas?
+4. Berikan contoh klaim pemasaran yang perlu bukti.
+5. Apa ciri desain transaksi yang menghormati pilihan pelanggan?
+

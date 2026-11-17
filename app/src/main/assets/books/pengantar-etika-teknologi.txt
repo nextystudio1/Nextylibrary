@@ -246,3 +246,32 @@ LATIHAN
 PROYEK
 Buat telaah etika untuk aplikasi pendidikan hipotetis. Petakan pihak terdampak, data yang diperlukan, risiko privasi, potensi bias, cara mengajukan keberatan, dan rencana pemulihan. Jangan menggunakan data pribadi nyata. Sajikan keputusan desain dan alasan yang dapat diperiksa.
 
+BAB LANJUTAN. TATA KELOLA DATA DAN SIKLUS HIDUP INFORMASI
+
+Tata kelola data menetapkan siapa yang boleh mengumpulkan, mengakses, mengubah, membagikan, menyimpan, dan menghapus data. Prinsip utamanya adalah tujuan yang jelas, pembatasan akses, kualitas, keamanan, dan pertanggungjawaban. Data tidak seharusnya dikumpulkan hanya karena secara teknis memungkinkan. Sebelum pengumpulan, organisasi perlu menjelaskan kebutuhan, manfaat, risiko, masa simpan, serta pilihan yang tersedia bagi orang yang datanya diproses.
+
+Siklus hidup data dimulai dari perencanaan dan pengumpulan, kemudian penyimpanan, penggunaan, pembagian, pengarsipan, hingga penghapusan. Setiap tahap memiliki risiko berbeda. Formulir dapat meminta informasi berlebihan; penyimpanan dapat memiliki izin terlalu luas; ekspor data dapat membuat salinan tak terlacak; dan arsip dapat bertahan lebih lama dari kebutuhan. Inventaris data membantu organisasi mengetahui jenis data, lokasi, pemilik, dasar penggunaan, dan jadwal peninjauan.
+
+Kualitas data juga merupakan persoalan etika. Data yang tidak lengkap atau salah dapat menghasilkan keputusan yang merugikan. Definisi kategori harus konsisten, proses koreksi harus tersedia, dan sumber data perlu dicatat. Jika data dikumpulkan untuk satu tujuan, penggunaan baru perlu dinilai kembali karena konteks dan risiko dapat berubah. Data agregat pun dapat berisiko mengungkap seseorang ketika kelompoknya sangat kecil atau digabung dengan informasi lain.
+
+Penghapusan data harus direncanakan sejak awal. Tentukan kapan data tidak lagi diperlukan, siapa yang menyetujui penghapusan, bagaimana salinan cadangan ditangani, dan bagaimana hasilnya didokumentasikan. Jika data harus dipertahankan karena kewajiban tertentu, batasi akses dan jelaskan alasannya. Retensi tanpa batas bukan strategi keamanan.
+
+LATIHAN
+1. Mengapa inventaris data diperlukan?
+2. Sebutkan risiko pada tahap ekspor dan pembagian data.
+3. Mengapa data agregat tetap dapat mengungkap identitas?
+4. Apa yang perlu ditetapkan dalam jadwal retensi?
+5. Bagaimana pengguna dapat meminta koreksi data?
+
+BAB LANJUTAN. DESAIN YANG DAPAT DIPERTANGGUNGJAWABKAN
+
+Desain teknologi yang bertanggung jawab memasukkan pertimbangan sosial sejak tahap perumusan masalah. Tim perlu bertanya apakah teknologi benar-benar dibutuhkan, siapa yang akan memperoleh manfaat, siapa yang mungkin dirugikan, dan alternatif nonteknologi apa yang tersedia. Mengotomatisasi proses yang tidak adil dapat memperluas ketidakadilan dengan lebih cepat. Karena itu, perbaikan proses dan aturan mungkin harus mendahului pengembangan perangkat lunak.
+
+Dokumentasi keputusan desain membantu pihak lain memahami alasan pemilihan data, model, ambang batas, atau fitur. Catatan dapat memuat tujuan, asumsi, kelompok yang diuji, keterbatasan, serta kondisi ketika sistem tidak layak digunakan. Dokumentasi bukan jaminan bahwa keputusan benar, tetapi membuatnya lebih mudah diperiksa dan diperbaiki.
+
+Pengawasan manusia harus memiliki kewenangan nyata. Jika petugas hanya dapat menyetujui rekomendasi otomatis tanpa waktu, informasi, atau kemampuan untuk menolaknya, pengawasan menjadi formalitas. Organisasi perlu menyediakan jalur banding, peninjauan, dan pemulihan bagi orang yang terkena dampak. Keputusan berisiko tinggi memerlukan standar pemeriksaan yang lebih kuat dan tidak boleh diserahkan begitu saja kepada keluaran sistem.
+
+Penilaian dampak sebaiknya diulang ketika tujuan, data, pengguna, atau konteks berubah. Fitur yang aman dalam uji terbatas belum tentu aman ketika digunakan pada skala besar. Umpan balik pengguna, audit independen yang sesuai, dan pelaporan insiden dapat membantu menemukan masalah yang sebelumnya tidak terlihat.
+
+PROYEK
+Pilih satu layanan digital hipotetis. Buat inventaris data, peta aliran data, aturan akses, jadwal retensi, dan mekanisme koreksi. Tambahkan daftar asumsi desain, pihak terdampak, jalur banding, dan kondisi penghentian fitur jika risiko tidak dapat dikendalikan.

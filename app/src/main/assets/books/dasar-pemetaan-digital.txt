@@ -316,3 +316,44 @@ Pemilihan metode klasifikasi dapat mengubah kesan pola. Interval sama mudah dije
 
 Sebelum peta dibagikan, lakukan pemeriksaan akhir: apakah wilayah dan periode sudah benar, apakah simbol terbaca, apakah sumber memiliki izin, apakah informasi pribadi terlindungi, dan apakah kesimpulan didukung data. Mintalah pembaca lain menguji apakah pesan utama dapat dipahami tanpa penjelasan lisan. Peta yang baik bukan yang paling ramai, melainkan yang membantu orang memahami bukti sekaligus batasnya.
 
+BAB PENDALAMAN: SISTEM KOORDINAT DAN TRANSFORMASI
+
+Peta digital menyatukan data yang memiliki lokasi, tetapi lokasi dapat dinyatakan melalui sistem koordinat yang berbeda. Sistem koordinat geografis menggunakan garis lintang dan bujur pada model bumi, sedangkan sistem proyeksi mengubah permukaan lengkung menjadi bidang datar. Setiap proyeksi memiliki distorsi tertentu pada luas, bentuk, jarak, atau arah. Tidak ada proyeksi datar yang mempertahankan seluruh sifat sekaligus untuk semua wilayah.
+
+Pemilihan sistem koordinat harus sesuai cakupan wilayah dan analisis. Pengukuran jarak atau luas memerlukan perhatian terhadap satuan dan distorsi. Dua lapisan yang tampak berdekatan belum tentu dapat dianalisis dengan benar jika sistem koordinatnya tidak sesuai. Sebelum melakukan overlay, periksa metadata, sistem referensi, resolusi, dan cakupan spasial setiap dataset.
+
+Transformasi koordinat dapat melibatkan datum dan parameter tertentu. Kesalahan pemilihan datum dapat menggeser posisi relatif data. Karena itu, dokumentasi sumber dan sistem referensi penting untuk reproduksi. Jangan hanya mengandalkan tampilan visual; periksa informasi teknis dan lakukan validasi menggunakan titik acuan yang dapat dipercaya.
+
+BAB PENDALAMAN: ANALISIS RASTER DAN VEKTOR
+
+Data vektor mewakili objek sebagai titik, garis, dan poligon. Data raster menyimpan nilai dalam sel atau piksel. Vektor cocok untuk objek dengan batas yang dapat didefinisikan, sedangkan raster sering digunakan untuk fenomena yang berubah secara kontinu seperti elevasi atau suhu permukaan. Pemilihan model data memengaruhi ukuran berkas, ketelitian, dan jenis analisis yang dapat dilakukan.
+
+Resolusi raster menentukan ukuran sel di lapangan. Resolusi yang lebih tinggi tidak selalu berarti informasi lebih akurat karena kualitas sumber, metode pengolahan, dan ketidakpastian pengukuran tetap berpengaruh. Saat menggabungkan raster, perhatikan ukuran sel, titik asal grid, metode resampling, dan sistem koordinat. Resampling dapat mengubah nilai, sehingga metode harus sesuai jenis data.
+
+Analisis overlay menggabungkan beberapa lapisan untuk menjawab pertanyaan spasial. Contohnya adalah mengidentifikasi fasilitas publik yang berada dalam jangkauan wilayah permukiman. Hasil bergantung pada definisi jangkauan, kualitas jaringan jalan, hambatan fisik, dan kelengkapan data fasilitas. Peta hasil analisis harus menyebut asumsi tersebut agar pembaca tidak menganggapnya sebagai gambaran sempurna.
+
+BAB PENDALAMAN: KUALITAS DATA DAN KETIDAKPASTIAN
+
+Kualitas data spasial mencakup ketepatan posisi, kelengkapan, konsistensi atribut, ketepatan waktu, dan kesesuaian skala. Data yang benar pada satu tahun dapat menjadi usang ketika batas wilayah, jaringan jalan, atau penggunaan lahan berubah. Metadata perlu menjelaskan tanggal, metode pengumpulan, lembaga sumber, skala, dan batas penggunaan.
+
+Ketidakpastian dapat muncul dari kesalahan pengukuran, klasifikasi, generalisasi, atau perbedaan definisi. Peta tutupan lahan hasil klasifikasi citra, misalnya, dapat keliru membedakan kelas yang secara spektral mirip. Matriks kebingungan dan sampel validasi dapat membantu menilai akurasi, tetapi sampel harus mewakili variasi wilayah dan kelas.
+
+Peta yang menunjukkan angka pasti tetap dapat menyimpan ketidakpastian. Gunakan rentang, catatan keterbatasan, atau simbol yang sesuai ketika ketelitian data tidak mendukung presisi tinggi. Hindari menampilkan banyak angka desimal yang memberi kesan akurasi palsu. Komunikasikan apa yang diketahui, apa yang diperkirakan, dan apa yang belum dapat disimpulkan.
+
+BAB PENDALAMAN: ETIKA DAN TATA KELOLA DATA SPASIAL
+
+Data lokasi dapat mengungkap tempat tinggal, kebiasaan, atau aktivitas individu. Data yang tampak anonim dapat menjadi sensitif ketika digabungkan dengan sumber lain. Sebelum memetakan lokasi rumah, sekolah, atau layanan tertentu, pertimbangkan apakah detail tersebut benar-benar diperlukan. Agregasi wilayah, pengaburan posisi, dan pembatasan akses dapat mengurangi risiko, tetapi tidak selalu menghilangkannya.
+
+Peta juga dapat memengaruhi keputusan publik. Batas administrasi, pemilihan kelas warna, dan wilayah yang tidak memiliki data dapat membentuk persepsi tentang prioritas. Daerah tanpa data tidak boleh otomatis ditafsirkan sebagai daerah tanpa masalah. Catatan metode dan proses konsultasi membantu mencegah kesimpulan yang tidak adil.
+
+Penggunaan data harus menghormati lisensi dan ketentuan sumber. Atribusi, batas redistribusi, dan tanggal akses perlu dicatat. Jika beberapa sumber digabungkan, dokumentasikan proses agar pengguna lain dapat menilai asal-usul hasil. Peta yang bertanggung jawab menjelaskan baik temuan maupun keterbatasannya.
+
+LATIHAN DAN PROYEK
+
+1. Mengapa proyeksi peta selalu memiliki distorsi?
+2. Kapan data raster lebih sesuai daripada vektor?
+3. Apa pengaruh resolusi sel terhadap analisis?
+4. Sebutkan dimensi penting kualitas data spasial.
+5. Mengapa data lokasi dapat tetap sensitif meskipun nama dihapus?
+
+Proyek: gunakan dataset spasial publik yang memiliki lisensi jelas untuk membuat peta fasilitas pendidikan atau ruang terbuka. Periksa sistem koordinat, tanggal, kelengkapan, dan atribut. Buat satu analisis sederhana, lakukan pemeriksaan kewajaran, dan tuliskan keterbatasan serta risiko privasi. Jangan memetakan identitas atau lokasi pribadi yang tidak diperlukan.

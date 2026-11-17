@@ -195,3 +195,27 @@ Pengembangan produk perlu mempertimbangkan kebutuhan kelompok berbeda, termasuk 
 
 PROYEK KAJIAN PANGAN
 Pilih satu produk pangan kemasan. Analisis komposisi, proses pengolahan yang dapat diketahui, kemasan, informasi gizi, potensi bahaya, dan petunjuk penyimpanan. Bedakan informasi pada label dari dugaan proses yang belum terverifikasi. Ajukan perbaikan yang dapat diuji dan sesuai ketentuan keamanan pangan.
+BAB LANJUTAN 1. MIKROBIOLOGI PANGAN DAN KONTAMINASI
+
+Mikroorganisme dapat berperan dalam fermentasi yang diinginkan, tetapi sebagian juga dapat menyebabkan kerusakan atau penyakit. Risiko keamanan pangan dipengaruhi jenis mikroorganisme, jumlah awal, karakteristik bahan, suhu, waktu, kelembapan, keasaman, dan cara penanganan. Tidak semua perubahan bau atau tampilan dapat menunjukkan ada atau tidaknya bahaya; pangan yang tampak normal belum tentu aman.
+
+Kontaminasi dapat terjadi dari bahan mentah, air, permukaan, peralatan, tangan, atau perpindahan silang antara bahan mentah dan pangan siap santap. Pencegahan memerlukan kebersihan, pemisahan alur, penggunaan air yang layak, pengendalian suhu dan waktu sesuai pedoman resmi, serta prosedur yang konsisten. Pengolahan tidak boleh dianggap otomatis menghilangkan seluruh bahaya jika penyimpanan setelahnya tidak terkendali.
+
+BAB LANJUTAN 2. PENGOLAHAN, PERUBAHAN MUTU, DAN PENGAWETAN
+
+Pengolahan pangan bertujuan meningkatkan keamanan, memperpanjang masa simpan, dan membentuk karakteristik produk. Pemanasan dapat menonaktifkan banyak mikroorganisme dan enzim, tetapi dampaknya bergantung pada kombinasi suhu, waktu, jenis pangan, dan proses. Pendinginan memperlambat pertumbuhan banyak mikroorganisme, tetapi tidak mensterilkan pangan. Pengeringan menurunkan ketersediaan air, sedangkan pengasaman mengubah kondisi yang dapat menghambat organisme tertentu.
+
+Setiap metode memiliki batas. Pemanasan berlebih dapat mengubah tekstur dan sebagian komponen gizi; pengeringan yang tidak merata dapat menyisakan bagian dengan kadar air lebih tinggi; kemasan yang rusak dapat mengurangi perlindungan. Karena itu, mutu harus dinilai melalui parameter yang relevan seperti kadar air, aktivitas air, pH, warna, tekstur, aroma, serta pemeriksaan keamanan yang sesuai.
+
+BAB LANJUTAN 3. SISTEM KEAMANAN PANGAN DAN KETERLACAKAN
+
+Sistem keamanan pangan mengidentifikasi bahaya pada setiap tahap, mulai penerimaan bahan, penyimpanan, persiapan, pengolahan, pengemasan, distribusi, hingga penyajian. Pendekatan berbasis bahaya menetapkan titik pengendalian, batas yang dapat diterima, pemantauan, tindakan koreksi, verifikasi, dan dokumentasi. Penerapan harus mengikuti peraturan serta pedoman resmi yang berlaku untuk jenis usaha dan produk.
+
+Keterlacakan memungkinkan bahan dan produk ditelusuri melalui pemasok, tanggal penerimaan, nomor lot, proses, dan tujuan distribusi. Jika muncul masalah, catatan yang baik membantu menentukan produk yang terdampak dan melakukan penarikan secara terarah. Label juga perlu menyampaikan informasi yang diwajibkan, termasuk komposisi, alergen, tanggal, cara penyimpanan, dan identitas produsen sesuai ketentuan setempat.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Mengapa tampilan dan aroma tidak cukup untuk memastikan keamanan pangan?
+2. Bedakan pendinginan, pengeringan, dan pengasaman sebagai metode pengawetan.
+3. Berikan contoh perpindahan silang dan cara mencegahnya.
+4. Apa fungsi keterlacakan bahan dan produk?
+5. Buat bagan alur pemeriksaan bahan pangan dari penerimaan sampai penyimpanan.

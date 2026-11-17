@@ -364,3 +364,29 @@ PROYEK MINI: AUDIT AKSES RUANG HIJAU
 
 Gunakan peta dan data publik untuk membandingkan akses ke ruang hijau pada beberapa kawasan umum. Perhatikan jarak, jalur pejalan kaki, fasilitas, kondisi teduh, dan aksesibilitas. Jangan memotret atau mencatat identitas orang tanpa izin. Tulis keterbatasan data dan usulkan perbaikan yang mempertimbangkan pemeliharaan serta kebutuhan warga.
 
+BAB LANJUTAN: KOTA, KESEHATAN LINGKUNGAN, DAN KETAHANAN KOMUNITAS
+
+Ekologi manusia mempelajari hubungan timbal balik manusia dengan lingkungan alam dan lingkungan yang dibangun. Permukiman, jalan, jaringan air, ruang terbuka, serta kegiatan ekonomi membentuk pola penggunaan energi dan sumber daya. Perubahan pada satu bagian dapat memengaruhi bagian lain. Perluasan jalan, misalnya, dapat memperbaiki akses kendaraan tetapi juga mengubah tutupan lahan, pola perjalanan, dan kualitas udara. Analisis perlu melihat hubungan lintas sektor dan rentang waktu.
+
+Kesehatan lingkungan dipengaruhi kualitas udara, air, sanitasi, kebisingan, suhu, dan kondisi tempat tinggal. Dampak tidak tersebar merata karena kelompok masyarakat memiliki tingkat paparan dan kemampuan beradaptasi yang berbeda. Anak-anak, lansia, pekerja luar ruang, dan orang dengan kebutuhan kesehatan tertentu dapat menghadapi risiko berbeda. Kajian yang baik menghindari generalisasi dan menggunakan data yang sesuai dengan pertanyaan serta perlindungan privasi.
+
+Ruang hijau dapat membantu menyediakan keteduhan, mengelola limpasan air, mendukung keanekaragaman hayati, dan memberi tempat beraktivitas. Namun, manfaatnya bergantung pada lokasi, kualitas, akses, keselamatan, dan pemeliharaan. Luas ruang hijau per wilayah tidak cukup untuk menilai siapa yang dapat menggunakannya. Jalur pejalan kaki, akses bagi pengguna kursi roda, tempat duduk, pencahayaan, dan keterhubungan dengan transportasi juga perlu diperiksa.
+
+Air perkotaan bergerak melalui sistem pasokan, penggunaan, drainase, dan pengolahan. Permukaan kedap dapat mempercepat aliran limpasan dan meningkatkan beban saluran. Pendekatan berbasis alam, seperti ruang resapan dan vegetasi yang sesuai, dapat melengkapi infrastruktur teknis. Setiap intervensi perlu mempertimbangkan kondisi tanah, pemeliharaan, keselamatan, serta kemungkinan dampak pada kawasan sekitar.
+
+Ketahanan komunitas adalah kemampuan untuk mengantisipasi, menghadapi, pulih, dan belajar dari gangguan. Ketahanan tidak berarti sebuah wilayah harus mampu mengatasi semua masalah tanpa bantuan. Jaringan sosial, layanan dasar, informasi yang dapat dipercaya, dan koordinasi lembaga berperan penting. Rencana yang hanya mengandalkan teknologi tanpa memperhatikan kemampuan warga dapat gagal ketika listrik atau komunikasi terganggu.
+
+Pemetaan partisipatif membantu menggabungkan data teknis dengan pengetahuan warga. Warga dapat menunjukkan lokasi genangan, jalur yang sulit dilalui, atau fasilitas yang penting dalam keadaan darurat. Prosesnya harus inklusif dan tidak mengumpulkan informasi sensitif yang tidak diperlukan. Peta partisipatif bukan pengganti survei teknis, tetapi dapat mengarahkan pertanyaan dan membantu memeriksa apakah data resmi mencerminkan pengalaman setempat.
+
+Perencanaan lingkungan memerlukan keadilan distribusi dan keadilan prosedural. Keadilan distribusi bertanya siapa menerima manfaat dan siapa menanggung beban. Keadilan prosedural bertanya siapa dapat ikut menentukan keputusan dan apakah prosesnya transparan. Sebuah proyek dapat memperbaiki lingkungan rata-rata tetapi tetap merugikan kelompok tertentu melalui penggusuran, kenaikan biaya, atau hilangnya akses. Dampak sosial perlu dinilai sejak tahap perencanaan.
+
+Indikator ekologi manusia dapat mencakup akses air aman, waktu perjalanan, paparan panas, kualitas udara, akses ruang hijau, dan keterjangkauan layanan. Indikator harus dipilih sesuai konteks dan disajikan bersama batas data. Rata-rata kota dapat menyembunyikan perbedaan antarkawasan. Pemetaan distribusi dan analisis menurut kelompok yang relevan dapat memberi gambaran lebih adil, dengan tetap menjaga kerahasiaan data individu.
+
+Studi kasus: sebuah lingkungan ingin mengurangi risiko panas saat musim kemarau. Tim memetakan area minim keteduhan menggunakan data publik dan observasi ruang umum. Warga diminta memberi masukan tentang jalur yang sering digunakan dan tempat yang membutuhkan tempat berteduh. Rencana menggabungkan penanaman yang sesuai, pemeliharaan, dan akses air. Evaluasi dilakukan setelah beberapa waktu dengan indikator suhu, kondisi vegetasi, dan penggunaan ruang.
+
+Latihan penerapan:
+1. Gambarkan hubungan antara tata guna lahan dan limpasan air.
+2. Buat indikator akses ruang hijau yang tidak hanya mengukur luas.
+3. Jelaskan perbedaan ketahanan dan kemampuan menghadapi satu kejadian.
+4. Susun cara melibatkan warga dengan tetap melindungi privasi.
+5. Analisis pembagian manfaat dan beban dari suatu proyek lingkungan.

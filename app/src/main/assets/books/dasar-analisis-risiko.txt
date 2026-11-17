@@ -250,3 +250,32 @@ LATIHAN PEMAHAMAN
 PROYEK
 Pilih kegiatan sekolah yang aman, misalnya pengelolaan perpustakaan atau acara kelas. Buat daftar bahaya, pihak yang terpapar, penyebab, dampak, pengendalian yang sudah ada, tindakan tambahan, penanggung jawab, dan indikator pemantauan. Minta guru meninjau hasilnya. Jangan melakukan percobaan yang menimbulkan bahaya untuk membuktikan suatu risiko.
 
+BAB LANJUTAN. KETAHANAN ORGANISASI DAN KELANGSUNGAN LAYANAN
+
+Ketahanan organisasi adalah kemampuan mempertahankan fungsi penting ketika terjadi gangguan, menyesuaikan diri, dan pulih dengan cara yang terkendali. Ketahanan bukan berarti tidak pernah mengalami kegagalan. Organisasi yang tangguh mengenali layanan yang paling penting, ketergantungan yang mendukungnya, serta pilihan ketika satu sumber daya tidak tersedia. Analisis dampak bisnis membantu menentukan proses yang harus dipulihkan lebih dahulu dan konsekuensi jika proses tersebut berhenti.
+
+Business impact analysis dimulai dengan mengidentifikasi layanan, pengguna, pemilik proses, sistem pendukung, pemasok, dan data yang diperlukan. Untuk setiap layanan, perkirakan dampak gangguan dari waktu ke waktu. Dampak dapat berupa keterlambatan layanan, kehilangan informasi, biaya tambahan, risiko keselamatan, atau hilangnya kepercayaan. Penilaian perlu melibatkan orang yang memahami proses, bukan hanya tim teknologi.
+
+Target waktu pemulihan dan titik pemulihan data merupakan dua konsep berbeda. Target waktu pemulihan menjelaskan berapa lama layanan boleh terganggu sebelum dampaknya tidak dapat diterima. Titik pemulihan data menjelaskan seberapa jauh kehilangan perubahan data yang masih dapat ditoleransi. Target harus realistis terhadap biaya, kapasitas, dan kebutuhan. Organisasi kecil mungkin tidak mampu menyediakan sistem cadangan seketika, tetapi tetap dapat menyusun prosedur komunikasi dan pemulihan bertahap.
+
+Rencana kelangsungan layanan perlu menetapkan pemicu aktivasi, wewenang keputusan, kontak, prosedur komunikasi, lokasi atau cara kerja alternatif, serta kriteria kembali ke operasi normal. Dokumen harus mudah ditemukan ketika sistem utama terganggu. Salinan kontak dan prosedur tidak boleh hanya tersimpan di sistem yang sedang mengalami gangguan. Informasi sensitif tetap perlu dilindungi.
+
+Latihan meja atau tabletop exercise dapat menguji pemahaman melalui skenario diskusi tanpa menciptakan gangguan nyata. Peserta membahas keputusan yang akan diambil, informasi yang dibutuhkan, dan hambatan koordinasi. Setelah latihan, catat kesenjangan, pemilik perbaikan, dan tenggat. Rencana yang tidak pernah diuji berisiko hanya tampak lengkap di atas kertas.
+
+BAB LANJUTAN. RISIKO PIHAK KETIGA DAN RANTAI PASOK
+
+Organisasi bergantung pada pemasok, penyedia layanan, mitra, dan platform. Ketergantungan dapat menciptakan risiko ketika penyedia mengalami gangguan, mengubah ketentuan, kehilangan kemampuan, atau tidak memenuhi standar. Penilaian pihak ketiga perlu mempertimbangkan kritikalitas layanan, akses terhadap data, lokasi pemrosesan, kemampuan pemulihan, transparansi, dan pilihan pengganti.
+
+Kontrak dapat menetapkan tingkat layanan, kewajiban keamanan, pemberitahuan insiden, hak audit yang wajar, pengelolaan subkontraktor, pengembalian data, dan proses penghentian kerja sama. Namun, dokumen kontrak tidak menggantikan pemantauan. Kinerja aktual perlu ditinjau melalui indikator, laporan, dan evaluasi berkala. Jika penyedia menjadi sangat penting, organisasi perlu memahami bagaimana berpindah layanan tanpa kehilangan kendali atas data dan proses.
+
+Pemetaan rantai pasok membantu mengenali ketergantungan berlapis. Pemasok langsung mungkin bergantung pada penyedia lain yang tidak terlihat oleh pengguna akhir. Transparansi terbatas harus dicatat sebagai ketidakpastian, bukan dianggap sebagai bukti bahwa risiko tidak ada. Alternatif pemasok, persediaan penyangga yang proporsional, standar terbuka, dan dokumentasi dapat mengurangi ketergantungan tunggal.
+
+LATIHAN
+1. Apa perbedaan target waktu pemulihan dan titik pemulihan data?
+2. Mengapa analisis dampak perlu melibatkan pemilik proses?
+3. Apa manfaat latihan meja?
+4. Sebutkan hal yang perlu dinilai dari penyedia layanan pihak ketiga.
+5. Mengapa ketergantungan pemasok berlapis perlu dipetakan?
+
+PROYEK
+Buat rencana kelangsungan layanan untuk katalog perpustakaan sekolah. Tentukan layanan kritis, dampak gangguan, prioritas pemulihan, kontak peran, komunikasi pengguna, dan cara memeriksa integritas data setelah pulih. Uji rencana melalui simulasi diskusi bersama guru atau pengelola, tanpa sengaja mengganggu sistem nyata.

@@ -194,3 +194,53 @@ LATIHAN PENDALAMAN
 3. Bagaimana enzim memengaruhi laju reaksi?
 4. Mengapa model kinetika perlu dibaca bersama asumsi?
 5. Sebutkan faktor yang memengaruhi interpretasi hasil metabolit.
+BAB 22. LIPATAN PROTEIN, STABILITAS, DAN KUALITAS STRUKTUR
+
+Protein merupakan rantai asam amino yang dapat membentuk struktur tiga dimensi. Urutan asam amino memengaruhi interaksi antarbagiannya, tetapi lingkungan seperti suhu, pH, kekuatan ion, dan keberadaan molekul lain juga berpengaruh. Struktur primer merujuk pada urutan asam amino; struktur sekunder mencakup pola lokal seperti heliks dan lembaran; struktur tersier menggambarkan susunan tiga dimensi satu rantai; sedangkan struktur kuartener terbentuk ketika beberapa subunit berasosiasi.
+
+Pelipatan bukan proses sederhana yang selalu menghasilkan satu bentuk kaku. Banyak protein memiliki bagian yang lentur dan dapat berubah ketika berinteraksi dengan molekul lain. Perubahan bentuk dapat mengatur aktivitas, pengenalan molekul, atau lokasi kerja protein. Karena itu, hubungan struktur dan fungsi perlu dijelaskan berdasarkan bukti, bukan hanya membandingkan gambar bentuk molekul.
+
+Denaturasi adalah perubahan struktur tingkat tinggi yang dapat mengganggu fungsi protein. Panas, perubahan pH ekstrem, atau bahan tertentu dapat menyebabkan perubahan tersebut. Denaturasi tidak selalu memutus ikatan peptida pada rantai utama; yang sering terganggu adalah interaksi yang mempertahankan bentuk tiga dimensi. Beberapa protein dapat melipat kembali dalam kondisi tertentu, sedangkan yang lain mengalami agregasi atau kerusakan yang tidak mudah dipulihkan.
+
+Protein pendamping atau chaperone membantu proses pelipatan dan mengurangi agregasi pada sel. Sistem sel juga memiliki mekanisme untuk mengenali protein yang rusak dan mengarahkannya untuk diperbaiki atau diuraikan. Gangguan kualitas protein dapat memengaruhi fungsi sel, tetapi hubungan dengan penyakit bersifat kompleks dan memerlukan penelitian khusus.
+
+LATIHAN BAB 22
+1. Bedakan struktur primer, sekunder, tersier, dan kuartener.
+2. Mengapa perubahan pH dapat memengaruhi bentuk protein?
+3. Apa perbedaan denaturasi dan pemutusan rantai polipeptida?
+4. Jelaskan peran umum protein chaperone.
+5. Mengapa gambar struktur protein perlu ditafsirkan bersama informasi eksperimen?
+
+BAB 23. LIPID SEBAGAI MOLEKUL STRUKTURAL DAN PENGATUR
+
+Lipid merupakan kelompok molekul yang beragam, bukan satu zat dengan sifat tunggal. Trigliserida terutama berperan dalam penyimpanan energi, fosfolipid menjadi komponen utama membran, sedangkan sejumlah lipid lain berperan dalam sinyal dan pengaturan. Perbedaan struktur kimia menyebabkan perbedaan kelarutan, bentuk, dan interaksi dengan protein maupun air.
+
+Asam lemak dapat memiliki rantai jenuh atau tak jenuh. Ikatan rangkap pada asam lemak tak jenuh dapat memengaruhi bentuk rantai dan susunan molekul. Komposisi lipid membran berpengaruh terhadap sifat fisik membran, termasuk kelenturan dan permeabilitas. Pengaruhnya tidak berdiri sendiri karena kolesterol, protein membran, suhu, dan jenis sel juga ikut menentukan sifat membran.
+
+Lipoprotein membantu mengangkut lipid dalam lingkungan berair. Partikel ini memiliki susunan komponen yang memungkinkan lipid dibawa melalui cairan tubuh. Istilah dan fungsi tiap kelas lipoprotein perlu dipahami dalam konteks transportasi, bukan disederhanakan menjadi label baik atau buruk tanpa penjelasan. Penilaian kesehatan seseorang tidak dapat dilakukan hanya dari satu istilah atau angka tanpa konteks pemeriksaan dan penilaian tenaga kesehatan.
+
+Sebagian lipid bertindak sebagai molekul sinyal. Molekul turunan lipid dapat memengaruhi respons sel, komunikasi antarsel, dan pengaturan proses biologis. Sinyal memiliki durasi dan jangkauan yang berbeda; ada yang bekerja dekat lokasi pembentukan dan ada yang memengaruhi jaringan lain. Respons sel juga dipengaruhi jumlah reseptor, keadaan sel, serta sinyal lain yang diterima bersamaan.
+
+LATIHAN BAB 23
+1. Sebutkan tiga fungsi lipid yang berbeda.
+2. Bagaimana ikatan rangkap dapat memengaruhi susunan asam lemak?
+3. Mengapa komposisi lipid memengaruhi sifat membran?
+4. Apa fungsi umum lipoprotein?
+5. Mengapa hasil pemeriksaan lipid harus ditafsirkan dalam konteks klinis?
+
+BAB 24. BIOENERGETIKA MITOKONDRIA DAN KOPLING REAKSI
+
+Mitokondria merupakan organel penting dalam produksi energi pada banyak sel eukariotik. Membran dalam mitokondria membentuk kompartemen yang memungkinkan terbentuknya gradien proton. Rantai transpor elektron memindahkan elektron melalui kompleks protein dan pembawa elektron. Energi dari proses ini digunakan untuk memindahkan proton melintasi membran dalam, sehingga terbentuk perbedaan konsentrasi dan muatan.
+
+ATP sintase memanfaatkan aliran proton untuk mendukung pembentukan ATP dari ADP dan fosfat. Proses ini disebut kemiosmosis. Hubungan antara rantai transpor elektron, gradien proton, dan ATP sintase dikenal sebagai fosforilasi oksidatif. Oksigen menjadi penerima elektron akhir pada respirasi aerob, lalu bergabung dengan proton membentuk air. Jika aliran elektron atau gradien terganggu, produksi ATP dapat berubah.
+
+Tidak semua energi dari nutrien langsung menjadi ATP. Sebagian energi dilepas sebagai panas dan sebagian tersimpan sementara dalam pembawa elektron atau gradien elektrokimia. Efisiensi biologis dipengaruhi kondisi sel, jenis jaringan, ketersediaan substrat, dan kebutuhan energi. Karena itu, angka hasil ATP yang disajikan dalam buku pengantar merupakan pendekatan, bukan nilai tetap untuk setiap keadaan.
+
+Mitokondria juga terlibat dalam proses selain produksi ATP, termasuk pengaturan metabolit dan respons sel terhadap kondisi tertentu. Organel ini memiliki materi genetik sendiri dan berinteraksi erat dengan inti sel. Fungsi mitokondria dipengaruhi pembentukan, pembelahan, penggabungan, serta mekanisme pemeliharaan. Penjelasan yang hanya menyebut mitokondria sebagai “pembangkit energi” berguna sebagai pengantar, tetapi belum menggambarkan seluruh perannya.
+
+LATIHAN BAB 24
+1. Di bagian mana gradien proton dibentuk pada mitokondria?
+2. Apa peran ATP sintase?
+3. Mengapa oksigen penting dalam respirasi aerob?
+4. Mengapa hasil ATP tidak selalu merupakan angka yang sama pada setiap kondisi?
+5. Sebutkan satu fungsi mitokondria selain produksi ATP.

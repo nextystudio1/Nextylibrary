@@ -256,3 +256,42 @@ LATIHAN DAN PEMBAHASAN
 
 PROYEK MINI
 Amati secara etis dua contoh teks publik, misalnya pengumuman sekolah dan artikel berita. Bandingkan pilihan kata, tingkat formalitas, struktur informasi, dan pembaca yang dituju. Jangan mengumpulkan percakapan pribadi tanpa izin. Tuliskan bagaimana konteks memengaruhi bentuk bahasa dan apa yang tidak dapat disimpulkan hanya dari dua contoh.
+
+BAB LANJUTAN: MAKNA, KONTEKS, DAN WACANA
+
+Semantik mempelajari makna yang dikodekan oleh unsur bahasa, sedangkan pragmatik mengkaji bagaimana konteks memengaruhi penafsiran. Kalimat yang sama dapat memiliki maksud berbeda ketika diucapkan dalam situasi berbeda. Ungkapan “ruangannya terang sekali” dapat menjadi deskripsi pencahayaan, tetapi dalam konteks tertentu dapat berfungsi sebagai sindiran tentang lampu yang belum dimatikan. Penafsiran memerlukan hubungan antara bentuk bahasa, pengetahuan bersama, dan situasi komunikasi.
+
+Makna leksikal berkaitan dengan makna kata, sedangkan makna gramatikal muncul dari susunan dan penanda tata bahasa. Perubahan urutan kata, afiks, atau intonasi dapat mengubah fokus dan hubungan antarunsur. Analisis bahasa perlu memperhatikan bahwa makna tidak selalu dapat dijumlahkan dari arti kata secara terpisah; konstruksi dan konteks ikut membentuk pemahaman.
+
+Ambiguitas terjadi ketika satu bentuk memungkinkan lebih dari satu penafsiran. Ambiguitas leksikal muncul ketika sebuah kata memiliki beberapa makna, sementara ambiguitas struktural muncul ketika susunan kalimat dapat dikelompokkan dengan cara berbeda. Dalam komunikasi formal, penulis dapat mengurangi ambiguitas melalui pemilihan istilah, tanda baca, dan penyusunan ulang kalimat.
+
+Implikatur adalah makna yang disimpulkan pendengar meskipun tidak dinyatakan secara langsung. Jika seseorang bertanya apakah rapat dimulai tepat waktu dan dijawab “pesertanya sudah datang”, pendengar mungkin menyimpulkan bahwa rapat belum dimulai. Kesimpulan itu bergantung pada konteks dan dapat dibatalkan oleh informasi tambahan. Karena itu, implikatur tidak sama dengan makna literal.
+
+ANALISIS PERCAKAPAN DAN KESANTUNAN
+
+Percakapan memiliki struktur giliran bicara. Peserta dapat mengambil giliran, memberi respons, memperbaiki kesalahpahaman, atau menandai bahwa topik akan berubah. Jeda, tumpang tindih, dan intonasi dapat memiliki fungsi interaksional. Peneliti perlu menggunakan rekaman dan transkripsi secara etis serta menjelaskan konvensi transkripsi yang dipakai.
+
+Tindak tutur menjelaskan tindakan yang dilakukan melalui ujaran, seperti meminta, berjanji, menyarankan, atau menyatakan. Bentuk gramatikal tidak selalu menentukan fungsi. Kalimat tanya dapat menjadi permintaan tidak langsung, misalnya ketika seseorang bertanya apakah jendela dapat ditutup. Hubungan sosial, tingkat formalitas, dan situasi menentukan apakah bentuk tersebut terasa wajar atau justru tidak jelas.
+
+Kesantunan bukan daftar ungkapan yang berlaku sama di semua budaya. Norma sapaan, jarak sosial, hierarki, dan strategi menjaga hubungan berbeda antarkomunitas. Analisis linguistik sebaiknya menghindari penilaian bahwa satu gaya komunikasi lebih sopan secara universal. Peneliti perlu memahami norma lokal dan memberi ruang bagi anggota komunitas menjelaskan makna praktik bahasa mereka sendiri.
+
+VARIASI, IDENTITAS, DAN PERUBAHAN BAHASA
+
+Variasi bahasa dapat berkaitan dengan wilayah, usia, pekerjaan, jaringan sosial, situasi, dan identitas. Seseorang mungkin menggunakan ragam berbeda ketika berbicara dengan keluarga, menulis laporan, atau berkomunikasi di ruang digital. Perpindahan ragam merupakan keterampilan menyesuaikan bahasa dengan tujuan dan pembaca, bukan bukti bahwa satu ragam lebih bernilai daripada yang lain.
+
+Perubahan bahasa berlangsung melalui kontak antarkelompok, inovasi, perubahan makna, dan transmisi antargenerasi. Kata pinjaman dapat mengalami penyesuaian bunyi atau bentuk. Perubahan tidak selalu berlangsung seragam; kelompok berbeda dapat mempertahankan atau mengembangkan bentuk yang berbeda. Dokumentasi yang baik mencatat waktu, tempat, konteks, dan variasi penutur tanpa menganggap satu bentuk sebagai satu-satunya bentuk yang sah.
+
+Bahasa dalam ruang digital memperlihatkan perpaduan tulisan, gambar, emoji, tautan, dan tata letak. Pengguna dapat memendekkan kata, memakai tanda baca ekspresif, atau menggabungkan beberapa bahasa. Analisis perlu mempertimbangkan platform dan tujuan komunikasi. Bentuk ringkas dalam percakapan cepat tidak dapat langsung dinilai menggunakan standar tulisan akademik.
+
+METODE PENGAMATAN YANG BERTANGGUNG JAWAB
+
+Penelitian bahasa melibatkan manusia dan komunitas. Persetujuan, privasi, hak untuk menarik diri, dan kendali komunitas atas dokumentasi perlu diperhatikan. Materi dari ruang digital yang dapat dilihat publik tidak otomatis bebas dari pertimbangan etis. Kutipan dapat membuat penutur mudah ditemukan kembali, sehingga peneliti perlu menilai risiko identifikasi.
+
+Transkripsi bukan salinan netral dari percakapan. Peneliti memilih apakah jeda, pengulangan, tawa, atau intonasi dicatat. Keputusan tersebut harus sesuai pertanyaan penelitian dan dijelaskan agar pembaca memahami batas data. Terjemahan juga dapat menghilangkan permainan kata, tingkat kesopanan, atau perbedaan bentuk gramatikal; catatan penerjemah membantu menjaga konteks.
+
+LATIHAN BAB
+1. Bedakan semantik dan pragmatik dengan contoh.
+2. Apa perbedaan ambiguitas leksikal dan struktural?
+3. Jelaskan fungsi perbaikan dalam percakapan.
+4. Mengapa variasi bahasa tidak tepat dinilai dengan satu standar tunggal?
+5. Sebutkan tiga pertimbangan etis dalam dokumentasi bahasa.

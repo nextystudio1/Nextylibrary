@@ -296,3 +296,55 @@ Susun rancangan penelitian berbasis dokumen publik atau skenario hipotetis. Tent
 PERTANYAAN
 
 Apa perbedaan validitas dan reliabilitas? Bagaimana pertanyaan menggiring memengaruhi survei? Mengapa kasus yang berbeda penting dalam analisis kualitatif? Apa yang membuat persetujuan peserta bermakna? Mengapa hasil observasional perlu ditafsirkan hati-hati?
+
+BAB: MENYUSUN TINJAUAN PUSTAKA YANG TERARAH
+
+Tinjauan pustaka bukan kumpulan ringkasan sumber yang ditempel berurutan. Bagian ini menyusun pengetahuan yang sudah tersedia untuk menunjukkan konsep utama, temuan yang konsisten, perbedaan hasil, dan celah yang masih perlu diteliti. Mulailah dari pertanyaan penelitian, kemudian tentukan istilah pencarian dan batas topik. Batas yang jelas mencegah pencarian melebar tanpa tujuan.
+
+Saat membaca sumber, catat pertanyaan, metode, konteks, sampel atau bahan, hasil, dan keterbatasannya. Dua penelitian yang tampak bertentangan mungkin menggunakan definisi atau populasi berbeda. Periksa apakah perbedaan tersebut dapat menjelaskan variasi hasil. Jangan hanya memilih sumber yang mendukung dugaan awal. Bukti yang tidak sejalan justru dapat membantu memperbaiki pertanyaan.
+
+Kelola catatan bibliografi sejak awal. Simpan informasi penulis, judul, tahun, penerbit atau jurnal, serta identitas publikasi yang tersedia. Tandai kutipan langsung dengan jelas agar tidak tercampur dengan parafrasa. Ketika menulis, gunakan kata-kata sendiri untuk menjelaskan gagasan dan tetap cantumkan sumber. Mengubah beberapa kata dari kalimat sumber tanpa atribusi bukan parafrasa yang memadai.
+
+BAB: OPERASIONALISASI KONSEP DAN INSTRUMEN
+
+Konsep penelitian sering bersifat abstrak, seperti kepercayaan, motivasi, kualitas layanan, atau partisipasi. Operasionalisasi menjelaskan bagaimana konsep tersebut dikenali atau diukur dalam penelitian tertentu. Satu konsep dapat memiliki beberapa dimensi. Misalnya, kualitas layanan dapat mencakup ketepatan, kemudahan akses, kejelasan informasi, dan konsistensi. Pemilihan dimensi harus memiliki alasan teoretis dan sesuai pertanyaan.
+
+Instrumen adalah alat untuk memperoleh data, misalnya pedoman wawancara, lembar observasi, atau kuesioner. Setiap butir perlu berhubungan dengan konsep yang hendak dipelajari. Pertanyaan ganda yang menanyakan dua hal sekaligus menyulitkan interpretasi. Istilah ambigu juga dapat membuat responden memahami pertanyaan secara berbeda.
+
+Uji coba instrumen membantu menemukan kalimat yang membingungkan, urutan yang tidak nyaman, dan pilihan jawaban yang belum mencakup pengalaman responden. Uji coba tidak otomatis membuktikan validitas. Peneliti tetap perlu menilai apakah instrumen benar-benar mewakili konsep, konsisten, dan sesuai konteks. Jika instrumen diadaptasi dari sumber lain, periksa izin penggunaan dan kesesuaian bahasa.
+
+BAB: SAMPLING DAN BATAS GENERALISASI
+
+Populasi adalah keseluruhan unit yang menjadi sasaran kesimpulan, sedangkan sampel adalah bagian yang diamati. Kerangka sampel menjelaskan daftar atau mekanisme yang digunakan untuk memilih unit. Jika sebagian kelompok tidak tercakup, hasil mungkin tidak mewakili populasi yang dimaksud. Karena itu, cara memilih sampel perlu dijelaskan secara transparan.
+
+Sampel acak memberi peluang pemilihan berdasarkan prosedur probabilitas, sedangkan sampel nonacak menggunakan pertimbangan atau kemudahan tertentu. Keduanya dapat berguna untuk tujuan berbeda, tetapi batas kesimpulannya tidak sama. Sampel yang besar tidak otomatis menghilangkan bias seleksi. Kualitas kerangka, tingkat respons, dan cara pengukuran juga memengaruhi hasil.
+
+Dalam penelitian kualitatif, pemilihan partisipan sering diarahkan pada kedalaman pengalaman dan relevansi kasus, bukan representasi statistik. Peneliti dapat mencari variasi pengalaman atau kasus yang membantu memahami proses. Jelaskan alasan pemilihan dan konteksnya. Jangan mengklaim bahwa temuan dari beberapa kasus berlaku untuk semua orang tanpa dasar.
+
+BAB: MANAJEMEN DATA DAN KETERULANGAN
+
+Rencana pengelolaan data menjelaskan format berkas, penamaan, dokumentasi variabel, kontrol akses, pencadangan, dan masa penyimpanan. Data mentah sebaiknya dipisahkan dari data yang sudah dibersihkan atau diolah. Simpan catatan setiap perubahan sehingga hasil dapat ditelusuri. Jangan menimpa data asli tanpa salinan yang aman.
+
+Buku kode atau codebook menjelaskan nama variabel, definisi, satuan, kategori, dan aturan nilai yang hilang. Tanpa dokumentasi, angka yang sama dapat ditafsirkan berbeda oleh anggota tim. Untuk data kualitatif, catat cara transkripsi, proses pengodean, dan perubahan kategori analisis. Dokumentasi bukan pekerjaan administratif belaka; ia bagian dari mutu penelitian.
+
+Keterulangan berarti orang lain dapat memahami bagaimana penelitian dilakukan dan menilai prosesnya. Tidak semua data dapat dibagikan, terutama jika mengandung informasi pribadi atau dibatasi persetujuan. Dalam keadaan tersebut, peneliti dapat membagikan protokol, instrumen, kode analisis, atau data agregat yang aman. Transparansi harus diseimbangkan dengan perlindungan peserta.
+
+BAB: MENULIS LAPORAN PENELITIAN
+
+Laporan yang jelas memisahkan pertanyaan, metode, hasil, dan interpretasi. Bagian metode harus cukup rinci agar pembaca memahami bagaimana data diperoleh. Bagian hasil menyajikan temuan tanpa menyembunyikan hasil yang tidak sesuai dugaan. Bagian pembahasan menghubungkan temuan dengan pertanyaan dan pustaka, serta menawarkan penjelasan yang tidak melampaui bukti.
+
+Tabel dan gambar perlu memiliki judul, satuan, keterangan, dan sumber jika menggunakan data pihak lain. Hindari menyajikan angka yang sama berulang kali dalam teks, tabel, dan gambar tanpa alasan. Pilih bentuk yang memudahkan pembaca membandingkan informasi. Pastikan skala dan kategori tidak menyesatkan.
+
+Kesimpulan menjawab pertanyaan penelitian secara ringkas. Rekomendasi harus sejalan dengan temuan dan mempertimbangkan keterbatasan. Jika penelitian hanya dilakukan pada satu konteks, nyatakan konteks tersebut. Saran penelitian lanjutan sebaiknya spesifik, misalnya memperluas variasi lokasi atau memperbaiki instrumen, bukan sekadar menyatakan bahwa penelitian lebih lanjut diperlukan.
+
+PROYEK
+
+Buat proposal mini menggunakan topik hipotetis atau sumber data publik. Susun tinjauan pustaka tematik, definisi operasional, strategi sampling, rancangan instrumen, rencana pengelolaan data, pertimbangan etis, serta struktur laporan. Beri tanda pada setiap asumsi yang belum memiliki bukti. Mintalah pembimbing menilai apakah metode benar-benar dapat menjawab pertanyaan.
+
+LATIHAN
+
+1. Apa perbedaan ringkasan sumber dan sintesis pustaka?
+2. Mengapa konsep abstrak perlu dioperasionalkan?
+3. Mengapa sampel besar belum tentu bebas bias?
+4. Apa fungsi codebook dalam pengelolaan data?
+5. Bagaimana transparansi dapat dijaga tanpa membuka data pribadi?

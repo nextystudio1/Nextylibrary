@@ -248,3 +248,48 @@ LATIHAN ANALISIS
 3. Buat tiga kelompok sosial yang perlu diperhatikan dalam kebijakan transisi energi.
 4. Bedakan indikator intensitas dan indikator absolut dengan contoh.
 5. Susun rancangan evaluasi program efisiensi yang membandingkan kondisi sebelum dan sesudah secara adil.
+
+BAB LANJUTAN: PENILAIAN EKONOMI SUMBER DAYA ALAM
+
+Sumber daya alam menyediakan bahan, energi, jasa ekosistem, dan kondisi yang menopang kehidupan. Sebagian sumber daya dapat pulih jika laju pemanfaatan tidak melampaui kemampuan regenerasi, sedangkan sumber daya lain terbentuk dalam rentang waktu geologis. Klasifikasi ini tidak berarti sumber daya terbarukan tidak terbatas. Hutan, perikanan, dan air tanah tetap dapat mengalami penurunan ketika tekanan melebihi kapasitas pemulihan.
+
+Biaya penggunaan sumber daya sering tidak tercermin sepenuhnya dalam harga pasar. Pengambilan air tanah oleh satu pengguna dapat menurunkan ketersediaan bagi pengguna lain. Penebangan di daerah hulu dapat meningkatkan risiko sedimentasi dan banjir di hilir. Eksternalitas muncul ketika sebagian biaya atau manfaat ditanggung pihak yang tidak terlibat langsung dalam transaksi. Kebijakan perlu mengidentifikasi siapa yang memperoleh manfaat dan siapa yang menanggung dampak.
+
+Hak kepemilikan dan aturan akses memengaruhi insentif pengelolaan. Sumber daya milik bersama dapat dikelola secara berkelanjutan ketika terdapat aturan yang dipahami, pemantauan, mekanisme penyelesaian konflik, dan partisipasi pengguna. Masalah tidak selalu diselesaikan dengan privatisasi; desain kelembagaan lokal dapat memainkan peran penting. Analisis perlu memahami praktik dan kondisi setempat sebelum menyarankan perubahan.
+
+NILAI EKOSISTEM DAN BATAS MONETER
+
+Jasa ekosistem dapat mencakup penyediaan pangan dan air, pengaturan banjir dan iklim, pembentukan tanah, penyerbukan, serta nilai budaya. Sebagian manfaat dapat dinilai melalui biaya pengganti atau perubahan produktivitas, sementara manfaat lain sulit diukur dengan uang. Penilaian moneter dapat membantu membandingkan alternatif, tetapi tidak menangkap seluruh nilai ekologis, sosial, dan budaya.
+
+Metode biaya perjalanan memperkirakan nilai rekreasi berdasarkan pengeluaran dan waktu yang digunakan pengunjung. Metode harga hedonik mengamati bagaimana karakteristik lingkungan tercermin dalam harga aset, sedangkan metode penilaian kontingen menggunakan pertanyaan tentang kesediaan membayar atau menerima kompensasi. Setiap metode memiliki asumsi, bias, dan batas. Hasilnya tidak boleh diperlakukan sebagai harga mutlak alam.
+
+Analisis biaya-manfaat membandingkan manfaat dan biaya sepanjang periode tertentu. Pemilihan tingkat diskonto memengaruhi bobot manfaat masa depan. Tingkat diskonto tinggi dapat membuat kerusakan jangka panjang tampak kurang penting dalam perhitungan saat ini. Karena keputusan lingkungan dapat berdampak lintas generasi, asumsi diskonto perlu dijelaskan dan diuji melalui beberapa skenario.
+
+KEBIJAKAN PENGELOLAAN DAN DISTRIBUSI DAMPAK
+
+Pajak atau pungutan pencemaran dapat memberi sinyal ekonomi agar pelaku mengurangi emisi. Namun desainnya membutuhkan pengukuran, pelaporan, dan penegakan yang memadai. Jika biaya dialihkan ke konsumen, dampaknya terhadap rumah tangga berpendapatan rendah perlu diperhatikan. Penggunaan penerimaan dapat diarahkan untuk perlindungan kelompok terdampak, peningkatan layanan publik, atau dukungan transisi.
+
+Perizinan dan batas kuantitas dapat digunakan ketika kapasitas lingkungan perlu dijaga. Sistem kuota memerlukan data dasar, pemantauan, dan aturan alokasi yang adil. Jika hak pemanfaatan diberikan tanpa memperhatikan masyarakat lokal, kebijakan dapat memperbesar ketimpangan. Transparansi penerima izin dan mekanisme pengaduan membantu mengurangi konflik kepentingan.
+
+Subsidi yang mendorong penggunaan bahan bakar atau sumber daya secara berlebihan dapat memperburuk tekanan lingkungan. Reformasi subsidi perlu dilakukan dengan mempertimbangkan ketergantungan masyarakat, akses alternatif, dan kesiapan layanan. Perubahan mendadak tanpa perlindungan dapat menimbulkan beban sosial. Kebijakan transisi memerlukan komunikasi, tahapan, dan evaluasi.
+
+EKONOMI SIRKULAR DAN RANTAI PASOK
+
+Ekonomi sirkular berupaya mempertahankan nilai produk dan material melalui desain tahan lama, perbaikan, penggunaan ulang, pemakaian kembali komponen, dan daur ulang. Strategi terbaik bergantung pada material dan fungsi. Daur ulang bukan selalu pilihan pertama jika memperpanjang umur produk atau mengurangi kebutuhan material baru memberi manfaat lebih besar.
+
+Rantai pasok global dapat memindahkan dampak lingkungan ke wilayah produksi. Konsumen mungkin melihat harga rendah tanpa mengetahui penggunaan air, energi, bahan kimia, atau kondisi kerja pada tahap hulu. Analisis siklus hidup menilai dampak dari ekstraksi bahan baku hingga akhir masa pakai, tetapi hasilnya bergantung pada batas sistem, kualitas data, dan kategori dampak yang dipilih.
+
+Pengadaan berkelanjutan dapat memasukkan persyaratan efisiensi, ketahanan, perbaikan, asal bahan, dan pengelolaan akhir masa pakai. Persyaratan harus dapat diverifikasi agar tidak berubah menjadi klaim pemasaran. Organisasi dapat meminta bukti, melakukan audit yang proporsional, dan menilai kinerja pemasok secara berkala.
+
+STUDI KASUS: PENGELOLAAN DAERAH ALIRAN SUNGAI
+
+Sebuah daerah aliran sungai menghadapi sedimentasi dan penurunan kualitas air. Pemerintah memetakan perubahan tutupan lahan, kegiatan pertanian, permukiman, serta lokasi pengambilan air. Analisis ekonomi menilai biaya pengolahan air, kerugian kegiatan perikanan, manfaat pertanian, dan biaya pemulihan. Warga hulu dan hilir dilibatkan karena keputusan di satu lokasi dapat memengaruhi pihak lain.
+
+Alternatif mencakup pemulihan vegetasi sempadan, praktik pertanian yang mengurangi erosi, pengolahan limbah, dan pemantauan kualitas air. Pembiayaan dirancang agar manfaat dan biaya tidak dibebankan hanya kepada kelompok yang memiliki daya tawar kecil. Indikator mencakup kualitas air, sedimentasi, kondisi habitat, biaya pengolahan, serta distribusi manfaat.
+
+LATIHAN BAB
+1. Mengapa sumber daya terbarukan tetap dapat habis atau rusak?
+2. Jelaskan contoh eksternalitas pada pengambilan air tanah.
+3. Apa keterbatasan penilaian jasa ekosistem dengan uang?
+4. Mengapa reformasi subsidi memerlukan perlindungan sosial?
+5. Susun indikator ekonomi dan lingkungan untuk pengelolaan sungai.

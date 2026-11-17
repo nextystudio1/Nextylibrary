@@ -344,3 +344,29 @@ LATIHAN PENDALAMAN
 4. Jelaskan mengapa larutan penyangga memiliki kapasitas terbatas.
 5. Bedakan titik ekuivalen dan titik akhir dalam titrasi.
 
+BAB LANJUTAN: KESETIMBANGAN, KELARUTAN, DAN ANALISIS LARUTAN
+
+Kesetimbangan kimia terjadi ketika laju reaksi maju dan balik sama, sehingga komposisi makroskopis tampak tetap. Keadaan ini bersifat dinamis, bukan berarti reaksi berhenti. Untuk reaksi umum, hubungan konsentrasi pada kesetimbangan dinyatakan melalui tetapan kesetimbangan dengan pangkat yang mengikuti koefisien reaksi. Nilai tetapan memberi gambaran posisi kesetimbangan pada suhu tertentu, tetapi tidak langsung menyatakan seberapa cepat sistem mencapai keadaan tersebut.
+
+Perubahan konsentrasi, tekanan pada sistem gas, atau suhu dapat menggeser komposisi kesetimbangan. Prinsip Le Chatelier membantu memperkirakan arah perubahan ketika sistem mengalami gangguan. Katalis mempercepat tercapainya kesetimbangan tanpa mengubah posisi kesetimbangan itu sendiri. Pembedaan antara laju dan posisi kesetimbangan penting karena keduanya menjawab pertanyaan berbeda. Dalam analisis, tuliskan persamaan reaksi setara terlebih dahulu sebelum membahas pengaruh perubahan kondisi.
+
+Kelarutan menjelaskan jumlah maksimum zat yang dapat berada dalam larutan pada kondisi tertentu. Nilainya dipengaruhi suhu, jenis pelarut, dan sifat zat. Untuk garam yang sedikit larut, hasil kali kelarutan menggambarkan hubungan konsentrasi ion pada keadaan jenuh. Perbandingan hasil kali ion dengan tetapan kelarutan dapat membantu memperkirakan apakah pengendapan mungkin terjadi. Perhitungan harus memperhatikan stoikiometri disosiasi dan satuan konsentrasi.
+
+Efek ion senama dapat menurunkan kelarutan garam tertentu karena salah satu ion sudah terdapat dalam larutan. Namun, sistem nyata dapat dipengaruhi pembentukan kompleks, perubahan pH, dan aktivitas ion. Pada larutan yang tidak sangat encer, konsentrasi tidak selalu sama dengan aktivitas termodinamika. Untuk pembelajaran dasar, pendekatan konsentrasi dapat digunakan dengan menyatakan asumsi dan batas berlakunya.
+
+Asam dan basa dapat dijelaskan melalui beberapa kerangka. Model Arrhenius menghubungkan asam dan basa dengan ion dalam air, sedangkan model Brønsted-Lowry menekankan donor dan penerima proton. Model Lewis memperluas pembahasan pada pasangan elektron. Satu zat dapat berperilaku berbeda bergantung pada pasangan reaksinya. Pasangan asam-basa konjugasi berbeda satu proton, dan pengenalan pasangan ini membantu menganalisis reaksi transfer proton.
+
+pH merupakan ukuran logaritmik yang berkaitan dengan aktivitas ion hidrogen. Karena bersifat logaritmik, perubahan satu satuan pH menunjukkan perubahan sepuluh kali pada besaran yang mendasarinya dalam pendekatan yang sesuai. Pengukuran pH memerlukan alat yang dikalibrasi atau indikator dengan rentang dan ketelitian yang dipahami. Warna indikator tidak memberikan angka presisi tanpa kurva atau prosedur pembanding. Suhu dan komposisi sampel juga dapat memengaruhi pembacaan.
+
+Larutan penyangga menahan perubahan pH ketika sejumlah kecil asam atau basa ditambahkan. Kapasitas penyangga terbatas dan bergantung pada jumlah serta perbandingan komponen pasangan asam-basa. Persamaan Henderson-Hasselbalch berguna pada kondisi yang sesuai, tetapi tidak menggantikan pemahaman kesetimbangan. Ketika larutan sangat diencerkan atau komposisinya jauh dari rentang efektif, perkiraan sederhana dapat menjadi kurang akurat.
+
+Analisis volumetri menggunakan hubungan stoikiometri antara larutan yang konsentrasinya diketahui dan analit. Titik ekuivalen merupakan keadaan stoikiometri, sedangkan titik akhir adalah perubahan yang diamati melalui indikator atau instrumen. Keduanya tidak selalu identik. Pemilihan indikator bergantung pada bentuk kurva titrasi dan rentang perubahan indikator. Hasil pengukuran harus menyertakan pengulangan, ketidakpastian, dan prosedur pencatatan.
+
+Keselamatan laboratorium merupakan syarat dasar. Praktik hanya dilakukan dalam fasilitas pendidikan dengan pengawasan dan prosedur yang disetujui. Bahan tidak dikenal tidak boleh dicampur, wadah tidak boleh digunakan tanpa label, dan limbah harus ditangani sesuai ketentuan laboratorium. Konsep dapat dipelajari melalui persamaan, data simulasi, serta demonstrasi terawasi tanpa mencoba reaksi secara mandiri.
+
+Latihan penerapan:
+1. Jelaskan perbedaan tetapan kesetimbangan dan laju reaksi.
+2. Uraikan bagaimana ion senama memengaruhi kelarutan secara konseptual.
+3. Identifikasi pasangan asam-basa konjugasi dari persamaan yang diberikan pengajar.
+4. Jelaskan keterbatasan larutan penyangga.
+5. Bedakan titik ekuivalen dan titik akhir dalam analisis volumetri.

@@ -203,3 +203,53 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Jelaskan efek jaringan dan satu risiko yang mungkin muncul.
 4. Apa manfaat portabilitas data bagi pengguna?
 5. Buat analisis singkat tentang peluang dan tantangan kerja kreator digital.
+BAB LANJUTAN 4. PEMBAYARAN DIGITAL DAN INFRASTRUKTUR KEUANGAN
+
+Pembayaran digital memungkinkan nilai dipindahkan melalui sistem elektronik. Di balik pengalaman sederhana menekan tombol, terdapat beberapa pihak dan proses, seperti pengguna, penyedia layanan, lembaga keuangan, jaringan pembayaran, pedagang, dan sistem penyelesaian. Pemahaman alur membantu menjelaskan biaya, waktu proses, tanggung jawab, serta titik terjadinya risiko.
+
+Pembayaran dapat berlangsung seketika pada tampilan pengguna, tetapi penyelesaian antar lembaga dapat mengikuti proses dan jadwal tertentu. Status transaksi seperti tertunda, berhasil, dibatalkan, atau dikembalikan memiliki arti berbeda. Pengguna perlu memeriksa bukti transaksi dan kanal resmi ketika terjadi ketidaksesuaian. Tangkapan layar saja tidak selalu menjadi bukti final bahwa dana telah diterima.
+
+Interoperabilitas memungkinkan layanan berbeda saling terhubung. Standar teknis dan aturan bersama dapat menurunkan hambatan, memperluas pilihan, dan meningkatkan persaingan. Namun, sistem juga memerlukan perlindungan dari penipuan, kebocoran data, gangguan layanan, dan penyalahgunaan identitas. Keamanan harus dibangun pada desain sistem, bukan hanya dibebankan kepada pengguna.
+
+Inklusi keuangan digital bergantung pada keterjangkauan, kemudahan penggunaan, kepercayaan, akses perangkat, dan pemahaman risiko. Biaya tersembunyi atau syarat yang rumit dapat mengurangi manfaat. Edukasi konsumen perlu menjelaskan cara memeriksa penerima, menjaga kredensial, mengenali komunikasi palsu, serta menghubungi penyedia melalui saluran resmi tanpa membagikan kode rahasia.
+
+LATIHAN BAB
+1. Sebutkan pihak yang terlibat dalam pembayaran digital.
+2. Apa perbedaan status transaksi tertunda dan berhasil?
+3. Mengapa interoperabilitas dapat meningkatkan persaingan?
+4. Sebutkan empat unsur inklusi keuangan digital.
+5. Mengapa kode rahasia tidak boleh dibagikan kepada pihak yang mengaku sebagai petugas?
+
+BAB LANJUTAN 5. KECERDASAN BUATAN DAN PRODUKTIVITAS EKONOMI
+
+Kecerdasan buatan dapat membantu mengolah informasi, mengenali pola, membuat rekomendasi, dan mengotomatisasi sebagian tugas. Dampak ekonominya bergantung pada jenis pekerjaan, kualitas data, biaya penerapan, keterampilan pekerja, dan cara organisasi mengubah proses. Teknologi tidak selalu menggantikan seluruh pekerjaan; sering kali teknologi mengubah komposisi tugas dan kebutuhan kompetensi.
+
+Produktivitas perlu diukur dari hasil yang relevan, bukan hanya jumlah aktivitas otomatis. Sistem yang menghasilkan banyak keluaran tetapi meningkatkan kesalahan atau memerlukan pemeriksaan ulang besar belum tentu meningkatkan produktivitas bersih. Evaluasi perlu menghitung biaya lisensi, integrasi, pelatihan, pemeliharaan, energi, keamanan, dan risiko kesalahan.
+
+Manfaat AI dapat tersebar tidak merata. Organisasi besar mungkin lebih mampu membeli infrastruktur dan tenaga ahli, sedangkan usaha kecil menghadapi keterbatasan biaya dan data. Pekerja dengan tugas yang mudah distandardisasi dapat mengalami perubahan lebih cepat daripada pekerja yang tugasnya memerlukan interaksi, penilaian situasional, atau tanggung jawab langsung. Kebijakan pelatihan dan transisi kerja perlu mempertimbangkan perbedaan tersebut.
+
+Penggunaan AI juga memunculkan isu hak cipta, privasi, bias, transparansi, dan akuntabilitas. Keputusan berdampak besar tidak seharusnya diserahkan kepada sistem otomatis tanpa pengawasan yang sesuai. Organisasi perlu menjelaskan kapan AI digunakan, bagaimana hasil diperiksa, dan bagaimana seseorang dapat meminta koreksi. Kepercayaan memerlukan mekanisme tanggung jawab yang jelas.
+
+LATIHAN BAB
+1. Mengapa AI dapat mengubah tugas tanpa menghapus seluruh pekerjaan?
+2. Apa yang dimaksud produktivitas bersih?
+3. Sebutkan biaya penerapan AI selain biaya perangkat lunak.
+4. Mengapa manfaat AI dapat tersebar tidak merata?
+5. Apa unsur pengawasan manusia dalam keputusan otomatis?
+
+BAB LANJUTAN 6. EKONOMI SIRKULAR DAN MODEL BISNIS DIGITAL
+
+Ekonomi sirkular berupaya mempertahankan nilai bahan dan produk melalui perawatan, penggunaan ulang, perbaikan, pemanfaatan kembali komponen, dan daur ulang. Pendekatan ini berbeda dari pola linear yang mengambil bahan, menghasilkan produk, lalu membuangnya. Teknologi digital dapat membantu pelacakan produk, pengelolaan inventaris, pasar barang bekas, dan koordinasi layanan perbaikan.
+
+Platform dapat mempertemukan pemilik barang dengan pengguna berikutnya atau menghubungkan konsumen dengan penyedia perbaikan. Model berbasis layanan dapat mendorong produsen merancang produk yang tahan lama karena pendapatan bergantung pada kinerja dan masa pakai. Namun, klaim sirkular perlu diuji melalui data umur produk, tingkat perbaikan, penggunaan bahan, transportasi, dan akhir masa pakai.
+
+Efek lingkungan harus dinilai sepanjang siklus hidup. Barang bekas yang dikirim sangat jauh atau perangkat yang cepat diganti karena pembaruan perangkat lunak dapat mengurangi manfaat yang diharapkan. Digitalisasi juga memiliki jejak energi dan material dari pusat data, jaringan, serta perangkat. Karena itu, solusi digital tidak otomatis lebih berkelanjutan.
+
+Indikator ekonomi sirkular dapat mencakup tingkat penggunaan ulang, masa pakai, kemudahan perbaikan, kandungan bahan daur ulang, dan pengurangan limbah. Pengukuran perlu menyebut batas sistem agar tidak membandingkan angka yang berbeda definisi. Kebijakan produsen, hak konsumen atas perbaikan, standar produk, dan informasi yang transparan dapat mendukung perubahan.
+
+LATIHAN BAB
+1. Apa perbedaan ekonomi linear dan sirkular?
+2. Bagaimana platform digital dapat membantu penggunaan ulang barang?
+3. Mengapa klaim sirkular perlu dinilai sepanjang siklus hidup?
+4. Sebutkan empat indikator ekonomi sirkular.
+5. Bagaimana hak atas perbaikan dapat memengaruhi model bisnis?

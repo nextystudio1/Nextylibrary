@@ -258,3 +258,37 @@ LATIHAN BAB
 3. Mengapa kemampuan robot perlu dijelaskan secara jujur?
 4. Sebutkan alternatif aksesibel untuk antarmuka robot.
 5. Apa saja unsur tata kelola setelah robot digunakan?
+
+BAB LANJUTAN. KINEMATIKA DAN RUANG KERJA ROBOT
+
+Kinematika mempelajari gerak robot tanpa terlebih dahulu membahas gaya penyebabnya. Pada robot beruas, posisi ujung lengan bergantung pada panjang ruas dan sudut setiap sendi. Perubahan kecil pada sudut dapat menghasilkan perpindahan ujung yang berbeda bergantung konfigurasi. Hubungan ini penting untuk memahami mengapa robot tidak selalu dapat mencapai semua titik di sekitarnya.
+
+Ruang kerja adalah kumpulan posisi yang dapat dijangkau oleh bagian robot tertentu. Bentuk ruang kerja dipengaruhi geometri, batas sendi, dan hambatan fisik. Perencana perlu memastikan lintasan tidak melewati struktur, manusia, atau area terlarang. Model geometri merupakan penyederhanaan; kelenturan, toleransi mekanis, dan kondisi pemasangan dapat menimbulkan perbedaan dari hasil perhitungan.
+
+Kinematika maju menghitung posisi atau orientasi ujung berdasarkan konfigurasi sendi. Kinematika invers mencari konfigurasi sendi untuk mencapai sasaran tertentu. Satu sasaran dapat memiliki beberapa solusi, atau tidak memiliki solusi dalam batas ruang kerja. Solusi juga perlu diperiksa terhadap batas sendi dan kemungkinan tabrakan. Dalam pembelajaran, simulasi membantu memahami konsep sebelum sistem fisik digunakan di bawah pengawasan yang sesuai.
+
+BAB LANJUTAN. SENSOR, ESTIMASI, DAN KETIDAKPASTIAN
+
+Sensor mengukur besaran fisik seperti jarak, sudut, percepatan, cahaya, atau gaya. Setiap sensor memiliki rentang, resolusi, laju pembaruan, gangguan, dan ketidakpastian. Angka yang tampil pada layar bukan nilai sempurna dari keadaan sebenarnya. Kalibrasi dan pemeriksaan berkala membantu memahami penyimpangan pengukuran.
+
+Robot sering menggabungkan beberapa sumber data karena satu sensor memiliki keterbatasan. Sensor jarak dapat mendeteksi objek di depan, tetapi mungkin tidak menjelaskan bentuk atau identitas objek. Kamera memberikan informasi visual, namun hasilnya dipengaruhi pencahayaan, sudut, dan kondisi gambar. Penggabungan sensor perlu mempertimbangkan waktu pengukuran, koordinat, dan kualitas data.
+
+Estimasi keadaan memperkirakan posisi atau gerak robot dari pengukuran yang tidak sempurna. Filter dapat menggabungkan model gerak dengan data sensor untuk mengurangi pengaruh gangguan. Hasil estimasi tetap memiliki ketidakpastian yang harus dipertimbangkan oleh sistem pengendali. Jika data sensor tidak masuk akal atau hilang, robot perlu memiliki keadaan aman dan tidak terus bertindak seolah-olah informasinya pasti.
+
+BAB LANJUTAN. PERENCANAAN, PENGUJIAN, DAN KEANDALAN
+
+Perencanaan gerak menentukan urutan posisi yang perlu dilalui untuk mencapai tujuan. Jalur terpendek belum tentu paling aman atau paling halus. Kecepatan, percepatan, batas mekanis, konsumsi energi, dan keberadaan manusia perlu dipertimbangkan. Sistem yang bekerja di lingkungan berubah juga memerlukan kemampuan berhenti atau meminta bantuan ketika situasi tidak dapat dipastikan.
+
+Pengujian robot sebaiknya dimulai dari kebutuhan dan kriteria penerimaan yang jelas. Uji unit memeriksa bagian kecil, uji integrasi memeriksa hubungan antarkomponen, dan uji sistem menilai perilaku keseluruhan dalam skenario yang ditetapkan. Catatan pengujian perlu memuat versi perangkat lunak, konfigurasi, kondisi, hasil, dan masalah yang ditemukan agar pengujian dapat diulang.
+
+Keandalan bukan berarti sistem tidak pernah gagal. Sistem yang bertanggung jawab mengenali kegagalan, membatasi dampak, memberi tahu operator, dan menyediakan cara pemulihan yang aman. Pemeliharaan preventif, dokumentasi, suku cadang, dan pelatihan operator turut menentukan keberhasilan penggunaan jangka panjang.
+
+LATIHAN
+1. Apa perbedaan kinematika maju dan invers?
+2. Mengapa ruang kerja perlu diperiksa sebelum merencanakan gerak?
+3. Sebutkan empat karakteristik penting sensor.
+4. Mengapa estimasi keadaan perlu menyertakan ketidakpastian?
+5. Apa perbedaan uji unit, integrasi, dan sistem?
+
+PROYEK
+Buat rancangan robot edukasi sederhana dalam simulasi. Tentukan tujuan, batas ruang kerja, jenis sensor secara konseptual, keadaan aman, dan skenario pengujian. Dokumentasikan asumsi serta keterbatasan model. Jangan menguji gerak fisik yang berpotensi membahayakan manusia atau merusak benda.

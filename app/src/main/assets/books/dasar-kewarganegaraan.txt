@@ -400,3 +400,31 @@ Proyek kewarganegaraan di lingkungan sekitar
 Pilih satu isu lokal, seperti akses trotoar, pengelolaan sampah, atau informasi layanan administrasi. Rumuskan masalah secara terukur, petakan pihak yang berwenang, kumpulkan observasi dengan izin dan cara yang etis, lalu bandingkan kondisi dengan standar yang dipublikasikan. Susun rekomendasi yang realistis dan sampaikan melalui forum atau kanal resmi. Setelah itu, catat tanggapan dan perkembangan.
 
 Proyek ini melatih warga untuk menghubungkan hak, tanggung jawab, data, dan prosedur. Tujuan utamanya bukan mencari konflik atau menjanjikan perubahan instan, melainkan membangun kemampuan bekerja sama dan mengawasi pelayanan secara konstruktif.
+
+
+BAB LANJUTAN: KELEMBAGAAN DEMOKRASI DAN PRAKTIK KEWARGAAN
+
+Memahami lembaga negara melalui fungsi dan batas kewenangan
+Lembaga negara dibentuk untuk menjalankan fungsi publik yang berbeda. Pembagian fungsi membantu mencegah pemusatan kekuasaan dan menyediakan jalur pemeriksaan. Dalam mempelajari suatu lembaga, jangan hanya menghafal nama atau susunan pejabat. Telusuri dasar pembentukannya, mandat, ruang keputusan, sumber anggaran, mekanisme pertanggungjawaban, dan cara masyarakat mengajukan keberatan. Peta kelembagaan yang baik menunjukkan hubungan kerja sekaligus batas kewenangan. Jika sebuah lembaga menerima pengaduan, misalnya, periksa apakah ia berwenang menyelesaikan perkara, memberi rekomendasi, melakukan pengawasan, atau hanya meneruskan laporan kepada instansi lain.
+
+Perwakilan, partisipasi, dan kualitas deliberasi
+Pemilihan umum merupakan salah satu cara membentuk perwakilan, tetapi partisipasi warga tidak berhenti setelah pemungutan suara. Warga dapat mempelajari rancangan kebijakan, menghadiri konsultasi publik, menyampaikan masukan tertulis, memantau pelaksanaan anggaran, dan mengevaluasi layanan. Partisipasi yang bermakna membutuhkan informasi yang dapat dipahami, waktu yang cukup, akses bagi kelompok terdampak, serta penjelasan tentang bagaimana masukan dipertimbangkan. Forum deliberasi yang sehat memberi ruang bagi alasan dan bukti, bukan sekadar adu suara. Moderator perlu memastikan peserta tidak mendominasi, istilah dijelaskan, dan perbedaan pendapat dicatat secara adil.
+
+Membaca anggaran sebagai dokumen kewargaan
+Anggaran publik menerjemahkan prioritas menjadi rencana pendapatan dan belanja. Untuk membacanya, mulai dari masalah yang hendak diselesaikan, sasaran penerima manfaat, indikator keluaran, jadwal, serta biaya operasi setelah program selesai. Bedakan belanja pembangunan dari biaya pemeliharaan. Fasilitas yang dibangun tanpa biaya perawatan dapat cepat tidak berfungsi. Periksa pula apakah indikator hanya menghitung kegiatan, seperti jumlah rapat, atau benar-benar mengukur perubahan layanan, seperti waktu tunggu dan keterjangkauan. Perbandingan antarperiode harus memperhatikan inflasi, perubahan jumlah penduduk, dan perubahan definisi indikator.
+
+Mengawasi pelayanan tanpa menyebarkan tuduhan
+Pengawasan warga sebaiknya berangkat dari pengalaman yang dapat diverifikasi. Catat tanggal, lokasi umum, jenis layanan, tahapan prosedur, dan dokumen yang memang boleh dibagikan. Hindari menyebarkan identitas pribadi atau menuduh seseorang melakukan pelanggaran tanpa bukti. Pisahkan fakta yang diamati, dugaan, dan pertanyaan yang masih perlu dijawab. Gunakan kanal pengaduan resmi dan simpan nomor penerimaan laporan. Jika jawaban belum memadai, tindak lanjuti secara tertib dengan menyebutkan kronologi dan permintaan yang spesifik. Pendekatan ini melindungi pelapor sekaligus membantu instansi memahami masalah operasional.
+
+Kewargaan digital dan ketahanan informasi
+Ruang digital memperluas partisipasi, tetapi juga mempercepat penyebaran informasi keliru. Sebelum membagikan klaim tentang kebijakan atau peristiwa publik, periksa tanggal, konteks, sumber asli, dan apakah gambar atau kutipan dipotong. Bedakan berita, opini, satire, dan materi kampanye. Algoritma rekomendasi dapat membuat seseorang lebih sering melihat pandangan yang serupa; karena itu, cari sumber dengan sudut pandang berbeda dan standar pembuktian yang jelas. Kritik terhadap kebijakan sah dilakukan, tetapi sebaiknya diarahkan pada keputusan, dampak, dan bukti, bukan penghinaan terhadap kelompok.
+
+Latihan proyek: audit sederhana pengalaman layanan
+Pilih satu layanan publik yang dapat diamati secara aman dan terbuka. Susun daftar tahapan berdasarkan informasi resmi, lalu catat apakah informasi persyaratan, biaya, waktu, aksesibilitas, dan kanal pengaduan tersedia. Jangan mengumpulkan data pribadi pengguna layanan. Bandingkan pengalaman pengamatan dengan standar yang diumumkan, kemudian tulis tiga temuan yang dibedakan antara fakta dan interpretasi. Akhiri dengan satu usulan perbaikan yang terukur, misalnya memperjelas papan informasi atau menyediakan format dokumen yang lebih mudah diakses. Evaluasi apakah usulan itu berada dalam kewenangan unit yang dituju.
+
+Pertanyaan refleksi
+- Apa perbedaan antara lembaga yang membuat kebijakan, melaksanakan, dan mengawasi?
+- Bagaimana warga dapat menilai apakah konsultasi publik sungguh memengaruhi keputusan?
+- Mengapa keterbukaan anggaran perlu disertai penjelasan indikator hasil?
+- Bagaimana menyampaikan kritik yang tegas tanpa menyebarkan data pribadi?
+

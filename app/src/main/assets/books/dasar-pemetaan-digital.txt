@@ -357,3 +357,32 @@ LATIHAN DAN PROYEK
 5. Mengapa data lokasi dapat tetap sensitif meskipun nama dihapus?
 
 Proyek: gunakan dataset spasial publik yang memiliki lisensi jelas untuk membuat peta fasilitas pendidikan atau ruang terbuka. Periksa sistem koordinat, tanggal, kelengkapan, dan atribut. Buat satu analisis sederhana, lakukan pemeriksaan kewajaran, dan tuliskan keterbatasan serta risiko privasi. Jangan memetakan identitas atau lokasi pribadi yang tidak diperlukan.
+
+BAB LANJUTAN: ANALISIS SPASIAL, KUALITAS DATA, DAN PENYAJIAN PETA
+
+Peta digital bukan sekadar gambar yang menempatkan simbol di atas permukaan bumi. Peta merupakan model yang memilih aspek tertentu dari kenyataan untuk menjawab pertanyaan. Setiap peta memiliki tujuan, skala, waktu rujukan, sistem koordinat, sumber data, dan aturan simbolisasi. Peta yang tepat untuk menunjukkan persebaran fasilitas belum tentu tepat untuk menjelaskan perubahan wilayah dari tahun ke tahun. Sebelum membuat peta, rumuskan pertanyaan yang ingin dijawab dan tentukan informasi yang benar-benar diperlukan.
+
+Data spasial umumnya dibagi menjadi data vektor dan raster. Data vektor mewakili objek sebagai titik, garis, atau poligon. Titik dapat mewakili lokasi fasilitas, garis dapat mewakili jaringan jalan, sedangkan poligon dapat mewakili batas kawasan. Data raster tersusun dari sel atau piksel dan sering digunakan untuk menggambarkan fenomena yang berubah secara kontinu, seperti elevasi atau suhu permukaan. Pemilihan model bergantung pada sifat fenomena dan resolusi yang dibutuhkan.
+
+Sistem koordinat menentukan bagaimana posisi di permukaan bumi direpresentasikan. Koordinat geografis menggunakan lintang dan bujur, sedangkan sistem proyeksi memindahkan permukaan lengkung ke bidang datar. Setiap proyeksi memiliki distorsi tertentu pada luas, bentuk, jarak, atau arah. Tidak ada proyeksi datar yang mempertahankan seluruh sifat sekaligus untuk semua wilayah. Analisis jarak dan luas harus menggunakan sistem koordinat yang sesuai dengan lokasi serta tujuan pengukuran.
+
+Skala peta memengaruhi tingkat detail yang dapat ditampilkan. Peta skala besar biasanya menampilkan wilayah lebih kecil dengan detail lebih tinggi, sedangkan peta skala kecil mencakup wilayah luas dengan penyederhanaan lebih besar. Generalisasi kartografis mengurangi detail agar informasi tetap terbaca. Penyederhanaan tidak boleh mengubah makna penting atau menghilangkan objek yang justru diperlukan untuk menjawab pertanyaan. Pembaca perlu mengetahui bahwa peta merupakan representasi terpilih, bukan salinan lengkap wilayah.
+
+Analisis tumpang susun menggabungkan beberapa lapisan untuk melihat hubungan spasial. Contohnya adalah membandingkan lokasi fasilitas dengan jaringan jalan atau area rawan genangan. Hasil analisis sangat bergantung pada ketepatan batas, waktu pengumpulan, skala, dan kelengkapan setiap lapisan. Jika batas administrasi berasal dari tahun berbeda, hasil perbandingan dapat menyesatkan. Sebelum menggabungkan data, periksa metadata dan samakan sistem koordinat bila diperlukan.
+
+Analisis kedekatan dapat digunakan untuk memperkirakan jarak atau wilayah layanan. Namun, jarak lurus tidak selalu mencerminkan akses nyata. Sungai, pagar, kondisi jalan, kemiringan, dan ketersediaan transportasi dapat membuat perjalanan jauh lebih panjang. Analisis jaringan lebih sesuai ketika pertanyaannya berkaitan dengan rute atau waktu tempuh. Asumsi kecepatan dan hambatan harus dinyatakan, karena hasil model bukan pengukuran perjalanan setiap orang.
+
+Kualitas data spasial mencakup ketelitian posisi, kelengkapan, konsistensi atribut, ketepatan waktu, dan kesesuaian terhadap tujuan. Data yang sangat rinci belum tentu paling baik jika sudah usang atau tidak mewakili wilayah. Pemeriksaan dapat dilakukan melalui sampel, perbandingan dengan sumber independen, dan pencarian nilai yang tidak wajar. Ketidakpastian perlu disampaikan, terutama ketika peta digunakan untuk mendukung keputusan publik.
+
+Simbol dan warna membentuk cara pembaca menafsirkan peta. Warna berurutan sesuai untuk nilai yang meningkat, sedangkan warna divergen dapat menunjukkan nilai di atas dan di bawah titik acuan. Kategori berbeda memerlukan simbol yang dapat dibedakan tanpa bergantung pada warna saja. Legenda harus menjelaskan kelas, satuan, dan batas kategori. Klasifikasi yang berbeda dapat menghasilkan kesan pola yang berbeda dari data yang sama, sehingga metode klasifikasi perlu dicantumkan.
+
+Privasi menjadi pertimbangan ketika data lokasi berkaitan dengan rumah, sekolah, perjalanan, atau aktivitas individu. Menghapus nama belum tentu cukup untuk mencegah identifikasi jika lokasi sangat rinci. Gunakan agregasi atau generalisasi sesuai kebutuhan, batasi akses data mentah, dan jangan memetakan lokasi pribadi yang tidak diperlukan. Data publik pun perlu digunakan sesuai ketentuan dan konteksnya.
+
+Studi kasus: sebuah kelompok ingin membandingkan akses ruang terbuka pada beberapa kawasan. Mereka menggabungkan lokasi ruang hijau, jaringan pejalan kaki, dan batas kawasan dari sumber yang memiliki tanggal berbeda. Sebelum menarik kesimpulan, mereka memeriksa sistem koordinat, kelengkapan jalur, serta kemungkinan area yang belum tercatat. Hasil peta dilengkapi penjelasan bahwa jarak jaringan belum menggambarkan kualitas trotoar atau rasa aman pengguna.
+
+Latihan penerapan:
+1. Pilih model vektor atau raster untuk tiga jenis fenomena dan jelaskan alasannya.
+2. Jelaskan distorsi yang mungkin muncul ketika memilih proyeksi peta.
+3. Bandingkan jarak lurus dengan jarak melalui jaringan jalan.
+4. Buat daftar pemeriksaan kualitas untuk satu lapisan data.
+5. Rancang legenda yang dapat dipahami tanpa bergantung pada warna.

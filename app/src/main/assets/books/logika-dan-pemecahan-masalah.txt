@@ -306,3 +306,36 @@ LATIHAN BAB
 3. Berikan contoh dilema palsu dalam keputusan sehari-hari.
 4. Mengapa kriteria solusi sebaiknya ditentukan sebelum memilih alternatif?
 5. Jelaskan bagaimana umpan balik dapat mengubah perilaku suatu sistem.
+
+BAB PENDALAMAN: MERUMUSKAN MASALAH DENGAN TEPAT
+
+Pemecahan masalah sering gagal karena gejala dianggap sebagai akar masalah. Keluhan bahwa layanan lambat, misalnya, belum menjelaskan apakah penyebabnya kekurangan kapasitas, alur persetujuan, gangguan teknis, atau informasi yang tidak lengkap. Rumusan masalah yang baik menyebutkan kondisi saat ini, kondisi yang diharapkan, pihak terdampak, dan batas ruang lingkup.
+
+Teknik bertanya berulang tentang alasan dapat membantu menelusuri penyebab, tetapi tidak boleh dipakai sebagai bukti tunggal. Diagram sebab-akibat membantu mengelompokkan kemungkinan faktor seperti manusia, metode, alat, bahan, dan lingkungan. Daftar penyebab merupakan hipotesis yang harus diuji dengan data atau pengamatan, bukan kesimpulan otomatis.
+
+BAB PENDALAMAN: ARGUMEN DAN KEKUATAN BUKTI
+
+Argumen terdiri dari klaim, alasan, dan bukti. Klaim menyatakan posisi; alasan menjelaskan hubungan logis; bukti memberi dasar untuk menerima alasan. Contoh yang menarik belum tentu mewakili pola umum. Satu pengalaman dapat menunjukkan kemungkinan suatu kejadian, tetapi tidak cukup untuk memperkirakan seberapa sering kejadian itu terjadi.
+
+Generalisasi yang kuat membutuhkan sampel dan konteks yang sesuai. Bukti dari satu kelompok tidak selalu berlaku bagi kelompok lain. Saat menilai argumen, tanyakan apakah sumbernya kompeten, apakah metode pengumpulan informasinya jelas, apakah ada penjelasan alternatif, dan apakah bukti yang berlawanan dipertimbangkan secara adil.
+
+Kekeliruan sebab-akibat dapat muncul ketika dua peristiwa terjadi berdekatan. Urutan waktu tidak membuktikan kausalitas. Faktor ketiga mungkin memengaruhi keduanya, atau hubungan dapat berjalan dua arah. Penalaran yang cermat membedakan korelasi, mekanisme yang masuk akal, dan bukti kausal dari rancangan yang memadai.
+
+BAB PENDALAMAN: KEPUTUSAN DI BAWAH KETIDAKPASTIAN
+
+Keputusan sering dibuat ketika informasi tidak lengkap. Bedakan risiko yang peluangnya dapat diperkirakan dari ketidakpastian yang peluangnya belum diketahui dengan baik. Buat beberapa skenario, identifikasi asumsi, dan periksa konsekuensi jika asumsi utama ternyata salah.
+
+Analisis sensitivitas mengubah satu atau beberapa asumsi untuk melihat apakah pilihan terbaik berubah. Jika perubahan kecil membalikkan keputusan, keputusan tersebut rapuh dan mungkin membutuhkan informasi tambahan atau pilihan yang lebih fleksibel. Jika hasil tetap serupa pada rentang asumsi yang masuk akal, keputusan relatif lebih kokoh.
+
+BAB PENDALAMAN: SISTEM, UMPAN BALIK, DAN EFEK SAMPING
+
+Masalah kompleks sering melibatkan banyak komponen yang saling memengaruhi. Diagram sebab-akibat dapat menggambarkan hubungan penguatan dan penyeimbang. Umpan balik penguatan memperbesar perubahan, sedangkan umpan balik penyeimbang cenderung menahan perubahan menuju kondisi tertentu. Keterlambatan dalam sistem dapat membuat tindakan yang tampak tepat justru menghasilkan efek yang tidak diharapkan.
+
+Intervensi perlu dinilai pada tingkat sistem. Mempercepat satu tahap layanan dapat memindahkan antrean ke tahap berikutnya. Menambah kapasitas tanpa memperbaiki proses mungkin hanya meningkatkan biaya. Karena itu, amati aliran keseluruhan, titik hambatan, dan dampak terhadap pihak yang berbeda.
+
+BAB PENDALAMAN: KREATIVITAS, UJI COBA, DAN PEMBELAJARAN
+
+Kreativitas pemecahan masalah bukan berarti menghasilkan gagasan sebanyak mungkin tanpa penilaian. Tahap eksplorasi memperluas pilihan, sedangkan tahap evaluasi membandingkannya dengan kriteria yang disepakati. Kriteria dapat mencakup manfaat, biaya, waktu, kemudahan pemeliharaan, aksesibilitas, dan risiko.
+
+Uji coba skala kecil dapat mengungkap kelemahan sebelum solusi diterapkan luas. Tentukan indikator keberhasilan, kondisi penghentian, serta cara mengumpulkan masukan. Hasil uji coba perlu ditafsirkan sesuai konteks; keberhasilan pada satu lokasi belum menjamin keberhasilan di tempat lain. Catat pelajaran, revisi rancangan, dan jelaskan alasan perubahan agar proses pembelajaran dapat diwariskan.
+

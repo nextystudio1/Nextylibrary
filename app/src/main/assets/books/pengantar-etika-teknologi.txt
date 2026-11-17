@@ -275,3 +275,49 @@ Penilaian dampak sebaiknya diulang ketika tujuan, data, pengguna, atau konteks b
 
 PROYEK
 Pilih satu layanan digital hipotetis. Buat inventaris data, peta aliran data, aturan akses, jadwal retensi, dan mekanisme koreksi. Tambahkan daftar asumsi desain, pihak terdampak, jalur banding, dan kondisi penghentian fitur jika risiko tidak dapat dikendalikan.
+
+BAB: KEADILAN, AKSES, DAN DESAIN INKLUSIF
+
+Teknologi dapat memperluas akses, tetapi juga dapat menciptakan hambatan baru. Layanan yang hanya bekerja pada perangkat mahal, koneksi cepat, atau bahasa tertentu akan mengecualikan sebagian pengguna. Karena itu, penilaian etis perlu bertanya siapa yang dapat menggunakan sistem, siapa yang kesulitan, dan siapa yang tidak terwakili dalam proses perancangan.
+
+Keadilan tidak selalu berarti memberikan perlakuan identik. Pengguna dengan kebutuhan berbeda mungkin memerlukan pilihan tampilan, metode interaksi, atau dukungan yang berbeda agar dapat memperoleh kesempatan yang setara. Fitur aksesibilitas seperti teks alternatif, navigasi papan ketik, transkrip, kontras yang memadai, dan struktur yang kompatibel dengan teknologi bantu perlu dipikirkan sejak awal.
+
+Pengujian dengan pengguna yang beragam dapat menemukan hambatan yang tidak terlihat oleh tim pengembang. Partisipasi harus dilakukan dengan persetujuan, penghormatan, dan kompensasi yang layak bila sesuai. Jangan meminta seseorang mewakili seluruh kelompok berdasarkan satu pengalaman. Catat variasi kebutuhan dan jelaskan batas temuan.
+
+BAB: ETIKA DATA DAN SIKLUS HIDUP INFORMASI
+
+Data memiliki siklus hidup: dikumpulkan, digunakan, disimpan, dibagikan, diarsipkan, dan dihapus. Pada setiap tahap, organisasi perlu memiliki tujuan yang jelas dan batas akses. Data yang tidak lagi diperlukan sebaiknya tidak disimpan tanpa alasan. Penyimpanan jangka panjang meningkatkan beban perlindungan dan dapat memperbesar dampak jika terjadi kebocoran.
+
+Persetujuan bukan sekadar kotak yang dicentang. Penjelasan harus menyebut jenis data, tujuan, pihak penerima, jangka penyimpanan, serta pilihan yang tersedia. Pengguna perlu memahami apakah layanan tetap dapat digunakan jika mereka menolak pengumpulan data yang tidak esensial. Bahasa kebijakan harus mudah dibaca dan tidak menyembunyikan konsekuensi penting.
+
+Data gabungan atau anonim tetap perlu dinilai risikonya. Beberapa atribut yang tampak biasa dapat digabungkan untuk mengenali seseorang. Pembatasan akses, pengurangan rincian, dan peninjauan risiko membantu mengurangi kemungkinan tersebut. Jika data dipakai untuk tujuan baru, organisasi perlu memeriksa apakah tujuan itu sesuai dengan penjelasan awal dan aturan yang berlaku.
+
+BAB: KECERDASAN BUATAN DAN TANGGUNG JAWAB
+
+Sistem kecerdasan buatan belajar dari data dan aturan pemodelan yang dapat memiliki keterbatasan. Hasilnya dapat keliru, tidak lengkap, atau mencerminkan ketimpangan dalam data. Karena itu, keluaran sistem tidak boleh diperlakukan sebagai kebenaran otomatis. Pengguna perlu mengetahui kapan mereka berinteraksi dengan sistem otomatis dan kapan keputusan penting memerlukan peninjauan manusia.
+
+Evaluasi harus menguji kinerja pada konteks penggunaan yang relevan, bukan hanya rata-rata keseluruhan. Kinerja yang baik pada satu kelompok dapat menyembunyikan kesalahan lebih tinggi pada kelompok lain. Ukuran keberhasilan harus sesuai risiko. Sistem rekomendasi buku, misalnya, memiliki konsekuensi berbeda dari sistem yang memengaruhi akses layanan penting.
+
+Dokumentasikan tujuan model, sumber data, batas penggunaan, metode evaluasi, dan prosedur koreksi. Sediakan cara bagi pengguna untuk melaporkan keluaran yang salah. Jika kesalahan berulang atau dampaknya tidak dapat diterima, fitur perlu diperbaiki, dibatasi, atau dihentikan. Tanggung jawab tetap berada pada organisasi yang memilih menggunakan teknologi tersebut.
+
+BAB: KEPENTINGAN PUBLIK DAN DAMPAK LINGKUNGAN
+
+Teknologi menggunakan energi, bahan baku, jaringan, pusat data, dan perangkat yang memiliki umur pakai terbatas. Penilaian dampak lingkungan perlu melihat seluruh siklus hidup, bukan hanya tahap penggunaan. Desain yang lebih hemat sumber daya, perbaikan perangkat, penggunaan ulang, dan pengelolaan limbah elektronik dapat mengurangi sebagian dampak.
+
+Dampak sosial juga dapat muncul dari perubahan pekerjaan, pola komunikasi, konsentrasi kekuasaan, dan ketergantungan pada penyedia tertentu. Keputusan pengadaan teknologi perlu mempertimbangkan interoperabilitas, portabilitas data, biaya jangka panjang, dan kemampuan berpindah layanan. Organisasi sebaiknya tidak mengunci pengguna tanpa alasan yang dapat dipertanggungjawabkan.
+
+Kepentingan publik memerlukan transparansi yang sepadan dengan dampak sistem. Layanan yang memengaruhi banyak orang perlu memiliki mekanisme pengaduan, peninjauan, dan pemulihan. Pengguna harus dapat mengetahui alasan keputusan sejauh aman dan memungkinkan. Keterbukaan membantu masyarakat menilai apakah manfaat teknologi sebanding dengan risiko dan biaya yang ditanggung.
+
+STUDI KASUS: SISTEM REKOMENDASI BAHAN BELAJAR
+
+Sebuah perpustakaan digital ingin merekomendasikan bacaan berdasarkan aktivitas pembaca. Tim perlu menentukan apakah riwayat lengkap benar-benar diperlukan atau preferensi yang disimpan secara lokal sudah cukup. Mereka harus menjelaskan cara rekomendasi bekerja, menyediakan pilihan untuk mengubah preferensi, dan memastikan pengguna tetap dapat mencari buku tanpa mengikuti rekomendasi otomatis.
+
+Tim juga perlu memeriksa apakah katalog terlalu sering menampilkan satu jenis topik sehingga pembaca sulit menemukan bidang lain. Pengujian dilakukan pada kategori dan kelompok pengguna yang beragam. Jika sistem memberi rekomendasi yang tidak sesuai, pengguna harus dapat memberi umpan balik dan menghapus preferensi. Kasus ini menunjukkan bahwa kenyamanan tidak boleh dicapai dengan mengorbankan kendali pengguna.
+
+LATIHAN
+
+1. Mengapa perlakuan identik belum tentu menghasilkan akses yang adil?
+2. Apa saja tahap siklus hidup data?
+3. Mengapa keluaran kecerdasan buatan perlu diperiksa?
+4. Bagaimana ketergantungan pada penyedia teknologi dapat menjadi masalah etis?
+5. Apa hak pengguna ketika sistem memberikan hasil yang keliru?

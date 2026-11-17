@@ -283,3 +283,46 @@ LATIHAN BAB
 3. Sebutkan empat jenis bukti audit.
 4. Apa makna materialitas?
 5. Mengapa tanggung jawab penyusunan laporan tidak berpindah kepada auditor?
+
+BAB LANJUTAN: SIKLUS AKUNTANSI DAN KUALITAS INFORMASI
+
+Siklus akuntansi merupakan rangkaian kegiatan yang mengubah bukti transaksi menjadi laporan yang dapat digunakan. Proses biasanya dimulai dengan identifikasi transaksi, pemeriksaan dokumen, pencatatan jurnal, pemindahbukuan ke buku besar, penyusunan neraca saldo, penyesuaian, laporan keuangan, dan penutupan akun nominal. Urutan ini membantu memastikan bahwa transaksi tidak hanya dicatat, tetapi juga diklasifikasikan dan diringkas secara konsisten.
+
+Dokumen sumber memberikan dasar bagi pencatatan. Faktur, kuitansi, kontrak, bukti penerimaan, dan mutasi bank memiliki fungsi yang berbeda. Dokumen perlu diperiksa tanggal, pihak terkait, uraian, jumlah, otorisasi, serta keterkaitannya dengan barang atau jasa yang benar-benar diterima. Dokumen yang lengkap mengurangi ketidakjelasan, tetapi tidak otomatis membuktikan bahwa transaksi memiliki tujuan bisnis yang sah. Penilaian tetap membutuhkan konteks.
+
+Jurnal mencatat dampak transaksi pada akun dengan aturan debit dan kredit. Debit bukan selalu berarti penambahan dan kredit bukan selalu berarti pengurangan; pengaruhnya bergantung pada kelompok akun. Aset dan beban umumnya bertambah di sisi debit, sedangkan liabilitas, ekuitas, dan pendapatan umumnya bertambah di sisi kredit. Pemahaman terhadap persamaan akuntansi membantu menjelaskan mengapa setiap transaksi memengaruhi sedikitnya dua sisi pencatatan.
+
+Buku besar mengelompokkan transaksi menurut akun sehingga saldo dan pergerakan setiap akun dapat ditelusuri. Neraca saldo menguji kesamaan total debit dan kredit, tetapi keseimbangan tersebut tidak menjamin semua transaksi benar. Transaksi yang tidak dicatat, salah akun dengan nilai sama, atau pencatatan ganda yang seimbang dapat lolos dari pemeriksaan aritmetika. Rekonsiliasi dan penelaahan bukti tetap diperlukan.
+
+Penyesuaian akhir periode diperlukan karena tidak semua pendapatan dan beban terjadi bersamaan dengan penerimaan atau pembayaran kas. Beban dibayar di muka dialokasikan sesuai masa manfaat. Pendapatan diterima di muka diakui ketika kewajiban jasa dipenuhi. Beban yang masih harus dibayar dan pendapatan yang masih harus diterima juga perlu dicatat agar laporan mencerminkan periode yang tepat. Dasar akrual membantu pembaca memahami kinerja, bukan sekadar arus kas.
+
+PENYUSUTAN DAN PENURUNAN NILAI
+
+Aset tetap digunakan dalam lebih dari satu periode dan manfaat ekonominya dialokasikan sepanjang umur manfaat. Penyusutan bukan penilaian harga pasar aset setiap tahun, melainkan alokasi biaya perolehan yang dapat disusutkan secara sistematis. Estimasi umur manfaat dan nilai residu harus ditinjau ketika kondisi berubah. Metode garis lurus menghasilkan beban periodik yang relatif tetap, sedangkan metode lain dapat mencerminkan pola konsumsi manfaat yang berbeda jika didukung alasan.
+
+Penurunan nilai berbeda dari penyusutan. Penyusutan merupakan alokasi terencana, sedangkan penurunan nilai terjadi ketika jumlah tercatat aset tidak lagi dapat dipulihkan sesuai ketentuan standar yang berlaku. Indikasi dapat berupa kerusakan, perubahan teknologi, penurunan permintaan, atau perubahan regulasi. Pengujian membutuhkan estimasi dan dokumentasi; asumsi yang terlalu optimistis dapat membuat aset dan laba tampak lebih tinggi daripada kondisi yang dapat didukung.
+
+Persediaan memerlukan kebijakan pengukuran yang konsisten. Biaya persediaan dapat mencakup harga beli, biaya konversi, dan biaya lain yang diperlukan untuk membawa barang ke lokasi serta kondisi saat ini. Metode arus biaya seperti FIFO atau rata-rata tertimbang dapat menghasilkan pembagian biaya yang berbeda ketika harga berubah. Metode yang dipilih harus mengikuti standar yang berlaku dan diterapkan konsisten, bukan dipilih untuk menghasilkan laba yang diinginkan.
+
+PENGENDALIAN INTERNAL DALAM KEGIATAN HARIAN
+
+Pemisahan tugas mengurangi risiko satu orang menguasai seluruh tahap transaksi. Idealnya, pihak yang menyetujui pembelian berbeda dari pihak yang menerima barang dan pihak yang membayar. Organisasi kecil mungkin tidak memiliki cukup pegawai untuk pemisahan penuh. Pengendalian pengganti dapat berupa pemeriksaan pemilik secara berkala, laporan pengecualian, batas otorisasi, dan rekonsiliasi independen.
+
+Rekonsiliasi bank membandingkan catatan kas organisasi dengan laporan bank. Perbedaan dapat muncul karena cek yang belum dicairkan, setoran dalam perjalanan, biaya bank, bunga, atau kesalahan pencatatan. Setiap selisih perlu dijelaskan dan didukung bukti. Menyesuaikan saldo tanpa mengetahui penyebabnya dapat menyembunyikan kesalahan atau transaksi tidak sah.
+
+Jejak audit memungkinkan transaksi ditelusuri dari laporan ke dokumen sumber dan sebaliknya. Nomor referensi, tanggal, identitas pembuat, persetujuan, dan riwayat perubahan mendukung penelusuran. Akses sistem harus diberikan sesuai kebutuhan pekerjaan. Akun bersama mengurangi akuntabilitas karena tindakan sulit dikaitkan dengan pengguna tertentu.
+
+MEMBACA LAPORAN UNTUK PENGAMBILAN KEPUTUSAN
+
+Laporan laba rugi menunjukkan pendapatan dan beban selama periode, sedangkan laporan posisi keuangan menunjukkan aset, liabilitas, dan ekuitas pada tanggal tertentu. Laporan arus kas menjelaskan sumber dan penggunaan kas menurut aktivitas operasi, investasi, dan pendanaan. Ketiganya saling melengkapi. Laba positif tidak selalu berarti kas tersedia, misalnya ketika banyak penjualan dilakukan secara kredit atau persediaan meningkat.
+
+Rasio keuangan membantu membandingkan kondisi, tetapi tidak boleh dibaca tanpa konteks industri, ukuran organisasi, kebijakan akuntansi, dan tren waktu. Rasio lancar memberi gambaran kemampuan memenuhi kewajiban jangka pendek, tetapi kualitas piutang dan persediaan juga penting. Margin laba menunjukkan bagian pendapatan yang tersisa setelah kategori biaya tertentu, tetapi perubahan margin perlu ditelusuri ke harga, volume, bauran produk, dan biaya.
+
+Anggaran merupakan rencana, bukan jaminan hasil. Analisis selisih membandingkan realisasi dengan anggaran dan menguraikan penyebabnya. Selisih menguntungkan belum tentu baik jika terjadi karena pemeliharaan penting ditunda atau mutu layanan turun. Selisih tidak menguntungkan juga belum tentu menunjukkan pemborosan jika organisasi sengaja meningkatkan layanan yang dibutuhkan. Penjelasan kualitatif harus melengkapi angka.
+
+LATIHAN BAB
+1. Mengapa neraca saldo seimbang belum menjamin pencatatan benar?
+2. Jelaskan perbedaan penyusutan dan penurunan nilai.
+3. Apa manfaat pemisahan tugas dalam pengendalian internal?
+4. Mengapa laba tidak selalu sama dengan kas?
+5. Buat contoh penyebab selisih anggaran yang perlu ditelusuri.

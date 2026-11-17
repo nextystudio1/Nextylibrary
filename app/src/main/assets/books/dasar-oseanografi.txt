@@ -246,3 +246,39 @@ LATIHAN BAB 23
 3. Apa peran upwelling dalam beberapa ekosistem laut?
 4. Mengapa jaring makanan tidak cukup digambarkan sebagai satu rantai?
 5. Sebutkan keterbatasan citra satelit untuk mengamati ekosistem laut.
+
+BAB LANJUTAN. GELOMBANG LAUT DAN INTERAKSI DENGAN PANTAI
+
+Gelombang permukaan laut umumnya terbentuk ketika angin memindahkan energi ke permukaan air. Tinggi dan karakter gelombang dipengaruhi kecepatan angin, lama tiupan, dan panjang lintasan angin di atas permukaan yang disebut fetch. Gelombang dapat terus merambat setelah meninggalkan daerah pembangkitnya sebagai swell. Karena gelombang membawa energi, bukan memindahkan seluruh massa air ke depan bersama gelombang, gerak partikel air memiliki pola yang bergantung pada kedalaman dan karakter gelombang.
+
+Ketika mendekati pantai, gelombang berinteraksi dengan dasar yang semakin dangkal. Kecepatan dan panjang gelombang berubah, sementara tinggi dapat meningkat hingga gelombang pecah. Pembelokan arah gelombang akibat perubahan kedalaman disebut refraksi. Perbedaan energi sepanjang garis pantai dapat memengaruhi erosi, pengendapan, dan bentuk pantai. Bentuk pantai juga dipengaruhi jenis sedimen, vegetasi, struktur buatan, dan pasokan material dari sungai.
+
+Arus sejajar pantai dapat memindahkan sedimen sepanjang garis pantai. Perubahan pada satu lokasi, misalnya pembangunan struktur pantai, dapat mengubah pola pengendapan di lokasi lain. Karena itu, proyek perlindungan pantai perlu menilai dampak pada sistem pesisir yang lebih luas. Struktur yang melindungi satu titik belum tentu mengurangi risiko seluruh kawasan.
+
+Pasang surut berbeda dari gelombang yang dibangkitkan angin. Pasang surut terutama berkaitan dengan gaya gravitasi Bulan dan Matahari serta gerak sistem Bumi. Bentuk garis pantai, kedalaman, dan geometri teluk dapat memperkuat atau mengubah pola pasang surut setempat. Pengamatan pasang surut penting untuk navigasi, ekologi pesisir, perencanaan pelabuhan, dan pengelolaan kawasan rendah.
+
+LATIHAN
+1. Sebutkan tiga faktor yang memengaruhi pembentukan gelombang angin.
+2. Apa yang terjadi pada gelombang saat memasuki perairan dangkal?
+3. Jelaskan refraksi gelombang.
+4. Mengapa struktur pantai dapat memengaruhi lokasi lain?
+5. Apa perbedaan utama pasang surut dan gelombang angin?
+
+BAB LANJUTAN. SEDIMEN, GARIS PANTAI, DAN PROSES PESISIR
+
+Sedimen pesisir berasal dari sungai, tebing, organisme, dan proses pengikisan dasar laut. Ukuran butir, bentuk, kepadatan, dan komposisi memengaruhi bagaimana sedimen diangkut. Partikel halus dapat tetap tersuspensi lebih lama, sedangkan butir lebih besar cenderung mengendap ketika energi aliran berkurang. Namun, perilaku aktual dipengaruhi bentuk partikel, turbulensi, dan kondisi air.
+
+Anggaran sedimen menggambarkan masukan, penyimpanan, perpindahan, dan keluaran material pada suatu kawasan. Jika masukan lebih kecil daripada keluaran dalam jangka panjang, pantai dapat mengalami kehilangan sedimen. Jika pasokan meningkat dan energi pengangkutan menurun, pengendapan dapat terjadi. Pengelolaan pantai perlu memahami neraca ini agar tindakan di satu tempat tidak memindahkan masalah ke tempat lain.
+
+Mangrove, padang lamun, dan terumbu karang memiliki peran berbeda dalam ekosistem pesisir. Akar mangrove dapat membantu menangkap sedimen dan menyediakan habitat, lamun menjadi tempat mencari makan serta berkembang bagi sejumlah organisme, sedangkan terumbu karang membentuk habitat kompleks dan dapat mengurangi energi gelombang. Perlindungan ekosistem harus mempertimbangkan kualitas air, sedimentasi, perubahan suhu, dan aktivitas manusia.
+
+BAB LANJUTAN. PENGAMATAN, DATA, DAN PEMODELAN LAUT
+
+Pengamatan laut menggunakan pelampung, stasiun pasang surut, kapal, sensor bawah air, citra satelit, dan survei lapangan. Setiap instrumen mengukur variabel tertentu dalam rentang dan resolusi tertentu. Sensor suhu permukaan tidak menggambarkan profil suhu seluruh kolom air. Pengukuran sesaat juga tidak cukup untuk menjelaskan variasi musiman atau kejadian ekstrem.
+
+Data perlu memiliki metadata: lokasi, waktu, kedalaman, satuan, metode, kalibrasi, dan kondisi alat. Tanpa informasi tersebut, pengukuran sulit dibandingkan. Data dari instrumen berbeda mungkin menggunakan interval dan ketelitian berbeda sehingga perlu pemeriksaan sebelum digabungkan. Nilai yang tidak wajar perlu ditinjau, bukan otomatis dihapus.
+
+Model oseanografi menyederhanakan proses fisik untuk memahami pola dan menguji skenario. Hasil model dipengaruhi asumsi, resolusi, data batas, dan kualitas masukan. Model bukan ramalan yang pasti. Bandingkan hasil dengan pengamatan, jelaskan ketidakpastian, dan hindari menampilkan angka dengan ketelitian yang tidak didukung data.
+
+PROYEK
+Susun rancangan pengamatan pesisir berbasis data publik atau data contoh. Tentukan pertanyaan, variabel, frekuensi, lokasi umum, sumber data, dan keterbatasan. Buat grafik sederhana dan jelaskan apa yang dapat serta tidak dapat disimpulkan. Jangan melakukan pengukuran di lokasi berbahaya atau memasuki perairan tanpa pendamping dan izin yang sesuai.

@@ -345,3 +345,27 @@ LATIHAN DAN PROYEK
 5. Bagaimana gaya tulisan berubah menurut kebutuhan pembaca?
 
 Proyek: pilih isu pendidikan atau lingkungan yang memiliki data publik. Tulis artikel argumentatif singkat dengan tesis, tiga alasan, bukti yang dapat diperiksa, satu keberatan yang dijawab secara adil, dan daftar sumber. Tandai bagian yang merupakan fakta, interpretasi, dan rekomendasi. Periksa kembali setiap angka dan jangan membuat sumber yang tidak pernah dibaca.
+
+PENDALAMAN: PENYUNTINGAN SUBSTANTIF DAN INTEGRITAS TULISAN
+
+Penyuntingan substantif dimulai dengan memeriksa tujuan dan susunan gagasan. Penulis dapat membuat peta paragraf yang berisi fungsi setiap bagian: memperkenalkan masalah, menjelaskan bukti, membandingkan pandangan, atau menyampaikan rekomendasi. Peta ini membantu menemukan paragraf yang mengulang ide, menyimpang dari topik, atau belum memiliki dukungan. Perbaikan ejaan tetap penting, tetapi sebaiknya dilakukan setelah alur penalaran cukup kuat.
+
+Paragraf argumentatif yang efektif menghubungkan klaim, alasan, bukti, dan penjelasan. Angka tidak dapat berdiri sendiri. Penulis perlu menyebutkan apa yang diukur, siapa atau apa yang menjadi cakupan data, kapan pengumpulan dilakukan, dan batas penggunaannya. Persentase tanpa jumlah dasar dapat memberi kesan keliru. Perbandingan juga harus menggunakan definisi dan periode yang sepadan. Jika sumber hanya mencakup satu lokasi, kesimpulan tidak boleh diperluas begitu saja ke seluruh wilayah.
+
+Argumen yang adil menyajikan keberatan dalam bentuk yang masuk akal, bukan versi yang sengaja dilemahkan. Penulis dapat mengakui bagian keberatan yang didukung bukti, kemudian menjelaskan apakah hal itu mengubah, membatasi, atau tidak menggugurkan tesis. Cara ini mendorong pembaca menilai alasan, bukan sekadar memilih pihak. Ketika bukti belum cukup, kesimpulan yang paling bertanggung jawab mungkin berupa rekomendasi untuk mengumpulkan data tambahan.
+
+Parafrasa menuntut pemahaman, bukan sekadar penggantian sinonim. Bacalah sumber, catat gagasan intinya, susun kembali dengan struktur sendiri, lalu periksa apakah makna dan batas klaim tetap akurat. Ide, data, dan ungkapan khas milik sumber lain tetap harus diberi atribusi. Catatan riset sebaiknya memisahkan kutipan langsung, ringkasan, tanggapan pribadi, dan pertanyaan. Pemisahan ini mencegah pendapat penulis keliru dicatat sebagai pernyataan sumber.
+
+Penyesuaian bahasa harus mempertimbangkan pembaca dan tujuan. Istilah teknis dapat dipertahankan jika diperlukan, tetapi definisinya perlu diberikan saat pertama muncul. Bahasa formal tidak harus kaku; kalimat langsung dan istilah konsisten sering lebih efektif daripada ungkapan yang berlebihan. Dalam petunjuk dan dokumen kebijakan, ambiguitas dapat menyebabkan tindakan yang berbeda, sehingga subjek, tindakan, syarat, dan pengecualian harus dinyatakan dengan jelas.
+
+Dokumen digital juga memerlukan aksesibilitas. Gunakan struktur judul yang berurutan, teks alternatif yang menjelaskan fungsi gambar, label tautan yang bermakna, serta tabel yang tidak terlalu rumit. Judul yang hanya dibedakan dengan ukuran visual tanpa struktur dokumen dapat menyulitkan pembaca teknologi bantu. Riwayat versi dan komentar editorial membantu kolaborasi, tetapi penulis tetap perlu memeriksa perubahan akhir dan memastikan sumber tetap benar.
+
+Contoh proses editorial: tim menulis artikel mengenai pengelolaan sampah sekolah. Mereka menetapkan pembaca, mengumpulkan data dengan metode yang dijelaskan, membuat kerangka, menyusun draf, lalu menyunting isi dan bahasa secara terpisah. Sebelum publikasi, tim memeriksa satuan angka, periode pengamatan, izin foto, dan batas generalisasi. Jika data berasal dari satu sekolah, artikel menyebutnya sebagai studi kasus, bukan gambaran seluruh sekolah.
+
+LATIHAN PENDALAMAN
+1. Petakan klaim, alasan, bukti, dan penjelasan dari sebuah paragraf.
+2. Buat parafrasa yang akurat dan catat bagian yang memerlukan sitasi.
+3. Sunting satu halaman dengan mendahulukan struktur sebelum ejaan.
+4. Tulis keberatan terkuat terhadap pendapat sendiri dan tanggapi secara adil.
+5. Periksa aksesibilitas satu dokumen digital dan buat daftar perbaikannya.
+

@@ -327,3 +327,43 @@ PERTANYAAN
 3. Apa perbedaan koreksi teknis dan manipulasi dokumenter?
 4. Informasi apa yang mungkin tersimpan dalam metadata?
 5. Bagaimana keterangan gambar membantu menjaga akurasi cerita?
+
+BAB PENDALAMAN: CAHAYA, WARNA, DAN KONSISTENSI
+
+Cahaya merupakan unsur utama fotografi. Intensitas, arah, ukuran sumber, dan warna cahaya memengaruhi tampilan objek. Cahaya dari sumber luas relatif terhadap objek cenderung menghasilkan transisi bayangan yang lebih lembut, sedangkan sumber kecil dapat menghasilkan bayangan lebih tegas. Pantulan dari dinding atau permukaan sekitar juga mengubah pencahayaan, sehingga fotografer perlu memperhatikan keseluruhan lingkungan, bukan hanya sumber utama.
+
+Keseimbangan putih membantu kamera menafsirkan warna netral di bawah jenis pencahayaan tertentu. Pengaturan otomatis dapat berubah ketika komposisi berpindah dari satu kondisi cahaya ke kondisi lain. Untuk seri foto dokumenter, konsistensi warna dapat membantu pembaca membandingkan adegan. Namun, koreksi warna tidak boleh mengubah bukti atau membuat kondisi tampak berbeda dari kenyataan.
+
+Rentang dinamis menggambarkan kemampuan merekam detail pada bagian terang dan gelap. Adegan dengan perbedaan kecerahan besar dapat membuat sebagian detail hilang. Fotografer perlu menentukan bagian yang paling penting bagi tujuan gambar, lalu memilih waktu, sudut, atau pendekatan pencahayaan yang sesuai. Hasil akhir perlu dinilai pada layar yang berbeda karena tampilan warna dan kecerahan dapat bervariasi.
+
+BAB PENDALAMAN: LENSA, PERSPEKTIF, DAN KOMPOSISI
+
+Panjang fokus memengaruhi sudut pandang dan hubungan ukuran objek dalam bingkai. Perspektif terutama berubah karena posisi kamera terhadap objek. Ketika kamera berpindah, hubungan ukuran antara objek dekat dan jauh ikut berubah. Memahami perbedaan ini membantu fotografer memilih posisi yang menyampaikan hubungan ruang secara tepat.
+
+Komposisi dapat menggunakan garis, bidang, pola, ruang negatif, keseimbangan, dan titik perhatian. Aturan sepertiga hanyalah salah satu alat bantu, bukan ketentuan mutlak. Foto yang kuat dapat menggunakan simetri, ketidakseimbangan yang disengaja, atau ruang kosong untuk membangun makna. Keputusan komposisi perlu mendukung cerita, bukan sekadar mengikuti formula.
+
+Kedalaman bidang dipengaruhi bukaan, panjang fokus, jarak kamera, dan ukuran format. Latar yang kabur dapat memisahkan subjek, tetapi tidak selalu tepat untuk dokumentasi yang membutuhkan konteks. Dalam foto pendidikan, detail lingkungan kadang sama pentingnya dengan objek utama. Pilihan teknis harus mengikuti tujuan komunikasi.
+
+BAB PENDALAMAN: EDITORIAL DAN ETIKA DOKUMENTASI
+
+Cerita visual memiliki struktur: pengantar konteks, rangkaian peristiwa, detail pendukung, dan penutup yang memberi pemahaman. Satu foto dapat menarik perhatian, tetapi rangkaian foto perlu menjaga kesinambungan ruang, waktu, dan hubungan sebab-akibat. Keterangan gambar sebaiknya menjawab siapa atau apa yang terlihat, di mana dan kapan gambar dibuat jika relevan, serta informasi yang diperlukan untuk menghindari salah tafsir.
+
+Dokumentasi harus menghormati orang yang difoto. Jelaskan tujuan penggunaan, minta izin ketika diperlukan, dan hindari menampilkan informasi pribadi yang tidak relevan. Foto anak atau kegiatan di ruang privat memerlukan kehati-hatian khusus dan persetujuan sesuai ketentuan. Jangan membuat adegan seolah-olah spontan jika sebenarnya direkayasa tanpa penjelasan.
+
+Penyuntingan dasar seperti pemotongan untuk komposisi atau koreksi paparan dapat diterima dalam konteks tertentu, tetapi perubahan yang menghapus, menambah, atau memindahkan unsur dapat mengubah makna dokumenter. Simpan berkas asli dan catatan penyuntingan. Jika gambar merupakan ilustrasi atau rekonstruksi, beri label secara jelas agar pembaca tidak menganggapnya sebagai bukti langsung.
+
+BAB PENDALAMAN: ARSIP DAN ALUR KERJA
+
+Alur kerja yang teratur mengurangi kehilangan berkas. Buat struktur folder berdasarkan proyek dan tanggal, gunakan nama berkas yang konsisten, serta simpan salinan cadangan di lokasi terpisah. Metadata dapat membantu pencarian, tetapi juga mungkin memuat informasi lokasi atau perangkat yang sebaiknya tidak dibagikan sembarangan. Periksa metadata sebelum mengunggah foto ke ruang publik.
+
+Pilih format penyimpanan berdasarkan kebutuhan. Berkas mentah memberi ruang penyuntingan lebih besar tetapi membutuhkan kapasitas dan perangkat lunak yang sesuai. Format terkompresi lebih praktis untuk distribusi, namun dapat mengurangi informasi gambar. Simpan versi master dan versi publikasi secara terpisah agar perubahan untuk satu media tidak merusak arsip utama.
+
+LATIHAN DAN PROYEK
+
+1. Bagaimana arah dan ukuran sumber cahaya memengaruhi bayangan?
+2. Mengapa perspektif terutama berubah karena posisi kamera?
+3. Kapan latar yang tajam lebih bermanfaat daripada latar kabur?
+4. Apa perbedaan penyuntingan korektif dan perubahan dokumenter?
+5. Mengapa metadata perlu diperiksa sebelum foto dibagikan?
+
+Proyek: buat esai foto tentang ruang belajar atau kegiatan lingkungan yang aman dan mendapat izin. Rencanakan urutan gambar, variasikan jarak pengambilan, tulis keterangan yang faktual, dan simpan catatan penyuntingan. Minta pembaca menilai apakah rangkaian gambar menyampaikan konteks secara utuh.

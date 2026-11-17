@@ -70,6 +70,8 @@ LATIHAN
 Mengapa unsur dalam satu golongan dapat memiliki sifat kimia yang mirip? Sebutkan perbedaan umum logam dan nonlogam.
 
 BAB 4 — MOLEKUL DAN IKATAN KIMIA
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/ikatan-molekul.svg|Model konseptual ikatan kovalen, ion, dan hidrogen.]]
 Atom dapat bergabung melalui ikatan kimia untuk mencapai susunan yang lebih stabil. Ikatan ion terbentuk melalui tarikan elektrostatik antara ion bermuatan berlawanan. Senyawa ion sering tersusun sebagai kisi kristal, bukan molekul terpisah. Natrium klorida merupakan contoh senyawa ionik.
 
 Ikatan kovalen terbentuk ketika atom berbagi pasangan elektron. Molekul air dan karbon dioksida memiliki ikatan kovalen. Ikatan dapat bersifat polar jika pembagian elektron tidak merata. Kepolaran molekul ditentukan oleh kepolaran ikatan dan bentuk molekul secara keseluruhan.

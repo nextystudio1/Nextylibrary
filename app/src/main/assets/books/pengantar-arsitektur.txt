@@ -41,6 +41,8 @@ LATIHAN PEMAHAMAN
 
 BAB 2. FUNGSI DAN ORGANISASI RUANG
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/denah-arsitektur.svg|Contoh denah konseptual dan pembagian zona ruang.]]
+
 Program ruang adalah daftar kebutuhan ruang beserta ukuran, hubungan, dan karakter penggunaannya. Ruang yang saling berkaitan sebaiknya ditempatkan dengan alur masuk akal. Sirkulasi perlu jelas agar orang dapat berpindah tanpa konflik. Zonasi dapat memisahkan kegiatan publik, privat, dan servis sambil mempertimbangkan akses.
 
 BAB 3. BENTUK, SKALA, DAN PROPORSI

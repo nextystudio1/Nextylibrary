@@ -31,6 +31,8 @@ Panas berpindah melalui konduksi, konveksi, dan radiasi. Material, ketebalan, wa
 
 BAB 3. VENTILASI DAN KUALITAS UDARA
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/ventilasi-bangunan.svg|Diagram aliran udara masuk dan keluar dalam ruang.]]
+
 Ventilasi mengganti udara dalam ruang dan membantu mengendalikan kelembapan serta polutan. Ventilasi alami dipengaruhi angin dan perbedaan suhu, sedangkan ventilasi mekanis menggunakan peralatan. Desain perlu memperhatikan kualitas udara luar dan kebutuhan pengguna.
 
 BAB 4. PENCAHAYAAN

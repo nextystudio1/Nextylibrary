@@ -42,6 +42,8 @@ LATIHAN PEMAHAMAN
 
 BAB 2. STRUKTUR DAN FUNGSI SEL MIKROBA
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/sel-mikroba.svg|Ilustrasi umum bakteri, khamir, dan virus; bukan perbandingan ukuran.]]
+
 Sel mikroba memiliki susunan yang beragam. Bakteri dan arkea termasuk prokariota: materi genetik utamanya berada di wilayah nukleoid dan tidak dibungkus membran inti. Sel eukariotik, termasuk ragi, kapang, dan protozoa, memiliki inti serta organel bermembran. Virus bukan sel; partikel virus terdiri atas materi genetik yang dilindungi kapsid dan pada sebagian jenis memiliki selubung.
 Membran plasma menjadi batas selektif yang mengatur masuk-keluarnya zat dan menjadi tempat berbagai proses energi. Sitoplasma menjadi ruang berlangsungnya reaksi sel. Ribosom menyusun protein. Pada bakteri, dinding sel umumnya mengandung peptidoglikan, sedangkan arkea memiliki susunan dinding yang berbeda. Perbedaan ini penting dalam klasifikasi dan respons terhadap lingkungan.
 Bentuk sel dapat berupa kokus, basil, atau spiral, tetapi bentuk saja tidak cukup untuk menentukan spesies. Pengamatan laboratorium menggabungkan ciri morfologi, pewarnaan, karakter fisiologis, dan metode molekuler. Hasil identifikasi harus disertai metode karena tiap metode memiliki keterbatasan.

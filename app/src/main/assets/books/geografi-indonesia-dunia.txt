@@ -47,6 +47,8 @@ Pilih satu masalah di lingkungan sekitar dan susun empat pertanyaan geografi ten
 
 BAB 2. PETA, SKALA, DAN SISTEM INFORMASI GEOGRAFIS
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/peta-gis.svg|Contoh lapisan data geografis yang dapat digabungkan dalam sistem informasi geografis.]]
+
 [[NEXTY_IMAGE|file:///android_asset/illustrations/peta-skala.svg|Contoh simbol peta, legenda, dan skala untuk membaca jarak.]]
 Peta adalah representasi permukaan bumi atau bagian darinya pada bidang datar. Karena bumi melengkung, proyeksi peta selalu menimbulkan jenis distorsi tertentu, misalnya pada luas, bentuk, jarak, atau arah. Tidak ada satu proyeksi yang sempurna untuk semua tujuan.
 

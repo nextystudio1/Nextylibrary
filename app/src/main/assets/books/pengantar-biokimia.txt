@@ -27,6 +27,8 @@ LATIHAN
 
 BAB 2. PROTEIN DAN ENZIM
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/protein-enzim.svg|Ilustrasi pelipatan protein dan interaksi substrat dengan situs aktif enzim.]]
+
 [[NEXTY_IMAGE|file:///android_asset/illustrations/enzim-protein.svg|Ilustrasi konsep kerja enzim melalui pengikatan substrat pada situs aktif.]]
 
 Protein tersusun dari asam amino yang terhubung menjadi rantai dan melipat ke bentuk tertentu. Bentuk tiga dimensi berkaitan dengan fungsi. Enzim adalah katalis biologis yang mempercepat reaksi dengan menurunkan energi aktivasi. Aktivitas enzim dipengaruhi suhu, pH, konsentrasi substrat, dan faktor pengatur.

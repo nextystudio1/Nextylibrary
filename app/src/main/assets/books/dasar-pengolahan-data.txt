@@ -252,3 +252,31 @@ LATIHAN PENDALAMAN
 3. Sebutkan enam dimensi kualitas data.
 4. Mengapa data anonim dapat berisiko diidentifikasi ulang?
 5. Apa manfaat kamus data dan dokumentasi transformasi?
+BAB LANJUTAN. PENGUJIAN KUALITAS DAN ANALISIS YANG DAPAT DIPERTANGGUNGJAWABKAN
+
+Kualitas data tidak cukup dinilai dari banyaknya baris. Data yang besar tetap dapat menghasilkan kesimpulan keliru apabila definisi variabel berubah, cara pengumpulan tidak konsisten, atau kelompok tertentu tidak terwakili. Karena itu, pemeriksaan perlu dilakukan pada tingkat baris, kolom, dan keseluruhan kumpulan data. Pada tingkat baris, periksa apakah satu pengamatan memiliki identitas dan nilai yang masuk akal. Pada tingkat kolom, periksa tipe, satuan, rentang, serta pola nilai kosong. Pada tingkat kumpulan, periksa cakupan waktu, populasi, dan konsistensi antarperiode.
+
+Validasi dapat menggunakan aturan yang ditetapkan sebelum analisis. Misalnya, tanggal kunjungan tidak boleh berada di masa depan apabila laporan hanya mencakup bulan yang sudah selesai. Jumlah buku yang dipinjam tidak boleh negatif. Kode kategori harus berasal dari daftar yang disepakati. Aturan tersebut bukan alasan otomatis untuk menghapus baris. Nilai yang gagal validasi harus ditandai, ditelusuri ke sumber, lalu diperbaiki hanya jika terdapat bukti yang memadai. Jika tidak dapat dipastikan, simpan nilai asli dan catat status ketidakpastiannya.
+
+Perhatikan perbedaan antara kesalahan, nilai ekstrem, dan variasi yang sah. Pengunjung perpustakaan yang jauh lebih banyak pada hari tertentu mungkin disebabkan acara sekolah. Menghapus angka itu hanya karena berbeda dari rata-rata akan menghilangkan informasi penting. Grafik sebar, ringkasan kuartil, dan pemeriksaan catatan kegiatan dapat membantu memahami penyebab nilai ekstrem. Metode statistik untuk mendeteksi pencilan sebaiknya dipakai sebagai penanda pemeriksaan, bukan keputusan penghapusan otomatis.
+
+Sebelum menggabungkan dua tabel, tentukan hubungan antarentitas. Tabel transaksi mungkin memiliki banyak baris untuk satu anggota, sedangkan tabel anggota hanya memiliki satu baris per ID. Penggabungan berdasarkan nama berisiko karena nama dapat sama atau ditulis berbeda. Kunci unik lebih tepat. Setelah penggabungan, hitung jumlah baris, jumlah ID unik, dan jumlah nilai yang tidak menemukan pasangan. Jika jumlah baris meningkat tidak wajar, periksa apakah tabel referensi memiliki kunci ganda.
+
+Analisis deskriptif merangkum data yang diamati. Rata-rata peka terhadap nilai ekstrem, sedangkan median lebih tahan terhadap pencilan. Proporsi harus selalu menyebut pembilang dan penyebut. Perbandingan dua kelompok juga perlu memperhatikan ukuran kelompok dan periode pengamatan. Kenaikan jumlah kejadian tidak selalu berarti risiko meningkat apabila jumlah orang yang terpapar juga bertambah. Dalam keadaan demikian, angka laju atau rasio mungkin lebih informatif daripada jumlah mentah.
+
+Korelasi menunjukkan keterkaitan pola, bukan dengan sendirinya hubungan sebab-akibat. Dua variabel dapat bergerak bersama karena dipengaruhi faktor ketiga, karena arah pengaruh terbalik, atau karena kebetulan. Klaim kausal memerlukan rancangan dan asumsi yang lebih kuat, misalnya eksperimen yang layak atau strategi observasional yang menjelaskan faktor perancu. Laporan yang baik menyatakan apa yang dapat disimpulkan dan apa yang belum dapat dijawab oleh data.
+
+Dokumentasi analisis sebaiknya memuat tujuan, asal data, tanggal pengambilan, definisi variabel, aturan pembersihan, perangkat dan versi yang digunakan, langkah transformasi, serta keputusan yang dibuat. Simpan data mentah secara terpisah dan batasi akses sesuai kebutuhan. Jika data memuat informasi pribadi, hapus atau samarkan pengenal langsung sebelum dibagikan, dan pastikan penggabungan beberapa kolom tidak memungkinkan identifikasi ulang secara mudah.
+
+CONTOH KERJA TERPADU
+Sebuah perpustakaan ingin mengetahui apakah program membaca sore meningkatkan peminjaman. Tim mengumpulkan data peminjaman selama dua bulan sebelum dan dua bulan sesudah program. Pertama, tim menyamakan definisi transaksi, memeriksa kalender libur, dan memastikan tanggal tercatat konsisten. Kedua, tim memeriksa ID transaksi ganda dan membedakan pembatalan dari peminjaman selesai. Ketiga, tim menghitung peminjaman per minggu serta jumlah pengunjung aktif. Keempat, tim membuat grafik runtun waktu dan memberi penanda tanggal kegiatan khusus. Kelima, tim membandingkan pola dengan hati-hati karena perubahan koleksi, musim ujian, atau promosi lain juga dapat memengaruhi hasil. Kesimpulan yang tepat mungkin menyatakan adanya kenaikan setelah program, tetapi belum memastikan program menjadi satu-satunya penyebab.
+
+LATIHAN DAN PEMBAHASAN
+1. Sebuah kolom umur berisi angka 8, 9, 10, dan 999. Apa langkah yang tepat? Pembahasan: tandai 999 sebagai nilai yang perlu diverifikasi. Jangan langsung menggantinya; periksa sumber dan aturan pengisian.
+2. Rata-rata waktu membaca naik, tetapi median tetap. Apa kemungkinan penjelasannya? Pembahasan: beberapa nilai sangat tinggi mungkin menaikkan rata-rata. Periksa distribusi dan nilai ekstrem.
+3. Mengapa jumlah baris dapat bertambah setelah penggabungan tabel? Pembahasan: kunci pada salah satu tabel mungkin tidak unik sehingga satu baris berpasangan dengan beberapa baris lain.
+4. Apakah korelasi antara jumlah iklan dan penjualan membuktikan iklan menyebabkan penjualan? Pembahasan: tidak. Musim, harga, distribusi, dan faktor lain dapat memengaruhi keduanya.
+5. Sebutkan empat unsur dokumentasi yang memungkinkan analisis ditinjau ulang. Pembahasan: sumber dan tanggal data, definisi variabel, aturan pembersihan, serta langkah transformasi dan analisis.
+
+PROYEK MINI
+Buat dataset kecil berisi sedikitnya 20 catatan kegiatan belajar fiktif dengan variabel tanggal, durasi, jenis kegiatan, dan penilaian pemahaman. Tetapkan kamus data dan aturan validasi sebelum membuat data. Sisipkan beberapa kesalahan yang aman untuk latihan, seperti format tanggal tidak seragam atau satu kategori salah eja. Bersihkan salinan data, simpan catatan perubahan, lalu buat satu tabel ringkasan dan satu grafik. Tulis laporan singkat yang membedakan temuan, keterbatasan, dan pertanyaan lanjutan. Jangan memasukkan nama, nomor telepon, atau informasi pribadi nyata.

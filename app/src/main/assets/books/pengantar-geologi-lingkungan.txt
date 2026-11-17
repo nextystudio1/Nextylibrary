@@ -190,3 +190,27 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa intervensi pantai dapat memindahkan risiko? Karena aliran sedimen dan energi gelombang terhubung sepanjang pesisir.
 4. Apa tiga unsur pembentuk risiko bencana? Bahaya, paparan, dan kerentanan.
 5. Mengapa pemulihan lahan perlu pemantauan? Karena perubahan dan perpindahan pencemar dapat berlangsung dalam jangka panjang.
+BAB LANJUTAN 1. AIR TANAH DAN SISTEM AKUIFER
+
+Air tanah tersimpan dan bergerak melalui pori batuan atau rekahan. Lapisan yang dapat menyimpan serta mengalirkan air disebut akuifer, sedangkan lapisan dengan kemampuan aliran rendah dapat menjadi pembatas. Porositas menunjukkan bagian ruang kosong dalam material; permeabilitas berkaitan dengan kemampuan material meloloskan fluida. Keduanya berhubungan tetapi tidak identik: material dapat memiliki banyak pori kecil yang saling tidak terhubung sehingga aliran tetap terbatas.
+
+Air tanah bergerak mengikuti gradien hidraulik dari energi potensial lebih tinggi menuju lebih rendah. Pemompaan dapat menurunkan muka air di sekitar sumur dan membentuk kerucut penurunan. Jika pengambilan melebihi imbuhan dalam jangka panjang, muka air dapat terus turun, sumur dangkal mengering, atau terjadi dampak lain seperti penurunan tanah pada kondisi geologi tertentu. Penilaian harus menggunakan data pemantauan dan kajian hidrogeologi setempat.
+
+BAB LANJUTAN 2. PELAPUKAN, EROSI, DAN PEMBENTUKAN TANAH
+
+Pelapukan adalah perubahan batuan di tempatnya melalui proses fisik, kimia, dan biologis. Perubahan suhu, pembekuan air dalam rekahan, reaksi mineral dengan air, serta aktivitas organisme dapat memperlemah batuan. Erosi berbeda dari pelapukan karena melibatkan pelepasan dan pemindahan material oleh air, angin, es, atau gravitasi.
+
+Tanah terbentuk dari interaksi bahan induk, iklim, organisme, relief, dan waktu. Lapisan tanah dapat memiliki karakter berbeda dalam kandungan bahan organik, tekstur, struktur, dan mineral. Penggunaan lahan yang menghilangkan tutupan vegetasi atau mengganggu struktur tanah dapat meningkatkan limpasan dan erosi. Pengelolaan konservasi tanah mempertahankan tutupan, mengatur aliran permukaan, dan menyesuaikan kegiatan dengan kemiringan serta karakter tanah.
+
+BAB LANJUTAN 3. PENILAIAN BAHAYA GEOLOGI BERBASIS BUKTI
+
+Bahaya geologi mencakup gempa bumi, gerakan tanah, aktivitas vulkanik, banjir terkait proses geologi, dan penurunan tanah. Bahaya merupakan potensi kejadian; bencana terjadi ketika bahaya berinteraksi dengan paparan dan kerentanan sehingga menimbulkan dampak. Peta bahaya tidak boleh dibaca sebagai ramalan waktu kejadian. Peta menunjukkan pola atau tingkat potensi berdasarkan data dan metode tertentu.
+
+Kajian yang baik mencantumkan skala peta, tanggal data, metode, ketidakpastian, dan batas interpretasi. Keputusan tata ruang perlu memadukan informasi geologi dengan kepadatan penduduk, kualitas bangunan, akses evakuasi, serta kapasitas layanan. Informasi teknis harus diterjemahkan menjadi komunikasi yang dapat dipahami masyarakat dan mengikuti arahan lembaga kebencanaan resmi.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Bedakan porositas dan permeabilitas.
+2. Jelaskan bagaimana pemompaan dapat mengubah muka air tanah.
+3. Bedakan pelapukan dan erosi.
+4. Mengapa peta bahaya bukan prediksi waktu kejadian?
+5. Sebutkan data sosial yang perlu dipadukan dengan data geologi dalam perencanaan wilayah.

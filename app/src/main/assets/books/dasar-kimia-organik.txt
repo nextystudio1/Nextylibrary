@@ -320,3 +320,52 @@ Kimia hijau mendorong rancangan proses yang mengurangi limbah, bahaya, penggunaa
 
 Informasi bahaya harus dibaca dari label dan lembar data keselamatan yang sah. Bahan tidak boleh dicampur atau diuji berdasarkan dugaan. Kegiatan pembelajaran sebaiknya menggunakan simulasi atau demonstrasi yang dirancang dan diawasi tenaga kompeten. Praktik laboratorium menuntut prosedur, alat pelindung, ventilasi, dan pengelolaan limbah yang sesuai.
 
+BAB LANJUTAN: STRUKTUR, REAKTIVITAS, DAN ANALISIS SENYAWA ORGANIK
+
+Representasi struktur molekul
+
+Rumus molekul menunjukkan jumlah atom, tetapi tidak selalu menjelaskan bagaimana atom tersusun. Isomer memiliki rumus molekul sama namun susunan atau orientasi ruang berbeda, sehingga sifatnya dapat berbeda. Rumus struktur memperlihatkan keterhubungan atom, sedangkan rumus rangka menyederhanakan rantai karbon. Pembaca perlu memahami konvensi garis, sudut, atom karbon yang tidak ditulis, serta atom hidrogen yang tersirat.
+
+Model tiga dimensi membantu memahami bentuk molekul dan stereokimia. Rotasi ikatan tunggal dapat menghasilkan konformasi berbeda tanpa memutus ikatan. Isomer geometri dan enantiomer memiliki perbedaan susunan ruang yang penting pada sifat fisik maupun interaksi biologis. Dua molekul yang tampak hampir sama pada gambar dua dimensi dapat berinteraksi sangat berbeda dengan sistem biologis.
+
+Gugus fungsi dan sifat senyawa
+
+Gugus fungsi adalah bagian struktur yang memberi pola reaktivitas khas. Alkohol memiliki gugus hidroksil, aldehida dan keton memiliki gugus karbonil dengan lingkungan berbeda, asam karboksilat memiliki gugus karboksil, sedangkan ester memiliki hubungan karbonil dengan atom oksigen penghubung. Amina mengandung nitrogen dengan pasangan elektron bebas yang memengaruhi sifat basa dan interaksi.
+
+Nama gugus fungsi membantu mengelompokkan senyawa, tetapi tidak menggantikan analisis struktur keseluruhan. Panjang rantai, percabangan, ikatan rangkap, dan gugus lain dapat mengubah titik didih, kelarutan, serta reaktivitas. Molekul yang memiliki bagian polar dan nonpolar dapat menunjukkan perilaku berbeda pada air maupun pelarut lain.
+
+Polaritas dan gaya antarmolekul
+
+Ikatan polar muncul ketika elektron dibagi tidak merata. Bentuk molekul menentukan apakah momen dipol ikatan saling meniadakan atau menghasilkan molekul polar. Gaya antarmolekul mencakup dispersi London, interaksi dipol-dipol, dan ikatan hidrogen. Gaya tersebut membantu menjelaskan perbedaan titik didih, viskositas, dan kecenderungan suatu zat bercampur.
+
+Aturan sederhana seperti “yang serupa melarutkan yang serupa” merupakan panduan awal, bukan hukum tanpa pengecualian. Kelarutan dipengaruhi ukuran molekul, kemampuan membentuk interaksi, suhu, dan komposisi campuran. Dalam sistem biologis, molekul sering memiliki bagian yang menyukai air dan bagian yang berinteraksi dengan lingkungan nonpolar.
+
+Asam, basa, dan kestabilan
+
+Dalam kimia organik, asam dan basa dapat dipahami melalui perpindahan proton atau pasangan elektron. Kekuatan asam dipengaruhi kestabilan basa konjugat. Muatan dapat distabilkan oleh resonansi, efek induktif, dan lingkungan pelarut. Resonansi merupakan cara menggambarkan delokalisasi elektron, bukan perpindahan atom di antara beberapa struktur yang berganti-ganti.
+
+Konsep pKa membantu membandingkan kecenderungan melepas proton. Pada kesetimbangan, posisi relatif bergantung pada kekuatan asam dan basa di kedua sisi serta kondisi medium. Nilai numerik harus digunakan dengan memperhatikan pelarut dan kondisi pengukuran; angka dari lingkungan berbeda tidak selalu dapat dibandingkan langsung.
+
+Gambaran umum mekanisme reaksi
+
+Mekanisme reaksi menjelaskan urutan perubahan ikatan dan perpindahan elektron. Panah lengkung digunakan untuk menunjukkan perpindahan pasangan elektron, bukan lintasan atom. Mekanisme membantu menjawab mengapa produk tertentu terbentuk dan faktor apa yang memengaruhi laju atau selektivitas. Dalam pembelajaran, mekanisme sebaiknya dipahami melalui konsep umum seperti kestabilan relatif, hambatan ruang, polaritas, dan kondisi reaksi.
+
+Reaksi substitusi, adisi, eliminasi, oksidasi, dan reduksi merupakan keluarga transformasi yang sering dijumpai. Klasifikasi ini memudahkan pembaca mengenali perubahan struktur tanpa menghafal daftar reaksi secara terpisah. Hasil aktual dapat dipengaruhi banyak faktor dan memerlukan data eksperimen atau rujukan tepercaya. Pembahasan konseptual tidak boleh diperlakukan sebagai petunjuk melakukan reaksi berbahaya di luar laboratorium yang sesuai.
+
+Polimer dan material organik
+
+Polimer tersusun dari unit berulang yang membentuk rantai atau jaringan. Sifat material bergantung pada struktur monomer, panjang rantai, percabangan, ikatan silang, kristalinitas, dan aditif. Polimer termoplastik dapat dilunakkan kembali pada kondisi tertentu, sedangkan polimer termoset membentuk jaringan yang tidak mudah dilelehkan ulang. Elastomer memiliki kemampuan deformasi elastis yang khas.
+
+Pemilihan polimer harus mempertimbangkan fungsi, ketahanan, suhu kerja, kontak dengan makanan atau tubuh, serta akhir masa pakai. Daur ulang mekanis dapat menurunkan mutu setelah beberapa siklus, sementara daur ulang kimia memiliki kebutuhan energi dan pengendalian proses sendiri. Penilaian lingkungan memerlukan analisis daur hidup, bukan hanya label “dapat didaur ulang”.
+
+Kimia organik dalam kehidupan
+
+Karbohidrat, lipid, protein, vitamin, obat, pewangi, dan banyak bahan alam mengandung kerangka karbon. Struktur menentukan interaksi dan fungsi, tetapi pengaruhnya berlangsung dalam sistem kompleks. Aktivitas biologis tidak dapat disimpulkan hanya dari kemiripan satu gugus fungsi. Metabolisme, dosis, jalur paparan, dan kondisi organisme juga penting.
+
+Dalam industri pangan, kimia organik membantu menjelaskan aroma, warna, tekstur, oksidasi lemak, dan perubahan selama penyimpanan. Dalam material, ia membantu merancang perekat, serat, pelapis, dan polimer. Dalam lingkungan, konsep degradasi dan persistensi digunakan untuk memahami nasib senyawa setelah dilepaskan. Semua penerapan membutuhkan penilaian keselamatan dan dampak sepanjang siklus hidup.
+
+Analisis dan literasi laboratorium
+
+Identifikasi senyawa dapat menggunakan beberapa teknik yang saling melengkapi. Spektroskopi inframerah memberi informasi tentang getaran ikatan dan gugus fungsi. Spektroskopi NMR membantu menilai lingkungan atom tertentu. Spektrometri massa memberi informasi massa ion dan pola fragmentasi. Kromatografi membantu memisahkan campuran sebelum analisis lebih lanjut. Tidak satu pun teknik selalu cukup untuk menetapkan struktur tanpa interpretasi dan kontrol mutu.
+
+Data laboratorium harus mencantumkan metode, kalibrasi, kondisi, satuan, batas deteksi, dan ketidakpastian. Sampel pembanding dan blanko membantu mengenali kontaminasi atau gangguan. Hasil yang tidak sesuai dugaan tidak boleh dihapus; periksa prosedur, alat, dan kemungkinan penjelasan alternatif. Praktik keselamatan, pengelolaan limbah, dan pengawasan kompeten merupakan bagian tak terpisahkan dari ilmu kimia.

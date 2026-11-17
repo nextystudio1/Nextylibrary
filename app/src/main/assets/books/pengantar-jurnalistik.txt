@@ -298,3 +298,40 @@ LATIHAN BAB
 3. Sebutkan unsur penting saat memeriksa dokumen publik.
 4. Mengapa koreksi tidak sebaiknya dilakukan diam-diam?
 5. Bagaimana redaksi melindungi identitas narasumber rentan?
+
+BAB PENDALAMAN: VERIFIKASI DIGITAL DAN PEMERIKSAAN SUMBER
+
+Informasi digital dapat disalin dan disebarkan sangat cepat, tetapi kecepatan bukan ukuran kebenaran. Verifikasi dimulai dengan memisahkan klaim utama menjadi bagian yang dapat diperiksa. Siapa yang membuat klaim, kapan dan di mana peristiwa disebut terjadi, bukti apa yang tersedia, serta sumber independen mana yang dapat mengonfirmasi merupakan pertanyaan awal yang berguna.
+
+Foto dan video perlu diperiksa konteksnya. Gambar lama dapat digunakan kembali untuk menggambarkan peristiwa baru, sedangkan keterangan lokasi dapat keliru. Pencarian asal-usul gambar, pemeriksaan petunjuk visual, dan perbandingan dengan sumber lain dapat membantu, tetapi tidak selalu menghasilkan kepastian. Jangan menyimpulkan lokasi atau identitas seseorang hanya dari petunjuk yang lemah.
+
+Dokumen digital juga perlu dinilai asal dan integritasnya. Periksa apakah dokumen berasal dari lembaga yang disebut, apakah tanggal dan versinya jelas, dan apakah bagian penting dihilangkan. Jika meminta konfirmasi kepada pihak terkait, sampaikan klaim secara adil dan beri kesempatan menjawab. Catat siapa yang dihubungi dan kapan.
+
+BAB PENDALAMAN: WAWANCARA DAN PERLINDUNGAN NARASUMBER
+
+Wawancara yang baik dimulai dengan tujuan yang jelas dan persiapan konteks. Pertanyaan terbuka memberi ruang bagi narasumber menjelaskan pengalaman, sedangkan pertanyaan klarifikasi membantu memperjelas waktu, tempat, istilah, dan urutan kejadian. Pertanyaan yang menggiring dapat menghasilkan jawaban yang tidak mencerminkan pandangan narasumber.
+
+Jurnalis perlu menjelaskan tujuan wawancara, penggunaan kutipan, dan batas kerahasiaan sebelum percakapan dimulai. Kesepakatan mengenai anonimitas harus dipahami bersama. Jangan menjanjikan perlindungan yang tidak dapat dipenuhi. Untuk narasumber rentan, pertimbangkan risiko identifikasi tidak langsung melalui pekerjaan, lokasi, hubungan keluarga, atau detail peristiwa.
+
+Catatan dan rekaman harus dikelola dengan aman. Rekaman tidak dibagikan kepada pihak yang tidak berkepentingan. Kutipan diperiksa agar tidak mengubah maksud, dan konteks penting tidak dihilangkan demi judul yang menarik. Jika terjadi kesalahan transkripsi, koreksi sebelum publikasi.
+
+BAB PENDALAMAN: DATA, ANGKA, DAN VISUALISASI BERITA
+
+Angka dapat memberi konteks kuat, tetapi harus diperiksa definisi, satuan, periode, dan sumbernya. Persentase perubahan memerlukan nilai dasar. Rata-rata dapat dipengaruhi nilai ekstrem dan tidak selalu mewakili pengalaman mayoritas. Ketika membandingkan wilayah, pastikan metode pengumpulan dan definisi indikator sebanding.
+
+Grafik berita perlu menunjukkan skala secara jujur. Memotong sumbu dapat membuat perubahan tampak lebih besar, sedangkan pemilihan rentang waktu tertentu dapat menyembunyikan pola. Cantumkan sumber data dan jelaskan bila ada data kosong atau revisi. Visualisasi tidak boleh memperkuat kesimpulan yang tidak didukung data.
+
+BAB PENDALAMAN: ETIKA, KOREKSI, DAN KEPENTINGAN PUBLIK
+
+Kepentingan publik berbeda dari rasa ingin tahu publik. Informasi mengenai keselamatan, penggunaan dana publik, dan keputusan yang memengaruhi masyarakat dapat memiliki nilai publik tinggi. Detail pribadi yang tidak relevan sebaiknya tidak dipublikasikan hanya karena menarik perhatian. Pertimbangkan dampak terhadap anak, korban, dan kelompok rentan.
+
+Konflik kepentingan perlu dikenali dan diungkapkan kepada redaksi. Hadiah, hubungan pribadi, kepentingan bisnis, atau tekanan pihak tertentu dapat memengaruhi independensi. Pemisahan tugas editorial dan komersial membantu menjaga kepercayaan. Keputusan publikasi harus didasarkan pada standar yang konsisten, bukan kedekatan dengan sumber.
+
+Koreksi merupakan bagian dari akuntabilitas. Jika kesalahan ditemukan, jelaskan bagian yang keliru, informasi yang benar, dan waktu pembaruan sesuai kebijakan redaksi. Jangan menghapus jejak perubahan yang penting bagi pembaca. Evaluasi internal membantu menemukan apakah kesalahan muncul karena verifikasi kurang, proses penyuntingan, atau tekanan waktu.
+
+BAB PENDALAMAN: MENYUSUN LIPUTAN BERBASIS BUKTI
+
+Liputan mendalam menggabungkan dokumen, wawancara, data, pengamatan, dan tanggapan pihak terkait. Setiap klaim penting sebaiknya memiliki dasar yang dapat ditelusuri. Buat matriks klaim dan bukti untuk melihat bagian yang sudah kuat dan bagian yang masih memerlukan konfirmasi. Perbedaan keterangan tidak harus disembunyikan; jelaskan apa yang diketahui dan apa yang belum dapat dipastikan.
+
+Sebelum terbit, lakukan pemeriksaan nama, angka, tanggal, kutipan, konteks, hak penggunaan materi, dan risiko keselamatan. Minta penyunting atau rekan yang tidak terlibat dalam pengumpulan data membaca naskah secara kritis. Naskah yang bertanggung jawab tidak berpura-pura mengetahui semua hal. Ia menyajikan bukti secara jelas, memberi ruang bagi konteks, dan menyatakan batas pengetahuan.
+

@@ -343,3 +343,27 @@ LATIHAN
 3. Bagaimana membedakan keluaran dan dampak?
 4. Mengapa klaim promosi harus dapat dibuktikan?
 5. Bagaimana usaha kecil dapat meningkatkan tanggung jawab rantai pasok secara bertahap?
+
+PENDALAMAN: TATA KELOLA, RANTAI PASOK, DAN TANGGUNG JAWAB USAHA
+
+Tata kelola usaha menjelaskan bagaimana keputusan dibuat, siapa yang bertanggung jawab, dan bagaimana konflik kepentingan ditangani. Usaha kecil sekalipun membutuhkan pencatatan yang dapat dipahami oleh pemilik, pekerja, dan mitra. Catatan arus kas, persediaan, utang, keputusan pembelian, serta keluhan pelanggan membantu mencegah kesalahpahaman. Transparansi tidak berarti membuka semua informasi pribadi; informasi yang dibagikan harus relevan dan melindungi data yang bersifat rahasia.
+
+Rantai pasok memperlihatkan bahwa dampak usaha tidak berhenti pada tempat produksi. Bahan baku, transportasi, kemasan, kondisi kerja pemasok, dan pengelolaan sisa dapat memengaruhi masyarakat serta lingkungan. Pemetaan pemasok membantu usaha mengenali titik ketergantungan dan risiko. Jika informasi pemasok terbatas, organisasi dapat memulai dengan pertanyaan dasar, dokumen yang tersedia, dan rencana perbaikan bertahap tanpa membuat klaim yang belum dapat dibuktikan.
+
+Klaim pemasaran harus sesuai bukti. Istilah seperti “ramah lingkungan”, “berkelanjutan”, atau “memberdayakan masyarakat” terlalu luas jika tidak dijelaskan indikatornya. Pernyataan yang lebih dapat diperiksa menyebutkan bagian produk atau proses yang dimaksud, dasar pengukuran, cakupan, dan batas klaim. Kejujuran juga berarti menyampaikan keterbatasan, bukan hanya menonjolkan sisi yang menguntungkan.
+
+Perlindungan konsumen mencakup informasi harga, kualitas, syarat layanan, kebijakan pengembalian, dan penanganan keluhan. Informasi penting sebaiknya tersedia sebelum transaksi, bukan disembunyikan dalam ketentuan yang sulit dipahami. Ketika terjadi kesalahan, usaha perlu memiliki jalur respons, catatan penyelesaian, dan mekanisme belajar agar masalah serupa tidak terus berulang. Keluhan dapat menjadi sumber perbaikan produk apabila ditangani dengan hormat.
+
+Etika kerja meliputi pembagian tugas yang jelas, keselamatan, penghargaan terhadap waktu, perlakuan adil, serta ruang menyampaikan masalah tanpa intimidasi. Pada usaha yang melibatkan relawan atau komunitas, status dan harapan kerja harus diterangkan agar kontribusi tidak dieksploitasi. Misi sosial tidak membenarkan praktik yang merugikan pekerja atau mitra. Keberlanjutan finansial dan tanggung jawab sosial harus dirancang bersama.
+
+Pengukuran dampak perlu membedakan aktivitas, keluaran, dan hasil. Jumlah produk yang terjual adalah keluaran bisnis, tetapi belum menjelaskan apakah tujuan sosial tercapai. Usaha dapat menetapkan indikator yang relevan, mengumpulkan data secara proporsional, dan meminta umpan balik dari kelompok terdampak. Jika hasil tidak sesuai harapan, organisasi perlu mengubah rancangan atau bahkan menghentikan pendekatan yang merugikan.
+
+Studi kasus: usaha kecil membuat produk dari bahan sisa produksi lokal. Tim memeriksa konsistensi pasokan, keamanan dan ketahanan bahan, kebutuhan pengguna, serta biaya kerja. Mereka menjelaskan secara spesifik bagian yang menggunakan bahan sisa dan tidak mengklaim seluruh produk bebas dampak lingkungan. Tim juga menyepakati harga dan jadwal dengan pemasok, menguji produk bersama pengguna, serta mencatat keluhan untuk perbaikan.
+
+LATIHAN PENDALAMAN
+1. Buat peta rantai pasok dan identifikasi tiga risiko tanggung jawab.
+2. Ubah klaim promosi yang terlalu luas menjadi klaim yang dapat diverifikasi.
+3. Susun prosedur penanganan keluhan pelanggan.
+4. Bedakan indikator aktivitas, keluaran, hasil, dan dampak.
+5. Buat rencana perbaikan etika kerja untuk usaha kecil.
+

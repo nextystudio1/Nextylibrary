@@ -341,3 +341,52 @@ Keputusan renovasi perlu membandingkan biaya awal dengan penghematan selama umur
 
 Rencana peningkatan kinerja sebaiknya memiliki urutan prioritas: perbaikan operasi dan pemeliharaan, pengurangan beban melalui desain pasif, peningkatan sistem, lalu pemantauan hasil. Perubahan perlu melibatkan pengelola dan penghuni karena perilaku penggunaan memengaruhi kinerja aktual. Evaluasi setelah renovasi memastikan hasil sesuai tujuan.
 
+BAB LANJUTAN: KENYAMANAN TERMAL, SISTEM BANGUNAN, DAN AUDIT ENERGI
+
+Kenyamanan termal dan perilaku penghuni
+
+Kenyamanan termal dipengaruhi suhu udara, suhu radiasi permukaan, kelembapan, kecepatan udara, pakaian, dan aktivitas. Karena itu, satu angka suhu tidak selalu menggambarkan pengalaman semua penghuni. Orang yang melakukan aktivitas fisik, berada dekat jendela panas, atau memiliki kebutuhan khusus dapat merasakan kondisi berbeda. Evaluasi bangunan perlu menggabungkan pengukuran lingkungan dan umpan balik pengguna.
+
+Desain pasif dapat mengurangi kebutuhan energi dengan mengatur orientasi, peneduhan, ventilasi, insulasi, massa termal, dan pemilihan kaca. Strategi yang tepat bergantung pada iklim, kebisingan, kualitas udara luar, kelembapan, dan pola penggunaan. Ventilasi alami, misalnya, tidak selalu cocok ketika udara luar tercemar atau kondisi cuaca tidak mendukung. Desain yang baik menimbang kenyamanan, kesehatan, dan konsumsi energi secara bersamaan.
+
+Selubung bangunan
+
+Selubung bangunan memisahkan ruang dalam dari lingkungan luar. Atap, dinding, lantai, jendela, pintu, dan sambungan memengaruhi perpindahan panas serta masuknya udara dan air. Insulasi mengurangi aliran panas melalui elemen bangunan, sedangkan peneduhan mengurangi radiasi matahari yang masuk melalui bukaan. Kebocoran udara dapat meningkatkan beban pendinginan atau pemanasan dan menimbulkan masalah kelembapan.
+
+Perbaikan selubung perlu memperhatikan pengendalian uap air dan pencegahan kondensasi. Menambah lapisan tanpa memahami aliran kelembapan dapat memindahkan titik kondensasi ke bagian yang tidak diinginkan. Detail sambungan, kualitas pemasangan, dan pemeliharaan sama pentingnya dengan spesifikasi bahan. Penilaian sebaiknya dilakukan oleh tenaga kompeten untuk pekerjaan yang memengaruhi keselamatan atau struktur.
+
+Sistem pendinginan dan ventilasi
+
+Sistem pendingin mengatur kondisi termal, sementara ventilasi menyediakan pertukaran udara sesuai kebutuhan ruang. Keduanya berkaitan tetapi tidak identik. Ruangan dapat terasa sejuk namun kualitas udara dalam ruang tetap buruk jika udara segar tidak memadai. Sebaliknya, ventilasi yang besar dapat meningkatkan beban pendinginan ketika udara luar panas dan lembap.
+
+Kinerja sistem dipengaruhi pemilihan kapasitas, kontrol, distribusi udara, kondisi filter, kebocoran saluran, dan jadwal operasi. Peralatan yang terlalu besar dapat sering hidup-mati dan tidak selalu bekerja efisien. Pengaturan suhu yang konsisten, pemeliharaan terjadwal, serta penyesuaian jam operasi berdasarkan okupansi dapat membantu mengurangi pemborosan. Perubahan kontrol perlu diuji bersama penghuni agar kenyamanan tidak menurun.
+
+Pencahayaan alami dan buatan
+
+Pencahayaan alami dapat mengurangi kebutuhan lampu pada siang hari, tetapi perlu dikendalikan agar tidak menimbulkan silau dan beban panas. Orientasi bukaan, kedalaman ruang, reflektansi permukaan, dan perangkat peneduh memengaruhi distribusi cahaya. Pencahayaan buatan perlu disesuaikan dengan jenis aktivitas, kebutuhan visual, dan kualitas warna.
+
+Sistem kontrol dapat menggunakan sensor keberadaan, sensor cahaya siang, pengaturan zona, atau jadwal. Sensor yang salah posisi dapat mematikan lampu ketika masih diperlukan atau menyalakannya tanpa kebutuhan. Evaluasi dilakukan melalui pengamatan pola penggunaan dan pengukuran iluminansi pada bidang kerja, bukan hanya berdasarkan daya lampu yang tercantum.
+
+Audit energi dan garis dasar
+
+Audit energi mengidentifikasi penggunaan energi, pola operasi, dan peluang perbaikan. Mulailah dengan mengumpulkan tagihan, data meter, luas bangunan, jam operasi, jumlah penghuni, serta inventaris peralatan. Tetapkan periode dasar yang representatif dan catat perubahan fungsi atau tingkat hunian. Konsumsi total perlu dinormalisasi bila ingin membandingkan bangunan dengan ukuran atau jadwal berbeda.
+
+Submeter dapat membantu memisahkan konsumsi pendingin, pencahayaan, pompa, dan peralatan lain. Namun, data meter harus diperiksa terhadap satuan, interval, dan kemungkinan kehilangan catatan. Pengukuran sesaat tidak selalu mewakili pola tahunan. Kombinasikan data historis, pengukuran lapangan, wawancara operator, dan pemeriksaan jadwal operasi.
+
+Menilai peluang penghematan
+
+Setiap peluang perlu dinilai berdasarkan penghematan energi, biaya awal, biaya pemeliharaan, umur manfaat, kenyamanan, dan risiko pelaksanaan. Penggantian lampu dapat relatif sederhana, sedangkan perbaikan sistem pendingin mungkin membutuhkan perencanaan lebih rinci. Perhitungan biaya siklus hidup membantu membandingkan opsi yang memiliki biaya awal dan biaya operasi berbeda.
+
+Hati-hati terhadap klaim persentase penghematan yang tidak menyebut kondisi dasar. Hasil dipengaruhi cuaca, okupansi, jadwal, tarif, dan perilaku pengguna. Setelah tindakan diterapkan, lakukan pengukuran dan penyesuaian terhadap faktor yang berubah. Catat metode verifikasi agar hasil dapat diperiksa oleh pihak lain.
+
+Kualitas udara dan kesehatan penghuni
+
+Kualitas udara dalam ruang dipengaruhi sumber polutan, ventilasi, kelembapan, kegiatan penghuni, bahan bangunan, dan pemeliharaan. Sumber dapat berupa partikel dari luar, produk pembersih, proses memasak, kelembapan berlebih, atau emisi bahan. Strategi pengendalian dimulai dengan mengurangi sumber, kemudian memastikan ventilasi dan filtrasi sesuai kebutuhan.
+
+Pemantauan indikator seperti karbon dioksida dapat memberi petunjuk tentang kecukupan ventilasi dalam konteks tertentu, tetapi bukan ukuran lengkap seluruh polutan. Sensor murah memiliki keterbatasan akurasi dan perlu ditempatkan serta dirawat dengan benar. Bila ada dugaan masalah kesehatan atau kontaminan tertentu, diperlukan pemeriksaan yang sesuai oleh tenaga kompeten.
+
+Rencana pengelolaan energi bangunan
+
+Pengelolaan energi memerlukan kebijakan, penanggung jawab, target, anggaran, dan sistem pencatatan. Operator perlu memiliki prosedur untuk mengatur jadwal, merespons keluhan, mencatat gangguan, dan memeriksa hasil tindakan. Penghuni perlu memperoleh informasi sederhana tentang penggunaan ruang dan perangkat tanpa dibebani tanggung jawab yang seharusnya ditangani pengelola.
+
+Bangun siklus perbaikan: ukur kondisi, tentukan prioritas, lakukan tindakan, verifikasi, dan perbarui rencana. Indikator dapat mencakup intensitas energi per luas, konsumsi pada jam tidak aktif, keluhan kenyamanan, dan kejadian gangguan sistem. Target energi harus diseimbangkan dengan kualitas udara, kesehatan, aksesibilitas, dan fungsi bangunan.

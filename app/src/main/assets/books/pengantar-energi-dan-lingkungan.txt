@@ -335,3 +335,39 @@ Data energi harus menjelaskan apakah angka menunjukkan daya, energi, kapasitas t
 
 Saat menyajikan grafik, cantumkan satuan, sumber, rentang waktu, dan definisi indikator. Perubahan persentase perlu dibedakan dari perubahan absolut. Peningkatan persentase yang besar dari basis kecil belum tentu lebih besar secara kuantitas dibanding perubahan kecil dari basis besar. Literasi data membantu pembaca menilai klaim energi secara kritis.
 
+BAB PENDALAMAN: SIKLUS HIDUP SISTEM ENERGI
+
+Penilaian sistem energi tidak berhenti pada saat listrik atau panas digunakan. Setiap teknologi memiliki siklus hidup yang mencakup pengambilan bahan baku, pemrosesan, manufaktur, transportasi, pemasangan, operasi, pemeliharaan, dan akhir masa pakai. Panel surya, turbin angin, baterai, pembangkit berbahan bakar, dan jaringan listrik memiliki profil dampak yang berbeda pada setiap tahap. Karena itu, perbandingan yang adil harus menggunakan batas sistem dan satuan fungsi yang sama.
+
+Satuan fungsi menjelaskan layanan yang dibandingkan. Membandingkan satu unit mesin dengan satu unit panel tidak bermakna jika kapasitas, umur operasi, dan layanan yang diberikan berbeda. Untuk listrik, analisis dapat menggunakan energi yang dihasilkan sepanjang umur sistem. Namun, hasil tetap dipengaruhi lokasi, intensitas sinar matahari atau angin, pola pemeliharaan, tingkat kegagalan, dan sumber listrik yang digunakan saat produksi komponen.
+
+Analisis siklus hidup juga mengingatkan bahwa dampak dapat berpindah tempat. Pengurangan emisi saat operasi mungkin disertai kebutuhan mineral, air, atau lahan pada tahap produksi. Temuan ini bukan alasan untuk menolak teknologi tertentu, melainkan dasar untuk memperbaiki desain, meningkatkan daur ulang, memperpanjang umur produk, dan memilih lokasi yang lebih tepat. Hindari menyimpulkan bahwa satu teknologi selalu bersih atau selalu buruk tanpa menyebut konteks dan indikator.
+
+BAB PENDALAMAN: KEADILAN ENERGI DAN TRANSISI
+
+Akses energi memiliki dimensi ketersediaan, keterjangkauan, keandalan, dan kesesuaian layanan. Sambungan listrik saja belum menjamin rumah tangga memperoleh layanan yang memadai apabila pasokan sering terputus atau biaya menghabiskan bagian besar pendapatan. Di wilayah terpencil, solusi terdesentralisasi dapat membantu, tetapi keberhasilannya bergantung pada pengelola lokal, suku cadang, kemampuan teknis, dan pembiayaan perawatan.
+
+Transisi energi juga mengubah pekerjaan dan pola ekonomi. Pekerja di sektor yang menyusut memerlukan jalur pelatihan yang realistis, pengakuan keterampilan, dan kesempatan kerja yang layak. Daerah yang bergantung pada satu industri memerlukan diversifikasi ekonomi, bukan hanya janji investasi baru. Perencanaan transisi perlu melibatkan pemerintah, masyarakat, pekerja, pelaku usaha, lembaga pendidikan, dan kelompok yang sering tidak terdengar dalam proses konsultasi.
+
+Partisipasi yang bermakna bukan sekadar mengundang warga setelah keputusan dibuat. Informasi harus tersedia dalam bahasa yang dipahami, waktu konsultasi harus memungkinkan kehadiran, dan masukan perlu dijawab secara terbuka. Catatan keputusan sebaiknya menjelaskan masukan yang diterima, yang tidak dapat diakomodasi, serta alasannya. Cara ini meningkatkan kepercayaan dan membantu menemukan dampak yang luput dari kajian awal.
+
+BAB PENDALAMAN: PERENCANAAN DAN EVALUASI KEBIJAKAN
+
+Sebuah kebijakan energi perlu memiliki teori perubahan yang jelas: masalah apa yang hendak diatasi, tindakan apa yang dilakukan, hasil antara apa yang diharapkan, dan dampak jangka panjang apa yang ingin dicapai. Jika tujuan kebijakan adalah mengurangi pemborosan listrik bangunan, misalnya, indikator tidak cukup hanya menghitung jumlah lampu hemat energi yang dibagikan. Perlu diperiksa perubahan konsumsi, kenyamanan pengguna, biaya pemeliharaan, dan apakah penghematan bertahan setelah program berakhir.
+
+Indikator harus memiliki definisi, sumber data, frekuensi pengukuran, dan pihak yang bertanggung jawab. Data agregat dapat menyembunyikan ketimpangan antardaerah atau antarkelompok rumah tangga. Karena itu, evaluasi sebaiknya menyajikan distribusi manfaat dan beban, tetap menjaga privasi, serta menjelaskan keterbatasan pengumpulan data.
+
+Analisis skenario membantu menghadapi ketidakpastian. Skenario bukan ramalan pasti, melainkan gambaran konsisten tentang kemungkinan masa depan berdasarkan asumsi yang dinyatakan. Uji sensitivitas menunjukkan asumsi mana yang paling memengaruhi hasil, misalnya pertumbuhan permintaan, harga bahan bakar, biaya teknologi, atau laju perbaikan efisiensi. Keputusan yang tangguh biasanya tetap masuk akal pada beberapa skenario, bukan hanya pada satu perkiraan optimistis.
+
+LATIHAN ANALISIS
+
+1. Jelaskan mengapa batas sistem penting ketika membandingkan dua teknologi energi.
+2. Berikan contoh dampak lingkungan yang dapat berpindah dari tahap operasi ke tahap produksi.
+3. Susun empat dimensi akses energi dan indikator yang dapat digunakan untuk menilainya.
+4. Mengapa pelatihan pekerja perlu disiapkan sebelum perubahan industri berlangsung?
+5. Buat teori perubahan sederhana untuk program penghematan energi di sekolah.
+6. Bedakan skenario perencanaan dengan ramalan yang mengklaim satu masa depan pasti.
+
+PROYEK PEMBELAJARAN
+
+Pilih satu layanan energi yang dikenal, seperti penerangan sekolah atau pendinginan ruang belajar. Petakan sumber energi, perangkat, pola penggunaan, biaya, kebutuhan pemeliharaan, dan kelompok pengguna. Identifikasi tahap siklus hidup yang relevan tanpa mengarang data yang tidak tersedia. Buat tiga skenario perbaikan, tetapkan indikator keberhasilan, dan jelaskan siapa yang perlu dilibatkan. Tutup laporan dengan bagian asumsi, keterbatasan, dan pertanyaan yang masih perlu diteliti.

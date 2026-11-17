@@ -203,3 +203,29 @@ Produk yang dapat dibongkar dengan mudah belum tentu lebih berkelanjutan jika ko
 
 PROYEK DESAIN PRODUK
 Pilih masalah sehari-hari yang aman dan relevan. Lakukan riset kebutuhan, rumuskan spesifikasi, buat tiga konsep, bandingkan dengan matriks keputusan, lalu buat prototipe sederhana. Uji dengan calon pengguna secara sukarela dan dengan izin. Dokumentasikan temuan, revisi, biaya, risiko, serta alasan desain akhir.
+BAB LANJUTAN 1. ERGONOMI DAN ANTROPOMETRI
+
+Ergonomi mempelajari hubungan manusia dengan alat, produk, dan lingkungan kerja. Tujuannya bukan membuat pengguna menyesuaikan diri secara paksa terhadap produk, melainkan merancang produk yang mendukung kemampuan dan keterbatasan manusia. Antropometri menyediakan data ukuran tubuh, tetapi satu ukuran rata-rata tidak mewakili semua orang. Perancang perlu mempertimbangkan rentang ukuran pengguna, variasi usia, kemampuan gerak, pakaian, serta cara produk digunakan.
+
+Untuk produk yang dipakai banyak orang, dimensi yang dapat disesuaikan sering lebih inklusif daripada satu ukuran tetap. Contohnya tinggi kursi atau posisi pegangan. Jika penyesuaian tidak memungkinkan, keputusan dimensi perlu didasarkan pada data populasi sasaran dan risiko ketidaknyamanan. Uji coba dengan beberapa pengguna membantu menemukan masalah yang tidak terlihat pada gambar teknik.
+
+BAB LANJUTAN 2. PROTOTIPE, PENGUJIAN, DAN ITERASI
+
+Prototipe adalah representasi produk untuk menjawab pertanyaan desain. Prototipe kertas dapat menguji tata letak, model busa dapat menguji bentuk, dan model fungsional dapat menguji mekanisme. Tidak semua prototipe harus tampak seperti produk akhir. Pilih tingkat ketelitian sesuai ketidakpastian yang ingin dikurangi.
+
+Pengujian perlu memiliki tujuan dan indikator. Jika yang diuji adalah kemudahan membuka tutup wadah, amati waktu, jumlah kesalahan, kenyamanan, dan komentar pengguna. Jangan hanya bertanya apakah produk disukai; pengguna mungkin menyukai tampilannya tetapi kesulitan menggunakannya. Catat tugas, kondisi uji, karakteristik peserta secara relevan, temuan, dan perubahan desain.
+
+Iterasi berarti memperbaiki desain berdasarkan bukti. Jika beberapa peserta mengalami masalah yang sama, cari penyebab pada bentuk, instruksi, bahan, atau konteks penggunaan. Perubahan perlu diuji kembali agar perbaikan tidak menciptakan masalah baru.
+
+BAB LANJUTAN 3. PEMILIHAN BAHAN DAN DESAIN BERKELANJUTAN
+
+Pemilihan bahan mempertimbangkan kekuatan, massa, ketahanan, keamanan, biaya, ketersediaan, kemudahan perbaikan, dan akhir masa pakai. Bahan yang ringan belum tentu paling baik jika cepat rusak atau sulit didaur ulang. Sebaliknya, bahan yang dapat didaur ulang belum tentu benar-benar didaur ulang jika sistem pengumpulan tidak tersedia.
+
+Analisis siklus hidup melihat dampak sejak ekstraksi bahan, produksi, distribusi, penggunaan, hingga pengelolaan akhir. Perancang dapat mengurangi dampak melalui penghematan material, desain modular, komponen yang mudah diganti, dan petunjuk perawatan. Klaim ramah lingkungan harus didukung batas analisis dan data, bukan hanya warna hijau atau istilah pemasaran.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Mengapa ukuran rata-rata tubuh tidak cukup untuk merancang produk universal?
+2. Pilih jenis prototipe untuk menguji kenyamanan pegangan dan jelaskan alasannya.
+3. Susun tiga indikator untuk menguji kemudahan penggunaan sebuah produk.
+4. Bandingkan dua bahan berdasarkan masa pakai, perawatan, dan akhir penggunaannya.
+5. Buat rencana iterasi desain berdasarkan satu temuan uji pengguna.

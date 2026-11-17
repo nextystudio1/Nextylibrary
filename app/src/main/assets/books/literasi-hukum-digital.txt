@@ -371,3 +371,32 @@ Sebuah komunitas menerima pesan yang mengatasnamakan penyelenggara lomba dan mem
 Latihan analisis
 
 Pilih satu contoh kebijakan privasi layanan yang digunakan sehari-hari. Tandai tujuan pengumpulan data, jenis data, pihak penerima, masa simpan, dan mekanisme penghapusan. Catat bagian yang tidak jelas sebagai pertanyaan. Kemudian buat ringkasan satu halaman untuk pembaca awam. Nilai ringkasan berdasarkan ketepatan, kelengkapan, bahasa yang netral, dan kemampuan membedakan fakta dari asumsi.
+
+BAB LANJUTAN: HAK DIGITAL, KONTRAK ELEKTRONIK, DAN PENYELESAIAN SENGKETA
+
+Kehidupan digital melibatkan hubungan hukum antara pengguna, penyedia layanan, pelaku usaha, dan lembaga publik. Hak dan kewajiban dapat muncul ketika seseorang membuat akun, membeli barang, mengirim informasi, atau menggunakan layanan komunikasi. Ketentuan yang berlaku bergantung pada yurisdiksi, jenis transaksi, dan waktu kejadian. Materi ini merupakan pengantar literasi, bukan nasihat hukum untuk perkara tertentu.
+
+Persetujuan digital perlu dipahami sebagai proses yang memberikan informasi cukup sebelum seseorang mengambil keputusan. Tombol persetujuan, kotak centang, atau tindakan melanjutkan layanan dapat memiliki arti berbeda menurut konteks dan ketentuan yang berlaku. Pengguna sebaiknya memeriksa tujuan pemrosesan data, jenis informasi yang diminta, pilihan pengaturan, serta cara menarik atau mengubah persetujuan jika tersedia. Desain antarmuka tidak boleh menyamarkan pilihan penting.
+
+Kontrak elektronik dapat memuat identitas para pihak, objek transaksi, harga, cara pembayaran, pengiriman, pembatalan, dan penyelesaian keluhan. Sebelum menyetujui, pengguna perlu memahami ketentuan utama serta menyimpan bukti transaksi yang relevan. Tangkapan layar atau salinan dokumen harus disimpan dengan aman dan tidak disebarkan jika memuat informasi pribadi. Ketidakjelasan ketentuan sebaiknya dimintakan penjelasan sebelum transaksi dilanjutkan.
+
+Tanda tangan elektronik memiliki bentuk dan tingkat jaminan yang berbeda. Tidak setiap gambar tanda tangan memiliki fungsi pembuktian yang sama dengan mekanisme elektronik yang memenuhi persyaratan hukum. Pengguna perlu memahami identitas penanda tangan, integritas dokumen, proses verifikasi, dan ketentuan yang berlaku. Untuk dokumen penting, pemeriksaan melalui penyedia atau profesional yang berwenang dapat diperlukan.
+
+Perlindungan data pribadi berangkat dari prinsip pembatasan tujuan, relevansi, keamanan, dan akuntabilitas. Organisasi sebaiknya hanya mengumpulkan data yang diperlukan dan menjelaskan alasan penggunaannya. Data sensitif memerlukan kehati-hatian lebih tinggi. Pengguna perlu memeriksa izin aplikasi, menghindari pengiriman data melalui kanal yang tidak sesuai, dan mengetahui cara meminta akses atau koreksi sesuai hak yang berlaku.
+
+Konten digital juga menimbulkan pertanyaan tentang hak cipta, lisensi, dan penggunaan wajar sesuai hukum yang berlaku. Mengunggah ulang karya orang lain tanpa izin dapat melanggar hak pemegangnya. Atribusi tidak selalu menggantikan izin. Pengguna perlu memeriksa lisensi, batas penggunaan, ketentuan komersial, dan hak modifikasi. Materi berlisensi terbuka tetap memiliki syarat yang harus dipenuhi.
+
+Bukti elektronik perlu dipertahankan dengan memperhatikan keaslian, konteks, dan integritas. Catatan waktu, identitas akun, percakapan, serta dokumen transaksi dapat relevan, tetapi pengumpulan harus dilakukan secara sah dan tidak melanggar privasi pihak lain. Jangan mengubah atau menyunting bukti asli. Simpan salinan kerja terpisah dan catat bagaimana bukti diperoleh. Untuk perkara serius, mintalah arahan profesional mengenai penanganan bukti.
+
+Penyelesaian sengketa dapat dimulai melalui layanan pengaduan penyedia, mekanisme mediasi, lembaga penyelesaian konsumen, atau jalur hukum yang sesuai. Pilihan bergantung pada jenis masalah dan aturan setempat. Pengaduan yang efektif biasanya menjelaskan kronologi, bukti transaksi, upaya penyelesaian yang sudah dilakukan, dan hasil yang diminta. Hindari mengunggah data pribadi atau tuduhan yang belum terverifikasi ke ruang publik.
+
+Kebebasan berekspresi di ruang digital perlu dipahami bersama tanggung jawab dan batas hukum. Kritik, opini, fakta, dan tuduhan merupakan hal yang berbeda. Informasi yang disebarkan harus diperiksa sumber dan konteksnya. Pengguna perlu menghindari penyebaran data pribadi, ancaman, atau konten yang merugikan orang lain. Ketika menerima informasi yang meragukan, tahan penyebaran dan lakukan verifikasi.
+
+Studi kasus: seorang konsumen menerima barang yang berbeda dari deskripsi. Ia menyimpan bukti pesanan, komunikasi, dan dokumentasi kondisi barang, lalu menghubungi kanal pengaduan resmi penjual atau platform. Ia menjelaskan penyelesaian yang diminta secara jelas tanpa mempublikasikan alamat atau nomor identitas. Jika masalah tidak selesai, ia memeriksa jalur pengaduan konsumen yang sesuai dengan yurisdiksinya.
+
+Latihan penerapan:
+1. Identifikasi klausul penting dalam contoh ketentuan layanan digital.
+2. Buat daftar bukti yang aman disimpan untuk transaksi daring.
+3. Bedakan atribusi karya dan izin penggunaan.
+4. Susun pengaduan konsumen dengan kronologi dan permintaan yang jelas.
+5. Jelaskan langkah untuk melindungi data pribadi saat menyelesaikan sengketa.

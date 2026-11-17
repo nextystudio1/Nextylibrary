@@ -271,3 +271,50 @@ LATIHAN BAB
 3. Apa risiko klaim hijau tanpa verifikasi?
 4. Bedakan keluaran program dan dampak kebijakan.
 5. Buat indikator untuk mengevaluasi program adaptasi banjir.
+
+BAB LANJUTAN: MEMAHAMI RISIKO IKLIM DI TINGKAT WILAYAH
+
+Risiko iklim terbentuk dari interaksi bahaya, paparan, dan kerentanan. Bahaya dapat berupa gelombang panas, hujan ekstrem, kekeringan, kenaikan muka laut, atau perubahan pola musim. Paparan menjelaskan manusia, aset, dan ekosistem yang berada di lokasi terdampak. Kerentanan mencakup kondisi yang membuat dampak lebih berat, seperti kualitas rumah, kesehatan, pendapatan, akses air, dan kemampuan memperoleh informasi. Mengurangi risiko berarti memahami ketiga unsur tersebut, bukan hanya memperkirakan intensitas bahaya.
+
+Dua wilayah yang mengalami hujan dengan intensitas sama dapat memiliki dampak berbeda. Wilayah dengan drainase terawat, ruang resapan, sistem peringatan, dan layanan darurat yang mudah dijangkau mungkin mengalami gangguan lebih kecil. Sebaliknya, permukiman padat di dataran rendah dengan akses evakuasi terbatas dapat menghadapi kerugian besar. Peta bahaya perlu dipadukan dengan data penduduk, penggunaan lahan, layanan dasar, dan kondisi sosial.
+
+Informasi iklim memiliki rentang ketidakpastian karena sistem atmosfer dan laut kompleks, skenario emisi berbeda, serta resolusi model terbatas. Ketidakpastian bukan alasan untuk tidak bertindak. Perencana dapat memakai beberapa skenario dan menguji apakah suatu keputusan tetap bermanfaat pada berbagai kemungkinan. Infrastruktur penting sebaiknya tidak dirancang hanya berdasarkan satu angka proyeksi tanpa mempertimbangkan margin keselamatan dan perubahan kondisi.
+
+Adaptasi bertahap dapat dimulai dari tindakan yang memberi manfaat dalam berbagai keadaan, seperti memperbaiki drainase, memperluas ruang hijau, melindungi sumber air, dan memperkuat layanan kesehatan. Keputusan besar yang sulit diubah perlu mempertimbangkan risiko jangka panjang dan kemungkinan titik kritis. Pemantauan indikator dapat menunjukkan kapan strategi perlu ditingkatkan atau diganti.
+
+ADAPTASI BERBASIS EKOSISTEM
+
+Ekosistem dapat membantu mengurangi risiko sekaligus mendukung keanekaragaman hayati dan penghidupan. Mangrove dapat meredam sebagian energi gelombang, menyimpan karbon, dan menyediakan habitat. Hutan di daerah tangkapan air membantu menjaga tanah dan aliran air. Lahan basah dapat menahan air sementara dan mendukung kehidupan satwa. Manfaat ini bergantung pada kondisi ekosistem, lokasi, dan proses ekologis sehingga tidak boleh diperlakukan sebagai perlindungan yang selalu menggantikan infrastruktur.
+
+Restorasi harus memperhatikan penyebab kerusakan dan kebutuhan masyarakat setempat. Menanam pohon tanpa memperbaiki hidrologi, memilih spesies yang tidak sesuai, atau mengabaikan hak pengelolaan dapat menghasilkan keberhasilan semu. Indikator pemantauan perlu mencakup kelangsungan hidup vegetasi, fungsi habitat, kualitas air, perlindungan pesisir, serta manfaat dan akses masyarakat.
+
+Adaptasi berbasis ekosistem dapat menghadapi konflik ruang. Perlindungan kawasan pesisir mungkin membatasi kegiatan tertentu, sementara masyarakat bergantung pada sumber daya tersebut. Perencanaan partisipatif perlu membahas alternatif mata pencaharian, pembagian manfaat, kompensasi yang adil, dan mekanisme keluhan. Tanpa keadilan prosedural, program lingkungan berisiko memindahkan beban kepada kelompok yang paling sedikit berkontribusi terhadap emisi.
+
+KOTA, KESEHATAN, DAN KELOMPOK RENTAN
+
+Pulau panas perkotaan muncul ketika permukaan terbangun menyerap dan menyimpan panas serta vegetasi dan penguapan berkurang. Dampaknya dapat dikurangi melalui pepohonan yang dirawat, ruang terbuka, atap yang sesuai iklim, ventilasi, dan perencanaan kawasan. Penanaman perlu mempertimbangkan ketersediaan air, akar, keselamatan, dan pemeliharaan. Ruang hijau juga harus mudah dijangkau warga, bukan hanya berada di kawasan tertentu.
+
+Gelombang panas dapat memperburuk risiko kesehatan, terutama bagi lansia, anak-anak, pekerja luar ruang, dan orang dengan kondisi kesehatan tertentu. Rencana kesehatan masyarakat dapat mencakup informasi peringatan, tempat sejuk yang aman, penyesuaian jam kerja, pemantauan kelompok berisiko, dan koordinasi fasilitas kesehatan. Pesan peringatan perlu sederhana, konsisten, dan tersedia melalui beberapa saluran.
+
+Perubahan iklim juga memengaruhi ketahanan pangan melalui suhu, air, hama, penyakit tanaman, dan gangguan distribusi. Diversifikasi tanaman, pengelolaan tanah, penyimpanan hasil, informasi cuaca yang dapat diakses, dan perlindungan petani kecil dapat memperkuat ketahanan. Strategi harus disesuaikan dengan kondisi agroekologi lokal dan pengetahuan petani.
+
+MITIGASI DAN TRANSISI YANG ADIL
+
+Mitigasi mengurangi sumber emisi atau meningkatkan penyerapannya. Efisiensi energi, elektrifikasi yang didukung listrik rendah emisi, transportasi publik, perlindungan ekosistem, dan perubahan proses industri dapat berkontribusi. Setiap pilihan perlu dinilai sepanjang siklus hidup agar pengurangan emisi di satu tahap tidak sekadar memindahkan emisi ke tahap lain atau wilayah lain.
+
+Transisi energi membawa perubahan pekerjaan, investasi, harga, dan struktur wilayah. Daerah yang bergantung pada satu industri dapat menghadapi tantangan ketika permintaan berubah. Perencanaan transisi yang adil mencakup dialog pekerja, pendidikan ulang, diversifikasi ekonomi lokal, perlindungan sosial, dan pemulihan lingkungan. Pekerja dan masyarakat terdampak perlu dilibatkan sejak perencanaan, bukan hanya diberi informasi setelah keputusan dibuat.
+
+Penghitungan emisi harus menjelaskan batas organisasi, wilayah, atau produk. Emisi langsung, emisi dari energi yang dibeli, dan emisi rantai nilai memiliki cakupan berbeda. Penghitungan yang transparan menghindari klaim pengurangan yang tidak sebanding. Pengimbangan emisi juga tidak boleh menggantikan upaya mengurangi emisi yang dapat dihindari.
+
+STUDI KASUS: RENCANA ADAPTASI KAWASAN BANJIR
+
+Sebuah kelurahan mengalami genangan berulang. Tim lokal memetakan kedalaman dan durasi genangan, lokasi kelompok rentan, jalur evakuasi, saluran air, ruang terbuka, dan fasilitas penting. Warga membantu menandai titik yang tidak tercatat pada peta resmi. Data tersebut kemudian dibandingkan dengan catatan hujan dan perubahan penggunaan lahan.
+
+Pilihan tindakan meliputi pemeliharaan saluran, perlindungan area resapan, sistem peringatan, jalur aman, dan prosedur untuk fasilitas umum. Tim menyusun indikator seperti waktu penyampaian peringatan, jumlah rumah yang memiliki rencana evakuasi, durasi genangan, serta akses kelompok rentan. Evaluasi dilakukan setelah musim hujan dan hasilnya dibahas terbuka untuk memperbaiki rencana.
+
+LATIHAN BAB
+1. Jelaskan hubungan bahaya, paparan, dan kerentanan.
+2. Mengapa adaptasi berbasis ekosistem memerlukan keterlibatan masyarakat?
+3. Sebutkan langkah kota untuk mengurangi dampak pulau panas.
+4. Apa yang dimaksud transisi energi yang adil?
+5. Susun tiga indikator untuk mengevaluasi rencana adaptasi banjir.

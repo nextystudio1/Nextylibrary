@@ -297,3 +297,49 @@ LATIHAN
 3. Mengapa jumlah penerima manfaat tidak cukup menjadi indikator dampak?
 4. Bagaimana konflik kepentingan dapat dikelola?
 5. Mengapa keputusan menghentikan usaha terkadang merupakan tindakan bertanggung jawab?
+
+BAB: MEMAHAMI PELANGGAN TANPA MELANGGAR PRIVASI
+
+Memahami pelanggan dimulai dari masalah yang ingin mereka selesaikan, bukan dari keinginan penjual untuk segera menawarkan produk. Wawancara, pengamatan yang wajar, dan umpan balik sukarela dapat membantu mengenali kebutuhan. Pertanyaan sebaiknya terbuka dan tidak menggiring responden agar memberikan jawaban yang disukai pembuat usaha. Catat perbedaan antara kebutuhan yang dinyatakan, perilaku yang diamati, dan asumsi tim.
+
+Pengumpulan informasi harus proporsional. Usaha tidak perlu meminta data pribadi yang tidak berkaitan dengan layanan. Jelaskan tujuan pengumpulan, siapa yang dapat mengakses, dan bagaimana informasi digunakan. Jangan mengumpulkan data sensitif hanya karena teknologi memungkinkan. Untuk proyek pembelajaran, gunakan skenario hipotetis atau data contoh, bukan informasi pribadi teman tanpa persetujuan.
+
+Segmentasi pelanggan membantu usaha memahami bahwa kebutuhan setiap kelompok dapat berbeda. Segmentasi dapat didasarkan pada konteks penggunaan, masalah, atau pola kebutuhan. Hindari stereotip dan jangan menganggap seluruh anggota suatu kelompok memiliki preferensi sama. Uji asumsi melalui bukti yang layak dan perbarui gambaran pelanggan ketika temuan baru muncul.
+
+BAB: RANTAI PASOK DAN TANGGUNG JAWAB PEMASOK
+
+Produk tidak berdiri sendiri. Bahan baku, tenaga kerja, pengemasan, transportasi, dan pengelolaan limbah membentuk rantai pasok. Keputusan memilih pemasok dapat memengaruhi kualitas, ketepatan waktu, keselamatan pekerja, dan dampak lingkungan. Harga termurah belum tentu menjadi pilihan paling bertanggung jawab apabila diperoleh melalui praktik yang merugikan pihak lain.
+
+Pemetaan rantai pasok dimulai dengan mengidentifikasi pemasok langsung dan bahan penting. Tanyakan standar mutu, konsistensi pasokan, ketertelusuran, serta prosedur ketika terjadi masalah. Usaha kecil mungkin belum mampu mengaudit seluruh rantai pasok, tetapi dapat menetapkan persyaratan dasar dan meningkatkan pemeriksaan secara bertahap. Klaim seperti “ramah lingkungan” harus didukung informasi yang jelas.
+
+Ketergantungan pada satu pemasok dapat menjadi risiko operasional. Rencana alternatif perlu mempertimbangkan mutu dan tanggung jawab yang sama, bukan sekadar mencari pengganti tercepat. Hubungan jangka panjang yang adil dapat membantu pemasok merencanakan kapasitas dan usaha menjaga kualitas. Pembayaran dan kesepakatan harus jelas agar risiko tidak sepihak dibebankan kepada pihak yang lebih lemah.
+
+BAB: HARGA, NILAI, DAN KEADILAN
+
+Harga memengaruhi kemampuan pelanggan memperoleh produk sekaligus keberlanjutan usaha. Penetapan harga perlu mempertimbangkan biaya bahan, tenaga kerja, distribusi, pajak atau kewajiban terkait, risiko, dan nilai yang diterima pelanggan. Harga terlalu rendah dapat membuat usaha tidak mampu memenuhi kewajiban, sedangkan harga terlalu tinggi tanpa alasan yang transparan dapat mengurangi kepercayaan.
+
+Nilai tidak selalu sama dengan harga. Produk dapat memberi manfaat melalui daya tahan, kemudahan perawatan, aksesibilitas, penghematan waktu, atau dukungan setelah pembelian. Jelaskan manfaat secara spesifik dan hindari klaim yang tidak dapat dibuktikan. Jika ada keterbatasan, sampaikan sebelum transaksi agar pelanggan dapat mengambil keputusan secara sadar.
+
+Promosi etis tidak menciptakan kelangkaan palsu, menyamarkan biaya, atau menekan orang dengan rasa takut. Testimoni harus nyata dan digunakan dengan izin. Diskon perlu memiliki syarat yang mudah ditemukan. Jika produk memiliki batas penggunaan atau risiko tertentu, informasi tersebut harus terlihat dan tidak disembunyikan di bagian yang sulit diakses.
+
+BAB: MENGUKUR DAMPAK SOSIAL SECARA BERTANGGUNG JAWAB
+
+Usaha yang mengklaim membawa manfaat sosial perlu menjelaskan perubahan apa yang ingin dicapai. Jumlah produk terjual atau peserta kegiatan merupakan keluaran, bukan otomatis dampak. Dampak berkaitan dengan perubahan yang terjadi pada kondisi penerima manfaat. Misalnya, pelatihan yang diadakan adalah keluaran; peningkatan kemampuan yang dapat digunakan merupakan hasil yang perlu diukur dengan metode yang sesuai.
+
+Pilih indikator yang realistis dan dapat dikumpulkan tanpa membebani peserta. Gabungkan data kuantitatif dengan cerita atau wawancara yang dilakukan secara etis. Jangan memilih hanya kisah yang mendukung citra usaha. Laporkan hasil yang tidak sesuai harapan dan faktor luar yang mungkin memengaruhi perubahan. Pengakuan atas keterbatasan membuat laporan lebih dapat dipercaya.
+
+Evaluasi juga perlu bertanya apakah manfaat tersebar secara adil. Siapa yang belum terjangkau? Apakah jadwal, lokasi, biaya, atau format layanan menciptakan hambatan? Apakah kegiatan menimbulkan dampak samping yang tidak direncanakan? Pertanyaan tersebut membantu usaha memperbaiki desain, bukan sekadar memperbesar angka promosi.
+
+STUDI KASUS: USAHA PERLENGKAPAN BELAJAR
+
+Sekelompok pelajar merancang usaha hipotetis perlengkapan belajar dari bahan yang dapat digunakan ulang. Mereka perlu menguji apakah produk benar-benar dibutuhkan, menghitung biaya bahan dan waktu kerja, serta memeriksa keamanan dan ketahanan. Mereka juga perlu memastikan klaim penggunaan ulang tidak menyesatkan dan menjelaskan cara perawatan produk.
+
+Keputusan etis muncul pada setiap tahap: meminta persetujuan saat mengumpulkan masukan, memilih pemasok yang bertanggung jawab, menetapkan harga transparan, dan mengelola sisa bahan. Tim dapat mengukur manfaat melalui ketahanan produk dan masukan pengguna, bukan hanya jumlah barang yang dibuat. Proyek ini memperlihatkan bahwa etika bukan tambahan setelah usaha berjalan; etika membentuk keputusan sejak perencanaan.
+
+LATIHAN
+
+1. Mengapa wawancara pelanggan perlu menghindari pertanyaan menggiring?
+2. Apa risiko bergantung pada satu pemasok?
+3. Bagaimana membedakan keluaran dan dampak?
+4. Mengapa klaim promosi harus dapat dibuktikan?
+5. Bagaimana usaha kecil dapat meningkatkan tanggung jawab rantai pasok secara bertahap?

@@ -292,3 +292,44 @@ LATIHAN
 
 PROYEK
 Buat rancangan robot edukasi sederhana dalam simulasi. Tentukan tujuan, batas ruang kerja, jenis sensor secara konseptual, keadaan aman, dan skenario pengujian. Dokumentasikan asumsi serta keterbatasan model. Jangan menguji gerak fisik yang berpotensi membahayakan manusia atau merusak benda.
+
+BAB PENDALAMAN: ARSITEKTUR SISTEM ROBOT
+
+Robot merupakan gabungan subsistem yang saling bergantung. Sensor mengumpulkan informasi, pengolah menghitung keadaan atau keputusan, pengendali mengirim perintah, sedangkan aktuator menghasilkan perubahan pada lingkungan. Catu daya, struktur mekanis, komunikasi, dan perangkat lunak pendukung ikut menentukan kinerja. Kegagalan satu bagian dapat memengaruhi seluruh sistem, sehingga rancangan perlu mempertimbangkan hubungan antarkomponen sejak awal.
+
+Arsitektur terpusat menempatkan banyak keputusan pada satu pengendali. Pendekatan ini dapat memudahkan koordinasi, tetapi menimbulkan ketergantungan pada satu titik. Arsitektur terdistribusi membagi fungsi ke beberapa modul, yang dapat meningkatkan modularitas namun menambah kebutuhan komunikasi dan sinkronisasi. Pemilihan arsitektur bergantung pada skala, kebutuhan waktu respons, kemampuan pemeliharaan, dan tingkat risiko.
+
+Antarmuka antarmodul perlu didefinisikan secara jelas. Tentukan format pesan, satuan, rentang nilai, frekuensi pembaruan, dan perilaku ketika data tidak tersedia. Misalnya, nilai jarak tanpa satuan dapat ditafsirkan berbeda oleh dua modul. Dokumentasi antarmuka dan pengujian integrasi membantu mencegah kesalahan yang sulit dilacak.
+
+BAB PENDALAMAN: SENSOR, KALIBRASI, DAN KETIDAKPASTIAN
+
+Sensor tidak memberikan gambaran sempurna tentang dunia. Hasil pengukuran dipengaruhi resolusi, rentang kerja, derau, keterlambatan, kondisi lingkungan, dan karakteristik pemasangan. Sensor yang sangat teliti pada kondisi laboratorium mungkin memberikan hasil berbeda ketika terkena perubahan suhu atau getaran. Spesifikasi pabrikan perlu dibaca bersama kondisi penggunaan yang sebenarnya.
+
+Kalibrasi membandingkan keluaran sensor dengan acuan yang diketahui. Catat tanggal, metode, kondisi, dan hasil kalibrasi. Jika sensor menunjukkan penyimpangan yang konsisten, koreksi dapat dipertimbangkan sesuai prosedur yang tervalidasi. Kalibrasi tidak menghilangkan seluruh ketidakpastian; ia membantu memahami dan mengendalikan sebagian sumber kesalahan.
+
+Penggabungan beberapa sensor dapat menghasilkan estimasi yang lebih kuat jika karakteristik masing-masing dipahami. Namun, dua sensor yang berbagi sumber kesalahan tidak otomatis memberikan bukti independen. Data perlu diberi cap waktu dan diperiksa konsistensinya. Ketika sensor gagal atau menghasilkan nilai tidak masuk akal, sistem harus mengenali keadaan tersebut dan beralih ke perilaku aman yang telah dirancang.
+
+BAB PENDALAMAN: PERENCANAAN DAN EVALUASI GERAK
+
+Perencanaan gerak mempertimbangkan posisi awal, tujuan, batas ruang kerja, kemampuan mekanis, serta lingkungan sekitar. Jalur yang secara matematis pendek belum tentu sesuai jika melewati area terlarang atau menuntut perubahan gerak yang terlalu tajam. Dalam pembelajaran, simulasi dapat digunakan untuk memahami kendala dan membandingkan beberapa rencana tanpa menguji perangkat fisik yang berisiko.
+
+Kinematika menjelaskan hubungan geometri antara konfigurasi sendi dan posisi bagian robot. Dinamika menambahkan pengaruh massa, inersia, gaya, dan torsi. Model kinematika dapat cukup untuk sebagian simulasi posisi, tetapi tidak menjelaskan seluruh perilaku fisik. Ketika model digunakan untuk membuat prediksi, asumsi dan parameter perlu dinyatakan.
+
+Evaluasi gerak dapat memakai ukuran seperti ketepatan posisi, kelancaran lintasan, waktu penyelesaian, dan konsistensi pengulangan. Ukuran tersebut sering saling memengaruhi. Gerak yang lebih cepat dapat mengurangi ketelitian, sementara gerak yang sangat halus mungkin membutuhkan waktu lebih lama. Tujuan aplikasi menentukan kompromi yang dapat diterima.
+
+BAB PENDALAMAN: INTERAKSI MANUSIA DAN ROBOT
+
+Robot yang bekerja dekat manusia memerlukan rancangan interaksi yang dapat dipahami. Pengguna perlu mengetahui status sistem, tujuan gerak, dan kondisi ketika robot tidak dapat melanjutkan tugas. Indikator visual atau suara harus memiliki makna konsisten. Instruksi yang ambigu dapat menimbulkan kesalahan penggunaan, terutama ketika beberapa keadaan terlihat serupa.
+
+Penilaian risiko mempertimbangkan kemungkinan kejadian, tingkat dampak, paparan, dan kemampuan menghindari bahaya. Pengendalian risiko dilakukan melalui desain, pembatasan ruang kerja, pelindung, prosedur, pelatihan, dan pengawasan yang sesuai. Tombol berhenti atau mekanisme pengamanan tidak boleh dipandang sebagai pengganti desain yang aman sejak awal.
+
+Pengujian interaksi sebaiknya melibatkan skenario penggunaan yang realistis dan pengawasan yang memadai. Catat apakah pengguna memahami status, menemukan kendali yang diperlukan, dan mengetahui tindakan ketika terjadi gangguan. Temuan pengujian perlu diterjemahkan menjadi perubahan desain dan diuji kembali.
+
+BAB PENDALAMAN: PEMELIHARAAN DAN SIKLUS HIDUP
+
+Keandalan robot dipengaruhi kualitas komponen, kondisi operasi, pemeliharaan, dan kemampuan tim pendukung. Jadwal pemeriksaan dapat mencakup kondisi kabel, kebersihan sensor, kekencangan struktur, pembaruan perangkat lunak, serta pencatatan gangguan. Pemeriksaan dilakukan berdasarkan panduan teknis dan oleh orang yang memiliki kompetensi sesuai.
+
+Log pemeliharaan sebaiknya memuat tanggal, gejala, kondisi saat muncul, tindakan yang disetujui, komponen yang diganti, dan hasil verifikasi. Pola gangguan dapat menunjukkan masalah desain atau penggunaan yang berulang. Analisis akar masalah mencari kondisi sistemik, bukan sekadar mengganti bagian yang tampak rusak.
+
+Pertimbangkan pula konsumsi energi, ketersediaan suku cadang, kemudahan perbaikan, keamanan data, dan pengelolaan perangkat pada akhir masa pakai. Robot yang bermanfaat bukan hanya yang mampu menjalankan demonstrasi, melainkan yang dapat dioperasikan, dipelihara, dan dihentikan secara bertanggung jawab.
+

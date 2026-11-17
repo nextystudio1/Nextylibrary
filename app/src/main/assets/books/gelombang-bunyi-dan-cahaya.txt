@@ -281,3 +281,36 @@ LATIHAN BAB
 3. Apa hubungan frekuensi dan periode?
 4. Mengapa tingkat desibel tidak dapat dijumlahkan seperti angka biasa?
 5. Sebutkan dua keterbatasan model lensa tipis.
+
+BAB PENDALAMAN: GELOMBANG DAN TRANSFER ENERGI
+
+Gelombang memindahkan energi dan informasi tanpa harus memindahkan materi secara keseluruhan dari satu tempat ke tempat lain. Pada gelombang mekanik, partikel medium berosilasi di sekitar posisi keseimbangannya. Gelombang elektromagnetik tidak memerlukan medium dan dapat merambat di ruang hampa. Perbedaan ini menjelaskan mengapa bunyi tidak dapat merambat di ruang hampa, sedangkan cahaya Matahari dapat mencapai Bumi.
+
+Besaran utama gelombang meliputi amplitudo, panjang gelombang, frekuensi, periode, dan cepat rambat. Hubungan cepat rambat sama dengan hasil kali panjang gelombang dan frekuensi berlaku untuk gelombang periodik dalam kondisi yang sesuai. Ketika gelombang memasuki medium berbeda, frekuensi umumnya tetap ditentukan sumber, sementara panjang gelombang dan cepat rambat dapat berubah.
+
+Intensitas menggambarkan daya yang melewati satuan luas. Pada sumber titik ideal yang memancarkan energi merata ke segala arah, intensitas berkurang ketika jarak bertambah karena energi tersebar pada permukaan yang semakin luas. Dalam lingkungan nyata, penyerapan, pemantulan, penghalang, dan arah sumber juga memengaruhi pengukuran.
+
+BAB PENDALAMAN: SUPERPOSISI DAN POLA INTERFERENSI
+
+Ketika dua gelombang bertemu, simpangan resultan mengikuti prinsip superposisi pada medium dan kondisi yang memenuhi pendekatan linear. Interferensi konstruktif terjadi ketika perbedaan fase menghasilkan penguatan, sedangkan interferensi destruktif menghasilkan pelemahan. Pola yang stabil memerlukan hubungan fase yang cukup teratur, misalnya dari sumber koheren.
+
+Difraksi adalah penyebaran gelombang ketika melewati celah atau tepi penghalang. Efeknya lebih mudah terlihat ketika ukuran celah sebanding dengan panjang gelombang. Interferensi dan difraksi bukan fenomena yang saling meniadakan; pola difraksi dapat terbentuk dari superposisi gelombang yang berasal dari berbagai bagian celah.
+
+BAB PENDALAMAN: OPTIKA GEOMETRIS DAN PEMBENTUKAN CITRA
+
+Optika geometris menggunakan pendekatan sinar untuk menggambarkan perjalanan cahaya ketika ukuran sistem jauh lebih besar daripada panjang gelombang. Hukum pemantulan menyatakan sudut datang sama dengan sudut pantul, diukur terhadap garis normal. Hukum pembiasan menghubungkan sudut datang dan sudut bias melalui indeks bias medium.
+
+Lensa konvergen dan divergen membelokkan sinar dengan cara berbeda. Persamaan lensa tipis menghubungkan jarak benda, jarak bayangan, dan panjang fokus berdasarkan konvensi tanda tertentu. Model ini menganggap lensa tipis, sinar dekat sumbu utama, dan penyimpangan optik kecil. Lensa nyata dapat mengalami aberasi sferis, aberasi kromatik, serta distorsi.
+
+BAB PENDALAMAN: BUNYI, PENDENGARAN, DAN AKUSTIK RUANG
+
+Bunyi merupakan gelombang mekanik yang frekuensinya dapat berada di luar rentang pendengaran manusia. Tinggi nada berkaitan dengan frekuensi, sedangkan kuat-lemah persepsi dipengaruhi intensitas dan karakteristik pendengaran. Timbre atau warna bunyi dipengaruhi komposisi harmonik dan bentuk perubahan amplitudo terhadap waktu.
+
+Dalam ruang tertutup, bunyi dipantulkan oleh permukaan. Waktu dengung dipengaruhi ukuran ruang, bentuk, dan kemampuan permukaan menyerap energi bunyi. Ruang yang terlalu bergema dapat mengurangi kejelasan ucapan, sedangkan ruang yang sangat menyerap bunyi dapat terasa kurang hidup untuk kegiatan musik tertentu. Perancangan akustik perlu menyesuaikan fungsi ruang.
+
+BAB PENDALAMAN: PENGUKURAN DAN KETIDAKPASTIAN
+
+Pengukuran gelombang memerlukan alat dengan rentang dan resolusi yang sesuai. Mikrofon memiliki respons frekuensi tertentu; sensor cahaya juga memiliki rentang spektral dan sudut penerimaan. Kalibrasi membantu menghubungkan pembacaan alat dengan standar, tetapi tidak menghapus seluruh ketidakpastian.
+
+Laporan eksperimen sebaiknya mencatat kondisi medium, jarak, suhu, posisi sensor, dan metode pengolahan. Pengulangan pengukuran membantu memperkirakan variasi acak, sedangkan pemeriksaan alat dan prosedur membantu menemukan kesalahan sistematis. Grafik harus mencantumkan satuan dan rentang pengukuran. Kesimpulan perlu dibatasi pada kondisi yang benar-benar diuji.
+

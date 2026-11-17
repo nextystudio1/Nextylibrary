@@ -353,3 +353,23 @@ Respons insiden dimulai dengan mengenali kejadian, membatasi dampak melalui peng
 
 Organisasi perlu memiliki jalur pelaporan yang mudah ditemukan, pembagian tanggung jawab, dan catatan kejadian yang tidak menyebarkan data sensitif. Setelah insiden, evaluasi penyebab dan perbaiki proses. Tujuan keamanan siber adalah mengurangi risiko dan menjaga layanan tetap dapat dipercaya, bukan menjanjikan bahwa risiko dapat dihapus sepenuhnya.
 
+BAB LANJUTAN: IDENTITAS DIGITAL, KEAMANAN PERANGKAT, DAN PEMULIHAN
+
+Identitas digital tidak hanya berupa nama pengguna. Identitas terbentuk dari alamat surel, nomor pemulihan, perangkat yang pernah dipercaya, metode autentikasi, serta hubungan antar akun. Karena itu, keamanan satu akun penting dapat memengaruhi akun lain. Gunakan alamat pemulihan yang masih dikuasai, aktifkan autentikasi berlapis bila tersedia, dan simpan kode pemulihan di tempat aman yang tidak mudah diakses orang lain. Hindari menjadikan satu akun sebagai satu-satunya jalan pemulihan bagi seluruh layanan tanpa rencana cadangan.
+
+Autentikasi membuktikan bahwa seseorang berhak masuk, sedangkan otorisasi menentukan apa yang boleh dilakukan setelah masuk. Keduanya berbeda. Seseorang mungkin berhasil masuk ke sistem tetapi seharusnya hanya dapat membaca, bukan mengubah atau menghapus data. Prinsip hak akses minimum berarti setiap pengguna memperoleh izin secukupnya untuk tugasnya. Tinjau izin ketika peran berubah dan cabut akses yang tidak lagi diperlukan.
+
+Perangkat lunak perlu diperbarui karena pembaruan sering memperbaiki kelemahan yang telah diketahui. Gunakan toko aplikasi dan situs resmi, periksa nama pengembang, serta baca izin yang diminta. Izin kamera atau lokasi mungkin masuk akal untuk fungsi tertentu, tetapi permintaan yang tidak berkaitan patut dipertanyakan. Jangan memasang berkas dari pesan tak dikenal hanya karena dijanjikan fitur tambahan. Jika perangkat dikelola sekolah atau organisasi, ikuti prosedur dukungan resminya.
+
+Pencadangan adalah bagian dari keamanan, bukan sekadar kemudahan. Salinan yang selalu tersambung dan dapat diubah oleh akun yang sama mungkin ikut terdampak ketika akun tersebut bermasalah. Organisasi dapat menyimpan beberapa versi cadangan, membatasi hak penghapusan, dan menguji pemulihan secara berkala. Cadangan yang belum pernah diuji belum membuktikan bahwa data dapat dipulihkan. Tentukan data mana yang paling penting, berapa lama kehilangan data masih dapat diterima, dan siapa yang bertanggung jawab menjalankan pemulihan.
+
+Ketika menerima pesan yang meminta tindakan segera, pisahkan isi pesan dari jalur verifikasinya. Jangan menggunakan nomor telepon atau tautan yang tercantum dalam pesan mencurigakan sebagai satu-satunya cara konfirmasi. Buka aplikasi atau situs resmi secara mandiri, lalu periksa pemberitahuan di sana. Tekanan waktu, ancaman, hadiah yang tidak masuk akal, dan permintaan merahasiakan transaksi merupakan tanda untuk berhenti dan memeriksa.
+
+Studi kasus: sebuah kelompok belajar menggunakan penyimpanan awan untuk berbagi dokumen. Tautan awal diatur agar siapa pun yang memilikinya dapat mengedit. Setelah dokumen berubah tanpa izin, pengelola meninjau riwayat aktivitas, membatasi akses berdasarkan akun, mengaktifkan persetujuan sebelum perubahan penting, dan menyimpan salinan versi. Mereka juga menetapkan aturan bahwa dokumen identitas tidak boleh ditempatkan di folder umum. Perbaikan ini mengurangi paparan tanpa menghambat kolaborasi.
+
+Latihan penerapan:
+1. Gambar peta akun penting dan metode pemulihannya tanpa menuliskan kata sandi.
+2. Kelompokkan izin aplikasi berdasarkan fungsi yang benar-benar dibutuhkan.
+3. Buat daftar data yang perlu dicadangkan dan jadwal pengujian pemulihan.
+4. Susun prosedur pelaporan jika anggota kehilangan akses akun.
+5. Jelaskan perbedaan autentikasi, otorisasi, dan prinsip hak akses minimum.

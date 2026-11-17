@@ -326,3 +326,34 @@ LATIHAN BAB
 3. Apa manfaat pemisahan tugas dalam pengendalian internal?
 4. Mengapa laba tidak selalu sama dengan kas?
 5. Buat contoh penyebab selisih anggaran yang perlu ditelusuri.
+
+BAB PENDALAMAN: SIKLUS AKUNTANSI SECARA TERPADU
+
+Siklus akuntansi dimulai dari identifikasi transaksi dan dokumen sumber. Transaksi dianalisis berdasarkan pengaruhnya terhadap aset, liabilitas, ekuitas, pendapatan, dan beban. Setelah dicatat dalam jurnal, jumlah dipindahkan ke buku besar dan diringkas dalam neraca saldo. Penyesuaian dilakukan untuk mencerminkan periode yang tepat sebelum laporan keuangan disusun.
+
+Jurnal penyesuaian dapat mencakup beban yang masih harus dibayar, pendapatan yang masih harus diterima, pembayaran di muka, dan penyusutan. Penyesuaian tidak selalu disertai arus kas pada saat pencatatan karena akuntansi akrual mengakui transaksi berdasarkan kejadian ekonomi dan periode yang relevan. Setelah laporan disusun, akun sementara ditutup sesuai prosedur.
+
+BAB PENDALAMAN: PERSEDIAAN DAN HARGA POKOK
+
+Persediaan memerlukan pencatatan kuantitas dan biaya. Metode penentuan biaya seperti FIFO atau rata-rata tertimbang dapat menghasilkan nilai persediaan akhir dan harga pokok penjualan yang berbeda ketika harga berubah. Pilihan metode harus mengikuti standar yang berlaku dan diterapkan konsisten sesuai ketentuan.
+
+Pengendalian persediaan mencakup pemisahan tugas pembelian, penerimaan, penyimpanan, dan pencatatan. Pemeriksaan fisik membantu membandingkan catatan dengan barang yang benar-benar tersedia. Selisih dapat berasal dari kesalahan pencatatan, kerusakan, kehilangan, atau perbedaan satuan. Penyebab perlu ditelusuri sebelum koreksi dilakukan.
+
+BAB PENDALAMAN: ASET TETAP DAN PENYUSUTAN
+
+Aset tetap digunakan lebih dari satu periode dan memberikan manfaat dalam kegiatan organisasi. Biaya perolehan mencakup komponen yang memenuhi kriteria pengakuan menurut standar. Setelah pengakuan awal, organisasi menilai penyusutan, penurunan nilai, biaya pemeliharaan, dan pelepasan aset sesuai kebijakan akuntansi.
+
+Penyusutan merupakan alokasi jumlah yang dapat disusutkan sepanjang umur manfaat, bukan pengukuran langsung harga pasar. Metode garis lurus membebankan jumlah relatif merata, sedangkan metode lain dapat mencerminkan pola konsumsi manfaat yang berbeda. Estimasi umur manfaat dan nilai residu perlu ditinjau jika kondisi berubah.
+
+BAB PENDALAMAN: ANGGARAN DAN ANALISIS SELISIH
+
+Anggaran menerjemahkan rencana ke dalam target keuangan dan operasional. Anggaran dapat membantu koordinasi, alokasi sumber daya, dan pemantauan. Namun, target yang terlalu kaku dapat mendorong perilaku mengejar angka tanpa memperhatikan kualitas. Anggaran perlu diperlakukan sebagai alat perencanaan, bukan ramalan yang pasti.
+
+Analisis selisih membandingkan hasil aktual dengan anggaran atau standar. Selisih harga dan kuantitas dapat membantu mengidentifikasi area yang perlu diperiksa, tetapi penjelasan tidak boleh berhenti pada angka. Perubahan volume, mutu bahan, keterlambatan pemasok, dan kondisi pasar mungkin saling berpengaruh. Tindak lanjut harus mencari penyebab yang dapat dikendalikan dan membedakannya dari faktor eksternal.
+
+BAB PENDALAMAN: ETIKA, AUDIT, DAN PENGENDALIAN INTERNAL
+
+Pengendalian internal membantu melindungi aset, menjaga keandalan catatan, dan mendukung kepatuhan. Pemisahan tugas mengurangi kemungkinan satu orang menguasai seluruh proses tanpa pemeriksaan. Otorisasi, rekonsiliasi, pembatasan akses, dan dokumentasi merupakan contoh pengendalian yang perlu disesuaikan dengan ukuran organisasi.
+
+Audit memberikan penilaian berdasarkan bukti dan prosedur yang dirancang untuk tujuan tertentu. Audit tidak menjamin bahwa seluruh kesalahan atau kecurangan pasti ditemukan. Independensi, skeptisisme profesional, kecukupan bukti, dan dokumentasi penting untuk menjaga mutu pemeriksaan. Akuntan juga perlu menghindari konflik kepentingan dan tidak memanipulasi laporan demi memenuhi tekanan pihak tertentu.
+

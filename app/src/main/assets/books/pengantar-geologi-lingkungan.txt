@@ -264,3 +264,39 @@ LATIHAN BAB
 3. Berikan contoh hubungan spasial yang belum tentu menunjukkan sebab-akibat.
 4. Sebutkan unsur penting pada peta geologi digital.
 5. Mengapa data lokasi tertentu perlu dibatasi aksesnya?
+
+BAB LANJUTAN. AIR TANAH DAN HUBUNGANNYA DENGAN GEOLOGI
+
+Air tanah tersimpan dan bergerak melalui pori, rekahan, atau rongga batuan. Lapisan yang dapat menyimpan dan mengalirkan air dalam jumlah berarti disebut akuifer. Kemampuan mengalirkan air dipengaruhi porositas, permeabilitas, ukuran butir, tingkat rekahan, dan keterhubungan antarpori. Material yang berpori belum tentu mudah meloloskan air jika porinya tidak saling terhubung.
+
+Permukaan air tanah dapat berubah mengikuti hujan, pemompaan, musim, dan kondisi geologi. Pengambilan air yang lebih cepat daripada pengisian dapat menurunkan muka air tanah. Dampaknya dapat mencakup peningkatan biaya pengambilan, berkurangnya aliran ke mata air, atau perubahan hubungan air tanah dengan sungai. Penilaian perlu menggunakan pengamatan berulang dan memperhatikan variasi musiman.
+
+Kualitas air tanah dipengaruhi mineral batuan, kondisi kimia, penggunaan lahan, dan kemungkinan masuknya pencemar. Parameter fisik, kimia, dan mikrobiologi menjawab pertanyaan berbeda. Penampilan jernih tidak menjamin air aman. Pengujian perlu dilakukan oleh pihak yang kompeten dengan metode dan pengambilan sampel yang sesuai. Hasil satu sampel tidak selalu mewakili seluruh sumur atau seluruh musim.
+
+Perlindungan air tanah menggabungkan pengelolaan penggunaan lahan, sanitasi, pengendalian sumber pencemar, pemantauan, dan edukasi. Peta kerentanan dapat membantu menentukan prioritas, tetapi bukan pengganti pemeriksaan lapangan. Data lokasi sumber air pribadi juga perlu dijaga agar tidak disalahgunakan.
+
+BAB LANJUTAN. TANAH, EROSI, DAN STABILITAS LERENG
+
+Tanah terbentuk melalui pelapukan batuan dan proses biologis dalam waktu panjang. Sifat tanah dipengaruhi bahan induk, iklim, organisme, relief, dan waktu. Lapisan tanah memiliki karakter berbeda dalam kandungan bahan organik, tekstur, struktur, dan mineral. Penggunaan lahan dapat mengubah sifat tersebut, terutama ketika tutupan vegetasi berkurang atau permukaan menjadi kedap air.
+
+Erosi adalah pelepasan dan pemindahan partikel tanah oleh air, angin, atau proses lain. Hujan dapat memecah agregat tanah dan menghasilkan aliran permukaan yang membawa sedimen. Vegetasi membantu melindungi permukaan dan memperlambat aliran, sementara praktik pengelolaan lahan dapat mengurangi tanah terbuka. Tingkat erosi dipengaruhi kemiringan, jenis tanah, intensitas hujan, panjang lereng, dan tutupan lahan.
+
+Stabilitas lereng dipengaruhi gaya yang mendorong massa tanah bergerak dan kekuatan material yang menahannya. Air dapat mengubah tekanan pori dan sifat material, sehingga hujan berkepanjangan menjadi salah satu faktor yang perlu diperhatikan. Pemotongan lereng, penambahan beban, dan perubahan drainase juga dapat mengubah kondisi. Penilaian keselamatan lereng harus dilakukan tenaga ahli; pengamatan umum tidak dapat menggantikan pemeriksaan teknis.
+
+Peta bahaya dan peta risiko memiliki arti berbeda. Bahaya menggambarkan kemungkinan proses fisik, sedangkan risiko juga mempertimbangkan paparan dan kerentanan manusia serta aset. Daerah dengan bahaya tertentu dapat memiliki tingkat risiko berbeda bergantung kepadatan penduduk, kualitas bangunan, akses evakuasi, dan kesiapan layanan.
+
+BAB LANJUTAN. REKLAMASI DAN PEMULIHAN LINGKUNGAN
+
+Kegiatan pertambangan, konstruksi, dan perubahan lahan dapat meninggalkan perubahan bentuk permukaan, tanah, air, serta habitat. Rencana pemulihan perlu dimulai sejak perencanaan kegiatan, bukan setelah kerusakan terjadi. Baseline lingkungan membantu membandingkan kondisi sebelum dan sesudah. Indikator pemulihan dapat mencakup kestabilan lahan, kualitas air, tutupan vegetasi, dan fungsi ekosistem.
+
+Reklamasi tidak cukup dinilai dari permukaan yang tampak hijau. Spesies yang ditanam, kondisi tanah, hubungan dengan habitat sekitar, dan keberlanjutan pemeliharaan perlu diperiksa. Pemantauan berulang membantu mengetahui apakah hasil bertahan setelah masa proyek. Komunitas lokal perlu dilibatkan karena mereka memahami penggunaan ruang dan perubahan yang dirasakan.
+
+LATIHAN
+1. Apa perbedaan porositas dan permeabilitas?
+2. Mengapa air tanah perlu dipantau lintas musim?
+3. Sebutkan faktor yang memengaruhi erosi.
+4. Apa perbedaan bahaya dan risiko?
+5. Mengapa reklamasi tidak cukup dinilai dari warna hijau permukaan?
+
+PROYEK
+Buat kajian konseptual suatu wilayah berdasarkan peta dan data publik. Identifikasi kondisi geologi, air, penggunaan lahan, dan potensi perubahan lingkungan. Jelaskan keterbatasan skala peta dan data, serta rekomendasikan informasi lapangan yang perlu diperoleh oleh tenaga kompeten.

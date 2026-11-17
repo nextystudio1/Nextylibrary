@@ -403,3 +403,32 @@ LATIHAN DAN PROYEK
 6. Mengapa strategi ventilasi alami harus mempertimbangkan kualitas udara luar?
 
 Proyek: amati bangunan publik yang boleh diakses. Buat diagram hubungan ruang dan jalur sirkulasi, catat kondisi cahaya serta kenyamanan pada waktu berbeda, dan identifikasi kebutuhan aksesibilitas. Usulkan perubahan konseptual yang tidak menyentuh struktur atau instalasi berisiko. Untuk setiap usulan, tuliskan manfaat, konsekuensi, kebutuhan pemeliharaan, dan aspek yang harus ditinjau arsitek atau insinyur profesional.
+
+BAB LANJUTAN: KINERJA BANGUNAN, RUANG PUBLIK, DAN DESAIN RESPONSIF
+
+Arsitektur menghubungkan kebutuhan manusia dengan ruang, struktur, teknologi, dan lingkungan. Kinerja bangunan tidak hanya dinilai dari tampilan fasad. Kenyamanan termal, pencahayaan, akustik, kualitas udara, aksesibilitas, keselamatan, dan biaya pemeliharaan memengaruhi pengalaman pengguna sepanjang umur bangunan. Keputusan desain pada tahap awal dapat menentukan kebutuhan energi dan kemudahan perawatan selama bertahun-tahun.
+
+Orientasi bangunan memengaruhi penerimaan panas matahari dan pencahayaan alami. Bentuk, bukaan, peneduh, dan ventilasi perlu dipertimbangkan bersama kondisi iklim lokal. Strategi pasif dapat mengurangi kebutuhan sistem mekanis, tetapi efektivitasnya bergantung pada arah angin, kelembapan, kebisingan, kualitas udara luar, dan pola penggunaan ruang. Desain tidak boleh mengandalkan satu strategi tanpa memeriksa kondisi setempat.
+
+Pencahayaan alami dapat meningkatkan kenyamanan dan mengurangi penggunaan lampu pada siang hari. Namun, bukaan yang tidak terkendali dapat menimbulkan silau dan panas berlebih. Perancangan perlu mempertimbangkan orientasi, kedalaman ruang, jenis kaca, dan perangkat peneduh. Pengukuran atau simulasi dapat membantu, tetapi hasilnya bergantung pada asumsi cuaca dan kondisi penggunaan. Pengguna juga membutuhkan kendali yang mudah dipahami.
+
+Akustik ruang berkaitan dengan sumber bunyi, jalur rambat, dan penerimaan di dalam ruang. Ruang belajar membutuhkan kondisi yang mendukung pemahaman ucapan, sedangkan ruang publik dapat memerlukan pengendalian kebisingan agar percakapan tidak saling mengganggu. Material penyerap, bentuk ruang, pemisahan fungsi, dan tata letak dapat memengaruhi kualitas akustik. Solusi harus disesuaikan dengan sumber gangguan dan kebutuhan kegiatan.
+
+Aksesibilitas berarti ruang dapat digunakan oleh orang dengan kemampuan dan kebutuhan yang beragam. Jalur tanpa hambatan, kemiringan yang sesuai, lebar sirkulasi, pegangan, informasi yang mudah dipahami, dan fasilitas sanitasi yang aksesibel perlu dipertimbangkan sejak awal. Menambahkan akses setelah bangunan selesai sering lebih sulit dan mahal. Pengguna dengan pengalaman berbeda sebaiknya dilibatkan dalam evaluasi desain.
+
+Ruang publik berfungsi sebagai tempat pertemuan, pergerakan, kegiatan ekonomi, dan interaksi sosial. Kualitasnya dipengaruhi keteduhan, tempat duduk, pencahayaan, keamanan, konektivitas, serta pemeliharaan. Ruang yang terlihat indah tetapi sulit dicapai atau tidak nyaman pada cuaca lokal mungkin jarang digunakan. Evaluasi pascapenggunaan dapat menunjukkan bagaimana ruang benar-benar dimanfaatkan, termasuk oleh kelompok yang sering tidak terwakili dalam perencanaan.
+
+Pemilihan material bangunan perlu memperhatikan kekuatan, ketahanan cuaca, emisi, perawatan, ketersediaan, dan akhir masa pakai. Material lokal dapat mengurangi jarak angkut, tetapi tetap perlu diperiksa kualitas dan dampak produksinya. Desain untuk pembongkaran dapat memudahkan komponen digunakan kembali. Perbandingan biaya sebaiknya melihat umur layanan dan pemeliharaan, bukan hanya biaya pembelian awal.
+
+Renovasi dan adaptasi bangunan dapat memperpanjang masa guna ruang dan mengurangi kebutuhan material baru. Namun, perubahan fungsi harus memeriksa kapasitas struktur, keselamatan kebakaran, sirkulasi, ventilasi, dan aturan bangunan. Penilaian struktur dan instalasi harus dilakukan oleh tenaga profesional yang berwenang. Kajian konseptual tidak boleh dianggap sebagai persetujuan teknis untuk melakukan pekerjaan konstruksi.
+
+Dokumentasi desain memudahkan koordinasi antara arsitek, insinyur, pemilik, kontraktor, dan pengguna. Gambar, spesifikasi, jadwal material, serta catatan revisi harus konsisten. Ketika terjadi perubahan, dampaknya pada biaya, waktu, dan kinerja perlu ditinjau. Serah terima juga perlu mencakup panduan operasi dan pemeliharaan agar bangunan dapat digunakan sesuai tujuan.
+
+Studi kasus: sebuah ruang belajar mengalami panas berlebih pada siang hari. Tim melakukan observasi waktu penggunaan, orientasi bukaan, kondisi peneduh, dan pola ventilasi. Mereka menyusun beberapa alternatif konseptual dan menilai dampaknya pada cahaya, kenyamanan, serta pemeliharaan. Perubahan struktur atau instalasi tidak dilakukan tanpa penilaian profesional dan persetujuan yang diperlukan.
+
+Latihan penerapan:
+1. Buat daftar faktor iklim yang memengaruhi desain ruang.
+2. Bandingkan manfaat dan risiko pencahayaan alami.
+3. Audit konseptual aksesibilitas ruang publik.
+4. Buat matriks pemilihan material berdasarkan umur layanan.
+5. Susun rencana evaluasi pascapenggunaan sebuah ruang belajar.

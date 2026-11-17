@@ -229,3 +229,30 @@ LATIHAN PENDALAMAN
 3. Sebutkan dua cara bahasa dapat menampilkan atau menyamarkan kuasa.
 4. Mengapa sampel korpus daring mungkin tidak mewakili seluruh penutur?
 5. Apa yang harus diperhatikan ketika membangun teknologi untuk bahasa dengan data terbatas?
+BAB LANJUTAN. ANALISIS WACANA, SOSIOLINGUISTIK, DAN PERUBAHAN BAHASA
+
+Bahasa tidak hanya tersusun dari kalimat yang berdiri sendiri. Dalam percakapan dan teks, makna dibangun melalui hubungan antarkalimat, tujuan penutur, pengetahuan bersama, dan situasi sosial. Analisis wacana mempelajari bagaimana kohesi, koherensi, giliran bicara, topik, serta struktur informasi membentuk pemahaman. Kata penghubung dapat menandai sebab, pertentangan, urutan, atau penjelasan. Rujukan seperti kata ganti perlu ditafsirkan berdasarkan konteks agar pembaca mengetahui siapa atau apa yang dimaksud.
+
+Pragmatik menelaah makna yang bergantung pada konteks penggunaan. Kalimat “Ruangan ini terang sekali” dapat menjadi deskripsi, pujian, atau permintaan tidak langsung untuk menutup tirai, bergantung pada situasi. Penutur sering menyampaikan lebih dari arti harfiah melalui implikatur, kesantunan, dan asumsi bersama. Karena itu, analisis bahasa perlu mempertimbangkan hubungan sosial dan tujuan komunikasi, bukan hanya kamus.
+
+Sosiolinguistik mempelajari hubungan bahasa dengan masyarakat. Penutur dapat memilih ragam berbeda ketika berbicara dengan keluarga, guru, teman, atau dalam dokumen resmi. Perbedaan itu disebut variasi register atau gaya, sedangkan variasi wilayah dan kelompok sosial dapat tampak dalam pelafalan, kosakata, dan tata bahasa. Variasi bukan bukti bahwa satu kelompok memiliki kemampuan berpikir lebih rendah. Penilaian bahasa sering mencerminkan norma institusi dan sejarah kekuasaan.
+
+Alih kode terjadi ketika penutur berganti bahasa atau ragam dalam satu percakapan atau bahkan satu kalimat. Pilihan tersebut dapat menandai identitas, kedekatan, topik, atau kebutuhan istilah. Campur kode dan peminjaman juga dapat muncul ketika komunitas berinteraksi dalam jangka panjang. Fenomena ini tidak selalu menunjukkan kurangnya penguasaan bahasa; penilaiannya harus mempertimbangkan pola penggunaan dan tujuan komunikatif.
+
+Bahasa berubah melalui inovasi, kontak, perubahan bunyi, pergeseran makna, dan perubahan tata bahasa. Kata baru dapat muncul untuk menyebut teknologi atau kebiasaan baru. Kata lama dapat memperoleh makna tambahan, menyempit, atau meluas. Perubahan bunyi dapat berlangsung bertahap pada komunitas dan generasi. Kamus mencatat penggunaan, tetapi tidak menjadi satu-satunya penentu bagaimana bahasa hidup dan berkembang.
+
+Bahasa yang terancam mengalami penurunan jumlah penutur atau berkurangnya ranah penggunaan. Dokumentasi dapat mencakup rekaman, kamus, tata bahasa, cerita, dan pengetahuan lokal. Namun, dokumentasi harus dilakukan bersama komunitas penutur. Mereka berhak menentukan bagian yang boleh direkam, siapa yang dapat mengaksesnya, dan bagaimana hasil digunakan. Pelestarian bahasa tidak cukup dengan menyimpan berkas; diperlukan ruang agar bahasa digunakan dalam keluarga, pendidikan, seni, dan kegiatan masyarakat.
+
+Dalam penelitian linguistik, korpus adalah kumpulan data bahasa yang disusun untuk tujuan tertentu. Korpus perlu memiliki metadata tentang sumber, waktu, genre, dan karakteristik sampel. Korpus percakapan media sosial tidak otomatis mewakili seluruh penutur karena tidak semua orang menggunakan platform yang sama. Peneliti harus menjelaskan cara pengumpulan, izin penggunaan, proses anonimisasi, serta keterbatasan representasi.
+
+Teknologi bahasa dapat memperluas akses, tetapi juga membawa bias. Sistem pengenal suara mungkin lebih akurat untuk aksen yang dominan dalam data pelatihan. Penerjemah otomatis dapat salah memahami idiom, humor, atau konteks budaya. Evaluasi perlu melibatkan penutur dengan ragam berbeda dan menguji tugas nyata. Untuk bahasa yang kurang memiliki data digital, kemitraan yang adil penting agar komunitas tidak hanya menjadi sumber data tanpa kendali atau manfaat.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa satu kalimat dapat memiliki maksud berbeda dalam konteks berbeda? Pembahasan: maksud dipengaruhi tujuan, hubungan penutur, situasi, dan pengetahuan bersama.
+2. Apakah alih kode selalu menunjukkan kelemahan berbahasa? Pembahasan: tidak; alih kode dapat menjadi strategi komunikasi dan penanda identitas.
+3. Mengapa korpus media sosial tidak selalu mewakili populasi? Pembahasan: akses platform, usia, wilayah, dan kebiasaan pengguna dapat membuat sampel tidak seimbang.
+4. Apa yang dimaksud ranah penggunaan bahasa? Pembahasan: situasi atau bidang kehidupan tempat bahasa digunakan, misalnya rumah, sekolah, pekerjaan, dan upacara.
+5. Mengapa komunitas perlu mengendalikan dokumentasi bahasa mereka? Pembahasan: dokumentasi dapat memuat pengetahuan dan identitas yang memerlukan persetujuan serta aturan akses.
+
+PROYEK MINI
+Amati secara etis dua contoh teks publik, misalnya pengumuman sekolah dan artikel berita. Bandingkan pilihan kata, tingkat formalitas, struktur informasi, dan pembaca yang dituju. Jangan mengumpulkan percakapan pribadi tanpa izin. Tuliskan bagaimana konteks memengaruhi bentuk bahasa dan apa yang tidak dapat disimpulkan hanya dari dua contoh.

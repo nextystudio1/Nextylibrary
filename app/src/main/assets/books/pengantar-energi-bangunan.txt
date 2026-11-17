@@ -210,3 +210,46 @@ LATIHAN PENDALAMAN
 3. Sebutkan faktor yang memengaruhi kualitas udara dalam ruang.
 4. Mengapa intensitas energi memerlukan konteks fungsi bangunan?
 5. Bagaimana membandingkan konsumsi sebelum dan sesudah intervensi secara adil?
+
+BAB LANJUTAN: SELUBUNG BANGUNAN DAN PERPINDAHAN PANAS
+
+Selubung bangunan memisahkan ruang dalam dari lingkungan luar. Atap, dinding, lantai, jendela, dan pintu memengaruhi perpindahan panas, masuknya udara, cahaya, serta kelembapan. Kinerja selubung bergantung pada bahan, ketebalan, sambungan, orientasi, dan mutu pemasangan. Celah kecil pada sambungan dapat mengurangi kinerja yang diharapkan dari bahan isolasi.
+
+Konduktivitas termal menggambarkan kemampuan bahan menghantarkan panas. Resistansi termal suatu lapisan bergantung pada ketebalan dan konduktivitasnya. Namun kinerja keseluruhan dinding juga dipengaruhi jembatan termal, sambungan, bukaan, dan aliran udara. Karena itu, satu nilai bahan tidak cukup untuk mewakili kinerja seluruh bangunan.
+
+Peneduhan mengurangi radiasi matahari yang masuk melalui jendela atau mengenai permukaan bangunan. Bentuk peneduh perlu disesuaikan dengan orientasi dan lintasan matahari. Vegetasi dapat membantu membentuk iklim mikro, tetapi perlu mempertimbangkan kebutuhan air, perawatan, dan keselamatan bangunan.
+
+BAB LANJUTAN: PENCAHAYAAN ALAMI DAN BUATAN
+
+Pencahayaan yang baik mendukung kegiatan tanpa menimbulkan silau atau kontras berlebihan. Intensitas cahaya perlu disesuaikan dengan tugas visual. Ruang membaca, koridor, dan ruang penyimpanan memiliki kebutuhan berbeda. Distribusi cahaya sama pentingnya dengan nilai rata-rata karena area gelap dan silau dapat mengganggu kenyamanan.
+
+Cahaya alami berubah menurut waktu, cuaca, orientasi, dan kondisi sekitar. Bukaan yang besar dapat mengurangi kebutuhan lampu pada siang hari, tetapi juga dapat meningkatkan panas dan silau. Desain perlu menyeimbangkan cahaya, peneduhan, dan kenyamanan termal.
+
+Lampu buatan dapat dibandingkan berdasarkan efikasi, umur pakai, kualitas warna, kemampuan pengaturan, dan kebutuhan perawatan. Sistem kendali seperti sensor kehadiran atau pengaturan berdasarkan cahaya siang dapat mengurangi penggunaan energi jika dipilih dan dikonfigurasi dengan tepat. Sistem otomatis yang tidak sesuai pola penggunaan justru dapat mengurangi kenyamanan.
+
+BAB LANJUTAN: VENTILASI, KUALITAS UDARA, DAN KESEHATAN RUANG
+
+Kualitas udara dalam ruang dipengaruhi sumber polutan, laju udara luar, penyaringan, kelembapan, dan aktivitas penghuni. Sumber dapat berupa asap, bahan pembersih, emisi material, debu, dan proses memasak. Mengurangi sumber pencemar sering kali sama pentingnya dengan menambah ventilasi.
+
+Ventilasi alami dipengaruhi angin dan perbedaan suhu, sedangkan ventilasi mekanis menggunakan kipas atau sistem pengondisian udara. Keduanya perlu dirancang agar udara masuk dan keluar melalui jalur yang sesuai. Udara luar juga dapat membawa polutan, sehingga lokasi bukaan dan kondisi lingkungan perlu dipertimbangkan.
+
+Pengukuran kualitas udara harus menyebutkan parameter, lokasi, durasi, alat, dan kondisi saat pengukuran. Satu pengukuran sesaat tidak menggambarkan seluruh variasi harian. Hasil perlu dibandingkan dengan standar yang berlaku dan ditafsirkan oleh pihak yang kompeten jika menyangkut kesehatan atau keselamatan.
+
+BAB LANJUTAN: AUDIT ENERGI DAN EVALUASI KINERJA
+
+Audit energi mengumpulkan informasi tentang konsumsi, pola operasi, kondisi peralatan, dan karakteristik bangunan. Data tagihan berguna untuk melihat tren, tetapi perlu dinormalisasi terhadap cuaca, luas, jam operasi, dan tingkat hunian. Perbandingan dua bangunan tanpa konteks dapat menghasilkan kesimpulan yang keliru.
+
+Indikator intensitas energi dapat dinyatakan sebagai energi per luas atau per unit layanan. Pemilihan indikator bergantung pada fungsi bangunan. Sekolah, rumah sakit, dan gudang memiliki pola penggunaan berbeda, sehingga satu tolok ukur tidak selalu adil untuk semuanya.
+
+Setiap usulan penghematan perlu memiliki perkiraan biaya, potensi manfaat, masa pelaksanaan, dampak kenyamanan, dan metode verifikasi. Setelah perubahan dilakukan, ukur kembali dengan periode dan kondisi yang sebanding. Jika hasil berbeda dari perkiraan, telusuri penyebabnya dan perbarui asumsi.
+
+LATIHAN
+1. Mengapa jembatan termal dapat mengurangi kinerja selubung?
+2. Bagaimana peneduhan memengaruhi panas dan cahaya?
+3. Mengapa kualitas udara tidak hanya ditentukan jumlah ventilasi?
+4. Apa fungsi normalisasi data energi?
+5. Bagaimana memverifikasi penghematan setelah intervensi?
+
+PROYEK
+Buat audit konseptual ruang kelas tanpa membongkar atau mengubah instalasi. Catat pola pemakaian, pencahayaan, keluhan kenyamanan, dan informasi energi yang tersedia dengan izin. Susun tiga usulan perbaikan, jelaskan manfaat dan keterbatasannya, serta tentukan data yang diperlukan untuk menguji dampaknya.
+

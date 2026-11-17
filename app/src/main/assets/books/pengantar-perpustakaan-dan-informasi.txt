@@ -246,3 +246,53 @@ Migrasi format dapat diperlukan ketika perangkat lunak lama tidak lagi tersedia.
 
 PROYEK PENGELOLAAN KOLEKSI
 Rancang kebijakan koleksi mini untuk perpustakaan pendidikan. Tetapkan komunitas pengguna, lima bidang prioritas, kriteria seleksi, prosedur penyiangan, standar metadata, kebijakan privasi, dan rencana preservasi. Uji rancangan pada sepuluh contoh bahan dengan format berbeda. Catat keputusan dan alasan agar dapat diaudit.
+BAB 16. KEBIJAKAN LAYANAN DAN TATA KELOLA PERPUSTAKAAN
+
+Perpustakaan membutuhkan kebijakan tertulis agar layanan berlangsung konsisten meskipun petugas berganti. Kebijakan layanan menjelaskan siapa yang dapat menggunakan layanan, bagaimana keanggotaan dikelola, bagaimana koleksi dipinjam atau diakses, serta bagaimana keluhan ditangani. Kebijakan yang baik menggunakan bahasa yang mudah dipahami dan dapat ditemukan oleh pengguna. Aturan yang hanya diketahui petugas berisiko diterapkan secara berbeda kepada orang yang berbeda.
+
+Tata kelola juga menjelaskan pembagian tanggung jawab. Pengelola koleksi dapat bertanggung jawab atas seleksi dan metadata, petugas layanan membantu kebutuhan informasi, sedangkan pengelola teknologi menjaga ketersediaan sistem dan keamanan data. Pada perpustakaan kecil, satu orang mungkin memegang beberapa peran. Meski demikian, keputusan penting tetap perlu dicatat agar alasan dan prosesnya dapat ditinjau.
+
+Kebijakan harus mengatur keadaan khusus, misalnya bahan hilang, keterlambatan, kerusakan, gangguan sistem, permintaan aksesibilitas, atau koreksi metadata. Sanksi perlu proporsional dan tidak boleh menjadi penghalang yang tidak perlu bagi akses pengetahuan. Perpustakaan dapat menggunakan pendekatan pemulihan, seperti komunikasi dan penggantian yang wajar, dengan memperhatikan kemampuan pengguna serta aturan yang berlaku.
+
+Evaluasi kebijakan dilakukan berdasarkan pengalaman pengguna dan data layanan. Jumlah kunjungan saja tidak cukup untuk menilai keberhasilan. Perhatikan apakah pengguna menemukan bahan, apakah pertanyaan terjawab, apakah layanan dapat digunakan kelompok yang berbeda, dan apakah koleksi benar-benar mendukung pembelajaran. Tinjauan berkala membantu menemukan aturan yang sudah tidak sesuai dengan kebutuhan.
+
+LATIHAN BAB 16
+1. Mengapa kebijakan layanan perlu ditulis dan dipublikasikan?
+2. Sebutkan pembagian peran yang mungkin ada pada perpustakaan kecil.
+3. Bagaimana menangani keterlambatan koleksi secara proporsional?
+4. Mengapa jumlah kunjungan tidak cukup menjadi satu-satunya ukuran mutu?
+5. Rancang satu prosedur penanganan keluhan yang transparan.
+
+BAB 17. ANALISIS KEBUTUHAN PENGGUNA DAN DESAIN LAYANAN
+
+Analisis kebutuhan pengguna bertujuan memahami pekerjaan yang ingin diselesaikan pengguna, hambatan yang dihadapi, serta kondisi akses mereka. Wawancara singkat dapat menggali pengalaman, sedangkan survei membantu melihat pola pada kelompok yang lebih besar. Pengamatan penggunaan layanan dapat menunjukkan bagian yang membingungkan, tetapi harus dilakukan dengan menghormati privasi dan memberi tahu peserta mengenai tujuan kegiatan.
+
+Pertanyaan penelitian sebaiknya netral. Pertanyaan “Apakah Anda setuju bahwa katalog baru lebih baik?” mendorong jawaban tertentu. Pertanyaan “Bagian mana dari katalog yang membantu atau menyulitkan Anda?” memberi ruang bagi pengalaman yang beragam. Jangan mengumpulkan nama atau informasi sensitif jika tidak diperlukan. Hasil perlu disajikan sebagai temuan kelompok dan tidak digunakan untuk mempermalukan individu.
+
+Peta perjalanan pengguna menggambarkan tahapan dari kebutuhan muncul hingga informasi digunakan. Contohnya, seorang pelajar menyadari perlu mencari sumber untuk tugas, memilih kata kunci, membuka katalog, menyaring hasil, mengakses buku, lalu mencatat informasi. Pada tiap tahap dapat ditemukan hambatan: istilah pencarian tidak cocok, filter membingungkan, akses penuh tidak tersedia, atau metadata tidak cukup menjelaskan isi. Peta ini membantu tim menentukan perbaikan berdasarkan masalah nyata.
+
+Prototipe layanan dapat berupa sketsa katalog, rancangan formulir bantuan, atau simulasi alur peminjaman. Uji prototipe dengan tugas yang realistis, bukan hanya menanyakan apakah tampilannya disukai. Catat keberhasilan tugas, waktu, kesalahan, pertanyaan, dan komentar. Temuan dari sedikit peserta berguna untuk menemukan masalah awal, tetapi tidak otomatis mewakili seluruh komunitas.
+
+LATIHAN BAB 17
+1. Apa perbedaan wawancara, survei, dan pengamatan?
+2. Ubah pertanyaan survei yang menggiring menjadi pertanyaan netral.
+3. Buat tahapan perjalanan pengguna yang mencari buku pelajaran.
+4. Mengapa prototipe perlu diuji dengan tugas nyata?
+5. Sebutkan cara menjaga privasi peserta evaluasi layanan.
+
+BAB 18. INDIKATOR KINERJA DAN PENGUKURAN DAMPAK
+
+Indikator kinerja membantu perpustakaan mengetahui apakah sumber daya dan layanan menghasilkan manfaat. Indikator input dapat berupa anggaran, koleksi, perangkat, dan jam kerja. Indikator proses menggambarkan kegiatan seperti pengolahan koleksi dan waktu respons. Indikator output mencatat hasil langsung, misalnya jumlah pertanyaan yang dijawab atau sesi literasi yang diselenggarakan. Dampak melihat perubahan yang lebih luas, seperti meningkatnya kemampuan pengguna menemukan sumber tepercaya.
+
+Setiap indikator memerlukan definisi operasional. “Penggunaan aktif” harus menjelaskan tindakan apa yang dihitung, periode pengukuran, serta cara menangani pengguna yang sama pada beberapa sesi. Tanpa definisi, angka dari bulan berbeda tidak dapat dibandingkan secara adil. Data kuantitatif sebaiknya dilengkapi umpan balik kualitatif agar alasan di balik perubahan dapat dipahami.
+
+Korelasi tidak selalu menunjukkan sebab-akibat. Jika jumlah peminjaman meningkat setelah renovasi, kenaikan itu mungkin dipengaruhi jam buka, promosi, kalender sekolah, atau perubahan jumlah anggota. Untuk menyatakan bahwa satu program menyebabkan perubahan, diperlukan rancangan evaluasi yang lebih kuat dan pertimbangan terhadap faktor lain. Perpustakaan tetap dapat menggunakan bukti sederhana, tetapi kesimpulan harus sebanding dengan mutu datanya.
+
+Dasbor yang baik menampilkan indikator yang benar-benar membantu keputusan, bukan sebanyak mungkin grafik. Hindari mengumpulkan data pribadi yang tidak diperlukan. Sajikan hasil dalam bentuk agregat, jelaskan keterbatasan, dan jangan membandingkan perpustakaan dengan kondisi komunitas yang sangat berbeda tanpa penyesuaian konteks.
+
+LATIHAN BAB 18
+1. Bedakan indikator input, proses, output, dan dampak.
+2. Mengapa definisi operasional penting untuk sebuah indikator?
+3. Berikan tiga faktor lain yang dapat memengaruhi kenaikan peminjaman.
+4. Apa risiko menggunakan terlalu banyak indikator?
+5. Rancang empat indikator untuk mengevaluasi program literasi informasi.

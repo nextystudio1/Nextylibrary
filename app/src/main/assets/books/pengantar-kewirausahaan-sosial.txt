@@ -372,3 +372,34 @@ Latihan penerapan:
 3. Rancang indikator yang dapat menunjukkan siapa yang belum terjangkau.
 4. Buat kerangka kesepakatan kemitraan yang membagi peran secara jelas.
 5. Jelaskan keputusan yang mungkin diambil ketika evaluasi menunjukkan dampak lebih kecil dari perkiraan.
+
+BAB LANJUTAN: MODEL DAMPAK, PEMBIAYAAN, DAN TATA KELOLA USAHA SOSIAL
+
+Kewirausahaan sosial berusaha menjawab masalah sosial melalui pendekatan yang dapat dijalankan secara berkelanjutan. Misi sosial harus diterjemahkan menjadi kelompok sasaran, kebutuhan yang dipahami, kegiatan, hasil yang diharapkan, dan ukuran dampak. Pernyataan misi yang luas belum cukup untuk memandu keputusan sehari-hari. Organisasi perlu menentukan masalah mana yang diprioritaskan dan perubahan apa yang realistis untuk dicapai.
+
+Teori perubahan menjelaskan hubungan antara sumber daya, aktivitas, keluaran, hasil, dan dampak jangka panjang. Misalnya, pelatihan keterampilan menggunakan pengajar dan materi sebagai sumber daya, sesi pembelajaran sebagai aktivitas, peserta lulus sebagai keluaran, dan peningkatan kemampuan sebagai hasil. Perubahan pendapatan atau kesempatan kerja dapat menjadi dampak yang dipengaruhi banyak faktor lain. Setiap hubungan memerlukan asumsi yang dapat diperiksa.
+
+Pemetaan pemangku kepentingan membantu memahami pihak yang memengaruhi atau terdampak oleh usaha sosial. Penerima manfaat bukan sekadar objek program; pengalaman dan pengetahuan mereka perlu terlibat dalam perencanaan. Pihak lain dapat mencakup keluarga, komunitas, pemerintah, pemasok, pendana, dan mitra. Kepentingan mereka tidak selalu sama, sehingga mekanisme komunikasi dan penyelesaian perbedaan perlu disiapkan.
+
+Model pendapatan harus mendukung misi tanpa menciptakan insentif yang bertentangan. Pendapatan dapat berasal dari penjualan produk, jasa, kontrak layanan, hibah, atau kombinasi sumber. Ketergantungan pada satu pendana dapat menimbulkan risiko ketika prioritas pendana berubah. Diversifikasi perlu dilakukan dengan mempertimbangkan kapasitas dan biaya pengelolaan, bukan sekadar menambah sebanyak mungkin sumber dana.
+
+Keuangan usaha sosial memerlukan pemisahan antara biaya program, biaya operasional, dan biaya pengembangan. Arus kas penting karena organisasi dapat memiliki pendapatan yang tercatat tetapi tetap kekurangan uang tunai untuk membayar kebutuhan harian. Anggaran perlu memasukkan biaya administrasi, pemeliharaan, pelatihan, evaluasi, dan cadangan yang wajar. Pelaporan keuangan yang jelas meningkatkan akuntabilitas kepada penerima manfaat dan pendukung.
+
+Pengukuran dampak harus memilih indikator yang relevan dan dapat dikumpulkan secara etis. Jumlah peserta sering berguna sebagai ukuran jangkauan, tetapi tidak menunjukkan apakah kehidupan peserta berubah. Indikator hasil dapat mencakup peningkatan keterampilan, akses layanan, atau kemampuan mengambil keputusan. Data kuantitatif sebaiknya dilengkapi penjelasan kontekstual agar angka tidak menghilangkan pengalaman yang beragam.
+
+Atribusi dampak merupakan tantangan penting. Perubahan yang terjadi setelah program belum tentu disebabkan oleh program itu sendiri. Faktor ekonomi, kebijakan, dukungan keluarga, dan kegiatan lain dapat berkontribusi. Organisasi perlu menyatakan kontribusi secara hati-hati dan menghindari klaim berlebihan. Evaluasi yang jujur dapat menemukan hasil yang tidak sesuai harapan dan menjadi dasar perbaikan.
+
+Tata kelola usaha sosial mencakup pembagian wewenang, pengawasan, transparansi, dan penanganan konflik kepentingan. Keputusan yang memengaruhi penerima manfaat perlu memiliki proses konsultasi yang layak. Mekanisme pengaduan harus mudah diakses dan tidak menimbulkan pembalasan terhadap pelapor. Organisasi juga perlu menjelaskan siapa yang bertanggung jawab atas penggunaan dana dan kualitas layanan.
+
+Kemitraan dapat memperluas jangkauan, tetapi memerlukan kesepakatan peran. Dokumen kerja sama sebaiknya menjelaskan tujuan, kontribusi, penggunaan data, kepemilikan hasil, pembagian biaya, durasi, dan cara mengakhiri kerja sama. Kesamaan misi perlu diperiksa, terutama ketika mitra memiliki kepentingan komersial atau reputasi yang dapat memengaruhi kepercayaan masyarakat. Penerima manfaat harus mengetahui perubahan penting dalam layanan.
+
+Skala bukan selalu tujuan terbaik. Memperluas program tanpa kapasitas dapat menurunkan kualitas dan mengurangi kedekatan dengan komunitas. Pilihan dapat berupa memperluas wilayah, memperdalam kualitas, membagikan metode kepada mitra, atau memperkuat kemampuan organisasi lokal. Keputusan skala perlu menimbang bukti dampak, biaya tambahan, kesiapan tim, dan risiko bagi penerima manfaat.
+
+Studi kasus: sebuah kelompok usaha sosial menyediakan produk olahan pangan dari produsen lokal. Mereka memetakan manfaat ekonomi bagi pemasok, standar mutu, biaya distribusi, dan akses konsumen. Evaluasi mencatat pendapatan pemasok serta kualitas hubungan kerja, bukan hanya nilai penjualan. Ketika permintaan meningkat, kelompok menilai kapasitas produksi dan dampak terhadap lingkungan sebelum memperluas operasi.
+
+Latihan penerapan:
+1. Buat teori perubahan untuk satu masalah sosial yang terdefinisi.
+2. Petakan pemangku kepentingan dan potensi konflik kepentingannya.
+3. Susun anggaran yang memisahkan biaya program dan operasional.
+4. Pilih indikator jangkauan, hasil, dan dampak.
+5. Buat kerangka kemitraan yang melindungi kepentingan penerima manfaat.

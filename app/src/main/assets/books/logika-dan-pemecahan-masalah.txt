@@ -380,3 +380,32 @@ Rencana pelaksanaan harus memuat penanggung jawab, sumber daya, tenggat, indikat
 Latihan terpadu
 
 Ambil masalah antrean panjang di sebuah layanan sekolah. Ukur waktu tunggu pada beberapa hari dan jam, catat jumlah petugas serta jenis layanan, lalu rumuskan beberapa kemungkinan penyebab. Jangan langsung menganggap kekurangan petugas sebagai satu-satunya jawaban. Buat diagram sebab-akibat, pilih data tambahan yang paling bernilai, susun dua alternatif perbaikan, dan tetapkan indikator uji coba. Setelah uji coba, jelaskan apa yang dapat disimpulkan dan apa yang masih belum diketahui.
+
+BAB LANJUTAN: PENALARAN KAUSAL, KEPUTUSAN, DAN PEMECAHAN MASALAH SISTEMATIS
+
+Pemecahan masalah yang baik dimulai dengan membedakan gejala dari masalah inti. Gejala adalah hal yang terlihat, sedangkan masalah inti menjelaskan kondisi yang perlu diperbaiki. Ketika suatu layanan sering terlambat, penyebabnya dapat berupa kapasitas, alur persetujuan, kualitas informasi, atau ketergantungan pada pihak lain. Menetapkan solusi sebelum memahami penyebab berisiko memperbaiki bagian yang salah.
+
+Pemetaan masalah membantu menunjukkan hubungan antarunsur. Diagram sebab-akibat dapat mengelompokkan faktor manusia, proses, teknologi, bahan, dan lingkungan. Peta proses menunjukkan urutan aktivitas serta titik tunggu. Kedua alat tersebut membantu membangun hipotesis, tetapi tidak membuktikan bahwa suatu faktor benar-benar menjadi penyebab. Hipotesis perlu dibandingkan dengan data dan pengamatan.
+
+Penalaran kausal menanyakan apakah perubahan pada satu faktor benar-benar menghasilkan perubahan pada faktor lain. Korelasi dapat muncul karena faktor ketiga atau karena arah pengaruh yang berbeda dari dugaan awal. Diagram sebab-akibat membantu menyatakan asumsi secara eksplisit. Untuk menguji hubungan, pilih data yang relevan, pertimbangkan urutan waktu, dan cari penjelasan alternatif. Kesimpulan harus sebanding dengan kekuatan bukti.
+
+Analisis akar masalah bukan kegiatan mencari seseorang untuk disalahkan. Tujuannya menemukan kondisi sistem yang memungkinkan masalah terjadi. Pertanyaan berulang tentang mengapa suatu kejadian muncul dapat membantu, tetapi jawaban tidak boleh dipaksakan menjadi satu penyebab tunggal. Masalah kompleks biasanya melibatkan beberapa faktor yang saling berinteraksi. Catatan proses dan perspektif pihak yang terlibat membantu menghindari kesimpulan yang terlalu sederhana.
+
+Pengambilan keputusan memerlukan kriteria yang ditetapkan sebelum membandingkan pilihan. Kriteria dapat mencakup manfaat, biaya, waktu, risiko, kemudahan penerapan, keadilan, dan dampak jangka panjang. Bobot kriteria mencerminkan prioritas dan nilai yang dipilih, sehingga perlu dijelaskan. Analisis multikriteria membantu menata pertimbangan, tetapi hasilnya bukan jawaban objektif yang bebas dari asumsi.
+
+Ketidakpastian perlu dibedakan dari risiko yang dapat diperkirakan. Dalam beberapa situasi, probabilitas dapat dihitung dari data yang cukup. Dalam situasi lain, informasi belum memadai untuk memberi angka yang bermakna. Pengambil keputusan dapat menggunakan skenario, rentang, dan analisis sensitivitas untuk melihat apakah pilihan tetap masuk akal ketika asumsi berubah. Keputusan yang kuat sering kali adalah keputusan yang dapat disesuaikan ketika informasi baru muncul.
+
+Biaya peluang adalah manfaat dari pilihan terbaik yang dilepas ketika sumber daya digunakan untuk pilihan lain. Anggaran terbatas membuat organisasi harus menentukan prioritas. Biaya yang terlihat bukan satu-satunya pertimbangan; waktu, perhatian, kesempatan belajar, dan konsekuensi lingkungan juga dapat menjadi biaya. Menyebut biaya peluang membantu menjelaskan mengapa suatu pilihan dipilih dan apa yang dikorbankan.
+
+Eksperimen kecil dapat mengurangi ketidakpastian sebelum perubahan diterapkan secara luas. Uji coba harus memiliki tujuan, kelompok atau konteks yang jelas, ukuran keberhasilan, dan batas penghentian. Perubahan yang berisiko tinggi tidak boleh diuji tanpa perlindungan yang sesuai. Hasil uji coba perlu ditafsirkan dengan memperhatikan ukuran sampel, kondisi pelaksanaan, dan kemungkinan faktor lain.
+
+Setelah keputusan diterapkan, evaluasi membandingkan hasil dengan tujuan. Indikator awal dapat menunjukkan apakah proses bergerak ke arah yang diharapkan, sedangkan indikator hasil menunjukkan perubahan yang lebih bermakna. Jika hasil berbeda dari perkiraan, tim perlu meninjau asumsi dan pelaksanaan, bukan sekadar mengulangi tindakan yang sama. Pembelajaran harus disimpan agar organisasi tidak kehilangan pengetahuan ketika anggota berganti.
+
+Studi kasus: perpustakaan sekolah menghadapi antrean panjang pada jam tertentu. Tim memetakan alur peminjaman, mengamati waktu tunggu, dan berbicara dengan pengguna serta petugas. Mereka menemukan beberapa kemungkinan penyebab, kemudian mencoba perubahan jadwal dan penataan informasi dalam skala terbatas. Hasil dinilai berdasarkan waktu tunggu, kesalahan pencatatan, dan pengalaman pengguna.
+
+Latihan penerapan:
+1. Bedakan gejala dan masalah inti dalam satu situasi sehari-hari.
+2. Buat diagram sebab-akibat dan tandai hipotesis yang perlu diuji.
+3. Susun kriteria untuk membandingkan tiga alternatif keputusan.
+4. Buat skenario ketika asumsi utama berubah.
+5. Rancang uji coba kecil dengan indikator dan batas penghentian yang jelas.

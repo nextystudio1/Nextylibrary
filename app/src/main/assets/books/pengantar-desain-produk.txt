@@ -264,3 +264,40 @@ LATIHAN
 4. Apa batasan klaim ramah lingkungan?
 5. Sebutkan dimensi sosial yang perlu dinilai dalam desain produk.
 
+PENDALAMAN: RISET PENGGUNA DAN PENGEMBANGAN PRODUK
+
+BAB: MENEMUKAN MASALAH YANG LAYAK DISELESAIKAN
+
+Proses desain dimulai dengan memahami situasi pengguna, bukan langsung memilih bentuk produk. Pernyataan masalah yang baik menjelaskan siapa yang mengalami kesulitan, dalam konteks apa, dan kebutuhan apa yang belum terpenuhi. Hindari memasukkan solusi ke dalam rumusan masalah terlalu dini. Jika masalah ditulis sebagai “pengguna membutuhkan aplikasi”, tim mungkin melewatkan kemungkinan bahwa informasi, layanan, atau perubahan proses sudah cukup.
+
+Riset pengguna dapat menggunakan wawancara, observasi dengan izin, analisis keluhan, dan telaah produk yang sudah ada. Setiap metode memiliki keterbatasan. Wawancara mengungkap pengalaman yang diceritakan, sedangkan observasi menunjukkan aktivitas dalam konteks tertentu. Keduanya dapat saling melengkapi. Catatan harus memisahkan pernyataan peserta dari interpretasi perancang.
+
+BAB: MENYUSUN KEBUTUHAN DAN SPESIFIKASI
+
+Temuan riset diterjemahkan menjadi kebutuhan yang dapat diperiksa. Kebutuhan pengguna berbeda dari spesifikasi teknis. “Mudah dibawa” merupakan kebutuhan umum; berat, dimensi, dan cara pegangan dapat menjadi parameter untuk menguji pemenuhannya. Target harus realistis, terukur, dan tidak bertentangan dengan keselamatan atau kebutuhan kelompok lain.
+
+Prioritas kebutuhan dapat ditentukan melalui tingkat kepentingan, frekuensi, risiko jika tidak terpenuhi, dan biaya implementasi. Matriks prioritas membantu tim berdiskusi, tetapi tidak menggantikan pertimbangan etis. Kebutuhan minoritas yang berkaitan dengan keselamatan atau aksesibilitas tidak boleh otomatis diabaikan hanya karena jumlah pesertanya kecil.
+
+BAB: PROTOTIPE DAN PENGUJIAN
+
+Prototipe merupakan representasi untuk mempelajari aspek tertentu dari rancangan. Sketsa menguji alur dan proporsi, model sederhana menguji bentuk, sedangkan prototipe fungsional menguji perilaku. Tidak setiap pertanyaan membutuhkan produk jadi. Pilih bentuk prototipe yang paling hemat sumber daya untuk memperoleh bukti yang relevan.
+
+Pengujian kegunaan perlu memiliki tugas yang jelas dan kriteria keberhasilan. Catat apakah peserta menyelesaikan tugas, bagian yang membingungkan, waktu yang dibutuhkan, dan komentar mereka. Jangan mengarahkan peserta agar memberikan jawaban positif. Satu sesi tidak membuktikan produk cocok bagi seluruh populasi; hasil harus diulang dan diuji dengan variasi pengguna.
+
+BAB: KEGAGALAN DESAIN DAN PERBAIKAN
+
+Kegagalan prototipe merupakan informasi, bukan alasan untuk menyalahkan pengguna. Jika orang berulang kali salah memahami tombol, masalah mungkin terletak pada label atau susunan antarmuka. Jika komponen mudah aus, tim perlu meninjau bahan, toleransi, dan kondisi penggunaan. Catat perubahan antarversi agar alasan keputusan dapat ditelusuri.
+
+Analisis kegagalan dapat mengurutkan masalah menurut kemungkinan, dampak, dan kemampuan deteksi. Penilaian tersebut merupakan alat bantu, bukan angka objektif yang selalu benar. Risiko serius harus ditangani sebelum produk digunakan. Pengujian yang melibatkan listrik, beban, panas, atau komponen berbahaya memerlukan fasilitas dan tenaga kompeten.
+
+BAB: STRATEGI PELUNCURAN DAN PEMBELAJARAN PASAR
+
+Produk yang berfungsi secara teknis belum tentu diterima pengguna. Peluncuran memerlukan informasi yang jujur, dukungan, perbaikan, ketersediaan suku cadang, dan mekanisme pengaduan. Klaim kinerja harus sesuai bukti pengujian. Data penggunaan perlu dikumpulkan secara proporsional, transparan, dan dengan perlindungan privasi.
+
+PROYEK
+
+Pilih benda sehari-hari yang aman untuk dianalisis. Rumuskan masalah pengguna, susun lima kebutuhan, buat dua alternatif konsep, tentukan kriteria pemilihan, dan gambarkan prototipe sederhana. Uji pemahaman rancangan melalui masukan sukarela. Tuliskan perubahan yang dilakukan serta alasan menolak alternatif lain.
+
+PERTANYAAN
+
+Mengapa masalah harus dirumuskan sebelum solusi? Bagaimana kebutuhan berbeda dari spesifikasi? Apa yang dapat dan tidak dapat dibuktikan prototipe? Mengapa pengujian harus menghindari pertanyaan yang menggiring? Bagaimana data pengguna dilindungi?

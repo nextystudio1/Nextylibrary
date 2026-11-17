@@ -289,3 +289,33 @@ LATIHAN BAB
 3. Bagaimana menjelaskan ketidakpastian tanpa membuat pesan menjadi kabur?
 4. Apa yang perlu dilakukan ketika bukti baru mengubah kesimpulan?
 5. Buat contoh kalimat yang membedakan temuan dan hipotesis.
+
+BAB LANJUTAN. MENYUSUN ARGUMEN DAN MENANGANI KEBERATAN
+
+Argumen yang kuat memiliki klaim, alasan, bukti, dan hubungan logis di antara ketiganya. Klaim menyatakan posisi yang hendak dipertahankan. Alasan menjelaskan mengapa posisi itu masuk akal, sedangkan bukti memberi dasar untuk memeriksanya. Contoh pribadi dapat membantu audiens memahami konteks, tetapi tidak selalu cukup untuk membuktikan bahwa suatu pola berlaku luas.
+
+Sumber bukti perlu dinilai berdasarkan relevansi, metode, kebaruan, dan kemungkinan bias. Angka tanpa definisi atau sumber sulit diverifikasi. Kutipan ahli perlu ditempatkan sesuai bidang keahliannya. Ketika dua sumber berbeda, periksa apakah keduanya membahas populasi, periode, dan ukuran yang sama. Perbedaan tidak selalu berarti salah satu pihak berbohong; mungkin pertanyaan atau metodenya berbeda.
+
+Argumen yang adil menyampaikan batas kesimpulan sendiri. Mengakui keterbatasan tidak otomatis melemahkan pesan; hal itu membantu audiens memahami seberapa jauh klaim dapat diterapkan. Hindari membuat lawan bicara tampak lebih sederhana daripada pendapat sebenarnya. Ringkas pandangan yang berbeda secara wajar sebelum menjelaskan alasan ketidaksetujuan.
+
+Keberatan dapat dijawab dengan klarifikasi, bukti tambahan, pengakuan terhadap bagian yang benar, atau revisi klaim. Tidak semua keberatan harus dijawab dengan perdebatan panjang. Jika data belum tersedia, nyatakan bahwa informasi masih perlu diperiksa dan jelaskan bagaimana pemeriksaan akan dilakukan.
+
+BAB LANJUTAN. PRESENTASI DATA DAN CERITA YANG JUJUR
+
+Cerita dapat membantu audiens memahami mengapa data penting, tetapi cerita tidak boleh menggantikan bukti. Mulailah dari pertanyaan yang ingin dijawab, jelaskan konteks, tampilkan temuan utama, lalu bahas keterbatasan dan implikasinya. Urutan ini membantu audiens mengikuti alasan tanpa harus menebak hubungan antarbagian.
+
+Grafik harus dipilih sesuai jenis data. Grafik garis cocok untuk perubahan berurutan sepanjang waktu, diagram batang untuk membandingkan kategori, dan sebaran untuk melihat hubungan dua variabel. Diagram lingkaran hanya berguna ketika bagian-bagian membentuk keseluruhan yang jelas dan kategorinya tidak terlalu banyak. Sumbu yang dipotong atau skala yang tidak konsisten dapat membesar-besarkan perbedaan.
+
+Saat menyajikan persentase, berikan jumlah dasar dan periode pengamatan. Perubahan dari dua menjadi empat kejadian adalah kenaikan seratus persen, tetapi jumlah absolutnya tetap kecil. Rata-rata dapat menyembunyikan variasi, sehingga median, rentang, atau distribusi mungkin lebih informatif. Jangan menghilangkan data yang tidak sesuai dengan pesan utama tanpa alasan metodologis.
+
+Penyaji perlu menyesuaikan kedalaman penjelasan dengan pengetahuan audiens, tanpa mengubah fakta untuk menyenangkan mereka. Istilah teknis dapat dijelaskan dengan analogi, lalu batas analogi tersebut dinyatakan. Sediakan ringkasan, daftar sumber, dan kesempatan bertanya agar presentasi dapat ditinjau setelah acara.
+
+LATIHAN
+1. Apa empat unsur dasar argumen?
+2. Mengapa pandangan berbeda perlu diringkas secara adil?
+3. Grafik apa yang sesuai untuk membandingkan kategori?
+4. Mengapa persentase harus disertai jumlah dasar?
+5. Bagaimana cara menjawab keberatan ketika bukti belum tersedia?
+
+PROYEK
+Siapkan presentasi lima menit mengenai persoalan pendidikan berbasis data publik. Sertakan klaim, alasan, sumber, satu grafik yang tepat, keterbatasan, dan satu pandangan alternatif. Minta pendengar menilai apakah kesimpulan sesuai bukti.

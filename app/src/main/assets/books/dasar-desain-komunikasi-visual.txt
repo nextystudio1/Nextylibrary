@@ -27,6 +27,8 @@ LATIHAN BAB 1
 
 BAB 2. HIERARKI DAN TATA LETAK
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/hierarki-tata-letak.svg|Ilustrasi hierarki visual dalam tata letak dengan judul, isi, dan elemen pendukung.]]
+
 Hierarki visual mengatur urutan perhatian. Ukuran, ketebalan, posisi, kontras, dan ruang kosong dapat menunjukkan mana judul, subjudul, isi, dan keterangan. Gunakan grid sebagai panduan agar elemen sejajar dan konsisten. Ruang kosong bukan ruang terbuang; ia membantu mata beristirahat dan memisahkan kelompok informasi.
 
 Mulailah dengan sketsa hitam-putih sebelum memilih warna. Letakkan judul dan pesan utama terlebih dahulu, lalu informasi pendukung. Periksa apakah pembaca dapat memahami inti desain dalam beberapa detik. Jika semua elemen tampak sama penting, hierarki perlu diperbaiki.

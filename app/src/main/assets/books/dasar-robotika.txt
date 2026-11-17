@@ -35,6 +35,8 @@ LATIHAN PEMAHAMAN
 
 BAB 2. SENSOR DAN PERSEPSI
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/robot-sensor-kendali.svg|Diagram sensor, pengendali, aktuator, dan umpan balik pada sistem robot.]]
+
 [[NEXTY_IMAGE|file:///android_asset/illustrations/siklus-kendali-robot.svg|Diagram siklus kendali robot yang menggunakan sensor dan umpan balik.]]
 
 Sensor mengubah besaran fisik menjadi sinyal yang dapat diolah. Contohnya sensor jarak, cahaya, suhu, tekanan, dan orientasi. Setiap sensor memiliki rentang ukur, resolusi, ketelitian, waktu respons, dan sumber gangguan. Pembacaan perlu dikalibrasi serta dibandingkan dengan kondisi nyata agar sistem tidak mengambil keputusan dari data keliru.

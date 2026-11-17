@@ -55,6 +55,8 @@ Produk perlu menjalankan fungsi utama dengan jelas. Pengalaman pengguna juga dip
 
 BAB 3. SKETSA DAN EKSPLORASI KONSEP
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/proses-desain-produk.svg|Tahapan iteratif riset, ideasi, prototipe, pengujian, dan perbaikan produk.]]
+
 Sketsa membantu mengeksplorasi banyak gagasan dengan cepat. Buat beberapa alternatif, lalu bandingkan berdasarkan kebutuhan, biaya, kemudahan pembuatan, ketahanan, dan dampak lingkungan. Jangan memilih hanya karena satu konsep terlihat menarik; catat alasan dan bukti yang mendukung keputusan.
 
 BAB 4. BAHAN DAN PROSES PRODUKSI

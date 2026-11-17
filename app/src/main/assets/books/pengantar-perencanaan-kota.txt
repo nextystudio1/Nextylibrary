@@ -31,6 +31,8 @@ LATIHAN
 
 BAB 2. TATA GUNA LAHAN
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/zonasi-kota.svg|Diagram zonasi konseptual untuk permukiman, usaha, fasilitas, ruang terbuka, dan pertanian kota.]]
+
 Tata guna lahan menentukan lokasi hunian, perdagangan, industri, fasilitas umum, dan ruang hijau. Pemisahan fungsi dapat mengurangi konflik tertentu tetapi juga memperpanjang perjalanan. Perencanaan campuran fungsi dapat mendekatkan kebutuhan harian jika dirancang dengan keselamatan dan kenyamanan.
 
 BAB 3. HUNIAN DAN LAYANAN DASAR

@@ -206,3 +206,45 @@ LATIHAN PENDALAMAN
 3. Mengapa pencegahan limbah perlu didahulukan daripada daur ulang?
 4. Bedakan pengurangan emisi langsung dan pengimbangan emisi.
 5. Sebutkan tiga sumber bias atau ketidakpastian dalam evaluasi kebijakan lingkungan.
+
+PENDALAMAN EKONOMI LINGKUNGAN: INSENTIF, DISTRIBUSI BIAYA, DAN EVALUASI KEBIJAKAN
+
+BAB 22. INSENTIF, PERILAKU, DAN RESPONS PELAKU EKONOMI
+
+Kebijakan lingkungan bekerja melalui perubahan insentif, tetapi respons pelaku tidak selalu sama. Rumah tangga, perusahaan kecil, industri besar, dan pemerintah daerah memiliki kemampuan, informasi, serta pilihan yang berbeda. Pungutan atas kemasan sekali pakai, misalnya, dapat mendorong konsumen membawa wadah sendiri. Namun perubahan hanya mungkin jika alternatif tersedia, harganya terjangkau, dan fasilitas pencucian atau pengumpulan memadai. Jika syarat tersebut tidak ada, pungutan dapat sekadar menambah pengeluaran tanpa mengurangi limbah.
+
+Analisis respons perlu membedakan elastisitas permintaan, kemampuan mengganti produk, dan hambatan perilaku. Produk yang tidak memiliki pengganti mudah dijangkau cenderung sulit dikurangi dalam waktu singkat. Perusahaan mungkin membutuhkan investasi untuk mengganti mesin atau bahan baku. Masa transisi, bantuan teknis, dan kepastian aturan dapat membantu penyesuaian tanpa menghilangkan tujuan lingkungan.
+
+Insentif juga dapat menimbulkan efek pantulan. Peralatan yang lebih hemat energi menurunkan biaya penggunaan, tetapi penghematan tersebut kadang mendorong penggunaan lebih lama atau lebih sering. Karena itu, evaluasi efisiensi perlu melihat konsumsi total, bukan hanya konsumsi per unit. Kebijakan informasi, standar minimum, dan perencanaan layanan dapat melengkapi insentif harga.
+
+BAB 23. DISTRIBUSI DAMPAK DAN TRANSISI YANG ADIL
+
+Dampak kebijakan tidak terbagi rata. Pungutan energi dapat memberi sinyal penghematan, tetapi rumah tangga berpendapatan rendah mungkin menghabiskan bagian pendapatan lebih besar untuk kebutuhan energi. Sebaliknya, kelompok yang memiliki kendaraan lebih banyak dapat menghasilkan emisi lebih tinggi. Penilaian yang hanya melihat jumlah penerimaan atau penurunan rata-rata dapat mengabaikan perbedaan tersebut.
+
+Analisis distribusi dapat membagi dampak menurut pendapatan, lokasi, jenis pekerjaan, usia, dan akses layanan. Data harus dikumpulkan secara proporsional dan menjaga privasi. Jika data kelompok tertentu tidak tersedia, keterbatasan tersebut harus disebutkan; jangan menganggap rata-rata mewakili semua orang.
+
+Transisi yang adil menghubungkan target lingkungan dengan perlindungan sosial dan kesempatan ekonomi. Pilihannya dapat mencakup bantuan terarah, pelatihan keterampilan, dukungan bagi usaha kecil, transportasi publik yang terjangkau, dan konsultasi dengan pekerja yang terdampak. Bantuan perlu dirancang agar tidak menjadi subsidi permanen bagi pencemaran. Ukur pula apakah manfaat benar-benar sampai kepada kelompok sasaran.
+
+BAB 24. MEMBACA DATA EKONOMI-LINGKUNGAN
+
+Indikator ekonomi dan lingkungan sering menggunakan satuan serta periode berbeda. Produk domestik regional, jumlah pekerjaan, konsentrasi polutan, luas tutupan hutan, dan kualitas air tidak dapat dijumlahkan begitu saja. Sebelum membandingkan, periksa definisi, cakupan wilayah, tahun dasar, metode pengukuran, dan perubahan klasifikasi.
+
+Indikator intensitas menunjukkan dampak per unit kegiatan, sedangkan indikator absolut menunjukkan total tekanan. Emisi per unit produksi dapat turun ketika teknologi membaik, tetapi total emisi masih naik jika produksi meningkat lebih cepat. Kedua ukuran menjawab pertanyaan berbeda dan sebaiknya ditampilkan bersama.
+
+Saat menyusun grafik, beri label satuan, sumber, periode, dan catatan data yang hilang. Jangan memotong sumbu tanpa penjelasan yang dapat membuat perubahan tampak jauh lebih besar. Jika dua variabel bergerak bersama, periksa kemungkinan faktor ketiga sebelum menyatakan hubungan sebab-akibat. Analisis yang bertanggung jawab menjelaskan apa yang diketahui, apa yang belum diketahui, dan keputusan apa yang masih memerlukan bukti tambahan.
+
+STUDI KASUS TERARAH: PROGRAM EFISIENSI ENERGI PASAR
+
+Sebuah pasar tradisional ingin mengurangi biaya listrik. Tim mengumpulkan tagihan bulanan, jam operasional, jenis peralatan, kondisi ventilasi, dan keluhan pedagang. Mereka tidak langsung menyimpulkan bahwa semua kios membutuhkan lampu atau pendingin yang sama. Kios makanan, pakaian, dan penyimpanan memiliki kebutuhan berbeda.
+
+Alternatif pertama adalah mengganti lampu dengan perangkat lebih efisien. Alternatif kedua adalah memperbaiki tata cahaya dan memanfaatkan pencahayaan alami dengan tetap menjaga keselamatan. Alternatif ketiga adalah perawatan peralatan dan pengaturan jadwal penggunaan. Setiap pilihan dinilai dari biaya awal, penghematan terukur, kenyamanan, umur perangkat, dan kemampuan pedagang berpartisipasi.
+
+Pengukuran dilakukan sebelum dan sesudah dengan periode yang sebanding. Perubahan cuaca, jumlah kios buka, dan jam kegiatan dicatat sebagai faktor yang mungkin memengaruhi hasil. Laporan akhir menyajikan penghematan total dan per kios, serta menjelaskan siapa yang membayar investasi dan siapa yang menerima manfaat.
+
+LATIHAN ANALISIS
+
+1. Mengapa pungutan lingkungan perlu disertai pemeriksaan ketersediaan alternatif?
+2. Berikan contoh efek pantulan pada penggunaan energi dan jelaskan cara mengukurnya.
+3. Buat tiga kelompok sosial yang perlu diperhatikan dalam kebijakan transisi energi.
+4. Bedakan indikator intensitas dan indikator absolut dengan contoh.
+5. Susun rancangan evaluasi program efisiensi yang membandingkan kondisi sebelum dan sesudah secara adil.

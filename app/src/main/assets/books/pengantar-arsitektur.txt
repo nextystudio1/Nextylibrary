@@ -316,3 +316,47 @@ LATIHAN
 3. Bedakan penyerapan bunyi dan isolasi bunyi.
 4. Mengapa aksesibilitas harus dinilai sebagai rangkaian perjalanan?
 5. Apa batas penggunaan model tiga dimensi dalam dokumentasi teknis?
+
+BAB: KENYAMANAN TERMAL DAN KUALITAS RUANG DALAM
+
+Kenyamanan termal dipengaruhi suhu udara, suhu permukaan, kelembapan, pergerakan udara, pakaian, dan aktivitas penghuni. Karena itu, satu angka suhu tidak selalu menggambarkan kenyamanan semua orang. Desain perlu mempertimbangkan iklim setempat, orientasi bangunan, penggunaan ruang, dan variasi kebutuhan penghuni.
+
+Strategi pasif dapat membantu mengurangi kebutuhan energi. Penempatan bukaan, peneduh, orientasi, vegetasi, dan karakter selubung bangunan memengaruhi panas yang masuk dan keluar. Strategi tersebut harus disesuaikan dengan kondisi tapak; solusi yang cocok untuk satu iklim belum tentu cocok untuk wilayah lain. Pengukuran dan simulasi dapat membantu membandingkan alternatif sebelum keputusan dibuat.
+
+Kualitas udara dalam ruang juga penting. Ventilasi membantu pertukaran udara, sementara pemilihan bahan dan pemeliharaan dapat memengaruhi sumber polutan. Perancang perlu bekerja bersama tenaga ahli untuk menentukan sistem yang sesuai standar. Pengguna bangunan perlu memperoleh informasi pengoperasian dan perawatan agar kinerja desain dapat dipertahankan.
+
+BAB: AKUSTIK DAN PENGALAMAN PENGGUNA
+
+Kualitas akustik memengaruhi percakapan, konsentrasi, privasi, dan kenyamanan. Ruang kelas membutuhkan kondisi yang mendukung suara pengajar terdengar jelas, sedangkan ruang kerja bersama perlu mengelola percakapan agar tidak mengganggu kegiatan lain. Bentuk ruang, permukaan, perabot, dan sumber kebisingan dari luar sama-sama berpengaruh.
+
+Penyerapan bunyi mengurangi pantulan di dalam ruang, sementara isolasi bunyi membatasi perpindahan suara antar ruang. Keduanya menyelesaikan persoalan berbeda. Menambah bahan penyerap tidak otomatis mengatasi suara kendaraan dari luar. Analisis harus mengidentifikasi sumber dan jalur suara sebelum menentukan pendekatan.
+
+Pengalaman akustik juga berbeda bagi pengguna. Orang dengan sensitivitas tertentu dapat membutuhkan ruang yang lebih tenang atau pilihan tempat duduk. Desain yang baik menyediakan variasi ruang dan menghindari anggapan bahwa satu tingkat kebisingan cocok bagi semua orang. Evaluasi dapat dilakukan melalui pengukuran dan umpan balik penghuni.
+
+BAB: RUANG PUBLIK DAN KEHIDUPAN SOSIAL
+
+Ruang publik meliputi taman, plaza, jalur pejalan kaki, perpustakaan, dan ruang bersama lain. Kualitasnya tidak hanya ditentukan oleh bentuk fisik, tetapi juga rasa aman, akses, pemeliharaan, kegiatan, dan aturan penggunaan. Ruang yang indah tetapi sulit dicapai atau tidak nyaman digunakan pada waktu tertentu belum tentu berhasil melayani masyarakat.
+
+Perancang perlu mengamati pola penggunaan pada waktu dan kondisi berbeda. Siapa yang datang, kegiatan apa yang berlangsung, bagian mana yang dihindari, dan hambatan apa yang muncul? Pengamatan harus menghormati privasi dan tidak mengidentifikasi individu. Diskusi komunitas dapat melengkapi data perilaku dengan pengalaman pengguna.
+
+Desain ruang publik perlu mempertimbangkan kelompok yang sering kurang terwakili, termasuk anak, lansia, penyandang disabilitas, dan orang yang menggunakan ruang untuk bekerja atau berdagang. Keterlibatan warga sejak awal membantu mengungkap kebutuhan yang tidak tampak pada gambar rencana. Mekanisme pemeliharaan dan pengelolaan juga perlu disepakati, bukan hanya pembangunan awal.
+
+BAB: ADAPTASI IKLIM DAN KETAHANAN BANGUNAN
+
+Bangunan berhadapan dengan panas, hujan, angin, kelembapan, dan perubahan kondisi lingkungan. Adaptasi dimulai dengan memahami bahaya setempat dan kerentanan penghuni. Data iklim, riwayat kejadian, karakter tapak, dan kondisi infrastruktur menjadi dasar analisis. Rancangan harus mengikuti peraturan dan standar teknis yang berlaku.
+
+Ketahanan tidak hanya berarti bangunan tetap berdiri. Bangunan perlu mendukung keselamatan, akses layanan, dan pemulihan fungsi setelah gangguan. Jalur evakuasi, akses petugas, pemeliharaan, serta kesinambungan utilitas perlu dipertimbangkan bersama tenaga profesional. Keputusan struktur dan proteksi keselamatan tidak boleh dibuat berdasarkan perkiraan pembaca tanpa kajian ahli.
+
+Adaptasi juga dapat dilakukan melalui pengelolaan air hujan, peneduhan, ruang hijau, dan pemilihan material yang sesuai. Setiap strategi memiliki konsekuensi perawatan. Rancangan yang mengandalkan sistem tetapi tidak memiliki rencana pemeliharaan dapat kehilangan manfaatnya. Evaluasi pascapenggunaan membantu mengetahui apakah strategi benar-benar bekerja.
+
+PROYEK
+
+Analisis satu bangunan publik yang boleh diamati. Buat catatan tentang akses masuk, orientasi, pencahayaan, kenyamanan termal, akustik, dan hubungan dengan ruang luar. Bedakan pengamatan langsung dari dugaan. Susun usulan konseptual yang tidak mengubah struktur dan tandai hal yang memerlukan kajian arsitek atau insinyur.
+
+PERTANYAAN
+
+1. Mengapa kenyamanan termal tidak dapat dinilai hanya dari suhu udara?
+2. Apa perbedaan penyerapan dan isolasi bunyi?
+3. Mengapa ruang publik perlu diamati pada waktu berbeda?
+4. Apa arti ketahanan bangunan selain kekuatan fisik?
+5. Mengapa rencana pemeliharaan perlu dirancang sejak awal?

@@ -217,3 +217,53 @@ LATIHAN PENDALAMAN
 3. Mengapa forum koordinasi perlu memiliki tindak lanjut?
 4. Bedakan evaluasi proses, hasil, dan dampak.
 5. Mengapa perbandingan sebelum-sesudah belum tentu membuktikan dampak kebijakan?
+BAB LANJUTAN 4. ANALISIS DISTRIBUSI DAN DAMPAK KEBIJAKAN
+
+Kebijakan publik dapat menghasilkan manfaat agregat tetapi membagikan manfaat dan biaya secara tidak merata. Program transportasi, pajak, subsidi, atau perubahan tata ruang dapat menguntungkan sebagian kelompok dan membebani kelompok lain. Karena itu, evaluasi tidak cukup hanya melihat jumlah manfaat total; distribusi menurut pendapatan, wilayah, usia, gender, disabilitas, dan kelompok terdampak lain juga perlu diperiksa secara relevan dan etis.
+
+Analisis distribusi dimulai dengan menentukan siapa yang menerima manfaat, siapa yang membayar biaya, dan siapa yang mungkin tidak terjangkau. Data rata-rata dapat menyembunyikan perbedaan besar antar kelompok. Segmentasi perlu dilakukan dengan menjaga privasi dan menghindari kategori yang menstigma. Jika data kelompok tertentu tidak tersedia, keterbatasan tersebut perlu dinyatakan.
+
+Kompensasi atau langkah mitigasi dapat mengurangi dampak yang tidak diinginkan. Misalnya, perubahan tarif layanan dapat disertai perlindungan bagi pengguna berpendapatan rendah atau peningkatan akses alternatif. Namun, kompensasi harus dirancang agar tepat sasaran, mudah diakses, dan tidak menimbulkan beban administrasi yang justru mengecualikan penerima.
+
+Keadilan prosedural sama pentingnya dengan hasil distribusi. Masyarakat perlu mengetahui alasan kebijakan, dapat menyampaikan keberatan, dan memperoleh jawaban. Proses konsultasi yang dilakukan setelah keputusan tidak lagi dapat berubah berisiko menjadi formalitas. Keterlibatan sejak tahap perumusan dapat memperbaiki desain dan membangun kepercayaan.
+
+LATIHAN BAB
+1. Mengapa manfaat agregat tidak cukup menilai kebijakan?
+2. Sebutkan kelompok yang mungkin perlu dianalisis dalam evaluasi distribusi.
+3. Apa risiko data rata-rata?
+4. Bagaimana kompensasi dapat gagal menjangkau kelompok sasaran?
+5. Apa perbedaan keadilan hasil dan keadilan prosedural?
+
+BAB LANJUTAN 5. PERILAKU, INSENTIF, DAN DESAIN KEBIJAKAN
+
+Kebijakan sering mengasumsikan bahwa masyarakat akan merespons informasi dan insentif secara rasional serta seragam. Dalam kenyataan, keputusan dipengaruhi kebiasaan, keterbatasan perhatian, norma sosial, kepercayaan, dan cara pilihan disajikan. Memahami perilaku membantu perancang kebijakan mengidentifikasi mengapa program yang secara teori baik tidak selalu digunakan.
+
+Penyederhanaan proses dapat meningkatkan akses. Formulir yang lebih singkat, informasi yang jelas, pengingat yang tepat waktu, dan layanan yang tersedia pada jam sesuai kebutuhan dapat mengurangi hambatan. Namun, desain pilihan tidak boleh menyembunyikan konsekuensi atau memanipulasi warga. Pengguna harus tetap memiliki pilihan yang dapat dipahami dan mekanisme untuk menolak.
+
+Uji coba skala kecil dapat membantu mengukur apakah perubahan desain benar-benar meningkatkan hasil. Uji coba perlu memiliki indikator, kelompok sasaran, periode, dan perlindungan etis. Hasil yang positif pada satu tempat belum tentu berlaku di tempat lain karena norma, infrastruktur, dan kepercayaan dapat berbeda. Replikasi dan evaluasi lokal tetap diperlukan.
+
+Insentif dapat menimbulkan efek samping. Target yang terlalu sempit dapat mendorong organisasi mengejar angka dan mengabaikan kualitas. Subsidi dapat meningkatkan akses tetapi juga mengubah perilaku pasar. Evaluasi perlu mencari perubahan yang tidak direncanakan dan memperbaiki rancangan ketika insentif menghasilkan perilaku yang bertentangan dengan tujuan.
+
+LATIHAN BAB
+1. Sebutkan faktor perilaku yang dapat memengaruhi penggunaan layanan publik.
+2. Bagaimana penyederhanaan proses dapat meningkatkan akses?
+3. Mengapa desain pilihan harus tetap transparan?
+4. Apa keterbatasan uji coba kebijakan pada satu wilayah?
+5. Berikan contoh efek samping dari target kinerja yang terlalu sempit.
+
+BAB LANJUTAN 6. PENGANGGARAN BERBASIS KINERJA DAN TRANSPARANSI
+
+Penganggaran berbasis kinerja menghubungkan alokasi sumber daya dengan tujuan, keluaran, dan hasil program. Kerangka ini membantu pembuat keputusan menilai apakah anggaran mendukung prioritas. Namun, hubungan antara dana dan hasil tidak selalu sederhana karena dampak dapat dipengaruhi kondisi ekonomi, perilaku masyarakat, atau kebijakan lain.
+
+Indikator anggaran perlu memiliki definisi, sumber data, frekuensi, dan penanggung jawab. Indikator keluaran seperti jumlah layanan yang diberikan lebih mudah dihitung daripada hasil jangka panjang seperti peningkatan kesejahteraan. Keduanya berguna, tetapi tidak boleh dipertukarkan. Organisasi perlu menghindari memilih indikator yang mudah dihitung tetapi tidak mewakili tujuan program.
+
+Transparansi anggaran memungkinkan masyarakat memeriksa rencana dan realisasi. Informasi perlu disajikan dalam format yang dapat dipahami, bukan hanya tabel teknis yang sulit diakses. Ringkasan publik dapat membantu, tetapi dokumen rinci tetap diperlukan agar analisis dapat ditelusuri. Data harus menyebut tahun anggaran, satuan, klasifikasi, dan status realisasi.
+
+Pengawasan anggaran memerlukan rekonsiliasi antara rencana, komitmen, pembayaran, dan hasil. Selisih tidak selalu menunjukkan penyimpangan; bisa terjadi karena jadwal, perubahan harga, atau kendala pelaksanaan. Penjelasan harus berbasis bukti dan ditindaklanjuti. Temuan audit dan evaluasi sebaiknya digunakan untuk memperbaiki perencanaan tahun berikutnya.
+
+LATIHAN BAB
+1. Apa tujuan penganggaran berbasis kinerja?
+2. Bedakan indikator keluaran dan hasil.
+3. Mengapa indikator perlu memiliki definisi yang konsisten?
+4. Informasi apa yang membuat data anggaran mudah ditelusuri?
+5. Mengapa selisih realisasi anggaran perlu dianalisis sebelum disimpulkan?

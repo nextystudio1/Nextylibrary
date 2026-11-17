@@ -347,3 +347,46 @@ Data kota berasal dari sensus, survei, catatan layanan, pengamatan lapangan, dan
 
 Partisipasi warga memberi informasi tentang pengalaman sehari-hari yang tidak selalu tercatat dalam statistik. Lokakarya peta, survei aksesibel, dan forum lingkungan dapat digunakan dengan perlindungan data pribadi. Masukan harus ditanggapi dan dikaitkan dengan keputusan, bukan sekadar dikumpulkan sebagai formalitas.
 
+BAB LANJUTAN: MOBILITAS, RUANG PUBLIK, DAN KOTA YANG INKLUSIF
+
+Mobilitas sebagai bagian dari akses kesempatan
+
+Perencanaan transportasi tidak cukup mengukur kecepatan kendaraan. Tujuan utamanya adalah memastikan penduduk dapat mencapai sekolah, pekerjaan, layanan kesehatan, pasar, ruang terbuka, dan hubungan sosial dengan aman serta terjangkau. Dua kawasan yang berjarak sama dapat memiliki akses berbeda karena kualitas trotoar, frekuensi angkutan umum, biaya perjalanan, hambatan fisik, atau rasa aman. Karena itu, ukuran aksesibilitas lebih informatif daripada sekadar panjang jalan atau jumlah kendaraan.
+
+Analisis aksesibilitas dapat dimulai dengan memetakan tujuan penting dan waktu tempuh menggunakan beberapa moda. Perhitungan perlu memasukkan waktu berjalan menuju halte, waktu tunggu, perpindahan, biaya, dan keterandalan layanan. Rata-rata perjalanan juga dapat menyembunyikan perbedaan pengalaman menurut usia, disabilitas, pendapatan, dan jam aktivitas. Hasil pemetaan sebaiknya diuji dengan perjalanan lapangan dan masukan warga.
+
+Hierarki jalan dan keselamatan
+
+Jaringan jalan memiliki fungsi berbeda: menghubungkan kawasan, membagi arus, dan menyediakan akses langsung ke bangunan. Ketika semua jalan dirancang terutama untuk mempercepat kendaraan, kebutuhan pejalan kaki dan pesepeda dapat terabaikan. Perencanaan perlu mempertimbangkan kecepatan desain, penyeberangan, pencahayaan, jarak pandang, kesinambungan trotoar, dan akses kendaraan darurat.
+
+Keselamatan lalu lintas merupakan hasil sistem, bukan hanya perilaku individu. Desain yang memaafkan kesalahan manusia dapat mengurangi kemungkinan konflik dan tingkat keparahan dampak. Titik rawan perlu diidentifikasi menggunakan catatan kejadian, pengamatan konflik, kondisi fisik, serta laporan pengguna jalan. Intervensi dievaluasi setelah diterapkan agar perbaikan pada satu lokasi tidak memindahkan risiko ke lokasi lain.
+
+Ruang publik dan kualitas kehidupan
+
+Taman, plaza, jalur tepi air, lapangan, dan ruang di sekitar fasilitas umum mendukung interaksi sosial serta aktivitas fisik. Kualitas ruang publik dipengaruhi akses masuk, keteduhan, tempat duduk, kebersihan, fasilitas sanitasi, pencahayaan, dan pemeliharaan. Ruang yang indah tetapi sulit dicapai atau tidak nyaman digunakan pada siang hari belum tentu memenuhi kebutuhan masyarakat.
+
+Pengamatan ruang publik dapat dilakukan pada hari dan jam berbeda. Catat siapa yang menggunakan ruang, aktivitas yang berlangsung, bagian yang dihindari, serta hambatan yang ditemukan. Hindari menyimpulkan bahwa ruang tidak dibutuhkan hanya karena sepi pada satu waktu. Jadwal sekolah, pola kerja, cuaca, dan kegiatan komunitas memengaruhi intensitas penggunaan.
+
+Perumahan dan keterjangkauan
+
+Kebijakan perumahan berhubungan dengan lokasi pekerjaan, akses transportasi, kualitas lingkungan, kepastian bermukim, dan biaya rumah tangga. Harga rumah yang tampak murah dapat menghasilkan biaya perjalanan tinggi jika jauh dari layanan dan kesempatan kerja. Penilaian keterjangkauan sebaiknya melihat gabungan biaya tempat tinggal dan mobilitas, bukan harga bangunan saja.
+
+Peningkatan kawasan dapat memperbaiki sanitasi, drainase, jalan lingkungan, dan kualitas bangunan. Namun, kenaikan nilai lahan juga dapat menekan warga berpenghasilan rendah apabila tidak disertai perlindungan yang memadai. Perencanaan perlu melibatkan penghuni sejak tahap awal, menjelaskan pilihan, dan mengukur siapa yang memperoleh manfaat serta siapa yang menanggung biaya perubahan.
+
+Infrastruktur hijau dan biru
+
+Pohon, taman resapan, koridor sungai, kolam retensi, dan lahan basah dapat menjadi bagian dari sistem infrastruktur kota. Infrastruktur hijau dan biru membantu mengelola air, memberi habitat, memperbaiki kenyamanan termal, dan menyediakan ruang rekreasi. Kinerjanya bergantung pada konektivitas, kapasitas, pemeliharaan, dan kesesuaian dengan kondisi hidrologi.
+
+Perencanaan tidak boleh menganggap satu solusi cocok untuk semua tempat. Kawasan dengan tanah dan muka air tanah berbeda membutuhkan pendekatan berbeda. Pemetaan daerah tangkapan air, jalur aliran, area kedap, serta lokasi genangan membantu menentukan kombinasi intervensi. Pengelolaan sungai juga perlu mempertimbangkan ekosistem dan masyarakat yang menggantungkan hidup pada kawasan tersebut.
+
+Tata kelola data perkotaan
+
+Data kota berasal dari sensus, survei, sensor, administrasi, citra, dan laporan warga. Setiap sumber memiliki cakupan serta keterbatasan. Data sensor dapat memiliki jeda atau gangguan; data administratif hanya mencatat orang yang berinteraksi dengan layanan; survei dapat mengalami nonrespons. Metadata perlu menjelaskan definisi, tanggal, skala, metode, dan pihak pengelola.
+
+Peta digital dapat memberi kesan presisi tinggi, tetapi batas wilayah dan kualitas data harus diperiksa. Data pribadi tidak boleh dipublikasikan secara rinci jika dapat mengidentifikasi rumah tangga atau individu. Untuk analisis publik, agregasi spasial dan pengendalian akses dapat mengurangi risiko. Keputusan penting tetap perlu disertai penjelasan yang dapat dipahami warga.
+
+Studio perencanaan kawasan
+
+Pilih kawasan kecil di sekitar sekolah atau fasilitas umum. Inventarisasi fungsi lahan, jalur berjalan, titik penyeberangan, ruang hijau, drainase, dan tujuan harian. Buat peta hambatan dan peluang berdasarkan pengamatan serta percakapan dengan pengguna. Susun dua alternatif perbaikan, lalu bandingkan biaya, kemudahan pelaksanaan, aksesibilitas, dampak lingkungan, dan kebutuhan pemeliharaan.
+
+Rencana akhir harus menyebut prioritas jangka pendek dan jangka panjang, pihak yang bertanggung jawab, serta indikator keberhasilan. Contoh indikator meliputi kesinambungan jalur pejalan kaki, waktu tempuh ke layanan, jumlah titik konflik yang ditangani, dan kepuasan pengguna. Evaluasi perlu dilakukan setelah perubahan agar perencanaan menjadi proses belajar yang berkelanjutan.

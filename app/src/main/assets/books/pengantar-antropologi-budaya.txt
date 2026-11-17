@@ -282,3 +282,45 @@ Representasi: Cara individu atau kelompok digambarkan dalam media dan ruang publ
 
 CATATAN PENULIS
 Naskah ini merupakan materi pembelajaran orisinal Nexty Studio. Contoh di dalamnya bersifat ilustratif dan tidak mewakili seluruh masyarakat atau kebudayaan tertentu. Untuk pendalaman, pembaca dapat membandingkan materi dengan buku ajar antropologi, karya etnografi, arsip, koleksi museum, dan publikasi akademik. Catat identitas bibliografis sumber yang digunakan, periksa konteks pembuatannya, dan hormati hak serta izin penggunaan materi.
+
+PENDALAMAN ANTROPOLOGI BUDAYA: METODE, SEJARAH, DAN PERUBAHAN SOSIAL
+
+BAB 16. SEJARAH, INGATAN, DAN WARISAN BUDAYA
+
+Antropologi mempelajari kebudayaan sebagai proses yang berlangsung dalam sejarah, bukan kumpulan kebiasaan yang tidak berubah. Praktik yang sekarang dianggap tradisional mungkin terbentuk melalui perjumpaan, perdagangan, perpindahan penduduk, kebijakan, pendidikan, dan teknologi. Karena itu, penjelasan budaya perlu menanyakan kapan suatu praktik muncul, siapa yang menjalankannya, bagaimana maknanya berubah, dan dalam situasi apa praktik tersebut dipertahankan.
+
+Ingatan kolektif dibentuk melalui cerita keluarga, upacara, arsip, monumen, museum, lagu, dan ruang publik. Sumber-sumber tersebut dapat menyimpan pengalaman penting, tetapi tidak selalu mewakili semua kelompok. Arsip resmi, misalnya, sering lebih banyak merekam pandangan lembaga daripada pengalaman orang yang tidak memiliki akses untuk menulis atau menyimpan dokumen. Peneliti perlu membandingkan sumber dan menjelaskan siapa yang tidak terdengar.
+
+Warisan budaya dapat bersifat benda maupun takbenda. Pelestarian bukan berarti membekukan kebudayaan. Komunitas dapat mengubah cara mengajarkan keterampilan, mengatur upacara, atau menggunakan ruang budaya sesuai kebutuhan masa kini. Pertanyaan pentingnya adalah siapa yang memiliki kewenangan menentukan perubahan, siapa yang memperoleh manfaat, dan apakah hak komunitas dihormati.
+
+BAB 17. ANTROPOLOGI EKONOMI DAN KEHIDUPAN SEHARI-HARI
+
+Kegiatan ekonomi selalu berada dalam hubungan sosial. Pertukaran tidak hanya terjadi melalui harga pasar; pemberian, gotong royong, kewajiban keluarga, dan jaringan kepercayaan juga memengaruhi distribusi barang serta jasa. Bentuk pertukaran tersebut tidak dapat dinilai hanya dengan ukuran uang karena memiliki aturan dan makna yang berbeda.
+
+Ketika meneliti pasar, perhatikan bagaimana harga dibentuk, siapa yang mengendalikan akses, bagaimana risiko dibagi, dan bagaimana hubungan jangka panjang memengaruhi transaksi. Pedagang kecil mungkin memberikan kelonggaran pembayaran kepada pelanggan tetap. Praktik ini dapat menjaga hubungan, tetapi juga membawa risiko keuangan. Analisis perlu mencatat manfaat dan keterbatasannya tanpa menganggap satu pola berlaku untuk semua pasar.
+
+Ekonomi informal sering menopang kehidupan banyak rumah tangga. Istilah informal tidak berarti kegiatan tersebut tidak memiliki aturan atau keterampilan. Penelitian perlu memperhatikan regulasi, keamanan kerja, akses pembiayaan, pengakuan keterampilan, dan perlindungan sosial. Kebijakan yang hanya memindahkan kegiatan dari ruang publik tanpa menyediakan alternatif dapat menghilangkan sumber penghidupan.
+
+BAB 18. ANTROPOLOGI KESEHATAN DAN PENGETAHUAN LOKAL
+
+Pengalaman sehat dan sakit dipengaruhi proses biologis sekaligus kondisi sosial, ekonomi, bahasa, dan kepercayaan. Cara seseorang menjelaskan gejala dapat berbeda dari istilah klinis yang digunakan tenaga kesehatan. Memahami perbedaan tersebut membantu komunikasi, tetapi tidak berarti semua penjelasan memiliki kekuatan bukti medis yang sama.
+
+Penelitian antropologi kesehatan memeriksa pengalaman pasien, hubungan keluarga, akses layanan, stigma, dan cara lembaga memberikan pelayanan. Peneliti harus menjaga kerahasiaan, memperoleh persetujuan, serta menghindari pengumpulan informasi kesehatan yang tidak diperlukan. Temuan kualitatif dapat menjelaskan pengalaman dan hambatan, tetapi tidak boleh digunakan untuk membuat klaim klinis di luar kompetensi dan metode penelitian.
+
+Komunikasi layanan yang baik mengakui pengalaman pasien, menggunakan bahasa yang dapat dipahami, dan memberi ruang untuk bertanya. Pengetahuan lokal dapat membantu memahami kebiasaan makan, dukungan keluarga, atau penggunaan layanan. Dialog harus berlangsung tanpa merendahkan komunitas dan tanpa mengabaikan standar keselamatan berbasis bukti.
+
+BAB 19. MENULIS ETNOGRAFI YANG BERTANGGUNG JAWAB
+
+Tulisan etnografi menyajikan konteks, tindakan, penjelasan pelaku, dan analisis peneliti. Deskripsi rinci tidak otomatis menjadi analisis. Penulis perlu menunjukkan bagaimana bukti mendukung interpretasi, bagian mana yang masih diperdebatkan, dan bagaimana posisi peneliti memengaruhi apa yang dapat diamati.
+
+Kutipan narasumber harus dipilih dengan memperhatikan persetujuan dan risiko identifikasi. Mengganti nama belum tentu cukup jika kombinasi lokasi, pekerjaan, peristiwa, dan hubungan keluarga membuat seseorang mudah dikenali. Beberapa rincian dapat disamarkan atau dihilangkan, tetapi perubahan tersebut harus dijelaskan agar tidak mengubah makna temuan.
+
+Etnografi yang etis tidak menjadikan komunitas sebagai objek eksotis. Hindari menggambarkan masyarakat seolah-olah seragam, tertinggal, atau tidak memiliki suara. Tampilkan variasi pengalaman, perubahan, perdebatan internal, dan kemampuan pelaku menjelaskan dunianya sendiri. Bila memungkinkan, berikan kesempatan kepada peserta untuk menanggapi ringkasan temuan tanpa menyerahkan seluruh analisis ilmiah kepada satu pihak.
+
+LATIHAN ANALITIS
+
+1. Mengapa warisan budaya tidak sama dengan praktik yang harus dibekukan?
+2. Bagaimana arsip dapat mencerminkan ketimpangan kuasa?
+3. Bedakan pertukaran pasar, pemberian, dan gotong royong.
+4. Mengapa pengetahuan lokal perlu dihormati sekaligus dinilai sesuai jenis buktinya?
+5. Sebutkan cara mengurangi risiko identifikasi narasumber dalam tulisan etnografi.

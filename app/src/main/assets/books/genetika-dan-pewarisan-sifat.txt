@@ -246,3 +246,59 @@ LATIHAN DAN PEMBAHASAN
 
 PROYEK MINI
 Buat peta konsep dari DNA menuju RNA, protein, sel, dan fenotipe. Tambahkan contoh hipotetis yang menunjukkan bahwa lingkungan dapat memengaruhi fenotipe. Akhiri dengan daftar tiga prinsip etika untuk pengelolaan data genetik. Gunakan contoh pembelajaran, bukan data genetik pribadi atau keluarga.
+
+BAB PENDALAMAN: DARI VARIASI GENETIK MENUJU POPULASI
+
+Genetika mempelajari informasi biologis yang diwariskan dan bagaimana informasi itu berinteraksi dengan proses perkembangan serta lingkungan. Pada tingkat individu, gen dapat memengaruhi pembentukan protein dan pengaturan aktivitas sel. Pada tingkat populasi, perhatian bergeser pada frekuensi variasi genetik dari satu generasi ke generasi berikutnya. Kedua tingkat ini saling berkaitan, tetapi pertanyaan dan metode analisisnya berbeda.
+
+Variasi genetik muncul melalui beberapa proses. Mutasi menghasilkan perubahan urutan DNA. Rekombinasi selama pembentukan sel kelamin menyusun ulang kombinasi alel. Perpindahan individu antarpopulasi dapat membawa varian baru. Perubahan acak frekuensi alel juga dapat terjadi, terutama pada populasi berukuran kecil. Seleksi alam dapat membuat varian tertentu lebih umum apabila berkaitan dengan keberhasilan reproduksi dalam lingkungan tertentu. Tidak satu pun proses ini harus dipahami sebagai kemajuan menuju bentuk yang dianggap paling sempurna.
+
+FREKUENSI ALEL DAN KESETIMBANGAN HARDY–WEINBERG
+
+Model Hardy–Weinberg memberikan acuan matematis untuk memahami frekuensi genotipe pada satu lokus dengan dua alel. Jika frekuensi alel A adalah p dan alel a adalah q, maka p + q = 1. Dalam kondisi model ideal, frekuensi genotipe diperkirakan sebagai p² untuk AA, 2pq untuk Aa, dan q² untuk aa. Model mengasumsikan perkawinan acak, populasi sangat besar, serta tidak ada mutasi, migrasi, seleksi, dan hanyutan genetik yang mengubah frekuensi.
+
+Model ini bukan gambaran sempurna semua populasi nyata. Kegunaannya adalah sebagai titik pembanding. Jika data berbeda dari perkiraan, peneliti perlu memeriksa ukuran sampel, cara pengambilan sampel, struktur populasi, hubungan kekerabatan, dan kemungkinan proses evolusi. Penyimpangan tidak langsung membuktikan satu penyebab tertentu.
+
+Sebagai contoh pembelajaran, jika q = 0,2, maka p = 0,8. Perkiraan frekuensi AA adalah 0,64, Aa adalah 0,32, dan aa adalah 0,04. Angka tersebut merupakan proporsi teoretis dalam model, bukan ramalan pasti untuk setiap keluarga atau individu. Sampel kecil dapat menghasilkan proporsi yang berbeda hanya karena variasi pengambilan sampel.
+
+HANYUTAN GENETIK DAN UKURAN POPULASI
+
+Hanyutan genetik adalah perubahan frekuensi alel akibat proses acak. Dampaknya cenderung lebih kuat pada populasi kecil. Jika hanya sebagian kecil individu menghasilkan keturunan pada suatu generasi, beberapa varian dapat menjadi umum atau hilang tanpa harus memberikan keuntungan adaptif. Peristiwa pendiri terjadi ketika populasi baru dibentuk oleh sejumlah kecil individu. Efek leher botol terjadi ketika ukuran populasi menyusut tajam lalu pulih dari kelompok penyintas yang terbatas.
+
+Konsep ini membantu menjelaskan mengapa variasi genetik antarpopulasi dapat berbeda. Namun, kategori populasi tidak boleh disamakan dengan batas sosial atau identitas budaya. Variasi manusia tersebar secara bertahap, dipengaruhi sejarah migrasi dan perkawinan, serta tidak membentuk kotak biologis yang kaku. Data genetik tidak dapat digunakan sendirian untuk menyimpulkan nilai, kemampuan, atau identitas seseorang.
+
+SELEKSI, LINGKUNGAN, DAN ADAPTASI
+
+Seleksi alam bekerja pada variasi yang diwariskan ketika variasi tersebut berhubungan dengan perbedaan keberhasilan bertahan hidup atau reproduksi dalam lingkungan tertentu. Lingkungan dapat berubah, sehingga keuntungan suatu karakteristik juga dapat berubah. Sifat yang menguntungkan pada satu kondisi belum tentu menguntungkan pada kondisi lain.
+
+Adaptasi tidak terjadi karena organisme secara sadar membutuhkan perubahan. Variasi muncul melalui proses biologis, lalu kondisi lingkungan memengaruhi keberhasilan reproduksi relatif. Dalam jangka panjang, frekuensi varian dapat berubah. Penjelasan evolusi yang baik harus menyebut mekanisme dan bukti, bukan menggunakan ungkapan sederhana seperti organisme berubah karena ingin menyesuaikan diri.
+
+GEN, LINGKUNGAN, DAN PERKEMBANGAN
+
+Fenotipe merupakan hasil interaksi banyak tingkat, termasuk gen, regulasi gen, perkembangan, lingkungan, dan pengalaman. Nutrisi, paparan lingkungan, kondisi kesehatan, serta proses belajar dapat memengaruhi ciri atau fungsi tertentu. Untuk sifat kompleks, kontribusi genetik biasanya melibatkan banyak lokasi genom dan interaksi yang tidak sederhana.
+
+Heritabilitas adalah ukuran variasi suatu sifat dalam populasi dan lingkungan tertentu yang berkaitan dengan variasi genetik. Heritabilitas bukan persentase sifat seseorang yang ditentukan gen. Nilainya dapat berbeda antarlingkungan dan populasi. Jika lingkungan menjadi lebih seragam, proporsi variasi yang berkaitan dengan faktor genetik dapat tampak meningkat tanpa perubahan DNA individu.
+
+GENETIKA MEDIS DAN KOMUNIKASI RISIKO
+
+Tes genetik dapat membantu menjawab pertanyaan tertentu, tetapi hasilnya memiliki batas. Varian yang ditemukan belum tentu menyebabkan kondisi, dan tidak ditemukannya varian tertentu tidak selalu meniadakan risiko. Interpretasi memerlukan informasi klinis, riwayat yang relevan, metode laboratorium, serta penjelasan profesional yang kompeten.
+
+Risiko genetik bersifat probabilistik. Menyebut seseorang “pasti” mengalami suatu kondisi hanya berdasarkan satu hasil dapat menyesatkan. Hasil tes juga dapat memiliki implikasi bagi kerabat biologis, sehingga privasi dan persetujuan perlu diperhatikan. Data genetik merupakan informasi pribadi yang sensitif; pengumpulan dan pembagiannya harus memiliki tujuan jelas, perlindungan memadai, dan dasar persetujuan yang sah.
+
+ETIKA RISET DAN REPRESENTASI DATA
+
+Penelitian genetika membutuhkan desain yang adil. Sampel yang hanya mewakili kelompok tertentu dapat menghasilkan kesimpulan yang kurang akurat ketika diterapkan pada populasi lain. Peneliti perlu menjelaskan siapa yang diikutsertakan, siapa yang tidak terwakili, bagaimana persetujuan diperoleh, dan bagaimana data disimpan.
+
+Istilah ilmiah juga harus digunakan secara hati-hati ketika membahas manusia. Variasi biologis tidak membenarkan diskriminasi atau pengelompokan manusia berdasarkan anggapan hierarki. Penjelasan yang bertanggung jawab memisahkan temuan biologis dari prasangka sosial.
+
+LATIHAN DAN PEMBAHASAN
+
+1. Mengapa model Hardy–Weinberg disebut model acuan, bukan gambaran mutlak populasi nyata?
+2. Bagaimana hanyutan genetik dapat mengubah frekuensi alel tanpa seleksi?
+3. Mengapa heritabilitas tidak dapat ditafsirkan sebagai persentase sifat individu yang berasal dari gen?
+4. Apa perbedaan mutasi dan rekombinasi?
+5. Mengapa hasil tes genetik memerlukan penjelasan tentang ketidakpastian?
+
+PROYEK MINI: SIMULASI POPULASI
+
+Buat simulasi kertas untuk populasi hipotetis dengan dua alel. Tetapkan frekuensi awal, hitung perkiraan genotipe menurut Hardy–Weinberg, lalu buat beberapa putaran pengambilan sampel acak menggunakan angka undian. Bandingkan hasil tiap putaran dan diskusikan mengapa populasi kecil dapat berubah lebih besar. Tegaskan bahwa simulasi ini model pembelajaran, bukan gambaran atau penilaian terhadap kelompok manusia nyata.

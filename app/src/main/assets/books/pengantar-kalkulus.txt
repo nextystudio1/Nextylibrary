@@ -293,3 +293,40 @@ LATIHAN BAB
 3. Kapan substitusi membantu menyederhanakan integral?
 4. Mengapa integral tak wajar harus dianalisis menggunakan limit?
 5. Gunakan analisis satuan untuk menjelaskan hubungan daya, waktu, dan energi.
+
+BAB PENDALAMAN: KONTINUITAS DAN MAKNA LIMIT
+
+Limit menjelaskan perilaku suatu fungsi ketika masukan mendekati nilai tertentu. Perhatian utamanya bukan hanya nilai fungsi tepat pada titik itu, melainkan kecenderungan nilai di sekitarnya. Perbedaan ini penting ketika fungsi tidak didefinisikan pada suatu titik, tetapi perilakunya tetap dapat dipelajari. Grafik dapat memberi intuisi, sedangkan definisi matematis memberi dasar yang lebih teliti.
+
+Fungsi kontinu di suatu titik jika nilai fungsi ada, limitnya ada, dan keduanya sama. Secara intuitif, grafik tidak mengalami lompatan atau lubang pada titik tersebut. Namun, kontinuitas pada satu titik berbeda dari kontinuitas pada seluruh interval. Dalam pemodelan, asumsi kontinuitas sering memudahkan analisis, tetapi tidak semua fenomena berubah mulus. Perubahan status, ambang kebijakan, dan kejadian diskret dapat menghasilkan model yang tidak kontinu.
+
+Limit satu sisi berguna ketika perilaku dari kiri dan kanan berbeda. Jika kedua limit satu sisi tidak sama, limit dua sisi tidak ada. Konsep ini membantu membaca fungsi bertingkat dan situasi dengan ambang. Ketika penyebut pecahan mendekati nol, perlu diperiksa apakah hasil menuju nilai tertentu, membesar tanpa batas, atau tidak memiliki limit karena perilaku dari kedua sisi berbeda.
+
+BAB PENDALAMAN: TURUNAN SEBAGAI LAJU PERUBAHAN
+
+Turunan mengukur laju perubahan sesaat. Secara geometris, turunan merupakan kemiringan garis singgung pada grafik. Secara kontekstual, turunan posisi terhadap waktu adalah kecepatan sesaat, sedangkan turunan kecepatan terhadap waktu adalah percepatan. Satuan turunan diperoleh dengan membagi satuan keluaran oleh satuan masukan, sehingga pemeriksaan satuan dapat mengungkap kekeliruan.
+
+Aturan rantai digunakan ketika suatu fungsi tersusun dari fungsi lain. Aturan ini sangat penting dalam model yang menghubungkan beberapa besaran. Jika suhu bergantung pada waktu dan laju reaksi bergantung pada suhu, perubahan laju terhadap waktu melibatkan perubahan laju terhadap suhu dan perubahan suhu terhadap waktu. Penulisan variabel dengan jelas membantu menghindari pencampuran hubungan.
+
+Turunan implisit berguna ketika hubungan dua variabel diberikan sebagai persamaan dan sulit atau tidak praktis untuk menuliskan satu variabel sebagai fungsi eksplisit dari variabel lain. Diferensiasi tetap mengikuti aturan dasar, tetapi turunan variabel terikat harus disertakan. Hasilnya dapat digunakan untuk mempelajari kemiringan kurva pada titik tertentu.
+
+BAB PENDALAMAN: OPTIMASI DAN INTERPRETASI
+
+Masalah optimasi mencari nilai maksimum atau minimum suatu besaran dengan batasan tertentu. Langkah awal adalah mendefinisikan variabel keputusan, fungsi tujuan, dan kendala. Setelah fungsi tujuan diturunkan, titik kritis dapat diperiksa bersama titik ujung interval. Turunan kedua atau perubahan tanda turunan pertama membantu membedakan maksimum lokal dan minimum lokal.
+
+Hasil matematis harus diperiksa terhadap konteks. Panjang tidak mungkin negatif, jumlah barang sering berupa bilangan bulat, dan kapasitas memiliki batas fisik. Solusi yang memenuhi persamaan tetapi melanggar kendala tidak dapat diterapkan. Selain itu, maksimum lokal belum tentu maksimum global; domain dan perilaku fungsi pada batas perlu diperiksa.
+
+Dalam perencanaan bahan, optimasi dapat membantu mengurangi sisa dengan batas ukuran dan kapasitas. Dalam ekonomi, turunan dapat menggambarkan perubahan biaya atau pendapatan terhadap jumlah produksi. Dalam sains, optimasi dapat membantu mencari kondisi yang memaksimalkan efisiensi model. Setiap contoh memerlukan asumsi yang dinyatakan secara terbuka.
+
+BAB PENDALAMAN: INTEGRAL NUMERIK DAN GALAT
+
+Tidak semua integral dapat diselesaikan dengan antiturunan elementer. Dalam keadaan tersebut, pendekatan numerik dapat memperkirakan luas atau akumulasi. Metode persegi panjang membagi interval menjadi bagian kecil dan memperkirakan nilai fungsi pada setiap bagian. Aturan trapesium menghubungkan titik-titik berurutan dengan garis lurus. Metode Simpson menggunakan pendekatan polinomial pada kelompok interval tertentu.
+
+Ketelitian bergantung pada ukuran langkah, kelengkungan fungsi, dan metode yang dipilih. Memperbanyak subinterval sering meningkatkan ketelitian, tetapi juga menambah perhitungan. Perkiraan sebaiknya dibandingkan dengan metode lain atau diuji dengan ukuran langkah berbeda. Laporkan jumlah subinterval dan perkiraan galat jika tersedia, bukan hanya menampilkan angka akhir.
+
+BAB PENDALAMAN: MEMBANGUN MODEL MATEMATIS
+
+Pemodelan dimulai dengan pertanyaan yang terukur. Tentukan variabel, satuan, parameter, dan asumsi. Persamaan kemudian dibangun dari hubungan yang masuk akal, bukan dipilih hanya karena mudah dihitung. Setelah solusi diperoleh, bandingkan dengan data atau perilaku yang diketahui. Jika model meleset, periksa asumsi dan kualitas data sebelum menambah kerumitan.
+
+Analisis sensitivitas menilai seberapa besar hasil berubah ketika parameter berubah. Model yang sangat sensitif memerlukan kehati-hatian lebih tinggi, terutama jika parameternya tidak diketahui secara tepat. Grafik, tabel nilai, dan pemeriksaan satuan dapat membantu menjelaskan hasil kepada pembaca nonspesialis. Kalkulus menjadi alat berpikir ketika digunakan untuk memahami perubahan, bukan sekadar menjalankan aturan simbolik.
+

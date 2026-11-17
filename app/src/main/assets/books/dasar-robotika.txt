@@ -366,3 +366,31 @@ PROYEK MINI: EVALUASI ANTARMUKA ROBOT KONSEPTUAL
 
 Buat sketsa antarmuka robot layanan hipotetis. Tampilkan status, tujuan, peringatan, dan cara meminta bantuan. Uji pemahaman melalui skenario tertulis dengan beberapa calon pembaca secara sukarela. Catat istilah yang membingungkan dan perbaiki desain. Jangan menguji robot fisik atau mekanisme bergerak.
 
+BAB LANJUTAN: INTERAKSI MANUSIA-ROBOT, KESELAMATAN, DAN KEANDALAN
+
+Robot yang berinteraksi dengan manusia perlu dirancang agar perilakunya dapat dipahami. Pengguna perlu mengetahui tujuan sistem, status operasi, batas kemampuan, dan kondisi ketika bantuan diperlukan. Antarmuka yang hanya menampilkan indikator teknis mungkin tidak cukup bagi pengguna umum. Pesan status sebaiknya menyebutkan apa yang sedang dilakukan robot, apa yang belum dapat dipastikan, dan tindakan aman yang dapat dipilih pengguna.
+
+Keselamatan robot merupakan hasil dari rancangan sistem, lingkungan, prosedur, dan pengawasan. Analisis bahaya dimulai dengan mengidentifikasi penggunaan yang dimaksudkan serta penyalahgunaan yang dapat diperkirakan. Bahaya dapat berasal dari gerakan tak terduga, kehilangan kendali, kesalahan persepsi, kegagalan komunikasi, atau interaksi yang tidak sesuai dengan kemampuan pengguna. Penilaian risiko perlu dilakukan oleh pihak kompeten dan mengikuti standar yang berlaku untuk jenis sistem terkait.
+
+Prinsip desain aman dapat mencakup pengurangan bahaya sejak tahap desain, pembatasan gerak atau energi, pemisahan area operasi, dan mekanisme penghentian yang sesuai. Peringatan dan petunjuk merupakan lapisan tambahan, bukan pengganti rancangan yang aman. Jika sistem hanya aman ketika pengguna membaca banyak instruksi dengan sempurna, desainnya perlu ditinjau kembali. Pengujian harus dilakukan dalam lingkungan terkontrol dan sesuai prosedur profesional.
+
+Keandalan berkaitan dengan kemampuan sistem menjalankan fungsi dalam kondisi yang ditentukan selama periode tertentu. Ketersediaan layanan juga dipengaruhi waktu pemulihan dan kemudahan pemeliharaan. Sistem dapat memiliki komponen yang andal tetapi tetap sering gagal akibat integrasi, koneksi, atau perangkat lunak. Karena itu, pengujian harus mencakup keseluruhan sistem dan skenario penggunaan yang relevan.
+
+Pemantauan kondisi membantu mendeteksi perubahan sebelum terjadi kegagalan. Catatan suhu komponen, tingkat baterai, kualitas komunikasi, dan ketidaksesuaian sensor dapat memberi sinyal untuk pemeriksaan. Ambang pemantauan harus ditentukan berdasarkan spesifikasi dan pengujian, bukan angka tebakan. Ketika data berada di luar batas yang ditetapkan, sistem harus mengikuti prosedur yang telah ditinjau dan tidak mengarang tindakan pemulihan.
+
+Pembaruan perangkat lunak dapat memperbaiki masalah dan menambah kemampuan, tetapi juga dapat menimbulkan perubahan perilaku. Setiap rilis perlu memiliki catatan perubahan, pengujian regresi, dan cara kembali ke versi yang diketahui stabil jika diperlukan. Konfigurasi perangkat keras dan perangkat lunak harus didokumentasikan. Tanpa pencatatan versi, sulit mengetahui apakah perubahan hasil disebabkan oleh algoritma, sensor, atau lingkungan pengujian.
+
+Privasi menjadi penting ketika robot menggunakan kamera, mikrofon, atau sensor yang mengumpulkan informasi tentang orang. Pengumpulan harus dibatasi pada tujuan yang diperlukan, disertai pemberitahuan yang jelas dan pengamanan akses. Data sebaiknya tidak disimpan lebih lama dari kebutuhan. Sistem yang dapat bekerja tanpa merekam identitas atau percakapan perlu mempertimbangkan pilihan tersebut sejak perancangan.
+
+Kolaborasi manusia-robot memerlukan pembagian tugas yang jelas. Manusia dapat menangani situasi yang memerlukan penilaian kontekstual, sedangkan robot dapat membantu pekerjaan berulang dalam batas yang telah diuji. Pengguna harus dapat memahami kapan kendali berada pada sistem dan kapan intervensi manusia dibutuhkan. Desain yang baik tidak menyalahkan pengguna atas kegagalan yang berasal dari antarmuka atau informasi yang tidak memadai.
+
+Evaluasi pengalaman pengguna dapat menggunakan tugas, observasi, wawancara sukarela, dan pengukuran kesalahan. Ukuran keberhasilan mencakup waktu penyelesaian, kebutuhan bantuan, pemahaman status, dan persepsi keselamatan. Uji coba harus menjaga privasi serta tidak melibatkan operasi fisik yang berisiko tanpa pengawasan profesional. Simulasi tertulis dan model virtual dapat digunakan untuk mempelajari keputusan antarmuka secara aman.
+
+Studi kasus: tim merancang antarmuka robot layanan hipotetis. Mereka menampilkan status, tujuan, peringatan, dan cara meminta bantuan. Beberapa calon pembaca diminta menjelaskan arti setiap tampilan melalui skenario tertulis. Tim menemukan istilah teknis yang membingungkan dan menggantinya dengan bahasa yang lebih jelas. Hasil evaluasi didokumentasikan sebagai temuan desain, bukan bukti keselamatan robot fisik.
+
+Latihan penerapan:
+1. Buat daftar bahaya pada skenario robot layanan hipotetis.
+2. Bedakan peringatan pengguna dan pengendalian bahaya melalui desain.
+3. Susun catatan versi perangkat lunak yang dapat ditelusuri.
+4. Tentukan data sensor yang benar-benar diperlukan untuk suatu tugas.
+5. Buat indikator evaluasi pemahaman pengguna terhadap status robot.

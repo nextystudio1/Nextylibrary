@@ -286,3 +286,27 @@ LATIHAN
 
 PROYEK
 Buat evaluasi konseptual ruang belajar. Catat pola penggunaan, sumber panas, cahaya alami, kontrol pengguna, dan data energi yang tersedia dengan izin. Usulkan perbaikan pasif dan operasional, lalu tentukan indikator untuk mengevaluasi kenyamanan, aksesibilitas, serta penggunaan energi. Jangan mengubah instalasi bangunan tanpa tenaga ahli dan izin.
+
+BAB PENGEMBANGAN. AUDIT ENERGI DAN PEMANTAUAN KINERJA BANGUNAN
+
+Audit energi merupakan proses sistematis untuk memahami bagaimana energi digunakan, bagian mana yang paling besar kebutuhannya, dan peluang perbaikannya. Audit yang baik dimulai dengan menetapkan batas bangunan: apakah yang dihitung hanya ruang utama, seluruh gedung, atau juga fasilitas pendukung. Periode pengamatan harus jelas agar konsumsi pada musim, hari kerja, dan hari libur tidak dibandingkan secara keliru.
+
+Data awal dapat berasal dari tagihan listrik, catatan bahan bakar, meter utama, submeter, jadwal operasi, luas lantai, dan jumlah pengguna. Data tersebut perlu diperiksa konsistensinya. Perubahan jumlah penghuni atau jam operasional dapat menjelaskan kenaikan konsumsi tanpa berarti peralatan menjadi kurang efisien. Karena itu, angka total sebaiknya dilengkapi indikator seperti energi per meter persegi per tahun atau energi per jam operasi, dengan penjelasan mengenai keterbatasannya.
+
+Pemetaan beban membantu mengidentifikasi sistem yang perlu ditelaah. Penerangan, pendinginan, pompa, kipas, komputer, dan peralatan khusus memiliki pola penggunaan berbeda. Pengukuran sesaat tidak selalu mewakili kondisi harian. Jika memungkinkan, gunakan pencatatan berkala oleh petugas kompeten dan alat ukur yang sesuai. Pengguna bangunan tidak boleh membuka panel listrik atau melakukan pengukuran berbahaya tanpa pelatihan dan kewenangan.
+
+Peluang penghematan dapat dikelompokkan menjadi perubahan operasi, pemeliharaan, dan investasi. Contoh perubahan operasi adalah mematikan peralatan di ruang kosong melalui prosedur yang disepakati. Pemeliharaan mencakup pembersihan filter dan pemeriksaan kebocoran sesuai panduan produsen. Investasi dapat berupa penggantian peralatan dengan model lebih efisien atau peningkatan selubung bangunan. Setiap usulan perlu memperhitungkan biaya awal, biaya operasi, umur pakai, kenyamanan, dan dampak terhadap kelompok pengguna.
+
+Prioritas tidak seharusnya ditentukan hanya oleh penghematan teoritis. Tindakan murah dengan dampak kecil tetapi mudah diterapkan dapat menjadi langkah awal, sedangkan proyek besar memerlukan kajian teknis dan pembiayaan. Perhitungan waktu pengembalian sederhana berguna sebagai gambaran, tetapi tidak mencakup seluruh manfaat seperti peningkatan kenyamanan, keandalan, atau pengurangan emisi. Asumsi harga energi, tingkat penggunaan, dan biaya perawatan harus dicatat.
+
+Setelah perbaikan dilakukan, ukur kembali dengan batas dan metode yang sebanding. Perbandingan perlu menyesuaikan perubahan cuaca, tingkat hunian, dan jam operasi bila relevan. Jika hasil tidak sesuai perkiraan, cari penyebabnya tanpa langsung menyalahkan pengguna. Mungkin jadwal kontrol belum tepat, sensor tidak akurat, atau ruang digunakan dengan cara berbeda. Siklus audit, tindakan, pengukuran, dan evaluasi membuat pengelolaan energi menjadi proses pembelajaran berkelanjutan.
+
+LATIHAN
+1. Mengapa batas sistem perlu ditetapkan sebelum audit?
+2. Sebutkan tiga sumber data energi bangunan.
+3. Mengapa konsumsi total perlu dibaca bersama indikator operasional?
+4. Bedakan perubahan operasi, pemeliharaan, dan investasi.
+5. Faktor apa yang perlu diperiksa ketika hasil penghematan berbeda dari perkiraan?
+
+PROYEK
+Buat rancangan audit sederhana untuk ruang kelas berdasarkan data yang aman dan boleh diakses. Susun daftar peralatan, jadwal pemakaian, luas ruang, dan sumber data. Jangan melakukan pekerjaan listrik. Buat tiga usulan perbaikan, jelaskan asumsi, pihak yang perlu dilibatkan, serta cara mengevaluasi hasilnya.

@@ -310,3 +310,34 @@ LATIHAN
 
 PROYEK
 Buat rancangan audit sederhana untuk ruang kelas berdasarkan data yang aman dan boleh diakses. Susun daftar peralatan, jadwal pemakaian, luas ruang, dan sumber data. Jangan melakukan pekerjaan listrik. Buat tiga usulan perbaikan, jelaskan asumsi, pihak yang perlu dilibatkan, serta cara mengevaluasi hasilnya.
+
+BAB PENDALAMAN: KENYAMANAN TERMAL DAN KINERJA SELUBUNG BANGUNAN
+
+Kinerja energi bangunan berkaitan erat dengan kenyamanan penghuni. Suhu udara saja tidak sepenuhnya menentukan rasa nyaman; kelembapan, kecepatan udara, suhu permukaan, pakaian, dan aktivitas juga berpengaruh. Strategi penghematan perlu menjaga kondisi ruang tetap sesuai fungsi dan kebutuhan penghuninya.
+
+Selubung bangunan terdiri dari atap, dinding, lantai, jendela, dan elemen pembatas lain. Perpindahan panas melalui konduksi, konveksi, dan radiasi memengaruhi beban pendinginan atau pemanasan. Orientasi bangunan, peneduh, warna permukaan, kualitas kaca, serta kebocoran udara dapat mengubah kebutuhan energi. Solusi harus disesuaikan dengan iklim dan bentuk bangunan setempat.
+
+BAB PENDALAMAN: PENCAHAYAAN ALAMI DAN BUATAN
+
+Pencahayaan alami dapat mengurangi kebutuhan lampu pada siang hari, tetapi bukaan yang terlalu besar dapat meningkatkan panas dan silau. Perancangan perlu mempertimbangkan arah matahari, kedalaman ruang, permukaan reflektif, dan kegiatan visual. Tirai atau peneduh yang dapat diatur membantu menyesuaikan kondisi sepanjang hari.
+
+Lampu hemat energi dan sistem kendali dapat mengurangi konsumsi ketika ruang tidak digunakan. Sensor kehadiran, pengatur waktu, dan peredupan perlu dipilih sesuai pola pemakaian agar tidak mengganggu pengguna. Pengukuran tingkat pencahayaan dan umpan balik penghuni dapat membantu menilai apakah penghematan tetap menjaga kualitas ruang.
+
+BAB PENDALAMAN: SISTEM PENDINGINAN DAN VENTILASI
+
+Sistem pendinginan memindahkan panas dari ruang ke lingkungan melalui siklus termodinamika. Efisiensinya dipengaruhi ukuran peralatan, kondisi filter, aliran udara, suhu pengaturan, dan pemeliharaan. Peralatan yang terlalu besar dapat sering hidup-mati dan tidak selalu bekerja efisien. Pemilihan kapasitas sebaiknya berdasarkan penilaian beban, bukan sekadar luas ruang.
+
+Ventilasi memasok udara luar dan membantu mengendalikan kelembapan serta polutan dalam ruang. Kebutuhan ventilasi bergantung pada kepadatan penghuni, jenis kegiatan, dan kondisi udara luar. Pada lokasi dengan polusi tinggi, strategi ventilasi perlu mempertimbangkan filtrasi dan waktu pemasukan udara. Pemeliharaan harus dilakukan oleh tenaga yang kompeten.
+
+BAB PENDALAMAN: AUDIT ENERGI DAN INDIKATOR KINERJA
+
+Audit energi dimulai dengan mengumpulkan data tagihan, luas bangunan, jam operasi, jumlah penghuni, dan inventaris peralatan. Konsumsi total perlu dinormalisasi agar perbandingan antarperiode tidak menyesatkan. Misalnya, perubahan jam penggunaan atau jumlah penghuni dapat menjelaskan sebagian perubahan konsumsi.
+
+Indikator intensitas energi per luas berguna untuk membandingkan bangunan dengan fungsi serupa, tetapi tidak cukup untuk menilai seluruh kualitas. Bangunan dengan konsumsi rendah karena ruang jarang digunakan tidak otomatis berkinerja baik. Catat juga kenyamanan, kualitas udara, keandalan layanan, dan kebutuhan khusus pengguna.
+
+BAB PENDALAMAN: RENOVASI DAN SIKLUS HIDUP
+
+Keputusan renovasi perlu membandingkan biaya awal dengan penghematan selama umur pakai, biaya pemeliharaan, dan gangguan kegiatan. Material isolasi atau kaca baru mungkin mengurangi beban energi, tetapi dampak produksi dan penggantian juga perlu dipertimbangkan. Analisis siklus hidup membantu menghindari pemindahan dampak dari tahap operasi ke tahap konstruksi.
+
+Rencana peningkatan kinerja sebaiknya memiliki urutan prioritas: perbaikan operasi dan pemeliharaan, pengurangan beban melalui desain pasif, peningkatan sistem, lalu pemantauan hasil. Perubahan perlu melibatkan pengelola dan penghuni karena perilaku penggunaan memengaruhi kinerja aktual. Evaluasi setelah renovasi memastikan hasil sesuai tujuan.
+

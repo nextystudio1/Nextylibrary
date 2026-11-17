@@ -311,3 +311,47 @@ LATIHAN
 
 PROYEK
 Pilih satu topik pelajaran dan rancang siklus belajar mandiri: tujuan, pertanyaan awal, strategi, pemeriksaan pemahaman, umpan balik, dan refleksi. Setelah mencoba, catat strategi yang membantu dan bagian yang perlu disesuaikan. Jangan membandingkan kemampuan pribadi dengan orang lain; fokuskan evaluasi pada proses dan kemajuan belajar.
+
+BAB: PERHATIAN, BEBAN KOGNITIF, DAN LINGKUNGAN BELAJAR
+
+Perhatian membantu seseorang memilih informasi yang akan diproses, tetapi kapasitasnya terbatas. Suara, notifikasi, percakapan, dan perpindahan tugas dapat mengganggu pemahaman. Gangguan bukan semata-mata masalah kemauan; desain lingkungan dan tuntutan tugas ikut berperan. Mengurangi gangguan yang tidak diperlukan dapat membuat energi mental tersedia untuk memahami materi.
+
+Beban kognitif berkaitan dengan banyaknya informasi yang harus diproses pada satu waktu. Materi yang belum dikenal dapat terasa berat ketika istilah baru, langkah, dan contoh diberikan sekaligus. Pengajar dapat mengelompokkan informasi, menjelaskan istilah sebelum digunakan, serta memecah tugas kompleks menjadi bagian yang dapat dipahami. Setelah dasar terbentuk, bagian-bagian tersebut disatukan kembali agar pelajar memahami keseluruhan proses.
+
+Contoh yang dikerjakan dapat membantu pemula melihat urutan penalaran. Namun, contoh perlu disertai penjelasan mengapa suatu langkah dipilih. Setelah itu, dukungan dapat dikurangi secara bertahap agar pelajar mencoba sendiri. Jika bantuan dihilangkan terlalu cepat, kebingungan meningkat; jika selalu diberikan, kesempatan membangun kemandirian berkurang.
+
+BAB: INGATAN DAN STRATEGI MENGINGAT
+
+Ingatan bukan rekaman sempurna. Informasi perlu diperhatikan, dikodekan, disimpan, dan dipanggil kembali. Lupa dapat terjadi karena perhatian awal kurang, informasi bercampur dengan materi lain, atau petunjuk untuk mengingat tidak tersedia. Memahami proses ini membantu memilih strategi belajar yang lebih efektif daripada sekadar membaca ulang berulang kali.
+
+Latihan mengingat aktif mengajak pelajar mencoba menjawab pertanyaan tanpa langsung melihat catatan. Upaya mengambil informasi dari ingatan dapat memperkuat akses terhadap pengetahuan. Setelah mencoba, periksa jawaban dan koreksi kekeliruan. Latihan singkat yang tersebar pada beberapa kesempatan sering lebih bermanfaat daripada memadatkan seluruh pengulangan dalam satu sesi.
+
+Pengulangan berjeda memberi jarak waktu antarlatihan. Jarak tersebut membuat pelajar perlu membangun kembali ingatan, tetapi tidak terlalu lama hingga seluruh materi terasa asing. Jadwal dapat disesuaikan dengan tingkat kesulitan dan hasil pemeriksaan. Materi yang mudah diingat dapat ditinjau lebih jarang, sedangkan konsep yang masih keliru memerlukan latihan tambahan.
+
+BAB: MOTIVASI, TUJUAN, DAN UMPAN BALIK
+
+Motivasi dapat berasal dari rasa ingin tahu, nilai pribadi, kebutuhan, dukungan sosial, atau harapan memperoleh hasil tertentu. Motivasi berubah sesuai pengalaman dan situasi. Karena itu, kesulitan belajar tidak seharusnya langsung ditafsirkan sebagai kemalasan. Periksa apakah tujuan jelas, materi relevan, tugas dapat dijangkau, dan bantuan tersedia.
+
+Tujuan yang berfokus pada penguasaan menekankan pemahaman dan peningkatan keterampilan. Tujuan performa lebih menekankan hasil yang terlihat dibandingkan orang lain. Keduanya dapat muncul bersamaan, tetapi lingkungan yang hanya menghargai peringkat dapat membuat pelajar takut mencoba hal baru. Sasaran penguasaan membantu melihat kesalahan sebagai informasi tentang langkah berikutnya.
+
+Umpan balik yang baik menjelaskan apa yang sudah tepat, bagian yang perlu diperbaiki, dan tindakan yang dapat dicoba. Pujian umum tanpa informasi tidak selalu membantu. Sebaliknya, komentar yang spesifik memberi arah. Umpan balik juga perlu diberikan pada waktu yang memungkinkan pelajar menggunakannya, bukan hanya setelah semua kesempatan memperbaiki pekerjaan berakhir.
+
+BAB: PERBEDAAN INDIVIDU DAN PEMBELAJARAN INKLUSIF
+
+Pelajar memiliki pengalaman, bahasa, minat, akses, dan kebutuhan yang beragam. Perbedaan tersebut tidak tepat dijadikan label kemampuan tetap. Seseorang mungkin memahami konsep melalui diagram, penjelasan lisan, bacaan, diskusi, atau praktik, tergantung materi dan konteks. Variasi representasi memberi lebih banyak jalan untuk mengakses konsep tanpa menganggap setiap orang hanya memiliki satu gaya belajar.
+
+Pembelajaran inklusif mengurangi hambatan yang dapat dihindari. Materi dapat disediakan dalam format yang mudah dibaca, instruksi ditulis dengan jelas, dan kegiatan memberi pilihan cara berpartisipasi. Penyesuaian perlu mempertahankan tujuan pembelajaran sambil membuat akses lebih setara. Tanyakan kebutuhan secara hormat dan jangan meminta seseorang membuka informasi pribadi di depan kelompok.
+
+Bahasa pengajaran juga memengaruhi akses. Istilah akademik perlu dijelaskan, contoh sebaiknya dekat dengan konteks yang dipahami, dan perbedaan latar budaya tidak boleh dijadikan bahan stereotip. Lingkungan aman memungkinkan pelajar bertanya, mengakui belum paham, dan memperbaiki kesalahan tanpa dipermalukan.
+
+PROYEK
+
+Pilih satu materi pelajaran. Rancang penjelasan singkat, contoh yang dikerjakan, latihan mengingat aktif, dan jadwal pengulangan berjeda. Sediakan dua bentuk representasi, misalnya teks dan diagram. Uji dengan beberapa pembaca secara sukarela, lalu catat bagian yang paling mudah dipahami dan bagian yang memerlukan penjelasan tambahan.
+
+PERTANYAAN
+
+1. Bagaimana beban kognitif dapat dikurangi tanpa menyederhanakan konsep secara keliru?
+2. Apa perbedaan membaca ulang dan latihan mengingat aktif?
+3. Mengapa tujuan penguasaan dapat membantu menghadapi kesalahan?
+4. Apa ciri umpan balik yang dapat ditindaklanjuti?
+5. Bagaimana pembelajaran inklusif mengurangi hambatan akses?

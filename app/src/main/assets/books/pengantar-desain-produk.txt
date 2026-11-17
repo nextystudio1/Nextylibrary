@@ -390,3 +390,32 @@ LATIHAN DAN PROYEK
 6. Susun rencana uji yang tidak mengumpulkan data pribadi yang tidak diperlukan.
 
 Proyek: pilih produk sederhana yang digunakan dalam kegiatan belajar. Buat peta kebutuhan, profil konteks, dan dua konsep rancangan. Bandingkan konsep menggunakan kriteria fungsi, aksesibilitas, material, biaya, perawatan, dan akhir masa pakai. Buat prototipe nonfungsional atau model kertas, lalu uji pemahaman dan kenyamanan dasar tanpa melakukan pengujian berbahaya. Sajikan perubahan yang dibuat berdasarkan temuan.
+
+BAB LANJUTAN: ERGONOMI, SIKLUS HIDUP, DAN VALIDASI DESAIN PRODUK
+
+Desain produk dimulai dari pemahaman terhadap kegiatan manusia. Pengamatan penggunaan membantu menemukan kesulitan yang mungkin tidak muncul ketika perancang hanya membayangkan kebutuhan. Wawancara, catatan aktivitas, dan analisis tugas dapat mengungkap kapan produk digunakan, lingkungan pemakaian, serta hambatan yang dialami. Data pengguna perlu dikumpulkan secara etis, dengan persetujuan dan tanpa meminta informasi pribadi yang tidak diperlukan.
+
+Ergonomi mempelajari hubungan antara manusia, alat, dan lingkungan. Dimensi tubuh manusia bervariasi, sehingga desain tidak seharusnya hanya cocok untuk satu ukuran atau satu kemampuan. Rentang penyesuaian, posisi pegangan, gaya yang dibutuhkan, keterbacaan indikator, dan kemudahan membersihkan produk dapat memengaruhi kenyamanan. Produk yang digunakan dalam waktu lama perlu memperhatikan postur dan beban berulang. Keputusan ergonomi sebaiknya diuji dengan kelompok pengguna yang relevan.
+
+Antropometri menyediakan data ukuran tubuh untuk membantu menentukan dimensi produk. Data tersebut harus sesuai dengan populasi, kelompok usia, dan konteks penggunaan. Persentil bukan berarti setiap orang memiliki ukuran yang sama, melainkan cara memahami sebaran ukuran. Untuk beberapa dimensi, ruang bebas perlu mengakomodasi pengguna bertubuh lebih besar; untuk jangkauan, desain perlu mempertimbangkan pengguna dengan jangkauan lebih pendek. Penyesuaian sering lebih inklusif daripada satu ukuran tetap.
+
+Interaksi produk mencakup petunjuk, kendali, umpan balik, dan pencegahan kesalahan. Tombol harus memiliki fungsi yang dapat diperkirakan, label yang jelas, serta umpan balik ketika tindakan berhasil atau gagal. Bentuk kendali yang berbeda dapat membantu mencegah tertukarnya fungsi. Jika produk memiliki beberapa mode, status aktif harus terlihat. Panduan penggunaan sebaiknya mendukung desain yang intuitif, bukan menutupi antarmuka yang membingungkan.
+
+Pemilihan material menghubungkan kebutuhan fungsi, proses produksi, biaya, keselamatan, dan dampak lingkungan. Material yang ringan mungkin mengurangi kebutuhan energi saat penggunaan, tetapi proses produksinya bisa memiliki dampak lain. Evaluasi siklus hidup melihat ekstraksi bahan, manufaktur, distribusi, penggunaan, perawatan, dan akhir masa pakai. Data yang tersedia sering memiliki ketidakpastian, sehingga asumsi dan batas analisis harus dinyatakan.
+
+Desain untuk perawatan dapat memperpanjang masa guna produk. Komponen yang mudah dibersihkan, diperiksa, dan diganti mengurangi kemungkinan seluruh produk dibuang ketika satu bagian rusak. Ketersediaan suku cadang, dokumentasi perbaikan, dan kemudahan pembongkaran menjadi pertimbangan sejak awal. Produk yang direkatkan permanen atau menggunakan komponen khusus yang sulit diperoleh dapat menyulitkan perawatan dan daur ulang.
+
+Prototipe merupakan alat belajar, bukan sekadar model akhir. Sketsa dan model kertas dapat menguji tata letak serta proporsi. Prototipe visual dapat membantu mengevaluasi tampilan dan pemahaman. Pengujian fungsi hanya dilakukan jika metode, lingkungan, dan pengawasan sesuai tingkat risikonya. Hasil uji perlu mencatat tujuan, kondisi, peserta, temuan, dan keterbatasan agar keputusan desain dapat ditelusuri.
+
+Validasi desain berbeda dari meminta pengguna menyatakan suka atau tidak suka. Validasi menilai apakah produk menyelesaikan kebutuhan yang telah ditentukan. Tugas terukur dapat menguji apakah pengguna memahami petunjuk, menemukan kendali, atau menyelesaikan aktivitas. Temuan negatif merupakan informasi penting. Tim perlu membedakan masalah desain, kesalahan prosedur pengujian, dan variasi pengalaman pengguna sebelum memutuskan revisi.
+
+Spesifikasi produk menerjemahkan kebutuhan menjadi kriteria yang dapat diperiksa. Contohnya meliputi rentang dimensi, batas berat, kemudahan pembersihan, kompatibilitas, atau ketahanan sesuai metode uji yang relevan. Setiap kriteria harus memiliki alasan dan cara verifikasi. Persyaratan keselamatan serta kepatuhan standar tidak boleh diganti dengan penilaian informal.
+
+Studi kasus: tim merancang wadah minum yang mudah digunakan dalam aktivitas sehari-hari. Mereka memetakan cara membuka, mengisi, membawa, dan membersihkan wadah. Model awal diuji untuk melihat kejelasan tutup dan kemudahan pegangan. Tim kemudian meninjau material, kebocoran melalui metode uji yang sesuai, serta ketersediaan komponen pengganti. Keputusan akhir didasarkan pada bukti dan batas pengujian.
+
+Latihan penerapan:
+1. Buat peta aktivitas pengguna untuk satu produk rumah tangga.
+2. Tentukan dimensi produk yang perlu disesuaikan dengan variasi pengguna.
+3. Susun kriteria pemilihan material berdasarkan fungsi dan siklus hidup.
+4. Buat rencana uji prototipe yang aman dan dapat diulang.
+5. Tulis spesifikasi produk beserta metode verifikasinya.

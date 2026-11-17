@@ -305,3 +305,53 @@ LATIHAN
 3. Bagaimana sudut dan jarak memengaruhi estimasi tinggi?
 4. Mengapa pengukuran berulang tidak menghilangkan bias sistematis?
 5. Bagaimana memeriksa kewajaran hasil model matematika?
+
+BAB PENDALAMAN: GEOMETRI KOORDINAT DAN PEMODELAN RUANG
+
+Geometri koordinat menghubungkan bentuk geometris dengan bilangan melalui sistem sumbu. Pada bidang, titik dinyatakan sebagai pasangan koordinat, sedangkan pada ruang tiga dimensi digunakan tiga komponen. Representasi ini memungkinkan jarak, kemiringan, luas, dan posisi dihitung menggunakan model matematis. Pilihan sistem koordinat harus dijelaskan agar hasil dapat ditafsirkan dengan benar.
+
+JARAK, TITIK TENGAH, DAN GRADIEN
+
+Jarak dua titik pada bidang dapat diperoleh dari teorema Pythagoras. Jika titiknya (x1, y1) dan (x2, y2), jarak adalah akar dari jumlah kuadrat selisih koordinat. Titik tengah diperoleh dengan merata-ratakan koordinat masing-masing. Gradien garis menggambarkan perubahan vertikal dibanding perubahan horizontal, selama garis tidak vertikal.
+
+Konsep tersebut berguna untuk membaca peta, merancang denah, dan menganalisis perubahan posisi. Namun, koordinat pada peta tidak selalu sama dengan jarak permukaan sebenarnya. Proyeksi peta dapat mengubah bentuk, luas, atau jarak. Pengguna perlu mengetahui sistem koordinat dan skala sebelum melakukan pengukuran.
+
+TRANSFORMASI GEOMETRI
+
+Translasi memindahkan setiap titik dengan vektor yang sama. Rotasi memutar bentuk terhadap pusat tertentu. Refleksi mencerminkan bentuk terhadap garis atau bidang, sedangkan dilatasi mengubah ukuran berdasarkan faktor skala. Transformasi dapat mempertahankan sebagian sifat dan mengubah sifat lain. Isometri mempertahankan jarak, sedangkan dilatasi dengan faktor berbeda dari satu mengubah panjang.
+
+Dalam desain, transformasi membantu membuat pola, mengatur komponen, dan memeriksa simetri. Dalam pemetaan, transformasi koordinat digunakan untuk mengubah representasi posisi. Kesalahan dalam urutan transformasi dapat menghasilkan lokasi berbeda, sehingga langkah dan sistem acuan perlu dicatat.
+
+LUAS DAN VOLUME
+
+Luas mengukur ukuran permukaan dua dimensi, sedangkan volume mengukur ruang tiga dimensi. Rumus yang digunakan bergantung pada bentuk dan asumsi geometri. Untuk bentuk tidak beraturan, pendekatan dapat dilakukan melalui pembagian menjadi bagian sederhana atau metode numerik. Ketelitian hasil bergantung pada ketelitian pengukuran batas bentuk.
+
+Volume benda tidak selalu dapat dihitung dari ukuran luar saja jika terdapat rongga atau bentuk internal. Dalam model teknik, perbedaan antara volume geometris, kapasitas, dan volume material perlu dijelaskan. Satuan juga harus konsisten; mencampur sentimeter dan meter tanpa konversi akan menghasilkan kesalahan besar.
+
+PENGUKURAN DAN KETIDAKPASTIAN
+
+Setiap pengukuran memiliki ketidakpastian. Resolusi alat membatasi detail yang dapat dibaca, sedangkan kalibrasi dan metode dapat menimbulkan bias sistematis. Pengukuran berulang membantu memperkirakan variasi acak, tetapi tidak otomatis menghilangkan kesalahan sistematis. Hasil sebaiknya dilaporkan dengan satuan, metode, dan ketidakpastian yang sesuai.
+
+Angka signifikan menunjukkan tingkat ketelitian yang wajar dari suatu hasil. Menuliskan banyak digit tidak membuat hasil lebih akurat jika alat dan metode tidak mendukungnya. Ketika beberapa besaran digabungkan dalam perhitungan, ketidakpastian dapat merambat ke hasil akhir. Untuk pembelajaran dasar, penting untuk menyebutkan bahwa hasil hitungan merupakan estimasi, bukan nilai mutlak.
+
+SKALA DAN REPRESENTASI
+
+Skala menyatakan hubungan ukuran pada gambar dengan ukuran sebenarnya. Denah berskala membantu membandingkan ruang dan menyusun tata letak. Skala harus dicantumkan secara jelas dan gambar harus mempertahankan proporsi. Jika gambar diubah ukurannya saat dicetak atau ditampilkan, skala grafis dapat lebih mudah digunakan daripada hanya mengandalkan rasio tertulis.
+
+Representasi dua dimensi dari objek tiga dimensi selalu memiliki keterbatasan. Proyeksi ortogonal, perspektif, dan tampak potongan menonjolkan informasi berbeda. Pembaca perlu mengetahui jenis gambar agar tidak salah menafsirkan ukuran atau kedalaman.
+
+GEOMETRI DALAM KEHIDUPAN DAN DESAIN
+
+Geometri digunakan dalam konstruksi, seni, navigasi, pemetaan, pengemasan, dan analisis data spasial. Pemilihan bentuk dapat memengaruhi penggunaan material, stabilitas, dan kenyamanan. Namun, model geometris menyederhanakan kondisi nyata. Permukaan tidak selalu rata, material dapat berubah bentuk, dan ukuran dapat dipengaruhi suhu atau cara pemasangan.
+
+Dalam pemecahan masalah, langkah penting adalah membuat sketsa, menetapkan variabel, menuliskan asumsi, memilih rumus, menghitung dengan satuan konsisten, lalu memeriksa kewajaran hasil. Jika hasil tidak masuk akal, periksa model dan data sebelum mengulang operasi hitung secara membabi buta.
+
+LATIHAN DAN PROYEK
+
+1. Bagaimana jarak dua titik dihitung pada bidang koordinat?
+2. Transformasi apa yang mempertahankan jarak dan transformasi apa yang mengubahnya?
+3. Mengapa skala peta harus dibaca bersama sistem proyeksinya?
+4. Apa perbedaan kesalahan acak dan bias sistematis?
+5. Mengapa banyak digit desimal tidak otomatis menunjukkan ketelitian tinggi?
+
+Proyek: buat denah sederhana dari ruang publik yang boleh diukur. Tentukan skala, catat metode, ukur ulang beberapa sisi, dan bandingkan hasil. Laporkan ketidakpastian serta jelaskan keterbatasan denah dua dimensi dalam mewakili ruang sebenarnya.

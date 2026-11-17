@@ -234,3 +234,30 @@ LATIHAN PENDALAMAN
 3. Berikan dua cara mengurangi bias konfirmasi.
 4. Mengapa kelompok pembanding dapat membantu menguji solusi?
 5. Bagaimana kelompok dapat memastikan perbedaan pendapat tetap terdengar?
+BAB LANJUTAN. PENALARAN FORMAL, ARGUMEN, DAN KEPUTUSAN DI BAWAH KETIDAKPASTIAN
+
+Argumen terdiri atas premis dan kesimpulan. Premis adalah alasan yang diajukan untuk mendukung kesimpulan. Argumen deduktif dinilai valid apabila kesimpulannya mengikuti premis secara logis. Argumen induktif dinilai berdasarkan kekuatan dukungan bukti, bukan kepastian mutlak. Perbedaan ini penting: sebuah argumen dapat valid secara bentuk tetapi memiliki premis yang salah, sehingga kesimpulannya belum tentu benar dalam kenyataan.
+
+Dalam logika proposisional, pernyataan dapat digabungkan menggunakan operator seperti dan, atau, jika-maka, serta negasi. Pernyataan majemuk dapat dianalisis melalui tabel kebenaran. Misalnya, implikasi “jika P maka Q” hanya salah ketika P benar dan Q salah. Memahami bentuk ini membantu memeriksa konsistensi aturan, tetapi bahasa sehari-hari sering memiliki nuansa yang tidak tertangkap oleh simbol formal. Formalisasi harus menjelaskan arti setiap simbol dan asumsi yang digunakan.
+
+Kesalahan penalaran atau sesat pikir dapat muncul ketika bentuk argumen tampak meyakinkan tetapi dukungannya lemah. Generalisasi tergesa-gesa menarik kesimpulan luas dari sampel kecil atau tidak representatif. Serangan pribadi mengganti pembahasan alasan dengan penilaian terhadap orang yang berbicara. Dilema palsu menyajikan dua pilihan seolah tidak ada alternatif lain. Sebab-akibat palsu menganggap dua kejadian yang berurutan pasti memiliki hubungan kausal. Mengenali sesat pikir bukan untuk memberi label kepada lawan bicara, melainkan untuk memperbaiki kualitas alasan.
+
+Penalaran berbasis bukti membutuhkan pemeriksaan sumber, metode, ukuran sampel, dan kemungkinan bias. Bukti yang mendukung hipotesis perlu dibandingkan dengan bukti yang dapat melemahkannya. Pertanyaan “apa yang akan membuat saya mengubah kesimpulan?” membantu mengurangi bias konfirmasi. Pisahkan pengamatan dari interpretasi. Jika informasi belum cukup, kesimpulan sementara lebih jujur daripada kepastian yang dibuat-buat.
+
+Keputusan sering dibuat di bawah risiko dan ketidakpastian. Risiko dapat diperkirakan dengan peluang dan konsekuensi, sedangkan ketidakpastian muncul ketika peluang atau model belum diketahui dengan baik. Matriks keputusan dapat membandingkan pilihan berdasarkan kriteria, tetapi bobot kriteria harus dijelaskan. Analisis sensitivitas menguji apakah pilihan berubah ketika asumsi berubah. Keputusan yang tampak terbaik pada satu skenario belum tentu terbaik pada skenario lain.
+
+Biaya peluang adalah nilai dari alternatif terbaik yang dilepas ketika memilih suatu tindakan. Biaya tidak selalu berbentuk uang; waktu, perhatian, kesempatan belajar, dan dampak sosial juga relevan. Dalam keputusan kelompok, penting untuk membedakan kepentingan pribadi, tujuan bersama, dan kewajiban terhadap pihak yang terdampak. Keputusan yang efisien belum tentu adil apabila beban dan manfaatnya dibagikan secara tidak seimbang.
+
+Pemecahan masalah dapat menggunakan pendekatan iteratif: rumuskan masalah, tetapkan tujuan, kumpulkan informasi, hasilkan beberapa pilihan, tentukan kriteria, pilih tindakan, uji, lalu evaluasi. Hindari langsung menerima solusi pertama. Rumusan masalah yang buruk dapat membuat tim mengoptimalkan hal yang salah. Contohnya, keluhan “siswa tidak membaca” mungkin sebenarnya berkaitan dengan akses buku, kesesuaian koleksi, waktu, atau kenyamanan ruang. Mengubah rumusan setelah mendengar pengguna bukan kegagalan, melainkan bagian dari pembelajaran.
+
+Eksperimen kecil dapat mengurangi ketidakpastian sebelum keputusan besar. Buat prediksi yang dapat diamati, tentukan ukuran keberhasilan, dan tetapkan batas waktu evaluasi. Uji coba harus aman dan tidak membebani kelompok tertentu secara tidak adil. Catat hasil yang tidak sesuai harapan karena informasi negatif sering lebih berguna daripada sekadar mengonfirmasi dugaan awal. Setelah uji coba, putuskan apakah solusi diteruskan, diubah, atau dihentikan.
+
+LATIHAN DAN PEMBAHASAN
+1. Apakah argumen valid selalu memiliki premis benar? Pembahasan: tidak. Validitas menyangkut hubungan logis antara premis dan kesimpulan.
+2. Mengapa sampel kecil dapat menghasilkan generalisasi tergesa-gesa? Pembahasan: sampel mungkin tidak mewakili keragaman populasi.
+3. Apa fungsi analisis sensitivitas? Pembahasan: menguji apakah keputusan berubah ketika asumsi atau bobot kriteria berubah.
+4. Berikan contoh biaya peluang nonfinansial. Pembahasan: waktu belajar yang digunakan untuk kegiatan lain atau kesempatan mengikuti program yang dilepas.
+5. Mengapa solusi perlu diuji dalam skala kecil? Pembahasan: uji coba dapat mengungkap masalah dan mengurangi risiko sebelum penerapan luas.
+
+PROYEK MINI
+Pilih masalah sederhana di lingkungan belajar, misalnya keterlambatan pengumpulan tugas. Tulis rumusan masalah tanpa menyalahkan individu, buat diagram kemungkinan penyebab, dan susun tiga solusi alternatif. Tentukan kriteria yang mencakup efektivitas, keadilan, biaya, dan kemudahan. Rancang uji coba terbatas, ukuran hasil, serta kondisi yang membuat solusi perlu diubah.

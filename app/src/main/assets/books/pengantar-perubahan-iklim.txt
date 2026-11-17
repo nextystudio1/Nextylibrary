@@ -221,3 +221,53 @@ LATIHAN PENDALAMAN
 3. Mengapa ketahanan pangan lebih luas daripada jumlah produksi?
 4. Berikan contoh adaptasi pertanian yang perlu diuji secara lokal.
 5. Apa perbedaan prakiraan probabilistik dan kepastian?
+BAB LANJUTAN 4. KOTA, PANAS EKSTREM, DAN ADAPTASI PERKOTAAN
+
+Wilayah perkotaan dapat mengalami suhu yang lebih tinggi daripada daerah sekitarnya akibat kombinasi permukaan terbangun, penyimpanan panas oleh material, berkurangnya vegetasi, geometri jalan, dan panas dari aktivitas manusia. Fenomena pulau panas perkotaan dapat memperburuk paparan panas ketika gelombang panas terjadi. Intensitasnya berbeda menurut waktu, bentuk kota, cuaca, dan karakter lingkungan.
+
+Paparan panas tidak dirasakan secara merata. Pekerja luar ruang, anak-anak, lansia, orang dengan kondisi kesehatan tertentu, dan warga yang tinggal di bangunan dengan ventilasi atau pendinginan terbatas dapat menghadapi risiko lebih besar. Analisis kerentanan perlu memadukan suhu, kelembapan, kepadatan penduduk, kondisi bangunan, akses ruang hijau, dan layanan kesehatan.
+
+Adaptasi kota dapat mencakup penambahan vegetasi yang sesuai, perlindungan ruang publik, desain bangunan yang mengurangi panas, akses air minum, sistem peringatan, dan pengaturan kegiatan saat kondisi ekstrem. Penanaman pohon perlu mempertimbangkan jenis lokal, ketersediaan air, pemeliharaan, serta distribusi manfaat. Ruang hijau yang hanya tersedia di kawasan tertentu dapat memperlebar ketimpangan lingkungan.
+
+Evaluasi adaptasi harus mengukur perubahan paparan dan manfaat bagi kelompok yang paling rentan. Jumlah pohon yang ditanam bukan satu-satunya indikator; tingkat kelangsungan hidup pohon, keteduhan yang dihasilkan, akses warga, dan perubahan suhu mikro juga penting. Perencanaan perlu melibatkan masyarakat agar solusi sesuai kebutuhan setempat.
+
+LATIHAN BAB
+1. Sebutkan faktor yang membentuk pulau panas perkotaan.
+2. Mengapa paparan panas tidak merata antarwarga?
+3. Berikan empat contoh tindakan adaptasi perkotaan.
+4. Mengapa jumlah pohon saja belum cukup menjadi indikator keberhasilan?
+5. Data apa yang diperlukan untuk memetakan kerentanan panas?
+
+BAB LANJUTAN 5. RISIKO IKLIM PADA KEANEKARAGAMAN HAYATI
+
+Perubahan suhu, pola hujan, kejadian ekstrem, dan kondisi laut dapat mengubah habitat serta hubungan antarspesies. Sebagian organisme dapat berpindah mengikuti kondisi yang sesuai, sementara spesies dengan ruang gerak terbatas atau kebutuhan habitat khusus mungkin lebih sulit beradaptasi. Respons bergantung pada laju perubahan, kemampuan adaptasi, interaksi ekologis, dan tekanan lain seperti perubahan lahan.
+
+Perubahan waktu berbunga, berkembang biak, migrasi, atau kemunculan serangga dapat mengubah hubungan antarorganisme. Jika waktu aktivitas dua spesies yang saling bergantung bergeser dengan laju berbeda, ketersediaan makanan atau proses penyerbukan dapat terganggu. Pemantauan jangka panjang diperlukan untuk membedakan perubahan musiman biasa dari tren yang berkaitan dengan perubahan iklim.
+
+Koridor ekologis dan perlindungan habitat dapat membantu spesies bergerak ketika kondisi berubah. Namun, konektivitas perlu dirancang berdasarkan kebutuhan spesies dan kondisi lanskap. Koridor yang terputus, terlalu sempit, atau melewati wilayah berisiko mungkin tidak memberi manfaat seperti yang diharapkan. Perlindungan habitat juga perlu mempertimbangkan masyarakat yang hidup dan bergantung pada wilayah tersebut.
+
+Penilaian risiko keanekaragaman hayati sebaiknya menggabungkan data iklim, survei spesies, kondisi habitat, dan pengetahuan masyarakat lokal. Peta kesesuaian habitat dari model adalah alat bantu, bukan kepastian bahwa spesies akan berpindah ke lokasi yang diprediksi. Ketidakpastian dan keterbatasan data perlu dijelaskan.
+
+LATIHAN BAB
+1. Bagaimana perubahan iklim dapat mengubah waktu aktivitas spesies?
+2. Mengapa spesies dengan ruang gerak terbatas dapat lebih rentan?
+3. Apa fungsi koridor ekologis?
+4. Mengapa model habitat tidak menjamin perpindahan spesies?
+5. Sebutkan sumber data yang dapat digabungkan dalam penilaian risiko biodiversitas.
+
+BAB LANJUTAN 6. PEMBIAYAAN IKLIM DAN EVALUASI KEBIJAKAN
+
+Pembiayaan iklim mencakup sumber dana untuk mengurangi emisi dan menyesuaikan diri terhadap dampak perubahan iklim. Sumbernya dapat berasal dari anggaran publik, lembaga keuangan, investasi swasta, kerja sama internasional, atau mekanisme lain. Kualitas pembiayaan tidak hanya dinilai dari jumlah dana, tetapi juga tujuan, penerima manfaat, transparansi, dan hasil yang dicapai.
+
+Proyek mitigasi dan adaptasi memiliki karakter berbeda. Proyek energi rendah emisi mungkin menghasilkan penghematan atau pendapatan dalam jangka panjang, sedangkan adaptasi seperti perlindungan komunitas dari banjir dapat menghasilkan manfaat berupa kerugian yang berhasil dihindari. Penilaian perlu mengakui manfaat yang tidak mudah dihitung dengan uang dan risiko bahwa manfaat tidak tersebar merata.
+
+Taksonomi atau klasifikasi kegiatan berkelanjutan dapat membantu mengarahkan investasi, tetapi kriterianya perlu transparan dan diperbarui mengikuti bukti. Klaim hijau harus dapat diverifikasi. Pengungkapan risiko iklim perlu menjelaskan asumsi, cakupan, dan keterbatasan data. Label saja tidak cukup untuk memastikan suatu proyek benar-benar memberi manfaat lingkungan.
+
+Evaluasi kebijakan iklim menghubungkan sumber daya dengan keluaran dan dampak. Jumlah fasilitas yang dibangun merupakan keluaran, sedangkan penurunan emisi atau berkurangnya kerentanan merupakan hasil yang perlu diukur. Evaluasi juga menilai dampak samping, biaya sosial, dan akses kelompok rentan. Pelaporan terbuka membantu masyarakat memeriksa apakah janji kebijakan sesuai hasil.
+
+LATIHAN BAB
+1. Sebutkan sumber pembiayaan iklim yang mungkin digunakan.
+2. Mengapa manfaat adaptasi tidak selalu mudah dinyatakan dalam uang?
+3. Apa risiko klaim hijau tanpa verifikasi?
+4. Bedakan keluaran program dan dampak kebijakan.
+5. Buat indikator untuk mengevaluasi program adaptasi banjir.

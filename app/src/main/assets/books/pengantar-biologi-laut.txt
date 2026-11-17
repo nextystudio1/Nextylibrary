@@ -365,3 +365,32 @@ LATIHAN DAN PROYEK
 6. Sebutkan cara menggabungkan pengetahuan lokal dan pengukuran ilmiah secara saling menghormati.
 
 Proyek: pilih satu ekosistem pesisir di Indonesia berdasarkan sumber terbuka yang dapat diperiksa. Gambarkan komponen fisik, organisme utama, jasa ekosistem, aktivitas masyarakat, tekanan, dan indikator pemantauan. Bedakan data terukur, kesaksian, dan dugaan. Susun rekomendasi yang menyebut pihak terkait serta risiko jika tindakan tidak dilaksanakan.
+
+BAB LANJUTAN: EKOSISTEM PESISIR, JARINGAN MAKANAN, DAN KONSERVASI
+
+Ekosistem laut terbentuk melalui interaksi organisme dengan kondisi fisik dan kimia perairan. Cahaya, suhu, salinitas, tekanan, oksigen terlarut, arus, dan ketersediaan nutrien memengaruhi persebaran kehidupan. Faktor tersebut berubah menurut kedalaman, musim, dan lokasi. Karena itu, pengamatan satu kali tidak cukup untuk menggambarkan seluruh dinamika ekosistem. Data jangka panjang membantu membedakan variasi alami dari perubahan yang lebih menetap.
+
+Fitoplankton merupakan organisme fotosintetik mikroskopis yang menjadi dasar banyak jaringan makanan laut. Zooplankton memakan fitoplankton atau organisme lain, lalu menjadi sumber makanan bagi hewan yang lebih besar. Energi berpindah melalui tingkat trofik, tetapi sebagian energi digunakan untuk metabolisme dan hilang sebagai panas pada setiap perpindahan. Jaringan makanan nyata lebih kompleks daripada rantai sederhana karena satu organisme dapat memiliki beberapa sumber makanan dan pemangsa.
+
+Terumbu karang menyediakan habitat bagi beragam organisme dan membantu meredam energi gelombang. Karang pembentuk terumbu hidup bersama alga simbion yang membantu menyediakan energi melalui fotosintesis. Perubahan suhu, kualitas air, sedimentasi, dan tekanan lokal dapat mengganggu hubungan tersebut. Pemutihan karang merupakan tanda stres, bukan selalu bukti kematian langsung. Pemulihan bergantung pada tingkat gangguan, kondisi lingkungan, dan tekanan yang terjadi berulang.
+
+Ekosistem mangrove tumbuh di wilayah pesisir yang dipengaruhi pasang surut. Akar dan struktur vegetasinya menyediakan habitat, menahan sedimen, dan menyimpan karbon. Mangrove juga berhubungan dengan ekosistem lain seperti padang lamun dan terumbu karang. Kerusakan satu bagian pesisir dapat memengaruhi bagian lain melalui perubahan aliran air, sedimen, dan hubungan ekologis. Restorasi perlu memahami kondisi hidrologi, jenis setempat, serta penyebab kerusakan sebelum penanaman dilakukan.
+
+Padang lamun merupakan habitat tumbuhan berbunga yang hidup terendam di perairan dangkal. Lamun menyediakan tempat mencari makan dan berlindung bagi berbagai organisme serta membantu menstabilkan sedimen. Kekeruhan tinggi dan perubahan kualitas air dapat mengurangi cahaya yang diperlukan untuk fotosintesis. Pemantauan lamun dapat mencatat tutupan, kondisi daun, kedalaman, kejernihan, dan gangguan fisik dengan metode yang konsisten.
+
+Siklus karbon laut melibatkan pertukaran karbon antara atmosfer, permukaan laut, organisme, dan laut dalam. Organisme fotosintetik menyerap karbon anorganik, sementara respirasi dan penguraian mengembalikannya ke lingkungan. Laut menyerap sebagian karbon dioksida dari atmosfer, tetapi peningkatan karbon terlarut juga mengubah kimia air dan dapat memengaruhi organisme pembentuk cangkang. Perubahan tersebut memiliki dampak berbeda menurut spesies dan kondisi lokal.
+
+Perikanan memanfaatkan sumber daya hayati yang dapat pulih jika tekanan penangkapan berada dalam batas yang berkelanjutan. Penilaian stok memerlukan informasi tentang pertumbuhan, reproduksi, mortalitas, upaya tangkap, dan perubahan habitat. Data hasil tangkapan saja tidak selalu cukup karena peningkatan tangkapan dapat terjadi akibat bertambahnya upaya, bukan bertambahnya populasi ikan. Pengelolaan perlu mempertimbangkan pengetahuan ilmiah dan pengalaman masyarakat pesisir.
+
+Sampah laut berasal dari berbagai kegiatan di darat dan laut. Plastik dapat terpecah menjadi bagian lebih kecil, berpindah melalui arus, dan berinteraksi dengan organisme. Pencegahan di sumber, pengelolaan sampah, desain kemasan, dan sistem pengumpulan lebih efektif daripada hanya mengandalkan pembersihan setelah sampah tersebar. Program pemantauan perlu mencatat jenis, jumlah, lokasi, dan metode pengambilan data agar hasil dapat dibandingkan.
+
+Konservasi laut membutuhkan keterlibatan masyarakat, pemerintah, peneliti, dan pelaku usaha. Kawasan konservasi dapat membantu melindungi habitat dan proses ekologis jika batas, aturan, pengawasan, serta kebutuhan masyarakat dirancang dengan baik. Keberhasilan tidak cukup dinilai dari luas kawasan yang ditetapkan. Indikator dapat mencakup kondisi habitat, populasi spesies, kepatuhan, manfaat sosial, dan keberlanjutan mata pencaharian.
+
+Studi kasus: sebuah komunitas pesisir ingin menilai kondisi mangrove. Tim menyusun peta lokasi, mencatat kondisi vegetasi, mengamati perubahan garis pantai, serta mewawancarai warga dengan persetujuan. Mereka membedakan pengamatan langsung dari informasi yang disampaikan responden. Rekomendasi mempertimbangkan penyebab perubahan, akses masyarakat, dan kebutuhan pemantauan berulang.
+
+Latihan penerapan:
+1. Gambarkan jaringan makanan sederhana pada ekosistem pesisir.
+2. Bandingkan fungsi mangrove, lamun, dan terumbu karang.
+3. Jelaskan mengapa data hasil tangkapan perlu dibandingkan dengan upaya penangkapan.
+4. Rancang indikator pemantauan sampah laut.
+5. Buat kerangka konservasi yang melibatkan masyarakat setempat.

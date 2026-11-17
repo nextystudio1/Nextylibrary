@@ -363,3 +363,34 @@ PERTANYAAN
 3. Mengapa pesan digital perlu diperiksa sebelum dikirim?
 4. Bagaimana menjawab pertanyaan yang belum diketahui jawabannya?
 5. Apa manfaat mendengarkan aktif dalam kerja kelompok?
+
+BAB PENDALAMAN: MENYUSUN PESAN BERDASARKAN AUDIENS
+
+Komunikasi efektif dimulai dari tujuan: apakah pesan hendak menjelaskan, mengajak, meminta keputusan, atau menyampaikan pembaruan. Setelah tujuan jelas, kenali pengetahuan awal, kebutuhan, bahasa, dan situasi penerima. Materi yang tepat untuk rekan satu tim mungkin terlalu teknis untuk masyarakat umum.
+
+Satu pesan utama membantu audiens memahami inti pembicaraan. Susun informasi pendukung dalam urutan yang logis, gunakan istilah secara konsisten, dan jelaskan singkatan saat pertama kali muncul. Contoh konkret dapat memperjelas konsep abstrak, tetapi harus relevan dan tidak menyesatkan.
+
+BAB PENDALAMAN: STRUKTUR PRESENTASI DAN ALUR CERITA
+
+Presentasi yang terarah memiliki pembukaan, pengembangan, dan penutup. Pembukaan menjelaskan persoalan serta alasan topik penting. Bagian utama menyajikan beberapa gagasan yang saling terhubung dengan bukti dan ilustrasi. Penutup merangkum kesimpulan dan menyebutkan tindakan atau pertanyaan berikutnya.
+
+Alur cerita bukan berarti mengorbankan ketepatan. Data perlu diberi konteks, sumber, periode, dan batas interpretasi. Jika bukti belum cukup, nyatakan ketidakpastian. Hindari memilih hanya angka yang mendukung kesimpulan yang diinginkan.
+
+BAB PENDALAMAN: VISUALISASI DAN MEDIA PRESENTASI
+
+Slide sebaiknya membantu audiens mengikuti penjelasan, bukan menjadi naskah lengkap yang dibacakan. Satu slide dapat berfokus pada satu gagasan, memakai judul informatif, dan menampilkan grafik atau gambar yang benar-benar mendukung. Ukuran teks, kontras, dan tata letak perlu diuji dari jarak pandang yang wajar.
+
+Grafik harus memiliki label, satuan, rentang, dan sumber. Potongan sumbu atau skala yang tidak dijelaskan dapat membesar-besarkan perbedaan. Gambar milik pihak lain memerlukan izin atau lisensi yang sesuai serta atribusi. Sediakan deskripsi lisan untuk informasi visual yang penting.
+
+BAB PENDALAMAN: MENDENGARKAN DAN MENANGANI PERTANYAAN
+
+Mendengarkan aktif berarti memberi perhatian, tidak memotong pembicaraan, dan memeriksa pemahaman. Parafrase singkat dapat memastikan bahwa inti pertanyaan telah ditangkap. Dalam diskusi, bedakan kritik terhadap gagasan dari serangan terhadap pribadi.
+
+Jika tidak mengetahui jawaban, sampaikan dengan jujur dan jelaskan cara memeriksanya. Pertanyaan yang luas dapat dipersempit dengan meminta konteks. Ketika ada perbedaan pendapat, sebutkan bagian yang disepakati, bukti yang berbeda, dan informasi tambahan yang dibutuhkan.
+
+BAB PENDALAMAN: KOMUNIKASI TERTULIS DAN KOLABORASI
+
+Pesan tertulis tidak memiliki intonasi dan ekspresi wajah, sehingga pilihan kata perlu lebih cermat. Judul atau subjek harus menjelaskan topik, paragraf awal menyampaikan maksud, dan permintaan tindakan perlu menyebut tenggat bila memang ada. Periksa nama penerima, lampiran, tautan, serta informasi rahasia sebelum mengirim.
+
+Kolaborasi memerlukan kesepakatan kanal, pembagian tugas, tenggat, dan cara mengambil keputusan. Ringkasan rapat mencatat keputusan, alasan utama, penanggung jawab, dan tindak lanjut. Catatan yang netral membantu anggota tim yang tidak hadir memahami perkembangan tanpa menambah tafsir yang tidak disepakati.
+

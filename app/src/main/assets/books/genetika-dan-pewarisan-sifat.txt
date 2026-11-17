@@ -302,3 +302,37 @@ LATIHAN DAN PEMBAHASAN
 PROYEK MINI: SIMULASI POPULASI
 
 Buat simulasi kertas untuk populasi hipotetis dengan dua alel. Tetapkan frekuensi awal, hitung perkiraan genotipe menurut Hardy–Weinberg, lalu buat beberapa putaran pengambilan sampel acak menggunakan angka undian. Bandingkan hasil tiap putaran dan diskusikan mengapa populasi kecil dapat berubah lebih besar. Tegaskan bahwa simulasi ini model pembelajaran, bukan gambaran atau penilaian terhadap kelompok manusia nyata.
+
+BAB PENDALAMAN: REGULASI EKSPRESI GEN
+
+Informasi genetik tidak digunakan dengan cara yang sama pada setiap sel. Sebagian gen aktif pada kondisi tertentu, sedangkan gen lain lebih banyak diam. Regulasi ekspresi gen memungkinkan sel yang membawa materi genetik serupa menjalankan fungsi berbeda. Sel saraf, sel otot, dan sel epitel memiliki struktur serta tugas yang berlainan karena pola ekspresi gen dan pengaturan selulernya berbeda.
+
+Pada organisme eukariotik, pengaturan dapat terjadi sebelum transkripsi, saat transkripsi berlangsung, setelah RNA terbentuk, dan ketika protein diproses atau dihancurkan. Faktor transkripsi berinteraksi dengan bagian DNA tertentu untuk membantu atau menghambat pembacaan gen. Struktur kromatin juga memengaruhi seberapa mudah mesin sel mengakses wilayah DNA. Molekul RNA tertentu berperan dalam pemrosesan, stabilitas, atau pengaturan pesan genetik.
+
+Ekspresi gen dipengaruhi sinyal dari dalam dan luar sel. Ketersediaan nutrien, sinyal hormon, tahap perkembangan, dan kondisi lingkungan dapat mengubah aktivitas jalur tertentu. Respons tersebut tidak berarti urutan DNA selalu berubah. Perbedaan antara perubahan ekspresi dan perubahan urutan DNA penting dalam memahami adaptasi, perkembangan, dan penyakit.
+
+BAB PENDALAMAN: PEWARISAN POLIGENIK DAN LINGKUNGAN
+
+Banyak karakteristik organisme dipengaruhi oleh banyak gen sekaligus. Pada pewarisan poligenik, kontribusi berbagai lokus dapat saling menambah atau berinteraksi. Pola yang dihasilkan sering berupa variasi berkelanjutan, bukan kategori sederhana. Pengaruh lingkungan dapat mengubah bagaimana variasi genetik tampak, sehingga pengamatan pada satu lingkungan belum tentu berlaku pada lingkungan lain.
+
+Interaksi gen dan lingkungan dapat dipahami melalui contoh konseptual: dua individu dengan variasi genetik berbeda mungkin menunjukkan respons berbeda terhadap kondisi lingkungan yang sama. Sebaliknya, individu dengan latar genetik serupa dapat menunjukkan hasil berbeda ketika mengalami kondisi perkembangan yang berlainan. Karena itu, karakteristik kompleks tidak dapat dijelaskan dengan satu gen atau satu faktor tunggal tanpa bukti kuat.
+
+Heritabilitas merupakan ukuran variasi dalam suatu populasi dan lingkungan tertentu yang berkaitan dengan variasi genetik. Nilainya bukan ukuran seberapa besar suatu karakter individu ditentukan oleh gen. Nilai heritabilitas dapat berubah ketika lingkungan, komposisi populasi, atau metode pengukuran berubah. Penafsiran harus menyebut populasi dan kondisi yang menjadi dasar analisis.
+
+BAB PENDALAMAN: GENOMIK DAN KUALITAS DATA
+
+Genomik mempelajari materi genetik dalam cakupan luas. Teknologi pengurutan menghasilkan data dalam jumlah besar, tetapi data mentah memerlukan pemeriksaan kualitas, pemetaan, dan analisis yang sesuai. Kesalahan teknis, kontaminasi sampel, perbedaan cakupan, serta pilihan perangkat analisis dapat memengaruhi hasil. Karena itu, hasil komputasi bukan kebenaran otomatis; proses dan asumsi harus dapat ditelusuri.
+
+Varian genetik perlu diberi anotasi dan ditafsirkan berdasarkan bukti. Sebagian varian umum tidak memiliki dampak yang diketahui, sebagian berpengaruh kecil, dan sebagian dapat berkaitan dengan kondisi tertentu. Kategori interpretasi dapat berubah ketika penelitian baru tersedia. Satu temuan tidak boleh langsung dipakai untuk menyimpulkan masa depan kesehatan atau kemampuan seseorang.
+
+Data genomik juga menimbulkan persoalan privasi karena dapat mengandung informasi tentang individu dan kerabat biologisnya. Pengumpulan, penyimpanan, pembagian, dan penggunaan ulang data memerlukan dasar persetujuan yang jelas. Pengamanan teknis perlu disertai pembatasan akses dan kebijakan penggunaan. Manfaat penelitian harus dipertimbangkan bersama risiko diskriminasi dan penyalahgunaan.
+
+LATIHAN DAN PROYEK
+
+1. Mengapa sel dengan materi genetik serupa dapat memiliki fungsi berbeda?
+2. Bedakan perubahan ekspresi gen dengan perubahan urutan DNA.
+3. Mengapa heritabilitas tidak dapat diterapkan langsung pada satu individu?
+4. Sebutkan beberapa sumber ketidakpastian dalam analisis genomik.
+5. Mengapa data genetik dapat berkaitan dengan privasi anggota keluarga?
+
+Proyek: gunakan data genotipe simulasi untuk mempelajari frekuensi alel dan pola pewarisan sederhana. Buat dokumentasi asumsi, ukuran sampel, dan keterbatasan. Tambahkan bagian etika yang menjelaskan mengapa data simulasi lebih tepat untuk latihan kelas daripada mengumpulkan informasi genetik pribadi teman atau keluarga.

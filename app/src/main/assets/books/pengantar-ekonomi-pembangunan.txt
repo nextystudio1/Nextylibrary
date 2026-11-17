@@ -359,3 +359,31 @@ STUDI KASUS: MENILAI PROGRAM PELATIHAN KERJA
 
 Sebuah daerah menyelenggarakan pelatihan untuk meningkatkan kesempatan kerja. Evaluasi tidak cukup menghitung jumlah peserta yang lulus. Perlu diperiksa kesesuaian materi dengan kebutuhan pemberi kerja, akses peserta terhadap transportasi dan perangkat, kualitas pengajar, serta perubahan kondisi kerja setelah program. Bandingkan hasil dengan kelompok atau periode yang relevan secara hati-hati dan jangan mengklaim sebab-akibat jika rancangan evaluasi tidak mendukungnya.
 
+BAB LANJUTAN: KEMISKINAN, KETIMPANGAN, DAN KEBIJAKAN PEMBANGUNAN
+
+Pembangunan ekonomi mencakup perubahan kapasitas produksi sekaligus perluasan kesempatan manusia untuk hidup sehat, belajar, bekerja, dan berpartisipasi. Pertumbuhan produk domestik dapat memberi sumber daya bagi layanan publik, tetapi tidak menjamin manfaatnya tersebar merata. Analisis pembangunan perlu melihat siapa yang memperoleh pekerjaan, bagaimana kualitas layanan berubah, dan apakah kelompok yang tertinggal memperoleh kesempatan lebih baik.
+
+Kemiskinan dapat diukur melalui pendekatan pendapatan atau pengeluaran, tetapi kesejahteraan memiliki dimensi lebih luas. Kekurangan akses pendidikan, kesehatan, air bersih, perumahan layak, dan perlindungan sosial dapat saling memperkuat. Kemiskinan multidimensi berusaha menangkap beberapa kekurangan tersebut secara bersamaan. Pemilihan indikator harus transparan karena batas dan bobot yang berbeda dapat menghasilkan gambaran yang berbeda.
+
+Ketimpangan mengacu pada perbedaan distribusi pendapatan, aset, kesempatan, atau layanan. Ukuran agregat seperti koefisien Gini membantu meringkas distribusi, tetapi tidak menjelaskan seluruh penyebab. Analisis juga dapat membandingkan kelompok pendapatan, wilayah, akses pendidikan, dan kepemilikan aset. Ketimpangan kesempatan dapat berlangsung antargenerasi ketika akses terhadap gizi, pendidikan bermutu, jaringan kerja, dan modal sangat berbeda sejak awal kehidupan.
+
+Modal manusia mencakup pengetahuan, keterampilan, kesehatan, dan kemampuan yang mendukung produktivitas serta partisipasi. Investasi pendidikan tidak hanya berarti memperbesar jumlah peserta didik. Kualitas pengajaran, relevansi kurikulum, lingkungan aman, dan dukungan bagi peserta dengan kebutuhan berbeda juga penting. Program pelatihan kerja perlu disusun berdasarkan kebutuhan nyata dan dievaluasi setelah peserta memasuki dunia kerja, bukan hanya berdasarkan jumlah sertifikat yang diterbitkan.
+
+Transformasi struktural terjadi ketika tenaga kerja dan sumber daya berpindah antar sektor serta kegiatan ekonomi menjadi lebih produktif. Perpindahan dari pertanian ke manufaktur atau jasa dapat membuka peluang, tetapi juga menimbulkan tantangan keterampilan, lokasi, dan perlindungan pekerja. Produktivitas perlu ditingkatkan tanpa mengabaikan kondisi kerja dan keberlanjutan lingkungan. Kebijakan yang hanya mengejar angka produksi dapat menimbulkan biaya sosial yang tidak tercatat.
+
+Infrastruktur memengaruhi biaya transaksi, akses pasar, dan kualitas hidup. Jalan, pelabuhan, jaringan komunikasi, air, dan energi dapat memperluas kesempatan ekonomi. Namun, proyek infrastruktur memerlukan penilaian manfaat, biaya pemeliharaan, dampak lingkungan, serta distribusi akses. Pembangunan yang menghubungkan pusat ekonomi tanpa memperhatikan wilayah terpencil dapat memperlebar kesenjangan. Perencanaan harus menilai hubungan antarjaringan dan kebutuhan pengguna.
+
+Lembaga dan tata kelola memengaruhi efektivitas kebijakan. Kepastian aturan, transparansi anggaran, kualitas administrasi, dan mekanisme pengaduan membantu membangun kepercayaan. Kebijakan yang baik di atas kertas dapat gagal jika pelaksanaan tidak konsisten atau kelompok sasaran sulit mengakses layanan. Evaluasi perlu memeriksa proses pelaksanaan, bukan hanya rancangan awal.
+
+Evaluasi program pembangunan membedakan keluaran, hasil, dan dampak. Jumlah pelatihan yang diselenggarakan merupakan keluaran; peningkatan keterampilan merupakan hasil; perubahan kesempatan kerja jangka panjang dapat menjadi dampak. Hubungan sebab-akibat membutuhkan rancangan evaluasi yang sesuai. Perbandingan sebelum dan sesudah saja belum cukup jika ada perubahan ekonomi lain yang terjadi bersamaan. Keterbatasan data dan kemungkinan faktor perancu perlu dijelaskan.
+
+Pembangunan berkelanjutan berusaha menghubungkan kesejahteraan ekonomi, keadilan sosial, dan daya dukung lingkungan. Pertumbuhan yang bergantung pada eksploitasi sumber daya tanpa pemulihan dapat menimbulkan biaya jangka panjang. Kebijakan dapat menggabungkan perlindungan ekosistem, inovasi, efisiensi, dan penciptaan pekerjaan yang layak. Keputusan harus mempertimbangkan generasi mendatang serta kelompok yang paling terdampak saat ini.
+
+Studi kasus: pemerintah daerah merancang program pelatihan keterampilan bagi pencari kerja muda. Evaluasi tidak berhenti pada jumlah peserta dan kelulusan. Tim juga memeriksa kesesuaian materi dengan kebutuhan pemberi kerja, akses transportasi dan perangkat, kualitas pengajar, serta kondisi kerja setelah program. Hasil disajikan dengan keterbatasan data dan tidak mengklaim dampak kausal tanpa pembanding yang memadai.
+
+Latihan penerapan:
+1. Bandingkan ukuran kemiskinan pendapatan dan multidimensi.
+2. Jelaskan bagaimana ketimpangan kesempatan dapat berlangsung antargenerasi.
+3. Buat kerangka evaluasi yang membedakan keluaran, hasil, dan dampak.
+4. Identifikasi manfaat dan biaya sosial dari satu proyek infrastruktur.
+5. Susun indikator pembangunan yang mencakup ekonomi, sosial, dan lingkungan.

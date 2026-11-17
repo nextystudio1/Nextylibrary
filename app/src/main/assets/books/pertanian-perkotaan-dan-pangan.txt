@@ -289,3 +289,40 @@ LATIHAN
 
 PROYEK
 Rancang kebun pembelajaran skala kecil dengan izin dan pengawasan yang sesuai. Buat kalender tanam, daftar kebutuhan, pembagian tugas, catatan pertumbuhan, rencana panen, dan pengelolaan sisa organik. Evaluasi manfaatnya bagi pembelajaran serta keterbatasan produksi lokal.
+
+BAB PENDALAMAN: TANAH, MEDIA TANAM, DAN KESEHATAN LAHAN
+
+Keberhasilan kebun perkotaan sangat dipengaruhi kondisi media tanam. Tanah bukan sekadar penyangga akar, melainkan sistem yang menyimpan air, menyediakan unsur hara, dan menjadi habitat organisme. Tekstur menggambarkan perbandingan pasir, debu, dan liat. Struktur menjelaskan bagaimana partikel membentuk agregat. Dua tanah dengan tekstur serupa dapat memiliki perilaku berbeda karena kandungan bahan organik, pemadatan, dan pengelolaannya.
+
+Bahan organik membantu pembentukan agregat dan mendukung aktivitas organisme tanah. Kompos matang dapat menjadi salah satu sumber bahan organik, tetapi kualitasnya bergantung pada bahan awal dan proses pengomposan. Bahan yang belum matang dapat mengganggu pertumbuhan tanaman. Kompos juga tidak otomatis memenuhi seluruh kebutuhan hara, sehingga pemupukan perlu didasarkan pada kebutuhan tanaman dan kondisi media, bukan perkiraan berlebihan.
+
+Di lingkungan kota, asal media tanam perlu diperhatikan. Tanah dari lokasi yang tidak diketahui dapat mengandung pencemar. Untuk tanaman pangan, gunakan sumber media yang jelas dan sesuai standar setempat. Wadah tanam harus memiliki drainase memadai, sementara air penyiraman perlu memiliki mutu yang sesuai. Jika ada dugaan pencemaran, hentikan pemanfaatan pangan dari lokasi tersebut dan minta penilaian pihak yang kompeten.
+
+BAB PENDALAMAN: AIR, IKLIM MIKRO, DAN EFISIENSI SUMBER DAYA
+
+Kebutuhan air tanaman berubah menurut jenis, fase pertumbuhan, cuaca, ukuran wadah, dan karakter media. Penyiraman berdasarkan kalender tetap dapat menyebabkan kekurangan atau kelebihan air. Pengamatan kelembapan media dan kondisi tanaman memberi informasi lebih baik. Wadah kecil biasanya berubah lebih cepat daripada bedengan tanah yang luas, sehingga pengelolaan harus disesuaikan.
+
+Mulsa dapat mengurangi penguapan dan membantu menstabilkan suhu permukaan. Penampungan air hujan dapat mendukung efisiensi, tetapi wadah perlu tertutup dan dirawat agar tidak menjadi tempat berkembang biak organisme pengganggu. Air yang ditampung harus dievaluasi kesesuaiannya untuk tanaman pangan berdasarkan kondisi lingkungan dan aturan kesehatan setempat.
+
+Bangunan, dinding, dan permukaan keras menciptakan iklim mikro. Pantulan panas, bayangan, dan aliran udara memengaruhi pertumbuhan. Pengamatan beberapa titik pada waktu berbeda dapat membantu menentukan lokasi tanam. Jangan menganggap atap atau balkon selalu cocok: kapasitas struktur, akses, paparan angin, keselamatan, dan izin pengelola bangunan harus dinilai oleh pihak yang berwenang.
+
+BAB PENDALAMAN: KEANEKARAGAMAN HAYATI DAN PENGELOLAAN HAMA
+
+Kebun yang beragam dapat menyediakan habitat bagi penyerbuk dan organisme lain. Penanaman beberapa jenis tanaman dengan waktu berbunga berbeda dapat mendukung ketersediaan sumber pakan. Namun, keanekaragaman bukan jaminan bahwa semua gangguan hilang. Pemantauan rutin tetap diperlukan untuk mengenali perubahan sebelum dampaknya meluas.
+
+Pengendalian hama terpadu mengutamakan pencegahan, identifikasi yang tepat, pemantauan, dan pilihan pengendalian yang proporsional. Gejala daun berlubang tidak selalu berarti serangga; penyakit, kekurangan unsur, dan kondisi air dapat menimbulkan gejala yang mirip. Catat lokasi, waktu, bagian tanaman yang terdampak, serta perubahan setelah tindakan. Hindari penggunaan bahan pengendali tanpa pemahaman label, izin, dan perlindungan yang diwajibkan.
+
+Kebersihan alat, pemilihan bibit sehat, rotasi tanaman, dan pengelolaan sisa tanaman dapat menekan sebagian sumber masalah. Jika diagnosis tidak jelas atau gangguan meluas, konsultasikan kepada penyuluh atau tenaga pertanian kompeten. Tujuan pengelolaan bukan memusnahkan semua organisme, melainkan menjaga tanaman dan ekosistem kebun dalam kondisi seimbang.
+
+BAB PENDALAMAN: RANTAI PANGAN DAN PENGURANGAN KEHILANGAN
+
+Produksi hanya satu bagian dari sistem pangan. Panen, sortasi, penyimpanan, pengangkutan, pengolahan, dan distribusi menentukan berapa banyak hasil yang benar-benar dapat dimanfaatkan. Kerusakan mekanis, suhu yang tidak sesuai, kelembapan, dan keterlambatan penanganan dapat mempercepat penurunan mutu. Catatan waktu panen dan kondisi penyimpanan membantu menemukan titik kehilangan.
+
+Perencanaan tanam dapat disesuaikan dengan kebutuhan kelompok agar panen tidak menumpuk pada satu waktu. Hasil yang berlebih dapat dibagikan melalui mekanisme yang aman dan disepakati, sedangkan bahan yang tidak layak konsumsi harus dipisahkan. Pengomposan dapat menjadi pilihan untuk sisa organik yang sesuai, tetapi bahan tercemar atau berisiko tidak boleh dimasukkan tanpa penilaian.
+
+BAB PENDALAMAN: EKONOMI DAN TATA KELOLA KEBUN KOMUNITAS
+
+Biaya kebun mencakup benih, media, air, alat, perawatan, transportasi, dan waktu kerja. Nilai hasil panen tidak selalu menggambarkan seluruh manfaat. Kebun juga dapat menyediakan ruang belajar, interaksi sosial, dan pengalaman memahami musim. Evaluasi sebaiknya memisahkan manfaat pangan, pendidikan, lingkungan, dan sosial agar keberhasilan tidak hanya diukur dari berat panen.
+
+Kesepakatan komunitas perlu menjelaskan pembagian tugas, penggunaan hasil, jadwal perawatan, pemeliharaan alat, akses lokasi, dan penyelesaian perselisihan. Peran yang terlalu bergantung pada satu orang membuat kegiatan rentan berhenti. Dokumentasi sederhana, pergiliran tanggung jawab, dan evaluasi berkala membantu menjaga keberlanjutan. Kebun yang inklusif juga mempertimbangkan akses bagi anak, lansia, dan orang dengan kebutuhan mobilitas berbeda.
+

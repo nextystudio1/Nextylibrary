@@ -218,3 +218,53 @@ LATIHAN PENDALAMAN
 3. Mengapa penghapusan semua data hilang dapat mengubah hasil?
 4. Kapan pemisahan data secara acak dapat menimbulkan kebocoran?
 5. Mengapa model perlu dibandingkan dengan pendekatan dasar?
+BAB LANJUTAN 6. STATISTIK BAYES DAN PEMBARUAN KEYAKINAN
+
+Pendekatan Bayes menggabungkan informasi awal dengan bukti baru untuk memperbarui penilaian tentang suatu kemungkinan. Probabilitas awal menggambarkan keyakinan sebelum bukti baru diamati, sedangkan peluang bukti menjelaskan seberapa mungkin data muncul jika suatu keadaan benar. Hasil pembaruan disebut probabilitas posterior. Pendekatan ini berguna ketika informasi datang bertahap dan ketidakpastian perlu dinyatakan secara eksplisit.
+
+Contoh sederhana dapat ditemukan pada pengujian kualitas. Hasil tes positif tidak selalu berarti suatu kondisi pasti ada. Interpretasi bergantung pada sensitivitas, spesifisitas, dan seberapa umum kondisi tersebut dalam kelompok yang diuji. Jika kondisi sangat jarang, jumlah hasil positif palsu dapat menjadi bagian besar dari seluruh hasil positif. Karena itu, probabilitas awal dan karakteristik alat ukur perlu diperhitungkan.
+
+Teorema Bayes dapat ditulis P(A|B)=P(B|A)P(A)/P(B), selama P(B) tidak nol. Notasi P(A|B) berarti peluang A ketika B diketahui. Rumus ini menekankan bahwa peluang suatu kondisi setelah melihat bukti berbeda dari peluang bukti jika kondisi itu benar. Kedua peluang bersyarat tersebut tidak boleh tertukar.
+
+Pemilihan prior harus dijelaskan dan diuji. Prior dapat berasal dari penelitian sebelumnya, pengetahuan ahli, atau distribusi yang dipilih untuk analisis. Jika data cukup banyak, pengaruh prior tertentu mungkin berkurang, tetapi tidak selalu hilang. Analisis sensitivitas membantu melihat apakah kesimpulan berubah ketika prior yang masuk akal diganti.
+
+LATIHAN BAB
+1. Apa perbedaan probabilitas awal dan posterior?
+2. Mengapa hasil tes positif tidak selalu berarti kondisi pasti ada?
+3. Jelaskan makna P(A|B).
+4. Mengapa prior perlu dijelaskan?
+5. Apa tujuan analisis sensitivitas terhadap prior?
+
+BAB LANJUTAN 7. DESAIN EKSPERIMEN DAN INFERENSI KAUSAL
+
+Eksperimen dirancang untuk menilai apakah perubahan pada satu faktor menyebabkan perubahan hasil, dengan mengendalikan faktor lain sejauh mungkin. Pengacakan membantu membagi karakteristik peserta secara lebih seimbang antar kelompok dalam jangka panjang. Kelompok pembanding memberi gambaran tentang apa yang mungkin terjadi tanpa perlakuan, sedangkan pengukuran hasil perlu ditetapkan sebelum analisis.
+
+Randomisasi tidak otomatis menyelesaikan semua masalah. Kehilangan peserta, ketidakpatuhan terhadap perlakuan, pengukuran yang berubah, atau kontaminasi antar kelompok dapat memengaruhi kesimpulan. Peneliti perlu mencatat penyimpangan dari rancangan dan menjelaskan bagaimana hal itu ditangani. Analisis yang direncanakan sebelumnya membantu mengurangi keputusan selektif setelah hasil terlihat.
+
+Dalam situasi ketika eksperimen acak tidak etis atau tidak praktis, peneliti dapat menggunakan desain observasional dan strategi kuasi-eksperimental. Pendekatan seperti pencocokan, perbedaan-dalam-perbedaan, atau regresi diskontinuitas memerlukan asumsi khusus. Hasilnya harus ditafsirkan sesuai kekuatan desain, bukan disamakan begitu saja dengan eksperimen acak.
+
+Inferensi kausal memerlukan pertanyaan yang jelas tentang intervensi, populasi, hasil, dan periode pengamatan. Diagram kausal dapat membantu mengidentifikasi faktor perancu dan jalur hubungan. Namun, diagram tersebut mencerminkan asumsi peneliti dan perlu didukung pengetahuan bidang. Korelasi tetap berguna untuk menemukan pola, tetapi klaim sebab-akibat membutuhkan desain dan argumen tambahan.
+
+LATIHAN BAB
+1. Apa manfaat pengacakan dalam eksperimen?
+2. Sebutkan tiga hal yang dapat mengganggu validitas eksperimen.
+3. Mengapa desain kuasi-eksperimental memerlukan asumsi?
+4. Apa fungsi diagram kausal?
+5. Mengapa korelasi saja tidak cukup untuk menyatakan sebab-akibat?
+
+BAB LANJUTAN 8. STATISTIK SPASIAL DAN DATA BERWAKTU
+
+Data spasial memiliki lokasi sebagai bagian dari informasi. Nilai pada wilayah yang berdekatan sering saling berkaitan karena berbagi lingkungan atau proses. Asumsi bahwa seluruh pengamatan independen dapat menjadi tidak tepat ketika terdapat autokorelasi spasial. Pola pengelompokan dapat menunjukkan wilayah yang mirip, tetapi tidak otomatis menjelaskan penyebabnya.
+
+Data berwaktu dicatat menurut urutan waktu, misalnya jumlah pengunjung harian atau curah hujan bulanan. Urutan penting karena nilai saat ini dapat berkaitan dengan nilai sebelumnya. Tren, musiman, perubahan struktur, dan kejadian khusus perlu dipertimbangkan sebelum membangun model. Mengacak urutan data waktu dapat merusak informasi yang justru ingin dianalisis.
+
+Validasi model deret waktu sebaiknya menghormati urutan kronologis. Data masa depan tidak boleh digunakan untuk melatih model yang diklaim memprediksi masa lalu. Pembagian data berdasarkan waktu atau evaluasi bergulir dapat memberi gambaran yang lebih realistis tentang kemampuan prediksi. Baseline sederhana seperti nilai terakhir atau rata-rata musiman berguna sebagai pembanding.
+
+Visualisasi spasial dan temporal harus mencantumkan skala, satuan, periode, dan batas wilayah. Perubahan batas administrasi dapat memengaruhi perbandingan antarperiode. Peta dengan kelas warna yang berbeda dapat memberi kesan pola berbeda walaupun data sama. Dokumentasi metode klasifikasi dan pemrosesan penting untuk interpretasi yang adil.
+
+LATIHAN BAB
+1. Apa yang dimaksud autokorelasi spasial?
+2. Mengapa urutan waktu penting dalam analisis deret waktu?
+3. Apa risiko kebocoran data masa depan?
+4. Mengapa model perlu dibandingkan dengan baseline sederhana?
+5. Sebutkan unsur penting pada peta statistik yang dapat dibandingkan antarwaktu.

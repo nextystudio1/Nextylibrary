@@ -294,3 +294,34 @@ LATIHAN BAB
 3. Mengapa otomatisasi perlu dianalisis pada tingkat tugas?
 4. Sebutkan komponen ketahanan infrastruktur digital.
 5. Buat daftar biaya siklus hidup untuk pengadaan sistem digital.
+
+BAB PENDALAMAN: MODEL BISNIS DAN PENCIPTAAN NILAI DIGITAL
+
+Model bisnis menjelaskan siapa pengguna atau pelanggan, masalah apa yang diselesaikan, bagaimana nilai diberikan, dan bagaimana organisasi memperoleh pendapatan atau dukungan. Produk digital dapat menggunakan langganan, biaya transaksi, lisensi, iklan, atau model gabungan. Setiap model memiliki konsekuensi terhadap pengalaman pengguna, insentif penyedia, dan keberlanjutan layanan.
+
+Harga nol tidak berarti layanan tanpa biaya. Pengguna mungkin membayar melalui perhatian, data, waktu, atau ketergantungan pada ekosistem. Analisis ekonomi perlu mengidentifikasi pihak yang membiayai layanan dan insentif yang timbul. Transparansi membantu pengguna memahami pertukaran nilai yang terjadi.
+
+BAB PENDALAMAN: PLATFORM DAN EFEK JARINGAN
+
+Platform multi-sisi menghubungkan kelompok pengguna yang saling membutuhkan, misalnya penjual dan pembeli atau pembuat konten dan penonton. Nilai platform dapat meningkat ketika partisipasi satu kelompok membuat layanan lebih berguna bagi kelompok lain. Namun, efek jaringan juga dapat memperkuat dominasi dan menyulitkan pendatang baru.
+
+Pertumbuhan pengguna bukan satu-satunya ukuran keberhasilan. Kualitas interaksi, keamanan, kepercayaan, biaya berpindah, dan kemampuan pengguna membawa datanya juga penting. Platform yang tumbuh cepat tetapi mengabaikan moderasi atau perlindungan konsumen dapat menimbulkan biaya sosial yang besar.
+
+BAB PENDALAMAN: PEMBAYARAN DAN KEUANGAN DIGITAL
+
+Pembayaran digital memindahkan instruksi pembayaran melalui jaringan dan lembaga yang memiliki peran berbeda. Pengguna perlu memahami biaya, waktu penyelesaian, bukti transaksi, batas tanggung jawab, dan prosedur ketika transaksi bermasalah. Tampilan saldo pada aplikasi tidak selalu sama dengan proses penyelesaian antar lembaga.
+
+Inklusi keuangan digital memerlukan akses perangkat, konektivitas, identitas yang dapat diterima, literasi, dan perlindungan konsumen. Desain yang sederhana membantu, tetapi tidak boleh menghilangkan informasi penting. Pengguna perlu dapat memeriksa penerima dan jumlah sebelum menyetujui transaksi.
+
+BAB PENDALAMAN: OTOMATISASI DAN MASA DEPAN PEKERJAAN
+
+Otomatisasi biasanya menggantikan atau mengubah tugas tertentu, bukan serta-merta menghapus seluruh pekerjaan. Satu pekerjaan dapat terdiri dari tugas rutin, tugas sosial, penilaian, kreativitas, dan koordinasi. Teknologi mungkin mengambil sebagian tugas sambil meningkatkan kebutuhan keterampilan lain.
+
+Dampak terhadap pekerja bergantung pada kecepatan adopsi, pelatihan, daya tawar, struktur industri, dan kebijakan transisi. Program peningkatan keterampilan sebaiknya terkait kebutuhan nyata dan memberi kesempatan belajar yang dapat diakses kelompok berbeda. Evaluasi perlu melihat kualitas pekerjaan, keamanan, upah, dan distribusi manfaat produktivitas.
+
+BAB PENDALAMAN: PERSAINGAN, INTEROPERABILITAS, DAN KEDAULATAN DATA
+
+Ekosistem digital dapat menciptakan biaya berpindah melalui format tertutup, akun terpadu, dan layanan yang saling terikat. Interoperabilitas memungkinkan sistem berbeda bertukar informasi dengan aturan yang jelas. Portabilitas data dapat memperkuat pilihan pengguna, tetapi perlu disertai pengamanan agar pemindahan tidak membuka akses yang tidak sah.
+
+Persaingan tidak hanya dilihat dari harga. Kualitas, privasi, inovasi, pilihan, dan kemampuan pelaku usaha kecil untuk menjangkau pelanggan juga relevan. Kebijakan persaingan perlu memahami karakter pasar digital tanpa menganggap setiap perusahaan besar otomatis melanggar aturan. Penilaian harus bertumpu pada perilaku, struktur pasar, dan dampak yang dapat dibuktikan.
+

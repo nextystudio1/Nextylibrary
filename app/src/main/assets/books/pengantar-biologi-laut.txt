@@ -324,3 +324,44 @@ LATIHAN DAN PROYEK
 5. Mengapa hasil tangkapan perlu dibandingkan dengan upaya penangkapan?
 
 Proyek: susun profil satu habitat laut berdasarkan publikasi ilmiah dan data resmi. Gambarkan jaring makanan sederhana, faktor lingkungan, tekanan utama, dan indikator pemantauan. Pisahkan pengamatan langsung dari informasi pustaka serta jelaskan ketidakpastian.
+
+BAB PENDALAMAN: PRODUKTIVITAS DAN ALIRAN ENERGI
+
+Produktivitas primer menggambarkan pembentukan bahan organik oleh organisme fotosintetik dan sebagian mikroorganisme melalui proses kimia yang sesuai. Di laut, fitoplankton berperan penting karena mampu memanfaatkan cahaya dan nutrien di lapisan yang mendapat penerangan. Produktivitas dipengaruhi ketersediaan cahaya, unsur hara, suhu, pencampuran air, dan kedalaman lapisan tercampur. Tidak ada satu faktor yang selalu menjadi pembatas di semua wilayah dan musim.
+
+Nutrien seperti nitrogen, fosfor, dan besi memiliki peran berbeda dalam metabolisme organisme. Perairan yang kaya cahaya belum tentu sangat produktif jika unsur hara terbatas. Sebaliknya, pencampuran yang membawa nutrien ke permukaan dapat meningkatkan potensi pertumbuhan, tetapi jika pencampuran terlalu kuat, organisme dapat berada terlalu lama di bawah lapisan bercahaya. Hubungan ini memperlihatkan bahwa proses laut harus dipahami sebagai interaksi, bukan daftar faktor yang berdiri sendiri.
+
+Energi berpindah melalui jaringan makanan dari produsen ke konsumen dan pengurai. Pada setiap perpindahan, sebagian energi digunakan untuk metabolisme atau hilang sebagai panas, sehingga energi yang tersedia pada tingkat trofik lebih tinggi umumnya lebih kecil. Namun, jaring makanan laut tidak selalu berupa rantai lurus. Organisme dapat memakan beberapa jenis mangsa, berubah pola makan sepanjang hidup, dan menjadi mangsa bagi beberapa predator.
+
+BAB PENDALAMAN: ADAPTASI ORGANISME LAUT
+
+Organisme laut menghadapi tantangan salinitas, tekanan, suhu, oksigen terlarut, arus, dan ketersediaan cahaya. Adaptasi dapat berupa perubahan bentuk, fisiologi, perilaku, atau hubungan ekologis. Ikan yang hidup di perairan berbeda salinitas memerlukan pengaturan keseimbangan air dan ion. Organisme laut dalam menghadapi tekanan tinggi dan ketersediaan makanan yang tidak menentu, sedangkan organisme zona pasang surut harus menghadapi perubahan kondisi secara berkala.
+
+Bentuk tubuh dan cara bergerak sering berkaitan dengan habitat. Organisme yang hidup melekat pada substrat memiliki strategi berbeda dari perenang aktif. Terumbu karang membentuk struktur habitat yang kompleks dan menyediakan ruang hidup bagi banyak spesies. Hubungan antara karang dan alga simbion menunjukkan bagaimana kerja sama biologis dapat membantu organisme bertahan, tetapi hubungan tersebut juga rentan terhadap perubahan suhu dan kondisi air.
+
+Adaptasi bukan berarti organisme selalu mampu menghadapi perubahan tanpa batas. Toleransi memiliki rentang, dan perubahan yang terlalu cepat dapat melampaui kemampuan penyesuaian atau perpindahan. Fragmentasi habitat, hambatan migrasi, dan perubahan musim dapat membuat respons organisme menjadi lebih sulit. Karena itu, konservasi perlu mempertimbangkan keterhubungan habitat, bukan hanya luas kawasan yang dilindungi.
+
+BAB PENDALAMAN: PESISIR SEBAGAI SISTEM SOSIAL-EKOLOGIS
+
+Wilayah pesisir mempertemukan proses darat dan laut. Sedimen dari sungai, gelombang, pasang surut, vegetasi, dan aktivitas manusia bersama-sama membentuk kondisi pantai. Mangrove, padang lamun, dan terumbu karang memiliki fungsi ekologis yang berbeda namun saling berkaitan. Mangrove dapat menahan sedimen dan menyediakan tempat asuhan bagi organisme tertentu; lamun menjadi habitat dan membantu menstabilkan dasar perairan; terumbu karang menyediakan struktur kompleks dan mengurangi energi gelombang pada kondisi tertentu.
+
+Masyarakat pesisir bergantung pada ekosistem melalui perikanan, pariwisata, transportasi, budaya, dan perlindungan wilayah. Pengelolaan tidak dapat hanya berfokus pada satu komoditas. Penutupan area tangkap, misalnya, perlu disertai dialog tentang akses, alternatif penghidupan, pembagian manfaat, dan pemantauan. Pengetahuan lokal dapat membantu mengenali musim, lokasi penting, dan perubahan yang berlangsung lama, sementara metode ilmiah membantu menguji pola dan menjelaskan mekanisme.
+
+Restorasi habitat harus dimulai dengan memahami penyebab kerusakan. Penanaman mangrove pada lokasi yang tidak sesuai kondisi pasang surut dapat gagal meskipun jumlah bibit besar. Perbaikan hidrologi, pengurangan sumber pencemaran, dan perlindungan area yang masih sehat sering lebih penting daripada kegiatan penanaman simbolis. Keberhasilan diukur melalui kelangsungan hidup, fungsi habitat, keanekaragaman, dan manfaat bagi masyarakat dalam jangka waktu memadai.
+
+BAB PENDALAMAN: PEMANTAUAN DAN PENGELOLAAN PERIKANAN
+
+Data perikanan perlu membedakan jumlah tangkapan, upaya penangkapan, ukuran organisme, lokasi, musim, dan jenis alat. Tangkapan yang tetap tinggi belum tentu menandakan stok sehat jika jumlah kapal atau waktu melaut meningkat. Sebaliknya, penurunan tangkapan dapat disebabkan cuaca atau perubahan pasar, bukan hanya perubahan populasi. Penafsiran memerlukan beberapa indikator dan seri waktu yang konsisten.
+
+Pendekatan ekosistem dalam pengelolaan perikanan memperhitungkan habitat, spesies non-target, interaksi predator-mangsa, dan kebutuhan masyarakat. Aturan ukuran minimum, musim penutupan, kawasan perlindungan, serta pembatasan alat tangkap memiliki manfaat dan konsekuensi yang berbeda. Pemilihan kebijakan harus mempertimbangkan kondisi setempat dan dipantau agar dapat disesuaikan.
+
+LATIHAN DAN PROYEK
+
+1. Jelaskan mengapa cahaya yang melimpah tidak selalu menghasilkan produktivitas primer tinggi.
+2. Buat contoh jaring makanan dengan lebih dari satu hubungan mangsa dan predator.
+3. Bandingkan tantangan organisme di zona pasang surut dan laut dalam.
+4. Mengapa restorasi mangrove perlu memeriksa hidrologi lokasi?
+5. Jelaskan mengapa jumlah tangkapan harus dibaca bersama data upaya penangkapan.
+6. Sebutkan cara menggabungkan pengetahuan lokal dan pengukuran ilmiah secara saling menghormati.
+
+Proyek: pilih satu ekosistem pesisir di Indonesia berdasarkan sumber terbuka yang dapat diperiksa. Gambarkan komponen fisik, organisme utama, jasa ekosistem, aktivitas masyarakat, tekanan, dan indikator pemantauan. Bedakan data terukur, kesaksian, dan dugaan. Susun rekomendasi yang menyebut pihak terkait serta risiko jika tindakan tidak dilaksanakan.

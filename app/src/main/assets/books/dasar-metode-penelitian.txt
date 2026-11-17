@@ -222,3 +222,38 @@ LATIHAN PENDALAMAN
 3. Bagaimana peneliti membedakan observasi dan interpretasi?
 4. Mengapa kasus yang berbeda dari tema dominan perlu diperiksa?
 5. Apa arti integrasi dalam metode campuran?
+
+BAB LANJUTAN: DESAIN PENELITIAN DAN OPERASIONALISASI
+
+Desain penelitian adalah rencana untuk menjawab pertanyaan secara sistematis. Penelitian deskriptif menggambarkan keadaan, penelitian korelasional memeriksa hubungan, sedangkan penelitian eksperimental menguji dampak suatu perlakuan melalui rancangan yang sesuai. Pemilihan desain harus mengikuti pertanyaan, etika, sumber daya, dan jenis bukti yang dibutuhkan.
+
+Konsep abstrak perlu diterjemahkan menjadi indikator yang dapat diamati. Misalnya, “keterlibatan belajar” dapat mencakup kehadiran, partisipasi diskusi, penyelesaian tugas, dan laporan pengalaman peserta. Tidak satu indikator pun otomatis mewakili seluruh konsep. Peneliti perlu menjelaskan definisi operasional dan alasan pemilihannya.
+
+Variabel perancu adalah faktor lain yang dapat memengaruhi hubungan antara variabel yang diteliti. Dalam studi hubungan waktu belajar dan hasil ujian, pengetahuan awal, kualitas pengajaran, dan kondisi belajar mungkin ikut berpengaruh. Mengidentifikasi perancu membantu peneliti membatasi klaim dan merancang pengumpulan data yang lebih baik.
+
+BAB LANJUTAN: SAMPEL, BIAS, DAN KETERWAKILAN
+
+Populasi adalah kelompok sasaran yang ingin dipahami, sedangkan sampel adalah bagian yang benar-benar diamati. Kerangka sampel yang tidak mencakup sebagian kelompok dapat menghasilkan bias cakupan. Tingkat respons yang rendah juga dapat menimbulkan bias jika orang yang tidak menjawab memiliki karakteristik berbeda dari responden.
+
+Sampel acak memberi setiap anggota kerangka peluang terpilih menurut rancangan tertentu. Sampel purposif dipilih karena memiliki karakteristik yang relevan untuk pertanyaan kualitatif. Keduanya bukan metode yang saling menggantikan. Peneliti harus menyatakan cara pemilihan sampel dan batas kesimpulan yang dapat ditarik.
+
+Ukuran sampel tidak hanya ditentukan oleh jumlah besar atau kecil. Penelitian kuantitatif mempertimbangkan variasi, efek yang ingin dideteksi, tingkat ketidakpastian, dan desain analisis. Penelitian kualitatif mempertimbangkan kedalaman informasi, keragaman pengalaman, dan kecukupan data untuk menjawab pertanyaan. Jangan menyebut sampel mewakili populasi tanpa dasar.
+
+BAB LANJUTAN: ANALISIS, REPRODUKSIBILITAS, DAN PELAPORAN
+
+Analisis dimulai dengan memeriksa data: nilai hilang, pencatatan ganda, rentang tidak masuk akal, dan konsistensi definisi. Pembersihan data harus didokumentasikan agar keputusan dapat ditinjau. Jangan menghapus pengamatan hanya karena tidak sesuai dengan dugaan awal.
+
+Analisis kuantitatif dapat menggunakan ringkasan, perbandingan, atau model statistik sesuai desain. Nilai p bukan ukuran besar manfaat dan tidak menunjukkan probabilitas hipotesis benar. Laporkan ukuran efek dan ketidakpastian bila sesuai. Analisis kualitatif memerlukan proses pengodean, pengembangan tema, pemeriksaan kasus yang berbeda, dan refleksi terhadap posisi peneliti.
+
+Reproduksibilitas didukung oleh dokumentasi metode, instrumen, keputusan analisis, dan versi data yang aman. Data pribadi tidak boleh dibagikan tanpa dasar dan perlindungan yang sesuai. Bila data tidak dapat dibuka karena privasi, peneliti dapat menyediakan deskripsi metode, kode yang tidak sensitif, atau data agregat.
+
+LATIHAN
+1. Apa perbedaan desain deskriptif dan eksperimental?
+2. Mengapa operasionalisasi perlu dijelaskan?
+3. Bagaimana bias cakupan dapat muncul?
+4. Mengapa nilai p tidak sama dengan ukuran manfaat?
+5. Apa yang perlu didokumentasikan agar analisis dapat ditinjau?
+
+PROYEK
+Susun proposal penelitian kecil yang tidak melibatkan risiko atau pengumpulan data sensitif. Rumuskan pertanyaan, tinjauan konsep, desain, populasi, sampel, instrumen, rencana analisis, perlindungan data, dan keterbatasan. Minta guru atau pembimbing meninjau sebelum pengumpulan data.
+

@@ -284,3 +284,40 @@ LATIHAN PENDALAMAN
 3. Bedakan titik ekuivalen dan titik akhir titrasi.
 4. Mengapa pH air perlu dikaitkan dengan komposisi dan kondisi sampel?
 5. Sebutkan informasi yang harus dicatat agar hasil pengukuran dapat dievaluasi.
+
+BAB PENDALAMAN: KESETIMBANGAN KIMIA DALAM LARUTAN
+
+Kesetimbangan kimia terjadi ketika laju reaksi maju dan balik sama, sehingga komposisi makroskopis tampak tetap. Keadaan ini bukan berarti reaksi berhenti. Untuk reaksi umum, hubungan konsentrasi zat pada kesetimbangan dinyatakan melalui tetapan kesetimbangan dengan pangkat sesuai koefisien reaksi. Zat padat murni dan cairan murni tidak dimasukkan dalam bentuk tetapan konsentrasi yang lazim digunakan.
+
+Nilai tetapan kesetimbangan menunjukkan kecenderungan komposisi pada kondisi tertentu, tetapi tidak menyatakan seberapa cepat kesetimbangan tercapai. Kinetika membahas laju, sedangkan termodinamika membahas keadaan dan kecenderungan energi. Pembedaan ini mencegah kesimpulan keliru bahwa reaksi dengan tetapan besar selalu berlangsung cepat.
+
+Asas Le Chatelier membantu memprediksi arah perubahan ketika sistem setimbang diberi gangguan. Perubahan konsentrasi, tekanan pada sistem gas, atau suhu dapat menggeser komposisi kesetimbangan. Pengaruh suhu bergantung pada sifat endotermik atau eksotermik reaksi. Katalis mempercepat tercapainya kesetimbangan dengan memengaruhi laju reaksi maju dan balik, tetapi tidak mengubah nilai tetapan kesetimbangan pada suhu tetap.
+
+BAB PENDALAMAN: SISTEM PENYANGGA DAN KAPASITASNYA
+
+Larutan penyangga mengurangi perubahan pH ketika sejumlah kecil asam atau basa ditambahkan. Sistem ini umumnya terdiri dari pasangan asam lemah dan basa konjugatnya, atau basa lemah dan asam konjugatnya. Perbandingan kedua komponen lebih menentukan pH daripada jumlah totalnya saja, sementara jumlah total berhubungan dengan kemampuan sistem menahan gangguan.
+
+Persamaan Henderson–Hasselbalch dapat digunakan sebagai pendekatan untuk sistem yang sesuai. Persamaan tersebut menghubungkan pH, pKa, dan perbandingan konsentrasi bentuk basa terhadap bentuk asam. Penggunaannya memerlukan pemahaman asumsi, termasuk perilaku larutan yang mendekati ideal dan komposisi yang tidak terlalu berubah akibat pengenceran atau reaksi tambahan.
+
+Kapasitas penyangga terbatas. Jika penambahan asam atau basa terlalu besar, salah satu komponen dapat habis dan pH berubah tajam. Karena itu, menyebut larutan sebagai penyangga tidak berarti pH-nya tidak mungkin berubah. Dalam sistem biologis dan lingkungan, kapasitas penyangga membantu kestabilan, tetapi tetap dipengaruhi komposisi, suhu, dan proses lain.
+
+BAB PENDALAMAN: KELARUTAN DAN PEMBENTUKAN ENDAPAN
+
+Kelarutan menggambarkan jumlah maksimum zat yang dapat berada dalam larutan pada kondisi tertentu. Untuk garam yang sedikit larut, hasil kali kelarutan menghubungkan konsentrasi ion pada keadaan jenuh. Jika hasil kali konsentrasi ion aktual melampaui nilai kesetimbangan yang sesuai, pengendapan dapat menjadi mungkin. Perhitungan harus memperhatikan koefisien reaksi dan pangkat konsentrasi.
+
+Ion senama dapat menurunkan kelarutan garam tertentu karena menggeser kesetimbangan. Pembentukan kompleks dapat meningkatkan kelarutan tampak dengan mengikat ion bebas. pH juga memengaruhi kelarutan garam yang mengandung ion dari asam atau basa lemah. Oleh sebab itu, kelarutan tidak selalu merupakan angka tunggal yang berlaku untuk semua komposisi larutan.
+
+Dalam analisis lingkungan, pengendapan dapat memengaruhi perpindahan unsur antara air dan sedimen. Namun, prediksi kesetimbangan tidak otomatis menggambarkan seluruh kondisi lapangan karena waktu reaksi, bahan organik, permukaan mineral, dan aliran air dapat berperan. Hasil model perlu ditafsirkan bersama data pengukuran.
+
+BAB PENDALAMAN: TITRASI DAN MUTU PENGUKURAN
+
+Titrasi menghubungkan volume larutan standar dengan jumlah zat yang dianalisis melalui stoikiometri reaksi. Titik ekuivalen adalah keadaan ketika jumlah pereaksi sesuai perbandingan reaksi, sedangkan titik akhir merupakan perubahan indikator atau sinyal alat yang digunakan untuk menghentikan titrasi. Keduanya dapat berdekatan, tetapi tidak selalu identik.
+
+Pemilihan indikator bergantung pada rentang perubahan warnanya dan bentuk kurva titrasi. Untuk pengukuran instrumental, kalibrasi dan kondisi elektroda memengaruhi hasil. Pembacaan volume, pembilasan alat, pencatatan suhu, serta pengulangan pengukuran juga penting. Hasil yang berbeda antarulangan dapat menunjukkan variasi prosedur, sampel tidak homogen, atau alat yang perlu diperiksa.
+
+BAB PENDALAMAN: MENAFSIRKAN pH DALAM KONTEKS
+
+pH merupakan ukuran logaritmik aktivitas ion hidrogen, bukan skala linear sederhana. Perubahan satu unit pH berarti perubahan sepuluh kali pada aktivitas yang terkait. Karena itu, selisih angka yang tampak kecil dapat bermakna secara kimia. Perbandingan pH perlu mempertimbangkan suhu, komposisi ion, kekuatan ionik, dan metode pengukuran.
+
+Air alami mengandung sistem karbonat, mineral terlarut, gas, serta bahan organik yang dapat memengaruhi pH. Sampel yang dibiarkan terbuka dapat bertukar gas dengan udara dan berubah. Catatan waktu, wadah, kondisi penyimpanan, serta prosedur pengukuran membantu menilai apakah nilai mewakili keadaan awal. Penjelasan kimia yang baik selalu menghubungkan angka dengan sistem yang diukur.
+

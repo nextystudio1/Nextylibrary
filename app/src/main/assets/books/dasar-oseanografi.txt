@@ -282,3 +282,40 @@ Model oseanografi menyederhanakan proses fisik untuk memahami pola dan menguji s
 
 PROYEK
 Susun rancangan pengamatan pesisir berbasis data publik atau data contoh. Tentukan pertanyaan, variabel, frekuensi, lokasi umum, sumber data, dan keterbatasan. Buat grafik sederhana dan jelaskan apa yang dapat serta tidak dapat disimpulkan. Jangan melakukan pengukuran di lokasi berbahaya atau memasuki perairan tanpa pendamping dan izin yang sesuai.
+
+BAB PENDALAMAN: SIFAT FISIK AIR LAUT
+
+Air laut merupakan campuran air, garam terlarut, gas, dan bahan lain. Salinitas, suhu, serta tekanan memengaruhi massa jenis. Perbedaan massa jenis membantu membentuk struktur vertikal dan sirkulasi laut. Suhu biasanya berubah mengikuti kedalaman, tetapi pola tersebut berbeda menurut lintang, musim, dan kondisi setempat.
+
+Lapisan campuran permukaan dipengaruhi angin, pemanasan, pendinginan, dan gelombang. Di bawahnya dapat terdapat zona perubahan suhu yang relatif tajam. Kedalaman lapisan ini berubah dari waktu ke waktu. Pengukuran satu hari tidak selalu mewakili keadaan musiman, sehingga pengamatan berulang diperlukan untuk mengenali pola.
+
+Salinitas dipengaruhi penguapan, hujan, aliran sungai, pembentukan es, dan pencampuran massa air. Karena proses tersebut bervariasi, salinitas dapat menjadi petunjuk asal dan pergerakan massa air. Namun, interpretasi memerlukan data suhu, kedalaman, dan konteks geografis.
+
+BAB PENDALAMAN: ARUS, GELOMBANG, DAN PASANG SURUT
+
+Arus laut terbentuk oleh kombinasi angin, gradien tekanan, perbedaan massa jenis, bentuk pantai, dan rotasi bumi. Arus permukaan dapat berbeda arah dan kecepatan dari arus di kedalaman. Peta arus merupakan gambaran kondisi pada waktu dan skala tertentu, bukan jalur tetap yang selalu berlaku.
+
+Gelombang memindahkan energi melalui permukaan air. Tinggi dan periodenya dipengaruhi angin, durasi tiupan, dan panjang lintasan angin di atas permukaan. Ketika mendekati pantai, kedalaman yang berkurang mengubah bentuk dan arah gelombang. Kondisi pesisir dapat menjadi lebih kompleks karena bentuk dasar laut dan pantai.
+
+Pasang surut terutama berkaitan dengan gaya gravitasi Bulan dan Matahari serta respons bentuk cekungan laut. Rentang pasang berbeda menurut lokasi dan waktu. Data pasang surut penting bagi pelabuhan, ekosistem pesisir, dan pengelolaan wilayah, tetapi tidak menggantikan informasi gelombang dan cuaca.
+
+BAB PENDALAMAN: EKOSISTEM DAN SIKLUS BIOGEOKIMIA LAUT
+
+Laut menyimpan dan memindahkan karbon melalui pertukaran gas, fotosintesis organisme, penguraian, dan perpindahan partikel ke kedalaman. Fitoplankton berperan dalam produksi primer, tetapi produktivitas dipengaruhi cahaya, nutrien, suhu, dan pencampuran. Perubahan salah satu faktor dapat mengubah struktur komunitas dan aliran energi dalam jejaring makanan.
+
+Nutrien seperti nitrogen dan fosfor diperlukan organisme, tetapi kelebihan masukan dari daratan dapat memicu pertumbuhan alga berlebihan pada kondisi tertentu. Penguraian biomassa dapat mengurangi oksigen terlarut. Dampaknya bergantung pada sirkulasi, kedalaman, suhu, dan karakter ekosistem. Pengelolaan perlu mempertimbangkan sumber masukan dari daerah aliran sungai hingga pesisir.
+
+BAB PENDALAMAN: PESISIR DAN PERUBAHAN GARIS PANTAI
+
+Garis pantai berubah karena gelombang, arus, pasang surut, suplai sedimen, kenaikan muka laut, dan aktivitas manusia. Satu foto udara hanya menunjukkan kondisi pada waktu tertentu. Untuk menilai kecenderungan, gunakan data dari beberapa periode dengan metode yang sebanding dan perhatikan ketidakpastian posisi garis pantai.
+
+Mangrove, padang lamun, terumbu karang, dan ekosistem pesisir lain menyediakan habitat serta berbagai jasa ekosistem. Kondisinya dipengaruhi kualitas air, sedimentasi, perubahan suhu, dan tekanan pemanfaatan. Perlindungan ekosistem perlu didasarkan pada karakter setempat dan keterlibatan masyarakat yang bergantung pada sumber daya tersebut.
+
+BAB PENDALAMAN: DATA OSEANOGRAFI DAN ETIKA PENGAMATAN
+
+Data laut dikumpulkan melalui stasiun pantai, pelampung, kapal penelitian, satelit, dan instrumen otomatis. Setiap metode memiliki cakupan dan keterbatasan. Satelit dapat memberikan gambaran luas pada permukaan, tetapi tidak langsung mengukur seluruh kondisi kolom air. Pengukuran kapal lebih rinci pada lintasan tertentu, tetapi tidak selalu mencakup perubahan cepat di antara pengamatan.
+
+Metadata perlu memuat koordinat umum, kedalaman, waktu, satuan, metode, kalibrasi, dan kondisi alat. Data yang hilang atau menyimpang tidak boleh dihapus tanpa alasan terdokumentasi. Ketika menggabungkan beberapa sumber, periksa perbedaan resolusi dan definisi variabel.
+
+Pengamatan laut harus mengutamakan keselamatan, izin, dan perlindungan ekosistem. Kegiatan lapangan dilakukan oleh orang yang kompeten dengan prosedur yang sesuai. Pembelajaran dapat menggunakan data terbuka atau data simulasi sehingga konsep dapat dipelajari tanpa menempatkan peserta pada kondisi berbahaya.
+

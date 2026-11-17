@@ -250,3 +250,39 @@ LATIHAN BAB
 3. Informasi metadata apa yang perlu dicatat?
 4. Mengapa data komunitas tidak menggantikan peringatan resmi?
 5. Bagaimana mengumpulkan dokumentasi cuaca tanpa membahayakan pengamat?
+
+BAB LANJUTAN. SIRKULASI ATMOSFER DAN PEMBENTUKAN CUACA
+
+Atmosfer bergerak karena perbedaan pemanasan, tekanan, kelembapan, dan pengaruh rotasi Bumi. Udara cenderung bergerak dari wilayah bertekanan lebih tinggi menuju wilayah bertekanan lebih rendah, tetapi lintasannya dibelokkan oleh rotasi Bumi dan dipengaruhi gesekan permukaan. Karena itu, pola angin tidak cukup dijelaskan dengan melihat dua angka tekanan saja. Peta isobar, ketinggian pengamatan, dan keadaan lokal perlu dibaca bersama.
+
+Pemanasan permukaan yang tidak merata dapat menghasilkan gerak vertikal. Udara yang lebih hangat dan lembap dapat naik, mengembang, lalu mendingin. Jika mencapai kondisi jenuh, uap air dapat mengembun pada partikel inti kondensasi dan membentuk awan. Proses ini tidak selalu menghasilkan hujan; kestabilan atmosfer, ketersediaan uap air, serta mekanisme pengangkatan turut menentukan perkembangan awan.
+
+Stabilitas atmosfer menjelaskan kecenderungan suatu paket udara untuk terus naik, turun, atau kembali ke lingkungan sekitarnya setelah mengalami perpindahan. Profil suhu terhadap ketinggian membantu memperkirakan keadaan tersebut. Inversi suhu, ketika suhu meningkat pada lapisan tertentu, dapat membatasi pencampuran vertikal. Kondisi ini dapat memengaruhi penyebaran polutan dekat permukaan, tetapi dampak aktual juga bergantung pada angin dan sumber emisi.
+
+Sistem cuaca tropis sering dipengaruhi konveksi, pertemuan angin, topografi, dan variasi pemanasan harian. Pegunungan dapat memaksa udara naik dan mengubah distribusi hujan. Angin laut dan angin darat merupakan contoh sirkulasi lokal yang berkaitan dengan perbedaan pemanasan daratan dan lautan. Pola lokal dapat berubah ketika berinteraksi dengan sistem cuaca berskala lebih luas.
+
+BAB LANJUTAN. AWAN, HUJAN, DAN SIKLUS HIDROLOGI
+
+Awan tersusun dari tetes air kecil, kristal es, atau campuran keduanya. Bentuk dan ketinggian awan memberi petunjuk mengenai proses atmosfer, tetapi pengamatan visual saja tidak cukup untuk memperkirakan intensitas hujan secara akurat. Radar cuaca, satelit, pengukur hujan, dan pengamatan permukaan memberikan informasi yang saling melengkapi.
+
+Hujan terbentuk ketika partikel air atau es tumbuh hingga cukup besar untuk jatuh. Di awan hangat, tumbukan dan penggabungan tetes berperan penting. Di awan dingin, pertumbuhan kristal es dan proses perubahan fase dapat berkontribusi. Setelah mencapai permukaan, air dapat meresap, mengalir di permukaan, tertahan vegetasi, atau kembali ke atmosfer melalui penguapan dan transpirasi.
+
+Siklus hidrologi menghubungkan atmosfer, daratan, lautan, tanah, dan makhluk hidup. Perubahan tutupan lahan dapat memengaruhi infiltrasi serta aliran permukaan. Namun, hubungan antara hujan dan banjir tidak ditentukan curah hujan saja; kapasitas drainase, kondisi tanah, pasang, bentuk wilayah, dan pengelolaan sungai juga berpengaruh. Analisis perlu mempertimbangkan skala ruang dan waktu.
+
+BAB LANJUTAN. IKLIM, VARIABILITAS, DAN PROYEKSI
+
+Cuaca menggambarkan keadaan atmosfer pada waktu dan tempat tertentu, sedangkan iklim merangkum pola statistik dalam periode panjang. Satu kejadian dingin atau panas tidak cukup untuk membuktikan perubahan iklim. Analisis iklim memerlukan catatan jangka panjang, pemeriksaan kualitas data, dan pemahaman terhadap variabilitas alami.
+
+Anomali adalah penyimpangan dari nilai acuan yang ditetapkan. Periode acuan harus disebutkan karena pilihan periode dapat mengubah besarnya anomali. Deret waktu juga dapat memiliki data hilang, perubahan alat ukur, atau perpindahan stasiun. Peneliti perlu melakukan homogenisasi dan menjelaskan ketidakpastian sebelum membandingkan tren.
+
+Proyeksi iklim bukan ramalan cuaca harian. Proyeksi menggambarkan kemungkinan kondisi masa depan berdasarkan skenario emisi, model, dan asumsi tertentu. Hasil antarmodel dapat berbeda karena representasi proses atmosfer dan lautan tidak sama. Pengguna hasil proyeksi perlu melihat rentang, tingkat keyakinan, skala wilayah, serta kesesuaian data dengan keputusan yang hendak dibuat.
+
+LATIHAN
+1. Bagaimana perbedaan tekanan dan pemanasan memengaruhi sirkulasi?
+2. Mengapa udara naik dapat membentuk awan?
+3. Apa perbedaan stabilitas atmosfer dan kecepatan angin?
+4. Mengapa hujan tidak selalu menghasilkan banjir dengan dampak sama?
+5. Mengapa proyeksi iklim perlu disertai skenario dan ketidakpastian?
+
+PROYEK
+Buat laporan sederhana tentang pola cuaca lokal menggunakan data publik dan aman. Catat periode, lokasi umum, sumber, variabel, dan data yang hilang. Buat grafik perubahan suhu atau hujan, lalu jelaskan keterbatasan pengamatan. Jangan mendekati kondisi cuaca berbahaya untuk mengumpulkan data.

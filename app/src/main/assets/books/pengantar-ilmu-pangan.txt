@@ -219,3 +219,38 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Berikan contoh perpindahan silang dan cara mencegahnya.
 4. Apa fungsi keterlacakan bahan dan produk?
 5. Buat bagan alur pemeriksaan bahan pangan dari penerimaan sampai penyimpanan.
+
+BAB LANJUTAN: AIR, AKTIVITAS AIR, DAN STABILITAS PANGAN
+
+Kadar air menunjukkan jumlah air dalam bahan, sedangkan aktivitas air menggambarkan ketersediaan air untuk berbagai reaksi dan pertumbuhan mikroorganisme. Dua bahan dengan kadar air sama dapat memiliki aktivitas air berbeda karena air berinteraksi dengan gula, garam, protein, dan komponen lain. Perbedaan ini membantu menjelaskan mengapa beberapa pangan tetap stabil lebih lama daripada yang lain.
+
+Air memengaruhi tekstur, perpindahan panas, pelarutan, dan perubahan selama penyimpanan. Pengeringan menurunkan kadar air, tetapi hasilnya bergantung pada ukuran bahan, suhu, kelembapan udara, aliran udara, dan sifat bahan. Pengeringan yang tidak merata dapat meninggalkan bagian dengan kondisi berbeda. Karena itu, mutu perlu diperiksa pada beberapa bagian produk dan proses harus mengikuti standar keamanan yang sesuai.
+
+Aktivitas air bukan satu-satunya faktor keamanan. Keasaman, suhu, komposisi, kemasan, dan lama penyimpanan juga berpengaruh. Produk yang tampak kering atau beraroma normal tidak otomatis aman. Penilaian keamanan memerlukan proses tervalidasi, pengujian yang sesuai, dan kepatuhan pada pedoman resmi.
+
+BAB LANJUTAN: PERUBAHAN KIMIA DAN FISIK SELAMA PENGOLAHAN
+
+Pemanasan dapat mengubah struktur protein, melunakkan jaringan, menggelatinisasi pati, dan mempercepat reaksi pencokelatan. Dampak yang muncul bergantung pada suhu, waktu, kadar air, pH, serta komposisi bahan. Perubahan yang diinginkan pada satu produk dapat menjadi cacat pada produk lain. Warna kecokelatan, misalnya, dapat membentuk aroma khas pada roti tetapi tidak selalu diinginkan pada bahan yang harus tetap berwarna cerah.
+
+Oksidasi lemak dapat menghasilkan perubahan aroma dan rasa. Laju perubahan dipengaruhi jenis lemak, oksigen, cahaya, suhu, dan keberadaan katalis. Kemasan penghalang cahaya dan oksigen dapat membantu menjaga mutu, tetapi pemilihan kemasan perlu memperhatikan keamanan kontak pangan dan pengelolaan setelah digunakan.
+
+Enzim alami dalam bahan dapat mempercepat perubahan warna, tekstur, dan rasa. Pengendalian enzim dapat dilakukan melalui metode pengolahan yang sesuai dengan produk dan standar yang berlaku. Perlu dibedakan antara perubahan yang aman tetapi menurunkan mutu dan perubahan yang menunjukkan potensi bahaya.
+
+BAB LANJUTAN: SENSORI, MUTU, DAN PENGEMBANGAN PRODUK
+
+Evaluasi sensori menggunakan indera untuk menilai atribut seperti warna, aroma, rasa, tekstur, dan penerimaan. Uji sensori harus memiliki tujuan yang jelas. Uji diskriminasi menilai apakah dua sampel dapat dibedakan, sedangkan uji kesukaan mengukur respons peserta terhadap produk. Keduanya menjawab pertanyaan berbeda dan tidak boleh disamakan.
+
+Pengujian perlu mengendalikan urutan penyajian, ukuran sampel, suhu, kode sampel, dan kondisi ruang. Peserta sebaiknya tidak diberi informasi yang dapat memengaruhi penilaian sebelum pengujian. Hasil uji kesukaan dari kelompok kecil tidak otomatis mewakili seluruh konsumen. Jelaskan karakteristik peserta dan batas generalisasi.
+
+Pengembangan produk dimulai dari kebutuhan konsumen, formulasi awal, uji proses, evaluasi mutu, dan perbaikan. Catatan perubahan bahan dan parameter proses membantu tim memahami penyebab perubahan hasil. Keputusan akhir juga perlu mempertimbangkan biaya, kemudahan produksi, stabilitas, keamanan, dan informasi label.
+
+STUDI KASUS
+Sebuah kelompok mengembangkan kudapan berbahan lokal. Mereka membuat beberapa formulasi dengan catatan takaran yang terukur, menguji tekstur dan penerimaan melalui prosedur yang konsisten, serta meninjau biaya dan kemasan. Mereka tidak menyimpulkan produk paling sehat hanya dari satu bahan unggulan; klaim gizi memerlukan data komposisi dan ketentuan label yang berlaku.
+
+LATIHAN
+1. Apa perbedaan kadar air dan aktivitas air?
+2. Mengapa pemanasan dapat menghasilkan perubahan yang berbeda pada produk berbeda?
+3. Apa perbedaan uji diskriminasi dan uji kesukaan?
+4. Sebutkan faktor yang perlu dikendalikan dalam uji sensori.
+5. Mengapa klaim gizi memerlukan data dan aturan label?
+

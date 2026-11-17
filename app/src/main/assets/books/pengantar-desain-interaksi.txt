@@ -307,3 +307,31 @@ LATIHAN
 
 PROYEK
 Rancang alur peminjaman buku digital hipotetis. Buat peta navigasi, sketsa formulir, keadaan berhasil dan gagal, serta daftar pemeriksaan aksesibilitas. Uji istilah dan alur dengan beberapa calon pengguna secara sukarela, tanpa mengumpulkan data pribadi yang tidak diperlukan.
+
+BAB PENGEMBANGAN. MERANCANG DAN MENGUJI PROTOTIPE INTERAKSI
+
+Prototipe adalah representasi rancangan yang digunakan untuk mempelajari bagaimana suatu solusi mungkin bekerja. Prototipe tidak harus langsung menjadi produk lengkap. Sketsa kertas dapat menguji urutan langkah, sedangkan prototipe digital dapat memperlihatkan navigasi, perubahan keadaan, dan respons kontrol. Tingkat kesetiaan visual sebaiknya mengikuti pertanyaan yang ingin dijawab, bukan sekadar mengejar tampilan yang tampak selesai.
+
+Sebelum membuat prototipe, rumuskan asumsi yang paling berisiko. Misalnya, apakah pengguna memahami istilah pada menu, apakah mereka dapat menemukan fungsi pencarian, atau apakah proses pemesanan terlalu panjang. Setiap asumsi dapat diubah menjadi pertanyaan pengujian. Dengan demikian, tim tidak mengumpulkan komentar umum seperti bagus atau tidak bagus, melainkan bukti tentang bagian tertentu dari pengalaman.
+
+Skenario pengujian harus menggambarkan tujuan yang realistis tanpa memberi petunjuk langkah demi langkah. Pengamat dapat meminta peserta menyelesaikan tugas, lalu memperhatikan titik ragu, kesalahan, dan strategi yang dipilih. Peserta perlu mengetahui tujuan pengujian, sifat sukarela partisipasi, serta data apa yang dicatat. Hindari mengumpulkan kata sandi, isi pesan pribadi, atau informasi lain yang tidak diperlukan.
+
+Ukuran keberhasilan harus ditentukan sebelum pengujian. Metrik dapat mencakup tingkat penyelesaian tugas, waktu, jumlah kesalahan, permintaan bantuan, dan penilaian subjektif. Angka tidak menjelaskan seluruh pengalaman. Dua orang dapat menyelesaikan tugas dalam waktu sama tetapi mengalami tingkat kebingungan berbeda. Catatan observasi dan pertanyaan tindak lanjut membantu memahami penyebab di balik angka.
+
+Ketika peserta kesulitan, pengamat sebaiknya tidak buru-buru mengajari cara menggunakan rancangan. Bantuan yang terlalu cepat mengubah hasil pengujian. Catat apa yang terjadi, berikan ruang bagi peserta untuk menjelaskan pemikirannya, dan hentikan sesi jika mereka merasa tidak nyaman. Tujuan pengujian adalah menilai rancangan, bukan menguji kecerdasan atau kemampuan peserta.
+
+Temuan perlu dikelompokkan berdasarkan pola. Satu komentar tunggal dapat menunjukkan masalah penting, tetapi tim harus membedakan kejadian yang teramati, interpretasi, dan usulan solusi. Contohnya: fakta bahwa peserta melewatkan tombol simpan adalah observasi; dugaan bahwa labelnya kurang jelas adalah interpretasi; mengganti label menjadi Simpan perubahan adalah usulan. Pemisahan ini mengurangi keputusan yang didasarkan pada asumsi.
+
+Prioritaskan perbaikan berdasarkan dampak, frekuensi, dan tingkat usaha. Hambatan yang membuat pengguna kehilangan data atau tidak dapat menyelesaikan tugas biasanya lebih mendesak daripada perbedaan dekorasi. Setelah perubahan, lakukan pengujian ulang untuk memastikan perbaikan tidak menimbulkan masalah baru. Catat versi prototipe, tanggal, skenario, dan perubahan agar hasil dapat ditelusuri.
+
+Prototipe juga dapat digunakan untuk menguji aksesibilitas sejak awal. Coba navigasi dengan papan ketik, periksa urutan fokus, uji pembesaran teks, dan pastikan pesan tidak hanya dibedakan melalui warna. Pengujian dengan teknologi bantu dan pengguna yang beragam memberi temuan yang tidak selalu terlihat oleh tim desain. Aksesibilitas bukan fitur tambahan yang ditempelkan setelah produk selesai, melainkan bagian dari kualitas interaksi.
+
+LATIHAN
+1. Kapan sketsa kertas lebih tepat daripada prototipe digital?
+2. Mengapa asumsi berisiko perlu dirumuskan sebelum pengujian?
+3. Bedakan observasi, interpretasi, dan usulan solusi.
+4. Sebutkan empat metrik pengujian kegunaan.
+5. Mengapa pengujian perlu dilakukan kembali setelah perbaikan?
+
+PROYEK
+Buat prototipe alur pencarian dan peminjaman buku. Susun tiga skenario tugas, indikator keberhasilan, dan lembar observasi. Lakukan pengujian sukarela dengan persetujuan peserta, rangkum temuan tanpa identitas pribadi, lalu buat daftar perbaikan prioritas.

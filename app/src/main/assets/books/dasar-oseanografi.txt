@@ -319,3 +319,24 @@ Metadata perlu memuat koordinat umum, kedalaman, waktu, satuan, metode, kalibras
 
 Pengamatan laut harus mengutamakan keselamatan, izin, dan perlindungan ekosistem. Kegiatan lapangan dilakukan oleh orang yang kompeten dengan prosedur yang sesuai. Pembelajaran dapat menggunakan data terbuka atau data simulasi sehingga konsep dapat dipelajari tanpa menempatkan peserta pada kondisi berbahaya.
 
+PENDALAMAN: SIRKULASI, KIMIA, DAN PENGELOLAAN LAUT
+
+Gerak massa air laut dipengaruhi angin, perbedaan densitas, bentuk dasar laut, rotasi Bumi, dan pasang surut. Densitas berkaitan dengan suhu dan salinitas. Perbedaan densitas dapat membentuk lapisan air dan memengaruhi pertukaran vertikal. Angin menggerakkan permukaan, sementara bentuk pantai dan gaya Coriolis turut mengubah arah arus. Di sejumlah wilayah, air permukaan yang bergerak menjauh dari pantai digantikan air lebih dalam yang naik. Upwelling dapat membawa nutrien ke lapisan bercahaya dan mendukung produktivitas, tetapi dampaknya bergantung pada kondisi lokal dan musim.
+
+Gelombang permukaan memindahkan energi melalui air. Ketika gelombang mendekati pantai, perubahan kedalaman mengubah tinggi, panjang, dan arah rambatnya. Interaksi gelombang dengan dasar dan garis pantai memengaruhi pengangkutan sedimen serta bentuk pantai. Pasang surut terutama berkaitan dengan gaya gravitasi Bulan dan Matahari serta gerak sistem Bumi-Bulan. Kedalaman, bentuk teluk, dan resonansi lokal membuat pola pasang berbeda antarwilayah. Informasi pasang berguna untuk memahami habitat intertidal, navigasi, drainase pesisir, dan perencanaan fasilitas pantai.
+
+Laut berperan dalam siklus karbon melalui pertukaran karbon dioksida dengan atmosfer, pelarutan karbon anorganik, fotosintesis, dan pengendapan material. Karbon dioksida terlarut berinteraksi dengan air membentuk sistem karbonat. Peningkatan karbon dioksida dapat mengubah keseimbangan kimia dan menurunkan pH, proses yang dikenal sebagai pengasaman laut. Respons organisme tidak seragam. Organisme pembentuk struktur kalsium karbonat dapat menghadapi perubahan kondisi pembentukan cangkang atau kerangka, sementara spesies lain memiliki respons fisiologis yang berbeda. Suhu, makanan, dan kondisi habitat juga memengaruhi dampak.
+
+Mangrove, padang lamun, terumbu karang, dataran lumpur, dan estuari menyediakan fungsi ekologis yang beragam. Habitat tersebut dapat menjadi tempat asuhan, perlindungan pantai, penyimpanan karbon, sumber pangan, dan ruang budaya. Hubungan antarhabitat penting karena organisme dapat menggunakan beberapa habitat sepanjang siklus hidupnya. Penilaian manfaat ekosistem tidak seharusnya menganggap semua nilai dapat diringkas menjadi uang. Identitas masyarakat, akses tradisional, dan nilai budaya memerlukan pendekatan yang menghormati pengalaman warga.
+
+Pengamatan laut menggunakan pengukuran lapangan, sensor tetap, kapal riset, citra satelit, pelampung, dan data historis. Setiap metode memiliki resolusi ruang dan waktu serta ketidakpastian. Sensor perlu dikalibrasi; metadata harus mencatat lokasi, waktu, satuan, kedalaman, metode, dan kondisi alat. Suhu permukaan dari satelit tidak identik dengan suhu pada kedalaman tertentu. Rata-rata bulanan juga dapat menyembunyikan kejadian singkat. Visualisasi data harus mencantumkan satuan, periode, skala, dan informasi ketidakpastian jika tersedia.
+
+Pengelolaan pesisir terpadu memperhitungkan hubungan darat-laut, perubahan penggunaan lahan, kualitas air, perikanan, pariwisata, infrastruktur, dan risiko iklim. Keputusan satu sektor dapat berdampak pada sektor lain. Studi sebuah teluk dapat dimulai dengan memetakan habitat, aliran sungai, kegiatan ekonomi, dan titik pemantauan kualitas air. Alternatif pengelolaan kemudian dibandingkan berdasarkan indikator ekologis, sosial, dan ekonomi. Rekomendasi perlu menjelaskan ketidakpastian, kelompok yang terdampak, cara pemantauan, serta kondisi yang mengharuskan kebijakan ditinjau ulang.
+
+LATIHAN PENDALAMAN
+1. Jelaskan bagaimana suhu dan salinitas memengaruhi densitas massa air.
+2. Bandingkan peran gelombang dan pasang surut pada lingkungan pantai.
+3. Buat diagram perpindahan karbon antara atmosfer, laut, dan organisme.
+4. Susun metadata minimum untuk pengukuran suhu laut.
+5. Buat kerangka pengelolaan teluk dengan indikator ekologi dan sosial.
+

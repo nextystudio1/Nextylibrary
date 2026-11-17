@@ -328,3 +328,25 @@ LATIHAN
 3. Bagaimana partisipasi dapat memengaruhi keputusan program?
 4. Mengapa rencana keluar penting bagi keberlanjutan?
 5. Apa risiko ketika pendanaan menggeser misi sosial?
+
+PENDALAMAN: MODEL OPERASI DAN PENGUKURAN DAMPAK SOSIAL
+
+Model operasi menjelaskan bagaimana sebuah inisiatif sosial mengubah sumber daya menjadi layanan dan hasil yang dibutuhkan masyarakat. Peta model perlu memperlihatkan kelompok yang dilayani, kegiatan utama, mitra, sumber pendanaan, biaya, serta mekanisme umpan balik. Peta tersebut juga harus menjelaskan siapa yang mengambil keputusan dan bagaimana masyarakat dapat menyampaikan keberatan. Tanpa kejelasan peran, program mudah bergantung pada beberapa orang dan sulit dipertahankan ketika tim berubah.
+
+Teori perubahan menghubungkan masalah, kegiatan, keluaran, hasil jangka menengah, dan dampak yang diharapkan. Setiap hubungan mengandung asumsi. Sebuah pelatihan, misalnya, mungkin menghasilkan peningkatan pengetahuan, tetapi pengetahuan baru belum tentu berubah menjadi praktik jika peserta tidak memiliki alat, waktu, dukungan, atau kewenangan. Menuliskan asumsi membuat tim dapat menguji apakah hambatan utama berada pada rancangan kegiatan atau lingkungan yang lebih luas.
+
+Indikator perlu dipilih berdasarkan keputusan yang akan dibuat. Jumlah peserta merupakan ukuran jangkauan, bukan bukti bahwa kehidupan peserta membaik. Indikator hasil dapat mencakup perubahan akses, kemampuan, kualitas layanan, atau kendali masyarakat atas keputusan. Data kuantitatif dapat menunjukkan pola, sedangkan wawancara dan observasi membantu menjelaskan pengalaman di balik angka. Pengumpulan data harus proporsional, menjaga privasi, dan tidak membebani penerima manfaat dengan survei berulang tanpa tujuan jelas.
+
+Partisipasi bermakna bukan sekadar mengundang warga ke pertemuan. Peserta perlu memperoleh informasi yang dapat dipahami, waktu untuk menyampaikan pandangan, dan penjelasan mengenai bagaimana masukan memengaruhi keputusan. Tim juga harus menjelaskan batas kewenangan serta sumber daya yang tersedia. Jika keputusan akhir berbeda dari usulan warga, alasan perbedaan perlu disampaikan secara terbuka.
+
+Keberlanjutan tidak selalu berarti organisasi harus tumbuh tanpa batas. Dalam beberapa keadaan, tujuan terbaik adalah memperkuat lembaga lokal, membagikan metode, atau mengalihkan pengelolaan kepada kelompok yang lebih dekat dengan komunitas. Rencana transisi perlu menentukan aset, pengetahuan, tanggung jawab, biaya pemeliharaan, dan dukungan setelah pendampingan berakhir. Mengakhiri program secara bertanggung jawab merupakan bagian dari desain, bukan tanda kegagalan.
+
+Studi kasus: sebuah kelompok mengembangkan layanan belajar bagi wilayah dengan koneksi internet terbatas. Mereka menguji bahan cetak dan berkas luring bersama guru serta keluarga, lalu mengukur kemudahan penggunaan dan pemahaman peserta. Tim membuat mekanisme koreksi isi, tidak mengumpulkan data pribadi yang tidak diperlukan, dan melatih pengelola lokal. Keberhasilan dinilai dari kemampuan komunitas melanjutkan layanan, bukan hanya jumlah materi yang dibagikan.
+
+LATIHAN PENDALAMAN
+1. Buat teori perubahan untuk satu masalah sosial dan tuliskan tiga asumsi penting.
+2. Bedakan indikator jangkauan, keluaran, hasil, dan dampak.
+3. Rancang proses partisipasi yang memberi ruang bagi kelompok yang jarang terdengar.
+4. Susun rencana transisi program kepada mitra lokal.
+5. Jelaskan bagaimana organisasi merespons bukti bahwa program tidak menghasilkan perubahan yang diharapkan.
+

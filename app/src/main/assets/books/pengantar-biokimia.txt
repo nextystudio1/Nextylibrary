@@ -315,3 +315,38 @@ Kurva standar menghubungkan sinyal alat dengan konsentrasi zat yang diketahui. R
 
 Korelasi antara dua molekul tidak membuktikan bahwa salah satunya menyebabkan perubahan yang lain. Kesimpulan mekanistik memerlukan rancangan yang dapat menguji hubungan sebab-akibat, pembanding yang sesuai, dan bukti dari beberapa pendekatan. Laporan yang baik menjelaskan metode, batas deteksi, ketidakpastian, serta data yang tidak sesuai dugaan. Sikap kritis tersebut merupakan bagian inti dari biokimia sebagai ilmu eksperimental.
 
+
+BAB PENDALAMAN: STRUKTUR PROTEIN DAN HUBUNGAN DENGAN FUNGSI
+
+Protein tersusun dari rantai asam amino yang urutannya ditentukan oleh informasi genetik dan proses ekspresi. Urutan tersebut memengaruhi cara rantai melipat menjadi struktur tiga dimensi. Struktur primer adalah urutan asam amino, struktur sekunder mencakup pola lokal seperti heliks dan lembaran, struktur tersier menggambarkan bentuk keseluruhan satu rantai, sedangkan struktur kuartener terbentuk ketika beberapa subunit berasosiasi.
+
+Bentuk protein berhubungan dengan fungsi, tetapi hubungan ini tidak selalu kaku. Protein dapat berubah konformasi ketika berikatan dengan molekul lain, menerima sinyal, atau mengalami perubahan kondisi. Perubahan suhu, pH, dan lingkungan kimia dapat memengaruhi kestabilan struktur. Denaturasi dapat mengganggu fungsi karena susunan tiga dimensi berubah, meskipun rantai asam amino tidak selalu terputus.
+
+Interaksi yang menstabilkan protein meliputi ikatan hidrogen, interaksi ionik, gaya van der Waals, dan efek hidrofobik. Lingkungan berair memengaruhi kecenderungan gugus tertentu berada di bagian dalam atau permukaan protein. Memahami interaksi ini membantu menjelaskan mengapa mutasi pada satu posisi dapat memiliki dampak kecil, besar, atau bahkan tidak terukur terhadap fungsi.
+
+BAB PENDALAMAN: LIPID DAN MEMBRAN BIOLOGIS
+
+Lipid merupakan kelompok molekul dengan sifat yang beragam, umumnya memiliki bagian yang tidak mudah bercampur dengan air. Trigliserida berfungsi sebagai cadangan energi, fosfolipid merupakan komponen utama membran, dan beberapa lipid lain berperan dalam sinyal serta pengaturan sifat membran. Tidak semua lipid memiliki struktur yang sama, sehingga fungsi harus dikaitkan dengan jenis molekulnya.
+
+Fosfolipid memiliki bagian kepala yang berinteraksi dengan air dan ekor hidrofobik. Dalam lingkungan berair, molekul tersebut dapat membentuk bilayer yang menjadi dasar membran sel. Bilayer bersifat dinamis: komponen dapat bergerak lateral, sedangkan perpindahan melintasi lapisan memerlukan kondisi atau protein tertentu. Kolesterol pada membran hewan memengaruhi fluiditas dan kestabilan sesuai kondisi suhu serta komposisi lipid.
+
+Membran bukan sekadar pembatas. Ia mengatur pertukaran zat, menerima sinyal, mempertahankan gradien ion, dan menyediakan tempat bagi reaksi tertentu. Protein membran dapat berfungsi sebagai kanal, pembawa, reseptor, atau enzim. Perubahan komposisi membran dapat mengubah komunikasi dan transport sel.
+
+BAB PENDALAMAN: METABOLISME DAN KETERKAITAN JALUR
+
+Metabolisme mencakup seluruh reaksi kimia dalam sel. Katabolisme memecah molekul dan dapat menghasilkan energi yang ditangkap dalam bentuk pembawa energi, sedangkan anabolisme menggunakan energi dan bahan sederhana untuk membangun molekul kompleks. Kedua arah saling berkaitan melalui molekul perantara dan mekanisme pengaturan.
+
+ATP sering disebut mata uang energi sel karena hidrolisisnya dapat dikaitkan dengan reaksi yang memerlukan energi. Namun, ATP bukan satu-satunya pembawa energi. NADH dan FADH2 membawa elektron berenergi tinggi ke proses lain, sedangkan NADPH sering berperan dalam reaksi biosintesis dan pertahanan terhadap tekanan oksidatif. Peran setiap molekul bergantung pada konteks jalur.
+
+Jalur metabolisme diatur agar produksi dan penggunaan bahan sesuai kebutuhan. Ketersediaan substrat, aktivitas enzim, sinyal hormonal, dan keadaan energi sel dapat memengaruhi laju reaksi. Jalur tidak bekerja sebagai rangkaian terisolasi; perubahan pada satu jalur dapat memengaruhi jalur lain. Karena itu, interpretasi hasil biokimia perlu mempertimbangkan jaringan proses, bukan hanya satu reaksi.
+
+BAB PENDALAMAN: ASAM NUKLEAT DAN EKSPRESI GEN
+
+DNA menyimpan informasi genetik, sedangkan RNA memiliki berbagai peran dalam penggunaan informasi tersebut. Transkripsi menghasilkan RNA dari cetakan DNA. Pada banyak organisme, RNA kemudian mengalami pemrosesan sebelum digunakan dalam sintesis protein. Translasi membaca kodon pada RNA pembawa pesan untuk menyusun urutan asam amino dengan bantuan RNA transfer dan ribosom.
+
+Regulasi ekspresi gen menentukan kapan dan seberapa banyak suatu gen digunakan. Regulasi dapat terjadi pada tingkat transkripsi, pemrosesan RNA, stabilitas RNA, translasi, maupun modifikasi protein setelah terbentuk. Lingkungan sel dan sinyal dari luar dapat mengubah pola ekspresi. Keberadaan suatu gen tidak berarti protein selalu diproduksi pada tingkat yang sama.
+
+PROYEK MINI: MENAFSIRKAN JALUR BIOKIMIA
+
+Pilih diagram jalur metabolisme dari bahan pendidikan yang sah. Tandai masukan, keluaran, enzim, dan pembawa energi. Jelaskan bagaimana perubahan satu tahap dapat memengaruhi tahap lain secara konseptual. Jangan menyimpulkan kondisi kesehatan individu dari diagram umum; materi ini membahas prinsip dasar biokimia, bukan diagnosis.
+

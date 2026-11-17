@@ -355,3 +355,34 @@ LATIHAN DAN PROYEK
 5. Mengapa banyak digit desimal tidak otomatis menunjukkan ketelitian tinggi?
 
 Proyek: buat denah sederhana dari ruang publik yang boleh diukur. Tentukan skala, catat metode, ukur ulang beberapa sisi, dan bandingkan hasil. Laporkan ketidakpastian serta jelaskan keterbatasan denah dua dimensi dalam mewakili ruang sebenarnya.
+
+BAB PENDALAMAN: PENALARAN GEOMETRIS DAN PEMBUKTIAN
+
+Geometri mempelajari sifat bentuk, ukuran, posisi, dan hubungan ruang. Gambar membantu membangun intuisi, tetapi tidak menggantikan pembuktian. Sketsa yang tampak sama panjang atau tegak lurus belum tentu memenuhi sifat tersebut secara matematis. Pernyataan harus didukung definisi, aksioma, atau teorema yang relevan.
+
+Pembuktian dapat disusun langsung dari asumsi menuju kesimpulan, melalui kontradiksi, atau dengan membagi persoalan menjadi beberapa kasus. Setiap langkah perlu menyebut alasan. Membuat diagram bantu dan menuliskan apa yang diketahui serta yang hendak dibuktikan sering membuat struktur argumen lebih jelas.
+
+BAB PENDALAMAN: TRANSFORMASI DAN SIMETRI
+
+Transformasi geometri memetakan titik ke posisi baru. Translasi menggeser, rotasi memutar, refleksi mencerminkan, dan dilatasi mengubah skala. Transformasi tertentu mempertahankan jarak dan sudut, sedangkan dilatasi mempertahankan bentuk tetapi mengubah ukuran.
+
+Simetri dapat membantu mengenali pola pada bangun, ornamen, struktur, dan desain. Simetri lipat berkaitan dengan pencerminan, sedangkan simetri putar berkaitan dengan kesesuaian setelah rotasi. Dalam pemecahan masalah, identifikasi simetri dapat mengurangi jumlah kasus yang perlu diperiksa.
+
+BAB PENDALAMAN: TRIGONOMETRI DAN PENGUKURAN TIDAK LANGSUNG
+
+Perbandingan trigonometri menghubungkan sudut dengan panjang sisi segitiga siku-siku. Sinus, kosinus, dan tangen digunakan untuk menghitung tinggi atau jarak yang sulit diukur langsung. Model harus menyatakan asumsi, misalnya permukaan dianggap datar dan sudut diukur dari acuan yang tepat.
+
+Pengukuran tidak langsung membawa ketidakpastian dari setiap besaran yang digunakan. Kesalahan kecil pada sudut dapat menghasilkan perubahan berarti pada hasil jika geometri pengukuran kurang menguntungkan. Ulangi pengukuran, gunakan alat sesuai petunjuk, dan laporkan ketelitian yang masuk akal.
+
+BAB PENDALAMAN: GEOMETRI KOORDINAT DAN VEKTOR
+
+Sistem koordinat mengubah persoalan geometri menjadi hubungan aljabar. Titik dinyatakan dengan pasangan atau tripel koordinat, sedangkan jarak dan gradien dapat dihitung melalui rumus. Pemilihan titik asal dan skala sumbu memengaruhi kemudahan perhitungan, tetapi tidak mengubah objek geometris yang diwakili.
+
+Vektor menyatakan besaran yang memiliki besar dan arah. Penjumlahan vektor dapat digambarkan sebagai perpindahan berurutan, sementara perkalian skalar mengubah panjang dan dapat membalik arah. Konsep ini berguna dalam navigasi, fisika, grafika komputer, dan pemodelan ruang.
+
+BAB PENDALAMAN: SKALA, PETA, DAN MODEL TIGA DIMENSI
+
+Skala menyatakan hubungan ukuran gambar dengan ukuran sebenarnya. Skala harus digunakan konsisten pada seluruh bagian gambar dan dicantumkan bersama satuan. Peta dua dimensi memproyeksikan permukaan bumi yang melengkung sehingga selalu memiliki distorsi tertentu; pemilihan proyeksi bergantung tujuan pemetaan.
+
+Model tiga dimensi membantu memahami volume, luas permukaan, dan hubungan antarbidang. Dalam membuat model, periksa apakah satuan, orientasi, dan proporsi sudah benar. Hasil pengukuran perlu disertai metode dan ketidakpastian agar orang lain dapat menilai apakah model cukup sesuai untuk tujuan penggunaannya.
+

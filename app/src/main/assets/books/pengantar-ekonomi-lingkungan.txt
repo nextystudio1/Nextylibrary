@@ -324,3 +324,54 @@ Kebijakan lingkungan dapat menimbulkan biaya penyesuaian bagi rumah tangga, peke
 
 Evaluasi kebijakan membandingkan kondisi sebelum dan sesudah serta mempertimbangkan faktor lain yang berubah pada waktu sama. Indikator dapat mencakup kualitas lingkungan, kesehatan, biaya rumah tangga, produktivitas, dan pemerataan. Pengukuran berkala memungkinkan kebijakan disesuaikan ketika hasil berbeda dari perkiraan. Transparansi data dan alasan perubahan memperkuat legitimasi keputusan.
 
+BAB LANJUTAN: INSTRUMEN KEBIJAKAN DAN PENILAIAN EKONOMI LINGKUNGAN
+
+Eksternalitas dan kegagalan pasar
+
+Eksternalitas terjadi ketika kegiatan ekonomi memengaruhi pihak lain tanpa seluruh dampaknya tercermin dalam harga. Pencemaran dari proses produksi dapat menimbulkan biaya kesehatan dan kerusakan ekosistem bagi masyarakat sekitar. Sebaliknya, kegiatan yang memulihkan habitat dapat memberi manfaat bagi banyak pihak yang tidak membayar langsung. Harga pasar saja tidak selalu menunjukkan biaya dan manfaat sosial secara lengkap.
+
+Analisis eksternalitas perlu mengenali sumber dampak, pihak yang terkena, skala ruang, durasi, dan kemungkinan pemulihan. Tidak semua dampak dapat dinilai secara akurat dalam satu angka uang. Beberapa nilai ekologis, budaya, atau hak masyarakat memerlukan pertimbangan tersendiri. Penilaian ekonomi membantu memperjelas trade-off, bukan menggantikan pertimbangan etika dan hukum.
+
+Pajak, pungutan, dan insentif
+
+Pungutan lingkungan dapat memberi sinyal ekonomi agar pelaku mengurangi kegiatan yang menimbulkan dampak. Desainnya perlu menjelaskan dasar pengenaan, tingkat pungutan, pemantauan, penggunaan penerimaan, dan perlindungan bagi kelompok yang rentan terhadap kenaikan biaya. Jika alternatif teknologi bersih belum tersedia atau mahal, kebijakan perlu mempertimbangkan masa transisi dan dukungan yang sesuai.
+
+Subsidi dapat mendorong adopsi teknologi yang memberi manfaat publik, tetapi subsidi yang tidak tepat sasaran dapat mempertahankan kegiatan tidak efisien atau dinikmati kelompok yang sebenarnya tidak membutuhkan bantuan. Evaluasi harus melihat tambahan perubahan yang terjadi karena insentif, bukan hanya jumlah penerima. Kebijakan yang baik memiliki kriteria kelayakan, batas waktu, transparansi, dan evaluasi hasil.
+
+Perdagangan izin dan batas pencemaran
+
+Dalam sistem perdagangan izin, otoritas menetapkan batas total dan mengalokasikan atau melelang izin yang dapat diperdagangkan sesuai aturan. Secara teori, pelaku dengan biaya pengurangan emisi lebih rendah memiliki insentif mengurangi lebih banyak, sementara pelaku lain dapat membeli izin. Hasil lingkungan bergantung pada ketepatan batas, kualitas pemantauan, kepatuhan, dan integritas data.
+
+Perdagangan izin tidak otomatis menjamin keadilan lokal. Konsentrasi pencemaran di sekitar komunitas tertentu dapat tetap menjadi masalah meskipun batas agregat dipenuhi. Karena itu, kebijakan perlu memantau paparan di tingkat lokal, mempertimbangkan dampak kumulatif, dan memastikan mekanisme pengaduan serta penegakan berjalan.
+
+Analisis biaya-manfaat dan keterbatasannya
+
+Analisis biaya-manfaat membandingkan konsekuensi kebijakan dalam suatu kerangka waktu dan asumsi. Biaya dapat mencakup investasi, operasi, perubahan mata pencaharian, dan dampak yang sulit dipulihkan. Manfaat dapat mencakup kesehatan, kualitas air, pengurangan risiko, dan peningkatan jasa ekosistem. Penilaian memerlukan skenario pembanding: apa yang mungkin terjadi tanpa kebijakan.
+
+Tingkat diskonto memengaruhi bobot biaya dan manfaat masa depan. Tingkat yang tinggi membuat manfaat jangka panjang tampak lebih kecil dalam nilai kini. Pilihan tingkat diskonto memiliki dimensi etika antargenerasi, terutama ketika dampak berlangsung puluhan tahun. Hasil analisis perlu diuji dengan beberapa asumsi dan tidak boleh disajikan sebagai jawaban tunggal yang bebas nilai.
+
+Nilai jasa ekosistem
+
+Ekosistem menyediakan jasa penyediaan, pengaturan, budaya, dan pendukung. Hutan dapat menyimpan karbon, mengatur aliran air, menyediakan habitat, dan mendukung mata pencaharian. Terumbu karang dapat menopang perikanan dan pariwisata sekaligus melindungi sebagian garis pantai. Nilai ekonomi jasa tersebut membantu menunjukkan bahwa kerusakan alam memiliki konsekuensi bagi kesejahteraan manusia.
+
+Namun, memberi nilai uang pada jasa ekosistem tidak berarti semua unsur alam dapat diganti dengan uang. Nilai budaya, identitas, hubungan masyarakat dengan wilayah, dan hak komunitas mungkin tidak terwakili dalam harga. Penilaian perlu dilakukan dengan partisipasi pihak terdampak dan penjelasan metode. Hindari menghitung manfaat yang sama dua kali melalui indikator yang saling tumpang tindih.
+
+Distribusi dampak dan keadilan lingkungan
+
+Kebijakan lingkungan dapat memberi manfaat agregat tetapi membebankan biaya secara tidak merata. Kenaikan tarif energi, perubahan tata ruang, atau pembatasan pemanfaatan sumber daya dapat memengaruhi rumah tangga dan pekerja dengan kemampuan adaptasi berbeda. Analisis distribusi memetakan siapa menerima manfaat, siapa menanggung biaya, dan apakah tersedia pilihan transisi.
+
+Keadilan prosedural menekankan akses terhadap informasi dan partisipasi. Keadilan pengakuan meminta agar pengetahuan, budaya, serta pengalaman kelompok yang berbeda diperhatikan. Keadilan hasil menilai distribusi risiko dan manfaat. Ketiga dimensi ini dapat digunakan bersama ketika merancang kebijakan, bukan hanya setelah konflik muncul.
+
+Ekonomi sirkular dan tanggung jawab produsen
+
+Ekonomi sirkular berupaya mempertahankan nilai bahan melalui desain tahan lama, perbaikan, penggunaan ulang, pemilahan, dan daur ulang. Model bisnis dapat mengubah insentif produsen agar memperhatikan masa pakai dan akhir kehidupan produk. Tanggung jawab produsen yang diperluas dapat mengatur peran produsen dalam pengumpulan atau pengelolaan produk pascakonsumsi.
+
+Keberhasilan perlu dinilai dari pengurangan penggunaan bahan primer, limbah, dan dampak daur hidup, bukan hanya jumlah barang yang diberi label dapat didaur ulang. Pengumpulan tanpa pasar bahan daur ulang yang stabil dapat menghasilkan penumpukan. Desain produk, standar mutu bahan, infrastruktur, dan perilaku konsumen perlu diselaraskan.
+
+Mengevaluasi kebijakan lingkungan
+
+Evaluasi memerlukan indikator sebelum dan sesudah kebijakan, kelompok pembanding bila memungkinkan, serta pencatatan faktor lain yang berubah. Hasil lingkungan dapat bergerak lambat, sementara dampak ekonomi muncul lebih cepat. Gunakan indikator antara dan hasil akhir dengan penjelasan hubungan keduanya. Data perlu dipilah secara wajar untuk memahami dampak pada wilayah dan kelompok berbeda.
+
+Studi kasus pembelajaran
+
+Sebuah kota ingin mengurangi sampah kemasan sekali pakai. Pilihan kebijakan dapat mencakup standar desain, sistem guna ulang, pungutan, pengadaan publik, fasilitas pemilahan, dan edukasi. Bandingkan biaya bagi usaha kecil dan rumah tangga, kesiapan infrastruktur, potensi pengurangan sampah, dampak pada pekerja informal, serta risiko perpindahan ke bahan pengganti yang juga memiliki dampak. Rekomendasi yang baik menyertakan uji coba, indikator, dukungan transisi, dan jadwal evaluasi.

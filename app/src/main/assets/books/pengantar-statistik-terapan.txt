@@ -309,3 +309,36 @@ LATIHAN BAB
 3. Apa tujuan analisis sensitivitas?
 4. Mengapa nilai p harus dibaca bersama ukuran efek dan interval ketidakpastian?
 5. Rancang definisi operasional untuk mengukur ketepatan waktu layanan.
+
+BAB PENDALAMAN: DESAIN SAMPEL DAN KETERWAKILAN
+
+Sampel adalah bagian dari populasi yang diamati untuk memperoleh informasi. Kerangka sampel menentukan siapa yang berpeluang terpilih. Jika sebagian kelompok tidak tercakup, hasil dapat mengalami bias cakupan. Sampel besar tidak otomatis representatif apabila cara pemilihannya sistematis mengecualikan kelompok tertentu.
+
+Sampel acak sederhana memberi peluang terpilih yang sama kepada setiap unit dalam kerangka. Sampel berstrata membagi populasi ke kelompok yang relevan sebelum pemilihan. Sampel klaster memilih kelompok alami seperti sekolah atau wilayah, yang dapat lebih efisien tetapi memengaruhi ketidakpastian karena unit dalam klaster mungkin mirip. Metode harus dipilih sesuai tujuan, sumber daya, dan struktur populasi.
+
+Nonrespons juga dapat menimbulkan bias. Orang yang tidak menjawab mungkin berbeda secara sistematis dari yang menjawab. Tingkat respons saja tidak cukup untuk menilai besar bias; karakteristik responden dan nonresponden serta prosedur tindak lanjut perlu diperiksa.
+
+BAB PENDALAMAN: ESTIMASI DAN INTERVAL KEPERCAYAAN
+
+Statistik sampel digunakan untuk memperkirakan parameter populasi. Estimasi titik memberikan satu nilai, sedangkan interval kepercayaan menunjukkan rentang yang dihasilkan oleh prosedur estimasi dengan tingkat cakupan jangka panjang tertentu ketika asumsi terpenuhi. Interval bukan jaminan bahwa parameter memiliki peluang tertentu berada di dalam satu interval yang sudah dihitung.
+
+Lebar interval dipengaruhi variasi data, ukuran sampel, rancangan pengambilan sampel, dan tingkat kepercayaan yang dipilih. Sampel yang lebih besar sering memperkecil galat acak, tetapi tidak otomatis mengatasi bias pengukuran atau cakupan. Pelaporan sebaiknya menyertakan metode dan asumsi, bukan hanya angka akhir.
+
+BAB PENDALAMAN: UJI HIPOTESIS DAN UKURAN EFEK
+
+Uji hipotesis menilai seberapa sesuai data dengan model nol di bawah asumsi tertentu. Nilai p bukan peluang bahwa hipotesis nol benar, dan bukan ukuran besarnya efek. Hasil yang signifikan secara statistik dapat memiliki dampak praktis kecil, terutama pada sampel besar. Sebaliknya, hasil yang tidak signifikan tidak membuktikan bahwa efek sama sekali tidak ada.
+
+Ukuran efek membantu menggambarkan besarnya perbedaan atau hubungan. Interval kepercayaan menunjukkan rentang nilai yang masih sejalan dengan data dan metode. Banyak pengujian sekaligus meningkatkan peluang temuan positif palsu jika tidak ditangani. Rencana analisis sebaiknya ditentukan sebelum melihat hasil sejauh memungkinkan.
+
+BAB PENDALAMAN: REGRESI DAN DIAGNOSTIK MODEL
+
+Regresi memodelkan hubungan antara variabel respons dan satu atau lebih prediktor. Koefisien menggambarkan perubahan rata-rata respons yang terkait dengan perubahan prediktor, dengan prediktor lain dalam model dipertahankan sesuai spesifikasi. Interpretasi kausal membutuhkan rancangan dan asumsi tambahan; regresi observasional saja tidak otomatis membuktikan sebab-akibat.
+
+Diagnostik memeriksa pola residual, pencilan berpengaruh, bentuk hubungan, dan kesesuaian asumsi. Multikolinearitas dapat membuat estimasi koefisien tidak stabil. Variabel yang dihilangkan dapat menimbulkan bias jika berkaitan dengan prediktor dan respons. Model yang kompleks perlu dibandingkan dengan model sederhana dan diuji pada data yang tidak digunakan untuk pelatihan bila tujuannya prediksi.
+
+BAB PENDALAMAN: KOMUNIKASI KETIDAKPASTIAN
+
+Grafik dan ringkasan statistik harus menunjukkan ukuran sampel, satuan, rentang waktu, dan definisi variabel. Distribusi sering lebih informatif daripada satu angka rata-rata. Median dan kuartil dapat membantu ketika data miring atau memiliki nilai ekstrem. Pilihan ringkasan harus mengikuti bentuk data dan pertanyaan.
+
+Ketidakpastian bukan kelemahan yang perlu disembunyikan. Jelaskan sumbernya, seperti variasi sampel, kesalahan pengukuran, data hilang, atau perubahan definisi. Hindari presisi palsu dengan menampilkan terlalu banyak angka desimal. Pembaca membutuhkan gambaran yang jujur tentang apa yang dapat disimpulkan dan apa yang masih memerlukan data tambahan.
+

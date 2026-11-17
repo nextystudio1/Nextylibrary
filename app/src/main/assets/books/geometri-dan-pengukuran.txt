@@ -386,3 +386,56 @@ Skala menyatakan hubungan ukuran gambar dengan ukuran sebenarnya. Skala harus di
 
 Model tiga dimensi membantu memahami volume, luas permukaan, dan hubungan antarbidang. Dalam membuat model, periksa apakah satuan, orientasi, dan proporsi sudah benar. Hasil pengukuran perlu disertai metode dan ketidakpastian agar orang lain dapat menilai apakah model cukup sesuai untuk tujuan penggunaannya.
 
+BAB LANJUTAN: GEOMETRI ANALITIK, TRANSFORMASI, DAN KETELITIAN PENGUKURAN
+
+Koordinat dan geometri analitik
+
+Geometri analitik menghubungkan bentuk geometri dengan aljabar melalui sistem koordinat. Titik pada bidang dapat dinyatakan sebagai pasangan bilangan yang menunjukkan posisi terhadap sumbu. Jarak antara dua titik dapat ditentukan dari perubahan horizontal dan vertikal dengan teorema Pythagoras. Konsep ini digunakan dalam pemetaan, desain, navigasi, dan pemodelan.
+
+Kemiringan garis menyatakan perubahan vertikal dibanding perubahan horizontal. Dua garis dengan kemiringan sama dan berbeda posisi dapat sejajar, sedangkan garis yang berpotongan tegak lurus memiliki hubungan kemiringan khusus jika keduanya tidak vertikal. Persamaan garis dapat ditulis dalam beberapa bentuk sesuai informasi yang tersedia. Memilih bentuk yang tepat membuat penyelesaian masalah lebih ringkas.
+
+Lingkaran dan bentuk lengkung
+
+Lingkaran adalah himpunan titik yang berjarak sama dari satu pusat. Jari-jari, diameter, keliling, dan luas merupakan ukuran dasar yang sering muncul dalam desain benda, roda, pipa, dan komponen teknik. Persamaan lingkaran pada koordinat menunjukkan pusat dan jari-jari, sehingga dapat digunakan untuk memeriksa posisi titik atau perpotongan dengan garis.
+
+Bentuk lengkung lain seperti elips dan parabola memiliki sifat geometri yang berbeda. Elips dapat menggambarkan lintasan atau bentuk reflektor tertentu, sedangkan parabola muncul pada pemodelan gerak ideal dan desain antena. Penggunaan model harus memperhatikan asumsi. Bentuk nyata mungkin tidak sempurna dan pengaruh bahan, gaya, atau kondisi lingkungan dapat mengubah hasil.
+
+Transformasi geometri
+
+Transformasi memetakan titik atau bentuk ke posisi baru. Translasi menggeser, rotasi memutar, refleksi mencerminkan, dan dilatasi mengubah skala. Transformasi membantu memahami simetri, desain pola, grafika komputer, serta pergerakan objek. Perlu dibedakan transformasi yang mempertahankan jarak dan sudut dari transformasi yang mengubah ukuran.
+
+Komposisi transformasi berarti melakukan beberapa perubahan secara berurutan. Urutan dapat memengaruhi hasil, terutama ketika transformasi berbeda digabungkan. Menggambar contoh pada bidang koordinat membantu melihat akibat setiap langkah. Dalam aplikasi digital, matriks sering digunakan untuk menyatakan transformasi dan menggabungkannya secara sistematis.
+
+Kesebangunan dan skala
+
+Dua bangun sebangun memiliki bentuk sama dengan ukuran yang dapat berbeda. Sisi bersesuaian memiliki perbandingan yang sama dan sudut bersesuaian sama besar. Kesebangunan berguna dalam pembuatan model, peta, gambar teknik, dan estimasi tinggi atau jarak yang sulit diukur langsung.
+
+Skala harus ditulis dengan satuan yang konsisten. Skala 1:100 berarti satu satuan pada gambar mewakili seratus satuan yang sama di keadaan sebenarnya. Kesalahan konversi sentimeter, meter, dan milimeter dapat menghasilkan ukuran yang jauh meleset. Sebelum menghitung, tuliskan satuan setiap besaran dan periksa apakah hasil akhir masuk akal.
+
+Pengukuran dan ketidakpastian
+
+Setiap pengukuran memiliki ketidakpastian. Resolusi alat, cara membaca, kondisi lingkungan, kalibrasi, dan keterampilan pengguna memengaruhi hasil. Angka yang ditulis terlalu banyak digit dapat memberi kesan ketelitian yang tidak dimiliki alat. Hasil sebaiknya dilaporkan sesuai kemampuan pengukuran dan tujuan penggunaan.
+
+Kesalahan sistematis membuat hasil cenderung bergeser ke satu arah, misalnya akibat alat yang tidak terkalibrasi. Kesalahan acak menyebabkan variasi antar-pengukuran. Pengulangan dapat membantu memahami variasi acak, tetapi tidak otomatis memperbaiki bias sistematis. Kalibrasi dan prosedur yang konsisten diperlukan untuk mengendalikan sumber kesalahan.
+
+Angka penting dan pelaporan hasil
+
+Angka penting menunjukkan tingkat ketelitian yang layak dilaporkan. Aturan pembulatan bergantung pada operasi dan konteks pengukuran. Dalam perkalian atau pembagian, ketelitian hasil umumnya dibatasi oleh data yang paling tidak teliti. Dalam penjumlahan atau pengurangan, posisi desimal menjadi pertimbangan. Perhitungan antara sebaiknya menyimpan digit secukupnya agar pembulatan dini tidak memperbesar kesalahan.
+
+Satuan merupakan bagian dari hasil, bukan tambahan dekoratif. Analisis dimensi dapat memeriksa apakah persamaan konsisten. Jika sebuah perhitungan luas menghasilkan satuan panjang, berarti ada kesalahan dalam rumus atau substitusi. Pemeriksaan satuan sering menemukan kekeliruan sebelum hasil digunakan.
+
+Pengukuran tidak langsung
+
+Beberapa besaran diperoleh melalui model, bukan pengukuran langsung. Luas bidang dapat dihitung dari panjang yang diukur; tinggi objek dapat diperkirakan melalui sudut dan jarak; volume benda tidak beraturan dapat ditentukan dengan metode yang sesuai. Setiap metode membawa asumsi dan sumber ketidakpastian sendiri.
+
+Ketidakpastian besaran turunan dipengaruhi oleh ketidakpastian masukan. Jika panjang dan lebar sama-sama diukur, keduanya berkontribusi pada ketidakpastian luas. Untuk analisis yang lebih lanjut, aturan propagasi ketidakpastian dapat digunakan. Pada tahap dasar, ulangi pengukuran, catat rentang hasil, dan jelaskan asumsi agar pembaca memahami batas estimasi.
+
+Pemodelan dan pemecahan masalah
+
+Masalah geometri terapan sering dimulai dari situasi nyata yang perlu disederhanakan. Tentukan objek, besaran yang diketahui, besaran yang dicari, dan asumsi yang digunakan. Buat sketsa dengan label serta satuan. Pilih teorema atau rumus yang sesuai, lalu periksa apakah model menggambarkan situasi dengan cukup baik.
+
+Contoh proyek pengukuran ruang
+
+Ukur sebuah ruang kelas atau ruang belajar menggunakan alat ukur yang sesuai dan aman. Buat denah berskala, tandai pintu, jendela, dan objek tetap. Lakukan pengukuran ulang pada beberapa sisi untuk memeriksa konsistensi. Hitung luas lantai dan bandingkan dengan estimasi berdasarkan pembagian bentuk sederhana.
+
+Laporkan metode, alat, satuan, hasil, dan perkiraan ketidakpastian. Jika dinding tidak benar-benar tegak lurus atau ruang memiliki bentuk tidak beraturan, jelaskan pendekatan yang digunakan. Denah yang baik bukan hanya tampak rapi, tetapi juga memungkinkan orang lain memahami bagaimana ukuran diperoleh dan seberapa dapat diandalkan hasilnya.

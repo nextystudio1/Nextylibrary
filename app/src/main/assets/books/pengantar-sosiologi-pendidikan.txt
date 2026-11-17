@@ -343,3 +343,27 @@ LATIHAN DAN PROYEK
 5. Bedakan keluaran program dan hasil pendidikan.
 
 Proyek: analisis kebijakan pendidikan berdasarkan dokumen publik. Petakan tujuan, kelompok sasaran, sumber daya, potensi hambatan, dan indikator pemerataan. Susun evaluasi yang menggabungkan data kuantitatif dengan pengalaman peserta tanpa mengumpulkan identitas pribadi.
+
+PENDALAMAN: SEKOLAH, KESETARAAN, DAN PERUBAHAN SOSIAL
+
+Sekolah merupakan lembaga sosial yang berhubungan dengan keluarga, negara, dunia kerja, komunitas, dan media. Pengalaman pendidikan dibentuk bukan hanya oleh isi pelajaran, tetapi juga oleh aturan, pembagian sumber daya, hubungan antarwarga sekolah, serta harapan sosial terhadap peserta didik. Analisis sosiologis mengajak pembaca melihat bagaimana struktur tersebut membuka kesempatan bagi sebagian kelompok dan dapat menjadi hambatan bagi kelompok lain.
+
+Kesetaraan akses tidak sama dengan keseragaman perlakuan. Peserta didik memiliki kondisi awal, kebutuhan dukungan, bahasa, pengalaman, dan sumber daya keluarga yang berbeda. Kebijakan yang memberikan perlakuan identik belum tentu menghasilkan kesempatan yang setara. Karena itu, evaluasi perlu menanyakan siapa yang dapat memanfaatkan layanan, siapa yang tertinggal, hambatan apa yang dialami, dan apakah dukungan tambahan tersedia secara adil.
+
+Kurikulum tersembunyi merujuk pada norma dan kebiasaan yang dipelajari melalui kehidupan sekolah di luar materi resmi. Cara guru membagi perhatian, aturan berbicara, penghargaan terhadap jenis pengetahuan tertentu, dan gambaran tentang keberhasilan dapat menyampaikan pesan sosial. Norma tersebut dapat mendukung kerja sama dan tanggung jawab, tetapi juga dapat mengukuhkan stereotip jika tidak diperiksa secara kritis. Pengamatan perlu mempertimbangkan konteks dan tidak menyimpulkan niat seseorang hanya dari satu kejadian.
+
+Hubungan sekolah dan keluarga bersifat timbal balik. Komunikasi yang hanya berlangsung ketika muncul masalah dapat membuat keluarga merasa disalahkan atau tidak dilibatkan. Saluran komunikasi yang beragam, bahasa yang mudah dipahami, jadwal yang mempertimbangkan pekerjaan keluarga, serta sikap menghormati pengetahuan orang tua dapat memperkuat kemitraan. Sekolah juga perlu melindungi kerahasiaan informasi peserta didik dan membatasi akses hanya kepada pihak yang memiliki kebutuhan sah.
+
+Penilaian pendidikan memiliki fungsi yang berbeda. Penilaian formatif membantu proses belajar, sedangkan penilaian sumatif merangkum pencapaian pada periode tertentu. Satu nilai tes tidak menggambarkan seluruh kemampuan, pengalaman, kreativitas, atau kondisi peserta didik. Instrumen penilaian dapat mengandung bias bahasa, akses perangkat, atau kesesuaian konteks. Hasil sebaiknya ditafsirkan bersama informasi lain dan tidak digunakan untuk membuat kesimpulan luas tanpa dasar.
+
+Teknologi pendidikan dapat memperluas akses materi, tetapi manfaatnya bergantung pada konektivitas, perangkat, kemampuan pengguna, aksesibilitas, dan dukungan pengajar. Pengumpulan data pembelajaran juga menimbulkan tanggung jawab privasi. Sekolah perlu mengetahui data apa yang dikumpulkan, untuk tujuan apa, berapa lama disimpan, dan siapa yang dapat mengaksesnya. Penggunaan teknologi seharusnya menjawab kebutuhan pembelajaran yang jelas, bukan sekadar mengikuti tren.
+
+Studi kasus: sebuah sekolah ingin meningkatkan partisipasi membaca. Tim tidak langsung menganggap peserta kurang berminat. Mereka memeriksa ketersediaan buku, bahasa koleksi, waktu membaca, kenyamanan ruang, dukungan keluarga, dan akses bagi peserta berkebutuhan berbeda. Solusi kemudian diuji bersama peserta didik dan dievaluasi melalui peminjaman, percakapan kelompok, serta pengamatan penggunaan ruang. Data angka dilengkapi pengalaman peserta agar perubahan tidak dinilai hanya dari satu ukuran.
+
+LATIHAN PENDALAMAN
+1. Berikan contoh aturan sekolah yang dapat memiliki dampak berbeda bagi kelompok peserta didik.
+2. Bedakan kesamaan perlakuan dan kesetaraan kesempatan.
+3. Rancang komunikasi sekolah-keluarga yang inklusif.
+4. Jelaskan keterbatasan penggunaan satu nilai tes untuk menilai kemampuan.
+5. Buat evaluasi program membaca yang menggabungkan data kuantitatif dan pengalaman peserta.
+

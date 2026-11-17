@@ -282,3 +282,34 @@ LATIHAN
 4. Apa risiko sumbu grafik yang dipotong?
 5. Bagaimana mengubah kritik selera menjadi evaluasi berbasis tujuan?
 
+BAB LANJUTAN. SISTEM IDENTITAS DAN KONSISTENSI MEREK
+
+Identitas visual adalah sistem tanda yang membantu orang mengenali organisasi, layanan, atau kegiatan. Logo hanya salah satu unsur. Sistem yang utuh dapat mencakup warna, tipografi, ilustrasi, fotografi, ikon, tata letak, nada bahasa, dan aturan penggunaan. Konsistensi berarti unsur-unsur tersebut bekerja dengan prinsip yang sama, bukan bahwa setiap media harus terlihat persis seragam. Poster acara, halaman aplikasi, dan laporan dapat memiliki kebutuhan berbeda tetapi tetap terasa berasal dari satu sistem.
+
+Sebelum merancang identitas, kumpulkan informasi tentang tujuan organisasi, audiens, konteks penggunaan, nilai yang ingin disampaikan, dan pembeda yang benar-benar relevan. Hindari membuat klaim visual yang tidak sesuai kenyataan. Organisasi pendidikan, misalnya, sebaiknya tidak memakai simbol yang memberi kesan sertifikasi resmi jika tidak memilikinya. Riset juga perlu memeriksa kemungkinan kemiripan dengan identitas lain agar tidak menimbulkan kebingungan.
+
+Panduan identitas sebaiknya memuat versi logo, ruang aman, ukuran minimum, latar yang diperbolehkan, pasangan tipografi, palet warna, dan contoh penerapan. Sertakan contoh penggunaan yang keliru agar tim memahami batasnya. Berkas sumber perlu disimpan dalam format yang dapat diedit, disertai format ekspor untuk kebutuhan layar dan cetak. Nama versi dan catatan perubahan mencegah penggunaan aset lama secara tidak sengaja.
+
+BAB LANJUTAN. DESAIN ANTARMUKA DAN INFORMASI DIGITAL
+
+Antarmuka digital menghubungkan tujuan pengguna dengan fungsi sistem. Perancang perlu memetakan tugas utama, urutan tindakan, informasi yang harus terlihat, dan kondisi ketika terjadi kesalahan. Tombol harus menggunakan label yang menjelaskan tindakan, bukan istilah internal tim. Umpan balik setelah tindakan membantu pengguna memahami apakah sistem sedang memproses, berhasil, atau membutuhkan perbaikan.
+
+Hierarki visual dapat dibangun melalui ukuran, posisi, jarak, kontras, dan pengelompokan. Elemen penting tidak selalu harus paling besar; posisi yang konsisten dan label yang jelas juga dapat membantu. Hindari mengandalkan warna saja untuk membedakan status karena sebagian pengguna memiliki keterbatasan persepsi warna atau memakai layar dengan kondisi berbeda. Gunakan teks, bentuk, dan ikon pendamping.
+
+Desain responsif mempertimbangkan variasi ukuran layar, orientasi, kepadatan informasi, dan metode masukan. Komponen yang nyaman dengan tetikus belum tentu mudah disentuh pada ponsel. Teks perlu dapat diperbesar, area interaksi cukup mudah dijangkau, dan urutan fokus harus masuk akal bagi pengguna papan ketik atau pembaca layar. Pengujian aksesibilitas sebaiknya dilakukan sejak prototipe, bukan setelah produk selesai.
+
+BAB LANJUTAN. LISENSI, ETIKA, DAN PENGELOLAAN ASET
+
+Desainer bertanggung jawab memastikan aset yang digunakan memiliki izin yang sesuai. Foto, huruf, ilustrasi, ikon, dan musik dapat memiliki ketentuan lisensi berbeda. Catat pencipta, sumber, versi lisensi, kewajiban atribusi, dan batas penggunaan. Aset yang ditemukan melalui mesin pencari tidak otomatis bebas digunakan. Jika status izin tidak jelas, pilih aset yang dibuat sendiri atau yang ketentuan penggunaannya dapat diverifikasi.
+
+Representasi visual juga memiliki dampak sosial. Hindari stereotip, penggunaan simbol budaya tanpa konteks, dan penggambaran kelompok secara sempit. Libatkan orang yang memahami konteks ketika materi menyangkut komunitas tertentu. Dalam visualisasi data, jangan menghilangkan kategori yang membuat hasil terlihat lebih sederhana tetapi menutupi pengalaman kelompok kecil.
+
+LATIHAN
+1. Mengapa identitas visual lebih luas daripada logo?
+2. Apa yang harus ada dalam panduan identitas?
+3. Berikan contoh umpan balik antarmuka yang membantu pengguna.
+4. Mengapa warna tidak boleh menjadi satu-satunya penanda?
+5. Informasi apa yang perlu dicatat untuk setiap aset berlisensi?
+
+PROYEK
+Rancang identitas visual untuk layanan informasi sekolah. Buat brief, tiga alternatif konsep, sistem tipografi dan warna, contoh poster, serta satu layar antarmuka. Uji keterbacaan pada ukuran kecil dan besar. Sertakan daftar aset dan status izinnya.

@@ -318,3 +318,34 @@ LATIHAN BAB
 3. Sebutkan langkah kota untuk mengurangi dampak pulau panas.
 4. Apa yang dimaksud transisi energi yang adil?
 5. Susun tiga indikator untuk mengevaluasi rencana adaptasi banjir.
+
+BAB PENDALAMAN: ATRIBUSI DAN BUKTI PERUBAHAN IKLIM
+
+Iklim menggambarkan pola statistik cuaca dalam jangka panjang, sedangkan cuaca menggambarkan keadaan atmosfer pada waktu dan tempat tertentu. Satu hari dingin tidak membantah tren pemanasan jangka panjang, sebagaimana satu hari panas tidak sendirian membuktikan perubahan iklim. Analisis iklim menggunakan pengamatan berulang, rekonstruksi masa lalu, dan pemodelan untuk mengenali pola serta penyebabnya.
+
+Atribusi iklim membandingkan pengaruh berbagai faktor, termasuk gas rumah kaca, aerosol, perubahan penggunaan lahan, variasi Matahari, dan variasi alami sistem iklim. Bukti berasal dari pola suhu atmosfer dan laut, perubahan es, kenaikan muka laut, serta karakteristik pemanasan yang sesuai dengan mekanisme fisika. Kekuatan kesimpulan meningkat ketika beberapa jenis bukti independen saling mendukung.
+
+BAB PENDALAMAN: SKENARIO, PROYEKSI, DAN KETIDAKPASTIAN
+
+Proyeksi iklim bersifat kondisional terhadap jalur emisi, kebijakan, perubahan teknologi, dan asumsi sosial ekonomi. Skenario bukan ramalan tunggal yang pasti terjadi. Perbedaan hasil model dapat muncul karena sensitivitas iklim, proses awan, sirkulasi laut, dan resolusi. Rentang proyeksi membantu perencanaan menghadapi beberapa kemungkinan.
+
+Ketidakpastian tidak berarti pengetahuan tidak berguna. Beberapa arah perubahan telah didukung kuat, sementara besarnya dampak lokal dapat memiliki rentang lebih lebar. Keputusan adaptasi perlu mempertimbangkan konsekuensi jika skenario lebih buruk terjadi, biaya penyesuaian, dan kemungkinan memperbarui rencana ketika data baru tersedia.
+
+BAB PENDALAMAN: RISIKO IKLIM DAN KERENTANAN SOSIAL
+
+Risiko iklim muncul dari interaksi bahaya, paparan, dan kerentanan. Bahaya dapat berupa banjir, kekeringan, gelombang panas, atau kenaikan muka laut. Paparan menunjukkan manusia dan aset yang berada di lokasi terdampak. Kerentanan dipengaruhi kondisi kesehatan, pendapatan, kualitas bangunan, akses informasi, dan kemampuan pulih.
+
+Dua wilayah dengan bahaya serupa dapat mengalami dampak berbeda karena infrastruktur dan kapasitas sosialnya tidak sama. Peta risiko perlu dibaca bersama informasi penduduk, layanan penting, dan ketimpangan akses. Kelompok yang paling terdampak sering memiliki kontribusi emisi historis yang kecil, sehingga keadilan menjadi bagian penting dalam kebijakan iklim.
+
+BAB PENDALAMAN: ADAPTASI BERBASIS EKOSISTEM DAN INFRASTRUKTUR
+
+Adaptasi mencakup tindakan untuk mengurangi dampak yang sudah terjadi maupun yang diperkirakan. Restorasi lahan basah, perlindungan mangrove, ruang hijau kota, dan pemulihan daerah aliran sungai dapat memberikan manfaat perlindungan sekaligus mendukung keanekaragaman hayati. Keberhasilannya bergantung pada kondisi ekologi dan keterlibatan masyarakat.
+
+Infrastruktur fisik seperti drainase, waduk, dan perlindungan pantai perlu dirancang dengan data risiko jangka panjang. Infrastruktur abu-abu dapat memberi perlindungan, tetapi berpotensi memindahkan risiko ke wilayah lain jika dirancang tanpa pendekatan sistem. Kombinasi solusi berbasis alam dan rekayasa dapat lebih sesuai pada beberapa konteks.
+
+BAB PENDALAMAN: MITIGASI, TRANSISI, DAN EVALUASI
+
+Mitigasi mengurangi emisi atau meningkatkan penyerapannya. Pilihan mencakup efisiensi energi, energi rendah karbon, elektrifikasi, perlindungan ekosistem, perubahan proses industri, dan pengurangan limbah. Setiap pilihan perlu dinilai berdasarkan emisi sepanjang siklus hidup, kebutuhan lahan, keandalan, biaya, serta dampak sosial.
+
+Transisi yang adil memperhatikan pekerja, rumah tangga berpendapatan rendah, masyarakat di wilayah penghasil energi, dan akses terhadap layanan. Program pelatihan, perlindungan pendapatan, dialog publik, dan investasi alternatif dapat membantu mengelola perubahan. Evaluasi kebijakan menggunakan indikator keluaran dan dampak, serta memeriksa apakah manfaat dan beban terbagi secara wajar.
+

@@ -202,3 +202,53 @@ LATIHAN PENDALAMAN
 3. Mengapa cadangan perlu diuji pemulihannya?
 4. Sebutkan unsur rencana respons insiden.
 5. Bagaimana memverifikasi pesan yang meminta tindakan mendesak?
+BAB 14. MODEL ANCAMAN UNTUK PENGGUNA DAN ORGANISASI KECIL
+
+Model ancaman adalah cara terstruktur untuk memahami apa yang perlu dilindungi, dari risiko apa, dan tindakan pencegahan mana yang paling masuk akal. Model ini tidak harus rumit. Mulailah dengan menentukan aset: akun, dokumen, foto, perangkat, akses kelas daring, atau data pelanggan. Setelah itu, identifikasi kemungkinan kejadian yang dapat mengganggu kerahasiaan, keutuhan, dan ketersediaan aset tersebut. Kerahasiaan berarti informasi hanya dibaca pihak yang berwenang; keutuhan berarti informasi tidak diubah tanpa izin; ketersediaan berarti informasi dapat digunakan ketika diperlukan.
+
+Contoh sederhana adalah akun belajar yang menyimpan tugas dan alamat surel pemulihan. Asetnya bukan hanya kata sandi, tetapi juga dokumen, identitas, dan akses ke layanan lain. Ancaman dapat berupa kata sandi yang digunakan ulang, perangkat tertinggal dalam keadaan terbuka, atau pesan palsu yang meminta kode masuk. Dampaknya berbeda: kehilangan akses, penyebaran informasi, atau perubahan tugas. Kontrol yang sesuai meliputi kata sandi unik, autentikasi tambahan, kunci layar, pencadangan, dan kebiasaan memeriksa permintaan yang tidak biasa.
+
+Penilaian risiko mempertimbangkan kemungkinan dan dampak, bukan sekadar daftar ancaman yang menakutkan. Risiko yang dampaknya besar dan cukup mungkin terjadi perlu mendapat perhatian lebih dahulu. Skala sederhana seperti rendah, sedang, dan tinggi dapat dipakai selama kriteria tiap tingkat dijelaskan. Hindari memberi angka yang tampak ilmiah jika tidak ada data untuk mendukungnya. Catat asumsi dan ketidakpastian, sebab penilaian dapat berubah ketika layanan, perangkat, atau pola penggunaan berubah.
+
+Model ancaman juga harus proporsional. Pengguna rumahan tidak memerlukan prosedur perusahaan yang rumit, tetapi tetap dapat membuat daftar aset, pemilik akun, metode pemulihan, dan salinan data. Organisasi kecil dapat menetapkan siapa yang berwenang mengakses dokumen, bagaimana akun pegawai yang keluar dinonaktifkan, dan kepada siapa insiden dilaporkan. Pembagian tanggung jawab mengurangi kebingungan saat masalah terjadi.
+
+LATIHAN BAB 14
+1. Jelaskan perbedaan kerahasiaan, keutuhan, dan ketersediaan menggunakan contoh akun belajar.
+2. Susun daftar tiga aset digital dan satu risiko utama untuk setiap aset.
+3. Mengapa kemungkinan dan dampak perlu dinilai secara terpisah?
+4. Berikan contoh kontrol yang proporsional bagi keluarga atau organisasi kecil.
+5. Informasi apa yang perlu ditinjau ulang ketika model ancaman sudah tidak sesuai?
+
+BAB 15. ENKRIPSI, SERTIFIKAT, DAN KOMUNIKASI TEpercaya
+
+Enkripsi mengubah informasi menjadi bentuk yang tidak mudah dibaca tanpa kunci yang sesuai. Dalam penggunaan sehari-hari, enkripsi membantu melindungi data saat disimpan maupun saat dikirim melalui jaringan. Enkripsi tidak otomatis membuat seluruh kegiatan aman. Perangkat yang sudah terbuka, akun yang diambil alih, atau penerima yang salah tetap dapat menyebabkan kebocoran. Karena itu, enkripsi harus dipahami sebagai salah satu lapisan perlindungan, bukan jaminan mutlak.
+
+Pada komunikasi melalui situs, protokol aman membantu melindungi pertukaran data antara perangkat dan layanan serta memungkinkan pemeriksaan identitas server melalui sertifikat digital. Indikator koneksi aman pada peramban menunjukkan bahwa sambungan menggunakan mekanisme perlindungan tertentu; indikator itu bukan bukti bahwa isi situs jujur atau bebas penipuan. Situs palsu pun dapat menggunakan sambungan terenkripsi. Pengguna tetap perlu memeriksa nama domain dan memastikan bahwa layanan yang dibuka memang layanan yang dimaksud.
+
+Kunci kriptografi harus dikelola dengan hati-hati. Kunci privat tidak boleh dibagikan, sedangkan kunci publik memang dirancang untuk dapat diberikan kepada pihak lain dalam sistem yang sesuai. Kehilangan kunci dapat membuat data tidak dapat dipulihkan; kebocoran kunci dapat memungkinkan pihak lain membaca atau menyamar. Pengguna umum sebaiknya mengandalkan fitur keamanan bawaan dari layanan tepercaya dan mengikuti panduan resmi, bukan mencoba merancang algoritma sendiri.
+
+Tanda tangan digital dapat membantu memeriksa keaslian dan integritas dokumen. Tanda tangan digital bukan gambar tanda tangan yang ditempel pada halaman. Ia menggunakan mekanisme kriptografi untuk menghubungkan dokumen dengan kunci penanda tangan. Keabsahan tetap bergantung pada pengelolaan kunci, identitas, dan aturan penerbitan sertifikat. Saat menerima dokumen penting, periksa sumber, konteks, dan prosedur verifikasinya.
+
+LATIHAN BAB 15
+1. Mengapa enkripsi tidak cukup jika perangkat penerima telah dikuasai pihak lain?
+2. Apa perbedaan fungsi kunci publik dan kunci privat?
+3. Mengapa ikon koneksi aman tidak membuktikan bahwa sebuah toko daring dapat dipercaya?
+4. Jelaskan fungsi tanda tangan digital terhadap integritas dokumen.
+5. Sebutkan dua keadaan ketika pengguna sebaiknya meminta bantuan pengelola layanan.
+
+BAB 16. KEAMANAN DAN TANGGUNG JAWAB DATA
+
+Pengelolaan data yang bertanggung jawab dimulai sebelum data dikumpulkan. Tentukan tujuan yang jelas, kumpulkan hanya informasi yang benar-benar diperlukan, jelaskan penggunaan kepada orang yang bersangkutan, dan batasi siapa yang dapat mengaksesnya. Menyimpan semua data “untuk berjaga-jaga” meningkatkan dampak jika terjadi kebocoran. Jadwal retensi membantu menentukan kapan data perlu dihapus atau dianonimkan sesuai kewajiban dan kebutuhan yang sah.
+
+Data anak, data kesehatan, lokasi, identitas, dan informasi keuangan memerlukan perhatian khusus karena penyalahgunaannya dapat menimbulkan dampak nyata. Dalam kegiatan sekolah, misalnya, daftar nilai tidak seharusnya dibagikan melalui tautan publik. Guru dan pengelola sistem perlu memilih sarana yang memiliki pengaturan akses, sedangkan siswa perlu menghindari mengunggah dokumen teman tanpa izin. Prinsip kehati-hatian berlaku baik untuk platform besar maupun grup percakapan kecil.
+
+Persetujuan bukan sekadar menekan tombol “setuju”. Informasi yang diberikan harus dapat dipahami, tujuan penggunaan harus spesifik, dan pilihan pengguna harus dihormati sesuai ketentuan yang berlaku. Persetujuan juga tidak membenarkan pengumpulan data berlebihan atau pengamanan yang buruk. Pengelola layanan perlu menyediakan cara untuk mengajukan koreksi atau pertanyaan mengenai data yang disimpan.
+
+Jika data diduga bocor, jangan menyebarkan salinan data untuk membuktikan kejadian. Laporkan melalui jalur resmi, catat waktu dan konteks, serta ikuti arahan pihak yang berwenang. Pemberitahuan kepada pihak terdampak perlu dilakukan secara jelas dan tidak menyalahkan korban. Evaluasi setelah insiden sebaiknya menghasilkan perbaikan kebijakan, pengaturan akses, pelatihan, dan pemantauan.
+
+LATIHAN BAB 16
+1. Apa manfaat prinsip pengumpulan data seminimal mungkin?
+2. Berikan contoh data sekolah yang tidak boleh dibagikan secara publik.
+3. Mengapa persetujuan tidak menggantikan kewajiban menjaga keamanan?
+4. Apa perbedaan penghapusan data dan pembatasan akses?
+5. Susun lima aturan sederhana untuk melindungi data anggota komunitas belajar.

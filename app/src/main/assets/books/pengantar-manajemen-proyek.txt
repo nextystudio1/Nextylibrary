@@ -223,3 +223,53 @@ LATIHAN PENDALAMAN
 3. Sebutkan unsur register risiko.
 4. Mengapa adopsi pengguna perlu direncanakan sejak awal?
 5. Apa saja yang harus dipastikan dalam serah terima proyek?
+BAB 18. PENYUSUNAN KASUS BISNIS DAN ANALISIS ALTERNATIF
+
+Kasus bisnis menjelaskan alasan suatu proyek layak dipertimbangkan. Dokumen ini menghubungkan masalah atau peluang dengan manfaat yang diharapkan, biaya, risiko, pilihan solusi, dan konsekuensi jika tidak bertindak. Kasus bisnis bukan pembenaran untuk keputusan yang sudah dibuat. Ia harus membuka ruang untuk membandingkan beberapa alternatif, termasuk memperbaiki proses yang ada atau tidak menjalankan proyek.
+
+Mulailah dengan merumuskan masalah berdasarkan bukti. Pernyataan “sistem lama buruk” terlalu umum. Pernyataan yang lebih berguna menjelaskan proses yang lambat, tingkat kesalahan, kelompok yang terdampak, dan data pendukung. Setelah itu, susun pilihan yang realistis. Setiap alternatif dinilai dengan kriteria yang sama, misalnya manfaat, biaya total, waktu, risiko, kemudahan adopsi, keamanan, dan kemampuan pemeliharaan.
+
+Manfaat dapat bersifat finansial maupun nonfinansial. Penghematan waktu, akses layanan yang lebih baik, pengurangan kesalahan, atau peningkatan transparansi dapat menjadi manfaat penting. Namun, manfaat perlu memiliki indikator dan pemilik yang bertanggung jawab mengukurnya. Hindari menghitung manfaat yang sama dua kali atau menganggap semua dampak dapat dinyatakan dalam uang.
+
+Analisis sensitivitas menguji apakah keputusan berubah ketika asumsi berubah. Misalnya, bagaimana jika biaya lisensi naik, jumlah pengguna lebih rendah, atau jadwal implementasi mundur? Rentang skenario membantu pengambil keputusan memahami ketidakpastian. Rekomendasi akhir perlu menyebut asumsi, keterbatasan data, dan kondisi yang dapat membuat pilihan perlu ditinjau kembali.
+
+LATIHAN BAB 18
+1. Apa fungsi kasus bisnis dalam siklus proyek?
+2. Mengapa alternatif “tidak melakukan proyek” perlu dipertimbangkan?
+3. Berikan contoh manfaat nonfinansial yang dapat diukur.
+4. Apa tujuan analisis sensitivitas?
+5. Susun empat kriteria untuk membandingkan solusi sistem perpustakaan.
+
+BAB 19. PENGELOLAAN PORTOFOLIO DAN PRIORITAS
+
+Organisasi sering memiliki lebih banyak usulan proyek daripada sumber daya yang tersedia. Pengelolaan portofolio membantu memilih kombinasi proyek yang paling mendukung tujuan organisasi, dengan mempertimbangkan manfaat, risiko, kapasitas, ketergantungan, dan batas anggaran. Proyek yang menarik secara terpisah belum tentu menjadi pilihan terbaik jika semuanya membutuhkan tenaga ahli yang sama pada waktu bersamaan.
+
+Prioritas tidak seharusnya hanya ditentukan oleh pihak yang paling keras meminta. Kriteria perlu disepakati, misalnya kesesuaian strategi, urgensi, dampak pengguna, kewajiban kepatuhan, biaya total, risiko, dan kesiapan pelaksanaan. Bobot kriteria harus dijelaskan. Skor dapat membantu diskusi, tetapi tidak menggantikan pertimbangan karena angka bergantung pada asumsi dan penilaian manusia.
+
+Peta ketergantungan menunjukkan proyek yang harus selesai lebih dahulu atau berbagi infrastruktur. Penundaan satu proyek dapat memengaruhi proyek lain. Portofolio juga perlu seimbang antara inisiatif baru, pemeliharaan, peningkatan keamanan, dan penggantian sistem lama. Mengabaikan pemeliharaan dapat menciptakan risiko yang lebih besar di kemudian hari.
+
+Tinjauan portofolio dilakukan berkala. Proyek dapat dilanjutkan, diubah, ditunda, atau dihentikan jika bukti baru menunjukkan manfaat tidak lagi sebanding dengan biaya. Menghentikan proyek bukan selalu kegagalan; keputusan tersebut dapat menjadi bentuk pengelolaan sumber daya yang bertanggung jawab. Pembelajaran dari proyek yang dihentikan perlu didokumentasikan.
+
+LATIHAN BAB 19
+1. Mengapa organisasi perlu mengelola proyek sebagai portofolio?
+2. Sebutkan lima kriteria prioritas yang dapat digunakan.
+3. Apa risiko jika seluruh proyek membutuhkan keahlian yang sama pada waktu bersamaan?
+4. Mengapa portofolio perlu memuat proyek pemeliharaan?
+5. Dalam keadaan apa proyek sebaiknya ditinjau untuk dihentikan?
+
+BAB 20. PENGUKURAN MANFAAT SETELAH PROYEK
+
+Keberhasilan proyek tidak berhenti ketika produk diserahkan. Manfaat sering baru terlihat setelah solusi digunakan dalam kegiatan sehari-hari. Karena itu, rencana realisasi manfaat perlu menentukan indikator, kondisi awal, target, waktu pengukuran, sumber data, dan pemilik manfaat. Tim proyek dapat membangun sistem, tetapi pemilik proses operasional biasanya bertanggung jawab memastikan perubahan benar-benar digunakan.
+
+Kondisi awal atau baseline diperlukan agar perubahan dapat dibandingkan. Jika waktu layanan sebelum proyek tidak pernah diukur, klaim bahwa sistem baru mempercepat layanan akan sulit diverifikasi. Baseline harus menggunakan definisi dan metode yang konsisten dengan pengukuran setelah peluncuran. Faktor lain seperti perubahan jumlah pengguna atau musim kegiatan juga perlu dicatat.
+
+Manfaat dapat muncul bertahap. Pada awal penggunaan, produktivitas mungkin menurun karena pengguna sedang belajar. Setelah pelatihan dan penyesuaian, hasil dapat membaik. Evaluasi perlu memilih waktu yang masuk akal dan tidak menarik kesimpulan terlalu cepat. Umpan balik pengguna membantu menjelaskan angka yang berubah, sementara data kuantitatif membantu menguji apakah kesan tertentu berlaku lebih luas.
+
+Jika manfaat tidak tercapai, lakukan analisis penyebab. Apakah solusi tidak sesuai kebutuhan, pelatihan kurang, proses lama tetap digunakan, atau ada hambatan akses? Tindakan perbaikan dapat berupa penyederhanaan alur, pelatihan tambahan, perubahan kebijakan, atau penyesuaian teknologi. Pelajaran perlu dicatat untuk keputusan proyek berikutnya.
+
+LATIHAN BAB 20
+1. Mengapa baseline perlu dibuat sebelum proyek berjalan?
+2. Siapa yang sebaiknya memiliki tanggung jawab atas manfaat operasional?
+3. Mengapa evaluasi terlalu cepat dapat menyesatkan?
+4. Sebutkan data kualitatif dan kuantitatif yang dapat dipakai menilai adopsi.
+5. Buat rencana pengukuran manfaat untuk proyek katalog digital.

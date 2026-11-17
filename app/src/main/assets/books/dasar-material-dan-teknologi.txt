@@ -275,3 +275,33 @@ LATIHAN BAB 16
 3. Jelaskan bagaimana toleransi beberapa komponen dapat terakumulasi.
 4. Sebutkan faktor dalam memilih jenis sambungan.
 5. Berikan dua contoh keputusan desain yang memudahkan perawatan.
+
+BAB 17. PEMILIHAN MATERIAL BERBASIS KINERJA DAN SIKLUS HIDUP
+
+Pemilihan material merupakan keputusan multikriteria. Kekuatan dan kekakuan penting, tetapi bukan satu-satunya pertimbangan. Massa, ketahanan aus, korosi, kemampuan dibentuk, ketersediaan, biaya, keselamatan, dan dampak lingkungan dapat sama pentingnya. Persyaratan harus diturunkan dari fungsi komponen dan kondisi pemakaian. Material untuk lingkungan lembap, misalnya, perlu dinilai berbeda dari material untuk ruang kering dengan beban ringan.
+
+Metode penyaringan membantu mengurangi pilihan. Tahap pertama dapat menetapkan batas minimum, seperti suhu kerja atau kekuatan tertentu. Tahap berikutnya membandingkan kandidat yang lolos menggunakan beberapa kriteria berbobot. Bobot harus dijelaskan karena keputusan dapat berubah jika prioritas berubah. Analisis sensitivitas berguna untuk melihat apakah pilihan tetap sama ketika bobot atau perkiraan biaya sedikit berubah. Jangan menyajikan skor gabungan seolah-olah merupakan kebenaran mutlak; skor adalah alat bantu berdasarkan asumsi.
+
+Siklus hidup material dimulai dari ekstraksi bahan baku, pengolahan, produksi, distribusi, penggunaan, perawatan, hingga akhir masa pakai. Material yang ringan dapat mengurangi energi selama penggunaan, tetapi proses pembuatannya mungkin membutuhkan energi atau bahan kimia lebih besar. Karena itu, penilaian lingkungan perlu menentukan batas sistem dan satuan fungsi yang dibandingkan. Perbandingan dua material tidak adil jika satu dihitung untuk masa pakai panjang sedangkan yang lain hanya dihitung saat produksi.
+
+Ketahanan dan kemampuan diperbaiki dapat memperpanjang masa guna. Desain yang memakai komponen standar, sambungan yang dapat dibuka, dan petunjuk perawatan dapat mengurangi kebutuhan penggantian seluruh produk. Daur ulang juga dipengaruhi pemisahan material, kontaminasi, infrastruktur, dan nilai ekonomi bahan bekas. Label “dapat didaur ulang” tidak menjamin bahwa fasilitas setempat benar-benar menerima material tersebut.
+
+BAB 18. PENGUJIAN, KETIDAKPASTIAN, DAN JAMINAN MUTU
+
+Pengujian material harus menjawab pertanyaan yang jelas. Uji tarik, kekerasan, impak, kelelahan, dan korosi mengukur karakteristik berbeda. Hasil uji hanya berlaku dalam kondisi dan prosedur yang digunakan. Spesimen, persiapan permukaan, suhu, laju pembebanan, serta kalibrasi alat dapat memengaruhi hasil. Laporan perlu menyebut standar atau metode, jumlah sampel, kondisi pengujian, dan penyimpangan prosedur.
+
+Variasi antarspesimen merupakan hal yang perlu dianalisis, bukan disembunyikan. Nilai rata-rata dapat memberi gambaran pusat, sedangkan rentang dan simpangan baku membantu menunjukkan sebaran. Sampel yang sedikit membuat perkiraan ketidakpastian lebih besar. Jika hasil berbeda jauh dari perkiraan, periksa kemungkinan kesalahan alat, prosedur, pencatatan, atau variasi nyata pada material. Jangan menghapus hasil yang tidak sesuai hanya karena mengganggu kesimpulan.
+
+Jaminan mutu menghubungkan spesifikasi, pemasok, proses produksi, inspeksi, dan penanganan ketidaksesuaian. Ketertelusuran memungkinkan satu batch bahan dihubungkan dengan catatan pemeriksaan dan produk yang menggunakannya. Jika ditemukan cacat, organisasi dapat menentukan ruang lingkup masalah secara lebih tepat. Catatan yang baik juga membantu menemukan pola, misalnya cacat yang lebih sering muncul setelah pergantian pemasok atau perubahan proses.
+
+Keselamatan pengujian harus menjadi bagian dari perencanaan. Peralatan hanya digunakan oleh orang yang terlatih, dengan prosedur laboratorium dan perlindungan yang sesuai. Pengujian yang melibatkan suhu tinggi, tekanan, bahan kimia, atau energi besar memerlukan pengawasan dan fasilitas yang dirancang untuk itu. Pembelajaran dasar dapat menggunakan data contoh dan simulasi tanpa mencoba prosedur berbahaya secara mandiri.
+
+LATIHAN
+1. Mengapa pemilihan material harus mempertimbangkan siklus hidup?
+2. Apa fungsi analisis sensitivitas dalam pemilihan material?
+3. Mengapa metode dan kondisi uji harus dicatat?
+4. Apa manfaat ketertelusuran batch?
+5. Bagaimana membedakan variasi material dan kesalahan pengukuran?
+
+PROYEK
+Buat matriks pemilihan material untuk produk sederhana. Tentukan fungsi, kondisi kerja, batas minimum, dan kriteria lingkungan. Bandingkan tiga kelas material dengan asumsi yang dinyatakan. Akhiri dengan alasan pemilihan, risiko yang belum terjawab, serta rencana pengujian yang aman dan sesuai fasilitas.

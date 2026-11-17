@@ -273,3 +273,40 @@ LATIHAN BAB 20
 3. Mengapa evaluasi terlalu cepat dapat menyesatkan?
 4. Sebutkan data kualitatif dan kuantitatif yang dapat dipakai menilai adopsi.
 5. Buat rencana pengukuran manfaat untuk proyek katalog digital.
+
+BAB 21. PENGELOLAAN PERUBAHAN DAN ADOPSI HASIL PROYEK
+
+Perubahan yang dihasilkan proyek sering mengubah kebiasaan, pembagian tugas, atau alur persetujuan. Karena itu, keberhasilan teknis belum menjamin bahwa hasil akan digunakan. Pengelolaan perubahan dimulai dengan memahami siapa yang terdampak, apa yang berubah dalam pekerjaan mereka, dan dukungan apa yang dibutuhkan. Pemetaan pemangku kepentingan dapat membedakan pengguna harian, pengambil keputusan, pengelola sistem, pihak yang menyediakan data, dan kelompok yang menerima dampak tidak langsung.
+
+Analisis dampak perubahan menjelaskan kondisi sebelum dan sesudah proyek. Catat proses yang dihentikan, proses yang ditambahkan, tanggung jawab baru, kebutuhan keterampilan, serta risiko transisi. Perubahan kecil pada formulir dapat memengaruhi beberapa unit jika data yang sama dipakai untuk keputusan berbeda. Mengundang perwakilan pengguna sejak tahap desain membantu menemukan konsekuensi yang tidak terlihat oleh tim teknis.
+
+Komunikasi perubahan harus spesifik. Pengumuman bahwa “sistem baru akan meningkatkan efisiensi” tidak menjelaskan apa yang perlu dilakukan pengguna. Komunikasi yang berguna menyebutkan alasan perubahan, waktu penerapan, tindakan yang diharapkan, tempat meminta bantuan, serta cara menyampaikan masalah. Pesan perlu disesuaikan dengan peran penerima tanpa menyembunyikan risiko atau keterbatasan.
+
+Pelatihan sebaiknya berbasis tugas. Pengguna perlu mencoba alur yang benar-benar mereka lakukan, membaca panduan ringkas, dan mengetahui prosedur ketika sistem tidak tersedia. Sediakan masa transisi dan mekanisme umpan balik. Catat masalah berdasarkan tingkat dampak dan frekuensi, lalu prioritaskan perbaikan yang menghambat pekerjaan utama. Jangan menganggap rendahnya penggunaan selalu berarti pengguna menolak; mungkin sistem sulit diakses, tidak sesuai proses, atau belum menyediakan manfaat yang dijanjikan.
+
+LATIHAN BAB 21
+1. Mengapa pemetaan pihak terdampak perlu dilakukan sejak awal?
+2. Apa perbedaan komunikasi umum dan komunikasi berbasis peran?
+3. Mengapa pelatihan harus menggunakan tugas nyata?
+4. Sebutkan alasan rendahnya adopsi selain penolakan pengguna.
+5. Buat rencana dukungan dua minggu pertama setelah peluncuran.
+
+BAB 22. PENUTUPAN, SERAH TERIMA, DAN PEMBELAJARAN PROYEK
+
+Penutupan proyek adalah proses memastikan hasil, tanggung jawab, dokumen, dan kewajiban telah ditangani. Serah terima tidak cukup dengan menyerahkan berkas. Penerima perlu memahami fungsi, batas, cara pemeliharaan, jalur eskalasi, dan kondisi ketika bantuan tambahan dibutuhkan. Kriteria penerimaan harus disepakati sejak awal sehingga keputusan selesai atau belum selesai tidak bergantung pada kesan pribadi.
+
+Paket serah terima dapat mencakup ruang lingkup akhir, daftar fitur, catatan pengujian, panduan pengguna, arsitektur atau rancangan, daftar aset, hak penggunaan, daftar masalah yang belum selesai, serta kontak penanggung jawab. Untuk sistem digital, sertakan prosedur pencadangan, pemulihan, pembaruan, pengelolaan akses, dan pemantauan. Informasi rahasia tidak boleh disalin ke dokumen umum; gunakan mekanisme penyimpanan yang sesuai.
+
+Kontrak dan pengadaan perlu ditutup dengan pemeriksaan kewajiban, pembayaran, garansi, lisensi, dan penyelesaian sengketa jika ada. Sumber daya yang dipinjam atau disewa harus dikembalikan. Akses sementara perlu ditinjau dan dicabut bila tidak lagi diperlukan. Daftar masalah yang tersisa harus memiliki prioritas dan pemilik tindak lanjut, bukan disembunyikan demi laporan yang terlihat sempurna.
+
+Evaluasi pascaproyek meninjau apa yang berjalan baik, apa yang tidak, dan mengapa. Diskusi harus berfokus pada proses serta bukti, bukan mencari kambing hitam. Catatan pembelajaran menjadi berguna ketika dapat diterapkan pada proyek berikutnya. Ubah temuan menjadi tindakan, misalnya memperbaiki format estimasi, memperjelas persetujuan, atau menambah tahap uji pengguna. Tetapkan penanggung jawab dan tenggat agar pembelajaran tidak berhenti sebagai arsip.
+
+LATIHAN BAB 22
+1. Apa saja yang harus dipahami penerima saat serah terima?
+2. Mengapa daftar masalah tersisa perlu disertakan?
+3. Apa risiko akses sementara yang tidak dicabut?
+4. Bagaimana membedakan evaluasi proses dan menyalahkan individu?
+5. Susun daftar periksa penutupan proyek kecil.
+
+PROYEK AKHIR
+Rancang proyek peningkatan layanan perpustakaan sekolah. Buat piagam proyek, peta pemangku kepentingan, struktur pekerjaan, jadwal, anggaran perkiraan, daftar risiko, rencana komunikasi, kriteria penerimaan, dan rencana manfaat. Tambahkan rencana perubahan, pelatihan, serah terima, serta evaluasi. Jelaskan asumsi dan batas rancangan agar pembaca dapat menilai kelayakannya.

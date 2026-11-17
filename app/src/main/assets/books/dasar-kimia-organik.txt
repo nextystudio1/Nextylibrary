@@ -287,3 +287,36 @@ LATIHAN BAB
 3. Informasi apa yang dapat diberikan spektroskopi inframerah dan NMR?
 4. Sebutkan faktor yang memengaruhi sifat polimer.
 5. Mengapa klaim bahan ramah lingkungan perlu dinilai sepanjang siklus hidup?
+
+BAB PENDALAMAN: MEKANISME REAKSI DAN KESETIMBANGAN
+
+Mekanisme reaksi menjelaskan urutan perubahan ikatan yang menghubungkan pereaksi dan produk. Panah lengkung dalam notasi mekanisme menunjukkan perpindahan pasangan elektron, bukan pergerakan atom secara sembarang. Pemahaman distribusi elektron membantu menjelaskan mengapa suatu bagian molekul bertindak sebagai nukleofil atau elektrofil.
+
+Stabilitas relatif zat antara dipengaruhi resonansi, efek induktif, hibridisasi, dan lingkungan pelarut. Resonansi menggambarkan delokalisasi elektron melalui beberapa struktur kontribusi, bukan molekul yang berganti-ganti secara cepat di antara gambar. Struktur yang lebih stabil sering berpengaruh pada jalur reaksi, tetapi produk akhir juga ditentukan kondisi dan energi aktivasi.
+
+Kesetimbangan reaksi menunjukkan perbandingan aktivitas pereaksi dan produk pada keadaan setimbang. Katalis mempercepat tercapainya kesetimbangan dengan menyediakan jalur energi aktivasi lebih rendah, tetapi tidak mengubah posisi kesetimbangan. Perubahan suhu, tekanan untuk sistem gas, atau konsentrasi dapat menggeser komposisi setimbang sesuai prinsip Le Chatelier.
+
+BAB PENDALAMAN: STEREOKIMIA DAN FUNGSI BIOLOGIS
+
+Molekul dengan rumus dan keterhubungan atom yang sama dapat memiliki susunan ruang berbeda. Isomer geometris muncul karena pembatasan rotasi, sedangkan enantiomer merupakan pasangan bayangan cermin yang tidak dapat ditumpangtindihkan. Diastereomer bukan pasangan bayangan cermin dan dapat memiliki sifat fisik berbeda.
+
+Stereokimia penting dalam biologi karena protein, enzim, dan reseptor memiliki struktur tiga dimensi yang selektif. Dua enantiomer suatu senyawa dapat berinteraksi berbeda dengan sistem biologis. Karena itu, identitas stereokimia perlu dicantumkan ketika membahas sintesis, karakterisasi, atau aktivitas senyawa. Rumus struktur dua dimensi saja kadang tidak cukup menjelaskan perilaku molekul.
+
+BAB PENDALAMAN: SPEKTROSKOPI DAN IDENTIFIKASI SENYAWA
+
+Spektroskopi inframerah memberikan informasi tentang vibrasi ikatan dan membantu mengenali gugus fungsi. Pita serapan perlu dibaca bersama pola keseluruhan spektrum, bukan berdasarkan satu puncak saja. Lingkungan kimia, ikatan hidrogen, dan keadaan sampel dapat memengaruhi posisi serta bentuk pita.
+
+Spektroskopi resonansi magnetik nuklir memberikan informasi lingkungan inti atom tertentu. Pergeseran kimia, integrasi, dan pola pemisahan sinyal membantu menyusun dugaan struktur. Spektrometri massa memberikan informasi rasio massa terhadap muatan ion dan pola fragmentasi. Penggabungan beberapa teknik umumnya lebih kuat daripada mengandalkan satu metode.
+
+BAB PENDALAMAN: POLIMER DAN MATERIAL ORGANIK
+
+Polimer tersusun dari unit berulang yang terhubung menjadi rantai atau jaringan. Sifatnya dipengaruhi panjang rantai, distribusi massa molekul, percabangan, kristalinitas, ikatan silang, dan gaya antarmolekul. Polimer termoplastik dapat melunak ketika dipanaskan, sedangkan jaringan termoset memiliki ikatan silang yang membatasi aliran setelah terbentuk.
+
+Pemilihan material perlu mempertimbangkan fungsi, ketahanan, proses produksi, keselamatan, dan akhir masa pakai. Label dapat didaur ulang tidak menjamin suatu produk benar-benar didaur ulang di semua wilayah. Infrastruktur pemilahan, kontaminasi, nilai material, dan sistem pengumpulan menentukan hasil nyata.
+
+BAB PENDALAMAN: KESELAMATAN, ETIKA, DAN KIMIA HIJAU
+
+Kimia hijau mendorong rancangan proses yang mengurangi limbah, bahaya, penggunaan energi, dan kebutuhan bahan yang tidak terbarukan. Penilaian tidak cukup hanya melihat satu tahap reaksi. Pelarut, pemurnian, transportasi, umur pakai, dan pengolahan akhir juga dapat menyumbang dampak.
+
+Informasi bahaya harus dibaca dari label dan lembar data keselamatan yang sah. Bahan tidak boleh dicampur atau diuji berdasarkan dugaan. Kegiatan pembelajaran sebaiknya menggunakan simulasi atau demonstrasi yang dirancang dan diawasi tenaga kompeten. Praktik laboratorium menuntut prosedur, alat pelindung, ventilasi, dan pengelolaan limbah yang sesuai.
+

@@ -200,3 +200,53 @@ LATIHAN PENDALAMAN
 3. Apa perbedaan pengukuran massa partikel dan kedalaman optik aerosol?
 4. Mengapa indeks iklim tidak boleh diperlakukan sebagai prakiraan lokal langsung?
 5. Bedakan cuaca, variabilitas iklim, dan tren iklim jangka panjang.
+BAB LANJUTAN 4. KELISTRIKAN ATMOSFER DAN PETIR
+
+Atmosfer memiliki medan listrik yang berubah menurut kondisi awan, permukaan, dan distribusi muatan. Di dalam awan badai, tumbukan partikel es dan tetes air dapat membantu memisahkan muatan. Pemisahan ini membentuk medan listrik yang pada kondisi tertentu dapat memicu pelepasan muatan berupa petir. Proses mikrofisika awan sangat kompleks dan dipengaruhi suhu, kandungan air, arus naik, serta struktur awan.
+
+Petir merupakan fenomena listrik atmosfer yang berbahaya. Pemahaman ilmiah mengenai petir penting untuk prakiraan, keselamatan publik, dan desain sistem perlindungan bangunan. Ketika terdengar guntur, masyarakat perlu mengikuti panduan keselamatan resmi dan mencari tempat berlindung yang aman. Pengamatan ilmiah tidak boleh dilakukan dengan mendekati awan badai atau berada di tempat terbuka demi memperoleh data.
+
+Jaringan deteksi petir menggunakan sensor yang mengukur karakteristik gelombang elektromagnetik atau cahaya. Data dari beberapa sensor dapat digunakan untuk memperkirakan lokasi dan waktu kejadian. Akurasi dipengaruhi jarak sensor, kondisi propagasi sinyal, metode pemrosesan, dan kepadatan jaringan. Data petir berguna untuk analisis klimatologi badai, tetapi tidak dengan sendirinya menggambarkan seluruh intensitas hujan atau bahaya lokal.
+
+Informasi petir perlu dikomunikasikan dengan waktu pembaruan dan cakupan wilayah yang jelas. Peta yang menunjukkan titik sambaran masa lalu bukan jaminan bahwa area di luar titik itu aman. Risiko dapat berubah cepat. Sistem peringatan harus dipadukan dengan pesan tindakan yang mudah dipahami dan saluran penyebaran yang dapat diakses.
+
+LATIHAN BAB
+1. Bagaimana pemisahan muatan dapat terjadi di awan badai?
+2. Apa manfaat jaringan deteksi petir?
+3. Sebutkan keterbatasan data lokasi petir.
+4. Mengapa peta sambaran masa lalu bukan jaminan keamanan saat ini?
+5. Apa unsur penting dalam pesan peringatan petir?
+
+BAB LANJUTAN 5. KABUT, VISIBILITAS, DAN PROSES LAPISAN RENDAH
+
+Kabut adalah kumpulan tetes air kecil atau kristal es dekat permukaan yang mengurangi jarak pandang. Kabut dapat terbentuk ketika udara cukup lembap dan mendingin hingga mendekati titik embun, atau ketika udara lembap bergerak di atas permukaan yang lebih dingin. Kondisi angin, topografi, tutupan awan, dan karakter permukaan memengaruhi pembentukan serta peluruhannya.
+
+Kabut radiasi sering berkaitan dengan pendinginan permukaan pada malam yang relatif tenang dan langit cerah. Kabut adveksi terbentuk ketika udara lembap bergerak melewati permukaan yang lebih dingin. Klasifikasi ini membantu memahami mekanisme, tetapi kejadian nyata dapat melibatkan beberapa proses sekaligus. Pengamatan suhu, kelembapan, angin, dan profil vertikal membantu membedakan kondisi.
+
+Visibilitas juga dipengaruhi aerosol dan partikel pencemar. Kabut air dan kabut asap memiliki mekanisme berbeda meskipun keduanya dapat mengurangi jarak pandang. Pengamatan kelembapan relatif, konsentrasi partikel, dan karakter optik dapat membantu mengidentifikasi kondisi. Istilah dalam laporan operasional perlu digunakan secara konsisten agar tidak mencampur fenomena yang berbeda.
+
+Prakiraan kabut penting untuk transportasi dan kegiatan luar ruang. Informasi harus menyebut wilayah, periode, tingkat keyakinan, dan kemungkinan perubahan. Pengguna layanan perlu mengikuti arahan keselamatan dari otoritas terkait, bukan menafsirkan satu angka visibilitas tanpa memahami konteks operasional.
+
+LATIHAN BAB
+1. Apa yang dimaksud kabut secara meteorologis?
+2. Bedakan mekanisme kabut radiasi dan adveksi.
+3. Faktor apa yang memengaruhi peluruhan kabut?
+4. Mengapa kabut air dan kabut asap perlu dibedakan?
+5. Informasi apa yang perlu ada dalam peringatan visibilitas rendah?
+
+BAB LANJUTAN 6. PENGAMATAN CUACA BERBASIS KOMUNITAS
+
+Pengamatan komunitas dapat melengkapi jaringan resmi, terutama di wilayah yang jarang memiliki stasiun. Warga dapat mencatat hujan, kondisi awan, suhu dari alat yang sesuai, atau dampak cuaca yang terlihat. Pengamatan harus menggunakan definisi dan prosedur yang konsisten agar data dari banyak orang dapat dibandingkan.
+
+Instrumen sederhana memiliki keterbatasan. Penempatan alat dekat dinding, permukaan panas, pohon, atau sumber buatan dapat menghasilkan bias. Catatan lokasi, waktu, jenis alat, cara pemasangan, dan kondisi sekitar membantu peneliti menilai kualitas pengamatan. Kalibrasi dan pemeriksaan berkala juga penting.
+
+Data komunitas tidak seharusnya menggantikan pengamatan profesional untuk keputusan berisiko tinggi. Nilainya terletak pada tambahan cakupan, dokumentasi dampak, dan keterlibatan publik dalam memahami cuaca. Data perlu ditinjau untuk mendeteksi nilai tidak wajar, duplikasi, atau kesalahan waktu dan lokasi.
+
+Privasi dan keselamatan pengamat harus diperhatikan. Hindari meminta warga mendekati banjir, badai, petir, atau lokasi berbahaya untuk mengambil foto. Pelaporan dapat dilakukan dari tempat aman dan menggunakan kanal resmi. Data lokasi rumah atau individu juga perlu dibatasi jika tidak diperlukan untuk tujuan ilmiah.
+
+LATIHAN BAB
+1. Apa manfaat pengamatan cuaca berbasis komunitas?
+2. Mengapa penempatan instrumen memengaruhi kualitas data?
+3. Informasi metadata apa yang perlu dicatat?
+4. Mengapa data komunitas tidak menggantikan peringatan resmi?
+5. Bagaimana mengumpulkan dokumentasi cuaca tanpa membahayakan pengamat?

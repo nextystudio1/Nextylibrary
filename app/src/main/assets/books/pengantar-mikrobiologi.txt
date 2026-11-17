@@ -201,3 +201,36 @@ LATIHAN PENDALAMAN
 3. Bagaimana transfer gen horizontal memengaruhi evolusi mikroba?
 4. Mengapa data resistansi perlu dilengkapi metadata?
 5. Apa saja faktor yang menentukan keberhasilan bioremediasi?
+
+BAB LANJUTAN: MIKROBIOMA DAN KESEHATAN LINGKUNGAN
+
+Mikrobioma adalah komunitas mikroorganisme yang hidup pada suatu habitat, termasuk tubuh manusia, tanah, air, dan permukaan tumbuhan. Komunitas tersebut berinteraksi dengan lingkungan dan satu sama lain. Pada tubuh manusia, mikroorganisme tertentu membantu proses metabolisme dan berinteraksi dengan sistem imun. Dampaknya bergantung pada lokasi, komposisi komunitas, kondisi inang, dan lingkungan. Karena itu, tidak tepat menyebut seluruh mikroba sebagai kawan atau seluruhnya sebagai ancaman.
+
+Komunitas mikroba dapat berubah karena pola makan, penggunaan obat, sanitasi, paparan lingkungan, dan kondisi kesehatan. Perubahan komposisi tidak selalu berarti penyakit, tetapi dapat menjadi petunjuk yang perlu ditafsirkan bersama data klinis dan konteks. Satu sampel pada satu waktu tidak cukup untuk menyimpulkan sebab-akibat.
+
+Di lingkungan, mikroba berperan dalam daur karbon, nitrogen, sulfur, dan unsur lain. Pengurai mengembalikan unsur dari bahan organik ke lingkungan sehingga dapat digunakan kembali. Bakteri tertentu mengubah bentuk nitrogen yang tersedia bagi tumbuhan. Proses tersebut dipengaruhi oksigen, suhu, pH, kelembapan, dan ketersediaan substrat.
+
+BAB LANJUTAN: METODE PENGAMATAN DAN KETERBATASAN LABORATORIUM
+
+Mikroskop membantu mengamati bentuk dan susunan sel, tetapi tidak semua mikroorganisme mudah terlihat dengan mikroskop cahaya. Ukuran, pewarnaan, ketebalan sampel, pencahayaan, dan keterampilan pengamat memengaruhi hasil. Gambar mikroskop perlu dilengkapi skala, pembesaran, metode preparasi, dan informasi sampel agar dapat ditafsirkan.
+
+Kultur mikroba hanya menumbuhkan organisme yang mampu berkembang pada kondisi media dan lingkungan yang dipilih. Hasil kultur karena itu bukan gambaran lengkap seluruh komunitas. Metode molekuler dapat mendeteksi materi genetik, tetapi deteksi gen tidak selalu membuktikan bahwa organisme hidup atau sedang aktif. Setiap metode menjawab pertanyaan yang berbeda.
+
+Prinsip kendali mutu meliputi pencatatan sampel, kontrol yang sesuai, pengulangan, kalibrasi alat, dan dokumentasi penyimpangan. Hasil yang tidak sesuai harapan tidak boleh dihapus begitu saja. Catat kondisi eksperimen dan pertimbangkan apakah kegagalan berasal dari sampel, prosedur, alat, atau asumsi awal. Praktik laboratorium harus mengikuti aturan keselamatan, pengawasan, dan tingkat pelatihan yang berlaku.
+
+BAB LANJUTAN: RESISTANSI ANTIMIKROBA DAN PENDEKATAN SATU KESEHATAN
+
+Resistansi antimikroba terjadi ketika mikroorganisme memiliki sifat yang membuat obat antimikroba tidak lagi efektif seperti yang diharapkan. Resistansi dapat berkembang melalui mutasi dan perpindahan materi genetik. Penggunaan antimikroba yang tidak tepat dapat memberi tekanan seleksi, tetapi penyebaran resistansi juga dipengaruhi sanitasi, layanan kesehatan, peternakan, lingkungan, dan mobilitas manusia.
+
+Pendekatan Satu Kesehatan mengakui keterkaitan kesehatan manusia, hewan, tumbuhan, dan lingkungan. Pengawasan resistansi memerlukan data dari berbagai sektor dengan metode dan metadata yang dapat dibandingkan. Penggunaan obat harus mengikuti arahan tenaga kesehatan atau dokter hewan yang berwenang. Buku ini tidak memberikan petunjuk penggunaan obat atau penanganan mikroba berisiko.
+
+STUDI KASUS
+Sebuah wilayah menemukan peningkatan laporan infeksi yang sulit ditangani. Tim lintas sektor mengumpulkan data laboratorium, pola penggunaan antimikroba, praktik pencegahan infeksi, dan kondisi sanitasi. Data diperiksa agar tidak menghitung laporan ganda. Kesimpulan disampaikan dengan batasan yang jelas dan rekomendasi yang melibatkan fasilitas kesehatan serta pengelola lingkungan.
+
+LATIHAN
+1. Mengapa mikrobioma tidak dapat dinilai hanya sebagai baik atau buruk?
+2. Apa keterbatasan metode kultur?
+3. Mengapa deteksi materi genetik tidak selalu membuktikan organisme hidup?
+4. Bagaimana pendekatan Satu Kesehatan membantu pengawasan resistansi?
+5. Mengapa dokumentasi kontrol dan penyimpangan penting dalam penelitian?
+

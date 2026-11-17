@@ -263,3 +263,33 @@ LATIHAN BAB 20
 3. Sebutkan keadaan interaksi yang perlu didokumentasikan pada komponen tombol.
 4. Mengapa konsistensi tidak berarti semua halaman harus sama?
 5. Buat daftar isi dokumentasi singkat untuk sistem desain aplikasi pendidikan.
+
+BAB 21. DESAIN INFORMASI UNTUK PEMBELAJARAN
+
+Desain informasi mengatur bagaimana data, konsep, dan instruksi disusun agar pembaca dapat menemukan hubungan penting. Materi pembelajaran perlu membedakan tujuan utama, penjelasan pendukung, contoh, dan latihan. Jika semua elemen diberi penekanan sama, pembaca kesulitan mengetahui bagian mana yang harus diperhatikan terlebih dahulu. Hierarki dapat dibangun melalui judul yang bermakna, pengelompokan, ruang kosong, urutan, dan konsistensi pola.
+
+Diagram sebaiknya menjelaskan hubungan yang sulit diterangkan hanya dengan paragraf. Diagram proses menunjukkan urutan, peta konsep menunjukkan hubungan gagasan, tabel membandingkan atribut, dan diagram sebab-akibat membantu mengurai faktor. Jangan memilih bentuk visual hanya karena terlihat menarik. Tanyakan terlebih dahulu pertanyaan apa yang perlu dijawab pembaca, lalu pilih bentuk yang paling sesuai.
+
+Label dan keterangan harus menjelaskan simbol, satuan, arah, dan batas interpretasi. Panah dapat berarti urutan, aliran, atau hubungan sebab-akibat; maknanya harus dinyatakan. Garis penghubung yang terlalu banyak dapat membuat diagram sulit dibaca. Pecah informasi kompleks menjadi beberapa tampilan yang saling merujuk, tetapi pastikan pembaca tetap memahami konteks keseluruhannya.
+
+Contoh visual perlu akurat dan relevan. Ilustrasi yang menyederhanakan konsep tidak boleh menghilangkan bagian penting sehingga menghasilkan pemahaman keliru. Jika gambar tidak sesuai skala, beri keterangan. Jika warna hanya digunakan untuk membedakan kategori, sediakan label atau pola pendamping. Uji materi dengan meminta pembaca menjelaskan kembali informasi menggunakan kata-kata sendiri; keberhasilan bukan sekadar mereka mengatakan tampilannya bagus.
+
+BAB 22. FOTOGRAFI, ILUSTRASI, DAN NARASI VISUAL
+
+Fotografi merekam tampilan suatu keadaan, tetapi pilihan sudut, waktu, jarak, pencahayaan, dan pemotongan gambar memengaruhi pesan. Foto dokumentasi perlu mempertahankan konteks dan tidak mengubah makna melalui penyuntingan yang menyesatkan. Untuk penggunaan pendidikan, keterangan foto sebaiknya menjelaskan tempat, waktu, subjek, dan batas informasi yang dapat disimpulkan. Hindari menyimpulkan identitas atau keadaan seseorang dari gambar tanpa dasar yang sah.
+
+Ilustrasi dapat menjelaskan sesuatu yang tidak mudah difoto, seperti struktur, proses, atau gagasan abstrak. Gaya ilustrasi perlu konsisten dan sesuai usia serta konteks pembaca. Detail dekoratif sebaiknya tidak mengalahkan informasi. Ketika menggambarkan alat atau fenomena ilmiah, periksa ketepatan bentuk dan hubungan bagian. Ilustrasi konseptual perlu diberi label agar tidak disangka sebagai dokumentasi nyata.
+
+Narasi visual mengatur urutan gambar dan teks untuk membangun pemahaman. Dalam poster, pembaca biasanya melihat pesan utama sebelum rincian. Dalam tutorial, urutan langkah perlu mengikuti tindakan yang benar. Dalam laporan, gambar harus ditempatkan dekat dengan pembahasan yang menjelaskannya. Hindari membuat pembaca bolak-balik mencari keterangan yang terpisah jauh dari gambar.
+
+Etika visual meliputi persetujuan penggunaan foto, penghormatan terhadap martabat subjek, perlindungan informasi pribadi, dan kejujuran penyuntingan. Foto anak atau anggota komunitas memerlukan perhatian khusus terhadap izin dan tujuan penggunaan. Jangan menampilkan informasi sensitif pada layar, dokumen, atau latar foto. Simpan berkas sumber dengan akses terbatas sesuai kebutuhan.
+
+LATIHAN
+1. Bagaimana memilih bentuk diagram berdasarkan pertanyaan?
+2. Mengapa panah dan garis penghubung perlu diberi makna jelas?
+3. Apa perbedaan fungsi fotografi dan ilustrasi?
+4. Mengapa keterangan gambar penting?
+5. Sebutkan tiga pertimbangan etika saat menggunakan foto orang.
+
+PROYEK
+Buat satu lembar materi belajar yang memuat penjelasan, diagram, contoh, dan latihan. Uji kepada beberapa pembaca dengan meminta mereka menemukan informasi tertentu dan menjelaskan kembali konsep. Catat bagian yang membingungkan, lalu revisi hierarki dan keterangan visual.

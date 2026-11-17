@@ -212,3 +212,35 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Bedakan data nol dan data yang tidak tersedia.
 4. Mengapa rute terpendek belum tentu rute terbaik?
 5. Sebutkan metadata minimum yang perlu menyertai peta hasil analisis.
+
+BAB LANJUTAN: SISTEM KOORDINAT DAN KETIDAKPASTIAN POSISI
+
+Koordinat menyatakan posisi menurut sistem acuan tertentu. Lintang dan bujur digunakan pada sistem geografis, sedangkan koordinat proyeksi dapat menyatakan posisi dalam satuan linear seperti meter. Angka koordinat tanpa informasi sistem acuan belum cukup untuk memastikan lokasi. Dua lapisan data dapat tampak bergeser jika datum, zona, atau proyeksinya berbeda.
+
+Datum menghubungkan model matematis bumi dengan posisi di permukaan. Perbedaan datum dapat menghasilkan pergeseran koordinat, terutama ketika data lama dan baru digabungkan. Metadata harus mencatat sistem koordinat, datum, satuan, sumber, tanggal, dan metode pengumpulan. Jangan memperbaiki pergeseran dengan menggeser lapisan secara manual tanpa mengetahui penyebabnya.
+
+Setiap posisi memiliki ketidakpastian. Ketelitian perangkat, kondisi lingkungan, metode survei, dan kualitas peta dasar memengaruhi hasil. Menampilkan titik dengan banyak angka desimal tidak otomatis membuatnya akurat. Jumlah digit harus sejalan dengan ketelitian sumber.
+
+CONTOH KERJA
+Sebuah tim menggabungkan titik fasilitas umum dari survei lapangan dengan jaringan jalan dari sumber lain. Sebelum analisis, tim memeriksa sistem koordinat, satuan, tanggal pembaruan, dan definisi objek. Tim kemudian menguji beberapa titik yang mudah dikenali pada kedua sumber. Jika ada selisih, penyebabnya dicatat dan dampaknya terhadap hasil dijelaskan.
+
+BAB LANJUTAN: KUALITAS DATA SPASIAL
+
+Kualitas data mencakup kelengkapan, ketepatan posisi, konsistensi atribut, ketepatan waktu, dan kesesuaian dengan tujuan. Data yang sangat rinci belum tentu cocok untuk semua penggunaan. Peta jalur pejalan kaki membutuhkan informasi akses dan hambatan yang mungkin tidak tersedia dalam peta jalan kendaraan.
+
+Kesalahan topologi dapat berupa garis yang seharusnya tersambung tetapi terputus, poligon yang saling tumpang tindih tanpa alasan, atau batas yang memiliki celah. Pemeriksaan topologi membantu menemukan masalah tersebut. Namun aturan pemeriksaan perlu disesuaikan dengan fenomena. Dua wilayah administrasi memang dapat berbagi batas, sehingga garis yang berimpit bukan selalu kesalahan.
+
+Data hilang harus dibedakan dari nilai nol. Jika jumlah fasilitas pada suatu wilayah tercatat nol, itu berarti tidak ada fasilitas menurut definisi dan cakupan data. Jika datanya kosong, mungkin belum disurvei atau tidak tersedia. Mengubah semua nilai kosong menjadi nol dapat menghasilkan kesimpulan keliru.
+
+BAB LANJUTAN: ANALISIS JARINGAN DAN PELAYANAN PUBLIK
+
+Analisis jaringan memodelkan hubungan melalui ruas dan simpul. Rute tercepat bergantung pada bobot seperti waktu, jarak, biaya, atau hambatan. Jaringan harus mewakili akses yang benar-benar tersedia: jalan tertutup, jembatan, tangga, penyeberangan, dan jalur khusus dapat mengubah hasil.
+
+Analisis wilayah layanan dapat digunakan untuk mempelajari jangkauan sekolah, klinik, atau perpustakaan. Hasilnya bukan ukuran akses yang sempurna. Kapasitas fasilitas, biaya perjalanan, jadwal layanan, keselamatan, dan kebutuhan aksesibilitas juga berpengaruh. Peta perlu menyatakan asumsi dan tidak menyamakan kedekatan geografis dengan kemudahan memperoleh layanan.
+
+PROYEK PEMETAAN
+Buat peta fasilitas belajar di suatu wilayah menggunakan data yang boleh digunakan. Catat sumber dan tanggal setiap lapisan. Periksa sistem koordinat, kelengkapan atribut, dan kemungkinan data ganda. Buat legenda yang jelas, tampilkan area tanpa data secara berbeda dari area bernilai nol, dan tulis keterbatasan peta.
+
+LATIHAN DAN PEMBAHASAN
+Mengapa banyak angka desimal tidak menjamin ketelitian? Karena ketelitian ditentukan oleh metode dan sumber, bukan format angka. Mengapa data kosong tidak boleh langsung dianggap nol? Karena kosong dapat berarti belum diketahui. Mengapa rute terpendek belum tentu paling sesuai? Karena keselamatan, aksesibilitas, kondisi jaringan, dan biaya perlu dipertimbangkan.
+

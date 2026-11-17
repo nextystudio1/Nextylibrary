@@ -335,3 +335,50 @@ Liputan mendalam menggabungkan dokumen, wawancara, data, pengamatan, dan tanggap
 
 Sebelum terbit, lakukan pemeriksaan nama, angka, tanggal, kutipan, konteks, hak penggunaan materi, dan risiko keselamatan. Minta penyunting atau rekan yang tidak terlibat dalam pengumpulan data membaca naskah secara kritis. Naskah yang bertanggung jawab tidak berpura-pura mengetahui semua hal. Ia menyajikan bukti secara jelas, memberi ruang bagi konteks, dan menyatakan batas pengetahuan.
 
+BAB LANJUTAN: PELIPUTAN MENDALAM DAN VERIFIKASI
+
+Membangun pertanyaan liputan
+
+Liputan yang kuat dimulai dari pertanyaan yang jelas dan relevan bagi publik. Pertanyaan dapat menyangkut bagaimana keputusan dibuat, siapa yang terdampak, bukti apa yang tersedia, dan apa yang berubah dari waktu ke waktu. Hindari memulai dengan kesimpulan yang sudah ditetapkan. Susun daftar hal yang diketahui, belum diketahui, dan perlu diuji. Daftar ini menjaga reporter agar tidak hanya mencari kutipan yang mendukung dugaan awal.
+
+Rencana liputan memuat ruang lingkup, sumber potensial, dokumen, metode verifikasi, jadwal, serta risiko bagi narasumber. Sumber tidak harus selalu pejabat atau tokoh paling dikenal. Pengalaman pengguna layanan, pekerja lapangan, ahli, dokumen anggaran, dan data administratif dapat memberi sudut pandang berbeda. Namun, setiap sumber memiliki batas pengetahuan dan kepentingan yang perlu dipahami.
+
+Wawancara yang akurat dan adil
+
+Wawancara bukan sekadar mengumpulkan kalimat menarik. Reporter perlu menjelaskan tujuan percakapan, konteks penggunaan kutipan, dan apakah narasumber berbicara sebagai individu atau mewakili lembaga. Pertanyaan terbuka membantu narasumber menjelaskan proses. Pertanyaan tindak lanjut meminta contoh, tanggal, dokumen, atau penjelasan istilah. Pertanyaan yang mengandung tuduhan sebaiknya didukung bukti dan disampaikan secara hati-hati.
+
+Catatan wawancara perlu membedakan kutipan langsung, parafrasa, dan interpretasi reporter. Rekaman hanya dilakukan dengan memperhatikan persetujuan dan aturan yang berlaku. Jika narasumber meminta koreksi fakta, periksa klaim tersebut tanpa memberikan kendali editorial yang tidak semestinya atas keseluruhan berita. Beri kesempatan pihak yang dikritik untuk menanggapi dengan waktu yang wajar dan catat upaya menghubunginya.
+
+Dokumen dan data sebagai sumber berita
+
+Dokumen resmi dapat menunjukkan keputusan, anggaran, jadwal, standar, atau hasil pemeriksaan. Periksa siapa penerbitnya, tanggal, versi, kelengkapan halaman, dan apakah dokumen tersebut final atau masih rancangan. Data statistik membutuhkan definisi indikator, metode pengumpulan, periode, serta catatan revisi. Angka tanpa penyebut atau konteks pembanding mudah disalahartikan.
+
+Ketika menemukan perbedaan antar dokumen, jangan memilih angka yang paling dramatis. Tanyakan apakah cakupan, periode, atau definisi variabel berbeda. Buat tabel perbandingan sumber dan jelaskan alasan memilih data tertentu. Jika perbedaan belum dapat diselesaikan, tulis secara terbuka bahwa angka masih diperselisihkan.
+
+Verifikasi foto, video, dan materi digital
+
+Materi visual harus diperiksa asal-usul dan konteksnya. Tanyakan siapa yang merekam, kapan, di mana, dan apakah materi pernah dipublikasikan sebelumnya. Cocokkan petunjuk yang tampak dengan informasi independen seperti cuaca, bangunan, papan nama, atau laporan kejadian. Metadata dapat membantu tetapi dapat hilang atau berubah ketika berkas dikirim melalui aplikasi. Karena itu, metadata bukan satu-satunya dasar verifikasi.
+
+Perhatikan kemungkinan video lama diberi keterangan baru, gambar dipotong, atau suara dipisahkan dari konteks aslinya. Jika keaslian belum dapat dipastikan, jangan menyajikannya sebagai bukti final. Redaksi dapat memilih untuk tidak menayangkan materi yang belum terverifikasi atau yang berpotensi membuka identitas korban dan pihak rentan.
+
+Struktur berita dan penjelasan konteks
+
+Berita langsung umumnya mengutamakan fakta paling penting, lalu menguraikan rincian pendukung. Struktur piramida terbalik membantu pembaca memahami inti meskipun tidak membaca sampai akhir. Namun, berita mendalam memerlukan alur yang lebih luas: masalah, latar, pengalaman manusia, bukti, respons pihak terkait, dan konsekuensi. Struktur harus mengikuti kebutuhan pembaca, bukan sekadar rumus.
+
+Judul perlu akurat dan sebanding dengan isi. Hindari judul yang menyiratkan kepastian lebih tinggi daripada bukti. Istilah teknis perlu diterangkan, sementara angka perlu diberi satuan dan pembanding. Kutipan tidak boleh dipotong sehingga mengubah makna. Paragraf konteks membantu pembaca memahami mengapa suatu fakta penting tanpa mencampurkan opini reporter.
+
+Etika meliput kelompok rentan
+
+Peliputan anak, korban kekerasan, pasien, pengungsi, dan orang dalam situasi krisis membutuhkan kehati-hatian khusus. Kepentingan publik tidak otomatis membenarkan pengungkapan identitas. Pertimbangkan risiko stigma, keselamatan, tekanan sosial, dan dampak jangka panjang. Persetujuan perlu dipahami dalam konteks kemampuan narasumber mengerti konsekuensi publikasi.
+
+Jangan menjanjikan kerahasiaan mutlak jika redaksi tidak dapat menjaminnya. Simpan informasi identitas secara terbatas dan gunakan kanal komunikasi yang aman sesuai kebijakan redaksi. Foto atau detail lokasi dapat mengungkap identitas meskipun nama disamarkan. Editor perlu menilai kembali setiap detail yang tidak penting bagi pemahaman publik tetapi meningkatkan risiko bagi narasumber.
+
+Koreksi dan pertanggungjawaban redaksi
+
+Kesalahan yang ditemukan setelah terbit perlu ditangani secara transparan. Bedakan salah ketik, kesalahan fakta, kekeliruan konteks, dan perubahan informasi setelah publikasi. Koreksi harus menjelaskan apa yang salah dan apa yang benar, dengan penempatan yang mudah ditemukan. Menghapus diam-diam tanpa catatan dapat merusak kepercayaan, terutama jika kesalahan telah tersebar luas.
+
+Redaksi juga perlu meninjau proses: apakah sumber terlalu sedikit, apakah dokumen tidak diperiksa, apakah judul melampaui isi, atau apakah tekanan tenggat mengurangi verifikasi. Evaluasi bukan untuk mencari kambing hitam, melainkan memperbaiki standar kerja dan mencegah kesalahan berulang.
+
+Proyek latihan liputan
+
+Pilih isu layanan publik yang dapat diamati tanpa membahayakan siapa pun. Susun pertanyaan, kumpulkan dokumen terbuka, wawancarai beberapa pihak dengan posisi berbeda, dan verifikasi satu klaim utama melalui sumber independen. Buat naskah yang memisahkan fakta, tanggapan, dan hal yang belum terjawab. Minta pembaca lain memeriksa apakah judul, angka, kutipan, dan konteks benar-benar didukung bukti.

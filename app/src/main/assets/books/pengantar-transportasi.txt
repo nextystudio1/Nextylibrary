@@ -341,3 +341,27 @@ PERTANYAAN
 3. Mengapa keselamatan tidak boleh hanya bergantung pada perilaku pengguna?
 4. Bagaimana transportasi memengaruhi akses terhadap kesempatan?
 5. Mengapa analisis emisi perlu menetapkan batas perhitungan?
+
+PENDALAMAN: JARINGAN, KEANDALAN, DAN KEADILAN TRANSPORTASI
+
+Jaringan transportasi terdiri atas simpul dan ruas. Simpul dapat berupa halte, stasiun, terminal, persimpangan, atau pusat kegiatan; ruas menghubungkan simpul-simpul tersebut. Kinerja jaringan bergantung pada keterhubungan, kapasitas, hambatan, keselamatan, dan kemudahan berpindah moda. Jarak lurus tidak selalu menggambarkan akses. Sebuah fasilitas mungkin tampak dekat pada peta, tetapi jalur menuju ke sana dapat terputus, tidak aman, atau tidak dapat digunakan oleh orang dengan mobilitas terbatas.
+
+Analisis akses sebaiknya mempertimbangkan waktu berjalan, frekuensi layanan, biaya, jam operasi, kebutuhan perpindahan, dan akses fisik. Perjalanan dari pintu ke pintu terdiri atas beberapa bagian: berjalan menuju titik layanan, menunggu, berada di kendaraan, berpindah moda, dan berjalan ke tujuan. Mengukur waktu di kendaraan saja akan mengabaikan bagian yang sering menentukan apakah layanan benar-benar berguna.
+
+Permintaan perjalanan berkaitan dengan sebaran tempat tinggal, sekolah, pekerjaan, perdagangan, dan layanan publik. Tata guna lahan memengaruhi panjang perjalanan serta pilihan moda. Kawasan dengan fungsi yang beragam dapat mendekatkan sebagian kebutuhan sehari-hari, tetapi hasilnya bergantung pada keterjangkauan hunian, kualitas fasilitas, dan kebijakan ruang. Perubahan jadwal sekolah, pola kerja, harga, cuaca, serta kegiatan khusus juga mengubah permintaan. Data satu hari perlu diperiksa apakah mewakili kondisi biasa.
+
+Kapasitas adalah kemampuan sistem melayani arus pada kondisi tertentu. Menambah kapasitas satu ruas tidak otomatis memperbaiki keseluruhan jaringan karena hambatan dapat berpindah ke simpul berikutnya. Evaluasi perlu melihat perjalanan utuh dan dampak pada moda lain. Keandalan juga berbeda dari kecepatan rata-rata. Layanan yang cepat tetapi sering terlambat dapat menyulitkan orang yang harus tiba pada waktu tertentu. Variasi waktu tempuh, ketepatan jadwal, pembatalan, dan konsistensi informasi merupakan indikator yang relevan.
+
+Keselamatan harus dipandang sebagai tanggung jawab sistem. Desain jalan, pengaturan kecepatan, pencahayaan, penyeberangan, kondisi kendaraan, dan tata kelola dapat mengurangi kemungkinan kesalahan berujung pada dampak serius. Pendidikan pengguna tetap dibutuhkan, tetapi tidak dapat menggantikan infrastruktur yang aman. Data kejadian perlu dibandingkan dengan paparan perjalanan, jenis jalan, waktu, dan karakter pengguna. Jumlah kejadian saja tidak cukup untuk menyimpulkan tingkat risiko.
+
+Transportasi inklusif mempertimbangkan perbedaan usia, kemampuan, pendapatan, dan kebutuhan. Jalur pejalan kaki yang menerus, informasi visual dan audio, ruang tunggu, serta proses naik turun yang dapat diakses membentuk satu perjalanan utuh. Keterjangkauan biaya juga penting: beberapa perpindahan dalam satu perjalanan harian dapat membebani rumah tangga. Integrasi layanan dan lokasi fasilitas publik dapat memperluas kesempatan memperoleh pendidikan, pekerjaan, serta layanan dasar.
+
+Studi kasus: sebuah kota ingin memperbaiki koridor yang mengalami kemacetan. Tim mengumpulkan data waktu perjalanan, jumlah penumpang, kondisi trotoar, keselamatan, kegiatan tepi jalan, dan kebutuhan warga. Alternatif dapat mencakup perbaikan angkutan umum, pengelolaan persimpangan, jalur berjalan kaki, atau pengaturan parkir. Kriteria evaluasi ditetapkan terbuka: keselamatan, akses, biaya siklus hidup, dampak lingkungan, pemerataan, dan kemudahan pelaksanaan. Setelah penerapan, hasil dibandingkan dengan kondisi awal sambil mencatat perubahan lain yang mungkin memengaruhi hasil.
+
+LATIHAN PENDALAMAN
+1. Gambar jaringan yang menghubungkan rumah, sekolah, pasar, dan layanan kesehatan.
+2. Bandingkan jarak lurus dengan waktu perjalanan jaringan.
+3. Jelaskan perbedaan kecepatan rata-rata dan keandalan layanan.
+4. Susun indikator aksesibilitas halte dari awal hingga akhir perjalanan.
+5. Buat matriks penilaian tiga alternatif perbaikan koridor.
+

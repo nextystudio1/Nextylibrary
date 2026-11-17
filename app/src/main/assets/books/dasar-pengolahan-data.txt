@@ -10,6 +10,8 @@ Buku ini membahas alur kerja data dari pertanyaan awal hingga penyajian temuan. 
 
 BAB 1. SIKLUS KERJA DATA
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/siklus-pengolahan-data.svg|Alur pengumpulan, pembersihan, analisis, dan penyajian data.]]
+
 [[NEXTY_IMAGE|file:///android_asset/illustrations/siklus-data.svg|Tahapan umum pengolahan data dari pengumpulan hingga penyajian.]]
 
 Pengolahan data dimulai dari pertanyaan yang jelas dan berlanjut ke pengumpulan, pemeriksaan, transformasi, analisis, serta komunikasi. Setiap tahap dapat memengaruhi hasil. Dokumentasikan sumber, waktu, definisi variabel, dan perubahan yang dilakukan agar analisis dapat diulang.

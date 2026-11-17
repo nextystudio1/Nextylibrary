@@ -40,6 +40,8 @@ LATIHAN PEMAHAMAN
 
 BAB 2. POPULASI DAN SAMPEL
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/sampel-populasi.svg|Ilustrasi populasi dan sampel untuk membahas keterwakilan serta bias.]]
+
 Populasi adalah seluruh kelompok yang menjadi sasaran kajian, sedangkan sampel adalah bagian yang diamati. Sampel yang dipilih secara tepat dapat memberi gambaran populasi, tetapi sampel praktis yang hanya mengambil orang yang mudah dijangkau berisiko bias. Ukuran sampel saja tidak menjamin keterwakilan.
 
 BAB 3. JENIS DATA DAN KUALITAS PENGUKURAN

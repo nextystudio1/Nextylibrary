@@ -56,6 +56,8 @@ LATIHAN
 Klasifikasikan variabel berikut: jumlah buku, jenis bacaan, durasi membaca, dan tingkat kepuasan.
 
 BAB 3. POPULASI, SAMPEL, DAN BIAS
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/sampel-populasi.svg|Ilustrasi populasi dan sampel untuk memahami pemilihan sampel yang representatif.]]
 Populasi adalah keseluruhan kelompok yang ingin dipelajari. Sampel adalah bagian dari populasi yang benar-benar diamati. Sensus mengumpulkan informasi dari seluruh anggota populasi sasaran, sedangkan survei sampel mengamati sebagian anggota untuk memperkirakan karakteristik populasi.
 
 Sampel acak sederhana memberi setiap anggota peluang yang sama untuk terpilih. Pengambilan sampel berstrata membagi populasi menjadi kelompok relevan lalu mengambil sampel dari tiap kelompok. Pengambilan sampel klaster memilih kelompok secara keseluruhan. Metode dipilih berdasarkan pertanyaan, struktur populasi, biaya, dan akses.

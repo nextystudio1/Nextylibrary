@@ -32,6 +32,8 @@ LATIHAN
 
 BAB 2. GELOMBANG MEKANIK DAN ELEKTROMAGNETIK
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/gelombang-cahaya.svg|Skema konseptual gelombang transversal dan longitudinal.]]
+
 Gelombang mekanik memerlukan medium, misalnya gelombang bunyi di udara atau gelombang pada tali. Gelombang elektromagnetik dapat merambat tanpa medium, misalnya cahaya tampak dan gelombang radio. Perbedaan ini menjelaskan mengapa bunyi tidak merambat di ruang hampa.
 
 BAB 3. BUNYI DAN PENDENGARAN

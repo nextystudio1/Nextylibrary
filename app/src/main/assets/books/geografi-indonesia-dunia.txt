@@ -46,6 +46,8 @@ LATIHAN
 Pilih satu masalah di lingkungan sekitar dan susun empat pertanyaan geografi tentang lokasi, penyebab, hubungan, serta dampaknya.
 
 BAB 2. PETA, SKALA, DAN SISTEM INFORMASI GEOGRAFIS
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/peta-skala.svg|Contoh simbol peta, legenda, dan skala untuk membaca jarak.]]
 Peta adalah representasi permukaan bumi atau bagian darinya pada bidang datar. Karena bumi melengkung, proyeksi peta selalu menimbulkan jenis distorsi tertentu, misalnya pada luas, bentuk, jarak, atau arah. Tidak ada satu proyeksi yang sempurna untuk semua tujuan.
 
 Skala menunjukkan perbandingan jarak pada peta dengan jarak sebenarnya. Skala 1:100.000 berarti satu satuan pada peta mewakili 100.000 satuan yang sama di lapangan. Peta skala besar menampilkan wilayah lebih kecil dengan detail lebih banyak dibanding peta skala kecil.

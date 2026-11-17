@@ -102,6 +102,8 @@ LATIHAN
 Mengapa enzim tertentu bekerja kurang baik pada suhu yang terlalu tinggi?
 
 BAB 6. FOTOSINTESIS DAN RESPIRASI SEL
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/fotosintesis.svg|Skema ringkas fotosintesis: cahaya, karbon dioksida, air, glukosa, dan oksigen.]]
 Fotosintesis mengubah energi cahaya menjadi energi kimia yang tersimpan dalam molekul organik. Pada tumbuhan, proses ini berlangsung di kloroplas. Klorofil menyerap sebagian panjang gelombang cahaya. Air dan karbon dioksida digunakan dalam rangkaian reaksi, dan oksigen dilepaskan sebagai hasil samping dari pemecahan air pada reaksi terang.
 
 Secara ringkas, fotosintesis dapat ditulis: karbon dioksida + air + energi cahaya menghasilkan glukosa dan oksigen. Persamaan ini merupakan ringkasan keseluruhan, bukan satu langkah reaksi tunggal. Laju fotosintesis dipengaruhi cahaya, ketersediaan karbon dioksida, suhu, air, dan kondisi daun.

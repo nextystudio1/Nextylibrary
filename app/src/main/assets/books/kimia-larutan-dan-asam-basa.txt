@@ -38,6 +38,8 @@ Asam dan basa dapat dijelaskan melalui beberapa teori. Dalam larutan air, asam A
 
 BAB 4. SKALA PH
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/skala-ph.svg|Skala pH yang membedakan larutan asam, netral, dan basa.]]
+
 pH berkaitan dengan konsentrasi ion hidrogen dan dinyatakan pada skala logaritmik. Perubahan satu satuan pH berarti perubahan sepuluh kali pada konsentrasi ion hidrogen dalam kondisi yang sesuai. Indikator warna memberi perkiraan, sedangkan alat ukur yang dikalibrasi dapat memberikan hasil lebih terukur.
 
 BAB 5. NETRALISASI DAN GARAM

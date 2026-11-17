@@ -39,6 +39,8 @@ LATIHAN BAB 2
 
 BAB 3. WARNA DAN KONTRAS
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/roda-warna.svg|Roda warna dasar untuk memahami warna primer, sekunder, dan kontras.]]
+
 Warna dapat membangun suasana dan membedakan kategori, tetapi maknanya dipengaruhi budaya dan konteks. Batasi palet agar tampilan konsisten. Pastikan teks memiliki kontras cukup terhadap latar. Jangan menggunakan warna sebagai satu-satunya penanda; tambahkan label, ikon, atau pola agar informasi tetap terbaca oleh orang dengan perbedaan persepsi warna.
 
 Uji desain dalam skala kecil dan pada layar berbeda. Warna yang terlihat jelas di monitor tertentu dapat tampak pudar di ponsel atau hasil cetak. Untuk informasi penting, utamakan keterbacaan daripada efek dekoratif.

@@ -381,3 +381,29 @@ LATIHAN PENDALAMAN
 4. Tulis umpan balik yang menunjukkan bukti dan langkah perbaikan.
 5. Buat tugas transfer yang menguji prinsip sama dalam konteks berbeda.
 
+BAB LANJUTAN: MOTIVASI, BEBAN KOGNITIF, DAN TRANSFER PEMBELAJARAN
+
+Motivasi belajar dapat bersumber dari rasa ingin tahu, tujuan pribadi, nilai yang dirasakan, dukungan sosial, dan keyakinan bahwa usaha dapat menghasilkan kemajuan. Motivasi bukan sifat tetap yang dimiliki seseorang sejak awal. Pengalaman belajar, cara tugas dirancang, kualitas umpan balik, serta rasa aman untuk bertanya dapat mengubah keterlibatan. Karena itu, guru sebaiknya tidak langsung memberi label “malas” ketika peserta didik belum menunjukkan partisipasi. Periksa apakah tujuan jelas, tugas terasa relevan, tingkat kesulitan sesuai, dan bantuan tersedia.
+
+Tujuan yang jelas membantu peserta didik mengarahkan perhatian. Tujuan seperti “memahami matematika” terlalu luas untuk satu sesi. Tujuan yang lebih terukur dapat menyebut kemampuan menjelaskan alasan suatu langkah, memilih strategi, atau memeriksa hasil. Kriteria keberhasilan perlu diketahui sebelum tugas dikerjakan. Dengan begitu, umpan balik dapat merujuk pada bukti yang sama-sama dipahami, bukan pada kesan umum tentang kemampuan seseorang.
+
+Beban kognitif berkaitan dengan keterbatasan kapasitas pemrosesan informasi pada saat tertentu. Materi yang memiliki banyak unsur saling berhubungan dapat terasa berat bagi pemula. Contoh kerja, pemecahan tugas menjadi bagian yang masuk akal, dan pengenalan istilah sebelum digunakan dapat membantu. Namun, dukungan perlu dikurangi bertahap ketika peserta didik semakin mampu. Jika semua langkah selalu disediakan, kesempatan berlatih mengambil keputusan menjadi terbatas.
+
+Desain penjelasan perlu menghindari informasi yang tidak relevan. Hiasan visual, animasi, atau narasi tambahan dapat mengganggu jika tidak mendukung tujuan. Sebaliknya, diagram yang menampilkan hubungan antarkomponen dapat membantu memahami proses kompleks. Teks dan gambar sebaiknya saling melengkapi, bukan mengulang informasi tanpa fungsi. Peserta didik juga perlu waktu untuk mengolah contoh, mengajukan pertanyaan, dan mencoba menerapkan konsep.
+
+Latihan pengambilan kembali informasi membantu memperkuat akses terhadap pengetahuan. Bentuknya dapat berupa pertanyaan singkat, menjelaskan konsep tanpa melihat catatan, atau menyelesaikan soal yang mewakili prinsip penting. Latihan ini bukan semata-mata ujian untuk memberi nilai. Hasilnya memberi petunjuk tentang bagian yang sudah dikuasai dan bagian yang perlu dipelajari kembali. Pengulangan berjarak memberi kesempatan untuk mengingat setelah jeda, bukan hanya mengulang segera setelah membaca.
+
+Transfer terjadi ketika seseorang menggunakan pengetahuan pada situasi yang berbeda dari contoh awal. Transfer tidak selalu muncul otomatis. Peserta didik perlu memahami prinsip di balik prosedur, membandingkan contoh, dan mengenali ciri yang relevan. Misalnya, konsep perbandingan dapat digunakan pada resep, peta skala, dan analisis data. Guru dapat meminta peserta didik menjelaskan kesamaan struktur masalah, bukan hanya menyalin langkah penyelesaian.
+
+Umpan balik yang bermanfaat menyebutkan bagian yang sudah tepat, kesenjangan terhadap tujuan, dan langkah berikutnya. Komentar “bagus” dapat memberi dukungan emosional, tetapi tidak menjelaskan apa yang perlu dipertahankan. Komentar “alasan pada langkah kedua belum didukung bukti; tambahkan data yang sesuai lalu jelaskan hubungannya dengan kesimpulan” memberi arah yang dapat dilakukan. Umpan balik sebaiknya diberikan ketika masih ada kesempatan memperbaiki pekerjaan.
+
+Perbedaan individu perlu diperhatikan tanpa mengunci peserta didik pada tipe belajar yang tetap. Seseorang dapat memahami materi melalui teks, gambar, diskusi, dan praktik, bergantung pada sifat tugas. Menyediakan beberapa representasi dapat memperluas akses, tetapi tidak perlu menganggap setiap orang hanya mampu belajar melalui satu saluran. Pilihan metode sebaiknya didasarkan pada tujuan materi dan bukti efektivitas, disertai kesempatan bagi peserta didik untuk mencoba strategi yang berbeda.
+
+Studi kasus: kelas mempelajari perubahan wujud zat. Guru memulai dengan tujuan yang jelas, menunjukkan diagram partikel, lalu memberi contoh penjelasan. Peserta didik diminta mengingat kembali istilah penting tanpa melihat catatan, membandingkan dua situasi, dan menjelaskan alasan. Hasil latihan menunjukkan bahwa sebagian peserta menghafal nama proses tetapi belum memahami perpindahan energi. Guru menambahkan representasi dan contoh pembanding, kemudian memberi tugas baru untuk memeriksa transfer.
+
+Latihan penerapan:
+1. Ubah tujuan belajar yang luas menjadi tiga indikator yang dapat diamati.
+2. Identifikasi unsur yang menambah beban kognitif tanpa membantu pemahaman.
+3. Rancang latihan pengambilan kembali dengan umpan balik yang membangun.
+4. Buat dua contoh berbeda yang menguji prinsip konsep yang sama.
+5. Tulis umpan balik yang menyebut bukti, kesenjangan, dan langkah berikutnya.

@@ -202,3 +202,27 @@ Evaluasi sistem rumah perlu menghitung pola konsumsi, potensi produksi, biaya in
 
 LATIHAN PERHITUNGAN ENERGI
 Buat daftar lima peralatan rumah tangga, catat daya nominal dan perkiraan jam penggunaan harian berdasarkan informasi label atau pengukuran yang aman. Hitung energi perkiraan dalam kWh. Jelaskan mengapa hasilnya merupakan estimasi dan bagaimana pola penggunaan memengaruhi total bulanan.
+BAB LANJUTAN 1. DAYA, ENERGI, DAN PEMBACAAN LABEL
+
+Daya menyatakan laju penggunaan atau pemindahan energi, sedangkan energi menyatakan jumlah yang digunakan selama suatu interval. Watt adalah satuan daya dan kilowatt-jam adalah satuan energi. Label perangkat biasanya mencantumkan daya nominal, tetapi konsumsi nyata dapat berubah karena siklus kerja, pengaturan, usia perangkat, dan kondisi penggunaan.
+
+Perkiraan energi dapat dihitung dari daya dalam kilowatt dikalikan waktu dalam jam. Sebagai contoh konseptual, perangkat 0,2 kW yang beroperasi selama 3 jam menggunakan sekitar 0,6 kWh jika dayanya konstan. Jika perangkat bekerja dengan siklus hidup-mati atau daya bervariasi, hasil ini hanya perkiraan. Meter energi dan catatan pemakaian dapat membantu membuat estimasi lebih akurat.
+
+BAB LANJUTAN 2. SISTEM LISTRIK RUMAH DAN KESELAMATAN
+
+Instalasi rumah dirancang untuk menyalurkan energi melalui penghantar, perangkat proteksi, sakelar, dan beban. Perangkat proteksi membantu mengurangi risiko akibat arus berlebih atau gangguan tertentu, tetapi tidak membuat instalasi kebal terhadap semua bahaya. Perangkat yang rusak, kabel terkelupas, sambungan tidak sesuai, kelembapan, atau beban berlebihan memerlukan perhatian orang dewasa dan tenaga listrik yang kompeten.
+
+Keselamatan bukan bidang untuk coba-coba. Jangan membuka panel, memperbaiki kabel, menyentuh bagian bertegangan, atau melakukan percobaan listrik rumah tanpa pengawasan dan keahlian profesional. Jika tercium bau terbakar, terlihat percikan, atau perangkat terasa tidak normal, jauhi area dan beri tahu orang dewasa yang bertanggung jawab. Penanganan instalasi harus mengikuti aturan setempat oleh teknisi yang memenuhi syarat.
+
+BAB LANJUTAN 3. EFISIENSI BANGUNAN DAN PERILAKU PENGGUNAAN
+
+Kebutuhan energi bangunan dipengaruhi orientasi, ventilasi, pencahayaan alami, insulasi, luas bukaan, jumlah penghuni, dan pola aktivitas. Desain pasif dapat mengurangi kebutuhan pendinginan dan pencahayaan buatan. Namun strategi harus disesuaikan dengan iklim dan kondisi bangunan; solusi yang sesuai di satu wilayah belum tentu tepat di wilayah lain.
+
+Penghematan energi dapat dilakukan dengan memilih perangkat yang sesuai kebutuhan, mematikan peralatan yang tidak digunakan bila aman, merawat perangkat sesuai petunjuk, dan memperbaiki kebiasaan penggunaan. Evaluasi perlu membandingkan konsumsi sebelum dan sesudah perubahan sambil memperhatikan perubahan jumlah penghuni atau jam penggunaan.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Bedakan watt dan kilowatt-jam.
+2. Hitung perkiraan energi perangkat 0,1 kW selama 6 jam.
+3. Mengapa daya pada label tidak selalu sama dengan konsumsi aktual?
+4. Sebutkan tanda instalasi yang perlu dilaporkan kepada orang dewasa atau teknisi.
+5. Jelaskan dua strategi desain pasif yang dapat mengurangi kebutuhan energi bangunan.

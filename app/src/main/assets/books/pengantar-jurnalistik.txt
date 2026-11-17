@@ -259,3 +259,42 @@ LATIHAN DAN PEMBAHASAN
 
 PROYEK MINI
 Pilih satu klaim publik yang dapat diperiksa melalui dokumen terbuka. Buat tabel klaim, sumber pertama, sumber pembanding, tanggal, bukti, dan status verifikasi. Jika memakai data, periksa definisi serta satuannya sebelum membuat grafik sederhana. Tulis ringkasan yang hanya menyatakan hal yang didukung bukti dan cantumkan keterbatasan pemeriksaan.
+
+BAB LANJUTAN: PELIPUTAN, WAWANCARA, DAN VERIFIKASI
+
+Peliputan dimulai dari pertanyaan yang jelas. Wartawan perlu menentukan apa yang diketahui, apa yang belum diketahui, siapa yang terdampak, dan dokumen apa yang dapat menguji klaim. Pertanyaan awal tidak boleh mengunci kesimpulan. Hipotesis kerja dapat membantu mengarahkan pencarian, tetapi harus terbuka untuk direvisi ketika bukti baru muncul.
+
+Wawancara yang baik memerlukan persiapan dan keterbukaan. Pertanyaan terbuka mendorong narasumber menjelaskan pengalaman atau proses dengan kata-katanya sendiri. Pertanyaan klarifikasi membantu memeriksa istilah, urutan waktu, dan angka. Pertanyaan yang menggiring dapat membuat jawaban mengikuti asumsi pewawancara. Wartawan perlu membedakan pengamatan langsung, ingatan, pendapat, dan informasi yang didengar dari pihak lain.
+
+Catatan wawancara sebaiknya memuat waktu, konteks, identitas dan peran narasumber sesuai kesepakatan, serta batas penggunaan kutipan. Perekaman memerlukan pemberitahuan dan persetujuan sesuai hukum serta kebijakan redaksi. Kutipan harus akurat dan tidak dipotong sehingga mengubah makna. Jika narasumber meminta konteks tertentu tidak dipublikasikan, kesepakatan perlu dipahami sebelum wawancara berlangsung.
+
+Sumber anonim dapat digunakan ketika ada alasan kuat dan informasi penting tidak dapat diperoleh dengan cara lain. Redaksi perlu mengetahui identitas sumber, menilai akses dan motifnya, serta mencari konfirmasi independen. Anonimitas bukan jalan pintas untuk menerbitkan tuduhan tanpa bukti. Pembaca perlu diberi penjelasan mengapa identitas tidak disebut dan bagaimana informasi diverifikasi.
+
+DOKUMEN PUBLIK DAN DATA
+
+Dokumen dapat mengungkap keputusan, anggaran, jadwal, dan dasar kebijakan. Wartawan perlu memeriksa siapa pembuat dokumen, tanggal, versi, tanda pengesahan, serta apakah dokumen lengkap. Salinan yang beredar dapat kehilangan lampiran atau konteks. Jika angka dikutip, definisi, periode, satuan, dan metode pengumpulan perlu diperiksa.
+
+Data terbuka tidak selalu berarti data mudah dipahami. Tabel dapat memakai kode, kategori, atau batas wilayah yang berubah. Wartawan sebaiknya membaca metadata dan menghubungi pengelola data ketika definisi tidak jelas. Grafik perlu menampilkan skala yang wajar dan tidak mengubah kesan melalui pemilihan rentang sumbu. Data agregat juga tidak selalu menjelaskan pengalaman individu.
+
+Verifikasi digital dapat mencakup pemeriksaan sumber pertama, tanggal unggahan, lokasi, konteks visual, dan kecocokan dengan sumber independen. Foto atau video lama dapat dibagikan kembali seolah-olah baru. Keterangan lokasi perlu diuji dengan petunjuk yang tersedia dan tidak hanya mengandalkan teks unggahan. Ketika verifikasi belum cukup, redaksi sebaiknya menunda klaim atau menjelaskan keterbatasannya.
+
+KOREKSI, HAK JAWAB, DAN PERLINDUNGAN NARASUMBER
+
+Kesalahan dapat terjadi pada nama, angka, kutipan, konteks, atau interpretasi. Kebijakan koreksi yang jelas menetapkan siapa yang menilai, bagaimana perubahan dicatat, dan bagaimana pembaca diberi tahu. Menghapus diam-diam dapat merusak kepercayaan. Koreksi seharusnya menjelaskan bagian yang salah dan informasi yang benar tanpa memperbesar dampak terhadap pihak yang dirugikan.
+
+Hak jawab dan kesempatan memberi tanggapan membantu pihak yang disebut dalam laporan menyampaikan informasi relevan. Permintaan tanggapan perlu dikirim dengan waktu yang wajar dan pertanyaan yang spesifik. Tidak adanya jawaban tidak membuktikan bahwa tuduhan benar. Laporan harus menjelaskan upaya konfirmasi secara akurat.
+
+Peliputan terhadap anak, korban, atau kelompok rentan memerlukan kehati-hatian khusus. Identitas, lokasi, dan rincian yang dapat membuat seseorang dikenali perlu dinilai berdasarkan kepentingan publik dan risiko. Persetujuan tidak selalu cukup ketika terdapat ketimpangan kuasa. Wartawan perlu menghindari pertanyaan yang memaksa seseorang mengulang pengalaman sulit tanpa kebutuhan jurnalistik yang jelas.
+
+PENYUNTINGAN DAN PRODUKSI BERITA
+
+Penyuntingan memeriksa akurasi, struktur, relevansi, bahasa, dan keadilan. Judul harus mewakili isi, bukan menjanjikan sesuatu yang tidak dibuktikan. Paragraf pembuka menyampaikan inti berita, sementara bagian berikutnya memberikan konteks dan bukti. Informasi yang paling penting tidak boleh disembunyikan hanya untuk menciptakan kejutan.
+
+Pemeriksaan akhir mencakup ejaan nama, jabatan, tanggal, angka, tautan dokumen, izin penggunaan foto, serta potensi konflik kepentingan. Foto ilustrasi harus diberi keterangan yang tidak menyesatkan. Materi visual hasil suntingan tidak boleh mengubah fakta yang hendak disampaikan. Redaksi perlu menyimpan catatan sumber dan keputusan editorial untuk kebutuhan penelusuran.
+
+LATIHAN BAB
+1. Apa perbedaan pengamatan langsung dan informasi dari pihak ketiga?
+2. Mengapa sumber anonim tetap perlu diverifikasi?
+3. Sebutkan unsur penting saat memeriksa dokumen publik.
+4. Mengapa koreksi tidak sebaiknya dilakukan diam-diam?
+5. Bagaimana redaksi melindungi identitas narasumber rentan?

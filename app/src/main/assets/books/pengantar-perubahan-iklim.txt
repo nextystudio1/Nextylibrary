@@ -390,3 +390,34 @@ Rencana harus memiliki penanggung jawab, jadwal, sumber pendanaan, indikator, da
 Latihan studi kasus
 
 Bayangkan sebuah kawasan pesisir mengalami banjir rob lebih sering. Tim lokal memetakan titik genangan, memeriksa kondisi drainase, mendata fasilitas penting, dan berdiskusi dengan kelompok nelayan serta warga lanjut usia. Alternatifnya dapat mencakup perlindungan ekosistem pesisir, perbaikan jalur evakuasi, peninggian fasilitas tertentu, sistem peringatan, dan pengaturan pembangunan. Bandingkan manfaat, biaya pemeliharaan, dampak pada mata pencaharian, serta risiko memindahkan masalah ke wilayah tetangga. Hasil akhirnya berupa rencana bertahap yang dapat diperbarui ketika data baru tersedia.
+
+
+BAB LANJUTAN: RISIKO IKLIM, ADAPTASI, DAN TRANSISI
+
+Membedakan bahaya, paparan, dan kerentanan
+Risiko iklim tidak ditentukan oleh bahaya saja. Bahaya adalah kejadian atau kecenderungan seperti gelombang panas, hujan ekstrem, kekeringan, kenaikan muka laut, atau perubahan pola musim. Paparan menunjukkan manusia, aset, dan ekosistem yang berada di wilayah terdampak. Kerentanan berkaitan dengan sensitivitas dan kemampuan menghadapi gangguan. Dua wilayah yang menerima hujan dengan intensitas sama dapat mengalami dampak berbeda karena kualitas drainase, tata ruang, kondisi bangunan, akses informasi, dan kemampuan pemulihan berbeda. Analisis risiko perlu memetakan ketiga unsur tersebut secara terpisah sebelum menyusun prioritas.
+
+Membaca proyeksi dan ketidakpastian
+Proyeksi iklim bukan ramalan pasti untuk satu hari atau satu lokasi. Model menggunakan asumsi, skenario emisi, dan resolusi tertentu. Ketika menggunakan proyeksi, periksa periode acuan, skenario, rentang ketidakpastian, dan apakah data telah diturunkan skalanya untuk wilayah setempat. Jangan memilih satu angka seolah-olah tidak ada variasi. Untuk keputusan jangka panjang, gunakan beberapa skenario yang masuk akal dan uji apakah rencana tetap berfungsi dalam kondisi yang berbeda. Keputusan yang fleksibel dan dapat diperbarui sering lebih tangguh daripada rancangan yang hanya optimal untuk satu perkiraan.
+
+Adaptasi berbasis ekosistem
+Ekosistem dapat mengurangi sebagian risiko sekaligus menyediakan manfaat lain. Mangrove dapat membantu meredam energi gelombang dan menjadi habitat; daerah resapan mendukung pengelolaan air; ruang hijau membantu mengurangi panas perkotaan. Namun, solusi berbasis alam bukan pengganti seluruh infrastruktur dan tidak selalu cocok di semua lokasi. Keberhasilannya bergantung pada kondisi ekologis, ruang yang tersedia, pemeliharaan, dan keterlibatan masyarakat. Hindari penanaman simbolis tanpa rencana keberlangsungan hidup tanaman dan pemantauan. Pilih spesies sesuai ekosistem setempat dan gunakan pengetahuan masyarakat serta kajian teknis.
+
+Adaptasi yang adil
+Program adaptasi dapat menimbulkan ketimpangan jika manfaat hanya dinikmati kelompok yang memiliki sumber daya. Pembangunan tanggul, misalnya, dapat mengurangi risiko di satu kawasan tetapi memindahkan air ke kawasan lain. Relokasi dapat mengurangi paparan bahaya, tetapi mengganggu mata pencaharian, jaringan sosial, dan akses layanan jika tidak direncanakan bersama warga. Penilaian kebijakan harus melihat siapa yang menerima manfaat, siapa menanggung biaya, siapa dilibatkan, dan apakah tersedia mekanisme keberatan. Kelompok rentan bukan sekadar objek bantuan; pengalaman dan pengetahuan mereka penting dalam merancang solusi.
+
+Transisi energi dan perubahan sistem
+Pengurangan emisi memerlukan perubahan pada pembangkitan listrik, transportasi, bangunan, industri, pertanian, dan pengelolaan lahan. Efisiensi energi dapat mengurangi kebutuhan, sedangkan energi rendah emisi membantu memenuhi kebutuhan yang tersisa. Perencanaan harus mempertimbangkan keandalan jaringan, penyimpanan, kebutuhan bahan baku, daur hidup teknologi, dan pengelolaan limbah. Transisi yang adil juga memperhatikan pekerja dan wilayah yang ekonominya bergantung pada sektor intensif karbon. Pelatihan, perlindungan sosial, diversifikasi ekonomi, dan dialog dengan komunitas membantu mengurangi dampak peralihan.
+
+Rencana aksi tingkat komunitas
+Mulai dengan mengidentifikasi bahaya yang pernah terjadi, lokasi layanan penting, kelompok yang membutuhkan dukungan, dan sumber informasi peringatan. Susun daftar tindakan yang dapat dilakukan sebelum, saat, dan setelah kejadian. Tetapkan siapa yang mengoordinasikan komunikasi, bagaimana memastikan informasi dapat diakses penyandang disabilitas, dan bagaimana bantuan menjangkau warga tanpa perangkat digital. Simulasi berkala dapat menguji apakah prosedur dipahami. Setelah kejadian, lakukan evaluasi tanpa menyalahkan korban: catat apa yang berjalan, hambatan, dan perubahan yang perlu dilakukan.
+
+Latihan analisis wilayah
+Pilih wilayah studi yang datanya tersedia. Buat matriks bahaya, paparan, dan kerentanan; tandai sumber data serta tahun pengumpulannya. Bandingkan dua pilihan adaptasi menggunakan kriteria pengurangan risiko, biaya pemeliharaan, dampak ekologi, keadilan, dan kemampuan pelaksanaan. Nyatakan ketidakpastian dan data tambahan yang diperlukan. Hasil latihan bukan peta resmi atau pengganti ahli, melainkan cara belajar menyusun keputusan berbasis bukti.
+
+Pertanyaan refleksi
+- Mengapa bahaya yang sama dapat menghasilkan dampak berbeda?
+- Apa risiko menggunakan satu angka proyeksi tanpa rentang ketidakpastian?
+- Bagaimana memastikan solusi berbasis ekosistem terpelihara?
+- Siapa yang perlu dilibatkan agar adaptasi tidak memindahkan risiko kepada kelompok lain?
+

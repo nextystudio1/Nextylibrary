@@ -275,3 +275,44 @@ LATIHAN
 4. Apa arti kesinambungan aksesibilitas?
 5. Bagaimana evaluasi pascahuni dapat memperbaiki rancangan berikutnya?
 
+PENDALAMAN ARSITEKTUR: TAPAK, MATERIAL, DAN KINERJA BANGUNAN
+
+BAB LANJUTAN: ANALISIS TAPAK DAN RESPONS LINGKUNGAN
+
+Analisis tapak menghubungkan kondisi fisik lokasi dengan kebutuhan pengguna dan tujuan bangunan. Informasi yang perlu dipahami dapat mencakup orientasi matahari, arah angin, topografi, vegetasi, drainase, akses, kebisingan, serta hubungan dengan bangunan sekitar. Data tersebut tidak boleh hanya dikumpulkan sebagai daftar; perancang perlu menjelaskan pengaruhnya terhadap keputusan tata ruang dan bentuk.
+
+Orientasi bangunan memengaruhi penerimaan panas dan cahaya. Namun strategi yang tepat bergantung pada lintang, iklim, kondisi sekitar, dan fungsi ruang. Peneduhan dapat mengurangi panas matahari langsung, tetapi harus tetap mempertimbangkan kebutuhan cahaya alami dan pandangan. Vegetasi dapat memberi keteduhan serta membantu kualitas ruang luar, tetapi pemilihan jenis dan jarak tanam perlu mempertimbangkan akar, air, pemeliharaan, dan keselamatan.
+
+Topografi memengaruhi akses, fondasi, aliran air, dan pekerjaan tanah. Perataan lahan yang berlebihan dapat meningkatkan biaya serta mengubah aliran limpasan. Rancangan yang mengikuti kontur secara bijaksana dapat mengurangi perubahan tapak, tetapi tetap harus dinilai berdasarkan aksesibilitas dan ketentuan teknis. Keputusan mengenai kondisi tanah dan struktur wajib melibatkan tenaga profesional yang kompeten.
+
+BAB LANJUTAN: MATERIAL, SIKLUS HIDUP, DAN KESEHATAN RUANG
+
+Material bangunan dapat dinilai melalui kekuatan, ketahanan, perawatan, ketersediaan, dampak lingkungan, dan kenyamanan pengguna. Bahan dengan energi produksi rendah belum tentu menjadi pilihan terbaik jika cepat rusak atau membutuhkan penggantian berulang. Penilaian siklus hidup melihat ekstraksi bahan baku, produksi, transportasi, penggunaan, perawatan, dan akhir masa pakai.
+
+Kualitas udara dalam ruang dipengaruhi sumber polutan, ventilasi, kelembapan, aktivitas penghuni, dan bahan yang digunakan. Pemilihan material rendah emisi, pengendalian sumber pencemar, serta ventilasi yang sesuai dapat membantu menjaga kualitas ruang. Kelembapan berlebih perlu ditangani karena dapat mendukung pertumbuhan jamur dan merusak material. Rancangan harus memperhitungkan kondisi iklim dan pola penggunaan, bukan hanya tampilan visual.
+
+Akustik ruang berkaitan dengan sumber bunyi, perambatan, pantulan, penyerapan, dan isolasi. Ruang belajar memerlukan kondisi yang membantu keterpahaman suara, sedangkan ruang pertunjukan memiliki kebutuhan berbeda. Material penyerap dapat mengurangi pantulan di dalam ruang, tetapi tidak otomatis menghalangi suara dari luar. Penilaian akustik harus sesuai fungsi dan standar yang berlaku.
+
+BAB LANJUTAN: PERANCANGAN UNIVERSAL DAN PENGALAMAN PENGGUNA
+
+Rancangan universal mempertimbangkan variasi kemampuan, usia, bahasa, dan situasi pengguna sejak awal. Prinsip ini tidak hanya menyangkut dimensi fisik, tetapi juga orientasi, informasi, kenyamanan sensorik, serta kemudahan memahami ruang. Pintu yang lebar tidak cukup jika jalur menuju pintu memiliki hambatan atau petunjuk arah sulit dibaca.
+
+Pemetaan perjalanan pengguna membantu menemukan titik ketika seseorang harus mencari bantuan, berputar, atau menghadapi hambatan. Pengamatan dapat dilakukan melalui simulasi konseptual, konsultasi, dan evaluasi ruang yang sudah digunakan. Jangan menganggap satu pengalaman mewakili semua orang. Libatkan pengguna dengan kebutuhan beragam secara sukarela dan hormati batas privasi.
+
+BAB LANJUTAN: DOKUMENTASI DAN KOORDINASI PROFESIONAL
+
+Gambar rancangan harus memiliki skala, orientasi, legenda, dimensi, dan keterangan yang konsisten. Perubahan desain perlu dicatat agar pihak terkait memahami versi dokumen yang berlaku. Ketidaksesuaian antara gambar arsitektur dan gambar disiplin lain dapat menyebabkan konflik saat pelaksanaan. Model tiga dimensi membantu komunikasi, tetapi tidak menggantikan gambar teknis dan pemeriksaan profesional.
+
+Keputusan yang berkaitan dengan struktur, instalasi listrik, proteksi kebakaran, dan keselamatan bangunan harus mengikuti standar serta diperiksa oleh tenaga berwenang. Materi pengantar ini bertujuan membangun pemahaman konseptual, bukan memberi instruksi untuk mengubah elemen struktur atau melakukan pekerjaan berisiko.
+
+PROYEK ANALISIS RUANG
+
+Pilih ruang publik yang boleh diamati. Buat denah sederhana berdasarkan pengukuran yang aman dan tidak merusak fasilitas. Catat cahaya, aliran udara yang dirasakan, kebisingan, alur gerak, dan hambatan akses. Susun usulan konseptual dan jelaskan data yang masih dibutuhkan sebelum perubahan dapat dilaksanakan.
+
+LATIHAN
+
+1. Mengapa analisis tapak harus memengaruhi keputusan desain?
+2. Apa perbedaan dampak material pada tahap produksi dan sepanjang siklus hidup?
+3. Bedakan penyerapan bunyi dan isolasi bunyi.
+4. Mengapa aksesibilitas harus dinilai sebagai rangkaian perjalanan?
+5. Apa batas penggunaan model tiga dimensi dalam dokumentasi teknis?

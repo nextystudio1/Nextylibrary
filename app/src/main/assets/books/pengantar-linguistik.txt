@@ -295,3 +295,36 @@ LATIHAN BAB
 3. Jelaskan fungsi perbaikan dalam percakapan.
 4. Mengapa variasi bahasa tidak tepat dinilai dengan satu standar tunggal?
 5. Sebutkan tiga pertimbangan etis dalam dokumentasi bahasa.
+
+BAB PENDALAMAN: BUNYI BAHASA DAN SISTEM FONOLOGI
+
+Fonetik mempelajari bagaimana bunyi ujaran diproduksi, disalurkan, dan diterima. Fonologi mengkaji bagaimana bunyi berfungsi sebagai bagian dari sistem suatu bahasa. Pembedaan ini membantu menjelaskan mengapa dua bunyi yang terdengar mirip dapat membedakan makna dalam satu bahasa, tetapi tidak dalam bahasa lain. Bunyi yang tidak membedakan makna pada satu konteks dapat tetap memiliki variasi pengucapan.
+
+Fonem merupakan satuan bunyi yang dapat membedakan makna, sedangkan alofon adalah variasi realisasi fonem yang tidak mengubah makna dalam lingkungan tertentu. Pasangan minimal membantu menguji apakah dua bunyi berfungsi sebagai fonem berbeda. Analisis harus mempertimbangkan data bahasa yang diteliti dan tidak menganggap sistem satu bahasa berlaku untuk semua bahasa.
+
+Tekanan, intonasi, dan jeda juga berperan dalam ujaran. Perubahan intonasi dapat menandai jenis kalimat, sikap, atau struktur informasi. Penulisan sering tidak merekam seluruh unsur prosodi, sehingga analisis percakapan perlu memperhatikan rekaman dan konteks dengan persetujuan yang sesuai.
+
+BAB PENDALAMAN: MORFOLOGI DAN PEMBENTUKAN KATA
+
+Morfologi mempelajari struktur internal kata dan proses pembentukannya. Morfem adalah satuan terkecil yang membawa makna atau fungsi gramatikal. Afiksasi, pengulangan, pemajemukan, dan perubahan bentuk merupakan proses yang dapat ditemukan dengan pola berbeda pada berbagai bahasa. Analisis morfologi perlu membedakan bentuk dasar, afiks, dan perubahan yang terjadi.
+
+Tidak semua bagian kata yang tampak berulang memiliki fungsi yang sama. Peneliti perlu menguji distribusi bentuk dalam banyak contoh dan memperhatikan makna serta fungsi gramatikalnya. Data dari satu kalimat mungkin belum cukup untuk menetapkan pola. Kamus, korpus, dan konsultasi dengan penutur dapat saling melengkapi.
+
+BAB PENDALAMAN: SINTAKSIS DAN STRUKTUR KALIMAT
+
+Sintaksis mempelajari bagaimana kata dan frasa disusun menjadi satuan yang lebih besar. Bahasa dapat memiliki urutan unsur yang berbeda, penandaan kasus, kesesuaian, atau penanda lain untuk menunjukkan hubungan gramatikal. Karena itu, urutan kata saja tidak selalu menentukan fungsi subjek dan objek.
+
+Ambiguitas struktural muncul ketika satu rangkaian kata dapat dianalisis dengan lebih dari satu susunan. Diagram pohon atau pengelompokan konstituen dapat membantu memperlihatkan perbedaan struktur. Namun, analisis formal perlu diuji dengan penilaian penutur dan konteks penggunaan, sebab kalimat yang mungkin secara tata bahasa belum tentu lazim dalam percakapan.
+
+BAB PENDALAMAN: PERUBAHAN BAHASA DAN KONTAK ANTARBAHASA
+
+Bahasa berubah melalui variasi yang digunakan penuturnya. Perubahan bunyi, makna, kosakata, dan struktur dapat menyebar secara bertahap. Kontak antarbahasa dapat menghasilkan peminjaman kata, pergeseran makna, atau pola dwibahasa. Perubahan tidak selalu berarti kemunduran; ia merupakan bagian dari dinamika komunitas bahasa.
+
+Sikap terhadap variasi bahasa sering dipengaruhi sejarah, pendidikan, kekuasaan, dan identitas sosial. Ragam baku memiliki fungsi dalam konteks tertentu, tetapi bukan bukti bahwa ragam lain tidak memiliki aturan. Linguistik berusaha mendeskripsikan pola bahasa secara sistematis tanpa merendahkan penuturnya.
+
+BAB PENDALAMAN: KORPUS, DOKUMENTASI, DAN ETIKA
+
+Korpus adalah kumpulan data bahasa yang disusun untuk tujuan penelitian. Kualitas korpus bergantung pada keterwakilan jenis teks, periode, ragam, dan kelompok penutur. Korpus besar tidak otomatis mewakili seluruh masyarakat jika sumbernya didominasi satu kelompok. Metadata membantu pengguna memahami asal, cara pengumpulan, dan batas data.
+
+Dokumentasi bahasa yang melibatkan penutur memerlukan persetujuan yang jelas, perlindungan identitas, dan kesepakatan mengenai penyimpanan serta akses rekaman. Komunitas perlu dilibatkan dalam penentuan tujuan dan pemanfaatan hasil. Peneliti sebaiknya mengembalikan hasil dalam bentuk yang berguna bagi komunitas, bukan hanya mengambil data untuk kepentingan akademik.
+

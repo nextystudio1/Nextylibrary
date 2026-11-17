@@ -250,3 +250,36 @@ Susun esai foto lima gambar tentang satu kegiatan komunitas dengan izin yang ses
 KUNCI REFLEKSI
 Foto yang menarik belum tentu paling informatif. Pilih gambar berdasarkan tujuan, bukti, etika, dan kebutuhan pembaca. Jika suatu detail tidak dapat diverifikasi, jangan menyajikannya sebagai fakta.
 
+BAB LANJUTAN. PENCAHAYAAN, WARNA, DAN KONSISTENSI VISUAL
+
+Cahaya menentukan informasi yang terekam kamera. Arah cahaya memengaruhi bentuk bayangan dan kesan volume, sedangkan ukuran sumber cahaya relatif terhadap subjek memengaruhi kelembutan bayangan. Cahaya dari depan dapat mengurangi bayangan pada permukaan, sementara cahaya dari samping dapat menonjolkan tekstur. Tidak ada satu arah yang selalu terbaik; keputusan bergantung pada tujuan gambar dan konteks.
+
+Paparan berkaitan dengan jumlah cahaya yang direkam sensor. Diafragma, waktu pencahayaan, dan sensitivitas ISO saling berhubungan dalam menentukan hasil. Perubahan satu unsur dapat memengaruhi unsur lain, misalnya bukaan yang lebih besar mengubah kedalaman bidang dan waktu pencahayaan yang lebih lama dapat membuat gerakan tampak kabur. Pengaturan sebaiknya dipilih berdasarkan prioritas gambar, bukan sekadar mengejar angka tertentu.
+
+Keseimbangan putih membantu menjaga tampilan warna agar sesuai kondisi pencahayaan. Sumber cahaya berbeda dapat memberi dominasi warna yang berbeda. Penyesuaian warna dapat memperbaiki konsistensi, tetapi penyuntingan yang berlebihan dapat mengubah kesan objek. Untuk dokumentasi, pertahankan hubungan warna yang penting dan catat bila koreksi dilakukan secara signifikan.
+
+Histogram dapat membantu memeriksa distribusi nada terang dan gelap, tetapi bentuknya tidak memiliki satu pola ideal untuk semua foto. Adegan malam memang dapat memiliki banyak area gelap, sedangkan pemandangan bersalju dapat memiliki banyak area terang. Gunakan histogram bersama penilaian gambar dan tujuan dokumentasi. Jangan mengorbankan detail penting hanya demi memenuhi bentuk grafik tertentu.
+
+BAB LANJUTAN. KOMPOSISI DAN ARAH PANDANG
+
+Komposisi adalah cara elemen ditempatkan dalam bingkai. Garis, pola, ruang kosong, keseimbangan, dan hubungan ukuran dapat mengarahkan perhatian. Aturan sepertiga merupakan panduan awal, bukan hukum. Komposisi simetris dapat memberi kesan stabil, sedangkan susunan asimetris dapat menciptakan ketegangan atau gerak. Pilihan harus mendukung pesan yang ingin disampaikan.
+
+Latar belakang perlu diperiksa karena dapat mengganggu atau memberi konteks. Objek yang tampak keluar dari kepala subjek, tulisan yang tidak sengaja terbaca, atau orang yang tidak mengetahui sedang difoto dapat mengubah makna gambar. Sebelum mengambil gambar, perhatikan seluruh bingkai, bukan hanya subjek utama. Untuk foto dokumenter, jangan mengatur adegan sedemikian rupa sehingga pembaca mengira peristiwa alami padahal telah direkayasa.
+
+Jarak dan sudut pandang memengaruhi hubungan visual. Foto dekat dapat menonjolkan detail tetapi menghilangkan konteks; foto lebar dapat memperlihatkan lingkungan namun membuat subjek kurang jelas. Rangkaian foto dapat menggabungkan gambar pembuka, suasana, detail, interaksi, dan penutup. Urutan tersebut perlu membangun pemahaman tanpa memaksakan kesimpulan yang tidak didukung bukti.
+
+BAB LANJUTAN. NARASI FOTO DAN PEMERIKSAAN FAKTA
+
+Cerita visual yang bertanggung jawab membedakan apa yang terlihat dan apa yang disimpulkan. Foto seseorang sedang duduk tidak membuktikan bahwa ia sedang menunggu, merasa sedih, atau menolak kegiatan. Keterangan perlu menggunakan informasi yang telah diverifikasi. Jika identitas, waktu, atau tempat tidak diketahui, jangan mengarangnya untuk membuat cerita terasa lengkap.
+
+Sebelum publikasi, periksa izin penggunaan, hak cipta, konteks, dan risiko privasi. Foto yang menampilkan papan nama, alamat, dokumen, atau layar dapat membocorkan informasi. Pada kegiatan yang melibatkan anak, persetujuan wali dan kebijakan lembaga perlu diperhatikan. Subjek harus diperlakukan sebagai manusia yang memiliki martabat, bukan sekadar bahan visual.
+
+LATIHAN
+1. Bagaimana arah cahaya memengaruhi tekstur?
+2. Mengapa histogram tidak memiliki satu bentuk ideal?
+3. Apa risiko latar belakang yang tidak diperiksa?
+4. Bedakan fakta yang terlihat dan interpretasi.
+5. Apa yang perlu diperiksa sebelum foto dipublikasikan?
+
+PROYEK
+Buat seri enam foto yang menjelaskan satu proses sederhana. Susun urutan, tulis keterangan faktual, dan jelaskan pilihan pencahayaan serta komposisi. Minta pembaca menceritakan kembali proses berdasarkan seri tersebut, lalu revisi bagian yang menimbulkan salah tafsir.

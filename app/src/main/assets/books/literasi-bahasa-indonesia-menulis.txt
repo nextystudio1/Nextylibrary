@@ -221,3 +221,38 @@ LATIHAN PENDALAMAN
 3. Bagaimana sanggahan dapat membantu memperkuat tulisan?
 4. Sebutkan urutan tiga tahap penyuntingan dan tujuannya.
 5. Berikan tiga contoh keputusan yang membuat dokumen digital lebih aksesibel.
+
+BAB LANJUTAN: MENYUSUN ARGUMEN DAN MENGUJI BUKTI
+
+Argumen yang kuat memiliki klaim, alasan, bukti, dan hubungan penalaran yang jelas. Klaim menyatakan posisi yang hendak dipertahankan. Alasan menjelaskan mengapa klaim layak diterima, sedangkan bukti menyediakan dasar untuk memeriksanya. Banyaknya kutipan tidak otomatis membuat argumen kuat apabila sumber tidak relevan atau tidak mendukung klaim.
+
+Bukti dapat berupa data, dokumen, hasil pengamatan, kesaksian, atau pendapat ahli. Setiap jenis bukti memiliki batas. Pengalaman pribadi dapat menjelaskan pengalaman seseorang, tetapi tidak selalu mewakili populasi. Statistik dapat menunjukkan pola, tetapi pembaca perlu memeriksa definisi variabel, metode pengumpulan, ukuran sampel, dan kemungkinan bias.
+
+Korelasi menunjukkan bahwa dua hal berubah bersama, tetapi tidak membuktikan bahwa salah satunya menyebabkan yang lain. Dalam tulisan, hindari mengubah hubungan statistik menjadi klaim sebab-akibat tanpa desain penelitian yang mendukung. Gunakan ungkapan yang sepadan dengan kekuatan bukti, misalnya “berkaitan dengan” ketika sebab-akibat belum dapat dipastikan.
+
+BAB LANJUTAN: PARAGRAF, TRANSISI, DAN STRUKTUR DOKUMEN
+
+Paragraf yang efektif memiliki satu fokus utama, tetapi bukan berarti semua paragraf harus memiliki panjang yang sama. Kalimat topik membantu pembaca mengenali arah pembahasan. Kalimat pendukung memberikan penjelasan, contoh, atau bukti. Kalimat penutup dapat menghubungkan gagasan dengan bagian berikutnya apabila hubungan itu memang diperlukan.
+
+Transisi menjelaskan hubungan logis, bukan sekadar menambahkan kata “selanjutnya” atau “di sisi lain”. Hubungan dapat berupa sebab-akibat, perbandingan, penambahan, pengecualian, atau urutan waktu. Pilih kata penghubung berdasarkan hubungan sebenarnya. Penggunaan konjungsi yang tidak tepat dapat membuat argumen terasa bertentangan.
+
+Struktur dokumen bergantung pada tujuan dan pembaca. Laporan penelitian biasanya memerlukan latar belakang, metode, hasil, pembahasan, dan kesimpulan. Proposal menonjolkan masalah, tujuan, rencana, sumber daya, dan evaluasi. Esai argumentatif dapat lebih fleksibel, tetapi tetap membutuhkan alur yang dapat diikuti.
+
+BAB LANJUTAN: PENYUNTINGAN, SITASI, DAN INTEGRITAS AKADEMIK
+
+Penyuntingan substantif memeriksa ketepatan isi, kelengkapan alasan, urutan gagasan, dan kesesuaian dengan tujuan. Penyuntingan struktural memeriksa organisasi bab dan paragraf. Penyuntingan bahasa memeriksa ejaan, tata kalimat, konsistensi istilah, dan tanda baca. Pemeriksaan akhir memastikan judul, tabel, gambar, daftar pustaka, serta rujukan saling sesuai.
+
+Parafrasa bukan sekadar mengganti beberapa kata dari sumber. Penulis perlu memahami gagasan, menyusunnya kembali dengan struktur sendiri, dan tetap mencantumkan sumber ketika gagasan berasal dari pihak lain. Kutipan langsung harus ditandai dengan benar dan digunakan seperlunya. Catatan sumber sejak awal membantu mencegah atribusi yang keliru.
+
+Daftar pustaka harus konsisten dengan gaya yang diminta. Periksa nama penulis, judul, tahun, penerbit atau jurnal, serta identitas publikasi. Jika informasi tidak tersedia, jangan mengarangnya. Untuk sumber digital, catat alamat dan tanggal akses jika gaya rujukan mensyaratkannya.
+
+LATIHAN
+1. Mengapa korelasi tidak otomatis membuktikan sebab-akibat?
+2. Bagaimana membedakan bukti dan alasan dalam argumen?
+3. Apa fungsi transisi yang baik?
+4. Mengapa parafrasa tetap memerlukan atribusi?
+5. Sebutkan hal yang harus diperiksa sebelum naskah diserahkan.
+
+PROYEK
+Tulis esai argumentatif 1.000 kata tentang satu persoalan pendidikan atau lingkungan. Rumuskan tesis yang dapat diuji, gunakan beberapa sumber yang kredibel, jelaskan keterbatasan bukti, sertakan satu sanggahan yang adil, dan susun daftar pustaka. Minta pembaca lain menandai bagian yang belum jelas. Revisi berdasarkan masukan dan simpan catatan perubahan.
+

@@ -297,3 +297,47 @@ LATIHAN
 3. Mengapa ketepatan waktu rata-rata belum cukup menilai angkutan umum?
 4. Bagaimana proyek transportasi dapat menghasilkan dampak yang tidak merata?
 5. Apa keterbatasan metode evaluasi sebelum-sesudah?
+
+BAB: PERENCANAAN JARINGAN DAN KONEKTIVITAS
+
+Sistem transportasi terdiri dari jaringan jalan, jalur pejalan kaki, jalur sepeda, angkutan umum, simpul perpindahan, dan layanan pendukung. Konektivitas menunjukkan seberapa mudah seseorang berpindah antara asal dan tujuan melalui jaringan tersebut. Jarak lurus tidak selalu mencerminkan jarak perjalanan karena sungai, pagar, persimpangan, dan keterbatasan akses dapat memengaruhi rute.
+
+Perencanaan jaringan perlu menilai kesinambungan jalur. Trotoar yang berhenti mendadak atau halte tanpa akses aman dapat membuat perjalanan tidak dapat diselesaikan. Simpul perpindahan moda harus memiliki informasi yang jelas, ruang tunggu, dan akses yang sesuai kebutuhan pengguna. Rute yang baik bukan hanya cepat, tetapi juga dapat digunakan secara aman dan konsisten.
+
+Konektivitas juga berkaitan dengan tata guna lahan. Fasilitas yang tersebar jauh dari permukiman meningkatkan kebutuhan perjalanan. Pengembangan kawasan campuran dapat mendekatkan sebagian kegiatan sehari-hari, tetapi harus memperhatikan kualitas ruang, kapasitas layanan, dan kebutuhan warga. Keputusan transportasi dan perencanaan kota saling memengaruhi.
+
+BAB: ANGKUTAN UMUM DAN PENGALAMAN PERJALANAN
+
+Kinerja angkutan umum tidak cukup dinilai dari kecepatan kendaraan. Frekuensi, ketepatan waktu, keterjangkauan tarif, cakupan rute, kenyamanan, keselamatan, dan kemudahan informasi juga penting. Waktu total perjalanan mencakup perjalanan menuju halte, waktu tunggu, perjalanan di kendaraan, perpindahan, dan perjalanan akhir menuju tujuan.
+
+Keandalan layanan membantu pengguna merencanakan kegiatan. Jadwal yang sering berubah atau informasi gangguan yang terlambat dapat membuat layanan sulit dipercaya. Data operasional perlu dikomunikasikan dengan jelas, termasuk perubahan rute dan perkiraan waktu yang memiliki ketidakpastian. Informasi digital sebaiknya dilengkapi alternatif bagi pengguna yang tidak selalu memiliki akses internet.
+
+Integrasi tarif dan jadwal dapat mempermudah perpindahan moda. Namun, integrasi harus dirancang agar tidak menambah biaya atau hambatan bagi kelompok tertentu. Evaluasi perlu melihat pengalaman pengguna secara menyeluruh, bukan hanya jumlah penumpang pada satu koridor.
+
+BAB: KESELAMATAN JALAN DAN SISTEM BERORIENTASI MANUSIA
+
+Keselamatan jalan merupakan hasil interaksi desain jalan, kecepatan, kendaraan, perilaku, penegakan aturan, dan layanan tanggap darurat. Sistem yang aman tidak mengandalkan anggapan bahwa setiap pengguna selalu sempurna. Desain perlu mengurangi kemungkinan kesalahan berujung pada cedera serius, misalnya melalui kecepatan yang sesuai fungsi jalan, penyeberangan yang jelas, dan pemisahan ruang ketika diperlukan.
+
+Pengguna jalan memiliki tingkat perlindungan berbeda. Pejalan kaki, pesepeda, anak, lansia, dan penyandang disabilitas dapat lebih rentan ketika berinteraksi dengan kendaraan bermotor. Penilaian keselamatan harus mengamati seluruh perjalanan, termasuk akses menuju halte dan fasilitas publik. Data kejadian perlu dibaca dengan hati-hati karena pelaporan yang tidak lengkap dapat menyembunyikan masalah.
+
+Pendidikan keselamatan bermanfaat, tetapi tidak menggantikan desain dan pengelolaan yang baik. Kampanye harus memberi informasi yang benar tanpa menyalahkan korban. Evaluasi program dapat memeriksa perubahan kecepatan, kualitas fasilitas, dan pengalaman pengguna, bukan sekadar jumlah poster yang dibagikan.
+
+BAB: TRANSPORTASI, EMISI, DAN KEADILAN AKSES
+
+Pilihan moda memengaruhi konsumsi energi, emisi, kebisingan, penggunaan ruang, dan kualitas udara. Perbandingan lingkungan perlu menggunakan batas analisis yang jelas, misalnya per penumpang-kilometer dan mempertimbangkan tingkat keterisian. Kendaraan beremisi rendah tetap membutuhkan energi, bahan, dan infrastruktur sehingga evaluasi sebaiknya melihat siklus hidup.
+
+Kebijakan transportasi juga memengaruhi kesempatan memperoleh pendidikan, pekerjaan, layanan kesehatan, dan kegiatan sosial. Tarif yang tidak terjangkau atau rute yang tidak menjangkau wilayah tertentu dapat membatasi akses. Analisis pemerataan perlu melihat siapa yang menerima manfaat, siapa yang menanggung biaya, dan apakah kelompok tertentu mengalami waktu perjalanan jauh lebih lama.
+
+Perbaikan transportasi dapat mengubah nilai lahan dan pola aktivitas. Perubahan tersebut dapat memberi manfaat sekaligus menimbulkan tekanan biaya bagi warga lama. Perencanaan yang bertanggung jawab menggabungkan transportasi dengan kebijakan perumahan, ruang publik, dan perlindungan akses agar peningkatan konektivitas tidak mendorong ketidakadilan baru.
+
+PROYEK
+
+Pilih satu koridor perjalanan yang dapat diamati dengan aman. Petakan moda, titik perpindahan, akses pejalan kaki, informasi jadwal, dan hambatan bagi pengguna. Susun usulan perbaikan berdasarkan keselamatan, waktu total perjalanan, biaya, dan pemerataan. Gunakan data yang tidak mengidentifikasi individu.
+
+PERTANYAAN
+
+1. Mengapa jarak lurus tidak selalu menggambarkan konektivitas?
+2. Apa saja komponen waktu total perjalanan angkutan umum?
+3. Mengapa keselamatan tidak boleh hanya bergantung pada perilaku pengguna?
+4. Bagaimana transportasi memengaruhi akses terhadap kesempatan?
+5. Mengapa analisis emisi perlu menetapkan batas perhitungan?

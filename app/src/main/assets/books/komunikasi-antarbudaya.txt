@@ -341,3 +341,37 @@ LATIHAN PENDALAMAN
 PROYEK MINI: AUDIT KOMUNIKASI LAYANAN
 
 Pilih satu layanan publik atau organisasi yang informasinya tersedia untuk umum. Periksa apakah petunjuknya menggunakan bahasa jelas, menyediakan istilah yang dijelaskan, mudah diakses, dan memberi saluran pertanyaan. Jangan mengumpulkan identitas atau merekam orang tanpa izin. Susun rekomendasi yang memuat masalah, bukti pengamatan, kelompok pengguna yang mungkin terdampak, biaya atau keterbatasan, serta cara mengukur perbaikan.
+
+
+BAB PENDALAMAN: IDENTITAS, KEANGGOTAAN, DAN KERAGAMAN INTERNAL
+
+Identitas seseorang terbentuk melalui banyak unsur yang saling berinteraksi, seperti bahasa, keluarga, pendidikan, wilayah, pekerjaan, minat, dan pengalaman hidup. Seseorang dapat menjadi bagian dari beberapa komunitas sekaligus. Keanggotaan tersebut tidak selalu memiliki arti yang sama dalam setiap situasi. Karena itu, pertanyaan tentang identitas sebaiknya diajukan dengan hormat dan tidak menganggap satu ciri mewakili seluruh kepribadian seseorang.
+
+Kelompok budaya juga memiliki keragaman internal. Perbedaan generasi, lingkungan kota dan desa, pengalaman migrasi, akses pendidikan, dan pilihan pribadi dapat menghasilkan kebiasaan yang berbeda di dalam kelompok yang sama. Menggunakan label budaya sebagai penjelasan otomatis berisiko menghapus variasi tersebut. Pendekatan yang lebih baik adalah memperlakukan pengetahuan umum sebagai dugaan awal yang perlu dikonfirmasi melalui percakapan, bukan sebagai kesimpulan tentang individu.
+
+BAB PENDALAMAN: BAHASA, PENERJEMAHAN, DAN MAKNA
+
+Bahasa tidak hanya memindahkan informasi, tetapi juga membawa tingkat kesopanan, hubungan sosial, humor, dan makna yang bergantung pada konteks. Terjemahan kata demi kata dapat kehilangan maksud, terutama pada ungkapan, peribahasa, istilah teknis, dan bentuk sapaan. Penerjemah perlu memahami siapa yang berbicara, kepada siapa, untuk tujuan apa, dan dalam situasi seperti apa.
+
+Dalam komunikasi layanan, istilah yang rumit sebaiknya dijelaskan dengan bahasa sederhana tanpa menghilangkan ketepatan. Jika sebuah istilah tidak memiliki padanan langsung, berikan definisi dan contoh. Materi penting perlu diperiksa oleh penutur yang memahami bahasa sasaran serta konteks penggunaan. Penerjemahan otomatis dapat membantu membuat draf, tetapi hasilnya harus diperiksa manusia, terutama untuk informasi kesehatan, keselamatan, hak, dan prosedur resmi.
+
+BAB PENDALAMAN: PRASANGKA, STEREOTIP, DAN ATRIBUSI
+
+Stereotip menyederhanakan kelompok menjadi sejumlah ciri yang dianggap berlaku bagi semua anggota. Prasangka merupakan penilaian yang terbentuk sebelum seseorang memahami individu atau situasinya. Diskriminasi terjadi ketika perlakuan tidak adil diwujudkan dalam tindakan atau aturan. Ketiganya berkaitan, tetapi tidak identik. Memahami perbedaan istilah membantu menganalisis masalah secara lebih tepat.
+
+Kesalahan atribusi terjadi ketika perilaku seseorang dijelaskan hanya melalui sifat pribadi atau identitas kelompok, sementara keadaan situasional diabaikan. Misalnya, keterlambatan rapat dapat disebabkan jadwal transportasi, aksesibilitas tempat, atau informasi yang tidak jelas, bukan semata-mata sikap tidak menghargai waktu. Analisis yang adil mengumpulkan konteks sebelum menarik kesimpulan.
+
+BAB PENDALAMAN: KOMUNIKASI DALAM TIM MULTIBAHASA
+
+Tim multibahasa perlu menyepakati bahasa kerja, istilah penting, cara mencatat keputusan, dan mekanisme meminta penjelasan. Kecepatan berbicara bukan ukuran kecakapan berpikir. Beri waktu untuk menyusun jawaban, sediakan ringkasan tertulis, dan pastikan pertanyaan dapat diajukan tanpa mempermalukan peserta. Jika penerjemah digunakan, pembicara sebaiknya menyampaikan gagasan dalam bagian yang cukup singkat agar makna tidak hilang.
+
+Rapat yang inklusif memiliki agenda yang dibagikan sebelumnya, aturan giliran bicara, catatan keputusan, dan daftar tindakan dengan penanggung jawab. Fasilitator dapat meminta peserta menyampaikan kembali pemahaman mereka tentang keputusan, bukan untuk menguji, melainkan untuk memastikan pesan dipahami secara sama. Ketidaksepakatan perlu dicatat secara akurat dan tidak diubah menjadi persetujuan palsu.
+
+STUDI KASUS: INFORMASI LAYANAN UNTUK MASYARAKAT BERAGAM
+
+Sebuah pusat layanan menyediakan pengumuman dalam satu bahasa dan menganggap semua pengunjung memahaminya. Keluhan meningkat karena beberapa istilah administratif sulit dimengerti. Tim melakukan wawancara sukarela, menguji versi bahasa sederhana, menyediakan bantuan penjelasan, dan memastikan informasi inti konsisten. Evaluasi membandingkan tingkat pemahaman dan jumlah kesalahan proses, bukan hanya jumlah brosur yang dibagikan.
+
+PROYEK MINI: ANALISIS PESAN LINTAS KONTEKS
+
+Pilih pengumuman publik yang tersedia secara terbuka. Identifikasi tujuan, audiens, istilah yang mungkin ambigu, asumsi budaya, dan saluran penyebarannya. Buat versi alternatif yang lebih jelas dan aksesibel. Jelaskan perubahan yang dilakukan dan minta umpan balik secara sukarela tanpa mengumpulkan informasi pribadi yang tidak diperlukan.
+

@@ -268,3 +268,44 @@ LATIHAN BAB
 3. Apa risiko kebocoran data masa depan?
 4. Mengapa model perlu dibandingkan dengan baseline sederhana?
 5. Sebutkan unsur penting pada peta statistik yang dapat dibandingkan antarwaktu.
+
+BAB LANJUTAN: MERANCANG ANALISIS DARI PERTANYAAN
+
+Analisis statistik yang baik dimulai dari pertanyaan yang dapat dijawab oleh data. Pertanyaan “apakah program berhasil?” terlalu luas jika tidak dijelaskan siapa penerima program, hasil apa yang dinilai, kapan perubahan diharapkan muncul, dan dibandingkan dengan keadaan apa. Pertanyaan yang lebih terukur misalnya: “Apakah rata-rata waktu tunggu layanan berubah setelah sistem antrean baru diterapkan, dan apakah perubahan itu berbeda menurut jenis layanan?” Rumusan tersebut membantu menentukan unit analisis, variabel, periode, serta metode yang sesuai.
+
+Unit analisis harus dibedakan dari unit observasi. Dalam penelitian sekolah, unit analisis mungkin siswa, sedangkan informasi dikumpulkan dari siswa, guru, dan catatan sekolah. Jika beberapa siswa berada di sekolah yang sama, pengamatan mereka mungkin tidak sepenuhnya independen karena berbagi lingkungan dan kebijakan. Mengabaikan pengelompokan dapat membuat ketidakpastian tampak lebih kecil daripada kenyataannya. Peneliti perlu mencatat struktur data sejak tahap perancangan.
+
+Definisi operasional mengubah konsep abstrak menjadi ukuran yang dapat diamati. “Kesejahteraan”, “kualitas layanan”, dan “partisipasi” tidak memiliki satu ukuran universal. Peneliti perlu menjelaskan indikator yang dipilih, cara pengumpulan, skala, serta alasan pemilihannya. Dua indikator yang sama-sama masuk akal dapat menangkap sisi konsep yang berbeda. Karena itu, hasil sebaiknya tidak menyatakan bahwa satu angka mewakili seluruh konsep.
+
+Rencana analisis dapat ditulis sebelum data diperiksa secara mendalam. Dokumen ini menyebut hipotesis, variabel utama, kriteria data yang dikeluarkan, penanganan nilai hilang, dan metode yang akan digunakan. Preregistrasi atau rencana analisis awal mengurangi risiko memilih hanya hasil yang tampak menarik setelah banyak pengujian dilakukan. Perubahan rencana tetap boleh dilakukan jika ada alasan metodologis, tetapi perubahan tersebut perlu dicatat dan dibedakan dari analisis yang direncanakan sejak awal.
+
+Nilai hilang perlu dipahami berdasarkan proses yang menyebabkannya. Responden mungkin tidak menjawab pertanyaan tertentu karena lupa, tidak memahami, merasa tidak nyaman, atau memang tidak memiliki informasi. Pola kehilangan dapat berbeda antar kelompok. Mengganti semua nilai kosong dengan nol sering keliru karena nol adalah nilai yang bermakna, sedangkan data hilang berarti nilai tidak diketahui. Laporan harus menjelaskan jumlah data hilang dan metode penanganannya.
+
+Analisis sensitivitas menguji apakah kesimpulan berubah ketika asumsi atau pilihan analisis yang wajar diubah. Contohnya, peneliti dapat membandingkan hasil dengan dan tanpa pencilan yang telah ditinjau, memakai beberapa definisi kelompok, atau menguji model alternatif. Tujuannya bukan mencari hasil yang paling menguntungkan, melainkan mengetahui seberapa bergantung kesimpulan pada keputusan analitis. Jika hasil berubah besar, ketidakstabilan itu harus menjadi bagian dari pembahasan.
+
+PENILAIAN KUALITAS DAN PELAPORAN
+
+Ketepatan pengukuran, keterwakilan sampel, dan ketepatan model merupakan persoalan berbeda. Sampel besar tidak otomatis menghilangkan bias jika kelompok tertentu tidak terwakili. Instrumen yang konsisten juga belum tentu mengukur konsep yang dimaksud. Model yang cocok pada data pelatihan belum tentu bekerja baik pada populasi atau periode lain. Evaluasi perlu menilai ketiga lapisan tersebut secara terpisah.
+
+Interval kepercayaan menyampaikan rentang ketidakpastian berdasarkan metode dan asumsi tertentu. Interval itu bukan jaminan bahwa parameter populasi pasti berada di dalam rentang pada satu penelitian. Interpretasinya berkaitan dengan prosedur pengambilan sampel berulang dalam kerangka statistik yang digunakan. Pembaca perlu menghindari penyederhanaan seperti menyebut interval sebagai batas pasti kebenaran.
+
+Ukuran efek membantu menilai besarnya perbedaan atau hubungan, sedangkan nilai p menjawab pertanyaan yang lebih terbatas tentang kesesuaian data dengan hipotesis nol dan asumsi model. Nilai p kecil tidak selalu berarti dampak penting secara praktis. Sebaliknya, hasil yang tidak signifikan bukan bukti bahwa tidak ada efek sama sekali. Besaran estimasi, interval ketidakpastian, mutu desain, dan konteks keputusan perlu dibaca bersama.
+
+Visualisasi sebaiknya memperlihatkan data tanpa menyembunyikan variasi. Diagram batang yang dimulai dari sumbu terpotong dapat melebih-lebihkan perbedaan. Grafik rata-rata tanpa sebaran dapat menutupi kelompok yang sangat beragam. Untuk data berpasangan, garis penghubung sebelum dan sesudah dapat memperlihatkan variasi perubahan individu. Setiap gambar perlu memiliki judul informatif, satuan, sumber, ukuran sampel, dan keterangan transformasi.
+
+Laporan yang dapat direproduksi mencatat versi data, kamus variabel, perangkat lunak, paket, dan langkah pembersihan. Data pribadi tidak harus dipublikasikan agar analisis dapat ditinjau. Dalam situasi sensitif, peneliti dapat menyediakan data sintetis, kode analisis, dokumentasi agregat, atau akses terbatas melalui prosedur yang sah. Keterbukaan harus diseimbangkan dengan kerahasiaan dan persetujuan responden.
+
+STUDI KASUS: EVALUASI WAKTU TUNGGU
+
+Sebuah pusat layanan ingin mengetahui apakah sistem janji temu mengurangi waktu tunggu. Sebelum membandingkan angka, tim mendefinisikan waktu tunggu sebagai selisih antara waktu kedatangan yang tercatat dan waktu layanan dimulai. Mereka memeriksa apakah jam pada semua perangkat tersinkronisasi, apakah pembatalan dihitung, dan apakah layanan darurat perlu dianalisis terpisah. Tanpa definisi konsisten, perbandingan sebelum dan sesudah dapat menyesatkan.
+
+Tim mengumpulkan data beberapa minggu sebelum dan sesudah perubahan. Mereka menampilkan median, kuartil, jumlah pengunjung, serta distribusi menurut jenis layanan dan hari. Median dipakai bersama rata-rata karena beberapa antrean yang sangat panjang dapat menarik rata-rata ke atas. Tim juga memeriksa apakah jumlah petugas atau jam operasional berubah pada periode yang sama.
+
+Hasil deskriptif menunjukkan waktu tunggu menurun, tetapi tim tidak langsung menyimpulkan bahwa sistem baru menjadi satu-satunya penyebab. Perubahan jumlah pengunjung, komposisi layanan, dan musim dapat berpengaruh. Jika memungkinkan, tim membandingkan dengan unit layanan serupa yang belum menerapkan sistem, sambil menjelaskan keterbatasan kesetaraan kedua unit. Kesimpulan akhir menyatakan pola yang ditemukan, tingkat ketidakpastian, faktor pengganggu yang mungkin, serta data tambahan yang dibutuhkan.
+
+LATIHAN BAB
+1. Jelaskan perbedaan unit analisis dan unit observasi.
+2. Mengapa nilai hilang tidak boleh otomatis diganti nol?
+3. Apa tujuan analisis sensitivitas?
+4. Mengapa nilai p harus dibaca bersama ukuran efek dan interval ketidakpastian?
+5. Rancang definisi operasional untuk mengukur ketepatan waktu layanan.

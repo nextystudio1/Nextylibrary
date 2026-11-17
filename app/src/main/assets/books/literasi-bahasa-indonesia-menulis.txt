@@ -291,3 +291,57 @@ Penulis bertanggung jawab atas ketepatan kutipan, atribusi, izin penggunaan gamb
 LATIHAN
 
 Ambil satu artikel informatif. Tandai klaim utama, bukti, dan sanggahannya. Periksa satu sumber primer. Tulis ringkasan 200 kata yang membedakan fakta dan interpretasi. Setelah itu, tulis paragraf argumentatif yang menyebutkan keterbatasan sumber tersebut.
+
+BAB PENDALAMAN: MENYUSUN ARGUMEN DAN TULISAN BERBASIS BUKTI
+
+Tulisan informatif dan argumentatif memerlukan gagasan utama yang jelas. Gagasan utama menjawab pertanyaan: apa yang ingin dijelaskan atau dipertahankan penulis? Setiap paragraf kemudian mengembangkan satu bagian dari gagasan tersebut. Paragraf yang baik memiliki hubungan logis antara kalimat topik, penjelasan, bukti, dan simpulan kecil. Jika satu paragraf memuat terlalu banyak ide, pembaca sulit melihat arah pembahasan.
+
+KLAIM, BUKTI, DAN PENALARAN
+
+Klaim adalah pernyataan yang perlu didukung. Bukti dapat berupa data, dokumen, hasil penelitian, contoh yang relevan, atau keterangan narasumber yang dapat dipertanggungjawabkan. Penalaran menjelaskan mengapa bukti tersebut mendukung klaim. Menyajikan angka tanpa menjelaskan konteks tidak otomatis menghasilkan argumen kuat.
+
+Penulis perlu membedakan fakta, pendapat, dan inferensi. Fakta dapat diperiksa melalui sumber. Pendapat menyatakan penilaian atau posisi. Inferensi merupakan kesimpulan yang ditarik dari bukti dan asumsi tertentu. Inferensi dapat masuk akal tetapi tetap memiliki batas. Menjelaskan asumsi membuat tulisan lebih transparan.
+
+STRUKTUR ARGUMEN
+
+Argumen yang matang menyatakan tesis, memberikan alasan, menyajikan bukti, mempertimbangkan keberatan, lalu menjelaskan kesimpulan. Keberatan tidak perlu digambarkan secara lemah. Sajikan pandangan berbeda dengan adil, kemudian jawab menggunakan alasan dan bukti. Cara ini meningkatkan kepercayaan pembaca karena penulis menunjukkan bahwa persoalan telah dipertimbangkan dari beberapa sisi.
+
+Hindari generalisasi berlebihan dari satu contoh. Satu pengalaman pribadi dapat menggambarkan kasus, tetapi belum cukup untuk menyimpulkan keadaan seluruh masyarakat. Jika bukti terbatas, gunakan bahasa yang sesuai seperti “dalam kasus ini”, “data yang tersedia menunjukkan”, atau “temuan ini belum cukup untuk memastikan”. Kalibrasi bahasa merupakan bagian dari ketelitian ilmiah.
+
+KOHERENSI DAN KOHESI
+
+Koherensi adalah keterpaduan gagasan, sedangkan kohesi berkaitan dengan hubungan bentuk bahasa antarkalimat. Kata penghubung seperti sebab, akibat, meskipun, dan sebaliknya membantu pembaca memahami hubungan logis. Namun, kata penghubung tidak dapat memperbaiki penalaran yang tidak masuk akal. Periksa apakah hubungan yang dinyatakan benar-benar didukung isi.
+
+Rujukan kata juga harus jelas. Kata “hal tersebut”, “mereka”, atau “ini” dapat membingungkan jika merujuk pada beberapa kemungkinan. Pengulangan istilah kunci terkadang lebih baik daripada variasi sinonim yang mengubah makna. Konsistensi istilah sangat penting dalam tulisan teknis dan akademik.
+
+RINGKASAN DAN PARAFRASA
+
+Ringkasan mengambil gagasan utama dan informasi pendukung yang relevan dengan bahasa lebih singkat. Parafrasa menyampaikan kembali gagasan sumber dengan struktur dan pilihan kata sendiri, tetapi tetap mempertahankan makna. Mengganti beberapa kata dengan sinonim tanpa memahami isi bukan parafrasa yang baik. Penulis harus membaca, memahami, menutup sumber, menyusun ulang gagasan, lalu membandingkan hasilnya untuk memastikan akurasi.
+
+Atribusi tetap diperlukan ketika gagasan berasal dari sumber lain. Kutipan langsung digunakan ketika susunan kata asli memang penting, dan harus diberi tanda serta rujukan sesuai gaya yang dipakai. Jangan mengutip sumber yang belum dibaca hanya karena disebut dalam tulisan lain. Jika sumber primer tidak tersedia, jelaskan bahwa informasi diperoleh melalui sumber sekunder.
+
+PENYUNTINGAN BERTAHAP
+
+Penyuntingan substantif memeriksa struktur, kelengkapan argumen, urutan, dan kesesuaian dengan tujuan pembaca. Penyuntingan kalimat memperbaiki kejelasan, ketepatan istilah, dan kelancaran. Pemeriksaan akhir melihat ejaan, tanda baca, format, konsistensi judul, serta kelengkapan rujukan. Memisahkan tahap ini membantu penulis tidak terjebak memperbaiki tanda baca pada paragraf yang nantinya harus dihapus.
+
+Membaca naskah dengan suara pelan dapat membantu menemukan kalimat terlalu panjang atau hubungan gagasan yang janggal. Membaca dari bagian akhir ke awal dapat membantu memeriksa ejaan tanpa terlalu terpengaruh alur cerita. Alat pemeriksa bahasa berguna sebagai pendamping, tetapi saran otomatis harus dinilai berdasarkan konteks dan makna.
+
+MENULIS UNTUK PEMBACA YANG BERBEDA
+
+Tulisan untuk laporan kebijakan, artikel populer, petunjuk layanan, dan karya akademik memiliki kebutuhan berbeda. Laporan kebijakan menonjolkan masalah, bukti, pilihan, dan konsekuensi. Artikel populer menjelaskan konsep dengan bahasa mudah tanpa mengorbankan ketepatan. Petunjuk layanan mengutamakan urutan tindakan dan istilah yang tidak ambigu. Penulis perlu menentukan pengetahuan awal, kebutuhan, dan situasi pembaca sebelum memilih gaya.
+
+Bahasa sederhana bukan berarti dangkal. Kalimat langsung, paragraf teratur, dan istilah yang dijelaskan dapat menyampaikan gagasan kompleks secara akurat. Hindari jargon yang tidak perlu, tetapi jangan mengganti istilah teknis dengan ungkapan kabur jika ketepatan konsep penting.
+
+ETIKA DAN AKUNTABILITAS
+
+Penulis harus jujur tentang asal data, kontribusi, penggunaan alat bantu, dan keterbatasan. Jangan membuat kutipan, wawancara, atau daftar pustaka fiktif. Jika kesalahan ditemukan setelah publikasi, lakukan koreksi sesuai kebijakan penerbit dan jelaskan perubahan secara transparan. Materi yang melibatkan orang perlu menjaga privasi, memperoleh izin yang diperlukan, dan menghindari penggambaran yang merendahkan.
+
+LATIHAN DAN PROYEK
+
+1. Bedakan klaim, bukti, dan penalaran dalam satu paragraf argumentatif.
+2. Mengapa satu contoh tidak cukup untuk membuat generalisasi luas?
+3. Apa perbedaan ringkasan dan parafrasa?
+4. Sebutkan tiga tahap penyuntingan dan tujuan masing-masing.
+5. Bagaimana gaya tulisan berubah menurut kebutuhan pembaca?
+
+Proyek: pilih isu pendidikan atau lingkungan yang memiliki data publik. Tulis artikel argumentatif singkat dengan tesis, tiga alasan, bukti yang dapat diperiksa, satu keberatan yang dijawab secara adil, dan daftar sumber. Tandai bagian yang merupakan fakta, interpretasi, dan rekomendasi. Periksa kembali setiap angka dan jangan membuat sumber yang tidak pernah dibaca.

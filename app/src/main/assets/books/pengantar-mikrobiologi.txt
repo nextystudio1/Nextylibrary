@@ -315,3 +315,45 @@ LATIHAN DAN PROYEK
 5. Mengapa hasil laboratorium harus dilaporkan bersama batas deteksi dan keterbatasan metode?
 
 Proyek: analisis dataset simulasi kualitas air yang memuat parameter fisik, kimia, dan hasil pemeriksaan mikrobiologi. Buat grafik perubahan, rumuskan beberapa hipotesis yang mungkin, dan jelaskan data tambahan yang diperlukan. Gunakan data simulasi atau data publik, bukan sampel biologis yang dikumpulkan sendiri.
+
+BAB PENDALAMAN: STRUKTUR DAN FUNGSI SEL MIKROBA
+
+Mikroorganisme mencakup kelompok yang sangat beragam. Bakteri dan Archaea merupakan organisme prokariotik, sedangkan khamir, kapang, dan protozoa termasuk eukariotik. Virus berbeda karena tidak memiliki struktur sel dan memerlukan sel inang untuk memperbanyak materi genetiknya. Perbedaan organisasi ini memengaruhi metabolisme, reproduksi, interaksi ekologis, dan cara ilmuwan mempelajarinya.
+
+Pada bakteri, membran sel mengatur pertukaran zat, sementara dinding sel membantu mempertahankan bentuk dan melindungi sel. Materi genetik utama berada pada wilayah nukleoid, dan sebagian bakteri memiliki plasmid yang dapat membawa gen tambahan. Struktur permukaan tertentu membantu perlekatan atau pergerakan. Tidak semua mikroba memiliki struktur yang sama; variasi tersebut merupakan salah satu alasan identifikasi perlu menggunakan lebih dari satu ciri.
+
+Metabolisme mikroba sangat beragam. Ada organisme yang menggunakan cahaya sebagai sumber energi, ada yang memperoleh energi dari reaksi kimia, dan ada yang menggunakan senyawa organik. Sumber karbon juga bervariasi. Keragaman strategi ini membuat mikroorganisme dapat hidup pada tanah, air, sedimen, tubuh organisme, dan lingkungan ekstrem tertentu.
+
+BAB PENDALAMAN: MIKROBA DALAM SIKLUS BIOGEOKIMIA
+
+Mikroba berperan dalam daur karbon dengan menguraikan bahan organik, menghasilkan atau menggunakan karbon dioksida, dan pada lingkungan tertentu terlibat dalam pembentukan metana. Dalam daur nitrogen, kelompok mikroba menjalankan proses seperti fiksasi nitrogen, nitrifikasi, dan denitrifikasi. Proses-proses tersebut mengubah bentuk kimia unsur sehingga dapat digunakan atau dilepaskan kembali ke lingkungan.
+
+Daur unsur tidak berlangsung terpisah. Ketersediaan oksigen, kelembapan, suhu, pH, dan bahan organik memengaruhi aktivitas komunitas mikroba. Perubahan kondisi dapat menggeser proses dominan. Karena itu, penjelasan ekologi mikroba perlu mempertimbangkan kondisi lingkungan dan interaksi antarorganisme.
+
+Penguraian bahan organik merupakan layanan ekosistem penting, tetapi proses yang sama dapat menimbulkan masalah jika berlangsung dalam kondisi yang menyebabkan penurunan oksigen pada perairan. Ledakan nutrien dari sumber tertentu dapat meningkatkan pertumbuhan alga, lalu penguraian biomassa memengaruhi oksigen terlarut. Analisis perlu menghubungkan sumber nutrien, kondisi perairan, komunitas organisme, dan perubahan kualitas air.
+
+BAB PENDALAMAN: MIKROBIOMA DAN KESEHATAN
+
+Mikrobioma adalah komunitas mikroorganisme beserta konteks genetik dan lingkungannya pada suatu habitat. Pada manusia, komunitas mikroba ditemukan antara lain pada saluran pencernaan dan permukaan tubuh. Komunitas ini dapat berinteraksi dengan pencernaan, metabolisme, dan sistem kekebalan. Namun, hubungan antara komposisi mikrobioma dan kondisi kesehatan sering kompleks dan tidak otomatis menunjukkan sebab-akibat.
+
+Pola makan, usia, lingkungan, obat-obatan, dan kondisi kesehatan dapat memengaruhi komunitas mikroba. Penelitian perlu membedakan perubahan yang menjadi penyebab, akibat, atau sekadar berkaitan dengan suatu kondisi. Studi observasional dapat menemukan hubungan, sedangkan pengujian mekanisme membutuhkan rancangan penelitian yang lebih terkontrol dan pertimbangan etika.
+
+Istilah mikrobioma tidak boleh digunakan sebagai label sederhana bahwa suatu komunitas selalu baik atau buruk. Fungsi mikroba bergantung pada lokasi dan konteks. Mikroorganisme yang bermanfaat dalam satu lingkungan dapat menimbulkan masalah ketika berada di lokasi lain. Penilaian harus berbasis bukti spesifik, bukan klaim pemasaran yang berlebihan.
+
+BAB PENDALAMAN: METODE ILMIAH DAN BIOSAFETY
+
+Mikrobiologi menggunakan mikroskopi, kultur, metode molekuler, pengukuran metabolit, dan analisis komputasi. Setiap metode menjawab pertanyaan berbeda. Kultur hanya mendeteksi organisme yang dapat tumbuh pada kondisi yang digunakan, sehingga hasil negatif tidak membuktikan bahwa mikroorganisme tidak ada. Metode molekuler dapat mendeteksi materi genetik, tetapi tidak selalu menunjukkan apakah organisme masih hidup atau aktif.
+
+Kualitas data bergantung pada rancangan sampel, kontrol, replikasi, pencatatan, dan batas deteksi. Kontrol membantu menilai apakah sinyal berasal dari proses yang diharapkan atau dari faktor lain. Hasil perlu disajikan bersama metode dan keterbatasan agar dapat dinilai serta diulang oleh peneliti lain.
+
+Keselamatan biologis memerlukan penilaian risiko, fasilitas sesuai, pelatihan, pengawasan, dan prosedur resmi. Materi pengantar ini tidak menjadi panduan untuk mengisolasi, memperbanyak, atau menangani mikroorganisme. Pembelajaran dapat menggunakan diagram, video pendidikan, data publik, dan dataset simulasi tanpa melakukan eksperimen biologis mandiri.
+
+LATIHAN DAN PROYEK
+
+1. Bedakan organisasi sel prokariotik dan eukariotik.
+2. Jelaskan peran mikroba dalam daur karbon dan nitrogen.
+3. Mengapa hubungan mikrobioma dengan penyakit tidak otomatis membuktikan sebab-akibat?
+4. Apa keterbatasan metode kultur dan metode molekuler?
+5. Mengapa kontrol dan replikasi penting dalam penelitian?
+
+Proyek: analisis dataset simulasi kualitas air yang berisi suhu, pH, oksigen terlarut, nutrien, dan indikator mikrobiologi. Buat grafik, ajukan hipotesis, dan tuliskan data tambahan yang dibutuhkan untuk menguji hipotesis. Gunakan hanya data simulasi atau data publik yang sah.

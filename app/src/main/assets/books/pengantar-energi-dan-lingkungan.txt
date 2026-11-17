@@ -371,3 +371,30 @@ LATIHAN ANALISIS
 PROYEK PEMBELAJARAN
 
 Pilih satu layanan energi yang dikenal, seperti penerangan sekolah atau pendinginan ruang belajar. Petakan sumber energi, perangkat, pola penggunaan, biaya, kebutuhan pemeliharaan, dan kelompok pengguna. Identifikasi tahap siklus hidup yang relevan tanpa mengarang data yang tidak tersedia. Buat tiga skenario perbaikan, tetapkan indikator keberhasilan, dan jelaskan siapa yang perlu dilibatkan. Tutup laporan dengan bagian asumsi, keterbatasan, dan pertanyaan yang masih perlu diteliti.
+
+BAB LANJUTAN: EFISIENSI ENERGI, JEJAK SIKLUS HIDUP, DAN TRANSISI BERKELANJUTAN
+
+Efisiensi energi menunjukkan seberapa besar layanan atau keluaran yang diperoleh dari energi yang digunakan. Membandingkan dua perangkat perlu memperhatikan fungsi, kapasitas, pola pemakaian, dan umur layanan. Perangkat dengan daya lebih kecil belum tentu lebih efisien jika membutuhkan waktu jauh lebih lama untuk memberikan layanan yang sama. Karena itu, satuan seperti energi per unit layanan dapat memberi perbandingan lebih adil daripada hanya melihat angka daya pada label.
+
+Audit energi dimulai dengan menentukan batas sistem. Pada bangunan, batas dapat mencakup pencahayaan, pendinginan, pompa, peralatan, dan selubung bangunan. Data penggunaan perlu dikumpulkan pada periode yang mewakili pola aktivitas. Perubahan cuaca, jumlah penghuni, dan jam operasional dapat memengaruhi konsumsi. Tanpa pencatatan konteks, penurunan energi mungkin hanya mencerminkan berkurangnya aktivitas, bukan peningkatan efisiensi.
+
+Penghematan energi dapat berasal dari perubahan perilaku, pemeliharaan, pengaturan operasi, atau penggantian teknologi. Langkah tanpa biaya besar sering mencakup mematikan perangkat yang tidak digunakan, memperbaiki kebocoran udara, dan mengatur jadwal operasi. Namun, tindakan harus mempertimbangkan kenyamanan, kesehatan, serta kebutuhan aksesibilitas. Penghematan yang membuat ruang terlalu panas atau tidak aman bukan hasil yang baik.
+
+Analisis siklus hidup menilai dampak dari tahap bahan baku, produksi, distribusi, penggunaan, hingga akhir masa pakai. Perangkat yang hemat energi saat digunakan mungkin membutuhkan bahan atau proses produksi yang intensif. Sebaliknya, produk yang mudah diperbaiki dan tahan lama dapat mengurangi kebutuhan penggantian. Penilaian harus menggunakan unit fungsi yang sama dan menyatakan batas analisis agar perbandingan tidak menyesatkan.
+
+Sumber energi memiliki karakteristik yang berbeda dalam hal emisi, ketersediaan, fleksibilitas, kebutuhan lahan, dan dampak ekologi. Energi terbarukan dapat mengurangi ketergantungan pada bahan bakar fosil, tetapi tetap memerlukan perencanaan lokasi, jaringan, penyimpanan, dan pengelolaan material. Tidak ada teknologi yang bebas dampak. Pertanyaan yang tepat adalah bagaimana memilih kombinasi yang sesuai dengan kebutuhan lokal dan mengurangi dampak sepanjang siklus hidup.
+
+Transisi energi juga merupakan persoalan sosial. Pekerja, rumah tangga, usaha kecil, dan wilayah yang bergantung pada industri tertentu dapat mengalami perubahan biaya dan kesempatan kerja. Kebijakan yang adil perlu mempertimbangkan pelatihan, perlindungan sosial, keterjangkauan layanan, dan partisipasi masyarakat. Keputusan tidak cukup dinilai dari jumlah kapasitas terpasang; akses energi yang andal dan terjangkau juga penting.
+
+Ketahanan energi berarti kemampuan sistem menyediakan layanan ketika terjadi gangguan. Diversifikasi sumber, jaringan yang terawat, cadangan yang sesuai, dan rencana respons dapat mengurangi kerentanan. Risiko dapat berasal dari cuaca ekstrem, gangguan pasokan, kegagalan peralatan, atau perubahan permintaan. Analisis skenario membantu menguji bagaimana sistem berperilaku dalam kondisi berbeda tanpa menganggap satu ramalan sebagai kepastian.
+
+Indikator lingkungan harus dipilih sesuai tujuan. Intensitas energi, emisi per unit layanan, kualitas udara, penggunaan air, dan jumlah limbah menggambarkan aspek yang berbeda. Satu indikator tidak mewakili seluruh kinerja. Pengukuran harus menyebutkan metode, periode, dan sumber data. Jika data tidak tersedia, laporan sebaiknya menyatakan kekosongan tersebut daripada mengisi angka perkiraan seolah hasil pengukuran.
+
+Studi kasus: pengelola gedung pendidikan ingin mengurangi konsumsi listrik. Mereka memetakan beban utama, memeriksa jadwal pemakaian, dan mengumpulkan data beberapa minggu. Setelah menemukan ruang yang sering menggunakan pencahayaan dan pendinginan ketika kosong, mereka menguji perubahan jadwal dan perawatan perangkat. Hasil dibandingkan dengan periode yang setara dan disertai catatan cuaca serta aktivitas agar pengaruhnya tidak disalahartikan.
+
+Latihan penerapan:
+1. Tentukan unit layanan untuk membandingkan dua perangkat energi.
+2. Buat batas sistem sederhana untuk audit energi sebuah ruang.
+3. Identifikasi dampak lingkungan pada tiga tahap siklus hidup produk.
+4. Jelaskan dua risiko sosial dalam transisi energi dan cara menguranginya.
+5. Pilih indikator untuk menilai keberhasilan program efisiensi energi.

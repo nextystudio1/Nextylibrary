@@ -205,3 +205,44 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Mengapa akurasi rata-rata belum cukup untuk menilai keadilan model?
 4. Berikan contoh pengawasan manusia yang bermakna.
 5. Susun tiga pertanyaan audit etika sebelum fitur digital diluncurkan.
+
+BAB LANJUTAN: TATA KELOLA DATA DAN PRIVASI SEJAK PERANCANGAN
+
+Privasi bukan hanya persoalan menyembunyikan informasi. Privasi mencakup kendali yang wajar atas pengumpulan, penggunaan, penyimpanan, penggabungan, dan pembagian data. Sistem sebaiknya mengumpulkan data secukupnya untuk tujuan yang jelas. Informasi yang tidak diperlukan sebaiknya tidak dikumpulkan hanya karena secara teknis tersedia.
+
+Prinsip perlindungan sejak perancangan berarti privasi dipertimbangkan sejak tahap ide, bukan ditambahkan setelah produk selesai. Tim perlu menentukan tujuan pemrosesan, dasar yang sesuai, masa penyimpanan, pihak yang dapat mengakses, dan cara menghapus atau memperbaiki data. Pengaturan bawaan sebaiknya tidak membuka data lebih luas daripada yang diperlukan.
+
+Data yang tampak anonim masih dapat berisiko diidentifikasi kembali ketika digabungkan dengan sumber lain. Karena itu, pengurangan identitas, agregasi, pembatasan akses, dan pengujian risiko perlu dilakukan sesuai konteks. Penggunaan data anak atau kelompok rentan memerlukan perlindungan lebih kuat dan keterlibatan pihak yang bertanggung jawab.
+
+BAB LANJUTAN: KEADILAN ALGORITMA DAN DAMPAK DISTRIBUSIONAL
+
+Sistem algoritmik dapat memengaruhi akses terhadap informasi, layanan, dan kesempatan. Ketidakadilan dapat muncul dari data yang tidak mewakili kelompok tertentu, definisi target yang keliru, fitur yang menjadi proksi atribut sensitif, atau proses penggunaan yang tidak memberi ruang keberatan.
+
+Akurasi keseluruhan dapat menyembunyikan kesalahan yang berbeda antar kelompok. Evaluasi perlu memeriksa jenis kesalahan, konteks penggunaan, kualitas data, dan dampak nyata. Tidak ada satu metrik keadilan yang cocok untuk semua situasi; pemilihan metrik memerlukan pemahaman tentang risiko dan tujuan layanan.
+
+Pengawasan manusia harus memiliki kewenangan dan informasi yang cukup. Menempatkan manusia hanya untuk menyetujui rekomendasi otomatis tanpa waktu atau kemampuan memeriksa bukan pengawasan bermakna. Pengguna perlu mengetahui kapan keputusan dibantu sistem otomatis dan bagaimana meminta peninjauan ketika keputusan berdampak penting.
+
+BAB LANJUTAN: KEAMANAN, KETAHANAN, DAN KEGAGALAN SISTEM
+
+Keamanan teknologi merupakan proses berkelanjutan yang melibatkan identifikasi aset, penilaian ancaman, pembatasan akses, pembaruan, pencatatan, dan respons insiden. Desain yang aman mengasumsikan bahwa kesalahan dan gangguan dapat terjadi. Karena itu, sistem perlu memiliki cara pemulihan dan komunikasi yang jelas.
+
+Ketahanan sistem mencakup kemampuan mempertahankan fungsi penting ketika terjadi gangguan dan memulihkan layanan setelahnya. Ketergantungan pada satu penyedia, satu administrator, atau satu jalur data dapat menjadi titik kegagalan. Rencana kontinuitas perlu diuji dengan cara yang aman dan tidak mengganggu pengguna.
+
+Pelaporan insiden harus mendorong pembelajaran, bukan menyembunyikan kesalahan. Dokumentasikan waktu, cakupan, dampak, tindakan penanganan, dan perubahan pencegahan. Informasi kepada pengguna perlu jujur, tepat waktu, dan tidak mengungkap rincian yang justru meningkatkan risiko.
+
+BAB LANJUTAN: DAMPAK LINGKUNGAN DAN TANGGUNG JAWAB SIKLUS HIDUP
+
+Teknologi membutuhkan bahan, energi, pusat data, jaringan, perangkat, dan pengelolaan limbah. Dampak tidak hanya terjadi ketika produk digunakan, tetapi juga saat bahan ditambang, perangkat diproduksi, didistribusikan, diperbaiki, dan dibuang. Penilaian perlu memperhatikan seluruh siklus hidup serta ketidakpastian data.
+
+Perancangan yang bertanggung jawab dapat memperpanjang umur perangkat, mendukung perbaikan, mengurangi pemrosesan yang tidak perlu, dan memudahkan penggunaan ulang. Efisiensi energi perlu dinilai bersama peningkatan jumlah penggunaan. Sistem yang lebih hemat per transaksi masih dapat meningkatkan konsumsi total jika pemakaiannya tumbuh jauh lebih cepat.
+
+LATIHAN
+1. Mengapa pengumpulan data minimum mendukung privasi?
+2. Bagaimana akurasi keseluruhan dapat menyembunyikan ketidakadilan?
+3. Apa syarat pengawasan manusia yang bermakna?
+4. Mengapa rencana pemulihan perlu diuji?
+5. Sebutkan dampak lingkungan teknologi di luar tahap penggunaan.
+
+PROYEK
+Buat telaah etika untuk aplikasi pendidikan hipotetis. Petakan pihak terdampak, data yang diperlukan, risiko privasi, potensi bias, cara mengajukan keberatan, dan rencana pemulihan. Jangan menggunakan data pribadi nyata. Sajikan keputusan desain dan alasan yang dapat diperiksa.
+

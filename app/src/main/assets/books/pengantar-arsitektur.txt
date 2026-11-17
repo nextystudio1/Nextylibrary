@@ -360,3 +360,46 @@ PERTANYAAN
 3. Mengapa ruang publik perlu diamati pada waktu berbeda?
 4. Apa arti ketahanan bangunan selain kekuatan fisik?
 5. Mengapa rencana pemeliharaan perlu dirancang sejak awal?
+
+BAB PENDALAMAN: TAPAK DAN KONTEKS LINGKUNGAN
+
+Analisis tapak mempelajari hubungan bangunan dengan kondisi tempatnya. Informasi dasar mencakup orientasi matahari, arah angin, topografi, vegetasi, drainase, akses, kebisingan, pandangan, serta hubungan dengan bangunan sekitar. Data tersebut tidak cukup dikumpulkan sekali jika kondisi berubah menurut musim atau waktu. Pengamatan pagi, siang, dan sore dapat memperlihatkan perbedaan bayangan, panas, aktivitas, dan kebisingan.
+
+Topografi memengaruhi akses, aliran air, pekerjaan tanah, dan hubungan ruang. Rancangan yang mengabaikan kemiringan dapat meningkatkan kebutuhan pemotongan atau penimbunan tanah. Perubahan permukaan juga dapat mengalihkan aliran air ke lahan tetangga. Karena itu, pengelolaan air hujan dan dampak terhadap lingkungan sekitar perlu menjadi bagian dari konsep awal, bukan tambahan setelah bentuk bangunan selesai.
+
+Konteks sosial sama pentingnya dengan kondisi fisik. Jalur yang tampak paling singkat di gambar mungkin tidak nyaman atau tidak aman bagi sebagian pengguna. Akses menuju transportasi umum, fasilitas publik, dan ruang terbuka memengaruhi cara bangunan digunakan. Dialog dengan pengguna dan pengelola setempat membantu mengenali pola kegiatan yang tidak terlihat melalui peta saja.
+
+BAB PENDALAMAN: RUANG, SIRKULASI, DAN PENGALAMAN
+
+Organisasi ruang menjelaskan hubungan antaraktivitas. Ruang yang memerlukan ketenangan sebaiknya mempertimbangkan jarak dari sumber kebisingan. Area yang ramai membutuhkan jalur sirkulasi yang tidak mengganggu kegiatan lain. Kedekatan ruang dapat mempermudah layanan, tetapi juga dapat menimbulkan konflik jika kebutuhan privasi dan akustiknya berbeda.
+
+Sirkulasi bukan hanya garis penghubung pada denah. Lebar jalur, perubahan level, pintu, titik temu, penanda arah, dan tempat beristirahat membentuk pengalaman bergerak. Rute yang mudah dipahami mengurangi kebingungan. Aksesibilitas perlu dipikirkan sejak konsep sehingga pengguna dengan kemampuan bergerak yang beragam dapat mencapai fungsi utama secara bermartabat.
+
+Pengalaman ruang dipengaruhi skala, proporsi, cahaya, tekstur, warna, suara, dan suhu. Ruang yang sama dapat terasa berbeda pada jam dan tingkat kepadatan berbeda. Model fisik, gambar perspektif, dan simulasi dapat membantu menjelaskan rancangan, tetapi semuanya memiliki keterbatasan. Pengamatan terhadap bangunan yang sudah digunakan tetap penting untuk memahami perilaku nyata.
+
+BAB PENDALAMAN: DAYA TAHAN DAN PEMELIHARAAN BANGUNAN
+
+Ketahanan bangunan berarti kemampuan mempertahankan fungsi ketika menghadapi perubahan dan gangguan yang relevan. Ketahanan tidak hanya berkaitan dengan struktur, tetapi juga akses layanan, kenyamanan, kemudahan perbaikan, dan kemampuan beradaptasi. Rancangan yang dapat dirawat dengan sumber daya setempat sering lebih berkelanjutan daripada sistem rumit yang suku cadangnya sulit diperoleh.
+
+Pemeliharaan preventif dilakukan sebelum kerusakan berkembang menjadi masalah besar. Jadwal pemeriksaan, catatan perbaikan, dan penanggung jawab yang jelas membantu pengelola menjaga kinerja bangunan. Komponen yang sering diakses perlu dirancang agar pemeriksaan dapat dilakukan secara aman oleh tenaga yang kompeten. Pekerjaan pada struktur, instalasi listrik, dan sistem keselamatan harus ditangani tenaga profesional sesuai aturan.
+
+Adaptasi fungsi dapat memperpanjang masa guna bangunan. Ruang yang fleksibel memungkinkan perubahan tata letak tanpa pembongkaran besar, selama perubahan tidak melanggar batas struktur dan keselamatan. Dokumentasi rancangan, material, dan sistem bangunan membantu pemilik memahami apa yang dapat diubah dan apa yang memerlukan kajian ahli.
+
+BAB PENDALAMAN: ARSITEKTUR, IKLIM, DAN KENYAMANAN
+
+Strategi pasif menggunakan bentuk dan susunan bangunan untuk merespons iklim. Orientasi, peneduh, ventilasi alami, massa termal, dan bukaan dapat memengaruhi kebutuhan energi. Namun, strategi yang cocok di satu iklim belum tentu sesuai di tempat lain. Ventilasi alami, misalnya, bergantung pada kondisi udara luar, kebisingan, keamanan, kelembapan, dan kualitas udara.
+
+Kenyamanan termal merupakan pengalaman yang dipengaruhi suhu udara, suhu permukaan, kelembapan, kecepatan udara, pakaian, dan aktivitas. Karena itu, satu angka suhu tidak cukup untuk menilai semua ruang. Pengukuran perlu dikaitkan dengan waktu, posisi, dan kegiatan pengguna. Umpan balik penghuni melengkapi data instrumen, tetapi keduanya perlu dicatat secara terpisah.
+
+Material dan detail selubung bangunan berperan dalam mengendalikan panas dan air. Pemilihan harus mempertimbangkan ketersediaan lokal, ketahanan terhadap cuaca, kemampuan perawatan, dan dampak lingkungan. Detail sambungan yang buruk dapat menyebabkan masalah kelembapan meskipun material utama berkualitas baik. Rancangan perlu memperhatikan jalur air dan kemungkinan pemeriksaan berkala.
+
+LATIHAN DAN PROYEK
+
+1. Sebutkan informasi tapak yang perlu diamati pada waktu berbeda.
+2. Mengapa aksesibilitas harus menjadi bagian konsep awal?
+3. Bedakan ketahanan bangunan dengan sekadar kekuatan struktur.
+4. Jelaskan keterbatasan simulasi dalam menilai pengalaman ruang.
+5. Buat daftar pemeliharaan konseptual untuk ruang kelas.
+6. Mengapa strategi ventilasi alami harus mempertimbangkan kualitas udara luar?
+
+Proyek: amati bangunan publik yang boleh diakses. Buat diagram hubungan ruang dan jalur sirkulasi, catat kondisi cahaya serta kenyamanan pada waktu berbeda, dan identifikasi kebutuhan aksesibilitas. Usulkan perubahan konseptual yang tidak menyentuh struktur atau instalasi berisiko. Untuk setiap usulan, tuliskan manfaat, konsekuensi, kebutuhan pemeliharaan, dan aspek yang harus ditinjau arsitek atau insinyur profesional.

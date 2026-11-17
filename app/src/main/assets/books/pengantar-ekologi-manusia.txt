@@ -334,3 +334,33 @@ LATIHAN PENDALAMAN
 PROYEK MINI: PETA KETAHANAN LINGKUNGAN
 
 Pilih satu wilayah publik yang aman untuk diamati. Petakan secara umum lokasi layanan air, pasar atau sumber pangan, ruang hijau, jalur pejalan kaki, dan satu potensi paparan lingkungan. Gunakan data publik dan pengamatan yang tidak mengidentifikasi individu. Tandai informasi yang belum pasti. Buat dua usulan perbaikan, lalu jelaskan manfaat, kelompok penerima manfaat, risiko dampak samping, pihak yang bertanggung jawab, dan indikator untuk menilai hasilnya.
+
+
+BAB PENDALAMAN: JASA EKOSISTEM DAN KESEJAHTERAAN
+
+Ekosistem menyediakan berbagai manfaat yang mendukung kehidupan manusia. Jasa penyediaan mencakup pangan, air, dan bahan hayati. Jasa pengaturan mencakup pengendalian banjir, penyerapan karbon, dan pengaturan suhu. Jasa budaya mencakup rekreasi, identitas tempat, dan nilai pendidikan. Proses ekologis yang mendasari manfaat tersebut juga penting, meskipun tidak selalu mudah dinilai dalam satuan ekonomi.
+
+Manfaat ekosistem sering tersebar tidak merata. Ruang hijau dapat menurunkan suhu kawasan, tetapi manfaatnya lebih mudah dinikmati oleh warga yang memiliki akses dekat dan aman. Ketika kawasan hijau ditingkatkan, perubahan nilai lahan dapat mendorong biaya hunian naik. Perencanaan perlu memeriksa kemungkinan penggusuran tidak langsung dan memastikan warga lama tetap memperoleh manfaat.
+
+Penilaian jasa ekosistem sebaiknya menggunakan beberapa jenis bukti. Pengukuran suhu, kualitas air, keanekaragaman hayati, survei akses, dan pengetahuan lokal dapat saling melengkapi. Nilai uang dapat membantu membandingkan pilihan, tetapi tidak menggantikan pertimbangan budaya, hak, dan hubungan ekologis yang tidak mudah dihitung.
+
+BAB PENDALAMAN: KOTA, KEPADATAN, DAN RISIKO LINGKUNGAN
+
+Kepadatan penduduk dapat mendukung layanan yang efisien ketika perencanaan transportasi, air, sanitasi, dan ruang publik berjalan baik. Namun, kepadatan tanpa infrastruktur memadai dapat memperbesar paparan panas, polusi, dan risiko penyakit. Hubungan antara kepadatan dan kualitas hidup tidak bersifat sederhana; bentuk bangunan, ventilasi, tutupan vegetasi, jaringan jalan, dan akses layanan ikut menentukan hasil.
+
+Risiko lingkungan terbentuk dari bahaya, paparan, dan kerentanan. Bahaya dapat berupa banjir, panas ekstrem, pencemaran, atau longsor. Paparan menunjukkan siapa dan apa yang berada di lokasi terdampak. Kerentanan dipengaruhi kondisi bangunan, akses informasi, kesehatan, pendapatan, dan kemampuan pulih. Peta bahaya saja belum cukup untuk menentukan risiko jika data penduduk dan kapasitas layanan tidak diperhitungkan.
+
+Kebijakan pengurangan risiko perlu melibatkan warga yang memahami kondisi setempat. Peta partisipatif dapat menunjukkan jalur akses, titik layanan, atau perubahan lingkungan yang tidak tercatat dalam data resmi. Informasi lokal tetap perlu diverifikasi dan dilindungi agar tidak membuka lokasi atau identitas kelompok rentan.
+
+BAB PENDALAMAN: AIR, SANITASI, DAN KEADILAN LINGKUNGAN
+
+Air bersih dan sanitasi merupakan bagian penting dari kesehatan dan kesejahteraan. Ketersediaan air tidak hanya ditentukan oleh jumlah sumber, tetapi juga kualitas, kontinuitas, keterjangkauan, dan jarak. Rumah tangga yang harus menghabiskan banyak waktu untuk memperoleh air menghadapi beban yang tidak terlihat dalam statistik pasokan. Gangguan layanan dapat berdampak lebih besar pada kelompok yang tidak memiliki penyimpanan atau alternatif.
+
+Sanitasi yang tidak memadai dapat mencemari air dan tanah, sehingga pengelolaan perlu melihat seluruh rantai dari sumber hingga pembuangan. Infrastruktur harus dirancang sesuai kepadatan, kondisi tanah, sumber air, dan kemampuan pemeliharaan. Pembangunan fasilitas tanpa rencana operasi dapat menghasilkan aset yang tidak berfungsi setelah beberapa waktu.
+
+Keadilan lingkungan menanyakan siapa yang menerima manfaat dan siapa yang menanggung beban pencemaran atau risiko. Data rata-rata wilayah dapat menyembunyikan perbedaan antarpermukiman. Pengumpulan data harus memperhatikan privasi, persetujuan, dan keselamatan warga. Hasil analisis perlu disampaikan dengan bahasa yang dapat dipahami agar masyarakat dapat ikut menilai pilihan kebijakan.
+
+PROYEK MINI: AUDIT AKSES RUANG HIJAU
+
+Gunakan peta dan data publik untuk membandingkan akses ke ruang hijau pada beberapa kawasan umum. Perhatikan jarak, jalur pejalan kaki, fasilitas, kondisi teduh, dan aksesibilitas. Jangan memotret atau mencatat identitas orang tanpa izin. Tulis keterbatasan data dan usulkan perbaikan yang mempertimbangkan pemeliharaan serta kebutuhan warga.
+

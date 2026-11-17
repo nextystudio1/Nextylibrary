@@ -369,3 +369,27 @@ LATIHAN PENDALAMAN
 4. Susun tiga tugas pengujian yang dapat diamati untuk sebuah poster informasi.
 5. Audit izin, konteks, dan kejujuran pada gambar serta grafik yang digunakan.
 
+BAB LANJUTAN: SISTEM VISUAL, INFORMASI DATA, DAN EVALUASI DESAIN
+
+Sistem visual membantu sebuah organisasi menyampaikan informasi secara konsisten. Sistem tersebut dapat mencakup aturan tipografi, palet warna, jarak, bentuk ikon, gaya ilustrasi, dan penggunaan logo. Konsistensi bukan berarti semua halaman harus tampak sama. Tujuannya agar pembaca mengenali pola, memahami hierarki, dan tidak perlu mempelajari ulang cara membaca setiap materi. Panduan visual sebaiknya menyertakan contoh penggunaan yang benar dan keliru.
+
+Hierarki visual dibentuk oleh ukuran, posisi, kontras, ruang kosong, dan pengelompokan. Elemen yang paling besar belum tentu paling penting jika penempatannya membingungkan. Desainer perlu menentukan urutan informasi berdasarkan tugas pembaca. Pada poster layanan, misalnya, pembaca mungkin perlu menemukan siapa yang memenuhi syarat, kapan layanan tersedia, dan bagaimana cara mendaftar. Jika dekorasi mengambil perhatian lebih besar daripada langkah tindakan, desain belum menjalankan fungsinya.
+
+Tipografi memengaruhi keterbacaan. Pilih jenis huruf yang jelas, batasi jumlah keluarga huruf, dan gunakan ukuran yang sesuai dengan media serta jarak baca. Panjang baris, spasi antarbaris, dan kontras latar juga perlu diuji. Teks kecil yang tampak baik pada layar besar mungkin sulit dibaca di ponsel. Jangan menyampaikan perbedaan hanya melalui warna; tambahkan label, pola, ikon yang bermakna, atau bentuk pembeda agar informasi tetap dapat dipahami oleh pembaca dengan kebutuhan visual berbeda.
+
+Warna memiliki fungsi komunikatif dan konteks budaya. Warna merah dapat menandai peringatan dalam satu sistem, tetapi maknanya tidak universal. Uji kombinasi warna dalam kondisi tampilan yang berbeda dan periksa kontras teks terhadap latar. Untuk grafik, gunakan warna secara konsisten dan sertakan label langsung bila memungkinkan. Legenda yang jauh dari data meningkatkan beban pembaca karena mereka harus terus mencocokkan simbol.
+
+Visualisasi data harus dimulai dari pertanyaan. Grafik batang cocok untuk membandingkan kategori, grafik garis untuk memperlihatkan perubahan berurutan, dan diagram sebar untuk memeriksa hubungan dua variabel. Pemilihan bentuk yang keliru dapat menyamarkan pola. Sumbu yang dipotong atau rentang yang tidak dijelaskan dapat membuat perbedaan tampak lebih besar. Cantumkan satuan, periode, sumber data, serta catatan tentang data yang hilang atau tidak sebanding.
+
+Ilustrasi dan fotografi memerlukan konteks. Gambar dokumenter tidak boleh diberi keterangan yang membuat pembaca menyimpulkan peristiwa berbeda dari yang sebenarnya. Penyuntingan untuk memperjelas pencahayaan perlu dibedakan dari manipulasi yang mengubah makna. Jika gambar dibuat secara sintetis atau merupakan ilustrasi, beri penanda yang sesuai ketika pembaca dapat mengiranya sebagai dokumentasi nyata. Izin penggunaan dan atribusi harus diperiksa sebelum materi dipublikasikan.
+
+Evaluasi desain dapat menggunakan kombinasi metode. Uji tugas mengamati apakah pengguna dapat menemukan informasi; wawancara menjelaskan alasan di balik kesulitan; dan analitik penggunaan dapat menunjukkan pola umum jika pengumpulan datanya sah dan proporsional. Jangan mengumpulkan identitas yang tidak dibutuhkan. Hasil pengujian perlu diterjemahkan menjadi prioritas: masalah yang menghalangi tugas utama harus diperbaiki lebih dahulu daripada preferensi dekoratif.
+
+Contoh proyek: tim membuat infografik tentang pemilahan sampah. Sebelum menggambar, mereka menetapkan tiga pertanyaan yang harus dijawab pembaca, memeriksa aturan setempat, dan memastikan kategori sampah tidak disederhanakan secara keliru. Mereka membuat sketsa beberapa tata letak, menguji kepada pembaca dengan latar berbeda, lalu memperbaiki ikon yang disalahartikan. Versi akhir mencantumkan tanggal pembaruan dan jalur kontak untuk koreksi informasi.
+
+Latihan penerapan:
+1. Buat panduan visual satu halaman untuk materi pendidikan.
+2. Uji keterbacaan desain pada layar ponsel dan cetakan sederhana.
+3. Pilih grafik yang tepat untuk tiga jenis pertanyaan data.
+4. Audit apakah foto, ilustrasi, dan grafik memiliki konteks serta izin yang sesuai.
+5. Susun rencana uji tugas dan tentukan indikator keberhasilan yang dapat diamati.

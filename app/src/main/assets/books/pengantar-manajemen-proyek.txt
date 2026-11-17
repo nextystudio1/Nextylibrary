@@ -378,3 +378,29 @@ PROYEK MINI: RENCANA PROYEK KEGIATAN SEKOLAH
 
 Susun rencana kegiatan sederhana dengan tujuan terukur, hasil yang diserahkan, batas ruang lingkup, daftar aktivitas, ketergantungan, jadwal, anggaran perkiraan, risiko, dan kriteria penerimaan. Buat pula format laporan mingguan singkat. Setelah simulasi, bandingkan rencana dengan hasil dan jelaskan asumsi mana yang ternyata tidak tepat. Pembelajaran utama bukan membuat jadwal tampak sempurna, melainkan membuat keputusan dapat dipahami dan diperbaiki.
 
+BAB LANJUTAN: PENGENDALIAN, PENGADAAN, MUTU, DAN PEMBELAJARAN PROYEK
+
+Rencana proyek merupakan hipotesis kerja tentang bagaimana hasil akan dicapai. Setelah pelaksanaan dimulai, tim perlu membandingkan kemajuan aktual dengan rencana dan memahami penyebab selisih. Keterlambatan tidak selalu berarti anggota tim bekerja lambat; penyebabnya dapat berupa ketergantungan yang belum selesai, keputusan yang tertunda, perubahan kebutuhan, atau sumber daya yang tidak tersedia. Pengendalian yang baik mencari penyebab sistemik sebelum menetapkan tindakan koreksi.
+
+Ruang lingkup perlu dikelola melalui proses perubahan yang jelas. Permintaan tambahan dapat memberi manfaat, tetapi juga memengaruhi waktu, biaya, mutu, dan risiko. Setiap usulan sebaiknya menjelaskan alasan, manfaat, konsekuensi, serta pihak yang menyetujui. Tim dapat menggunakan daftar perubahan untuk mencatat status dan keputusan. Dengan demikian, pekerjaan tambahan tidak masuk diam-diam hingga mengganggu komitmen utama.
+
+Jadwal proyek dibangun dari aktivitas, durasi, ketergantungan, dan ketersediaan sumber daya. Jalur kritis menunjukkan rangkaian aktivitas yang menentukan durasi minimum proyek dalam model jadwal tertentu. Keterlambatan pada aktivitas kritis dapat menggeser tanggal akhir, sedangkan aktivitas dengan kelonggaran memiliki ruang penyesuaian. Namun, jalur kritis dapat berubah ketika durasi atau hubungan aktivitas berubah. Jadwal perlu diperbarui berdasarkan informasi aktual.
+
+Estimasi biaya sebaiknya membedakan biaya langsung, biaya tidak langsung, cadangan risiko, dan biaya operasi setelah hasil diserahkan. Estimasi awal biasanya memiliki ketidakpastian lebih besar daripada estimasi setelah kebutuhan dirinci. Rentang estimasi lebih jujur daripada angka tunggal yang tampak pasti. Asumsi harga, jumlah, waktu, dan ketersediaan perlu dicatat agar perubahan dapat dijelaskan.
+
+Pengadaan mencakup keputusan membuat sendiri atau memperoleh barang dan jasa dari pihak lain. Penilaian pemasok tidak hanya melihat harga. Kualitas, keandalan, waktu pengiriman, dukungan, keamanan data, dan keberlanjutan dapat menjadi kriteria. Persyaratan harus jelas dan dapat diperiksa. Konflik kepentingan perlu diungkapkan, dan keputusan pengadaan harus terdokumentasi agar dapat ditinjau.
+
+Manajemen mutu dimulai dengan mendefinisikan kriteria penerimaan sebelum hasil dibuat. Kriteria yang kabur membuat penilaian mudah berubah menurut selera. Pemeriksaan dapat dilakukan pada proses maupun hasil akhir. Temuan ketidaksesuaian perlu dicatat bersama penyebab dan tindakan koreksi. Perbaikan mutu tidak berarti menambah pemeriksaan tanpa batas; tim perlu menemukan titik kendali yang paling efektif mencegah kesalahan.
+
+Komunikasi proyek harus disesuaikan dengan kebutuhan penerima. Tim pelaksana memerlukan rincian tugas dan hambatan, sedangkan sponsor membutuhkan ringkasan kemajuan, risiko, keputusan, dan dampak terhadap tujuan. Laporan status sebaiknya memisahkan fakta, perkiraan, dan keputusan yang diminta. Menyembunyikan masalah agar laporan terlihat baik hanya menunda penyelesaian dan mengurangi kepercayaan.
+
+Penutupan proyek memastikan hasil diterima, dokumen diserahkan, kewajiban diselesaikan, dan pembelajaran dicatat. Evaluasi pascaproyek membandingkan tujuan dengan hasil serta menilai proses yang membantu atau menghambat. Pembelajaran perlu dirumuskan sebagai tindakan yang dapat diterapkan pada proyek berikutnya, bukan sekadar menyalahkan individu. Pemeliharaan hasil juga harus memiliki penanggung jawab dan sumber daya.
+
+Studi kasus: tim sekolah menyelenggarakan pameran karya. Saat pelaksanaan, pemasok terlambat mengirim perlengkapan. Tim memeriksa aktivitas yang terdampak, menggunakan alternatif yang telah disetujui, dan memberi tahu pihak terkait tentang perubahan jadwal. Setelah acara, tim mencatat penyebab keterlambatan, mengevaluasi kriteria pemilihan pemasok, serta memperbarui rencana pengadaan untuk kegiatan berikutnya.
+
+Latihan penerapan:
+1. Buat formulir ringkas untuk menilai permintaan perubahan ruang lingkup.
+2. Tentukan aktivitas kritis dari jadwal proyek sederhana.
+3. Susun kriteria pemilihan pemasok selain harga.
+4. Tulis laporan status yang memisahkan fakta, risiko, dan keputusan.
+5. Buat daftar pemeriksaan penutupan dan serah terima proyek.

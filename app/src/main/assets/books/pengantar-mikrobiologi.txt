@@ -357,3 +357,30 @@ LATIHAN DAN PROYEK
 5. Mengapa kontrol dan replikasi penting dalam penelitian?
 
 Proyek: analisis dataset simulasi kualitas air yang berisi suhu, pH, oksigen terlarut, nutrien, dan indikator mikrobiologi. Buat grafik, ajukan hipotesis, dan tuliskan data tambahan yang dibutuhkan untuk menguji hipotesis. Gunakan hanya data simulasi atau data publik yang sah.
+
+BAB LANJUTAN: MIKROBA DALAM EKOSISTEM, KESEHATAN, DAN INDUSTRI
+
+Mikroorganisme merupakan bagian penting dari ekosistem. Bakteri, arkea, fungi mikroskopis, dan kelompok mikroba lain berperan dalam daur unsur, penguraian bahan organik, serta hubungan dengan organisme lain. Komunitas mikroba tidak bekerja sendiri; komposisinya dipengaruhi kondisi lingkungan dan interaksi antarspesies. Karena banyak mikroorganisme sulit diamati secara langsung, penelitian menggabungkan pengukuran lingkungan, metode kultur yang sesuai, mikroskopi, dan pendekatan molekuler.
+
+Daur karbon melibatkan mikroorganisme yang menguraikan bahan organik dan mengubah senyawa karbon. Dalam tanah dan perairan, aktivitas mikroba memengaruhi penyimpanan serta pelepasan karbon. Daur nitrogen juga melibatkan kelompok mikroba yang mengubah bentuk nitrogen sehingga dapat digunakan atau dilepaskan kembali ke lingkungan. Perubahan suhu, oksigen, kelembapan, dan ketersediaan nutrien dapat mengubah laju proses tersebut. Dampaknya perlu dipahami dalam konteks ekosistem secara keseluruhan.
+
+Mikrobioma adalah komunitas mikroorganisme yang hidup pada suatu lingkungan, termasuk tubuh manusia, tanah, dan perairan. Komunitas pada tubuh berinteraksi dengan makanan, lingkungan, sistem imun, dan kondisi fisiologis. Penelitian mikrobioma sering menemukan hubungan antara komposisi komunitas dan kondisi tertentu, tetapi hubungan statistik tidak otomatis membuktikan sebab-akibat. Pola makan, obat, usia, lingkungan, dan metode pengambilan sampel dapat menjadi faktor yang memengaruhi hasil.
+
+Dalam kesehatan masyarakat, mikrobiologi membantu memahami penyebaran penyakit menular, pengawasan kualitas air dan pangan, serta evaluasi tindakan pencegahan. Penularan dapat terjadi melalui jalur berbeda, sehingga pencegahan harus disesuaikan dengan karakter agen dan konteks. Informasi kesehatan perlu bersumber dari lembaga berwenang dan tidak digunakan untuk melakukan diagnosis mandiri. Praktik laboratorium mikrobiologi memerlukan fasilitas, pelatihan, dan prosedur keselamatan yang sesuai; pembelajaran dasar dapat menggunakan simulasi, data publik, dan studi kasus.
+
+Mikroorganisme juga digunakan dalam proses industri dan pengolahan lingkungan. Fermentasi memanfaatkan aktivitas mikroba untuk menghasilkan perubahan yang diinginkan pada bahan. Pengolahan limbah biologis menggunakan komunitas mikroba untuk membantu menguraikan senyawa tertentu. Keberhasilan proses bergantung pada kondisi operasi, komposisi bahan, dan kestabilan sistem. Pengendalian mutu harus memastikan produk atau hasil pengolahan memenuhi kriteria yang telah ditentukan.
+
+Resistansi antimikroba merupakan persoalan kesehatan yang melibatkan penggunaan antimikroba, penyebaran organisme resisten, dan hubungan manusia-hewan-lingkungan. Penggunaan yang tidak tepat dapat memberi tekanan seleksi yang mendukung organisme resisten. Pencegahan memerlukan pengawasan, kebersihan, pengendalian infeksi, penggunaan obat sesuai arahan tenaga kesehatan, serta koordinasi lintas sektor. Penjelasan harus menghindari anggapan bahwa semua mikroba berbahaya atau bahwa satu tindakan dapat menyelesaikan masalah.
+
+Metode molekuler dapat mendeteksi materi genetik mikroorganisme. Hasil deteksi perlu ditafsirkan berdasarkan tujuan pemeriksaan dan karakter metode. Deteksi materi genetik tidak selalu sama dengan bukti organisme hidup atau aktif. Kontrol mutu, kontrol negatif dan positif yang sesuai, replikasi, serta dokumentasi penting untuk menilai keandalan. Analisis data sebaiknya menyebut batas deteksi dan kemungkinan hasil positif atau negatif yang keliru.
+
+Ekologi mikroba juga penting dalam pemantauan lingkungan. Perubahan komunitas dapat memberi petunjuk tentang kondisi habitat, tetapi indikator biologis harus divalidasi pada wilayah dan musim yang relevan. Sampel perlu mewakili lokasi dan waktu, serta pengambilan harus mengikuti aturan keselamatan dan izin. Data simulasi dapat digunakan untuk belajar membuat grafik dan menguji hipotesis tanpa mengumpulkan atau menumbuhkan mikroorganisme secara mandiri.
+
+Studi kasus: sebuah tim mempelajari data publik kualitas air yang memuat suhu, pH, oksigen terlarut, nutrien, dan indikator mikrobiologi. Mereka membandingkan lokasi dan waktu, lalu mengajukan beberapa penjelasan yang mungkin. Tim tidak menyimpulkan sumber pencemaran hanya dari satu variabel. Mereka mencatat data tambahan yang diperlukan dan merujuk standar serta otoritas lingkungan yang relevan.
+
+Latihan penerapan:
+1. Jelaskan peran mikroba dalam daur karbon dan nitrogen.
+2. Bedakan hubungan statistik dan hubungan sebab-akibat pada studi mikrobioma.
+3. Uraikan mengapa deteksi materi genetik perlu ditafsirkan hati-hati.
+4. Buat diagram konsep hubungan resistansi antimikroba dengan kesehatan masyarakat.
+5. Analisis dataset simulasi kualitas air dan tuliskan keterbatasan kesimpulan.

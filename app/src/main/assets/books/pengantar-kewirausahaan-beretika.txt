@@ -254,3 +254,46 @@ LATIHAN
 4. Berikan contoh klaim pemasaran yang perlu bukti.
 5. Apa ciri desain transaksi yang menghormati pilihan pelanggan?
 
+PENDALAMAN: MODEL BISNIS, DAMPAK, DAN TATA KELOLA
+
+BAB: MODEL BISNIS DAN PROPOSISI NILAI
+
+Model bisnis menjelaskan bagaimana organisasi menciptakan, menyampaikan, dan memperoleh nilai. Proposisi nilai perlu menjawab kebutuhan nyata, bukan sekadar menyebut fitur. Segmen pengguna harus dijelaskan dengan bukti yang memadai dan tidak dibangun dari stereotip. Satu produk dapat memiliki pengguna, pembayar, dan penerima manfaat yang berbeda.
+
+Saluran distribusi memengaruhi biaya, pengalaman pelanggan, dan akses. Kemitraan dapat memperluas jangkauan, tetapi menambah ketergantungan dan risiko koordinasi. Sumber pendapatan harus sesuai dengan manfaat yang diberikan serta tidak bergantung pada praktik yang menyesatkan. Model bisnis perlu diuji melalui asumsi yang dapat diperiksa.
+
+BAB: EKONOMI UNIT DAN PERENCANAAN KEUANGAN
+
+Biaya tetap tidak berubah secara langsung terhadap jumlah produksi dalam rentang tertentu, sedangkan biaya variabel berubah mengikuti volume. Biaya total menggabungkan keduanya. Harga jual, biaya per unit, dan jumlah penjualan memengaruhi margin kontribusi. Titik impas merupakan perkiraan jumlah penjualan ketika pendapatan menutup biaya pada asumsi tertentu.
+
+Perhitungan titik impas harus menjelaskan periode, kapasitas, komposisi produk, dan asumsi harga. Dalam usaha dengan banyak produk, percampuran penjualan memengaruhi hasil. Proyeksi kas juga berbeda dari laba akuntansi karena waktu penerimaan dan pembayaran dapat tidak sama. Usaha dapat mencatat penjualan tetapi tetap mengalami kesulitan membayar kewajiban yang jatuh tempo.
+
+BAB: DAMPAK SOSIAL DAN LINGKUNGAN
+
+Usaha beretika menilai dampak di luar transaksi langsung. Rantai pasok dapat melibatkan pekerja, pemasok kecil, komunitas sekitar, dan lingkungan. Pemetaan pemangku kepentingan membantu mengidentifikasi pihak yang menerima manfaat atau menanggung risiko. Kelompok yang tidak memiliki kuasa besar tetap perlu didengar.
+
+Indikator dampak harus sesuai tujuan. Jumlah peserta program tidak otomatis menunjukkan perubahan kesejahteraan. Pengukuran sebelum-sesudah perlu mempertimbangkan faktor lain, sementara cerita peserta memberi konteks tetapi tidak selalu mewakili seluruh kelompok. Pelaporan dampak harus menyebut metode, keterbatasan, dan hasil yang tidak sesuai harapan.
+
+BAB: TATA KELOLA DAN PENGAMBILAN KEPUTUSAN
+
+Tata kelola menetapkan siapa yang berwenang mengambil keputusan, bagaimana konflik kepentingan ditangani, dan bagaimana penggunaan sumber daya diawasi. Pencatatan keuangan yang rapi, pemisahan tugas, dan mekanisme pengaduan dapat mengurangi risiko penyalahgunaan. Usaha kecil pun membutuhkan aturan dasar yang jelas.
+
+Keputusan etis sering melibatkan pertukaran kepentingan. Menurunkan biaya dapat meningkatkan margin, tetapi mungkin memindahkan beban kepada pekerja atau pemasok. Mengumpulkan data pelanggan dapat membantu layanan, tetapi meningkatkan risiko privasi. Pertimbangkan alternatif, pihak terdampak, bukti, dan konsekuensi jangka panjang sebelum memilih.
+
+BAB: KEGAGALAN, PEMBELAJARAN, DAN KETAHANAN USAHA
+
+Tidak semua gagasan usaha berhasil. Kegagalan dapat terjadi karena kebutuhan tidak terbukti, biaya tidak terkendali, distribusi tidak sesuai, atau perubahan lingkungan. Evaluasi perlu membedakan kesalahan asumsi dari pelaksanaan. Hentikan kegiatan yang menimbulkan risiko serius, penuhi kewajiban kepada pihak terkait, dan dokumentasikan pembelajaran.
+
+Ketahanan usaha bergantung pada arus kas, diversifikasi yang masuk akal, hubungan pelanggan, kemampuan beradaptasi, dan pengelolaan risiko. Pertumbuhan cepat bukan satu-satunya ukuran keberhasilan. Usaha yang kecil tetapi memberi manfaat konsisten dan dikelola secara bertanggung jawab dapat memiliki nilai sosial yang kuat.
+
+PROYEK
+
+Rancang model usaha sosial hipotetis. Buat proposisi nilai, peta pemangku kepentingan, struktur biaya, proyeksi kas sederhana, indikator dampak, serta daftar risiko. Tandai asumsi yang belum diuji dan jangan mengumpulkan uang atau data pribadi untuk proyek latihan.
+
+LATIHAN
+
+1. Mengapa pengguna dan pembayar bisa berbeda?
+2. Apa perbedaan laba dan arus kas?
+3. Mengapa jumlah penerima manfaat tidak cukup menjadi indikator dampak?
+4. Bagaimana konflik kepentingan dapat dikelola?
+5. Mengapa keputusan menghentikan usaha terkadang merupakan tindakan bertanggung jawab?

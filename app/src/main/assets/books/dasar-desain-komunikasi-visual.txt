@@ -313,3 +313,47 @@ LATIHAN
 
 PROYEK
 Rancang identitas visual untuk layanan informasi sekolah. Buat brief, tiga alternatif konsep, sistem tipografi dan warna, contoh poster, serta satu layar antarmuka. Uji keterbacaan pada ukuran kecil dan besar. Sertakan daftar aset dan status izinnya.
+
+BAB: MERANCANG PESAN DAN HIERARKI INFORMASI
+
+Desain komunikasi visual bertugas membantu pesan ditemukan, dipahami, dan diingat. Sebelum membuat bentuk visual, rumuskan satu kalimat yang menjelaskan pesan utama. Tentukan siapa audiensnya, apa pengetahuan awal mereka, dan tindakan atau pemahaman apa yang diharapkan. Tanpa rumusan tersebut, desain mudah dipenuhi elemen menarik yang tidak mendukung tujuan.
+
+Hierarki informasi mengatur urutan perhatian. Ukuran, posisi, kontras, ruang kosong, dan pengelompokan dapat menunjukkan bagian yang perlu dibaca lebih dahulu. Elemen terbesar tidak selalu harus menjadi yang paling penting; keputusan bergantung pada konteks. Pada poster keselamatan, instruksi inti mungkin perlu lebih menonjol daripada nama penyelenggara. Pada laporan, judul bagian dan data utama dapat menjadi titik masuk pembaca.
+
+Gunakan kedekatan untuk menunjukkan elemen yang saling berhubungan. Label sebaiknya berada dekat dengan informasi yang dijelaskannya. Kesamaan bentuk atau warna dapat mengelompokkan kategori, tetapi jangan membuat kode visual terlalu rumit. Jika pembaca harus menghafal banyak aturan sebelum memahami pesan, sistem desain perlu disederhanakan.
+
+BAB: DESAIN EDITORIAL DAN SISTEM KOMPONEN
+
+Desain editorial mengatur teks panjang agar nyaman dibaca. Struktur heading yang konsisten, lebar kolom, jarak paragraf, kutipan, dan keterangan gambar membantu pembaca menavigasi isi. Halaman yang baik memberi variasi secukupnya tanpa mengorbankan keteraturan. Elemen berulang seperti nomor halaman dan penanda bab perlu berada pada posisi yang mudah ditemukan.
+
+Sistem komponen memungkinkan tim menggunakan pola visual yang sama pada banyak halaman. Komponen dapat berupa tombol, kartu informasi, label, tabel, atau blok peringatan. Setiap komponen perlu memiliki aturan ukuran, jarak, keadaan interaksi, dan perilaku pada layar berbeda. Dokumentasi komponen mencegah setiap anggota membuat versi yang tidak konsisten.
+
+Komponen harus dirancang untuk isi nyata, bukan hanya teks contoh yang pendek. Judul panjang, bahasa berbeda, ukuran huruf yang diperbesar, dan keterangan gambar dapat mengubah tata letak. Uji variasi tersebut sebelum sistem digunakan luas. Jika komponen tidak dapat menangani variasi umum, revisi aturan atau sediakan alternatif yang jelas.
+
+BAB: VISUALISASI DATA YANG JUJUR
+
+Visualisasi data harus menjawab pertanyaan tertentu. Sebelum memilih grafik, periksa jenis data, satuan, periode, dan kelompok yang dibandingkan. Grafik batang membantu membandingkan kategori, grafik garis menunjukkan perubahan berurutan, sedangkan diagram sebar dapat memperlihatkan pola hubungan. Bentuk visual yang rumit tidak otomatis memberi pemahaman lebih baik.
+
+Sumbu perlu memiliki label dan skala yang dapat dibaca. Grafik batang umumnya memerlukan titik awal yang sesuai agar panjang batang tidak menyesatkan. Jika sumbu dipotong karena alasan analitis, tandai dengan jelas dan jelaskan dampaknya. Sajikan jumlah dasar ketika menggunakan persentase. Perbedaan kecil pada sampel kecil tidak boleh digambarkan seolah-olah merupakan perubahan besar yang pasti.
+
+Ketidakpastian dan keterbatasan perlu terlihat. Jika data merupakan perkiraan, beri label sebagai perkiraan. Jika kategori tidak mencakup semua kemungkinan, jelaskan ruang lingkupnya. Jangan menghapus data yang tidak sesuai dengan narasi. Desainer dan penulis berbagi tanggung jawab agar visualisasi tidak memberi kesan yang lebih kuat daripada bukti.
+
+BAB: IDENTITAS MEREK DAN KONSISTENSI
+
+Identitas visual mencakup logo, warna, tipografi, ilustrasi, fotografi, ikon, dan gaya tata letak. Semua elemen tersebut membangun pengenalan, tetapi konsistensi tidak berarti menempelkan logo pada setiap ruang. Identitas harus membantu audiens mengenali sumber dan memahami karakter layanan tanpa mengganggu isi.
+
+Panduan identitas sebaiknya menjelaskan penggunaan logo pada latar berbeda, ukuran minimum, ruang aman, warna, tipografi, dan contoh penggunaan yang keliru. Sertakan aturan aksesibilitas serta variasi untuk kebutuhan cetak dan digital. Jangan mengubah logo secara sembarangan atau membuat elemen visual yang menyerupai identitas pihak lain sehingga menimbulkan kebingungan.
+
+Evaluasi identitas tidak hanya mengukur apakah orang menyukai tampilannya. Periksa apakah informasi mudah ditemukan, sumber mudah dikenali, dan sistem dapat diterapkan oleh tim yang berbeda. Uji pada ukuran kecil, latar sederhana, serta kondisi tampilan yang kurang ideal. Identitas yang kuat tetap berfungsi ketika dekorasi dikurangi.
+
+PROYEK
+
+Buat sistem visual untuk seri materi pendidikan. Tetapkan brief, audiens, pesan utama, hierarki, grid, tipografi, warna, komponen, dan aturan visualisasi data. Terapkan pada sampul, halaman isi, poster ringkas, serta satu grafik. Minta pembaca menemukan tiga informasi penting dan catat waktu serta kesalahan yang muncul. Revisi berdasarkan temuan tersebut.
+
+PERTANYAAN
+
+1. Mengapa pesan utama harus dirumuskan sebelum membuat visual?
+2. Bagaimana kedekatan membantu pengelompokan informasi?
+3. Apa manfaat sistem komponen untuk tim desain?
+4. Bagaimana grafik dapat menyesatkan meskipun datanya benar?
+5. Apa saja yang perlu dimuat dalam panduan identitas visual?

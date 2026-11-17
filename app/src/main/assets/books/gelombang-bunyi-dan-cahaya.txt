@@ -238,3 +238,46 @@ LATIHAN DAN PEMBAHASAN
 
 PROYEK MINI
 Buat diagram konsep yang menghubungkan pemantulan, pembiasan, difraksi, interferensi, dan resonansi. Untuk setiap fenomena, tulis definisi, kondisi terjadinya, satu contoh, dan satu batasan pengamatan. Tambahkan gambar sinar sederhana untuk cermin atau lensa dan jelaskan asumsi yang digunakan.
+
+BAB LANJUTAN: GELOMBANG, INFORMASI, DAN PENGUKURAN
+
+Gelombang memindahkan energi dan informasi tanpa harus memindahkan materi secara keseluruhan dari satu tempat ke tempat lain. Pada gelombang mekanik, gangguan merambat melalui medium, sedangkan gelombang elektromagnetik dapat merambat di ruang hampa. Perbedaan ini menjelaskan mengapa bunyi tidak merambat di ruang hampa, sementara cahaya dari Matahari dapat mencapai Bumi.
+
+Besaran utama gelombang meliputi amplitudo, panjang gelombang, frekuensi, periode, dan cepat rambat. Frekuensi menyatakan jumlah siklus per satuan waktu, sedangkan periode adalah waktu untuk satu siklus. Keduanya berhubungan secara berbalik. Cepat rambat merupakan hasil kali panjang gelombang dan frekuensi untuk gelombang periodik dalam medium tertentu. Hubungan ini membantu memeriksa konsistensi satuan dan hasil pengukuran.
+
+Gelombang dapat mengalami pemantulan, pembiasan, difraksi, dan interferensi. Pemantulan mengubah arah rambat pada batas medium, pembiasan terjadi ketika cepat rambat berubah, difraksi membuat gelombang menyebar melewati celah atau tepi, sedangkan interferensi muncul ketika gelombang bertumpang tindih. Efek yang terlihat bergantung pada panjang gelombang, ukuran celah, geometri, dan sifat medium.
+
+Gelombang berdiri terbentuk dari superposisi gelombang yang merambat berlawanan arah dengan frekuensi dan amplitudo sesuai. Titik simpul memiliki simpangan nol, sedangkan perut memiliki simpangan maksimum. Pola ini penting untuk memahami dawai alat musik, kolom udara, dan resonansi. Resonansi terjadi ketika sistem menerima energi secara efektif pada frekuensi tertentu, tetapi amplitudo nyata tetap dibatasi oleh redaman dan kondisi sistem.
+
+BUNYI, PENDENGARAN, DAN AKUSTIK RUANG
+
+Bunyi merupakan gelombang mekanik yang pada udara umumnya merambat sebagai rapatan dan renggangan. Frekuensi berkaitan dengan tinggi-rendah nada yang didengar, sedangkan amplitudo dan karakteristik sumber memengaruhi persepsi kenyaringan serta warna bunyi. Persepsi manusia tidak hanya ditentukan oleh satu besaran fisika; sensitivitas pendengaran berubah menurut frekuensi dan kondisi lingkungan.
+
+Intensitas bunyi berkaitan dengan daya yang melewati satuan luas. Tingkat intensitas sering dinyatakan dalam desibel menggunakan skala logaritmik. Karena sifat logaritmik, penjumlahan tingkat desibel tidak sama dengan penjumlahan angka biasa. Pengukuran harus menyebut jarak, lingkungan, pembobotan frekuensi, dan durasi agar dapat dibandingkan. Nilai sesaat juga tidak selalu menggambarkan paparan sepanjang hari.
+
+Akustik ruang mempelajari bagaimana bunyi dipantulkan, diserap, dan disebarkan di dalam ruangan. Waktu dengung yang terlalu panjang dapat membuat ucapan sulit dipahami, sedangkan penyerapan berlebihan dapat membuat ruang terasa tidak alami untuk kegiatan tertentu. Bahan penyerap, bentuk ruang, posisi sumber, dan susunan tempat duduk memengaruhi hasil. Perancangan ruang kelas perlu menyeimbangkan kejelasan ucapan, kenyamanan, dan kebutuhan pengguna.
+
+Paparan bunyi yang berlebihan dapat mengganggu konsentrasi dan kesehatan pendengaran. Pengendalian lingkungan dapat dilakukan dengan mengurangi bunyi pada sumber, menghalangi jalur rambat, dan mengatur waktu atau jarak paparan. Penilaian harus mengikuti pedoman keselamatan yang berlaku dan tidak menggantikan evaluasi profesional ketika terdapat keluhan pendengaran.
+
+CAHAYA DAN SISTEM OPTIK
+
+Cahaya tampak merupakan bagian kecil dari spektrum elektromagnetik. Panjang gelombang berkaitan dengan warna spektral, tetapi warna yang dipersepsikan juga dipengaruhi campuran cahaya, permukaan, dan sistem penglihatan. Cahaya putih dapat diuraikan menjadi spektrum melalui dispersi karena indeks bias medium bergantung pada panjang gelombang.
+
+Pemantulan pada cermin datar mengikuti hubungan sudut datang dan sudut pantul yang diukur terhadap garis normal. Cermin lengkung dapat membentuk bayangan dengan sifat berbeda bergantung posisi benda terhadap titik fokus dan pusat kelengkungan. Diagram sinar membantu menentukan lokasi dan sifat bayangan, tetapi harus dibuat dengan skala dan asumsi yang jelas.
+
+Lensa membiaskan cahaya untuk mengumpulkan atau menyebarkan sinar. Lensa konvergen dan divergen memiliki karakteristik fokus berbeda. Persamaan lensa tipis menghubungkan jarak benda, jarak bayangan, dan panjang fokus, tetapi tanda besaran harus mengikuti konvensi yang dipakai. Dalam sistem nyata, aberasi dan ketebalan lensa dapat menyebabkan hasil berbeda dari model sederhana.
+
+Polarisasi menunjukkan arah orientasi getaran medan listrik cahaya. Filter polarisasi dapat mengurangi pantulan tertentu dan membantu pengamatan bahan. Polarisasi juga penting dalam layar, fotografi, dan instrumen optik. Fenomena ini memperlihatkan bahwa cahaya memiliki sifat gelombang transversal.
+
+PENGUKURAN DAN KETERBATASAN MODEL
+
+Setiap pengukuran memiliki ketidakpastian. Resolusi alat, kalibrasi, kondisi lingkungan, metode pembacaan, dan variasi sampel dapat memengaruhi hasil. Mengulang pengukuran membantu memperkirakan variasi acak, tetapi tidak otomatis menghilangkan kesalahan sistematis. Alat yang selalu menunjukkan nilai terlalu tinggi memerlukan pemeriksaan kalibrasi, bukan sekadar lebih banyak pengulangan.
+
+Model ideal menyederhanakan keadaan nyata agar hubungan dasar dapat dipahami. Model sinar menganggap cahaya merambat lurus pada kondisi tertentu, sedangkan model gelombang menjelaskan difraksi dan interferensi. Keduanya bukan saling meniadakan; pilihan model bergantung pada skala dan pertanyaan. Penjelasan ilmiah yang baik menyebut kapan pendekatan berlaku dan kapan perlu model yang lebih lengkap.
+
+LATIHAN BAB
+1. Mengapa bunyi tidak dapat merambat di ruang hampa?
+2. Jelaskan perbedaan difraksi dan interferensi.
+3. Apa hubungan frekuensi dan periode?
+4. Mengapa tingkat desibel tidak dapat dijumlahkan seperti angka biasa?
+5. Sebutkan dua keterbatasan model lensa tipis.

@@ -321,3 +321,38 @@ LATIHAN BAB
 3. Jelaskan fungsi kunci primer dan kunci asing.
 4. Mengapa penghapusan nama belum tentu membuat data anonim?
 5. Bedakan fakta, interpretasi, dan rekomendasi dalam laporan data.
+
+BAB PENDALAMAN: KUALITAS DATA DAN PROFIL DATA
+
+Sebelum analisis, data perlu diprofilkan untuk memahami struktur dan kualitasnya. Pemeriksaan awal mencakup jumlah baris, jumlah kolom, tipe data, rentang nilai, frekuensi kategori, nilai kosong, serta kemungkinan duplikasi. Profil ini bukan formalitas: kesalahan tipe data dapat membuat penjumlahan tanggal atau kode wilayah menghasilkan kesimpulan keliru.
+
+Validitas mengacu pada kesesuaian data dengan aturan atau konsep yang hendak diukur. Kelengkapan menunjukkan sejauh mana elemen yang diperlukan tersedia. Konsistensi memeriksa apakah representasi yang sama digunakan secara seragam. Ketepatan waktu berkaitan dengan apakah data cukup mutakhir untuk keputusan. Satu dataset dapat lengkap tetapi tidak valid, atau valid tetapi sudah terlalu lama untuk menggambarkan keadaan saat ini.
+
+Aturan validasi harus mengikuti makna variabel. Nilai usia negatif mungkin tidak masuk akal, tetapi angka nol pada jumlah kejadian bisa sangat bermakna. Kode pos yang diawali nol harus disimpan sebagai teks, bukan angka, agar formatnya tidak berubah. Pemeriksaan rentang perlu disertai pengetahuan domain agar nilai yang jarang tetapi sah tidak otomatis dihapus sebagai pencilan.
+
+BAB PENDALAMAN: TRANSFORMASI DAN REPRODUKSIBILITAS
+
+Transformasi data meliputi pemilihan kolom, pengubahan format, penggabungan kategori, penghitungan variabel turunan, dan penggabungan tabel. Setiap transformasi sebaiknya memiliki alasan yang terdokumentasi. Simpan data sumber secara terpisah dan buat salinan kerja agar proses dapat ditelusuri serta diulang.
+
+Alur kerja yang dapat direproduksi mencatat sumber data, tanggal pengambilan, versi berkas, aturan pembersihan, perangkat lunak, dan parameter analisis. Catatan perubahan membantu menjelaskan mengapa jumlah baris berubah atau mengapa suatu kategori digabung. Jika hasil diperbarui, analis dapat membandingkan keluaran lama dan baru tanpa mengandalkan ingatan.
+
+Penggabungan tabel harus memperhatikan tingkat granularitas. Tabel transaksi mungkin memiliki banyak baris untuk satu pelanggan, sedangkan tabel pelanggan hanya satu baris per pelanggan. Penggabungan yang tidak tepat dapat menggandakan nilai transaksi. Periksa kardinalitas hubungan, jumlah baris sebelum dan sesudah, serta total pembanding yang seharusnya tetap.
+
+BAB PENDALAMAN: DATA WAKTU DAN DATA SPASIAL
+
+Data waktu memiliki zona waktu, format tanggal, dan interval pengamatan. Dua catatan pada tanggal yang sama belum tentu terjadi pada jam yang sama. Ketika data berasal dari wilayah berbeda, konversi zona waktu harus dilakukan secara konsisten. Perubahan waktu musiman di sejumlah negara juga dapat memengaruhi interpretasi deret waktu.
+
+Data spasial memerlukan sistem koordinat dan definisi batas wilayah yang jelas. Dua peta dapat tampak tidak cocok karena memakai proyeksi berbeda atau tahun batas administratif yang berbeda. Jarak pada peta tidak selalu sama dengan jarak perjalanan. Analisis lokasi perlu menjelaskan apakah yang dihitung jarak lurus, jarak jaringan, luas, atau kedekatan terhadap fasilitas.
+
+BAB PENDALAMAN: PRIVASI DAN TATA KELOLA DATA
+
+Data yang tampak tidak langsung mengidentifikasi seseorang dapat menjadi identitas ketika digabung dengan sumber lain. Kombinasi lokasi rinci, waktu, dan karakteristik langka dapat mempersempit identitas. Pengurangan risiko memerlukan minimisasi atribut, pembatasan akses, agregasi yang sesuai, dan penghapusan data sesuai jadwal retensi.
+
+Tata kelola data menetapkan siapa yang bertanggung jawab, siapa yang boleh mengakses, bagaimana kualitas diperiksa, serta bagaimana insiden ditangani. Data sensitif tidak boleh disebarkan hanya karena tersedia dalam sebuah berkas. Gunakan data sintetis atau data terbuka yang memiliki izin penggunaan untuk latihan. Dokumentasikan batas penggunaan dan jangan mencoba mengidentifikasi ulang individu.
+
+BAB PENDALAMAN: KOMUNIKASI HASIL ANALISIS
+
+Laporan analisis yang baik dimulai dari pertanyaan keputusan, bukan dari banyaknya grafik. Setiap visual perlu memiliki judul informatif, satuan, sumber, periode, dan penjelasan tentang kelompok yang dibandingkan. Skala sumbu dan pemilihan kategori harus menghindari kesan yang menyesatkan.
+
+Pisahkan hasil deskriptif dari interpretasi dan rekomendasi. Hasil menyatakan pola yang ditemukan; interpretasi menawarkan penjelasan yang masih perlu diuji; rekomendasi mempertimbangkan tujuan, biaya, risiko, dan pihak terdampak. Cantumkan keterbatasan sampel dan metode. Mengakui ketidakpastian justru meningkatkan kegunaan laporan karena pembaca dapat menilai seberapa jauh kesimpulan layak diterapkan.
+

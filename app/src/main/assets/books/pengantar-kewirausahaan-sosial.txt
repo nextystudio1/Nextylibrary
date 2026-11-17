@@ -282,3 +282,49 @@ LATIHAN
 
 PROYEK
 Rancang uji coba usaha sosial untuk meningkatkan akses belajar. Buat rencana partisipasi, prototipe layanan, indikator hasil, daftar dampak tak diinginkan, prosedur pengaduan, dan aturan kemitraan. Tetapkan syarat untuk memperluas, mengubah, atau menghentikan uji coba.
+
+BAB: PEMETAAN MASALAH DAN AKAR PENYEBAB
+
+Kewirausahaan sosial dimulai dengan memahami masalah bersama komunitas yang mengalaminya. Gejala yang terlihat belum tentu merupakan penyebab utama. Rendahnya kehadiran dalam kegiatan belajar, misalnya, dapat berkaitan dengan jadwal, transportasi, akses perangkat, bahasa, atau rasa aman. Menawarkan satu solusi sebelum memahami penyebab dapat membuang sumber daya dan bahkan menambah beban penerima manfaat.
+
+Pemetaan masalah dapat dilakukan melalui diskusi yang inklusif, pengamatan yang disepakati, dan telaah informasi publik. Buat peta yang menghubungkan faktor penyebab, pihak terdampak, layanan yang sudah tersedia, serta hambatan akses. Jangan menganggap komunitas sebagai kelompok pasif yang hanya menerima bantuan. Mereka memiliki pengetahuan tentang kondisi lokal dan perlu ikut menentukan prioritas.
+
+Setelah masalah dirumuskan, tentukan batas intervensi. Sebuah usaha sosial tidak harus menyelesaikan semua persoalan. Pilih bagian yang dapat ditangani dengan kompetensi, sumber daya, dan kemitraan yang tersedia. Nyatakan juga persoalan yang berada di luar kapasitas tim dan pihak yang lebih tepat untuk menanganinya.
+
+BAB: TEORI PERUBAHAN DAN RANTAI HASIL
+
+Teori perubahan menjelaskan mengapa suatu kegiatan diperkirakan menghasilkan perubahan tertentu. Rantai hasil biasanya menghubungkan sumber daya, kegiatan, keluaran, hasil jangka pendek, dan dampak yang lebih luas. Setiap hubungan memiliki asumsi. Pelatihan, misalnya, membutuhkan peserta yang dapat hadir, materi yang sesuai, kesempatan berlatih, dan lingkungan yang memungkinkan keterampilan diterapkan.
+
+Asumsi perlu ditulis agar dapat diperiksa. Jika layanan bergantung pada koneksi internet, apakah penerima manfaat memiliki akses yang memadai? Jika program mengandalkan relawan, apakah waktu dan dukungan mereka tersedia? Jika jawaban belum diketahui, lakukan uji kecil dan jangan menyajikan dugaan sebagai fakta.
+
+Indikator dipilih sesuai perubahan yang ingin diketahui. Indikator keluaran dapat berupa jumlah sesi yang terlaksana. Indikator hasil dapat mengukur peningkatan kemampuan atau kemudahan akses. Indikator dampak memerlukan perhatian lebih besar terhadap faktor luar dan jangka waktu. Tidak semua perubahan dapat diatribusikan sepenuhnya kepada satu program, sehingga laporan harus berhati-hati dalam menyatakan hubungan sebab akibat.
+
+BAB: PARTISIPASI, KESETARAAN, DAN PERLINDUNGAN
+
+Partisipasi bermakna terjadi ketika orang memiliki kesempatan memengaruhi keputusan, bukan hanya diminta hadir atau memberi persetujuan formal. Sediakan cara menyampaikan pendapat yang beragam, termasuk bagi orang yang tidak nyaman berbicara di forum besar. Jelaskan keputusan mana yang dapat dipengaruhi dan mana yang dibatasi oleh aturan atau sumber daya.
+
+Program perlu memeriksa siapa yang mungkin tertinggal. Biaya perjalanan, jadwal, bahasa, akses fisik, format digital, dan tanggung jawab keluarga dapat menjadi hambatan. Jangan menganggap satu bentuk layanan cocok bagi semua orang. Uji aksesibilitas sejak perencanaan dan libatkan pihak yang memahami kebutuhan terkait.
+
+Perlindungan penerima manfaat harus menjadi bagian desain. Tetapkan batas perilaku relawan, jalur pengaduan, aturan penggunaan foto, dan prosedur menjaga data. Jika program melibatkan anak, ikuti kebijakan perlindungan anak dan pendampingan yang berlaku. Penerima manfaat tidak boleh dipaksa menceritakan pengalaman pribadi atau tampil dalam materi promosi sebagai syarat memperoleh layanan.
+
+BAB: PENDANAAN DAN KEBERLANJUTAN MISI
+
+Sumber pendanaan usaha sosial dapat berupa penjualan, hibah, donasi, kemitraan, atau kombinasi beberapa sumber. Setiap sumber memiliki syarat dan risiko. Ketergantungan pada satu pemberi dana dapat membuat program rentan ketika prioritas pendana berubah. Namun, mengejar pendapatan tanpa batas juga dapat menggeser misi dari kebutuhan komunitas ke kebutuhan pasar.
+
+Pisahkan biaya program, biaya operasional, dan biaya pengembangan. Catat pembatasan penggunaan dana dan laporkan perubahan anggaran. Perkiraan keuangan perlu menyertakan asumsi, waktu penerimaan, serta kemungkinan keterlambatan. Organisasi harus menjaga cadangan yang wajar dan tidak membuat janji layanan jangka panjang tanpa sumber daya yang realistis.
+
+Keberlanjutan bukan berarti program harus terus tumbuh. Program dapat diperluas, diserahkan kepada lembaga lokal, diubah, atau dihentikan jika bukti menunjukkan manfaat tidak sebanding dengan biaya atau risiko. Rencana keluar perlu dibicarakan bersama komunitas agar layanan penting tidak berhenti mendadak dan pengetahuan tidak hilang.
+
+STUDI KASUS PEMBELAJARAN
+
+Sebuah kelompok ingin menyediakan bahan belajar bagi siswa di wilayah dengan akses internet terbatas. Sebelum membuat aplikasi, kelompok berdiskusi dengan sekolah dan keluarga mengenai bentuk bahan yang paling mudah digunakan. Mereka menemukan bahwa bahan cetak dan berkas yang dapat dibuka tanpa koneksi lebih sesuai daripada layanan yang selalu membutuhkan internet.
+
+Kelompok kemudian menguji paket materi kecil, meminta umpan balik, dan mengukur apakah siswa dapat menggunakan materi secara mandiri. Mereka juga menyiapkan mekanisme koreksi jika isi keliru dan memastikan tidak mengumpulkan data pribadi yang tidak diperlukan. Kasus ini menunjukkan bahwa inovasi sosial bukan soal teknologi paling baru, melainkan kecocokan solusi dengan kebutuhan dan kondisi nyata.
+
+LATIHAN
+
+1. Mengapa gejala masalah perlu dibedakan dari akar penyebab?
+2. Apa fungsi asumsi dalam teori perubahan?
+3. Bagaimana partisipasi dapat memengaruhi keputusan program?
+4. Mengapa rencana keluar penting bagi keberlanjutan?
+5. Apa risiko ketika pendanaan menggeser misi sosial?

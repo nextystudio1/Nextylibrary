@@ -375,3 +375,29 @@ PROYEK MINI: ANALISIS PESAN LINTAS KONTEKS
 
 Pilih pengumuman publik yang tersedia secara terbuka. Identifikasi tujuan, audiens, istilah yang mungkin ambigu, asumsi budaya, dan saluran penyebarannya. Buat versi alternatif yang lebih jelas dan aksesibel. Jelaskan perubahan yang dilakukan dan minta umpan balik secara sukarela tanpa mengumpulkan informasi pribadi yang tidak diperlukan.
 
+BAB LANJUTAN: IDENTITAS, ADAPTASI, DAN KOMUNIKASI DALAM ORGANISASI
+
+Identitas budaya tidak bersifat tunggal atau selalu sama dalam setiap situasi. Seseorang dapat menggunakan bahasa, kebiasaan, dan cara berinteraksi yang berbeda ketika berada di rumah, sekolah, lingkungan kerja, atau komunitas. Identitas juga dapat berubah melalui pengalaman, perpindahan tempat, pendidikan, dan hubungan sosial. Karena itu, komunikasi antarbudaya sebaiknya tidak menganggap seseorang mewakili seluruh kelompoknya. Pertanyaan terbuka dan kesediaan mendengar lebih dapat diandalkan daripada menebak karakter berdasarkan asal seseorang.
+
+Nilai budaya dapat memengaruhi cara orang memahami waktu, hubungan, otoritas, kesepakatan, dan cara menyampaikan ketidaksetujuan. Namun, pola umum bukan aturan mutlak. Perbedaan individu dalam satu kelompok dapat lebih besar daripada perbedaan rata-rata antarkelompok. Kerangka budaya berguna sebagai pertanyaan awal untuk memahami konteks, bukan sebagai alat memberi label. Ketika terjadi salah paham, periksa situasi konkret dan tanyakan maksud dengan bahasa yang tidak menghakimi.
+
+Komunikasi berkonteks tinggi dan berkonteks rendah merupakan salah satu kerangka untuk membahas seberapa banyak makna disampaikan secara eksplisit melalui kata-kata atau bergantung pada situasi dan hubungan. Kerangka ini tidak membagi masyarakat menjadi dua kategori yang kaku. Satu organisasi dapat menggunakan komunikasi sangat eksplisit untuk prosedur keselamatan, tetapi lebih tidak langsung dalam percakapan menjaga hubungan. Saluran, tujuan, dan risiko pesan ikut menentukan gaya yang sesuai.
+
+Dalam tim multibahasa, istilah teknis dapat memiliki padanan yang tidak sepenuhnya sama. Glosarium bersama membantu menyamakan pemahaman, terutama untuk istilah yang memengaruhi keputusan. Anggota tim perlu diberi waktu untuk meminta klarifikasi tanpa takut dianggap kurang mampu. Ringkasan tertulis setelah rapat dapat mengurangi perbedaan ingatan tentang tugas, tenggat, dan tanggung jawab. Dokumen tersebut perlu menggunakan bahasa sederhana dan menjelaskan istilah yang tidak umum.
+
+Mendengarkan aktif berarti memberi perhatian pada isi, maksud, dan konteks pembicara. Pendengar dapat merangkum dengan kata-kata sendiri, mengajukan pertanyaan klarifikasi, dan memeriksa apakah interpretasinya tepat. Teknik ini tidak berarti harus menyetujui semua pendapat. Justru, pemahaman yang lebih akurat memungkinkan perbedaan pendapat dibahas tanpa menyerang identitas seseorang. Ketika emosi meningkat, jeda dan pengaturan giliran bicara dapat membantu percakapan kembali produktif.
+
+Penerjemahan dan penafsiran budaya tidak sekadar mengganti kata. Ungkapan humor, sapaan, gelar, dan bentuk kesopanan mungkin memiliki fungsi sosial yang berbeda. Penerjemah perlu mempertimbangkan audiens, tujuan, dan konsekuensi salah tafsir. Untuk dokumen penting, istilah kunci sebaiknya diperiksa oleh penutur yang memahami konteks bidang terkait. Jika terdapat beberapa kemungkinan terjemahan, catat pilihan dan alasannya.
+
+Konflik antarbudaya sering muncul ketika perilaku ditafsirkan melalui asumsi yang tidak dibicarakan. Keterlambatan, diam, kontak mata, atau cara menyampaikan kritik dapat memiliki makna berbeda menurut individu dan situasi. Proses penyelesaian konflik sebaiknya memisahkan kejadian yang dapat diamati dari interpretasi. Para pihak kemudian dapat menyepakati kebutuhan, dampak, dan tindakan berikutnya. Fasilitator perlu memberi kesempatan yang seimbang dan menghindari menjadikan satu gaya komunikasi sebagai standar tunggal.
+
+Organisasi yang inklusif merancang proses agar orang dengan latar bahasa dan pengalaman berbeda dapat berpartisipasi. Materi dapat disediakan dalam bahasa yang mudah dipahami, rapat memiliki agenda, dan keputusan dicatat. Aksesibilitas juga mencakup pilihan format, waktu, dan saluran komunikasi. Keberhasilan tidak cukup diukur dari banyaknya kelompok yang hadir; perlu dilihat apakah pendapat mereka dipertimbangkan dan apakah hambatan partisipasi berkurang.
+
+Studi kasus: tim proyek terdiri atas anggota dari beberapa daerah dan memiliki kebiasaan rapat berbeda. Sebagian anggota terbiasa menyampaikan keberatan langsung, sementara yang lain lebih nyaman mengirim catatan setelah rapat. Tim menyepakati agenda tertulis, sesi pertanyaan, dan saluran umpan balik privat. Setelah beberapa minggu, mereka menilai apakah keputusan lebih dipahami dan apakah semua anggota memiliki kesempatan berkontribusi.
+
+Latihan penerapan:
+1. Bedakan pengamatan langsung dari asumsi tentang perilaku budaya.
+2. Buat glosarium untuk sepuluh istilah proyek yang berpotensi ambigu.
+3. Rancang prosedur rapat yang memberi ruang bagi gaya komunikasi berbeda.
+4. Uraikan konflik melalui fakta, interpretasi, kebutuhan, dan kesepakatan.
+5. Evaluasi apakah sebuah proses organisasi benar-benar inklusif.

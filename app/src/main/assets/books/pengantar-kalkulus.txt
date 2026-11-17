@@ -182,3 +182,33 @@ LATIHAN DAN PEMBAHASAN
 4. Apa makna integral laju terhadap waktu? Akumulasi perubahan besaran selama interval.
 5. Mengapa suku menuju nol tidak menjamin deret konvergen? Karena jumlah tak hingga dapat tetap membesar meski setiap suku makin kecil.
 6. Bagaimana memeriksa antiturunan? Diferensiasikan hasilnya dan bandingkan dengan integran.
+BAB LANJUTAN 1. LIMIT DARI SUDUT PANDANG ALJABAR DAN GRAFIK
+
+Limit menyatakan perilaku nilai fungsi ketika variabel mendekati suatu nilai, bukan selalu nilai fungsi tepat di titik itu. Untuk menghitung limit, mulailah dengan substitusi langsung. Jika hasilnya berupa bilangan terdefinisi, limit dapat diperoleh. Jika muncul bentuk tak tentu seperti 0/0, bentuk aljabar perlu disederhanakan sebelum kesimpulan dibuat. Bentuk 0/0 bukan jawaban nol; itu tanda bahwa cara substitusi langsung belum cukup.
+
+Contoh: lim x→2 (x²−4)/(x−2). Faktorkan pembilang menjadi (x−2)(x+2). Untuk x yang mendekati 2 tetapi tidak sama dengan 2, faktor (x−2) dapat disederhanakan, sehingga ekspresi setara dengan x+2. Limitnya 4. Fungsi asal tidak terdefinisi di x=2, tetapi limitnya tetap ada. Ini memperlihatkan perbedaan antara nilai fungsi dan nilai yang didekati.
+
+Limit satu sisi perlu diperiksa ketika perilaku dari kiri dan kanan mungkin berbeda. Limit dua sisi ada hanya jika limit kiri dan kanan sama. Pada fungsi bertingkat, periksa rumus yang berlaku di setiap sisi. Grafik membantu menemukan dugaan, tetapi pembuktian aljabar atau definisi limit diperlukan untuk ketelitian.
+
+BAB LANJUTAN 2. TURUNAN: ATURAN, MAKNA, DAN KESALAHAN UMUM
+
+Turunan fungsi f pada x dapat dipahami sebagai limit laju perubahan rata-rata ketika interval semakin kecil: f'(x) = lim h→0 [f(x+h)−f(x)]/h, jika limit tersebut ada. Secara geometris, turunan adalah kemiringan garis singgung. Secara kontekstual, turunan posisi terhadap waktu adalah kecepatan sesaat, sementara turunan kecepatan adalah percepatan.
+
+Aturan pangkat menyatakan bahwa turunan xⁿ adalah n xⁿ⁻¹ untuk pangkat yang sesuai pada domainnya. Aturan jumlah memungkinkan penurunan setiap suku secara terpisah. Aturan hasil kali dan hasil bagi digunakan ketika fungsi merupakan perkalian atau pembagian dua fungsi; aturan rantai digunakan untuk fungsi komposisi. Aturan rantai sangat penting: jika y = f(g(x)), maka dy/dx = f'(g(x))g'(x). Faktor turunan fungsi bagian dalam tidak boleh dilupakan.
+
+Contoh: jika s(t)=t²+2t, maka v(t)=2t+2. Pada t=3 detik, kecepatannya 8 meter per detik. Kecepatan rata-rata antara t=1 dan t=3 adalah [s(3)−s(1)]/2 = [15−3]/2 = 6 meter per detik. Dua angka berbeda karena yang satu merupakan laju sesaat dan yang lain rata-rata pada interval.
+
+BAB LANJUTAN 3. INTEGRAL, AKUMULASI, DAN TEOREMA DASAR
+
+Integral tentu dapat dipahami sebagai akumulasi bertanda atau luas bersih di bawah kurva. Jika laju perubahan diketahui, integral dapat mengembalikan perubahan total. Untuk fungsi kecepatan v(t), integral pada interval waktu memberikan perpindahan; jarak tempuh memerlukan perhatian terhadap tanda kecepatan atau integral nilai mutlaknya.
+
+Antiturunan F memenuhi F'(x)=f(x). Teorema dasar kalkulus menghubungkan integral tentu dengan antiturunan: integral dari a sampai b f(x) dx = F(b)−F(a), ketika syarat yang relevan terpenuhi. Konstanta integrasi C diperlukan pada integral tak tentu karena turunan konstanta adalah nol.
+
+Contoh: kecepatan konstan 3 m/s selama 4 detik menghasilkan perpindahan 12 meter. Pada kecepatan yang berubah, luas di bawah grafik kecepatan-waktu memberi perpindahan. Perkiraan numerik dapat dilakukan dengan membagi interval menjadi bagian kecil dan menjumlahkan luas persegi panjang atau trapesium. Semakin halus pembagian, perkiraan umumnya dapat membaik untuk fungsi yang cukup teratur, tetapi galat tetap perlu diperiksa.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Mengapa bentuk 0/0 tidak boleh langsung dianggap bernilai nol?
+2. Hitung limit x→3 dari (x²−9)/(x−3).
+3. Tentukan turunan f(x)=3x³−2x²+5.
+4. Jika posisi s(t)=t²+4t, tentukan kecepatan sesaat pada t=2.
+5. Jelaskan hubungan integral kecepatan terhadap perpindahan dan jarak.

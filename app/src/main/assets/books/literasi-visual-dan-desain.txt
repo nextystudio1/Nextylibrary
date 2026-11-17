@@ -345,3 +345,27 @@ PERTANYAAN
 3. Mengapa informasi tidak boleh dibedakan hanya dengan warna?
 4. Apa perbedaan mengecilkan desain dan merancang ulang secara responsif?
 5. Bagaimana kritik berbasis tugas membantu proses iterasi?
+
+PENDALAMAN: SISTEM VISUAL, AKSESIBILITAS, DAN EVALUASI DESAIN
+
+Sistem visual membantu menjaga konsistensi ketika sebuah informasi muncul di banyak media. Sistem ini dapat mencakup aturan tipografi, warna, grid, ikon, ilustrasi, jarak, dan gaya bahasa. Konsistensi bukan berarti semua halaman harus tampak sama; aturan yang baik memberi ruang variasi sambil mempertahankan identitas dan keterbacaan. Dokumentasi sistem memudahkan anggota tim memahami alasan penggunaan elemen tertentu dan mengurangi keputusan yang saling bertentangan.
+
+Hierarki visual mengarahkan perhatian melalui ukuran, posisi, kontras, ruang kosong, dan pengelompokan. Desainer perlu menentukan informasi yang paling penting bagi tugas pembaca. Pada poster kegiatan, misalnya, tanggal, lokasi, dan tindakan pendaftaran mungkin lebih penting daripada ornamen. Pengujian sederhana dapat meminta orang menemukan informasi tertentu tanpa diberi petunjuk. Waktu pencarian dan kesalahan menunjukkan apakah hierarki bekerja.
+
+Warna harus dipilih dengan mempertimbangkan kontras, konteks, dan aksesibilitas. Informasi penting tidak boleh dibedakan hanya melalui warna karena sebagian pembaca memiliki persepsi warna yang berbeda atau melihat desain pada layar dengan kondisi beragam. Ikon sebaiknya disertai label ketika maknanya tidak universal. Kontras teks dan latar perlu diperiksa, khususnya untuk teks kecil dan informasi yang harus dibaca cepat.
+
+Tipografi memiliki fungsi struktural selain estetika. Ukuran, ketebalan, panjang baris, jarak baris, dan bentuk huruf memengaruhi kenyamanan membaca. Teks panjang membutuhkan pilihan yang stabil dan tidak melelahkan. Penggunaan terlalu banyak jenis huruf atau gaya dekoratif dapat mengaburkan struktur. Desainer perlu menguji hasil pada ukuran layar dan jarak pandang yang realistis, bukan hanya memperhatikan tampilan pada kanvas kerja.
+
+Desain responsif bukan sekadar mengecilkan komposisi besar. Informasi perlu disusun ulang sesuai lebar layar, orientasi, dan cara interaksi. Pada layar sempit, beberapa kolom mungkin perlu menjadi satu kolom, gambar dapat dipotong ulang dengan hati-hati, dan tombol harus tetap mudah dikenali. Pada media cetak, jarak baca, ukuran kertas, resolusi gambar, dan batas potong menjadi pertimbangan berbeda. Isi inti harus tetap dapat ditemukan pada semua versi.
+
+Evaluasi desain sebaiknya menguji tugas, bukan meminta penilaian umum semata. Pertanyaan “apakah desain ini bagus?” menghasilkan jawaban yang sulit ditindaklanjuti. Pertanyaan “dapatkah pembaca menemukan syarat pendaftaran dan memahami langkah berikutnya?” lebih terarah. Pengujian dapat mencatat keberhasilan tugas, waktu, kesalahan, dan komentar. Sampel kecil berguna untuk menemukan masalah awal, tetapi tidak otomatis mewakili seluruh populasi pengguna.
+
+Etika visual mencakup izin penggunaan foto, representasi yang tidak merendahkan, kejelasan manipulasi gambar, dan penghormatan terhadap konteks. Foto orang atau komunitas tidak boleh digunakan seolah-olah mereka mendukung pesan tertentu tanpa dasar. Visualisasi data juga harus menjaga skala, label, dan konteks agar tidak membesar-besarkan perbedaan. Desain yang menarik tetapi menyesatkan tetap merupakan desain yang buruk.
+
+LATIHAN PENDALAMAN
+1. Buat aturan sistem visual untuk satu seri materi pendidikan.
+2. Periksa apakah informasi penting tetap terbaca tanpa mengandalkan warna.
+3. Rancang ulang satu halaman cetak untuk layar ponsel.
+4. Susun tiga tugas pengujian yang dapat diamati untuk sebuah poster informasi.
+5. Audit izin, konteks, dan kejujuran pada gambar serta grafik yang digunakan.
+

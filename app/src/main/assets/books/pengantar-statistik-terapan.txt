@@ -342,3 +342,48 @@ Grafik dan ringkasan statistik harus menunjukkan ukuran sampel, satuan, rentang 
 
 Ketidakpastian bukan kelemahan yang perlu disembunyikan. Jelaskan sumbernya, seperti variasi sampel, kesalahan pengukuran, data hilang, atau perubahan definisi. Hindari presisi palsu dengan menampilkan terlalu banyak angka desimal. Pembaca membutuhkan gambaran yang jujur tentang apa yang dapat disimpulkan dan apa yang masih memerlukan data tambahan.
 
+BAB LANJUTAN: INFERENSI, REGRESI, DAN DESAIN SURVEI
+
+Distribusi sampling dan galat baku
+
+Statistik sampel berubah dari satu pengambilan ke pengambilan lain. Distribusi sampling menggambarkan perilaku suatu statistik jika proses pengambilan sampel diulang dengan rancangan yang sama. Galat baku mengukur variasi statistik sampel tersebut, bukan variasi setiap individu. Pembedaan ini penting ketika menafsirkan ketepatan rata-rata atau proporsi yang dihitung dari sampel.
+
+Ukuran sampel yang lebih besar sering mengurangi variasi acak, tetapi tidak otomatis memperbaiki bias pemilihan atau kesalahan pengukuran. Sampel besar yang hanya mencakup kelompok tertentu tetap dapat menghasilkan estimasi yang tidak mewakili populasi. Karena itu, evaluasi rancangan harus mendahului penilaian jumlah responden.
+
+Interval kepercayaan dan maknanya
+
+Interval kepercayaan dibangun menggunakan prosedur yang memiliki tingkat cakupan jangka panjang tertentu di bawah asumsi model. Interval 95 persen bukan berarti ada peluang 95 persen bahwa parameter tetap berada di dalam satu interval yang sudah dihitung dalam kerangka frequentist. Penafsiran yang tepat berkaitan dengan perilaku prosedur ketika pengambilan sampel diulang. Untuk pembaca praktis, interval memberi gambaran ketidakpastian estimasi, tetapi tetap bergantung pada desain dan asumsi.
+
+Interval yang sempit tidak menjamin hasil bebas bias. Kesalahan sistematis dapat menghasilkan angka yang sangat presisi tetapi salah. Laporan sebaiknya menjelaskan metode sampling, nonrespons, pengukuran, dan penyesuaian yang dilakukan. Hindari membandingkan dua kelompok hanya dengan melihat apakah interval masing-masing saling tumpang tindih; pertanyaan perbedaan perlu dianalisis secara langsung dengan metode yang sesuai.
+
+Pengujian hipotesis dan ukuran efek
+
+Pengujian hipotesis membandingkan data dengan model nol tertentu. Nilai p menunjukkan seberapa tidak lazim data atau hasil yang lebih ekstrem jika asumsi hipotesis nol dan model terpenuhi. Nilai p bukan peluang bahwa hipotesis nol benar dan bukan ukuran besarnya dampak. Keputusan statistik perlu dilengkapi ukuran efek, interval ketidakpastian, kualitas desain, serta relevansi praktis.
+
+Pengujian berulang terhadap banyak variabel meningkatkan kemungkinan menemukan hasil yang tampak signifikan secara kebetulan. Peneliti perlu menetapkan pertanyaan utama sebelumnya, menjelaskan analisis eksploratif, dan menggunakan penyesuaian yang sesuai ketika melakukan banyak perbandingan. Hasil yang tidak signifikan juga bukan bukti otomatis bahwa tidak ada efek; daya uji dan ketepatan pengukuran perlu dipertimbangkan.
+
+Regresi linear dan pemeriksaan asumsi
+
+Regresi linear memodelkan hubungan rata-rata antara variabel respons dan satu atau lebih prediktor. Koefisien menunjukkan perubahan rata-rata respons yang terkait dengan perubahan prediktor, dengan prediktor lain dalam model dipertahankan tetap. Interpretasi ini tidak otomatis bersifat kausal. Variabel yang tidak diukur, kesalahan pengukuran, dan pemilihan sampel dapat memengaruhi koefisien.
+
+Pemeriksaan model meliputi pola residual, bentuk hubungan, variasi residual, pengamatan berpengaruh, dan kemungkinan multikolinearitas. Grafik residual dapat mengungkap pola yang tidak terlihat dari ringkasan angka. Jika asumsi tidak sesuai, pertimbangkan transformasi, bentuk model lain, atau metode yang lebih cocok. Jangan memilih model hanya karena menghasilkan nilai kecocokan tinggi.
+
+Regresi logistik dan klasifikasi
+
+Ketika hasil berupa kategori dua pilihan, regresi logistik dapat memodelkan peluang suatu kejadian. Koefisien sering ditafsirkan melalui perubahan log-odds atau odds ratio, bukan sebagai perubahan langsung pada probabilitas. Untuk menjelaskan hasil kepada pembaca awam, tampilkan probabilitas prediksi pada kondisi yang relevan dan nyatakan bahwa hasil bergantung pada model.
+
+Evaluasi klasifikasi perlu mempertimbangkan ambang keputusan. Menurunkan ambang dapat meningkatkan sensitivitas tetapi juga meningkatkan positif palsu. Pilihan ambang harus mengikuti konsekuensi kesalahan. Dalam skrining awal, melewatkan kasus mungkin memiliki konsekuensi berbeda dari mengirim seseorang untuk pemeriksaan lanjutan yang sebenarnya tidak diperlukan. Metrik teknis harus diterjemahkan menjadi dampak nyata.
+
+Desain survei dan pembobotan
+
+Survei yang baik membutuhkan populasi sasaran yang jelas, kerangka sampel, metode perekrutan, instrumen yang diuji, dan prosedur penanganan nonrespons. Pertanyaan harus netral, tidak menggiring, dan memiliki pilihan jawaban yang saling dipahami. Uji coba kecil dapat menemukan istilah yang ambigu atau urutan pertanyaan yang memengaruhi jawaban.
+
+Pembobotan dapat menyesuaikan perbedaan peluang pemilihan atau komposisi sampel, tetapi tidak memperbaiki semua masalah. Bobot ekstrem dapat meningkatkan variasi estimasi. Dokumentasikan sumber bobot, kalibrasi, dan dampaknya. Jangan menyamakan sampel sukarela dari media sosial dengan sampel probabilitas tanpa menjelaskan keterbatasan.
+
+Deret waktu dan perubahan pola
+
+Data berurutan menurut waktu dapat memiliki tren, musim, siklus, dan gangguan mendadak. Pengamatan yang berdekatan sering saling berkaitan sehingga asumsi independensi perlu diperiksa. Sebelum membuat proyeksi, visualisasikan data, identifikasi perubahan definisi, dan periksa apakah pola historis masuk akal untuk diteruskan. Peramalan selalu memiliki ketidakpastian yang meningkat pada horizon lebih jauh.
+
+Latihan analisis
+
+Gunakan data hipotetis nilai ujian dan waktu belajar. Buat ringkasan distribusi, diagram pencar, dan model regresi sederhana. Periksa apakah ada pengamatan yang sangat berpengaruh, lalu jelaskan mengapa hubungan yang terlihat tidak membuktikan bahwa penambahan waktu belajar sendirian menyebabkan peningkatan nilai. Tuliskan keterbatasan seperti motivasi, dukungan, kualitas pengajaran, dan kondisi belajar yang tidak diukur.

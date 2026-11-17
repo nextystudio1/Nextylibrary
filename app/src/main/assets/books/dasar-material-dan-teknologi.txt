@@ -305,3 +305,47 @@ LATIHAN
 
 PROYEK
 Buat matriks pemilihan material untuk produk sederhana. Tentukan fungsi, kondisi kerja, batas minimum, dan kriteria lingkungan. Bandingkan tiga kelas material dengan asumsi yang dinyatakan. Akhiri dengan alasan pemilihan, risiko yang belum terjawab, serta rencana pengujian yang aman dan sesuai fasilitas.
+
+BAB: STRUKTUR, SIFAT, DAN PEMILIHAN MATERIAL
+
+Sifat material muncul dari komposisi, struktur internal, proses pembuatan, dan kondisi penggunaan. Logam, polimer, keramik, komposit, dan material alam memiliki kombinasi sifat yang berbeda. Tidak ada material yang unggul dalam semua keadaan. Pemilihan harus dimulai dari fungsi produk dan kondisi kerja, bukan dari popularitas suatu bahan.
+
+Sifat mekanik meliputi kekuatan, kekakuan, keuletan, kekerasan, dan ketangguhan. Kekuatan berkaitan dengan kemampuan menahan beban sebelum mengalami kegagalan, sedangkan kekakuan menggambarkan seberapa besar perubahan bentuk ketika menerima beban. Material yang kuat belum tentu ulet, dan material yang keras belum tentu tahan terhadap retak. Istilah tersebut perlu dibedakan saat membaca spesifikasi.
+
+Sifat termal, listrik, kimia, dan lingkungan juga dapat menentukan pilihan. Komponen elektronik membutuhkan karakter listrik tertentu, sedangkan bagian yang terpapar cuaca memerlukan ketahanan terhadap korosi atau degradasi. Produk yang bersentuhan dengan makanan memiliki persyaratan berbeda dari bahan konstruksi. Standar dan sertifikasi yang relevan perlu diperiksa oleh pihak kompeten.
+
+BAB: PROSES PEMBUATAN DAN KONSEKUENSINYA
+
+Proses manufaktur mengubah bahan menjadi bentuk dan fungsi yang dibutuhkan. Pengecoran, pembentukan, pemesinan, pencetakan, dan proses aditif memiliki batas serta karakteristik berbeda. Pilihan proses memengaruhi biaya, toleransi, permukaan, limbah, waktu produksi, dan konsistensi mutu. Desain yang baik mempertimbangkan kemampuan proses sejak tahap konsep.
+
+Toleransi menjelaskan variasi ukuran atau bentuk yang masih dapat diterima. Toleransi terlalu ketat dapat meningkatkan biaya dan tingkat produk yang ditolak, sementara toleransi terlalu longgar dapat membuat komponen tidak cocok saat dirakit. Nilai toleransi harus mengikuti fungsi, proses, dan standar yang sesuai. Pengukuran memerlukan alat yang tepat serta prosedur yang konsisten.
+
+Kualitas tidak dapat diperiksa hanya pada produk akhir. Pemeriksaan bahan masuk, pengendalian proses, pencatatan batch, dan evaluasi produk membantu menemukan sumber variasi. Ketika cacat muncul, telusuri pola dan kondisi proses sebelum menyimpulkan penyebab. Perbaikan yang berkelanjutan membutuhkan data yang dapat dipercaya.
+
+BAB: KOROSI, KEAUSAN, DAN UMUR PAKAI
+
+Korosi adalah penurunan kualitas material akibat interaksi dengan lingkungan. Jenis dan lajunya dipengaruhi bahan, kelembapan, temperatur, zat yang bersentuhan, serta kondisi permukaan. Pemilihan material dan perlindungan permukaan perlu disesuaikan dengan lingkungan penggunaan. Pemeriksaan berkala membantu mengenali perubahan sebelum fungsi produk terganggu.
+
+Keausan terjadi ketika permukaan mengalami perubahan akibat kontak dan gerakan. Desain sambungan, pelumasan pada sistem yang sesuai, kebersihan, dan pemilihan pasangan material dapat memengaruhi umur pakai. Namun, tindakan perawatan harus mengikuti petunjuk produsen atau tenaga terlatih. Pembaca tidak perlu melakukan percobaan pada mesin atau perangkat berbahaya untuk memahami konsepnya.
+
+Umur pakai dipengaruhi beban, lingkungan, perawatan, dan variasi produksi. Klaim masa pakai harus menyebut kondisi pengujian. Hasil uji pada lingkungan terkendali belum tentu sama dengan penggunaan sehari-hari. Dokumentasi kegagalan dan riwayat perawatan membantu memperbaiki rancangan generasi berikutnya.
+
+BAB: MATERIAL BERKELANJUTAN DAN EKONOMI SIRKULAR
+
+Penilaian keberlanjutan material perlu melihat seluruh siklus hidup: pengambilan bahan baku, produksi, transportasi, penggunaan, perawatan, dan akhir masa pakai. Bahan yang dapat didaur ulang belum tentu benar-benar didaur ulang jika fasilitas dan sistem pengumpulan tidak tersedia. Klaim lingkungan harus disertai konteks dan bukti.
+
+Desain untuk perbaikan dapat memperpanjang masa pakai. Komponen yang mudah diganti, dokumentasi perawatan, dan ketersediaan suku cadang mengurangi kebutuhan membuang seluruh produk ketika satu bagian rusak. Desain modular juga dapat memudahkan peningkatan fungsi, tetapi jumlah sambungan dan kompleksitas tambahan perlu diperhitungkan.
+
+Ekonomi sirkular berusaha mempertahankan nilai bahan dan produk selama mungkin melalui perawatan, penggunaan ulang, perbaikan, dan daur ulang. Strategi terbaik bergantung pada jenis material dan sistem setempat. Perbandingan harus menggunakan fungsi yang setara agar tidak membandingkan produk dengan masa pakai atau kinerja yang berbeda.
+
+PROYEK
+
+Buat matriks pemilihan material untuk wadah penyimpanan alat tulis. Bandingkan beberapa kelas bahan berdasarkan fungsi, ketahanan, kemudahan perawatan, biaya perkiraan, dan akhir masa pakai. Nyatakan sumber informasi dan asumsi. Jangan melakukan pengujian fisik yang berisiko; gunakan spesifikasi terbuka dan data contoh.
+
+PERTANYAAN
+
+1. Apa perbedaan kekuatan, kekakuan, dan keuletan?
+2. Bagaimana toleransi memengaruhi biaya dan fungsi?
+3. Mengapa kondisi pengujian perlu dicantumkan dalam klaim umur pakai?
+4. Mengapa kemampuan didaur ulang tidak menjamin daur ulang terjadi?
+5. Bagaimana desain untuk perbaikan mendukung ekonomi sirkular?

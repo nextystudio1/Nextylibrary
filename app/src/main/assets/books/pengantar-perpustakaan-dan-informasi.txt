@@ -296,3 +296,40 @@ LATIHAN BAB 18
 3. Berikan tiga faktor lain yang dapat memengaruhi kenaikan peminjaman.
 4. Apa risiko menggunakan terlalu banyak indikator?
 5. Rancang empat indikator untuk mengevaluasi program literasi informasi.
+
+BAB 19. PENGELOLAAN KOLEKSI DIGITAL DAN METADATA
+
+Koleksi digital bukan sekadar kumpulan berkas yang disimpan dalam satu folder. Agar dapat ditemukan dan dipelihara, setiap objek perlu memiliki identitas, deskripsi, hak akses, format, serta hubungan dengan objek lain. Metadata deskriptif membantu pengguna mengenali judul, pencipta, subjek, bahasa, dan ringkasan. Metadata administratif mencatat asal berkas, tanggal pengadaan, status hak, dan pihak yang bertanggung jawab. Metadata teknis menjelaskan format, ukuran, perangkat lunak, atau karakteristik yang diperlukan untuk membuka berkas.
+
+Skema metadata harus konsisten. Jika nama penulis kadang ditulis dengan nama lengkap dan kadang hanya inisial, pencarian dan pengelompokan menjadi tidak akurat. Perpustakaan dapat menetapkan aturan penulisan nama, tanggal, singkatan, dan istilah subjek. Daftar istilah terkendali membantu menyatukan konsep yang sama meskipun pengguna memakai kata berbeda. Namun, istilah lokal dan bahasa komunitas tetap perlu dipertimbangkan agar sistem tidak menghapus cara masyarakat menyebut pengetahuan mereka.
+
+Identitas objek sebaiknya tidak bergantung pada nama berkas saja. Nama berkas dapat berubah ketika sistem dipindahkan, sedangkan pengenal unik membantu mempertahankan hubungan katalog, catatan peminjaman, dan arsip. Perubahan metadata perlu dicatat agar petugas mengetahui siapa yang mengubah informasi dan kapan perubahan terjadi. Salinan cadangan harus diuji pemulihannya; keberadaan berkas cadangan belum menjamin bahwa berkas tersebut dapat dipulihkan dengan benar.
+
+Pemeliharaan digital juga mencakup pemantauan format usang, kerusakan media, dan ketergantungan pada perangkat lunak tertentu. Migrasi format dapat diperlukan, tetapi prosesnya harus diuji pada salinan dan dibandingkan dengan sumber. Catat perubahan yang mungkin memengaruhi tata letak, warna, rumus, atau fitur interaktif. Untuk koleksi bernilai tinggi, simpan berkas asli bersama salinan akses yang lebih mudah dibuka.
+
+LATIHAN BAB 19
+1. Bedakan metadata deskriptif, administratif, dan teknis.
+2. Mengapa aturan penulisan nama perlu konsisten?
+3. Apa fungsi pengenal unik bagi objek digital?
+4. Mengapa cadangan harus diuji melalui pemulihan?
+5. Susun metadata minimum untuk satu modul pembelajaran digital.
+
+BAB 20. LAYANAN REFERENSI DAN PENELUSURAN INFORMASI
+
+Layanan referensi membantu pengguna mengubah kebutuhan yang masih umum menjadi pertanyaan yang dapat ditelusuri. Pengguna yang berkata “saya butuh informasi tentang energi” mungkin sedang mencari definisi, data konsumsi rumah tangga, kebijakan, atau bahan tugas sekolah. Pustakawan perlu mengajukan pertanyaan klarifikasi secara sopan tanpa membuat pengguna merasa dihakimi. Tujuannya memahami konteks, tingkat kedalaman, batas waktu, dan bentuk informasi yang dibutuhkan.
+
+Strategi penelusuran dimulai dari konsep utama dan sinonim. Operator Boolean dapat menggabungkan atau membatasi istilah: AND mempersempit dengan mensyaratkan dua konsep, OR memperluas dengan sinonim, dan NOT mengecualikan istilah tertentu secara hati-hati. Tanda kutip dapat membantu mencari frasa, sedangkan filter tanggal, bahasa, jenis dokumen, dan domain dapat mempersempit hasil. Setiap strategi perlu disesuaikan dengan mesin pencari atau basis data yang digunakan karena sintaks tidak selalu sama.
+
+Penelusuran yang baik tidak berhenti pada hasil pertama. Periksa siapa penerbitnya, tujuan dokumen, tanggal, metode pengumpulan data, rujukan, dan kemungkinan konflik kepentingan. Bedakan sumber primer yang menyajikan data atau dokumen asli, sumber sekunder yang menganalisis sumber primer, dan sumber tersier yang merangkum pengetahuan. Ketiganya dapat berguna untuk kebutuhan berbeda. Artikel populer dapat menjadi pintu masuk, tetapi klaim penting sebaiknya ditelusuri ke dokumen atau penelitian yang mendasarinya.
+
+Pustakawan perlu menjelaskan batas bantuan. Mereka dapat membantu menemukan dan mengevaluasi informasi, tetapi tidak menggantikan keputusan profesional dalam urusan medis, hukum, atau keuangan. Jika pertanyaan berada di luar kompetensi, arahkan pengguna ke lembaga atau tenaga ahli yang tepat. Catatan pertanyaan referensi harus meminimalkan data pribadi dan digunakan untuk meningkatkan layanan, bukan mengawasi minat individu.
+
+LATIHAN BAB 20
+1. Buat tiga pertanyaan klarifikasi untuk kebutuhan informasi yang masih umum.
+2. Jelaskan perbedaan fungsi AND dan OR.
+3. Apa saja tanda bahwa sebuah sumber perlu diperiksa lebih lanjut?
+4. Mengapa sumber primer tidak selalu otomatis paling mudah dipahami?
+5. Bagaimana menjaga privasi dalam pencatatan layanan referensi?
+
+PROYEK PENERAPAN
+Pilih satu topik pelajaran. Susun daftar kata kunci, sinonim, dan dua strategi penelusuran. Temukan satu sumber primer dan satu sumber sekunder yang sah untuk digunakan. Bandingkan tujuan, tanggal, metode, dan keterbatasannya. Buat panduan satu halaman yang mengajarkan teman sekelas memeriksa kredibilitas sumber tanpa menyalin isi karya orang lain.

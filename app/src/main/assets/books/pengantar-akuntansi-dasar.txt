@@ -404,3 +404,34 @@ Laporan bulanan kemudian digunakan untuk menjawab pertanyaan: produk mana yang m
 Etika dan batas tanggung jawab
 
 Akuntansi membutuhkan integritas karena laporan digunakan oleh pemilik, pekerja, pemberi pinjaman, pemasok, dan pihak lain. Pengakuan pendapatan yang terlalu dini, penyembunyian kewajiban, atau pengubahan bukti dapat merugikan pengguna laporan. Ketika menemukan kesalahan, dokumentasikan, koreksi melalui prosedur yang benar, dan komunikasikan dampaknya. Untuk pelaporan formal, ikuti standar dan ketentuan yang berlaku serta minta bantuan akuntan kompeten bila diperlukan.
+
+
+BAB LANJUTAN: SIKLUS AKUNTANSI, PENGENDALIAN, DAN ANALISIS
+
+Dari transaksi ke laporan: menjaga jejak audit
+Siklus akuntansi dimulai ketika peristiwa ekonomi diidentifikasi dan didukung bukti yang memadai. Bukti dapat berupa faktur, kuitansi, kontrak, bukti penerimaan, atau catatan elektronik yang dapat ditelusuri. Sebelum mencatat, tentukan tanggal transaksi, pihak terkait, akun yang terpengaruh, nilai, serta periode pengakuannya. Jurnal mencatat dampak awal secara kronologis; buku besar mengelompokkan dampak berdasarkan akun. Neraca saldo membantu memeriksa keseimbangan debit dan kredit, tetapi keseimbangan aritmetis tidak otomatis membuktikan bahwa klasifikasi dan nilai sudah benar. Kesalahan yang seimbang tetap mungkin terjadi jika transaksi dimasukkan ke akun yang keliru.
+
+Penyesuaian dan prinsip periode
+Pada akhir periode, beberapa saldo perlu disesuaikan agar laporan mencerminkan kondisi ekonomi yang relevan. Beban dibayar di muka dialokasikan sesuai masa manfaat; pendapatan diterima di muka diakui ketika kewajiban layanan dipenuhi; penyusutan menggambarkan alokasi biaya aset selama masa penggunaannya; dan beban yang masih harus dibayar dicatat ketika kewajiban telah timbul meskipun pembayaran belum dilakukan. Setiap penyesuaian harus memiliki dasar, metode, tanggal, dan penjelasan yang konsisten. Estimasi seperti umur manfaat atau piutang yang mungkin tidak tertagih memerlukan pertimbangan dan pengungkapan yang memadai.
+
+Persediaan dan harga pokok
+Persediaan memerlukan pencatatan kuantitas serta nilai. Sistem periodik memperbarui nilai persediaan pada akhir periode, sedangkan sistem perpetual memperbarui catatan setiap terjadi pergerakan. Metode penentuan biaya, seperti FIFO atau rata-rata tertimbang, dapat menghasilkan nilai persediaan akhir dan harga pokok penjualan yang berbeda ketika harga berubah. Pilihan metode harus mengikuti standar yang berlaku dan diterapkan konsisten. Penghitungan fisik tetap penting untuk mendeteksi kehilangan, kerusakan, salah unit, atau kesalahan pencatatan. Selisih harus ditelusuri, bukan sekadar dihapus agar angka terlihat cocok.
+
+Pengendalian internal yang proporsional
+Pengendalian internal dirancang untuk mengurangi risiko kesalahan dan penyalahgunaan, bukan untuk membuat pekerjaan menjadi rumit. Pemisahan tugas idealnya memisahkan otorisasi, penyimpanan aset, pencatatan, dan pemeriksaan. Pada organisasi kecil, pemisahan penuh mungkin tidak realistis; pengawasan pemilik, rekonsiliasi berkala, bukti transaksi bernomor, dan pemeriksaan independen dapat menjadi pengendalian pengganti. Akses ke sistem akuntansi perlu berbasis peran, menggunakan kata sandi yang kuat, dan ditinjau ketika seseorang berganti tugas. Cadangan data harus diuji pemulihannya, bukan hanya dibuat.
+
+Membaca hubungan antar laporan
+Laporan laba rugi menjelaskan kinerja selama periode, sedangkan laporan posisi keuangan menunjukkan aset, liabilitas, dan ekuitas pada tanggal tertentu. Laporan arus kas menjelaskan pergerakan kas dari aktivitas operasi, investasi, dan pendanaan. Laba tidak sama dengan kas: penjualan kredit dapat menaikkan pendapatan sebelum uang diterima, sementara pembelian aset dapat mengurangi kas tanpa seluruh nilainya menjadi beban pada saat pembelian. Analisis harus membaca ketiga laporan bersama-sama. Pertumbuhan penjualan yang disertai piutang meningkat jauh lebih cepat dapat menandakan perlunya meninjau kebijakan kredit dan penagihan.
+
+Rasio sebagai alat bertanya
+Rasio likuiditas memberi gambaran kemampuan memenuhi kewajiban jangka pendek; rasio solvabilitas melihat struktur pendanaan dan beban kewajiban; rasio profitabilitas menghubungkan laba dengan penjualan, aset, atau modal. Tidak ada satu angka yang berlaku sebagai standar universal untuk semua industri. Bandingkan dengan riwayat organisasi, model bisnis, musim, dan organisasi sejenis yang datanya sebanding. Rasio adalah titik awal pertanyaan, bukan vonis. Perubahan tajam perlu ditelusuri ke transaksi, kebijakan, atau kondisi ekonomi yang mendasarinya.
+
+Studi kasus latihan
+Sebuah usaha kecil mencatat penjualan meningkat, tetapi kas untuk membayar pemasok menurun. Susun kemungkinan penjelasan: lebih banyak penjualan kredit, persediaan menumpuk, pembayaran pelanggan terlambat, pembelian aset, atau kewajiban jatuh tempo. Tentukan laporan dan catatan yang diperlukan untuk menguji setiap kemungkinan. Jangan menyimpulkan penyebab dari satu rasio. Buat rekonsiliasi sederhana antara saldo kas awal, penerimaan, pengeluaran, dan saldo akhir. Tandai asumsi yang belum didukung bukti.
+
+Pertanyaan refleksi
+- Mengapa neraca saldo yang seimbang belum menjamin laporan bebas salah?
+- Apa konsekuensi pencatatan persediaan yang tidak didukung pemeriksaan fisik?
+- Pengendalian apa yang realistis bagi organisasi dengan sedikit pegawai?
+- Mengapa laba dan arus kas perlu dianalisis secara bersamaan?
+

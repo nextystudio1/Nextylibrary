@@ -279,3 +279,55 @@ LATIHAN
 
 PROYEK
 Buat rencana kelangsungan layanan untuk katalog perpustakaan sekolah. Tentukan layanan kritis, dampak gangguan, prioritas pemulihan, kontak peran, komunikasi pengguna, dan cara memeriksa integritas data setelah pulih. Uji rencana melalui simulasi diskusi bersama guru atau pengelola, tanpa sengaja mengganggu sistem nyata.
+
+BAB: MENETAPKAN KONTEKS DAN KRITERIA RISIKO
+
+Analisis risiko yang baik dimulai dengan menetapkan tujuan dan konteks. Risiko terhadap layanan pendidikan berbeda dari risiko terhadap keselamatan, keuangan, atau reputasi. Tentukan proses yang dinilai, pihak yang terlibat, batas waktu, serta kondisi yang dianggap dapat diterima. Tanpa konteks, daftar risiko mudah menjadi kumpulan kekhawatiran yang tidak memiliki prioritas.
+
+Kriteria risiko menjelaskan bagaimana kemungkinan dan konsekuensi dinilai. Organisasi dapat menggunakan skala kualitatif seperti rendah, sedang, dan tinggi, tetapi setiap tingkat perlu memiliki definisi. Jika tidak, dua penilai dapat memberi nilai berbeda untuk keadaan yang sama. Skala numerik pun tidak otomatis objektif; angka hanya membantu konsistensi jika dasar penilaiannya jelas.
+
+Pisahkan risiko inheren dari risiko residual. Risiko inheren adalah tingkat risiko sebelum pengendalian dipertimbangkan, sedangkan risiko residual adalah risiko yang tersisa setelah pengendalian diterapkan. Pengendalian tidak selalu menghilangkan risiko. Perlu ada pemilik risiko yang bertanggung jawab memantau perubahan dan melaporkan ketika asumsi awal tidak lagi berlaku.
+
+BAB: ANALISIS PENYEBAB DAN DAMPAK
+
+Satu peristiwa dapat memiliki beberapa penyebab dan beberapa dampak. Gangguan layanan digital, misalnya, dapat berasal dari kesalahan perubahan, kegagalan perangkat, masalah penyedia, atau proses pemulihan yang tidak diuji. Dampaknya dapat mencakup tertundanya kegiatan, hilangnya akses dokumen, biaya pemulihan, dan menurunnya kepercayaan pengguna.
+
+Peta sebab-akibat membantu tim membedakan penyebab langsung dan faktor pendukung. Jangan berhenti pada pernyataan bahwa seseorang melakukan kesalahan. Periksa apakah prosedur membingungkan, pelatihan tidak memadai, beban kerja berlebihan, atau sistem tidak menyediakan pemeriksaan yang diperlukan. Analisis yang baik mencari perbaikan sistem tanpa menghapus tanggung jawab individu.
+
+Dampak perlu dinilai dari sudut pandang pihak yang terkena. Gangguan singkat pada layanan umum mungkin dapat ditoleransi, tetapi gangguan pada waktu pendaftaran atau ujian dapat memiliki konsekuensi lebih besar. Libatkan pemilik proses dan pengguna untuk memahami periode kritis, kebutuhan akses, serta konsekuensi yang tidak terlihat dari sisi teknis.
+
+BAB: MEMILIH PERLAKUAN RISIKO
+
+Pilihan perlakuan risiko umumnya mencakup menghindari kegiatan, mengurangi kemungkinan atau dampak, membagi atau mengalihkan sebagian risiko melalui pengaturan yang sesuai, serta menerima risiko dengan alasan yang terdokumentasi. Keputusan tidak boleh hanya didasarkan pada biaya langsung. Pertimbangkan kewajiban, dampak terhadap pihak lain, dan kemungkinan risiko berpindah ke kelompok yang lebih rentan.
+
+Setiap tindakan pengendalian harus memiliki penanggung jawab, sumber daya, tenggat, dan indikator keberhasilan. Pernyataan “meningkatkan keamanan” terlalu umum untuk dievaluasi. Tindakan yang lebih jelas misalnya menetapkan peninjauan akses berkala, menguji pemulihan cadangan, atau memperbarui prosedur komunikasi. Pastikan tindakan benar-benar dilakukan dan bukti pelaksanaannya tersimpan.
+
+Pengendalian juga dapat menimbulkan risiko baru. Pemeriksaan berlapis mungkin memperlambat layanan; pengumpulan data tambahan untuk pemantauan dapat menambah risiko privasi. Karena itu, evaluasi manfaat dan dampak samping. Cari pendekatan yang proporsional dengan tingkat risiko serta kebutuhan pengguna.
+
+BAB: RISIKO PROYEK DAN PERUBAHAN
+
+Proyek menghadapi ketidakpastian jadwal, biaya, ruang lingkup, mutu, sumber daya, dan ketergantungan pihak luar. Daftar risiko proyek perlu ditinjau sepanjang pelaksanaan, bukan hanya dibuat saat awal. Perubahan kebutuhan dapat membuat penilaian sebelumnya tidak lagi relevan. Setiap perubahan besar sebaiknya memicu peninjauan dampak dan persetujuan sesuai tata kelola.
+
+Risiko jadwal dapat dikelola dengan mengenali kegiatan yang saling bergantung dan menyediakan waktu untuk pemeriksaan. Risiko biaya memerlukan asumsi yang transparan serta pemantauan pengeluaran aktual. Risiko mutu memerlukan kriteria penerimaan yang disepakati sebelum hasil dinilai. Jika kriteria baru dibuat setelah pekerjaan selesai, penilaian dapat menjadi tidak adil.
+
+Skenario alternatif membantu tim memikirkan apa yang dilakukan ketika asumsi utama gagal. Tentukan tanda peringatan, keputusan yang perlu diambil, dan pihak yang berwenang. Hindari membuat rencana yang terlalu rumit untuk dijalankan. Rencana sederhana yang dipahami tim lebih berguna daripada dokumen panjang yang tidak pernah dibaca.
+
+BAB: KOMUNIKASI DAN PEMANTAUAN RISIKO
+
+Laporan risiko perlu menyampaikan hal yang relevan bagi penerima. Pimpinan membutuhkan gambaran prioritas dan keputusan yang diminta, sedangkan pelaksana membutuhkan tindakan, pemilik, dan tenggat. Gunakan bahasa yang jelas dan hindari menyamarkan risiko tinggi dengan istilah yang terlalu lunak. Ketidakpastian harus dinyatakan secara terbuka.
+
+Indikator peringatan dini membantu mendeteksi perubahan sebelum dampak membesar. Contohnya adalah meningkatnya jumlah keluhan, keterlambatan berulang, kapasitas yang semakin penuh, atau perubahan ketentuan penyedia. Indikator harus memiliki ambang dan tindakan yang jelas. Mengumpulkan banyak indikator tanpa keputusan yang mengikuti hanya menambah pekerjaan administrasi.
+
+Budaya risiko yang sehat memungkinkan orang menyampaikan kekhawatiran tanpa takut dipermalukan. Laporan awal sering tidak lengkap, sehingga organisasi perlu menanyakan informasi tambahan dengan cara yang mendukung. Setelah kejadian, evaluasi apakah pengendalian bekerja dan apakah penilaian perlu diperbarui. Pembelajaran harus diterjemahkan menjadi perubahan nyata.
+
+PROYEK
+
+Buat daftar risiko untuk penyelenggaraan perpustakaan digital sekolah. Identifikasi aset dan proses penting, susun kriteria kemungkinan serta dampak, tentukan pemilik risiko, pilih pengendalian, dan tetapkan indikator peringatan. Uji skenario gangguan melalui diskusi meja, lalu revisi rencana berdasarkan pertanyaan yang belum terjawab.
+
+LATIHAN
+
+1. Mengapa konteks harus ditetapkan sebelum menilai risiko?
+2. Apa perbedaan risiko inheren dan residual?
+3. Mengapa analisis penyebab tidak boleh berhenti pada kesalahan individu?
+4. Bagaimana pengendalian dapat menimbulkan risiko baru?
+5. Apa ciri indikator peringatan dini yang berguna?

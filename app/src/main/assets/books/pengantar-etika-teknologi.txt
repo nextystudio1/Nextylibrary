@@ -349,3 +349,27 @@ PROYEK MINI: KARTU PENILAIAN ETIS
 
 Pilih fitur digital yang dikenal secara umum. Buat kartu satu halaman berisi tujuan, pihak terdampak, data yang dibutuhkan, risiko utama, langkah pencegahan, indikator pemantauan, mekanisme keluhan, dan kondisi penghentian. Berikan alasan untuk setiap pilihan. Penilaian yang baik tidak menyatakan teknologi selalu baik atau buruk; ia menunjukkan syarat agar manfaat dapat dicapai dengan tanggung jawab.
 
+BAB LANJUTAN: KEADILAN ALGORITMA, TATA KELOLA DATA, DAN AKUNTABILITAS
+
+Sistem digital sering membuat keputusan atau rekomendasi berdasarkan data dan aturan komputasi. Keputusan tersebut dapat memengaruhi akses seseorang terhadap informasi, layanan, pendidikan, atau kesempatan ekonomi. Karena itu, penilaian etis tidak cukup hanya bertanya apakah sistem bekerja cepat. Kita juga perlu menilai siapa yang memperoleh manfaat, siapa yang menanggung risiko, apakah prosesnya dapat dijelaskan, dan bagaimana kesalahan dapat diperbaiki.
+
+Bias algoritma dapat muncul dari beberapa tahap. Data pelatihan mungkin tidak mewakili kelompok pengguna secara seimbang. Label yang digunakan dapat mencerminkan keputusan manusia yang tidak konsisten. Variabel yang tampak netral juga dapat menjadi pengganti tidak langsung bagi karakteristik yang sensitif. Bahkan data yang akurat pada masa lalu dapat menjadi kurang sesuai ketika kondisi sosial berubah. Oleh sebab itu, audit perlu memeriksa asal data, cara pengumpulan, definisi kategori, kinerja pada kelompok yang relevan, dan dampak keputusan.
+
+Keadilan tidak selalu berarti semua orang menerima perlakuan yang identik. Dalam beberapa konteks, aksesibilitas atau dukungan tambahan dibutuhkan agar kesempatan menjadi lebih setara. Namun, ukuran keadilan dapat saling bertentangan. Menurunkan kesalahan rata-rata belum tentu mengurangi kesalahan pada kelompok tertentu. Tim pengembang perlu menyatakan ukuran yang dipilih, alasan pemilihannya, serta konsekuensi yang belum terselesaikan. Tidak ada satu metrik yang menggantikan penilaian kontekstual.
+
+Privasi merupakan bagian dari tata kelola data sejak tahap perancangan. Prinsip minimisasi data berarti hanya mengumpulkan informasi yang benar-benar diperlukan untuk tujuan yang sah. Batas penyimpanan perlu ditentukan, akses diberikan berdasarkan kebutuhan kerja, dan penggunaan sekunder harus ditinjau secara terpisah. Penghapusan nama saja tidak selalu membuat data anonim karena gabungan beberapa atribut dapat mengidentifikasi seseorang. Karena itu, pengelola perlu mempertimbangkan risiko pengaitan ulang dan membatasi distribusi data.
+
+Persetujuan pengguna harus jelas dan bermakna. Pemberitahuan yang panjang, kabur, atau menyamarkan pilihan tidak membantu seseorang memahami konsekuensi. Pengguna perlu mengetahui jenis data yang diproses, tujuan, pihak yang menerima, masa penyimpanan, serta cara mengajukan pertanyaan atau keluhan. Dalam layanan yang penting, penolakan terhadap pemrosesan tertentu sebaiknya tidak secara otomatis menutup akses terhadap seluruh layanan jika ada alternatif yang layak.
+
+Transparansi bukan berarti membuka seluruh kode atau data pribadi kepada publik. Transparansi yang berguna menjelaskan tujuan sistem, kategori data, batas kemampuan, faktor utama yang memengaruhi keluaran, dan jalur peninjauan. Dokumentasi teknis dapat dilengkapi ringkasan yang dapat dipahami pengguna. Ketika keputusan berdampak besar, seseorang perlu memiliki cara untuk meminta pemeriksaan manusia dan mengoreksi informasi yang keliru.
+
+Akuntabilitas membutuhkan pembagian tanggung jawab. Pengembang bertanggung jawab atas desain dan pengujian, pengelola bertanggung jawab atas penggunaan operasional, dan organisasi perlu menyediakan mekanisme pengawasan. Kontrak dengan penyedia teknologi tidak menghapus tanggung jawab organisasi terhadap pengguna. Catatan perubahan, laporan insiden, dan evaluasi berkala membantu memastikan bahwa masalah tidak hilang setelah sistem diluncurkan.
+
+Studi kasus: sebuah sekolah menggunakan aplikasi untuk memberi rekomendasi materi tambahan. Tim menemukan bahwa rekomendasi lebih sering diberikan kepada peserta didik yang memiliki perangkat dan koneksi stabil. Mereka memeriksa apakah data aktivitas hanya merepresentasikan akses internet, bukan kemampuan belajar. Sistem kemudian dilengkapi pilihan penilaian alternatif, penjelasan rekomendasi, serta prosedur koreksi oleh pengajar. Perubahan dievaluasi berdasarkan akses dan manfaat, bukan hanya jumlah klik.
+
+Latihan penerapan:
+1. Buat peta pihak terdampak dari suatu layanan digital.
+2. Identifikasi tiga sumber bias yang mungkin muncul sebelum model digunakan.
+3. Susun pemberitahuan privasi ringkas dengan bahasa yang mudah dipahami.
+4. Tentukan kapan keputusan otomatis perlu ditinjau manusia.
+5. Rancang indikator audit yang mengukur manfaat dan dampak yang tidak diinginkan.

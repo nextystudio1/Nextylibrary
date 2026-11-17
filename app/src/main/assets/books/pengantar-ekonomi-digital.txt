@@ -325,3 +325,36 @@ Ekosistem digital dapat menciptakan biaya berpindah melalui format tertutup, aku
 
 Persaingan tidak hanya dilihat dari harga. Kualitas, privasi, inovasi, pilihan, dan kemampuan pelaku usaha kecil untuk menjangkau pelanggan juga relevan. Kebijakan persaingan perlu memahami karakter pasar digital tanpa menganggap setiap perusahaan besar otomatis melanggar aturan. Penilaian harus bertumpu pada perilaku, struktur pasar, dan dampak yang dapat dibuktikan.
 
+
+BAB PENDALAMAN: MODEL BISNIS PLATFORM DAN EFEK JARINGAN
+
+Platform digital mempertemukan dua atau lebih kelompok pengguna, misalnya penjual dan pembeli atau pembuat konten dan pembaca. Nilai platform dapat meningkat ketika lebih banyak peserta bergabung, suatu fenomena yang dikenal sebagai efek jaringan. Namun, pertumbuhan jumlah pengguna tidak selalu menjamin kualitas layanan. Kemacetan informasi, penipuan, moderasi yang lemah, dan dominasi pelaku besar dapat mengurangi manfaat.
+
+Model bisnis platform dapat memperoleh pendapatan melalui biaya transaksi, langganan, iklan, lisensi, atau layanan tambahan. Setiap model memiliki insentif yang berbeda. Pendapatan iklan, misalnya, dapat mendorong pengumpulan data dan perhatian pengguna, sedangkan biaya transaksi dapat memengaruhi harga bagi penjual. Analisis perlu melihat siapa yang membayar, siapa yang memperoleh manfaat, dan bagaimana insentif memengaruhi desain produk.
+
+Tata kelola platform menentukan aturan partisipasi, moderasi, penyelesaian sengketa, dan akses data. Aturan yang tidak transparan dapat merugikan pengguna yang bergantung pada platform. Mekanisme banding, penjelasan keputusan, dan kebijakan yang konsisten membantu membangun kepercayaan. Platform juga perlu menilai dampak perubahan aturan terhadap usaha kecil dan kelompok yang memiliki pilihan terbatas.
+
+BAB PENDALAMAN: PEMBAYARAN DIGITAL DAN PERLINDUNGAN KONSUMEN
+
+Pembayaran digital memindahkan instruksi pembayaran melalui sistem elektronik. Pengguna perlu memahami jumlah, penerima, biaya, dan status transaksi sebelum menyetujui. Antarmuka harus menghindari tombol yang menyesatkan atau persetujuan yang sulit dibatalkan. Riwayat transaksi dan saluran pengaduan membantu pengguna menelusuri masalah.
+
+Keamanan pembayaran melibatkan autentikasi, perlindungan data, pemantauan aktivitas tidak wajar, dan prosedur penanganan sengketa. Pengguna tidak seharusnya diminta membagikan kode rahasia atau kata sandi kepada pihak lain. Organisasi penyedia layanan perlu menjelaskan tanggung jawab ketika terjadi transaksi yang tidak dikenali dan cara melaporkannya melalui kanal resmi.
+
+Literasi konsumen mencakup kemampuan membedakan promosi, biaya, syarat langganan, dan kebijakan pengembalian. Informasi harga perlu ditampilkan sebelum keputusan dibuat. Persetujuan berlangganan harus jelas, termasuk cara mengelola atau menghentikan layanan sesuai ketentuan. Desain yang sengaja menyulitkan pembatalan merusak kepercayaan dan dapat bertentangan dengan prinsip perlindungan konsumen.
+
+BAB PENDALAMAN: DATA, PRIVASI, DAN EKONOMI PERHATIAN
+
+Data dapat menjadi sumber nilai ekonomi karena membantu organisasi memahami kebutuhan, mengukur layanan, dan mengembangkan produk. Namun, pengumpulan data membawa tanggung jawab. Organisasi harus menjelaskan tujuan, membatasi akses, menjaga keamanan, dan menghapus data ketika tidak lagi diperlukan sesuai ketentuan. Data yang tampak tidak langsung mengidentifikasi seseorang dapat menjadi sensitif ketika digabungkan dengan sumber lain.
+
+Ekonomi perhatian menggambarkan persaingan layanan untuk memperoleh waktu dan keterlibatan pengguna. Rekomendasi otomatis dapat membantu menemukan materi relevan, tetapi juga dapat mempersempit paparan jika hanya mengulang preferensi sebelumnya. Pengguna sebaiknya memiliki kendali atas notifikasi, riwayat, dan personalisasi. Pengukuran keberhasilan produk tidak harus hanya berdasarkan durasi penggunaan; kualitas hasil dan kepuasan yang sehat juga relevan.
+
+BAB PENDALAMAN: INKLUSI DAN KESENJANGAN DIGITAL
+
+Kesenjangan digital bukan hanya perbedaan kepemilikan perangkat. Kualitas jaringan, biaya data, keterampilan, bahasa, aksesibilitas, dan dukungan sosial memengaruhi kemampuan memanfaatkan layanan. Layanan yang hanya berjalan pada perangkat baru dapat mengecualikan pengguna dengan perangkat lama. Materi yang hanya tersedia dalam satu format dapat menghambat pengguna dengan kebutuhan akses berbeda.
+
+Desain inklusif mempertimbangkan koneksi lambat, ukuran layar, navigasi sederhana, teks yang dapat dibaca, dan pilihan format. Layanan penting sebaiknya memiliki jalur bantuan alternatif ketika sistem digital tidak dapat diakses. Evaluasi perlu melibatkan kelompok pengguna yang beragam dan menilai apakah mereka dapat menyelesaikan tugas, bukan hanya apakah aplikasi dapat dibuka.
+
+PROYEK MINI: AUDIT LAYANAN DIGITAL
+
+Pilih layanan digital publik yang dapat diamati tanpa membuat transaksi. Periksa kejelasan harga, informasi privasi, aksesibilitas, proses bantuan, dan cara mengajukan keluhan. Catat bukti yang terlihat serta aspek yang tidak dapat dipastikan. Susun rekomendasi yang mempertimbangkan pengguna, penyedia, dan dampak ekonomi.
+

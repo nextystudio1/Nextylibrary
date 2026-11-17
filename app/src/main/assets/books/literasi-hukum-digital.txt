@@ -338,3 +338,36 @@ Untuk menganalisis masalah, susun kronologi, identifikasi pihak, rumuskan isu, c
 
 Materi pengantar bukan pengganti nasihat hukum profesional. Persoalan nyata dapat bergantung pada yurisdiksi, dokumen, dan keadaan khusus. Jika menghadapi sengketa atau risiko serius, mintalah bantuan pihak yang kompeten melalui jalur resmi. Literasi hukum digital bertujuan membantu orang bertanya dengan tepat dan memahami hak serta tanggung jawab, bukan mendorong tindakan sepihak.
 
+BAB LANJUTAN: TATA KELOLA BUKTI DAN TANGGUNG JAWAB DI RUANG DIGITAL
+
+Jejak digital dan konteks pembuktian
+
+Informasi elektronik sering hadir dalam bentuk pesan, tangkapan layar, dokumen, rekaman transaksi, metadata, atau catatan sistem. Bentuk tersebut tidak otomatis menjelaskan keseluruhan peristiwa. Tangkapan layar, misalnya, dapat memperlihatkan sebagian percakapan tanpa pesan sebelum dan sesudahnya. Karena itu, pembaca perlu memeriksa asal informasi, waktu, kelengkapan, pihak yang membuat, serta kemungkinan perubahan.
+
+Dalam pencatatan awal, buat kronologi dengan kolom waktu, peristiwa, sumber, dan tingkat kepastian. Pisahkan hal yang dilihat langsung dari informasi yang diterima dari orang lain. Jangan mengubah berkas asli ketika membuat salinan kerja. Catat siapa yang memperoleh salinan dan kapan proses itu dilakukan. Untuk perkara yang berpotensi serius, serahkan penanganan bukti kepada pihak berwenang atau tenaga ahli; tindakan mandiri yang tidak tepat dapat merusak konteks atau melanggar privasi.
+
+Privasi dan dasar pemrosesan data
+
+Data pribadi bukan hanya nomor identitas. Gabungan lokasi, kebiasaan, foto, riwayat aktivitas, dan informasi pekerjaan dapat mengarah pada seseorang. Organisasi yang mengumpulkan data perlu menjelaskan tujuan, jenis data, masa penyimpanan, pihak penerima, serta cara subjek data menggunakan haknya. Pengumpulan berlebihan meningkatkan risiko kebocoran dan membuat organisasi sulit mempertanggungjawabkan pemanfaatan data.
+
+Prinsip pembatasan tujuan berarti data yang dikumpulkan untuk satu keperluan tidak boleh begitu saja dialihkan ke tujuan lain tanpa dasar yang sesuai. Prinsip minimisasi mendorong organisasi mengambil data secukupnya. Prinsip akurasi mengharuskan mekanisme koreksi. Prinsip keamanan mencakup pengendalian akses, pencatatan aktivitas, pencadangan, dan penanganan insiden. Prinsip retensi mengharuskan data tidak disimpan selamanya tanpa alasan.
+
+Kontrak layanan dan transaksi elektronik
+
+Sebelum menyetujui layanan digital, baca identitas penyedia, ruang lingkup layanan, biaya, pembaruan otomatis, cara berhenti, kebijakan pengembalian, serta mekanisme pengaduan. Tombol persetujuan seharusnya tidak menyamarkan kewajiban penting. Simpan ringkasan transaksi dan bukti pembayaran secara aman. Jika terjadi perbedaan antara promosi dan layanan yang diterima, susun catatan faktual: janji yang disampaikan, tanggal, bukti, kerugian yang diklaim, dan penyelesaian yang diminta.
+
+Persetujuan elektronik perlu dipahami bersama konteksnya. Klik atau tanda centang tidak selalu menjawab apakah informasi diberikan secara jelas atau apakah pihak yang menyetujui memiliki kewenangan. Penilaian hukum bergantung pada aturan yang berlaku dan fakta kasus. Buku pengantar ini membantu pembaca mengenali pertanyaan penting, bukan menetapkan hasil sengketa tertentu.
+
+Moderasi konten dan kebebasan berekspresi
+
+Platform digital mengatur konten melalui ketentuan layanan dan mekanisme moderasi. Keputusan penghapusan, pembatasan jangkauan, atau penangguhan akun sebaiknya disertai alasan dan jalur banding yang mudah dipahami. Pengguna perlu membedakan kritik, opini, informasi faktual, ancaman, pelecehan, dan penyebaran data pribadi. Perbedaan tersebut penting karena tidak semua konten yang tidak disukai merupakan pelanggaran, sementara kebebasan berekspresi juga tidak menghapus tanggung jawab atas tindakan yang melanggar hukum.
+
+Ketika menemukan konten bermasalah, dokumentasikan konteks secukupnya, gunakan fitur pelaporan resmi, dan hindari menyebarkan ulang materi yang merugikan. Jangan melakukan persekusi digital atau mengajak orang menyerang akun tertentu. Pelaporan yang bertanggung jawab menyampaikan alasan spesifik, bukan sekadar label atau serangan personal.
+
+Skenario pembelajaran
+
+Sebuah komunitas menerima pesan yang mengatasnamakan penyelenggara lomba dan meminta biaya administrasi melalui rekening pribadi. Peserta sebaiknya tidak langsung menyimpulkan hanya dari desain pesan. Periksa pengumuman di kanal resmi yang telah dikenal, hubungi penyelenggara melalui kontak independen, bandingkan nama penerima, dan simpan bukti komunikasi. Jika ada indikasi penipuan, laporkan melalui saluran resmi dan beri tahu komunitas dengan bahasa faktual tanpa menyebarkan data pribadi yang tidak diperlukan.
+
+Latihan analisis
+
+Pilih satu contoh kebijakan privasi layanan yang digunakan sehari-hari. Tandai tujuan pengumpulan data, jenis data, pihak penerima, masa simpan, dan mekanisme penghapusan. Catat bagian yang tidak jelas sebagai pertanyaan. Kemudian buat ringkasan satu halaman untuk pembaca awam. Nilai ringkasan berdasarkan ketepatan, kelengkapan, bahasa yang netral, dan kemampuan membedakan fakta dari asumsi.

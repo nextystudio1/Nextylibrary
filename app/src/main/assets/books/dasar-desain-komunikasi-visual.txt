@@ -241,3 +241,44 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Sebutkan cara menyampaikan informasi selain menggunakan warna.
 4. Apa yang harus diperiksa sebelum memakai foto dari internet?
 5. Bagaimana grafik dapat menyesatkan meskipun angka sumbernya benar?
+
+BAB LANJUTAN: SISTEM IDENTITAS VISUAL
+
+Identitas visual adalah sistem elemen yang membantu audiens mengenali organisasi, produk, atau kegiatan. Sistem dapat mencakup logo, warna, tipografi, ilustrasi, fotografi, pola, dan aturan tata letak. Konsistensi tidak berarti setiap media harus tampak identik. Elemen perlu disesuaikan dengan ukuran, konteks, dan kebutuhan pengguna sambil mempertahankan ciri utama.
+
+Logo harus dapat digunakan pada berbagai ukuran dan latar. Uji keterbacaan pada tampilan kecil, cetak satu warna, dan latar dengan kontras berbeda. Jangan mengandalkan detail sangat halus yang hilang ketika logo diperkecil. Pedoman identitas sebaiknya menjelaskan ruang aman, ukuran minimum, variasi warna, serta penggunaan yang tidak diperbolehkan.
+
+Sistem visual yang baik juga mempertimbangkan aksesibilitas. Warna tidak boleh menjadi satu-satunya pembawa informasi. Gunakan label, pola, bentuk, atau ikon pendamping. Pastikan kontras teks dan latar memadai serta ukuran huruf sesuai media dan jarak baca.
+
+BAB LANJUTAN: TIPOGRAFI DAN KETERBACAAN
+
+Tipografi memengaruhi kecepatan membaca, suasana, dan hierarki. Pilihan huruf untuk teks panjang perlu mempertimbangkan bentuk karakter, jarak antarhuruf, tinggi baris, panjang baris, dan ukuran. Huruf dekoratif dapat digunakan untuk judul singkat, tetapi sering menyulitkan pembacaan paragraf panjang.
+
+Hierarki tipografi dapat dibangun melalui ukuran, ketebalan, posisi, warna, dan ruang. Terapkan aturan secara konsisten agar pembaca dapat membedakan judul, subjudul, isi, keterangan, dan catatan. Terlalu banyak jenis huruf atau variasi gaya membuat struktur terasa tidak stabil.
+
+Keterbacaan harus diuji pada perangkat dan kondisi nyata. Poster yang terlihat jelas di layar besar mungkin sulit dibaca pada ponsel. Dokumen yang dicetak dengan tinta tipis dapat kehilangan kontras. Uji dengan pembaca yang beragam dan perhatikan kebutuhan aksesibilitas.
+
+BAB LANJUTAN: VISUALISASI DATA DAN INFORMASI
+
+Grafik membantu melihat pola, tetapi pilihan bentuk grafik dapat memengaruhi interpretasi. Grafik batang cocok untuk membandingkan kategori, grafik garis untuk perubahan berurutan, dan diagram sebar untuk hubungan dua variabel. Pilih visualisasi sesuai pertanyaan, bukan hanya karena bentuknya menarik.
+
+Sumbu yang dipotong dapat membuat perbedaan terlihat lebih besar. Ukuran area pada diagram dapat menyesatkan jika tidak sebanding dengan nilai. Legenda, satuan, sumber, periode, dan definisi kategori harus jelas. Jika data tidak lengkap, tampilkan keterbatasannya daripada mengisi bagian kosong dengan angka perkiraan tanpa penjelasan.
+
+Infografik sebaiknya mengurangi beban kognitif. Kelompokkan informasi, gunakan urutan yang masuk akal, dan hindari ikon berlebihan. Setiap elemen harus membantu pembaca memahami satu hubungan atau fakta. Uji apakah seseorang dapat menemukan pesan utama tanpa penjelasan lisan dari perancang.
+
+BAB LANJUTAN: PROSES KREATIF DAN EVALUASI DESAIN
+
+Proses desain dapat dimulai dengan ringkasan masalah, riset audiens, pengembangan beberapa konsep, pemilihan arah, prototipe, pengujian, dan revisi. Ringkasan masalah perlu menyatakan tujuan, audiens, media, batas teknis, dan indikator keberhasilan. Brief yang jelas mencegah tim terlalu cepat memilih solusi visual sebelum memahami kebutuhan.
+
+Kritik desain sebaiknya mengacu pada tujuan dan bukti. Komentar seperti “saya tidak suka warna ini” dapat menjadi awal diskusi, tetapi perlu diterjemahkan menjadi pertanyaan tentang kontras, makna, audiens, dan konsistensi. Pengujian dengan pengguna dapat mengungkap masalah yang tidak terlihat oleh perancang.
+
+PROYEK
+Buat sistem visual sederhana untuk kegiatan literasi sekolah: logo atau tanda, palet warna, tipografi, poster, dan unggahan informasi. Sertakan versi yang tetap terbaca tanpa warna. Uji pada layar ponsel dan cetakan, lalu catat perubahan berdasarkan masukan pembaca.
+
+LATIHAN
+1. Apa perbedaan konsistensi dan keseragaman?
+2. Mengapa logo harus diuji pada ukuran kecil?
+3. Bagaimana hierarki tipografi membantu navigasi?
+4. Apa risiko sumbu grafik yang dipotong?
+5. Bagaimana mengubah kritik selera menjadi evaluasi berbasis tujuan?
+

@@ -333,3 +333,33 @@ Bukti geologi sering tidak lengkap karena proses alam menghapus, menutup, atau m
 
 Dalam laporan, pisahkan observasi dari interpretasi. Pernyataan bahwa lapisan batuan memiliki warna tertentu adalah deskripsi pengamatan; penjelasan tentang lingkungan pembentukannya merupakan interpretasi. Pemisahan ini membuat pembaca dapat menilai hubungan antara data dan kesimpulan. Cantumkan keterbatasan, ketidakpastian, dan kebutuhan pengamatan tambahan.
 
+BAB PENDALAMAN: SIKLUS BATUAN DAN PROSES PERMUKAAN
+
+Batuan beku, sedimen, dan metamorf saling terhubung melalui proses geologi dalam rentang waktu panjang. Magma yang mendingin membentuk batuan beku. Pelapukan dan erosi menghasilkan material yang dapat diangkut, diendapkan, lalu mengalami pemadatan dan sementasi. Tekanan serta suhu dapat mengubah batuan menjadi metamorf, sementara peleburan dapat menghasilkan magma kembali.
+
+Siklus batuan bukan urutan tunggal yang harus dilalui setiap batuan. Jalurnya beragam dan bergantung pada kondisi geologi. Memahami proses membantu menjelaskan bentuk lahan, sumber daya mineral, tanah, serta kerentanan lingkungan.
+
+BAB PENDALAMAN: AIR TANAH DAN SISTEM HIDROGEOLOGI
+
+Air tanah tersimpan dan bergerak melalui pori serta rekahan batuan atau sedimen. Akuifer adalah lapisan yang dapat menyimpan dan mengalirkan air dalam jumlah berarti, sedangkan lapisan berpermeabilitas rendah dapat membatasi aliran. Pengisian ulang dipengaruhi curah hujan, tutupan lahan, jenis tanah, dan kondisi geologi.
+
+Pengambilan air yang melampaui pengisian dapat menurunkan muka air tanah dan memengaruhi sumur atau ekosistem. Di wilayah pesisir, perubahan keseimbangan dapat meningkatkan risiko intrusi air asin. Pengelolaan memerlukan data pemantauan, perlindungan daerah imbuhan, dan koordinasi pengguna.
+
+BAB PENDALAMAN: TANAH, EROSI, DAN PENGELOLAAN LAHAN
+
+Tanah terbentuk dari interaksi bahan induk, iklim, organisme, relief, dan waktu. Sifat tekstur, struktur, bahan organik, dan drainase memengaruhi kemampuan tanah mendukung vegetasi serta menahan air. Tanah merupakan sumber daya yang terbentuk lambat dan dapat rusak lebih cepat akibat penggunaan yang tidak sesuai.
+
+Erosi dipengaruhi kemiringan, intensitas hujan, tutupan vegetasi, dan pengelolaan lahan. Konservasi dapat mencakup pemeliharaan tutupan tanah, pengelolaan aliran permukaan, dan penyesuaian kegiatan dengan kemampuan lahan. Pilihan teknis harus berdasarkan kondisi lokasi dan saran tenaga ahli.
+
+BAB PENDALAMAN: BAHAYA GEOLOGI DAN RISIKO MASYARAKAT
+
+Gempa bumi, gerakan tanah, aktivitas gunung api, dan tsunami merupakan proses alam yang dapat menimbulkan dampak berbeda menurut lokasi dan paparan. Bahaya tidak sama dengan risiko: risiko juga dipengaruhi jumlah penduduk, kualitas bangunan, akses informasi, kesiapsiagaan, dan kemampuan pemulihan.
+
+Peta bahaya membantu perencanaan, tetapi tidak selalu dapat memprediksi waktu kejadian secara tepat. Informasi resmi dari lembaga kebencanaan dan geologi harus diutamakan. Masyarakat perlu memahami jalur evakuasi dan mengikuti arahan petugas, bukan mencoba mendekati lokasi untuk mengamati kejadian.
+
+BAB PENDALAMAN: PENCEMARAN GEOLOGI DAN PEMULIHAN LINGKUNGAN
+
+Kegiatan pertambangan, industri, dan perubahan lahan dapat mengubah kualitas tanah serta air. Kontaminan dapat bergerak mengikuti aliran air atau terikat pada partikel sedimen. Penilaian perlu mengenali sumber, jalur perpindahan, media terdampak, dan penerima risiko.
+
+Pemulihan lokasi tercemar dimulai dengan penyelidikan oleh tenaga kompeten, pengambilan sampel yang mengikuti prosedur, dan penilaian risiko. Pilihan pemulihan bergantung pada jenis kontaminan, kondisi geologi, penggunaan lahan, dan perlindungan masyarakat. Hasil pemantauan jangka panjang diperlukan untuk memastikan perbaikan bertahan.
+

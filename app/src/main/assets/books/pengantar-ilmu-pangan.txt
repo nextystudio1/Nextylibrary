@@ -254,3 +254,44 @@ LATIHAN
 4. Sebutkan faktor yang perlu dikendalikan dalam uji sensori.
 5. Mengapa klaim gizi memerlukan data dan aturan label?
 
+PENDALAMAN: KIMIA PANGAN, PENGOLAHAN, DAN SISTEM MUTU
+
+BAB: KOMPONEN PANGAN DAN SIFAT FUNGSIONAL
+
+Pangan tersusun atas air, karbohidrat, protein, lemak, vitamin, mineral, dan komponen lain dalam proporsi yang berbeda. Komponen tersebut tidak hanya menentukan nilai gizi, tetapi juga tekstur, warna, aroma, kestabilan, dan perilaku selama pengolahan. Sifat bahan dipengaruhi struktur molekul serta interaksi antarkomponen.
+
+Pati dapat mengalami gelatinisasi ketika dipanaskan bersama air, lalu membentuk struktur yang berubah saat didinginkan. Protein dapat mengalami denaturasi akibat panas, perubahan pH, atau kondisi lain. Lemak dapat mengalami oksidasi yang memengaruhi aroma dan mutu. Pengetahuan tentang perubahan ini membantu menjelaskan mengapa proses yang sama menghasilkan tekstur berbeda pada bahan yang berbeda.
+
+BAB: EMULSI, BUSA, DAN GEL
+
+Emulsi merupakan campuran dua cairan yang biasanya tidak saling bercampur, dengan salah satu fase tersebar sebagai tetesan. Pengemulsi membantu menstabilkan antarmuka, tetapi kestabilan dipengaruhi ukuran tetesan, viskositas, suhu, dan komposisi. Pemisahan emulsi dapat terjadi melalui beberapa mekanisme, sehingga satu bahan tambahan tidak selalu menyelesaikan semua masalah.
+
+Busa terbentuk ketika gas terdispersi dalam cairan atau padatan. Protein dan komponen permukaan tertentu dapat membantu menstabilkan gelembung. Gel memiliki jaringan yang menahan cairan dan memberi sifat elastis atau padat. Sifat gel bergantung pada bahan pembentuk, konsentrasi, suhu, dan proses. Ketiga sistem ini menunjukkan pentingnya struktur mikro dalam menentukan pengalaman makan.
+
+BAB: PENGOLAHAN DAN PERUBAHAN MUTU
+
+Pengolahan pangan bertujuan meningkatkan keamanan, daya simpan, kemudahan penggunaan, dan karakter produk. Pemanasan, pendinginan, pengeringan, fermentasi, dan pengemasan memiliki prinsip serta keterbatasan berbeda. Pengolahan harus mengikuti standar keamanan pangan yang berlaku; parameter proses tidak boleh ditentukan dari perkiraan atau satu contoh umum.
+
+Mutu dapat berubah selama penyimpanan akibat reaksi kimia, aktivitas enzim, perubahan fisik, dan pertumbuhan mikroorganisme. Suhu, kelembapan, cahaya, oksigen, serta kemasan memengaruhi laju perubahan. Tanggal dan kondisi penyimpanan harus dicatat ketika melakukan evaluasi. Penampilan yang normal tidak menjamin keamanan produk.
+
+BAB: SISTEM JAMINAN MUTU DAN KETERTELUSURAN
+
+Sistem mutu menghubungkan penerimaan bahan, proses produksi, pengemasan, penyimpanan, dan distribusi. Ketertelusuran membantu menelusuri asal bahan serta tujuan produk jika ditemukan masalah. Catatan lot, tanggal, pemasok, dan hasil pemeriksaan harus konsisten. Data tersebut mendukung penarikan produk yang diperlukan dan evaluasi penyebab.
+
+Analisis bahaya dan pengendalian titik kritis merupakan pendekatan sistematis untuk mengenali bahaya dan menetapkan kendali pada tahapan yang relevan. Penerapannya membutuhkan tim terlatih, data proses, validasi, dan kepatuhan regulasi. Daftar bahaya tidak boleh disalin tanpa menilai kondisi fasilitas dan produk yang sebenarnya.
+
+BAB: LABEL, INFORMASI GIZI, DAN KLAIM
+
+Label memberi informasi identitas, komposisi, alergen, berat bersih, penyimpanan, tanggal, dan informasi lain sesuai ketentuan. Klaim seperti “tinggi serat”, “rendah gula”, atau “mendukung kesehatan” harus memenuhi definisi dan bukti yang berlaku. Konsumen perlu dapat membedakan informasi faktual dari bahasa promosi.
+
+PROYEK
+
+Bandingkan dua label produk pangan yang tersedia secara legal. Catat daftar bahan, informasi gizi, alergen, ukuran sajian, dan petunjuk penyimpanan. Jelaskan perbedaan tanpa menyimpulkan keamanan atau manfaat medis yang tidak didukung data.
+
+LATIHAN
+
+1. Bagaimana pati berubah selama gelatinisasi?
+2. Apa perbedaan emulsi, busa, dan gel?
+3. Mengapa penampilan normal tidak menjamin keamanan pangan?
+4. Apa fungsi ketertelusuran dalam sistem mutu?
+5. Mengapa klaim gizi harus mengikuti ketentuan dan bukti?

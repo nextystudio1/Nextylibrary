@@ -208,3 +208,53 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Bandingkan rata-rata bergerak dan median untuk data sensor yang bising.
 4. Jelaskan perbedaan kendali terbuka dan tertutup.
 5. Susun daftar uji keselamatan sebelum robot edukasi dijalankan.
+BAB LANJUTAN 4. PERANGKAT LUNAK ROBOT DAN ARSITEKTUR MODULAR
+
+Perangkat lunak robot biasanya terdiri atas beberapa bagian yang memiliki tanggung jawab berbeda, seperti pembacaan sensor, estimasi keadaan, perencanaan, kendali, komunikasi, dan pencatatan. Pemisahan modul membuat sistem lebih mudah diuji dan dirawat. Setiap modul perlu memiliki masukan, keluaran, satuan, serta batas waktu respons yang jelas. Tanpa kontrak antarmodul, kesalahan format atau asumsi dapat menyebar ke seluruh sistem.
+
+Arsitektur berbasis pesan memungkinkan modul bertukar data tanpa harus mengetahui seluruh detail internal modul lain. Pesan perlu memiliki penanda waktu dan informasi koordinat bila berkaitan dengan posisi. Data sensor yang terlambat dapat membuat pengendali menggunakan keadaan yang sudah tidak sesuai. Karena itu, sistem harus menangani data yang hilang, terlambat, atau berada di luar rentang.
+
+Pencatatan peristiwa membantu menemukan penyebab gangguan. Log sebaiknya mencatat waktu, keadaan sistem, perintah penting, status sensor, dan kesalahan dengan format yang konsisten. Namun, log juga perlu membatasi data pribadi atau informasi lingkungan yang tidak diperlukan. Untuk eksperimen, konfigurasi perangkat lunak dan versi komponen perlu dicatat agar hasil dapat direproduksi.
+
+Pengujian perangkat lunak dapat dimulai dari unit test untuk fungsi kecil, lalu integrasi antarmodul, simulasi, dan pengujian perangkat keras dalam kondisi terkendali. Simulasi berguna untuk menguji skenario yang sulit atau mahal dilakukan, tetapi tidak sepenuhnya mewakili gesekan, kelonggaran mekanis, gangguan sensor, dan variasi lingkungan nyata. Perbedaan simulasi dan perangkat nyata harus dicatat.
+
+LATIHAN BAB
+1. Mengapa perangkat lunak robot dibagi menjadi modul?
+2. Apa informasi yang sebaiknya terdapat dalam pesan sensor?
+3. Mengapa data sensor yang terlambat dapat berbahaya bagi kendali?
+4. Sebutkan informasi penting dalam log pengujian.
+5. Apa keterbatasan simulasi robot?
+
+BAB LANJUTAN 5. KINERJA, LATENSI, DAN PENJADWALAN TUGAS
+
+Robot sering menjalankan beberapa tugas secara bersamaan atau bergantian dengan tenggat waktu berbeda. Pembacaan sensor mungkin perlu dilakukan berkala, sementara pencatatan data dapat berjalan lebih jarang. Penjadwalan harus memastikan tugas penting memperoleh waktu pemrosesan yang cukup. Beban komputasi yang berlebihan dapat menyebabkan keterlambatan dan respons yang tidak konsisten.
+
+Latensi adalah jeda antara suatu peristiwa dan respons sistem. Latensi dapat berasal dari sensor, komunikasi, antrean pesan, komputasi, atau aktuator. Waktu rata-rata saja belum cukup menggambarkan kinerja; variasi dan kejadian terburuk yang masuk akal juga perlu diperhatikan. Untuk fungsi keselamatan, batas waktu respons harus ditentukan dan diuji.
+
+Frekuensi pembacaan tinggi tidak selalu menghasilkan informasi lebih baik. Sensor memiliki batas fisik, derau, dan kebutuhan pemrosesan. Frekuensi yang sesuai ditentukan oleh kecepatan perubahan fenomena yang diukur, kemampuan perangkat, dan tujuan kontrol. Pengambilan data yang terlalu sering dapat menghabiskan daya dan sumber daya komputasi tanpa meningkatkan kualitas keputusan.
+
+Pengujian kinerja sebaiknya menggunakan skenario beban normal dan beban puncak. Ukur waktu respons, penggunaan memori, kehilangan pesan, dan stabilitas operasi. Hasil perlu dibandingkan dengan kebutuhan sistem yang sudah ditetapkan. Jika kinerja belum memenuhi kebutuhan, optimasi harus dilakukan berdasarkan pengukuran, bukan dugaan.
+
+LATIHAN BAB
+1. Apa perbedaan latensi dan frekuensi pembacaan?
+2. Mengapa waktu respons terburuk perlu diperhatikan?
+3. Sebutkan sumber latensi dalam sistem robot.
+4. Mengapa frekuensi sensor yang lebih tinggi tidak selalu lebih baik?
+5. Susun empat metrik untuk pengujian kinerja robot edukasi.
+
+BAB LANJUTAN 6. ETIKA, PRIVASI, DAN INTERAKSI MANUSIA-ROBOT
+
+Robot yang berinteraksi dengan manusia dapat mengumpulkan data lingkungan, suara, gambar, atau pola penggunaan. Pengembang perlu menentukan data apa yang benar-benar diperlukan, tujuan pemrosesan, lama penyimpanan, dan pihak yang dapat mengaksesnya. Pengumpulan data berlebihan meningkatkan risiko privasi tanpa selalu meningkatkan fungsi robot.
+
+Perilaku robot harus dapat dipahami pengguna. Indikator status, suara pemberitahuan, dan gerakan yang dapat diprediksi membantu orang mengetahui apakah robot sedang bergerak, berhenti, atau mengalami gangguan. Robot tidak boleh memberi kesan bahwa ia memahami situasi sosial secara sempurna jika kemampuan sebenarnya terbatas. Batas kemampuan perlu dijelaskan secara jujur.
+
+Desain interaksi harus memperhitungkan perbedaan tinggi, jangkauan, kemampuan sensorik, dan pengalaman pengguna. Antarmuka yang hanya mengandalkan warna dapat menyulitkan sebagian orang. Perintah suara perlu memiliki alternatif, dan tombol berhenti harus mudah dikenali serta dijangkau. Pengujian melibatkan kelompok pengguna yang beragam untuk menemukan hambatan yang tidak terlihat oleh perancang.
+
+Tanggung jawab tidak berhenti pada perangkat yang berfungsi. Organisasi perlu memiliki prosedur pembaruan perangkat lunak, pelaporan insiden, perawatan, dan penonaktifan aman. Jika robot digunakan di ruang publik atau pendidikan, pengawasan manusia dan aturan penggunaan perlu disesuaikan dengan risiko. Tujuan robotika yang bertanggung jawab adalah membantu manusia tanpa mengabaikan keselamatan, privasi, dan martabat pengguna.
+
+LATIHAN BAB
+1. Mengapa pengumpulan data robot perlu dibatasi?
+2. Bagaimana indikator status membantu interaksi?
+3. Mengapa kemampuan robot perlu dijelaskan secara jujur?
+4. Sebutkan alternatif aksesibel untuk antarmuka robot.
+5. Apa saja unsur tata kelola setelah robot digunakan?

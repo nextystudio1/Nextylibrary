@@ -209,3 +209,27 @@ LATIHAN PENDALAMAN
 3. Mengapa rasio lancar yang tinggi belum tentu selalu baik?
 4. Apa perbedaan laba dan arus kas?
 5. Mengapa rasio perlu dibandingkan dengan tren dan konteks industri?
+BAB LANJUTAN 1. SIKLUS AKUNTANSI DAN NERACA SALDO
+
+Siklus akuntansi mengubah bukti transaksi menjadi laporan yang dapat digunakan. Tahap umumnya meliputi analisis transaksi, pencatatan jurnal, pemindahbukuan ke buku besar, penyusunan neraca saldo, penyesuaian, laporan keuangan, dan penutupan akun sementara. Urutan ini membantu menjaga keterlacakan dari angka laporan kembali ke transaksi.
+
+Neraca saldo mencantumkan saldo akun debit dan kredit. Jumlah kedua sisi yang sama menunjukkan keseimbangan aritmetika, tetapi tidak menjamin semua transaksi benar. Transaksi yang tidak dicatat, dicatat pada akun yang salah dengan jumlah seimbang, atau terlewat pada kedua sisi tetap dapat membuat laporan keliru. Karena itu, pemeriksaan bukti dan rekonsiliasi tetap diperlukan.
+
+BAB LANJUTAN 2. PENYESUAIAN DAN DASAR AKRUAL
+
+Akuntansi akrual mengakui pendapatan ketika diperoleh dan beban ketika terjadi sesuai prinsip yang berlaku, bukan semata-mata saat kas berpindah. Penyesuaian diperlukan agar pendapatan dan beban dicatat pada periode yang tepat. Contohnya beban penyusutan, perlengkapan yang telah digunakan, pendapatan yang masih harus diterima, dan beban yang masih harus dibayar.
+
+Misalkan usaha membeli perlengkapan senilai Rp1.000.000 dan pada akhir periode hasil pemeriksaan menunjukkan Rp300.000 masih tersisa. Perlengkapan yang digunakan selama periode adalah Rp700.000. Pencatatan penyesuaian mengakui bagian yang telah digunakan sebagai beban dan menyisakan Rp300.000 sebagai aset. Contoh ini menunjukkan mengapa pemeriksaan fisik dan dokumen pendukung penting.
+
+BAB LANJUTAN 3. MEMBACA LAPORAN DAN MENILAI KINERJA
+
+Laporan laba rugi menunjukkan pendapatan dan beban selama periode; laporan posisi keuangan menunjukkan aset, liabilitas, dan ekuitas pada tanggal tertentu; laporan arus kas menjelaskan arus kas operasi, investasi, dan pendanaan. Ketiganya menjawab pertanyaan berbeda. Laba bukan sama dengan kas, dan saldo kas yang besar pada satu tanggal belum tentu menunjukkan kinerja yang sehat.
+
+Rasio keuangan dapat membantu analisis, misalnya rasio lancar untuk melihat kemampuan memenuhi kewajiban jangka pendek atau margin laba untuk melihat bagian pendapatan yang tersisa setelah beban tertentu. Rasio perlu dibandingkan dengan periode sebelumnya, anggaran, atau organisasi sejenis. Perbedaan model usaha dan kebijakan akuntansi dapat membuat perbandingan menyesatkan.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Sebutkan urutan utama siklus akuntansi.
+2. Mengapa neraca saldo seimbang belum menjamin pencatatan benar?
+3. Jelaskan perbedaan basis kas dan basis akrual.
+4. Mengapa laporan laba rugi perlu dibaca bersama laporan arus kas?
+5. Sebutkan dua keterbatasan penggunaan rasio keuangan.

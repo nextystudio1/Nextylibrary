@@ -206,3 +206,38 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Mengapa energi yang tersedia cenderung berkurang pada tingkat trofik lebih tinggi?
 4. Sebutkan variabel yang dapat digunakan untuk memantau kualitas perairan.
 5. Mengapa restorasi habitat perlu didasarkan pada kondisi ekologi setempat?
+
+BAB LANJUTAN: TERUMBU KARANG DAN PADANG LAMUN
+
+Terumbu karang merupakan ekosistem dengan struktur kompleks yang dibangun oleh organisme karang dan berasosiasi dengan banyak spesies. Hubungan karang dengan alga simbion membantu menyediakan energi melalui fotosintesis. Suhu tinggi berkepanjangan dapat mengganggu hubungan tersebut dan memicu pemutihan. Pemutihan tidak selalu berarti kematian langsung, tetapi dapat meningkatkan kerentanan jika tekanan berlangsung lama.
+
+Padang lamun adalah habitat tumbuhan berbunga yang hidup terendam di laut. Lamun menyediakan tempat mencari makan, perlindungan bagi organisme muda, dan membantu menstabilkan sedimen. Padang lamun juga menyimpan karbon dalam biomassa dan sedimen. Kualitas air, kekeruhan, jangkar, pembangunan pesisir, dan gangguan fisik dapat memengaruhi kondisinya.
+
+Pemantauan habitat perlu menggunakan indikator yang konsisten, seperti tutupan, kerapatan, kondisi organisme, kejernihan air, dan perubahan batas habitat. Foto dari lokasi dan sudut yang berbeda tidak boleh dibandingkan seolah-olah menggunakan metode sama. Catat waktu, kondisi pasang, alat, dan prosedur pengamatan.
+
+BAB LANJUTAN: OSEANOGRAFI BIOLOGIS DAN JARINGAN TROFIK
+
+Produktivitas primer laut banyak ditopang fitoplankton yang memanfaatkan cahaya dan nutrien. Distribusinya dipengaruhi pencampuran air, kedalaman lapisan bercahaya, suhu, dan ketersediaan unsur hara. Daerah dengan nutrien tinggi belum tentu selalu memiliki produktivitas tinggi jika cahaya atau kondisi lain membatasi pertumbuhan.
+
+Energi berpindah melalui jaringan makanan dari produsen ke konsumen. Jaring makanan lebih realistis daripada rantai tunggal karena satu spesies dapat memiliki beberapa sumber makanan dan beberapa pemangsa. Perubahan pada satu populasi dapat menimbulkan efek berantai yang tidak selalu mudah diprediksi.
+
+Upwelling membawa air yang relatif kaya nutrien dari lapisan lebih dalam ke permukaan. Proses ini dapat mendukung produktivitas perikanan, tetapi hasilnya dipengaruhi musim, arus, dan kondisi setempat. Pengamatan satu kali tidak cukup untuk menyimpulkan tren tahunan.
+
+BAB LANJUTAN: PERIKANAN, PENCEMARAN, DAN KONSERVASI
+
+Perikanan berkelanjutan mempertimbangkan laju reproduksi populasi, ukuran tangkapan, habitat, alat tangkap, dan tata kelola. Data pendaratan ikan perlu dilengkapi informasi upaya penangkapan. Hasil tangkapan yang meningkat tidak selalu menunjukkan populasi membaik jika jumlah kapal atau waktu melaut juga meningkat.
+
+Pencemaran laut dapat berasal dari daratan, kegiatan pesisir, transportasi laut, dan sumber lainnya. Plastik berukuran kecil dapat masuk ke jaringan makanan, sementara limbah nutrien dapat mendorong pertumbuhan alga berlebihan dan menurunkan oksigen pada kondisi tertentu. Pengukuran harus membedakan keberadaan bahan pencemar, konsentrasi, paparan, dan dampak biologis.
+
+Kawasan konservasi laut dapat melindungi habitat dan memberi ruang bagi pemulihan populasi, tetapi keberhasilannya bergantung pada desain, kepatuhan, pengawasan, dan keterlibatan masyarakat. Penetapan batas tanpa mempertimbangkan mata pencaharian dapat menimbulkan konflik. Pengelolaan bersama membantu menghubungkan tujuan ekologis dengan kebutuhan sosial dan ekonomi.
+
+STUDI KASUS
+Sebuah komunitas pesisir ingin memantau perubahan padang lamun. Mereka menyusun metode pengamatan yang konsisten, mencatat kondisi cuaca dan pasang, serta berdiskusi dengan nelayan dan pengelola wilayah. Data dibagikan dalam bentuk agregat dan tidak mengungkap lokasi sensitif yang dapat meningkatkan tekanan pada habitat.
+
+LATIHAN
+1. Apa yang menyebabkan pemutihan karang?
+2. Sebutkan fungsi ekologis padang lamun.
+3. Mengapa produktivitas primer dipengaruhi cahaya dan nutrien?
+4. Mengapa hasil tangkapan harus dibaca bersama data upaya penangkapan?
+5. Bagaimana konservasi dapat melibatkan masyarakat pesisir?
+

@@ -293,3 +293,34 @@ LATIHAN BAB
 3. Apa keterbatasan penilaian jasa ekosistem dengan uang?
 4. Mengapa reformasi subsidi memerlukan perlindungan sosial?
 5. Susun indikator ekonomi dan lingkungan untuk pengelolaan sungai.
+
+BAB PENDALAMAN: EKSTERNALITAS DAN INSTRUMEN KEBIJAKAN
+
+Eksternalitas terjadi ketika tindakan produksi atau konsumsi memengaruhi pihak lain tanpa seluruh dampaknya tercermin dalam harga. Pencemaran udara dapat menimbulkan biaya kesehatan bagi masyarakat sekitar, sedangkan ruang hijau dapat memberi manfaat bagi banyak orang di luar pemilik lahannya. Perbedaan antara biaya atau manfaat privat dan sosial menjadi alasan untuk mempertimbangkan kebijakan publik.
+
+Instrumen kebijakan mencakup standar, pajak atau pungutan, subsidi, sistem izin, dan pengungkapan informasi. Standar menetapkan batas yang harus dipenuhi, sedangkan instrumen berbasis harga memberi insentif untuk mengubah perilaku. Pilihan instrumen bergantung pada kemampuan pengawasan, respons pelaku, distribusi beban, dan kepastian hasil lingkungan.
+
+BAB PENDALAMAN: SUMBER DAYA BERSAMA DAN TATA KELOLA
+
+Sumber daya bersama dapat sulit mengecualikan pengguna, sementara pemanfaatan oleh satu pihak mengurangi ketersediaan bagi pihak lain. Perikanan, air tanah, dan padang penggembalaan dapat menghadapi tekanan jika aturan akses tidak jelas. Namun, kerusakan bukan akibat yang tak terhindarkan; tata kelola lokal, pemantauan, aturan yang disepakati, dan sanksi yang adil dapat mendukung pengelolaan berkelanjutan.
+
+Hak akses perlu memperhatikan sejarah penggunaan, ketergantungan mata pencaharian, dan kelompok yang kurang memiliki suara. Kebijakan yang mengabaikan pengetahuan lokal dapat memicu konflik atau membuat aturan sulit diterapkan. Partisipasi harus disertai informasi yang terbuka dan mekanisme penyelesaian sengketa.
+
+BAB PENDALAMAN: PENILAIAN EKONOMI JASA EKOSISTEM
+
+Ekosistem menyediakan jasa seperti penyediaan pangan, pengaturan banjir, penyimpanan karbon, penyerbukan, dan nilai budaya. Penilaian ekonomi dapat membantu memperlihatkan manfaat yang sebelumnya tidak tercatat dalam keputusan. Metode dapat menggunakan biaya pengganti, biaya perjalanan, atau preferensi yang dinyatakan, tetapi setiap metode memiliki asumsi dan batas.
+
+Tidak semua nilai alam dapat direduksi menjadi uang. Identitas budaya, hak masyarakat, keberadaan spesies, dan nilai intrinsik dapat memerlukan pertimbangan etika serta pendekatan nonmoneter. Hasil penilaian sebaiknya menjadi salah satu masukan, bukan satu-satunya penentu keputusan.
+
+BAB PENDALAMAN: EKONOMI SIRKULAR DAN SIKLUS HIDUP
+
+Ekonomi sirkular berupaya mempertahankan nilai bahan dan produk melalui pengurangan limbah, penggunaan ulang, perbaikan, pemulihan komponen, dan daur ulang. Strategi paling efektif sering dimulai dari desain produk yang tahan lama dan mudah diperbaiki. Daur ulang tetap penting, tetapi membutuhkan energi, pemilahan, dan pasar bahan sekunder.
+
+Analisis siklus hidup menilai dampak dari pengambilan bahan baku hingga akhir masa pakai. Produk yang tampak lebih ramah pada satu tahap dapat memiliki beban di tahap lain. Perbandingan harus menggunakan fungsi yang setara, batas sistem yang jelas, serta asumsi transparan. Klaim lingkungan yang tidak menjelaskan dasar pengukuran berisiko menyesatkan.
+
+BAB PENDALAMAN: DISTRIBUSI BIAYA DAN TRANSISI KEBIJAKAN
+
+Kebijakan lingkungan dapat menimbulkan biaya penyesuaian bagi rumah tangga, pekerja, dan usaha kecil. Dampak distribusi perlu diperiksa sebelum kebijakan diterapkan. Bantuan yang tepat sasaran, akses transportasi, pelatihan, dan dukungan transisi dapat mengurangi beban kelompok rentan tanpa menghilangkan tujuan perlindungan lingkungan.
+
+Evaluasi kebijakan membandingkan kondisi sebelum dan sesudah serta mempertimbangkan faktor lain yang berubah pada waktu sama. Indikator dapat mencakup kualitas lingkungan, kesehatan, biaya rumah tangga, produktivitas, dan pemerataan. Pengukuran berkala memungkinkan kebijakan disesuaikan ketika hasil berbeda dari perkiraan. Transparansi data dan alasan perubahan memperkuat legitimasi keputusan.
+

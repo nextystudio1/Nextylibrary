@@ -359,3 +359,29 @@ PROYEK MINI: ANALISIS KORPUS KECIL
 
 Kumpulkan sejumlah kalimat dari sumber publik yang tidak memuat data pribadi, lalu kelompokkan berdasarkan bentuk kata, struktur kalimat, atau pilihan istilah. Catat asal dan konteks data. Buat pertanyaan yang jelas, jelaskan metode pengelompokan, dan tunjukkan contoh yang tidak sesuai pola utama. Sampel kecil hanya mendukung kesimpulan terbatas; jangan menggeneralisasi seluruh penutur dari beberapa kalimat.
 
+BAB LANJUTAN: MAKNA, WACANA, PERUBAHAN BAHASA, DAN PENELITIAN
+
+Makna bahasa tidak hanya ditentukan oleh arti kata dalam kamus. Makna ujaran juga dipengaruhi susunan kalimat, konteks, tujuan penutur, hubungan sosial, dan pengetahuan bersama. Pragmatik mempelajari bagaimana orang memahami maksud dalam situasi tertentu. Kalimat yang sama dapat berfungsi sebagai pertanyaan, permintaan, sindiran, atau penolakan bergantung pada konteks. Analisis perlu mempertimbangkan bukti situasional dan tidak menganggap satu interpretasi berlaku bagi semua komunitas.
+
+Semantik mempelajari hubungan makna dalam bahasa. Makna leksikal berkaitan dengan kata, sedangkan makna komposisional terbentuk melalui hubungan unsur dalam frasa atau kalimat. Ambiguitas dapat muncul ketika satu bentuk memiliki lebih dari satu penafsiran. Penulis dan penyunting dapat mengurangi ambiguitas dengan memperjelas rujukan kata ganti, susunan informasi, dan hubungan antarfrasa. Namun, ambiguitas juga dapat digunakan secara sengaja dalam permainan bahasa atau karya sastra.
+
+Analisis wacana memperhatikan bagaimana kalimat tersusun menjadi teks atau percakapan yang koheren. Kohesi dapat dibangun melalui pengulangan istilah, kata rujukan, konjungsi, dan hubungan leksikal. Koherensi berkaitan dengan keterpaduan makna yang dibangun pembaca berdasarkan struktur dan konteks. Teks yang memiliki banyak penanda penghubung belum tentu koheren jika gagasannya tidak saling mendukung. Sebaliknya, hubungan dapat dipahami tanpa selalu menggunakan penanda eksplisit.
+
+Percakapan memiliki pola pergiliran bicara, perbaikan, jeda, dan strategi kesantunan. Penutur dapat memperbaiki ujaran ketika menyadari kesalahan atau ketika lawan bicara meminta penjelasan. Jeda tidak selalu berarti kebingungan; dapat pula menunjukkan perencanaan, kehati-hatian, atau aturan interaksi. Penelitian percakapan perlu merekam konteks secara etis dan tidak menghapus ciri tutur yang justru menjadi objek kajian.
+
+Bahasa berubah seiring waktu melalui perubahan bunyi, bentuk kata, makna, dan struktur. Kontak antarkelompok dapat menghasilkan peminjaman kata, pergeseran penggunaan, atau pembentukan ragam baru. Perubahan tidak selalu berarti kerusakan bahasa. Ragam bahasa dapat memiliki fungsi sosial berbeda dan digunakan secara strategis sesuai situasi. Penilaian linguistik sebaiknya membedakan deskripsi tentang pola penggunaan dari aturan normatif yang berlaku dalam konteks tertentu.
+
+Sosiolinguistik mempelajari hubungan bahasa dengan masyarakat. Pilihan ragam dapat berkaitan dengan usia, pekerjaan, jaringan sosial, situasi, dan identitas komunitas. Variasi tidak boleh dijadikan dasar untuk menyimpulkan kecerdasan atau nilai seseorang. Bahasa baku memiliki fungsi penting dalam pendidikan dan administrasi, tetapi ragam lokal juga menyimpan pengetahuan dan sejarah. Pendidikan bahasa dapat mengajarkan perpindahan ragam tanpa merendahkan bahasa yang digunakan di rumah.
+
+Penelitian linguistik membutuhkan pertanyaan yang jelas dan data yang sesuai. Peneliti dapat menggunakan korpus tertulis, rekaman percakapan dengan persetujuan, kuesioner, atau tugas eksperimental. Setiap metode memiliki bias. Korpus digital mungkin lebih banyak memuat tulisan kelompok tertentu; wawancara dapat dipengaruhi hubungan peneliti dan peserta; dan contoh buatan belum tentu mencerminkan penggunaan sehari-hari. Dokumentasi metode dan batas sampel menjadi bagian penting laporan.
+
+Transkripsi merupakan representasi data lisan dan selalu melibatkan pilihan tingkat detail. Transkripsi sederhana mungkin cukup untuk analisis kosakata, sedangkan kajian fonetik memerlukan penandaan bunyi yang lebih rinci. Peneliti perlu menetapkan konvensi, menjaga konsistensi, dan menyimpan data secara aman. Rekaman suara dapat mengidentifikasi seseorang, sehingga akses, penyimpanan, dan penghapusan harus mengikuti persetujuan serta aturan yang berlaku.
+
+Studi kasus: peneliti ingin mengetahui penggunaan istilah baru di komunitas daring. Mereka menetapkan periode dan ruang lingkup sumber publik, menghapus informasi identitas yang tidak diperlukan, lalu mengelompokkan konteks penggunaan. Mereka membedakan istilah yang sering muncul dari istilah yang hanya populer dalam satu kelompok kecil. Kesimpulan dibatasi pada korpus yang diamati dan tidak diklaim mewakili seluruh penutur bahasa Indonesia.
+
+Latihan penerapan:
+1. Bedakan makna semantik dan maksud pragmatik melalui contoh buatan sendiri.
+2. Temukan penanda kohesi dalam satu paragraf dan jelaskan fungsinya.
+3. Berikan contoh variasi bahasa yang berbeda menurut situasi.
+4. Rancang pertanyaan penelitian linguistik dengan batas korpus yang jelas.
+5. Jelaskan pertimbangan etis saat menggunakan rekaman atau teks digital.

@@ -328,3 +328,34 @@ Korpus adalah kumpulan data bahasa yang disusun untuk tujuan penelitian. Kualita
 
 Dokumentasi bahasa yang melibatkan penutur memerlukan persetujuan yang jelas, perlindungan identitas, dan kesepakatan mengenai penyimpanan serta akses rekaman. Komunitas perlu dilibatkan dalam penentuan tujuan dan pemanfaatan hasil. Peneliti sebaiknya mengembalikan hasil dalam bentuk yang berguna bagi komunitas, bukan hanya mengambil data untuk kepentingan akademik.
 
+
+BAB PENDALAMAN: FONOLOGI DAN SISTEM BUNYI
+
+Fonologi mempelajari bagaimana bunyi bahasa berfungsi sebagai sistem pembeda makna. Fonetik mengkaji sifat fisik bunyi, sedangkan fonologi menelaah pola dan hubungan bunyi dalam suatu bahasa. Dua bunyi dapat terdengar berbeda secara fisik tetapi tidak membedakan makna dalam bahasa tertentu. Sebaliknya, perubahan kecil pada satu bunyi dapat membedakan dua kata.
+
+Fonem merupakan satuan bunyi abstrak yang membedakan makna. Variasi pengucapan yang tidak mengubah makna dapat dipahami sebagai alofon dalam lingkungan tertentu. Analisis distribusi bunyi membantu menentukan apakah dua bunyi berfungsi sebagai fonem berbeda atau variasi dari satu kategori. Peneliti perlu menggunakan data dari banyak kata dan konteks, bukan satu contoh terpisah.
+
+Pola suku kata menjelaskan bagaimana bunyi disusun menjadi unit pengucapan. Bahasa memiliki batasan berbeda mengenai kombinasi konsonan dan vokal. Tekanan, intonasi, dan jeda juga berperan dalam pengorganisasian ujaran. Dalam percakapan, intonasi dapat menandai pertanyaan, penekanan, sikap, atau struktur informasi, tetapi maknanya tetap bergantung pada konteks.
+
+BAB PENDALAMAN: MORFOLOGI DAN PEMBENTUKAN KATA
+
+Morfologi mempelajari struktur internal kata dan proses pembentukannya. Morfem adalah satuan terkecil yang membawa makna atau fungsi gramatikal. Kata dapat dibentuk melalui afiksasi, pengulangan, pemajemukan, pemendekan, dan peminjaman. Setiap bahasa memiliki pola pembentukan yang berbeda dan tidak semua proses dapat diterapkan secara bebas.
+
+Analisis morfologi membantu menjelaskan hubungan antara bentuk dan makna. Perubahan imbuhan dapat mengubah kelas kata, peran semantis, atau hubungan gramatikal. Dalam bahasa Indonesia, misalnya, proses afiksasi dapat membentuk kata kerja, kata benda, dan kata sifat dengan fungsi yang berbeda. Namun, makna kata turunan tidak selalu dapat ditebak hanya dengan menjumlahkan arti setiap bagian; penggunaan dan sejarah kata juga berpengaruh.
+
+BAB PENDALAMAN: SEMANTIK DAN PRAGMATIK
+
+Semantik mempelajari makna yang dikodekan dalam bahasa, termasuk hubungan makna antarkata, makna kalimat, dan ambiguitas. Sinonim jarang memiliki makna yang sepenuhnya sama dalam semua konteks. Perbedaan nuansa, tingkat formalitas, kolokasi, dan sejarah penggunaan dapat membatasi pertukaran kata. Antonim juga memiliki jenis hubungan yang berbeda, seperti pertentangan bertingkat dan pasangan yang saling meniadakan.
+
+Pragmatik mempelajari bagaimana konteks memengaruhi penafsiran. Kalimat yang sama dapat memiliki maksud berbeda bergantung pada hubungan penutur, situasi, pengetahuan bersama, dan tujuan percakapan. Permintaan dapat disampaikan sebagai pertanyaan, sedangkan pernyataan literal dapat berfungsi sebagai sindiran. Analisis pragmatik tidak menebak niat secara bebas; ia menggunakan petunjuk konteks dan mempertimbangkan beberapa kemungkinan tafsir.
+
+BAB PENDALAMAN: SOSIOLINGUISTIK DAN VARIASI
+
+Sosiolinguistik mengkaji hubungan bahasa dengan masyarakat. Variasi dapat berkaitan dengan wilayah, kelompok sosial, situasi, media, dan identitas. Ragam formal dan informal memiliki fungsi yang berbeda. Pergantian ragam atau bahasa dalam percakapan dapat menjadi strategi komunikasi, bukan tanda kurangnya kemampuan.
+
+Penelitian variasi bahasa harus menghindari penilaian bahwa satu ragam lebih cerdas atau lebih bermutu daripada yang lain. Ragam baku penting untuk komunikasi lintas wilayah dan administrasi, tetapi ragam lokal menyimpan pengetahuan, sejarah, dan identitas komunitas. Pendidikan bahasa dapat mengajarkan ragam baku tanpa merendahkan bahasa rumah peserta didik.
+
+PROYEK MINI: ANALISIS KORPUS KECIL
+
+Kumpulkan sejumlah kalimat dari sumber publik yang tidak memuat data pribadi, lalu kelompokkan berdasarkan bentuk kata, struktur kalimat, atau pilihan istilah. Catat asal dan konteks data. Buat pertanyaan yang jelas, jelaskan metode pengelompokan, dan tunjukkan contoh yang tidak sesuai pola utama. Sampel kecil hanya mendukung kesimpulan terbatas; jangan menggeneralisasi seluruh penutur dari beberapa kalimat.
+

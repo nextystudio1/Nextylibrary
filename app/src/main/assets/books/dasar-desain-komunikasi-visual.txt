@@ -357,3 +357,46 @@ PERTANYAAN
 3. Apa manfaat sistem komponen untuk tim desain?
 4. Bagaimana grafik dapat menyesatkan meskipun datanya benar?
 5. Apa saja yang perlu dimuat dalam panduan identitas visual?
+
+BAB PENDALAMAN: DESAIN INFORMASI UNTUK PEMAHAMAN
+
+Desain informasi bertujuan membantu pembaca menemukan, memahami, dan menggunakan informasi. Keindahan visual dapat menarik perhatian, tetapi keberhasilan komunikasi diukur dari ketepatan pemahaman. Sebelum memilih bentuk, desainer perlu menentukan pertanyaan yang harus dapat dijawab pembaca. Apakah pembaca perlu membandingkan nilai, mengikuti urutan, mengenali hubungan, atau menemukan satu instruksi penting? Setiap tugas membutuhkan struktur visual yang berbeda.
+
+Hierarki dapat dibangun melalui ukuran, posisi, kontras, ruang kosong, dan pengelompokan. Terlalu banyak elemen yang diberi penekanan akan membuat semuanya tampak sama penting. Gunakan satu titik masuk yang jelas, lalu susun informasi pendukung dalam urutan yang dapat diprediksi. Konsistensi istilah, ikon, dan pola navigasi mengurangi beban pembaca karena mereka tidak harus mempelajari ulang sistem pada setiap halaman.
+
+Infografik bukan tempat untuk menumpuk semua fakta. Pilih data yang menjawab pertanyaan utama, tampilkan konteks, dan sediakan catatan tentang sumber serta metode. Jika data terlalu kompleks, laporan atau tabel rinci mungkin lebih tepat. Desainer harus berani menyederhanakan bentuk tanpa menyederhanakan makna atau menghilangkan pengecualian penting.
+
+BAB PENDALAMAN: TIPOGRAFI DAN KETERBACAAN
+
+Tipografi merupakan sistem pengaturan bahasa tertulis. Pemilihan huruf perlu mempertimbangkan bentuk karakter, panjang baris, ukuran tampilan, jarak antarbaris, dan kondisi pembacaan. Huruf yang menarik pada poster besar belum tentu nyaman untuk paragraf panjang di layar ponsel. Uji rancangan pada perangkat dan ukuran nyata, bukan hanya pada kanvas desain yang diperbesar.
+
+Panjang baris memengaruhi kemampuan mata kembali ke awal baris berikutnya. Kolom yang terlalu lebar membuat pembaca mudah kehilangan posisi, sedangkan kolom yang terlalu sempit memecah frasa secara berlebihan. Jarak antarparagraf dan penggunaan subjudul membantu pembaca memindai struktur. Penekanan seperti huruf tebal sebaiknya digunakan secara selektif agar tetap bermakna.
+
+Keterbacaan juga berkaitan dengan bahasa. Kalimat yang terlalu panjang, istilah yang tidak dijelaskan, dan singkatan tanpa konteks dapat menghalangi pemahaman meskipun tata letaknya rapi. Desainer dan penulis perlu bekerja bersama untuk menyunting isi. Bila istilah teknis harus dipertahankan, berikan definisi atau contoh yang sesuai dengan tingkat pengetahuan audiens.
+
+BAB PENDALAMAN: AKSESIBILITAS DAN INKLUSI
+
+Informasi tidak boleh bergantung pada satu petunjuk visual saja. Jika kategori dibedakan hanya dengan warna, pembaca yang mengalami keterbatasan persepsi warna mungkin kesulitan. Tambahkan label, pola, bentuk, atau keterangan teks. Kontras teks dan latar perlu memadai, tetapi kontras tinggi tidak berarti semua elemen harus dibuat mencolok. Tujuannya adalah membedakan informasi dengan nyaman.
+
+Teks alternatif untuk gambar menjelaskan fungsi atau informasi penting yang dibawa gambar, bukan sekadar menyebut bahwa sebuah gambar ada. Diagram yang rumit mungkin memerlukan ringkasan dan penjelasan tekstual yang lebih lengkap. Urutan baca pada dokumen digital juga perlu diperiksa agar pembaca yang menggunakan teknologi bantu memperoleh alur yang masuk akal.
+
+Inklusi berarti mempertimbangkan variasi usia, bahasa, pengalaman, kemampuan, dan situasi penggunaan. Materi yang dibaca di luar ruang menghadapi kondisi cahaya berbeda dari materi yang dibaca di ruang tenang. Instruksi untuk pembaca baru memerlukan konteks lebih banyak daripada panduan bagi ahli. Uji dengan pengguna yang beragam membantu menemukan asumsi tersembunyi dalam rancangan.
+
+BAB PENDALAMAN: ETIKA GAMBAR DAN REPRESENTASI
+
+Foto, ilustrasi, dan ikon dapat membentuk persepsi tentang kelompok masyarakat. Pilihan gambar yang selalu menampilkan satu kelompok dalam peran tertentu dapat memperkuat stereotip. Periksa siapa yang digambarkan, aktivitas apa yang ditampilkan, dan apakah konteksnya akurat. Representasi yang adil bukan sekadar menambah variasi wajah, melainkan memberi ruang bagi keragaman pengalaman dan peran.
+
+Pastikan hak penggunaan aset visual jelas. Catat pencipta, sumber, lisensi, batas penggunaan, dan perubahan yang dilakukan. Jangan menghapus atribusi yang diwajibkan atau menganggap gambar yang ditemukan melalui pencarian bebas digunakan. Jika membuat ilustrasi sendiri, simpan berkas sumber dan catatan proses agar revisi dapat dilakukan tanpa kehilangan kualitas.
+
+Manipulasi gambar untuk tujuan pendidikan perlu diberi penjelasan apabila perubahan dapat mengubah interpretasi. Grafik yang dipotong, skala yang tidak dimulai dari nol, atau foto yang kehilangan konteks dapat membuat pembaca menarik kesimpulan keliru. Keputusan visual adalah bagian dari tanggung jawab editorial.
+
+LATIHAN DAN PROYEK
+
+1. Pilih satu infografik dan tuliskan pertanyaan utama yang seharusnya dapat dijawab pembaca.
+2. Jelaskan mengapa warna saja tidak cukup untuk membedakan kategori.
+3. Bandingkan keterbacaan satu paragraf pada layar kecil dan halaman lebar.
+4. Buat teks alternatif untuk diagram sederhana dengan menyampaikan informasi intinya.
+5. Susun daftar pemeriksaan hak penggunaan aset visual.
+6. Temukan satu contoh visualisasi yang berpotensi menyesatkan dan jelaskan perbaikannya.
+
+Proyek: rancang lembar informasi satu halaman tentang topik pendidikan. Mulailah dengan kebutuhan audiens dan tiga pesan utama. Buat struktur, pilih tipografi, susun satu visualisasi data yang memiliki sumber, dan siapkan versi yang tetap dapat dipahami tanpa mengandalkan warna. Uji kepada beberapa pembaca, catat bagian yang salah dipahami, lalu revisi. Sertakan catatan lisensi seluruh aset.

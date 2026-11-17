@@ -301,3 +301,49 @@ Pilih benda sehari-hari yang aman untuk dianalisis. Rumuskan masalah pengguna, s
 PERTANYAAN
 
 Mengapa masalah harus dirumuskan sebelum solusi? Bagaimana kebutuhan berbeda dari spesifikasi? Apa yang dapat dan tidak dapat dibuktikan prototipe? Mengapa pengujian harus menghindari pertanyaan yang menggiring? Bagaimana data pengguna dilindungi?
+
+BAB PENDALAMAN: RISET PENGGUNA DAN PERUMUSAN MASALAH
+
+Riset desain bertujuan memahami kegiatan, hambatan, dan harapan pengguna dalam konteks nyata. Riset bukan kegiatan mencari pembenaran bagi ide yang sudah dipilih. Tim perlu bersedia menemukan bahwa asumsi awal keliru atau bahwa masalah yang dianggap penting ternyata bukan prioritas pengguna. Pertanyaan riset sebaiknya spesifik, misalnya bagaimana orang menyimpan dokumen penting di rumah, bukan sekadar apakah mereka menyukai produk baru.
+
+Metode dapat berupa pengamatan terhadap aktivitas yang diizinkan, wawancara sukarela, kuesioner, analisis keluhan yang telah dianonimkan, dan peninjauan produk sejenis. Setiap metode memiliki keterbatasan. Wawancara menjelaskan pengalaman tetapi tidak selalu menggambarkan perilaku aktual. Pengamatan menunjukkan aktivitas tetapi belum tentu menjelaskan alasan. Kuesioner dapat menjangkau banyak responden, tetapi kualitas hasil bergantung pada cara pertanyaan disusun dan siapa yang menjawab.
+
+PENYUSUNAN KEBUTUHAN DAN SPESIFIKASI
+
+Kebutuhan pengguna menjelaskan hasil yang ingin dicapai, sedangkan spesifikasi menerjemahkan kebutuhan menjadi karakteristik yang dapat diperiksa. Contohnya, kebutuhan “mudah dibawa” perlu diterjemahkan menjadi batas massa, dimensi, cara pegangan, dan kondisi penggunaan. Angka spesifikasi harus didasarkan pada konteks, bukan dipilih hanya karena mudah dicapai oleh tim.
+
+Kebutuhan dapat saling bertentangan. Produk yang sangat ringan mungkin kurang stabil; produk yang sangat kuat mungkin lebih mahal atau berat. Tim membuat prioritas dengan melibatkan pengguna dan pihak terkait, kemudian menjelaskan kompromi yang dipilih. Matriks kebutuhan membantu menunjukkan hubungan antara kebutuhan, ukuran keberhasilan, dan metode pengujian.
+
+ARSITEKTUR PRODUK DAN ANTARMUKA
+
+Arsitektur produk menggambarkan bagaimana fungsi dibagi ke dalam komponen dan bagaimana komponen berinteraksi. Arsitektur modular dapat memudahkan perbaikan atau penggantian bagian, tetapi menambah sambungan dan kebutuhan ruang. Arsitektur terintegrasi dapat menghemat ruang, tetapi perbaikan mungkin lebih sulit. Pilihan harus mengikuti tujuan produk, kemampuan produksi, biaya, dan masa pakai.
+
+Antarmuka mencakup bagian yang disentuh, dilihat, didengar, atau dipahami pengguna. Tombol, pegangan, label, indikator, dan urutan penggunaan membentuk pengalaman. Konsistensi membantu pengguna memprediksi respons, sedangkan umpan balik memberi tahu apakah tindakan berhasil. Label perlu jelas dan tidak mengandalkan warna saja, agar informasi tetap dapat dipahami oleh pengguna dengan kebutuhan visual berbeda.
+
+MATERIAL, PROSES, DAN AKHIR MASA PAKAI
+
+Pemilihan material mempertimbangkan kekuatan, massa, ketahanan, biaya, ketersediaan, kemudahan proses, dan dampak lingkungan. Tidak ada material yang terbaik untuk semua keadaan. Bahan daur ulang dapat mengurangi kebutuhan bahan baru, tetapi kualitas, kontaminasi, dan infrastruktur pengumpulan perlu diperhitungkan. Klaim ramah lingkungan harus menjelaskan batas analisisnya.
+
+Desain untuk perbaikan memperhatikan akses komponen, ketersediaan suku cadang, dokumentasi, dan penggunaan pengikat yang sesuai. Desain untuk pembongkaran memudahkan pemisahan material ketika produk mencapai akhir masa pakai. Umur pakai yang lebih panjang dapat mengurangi frekuensi penggantian, tetapi hanya jika produk benar-benar dapat dirawat dan diperbaiki.
+
+PENGUJIAN DAN ITERASI
+
+Pengujian harus memiliki tujuan dan kriteria yang ditetapkan sebelum hasil dilihat. Uji kegunaan menilai apakah pengguna dapat menyelesaikan tugas, berapa banyak kesalahan yang muncul, dan bagian mana yang membingungkan. Uji ketahanan menilai performa dalam kondisi yang telah ditentukan. Prototipe awal cocok untuk memeriksa bentuk dan alur, tetapi belum tentu mewakili kekuatan, keamanan, atau masa pakai produk akhir.
+
+Masukan pengguna perlu dicatat tanpa menggiring. Hindari hanya bertanya apakah rancangan disukai. Tanyakan bagian yang membingungkan, tugas yang sulit, dan perubahan yang akan membantu. Tim perlu membedakan preferensi pribadi dari masalah yang menghalangi penyelesaian tugas. Setelah revisi, uji kembali untuk melihat apakah perubahan benar-benar memperbaiki pengalaman.
+
+STUDI KASUS: WADAH PERLENGKAPAN BELAJAR
+
+Tim merancang wadah untuk menyimpan alat tulis dan dokumen. Pada awalnya tim menganggap jumlah kompartemen sebagai fitur utama. Riset sederhana menunjukkan bahwa pengguna lebih sering kesulitan menemukan barang kecil dan membawa wadah di dalam tas yang berbeda ukuran. Tim kemudian mengubah prioritas menjadi identifikasi isi yang mudah, bentuk yang dapat disesuaikan, dan penutup yang tidak mudah terbuka secara tidak sengaja.
+
+Dua prototipe dibandingkan menggunakan tugas yang sama. Pengamat mencatat waktu pencarian, kesalahan, dan komentar sukarela. Hasil menunjukkan bahwa kompartemen transparan membantu sebagian pengguna tetapi tidak semua. Tim menambahkan label yang dapat dibaca dan tata letak yang lebih konsisten. Kasus ini menunjukkan bahwa desain yang baik lahir dari siklus pertanyaan, bukti, keputusan, dan pengujian.
+
+LATIHAN DAN PROYEK
+
+1. Bedakan kebutuhan pengguna dengan spesifikasi teknis.
+2. Mengapa wawancara dan pengamatan dapat menghasilkan informasi berbeda?
+3. Apa kompromi antara arsitektur modular dan terintegrasi?
+4. Mengapa prototipe tidak selalu membuktikan keamanan produk akhir?
+5. Susun matriks tiga kebutuhan, ukuran keberhasilan, dan metode pengujiannya.
+
+Proyek: pilih benda sehari-hari yang aman. Buat ringkasan konteks penggunaan, tiga kebutuhan utama, dua konsep, kriteria pemilihan, serta rencana pengujian. Jelaskan bagaimana privasi peserta dijaga dan bagaimana temuan dapat mengubah rancangan.

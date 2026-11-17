@@ -228,3 +228,49 @@ LATIHAN PENDALAMAN
 3. Mengapa sistem sanitasi harus dinilai dari hulu sampai pengolahan akhir?
 4. Bedakan bahaya, paparan, dan kerentanan.
 5. Apa risiko menarik kesimpulan individu dari data agregat wilayah?
+
+PENDALAMAN EKOLOGI MANUSIA: SISTEM PANGAN, RUANG, DAN KETAHANAN
+
+BAB 19. SISTEM PANGAN DAN LANSKAP MANUSIA
+
+Sistem pangan menghubungkan produksi, pengolahan, penyimpanan, distribusi, perdagangan, konsumsi, dan pengelolaan sisa. Setiap tahap menggunakan lahan, air, energi, tenaga kerja, dan infrastruktur. Gangguan pada satu bagian dapat memengaruhi bagian lain. Kekeringan dapat menurunkan hasil panen, tetapi dampaknya terhadap konsumen juga dipengaruhi persediaan, transportasi, harga, dan kebijakan perdagangan.
+
+Ketahanan pangan tidak hanya berarti ketersediaan bahan makanan. Akses ekonomi dan fisik, pemanfaatan yang mendukung kesehatan, serta kestabilan dari waktu ke waktu juga penting. Wilayah dengan produksi tinggi masih dapat memiliki rumah tangga yang kesulitan memperoleh pangan jika pendapatan rendah atau distribusi tidak merata. Karena itu, data produksi perlu dibaca bersama harga, akses pasar, kualitas gizi, dan pengalaman rumah tangga.
+
+Kehilangan dan pemborosan pangan terjadi pada tahap berbeda. Kerusakan saat panen atau penyimpanan berbeda dari makanan yang dibuang setelah dibeli. Solusi harus sesuai penyebab: fasilitas penyimpanan, rantai dingin, informasi tanggal, perencanaan pembelian, atau pengolahan sisa. Mengalihkan sisa pangan yang masih aman dapat membantu, tetapi keselamatan pangan harus menjadi prioritas.
+
+BAB 20. RUANG, KETIMPANGAN, DAN AKSES LAYANAN
+
+Akses terhadap sekolah, layanan kesehatan, ruang hijau, pasar, dan transportasi dipengaruhi jarak sekaligus waktu, biaya, keamanan, dan kondisi fisik rute. Dua rumah tangga yang tinggal pada jarak sama dari klinik dapat memiliki akses berbeda jika salah satunya tidak memiliki transportasi atau menghadapi hambatan mobilitas. Ukuran jarak lurus pada peta tidak cukup menggambarkan akses nyata.
+
+Analisis aksesibilitas dapat menggunakan waktu tempuh jaringan jalan, frekuensi angkutan, biaya perjalanan, dan jam layanan. Hasil perlu dipilah menurut wilayah dan kelompok pengguna. Peta rata-rata kota dapat menyembunyikan lingkungan yang tertinggal. Data lokasi juga perlu dijaga agar tidak mengungkap tempat tinggal atau rutinitas individu.
+
+Ketimpangan ruang terbentuk melalui sejarah investasi, harga tanah, kebijakan perumahan, dan lokasi pekerjaan. Perencanaan yang hanya menambah fasilitas di pusat kota dapat memperlebar jarak layanan. Pilihan kebijakan dapat berupa penyebaran fasilitas, peningkatan konektivitas, layanan bergerak, atau dukungan transportasi. Evaluasi perlu memeriksa apakah kelompok yang sebelumnya sulit mengakses layanan benar-benar memperoleh perbaikan.
+
+BAB 21. KEANEKARAGAMAN HAYATI DI LINGKUNGAN MANUSIA
+
+Keanekaragaman hayati mencakup variasi genetik, spesies, dan ekosistem. Dalam lanskap yang dihuni manusia, kebun, sawah, sungai, pesisir, taman, dan koridor vegetasi dapat mendukung organisme dengan fungsi berbeda. Keberadaan beberapa spesies saja tidak cukup untuk menyimpulkan bahwa ekosistem berada dalam kondisi baik. Komposisi, kelimpahan, interaksi, dan perubahan dari waktu ke waktu juga perlu diperhatikan.
+
+Spesies asli umumnya memiliki hubungan ekologis yang terbentuk dalam jangka panjang dengan lingkungan setempat. Namun penilaian pengelolaan harus berdasarkan identifikasi yang benar, bukan anggapan bahwa semua spesies asing selalu berbahaya. Spesies invasif adalah spesies yang menyebar dan menimbulkan dampak merugikan; penetapannya memerlukan bukti tentang penyebaran dan akibat ekologis.
+
+Pemantauan dapat memakai transek, petak contoh, kamera pengamatan, atau catatan warga. Metode harus konsisten agar hasil dapat dibandingkan. Pengamat perlu mencatat waktu, cuaca, lokasi, dan kemungkinan bias deteksi. Tidak ditemukannya organisme pada satu kunjungan bukan bukti bahwa organisme tersebut tidak ada.
+
+BAB 22. KETAHANAN SOSIAL-EKOLOGIS
+
+Sistem sosial-ekologis merupakan jaringan hubungan antara masyarakat, lembaga, ekonomi, dan proses alam. Ketahanan bukan berarti sistem tidak pernah berubah, melainkan kemampuan menyerap gangguan, belajar, menyesuaikan diri, dan bila perlu bertransformasi. Komunitas yang bergantung pada satu sumber pendapatan dapat lebih rentan terhadap gangguan dibanding komunitas yang memiliki pilihan mata pencaharian, meskipun keragaman ekonomi saja tidak menjamin ketahanan.
+
+Indikator ketahanan dapat mencakup keandalan layanan dasar, keberagaman sumber penghidupan, jaringan dukungan, akses informasi, kualitas ekosistem, dan kemampuan lembaga merespons. Indikator harus disesuaikan dengan konteks lokal. Jangan mengukur ketahanan hanya dari jumlah fasilitas atau banyaknya kegiatan pelatihan.
+
+Rencana ketahanan sebaiknya menggabungkan pengetahuan warga dan bukti ilmiah. Pengetahuan lokal dapat menunjukkan perubahan musim atau lokasi genangan yang tidak tertangkap oleh data singkat. Namun setiap sumber pengetahuan perlu ditempatkan sesuai cakupan dan metode. Perbedaan temuan harus menjadi alasan untuk menyelidiki lebih lanjut, bukan untuk merendahkan salah satu pihak.
+
+PROYEK LAPANGAN: PETA AKSES DAN PAPARAN
+
+Pilih area publik yang aman dan tidak memerlukan pengumpulan identitas pribadi. Petakan satu layanan dasar, rute menuju layanan, hambatan fisik, ruang hijau, serta satu paparan lingkungan yang dapat diamati. Catat waktu pengamatan dan kondisi cuaca. Bandingkan pengalaman akses pada dua rute atau waktu yang berbeda. Rekomendasi harus menyebut kelompok yang mungkin memperoleh manfaat, kemungkinan dampak samping, dan data tambahan yang dibutuhkan.
+
+LATIHAN PENDALAMAN
+
+1. Mengapa ketahanan pangan perlu dinilai dari akses dan kestabilan, bukan produksi saja?
+2. Jelaskan perbedaan jarak geografis dan waktu akses.
+3. Mengapa data keanekaragaman hayati membutuhkan metode pengamatan yang konsisten?
+4. Berikan contoh hubungan antara keragaman mata pencaharian dan ketahanan komunitas.
+5. Susun dua indikator yang dapat menunjukkan apakah akses layanan membaik bagi kelompok yang sebelumnya tertinggal.

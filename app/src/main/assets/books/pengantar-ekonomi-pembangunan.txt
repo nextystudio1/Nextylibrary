@@ -207,3 +207,53 @@ LATIHAN PENDALAMAN
 3. Mengapa pertumbuhan pekerjaan perlu dinilai bersama kualitas kerja?
 4. Bagaimana konektivitas dapat memberi manfaat sekaligus memperlebar kesenjangan?
 5. Sebutkan indikator pembangunan daerah selain investasi.
+BAB 18. EKONOMI KELEMBAGAAN DAN KUALITAS TATA KELOLA
+
+Institusi adalah aturan formal dan informal yang membentuk perilaku masyarakat serta organisasi. Aturan formal meliputi hukum, regulasi, dan prosedur, sedangkan aturan informal mencakup norma, kebiasaan, dan kepercayaan. Institusi yang dapat diprediksi membantu masyarakat membuat keputusan jangka panjang karena hak, kewajiban, dan proses penyelesaian sengketa lebih jelas.
+
+Kualitas tata kelola dapat dilihat melalui transparansi, akuntabilitas, partisipasi, kepastian hukum, dan kemampuan lembaga memberikan layanan. Indikator tersebut tidak selalu mudah diukur. Jumlah aturan yang diterbitkan, misalnya, tidak membuktikan bahwa aturan diterapkan secara adil. Evaluasi perlu melihat pengalaman pengguna layanan, konsistensi pelaksanaan, akses terhadap informasi, dan mekanisme pengaduan.
+
+Biaya transaksi muncul ketika pihak harus mencari informasi, bernegosiasi, memantau kesepakatan, atau menyelesaikan perselisihan. Prosedur yang rumit dapat meningkatkan biaya bagi rumah tangga dan usaha kecil. Penyederhanaan administrasi dapat membantu, tetapi perlu disertai pengawasan agar kemudahan tidak membuka peluang penyalahgunaan. Digitalisasi layanan juga harus memperhatikan warga yang memiliki keterbatasan akses internet atau kemampuan digital.
+
+Reformasi kelembagaan sering menghadapi kepentingan yang berbeda. Perubahan aturan dapat memberi manfaat jangka panjang, tetapi menimbulkan biaya penyesuaian bagi kelompok tertentu. Analisis kebijakan perlu mengidentifikasi pihak yang memperoleh manfaat, pihak yang menanggung biaya, serta mekanisme transisi yang adil. Konsultasi publik dan evaluasi independen dapat memperbaiki kualitas keputusan.
+
+LATIHAN BAB 18
+1. Bedakan institusi formal dan informal.
+2. Mengapa banyaknya regulasi tidak otomatis menunjukkan tata kelola yang baik?
+3. Berikan contoh biaya transaksi dalam layanan publik.
+4. Apa tantangan digitalisasi bagi kelompok dengan akses terbatas?
+5. Mengapa reformasi memerlukan analisis pihak yang terdampak?
+
+BAB 19. EKONOMI LINGKUNGAN DAN SUMBER DAYA ALAM
+
+Kegiatan ekonomi menggunakan energi, air, lahan, dan bahan baku serta menghasilkan limbah dan emisi. Dampak lingkungan sering tidak seluruhnya tercermin dalam harga pasar. Ketika biaya pencemaran ditanggung masyarakat, bukan oleh pihak yang menghasilkan pencemaran, muncul eksternalitas negatif. Kebijakan publik dapat menggunakan standar, insentif, informasi, atau instrumen ekonomi untuk mengurangi dampak tersebut.
+
+Sumber daya terbarukan dapat pulih melalui proses alam, tetapi pemanfaatan yang melebihi laju pemulihan tetap dapat mengurangi ketersediaannya. Sumber daya tidak terbarukan terbentuk dalam rentang waktu geologis sehingga stoknya terbatas dalam skala manusia. Pengelolaan memerlukan data tentang stok, laju penggunaan, dampak ekologis, dan pilihan pengganti. Label “terbarukan” tidak berarti pemanfaatannya tanpa batas.
+
+Analisis biaya-manfaat lingkungan perlu mengakui bahwa beberapa nilai sulit dinyatakan dalam uang, seperti keanekaragaman hayati, identitas budaya, dan fungsi ekosistem. Ketika nilai tersebut tidak mudah dihitung, pembuat kebijakan dapat menggunakan penilaian multikriteria dan konsultasi masyarakat. Asumsi dan ketidakpastian harus dinyatakan agar hasil tidak memberi kesan kepastian palsu.
+
+Transisi menuju ekonomi rendah emisi dapat mengubah struktur pekerjaan, harga energi, dan kebutuhan keterampilan. Kebijakan transisi yang adil memperhatikan pekerja, rumah tangga berpendapatan rendah, wilayah yang bergantung pada industri tertentu, dan akses terhadap layanan energi. Pelatihan ulang, perlindungan sosial, serta investasi alternatif dapat membantu mengurangi beban penyesuaian.
+
+LATIHAN BAB 19
+1. Apa yang dimaksud eksternalitas negatif?
+2. Mengapa sumber daya terbarukan tetap dapat mengalami penurunan?
+3. Sebutkan nilai lingkungan yang sulit dinyatakan dalam uang.
+4. Apa yang dimaksud transisi yang adil?
+5. Buat contoh kebijakan untuk mengurangi pencemaran dengan mempertimbangkan kelompok terdampak.
+
+BAB 20. EKONOMI DIGITAL DAN INKLUSI PEMBANGUNAN
+
+Teknologi digital dapat menurunkan biaya komunikasi, memperluas akses pasar, dan membantu penyediaan layanan. Namun, manfaatnya tidak otomatis merata. Koneksi internet, perangkat, keterampilan, bahasa, keamanan, dan kepercayaan memengaruhi kemampuan masyarakat memanfaatkan teknologi. Kesenjangan digital dapat terjadi antara wilayah, kelompok pendapatan, usia, dan tingkat pendidikan.
+
+Platform digital dapat mempertemukan penjual dan pembeli, pekerja dan pemberi kerja, atau warga dan layanan publik. Model ini dapat membuka peluang usaha, tetapi juga menimbulkan ketergantungan pada aturan platform, biaya layanan, sistem peringkat, dan akses data. Analisis pembangunan perlu menilai kualitas pekerjaan, kepastian pendapatan, perlindungan konsumen, serta kemampuan usaha kecil bernegosiasi.
+
+Digitalisasi layanan publik sebaiknya dirancang dengan prinsip akses universal. Kanal daring dapat mempercepat proses, tetapi layanan bantuan atau alternatif luring tetap penting bagi warga yang menghadapi hambatan. Pengumpulan data perlu dibatasi dan dilindungi. Sistem otomatis harus dapat dijelaskan, dikoreksi, dan diawasi agar kesalahan tidak merugikan pengguna tanpa jalan pemulihan.
+
+Indikator inklusi digital tidak cukup menghitung jumlah koneksi. Ukur juga keterjangkauan biaya, kualitas jaringan, kemampuan menggunakan layanan, aksesibilitas, keamanan, dan manfaat yang diperoleh. Kebijakan yang baik menggabungkan infrastruktur, pendidikan, perlindungan data, persaingan sehat, dan dukungan bagi kelompok yang tertinggal.
+
+LATIHAN BAB 20
+1. Mengapa akses internet saja belum menjamin inklusi digital?
+2. Sebutkan dua peluang dan dua risiko ekonomi platform.
+3. Mengapa layanan publik digital tetap memerlukan alternatif bantuan?
+4. Apa saja indikator inklusi digital selain jumlah koneksi?
+5. Rancang program sederhana untuk meningkatkan kemampuan digital komunitas lokal.

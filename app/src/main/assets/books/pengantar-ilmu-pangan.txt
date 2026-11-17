@@ -345,3 +345,27 @@ LATIHAN DAN PROYEK
 5. Mengapa analisis daur hidup memerlukan batas sistem?
 
 Proyek: bandingkan dua label pangan yang tersedia secara legal. Buat tabel bahan, ukuran sajian, informasi gizi, alergen, kemasan, dan petunjuk penyimpanan. Jangan membuat klaim medis; jelaskan apa yang dapat dan tidak dapat disimpulkan dari label.
+
+PENDALAMAN: DESAIN PROSES DAN JAMINAN MUTU PANGAN
+
+Peta proses produksi membantu tim melihat perjalanan bahan dari penerimaan sampai distribusi. Peta yang baik menunjukkan masukan, keluaran, perpindahan, penyimpanan sementara, pemeriksaan, dan titik keputusan. Dengan peta tersebut, tim dapat menilai apakah bahan mentah dan produk siap konsumsi memiliki jalur yang terpisah, apakah identitas lot tetap terjaga, serta apakah catatan pemeriksaan dibuat pada saat yang tepat. Peta proses bukan hiasan laporan; ia harus mencerminkan praktik nyata dan diperbarui ketika proses berubah.
+
+Spesifikasi bahan baku perlu menggunakan ciri yang dapat diperiksa. Istilah “segar” atau “berkualitas tinggi” perlu diterjemahkan menjadi parameter yang relevan bagi bahan tersebut, misalnya kondisi fisik, ukuran, tingkat kematangan, dokumen asal, atau persyaratan penyimpanan. Parameter yang dipilih harus mempunyai metode penilaian yang konsisten. Jika dua petugas menafsirkan spesifikasi secara berbeda, keputusan penerimaan dapat berubah-ubah dan menimbulkan ketidakpastian pada proses berikutnya.
+
+Pengendalian mutu mencakup pemeriksaan bahan, pemantauan proses, dan evaluasi produk akhir. Ketiganya tidak saling menggantikan. Pemeriksaan produk akhir saja tidak dapat memastikan bahwa seluruh proses terkendali, sementara pemantauan proses tanpa pemeriksaan hasil dapat melewatkan penyimpangan. Rencana pengendalian sebaiknya menjelaskan apa yang diukur, kapan pengukuran dilakukan, siapa yang bertanggung jawab, bagaimana alat dipastikan layak, serta tindakan yang diambil jika hasil berada di luar batas yang ditetapkan.
+
+Rantai dingin merupakan sistem yang mencakup penerimaan, penyimpanan, pemuatan, pengangkutan, dan penyerahan. Kualitasnya dipengaruhi oleh kapasitas ruang, pola membuka pintu, penataan produk, kondisi kendaraan, serta lamanya perpindahan. Catatan suhu harus menyertakan waktu dan lokasi pengukuran. Satu angka dari satu titik tidak selalu mewakili seluruh ruang. Pemetaan suhu dan pemilihan posisi sensor yang tepat membantu menemukan variasi yang tidak terlihat dari pemeriksaan sesaat.
+
+Ketertelusuran menghubungkan pemasok, bahan, proses, kode lot, dan tujuan distribusi. Simulasi penelusuran dapat dilakukan dengan memilih satu lot secara acak lalu meminta tim menemukan bahan yang digunakan dan pihak penerimanya. Kinerja sistem dinilai dari kelengkapan, ketepatan, dan waktu pencarian. Jika data tersebar dalam banyak format, organisasi perlu menyepakati identitas yang konsisten dan prosedur pencatatan yang sederhana. Catatan tidak boleh direkayasa setelah kejadian untuk membuat proses tampak lengkap.
+
+Dalam pengembangan produk, riset pengguna membantu mengenali kebutuhan yang sering terlewat, seperti kemudahan membuka kemasan, keterbacaan informasi, ukuran sajian, atau cara penyimpanan. Wawancara dan uji konsep memberikan petunjuk, tetapi sampel kecil tidak otomatis mewakili semua konsumen. Uji kesukaan, uji mutu, dan pengujian keamanan menjawab pertanyaan yang berbeda. Laporan harus menyebutkan metode dan batas kesimpulan, serta tidak mengklaim keamanan atau umur simpan tanpa pengujian yang sesuai.
+
+Studi kasus: kelompok belajar merancang makanan ringan dari bahan lokal. Mereka membuat diagram proses, spesifikasi bahan, rancangan kode lot, daftar informasi kemasan, dan rencana evaluasi. Kelompok membandingkan dua jenis kemasan berdasarkan perlindungan produk, kemudahan distribusi, penggunaan material, dan kemungkinan pengelolaan setelah digunakan. Jika belum melakukan pengujian laboratorium, mereka menuliskan pengujian yang masih diperlukan alih-alih menyatakan produk telah terbukti aman.
+
+LATIHAN PENDALAMAN
+1. Buat peta proses satu produk pangan dan tandai perpindahan yang memerlukan pencatatan.
+2. Susun spesifikasi bahan baku dengan parameter yang dapat diperiksa.
+3. Rancang simulasi penelusuran satu lot dari pemasok hingga penerima.
+4. Jelaskan perbedaan uji kesukaan, pengujian mutu, dan evaluasi keamanan.
+5. Bandingkan dua kemasan dengan kriteria teknis, sosial, dan lingkungan.
+

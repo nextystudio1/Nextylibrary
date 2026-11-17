@@ -302,3 +302,36 @@ LATIHAN
 
 PROYEK
 Buat perbandingan konseptual dua pilihan pasokan energi untuk suatu wilayah. Tetapkan kebutuhan layanan, sumber data, batas analisis, dampak lingkungan, keandalan, biaya, dan implikasi sosial. Jelaskan ketidakpastian dan alasan rekomendasi tanpa menganggap satu teknologi bebas dampak.
+
+BAB PENDALAMAN: ANALISIS SIKLUS HIDUP ENERGI
+
+Dampak suatu teknologi energi tidak hanya muncul ketika energi digunakan. Bahan baku, pembuatan komponen, pembangunan fasilitas, operasi, pemeliharaan, dan akhir masa pakai juga memerlukan sumber daya. Analisis siklus hidup mencoba menilai rangkaian tersebut dengan batas sistem yang jelas. Hasilnya dapat berubah jika batas analisis hanya mencakup operasi atau memasukkan seluruh rantai pasok.
+
+Perbandingan yang adil memerlukan satuan fungsi yang sama. Dua teknologi sebaiknya dibandingkan berdasarkan layanan energi yang setara, periode, lokasi, dan asumsi operasi yang dinyatakan. Intensitas emisi per unit energi dapat membantu, tetapi tidak menjawab semua pertanyaan seperti kebutuhan lahan, air, mineral, dampak ekosistem, dan distribusi manfaat. Tidak ada teknologi yang sepenuhnya bebas dampak.
+
+Ketidakpastian muncul dari umur fasilitas, tingkat pemanfaatan, sumber bahan, campuran listrik, dan metode pengolahan akhir. Karena itu, hasil analisis sebaiknya disajikan sebagai rentang atau skenario jika data mendukung. Angka tunggal dengan banyak digit dapat memberi kesan kepastian palsu.
+
+BAB PENDALAMAN: EFISIENSI DAN EFEK REBOUND
+
+Efisiensi berarti memperoleh layanan yang sama dengan energi lebih sedikit, atau layanan lebih besar dengan konsumsi yang sama. Perbaikan peralatan dapat menurunkan kebutuhan energi per unit layanan. Namun, biaya operasi yang lebih rendah terkadang mendorong penggunaan lebih sering atau lebih lama. Fenomena ini dikenal sebagai efek rebound dan dapat mengurangi sebagian penghematan yang diperkirakan.
+
+Evaluasi penghematan perlu membandingkan kondisi sebelum dan sesudah dengan mempertimbangkan perubahan cuaca, jumlah pengguna, jam operasi, dan tingkat layanan. Pengukuran sederhana perlu mencatat periode serta batas sistem. Jika konsumsi turun karena layanan dikurangi, hasil tersebut tidak sama dengan peningkatan efisiensi.
+
+BAB PENDALAMAN: KEANDALAN SISTEM DAN PENYIMPANAN
+
+Sistem energi harus menyediakan layanan ketika dibutuhkan. Sumber yang berubah mengikuti cuaca memerlukan pengelolaan jaringan, fleksibilitas permintaan, penyimpanan, atau kombinasi sumber lain. Penyimpanan menggeser waktu ketersediaan energi, tetapi memiliki rugi-rugi, biaya, batas umur, dan kebutuhan bahan. Kapasitas penyimpanan harus dibedakan dari daya keluaran dan durasi pasokan.
+
+Keandalan dinilai berdasarkan kebutuhan pengguna dan kondisi sistem. Gangguan dapat berasal dari cuaca ekstrem, kerusakan peralatan, masalah jaringan, atau keterbatasan bahan bakar. Perencanaan ketahanan mempertimbangkan cadangan, pemeliharaan, diversifikasi, dan prioritas layanan penting. Solusi teknis harus disertai tata kelola dan rencana pemulihan.
+
+BAB PENDALAMAN: POLUSI, EKOSISTEM, DAN KEADILAN TRANSISI
+
+Dampak lingkungan energi dapat berbeda menurut lokasi. Pembangunan infrastruktur dapat memengaruhi habitat, kualitas air, penggunaan lahan, dan kehidupan masyarakat. Penilaian perlu dilakukan sejak pemilihan lokasi, bukan setelah proyek berjalan. Konsultasi bermakna memberi masyarakat kesempatan memahami informasi, menyampaikan kekhawatiran, dan memengaruhi keputusan.
+
+Transisi yang adil memperhatikan siapa yang memperoleh manfaat dan siapa yang menanggung biaya perubahan. Pekerja pada sektor yang berubah mungkin membutuhkan pelatihan dan dukungan penyesuaian. Rumah tangga berpendapatan rendah dapat lebih rentan terhadap kenaikan biaya energi. Kebijakan yang baik memadukan pengurangan dampak lingkungan dengan akses layanan yang terjangkau dan perlindungan sosial.
+
+BAB PENDALAMAN: MEMBACA DATA ENERGI
+
+Data energi harus menjelaskan apakah angka menunjukkan daya, energi, kapasitas terpasang, atau produksi aktual. Kilowatt adalah satuan daya, sedangkan kilowatt-jam adalah satuan energi. Mencampurkan keduanya dapat menghasilkan kesimpulan yang salah. Periode pengukuran, faktor kapasitas, dan batas pencatatan juga perlu diperhatikan.
+
+Saat menyajikan grafik, cantumkan satuan, sumber, rentang waktu, dan definisi indikator. Perubahan persentase perlu dibedakan dari perubahan absolut. Peningkatan persentase yang besar dari basis kecil belum tentu lebih besar secara kuantitas dibanding perubahan kecil dari basis besar. Literasi data membantu pembaca menilai klaim energi secara kritis.
+

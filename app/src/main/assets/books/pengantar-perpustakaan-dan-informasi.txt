@@ -359,3 +359,34 @@ LATIHAN
 
 PROYEK
 Rancang kebijakan koleksi mini untuk perpustakaan sekolah. Tentukan kebutuhan pengguna, kriteria pemilihan, proses evaluasi, dan prosedur preservasi. Sertakan contoh metadata untuk satu buku dan satu berkas digital.
+
+BAB PENDALAMAN: PENGEMBANGAN KOLEKSI BERBASIS KEBUTUHAN
+
+Pengembangan koleksi dimulai dari pemahaman pengguna dan tujuan layanan. Perpustakaan sekolah, komunitas, perguruan tinggi, dan perpustakaan umum memiliki kebutuhan berbeda. Analisis dapat mencakup usia pengguna, bahasa, bidang studi, format yang mudah diakses, kurikulum, serta topik yang belum tersedia.
+
+Kebijakan seleksi menjelaskan kriteria relevansi, akurasi, kualitas penyajian, keberagaman perspektif, kondisi fisik, dan hak penggunaan. Jumlah judul bukan satu-satunya ukuran kekuatan koleksi. Koleksi yang lebih kecil tetapi terawat, mudah ditemukan, dan sesuai kebutuhan dapat lebih bermanfaat daripada koleksi besar yang tidak terorganisasi.
+
+BAB PENDALAMAN: KATALOGISASI DAN METADATA
+
+Metadata mendeskripsikan sumber informasi agar dapat ditemukan, dibedakan, dan dikelola. Unsur dasar dapat mencakup judul, pencipta, penerbit, tahun, bahasa, subjek, format, pengenal, dan keterangan hak. Konsistensi penulisan nama dan tajuk subjek membantu pencarian serta pengelompokan.
+
+Metadata perlu cukup rinci untuk membedakan edisi atau versi, tetapi tidak boleh memuat data pribadi yang tidak diperlukan. Untuk sumber digital, catat format berkas, ukuran, tanggal pemeriksaan, dan hubungan dengan versi sebelumnya. Metadata yang baik mendukung interoperabilitas dan migrasi koleksi ke sistem lain.
+
+BAB PENDALAMAN: LITERASI INFORMASI DAN EVALUASI SUMBER
+
+Literasi informasi mencakup kemampuan mengenali kebutuhan informasi, merumuskan pertanyaan, menemukan sumber, mengevaluasi kualitas, dan menggunakan informasi secara etis. Pengguna perlu membedakan sumber primer, sekunder, dan tersier serta memahami tujuan penerbitan. Sumber primer tidak otomatis bebas bias, sementara sumber sekunder dapat memberi konteks dan perbandingan.
+
+Evaluasi sumber memeriksa keahlian pencipta, bukti yang digunakan, tanggal, proses editorial, kepentingan, dan kesesuaian dengan pertanyaan. Satu sumber jarang cukup untuk isu yang kompleks. Perpustakaan dapat mengajarkan penelusuran silang, pemeriksaan kutipan, dan pengenalan informasi menyesatkan tanpa mempermalukan pengguna yang sedang belajar.
+
+BAB PENDALAMAN: PRESERVASI DAN KEberLANJUTAN DIGITAL
+
+Preservasi digital bertujuan menjaga agar berkas tetap dapat dibuka, dipahami, dan dipercaya dalam jangka panjang. Strateginya mencakup beberapa salinan, pemeriksaan integritas, dokumentasi format, pengendalian akses, dan migrasi ketika format mulai usang. Menyimpan satu salinan pada satu perangkat tidak cukup untuk koleksi penting.
+
+Migrasi format harus diuji agar struktur, gambar, tabel, dan makna tidak hilang. Catatan asal-usul dan riwayat perubahan membantu membedakan berkas asli dari salinan turunan. Hak cipta, lisensi, privasi, dan batas akses tetap berlaku selama proses preservasi.
+
+BAB PENDALAMAN: LAYANAN DIGITAL DAN DESAIN PENGALAMAN PENGGUNA
+
+Katalog dan pembaca digital perlu dirancang agar dapat digunakan pada perangkat serta kondisi jaringan yang beragam. Navigasi konsisten, pencarian yang toleran terhadap variasi ejaan, ukuran teks yang dapat diatur, kontras memadai, dan dukungan pembaca layar memperluas akses. Pengguna sebaiknya dapat mengetahui status unduhan, kemajuan membaca, dan sumber metadata tanpa kebingungan.
+
+Pengukuran layanan dapat mencakup keberhasilan pencarian, waktu menemukan sumber, tingkat kegagalan membuka berkas, penggunaan fitur aksesibilitas, dan umpan balik. Data penggunaan harus dikumpulkan secara proporsional dan menjaga privasi. Tujuan analitik adalah memperbaiki layanan, bukan mengawasi kebiasaan membaca individu tanpa alasan dan dasar yang jelas.
+

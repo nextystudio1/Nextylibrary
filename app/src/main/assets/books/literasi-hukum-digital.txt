@@ -212,3 +212,53 @@ LATIHAN PENDALAMAN
 3. Sebutkan unsur yang memengaruhi keandalan bukti digital.
 4. Mengapa konteks percakapan penting saat menilai tangkapan layar?
 5. Apa batas materi literasi hukum dibandingkan nasihat hukum kasus tertentu?
+BAB LANJUTAN 4. PERLINDUNGAN ANAK DAN KESELAMATAN DI RUANG DIGITAL
+
+Ruang digital memberi kesempatan untuk belajar, berkomunikasi, dan berkarya, tetapi juga memiliki risiko seperti penipuan, perundungan, eksploitasi, paparan konten yang tidak sesuai, dan penyalahgunaan data. Perlindungan anak memerlukan tanggung jawab bersama dari keluarga, sekolah, penyedia layanan, masyarakat, dan pemerintah. Beban perlindungan tidak seharusnya diletakkan hanya pada anak sebagai pengguna.
+
+Layanan digital perlu mempertimbangkan usia dan tingkat pemahaman pengguna. Pengaturan privasi yang mudah dipahami, pelaporan yang mudah ditemukan, moderasi yang responsif, dan desain yang tidak mendorong penggunaan berlebihan dapat membantu menciptakan lingkungan lebih aman. Pengumpulan data anak harus dibatasi dan dijelaskan dengan cara yang sesuai usia. Persetujuan tidak boleh diperlakukan sebagai formalitas yang tidak dipahami.
+
+Ketika menghadapi interaksi yang membuat tidak nyaman atau mengandung ancaman, pengguna dapat menghentikan komunikasi, menggunakan fitur blokir atau pelaporan, menyimpan informasi yang relevan secara aman, dan meminta bantuan orang dewasa tepercaya. Jangan menyebarkan ulang materi yang merugikan atau mencoba menyelesaikan ancaman dengan konfrontasi yang dapat memperburuk keadaan. Untuk risiko langsung, keselamatan fisik harus menjadi prioritas dan bantuan pihak berwenang dapat diperlukan.
+
+Sekolah dan keluarga dapat membuat kesepakatan tentang penggunaan perangkat, perlindungan akun, komunikasi yang sopan, dan jalur meminta bantuan. Aturan sebaiknya memberi ruang dialog, bukan hanya hukuman. Anak perlu mengetahui bahwa melaporkan masalah bukan berarti mereka otomatis disalahkan.
+
+LATIHAN BAB
+1. Mengapa perlindungan anak di ruang digital merupakan tanggung jawab bersama?
+2. Sebutkan fitur layanan yang dapat mendukung keselamatan pengguna muda.
+3. Mengapa persetujuan digital harus dapat dipahami?
+4. Apa langkah aman ketika menghadapi interaksi digital yang mengancam?
+5. Bagaimana sekolah dapat menyediakan jalur pelaporan yang tidak menyalahkan korban?
+
+BAB LANJUTAN 5. KETERBUKAAN INFORMASI PUBLIK DAN HAK ATAS INFORMASI
+
+Keterbukaan informasi publik memungkinkan masyarakat memahami keputusan, penggunaan anggaran, dan kinerja lembaga. Informasi yang tersedia membantu pengawasan dan partisipasi. Namun, keterbukaan bukan berarti semua data harus diumumkan tanpa batas. Informasi pribadi, data yang dilindungi, dan informasi tertentu yang dikecualikan perlu ditangani sesuai aturan yang berlaku.
+
+Permintaan informasi sebaiknya menjelaskan dokumen atau topik yang dicari secara cukup spesifik. Lembaga perlu memiliki prosedur penerimaan, pencatatan, penilaian, dan jawaban. Jika permintaan tidak dapat dipenuhi seluruhnya, alasan dan dasar penolakan perlu dijelaskan sesuai ketentuan. Mekanisme keberatan atau penyelesaian sengketa memberi jalur bagi pemohon untuk meninjau keputusan.
+
+Data terbuka dapat membantu penelitian dan inovasi jika formatnya dapat dibaca mesin, memiliki metadata, dan diperbarui. Dataset perlu menjelaskan definisi variabel, periode, cakupan, metode pengumpulan, dan keterbatasan. Data agregat dapat mengurangi risiko identifikasi individu, tetapi proses agregasi tetap harus diperiksa agar tidak membuka identitas melalui penggabungan beberapa sumber.
+
+Penggunaan informasi publik memerlukan tanggung jawab. Angka harus diberi konteks dan tidak dipilih secara selektif untuk menyesatkan. Ketika memublikasikan analisis, cantumkan sumber, tanggal akses, metode, dan batas interpretasi. Keterbukaan yang baik meningkatkan kemampuan masyarakat menilai kebijakan secara berbasis bukti.
+
+LATIHAN BAB
+1. Apa manfaat keterbukaan informasi publik?
+2. Mengapa keterbukaan memiliki batas perlindungan data?
+3. Informasi apa yang membuat dataset terbuka dapat dipahami?
+4. Apa fungsi mekanisme keberatan?
+5. Bagaimana cara menyajikan data publik tanpa menyesatkan?
+
+BAB LANJUTAN 6. PENYELESAIAN SENGKETA DIGITAL DAN LINTAS BATAS
+
+Sengketa digital dapat melibatkan konsumen, penyedia platform, pelaku usaha, pekerja, atau pihak lain. Persoalan dapat terkait transaksi, layanan, konten, data pribadi, atau penggunaan kekayaan intelektual. Langkah awal adalah mengidentifikasi hubungan para pihak, kronologi, syarat layanan, bukti transaksi, serta aturan yang mungkin berlaku. Tidak semua sengketa memerlukan proses pengadilan; beberapa dapat diselesaikan melalui pengaduan, mediasi, atau mekanisme alternatif yang sah.
+
+Sengketa lintas batas menambah kompleksitas karena para pihak, server, dan transaksi dapat berada di negara berbeda. Pertanyaan yurisdiksi, hukum yang berlaku, pengakuan putusan, dan mekanisme penegakan dapat menjadi penting. Ketentuan kontrak platform tidak selalu menjawab seluruh persoalan hukum. Pembaca perlu berhati-hati sebelum menyimpulkan forum mana yang pasti berwenang.
+
+Bukti digital perlu dipertahankan secara utuh dan sah. Catat sumber, waktu, konteks, dan cara memperoleh informasi. Jangan mengakses akun orang lain, mengubah dokumen, atau menyebarkan data pribadi untuk menekan pihak lawan. Jika bukti berisi informasi sensitif, batasi akses dan mintalah arahan profesional tentang cara menyampaikannya melalui saluran yang tepat.
+
+Penyelesaian sengketa yang baik mempertimbangkan pemulihan yang diminta, biaya, waktu, risiko, dan keamanan para pihak. Untuk masalah bernilai besar atau menyangkut hak penting, konsultasi dengan bantuan hukum atau profesional yang kompeten dapat diperlukan. Materi pengantar ini memberi kerangka pemahaman umum dan bukan nasihat hukum untuk kasus tertentu.
+
+LATIHAN BAB
+1. Apa yang perlu diidentifikasi sebelum memilih jalur penyelesaian sengketa?
+2. Mengapa sengketa lintas batas lebih kompleks?
+3. Sebutkan informasi yang perlu dicatat untuk menjaga konteks bukti digital.
+4. Mengapa mengakses akun pihak lain bukan cara yang tepat mengumpulkan bukti?
+5. Faktor apa yang perlu dipertimbangkan saat memilih mekanisme penyelesaian?

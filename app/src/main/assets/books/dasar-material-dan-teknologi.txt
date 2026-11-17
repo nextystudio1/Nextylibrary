@@ -391,3 +391,28 @@ LATIHAN DAN PROYEK
 5. Mengapa potensi daur ulang berbeda dari daur ulang aktual?
 
 Proyek: susun studi pemilihan material untuk produk penyimpanan alat belajar. Buat matriks fungsi, sifat, proses produksi, biaya, pemeliharaan, dan akhir masa pakai. Gunakan spesifikasi dan sumber terbuka, tuliskan asumsi, lalu jelaskan mengapa pilihan akhir sesuai konteks penggunaan.
+
+BAB LANJUTAN: PEMILIHAN MATERIAL, KEGAGALAN, DAN REKAYASA BERKELANJUTAN
+
+Pemilihan material dimulai dari fungsi produk, bukan dari popularitas bahan. Perancang perlu menentukan beban, lingkungan penggunaan, umur layanan, batas ukuran, biaya, dan cara perawatan. Setelah kebutuhan ditetapkan, sifat material dapat dibandingkan. Kekuatan, kekakuan, ketangguhan, massa jenis, konduktivitas, ketahanan korosi, dan kemudahan pembentukan menjawab pertanyaan yang berbeda. Bahan yang kuat belum tentu tangguh, dan bahan yang ringan belum tentu sesuai untuk semua beban.
+
+Tegangan menggambarkan gaya yang bekerja per luas penampang, sedangkan regangan menggambarkan perubahan ukuran relatif terhadap ukuran awal. Pada rentang elastis, banyak material menunjukkan hubungan yang mendekati linier antara tegangan dan regangan. Setelah batas tertentu, deformasi dapat menjadi permanen. Kurva tegangan-regangan membantu menjelaskan kekakuan, kekuatan luluh, kekuatan maksimum, dan perilaku sebelum patah. Nilai sifat harus dikaitkan dengan jenis pengujian, arah material, suhu, serta kondisi sampel.
+
+Kegagalan material dapat terjadi melalui beberapa mekanisme, termasuk deformasi berlebihan, patah, kelelahan akibat beban berulang, korosi, dan keausan. Kelelahan dapat berkembang walaupun beban berulang lebih rendah daripada kekuatan maksimum pada satu kali pembebanan. Korosi bergantung pada material dan lingkungan, seperti kelembapan, zat kimia, serta pasangan logam. Analisis kegagalan berusaha menemukan mekanisme dan faktor penyebab, bukan hanya mengganti komponen yang rusak.
+
+Proses manufaktur memengaruhi struktur dan sifat material. Pengecoran, pembentukan, pemesinan, pencetakan, dan proses penyambungan memiliki batas serta kebutuhan energi yang berbeda. Perlakuan panas dapat mengubah mikrostruktur dan sifat tertentu, tetapi parameter yang tidak tepat dapat menimbulkan tegangan sisa atau perubahan yang tidak diinginkan. Karena itu, spesifikasi produk harus mencakup proses dan pemeriksaan yang relevan, bukan hanya nama bahan.
+
+Komposit menggabungkan dua atau lebih bahan untuk memperoleh kombinasi sifat tertentu. Serat dapat memberi kekuatan atau kekakuan pada arah tertentu, sementara matriks mengikat dan melindungi penguat. Sifat komposit dapat bergantung pada orientasi, kualitas antarmuka, dan proses pembuatan. Keunggulan rasio kekuatan terhadap massa perlu dibandingkan dengan biaya, perbaikan, pemisahan material, serta pilihan akhir masa pakai.
+
+Pemilihan material yang bertanggung jawab memperhitungkan rantai pasok dan dampak lingkungan. Penambangan, pemrosesan, transportasi, penggunaan, dan pembuangan dapat menimbulkan dampak yang berbeda. Daur ulang secara teknis tidak selalu terjadi dalam praktik karena keterbatasan pemilahan, kontaminasi, biaya, atau pasar bahan sekunder. Desain yang memudahkan pembongkaran dan perbaikan dapat meningkatkan peluang pemanfaatan kembali.
+
+Standar dan pengujian membuat spesifikasi lebih dapat dibandingkan. Laporan pengujian harus menyebut metode, ukuran sampel, kondisi, satuan, dan variasi hasil. Satu sampel tidak selalu mewakili seluruh produksi. Ketertelusuran bahan membantu menghubungkan hasil uji dengan batch dan proses tertentu. Ketika material digunakan pada produk yang berdampak terhadap keselamatan, persyaratan regulasi dan penilaian profesional harus diikuti.
+
+Studi kasus: tim merancang rak penyimpanan untuk ruang belajar. Mereka menetapkan beban yang diperkirakan, kondisi kelembapan, kebutuhan perakitan, dan kemudahan perawatan. Beberapa pilihan bahan dibandingkan melalui matriks sifat, biaya, proses, dan akhir masa pakai. Tim tidak hanya memilih bahan dengan harga awal terendah, tetapi menilai biaya pemeliharaan dan ketahanan selama penggunaan.
+
+Latihan penerapan:
+1. Bedakan kekuatan, kekakuan, dan ketangguhan dengan contoh.
+2. Jelaskan bagaimana beban berulang dapat menyebabkan kelelahan.
+3. Buat matriks pemilihan material untuk produk sederhana.
+4. Identifikasi tahap siklus hidup yang perlu diperiksa.
+5. Susun format ringkas laporan pengujian material.

@@ -225,3 +225,53 @@ Kelelahan: Kerusakan akibat pembebanan berulang.
 Konduktivitas termal: Kemampuan material menghantarkan panas.
 Toleransi: Rentang penyimpangan ukuran yang diizinkan.
 Penilaian siklus hidup: Kajian dampak produk sepanjang tahapan hidupnya.
+BAB 14. DIFUSI, PERLAKUAN PANAS, DAN PERUBAHAN MIKROSTRUKTUR
+
+Difusi adalah perpindahan atom atau molekul akibat gerak termal yang menghasilkan perubahan konsentrasi bersih. Pada padatan, laju difusi dipengaruhi suhu, jenis atom, struktur kristal, dan jalur yang tersedia. Atom kecil dapat bergerak melalui ruang antaratom, sedangkan perpindahan melalui kekosongan melibatkan posisi kisi yang tidak terisi. Batas butir dan permukaan sering menjadi jalur difusi yang berbeda dari bagian dalam butir.
+
+Suhu yang lebih tinggi umumnya meningkatkan laju difusi karena lebih banyak atom memiliki energi untuk berpindah. Namun, hubungan tersebut juga bergantung pada energi aktivasi dan mekanisme yang berlangsung. Karena itu, perubahan mikrostruktur selama pemanasan tidak dapat diprediksi hanya dari suhu puncak; waktu tahan, laju pemanasan, laju pendinginan, dan komposisi juga penting.
+
+Perlakuan panas digunakan untuk mengubah sifat material melalui siklus suhu yang dirancang. Tujuannya dapat berupa mengurangi tegangan sisa, mengubah kekerasan, meningkatkan keuletan, atau membentuk struktur tertentu. Nama proses yang sama belum tentu menghasilkan sifat yang sama jika komposisi, dimensi, dan riwayat proses berbeda. Spesifikasi harus menyebut kondisi proses dan metode verifikasi.
+
+Perubahan mikrostruktur perlu dikaitkan dengan pengujian. Pengamatan mikroskopis dapat menunjukkan ukuran butir atau fase, sedangkan uji mekanik menilai respons material terhadap beban. Keduanya saling melengkapi: gambar mikrostruktur saja tidak cukup untuk menyatakan komponen aman digunakan. Pengujian panas dan material dilakukan di laboratorium atau fasilitas yang sesuai, dengan pengawasan dan prosedur keselamatan.
+
+LATIHAN BAB 14
+1. Apa yang dimaksud dengan difusi dalam padatan?
+2. Sebutkan empat faktor yang memengaruhi laju difusi.
+3. Mengapa waktu tahan dan laju pendinginan perlu dicatat pada perlakuan panas?
+4. Bedakan informasi dari pengamatan mikrostruktur dan uji mekanik.
+5. Mengapa nama proses saja belum cukup untuk menjamin sifat akhir?
+
+BAB 15. KOROSI, DEGRADASI, DAN PEMILIHAN LINGKUNGAN PAKAI
+
+Korosi elektrokimia melibatkan reaksi pada permukaan material dan perpindahan muatan melalui lingkungan yang memungkinkan proses tersebut. Pada logam, bagian permukaan dapat berperan sebagai lokasi reaksi yang berbeda. Kelembapan, garam, pH, suhu, aliran, dan kontak dengan logam lain dapat mengubah laju serta pola korosi. Karena faktor-faktor ini saling berinteraksi, pemilihan bahan perlu mempertimbangkan lingkungan nyata, bukan hanya nama material.
+
+Korosi merata mengurangi ketebalan pada area yang relatif luas. Korosi sumuran menghasilkan kerusakan lokal yang dapat sulit dideteksi dari tampilan luar. Korosi celah dapat berkembang pada ruang sempit yang menahan cairan. Korosi galvanik mungkin terjadi ketika dua logam berbeda terhubung secara elektrik dalam lingkungan elektrolit. Setiap bentuk memiliki konsekuensi inspeksi dan pencegahan yang berbeda.
+
+Degradasi tidak hanya terjadi pada logam. Polimer dapat mengalami perubahan akibat sinar ultraviolet, panas, oksigen, atau bahan kimia. Keramik dapat mengalami kerusakan akibat kejutan termal atau pertumbuhan retak. Komposit dapat mengalami pelepasan ikatan antarlapisan atau kerusakan matriks. Pemeriksaan harus sesuai dengan jenis material dan mekanisme yang dicurigai.
+
+Pencegahan dapat mencakup pemilihan material, desain yang menghindari genangan, pelapisan, isolasi pasangan logam, pengendalian lingkungan, dan inspeksi. Pelapisan bukan solusi permanen jika tidak diperiksa; kerusakan kecil dapat menjadi titik awal degradasi. Rencana pemeliharaan sebaiknya mencatat lokasi, kondisi, perubahan dari pemeriksaan sebelumnya, dan kriteria tindakan.
+
+LATIHAN BAB 15
+1. Mengapa lingkungan lembap dan mengandung garam dapat mempercepat korosi pada banyak logam?
+2. Bedakan korosi merata, sumuran, dan celah.
+3. Berikan contoh degradasi pada polimer dan keramik.
+4. Mengapa pelapisan perlu diperiksa secara berkala?
+5. Susun kriteria pemilihan bahan untuk komponen luar ruang.
+
+BAB 16. TOLERANSI, SAMBUNGAN, DAN DESAIN UNTUK MANUFAKTUR
+
+Toleransi menyatakan rentang variasi ukuran atau sifat yang masih dapat diterima agar komponen berfungsi. Ukuran nominal adalah nilai acuan, sedangkan batas atas dan bawah menentukan variasi yang diizinkan. Toleransi terlalu ketat dapat meningkatkan biaya produksi dan pemeriksaan; toleransi terlalu longgar dapat menyebabkan komponen tidak cocok atau tidak bekerja sebagaimana direncanakan. Penetapannya perlu berdasarkan fungsi, proses manufaktur, dan kemampuan pengukuran.
+
+Rantai toleransi muncul ketika beberapa dimensi saling terhubung dalam satu rakitan. Penyimpangan kecil pada beberapa komponen dapat terakumulasi sehingga celah akhir berbeda dari perkiraan. Perancang perlu menentukan apakah rakitan harus selalu dapat dipasang, apakah penyetelan diperbolehkan, dan apakah variasi dapat dikendalikan melalui pemilihan komponen. Perhitungan harus menyatakan asumsi tentang arah dan distribusi variasi.
+
+Sambungan dapat menggunakan baut, las, perekat, pasak, atau bentuk penguncian lain. Pemilihan dipengaruhi jenis beban, lingkungan, kebutuhan pembongkaran, inspeksi, dan kemampuan proses. Sambungan yang kuat secara statis belum tentu cocok untuk getaran atau perubahan suhu. Perancang juga harus mempertimbangkan akses alat, ruang perawatan, dan kemungkinan penggantian bagian yang aus.
+
+Desain untuk manufaktur mendorong bentuk yang dapat dibuat secara konsisten dengan proses yang tersedia. Hindari detail yang tidak memiliki fungsi jelas, variasi komponen yang tidak perlu, serta fitur yang sulit diukur. Tinjau desain bersama pihak produksi dan pengujian sebelum produk dibuat dalam jumlah besar. Tujuannya bukan sekadar memudahkan pabrik, melainkan menghasilkan produk yang aman, dapat diperbaiki, dan sesuai kebutuhan.
+
+LATIHAN BAB 16
+1. Apa perbedaan ukuran nominal dan batas toleransi?
+2. Mengapa toleransi yang semakin ketat dapat meningkatkan biaya?
+3. Jelaskan bagaimana toleransi beberapa komponen dapat terakumulasi.
+4. Sebutkan faktor dalam memilih jenis sambungan.
+5. Berikan dua contoh keputusan desain yang memudahkan perawatan.

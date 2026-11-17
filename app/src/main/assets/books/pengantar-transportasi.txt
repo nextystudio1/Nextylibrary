@@ -219,3 +219,38 @@ LATIHAN PENDALAMAN
 3. Mengapa data kecelakaan perlu dikaitkan dengan paparan perjalanan?
 4. Sebutkan faktor pemilihan moda logistik.
 5. Apa pertukaran antara efisiensi persediaan dan ketahanan rantai pasok?
+
+BAB LANJUTAN: PERENCANAAN MOBILITAS YANG INKLUSIF
+
+Mobilitas bukan hanya perpindahan kendaraan. Mobilitas mencakup kemampuan orang mencapai sekolah, pekerjaan, layanan kesehatan, pasar, ruang publik, dan hubungan sosial. Perencanaan yang hanya mengukur kecepatan kendaraan dapat mengabaikan orang yang berjalan kaki, menggunakan kursi roda, membawa anak, atau tinggal jauh dari koridor utama.
+
+Aksesibilitas dapat dinilai melalui waktu perjalanan, biaya, keandalan, keselamatan, dan kemudahan berpindah moda. Jarak dekat tidak selalu berarti mudah dijangkau apabila trotoar terputus, penyeberangan tidak aman, atau halte sulit diakses. Evaluasi perlu mengamati perjalanan dari titik asal hingga tujuan, termasuk tahap awal dan akhir perjalanan.
+
+Prinsip desain universal mendorong fasilitas yang dapat digunakan sebanyak mungkin orang tanpa memerlukan penyesuaian khusus. Dalam transportasi, prinsip ini berkaitan dengan permukaan jalur yang rata, informasi yang terbaca, petunjuk audio dan visual, ruang yang memadai, serta akses naik turun kendaraan. Kebutuhan pengguna perlu didengar langsung, bukan hanya diasumsikan oleh perencana.
+
+BAB LANJUTAN: ANGKUTAN UMUM DAN KINERJA JARINGAN
+
+Kinerja angkutan umum tidak cukup dinilai dari jumlah kendaraan atau panjang rute. Frekuensi, ketepatan waktu, kapasitas, kenyamanan, keterhubungan antarmoda, dan kemudahan pembayaran turut menentukan pengalaman. Jadwal yang jarang dapat membuat waktu tunggu menjadi bagian besar dari total perjalanan.
+
+Kepadatan penumpang perlu dibaca bersama pola permintaan. Puncak perjalanan dapat terjadi pada waktu berbeda menurut kawasan dan jenis kegiatan. Data naik turun penumpang membantu mengidentifikasi halte yang ramai, tetapi perlu dilindungi dari penggunaan yang mengungkap kebiasaan individu. Data agregat biasanya lebih sesuai untuk perencanaan publik.
+
+Integrasi antarmoda mencakup kesesuaian jadwal, lokasi perpindahan, informasi, dan tarif. Perpindahan yang secara fisik dekat dapat tetap menyulitkan jika pengguna harus menyeberangi jalan yang tidak aman atau menaiki tangga. Ukuran integrasi sebaiknya mencerminkan seluruh pengalaman perjalanan.
+
+BAB LANJUTAN: LOGISTIK, RUANG KOTA, DAN LINGKUNGAN
+
+Logistik mengatur aliran barang, informasi, dan penyimpanan dari sumber hingga penerima. Keputusan rute dan jadwal memengaruhi biaya, ketepatan pengiriman, kemacetan, kebisingan, dan emisi. Pengiriman yang sering dengan kendaraan kecil dapat cocok untuk beberapa kawasan, sedangkan konsolidasi muatan dapat mengurangi perjalanan kosong jika titik distribusi dirancang baik.
+
+Perencanaan kawasan perlu mengatur ruang bongkar muat, akses kendaraan layanan, jalur pejalan kaki, dan keselamatan di sekitar sekolah atau pasar. Kebijakan pembatasan kendaraan harus mempertimbangkan dampaknya pada pekerja, usaha kecil, dan warga yang bergantung pada layanan pengiriman. Alternatif dan masa transisi dapat membantu mengurangi beban yang tidak merata.
+
+Indikator lingkungan meliputi emisi per penumpang-kilometer atau ton-kilometer, konsumsi energi, kebisingan, dan penggunaan ruang. Perbandingan harus menggunakan batas sistem yang konsisten. Kendaraan dengan emisi operasional rendah belum tentu memiliki dampak daur hidup paling rendah apabila produksi energi dan bahan tidak diperhitungkan.
+
+PROYEK
+Amati perjalanan menuju fasilitas umum tanpa mengumpulkan identitas atau kebiasaan pribadi orang lain. Catat hambatan jalur, informasi, waktu tunggu, dan perpindahan moda. Susun usulan perbaikan dengan mempertimbangkan kelompok pengguna berbeda serta dampak biaya dan lingkungan.
+
+LATIHAN
+1. Mengapa aksesibilitas berbeda dari jarak?
+2. Sebutkan komponen waktu perjalanan angkutan umum.
+3. Bagaimana desain universal diterapkan pada halte?
+4. Apa manfaat dan keterbatasan konsolidasi logistik?
+5. Mengapa indikator emisi perlu memiliki batas sistem yang jelas?
+

@@ -358,3 +358,31 @@ PROYEK MINI: AUDIT LAYANAN DIGITAL
 
 Pilih layanan digital publik yang dapat diamati tanpa membuat transaksi. Periksa kejelasan harga, informasi privasi, aksesibilitas, proses bantuan, dan cara mengajukan keluhan. Catat bukti yang terlihat serta aspek yang tidak dapat dipastikan. Susun rekomendasi yang mempertimbangkan pengguna, penyedia, dan dampak ekonomi.
 
+BAB LANJUTAN: PLATFORM, DATA, PERSAINGAN, DAN KEADILAN DIGITAL
+
+Ekonomi digital mencakup kegiatan produksi, distribusi, pertukaran, dan konsumsi yang didukung teknologi digital. Platform dapat mempertemukan beberapa kelompok pengguna, misalnya penjual dan pembeli, pengemudi dan penumpang, atau pembuat konten dan audiens. Nilai platform sering meningkat ketika jumlah pengguna bertambah, tetapi pertumbuhan tersebut juga dapat menciptakan ketergantungan dan hambatan bagi pesaing baru. Analisis perlu melihat manfaat jaringan sekaligus distribusi kekuatan pasar.
+
+Efek jaringan terjadi ketika nilai suatu layanan bagi pengguna dipengaruhi oleh jumlah atau aktivitas pengguna lain. Efek langsung muncul ketika pengguna memperoleh manfaat dari bertambahnya pengguna sejenis, sedangkan efek tidak langsung muncul ketika satu kelompok menarik kelompok lain. Namun, pertumbuhan pengguna tidak selalu berarti kualitas layanan meningkat. Kemacetan, spam, penipuan, dan penurunan kualitas moderasi dapat mengurangi manfaat jaringan.
+
+Model bisnis platform dapat menggunakan biaya transaksi, komisi, langganan, iklan, atau layanan tambahan. Setiap model memiliki konsekuensi terhadap transparansi dan insentif. Layanan gratis bagi satu kelompok mungkin dibiayai oleh kelompok lain atau oleh penggunaan data. Pengguna perlu memahami biaya langsung maupun tidak langsung, termasuk pengumpulan informasi dan perhatian. Penilaian ekonomi harus melihat siapa yang membayar dan siapa yang memperoleh manfaat.
+
+Data menjadi masukan penting untuk personalisasi, pengukuran permintaan, dan pengembangan layanan. Namun, data tidak selalu netral atau lengkap. Data dapat mencerminkan ketimpangan akses, kesalahan pencatatan, dan keputusan desain sistem. Penggunaan data harus memiliki tujuan yang jelas, dasar yang sah, perlindungan keamanan, serta batas penyimpanan. Pengumpulan berlebihan meningkatkan risiko tanpa selalu memberi manfaat yang sebanding.
+
+Algoritma rekomendasi dapat membantu pengguna menemukan informasi, tetapi juga memengaruhi apa yang terlihat. Sistem yang mengoptimalkan keterlibatan mungkin memperkuat konten yang menarik perhatian tanpa memastikan kualitasnya. Evaluasi perlu mempertimbangkan relevansi, keberagaman, akurasi, dampak pada kelompok berbeda, dan kemampuan pengguna mengendalikan preferensi. Penjelasan yang memadai membantu pengguna memahami alasan rekomendasi.
+
+Persaingan dalam pasar digital memiliki karakter khusus. Penguasaan data, skala infrastruktur, biaya berpindah, dan integrasi layanan dapat memperkuat posisi pelaku besar. Persaingan tidak hanya dilihat dari harga, tetapi juga kualitas, privasi, interoperabilitas, dan kesempatan masuk bagi usaha baru. Kebijakan persaingan perlu menilai perilaku serta struktur pasar berdasarkan bukti, bukan sekadar popularitas suatu layanan.
+
+Usaha kecil dapat memanfaatkan kanal digital untuk menjangkau pelanggan dan mengelola transaksi. Namun, akses platform tidak menghilangkan tantangan logistik, biaya komisi, literasi digital, dan ketergantungan pada aturan pihak lain. Pelaku usaha perlu memahami biaya total, ketentuan akun, mekanisme sengketa, dan cara menyimpan catatan transaksi. Diversifikasi kanal dapat mengurangi risiko ketergantungan, selama sesuai kapasitas usaha.
+
+Kesenjangan digital mencakup akses perangkat dan jaringan, keterampilan, kualitas penggunaan, serta kemampuan memperoleh manfaat. Ketersediaan internet saja tidak menjamin partisipasi setara. Layanan perlu mempertimbangkan aksesibilitas, bahasa, biaya, keamanan, dan pilihan bantuan non-digital. Desain layanan publik digital harus tetap menyediakan mekanisme bagi warga yang menghadapi hambatan teknologi.
+
+Kepercayaan digital dibangun melalui keamanan, kejelasan kebijakan, penanganan keluhan, dan konsistensi layanan. Pengguna perlu mengetahui cara menghubungi penyedia, mengoreksi informasi, mengelola izin, dan menyelesaikan sengketa. Organisasi perlu menyiapkan prosedur respons insiden serta komunikasi yang tidak menyesatkan. Kepercayaan bukan slogan pemasaran, melainkan hasil dari praktik yang dapat diperiksa.
+
+Studi kasus: sebuah usaha kecil mempertimbangkan bergabung dengan platform penjualan. Pemilik membandingkan jangkauan calon pelanggan, biaya komisi, ketentuan promosi, waktu pencairan dana, proses keluhan, dan akses terhadap data transaksi. Keputusan dibuat berdasarkan biaya total serta kemampuan operasional, bukan hanya jumlah pengguna platform.
+
+Latihan penerapan:
+1. Jelaskan efek jaringan dengan contoh pasar dua sisi.
+2. Petakan aliran nilai dan biaya dalam satu model platform.
+3. Identifikasi risiko ketika layanan mengumpulkan data lebih banyak dari kebutuhan.
+4. Buat daftar pertanyaan untuk menilai ketergantungan usaha kecil pada platform.
+5. Rancang indikator untuk menilai inklusivitas layanan digital.

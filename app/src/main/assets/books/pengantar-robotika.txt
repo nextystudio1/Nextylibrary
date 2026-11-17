@@ -235,3 +235,53 @@ LATIHAN PENDALAMAN
 3. Sebutkan karakteristik sensor yang perlu diperhatikan.
 4. Apa manfaat fusi sensor?
 5. Mengapa keadaan operasi dan penghentian aman harus dirancang sejak awal?
+BAB 13. PERANCANGAN EKSPERIMEN DAN PEMECAHAN MASALAH ROBOT
+
+Pengembangan robot merupakan proses iteratif: merumuskan kebutuhan, membuat model, membangun prototipe, menguji, menganalisis hasil, lalu memperbaiki rancangan. Masalah yang terlihat pada robot sering memiliki beberapa kemungkinan penyebab. Robot yang berhenti sebelum mencapai tujuan mungkin mengalami masalah sensor, catu daya, gesekan mekanis, kesalahan koordinat, atau logika perangkat lunak. Mengganti banyak komponen sekaligus membuat penyebab sulit diketahui.
+
+Pendekatan yang lebih baik adalah mengubah satu faktor pada satu waktu ketika pengujian memungkinkan. Tetapkan kondisi awal, variabel yang diubah, hasil yang diukur, dan faktor yang dijaga tetap. Misalnya, untuk menilai pengaruh permukaan terhadap jarak tempuh roda, gunakan beban, baterai, kecepatan perintah, dan lintasan yang sama. Ulangi pengukuran untuk mengetahui variasi. Catat pula keadaan baterai dan suhu motor karena keduanya dapat memengaruhi hasil.
+
+Gunakan metrik yang sesuai dengan tujuan. Akurasi posisi dapat diukur sebagai selisih antara posisi tujuan dan posisi akhir. Waktu penyelesaian mengukur kecepatan tugas, sedangkan jumlah penghentian darurat atau kejadian mendekati tabrakan membantu menilai keselamatan. Satu metrik tidak menggambarkan seluruh kualitas. Robot yang cepat tetapi sering kehilangan kendali bukanlah rancangan yang baik.
+
+Log pengujian perlu mencantumkan tanggal, versi perangkat lunak, konfigurasi perangkat keras, kondisi lingkungan, langkah uji, dan hasil. Foto atau diagram dapat membantu menjelaskan susunan prototipe, tetapi harus diberi keterangan. Ketika hasil berubah, log memungkinkan tim membandingkan kondisi dan mengetahui apakah perubahan berasal dari perbaikan atau faktor lain.
+
+LATIHAN BAB 13
+1. Mengapa mengubah banyak komponen sekaligus menyulitkan pencarian penyebab?
+2. Tentukan variabel bebas, variabel terikat, dan variabel kontrol untuk uji jarak tempuh robot.
+3. Mengapa pengujian perlu diulang?
+4. Sebutkan tiga metrik yang dapat digunakan untuk mengevaluasi robot pengantar.
+5. Buat format catatan pengujian yang dapat digunakan tim.
+
+BAB 14. KETERANDALAN, KEGAGALAN, DAN PEMELIHARAAN
+
+Keterandalan adalah kemampuan sistem menjalankan fungsi yang diharapkan dalam kondisi dan periode tertentu. Robot tersusun dari banyak subsistem yang saling bergantung: mekanik, sensor, aktuator, perangkat lunak, komunikasi, dan sumber daya. Kegagalan satu bagian dapat memengaruhi bagian lain. Karena itu, evaluasi keterandalan tidak cukup hanya dengan menguji apakah robot berhasil bergerak sekali.
+
+Analisis kegagalan dimulai dengan mendeskripsikan fungsi yang gagal dan kondisi ketika kegagalan muncul. Bedakan gejala dari penyebab. Misalnya, posisi robot melenceng adalah gejala; penyebabnya mungkin roda selip, kalibrasi berubah, atau estimasi gerak yang tidak akurat. Tim dapat membuat daftar mode kegagalan, dampak, cara mendeteksi, dan tindakan pencegahan. Penilaian prioritas harus mempertimbangkan tingkat keparahan serta kemungkinan kejadian, bukan sekadar kemudahan perbaikan.
+
+Pemeliharaan preventif dilakukan sebelum kerusakan mengganggu operasi. Pemeriksaan dapat mencakup kondisi roda, sambungan kabel, pengikat mekanik, kebersihan sensor, kondisi baterai, dan catatan kesalahan. Jadwal harus mengikuti rekomendasi komponen dan pola penggunaan. Pemeriksaan tidak boleh dilakukan saat perangkat bergerak atau masih terhubung pada sumber daya jika prosedur mensyaratkan pemutusan daya; pekerjaan teknis dilakukan oleh orang yang kompeten dengan prosedur keselamatan yang sesuai.
+
+Ketersediaan suku cadang dan dokumentasi juga memengaruhi masa pakai. Catat nomor komponen, versi, pemasok, dan alternatif yang telah diuji. Perubahan komponen dapat mengubah massa, pusat gravitasi, konsumsi daya, atau perilaku kendali sehingga perlu pengujian ulang. Pemeliharaan yang baik merupakan bagian dari desain, bukan pekerjaan tambahan setelah robot selesai dibuat.
+
+LATIHAN BAB 14
+1. Mengapa keberhasilan satu kali belum membuktikan keterandalan?
+2. Bedakan gejala dan penyebab kegagalan.
+3. Buat daftar lima pemeriksaan preventif untuk robot edukasi.
+4. Mengapa penggantian komponen memerlukan pengujian ulang?
+5. Jelaskan informasi apa yang perlu ada dalam catatan pemeliharaan.
+
+BAB 15. INTERAKSI MANUSIA-ROBOT DAN AKSESIBILITAS
+
+Robot yang bekerja di lingkungan manusia perlu dapat dipahami oleh orang yang tidak merancangnya. Pengguna harus mengetahui apakah robot sedang siap, bergerak, menunggu, atau mengalami gangguan. Isyarat dapat berupa lampu, suara singkat, layar, atau gerakan yang mudah diprediksi. Isyarat tidak boleh membingungkan atau terlalu mirip dengan tanda darurat yang digunakan lingkungan setempat.
+
+Ruang gerak robot perlu memperhitungkan pengguna dengan tinggi badan, kemampuan gerak, dan cara berinteraksi yang beragam. Jalur yang cukup lebar, kecepatan yang sesuai, serta kemampuan berhenti ketika ada hambatan dapat meningkatkan keselamatan dan aksesibilitas. Jangan menganggap semua pengguna dapat mendengar bunyi peringatan atau melihat indikator kecil. Gunakan lebih dari satu bentuk informasi jika diperlukan.
+
+Pengujian interaksi harus melibatkan tugas dan lingkungan yang realistis. Mintalah peserta menjelaskan apa yang mereka pahami dari status robot, tetapi jangan menyimpulkan bahwa satu orang mewakili semua kelompok. Catat kebingungan, waktu respons, dan kondisi yang membuat pengguna merasa tidak aman. Partisipasi harus sukarela, informasi pengujian dijelaskan, dan data peserta dijaga.
+
+Kepercayaan terhadap robot dibangun melalui perilaku yang konsisten dan batas kemampuan yang jelas. Antarmuka sebaiknya tidak menjanjikan bahwa robot selalu benar. Jika sistem tidak yakin atau kehilangan informasi, robot harus masuk ke keadaan aman dan memberi tahu pengguna apa yang perlu dilakukan. Kemampuan meminta bantuan manusia merupakan fitur desain yang penting.
+
+LATIHAN BAB 15
+1. Sebutkan informasi status yang perlu diketahui pengguna robot.
+2. Mengapa peringatan visual dan suara dapat saling melengkapi?
+3. Apa yang perlu diamati ketika menguji interaksi manusia-robot?
+4. Mengapa antarmuka harus menjelaskan batas kemampuan sistem?
+5. Rancang tiga status sederhana untuk robot pengantar di perpustakaan.

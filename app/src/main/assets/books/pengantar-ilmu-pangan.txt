@@ -369,3 +369,27 @@ LATIHAN PENDALAMAN
 4. Jelaskan perbedaan uji kesukaan, pengujian mutu, dan evaluasi keamanan.
 5. Bandingkan dua kemasan dengan kriteria teknis, sosial, dan lingkungan.
 
+BAB LANJUTAN: MUTU, GIZI, PENGOLAHAN, DAN SISTEM PANGAN
+
+Mutu pangan merupakan gabungan sifat yang dapat diamati, seperti warna, aroma, tekstur, rasa, ukuran, dan kestabilan selama penyimpanan. Mutu tidak sama dengan keamanan. Produk dapat tampak baik tetapi tetap memiliki bahaya yang tidak terlihat, sedangkan perubahan penampilan belum tentu berarti produk berbahaya. Penilaian harus menggunakan kriteria yang sesuai dengan jenis produk dan tujuan pemeriksaan. Standar mutu perlu menjelaskan metode, satuan, batas penerimaan, serta tindakan jika hasil berada di luar batas.
+
+Komposisi pangan mencakup air, karbohidrat, protein, lemak, vitamin, mineral, dan komponen lain. Proporsi setiap komponen berbeda menurut bahan dan proses. Air memengaruhi tekstur dan kestabilan, tetapi jumlah air total tidak selalu menjelaskan ketersediaannya bagi mikroorganisme. Protein dapat berubah struktur karena panas atau kondisi kimia. Lemak dapat mengalami oksidasi yang memengaruhi aroma. Karbohidrat berperan sebagai sumber energi, pembentuk struktur, dan bahan untuk reaksi pencokelatan. Pemahaman komposisi membantu menjelaskan mengapa satu proses cocok untuk produk tertentu tetapi tidak untuk produk lain.
+
+Pengolahan pangan bertujuan meningkatkan keamanan, memperpanjang umur simpan, membentuk karakteristik, atau memudahkan distribusi. Pemanasan, pendinginan, pengeringan, fermentasi, dan pengemasan memiliki prinsip serta batas masing-masing. Efektivitas proses dipengaruhi jenis bahan, ukuran, jumlah, kondisi awal, dan keseragaman perlakuan. Karena itu, resep atau waktu proses tidak boleh dipindahkan begitu saja ke skala berbeda tanpa validasi. Proses industri memerlukan pengendalian parameter dan catatan yang dapat ditelusuri.
+
+Rantai dingin merupakan rangkaian pengendalian suhu sejak produk diproses hingga diterima pengguna. Gangguan pada satu tahap dapat memengaruhi mutu dan keamanan. Pemantauan tidak cukup dengan mencatat suhu lemari pendingin; perlu diketahui lokasi sensor, frekuensi pencatatan, kondisi saat pintu dibuka, dan tindakan ketika terjadi penyimpangan. Produk yang memerlukan pengendalian suhu harus mengikuti ketentuan penyimpanan yang berlaku untuk jenisnya. Pengelola tidak boleh mengandalkan bau atau penampilan sebagai satu-satunya dasar penilaian.
+
+Sistem manajemen keamanan pangan mengidentifikasi bahaya biologis, kimia, dan fisik pada setiap tahap proses. Analisis bahaya mempertimbangkan kemungkinan kejadian dan tingkat konsekuensinya. Pengendalian dapat berupa persetujuan pemasok, kebersihan fasilitas, pemisahan bahan, pengendalian waktu dan suhu, serta pemeriksaan kemasan. Catatan yang baik memungkinkan penelusuran jika keluhan atau masalah ditemukan. Prosedur harus dipahami pekerja dan ditinjau ketika bahan, peralatan, atau proses berubah.
+
+Informasi label membantu konsumen memahami identitas produk, komposisi, alergen, berat bersih, petunjuk penyimpanan, dan informasi lain sesuai peraturan. Klaim gizi harus didukung metode dan ketentuan yang relevan. Desain kemasan tidak boleh membuat informasi wajib sulit dibaca. Perubahan pemasok atau formula dapat mengubah informasi yang perlu dicantumkan, sehingga proses peninjauan label harus menjadi bagian dari pengendalian perubahan.
+
+Sistem pangan mencakup produksi, pengolahan, distribusi, konsumsi, dan pengelolaan sisa. Keputusan di satu bagian memengaruhi bagian lain. Produk yang mudah rusak memerlukan koordinasi panen, transportasi, penyimpanan, dan penjualan. Pengurangan kehilangan pangan dapat dilakukan melalui perencanaan permintaan, penanganan yang sesuai, informasi penyimpanan, dan pemanfaatan produk yang masih layak menurut aturan. Pengurangan limbah tidak boleh mengorbankan keamanan.
+
+Studi kasus: pengolah buah lokal ingin memperpanjang masa simpan produk. Tim terlebih dahulu menetapkan karakteristik produk dan bahaya yang perlu dikendalikan, lalu menguji beberapa rancangan proses dengan fasilitas yang sesuai. Mereka mencatat parameter, mengambil sampel untuk pengujian yang diperlukan, menilai kemasan, dan meninjau informasi label. Produk tidak dinyatakan aman atau tahan lama hanya berdasarkan satu kali pengamatan; klaim menunggu bukti yang memadai.
+
+Latihan penerapan:
+1. Bedakan indikator mutu dan indikator keamanan pada satu produk.
+2. Buat diagram alur proses dan tandai tahap yang memerlukan pengendalian.
+3. Jelaskan mengapa perubahan skala produksi memerlukan evaluasi ulang.
+4. Susun daftar informasi yang perlu diperiksa sebelum label dicetak.
+5. Buat rencana pengurangan kehilangan pangan yang tidak mengabaikan keamanan.

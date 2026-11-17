@@ -287,3 +287,32 @@ LATIHAN
 3. Mengapa hasil klasifikasi citra perlu diuji dengan data acuan?
 4. Mengapa jarak lurus dapat menyesatkan dalam analisis akses?
 5. Sebutkan tiga risiko privasi dalam publikasi data spasial.
+
+BAB PENDALAMAN: KUALITAS DATA DAN KETELITIAN SPASIAL
+
+Peta digital sering terlihat meyakinkan karena garis, warna, dan simbol disajikan dengan rapi. Namun, kualitas tampilan tidak sama dengan kualitas data. Sebuah jalan yang tergambar tepat di layar belum tentu memiliki posisi yang akurat, atribut yang mutakhir, atau status yang benar. Karena itu, penilaian peta perlu memisahkan ketelitian posisi, kelengkapan objek, konsistensi atribut, ketepatan waktu, dan kesesuaian skala.
+
+Ketelitian posisi menjelaskan seberapa dekat koordinat objek terhadap lokasi acuan. Kesalahan dapat muncul dari alat ukur, metode digitasi, citra dasar, atau transformasi sistem koordinat. Kelengkapan berkaitan dengan objek yang seharusnya ada tetapi belum tercatat, maupun objek yang tercatat padahal sudah tidak relevan. Konsistensi atribut menilai apakah penamaan, kategori, dan format informasi digunakan secara seragam. Ketepatan waktu menjadi penting pada data yang cepat berubah seperti jaringan jalan, batas administrasi, atau fasilitas umum.
+
+Validasi dapat dilakukan melalui pemeriksaan atribut, inspeksi visual, perbandingan dengan sumber independen, serta pengambilan sampel lapangan yang sesuai dan berizin. Jangan menganggap satu sumber sebagai kebenaran mutlak. Jika dua sumber berbeda, catat perbedaan definisi, tanggal pengumpulan, skala, dan metode. Perbedaan mungkin berasal dari perubahan nyata, bukan semata-mata kesalahan salah satu pihak.
+
+Ketidakpastian perlu disampaikan dengan bahasa yang dapat dipahami. Peta inventaris awal, misalnya, dapat diberi keterangan bahwa lokasi fasilitas belum diverifikasi. Peta hasil interpretasi citra sebaiknya menjelaskan kelas yang sulit dibedakan. Hindari simbol yang memberi kesan presisi berlebihan ketika data hanya menunjukkan perkiraan. Dalam analisis jarak, jelaskan apakah jarak dihitung sebagai garis lurus, mengikuti jaringan, atau berdasarkan waktu tempuh.
+
+Metadata adalah bagian dari produk peta, bukan pekerjaan tambahan yang boleh diabaikan. Metadata minimal memuat pembuat, tanggal, sumber, sistem koordinat, skala atau resolusi, metode pengolahan, definisi atribut, lisensi, serta batas penggunaan. Catatan versi membantu pengguna mengetahui perubahan antarpembaruan. Jika data diperbaiki, simpan ringkasan perubahan sehingga hasil analisis lama dapat ditelusuri.
+
+BAB PENDALAMAN: ANALISIS JARINGAN DAN KEADILAN AKSES
+
+Analisis jaringan memandang lokasi sebagai simpul dan hubungan perjalanan sebagai sisi. Model ini dapat digunakan untuk memahami keterhubungan jalan, jalur pejalan kaki, atau layanan angkutan. Jarak terpendek tidak selalu sama dengan perjalanan terbaik. Hambatan penyeberangan, kemiringan, kondisi trotoar, jadwal layanan, dan keamanan lingkungan dapat mengubah akses nyata.
+
+Dalam kajian fasilitas publik, ukuran cakupan perlu ditafsirkan hati-hati. Lingkaran radius sederhana berguna sebagai gambaran awal, tetapi tidak menggambarkan sungai, pagar, jalan yang tidak dapat diseberangi, atau perbedaan kemampuan mobilitas. Waktu tempuh juga bergantung pada moda, jam perjalanan, dan kondisi pengguna. Karena itu, analisis yang bertanggung jawab menyatakan asumsi dan, jika memungkinkan, membandingkan beberapa skenario.
+
+Peta akses dapat membantu menemukan wilayah yang belum terlayani, tetapi tidak boleh langsung dipakai untuk memberi label buruk kepada penduduk atau lingkungan. Angka agregat dapat menyembunyikan variasi di dalam wilayah. Hasil sebaiknya dipadukan dengan konsultasi masyarakat, observasi yang etis, dan data yang melindungi privasi. Lokasi rumah individu tidak perlu dipublikasikan jika tujuan dapat dicapai dengan agregasi wilayah.
+
+BAB PENDALAMAN: KOMUNIKASI PETA UNTUK PENGAMBILAN KEPUTUSAN
+
+Peta yang efektif menjawab satu pertanyaan utama. Judul perlu menyebut tema dan wilayah, legenda menjelaskan simbol, skala memberi konteks jarak, sedangkan sumber dan tanggal memberi konteks keandalan. Warna harus memiliki makna konsisten dan tetap dapat dibedakan oleh pembaca dengan variasi persepsi warna. Jangan memakai terlalu banyak kelas hanya karena perangkat lunak menyediakannya.
+
+Pemilihan metode klasifikasi dapat mengubah kesan pola. Interval sama mudah dijelaskan, tetapi mungkin membuat sebagian besar data terkumpul pada satu kelas. Kuantil membagi jumlah observasi secara relatif merata, tetapi nilai yang sangat berbeda dapat masuk kelas berdekatan. Batas alami mencari kelompok pada distribusi, namun hasilnya tidak selalu mudah dibandingkan antarwaktu. Pilihan metode harus sesuai pertanyaan dan dijelaskan dalam keterangan.
+
+Sebelum peta dibagikan, lakukan pemeriksaan akhir: apakah wilayah dan periode sudah benar, apakah simbol terbaca, apakah sumber memiliki izin, apakah informasi pribadi terlindungi, dan apakah kesimpulan didukung data. Mintalah pembaca lain menguji apakah pesan utama dapat dipahami tanpa penjelasan lisan. Peta yang baik bukan yang paling ramai, melainkan yang membantu orang memahami bukti sekaligus batasnya.
+

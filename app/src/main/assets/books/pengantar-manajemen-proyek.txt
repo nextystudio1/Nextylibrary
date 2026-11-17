@@ -37,6 +37,8 @@ Ruang lingkup menjelaskan pekerjaan yang termasuk dan tidak termasuk proyek. Keb
 
 BAB 3. JADWAL DAN KETERGANTUNGAN
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/jadwal-proyek.svg|Contoh jadwal proyek bergaya Gantt untuk melihat durasi dan tumpang tindih kegiatan.]]
+
 Pekerjaan dipecah menjadi tugas yang lebih kecil, diperkirakan durasinya, lalu disusun menurut ketergantungan. Jadwal membantu mengidentifikasi pekerjaan kritis dan kebutuhan koordinasi. Estimasi sebaiknya mencantumkan asumsi serta ruang cadangan untuk ketidakpastian.
 
 BAB 4. BIAYA DAN SUMBER DAYA

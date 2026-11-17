@@ -35,6 +35,8 @@ Fungsi kontinu pada suatu titik jika nilai fungsi terdefinisi, limitnya ada, dan
 
 BAB 4. TURUNAN DAN LAJU PERUBAHAN
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/grafik-turunan.svg|Grafik fungsi dan garis singgung untuk memperkenalkan konsep turunan.]]
+
 Turunan menyatakan laju perubahan sesaat. Secara geometris, turunan berkaitan dengan kemiringan garis singgung grafik. Dalam gerak, turunan posisi terhadap waktu menghasilkan kecepatan, sedangkan turunan kecepatan menghasilkan percepatan. Satuan turunan bergantung pada satuan variabel yang dibandingkan.
 
 BAB 5. ATURAN TURUNAN DAN OPTIMASI

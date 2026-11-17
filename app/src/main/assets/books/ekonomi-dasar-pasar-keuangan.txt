@@ -13,6 +13,8 @@ Pilihan ekonomi dipengaruhi tujuan, informasi, pendapatan, harga, dan keadaan. K
 Insentif dapat mengubah perilaku. Insentif berupa penghargaan atau konsekuensi yang memengaruhi keputusan. Namun, respons manusia tidak selalu sama karena nilai dan keadaan tiap orang berbeda.
 
 BAB 2 — PERMINTAAN DAN PENAWARAN
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/permintaan-penawaran.svg|Model kurva permintaan dan penawaran serta titik keseimbangan pasar.]]
 Permintaan menggambarkan jumlah barang atau jasa yang bersedia dan mampu dibeli konsumen pada berbagai tingkat harga dalam periode tertentu. Faktor lain seperti pendapatan, selera, dan harga barang terkait juga memengaruhi permintaan.
 Penawaran menggambarkan jumlah barang atau jasa yang bersedia dijual produsen pada berbagai tingkat harga. Biaya produksi, teknologi, jumlah penjual, dan perkiraan masa depan dapat memengaruhinya.
 Dalam model pasar sederhana, harga keseimbangan terjadi ketika jumlah yang diminta sama dengan jumlah yang ditawarkan. Perubahan kondisi dapat menggeser kurva permintaan atau penawaran.

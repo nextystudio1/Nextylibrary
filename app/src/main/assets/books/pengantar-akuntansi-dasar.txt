@@ -34,6 +34,8 @@ LATIHAN
 
 BAB 2. PERSAMAAN DASAR
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/persamaan-akuntansi.svg|Diagram persamaan dasar akuntansi: aset sama dengan liabilitas ditambah ekuitas.]]
+
 Persamaan akuntansi dasar menyatakan aset sama dengan liabilitas ditambah ekuitas. Aset adalah sumber daya yang dikendalikan, liabilitas merupakan kewajiban, dan ekuitas adalah hak residual pemilik. Setiap transaksi memengaruhi sedikitnya dua unsur sehingga keseimbangan persamaan tetap terjaga.
 
 BAB 3. DEBIT DAN KREDIT

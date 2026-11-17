@@ -239,3 +239,48 @@ LATIHAN
 PROYEK KONSEPTUAL
 Buat peta konsep yang menghubungkan kelarutan, kesetimbangan, asam-basa, pH, dan larutan penyangga. Sertakan contoh penggunaan dalam kehidupan dan tuliskan asumsi yang digunakan pada setiap hubungan.
 
+PENDALAMAN KIMIA LARUTAN: TERMODINAMIKA, ANALISIS, DAN PENERAPAN
+
+BAB LANJUTAN: TERMODINAMIKA PELARUTAN
+
+Proses pelarutan melibatkan perubahan interaksi antara partikel zat terlarut dan pelarut. Energi diperlukan untuk memisahkan sebagian partikel awal, sementara pembentukan interaksi baru dapat melepaskan energi. Perubahan entalpi pelarutan merupakan hasil keseluruhan proses tersebut. Karena beberapa kontribusi dapat saling mengimbangi, pelarutan dapat menyerap atau melepaskan kalor.
+
+Kelarutan ditentukan oleh perubahan energi bebas, bukan hanya satu faktor energi. Entropi berkaitan dengan banyaknya susunan mikroskopis yang mungkin, sedangkan entalpi berkaitan dengan perubahan energi interaksi. Pernyataan sederhana bahwa zat “larut karena sifatnya sama” hanya aturan awal dan tidak menjelaskan seluruh kasus. Struktur molekul, suhu, tekanan, dan komposisi campuran perlu dipertimbangkan.
+
+Untuk gas dalam cairan, tekanan parsial dapat memengaruhi jumlah gas yang larut. Hukum Henry menjadi pendekatan pada kondisi tertentu, terutama untuk larutan encer dan gas yang tidak bereaksi kuat dengan pelarut. Penyimpangan dapat muncul jika terjadi reaksi kimia, konsentrasi tinggi, atau kondisi ekstrem. Model harus digunakan sesuai asumsi.
+
+BAB LANJUTAN: AKTIVITAS ION DAN KEKUATAN IONIK
+
+Dalam larutan sangat encer, konsentrasi sering digunakan sebagai pendekatan aktivitas. Pada larutan yang lebih pekat, interaksi antarion membuat perilaku menyimpang dari model ideal. Aktivitas menggambarkan konsentrasi efektif dalam persamaan kesetimbangan. Koefisien aktivitas menghubungkan keduanya dan bergantung pada komposisi serta kondisi larutan.
+
+Kekuatan ionik merangkum pengaruh muatan dan konsentrasi ion dalam larutan. Dua larutan dengan konsentrasi total serupa dapat memiliki kekuatan ionik berbeda jika muatan ionnya berbeda. Konsep ini penting dalam kesetimbangan, pengendapan, dan sistem biologis. Perhitungan tingkat lanjut memerlukan model dan data yang sesuai; angka hasil pendekatan tidak boleh disajikan seolah-olah pengukuran langsung.
+
+BAB LANJUTAN: TITRASI DAN PEMILIHAN INDIKATOR
+
+Titrasi merupakan metode analisis untuk menentukan jumlah zat berdasarkan reaksi dengan larutan standar. Titik ekuivalen adalah keadaan ketika jumlah pereaksi sesuai perbandingan stoikiometri reaksi. Titik akhir adalah perubahan sinyal yang diamati, misalnya perubahan warna indikator. Keduanya diupayakan berdekatan, tetapi tidak selalu identik.
+
+Pemilihan indikator bergantung pada rentang perubahan warna dan bentuk kurva titrasi. Indikator yang sesuai untuk titrasi asam kuat dengan basa kuat belum tentu cocok untuk pasangan asam lemah dan basa kuat. Pada analisis instrumental, perubahan pH dapat dipantau menggunakan alat yang dikalibrasi. Kualitas hasil bergantung pada konsentrasi standar, kebersihan peralatan, pembacaan, dan pengulangan yang tepat.
+
+Hasil analisis sebaiknya dilaporkan dengan satuan, angka penting, metode, kondisi, dan ketidakpastian. Jika hasil pengulangan berbeda, jangan hanya memilih angka yang paling sesuai harapan. Periksa kemungkinan kesalahan sistematis, variasi acak, dan keterbatasan metode.
+
+BAB LANJUTAN: SISTEM PENYANGGA DALAM BIOLOGI DAN LINGKUNGAN
+
+Sistem penyangga membantu membatasi perubahan pH pada rentang tertentu. Dalam organisme, kestabilan pH dipertahankan melalui beberapa sistem yang saling berhubungan, termasuk penyangga kimia dan pengaturan fisiologis. Satu persamaan sederhana tidak menggambarkan keseluruhan pengaturan tubuh. Pembahasan kimia harus dibedakan dari penilaian atau penanganan kondisi medis.
+
+Di lingkungan perairan, pH memengaruhi bentuk kimia zat terlarut dan organisme. Kapasitas penyangga air bergantung pada komposisi mineral dan sistem karbonat. Perubahan masukan asam atau basa dapat berdampak berbeda pada perairan dengan kapasitas penyangga tinggi dan rendah. Pengukuran pH sesaat perlu dilengkapi informasi suhu, waktu, lokasi, dan kondisi sampel.
+
+Dalam pangan, pH dan kapasitas penyangga memengaruhi rasa, tekstur, kestabilan, serta proses pengolahan. Namun pH saja tidak cukup untuk menyatakan suatu produk aman. Keamanan pangan bergantung pada banyak faktor dan harus mengikuti standar serta prosedur pengawasan yang sesuai.
+
+BAB LANJUTAN: KUALITAS DATA DAN KESELAMATAN PEMBELAJARAN KIMIA
+
+Pengukuran larutan memerlukan alat yang sesuai, kalibrasi, pencatatan kondisi, dan pengelolaan limbah. Label bahan harus dibaca dan instruksi pengajar atau laboratorium diikuti. Jangan mencampur bahan yang tidak diketahui, mencicipi bahan, atau melakukan percobaan di luar fasilitas yang sesuai. Materi konseptual tidak menggantikan prosedur keselamatan resmi.
+
+Data kimia perlu mencantumkan satuan, suhu, metode, dan batas deteksi jika relevan. Angka pH dari alat yang tidak dikalibrasi tidak dapat dibandingkan begitu saja dengan hasil laboratorium. Sampel yang berubah selama penyimpanan dapat menghasilkan nilai berbeda dari kondisi awal. Catatan pengambilan dan penanganan sampel menjadi bagian dari mutu data.
+
+LATIHAN PENDALAMAN
+
+1. Mengapa entalpi saja tidak cukup menjelaskan apakah proses pelarutan berlangsung spontan?
+2. Apa perbedaan konsentrasi dan aktivitas?
+3. Bedakan titik ekuivalen dan titik akhir titrasi.
+4. Mengapa pH air perlu dikaitkan dengan komposisi dan kondisi sampel?
+5. Sebutkan informasi yang harus dicatat agar hasil pengukuran dapat dievaluasi.

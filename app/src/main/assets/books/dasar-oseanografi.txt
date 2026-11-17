@@ -340,3 +340,25 @@ LATIHAN PENDALAMAN
 4. Susun metadata minimum untuk pengukuran suhu laut.
 5. Buat kerangka pengelolaan teluk dengan indikator ekologi dan sosial.
 
+BAB LANJUTAN: DINAMIKA PESISIR, PENGAMATAN LAUT, DAN PENGELOLAAN WILAYAH
+
+Perairan laut tidak bersifat seragam. Suhu, salinitas, kedalaman, arus, dan bentuk dasar laut berubah menurut tempat serta waktu. Lapisan permukaan menerima energi matahari dan dipengaruhi angin, sedangkan lapisan lebih dalam dapat memiliki kondisi yang berbeda. Perubahan densitas membantu menjelaskan pembentukan massa air dan sirkulasi vertikal. Pengamatan satu titik pada satu waktu karena itu tidak cukup untuk menggambarkan seluruh perairan. Rancangan pengamatan perlu mempertimbangkan kedalaman, musim, pasang surut, dan kondisi cuaca.
+
+Arus laut dapat dipengaruhi angin, perbedaan densitas, pasang surut, bentuk pantai, dan rotasi bumi. Arus membawa panas, zat hara, organisme, serta material terlarut. Di beberapa wilayah, naiknya air dari lapisan lebih dalam membawa nutrien ke permukaan dan dapat mendukung produktivitas biologis. Namun, perubahan pola arus juga dapat memengaruhi penyebaran pencemar dan larva. Peta arus sebaiknya dibaca bersama data suhu, salinitas, angin, dan topografi dasar laut.
+
+Gelombang membawa energi melintasi perairan, sementara gerak partikel air memiliki pola yang bergantung pada kedalaman dan karakter gelombang. Ketika gelombang memasuki perairan dangkal, bentuk dan arahnya berubah akibat interaksi dengan dasar laut. Proses ini memengaruhi abrasi, pengendapan, dan perubahan garis pantai. Pengamatan garis pantai perlu menggunakan titik acuan, waktu pengukuran, dan metode yang konsisten. Perubahan musiman tidak boleh langsung dianggap sebagai tren jangka panjang.
+
+Pasang surut merupakan perubahan muka laut yang terutama berkaitan dengan gaya gravitasi bulan dan matahari serta bentuk cekungan perairan. Rentang pasang dapat berbeda antarlokasi. Informasi pasang penting untuk keselamatan pelayaran, kegiatan pesisir, pengamatan ekosistem intertidal, dan perencanaan fasilitas pantai. Catatan pasang perlu menyertakan waktu, datum acuan, lokasi, serta kondisi alat. Angka tinggi muka air tanpa datum yang jelas sulit dibandingkan.
+
+Ekosistem pesisir seperti mangrove, padang lamun, terumbu karang, dan dataran lumpur menyediakan habitat serta berbagai jasa ekosistem. Setiap ekosistem memiliki kebutuhan fisik dan biologis berbeda. Mangrove dapat meredam energi gelombang dalam kondisi tertentu, menyimpan karbon, dan menjadi tempat pembesaran organisme. Lamun membantu menstabilkan sedimen dan menyediakan habitat, sementara terumbu karang membentuk struktur kompleks yang mendukung keanekaragaman. Perlindungan tidak cukup dilakukan dengan menanam atau membangun struktur; kualitas air, konektivitas habitat, dan tekanan kegiatan manusia juga perlu ditangani.
+
+Pemantauan laut menggabungkan pengukuran lapangan, citra penginderaan jauh, catatan kapal, sensor otomatis, dan pengetahuan masyarakat pesisir. Setiap metode memiliki keterbatasan. Sensor harus dikalibrasi, lokasi harus dicatat dengan sistem koordinat yang jelas, dan data yang hilang perlu ditandai. Citra satelit dapat membantu melihat pola luas, tetapi tidak selalu menggantikan pengukuran langsung, terutama untuk parameter di bawah permukaan. Penggabungan data harus memperhatikan perbedaan resolusi dan waktu pengamatan.
+
+Studi kasus: sebuah teluk menerima limpasan dari sungai, kegiatan pelabuhan, dan permukiman. Tim pemantau menetapkan beberapa stasiun dari muara hingga mulut teluk, mengukur parameter yang relevan pada waktu pasang berbeda, dan mencatat kondisi cuaca. Hasil dibandingkan dengan data sebelumnya serta informasi kegiatan di sekitar lokasi. Tim tidak menyimpulkan sumber pencemar hanya dari satu parameter; mereka menyusun hipotesis dan merekomendasikan pengamatan lanjutan sebelum menentukan tindakan.
+
+Latihan penerapan:
+1. Buat rancangan stasiun pengamatan untuk teluk dengan tiga jenis penggunaan lahan.
+2. Jelaskan mengapa datum diperlukan pada data tinggi muka laut.
+3. Bandingkan kemampuan citra satelit dan pengukuran lapangan.
+4. Susun indikator kondisi habitat pesisir yang dapat dipantau berkala.
+5. Buat catatan metadata minimum untuk satu seri pengukuran oseanografi.

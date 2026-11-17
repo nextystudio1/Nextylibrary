@@ -349,3 +349,44 @@ Mitigasi mengurangi emisi atau meningkatkan penyerapannya. Pilihan mencakup efis
 
 Transisi yang adil memperhatikan pekerja, rumah tangga berpendapatan rendah, masyarakat di wilayah penghasil energi, dan akses terhadap layanan. Program pelatihan, perlindungan pendapatan, dialog publik, dan investasi alternatif dapat membantu mengelola perubahan. Evaluasi kebijakan menggunakan indikator keluaran dan dampak, serta memeriksa apakah manfaat dan beban terbagi secara wajar.
 
+BAB LANJUTAN: ADAPTASI, MITIGASI, DAN PERENCANAAN KETAHANAN
+
+Membedakan bahaya, paparan, dan kerentanan
+
+Risiko iklim terbentuk dari interaksi bahaya, paparan, dan kerentanan. Bahaya dapat berupa gelombang panas, hujan ekstrem, kekeringan, kenaikan muka laut, atau perubahan pola musim. Paparan menjelaskan manusia, infrastruktur, ekosistem, dan kegiatan ekonomi yang berada di lokasi terdampak. Kerentanan mencakup sensitivitas serta kemampuan untuk mengantisipasi, merespons, dan pulih. Dua wilayah yang menerima hujan dengan intensitas serupa dapat mengalami dampak berbeda karena tata ruang, kualitas drainase, kondisi rumah, kesehatan, dan akses informasi tidak sama.
+
+Pemetaan risiko harus menjelaskan skala dan sumber data. Peta bahaya bukan ramalan bahwa setiap rumah di dalam batas tertentu pasti mengalami kerusakan. Peta tersebut merupakan alat untuk mengidentifikasi pola dan menentukan pemeriksaan lanjutan. Data lapangan dari warga, pengelola fasilitas, dan petugas kebencanaan dapat melengkapi pengamatan satelit atau catatan cuaca, dengan tetap memperhatikan kualitas dan keterbatasannya.
+
+Adaptasi berbasis ekosistem
+
+Ekosistem dapat membantu mengurangi risiko sekaligus mendukung keanekaragaman hayati. Mangrove dapat meredam sebagian energi gelombang dan menyediakan habitat, sementara lahan basah dapat menahan air. Pepohonan kota memberi keteduhan dan membantu menurunkan paparan panas. Namun, solusi berbasis alam bukan pengganti seluruh infrastruktur perlindungan. Keberhasilannya bergantung pada kondisi lokasi, luas, konektivitas ekosistem, pemeliharaan, dan keterlibatan masyarakat.
+
+Program restorasi perlu menghindari penanaman simbolis tanpa rencana jangka panjang. Pilih spesies sesuai kondisi ekologis setempat, pulihkan proses alam, dan pantau kelangsungan hidup serta fungsi ekosistem. Indikator tidak cukup berupa jumlah bibit yang ditanam. Ukur tutupan, keanekaragaman, kualitas habitat, manfaat bagi warga, dan kemungkinan dampak yang tidak diinginkan.
+
+Ketahanan kota terhadap panas
+
+Gelombang panas berdampak pada kesehatan, produktivitas, kebutuhan listrik, dan kenyamanan ruang publik. Kelompok yang bekerja di luar ruangan, anak-anak, lansia, serta orang dengan keterbatasan akses pendinginan dapat menghadapi risiko lebih tinggi. Pemerintah kota dapat menggabungkan peringatan dini, ruang teduh, akses air minum, desain bangunan pasif, dan prosedur perlindungan pekerja.
+
+Pemetaan suhu perlu dilakukan pada waktu dan kondisi yang dapat dibandingkan. Permukaan aspal, atap, taman, dan badan air memiliki karakter termal berbeda. Pengukuran satu titik pada satu hari tidak cukup untuk menyimpulkan kondisi seluruh kota. Data sensor dapat dipadukan dengan pengamatan lapangan dan informasi penggunaan ruang, lalu hasilnya digunakan untuk menentukan prioritas peneduhan.
+
+Adaptasi pertanian dan ketahanan pangan
+
+Perubahan pola hujan dan suhu dapat memengaruhi kalender tanam, kebutuhan air, tekanan organisme pengganggu, dan hasil panen. Petani membutuhkan informasi iklim yang dapat diterjemahkan menjadi keputusan praktis, bukan hanya grafik jangka panjang. Sistem penyuluhan dapat menyampaikan prakiraan musiman beserta tingkat ketidakpastiannya, pilihan varietas yang sesuai, pengelolaan tanah, dan strategi diversifikasi.
+
+Diversifikasi tanaman dan sumber pendapatan dapat mengurangi ketergantungan pada satu komoditas, tetapi harus mempertimbangkan pasar, tenaga kerja, akses benih, serta pengetahuan lokal. Infrastruktur penyimpanan dan distribusi juga penting karena kehilangan pangan dapat terjadi setelah panen. Ketahanan pangan tidak hanya menyangkut jumlah produksi, tetapi juga keterjangkauan, mutu gizi, dan kestabilan akses.
+
+Mitigasi di sektor energi dan penggunaan lahan
+
+Mitigasi mengurangi sumber emisi atau meningkatkan penyerapan gas rumah kaca. Efisiensi energi, elektrifikasi yang didukung pasokan rendah emisi, transportasi publik, pengurangan kebocoran, dan perlindungan ekosistem merupakan contoh arah kebijakan. Setiap pilihan perlu dinilai berdasarkan daur hidup, kebutuhan material, dampak lokal, dan kemampuan sistem pendukung.
+
+Penghitungan emisi harus menetapkan batas sistem dan tahun dasar. Emisi langsung dari fasilitas berbeda dari emisi tidak langsung yang berasal dari listrik atau rantai pasok. Perubahan batas pelaporan dapat membuat angka terlihat turun tanpa perubahan nyata. Karena itu, metode, faktor emisi, asumsi, dan ketidakpastian perlu dijelaskan agar perbandingan dapat dipertanggungjawabkan.
+
+Menyusun rencana adaptasi lokal
+
+Rencana adaptasi dapat dimulai dengan mengidentifikasi layanan penting: air bersih, kesehatan, sekolah, transportasi, energi, dan komunikasi. Untuk setiap layanan, catat gangguan iklim yang relevan, lokasi aset, kelompok yang bergantung padanya, serta pilihan pengurangan risiko. Susun urutan prioritas dengan mempertimbangkan besarnya dampak, urgensi, biaya, manfaat tambahan, dan keadilan.
+
+Rencana harus memiliki penanggung jawab, jadwal, sumber pendanaan, indikator, dan mekanisme peninjauan. Indikator proses seperti jumlah pelatihan perlu dipasangkan dengan indikator hasil seperti berkurangnya gangguan layanan atau meningkatnya akses peringatan. Libatkan warga sejak awal karena pengetahuan tentang genangan, panas, sumber air, dan aksesibilitas sering tersebar di komunitas.
+
+Latihan studi kasus
+
+Bayangkan sebuah kawasan pesisir mengalami banjir rob lebih sering. Tim lokal memetakan titik genangan, memeriksa kondisi drainase, mendata fasilitas penting, dan berdiskusi dengan kelompok nelayan serta warga lanjut usia. Alternatifnya dapat mencakup perlindungan ekosistem pesisir, perbaikan jalur evakuasi, peninggian fasilitas tertentu, sistem peringatan, dan pengaturan pembangunan. Bandingkan manfaat, biaya pemeliharaan, dampak pada mata pencaharian, serta risiko memindahkan masalah ke wilayah tetangga. Hasil akhirnya berupa rencana bertahap yang dapat diperbarui ketika data baru tersedia.

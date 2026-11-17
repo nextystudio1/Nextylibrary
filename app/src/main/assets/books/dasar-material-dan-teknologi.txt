@@ -349,3 +349,45 @@ PERTANYAAN
 3. Mengapa kondisi pengujian perlu dicantumkan dalam klaim umur pakai?
 4. Mengapa kemampuan didaur ulang tidak menjamin daur ulang terjadi?
 5. Bagaimana desain untuk perbaikan mendukung ekonomi sirkular?
+
+BAB PENDALAMAN: STRUKTUR MIKRO DAN SIFAT MATERIAL
+
+Sifat material dipengaruhi komposisi dan susunan internalnya. Pada logam, susunan kristal, batas butir, dan cacat memengaruhi deformasi serta kekuatan. Pada keramik, ikatan dan struktur dapat menghasilkan kekerasan serta ketahanan panas, tetapi juga perilaku getas. Pada polimer, panjang rantai, percabangan, dan susunan molekul memengaruhi kelenturan, suhu penggunaan, dan sifat mekanik.
+
+Hubungan struktur dan sifat menjelaskan mengapa dua bahan dengan komposisi mirip dapat memiliki perilaku berbeda setelah proses manufaktur yang berbeda. Perlakuan panas, pendinginan, orientasi serat, atau proses pembentukan dapat mengubah susunan internal. Karena itu, nama material saja tidak cukup untuk memprediksi kinerja; kondisi proses dan spesifikasi produk juga perlu diketahui.
+
+Komposit menggabungkan dua atau lebih bahan untuk memperoleh kombinasi sifat tertentu. Matriks mengikat atau melindungi penguat, sementara penguat dapat meningkatkan kekakuan atau kekuatan pada arah tertentu. Komposit tidak otomatis lebih unggul karena arah beban, kerusakan, perbaikan, dan pemisahan material pada akhir masa pakai perlu dipertimbangkan.
+
+BAB PENDALAMAN: KEGAGALAN DAN KEANDALAN
+
+Kegagalan material dapat terjadi akibat beban berlebih, kelelahan akibat beban berulang, korosi, keausan, perubahan suhu, atau kombinasi beberapa faktor. Kelelahan dapat berkembang meskipun beban tiap siklus tidak melampaui kekuatan maksimum yang tercantum pada spesifikasi. Lingkungan penggunaan dan riwayat beban menjadi bagian penting dalam analisis.
+
+Keandalan adalah kemampuan suatu sistem menjalankan fungsi yang diharapkan dalam kondisi dan periode tertentu. Keandalan tidak hanya ditentukan oleh satu komponen. Sambungan, perakitan, toleransi, cara penggunaan, dan pemeliharaan dapat memengaruhi kinerja keseluruhan. Analisis kegagalan yang baik memeriksa bukti, urutan kejadian, kondisi operasi, dan kemungkinan penyebab tanpa langsung menyalahkan pengguna.
+
+Dalam produk konsumen, keselamatan harus mengikuti standar dan pengujian yang sesuai. Pemeriksaan visual sederhana tidak dapat menggantikan pengujian teknis. Perubahan pada komponen struktural, listrik, atau bagian yang menahan beban perlu ditangani tenaga kompeten. Pembelajaran dasar sebaiknya menggunakan studi kasus dan data yang telah disediakan.
+
+BAB PENDALAMAN: MANUFAKTUR DAN TOLERANSI
+
+Proses manufaktur dipilih berdasarkan material, bentuk, jumlah produksi, kualitas, biaya, dan kebutuhan akhir. Pengecoran cocok untuk bentuk tertentu, pemesinan menghilangkan material untuk mencapai geometri, pembentukan mengubah bentuk melalui gaya, sedangkan manufaktur aditif membangun objek lapis demi lapis. Tiap proses memiliki batas ukuran, ketelitian, kecepatan, dan kebutuhan pascaproses.
+
+Toleransi menyatakan variasi dimensi yang masih dapat diterima agar komponen berfungsi. Toleransi terlalu ketat dapat meningkatkan biaya dan tingkat produk yang ditolak. Toleransi terlalu longgar dapat menyebabkan sambungan tidak cocok atau fungsi tidak tercapai. Penetapan toleransi harus berdasarkan kebutuhan fungsi, kemampuan proses, dan metode pemeriksaan.
+
+Kontrol kualitas tidak hanya dilakukan pada produk akhir. Pemeriksaan bahan masuk, pemantauan proses, kalibrasi alat ukur, dan dokumentasi perubahan dapat mencegah masalah berulang. Data cacat perlu dianalisis untuk menemukan pola, bukan hanya menghitung jumlah produk yang gagal. Perbaikan proses sebaiknya diuji dan hasilnya dipantau.
+
+BAB PENDALAMAN: MATERIAL DAN KEBERLANJUTAN
+
+Dampak material mencakup ekstraksi sumber daya, penggunaan energi dan air, emisi, transportasi, umur pakai, serta akhir masa penggunaan. Penilaian perlu membandingkan produk dengan fungsi setara dan menyebut batas analisis. Bahan yang dapat didaur ulang belum tentu benar-benar didaur ulang jika sistem pengumpulan dan pemrosesan tidak tersedia.
+
+Desain untuk pembongkaran dapat memudahkan pemisahan komponen dan perbaikan. Penggunaan sambungan yang dapat dilepas, penandaan material, dan pengurangan campuran yang sulit dipisahkan dapat membantu. Namun, kemudahan pembongkaran harus tetap memenuhi kebutuhan keselamatan, kekuatan, dan ketahanan produk.
+
+Ekonomi sirkular menekankan pemeliharaan nilai bahan dan produk melalui penggunaan lebih lama, perbaikan, penggunaan kembali, dan pemulihan material. Strategi yang tepat berbeda menurut produk dan kondisi lokal. Keberhasilan perlu diukur dengan data nyata seperti umur guna, tingkat perbaikan, ketersediaan suku cadang, dan jumlah material yang benar-benar dipulihkan.
+
+LATIHAN DAN PROYEK
+
+1. Bagaimana struktur mikro memengaruhi sifat material?
+2. Bedakan kelelahan material dan beban berlebih.
+3. Mengapa toleransi yang lebih ketat tidak selalu lebih baik?
+4. Apa perbedaan beberapa kelompok proses manufaktur?
+5. Mengapa potensi daur ulang berbeda dari daur ulang aktual?
+
+Proyek: susun studi pemilihan material untuk produk penyimpanan alat belajar. Buat matriks fungsi, sifat, proses produksi, biaya, pemeliharaan, dan akhir masa pakai. Gunakan spesifikasi dan sumber terbuka, tuliskan asumsi, lalu jelaskan mengapa pilihan akhir sesuai konteks penggunaan.

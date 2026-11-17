@@ -10,6 +10,8 @@ Setelah mempelajari buku ini, pembaca diharapkan mampu menjelaskan besaran gelom
 
 BAB 1. GETARAN DAN GELOMBANG
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/gelombang.svg|Ilustrasi puncak, lembah, amplitudo, dan panjang gelombang.]]
+
 Getaran adalah gerak bolak-balik di sekitar posisi keseimbangan. Gelombang membawa energi dari satu tempat ke tempat lain tanpa memindahkan materi secara keseluruhan. Besaran penting meliputi amplitudo, periode, frekuensi, panjang gelombang, dan cepat rambat.
 
 CONTOH PENERAPAN

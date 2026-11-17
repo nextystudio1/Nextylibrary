@@ -10,6 +10,8 @@ Setelah mempelajari buku ini, pembaca diharapkan mampu mengenali sifat bangun da
 
 BAB 1. BENTUK DAN RUANG
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/bangun-ruang.svg|Contoh bangun ruang kubus, balok, tabung, dan kerucut.]]
+
 Geometri mempelajari bentuk, ukuran, posisi, dan hubungan ruang. Titik menyatakan posisi, garis memiliki panjang tanpa lebar, dan bidang memiliki dua dimensi. Segitiga memiliki jumlah sudut dalam 180 derajat; persegi memiliki empat sisi sama panjang dan empat sudut siku-siku. Lingkaran ditentukan oleh jari-jari dan diameter. Pada bangun ruang, prisma dan tabung memiliki dua bidang alas sejajar, sedangkan bola memiliki satu permukaan lengkung. Memahami sifat ini membantu memilih rumus yang tepat.
 
 CONTOH PENERAPAN

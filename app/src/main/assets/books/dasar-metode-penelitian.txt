@@ -10,6 +10,8 @@ Buku ini membahas proses penelitian dari perumusan masalah hingga komunikasi has
 
 BAB 1. PERTANYAAN DAN TUJUAN
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/alur-penelitian.svg|Alur penelitian dari pertanyaan hingga analisis dan pelaporan.]]
+
 Penelitian dimulai dari masalah yang dapat dikaji. Pertanyaan yang baik jelas, terfokus, dan dapat dijawab dengan metode yang sesuai. Tujuan menjelaskan hasil yang ingin dicapai. Ruang lingkup perlu dibatasi agar penelitian dapat diselesaikan dengan sumber daya tersedia.
 
 PENDALAMAN

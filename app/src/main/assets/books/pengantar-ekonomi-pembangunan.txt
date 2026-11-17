@@ -257,3 +257,41 @@ LATIHAN BAB 20
 3. Mengapa layanan publik digital tetap memerlukan alternatif bantuan?
 4. Apa saja indikator inklusi digital selain jumlah koneksi?
 5. Rancang program sederhana untuk meningkatkan kemampuan digital komunitas lokal.
+
+BAB 21. MODAL MANUSIA, PENDIDIKAN, DAN PRODUKTIVITAS
+
+Modal manusia mencakup pengetahuan, keterampilan, kesehatan, dan kemampuan yang mendukung partisipasi dalam kegiatan sosial serta ekonomi. Pendidikan dapat meningkatkan kemampuan membaca, berhitung, berpikir kritis, dan mempelajari teknologi baru. Namun, lama sekolah saja tidak selalu menggambarkan mutu pembelajaran. Ketersediaan guru, bahan ajar, lingkungan aman, relevansi kurikulum, dan kesempatan menerapkan keterampilan ikut menentukan hasil.
+
+Produktivitas menggambarkan keluaran yang dihasilkan dibandingkan sumber daya yang digunakan. Peningkatan produktivitas dapat berasal dari keterampilan, teknologi, organisasi kerja, infrastruktur, dan kualitas manajemen. Produktivitas tidak boleh dijadikan satu-satunya ukuran kesejahteraan. Pertumbuhan output yang disertai kondisi kerja buruk, ketidakamanan, atau kerusakan lingkungan belum tentu merupakan pembangunan yang berkualitas.
+
+Investasi pendidikan memiliki manfaat pribadi dan sosial. Individu dapat memperoleh kemampuan dan peluang kerja, sementara masyarakat mendapat manfaat dari pengetahuan, partisipasi warga, dan inovasi. Akan tetapi, akses dan hasil pendidikan dapat berbeda menurut wilayah, pendapatan, disabilitas, dan kondisi keluarga. Kebijakan perlu memperhatikan biaya langsung maupun tidak langsung, termasuk transportasi, perangkat, dan waktu.
+
+Evaluasi program pendidikan dapat mengukur akses, kehadiran, penyelesaian, kemampuan yang dikuasai, dan transisi ke tahap berikutnya. Indikator perlu dipisahkan menurut kelompok yang relevan dengan perlindungan privasi. Angka rata-rata dapat menutupi kelompok yang tertinggal. Pengukuran juga harus menghindari insentif yang mendorong lembaga mengejar angka sambil mengabaikan kualitas pengalaman belajar.
+
+BAB 22. KELEMBAGAAN, TATA KELOLA, DAN PEMBANGUNAN
+
+Institusi adalah aturan formal dan informal yang membentuk perilaku serta interaksi masyarakat. Aturan formal mencakup hukum, kebijakan, dan prosedur, sedangkan aturan informal mencakup norma, kepercayaan, dan kebiasaan. Kualitas institusi memengaruhi kepastian, koordinasi, penggunaan sumber daya, dan kepercayaan. Namun, institusi tidak berdiri di luar masyarakat; perubahan sosial dan ekonomi dapat mendorong perubahan aturan.
+
+Tata kelola yang baik membutuhkan transparansi, akuntabilitas, partisipasi, kepastian hukum, dan kemampuan melaksanakan keputusan. Transparansi berarti informasi penting dapat diakses dalam bentuk yang dapat dipahami. Akuntabilitas berarti pengambil keputusan dapat menjelaskan tindakan dan menerima pemeriksaan. Partisipasi perlu memberi ruang bagi kelompok terdampak, bukan hanya pihak yang memiliki sumber daya besar untuk hadir.
+
+Korupsi dan konflik kepentingan dapat mengalihkan sumber daya dari tujuan publik serta merusak kepercayaan. Pencegahan membutuhkan prosedur pengadaan yang jelas, pencatatan keputusan, pemisahan kewenangan, pengawasan, dan mekanisme pelaporan yang aman. Sistem pengawasan harus dirancang agar dapat diperiksa tanpa membuka data pribadi secara berlebihan.
+
+Desentralisasi dapat mendekatkan keputusan kepada kebutuhan lokal, tetapi hasilnya bergantung pada kapasitas, pendanaan, koordinasi, dan pengawasan. Daerah dengan basis pendapatan berbeda dapat memiliki kemampuan layanan yang tidak sama. Kebijakan transfer fiskal dan standar layanan dapat membantu mengurangi kesenjangan, sementara ruang penyesuaian lokal memungkinkan solusi sesuai konteks.
+
+BAB 23. URBANISASI, PERUMAHAN, DAN EKONOMI WILAYAH
+
+Urbanisasi berkaitan dengan perpindahan penduduk, pertumbuhan kegiatan ekonomi, perubahan penggunaan lahan, dan perluasan hubungan antara kota serta wilayah sekitarnya. Kota dapat menawarkan pekerjaan, pendidikan, dan layanan, tetapi juga menghadapi tekanan perumahan, transportasi, sanitasi, dan lingkungan. Analisis perlu melihat hubungan kota dengan desa pemasok pangan, tenaga kerja, air, dan sumber daya.
+
+Harga lahan dan perumahan dipengaruhi lokasi, akses transportasi, layanan, aturan tata ruang, dan permintaan. Pembangunan infrastruktur dapat meningkatkan akses, tetapi juga menaikkan nilai lahan dan mendorong perpindahan warga jika perlindungan tidak memadai. Kebijakan perumahan perlu mempertimbangkan keterjangkauan, keamanan bermukim, kualitas bangunan, dan akses ke pekerjaan serta layanan.
+
+Ekonomi wilayah tidak selalu mengikuti batas administrasi. Orang dapat tinggal di satu daerah dan bekerja di daerah lain, sementara rantai pasok melintasi banyak wilayah. Perencanaan perlu koordinasi lintas daerah dalam transportasi, pengelolaan air, sampah, dan perlindungan ekosistem. Data perjalanan, penggunaan lahan, dan akses layanan dapat membantu memahami pola tersebut.
+
+LATIHAN
+1. Mengapa lama sekolah tidak cukup untuk mengukur mutu pendidikan?
+2. Jelaskan hubungan transparansi dan akuntabilitas.
+3. Apa tantangan desentralisasi layanan publik?
+4. Bagaimana pembangunan transportasi dapat memengaruhi harga lahan?
+5. Mengapa perencanaan ekonomi wilayah memerlukan koordinasi lintas batas?
+
+PROYEK
+Pilih satu isu pembangunan di wilayah yang dikenal secara umum, misalnya akses pendidikan, transportasi, atau perumahan. Gunakan data publik yang sah, petakan kelompok terdampak, jelaskan keterbatasan data, dan susun beberapa pilihan kebijakan. Bandingkan manfaat, biaya, pemerataan, serta risiko pelaksanaan tanpa menganggap satu indikator mewakili seluruh kesejahteraan.

@@ -175,3 +175,33 @@ Dokumentasi yang berguna mencakup tujuan sistem, data yang dipakai, asumsi, bata
 
 LATIHAN ANALISIS
 Pilih satu layanan digital yang dikenal. Buat diagram siklus hidupnya dari perencanaan sampai penghentian. Pada setiap tahap, tulis dua keputusan etis, pihak yang bertanggung jawab, bukti yang diperlukan, dan satu mekanisme koreksi. Akhiri dengan rekomendasi yang menyebut manfaat, risiko tersisa, dan alasan keputusan.
+BAB LANJUTAN 1. ETIKA DALAM SIKLUS HIDUP PRODUK DIGITAL
+
+Pertimbangan etis sebaiknya hadir sejak perumusan masalah, bukan ditambahkan setelah produk selesai. Pada tahap riset, tim perlu menjelaskan tujuan pengumpulan data dan menghindari pertanyaan yang tidak relevan. Pada tahap desain, pilihan bawaan, notifikasi, dan alur persetujuan dapat memengaruhi kebebasan pengguna. Pada tahap peluncuran, organisasi harus menyiapkan mekanisme pengaduan, koreksi, dan penghentian fitur yang menimbulkan risiko serius.
+
+Penilaian dampak dapat menggunakan daftar pihak terdampak: pengguna langsung, orang yang datanya ikut terekam, pekerja yang menjalankan sistem, komunitas sekitar, serta kelompok yang sulit menyampaikan keberatan. Untuk setiap kelompok, catat manfaat, potensi kerugian, kemungkinan terjadinya, tingkat keparahan, dan langkah pengurangan risiko. Matriks risiko membantu memprioritaskan perhatian, tetapi tidak menggantikan diskusi dengan pihak terdampak.
+
+Contoh: aplikasi sekolah menawarkan analisis kebiasaan belajar. Data waktu akses mungkin berguna untuk memahami pola penggunaan, tetapi dapat disalahartikan sebagai ukuran kedisiplinan atau kemampuan. Sebelum menggunakan data untuk keputusan penting, tim harus memeriksa validitas indikator, konteks siswa, akses yang diberikan, masa penyimpanan, dan cara mengoreksi data yang keliru.
+
+BAB LANJUTAN 2. PERSETUJUAN, PILIHAN, DAN DESAIN YANG TIDAK MANIPULATIF
+
+Persetujuan yang bermakna memerlukan informasi yang mudah dipahami, tujuan yang spesifik, dan pilihan yang tidak menyesatkan. Tombol menerima tidak seharusnya dibuat sangat menonjol sementara penolakan disembunyikan melalui banyak langkah. Pola desain yang sengaja mendorong pengguna mengambil keputusan yang tidak mereka inginkan sering disebut pola manipulatif. Contohnya dapat berupa biaya yang baru ditampilkan di akhir, pilihan berhenti berlangganan yang sengaja dipersulit, atau persetujuan yang digabung dengan hal yang tidak berkaitan.
+
+Desain yang menghormati pengguna menjelaskan konsekuensi pilihan, menyediakan pengaturan yang mudah ditemukan, dan tidak menghukum pengguna karena menolak pengumpulan data yang tidak diperlukan. Persetujuan juga bukan pembenaran otomatis untuk semua pemrosesan; organisasi tetap perlu menilai dasar, kebutuhan, proporsionalitas, keamanan, dan kewajiban hukum yang berlaku.
+
+Aksesibilitas merupakan bagian dari etika desain. Informasi tidak boleh hanya dibedakan dengan warna; teks perlu memiliki kontras memadai, kontrol dapat diakses dengan papan ketik atau teknologi bantu, dan pesan kesalahan harus menjelaskan cara memperbaiki masalah. Pengujian harus melibatkan variasi kemampuan, perangkat, bahasa, dan kondisi jaringan.
+
+BAB LANJUTAN 3. KECERDASAN BUATAN, OTOMASI, DAN TANGGUNG JAWAB
+
+Sistem kecerdasan buatan belajar pola dari data dan menghasilkan prediksi atau rekomendasi. Hasilnya dapat dipengaruhi kualitas data, tujuan optimasi, representasi kelompok, serta perubahan kondisi setelah peluncuran. Akurasi rata-rata tidak cukup untuk menyatakan sistem adil. Evaluasi perlu membandingkan kesalahan pada kelompok relevan dan menilai konsekuensi dari setiap jenis kesalahan.
+
+Keputusan otomatis berisiko tinggi perlu memiliki pengawasan manusia yang benar-benar mampu memahami konteks dan mengubah keputusan. Pengawasan semu terjadi ketika petugas hanya menekan setuju tanpa waktu, informasi, atau wewenang untuk menilai. Catatan keputusan, versi model, sumber data, dan alasan tindakan perlu disimpan secara proporsional agar masalah dapat ditelusuri tanpa mengumpulkan data berlebihan.
+
+Ketika sistem menghasilkan kesalahan, tanggung jawab tidak boleh dialihkan kepada mesin. Pengembang bertanggung jawab atas pengujian dan dokumentasi sesuai perannya; penyedia layanan bertanggung jawab atas operasi dan keamanan; organisasi pengguna bertanggung jawab atas keputusan penerapan dan dampaknya. Pembagian tugas harus jelas sebelum sistem digunakan.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Buat peta pihak terdampak untuk aplikasi rekomendasi belajar.
+2. Bedakan persetujuan yang bermakna dengan tombol persetujuan yang manipulatif.
+3. Mengapa akurasi rata-rata belum cukup untuk menilai keadilan model?
+4. Berikan contoh pengawasan manusia yang bermakna.
+5. Susun tiga pertanyaan audit etika sebelum fitur digital diluncurkan.

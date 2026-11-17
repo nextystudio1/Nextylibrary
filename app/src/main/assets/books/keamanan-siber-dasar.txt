@@ -322,3 +322,34 @@ PERTANYAAN
 3. Bagaimana mengonfirmasi permintaan yang mencurigakan?
 4. Mengapa izin aplikasi perlu ditinjau?
 5. Apa yang membuat prosedur pelaporan insiden mudah digunakan?
+
+BAB PENDALAMAN: IDENTITAS DIGITAL DAN PERLINDUNGAN AKUN
+
+Identitas digital terbentuk dari akun, alamat surel, nama pengguna, aktivitas, dan informasi yang dibagikan pada berbagai layanan. Penggabungan potongan informasi dapat membuat seseorang lebih mudah dikenali daripada yang diperkirakan. Karena itu, bagikan data seperlunya dan tinjau pengaturan privasi secara berkala.
+
+Gunakan kata sandi yang panjang dan unik untuk setiap layanan. Pengelola kata sandi tepercaya dapat membantu menyimpan kredensial tanpa memakai ulang kata sandi. Autentikasi multifaktor menambahkan lapisan perlindungan, terutama bila menggunakan aplikasi autentikator atau kunci keamanan yang didukung layanan. Simpan metode pemulihan dengan aman dan jangan membagikan kode verifikasi kepada siapa pun.
+
+BAB PENDALAMAN: MENGENALI PENIPUAN DAN REKAYASA SOSIAL
+
+Rekayasa sosial memanfaatkan kepercayaan, rasa takut, rasa ingin tahu, atau tekanan waktu agar seseorang memberikan informasi atau melakukan tindakan. Pesan dapat meniru lembaga resmi, teman, penyedia layanan, atau toko. Tanda yang patut diperiksa antara lain permintaan rahasia, ancaman mendesak, hadiah tidak masuk akal, alamat pengirim yang janggal, dan tautan yang tidak sesuai nama layanan.
+
+Jangan mengambil keputusan hanya dari pesan yang diterima. Periksa permintaan melalui aplikasi atau alamat resmi yang diketik sendiri, bukan melalui tautan dalam pesan mencurigakan. Jika pesan mengatasnamakan orang yang dikenal, konfirmasi melalui saluran lain. Simpan bukti seperlunya dan laporkan melalui mekanisme resmi platform atau lembaga terkait.
+
+BAB PENDALAMAN: PEMBARUAN, CADANGAN, DAN KEAMANAN PERANGKAT
+
+Pembaruan sistem dan aplikasi sering memperbaiki kelemahan keamanan serta masalah stabilitas. Aktifkan pembaruan otomatis jika sesuai dan unduh aplikasi dari sumber resmi. Tinjau izin aplikasi: akses kamera, mikrofon, lokasi, kontak, dan berkas seharusnya relevan dengan fungsi yang dijanjikan.
+
+Cadangan membantu memulihkan data ketika perangkat rusak atau akun bermasalah. Terapkan cadangan berkala dan periksa apakah pemulihan benar-benar dapat dilakukan. Lindungi cadangan dengan akses terbatas dan jangan menyimpan satu-satunya salinan pada perangkat yang sama. Untuk perangkat bersama, gunakan profil terpisah dan keluar dari akun setelah selesai.
+
+BAB PENDALAMAN: PRIVASI DAN JEJAK DATA
+
+Layanan digital dapat mengumpulkan data untuk menyediakan fitur, analitik, personalisasi, atau iklan. Kebijakan privasi menjelaskan jenis data, tujuan penggunaan, pihak penerima, dan pilihan pengguna, meskipun dokumennya sering panjang. Perhatikan izin, pengaturan berbagi, masa penyimpanan, dan cara mengajukan permintaan terkait data.
+
+Jejak digital dapat bertahan setelah unggahan dihapus karena salinan, tangkapan layar, atau arsip. Sebelum membagikan sesuatu, pertimbangkan audiens, konteks, dan kemungkinan penyebaran ulang. Hindari mengunggah dokumen identitas, lokasi langsung, informasi sekolah, atau rincian pribadi orang lain tanpa alasan dan persetujuan yang tepat.
+
+BAB PENDALAMAN: RESPONS INSIDEN DAN KEBIASAAN AMAN
+
+Respons insiden dimulai dengan mengenali kejadian, membatasi dampak melalui pengaturan resmi yang tersedia, dan meminta bantuan dari penyedia layanan atau pihak tepercaya. Jika akun diduga diakses pihak lain, gunakan prosedur pemulihan resmi, periksa sesi aktif, dan perbarui kredensial dari perangkat yang aman. Jangan membalas pelaku atau mencoba melakukan pembalasan digital.
+
+Organisasi perlu memiliki jalur pelaporan yang mudah ditemukan, pembagian tanggung jawab, dan catatan kejadian yang tidak menyebarkan data sensitif. Setelah insiden, evaluasi penyebab dan perbaiki proses. Tujuan keamanan siber adalah mengurangi risiko dan menjaga layanan tetap dapat dipercaya, bukan menjanjikan bahwa risiko dapat dihapus sepenuhnya.
+

@@ -268,3 +268,37 @@ LATIHAN BAB
 3. Mengapa layanan esensial perlu diprioritaskan dalam perencanaan?
 4. Apa fungsi analisis skenario?
 5. Buat daftar data yang diperlukan untuk menilai kerentanan energi suatu wilayah.
+
+BAB LANJUTAN. SISTEM KELISTRIKAN DAN PERMINTAAN ENERGI
+
+Sistem tenaga listrik menghubungkan pembangkitan, transmisi, distribusi, dan pengguna. Keseimbangan antara pasokan dan permintaan harus dijaga agar frekuensi serta mutu layanan berada dalam batas yang ditetapkan. Pembangkit memiliki karakteristik berbeda dalam kecepatan perubahan keluaran, biaya operasi, dan ketergantungan pada cuaca atau bahan bakar. Karena itu, bauran energi perlu dianalisis sebagai sistem, bukan hanya daftar teknologi.
+
+Permintaan listrik berubah menurut jam, hari, musim, dan kegiatan ekonomi. Kurva beban menunjukkan pola penggunaan sepanjang waktu. Beban puncak dapat memerlukan kapasitas dan cadangan tambahan meskipun hanya terjadi pada sebagian jam. Pengelolaan sisi permintaan dapat menggeser sebagian penggunaan ke waktu lain atau meningkatkan efisiensi, tetapi harus menjaga kenyamanan dan kebutuhan layanan penting.
+
+Penyimpanan energi dapat membantu menggeser waktu penggunaan listrik dan menyediakan layanan sistem tertentu. Teknologi penyimpanan memiliki efisiensi, kapasitas, umur, biaya, dan kebutuhan material yang berbeda. Penilaian perlu mencakup keseluruhan siklus hidup serta cara pengelolaan setelah masa pakai. Penyimpanan bukan sumber energi primer; energi tetap harus diproduksi dan kerugian konversi perlu diperhitungkan.
+
+BAB LANJUTAN. ENERGI TERBARUKAN DAN INTEGRASI SISTEM
+
+Energi surya dan angin memiliki keluaran yang berubah mengikuti kondisi alam. Variabilitas tersebut dapat dikelola melalui kombinasi prakiraan, jaringan yang memadai, penyimpanan, pengaturan permintaan, dan sumber fleksibel lainnya. Kebutuhan integrasi bergantung pada lokasi, skala, pola cuaca, serta struktur jaringan. Tidak tepat menyimpulkan satu teknologi selalu cocok untuk semua wilayah.
+
+Pembangkit listrik tenaga air dipengaruhi ketersediaan air, kondisi daerah aliran sungai, dan kebutuhan ekosistem. Biomassa memerlukan penilaian asal bahan baku, perubahan penggunaan lahan, emisi, dan persaingan dengan kebutuhan pangan. Energi panas bumi bergantung pada kondisi geologi dan pengelolaan reservoir. Setiap pilihan memiliki manfaat serta keterbatasan yang perlu dinilai secara transparan.
+
+Transisi energi juga memiliki dimensi sosial. Perubahan sektor dapat memengaruhi pekerja, pendapatan daerah, harga layanan, dan akses energi. Program transisi yang adil membutuhkan dialog, pelatihan keterampilan, perlindungan pekerja, dan rencana ekonomi lokal. Keberhasilan tidak hanya diukur dari penurunan emisi, tetapi juga keterjangkauan, keandalan, dan pembagian manfaat.
+
+BAB LANJUTAN. ANALISIS DAMPAK DAN KEBIJAKAN LINGKUNGAN
+
+Analisis dampak energi perlu memeriksa emisi gas rumah kaca, polusi udara, penggunaan air, kebutuhan lahan, bahan baku, dan dampak terhadap keanekaragaman hayati. Dampak dapat terjadi pada lokasi proyek maupun rantai pasok. Batas analisis yang tidak jelas dapat membuat perbandingan menyesatkan. Asumsi dan sumber data harus dinyatakan.
+
+Indikator intensitas energi menghubungkan penggunaan energi dengan keluaran atau layanan. Contohnya energi per unit produksi atau per luas bangunan. Indikator harus dipilih sesuai tujuan dan disertai konteks, karena penurunan intensitas tidak selalu berarti konsumsi total turun jika kegiatan meningkat. Efek rebound dapat terjadi ketika layanan yang lebih efisien menjadi lebih murah dan kemudian digunakan lebih banyak.
+
+Kebijakan lingkungan dapat menggunakan standar, insentif, informasi, atau instrumen ekonomi. Pemilihan instrumen bergantung kapasitas pengawasan, kondisi pasar, dampak distribusi, dan tujuan kebijakan. Evaluasi perlu membandingkan keadaan sebelum dan sesudah serta mempertimbangkan faktor lain yang berubah pada waktu bersamaan.
+
+LATIHAN
+1. Mengapa sistem listrik perlu menjaga keseimbangan pasokan dan permintaan?
+2. Apa perbedaan penyimpanan energi dan pembangkitan energi?
+3. Sebutkan tantangan integrasi energi surya dan angin.
+4. Apa yang dimaksud transisi energi yang adil?
+5. Mengapa intensitas energi tidak selalu sama dengan konsumsi total?
+
+PROYEK
+Buat perbandingan konseptual dua pilihan pasokan energi untuk suatu wilayah. Tetapkan kebutuhan layanan, sumber data, batas analisis, dampak lingkungan, keandalan, biaya, dan implikasi sosial. Jelaskan ketidakpastian dan alasan rekomendasi tanpa menganggap satu teknologi bebas dampak.

@@ -390,3 +390,52 @@ Katalog dan pembaca digital perlu dirancang agar dapat digunakan pada perangkat 
 
 Pengukuran layanan dapat mencakup keberhasilan pencarian, waktu menemukan sumber, tingkat kegagalan membuka berkas, penggunaan fitur aksesibilitas, dan umpan balik. Data penggunaan harus dikumpulkan secara proporsional dan menjaga privasi. Tujuan analitik adalah memperbaiki layanan, bukan mengawasi kebiasaan membaca individu tanpa alasan dan dasar yang jelas.
 
+BAB LANJUTAN: PENGELOLAAN KOLEKSI, METADATA, DAN LAYANAN PENGETAHUAN
+
+Kebijakan pengembangan koleksi
+
+Koleksi perpustakaan sebaiknya dibangun berdasarkan misi layanan, kebutuhan komunitas, kurikulum atau bidang pengetahuan, serta kemampuan pemeliharaan. Jumlah judul bukan satu-satunya ukuran mutu. Koleksi yang relevan, beragam, mudah ditemukan, mutakhir untuk bidang yang cepat berubah, dan dapat diakses oleh kelompok berbeda lebih bermanfaat daripada kumpulan besar tanpa arah.
+
+Kebijakan pengembangan koleksi menjelaskan bidang prioritas, tingkat kedalaman, bahasa, format, kriteria kualitas, dan proses peninjauan. Untuk setiap usulan, pustakawan dapat menilai kesesuaian dengan misi, otoritas penulis, ketepatan isi, keterbacaan, tanggal penerbitan, kebutuhan pengguna, serta hak penggunaan. Kriteria harus diterapkan konsisten dan keputusan yang menyimpang perlu diberi alasan.
+
+Penyiangan dan pelestarian
+
+Penyiangan adalah peninjauan koleksi untuk menentukan apakah bahan masih sesuai, perlu diperbaiki, dipindahkan ke penyimpanan, atau dikeluarkan sesuai kebijakan. Keputusan tidak boleh hanya didasarkan pada usia atau frekuensi peminjaman. Bahan yang jarang digunakan mungkin penting bagi sejarah lokal, penelitian, atau kelompok kecil. Sebaliknya, bahan populer dapat memerlukan pembaruan ketika informasinya sudah tidak akurat.
+
+Pelestarian mencakup pengendalian lingkungan, penanganan fisik, digitalisasi yang sah, pencadangan, dan pencatatan kondisi. Koleksi digital juga rentan terhadap kerusakan berkas, perubahan format, kegagalan perangkat, dan hilangnya metadata. Strategi pelestarian perlu mencakup salinan terpisah, pemeriksaan integritas berkala, dokumentasi format, dan rencana pemulihan.
+
+Metadata dan interoperabilitas
+
+Metadata menjelaskan suatu sumber agar dapat ditemukan, dipahami, dikelola, dan dipertukarkan. Unsur dasar dapat mencakup judul, pencipta, subjek, bahasa, tanggal, penerbit, deskripsi, format, identifikasi, serta informasi hak. Konsistensi penulisan nama dan istilah meningkatkan kualitas pencarian. Kosakata terkendali membantu menghubungkan istilah berbeda yang merujuk pada konsep serupa.
+
+Interoperabilitas berarti sistem dapat bertukar dan memahami data melalui struktur serta aturan yang disepakati. Perpustakaan perlu mendokumentasikan skema, format ekspor, pengenal unik, dan kebijakan perubahan. Migrasi data sebaiknya diuji pada sampel, dibandingkan sebelum dan sesudah, serta memiliki prosedur pemulihan. Kesalahan metadata dapat menyebar ke banyak layanan jika tidak dikendalikan.
+
+Penemuan informasi dan kualitas pencarian
+
+Mesin pencarian koleksi mengandalkan indeks, metadata, teks penuh, dan aturan pemeringkatan. Hasil yang relevan bergantung pada kualitas data dan cara pengguna merumuskan kebutuhan. Fitur pencarian frasa, filter subjek, rentang tanggal, bahasa, dan format membantu mempersempit hasil. Ejaan alternatif dan istilah lokal perlu dipertimbangkan agar pencarian tidak terlalu sempit.
+
+Evaluasi pencarian dapat menggunakan tugas nyata: menemukan buku pengantar, mencari sumber tentang topik lokal, atau membandingkan edisi. Ukur apakah pengguna berhasil, berapa lama prosesnya, dan apakah hasil teratas sesuai kebutuhan. Log pencarian harus dikelola dengan prinsip minimalisasi data dan perlindungan privasi. Analitik agregat sering cukup untuk mengetahui istilah yang belum terwakili dalam metadata.
+
+Layanan referensi dan literasi informasi
+
+Layanan referensi membantu pengguna memperjelas pertanyaan, memilih sumber, dan memahami cara menilai informasi. Pustakawan tidak harus langsung memberi satu jawaban; sering kali lebih bermanfaat membantu pengguna menyusun strategi pencarian dan memeriksa bukti. Pertanyaan awal dapat mencakup tujuan tugas, tingkat kedalaman, periode, wilayah, dan jenis sumber yang dibutuhkan.
+
+Literasi informasi mencakup kemampuan mengenali kebutuhan informasi, menemukan sumber, mengevaluasi kredibilitas, mengelola catatan, menggunakan informasi secara etis, dan menyampaikan temuan. Latihan sebaiknya menggunakan contoh konkret: membandingkan dua klaim, menelusuri asal data, mengenali konflik kepentingan, serta membedakan fakta, interpretasi, dan opini.
+
+Aksesibilitas dan layanan inklusif
+
+Koleksi digital perlu mendukung pembaca dengan kebutuhan beragam. Struktur judul yang benar, navigasi papan ketik, kontras memadai, teks alternatif untuk gambar bermakna, transkrip media, dan ukuran huruf yang dapat disesuaikan dapat meningkatkan akses. Dokumen hasil pindai yang tidak memiliki lapisan teks dapat menjadi hambatan bagi pembaca layar dan pencarian.
+
+Uji aksesibilitas perlu melibatkan alat otomatis dan pengguna nyata. Tidak semua masalah dapat ditemukan oleh pemeriksa otomatis. Bahasa yang jelas, petunjuk konsisten, dan dukungan bagi pengguna dengan koneksi terbatas juga merupakan bagian dari akses. Perpustakaan sebaiknya menyediakan jalur bantuan tanpa membuat pengguna harus mengungkapkan informasi pribadi yang tidak diperlukan.
+
+Pengelolaan hak dan penggunaan sumber
+
+Memiliki salinan suatu berkas tidak otomatis berarti memiliki hak untuk menyebarkan atau mengubahnya. Perpustakaan perlu mencatat status hak, lisensi, izin, batas penggunaan, dan atribusi yang diwajibkan. Materi domain publik dan materi berlisensi terbuka tetap perlu diperiksa ketentuan atribusi serta kemungkinan pembatasan tertentu.
+
+Untuk konten yang dibuat sendiri, dokumentasikan pencipta, tanggal, versi, dan izin penggunaan. Proses koreksi juga penting: pengguna harus dapat melaporkan kesalahan, sementara pengelola mencatat perubahan dan alasan revisi. Transparansi versi membantu menjaga kepercayaan terhadap koleksi.
+
+Proyek audit koleksi
+
+Pilih satu subjek koleksi. Periksa kelengkapan metadata, kemutakhiran, keterwakilan bahasa, aksesibilitas, hak penggunaan, dan kualitas berkas. Ambil sampel yang cukup untuk menemukan pola, bukan hanya memilih judul yang paling mudah. Susun daftar masalah menurut tingkat dampak dan biaya perbaikan.
+
+Rencana tindak lanjut dapat mencakup perbaikan metadata, penambahan subjek, konversi format yang sah, pembaruan tautan internal, atau pengadaan bahan yang benar-benar dibutuhkan. Tentukan indikator seperti persentase rekaman lengkap, keberhasilan pencarian, dan jumlah berkas yang lolos pemeriksaan aksesibilitas. Audit berkala mengubah pengelolaan koleksi menjadi proses peningkatan mutu yang terukur.

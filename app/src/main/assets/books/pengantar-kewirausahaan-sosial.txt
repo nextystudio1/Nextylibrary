@@ -350,3 +350,25 @@ LATIHAN PENDALAMAN
 4. Susun rencana transisi program kepada mitra lokal.
 5. Jelaskan bagaimana organisasi merespons bukti bahwa program tidak menghasilkan perubahan yang diharapkan.
 
+BAB LANJUTAN: DESAIN LAYANAN, TATA KELOLA, DAN PEMBELAJARAN DAMPAK
+
+Kewirausahaan sosial perlu memandang layanan sebagai rangkaian pengalaman, bukan hanya produk yang diserahkan. Penerima manfaat mungkin harus mengetahui program, mendaftar, memenuhi syarat, datang ke lokasi, menggunakan layanan, lalu memperoleh dukungan lanjutan. Setiap tahap dapat menciptakan hambatan. Peta perjalanan pengguna membantu tim melihat waktu tunggu, biaya transportasi, bahasa, kebutuhan aksesibilitas, dan rasa aman. Perbaikan sering muncul bukan dari menambah fitur, melainkan menghilangkan langkah yang tidak perlu.
+
+Rancangan layanan sebaiknya diuji bersama orang yang akan menggunakannya. Wawancara awal dapat mengungkap kebutuhan, tetapi pengamatan penggunaan menunjukkan perbedaan antara apa yang dikatakan dan apa yang benar-benar terjadi. Uji coba harus menjelaskan tujuan, meminta persetujuan, menjaga kerahasiaan, dan memberi kesempatan peserta menghentikan keterlibatan. Jangan menjanjikan manfaat yang belum terbukti. Kompensasi waktu peserta perlu wajar dan tidak menjadi tekanan untuk menyetujui sesuatu.
+
+Tata kelola yang sehat menentukan siapa yang mengambil keputusan, bagaimana konflik kepentingan ditangani, dan bagaimana keluhan diterima. Organisasi kecil tetap memerlukan pencatatan keputusan penting, pemisahan tugas keuangan bila memungkinkan, dan pemeriksaan berkala. Pendiri tidak harus memutuskan semuanya sendiri. Melibatkan perwakilan komunitas dalam pengawasan dapat membantu organisasi memahami konsekuensi yang tidak terlihat dari sudut pandang pengelola.
+
+Kemitraan memerlukan pembagian tanggung jawab yang jelas. Kesepakatan sebaiknya menyebut tujuan, kontribusi setiap pihak, penggunaan data, kepemilikan materi, mekanisme penyelesaian perselisihan, serta cara mengakhiri kerja sama. Nama mitra tidak boleh dipakai dalam promosi sebelum ada persetujuan. Jika sebuah program bergantung pada satu penyandang dana, organisasi perlu menilai risiko perubahan prioritas dan menyiapkan skenario keberlanjutan yang realistis.
+
+Pengukuran dampak harus memperhatikan siapa yang tidak terjangkau. Angka partisipasi dapat terlihat tinggi, sementara kelompok dengan hambatan bahasa, disabilitas, lokasi terpencil, atau jadwal kerja justru tidak hadir. Data agregat dapat menyembunyikan ketimpangan tersebut. Bila aman dan relevan, pecah indikator berdasarkan karakteristik yang diperlukan, tetapi jangan mengumpulkan data sensitif tanpa alasan yang kuat. Jelaskan keterbatasan sampel dan lindungi identitas peserta.
+
+Pembelajaran dampak merupakan siklus: tetapkan pertanyaan, kumpulkan bukti, tafsirkan bersama pihak terdampak, ambil keputusan, lalu periksa akibat keputusan itu. Evaluasi bukan upacara untuk membenarkan program. Temuan bahwa sebuah kegiatan tidak efektif justru bernilai jika organisasi berani mengubah pendekatan. Catat alasan perubahan agar pengetahuan tidak hilang ketika anggota tim berganti.
+
+Studi kasus: koperasi komunitas ingin membantu produsen pangan kecil menjual produk secara lebih teratur. Tim memetakan proses dari produksi hingga pembayaran, lalu menemukan bahwa masalah utama bukan promosi melainkan ketidakpastian jadwal pengambilan dan standar mutu. Mereka membuat jadwal bersama, menyepakati kriteria mutu yang dapat dipenuhi, serta menyediakan mekanisme banding. Setelah beberapa siklus, tim membandingkan waktu pembayaran, produk terbuang, dan kepuasan pemasok. Hasil digunakan untuk memperbaiki kesepakatan, bukan sekadar membuat laporan keberhasilan.
+
+Latihan penerapan:
+1. Buat peta perjalanan pengguna untuk satu layanan sosial.
+2. Susun contoh aturan konflik kepentingan bagi pengurus.
+3. Rancang indikator yang dapat menunjukkan siapa yang belum terjangkau.
+4. Buat kerangka kesepakatan kemitraan yang membagi peran secara jelas.
+5. Jelaskan keputusan yang mungkin diambil ketika evaluasi menunjukkan dampak lebih kecil dari perkiraan.

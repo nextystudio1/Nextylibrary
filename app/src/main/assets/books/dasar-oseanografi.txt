@@ -196,3 +196,53 @@ Indikator pengelolaan dapat mencakup kondisi habitat, kualitas air, risiko benca
 
 PROYEK KAJIAN TERPADU
 Susun profil konseptual satu kawasan pesisir menggunakan peta dan data terbuka. Jelaskan bentuk pantai, ekosistem, proses oseanografi, kegiatan manusia, potensi tekanan, dan kelompok yang berkepentingan. Buat diagram hubungan sebab-akibat yang membedakan bukti dari hipotesis. Ajukan tiga tindakan pengelolaan dan jelaskan manfaat, risiko, kebutuhan data, serta cara mengevaluasinya.
+BAB 21. DINAMIKA LAUT DALAM DAN GELOMBANG INTERNAL
+
+Laut tidak selalu memiliki suhu dan salinitas yang seragam dari permukaan hingga dasar. Perbedaan suhu dan salinitas menghasilkan perbedaan densitas yang membantu membentuk stratifikasi. Lapisan dengan densitas berbeda dapat membatasi pencampuran vertikal, sementara angin, pasang surut, pendinginan permukaan, dan topografi dasar laut dapat mendorong pencampuran.
+
+Gelombang internal terjadi pada batas atau lapisan di dalam laut yang memiliki perbedaan densitas. Gerakannya dapat jauh lebih lambat daripada gelombang permukaan dan dapat memindahkan energi serta memengaruhi pencampuran. Gelombang internal dapat terbentuk ketika arus pasang surut melewati punggung bawah laut atau ketika gangguan menggeser lapisan air. Pengamatan memerlukan instrumen yang mampu mengukur perubahan suhu, salinitas, dan arus pada kedalaman berbeda.
+
+Pencampuran vertikal memengaruhi pertukaran panas, oksigen, dan zat hara. Di beberapa wilayah, proses ini dapat membawa zat hara menuju lapisan yang mendapat cahaya dan mendukung produktivitas biologis. Di wilayah lain, pencampuran dapat mengubah distribusi oksigen atau karakter massa air. Dampak bergantung pada musim, kedalaman, topografi, dan kondisi setempat.
+
+Pengamatan satu titik tidak selalu mewakili seluruh wilayah. Gelombang internal dan struktur lapisan dapat berubah dalam waktu singkat serta berbeda menurut lokasi. Peneliti menggabungkan pengukuran berulang, profil vertikal, data arus, dan model untuk memahami proses. Model perlu dibandingkan dengan pengamatan dan ketidakpastiannya dinyatakan.
+
+LATIHAN BAB 21
+1. Bagaimana suhu dan salinitas memengaruhi densitas air laut?
+2. Apa yang dimaksud gelombang internal?
+3. Mengapa stratifikasi dapat membatasi pencampuran vertikal?
+4. Sebutkan dua dampak pencampuran bagi ekosistem laut.
+5. Mengapa pengukuran satu titik tidak cukup untuk menjelaskan seluruh wilayah?
+
+BAB 22. KIMIA AIR LAUT DAN SISTEM KARBONAT
+
+Air laut mengandung ion terlarut yang berasal dari pelapukan batuan, aktivitas geologi, proses biologis, dan pertukaran dengan atmosfer. Salinitas menggambarkan jumlah garam terlarut secara keseluruhan, tetapi komposisi ion juga penting untuk memahami reaksi kimia. Konsentrasi ion utama relatif stabil di laut terbuka, sedangkan unsur hara dan beberapa komponen lain dapat berubah menurut lokasi dan aktivitas biologis.
+
+Karbon dioksida bertukar antara atmosfer dan laut. Setelah larut, karbon dioksida terlibat dalam kesetimbangan kimia yang menghasilkan beberapa bentuk karbon anorganik terlarut. Sistem karbonat membantu menjaga keseimbangan kimia air laut. Penambahan karbon dioksida dari atmosfer menggeser kesetimbangan dan dapat menurunkan pH, suatu proses yang dikenal sebagai pengasaman laut. pH adalah ukuran logaritmik sehingga perubahan angka yang tampak kecil dapat mewakili perubahan kimia yang berarti.
+
+Ketersediaan ion karbonat penting bagi organisme yang membentuk struktur kalsium karbonat, seperti beberapa jenis karang dan moluska. Dampak pengasaman tidak seragam; spesies berbeda memiliki toleransi dan kemampuan respons yang berbeda. Suhu, oksigen, makanan, dan tekanan lingkungan lain dapat berinteraksi dengan perubahan kimia. Karena itu, tidak tepat menyimpulkan seluruh organisme laut akan merespons dengan cara yang sama.
+
+Pemantauan sistem karbonat memerlukan pengukuran yang teliti, kalibrasi, dan pelaporan parameter yang jelas. Nilai pH saja tidak selalu cukup untuk menggambarkan seluruh sistem. Peneliti dapat mengukur beberapa parameter karbonat dan menggunakan hubungan kesetimbangan untuk memperkirakan komponen lain. Ketidakpastian alat dan metode harus dicantumkan agar hasil antarwilayah atau antarwaktu dapat dibandingkan.
+
+LATIHAN BAB 22
+1. Mengapa salinitas tidak menjelaskan seluruh komposisi kimia air laut?
+2. Apa yang dimaksud sistem karbonat?
+3. Jelaskan hubungan penambahan karbon dioksida dan perubahan pH laut.
+4. Mengapa dampak pengasaman dapat berbeda antarspesies?
+5. Mengapa pengukuran pH perlu disertai informasi metode dan kalibrasi?
+
+BAB 23. EKOSISTEM PELAGIK DAN JARING MAKANAN LAUT
+
+Zona pelagik adalah bagian perairan terbuka yang tidak berada langsung di dasar atau pantai. Organisme di dalamnya mencakup fitoplankton, zooplankton, ikan, mamalia laut, dan berbagai mikroorganisme. Fitoplankton menggunakan energi cahaya untuk fotosintesis dan menjadi dasar penting bagi banyak jaring makanan laut. Zooplankton memakan fitoplankton atau organisme lain dan menjadi penghubung ke tingkat trofik lebih tinggi.
+
+Produktivitas primer dipengaruhi cahaya, zat hara, suhu, pencampuran, dan karakter komunitas. Lapisan permukaan yang mendapat cahaya belum tentu memiliki zat hara cukup. Di beberapa wilayah, upwelling membawa air lebih kaya zat hara ke permukaan dan dapat mendukung produktivitas. Namun, hubungan antara zat hara dan hasil perikanan juga dipengaruhi rantai makanan, kondisi habitat, dan tekanan penangkapan.
+
+Jaring makanan lebih kompleks daripada rantai lurus. Satu organisme dapat memakan beberapa jenis mangsa dan menjadi mangsa bagi banyak pemangsa. Perubahan pada satu kelompok dapat menyebar melalui interaksi ekologis. Penangkapan berlebihan terhadap predator atau perubahan kelimpahan plankton dapat mengubah struktur komunitas, tetapi dampaknya perlu dianalisis dengan data dan konteks lokal.
+
+Pemantauan ekosistem pelagik menggunakan survei plankton, pengamatan akustik, pengambilan sampel, citra satelit, dan data perikanan. Setiap metode memiliki keterbatasan. Citra satelit dapat menunjukkan indikator permukaan, tetapi tidak secara langsung mengukur seluruh kehidupan pada kedalaman. Data hasil tangkapan juga dipengaruhi alat tangkap dan upaya penangkapan sehingga tidak selalu mencerminkan kelimpahan ikan secara sederhana.
+
+LATIHAN BAB 23
+1. Apa peran fitoplankton dalam jaring makanan laut?
+2. Mengapa cahaya dan zat hara sama-sama penting bagi produktivitas primer?
+3. Apa peran upwelling dalam beberapa ekosistem laut?
+4. Mengapa jaring makanan tidak cukup digambarkan sebagai satu rantai?
+5. Sebutkan keterbatasan citra satelit untuk mengamati ekosistem laut.

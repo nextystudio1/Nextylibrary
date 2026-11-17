@@ -213,3 +213,30 @@ LATIHAN PENDALAMAN
 3. Bandingkan termoplastik dan termoset dari struktur serta konsekuensi pemrosesan.
 4. Mengapa asal alami bukan bukti bahwa suatu senyawa aman?
 5. Sebutkan empat hal yang perlu diperiksa saat menilai mekanisme reaksi.
+BAB LANJUTAN. SIFAT FISIK, SPEKTROSKOPI, DAN HUBUNGAN STRUKTUR-FUNGSI
+
+Sifat senyawa organik ditentukan oleh struktur molekul dan gaya antarmolekul. Molekul nonpolar cenderung berinteraksi melalui gaya dispersi, sedangkan molekul polar juga dapat memiliki interaksi dipol-dipol. Gugus hidroksil dan beberapa gugus lain memungkinkan ikatan hidrogen. Perbedaan gaya tersebut memengaruhi titik didih, titik leleh, kelarutan, dan viskositas. Senyawa dengan massa molekul lebih besar sering memiliki gaya dispersi lebih kuat, tetapi bentuk molekul dan kemampuan membentuk ikatan hidrogen juga perlu diperhitungkan.
+
+Kelarutan mengikuti prinsip kesesuaian interaksi antara zat terlarut dan pelarut. Senyawa polar sering lebih mudah larut dalam pelarut polar, sedangkan senyawa nonpolar cenderung larut dalam pelarut nonpolar. Aturan ini merupakan panduan, bukan hukum mutlak. Ukuran molekul, kemampuan membentuk ikatan hidrogen, suhu, dan struktur kristal dapat mengubah hasil. Dalam sistem biologis, bagian polar dan nonpolar pada satu molekul memungkinkan terbentuknya perilaku khusus, misalnya molekul yang berinteraksi dengan air sekaligus komponen lipid.
+
+Isomer memiliki rumus molekul sama tetapi susunan atom atau orientasi ruang berbeda. Isomer struktur berbeda dalam keterhubungan atom, sedangkan stereoisomer memiliki keterhubungan sama tetapi susunan ruang berbeda. Enansiomer merupakan pasangan bayangan cermin yang tidak dapat ditumpangtindihkan, sementara diastereomer bukan pasangan bayangan cermin. Perbedaan tiga dimensi penting karena enzim dan reseptor biologis memiliki bentuk tertentu. Dua stereoisomer dapat memiliki aroma, aktivitas, atau interaksi biologis yang berbeda.
+
+Spektroskopi membantu menyelidiki struktur berdasarkan interaksi materi dengan radiasi elektromagnetik. Spektroskopi inframerah mengamati serapan yang berkaitan dengan getaran ikatan. Pita tertentu dapat memberi petunjuk tentang gugus fungsi, tetapi interpretasi memerlukan pola keseluruhan dan kualitas sampel. Spektroskopi NMR memberi informasi tentang lingkungan inti atom tertentu, sehingga membantu memperkirakan susunan atom dalam molekul. Spektrometri massa mengukur rasio massa terhadap muatan ion dan dapat membantu menentukan massa molekul serta pola fragmentasi. Tidak satu teknik pun selalu cukup sendirian untuk memastikan struktur.
+
+Penentuan struktur biasanya menggabungkan rumus molekul, indeks ketidakjenuhan, IR, NMR, dan data massa. Setiap dugaan harus konsisten dengan seluruh bukti. Jika data tidak cocok, periksa kemurnian sampel, pelarut, kalibrasi instrumen, atau kemungkinan campuran. Penafsiran yang baik menyebut alternatif yang masih mungkin dan menjelaskan data apa yang diperlukan untuk membedakannya.
+
+Polimer organik tersusun dari unit berulang yang disebut monomer. Polimer dapat memiliki rantai linear, bercabang, atau berikatan silang. Termoplastik dapat melunak ketika dipanaskan dan dibentuk kembali dalam kondisi tertentu, sedangkan termoset memiliki jaringan ikatan silang yang membuatnya tidak mudah dilelehkan ulang. Elastomer dapat mengalami deformasi besar dan kembali mendekati bentuk semula karena struktur rantainya. Sifat akhir dipengaruhi komposisi, panjang rantai, susunan, aditif, dan proses manufaktur.
+
+Kimia organik juga penting dalam pangan, obat, bahan, dan lingkungan. Struktur molekul memengaruhi rasa, aroma, stabilitas, dan interaksi biologis. Namun, asal alami tidak otomatis menjamin keamanan, sebagaimana asal sintetis tidak otomatis berarti berbahaya. Risiko bergantung pada identitas zat, dosis, jalur paparan, durasi, dan kondisi penggunaan. Penilaian keamanan harus merujuk pada bukti dan standar yang sesuai, bukan pada label alami atau buatan.
+
+Keselamatan merupakan bagian dari pengetahuan kimia. Bahan organik dapat memiliki sifat mudah terbakar, mengiritasi, atau berbahaya bagi lingkungan. Praktik laboratorium harus mengikuti prosedur lembaga, label, lembar data keselamatan, dan pengawasan yang kompeten. Materi ini bersifat konseptual dan tidak menjadi petunjuk untuk melakukan reaksi atau menangani bahan kimia tanpa fasilitas dan pelatihan yang sesuai. Limbah kimia tidak boleh dibuang sembarangan karena dapat mencemari air dan tanah.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa alkohol sederhana dapat memiliki titik didih berbeda dari hidrokarbon dengan massa mirip? Pembahasan: gugus hidroksil memungkinkan ikatan hidrogen antarmolekul.
+2. Apa perbedaan isomer struktur dan stereoisomer? Pembahasan: isomer struktur berbeda keterhubungan atom; stereoisomer memiliki keterhubungan sama tetapi orientasi ruang berbeda.
+3. Mengapa IR dan NMR saling melengkapi? Pembahasan: IR memberi petunjuk gugus fungsi dan ikatan, sedangkan NMR memberi informasi lingkungan atom dalam struktur.
+4. Mengapa label alami tidak cukup untuk menyatakan bahan aman? Pembahasan: keamanan ditentukan identitas, dosis, paparan, dan bukti toksikologi.
+5. Apa perbedaan umum termoplastik dan termoset? Pembahasan: termoplastik dapat dilunakkan kembali, sedangkan termoset memiliki jaringan silang permanen yang tidak meleleh ulang dengan cara sama.
+
+PROYEK MINI
+Buat tabel perbandingan tiga kelompok senyawa organik berdasarkan gugus fungsi, kepolaran, gaya antarmolekul, dan contoh penggunaan. Tambahkan kolom bukti spektroskopi yang mungkin membantu mengenalinya. Gunakan sumber pembelajaran tepercaya dan jelaskan bahwa tabel bersifat pengantar, bukan panduan identifikasi sampel nyata.

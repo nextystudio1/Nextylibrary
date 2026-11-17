@@ -49,6 +49,8 @@ Bentuk bangunan terbentuk dari hubungan massa, ruang kosong, bukaan, dan struktu
 
 BAB 4. IKLIM DAN KENYAMANAN
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/ventilasi-bangunan.svg|Skema ventilasi silang untuk membantu pertukaran udara dalam bangunan.]]
+
 Orientasi bangunan, arah matahari, angin, kelembapan, dan curah hujan memengaruhi kenyamanan. Pelindung matahari, ventilasi silang, vegetasi, dan pemilihan material dapat mengurangi kebutuhan energi. Strategi pasif sebaiknya dipertimbangkan sejak awal karena lebih mudah diterapkan saat bentuk dan orientasi bangunan masih dirancang.
 
 BAB 5. BAHAN, STRUKTUR, DAN KETAHANAN

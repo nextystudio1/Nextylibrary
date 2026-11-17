@@ -51,6 +51,8 @@ LATIHAN BAB 3
 
 BAB 4. HIDROPONIK DAN BUDIDAYA WADAH
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/hidroponik.svg|Skema sistem hidroponik sirkulasi larutan nutrisi.]]
+
 Hidroponik menumbuhkan tanaman dengan larutan nutrisi dan media penyangga, tanpa tanah sebagai sumber utama unsur hara. Keberhasilannya bergantung pada kualitas air, keseimbangan nutrisi, oksigen akar, kebersihan sistem, dan pemantauan. Sistem sederhana tetap memerlukan pengamatan rutin.
 
 Mulai dengan skala kecil dan tanaman yang sesuai. Gunakan larutan nutrisi yang memang dirancang untuk hidroponik serta ikuti petunjuk produsen. Jangan mencampur bahan kimia secara sembarangan. Bersihkan wadah dan alat untuk mengurangi pertumbuhan mikroorganisme yang tidak diinginkan.

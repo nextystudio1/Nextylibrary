@@ -33,6 +33,8 @@ LATIHAN
 5. Mengapa evaluasi perlu mempertimbangkan kelompok terdampak?
 BAB 2. JARINGAN DAN KAPASITAS
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/jaringan-transportasi.svg|Contoh jaringan transportasi kota yang terdiri dari simpul dan ruas.]]
+
 Jaringan jalan, rel, pelabuhan, dan jalur udara menghubungkan lokasi dengan kapasitas berbeda. Kemacetan muncul ketika permintaan melampaui kapasitas pada waktu dan tempat tertentu. Pengelolaan permintaan dapat melengkapi pembangunan infrastruktur.
 
 BAB 3. ANGKUTAN UMUM DAN AKSES

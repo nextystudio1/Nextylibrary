@@ -10,6 +10,8 @@ Buku ini membangun pemahaman bertahap: mulai dari istilah, prinsip, contoh, pene
 
 BAB 1. DUNIA MIKROORGANISME
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/mikroba-bentuk.svg|Contoh bentuk umum mikroorganisme; gambar bersifat skematis.]]
+
 Mikroorganisme adalah organisme atau agen biologis berukuran sangat kecil sehingga umumnya memerlukan alat bantu untuk diamati. Kelompok yang dipelajari dalam mikrobiologi meliputi bakteri, arkea, sebagian jamur, protozoa, dan virus sebagai agen infeksius yang bergantung pada sel inang untuk bereplikasi. Mikroorganisme ditemukan di tanah, air, udara, tubuh makhluk hidup, dan lingkungan ekstrem.
 
 PENDALAMAN KONSEP

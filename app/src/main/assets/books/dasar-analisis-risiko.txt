@@ -188,3 +188,27 @@ Komunikasi risiko harus jelas mengenai apa yang diketahui, apa yang belum diketa
 
 LATIHAN REGISTER RISIKO
 Pilih proses layanan pendidikan atau perpustakaan. Identifikasi lima risiko, penyebab, konsekuensi, kontrol yang ada, tindakan tambahan, pemilik tindakan, dan risiko sisa. Tetapkan indikator yang dapat diamati serta jadwal tinjauan. Jelaskan data apa yang masih kurang untuk meningkatkan keyakinan penilaian.
+BAB LANJUTAN 1. ANALISIS KEMUNGKINAN, DAMPAK, DAN KETIDAKPASTIAN
+
+Penilaian risiko sering menggunakan skala kemungkinan dan dampak. Skala harus memiliki definisi yang konsisten, misalnya kategori kemungkinan berdasarkan frekuensi historis atau kondisi paparan, dan kategori dampak berdasarkan konsekuensi terhadap keselamatan, layanan, biaya, atau lingkungan. Angka dalam matriks merupakan alat bantu prioritas, bukan ukuran ilmiah yang selalu presisi.
+
+Dua risiko dengan nilai perkalian sama dapat memiliki karakter berbeda. Kejadian yang jarang tetapi berdampak sangat besar mungkin memerlukan perhatian berbeda dari gangguan kecil yang sering terjadi. Karena itu, jangan hanya mengurutkan angka; tulis alasan penilaian, asumsi, kualitas data, dan kelompok yang terdampak. Jika data terbatas, nyatakan ketidakpastian secara terbuka dan gunakan rentang atau skenario.
+
+BAB LANJUTAN 2. HIERARKI PENGENDALIAN DAN RISIKO RESIDUAL
+
+Pengendalian yang efektif sebaiknya mengutamakan pengurangan bahaya pada sumbernya. Dalam banyak konteks, urutan umum mencakup menghilangkan bahaya, mengganti dengan pilihan yang lebih aman, menerapkan pengendalian teknis, memperbaiki prosedur atau pengaturan, lalu menggunakan perlindungan pribadi sebagai lapisan tambahan. Pilihan tepat bergantung pada konteks dan perlu dinilai oleh pihak yang kompeten.
+
+Pengendalian administratif seperti pelatihan dan pengingat dapat membantu, tetapi sering bergantung pada konsistensi perilaku manusia. Pengendalian teknis yang dirancang baik dapat mengurangi ketergantungan tersebut. Setelah tindakan diterapkan, nilai kembali risiko yang tersisa. Risiko residual harus dikomunikasikan kepada penanggung jawab, termasuk batas pengendalian dan kondisi ketika evaluasi ulang diperlukan.
+
+BAB LANJUTAN 3. PEMANTAUAN, KOMUNIKASI, DAN PEMBELAJARAN
+
+Daftar risiko adalah dokumen hidup. Risiko dapat berubah karena jadwal, teknologi, jumlah pengguna, cuaca, pemasok, atau aturan. Tetapkan pemilik risiko, indikator pemantauan, jadwal tinjauan, dan pemicu penilaian ulang. Indikator awal seperti keterlambatan inspeksi atau peningkatan laporan nyaris celaka dapat memberi sinyal sebelum dampak besar terjadi.
+
+Komunikasi risiko perlu disesuaikan dengan pembaca. Pimpinan membutuhkan prioritas dan keputusan yang diperlukan; pelaksana membutuhkan tindakan yang jelas; masyarakat terdampak membutuhkan penjelasan yang mudah dipahami dan saluran umpan balik. Hindari bahasa yang menimbulkan kepastian palsu. Jelaskan apa yang diketahui, apa yang belum diketahui, dan kapan informasi akan diperbarui.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Mengapa skor matriks risiko tidak boleh dianggap sebagai kepastian matematis?
+2. Berikan contoh dua risiko dengan skor sama tetapi konsekuensi berbeda.
+3. Jelaskan urutan umum hierarki pengendalian dan alasan prioritasnya.
+4. Apa yang dimaksud risiko residual dan siapa yang perlu mengetahuinya?
+5. Buat contoh indikator pemantauan untuk kegiatan sekolah yang aman.

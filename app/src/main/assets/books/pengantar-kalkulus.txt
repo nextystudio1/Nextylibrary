@@ -363,3 +363,29 @@ LATIHAN PEMODELAN
 
 Pilih satu proses yang berubah terhadap waktu, seperti tinggi air dalam wadah atau suhu minuman yang mendingin. Tentukan variabel, satuan, dan asumsi. Buat tabel pengamatan sederhana yang aman, gambarkan grafik, dan jelaskan apakah laju perubahan tampak konstan atau berubah. Jangan memaksakan rumus tertentu jika data tidak mendukungnya. Tuliskan keterbatasan pengukuran dan kemungkinan sumber galat.
 
+BAB LANJUTAN: INTEGRAL, TEOREMA DASAR, DAN PEMODELAN PERUBAHAN
+
+Integral tentu dapat dipahami sebagai akumulasi suatu besaran sepanjang interval. Jika fungsi menyatakan laju perubahan terhadap waktu, integralnya dapat menyatakan perubahan total selama selang tersebut. Jika fungsi menyatakan tinggi suatu kurva, integral tentu dapat digunakan untuk menghitung luas bertanda di bawah kurva. Interpretasi harus memperhatikan satuan: mengintegralkan kilometer per jam terhadap jam menghasilkan kilometer, sedangkan mengintegralkan laju aliran terhadap waktu menghasilkan volume.
+
+Pendekatan jumlah Riemann membagi interval menjadi bagian kecil, lalu menjumlahkan luas persegi panjang pendekatan. Ketika lebar bagian makin kecil dan fungsi memenuhi syarat yang sesuai, jumlah tersebut mendekati nilai integral. Pilihan titik sampel memengaruhi pendekatan pada pembagian yang masih kasar. Metode titik kiri, titik kanan, dan titik tengah dapat menghasilkan galat berbeda. Membandingkan hasil pada beberapa ukuran pembagian membantu memahami konvergensi.
+
+Teorema dasar kalkulus menghubungkan diferensiasi dan integrasi. Secara intuitif, jika fungsi akumulasi dibentuk dari integral suatu fungsi laju yang kontinu, turunannya mengembalikan laju tersebut. Hubungan ini memungkinkan perhitungan integral tentu melalui antiturunan. Namun, penggunaan rumus tetap memerlukan perhatian pada batas interval, kontinuitas, dan interpretasi tanda. Luas geometris biasa tidak selalu sama dengan integral bertanda jika fungsi berada di bawah sumbu horizontal.
+
+Teknik substitusi membantu menyederhanakan integral ketika suatu bagian fungsi memiliki turunan yang sesuai dengan faktor lain. Substitusi dapat dipahami sebagai perubahan variabel yang harus diikuti perubahan diferensial dan batas integrasi. Untuk integral tentu, batas baru perlu dihitung dalam variabel pengganti, atau hasil antiturunan dikembalikan ke variabel awal. Kesalahan umum terjadi ketika variabel diganti tetapi diferensial atau batas tidak disesuaikan.
+
+Integrasi parsial berasal dari aturan turunan hasil kali. Teknik ini berguna ketika integran merupakan hasil kali dua fungsi yang salah satunya lebih mudah diturunkan dan yang lain mudah diintegralkan. Pemilihan bagian perlu didasarkan pada penyederhanaan, bukan sekadar menghafal urutan. Beberapa soal membutuhkan penerapan berulang atau kombinasi dengan teknik lain. Pemeriksaan hasil melalui diferensiasi kembali merupakan cara penting untuk menguji antiturunan.
+
+Aplikasi integral meliputi perpindahan dari kecepatan, volume dari laju aliran, energi dari daya, dan luas atau volume geometri. Jika kecepatan berubah tanda, integral kecepatan menghasilkan perpindahan bersih, sedangkan jarak tempuh memerlukan integral nilai mutlak kecepatan. Perbedaan ini menunjukkan mengapa konteks fisik harus dibaca sebelum memilih operasi. Satuan dan tanda menjadi pemeriksaan awal yang sering mengungkap kesalahan.
+
+Model matematika selalu menyederhanakan kenyataan. Ketika menggunakan kalkulus untuk memodelkan pendinginan, pertumbuhan, atau aliran, peneliti harus menyebut asumsi seperti kondisi lingkungan tetap, parameter konstan, atau pengaruh luar yang diabaikan. Hasil model bukan pengamatan langsung. Perbandingan dengan data dan analisis sensitivitas membantu menilai apakah asumsi cukup masuk akal untuk tujuan tertentu.
+
+Kesalahan numerik muncul ketika perhitungan dilakukan dengan presisi terbatas. Pembulatan terlalu awal dapat mengubah hasil, sedangkan metode numerik dapat memiliki galat pemotongan dan galat pembulatan. Angka keluaran perangkat lunak tidak otomatis benar. Pengguna perlu memeriksa skala, satuan, kondisi awal, dan konsistensi dengan perkiraan kasar. Grafik dapat membantu menemukan perilaku yang tidak masuk akal, tetapi tidak menggantikan pembuktian atau analisis.
+
+Studi kasus: sebuah tangki menerima air dengan laju yang berubah menurut waktu. Peserta didik membuat model laju, menentukan interval pengamatan, dan menafsirkan integral sebagai volume air yang masuk. Mereka membandingkan pendekatan jumlah persegi panjang dengan hasil antiturunan jika model memungkinkan. Laporan menyebutkan ketidakpastian pengukuran dan asumsi bahwa tidak ada kebocoran.
+
+Latihan penerapan:
+1. Jelaskan makna satuan dari integral laju aliran terhadap waktu.
+2. Bandingkan jumlah Riemann titik kiri dan titik tengah.
+3. Hitung perpindahan dan jarak dari fungsi kecepatan yang berubah tanda.
+4. Periksa antiturunan dengan mendiferensiasikannya kembali.
+5. Sebutkan asumsi yang perlu diuji dalam model akumulasi air.

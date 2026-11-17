@@ -331,3 +331,33 @@ LATIHAN
 3. Mengapa analisis penyebab tidak boleh berhenti pada kesalahan individu?
 4. Bagaimana pengendalian dapat menimbulkan risiko baru?
 5. Apa ciri indikator peringatan dini yang berguna?
+
+
+BAB PENDALAMAN: ANALISIS SKENARIO DAN UJI KETAHANAN
+
+Analisis skenario digunakan untuk memahami bagaimana beberapa kondisi dapat berkembang dan memengaruhi tujuan organisasi. Skenario bukan ramalan tunggal, melainkan gambaran masuk akal yang membantu pengambil keputusan menguji asumsi. Untuk menyusunnya, tentukan tujuan yang ingin dilindungi, rentang waktu, faktor pendorong, dan ketidakpastian utama. Gabungkan faktor tersebut menjadi beberapa keadaan yang berbeda, lalu telusuri konsekuensinya.
+
+Skenario yang berguna tidak hanya menggambarkan keadaan paling buruk. Skenario dasar, skenario perubahan cepat, dan skenario tekanan berat dapat membantu organisasi membandingkan pilihan. Hindari membuat skenario yang terlalu dramatis tetapi tidak memiliki hubungan dengan konteks. Setiap asumsi harus dinyatakan, termasuk alasan mengapa faktor tertentu dianggap penting.
+
+Uji ketahanan menilai apakah rencana masih dapat berfungsi ketika asumsi berubah. Misalnya, apakah layanan tetap dapat berjalan jika pemasok terlambat, permintaan meningkat, atau sistem utama tidak tersedia? Pertanyaan ini dapat dijawab melalui diskusi, simulasi meja, atau pengujian terkontrol yang tidak mengganggu layanan nyata. Hasilnya adalah daftar ketergantungan kritis, pilihan alternatif, dan kondisi yang memicu perubahan rencana.
+
+BAB PENDALAMAN: KONTINUITAS LAYANAN DAN PEMULIHAN
+
+Kontinuitas layanan berfokus pada kemampuan mempertahankan fungsi penting selama gangguan. Organisasi perlu mengidentifikasi layanan yang paling penting, pengguna yang bergantung padanya, sumber daya minimum, serta batas waktu gangguan yang masih dapat diterima. Tidak semua proses harus dipulihkan bersamaan. Prioritas ditentukan berdasarkan dampak terhadap keselamatan, kewajiban, kebutuhan pengguna, dan keberlangsungan operasi.
+
+Rencana pemulihan memuat peran, jalur komunikasi, sumber daya alternatif, serta urutan pemulihan. Dokumen perlu mudah ditemukan oleh orang yang berwenang dan diperbarui ketika organisasi berubah. Rencana yang hanya disimpan tanpa latihan berisiko tidak dapat digunakan saat dibutuhkan. Latihan meja dapat menguji apakah setiap pihak memahami peran dan apakah keputusan dapat dibuat dengan informasi terbatas.
+
+Setelah gangguan, evaluasi perlu mengidentifikasi apa yang berjalan baik, apa yang gagal, dan mengapa. Hindari mencari satu orang untuk disalahkan sebelum memahami desain proses, beban kerja, informasi, dan dukungan yang tersedia. Tindakan perbaikan harus memiliki pemilik, tenggat, dan cara verifikasi. Pelajaran yang tidak diikuti perubahan hanya menjadi catatan tanpa pengaruh.
+
+BAB PENDALAMAN: RISIKO RANTAI PASOK DAN KETERGANTUNGAN
+
+Rantai pasok terdiri dari pemasok langsung, pemasok tingkat lanjut, transportasi, penyimpanan, layanan pendukung, dan infrastruktur. Gangguan pada satu titik dapat memengaruhi banyak bagian. Pemetaan ketergantungan membantu organisasi memahami apakah beberapa layanan bergantung pada penyedia, wilayah, atau teknologi yang sama. Ketergantungan tersembunyi sering baru terlihat ketika gangguan terjadi.
+
+Diversifikasi pemasok dapat mengurangi ketergantungan, tetapi menambah biaya koordinasi dan pemeriksaan mutu. Keputusan tidak cukup berdasarkan jumlah pemasok; kapasitas, lokasi, kualitas, kemampuan penggantian, dan ketentuan kontrak juga penting. Persediaan cadangan dapat membantu menghadapi jeda pasokan, namun harus disesuaikan dengan umur simpan, biaya, dan kebutuhan layanan.
+
+Penilaian pemasok sebaiknya mencakup keamanan informasi, perlindungan pekerja, kepatuhan, keberlanjutan, dan kemampuan pemulihan. Organisasi perlu mengetahui kewajiban pemberitahuan insiden dan cara mengakhiri hubungan secara tertib. Ketika fungsi penting dialihdayakan, tanggung jawab akhir terhadap pengguna tidak otomatis berpindah kepada pemasok.
+
+PROYEK MINI: LATIHAN SKENARIO LAYANAN DIGITAL
+
+Buat tiga skenario gangguan untuk layanan perpustakaan digital hipotetis: gangguan jaringan, kesalahan data katalog, dan ketidaktersediaan penyedia. Untuk setiap skenario, tulis dampak terhadap pembaca, proses yang harus diprioritaskan, informasi yang perlu disampaikan, dan kondisi pemulihan. Jangan melakukan pengujian pada layanan nyata. Akhiri dengan daftar perubahan rencana berdasarkan temuan latihan.
+

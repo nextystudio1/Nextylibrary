@@ -393,3 +393,34 @@ Latihan penerapan:
 3. Tulis satu keberatan yang kuat terhadap tesis lalu tanggapi secara adil.
 4. Buat kerangka laporan yang memisahkan temuan dan interpretasi.
 5. Sunting satu halaman dalam tiga putaran: struktur, fakta, lalu bahasa.
+
+
+BAB LANJUTAN: MENULIS ARGUMENTASI, LAPORAN, DAN TEKS PUBLIK
+
+Membangun argumen yang dapat diperiksa
+Tulisan argumentatif yang kuat tidak hanya menyatakan pendapat. Ia menyampaikan tesis yang terbatas, alasan yang relevan, bukti yang dapat diperiksa, serta penjelasan hubungan antara bukti dan kesimpulan. Sebelum menulis, ubah pertanyaan luas menjadi pertanyaan yang memiliki ruang lingkup, waktu, dan konteks. Misalnya, topik “teknologi pendidikan” dapat dipersempit menjadi “faktor yang memengaruhi penggunaan bahan ajar digital pada kelas tertentu”. Pembatasan membuat penulis dapat memilih bukti yang memadai dan menghindari klaim yang terlalu luas.
+
+Mengelola sumber dan parafrasa
+Catat identitas sumber sejak awal: penulis atau lembaga, judul, tanggal, penerbit, dan lokasi publikasi. Ketika mengambil gagasan, bedakan kutipan langsung, parafrasa, dan ringkasan. Parafrasa bukan sekadar mengganti beberapa kata dengan sinonim; penulis harus memahami gagasan, menyusun ulang dengan struktur sendiri, lalu tetap memberi atribusi. Kutipan langsung digunakan ketika rumusan asli memang penting, bukan untuk menggantikan penjelasan. Catatan sumber yang rapi mengurangi risiko salah atribusi dan memudahkan pemeriksaan fakta.
+
+Struktur paragraf yang bernalar
+Satu paragraf umumnya memiliki satu fungsi utama. Kalimat topik memperkenalkan gagasan; kalimat berikutnya menguraikan alasan atau bukti; kalimat penutup menjelaskan implikasi atau menghubungkan pembahasan ke bagian berikutnya. Tidak semua paragraf harus memiliki pola mekanis yang sama, tetapi pembaca perlu dapat mengenali perpindahan gagasan. Jika satu paragraf memuat definisi, sejarah, contoh, kritik, dan kesimpulan sekaligus, pecah menjadi beberapa paragraf dengan hubungan yang jelas. Gunakan kata penghubung sesuai hubungan logis: sebab, akibat, pertentangan, penambahan, syarat, atau urutan.
+
+Menulis laporan berbasis data
+Laporan perlu membedakan metode, temuan, interpretasi, dan rekomendasi. Bagian metode menjelaskan bagaimana informasi diperoleh; temuan menyajikan apa yang diamati; interpretasi menjelaskan makna yang mungkin; rekomendasi mengusulkan tindakan. Jangan mengubah korelasi menjadi sebab-akibat tanpa rancangan yang mendukung. Jika data terbatas, nyatakan keterbatasannya. Tabel harus memiliki judul, satuan, sumber, dan keterangan yang cukup agar dapat dibaca tanpa menebak. Angka yang dipilih tidak boleh menghilangkan konteks penting seperti jumlah responden atau periode pengamatan.
+
+Menyunting pada tiga tingkat
+Penyuntingan struktural memeriksa urutan gagasan, kelengkapan argumen, dan kesesuaian setiap bagian dengan tujuan. Penyuntingan kalimat memeriksa kejelasan subjek-predikat, panjang kalimat, rujukan kata ganti, dan pengulangan. Penyuntingan mekanis memeriksa ejaan, tanda baca, penulisan istilah, angka, dan konsistensi format. Lakukan dari tingkat besar ke kecil. Mengoreksi koma ketika struktur tulisan masih berubah hanya membuat pekerjaan berulang. Bacakan teks atau gunakan pembaca layar untuk menemukan kalimat yang terasa janggal.
+
+Pilihan ragam bahasa dan pembaca
+Ragam resmi diperlukan ketika konteks menuntut ketepatan, kesantunan, dan konsistensi istilah. Ragam populer dapat lebih luwes, tetapi tetap harus akurat. Tentukan siapa pembaca, pengetahuan awalnya, kebutuhan informasinya, dan tindakan yang diharapkan. Hindari istilah teknis tanpa penjelasan ketika pembaca umum menjadi sasaran. Sebaliknya, jangan mengorbankan ketepatan istilah dalam tulisan ilmiah hanya demi kesederhanaan. Jika istilah memiliki beberapa makna, definisikan pada penggunaan pertama.
+
+Latihan penyuntingan
+Ambil satu tulisan pendek. Tandai setiap kalimat yang menyatakan fakta, penilaian, atau usulan. Untuk fakta, cari sumber pendukung. Untuk penilaian, jelaskan kriterianya. Untuk usulan, tuliskan pihak pelaksana dan kemungkinan dampak. Setelah itu, ringkas setiap paragraf menjadi satu kalimat. Jika ringkasan dua paragraf ternyata sama, periksa apakah keduanya mengulang fungsi yang sama. Terakhir, minta pembaca lain menyebutkan tesis dan bukti utama tanpa melihat catatan penulis.
+
+Pertanyaan refleksi
+- Apa perbedaan parafrasa yang benar dan penggantian sinonim?
+- Mengapa metode harus dipisahkan dari interpretasi?
+- Bagaimana menentukan kapan istilah teknis perlu dijelaskan?
+- Urutan penyuntingan apa yang paling efisien dan mengapa?
+

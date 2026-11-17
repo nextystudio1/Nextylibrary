@@ -391,3 +391,34 @@ Latihan penerapan:
 3. Buat alur penerimaan dan penyelesaian keluhan pelanggan.
 4. Tentukan data pelanggan yang benar-benar diperlukan untuk satu layanan.
 5. Susun daftar risiko mutu dan langkah koreksi yang realistis.
+
+
+BAB LANJUTAN: TATA KELOLA USAHA, MUTU, DAN TANGGUNG JAWAB
+
+Tata kelola sejak usaha masih kecil
+Tata kelola bukan hanya kebutuhan perusahaan besar. Usaha kecil pun perlu aturan tentang siapa yang boleh menyetujui pengeluaran, bagaimana transaksi dicatat, siapa yang mengakses data pelanggan, dan bagaimana konflik kepentingan ditangani. Ketika peran keluarga, teman, dan rekan bisnis bercampur, kesepakatan tertulis membantu mencegah salah paham. Catat pembagian tugas, kontribusi modal, hak atas hasil karya, prosedur pengambilan keputusan, serta cara menyelesaikan perselisihan. Dokumen sederhana yang dipahami semua pihak lebih berguna daripada aturan panjang yang tidak pernah diterapkan.
+
+Kejujuran dalam pemasaran dan desain penawaran
+Klaim pemasaran harus sesuai dengan bukti. Pernyataan seperti “paling aman”, “pasti berhasil”, atau “ramah lingkungan sepenuhnya” memerlukan dasar yang kuat dan batasan yang jelas. Jelaskan harga total, syarat promosi, biaya tambahan, masa berlaku, serta kebijakan pengembalian sebelum pelanggan membuat keputusan. Foto produk sebaiknya mewakili kondisi barang yang diterima. Jika terdapat variasi bahan, ukuran, atau hasil, sampaikan secara terbuka. Kepercayaan jangka panjang lebih bernilai daripada peningkatan penjualan sesaat yang diperoleh melalui informasi menyesatkan.
+
+Mutu sebagai proses, bukan pemeriksaan akhir
+Mutu dibangun melalui pemahaman kebutuhan pengguna, spesifikasi yang jelas, proses yang terkendali, dan umpan balik. Tetapkan karakteristik yang dapat diukur, seperti ketepatan ukuran, waktu penyelesaian, tingkat kesalahan, atau konsistensi layanan. Catat keluhan berdasarkan kategori dan cari pola penyebab. Jika masalah berulang, periksa proses, pelatihan, bahan, alat, dan instruksi kerja. Jangan langsung menyalahkan pekerja atau pelanggan. Tindakan korektif perlu memiliki penanggung jawab, tenggat, dan cara memeriksa apakah perbaikan benar-benar efektif.
+
+Rantai pasok dan tanggung jawab
+Keputusan pemasok memengaruhi mutu, biaya, keselamatan, dan dampak sosial. Evaluasi pemasok berdasarkan konsistensi, ketertelusuran bahan, ketepatan pengiriman, kepatuhan, dan kemampuan menangani masalah. Harga terendah tidak selalu berarti biaya total terendah jika tingkat kerusakan dan keterlambatan tinggi. Untuk bahan yang berisiko, minta informasi asal dan standar yang relevan. Usaha kecil mungkin tidak mampu mengaudit seluruh rantai pasok, tetapi dapat memulai dari pemasok utama, menetapkan kriteria minimum, dan meninjau ulang hubungan ketika muncul bukti pelanggaran.
+
+Privasi dan pengelolaan data pelanggan
+Kumpulkan hanya data yang diperlukan untuk menyediakan layanan. Beri tahu tujuan pengumpulan, siapa yang dapat mengakses, berapa lama data disimpan, dan bagaimana pelanggan mengajukan permintaan yang tersedia menurut ketentuan berlaku. Hindari menyimpan salinan identitas atau informasi sensitif tanpa kebutuhan yang sah. Batasi akses berdasarkan tugas, gunakan perangkat yang diperbarui, dan siapkan prosedur jika terjadi kebocoran. Data pelanggan bukan aset bebas yang boleh digunakan untuk tujuan apa pun; kepercayaan bergantung pada penggunaan yang transparan dan bertanggung jawab.
+
+Mengukur keberlanjutan usaha
+Keberlanjutan mencakup kemampuan keuangan, ketahanan operasional, dampak terhadap pekerja, pelanggan, masyarakat, dan lingkungan. Ukur indikator yang relevan, misalnya tingkat produk cacat, limbah per unit, konsumsi energi, keselamatan kerja, ketepatan pembayaran pemasok, dan penyelesaian keluhan. Pilih sedikit indikator yang dapat dikumpulkan secara konsisten. Jelaskan metode dan batas datanya. Jangan mengklaim dampak besar dari satu kegiatan kecil tanpa pembanding atau bukti yang memadai.
+
+Latihan kasus
+Sebuah usaha mendapat tawaran pemasok yang jauh lebih murah, tetapi informasi asal bahan tidak jelas dan beberapa pelanggan melaporkan mutu yang tidak konsisten. Buat daftar pihak yang terdampak, bukti yang perlu diminta, risiko jangka pendek dan panjang, serta pilihan tindakan. Bandingkan biaya langsung dengan potensi biaya pengembalian, reputasi, dan gangguan pasokan. Susun keputusan yang dapat dijelaskan kepada pekerja dan pelanggan tanpa membuka informasi rahasia pihak lain.
+
+Pertanyaan refleksi
+- Aturan tata kelola apa yang paling penting dibuat sebelum usaha berkembang?
+- Bagaimana membedakan promosi yang menarik dari klaim yang menyesatkan?
+- Mengapa keluhan pelanggan perlu dianalisis sebagai data proses?
+- Bagaimana usaha kecil dapat memulai pengelolaan dampak secara terukur?
+

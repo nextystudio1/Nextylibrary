@@ -321,3 +321,26 @@ pH merupakan ukuran logaritmik aktivitas ion hidrogen, bukan skala linear sederh
 
 Air alami mengandung sistem karbonat, mineral terlarut, gas, serta bahan organik yang dapat memengaruhi pH. Sampel yang dibiarkan terbuka dapat bertukar gas dengan udara dan berubah. Catatan waktu, wadah, kondisi penyimpanan, serta prosedur pengukuran membantu menilai apakah nilai mewakili keadaan awal. Penjelasan kimia yang baik selalu menghubungkan angka dengan sistem yang diukur.
 
+PENDALAMAN: KESETIMBANGAN LARUTAN DAN PENALARAN ASAM-BASA
+
+Larutan merupakan campuran homogen pada skala yang diamati, tetapi perilaku zat terlarut ditentukan oleh interaksi antarpartikel. Konsentrasi menyatakan banyaknya zat dalam jumlah tertentu larutan atau pelarut, bergantung pada satuan yang digunakan. Molaritas, misalnya, menyatakan jumlah mol zat terlarut per volume larutan. Ketika suhu berubah, volume dapat berubah sehingga nilai molaritas juga dapat berubah. Oleh sebab itu, satuan dan kondisi pengukuran harus disebutkan saat membandingkan hasil.
+
+Kelarutan dipengaruhi sifat zat terlarut, pelarut, suhu, dan dalam beberapa sistem tekanan. Istilah “larut” tidak berarti semua zat akan bercampur dalam jumlah tanpa batas. Pada keadaan jenuh, sistem mencapai batas kelarutan pada kondisi tertentu dan dapat berada dalam kesetimbangan dengan zat yang belum larut. Pengadukan dapat mempercepat tercapainya keadaan setimbang, tetapi tidak selalu mengubah nilai kelarutan kesetimbangan.
+
+Kesetimbangan kimia bersifat dinamis: proses maju dan balik tetap berlangsung, sementara komposisi makroskopis tidak berubah selama kondisi tetap. Prinsip Le Chatelier membantu memprediksi arah perubahan ketika konsentrasi, tekanan, atau suhu diubah. Namun, penerapannya harus memperhatikan reaksi yang sedang dikaji dan apakah perubahan tersebut mengubah konstanta kesetimbangan. Katalis mempercepat tercapainya kesetimbangan, tetapi tidak menggeser posisi kesetimbangan itu sendiri.
+
+Asam dan basa dapat dijelaskan melalui beberapa kerangka. Model Arrhenius membahas pembentukan ion dalam air, sedangkan model Brønsted-Lowry menekankan perpindahan proton. Dalam model Brønsted-Lowry, asam menyumbangkan proton dan basa menerimanya. Pasangan asam-basa konjugasi berbeda satu proton. Kerangka ini membantu memahami mengapa suatu spesies dapat berperan sebagai asam dalam satu reaksi dan sebagai basa dalam reaksi lain.
+
+Larutan penyangga mengurangi perubahan pH ketika sejumlah kecil asam atau basa ditambahkan. Sistem ini biasanya melibatkan pasangan asam lemah dan basa konjugasinya, atau basa lemah dan asam konjugasinya. Kapasitas penyangga terbatas dan bergantung pada jumlah komponen serta perbandingannya. Penyangga tidak membuat pH mustahil berubah; ia hanya menahan perubahan dalam rentang kondisi tertentu. Penjelasan kuantitatif perlu menyatakan asumsi dan keterbatasan pendekatan yang digunakan.
+
+Indikator asam-basa berubah warna pada rentang pH tertentu. Pemilihan indikator perlu disesuaikan dengan daerah perubahan pH yang diharapkan dalam titrasi. Titik ekuivalen secara stoikiometri tidak selalu identik dengan titik akhir yang diamati melalui perubahan warna. Pemilihan indikator yang tepat membuat keduanya cukup berdekatan untuk tujuan pengukuran. Pembacaan buret, pembilasan alat, homogenitas sampel, dan pengulangan pengukuran ikut menentukan mutu hasil.
+
+Keselamatan pembelajaran kimia menuntut penggunaan bahan dan prosedur yang disetujui pengajar, label yang jelas, alat pelindung sesuai kegiatan, serta pengelolaan limbah berdasarkan aturan laboratorium. Siswa tidak boleh mencampur bahan rumah tangga atau bahan yang tidak dikenal untuk mencoba menghasilkan reaksi. Konsep dapat dipelajari melalui simulasi, data contoh, dan demonstrasi terawasi tanpa melakukan eksperimen yang tidak sesuai fasilitas.
+
+LATIHAN PENDALAMAN
+1. Jelaskan perbedaan molaritas dan jumlah mol zat terlarut.
+2. Mengapa pengadukan dapat mempercepat pelarutan tanpa selalu mengubah kelarutan?
+3. Identifikasi pasangan asam-basa konjugasi dalam persamaan reaksi yang diberikan pengajar.
+4. Jelaskan mengapa larutan penyangga memiliki kapasitas terbatas.
+5. Bedakan titik ekuivalen dan titik akhir dalam titrasi.
+

@@ -282,3 +282,43 @@ LATIHAN
 
 PROYEK
 Buat kebijakan keamanan informasi ringkas untuk organisasi belajar. Tentukan klasifikasi data, aturan akses, proses perubahan peran, jalur pelaporan, dan tanggung jawab komunikasi. Gunakan contoh hipotetis dan jangan menguji sistem nyata tanpa izin.
+
+BAB: KEAMANAN AKUN DAN IDENTITAS DIGITAL
+
+Akun digital sering menjadi pintu masuk ke banyak layanan lain. Karena itu, keamanan akun perlu dipandang sebagai perlindungan identitas, komunikasi, dokumen, dan aktivitas pengguna. Gunakan kata sandi yang panjang, unik, dan tidak dipakai ulang pada layanan berbeda. Pengelola kata sandi tepercaya dapat membantu membuat dan menyimpan kredensial unik. Jangan membagikan kode verifikasi, kata sandi, atau tautan pemulihan kepada orang lain, termasuk pihak yang mengaku sebagai petugas dukungan.
+
+Autentikasi multifaktor menambahkan pemeriksaan selain kata sandi. Bentuknya dapat berupa aplikasi autentikator, kunci keamanan, atau metode lain yang disediakan layanan. Metode yang berbeda memiliki tingkat perlindungan dan kemudahan yang berbeda. Simpan kode pemulihan di tempat aman yang tidak mudah diakses orang lain. Periksa daftar perangkat dan sesi yang masih masuk, terutama setelah menggunakan perangkat bersama.
+
+Pemulihan akun perlu direncanakan sebelum masalah terjadi. Pastikan alamat pemulihan masih dapat diakses dan informasi kontak selalu diperbarui. Jika kehilangan akses, gunakan prosedur resmi penyedia layanan. Jangan membayar pihak tidak dikenal yang menjanjikan pemulihan instan atau meminta kode rahasia. Catat bukti komunikasi yang mencurigakan dan mintalah bantuan orang dewasa atau pengelola sistem bila akun sekolah atau keluarga terlibat.
+
+BAB: MENGENALI PENIPUAN DAN REKAYASA SOSIAL
+
+Serangan rekayasa sosial memanfaatkan kepercayaan, rasa takut, rasa ingin tahu, atau tekanan waktu. Pesan dapat menyamar sebagai pemberitahuan hadiah, masalah akun, pengiriman paket, atau permintaan dari orang yang dikenal. Tanda yang perlu diperiksa antara lain alamat pengirim, domain tautan, konteks permintaan, ejaan, dan apakah pesan meminta informasi rahasia. Namun, pesan yang rapi pun belum tentu asli.
+
+Jangan membuka lampiran atau tautan yang tidak diharapkan sebelum memeriksa sumbernya melalui saluran lain. Jika pesan mengaku berasal dari guru, teman, atau keluarga dan meminta tindakan tidak biasa, konfirmasikan secara terpisah. Jangan menggunakan nomor telepon atau tautan yang hanya tersedia dalam pesan mencurigakan itu. Berhenti sejenak dan memeriksa adalah kebiasaan keamanan yang sederhana tetapi efektif.
+
+Penipuan dapat menggunakan suara, gambar, atau video sintetis agar tampak meyakinkan. Bukti visual tidak selalu cukup untuk memastikan identitas. Periksa konteks, cari konfirmasi melalui saluran resmi, dan jangan menyebarkan materi yang belum terverifikasi. Jika menemukan upaya penipuan, laporkan melalui fitur resmi layanan atau kepada pengelola organisasi. Hindari mempermalukan korban; fokuslah pada perlindungan dan pemulihan.
+
+BAB: PERLINDUNGAN PERANGKAT DAN PEMBARUAN
+
+Pembaruan perangkat lunak sering memperbaiki kesalahan dan kelemahan keamanan. Aktifkan pembaruan otomatis jika tersedia dan sesuai kebijakan perangkat. Gunakan aplikasi dari sumber resmi, periksa izin yang diminta, dan hapus aplikasi yang tidak lagi digunakan. Izin lokasi, kamera, mikrofon, kontak, dan berkas perlu diberikan berdasarkan fungsi yang benar-benar dibutuhkan.
+
+Kunci layar membantu mencegah akses tanpa izin ketika perangkat tertinggal. Atur pencadangan untuk dokumen penting dan pastikan salinan cadangan dapat dipulihkan. Pencadangan yang tidak pernah diuji belum tentu berguna saat diperlukan. Perangkat bersama sebaiknya memiliki akun terpisah bila memungkinkan. Setelah selesai, keluar dari akun dan jangan menyimpan kata sandi pada perangkat publik.
+
+BAB: KEBIJAKAN KEAMANAN DI ORGANISASI KECIL
+
+Organisasi belajar atau komunitas kecil tetap membutuhkan tata kelola keamanan. Tetapkan siapa yang bertanggung jawab atas akun, perangkat, data anggota, dan komunikasi insiden. Gunakan hak akses minimum: setiap orang hanya memperoleh akses yang dibutuhkan untuk tugasnya. Ketika seseorang berganti peran atau tidak lagi terlibat, akses harus ditinjau dan diperbarui.
+
+Kebijakan yang baik ditulis dengan bahasa sederhana dan disertai prosedur yang dapat dijalankan. Tentukan cara melaporkan pesan mencurigakan, kehilangan perangkat, atau salah kirim dokumen. Jelaskan siapa yang menerima laporan dan bagaimana pengguna memperoleh kabar tindak lanjut. Hindari budaya menyalahkan orang yang melapor dengan jujur karena hal itu membuat masalah terlambat diketahui.
+
+PROYEK
+
+Buat panduan keamanan akun untuk klub belajar. Isinya mencakup kata sandi unik, autentikasi multifaktor, pemeriksaan tautan, pembaruan perangkat, pencadangan, dan prosedur pelaporan. Uji apakah anggota dapat menjelaskan langkah yang harus diambil ketika menerima pesan mencurigakan. Gunakan contoh rekaan dan jangan melakukan percobaan terhadap akun atau sistem sungguhan.
+
+PERTANYAAN
+
+1. Mengapa kata sandi tidak boleh digunakan ulang?
+2. Apa fungsi autentikasi multifaktor?
+3. Bagaimana mengonfirmasi permintaan yang mencurigakan?
+4. Mengapa izin aplikasi perlu ditinjau?
+5. Apa yang membuat prosedur pelaporan insiden mudah digunakan?

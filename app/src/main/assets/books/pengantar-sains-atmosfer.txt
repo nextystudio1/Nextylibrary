@@ -323,3 +323,32 @@ Kota mengubah pertukaran energi dan aliran udara melalui bangunan, jalan, vegeta
 
 Kualitas udara dipengaruhi emisi, reaksi kimia atmosfer, transportasi, dan kondisi meteorologi. Angin dapat menyebarkan polutan, tetapi kondisi atmosfer stabil dapat membatasi pencampuran vertikal. Data konsentrasi perlu dikaitkan dengan lokasi stasiun, ketinggian alat, waktu, dan metode pengukuran. Informasi ini membantu membedakan perubahan emisi dari perubahan kondisi penyebaran.
 
+
+BAB PENDALAMAN: KELEMBAPAN, TITIK EMBUN, DAN PEMBENTUKAN AWAN
+
+Uap air merupakan komponen atmosfer yang jumlahnya berubah-ubah. Kelembapan relatif membandingkan kandungan uap air aktual dengan jumlah maksimum yang dapat ditampung udara pada suhu tertentu. Karena kapasitas udara menahan uap air meningkat ketika suhu naik, kelembapan relatif dapat berubah walaupun jumlah uap air tidak banyak berubah. Oleh sebab itu, angka kelembapan perlu dibaca bersama suhu dan waktu pengamatan.
+
+Titik embun adalah suhu ketika udara menjadi jenuh jika didinginkan pada tekanan yang sesuai tanpa mengubah kandungan uap airnya. Ketika udara naik, tekanan lingkungan menurun dan udara mengembang sehingga mendingin. Jika pendinginan mencapai kondisi jenuh, kondensasi dapat terjadi pada partikel kecil di atmosfer. Kumpulan tetesan air atau kristal es tersebut membentuk awan. Awan bukan uap air yang terlihat; uap air tidak berwarna, sedangkan awan tampak karena tetesan dan kristal menghamburkan cahaya.
+
+Awan memiliki bentuk dan ketinggian yang beragam. Awan berlapis sering berkaitan dengan gerak udara naik yang luas dan relatif perlahan, sedangkan awan menjulang dapat berkembang ketika atmosfer mendukung konveksi kuat. Bentuk awan memberi petunjuk, tetapi tidak cukup untuk memastikan cuaca di suatu lokasi. Pengamatan perlu dikombinasikan dengan radar, satelit, data permukaan, dan informasi prakiraan resmi.
+
+BAB PENDALAMAN: STABILITAS ATMOSFER DAN KONVEKSI
+
+Stabilitas atmosfer menggambarkan kecenderungan suatu paket udara yang dipindahkan secara vertikal untuk kembali, tetap, atau terus bergerak dari posisi awal. Perbandingan suhu paket udara dengan lingkungan membantu menjelaskan kecenderungan tersebut. Jika paket lebih hangat dan kurang rapat daripada udara sekitar, paket dapat terus naik. Jika lebih dingin dan lebih rapat, gerak naik cenderung terhambat. Kelembapan memengaruhi proses karena kondensasi melepaskan energi laten.
+
+Konveksi berkembang ketika pemanasan permukaan membuat udara dekat tanah menjadi lebih ringan dan naik. Proses ini dapat menghasilkan awan cumulus dan, pada kondisi tertentu, awan badai. Namun, pemanasan permukaan saja tidak menjamin badai. Ketersediaan uap air, profil suhu, pemicu pengangkatan, dan perubahan angin terhadap ketinggian ikut menentukan perkembangan awan. Karena itu, satu tanda visual tidak boleh dipakai sebagai satu-satunya dasar keputusan keselamatan.
+
+BAB PENDALAMAN: SIKLON TROPIS DAN SISTEM HUJAN
+
+Siklon tropis merupakan sistem tekanan rendah terorganisasi yang memperoleh energi dari laut hangat dan proses atmosfer. Sistem ini dapat menghasilkan angin kencang, hujan lebat, gelombang tinggi, dan dampak pesisir. Struktur dan intensitasnya berubah seiring kondisi laut dan atmosfer. Tidak semua gangguan tropis berkembang menjadi siklon, dan lintasan prakiraan memiliki ketidakpastian yang perlu diperhatikan.
+
+Hujan lebat di wilayah tropis juga dapat muncul dari konveksi lokal, pertemuan angin, pengaruh topografi, atau sistem skala luas. Pegunungan dapat memaksa udara lembap naik sehingga hujan meningkat pada sisi tertentu. Di wilayah perkotaan, permukaan kedap air mempercepat limpasan sehingga hujan dengan durasi tertentu dapat memicu genangan. Dampak hujan tidak hanya ditentukan jumlah total, tetapi juga intensitas, durasi, kondisi drainase, dan keadaan daerah aliran sungai.
+
+PENGAMATAN TERARAH: MEMBACA DATA CUACA
+
+Saat membandingkan dua stasiun cuaca, periksa ketinggian, posisi, lingkungan sekitar, kalibrasi, dan waktu pencatatan. Sensor suhu yang berada dekat permukaan beton dapat menunjukkan kondisi berbeda dari sensor di area berumput yang terlindung. Data yang hilang atau tidak wajar perlu ditandai, bukan langsung diisi dengan angka perkiraan. Grafik harian dapat memperlihatkan pola, sedangkan tabel membantu memeriksa nilai ekstrem dan perubahan mendadak.
+
+PROYEK MINI: JURNAL ATMOSFER LOKAL
+
+Selama beberapa hari, catat suhu, kondisi awan secara deskriptif, arah angin jika tersedia, dan hujan berdasarkan pengamatan aman dari tempat terlindung. Sertakan waktu serta lokasi umum tanpa membagikan alamat pribadi. Bandingkan catatan dengan prakiraan resmi. Tujuannya bukan membuktikan prakiraan salah dari satu kejadian, melainkan memahami perbedaan antara pengamatan titik lokal dan prakiraan untuk wilayah yang lebih luas.
+

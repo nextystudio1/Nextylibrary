@@ -367,3 +367,30 @@ LATIHAN DAN PROYEK
 5. Mengapa metadata perlu diperiksa sebelum foto dibagikan?
 
 Proyek: buat esai foto tentang ruang belajar atau kegiatan lingkungan yang aman dan mendapat izin. Rencanakan urutan gambar, variasikan jarak pengambilan, tulis keterangan yang faktual, dan simpan catatan penyuntingan. Minta pembaca menilai apakah rangkaian gambar menyampaikan konteks secara utuh.
+
+BAB LANJUTAN: PENCAHAYAAN, RANGKAIAN GAMBAR, DAN TANGGUNG JAWAB DOKUMENTASI
+
+Pencahayaan menentukan bagian mana dari adegan yang terlihat dan bagaimana tekstur, warna, serta bentuk dipahami. Sumber cahaya dapat keras atau lembut, langsung atau menyebar. Cahaya keras menghasilkan batas bayangan yang tegas, sedangkan cahaya menyebar cenderung menghasilkan transisi yang lebih halus. Fotografer dapat mengamati arah cahaya dengan memperhatikan bayangan pada objek, bukan hanya mengubah pengaturan kamera. Pemahaman ini membantu memilih posisi dan waktu pemotretan.
+
+Rentang dinamis menggambarkan perbedaan antara bagian paling terang dan paling gelap yang dapat direkam dengan detail. Adegan dengan jendela sangat terang dan ruangan gelap dapat melampaui kemampuan sensor. Pengukuran cahaya perlu mempertimbangkan bagian yang menjadi prioritas. Jika detail pada wajah penting, eksposur dapat diarahkan ke area tersebut sambil tetap memeriksa bagian terang agar tidak kehilangan informasi secara berlebihan. Tidak semua bagian harus memiliki detail sempurna; keputusan bergantung pada tujuan gambar.
+
+Keseimbangan putih berkaitan dengan penyesuaian warna agar objek netral tampak wajar di bawah sumber cahaya berbeda. Lampu ruangan, cahaya matahari, dan bayangan dapat memiliki karakter warna yang berbeda. Pengaturan otomatis sering membantu, tetapi dapat keliru pada adegan dengan dominasi satu warna. Memotret referensi netral atau menggunakan pengaturan manual dapat meningkatkan konsistensi. Penyuntingan warna sebaiknya menjaga hubungan antargambar ketika foto digunakan sebagai dokumentasi.
+
+Komposisi adalah cara menata unsur visual dalam bingkai. Garis, bentuk, ruang kosong, pola, kontras, dan titik perhatian dapat mengarahkan pandangan. Aturan sepertiga hanyalah alat bantu, bukan hukum. Penempatan subjek di tengah dapat tepat ketika simetri atau ketegasan menjadi tujuan. Ruang kosong dapat memberi kesan tenang atau menunjukkan hubungan subjek dengan lingkungan. Pilihan komposisi perlu mendukung informasi yang ingin disampaikan.
+
+Cerita visual terbentuk dari hubungan antargambar, bukan hanya dari satu foto yang menarik. Foto pembuka dapat memperkenalkan tempat, foto menengah menunjukkan aktivitas atau detail, dan foto penutup memberi konteks akibat atau perubahan. Urutan perlu dipertimbangkan agar pembaca tidak salah memahami hubungan waktu dan sebab-akibat. Keterangan foto menjawab siapa, apa, kapan, dan konteks yang relevan berdasarkan informasi yang benar-benar diketahui.
+
+Penyuntingan dokumenter memerlukan batas yang jelas. Penyesuaian global seperti koreksi eksposur dan keseimbangan warna dapat membantu keterbacaan, tetapi menghapus atau menambahkan objek dapat mengubah makna peristiwa. Jika gambar merupakan karya ilustratif atau komposit, hal tersebut harus dinyatakan. Simpan berkas asli dan catatan perubahan untuk menjaga jejak proses. Hindari menyajikan rekonstruksi sebagai bukti kejadian nyata.
+
+Etika pemotretan mencakup persetujuan, martabat, dan konteks. Memotret seseorang di ruang publik tidak otomatis berarti semua penggunaan gambar pantas. Foto anak, situasi rentan, atau kejadian pribadi memerlukan perhatian lebih. Hindari keterangan yang mempermalukan atau menyimpulkan keadaan seseorang tanpa bukti. Jika subjek meminta gambar tidak dipublikasikan, pertimbangkan permintaan itu secara serius dan patuhi aturan yang berlaku.
+
+Metadata dapat memuat waktu, perangkat, dan lokasi. Informasi lokasi yang tertanam pada foto dapat membuka detail pribadi atau pola aktivitas. Sebelum membagikan gambar, periksa metadata dan tujuan publikasi. Arsip kerja dapat menyimpan informasi yang diperlukan dengan akses terbatas, sedangkan salinan publik dapat menghapus data yang tidak relevan. Penamaan berkas dan struktur folder yang konsisten juga memudahkan pencarian tanpa mengandalkan informasi sensitif.
+
+Studi kasus: kelompok siswa membuat esai foto tentang kebersihan lingkungan sekolah. Mereka meminta izin sebelum memotret orang, mengambil gambar fasilitas dan kegiatan, serta menyusun urutan dari kondisi awal hingga upaya perbaikan. Keterangan membedakan pengamatan langsung dari pendapat. Foto tidak diubah untuk menciptakan kesan keberhasilan yang tidak terjadi. Pembaca kemudian diminta menilai apakah rangkaian gambar memberi konteks yang cukup.
+
+Latihan penerapan:
+1. Bandingkan hasil cahaya keras dan cahaya menyebar pada objek yang sama.
+2. Buat urutan lima foto yang menceritakan satu proses secara kronologis.
+3. Tulis keterangan foto yang memisahkan fakta dan interpretasi.
+4. Tentukan perubahan penyuntingan yang dapat mengubah makna dokumenter.
+5. Susun daftar pemeriksaan privasi sebelum foto dipublikasikan.

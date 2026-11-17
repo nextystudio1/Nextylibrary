@@ -330,3 +330,36 @@ Pemodelan dimulai dengan pertanyaan yang terukur. Tentukan variabel, satuan, par
 
 Analisis sensitivitas menilai seberapa besar hasil berubah ketika parameter berubah. Model yang sangat sensitif memerlukan kehati-hatian lebih tinggi, terutama jika parameternya tidak diketahui secara tepat. Grafik, tabel nilai, dan pemeriksaan satuan dapat membantu menjelaskan hasil kepada pembaca nonspesialis. Kalkulus menjadi alat berpikir ketika digunakan untuk memahami perubahan, bukan sekadar menjalankan aturan simbolik.
 
+
+BAB PENDALAMAN: LIMIT DAN KONTINUITAS SECARA LEBIH TELITI
+
+Limit menjelaskan nilai yang didekati fungsi ketika masukan mendekati suatu titik. Nilai fungsi tepat di titik tersebut dapat berbeda dari limitnya, atau bahkan tidak terdefinisi. Perbedaan ini penting ketika mempelajari lubang pada grafik, loncatan, dan perilaku tak terbatas. Limit kiri dan limit kanan harus sama agar limit dua sisi ada. Jika keduanya berbeda, fungsi tidak memiliki limit dua sisi pada titik itu.
+
+Kontinuitas pada suatu titik memerlukan tiga hal: fungsi terdefinisi di titik tersebut, limitnya ada, dan nilai limit sama dengan nilai fungsi. Grafik yang tampak mulus dapat membantu intuisi, tetapi definisi tetap diperlukan untuk membahas kasus yang lebih rumit. Dalam penerapan, kontinuitas sering menjadi asumsi model. Perubahan mendadak pada sistem nyata dapat membuat asumsi tersebut tidak sesuai, sehingga model perlu dibagi menjadi beberapa rentang.
+
+BAB PENDALAMAN: ATURAN TURUNAN DAN MAKNA GEOMETRIS
+
+Turunan dapat dipahami sebagai kemiringan garis singgung pada grafik fungsi. Secara aljabar, turunan diperoleh dari limit hasil bagi perubahan keluaran terhadap perubahan masukan ketika perubahan masukan mendekati nol. Aturan pangkat, penjumlahan, hasil kali, hasil bagi, dan rantai mempersingkat perhitungan, tetapi setiap aturan memiliki syarat penggunaan.
+
+Aturan rantai sangat penting untuk fungsi komposisi. Jika satu besaran bergantung pada besaran kedua, dan besaran kedua bergantung pada waktu, laju perubahan total diperoleh dengan mengalikan laju pada tiap hubungan. Contohnya, luas lingkaran bergantung pada jari-jari, sementara jari-jari dapat berubah terhadap waktu. Hubungan ini memungkinkan laju perubahan luas ditentukan dari laju perubahan jari-jari.
+
+Turunan tidak selalu ada. Sudut tajam, garis singgung vertikal, diskontinuitas, atau osilasi tertentu dapat membuat turunan gagal ada. Karena itu, jangan menyimpulkan diferensiabilitas hanya dari beberapa titik perhitungan. Periksa definisi, bentuk fungsi, dan perilaku di sekitar titik yang dibahas.
+
+BAB PENDALAMAN: INTEGRAL, TEOREMA DASAR, DAN AKUMULASI
+
+Integral tentu mengukur akumulasi bertanda pada suatu interval. Jika fungsi bernilai positif, luas berada di atas sumbu horizontal; jika negatif, kontribusinya mengurangi hasil integral. Luas geometris total berbeda dari integral bertanda karena luas geometris tidak negatif. Untuk menghitung luas antara dua kurva, tentukan kurva atas dan bawah pada setiap bagian interval, lalu integralkan selisihnya.
+
+Teorema dasar kalkulus menghubungkan turunan dan integral. Jika fungsi kontinu pada interval dan memiliki antiturunan, integral tentu dapat dihitung dari selisih nilai antiturunan di batas atas dan bawah. Hubungan ini menjelaskan mengapa operasi diferensiasi dan integrasi saling berkaitan, meskipun masing-masing menjawab pertanyaan yang berbeda: perubahan sesaat dan akumulasi.
+
+Dalam konteks gerak, integral kecepatan terhadap waktu menghasilkan perubahan posisi, bukan selalu jarak total. Jika arah gerak berubah, kecepatan bertanda dapat saling mengurangi. Jarak total memerlukan nilai mutlak kecepatan atau pembagian interval pada saat arah berubah. Pemilihan besaran yang tepat menentukan apakah hasil perhitungan sesuai pertanyaan.
+
+BAB PENDALAMAN: PERSAMAAN DIFERENSIAL SEDERHANA
+
+Persamaan diferensial menghubungkan suatu fungsi dengan satu atau lebih turunannya. Model pertumbuhan eksponensial menyatakan laju perubahan sebanding dengan jumlah saat ini. Model peluruhan menggunakan prinsip serupa dengan konstanta negatif. Model tersebut berguna sebagai pendekatan pada rentang tertentu, tetapi tidak boleh diterapkan tanpa memeriksa asumsi seperti sumber daya tak terbatas atau laju tetap.
+
+Untuk model pendinginan sederhana, laju perubahan suhu benda sebanding dengan selisih suhu benda dan lingkungan. Solusi model memperlihatkan suhu mendekati suhu lingkungan seiring waktu. Dalam praktik, koefisien perpindahan panas dapat berubah karena aliran udara, bentuk benda, dan kondisi permukaan. Kalkulus membantu membangun model, sementara pengukuran menentukan apakah model cukup sesuai.
+
+LATIHAN PEMODELAN
+
+Pilih satu proses yang berubah terhadap waktu, seperti tinggi air dalam wadah atau suhu minuman yang mendingin. Tentukan variabel, satuan, dan asumsi. Buat tabel pengamatan sederhana yang aman, gambarkan grafik, dan jelaskan apakah laju perubahan tampak konstan atau berubah. Jangan memaksakan rumus tertentu jika data tidak mendukungnya. Tuliskan keterbatasan pengukuran dan kemungkinan sumber galat.
+

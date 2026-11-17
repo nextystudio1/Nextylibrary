@@ -199,3 +199,27 @@ LATIHAN DAN PEMBAHASAN
 3. Apa ciri pesan kesalahan yang baik? Menjelaskan masalah dan cara memperbaikinya.
 4. Mengapa desain responsif bukan sekadar mengecilkan tampilan? Karena tata letak dan prioritas harus menyesuaikan konteks perangkat.
 5. Mengapa riset pengguna perlu persetujuan? Untuk menghormati pilihan, privasi, dan hak peserta.
+BAB LANJUTAN 1. MODEL MENTAL DAN KETERLIHATAN SISTEM
+
+Model mental adalah pemahaman yang dibentuk pengguna tentang cara kerja suatu sistem. Antarmuka yang baik membantu model mental tersebut mendekati perilaku sistem sebenarnya. Label yang jelas, pengelompokan yang konsisten, dan respons yang dapat diprediksi mengurangi kebutuhan menebak. Jika sebuah ikon memiliki arti yang tidak umum, berikan label atau petunjuk yang mudah ditemukan.
+
+Keterlihatan status membantu pengguna mengetahui apa yang sedang terjadi. Indikator memuat, pesan berhasil, status tersimpan, dan informasi koneksi dapat mengurangi ketidakpastian. Namun terlalu banyak indikator dapat menambah gangguan. Tampilkan informasi yang relevan dengan keputusan pengguna dan gunakan bahasa yang menjelaskan keadaan, bukan kode teknis yang hanya dipahami pengembang.
+
+BAB LANJUTAN 2. PENCEGAHAN KESALAHAN DAN PEMULIHAN
+
+Kesalahan dapat muncul karena desain tidak jelas, data tidak lengkap, kondisi jaringan, atau tindakan pengguna yang sulit dibatalkan. Pencegahan dapat dilakukan melalui pilihan yang masuk akal, batasan input, contoh format, dan konfirmasi untuk tindakan yang berdampak besar. Konfirmasi tidak perlu muncul untuk setiap tindakan kecil karena terlalu banyak dialog dapat membuat pengguna menekan tombol tanpa membaca.
+
+Pesan kesalahan yang baik menjelaskan apa yang terjadi, bagian yang perlu diperbaiki, dan langkah berikutnya. Hindari pesan yang menyalahkan pengguna atau hanya menampilkan kode internal. Jika memungkinkan, pertahankan data yang sudah dimasukkan agar pengguna tidak harus mengulang seluruh proses. Fitur batal atau urungkan dapat membantu pemulihan ketika konsekuensi tindakan dapat dibalik.
+
+BAB LANJUTAN 3. EVALUASI KEGUNAAN DAN INTERPRETASI HASIL
+
+Uji kegunaan meminta peserta menyelesaikan tugas yang mewakili tujuan nyata. Moderator sebaiknya memberi tugas netral, mengamati tanpa terlalu cepat membantu, dan mencatat titik kebingungan. Ukuran yang dapat digunakan meliputi keberhasilan tugas, waktu penyelesaian, kesalahan, kebutuhan bantuan, dan penilaian pengalaman. Angka perlu dipadukan dengan pengamatan kualitatif agar penyebab masalah dapat dipahami.
+
+Jumlah peserta kecil dapat menemukan masalah kegunaan penting, tetapi tidak otomatis mewakili seluruh populasi. Laporkan karakteristik peserta yang relevan, konteks pengujian, tugas, dan keterbatasan. Setelah perbaikan, lakukan pengujian ulang untuk memastikan perubahan menyelesaikan masalah tanpa menimbulkan hambatan baru. Data pengujian harus dikumpulkan secara etis dan tidak menyimpan informasi pribadi yang tidak diperlukan.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Apa perbedaan model mental pengguna dan cara kerja internal sistem?
+2. Berikan contoh indikator status yang membantu tanpa membebani.
+3. Kapan konfirmasi tindakan diperlukan dan kapan justru mengganggu?
+4. Sebutkan lima ukuran yang dapat digunakan dalam uji kegunaan.
+5. Mengapa hasil uji dengan peserta terbatas harus dilaporkan bersama keterbatasannya?

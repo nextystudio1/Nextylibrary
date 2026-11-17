@@ -300,3 +300,36 @@ LATIHAN
 
 PROYEK
 Buat kajian konseptual suatu wilayah berdasarkan peta dan data publik. Identifikasi kondisi geologi, air, penggunaan lahan, dan potensi perubahan lingkungan. Jelaskan keterbatasan skala peta dan data, serta rekomendasikan informasi lapangan yang perlu diperoleh oleh tenaga kompeten.
+
+BAB PENDALAMAN: PROSES PERMUKAAN DAN BENTANG ALAM
+
+Bentang alam terbentuk melalui interaksi proses internal bumi dan proses permukaan. Pelapukan mengubah batuan secara fisik maupun kimia, erosi memindahkan material, sedangkan pengendapan menempatkan kembali material pada lokasi lain. Kecepatan proses dipengaruhi iklim, kemiringan, jenis batuan, vegetasi, dan aktivitas manusia. Satu bentuk lahan biasanya merupakan hasil banyak proses yang berlangsung dalam rentang waktu berbeda.
+
+Peta geologi membantu mengenali sebaran batuan dan struktur, tetapi skala peta membatasi rincian yang dapat dibaca. Batas pada peta tidak selalu berarti perubahan mendadak di lapangan. Interpretasi perlu memperhatikan metode pemetaan, umur data, dan tingkat ketelitian. Untuk keputusan pembangunan, informasi peta harus dipadukan dengan kajian teknis yang sesuai.
+
+BAB PENDALAMAN: AIR TANAH DAN HUBUNGANNYA DENGAN LINGKUNGAN
+
+Air tanah bergerak melalui pori dan rekahan batuan. Porositas menunjukkan ruang kosong, sedangkan permeabilitas menggambarkan kemudahan fluida mengalir melalui material yang saling terhubung. Lapisan berpori belum tentu memiliki permeabilitas tinggi jika porinya tidak saling terhubung. Sifat ini memengaruhi penyimpanan dan pergerakan air.
+
+Pengisian ulang air tanah dipengaruhi hujan, tutupan lahan, kondisi tanah, dan geologi. Permukaan kedap dapat mengurangi infiltrasi serta meningkatkan limpasan. Pengambilan air yang melampaui pengisian ulang dapat menurunkan muka air tanah dan memengaruhi mata air atau ekosistem yang bergantung padanya. Penilaian memerlukan pengamatan jangka panjang, bukan satu pengukuran sesaat.
+
+Kualitas air tanah dapat berubah karena proses alami maupun aktivitas manusia. Sumber pencemar dapat bergerak mengikuti aliran air dan kondisi geokimia. Pengambilan sampel harus mengikuti prosedur yang sesuai dan dilakukan oleh pihak kompeten bila menyangkut potensi bahaya. Data perlu mencatat lokasi umum, kedalaman, waktu, metode, dan parameter yang dianalisis.
+
+BAB PENDALAMAN: GEOLOGI, BENCANA, DAN PENGURANGAN RISIKO
+
+Bahaya geologi mencakup proses seperti gempa, gerakan tanah, aktivitas vulkanik, dan perubahan pesisir. Risiko tidak hanya ditentukan oleh bahaya, tetapi juga paparan dan kerentanan. Wilayah dengan bahaya serupa dapat mengalami dampak berbeda karena kualitas bangunan, kepadatan penduduk, akses informasi, dan kesiapan layanan.
+
+Peta bahaya merupakan alat perencanaan, bukan jaminan bahwa kejadian akan berlangsung tepat sesuai garis pada peta. Skala, periode data, dan metode pemodelan perlu diperiksa. Informasi risiko sebaiknya disampaikan dengan jelas tanpa menimbulkan rasa aman palsu atau kepanikan. Keputusan teknis bangunan dan tata ruang harus mengikuti kajian serta ketentuan otoritas yang berwenang.
+
+BAB PENDALAMAN: GEOLOGI DAN PEMBANGUNAN BERKELANJUTAN
+
+Kegiatan pembangunan menggunakan bahan geologi seperti pasir, batu, logam, dan mineral industri. Pengambilan sumber daya dapat menimbulkan perubahan bentang alam, debu, kebisingan, perubahan aliran air, dan gangguan habitat. Penilaian perlu mencakup kebutuhan material, alternatif, efisiensi penggunaan, pemulihan lokasi, dan pemantauan setelah kegiatan selesai.
+
+Reklamasi lahan tidak cukup dinilai dari penanaman vegetasi sesaat. Stabilitas lereng, kualitas tanah, aliran air, keberhasilan vegetasi lokal, dan fungsi ekosistem perlu dipantau dalam jangka panjang. Tujuan pemulihan harus realistis dan sesuai kondisi awal serta kebutuhan masyarakat.
+
+BAB PENDALAMAN: MEMBACA BUKTI GEOLOGI
+
+Bukti geologi sering tidak lengkap karena proses alam menghapus, menutup, atau mengubah jejak sebelumnya. Ahli menyusun penjelasan dengan menggabungkan singkapan, sampel, peta, pengukuran, dan penanggalan. Hipotesis yang baik menghasilkan prediksi yang dapat diuji dan terbuka terhadap revisi ketika bukti baru ditemukan.
+
+Dalam laporan, pisahkan observasi dari interpretasi. Pernyataan bahwa lapisan batuan memiliki warna tertentu adalah deskripsi pengamatan; penjelasan tentang lingkungan pembentukannya merupakan interpretasi. Pemisahan ini membuat pembaca dapat menilai hubungan antara data dan kesimpulan. Cantumkan keterbatasan, ketidakpastian, dan kebutuhan pengamatan tambahan.
+

@@ -214,3 +214,53 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Bedakan pelapukan dan erosi.
 4. Mengapa peta bahaya bukan prediksi waktu kejadian?
 5. Sebutkan data sosial yang perlu dipadukan dengan data geologi dalam perencanaan wilayah.
+BAB LANJUTAN 4. GEOLOGI DAN PERENCANAAN TATA RUANG
+
+Informasi geologi membantu menjelaskan kondisi dasar suatu wilayah, seperti jenis batuan, endapan permukaan, kemiringan lereng, struktur geologi, air tanah, dan potensi proses alam. Informasi ini penting untuk perencanaan permukiman, jalan, bendungan, kawasan industri, dan ruang terbuka. Namun, peta geologi tidak menggantikan penyelidikan lokasi yang rinci. Skala peta menentukan tingkat detail yang dapat ditafsirkan.
+
+Kesesuaian lahan merupakan hasil gabungan beberapa faktor. Tanah yang stabil untuk satu jenis bangunan belum tentu sesuai untuk infrastruktur lain. Kedalaman tanah, daya dukung, drainase, potensi likuefaksi, erosi, dan kondisi air tanah dapat memengaruhi keputusan. Penilaian perlu menggabungkan data geologi dengan kebutuhan teknik, lingkungan, dan sosial.
+
+Perubahan tata guna lahan dapat mengubah aliran air dan kestabilan lereng. Permukaan kedap air meningkatkan limpasan, sedangkan pemotongan lereng dapat mengubah keseimbangan material. Pembangunan yang tidak mempertimbangkan sistem alam dapat memindahkan risiko ke wilayah lain. Karena itu, dampak di luar batas proyek perlu dianalisis.
+
+Peta kesesuaian dan bahaya harus menyertakan sumber data, tanggal, skala, metode, dan batas interpretasi. Ketidakpastian tidak boleh disembunyikan. Jika data tidak cukup, keputusan dapat mensyaratkan kajian tambahan sebelum pembangunan dilakukan. Prinsip kehati-hatian penting ketika potensi dampak besar dan sulit dipulihkan.
+
+LATIHAN BAB
+1. Mengapa skala peta geologi penting?
+2. Sebutkan lima faktor geologi yang dapat memengaruhi kesesuaian lahan.
+3. Bagaimana perubahan tutupan lahan memengaruhi limpasan?
+4. Mengapa peta regional tidak menggantikan penyelidikan lokasi?
+5. Apa yang perlu dilakukan ketika data geologi belum memadai?
+
+BAB LANJUTAN 5. GEOKIMIA AIR DAN INTERAKSI BATUAN-AIR
+
+Air yang bergerak melalui tanah dan batuan dapat melarutkan mineral, membawa ion, dan mengalami perubahan kimia. Komposisi air tanah dipengaruhi jenis batuan, waktu kontak, suhu, pH, kondisi oksidasi-reduksi, serta masukan dari permukaan. Karena itu, dua sumur yang berdekatan dapat memiliki karakter air berbeda jika kondisi geologi bawah permukaan tidak sama.
+
+Pelarutan mineral dapat meningkatkan konsentrasi ion tertentu. Sebaliknya, pengendapan dapat mengurangi konsentrasi zat terlarut dan membentuk endapan pada pori atau saluran. Reaksi pertukaran ion pada mineral lempung juga dapat mengubah komposisi air. Proses-proses tersebut penting dalam memahami kualitas air, pergerakan kontaminan, dan interaksi antara air tanah dengan ekosistem.
+
+Pengambilan sampel perlu mengikuti prosedur yang sesuai dengan parameter yang akan diuji. Wadah, pengawetan, waktu, suhu, dan cara transportasi dapat memengaruhi hasil. Pengukuran lapangan seperti suhu, pH, dan konduktivitas dapat melengkapi analisis laboratorium. Hasil perlu dibandingkan dengan standar yang relevan dan tujuan penggunaan air; satu nilai tidak cukup untuk menyatakan air aman bagi semua kebutuhan.
+
+Interpretasi juga memerlukan konteks hidrogeologi. Konsentrasi zat tertentu dapat berasal dari kondisi alami atau aktivitas manusia. Penentuan sumber memerlukan data lokasi, arah aliran, kondisi geologi, penggunaan lahan, dan pola perubahan waktu. Hindari menuduh sumber pencemaran tertentu hanya berdasarkan satu sampel.
+
+LATIHAN BAB
+1. Mengapa komposisi air tanah dipengaruhi jenis batuan?
+2. Bedakan pelarutan dan pengendapan mineral.
+3. Sebutkan faktor yang dapat memengaruhi hasil sampel air.
+4. Mengapa satu hasil uji tidak cukup untuk menentukan sumber pencemaran?
+5. Data apa yang perlu dipadukan untuk memahami kualitas air tanah?
+
+BAB LANJUTAN 6. PEMETAAN GEOLOGI DIGITAL DAN DATA SPASIAL
+
+Pemetaan geologi digital menggabungkan informasi lokasi dengan atribut seperti jenis batuan, struktur, kemiringan, titik pengamatan, dan batas satuan. Sistem informasi geografis memungkinkan data dari beberapa sumber ditumpangtindihkan untuk mencari pola. Namun, hasil analisis sangat dipengaruhi kualitas data, skala, sistem koordinat, tanggal, dan metode pengumpulan.
+
+Setiap lapisan data perlu memiliki metadata yang menjelaskan pembuat, sumber, tanggal, skala atau resolusi, sistem koordinat, definisi atribut, serta keterbatasan. Data tanpa metadata sulit dinilai dan dapat disalahartikan. Dua peta yang tampak cocok belum tentu dapat dibandingkan jika menggunakan proyeksi atau skala yang berbeda.
+
+Analisis spasial dapat membantu mengidentifikasi wilayah dengan kemiringan tinggi, kedekatan terhadap sungai, atau hubungan antara penggunaan lahan dan kejadian erosi. Kedekatan spasial tidak otomatis membuktikan sebab-akibat. Analisis perlu mempertimbangkan proses geologi, kondisi lapangan, dan kemungkinan faktor lain. Validasi lapangan atau sumber independen penting sebelum hasil digunakan untuk keputusan.
+
+Peta digital yang dipublikasikan harus menyebut legenda, skala, orientasi, sumber, tanggal, dan sistem koordinat bila relevan. Simbol perlu konsisten dan tidak membuat tingkat kepastian tampak lebih tinggi daripada data sebenarnya. Informasi lokasi yang sensitif, seperti sumur pribadi atau aset tertentu, perlu dilindungi ketika dibagikan.
+
+LATIHAN BAB
+1. Apa fungsi metadata dalam data spasial?
+2. Mengapa sistem koordinat perlu diperiksa sebelum menumpangtindihkan peta?
+3. Berikan contoh hubungan spasial yang belum tentu menunjukkan sebab-akibat.
+4. Sebutkan unsur penting pada peta geologi digital.
+5. Mengapa data lokasi tertentu perlu dibatasi aksesnya?

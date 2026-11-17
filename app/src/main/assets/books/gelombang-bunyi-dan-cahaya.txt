@@ -314,3 +314,54 @@ Pengukuran gelombang memerlukan alat dengan rentang dan resolusi yang sesuai. Mi
 
 Laporan eksperimen sebaiknya mencatat kondisi medium, jarak, suhu, posisi sensor, dan metode pengolahan. Pengulangan pengukuran membantu memperkirakan variasi acak, sedangkan pemeriksaan alat dan prosedur membantu menemukan kesalahan sistematis. Grafik harus mencantumkan satuan dan rentang pengukuran. Kesimpulan perlu dibatasi pada kondisi yang benar-benar diuji.
 
+BAB LANJUTAN: OPTIKA, AKUSTIK, DAN TEKNOLOGI GELOMBANG
+
+Interferensi dan koherensi
+
+Ketika dua gelombang bertemu, simpangannya dapat saling menguatkan atau melemahkan. Interferensi konstruktif terjadi ketika perbedaan fase mendukung penguatan, sedangkan interferensi destruktif terjadi ketika fase menghasilkan pengurangan. Pola interferensi yang stabil membutuhkan hubungan fase yang cukup terjaga, atau koherensi. Konsep ini menjelaskan pola pada celah ganda dan berbagai instrumen optik.
+
+Intensitas tidak selalu sama dengan amplitudo. Untuk banyak gelombang harmonik, intensitas berkaitan dengan kuadrat amplitudo. Karena itu, penjumlahan amplitudo dan penjumlahan intensitas harus dibedakan. Pada sumber yang tidak koheren, pola interferensi stabil umumnya tidak terlihat dengan cara yang sama seperti pada sumber koheren.
+
+Difraksi dan batas resolusi
+
+Difraksi adalah penyebaran gelombang ketika melewati celah atau tepi penghalang. Besarnya dipengaruhi perbandingan panjang gelombang terhadap ukuran bukaan atau penghalang. Efek difraksi tampak pada gelombang air, bunyi, dan cahaya. Pada sistem optik, difraksi membatasi kemampuan memisahkan dua objek yang sangat berdekatan meskipun lensa dibuat dengan baik.
+
+Resolusi juga dipengaruhi aberasi, fokus, kontras, sensor, dan kondisi pengamatan. Memperbesar gambar tidak selalu menambah informasi baru. Mikroskop dan teleskop dirancang dengan mempertimbangkan panjang gelombang, bukaan, kualitas optik, serta karakter detektor. Pengukuran yang baik menyatakan batas resolusi, bukan hanya perbesaran.
+
+Polarisasi cahaya
+
+Cahaya merupakan gelombang elektromagnetik transversal. Polarisasi menggambarkan arah osilasi medan listrik. Filter polarisasi dapat meneruskan komponen tertentu dan mengurangi komponen lain. Fenomena ini dimanfaatkan pada layar, fotografi, pengurangan pantulan, dan instrumen optik. Pantulan dari permukaan tertentu dapat menghasilkan cahaya terpolarisasi sebagian, sehingga filter membantu mengatur kontras.
+
+Polarisasi juga digunakan untuk mempelajari tegangan pada bahan transparan melalui perubahan sifat optiknya. Interpretasi pola memerlukan pemahaman tentang bahan, ketebalan, sumber cahaya, dan susunan alat. Gambar warna yang muncul tidak boleh langsung ditafsirkan tanpa kalibrasi atau pembanding.
+
+Spektrum elektromagnetik
+
+Gelombang radio, gelombang mikro, inframerah, cahaya tampak, ultraviolet, sinar-X, dan gamma merupakan bagian spektrum elektromagnetik. Semuanya memiliki sifat dasar yang sama, tetapi frekuensi, panjang gelombang, energi foton, dan interaksi dengan materi berbeda. Aplikasi meliputi komunikasi, pemanasan, pencitraan, pengamatan astronomi, dan analisis bahan.
+
+Penilaian keselamatan harus mempertimbangkan jenis radiasi, intensitas, durasi paparan, jarak, dan karakter sumber. Tidak tepat menganggap semua radiasi memiliki risiko yang sama. Perangkat dan fasilitas yang menggunakan sumber radiasi tertentu memerlukan standar, pelindung, prosedur, dan pengawasan sesuai ketentuan.
+
+Akustik ruang dan kualitas suara
+
+Suara yang dihasilkan di dalam ruangan dipengaruhi pantulan, penyerapan, difusi, bentuk ruang, dan posisi sumber serta pendengar. Waktu dengung yang terlalu panjang dapat mengaburkan percakapan, sementara ruang yang terlalu menyerap dapat terasa kurang hidup untuk kegiatan musik tertentu. Perancangan akustik harus mengikuti fungsi ruang, bukan sekadar menambahkan bahan lunak sebanyak mungkin.
+
+Bahan penyerap bekerja berbeda menurut frekuensi. Panel tipis mungkin efektif pada frekuensi tertentu tetapi kurang efektif pada frekuensi rendah. Penempatan dan luas permukaan juga penting. Pengukuran respons ruang dapat dipadukan dengan uji dengar yang terstruktur. Penilaian subjektif tetap berguna, tetapi perlu mencatat posisi, materi uji, dan kondisi agar dapat dibandingkan.
+
+Pendengaran dan persepsi
+
+Telinga mengubah variasi tekanan udara menjadi sinyal saraf yang diproses otak. Persepsi keras-lemah tidak hanya ditentukan amplitudo; frekuensi dan durasi juga berpengaruh. Skala desibel bersifat logaritmik, sehingga perubahan beberapa desibel tidak boleh dibaca sebagai perubahan linear sederhana. Pengukuran tingkat suara perlu menyebut pembobotan frekuensi dan waktu respons alat.
+
+Paparan suara berlebihan dapat mengganggu kenyamanan dan kesehatan pendengaran. Pengendalian lingkungan dapat dilakukan melalui pengurangan sumber, perawatan peralatan, pengaturan waktu, desain ruang, dan perlindungan yang sesuai. Materi pembelajaran ini tidak menggantikan pengukuran profesional ketika ada dugaan risiko kebisingan di tempat kerja atau lingkungan.
+
+Sensor dan pemrosesan sinyal
+
+Mikrofon mengubah variasi tekanan menjadi sinyal listrik. Sensor cahaya mengubah energi optik menjadi sinyal yang dapat diolah. Sinyal analog dapat dikonversi menjadi digital melalui pengambilan sampel dan kuantisasi. Frekuensi sampling perlu cukup untuk merepresentasikan komponen frekuensi yang ingin dianalisis, dengan penyaringan yang sesuai untuk mengurangi aliasing.
+
+Pemrosesan digital dapat mencakup pengurangan derau, penyaringan frekuensi, pengukuran amplitudo, dan analisis spektrum. Setiap algoritma memiliki asumsi dan dapat mengubah karakter sinyal. Simpan data asli, dokumentasikan parameter, dan bandingkan hasil olahan dengan sinyal awal agar perubahan tidak disalahartikan sebagai fenomena fisik.
+
+Rancangan eksperimen gelombang
+
+Eksperimen yang baik mengubah satu faktor utama sambil mengendalikan faktor lain sejauh mungkin. Tentukan variabel bebas, variabel terikat, kondisi tetap, dan rentang pengukuran. Kalibrasi alat, ulangi pengamatan, dan catat hasil yang tidak biasa. Grafik harus menunjukkan satuan serta ketidakpastian yang relevan. Jika hasil berbeda dari teori sederhana, periksa apakah model mengabaikan gesekan, batas medium, geometri, atau karakter sumber.
+
+Proyek pembelajaran
+
+Bandingkan karakter akustik dua ruang dengan metode pengamatan yang aman dan tidak mengganggu pengguna. Catat ukuran ruang, bahan permukaan, posisi sumber, dan posisi pengamat. Gunakan rekaman uji yang konsisten dan evaluasi kejelasan suara, bukan sekadar kerasnya bunyi. Untuk optika, amati polarisasi cahaya menggunakan bahan pendidikan yang dirancang aman dan ikuti panduan pengajar. Dalam kedua proyek, tuliskan keterbatasan alat dan hindari menyimpulkan lebih luas daripada data yang diperoleh.

@@ -350,3 +350,31 @@ PROYEK MINI: MENAFSIRKAN JALUR BIOKIMIA
 
 Pilih diagram jalur metabolisme dari bahan pendidikan yang sah. Tandai masukan, keluaran, enzim, dan pembawa energi. Jelaskan bagaimana perubahan satu tahap dapat memengaruhi tahap lain secara konseptual. Jangan menyimpulkan kondisi kesehatan individu dari diagram umum; materi ini membahas prinsip dasar biokimia, bukan diagnosis.
 
+BAB LANJUTAN: REGULASI METABOLISME, ENZIM, DAN INTEGRASI SEL
+
+Metabolisme adalah keseluruhan reaksi kimia yang berlangsung di dalam sel dan organisme. Reaksi katabolik memecah molekul dan dapat melepaskan energi, sedangkan reaksi anabolik menggunakan energi untuk membangun molekul yang diperlukan. Kedua kelompok proses saling berhubungan melalui pembawa energi dan bahan antara. Metabolisme tidak berlangsung sebagai rangkaian terpisah; perubahan pada satu jalur dapat memengaruhi ketersediaan bahan bagi jalur lain.
+
+Enzim mempercepat reaksi dengan menurunkan energi aktivasi tanpa habis digunakan dalam reaksi. Setiap enzim memiliki kondisi kerja yang dipengaruhi struktur, suhu, pH, konsentrasi substrat, dan keberadaan molekul pengatur. Perubahan kondisi dapat mengubah aktivitas enzim karena bentuk dan sifat kimianya berubah. Enzim memiliki kekhususan relatif terhadap substrat, tetapi kekhususan tersebut tidak selalu berarti hanya satu molekul dapat berinteraksi dengannya.
+
+Laju reaksi enzim dapat meningkat ketika konsentrasi substrat bertambah, hingga enzim mencapai kondisi jenuh. Model kinetika sederhana membantu menjelaskan hubungan konsentrasi substrat dan laju reaksi. Nilai parameter kinetika harus ditafsirkan dalam konteks metode dan kondisi pengukuran. Hasil dari percobaan berbeda tidak selalu dapat dibandingkan langsung jika suhu, pH, atau komposisi larutan tidak sama.
+
+Inhibisi enzim dapat berlangsung melalui beberapa mekanisme. Inhibitor kompetitif bersaing pada lokasi pengikatan substrat, sedangkan inhibitor nonkompetitif dalam model sederhana memengaruhi aktivitas melalui interaksi pada lokasi berbeda. Mekanisme nyata dapat lebih kompleks dan bergantung pada sistem. Pemahaman inhibisi penting dalam biokimia, farmasi, dan pengembangan teknologi, tetapi contoh konseptual tidak dapat digunakan untuk menentukan penggunaan obat seseorang.
+
+ATP berfungsi sebagai pembawa energi yang menghubungkan reaksi penghasil energi dengan proses yang memerlukan energi. Hidrolisis ATP dapat dikaitkan dengan perubahan bentuk protein, transport zat, dan sintesis molekul. ATP terus dibentuk dan digunakan, bukan disimpan sebagai persediaan energi jangka panjang dalam jumlah besar. Sel menjaga keseimbangan melalui jalur metabolisme yang menyesuaikan kebutuhan dan ketersediaan bahan.
+
+Karbohidrat dapat digunakan sebagai sumber energi dan bahan pembentuk struktur. Glukosa mengalami pemrosesan melalui glikolisis, menghasilkan molekul antara yang dapat memasuki jalur berikutnya sesuai kondisi sel. Dalam kondisi aerob, hasil glikolisis dapat diproses lebih lanjut melalui respirasi sel. Dalam kondisi tertentu, fermentasi membantu menjaga ketersediaan molekul yang diperlukan agar glikolisis dapat berlanjut. Jalur tersebut berbeda menurut jenis organisme dan keadaan fisiologis.
+
+Lipid berperan sebagai penyimpan energi, komponen membran, dan molekul pensinyalan. Asam lemak dapat diuraikan melalui jalur oksidasi, sementara komponen lain digunakan untuk membangun membran atau molekul pengatur. Sifat hidrofobik lipid memengaruhi cara molekul tersebut diangkut dan disimpan. Membran sel bukan sekadar pembatas; komposisi lipidnya membantu menentukan kelenturan, permeabilitas, dan fungsi protein membran.
+
+Protein memiliki fungsi struktural, katalitik, transport, pertahanan, dan regulasi. Struktur primer menentukan urutan asam amino, sementara interaksi kimia membentuk struktur tingkat lebih tinggi. Perubahan lingkungan dapat memengaruhi pelipatan protein dan aktivitasnya. Protein yang salah lipat dapat ditangani melalui sistem pengawasan sel, tetapi kapasitas sistem tersebut terbatas. Struktur dan fungsi protein dipelajari melalui kombinasi metode biokimia, biologi molekuler, dan teknik struktural.
+
+Regulasi metabolisme menjaga agar produksi dan penggunaan bahan selaras dengan kebutuhan. Regulasi dapat terjadi melalui perubahan aktivitas enzim, jumlah enzim, ketersediaan substrat, dan sinyal antarsel. Umpan balik negatif sering mengurangi aktivitas jalur ketika produk sudah cukup tersedia. Pengaturan ini mencegah pemborosan sumber daya dan membantu mempertahankan kestabilan internal. Namun, jalur metabolisme berbeda antarjaringan dan organisme.
+
+Studi kasus: siswa membuat peta konseptual hubungan karbohidrat, lipid, protein, dan ATP. Mereka menandai molekul yang menjadi bahan awal, produk antara, serta titik regulasi. Peta diberi catatan bahwa diagram menyederhanakan proses yang sebenarnya berlangsung melalui banyak reaksi dan kompartemen sel. Mereka kemudian membandingkan diagram dengan sumber pembelajaran biokimia yang dapat dipercaya.
+
+Latihan penerapan:
+1. Bedakan reaksi katabolik dan anabolik dengan contoh konseptual.
+2. Jelaskan mengapa kondisi lingkungan memengaruhi aktivitas enzim.
+3. Bandingkan peran ATP dan molekul penyimpan energi jangka panjang.
+4. Buat peta hubungan metabolisme karbohidrat, lipid, dan protein.
+5. Jelaskan bagaimana umpan balik membantu mengatur jalur metabolisme.

@@ -258,3 +258,49 @@ LATIHAN DAN PEMBAHASAN
 
 PROYEK MINI
 Buat inventaris energi rumah secara konseptual tanpa membuka atau menyentuh instalasi listrik. Catat nama perangkat, daya pada label, perkiraan jam pemakaian, dan jumlah hari penggunaan. Hitung perkiraan energi bulanan dengan satuan yang konsisten. Pilih dua peluang penghematan yang tetap menjaga kenyamanan dan keselamatan, lalu jelaskan asumsi serta keterbatasan hitungan.
+
+BAB PENDALAMAN: PERENCANAAN ENERGI BANGUNAN SECARA SISTEMATIS
+
+Analisis energi bangunan dimulai dari layanan yang ingin dipenuhi, bukan dari keinginan mengganti sebanyak mungkin perangkat. Penghuni membutuhkan penerangan, kenyamanan termal, penyimpanan makanan, komunikasi, dan kegiatan belajar. Setiap layanan mempunyai pola waktu dan tingkat kebutuhan berbeda. Karena itu, inventaris energi sebaiknya mengelompokkan perangkat menurut fungsi dan waktu pemakaian. Kelompok penerangan, pendinginan, pompa, perangkat informasi, dan peralatan memasak dapat dianalisis secara terpisah sebelum digabungkan menjadi gambaran bangunan.
+
+Langkah pertama adalah menetapkan batas sistem. Apakah pengamatan mencakup satu ruangan, satu rumah, atau seluruh bangunan? Apakah energi untuk memasak termasuk? Apakah energi bersama seperti lift dan pompa dihitung? Tanpa batas yang jelas, dua angka konsumsi tidak dapat dibandingkan secara adil. Catat pula periode pengamatan, misalnya satu minggu atau satu bulan, serta apakah periode tersebut mewakili hari biasa, akhir pekan, atau musim tertentu.
+
+Langkah kedua adalah membedakan daya, energi, dan beban puncak. Daya menunjukkan laju penggunaan energi pada suatu saat, sedangkan energi merupakan akumulasi penggunaan selama waktu tertentu. Beban puncak menggambarkan kebutuhan daya tertinggi dalam periode pengamatan. Sebuah bangunan dapat memiliki konsumsi energi bulanan yang sedang tetapi beban puncak tinggi apabila banyak perangkat digunakan bersamaan. Dalam perencanaan sistem, ketiga ukuran itu menjawab pertanyaan yang berbeda.
+
+Data label perangkat dapat menjadi titik awal, tetapi bukan pengganti pengukuran yang tepat. Daya aktual dapat berubah mengikuti mode operasi, suhu, beban, dan usia perangkat. Untuk kegiatan belajar, gunakan angka label sebagai perkiraan dan tuliskan asumsi. Pengukuran instalasi listrik harus dilakukan oleh tenaga kompeten dengan alat dan prosedur yang sesuai. Penghuni tidak perlu membuka panel, menyentuh kabel, atau mengubah pengaman untuk membuat inventaris energi.
+
+PENCAHAYAAN DAN KENYAMANAN VISUAL
+
+Kebutuhan cahaya tidak hanya ditentukan oleh jumlah lampu. Luas ruang, warna permukaan, arah datang cahaya, kegiatan, dan distribusi luminansi memengaruhi kenyamanan. Ruang membaca memerlukan pencahayaan yang merata dan mengurangi silau. Cahaya alami dapat mengurangi kebutuhan lampu pada siang hari, tetapi perlu dikendalikan agar tidak menimbulkan panas berlebih atau pantulan pada layar.
+
+Evaluasi pencahayaan dapat menggunakan peta sederhana yang membagi ruangan menjadi beberapa zona. Catat area yang terlalu gelap, area yang menyilaukan, dan waktu ketika cahaya alami cukup. Perubahan tata letak meja atau pemanfaatan tirai dapat menjadi pilihan sebelum menambah lampu. Keberhasilan tidak dinilai hanya dari penurunan energi, tetapi juga dari apakah tugas visual tetap nyaman dan aman.
+
+BEBAN TERMAL DAN PENDINGINAN
+
+Panas masuk ke bangunan melalui atap, dinding, jendela, udara luar, penghuni, dan perangkat. Perolehan panas matahari dipengaruhi orientasi bangunan, luas bukaan, peneduh, serta karakter material. Ventilasi dapat membantu membuang panas ketika kondisi luar mendukung, tetapi tidak selalu tepat pada saat udara luar lebih panas atau kualitas udaranya buruk. Strategi pasif harus mempertimbangkan iklim setempat dan pola penggunaan ruang.
+
+Selubung bangunan yang baik mengurangi pertukaran panas yang tidak diinginkan. Atap, insulasi, kebocoran udara, dan perlindungan bukaan dapat memengaruhi kebutuhan pendinginan. Namun, renovasi harus mempertimbangkan kelembapan, aliran udara, keselamatan struktur, dan kondisi bangunan. Satu solusi tidak otomatis cocok untuk semua wilayah tropis maupun semua jenis bangunan.
+
+AUDIT ENERGI DAN INDIKATOR
+
+Audit sederhana menyusun daftar layanan, perangkat, jadwal, dan perkiraan energi. Hasilnya dapat dinormalisasi, misalnya energi per penghuni atau energi per meter persegi per bulan. Normalisasi membantu perbandingan, tetapi tidak menghapus perbedaan fungsi. Sekolah yang memiliki laboratorium tidak setara dengan kantor kecil meskipun luasnya sama. Setiap indikator harus disertai konteks.
+
+Buat garis dasar sebelum menerapkan perubahan. Misalnya, catat konsumsi selama beberapa periode yang mewakili pola kegiatan. Setelah perubahan, bandingkan periode dengan kondisi operasi serupa. Jika jumlah penghuni atau jam operasional berubah, jelaskan pengaruhnya. Hindari menyimpulkan keberhasilan dari satu tagihan saja karena cuaca, tarif, dan aktivitas dapat berubah.
+
+STUDI KASUS: RUANG BELAJAR KOMUNITAS
+
+Sebuah ruang belajar menggunakan lampu, kipas, komputer, dan proyektor. Pengelola ingin menekan biaya tanpa mengurangi waktu belajar. Tim terlebih dahulu memetakan jadwal kegiatan, mengidentifikasi ruang yang tetap menyala ketika kosong, serta memeriksa apakah cahaya siang cukup pada beberapa meja. Mereka kemudian mengatur jadwal penggunaan ruang dan memperbaiki kebiasaan mematikan perangkat yang tidak dipakai.
+
+Evaluasi dilakukan dengan membandingkan energi bulanan dan jumlah jam layanan belajar. Jika energi turun karena kelas dibatalkan, perubahan itu bukan bukti efisiensi. Oleh sebab itu, indikator layanan seperti jam ruang digunakan, jumlah sesi, dan kenyamanan pengguna dicatat bersama konsumsi. Kasus ini menunjukkan bahwa efisiensi berarti mempertahankan layanan dengan sumber daya lebih baik, bukan sekadar mengurangi pemakaian tanpa melihat akibatnya.
+
+LATIHAN ANALISIS
+
+1. Mengapa batas sistem perlu ditetapkan sebelum menghitung konsumsi bangunan?
+2. Jelaskan perbedaan daya, energi, dan beban puncak menggunakan satu contoh.
+3. Sebutkan faktor yang memengaruhi kebutuhan pendinginan selain luas ruangan.
+4. Mengapa konsumsi energi perlu dibandingkan bersama indikator layanan?
+5. Rancang tabel audit energi yang memuat fungsi, perangkat, jadwal, asumsi daya, dan energi perkiraan.
+
+PROYEK MINI: RENCANA EFISIENSI RUANG
+
+Pilih ruang belajar atau ruang publik yang dapat diamati tanpa menyentuh instalasi. Buat denah zona sederhana, catat sumber cahaya, jadwal penggunaan, dan perangkat yang terlihat. Identifikasi tiga peluang perbaikan yang tidak memerlukan pekerjaan listrik berisiko, misalnya pengaturan jadwal, pemanfaatan cahaya alami, atau penataan ruang. Untuk setiap usulan, tulis manfaat, keterbatasan, indikator keberhasilan, serta pihak yang perlu dilibatkan.

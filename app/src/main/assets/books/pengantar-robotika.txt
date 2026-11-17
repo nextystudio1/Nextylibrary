@@ -327,3 +327,59 @@ LATIHAN
 3. Sebutkan sumber ketidakpastian sensor.
 4. Apa perbedaan kendali terbuka dan tertutup?
 5. Mengapa simulasi tidak menggantikan pengujian keselamatan profesional?
+
+BAB PENDALAMAN: PERSEPSI, PERENCANAAN, DAN INTERAKSI ROBOT
+
+Robotika menggabungkan mekanika, elektronika, komputasi, kendali, dan pemahaman lingkungan. Robot tidak sekadar bergerak; robot harus memperkirakan keadaan, memilih tindakan, dan memantau apakah tindakan menghasilkan hasil yang diharapkan. Sistem otonom selalu bekerja dengan informasi yang terbatas dan ketidakpastian. Karena itu, rancangan robot perlu memperhitungkan kondisi operasi, batas kemampuan, serta cara aman ketika sistem tidak yakin.
+
+PERSEPSI DAN SENSOR
+
+Sensor mengubah besaran fisik menjadi sinyal yang dapat diproses. Kamera menghasilkan informasi visual, sensor jarak memperkirakan kedekatan objek, sensor inersia mengukur perubahan gerak, dan encoder membantu memperkirakan rotasi atau perpindahan aktuator. Setiap sensor memiliki rentang kerja, resolusi, derau, keterlambatan, dan kemungkinan kegagalan.
+
+Penggabungan sensor dapat meningkatkan perkiraan keadaan, tetapi tidak otomatis menghapus kesalahan. Sistem perlu memahami kapan data saling mendukung dan kapan terdapat konflik. Kalibrasi, pemeriksaan konsistensi, dan pencatatan kondisi pengukuran penting untuk menilai kualitas data. Sensor yang memberikan angka presisi tinggi tetap dapat menghasilkan informasi keliru jika dipasang atau digunakan di luar konteksnya.
+
+REPRESENTASI LINGKUNGAN
+
+Robot membutuhkan representasi lingkungan untuk merencanakan gerak. Peta dapat berupa grid, landmark, atau model geometris. Setiap representasi memiliki kompromi antara detail, kebutuhan komputasi, dan ketahanan terhadap perubahan. Peta yang dibuat sebelumnya dapat menjadi usang ketika lingkungan berubah, sehingga sistem perlu menilai apakah informasi masih dapat dipercaya.
+
+Lokalisasi memperkirakan posisi robot relatif terhadap peta atau titik acuan. Kesalahan kecil dapat terakumulasi selama gerak. Sistem dapat menggabungkan beberapa sumber informasi untuk mengurangi ketidakpastian, tetapi hasil tetap perlu dinilai dengan ukuran galat dan kondisi pengujian. Dalam pembelajaran, simulasi membantu menunjukkan bagaimana kesalahan pengukuran memengaruhi estimasi posisi.
+
+PERENCANAAN GERAK DAN KENDALA
+
+Perencanaan gerak mencari urutan keadaan yang memungkinkan robot mencapai tujuan sambil memenuhi batas fisik dan operasional. Kendala dapat mencakup ruang gerak, kecepatan, percepatan, konsumsi energi, serta jarak aman dari objek. Jalur terpendek belum tentu paling baik jika melewati ruang sempit atau memerlukan perubahan gerak mendadak.
+
+Perencanaan juga perlu mempertimbangkan ketidakpastian. Objek dapat bergerak, sensor dapat terlambat, dan kondisi permukaan dapat berbeda dari model. Sistem yang bertanggung jawab memiliki cara untuk berhenti atau meminta intervensi ketika keadaan di luar batas yang telah ditentukan. Keputusan tersebut harus dirancang dan diuji oleh tim yang kompeten.
+
+KENDALI DAN UMPAN BALIK
+
+Kendali terbuka memberi perintah tanpa menggunakan hasil pengukuran untuk mengoreksi tindakan. Kendali tertutup membandingkan keadaan aktual dengan target, lalu menyesuaikan keluaran berdasarkan galat. Umpan balik membantu sistem menghadapi gangguan, tetapi kualitasnya bergantung pada sensor, model, waktu respons, dan parameter pengendali.
+
+Keterlambatan dapat membuat koreksi terlambat atau berlebihan. Derau dapat menyebabkan keluaran berubah-ubah. Karena itu, pengendali perlu dievaluasi pada rentang kondisi, bukan hanya satu percobaan. Model matematis menyederhanakan kenyataan, sehingga perbedaan antara simulasi dan sistem fisik harus dicatat.
+
+INTERAKSI MANUSIA DAN ROBOT
+
+Robot yang bekerja dekat manusia harus menyampaikan keadaan dengan jelas. Indikator visual atau suara dapat menunjukkan apakah sistem aktif, menunggu, mengalami kesalahan, atau memerlukan bantuan. Perilaku yang dapat diprediksi mengurangi kebingungan. Antarmuka perlu memberi pengguna kendali yang sesuai dan menjelaskan batas kemampuan robot.
+
+Desain interaksi memperhatikan perbedaan kemampuan pengguna, lingkungan, dan tugas. Sistem tidak boleh mengandalkan satu isyarat saja untuk informasi penting. Pengguna harus dapat memahami kapan robot mengambil keputusan otomatis dan kapan tindakan manusia diperlukan. Pengumpulan data dari kamera atau sensor lain harus memiliki tujuan jelas, pembatasan akses, dan perlindungan privasi.
+
+KEANDALAN DAN KESELAMATAN SISTEM
+
+Keandalan berarti sistem menjalankan fungsi yang ditetapkan secara konsisten dalam kondisi yang ditentukan. Keselamatan menilai risiko bahaya bagi manusia, lingkungan, dan aset. Keduanya berkaitan tetapi tidak identik: robot dapat bekerja konsisten namun tetap tidak aman jika tujuan atau batas operasinya keliru.
+
+Analisis risiko mengidentifikasi bahaya, situasi pemicu, konsekuensi, dan pengendalian. Pengujian profesional diperlukan sebelum robot digunakan di lingkungan nyata, khususnya jika melibatkan beban, gerak cepat, atau kedekatan dengan manusia. Materi ini membahas konsep dan evaluasi; perancangan serta pengujian perangkat fisik harus mengikuti standar dan pengawasan yang sesuai.
+
+SIMULASI DAN REPRODUKSIBILITAS
+
+Simulasi memungkinkan tim menguji banyak skenario secara terkontrol. Namun, model dapat mengabaikan gesekan, kelenturan, variasi komponen, atau keterlambatan komunikasi. Hasil simulasi harus dilaporkan bersama asumsi dan batas model. Pengujian nyata memerlukan prosedur keselamatan, lingkungan yang terkendali, dan personel kompeten.
+
+Dokumentasi mencatat versi model, parameter, skenario, data masukan, hasil, serta perubahan. Catatan yang rapi memungkinkan orang lain memahami bagaimana kesimpulan diperoleh dan mengulang evaluasi. Tanpa dokumentasi, hasil yang tampak berhasil sulit dibedakan dari keberuntungan satu percobaan.
+
+LATIHAN DAN PROYEK
+
+1. Mengapa sensor dengan resolusi tinggi masih dapat menghasilkan estimasi yang keliru?
+2. Apa perbedaan lokalisasi dan pemetaan?
+3. Mengapa jalur terpendek tidak selalu menjadi jalur terbaik?
+4. Jelaskan fungsi umpan balik dalam sistem kendali.
+5. Mengapa simulasi tidak menggantikan evaluasi keselamatan sistem nyata?
+
+Proyek: gunakan simulasi konseptual atau data contoh untuk membandingkan estimasi posisi dengan dan tanpa derau. Buat grafik galat, jelaskan asumsi model, dan tuliskan kondisi ketika sistem perlu menyatakan bahwa estimasinya tidak dapat dipercaya. Tidak perlu merakit atau menguji perangkat fisik.

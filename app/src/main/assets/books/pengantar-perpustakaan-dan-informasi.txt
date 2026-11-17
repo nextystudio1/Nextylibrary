@@ -333,3 +333,29 @@ LATIHAN BAB 20
 
 PROYEK PENERAPAN
 Pilih satu topik pelajaran. Susun daftar kata kunci, sinonim, dan dua strategi penelusuran. Temukan satu sumber primer dan satu sumber sekunder yang sah untuk digunakan. Bandingkan tujuan, tanggal, metode, dan keterbatasannya. Buat panduan satu halaman yang mengajarkan teman sekelas memeriksa kredibilitas sumber tanpa menyalin isi karya orang lain.
+
+BAB PENGEMBANGAN. PENGELOLAAN KOLEKSI DAN PRESERVASI INFORMASI
+
+Koleksi perpustakaan berkembang melalui kebijakan yang menjelaskan kebutuhan pengguna, cakupan subjek, tingkat kedalaman, format, dan kemampuan pengelolaan. Kebijakan pengembangan koleksi mencegah keputusan pembelian atau penerimaan bahan dilakukan secara acak. Penilaian dapat mempertimbangkan relevansi kurikulum, kualitas isi, reputasi penerbit, kemutakhiran, keberagaman perspektif, bahasa, aksesibilitas, harga, serta ketersediaan ruang dan tenaga pengelola.
+
+Jumlah eksemplar tidak selalu menjadi ukuran mutu koleksi. Sebuah perpustakaan kecil dapat memiliki koleksi yang tepat guna jika bahan dipilih berdasarkan kebutuhan nyata. Data peminjaman membantu memahami penggunaan, tetapi tidak boleh menjadi satu-satunya dasar. Bahan rujukan yang jarang dipinjam mungkin tetap penting untuk penelitian atau kebutuhan khusus. Survei, wawancara, konsultasi dengan pengajar, dan analisis pertanyaan referensi dapat melengkapi statistik sirkulasi.
+
+Penyiangan adalah evaluasi koleksi untuk menentukan bahan yang perlu diperbaiki, dipindahkan, diganti, atau dikeluarkan sesuai kebijakan. Proses ini tidak boleh dilakukan hanya karena sebuah buku berusia tua atau jarang dipinjam. Nilai historis, kelangkaan, kondisi fisik, relevansi, dan keberadaan edisi pengganti perlu dipertimbangkan. Keputusan harus terdokumentasi dan mengikuti aturan lembaga, terutama untuk koleksi khusus atau bahan yang memiliki nilai budaya.
+
+Preservasi bertujuan menjaga akses jangka panjang. Pada bahan cetak, faktor lingkungan seperti kelembapan, suhu, cahaya, debu, serangga, dan cara penanganan memengaruhi kerusakan. Penyimpanan yang stabil dan prosedur peminjaman yang baik sering lebih efektif daripada tindakan restorasi mahal setelah kerusakan terjadi. Bahan rapuh sebaiknya ditangani oleh petugas terlatih. Digitalisasi dapat mengurangi kebutuhan menyentuh dokumen asli, tetapi tidak menghapus kebutuhan merawat benda fisiknya.
+
+Koleksi digital memerlukan strategi yang berbeda. Berkas harus memiliki format yang dapat dibaca, metadata yang memadai, salinan cadangan, pemeriksaan integritas, dan dokumentasi hak akses. Tiga salinan pada media berbeda dan lokasi terpisah dapat mengurangi risiko kehilangan, tetapi pelaksanaannya harus disesuaikan dengan kapasitas lembaga. Cadangan perlu diuji pemulihannya; berkas yang sekadar tersimpan belum tentu dapat dipulihkan ketika dibutuhkan.
+
+Metadata preservasi dapat mencatat format berkas, tanggal pembuatan, perangkat lunak yang digunakan, riwayat migrasi, checksum, serta tindakan pemeliharaan. Ketika format lama mulai sulit dibuka, migrasi ke format baru harus disertai pemeriksaan apakah isi, struktur, dan fitur penting tetap terjaga. Untuk materi audiovisual atau interaktif, sebagian karakteristik mungkin tidak dapat dipertahankan sepenuhnya sehingga keputusan dan keterbatasannya perlu dicatat.
+
+Akses koleksi juga harus mempertimbangkan hak cipta, lisensi, privasi, dan ketentuan donor. Memiliki salinan fisik tidak otomatis memberi hak untuk menyebarkan salinan digital. Perpustakaan perlu memeriksa dasar penggunaan, masa perlindungan, izin, dan batas akses sebelum menyediakan materi secara daring. Kebijakan yang jelas melindungi lembaga sekaligus membantu pengguna memahami apa yang boleh dilakukan.
+
+LATIHAN
+1. Mengapa kebijakan pengembangan koleksi perlu ditulis?
+2. Sebutkan alasan penyiangan yang tidak semata-mata berdasarkan usia.
+3. Apa perbedaan preservasi bahan cetak dan digital?
+4. Mengapa cadangan digital harus diuji pemulihannya?
+5. Mengapa kepemilikan buku tidak otomatis berarti hak distribusi digital?
+
+PROYEK
+Rancang kebijakan koleksi mini untuk perpustakaan sekolah. Tentukan kebutuhan pengguna, kriteria pemilihan, proses evaluasi, dan prosedur preservasi. Sertakan contoh metadata untuk satu buku dan satu berkas digital.

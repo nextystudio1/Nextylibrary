@@ -213,3 +213,53 @@ LATIHAN PENDALAMAN
 3. Mengapa ikon penting sebaiknya memiliki label?
 4. Apa keterbatasan uji kegunaan dengan peserta sedikit?
 5. Bagaimana menentukan prioritas revisi desain?
+BAB 18. FOTOGRAFI, ILUSTRASI, DAN REPRESENTASI
+
+Foto dan ilustrasi bukan sekadar hiasan. Keduanya dapat menjadi bukti, penjelas, simbol, atau alat untuk membangun suasana. Pemilihan visual perlu mengikuti tujuan komunikasi. Foto dokumentasi sebaiknya mempertahankan konteks dan tidak dimanipulasi dengan cara yang mengubah makna. Ilustrasi dapat menyederhanakan proses, tetapi penyederhanaan harus tetap akurat dan diberi penanda ketika tidak menggambarkan keadaan sebenarnya.
+
+Komposisi visual memengaruhi bagian yang pertama kali diperhatikan. Sudut pandang, jarak, pencahayaan, latar, dan pemotongan gambar dapat mengubah kesan pembaca. Foto dari sudut rendah dapat membuat objek tampak lebih besar, sedangkan pemotongan yang menghilangkan konteks dapat menghasilkan kesimpulan keliru. Dalam materi pendidikan, keterangan gambar perlu menyebut apa yang terlihat, kapan atau di mana dibuat jika relevan, serta sumber atau pembuatnya.
+
+Representasi manusia memerlukan pertimbangan etis. Hindari stereotip yang menghubungkan profesi, kemampuan, atau karakter dengan kelompok tertentu. Gunakan contoh yang beragam dan relevan, serta minta izin ketika menggunakan foto orang yang dapat dikenali. Jangan menampilkan informasi pribadi pada latar foto seperti kartu identitas, alamat, atau layar perangkat. Visual yang menarik tidak membenarkan pelanggaran privasi.
+
+Saat membuat ilustrasi ilmiah, bedakan skala sebenarnya dan skala penyederhanaan. Diagram sel, atom, atau sistem tata surya sering tidak mungkin ditampilkan dalam proporsi sesungguhnya. Beri keterangan “ilustrasi skematis” dan jelaskan bagian yang tidak digambarkan sesuai skala. Jika visual dibuat dengan bantuan perangkat digital, periksa hasilnya terhadap sumber tepercaya dan catat perubahan yang dilakukan.
+
+LATIHAN BAB 18
+1. Apa perbedaan foto dokumentasi dan ilustrasi konseptual?
+2. Berikan contoh pemotongan gambar yang dapat mengubah makna.
+3. Mengapa keterangan gambar penting dalam materi pendidikan?
+4. Sebutkan tiga hal yang perlu diperiksa sebelum mempublikasikan foto seseorang.
+5. Mengapa diagram ilmiah perlu menjelaskan jika tidak dibuat sesuai skala?
+
+BAB 19. DESAIN MULTIMEDIA DAN HIERARKI GERAK
+
+Multimedia menggabungkan teks, gambar, suara, animasi, dan video. Setiap media sebaiknya memiliki fungsi yang jelas. Animasi dapat memperlihatkan perubahan yang sulit dijelaskan dengan gambar diam, sedangkan narasi dapat membantu menjelaskan hubungan antartahap. Namun, terlalu banyak gerak, suara, dan efek dapat mengalihkan perhatian dari isi utama.
+
+Gerak visual perlu memiliki tujuan dan tempo yang sesuai. Transisi yang terlalu cepat menyulitkan pembaca mengikuti perubahan, sementara gerak dekoratif yang berulang dapat mengganggu konsentrasi. Berikan kendali kepada pengguna untuk menjeda, menghentikan, atau melewati animasi yang tidak penting. Hindari informasi penting yang hanya muncul sesaat tanpa kesempatan membaca ulang.
+
+Audio harus memiliki alternatif yang dapat diakses. Video pembelajaran memerlukan takarir yang akurat, dan informasi suara penting dapat dijelaskan melalui teks. Sebaliknya, visual yang menyampaikan informasi penting perlu deskripsi atau narasi yang memadai. Pengguna mungkin berada di tempat tanpa suara, memiliki keterbatasan pendengaran atau penglihatan, atau menggunakan koneksi lambat.
+
+Ukuran berkas dan kompatibilitas juga bagian dari desain. Media resolusi tinggi dapat terlihat baik tetapi sulit dimuat pada perangkat lama atau jaringan terbatas. Sediakan ukuran yang sesuai, kompresi yang tidak merusak informasi penting, dan pilihan format yang didukung luas. Uji materi pada beberapa ukuran layar dan kondisi jaringan agar pengalaman tidak hanya baik pada perangkat perancang.
+
+LATIHAN BAB 19
+1. Kapan animasi lebih berguna daripada gambar diam?
+2. Mengapa pengguna perlu dapat menjeda gerak otomatis?
+3. Sebutkan alternatif aksesibel untuk informasi yang disampaikan melalui audio.
+4. Bagaimana ukuran berkas memengaruhi pengalaman pengguna?
+5. Susun kriteria untuk menilai video pembelajaran yang mudah diakses.
+
+BAB 20. SISTEM DESAIN DAN PENGELOLAAN KONSISTENSI
+
+Sistem desain adalah kumpulan prinsip, komponen, aturan, dan contoh yang membantu menjaga konsistensi produk visual. Sistem ini dapat mencakup warna, tipografi, jarak, ikon, tombol, pola navigasi, serta aturan penggunaan gambar. Sistem desain bukan sekadar kumpulan warna yang menarik; ia membantu tim membuat keputusan yang dapat dipahami dan dipelihara.
+
+Token desain menyimpan nilai yang digunakan berulang, seperti warna utama, ukuran teks, radius sudut, dan jarak. Komponen seperti tombol atau kartu menggunakan token tersebut sehingga perubahan dapat diterapkan secara terarah. Nama token sebaiknya menggambarkan fungsi, bukan hanya warna mentah. Misalnya, nama “teks-utama” lebih bermakna daripada “abu-abu-700” ketika konteks tampilan berubah.
+
+Dokumentasi perlu menjelaskan kapan komponen digunakan, variasi yang tersedia, keadaan interaksi, dan contoh yang sebaiknya dihindari. Tombol utama tidak seharusnya memiliki banyak gaya berbeda tanpa alasan. Komponen juga harus memiliki keadaan fokus, aktif, nonaktif, dan kesalahan agar perilaku dapat diprediksi. Konsistensi tidak berarti semua halaman harus identik; pola dapat disesuaikan selama aturan dasarnya tetap jelas.
+
+Sistem desain perlu dikelola sebagai aset bersama. Tetapkan pemilik, proses pengajuan perubahan, versi, dan catatan revisi. Sebelum menghapus komponen lama, periksa apakah masih digunakan. Perubahan yang tampak kecil, seperti ukuran teks atau kontras, dapat memengaruhi aksesibilitas dan tata letak banyak halaman. Karena itu, setiap pembaruan perlu diuji pada konteks nyata.
+
+LATIHAN BAB 20
+1. Apa manfaat sistem desain bagi tim?
+2. Mengapa token desain sebaiknya diberi nama berdasarkan fungsi?
+3. Sebutkan keadaan interaksi yang perlu didokumentasikan pada komponen tombol.
+4. Mengapa konsistensi tidak berarti semua halaman harus sama?
+5. Buat daftar isi dokumentasi singkat untuk sistem desain aplikasi pendidikan.

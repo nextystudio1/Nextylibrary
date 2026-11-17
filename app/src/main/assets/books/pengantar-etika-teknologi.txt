@@ -321,3 +321,31 @@ LATIHAN
 3. Mengapa keluaran kecerdasan buatan perlu diperiksa?
 4. Bagaimana ketergantungan pada penyedia teknologi dapat menjadi masalah etis?
 5. Apa hak pengguna ketika sistem memberikan hasil yang keliru?
+
+
+BAB PENDALAMAN: PENILAIAN DAMPAK SEBELUM PELUNCURAN
+
+Penilaian etis sebaiknya dimulai ketika masalah masih dapat diubah, bukan setelah sistem digunakan secara luas. Tim terlebih dahulu menuliskan tujuan sistem dalam kalimat yang dapat diuji. Tujuan seperti “meningkatkan efisiensi” terlalu luas jika tidak dijelaskan proses mana yang diperbaiki, siapa yang menerima manfaat, dan ukuran apa yang menunjukkan keberhasilan. Rumusan yang lebih jelas menyebutkan pengguna, keputusan yang dibantu, batas penggunaan, serta hasil yang diharapkan.
+
+Langkah berikutnya adalah memetakan pihak terdampak. Peta tidak boleh hanya memuat pembeli atau pengguna langsung. Orang yang datanya dikumpulkan, pekerja yang tugasnya berubah, masyarakat di sekitar pusat operasi, dan kelompok yang tidak dapat mengakses layanan juga dapat menanggung konsekuensi. Untuk setiap kelompok, catat manfaat, potensi kerugian, kemampuan menyampaikan keberatan, dan bentuk pemulihan yang tersedia. Pemetaan ini membantu menemukan dampak yang tidak terlihat dari sudut pandang pengembang.
+
+Penilaian risiko perlu membedakan kemungkinan dan tingkat dampak. Risiko yang jarang terjadi tetapi menimbulkan kerugian besar tetap memerlukan perhatian. Sebaliknya, masalah kecil yang sering terjadi dapat mengganggu kepercayaan dan akses. Tim sebaiknya menyatakan asumsi, sumber data, ketidakpastian, serta alasan penentuan prioritas. Skor risiko bukan kebenaran objektif; ia alat diskusi yang perlu ditinjau bersama bukti.
+
+Uji coba terbatas dapat mengungkap masalah yang tidak muncul dalam simulasi. Namun, uji coba bukan alasan untuk mengabaikan persetujuan, keamanan, atau hak peserta. Pengguna harus mengetahui bahwa sistem sedang diuji, data apa yang dipakai, dan bagaimana menyampaikan keluhan. Hasil pengujian perlu mencakup kegagalan, bukan hanya contoh keberhasilan. Jika kelompok tertentu mengalami kesalahan lebih sering, tim harus mencari penyebab dan memperbaikinya sebelum memperluas penerapan.
+
+BAB PENDALAMAN: TATA KELOLA DATA DAN SIKLUS HIDUP MODEL
+
+Data memiliki perjalanan sejak dikumpulkan hingga dihapus. Pada tahap pengumpulan, organisasi menentukan tujuan, dasar kewenangan, sumber, dan batas data. Pada tahap penyimpanan, akses dibatasi menurut peran dan kebutuhan kerja. Pada tahap penggunaan, data tidak boleh dialihkan ke tujuan baru secara diam-diam. Ketika data dibagikan, penerima, alasan, dan perlindungannya perlu dicatat. Jadwal retensi menentukan kapan data tidak lagi diperlukan dan harus dihapus atau dianonimkan sesuai ketentuan.
+
+Model otomatis juga memiliki siklus hidup. Versi data pelatihan, perubahan parameter, hasil pengujian, dan keputusan penerapan perlu didokumentasikan. Kinerja yang baik pada data uji tidak menjamin hasil sama pada populasi atau situasi berbeda. Perubahan bahasa, perilaku pengguna, perangkat, dan kondisi sosial dapat menyebabkan penurunan mutu. Pemantauan harus memiliki indikator yang relevan serta ambang untuk menghentikan atau meninjau sistem.
+
+Dokumentasi yang berguna menjelaskan tujuan model, penggunaan yang tidak dianjurkan, karakteristik data, keterbatasan, dan cara mengajukan peninjauan. Dokumentasi bukan sekadar formalitas. Ia membantu petugas memahami kapan keluaran dapat dipakai sebagai masukan dan kapan keputusan harus ditunda untuk pemeriksaan manusia. Pengawasan manusia juga harus bermakna: petugas memerlukan waktu, kompetensi, dan kewenangan untuk menolak rekomendasi sistem.
+
+STUDI KASUS: PENILAIAN OTOMATIS PERMOHONAN LAYANAN
+
+Sebuah lembaga mempertimbangkan sistem untuk mengurutkan permohonan layanan berdasarkan perkiraan kebutuhan. Sebelum digunakan, tim perlu menilai apakah data historis mencerminkan kebutuhan sebenarnya atau justru ketimpangan akses masa lalu. Mereka perlu menguji hasil pada berbagai kondisi, menyediakan alasan yang dapat dipahami, dan membuka jalur koreksi bagi pemohon. Sistem tidak boleh menjadi satu-satunya dasar penolakan tanpa mekanisme pemeriksaan dan keberatan.
+
+PROYEK MINI: KARTU PENILAIAN ETIS
+
+Pilih fitur digital yang dikenal secara umum. Buat kartu satu halaman berisi tujuan, pihak terdampak, data yang dibutuhkan, risiko utama, langkah pencegahan, indikator pemantauan, mekanisme keluhan, dan kondisi penghentian. Berikan alasan untuk setiap pilihan. Penilaian yang baik tidak menyatakan teknologi selalu baik atau buruk; ia menunjukkan syarat agar manfaat dapat dicapai dengan tanggung jawab.
+

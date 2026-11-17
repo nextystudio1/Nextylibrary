@@ -182,3 +182,33 @@ LATIHAN DAN PEMBAHASAN
 3. Apa perbedaan sensor pasif dan aktif? Sensor pasif menerima energi alami; sensor aktif memancarkan energi sendiri.
 4. Mengapa analisis jaringan perlu atribut arah dan hambatan? Agar rute model mendekati kondisi perjalanan sebenarnya.
 5. Mengapa data spasial perlu perlindungan privasi? Karena lokasi dapat mengungkap identitas atau aktivitas sensitif.
+BAB LANJUTAN 1. SISTEM REFERENSI KOORDINAT DAN PROYEKSI
+
+Koordinat geografis menyatakan posisi menggunakan lintang dan bujur pada model bumi. Namun bumi tidak berbentuk bola sempurna, sehingga pemetaan presisi menggunakan datum geodetik sebagai acuan bentuk dan posisi. Dua dataset dengan angka koordinat yang tampak serupa belum tentu cocok jika datum atau sistem referensinya berbeda. Sebelum menggabungkan data, periksa metadata sistem referensi koordinat, satuan, datum, dan metode transformasi.
+
+Proyeksi peta mengubah permukaan lengkung menjadi bidang datar. Setiap proyeksi menimbulkan distorsi pada luas, bentuk, jarak, atau arah. Tidak ada satu proyeksi yang mempertahankan seluruh sifat untuk semua wilayah. Peta navigasi, peta tematik luas wilayah, dan peta wilayah lokal dapat membutuhkan proyeksi berbeda. Pilih proyeksi berdasarkan tujuan dan cakupan wilayah, bukan sekadar karena tersedia sebagai pilihan pertama perangkat lunak.
+
+Contoh kerja: sebuah sekolah menerima data titik fasilitas dalam koordinat geografis dan data batas wilayah dalam proyeksi meter. Jika keduanya ditampilkan tanpa transformasi, titik dapat bergeser atau ukuran jarak menjadi keliru. Langkah yang benar adalah membaca metadata, menetapkan sistem kerja yang sesuai, melakukan transformasi terkontrol, lalu memeriksa posisi terhadap objek acuan yang diketahui.
+
+BAB LANJUTAN 2. KUALITAS DATA SPASIAL DAN KETIDAKPASTIAN
+
+Kualitas data spasial mencakup ketelitian posisi, kelengkapan, konsistensi, ketepatan waktu, dan kesesuaian atribut. Data lokasi yang sangat presisi belum tentu benar jika objeknya salah diidentifikasi atau sudah berubah. Sebaliknya, data yang cukup kasar dapat sesuai untuk gambaran regional tetapi tidak layak untuk keputusan tingkat persil.
+
+Ketelitian posisi dapat dinilai dengan membandingkan titik sampel terhadap acuan yang lebih dapat dipercaya. Catat metode pengukuran, perangkat, waktu, kondisi lingkungan, dan perkiraan ketidakpastian. Jangan menyajikan koordinat dengan banyak angka desimal seolah-olah pasti tepat jika alat dan metode tidak mendukungnya. Banyak digit bukan bukti akurasi.
+
+Data yang hilang juga dapat menimbulkan bias spasial. Jika fasilitas di wilayah terpencil lebih jarang tercatat karena survei tidak merata, peta dapat memberi kesan bahwa wilayah tersebut tidak memiliki layanan. Pembaca harus membedakan ketiadaan objek dari ketiadaan data. Simbol khusus untuk data tidak tersedia lebih jujur daripada mewarnainya sebagai nilai nol.
+
+BAB LANJUTAN 3. ANALISIS JARINGAN DAN PENGAMBILAN KEPUTUSAN
+
+Analisis jaringan mempelajari hubungan melalui ruas dan simpul, misalnya jalan, jalur pejalan kaki, atau jaringan distribusi. Jarak garis lurus tidak selalu sama dengan jarak perjalanan. Rute terpendek juga belum tentu paling aman atau paling cepat jika kondisi jalan, hambatan, kemiringan, dan waktu tempuh berbeda.
+
+Analisis cakupan layanan dapat memperkirakan wilayah yang terjangkau dalam batas waktu tertentu. Hasilnya bergantung pada asumsi kecepatan, akses jalan, jam operasi, dan hambatan fisik. Peta cakupan bukan jaminan bahwa setiap warga benar-benar dapat menggunakan layanan; faktor biaya, kapasitas, aksesibilitas, dan kondisi sosial perlu diperiksa.
+
+Untuk proyek sekolah, buat peta rute menuju perpustakaan umum menggunakan jalan yang boleh dilalui pejalan kaki. Bandingkan jarak garis lurus dengan jarak jaringan, tandai persimpangan yang memerlukan perhatian, dan jelaskan keterbatasan data. Jangan memublikasikan lokasi pribadi atau informasi yang dapat membahayakan individu.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Mengapa datum dan proyeksi harus diperiksa sebelum menggabungkan dua peta?
+2. Berikan contoh distorsi yang mungkin muncul dari proyeksi.
+3. Bedakan data nol dan data yang tidak tersedia.
+4. Mengapa rute terpendek belum tentu rute terbaik?
+5. Sebutkan metadata minimum yang perlu menyertai peta hasil analisis.

@@ -178,3 +178,33 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa resonansi perlu diperhitungkan dalam struktur? Karena respons getaran dapat meningkat dekat frekuensi alami.
 4. Apa penyebab efek Doppler? Gerak relatif sumber dan pengamat.
 5. Mengapa desibel tidak dijumlahkan secara aritmetika biasa? Karena skala desibel bersifat logaritmik.
+BAB LANJUTAN 1. PERSAMAAN GELOMBANG DAN PEMBACAAN GRAFIK
+
+Gerak gelombang periodik dapat dijelaskan melalui hubungan antara frekuensi, periode, panjang gelombang, dan cepat rambat. Frekuensi menyatakan banyaknya siklus tiap detik, sedangkan periode menyatakan waktu untuk satu siklus. Keduanya berhubungan melalui T = 1/f. Untuk gelombang yang merambat teratur, cepat rambat v = fλ, dengan λ sebagai panjang gelombang. Persamaan ini bukan sekadar rumus hafalan: satuannya harus konsisten. Jika frekuensi dinyatakan dalam hertz dan panjang gelombang dalam meter, hasil cepat rambat memiliki satuan meter per detik.
+
+Contoh: gelombang pada tali memiliki frekuensi 5 Hz dan panjang gelombang 0,8 m. Cepat rambatnya 5 × 0,8 = 4 m/s. Jika frekuensi dinaikkan sementara cepat rambat medium tetap, panjang gelombang mengecil. Hubungan ini membantu memeriksa apakah jawaban masuk akal. Jangan menganggap cepat rambat selalu tetap pada semua medium; sifat medium dan kondisi perambatan dapat mengubahnya.
+
+Grafik simpangan terhadap posisi memperlihatkan bentuk gelombang pada satu saat, sedangkan grafik simpangan terhadap waktu menunjukkan perubahan di satu titik. Keduanya tidak boleh tertukar. Pada grafik posisi, jarak antara dua puncak berurutan adalah panjang gelombang. Pada grafik waktu, jarak waktu antara dua puncak berurutan adalah periode. Membaca sumbu, skala, dan satuan merupakan langkah pertama sebelum mengambil angka.
+
+BAB LANJUTAN 2. SUPERPOSISI, INTERFERENSI, DAN DIFRAKSI
+
+Ketika dua gelombang bertemu di wilayah yang sama, simpangan total mengikuti prinsip superposisi dalam kondisi medium linear. Jika puncak bertemu puncak, penguatan dapat terjadi; jika puncak bertemu lembah dengan besar yang sesuai, pelemahan dapat terjadi. Interferensi konstruktif dan destruktif menjelaskan pola pada gelombang air, bunyi, maupun cahaya. Setelah gelombang berpapasan, masing-masing dapat terus merambat sesuai sifat medium.
+
+Difraksi adalah pembelokan dan penyebaran gelombang ketika melewati celah atau tepi penghalang. Efeknya lebih mudah terlihat ketika ukuran celah sebanding dengan panjang gelombang. Itulah sebabnya bunyi dapat terdengar dari balik pintu yang terbuka sebagian, sementara cahaya tampak biasanya membentuk bayangan yang lebih tegas pada skala sehari-hari: panjang gelombangnya jauh lebih kecil dibanding banyak celah dan penghalang di sekitar kita.
+
+Dalam eksperimen sederhana, gunakan simulasi gelombang atau riak air berskala kecil untuk membandingkan pola ketika dua sumber bergetar sefase dan berbeda fase. Catat jarak antarpola dan kondisi sumber. Jangan menyimpulkan interferensi hanya dari satu pengamatan; perubahan bentuk wadah, pantulan tepi, dan gangguan luar dapat memengaruhi pola.
+
+BAB LANJUTAN 3. CAHAYA, LENSA, DAN PEMBENTUKAN CITRA
+
+Pemantulan mengikuti hukum bahwa sudut datang sama dengan sudut pantul, dengan pengukuran sudut terhadap garis normal. Pembiasan terjadi ketika gelombang memasuki medium lain dan kecepatannya berubah. Frekuensi cahaya tetap pada batas medium, sedangkan panjang gelombangnya berubah. Indeks bias n = c/v membandingkan cepat rambat cahaya di vakum dengan cepat rambat di medium.
+
+Lensa cembung dapat mengumpulkan berkas sejajar menuju fokus, sedangkan lensa cekung menyebarkan berkas sejajar seolah berasal dari fokus maya. Posisi benda terhadap fokus menentukan sifat bayangan: nyata atau maya, tegak atau terbalik, serta diperbesar atau diperkecil. Pada lensa tipis, hubungan 1/f = 1/s + 1/s' dapat digunakan dengan konvensi tanda yang konsisten. Pembaca perlu menuliskan konvensi yang dipakai karena buku atau bidang optika berbeda dapat menggunakan aturan tanda yang berbeda.
+
+Kacamata, kamera, mikroskop, dan proyektor memanfaatkan pembentukan citra. Kamera mengatur fokus agar citra jatuh pada sensor; mikroskop menggabungkan lensa objektif dan okuler untuk memperbesar objek kecil. Kualitas citra dipengaruhi fokus, bukaan, aberasi, pencahayaan, dan kemampuan sensor atau mata. Penerapan konsep optika menjadi lebih kuat ketika diagram sinar disertai keterangan posisi benda, fokus, dan bayangan.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Sebuah gelombang memiliki frekuensi 12 Hz dan panjang gelombang 0,25 m. Hitung cepat rambatnya beserta satuan.
+2. Jelaskan perbedaan grafik simpangan-posisi dan simpangan-waktu.
+3. Mengapa difraksi lebih nyata ketika ukuran celah mendekati panjang gelombang?
+4. Jelaskan apa yang berubah dan tetap ketika cahaya memasuki medium dengan indeks bias berbeda.
+5. Buat diagram sinar untuk satu lensa dan jelaskan asumsi yang digunakan.

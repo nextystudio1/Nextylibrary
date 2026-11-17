@@ -234,3 +234,34 @@ LATIHAN
 4. Bagaimana pendekatan Satu Kesehatan membantu pengawasan resistansi?
 5. Mengapa dokumentasi kontrol dan penyimpangan penting dalam penelitian?
 
+PENDALAMAN: MIKROBIOLOGI LINGKUNGAN DAN BIOTEKNOLOGI
+
+BAB: SIKLUS MATERI DAN PERAN MIKROORGANISME
+
+Mikroorganisme berperan dalam daur karbon, nitrogen, sulfur, dan unsur lain. Dalam daur nitrogen, kelompok mikroba yang berbeda terlibat dalam fiksasi nitrogen, nitrifikasi, dan denitrifikasi. Proses-proses tersebut mengubah bentuk kimia nitrogen sehingga dapat berpindah antara atmosfer, tanah, air, dan organisme. Kondisi oksigen, kelembapan, pH, suhu, serta ketersediaan bahan organik memengaruhi komunitas dan laju proses.
+
+Daur karbon melibatkan penguraian bahan organik, respirasi, fermentasi, dan proses fotosintesis oleh mikroorganisme tertentu. Pengurai memecah senyawa kompleks menjadi bentuk yang dapat digunakan organisme lain. Kecepatan penguraian dipengaruhi komposisi bahan, kondisi lingkungan, dan komunitas mikroba. Karena proses berlangsung melalui banyak jalur, perubahan satu faktor dapat menghasilkan respons yang berbeda antar ekosistem.
+
+BAB: MIKROBIOLOGI PANGAN DAN MUTU
+
+Mikroorganisme dapat berperan dalam fermentasi yang diinginkan maupun pembusukan. Fermentasi pangan memanfaatkan aktivitas mikroba untuk menghasilkan perubahan rasa, tekstur, aroma, dan daya simpan. Keberhasilan proses bergantung pada bahan baku, kondisi produksi, kebersihan, dan pengendalian mutu. Tidak semua pertumbuhan mikroba bermanfaat; keamanan pangan memerlukan standar, pemantauan, dan prosedur yang tervalidasi.
+
+Mutu mikrobiologis tidak dapat dinilai hanya dari bau atau penampilan. Sebagian bahaya tidak menghasilkan perubahan yang mudah dikenali. Karena itu, pengolahan dan penyimpanan harus mengikuti panduan keamanan pangan yang berwenang. Pengujian laboratorium dilakukan oleh personel terlatih dengan metode yang sesuai, bukan melalui percobaan mandiri menggunakan sampel yang tidak diketahui.
+
+BAB: MIKROBIOMA DAN EKOLOGI TUBUH
+
+Mikrobioma adalah komunitas mikroorganisme beserta materi genetik dan lingkungan tempat mereka hidup. Komposisinya dapat berbeda menurut bagian tubuh, usia, pola makan, lingkungan, dan faktor lain. Hubungan antara mikrobioma dan kesehatan merupakan bidang penelitian aktif. Temuan asosiasi tidak otomatis membuktikan bahwa perubahan satu mikroba menyebabkan suatu kondisi.
+
+Penelitian mikrobioma menghadapi tantangan teknis: kontaminasi sampel, variasi metode ekstraksi, perbedaan basis data, dan kesulitan membedakan organisme hidup dari materi genetik yang tersisa. Perbandingan antarpublikasi memerlukan perhatian pada metode serta populasi yang diteliti. Klaim komersial yang menjanjikan hasil kesehatan pasti perlu dinilai secara kritis.
+
+BAB: BIOTEKNOLOGI DAN TANGGUNG JAWAB
+
+Bioteknologi menggunakan sistem biologis untuk menghasilkan pengetahuan atau produk. Penerapannya meliputi pangan, pengolahan limbah, diagnosis, dan produksi bahan. Penilaian teknologi perlu mempertimbangkan manfaat, keselamatan, dampak lingkungan, akses, dan tata kelola. Tidak semua teknologi yang mungkin dilakukan harus diterapkan tanpa evaluasi.
+
+Pengembangan produk biologis memerlukan pengendalian mutu, penilaian risiko, dan kepatuhan terhadap peraturan. Informasi teknis dalam buku pengantar ini bersifat konseptual. Pekerjaan dengan mikroorganisme dan bahan biologis harus dilakukan hanya pada fasilitas yang sesuai, di bawah pengawasan dan prosedur keselamatan resmi.
+
+STUDI KASUS DAN PERTANYAAN
+
+Sebuah instalasi pengolahan limbah memantau perubahan kualitas air sebelum dan sesudah proses biologis. Tim mencatat parameter kimia, kondisi operasi, dan hasil pengujian mikrobiologi yang dilakukan laboratorium berwenang. Ketika hasil berubah, tim tidak langsung menyimpulkan satu penyebab; mereka memeriksa perubahan beban masuk, suhu, aliran, dan mutu sampel.
+
+Pertanyaan: Mengapa data mikrobiologi perlu dibaca bersama data kimia? Apa perbedaan fungsi mikroba dalam fermentasi dan penguraian limbah? Mengapa asosiasi mikrobioma tidak otomatis menjadi bukti sebab-akibat? Apa saja unsur tanggung jawab dalam pengembangan bioteknologi?

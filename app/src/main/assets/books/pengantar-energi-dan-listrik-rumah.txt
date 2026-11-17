@@ -304,3 +304,34 @@ LATIHAN ANALISIS
 PROYEK MINI: RENCANA EFISIENSI RUANG
 
 Pilih ruang belajar atau ruang publik yang dapat diamati tanpa menyentuh instalasi. Buat denah zona sederhana, catat sumber cahaya, jadwal penggunaan, dan perangkat yang terlihat. Identifikasi tiga peluang perbaikan yang tidak memerlukan pekerjaan listrik berisiko, misalnya pengaturan jadwal, pemanfaatan cahaya alami, atau penataan ruang. Untuk setiap usulan, tulis manfaat, keterbatasan, indikator keberhasilan, serta pihak yang perlu dilibatkan.
+
+BAB PENDALAMAN: MEMAHAMI TAGIHAN DAN POLA KONSUMSI
+
+Tagihan listrik biasanya menghubungkan energi yang tercatat dengan tarif dan komponen biaya yang berlaku. Energi listrik rumah tangga lazim dinyatakan dalam kilowatt-jam. Daya peralatan menunjukkan laju penggunaan energi ketika alat beroperasi. Perkiraan energi dapat dihitung dari daya dikalikan lama pemakaian, tetapi konsumsi nyata dipengaruhi siklus kerja, pengaturan, dan kondisi alat.
+
+Membaca tagihan dari beberapa periode membantu mengenali pola musiman dan perubahan kebiasaan. Perbandingan harus memperhatikan jumlah hari penagihan, perubahan tarif, penghuni, dan peralatan baru. Satu bulan dengan konsumsi tinggi belum tentu menunjukkan kerusakan; perlu diperiksa konteks penggunaannya.
+
+BAB PENDALAMAN: BEBAN, DAYA, DAN FAKTOR PENGGUNAAN
+
+Beban rumah tangga berubah sepanjang hari. Peralatan pemanas atau pendingin dapat memiliki daya relatif besar, sementara perangkat elektronik kecil mungkin digunakan dalam waktu lama. Beban puncak terjadi ketika beberapa peralatan bekerja bersamaan. Pengelolaan waktu pemakaian dapat membantu mengurangi beban puncak jika pola tarif dan kondisi jaringan mendukung.
+
+Faktor penggunaan menggambarkan seberapa sering peralatan benar-benar beroperasi pada kapasitas tertentu. Label daya maksimum tidak selalu sama dengan konsumsi rata-rata. Untuk memperkirakan penggunaan, catat spesifikasi pabrikan, durasi, dan mode operasi. Pengukuran hanya boleh menggunakan perangkat pemantau yang dirancang aman dan sesuai petunjuk; jangan membuka panel atau menyentuh instalasi.
+
+BAB PENDALAMAN: EFISIENSI PERALATAN DAN PEMELIHARAAN
+
+Efisiensi peralatan dipengaruhi desain, ukuran, kondisi, dan cara penggunaan. Peralatan yang sesuai kapasitas kebutuhan sering lebih baik daripada alat yang terlalu besar. Pemeliharaan rutin sesuai petunjuk pabrikan menjaga aliran udara dan kinerja, terutama pada peralatan pendingin. Filter kotor dapat mengurangi aliran dan meningkatkan kebutuhan energi.
+
+Saat mengganti peralatan, bandingkan konsumsi energi tahunan berdasarkan metode uji yang sama, kapasitas, garansi, ketersediaan suku cadang, dan biaya sepanjang umur pakai. Harga beli terendah belum tentu menghasilkan biaya total terendah. Klaim hemat energi perlu dibandingkan dengan label dan data yang dapat diverifikasi.
+
+BAB PENDALAMAN: KESELAMATAN DAN KUALITAS DAYA
+
+Keselamatan listrik bergantung pada instalasi yang dirancang, dipasang, dan diperiksa sesuai standar oleh tenaga kompeten. Kabel rusak, sambungan tidak sesuai, dan beban berlebih dapat menimbulkan bahaya. Pengguna tidak boleh melakukan perbaikan instalasi tanpa kompetensi. Jika menemukan tanda gangguan, hentikan penggunaan peralatan secara aman dan minta bantuan teknisi atau penyedia layanan.
+
+Kualitas daya mencakup kestabilan tegangan, frekuensi, dan bentuk gelombang. Gangguan dapat memengaruhi peralatan sensitif. Pelindung lonjakan dan perangkat pengondisi daya harus dipilih sesuai kebutuhan serta spesifikasi, bukan dianggap menyelesaikan semua jenis gangguan.
+
+BAB PENDALAMAN: ENERGI TERBARUKAN SKALA RUMAH
+
+Panel surya mengubah sebagian energi cahaya menjadi listrik. Hasilnya dipengaruhi intensitas matahari, orientasi, bayangan, suhu, kebersihan, dan karakteristik sistem. Produksi siang hari belum tentu bertepatan dengan kebutuhan rumah, sehingga pola konsumsi dan aturan interkoneksi perlu dipahami sebelum mengambil keputusan.
+
+Penilaian sistem energi rumah perlu mencakup biaya investasi, pemeliharaan, umur komponen, keselamatan, ketentuan penyedia listrik, dan penanganan akhir masa pakai. Penyimpanan energi dapat meningkatkan fleksibilitas, tetapi menambah biaya dan kebutuhan pengelolaan. Konsultasi dengan penyedia dan tenaga bersertifikat penting sebelum pemasangan.
+

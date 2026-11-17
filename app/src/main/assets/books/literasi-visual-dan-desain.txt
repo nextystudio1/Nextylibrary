@@ -31,6 +31,8 @@ Komposisi mengatur hubungan elemen visual. Ukuran, kontras, posisi, dan ruang ko
 
 BAB 3. WARNA DAN TIPOGRAFI
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/roda-warna.svg|Roda warna dasar untuk mengenali hubungan warna dan kontras.]]
+
 Warna dapat membedakan kategori atau membangun suasana, tetapi maknanya dipengaruhi budaya dan konteks. Tipografi menentukan keterbacaan. Pilih ukuran, ketebalan, dan jarak huruf yang sesuai. Pastikan kontras cukup dan informasi tidak bergantung pada warna saja.
 
 BAB 4. MEMBACA GRAFIK

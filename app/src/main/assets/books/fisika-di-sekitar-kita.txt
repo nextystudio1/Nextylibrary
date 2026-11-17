@@ -174,6 +174,8 @@ LATIHAN
 Mengapa gagang panci sering dibuat dari bahan yang kurang menghantarkan panas?
 
 BAB 10. GELOMBANG DAN BUNYI
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/gelombang.svg|Diagram puncak, lembah, amplitudo, dan panjang gelombang.]]
 Gelombang membawa energi dan informasi tanpa harus memindahkan materi secara keseluruhan dari satu tempat ke tempat lain. Gelombang transversal memiliki getaran tegak lurus arah rambat, sedangkan gelombang longitudinal memiliki getaran sejajar arah rambat.
 
 Besaran gelombang meliputi amplitudo, panjang gelombang, frekuensi, dan periode. Hubungan cepat rambat adalah v = fλ. Frekuensi menyatakan jumlah getaran tiap sekon dan satuannya hertz. Periode adalah waktu untuk satu getaran.

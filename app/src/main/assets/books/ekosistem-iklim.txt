@@ -33,6 +33,8 @@ Habitat adalah tempat organisme hidup, sedangkan relung ekologi menjelaskan pera
 
 BAB 2: RANTAI MAKANAN DAN ALIRAN ENERGI
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/jaring-makanan-laut.svg|Contoh hubungan makan-dimakan dan aliran energi dalam ekosistem laut.]]
+
 Tumbuhan hijau disebut produsen karena dapat membuat bahan organik melalui fotosintesis. Sebagian organisme lain memperoleh energi dengan memakan tumbuhan atau organisme lain. Konsumen tingkat pertama biasanya memakan produsen, sementara konsumen tingkat berikutnya memakan konsumen lain. Jamur dan bakteri pengurai memecah sisa organisme dan membantu mengembalikan unsur hara ke lingkungan.
 
 Hubungan makan-dimakan dapat digambarkan sebagai rantai makanan. Di alam, hubungan tersebut biasanya lebih rumit dan membentuk jaring-jaring makanan. Satu organisme dapat memakan beberapa jenis makanan dan dimakan oleh beberapa pemangsa. Jika satu populasi menurun tajam, organisme yang bergantung padanya dapat kekurangan makanan, sementara organisme yang biasanya dimakan olehnya bisa meningkat.

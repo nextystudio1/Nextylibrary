@@ -157,6 +157,8 @@ LATIHAN
 Hitung luas persegi panjang 8 cm × 5 cm. Tentukan sisi miring segitiga siku-siku dengan sisi 6 cm dan 8 cm.
 
 BAB 9. BANGUN RUANG DAN PENGUKURAN
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/bangun-ruang.svg|Contoh visual beberapa bangun ruang dan bentuk tiga dimensinya.]]
 Bangun ruang memiliki panjang, lebar, dan tinggi. Kubus memiliki enam sisi persegi yang sama. Balok memiliki enam sisi berbentuk persegi panjang. Prisma memiliki dua bidang sejajar dan kongruen, sedangkan limas memiliki alas dan sisi tegak yang bertemu pada satu puncak.
 
 Volume mengukur ruang yang ditempati. Volume kubus adalah s³, balok adalah panjang × lebar × tinggi, dan prisma adalah luas alas × tinggi. Volume tabung adalah πr²t. Luas permukaan menghitung seluruh bidang luar bangun.

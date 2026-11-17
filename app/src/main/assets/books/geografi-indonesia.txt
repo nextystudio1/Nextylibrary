@@ -7,6 +7,8 @@ PENGANTAR
 Indonesia merupakan negara kepulauan dengan bentang alam dan kehidupan masyarakat yang beragam. Geografi mempelajari hubungan antara ruang, lingkungan, dan aktivitas manusia. Buku ini membantu pembaca memahami keragaman wilayah Indonesia serta tanggung jawab menjaga lingkungan.
 
 BAB 1 — LETAK DAN KARAKTER WILAYAH
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/peta-skala.svg|Ilustrasi simbol, legenda, dan skala untuk memahami representasi wilayah.]]
 Indonesia berada di Asia Tenggara dan terletak di antara Samudra Hindia dan Samudra Pasifik. Posisi ini menjadikan Indonesia bagian penting jalur pelayaran dan pertemuan berbagai pengaruh alam maupun budaya.
 Indonesia terdiri atas ribuan pulau besar dan kecil. Pulau-pulau utama antara lain Sumatra, Jawa, Kalimantan, Sulawesi, dan Papua. Bentuk negara kepulauan membuat laut menjadi penghubung antardaerah sekaligus sumber pangan, pekerjaan, dan keanekaragaman hayati.
 Letak astronomis berpengaruh terhadap penyinaran matahari dan pembagian zona waktu. Indonesia menggunakan tiga zona waktu: WIB, WITA, dan WIT. Perbedaan waktu perlu diperhatikan dalam komunikasi dan transportasi antardaerah.

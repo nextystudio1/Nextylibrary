@@ -400,3 +400,32 @@ LATIHAN DAN PROYEK
 6. Temukan satu contoh visualisasi yang berpotensi menyesatkan dan jelaskan perbaikannya.
 
 Proyek: rancang lembar informasi satu halaman tentang topik pendidikan. Mulailah dengan kebutuhan audiens dan tiga pesan utama. Buat struktur, pilih tipografi, susun satu visualisasi data yang memiliki sumber, dan siapkan versi yang tetap dapat dipahami tanpa mengandalkan warna. Uji kepada beberapa pembaca, catat bagian yang salah dipahami, lalu revisi. Sertakan catatan lisensi seluruh aset.
+
+BAB LANJUTAN: SISTEM VISUAL, HIERARKI INFORMASI, DAN DESAIN INKLUSIF
+
+Desain komunikasi visual bertujuan membantu audiens memahami pesan melalui hubungan antara teks, gambar, bentuk, ruang, dan warna. Keindahan dapat mendukung perhatian, tetapi tidak menggantikan kejelasan. Desainer perlu mengetahui siapa audiensnya, apa yang harus dipahami, dan tindakan atau pemikiran apa yang diharapkan setelah pesan diterima. Brief yang baik menjelaskan tujuan, konteks penggunaan, batasan, serta kriteria keberhasilan.
+
+Hierarki visual mengatur urutan perhatian. Ukuran, bobot huruf, kontras, posisi, dan ruang kosong dapat menunjukkan mana judul, informasi utama, penjelasan, dan keterangan. Jika semua elemen dibuat sama menonjol, pembaca kesulitan menentukan titik awal. Sebaliknya, perbedaan yang terlalu ekstrem dapat memutus hubungan antarbagian. Hierarki harus diuji pada ukuran tampilan sebenarnya, bukan hanya pada layar kerja desainer.
+
+Tipografi memengaruhi keterbacaan dan karakter pesan. Pemilihan jenis huruf perlu mempertimbangkan bentuk karakter, jarak antarhuruf, tinggi baris, panjang baris, serta ukuran pada perangkat yang digunakan. Teks panjang membutuhkan kenyamanan membaca, sedangkan judul dapat memiliki karakter lebih ekspresif. Penggunaan terlalu banyak jenis huruf membuat sistem visual kehilangan konsistensi. Huruf yang mirip secara bentuk juga perlu diperiksa agar tidak membingungkan pembaca.
+
+Warna memiliki fungsi estetis dan informatif. Kontras yang cukup membantu membedakan teks dari latar. Namun, informasi tidak boleh disampaikan hanya melalui warna karena sebagian pengguna memiliki keterbatasan persepsi warna atau melihat materi pada layar dengan kondisi berbeda. Gunakan label, pola, bentuk, atau ikon pendamping. Palet warna juga harus diuji pada kondisi terang dan gelap jika desain digunakan pada keduanya.
+
+Tata letak berbasis grid membantu menyusun elemen secara konsisten. Grid tidak harus terlihat oleh pembaca, tetapi memberi struktur untuk margin, kolom, jarak, dan perataan. Konsistensi memudahkan pembaca mempelajari pola ant halaman atau antarmuka. Penyimpangan dapat digunakan untuk menekankan bagian tertentu, tetapi sebaiknya memiliki alasan komunikasi yang jelas.
+
+Visualisasi data memerlukan ketepatan selain daya tarik. Jenis grafik harus sesuai dengan pertanyaan: diagram batang untuk membandingkan kategori, garis untuk perubahan berurutan, dan sebar untuk melihat hubungan dua variabel. Skala sumbu, satuan, sumber, periode, dan ukuran sampel harus ditampilkan dengan jujur. Memotong sumbu atau memilih rentang yang berlebihan dapat membuat perbedaan tampak lebih besar atau lebih kecil daripada kenyataannya.
+
+Desain inklusif mempertimbangkan variasi kemampuan, bahasa, perangkat, dan situasi penggunaan. Ikon sebaiknya memiliki label jika maknanya tidak universal. Teks alternatif membantu pengguna teknologi pembaca layar memahami gambar yang informatif. Struktur judul yang konsisten, urutan baca yang logis, dan kontras memadai meningkatkan aksesibilitas. Materi yang mudah dipahami juga menggunakan kalimat ringkas tanpa menghilangkan ketepatan.
+
+Lisensi aset merupakan bagian dari proses desain profesional. Foto, ilustrasi, ikon, dan jenis huruf dapat memiliki ketentuan penggunaan berbeda. Desainer harus memeriksa izin, atribusi, batas modifikasi, dan penggunaan komersial. Menemukan gambar melalui mesin pencari tidak berarti gambar bebas digunakan. Catatan aset dan sumbernya membantu tim mengelola hak penggunaan serta mengganti materi jika izin tidak sesuai.
+
+Pengujian desain dapat dilakukan melalui tugas sederhana bersama calon pengguna. Mintalah mereka menemukan informasi, menjelaskan pesan utama, atau menyelesaikan langkah tertentu. Amati bagian yang membingungkan tanpa langsung memberi petunjuk. Temuan perlu dipisahkan dari preferensi pribadi desainer. Revisi kemudian diuji kembali untuk melihat apakah masalah benar-benar berkurang.
+
+Studi kasus: sebuah organisasi ingin membuat infografik layanan publik. Tim menentukan audiens dan tiga pesan utama, lalu menyusun hierarki, memilih tipografi, dan membuat grafik berdasarkan data yang memiliki sumber. Mereka menyiapkan versi yang tetap dapat dipahami tanpa warna dan memeriksa tampilan pada layar kecil. Uji pembaca menunjukkan bahwa simbol tertentu disalahartikan, sehingga label diperjelas.
+
+Latihan penerapan:
+1. Buat hierarki untuk poster dengan satu pesan utama dan tiga informasi pendukung.
+2. Periksa keterbacaan tipografi pada layar kecil.
+3. Rancang grafik yang sesuai untuk data kategori dan data waktu.
+4. Buat daftar pemeriksaan aksesibilitas untuk infografik.
+5. Susun catatan lisensi dan atribusi untuk semua aset desain.

@@ -265,3 +265,53 @@ STUDI KASUS DAN PERTANYAAN
 Sebuah instalasi pengolahan limbah memantau perubahan kualitas air sebelum dan sesudah proses biologis. Tim mencatat parameter kimia, kondisi operasi, dan hasil pengujian mikrobiologi yang dilakukan laboratorium berwenang. Ketika hasil berubah, tim tidak langsung menyimpulkan satu penyebab; mereka memeriksa perubahan beban masuk, suhu, aliran, dan mutu sampel.
 
 Pertanyaan: Mengapa data mikrobiologi perlu dibaca bersama data kimia? Apa perbedaan fungsi mikroba dalam fermentasi dan penguraian limbah? Mengapa asosiasi mikrobioma tidak otomatis menjadi bukti sebab-akibat? Apa saja unsur tanggung jawab dalam pengembangan bioteknologi?
+
+BAB PENDALAMAN: MIKROBA DALAM EKOSISTEM DAN INDUSTRI
+
+Mikroorganisme mencakup kelompok kehidupan yang sangat beragam, antara lain bakteri, arkea, fungi mikroskopis, protozoa, dan alga mikroskopis. Virus juga dipelajari dalam mikrobiologi karena berinteraksi erat dengan sel inang, meskipun statusnya berbeda dari organisme bersel. Ukuran kecil tidak berarti perannya kecil. Mikroba terlibat dalam daur unsur, pembentukan tanah, fermentasi, kesehatan organisme, dan pengolahan limbah.
+
+MIKROBA DAN SIKLUS UNSUR
+
+Dalam siklus karbon, mikroorganisme menguraikan bahan organik dan mengembalikan sebagian karbon ke lingkungan melalui respirasi. Dalam siklus nitrogen, kelompok mikroba tertentu terlibat dalam perubahan bentuk senyawa nitrogen sehingga unsur tersebut dapat berpindah antara atmosfer, tanah, air, dan makhluk hidup. Proses biologis ini dipengaruhi ketersediaan oksigen, sumber energi, suhu, pH, dan kondisi habitat.
+
+Komunitas mikroba tidak bekerja sebagai satu jenis tunggal. Banyak proses berlangsung melalui kerja bersama berbagai organisme. Produk metabolisme satu kelompok dapat menjadi sumber bagi kelompok lain. Hubungan ini menjelaskan mengapa perubahan lingkungan dapat menggeser komposisi komunitas dan fungsi ekosistem. Namun, keberadaan suatu mikroba dalam sampel tidak otomatis membuktikan bahwa mikroba itu melakukan proses tertentu pada saat pengambilan sampel.
+
+MIKROBIOMA DAN KESEHATAN
+
+Mikrobioma adalah komunitas mikroorganisme beserta materi genetiknya pada suatu lingkungan, misalnya usus, kulit, atau tanah. Mikrobioma manusia berinteraksi dengan pencernaan, sistem imun, dan lingkungan. Komposisinya dipengaruhi banyak faktor, termasuk pola makan, usia, lingkungan, obat, dan kondisi kesehatan. Tidak ada satu susunan mikrobioma yang dapat dianggap ideal untuk semua orang.
+
+Penelitian mikrobioma sering menemukan hubungan antara pola komunitas dan kondisi tertentu. Hubungan statistik belum membuktikan sebab-akibat. Perubahan mikrobioma dapat menjadi penyebab, akibat, atau sekadar penanda kondisi lain. Untuk menguji mekanisme diperlukan rancangan penelitian yang sesuai, pengendalian faktor perancu, dan replikasi. Hasil penelitian awal tidak boleh langsung diubah menjadi klaim terapi.
+
+FERMENTASI DAN PANGAN
+
+Fermentasi memanfaatkan aktivitas mikroorganisme atau enzim untuk mengubah bahan. Dalam pangan, proses ini dapat memengaruhi rasa, aroma, tekstur, dan daya simpan. Produk fermentasi sangat beragam karena bahan baku, komunitas mikroba, kondisi produksi, dan tradisi setempat berbeda. Pengetahuan tradisional merupakan sumber penting, sementara pengendalian mutu modern membantu memastikan konsistensi dan keamanan.
+
+Fermentasi tidak otomatis membuat semua bahan aman. Keamanan pangan bergantung pada bahan awal, kebersihan, pengendalian proses, penyimpanan, dan pemeriksaan mutu yang sesuai. Buku pengantar ini membahas prinsip ilmiah, bukan petunjuk produksi mikroba atau pengolahan bahan berisiko. Kegiatan industri harus mengikuti standar keamanan pangan dan pengawasan yang berlaku.
+
+MIKROBIOLOGI LINGKUNGAN DAN PENGOLAHAN LIMBAH
+
+Instalasi pengolahan air limbah dapat memanfaatkan komunitas mikroba untuk menguraikan bahan organik dan mengubah senyawa tertentu. Kinerja sistem dipengaruhi beban masuk, suhu, pH, oksigen terlarut, waktu tinggal, dan kestabilan operasi. Pengukuran parameter kimia dan fisik perlu dibaca bersama pemeriksaan mikrobiologi oleh laboratorium yang kompeten.
+
+Ketika kualitas keluaran berubah, penyebabnya dapat berasal dari perubahan beban, gangguan proses, variasi sampel, atau faktor lain. Kesimpulan harus berdasarkan rangkaian data, bukan satu hasil. Pengelolaan limbah juga memerlukan perlindungan pekerja dan masyarakat, kepatuhan terhadap baku mutu, serta prosedur keselamatan fasilitas.
+
+RESISTANSI ANTIMIKROBA
+
+Resistansi antimikroba terjadi ketika mikroorganisme memiliki kemampuan bertahan terhadap obat atau senyawa antimikroba yang sebelumnya efektif. Perkembangan resistansi dipengaruhi variasi genetik, seleksi, perpindahan gen, serta penggunaan antimikroba pada manusia, hewan, dan lingkungan. Resistansi merupakan persoalan sistem kesehatan dan lingkungan, bukan alasan untuk menggunakan obat tanpa pemeriksaan.
+
+Pendekatan One Health menekankan keterkaitan kesehatan manusia, hewan, dan lingkungan. Pengawasan resistansi memerlukan data dari berbagai sektor, pengendalian infeksi, penggunaan obat yang bertanggung jawab, dan komunikasi publik yang akurat. Keputusan terapi harus dibuat tenaga kesehatan berdasarkan kondisi pasien dan pedoman resmi.
+
+METODE ILMIAH DAN BIOSAFETY
+
+Hasil penelitian mikrobiologi dipengaruhi kualitas sampel, metode identifikasi, batas deteksi, dan kemungkinan kontaminasi. Peneliti harus menggunakan kontrol yang sesuai, mencatat metode, dan melaporkan keterbatasan. Hasil negatif tidak selalu berarti mikroorganisme tidak ada; jumlahnya mungkin di bawah batas deteksi atau sampel tidak mewakili lokasi.
+
+Pekerjaan yang melibatkan mikroorganisme dan bahan biologis memerlukan penilaian risiko, fasilitas yang sesuai, pelatihan, pengawasan, dan prosedur keselamatan resmi. Materi pembelajaran konseptual tidak menggantikan pelatihan laboratorium. Siswa dapat mempelajari prinsip melalui diagram, data simulasi, dan analisis kasus tanpa membiakkan atau menangani mikroorganisme.
+
+LATIHAN DAN PROYEK
+
+1. Mengapa mikroba penting dalam siklus karbon dan nitrogen?
+2. Mengapa hubungan mikrobioma dengan penyakit belum tentu menunjukkan sebab-akibat?
+3. Sebutkan faktor umum yang memengaruhi keamanan pangan fermentasi.
+4. Apa yang dimaksud pendekatan One Health?
+5. Mengapa hasil laboratorium harus dilaporkan bersama batas deteksi dan keterbatasan metode?
+
+Proyek: analisis dataset simulasi kualitas air yang memuat parameter fisik, kimia, dan hasil pemeriksaan mikrobiologi. Buat grafik perubahan, rumuskan beberapa hipotesis yang mungkin, dan jelaskan data tambahan yang diperlukan. Gunakan data simulasi atau data publik, bukan sampel biologis yang dikumpulkan sendiri.

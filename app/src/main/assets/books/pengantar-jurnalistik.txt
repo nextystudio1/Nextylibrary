@@ -230,3 +230,32 @@ LATIHAN PENDALAMAN
 3. Apa yang perlu dilakukan ketika informasi viral belum dapat diverifikasi?
 4. Sebutkan tiga risiko penggunaan AI dalam proses jurnalistik.
 5. Mengapa hak jawab dan koreksi merupakan bagian dari mutu redaksi?
+BAB LANJUTAN. VERIFIKASI DIGITAL, DATA, DAN ETIKA PEMBERITAAN
+
+Informasi digital dapat menyebar lebih cepat daripada proses verifikasi. Foto lama dapat dibagikan seolah baru, video dapat dipotong sehingga konteks hilang, dan akun tiruan dapat menyamar sebagai sumber resmi. Jurnalis perlu memisahkan apa yang terlihat dari kesimpulan tentang kapan, di mana, dan mengapa peristiwa terjadi. Keterangan unggahan bukan bukti yang cukup untuk memastikan konteks media.
+
+Verifikasi dimulai dengan merumuskan klaim secara spesifik. Apakah klaim menyebut lokasi, waktu, jumlah korban, keputusan lembaga, atau pernyataan seseorang? Setiap bagian mungkin memerlukan sumber berbeda. Cari sumber asli bila tersedia, periksa tanggal publikasi, dan bandingkan dengan laporan independen. Arsip berita dan dokumen resmi dapat membantu menelusuri perubahan informasi. Tangkapan layar tanpa tautan asal perlu diperlakukan sebagai petunjuk awal, bukan konfirmasi.
+
+Foto dan video perlu diperiksa melalui konteks visual dan sumber publikasi. Petunjuk seperti papan nama, cuaca, bentuk bangunan, bahasa pada rambu, atau posisi matahari dapat membantu, tetapi tidak selalu konklusif. Pencarian gambar terbalik dapat menemukan versi yang lebih lama atau unggahan awal. Metadata kadang membantu, tetapi dapat hilang atau berubah ketika berkas dibagikan. Jangan menyimpulkan lokasi atau identitas seseorang hanya dari satu petunjuk yang ambigu.
+
+Jurnalisme data mengolah kumpulan angka untuk menjelaskan pola dan dampak. Sebelum membuat grafik, baca definisi variabel, periode, satuan, dan cara pengumpulan. Periksa apakah data mencakup seluruh populasi atau hanya sampel. Persentase perlu menyebut penyebut, dan perubahan persentase harus dibedakan dari perubahan poin persentase. Grafik dapat menyesatkan jika sumbu dipotong tanpa penjelasan, kategori tidak sebanding, atau periode dipilih hanya untuk mendukung narasi.
+
+Wawancara memerlukan persiapan dan keterbukaan tentang tujuan. Pertanyaan terbuka membantu narasumber menjelaskan pengalaman dengan kata-katanya sendiri. Pertanyaan tindak lanjut meminta contoh, waktu, dokumen, atau pihak lain yang dapat memeriksa keterangan. Catatan harus membedakan kutipan langsung, parafrasa, dan interpretasi reporter. Jika rekaman digunakan, mintalah persetujuan sesuai aturan dan jelaskan bagaimana materi akan dipakai.
+
+Perlindungan narasumber menjadi sangat penting ketika topik menyangkut anak, korban, pelapor, atau orang yang menghadapi risiko. Jangan memublikasikan alamat, nomor kontak, lokasi rutin, atau detail yang memungkinkan identifikasi tanpa alasan kepentingan publik yang kuat dan penilaian risiko. Persetujuan tidak selalu menghilangkan tanggung jawab redaksi, terutama ketika narasumber berada dalam posisi rentan. Diskusikan pilihan anonimitas dan konsekuensinya secara jujur.
+
+Etika pemberitaan menuntut proporsionalitas. Kepentingan publik bukan rasa ingin tahu publik semata. Detail pribadi hanya layak dimuat jika relevan dengan isu dan manfaat informasinya sebanding dengan potensi kerugian. Hindari judul yang melebih-lebihkan isi, penggambaran kelompok secara stereotip, serta penyajian tuduhan sebagai fakta. Berikan ruang tanggapan kepada pihak yang dikritik dan jelaskan jika mereka tidak merespons setelah upaya yang wajar.
+
+Kecerdasan buatan dapat membantu transkripsi, pencarian dokumen, atau pengelompokan data, tetapi hasilnya dapat keliru dan tidak boleh dianggap sebagai sumber independen. Jurnalis harus memeriksa kutipan, nama, angka, dan konteks pada sumber asli. Jangan memasukkan informasi rahasia atau data pribadi ke layanan yang tidak disetujui redaksi. Jika penggunaan AI memengaruhi proses atau isi secara material, ikuti kebijakan transparansi organisasi dan simpan catatan pemeriksaan manusia.
+
+Koreksi adalah bagian dari akuntabilitas, bukan tanda bahwa redaksi gagal. Kesalahan faktual harus diperbaiki dengan jelas, mudah ditemukan, dan proporsional terhadap jangkauan berita awal. Catatan koreksi menyebut apa yang salah dan apa yang benar. Redaksi juga perlu meninjau mengapa kesalahan terjadi: sumber tunggal, tenggat terlalu sempit, pemeriksaan angka yang terlewat, atau proses persetujuan yang tidak jelas. Perbaikan sistem membantu mencegah pengulangan.
+
+LATIHAN DAN PEMBAHASAN
+1. Mengapa unggahan viral tidak otomatis menjadi bukti? Pembahasan: asal, waktu, konteks, dan keaslian konten belum tentu diketahui.
+2. Apa beda persen dan poin persentase? Pembahasan: persen menyatakan proporsi relatif, sedangkan poin persentase adalah selisih langsung antara dua nilai persentase.
+3. Mengapa narasumber rentan memerlukan perlindungan tambahan? Pembahasan: publikasi dapat menimbulkan tekanan, stigma, atau risiko keselamatan.
+4. Bagaimana penggunaan AI dalam verifikasi seharusnya diperlakukan? Pembahasan: sebagai alat bantu yang hasilnya harus diperiksa terhadap sumber asli.
+5. Apa unsur koreksi yang baik? Pembahasan: mudah ditemukan, menjelaskan kesalahan, menyajikan fakta yang benar, dan memperbarui materi terkait.
+
+PROYEK MINI
+Pilih satu klaim publik yang dapat diperiksa melalui dokumen terbuka. Buat tabel klaim, sumber pertama, sumber pembanding, tanggal, bukti, dan status verifikasi. Jika memakai data, periksa definisi serta satuannya sebelum membuat grafik sederhana. Tulis ringkasan yang hanya menyatakan hal yang didukung bukti dan cantumkan keterbatasan pemeriksaan.

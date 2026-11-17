@@ -328,3 +328,34 @@ Pembangunan berkelanjutan mempertimbangkan hubungan ekonomi, sosial, dan lingkun
 
 Ketahanan ekonomi berkaitan dengan kemampuan rumah tangga, perusahaan, dan lembaga menghadapi guncangan. Diversifikasi mata pencaharian, perlindungan sosial, infrastruktur tangguh, akses informasi, dan tata kelola yang dapat dipercaya membantu mengurangi kerentanan. Tidak ada satu ukuran yang mewakili seluruh ketahanan; indikator perlu disesuaikan dengan jenis risiko dan kelompok yang ditelaah.
 
+
+BAB PENDALAMAN: KEMISKINAN, KETIMPANGAN, DAN KESEMPATAN
+
+Kemiskinan dapat diukur melalui pendekatan pendapatan maupun pemenuhan kebutuhan dasar. Ukuran moneter membantu membandingkan kemampuan memenuhi kebutuhan pada batas tertentu, sedangkan pendekatan multidimensi melihat pendidikan, kesehatan, tempat tinggal, akses layanan, dan kondisi lain. Kedua pendekatan menjawab pertanyaan berbeda. Seseorang dapat berada sedikit di atas garis pendapatan tertentu tetapi tetap menghadapi hambatan layanan dasar.
+
+Ketimpangan juga memiliki beberapa dimensi. Ketimpangan pendapatan menggambarkan perbedaan sumber daya ekonomi, sementara ketimpangan kesempatan berkaitan dengan peluang memperoleh pendidikan, pekerjaan layak, layanan kesehatan, dan partisipasi. Ketimpangan wilayah dapat muncul ketika infrastruktur dan layanan terkonsentrasi pada pusat kegiatan. Analisis yang baik menjelaskan ukuran yang digunakan dan kelompok yang dibandingkan.
+
+Kebijakan pengurangan kemiskinan perlu mempertimbangkan penyebab yang beragam. Perlindungan sosial dapat membantu rumah tangga menghadapi guncangan, sedangkan pendidikan, kesehatan, infrastruktur, dan akses pekerjaan memengaruhi kesempatan jangka panjang. Program bantuan yang tidak memiliki data penerima yang baik berisiko salah sasaran. Mekanisme pengaduan dan pembaruan data membantu memperbaiki pelaksanaan tanpa mengabaikan privasi.
+
+BAB PENDALAMAN: PASAR KERJA DAN TRANSFORMASI STRUKTURAL
+
+Transformasi struktural terjadi ketika komposisi kegiatan ekonomi berubah, misalnya dari dominasi pertanian menuju industri dan jasa. Perubahan tersebut dapat meningkatkan produktivitas, tetapi hasilnya bergantung pada kualitas pekerjaan, keterampilan, perlindungan pekerja, dan hubungan antarsektor. Perpindahan tenaga kerja tidak selalu berlangsung mudah karena lokasi pekerjaan, pendidikan, tanggung jawab keluarga, dan biaya mobilitas berbeda.
+
+Produktivitas tenaga kerja dapat meningkat melalui pendidikan, kesehatan, teknologi, organisasi kerja, dan infrastruktur. Namun, produktivitas bukan alasan untuk mengabaikan keselamatan dan martabat pekerja. Kebijakan pasar kerja perlu menilai kualitas pekerjaan, kepastian pendapatan, kesempatan belajar, serta perlindungan dari diskriminasi. Pelatihan akan lebih bermanfaat jika terhubung dengan kebutuhan nyata dan tidak menjanjikan pekerjaan yang belum tersedia.
+
+BAB PENDALAMAN: PEMBIAYAAN PEMBANGUNAN DAN PRIORITAS ANGGARAN
+
+Pembangunan membutuhkan pembiayaan dari penerimaan publik, investasi swasta, kerja sama, dan sumber lain yang sesuai aturan. Setiap sumber memiliki biaya, risiko, dan kewajiban. Pinjaman dapat mendukung investasi produktif, tetapi pembayaran kembali harus diperhitungkan terhadap kemampuan fiskal. Penilaian proyek publik perlu melihat biaya sepanjang masa pakai, termasuk operasi, pemeliharaan, dan dampak lingkungan.
+
+Analisis biaya-manfaat membandingkan konsekuensi suatu pilihan dengan alternatif yang tersedia. Tidak semua manfaat mudah dinilai dengan uang, misalnya peningkatan rasa aman atau kualitas lingkungan. Karena itu, hasil kuantitatif perlu dilengkapi penjelasan kualitatif dan analisis distribusi. Proyek dengan manfaat agregat besar masih dapat merugikan kelompok tertentu jika biaya dan manfaat tersebar tidak adil.
+
+BAB PENDALAMAN: URBANISASI, WILAYAH, DAN KONEKTIVITAS
+
+Urbanisasi dapat memperluas akses pasar, pendidikan, dan layanan, tetapi pertumbuhan kota yang tidak terencana dapat meningkatkan kemacetan, tekanan perumahan, dan risiko lingkungan. Hubungan kota-desa juga penting karena kota bergantung pada pangan, air, tenaga kerja, dan ekosistem wilayah sekitarnya. Kebijakan wilayah sebaiknya tidak melihat kota dan desa sebagai dua sistem yang terpisah.
+
+Konektivitas mencakup transportasi, komunikasi, energi, dan jaringan distribusi. Infrastruktur yang dibangun perlu dinilai berdasarkan siapa yang dapat mengaksesnya, berapa biaya penggunaan, dan apakah pemeliharaan dapat dijamin. Peta akses waktu tempuh, data layanan, serta konsultasi masyarakat dapat membantu menemukan wilayah yang tertinggal. Perencanaan perlu terbuka terhadap bukti bahwa proyek tertentu tidak menjadi prioritas terbaik.
+
+STUDI KASUS: MENILAI PROGRAM PELATIHAN KERJA
+
+Sebuah daerah menyelenggarakan pelatihan untuk meningkatkan kesempatan kerja. Evaluasi tidak cukup menghitung jumlah peserta yang lulus. Perlu diperiksa kesesuaian materi dengan kebutuhan pemberi kerja, akses peserta terhadap transportasi dan perangkat, kualitas pengajar, serta perubahan kondisi kerja setelah program. Bandingkan hasil dengan kelompok atau periode yang relevan secara hati-hati dan jangan mengklaim sebab-akibat jika rancangan evaluasi tidak mendukungnya.
+

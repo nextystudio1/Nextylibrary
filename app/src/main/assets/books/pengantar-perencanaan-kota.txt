@@ -228,3 +228,51 @@ LATIHAN PENDALAMAN
 3. Bagaimana perbaikan kawasan dapat menimbulkan perpindahan warga?
 4. Mengapa drainase perlu dianalisis dalam skala daerah aliran air?
 5. Apa batas penggunaan peta partisipatif?
+
+PENDALAMAN PERENCANAAN KOTA: ANALISIS JARINGAN DAN PEMBIAYAAN
+
+BAB 19. ANALISIS JARINGAN DAN KONEKTIVITAS KAWASAN
+
+Kota dapat dipahami sebagai jaringan tempat, rute, dan layanan. Simpul dapat berupa halte, sekolah, pasar, taman, pusat pekerjaan, atau fasilitas kesehatan. Ruas menghubungkan simpul melalui jalan, trotoar, jalur sepeda, angkutan umum, dan jaringan utilitas. Konektivitas menunjukkan seberapa mudah orang berpindah di antara simpul, tetapi tidak otomatis menggambarkan keamanan atau keterjangkauan.
+
+Jaringan yang memiliki banyak persimpangan dan jalur alternatif dapat memberi pilihan perjalanan. Namun kualitas rute tetap dipengaruhi lebar trotoar, penyeberangan, pencahayaan, kemiringan, hambatan, dan lalu lintas. Analisis peta perlu dilengkapi audit lapangan pada waktu berbeda. Rute yang tampak tersambung pada peta mungkin terputus oleh pagar, saluran, atau akses yang tidak aman.
+
+Indikator konektivitas dapat mencakup panjang jaringan, jumlah persimpangan, waktu tempuh, jumlah tujuan yang dapat dicapai, dan frekuensi layanan. Setiap indikator menjawab pertanyaan berbeda. Untuk kelompok dengan mobilitas terbatas, jarak pendek belum tentu mudah dilalui. Pengukuran sebaiknya menggabungkan data jaringan dengan pengalaman pengguna.
+
+BAB 20. KEPADATAN, INTENSITAS, DAN KAPASITAS INFRASTRUKTUR
+
+Kepadatan penduduk sering digunakan untuk memahami pola kota, tetapi angka rata-rata dapat menyesatkan jika distribusi tidak merata. Kepadatan hunian, kepadatan bangunan, dan kepadatan penduduk merupakan ukuran berbeda. Perencana perlu menyebut pembilang, luas wilayah yang digunakan, dan apakah ruang nonhunian termasuk dalam perhitungan.
+
+Kepadatan dapat mendukung layanan angkutan umum dan fasilitas lokal jika disertai kapasitas infrastruktur. Tanpa air, sanitasi, drainase, sekolah, dan ruang publik yang memadai, peningkatan kepadatan dapat memperbesar tekanan. Sebaliknya, kepadatan sangat rendah dapat membuat layanan publik mahal dan perjalanan lebih panjang. Tidak ada angka tunggal yang cocok untuk semua kawasan.
+
+Kapasitas harus dinilai pada jam puncak maupun kondisi normal. Sistem air, jalan, angkutan, dan layanan darurat dapat mengalami beban berbeda sepanjang hari atau musim. Perencanaan bertahap perlu mengaitkan izin pembangunan dengan kesiapan infrastruktur dan sumber pembiayaan pemeliharaan.
+
+BAB 21. PEMBIAYAAN DAN BIAYA SIKLUS HIDUP KOTA
+
+Proyek kota memiliki biaya pembangunan, operasi, pemeliharaan, penggantian, dan kemungkinan pembongkaran. Keputusan yang hanya membandingkan biaya awal dapat menghasilkan fasilitas yang mahal dirawat atau cepat rusak. Analisis biaya siklus hidup memperkirakan pengeluaran sepanjang umur aset dengan asumsi yang dijelaskan.
+
+Sumber pembiayaan dapat berasal dari anggaran publik, kerja sama, tarif layanan, atau sumber sah lainnya. Setiap pilihan memiliki konsekuensi terhadap akses dan akuntabilitas. Tarif yang menutup biaya penuh dapat membebani rumah tangga tertentu; subsidi perlu memiliki sasaran dan mekanisme yang transparan. Kerja sama dengan pihak swasta tetap membutuhkan pembagian risiko, standar layanan, pengawasan, dan keterbukaan kontrak sesuai aturan.
+
+Prioritas proyek sebaiknya dinilai berdasarkan kebutuhan, manfaat publik, dampak lingkungan, pemerataan akses, kesiapan lahan, dan kemampuan pemeliharaan. Proyek yang terlihat besar belum tentu paling mendesak. Perbaikan trotoar, saluran, atau halte yang menghubungkan layanan penting dapat memberi manfaat luas dengan biaya lebih rendah.
+
+BAB 22. RISIKO BENCANA DAN PERENCANAAN TATA RUANG
+
+Risiko bencana dipengaruhi bahaya, paparan, dan kerentanan. Peta bahaya menunjukkan lokasi yang berpotensi terdampak, tetapi tidak dengan sendirinya menunjukkan risiko seluruh penduduk. Informasi jumlah penduduk, kualitas bangunan, akses evakuasi, layanan darurat, dan kondisi sosial diperlukan untuk memahami konsekuensi.
+
+Tata ruang dapat mengurangi risiko dengan mengarahkan pembangunan agar tidak memperbesar paparan, menjaga kawasan penyangga, dan menyediakan jalur serta ruang evakuasi. Namun kebijakan relokasi harus mempertimbangkan hak warga, mata pencaharian, jaringan sosial, dan akses layanan. Memindahkan rumah tanpa memulihkan akses ekonomi dapat menciptakan kerentanan baru.
+
+Rencana kontinjensi memerlukan pembagian peran, sistem komunikasi, daftar fasilitas, latihan, dan mekanisme pembaruan. Informasi risiko harus disampaikan dengan jelas dan tidak menimbulkan rasa aman palsu. Peta perlu mencantumkan sumber, tanggal, skala, dan batas ketepatan.
+
+STUDI KASUS: MENILAI USULAN KORIDOR ANGKUTAN UMUM
+
+Sebuah kota mempertimbangkan koridor angkutan umum yang menghubungkan kawasan hunian dengan sekolah, pasar, dan pusat layanan. Tim memetakan asal-tujuan perjalanan, jarak berjalan kaki, lokasi halte, frekuensi layanan, dan titik penyeberangan. Mereka juga memeriksa apakah koridor melewati wilayah yang selama ini kurang terlayani.
+
+Alternatif dibandingkan berdasarkan waktu perjalanan, keterjangkauan tarif, keselamatan, kebutuhan lahan, emisi, dan biaya operasi. Konsultasi warga dilakukan sebelum rute ditetapkan. Hasil konsultasi mencatat kebutuhan pengguna kursi roda, pelajar, pekerja dengan jam berbeda, dan pedagang di sepanjang koridor. Setelah beroperasi, indikator dievaluasi secara berkala; jumlah penumpang saja tidak cukup jika layanan tidak menjangkau kelompok sasaran.
+
+LATIHAN PENDALAMAN
+
+1. Mengapa peta jaringan perlu diperiksa melalui audit lapangan?
+2. Bedakan kepadatan penduduk dan kepadatan bangunan.
+3. Apa manfaat analisis biaya siklus hidup dibanding hanya biaya pembangunan?
+4. Mengapa peta bahaya tidak sama dengan peta risiko?
+5. Susun lima kriteria untuk membandingkan dua alternatif koridor angkutan umum.

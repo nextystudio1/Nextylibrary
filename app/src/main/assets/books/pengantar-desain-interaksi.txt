@@ -273,3 +273,37 @@ LATIHAN BAB
 3. Sebutkan tiga pertanyaan untuk menilai dampak etis sebuah fitur.
 4. Apa arti pilihan yang seimbang dalam antarmuka?
 5. Buat daftar pemeriksaan etika untuk fitur persetujuan penggunaan data.
+
+BAB LANJUTAN. ARSITEKTUR INFORMASI DAN NAVIGASI
+
+Arsitektur informasi mengatur bagaimana konten dikelompokkan, diberi nama, dan ditemukan. Struktur yang baik mengikuti cara pengguna memahami tugas, bukan semata-mata struktur organisasi pembuat produk. Kategori yang terlalu luas membuat pengguna harus menebak, sedangkan kategori terlalu rinci menghasilkan banyak pilihan yang sulit dibandingkan. Pengujian dengan pengguna dapat menunjukkan apakah label dan pengelompokan dipahami sebagaimana dimaksud.
+
+Navigasi perlu menjawab tiga pertanyaan: pengguna berada di bagian mana, pilihan apa yang tersedia, dan bagaimana kembali ke langkah sebelumnya. Penanda lokasi, judul halaman yang jelas, serta pola navigasi konsisten mengurangi beban mengingat. Breadcrumb dapat membantu pada struktur bertingkat, sementara navigasi tab lebih sesuai untuk beberapa bagian yang setara. Tidak ada satu pola yang tepat untuk semua produk.
+
+Pencarian perlu mendukung variasi kata, salah ketik yang wajar, dan hasil kosong yang informatif. Pesan tanpa hasil sebaiknya menjelaskan apa yang dapat dilakukan selanjutnya, bukan menyalahkan pengguna. Filter harus menunjukkan pilihan aktif dan cara menghapusnya. Urutan hasil perlu memiliki alasan yang dapat dijelaskan, terutama ketika hasil memengaruhi keputusan penting.
+
+BAB LANJUTAN. FORMULIR, UMPAN BALIK, DAN PENCEGAHAN KESALAHAN
+
+Formulir yang baik hanya meminta informasi yang diperlukan untuk menyelesaikan tugas. Label harus tetap terlihat ketika pengguna mulai mengetik; placeholder bukan pengganti label karena dapat hilang. Format dan contoh masukan perlu dijelaskan sebelum terjadi kesalahan. Jika informasi sensitif tidak dibutuhkan, jangan memintanya hanya karena mungkin berguna di masa depan.
+
+Validasi sebaiknya membantu pengguna memperbaiki masukan. Pesan kesalahan perlu menyebut bagian yang bermasalah dan cara mengatasinya dengan bahasa sederhana. Jangan menghapus semua masukan ketika satu kolom salah. Untuk tindakan yang berdampak besar, sediakan ringkasan sebelum konfirmasi dan jelaskan apakah tindakan dapat dibatalkan.
+
+Umpan balik sistem membuat keadaan antarmuka dapat dipahami. Setelah pengguna menyimpan perubahan, tampilkan status yang jelas. Jika proses memerlukan waktu, tunjukkan bahwa pekerjaan sedang berlangsung tanpa memberikan kesan palsu bahwa proses telah selesai. Jika terjadi kegagalan, jelaskan apakah data tetap tersimpan dan langkah aman berikutnya.
+
+BAB LANJUTAN. DESAIN INKLUSIF DAN PENGUJIAN AKSESIBILITAS
+
+Desain inklusif mempertimbangkan perbedaan kemampuan, perangkat, bahasa, usia, lingkungan, dan pengalaman digital. Kontras warna yang memadai, ukuran teks yang dapat disesuaikan, fokus papan ketik yang terlihat, serta nama kontrol yang jelas membantu banyak kelompok pengguna. Informasi tidak boleh disampaikan hanya melalui warna; ikon atau teks pendamping dapat memberi petunjuk tambahan.
+
+Urutan fokus harus mengikuti alur yang masuk akal. Pengguna pembaca layar perlu memperoleh nama, peran, dan keadaan kontrol. Tombol yang hanya berupa ikon membutuhkan label aksesibel. Gerakan animasi perlu digunakan secara hati-hati karena dapat mengganggu sebagian orang; sediakan pengurangan gerakan bila sesuai platform.
+
+Pengujian aksesibilitas bukan pemeriksaan satu kali di akhir proyek. Uji otomatis dapat menemukan sebagian masalah, tetapi tidak menggantikan pengujian manual dan keterlibatan pengguna dengan kebutuhan yang beragam. Catat hambatan, tingkat dampak, konteks, dan hasil perbaikan. Jangan meminta pengguna mengungkapkan informasi pribadi yang tidak diperlukan untuk pengujian.
+
+LATIHAN
+1. Apa tujuan arsitektur informasi?
+2. Mengapa placeholder tidak cukup menjadi label formulir?
+3. Bagaimana pesan kesalahan yang membantu pengguna?
+4. Sebutkan tiga prinsip desain inklusif.
+5. Mengapa pengujian otomatis tidak cukup untuk aksesibilitas?
+
+PROYEK
+Rancang alur peminjaman buku digital hipotetis. Buat peta navigasi, sketsa formulir, keadaan berhasil dan gagal, serta daftar pemeriksaan aksesibilitas. Uji istilah dan alur dengan beberapa calon pengguna secara sukarela, tanpa mengumpulkan data pribadi yang tidak diperlukan.

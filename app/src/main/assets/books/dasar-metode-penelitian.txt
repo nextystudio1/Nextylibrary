@@ -386,3 +386,33 @@ PROYEK MINI: RANCANGAN PENELITIAN LENGKAP
 
 Pilih pertanyaan sederhana yang dapat dijawab dengan data publik atau skenario hipotetis. Tulis tujuan, tinjauan pustaka tematik, kerangka konsep, definisi operasional, rancangan sampel, instrumen, prosedur analisis, risiko bias, dan rencana perlindungan data. Buat tabel yang menghubungkan setiap pertanyaan penelitian dengan data yang diperlukan dan metode analisis. Jika ada pertanyaan yang tidak dapat dijawab oleh data yang tersedia, nyatakan batas tersebut dan ubah rancangan sebelum pengumpulan data.
 
+BAB LANJUTAN: DESAIN PENELITIAN, PENGUKURAN, DAN KETERBUKAAN ILMIAH
+
+Desain penelitian merupakan rencana yang menghubungkan pertanyaan, bukti, dan cara penarikan kesimpulan. Sebelum memilih metode, peneliti perlu menjelaskan unit analisis, populasi sasaran, konteks, variabel atau konsep, serta batas waktu penelitian. Pertanyaan yang menanyakan pengalaman membutuhkan pendekatan berbeda dari pertanyaan yang mengukur hubungan antarvariabel. Metode dipilih karena kesesuaiannya dengan pertanyaan, bukan karena sedang populer atau mudah digunakan.
+
+Penelitian kuantitatif menggunakan pengukuran terstruktur untuk menggambarkan pola, menguji hubungan, atau memperkirakan besaran. Penelitian kualitatif berusaha memahami makna, proses, pengalaman, dan konteks melalui data seperti wawancara, observasi, atau dokumen. Metode campuran menggabungkan keduanya ketika masing-masing memberi kontribusi yang diperlukan. Penggabungan tidak otomatis membuat penelitian lebih kuat; integrasi data harus direncanakan sejak awal.
+
+Konsep abstrak perlu diterjemahkan menjadi definisi operasional. Misalnya, konsep partisipasi belajar dapat diukur melalui kehadiran, kontribusi diskusi, atau penyelesaian tugas. Setiap indikator menangkap bagian tertentu dan tidak selalu mewakili keseluruhan konsep. Peneliti harus menjelaskan alasan pemilihan indikator serta kemungkinan bias. Pengukuran yang mudah dilakukan belum tentu mengukur hal yang paling penting.
+
+Validitas berkaitan dengan apakah instrumen dan interpretasi benar-benar mendukung klaim yang dibuat. Reliabilitas berkaitan dengan konsistensi pengukuran dalam kondisi yang sebanding. Instrumen dapat konsisten tetapi tidak mengukur konsep yang dimaksud. Sebaliknya, instrumen yang relevan tetap memerlukan prosedur yang stabil. Uji coba awal dapat menemukan pertanyaan yang ambigu, kategori jawaban yang tumpang tindih, dan prosedur yang sulit diterapkan.
+
+Pemilihan sampel menentukan siapa yang berpeluang masuk dalam penelitian. Sampel acak dapat membantu menghasilkan estimasi populasi jika kerangka sampel dan pelaksanaannya memadai. Sampel bertujuan sering digunakan untuk menjangkau informan yang memiliki pengalaman relevan. Sampel kemudahan lebih mudah dikumpulkan, tetapi hasilnya memiliki keterbatasan generalisasi. Ukuran sampel tidak dapat menggantikan kualitas rancangan dan ketepatan pemilihan peserta.
+
+Bias seleksi muncul ketika peserta yang masuk berbeda secara sistematis dari kelompok yang ingin dipahami. Bias respons dapat terjadi ketika peserta memberikan jawaban yang dianggap diharapkan. Bias pengukuran muncul dari instrumen atau prosedur yang secara konsisten mengubah hasil. Peneliti perlu mengidentifikasi sumber bias sebelum pengumpulan data, mengurangi dampaknya jika memungkinkan, dan melaporkan keterbatasan yang tersisa.
+
+Etika penelitian meliputi penghormatan terhadap peserta, persetujuan yang dipahami, perlindungan privasi, dan pengurangan risiko. Peserta harus mengetahui tujuan, kegiatan, penggunaan data, serta hak untuk menolak atau berhenti sesuai ketentuan penelitian. Data identitas dipisahkan dari data analisis bila memungkinkan. Peneliti tidak boleh menjanjikan kerahasiaan mutlak jika ada batas hukum atau prosedural yang harus dijelaskan.
+
+Preregistrasi atau pencatatan rencana sebelum analisis dapat membantu membedakan hipotesis awal dari temuan eksploratif. Catatan tersebut dapat mencakup pertanyaan, hasil utama, metode pengumpulan, dan pendekatan analisis. Perubahan rencana tetap mungkin diperlukan, tetapi alasan perubahan harus dicatat. Transparansi membantu pembaca menilai bagaimana keputusan penelitian dibuat.
+
+Analisis data dimulai dengan pemeriksaan kelengkapan, kesalahan pencatatan, nilai yang tidak masuk akal, dan pola data hilang. Data tidak boleh dihapus hanya karena tidak sesuai harapan. Setiap keputusan pembersihan perlu memiliki alasan dan catatan. Analisis kualitatif juga memerlukan jejak keputusan, seperti cara membangun kode, membandingkan tema, dan menangani bukti yang bertentangan.
+
+Interpretasi harus membedakan deskripsi, hubungan, dan sebab-akibat. Dua variabel yang bergerak bersama belum tentu memiliki hubungan kausal. Faktor ketiga, arah hubungan yang terbalik, atau proses seleksi dapat menjelaskan pola yang terlihat. Klaim kausal memerlukan rancangan dan asumsi yang mendukung. Ketidakpastian bukan kelemahan yang harus disembunyikan, melainkan bagian dari laporan ilmiah yang jujur.
+
+Studi kasus: tim ingin mengetahui apakah program membaca bersama berkaitan dengan kebiasaan membaca peserta. Mereka menetapkan definisi kebiasaan membaca, memilih metode pengumpulan yang sesuai, meminta persetujuan peserta, dan mencatat kemungkinan perbedaan awal antar kelompok. Hasil disajikan sebagai temuan sesuai desain, bukan klaim bahwa program pasti menjadi satu-satunya penyebab perubahan.
+
+Latihan penerapan:
+1. Ubah satu topik umum menjadi pertanyaan penelitian yang dapat dijawab.
+2. Buat definisi operasional untuk dua konsep.
+3. Bandingkan konsekuensi tiga metode pemilihan sampel.
+4. Susun daftar risiko etika dan langkah perlindungan peserta.
+5. Tulis batas kesimpulan yang dapat ditarik dari suatu rancangan penelitian.

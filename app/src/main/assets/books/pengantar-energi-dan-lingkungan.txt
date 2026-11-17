@@ -218,3 +218,53 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Jelaskan efek rebound dengan contoh selain pendingin ruangan.
 4. Sebutkan tiga pilihan fleksibilitas sistem selain menambah pembangkit.
 5. Mengapa penyimpanan energi perlu dinilai berdasarkan seluruh siklus hidupnya?
+BAB LANJUTAN 4. KUALITAS DAYA DAN GANGGUAN JARINGAN
+
+Kualitas daya menggambarkan seberapa baik karakteristik listrik sesuai kebutuhan peralatan. Tegangan dan frekuensi perlu berada dalam rentang yang ditetapkan sistem. Gangguan dapat berupa penurunan tegangan sesaat, kenaikan tegangan, harmonisa, ketidakseimbangan, atau pemadaman. Dampaknya berbeda menurut jenis beban. Peralatan elektronik sensitif dapat mengalami reset, sedangkan motor dapat menunjukkan perubahan kinerja atau pemanasan yang tidak diharapkan.
+
+Harmonisa merupakan komponen frekuensi yang merupakan kelipatan frekuensi dasar dan dapat muncul akibat beban nonlinier. Perangkat elektronik daya, penggerak motor, dan sejumlah lampu dapat memengaruhi bentuk gelombang arus. Pengukuran kualitas daya memerlukan alat dan prosedur yang sesuai; tampilan lampu yang berkedip saja tidak cukup untuk menentukan penyebab gangguan.
+
+Keandalan pasokan tidak hanya berarti pembangkit tersedia. Jaringan transmisi dan distribusi, proteksi, pengaturan beban, pemeliharaan, serta kesiapan menghadapi cuaca ekstrem ikut menentukan. Gangguan pada satu bagian dapat memengaruhi wilayah luas jika sistem tidak memiliki jalur alternatif atau pengaturan yang memadai. Perencanaan keandalan mempertimbangkan kemungkinan gangguan dan konsekuensi terhadap layanan penting.
+
+Pengguna dapat membantu menjaga keandalan dengan menggunakan peralatan sesuai spesifikasi, tidak membebani stopkontak secara berlebihan, dan melaporkan gangguan melalui penyedia layanan. Pemeriksaan instalasi listrik harus dilakukan oleh tenaga kompeten. Materi ini menjelaskan konsep sistem, bukan petunjuk untuk membuka panel atau memperbaiki instalasi bertegangan.
+
+LATIHAN BAB
+1. Apa yang dimaksud kualitas daya?
+2. Sebutkan tiga contoh gangguan kualitas daya.
+3. Mengapa kedipan lampu belum cukup untuk memastikan penyebab gangguan?
+4. Sebutkan komponen sistem yang memengaruhi keandalan pasokan.
+5. Mengapa pemeriksaan instalasi perlu dilakukan oleh tenaga kompeten?
+
+BAB LANJUTAN 5. HIDROGEN, BAHAN BAKAR, DAN PEMBATASAN TEKNOLOGI
+
+Hidrogen dapat digunakan sebagai bahan baku industri, pembawa energi, atau bahan bakar pada teknologi tertentu. Hidrogen bukan sumber energi primer yang tersedia bebas dalam jumlah besar; pembuatannya memerlukan energi dan proses. Dampak lingkungan hidrogen bergantung pada bahan baku, sumber energi, metode produksi, kebocoran, transportasi, dan penggunaan akhirnya.
+
+Istilah warna hidrogen sering digunakan sebagai label ringkas untuk menjelaskan jalur produksi, tetapi definisinya dapat berbeda antarorganisasi. Karena itu, penilaian tidak boleh berhenti pada label warna. Data emisi sepanjang rantai pasok dan batas sistem perlu diperiksa. Hidrogen yang diproduksi dengan energi rendah emisi pun tetap memerlukan infrastruktur penyimpanan dan distribusi yang sesuai.
+
+Sel bahan bakar mengubah energi kimia hidrogen dan oksigen menjadi listrik, panas, dan air pada konfigurasi tertentu. Sistem nyata memerlukan komponen tambahan, pengelolaan panas, pasokan bahan bakar, serta pengendalian keselamatan. Efisiensi keseluruhan perlu dihitung dari produksi hingga pemakaian, bukan hanya pada perangkat akhir.
+
+Tidak semua penggunaan energi cocok dialihkan ke hidrogen. Pada beberapa aplikasi, elektrifikasi langsung dapat lebih sederhana dan efisien. Pada sektor lain, seperti proses industri tertentu atau penyimpanan energi jangka panjang, hidrogen mungkin memiliki peran. Perbandingan harus mempertimbangkan kebutuhan teknis, biaya, infrastruktur, emisi, dan alternatif yang tersedia.
+
+LATIHAN BAB
+1. Mengapa hidrogen disebut pembawa energi, bukan sumber energi primer?
+2. Faktor apa yang menentukan dampak emisi hidrogen?
+3. Mengapa label warna hidrogen tidak cukup untuk menilai keberlanjutan?
+4. Apa perbedaan sel bahan bakar dan proses pembakaran?
+5. Susun kriteria untuk membandingkan hidrogen dengan elektrifikasi langsung.
+
+BAB LANJUTAN 6. KETAHANAN SISTEM ENERGI TERHADAP PERUBAHAN IKLIM
+
+Sistem energi dipengaruhi kondisi iklim dan cuaca. Gelombang panas dapat meningkatkan kebutuhan pendinginan, kekeringan dapat mengurangi ketersediaan air untuk pembangkit tertentu, dan badai dapat merusak jaringan. Perubahan pola curah hujan dan suhu dapat mengubah produksi energi terbarukan maupun kebutuhan masyarakat. Karena itu, perencanaan energi perlu memperhitungkan kondisi historis sekaligus rentang perubahan yang mungkin terjadi.
+
+Ketahanan sistem berarti kemampuan mengantisipasi gangguan, menyerap dampak, mempertahankan layanan penting, dan pulih dengan baik. Ketahanan bukan berarti tidak pernah mengalami gangguan. Sistem dapat memperkuat jaringan, menempatkan peralatan pada lokasi yang lebih aman, menambah jalur pasokan, meningkatkan pemeliharaan, dan menyiapkan prosedur pemulihan.
+
+Perencanaan harus mengenali kelompok yang paling terdampak ketika layanan terganggu. Rumah sakit, fasilitas air bersih, komunikasi darurat, dan rumah tangga yang rentan terhadap suhu ekstrem memerlukan perhatian khusus. Kebijakan pemadaman bergilir atau pengurangan beban perlu mempertimbangkan dampak sosial dan kebutuhan layanan esensial.
+
+Skenario membantu perencana menguji sistem terhadap beberapa kondisi, misalnya kenaikan suhu, perubahan debit air, atau gangguan jaringan yang berlangsung lebih lama dari biasanya. Skenario bukan ramalan pasti. Tujuannya adalah mengidentifikasi titik lemah dan pilihan adaptasi yang tetap bermanfaat dalam beberapa kemungkinan masa depan.
+
+LATIHAN BAB
+1. Berikan tiga contoh hubungan cuaca dan keandalan sistem energi.
+2. Apa perbedaan ketahanan dan ketiadaan gangguan?
+3. Mengapa layanan esensial perlu diprioritaskan dalam perencanaan?
+4. Apa fungsi analisis skenario?
+5. Buat daftar data yang diperlukan untuk menilai kerentanan energi suatu wilayah.

@@ -369,3 +369,27 @@ LATIHAN PENDALAMAN
 4. Tulis keberatan terkuat terhadap pendapat sendiri dan tanggapi secara adil.
 5. Periksa aksesibilitas satu dokumen digital dan buat daftar perbaikannya.
 
+BAB LANJUTAN: MENULIS ARGUMENTASI, LAPORAN, DAN NASKAH DIGITAL
+
+Tulisan argumentatif yang kuat dimulai dari pertanyaan yang dapat diperdebatkan. Pernyataan seperti “pendidikan penting” terlalu luas untuk menjadi tesis yang terarah. Tesis yang lebih berguna menyebut posisi dan ruang lingkup, misalnya bahwa perpustakaan sekolah perlu menyediakan bahan bacaan digital luring karena akses internet peserta didik tidak merata. Tesis tersebut masih dapat diuji, dibatasi, dan ditanggapi dengan bukti.
+
+Setiap paragraf argumentasi sebaiknya memiliki satu fungsi utama. Kalimat topik memperkenalkan gagasan, bukti mendukungnya, penjelasan menghubungkan bukti dengan klaim, dan kalimat penghubung membantu alur. Data tidak berbicara sendiri. Penulis harus menerangkan siapa yang mengumpulkan data, kapan, dengan cara apa, dan apa batas kesimpulannya. Contoh pribadi dapat memperjelas pengalaman, tetapi tidak otomatis mewakili keadaan semua orang.
+
+Menyajikan pandangan berbeda bukan berarti melemahkan tulisan. Penulis perlu menyampaikan keberatan secara adil sebelum menjawabnya. Hindari membuat versi ekstrem dari pendapat lawan agar mudah dibantah. Tanggapan yang baik mengakui bagian yang masuk akal, menunjukkan batasnya, lalu menjelaskan mengapa kesimpulan utama tetap didukung bukti. Cara ini membuat tulisan lebih dapat dipercaya.
+
+Laporan informatif memiliki kebutuhan yang berbeda dari esai opini. Laporan menjelaskan tujuan, metode, temuan, pembahasan, dan keterbatasan. Metode harus cukup jelas agar pembaca memahami bagaimana informasi diperoleh. Jika data berasal dari pengamatan terbatas, nyatakan lokasi, waktu, dan jumlah objek yang diamati. Jangan mengubah hubungan yang terlihat menjadi klaim sebab-akibat tanpa rancangan yang memadai.
+
+Penyuntingan sebaiknya dilakukan dalam beberapa putaran. Putaran pertama memeriksa struktur dan kelengkapan gagasan. Putaran berikutnya memeriksa ketepatan fakta, konsistensi istilah, dan hubungan antarbagian. Setelah itu, periksa kalimat, ejaan, tanda baca, dan format. Membetulkan koma ketika argumen utama belum jelas adalah penggunaan waktu yang kurang efektif. Membaca naskah dengan suara pelan dapat membantu menemukan kalimat yang terlalu panjang atau hubungan gagasan yang janggal.
+
+Bahasa Indonesia memiliki ragam sesuai tujuan dan pembaca. Surat resmi, petunjuk penggunaan, artikel populer, dan percakapan tidak perlu memakai tingkat formalitas yang sama. Namun, penyesuaian ragam tidak boleh mengorbankan kejelasan atau merendahkan pembaca. Istilah teknis dapat dipakai jika diperlukan, lalu diterangkan saat pertama muncul. Akronim perlu diperkenalkan sebelum digunakan berulang kali.
+
+Dalam penulisan digital, judul dan subjudul membantu pembaca memindai isi. Tautan harus menjelaskan tujuan, bukan sekadar “klik di sini”. Tabel digunakan untuk membandingkan data yang memang memiliki struktur, sedangkan uraian berurutan lebih sesuai untuk proses. Teks alternatif gambar menjelaskan informasi atau fungsi gambar, bukan mengulang hiasan visual. Dokumen yang aksesibel membantu lebih banyak orang memahami isi tanpa bergantung pada satu cara membaca.
+
+Contoh penyuntingan: kalimat “Banyak siswa selalu gagal karena tidak pernah membaca” mengandung generalisasi dan penilaian. Jika bukti hanya berasal dari satu kelas, kalimat dapat diubah menjadi “Dalam pengamatan pada satu kelas selama empat minggu, sebagian peserta belum menyelesaikan bacaan yang ditugaskan.” Kalimat baru lebih terbatas, dapat diperiksa, dan tidak memberi label kepada peserta. Penulis kemudian perlu menjelaskan metode pengamatan dan kemungkinan faktor lain.
+
+Latihan penerapan:
+1. Ubah topik luas menjadi tesis yang memiliki batas dan dapat diuji.
+2. Susun paragraf dengan klaim, bukti, penjelasan, dan penghubung.
+3. Tulis satu keberatan yang kuat terhadap tesis lalu tanggapi secara adil.
+4. Buat kerangka laporan yang memisahkan temuan dan interpretasi.
+5. Sunting satu halaman dalam tiga putaran: struktur, fakta, lalu bahasa.

@@ -295,3 +295,36 @@ LATIHAN
 
 PROYEK
 Pilih satu isu pembangunan di wilayah yang dikenal secara umum, misalnya akses pendidikan, transportasi, atau perumahan. Gunakan data publik yang sah, petakan kelompok terdampak, jelaskan keterbatasan data, dan susun beberapa pilihan kebijakan. Bandingkan manfaat, biaya, pemerataan, serta risiko pelaksanaan tanpa menganggap satu indikator mewakili seluruh kesejahteraan.
+
+BAB PENDALAMAN: KEMISKINAN, KETIMPANGAN, DAN KESEMPATAN
+
+Kemiskinan dapat diukur melalui pendapatan atau konsumsi, tetapi kesejahteraan juga mencakup kesehatan, pendidikan, tempat tinggal, keamanan, dan kemampuan berpartisipasi. Ukuran moneter memudahkan perbandingan tertentu, sedangkan pendekatan multidimensi menunjukkan kekurangan yang tidak selalu tercermin dalam pendapatan. Pemilihan ukuran harus mengikuti pertanyaan kebijakan dan dijelaskan secara terbuka.
+
+Ketimpangan menggambarkan distribusi sumber daya atau kesempatan di antara kelompok. Pertumbuhan rata-rata dapat terjadi bersamaan dengan ketimpangan yang meningkat. Karena itu, evaluasi pembangunan perlu melihat siapa yang memperoleh tambahan pendapatan, siapa yang tertinggal, serta bagaimana akses terhadap layanan dasar berubah. Data rata-rata wilayah dapat menyembunyikan perbedaan besar antarwilayah dan kelompok penduduk.
+
+Kesempatan dipengaruhi kualitas pendidikan, kesehatan, infrastruktur, diskriminasi, lokasi, dan jaringan sosial. Kebijakan yang memperluas layanan publik dapat membantu mengurangi hambatan, tetapi mutu dan keterjangkauannya tetap penting. Sekolah yang tersedia secara fisik belum tentu mudah diakses jika biaya transportasi tinggi atau fasilitas tidak ramah bagi penyandang disabilitas.
+
+BAB PENDALAMAN: STRUKTUR EKONOMI DAN PERUBAHAN PEKERJAAN
+
+Pembangunan sering melibatkan perubahan struktur produksi dan pekerjaan. Produktivitas dapat meningkat ketika tenaga kerja, modal, teknologi, dan keterampilan digunakan lebih efektif. Namun, perpindahan pekerja antar sektor tidak selalu berlangsung otomatis. Perbedaan keterampilan, lokasi, akses informasi, dan perlindungan sosial dapat membuat sebagian kelompok menghadapi biaya penyesuaian yang besar.
+
+Pekerjaan informal menyediakan penghidupan bagi banyak orang, tetapi sering memiliki perlindungan dan kestabilan pendapatan yang terbatas. Kebijakan tidak cukup hanya mendorong perpindahan ke pekerjaan formal; perluasan perlindungan, akses pembiayaan yang bertanggung jawab, peningkatan keterampilan, dan penyederhanaan administrasi dapat menjadi bagian dari pendekatan yang lebih luas.
+
+BAB PENDALAMAN: INFRASTRUKTUR DAN PEMBANGUNAN WILAYAH
+
+Infrastruktur menghubungkan rumah tangga, perusahaan, dan layanan publik. Jalan, pelabuhan, jaringan komunikasi, air bersih, dan listrik dapat menurunkan biaya transaksi serta memperluas akses. Manfaatnya bergantung pada lokasi, kualitas pemeliharaan, tarif, dan hubungan dengan kebutuhan masyarakat. Infrastruktur yang dibangun tanpa memperhatikan pola kegiatan lokal dapat kurang dimanfaatkan.
+
+Analisis proyek infrastruktur perlu menghitung biaya sepanjang siklus hidup, bukan hanya biaya konstruksi. Pemeliharaan, dampak lingkungan, pembebasan lahan, keselamatan, dan perubahan aktivitas ekonomi perlu diperhitungkan. Evaluasi juga harus menilai distribusi manfaat: apakah akses membaik bagi kelompok yang sebelumnya tertinggal atau justru memperbesar kesenjangan.
+
+BAB PENDALAMAN: INSTITUSI DAN KUALITAS KEBIJAKAN
+
+Institusi mencakup aturan formal, norma, organisasi, dan cara keputusan dijalankan. Kepastian aturan, akuntabilitas, transparansi, dan kemampuan administrasi memengaruhi iklim usaha maupun kualitas layanan publik. Kebijakan yang dirancang baik dapat gagal jika pelaksana tidak memiliki sumber daya, koordinasi, atau insentif yang tepat.
+
+Evaluasi kebijakan sebaiknya dimulai dengan teori perubahan: masalah apa yang hendak diatasi, mekanisme apa yang diharapkan bekerja, dan hasil apa yang dapat diamati. Indikator keluaran perlu dibedakan dari dampak. Jumlah bantuan yang tersalurkan, misalnya, tidak otomatis menunjukkan peningkatan kesejahteraan penerima. Data sebelum dan sesudah perlu dibaca bersama faktor lain yang mungkin memengaruhi hasil.
+
+BAB PENDALAMAN: PEMBANGUNAN BERKELANJUTAN DAN KETAHANAN
+
+Pembangunan berkelanjutan mempertimbangkan hubungan ekonomi, sosial, dan lingkungan dalam jangka panjang. Pertumbuhan yang menghabiskan sumber daya atau menimbulkan pencemaran berat dapat memindahkan biaya kepada generasi berikutnya. Sebaliknya, perlindungan lingkungan yang mengabaikan kebutuhan hidup masyarakat juga dapat menimbulkan ketidakadilan. Perencanaan perlu mencari pilihan yang menjaga ekosistem sekaligus memperluas kesempatan.
+
+Ketahanan ekonomi berkaitan dengan kemampuan rumah tangga, perusahaan, dan lembaga menghadapi guncangan. Diversifikasi mata pencaharian, perlindungan sosial, infrastruktur tangguh, akses informasi, dan tata kelola yang dapat dipercaya membantu mengurangi kerentanan. Tidak ada satu ukuran yang mewakili seluruh ketahanan; indikator perlu disesuaikan dengan jenis risiko dan kelompok yang ditelaah.
+

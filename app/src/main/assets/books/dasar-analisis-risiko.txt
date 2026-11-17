@@ -212,3 +212,41 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Jelaskan urutan umum hierarki pengendalian dan alasan prioritasnya.
 4. Apa yang dimaksud risiko residual dan siapa yang perlu mengetahuinya?
 5. Buat contoh indikator pemantauan untuk kegiatan sekolah yang aman.
+
+BAB LANJUTAN: ANALISIS PENYEBAB DAN HUBUNGAN ANTAR-RISIKO
+
+Satu kejadian dapat memiliki beberapa penyebab yang saling berhubungan. Keterlambatan proyek, misalnya, dapat dipengaruhi oleh perkiraan waktu yang terlalu optimistis, ketergantungan pada satu pemasok, perubahan kebutuhan, dan proses persetujuan yang tidak jelas. Menyalahkan satu orang sering kali mengabaikan kelemahan sistem yang memungkinkan masalah muncul.
+
+Analisis sebab perlu membedakan gejala, penyebab langsung, dan kondisi mendasar. Metode lima mengapa dapat membantu menelusuri rangkaian pertanyaan, tetapi hasilnya bukan bukti otomatis. Tim perlu memeriksa dokumen, data, dan keterangan pihak terkait. Diagram sebab-akibat dapat mengelompokkan faktor manusia, proses, teknologi, lingkungan, dan tata kelola.
+
+Risiko juga dapat saling memengaruhi. Gangguan listrik dapat menghentikan layanan digital, menghambat komunikasi, dan menyebabkan kehilangan data jika pencadangan tidak memadai. Daftar risiko yang menilai setiap kejadian secara terpisah mungkin melewatkan dampak berantai. Peta ketergantungan membantu menentukan layanan mana yang perlu dipulihkan lebih dahulu.
+
+BAB LANJUTAN: MEMILIH PENGENDALIAN YANG PROPORSIONAL
+
+Pengendalian risiko sebaiknya dimulai dengan menghindari paparan yang tidak diperlukan, menghilangkan sumber bahaya jika memungkinkan, mengganti proses dengan pilihan lebih aman, menerapkan pengendalian teknis, memperbaiki prosedur, dan menggunakan perlindungan pribadi sebagai lapisan tambahan. Urutan tepatnya disesuaikan dengan jenis risiko dan ketentuan bidang terkait.
+
+Setiap pengendalian memiliki biaya, manfaat, keterbatasan, dan kemungkinan efek samping. Sistem otomatis dapat mengurangi kesalahan berulang, tetapi dapat menciptakan ketergantungan pada perangkat lunak. Pelatihan dapat meningkatkan kesadaran, tetapi tidak cukup untuk menggantikan desain proses yang aman. Karena itu, kombinasi pengendalian sering lebih kuat daripada satu tindakan tunggal.
+
+Pengendalian harus memiliki pemilik, tenggat, sumber daya, dan indikator keberhasilan. Pernyataan seperti “meningkatkan kewaspadaan” terlalu umum jika tidak menjelaskan perilaku yang diharapkan dan cara mengukurnya. Indikator dapat berupa persentase inspeksi yang selesai, waktu respons, jumlah temuan yang ditutup, atau tingkat kegagalan yang terukur.
+
+BAB LANJUTAN: RISIKO, KETIDAKPASTIAN, DAN KEPUTUSAN
+
+Angka kemungkinan dan dampak sering kali merupakan perkiraan. Jika data terbatas, skor risiko tidak boleh disajikan seolah-olah merupakan probabilitas ilmiah yang presisi. Jelaskan skala yang digunakan, sumber penilaian, rentang ketidakpastian, serta alasan memilih kategori. Penilaian dari beberapa pihak dapat dibandingkan untuk menemukan asumsi yang berbeda.
+
+Analisis skenario membantu membayangkan kondisi yang masuk akal tanpa mengklaim bahwa skenario pasti terjadi. Buat skenario dasar, skenario gangguan, dan skenario pemulihan. Uji apakah rencana tetap berfungsi ketika satu asumsi penting berubah, misalnya pemasok terlambat atau jumlah pengguna meningkat.
+
+Selera risiko adalah tingkat risiko yang bersedia diterima organisasi untuk mencapai tujuan. Hal ini tidak berarti semua risiko dapat diterima. Risiko terhadap keselamatan, hak, atau kepatuhan hukum dapat memiliki batas yang ketat. Keputusan menerima risiko harus dibuat oleh pihak yang berwenang, berdasarkan informasi, dan didokumentasikan.
+
+STUDI KASUS
+Sebuah perpustakaan sekolah menyimpan katalog digital. Tim mengidentifikasi risiko kehilangan data, gangguan jaringan, akses tidak sah, dan ketergantungan pada satu administrator. Pengendalian yang dipilih meliputi pencadangan teruji, pembagian kewenangan, prosedur pemulihan, dan dokumentasi. Tim kemudian menguji pemulihan secara berkala. Keberhasilan tidak dinilai dari keberadaan berkas cadangan saja, tetapi dari kemampuan memulihkan layanan.
+
+LATIHAN PEMAHAMAN
+1. Apa perbedaan gejala dan penyebab mendasar?
+2. Mengapa risiko perlu dianalisis sebagai jaringan ketergantungan?
+3. Mengapa pelatihan saja tidak selalu cukup sebagai pengendalian?
+4. Apa yang harus dicatat ketika skor risiko didasarkan pada perkiraan?
+5. Bagaimana membuktikan bahwa rencana pencadangan benar-benar berfungsi?
+
+PROYEK
+Pilih kegiatan sekolah yang aman, misalnya pengelolaan perpustakaan atau acara kelas. Buat daftar bahaya, pihak yang terpapar, penyebab, dampak, pengendalian yang sudah ada, tindakan tambahan, penanggung jawab, dan indikator pemantauan. Minta guru meninjau hasilnya. Jangan melakukan percobaan yang menimbulkan bahaya untuk membuktikan suatu risiko.
+

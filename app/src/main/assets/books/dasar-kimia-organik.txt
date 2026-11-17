@@ -240,3 +240,50 @@ LATIHAN DAN PEMBAHASAN
 
 PROYEK MINI
 Buat tabel perbandingan tiga kelompok senyawa organik berdasarkan gugus fungsi, kepolaran, gaya antarmolekul, dan contoh penggunaan. Tambahkan kolom bukti spektroskopi yang mungkin membantu mengenalinya. Gunakan sumber pembelajaran tepercaya dan jelaskan bahwa tabel bersifat pengantar, bukan panduan identifikasi sampel nyata.
+
+BAB LANJUTAN: STEREOKIMIA DAN HUBUNGAN STRUKTUR-SIFAT
+
+Stereokimia mempelajari susunan tiga dimensi atom dalam molekul. Dua molekul dapat memiliki rumus dan keterhubungan atom yang sama tetapi susunan ruang berbeda. Perbedaan ini dapat memengaruhi titik didih, interaksi dengan cahaya terpolarisasi, dan pengenalan molekul oleh sistem biologis. Karena itu, rumus struktur dua dimensi kadang belum cukup untuk menjelaskan sifat suatu senyawa.
+
+Isomer konstitusional memiliki keterhubungan atom berbeda, sedangkan stereoisomer memiliki keterhubungan sama tetapi susunan ruang berbeda. Enansiomer merupakan pasangan bayangan cermin yang tidak dapat ditumpangtindihkan, sementara diastereomer bukan pasangan bayangan cermin. Pembedaan ini penting dalam kimia obat, aroma, dan biokimia karena reseptor biologis juga memiliki bentuk tiga dimensi.
+
+Pusat kiral sering muncul ketika atom karbon terikat pada empat substituen berbeda. Penetapan konfigurasi menggunakan aturan prioritas tertentu dan harus dilakukan dengan memperhatikan orientasi ruang. Gambar datar dapat menyesatkan jika ikatan yang mengarah ke depan dan belakang tidak ditandai. Model molekul atau representasi baji-putus membantu memeriksa konfigurasi.
+
+Gugus fungsi memengaruhi polaritas dan gaya antarmolekul. Alkohol dapat membentuk ikatan hidrogen, sedangkan hidrokarbon nonpolar lebih banyak berinteraksi melalui gaya dispersi. Perbedaan tersebut membantu menjelaskan kecenderungan kelarutan dan titik didih, tetapi ukuran molekul, bentuk, serta struktur juga berpengaruh. Tidak tepat menyimpulkan sifat hanya dari satu gugus tanpa melihat keseluruhan molekul.
+
+REAKSI ORGANIK DAN PERUBAHAN IKATAN
+
+Reaksi substitusi mengganti satu gugus dengan gugus lain, adisi menambahkan atom atau gugus pada ikatan rangkap, eliminasi membentuk ikatan rangkap dengan melepaskan bagian molekul, dan oksidasi-reduksi mengubah keadaan oksidasi. Klasifikasi ini membantu mengorganisasi reaksi, tetapi mekanisme rinci bergantung pada substrat, pereaksi, pelarut, dan kondisi.
+
+Mekanisme reaksi menggambarkan urutan perubahan ikatan dan perpindahan pasangan elektron. Panah lengkung dalam mekanisme menunjukkan pergerakan pasangan elektron, bukan gerakan atom secara bebas. Setiap tahap perlu menjaga keseimbangan muatan dan jumlah atom. Pemeriksaan ini membantu menemukan mekanisme yang tidak konsisten.
+
+Intermediat seperti karbokation, karbanion, atau radikal memiliki kestabilan relatif yang dipengaruhi struktur dan lingkungan. Stabilitas dapat membantu menjelaskan jalur reaksi, tetapi tidak boleh dipakai sebagai satu-satunya dasar tanpa mempertimbangkan energi aktivasi dan kondisi. Diagram koordinat reaksi dapat memperlihatkan perbedaan energi antara pereaksi, keadaan transisi, dan produk.
+
+SPEKTROSKOPI UNTUK MENGENALI STRUKTUR
+
+Spektroskopi inframerah mengukur penyerapan radiasi yang berkaitan dengan getaran ikatan. Daerah tertentu dapat memberi petunjuk tentang keberadaan gugus seperti karbonil, hidroksil, atau ikatan rangkap. Namun puncak dapat bertumpang tindih dan dipengaruhi lingkungan molekul, sehingga identifikasi perlu menggabungkan beberapa ciri.
+
+Spektroskopi resonansi magnetik inti memberikan informasi lingkungan atom tertentu, terutama hidrogen dan karbon dalam senyawa organik. Jumlah sinyal, pergeseran kimia, integrasi, dan pola pemisahan dapat membantu menyusun struktur. Interpretasi harus mempertimbangkan simetri molekul, pertukaran proton, serta kondisi pengukuran.
+
+Spektrometri massa memberi informasi rasio massa terhadap muatan dan pola fragmentasi. Puncak ion molekul dapat membantu memperkirakan massa molekul, sementara fragmen memberikan petunjuk bagian struktur. Tidak semua senyawa menghasilkan puncak molekul yang kuat. Hasil paling meyakinkan biasanya berasal dari gabungan teknik analisis dan data pembanding yang sesuai.
+
+POLIMER, MATERIAL, DAN LINGKUNGAN
+
+Polimer tersusun dari unit berulang yang dihubungkan menjadi rantai atau jaringan. Sifatnya dipengaruhi panjang rantai, percabangan, kristalinitas, ikatan silang, dan gaya antarrantai. Termoplastik dapat melunak ketika dipanaskan dan dibentuk ulang dalam kondisi tertentu, sedangkan termoset membentuk jaringan silang yang tidak meleleh kembali dengan cara serupa.
+
+Biopolimer seperti selulosa, pati, protein, dan asam nukleat memiliki fungsi penting dalam organisme. Struktur kimia menentukan interaksi dan sifat mekaniknya. Selulosa, misalnya, memiliki rantai yang membentuk jaringan ikatan hidrogen sehingga berkontribusi pada kekuatan dinding sel tumbuhan. Perbedaan susunan ikatan dapat menghasilkan sifat yang sangat berbeda walaupun unsur penyusunnya serupa.
+
+Penilaian dampak bahan perlu melihat siklus hidup, termasuk bahan baku, produksi, penggunaan, dan akhir masa pakai. Label “alami” atau “dapat terurai” tidak otomatis menjamin dampak lingkungan rendah. Kondisi penguraian, fasilitas pengolahan, kontaminasi, dan kebutuhan energi harus diperhitungkan. Desain material yang baik mempertimbangkan fungsi, keselamatan, kemampuan perbaikan, penggunaan ulang, dan jalur pengelolaan limbah.
+
+KESELAMATAN DAN ETIKA LABORATORIUM
+
+Pembelajaran kimia organik perlu mengikuti prosedur keselamatan laboratorium yang ditetapkan pengajar dan institusi. Informasi bahaya, lembar data keselamatan, pelabelan, penyimpanan, dan pengelolaan limbah harus dipahami sebelum kegiatan. Bahan tidak boleh dicampur atau dipanaskan di luar prosedur yang telah disetujui. Pengamatan dan pencatatan dilakukan tanpa mencicipi atau menyentuh bahan secara langsung.
+
+Hasil eksperimen perlu dicatat apa adanya, termasuk hasil yang tidak sesuai dugaan. Data yang diubah agar cocok dengan hipotesis merusak integritas ilmiah. Ketidakpastian pengukuran, kontaminasi, dan keterbatasan instrumen perlu dijelaskan. Pelaporan yang jujur membuat hasil dapat dievaluasi dan diulang secara bertanggung jawab.
+
+LATIHAN BAB
+1. Apa perbedaan enansiomer dan diastereomer?
+2. Mengapa struktur tiga dimensi dapat memengaruhi aktivitas biologis?
+3. Informasi apa yang dapat diberikan spektroskopi inframerah dan NMR?
+4. Sebutkan faktor yang memengaruhi sifat polimer.
+5. Mengapa klaim bahan ramah lingkungan perlu dinilai sepanjang siklus hidup?

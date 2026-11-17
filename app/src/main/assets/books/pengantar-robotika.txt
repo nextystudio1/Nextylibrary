@@ -411,3 +411,29 @@ PROYEK MINI: RANCANGAN EVALUASI ROBOT VIRTUAL
 
 Pilih robot virtual sederhana, misalnya agen yang bergerak pada kisi dua dimensi. Definisikan tujuan, ukuran keberhasilan, batas peta, dan beberapa skenario hambatan. Bandingkan dua pendekatan perencanaan secara konseptual menggunakan data simulasi. Sajikan tabel hasil, jelaskan skenario yang sulit, dan sebutkan aspek dunia nyata yang belum terwakili. Proyek ini menekankan evaluasi dan pemahaman model, bukan pembuatan perangkat fisik.
 
+BAB LANJUTAN: PERSEPSI, PERENCANAAN, DAN EVALUASI SISTEM ROBOT
+
+Robot beroperasi melalui hubungan antara sensor, pemrosesan, keputusan, dan aktuator. Sensor menghasilkan pengukuran yang memiliki batas ketelitian, rentang, dan kemungkinan gangguan. Pengendali mengolah informasi tersebut untuk memilih tindakan, sedangkan aktuator menghasilkan gerakan atau perubahan pada lingkungan. Sistem yang baik tidak menganggap setiap pembacaan sensor sebagai kebenaran mutlak. Pengukuran perlu dibandingkan, difilter secara tepat, dan dinilai berdasarkan konteks.
+
+Persepsi robot adalah proses membangun gambaran lingkungan dari data sensor. Kamera memberikan informasi visual, sensor jarak memperkirakan kedekatan objek, dan sensor inersia membantu mengukur perubahan gerak atau orientasi. Masing-masing memiliki keterbatasan. Kamera dapat terpengaruh pencahayaan, sensor jarak memiliki rentang tertentu, dan pengukuran inersia dapat mengalami akumulasi kesalahan. Penggabungan sensor dapat meningkatkan ketahanan sistem, tetapi memerlukan kalibrasi dan pemahaman ketidakpastian.
+
+Lokalisasi memperkirakan posisi serta orientasi robot dalam suatu kerangka koordinat. Pemetaan membangun representasi lingkungan, sedangkan navigasi menggunakan informasi tersebut untuk memilih gerakan menuju tujuan. Ketiga tugas ini saling terkait. Kesalahan posisi dapat membuat peta tidak konsisten dan rute yang direncanakan menjadi tidak sesuai. Sistem perlu memperbarui perkiraan ketika memperoleh pengamatan baru dan menyatakan ketidakpastian posisi.
+
+Perencanaan jalur mempertimbangkan tujuan, hambatan, batas gerak, dan biaya perjalanan. Jalur terpendek tidak selalu paling aman atau paling mudah dijalankan. Biaya dapat mencakup jarak, perubahan arah, energi, risiko tabrakan, dan ketidakpastian. Perencana juga perlu mempertimbangkan kemampuan aktuator: jalur yang tampak mungkin pada peta belum tentu dapat dilalui karena ukuran robot atau batas belok. Pengujian pada simulasi membantu menemukan kasus tepi sebelum evaluasi lebih lanjut.
+
+Pengendalian gerak membandingkan keadaan yang diinginkan dengan keadaan yang diperkirakan dari sensor. Selisih tersebut menjadi masukan untuk menentukan tindakan koreksi. Sistem kendali dapat memiliki respons terlalu lambat, terlalu agresif, atau berosilasi. Evaluasi tidak cukup melihat satu gerakan berhasil; perlu diuji pada variasi beban, permukaan, kecepatan, dan gangguan yang relevan. Parameter pengendali harus didokumentasikan agar perubahan dapat ditelusuri.
+
+Interaksi manusia-robot membutuhkan komunikasi status dan batas kemampuan yang jelas. Pengguna harus mengetahui kapan robot bekerja, kapan membutuhkan bantuan, dan bagaimana menghentikan operasi melalui mekanisme yang dirancang aman. Robot tidak boleh menyembunyikan ketidakpastian dengan tampilan yang seolah selalu yakin. Untuk sistem yang beroperasi dekat manusia, analisis bahaya, pembatasan ruang, dan pengujian terawasi merupakan bagian dari rancangan.
+
+Keandalan robot mencakup kemampuan menyelesaikan tugas secara konsisten serta pulih dari gangguan yang dapat diperkirakan. Sistem dapat memantau kondisi baterai, suhu komponen, kehilangan komunikasi, atau ketidaksesuaian sensor. Respons terhadap kegagalan harus ditentukan sebelumnya. Pada kondisi tertentu, tindakan paling aman adalah menghentikan gerakan dan meminta pemeriksaan, bukan terus mencoba menyelesaikan tugas.
+
+Evaluasi robot memerlukan metrik yang sesuai. Akurasi posisi, waktu penyelesaian, jumlah kegagalan, konsumsi energi, dan kebutuhan intervensi manusia mengukur aspek berbeda. Satu angka gabungan dapat menyembunyikan kelemahan penting. Pengujian harus mencakup skenario normal dan variasi yang masuk akal, serta membedakan hasil simulasi dari kinerja perangkat nyata. Data pengujian sebaiknya disimpan bersama versi perangkat lunak dan konfigurasi.
+
+Studi kasus: tim merancang agen robot virtual untuk mengantar benda pada peta kisi. Mereka menetapkan titik awal, tujuan, ukuran hambatan, dan metrik keberhasilan. Dua metode perencanaan dibandingkan pada beberapa peta, termasuk peta dengan jalan buntu. Tim mencatat waktu komputasi dan panjang rute, lalu membahas bahwa simulasi belum menggambarkan gesekan, kesalahan sensor, atau dinamika perangkat fisik.
+
+Latihan penerapan:
+1. Buat tabel yang membandingkan tiga sensor berdasarkan informasi dan keterbatasannya.
+2. Jelaskan hubungan lokalisasi, pemetaan, dan navigasi.
+3. Tentukan metrik untuk mengevaluasi robot pengantar virtual.
+4. Rancang respons aman ketika sensor memberikan data yang tidak konsisten.
+5. Tuliskan keterbatasan yang harus disebutkan saat melaporkan hasil simulasi.

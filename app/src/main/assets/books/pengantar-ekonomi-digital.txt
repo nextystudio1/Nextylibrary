@@ -179,3 +179,27 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa rekomendasi algoritmik perlu diawasi? Karena tujuan dan data dapat menghasilkan bias atau dampak yang tidak diinginkan.
 4. Apa ciri desain manipulatif? Pilihan penting disembunyikan atau dibuat sulit untuk ditolak.
 5. Mengapa pendapatan pekerja digital perlu dihitung bersih? Karena biaya, waktu tunggu, dan risiko memengaruhi hasil sebenarnya.
+BAB LANJUTAN 1. BIAYA TRANSAKSI DAN INFORMASI DI PASAR DIGITAL
+
+Teknologi digital dapat menurunkan biaya pencarian informasi, komunikasi, dan pencocokan antara penjual dengan pembeli. Katalog daring memungkinkan konsumen membandingkan banyak penawaran tanpa mengunjungi setiap toko. Namun biaya tidak hilang sepenuhnya; sebagian berpindah menjadi biaya pengiriman, biaya layanan, waktu memeriksa reputasi, dan risiko privasi.
+
+Informasi digital juga dapat tidak seimbang. Penjual mungkin mengetahui kualitas produk lebih banyak daripada pembeli, sementara platform menguasai data perilaku yang tidak tersedia bagi pengguna. Ulasan, verifikasi identitas, kebijakan pengembalian, dan mekanisme pengaduan dapat mengurangi sebagian ketimpangan, tetapi kualitasnya perlu dievaluasi. Jumlah ulasan yang besar tidak otomatis menjamin keaslian atau keterwakilan.
+
+BAB LANJUTAN 2. PERSAINGAN, DATA, DAN KETERGANTUNGAN PLATFORM
+
+Platform dapat memperoleh keuntungan dari skala dan efek jaringan. Ketika banyak pengguna berkumpul pada satu layanan, layanan itu menjadi lebih menarik bagi pengguna lain. Keadaan ini dapat meningkatkan efisiensi, tetapi juga menciptakan hambatan bagi pendatang baru dan membuat pengguna sulit berpindah karena riwayat, jaringan kontak, atau format data tidak mudah dipindahkan.
+
+Interoperabilitas dan portabilitas data dapat membantu pengguna mempertahankan kendali, selama diterapkan dengan perlindungan keamanan dan privasi. Persaingan tidak hanya dinilai dari harga; kualitas, pilihan, transparansi aturan, inovasi, dan kemampuan pengguna berpindah juga penting. Kebijakan persaingan perlu memahami karakter pasar digital yang berubah cepat.
+
+BAB LANJUTAN 3. EKONOMI KREATOR DAN KERJA DIGITAL
+
+Ekonomi digital membuka peluang bagi kreator, pekerja lepas, dan usaha kecil untuk menjangkau pasar luas. Pada saat yang sama, pendapatan dapat bergantung pada algoritma rekomendasi, perubahan kebijakan, biaya platform, dan fluktuasi permintaan. Pekerja perlu memahami kontrak, hak atas karya, skema pembayaran, serta mekanisme penyelesaian sengketa.
+
+Analisis kerja digital harus melihat pembagian risiko dan manfaat. Fleksibilitas waktu dapat menjadi keuntungan, tetapi ketidakpastian pendapatan, biaya perangkat, perlindungan sosial, dan evaluasi otomatis dapat menimbulkan tantangan. Data tentang pekerjaan perlu ditafsirkan dengan memperhatikan jenis pekerjaan, jam kerja, status hubungan kerja, dan konteks wilayah.
+
+LATIHAN PEMAHAMAN LANJUTAN
+1. Sebutkan biaya yang dapat berkurang dan biaya yang tetap muncul dalam transaksi daring.
+2. Mengapa ulasan pengguna tidak selalu menjadi bukti kualitas yang sempurna?
+3. Jelaskan efek jaringan dan satu risiko yang mungkin muncul.
+4. Apa manfaat portabilitas data bagi pengguna?
+5. Buat analisis singkat tentang peluang dan tantangan kerja kreator digital.

@@ -10,6 +10,8 @@ Setelah mempelajari buku ini, pembaca diharapkan mampu mengenali ancaman digital
 
 BAB 1. ANCAMAN DIGITAL DAN CARA BERPIKIR AMAN
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/lapisan-keamanan-digital.svg|Lapisan perlindungan digital untuk menjaga akun dan data]]
+
 Keamanan siber adalah upaya melindungi perangkat, akun, jaringan, dan informasi dari akses atau gangguan yang tidak diinginkan. Ancaman dapat berupa penipuan, pencurian akun, perangkat lunak berbahaya, kebocoran data, atau manipulasi psikologis. Serangan sering memanfaatkan kelengahan manusia, misalnya pesan mendesak yang meminta kode rahasia. Karena itu, kebiasaan memeriksa sumber dan menggunakan pengamanan berlapis sama pentingnya dengan teknologi.seperti serangan teknis; pesan yang mendesak dan menyamar sebagai pihak tepercaya juga dapat menjadi pintu masuk.
 
 Gunakan prinsip berhenti, periksa, dan pastikan. Berhenti sebelum mengeklik tautan atau mengirim data. Periksa alamat pengirim, ejaan domain, konteks permintaan, dan apakah pesan tersebut masuk akal. Pastikan melalui saluran resmi yang dicari secara mandiri, bukan nomor atau tautan yang diberikan dalam pesan mencurigakan.

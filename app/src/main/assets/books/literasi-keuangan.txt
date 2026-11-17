@@ -37,6 +37,8 @@ Biaya kesempatan adalah nilai dari pilihan terbaik yang dilepas ketika mengambil
 
 BAB 3 — ANGGARAN DAN PENCATATAN
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/alur-anggaran-pribadi.svg|Siklus merencanakan, mencatat, mengevaluasi, dan menyesuaikan anggaran]]
+
 Anggaran adalah rencana sederhana tentang pemasukan dan pengeluaran. Catat uang yang diterima, pengeluaran yang wajib, dan jumlah yang ingin disisihkan. Anggaran tidak harus rumit. Catatan di buku atau lembar kerja dapat membantu melihat kebiasaan penggunaan uang.
 
 Pemasukan dapat berasal dari uang saku, hadiah, atau pekerjaan yang sesuai usia dan aturan. Pengeluaran dapat dikelompokkan menjadi kebutuhan rutin, kebutuhan tidak rutin, keinginan, dan tabungan. Pengelompokan membantu mengetahui ke mana uang digunakan. Jangan mencatat informasi keuangan pribadi di perangkat atau tempat yang dapat diakses orang tidak berwenang.

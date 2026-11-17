@@ -267,3 +267,52 @@ LATIHAN BAB
 3. Mengapa indikator perlu memiliki definisi yang konsisten?
 4. Informasi apa yang membuat data anggaran mudah ditelusuri?
 5. Mengapa selisih realisasi anggaran perlu dianalisis sebelum disimpulkan?
+
+BAB LANJUTAN: IMPLEMENTASI KEBIJAKAN DAN KAPASITAS LEMBAGA
+
+Kebijakan tidak berhenti ketika peraturan diterbitkan. Implementasi melibatkan penerjemahan tujuan menjadi tugas, anggaran, prosedur, layanan, dan pengawasan. Kegagalan pelaksanaan dapat terjadi meskipun rumusan kebijakan tampak baik, misalnya karena kewenangan tidak jelas, sumber daya kurang, petugas belum terlatih, atau koordinasi antarlembaga lemah. Analisis implementasi perlu menilai bagaimana keputusan dijalankan dalam situasi nyata.
+
+Rantai implementasi dapat memuat pemerintah pusat, pemerintah daerah, unit layanan, mitra masyarakat, dan penerima manfaat. Setiap tingkat memiliki informasi dan insentif berbeda. Arahan yang terlalu rinci dapat mengurangi kemampuan petugas menyesuaikan layanan dengan kebutuhan setempat, sedangkan arahan yang terlalu umum dapat menimbulkan perlakuan tidak konsisten. Pedoman perlu menjelaskan standar minimum sekaligus ruang diskresi dan akuntabilitasnya.
+
+Koordinasi bukan sekadar mengadakan rapat. Koordinasi membutuhkan tujuan bersama, pembagian tanggung jawab, jadwal, pertukaran data, mekanisme penyelesaian perbedaan, dan keputusan yang terdokumentasi. Matriks tanggung jawab dapat membantu menunjukkan siapa yang melaksanakan, menyetujui, dimintai masukan, dan menerima informasi. Tanpa pembagian tersebut, tugas penting dapat terabaikan atau dikerjakan berulang.
+
+Kapasitas lembaga mencakup sumber daya manusia, anggaran, sistem informasi, kepemimpinan, prosedur, dan legitimasi. Pelatihan satu kali tidak cukup jika pegawai tidak memiliki perangkat atau kewenangan untuk menerapkan keterampilan. Penguatan kapasitas harus terhubung dengan perubahan proses kerja, dukungan pimpinan, pendampingan, dan evaluasi penerapan.
+
+PARTISIPASI PUBLIK DAN KESETARAAN
+
+Partisipasi publik dapat berlangsung pada tahap penentuan masalah, penyusunan alternatif, pengambilan keputusan, pelaksanaan, hingga evaluasi. Bentuknya berkisar dari penyampaian informasi hingga pemberian ruang bagi masyarakat untuk memengaruhi keputusan. Penyelenggara harus menjelaskan sejak awal bagian mana yang masih terbuka untuk masukan dan bagian mana yang sudah ditetapkan oleh hukum atau batas anggaran.
+
+Konsultasi yang bermakna membutuhkan informasi yang cukup, waktu yang wajar, aksesibilitas, dan umpan balik. Pertemuan pada jam kerja dapat mengecualikan pekerja harian. Dokumen teknis yang terlalu rumit dapat menghalangi warga memahami dampak kebijakan. Metode alternatif seperti ringkasan bahasa sederhana, pertemuan di beberapa lokasi, kanal tertulis, dan dukungan aksesibilitas dapat memperluas keterlibatan.
+
+Tidak semua kelompok memiliki daya tawar yang sama. Kelompok yang terorganisasi dan memiliki sumber daya dapat lebih mudah menyampaikan kepentingan dibanding warga yang menghadapi hambatan bahasa, disabilitas, jarak, atau keterbatasan waktu. Pemetaan pemangku kepentingan perlu menilai siapa yang memperoleh manfaat, siapa yang menanggung biaya, siapa yang belum terwakili, dan bagaimana suara mereka dapat masuk dalam proses.
+
+Partisipasi tidak berarti setiap usulan harus diterima. Pemerintah perlu menjelaskan kriteria keputusan, bukti yang dipakai, pertimbangan hukum, serta alasan memilih satu alternatif. Tanggapan yang dapat ditelusuri meningkatkan kepercayaan sekalipun sebagian usulan tidak diakomodasi. Catatan konsultasi juga membantu mengevaluasi apakah proses berlangsung terbuka dan adil.
+
+REGULASI, INSENTIF, DAN PERILAKU
+
+Instrumen kebijakan memiliki karakter berbeda. Regulasi menetapkan kewajiban dan batas; pajak atau subsidi mengubah insentif ekonomi; penyediaan layanan memberi akses langsung; informasi membantu masyarakat membuat keputusan; sedangkan kemitraan menggabungkan kapasitas beberapa pihak. Pemilihan instrumen harus mempertimbangkan penyebab masalah, kemampuan administrasi, biaya kepatuhan, dan dampak terhadap kelompok berbeda.
+
+Regulasi yang baik perlu jelas, dapat dilaksanakan, konsisten, dan memiliki mekanisme penegakan yang proporsional. Persyaratan yang terlalu rumit dapat membebani usaha kecil tanpa meningkatkan tujuan kebijakan. Sebaliknya, standar yang terlalu lemah dapat gagal melindungi kepentingan publik. Kajian dampak regulasi membantu mengidentifikasi manfaat, biaya, alternatif, dan konsekuensi yang tidak diinginkan sebelum aturan diterapkan.
+
+Insentif dapat mengubah perilaku, tetapi hasilnya bergantung pada desain. Subsidi yang tidak tepat sasaran dapat lebih banyak dinikmati kelompok yang sebenarnya tidak membutuhkan. Insentif yang mudah dimanipulasi dapat menciptakan perilaku mengejar indikator, bukan tujuan. Karena itu, kriteria penerima, verifikasi, batas waktu, dan evaluasi perlu dirancang sejak awal.
+
+PENANGANAN KELUHAN DAN PEMBELAJARAN KEBIJAKAN
+
+Mekanisme pengaduan merupakan sumber informasi tentang masalah layanan. Kanal pengaduan harus mudah ditemukan, aman, dapat diakses, dan menyediakan nomor pelacakan. Pengadu perlu mengetahui perkiraan waktu respons dan jalur eskalasi. Data pengaduan dapat dianalisis untuk menemukan pola, tetapi identitas pelapor harus dilindungi dan laporan tidak boleh dianggap mewakili seluruh populasi.
+
+Evaluasi proses memeriksa apakah kegiatan berjalan sesuai rancangan, sedangkan evaluasi hasil memeriksa perubahan yang terjadi. Evaluasi dampak berusaha menilai apakah perubahan dapat dikaitkan dengan kebijakan dibandingkan keadaan tanpa kebijakan. Pertanyaan evaluasi harus disesuaikan dengan desain dan data yang tersedia. Klaim sebab-akibat memerlukan kehati-hatian karena banyak faktor dapat berubah bersamaan.
+
+Pembelajaran kebijakan terjadi ketika temuan digunakan untuk memperbaiki desain, anggaran, prosedur, dan kapasitas. Evaluasi yang hanya menjadi dokumen administratif tidak menghasilkan perbaikan. Lembaga perlu menentukan siapa yang menindaklanjuti rekomendasi, kapan perubahan dilakukan, dan bagaimana kemajuannya diperiksa. Rekomendasi juga perlu diprioritaskan berdasarkan urgensi, kelayakan, serta dampak.
+
+STUDI KASUS: PROGRAM LAYANAN AIR BERSIH
+
+Sebuah daerah ingin meningkatkan akses air bersih di beberapa desa. Pada tahap awal, pemerintah memetakan sumber air, kondisi jaringan, biaya pemeliharaan, kemampuan pengelola, dan kelompok rumah tangga yang belum terlayani. Warga dilibatkan untuk menjelaskan pola penggunaan, kendala jarak, dan pengalaman kualitas air. Data teknis dipadukan dengan informasi sosial agar solusi tidak hanya berfokus pada pembangunan fasilitas.
+
+Pelaksanaan membagi tanggung jawab antara dinas, pemerintah desa, operator, dan kelompok pengguna. Anggaran mencakup pembangunan serta pemeliharaan. Indikator tidak hanya menghitung jumlah sambungan, tetapi juga kontinuitas layanan, mutu air, keterjangkauan biaya, waktu gangguan, dan mekanisme pengaduan. Setelah enam bulan, hasil dievaluasi dan prosedur pemeliharaan diperbaiki berdasarkan catatan gangguan.
+
+LATIHAN BAB
+1. Mengapa penerbitan peraturan belum menjamin keberhasilan kebijakan?
+2. Apa manfaat matriks pembagian tanggung jawab?
+3. Sebutkan hambatan yang dapat membuat partisipasi publik tidak setara.
+4. Bedakan evaluasi proses, hasil, dan dampak.
+5. Buat indikator layanan air bersih yang melampaui jumlah fasilitas dibangun.

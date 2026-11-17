@@ -283,3 +283,47 @@ LATIHAN
 
 PROYEK
 Buat seri enam foto yang menjelaskan satu proses sederhana. Susun urutan, tulis keterangan faktual, dan jelaskan pilihan pencahayaan serta komposisi. Minta pembaca menceritakan kembali proses berdasarkan seri tersebut, lalu revisi bagian yang menimbulkan salah tafsir.
+
+BAB: CAHAYA, WARNA, DAN KONSISTENSI VISUAL
+
+Cahaya menentukan bagian mana yang terlihat, bagaimana tekstur muncul, dan suasana yang dirasakan. Sumber cahaya dapat memiliki arah, intensitas, dan karakter warna berbeda. Cahaya dari samping sering memperjelas tekstur, sedangkan cahaya dari depan dapat mengurangi bayangan. Pilihan tersebut bukan aturan mutlak; sesuaikan dengan informasi yang ingin ditampilkan.
+
+Keseimbangan putih membantu menjaga warna objek agar tampak wajar dalam kondisi pencahayaan tertentu. Sumber cahaya yang berbeda dapat memberi dominasi warna yang berbeda pula. Untuk dokumentasi produk atau pendidikan, konsistensi warna penting agar pembaca tidak salah memahami karakter objek. Jika warna merupakan data, proses penyuntingan harus sangat hati-hati dan dijelaskan.
+
+Eksposur berkaitan dengan jumlah cahaya yang direkam. Bagian yang terlalu terang dapat kehilangan detail, sedangkan bagian terlalu gelap dapat menyulitkan pembacaan. Histogram dapat membantu menilai sebaran tonal, tetapi tidak memiliki bentuk ideal untuk semua foto. Keputusan akhir harus mempertimbangkan isi dan tujuan gambar.
+
+BAB: KOMPOSISI DAN ARAH PANDANG
+
+Komposisi mengatur hubungan subjek dengan ruang di sekitarnya. Garis, bentuk, pola, ruang kosong, dan kedalaman dapat mengarahkan perhatian. Aturan sepertiga dapat menjadi titik awal, tetapi penempatan simetris atau terpusat mungkin lebih sesuai untuk subjek tertentu. Yang penting adalah hubungan visual mendukung pesan, bukan mengikuti rumus tanpa pertimbangan.
+
+Latar belakang perlu diperiksa sebelum gambar dibuat. Objek yang tidak relevan dapat mengganggu atau menimbulkan tafsir keliru. Perhatikan juga tepi bingkai, ruang di depan arah gerak, serta hubungan antarobjek. Sudut pandang mengubah kesan ukuran dan hubungan ruang, sehingga foto dokumentasi perlu menghindari sudut yang menyesatkan.
+
+Kedalaman bidang menentukan bagian yang tampak tajam. Latar kabur dapat memisahkan subjek, tetapi tidak selalu tepat untuk dokumentasi yang perlu menunjukkan konteks. Foto ilmiah atau instruksional sering membutuhkan detail dan lingkungan yang sama-sama terbaca. Pilihan fokus harus mengikuti kebutuhan informasi.
+
+BAB: PENYUNTINGAN DAN INTEGRITAS DOKUMENTASI
+
+Penyuntingan dapat mencakup pemotongan, penyesuaian cahaya, koreksi warna, dan pengurangan gangguan visual. Untuk karya dokumenter, perubahan tidak boleh mengubah makna kejadian atau menghilangkan unsur yang penting bagi konteks. Simpan berkas asli dan catat perubahan utama agar proses dapat ditinjau.
+
+Koreksi teknis berbeda dari manipulasi isi. Mengatur tingkat terang agar detail terlihat dapat diterima pada banyak konteks, sedangkan menambahkan atau menghapus objek sehingga peristiwa tampak berbeda dapat menyesatkan. Untuk materi pendidikan, beri keterangan jika ilustrasi merupakan rekonstruksi atau gambar yang telah diubah secara substantif.
+
+Metadata dapat membantu mencatat waktu, perangkat, dan pengaturan, tetapi metadata juga mungkin memuat informasi lokasi atau identitas. Sebelum berbagi, periksa apakah informasi tersebut perlu disertakan. Lindungi dokumen, layar, alamat, dan wajah orang yang tidak memberikan persetujuan.
+
+BAB: CERITA VISUAL DAN URUTAN GAMBAR
+
+Cerita visual menyampaikan hubungan antarperistiwa melalui urutan gambar. Setiap gambar sebaiknya memiliki fungsi: memperkenalkan konteks, menunjukkan proses, menjelaskan detail, atau memperlihatkan hasil. Jika dua gambar menyampaikan informasi yang sama, pertimbangkan apakah keduanya benar-benar diperlukan. Urutan yang jelas membantu pembaca menyusun hubungan sebab dan akibat tanpa harus menebak.
+
+Keterangan gambar memberikan konteks yang tidak selalu terlihat. Tuliskan apa yang dapat dipastikan, kapan dan di mana secara umum jika relevan, serta mengapa gambar disertakan. Bedakan fakta yang diamati dari interpretasi. Jangan menambahkan cerita tentang perasaan atau niat seseorang tanpa dasar.
+
+Dalam cerita pendidikan, variasi jarak pengambilan gambar dapat membantu: tampilan keseluruhan menunjukkan konteks, tampilan sedang menunjukkan hubungan bagian, dan tampilan dekat menjelaskan detail. Pastikan urutan tetap masuk akal dan tidak memotong tahap penting. Uji apakah pembaca dapat menjelaskan kembali proses hanya dari rangkaian gambar dan keterangan.
+
+PROYEK
+
+Buat seri visual tentang proses belajar atau kegiatan lingkungan yang aman dan disetujui. Susun enam sampai delapan gambar dengan fungsi berbeda. Tulis keterangan faktual, periksa izin, dan simpan catatan penyuntingan. Minta pembaca menjelaskan urutan berdasarkan seri tersebut, kemudian perbaiki bagian yang menimbulkan tafsir keliru.
+
+PERTANYAAN
+
+1. Bagaimana arah cahaya mengubah tampilan tekstur?
+2. Mengapa komposisi perlu mempertimbangkan latar belakang?
+3. Apa perbedaan koreksi teknis dan manipulasi dokumenter?
+4. Informasi apa yang mungkin tersimpan dalam metadata?
+5. Bagaimana keterangan gambar membantu menjaga akurasi cerita?

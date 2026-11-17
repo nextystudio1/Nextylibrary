@@ -10,6 +10,8 @@ Pelajari laut sebagai sistem yang menghubungkan proses fisika, kimia, biologi, d
 
 BAB 1. LAUT SEBAGAI SISTEM
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/siklus-air-iklim.svg|Siklus air menghubungkan laut, atmosfer, dan daratan.]]
+
 Samudra menutupi sebagian besar permukaan bumi dan berperan dalam iklim, siklus air, keanekaragaman hayati, serta kehidupan manusia. Oseanografi mempelajari laut melalui pendekatan fisika, kimia, biologi, dan geologi. Keempat bidang tersebut saling melengkapi karena perubahan suhu, salinitas, dasar laut, dan organisme dapat memengaruhi satu sama lain.
 
 PENDALAMAN

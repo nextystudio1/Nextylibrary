@@ -16,6 +16,8 @@ DAFTAR ISI
 Bagian I — Dasar energi dan teknologi terbarukan
 Bab 1 Energi dan kebutuhan manusia
 Bab 2 Matahari
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/energi-terbarukan.svg|Ilustrasi sumber energi terbarukan: surya, angin, air, panas bumi, dan biomassa.]]
 Bab 3 Angin
 Bab 4 Air dan panas bumi
 Bab 5 Bioenergi

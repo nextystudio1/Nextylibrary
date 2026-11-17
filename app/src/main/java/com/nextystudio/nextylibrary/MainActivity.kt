@@ -47,6 +47,8 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import coil.ImageLoader
+import coil.decode.SvgDecoder
 import coil.compose.AsyncImage
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
@@ -830,6 +832,8 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
         return
     }
     val context = LocalContext.current
+    val illustrationImageLoader = remember(context) { ImageLoader.Builder(context).components { add(SvgDecoder.Factory()) }.build() }
+    DisposableEffect(illustrationImageLoader) { onDispose { illustrationImageLoader.shutdown() } }
     var body by remember(book.id) { mutableStateOf<String?>(null) }
     var error by remember(book.id) { mutableStateOf<String?>(null) }
     var loading by remember(book.id) { mutableStateOf(true) }
@@ -921,6 +925,7 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
                                 if (parts.isNotEmpty()) {
                                     AsyncImage(
                                         model = parts[0],
+                                        imageLoader = illustrationImageLoader,
                                         contentDescription = parts.getOrNull(1)?.takeIf { it.isNotBlank() } ?: "Ilustrasi buku",
                                         contentScale = ContentScale.Fit,
                                         modifier = Modifier.fillMaxWidth().heightIn(max = 340.dp).clip(RoundedCornerShape(12.dp))

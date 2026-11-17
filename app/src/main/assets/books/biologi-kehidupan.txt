@@ -52,6 +52,8 @@ LATIHAN
 Mengapa protein tidak dapat dianggap hanya sebagai sumber energi?
 
 BAB 3. SEL SEBAGAI UNIT KEHIDUPAN
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/struktur-sel.svg|Perbandingan struktur umum sel hewan dan sel tumbuhan.]]
 Teori sel menyatakan bahwa makhluk hidup tersusun atas sel, sel merupakan unit dasar struktur dan fungsi kehidupan, dan sel berasal dari sel yang telah ada. Organisme uniseluler hanya terdiri atas satu sel, sedangkan organisme multiseluler memiliki banyak sel dengan fungsi khusus.
 
 Sel prokariotik tidak memiliki inti bermembran; materi genetiknya berada di wilayah nukleoid. Bakteri dan arkea termasuk kelompok prokariotik. Sel eukariotik memiliki inti dan organel bermembran, seperti sel hewan, tumbuhan, jamur, dan protista.

@@ -35,6 +35,8 @@ Tekanan udara umumnya berkurang dengan bertambahnya ketinggian karena jumlah uda
 
 BAB 4. AWAN DAN HUJAN
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/siklus-air-iklim.svg|Diagram siklus air: penguapan, kondensasi, presipitasi, dan aliran air.]]
+
 Awan terbentuk ketika udara lembap naik, mengembang, dan mendingin hingga uap air mengalami kondensasi pada partikel kecil. Jenis awan berkaitan dengan proses pembentukan dan kestabilan atmosfer. Hujan terjadi ketika butir air atau kristal es tumbuh cukup besar untuk jatuh. Proses lokal dapat berbeda menurut topografi dan kondisi angin.
 
 BAB 5. ANGIN DAN SIRKULASI

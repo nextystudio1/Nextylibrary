@@ -19,6 +19,8 @@ Gerhana Matahari terjadi ketika Bulan berada di antara Bumi dan Matahari sehingg
 Jangan pernah melihat Matahari secara langsung tanpa alat dan filter pengamatan Matahari yang dirancang serta disertifikasi untuk tujuan tersebut. Kacamata hitam biasa tidak aman untuk melihat Matahari.
 
 BAB 3 — TATA SURYA
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/tata-surya.svg|Skema delapan planet utama yang mengorbit Matahari.]]
 Tata surya terdiri atas Matahari dan benda-benda yang terikat oleh gravitasinya, termasuk delapan planet, satelit alami, planet katai, asteroid, dan komet.
 Planet bagian dalam—Merkurius, Venus, Bumi, dan Mars—memiliki permukaan padat. Planet bagian luar—Jupiter, Saturnus, Uranus, dan Neptunus—berukuran besar dan memiliki komposisi yang didominasi gas atau es.
 Asteroid adalah benda kecil berbatu yang banyak ditemukan di sabuk antara Mars dan Jupiter. Komet mengandung es, debu, dan material lain; ketika mendekati Matahari, sebagian material membentuk koma dan ekor.

@@ -34,6 +34,8 @@ LATIHAN
 
 BAB 2. SUMBER ENERGI
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/energi-terbarukan.svg|Lima kelompok sumber energi terbarukan dan contoh pemanfaatannya.]]
+
 Sumber energi dapat dikelompokkan menjadi fosil dan terbarukan. Batu bara, minyak, dan gas memiliki kepadatan energi tinggi tetapi menghasilkan emisi ketika dibakar. Matahari, angin, air, panas bumi, dan biomassa memiliki karakter berbeda dalam ketersediaan, lokasi, biaya, serta dampak lingkungannya.
 
 BAB 3. EFISIENSI ENERGI

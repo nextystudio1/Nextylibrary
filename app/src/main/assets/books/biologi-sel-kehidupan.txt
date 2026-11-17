@@ -7,6 +7,8 @@ PENGANTAR
 Sel merupakan unit struktural dan fungsional dasar kehidupan. Organisme dapat tersusun dari satu sel atau banyak sel yang bekerja sama. Dengan memahami sel, kita dapat mengenal bagaimana makhluk hidup tumbuh, memperoleh energi, dan mewariskan informasi.
 
 BAB 1 — TEORI DAN JENIS SEL
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/struktur-sel.svg|Perbandingan struktur umum sel hewan dan sel tumbuhan.]]
 Teori sel menyatakan bahwa makhluk hidup tersusun atas satu atau lebih sel, sel merupakan unit dasar kehidupan, dan sel berasal dari sel yang telah ada. Perkembangan mikroskop membantu ilmuwan mengamati struktur yang tidak terlihat oleh mata.
 Sel prokariotik tidak memiliki inti bermembran. Materi genetiknya berada di wilayah nukleoid. Bakteri merupakan contoh organisme prokariotik.
 Sel eukariotik memiliki inti bermembran dan organel khusus. Hewan, tumbuhan, jamur, dan banyak organisme bersel satu memiliki sel eukariotik.

@@ -39,6 +39,8 @@ LATIHAN PEMAHAMAN
 
 BAB 2. EFEK RUMAH KACA
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/siklus-air-iklim.svg|Diagram siklus air yang berhubungan dengan sistem iklim.]]
+
 Atmosfer mengandung gas yang menyerap dan memancarkan kembali radiasi inframerah. Efek rumah kaca alami menjaga bumi cukup hangat untuk kehidupan. Peningkatan konsentrasi gas rumah kaca akibat aktivitas manusia memperkuat efek ini dan mengubah keseimbangan energi bumi.
 
 BAB 3. BUKTI DAN PENYEBAB PERUBAHAN

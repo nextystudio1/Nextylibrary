@@ -29,6 +29,8 @@ LATIHAN BAB
 
 BAB 2. DAYA DAN PEMAKAIAN LISTRIK
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/rangkaian-listrik.svg|Ilustrasi rangkaian listrik sederhana untuk memahami aliran arus.]]
+
 Daya menyatakan laju penggunaan atau pemindahan energi. Satuan daya adalah watt, sedangkan energi listrik rumah tangga sering dicatat dalam kilowatt-jam. Energi yang digunakan bergantung pada daya perangkat dan lamanya perangkat menyala.
 
 Sebagai latihan hitung, perangkat 100 watt yang digunakan selama 5 jam memakai 500 watt-jam atau 0,5 kilowatt-jam. Perhitungan ini membantu memperkirakan konsumsi, tetapi tagihan sebenarnya juga dipengaruhi tarif, biaya lain, dan cara pencatatan meter.

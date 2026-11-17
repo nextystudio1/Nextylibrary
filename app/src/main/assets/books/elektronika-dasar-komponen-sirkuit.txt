@@ -21,6 +21,8 @@ Transistor dapat berfungsi sebagai sakelar elektronik atau penguat sinyal. Jenis
 Semikonduktor menjadi dasar banyak perangkat modern karena sifat listriknya dapat dikendalikan melalui struktur material dan tegangan.
 
 BAB 4 — RANGKAIAN SERI DAN PARALEL
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/rangkaian-listrik.svg|Contoh rangkaian listrik sederhana dengan baterai, saklar, dan lampu.]]
 Dalam rangkaian seri, komponen berada pada satu jalur sehingga arus yang melewati tiap komponen sama. Tegangan terbagi di antara komponen. Hambatan total resistor seri adalah jumlah hambatan masing-masing.
 Dalam rangkaian paralel, cabang-cabang terhubung pada pasangan titik yang sama sehingga tegangan pada setiap cabang sama. Arus total merupakan jumlah arus cabang. Hambatan ekuivalen paralel lebih kecil daripada hambatan cabang terkecil untuk resistor positif.
 Diagram rangkaian menggunakan simbol standar agar hubungan komponen mudah dipahami. Membaca diagram merupakan keterampilan penting sebelum menganalisis sistem.

@@ -17,6 +17,8 @@ DAFTAR BAB
 
 BAB 1: MATAHARI DAN KELUARGA TATA SURYA
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/tata-surya.svg|Skema tata surya; ukuran dan jarak planet tidak dibuat berskala.]]
+
 Tata surya adalah kumpulan benda langit yang terikat oleh gravitasi Matahari. Di dalamnya terdapat delapan planet, planet kerdil, satelit alami, asteroid, komet, debu, dan gas. Matahari merupakan bintang yang menghasilkan energi melalui reaksi fusi di bagian intinya. Cahaya dan panas Matahari menjadi sumber energi utama bagi iklim dan kehidupan di Bumi.
 
 Planet bergerak mengelilingi Matahari pada lintasan yang disebut orbit. Gravitasi menjaga keterikatan sistem, sementara gerak awal benda langit membuatnya terus bergerak. Tata surya terbentuk sekitar 4,6 miliar tahun lalu dari awan gas dan debu yang runtuh oleh gravitasi. Materi yang tersisa membentuk Matahari dan berbagai benda yang mengorbitnya.

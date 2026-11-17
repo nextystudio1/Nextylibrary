@@ -14,6 +14,8 @@ Matahari merupakan sumber energi utama bagi sebagian besar ekosistem. Produsen s
 Rantai makanan menggambarkan satu jalur perpindahan energi. Jaring-jaring makanan menunjukkan banyak hubungan yang lebih realistis. Energi berkurang pada setiap perpindahan tingkat trofik karena organisme menggunakan energi untuk aktivitas dan kehilangan sebagian sebagai panas.
 
 BAB 3 — SIKLUS MATERI
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/siklus-air-iklim.svg|Siklus air sebagai salah satu siklus materi dalam ekosistem.]]
 Materi tidak mengalir satu arah seperti energi; unsur kimia berputar melalui siklus. Dalam siklus air, penguapan, kondensasi, presipitasi, infiltrasi, dan aliran permukaan memindahkan air.
 Siklus karbon menghubungkan atmosfer, organisme, tanah, laut, dan batuan. Fotosintesis menyerap karbon dioksida, sedangkan respirasi, penguraian, dan pembakaran melepaskannya. Aktivitas manusia dapat mengubah keseimbangan siklus tersebut.
 

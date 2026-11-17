@@ -357,3 +357,31 @@ PROYEK MINI: RENCANA KEBUN PANGAN SKALA KECIL
 
 Buat rancangan kebun berdasarkan luas ruang yang tersedia tanpa mengungkap alamat. Catat intensitas cahaya, sumber air yang aman, jenis wadah, pilihan tanaman, jadwal pengamatan, serta rencana pengelolaan sisa organik. Tambahkan anggaran dan pembagian tugas. Tentukan indikator keberhasilan selain hasil panen, seperti kesehatan tanaman, penggunaan air, keterlibatan peserta, dan jumlah bahan pangan yang dimanfaatkan.
 
+BAB LANJUTAN: SISTEM PRODUKSI, KEAMANAN PANGAN, DAN KETAHANAN KOTA
+
+Pertanian perkotaan perlu dipahami sebagai bagian dari sistem pangan kota, bukan sekadar kegiatan menanam di lahan kosong. Sistem pangan mencakup produksi, pengolahan, penyimpanan, distribusi, konsumsi, dan pengelolaan sisa. Setiap tahap menggunakan energi, air, tenaga, ruang, serta infrastruktur. Kebun komunitas dapat memberi manfaat pendidikan dan sosial, tetapi tidak otomatis mampu memasok seluruh kebutuhan pangan penduduk. Perencanaan harus menetapkan tujuan yang realistis dan mengukur manfaatnya secara terbuka.
+
+Pemilihan lokasi dimulai dengan memahami status lahan, akses air, paparan matahari, drainase, dan kemungkinan pencemaran. Tanah di lokasi bekas kegiatan industri atau lalu lintas padat memerlukan pemeriksaan yang sesuai sebelum digunakan untuk tanaman pangan. Jika mutu tanah belum diketahui, pengelola tidak boleh menganggapnya aman hanya berdasarkan tampilan. Pilihan wadah dan media tanam terkontrol dapat dipertimbangkan, disertai pengelolaan air dan bahan secara hati-hati.
+
+Kesuburan tanah bergantung pada bahan organik, struktur, organisme tanah, dan ketersediaan unsur hara. Penambahan kompos matang dapat membantu memperbaiki sifat tanah, tetapi kualitas kompos harus diperhatikan. Bahan yang belum terurai sempurna dapat menimbulkan masalah bau, panas, atau ketidakseimbangan hara. Pengelolaan kompos memerlukan pemilahan bahan, pengaturan kelembapan, aerasi, dan pemantauan kematangan. Kompos bukan solusi untuk semua jenis pencemaran.
+
+Pemilihan tanaman mempertimbangkan iklim mikro, musim, ruang akar, kebutuhan air, lama panen, dan tujuan konsumsi. Tanaman yang cocok untuk lahan terbuka belum tentu sesuai untuk balkon yang menerima cahaya terbatas. Diversifikasi tanaman dapat mengurangi ketergantungan pada satu komoditas dan mendukung variasi pangan. Catatan tanggal tanam, kondisi cuaca, pemupukan, serta hasil panen membantu pengelola memahami pola produksi dari waktu ke waktu.
+
+Air merupakan sumber daya penting dalam pertanian kota. Penyiraman berlebihan dapat membuang air dan menyebabkan akar kekurangan oksigen, sementara kekurangan air menghambat pertumbuhan. Pengelola dapat memantau kelembapan media dan menyesuaikan penyiraman dengan jenis tanaman serta cuaca. Penampungan air hujan hanya boleh digunakan dengan memperhatikan kualitas, kebersihan wadah, dan kesesuaian untuk tujuan penggunaannya. Air yang berpotensi tercemar tidak boleh digunakan untuk membasahi bagian pangan yang dikonsumsi mentah.
+
+Pengendalian organisme pengganggu sebaiknya mengutamakan pengamatan dan pencegahan. Identifikasi gejala, kebersihan alat, rotasi tanaman, pemilihan varietas, dan pemeliharaan habitat dapat membantu mengurangi tekanan hama. Tidak semua serangga merupakan hama; sebagian berperan sebagai penyerbuk atau pemangsa alami. Penggunaan bahan pengendali harus mengikuti label, ketentuan, dan arahan tenaga yang kompeten. Penggunaan sembarangan dapat membahayakan manusia, organisme bermanfaat, dan lingkungan.
+
+Keamanan pangan berlanjut setelah panen. Tangan, wadah, alat, air pencuci, dan permukaan kerja perlu dijaga kebersihannya. Hasil panen harus dipisahkan dari bahan yang kotor atau rusak. Penyimpanan memperhatikan suhu, kelembapan, sirkulasi udara, serta karakter komoditas. Catatan asal bahan dan waktu panen membantu penelusuran jika ditemukan masalah mutu. Pengolahan pangan perlu mengikuti praktik higienis dan ketentuan yang berlaku.
+
+Ketahanan pangan kota tidak hanya ditentukan oleh jumlah produksi lokal. Keterjangkauan harga, distribusi, pendapatan rumah tangga, akses transportasi, dan kestabilan pasokan juga berpengaruh. Kebun komunitas dapat memperkuat pengetahuan, jejaring warga, serta akses sebagian bahan segar. Agar manfaatnya adil, program perlu mempertimbangkan kelompok yang memiliki keterbatasan waktu, ruang, biaya, atau kemampuan fisik. Pembagian hasil dan aturan pengelolaan harus disepakati secara transparan.
+
+Sisa pangan dapat dikurangi melalui perencanaan belanja, penyimpanan yang benar, pemanfaatan bahan yang masih layak, dan pengomposan sisa organik yang sesuai. Pengomposan tidak boleh menjadi alasan untuk mengabaikan pencegahan limbah sejak awal. Pengukuran sederhana terhadap jumlah bahan yang dibeli, dikonsumsi, disumbangkan, dan dibuang dapat membantu komunitas menentukan perbaikan.
+
+Studi kasus: kelompok warga mengelola kebun bersama di lahan terbatas. Mereka memetakan cahaya, akses air, dan pembagian ruang, lalu memilih tanaman yang sesuai. Pengelola menyusun aturan alat bersama, jadwal pemeliharaan, pencatatan hasil, dan prosedur kebersihan panen. Setelah beberapa bulan, evaluasi tidak hanya menghitung kilogram hasil, tetapi juga penggunaan air, keberlanjutan partisipasi, biaya, dan manfaat belajar.
+
+Latihan penerapan:
+1. Buat peta sederhana alur pangan dari produksi hingga konsumsi di lingkunganmu.
+2. Susun daftar pemeriksaan sebelum suatu lahan digunakan untuk tanaman pangan.
+3. Bandingkan kebutuhan ruang dan air dari beberapa jenis tanaman.
+4. Rancang pencatatan panen dan penyimpanan yang mudah ditelusuri.
+5. Tentukan indikator keberhasilan kebun komunitas selain jumlah hasil panen.

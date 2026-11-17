@@ -348,3 +348,41 @@ LATIHAN
 3. Mengapa sampel besar belum tentu bebas bias?
 4. Apa fungsi codebook dalam pengelolaan data?
 5. Bagaimana transparansi dapat dijaga tanpa membuka data pribadi?
+
+
+BAB PENDALAMAN: MENYUSUN PERTANYAAN DAN KERANGKA KONSEPTUAL
+
+Pertanyaan penelitian yang baik memiliki fokus, dapat dijawab dengan bukti, dan sesuai dengan sumber daya yang tersedia. Topik luas seperti “pengaruh teknologi terhadap pendidikan” perlu dipersempit menjadi populasi, konteks, variabel, dan rentang waktu yang jelas. Pertanyaan deskriptif bertujuan menggambarkan keadaan, pertanyaan komparatif membandingkan kelompok atau kondisi, sedangkan pertanyaan penjelasan menelaah hubungan atau mekanisme. Jenis pertanyaan menentukan rancangan yang masuk akal.
+
+Kerangka konseptual menunjukkan konsep yang diperkirakan saling berhubungan. Kerangka ini dapat dibangun dari teori dan temuan terdahulu, bukan hanya dari dugaan peneliti. Diagram membantu memperlihatkan arah hubungan yang dihipotesiskan, tetapi panah pada diagram bukan bukti sebab-akibat. Setiap hubungan perlu dijelaskan melalui alasan teoretis dan bukti yang tersedia.
+
+Definisi operasional menerjemahkan konsep menjadi cara pengamatan. Konsep seperti keterlibatan belajar dapat diukur melalui beberapa indikator, tetapi setiap indikator hanya menangkap sebagian dari konsep tersebut. Peneliti perlu menjelaskan alasan pemilihan indikator, cara pengukuran, dan kemungkinan bias. Pengukuran yang mudah belum tentu paling tepat.
+
+BAB PENDALAMAN: VALIDITAS, RELIABILITAS, DAN KUALITAS INSTRUMEN
+
+Validitas berkaitan dengan apakah instrumen benar-benar mendukung interpretasi yang ingin dibuat. Reliabilitas berkaitan dengan konsistensi pengukuran dalam kondisi yang sesuai. Instrumen dapat konsisten tetapi mengukur hal yang keliru. Sebaliknya, instrumen yang tepat secara konsep tetap perlu diperiksa apakah hasilnya stabil dan dapat dipahami responden.
+
+Uji coba instrumen membantu menemukan pertanyaan yang ambigu, pilihan jawaban yang tumpang tindih, atau urutan yang memengaruhi respons. Wawancara kognitif dapat meminta peserta menjelaskan bagaimana mereka memahami pertanyaan, tanpa menekan mereka untuk memberikan jawaban tertentu. Perubahan instrumen perlu didokumentasikan agar pembaca mengetahui versi yang digunakan.
+
+BAB PENDALAMAN: SAMPLING DAN KETERWAKILAN
+
+Populasi adalah keseluruhan unit yang menjadi sasaran kesimpulan, sedangkan sampel adalah bagian yang benar-benar diamati. Kerangka sampel menentukan siapa yang memiliki peluang terpilih. Jika kerangka tidak mencakup kelompok tertentu, hasil dapat mengalami bias cakupan. Tingkat respons rendah juga dapat menimbulkan bias apabila orang yang tidak merespons berbeda secara sistematis dari yang merespons.
+
+Sampling probabilitas memberi dasar untuk memperkirakan ketidakpastian statistik ketika prosedur dan asumsi terpenuhi. Sampling nonprobabilitas dapat berguna untuk eksplorasi atau kelompok yang sulit dijangkau, tetapi batas generalisasinya harus dinyatakan. Ukuran sampel yang besar tidak otomatis memperbaiki sampel yang berat sebelah. Kualitas proses pemilihan sering lebih penting daripada sekadar jumlah responden.
+
+BAB PENDALAMAN: ANALISIS KUALITATIF DAN JEJAK KEPUTUSAN
+
+Analisis kualitatif mengorganisasi bahan seperti wawancara, dokumen, dan catatan observasi untuk menemukan pola makna. Peneliti dapat memulai dengan membaca data secara menyeluruh, memberi kode pada bagian relevan, mengelompokkan kode menjadi tema, lalu memeriksa apakah tema didukung oleh bukti yang cukup. Tema tidak boleh hanya dipilih karena sesuai harapan peneliti.
+
+Refleksivitas berarti menyadari bagaimana posisi, pengalaman, dan asumsi peneliti dapat memengaruhi pengumpulan maupun interpretasi data. Catatan reflektif dan diskusi dengan peneliti lain dapat membantu menguji pembacaan alternatif. Kutipan peserta perlu dipilih secara hati-hati agar tidak mengungkap identitas. Jika konteks membuat seseorang mudah dikenali, detail harus disamarkan tanpa mengubah makna secara menyesatkan.
+
+BAB PENDALAMAN: INTEGRITAS, KETERBUKAAN, DAN REPRODUKSIBILITAS
+
+Integritas penelitian menuntut pencatatan metode dan hasil secara jujur. Data yang tidak mendukung hipotesis tetap perlu dilaporkan sesuai rancangan. Menghapus pengamatan tanpa alasan yang telah ditetapkan dapat mengubah kesimpulan. Jika terjadi kesalahan, peneliti perlu menjelaskan koreksi dan dampaknya terhadap hasil.
+
+Reproduksibilitas dibantu oleh protokol, definisi variabel, catatan perubahan, dan kode analisis yang terdokumentasi. Keterbukaan tidak berarti semua data harus dipublikasikan. Data pribadi, informasi rahasia, dan materi yang berisiko bagi peserta memerlukan perlindungan. Peneliti dapat membagikan data agregat, contoh sintetik, atau prosedur analisis agar metode dapat diperiksa tanpa membuka identitas.
+
+PROYEK MINI: RANCANGAN PENELITIAN LENGKAP
+
+Pilih pertanyaan sederhana yang dapat dijawab dengan data publik atau skenario hipotetis. Tulis tujuan, tinjauan pustaka tematik, kerangka konsep, definisi operasional, rancangan sampel, instrumen, prosedur analisis, risiko bias, dan rencana perlindungan data. Buat tabel yang menghubungkan setiap pertanyaan penelitian dengan data yang diperlukan dan metode analisis. Jika ada pertanyaan yang tidak dapat dijawab oleh data yang tersedia, nyatakan batas tersebut dan ubah rancangan sebelum pengumpulan data.
+

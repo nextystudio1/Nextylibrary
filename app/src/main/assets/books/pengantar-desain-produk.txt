@@ -229,3 +229,38 @@ LATIHAN PEMAHAMAN LANJUTAN
 3. Susun tiga indikator untuk menguji kemudahan penggunaan sebuah produk.
 4. Bandingkan dua bahan berdasarkan masa pakai, perawatan, dan akhir penggunaannya.
 5. Buat rencana iterasi desain berdasarkan satu temuan uji pengguna.
+
+BAB LANJUTAN: ERGONOMI DAN PENGUJIAN PENGGUNA
+
+Ergonomi mempelajari hubungan manusia dengan produk, tugas, dan lingkungan. Perancangan perlu mempertimbangkan variasi ukuran tubuh, kekuatan, jangkauan, kemampuan sensorik, pengalaman, dan konteks penggunaan. Mengandalkan satu ukuran rata-rata dapat membuat produk tidak nyaman atau tidak dapat digunakan oleh banyak orang.
+
+Data antropometri harus dipilih sesuai populasi dan tujuan. Persentil tertentu dapat digunakan untuk merancang jangkauan atau ruang bebas, tetapi tidak ada satu persentil yang cocok untuk semua dimensi. Perancang juga perlu memperhitungkan pakaian, alas kaki, alat bantu, postur, dan perubahan pengguna dari waktu ke waktu.
+
+Pengujian kegunaan mengamati apakah pengguna dapat menyelesaikan tugas secara efektif, efisien, dan dengan pengalaman yang dapat diterima. Tugas harus realistis dan tidak mengarahkan jawaban. Catat kesalahan, waktu penyelesaian, kebutuhan bantuan, dan komentar pengguna. Sampel kecil berguna untuk menemukan masalah awal, tetapi tidak cukup untuk mengklaim bahwa seluruh populasi akan memiliki pengalaman yang sama.
+
+BAB LANJUTAN: PEMILIHAN BAHAN DAN DESAIN UNTUK PERAKITAN
+
+Pemilihan bahan perlu menghubungkan fungsi, kekuatan, massa, biaya, ketersediaan, proses produksi, perawatan, dan akhir masa pakai. Bahan yang ringan dapat mengurangi energi transportasi, tetapi proses pembuatannya mungkin membutuhkan energi lebih besar. Bahan daur ulang dapat bermanfaat, tetapi kualitas dan jalur pengolahannya harus dipastikan.
+
+Desain untuk perakitan mempertimbangkan jumlah komponen, jenis sambungan, urutan kerja, kebutuhan alat, dan kemungkinan kesalahan. Komponen yang terlalu beragam meningkatkan kerumitan persediaan. Sebaliknya, standardisasi berlebihan dapat mengurangi kemampuan produk memenuhi kebutuhan khusus. Keputusan desain perlu diuji melalui prototipe dan masukan bagian produksi serta perawatan.
+
+Kemudahan perbaikan adalah bagian dari keberlanjutan. Produk yang komponennya dapat diganti secara terpisah berpotensi memiliki masa pakai lebih panjang. Informasi perawatan, ketersediaan suku cadang, dan cara pembongkaran yang aman perlu dipertimbangkan sejak tahap awal, bukan setelah produk selesai.
+
+BAB LANJUTAN: SIKLUS HIDUP DAN TANGGUNG JAWAB DESAIN
+
+Penilaian daur hidup memeriksa dampak dari pengambilan bahan, produksi, distribusi, penggunaan, hingga akhir masa pakai. Hasilnya bergantung pada batas sistem, sumber data, asumsi umur produk, dan skenario pembuangan. Klaim seperti “ramah lingkungan” perlu didukung indikator dan penjelasan, bukan hanya warna kemasan atau satu bahan yang dapat didaur ulang.
+
+Desain sirkular berusaha mempertahankan nilai bahan dan produk melalui daya tahan, perawatan, penggunaan ulang, perbaikan, pemulihan komponen, dan daur ulang. Strategi yang tepat bergantung pada jenis produk. Untuk perangkat elektronik, misalnya, pembaruan perangkat lunak dan ketersediaan suku cadang dapat sama pentingnya dengan bahan casing.
+
+Desain juga memiliki dimensi sosial. Produk harus mempertimbangkan keselamatan, aksesibilitas, privasi, kondisi pekerja dalam rantai pasok, dan potensi dampak yang tidak merata. Uji pengguna perlu menghormati persetujuan dan tidak mengeksploitasi pengalaman kelompok rentan.
+
+STUDI KASUS
+Tim merancang botol minum untuk kegiatan sekolah. Mereka membandingkan kebocoran, kemudahan dibersihkan, berat saat terisi, daya tahan tutup, ketersediaan suku cadang, dan kemudahan penggunaan. Mereka menguji prototipe dengan peserta yang beragam dan memperbaiki bagian yang sulit dibuka. Keputusan akhir dijelaskan melalui data uji, bukan hanya selera perancang.
+
+LATIHAN
+1. Mengapa ukuran rata-rata tidak cukup untuk desain inklusif?
+2. Apa perbedaan efektivitas dan efisiensi dalam uji kegunaan?
+3. Mengapa desain untuk perbaikan perlu dipikirkan sejak awal?
+4. Apa batasan klaim ramah lingkungan?
+5. Sebutkan dimensi sosial yang perlu dinilai dalam desain produk.
+

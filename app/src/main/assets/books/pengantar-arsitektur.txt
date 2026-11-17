@@ -240,3 +240,38 @@ LATIHAN PENDALAMAN
 3. Berikan contoh rute aksesibel yang terputus meskipun pintu masuk sudah lebar.
 4. Sebutkan empat metode evaluasi pascahuni.
 5. Mengapa perubahan ruang harus melibatkan pemeriksaan struktur dan keselamatan?
+
+BAB LANJUTAN: KENYAMANAN TERMAL DAN RESPONS IKLIM
+
+Kenyamanan termal dipengaruhi suhu udara, suhu permukaan, kelembapan, kecepatan udara, pakaian, aktivitas, dan kemampuan penghuni mengendalikan lingkungan. Karena itu, satu angka suhu tidak dapat menggambarkan pengalaman semua orang. Evaluasi ruang perlu menggabungkan pengukuran dan umpan balik pengguna.
+
+Orientasi bangunan memengaruhi paparan matahari dan kebutuhan peneduhan. Bentuk atap, ukuran bukaan, vegetasi, warna permukaan, dan tata ruang dapat membantu merespons iklim setempat. Strategi pasif sebaiknya dipertimbangkan sejak awal karena perubahan setelah bangunan selesai dapat lebih mahal dan kurang efektif.
+
+Ventilasi alami bergantung pada perbedaan tekanan, arah angin, ukuran serta posisi bukaan, dan hambatan di sekitar bangunan. Bukaan besar tidak otomatis menjamin udara segar mengalir ke seluruh ruang. Jalur masuk dan keluar udara harus dipahami, sementara kualitas udara luar juga perlu diperhatikan. Dalam kondisi tertentu, ventilasi mekanis dan penyaringan dapat diperlukan sesuai standar teknis.
+
+BAB LANJUTAN: STRUKTUR, BAHAN, DAN KOORDINASI DESAIN
+
+Bangunan harus menyalurkan beban dari elemen lantai dan atap melalui balok, kolom atau dinding struktural, fondasi, hingga tanah. Jalur beban perlu direncanakan secara konsisten. Perubahan bukaan, penghilangan elemen, atau penambahan beban dapat memengaruhi sistem struktur dan harus dinilai oleh tenaga profesional yang berwenang.
+
+Bahan bangunan memiliki karakteristik berbeda dalam kekuatan, berat, ketahanan terhadap kelembapan, api, korosi, dan perubahan suhu. Pemilihan tidak dapat didasarkan pada harga awal saja. Biaya siklus hidup mencakup pemasangan, perawatan, penggantian, dan pengelolaan akhir material.
+
+Koordinasi arsitektur, struktur, mekanikal, elektrikal, dan plumbing mengurangi konflik antarbagian. Ruang untuk saluran, akses perawatan, dan jalur evakuasi perlu diperhitungkan sejak tahap konsep. Model digital dapat membantu menemukan benturan, tetapi hasilnya tetap bergantung pada ketepatan data dan pemeriksaan manusia.
+
+BAB LANJUTAN: AKSESIBILITAS DAN EVALUASI PASCAHUNI
+
+Aksesibilitas merupakan kesinambungan perjalanan, bukan hanya keberadaan ramp atau pintu lebar. Jalur dari batas tapak, tempat turun kendaraan, pintu masuk, ruang utama, toilet, hingga pintu keluar harus dapat digunakan dengan aman. Perubahan elevasi, permukaan licin, pegangan, lebar jalur, kontras visual, dan informasi arah perlu diperiksa sebagai satu rangkaian.
+
+Evaluasi pascahuni mengumpulkan informasi setelah bangunan digunakan. Metodenya dapat mencakup observasi, wawancara, kuesioner, pengukuran lingkungan, dan pemeriksaan pola penggunaan ruang. Evaluasi mencari hubungan antara tujuan desain dan pengalaman nyata. Temuan harus diterjemahkan menjadi tindakan, misalnya memperbaiki peneduhan, orientasi petunjuk, atau pengaturan ruang bersama.
+
+Penghuni memiliki pengetahuan penting tentang rutinitas dan hambatan yang tidak selalu tampak pada gambar rancangan. Namun, pengalaman beberapa orang tidak otomatis mewakili semua pengguna. Gabungkan beberapa metode, jelaskan siapa yang terlibat, dan lindungi privasi responden.
+
+PROYEK
+Pilih ruang publik yang dapat diamati secara aman dan dengan izin bila diperlukan. Buat diagram perjalanan pengguna, catat kenyamanan cahaya dan udara, serta identifikasi hambatan akses. Jangan mengubah elemen bangunan atau menguji struktur. Susun rekomendasi konseptual dan tandai bagian yang memerlukan penilaian profesional.
+
+LATIHAN
+1. Mengapa kenyamanan termal tidak ditentukan suhu udara saja?
+2. Jelaskan jalur beban bangunan secara konseptual.
+3. Mengapa koordinasi lintas disiplin penting?
+4. Apa arti kesinambungan aksesibilitas?
+5. Bagaimana evaluasi pascahuni dapat memperbaiki rancangan berikutnya?
+

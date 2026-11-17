@@ -282,3 +282,36 @@ LATIHAN
 
 PROYEK
 Gunakan data kinetika enzim contoh yang disediakan guru atau sumber pendidikan terbuka. Buat grafik laju terhadap konsentrasi substrat, jelaskan pola kejenuhan, dan sebutkan keterbatasan model. Jangan melakukan eksperimen dengan bahan biologis atau kimia tanpa fasilitas dan pengawasan yang sesuai.
+
+BAB PENDALAMAN: METABOLISME DAN ALIRAN ENERGI
+
+Metabolisme merupakan keseluruhan reaksi kimia yang berlangsung dalam sel. Reaksi katabolik menguraikan molekul dan dapat melepaskan energi, sedangkan reaksi anabolik menyusun molekul yang lebih kompleks dengan kebutuhan energi. Kedua kelompok proses saling terhubung melalui pembawa energi dan perantara metabolik. Pemisahan ini berguna untuk belajar, tetapi di dalam sel jalurnya saling berinteraksi dan tidak berjalan sebagai rangkaian yang sepenuhnya terpisah.
+
+ATP sering disebut sebagai mata uang energi sel karena hidrolisisnya dapat digandengkan dengan proses yang memerlukan energi. ATP bukan tempat penyimpanan energi jangka panjang untuk seluruh organisme. Sel terus membentuk dan menggunakan ATP sesuai kebutuhan. NADH dan FADH2 membawa elektron berenergi tinggi menuju proses yang mendukung pembentukan ATP, sementara NADPH banyak digunakan dalam reaksi biosintesis dan perlindungan terhadap stres oksidatif.
+
+Glikolisis mengubah glukosa menjadi piruvat melalui serangkaian reaksi enzimatik. Nasib piruvat bergantung pada jenis sel dan ketersediaan oksigen serta kondisi metabolik. Pada respirasi aerob, karbon dari piruvat dapat memasuki jalur oksidasi lebih lanjut. Dalam kondisi tertentu, fermentasi membantu regenerasi NAD+ sehingga glikolisis dapat berlanjut. Fermentasi bukan sekadar proses yang terjadi ketika organisme kekurangan oksigen; beberapa sel dan mikroorganisme menggunakannya sesuai strategi metaboliknya.
+
+Siklus asam sitrat mengoksidasi gugus asetil dan menghasilkan pembawa elektron tereduksi. Rantai transpor elektron menggunakan aliran elektron untuk membangun gradien proton pada membran. Gradien tersebut kemudian dimanfaatkan ATP sintase. Hubungan antara struktur membran, gradien elektrokimia, dan sintesis ATP menunjukkan bahwa fungsi biokimia bergantung pada organisasi sel, bukan hanya daftar reaksi.
+
+BAB PENDALAMAN: REGULASI JALUR METABOLIK
+
+Jalur metabolik perlu diatur agar produksi dan penggunaan zat sesuai kebutuhan. Regulasi dapat terjadi melalui perubahan aktivitas enzim, jumlah enzim, ketersediaan substrat, lokasi reaksi, dan sinyal antarbagian sel. Inhibisi umpan balik terjadi ketika produk akhir suatu jalur mengurangi aktivitas tahap sebelumnya. Mekanisme ini membantu mencegah produksi berlebihan dan menghemat sumber daya.
+
+Regulasi alosterik terjadi ketika molekul pengatur berikatan pada lokasi selain sisi aktif dan mengubah aktivitas enzim. Modifikasi kovalen seperti fosforilasi dapat mengubah sifat protein. Perubahan ekspresi gen bekerja pada skala waktu lebih panjang dengan mengubah jumlah enzim yang tersedia. Ketiga mekanisme tersebut dapat bekerja bersama, sehingga perubahan metabolisme tidak selalu dapat dijelaskan oleh satu faktor.
+
+Hormon membantu koordinasi metabolisme antarjaringan. Sinyal hormon memengaruhi pengambilan nutrien, penyimpanan, dan mobilisasi cadangan energi. Respons sel bergantung pada reseptor dan jalur sinyal yang dimilikinya. Karena itu, satu hormon dapat menghasilkan efek berbeda pada jaringan yang berbeda. Pemahaman ini penting untuk membaca hubungan antara metabolisme, fisiologi, dan kesehatan tanpa menyederhanakan gangguan kompleks menjadi satu penyebab.
+
+BAB PENDALAMAN: MEMBRAN DAN TRANSPOR MOLEKUL
+
+Membran biologis tersusun terutama dari lapisan ganda lipid dengan protein yang menjalankan fungsi transportasi, pengenalan, dan komunikasi. Molekul kecil nonpolar dapat melewati lapisan lipid lebih mudah dibanding ion atau molekul polar besar. Kanal dan pembawa membantu perpindahan zat secara selektif. Transpor pasif mengikuti gradien elektrokimia, sedangkan transpor aktif menggunakan energi secara langsung atau tidak langsung.
+
+Gradien ion bukan hanya perbedaan konsentrasi, tetapi juga perbedaan muatan listrik. Keduanya membentuk potensial elektrokimia yang dapat dimanfaatkan untuk transpor dan komunikasi sel. Pompa ion menjaga gradien dengan menggunakan energi. Gangguan pada protein membran dapat memengaruhi keseimbangan air, sinyal listrik, dan fungsi jaringan.
+
+BAB PENDALAMAN: METODE DAN PENALARAN BIOKIMIA
+
+Pengukuran biokimia memerlukan kontrol dan pembanding. Blanko membantu memperkirakan sinyal latar, kontrol positif menunjukkan bahwa metode mampu mendeteksi hasil yang diharapkan, sedangkan kontrol negatif membantu mengenali sinyal yang tidak spesifik. Replikasi teknis menguji konsistensi pengukuran, sementara replikasi biologis menggambarkan variasi antarunit biologis. Keduanya menjawab pertanyaan berbeda.
+
+Kurva standar menghubungkan sinyal alat dengan konsentrasi zat yang diketahui. Rentang linear perlu diperiksa sebelum hasil sampel dihitung. Sampel di luar rentang tidak sebaiknya diekstrapolasi sembarangan. Pengenceran, pemulihan sampel, dan pengujian interferensi dapat membantu menilai apakah matriks sampel memengaruhi hasil.
+
+Korelasi antara dua molekul tidak membuktikan bahwa salah satunya menyebabkan perubahan yang lain. Kesimpulan mekanistik memerlukan rancangan yang dapat menguji hubungan sebab-akibat, pembanding yang sesuai, dan bukti dari beberapa pendekatan. Laporan yang baik menjelaskan metode, batas deteksi, ketidakpastian, serta data yang tidak sesuai dugaan. Sikap kritis tersebut merupakan bagian inti dari biokimia sebagai ilmu eksperimental.
+

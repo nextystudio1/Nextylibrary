@@ -40,6 +40,8 @@ Sudut terbentuk dari dua sinar yang bertemu pada satu titik. Sudut dapat dikelom
 
 BAB 4. KELILING DAN LUAS
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/geometri-bangun-datar.svg|Bentuk bangun datar dan contoh rumus luas]]
+
 Keliling mengukur panjang batas bangun, sedangkan luas mengukur besar daerah di dalamnya. Rumus luas harus dipilih sesuai bentuk. Untuk persegi panjang, luas adalah panjang dikalikan lebar; untuk segitiga, setengah hasil kali alas dan tinggi. Satuan luas menggunakan satuan panjang kuadrat.
 
 BAB 5. VOLUME DAN KAPASITAS

@@ -295,3 +295,53 @@ LATIHAN
 3. Mengapa penampilan normal tidak menjamin keamanan pangan?
 4. Apa fungsi ketertelusuran dalam sistem mutu?
 5. Mengapa klaim gizi harus mengikuti ketentuan dan bukti?
+
+BAB PENDALAMAN: MUTU, KEAMANAN, DAN SISTEM PANGAN
+
+Ilmu pangan menggabungkan kimia, biologi, fisika, gizi, rekayasa proses, dan ilmu sosial untuk memahami bahan pangan dari produksi hingga konsumsi. Mutu pangan mencakup karakteristik yang dirasakan konsumen, seperti rasa, aroma, warna, dan tekstur, serta karakteristik yang diukur, seperti komposisi, kestabilan, dan kesesuaian standar. Keamanan pangan berbeda dari mutu sensori: produk yang tampak menarik belum tentu aman, sementara perubahan penampilan tidak selalu berarti bahaya. Penilaian keamanan memerlukan prosedur dan bukti yang sesuai.
+
+KARAKTERISTIK BAHAN PANGAN
+
+Air dalam pangan memengaruhi tekstur, reaksi kimia, dan pertumbuhan mikroorganisme. Kadar air menyatakan jumlah air, sedangkan aktivitas air menggambarkan ketersediaan air untuk proses tertentu. Dua bahan dengan kadar air serupa dapat memiliki aktivitas air berbeda karena interaksi air dengan komponen bahan. Perbedaan ini penting dalam memahami kestabilan produk.
+
+Karbohidrat mencakup gula, pati, dan serat. Pati dapat mengalami gelatinisasi ketika dipanaskan bersama air, sehingga granula menyerap air dan mengubah kekentalan. Protein memiliki struktur yang dapat berubah akibat panas, keasaman, atau proses mekanis. Lemak berperan dalam tekstur dan cita rasa, tetapi dapat mengalami oksidasi yang memengaruhi aroma. Komponen pangan saling berinteraksi sehingga perubahan satu faktor dapat memengaruhi keseluruhan produk.
+
+EMULSI, BUSA, DAN GEL
+
+Emulsi merupakan sistem ketika satu cairan terdispersi sebagai tetesan dalam cairan lain yang tidak mudah bercampur. Stabilitasnya dipengaruhi ukuran tetesan, komposisi, dan kondisi penyimpanan. Busa terbentuk ketika gas terdispersi dalam cairan atau padatan. Gel memiliki jaringan yang menahan cairan dan memberi struktur. Ketiga sistem ini menjelaskan tekstur banyak produk, tetapi sifat akhirnya bergantung pada formulasi dan proses.
+
+Dalam pengembangan produk, pengamatan sensori perlu dilakukan secara terstruktur. Panelis harus memahami tugas, sampel diberi kode, dan urutan penyajian dikendalikan untuk mengurangi bias. Uji kesukaan menjawab penerimaan, sedangkan uji diskriminasi menilai apakah perbedaan dapat dikenali. Hasil keduanya tidak boleh ditafsirkan sebagai hal yang sama.
+
+KEAMANAN PANGAN DAN PENCEGAHAN BAHAYA
+
+Sistem keamanan pangan mengidentifikasi bahaya biologis, kimia, dan fisik pada setiap tahap rantai. Analisis bahaya menilai kemungkinan dan dampak, lalu menentukan tindakan pengendalian sesuai standar. Prinsip seperti kebersihan, pemisahan bahan mentah dan siap konsumsi, pengendalian suhu, serta ketertelusuran merupakan bagian dari sistem yang lebih luas. Pelaksanaan di industri harus mengikuti peraturan, pelatihan, dan prosedur resmi.
+
+Kontaminasi dapat terjadi pada bahan baku, proses, peralatan, penyimpanan, atau distribusi. Karena itu, keamanan tidak dapat dijamin hanya oleh satu pemeriksaan akhir. Pencegahan dan pemantauan sepanjang proses lebih kuat daripada mengandalkan penampilan produk. Konsumen juga perlu mengikuti informasi penyimpanan dan petunjuk pada label.
+
+KEMASAN DAN KETERTELUSURAN
+
+Kemasan melindungi pangan dari kerusakan fisik, paparan lingkungan, dan kehilangan mutu. Pemilihan bahan kemasan mempertimbangkan karakter produk, kondisi distribusi, kompatibilitas bahan, informasi label, serta pengelolaan setelah digunakan. Kemasan yang terlalu besar atau sulit dipisahkan dapat meningkatkan beban limbah. Sebaliknya, pengurangan kemasan tanpa mempertimbangkan perlindungan produk dapat meningkatkan kehilangan pangan.
+
+Ketertelusuran memungkinkan pelaku usaha menelusuri asal bahan, proses, dan distribusi suatu produk. Catatan batch, pemasok, tanggal proses, dan tujuan distribusi membantu investigasi ketika muncul masalah. Sistem yang baik memiliki data konsisten dan dapat diperiksa, dengan perlindungan informasi bisnis dan pribadi sesuai aturan.
+
+GIZI DAN KOMUNIKASI KONSUMEN
+
+Informasi gizi membantu konsumen memahami komposisi produk, tetapi angka pada label harus dibaca bersama ukuran sajian dan konteks pola makan. Klaim seperti “sumber serat” atau “rendah gula” harus mengikuti definisi dan ketentuan yang berlaku. Bahasa promosi tidak boleh memberi kesan bahwa satu produk dapat menggantikan pola makan seimbang atau menyembuhkan penyakit.
+
+Kebutuhan gizi berbeda menurut usia, aktivitas, kondisi kesehatan, dan faktor lain. Buku pengantar ini tidak menggantikan nasihat tenaga kesehatan. Pembaca dapat menggunakan prinsip umum literasi label: periksa ukuran sajian, daftar bahan, informasi alergen, tanggal, dan petunjuk penyimpanan. Jika memiliki kebutuhan medis khusus, rujuk tenaga kesehatan yang kompeten.
+
+SISTEM PANGAN BERKELANJUTAN
+
+Dampak pangan muncul dari penggunaan lahan, air, energi, transportasi, pengolahan, dan limbah. Penilaian daur hidup membandingkan dampak sepanjang tahapan dengan batas sistem yang jelas. Mengganti satu kemasan atau bahan belum tentu mengurangi dampak keseluruhan jika kebutuhan energi, kehilangan produk, atau transportasi meningkat. Analisis harus menyebutkan asumsi dan keterbatasan.
+
+Sistem pangan juga berkaitan dengan mata pencaharian petani, pekerja pengolahan, pedagang, dan akses konsumen. Ketahanan pangan memerlukan ketersediaan, keterjangkauan, keamanan, dan kestabilan. Kebijakan yang baik mempertimbangkan dampak bagi berbagai pelaku, bukan hanya efisiensi produksi.
+
+LATIHAN DAN PROYEK
+
+1. Apa perbedaan kadar air dan aktivitas air?
+2. Mengapa mutu sensori tidak sama dengan keamanan pangan?
+3. Jelaskan fungsi ketertelusuran dalam sistem pangan.
+4. Mengapa ukuran sajian penting ketika membaca label gizi?
+5. Mengapa analisis daur hidup memerlukan batas sistem?
+
+Proyek: bandingkan dua label pangan yang tersedia secara legal. Buat tabel bahan, ukuran sajian, informasi gizi, alergen, kemasan, dan petunjuk penyimpanan. Jangan membuat klaim medis; jelaskan apa yang dapat dan tidak dapat disimpulkan dari label.

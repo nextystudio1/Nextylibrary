@@ -339,3 +339,44 @@ Kreativitas pemecahan masalah bukan berarti menghasilkan gagasan sebanyak mungki
 
 Uji coba skala kecil dapat mengungkap kelemahan sebelum solusi diterapkan luas. Tentukan indikator keberhasilan, kondisi penghentian, serta cara mengumpulkan masukan. Hasil uji coba perlu ditafsirkan sesuai konteks; keberhasilan pada satu lokasi belum menjamin keberhasilan di tempat lain. Catat pelajaran, revisi rancangan, dan jelaskan alasan perubahan agar proses pembelajaran dapat diwariskan.
 
+BAB LANJUTAN: PENALARAN DI BAWAH KETIDAKPASTIAN
+
+Membedakan korelasi dan sebab-akibat
+
+Dua kejadian yang muncul bersamaan belum tentu memiliki hubungan sebab-akibat. Penjualan minuman dingin dan penggunaan pendingin ruangan, misalnya, dapat meningkat pada hari panas. Suhu menjadi faktor ketiga yang memengaruhi keduanya. Jika analis hanya melihat dua variabel pertama, ia dapat keliru menyatakan bahwa peningkatan penjualan menyebabkan penggunaan pendingin meningkat.
+
+Untuk menilai klaim kausal, tanyakan apakah penyebab terjadi lebih dahulu, apakah mekanisme yang masuk akal tersedia, apakah ada faktor pengganggu, dan apakah pola tetap terlihat pada kelompok atau periode lain. Eksperimen terkontrol dapat membantu, tetapi tidak selalu layak atau etis. Data observasional memerlukan kehati-hatian dan penjelasan batas kesimpulan.
+
+Penalaran probabilistik
+
+Pernyataan seperti “kemungkinan besar” sebaiknya didukung oleh dasar yang jelas. Probabilitas tidak sama dengan kepastian dan tidak selalu dapat dinilai hanya dari satu contoh. Jika suatu sistem memiliki tingkat kesalahan tertentu, hasil positif perlu ditafsirkan bersama peluang awal suatu kejadian. Dalam konteks pemeriksaan, misalnya, alat yang cukup akurat tetap dapat menghasilkan banyak hasil positif keliru apabila kejadian yang dicari sangat jarang.
+
+Pembaruan keyakinan dilakukan ketika bukti baru muncul. Seseorang dapat memulai dengan dugaan sementara, kemudian menaikkan atau menurunkan tingkat keyakinan sesuai kekuatan bukti. Bukti yang independen dan dapat diverifikasi biasanya lebih informatif daripada banyak pengulangan dari satu sumber yang sama. Menghitung ulang informasi salinan sebagai bukti terpisah akan memberi kesan dukungan yang berlebihan.
+
+Pohon keputusan dan nilai informasi
+
+Pohon keputusan menggambarkan pilihan, kemungkinan hasil, dan konsekuensi. Mulailah dari keputusan yang benar-benar harus dibuat. Cabang berikutnya menunjukkan pilihan yang tersedia, lalu kondisi yang mungkin terjadi. Berikan nilai atau rentang konsekuensi secara konsisten, termasuk biaya, waktu, dampak sosial, dan risiko yang sulit dipulihkan.
+
+Nilai informasi menjawab apakah pengumpulan data tambahan layak dilakukan. Informasi berguna jika berpeluang mengubah keputusan atau mengurangi kerugian secara berarti. Namun, pengumpulan data membutuhkan waktu dan biaya serta dapat menimbulkan risiko privasi. Tidak setiap ketidakpastian harus dihilangkan; kadang keputusan yang cukup baik perlu dibuat dengan informasi terbatas dan rencana untuk meninjau kembali hasilnya.
+
+Analisis sensitivitas
+
+Kesimpulan sering bergantung pada asumsi seperti harga, permintaan, durasi, atau tingkat keberhasilan. Analisis sensitivitas mengubah satu asumsi pada satu waktu untuk melihat seberapa besar hasil berubah. Setelah itu, beberapa asumsi dapat diuji bersama dalam skenario optimistis, dasar, dan pesimistis. Tujuannya bukan meramal secara sempurna, melainkan mengetahui faktor mana yang paling menentukan dan kapan keputusan perlu disesuaikan.
+
+Contoh: sekolah mempertimbangkan dua pilihan pengadaan perangkat belajar. Pilihan pertama lebih murah tetapi memerlukan perawatan lebih sering. Pilihan kedua lebih mahal dengan dukungan teknis lebih baik. Bandingkan biaya awal, biaya pemeliharaan, umur pakai, ketersediaan suku cadang, aksesibilitas, dan waktu perangkat tidak dapat digunakan. Jika hasil berubah drastis ketika satu asumsi kecil digeser, keputusan perlu disertai rencana cadangan.
+
+Kesalahan penalaran dalam diskusi
+
+Serangan terhadap pribadi tidak menjawab benar atau salahnya argumen. Dilema palsu menyajikan dua pilihan seolah tidak ada alternatif lain. Generalisasi tergesa-gesa menarik kesimpulan luas dari sampel kecil. Argumen berdasarkan popularitas menganggap sesuatu benar karena banyak orang mempercayainya. Kekeliruan sebab-akibat menyamakan urutan waktu dengan hubungan kausal.
+
+Cara menghindarinya bukan dengan menghafal nama kekeliruan saja. Tulis klaim utama, alasan pendukung, bukti, dan asumsi tersembunyi. Tanyakan contoh tandingan yang relevan. Berikan versi terkuat dari pandangan yang berbeda sebelum mengkritiknya. Jika argumen sendiri memiliki kelemahan, perbaiki secara terbuka.
+
+Protokol pemecahan masalah tim
+
+Tim dapat memulai dengan menyepakati definisi masalah dan batas kewenangan. Setiap anggota mengajukan observasi tanpa langsung menyalahkan individu. Fasilitator mengelompokkan penyebab, meminta bukti, dan menandai hal yang belum diketahui. Setelah beberapa alternatif dirancang, tim menetapkan kriteria keputusan dan mencatat alasan pemilihan.
+
+Rencana pelaksanaan harus memuat penanggung jawab, sumber daya, tenggat, indikator, serta cara eskalasi ketika asumsi tidak terpenuhi. Tinjauan setelah pelaksanaan membandingkan hasil dengan target dan mencari penjelasan, bukan kambing hitam. Catatan keputusan yang baik menyimpan alasan pada saat keputusan dibuat sehingga evaluasi tidak hanya dipengaruhi pengetahuan setelah kejadian.
+
+Latihan terpadu
+
+Ambil masalah antrean panjang di sebuah layanan sekolah. Ukur waktu tunggu pada beberapa hari dan jam, catat jumlah petugas serta jenis layanan, lalu rumuskan beberapa kemungkinan penyebab. Jangan langsung menganggap kekurangan petugas sebagai satu-satunya jawaban. Buat diagram sebab-akibat, pilih data tambahan yang paling bernilai, susun dua alternatif perbaikan, dan tetapkan indikator uji coba. Setelah uji coba, jelaskan apa yang dapat disimpulkan dan apa yang masih belum diketahui.

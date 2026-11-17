@@ -257,3 +257,42 @@ LATIHAN
 PROYEK
 Susun proposal penelitian kecil yang tidak melibatkan risiko atau pengumpulan data sensitif. Rumuskan pertanyaan, tinjauan konsep, desain, populasi, sampel, instrumen, rencana analisis, perlindungan data, dan keterbatasan. Minta guru atau pembimbing meninjau sebelum pengumpulan data.
 
+PENDALAMAN: VALIDITAS, ETIKA, DAN DESAIN PENELITIAN
+
+BAB: VALIDITAS PENGUKURAN DAN KUALITAS INSTRUMEN
+
+Instrumen penelitian harus mengukur konsep yang dimaksud. Validitas isi menilai apakah aspek penting konsep telah tercakup. Validitas konstruk memeriksa apakah pola hasil sesuai dengan teori yang mendasari konsep. Validitas kriteria membandingkan hasil dengan ukuran lain yang relevan. Tidak ada satu uji yang otomatis membuktikan instrumen sempurna untuk semua populasi dan konteks.
+
+Reliabilitas berkaitan dengan konsistensi hasil dalam kondisi yang sebanding. Instrumen dapat konsisten tetapi mengukur hal yang keliru. Sebaliknya, pengukuran terhadap fenomena yang berubah dapat menghasilkan variasi yang memang nyata. Peneliti harus menjelaskan kondisi pengukuran, pelatihan pencatat, dan cara menangani perbedaan penilaian.
+
+BAB: DESAIN SURVEI DAN KUALITAS PERTANYAAN
+
+Pertanyaan survei perlu jelas, tidak menggiring, dan hanya menanyakan satu gagasan utama pada satu waktu. Pilihan jawaban harus mencakup variasi yang masuk akal serta menyediakan pilihan “tidak tahu” atau “tidak ingin menjawab” bila sesuai. Urutan pertanyaan dapat memengaruhi jawaban; pertanyaan sensitif sebaiknya tidak ditempatkan tanpa pertimbangan.
+
+Uji coba instrumen membantu menemukan istilah yang membingungkan dan beban pengisian. Uji coba bukan sekadar menghitung waktu, tetapi juga menanyakan bagaimana responden memahami pertanyaan. Perubahan instrumen harus dicatat agar peneliti tidak mencampur hasil dari versi berbeda tanpa penjelasan.
+
+BAB: PENELITIAN KUALITATIF DAN REFLEKSIVITAS
+
+Penelitian kualitatif berupaya memahami makna dan proses dalam konteks. Wawancara mendalam, observasi, analisis dokumen, dan diskusi kelompok memiliki kelebihan serta keterbatasan. Pemilihan metode mengikuti pertanyaan, bukan tren. Peneliti perlu menjelaskan hubungan dengan peserta, cara membangun kepercayaan, dan bagaimana posisi mereka dapat memengaruhi data.
+
+Pengodean merupakan proses memberi label pada bagian data yang relevan. Kode dapat dikembangkan dari teori, data, atau gabungan keduanya. Tema tidak sekadar daftar kata yang sering muncul; tema menjelaskan pola makna yang berkaitan dengan pertanyaan. Kasus yang tidak sesuai pola perlu diperiksa karena dapat memperbaiki atau membatasi interpretasi.
+
+BAB: ETIKA PENELITIAN DAN PERLINDUNGAN PESERTA
+
+Persetujuan peserta harus diberikan secara sadar dan berdasarkan penjelasan yang dapat dipahami. Peserta perlu mengetahui tujuan, kegiatan, kemungkinan ketidaknyamanan, penggunaan data, dan hak untuk tidak menjawab atau berhenti sesuai ketentuan penelitian. Untuk peserta anak atau kelompok yang memerlukan perlindungan tambahan, ikuti aturan persetujuan dan pendampingan yang berlaku.
+
+Minimalkan data pribadi. Kumpulkan hanya informasi yang diperlukan, batasi akses, simpan dengan aman, dan tentukan kapan data akan dihapus sesuai rencana. Menghapus nama tidak selalu membuat data anonim; kombinasi usia, lokasi, dan peristiwa dapat mengidentifikasi seseorang. Publikasi perlu menilai ulang risiko identifikasi.
+
+BAB: MENAFSIRKAN HASIL TANPA MELAMPAUI BUKTI
+
+Penelitian observasional dapat menemukan hubungan, tetapi faktor perancu mungkin menjelaskan sebagian hubungan tersebut. Penelitian eksperimental dapat mendukung kesimpulan kausal jika pengacakan, pelaksanaan, dan pengukuran berjalan baik, tetapi tetap memiliki batas populasi serta konteks. Peneliti perlu membedakan signifikansi statistik, besar efek, dan arti praktis.
+
+Hasil negatif atau tidak pasti tetap bernilai. Tidak menemukan bukti hubungan bukan berarti membuktikan tidak ada hubungan dalam semua keadaan. Laporkan ketidakpastian, ukuran sampel, keterbatasan pengukuran, dan kemungkinan bias. Jangan mengubah hipotesis setelah melihat data lalu menyajikannya seolah-olah telah ditentukan sejak awal.
+
+PROYEK
+
+Susun rancangan penelitian berbasis dokumen publik atau skenario hipotetis. Tentukan pertanyaan, konsep, variabel atau fokus, sumber data, metode, risiko etis, dan batas kesimpulan. Buat tabel yang menghubungkan setiap pertanyaan penelitian dengan data yang diperlukan dan cara analisis. Minta pembimbing memeriksa rancangan sebelum penelitian nyata dilakukan.
+
+PERTANYAAN
+
+Apa perbedaan validitas dan reliabilitas? Bagaimana pertanyaan menggiring memengaruhi survei? Mengapa kasus yang berbeda penting dalam analisis kualitatif? Apa yang membuat persetujuan peserta bermakna? Mengapa hasil observasional perlu ditafsirkan hati-hati?

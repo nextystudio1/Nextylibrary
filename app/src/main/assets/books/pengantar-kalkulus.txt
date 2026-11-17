@@ -262,3 +262,34 @@ LATIHAN BAB
 3. Apa sumber galat pemotongan pada pendekatan numerik?
 4. Mengapa langkah numerik yang sangat kecil tidak selalu terbaik?
 5. Sebutkan tiga cara memeriksa hasil simulasi numerik.
+
+BAB LANJUTAN: INTEGRAL SEBAGAI AKUMULASI
+
+Integral tentu mengukur akumulasi suatu besaran sepanjang interval. Jika laju perubahan diketahui, integral dapat digunakan untuk menghitung perubahan total. Misalnya, jika kecepatan sebuah benda diketahui sebagai fungsi waktu, integral kecepatan terhadap waktu memberikan perpindahan. Jika yang diperlukan adalah jarak tempuh, tanda kecepatan perlu diperhatikan karena perpindahan dan jarak total merupakan konsep berbeda.
+
+Secara geometris, integral tentu dapat dipahami sebagai luas bertanda di antara grafik dan sumbu horizontal. Daerah di bawah sumbu memberi kontribusi negatif. Karena itu, luas geometris total tidak selalu sama dengan nilai integral. Jika fungsi berubah tanda, interval dapat dibagi pada titik potong agar setiap bagian ditafsirkan dengan benar.
+
+Jumlah Riemann membangun pendekatan integral dengan membagi interval menjadi bagian kecil, memilih tinggi pada setiap bagian, lalu menjumlahkan luas persegi panjang. Pilihan titik kiri, kanan, atau titik tengah menghasilkan pendekatan berbeda. Ketika lebar partisi menuju nol dan fungsi memenuhi syarat integrabilitas, pendekatan tersebut menuju nilai integral. Gagasan ini menghubungkan proses penjumlahan diskret dengan akumulasi kontinu.
+
+Teorema dasar kalkulus menghubungkan diferensiasi dan integrasi. Jika fungsi akumulasi didefinisikan sebagai integral dari fungsi kontinu, turunannya mengembalikan fungsi yang diakumulasikan. Sebaliknya, integral tentu dapat dihitung menggunakan antiturunan. Hubungan ini membuat dua operasi yang tampak berbeda menjadi pasangan matematis yang saling terkait.
+
+TEKNIK INTEGRASI DAN PEMILIHAN METODE
+
+Substitusi digunakan ketika integran memuat fungsi dan turunannya dalam bentuk yang sesuai. Perubahan variabel menyederhanakan bentuk integral, tetapi batas juga harus diubah jika integral tentu dikerjakan langsung dalam variabel baru. Kesalahan umum adalah mengganti sebagian ekspresi namun lupa mengganti diferensial atau batas.
+
+Integrasi parsial berasal dari aturan turunan hasil kali. Metode ini berguna untuk hasil kali fungsi, misalnya polinomial dengan eksponensial atau logaritma. Pemilihan bagian yang diturunkan dan yang diintegralkan memengaruhi tingkat kesulitan. Tidak semua bentuk hasil kali cocok untuk metode ini; penyederhanaan yang dihasilkan perlu diperiksa sebelum melanjutkan.
+
+Integral tak wajar muncul ketika batas interval tak hingga atau fungsi tidak terbatas pada suatu titik. Nilainya didefinisikan melalui limit. Integral tersebut dapat konvergen atau divergen. Keberadaan simbol integral tidak menjamin nilainya hingga; perilaku fungsi di dekat titik bermasalah atau jauh pada ekor interval harus dianalisis.
+
+APLIKASI DAN PEMERIKSAAN DIMENSI
+
+Dalam model pertumbuhan, integral laju pertumbuhan dapat menghasilkan perubahan jumlah populasi atau besaran lain. Model harus menyatakan asumsi, misalnya apakah laju bergantung pada jumlah saat ini, sumber daya, atau faktor lingkungan. Hasil matematis tidak otomatis menjadi ramalan realistis jika asumsi tidak sesuai kondisi.
+
+Dalam fisika, integral gaya terhadap perpindahan berkaitan dengan usaha, sedangkan integral daya terhadap waktu berkaitan dengan energi. Satuan dapat menjadi pemeriksaan penting: gaya dikalikan jarak menghasilkan satuan energi. Jika hasil perhitungan memiliki satuan yang tidak sesuai, kemungkinan ada kesalahan dalam model atau manipulasi aljabar.
+
+LATIHAN BAB
+1. Jelaskan perbedaan perpindahan dan jarak total dalam konteks integral kecepatan.
+2. Mengapa integral tentu disebut luas bertanda?
+3. Kapan substitusi membantu menyederhanakan integral?
+4. Mengapa integral tak wajar harus dianalisis menggunakan limit?
+5. Gunakan analisis satuan untuk menjelaskan hubungan daya, waktu, dan energi.

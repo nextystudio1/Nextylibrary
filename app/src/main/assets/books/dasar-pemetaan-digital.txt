@@ -244,3 +244,46 @@ Buat peta fasilitas belajar di suatu wilayah menggunakan data yang boleh digunak
 LATIHAN DAN PEMBAHASAN
 Mengapa banyak angka desimal tidak menjamin ketelitian? Karena ketelitian ditentukan oleh metode dan sumber, bukan format angka. Mengapa data kosong tidak boleh langsung dianggap nol? Karena kosong dapat berarti belum diketahui. Mengapa rute terpendek belum tentu paling sesuai? Karena keselamatan, aksesibilitas, kondisi jaringan, dan biaya perlu dipertimbangkan.
 
+PENDALAMAN PEMETAAN DIGITAL: KARTOGRAFI, PENGINDERAAN JAUH, DAN ETIKA
+
+BAB LANJUTAN: PRINSIP KARTOGRAFI DAN KOMUNIKASI PETA
+
+Peta merupakan bentuk komunikasi yang menyederhanakan kenyataan. Penyederhanaan diperlukan karena tidak semua objek dapat ditampilkan pada satu lembar atau layar. Pemilihan skala, simbol, warna, klasifikasi, dan label memengaruhi pesan yang diterima pembaca. Peta yang baik bukan peta yang memuat informasi sebanyak mungkin, melainkan peta yang menjawab pertanyaan dengan jelas tanpa menyembunyikan keterbatasan.
+
+Skala menentukan tingkat rincian yang masuk akal. Data yang dikumpulkan pada skala lokal tidak selalu tepat untuk ditampilkan sebagai gambaran rinci wilayah yang jauh lebih luas. Sebaliknya, peta berskala kecil dapat menggeneralisasi objek agar tetap terbaca. Pembaca perlu memeriksa skala numerik, skala grafis, resolusi data, dan tanggal pembaruan.
+
+Klasifikasi warna dapat mengubah persepsi. Jika kelas data dibuat dengan interval yang tidak seimbang, perbedaan kecil dapat terlihat besar atau sebaliknya. Metode interval sama, kuantil, dan jeda alami memiliki kegunaan berbeda. Pilih metode berdasarkan distribusi data dan tujuan komunikasi, lalu tulis metode klasifikasi pada keterangan peta. Hindari penggunaan warna yang menyulitkan pembaca dengan gangguan persepsi warna; pola, label, atau perbedaan bentuk dapat menjadi pelengkap.
+
+BAB LANJUTAN: PENGINDERAAN JAUH DAN CITRA
+
+Penginderaan jauh memperoleh informasi permukaan bumi tanpa kontak langsung, umumnya melalui sensor pada satelit, pesawat, atau wahana lain. Sensor pasif merekam energi yang dipantulkan atau dipancarkan, sedangkan sensor aktif memancarkan energi dan merekam responsnya. Setiap sensor memiliki resolusi spasial, spektral, temporal, dan radiometrik yang berbeda.
+
+Resolusi spasial berkaitan dengan ukuran area yang direpresentasikan satu piksel. Resolusi spektral menunjukkan kemampuan membedakan rentang panjang gelombang. Resolusi temporal berkaitan dengan frekuensi pengamatan, sedangkan resolusi radiometrik berkaitan dengan kemampuan membedakan tingkat energi. Memilih citra harus mengikuti objek dan proses yang ingin dipelajari. Perubahan tutupan lahan musiman, misalnya, membutuhkan perhatian pada tanggal perekaman dan kondisi cuaca.
+
+Klasifikasi citra dapat dilakukan secara visual atau dengan metode komputasi. Hasil klasifikasi harus diuji menggunakan data acuan yang sesuai dan tidak sekadar dinilai dari tampilan yang meyakinkan. Sampel uji perlu mewakili kelas serta wilayah. Kesalahan komisi dan omisi menunjukkan jenis kekeliruan yang berbeda. Laporan sebaiknya menyajikan matriks kesalahan dan menjelaskan keterbatasan data acuan.
+
+BAB LANJUTAN: SISTEM INFORMASI GEOGRAFIS UNTUK KEPUTUSAN
+
+Sistem informasi geografis menggabungkan data lokasi dan atribut untuk menjawab pertanyaan keruangan. Analisis tumpang susun dapat membandingkan beberapa lapisan, tetapi hasilnya bergantung pada definisi dan kualitas setiap lapisan. Sebelum melakukan operasi, samakan sistem koordinat, periksa geometri, dan pastikan batas analisis sesuai pertanyaan.
+
+Analisis kedekatan dapat mengukur objek dalam jarak tertentu, tetapi jarak lurus tidak selalu menggambarkan perjalanan nyata. Untuk layanan publik, jaringan jalan, penghalang, waktu tempuh, dan moda perjalanan perlu dipertimbangkan. Analisis kepadatan dapat menunjukkan konsentrasi fenomena, tetapi hasil dipengaruhi ukuran wilayah dan parameter yang dipilih. Jelaskan parameter agar hasil dapat diulang.
+
+Peta risiko menggabungkan informasi bahaya, paparan, dan kerentanan. Jangan menyamakan peta bahaya dengan prediksi pasti tentang siapa yang akan terdampak. Data penduduk dan fasilitas dapat berubah, sementara model memiliki asumsi. Peta perlu dilengkapi tanggal, sumber, metode, dan pernyataan ketidakpastian.
+
+BAB LANJUTAN: ETIKA, PRIVASI, DAN KETERBUKAAN DATA
+
+Data lokasi dapat mengungkap lebih banyak daripada yang terlihat. Titik rumah, rute rutin, lokasi fasilitas sensitif, atau kombinasi atribut dapat mengidentifikasi seseorang. Sebelum memublikasikan peta, periksa apakah tingkat rincian benar-benar diperlukan. Agregasi wilayah, pengaburan posisi, dan penghapusan atribut dapat mengurangi risiko, tetapi tidak selalu menjamin anonimitas.
+
+Data terbuka perlu memperhatikan lisensi, atribusi, batas penggunaan, dan ketentuan pembaruan. Cantumkan sumber pada peta dan dokumentasi proyek. Jangan menghapus tanda kepemilikan atau menganggap data yang dapat diunduh bebas digunakan untuk semua tujuan. Untuk data warga, persetujuan dan penjelasan tujuan pengumpulan menjadi bagian penting.
+
+PROYEK TERPADU
+
+Rancang peta akses fasilitas belajar dengan data yang sah digunakan. Catat sumber, tanggal, sistem koordinat, skala, dan metode. Bandingkan jarak lurus dengan waktu tempuh jaringan jika data mendukung. Uji beberapa titik secara manual, periksa kelas legenda, dan tuliskan ketidakpastian. Gunakan agregasi yang melindungi lokasi pribadi.
+
+LATIHAN
+
+1. Bagaimana skala memengaruhi tingkat rincian peta?
+2. Bedakan empat jenis resolusi pada citra penginderaan jauh.
+3. Mengapa hasil klasifikasi citra perlu diuji dengan data acuan?
+4. Mengapa jarak lurus dapat menyesatkan dalam analisis akses?
+5. Sebutkan tiga risiko privasi dalam publikasi data spasial.

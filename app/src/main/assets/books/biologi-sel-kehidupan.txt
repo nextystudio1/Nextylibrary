@@ -317,7 +317,7 @@ Buat diagram alur DNA ke RNA ke protein. Jelaskan peran transkripsi, translasi, 
 RANGKUMAN
 Ekspresi gen menghubungkan informasi DNA dengan fungsi sel. Regulasi memungkinkan sel memiliki peran berbeda, sementara bioteknologi menuntut penilaian etis dan ilmiah.
 
-BAB PEMBELAHAN SEL DAN PEWARISAN
+BAB PENDALAMAN — PEMBELAHAN SEL DAN PEWARISAN
 Sel membelah untuk pertumbuhan, perbaikan, dan reproduksi. Mitosis menghasilkan dua sel anak yang secara umum memiliki informasi genetik sama dengan sel induk, sedangkan meiosis menghasilkan sel kelamin dengan jumlah kromosom setengah dari sel asal. Meiosis juga menghasilkan variasi melalui pindah silang dan pengacakan kromosom.
 
 KROMOSOM DAN GEN

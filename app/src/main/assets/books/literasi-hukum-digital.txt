@@ -129,19 +129,19 @@ Catat kronologi, simpan bukti secara aman, gunakan fitur pelaporan, dan minta ba
 LATIHAN
 Buat daftar data yang dibagikan sebuah aplikasi hipotetis. Kelompokkan data yang benar-benar diperlukan, data opsional, dan data yang sebaiknya tidak dikumpulkan. Jelaskan alasan serta cara memberi penjelasan yang mudah dipahami pengguna.
 
-BAB 8. KONTRAK DIGITAL DAN KEABSAHAN PERSETUJUAN
+BAB PENDALAMAN — KONTRAK DIGITAL DAN KEABSAHAN PERSETUJUAN
 
 Aktivitas digital dapat melibatkan persetujuan atas syarat layanan, pembelian, langganan, atau penggunaan data. Keberadaan tombol “setuju” tidak dengan sendirinya menjawab semua persoalan hukum. Penilaian dapat bergantung pada identitas para pihak, kecakapan, kewenangan, kejelasan informasi, kehendak bebas, objek perjanjian, dan ketentuan hukum yang berlaku.
 
 Pengguna sebaiknya membaca ringkasan biaya, durasi, perpanjangan otomatis, pembatalan, pengembalian dana, serta cara menghubungi penyedia. Penyedia layanan perlu menyampaikan syarat dengan bahasa yang mudah dipahami dan tidak menyembunyikan ketentuan penting. Untuk anak dan remaja, aturan mengenai persetujuan orang tua atau wali dapat berlaku bergantung pada jenis layanan dan yurisdiksi.
 
-BAB 9. KONSUMEN, TRANSAKSI, DAN PENYELESAIAN SENGKETA
+BAB PENDALAMAN — KONSUMEN, TRANSAKSI, DAN PENYELESAIAN SENGKETA
 
 Transaksi elektronik memiliki risiko seperti barang tidak sesuai deskripsi, pembayaran ganda, penipuan, layanan tidak diberikan, atau langganan yang sulit dihentikan. Simpan bukti transaksi, deskripsi produk, komunikasi, dan nomor pengaduan secara aman. Jangan membagikan kode autentikasi atau kata sandi ketika mengajukan keluhan.
 
 Langkah penyelesaian dapat dimulai dari kanal resmi penyedia, dilanjutkan mekanisme pengaduan konsumen atau lembaga berwenang sesuai jenis masalah. Prosedur, batas waktu, dan lembaga yang tepat dapat berbeda. Hindari mengunggah seluruh bukti yang memuat alamat, nomor identitas, atau data keuangan ke ruang publik.
 
-BAB 10. DATA PRIBADI DAN TANGGUNG JAWAB PENGENDALI
+BAB PENDALAMAN — DATA PRIBADI DAN TANGGUNG JAWAB PENGENDALI
 
 Data pribadi adalah informasi yang dapat mengidentifikasi seseorang secara langsung atau melalui penggabungan dengan informasi lain. Pengumpulan data seharusnya memiliki tujuan yang jelas, dasar pemrosesan yang sah, dan batas penyimpanan. Prinsip minimisasi berarti hanya mengumpulkan data yang diperlukan untuk tujuan yang dijelaskan.
 

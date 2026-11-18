@@ -177,7 +177,7 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa istilah migrasi iklim perlu hati-hati? Perpindahan biasanya memiliki banyak penyebab yang saling terkait.
 4. Apa manfaat pengetahuan lokal? Memberi konteks pengalaman dan perubahan yang mungkin tidak tertangkap data formal.
 5. Mengapa intervensi perlu memeriksa dampak tidak langsung? Agar solusi tidak memindahkan atau memperbesar masalah bagi kelompok lain.
-BAB 14. EKOLOGI POLITIK DAN DISTRIBUSI DAMPAK
+BAB PENDALAMAN — EKOLOGI POLITIK DAN DISTRIBUSI DAMPAK
 
 Ekologi manusia mempelajari hubungan manusia dengan lingkungan melalui proses biologis, sosial, ekonomi, budaya, dan politik. Ekologi politik menambahkan pertanyaan tentang siapa yang mengendalikan sumber daya, siapa yang memperoleh manfaat, dan siapa yang menanggung risiko. Dua kelompok yang tinggal di wilayah sama dapat memiliki akses air, ruang hijau, perlindungan bencana, dan layanan lingkungan yang berbeda.
 
@@ -185,7 +185,7 @@ Analisis distribusi tidak cukup membandingkan rata-rata wilayah. Perlu diperhati
 
 Kebijakan lingkungan dapat menghasilkan dampak yang tidak direncanakan. Penataan kawasan dapat memperbaiki ruang publik tetapi meningkatkan biaya sewa. Pembangunan tanggul dapat melindungi satu kawasan dan mengubah aliran air ke tempat lain. Evaluasi harus melihat skala ruang dan waktu yang cukup luas.
 
-BAB 15. KOTA, MOBILITAS, DAN KESEHATAN LINGKUNGAN
+BAB PENDALAMAN — KOTA, MOBILITAS, DAN KESEHATAN LINGKUNGAN
 
 Bentuk kota memengaruhi cara orang bergerak, mengakses pekerjaan, memperoleh layanan, dan berinteraksi. Jarak, kepadatan, campuran fungsi, kualitas trotoar, keselamatan jalan, dan keterjangkauan angkutan umum memengaruhi pilihan perjalanan. Ketergantungan pada kendaraan pribadi dapat meningkatkan kebutuhan ruang jalan dan parkir, sementara kelompok yang tidak dapat mengemudi menghadapi hambatan akses.
 
@@ -193,7 +193,7 @@ Kualitas udara dipengaruhi emisi transportasi, industri, pembakaran, kondisi met
 
 Kebisingan merupakan paparan lingkungan lain yang dapat mengganggu tidur, belajar, dan kenyamanan. Pemetaan kebisingan perlu mempertimbangkan waktu dan jenis sumber. Ruang hijau dapat memberi manfaat pendinginan dan rekreasi, tetapi distribusi dan kualitas aksesnya perlu dinilai, bukan hanya jumlah total taman.
 
-BAB 16. AIR, SANITASI, DAN KETAHANAN KOMUNITAS
+BAB PENDALAMAN — AIR, SANITASI, DAN KETAHANAN KOMUNITAS
 
 Akses air aman bergantung pada sumber, pengolahan, distribusi, keterjangkauan, dan keandalan. Ketersediaan fisik tidak sama dengan akses nyata jika biaya tinggi atau layanan sering terputus. Rumah tangga dapat mengeluarkan waktu dan tenaga tambahan untuk memperoleh air, yang berdampak pada kegiatan belajar dan pekerjaan.
 
@@ -201,7 +201,7 @@ Sanitasi terkait erat dengan kesehatan lingkungan dan kualitas air. Sistem setem
 
 Ketahanan komunitas juga ditentukan jaringan sosial dan kepercayaan. Ketika banjir, kekeringan, atau gangguan layanan terjadi, informasi dan bantuan sering mengalir melalui hubungan antarwarga. Namun jangan mengandalkan solidaritas informal sebagai pengganti tanggung jawab pemerintah dan penyedia layanan.
 
-BAB 17. PERUBAHAN IKLIM, ADAPTASI, DAN KERENTANAN SOSIAL
+BAB PENDALAMAN — PERUBAHAN IKLIM, ADAPTASI, DAN KERENTANAN SOSIAL
 
 Risiko iklim merupakan hasil interaksi bahaya, paparan, dan kerentanan. Bahaya dapat berupa gelombang panas, hujan ekstrem, kenaikan muka laut, atau kekeringan. Paparan menunjukkan manusia dan aset yang berada di lokasi terdampak. Kerentanan dipengaruhi kualitas rumah, kesehatan, pendapatan, akses informasi, dan kemampuan melakukan pemulihan.
 

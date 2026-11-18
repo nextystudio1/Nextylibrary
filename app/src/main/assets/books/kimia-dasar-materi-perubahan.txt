@@ -101,6 +101,8 @@ BAB 15 — IKATAN KIMIA DAN BENTUK MOLEKUL
 Ikatan ion terbentuk melalui interaksi elektrostatik antara ion, sedangkan ikatan kovalen melibatkan pemakaian pasangan elektron bersama. Ikatan logam menjelaskan banyak sifat logam seperti konduktivitas dan kemampuan ditempa.
 Bentuk molekul dipengaruhi susunan pasangan elektron. Bentuk dan polaritas molekul memengaruhi titik didih, kelarutan, dan interaksi antarmolekul. Rumus struktur memberi informasi yang tidak tampak dari rumus molekul saja.
 BAB 16 — MOL DAN STOIKIOMETRI
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/alur-stoikiometri.svg|Urutan umum perhitungan stoikiometri dari persamaan setara hingga hasil teoritis.]]
 Mol menghubungkan jumlah partikel dengan besaran makroskopis. Massa molar digunakan untuk mengubah massa menjadi jumlah mol. Persamaan reaksi setara menunjukkan perbandingan jumlah zat yang bereaksi dan terbentuk.
 Dalam perhitungan stoikiometri, tentukan reaktan pembatas, yaitu zat yang habis lebih dahulu menurut perbandingan reaksi. Hasil teoritis berbeda dari hasil aktual karena reaksi dapat tidak sempurna, terjadi reaksi samping, atau ada kehilangan saat pemisahan.
 BAB 17 — ASAM, BASA, DAN KESETIMBANGAN

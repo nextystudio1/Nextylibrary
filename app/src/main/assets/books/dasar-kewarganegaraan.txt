@@ -185,7 +185,7 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa kewenangan lembaga perlu diperiksa? Agar aspirasi dan pengaduan diarahkan pada pihak yang tepat.
 4. Apa perbedaan kesetaraan formal dan substantif? Kesetaraan substantif memperhatikan hambatan nyata yang berbeda.
 5. Mengapa penalaran publik harus membedakan fakta dan tafsir? Agar kesimpulan dapat diperiksa dan tidak melebih-lebihkan bukti.
-BAB 14. KONSTITUSI, HAK, DAN PEMBATASAN KEKUASAAN
+BAB PENDALAMAN — KONSTITUSI, HAK, DAN PEMBATASAN KEKUASAAN
 
 Konstitusi merupakan kerangka dasar yang mengatur organisasi kekuasaan, hubungan lembaga negara, hak warga, dan prinsip penyelenggaraan pemerintahan. Konstitusi tertulis tidak bekerja sendiri; pelaksanaannya dipengaruhi undang-undang, putusan pengadilan, kebiasaan kelembagaan, budaya politik, dan partisipasi masyarakat.
 
@@ -193,7 +193,7 @@ Pembatasan kekuasaan bertujuan mencegah keputusan sewenang-wenang. Pembagian kew
 
 Hak asasi memiliki dimensi sipil, politik, ekonomi, sosial, dan budaya. Dalam penerapannya, hak dapat memiliki aturan pembatasan yang harus memiliki dasar hukum dan memenuhi prinsip yang berlaku. Analisis harus membedakan pembatasan yang sah dari tindakan diskriminatif atau sewenang-wenang. Penjelasan tentang hak perlu merujuk pada konstitusi dan peraturan yang berlaku, bukan sekadar pendapat pribadi.
 
-BAB 15. PEMERINTAHAN DAERAH DAN LAYANAN PUBLIK
+BAB PENDALAMAN — PEMERINTAHAN DAERAH DAN LAYANAN PUBLIK
 
 Pemerintahan daerah menjalankan kewenangan sesuai pembagian urusan yang ditetapkan peraturan. Layanan pendidikan, kesehatan, transportasi, administrasi, dan infrastruktur melibatkan lembaga dengan tanggung jawab berbeda. Sebelum menyampaikan pengaduan, warga perlu memeriksa instansi yang berwenang dan saluran resmi yang tersedia.
 
@@ -201,7 +201,7 @@ Kualitas layanan publik dapat dinilai dari akses, ketepatan waktu, kejelasan pro
 
 Partisipasi warga dapat berlangsung melalui konsultasi, musyawarah, forum layanan, pengawasan anggaran, pengaduan, dan pemantauan kebijakan. Partisipasi bermakna membutuhkan informasi yang dapat dipahami, kesempatan yang adil, dan tanggapan dari lembaga. Mengundang warga tanpa menjelaskan bagaimana masukan dipertimbangkan dapat menghasilkan partisipasi semu.
 
-BAB 16. LITERASI ANGGARAN DAN AKUNTABILITAS
+BAB PENDALAMAN — LITERASI ANGGARAN DAN AKUNTABILITAS
 
 Anggaran publik menunjukkan prioritas dan pilihan pemerintah. Membaca anggaran memerlukan pemahaman tentang sumber pendapatan, belanja, program, keluaran, dan hasil. Besarnya alokasi tidak otomatis berarti program berhasil. Perlu ditelusuri apakah dana digunakan sesuai tujuan dan apakah layanan benar-benar diterima kelompok sasaran.
 

@@ -184,7 +184,7 @@ LATIHAN DAN PEMBAHASAN
 3. Bedakan kohesi dan koherensi. Kohesi adalah penanda hubungan tekstual; koherensi adalah keterpaduan makna.
 4. Mengapa frekuensi korpus bukan ukuran kebenaran bahasa? Frekuensi dipengaruhi jenis dan cakupan data, bukan penilaian normatif.
 5. Sebutkan dua tantangan sistem bahasa otomatis. Konteks, ironi, dialek, bahasa campuran, dan bias data.
-BAB 14. VARIASI BAHASA, DIALEK, DAN SIKAP SOSIAL
+BAB PENDALAMAN — VARIASI BAHASA, DIALEK, DAN SIKAP SOSIAL
 
 Bahasa tidak digunakan dalam ruang sosial yang netral. Penutur menyesuaikan pilihan kata, pelafalan, dan gaya berdasarkan lawan bicara, tujuan, tempat, serta hubungan sosial. Variasi dapat muncul menurut wilayah, kelompok usia, pekerjaan, komunitas, dan situasi formal atau santai. Perbedaan tersebut merupakan objek kajian linguistik, bukan bukti bahwa satu kelompok lebih cerdas daripada kelompok lain.
 
@@ -192,7 +192,7 @@ Dialek dapat memiliki pola bunyi, kosakata, dan tata bahasa yang sistematis. Lab
 
 Alih kode terjadi ketika penutur berpindah bahasa atau varietas dalam percakapan. Campur kode dapat melibatkan unsur dari lebih dari satu bahasa dalam satu tuturan. Fenomena ini dapat menunjukkan identitas, kedekatan, efisiensi, atau penyesuaian terhadap topik. Analisis harus melihat konteks percakapan, bukan langsung menyebutnya sebagai kerusakan bahasa.
 
-BAB 15. PRAGMATIK, KESANTUNAN, DAN KONTEKS
+BAB PENDALAMAN — PRAGMATIK, KESANTUNAN, DAN KONTEKS
 
 Makna tuturan tidak hanya berasal dari arti kata. Pragmatik mempelajari bagaimana konteks membantu pendengar menafsirkan maksud. Kalimat “Di sini panas sekali” dapat menjadi pernyataan suhu, keluhan, atau permintaan tidak langsung untuk membuka jendela, bergantung pada situasi.
 
@@ -200,7 +200,7 @@ Tindak tutur dapat dibedakan secara konseptual menjadi tindakan mengucapkan kali
 
 Kesantunan bukan daftar ungkapan yang berlaku sama di semua komunitas. Bentuk sapaan, jarak sosial, tingkat langsung, dan pilihan bahasa dapat berbeda. Penelitian harus memperhatikan perspektif peserta dan menghindari anggapan bahwa satu norma budaya mewakili seluruh penutur.
 
-BAB 16. WACANA, IDENTITAS, DAN KUASA
+BAB PENDALAMAN — WACANA, IDENTITAS, DAN KUASA
 
 Analisis wacana memeriksa bagaimana bahasa membentuk hubungan antargagasan, identitas, dan kekuasaan. Pilihan kata dalam berita, kebijakan, iklan, atau percakapan dapat menonjolkan satu sudut pandang dan mengaburkan sudut pandang lain. Analisis tidak cukup hanya mencari kata tertentu; konteks produksi, audiens, genre, dan struktur teks juga perlu diperiksa.
 

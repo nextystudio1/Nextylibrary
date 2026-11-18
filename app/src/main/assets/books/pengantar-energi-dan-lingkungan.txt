@@ -8,6 +8,10 @@ Mengkaji sumber energi, efisiensi, emisi, penyimpanan, jaringan, dan transisi en
 PETA BELAJAR
 Pelajari Energi dan Lingkungan secara bertahap: pahami istilah, ikuti proses yang dijelaskan, lalu uji konsep pada contoh yang sesuai. Catat hubungan antarbab dan tandai bagian yang memerlukan data, perhitungan, atau sumber tambahan.
 
+PENGANTAR
+Energi menopang kegiatan rumah tangga, transportasi, industri, dan layanan publik. Namun, setiap pilihan energi memiliki konsekuensi terhadap lingkungan, penggunaan sumber daya, kesehatan, dan pemerataan akses. Buku ini membahas hubungan tersebut melalui konsep dasar energi, dampak lingkungan, efisiensi, teknologi, dan kebijakan. Pembaca diajak membedakan data, asumsi, dan penilaian, serta memahami bahwa keputusan energi perlu mempertimbangkan kondisi lokal dan bukti yang dapat diperiksa.
+
+
 BAB 1. ENERGI DAN TRANSFORMASI
 
 Energi adalah kemampuan untuk melakukan kerja atau menyebabkan perubahan. Energi dapat berpindah dan berubah bentuk, misalnya dari energi kimia menjadi panas atau listrik. Dalam setiap proses nyata, sebagian energi menyebar sebagai panas sehingga efisiensi menjadi pertimbangan penting dalam desain sistem.

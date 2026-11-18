@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="t d">
+<title id="t">Alur memeriksa informasi digital</title><desc id="d">Lima langkah memeriksa sumber, tanggal, bukti, pembanding, dan konteks sebelum membagikan informasi.</desc>
+<rect width="900" height="560" rx="28" fill="#f7f9fc"/>
+<text x="450" y="58" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#172b4d">PERIKSA SEBELUM MEMBAGIKAN</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="70" y="115" width="220" height="105" rx="18" fill="#dceafe" stroke="#3975b9" stroke-width="3"/>
+<text x="180" y="154" font-size="23" font-weight="700" fill="#17385e">1. SUMBER</text><text x="180" y="187" font-size="17" fill="#294866">Siapa penerbitnya?</text>
+<rect x="340" y="115" width="220" height="105" rx="18" fill="#dcf4e9" stroke="#29966a" stroke-width="3"/>
+<text x="450" y="154" font-size="23" font-weight="700" fill="#174d3a">2. TANGGAL</text><text x="450" y="187" font-size="17" fill="#285c48">Kapan diterbitkan?</text>
+<rect x="610" y="115" width="220" height="105" rx="18" fill="#fcebd7" stroke="#c78332" stroke-width="3"/>
+<text x="720" y="154" font-size="23" font-weight="700" fill="#70451b">3. BUKTI</text><text x="720" y="187" font-size="17" fill="#76552f">Apa data pendukungnya?</text>
+<path d="M180 220 V270 H450 V305 M450 220 V305 M720 220 V270 H450" fill="none" stroke="#65758b" stroke-width="4" stroke-linecap="round"/>
+<rect x="230" y="305" width="440" height="92" rx="18" fill="#e8eaf0" stroke="#65758b" stroke-width="3"/>
+<text x="450" y="343" font-size="24" font-weight="700" fill="#26364d">4. BANDINGKAN</text><text x="450" y="374" font-size="18" fill="#43536a">Cari konfirmasi dari sumber independen</text>
+<path d="M450 397 V430" stroke="#65758b" stroke-width="4"/>
+<rect x="230" y="430" width="440" height="78" rx="18" fill="#183b66"/>
+<text x="450" y="463" font-size="23" font-weight="700" fill="#fff">5. PUTUSKAN</text><text x="450" y="489" font-size="17" fill="#fff">Jika belum terverifikasi, jangan teruskan sebagai fakta</text>
+</g></svg>

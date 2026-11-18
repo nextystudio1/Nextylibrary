@@ -180,7 +180,7 @@ LATIHAN DAN PEMBAHASAN
 3. Apa perbedaan hasil dan pembahasan dalam laporan? Hasil menyajikan temuan; pembahasan menafsirkan dan mengaitkannya.
 4. Mengapa penyuntingan dilakukan berlapis? Agar masalah struktur dan isi diperbaiki sebelum detail bahasa.
 5. Apa yang membuat bahasa sederhana tetap akurat? Istilah dijelaskan, batas klaim dijaga, dan bukti tidak dihilangkan.
-BAB 14. MENYUSUN PARAGRAF DAN ALUR GAGASAN
+BAB PENDALAMAN — MENYUSUN PARAGRAF DAN ALUR GAGASAN
 
 Paragraf yang baik mengembangkan satu gagasan utama dengan dukungan yang relevan. Kalimat topik dapat dinyatakan secara langsung atau dibangun melalui beberapa kalimat, tetapi pembaca harus dapat mengenali fokusnya. Kalimat penjelas memberi definisi, alasan, contoh, data, atau uraian proses. Kalimat penutup dapat merangkum hubungan atau mengantar ke gagasan berikutnya.
 
@@ -188,7 +188,7 @@ Kesatuan paragraf terganggu ketika beberapa gagasan yang tidak berhubungan dimas
 
 Panjang paragraf bergantung pada fungsi dan kompleksitas gagasan. Paragraf sangat panjang dapat dipecah ketika berpindah subtopik, bukti, atau tahap penjelasan. Paragraf sangat pendek dapat dipertahankan untuk penekanan, tetapi penggunaan berlebihan membuat tulisan terasa terputus. Bacalah draf dengan memperhatikan alur informasi, bukan hanya jumlah kalimat.
 
-BAB 15. MENULIS DEFINISI, PERBANDINGAN, DAN PROSES
+BAB PENDALAMAN — MENULIS DEFINISI, PERBANDINGAN, DAN PROSES
 
 Definisi menjelaskan makna istilah dalam konteks tertentu. Definisi operasional menyebut bagaimana konsep dikenali atau diukur dalam suatu tulisan. Hindari definisi melingkar yang hanya mengulang istilah. Jika istilah memiliki beberapa penggunaan, nyatakan batas penggunaan yang dipilih.
 
@@ -196,13 +196,13 @@ Perbandingan harus menggunakan dasar yang setara. Membandingkan dua kebijakan, m
 
 Tulisan proses perlu menyusun tahapan dalam urutan yang dapat diikuti. Bedakan langkah wajib, pilihan, dan peringatan. Jika proses bergantung pada kondisi tertentu, nyatakan cabangnya. Dalam topik berisiko, jangan menyederhanakan petunjuk sehingga pembaca mengabaikan pengawasan atau standar keselamatan.
 
-BAB 16. MENYUSUN ARGUMEN DAN MENANGANI SANGGAHAN
+BAB PENDALAMAN — MENYUSUN ARGUMEN DAN MENANGANI SANGGAHAN
 
 Argumen terdiri dari klaim, alasan, dan bukti. Klaim menjawab pertanyaan yang dibahas. Alasan menjelaskan hubungan antara bukti dan klaim. Bukti dapat berupa data, dokumen, hasil penelitian, atau contoh yang relevan. Sumber harus cukup kuat untuk mendukung tingkat kepastian yang dinyatakan.
 
 Sanggahan bukan sekadar pendapat yang berbeda. Pilih keberatan yang benar-benar relevan, jelaskan mengapa pembaca mungkin menerimanya, lalu jawab dengan bukti atau pembatasan klaim. Jika sanggahan kuat, penulis dapat mempersempit kesimpulan. Mengakui batas argumen sering meningkatkan kepercayaan pembaca.
 
-BAB 17. PENYUNTINGAN, GAYA, DAN AKSESIBILITAS
+BAB PENDALAMAN — PENYUNTINGAN, GAYA, DAN AKSESIBILITAS
 
 Penyuntingan substantif memeriksa tujuan, struktur, kelengkapan, dan ketepatan. Penyuntingan kalimat memperbaiki kejelasan, konsistensi istilah, dan hubungan antargagasan. Pemeriksaan akhir menilai ejaan, tanda baca, angka, nama, kutipan, dan format. Urutan ini menghemat waktu karena memperbaiki kalimat sebelum struktur berubah dapat menyebabkan pekerjaan berulang.
 

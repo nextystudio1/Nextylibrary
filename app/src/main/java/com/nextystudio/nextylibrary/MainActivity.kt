@@ -751,6 +751,31 @@ private fun BookDetail(book: Book, categoryName: String?, onBack: () -> Unit, on
 }
 
 
+private fun addDefaultBookIllustration(content: String, title: String): String {
+    if (content.contains("[[NEXTY_IMAGE|")) return content
+    val name = title.lowercase()
+    val asset = when {
+        listOf("astronomi", "tata surya", "planet").any { name.contains(it) } -> "tata-surya.svg"
+        listOf("biologi", "sel", "genetika", "mikrobiologi", "biokimia").any { name.contains(it) } -> "struktur-sel.svg"
+        listOf("fisika", "gerak", "gelombang", "bunyi", "cahaya").any { name.contains(it) } -> "grafik-gerak-waktu.svg"
+        listOf("kimia", "molekul", "materi").any { name.contains(it) } -> "struktur-atom.svg"
+        listOf("ekologi", "iklim", "lingkungan", "keanekaragaman").any { name.contains(it) } -> "siklus-karbon.svg"
+        listOf("geografi", "pemetaan", "kota", "transportasi", "oseanografi", "geologi").any { name.contains(it) } -> "peta-gis.svg"
+        listOf("matematika", "statistika", "kalkulus", "aljabar", "geometri").any { name.contains(it) } -> "grafik-statistika.svg"
+        listOf("ekonomi", "keuangan", "akuntansi", "bisnis", "kewirausahaan").any { name.contains(it) } -> "persamaan-akuntansi.svg"
+        listOf("robotika", "elektronika", "pemrograman", "komputer", "kecerdasan buatan", "siber", "digital").any { name.contains(it) } -> "alur-pembelajaran-mesin.svg"
+        listOf("arsitektur", "desain", "fotografi", "visual").any { name.contains(it) } -> "komposisi-fotografi.svg"
+        listOf("gizi", "pangan", "pertanian").any { name.contains(it) } -> "piring-gizi-seimbang.svg"
+        listOf("sejarah", "kewarganegaraan", "hukum", "kebijakan").any { name.contains(it) } -> "pembagian-kekuasaan-negara.svg"
+        listOf("komunikasi", "jurnalistik", "media", "informasi").any { name.contains(it) } -> "alur-verifikasi-informasi.svg"
+        listOf("belajar", "pendidikan", "psikologi").any { name.contains(it) } -> "siklus-mendengar-aktif.svg"
+        listOf("penelitian", "metode", "ilmiah").any { name.contains(it) } -> "alur-penelitian.svg"
+        listOf("laut", "maritim").any { name.contains(it) } -> "arus-laut.svg"
+        else -> "alur-penelitian.svg"
+    }
+    return "[[NEXTY_IMAGE|file:///android_asset/illustrations/$asset|Ilustrasi konsep untuk buku $title]]\\n\\n$content"
+}
+
 private data class ReaderSection(val heading: String?, val paragraphs: List<String>)
 
 private fun prepareReaderSections(raw: String, title: String): List<ReaderSection> {
@@ -759,7 +784,7 @@ private fun prepareReaderSections(raw: String, title: String): List<ReaderSectio
     text = text.replace(Regex("(?im)^\\s*\\*{3}\\s*START OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*\\n?"), "")
         .replace(Regex("(?im)^\\s*\\*{3}\\s*END OF (?:THE|THIS) PROJECT GUTENBERG EBOOK[^\\n]*[\\s\\S]*$"), "")
         .replace(Regex("(?is)\\[illustration:.*?\\]"), "")
-        .replace(Regex("(?m)^\\s*\\[.*?\\]\\s*$"), "")
+        .replace(Regex("(?m)^\\s*\\[(?!\\[NEXTY_IMAGE\\|).*?\\]\\s*$"), "")
     val titleWords = title.split(Regex("\\s+")).filter { it.length > 2 }
     val titleMatch = titleWords.firstOrNull()?.let { Regex(Regex.escape(it), RegexOption.IGNORE_CASE).find(text) }
     if (titleMatch != null && titleMatch.range.first > 0) text = text.substring(titleMatch.range.first)
@@ -847,13 +872,14 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
             if (source.lowercase().substringBefore('?').endsWith(".pdf") || source.startsWith("pdf://") || source.contains("format=pdf", true)) {
                 throw IllegalStateException("Buku ini belum memiliki naskah teks yang dapat dibaca langsung di NextyLibrary.")
             }
-            body = withContext(Dispatchers.IO) {
+            val loadedText = withContext(Dispatchers.IO) {
                 if (source.startsWith("asset://")) {
                     context.assets.open(source.removePrefix("asset://")).bufferedReader(Charsets.UTF_8).use { it.readText() }
                 } else {
                     fetchPublicBookText(source)
                 }
             }
+            body = addDefaultBookIllustration(loadedText, book.title)
         } catch (e: Exception) {
             error = e.localizedMessage ?: "Buku gagal dimuat. Periksa koneksi internet."
         } finally { loading = false }

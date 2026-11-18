@@ -382,3 +382,111 @@ Redaksi juga perlu meninjau proses: apakah sumber terlalu sedikit, apakah dokume
 Proyek latihan liputan
 
 Pilih isu layanan publik yang dapat diamati tanpa membahayakan siapa pun. Susun pertanyaan, kumpulkan dokumen terbuka, wawancarai beberapa pihak dengan posisi berbeda, dan verifikasi satu klaim utama melalui sumber independen. Buat naskah yang memisahkan fakta, tanggapan, dan hal yang belum terjawab. Minta pembaca lain memeriksa apakah judul, angka, kutipan, dan konteks benar-benar didukung bukti.
+
+LAB PRAKTIK REDAKSI: DARI KLAIM MENJADI BERITA
+
+Seluruh contoh pada bagian ini merupakan simulasi pembelajaran. Jangan menggunakan nama, foto, alamat, atau informasi pribadi orang nyata tanpa dasar dan izin yang sesuai. Tujuan latihan adalah membangun kebiasaan memeriksa bukti, bukan mengejar sensasi.
+
+KASUS 1. MEMERIKSA KLAIM YANG BEREDAR
+
+Sebuah pesan menyatakan bahwa perpustakaan sekolah akan ditutup mulai pekan depan. Pesan itu tidak mencantumkan dokumen, tanggal pengumuman, atau nama pihak yang bertanggung jawab.
+
+Langkah pemeriksaan:
+1. Catat klaim secara tepat. Jangan mengubah “akan ditutup” menjadi “sudah ditutup”.
+2. Cari sumber awal pesan dan waktu pertama kali pesan beredar.
+3. Periksa pengumuman resmi atau dokumen yang relevan.
+4. Hubungi pihak yang berwenang melalui saluran yang dapat dipastikan.
+5. Minta tanggapan dari pihak yang terdampak jika berita memang memiliki dasar.
+6. Bandingkan keterangan dengan dokumen dan catat perbedaan.
+7. Jika bukti belum cukup, jangan menerbitkan klaim sebagai fakta.
+
+Hasil pemeriksaan harus membedakan tiga keadaan: terkonfirmasi, terbantahkan, dan belum dapat dipastikan. “Belum dapat dipastikan” bukan berarti klaim pasti salah. Itu berarti bukti yang tersedia belum cukup untuk menyimpulkan.
+
+KASUS 2. MEMERIKSA FOTO DAN VIDEO
+
+Sebuah foto bangunan rusak dibagikan dengan keterangan bahwa kerusakan terjadi hari ini di suatu kota. Foto saja belum memastikan tempat, waktu, atau penyebabnya.
+
+Periksa konteks melalui beberapa jalur yang saling melengkapi: cari publikasi paling awal yang dapat ditemukan, bandingkan ciri lokasi dengan sumber tepercaya, periksa apakah ada keterangan waktu yang dapat diuji, dan hubungi pihak yang memiliki pengetahuan langsung. Metadata dapat membantu, tetapi dapat hilang atau berubah sehingga tidak boleh menjadi satu-satunya dasar.
+
+Jangan menyimpulkan lokasi hanya dari kemiripan bangunan. Jangan menuduh pembuat atau penyebar melakukan penipuan tanpa bukti. Jika asal-usul visual belum jelas, tulis secara terbuka bahwa konteksnya belum terverifikasi dan jangan gunakan gambar sebagai bukti kejadian yang diklaim.
+
+KASUS 3. MENULIS TERAS BERITA YANG PROPORSIONAL
+
+Catatan simulasi: panitia sekolah mengumumkan bahwa pameran karya siswa akan berlangsung pada Jumat di aula sekolah. Pengumuman menyebutkan ada 24 stan. Belum ada informasi jumlah pengunjung atau dampak kegiatan.
+
+Judul yang berlebihan: “Pameran Terbesar Sepanjang Masa Pecahkan Rekor!”
+Masalah: kata “terbesar” dan “pecahkan rekor” membutuhkan data pembanding yang belum tersedia.
+
+Judul yang lebih tepat: “Pameran Karya Siswa Dijadwalkan Berlangsung Jumat”.
+Teras berita: “Pameran karya siswa dijadwalkan berlangsung Jumat di aula sekolah dengan 24 stan, menurut pengumuman panitia.”
+
+Teras tersebut menyebutkan informasi yang sudah tersedia dan mengatribusikan sumbernya. Reporter masih perlu memeriksa waktu kegiatan, akses pengunjung, susunan acara, dan apakah jadwal berubah sebelum berita diterbitkan.
+
+KASUS 4. MENYUSUN PERTANYAAN TANPA MENGGIRING
+
+Pertanyaan menggiring: “Mengapa fasilitas yang buruk ini dibiarkan?”
+Masalah: pertanyaan tersebut menganggap fasilitas buruk dan menganggap pihak tertentu sengaja membiarkannya.
+
+Pertanyaan terbuka yang lebih netral:
+- Bagaimana kondisi fasilitas menurut pengamatan Anda?
+- Sejak kapan masalah tersebut diketahui?
+- Apakah sudah ada laporan atau tindak lanjut?
+- Dokumen apa yang dapat membantu memeriksa informasi ini?
+- Apa tanggapan pihak yang bertanggung jawab?
+- Perubahan apa yang sudah dilakukan atau direncanakan?
+
+Pertanyaan lanjutan harus mengikuti jawaban, bukan memaksa narasumber menerima kesimpulan reporter. Jika ada klaim yang bertentangan, catat perbedaan dan cari bukti tambahan.
+
+KASUS 5. MEMBUAT KOREKSI YANG BERTANGGUNG JAWAB
+
+Misalkan berita menyebutkan kegiatan berlangsung pada Kamis, padahal dokumen panitia menunjukkan Jumat. Koreksi perlu mudah ditemukan dan menyebutkan informasi yang salah serta penggantinya.
+
+Contoh catatan: “Koreksi: versi awal berita ini menyebut kegiatan berlangsung Kamis. Berdasarkan jadwal resmi panitia, kegiatan berlangsung Jumat. Informasi telah diperbarui.”
+
+Jangan mengubah kesalahan secara diam-diam jika perubahan itu mengubah fakta penting. Jika kesalahan berdampak pada pemahaman pembaca, jelaskan dengan cukup rinci. Simpan catatan perubahan agar redaksi dapat meninjau prosesnya.
+
+DAFTAR PERIKSA SEBELUM BERITA DITERBITKAN
+
+- Apakah setiap klaim faktual memiliki sumber yang dapat ditelusuri?
+- Apakah sumber utama dan sumber pendukung dibedakan?
+- Apakah tanggal, lokasi, angka, nama, dan jabatan telah diperiksa?
+- Apakah kutipan sesuai dengan catatan dan tidak mengubah maksud?
+- Apakah pihak yang mendapat kritik telah diberi kesempatan menanggapi secara wajar?
+- Apakah judul sebanding dengan bukti dalam isi?
+- Apakah fakta, dugaan, opini, dan analisis diberi batas yang jelas?
+- Apakah informasi pribadi yang tidak relevan sudah dihilangkan?
+- Apakah foto, video, dan grafik memiliki konteks serta keterangan yang benar?
+- Apakah redaksi memiliki cara memperbaiki berita jika ditemukan kesalahan?
+
+LEMBAR KERJA LIPUTAN MINI
+
+Topik: informasi layanan atau fasilitas umum yang dapat diamati secara terbuka.
+
+A. Pertanyaan liputan
+Tuliskan satu pertanyaan utama yang dapat dijawab dengan bukti. Hindari pertanyaan yang sudah mengandung tuduhan atau kesimpulan.
+
+B. Peta sumber
+Catat dokumen resmi, pihak yang bertanggung jawab, orang yang terdampak, dan sumber independen yang relevan. Jelaskan kontribusi masing-masing sumber.
+
+C. Rencana verifikasi
+Untuk setiap klaim penting, tulis bukti yang dibutuhkan, cara memeriksanya, dan batas informasi yang masih belum diketahui.
+
+D. Perlindungan
+Jangan mengumpulkan identitas yang tidak diperlukan. Jangan merekam atau memotret orang secara mengganggu. Ikuti aturan lokasi dan minta persetujuan ketika diperlukan.
+
+E. Penulisan
+Susun judul, teras, uraian fakta, konteks, tanggapan, dan keterbatasan. Pastikan setiap paragraf memiliki fungsi yang jelas.
+
+F. Penyuntingan
+Minta pembaca lain memeriksa apakah isi mudah dipahami, apakah judul sesuai, dan apakah ada klaim yang belum memiliki dukungan.
+
+RUBRIK EVALUASI PROYEK
+
+Ketepatan fakta: klaim dapat ditelusuri dan angka serta waktu konsisten.
+Kualitas verifikasi: sumber dibandingkan dan keterbatasan bukti dijelaskan.
+Keadilan: pihak terkait diberi ruang tanggapan dan bahasa tidak menghakimi.
+Kejelasan penulisan: judul, teras, urutan informasi, dan konteks mudah dipahami.
+Etika: privasi, keselamatan, persetujuan, dan martabat narasumber dijaga.
+Transparansi: ketidakpastian dan koreksi disampaikan secara terbuka.
+
+Refleksi akhir: tuliskan satu hal yang semula dianggap pasti tetapi ternyata masih memerlukan pemeriksaan. Jelaskan bukti apa yang mengubah pemahaman dan bagaimana hal itu memengaruhi keputusan untuk menerbitkan berita.

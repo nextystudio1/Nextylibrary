@@ -19,6 +19,7 @@ Sebelum meneruskan pesan yang membuat marah atau takut, berhenti sejenak dan per
 Empati digital berarti mengingat bahwa akun di layar mewakili manusia nyata dengan perasaan, hak, dan keadaan yang berbeda.
 
 BAB 3 — LITERASI INFORMASI DAN MISINFORMASI
+[[NEXTY_IMAGE|file:///android_asset/illustrations/alur-verifikasi-informasi.svg|Lima langkah memeriksa sumber, tanggal, bukti, pembanding, dan konteks sebelum membagikan informasi.]]
 Informasi daring berasal dari sumber yang kualitasnya beragam. Periksa siapa penerbitnya, siapa penulisnya, kapan diterbitkan, bukti apa yang diberikan, dan apakah sumber lain yang tepercaya mengonfirmasi.
 Judul sensasional tidak selalu mencerminkan isi. Foto atau video dapat dipotong, diberi keterangan keliru, atau berasal dari kejadian berbeda. Cari konteks asli sebelum menyimpulkan.
 Misinformasi adalah informasi keliru yang disebarkan tanpa harus ada niat menipu. Disinformasi dibuat atau disebarkan dengan maksud menyesatkan. Keduanya dapat merugikan masyarakat.

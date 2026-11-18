@@ -131,19 +131,19 @@ LATIHAN TERAPAN
 4. Mengapa indikator harus dipilih sesuai rentang perubahan pH?
 5. Sebutkan dua faktor selain pH yang dapat memengaruhi kualitas air.
 
-BAB 12. KESETIMBANGAN KIMIA DAN PRINSIP LE CHATELIER
+BAB PENDALAMAN — KESETIMBANGAN KIMIA DAN PRINSIP LE CHATELIER
 
 Kesetimbangan kimia terjadi ketika laju reaksi maju dan balik sama sehingga komposisi makroskopis tidak berubah terhadap waktu. Kesetimbangan bersifat dinamis, bukan berarti reaksi berhenti. Tetapan kesetimbangan menyatakan hubungan konsentrasi atau tekanan parsial pada keadaan setimbang sesuai persamaan reaksi.
 
 Perubahan konsentrasi, tekanan, atau suhu dapat menggeser posisi kesetimbangan. Prinsip Le Chatelier membantu memperkirakan arah respons sistem, tetapi tidak menentukan seberapa cepat sistem mencapai keadaan baru. Katalis mempercepat tercapainya kesetimbangan tanpa mengubah nilai tetapan kesetimbangan pada suhu yang sama.
 
-BAB 13. ASAM-BASA DAN SISTEM PENYANGGA
+BAB PENDALAMAN — ASAM-BASA DAN SISTEM PENYANGGA
 
 Asam dan basa dapat dijelaskan melalui beberapa teori. Dalam konsep Brønsted-Lowry, asam mendonorkan proton dan basa menerima proton. Kekuatan asam berkaitan dengan kecenderungan melepaskan proton dalam pelarut tertentu. Nilai pH merupakan ukuran logaritmik aktivitas ion hidrogen dalam pendekatan yang sesuai.
 
 Larutan penyangga mengurangi perubahan pH ketika sejumlah kecil asam atau basa ditambahkan. Sistem penyangga terdiri dari pasangan asam lemah dan basa konjugat atau sebaliknya. Kapasitas penyangga terbatas; penambahan berlebihan dapat mengubah pH secara signifikan. Sistem biologis dan lingkungan menggunakan penyangga untuk menjaga kondisi kimia.
 
-BAB 14. TITRASI DAN ANALISIS KUANTITATIF
+BAB PENDALAMAN — TITRASI DAN ANALISIS KUANTITATIF
 
 Titrasi mengukur konsentrasi larutan melalui reaksi dengan larutan standar. Titik ekuivalen terjadi ketika jumlah zat bereaksi sesuai perbandingan stoikiometri, sedangkan titik akhir ditentukan melalui perubahan indikator atau sinyal instrumen. Keduanya berdekatan jika metode dan indikator dipilih dengan tepat, tetapi tidak selalu identik.
 

@@ -87,7 +87,7 @@ Pengendalian risiko dapat dilakukan dengan menghilangkan sumber bahaya, menggant
 BAB 9. KESIAPSIAGAAN DAN KOMUNIKASI RISIKO
 Kesiapsiagaan mencakup rencana, pelatihan, jalur komunikasi, perlengkapan, dan pembagian peran. Informasi risiko perlu jelas, tepat waktu, dan tidak menimbulkan kepanikan. Pesan harus menyebut apa yang diketahui, apa yang belum diketahui, tindakan yang disarankan oleh otoritas berwenang, dan kapan informasi diperbarui. Gunakan sumber resmi untuk peringatan bencana dan keselamatan. Simulasi dapat membantu menguji apakah prosedur dipahami, tetapi harus dirancang aman dan diawasi. Setelah latihan, lakukan evaluasi untuk memperbaiki bagian yang membingungkan.
 
-BAB 10. PEMANTAUAN DAN PEMBELAJARAN
+BAB 10. PENDALAMAN: PEMANTAUAN DAN PEMBELAJARAN
 Risiko berubah ketika teknologi, lingkungan, kebiasaan, atau kondisi organisasi berubah. Daftar risiko perlu ditinjau berkala dan setelah kejadian penting. Indikator awal dapat memberi sinyal perubahan sebelum dampak besar terjadi. Catatan insiden dan kejadian nyaris celaka membantu menemukan kelemahan sistem tanpa mencari kambing hitam. Analisis setelah kejadian berfokus pada fakta, keputusan, komunikasi, dan faktor sistemik. Pembelajaran harus diterjemahkan menjadi tindakan yang memiliki penanggung jawab dan tenggat. Jika tidak, laporan evaluasi hanya menjadi dokumen tanpa perubahan.
 
 STUDI KASUS

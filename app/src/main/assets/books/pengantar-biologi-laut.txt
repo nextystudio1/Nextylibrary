@@ -35,6 +35,8 @@ Plankton adalah organisme yang pergerakannya banyak dipengaruhi arus. Fitoplankt
 
 BAB 3. HABITAT PESISIR
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/zona-kehidupan-laut.svg|Gambaran zona habitat laut dari pesisir dangkal hingga laut terbuka]]
+
 Mangrove, padang lamun, estuari, dan terumbu karang menyediakan habitat serta layanan ekosistem. Habitat ini menjadi tempat mencari makan, berlindung, dan berkembang biak bagi banyak spesies. Perubahan kualitas air, sedimentasi, dan kerusakan fisik dapat menurunkan fungsi ekologis.
 
 BAB 4. ADAPTASI ORGANISME

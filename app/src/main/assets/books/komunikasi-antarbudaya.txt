@@ -184,7 +184,7 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa posisi berbeda belum tentu berarti kepentingan berbeda? Kebutuhan di balik posisi dapat saling melengkapi.
 4. Kapan dialog langsung tidak tepat? Ketika terdapat ancaman, ketimpangan kuasa berat, atau risiko keselamatan.
 5. Sebutkan dua unsur pertemuan inklusif. Agenda jelas dan beberapa cara aman untuk berkontribusi.
-BAB 14. MENDENGARKAN AKTIF DAN MEMERIKSA PEMAHAMAN
+BAB PENDALAMAN — MENDENGARKAN AKTIF DAN MEMERIKSA PEMAHAMAN
 
 Mendengarkan aktif bukan hanya menunggu giliran berbicara. Pendengar memperhatikan isi, emosi yang disampaikan, konteks, dan hal yang belum jelas. Parafrasa dapat membantu memeriksa pemahaman: “Jika saya menangkap dengan tepat, yang menjadi kendala utama adalah jadwal, bukan tujuan kegiatan.” Beri kesempatan kepada pembicara untuk mengoreksi ringkasan tersebut.
 
@@ -192,7 +192,7 @@ Pertanyaan terbuka membantu orang menjelaskan pengalaman dengan kata-katanya sen
 
 Diam dapat memiliki banyak makna: berpikir, tidak nyaman, perbedaan norma, atau tidak ingin menjawab. Jangan langsung menafsirkannya sebagai persetujuan. Berikan waktu, tawarkan cara komunikasi lain, dan pastikan seseorang dapat menolak tanpa konsekuensi yang tidak adil.
 
-BAB 15. KONFLIK, NEGOSIASI, DAN PEMULIHAN HUBUNGAN
+BAB PENDALAMAN — KONFLIK, NEGOSIASI, DAN PEMULIHAN HUBUNGAN
 
 Konflik dapat muncul karena perbedaan tujuan, informasi, sumber daya, nilai, atau cara berkomunikasi. Langkah awal adalah membedakan posisi yang dinyatakan dari kepentingan di baliknya. Dua pihak mungkin berselisih tentang jadwal, tetapi sama-sama membutuhkan kepastian dan pembagian beban yang adil.
 
@@ -200,7 +200,7 @@ Negosiasi yang konstruktif menggunakan kriteria yang dapat dijelaskan, bukan tek
 
 Permintaan maaf yang bertanggung jawab menyebut tindakan yang dilakukan, dampak yang diakui, dan perubahan yang akan diupayakan. Namun rekonsiliasi tidak boleh dipaksakan. Orang yang dirugikan berhak menentukan batas dan apakah ia ingin melanjutkan dialog.
 
-BAB 16. KOMUNIKASI DALAM TIM DAN ORGANISASI
+BAB PENDALAMAN — KOMUNIKASI DALAM TIM DAN ORGANISASI
 
 Tim lintas latar membutuhkan aturan kerja yang jelas. Sepakati tujuan, kanal komunikasi, waktu respons yang wajar, cara menyimpan keputusan, dan prosedur ketika terjadi salah paham. Jangan menganggap semua anggota memiliki akses perangkat, zona waktu, atau kenyamanan berbicara yang sama.
 
@@ -208,7 +208,7 @@ Rapat inklusif menyediakan agenda sebelumnya, menjelaskan istilah teknis, dan me
 
 Umpan balik sebaiknya spesifik pada tindakan dan dampaknya. “Laporan bagian dua belum menyertakan sumber data, sehingga pembaca sulit memeriksa angka” lebih berguna daripada label seperti “kamu tidak teliti”. Terima umpan balik dengan meminta contoh dan mengklarifikasi harapan.
 
-BAB 17. KOMUNIKASI DIGITAL DAN JEJAK KONTEKS
+BAB PENDALAMAN — KOMUNIKASI DIGITAL DAN JEJAK KONTEKS
 
 Pesan digital kehilangan sebagian isyarat nonverbal seperti intonasi dan ekspresi. Kalimat singkat dapat terbaca tegas atau dingin meskipun maksud penulis netral. Untuk topik rumit atau sensitif, pilih kanal yang memungkinkan klarifikasi. Ringkasan tertulis setelah percakapan dapat membantu memastikan kesepakatan.
 

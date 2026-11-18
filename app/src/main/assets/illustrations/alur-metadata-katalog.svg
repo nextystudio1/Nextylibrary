@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-labelledby="t d">
+<title id="t">Alur metadata katalog buku</title><desc id="d">Elemen metadata buku diproses menjadi rekaman katalog yang dapat ditelusuri melalui beberapa titik akses.</desc>
+<rect width="900" height="520" rx="28" fill="#f7f9fc"/>
+<text x="450" y="55" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#172b4d">DARI BUKU MENJADI REKAMAN KATALOG</text>
+<rect x="55" y="170" width="165" height="145" rx="18" fill="#dceafe" stroke="#3975b9" stroke-width="3"/>
+<text x="137" y="225" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#17385e">BUKU</text><text x="137" y="260" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#294866">Bahan koleksi</text>
+<path d="M220 242 H270" stroke="#65758b" stroke-width="5"/><path d="M256 230 L272 242 L256 254" stroke="#65758b" stroke-width="4" fill="none"/>
+<rect x="275" y="115" width="280" height="255" rx="18" fill="#dcf4e9" stroke="#29966a" stroke-width="3"/>
+<text x="415" y="155" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#174d3a">METADATA</text>
+<g font-family="Arial,sans-serif" font-size="18" fill="#285c48">
+<text x="305" y="195">• Judul dan pencipta</text><text x="305" y="230">• Penerbit dan tahun</text><text x="305" y="265">• Bahasa dan format</text><text x="305" y="300">• Subjek dan kata kunci</text><text x="305" y="335">• Pengenal unik</text>
+</g>
+<path d="M555 242 H610" stroke="#65758b" stroke-width="5"/><path d="M596 230 L612 242 L596 254" stroke="#65758b" stroke-width="4" fill="none"/>
+<rect x="615" y="170" width="230" height="145" rx="18" fill="#fcebd7" stroke="#c78332" stroke-width="3"/>
+<text x="730" y="220" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#70451b">KATALOG</text><text x="730" y="255" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#76552f">Rekaman terindeks</text><text x="730" y="284" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#76552f">Siap ditelusuri</text>
+<path d="M730 315 V390" stroke="#65758b" stroke-width="4"/>
+<rect x="545" y="390" width="370" height="78" rx="16" fill="#183b66"/>
+<text x="730" y="421" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#fff">TITIK AKSES PENCARIAN</text><text x="730" y="449" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#fff">Judul • Penulis • Subjek • Kata kunci</text>
+</svg>

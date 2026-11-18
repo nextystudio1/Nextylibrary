@@ -164,3 +164,28 @@ EVALUASI
 
 HAK CIPTA DAN PENGGUNAAN
 Naskah pembelajaran orisinal Nexty Studio untuk NextyLibrary. Materi ini untuk pendidikan umum. Contoh angka bersifat ilustratif dan bukan jaminan hasil usaha. Periksa ketentuan resmi dan mintalah pendampingan yang sesuai sebelum mengambil keputusan hukum atau keuangan.
+
+
+STUDI KASUS TERPADU: USAHA PAKET BELAJAR
+Sebuah kelompok ingin membuat paket belajar yang berisi kartu ringkasan, pembatas buku, dan lembar latihan. Mereka memulai dengan dugaan bahwa siswa membutuhkan alat bantu belajar yang ringkas. Sebelum memproduksi banyak barang, kelompok melakukan pengamatan dan percakapan singkat dengan calon pengguna. Mereka menemukan bahwa kebutuhan berbeda: sebagian ingin ringkasan konsep, sebagian membutuhkan latihan bertahap, dan sebagian lain lebih membutuhkan alat untuk mengatur jadwal belajar.
+
+Kelompok memilih satu kebutuhan yang paling jelas dan membuat contoh paket sederhana. Mereka menulis spesifikasi isi, ukuran, bahan, jumlah lembar, dan batas penggunaan. Lima calon pengguna diminta mencoba contoh tersebut. Umpan balik dicatat dengan pertanyaan yang sama agar dapat dibandingkan. Kelompok tidak menganggap satu komentar sebagai kesimpulan umum; mereka mencari pola yang muncul berulang dan menandai saran yang hanya berasal dari preferensi pribadi.
+
+Sebelum menentukan harga, kelompok menghitung bahan, cetak, kemasan, waktu penyusunan, biaya transaksi, dan kemungkinan barang rusak. Mereka membedakan biaya per paket dari biaya tetap seperti alat yang digunakan berulang. Mereka membuat skenario penjualan rendah, sedang, dan tinggi, lalu memeriksa apakah kapasitas pengerjaan memungkinkan memenuhi janji. Jika biaya tidak tertutup, mereka meninjau desain atau proses, bukan langsung menurunkan kualitas bahan.
+
+Kelompok menyiapkan katalog yang menjelaskan isi paket secara akurat, contoh halaman buatan sendiri, harga total, cara pemesanan, waktu pengerjaan, serta kebijakan koreksi jika isi tidak lengkap. Mereka meminta izin sebelum menggunakan foto pengguna dan tidak membuat testimoni palsu. Pesanan dicatat dengan nomor sederhana, diperiksa sebelum dikemas, lalu statusnya diperbarui sampai diterima.
+
+Setelah uji terbatas, kelompok membandingkan jumlah pertanyaan, pesanan selesai, kesalahan isi, waktu pengerjaan, dan umpan balik. Mereka memutuskan apakah perlu memperbaiki isi, proses, harga, atau segmen pelanggan. Pertumbuhan tidak dilakukan hanya karena satu periode ramai. Mereka memastikan sekolah tetap menjadi prioritas dan meminta pendampingan orang dewasa untuk transaksi atau kesepakatan yang mengikat.
+
+LEMBAR KERJA PROYEK
+1. Tuliskan masalah pelanggan dalam satu kalimat dan bukti pengamatan yang mendukungnya.
+2. Sebutkan tiga asumsi yang belum terbukti dan cara mengujinya dengan biaya rendah.
+3. Gambarkan produk minimum serta standar mutu yang harus dipenuhi.
+4. Buat daftar biaya per unit dan biaya tetap; jelaskan asumsi setiap angka.
+5. Tentukan harga uji dan alasan nilai yang diterima pelanggan sepadan.
+6. Susun alur pesanan, pemeriksaan, pengemasan, dan penanganan keluhan.
+7. Buat daftar risiko, tindakan pencegahan, dan batas penghentian.
+8. Pilih lima indikator untuk evaluasi setelah uji coba.
+
+RUBRIK PENILAIAN MANDIRI
+Beri nilai 1–4 pada kejelasan masalah, kualitas bukti, kecocokan solusi, ketelitian biaya, kelayakan operasional, kejujuran pemasaran, perlindungan pelanggan, dan kualitas evaluasi. Tuliskan alasan untuk setiap nilai. Bagian dengan nilai terendah menjadi prioritas revisi.

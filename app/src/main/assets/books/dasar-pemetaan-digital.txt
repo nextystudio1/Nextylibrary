@@ -137,25 +137,25 @@ Klasifikasi: pengelompokan nilai data ke dalam kelas.
 Pemetaan partisipatif: pemetaan yang melibatkan komunitas terkait.
 Ketidakpastian: keterbatasan kepastian pada posisi, atribut, waktu, atau cakupan data.
 
-BAB 12. SISTEM KOORDINAT DAN PROYEKSI PETA
+BAB PENDALAMAN — SISTEM KOORDINAT DAN PROYEKSI PETA
 
 Koordinat geografis menyatakan posisi menggunakan lintang dan bujur pada permukaan bumi. Sistem koordinat terproyeksi memindahkan representasi permukaan melengkung ke bidang datar agar pengukuran tertentu lebih mudah. Tidak ada proyeksi datar yang dapat mempertahankan seluruh sifat bentuk, luas, jarak, dan arah sekaligus pada semua lokasi.
 
 Pemilihan sistem koordinat harus sesuai wilayah dan tujuan analisis. Data dari sistem berbeda perlu ditransformasikan dengan parameter yang benar. Kesalahan datum atau zona proyeksi dapat menyebabkan pergeseran lokasi. Metadata harus mencatat sistem koordinat, satuan, dan proses transformasi.
 
-BAB 13. KETELITIAN, RESOLUSI, DAN KETIDAKPASTIAN
+BAB PENDALAMAN — KETELITIAN, RESOLUSI, DAN KETIDAKPASTIAN
 
 Ketelitian posisi menunjukkan kedekatan lokasi data dengan posisi sebenarnya menurut metode acuan. Resolusi menggambarkan tingkat detail spasial, sedangkan skala peta memengaruhi detail yang dapat ditampilkan. Data beresolusi tinggi tidak otomatis akurat jika sumber atau proses pengukurannya bermasalah.
 
 Ketidakpastian juga terdapat pada atribut, waktu, klasifikasi, dan kelengkapan. Peta batas administrasi dapat berbeda karena sumber, tanggal, atau definisi yang digunakan. Sebelum menggabungkan data, periksa skema atribut, satuan, tahun, metode, dan kualitas. Hindari menampilkan angka presisi berlebihan yang tidak didukung data.
 
-BAB 14. PENGINDERAAN JAUH DAN CITRA SATELIT
+BAB PENDALAMAN — PENGINDERAAN JAUH DAN CITRA SATELIT
 
 Penginderaan jauh memperoleh informasi objek tanpa kontak langsung, misalnya melalui sensor satelit atau pesawat. Sensor pasif merekam energi alami yang dipantulkan atau dipancarkan, sedangkan sensor aktif memancarkan energi dan mengukur pantulannya. Setiap sensor memiliki resolusi spasial, spektral, radiometrik, dan temporal yang berbeda.
 
 Citra dapat terpengaruh awan, bayangan, sudut pengamatan, atmosfer, dan kondisi permukaan. Klasifikasi tutupan lahan memerlukan data pelatihan dan pemeriksaan akurasi. Perubahan warna pada citra tidak selalu menunjukkan perubahan objek; metode koreksi dan pembandingan harus dijelaskan.
 
-BAB 15. ANALISIS JARINGAN DAN KETERJANGKAUAN
+BAB PENDALAMAN — ANALISIS JARINGAN DAN KETERJANGKAUAN
 
 Analisis jaringan menggunakan hubungan antarsegmen untuk menghitung rute, waktu perjalanan, atau jangkauan layanan. Jaringan jalan perlu memiliki konektivitas, arah, pembatasan, dan atribut kecepatan yang sesuai. Hasil rute merupakan model dan dapat berbeda dari kondisi nyata karena kemacetan, penutupan, atau hambatan yang tidak tercatat.
 

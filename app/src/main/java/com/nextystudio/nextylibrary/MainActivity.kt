@@ -48,6 +48,7 @@ import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import coil.ImageLoader
+import com.caverock.androidsvg.SVG
 import coil.decode.SvgDecoder
 import coil.compose.AsyncImage
 import kotlinx.coroutines.Dispatchers
@@ -850,6 +851,67 @@ private fun prepareReaderSections(raw: String, title: String): List<ReaderSectio
 }
 
 @Composable
+private fun BookIllustration(source: String, caption: String?, imageLoader: ImageLoader) {
+    val context = LocalContext.current
+    if (source.startsWith("file:///android_asset/")) {
+        val assetPath = source.removePrefix("file:///android_asset/")
+        val result by produceState<Pair<Bitmap?, Boolean>?>(initialValue = null, assetPath) {
+            value = withContext(Dispatchers.IO) {
+                val bitmap = runCatching {
+                    val svg = SVG.getFromAsset(context.assets, assetPath)
+                    val sourceWidth = svg.documentWidth.takeIf { it.isFinite() && it > 0f } ?: 1200f
+                    val sourceHeight = svg.documentHeight.takeIf { it.isFinite() && it > 0f } ?: 650f
+                    val width = 1200
+                    val height = (width * sourceHeight / sourceWidth).toInt().coerceIn(1, 1800)
+                    Bitmap.createBitmap(width, height, Bitmap.Config.ARGB_8888).also { output ->
+                        output.eraseColor(android.graphics.Color.WHITE)
+                        svg.renderToCanvas(android.graphics.Canvas(output))
+                    }
+                }.getOrNull()
+                bitmap to true
+            }
+        }
+        val bitmap = result?.first
+        if (bitmap != null) {
+            Image(
+                bitmap = bitmap.asImageBitmap(),
+                contentDescription = caption ?: "Ilustrasi buku",
+                contentScale = ContentScale.Fit,
+                modifier = Modifier.fillMaxWidth().heightIn(min = 150.dp, max = 340.dp)
+                    .clip(RoundedCornerShape(12.dp))
+            )
+        } else if (result == null) {
+            Box(Modifier.fillMaxWidth().height(220.dp), contentAlignment = Alignment.Center) {
+                CircularProgressIndicator(color = Green)
+            }
+        } else {
+            Box(Modifier.fillMaxWidth().height(180.dp).clip(RoundedCornerShape(12.dp))
+                .background(Mint), contentAlignment = Alignment.Center) {
+                Text("Ilustrasi buku belum dapat dimuat", color = Green, fontSize = 12.sp)
+            }
+        }
+    } else {
+        var failed by remember(source) { mutableStateOf(false) }
+        if (!failed) {
+            AsyncImage(
+                model = source,
+                imageLoader = imageLoader,
+                contentDescription = caption ?: "Ilustrasi buku",
+                contentScale = ContentScale.Fit,
+                onError = { failed = true },
+                modifier = Modifier.fillMaxWidth().heightIn(min = 150.dp, max = 340.dp)
+                    .clip(RoundedCornerShape(12.dp))
+            )
+        } else {
+            Box(Modifier.fillMaxWidth().height(180.dp).clip(RoundedCornerShape(12.dp))
+                .background(Mint), contentAlignment = Alignment.Center) {
+                Text("Gambar dari sumber tidak tersedia", color = Green, fontSize = 12.sp)
+            }
+        }
+    }
+}
+
+@Composable
 private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () -> Unit, onBack: () -> Unit) {
     val pdfSource = book.contentPath
     if (!pdfSource.isNullOrBlank() && (pdfSource.lowercase().substringBefore('?').endsWith(".pdf") || pdfSource.startsWith("pdf://") || pdfSource.contains("format=pdf", true))) {
@@ -949,12 +1011,10 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
                             if (paragraph.startsWith("[[NEXTY_IMAGE|") && paragraph.endsWith("]]")) {
                                 val parts = paragraph.removePrefix("[[NEXTY_IMAGE|").removeSuffix("]]").split("|", limit = 2)
                                 if (parts.isNotEmpty()) {
-                                    AsyncImage(
-                                        model = parts[0],
-                                        imageLoader = illustrationImageLoader,
-                                        contentDescription = parts.getOrNull(1)?.takeIf { it.isNotBlank() } ?: "Ilustrasi buku",
-                                        contentScale = ContentScale.Fit,
-                                        modifier = Modifier.fillMaxWidth().heightIn(max = 340.dp).clip(RoundedCornerShape(12.dp))
+                                    BookIllustration(
+                                        source = parts[0],
+                                        caption = parts.getOrNull(1)?.takeIf { it.isNotBlank() },
+                                        imageLoader = illustrationImageLoader
                                     )
                                     parts.getOrNull(1)?.takeIf { it.isNotBlank() }?.let {
                                         Text(it, color = Muted, fontSize = 11.sp, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth().padding(top = 6.dp))

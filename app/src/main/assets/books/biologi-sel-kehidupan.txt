@@ -88,6 +88,8 @@ BAB 9 — DNA, RNA, DAN EKSPRESI GEN
 DNA menyimpan informasi genetik dalam urutan nukleotida. Replikasi menyalin DNA sebelum pembelahan sel. Dalam proses transkripsi, informasi pada gen disalin menjadi RNA. Pada banyak gen pengode protein, RNA kemudian diterjemahkan oleh ribosom menjadi urutan asam amino.
 Tidak semua DNA mengode protein. Bagian pengatur dan berbagai RNA nonpengode turut memengaruhi kapan dan seberapa kuat gen diekspresikan. Perubahan urutan DNA disebut mutasi; dampaknya dapat netral, merugikan, atau dalam konteks tertentu menguntungkan. Lingkungan dan regulasi gen juga memengaruhi ciri organisme.
 BAB 10 — PEMBELAHAN DAN SIKLUS SEL
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/tahapan-pembelahan-sel.svg|Urutan umum fase mitosis: profase, metafase, anafase, dan telofase]]
 Siklus sel mencakup pertumbuhan, penggandaan DNA, dan pembelahan. Mitosis menghasilkan dua sel anak dengan informasi genetik yang umumnya sama dengan sel induk. Meiosis menghasilkan sel reproduksi dengan jumlah kromosom setengah dari sel asal dan meningkatkan variasi genetik melalui proses khusus.
 Titik pemeriksaan siklus sel membantu memastikan DNA telah disalin dan kondisi pembelahan memadai. Kegagalan pengaturan dapat menyebabkan pembelahan tidak terkendali. Pemahaman siklus sel penting dalam biologi perkembangan, genetika, dan kajian penyakit.
 BAB 11 — METABOLISME DAN ENZIM

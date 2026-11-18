@@ -143,3 +143,28 @@ EVALUASI
 
 HAK CIPTA DAN PENGGUNAAN
 Naskah pembelajaran orisinal Nexty Studio untuk NextyLibrary. Materi ini bersifat edukatif dan tidak menggantikan nasihat hukum, ketenagakerjaan, keselamatan, atau profesional.
+
+
+STUDI KASUS TERPADU: MENSTABILKAN PROSES PESANAN
+Sebuah usaha kerajinan menerima pesanan melalui pesan langsung. Pesanan kadang terlambat karena ukuran tidak dicatat, bahan belum tersedia, dan pemeriksaan akhir dilakukan terburu-buru. Pemilik menggambar alur mulai dari pertanyaan pelanggan, konfirmasi spesifikasi, pemeriksaan stok, pengerjaan, pemeriksaan mutu, pengemasan, hingga pengiriman. Waktu tunggu dan pekerjaan ulang ditandai agar hambatan terlihat.
+
+Tim kemudian membuat formulir pesanan dengan kolom spesifikasi, jumlah, alamat pengiriman yang diperlukan, tanggal janji, dan status persetujuan. Informasi sensitif hanya dapat diakses orang yang bertugas. Standar kerja menjelaskan ukuran yang harus diperiksa, cara menandai bahan, dan siapa yang menyetujui hasil akhir. Daftar periksa diuji oleh pelaksana dan diperbaiki ketika ada langkah yang membingungkan.
+
+Pemasok dinilai dari mutu, ketepatan, harga total, komunikasi, dan kemampuan menyediakan bahan secara konsisten. Pemilik tidak memilih harga terendah secara otomatis karena keterlambatan dapat menambah biaya dan merusak kepercayaan. Untuk bahan penting, alternatif pemasok diperiksa terlebih dahulu. Stok minimum ditetapkan berdasarkan pemakaian dan waktu tunggu, lalu ditinjau jika pola permintaan berubah.
+
+Kapasitas dihitung dari waktu proses nyata, bukan perkiraan terbaik. Jika satu produk membutuhkan 30 menit dan tersedia 10 jam kerja produktif dalam satu minggu, kapasitas teoritisnya 20 unit sebelum memperhitungkan variasi, pemeriksaan, dan pekerjaan pendukung. Tim menetapkan batas pesanan yang lebih realistis setelah uji. Mereka tidak menerima pesanan melebihi kemampuan hanya demi mengejar penjualan.
+
+Indikator mingguan meliputi ketepatan waktu, tingkat pekerjaan ulang, keluhan, waktu penyelesaian, dan biaya. Jika waktu pengerjaan membaik tetapi kesalahan meningkat, tim tidak menganggap perubahan itu berhasil. Rencana gangguan menjelaskan cara menghubungi pelanggan, mengatur ulang jadwal, menggunakan pemasok alternatif, serta menghentikan pekerjaan bila kondisi tidak aman.
+
+LEMBAR KERJA PROYEK
+1. Gambar alur proses dan tandai titik tunggu serta keputusan.
+2. Tulis standar kerja untuk satu tahap yang paling sering menimbulkan kesalahan.
+3. Buat daftar periksa mutu sebelum hasil diserahkan.
+4. Susun matriks penilaian tiga pemasok dengan bobot kriteria yang dijelaskan.
+5. Hitung kapasitas berdasarkan waktu proses dan jam tersedia.
+6. Buat prosedur penanganan keterlambatan dan keluhan.
+7. Pilih lima indikator dan jelaskan definisi perhitungannya.
+8. Susun rencana kesinambungan untuk satu gangguan yang mungkin terjadi.
+
+RUBRIK PENILAIAN MANDIRI
+Nilai 1–4 untuk kejelasan alur, standar yang dapat diamati, pengendalian mutu, kesiapan pemasok, perhitungan kapasitas, perlindungan data, layanan pelanggan, dan rencana gangguan. Tulis bukti yang mendukung nilai tersebut.

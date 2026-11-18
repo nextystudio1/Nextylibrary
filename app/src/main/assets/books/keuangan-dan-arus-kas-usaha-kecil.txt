@@ -145,3 +145,28 @@ EVALUASI
 
 HAK CIPTA DAN PENGGUNAAN
 Naskah pembelajaran orisinal Nexty Studio untuk NextyLibrary. Contoh angka bersifat ilustratif. Materi bukan nasihat keuangan, pajak, hukum, investasi, atau pinjaman pribadi. Periksa aturan resmi dan mintalah bantuan profesional untuk keputusan yang mengikat.
+
+
+STUDI KASUS TERPADU: MEMBACA KEUANGAN USAHA KUE
+Sebuah usaha kue menerima pesanan mingguan. Pemilik mencatat uang masuk, tetapi beberapa pembelian bahan dan biaya pengiriman tidak dicatat. Akibatnya, saldo rekening terlihat cukup besar sementara kewajiban kepada pemasok belum dihitung. Pemilik memulai kembali dengan mencatat seluruh transaksi berdasarkan bukti, memisahkan setoran modal dan pengambilan pribadi, serta mencocokkan catatan dengan saldo kas.
+
+Dalam satu simulasi, bahan utama Rp180.000, bahan tambahan Rp60.000, kemasan Rp40.000, dan tenaga kerja langsung Rp80.000 digunakan untuk menghasilkan 20 paket. Biaya langsung total Rp360.000 atau Rp18.000 per paket. Jika biaya pendukung yang relevan dialokasikan Rp2.000 per paket, biaya penuh produksi menjadi Rp20.000 per paket. Angka ini adalah contoh latihan; usaha nyata harus mengumpulkan biaya sesuai prosesnya sendiri. Harga jual kemudian dinilai dengan mempertimbangkan biaya transaksi, diskon, retur, kapasitas, dan nilai yang diterima pelanggan.
+
+Pemilik membedakan laba dari arus kas. Sebagian pelanggan membayar uang muka, sebagian melunasi setelah pesanan diterima, sedangkan pemasok meminta pembayaran lebih awal. Proyeksi kas dibuat mingguan agar pemilik mengetahui kapan uang diperlukan. Piutang dicatat dengan tanggal dan jatuh tempo, sedangkan utang pemasok dimasukkan ke kalender pembayaran. Uang muka pelanggan tidak diperlakukan sebagai keuntungan bebas sebelum kewajiban pesanan dipenuhi.
+
+Persediaan bahan dicatat pada awal dan akhir periode. Pemilik meninjau pemakaian rata-rata, waktu tunggu pemasok, tanggal kedaluwarsa, serta variasi permintaan. Pembelian tidak hanya didasarkan pada diskon kuantitas karena stok berlebih dapat mengikat kas dan meningkatkan risiko bahan rusak. Anggaran bulanan dibandingkan dengan realisasi, lalu selisih dijelaskan.
+
+Pada akhir bulan, pemilik menyusun laporan laba rugi sederhana, ringkasan aset dan kewajiban, serta arus kas. Ketiga laporan dibaca bersama. Jika pendapatan naik tetapi kas turun, pemilik memeriksa piutang, persediaan, dan waktu pembayaran. Jika margin menurun, ia menelusuri harga bahan, ukuran produk, dan biaya transaksi sebelum mengambil keputusan.
+
+LEMBAR KERJA PROYEK
+1. Buat 20 transaksi simulasi yang mencakup modal, penjualan tunai, penjualan kredit, pembelian, biaya, dan pembayaran utang.
+2. Catat setiap transaksi dengan tanggal, bukti, kategori, uang masuk, uang keluar, dan saldo.
+3. Hitung biaya per unit dan jelaskan biaya yang belum dapat dialokasikan secara pasti.
+4. Hitung margin kontribusi dan titik impas berdasarkan asumsi yang dinyatakan.
+5. Buat proyeksi kas empat minggu dengan tanggal penerimaan dan pembayaran.
+6. Susun daftar piutang, utang, dan kartu stok.
+7. Buat laporan sederhana dan cocokkan saldo akhir dengan catatan transaksi.
+8. Tulis tiga keputusan yang dapat diambil dari laporan beserta risiko masing-masing.
+
+RUBRIK PENILAIAN MANDIRI
+Nilai 1–4 untuk kelengkapan transaksi, ketepatan perhitungan, pemisahan laba dan kas, rekonsiliasi, proyeksi, dan kualitas keputusan. Periksa ulang setiap angka yang tidak seimbang.

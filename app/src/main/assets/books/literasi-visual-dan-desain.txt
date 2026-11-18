@@ -137,25 +137,25 @@ Grid: sistem garis bantu untuk mengatur posisi elemen.
 Kontras: perbedaan visual yang membantu elemen dibedakan.
 Prototipe: model awal untuk diuji sebelum produk diselesaikan.
 
-BAB 12. SEMIOTIKA DAN MAKNA VISUAL
+PENDALAMAN LANJUTAN — SEMIOTIKA DAN MAKNA VISUAL
 
 Semiotika mempelajari tanda dan proses pembentukan makna. Dalam komunikasi visual, tanda dapat berupa ikon, indeks, atau simbol. Ikon menyerupai objek yang dirujuk, indeks memiliki hubungan faktual atau sebab-akibat, sedangkan simbol bergantung pada kesepakatan sosial. Satu gambar dapat memuat beberapa jenis tanda sekaligus.
 
 Makna visual tidak hanya berada pada objek gambar. Konteks budaya, pengalaman pembaca, media, dan tujuan komunikasi turut memengaruhi interpretasi. Desainer perlu menguji apakah simbol dipahami sesuai maksud dan apakah pengguna dari latar berbeda dapat menafsirkannya dengan aman.
 
-BAB 13. TIPOGRAFI DAN KETERBACAAN
+PENDALAMAN LANJUTAN — TIPOGRAFI DAN KETERBACAAN
 
 Tipografi mengatur bentuk huruf, ukuran, jarak, panjang baris, hierarki, dan kontras. Pilihan huruf harus mendukung isi serta kondisi penggunaan. Teks panjang memerlukan kenyamanan baca yang berbeda dari judul poster. Terlalu banyak jenis huruf dan variasi gaya dapat mengganggu konsistensi.
 
 Keterbacaan juga dipengaruhi lebar kolom, spasi baris, kontras terhadap latar, dan kepadatan informasi. Uji desain pada perangkat dan ukuran layar yang benar-benar digunakan. Jangan mengandalkan tampilan pada satu monitor besar jika karya akan dibaca terutama melalui ponsel.
 
-BAB 14. WARNA, KONTRAS, DAN AKSESIBILITAS
+PENDALAMAN LANJUTAN — WARNA, KONTRAS, DAN AKSESIBILITAS
 
 Warna dapat membangun hierarki, mengelompokkan informasi, dan menyampaikan suasana. Namun, makna warna tidak universal. Perbedaan persepsi warna dan kondisi pencahayaan dapat membuat informasi yang hanya dibedakan melalui warna sulit dipahami. Gunakan label, bentuk, pola, atau ikon sebagai penanda tambahan.
 
 Kontras teks dan latar perlu cukup agar informasi terbaca. Hindari teks kecil di atas gambar yang ramai. Untuk grafik, pilih palet yang membedakan kategori dengan jelas dan tetap dapat dipahami dalam tampilan monokrom atau oleh pengguna dengan gangguan persepsi warna.
 
-BAB 15. KOMPOSISI, GRID, DAN HIERARKI
+PENDALAMAN LANJUTAN — KOMPOSISI, GRID, DAN HIERARKI
 
 Komposisi mengatur hubungan antarunsur pada bidang. Keseimbangan tidak selalu berarti simetri; bobot visual dapat diatur melalui ukuran, warna, posisi, dan ruang kosong. Grid membantu menjaga keteraturan, tetapi tidak harus membatasi kreativitas. Penyimpangan dari grid sebaiknya memiliki alasan visual yang jelas.
 

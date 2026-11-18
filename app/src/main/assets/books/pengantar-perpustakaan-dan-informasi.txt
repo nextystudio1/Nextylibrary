@@ -54,6 +54,8 @@ RANGKUMAN
 
 BAB 3. KATALOG DAN METADATA
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/alur-metadata-katalog.svg|Alur elemen metadata buku menjadi rekaman katalog yang dapat ditemukan melalui judul, penulis, subjek, dan kata kunci.]]
+
 Katalog membantu pengguna menemukan bahan melalui judul, penulis, subjek, kata kunci, dan identitas unik. Metadata yang konsisten memudahkan pencarian dan pertukaran data. Deskripsi harus akurat, tidak menyesatkan, dan mencantumkan informasi edisi serta bahasa bila tersedia.
 
 PENDALAMAN

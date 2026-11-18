@@ -151,6 +151,8 @@ Siklus unsur dapat berubah akibat proses alami dan kegiatan manusia. Penilaian p
 
 BAB 13. GEOLOGI AIR TANAH DAN KERENTANAN AKUIFER
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/penampang-akuifer.svg|Penampang konseptual daerah imbuhan, muka air tanah, akuifer, dan sumur.]]
+
 Air tanah tersimpan dan bergerak melalui pori serta rekahan batuan. Akuifer memiliki karakter berbeda berdasarkan porositas, permeabilitas, ketebalan, dan kondisi batas. Daerah imbuhan membantu mengisi cadangan, sedangkan pemompaan berlebihan dapat menurunkan muka air dan mengubah aliran.
 
 Kerentanan pencemaran dipengaruhi kedalaman muka air, sifat lapisan penutup, jalur aliran, serta sumber kontaminan. Peta kerentanan merupakan alat penyaringan awal, bukan bukti bahwa suatu sumur aman atau tercemar. Keputusan penggunaan air memerlukan pengujian kualitas dan penilaian ahli.

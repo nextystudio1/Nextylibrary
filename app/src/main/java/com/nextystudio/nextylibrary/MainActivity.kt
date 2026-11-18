@@ -773,7 +773,7 @@ private fun addDefaultBookIllustration(content: String, title: String): String {
         listOf("laut", "maritim").any { name.contains(it) } -> "arus-laut.svg"
         else -> "alur-penelitian.svg"
     }
-    return "[[NEXTY_IMAGE|file:///android_asset/illustrations/$asset|Ilustrasi konsep untuk buku $title]]\\n\\n$content"
+    return "[[NEXTY_IMAGE|file:///android_asset/illustrations/$asset|Ilustrasi konsep untuk buku $title]]\n\n$content"
 }
 
 private data class ReaderSection(val heading: String?, val paragraphs: List<String>)

@@ -31,6 +31,8 @@ Pesan tidak hanya dibentuk oleh kata-kata, tetapi juga nada, jeda, ekspresi, hub
 
 BAB 3. MENDENGAR AKTIF
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/siklus-mendengar-aktif.svg|Empat langkah mendengar aktif: memperhatikan, mengklarifikasi, memparafrasakan, dan mengonfirmasi pemahaman.]]
+
 Mendengar aktif melibatkan perhatian, parafrasa, pertanyaan terbuka, dan konfirmasi pemahaman. Hindari menyela atau menyiapkan bantahan ketika orang lain masih berbicara. Merangkum inti pesan membantu memastikan bahwa perbedaan pendapat tidak muncul hanya karena salah memahami informasi.
 
 BAB 4. PERBEDAAN DAN KONFLIK

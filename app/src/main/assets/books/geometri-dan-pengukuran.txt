@@ -134,6 +134,8 @@ BAB 11. KESEBANGUNAN DAN SKALA
 Dua bangun sebangun memiliki bentuk yang sama dan ukuran bersesuaian dengan perbandingan tetap. Sudut bersesuaian sama besar, sedangkan sisi bersesuaian memiliki rasio yang sama. Konsep ini digunakan pada denah, model, foto, dan pengukuran tidak langsung. Jika skala panjang berubah dengan faktor k, luas berubah dengan faktor k kuadrat dan volume berubah dengan faktor k pangkat tiga. Perbedaan ini penting ketika memperbesar model atau membaca gambar teknik.
 
 BAB 12. TEOREMA PYTHAGORAS
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/teorema-pythagoras.svg|Segitiga siku-siku dengan sisi a, b, dan sisi miring c pada teorema Pythagoras.]]
 Pada segitiga siku-siku, kuadrat panjang sisi miring sama dengan jumlah kuadrat kedua sisi lainnya. Hubungan ini ditulis a² + b² = c², dengan c sebagai sisi di depan sudut siku-siku. Rumus dapat digunakan untuk mencari jarak diagonal, memeriksa kesikuan, atau menyelesaikan persoalan koordinat. Pastikan segitiga yang digunakan benar-benar siku-siku sebelum menerapkan teorema. Hasil perhitungan perlu disesuaikan dengan ketelitian pengukuran awal.
 
 BAB 13. LINGKARAN DAN BUSUR

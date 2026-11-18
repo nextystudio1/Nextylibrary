@@ -106,6 +106,8 @@ LATIHAN
 Pilih satu risiko iklim di daerah tempat tinggal. Buat peta sederhana pihak dan fasilitas yang terpapar, jelaskan kelompok yang paling rentan, dan susun tiga langkah adaptasi beserta indikator pemantauannya.
 
 BAB 7. SIKLUS KARBON DAN UMPAN BALIK IKLIM
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/siklus-karbon.svg|Perpindahan karbon antara atmosfer, tumbuhan, tanah, laut, dan aktivitas manusia]]
 Karbon berpindah di antara atmosfer, laut, tanah, batuan, dan makhluk hidup. Tumbuhan menyerap karbon dioksida melalui fotosintesis, sedangkan respirasi, pembusukan, dan pembakaran melepaskannya kembali. Laut juga menyerap dan melepaskan karbon melalui pertukaran gas serta proses kimia dan biologis. Aktivitas manusia memindahkan karbon dari cadangan geologis ke atmosfer dalam waktu relatif singkat. Umpan balik iklim dapat memperkuat atau mengurangi perubahan awal. Contohnya, pencairan es mengurangi kemampuan permukaan bumi memantulkan cahaya, sehingga lebih banyak energi diserap. Umpan balik perlu dibedakan dari pemicu awal.
 
 BAB 8. LAUT, ES, DAN KENAIKAN MUKA AIR

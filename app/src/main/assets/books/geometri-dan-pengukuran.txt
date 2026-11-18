@@ -153,7 +153,7 @@ LATIHAN TERAPAN
 3. Jelaskan perbedaan busur dan juring.
 4. Bagaimana menentukan jarak dua titik pada bidang koordinat?
 5. Mengapa hasil pengukuran tidak boleh dilaporkan dengan presisi berlebihan?
-BAB 7. SUDUT, GARIS, DAN HUBUNGAN GEOMETRIS
+BAB PENDALAMAN — SUDUT, GARIS, DAN HUBUNGAN GEOMETRIS
 
 Geometri mempelajari bentuk, ukuran, posisi, dan hubungan ruang. Garis sejajar tidak berpotongan pada bidang Euclid, sedangkan garis tegak lurus membentuk sudut siku-siku. Sudut dapat diukur dalam derajat atau radian. Satu putaran penuh setara dengan 360 derajat atau 2π radian. Pemilihan satuan harus konsisten dalam perhitungan.
 
@@ -162,7 +162,7 @@ Sudut berpelurus berjumlah 180 derajat, sedangkan sudut berpenyiku berjumlah 90 
 CONTOH TERURAI
 Dua garis sejajar dipotong sebuah garis transversal. Salah satu sudut dalam berseberangan bernilai 68 derajat. Karena kedua garis sejajar, sudut dalam berseberangan pasangannya juga 68 derajat. Sudut yang berpelurus dengannya adalah 180 − 68 = 112 derajat. Pemeriksaan jumlah sudut membantu menemukan kesalahan hitung.
 
-BAB 8. SEGITIGA DAN KONGRUENSI
+BAB PENDALAMAN — SEGITIGA DAN KONGRUENSI
 
 Jumlah sudut dalam segitiga pada geometri bidang adalah 180 derajat. Segitiga dapat dikelompokkan berdasarkan sisi menjadi sama sisi, sama kaki, dan sembarang, serta berdasarkan sudut menjadi lancip, siku-siku, dan tumpul. Klasifikasi berdasarkan sisi dan sudut dapat digunakan bersamaan.
 
@@ -170,7 +170,7 @@ Dua segitiga kongruen memiliki bentuk dan ukuran yang sama. Kriteria yang umum d
 
 Kesebangunan berbeda dari kongruensi. Bangun sebangun memiliki sudut bersesuaian sama dan perbandingan sisi bersesuaian tetap. Faktor skala menentukan bagaimana panjang berubah; luas berubah menurut kuadrat faktor skala. Jika faktor skala panjang 3, faktor skala luas adalah 9.
 
-BAB 9. LINGKARAN DAN PENGUKURANNYA
+BAB PENDALAMAN — LINGKARAN DAN PENGUKURANNYA
 
 Lingkaran adalah himpunan titik yang berjarak sama dari pusat. Jari-jari adalah jarak pusat ke keliling, sedangkan diameter dua kali jari-jari. Keliling lingkaran adalah 2πr dan luasnya πr². Nilai π merupakan konstanta irasional yang biasanya didekati sesuai kebutuhan ketelitian.
 
@@ -178,7 +178,7 @@ Busur adalah bagian keliling, sementara juring merupakan daerah yang dibatasi du
 
 Contoh: sebuah lingkaran berjari-jari 7 cm memiliki keliling 14π cm atau sekitar 43,98 cm. Luasnya 49π cm² atau sekitar 153,94 cm². Jika menggunakan π = 22/7, hasil keliling menjadi 44 cm dan luas 154 cm². Perbedaan kecil berasal dari pendekatan nilai π.
 
-BAB 10. BANGUN RUANG DAN VOLUME
+BAB PENDALAMAN — BANGUN RUANG DAN VOLUME
 
 Bangun ruang memiliki tiga dimensi. Balok memiliki volume panjang × lebar × tinggi, sedangkan kubus dengan rusuk s memiliki volume s³. Prisma memiliki volume luas alas × tinggi. Limas memiliki volume sepertiga luas alas × tinggi. Tabung memiliki volume πr²h dan kerucut memiliki volume sepertiga πr²h.
 
@@ -186,7 +186,7 @@ Luas permukaan mengukur total luas sisi luar. Rumusnya berbeda dari volume dan s
 
 Dalam masalah nyata, bentuk objek mungkin tidak sempurna. Tangki dapat memiliki ketebalan dinding, ruang kosong, atau bagian yang tidak terisi. Karena itu, model geometri harus menyebut asumsi. Volume geometris tidak selalu sama dengan kapasitas efektif.
 
-BAB 11. KOORDINAT DAN TRANSFORMASI
+BAB PENDALAMAN — KOORDINAT DAN TRANSFORMASI
 
 Bidang koordinat menggunakan pasangan (x,y) untuk menunjukkan posisi titik. Jarak dua titik dapat dihitung dengan teorema Pythagoras: √((x₂−x₁)²+(y₂−y₁)²). Titik tengah ruas garis adalah ((x₁+x₂)/2,(y₁+y₂)/2). Rumus ini menghubungkan geometri dengan aljabar.
 

@@ -31,6 +31,8 @@ Sistem koordinat digunakan untuk menentukan posisi. Koordinat geografis mengguna
 
 BAB 3. DATA RASTER DAN VEKTOR
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/peta-raster-vektor.svg|Perbedaan representasi data raster berbasis piksel dan vektor berbasis geometri]]
+
 Data raster tersusun dari sel atau piksel dan cocok untuk fenomena kontinu seperti elevasi atau citra. Data vektor menggunakan titik, garis, dan poligon untuk objek diskret seperti lokasi, jalan, dan batas wilayah.
 
 BAB 4. ANALISIS SPASIAL

@@ -114,7 +114,7 @@ PENDALAMAN MATERI
 PENDALAMAN — HIERARKI VISUAL DAN TIPOGRAFI
 Hierarki visual mengatur urutan perhatian pembaca. Ukuran, ketebalan huruf, warna, jarak, dan posisi dapat menunjukkan mana judul, subjudul, dan informasi pendukung. Tipografi bukan hanya pemilihan jenis huruf, tetapi juga pengaturan ukuran, panjang baris, spasi, dan kontras. Huruf dekoratif dapat menarik perhatian pada judul, tetapi kurang cocok untuk paragraf panjang. Gunakan jumlah jenis huruf secukupnya agar tampilan konsisten. Uji keterbacaan pada ukuran layar dan jarak baca yang wajar. Desain yang baik membantu pembaca menemukan informasi tanpa harus menebak struktur.
 
-BAB 7. WARNA DAN KONTRAS
+BAB 7. PENDALAMAN — WARNA DAN KONTRAS
 Warna memiliki fungsi informatif dan emosional, tetapi maknanya dapat berbeda menurut budaya dan konteks. Palet warna yang terarah membantu membangun identitas dan membedakan kategori. Kontras antara teks dan latar harus cukup agar informasi terbaca, termasuk bagi pengguna dengan gangguan penglihatan warna. Jangan mengandalkan warna sebagai satu-satunya penanda; tambahkan label, ikon, atau pola. Gunakan warna aksen untuk hal penting, bukan memberi warna berbeda pada setiap unsur. Periksa desain dalam tampilan abu-abu untuk melihat apakah hierarki masih jelas.
 
 BAB 8. GRID, KOMPOSISI, DAN RUANG KOSONG
@@ -123,7 +123,7 @@ Grid membantu menata elemen agar memiliki hubungan yang konsisten. Kolom, margin
 BAB 9. DESAIN UNTUK AKSESIBILITAS
 Desain aksesibel mempertimbangkan beragam kemampuan dan kondisi pengguna. Teks perlu memiliki ukuran yang memadai, kontras jelas, dan struktur yang konsisten. Gambar informatif memerlukan teks alternatif agar maknanya dapat dipahami melalui pembaca layar. Tombol dan tautan perlu memiliki label yang menjelaskan tindakan. Hindari menyampaikan informasi penting hanya melalui warna atau posisi. Uji desain dengan pengguna dan perangkat berbeda jika memungkinkan. Aksesibilitas bukan tahap tambahan setelah desain selesai; pertimbangkan sejak perencanaan agar perbaikan tidak memerlukan perubahan besar.
 
-BAB 10. PROSES DESAIN DAN EVALUASI
+BAB 10. PENDALAMAN — PROSES DESAIN DAN EVALUASI
 Proses desain dimulai dengan memahami kebutuhan pengguna dan tujuan komunikasi. Kumpulkan konteks, buat beberapa alternatif, pilih konsep, susun prototipe, lalu uji. Umpan balik sebaiknya dikaitkan dengan tujuan, bukan hanya selera pribadi. Catat masalah yang ditemukan dan prioritas perbaikannya. Simpan versi kerja dan aset dengan nama teratur. Pastikan foto, ilustrasi, huruf, dan ikon memiliki izin penggunaan yang sesuai. Sebelum publikasi, periksa ejaan, ukuran, keterbacaan, konsistensi, dan tampilan pada media tujuan.
 
 STUDI KASUS
@@ -176,7 +176,7 @@ LATIHAN
 BAB 11. HIERARKI VISUAL DAN ALUR BACA
 Hierarki visual mengarahkan perhatian melalui ukuran, posisi, kontras, ruang kosong, dan pengelompokan. Informasi utama perlu terlihat lebih dahulu, diikuti penjelasan dan rincian. Terlalu banyak elemen yang sama-sama menonjol membuat pembaca kesulitan menentukan prioritas. Uji desain dengan meminta orang lain menjelaskan pesan yang mereka tangkap dalam beberapa detik. Jika pesan utama tidak terbaca, sederhanakan komposisi.
 
-BAB 12. TIPOGRAFI DAN KETERBACAAN
+BAB 12. PENDALAMAN — TIPOGRAFI DAN KETERBACAAN
 Pemilihan huruf perlu mempertimbangkan bentuk, ukuran, jarak antarbaris, panjang baris, dan konteks media. Huruf dekoratif dapat berguna pada judul singkat, tetapi kurang cocok untuk paragraf panjang. Gunakan jumlah jenis huruf secara terbatas dan bangun konsistensi melalui ukuran serta ketebalan. Pastikan teks tetap terbaca pada layar kecil dan saat diperbesar.
 
 BAB 13. WARNA, KONTRAS, DAN AKSESIBILITAS

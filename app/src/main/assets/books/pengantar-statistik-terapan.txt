@@ -389,3 +389,102 @@ Data berurutan menurut waktu dapat memiliki tren, musim, siklus, dan gangguan me
 Latihan analisis
 
 Gunakan data hipotetis nilai ujian dan waktu belajar. Buat ringkasan distribusi, diagram pencar, dan model regresi sederhana. Periksa apakah ada pengamatan yang sangat berpengaruh, lalu jelaskan mengapa hubungan yang terlihat tidak membuktikan bahwa penambahan waktu belajar sendirian menyebabkan peningkatan nilai. Tuliskan keterbatasan seperti motivasi, dukungan, kualitas pengajaran, dan kondisi belajar yang tidak diukur.
+
+PRAKTIK TERBIMBING: MENGOLAH DATA DARI AWAL
+
+Bagian ini memperlihatkan satu alur analisis secara utuh. Angka dalam contoh merupakan data latihan buatan, bukan hasil survei nyata. Tujuannya adalah mempelajari cara berpikir dan memeriksa perhitungan, bukan menghafal satu rumus.
+
+KASUS 1. RINGKASAN DATA WAKTU MEMBACA
+
+Misalkan tujuh peserta mencatat waktu membaca mandiri selama satu hari, dalam menit: 20, 25, 25, 30, 35, 40, dan 65. Data telah diurutkan dari yang terkecil.
+
+Jumlah data adalah 7. Jumlah seluruh menit adalah 240, sehingga rata-rata 240 dibagi 7, yaitu sekitar 34,29 menit. Median adalah nilai keempat, yaitu 30 menit. Modus adalah 25 menit karena nilai itu muncul paling sering. Rentang adalah 65 dikurangi 20, yaitu 45 menit.
+
+Rata-rata lebih tinggi daripada median karena satu nilai, yaitu 65, berada cukup jauh dari sebagian nilai lain. Hal ini menunjukkan mengapa satu ukuran pusat tidak cukup untuk menceritakan seluruh distribusi. Dalam laporan, tuliskan ukuran pusat bersama ukuran sebaran dan konteks pengumpulan data.
+
+Periksa dengan pertanyaan berikut: apakah tujuh peserta mewakili seluruh siswa? Apakah mereka mencatat dengan cara yang sama? Apakah waktu membaca diukur atau hanya diingat pada akhir hari? Pertanyaan ini tidak mengubah hasil hitung, tetapi menentukan seberapa jauh hasil boleh digeneralisasi.
+
+KASUS 2. MEMBACA TABEL KONTINGENSI
+
+Sebuah latihan menggunakan 80 catatan peserta. Sebanyak 50 peserta membaca materi digital setiap minggu dan 30 tidak. Dari 50 peserta yang membaca materi digital, 35 juga mencatat ringkasan. Dari 30 peserta yang tidak membaca materi digital setiap minggu, 9 mencatat ringkasan.
+
+Jumlah peserta yang mencatat ringkasan adalah 35 + 9 = 44. Proporsi pencatat ringkasan pada kelompok pembaca digital mingguan adalah 35/50 = 0,70 atau 70 persen. Proporsi pada kelompok lainnya adalah 9/30 = 0,30 atau 30 persen. Selisih proporsi dalam data latihan ini adalah 40 poin persentase.
+
+Kesimpulan yang tepat adalah bahwa pada kelompok contoh, proporsi pencatat ringkasan berbeda antara dua kelompok tersebut. Data ini belum membuktikan bahwa membaca materi digital menyebabkan seseorang membuat ringkasan. Bisa ada perbedaan kebiasaan belajar, dukungan guru, akses perangkat, atau faktor lain. Jangan mengubah perbandingan deskriptif menjadi klaim sebab-akibat.
+
+KASUS 3. MEMILIH GRAFIK YANG TEPAT
+
+Gunakan diagram batang ketika membandingkan jumlah peserta pada kategori seperti jenis sumber belajar. Gunakan histogram ketika ingin melihat bentuk sebaran waktu belajar yang berupa angka. Gunakan grafik garis ketika urutan waktu penting, misalnya jumlah kunjungan perpustakaan per minggu. Gunakan diagram pencar ketika ingin memeriksa pola hubungan dua variabel numerik, misalnya waktu belajar dan skor latihan.
+
+Sebelum membuat grafik, tulis pertanyaan yang ingin dijawab. Setelah itu tentukan jenis data, unit, skala, dan kelompok pembanding. Judul harus menjelaskan isi, bukan memberi kesimpulan yang belum diuji. Cantumkan sumber, periode, dan jumlah observasi. Jika sumbu tidak dimulai dari nol pada grafik batang, jelaskan dengan jelas dan pertimbangkan apakah pilihan itu dapat membesar-besarkan perbedaan.
+
+KASUS 4. MENAFSIRKAN INTERVAL KEPERCAYAAN
+
+Misalkan suatu survei latihan memperkirakan rata-rata waktu membaca populasi sebesar 32 menit dengan interval kepercayaan 95 persen dari 28 sampai 36 menit. Angka 32 adalah estimasi titik. Rentang 28–36 menunjukkan ketidakpastian estimasi berdasarkan metode dan asumsi yang digunakan.
+
+Dalam pendekatan frekuentis, interpretasi 95 persen berkaitan dengan prosedur: jika pengambilan sampel dan perhitungan diulang berkali-kali dalam kondisi yang sama, sekitar 95 persen interval yang dibentuk dengan metode tersebut akan mencakup parameter tetap yang sebenarnya. Setelah satu interval dihitung, parameter tidak diperlakukan sebagai nilai acak yang memiliki peluang 95 persen berada di dalam interval itu.
+
+Jangan menyatakan bahwa 95 persen responden membaca selama 28 sampai 36 menit. Interval untuk rata-rata populasi berbeda dari rentang nilai individu. Jangan pula menganggap interval sempit otomatis bebas bias; metode sampling yang keliru dapat menghasilkan interval sempit yang tidak mewakili populasi.
+
+KASUS 5. MEMAHAMI NILAI P DAN UKURAN EFEK
+
+Bayangkan sebuah penelitian latihan membandingkan dua metode belajar. Perbedaan rata-rata skor yang diamati adalah 2 poin dan nilai p yang dihitung adalah 0,03 berdasarkan model yang digunakan. Nilai p bukan peluang bahwa hipotesis nol benar. Nilai itu menggambarkan seberapa tidak selaras data dengan model nol jika asumsi model dan prosedur analisis berlaku.
+
+Untuk menilai arti temuan, pembaca masih perlu mengetahui ukuran sampel, variasi skor, interval kepercayaan, rancangan penelitian, dan apakah selisih 2 poin penting dalam konteks pembelajaran. Hasil yang signifikan secara statistik dapat memiliki arti praktis kecil. Sebaliknya, hasil yang tidak signifikan tidak membuktikan bahwa tidak ada perbedaan.
+
+Laporan yang bertanggung jawab menyebutkan hasil, ukuran efek, ketidakpastian, dan batasan. Hindari hanya menampilkan nilai p atau memilih analisis yang kebetulan menghasilkan angka yang diinginkan.
+
+KASUS 6. MEMERIKSA MODEL REGRESI
+
+Misalkan model latihan memperkirakan skor berdasarkan lama belajar. Koefisien kemiringan sebesar 1,5 berarti bahwa dalam model tersebut, tambahan satu jam belajar berkaitan dengan kenaikan skor prediksi rata-rata sebesar 1,5 poin, pada rentang dan kondisi data yang dianalisis. Koefisien itu tidak otomatis berarti menambah satu jam belajar pasti menyebabkan kenaikan 1,5 poin bagi setiap peserta.
+
+Periksa diagram pencar terlebih dahulu. Lihat apakah pola mendekati garis lurus, apakah ada pencilan, dan apakah rentang data cukup luas. Setelah model dibuat, periksa residual untuk melihat pola yang tertinggal. Pola melengkung dapat menunjukkan hubungan yang tidak tertangkap model linear. Sebaran residual yang makin melebar dapat menunjukkan variasi yang tidak konstan.
+
+Pisahkan data untuk pelatihan dan pengujian bila tujuan utama adalah prediksi. Jangan menilai model hanya dari kecocokannya pada data yang digunakan untuk membangunnya. Jika model akan dipakai pada kelompok atau periode berbeda, uji kembali kinerjanya pada konteks tersebut.
+
+LEMBAR KERJA PROYEK MINI
+
+Topik: kebiasaan membaca dan penggunaan sumber belajar.
+
+Tujuan: menggambarkan kebiasaan membaca tanpa menyimpulkan sebab-akibat yang tidak didukung desain.
+
+Rencana kerja:
+1. Tentukan populasi sasaran dan alasan pemilihannya.
+2. Tentukan unit analisis serta periode pencatatan.
+3. Susun pertanyaan netral dan hindari meminta nama atau data pribadi yang tidak diperlukan.
+4. Jelaskan cara memilih responden dan keterbatasan cakupan.
+5. Periksa jawaban kosong, jawaban ganda, dan satuan yang tidak konsisten.
+6. Sajikan minimal satu tabel dan satu grafik yang sesuai dengan jenis data.
+7. Hitung ukuran pusat dan variasi untuk variabel numerik.
+8. Tulis tiga temuan deskriptif dan dua keterbatasan.
+9. Minta orang lain memeriksa apakah grafik dan kesimpulan mudah dipahami.
+10. Simpan definisi variabel dan langkah analisis agar pekerjaan dapat ditinjau ulang.
+
+CONTOH FORMAT LAPORAN
+
+Judul: Gambaran Kebiasaan Membaca Peserta.
+
+Pertanyaan: Bagaimana distribusi waktu membaca mandiri dalam kelompok yang diamati?
+
+Metode: Jelaskan populasi, cara pemilihan peserta, periode, instrumen, dan jumlah data yang dianalisis.
+
+Hasil: Sajikan jumlah observasi, ukuran pusat, ukuran variasi, dan grafik yang relevan. Sertakan satuan dan sumber data.
+
+Interpretasi: Jelaskan pola yang terlihat tanpa menyatakan sebab-akibat jika desain tidak mendukungnya.
+
+Keterbatasan: Uraikan kemungkinan bias pemilihan, kesalahan ingatan, data hilang, dan batas generalisasi.
+
+Kesimpulan: Jawab pertanyaan sesuai bukti yang tersedia. Nyatakan informasi apa yang masih dibutuhkan untuk penelitian berikutnya.
+
+KUNCI PEMAHAMAN PRAKTIK
+
+1. Pada data waktu membaca 20, 25, 25, 30, 35, 40, dan 65 menit, rata-rata sekitar 34,29 menit, median 30 menit, modus 25 menit, dan rentang 45 menit.
+2. Perbandingan 35 dari 50 adalah 70 persen; 9 dari 30 adalah 30 persen. Perbedaan ini bersifat deskriptif dan tidak membuktikan sebab-akibat.
+3. Diagram batang membandingkan kategori, histogram menunjukkan distribusi numerik, grafik garis menunjukkan perubahan berurutan, dan diagram pencar memeriksa hubungan dua variabel numerik.
+4. Interval kepercayaan menggambarkan ketidakpastian prosedur estimasi, bukan rentang yang memuat 95 persen individu.
+5. Nilai p bukan peluang hipotesis nol benar; ukuran efek dan konteks tetap diperlukan.
+6. Koefisien regresi menjelaskan hubungan dalam model, bukan bukti otomatis bahwa prediktor menyebabkan perubahan respons.
+
+CATATAN PENGEMBANGAN MATERI
+
+Contoh angka pada bagian praktik ini sengaja dibuat sebagai data sintetis agar langkah perhitungan dapat diperiksa. Untuk penelitian nyata, gunakan data yang dikumpulkan dengan izin dan prosedur yang sesuai. Catat versi data, definisi variabel, metode analisis, dan perubahan yang dilakukan. Jika metode statistik digunakan untuk keputusan penting, mintalah penelaahan dari pengajar atau ahli metodologi.

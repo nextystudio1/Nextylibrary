@@ -115,7 +115,7 @@ BAB 15 — INTERAKSI ANTARSPESIES
 Kompetisi terjadi ketika organisme menggunakan sumber daya terbatas yang sama. Predasi melibatkan organisme yang memakan organisme lain. Mutualisme memberi manfaat bagi kedua pihak; komensalisme menguntungkan satu pihak tanpa dampak besar terukur pada pihak lain; parasitisme menguntungkan parasit dengan merugikan inang. Hubungan dapat berubah menurut kondisi.
 BAB 16 — SUKSESI DAN PEMULIHAN EKOSISTEM
 Suksesi adalah perubahan komposisi komunitas dari waktu ke waktu. Suksesi primer berlangsung pada substrat yang belum memiliki tanah berkembang, sedangkan sekunder terjadi ketika gangguan meninggalkan tanah atau sumber propagul. Restorasi tidak sekadar menanam pohon; tujuannya memulihkan fungsi, struktur, keanekaragaman, dan proses ekosistem.
-BAB 17 — JASA EKOSISTEM
+BAB 17 — PENDALAMAN: JASA EKOSISTEM
 Ekosistem menyediakan pangan dan air, mengatur banjir dan penyerbukan, serta memberi manfaat budaya seperti rekreasi. Penilaian jasa ekosistem membantu memperlihatkan manfaat yang tidak selalu masuk harga pasar. Nilai ekonomi bukan satu-satunya dasar konservasi; nilai intrinsik, hak masyarakat, pengetahuan lokal, dan keberlanjutan antargenerasi juga penting.
 BAB 18 — KONSERVASI DAN KONEKTIVITAS HABITAT
 Kawasan lindung dapat mengurangi tekanan, tetapi spesies sering memerlukan koridor untuk bergerak. Fragmentasi habitat dapat mengisolasi populasi dan mengurangi variasi genetik. Rancangan konservasi perlu memadukan data spesies, habitat, kebutuhan masyarakat, dan ancaman. Keberhasilan dipantau jangka panjang.
@@ -331,7 +331,7 @@ Buat audit sampah sederhana di lingkungan sekolah tanpa menyentuh benda berbahay
 RANGKUMAN
 Spesies invasif, nutrien berlebih, dan pencemaran plastik dapat mengubah ekosistem. Pencegahan, pemantauan, dan pengelolaan berbasis bukti lebih baik daripada tindakan tanpa penilaian dampak.
 
-BAB RESTORASI EKOSISTEM DAN PEMANTAUAN
+BAB PENDALAMAN — RESTORASI EKOSISTEM DAN PEMANTAUAN
 Restorasi ekosistem berupaya membantu ekosistem yang rusak pulih menuju kondisi yang lebih sehat. Restorasi berbeda dari penanaman pohon semata. Keberhasilan perlu dinilai dari fungsi ekologis, keanekaragaman spesies asli, kondisi tanah dan air, serta keberlanjutan pengelolaan. Pada beberapa lokasi, pemulihan proses alami lebih tepat daripada penanaman intensif.
 
 MENETAPKAN TUJUAN RESTORASI

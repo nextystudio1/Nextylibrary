@@ -76,6 +76,8 @@ PENDALAMAN — DNA, GEN, DAN KROMOSOM
 DNA adalah molekul yang menyimpan informasi genetik pada banyak organisme. Bagian DNA yang berperan dalam menghasilkan produk fungsional disebut gen. DNA dikemas bersama protein menjadi kromosom. Jumlah dan susunan kromosom berbeda antarspesies. Pada organisme eukariotik, sebagian besar DNA berada di inti sel, sementara DNA juga terdapat pada organel tertentu. Gen tidak bekerja sendirian; aktivitasnya dipengaruhi jaringan pengatur, lingkungan sel, dan tahap perkembangan. Karena itu, satu sifat yang terlihat sering melibatkan banyak gen dan faktor lingkungan. Memahami hubungan DNA, gen, dan kromosom membantu menghindari anggapan bahwa setiap sifat ditentukan oleh satu gen sederhana.
 
 BAB 7. REPLIKASI, TRANSKRIPSI, DAN TRANSLASI
+
+[[NEXTY_IMAGE|file:///android_asset/illustrations/alur-ekspresi-gen.svg|Alur informasi genetik dari DNA melalui RNA hingga pembentukan protein.]]
 Sebelum sel membelah, DNA direplikasi agar informasi genetik dapat diteruskan. Dalam ekspresi gen, informasi pada DNA dapat ditranskripsi menjadi RNA. Pada proses translasi, ribosom membaca kode pada RNA pembawa pesan untuk menyusun rantai asam amino. Urutan asam amino memengaruhi struktur dan fungsi protein. Kesalahan pada DNA atau pengaturan ekspresi gen dapat mengubah produk gen, tetapi dampaknya beragam: ada perubahan yang tidak berpengaruh nyata, ada yang mengubah fungsi sel, dan ada yang berkaitan dengan penyakit. Proses ini bukan jalur yang selalu sederhana karena banyak tahap pengaturan dan pemeriksaan berlangsung di dalam sel.
 
 BAB 8. PEWARISAN MENDELIAN DAN BATASNYA

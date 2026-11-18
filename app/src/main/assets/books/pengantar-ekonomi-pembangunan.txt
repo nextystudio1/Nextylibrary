@@ -105,6 +105,8 @@ Sebuah layanan perizinan memerlukan banyak kunjungan dan dokumen yang sama. Susu
 
 BAB 10. PEMBANGUNAN WILAYAH DAN KESENJANGAN
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/tahapan-pembangunan-wilayah.svg|Hubungan infrastruktur, akses layanan, produktivitas, dan kesejahteraan dalam pembangunan wilayah]]
+
 Pembangunan wilayah dipengaruhi lokasi, sumber daya, sejarah investasi, kepadatan penduduk, konektivitas, dan kapasitas pemerintah daerah. Perbedaan hasil antardaerah tidak selalu menunjukkan perbedaan usaha individu; kondisi awal dan kesempatan juga berperan. Kebijakan wilayah perlu mengidentifikasi hambatan spesifik, bukan menyalin satu program ke semua tempat.
 
 Pusat pertumbuhan dapat menciptakan pekerjaan dan pasar bagi wilayah sekitarnya melalui hubungan perdagangan, perjalanan, dan rantai pasok. Namun, manfaat dapat terkonsentrasi jika transportasi mahal, keterampilan tidak cocok, atau usaha kecil tidak dapat masuk ke jaringan pemasok. Evaluasi perlu melihat siapa yang memperoleh manfaat, siapa yang menanggung biaya, dan bagaimana hubungan antardaerah terbentuk.

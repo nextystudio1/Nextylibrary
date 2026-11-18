@@ -166,7 +166,7 @@ Catat jenis tanaman, tanggal tanam, kondisi cuaca, kebutuhan air, gangguan, hasi
 
 LATIHAN
 Rancang kebun kecil pada area yang aman dan mendapat izin. Pilih tiga tanaman sesuai kondisi, buat jadwal pengamatan, rencanakan penggunaan air, dan tentukan cara mencatat hasil serta limbah.
-BAB 8. PERENCANAAN RUANG DAN PEMILIHAN SISTEM BUDIDAYA
+BAB PENDALAMAN — PERENCANAAN RUANG DAN PEMILIHAN SISTEM BUDIDAYA
 
 Perencanaan kebun dimulai dengan membaca kondisi lokasi. Amati arah dan lama penyinaran, bayangan bangunan, aliran air saat hujan, akses menuju sumber air, kekuatan permukaan, serta kemungkinan gangguan dari kendaraan atau aktivitas sekitar. Pada balkon dan atap, beban wadah, air, dan media tanam perlu diperhitungkan oleh pihak yang memahami kapasitas bangunan. Jangan menempatkan wadah berat pada struktur yang belum dipastikan aman.
 
@@ -174,7 +174,7 @@ Pilih tanaman berdasarkan iklim mikro, ukuran ruang, tujuan panen, waktu pemelih
 
 Sistem wadah memudahkan pengendalian media dan pemindahan tanaman, tetapi volumenya membatasi ruang akar dan cadangan air. Bedengan dapat menyediakan volume lebih besar, namun hanya layak jika tanah dan drainasenya diketahui aman. Hidroponik mengalirkan larutan nutrisi ke akar tanpa tanah; sistem ini membutuhkan pemantauan pH, konsentrasi nutrisi, aliran, kebersihan, dan pasokan listrik jika memakai pompa. Tidak ada metode yang otomatis paling hemat untuk semua lokasi.
 
-BAB 9. KESEHATAN TANAH, KOMPOS, DAN SIKLUS HARA
+BAB PENDALAMAN — KESEHATAN TANAH, KOMPOS, DAN SIKLUS HARA
 
 Tanah merupakan sistem hidup yang tersusun dari mineral, bahan organik, air, udara, dan organisme. Struktur tanah memengaruhi pergerakan air serta udara. Pemadatan dapat mengurangi ruang pori dan menghambat akar. Bahan organik membantu pembentukan agregat dan dapat meningkatkan kemampuan tanah menahan air, tetapi manfaatnya bergantung pada mutu bahan dan kondisi tanah.
 
@@ -182,7 +182,7 @@ Kompos matang terbentuk melalui penguraian bahan organik oleh organisme. Proses 
 
 Hara tanaman dibutuhkan dalam jumlah berbeda. Nitrogen berkaitan dengan pembentukan jaringan vegetatif, fosfor berperan dalam transfer energi dan perkembangan akar, sedangkan kalium mendukung pengaturan air dan berbagai proses fisiologis. Unsur mikro juga diperlukan meski jumlahnya kecil. Gejala daun menguning atau pertumbuhan lambat tidak selalu menunjukkan satu jenis kekurangan; pH, akar rusak, air berlebih, penyakit, dan salinitas dapat menghasilkan gejala mirip. Diagnosis perlu melihat pola gejala, kondisi media, dan riwayat perawatan.
 
-BAB 10. KEAMANAN PANGAN DAN KUALITAS AIR
+BAB PENDALAMAN — KEAMANAN PANGAN DAN KUALITAS AIR
 
 Keamanan pangan harus dipertimbangkan sejak pemilihan lokasi sampai hasil panen dikonsumsi. Tanah yang mungkin tercemar logam berat atau bahan kimia tidak boleh dianggap aman hanya karena tanaman tumbuh subur. Jika riwayat lahan tidak jelas, gunakan sumber media yang dapat ditelusuri atau lakukan pengujian melalui laboratorium yang kompeten. Lapisan pembatas atau wadah bersih dapat mengurangi kontak dengan tanah bermasalah, tetapi tidak menggantikan penilaian risiko.
 
@@ -190,7 +190,7 @@ Air untuk menyiram tanaman pangan perlu berasal dari sumber yang sesuai. Air lim
 
 Saat panen, gunakan alat dan wadah bersih. Pisahkan hasil panen dari bahan kimia, bahan bakar, dan limbah. Cuci tangan dan peralatan, serta gunakan air yang aman untuk pencucian. Hasil yang rusak atau menunjukkan pembusukan harus dipisahkan. Catatan tanggal panen, lokasi, dan perlakuan membantu penelusuran jika muncul keluhan.
 
-BAB 11. EKONOMI KEBUN DAN PENGUKURAN PRODUKTIVITAS
+BAB PENDALAMAN — EKONOMI KEBUN DAN PENGUKURAN PRODUKTIVITAS
 
 Produktivitas kebun tidak cukup diukur dari berat panen. Catat luas yang digunakan, jumlah tanaman hidup, waktu kerja, air, media, benih, pupuk, kehilangan akibat hama, dan hasil layak konsumsi. Hasil per meter persegi dapat membantu perbandingan, tetapi perlu periode pengamatan yang sama dan pencatatan kondisi musim.
 

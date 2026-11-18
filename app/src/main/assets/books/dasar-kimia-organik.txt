@@ -170,7 +170,7 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa turunan karbonil memiliki reaktivitas berbeda? Karena struktur dan kestabilan gugus pergi memengaruhi jalur reaksi.
 4. Sebutkan faktor yang memengaruhi sifat polimer. Panjang rantai, percabangan, kristalinitas, ikatan silang, dan aditif.
 5. Mengapa label ramah lingkungan perlu bukti? Karena dampak bergantung pada seluruh siklus hidup dan konteks penggunaan.
-BAB 14. STEREOKIMIA DAN HUBUNGAN STRUKTUR-SIFAT
+BAB PENDALAMAN — STEREOKIMIA DAN HUBUNGAN STRUKTUR-SIFAT
 
 Molekul memiliki susunan tiga dimensi. Dua struktur dengan rumus molekul dan urutan ikatan yang sama dapat berbeda orientasi ruangnya. Isomer geometri muncul ketika rotasi terbatas, misalnya pada ikatan rangkap atau cincin. Isomer optik berkaitan dengan molekul kiral yang tidak dapat ditumpangtindihkan dengan bayangan cerminnya.
 
@@ -178,7 +178,7 @@ Pusat kiral sering berupa atom karbon yang terikat pada empat gugus berbeda, tet
 
 Sifat fisik dan biologis dapat berbeda antarstereoisomer. Enzim dan reseptor memiliki bentuk tiga dimensi sehingga dapat berinteraksi secara selektif. Dalam sintesis, pengendalian stereokimia penting untuk menghasilkan produk yang diinginkan. Identifikasi stereoisomer memerlukan metode analisis yang sesuai dan standar pembanding.
 
-BAB 15. SPEKTROSKOPI UNTUK IDENTIFIKASI SENYAWA
+BAB PENDALAMAN — SPEKTROSKOPI UNTUK IDENTIFIKASI SENYAWA
 
 Spektroskopi mempelajari interaksi radiasi dengan materi. Spektrum inframerah dapat membantu mengidentifikasi jenis ikatan melalui pita serapan yang berkaitan dengan vibrasi molekul. Spektrum NMR memberikan informasi tentang lingkungan inti atom dalam medan magnet, sehingga membantu menafsirkan kerangka molekul. Spektrometri massa memberikan informasi massa ion dan pola fragmentasi.
 
@@ -186,7 +186,7 @@ Tidak satu pun teknik harus ditafsirkan sendirian tanpa konteks. Sampel campuran
 
 Dalam pembelajaran, tujuan awal bukan menghafal semua posisi puncak, melainkan memahami jenis informasi yang disediakan setiap metode. Buat tabel yang mencatat sinyal, kemungkinan gugus, bukti pendukung, dan ketidakpastian. Kesimpulan struktur harus menjelaskan mengapa alternatif lain kurang sesuai.
 
-BAB 16. POLIMER DAN KIMIA MATERIAL
+BAB PENDALAMAN — POLIMER DAN KIMIA MATERIAL
 
 Polimer tersusun dari unit berulang yang membentuk rantai panjang. Polimer dapat berasal dari alam atau dibuat melalui proses industri. Panjang rantai, distribusi massa molekul, percabangan, ikatan silang, kristalinitas, dan aditif memengaruhi sifat mekanik serta termal. Karena itu, istilah “plastik” mencakup banyak material dengan karakteristik berbeda.
 
@@ -194,7 +194,7 @@ Termoplastik dapat melunak ketika dipanaskan dan dibentuk kembali dalam kondisi 
 
 Daur hidup polimer meliputi bahan baku, sintesis, aditif, pemrosesan, penggunaan, pengumpulan, dan akhir masa pakai. Daur ulang mekanis dapat menurunkan sifat material akibat kontaminasi atau degradasi. Daur ulang kimia memiliki kebutuhan energi, bahan, dan infrastruktur tersendiri. Pencegahan penggunaan yang tidak perlu dan desain untuk penggunaan ulang tetap penting.
 
-BAB 17. KIMIA ORGANIK DALAM KEHIDUPAN DAN LINGKUNGAN
+BAB PENDALAMAN — KIMIA ORGANIK DALAM KEHIDUPAN DAN LINGKUNGAN
 
 Senyawa organik hadir dalam pangan, obat, bahan bakar, serat, cat, dan produk pembersih. Sifatnya ditentukan oleh struktur, gugus fungsi, kelarutan, volatilitas, kestabilan, serta interaksi dengan lingkungan. Keberadaan senyawa alami tidak otomatis aman, dan senyawa sintetis tidak otomatis berbahaya. Penilaian risiko membutuhkan informasi tentang bahaya, dosis, jalur paparan, durasi, dan kelompok yang terpapar.
 
@@ -202,7 +202,7 @@ Pencemar organik dapat bertahan atau terurai dengan laju berbeda. Kelarutan dala
 
 Penilaian bahan kimia memerlukan label, lembar data keselamatan, prosedur laboratorium, alat pelindung yang sesuai, dan pengelolaan limbah berdasarkan aturan. Percobaan kimia hanya dilakukan dalam fasilitas pembelajaran yang diawasi dan menggunakan prosedur resmi. Buku ini menjelaskan konsep, bukan menggantikan instruksi keselamatan laboratorium.
 
-BAB 18. STRATEGI PEMECAHAN SOAL DAN PENALARAN MEKANISME
+BAB PENDALAMAN — STRATEGI PEMECAHAN SOAL DAN PENALARAN MEKANISME
 
 Dalam menyelesaikan soal kimia organik, identifikasi terlebih dahulu gugus fungsi, jenis reaksi, dan kondisi yang disebutkan. Tulis apa yang diketahui dan apa yang diminta. Periksa muatan formal, jumlah atom, serta keseimbangan persamaan. Mekanisme harus menjelaskan perpindahan elektron dengan notasi yang benar, bukan sekadar menggambar produk akhir.
 

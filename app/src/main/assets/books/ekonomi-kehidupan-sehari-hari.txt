@@ -62,6 +62,7 @@ LATIHAN
 Seseorang memiliki waktu tiga jam dan memilih belajar selama dua jam. Sebutkan beberapa alternatif yang dikorbankan dan jelaskan mana biaya peluang utamanya.
 
 BAB 3. PERMINTAAN DAN PENAWARAN
+[[NEXTY_IMAGE|file:///android_asset/illustrations/permintaan-penawaran.svg|Kurva permintaan dan penawaran untuk memahami perubahan harga serta keseimbangan pasar.]]
 Permintaan menggambarkan hubungan antara harga suatu barang dan jumlah yang ingin serta mampu dibeli konsumen dalam periode tertentu, dengan faktor lain tetap. Hukum permintaan menyatakan bahwa ketika harga naik, jumlah yang diminta biasanya turun, dan sebaliknya. Hubungan ini dapat dipengaruhi pendapatan, selera, harga barang terkait, jumlah pembeli, dan perkiraan masa depan.
 
 Penawaran menggambarkan hubungan harga dan jumlah yang ingin serta mampu dijual produsen. Ketika harga naik, produsen biasanya bersedia menawarkan jumlah lebih besar karena potensi pendapatan meningkat. Penawaran juga dipengaruhi biaya input, teknologi, pajak, subsidi, jumlah penjual, dan kondisi alam.

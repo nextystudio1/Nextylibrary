@@ -175,7 +175,7 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa kapasitas pendingin harus sesuai beban? Kapasitas yang tidak sesuai dapat menurunkan efisiensi dan kenyamanan.
 4. Apa faktor kualitas pencahayaan selain tingkat terang? Silau, distribusi, warna, kedipan, dan kontras.
 5. Mengapa produksi panel surya perlu dibandingkan dengan profil beban? Karena waktu produksi dan waktu konsumsi bisa berbeda.
-BAB 14. BEBAN PENDINGINAN DAN KINERJA SELUBUNG
+BAB PENDALAMAN — BEBAN PENDINGINAN DAN KINERJA SELUBUNG
 
 Kebutuhan energi bangunan dipengaruhi perpindahan panas melalui atap, dinding, lantai, kaca, infiltrasi, ventilasi, penghuni, lampu, dan peralatan. Beban pendinginan berubah menurut waktu karena matahari, cuaca, penggunaan ruang, dan operasi peralatan. Menggunakan angka konsumsi bulanan saja tidak cukup untuk memahami jam puncak atau penyebab beban.
 
@@ -183,7 +183,7 @@ Konduksi terjadi melalui material, radiasi memindahkan energi melalui gelombang 
 
 Nilai transmitansi termal material membantu membandingkan kemampuan elemen bangunan menghantarkan panas. Namun kinerja nyata dipengaruhi sambungan, kebocoran udara, jembatan termal, kelembapan, dan mutu pemasangan. Perhitungan konsep perlu ditinjau oleh tenaga ahli sebelum menjadi keputusan konstruksi.
 
-BAB 15. SISTEM PENDINGINAN DAN KUALITAS UDARA DALAM RUANG
+BAB PENDALAMAN — SISTEM PENDINGINAN DAN KUALITAS UDARA DALAM RUANG
 
 Sistem pendingin memindahkan panas dari ruang ke lingkungan melalui siklus refrigerasi. Kinerja dinilai menggunakan ukuran efisiensi yang harus dibaca sesuai kondisi pengujian. Peralatan yang sangat efisien pada kondisi laboratorium belum tentu mencapai hasil sama ketika dipasang atau dioperasikan dengan buruk.
 
@@ -191,7 +191,7 @@ Ukuran peralatan harus sesuai beban. Kapasitas terlalu besar dapat menyebabkan s
 
 Kualitas udara dalam ruang dipengaruhi sumber polutan, ventilasi, filtrasi, kelembapan, dan kegiatan penghuni. Sumber dapat berupa asap, bahan pembersih, emisi material, debu, dan aktivitas memasak. Peningkatan ventilasi dapat membantu mengencerkan polutan, tetapi udara luar juga perlu dinilai kualitasnya. Pemeliharaan filter dan saluran harus mengikuti panduan produsen dan standar keselamatan.
 
-BAB 16. PENGUKURAN ENERGI DAN INTERPRETASI DATA
+BAB PENDALAMAN — PENGUKURAN ENERGI DAN INTERPRETASI DATA
 
 Data meter energi menunjukkan konsumsi selama interval tertentu, tetapi tidak selalu menjelaskan peralatan yang menggunakannya. Submeter dapat membantu memisahkan beban penerangan, pendinginan, dan peralatan, selama pemasangan dan pengukuran dilakukan oleh tenaga yang berwenang. Jangan membuka panel listrik atau mengubah instalasi sebagai bagian dari pengamatan pembelajaran.
 
@@ -199,7 +199,7 @@ Indikator intensitas energi dapat dihitung dengan membagi konsumsi energi oleh l
 
 Normalisasi cuaca dapat membantu membedakan perubahan konsumsi akibat kondisi luar dari perubahan operasi. Catat periode, satuan, sumber data, dan metode. Jika data tidak lengkap, jangan mengisi kekosongan dengan angka yang seolah-olah pasti. Laporkan rentang dan keterbatasan.
 
-BAB 17. STRATEGI PENGHEMATAN DAN VERIFIKASI HASIL
+BAB PENDALAMAN — STRATEGI PENGHEMATAN DAN VERIFIKASI HASIL
 
 Penghematan energi dapat dimulai dari pengaturan jadwal, pemeliharaan, pemanfaatan cahaya alami, peneduhan, dan edukasi pengguna. Perubahan harus menjaga kenyamanan, kesehatan, dan keselamatan. Mematikan ventilasi yang dibutuhkan atau mengurangi penerangan sampai mengganggu aktivitas bukan penghematan yang bertanggung jawab.
 

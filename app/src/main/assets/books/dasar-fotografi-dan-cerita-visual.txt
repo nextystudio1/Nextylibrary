@@ -133,25 +133,25 @@ LATIHAN TERAPAN
 4. Sebutkan situasi ketika izin subjek perlu diminta.
 5. Susun alur pengarsipan foto yang mudah ditelusuri.
 
-BAB 12. PENCAHAYAAN DAN KONTROL EKSPOSUR
+BAB PENDALAMAN — PENCAHAYAAN DAN KONTROL EKSPOSUR
 
 Eksposur menentukan banyaknya cahaya yang direkam sensor. Tiga kendali utama adalah bukaan lensa, waktu eksposur, dan sensitivitas sensor. Ketiganya saling memengaruhi, tetapi juga mengubah tampilan: bukaan memengaruhi kedalaman bidang, waktu eksposur memengaruhi jejak gerak, dan sensitivitas tinggi dapat meningkatkan noise.
 
 Tidak ada satu pengaturan yang selalu benar. Pilihan ditentukan oleh gerak subjek, cahaya, kedalaman bidang yang diinginkan, dan kemampuan alat. Histogram membantu memeriksa distribusi tonal, tetapi tidak menggantikan penilaian isi gambar. Area terang yang terpotong atau bayangan tanpa detail perlu dipertimbangkan sesuai tujuan visual.
 
-BAB 13. LENSA, PERSPEKTIF, DAN KEDALAMAN BIDANG
+BAB PENDALAMAN — LENSA, PERSPEKTIF, DAN KEDALAMAN BIDANG
 
 Panjang fokus memengaruhi sudut pandang dan pembesaran pada ukuran sensor tertentu. Perspektif terutama berubah karena posisi kamera terhadap subjek, bukan semata karena nama lensa. Memotret dari jarak berbeda lalu mengubah panjang fokus untuk menjaga ukuran subjek dapat menghasilkan hubungan ruang yang berbeda.
 
 Kedalaman bidang dipengaruhi bukaan, jarak fokus, panjang fokus, ukuran sensor, dan jarak subjek. Latar kabur dapat membantu pemisahan subjek, tetapi tidak selalu menjadi pilihan terbaik. Foto dokumenter sering membutuhkan konteks lingkungan yang tetap terbaca.
 
-BAB 14. CAHAYA, WARNA, DAN KESEIMBANGAN PUTIH
+BAB PENDALAMAN — CAHAYA, WARNA, DAN KESEIMBANGAN PUTIH
 
 Sumber cahaya memiliki karakter spektrum dan temperatur warna yang berbeda. Keseimbangan putih menyesuaikan interpretasi warna agar objek tampak wajar dalam kondisi pencahayaan tertentu. Pengaturan otomatis dapat membantu, tetapi sumber campuran sering menghasilkan warna yang tidak seragam pada bagian gambar.
 
 Warna dalam foto juga dipengaruhi profil warna, layar, pencahayaan saat melihat, dan proses ekspor. Kalibrasi monitor membantu konsistensi, tetapi tidak menjamin semua perangkat menampilkan warna identik. Simpan berkas asli dan catat pengaturan ketika warna penting bagi dokumentasi.
 
-BAB 15. KOMPOSISI DAN BAHASA VISUAL
+BAB PENDALAMAN — KOMPOSISI DAN BAHASA VISUAL
 
 Komposisi mengarahkan perhatian melalui garis, bentuk, ruang, pola, kontras, dan hubungan antarobjek. Aturan sepertiga dapat menjadi titik awal, bukan hukum yang wajib diikuti. Komposisi simetris dapat menyampaikan kestabilan, sedangkan ruang kosong dapat memberi kesan tenang atau menonjolkan subjek.
 

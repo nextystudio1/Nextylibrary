@@ -179,7 +179,7 @@ LATIHAN DAN PEMBAHASAN
 3. Mengapa kenaikan nilai lahan dapat menimbulkan masalah sosial? Dapat meningkatkan biaya hunian dan mendorong perpindahan kelompok berpendapatan rendah.
 4. Apa manfaat infrastruktur hijau? Membantu mengelola air dan meningkatkan kualitas ruang, dengan syarat desain dan perawatan sesuai.
 5. Mengapa metadata peta penting? Untuk mengetahui ketelitian, cakupan, waktu, dan batas penggunaan data.
-BAB 14. TATA GUNA LAHAN DAN BENTUK KOTA
+PENDALAMAN LANJUTAN — TATA GUNA LAHAN DAN BENTUK KOTA
 
 Tata guna lahan menggambarkan lokasi dan intensitas berbagai kegiatan, seperti hunian, perdagangan, industri, fasilitas umum, ruang terbuka, dan infrastruktur. Pola tersebut memengaruhi jarak perjalanan, harga lahan, kebutuhan jaringan, dan interaksi sosial. Pemisahan fungsi yang terlalu jauh dapat meningkatkan ketergantungan pada perjalanan bermotor, sedangkan campuran fungsi yang tidak dikelola dapat menimbulkan konflik kebisingan, keselamatan, atau lingkungan.
 
@@ -187,7 +187,7 @@ Kepadatan perlu dibedakan dari kualitas lingkungan. Kepadatan tinggi dapat mendu
 
 Perencanaan perlu mempertimbangkan hubungan pusat kegiatan, jaringan jalan, jalur pejalan kaki, transportasi umum, dan fasilitas sosial. Analisis jarak garis lurus tidak cukup karena sungai, pagar, jalan arteri, dan kondisi trotoar dapat memutus akses. Gunakan jaringan aktual dan amati pengalaman pengguna.
 
-BAB 14A. PERUMAHAN, KETERJANGKAUAN, DAN HAK ATAS KOTA
+PENDALAMAN LANJUTAN — PERUMAHAN, KETERJANGKAUAN, DAN HAK ATAS KOTA
 
 Perumahan bukan hanya unit bangunan, tetapi bagian dari akses terhadap pekerjaan, pendidikan, kesehatan, transportasi, dan jaringan sosial. Keterjangkauan dipengaruhi harga atau sewa, pendapatan, biaya perjalanan, biaya utilitas, serta kestabilan hunian. Rumah yang murah tetapi jauh dari layanan dapat menghasilkan beban total yang tinggi.
 
@@ -195,7 +195,7 @@ Perubahan kawasan dapat menaikkan nilai lahan dan menarik investasi. Perbaikan r
 
 Partisipasi warga dalam perencanaan hunian harus berlangsung sejak identifikasi kebutuhan. Peta partisipatif dan diskusi kelompok dapat membantu, tetapi harus disertai penjelasan tentang batas kewenangan dan tindak lanjut. Jangan menjanjikan hasil yang belum diputuskan.
 
-BAB 15. TRANSPORTASI DAN AKSESIBILITAS
+PENDALAMAN LANJUTAN — TRANSPORTASI DAN AKSESIBILITAS
 
 Transportasi menghubungkan manusia dengan kegiatan, tetapi mobilitas tinggi bukan satu-satunya tujuan. Aksesibilitas mengukur seberapa mudah seseorang mencapai tujuan yang dibutuhkan. Perencanaan perlu mempertimbangkan waktu, biaya, keselamatan, keandalan, kenyamanan, dan kemampuan pengguna.
 
@@ -203,7 +203,7 @@ Jaringan transportasi terdiri dari simpul dan ruas. Perpindahan moda, koneksi an
 
 Prioritas ruang jalan mencerminkan pilihan kebijakan. Trotoar yang terputus, penyeberangan yang jauh, dan akses halte yang sulit dapat mengecualikan pejalan kaki, anak, lansia, dan penyandang disabilitas. Audit berjalan kaki perlu memeriksa kondisi nyata, bukan hanya lebar yang tercantum pada peta.
 
-BAB 16. AIR PERKOTAAN, DRAINASE, DAN INFRASTRUKTUR HIJAU
+PENDALAMAN LANJUTAN — AIR PERKOTAAN, DRAINASE, DAN INFRASTRUKTUR HIJAU
 
 Sistem air kota mencakup hujan, limpasan, sungai, saluran, air tanah, dan jaringan sanitasi. Permukaan kedap mengurangi infiltrasi dan dapat mempercepat limpasan. Perubahan lahan di hulu dapat memengaruhi kawasan hilir. Karena itu, pengendalian banjir tidak cukup berfokus pada satu saluran atau batas administrasi.
 
@@ -211,7 +211,7 @@ Infrastruktur hijau seperti taman resapan, vegetasi tepi sungai, dan permukaan b
 
 Pemeliharaan sering menentukan keberhasilan. Saluran yang tersumbat, ruang resapan yang tertutup, dan vegetasi yang tidak dirawat dapat kehilangan fungsi. Rencana operasional perlu menyebut pihak penanggung jawab, jadwal inspeksi, sumber pembiayaan, dan mekanisme pelaporan.
 
-BAB 17. PERENCANAAN PARTISIPATIF DAN PENGGUNAAN DATA
+PENDALAMAN LANJUTAN — PERENCANAAN PARTISIPATIF DAN PENGGUNAAN DATA
 
 Data perencanaan berasal dari sensus, survei, citra, peta, catatan layanan, dan pengetahuan warga. Setiap sumber memiliki skala, waktu, dan keterbatasan. Data lama dapat tidak lagi mencerminkan perubahan permukiman. Peta yang rinci belum tentu akurat jika metode pengumpulan tidak jelas.
 

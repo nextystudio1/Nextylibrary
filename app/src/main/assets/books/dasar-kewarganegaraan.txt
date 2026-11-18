@@ -33,6 +33,7 @@ RANGKUMAN
 
 BAB 2. KONSTITUSI DAN PRINSIP DASAR
 
+[[NEXTY_IMAGE|file:///android_asset/illustrations/pembagian-kekuasaan-negara.svg|Diagram konseptual pembagian kekuasaan dan mekanisme pengawasan dalam negara hukum.]]
 Konstitusi menetapkan kerangka penyelenggaraan negara, pembagian kewenangan, dan perlindungan hak. Prinsip negara hukum menghendaki kekuasaan dijalankan berdasarkan aturan, bukan kehendak sewenang-wenang. Aturan harus dapat diketahui, diterapkan secara konsisten, dan dapat diuji melalui mekanisme yang sah.
 
 BAB 3. DEMOKRASI DAN PARTISIPASI

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect width="1200" height="720" rx="28" fill="#F7FAF8"/>
+<text x="600" y="76" text-anchor="middle" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#173B32">ALUR DASAR PERTOLONGAN PERTAMA</text>
+<text x="600" y="118" text-anchor="middle" font-family="Arial,sans-serif" font-size="21" fill="#49645C">Panduan umum — utamakan keselamatan dan bantuan tenaga terlatih</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="80" y="190" width="300" height="150" rx="22" fill="#E3F1EB" stroke="#397B62" stroke-width="3"/>
+<circle cx="230" cy="230" r="24" fill="#397B62"/><text x="230" y="239" font-size="25" font-weight="700" fill="white">1</text>
+<text x="230" y="285" font-size="27" font-weight="700" fill="#173B32">Pastikan aman</text><text x="230" y="316" font-size="19" fill="#49645C">Jangan menambah risiko</text>
+<rect x="450" y="190" width="300" height="150" rx="22" fill="#E8EFFB" stroke="#5579B8" stroke-width="3"/>
+<circle cx="600" cy="230" r="24" fill="#5579B8"/><text x="600" y="239" font-size="25" font-weight="700" fill="white">2</text>
+<text x="600" y="285" font-size="27" font-weight="700" fill="#20385D">Periksa respons</text><text x="600" y="316" font-size="19" fill="#4D6280">Amati kondisi dari dekat</text>
+<rect x="820" y="190" width="300" height="150" rx="22" fill="#FFF1DE" stroke="#B77B32" stroke-width="3"/>
+<circle cx="970" cy="230" r="24" fill="#B77B32"/><text x="970" y="239" font-size="25" font-weight="700" fill="white">3</text>
+<text x="970" y="285" font-size="27" font-weight="700" fill="#69461D">Minta bantuan</text><text x="970" y="316" font-size="19" fill="#80613B">Hubungi layanan darurat</text>
+<path d="M385 265 H440 M755 265 H810" stroke="#658477" stroke-width="6" stroke-linecap="round"/><path d="M430 250 L445 265 L430 280 M800 250 L815 265 L800 280" fill="none" stroke="#658477" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="190" y="430" width="820" height="170" rx="22" fill="#FFFFFF" stroke="#C9D8D1" stroke-width="3"/>
+<text x="600" y="478" font-size="28" font-weight="700" fill="#173B32">Lakukan sesuai pelatihan</text>
+<text x="600" y="522" font-size="22" fill="#49645C">Ikuti instruksi petugas dan panduan resmi pertolongan pertama.</text>
+<text x="600" y="560" font-size="22" fill="#49645C">Jangan memberi makan, minum, atau obat tanpa arahan yang tepat.</text>
+</g></svg>

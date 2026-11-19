@@ -820,7 +820,7 @@ private fun addDefaultBookIllustration(content: String, title: String): String {
         listOf("bahasa", "linguistik", "menulis", "akademik").any { name.contains(it) } -> "alur-interaksi.svg"
         listOf("antropologi", "sosiologi", "masyarakat", "budaya").any { name.contains(it) } -> "alur-interaksi.svg"
         listOf("manajemen proyek", "proyek").any { name.contains(it) } -> "jadwal-proyek.svg"
-        listOf("pertolongan pertama").any { name.contains(it) } -> "siklus-mendengar-aktif.svg"
+        listOf("pertolongan pertama").any { name.contains(it) } -> "pertolongan-pertama.svg"
         else -> "alur-penelitian.svg"
     }
     return "[[NEXTY_IMAGE|file:///android_asset/illustrations/$asset|Ilustrasi materi: $title]]\n\n$content"

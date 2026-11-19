@@ -1049,6 +1049,8 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
                         section.paragraphs.forEachIndexed { index, paragraph ->
                             val isSubheading = paragraph.matches(Regex("(?i)^(?:RANGKUMAN(?:\\s+BAB\\s+\\d+)?|LATIHAN(?:\\s+BAB\\s+\\d+)?|ISTILAH PENTING|CONTOH(?:\\s+\\w+)?|TUJUAN PEMBELAJARAN|POIN UTAMA|EVALUASI|REFLEKSI|AKTIVITAS|STUDI KASUS|PERTANYAAN PEMAHAMAN|RINGKASAN)(?:\\s*[:—–.-].*)?$"))
                             val isBullet = paragraph.matches(Regex("^(?:[•▪◦–—-]\\s+|\\d+[.)]\\s+|[a-zA-Z][.)]\\s+).*"))
+                            val listPrefix = if (isBullet) Regex("^(?:[•▪◦–—-]|\\d+[.)]|[a-zA-Z][.)])\\s+").find(paragraph)?.value?.trim() else null
+                            val listText = if (isBullet) paragraph.removePrefix(listPrefix.orEmpty()).trimStart() else paragraph
                             if (paragraph.startsWith("[[NEXTY_IMAGE|") && paragraph.endsWith("]]")) {
                                 val parts = paragraph.removePrefix("[[NEXTY_IMAGE|").removeSuffix("]]").split("|", limit = 2)
                                 if (parts.isNotEmpty()) {
@@ -1067,11 +1069,11 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
                             } else {
                                 Row(Modifier.fillMaxWidth(), verticalAlignment = Alignment.Top) {
                                     if (isBullet) {
-                                        Text(if (paragraph.firstOrNull()?.isDigit() == true) "" else "•", color = Green,
-                                            fontSize = fontSize.sp, fontWeight = FontWeight.Bold, modifier = Modifier.width(22.dp))
+                                        Text(listPrefix ?: "•", color = Green,
+                                            fontSize = fontSize.sp, fontWeight = FontWeight.Bold, modifier = Modifier.width(28.dp))
                                     }
                                     Text(
-                                        if (isBullet) paragraph.replace(Regex("^(?:[•▪◦–—-]\\s+|\\d+[.)]\\s+|[a-zA-Z][.)]\\s+)"), "") else paragraph,
+                                        listText,
                                         color = Color(0xFF302F2A), fontSize = fontSize.sp,
                                         lineHeight = (fontSize * 1.72f).sp, fontFamily = FontFamily.Serif,
                                         textAlign = TextAlign.Start, modifier = Modifier.weight(1f)

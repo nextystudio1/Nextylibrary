@@ -1,5 +1,6 @@
 package com.nextystudio.nextylibrary
 
+import android.content.Context
 import android.net.Uri
 import android.text.Html
 import android.graphics.Bitmap
@@ -974,7 +975,28 @@ private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () ->
     var error by remember(book.id) { mutableStateOf<String?>(null) }
     var loading by remember(book.id) { mutableStateOf(true) }
     var fontSize by remember(book.id) { mutableFloatStateOf(18f) }
-    val listState = androidx.compose.foundation.lazy.rememberLazyListState()
+    val readingProgress = remember(context) {
+        context.getSharedPreferences("nextylibrary_reading_progress", Context.MODE_PRIVATE)
+    }
+    val savedIndex = remember(book.id) {
+        readingProgress.getInt("position_index_${book.id}", 0).coerceAtLeast(0)
+    }
+    val savedOffset = remember(book.id) {
+        readingProgress.getInt("position_offset_${book.id}", 0).coerceAtLeast(0)
+    }
+    val listState = androidx.compose.foundation.lazy.rememberLazyListState(
+        initialFirstVisibleItemIndex = savedIndex,
+        initialFirstVisibleItemScrollOffset = savedOffset
+    )
+    LaunchedEffect(book.id, listState) {
+        snapshotFlow { listState.firstVisibleItemIndex to listState.firstVisibleItemScrollOffset }
+            .collect { (index, offset) ->
+                readingProgress.edit()
+                    .putInt("position_index_${book.id}", index)
+                    .putInt("position_offset_${book.id}", offset)
+                    .apply()
+            }
+    }
     LaunchedEffect(book.id, book.contentPath) {
         loading = true
         error = null

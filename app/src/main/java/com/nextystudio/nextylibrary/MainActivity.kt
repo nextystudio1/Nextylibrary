@@ -197,7 +197,7 @@ fun NextyLibraryApp() {
                 } else {
                     when (tab) {
                         "Beranda" -> Box(Modifier.weight(1f)) { HomeScreen(books, categories, loading, error, search, { search = it }, selectedCategory, { selectedCategory = it }, { reloadKey++ }, { selected = it }, musicPlayer, musicPlaying, { if (musicPlaying) { musicPlayer.pause(); musicPlaying = false } else { runCatching { musicPlayer.play() }.onSuccess { musicPlaying = true } } }, musicVolume, { musicVolume = it; musicPlayer.setVolume(it) }, hasMore, loadingMore, { loadMoreBooks() }) }
-                        "Koleksi" -> Box(Modifier.weight(1f)) { CollectionEmptyScreen() }
+                        "Koleksi" -> Box(Modifier.weight(1f)) { CollectionScreen(onBook = { selected = it }) }
                         "Donasi" -> Box(Modifier.weight(1f)) { DonationScreen() }
                         else -> Box(Modifier.weight(1f)) { AccountScreen() }
                     }
@@ -694,13 +694,61 @@ private fun EmptyVisual(title: String, subtitle: String, action: String?, onActi
 }
 
 @Composable
-private fun CollectionEmptyScreen() {
-    Column(Modifier.fillMaxSize().background(Paper).padding(24.dp), horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.Center) {
-        Box(Modifier.size(122.dp).clip(RoundedCornerShape(35.dp)).background(Mint), contentAlignment = Alignment.Center) { Text("▣", color = Green, fontSize = 58.sp) }
-        Spacer(Modifier.height(18.dp))
-        Text("Rak buku pribadimu", color = Ink, fontSize = 21.sp, fontWeight = FontWeight.ExtraBold)
-        Spacer(Modifier.height(7.dp))
-        Text("Buku yang sudah berhasil kamu buka akan tersimpan di sini.", color = Muted, fontSize = 13.sp, lineHeight = 19.sp)
+private fun CollectionScreen(onBook: (Book) -> Unit) {
+    val context = LocalContext.current
+    val savedBooks = remember(context) {
+        val prefs = context.getSharedPreferences("nextylibrary_reading_progress", Context.MODE_PRIVATE)
+        prefs.all.entries
+            .filter { it.key.startsWith("book_meta_") && it.value is String }
+            .mapNotNull { entry ->
+                runCatching {
+                    val json = org.json.JSONObject(entry.value as String)
+                    Book(
+                        id = json.optString("id"),
+                        title = json.optString("title", "Buku tanpa judul"),
+                        author = json.optString("author", "Penulis Nexty"),
+                        description = json.optString("description"),
+                        categoryId = json.optString("categoryId").takeIf { it.isNotBlank() },
+                        pageCount = json.optInt("pageCount", 0),
+                        coverPath = json.optString("coverPath").takeIf { it.isNotBlank() },
+                        contentPath = json.optString("contentPath").takeIf { it.isNotBlank() },
+                        language = json.optString("language").takeIf { it.isNotBlank() },
+                        licenseType = json.optString("licenseType").takeIf { it.isNotBlank() },
+                        licenseNote = json.optString("licenseNote").takeIf { it.isNotBlank() }
+                    ) to json.optLong("lastOpened", 0L)
+                }.getOrNull()
+            }
+            .filter { it.first.id.isNotBlank() }
+            .sortedByDescending { it.second }
+            .map { it.first }
+    }
+    LazyColumn(Modifier.fillMaxSize().background(Paper), contentPadding = PaddingValues(bottom = 24.dp)) {
+        item {
+            Column(Modifier.fillMaxWidth().background(Color.White).padding(horizontal = 20.dp, vertical = 20.dp)) {
+                Text("Rak Buku Pribadi", color = Ink, fontSize = 23.sp, fontWeight = FontWeight.ExtraBold)
+                Text("Buku yang pernah kamu buka tersimpan di sini.", color = Muted, fontSize = 12.sp)
+                Spacer(Modifier.height(8.dp))
+                Text("${savedBooks.size} buku tersimpan", color = Green, fontSize = 11.sp, fontWeight = FontWeight.Bold)
+            }
+        }
+        if (savedBooks.isEmpty()) {
+            item {
+                EmptyVisual(
+                    "Belum ada buku di koleksi",
+                    "Buka salah satu buku dari Beranda. Buku itu akan otomatis muncul di rak pribadimu.",
+                    null
+                ) {}
+            }
+        } else {
+            items(savedBooks.chunked(2)) { rowBooks ->
+                Row(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 6.dp), horizontalArrangement = Arrangement.spacedBy(12.dp)) {
+                    rowBooks.forEach { book ->
+                        BookGridCard(book, null, Modifier.weight(1f)) { onBook(book) }
+                    }
+                    if (rowBooks.size == 1) Spacer(Modifier.weight(1f))
+                }
+            }
+        }
     }
 }
 
@@ -963,12 +1011,31 @@ private fun BookIllustration(source: String, caption: String?, imageLoader: Imag
 
 @Composable
 private fun ReaderScreen(book: Book, musicPlaying: Boolean, onMusicToggle: () -> Unit, onBack: () -> Unit) {
+    val context = LocalContext.current
+    val readingProgress = remember(context) {
+        context.getSharedPreferences("nextylibrary_reading_progress", Context.MODE_PRIVATE)
+    }
+    LaunchedEffect(book.id) {
+        val metadata = org.json.JSONObject()
+            .put("id", book.id)
+            .put("title", book.title)
+            .put("author", book.author)
+            .put("description", book.description)
+            .put("categoryId", book.categoryId ?: "")
+            .put("pageCount", book.pageCount)
+            .put("coverPath", book.coverPath ?: "")
+            .put("contentPath", book.contentPath ?: "")
+            .put("language", book.language ?: "")
+            .put("licenseType", book.licenseType ?: "")
+            .put("licenseNote", book.licenseNote ?: "")
+            .put("lastOpened", System.currentTimeMillis())
+        readingProgress.edit().putString("book_meta_${book.id}", metadata.toString()).apply()
+    }
     val pdfSource = book.contentPath
     if (!pdfSource.isNullOrBlank() && (pdfSource.lowercase().substringBefore('?').endsWith(".pdf") || pdfSource.startsWith("pdf://") || pdfSource.contains("format=pdf", true))) {
         PdfBookReaderScreen(book, pdfSource.removePrefix("pdf://"), musicPlaying, onMusicToggle, onBack)
         return
     }
-    val context = LocalContext.current
     val illustrationImageLoader = remember(context) { ImageLoader.Builder(context).components { add(SvgDecoder.Factory()) }.build() }
     DisposableEffect(illustrationImageLoader) { onDispose { illustrationImageLoader.shutdown() } }
     var body by remember(book.id) { mutableStateOf<String?>(null) }
